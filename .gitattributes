@@ -1,0 +1,5 @@
+# Preserve provider assets unchanged.
+editions/** -text
+*.md text eol=lf
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text

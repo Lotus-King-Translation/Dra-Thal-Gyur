@@ -1,0 +1,934 @@
+{
+  "created_at": "2026-09-26T13:52:36.899292+00:00",
+  "editions": [
+    {
+      "folder": "adzom-2000",
+      "label": "Adzom Chögar, 2000",
+      "bdrc": "W1KG11703",
+      "volume": "1",
+      "status": "Catalogued facsimile range acquired",
+      "note": "Active source. The title through the final colophon are included. Cleaned e-text awaits project proofreading.",
+      "pages": 205,
+      "range": [
+        3,
+        207
+      ],
+      "missing_image_indices": []
+    },
+    {
+      "folder": "adzom-1973-1977",
+      "label": "Adzom / Sanje Dorje, 1973–1977",
+      "bdrc": "W1KG892",
+      "volume": "1",
+      "status": "Container PDF acquired; root mapping pending",
+      "note": "Original full container-volume PDF; root commonly cited at printed pp. 1–205. Related to the Adzom printing tradition; not assumed independent."
+    },
+    {
+      "folder": "dege-W1ER7",
+      "label": "Degé xylograph",
+      "bdrc": "W1ER7",
+      "volume": "I1ER175",
+      "status": "Catalogued facsimile range acquired",
+      "note": "Root range supplied in the shared worksheet and inspected in the images. The actual impression date is not established here.",
+      "pages": 111,
+      "range": [
+        647,
+        757
+      ],
+      "missing_image_indices": []
+    },
+    {
+      "folder": "tsamdrak-1982",
+      "label": "Tsamdrak manuscript facsimile, 1982",
+      "bdrc": "W21521",
+      "volume": "12",
+      "status": "Catalogued facsimile range acquired",
+      "note": "Printed pp. 2–173. Last image is shared with the next work; no cropping has been performed.",
+      "pages": 172,
+      "range": [
+        4,
+        175
+      ],
+      "missing_image_indices": []
+    },
+    {
+      "folder": "tharpaling-1983",
+      "label": "Tharpaling woodblock printing, 1983",
+      "bdrc": "W27491",
+      "volume": "2",
+      "status": "Catalogued facsimile range acquired",
+      "note": "Full root image range plus original container PDF and cleaned e-text. Print quality is uneven; e-text readings require scan checks.",
+      "pages": 147,
+      "range": [
+        5,
+        151
+      ],
+      "missing_image_indices": []
+    },
+    {
+      "folder": "tingkye-1973",
+      "label": "Tingkye manuscript facsimile, 1973",
+      "bdrc": "W21518",
+      "volume": "10",
+      "status": "Catalogued facsimile range acquired",
+      "note": "Printed pp. 386–530. Observed opening at image 394, line 5, is one image earlier than the structured catalogue start 395. Boundary pages retain neighbouring text.",
+      "pages": 145,
+      "range": [
+        394,
+        538
+      ],
+      "missing_image_indices": []
+    },
+    {
+      "folder": "dzongsar-manuscript",
+      "label": "Dzongsar old collection",
+      "bdrc": "W3PD988",
+      "volume": "147",
+      "status": "Catalogued facsimile range acquired",
+      "note": "Catalogued root range 5–252 acquired. Source images are very dark. Material description differs between worksheet and collection metadata; do not infer printing method solely from the folder name.",
+      "pages": 248,
+      "range": [
+        5,
+        252
+      ],
+      "missing_image_indices": []
+    },
+    {
+      "folder": "langtang-manuscript",
+      "label": "Langtang manuscript",
+      "bdrc": "W1ER124",
+      "volume": "3",
+      "status": "Facsimile with image-index gaps",
+      "note": "All available canvases from title through closing material acquired. Eight image indices are absent from the provider manifest; no claim of complete foliation.",
+      "pages": 212,
+      "range": [
+        2,
+        221
+      ],
+      "missing_image_indices": [
+        4,
+        5,
+        38,
+        39,
+        40,
+        41,
+        172,
+        173
+      ]
+    },
+    {
+      "folder": "seventeen-tantras-W1ER119",
+      "label": "Unspecified-provenance manuscript",
+      "bdrc": "W1ER119",
+      "volume": "5",
+      "status": "Facsimile with image-index gaps",
+      "note": "32 image indices are absent from the provider manifest within the selected range; treat as incomplete pending foliation audit.",
+      "pages": 168,
+      "range": [
+        2,
+        201
+      ],
+      "missing_image_indices": [
+        48,
+        49,
+        52,
+        53,
+        56,
+        57,
+        60,
+        61,
+        64,
+        65,
+        68,
+        69,
+        72,
+        73,
+        96,
+        97,
+        102,
+        103,
+        122,
+        123,
+        170,
+        171,
+        174,
+        175,
+        180,
+        181,
+        184,
+        185,
+        190,
+        191,
+        196,
+        197
+      ]
+    },
+    {
+      "folder": "gadkar-manuscript",
+      "label": "Gadkar manuscript",
+      "bdrc": "W1BL6 / W1ER156",
+      "volume": "32",
+      "status": "Catalogued facsimile range acquired",
+      "note": "Root record MW1BL6_0032_003 points to the W1ER156 virtual volume. Preserve virtual indices and actual image service identities separately.",
+      "pages": 177,
+      "range": [
+        441,
+        617
+      ],
+      "missing_image_indices": []
+    },
+    {
+      "folder": "khams-zhichen-manuscript",
+      "label": "Khams / Zhichen manuscript",
+      "bdrc": "W2PD17382",
+      "volume": "36",
+      "status": "Catalogued facsimile range acquired",
+      "note": "Catalogued root plus title leaf. Source record MW2PD17382_0036_003.",
+      "pages": 201,
+      "range": [
+        31,
+        231
+      ],
+      "missing_image_indices": []
+    },
+    {
+      "folder": "gcn-manuscript",
+      "label": "W1ER128 / rKTs Gcn collection",
+      "bdrc": "W1ER128",
+      "volume": "Unresolved digital packaging",
+      "status": "Container PDF acquired; root mapping pending",
+      "note": "Full first container PDF acquired. rKTs describes 19 logical texts; current BDRC packaging has three volumes. Do not identify digital volume 3 with Gcn3 merely by number. Root range remains unverified."
+    },
+    {
+      "folder": "sichuan-2016",
+      "label": "Sichuan typeset edition, 2016",
+      "bdrc": "W3CN7084",
+      "volume": "2",
+      "status": "E-text acquired; full scan not acquired",
+      "note": "Original cleaned e-text acquired. Internet Archive currently marks the scan access-restricted/copyright; no complete scan is stored here."
+    },
+    {
+      "folder": "paltseg-2009",
+      "label": "Paltség compilation, 2009",
+      "bdrc": "W1KG14783",
+      "volume": "5 (bibliographic)",
+      "status": "Catalogue / lead only",
+      "note": "Catalogue metadata only. The structured root location contains volume 0; do not use that field as a verified scan-volume mapping."
+    },
+    {
+      "folder": "ctrc-49-volume",
+      "label": "China Tibetology Research Centre, 49-volume edition",
+      "bdrc": "W3CN3207",
+      "volume": "3",
+      "status": "Catalogue / lead only",
+      "note": "Catalogue metadata and limited manifest only. Verified root record: MW3CN3207_O3CN3207_NAKR4R; the worksheet links a different part. No full root facsimile acquired."
+    },
+    {
+      "folder": "gangteng-EAP",
+      "label": "Gangteng cursive Seventeen Tantras collection",
+      "bdrc": "WEAP039-1-4-259",
+      "volume": "Unresolved",
+      "status": "Catalogue / lead only",
+      "note": "Archival collection lead, not yet an isolated or downloaded root-tantra witness."
+    }
+  ],
+  "files": [
+    {
+      "path": "editions/adzom-1973-1977/bdrc-W1KG892.pdf",
+      "bytes": 24434447,
+      "sha256": "ab7a3376249cd123a863578b10c1faf294d663862983d4d5cec7074dfa5f19d9"
+    },
+    {
+      "path": "editions/adzom-1973-1977/metadata/iiif-collection.json",
+      "bytes": 1515,
+      "sha256": "1f53dafd0dec3c37ea734e9e7546cd6d96b3c5cf991e592fc3cc742ac748a06c"
+    },
+    {
+      "path": "editions/adzom-1973-1977/metadata/internet-archive.json",
+      "bytes": 166065,
+      "sha256": "0104dc1ad5851a5c4b34bd3c9b4f7d02f4608072dad613db9c61eb9dbc2a047f"
+    },
+    {
+      "path": "editions/adzom-1973-1977/metadata/publication.json",
+      "bytes": 10732,
+      "sha256": "1a6cdb4106e325580cd9b19f4ca9e82fbbeb89ac9d0f789e89901b4d7c9bdc62"
+    },
+    {
+      "path": "editions/adzom-1973-1977/metadata/scan.json",
+      "bytes": 1847,
+      "sha256": "3bdd1f1d08c77f8e0df7deb0df7bcdaea022311b12ffae3ceb6788f4756c25f9"
+    },
+    {
+      "path": "editions/adzom-1973-1977/metadata/volume-manifest.json",
+      "bytes": 735360,
+      "sha256": "a2238597ac936f95dde1773f0b87744f77015ee9d20a433f58335221e894f60d"
+    },
+    {
+      "path": "editions/adzom-2000/W1KG11703_7.docx",
+      "bytes": 129677,
+      "sha256": "5660aafc5b0485f13b3b6f6cc6636c4bc7ee9d2468731723078df346565dd62b"
+    },
+    {
+      "path": "editions/adzom-2000/W1KG11703_7.txt",
+      "bytes": 461226,
+      "sha256": "18bd9ce65311e2d6d7c703f053a5c0aac347e899a75f8749a8f9afd891452edc"
+    },
+    {
+      "path": "editions/adzom-2000/a.txt",
+      "bytes": 461229,
+      "sha256": "9c7cccc4a8263014018353b65fc017845b059c31b9b7a08f4b17ca6ee0c60ccd"
+    },
+    {
+      "path": "editions/adzom-2000/etext-provenance.json",
+      "bytes": 678,
+      "sha256": "4de76322373938147ddc19568f35a684fec1a083eaacb9de4e8284d9e100d27a"
+    },
+    {
+      "path": "editions/adzom-2000/image-manifest.json",
+      "bytes": 88880,
+      "sha256": "0627280756a05102331dd6db70e09adb26609713c170d10f8601adddb945d436"
+    },
+    {
+      "path": "editions/adzom-2000/metadata/iiif-collection.json",
+      "bytes": 2894,
+      "sha256": "44f450f670f8494ca650400192d1e0026d7a47a2cb8b7fe2568bd196f209ffe8"
+    },
+    {
+      "path": "editions/adzom-2000/metadata/internet-archive.json",
+      "bytes": 21866,
+      "sha256": "006b202ab4b099cd4c3626752aba818cd47de3ceca7b64e52abe3a3da2f402c2"
+    },
+    {
+      "path": "editions/adzom-2000/metadata/publication.json",
+      "bytes": 11608,
+      "sha256": "d7e6bdd6c22be01678ac61fa858eef9245f1a0812bccf0893f65587213dcca5c"
+    },
+    {
+      "path": "editions/adzom-2000/metadata/root-text.json",
+      "bytes": 4276,
+      "sha256": "6f91747b78b5684175079a41f89b4f84da3c32b4441f6b5134db5045937289d7"
+    },
+    {
+      "path": "editions/adzom-2000/metadata/scan.json",
+      "bytes": 2220,
+      "sha256": "28572181ffb293d327a3825d5f661e41d9b9875d52d1a3e126b722adecba6889"
+    },
+    {
+      "path": "editions/adzom-2000/metadata/volume-manifest.json",
+      "bytes": 368519,
+      "sha256": "8e19bc2d80219671ce0360c341375bc030b2ef8a935c8a1ebab3b2ea6b544789"
+    },
+    {
+      "path": "editions/adzom-2000/original-images.zip",
+      "bytes": 37281893,
+      "sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb"
+    },
+    {
+      "path": "editions/adzom-2000/sgra-thal-gyur.pdf",
+      "bytes": 37358206,
+      "sha256": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343"
+    },
+    {
+      "path": "editions/adzom-wikisource/PROVENANCE.json",
+      "bytes": 579,
+      "sha256": "be1b0af526c390d4bf999f7e7960a252ed94c5f6032c6c64236dc796019f990e"
+    },
+    {
+      "path": "editions/adzom-wikisource/sgra-thal-gyur.wikitext",
+      "bytes": 173745,
+      "sha256": "d2a6e95e8c65d28d7812efa79d65bd397a0796a9e00621430a86b5713b70ede8"
+    },
+    {
+      "path": "editions/adzom-wikisource/source.wikitext",
+      "bytes": 173745,
+      "sha256": "d2a6e95e8c65d28d7812efa79d65bd397a0796a9e00621430a86b5713b70ede8"
+    },
+    {
+      "path": "editions/ctrc-49-volume/metadata/iiif-collection.json",
+      "bytes": 18193,
+      "sha256": "d5767d6b91e997f10364a3d58a5be803dc059d7c7a9cb7c25c7b7a2b72858172"
+    },
+    {
+      "path": "editions/ctrc-49-volume/metadata/internet-archive.json",
+      "bytes": 189220,
+      "sha256": "a18052b5c418de3ee192911aff26435147fae22d16c688528eba66f64f827fe6"
+    },
+    {
+      "path": "editions/ctrc-49-volume/metadata/publication.json",
+      "bytes": 13679,
+      "sha256": "407df1bc9d17d487bd5a3bba290c531e4228639e0f5851a2b32defa2808ba59d"
+    },
+    {
+      "path": "editions/ctrc-49-volume/metadata/root-text.json",
+      "bytes": 3338,
+      "sha256": "1cdf6e65d8dac47995870954edcdfe2784f82583764c87b814ce4415c3ac09b4"
+    },
+    {
+      "path": "editions/ctrc-49-volume/metadata/scan.json",
+      "bytes": 5925,
+      "sha256": "66259edc9dafd073621f1e53ec595c77abf684a4f834337a057bb933cceee6d9"
+    },
+    {
+      "path": "editions/ctrc-49-volume/metadata/volume-manifest.json",
+      "bytes": 36403,
+      "sha256": "5eb1daddab1291d1ea78d48589566b2403eff6c83ef88fda3119cd1c271e15a9"
+    },
+    {
+      "path": "editions/dege-W1ER7/image-manifest.json",
+      "bytes": 47489,
+      "sha256": "5decfdd06f9dc2e2fc4de910937b1679d5ed353daee58167a99b3864321d5d24"
+    },
+    {
+      "path": "editions/dege-W1ER7/metadata/iiif-collection.json",
+      "bytes": 7051,
+      "sha256": "024125bd5da61d87f0ed01066f77ec5c7665624f2f19c710e38791835f965ad1"
+    },
+    {
+      "path": "editions/dege-W1ER7/metadata/internet-archive.json",
+      "bytes": 3,
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+    },
+    {
+      "path": "editions/dege-W1ER7/metadata/publication.json",
+      "bytes": 3082,
+      "sha256": "574608d0ab6befb069cb979da2550b25ecf5e3372a7b15d4ec097bea39c8d0d7"
+    },
+    {
+      "path": "editions/dege-W1ER7/metadata/scan.json",
+      "bytes": 4209,
+      "sha256": "3532243f31fe725a50860fd15c9e233162f55580e466acf1772674944467148c"
+    },
+    {
+      "path": "editions/dege-W1ER7/metadata/volume-manifest.json",
+      "bytes": 620503,
+      "sha256": "da173e9d006e62d0afe959a8ad6afe76e79aa87b17e596ba9e5b9194494a546a"
+    },
+    {
+      "path": "editions/dege-W1ER7/original-images.zip",
+      "bytes": 62534862,
+      "sha256": "a8ffd9a77c493ee5faf926245604eec8bd2c05b733d5505d1021e715ac76b0a7"
+    },
+    {
+      "path": "editions/dege-W1ER7/sgra-thal-gyur.pdf",
+      "bytes": 62581344,
+      "sha256": "8c6b177a1fe8373a478f057d77afa747287d33a8673d7eb526ca8d89b29c8e04"
+    },
+    {
+      "path": "editions/dzongsar-manuscript/image-manifest.json",
+      "bytes": 106478,
+      "sha256": "5376f1485ededbbf0edb329e929ef7ea93f5096441d0f36e249c66081b2ba38a"
+    },
+    {
+      "path": "editions/dzongsar-manuscript/metadata/iiif-collection.json",
+      "bytes": 78758,
+      "sha256": "b7ea1b5f547f769182eafd89d20189ab71c0750f272f44a482ac7889a86e2823"
+    },
+    {
+      "path": "editions/dzongsar-manuscript/metadata/internet-archive.json",
+      "bytes": 3606,
+      "sha256": "0e2faafa4b57db6ddb22320dd65262314d4e255acbb9fb2f29c4116ee26fa964"
+    },
+    {
+      "path": "editions/dzongsar-manuscript/metadata/publication.json",
+      "bytes": 25253,
+      "sha256": "e315662e7c76fc8a72d33e25817eb7352e8184351a53f34a27dfd9255f35f562"
+    },
+    {
+      "path": "editions/dzongsar-manuscript/metadata/root-text.json",
+      "bytes": 3604,
+      "sha256": "ff0e8b2ef98456b8be3bc7b226be90e62ab64af70307359697da2c5634d10cb6"
+    },
+    {
+      "path": "editions/dzongsar-manuscript/metadata/scan.json",
+      "bytes": 22137,
+      "sha256": "3777d6231fe15d6b50a65504908ba853bcfee3b41d9212a22fe0f0c8e6189221"
+    },
+    {
+      "path": "editions/dzongsar-manuscript/metadata/volume-manifest.json",
+      "bytes": 323382,
+      "sha256": "a0094e240dab6357dcc5ac0f42e570504fff30c400da096dd41094e76a2e8232"
+    },
+    {
+      "path": "editions/dzongsar-manuscript/original-images.zip",
+      "bytes": 85226188,
+      "sha256": "6ca10591c89b451e20ebadda14840b3dc39706413fc749d270d0ad09f245d0d8"
+    },
+    {
+      "path": "editions/dzongsar-manuscript/sgra-thal-gyur.pdf",
+      "bytes": 85329447,
+      "sha256": "5ec4cf4035136ceb4eaffdc47001358c5983aba39e63aed096aedfa4b586559f"
+    },
+    {
+      "path": "editions/etext-inventory.json",
+      "bytes": 2125,
+      "sha256": "f00fb0a2736f4964f6e6ee2efce02da25eeb6ee0e6c2b72a1451bcd2693b1e0b"
+    },
+    {
+      "path": "editions/gadkar-manuscript/image-manifest.json",
+      "bytes": 75480,
+      "sha256": "6b7e380482f9d06f3489a63eb00148bf0a18e8799949945982cc0a778020adf9"
+    },
+    {
+      "path": "editions/gadkar-manuscript/metadata/iiif-collection.json",
+      "bytes": 11892,
+      "sha256": "c178b58241089dc4032cee5fa943ca3635f504083cf355b02719a736a5f44210"
+    },
+    {
+      "path": "editions/gadkar-manuscript/metadata/internet-archive.json",
+      "bytes": 2,
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+    },
+    {
+      "path": "editions/gadkar-manuscript/metadata/publication.json",
+      "bytes": 36371,
+      "sha256": "424b38fa4c7645b98319ad39006b42d891ad192418bb5aeb0a2740b9626f25c5"
+    },
+    {
+      "path": "editions/gadkar-manuscript/metadata/root-text.json",
+      "bytes": 3701,
+      "sha256": "e47d70bc81a8e6acd3c1aec3252d2e0728cf81f3e2d6b69e621b9771b9c58183"
+    },
+    {
+      "path": "editions/gadkar-manuscript/metadata/scan.json",
+      "bytes": 3983,
+      "sha256": "9360e1a1fb02a3448004cb946ea45aab62629127c4da42d70164826bec0328c4"
+    },
+    {
+      "path": "editions/gadkar-manuscript/metadata/volume-manifest.json",
+      "bytes": 1512503,
+      "sha256": "435be2d77f8dfa8466c3cf3e09b6acf24b67ad208658a9d9e7bbb8f426899465"
+    },
+    {
+      "path": "editions/gadkar-manuscript/original-images.zip",
+      "bytes": 107878168,
+      "sha256": "2abadd1452d2049b047daa9190ee5a2095452336fc194c4f968ce3b877282dcd"
+    },
+    {
+      "path": "editions/gadkar-manuscript/sgra-thal-gyur.pdf",
+      "bytes": 107950286,
+      "sha256": "c1c383afa65ec4abc2108f11609147e44761ee471e96e8b320f6ecb5cf8e3ebe"
+    },
+    {
+      "path": "editions/gangteng-EAP/metadata/internet-archive.json",
+      "bytes": 2,
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+    },
+    {
+      "path": "editions/gangteng-EAP/metadata/publication.json",
+      "bytes": 12488,
+      "sha256": "a9bb87e07e1f47877523a859e6e3bf4adf875c6dd659585551091919c5151987"
+    },
+    {
+      "path": "editions/gangteng-EAP/metadata/scan.json",
+      "bytes": 930,
+      "sha256": "a446c720f39057a10ba38e00931f5c77d493fb516282a533a600827281dc7a37"
+    },
+    {
+      "path": "editions/gcn-manuscript/bdrc-W1ER128.pdf",
+      "bytes": 53473251,
+      "sha256": "0e32b67b69e6bc57059993c511981154c15f5eeacad2217003f03bae124f0501"
+    },
+    {
+      "path": "editions/gcn-manuscript/metadata/iiif-collection.json",
+      "bytes": 1153,
+      "sha256": "9bb1c39ad8740a021f9e52f6b30091b95f1f76982ccd89490b645e9998c771dd"
+    },
+    {
+      "path": "editions/gcn-manuscript/metadata/internet-archive.json",
+      "bytes": 249934,
+      "sha256": "79e2cf9ec5a3dfaf213ec9d1c7d2eadfdc9143796dfe55f803a62478146eca10"
+    },
+    {
+      "path": "editions/gcn-manuscript/metadata/publication.json",
+      "bytes": 2621,
+      "sha256": "e2501468c13387c70ff549a8fb7fc201371c911b21276a79f7134117b723bf42"
+    },
+    {
+      "path": "editions/gcn-manuscript/metadata/scan.json",
+      "bytes": 1612,
+      "sha256": "9615dd77a731b9f9ef9ebf4d7f1e5e773e8d5061a7bda558e23466c9e617dfb2"
+    },
+    {
+      "path": "editions/gcn-manuscript/metadata/volume-manifest.json",
+      "bytes": 21798,
+      "sha256": "2d186f3868219b5b864f02c67677abdf466361fea0d1273008d19587b04b94a8"
+    },
+    {
+      "path": "editions/khams-zhichen-manuscript/image-manifest.json",
+      "bytes": 87204,
+      "sha256": "15acee60c38430792b82af2cd39dcb023a3e0203515725ef69d4f4eef2d0a10f"
+    },
+    {
+      "path": "editions/khams-zhichen-manuscript/metadata/iiif-collection.json",
+      "bytes": 16151,
+      "sha256": "75ba1b27795e1d6730c2142ceed25b93c3f1157e53ea12ea66257912e6d2978e"
+    },
+    {
+      "path": "editions/khams-zhichen-manuscript/metadata/internet-archive.json",
+      "bytes": 3491,
+      "sha256": "d082a17073072bc67a3da651bd32872061e6911172072119d10cd0c15360d70d"
+    },
+    {
+      "path": "editions/khams-zhichen-manuscript/metadata/publication.json",
+      "bytes": 48675,
+      "sha256": "8a9beeaef8d843202a1ca5415947522edc7858f905d97a89b40304a2a7860dba"
+    },
+    {
+      "path": "editions/khams-zhichen-manuscript/metadata/root-text.json",
+      "bytes": 3710,
+      "sha256": "bda9e4a0425a6dc5b9a0440a18fc8b287f098ad55cf8b93de52bfb9954ee7ef0"
+    },
+    {
+      "path": "editions/khams-zhichen-manuscript/metadata/scan.json",
+      "bytes": 5384,
+      "sha256": "5526f328880bdee7a9cec8e709ee2f43bb565d6f09ea6d3270ca590b53280e44"
+    },
+    {
+      "path": "editions/khams-zhichen-manuscript/metadata/volume-manifest.json",
+      "bytes": 300159,
+      "sha256": "f5e5d9d3c12edf5e89ccdc9d7c4e2ccf2a2befdb164ceb413eb4348b4e485238"
+    },
+    {
+      "path": "editions/khams-zhichen-manuscript/original-images.zip",
+      "bytes": 49406955,
+      "sha256": "ed2f6b17c07b8880b0b5f6a8218c0eb4e445b95ad87b93409d01c0d515548ca7"
+    },
+    {
+      "path": "editions/khams-zhichen-manuscript/sgra-thal-gyur.pdf",
+      "bytes": 49507170,
+      "sha256": "5ce221203d5db067da644969b2bf336fa7222906c83fd8d9757e84212e244ee8"
+    },
+    {
+      "path": "editions/langtang-manuscript/image-manifest.json",
+      "bytes": 90289,
+      "sha256": "b13aba655042a3cb2d7fe99c30063bdda5468c6b296afeee62067517d659bc93"
+    },
+    {
+      "path": "editions/langtang-manuscript/metadata/iiif-collection.json",
+      "bytes": 3769,
+      "sha256": "68171d8d72f04e04af5b4e1e5fc0eb45a5b1f05fb9db44a3bb4fdfa05648534f"
+    },
+    {
+      "path": "editions/langtang-manuscript/metadata/internet-archive.json",
+      "bytes": 139847,
+      "sha256": "b953a04c0c9eefa95d676994092da1e8e59f3353ff13fc0ec261fe2b89377821"
+    },
+    {
+      "path": "editions/langtang-manuscript/metadata/publication.json",
+      "bytes": 2835,
+      "sha256": "c183df530fb1bd297f41098dcbe8623b17b9596f31b4f0eb9eee33f5af47d211"
+    },
+    {
+      "path": "editions/langtang-manuscript/metadata/scan.json",
+      "bytes": 3014,
+      "sha256": "fd6a86573b30ea899a96cc02fd5f7c7cd9f24fd7bd9ebbe90f62d7ea78bc08fd"
+    },
+    {
+      "path": "editions/langtang-manuscript/metadata/volume-manifest.json",
+      "bytes": 190725,
+      "sha256": "6c2c5450d4589880dae0689e845fa42a872c4d32735e04c0ce5e02d6056882d0"
+    },
+    {
+      "path": "editions/langtang-manuscript/original-images.zip",
+      "bytes": 106751358,
+      "sha256": "3dbb88b105e15c268cf634d51ecde7af110662e5bdef36de60bfe6fbed733bad"
+    },
+    {
+      "path": "editions/langtang-manuscript/sgra-thal-gyur.pdf",
+      "bytes": 106837615,
+      "sha256": "53dca79c44e651d234622446e0cda492742e63a0b65faa3b0f27ee5ac1ea22c2"
+    },
+    {
+      "path": "editions/paltseg-2009/metadata/alternative-root-record.json",
+      "bytes": 3411,
+      "sha256": "f5bbd267bc5af63da6d18aa639568f584d40326c17db0652985e6a532a4135b0"
+    },
+    {
+      "path": "editions/paltseg-2009/metadata/internet-archive.json",
+      "bytes": 1337079,
+      "sha256": "b7775e8e66be41409a571d5b79c03ce81bfb10898d2437f5a6cea5c56af9fb40"
+    },
+    {
+      "path": "editions/paltseg-2009/metadata/publication.json",
+      "bytes": 118878,
+      "sha256": "931424caab1074b662d5c8c42e8eb37d18927a948c4401c45d416c64c96b129f"
+    },
+    {
+      "path": "editions/paltseg-2009/metadata/root-text.json",
+      "bytes": 4280,
+      "sha256": "d0547153a4d1ec00e0220bc69ee6f1f840c6cd3d3532a941ef835bc81bf43bc3"
+    },
+    {
+      "path": "editions/paltseg-2009/metadata/scan.json",
+      "bytes": 7189,
+      "sha256": "e8413ecf1c703e5e282080f397881db44e002cef2051710fa20311a53306182c"
+    },
+    {
+      "path": "editions/research/original-text-files.json",
+      "bytes": 1349,
+      "sha256": "4bad86352fa06c3eec9ccce5923b6b454249aa2dd91f6578f3e4d31c940e243a"
+    },
+    {
+      "path": "editions/research/webuddhist-witness-worksheet.xlsx",
+      "bytes": 73303,
+      "sha256": "9b51ea209e5b94e6743b04ed149dbf07697254dc8d5d89dd5fcb484417c1628e"
+    },
+    {
+      "path": "editions/seventeen-tantras-W1ER119/image-manifest.json",
+      "bytes": 71854,
+      "sha256": "89654d9d377d1ef651357650cb09f13a82013b213a47de3fdaf34fea45420ac5"
+    },
+    {
+      "path": "editions/seventeen-tantras-W1ER119/metadata/iiif-collection.json",
+      "bytes": 3062,
+      "sha256": "358945476086fc77db82b230a8477452579e481d931453eacaf4f7bd34a77a4e"
+    },
+    {
+      "path": "editions/seventeen-tantras-W1ER119/metadata/internet-archive.json",
+      "bytes": 2264,
+      "sha256": "ab6dfbdd92733475e8cfed8d1005492a68e4be46ec6db857297d4a098cd85765"
+    },
+    {
+      "path": "editions/seventeen-tantras-W1ER119/metadata/publication.json",
+      "bytes": 5305,
+      "sha256": "7d3b72009c2c4b8c1cde7877a659f4799de7b659494bf9c13064366cd07ecba5"
+    },
+    {
+      "path": "editions/seventeen-tantras-W1ER119/metadata/root-text.json",
+      "bytes": 2863,
+      "sha256": "b446b2b59bf09c8514bc153a108cdd43fcc977636e993e77c9e033d2336ea939"
+    },
+    {
+      "path": "editions/seventeen-tantras-W1ER119/metadata/scan.json",
+      "bytes": 1997,
+      "sha256": "bb56a3eb7d55b09d95ad06a3b6aef30566571efb8bfb54c6e10d76f907c12c13"
+    },
+    {
+      "path": "editions/seventeen-tantras-W1ER119/metadata/volume-manifest.json",
+      "bytes": 288913,
+      "sha256": "9d0160472dd232ff70d17dd703137358f35f09ef78f3da2ceed3b3c351ffca5b"
+    },
+    {
+      "path": "editions/seventeen-tantras-W1ER119/original-images.zip",
+      "bytes": 69470418,
+      "sha256": "f39b1aae7fa96d800f3ce8d60812365afd62f04ae7ade266c387c92c8bfe157d"
+    },
+    {
+      "path": "editions/seventeen-tantras-W1ER119/sgra-thal-gyur.pdf",
+      "bytes": 69538889,
+      "sha256": "c2230c75763c0968e9f6d1327ac37426b080ceef9a09022ceb02071339e606ea"
+    },
+    {
+      "path": "editions/sichuan-2016/W3CN7084_7.docx",
+      "bytes": 132076,
+      "sha256": "2bdc5f0470bf4311caae308ee1cbef83d21e060021f7f0cf4e79f3608d704567"
+    },
+    {
+      "path": "editions/sichuan-2016/W3CN7084_7.txt",
+      "bytes": 463712,
+      "sha256": "2cf6b52889211579dff68f2e064032f40926de266242f111b3c94bb4efa47c57"
+    },
+    {
+      "path": "editions/sichuan-2016/etext-provenance.json",
+      "bytes": 682,
+      "sha256": "ef89048d8fc62d03b9ad6990ea239f9e812678889db29c5cf7a4975fdbb048be"
+    },
+    {
+      "path": "editions/sichuan-2016/metadata/iiif-collection.json",
+      "bytes": 1659,
+      "sha256": "f4738552fe7662de9d3498c0c22bedaf6a88dc95fcfbec7890649d82d41ffa4f"
+    },
+    {
+      "path": "editions/sichuan-2016/metadata/internet-archive.json",
+      "bytes": 15746,
+      "sha256": "bcecb00ee205eed5b063b2fe9190fc1eec1a08fbf2b73f5fc7b5c1ca38f2dc94"
+    },
+    {
+      "path": "editions/sichuan-2016/metadata/publication.json",
+      "bytes": 10426,
+      "sha256": "9cc33464271d08de5153af3730af5e091058527b0f7029349d4c239dae649cdf"
+    },
+    {
+      "path": "editions/sichuan-2016/metadata/scan.json",
+      "bytes": 1395,
+      "sha256": "c8876d8d13715c188a582e450971d8dafc56cb3719d4a8d4d754b1292d20e5c2"
+    },
+    {
+      "path": "editions/sichuan-2016/metadata/volume-manifest.json",
+      "bytes": 67122,
+      "sha256": "b360b98e37466d3619a062f1d4d6c6598008227cf746a6f366c5229a4c2ecd2a"
+    },
+    {
+      "path": "editions/sichuan-2016/s.txt",
+      "bytes": 463715,
+      "sha256": "32c8281eee82651da3e187a1b3fc33aca96bef31aff4ddd5c395e1ab5dfec1e4"
+    },
+    {
+      "path": "editions/tharpaling-1983/W27491_7.docx",
+      "bytes": 130228,
+      "sha256": "d318640a147545b7c3465b4d23699a4e297bc121aecc71ca10d939cc7e3aece5"
+    },
+    {
+      "path": "editions/tharpaling-1983/W27491_7.txt",
+      "bytes": 463368,
+      "sha256": "df05454b1ca21d893188b30e00b7b463abe369afc6ec26d917354a7d6de464c3"
+    },
+    {
+      "path": "editions/tharpaling-1983/b.txt",
+      "bytes": 463370,
+      "sha256": "ebaf88ccb3c0222d3bdbffc1208986003cd794e4f7380c76f8308176d8a674b8"
+    },
+    {
+      "path": "editions/tharpaling-1983/bdrc-W27491-1.pdf",
+      "bytes": 16129647,
+      "sha256": "bb9637516e8018dde4cf0dfda51909ef15e359755179e55b0575c5cabd21804f"
+    },
+    {
+      "path": "editions/tharpaling-1983/etext-provenance.json",
+      "bytes": 687,
+      "sha256": "fd9bcf358d24b3254f78ab005d62c146487a0292a220d29338a279ccdf89f1dd"
+    },
+    {
+      "path": "editions/tharpaling-1983/image-manifest.json",
+      "bytes": 60890,
+      "sha256": "35d27af1c02727e3dedc886b27cf692dc4178fe772179f767d6b4488a7e64f1d"
+    },
+    {
+      "path": "editions/tharpaling-1983/metadata/iiif-collection.json",
+      "bytes": 1591,
+      "sha256": "142f41404f435c9c4f501bf03ce6004694673f8def4d0e8a34a046b05887d81e"
+    },
+    {
+      "path": "editions/tharpaling-1983/metadata/internet-archive.json",
+      "bytes": 116844,
+      "sha256": "7515e7b0703b280ad9cc6933437c208689d1a83e373304b89a939ef38a6241ea"
+    },
+    {
+      "path": "editions/tharpaling-1983/metadata/publication.json",
+      "bytes": 13393,
+      "sha256": "432a5c3022ff463a7263bb530e848bc05042a4df6f7fefecfbef34de1a863311"
+    },
+    {
+      "path": "editions/tharpaling-1983/metadata/root-text.json",
+      "bytes": 3387,
+      "sha256": "aeca9e7f5bf2792ab46735acb5aa108adbd3f6a38f998e18ec56c671f4a78ad6"
+    },
+    {
+      "path": "editions/tharpaling-1983/metadata/scan.json",
+      "bytes": 2019,
+      "sha256": "e819a5b82b338d558b02ba9b55c0c0752d6c66d31d0e51ebfb7bae8b9c8c0e2e"
+    },
+    {
+      "path": "editions/tharpaling-1983/metadata/volume-manifest.json",
+      "bytes": 549698,
+      "sha256": "f117b0c7b1a249ff59e6031236e01132905679ce31fdae7d939a40bbdaef9ce0"
+    },
+    {
+      "path": "editions/tharpaling-1983/original-images.zip",
+      "bytes": 5350757,
+      "sha256": "0db483526569febb8ec246819c929ea5834acec599240e212de4dbfff1721791"
+    },
+    {
+      "path": "editions/tharpaling-1983/sgra-thal-gyur.pdf",
+      "bytes": 5413594,
+      "sha256": "db895ffc9850a728e25add92491341039547f999fff80d7e73e9521ada10b550"
+    },
+    {
+      "path": "editions/tingkye-1973/bdrc-W21518-9.pdf",
+      "bytes": 28219898,
+      "sha256": "f7b32673173ee3d944dadff0ddcf1afbb3fddb9edf3c6a6ab08c8e8aeb22255c"
+    },
+    {
+      "path": "editions/tingkye-1973/image-manifest.json",
+      "bytes": 60310,
+      "sha256": "ddc50f140b33e2115d2dc05a43365286953b7c7a5c5d5810090e04ac63d3d53b"
+    },
+    {
+      "path": "editions/tingkye-1973/metadata/iiif-collection.json",
+      "bytes": 16869,
+      "sha256": "eee6bab70012b239c7819453e6df9c1a443f117675f8f957d5c5d2309dd6a779"
+    },
+    {
+      "path": "editions/tingkye-1973/metadata/internet-archive.json",
+      "bytes": 228760,
+      "sha256": "28eda87cd2abfd1e45cfcbe9988d9ca4cafde579b89e0f1062a33a8e613adfa8"
+    },
+    {
+      "path": "editions/tingkye-1973/metadata/publication.json",
+      "bytes": 16797,
+      "sha256": "864a13e648bd93ee06345e7e6f9a96a0085fef93493a7ce0f61bfe37cc1d42a9"
+    },
+    {
+      "path": "editions/tingkye-1973/metadata/root-text.json",
+      "bytes": 3775,
+      "sha256": "8cd5b13b06feb7f0fc12ebea9ff3ad237d45f0c837425cee7ea842b092b2616d"
+    },
+    {
+      "path": "editions/tingkye-1973/metadata/scan.json",
+      "bytes": 4923,
+      "sha256": "839511b3492c41e6417b9dce52ae559db2d0d7b8e3fa399f6d249f4395553f20"
+    },
+    {
+      "path": "editions/tingkye-1973/metadata/volume-manifest.json",
+      "bytes": 629086,
+      "sha256": "bd19cb1a8c9a9bd7dacbd00a4a62860b759209a0fe844cf6c8b4d669e94adf28"
+    },
+    {
+      "path": "editions/tingkye-1973/original-images.zip",
+      "bytes": 12951378,
+      "sha256": "272016895d7d81c45f0f1972243cbe5a8478aeb6722e8afb4a5372672b6c6bbd"
+    },
+    {
+      "path": "editions/tingkye-1973/sgra-thal-gyur.pdf",
+      "bytes": 13011254,
+      "sha256": "573e785a586f1c99af9e4d5c54c0d36fefa4a49c28b4d296f1bf31ef249f1723"
+    },
+    {
+      "path": "editions/tsamdrak-1982/image-manifest.json",
+      "bytes": 71357,
+      "sha256": "fa953f7f7367cc41cbde1c3a1b2e76819f6b0f1abb440be4e99729a9cdef6a02"
+    },
+    {
+      "path": "editions/tsamdrak-1982/metadata/iiif-collection.json",
+      "bytes": 10092,
+      "sha256": "d3a6ee21e894b4b727b2185f4e1fa5210bb82a182bbc20749ef17fa4434d1346"
+    },
+    {
+      "path": "editions/tsamdrak-1982/metadata/internet-archive.json",
+      "bytes": 25996,
+      "sha256": "4f72903069adb463f9c3db741d63407b4bcc3be5066168df878a70f25171034a"
+    },
+    {
+      "path": "editions/tsamdrak-1982/metadata/publication.json",
+      "bytes": 7187,
+      "sha256": "a166a04f15308a3fade5825e99144b80e63a1cda5e47a5e5f0ad2d07937be3dd"
+    },
+    {
+      "path": "editions/tsamdrak-1982/metadata/root-text.json",
+      "bytes": 2889,
+      "sha256": "e67a7025e3185dace576f88f5bb5318415e9a2d43c0c7d23755ede2deeb5dfc9"
+    },
+    {
+      "path": "editions/tsamdrak-1982/metadata/scan.json",
+      "bytes": 5784,
+      "sha256": "c5f3cd190b3e602c224ecaaed9dc6f0398d08522f1d4c17bd2a43466e2236287"
+    },
+    {
+      "path": "editions/tsamdrak-1982/metadata/volume-manifest.json",
+      "bytes": 706281,
+      "sha256": "a85430444b04f2f7ef5cc791a8d66f61640db436a08e549b6048735933702d87"
+    },
+    {
+      "path": "editions/tsamdrak-1982/original-images.zip",
+      "bytes": 14499981,
+      "sha256": "04800613525c2504199ae5703da0f0b17588d57ccbe11e9a730650218e9d778e"
+    },
+    {
+      "path": "editions/tsamdrak-1982/sgra-thal-gyur.pdf",
+      "bytes": 14570439,
+      "sha256": "a35e69ef7543683f1a862602750d066a735b140729d19c682287d5d63a641292"
+    }
+  ],
+  "scope": "Acquisition and integrity audit, not textual collation or full foliation audit",
+  "new_ocr_performed": false
+}

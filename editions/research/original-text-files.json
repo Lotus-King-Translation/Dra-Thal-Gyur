@@ -1,0 +1,29 @@
+[
+  {
+    "edition": "adzom-2000",
+    "path": "editions/adzom-2000/a.txt",
+    "source_url": "https://drive.google.com/file/d/12UZ8EyGRt4BrEuihgbP2lSIioAKroCn5",
+    "sha256": "9c7cccc4a8263014018353b65fc017845b059c31b9b7a08f4b17ca6ee0c60ccd",
+    "bytes": 461229,
+    "matches_docx_extraction": true,
+    "comparison": "Decode UTF-8 BOM as signature, strip outer whitespace only; no internal normalization. Original file bytes unchanged."
+  },
+  {
+    "edition": "tharpaling-1983",
+    "path": "editions/tharpaling-1983/b.txt",
+    "source_url": "https://drive.google.com/file/d/13hRIABxLQ3GPF2zpYNPtcSD4RJS6C4cg",
+    "sha256": "ebaf88ccb3c0222d3bdbffc1208986003cd794e4f7380c76f8308176d8a674b8",
+    "bytes": 463370,
+    "matches_docx_extraction": true,
+    "comparison": "Decode UTF-8 BOM as signature, strip outer whitespace only; no internal normalization. Original file bytes unchanged."
+  },
+  {
+    "edition": "sichuan-2016",
+    "path": "editions/sichuan-2016/s.txt",
+    "source_url": "https://drive.google.com/file/d/14PyBmbwRQbasXQoowCIwVoEEef2SZ4gY",
+    "sha256": "32c8281eee82651da3e187a1b3fc33aca96bef31aff4ddd5c395e1ab5dfec1e4",
+    "bytes": 463715,
+    "matches_docx_extraction": true,
+    "comparison": "Decode UTF-8 BOM as signature, strip outer whitespace only; no internal normalization. Original file bytes unchanged."
+  }
+]

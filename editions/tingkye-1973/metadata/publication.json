@@ -1,0 +1,308 @@
+{ 
+  "http://purl.bdrc.io/resource/NT39B017212508051D" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/Note"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/noteText" : [ { 
+      "type" : "literal" ,
+      "value" : "tbrc holds digitally scanned images, tiff and pdf files, tbrc volume numbers 1719, 1751, 1757-1790\n\nincluded on tranche 2 of the tbrc digital library\na collection of ancient tantras of the rnying ma tradition, scanned from h.h. dilgo khyentse rinpoche's reprint of a 36 volume manuscript of the nyingma gyubum brought to sikkim from the monastery of tingkye gonpa jang in tibet." ,
+      "lang" : "en"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/EVCB66E16251CC1123" : { 
+    "http://purl.bdrc.io/ontology/core/notAfter" : [ { 
+      "type" : "literal" ,
+      "value" : "1975" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#gYear"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/PublishedEvent"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/eventWhen" : [ { 
+      "type" : "literal" ,
+      "value" : "1973/1975" ,
+      "datatype" : "http://id.loc.gov/datatypes/edtf/EDTF"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/notBefore" : [ { 
+      "type" : "literal" ,
+      "value" : "1973" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#gYear"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/TTB4A4616F823D8D12" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/ColophonTitle"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "rnying ma rgyud 'bum (gting skyes)" ,
+      "lang" : "bo-x-ewts"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/TT8798243A1070C4F0" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/CoverTitle"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "Rñiṅ maʾi rgyud ʾbum :a collection of treasured tantras translated during the period of the first propagation of Buddhism in Tibet." ,
+      "lang" : "en-x-mixed"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/MW21518" : { 
+    "http://purl.bdrc.io/ontology/core/inCollection" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/PR1PL480"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#altLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "rnying ma'i rgyud 'bum : a collection treasured tantras translated during the period the first propagation buddhism in tibet" ,
+      "lang" : "en-x-mixed"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/publisherName" : [ { 
+      "type" : "literal" ,
+      "value" : "dil mgo mkhyen brtse rin po che/" ,
+      "lang" : "bo-x-ewts"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/Instance"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/publisherLocation" : [ { 
+      "type" : "literal" ,
+      "value" : "Thimphu" ,
+      "lang" : "en"
+    }
+    , { 
+      "type" : "literal" ,
+      "value" : "ཐིམ་ཕུག" ,
+      "lang" : "bo"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/script" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/ScriptDbuCan"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/printMethod" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/PrintMethod_Manuscript"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/hasOutline" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/O1CT1002"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/hasPart" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW21518_56EBFF"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW21518_4800C1"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW21518_5E5D54"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MW21518_D14B0F"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceHasReproduction" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/W21518"
+    }
+     ] ,
+    "http://id.loc.gov/ontologies/bibframe/identifiedBy" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/ID570EBF8E8A539C89"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/IDC5568C0AFF91B7BE"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/ID1C660B7617B7A7CF"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/IDCDBB293B844E2CC1"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/extentStatement" : [ { 
+      "type" : "literal" ,
+      "value" : "36 v."
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/note" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/NT39B017212508051D"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "rnying ma rgyud 'bum/ (gting skyes dgon pa byang gi bris ma/)" ,
+      "lang" : "bo-x-ewts"
+    }
+    , { 
+      "type" : "literal" ,
+      "value" : "tantras of the nyingmapa tradition" ,
+      "lang" : "en"
+    }
+    , { 
+      "type" : "literal" ,
+      "value" : "rnying ma'i rgyud 'bum : a collection treasured tantras translated during the period the first propagation buddhism in tibet" ,
+      "lang" : "zh-Latn-pinyin"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceEvent" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/EVCB66E16251CC1123"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/material" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/MaterialPaper"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/hasTitle" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/TTB4A4616F823D8D12"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/TT8798243A1070C4F0"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/TT3FFC06448FBF6CAA"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/TT74A4092C8B6DF54A"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/TTE9919847B3BD4433"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/TTMW21518YHUR6Y23"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/tmp/thumbnailIIIFService" : [ { 
+      "type" : "uri" ,
+      "value" : "https://iiif.bdrc.io/bdr:I1757::17570003.tif"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/biblioNote" : [ { 
+      "type" : "literal" ,
+      "value" : "reproduced from manuscripts preserved at gting skyes dgon pa byang monastery in tibet under the direction of dingo khyentse rinpoche" ,
+      "lang" : "en"
+    }
+    , { 
+      "type" : "literal" ,
+      "value" : "རྒྱུད་འབུམ་འདི་ནི་དིལ་མགོ་མཁྱེན་བརྩེ་རིན་པོ་ཆེ་ (1910\u20131991; bdr: P625) མཆོག་གིས་རྒྱུད་འབུམ་གསར་བསྐྲུན་ཆེད་བདུད་འཇོམས་རིན་པོ་ཆེ་ནས་ཕྱག་དཔེ་གཡར་ཏེ་མེ་ལུག་ (1967) ལོར་ནས་ཤིང་པར་གྱི་ལས་དབུ་བཙུགས་ཀྱང་ལས་གཞི་མཐར་མ་སོན། སླར་ཡང་ཆུ་བྱི་ (1972) གནམ་ལོ་གསར་ཚེས་ནས་ཡོལ་མོ་རིག་འཛིན་བསྟན་འཛིན་ནོར་བུའི་མཆོག་སྤྲུལ་གྱི་གདན་ས་དགོན་པ་བྱང་གི་དཔེ་རྙིང་གཞིར་བྱས་ཏེ། རྙིང་བཙུན་དཀོན་མཆོག་གིས་དབུ་ལྷའི་རིགས་གསར་དུ་བྲིས་ཤིང་། བཀའ་འགྱུར་རིན་པོ་ཆེའི་སྲས་པདྨ་དབང་རྒྱལ། དངོས་གྲུབ་རྒྱ་མཚོ་སོགས་ཀྱིས་པར་སྐྲུན་གྱིས་ལན་འགན་བཞེས་ཏེ། འབྲུག་རྒྱལ་བཞི་པ་འཇིགས་མེད་སེངྒེ་དབང་ཕྱུག རྒྱལ་ཡུམ་སྐུ་བགྲེས་ཕུན་ཚོགས་ཆོས་སྒྲོན་སོགས་ཀྱིས་སྦྱིན་བདག་གནང་སྟེ། དཀར་ཆག་པོད་གསུམ་བཅས་རྒྱུད་འབུམ་པོད་ 36 ཐིམ་ཕུག་ཏུ་ 1973\u20131975 གློག་པར་དུ་བསྐྲུན་པའོ། །འདིའི་དཔེ་རྙིང་ནི་གཏིང་སྐྱེས་དགོན་པའི་བླ་མ་རིག་འཛིན་པདྨ་ཆོས་འཕེལ་ (1772/1773\u20131836; bdr: P2DB20793) གྱིས་གཏིང་སྐྱེས་དགོན་པ་བྱང་དུ་ 19th cent. སྟོད་ཙམ་ལ་བཞེངས་པའི་བྲིས་མ་ཡིན་སྲིད་དེ། ཁོང་གི་རྣམ་ཐར་ནང་རྒྱུད་འབུམ་པོ་ཏི་སོ་གསུམ་ཅན་བཞེངས་པའི་ལོ་རྒྱུས་འབྱུང་བས་སོ། །རྒྱུད་ཀྱི་རིམ་པ་ནི། པོད་ཀ་ནས་ཐ་བར་ཨ་ཏི་ཡོ་གའི་སྐོར་རྣམས། དེ་ལའང་རྫོགས་པ་ཆེན་པོ་སེམས་སྡེའི་སྐོར། རྫོགས་པ་ཆེན་པོ་ཀློང་སྡེའི་སྐོར། རྫོགས་པ་ཆེན་པོ་ཕྱི་ནང་གི་སྐོར། རྫོགས་པ་ཆེན་པོ་སྤྱི་ཏིའི་སྐོར། རྫོགས་པ་ཆེན་པོ་ཡང་ཏི་བྲམ་ཟེའི་སྐོར། ཡང་གསང་བླ་ན་མེད་པ་རྫོགས་པ་ཆེན་པོའི་རྒྱུད་བཅུ་བདུན་གྱི་སྐོར་སོ་སོར་འབྱེད་ཡོད། པོད་ད་ནས་པ་བར་ལུང་ཨ་ནུ་ཡོ་གའི་ཆོས་སྐོར། ཕ་ནས་ཨ་དང་ཨོཾ་ཨཱཿཧཱུྃ་བཅས་པོད་ཉི་ཤུའི་ནང་བསྐྱེད་པ་མཧཱ་ཡོ་གའི་ཆོས་སྐོར། དེ་ལའང་རྒྱུད་སྡེ་དང་སྒྲུབ་སྡེ་གཉིས་ལས། དང་པོ་རྒྱུད་སྡེ་ལའང་ཏནྟྲ་ཐམས་ཅད་ཀྱི་རྩ་བར་གྱུར་པ་སྒྱུ་འཕྲུལ་དྲྭ་བ་གསང་བ་སྙིང་པོ་དེ་ཁོ་ན་ཉིད་ངེས་པ་རྩ་བའི་རྒྱུད་སོགས། བཤད་རྒྱུད་ལྷ་མོ་སྒྱུ་འཕྲུལ་སོགས། རྡོ་རྗེ་གསང་བའི་སྙིང་པོ་རྩ་རྒྱུད་སོགས། སྐུ་རྒྱུད་སངས་རྒྱས་མཉམ་སྦྱོར། གསུང་རྒྱུད་ཟླ་གསང་ཐིག་ལེ། ཐུགས་རྒྱུད་གསང་བ་འདུས་པ། ཡོན་ཏན་དཔལ་མཆོག འཕྲིན་ལས་ཀརྨ་མཱ་ལེ་རྣམས། གཞན་ཡང་སྐུ་རྒྱུད་ཧེ་རུ་ཀ་རོལ་པ། གསུང་རྒྱུད་རྟ་མཆོག་རོལ་པ། ཐུགས་རྒྱུད་སྙིང་རྗེ་རོལ་པ། ཡོན་ཏན་བདུད་རྩི་རོལ་པ་རྣམས། འཕྲིན་ལས་ཀྱི་རྒྱུད་ཕུར་པ་རོལ་པ། གླང་ཆེན་རབ་འབོག རྣམ་སྣང་སྒྱུ་དྲ། ཐབས་ཞགས་དྲི་མེད་བཤགས་རྒྱུད། གཟི་ལྡན་འབར་བ་རྣམས་བཞུགས། གཉིས་པ་སྒྲུབ་སྡེ་ལའང་འཇམ་དཔལ་སྐུའི་རྒྱུད། པདྨ་གསུང་། ཡང་དག་ཐུགས། བདུད་རྩི་ཡོན་ཏན། ཕུར་པ་འཕྲིན་ལས། མ་མོའི་རྒྱུད་རྣམས། ཞི་ཁྲོའི་རྒྱུད། བསྟན་སྲུང་གི་སྐོར་རྣམས་བཞུགས། པོད་སོ་བཞི་པའི་ནང་འཇིགས་མེད་གླིང་པའི་རྒྱུད་འབུམ་དཀར་ཆག་དང་། པོད་སོ་ལྔ་དང་སོ་དྲུག་པ་ཝཾ་དང་ཤྲཱི་གཉིས་སུ་འགྱུར་མེད་ཚེ་དབང་མཆོག་གྲུབ་ཀྱི་རྒྱུད་འབུམ་དཀར་ཆག་བཞུགས། དེའི་སྐོར་རྒྱས་པར་རིག་འཛིན་པདྨ་ཆོས་འཕེལ་གྱི་རྣམ་ཐར་དང་རྒྱུད་འབུམ་དེའི་ནང་གཟིགས་རོགས། ཞེ་ཆེན་ཞིབ་འཇུག་སྡེ་ཚན་གྱི་ཉམས་ཞིབ་པ་སློབ་དཔོན་རཱུཔ་ཙནྡྲ་ནས།" ,
+      "lang" : "bo"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/instanceOf" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/WA3JT13481"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/copyrightStatus" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/resource/CopyrightUndetermined"
+    }
+     ] ,
+    "http://purl.bdrc.io/ontology/core/numberOfVolumes" : [ { 
+      "type" : "literal" ,
+      "value" : "36" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/TT3FFC06448FBF6CAA" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/TitlePageTitle"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "rnying ma'i rgyud 'bum : a collection treasured tantras translated during the period the first propagation buddhism in tibet" ,
+      "lang" : "zh-Latn-pinyin"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/TT74A4092C8B6DF54A" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/CoverTitle"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "tantras of the nyingmapa tradition" ,
+      "lang" : "en"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/TTE9919847B3BD4433" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/TitlePageTitle"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "snga 'gyur rdo rje theg pa'i rgyud sde rin po che'i glegs bam/" ,
+      "lang" : "bo-x-ewts"
+    }
+     ]
+  }
+   ,
+  "http://purl.bdrc.io/resource/TTMW21518YHUR6Y23" : { 
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "http://purl.bdrc.io/ontology/core/TitlePageTitle"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "སྔ་འགྱུར་རྡོ་རྗེ་ཐེག་པའི་རྒྱུད་སྡེ་རིན་པོ་ཆེའི་གླེགས་བམ།" ,
+      "lang" : "bo"
+    }
+     ]
+  }
+}

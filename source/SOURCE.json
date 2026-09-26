@@ -1,0 +1,31 @@
+{
+  "edition": "Adzom 2000",
+  "bdrc": "W1KG11703",
+  "volume": 1,
+  "image_group": "I1KG11710",
+  "image_range": [
+    3,
+    207
+  ],
+  "pdf_pages": 205,
+  "image_manifest": "../editions/adzom-2000/image-manifest.json",
+  "files": [
+    {
+      "name": "Dra-Thal-Gyur-Adzom-2000.pdf",
+      "bytes": 37358206,
+      "sha256": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343"
+    },
+    {
+      "name": "W1KG11703_7.docx",
+      "bytes": 129677,
+      "sha256": "5660aafc5b0485f13b3b6f6cc6636c4bc7ee9d2468731723078df346565dd62b"
+    },
+    {
+      "name": "W1KG11703_7.txt",
+      "bytes": 461226,
+      "sha256": "18bd9ce65311e2d6d7c703f053a5c0aac347e899a75f8749a8f9afd891452edc"
+    }
+  ],
+  "new_ocr_performed": false,
+  "status": "Scan governs readings; cleaned e-text is not project-proofread"
+}

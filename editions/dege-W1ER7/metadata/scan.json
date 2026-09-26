@@ -1,0 +1,163 @@
+{
+  "http://purl.bdrc.io/resource/W1ER7": {
+    "http://purl.bdrc.io/ontology/core/instanceReproductionOf": [
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/resource/MW1ER7"
+      }
+    ],
+    "http://purl.bdrc.io/ontology/core/instanceHasVolume": [
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/resource/I1ER183"
+      },
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/resource/I1ER173"
+      },
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/resource/I1ER195"
+      },
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/resource/I1ER185"
+      },
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/resource/I1ER197"
+      },
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/resource/I1ER175"
+      },
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/resource/I1ER187"
+      },
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/resource/I1ER177"
+      },
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/resource/I1ER189"
+      },
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/resource/I1ER179"
+      },
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/resource/I1ER190"
+      },
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/resource/I1ER180"
+      },
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/resource/I1ER192"
+      },
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/resource/I1ER182"
+      },
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/resource/I1ER194"
+      },
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/resource/I1ER184"
+      },
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/resource/I1ER174"
+      },
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/resource/I1ER196"
+      },
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/resource/I1ER186"
+      },
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/resource/I1ER176"
+      },
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/resource/I1ER198"
+      },
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/resource/I1ER188"
+      },
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/resource/I1ER178"
+      },
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/resource/I1ER191"
+      },
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/resource/I1ER181"
+      },
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/resource/I1ER193"
+      }
+    ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/ontology/core/Instance"
+      },
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/ontology/core/DigitalInstance"
+      },
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/ontology/core/ImageInstance"
+      }
+    ],
+    "http://purl.bdrc.io/ontology/tmp/thumbnailIIIFService": [
+      {
+        "type": "uri",
+        "value": "https://iiif.bdrc.io/bdr:I1ER173::I1ER1730001.jpg"
+      }
+    ],
+    "http://purl.bdrc.io/ontology/core/qualityGrade": [
+      {
+        "type": "literal",
+        "value": "5",
+        "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+      }
+    ],
+    "http://purl.bdrc.io/ontology/core/scanInfo": [
+      {
+        "type": "literal",
+        "value": "These scans were produced from a copy housed at the Abhaya Fellowship in El Cerrito, CA, during the winter of 2024-25. BDRC expresses its gratitude to Chakung Rinpoche for sharing them.",
+        "lang": "en"
+      }
+    ],
+    "http://purl.bdrc.io/ontology/core/instanceOf": [
+      {
+        "type": "uri",
+        "value": "http://purl.bdrc.io/resource/WA3JT13481"
+      }
+    ],
+    "http://purl.bdrc.io/ontology/core/isComplete": [
+      {
+        "type": "literal",
+        "value": "true",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean"
+      }
+    ]
+  }
+}

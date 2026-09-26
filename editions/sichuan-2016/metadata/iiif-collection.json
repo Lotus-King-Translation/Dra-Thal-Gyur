@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://iiifpres.bdrc.io/collection/wio:bdr:MW3CN7084::bdr:W3CN7084",
+  "@type": "sc:Collection",
+  "label": {
+    "@language": "bo",
+    "@value": "རྫོགས་ཆེན་རྒྱུད་བཅུ་བདུན། (སི་ཁྲོན་དེང་རབས་འཕྲུལ་པར།)"
+  },
+  "manifests": [
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://iiifpres.bdrc.io/vo:bdr:I3CN8461/manifest",
+      "label": {
+        "@language": "bo",
+        "@value": "རྫོགས་ཆེན་རྒྱུད་བཅུ་བདུན། (སི་ཁྲོན་དེང་རབས་འཕྲུལ་པར།) པོད། ༡"
+      }
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://iiifpres.bdrc.io/vo:bdr:I3CN8462/manifest",
+      "label": {
+        "@language": "bo",
+        "@value": "རྫོགས་ཆེན་རྒྱུད་བཅུ་བདུན། (སི་ཁྲོན་དེང་རབས་འཕྲུལ་པར།) པོད། ༢"
+      }
+    }
+  ],
+  "attribution": [
+    {
+      "@language": "en",
+      "@value": "Buddhist Digital Resource Center"
+    },
+    {
+      "@language": "bo",
+      "@value": "ནང་བསྟན་དཔེ་ཚོགས་ལྟེ་གནས།"
+    },
+    {
+      "@language": "zh",
+      "@value": "佛教数字资源中心（BDRC）"
+    }
+  ],
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "logo": {
+    "@id": "https://s3.amazonaws.com/bdrcwebassets/prod/iiif-logo.png",
+    "format": "image/png"
+  },
+  "viewingHint": "multi-part"
+}
