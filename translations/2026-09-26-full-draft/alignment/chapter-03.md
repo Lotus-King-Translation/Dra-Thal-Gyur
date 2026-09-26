@@ -1,0 +1,8013 @@
+# Chapter 3 — source alignment
+
+Exact e-text slices; offsets count Unicode characters, zero-based, end-exclusive. The e-text is not a fully proofread diplomatic transcription. English reflects the explicit decision logs.
+
+<a id="u03623"></a>
+
+### U03623
+
+Source characters 104719–104749.
+
+>  དེ་ནས་ལྷ་དབང་དགའ་བྱེད་ཀྱིས། །
+
+Then the lord of the gods, Delight-Maker,
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03624"></a>
+
+### U03624
+
+Source characters 104749–104776.
+
+> ཡེ་ཤེས་བཀོད་པ་ཞེས་བྱ་བའི། །
+
+concerning what is called ‘Array of Primordial Knowing,’
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03625"></a>
+
+### U03625
+
+Source characters 104776–104806.
+
+> སངས་རྒྱས་བཅོམ་ལྡན་འདས་ལ་ཞུས། །
+
+questioned the buddha, the Blessed One: [N-159](../REVIEW-NOTES.md#n-159)
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03626"></a>
+
+### U03626
+
+Source characters 104806–104833.
+
+> ཆོས་ཉིད་གནས་པ་ཇི་ལྟར་ལགས། །
+
+‘How does the nature of phenomena abide?
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03627"></a>
+
+### U03627
+
+Source characters 104833–104862.
+
+> དེ་ལས་འཁྲུལ་པ་ཅི་ལྟར་བྱུང༌། །
+
+How does delusion arise from it?
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03628"></a>
+
+### U03628
+
+Source characters 104862–104895.
+
+> འཁྲུལ་པའི་རྒྱུ་རྐྱེན་གང་དང་གང་། །
+
+What are the causes and conditions of delusion?
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03629"></a>
+
+### U03629
+
+Source characters 104895–104924.
+
+> མཚན་ཉིད་རྟོགས་པ་ཅི་ཡི་ཕྱིར། །
+
+Why are characteristics realized?
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03630"></a>
+
+### U03630
+
+Source characters 104924–104950.
+
+> སེམས་ཅན་ཐ་དད་ཅི་ཡི་རྒྱུ། །
+
+What causes sentient beings to differ?
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03631"></a>
+
+### U03631
+
+Source characters 104950–104983.
+
+> རང་བཞིན་རྫོགས་པའི་གནས་སྐབས་གང༌། །
+
+What is the state in which intrinsic nature is complete?
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03632"></a>
+
+### U03632
+
+Source characters 104983–105011.
+
+> མིང་གི་མཚན་ཉིད་བྱེད་པ་གང༌། །
+
+What makes the characteristics of names?
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03633"></a>
+
+### U03633
+
+Source characters 105011–105037.
+
+> ལས་དང་དབང་པོའི་འཐད་པ་ཅི། །
+
+How do karma and faculties accord?
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03634"></a>
+
+### U03634
+
+Source characters 105037–105064.
+
+> ཚིག་གི་འཇུག་པ་ཅི་ཡི་ཕྱིར། །
+
+For what purpose do words enter?
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03635"></a>
+
+### U03635
+
+Source characters 105064–105091.
+
+> བློ་དང་ཤེས་པ་གང་ལས་བྱུང་། །
+
+From what do conceptual mind and knowing arise?
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03636"></a>
+
+### U03636
+
+Source characters 105091–105119.
+
+> གཟུང་དང་འཛིན་པ་ཅི་ཡི་ཕྱིར། །
+
+Why are there an apprehended object and an apprehending subject?
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03637"></a>
+
+### U03637
+
+Source characters 105119–105143.
+
+> ངོ་བོ་ཀ་དག་ཡེ་ཤེས་དང་། །
+
+Essence as primordial purity and primordial knowing,
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03638"></a>
+
+### U03638
+
+Source characters 105143–105174.
+
+> རང་བཞིན་ལྷུན་གྲུབ་ཅི་ཡི་ཕྱིར། །
+
+and intrinsic nature as spontaneous presence—why are these so?
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03639"></a>
+
+### U03639
+
+Source characters 105174–105202.
+
+> ཐུགས་རྗེ་ཀུན་ལ་གང་གིས་ཁྱབ། །
+
+Through what does compassionate responsiveness pervade all?
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03640"></a>
+
+### U03640
+
+Source characters 105202–105228.
+
+> མེ་ལོང་ལྟ་བུ་ཅི་ཡི་ཕྱིར། །
+
+Why is [primordial knowing] like a mirror?
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159), [N-T87](../REVIEW-NOTES.md#n-t87)
+
+<a id="u03641"></a>
+
+### U03641
+
+Source characters 105228–105254.
+
+> མཉམ་པ་ཉིད་ཀྱི་འདོད་པ་ཅི། །
+
+What is intended by evenness?
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03642"></a>
+
+### U03642
+
+Source characters 105254–105280.
+
+> སོ་སོར་རྟོགས་པ་གང་ཙམ་ཞིག །
+
+What is the extent of discriminating [primordial knowing]?
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159), [N-T87](../REVIEW-NOTES.md#n-t87)
+
+<a id="u03643"></a>
+
+### U03643
+
+Source characters 105280–105306.
+
+> བྱ་བ་ཇི་ལྟར་འགྲུབ་པ་ལགས། །
+
+How is activity accomplished?
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03644"></a>
+
+### U03644
+
+Source characters 105306–105338.
+
+> ཆོས་ཀྱི་དབྱིངས་ལ་ཇི་ལྟར་སྤྱོད། །
+
+How does one act within the basic space of phenomena?
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03645"></a>
+
+### U03645
+
+Source characters 105338–105368.
+
+> ཤེས་པས་བསྡུས་པའི་ཡེ་ཤེས་གང་། །
+
+What primordial knowing is gathered through knowing?
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03646"></a>
+
+### U03646
+
+Source characters 105368–105391.
+
+> ཇི་སྙེད་པ་ལ་ཁྱབ་པ་ཅི། །
+
+What pervades the multiplicity?
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159), [N-T87](../REVIEW-NOTES.md#n-t87)
+
+<a id="u03647"></a>
+
+### U03647
+
+Source characters 105391–105421.
+
+> ཇི་ལྟ་མཁྱེན་པའི་དགོངས་པ་གང༌། །
+
+What is the enlightened intent of knowing how things are?
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159), [N-T87](../REVIEW-NOTES.md#n-t87)
+
+<a id="u03648"></a>
+
+### U03648
+
+Source characters 105421–105453.
+
+> ཡེ་ཤེས་རྣམས་ཀྱི་སྡོམ་གཅིག་གང་། །
+
+What single principle gathers the primordial knowings?
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03649"></a>
+
+### U03649
+
+Source characters 105453–105480.
+
+> འདི་དག་བདག་གིས་སྔར་མ་འཚལ། །
+
+I did not previously know these.
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03650"></a>
+
+### U03650
+
+Source characters 105480–105512.
+
+> སྟོན་པ་ཐུགས་རྗེ་ཆེན་པོས་གསུངས། །
+
+Teacher of great compassionate responsiveness, speak.’ [N-159](../REVIEW-NOTES.md#n-159)
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03651"></a>
+
+### U03651
+
+Source characters 105512–105540.
+
+> ནམ་མཁའ་མི་འབྱེད་བར་སྣང་ནས། །
+
+From the intervening space, without dividing space,
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03652"></a>
+
+### U03652
+
+Source characters 105540–105567.
+
+> སུས་ཀྱང་བྱས་པ་མེད་པའི་ཚིག །
+
+phrases made by no one,
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03653"></a>
+
+### U03653
+
+Source characters 105567–105594.
+
+> རང་བཞིན་རྟོག་པ་གང་མེད་པར། །
+
+intrinsically without any conceptual thought,
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03654"></a>
+
+### U03654
+
+Source characters 105594–105625.
+
+> བརྗོད་མེད་བསམ་དག་སྒྲ་ལས་ཀྱང༌། །
+
+from words beyond expression, with reflection pure—[N-159](../REVIEW-NOTES.md#n-159)
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03655"></a>
+
+### U03655
+
+Source characters 105625–105652.
+
+> ཚིག་གི་རྒྱལ་པོ་འདི་དག་ནི། །
+
+these kings of phrases
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03656"></a>
+
+### U03656
+
+Source characters 105652–105682.
+
+> སྟོན་པས་གསུངས་པའི་ཚུལ་དུ་ཤར། །
+
+arose as if spoken by the teacher.
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03657"></a>
+
+### U03657
+
+Source characters 105682–105716.
+
+> དྲིས་ལན་དང་པོ་ལ་ནང་གསེས་བཅུས་བསྟན།
+
+[Source annotation: The first reply is taught in ten subdivisions.]
+
+Review links: [N-159](../REVIEW-NOTES.md#n-159)
+
+<a id="u03658"></a>
+
+### U03658
+
+Source characters 105716–105741.
+
+> ཆོས་ཉིད་གནས་པ་ཞེས་བྱ་བ། །
+
+What is called the abiding of the nature of phenomena:
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03659"></a>
+
+### U03659
+
+Source characters 105741–105770.
+
+> དུས་ཀྱི་གནས་དང་རང་བཞིན་དང་། །
+
+abiding in time, in intrinsic nature,
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03660"></a>
+
+### U03660
+
+Source characters 105770–105798.
+
+> འཕོ་བ་ངེས་པའི་ཚད་ཀྱིས་གནས། །
+
+and through the definite measure of shifting;
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03661"></a>
+
+### U03661
+
+Source characters 105798–105823.
+
+> ཡེ་ནས་གནས་དང་འབད་པ་དང་། །
+
+abiding from the outset, through effort,
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03662"></a>
+
+### U03662
+
+Source characters 105823–105856.
+
+> རྐྱེན་དང་རྒྱུ་རྐྱེན་བར་སྐབས་སོ། །
+
+conditions, causes and conditions, and intervals. [N-160](../REVIEW-NOTES.md#n-160)
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03663"></a>
+
+### U03663
+
+Source characters 105856–105885.
+
+> དུས་ཀྱི་གནས་པའི་ཆོས་ཉིད་ནི། །
+
+The nature of phenomena's abiding in time:
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03664"></a>
+
+### U03664
+
+Source characters 105885–105917.
+
+> དབྱར་དགུན་སྟོན་དཔྱིད་ཆ་བཞི་ལས། །
+
+from the four parts—summer, winter, autumn, and spring—
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03665"></a>
+
+### U03665
+
+Source characters 105917–105946.
+
+> སྟོན་གྱི་དང་པོར་ཕུང་པོ་དང༌། །
+
+at the beginning of autumn, aggregates,
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03666"></a>
+
+### U03666
+
+Source characters 105946–105971.
+
+> ཁམས་དང་ཡེ་ཤེས་རྒྱས་པའོ། །
+
+elements, and primordial knowing increase.
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03667"></a>
+
+### U03667
+
+Source characters 105971–106003.
+
+> འདི་དུས་རྟེན་འབྲེལ་ཟབ་མོ་བསྟན། །
+
+At this time, profound dependent connections are taught.
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03668"></a>
+
+### U03668
+
+Source characters 106003–106030.
+
+> ཟླ་བ་མར་གྱི་དགུ་དང་བརྒྱད། །
+
+It abides on the ninth and eighth of the waning moon,
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03669"></a>
+
+### U03669
+
+Source characters 106030–106056.
+
+> ཡར་གྱི་བཅུ་བཞི་ལྔ་ལ་གནས། །
+
+and the fourteenth and [fifteenth] of the waxing moon. [N-160](../REVIEW-NOTES.md#n-160)
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160), [N-T86](../REVIEW-NOTES.md#n-t86)
+
+<a id="u03670"></a>
+
+### U03670
+
+Source characters 106056–106083.
+
+> ཞག་ནི་བཅུ་གཉིས་ཆ་ཡི་ཕྱེད། །
+
+For days, half of twelve parts; [N-160](../REVIEW-NOTES.md#n-160)
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03671"></a>
+
+### U03671
+
+Source characters 106083–106111.
+
+> ཉི་མའི་དུས་ཀྱང་བཅུ་གཉིས་ལ། །
+
+also, among twelve times of the sun,
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03672"></a>
+
+### U03672
+
+Source characters 106111–106134.
+
+> ཆ་ཡི་རྣམ་པ་བཞི་ལ་གནས། །
+
+it abides in four aspects of a part. [N-160](../REVIEW-NOTES.md#n-160)
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03673"></a>
+
+### U03673
+
+Source characters 106134–106178.
+
+> འདི་དུས་ཆོས་ཉིད་སྦྱང་སྦྱར་ཡང་བྱུང་བར་བྱའོ། །
+
+At this time, train in the nature of phenomena. [Source variant: ‘Apply also occurs.’] [N-160](../REVIEW-NOTES.md#n-160)
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03674"></a>
+
+### U03674
+
+Source characters 106178–106202.
+
+> རང་བཞིན་དུ་ནི་གནས་པ་དག །
+
+As for abiding in intrinsic nature:
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03675"></a>
+
+### U03675
+
+Source characters 106202–106230.
+
+> ཕྱི་རོལ་ཡུལ་དང་ནང་གི་སེམས། །
+
+in outer objects and inner ordinary mind,
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03676"></a>
+
+### U03676
+
+Source characters 106230–106257.
+
+> བར་གྱི་དབུགས་ལ་གནས་པ་སྟེ། །
+
+and in the breath between them, it abides.
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03677"></a>
+
+### U03677
+
+Source characters 106257–106286.
+
+> འདི་ཡང་རྣལ་འབྱོར་པས་ཤེས་བྱ། །
+
+This, too, the yogin should know.
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03678"></a>
+
+### U03678
+
+Source characters 106286–106312.
+
+> འཕོ་བ་ངེས་པའི་ཚད་གནས་ནི། །
+
+Abiding in the definite measure of shifting:
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03679"></a>
+
+### U03679
+
+Source characters 106312–106342.
+
+> འགྱུ་བ་ཆེན་པོའི་རླུང་དག་གིས། །
+
+through the winds of great movement,
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03680"></a>
+
+### U03680
+
+Source characters 106342–106371.
+
+> སོ་སོའི་གནས་སྐབས་འགྱུ་ཚད་ལ། །
+
+in the measure of movement at each respective stage,
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03681"></a>
+
+### U03681
+
+Source characters 106371–106396.
+
+> ལྔ་བརྒྱ་དག་ལ་རེ་རེ་ཉིད། །
+
+at each five hundred,
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03682"></a>
+
+### U03682
+
+Source characters 106396–106424.
+
+> ཆོས་ཉིད་གནས་པའི་འཕོ་བ་སྟེ། །
+
+there is a shift in the abiding of the nature of phenomena.
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03683"></a>
+
+### U03683
+
+Source characters 106424–106454.
+
+> རྟོག་པ་འཛིན་པ་སྟོང་ཚིགས་ལའོ། །
+
+Conceptual thought and holding are at the thousand-junctures. [N-160](../REVIEW-NOTES.md#n-160)
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03684"></a>
+
+### U03684
+
+Source characters 106454–106487.
+
+> རིགས་དྲུག་སོ་སོའི་ལྟུང་བའི་གནས། །
+
+For the respective places where the six classes fall,
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03685"></a>
+
+### U03685
+
+Source characters 106487–106522.
+
+> རླུང་གི་འགྱུ་བའི་མཚམས་སྦྱར་བཟུང༌། །
+
+grasp the conjunctions between wind movements.
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03686"></a>
+
+### U03686
+
+Source characters 106522–106550.
+
+> དེ་ལ་སེམས་ཉིད་གནས་པའི་ཐབས། །
+
+The method of making the nature of ordinary mind abide there:
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03687"></a>
+
+### U03687
+
+Source characters 106550–106581.
+
+> ལྔ་བརྒྱའི་དུས་ནས་བརྩིས་ནས་ནི། །
+
+reckoning from the time of five hundred,
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03688"></a>
+
+### U03688
+
+Source characters 106581–106611.
+
+> སོ་སོའི་དགེ་བའི་སྦྱོར་ཁ་འབད། །
+
+strive at the point of applying the respective virtues.
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03689"></a>
+
+### U03689
+
+Source characters 106611–106646.
+
+> འདི་ཡང་རྐྱེན་གྱིས་ཉོན་མོངས་འགྱུར། །
+
+This, too, changes into afflictions through conditions.
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03690"></a>
+
+### U03690
+
+Source characters 106646–106678.
+
+> སོ་སོའི་རླུང་གི་མཚམས་ནས་བཟུང་། །
+
+Grasping [this] from the respective intervals of wind,
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03691"></a>
+
+### U03691
+
+Source characters 106678–106705.
+
+> ཚེ་ཚད་ལས་ཀྱི་བྱེ་བྲག་ཡང་། །
+
+the particulars of lifespan and karma, too,
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03692"></a>
+
+### U03692
+
+Source characters 106705–106736.
+
+> རླུང་གི་འགྱུར་ལས་ཤེས་པར་བྱའོ། །
+
+are to be known through changes in wind. [N-160](../REVIEW-NOTES.md#n-160)
+
+Review links: [N-160](../REVIEW-NOTES.md#n-160)
+
+<a id="u03693"></a>
+
+### U03693
+
+Source characters 106736–106763.
+
+> ཡེ་ནས་གནས་པའི་ཆོས་ཉིད་ནི། །
+
+The nature of phenomena that abides from the outset:
+
+Review links: [N-161](../REVIEW-NOTES.md#n-161)
+
+<a id="u03694"></a>
+
+### U03694
+
+Source characters 106763–106789.
+
+> སྣང་བ་མེད་པ་ཐོག་མའི་དུས། །
+
+at the initial time when there is no appearance,
+
+Review links: [N-161](../REVIEW-NOTES.md#n-161)
+
+<a id="u03695"></a>
+
+### U03695
+
+Source characters 106789–106817.
+
+> རང་བཞིན་བཅོས་པ་མེད་པར་གནས། །
+
+intrinsic nature abides without contrivance.
+
+Review links: [N-161](../REVIEW-NOTES.md#n-161)
+
+<a id="u03696"></a>
+
+### U03696
+
+Source characters 106817–106847.
+
+> དྲི་མེད་སེམས་ཀྱང་དེ་བཞིན་ནོ། །
+
+Stainless ordinary mind, too, is like that.
+
+Review links: [N-161](../REVIEW-NOTES.md#n-161)
+
+<a id="u03697"></a>
+
+### U03697
+
+Source characters 106847–106877.
+
+> འབད་པས་མངོན་སུམ་གནད་གཟིར་བས། །
+
+Through effort, pressing the crucial point of direct perception,
+
+Review links: [N-161](../REVIEW-NOTES.md#n-161)
+
+<a id="u03698"></a>
+
+### U03698
+
+Source characters 106877–106900.
+
+> མ་བཅོས་གཞི་ལ་གནས་པའོ། །
+
+one abides in the uncontrived Ground.
+
+Review links: [N-161](../REVIEW-NOTES.md#n-161)
+
+<a id="u03699"></a>
+
+### U03699
+
+Source characters 106900–106930.
+
+> རྐྱེན་གྱིས་གནས་པ་འབྱུང་བ་ཡི། །
+
+For abiding through conditions, through the elements'
+
+Review links: [N-161](../REVIEW-NOTES.md#n-161)
+
+<a id="u03700"></a>
+
+### U03700
+
+Source characters 106930–106957.
+
+> ལུས་ཀྱི་བྱེ་བྲག་དག་པ་དང༌། །
+
+bodily distinctions of purity,
+
+Review links: [N-161](../REVIEW-NOTES.md#n-161)
+
+<a id="u03701"></a>
+
+### U03701
+
+Source characters 106957–106981.
+
+> མ་དག་པ་ཡི་ཁྱད་པར་གྱིས། །
+
+and the distinction of impurity,
+
+Review links: [N-161](../REVIEW-NOTES.md#n-161)
+
+<a id="u03702"></a>
+
+### U03702
+
+Source characters 106981–107009.
+
+> ཡེ་ཤེས་གནས་པའི་བྱེད་པས་ནི། །
+
+through the activity of primordial knowing's abiding,
+
+Review links: [N-161](../REVIEW-NOTES.md#n-161)
+
+<a id="u03703"></a>
+
+### U03703
+
+Source characters 107009–107040.
+
+> སོ་སོའི་དུས་ཚོད་མཁས་པས་བཟུང་། །
+
+the skilled person grasps the respective times.
+
+Review links: [N-161](../REVIEW-NOTES.md#n-161)
+
+<a id="u03704"></a>
+
+### U03704
+
+Source characters 107040–107070.
+
+> རྒྱུ་ཡིས་གནས་པའི་སེམས་དེ་ནི། །
+
+Ordinary mind that abides through a cause,
+
+Review links: [N-161](../REVIEW-NOTES.md#n-161)
+
+<a id="u03705"></a>
+
+### U03705
+
+Source characters 107070–107099.
+
+> ཀུན་ལ་ཁྱབ་ཕྱིར་ཆོས་ཉིད་ངང་། །
+
+because it pervades all, is in the condition of the nature of phenomena;
+
+Review links: [N-161](../REVIEW-NOTES.md#n-161)
+
+<a id="u03706"></a>
+
+### U03706
+
+Source characters 107099–107124.
+
+> བཅོས་པ་མེད་ན་གནས་པ་ཡིན། །
+
+if uncontrived, it abides.
+
+Review links: [N-161](../REVIEW-NOTES.md#n-161)
+
+<a id="u03707"></a>
+
+### U03707
+
+Source characters 107124–107154.
+
+> བར་སྐབས་གནས་པ་རླུང་གིས་དྲང་། །
+
+For abiding in an interval, draw through wind.
+
+Review links: [N-161](../REVIEW-NOTES.md#n-161)
+
+<a id="u03708"></a>
+
+### U03708
+
+Source characters 107154–107180.
+
+> འགྱུ་བ་ཕྲ་བའི་བར་དུ་ཤེས། །
+
+Know [this] within the interval of subtle movement.
+
+Review links: [N-161](../REVIEW-NOTES.md#n-161)
+
+<a id="u03709"></a>
+
+### U03709
+
+Source characters 107180–107209.
+
+> འདི་ནི་ཡེ་ཤེས་གནད་འདུས་པའོ། །
+
+This gathers the crucial points of primordial knowing. [N-161](../REVIEW-NOTES.md#n-161)
+
+Review links: [N-161](../REVIEW-NOTES.md#n-161)
+
+<a id="u03710"></a>
+
+### U03710
+
+Source characters 107209–107241.
+
+> དྲིས་ལན་གཉིས་པ་དོན་བརྒྱད་བསྟན་པ།
+
+[Source annotation: The second reply is taught in eight points.]
+
+Review links: [N-162](../REVIEW-NOTES.md#n-162)
+
+<a id="u03711"></a>
+
+### U03711
+
+Source characters 107241–107271.
+
+> དེ་ལས་འཁྲུལ་པ་རྒྱུ་དང་རྐྱེན། །
+
+From this, delusion: cause and conditions,
+
+Review links: [N-162](../REVIEW-NOTES.md#n-162)
+
+<a id="u03712"></a>
+
+### U03712
+
+Source characters 107271–107295.
+
+> ཆ་དང་ཡན་ལག་ལས་ཉིད་དང༌། །
+
+portions and branches, activity itself,
+
+Review links: [N-162](../REVIEW-NOTES.md#n-162)
+
+<a id="u03713"></a>
+
+### U03713
+
+Source characters 107295–107322.
+
+> མ་སྨིན་རྣམ་རྟོག་འཁོར་བའོ། །
+
+the immature, differentiating conceptualization, and samsara.
+
+Review links: [N-162](../REVIEW-NOTES.md#n-162)
+
+<a id="u03714"></a>
+
+### U03714
+
+Source characters 107322–107346.
+
+> མ་རིག་པ་ནི་རྣམ་པ་གསུམ། །
+
+Ignorance has three aspects.
+
+Review links: [N-162](../REVIEW-NOTES.md#n-162)
+
+<a id="u03715"></a>
+
+### U03715
+
+Source characters 107346–107377.
+
+> བདག་ཉིད་གཅིག་པས་འཁྲུལ་རྩ་བྱས། །
+
+Through their single identity, it makes the root of delusion.
+
+Review links: [N-162](../REVIEW-NOTES.md#n-162)
+
+<a id="u03716"></a>
+
+### U03716
+
+Source characters 107377–107409.
+
+> འདུས་ཤིང་བཟུང་བས་འཁྲུལ་ཞེས་བྱ། །
+
+Through gathering and holding, it is called delusion.
+
+Review links: [N-162](../REVIEW-NOTES.md#n-162)
+
+<a id="u03717"></a>
+
+### U03717
+
+Source characters 107409–107435.
+
+> ཆ་ནི་འདུ་བྱེད་ལ་སོགས་པས། །
+
+As for portions, through formations and so forth,
+
+Review links: [N-162](../REVIEW-NOTES.md#n-162)
+
+<a id="u03718"></a>
+
+### U03718
+
+Source characters 107435–107464.
+
+> འཁྲུལ་ཡུལ་ཆ་ལ་བཅུ་གཉིས་ཕྲི། །
+
+subtract twelve from the portion of delusion's objects. [N-162](../REVIEW-NOTES.md#n-162)
+
+Review links: [N-162](../REVIEW-NOTES.md#n-162)
+
+<a id="u03719"></a>
+
+### U03719
+
+Source characters 107464–107491.
+
+> སྨིན་པས་ལོ་དང་བྱེད་ལས་སོ། །
+
+Through maturation, there are years and activities.
+
+Review links: [N-162](../REVIEW-NOTES.md#n-162)
+
+<a id="u03720"></a>
+
+### U03720
+
+Source characters 107491–107515.
+
+> ཡན་ལག་སྤྲོས་པ་ཐ་དད་ལས། །
+
+The branches, from differing elaborations,
+
+Review links: [N-162](../REVIEW-NOTES.md#n-162)
+
+<a id="u03721"></a>
+
+### U03721
+
+Source characters 107515–107542.
+
+> ཐམས་ཅད་མིང་གི་བྱེ་བྲག་ཏུ། །
+
+all, as distinctions of names,
+
+Review links: [N-162](../REVIEW-NOTES.md#n-162)
+
+<a id="u03722"></a>
+
+### U03722
+
+Source characters 107542–107575.
+
+> འཁྲུལ་པའི་ཡུལ་ལ་རྣམ་གཉིས་འགྱུར། །
+
+become two aspects in the object of delusion.
+
+Review links: [N-162](../REVIEW-NOTES.md#n-162)
+
+<a id="u03723"></a>
+
+### U03723
+
+Source characters 107575–107607.
+
+> ལས་ཀྱིས་འདོད་དང་གཟུགས་ཀྱི་ཁམས། །
+
+Through activity, there are the desire and form realms,
+
+Review links: [N-162](../REVIEW-NOTES.md#n-162)
+
+<a id="u03724"></a>
+
+### U03724
+
+Source characters 107607–107640.
+
+> གཟུགས་མེད་ཁམས་ཏེ་རྣམ་གསུམ་བྱེད། །
+
+and the formless realm: three are made.
+
+Review links: [N-162](../REVIEW-NOTES.md#n-162)
+
+<a id="u03725"></a>
+
+### U03725
+
+Source characters 107640–107670.
+
+> མ་སྨིན་པ་ནི་རིགས་དྲུག་གཟུགས། །
+
+The immature are the forms of the six classes;
+
+Review links: [N-162](../REVIEW-NOTES.md#n-162)
+
+<a id="u03726"></a>
+
+### U03726
+
+Source characters 107670–107698.
+
+> མིང་དང་བྱེ་བྲག་ཐ་དད་འགྱུར། །
+
+names and particulars become distinct.
+
+Review links: [N-162](../REVIEW-NOTES.md#n-162)
+
+<a id="u03727"></a>
+
+### U03727
+
+Source characters 107698–107723.
+
+> རྣམ་རྟོག་བག་ལ་ཉལ་བ་དང༌། །
+
+Differentiating conceptualization: dormant tendencies,
+
+Review links: [N-162](../REVIEW-NOTES.md#n-162)
+
+<a id="u03728"></a>
+
+### U03728
+
+Source characters 107723–107750.
+
+> ཀུན་ནས་ལྡང་དང་ཁྱབ་ཚུལ་ལོ། །
+
+rising up everywhere, and the manner of pervasion.
+
+Review links: [N-162](../REVIEW-NOTES.md#n-162)
+
+<a id="u03729"></a>
+
+### U03729
+
+Source characters 107750–107777.
+
+> འཁོར་བ་ཞེས་པ་མཚུངས་པ་དང་། །
+
+What is called samsara is similarity,
+
+Review links: [N-162](../REVIEW-NOTES.md#n-162)
+
+<a id="u03730"></a>
+
+### U03730
+
+Source characters 107777–107807.
+
+> ཚོགས་པའི་ལས་ཏེ་སྡུད་དང་མཆེད། །
+
+and the activity of gathering—condensing and spreading,
+
+Review links: [N-162](../REVIEW-NOTES.md#n-162)
+
+<a id="u03731"></a>
+
+### U03731
+
+Source characters 107807–107838.
+
+> རྫོགས་དང་བྱེ་བྲག་སྣ་ཚོགས་པའོ། །
+
+completion and manifold distinctions.
+
+Review links: [N-162](../REVIEW-NOTES.md#n-162)
+
+<a id="u03732"></a>
+
+### U03732
+
+Source characters 107838–107867.
+
+> དེ་ལྟར་འཁྲུལ་ཞེས་མིང་ཙམ་ལས། །
+
+Thus, apart from merely the name ‘delusion,’
+
+Review links: [N-162](../REVIEW-NOTES.md#n-162)
+
+<a id="u03733"></a>
+
+### U03733
+
+Source characters 107867–107899.
+
+> རྟོག་འཛིན་བྱེད་པའི་རྟགས་དང་ནི། །
+
+through the signs of conceptualizing and holding as agents,
+
+Review links: [N-162](../REVIEW-NOTES.md#n-162)
+
+<a id="u03734"></a>
+
+### U03734
+
+Source characters 107899–107929.
+
+> ཚོགས་ཤིང་སྡུད་པའི་བྱེད་པ་ཅན། །
+
+and the agency of assembling and condensing,
+
+Review links: [N-162](../REVIEW-NOTES.md#n-162)
+
+<a id="u03735"></a>
+
+### U03735
+
+Source characters 107929–107959.
+
+> མིང་གི་བྱེ་བྲག་གིས་བརྟགས་སོ། །
+
+it is imputed through distinctions of names. [N-162](../REVIEW-NOTES.md#n-162)
+
+Review links: [N-162](../REVIEW-NOTES.md#n-162)
+
+<a id="u03736"></a>
+
+### U03736
+
+Source characters 107959–107989.
+
+> དྲིས་ལན་གསུམ་པ་དོན་དགུ་བསྟན་པ།
+
+[Source annotation: The third reply is taught in nine points.]
+
+Review links: [N-163](../REVIEW-NOTES.md#n-163)
+
+<a id="u03737"></a>
+
+### U03737
+
+Source characters 107989–108017.
+
+> འཁྲུལ་པའི་རྒྱུ་ནི་མ་རིག་པ། །
+
+The cause of delusion is ignorance:
+
+Review links: [N-163](../REVIEW-NOTES.md#n-163)
+
+<a id="u03738"></a>
+
+### U03738
+
+Source characters 108017–108043.
+
+> གཞི་དང་ཤེས་པ་སྦགས་པ་དང༌། །
+
+the Ground, knowing, contamination,
+
+Review links: [N-163](../REVIEW-NOTES.md#n-163)
+
+<a id="u03739"></a>
+
+### U03739
+
+Source characters 108043–108072.
+
+> གཟུང་དང་དབང་པོ་འཁོར་ཚུལ་ལོ། །
+
+and the ways apprehended object and faculties circle. [N-163](../REVIEW-NOTES.md#n-163)
+
+Review links: [N-163](../REVIEW-NOTES.md#n-163)
+
+<a id="u03740"></a>
+
+### U03740
+
+Source characters 108072–108100.
+
+> རྐྱེན་ནི་ཡུལ་དང་གཟུང་ཆ་ལས། །
+
+Conditions are from the object and the apprehended portion:
+
+Review links: [N-163](../REVIEW-NOTES.md#n-163)
+
+<a id="u03741"></a>
+
+### U03741
+
+Source characters 108100–108128.
+
+> མཐའ་དང་མཐའ་ཡི་བྱེད་ པ་དང་། །
+
+limits, the agents of limits,
+
+Review links: [N-163](../REVIEW-NOTES.md#n-163)
+
+<a id="u03742"></a>
+
+### U03742
+
+Source characters 108128–108157.
+
+> གཅིག་མ་ཤེས་པ་དམིགས་རྟེན་ནོ། །
+
+not knowing one, and the support of focus.
+
+Review links: [N-163](../REVIEW-NOTES.md#n-163)
+
+<a id="u03743"></a>
+
+### U03743
+
+Source characters 108157–108187.
+
+> གཞི་ནི་གང་ཡང་འབྱེད་མེད་ཅིང༌། །
+
+The Ground does not differentiate anything,
+
+Review links: [N-163](../REVIEW-NOTES.md#n-163)
+
+<a id="u03744"></a>
+
+### U03744
+
+Source characters 108187–108210.
+
+> ངེས་པ་མེད་པ་ཙམ་ལས་སོ། །
+
+and is merely without determination.
+
+Review links: [N-163](../REVIEW-NOTES.md#n-163)
+
+<a id="u03745"></a>
+
+### U03745
+
+Source characters 108210–108234.
+
+> ཤེས་པ་འཇུ་དང་ཡལ་བ་དང༌། །
+
+Knowing engages and vanishes,
+
+Review links: [N-163](../REVIEW-NOTES.md#n-163)
+
+<a id="u03746"></a>
+
+### U03746
+
+Source characters 108234–108263.
+
+> མཆེད་པར་འཛིན་པ་རྣམས་ཡིན་ནོ། །
+
+and holds [what] spreads.
+
+Review links: [N-163](../REVIEW-NOTES.md#n-163)
+
+<a id="u03747"></a>
+
+### U03747
+
+Source characters 108263–108290.
+
+> སྦགས་པ་དྲི་མར་འཛིན་པ་སྟེ། །
+
+Contamination is holding as a stain:
+
+Review links: [N-163](../REVIEW-NOTES.md#n-163)
+
+<a id="u03748"></a>
+
+### U03748
+
+Source characters 108290–108318.
+
+> ཤེས་བྱས་རང་རྒྱུད་བཅིང་བའོ། །
+
+one's own continuum is bound by what is to be known.
+
+Review links: [N-163](../REVIEW-NOTES.md#n-163)
+
+<a id="u03749"></a>
+
+### U03749
+
+Source characters 108318–108341.
+
+> གཟུང་བ་མ་ཡིན་ས་ལ་ཡང༌། །
+
+Even where there is no apprehended object,
+
+Review links: [N-163](../REVIEW-NOTES.md#n-163)
+
+<a id="u03750"></a>
+
+### U03750
+
+Source characters 108341–108366.
+
+> བདེན་པས་དམ་དུ་བཅིང་བའོ། །
+
+[holding it as] true binds [one] tightly. [N-163](../REVIEW-NOTES.md#n-163)
+
+Review links: [N-163](../REVIEW-NOTES.md#n-163)
+
+<a id="u03751"></a>
+
+### U03751
+
+Source characters 108366–108393.
+
+> དབང་པོ་ཡུལ་དང་ཤེས་པའི་ཆས། །
+
+The faculties, through portions of object and knowing,
+
+Review links: [N-164](../REVIEW-NOTES.md#n-164)
+
+<a id="u03752"></a>
+
+### U03752
+
+Source characters 108393–108420.
+
+> རྟག་འཛིན་ཡུལ་དེར་སྣང་བའོ། །
+
+appear in that object held as permanent.
+
+Review links: [N-164](../REVIEW-NOTES.md#n-164)
+
+<a id="u03753"></a>
+
+### U03753
+
+Source characters 108420–108449.
+
+> འཁོར་ཚུལ་གཅིག་པར་ཤེས་པས་ནི། །
+
+Through knowing the manner of circling as one,
+
+Review links: [N-164](../REVIEW-NOTES.md#n-164)
+
+<a id="u03754"></a>
+
+### U03754
+
+Source characters 108449–108482.
+
+> རྣམ་རྟོག་གཉིས་གཉིས་ཟུང་འཇུག་གོ། །
+
+differentiating conceptualizations unite in pairs.
+
+Review links: [N-164](../REVIEW-NOTES.md#n-164)
+
+<a id="u03755"></a>
+
+### U03755
+
+Source characters 108482–108509.
+
+> མཐའ་ཡི་བྱེད་པ་ལས་དང་རྒྱུ། །
+
+The agents of limits are activity and cause;
+
+Review links: [N-164](../REVIEW-NOTES.md#n-164)
+
+<a id="u03756"></a>
+
+### U03756
+
+Source characters 108509–108540.
+
+> འབྱུང་བ་དབང་པོའི་ལས་སུ་འགྱུར། །
+
+the elements become the faculties' activities.
+
+Review links: [N-164](../REVIEW-NOTES.md#n-164)
+
+<a id="u03757"></a>
+
+### U03757
+
+Source characters 108540–108563.
+
+> གཅིག་མ་ཤེས་པ་ཀ་དག་ལས། །
+
+Not knowing one: from primordial purity,
+
+Review links: [N-164](../REVIEW-NOTES.md#n-164)
+
+<a id="u03758"></a>
+
+### U03758
+
+Source characters 108563–108588.
+
+> ཆོས་ཉིད་རང་ངོ་མ་ཤེས་པས། །
+
+because the nature of phenomena's own identity is not known,
+
+Review links: [N-164](../REVIEW-NOTES.md#n-164)
+
+<a id="u03759"></a>
+
+### U03759
+
+Source characters 108588–108619.
+
+> རྒྱུ་དང་མཚུངས་པའི་ཉེར་ལེན་ནོ། །
+
+there is appropriation corresponding to the cause.
+
+Review links: [N-164](../REVIEW-NOTES.md#n-164), [N-T90](../REVIEW-NOTES.md#n-t90)
+
+<a id="u03760"></a>
+
+### U03760
+
+Source characters 108619–108648.
+
+> དམིགས་པའི་རྟེན་ནི་ཁ་དོག་ལས། །
+
+The support of focus, from colors,
+
+Review links: [N-164](../REVIEW-NOTES.md#n-164)
+
+<a id="u03761"></a>
+
+### U03761
+
+Source characters 108648–108679.
+
+> གཉིས་ཆ་ཕྲ་བའི་འགྱུ་རྟེན་གྱིས། །
+
+through the moving support of two subtle portions,
+
+Review links: [N-164](../REVIEW-NOTES.md#n-164)
+
+<a id="u03762"></a>
+
+### U03762
+
+Source characters 108679–108709.
+
+> འཁོར་བ་ལས་ཀྱི་དམིགས་གྱུར་ཏོ། །
+
+becomes the object of focus of samsaric activity. [N-164](../REVIEW-NOTES.md#n-164)
+
+Review links: [N-164](../REVIEW-NOTES.md#n-164)
+
+<a id="u03763"></a>
+
+### U03763
+
+Source characters 108709–108740.
+
+> དྲིས་ལན་བཞི་པ་དོན་བརྒྱད་བསྟན་པ།
+
+[Source annotation: The fourth reply is taught in eight points.]
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165)
+
+<a id="u03764"></a>
+
+### U03764
+
+Source characters 108740–108771.
+
+> མཚན་ཉིད་རྟོགས་པའི་བྱེ་བྲག་ནི། །
+
+The particulars of realizing characteristics:
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165)
+
+<a id="u03765"></a>
+
+### U03765
+
+Source characters 108771–108797.
+
+> ཡོད་དང་མེད་དང་སྣང་བ་དང་། །
+
+existence, nonexistence, appearance,
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165)
+
+<a id="u03766"></a>
+
+### U03766
+
+Source characters 108797–108824.
+
+> གསལ་དང་སྟོང་པ་རགས་པ་འཛིན། །
+
+clarity, emptiness, the coarse, the apprehending subject,
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165)
+
+<a id="u03767"></a>
+
+### U03767
+
+Source characters 108824–108855.
+
+> རྣམ་ཤེས་འཛིན་པའི་གཟུགས་ཅན་ནོ། །
+
+consciousness, and what possesses form. [N-165](../REVIEW-NOTES.md#n-165)
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165)
+
+<a id="u03768"></a>
+
+### U03768
+
+Source characters 108855–108883.
+
+> ཡོད་པ་དངོས་པོའི་བྱེད་པ་ཅན། །
+
+What exists has the agency of an entity;
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165)
+
+<a id="u03769"></a>
+
+### U03769
+
+Source characters 108883–108912.
+
+> སྣང་དང་མཚན་ཉིད་འཇུག་པས་ཁྱབ། །
+
+through entering appearance and characteristics, it pervades,
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165)
+
+<a id="u03770"></a>
+
+### U03770
+
+Source characters 108912–108939.
+
+> ལས་དང་བྱེ་བྲག་ཉེ་བར་སྟོན། །
+
+and closely reveals activities and particulars.
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165)
+
+<a id="u03771"></a>
+
+### U03771
+
+Source characters 108939–108968.
+
+> མེད་པས་གཟུགས་ལ་སོགས་པ་སྤང༌། །
+
+Through nonexistence, form and so forth are abandoned.
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165)
+
+<a id="u03772"></a>
+
+### U03772
+
+Source characters 108968–108995.
+
+> ཡིད་དང་ཤེས་པའི་འཇུག་པ་ཅན། །
+
+There is entry of mental faculty and knowing;
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165)
+
+<a id="u03773"></a>
+
+### U03773
+
+Source characters 108995–109023.
+
+> མཚན་ཉིད་རྟག་ཏུ་མ་རྙེད་པའོ། །
+
+characteristics are never found.
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165)
+
+<a id="u03774"></a>
+
+### U03774
+
+Source characters 109023–109050.
+
+> སྣང་བ་གཟུགས་ལ་སོགས་པ་སྟེ། །
+
+Appearance is form and so forth.
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165)
+
+<a id="u03775"></a>
+
+### U03775
+
+Source characters 109050–109081.
+
+> འཛིན་ཅིང་མཆེད་པ་སྡུད་པར་བྱེད། །
+
+It holds, spreads, and gathers,
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165)
+
+<a id="u03776"></a>
+
+### U03776
+
+Source characters 109081–109112.
+
+> གཉིས་འཇུག་ཁྱབ་པའི་རང་བཞིན་ཅན། །
+
+with the intrinsic nature of paired entry and pervasion.
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165)
+
+<a id="u03777"></a>
+
+### U03777
+
+Source characters 109112–109138.
+
+> གསལ་བས་རང་ངོ་སྟོན་པ་དང༌། །
+
+Clarity reveals its own identity
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165)
+
+<a id="u03778"></a>
+
+### U03778
+
+Source characters 109138–109160.
+
+> མི་སྣང་བ་ལས་ལོག་པའོ། །
+
+and is the reverse of nonappearance.
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165)
+
+<a id="u03779"></a>
+
+### U03779
+
+Source characters 109160–109185.
+
+> སྟོང་པ་སྐྱེ་བ་མ་ཡིན་ལས། །
+
+Emptiness is not birth;
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165)
+
+<a id="u03780"></a>
+
+### U03780
+
+Source characters 109185–109216.
+
+> གདངས་དང་མཐའ་དབུས་མེད་པར་སྟོན། །
+
+it reveals radiance and absence of limits or center.
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165)
+
+<a id="u03781"></a>
+
+### U03781
+
+Source characters 109216–109241.
+
+> མ་བྱུང་བས་ན་འགག་མེད་དོ། །
+
+Because it has not arisen, it does not cease.
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165)
+
+<a id="u03782"></a>
+
+### U03782
+
+Source characters 109241–109267.
+
+> རགས་པ་རྡུལ་དང་ཕྲ་རགས་ལས། །
+
+The coarse, from fine and coarse particles,
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165)
+
+<a id="u03783"></a>
+
+### U03783
+
+Source characters 109267–109298.
+
+> སྣ་ཚོགས་གཟུགས་སུ་རྫོགས་པ་དང༌། །
+
+is complete as manifold forms;
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165)
+
+<a id="u03784"></a>
+
+### U03784
+
+Source characters 109298–109324.
+
+> རེག་ཡོད་འཇིག་པར་སྣང་བའོ། །
+
+it is tangible and appears as destructible.
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165)
+
+<a id="u03785"></a>
+
+### U03785
+
+Source characters 109324–109351.
+
+> འཛིན་པ་དབང་པོའི་ཡུལ་དག་ལ། །
+
+The apprehending subject, toward the objects of the faculties,
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165)
+
+<a id="u03786"></a>
+
+### U03786
+
+Source characters 109351–109380.
+
+> སོ་སོའི་བཟུང་བས་འཆིང་བ་དང༌། །
+
+binds through their respective apprehension,
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165)
+
+<a id="u03787"></a>
+
+### U03787
+
+Source characters 109380–109410.
+
+> བདག་དང་ཉོན་མོངས་ལས་ཀུན་བྱེད། །
+
+and performs all activities of selfhood and afflictions.
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165)
+
+<a id="u03788"></a>
+
+### U03788
+
+Source characters 109410–109436.
+
+> རྣམ་པར་ཤེས་པ་རྟོག་པའི་ཆ། །
+
+Consciousness is a portion of conceptual thought:
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165)
+
+<a id="u03789"></a>
+
+### U03789
+
+Source characters 109436–109465.
+
+> ཡུལ་ལ་འཇུག་ཅིང་སྤྱོད་པ་དང༌། །
+
+it enters objects and engages with them,
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165)
+
+<a id="u03790"></a>
+
+### U03790
+
+Source characters 109465–109493.
+
+> རྟོག་དང་ལས་ཀྱི་རྣམ་པར་རྟོག །
+
+and differentiating conceptualization concerns thought and activity.
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165)
+
+<a id="u03791"></a>
+
+### U03791
+
+Source characters 109493–109523.
+
+> གཟུགས་ཅན་རིག་བཅས་བེམ་པོ་སྟེ། །
+
+What possesses form is aware [or] insentient,
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165), [N-T90](../REVIEW-NOTES.md#n-t90)
+
+<a id="u03792"></a>
+
+### U03792
+
+Source characters 109523–109549.
+
+> སེམས་སྡུད་པ་དང་བཀོད་པའོ། །
+
+gathering and arranging ordinary mind. [N-165](../REVIEW-NOTES.md#n-165)
+
+Review links: [N-165](../REVIEW-NOTES.md#n-165)
+
+<a id="u03793"></a>
+
+### U03793
+
+Source characters 109549–109579.
+
+> དྲིས་ལན་ལྔ་པ་དོན་བརྒྱད་བསྟན་པ།
+
+[Source annotation: The fifth reply is taught in eight points.]
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03794"></a>
+
+### U03794
+
+Source characters 109579–109607.
+
+> སེམས་ཅན་ཀུན་གྱི་ཐ་དད་རྒྱུ། །
+
+The causes of all sentient beings' differences:
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03795"></a>
+
+### U03795
+
+Source characters 109607–109639.
+
+> འབྱུང་བའི་རྒྱུ་དང་བྱེད་ལས་དང༌། །
+
+elemental causes and activities of agency,
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03796"></a>
+
+### U03796
+
+Source characters 109639–109668.
+
+> དབང་པོ་ཉིད་དང་དབྱིབས་དང་ཚད། །
+
+the faculties themselves, shapes and measures,
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03797"></a>
+
+### U03797
+
+Source characters 109668–109697.
+
+> སྒྲ་དང་སོ་སོའི་བརྗོད་པ་དང༌། །
+
+sounds and respective expressions,
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03798"></a>
+
+### U03798
+
+Source characters 109697–109727.
+
+> གནས་པའི་སྣོད་ཀྱི་བྱེ་བྲག་གོ། །
+
+and particulars of the vessels in which they abide.
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03799"></a>
+
+### U03799
+
+Source characters 109727–109757.
+
+> འབྱུང་བའི་རྒྱུ་ནི་བཞི་དག་ལས། །
+
+The elemental causes, from four,
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03800"></a>
+
+### U03800
+
+Source characters 109757–109786.
+
+> བརྟགས་པས་དྲུག་ཅུ་དག་ཡིན་ཏེ། །
+
+when examined, are sixty;
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03801"></a>
+
+### U03801
+
+Source characters 109786–109817.
+
+> རྣམ་པར་ཕྱེ་བས་བཞི་བརྒྱ་བཞིའོ། །
+
+when differentiated, four hundred and four.
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03802"></a>
+
+### U03802
+
+Source characters 109817–109849.
+
+> བྱེད་པའི་ལས་ནི་བཞི་གཉིས་དག་ལས། །
+
+The activities of agency, from four and two,
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03803"></a>
+
+### U03803
+
+Source characters 109849–109889.
+
+> བརྟགས་པས་བཅུ་གཉིས་དྲུག་ཅུ་དག་ཏུ་འགྱུར། །
+
+when examined, become twelve and sixty.
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03804"></a>
+
+### U03804
+
+Source characters 109889–109915.
+
+> དེ་ལས་རིགས་དྲུག་ཐ་དད་དོ། །
+
+From these, the six classes differ. [N-166](../REVIEW-NOTES.md#n-166)
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03805"></a>
+
+### U03805
+
+Source characters 109915–109940.
+
+> དབང་པོ་མིག་ལ་སོགས་པ་ཡི། །
+
+For faculties such as the eyes,
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03806"></a>
+
+### U03806
+
+Source characters 109940–109969.
+
+> དབྱིབས་དང་ཁ་དོག་མི་མཐུན་པས། །
+
+through differences in shapes and colors,
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03807"></a>
+
+### U03807
+
+Source characters 109969–109999.
+
+> བཞི་བརྒྱ་དག་དང་བཞི་ཡིས་ཀྱང་། །
+
+also through four hundred and four,
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03808"></a>
+
+### U03808
+
+Source characters 109999–110025.
+
+> སེམས་ཅན་ལུས་ཀྱང་ཐ་དད་དོ། །
+
+the bodies of beings differ.
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03809"></a>
+
+### U03809
+
+Source characters 110025–110054.
+
+> དབྱིབས་ནི་ལུས་དང་ཡན་ལག་དང་། །
+
+Through bodily shape, body and limbs,
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03810"></a>
+
+### U03810
+
+Source characters 110054–110085.
+
+> སོ་སོའི་གླིང་དང་དབང་པོས་ཀྱང་། །
+
+and their respective continents and faculties,
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03811"></a>
+
+### U03811
+
+Source characters 110085–110116.
+
+> འགྲོ་བའི་གཟུགས་ཀྱང་དེས་ཕྱེའོ། །
+
+the forms of beings are differentiated.
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03812"></a>
+
+### U03812
+
+Source characters 110116–110144.
+
+> ཚད་ནི་རིགས་དྲུག་སོ་སོ་སྟེ། །
+
+Measures concern each of the six classes:
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03813"></a>
+
+### U03813
+
+Source characters 110144–110166.
+
+> ཐོག་མ་བར་དང་ཐ་མ་དང༌། །
+
+beginning, middle, and end,
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03814"></a>
+
+### U03814
+
+Source characters 110166–110198.
+
+> སོ་སོའི་བསོད་ནམས་ལས་ཀྱིས་དབྱེ། །
+
+distinguished by their respective merit and karma.
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03815"></a>
+
+### U03815
+
+Source characters 110198–110224.
+
+> སྒྲ་ནི་རིང་དང་ཐུང་བ་དང༌། །
+
+Sounds are long and short,
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03816"></a>
+
+### U03816
+
+Source characters 110224–110254.
+
+> དྲག་དང་ཞན་དང་གཟིར་དང་དབྱུང༌། །
+
+strong and weak, pressing and releasing,
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03817"></a>
+
+### U03817
+
+Source characters 110254–110278.
+
+> ཕྲ་དང་སེང་དང་རྩེ་མོའོ། །
+
+subtle, seng [unresolved], and pointed. [N-166](../REVIEW-NOTES.md#n-166)
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166), [N-T91](../REVIEW-NOTES.md#n-t91)
+
+<a id="u03818"></a>
+
+### U03818
+
+Source characters 110278–110305.
+
+> དངོས་པོ་ས་ཆུ་མེ་རླུང་གིས། །
+
+Entities, through earth, water, fire, and wind,
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03819"></a>
+
+### U03819
+
+Source characters 110305–110333.
+
+> ཤེས་པ་ཉིད་དང་བསོད་ནམས་དང༌། །
+
+are examined through knowing itself, merit,
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03820"></a>
+
+### U03820
+
+Source characters 110333–110364.
+
+> དབང་ཐང་ལུས་ཀྱི་ཤས་ཀྱིས་བརྟགས། །
+
+ascendancy, and bodily portions.
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03821"></a>
+
+### U03821
+
+Source characters 110364–110393.
+
+> བརྗོད་པ་གནས་དང་འབྱུང་བ་དང་། །
+
+Expression: place, elements,
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03822"></a>
+
+### U03822
+
+Source characters 110393–110418.
+
+> ལས་དང་རྟོག་པ་རང་གནད་དོ། །
+
+activity, and conceptual thought—their own crucial points.
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03823"></a>
+
+### U03823
+
+Source characters 110418–110445.
+
+> གནས་པའི་སྣོད་ནི་དག་པ་དང༌། །
+
+The vessels of abiding are pure
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03824"></a>
+
+### U03824
+
+Source characters 110445–110472.
+
+> མ་དག་པ་ཡང་བཅུད་ཀྱིས་དབྱེ། །
+
+or impure, distinguished by their inhabitants.
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03825"></a>
+
+### U03825
+
+Source characters 110472–110500.
+
+> དེས་ན་འབྱུང་བའི་རང་གནད་ལས། །
+
+Therefore, through the elements' own crucial points,
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03826"></a>
+
+### U03826
+
+Source characters 110500–110526.
+
+> སེམས་ཅན་ལུས་ཀྱང་ཐ་དད་དོ། །
+
+the bodies of beings differ. [N-166](../REVIEW-NOTES.md#n-166)
+
+Review links: [N-166](../REVIEW-NOTES.md#n-166)
+
+<a id="u03827"></a>
+
+### U03827
+
+Source characters 110526–110558.
+
+> དྲིས་ལན་དྲུག་པ་དོན་བརྒྱད་བསྟན་པ།
+
+[Source annotation: The sixth reply is taught in eight points.]
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03828"></a>
+
+### U03828
+
+Source characters 110558–110590.
+
+> རང་བཞིན་རྫོགས་པའི་གནས་སྐབས་ནི། །
+
+The state in which intrinsic nature is complete:
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03829"></a>
+
+### U03829
+
+Source characters 110590–110620.
+
+> ཆོས་ཉིད་དབྱིངས་དང་རང་ངོ་དང་། །
+
+the nature of phenomena, basic space, and own identity;
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03830"></a>
+
+### U03830
+
+Source characters 110620–110647.
+
+> འགྱུ་བ་སྟོང་དང་རྟོག་པ་ཟད། །
+
+movement empty and conceptual thought exhausted;
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03831"></a>
+
+### U03831
+
+Source characters 110647–110675.
+
+> གཞི་རྫོགས་ལམ་དང་འབྲས་བུའོ། །
+
+completion in the Ground, path, and result.
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03832"></a>
+
+### U03832
+
+Source characters 110675–110705.
+
+> ཆོས་ཉིད་སུས་ཀྱང་བཅོས་སུ་མེད། །
+
+The nature of phenomena cannot be contrived by anyone.
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03833"></a>
+
+### U03833
+
+Source characters 110705–110732.
+
+> རང་བཞིན་དག་པ་སྤྲོས་པ་བྲལ། །
+
+Intrinsic nature is pure, free from conceptual elaborations,
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03834"></a>
+
+### U03834
+
+Source characters 110732–110759.
+
+> རྣམ་རྟོག་ཐ་དད་ཡུལ་ལས་འདས། །
+
+beyond the object of distinct differentiating conceptualizations.
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03835"></a>
+
+### U03835
+
+Source characters 110759–110791.
+
+> ཚིག་བྱུང་འཁྲུལ་པ་རྒྱུན་ཆད་པའོ། །
+
+The flow of delusion arising through words is cut. [N-167](../REVIEW-NOTES.md#n-167)
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03836"></a>
+
+### U03836
+
+Source characters 110791–110820.
+
+> དབྱིངས་ནི་ཕྱི་དང་ནང་གི་སྟེ། །
+
+Basic space has outer and inner aspects.
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03837"></a>
+
+### U03837
+
+Source characters 110820–110850.
+
+> ཕྱི་ནི་སྤྲིན་བྲལ་མཁའ་ལ་འཛིན། །
+
+Outer: hold [the focus] in cloud-free space.
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03838"></a>
+
+### U03838
+
+Source characters 110850–110880.
+
+> བག་རྡུལ་ཆར་གྱིས་དེངས་དུས་སུ། །
+
+When fine dust has been cleared by rain,
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03839"></a>
+
+### U03839
+
+Source characters 110880–110911.
+
+> མཁས་པས་མངོན་སུམ་གནད་གཟིར་དང༌། །
+
+the skilled person presses the crucial point of direct perception,
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03840"></a>
+
+### U03840
+
+Source characters 110911–110938.
+
+> ནང་གི་སྒྲོན་མ་ལམ་དུ་བྱའོ། །
+
+and takes the inner lamps as the path.
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03841"></a>
+
+### U03841
+
+Source characters 110938–110964.
+
+> རང་ངོ་རིག་པ་ལུ་གུ་རྒྱུད། །
+
+Own identity: awareness as vajra chains,
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03842"></a>
+
+### U03842
+
+Source characters 110964–110990.
+
+> འགྲོ་འོང་ཕྲལ་ཏེ་མཁའ་ལའོ། །
+
+separating going and coming, in space. [N-167](../REVIEW-NOTES.md#n-167)
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03843"></a>
+
+### U03843
+
+Source characters 110990–111020.
+
+> འགྱུ་བ་རླུང་གཉིས་བྱེད་པ་བཅད། །
+
+Movement: cut the activity of the two winds.
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03844"></a>
+
+### U03844
+
+Source characters 111020–111048.
+
+> དགུ་པ་ཡི་ནི་རླུང་གིས་དབྱེ། །
+
+Distinguish through the ninth wind;
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03845"></a>
+
+### U03845
+
+Source characters 111048–111080.
+
+> གནས་སུ་འཇུག་པ་ཐབས་ཀྱིས་དབྱེའོ། །
+
+distinguish entry into abiding through methods.
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03846"></a>
+
+### U03846
+
+Source characters 111080–111107.
+
+> དཔེ་ནི་རླུང་དག་སྟོང་པ་ཡི། །
+
+The example: through the winds being empty,
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03847"></a>
+
+### U03847
+
+Source characters 111107–111134.
+
+> སྣང་བ་ཐམས་ཅད་ཟད་པར་འགྱུར། །
+
+all appearances become exhausted.
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03848"></a>
+
+### U03848
+
+Source characters 111134–111161.
+
+> དེ་ལྟར་རྣམ་རྟོག་ཟད་པ་དང་། །
+
+Likewise, the exhaustion of differentiating conceptualization
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03849"></a>
+
+### U03849
+
+Source characters 111161–111191.
+
+> སྐྱེ་མེད་ཡེ་ཤེས་དུས་མཉམ་སྟེ། །
+
+and unborn primordial knowing are simultaneous.
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03850"></a>
+
+### U03850
+
+Source characters 111191–111219.
+
+> འདི་ཚེ་འཁོར་འདས་འདྲེས་པའོ། །
+
+At this time, samsara and nirvana mix.
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03851"></a>
+
+### U03851
+
+Source characters 111219–111248.
+
+> དེ་ཡང་གཞི་ལ་རྫོ་གས་པའི་གནད། །
+
+This, too, is the crucial point of completion in the Ground. [N-167](../REVIEW-NOTES.md#n-167)
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03852"></a>
+
+### U03852
+
+Source characters 111248–111278.
+
+> རང་བཞིན་མ་བཅོས་མངོན་དུ་སྣང་། །
+
+Uncontrived intrinsic nature appears manifestly.
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03853"></a>
+
+### U03853
+
+Source characters 111278–111308.
+
+> ལམ་ནི་སྒྲོན་མས་མཚམས་སྦྱར་ནས། །
+
+The path: through connecting with the lamps,
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03854"></a>
+
+### U03854
+
+Source characters 111308–111334.
+
+> མངོན་སུམ་ཉིད་དུ་སྣང་བའོ། །
+
+it appears in direct perception itself.
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03855"></a>
+
+### U03855
+
+Source characters 111334–111362.
+
+> འབྲས་བུ་གང་དུ་བཟློག་པ་མེད། །
+
+The result cannot be turned back anywhere.
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03856"></a>
+
+### U03856
+
+Source characters 111362–111391.
+
+> འདོད་དང་རེ་དོགས་ཡུལ་ལས་འདས། །
+
+It transcends objects of desire, hope, and fear.
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03857"></a>
+
+### U03857
+
+Source characters 111391–111417.
+
+> རང་སྣང་ཀ་ནས་དག་པར་རྫོགས། །
+
+Self-appearance is complete as pure from the outset;
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03858"></a>
+
+### U03858
+
+Source characters 111417–111446.
+
+> ཤེས་འཛིན་རྟོག་པ་ཀུན་ཟད་པའོ། །
+
+knowing, holding, and conceptual thought are all exhausted. [N-167](../REVIEW-NOTES.md#n-167)
+
+Review links: [N-167](../REVIEW-NOTES.md#n-167)
+
+<a id="u03859"></a>
+
+### U03859
+
+Source characters 111446–111478.
+
+> དྲིས་ལན་བདུན་པ་དོན་བརྒྱད་བསྟན་པ།
+
+[Source annotation: The seventh reply is taught in eight points.]
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03860"></a>
+
+### U03860
+
+Source characters 111478–111505.
+
+> མིང་གི་མཚན་ཉིད་བྱེད་པ་ནི། །
+
+What makes the characteristics of names:
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03861"></a>
+
+### U03861
+
+Source characters 111505–111535.
+
+> རྒྱུ་དང་རྐྱེན་དང་བཏགས་པ་དང་། །
+
+cause, conditions, imputation,
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03862"></a>
+
+### U03862
+
+Source characters 111535–111561.
+
+> མཐའ་དང་དང་པོ་ཐ་མ་བསྒྱུར། །
+
+limits, the first, transformation of the last,
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03863"></a>
+
+### U03863
+
+Source characters 111561–111591.
+
+> བརྟགས་པས་མ་རྙེད་ཐ་སྙད་གཞིའོ། །
+
+not finding through examination, and the basis of convention. [N-168](../REVIEW-NOTES.md#n-168)
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168), [N-T88](../REVIEW-NOTES.md#n-t88)
+
+<a id="u03864"></a>
+
+### U03864
+
+Source characters 111591–111619.
+
+> མིང་གི་རྒྱུ་ནི་ཚིག་གི་བརྡ། །
+
+The cause of a name is a verbal symbol.
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03865"></a>
+
+### U03865
+
+Source characters 111619–111645.
+
+> མཚན་ཉིད་གང་དུ་མ་གྲུབ་པས། །
+
+Because characteristics are not established anywhere,
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03866"></a>
+
+### U03866
+
+Source characters 111645–111671.
+
+> ལྟར་སྣང་གདགས་སུ་མེད་པའོ། །
+
+what merely appears cannot be designated. [N-168](../REVIEW-NOTES.md#n-168)
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03867"></a>
+
+### U03867
+
+Source characters 111671–111700.
+
+> རྐྱེན་ནི་དབང་པོ་ཐད་ཀའི་ཡུལ། །
+
+The conditions are the objects directly before the faculties.
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03868"></a>
+
+### U03868
+
+Source characters 111700–111726.
+
+> སོ་སོའི་སྣང་ཞེན་བཅས་པ་ལ། །
+
+In their respective appearances accompanied by clinging,
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03869"></a>
+
+### U03869
+
+Source characters 111726–111755.
+
+> ཀུན་གཞི་ཚོགས་པའི་སྣང་ཆར་ཤར། །
+
+the gathering of the all-basis arises as aspects of appearance.
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03870"></a>
+
+### U03870
+
+Source characters 111755–111786.
+
+> བཏགས་པས་བརྡ་དང་སྒྱུར་བྱེད་ལས། །
+
+Through imputation, from symbols and agents of transformation,
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03871"></a>
+
+### U03871
+
+Source characters 111786–111813.
+
+> མཚན་ཉིད་ཉེ་བར་སྟོན་པ་དང་། །
+
+characteristics are closely shown.
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03872"></a>
+
+### U03872
+
+Source characters 111813–111844.
+
+> ཁྱད་པར་མིང་གིས་གང་བསྒྱུར་གནད། །
+
+In particular, the crucial point of what is transformed by a name:
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03873"></a>
+
+### U03873
+
+Source characters 111844–111874.
+
+> སོ་སོའི་སྐབས་དང་སྦྱར་བྱས་ནས། །
+
+joining [it] with each respective occasion,
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03874"></a>
+
+### U03874
+
+Source characters 111874–111907.
+
+> བཅོམ་ལྡན་འདས་ཀྱང་འཇིག་པར་འགྱུར། །
+
+even the Blessed One will be destroyed. [N-168](../REVIEW-NOTES.md#n-168)
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03875"></a>
+
+### U03875
+
+Source characters 111907–111940.
+
+> མཐའ་ནི་འབྱུང་བའི་གནད་ཀྱིས་དབྱེ། །
+
+Limits are distinguished through the elements' crucial points.
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03876"></a>
+
+### U03876
+
+Source characters 111940–111968.
+
+> བསད་དང་གསོ་དང་འཇིག་པའི་ལས། །
+
+Killing, restoring, and destroying activities
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03877"></a>
+
+### U03877
+
+Source characters 111968–112000.
+
+> མིང་དང་རྟེན་ཅིང་འབྲེལ་པས་བྱའོ། །
+
+are performed through names and dependent connections.
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03878"></a>
+
+### U03878
+
+Source characters 112000–112027.
+
+> དང་པོ་བཏགས་པའི་མིང་ཡི་གེ། །
+
+First, the letters of the imputed name:
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03879"></a>
+
+### U03879
+
+Source characters 112027–112052.
+
+> དང་པོ་དག་ལ་བརྟེན་པ་ཡིས། །
+
+through relying on their first [letters],
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03880"></a>
+
+### U03880
+
+Source characters 112052–112078.
+
+> བསད་དང་གསོ་དང་གནས་པ་ཉིད། །
+
+killing, restoring, and abiding itself—
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03881"></a>
+
+### U03881
+
+Source characters 112078–112108.
+
+> སོ་སོའི་ཚད་ཀྱིས་ཤེས་པར་གྱིས། །
+
+know these through their respective measures.
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03882"></a>
+
+### U03882
+
+Source characters 112108–112136.
+
+> ཐ་མ་བསྒྱུར་བའི་མིང་གི་མཐའ། །
+
+For the end of the name transformed last,
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03883"></a>
+
+### U03883
+
+Source characters 112136–112169.
+
+> བཟློག་ཅིང་བཞག་པ་འབྱུང་ལུས་སྦྱར། །
+
+reverse and place [it], joining elements and body.
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03884"></a>
+
+### U03884
+
+Source characters 112169–112196.
+
+> ཡང་དག་ཆོས་ཉིད་རྟོག་བྲལ་ལ། །
+
+In the authentic nature of phenomena, free from conceptual thought,
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168), [N-T90](../REVIEW-NOTES.md#n-t90)
+
+<a id="u03885"></a>
+
+### U03885
+
+Source characters 112196–112223.
+
+> མིང་གི་མཚན་ཉིད་རབ་ཕྱེ་ནས། །
+
+having thoroughly distinguished the characteristics of names,
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03886"></a>
+
+### U03886
+
+Source characters 112223–112249.
+
+> ཕྱི་དང་ནང་ལ་རབ་བརྟགས་པས། །
+
+through thorough examination of outer and inner,
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03887"></a>
+
+### U03887
+
+Source characters 112249–112277.
+
+> མིང་གིས་མཚན་ཉིད་མ་རྙེད་པས། །
+
+because characteristics are not found through names,
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03888"></a>
+
+### U03888
+
+Source characters 112277–112304.
+
+> རང་གི་ཆོ་ག་རྫོགས་པར་འདོད། །
+
+one wishes to complete one's own rite. [N-168](../REVIEW-NOTES.md#n-168)
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03889"></a>
+
+### U03889
+
+Source characters 112304–112331.
+
+> ཐ་སྙད་རྣམས་ནི་ཚིག་གི་མཐའ། །
+
+Conventions are the limits of words.
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03890"></a>
+
+### U03890
+
+Source characters 112331–112362.
+
+> གང་དུའང་ཡོད་མེད་མཐའ་ཡིས་དབྱེ། །
+
+Distinguish them everywhere through the extremes of existence and nonexistence.
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03891"></a>
+
+### U03891
+
+Source characters 112362–112394.
+
+> ལུས་སེམས་གཉིས་ལ་བརྟགས་གཞིག་པས། །
+
+Through examining and analyzing body and ordinary mind, the two,
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03892"></a>
+
+### U03892
+
+Source characters 112394–112418.
+
+> ཐ་སྙད་གཞི་ཡང་སྟོང་པའོ། །
+
+the basis of convention, too, is empty.
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168), [N-T88](../REVIEW-NOTES.md#n-t88)
+
+<a id="u03893"></a>
+
+### U03893
+
+Source characters 112418–112447.
+
+> གཞི་ནི་གཅིག་དང་གཉིས་སུ་མིན། །
+
+The Ground is neither one nor two.
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03894"></a>
+
+### U03894
+
+Source characters 112447–112479.
+
+> བཏགས་སྟོང་ཡོད་མེད་མཐའ་འགགས་ཏེ། །
+
+Imputed emptiness: the extremes of existence and nonexistence stop.
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03895"></a>
+
+### U03895
+
+Source characters 112479–112507.
+
+> བྱས་དང་བྱུང་བ་སུས་མི་རྙེད། །
+
+No one finds what is made or what has arisen.
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03896"></a>
+
+### U03896
+
+Source characters 112507–112537.
+
+> དེ་བཞིན་གནས་དང་འགྲོ་འོང་མེད། །
+
+Likewise, there is no abiding, going, or coming.
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03897"></a>
+
+### U03897
+
+Source characters 112537–112564.
+
+> དེ་ཕྱིར་ཆོས་ཉིད་སྟོང་པའོ། །
+
+Therefore, the nature of phenomena is empty. [N-168](../REVIEW-NOTES.md#n-168)
+
+Review links: [N-168](../REVIEW-NOTES.md#n-168)
+
+<a id="u03898"></a>
+
+### U03898
+
+Source characters 112564–112596.
+
+> དྲིས་ལན་བརྒྱད་པ་དོན་བདུན་བསྟན་པ།
+
+[Source annotation: The eighth reply is taught in seven points.]
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03899"></a>
+
+### U03899
+
+Source characters 112596–112622.
+
+> སེམས་ཅན་ལས་དང་དབང་པོ་ནི། །
+
+Sentient beings' karma and faculties:
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03900"></a>
+
+### U03900
+
+Source characters 112622–112651.
+
+> རླུང་དང་ཤེས་པ་ཕྱི་སྣོད་དང་། །
+
+wind, knowing, the outer vessel,
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03901"></a>
+
+### U03901
+
+Source characters 112651–112682.
+
+> འབྱུང་བ་སྤྱི་དང་ཁྱབ་བྱེད་ཚུལ། །
+
+the elements in general, and the manner of pervading;
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03902"></a>
+
+### U03902
+
+Source characters 112682–112711.
+
+> གསུམ་དང་དགུ་དང་ཉེར་གཅིག་གོ། །
+
+three, nine, and twenty-one. [N-169](../REVIEW-NOTES.md#n-169)
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03903"></a>
+
+### U03903
+
+Source characters 112711–112739.
+
+> སེམས་ཅན་ལས་ནི་རླུང་གི་ཡང༌། །
+
+Sentient beings' karma, too, is impelled
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03904"></a>
+
+### U03904
+
+Source characters 112739–112768.
+
+> འབྱུང་བའི་འཕེན་པ་དག་ཏུ་ཕུལ། །
+
+into the elemental projection of wind.
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03905"></a>
+
+### U03905
+
+Source characters 112768–112795.
+
+> དེ་ལས་ལས་ཀྱི་བྱེ་བྲག་གིས། །
+
+From this, through karmic particulars,
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03906"></a>
+
+### U03906
+
+Source characters 112795–112827.
+
+> འཇུག་ཅིང་ཐབས་ཀྱིས་རབ་ཏུ་འབྱེད། །
+
+one enters and thoroughly distinguishes through methods.
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03907"></a>
+
+### U03907
+
+Source characters 112827–112853.
+
+> དེ་ཡི་བྱེད་པའི་ཤེས་པ་ནི། །
+
+The knowing that enacts this,
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03908"></a>
+
+### U03908
+
+Source characters 112853–112883.
+
+> མཁའ་ལ་སྤྲིན་གྱི་རང་བཞིན་ཉིད། །
+
+like the intrinsic nature of clouds in space
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03909"></a>
+
+### U03909
+
+Source characters 112883–112912.
+
+> རླུང་གིས་གཏོར་བ་ཅི་བཞིན་དུ། །
+
+being scattered by wind,
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03910"></a>
+
+### U03910
+
+Source characters 112912–112941.
+
+> དུམ་བུ་དུམ་བུས་ལས་སྣང་སྟོན། །
+
+reveals karmic appearances piece by piece.
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03911"></a>
+
+### U03911
+
+Source characters 112941–112967.
+
+> དེ་ལས་ལུས་ངག་ཡིད་གསུམ་ལ། །
+
+From this, through maturing into body, speech, and mental faculty,
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03912"></a>
+
+### U03912
+
+Source characters 112967–112996.
+
+> སྨིན་པས་ལས་ཀྱི་རྣམ་པར་སྟོན། །
+
+the forms of karma are revealed.
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03913"></a>
+
+### U03913
+
+Source characters 112996–113023.
+
+> འབྱུང་བ་ས་ཆུ་མེ་རླུང་གིས། །
+
+Through the elements—earth, water, fire, and wind—
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03914"></a>
+
+### U03914
+
+Source characters 113023–113051.
+
+> ལུས་སུ་རྫོགས་པ་རླུང་གི་ལས། །
+
+completion as a body is wind's activity.
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03915"></a>
+
+### U03915
+
+Source characters 113051–113079.
+
+> ཁྱབ་བྱེད་སེམས་ཅན་ཐམས་ཅད་ལ། །
+
+Pervading: all sentient beings,
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03916"></a>
+
+### U03916
+
+Source characters 113079–113109.
+
+> འབྱུང་བཞིའི་ལུས་ལས་མ་འདས་པས། །
+
+because they do not go beyond a body of four elements,
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03917"></a>
+
+### U03917
+
+Source characters 113109–113137.
+
+> སོ་སོའི་ལས་ཀྱི་སྡེབས་སུའོ། །
+
+are in their respective combinations of karma.
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03918"></a>
+
+### U03918
+
+Source characters 113137–113166.
+
+> ཚུལ་ནི་གཟུགས་སུ་གྲུབ་པ་དང་། །
+
+Manner: being established as form,
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03919"></a>
+
+### U03919
+
+Source characters 113166–113191.
+
+> དེ་ཡི་ལས་ཀྱི་སྔ་ཕྱི་ལས། །
+
+from the earlier and later aspects of its karma,
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03920"></a>
+
+### U03920
+
+Source characters 113191–113222.
+
+> སོ་སོར་བླངས་ཏེ་མྱོང་བར་འགྱུར། །
+
+each takes up and experiences [them]. [N-169](../REVIEW-NOTES.md#n-169)
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03921"></a>
+
+### U03921
+
+Source characters 113222–113250.
+
+> དབང་པོ་གསུམ་ནི་རབ་འབྲིང་ཐ། །
+
+The three faculties are superior, middling, and inferior.
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03922"></a>
+
+### U03922
+
+Source characters 113250–113278.
+
+> དེས་ནི་ཐེག་གསུམ་འདུ་ཤེས་བྲལ།
+
+Through these, the three vehicles are free from perception. [N-169](../REVIEW-NOTES.md#n-169)
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03923"></a>
+
+### U03923
+
+Source characters 113278–113307.
+
+>  དེ་ལས་གསུམ་གསུམ་རབ་ཕྱེ་བས། །
+
+Thoroughly dividing each into three,
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03924"></a>
+
+### U03924
+
+Source characters 113307–113338.
+
+> དགུ་སྟེ་ཐེག་དགུ་དབང་པོའི་གནད། །
+
+there are nine: the faculties' crucial point of the nine vehicles.
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03925"></a>
+
+### U03925
+
+Source characters 113338–113365.
+
+> དེ་ལས་གཉིས་སུ་རབ་ཕྱེས་ཏེ། །
+
+From these, thoroughly dividing into two,
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03926"></a>
+
+### U03926
+
+Source characters 113365–113393.
+
+> དགུ་ཕྲག་གཉིས་ཏེ་སྣང་བའི་ཆ། །
+
+there are two sets of nine: aspects of appearance.
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03927"></a>
+
+### U03927
+
+Source characters 113393–113423.
+
+> གཞི་ལ་གསུམ་བཞག་ཉེར་གཅིག་གིས། །
+
+Placing three in the Ground, through twenty-one,
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03928"></a>
+
+### U03928
+
+Source characters 113423–113450.
+
+> སྣང་བ་ཉེར་གཅིག་རྫོགས་པའོ། །
+
+the twenty-one appearances are complete. [N-169](../REVIEW-NOTES.md#n-169)
+
+Review links: [N-169](../REVIEW-NOTES.md#n-169)
+
+<a id="u03929"></a>
+
+### U03929
+
+Source characters 113450–113483.
+
+> དྲིས་ལན་དགུ་པ་ནང་དོན་དྲུག་བསྟན་པ།
+
+[Source annotation: The ninth reply is taught in six inner points.]
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170)
+
+<a id="u03930"></a>
+
+### U03930
+
+Source characters 113483–113509.
+
+>  ཚིག་གི་འཇུག་པ་འདི་ལྟ་སྟེ།
+
+The entry of words is like this:
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170)
+
+<a id="u03931"></a>
+
+### U03931
+
+Source characters 113509–113540.
+
+> ཚངས་པ་ཁྱབ་འཇུག་བརྒྱ་བྱིན་དང་། །
+
+Brahmā, the All-Pervader, and the Hundred-Giver;
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170)
+
+<a id="u03932"></a>
+
+### U03932
+
+Source characters 113540–113571.
+
+> མཁའ་ལྡིང་དབང་ཕྱུག་དྲག་པོ་དང༌། །
+
+the Sky-Soarer, the Powerful Lord, and the Fierce One;
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170)
+
+<a id="u03933"></a>
+
+### U03933
+
+Source characters 113571–113598.
+
+> སོ་སོའི་སྒྲ་དང་ལྷ་ཡི་སྐད། །
+
+their respective sounds and the voices of gods.
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170)
+
+<a id="u03934"></a>
+
+### U03934
+
+Source characters 113598–113627.
+
+> གནས་གཞན་བརྩིས་པས་ཚིག་ལ་འཇུག །
+
+By reckoning other places, one enters words. [N-170](../REVIEW-NOTES.md#n-170)
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170)
+
+<a id="u03935"></a>
+
+### U03935
+
+Source characters 113627–113655.
+
+> ཚངས་པས་ཚིགས་བཅད་དང་པོ་དང༌། །
+
+For Brahmā, the first verse,
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170)
+
+<a id="u03936"></a>
+
+### U03936
+
+Source characters 113655–113691.
+
+> ཕྱེད་རྫོགས་གནས་གཞན་བརྒྱད་དུ་འགྱུར། །
+
+half complete, becomes eight other places.
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170)
+
+<a id="u03937"></a>
+
+### U03937
+
+Source characters 113691–113722.
+
+> དབང་ཕྱུག་གིས་ནི་ཚིགས་བཅད་དགུ། །
+
+For the Powerful Lord, nine verses;
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170)
+
+<a id="u03938"></a>
+
+### U03938
+
+Source characters 113722–113754.
+
+> དེ་ཡི་གནས་ཀྱི་ཕྱེད་གཉིས་འགྱུར། །
+
+two halves of their places result.
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170)
+
+<a id="u03939"></a>
+
+### U03939
+
+Source characters 113754–113784.
+
+> ཁྱབ་འཇུག་གིས་ནི་སྟོང་གཉིས་ལ། །
+
+For the All-Pervader, in two thousand,
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170)
+
+<a id="u03940"></a>
+
+### U03940
+
+Source characters 113784–113814.
+
+> གནས་ལ་དབང་པས་གཅིག་རྫོགས་པའོ། །
+
+through mastery of the places, one is complete. [N-170](../REVIEW-NOTES.md#n-170)
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170)
+
+<a id="u03941"></a>
+
+### U03941
+
+Source characters 113814–113846.
+
+> བརྒྱ་བྱིན་གྱིས་ནི་ཚིགས་བཅད་ལྔ། །
+
+For the Hundred-Giver, five verses;
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170)
+
+<a id="u03942"></a>
+
+### U03942
+
+Source characters 113846–113880.
+
+> སྒྲ་ཡི་བཟློག་པས་གསུམ་གཉིས་རྫོགས། །
+
+through reversing sound, three and two are complete.
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170)
+
+<a id="u03943"></a>
+
+### U03943
+
+Source characters 113880–113914.
+
+> མཁའ་ལྡིང་ཚིགས་བཅད་དྲུག་གིས་ཀྱང་། །
+
+For the Sky-Soarer, through six verses,
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170)
+
+<a id="u03944"></a>
+
+### U03944
+
+Source characters 113914–113945.
+
+> རྟགས་ཕྱེ་བས་ནི་བདུན་གཉིས་ལའོ། །
+
+distinguishing signs: seven and two.
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170)
+
+<a id="u03945"></a>
+
+### U03945
+
+Source characters 113945–113989.
+
+> དྲག་པོས་འཇུག་པ་གསུམ་སུམ་ཅུ་ཡང་བྱུང་གཉིས་ལ། །
+
+For the Fierce One, entry is in three and two. [Source variant: ‘Thirty also occurs.’] [N-170](../REVIEW-NOTES.md#n-170)
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170)
+
+<a id="u03946"></a>
+
+### U03946
+
+Source characters 113989–114031.
+
+> རྟགས་བཀོད་ལས་ཀྱི་བདུན་བརྒྱ་བཞི་ཡང་བཞིའོ། །
+
+The activity of arranging signs: seven and four. [Source variant: ‘Four hundred also.’] [N-170](../REVIEW-NOTES.md#n-170)
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170)
+
+<a id="u03947"></a>
+
+### U03947
+
+Source characters 114031–114058.
+
+> སོ་སོའི་སྒྲ་ནི་གནས་པ་དང༌། །
+
+Their respective sounds, from abiding,
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170)
+
+<a id="u03948"></a>
+
+### U03948
+
+Source characters 114058–114086.
+
+> འཇུག་དང་འབྱུང་བ་ལྡོག་པ་ལས། །
+
+entering, arising, and reversing,
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170)
+
+<a id="u03949"></a>
+
+### U03949
+
+Source characters 114086–114116.
+
+> དུས་ལ་བརྟེན་པས་ལྔ་ལྡན་རྫོགས། །
+
+relying on time, are complete with five.
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170)
+
+<a id="u03950"></a>
+
+### U03950
+
+Source characters 114116–114144.
+
+> ལྷ་ཡི་སྐད་ནི་སྟོང་ཕྲག་དྲུག །
+
+The voices of gods number six thousand.
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170)
+
+<a id="u03951"></a>
+
+### U03951
+
+Source characters 114144–114173.
+
+> ཡན་ལག་སྤྲས་པས་དེ་ཉིས་འགྱུར། །
+
+Adorning them with branches doubles that.
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170)
+
+<a id="u03952"></a>
+
+### U03952
+
+Source characters 114173–114212.
+
+> གནས་གཞན་རྩ་བ་བརྩེ་བ་བཞི་ཡང་གཞི་དག་ལས། །
+
+From the root foundation of other places—[Source variant: ‘brtse ba bzhi also’; wording unresolved.] [N-170](../REVIEW-NOTES.md#n-170)
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170), [N-T88](../REVIEW-NOTES.md#n-t88)
+
+<a id="u03953"></a>
+
+### U03953
+
+Source characters 114212–114252.
+
+> ཚིག་ལ་རྟོག་པས་གནས་བརྒྱ་བརྒྱད་ཀྱང་གཉིས། །
+
+examining words: one hundred and two places. [Source variant: ‘Eight also.’] [N-170](../REVIEW-NOTES.md#n-170)
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170)
+
+<a id="u03954"></a>
+
+### U03954
+
+Source characters 114252–114306.
+
+> དེ་ལས་སྤྲོས་པས་སྤྲོས་པས་བརྒྱ་གྱ་བཞི་ཡང་བཞི་བརྒྱ་བཞི། །
+
+Extending from that: four hundred and four. [Source variant: ‘Extending: one hundred and eighty-four also.’] [N-170](../REVIEW-NOTES.md#n-170)
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170)
+
+<a id="u03955"></a>
+
+### U03955
+
+Source characters 114306–114357.
+
+> ཁྱད་པར་ངེས་པའི་ངེས་པར་དེ་བཅུར་ཡང་རྩིས་བཅུར་འགྱུར། །
+
+The calculation of definite particulars becomes ten. [Source variant: ‘Definitely, that becomes ten also.’] [N-170](../REVIEW-NOTES.md#n-170)
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170)
+
+<a id="u03956"></a>
+
+### U03956
+
+Source characters 114357–114384.
+
+> དེ་དག་རབ་ཏུ་སྦྱོར་ཤེས་པས། །
+
+By knowing how to combine these thoroughly,
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170)
+
+<a id="u03957"></a>
+
+### U03957
+
+Source characters 114384–114415.
+
+> ཚིགས་ལས་དབང་སྟེ་སྨྲ་བའི་རྒྱལ། །
+
+one gains mastery through verses and becomes a king of speech.
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170)
+
+<a id="u03958"></a>
+
+### U03958
+
+Source characters 114415–114449.
+
+> དེས་ནི་སྦྱོར་མཆོག་ངེས་འགྲུབ་པའོ། །
+
+Through this, the supreme combination is definitely accomplished. [N-170](../REVIEW-NOTES.md#n-170)
+
+Review links: [N-170](../REVIEW-NOTES.md#n-170)
+
+<a id="u03959"></a>
+
+### U03959
+
+Source characters 114449–114485.
+
+> དྲིས་ལན་བཅུ་པ་ནང་དོན་དགུ་བསྟན་པའོ། །
+
+[Source annotation: The tenth reply is taught in nine inner points.]
+
+Review links: [N-171](../REVIEW-NOTES.md#n-171)
+
+<a id="u03960"></a>
+
+### U03960
+
+Source characters 114485–114509.
+
+> བློ་དང་ཤེས་པ་ཞེས་བྱ་བ། །
+
+What are called conceptual mind and knowing:
+
+Review links: [N-171](../REVIEW-NOTES.md#n-171)
+
+<a id="u03961"></a>
+
+### U03961
+
+Source characters 114509–114537.
+
+> སེམས་དང་ཡིད་དང་འགྱུ་བ་དང༌། །
+
+ordinary mind, mental faculty, movement,
+
+Review links: [N-171](../REVIEW-NOTES.md#n-171)
+
+<a id="u03962"></a>
+
+### U03962
+
+Source characters 114537–114566.
+
+> འཕྲོ་དང་རྒོད་དང་རེངས་པ་དང༌། །
+
+proliferation, agitation, rigidity,
+
+Review links: [N-171](../REVIEW-NOTES.md#n-171), [N-T89](../REVIEW-NOTES.md#n-t89)
+
+<a id="u03963"></a>
+
+### U03963
+
+Source characters 114566–114591.
+
+> ཡུལ་དང་འཛིན་དང་ཞེན་པའོ། །
+
+object, apprehending subject, and clinging.
+
+Review links: [N-171](../REVIEW-NOTES.md#n-171)
+
+<a id="u03964"></a>
+
+### U03964
+
+Source characters 114591–114616.
+
+> སེམས་ནི་དག་དང་མ་དག་པའི། །
+
+Ordinary mind: the pure and impure
+
+Review links: [N-171](../REVIEW-NOTES.md#n-171)
+
+<a id="u03965"></a>
+
+### U03965
+
+Source characters 114616–114646.
+
+> ཁམས་གསུམ་པོ་ཡང་སངས་རྒྱས་འཇུག །
+
+three realms, too, enter buddhahood. [N-171](../REVIEW-NOTES.md#n-171)
+
+Review links: [N-171](../REVIEW-NOTES.md#n-171)
+
+<a id="u03966"></a>
+
+### U03966
+
+Source characters 114646–114671.
+
+> ཡིད་ནི་ངོ་བོ་ངེས་ཚིག་དང་།
+
+Mental faculty is known through essence, word explanation,
+
+Review links: [N-171](../REVIEW-NOTES.md#n-171)
+
+<a id="u03967"></a>
+
+### U03967
+
+Source characters 114671–114700.
+
+> དབྱེ་བ་དག་གིས་ཤེས་པར་འགྱུར། །
+
+and subdivisions.
+
+Review links: [N-171](../REVIEW-NOTES.md#n-171)
+
+<a id="u03968"></a>
+
+### U03968
+
+Source characters 114700–114726.
+
+> འགྱུ་བ་དྲན་དང་སྣང་བའི་ཆ། །
+
+Movement: portions of mindfulness and appearance,
+
+Review links: [N-171](../REVIEW-NOTES.md#n-171)
+
+<a id="u03969"></a>
+
+### U03969
+
+Source characters 114726–114755.
+
+> བརྟགས་པ་ལས་ནི་བློ་འགྱུར་རོ། །
+
+through examination, become conceptual mind.
+
+Review links: [N-171](../REVIEW-NOTES.md#n-171)
+
+<a id="u03970"></a>
+
+### U03970
+
+Source characters 114755–114782.
+
+> འཕྲོ་བ་ཡུལ་གྱི་ལས་མཐའ་ལས། །
+
+Proliferation, from the culmination of activities toward objects,
+
+Review links: [N-171](../REVIEW-NOTES.md#n-171)
+
+<a id="u03971"></a>
+
+### U03971
+
+Source characters 114782–114811.
+
+> བློ་དང་ཤེས་པའི་རྩལ་དུ་སྣང༌། །
+
+appears as the expressiveness of conceptual mind and knowing.
+
+Review links: [N-171](../REVIEW-NOTES.md#n-171)
+
+<a id="u03972"></a>
+
+### U03972
+
+Source characters 114811–114840.
+
+> རྒོད་པ་རླུང་གི་བྱེད་པའི་ལས། །
+
+Agitation is the activity enacted by wind;
+
+Review links: [N-171](../REVIEW-NOTES.md#n-171)
+
+<a id="u03973"></a>
+
+### U03973
+
+Source characters 114840–114872.
+
+> འདུ་བྱེད་བློ་དང་ཤེས་པའི་བརྡའོ། །
+
+formations are a symbol of conceptual mind and knowing.
+
+Review links: [N-171](../REVIEW-NOTES.md#n-171)
+
+<a id="u03974"></a>
+
+### U03974
+
+Source characters 114872–114901.
+
+> རེངས་པ་ཉོན་མོངས་གསུམ་དག་ལས། །
+
+Rigidity, from three afflictions,
+
+Review links: [N-171](../REVIEW-NOTES.md#n-171), [N-T89](../REVIEW-NOTES.md#n-t89)
+
+<a id="u03975"></a>
+
+### U03975
+
+Source characters 114901–114932.
+
+> བློ་ཞེས་འགྱུར་དང་ཤེས་པས་གཅོད། །
+
+changes into what is called conceptual mind and is cut by knowing.
+
+Review links: [N-171](../REVIEW-NOTES.md#n-171)
+
+<a id="u03976"></a>
+
+### U03976
+
+Source characters 114932–114977.
+
+> གཉིས་འདུས་པ་ལས་ཤེས་ཁམས་གསུམ་ཡང་གསུམ་འབྱུང༌། །
+
+From the two gathering, three [kinds of] knowing arise. [Source variant: ‘Three realms also.’] [N-171](../REVIEW-NOTES.md#n-171)
+
+Review links: [N-171](../REVIEW-NOTES.md#n-171)
+
+<a id="u03977"></a>
+
+### U03977
+
+Source characters 114977–115004.
+
+> ཡུལ་ནི་སྒོ་ལྔའི་སྣང་ཆ་ལས། །
+
+Objects: from the apparent aspects of the five doors,
+
+Review links: [N-171](../REVIEW-NOTES.md#n-171)
+
+<a id="u03978"></a>
+
+### U03978
+
+Source characters 115004–115034.
+
+> བློ་དང་ཤེས་པའི་འཇུག་ཆ་བྱུང༌། །
+
+the entry portions of conceptual mind and knowing arise.
+
+Review links: [N-171](../REVIEW-NOTES.md#n-171)
+
+<a id="u03979"></a>
+
+### U03979
+
+Source characters 115034–115060.
+
+> འཛིན་པ་མིག་ལ་སོགས་པ་ཡིས། །
+
+The apprehending subject: through eyes and so forth,
+
+Review links: [N-171](../REVIEW-NOTES.md#n-171)
+
+<a id="u03980"></a>
+
+### U03980
+
+Source characters 115060–115086.
+
+> དེ་དང་དེ་ལ་བློ་ཤེས་དངོས། །
+
+conceptual mind and knowing are actual in each respective [object].
+
+Review links: [N-171](../REVIEW-NOTES.md#n-171)
+
+<a id="u03981"></a>
+
+### U03981
+
+Source characters 115086–115114.
+
+> ཞེན་པ་བློ་ཡི་རྟོགས་ཚད་བཞི། །
+
+Clinging: conceptual mind has four measures of realization;
+
+Review links: [N-171](../REVIEW-NOTES.md#n-171)
+
+<a id="u03982"></a>
+
+### U03982
+
+Source characters 115114–115145.
+
+> ཤེས་པའི་ཚད་ལས་བརྒྱད་དུ་འགྱུར། །
+
+through the measures of knowing, these become eight.
+
+Review links: [N-171](../REVIEW-NOTES.md#n-171)
+
+<a id="u03983"></a>
+
+### U03983
+
+Source characters 115145–115174.
+
+> དེ་ལས་འབྱུང་བས་འཛིན་ཆགས་སོ། །
+
+Arising from this, there are holding and attachment. [N-171](../REVIEW-NOTES.md#n-171)
+
+Review links: [N-171](../REVIEW-NOTES.md#n-171)
+
+<a id="u03984"></a>
+
+### U03984
+
+Source characters 115174–115193.
+
+> དྲིས་ལན་བཅུ་གཅིག་པ།
+
+[Source heading: Eleventh reply.]
+
+<a id="u03985"></a>
+
+### U03985
+
+Source characters 115193–115220.
+
+> དེ་ལྟར་སྣང་ཆའི་བྱེད་པ་ལས། །
+
+Thus, from the agency of apparent aspects,
+
+Review links: [N-172](../REVIEW-NOTES.md#n-172)
+
+<a id="u03986"></a>
+
+### U03986
+
+Source characters 115220–115248.
+
+> གཟུང་དང་འཛིན་པ་གཉིས་སུ་ཤར། །
+
+apprehended object and apprehending subject arise as two.
+
+Review links: [N-172](../REVIEW-NOTES.md#n-172)
+
+<a id="u03987"></a>
+
+### U03987
+
+Source characters 115248–115275.
+
+> གཟུང་བ་ཡུལ་ལ་འཛིན་པ་སེམས། །
+
+The apprehended object is the object; the apprehending subject is ordinary mind.
+
+Review links: [N-172](../REVIEW-NOTES.md#n-172)
+
+<a id="u03988"></a>
+
+### U03988
+
+Source characters 115275–115306.
+
+> ཡུལ་སེམས་འདུས་པས་དུག་གསུམ་མོ། །
+
+Object and ordinary mind gathered together are the three poisons.
+
+Review links: [N-172](../REVIEW-NOTES.md#n-172)
+
+<a id="u03989"></a>
+
+### U03989
+
+Source characters 115306–115335.
+
+> ཡུལ་གནད་དབང་ལ་དབང་གནད་སེམས། །
+
+The object's crucial point is in the faculties; the faculties' crucial point is ordinary mind.
+
+Review links: [N-172](../REVIEW-NOTES.md#n-172)
+
+<a id="u03990"></a>
+
+### U03990
+
+Source characters 115335–115363.
+
+> སེམས་གནད་མིག་ལ་མིག་གནད་རྩ། །
+
+Ordinary mind's crucial point is in the eyes; the eyes' crucial point is the channels.
+
+Review links: [N-172](../REVIEW-NOTES.md#n-172)
+
+<a id="u03991"></a>
+
+### U03991
+
+Source characters 115363–115391.
+
+> དེས་ན་ལུས་ཀྱི་འདུག་སྟངས་ལ། །
+
+Therefore, through bodily posture,
+
+Review links: [N-172](../REVIEW-NOTES.md#n-172)
+
+<a id="u03992"></a>
+
+### U03992
+
+Source characters 115391–115422.
+
+> བག་ཆགས་ལུས་ཀྱི་འབྲེལ་ཆོད་དང་། །
+
+the connection of habitual tendencies with the body is cut,
+
+Review links: [N-172](../REVIEW-NOTES.md#n-172)
+
+<a id="u03993"></a>
+
+### U03993
+
+Source characters 115422–115451.
+
+> སངས་རྒྱས་དགོངས་པ་རྫོགས་པའོ། །
+
+and the buddhas' enlightened intent is complete.
+
+Review links: [N-172](../REVIEW-NOTES.md#n-172)
+
+<a id="u03994"></a>
+
+### U03994
+
+Source characters 115451–115482.
+
+> རྩ་ནི་རྟེན་འབྲེལ་འཁོར་ལོ་ཡིས། །
+
+The channels, through the wheel of dependent connections,
+
+Review links: [N-172](../REVIEW-NOTES.md#n-172)
+
+<a id="u03995"></a>
+
+### U03995
+
+Source characters 115482–115513.
+
+> བཙལ་ཞིང་གཟུང་དང་སྤེལ་བའི་གནས། །
+
+are the place of seeking, holding, and increasing—
+
+Review links: [N-172](../REVIEW-NOTES.md#n-172)
+
+<a id="u03996"></a>
+
+### U03996
+
+Source characters 115513–115539.
+
+> རྣལ་འབྱོར་པ་ཡི་ཡན་ལག་གོ། །
+
+the yogin's branches. [N-172](../REVIEW-NOTES.md#n-172)
+
+Review links: [N-172](../REVIEW-NOTES.md#n-172)
+
+<a id="u03997"></a>
+
+### U03997
+
+Source characters 115539–115558.
+
+> དྲིས་ལན་བཅུ་གཉིས་པ།
+
+[Source heading: Twelfth reply.]
+
+<a id="u03998"></a>
+
+### U03998
+
+Source characters 115558–115581.
+
+> ངོ་བོ་ཀ་དག་ཡེ་ཤེས་ལས། །
+
+From essence as primordial purity and primordial knowing,
+
+Review links: [N-173](../REVIEW-NOTES.md#n-173)
+
+<a id="u03999"></a>
+
+### U03999
+
+Source characters 115581–115608.
+
+> མ་རིག་པ་ཞེས་སྲིད་མིང་མེད། །
+
+there is no possible name ‘ignorance.’
+
+Review links: [N-173](../REVIEW-NOTES.md#n-173)
+
+<a id="u04000"></a>
+
+### U04000
+
+Source characters 115608–115640.
+
+> གཅིག་དང་གཉིས་ཀྱི་གྲངས་མེད་པའོ། །
+
+There is no count of one and two. [N-173](../REVIEW-NOTES.md#n-173)
+
+Review links: [N-173](../REVIEW-NOTES.md#n-173)
+
+<a id="u04001"></a>
+
+### U04001
+
+Source characters 115640–115670.
+
+> བརྟགས་པས་ཡོད་མེད་གྲུབ་པ་མེད། །
+
+On examination, neither existence nor nonexistence is established.
+
+Review links: [N-174](../REVIEW-NOTES.md#n-174)
+
+<a id="u04002"></a>
+
+### U04002
+
+Source characters 115670–115695.
+
+> གང་དུ་མ་ཕྱེ་ཆོས་ཉིད་ལས། །
+
+In the nature of phenomena, undivided anywhere,
+
+Review links: [N-174](../REVIEW-NOTES.md#n-174)
+
+<a id="u04003"></a>
+
+### U04003
+
+Source characters 115695–115723.
+
+> ཡེ་ཤེས་ཙམ་དུའང་གྲུབ་པ་མེད། །
+
+not even a mere primordial knowing is established.
+
+Review links: [N-174](../REVIEW-NOTES.md#n-174)
+
+<a id="u04004"></a>
+
+### U04004
+
+Source characters 115723–115753.
+
+> ཚིག་མེད་བརྗོད་ལས་གྲུབ་པ་མེད། །
+
+Without phrases, nothing is established through expression. [N-174](../REVIEW-NOTES.md#n-174)
+
+Review links: [N-174](../REVIEW-NOTES.md#n-174)
+
+<a id="u04005"></a>
+
+### U04005
+
+Source characters 115753–115777.
+
+> མཐའ་ལ་མི་གནས་རང་རིག་དག །
+
+Pure self-awareness does not abide at an extreme;
+
+Review links: [N-174](../REVIEW-NOTES.md#n-174)
+
+<a id="u04006"></a>
+
+### U04006
+
+Source characters 115777–115807.
+
+> གཟུང་འཛིན་མིང་གི་མཐའ་ཟད་པའོ། །
+
+the limits of the names ‘apprehended object and apprehending subject’ are exhausted.
+
+Review links: [N-174](../REVIEW-NOTES.md#n-174)
+
+<a id="u04007"></a>
+
+### U04007
+
+Source characters 115807–115839.
+
+> རྒྱུ་མེད་རྐྱེན་གྱི་གྲངས་མེད་ལ། །
+
+There is no cause, nor any number of conditions;
+
+Review links: [N-174](../REVIEW-NOTES.md#n-174)
+
+<a id="u04008"></a>
+
+### U04008
+
+Source characters 115839–115868.
+
+> གཉིས་སྣང་ཡུལ་དང་ཡུལ་ཅན་མེད། །
+
+there is no dual appearance, object, or possessor of an object.
+
+Review links: [N-174](../REVIEW-NOTES.md#n-174)
+
+<a id="u04009"></a>
+
+### U04009
+
+Source characters 115868–115896.
+
+> མཚན་ཉིད་གང་དུའང་ཕྱེ་བ་མེད། །
+
+No characteristic is differentiated anywhere;
+
+Review links: [N-174](../REVIEW-NOTES.md#n-174)
+
+<a id="u04010"></a>
+
+### U04010
+
+Source characters 115896–115924.
+
+> ཡུལ་རྐྱེན་རགས་པ་རང་ཟད་པའོ། །
+
+coarse objects and conditions are self-exhausted.
+
+Review links: [N-174](../REVIEW-NOTES.md#n-174)
+
+<a id="u04011"></a>
+
+### U04011
+
+Source characters 115924–115947.
+
+> ཡེ་ནས་མེད་པས་དག་པས་དག །
+
+Absent from the beginning, pure through purity,
+
+Review links: [N-174](../REVIEW-NOTES.md#n-174)
+
+<a id="u04012"></a>
+
+### U04012
+
+Source characters 115947–115979.
+
+> འཁྲུལ་རྟོག་འགགས་པས་ཅིར་མི་མཛད། །
+
+with deluded conceptual thought ceased, it does not enact anything.
+
+Review links: [N-174](../REVIEW-NOTES.md#n-174)
+
+<a id="u04013"></a>
+
+### U04013
+
+Source characters 115979–116007.
+
+> མ་སྐྱེས་པས་ན་འགག་སྟོང་ངོ༌། །
+
+Since it has not arisen, cessation is empty. [N-174](../REVIEW-NOTES.md#n-174)
+
+Review links: [N-174](../REVIEW-NOTES.md#n-174)
+
+<a id="u04014"></a>
+
+### U04014
+
+Source characters 116007–116026.
+
+> དྲིས་ལན་བཅུ་གསུམ་པ།
+
+[Source heading: Thirteenth reply.]
+
+<a id="u04015"></a>
+
+### U04015
+
+Source characters 116026–116057.
+
+> རང་བཞིན་ལྷུན་གྲུབ་ཡེ་ཤེས་ཞེས། །
+
+What is called primordial knowing of intrinsic nature's spontaneous presence
+
+Review links: [N-175](../REVIEW-NOTES.md#n-175)
+
+<a id="u04016"></a>
+
+### U04016
+
+Source characters 116057–116087.
+
+> མི་སྐྱེ་མི་འགག་ཅིར་མི་དགོངས། །
+
+does not arise, does not cease, and directs enlightened intent toward nothing,
+
+Review links: [N-175](../REVIEW-NOTES.md#n-175), [N-T93](../REVIEW-NOTES.md#n-t93)
+
+<a id="u04017"></a>
+
+### U04017
+
+Source characters 116087–116114.
+
+> ཡུལ་དག་ངེས་པ་མེད་ཕྱིར་རོ། །
+
+because no object is fixed. [N-175](../REVIEW-NOTES.md#n-175)
+
+Review links: [N-175](../REVIEW-NOTES.md#n-175)
+
+<a id="u04018"></a>
+
+### U04018
+
+Source characters 116114–116141.
+
+> རྩལ་དང་ཡོན་ཏན་འགག་མེད་པས། །
+
+Since expressiveness and qualities do not cease,
+
+Review links: [N-175](../REVIEW-NOTES.md#n-175)
+
+<a id="u04019"></a>
+
+### U04019
+
+Source characters 116141–116164.
+
+> རོལ་པ་ཙམ་དུ་སྣང་བ་ལས། །
+
+it appears merely as play:
+
+Review links: [N-175](../REVIEW-NOTES.md#n-175)
+
+<a id="u04020"></a>
+
+### U04020
+
+Source characters 116164–116192.
+
+> སྣ་ཚོགས་རྫོགས་པའི་གཞི་མའོ། །
+
+the foundation in which diversity is complete. [N-175](../REVIEW-NOTES.md#n-175)
+
+Review links: [N-175](../REVIEW-NOTES.md#n-175)
+
+<a id="u04021"></a>
+
+### U04021
+
+Source characters 116192–116224.
+
+> མེད་ཕྱིར་སྣང་ལ་སྣང་ཕྱིར་སྟོང་། །
+
+Because it does not exist, it appears; because it appears, it is empty.
+
+Review links: [N-175](../REVIEW-NOTES.md#n-175)
+
+<a id="u04022"></a>
+
+### U04022
+
+Source characters 116224–116253.
+
+> སྣང་སྟོང་འཇུག་པའི་ཡན་ལག་ཅན། །
+
+It has the subsidiary aspects of appearance and emptiness entering together;
+
+Review links: [N-175](../REVIEW-NOTES.md#n-175)
+
+<a id="u04023"></a>
+
+### U04023
+
+Source characters 116253–116282.
+
+> སངས་རྒྱས་སེམས་ཅན་དག་ཡུལ་ལོ། །
+
+it is the pure domain of buddhas and sentient beings.
+
+Review links: [N-175](../REVIEW-NOTES.md#n-175)
+
+<a id="u04024"></a>
+
+### U04024
+
+Source characters 116282–116312.
+
+> འདི་ལྟར་གཞི་ཞེས་མངོན་པར་གནས། །
+
+Thus it manifestly abides as what is called ‘the Ground.’
+
+Review links: [N-175](../REVIEW-NOTES.md#n-175)
+
+<a id="u04025"></a>
+
+### U04025
+
+Source characters 116312–116337.
+
+> རང་བཞིན་ཙམ་དུ་གནས་པ་ལས། །
+
+Abiding merely as intrinsic nature,
+
+Review links: [N-175](../REVIEW-NOTES.md#n-175)
+
+<a id="u04026"></a>
+
+### U04026
+
+Source characters 116337–116367.
+
+> ངོ་བོའི་ཆ་ནས་བརྟགས་པས་སྟོང༌། །
+
+it is empty when examined from the aspect of essence.
+
+Review links: [N-175](../REVIEW-NOTES.md#n-175)
+
+<a id="u04027"></a>
+
+### U04027
+
+Source characters 116367–116400.
+
+> ཡན་ལག་སྤྲོས་ཕྱིར་མཁྱེན་པ་རྫོགས། །
+
+Because its subsidiary aspects unfold, knowing is complete.
+
+Review links: [N-175](../REVIEW-NOTES.md#n-175)
+
+<a id="u04028"></a>
+
+### U04028
+
+Source characters 116400–116433.
+
+> རང་གནས་ལྷུན་གྱིས་གྲུབ་པའི་ཕྱིར། །
+
+Since it abides of itself in spontaneous presence,
+
+Review links: [N-175](../REVIEW-NOTES.md#n-175)
+
+<a id="u04029"></a>
+
+### U04029
+
+Source characters 116433–116462.
+
+> འདི་ལ་སྤང་བླང་གཉིས་མེད་པའོ། །
+
+rejecting and accepting, the two, are absent here. [N-175](../REVIEW-NOTES.md#n-175)
+
+Review links: [N-175](../REVIEW-NOTES.md#n-175)
+
+<a id="u04030"></a>
+
+### U04030
+
+Source characters 116462–116480.
+
+> དྲིས་ལན་བཅུ་བཞི་པ།
+
+[Source heading: Fourteenth reply.]
+
+<a id="u04031"></a>
+
+### U04031
+
+Source characters 116480–116509.
+
+> ཐུགས་རྗེ་ཀུན་ཁྱབ་ཡེ་ཤེས་ལས། །
+
+From primordial knowing of all-pervading compassionate responsiveness,
+
+Review links: [N-176](../REVIEW-NOTES.md#n-176)
+
+<a id="u04032"></a>
+
+### U04032
+
+Source characters 116509–116538.
+
+> མི་འཛད་སྣ་ཚོགས་འཆར་བའི་སྒོ། །
+
+the inexhaustible gates of diverse arising
+
+Review links: [N-176](../REVIEW-NOTES.md#n-176)
+
+<a id="u04033"></a>
+
+### U04033
+
+Source characters 116538–116567.
+
+> འཛད་པ་ལྟར་སྣང་ངོ་བོར་རྫོགས། །
+
+are complete in essence, though appearing to be exhausted. [N-176](../REVIEW-NOTES.md#n-176)
+
+Review links: [N-176](../REVIEW-NOTES.md#n-176)
+
+<a id="u04034"></a>
+
+### U04034
+
+Source characters 116567–116597.
+
+> ཆོས་སྐུ་སྟོང་པའི་རང་བཞིན་ལས། །
+
+From the empty intrinsic nature of the dharma embodiment,
+
+Review links: [N-176](../REVIEW-NOTES.md#n-176)
+
+<a id="u04035"></a>
+
+### U04035
+
+Source characters 116597–116626.
+
+> ཡེ་ཤེས་མཁྱེན་པ་རྫོགས་པའི་ཆ། །
+
+the aspect of primordial knowing whose knowing is complete
+
+Review links: [N-176](../REVIEW-NOTES.md#n-176)
+
+<a id="u04036"></a>
+
+### U04036
+
+Source characters 116626–116657.
+
+> ཐུགས་ཀྱིས་སེམས་ཅན་རྣམས་ལ་འཆར། །
+
+arises for sentient beings through awakened mind.
+
+Review links: [N-176](../REVIEW-NOTES.md#n-176)
+
+<a id="u04037"></a>
+
+### U04037
+
+Source characters 116657–116685.
+
+> དེ་མེད་འཁོར་འདས་ལྟེ་ཆད་པས། །
+
+Without that, the central connection of samsara and nirvana would be severed;
+
+Review links: [N-176](../REVIEW-NOTES.md#n-176)
+
+<a id="u04038"></a>
+
+### U04038
+
+Source characters 116685–116713.
+
+>  མཁྱེན་པས་རིག་ཅིང་གསལ་བའོ། །
+
+through knowing, there is awareness and clarity. [N-176](../REVIEW-NOTES.md#n-176)
+
+Review links: [N-176](../REVIEW-NOTES.md#n-176)
+
+<a id="u04039"></a>
+
+### U04039
+
+Source characters 116713–116741.
+
+> རང་རིག་གསལ་བའི་བདག་ཉིད་ལས། །
+
+From the very identity of clear self-awareness,
+
+Review links: [N-176](../REVIEW-NOTES.md#n-176)
+
+<a id="u04040"></a>
+
+### U04040
+
+Source characters 116741–116774.
+
+> རང་བཞིན་ཤུགས་ཀྱིས་ཐུགས་རྗེ་ཉིད། །
+
+through the force of intrinsic nature, compassionate responsiveness itself
+
+Review links: [N-176](../REVIEW-NOTES.md#n-176)
+
+<a id="u04041"></a>
+
+### U04041
+
+Source characters 116774–116797.
+
+> མ་འགགས་འགག་པ་མེད་པའོ། །
+
+has not ceased and does not cease.
+
+Review links: [N-176](../REVIEW-NOTES.md#n-176)
+
+<a id="u04042"></a>
+
+### U04042
+
+Source characters 116797–116822.
+
+> འབྱུང་བ་དག་པའི་ཆ་ནས་ནི། །
+
+From the pure aspect of the elements,
+
+Review links: [N-176](../REVIEW-NOTES.md#n-176)
+
+<a id="u04043"></a>
+
+### U04043
+
+Source characters 116822–116851.
+
+> ལས་སུ་མེད་པ་གཅིག་རྫོགས་པའོ། །
+
+the one that is not an activity is complete. [N-176](../REVIEW-NOTES.md#n-176)
+
+Review links: [N-176](../REVIEW-NOTES.md#n-176)
+
+<a id="u04044"></a>
+
+### U04044
+
+Source characters 116851–116876.
+
+> ཉི་མ་ལས་ནི་འོད་བཞིན་དུ། །
+
+Like light from the sun,
+
+<a id="u04045"></a>
+
+### U04045
+
+Source characters 116876–116900.
+
+> རང་ཆས་སྒྲིབ་པ་མེད་པའོ། །
+
+it is inherent and unobscured.
+
+<a id="u04046"></a>
+
+### U04046
+
+Source characters 116900–116917.
+
+> དྲིས་ལན་བཅོ་ལྔ་པ།
+
+[Source heading: Fifteenth reply.]
+
+<a id="u04047"></a>
+
+### U04047
+
+Source characters 116917–116943.
+
+> དེ་ལས་མཚན་ཉིད་འཛིན་པ་ཡི། །
+
+Then I shall explain the characteristic-holding
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04048"></a>
+
+### U04048
+
+Source characters 116943–116975.
+
+> ལོངས་སྐུའི་ཡེ་ཤེས་བཤད་པར་བྱའོ། །
+
+primordial knowing of the complete enjoyment embodiment.
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04049"></a>
+
+### U04049
+
+Source characters 116975–117004.
+
+> མེ་ལོང་ཡེ་ཤེས་གཟུགས་ཅན་གསལ། །
+
+Mirror-like primordial knowing makes forms clear;
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177), [N-T80](../REVIEW-NOTES.md#n-t80)
+
+<a id="u04050"></a>
+
+### U04050
+
+Source characters 117004–117034.
+
+> དབྱིབས་དང་ཁ་དོག་སྣང་ཆ་རྫོགས། །
+
+the appearance aspects of shape and color are complete. [N-177](../REVIEW-NOTES.md#n-177)
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04051"></a>
+
+### U04051
+
+Source characters 117034–117060.
+
+> དཀར་པོ་དྲི་མ་དག་ཕྱིར་རོ། །
+
+It is white because stains are purified.
+
+<a id="u04052"></a>
+
+### U04052
+
+Source characters 117060–117091.
+
+> རང་ཆས་སྣང་སྟེ་འཁོར་འདས་སྦྱོར། །
+
+Appearing inherently, it joins samsara and nirvana.
+
+<a id="u04053"></a>
+
+### U04053
+
+Source characters 117091–117124.
+
+> ཆོས་རྣམས་ཀུན་གྱི་གཟུགས་མཐོང་བས། །
+
+Because it sees the forms of all phenomena,
+
+<a id="u04054"></a>
+
+### U04054
+
+Source characters 117124–117149.
+
+> རང་གིས་ཡེ་ཤེས་ཞེས་བྱའོ། །
+
+it is called ‘primordial knowing through itself.’ [N-177](../REVIEW-NOTES.md#n-177)
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04055"></a>
+
+### U04055
+
+Source characters 117149–117179.
+
+> གསལ་ཞིང་སྟོང་ལ་སྟོང་པར་གྲོལ། །
+
+Clear and empty, it is liberated into emptiness;
+
+<a id="u04056"></a>
+
+### U04056
+
+Source characters 117179–117208.
+
+> གྲོལ་འཛིན་མཐའ་ཡི་རྟོག་པ་ཟད། །
+
+conceptual thought at the limits of liberation and grasping is exhausted.
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04057"></a>
+
+### U04057
+
+Source characters 117208–117237.
+
+> གཞན་མེད་གྲོལ་གཞི་རྫོགས་པའོ། །
+
+With no other, the Ground of liberation is complete.
+
+<a id="u04058"></a>
+
+### U04058
+
+Source characters 117237–117256.
+
+> དྲིས་ལན་བཅུ་དྲུག་པ།
+
+[Source heading: Sixteenth reply.]
+
+<a id="u04059"></a>
+
+### U04059
+
+Source characters 117256–117280.
+
+> མཉམ་པ་ཉིད་ཅེས་བྱ་བ་ནི། །
+
+What is called ‘evenness’
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04060"></a>
+
+### U04060
+
+Source characters 117280–117313.
+
+> མཉམ་རྒྱུ་གཉིས་ལ་མཉམ་རྐྱེན་གསུམ། །
+
+is through two causes of evenness, three conditions of evenness,
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04061"></a>
+
+### U04061
+
+Source characters 117313–117341.
+
+> མཉམ་པའི་དུས་དང་ཚད་ཀྱིས་སོ། །
+
+and the time and measure of evenness.
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04062"></a>
+
+### U04062
+
+Source characters 117341–117369.
+
+> འདི་ལ་གཉིས་མེད་རིག་དང་བྲལ། །
+
+Here there is no duality, and it is free from awareness. [N-177](../REVIEW-NOTES.md#n-177)
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04063"></a>
+
+### U04063
+
+Source characters 117369–117399.
+
+> མི་ཕྱེད་མི་འབྱེད་རང་གནས་ཉིད། །
+
+Neither divided nor dividing, it abides of itself.
+
+<a id="u04064"></a>
+
+### U04064
+
+Source characters 117399–117424.
+
+> མཉམ་པ་ཞེས་བྱ་ཆོས་ཉིད་ལ། །
+
+What is called ‘even’ is, in the nature of phenomena,
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04065"></a>
+
+### U04065
+
+Source characters 117424–117450.
+
+> ཟུག་རྔུ་སྤྲོས་པ་བྲལ་བའོ། །
+
+freedom from the elaborations of pain.
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04066"></a>
+
+### U04066
+
+Source characters 117450–117485.
+
+> ཉིད་ཅེས་བཅོས་ཞིང་རྩོལ་བསྒྲུབ་མེད། །
+
+‘-ness’ means there is no contrivance or accomplishment through effort.
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04067"></a>
+
+### U04067
+
+Source characters 117485–117513.
+
+> རང་བཞིན་གནས་པ་ངོ་བོ་སྟོང་། །
+
+Intrinsic nature abides; essence is empty.
+
+<a id="u04068"></a>
+
+### U04068
+
+Source characters 117513–117542.
+
+> སེམས་ཉིད་རྟོག་པ་ཀུན་ཟད་པའོ། །
+
+In the nature of ordinary mind, all conceptual thought is exhausted.
+
+<a id="u04069"></a>
+
+### U04069
+
+Source characters 117542–117566.
+
+> ཡེ་ཤེས་ཞེས་བྱ་གནས་པ་ལ། །
+
+What is called ‘primordial knowing’ abides;
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04070"></a>
+
+### U04070
+
+Source characters 117566–117594.
+
+> དེ་ཡི་མཚན་ཉིད་རྟོགས་པ་ཡིས། །
+
+through realizing its characteristics,
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04071"></a>
+
+### U04071
+
+Source characters 117594–117623.
+
+> འཁོར་འདས་གཉིས་ལ་མི་གནས་པའོ། །
+
+one does not abide in either samsara or nirvana. [N-177](../REVIEW-NOTES.md#n-177)
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04072"></a>
+
+### U04072
+
+Source characters 117623–117642.
+
+> དྲིས་ལན་བཅུ་བདུན་པ།
+
+[Source heading: Seventeenth reply.]
+
+<a id="u04073"></a>
+
+### U04073
+
+Source characters 117642–117673.
+
+> སོ་སོར་རྟོགས་པ་དབང་པོའི་རིགས། །
+
+Discriminating [primordial knowing]: the types of faculty,
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177), [N-T80](../REVIEW-NOTES.md#n-t80)
+
+<a id="u04074"></a>
+
+### U04074
+
+Source characters 117673–117696.
+
+> གང་ལ་སྣང་བ་དེ་ཡི་ཆོས། །
+
+whatever appears to them, and the phenomena of that appearance
+
+<a id="u04075"></a>
+
+### U04075
+
+Source characters 117696–117719.
+
+> རིམ་པ་སོ་སོར་གསལ་བའོ། །
+
+are each clear in sequence. [N-177](../REVIEW-NOTES.md#n-177)
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04076"></a>
+
+### U04076
+
+Source characters 117719–117744.
+
+> བརྟག་པ་རང་སྣང་དག་ནས་ནི། །
+
+When the self-appearance of examination is purified,
+
+<a id="u04077"></a>
+
+### U04077
+
+Source characters 117744–117770.
+
+> རིག་པ་ཡུལ་དུ་གྱུར་པ་ཉིད། །
+
+awareness itself becomes the object.
+
+<a id="u04078"></a>
+
+### U04078
+
+Source characters 117770–117796.
+
+> སོ་སོ་ཞེས་བྱ་བྱེ་བྲག་ལས། །
+
+What is called ‘individually’ arises from distinctions
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04079"></a>
+
+### U04079
+
+Source characters 117796–117826.
+
+> གཉེན་པོའི་ཚུལ་དུ་བྱུང་བ་སྟེ། །
+
+in the manner of an antidote.
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04080"></a>
+
+### U04080
+
+Source characters 117826–117857.
+
+> རྟོགས་པ་ཞེས་ནི་མཚན་ཉིད་མཐོང་། །
+
+What is called ‘realization’ is seeing the characteristics,
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04081"></a>
+
+### U04081
+
+Source characters 117857–117882.
+
+> རང་སྣང་འཕེལ་དང་བཅས་པའོ། །
+
+together with the increase of self-appearance.
+
+<a id="u04082"></a>
+
+### U04082
+
+Source characters 117882–117908.
+
+> ཡེ་ཤེས་ཐོག་མར་བྱུང་བ་ལས། །
+
+Primordial knowing arises at the beginning;
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04083"></a>
+
+### U04083
+
+Source characters 117908–117938.
+
+> ཤེས་པས་ཉོན་མོངས་སྐྱོན་དག་གོ། །
+
+through knowing, the faults of afflictions are purified. [N-177](../REVIEW-NOTES.md#n-177)
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04084"></a>
+
+### U04084
+
+Source characters 117938–117958.
+
+> དྲིས་ལན་བཅོ་བརྒྱད་པ།
+
+[Source heading: Eighteenth reply.]
+
+<a id="u04085"></a>
+
+### U04085
+
+Source characters 117958–117981.
+
+> བྱ་བ་གྲུབ་པ་ཞེས་བྱ་བ། །
+
+What is called ‘doing accomplished’:
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177), [N-T80](../REVIEW-NOTES.md#n-t80)
+
+<a id="u04086"></a>
+
+### U04086
+
+Source characters 117981–118009.
+
+> འབད་ཅིང་རྩོལ་བ་རང་འགགས་ནས། །
+
+when striving and effort have self-ceased,
+
+<a id="u04087"></a>
+
+### U04087
+
+Source characters 118009–118037.
+
+> ཆོས་ཀུན་རང་བཞག་རང་གྲོལ་ལོ། །
+
+all phenomena rest of themselves and are self-liberated.
+
+<a id="u04088"></a>
+
+### U04088
+
+Source characters 118037–118068.
+
+> རང་གྲོལ་རྫོགས་པའི་གཞི་སྣང་ལས། །
+
+From ground-appearance in which self-liberation is complete,
+
+<a id="u04089"></a>
+
+### U04089
+
+Source characters 118068–118096.
+
+> ཆ་ཕྲ་རྡུལ་བྲལ་དྲི་མེད་ཐོབ། །
+
+the subtle aspect attains freedom from particles and stains.
+
+<a id="u04090"></a>
+
+### U04090
+
+Source characters 118096–118126.
+
+> རྟོག་དཔྱོད་ཡུལ་ལས་འདས་པ་སྟེ། །
+
+Beyond the object of conceptual thought and examination,
+
+<a id="u04091"></a>
+
+### U04091
+
+Source characters 118126–118152.
+
+> གང་གིས་མ་ཕྱེ་ཆོས་ཉིད་དོ། །
+
+it is the nature of phenomena, divided by no one.
+
+<a id="u04092"></a>
+
+### U04092
+
+Source characters 118152–118182.
+
+> རང་བཞིན་རྫོགས་པས་སྣང་མཐའ་ཟད། །
+
+Intrinsic nature being complete, the limits of appearance are exhausted.
+
+<a id="u04093"></a>
+
+### U04093
+
+Source characters 118182–118206.
+
+> ཅིག་ཆར་རྟོགས་པ་བྱ་བའོ། །
+
+Simultaneous realization is ‘doing.’
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04094"></a>
+
+### U04094
+
+Source characters 118206–118230.
+
+> གྲུབ་པས་འདོད་པ་བྲལ་བ་ལ།།
+
+Through being ‘accomplished,’ desire is absent;
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04095"></a>
+
+### U04095
+
+Source characters 118230–118256.
+
+> བསྐྱར་དང་ལྡོག་པ་མེད་པའོ། །
+
+there is neither repetition nor reversal.
+
+<a id="u04096"></a>
+
+### U04096
+
+Source characters 118256–118282.
+
+> ཡེ་ནི་གནས་པའི་དོན་ཉིད་ལ། །
+
+‘Primordial’ has the meaning of abiding;
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04097"></a>
+
+### U04097
+
+Source characters 118282–118310.
+
+> ཤེས་པས་མངོན་དུ་གྱུར་ནས་ནི། །
+
+through ‘knowing,’ it becomes manifest,
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04098"></a>
+
+### U04098
+
+Source characters 118310–118340.
+
+> ཆོས་རྣམས་ཟད་པའི་སར་ཕྱིན་པའོ། །
+
+and one reaches the place where phenomena are exhausted. [N-177](../REVIEW-NOTES.md#n-177)
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04099"></a>
+
+### U04099
+
+Source characters 118340–118358.
+
+> དྲིས་ལན་བཅུ་དགུ་པ།
+
+[Source heading: Nineteenth reply.]
+
+<a id="u04100"></a>
+
+### U04100
+
+Source characters 118358–118387.
+
+>  ཆོས་ཀྱི་དབྱིངས་ནི་ཡངས་པ་ལ། །
+
+The basic space of phenomena is vast;
+
+<a id="u04101"></a>
+
+### U04101
+
+Source characters 118387–118417.
+
+> མཐའ་དང་དབུས་སུ་ མི་དམིགས་པས། །
+
+no edge or center is an object of focus.
+
+<a id="u04102"></a>
+
+### U04102
+
+Source characters 118417–118443.
+
+> གྲོལ་གཞི་ཆོས་ཉིད་དག་པ་ལ། །
+
+In the pure nature of phenomena, the Ground of liberation,
+
+<a id="u04103"></a>
+
+### U04103
+
+Source characters 118443–118471.
+
+> ཆོས་ནི་སྤྱོད་པར་བྱེད་པ་ལས། །
+
+‘phenomena’ means engaging in activity:
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04104"></a>
+
+### U04104
+
+Source characters 118471–118500.
+
+> འདས་དང་འཇིག་རྟེན་བྱ་བ་བྱེད། །
+
+doing the doings of the transcendent and the world.
+
+<a id="u04105"></a>
+
+### U04105
+
+Source characters 118500–118527.
+
+> རང་བཞིན་གསལ་ཞིང་དྭངས་པའོ། །
+
+Intrinsic nature is clear and limpid.
+
+<a id="u04106"></a>
+
+### U04106
+
+Source characters 118527–118558.
+
+> དབྱིངས་ནི་གོ་སྐབས་འབྱེད་པ་ལས། །
+
+‘Basic space’ opens room;
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04107"></a>
+
+### U04107
+
+Source characters 118558–118585.
+
+> རང་བྱུང་ཆེན་པོའི་གནས་པའོ། །
+
+it is great naturally arisen abiding.
+
+<a id="u04108"></a>
+
+### U04108
+
+Source characters 118585–118611.
+
+> ཡེ་ནི་གནས་པའི་བདག་ཉིད་ལ། །
+
+‘Primordial’ is the very identity of abiding,
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04109"></a>
+
+### U04109
+
+Source characters 118611–118636.
+
+> ཐོག་མ་ནས་ནི་བཅོས་པ་མེད། །
+
+uncontrived from the beginning.
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04110"></a>
+
+### U04110
+
+Source characters 118636–118667.
+
+> ཤེས་པས་འཁོར་འདས་གཉིས་ལས་གྲོལ། །
+
+Through ‘knowing,’ one is liberated from both samsara and nirvana.
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04111"></a>
+
+### U04111
+
+Source characters 118667–118696.
+
+> རང་སྣང་རྫོགས་པའི་དགོངས་པའོ། །
+
+This is enlightened intent in which self-appearance is complete. [N-177](../REVIEW-NOTES.md#n-177)
+
+Review links: [N-177](../REVIEW-NOTES.md#n-177)
+
+<a id="u04112"></a>
+
+### U04112
+
+Source characters 118696–118712.
+
+> དྲིས་ལན་ཉི་ཤུ་པ།
+
+[Source heading: Twentieth reply.]
+
+<a id="u04113"></a>
+
+### U04113
+
+Source characters 118712–118741.
+
+> ཤེས་པས་བསྡུས་པའི་ཡེ་ཤེས་ནི། །
+
+Primordial knowing encompassed by knowing
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04114"></a>
+
+### U04114
+
+Source characters 118741–118769.
+
+> སངས་རྒྱས་སེམས་ཅན་ཐམས་ཅད་ལ། །
+
+pervades all buddhas and sentient beings
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04115"></a>
+
+### U04115
+
+Source characters 118769–118800.
+
+> དབྱེར་མེད་རང་བཞིན་མེད་པར་ཁྱབ། །
+
+indivisibly, without intrinsic nature.
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04116"></a>
+
+### U04116
+
+Source characters 118800–118830.
+
+> དེ་ཡང་སངས་རྒྱས་རྣམ་དག་རྫོགས། །
+
+In buddhas it is completely pure;
+
+<a id="u04117"></a>
+
+### U04117
+
+Source characters 118830–118859.
+
+> དྲི་མེད་རྡུལ་དང་བྲལ་བར་གནས། །
+
+it abides unstained and free from particles.
+
+<a id="u04118"></a>
+
+### U04118
+
+Source characters 118859–118887.
+
+> སེམས་ཅན་རིགས་དྲུག་སྣང་ཆ་ལ། །
+
+In the appearance aspect of sentient beings of the six classes,
+
+<a id="u04119"></a>
+
+### U04119
+
+Source characters 118887–118914.
+
+> སོ་སོའི་རྒྱུད་ལ་གནས་པ་དེ། །
+
+it abides in each one's continuum:
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04120"></a>
+
+### U04120
+
+Source characters 118914–118943.
+
+> ལྷ་རྣམས་རང་གསལ་རྫོགས་པ་སྟེ། །
+
+in gods, it is complete in its own clarity;
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04121"></a>
+
+### U04121
+
+Source characters 118943–118971.
+
+> ལྷ་མིན་རྣམས་ལ་ཕྲ་ཞིང་འཁྱུག །
+
+in asuras, subtle and flashing;
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04122"></a>
+
+### U04122
+
+Source characters 118971–119000.
+
+> མི་རྣམས་རང་གསལ་ཟླུམ་པོ་ཉིད། །
+
+in humans, round and clear of itself;
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04123"></a>
+
+### U04123
+
+Source characters 119000–119028.
+
+> བྱོལ་སོང་རྣམས་ལ་ནང་དུ་གསལ། །
+
+in animals, clear within;
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04124"></a>
+
+### U04124
+
+Source characters 119028–119052.
+
+> ཡི་དྭགས་རྣམས་ལ་ཕྲ་བ་ལ། །
+
+in hungry ghosts, subtle;
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04125"></a>
+
+### U04125
+
+Source characters 119052–119079.
+
+> དམྱལ་བར་རང་སྣང་རྫོགས་པའོ། །
+
+in hell, complete as self-appearance. [N-178](../REVIEW-NOTES.md#n-178)
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04126"></a>
+
+### U04126
+
+Source characters 119079–119105.
+
+> ཤེས་པས་རིག་ཅིང་རང་ས་གསལ། །
+
+Through ‘knowing,’ there is awareness, clear in its own place.
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04127"></a>
+
+### U04127
+
+Source characters 119105–119131.
+
+> བསྡུས་པས་ངོ་བོ་རང་རིག་པ། །
+
+Through ‘encompassed,’ essence is self-awareness.
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04128"></a>
+
+### U04128
+
+Source characters 119131–119159.
+
+> ཡེ་ནི་གསལ་ཞིང་མཁྱེན་རིག་ཆ། །
+
+‘Primordial’ is the clear aspect of knowing and awareness;
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04129"></a>
+
+### U04129
+
+Source characters 119159–119190.
+
+> ཤེས་པ་རང་གྲོལ་དཀྱིལ་འཁོར་གཅིག །
+
+‘knowing’ is self-liberation, a single mandala. [N-178](../REVIEW-NOTES.md#n-178)
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04130"></a>
+
+### U04130
+
+Source characters 119190–119214.
+
+> དྲིས་ལན་ཉི་ཤུ་རྩ་གཅིག་པ།
+
+[Source heading: Twenty-first reply.]
+
+<a id="u04131"></a>
+
+### U04131
+
+Source characters 119214–119245.
+
+>  ཤེས་བྱས་བསྡུས་པའི་ཡེ་ཤེས་ནི། །
+
+Primordial knowing encompassed by objects of knowledge
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04132"></a>
+
+### U04132
+
+Source characters 119245–119273.
+
+> རྣམ་པ་གཉིས་སུ་ཤེས་པར་བྱའོ། །
+
+is to be known in two aspects.
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04133"></a>
+
+### U04133
+
+Source characters 119273–119299.
+
+> དེ་ལ་ཤེས་བྱ་ཇི་སྙེད་བཤད། །
+
+Of these, I shall explain objects of knowledge in their multiplicity.
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04134"></a>
+
+### U04134
+
+Source characters 119299–119331.
+
+> འདིས་ནི་གདུལ་བྱའི་བསམ་པ་མཁྱེན། །
+
+Through this, the intentions of those to be trained are known.
+
+<a id="u04135"></a>
+
+### U04135
+
+Source characters 119331–119358.
+
+> གཞན་དོན་ཁོང་དུ་ཆུད་པ་ཡིས། །
+
+Through understanding others' benefit,
+
+<a id="u04136"></a>
+
+### U04136
+
+Source characters 119358–119385.
+
+> ཆོས་རྣམས་རང་བཞིན་ཤེས་པའོ། །
+
+one knows the intrinsic nature of phenomena.
+
+<a id="u04137"></a>
+
+### U04137
+
+Source characters 119385–119410.
+
+> ཇི་ཞེས་བྱ་བ་གནས་ལུགས་ལ། །
+
+‘Whatever’ refers to the natural state;
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04138"></a>
+
+### U04138
+
+Source characters 119410–119439.
+
+> སྙེད་པས་མ་ལུས་རྫོགས་པར་བྱས། །
+
+‘multiplicity’ completes everything without remainder.
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04139"></a>
+
+### U04139
+
+Source characters 119439–119465.
+
+> ཡེ་ནི་སེམས་ཅན་ཀུན་དོན་ལ། །
+
+‘Primordial’ concerns the benefit of all sentient beings;
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04140"></a>
+
+### U04140
+
+Source characters 119465–119496.
+
+> ཤེས་པས་ཁམས་གསུམ་དོང་ནས་འབྱིན། །
+
+through ‘knowing,’ the three realms are drawn out from their depths. [N-178](../REVIEW-NOTES.md#n-178)
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04141"></a>
+
+### U04141
+
+Source characters 119496–119527.
+
+> སྤྲུལ་པའི་སྐུ་ཡི་མཁྱེན་པའི་ཆ། །
+
+The knowing aspect of the emanation embodiment
+
+<a id="u04142"></a>
+
+### U04142
+
+Source characters 119527–119551.
+
+> རང་སྣང་ངོ་ལ་རྫོགས་པའོ། །
+
+is complete in the identity of self-appearance.
+
+<a id="u04143"></a>
+
+### U04143
+
+Source characters 119551–119570.
+
+> དྲིས་ལན་ཉེར་གཉིས་པ།
+
+[Source heading: Twenty-second reply.]
+
+<a id="u04144"></a>
+
+### U04144
+
+Source characters 119570–119599.
+
+> ཇི་ལྟ་མཁྱེན་པའི་ཡེ་ཤེས་བཤད། །
+
+I shall explain the primordial knowing that knows how [things are].
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04145"></a>
+
+### U04145
+
+Source characters 119599–119626.
+
+> སྣང་ཆས་བརྗོད་གཞི་བྲལ་བ་ལ། །
+
+The appearance aspect is free from a basis for expression;
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04146"></a>
+
+### U04146
+
+Source characters 119626–119657.
+
+> རང་སྣང་དག་པའི་གཟུགས་བརྙན་གསལ། །
+
+the reflection of pure self-appearance is clear.
+
+<a id="u04147"></a>
+
+### U04147
+
+Source characters 119657–119689.
+
+> དངོས་པོའི་གནས་ལུགས་མཁྱེན་པ་ལས། །
+
+Through knowing the natural state of things,
+
+<a id="u04148"></a>
+
+### U04148
+
+Source characters 119689–119722.
+
+> རང་དོན་རྟོགས་པས་འཁྲུལ་རྒྱུན་ཟད། །
+
+and realizing one's own benefit, the flow of delusion is exhausted.
+
+<a id="u04149"></a>
+
+### U04149
+
+Source characters 119722–119748.
+
+> ཇི་ཞེས་བྱ་བ་གནས་ལུགས་ལས། །
+
+‘How’ refers to the natural state;
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04150"></a>
+
+### U04150
+
+Source characters 119748–119775.
+
+> ལྟ་བ་ཡེངས་པ་མེད་པར་སྤྱོད། །
+
+‘view’ engages without distraction. [N-178](../REVIEW-NOTES.md#n-178)
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04151"></a>
+
+### U04151
+
+Source characters 119775–119806.
+
+> མཁྱེན་པ་འགག་པ་མེད་ཕྱིར་རྫོགས། །
+
+‘Knowing’ is complete because it does not cease.
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04152"></a>
+
+### U04152
+
+Source characters 119806–119829.
+
+> ཡེ་ནི་ལམ་དུ་གྱུར་པ་ལ། །
+
+‘Primordial’ has become the path;
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04153"></a>
+
+### U04153
+
+Source characters 119829–119852.
+
+> ཤེས་པ་ཚད་དུ་ཕྱིན་པའོ། །
+
+‘knowing’ has reached its measure.
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04154"></a>
+
+### U04154
+
+Source characters 119852–119879.
+
+> མ་བཅོས་རང་གྲོལ་ཆེན་པོ་ཡི། །
+
+There is no movement from the Ground
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04155"></a>
+
+### U04155
+
+Source characters 119879–119901.
+
+> གཞི་ལ་གཡོ་བ་མེད་པའོ། །
+
+of great uncontrived self-liberation. [N-178](../REVIEW-NOTES.md#n-178)
+
+Review links: [N-178](../REVIEW-NOTES.md#n-178)
+
+<a id="u04156"></a>
+
+### U04156
+
+Source characters 119901–119920.
+
+> དྲིས་ལན་ཉེར་གསུམ་པ།
+
+[Source heading: Twenty-third reply.]
+
+<a id="u04157"></a>
+
+### U04157
+
+Source characters 119920–119949.
+
+> ཡེ་ཤེས་རྣམས་ཀྱི་བསྡོམ་པ་ནི། །
+
+The gathering of primordial knowings
+
+<a id="u04158"></a>
+
+### U04158
+
+Source characters 119949–119975.
+
+> མཚན་ཉིད་ཁྱབ་ཅིང་གསལ་བ་ལ། །
+
+has pervasive and clear characteristics;
+
+<a id="u04159"></a>
+
+### U04159
+
+Source characters 119975–120008.
+
+> རང་བཞིན་གསལ་སྟོང་དབྱེར་མི་ཕྱེད། །
+
+intrinsic nature is clarity-emptiness, indivisible,
+
+<a id="u04160"></a>
+
+### U04160
+
+Source characters 120008–120034.
+
+> ངོ་བོ་གང་དུའང་ཕྱེ་བ་མེད། །
+
+and essence is not differentiated anywhere.
+
+<a id="u04161"></a>
+
+### U04161
+
+Source characters 120034–120062.
+
+> དབྱེ་བ་བཞི་ཡིས་བསྡུས་པ་ལས། །
+
+Gathered into four divisions,
+
+Review links: [N-179](../REVIEW-NOTES.md#n-179)
+
+<a id="u04162"></a>
+
+### U04162
+
+Source characters 120062–120093.
+
+> རྟོག་འཇུག་ཐབས་ཀྱི་བྱེ་བྲག་སྟོན།
+
+it shows distinctions in the methods by which conceptual thought enters.
+
+Review links: [N-179](../REVIEW-NOTES.md#n-179)
+
+<a id="u04163"></a>
+
+### U04163
+
+Source characters 120093–120122.
+
+>  གཞི་དང་སྙིང་པོ་མེ་ཏོག་གིས། །
+
+With Ground, core, and flowers,
+
+Review links: [N-179](../REVIEW-NOTES.md#n-179)
+
+<a id="u04164"></a>
+
+### U04164
+
+Source characters 120122–120151.
+
+> མཛེས་ཤིང་ཡང་དག་རྫོགས་པ་ཉིད། །
+
+it is beautiful and truly complete. [N-179](../REVIEW-NOTES.md#n-179)
+
+Review links: [N-179](../REVIEW-NOTES.md#n-179)
+
+<a id="u04165"></a>
+
+### U04165
+
+Source characters 120151–120181.
+
+> ཁྱབ་དང་ཁྱབ་བྱེད་ཚུལ་གྱི་ཡང༌། །
+
+Through the manner of pervasion and that which pervades,
+
+Review links: [N-179](../REVIEW-NOTES.md#n-179)
+
+<a id="u04166"></a>
+
+### U04166
+
+Source characters 120181–120207.
+
+> རང་སྣང་གཞི་ལ་སྟོན་པ་དང་། །
+
+it shows self-appearance in the Ground
+
+Review links: [N-179](../REVIEW-NOTES.md#n-179)
+
+<a id="u04167"></a>
+
+### U04167
+
+Source characters 120207–120233.
+
+> རྣམ་རྟོག་ཟད་པར་བྱེད་པའོ། །
+
+and exhausts differentiating conceptualization.
+
+<a id="u04168"></a>
+
+### U04168
+
+Source characters 120233–120260.
+
+> ཁྱད་པར་འདུས་པ་རྣམས་ཕྱེ་བ། །
+
+Distinguishing the gathered special features,
+
+<a id="u04169"></a>
+
+### U04169
+
+Source characters 120260–120290.
+
+> རྟོག་བྲལ་ཆོས་ཉིད་རང་གདངས་ལས། །
+
+from the self-radiance of the nature of phenomena, free from conceptual thought,
+
+<a id="u04170"></a>
+
+### U04170
+
+Source characters 120290–120322.
+
+> དམིགས་མེད་ཡེ་ཤེས་སྣང་བ་འབྱུང་། །
+
+there arises an appearance of primordial knowing without an object of focus.
+
+<a id="u04171"></a>
+
+### U04171
+
+Source characters 120322–120353.
+
+> དེ་ལ་རྣལ་འབྱོར་སེམས་རྫོགས་སོ། །
+
+There the yogin's ordinary mind is complete.
+
+<a id="u04172"></a>
+
+### U04172
+
+Source characters 120353–120379.
+
+> ཡང་དག་འདུས་པའི་ཡན་ལག་ཏུ། །
+
+As a subsidiary aspect of the true gathering,
+
+Review links: [N-179](../REVIEW-NOTES.md#n-179)
+
+<a id="u04173"></a>
+
+### U04173
+
+Source characters 120379–120409.
+
+> ཡེ་ཤེས་གནད་ནི་མིག་ལས་འབྱུང་། །
+
+the crucial point of primordial knowing arises from the eyes.
+
+Review links: [N-179](../REVIEW-NOTES.md#n-179)
+
+<a id="u04174"></a>
+
+### U04174
+
+Source characters 120409–120439.
+
+> མིག་གི་གཟིགས་སྟངས་ཤེས་པ་ཡིས། །
+
+Through knowing the eyes' gaze,
+
+Review links: [N-179](../REVIEW-NOTES.md#n-179)
+
+<a id="u04175"></a>
+
+### U04175
+
+Source characters 120439–120473.
+
+> ཆོས་ཀྱི་དབྱིངས་དང་ལྷན་ཅིག་སྤྱོད། །
+
+one engages together with the basic space of phenomena.
+
+Review links: [N-179](../REVIEW-NOTES.md#n-179)
+
+<a id="u04176"></a>
+
+### U04176
+
+Source characters 120473–120503.
+
+> ཁམས་གསུམ་པོ་ནི་ཟད་བྱའི་ཕྱིར། །
+
+In order to exhaust the three realms,
+
+Review links: [N-179](../REVIEW-NOTES.md#n-179)
+
+<a id="u04177"></a>
+
+### U04177
+
+Source characters 120503–120530.
+
+> མིག་གི་ཕུགས་ན་འཕར་བའི་རྩ། །
+
+the pulsating channel behind the eyes
+
+Review links: [N-179](../REVIEW-NOTES.md#n-179)
+
+<a id="u04178"></a>
+
+### U04178
+
+Source characters 120530–120561.
+
+> གྱེན་ལ་བཟློག་པས་ཡེ་ཤེས་འབེབས། །
+
+is turned upward, bringing down primordial knowing. [N-179](../REVIEW-NOTES.md#n-179)
+
+Review links: [N-179](../REVIEW-NOTES.md#n-179)
+
+<a id="u04179"></a>
+
+### U04179
+
+Source characters 120561–120590.
+
+> གནད་ལས་བྱུང་བའི་ཡེ་ཤེས་གང༌། །
+
+Whatever primordial knowing arises from the crucial point,
+
+Review links: [N-179](../REVIEW-NOTES.md#n-179)
+
+<a id="u04180"></a>
+
+### U04180
+
+Source characters 120590–120619.
+
+> རིག་ལྡན་ཆོས་ཉིད་ཅི་བཞིན་དུ། །
+
+just as the nature of phenomena endowed with awareness,
+
+Review links: [N-179](../REVIEW-NOTES.md#n-179)
+
+<a id="u04181"></a>
+
+### U04181
+
+Source characters 120619–120647.
+
+> རྟོག་པ་ཀུན་ལས་རྣམ་གྲོལ་བས། །
+
+is completely liberated from all conceptual thought:
+
+Review links: [N-179](../REVIEW-NOTES.md#n-179)
+
+<a id="u04182"></a>
+
+### U04182
+
+Source characters 120647–120678.
+
+> དབྱིངས་ལས་བྱུང་བའི་ཡེ་ཤེས་སོ། །
+
+it is primordial knowing arising from basic space.
+
+Review links: [N-179](../REVIEW-NOTES.md#n-179)
+
+<a id="u04183"></a>
+
+### U04183
+
+Source characters 120678–120705.
+
+> མིག་གི་གནད་ནི་སྟེང་དང་འོག །
+
+The crucial points of the eyes are above and below;
+
+Review links: [N-179](../REVIEW-NOTES.md#n-179)
+
+<a id="u04184"></a>
+
+### U04184
+
+Source characters 120705–120735.
+
+> མཁས་པས་རྩོལ་བའི་སྣ་གང་འགྱུར། །
+
+whichever avenue of effort the adept employs,
+
+Review links: [N-179](../REVIEW-NOTES.md#n-179)
+
+<a id="u04185"></a>
+
+### U04185
+
+Source characters 120735–120761.
+
+> ཀུན་འདུས་ཡེ་ཤེས་སྣང་བའོ། །
+
+there is the appearance of all-gathering primordial knowing. [N-179](../REVIEW-NOTES.md#n-179)
+
+Review links: [N-179](../REVIEW-NOTES.md#n-179)
+
+<a id="u04186"></a>
+
+### U04186
+
+Source characters 120761–120784.
+
+> ཡང་ན་མིག་གི་ཡེ་ཤེས་ལ། །
+
+Alternatively, in the primordial knowing of the eyes,
+
+<a id="u04187"></a>
+
+### U04187
+
+Source characters 120784–120808.
+
+> ཁ་དོག་ལྔ་ཡི་རབ་ཕྱེ་བས། །
+
+through clearly distinguishing the five colors,
+
+<a id="u04188"></a>
+
+### U04188
+
+Source characters 120808–120843.
+
+> དཀྱིལ་འཁོར་རྫོགས་པའི་གཟུགས་འདྲ་བ། །
+
+there is a likeness of the form of a complete mandala.
+
+<a id="u04189"></a>
+
+### U04189
+
+Source characters 120843–120874.
+
+> འདི་ལས་འབྱུང་བའི་ཉམས་མྱོང་ནི། །
+
+The experiential acquaintance arising from this
+
+Review links: [N-179](../REVIEW-NOTES.md#n-179)
+
+<a id="u04190"></a>
+
+### U04190
+
+Source characters 120874–120903.
+
+> གང་གིས་བརྗོད་པར་མི་ནུས་པའི། །
+
+cannot be expressed by anyone—
+
+Review links: [N-179](../REVIEW-NOTES.md#n-179)
+
+<a id="u04191"></a>
+
+### U04191
+
+Source characters 120903–120926.
+
+> ཨེ་མ་ངོ་མཚར་ཆེ་བ་ཉིད། །
+
+Ema! Such great wonder!—
+
+Review links: [N-179](../REVIEW-NOTES.md#n-179)
+
+<a id="u04192"></a>
+
+### U04192
+
+Source characters 120926–120953.
+
+> ཡོན་ཏན་རྫོགས་པའི་སྣང་བའོ། །
+
+an appearance complete in qualities.
+
+Review links: [N-179](../REVIEW-NOTES.md#n-179)
+
+<a id="u04193"></a>
+
+### U04193
+
+Source characters 120953–120978.
+
+> ཁྱབ་ཅིང་ཆ་ཕྲ་ཡེ་ཤེས་ལས། །
+
+From pervasive primordial knowing, subtle in aspect,
+
+Review links: [N-179](../REVIEW-NOTES.md#n-179)
+
+<a id="u04194"></a>
+
+### U04194
+
+Source characters 120978–121003.
+
+> མངོན་སུམ་པས་དང་ལམ་དུའོ། །
+
+it is through direct perception and on the path. [N-179](../REVIEW-NOTES.md#n-179)
+
+Review links: [N-179](../REVIEW-NOTES.md#n-179)
+
+<a id="u04195"></a>
+
+### U04195
+
+Source characters 121003–121027.
+
+> གཞན་ཡང་རབ་ཏུ་བཤད་བྱ་བ། །
+
+Furthermore, this is to be explained:
+
+<a id="u04196"></a>
+
+### U04196
+
+Source characters 121027–121058.
+
+> རྣམ་རྟོག་འདུས་པའི་དྲན་བསམ་ལས། །
+
+from mindfulness and reflection in which differentiating conceptualization gathers,
+
+Review links: [N-180](../REVIEW-NOTES.md#n-180)
+
+<a id="u04197"></a>
+
+### U04197
+
+Source characters 121058–121090.
+
+> ཆོས་ཀྱི་སྐུ་ཡང་གཟུགས་སུ་འགྱུར། །
+
+even the dharma embodiment becomes form. [N-180](../REVIEW-NOTES.md#n-180)
+
+Review links: [N-180](../REVIEW-NOTES.md#n-180)
+
+<a id="u04198"></a>
+
+### U04198
+
+Source characters 121090–121119.
+
+> གལ་ཏེ་ཁམས་གསུམ་འདས་འདོད་པས། །
+
+One who wishes to go beyond the three realms,
+
+Review links: [N-180](../REVIEW-NOTES.md#n-180)
+
+<a id="u04199"></a>
+
+### U04199
+
+Source characters 121119–121145.
+
+> དམ་པའི་ཡེ་ཤེས་གནད་ཆེ་བས། །
+
+through the great crucial point of sacred primordial knowing,
+
+Review links: [N-180](../REVIEW-NOTES.md#n-180)
+
+<a id="u04200"></a>
+
+### U04200
+
+Source characters 121145–121178.
+
+> སོ་སོའི་རླུང་གི་དབུགས་སུ་བརྟགས། །
+
+examines the respective winds as breaths.
+
+Review links: [N-180](../REVIEW-NOTES.md#n-180)
+
+<a id="u04201"></a>
+
+### U04201
+
+Source characters 121178–121203.
+
+> ཆོས་ཀུན་དྲི་མ་རང་དག་ལས། །
+
+From the self-purification of stains in all phenomena,
+
+Review links: [N-180](../REVIEW-NOTES.md#n-180)
+
+<a id="u04202"></a>
+
+### U04202
+
+Source characters 121203–121236.
+
+> སྐུ་གསུམ་ལུས་ཀྱི་དབུས་སུ་རྫོགས། །
+
+the three embodiments are complete in the center of the body.
+
+<a id="u04203"></a>
+
+### U04203
+
+Source characters 121236–121262.
+
+> འདི་ལ་རྟོག་པ་ཅི་ཡི་ཕྱིར། །
+
+Why is there conceptual thought concerning this?
+
+<a id="u04204"></a>
+
+### U04204
+
+Source characters 121262–121292.
+
+> དྲན་བསམ་འདུས་པའི་རང་བཞིན་ལས། །
+
+From the intrinsic nature of gathered mindfulness and reflection,
+
+Review links: [N-180](../REVIEW-NOTES.md#n-180)
+
+<a id="u04205"></a>
+
+### U04205
+
+Source characters 121292–121323.
+
+> ཆོས་ཀྱི་སྐུ་ཡང་འཁོར་བར་འགྱུར། །
+
+even the dharma embodiment becomes samsara. [N-180](../REVIEW-NOTES.md#n-180)
+
+Review links: [N-180](../REVIEW-NOTES.md#n-180)
+
+<a id="u04206"></a>
+
+### U04206
+
+Source characters 121323–121350.
+
+> གང་ཚེ་འཁོར་བའི་མཐའ་ཟད་པས། །
+
+When the limits of samsara are exhausted,
+
+Review links: [N-180](../REVIEW-NOTES.md#n-180)
+
+<a id="u04207"></a>
+
+### U04207
+
+Source characters 121350–121376.
+
+> བྱས་པ་མེད་པར་རང་སར་གྲོལ། །
+
+one is liberated in one's own place without anything being done.
+
+Review links: [N-180](../REVIEW-NOTES.md#n-180)
+
+<a id="u04208"></a>
+
+### U04208
+
+Source characters 121376–121401.
+
+> གྲོལ་བ་འདི་ལ་ཅི་ཡང་མེད། །
+
+In this liberation there is nothing at all.
+
+<a id="u04209"></a>
+
+### U04209
+
+Source characters 121401–121432.
+
+> མེད་ཕྱིར་ཆོས་ཉིད་དངོས་པོ་མིན། །
+
+Because there is nothing, the nature of phenomena is not a thing.
+
+<a id="u04210"></a>
+
+### U04210
+
+Source characters 121432–121465.
+
+> ཡེ་ཤེས་རྫོགས་པས་འཁྲུལ་རྒྱུན་ཆད། །
+
+Primordial knowing being complete, the flow of delusion is cut;
+
+<a id="u04211"></a>
+
+### U04211
+
+Source characters 121465–121490.
+
+> ཆད་པས་འགྲོ་དང་འོང་བ་ཟད། །
+
+being cut, going and coming are exhausted.
+
+<a id="u04212"></a>
+
+### U04212
+
+Source characters 121490–121519.
+
+> ཟད་ཕྱིར་སྟོང་པའི་ཡེ་ཤེས་སོ། །
+
+Because they are exhausted, it is empty primordial knowing.
+
+<a id="u04213"></a>
+
+### U04213
+
+Source characters 121519–121547.
+
+> སྐུ་གསུམ་ཡེ་ཤེས་མ་འགགས་པས། །
+
+Since the primordial knowing of the three embodiments has not ceased,
+
+Review links: [N-180](../REVIEW-NOTES.md#n-180)
+
+<a id="u04214"></a>
+
+### U04214
+
+Source characters 121547–121576.
+
+> ཁམས་གསུམ་པོ་ཡང་ཡོད་པ་སྟོང་། །
+
+the existence of the three realms is empty.
+
+Review links: [N-180](../REVIEW-NOTES.md#n-180)
+
+<a id="u04215"></a>
+
+### U04215
+
+Source characters 121576–121606.
+
+> འགྲོ་ཞིང་འབྱུང་བ་རྙེད་པ་ཡིས། །
+
+By finding going and arising,
+
+Review links: [N-180](../REVIEW-NOTES.md#n-180)
+
+<a id="u04216"></a>
+
+### U04216
+
+Source characters 121606–121635.
+
+> དངོས་པོ་དག་པས་གཟུགས་ཟད་པའོ། །
+
+things being pure, form is exhausted. [N-180](../REVIEW-NOTES.md#n-180)
+
+Review links: [N-180](../REVIEW-NOTES.md#n-180)
+
+<a id="u04217"></a>
+
+### U04217
+
+Source characters 121635–121663.
+
+> གཞན་ཡང་སྣང་བའི་ཡེ་ཤེས་བཤད། །
+
+Furthermore, I shall explain the primordial knowing of appearance.
+
+<a id="u04218"></a>
+
+### U04218
+
+Source characters 121663–121688.
+
+> ས་ཆུ་མེ་རླུང་ནམ་མཁའ་ལས། །
+
+From earth, water, fire, wind, and space,
+
+<a id="u04219"></a>
+
+### U04219
+
+Source characters 121688–121713.
+
+> ཡེ་ཤེས་སྣང་བ་ངོ་མཚར་བས། །
+
+through the wonder of primordial knowing's appearance,
+
+<a id="u04220"></a>
+
+### U04220
+
+Source characters 121713–121744.
+
+> བཅོམ་ལྡན་མགོན་པོ་རིག་མེད་པའོ། །
+
+the blessed protector is without awareness. [N-181](../REVIEW-NOTES.md#n-181)
+
+Review links: [N-181](../REVIEW-NOTES.md#n-181)
+
+<a id="u04221"></a>
+
+### U04221
+
+Source characters 121744–121772.
+
+> བརྟགས་པས་མ་རྙེད་ཡེ་ཤེས་ནི། །
+
+Primordial knowing, not found on examination,
+
+<a id="u04222"></a>
+
+### U04222
+
+Source characters 121772–121798.
+
+> ཁམས་གསུམ་གདར་ཤ་ཆོད་པ་ལས། །
+
+decisively resolves the three realms
+
+<a id="u04223"></a>
+
+### U04223
+
+Source characters 121798–121828.
+
+> སྒོ་ལྔའི་ཞེན་རྒྱུན་གཅོད་པའོ། །
+
+and cuts the flow of clinging at the five gates.
+
+<a id="u04224"></a>
+
+### U04224
+
+Source characters 121828–121853.
+
+> ཟླ་དང་ནོར་བུ་མར་གར་འོད། །
+
+The moon, a jewel, ‘mar gar,’ and light—
+
+Review links: [N-181](../REVIEW-NOTES.md#n-181), [N-T92](../REVIEW-NOTES.md#n-t92)
+
+<a id="u04225"></a>
+
+### U04225
+
+Source characters 121853–121880.
+
+> གང་གིས་འཛིན་པར་འདོད་པ་ཡི། །
+
+one who wishes to hold these
+
+Review links: [N-181](../REVIEW-NOTES.md#n-181)
+
+<a id="u04226"></a>
+
+### U04226
+
+Source characters 121880–121911.
+
+> འཛིན་བྱུང་སྐུ་ཡི་སྣང་བ་བཟུང༌། །
+
+holds the appearance of embodiment arising from holding. [N-181](../REVIEW-NOTES.md#n-181)
+
+Review links: [N-181](../REVIEW-NOTES.md#n-181)
+
+<a id="u04227"></a>
+
+### U04227
+
+Source characters 121911–121937.
+
+> ཡང་ནི་རྫོགས་པ་ཆེན་པོ་ཡི། །
+
+Then, through knowing the crucial point
+
+<a id="u04228"></a>
+
+### U04228
+
+Source characters 121937–121962.
+
+> གནད་ཤེས་པ་ལས་ཡེ་ཤེས་ནི། །
+
+of the Great Perfection, primordial knowing
+
+<a id="u04229"></a>
+
+### U04229
+
+Source characters 121962–121989.
+
+> བྱ་བྲལ་ནམ་མཁའ་ཇི་བཞིན་དུ། །
+
+is free from doing, just like space.
+
+<a id="u04230"></a>
+
+### U04230
+
+Source characters 121989–122018.
+
+> ཀུན་ཏུ་རྟོགས་པས་སྔོ་དང་བྲལ། །
+
+Through complete realization, it is free from blue. [N-181](../REVIEW-NOTES.md#n-181)
+
+Review links: [N-181](../REVIEW-NOTES.md#n-181)
+
+<a id="u04231"></a>
+
+### U04231
+
+Source characters 122018–122046.
+
+> ངོ་མཚར་རྨད་བྱུང་ཡེ་ཤེས་ནི། །
+
+Wondrous, marvelous primordial knowing
+
+<a id="u04232"></a>
+
+### U04232
+
+Source characters 122046–122078.
+
+> སྔོན་མེད་ཕྱིས་མེད་གདོད་ནས་མེད། །
+
+was absent before, is absent afterward, and absent from the beginning.
+
+<a id="u04233"></a>
+
+### U04233
+
+Source characters 122078–122105.
+
+> ད་ལྟ་རྣམ་རྟོག་ཡུལ་ལས་འདས། །
+
+Now it is beyond the object of differentiating conceptualization:
+
+<a id="u04234"></a>
+
+### U04234
+
+Source characters 122105–122135.
+
+> མཐའ་བྲལ་སྟོང་པའི་རང་བཞིན་ནོ། །
+
+an empty intrinsic nature free from extremes.
+
+<a id="u04235"></a>
+
+### U04235
+
+Source characters 122135–122166.
+
+> ཚིག་འདས་བློ་བྲལ་ངོ་བོས་སྟོང༌། །
+
+Beyond phrases, free from the conceptual mind, empty in essence,
+
+Review links: [N-181](../REVIEW-NOTES.md#n-181)
+
+<a id="u04236"></a>
+
+### U04236
+
+Source characters 122166–122191.
+
+> རང་བཞིན་གང་དུ་མ་ཕྱེ་བས། །
+
+its intrinsic nature not differentiated anywhere,
+
+Review links: [N-181](../REVIEW-NOTES.md#n-181)
+
+<a id="u04237"></a>
+
+### U04237
+
+Source characters 122191–122219.
+
+> ཐུགས་རྗེ་མཛད་པ་མི་སྣང་ངོ༌། །
+
+the deeds of compassionate responsiveness do not appear. [N-181](../REVIEW-NOTES.md#n-181)
+
+Review links: [N-181](../REVIEW-NOTES.md#n-181)
+
+<a id="u04238"></a>
+
+### U04238
+
+Source characters 122219–122244.
+
+> ཡེ་ཤེས་སྣང་བ་གསུམ་པ་ལས། །
+
+From the third appearance of primordial knowing,
+
+Review links: [N-181](../REVIEW-NOTES.md#n-181)
+
+<a id="u04239"></a>
+
+### U04239
+
+Source characters 122244–122278.
+
+> ཡིད་འབྱུང་ཤེས་རབ་འཁྲུལ་ཆར་བཟུང༌། །
+
+discerning knowing arising from the mental faculty is held as an aspect of delusion. [N-181](../REVIEW-NOTES.md#n-181)
+
+Review links: [N-181](../REVIEW-NOTES.md#n-181), [N-T94](../REVIEW-NOTES.md#n-t94)
+
+<a id="u04240"></a>
+
+### U04240
+
+Source characters 122278–122307.
+
+> འདི་ལ་རྣམ་པར་དམིགས་མཐའ་མེད། །
+
+Here there is no limit of differentiated focus.
+
+Review links: [N-181](../REVIEW-NOTES.md#n-181)
+
+<a id="u04241"></a>
+
+### U04241
+
+Source characters 122307–122333.
+
+> མེད་པ་རྨད་བྱུང་རོལ་པ་ལས། །
+
+From the marvelous play of absence,
+
+<a id="u04242"></a>
+
+### U04242
+
+Source characters 122333–122366.
+
+> སངས་རྒྱས་རྣམས་ཀྱི་འབྲས་བུ་རྙེད། །
+
+the result of the buddhas is found.
+
+<a id="u04243"></a>
+
+### U04243
+
+Source characters 122366–122397.
+
+> ཕྱི་དང་ནང་ཀུན་ཆོས་ཀྱི་དབྱིངས། །
+
+Outside and inside are all the basic space of phenomena;
+
+<a id="u04244"></a>
+
+### U04244
+
+Source characters 122397–122422.
+
+> འདི་ལ་གང་ཡང་མི་སྣང་ངོ༌། །
+
+here nothing whatsoever appears.
+
+<a id="u04245"></a>
+
+### U04245
+
+Source characters 122422–122450.
+
+> གཞན་ཡང་ཡུལ་གྱི་ཡེ་ཤེས་བཤད། །
+
+Furthermore, I shall explain the primordial knowing of objects.
+
+Review links: [N-182](../REVIEW-NOTES.md#n-182)
+
+<a id="u04246"></a>
+
+### U04246
+
+Source characters 122450–122479.
+
+> གཟུགས་དང་སྒྲ་ཡི་བྱེ་བྲག་ལས། །
+
+Through distinctions of form and sound,
+
+Review links: [N-182](../REVIEW-NOTES.md#n-182)
+
+<a id="u04247"></a>
+
+### U04247
+
+Source characters 122479–122512.
+
+> བསླབ་བྱའི་ཉམས་ཀྱང་ལྔར་འགྱུར་རོ། །
+
+the experiences to be trained in become five.
+
+Review links: [N-182](../REVIEW-NOTES.md#n-182)
+
+<a id="u04248"></a>
+
+### U04248
+
+Source characters 122512–122539.
+
+> ཤེས་པའི་ཉམས་ཟད་སྣང་བ་སྟེ། །
+
+There is the appearance of the exhaustion of knowing's experience;
+
+Review links: [N-182](../REVIEW-NOTES.md#n-182)
+
+<a id="u04249"></a>
+
+### U04249
+
+Source characters 122539–122567.
+
+> འཕེལ་སྟོན་ཟླ་བ་ཡར་ངོ་བཞིན། །
+
+increase is shown like the waxing moon.
+
+Review links: [N-182](../REVIEW-NOTES.md#n-182)
+
+<a id="u04250"></a>
+
+### U04250
+
+Source characters 122567–122592.
+
+> སྣང་བ་རེ་ལ་ཉམས་རེ་འོང་། །
+
+With each appearance, an experience comes. [N-182](../REVIEW-NOTES.md#n-182)
+
+Review links: [N-182](../REVIEW-NOTES.md#n-182)
+
+<a id="u04251"></a>
+
+### U04251
+
+Source characters 122592–122619.
+
+> དྲོད་དང་ཚད་དང་རྟགས་ལས་ནི། །
+
+Through warmth, measure, and signs,
+
+Review links: [N-183](../REVIEW-NOTES.md#n-183)
+
+<a id="u04252"></a>
+
+### U04252
+
+Source characters 122619–122652.
+
+> བདེན་གཉིས་ཟུང་འཇུག་རྟོག་མཐའ་ཟད། །
+
+the two truths enter in union, and the limits of conceptual thought are exhausted.
+
+Review links: [N-183](../REVIEW-NOTES.md#n-183)
+
+<a id="u04253"></a>
+
+### U04253
+
+Source characters 122652–122680.
+
+> བྱ་བ་མེད་པས་མཚན་ཉིད་སྟོང་། །
+
+With no doing, characteristics are empty.
+
+Review links: [N-183](../REVIEW-NOTES.md#n-183)
+
+<a id="u04254"></a>
+
+### U04254
+
+Source characters 122680–122711.
+
+> བརྗོད་གཞི་འགགས་པས་མཐའ་མི་གནས། །
+
+The basis of expression having ceased, one does not abide at an extreme.
+
+Review links: [N-183](../REVIEW-NOTES.md#n-183)
+
+<a id="u04255"></a>
+
+### U04255
+
+Source characters 122711–122739.
+
+> ཟག་པ་ཟད་ཕྱིར་རྡོས་བཅས་མིན། །
+
+Since outflows are exhausted, there is no material weight.
+
+Review links: [N-183](../REVIEW-NOTES.md#n-183)
+
+<a id="u04256"></a>
+
+### U04256
+
+Source characters 122739–122767.
+
+> དྲན་པའི་ཁོང་འགག་ངོ་བོ་གསལ། །
+
+The interior of mindfulness ceases; essence is clear. [N-183](../REVIEW-NOTES.md#n-183)
+
+Review links: [N-183](../REVIEW-NOTES.md#n-183)
+
+<a id="u04257"></a>
+
+### U04257
+
+Source characters 122767–122796.
+
+> གསལ་རིག་ཡུལ་གྱི་མཐའ་མི་རྟོག །
+
+Clear awareness does not conceptualize the limits of objects.
+
+Review links: [N-183](../REVIEW-NOTES.md#n-183)
+
+<a id="u04258"></a>
+
+### U04258
+
+Source characters 122796–122825.
+
+> སྒྲ་བྲལ་ཡང་དག་ཚིག་མེད་ཕྱིར། །
+
+Free from words, truly without phrases,
+
+Review links: [N-183](../REVIEW-NOTES.md#n-183)
+
+<a id="u04259"></a>
+
+### U04259
+
+Source characters 122825–122850.
+
+> ལྟོས་གཞི་ཐམས་ཅད་ཟད་པའོ། །
+
+all bases of dependence are exhausted.
+
+Review links: [N-183](../REVIEW-NOTES.md#n-183)
+
+<a id="u04260"></a>
+
+### U04260
+
+Source characters 122850–122882.
+
+> གཞན་ཡང་འདོད་ཡོན་མངོན་པར་སྤྱོད། །
+
+Furthermore, one directly engages the desirable qualities.
+
+<a id="u04261"></a>
+
+### U04261
+
+Source characters 122882–122913.
+
+> གཟུགས་ཀྱིས་བསླབ་པ་གཉིས་དག་ནི། །
+
+The two trainings through form
+
+Review links: [N-184](../REVIEW-NOTES.md#n-184)
+
+<a id="u04262"></a>
+
+### U04262
+
+Source characters 122913–122946.
+
+> དམིགས་པའི་རྟེན་དང་དམིགས་མེད་དོ། །
+
+are a support for focus and freedom from focus.
+
+Review links: [N-184](../REVIEW-NOTES.md#n-184)
+
+<a id="u04263"></a>
+
+### U04263
+
+Source characters 122946–122976.
+
+> ཡིད་མཐུན་ལས་ཀྱི་ཁྱད་པར་གྱིས། །
+
+Through the special activity agreeable to the mental faculty,
+
+Review links: [N-184](../REVIEW-NOTES.md#n-184)
+
+<a id="u04264"></a>
+
+### U04264
+
+Source characters 122976–123002.
+
+> སྔོན་དུ་བླ་མ་མཆོད་བྱས་ལ། །
+
+first make offerings to the lama.
+
+Review links: [N-184](../REVIEW-NOTES.md#n-184)
+
+<a id="u04265"></a>
+
+### U04265
+
+Source characters 123002–123029.
+
+> དབྱིབས་ལ་གོམས་ཏེ་ཁ་དོག་ལ། །
+
+Become accustomed to shapes and then to colors;
+
+<a id="u04266"></a>
+
+### U04266
+
+Source characters 123029–123061.
+
+> གོམས་པར་བྱས་པས་འཁྲུལ་སྣང་འགགས། །
+
+through this familiarity, delusory appearance ceases.
+
+<a id="u04267"></a>
+
+### U04267
+
+Source characters 123061–123091.
+
+> སྒྲ་ནི་དམིགས་པའི་རྟེན་དག་པས། །
+
+For sound, with a pure support for focus:
+
+Review links: [N-184](../REVIEW-NOTES.md#n-184)
+
+<a id="u04268"></a>
+
+### U04268
+
+Source characters 123091–123118.
+
+> པི་ཝཾ་རྫ་རྔ་བུམ་ལྡིར་དང་། །
+
+piwaṃ, earthenware drum, resonant pot,
+
+Review links: [N-184](../REVIEW-NOTES.md#n-184)
+
+<a id="u04269"></a>
+
+### U04269
+
+Source characters 123118–123145.
+
+> དྲ་བ་རྒྱུད་མང་མདོ་གསུམ་པ། །
+
+draba, the many-stringed instrument, the three-junctioned instrument,
+
+Review links: [N-184](../REVIEW-NOTES.md#n-184), [N-T97](../REVIEW-NOTES.md#n-t97)
+
+<a id="u04270"></a>
+
+### U04270
+
+Source characters 123145–123170.
+
+> ཧར་དང་གླིང་བུ་ཆ་ལང་དང༌། །
+
+har, flute, cymbals,
+
+Review links: [N-184](../REVIEW-NOTES.md#n-184), [N-T97](../REVIEW-NOTES.md#n-t97)
+
+<a id="u04271"></a>
+
+### U04271
+
+Source characters 123170–123202.
+
+> ཕེག་རྡོབ་ཅང་ཏེའུ་དྲིལ་བུ་སོགས། །
+
+pheg, rdob, small hand drum, bell, and so forth—
+
+Review links: [N-184](../REVIEW-NOTES.md#n-184), [N-T97](../REVIEW-NOTES.md#n-t97)
+
+<a id="u04272"></a>
+
+### U04272
+
+Source characters 123202–123231.
+
+> སོ་སོའི་སྒྲ་ལ་རླུང་ཡང་སྦྱར། །
+
+join wind to each respective sound. [N-184](../REVIEW-NOTES.md#n-184)
+
+Review links: [N-184](../REVIEW-NOTES.md#n-184)
+
+<a id="u04273"></a>
+
+### U04273
+
+Source characters 123231–123266.
+
+> དྲི་ནི་ཡིད་མཐུན་དམིགས་རྐྱེན་གྱིས། །
+
+For smell, through a condition for focus agreeable to the mental faculty,
+
+Review links: [N-184](../REVIEW-NOTES.md#n-184)
+
+<a id="u04274"></a>
+
+### U04274
+
+Source characters 123266–123290.
+
+> དད་དང་དད་པ་ཆེན་པོ་དང་། །
+
+faith and great faith,
+
+Review links: [N-184](../REVIEW-NOTES.md#n-184)
+
+<a id="u04275"></a>
+
+### U04275
+
+Source characters 123290–123318.
+
+> མཆོག་དང་ཁྱད་པར་ཆེན་པོ་ཡིས། །
+
+the supreme and the greatly distinctive,
+
+Review links: [N-184](../REVIEW-NOTES.md#n-184)
+
+<a id="u04276"></a>
+
+### U04276
+
+Source characters 123318–123349.
+
+> རྣལ་འབྱོར་པ་ཡི་བདེ་ཆེན་སྦྱོར། །
+
+join the yogin to great bliss. [N-184](../REVIEW-NOTES.md#n-184)
+
+Review links: [N-184](../REVIEW-NOTES.md#n-184)
+
+<a id="u04277"></a>
+
+### U04277
+
+Source characters 123349–123376.
+
+> རོ་ནི་བུ་རམ་དྲུག་ལྡན་དང༌། །
+
+For taste, an adept combines cane sugar, that endowed with six [tastes],
+
+Review links: [N-184](../REVIEW-NOTES.md#n-184)
+
+<a id="u04278"></a>
+
+### U04278
+
+Source characters 123376–123406.
+
+> རྒུན་ཆང་འབྲས་ཆང་མཁས་པས་སྦྱར། །
+
+grape wine, and rice beer.
+
+Review links: [N-184](../REVIEW-NOTES.md#n-184)
+
+<a id="u04279"></a>
+
+### U04279
+
+Source characters 123406–123433.
+
+> སྡོམ་ལྡན་རིམ་པ་ལྔ་ཤེས་པས། །
+
+Knowing the five stages endowed with restraint,
+
+Review links: [N-184](../REVIEW-NOTES.md#n-184)
+
+<a id="u04280"></a>
+
+### U04280
+
+Source characters 123433–123460.
+
+> མྱང་བ་ཙམ་གྱིས་ཡེ་ཤེས་འབར། །
+
+merely tasting makes primordial knowing blaze. [N-184](../REVIEW-NOTES.md#n-184)
+
+Review links: [N-184](../REVIEW-NOTES.md#n-184)
+
+<a id="u04281"></a>
+
+### U04281
+
+Source characters 123460–123491.
+
+> རེག་ནི་ཡིད་མཐུན་དམིགས་རྟེན་ལ། །
+
+For touch, with a support for focus agreeable to the mental faculty,
+
+Review links: [N-184](../REVIEW-NOTES.md#n-184)
+
+<a id="u04282"></a>
+
+### U04282
+
+Source characters 123491–123521.
+
+> སོ་སོའི་རིག་པ་ཉམས་མྱོང་སྦྱར། །
+
+join each awareness to experiential acquaintance.
+
+Review links: [N-184](../REVIEW-NOTES.md#n-184)
+
+<a id="u04283"></a>
+
+### U04283
+
+Source characters 123521–123552.
+
+> ཤིང་ལོ་གཡས་འཁྱིལ་བསྐུམ་དུས་ལ། །
+
+When a tree leaf curls rightward and contracts,
+
+Review links: [N-184](../REVIEW-NOTES.md#n-184)
+
+<a id="u04284"></a>
+
+### U04284
+
+Source characters 123552–123585.
+
+> བསླང་སྟེ་རེག་པས་སངས་རྒྱས་རྟོགས། །
+
+raise it: through touch, buddhahood is realized. [N-184](../REVIEW-NOTES.md#n-184)
+
+Review links: [N-184](../REVIEW-NOTES.md#n-184)
+
+<a id="u04285"></a>
+
+### U04285
+
+Source characters 123585–123614.
+
+> ཆོས་ནི་བླ་མའི་ལུང་དང་བསྟུན། །
+
+Concerning phenomena, accord with the lama's authoritative transmission.
+
+Review links: [N-184](../REVIEW-NOTES.md#n-184)
+
+<a id="u04286"></a>
+
+### U04286
+
+Source characters 123614–123643.
+
+> གལ་ཏེ་བསྒོམ་པ་བཟང་པོ་རྟོགས། །
+
+When excellent cultivation is realized,
+
+Review links: [N-184](../REVIEW-NOTES.md#n-184)
+
+<a id="u04287"></a>
+
+### U04287
+
+Source characters 123643–123674.
+
+> འདི་ལྟར་བརྩམས་པས་ལམ་དུ་སློང༌། །
+
+practicing thus brings it onto the path,
+
+Review links: [N-184](../REVIEW-NOTES.md#n-184)
+
+<a id="u04288"></a>
+
+### U04288
+
+Source characters 123674–123708.
+
+> ཁམས་གསུམ་འཁྲུལ་འཁོར་རྒྱུན་ཆད་དོ། །
+
+and the flow of the machinery of delusion in the three realms is cut.
+
+Review links: [N-184](../REVIEW-NOTES.md#n-184)
+
+<a id="u04289"></a>
+
+### U04289
+
+Source characters 123708–123733.
+
+> གཞན་ཡང་ཡེ་ཤེས་སྣང་བ་ནི། །
+
+Furthermore, the appearance of primordial knowing:
+
+<a id="u04290"></a>
+
+### U04290
+
+Source characters 123733–123759.
+
+> དྲི་མེད་དག་པས་དཀར་པོ་ལས། །
+
+from the white of stainless purity,
+
+Review links: [N-185](../REVIEW-NOTES.md#n-185)
+
+<a id="u04291"></a>
+
+### U04291
+
+Source characters 123759–123793.
+
+> ཡོན་ཏན་རྫོགས་ཕྱིར་སྣང་བའི་གཟུགས། །
+
+because qualities are complete, the form of appearance
+
+Review links: [N-185](../REVIEW-NOTES.md#n-185)
+
+<a id="u04292"></a>
+
+### U04292
+
+Source characters 123793–123831.
+
+> མི་འབྱེད་རྫོགས་པའི་གཟུགས་སྐུར་འགྱུར། །
+
+becomes the indivisible, complete form embodiment.
+
+Review links: [N-185](../REVIEW-NOTES.md#n-185)
+
+<a id="u04293"></a>
+
+### U04293
+
+Source characters 123831–123861.
+
+> ཡོན་ཏན་བསྐྱེད་པའི་སེར་པོ་ལས། །
+
+From the yellow that generates qualities,
+
+Review links: [N-185](../REVIEW-NOTES.md#n-185)
+
+<a id="u04294"></a>
+
+### U04294
+
+Source characters 123861–123890.
+
+> གཞི་དང་འབྱེད་པ་དུས་མཉམ་པའི། །
+
+in an activity in which the Ground and differentiation are simultaneous,
+
+Review links: [N-185](../REVIEW-NOTES.md#n-185)
+
+<a id="u04295"></a>
+
+### U04295
+
+Source characters 123890–123919.
+
+> ལས་སུ་ཆོས་ཉིད་སྟོན་པར་བྱེད། །
+
+the nature of phenomena is shown. [N-185](../REVIEW-NOTES.md#n-185)
+
+Review links: [N-185](../REVIEW-NOTES.md#n-185)
+
+<a id="u04296"></a>
+
+### U04296
+
+Source characters 123919–123948.
+
+> རང་རྩལ་རྫོགས་པའི་དམར་པོ་ལས། །
+
+From the red of complete self-expressiveness,
+
+Review links: [N-185](../REVIEW-NOTES.md#n-185)
+
+<a id="u04297"></a>
+
+### U04297
+
+Source characters 123948–123979.
+
+> རང་བཞིན་དག་པའི་དཀྱིལ་དང་འཁོར། །
+
+the center and surrounding of pure intrinsic nature,
+
+Review links: [N-185](../REVIEW-NOTES.md#n-185)
+
+<a id="u04298"></a>
+
+### U04298
+
+Source characters 123979–124007.
+
+> མུ་ཁྱུད་ར་བ་རྫོགས་པར་སྟོན། །
+
+the encircling bands and enclosure, are shown in completeness.
+
+Review links: [N-185](../REVIEW-NOTES.md#n-185)
+
+<a id="u04299"></a>
+
+### U04299
+
+Source characters 124007–124034.
+
+> བྱ་རྩལ་བྲལ་བའི་ལྗང་གུ་ལས། །
+
+From the green free from doing-expressiveness,
+
+Review links: [N-185](../REVIEW-NOTES.md#n-185)
+
+<a id="u04300"></a>
+
+### U04300
+
+Source characters 124034–124066.
+
+> ཕྲིན་ལས་དག་པའི་སྤྲུལ་པ་འབྱུང༌། །
+
+emanations of pure enlightened activity arise.
+
+Review links: [N-185](../REVIEW-NOTES.md#n-185)
+
+<a id="u04301"></a>
+
+### U04301
+
+Source characters 124066–124097.
+
+> མི་འགྱུར་རྫོགས་པའི་མཐིང་ག་ལས། །
+
+From the blue of unchanging completeness,
+
+Review links: [N-185](../REVIEW-NOTES.md#n-185)
+
+<a id="u04302"></a>
+
+### U04302
+
+Source characters 124097–124128.
+
+> མཐའ་དབུས་མི་གནས་ཁྱབ་པར་སྟོང་། །
+
+not abiding at edge or center, it is pervasively empty.
+
+Review links: [N-185](../REVIEW-NOTES.md#n-185)
+
+<a id="u04303"></a>
+
+### U04303
+
+Source characters 124128–124159.
+
+> རང་བཞིན་དག་པས་སྐུ་གསུམ་བཞིའོ། །
+
+Through pure intrinsic nature, the embodiments are ‘three, four.’ [N-185](../REVIEW-NOTES.md#n-185)
+
+Review links: [N-185](../REVIEW-NOTES.md#n-185)
+
+<a id="u04304"></a>
+
+### U04304
+
+Source characters 124159–124208.
+
+> ཞེས་སྒྲ་ཐལ་འགྱུར་ཆེན་པོ་ཆོས་རྣམས་ཀུན་གྱི་རྩ་བ་ལས།
+
+Thus, from the Great All-Penetrating Word, Root of All Phenomena:
+
+Review links: [N-185](../REVIEW-NOTES.md#n-185)
+
+<a id="u04305"></a>
+
+### U04305
+
+Source characters 124208–124275.
+
+>  ཡེ་ཤེས་བཀོད་པ་སྣང་བའི་རྩ་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་གསུམ་པའོ།། །།
+
+the third chapter, the Array of Primordial Knowing, in which the root of appearance definitely emerges.
+
+Review links: [N-185](../REVIEW-NOTES.md#n-185)
