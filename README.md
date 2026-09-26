@@ -2,7 +2,7 @@
 
 Private working repository for a Tibetan–English translation of the **Dra Thal Gyur root tantra**, supported by Vimalamitra's commentary in [The-Great-Commentary](https://github.com/Lotus-King-Translation/The-Great-Commentary).
 
-**Active source: Adzom, BDRC W1KG11703, volume 1.** The scan governs readings; the cleaned Adzom e-text is an aid awaiting project proofreading. No translation has been started in this repository.
+**Active source: Adzom, BDRC W1KG11703, volume 1.** The scan governs readings; the cleaned Adzom e-text is an aid awaiting project proofreading. The working translation and its current coverage are recorded in [translations/](translations/README.md).
 
 ## Layout
 

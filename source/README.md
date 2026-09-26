@@ -14,7 +14,7 @@
 
 The **printed scan governs readings**. The cleaned e-text is a working aid, not a project-proofread diplomatic transcription. Its provider's completion flag does not certify line-by-line accuracy. Do not silently combine it with another edition or correct the scan's readings from it.
 
-PDF page 1 is the printed title leaf (BDRC image 3). The text begins on PDF page 2 (image 4) and its closing material ends on PDF page 205 (image 207). The whole root tantra is represented, including the opening material and final colophon; no chapter has been translated here.
+PDF page 1 is the printed title leaf (BDRC image 3). The text begins on PDF page 2 (image 4) and its closing material ends on PDF page 205 (image 207). The whole root tantra is represented, including the opening material and final colophon; translation progress is recorded separately in [translations/](../translations/README.md).
 
 The PDF is an image-only assembly of the full-resolution IIIF responses, not a provider-exported original PDF. The images are not cropped, resized, enhanced, or subjected to new OCR. The corresponding archive and per-image checksums are preserved in [editions/adzom-2000/](../editions/adzom-2000/README.md). PDF page N corresponds to BDRC image N + 2 throughout this source.
 

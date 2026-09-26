@@ -1,0 +1,19 @@
+{
+  "status": "in progress; translator self-check, not independent QC",
+  "represented_etext_units": 4000,
+  "translated_units": 4000,
+  "count_qualification": "Legacy translated_units counts represented draft units, not fully resolved translations.",
+  "total_etext_units": 5466,
+  "last_contiguous_unit": "U04000",
+  "next_unit": "U04001",
+  "remaining_etext_units": 1466,
+  "chapters_drafted": 2,
+  "source_unchanged": true,
+  "glossary_unchanged": true,
+  "scan_only_units": 2,
+  "scan_only_unresolved_units": [
+    "S0002"
+  ],
+  "assembly_note": "Apply explicit English overrides in scan-decisions.jsonl first, then translation-decisions.jsonl in file order. Other scan decisions document readings already used or unresolved; do not rewrite from them automatically.",
+  "independent_qc": "not performed"
+}

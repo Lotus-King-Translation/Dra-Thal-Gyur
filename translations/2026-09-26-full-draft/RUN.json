@@ -1,0 +1,23 @@
+{
+  "task": "TRANSLATE",
+  "source": "Adzom W1KG11703 volume 1; selected facsimile governs",
+  "source_text": "source/W1KG11703_7.txt",
+  "source_sha256": "18bd9ce65311e2d6d7c703f053a5c0aac347e899a75f8749a8f9afd891452edc",
+  "glossary_sha256": "6b9029f7f02494e947e6a1273da7916b358e4d0738b35f012ce4da662d3fbbaf",
+  "guidance_sha256": "934f54616d1c55a6ecb0c594108397cca5b317dafc7c2c945972ffd1351b7760",
+  "unitization": "Exact contiguous Unicode-character slices of unchanged e-text; punctuation, headings and source annotations included.",
+  "checks": [
+    "all source slices equal supplied source",
+    "source slices reconstruct complete e-text",
+    "source assets and guidance/glossary hashes match provenance",
+    "JSONL valid",
+    "English unit IDs unique and nonempty",
+    "coverage and chapter counts rebuilt"
+  ],
+  "limitations": [
+    "Mechanical checks are not semantic or independent QC.",
+    "Scan consultation and unresolved readings are separately recorded.",
+    "Source e-text has not received full diplomatic proofreading.",
+    "Provisional terminology has not been approved."
+  ]
+}
