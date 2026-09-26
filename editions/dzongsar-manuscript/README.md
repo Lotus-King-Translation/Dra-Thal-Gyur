@@ -1,18 +1,23 @@
-# Dzongsar old collection
+# Dzongsar old-manuscript collection
 
-**Status:** Catalogued facsimile range acquired
+**Status:** Facsimile acquired (248 PDF pages).
 
-**Catalogue:** W3PD988; volume 147.
+**Catalogue:** [MW3PD988_0F57E0](https://library.bdrc.io/show/bdr:MW3PD988_0F57E0); reproduction `W3PD988`.
 
-Catalogued root range 5–252 acquired. Source images are very dark. Material description differs between worksheet and collection metadata; do not infer printing method solely from the folder name.
+**Location:** Volume 147; I3PD1345, images 5–252.
 
-## Stored files
+Illustrated gold-lettered manuscript in inspected images, despite the supplied worksheet calling it an old print. Opening blank/title panel and closing blank retained.
 
-- [original-images.zip](original-images.zip)
-- [sgra-thal-gyur.pdf](sgra-thal-gyur.pdf)
+## Stored material
 
-The PDF and image archive preserve the available full-resolution IIIF responses. They are not a corrected text. [Image manifest](image-manifest.json) records every PDF page, source URL, image dimensions, checksum, and any skipped index. No new OCR was performed.
+- [image-manifest.json](image-manifest.json) — 106,478 bytes.
+- [original-images.zip](original-images.zip) — 85,226,188 bytes.
+- [sgra-thal-gyur.pdf](sgra-thal-gyur.pdf) — 85,329,447 bytes.
+- [metadata/](metadata/) — preserved catalogue, provider and/or IIIF records.
 
-[Provider metadata](metadata/) is preserved as retrieved.
+## Facsimile provenance
 
-[Return to edition inventory](../README.md).
+`sgra-thal-gyur.pdf` is an image-only research assembly of the IIIF images recorded in `image-manifest.json`. `original-images.zip` contains the exact downloaded IIIF response bytes. Despite its historical filename, this is **not** a claim to preserve original camera files or source TIFFs: TIFF services were requested as lossless PNG; JPEG services as JPEG. No local resizing, cropping, image enhancement, new OCR or Tibetan correction was applied.
+Every PDF page was checked for decoded-pixel identity with its archived image. See [integrity validation](../VALIDATION.json) and [pixel validation](../PIXEL-VALIDATION.json). This tests preservation, not textual completeness or reading accuracy. Whole boundary pages are retained even where adjoining works share them.
+
+[Back to catalogue](../CATALOGUE.md)

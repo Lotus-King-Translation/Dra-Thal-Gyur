@@ -1,15 +1,16 @@
 # Adzom / Sanje Dorje, 1973–1977
 
-**Status:** Container PDF acquired; root mapping pending
+**Status:** Container PDF acquired; root extraction unresolved.
 
-**Catalogue:** W1KG892; volume 1.
+**Catalogue:** [MW1KG892](https://library.bdrc.io/show/bdr:MW1KG892); reproduction `W1KG892`.
 
-Original full container-volume PDF; root commonly cited at printed pp. 1–205. Related to the Adzom printing tradition; not assumed independent.
+**Location:** Volume 1; bibliography gives printed pp. 1–205.
 
-## Stored files
+Original provider volume PDF acquired. Root-only extraction and PDF-to-printed-page mapping have not been completed. Related Adzom manifestation, not presumed independent.
 
-- [bdrc-W1KG892.pdf](bdrc-W1KG892.pdf)
+## Stored material
 
-[Provider metadata](metadata/) is preserved as retrieved.
+- [bdrc-W1KG892.pdf](bdrc-W1KG892.pdf) — 24,434,447 bytes.
+- [metadata/](metadata/) — preserved catalogue, provider and/or IIIF records.
 
-[Return to edition inventory](../README.md).
+[Back to catalogue](../CATALOGUE.md)

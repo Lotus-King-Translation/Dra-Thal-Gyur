@@ -1,15 +1,16 @@
-# W1ER128 / rKTs Gcn collection
+# Gcn / W1ER128 manuscript collection
 
-**Status:** Container PDF acquired; root mapping pending
+**Status:** Container PDF acquired; root extraction unresolved.
 
-**Catalogue:** W1ER128; volume Unresolved digital packaging.
+**Catalogue:** [MW1ER128](https://library.bdrc.io/show/bdr:MW1ER128); reproduction `W1ER128`.
 
-Full first container PDF acquired. rKTs describes 19 logical texts; current BDRC packaging has three volumes. Do not identify digital volume 3 with Gcn3 merely by number. Root range remains unverified.
+**Location:** Root-to-digital-volume mapping unresolved.
 
-## Stored files
+Original provider PDF acquired. rKTs describes a 19-volume collection and places G-55 in Ga, but the BDRC reproduction exposes three digital groups. Do not assume digital group 3 is the root. This PDF is retained as an unresolved container, not a verified root-only facsimile.
 
-- [bdrc-W1ER128.pdf](bdrc-W1ER128.pdf)
+## Stored material
 
-[Provider metadata](metadata/) is preserved as retrieved.
+- [bdrc-W1ER128.pdf](bdrc-W1ER128.pdf) — 53,473,251 bytes.
+- [metadata/](metadata/) — preserved catalogue, provider and/or IIIF records.
 
-[Return to edition inventory](../README.md).
+[Back to catalogue](../CATALOGUE.md)

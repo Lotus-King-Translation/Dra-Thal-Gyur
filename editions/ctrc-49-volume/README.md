@@ -1,14 +1,15 @@
-# China Tibetology Research Centre, 49-volume edition
+# China Tibetology Research Center compilation
 
-**Status:** Catalogue / lead only
+**Status:** Catalogue / acquisition lead only.
 
-**Catalogue:** W3CN3207; volume 3.
+**Catalogue:** [MW3CN3207_O3CN3207_NAKR4R](https://library.bdrc.io/show/bdr:MW3CN3207_O3CN3207_NAKR4R); reproduction `W3CN3207`.
 
-Catalogue metadata and limited manifest only. Verified root record: MW3CN3207_O3CN3207_NAKR4R; the worksheet links a different part. No full root facsimile acquired.
+**Location:** Volume 3; catalogue images 740–861.
 
-## Stored files
+Catalogue and preview manifest only. Full scan access restricted. The supplied worksheet points to a different part record, X4LQ9T; do not use it as the root identifier.
 
+## Stored material
 
-[Provider metadata](metadata/) is preserved as retrieved.
+- [metadata/](metadata/) — preserved catalogue, provider and/or IIIF records.
 
-[Return to edition inventory](../README.md).
+[Back to catalogue](../CATALOGUE.md)

@@ -1,7 +1,5 @@
-# Adzom Wylie transcription: Wikisource
+# Adzom-block Wylie reference
 
-[sgra-thal-gyur.wikitext](sgra-thal-gyur.wikitext) is an unchanged raw-page download of **Sgra thal ’gyur (A-'dzom blocks)** from Wikisource. It includes page markers and the six chapter endings.
+Original [Wikisource revision 439571](https://wikisource.org/w/index.php?oldid=439571), timestamp 2015-09-09T14:02:11Z, stored as [source.wikitext](source.wikitext). Contributor attribution: [page history](https://wikisource.org/w/index.php?title=Sgra%20thal%20%E2%80%99gyur%20%28A-%27dzom%20blocks%29&action=history). [Applicable Wikimedia terms](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use). Retain attribution and applicable share-alike terms when reusing the transcription.
 
-Source: [Wikisource page](https://wikisource.org/wiki/Sgra_thal_%E2%80%99gyur_%28A-%27dzom_blocks%29). The source page identifies revision **439571**, last edited 9 September 2015. Attribution: **Wikisource contributors**; see the page's revision history and Creative Commons Attribution–ShareAlike notice and site terms. This repository does not relicense the transcription.
-
-This is an additional searchable reference, not a separate printed witness, not a project-proofread transcription, and not the active Adzom e-text in `source/`. No spelling normalization or conversion to Tibetan script was performed.
+This is Wylie transcription from a separate website, not another printed edition or project-proofread text. It is not placed in `source/`. The exact Tibetan-print correspondence has not been collated.

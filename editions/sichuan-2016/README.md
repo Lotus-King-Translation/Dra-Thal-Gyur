@@ -1,19 +1,23 @@
-# Sichuan typeset edition, 2016
+# Sichuan modern typeset edition, 2016
 
-**Status:** E-text acquired; full scan not acquired
+**Status:** E-text acquired; no full scan.
 
-**Catalogue:** W3CN7084; volume 2.
+**Catalogue:** [MW3CN7084](https://library.bdrc.io/show/bdr:MW3CN7084); reproduction `W3CN7084`.
 
-Original cleaned e-text acquired. Internet Archive currently marks the scan access-restricted/copyright; no complete scan is stored here.
+**Location:** Volume 2; I3CN8462.
 
-## Stored files
+Original cleaned DOCX, original TXT, and verbatim DOCX extraction acquired. Full scan not acquired: Archive PDFs marked private; BDRC manifest exposes only 41 preview canvases. No access restrictions bypassed.
 
-- [W3CN7084_7.docx](W3CN7084_7.docx)
-- [W3CN7084_7.txt](W3CN7084_7.txt)
-- [s.txt](s.txt)
+## Stored material
 
-[Provider metadata](metadata/) is preserved as retrieved.
+- [W3CN7084_7.docx](W3CN7084_7.docx) — 132,076 bytes.
+- [W3CN7084_7.txt](W3CN7084_7.txt) — 463,712 bytes.
+- [etext-provenance.json](etext-provenance.json) — 682 bytes.
+- [s.txt](s.txt) — 463,715 bytes.
+- [metadata/](metadata/) — preserved catalogue, provider and/or IIIF records.
 
-[E-text provenance](etext-provenance.json). The provider marks cleaning finished; project proofreading is not complete.
+## E-text status
 
-[Return to edition inventory](../README.md).
+The DOCX is the original supplied file; `W*_7.txt` is its reproducible text extraction. The short-named `a.txt`, `b.txt` or `s.txt` is the original separate Drive TXT, preserved with its UTF-8 signature. See [e-text provenance](etext-provenance.json) and [original TXT validation](../research/original-text-files.json). Provider-cleaned status does not replace project proofreading against the print.
+
+[Back to catalogue](../CATALOGUE.md)

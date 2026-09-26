@@ -1,5 +1,5 @@
 {
-  "edition": "Adzom 2000",
+  "edition": "Adzom Chögar, catalogued 2000",
   "bdrc": "W1KG11703",
   "volume": 1,
   "image_group": "I1KG11710",
@@ -13,19 +13,36 @@
     {
       "name": "Dra-Thal-Gyur-Adzom-2000.pdf",
       "bytes": 37358206,
-      "sha256": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343"
+      "sha256": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343",
+      "path": "Dra-Thal-Gyur-Adzom-2000.pdf"
     },
     {
       "name": "W1KG11703_7.docx",
       "bytes": 129677,
-      "sha256": "5660aafc5b0485f13b3b6f6cc6636c4bc7ee9d2468731723078df346565dd62b"
+      "sha256": "5660aafc5b0485f13b3b6f6cc6636c4bc7ee9d2468731723078df346565dd62b",
+      "path": "W1KG11703_7.docx"
     },
     {
       "name": "W1KG11703_7.txt",
       "bytes": 461226,
-      "sha256": "18bd9ce65311e2d6d7c703f053a5c0aac347e899a75f8749a8f9afd891452edc"
+      "sha256": "18bd9ce65311e2d6d7c703f053a5c0aac347e899a75f8749a8f9afd891452edc",
+      "path": "W1KG11703_7.txt"
     }
   ],
   "new_ocr_performed": false,
-  "status": "Scan governs readings; cleaned e-text is not project-proofread"
+  "status": "Scan governs readings; cleaned e-text is not project-proofread",
+  "bdrc_work": "W1KG11703",
+  "bdrc_root_record": "MW1KG11703_0001_001",
+  "collection_volume": 1,
+  "bdrc_images": [
+    3,
+    207
+  ],
+  "text_start_pdf_page": 2,
+  "text_closing_pdf_page": 205,
+  "page_map": "PAGE-MAP.csv",
+  "image_provenance": "../editions/adzom-2000/image-manifest.json",
+  "sole_active_base": true,
+  "scan_priority": "Facsimile governs; cleaned e-text is a working aid, not a project-proofread diplomatic transcription.",
+  "checks": "205 image hashes and decoded PDF image pixels checked. Opening/title and closing pages visually checked. No full foliation, internal chapter-boundary or line-by-line textual audit."
 }

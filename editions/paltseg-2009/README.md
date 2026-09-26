@@ -1,14 +1,15 @@
 # Paltség compilation, 2009
 
-**Status:** Catalogue / lead only
+**Status:** Catalogue / acquisition lead only.
 
-**Catalogue:** W1KG14783; volume 5 (bibliographic).
+**Catalogue:** [MW1KG14783_0005_002](https://library.bdrc.io/show/bdr:MW1KG14783_0005_002); reproduction `W1KG14783`.
 
-Catalogue metadata only. The structured root location contains volume 0; do not use that field as a verified scan-volume mapping.
+**Location:** Reported volume 5; catalogue location contains volume 0 anomaly.
 
-## Stored files
+Catalogue only. Provider PDF marked private and collection manifest returned HTTP 500. Volume/page anomaly needs resolution before acquiring a root extract.
 
+## Stored material
 
-[Provider metadata](metadata/) is preserved as retrieved.
+- [metadata/](metadata/) — preserved catalogue, provider and/or IIIF records.
 
-[Return to edition inventory](../README.md).
+[Back to catalogue](../CATALOGUE.md)
