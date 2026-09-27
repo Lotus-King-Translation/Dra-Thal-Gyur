@@ -58,14 +58,14 @@
       "U00035",
       "U00105",
       "U00252",
-      "U00372"
-    ],
-    "remaining_candidate_units": [
+      "U00372",
       "U00578",
       "U00594",
       "U00710",
       "U01757",
-      "U02080",
+      "U02080"
+    ],
+    "remaining_candidate_units": [
       "U02090",
       "U02172",
       "U02183",
@@ -540,5 +540,12 @@
     "status": "resolved_by_fresh_native_review",
     "audit": "reviews/chapter-01/opening-locator-audit-20260927.json",
     "result": "Original PDF3/4 spans confirmed. New U30/U35 sign crops had wrong target correspondence; corrected actual target crops support two-shad findings, pending coordinator provenance repair. Other8 sign records require independent anchor confirmation."
+  },
+  "post_recovery_updates": {
+    "signs": "Ten targets independently reverified; original proposals superseded. Nine new canonical interventions and one revision adopted. Thirty candidates and whole-chapter physical sign/source-layer review remain.",
+    "tharpaling": "PDF57–71 visually traversed; zero pages fully collated. Four bounded observations integrated, including actual Chapter1 boundary.",
+    "engineering": "Literal historical fragments extracted; surviving insertion references repaired; mapping inventory updated; active p052 references use intact halves. Missing original bodies remain missing.",
+    "original_audit_scope": "audited_head and snapshot_inputs retain the original audit snapshot; these explicit later updates do not assert chapter readiness.",
+    "current_counts_source": "STATUS.json"
   }
 }

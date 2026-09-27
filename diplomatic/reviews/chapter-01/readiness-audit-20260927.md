@@ -4,11 +4,11 @@
 
 | Witness | Concrete remaining reading |
 |---|---|
-| Adzom base | Whole PDF1–102 sign/source-layer pass;35 remaining sign candidates, S02–S07, U1286; title/portrait; bounded U1522/U2615/U2620/S09 uncertainty. |
+| Adzom base | Whole PDF1–102 sign/source-layer pass;30 remaining sign candidates, S02–S07, U1286; title/portrait; bounded U1522/U2615/U2620/S09 uncertainty. |
 | Dzongsar | Main lexical PDF2–121 survives; finish signs, annotations, foreign stacks and listed local uncertainties. |
 | Tingkye | Rebuild continuous PDF3–34,40–68 and end69; opening1–2/35–39 still partial; new6/27/32 audits are local. |
 | Tsamdrak | PDF14–83 row6; reassess unreliable suffix/stack distinctions in attempted1–13. |
-| Tharpaling | Rebuild4–43; preserve/recheck retained44–51; finish57–71;52–56 remains partial with bounded damage. |
+| Tharpaling | Rebuild4–43; preserve/recheck retained44–51; 57–71 now traversed but uncollated;52–56 remains partial with bounded damage. |
 | Dege | Rebuild3–54 row3; opening, faint endings and interlinear material need exact review. |
 | Gadkar | PDF12–91 row4 uncollated;1–11 locator readings still lack exact certification. |
 | Zhichen / W1ER119 | Establish each Chapter1 endpoint, then continuous collation; W1ER119 has16 numerical gaps with unestablished textual effect. |
