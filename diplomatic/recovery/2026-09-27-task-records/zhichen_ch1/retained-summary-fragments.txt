@@ -1,0 +1,103 @@
+RECOVERY PROVENANCE: The passages below are copied from the compacted context summary delivered to this agent before the recovery task. They are retained summary fragments, NOT verbatim original report bodies, and NOT new source readings. No lost row-by-row record has been recreated from them. The full earlier tool calls that created these reports are no longer present in this agent's visible context. Any claims within these historical fragments remain unverified by this recovery.
+
+COMPLETED TSAMDRAK late:
+- /workspace/scratch/a117ee885aff/tsamdrak-late.json/.md
+- Source editions/tsamdrak-1982/sgra-thal-gyur.pdf; PDFN=I0615imageN+3.
+-35pages49–83; all7mainrows49–82;83only1–6throughactualChapter1colophon, row7chapter2excluded.
+- status bounded_late_main_sequence_pass_complete_with_unresolved_queries
+-80findings:35observed_variant(includingstructural),20candidate,25unresolved.
+- Exact punctuation/tsheg/compactnumerals notcertified; noallcharproofread.
+- Helper tsamdrak_late_ledger.py, import loadsjson, functionspage/f/save. Do not run main again duplicatesinitial49–53.
+- tsamdrak_extract.py START END; outputsnativeJPG+overlapcrops tsamdrak-late-evidence/pNNN-{left,middle,right}.png bounds[200,80,1800,h-80],[1650,80,3250,h-80],[3100,80,w-150,h-80].
+- Key findings parent already knows:
+  S02after1882all3p60row1, secondTs sku yis vsbaseyi.
+  S03after2005all3p63row7–64row1.
+  S04after2187bothp69row5.
+  S05verse/S06heading/S07verseafter2308allp73row3.
+  S07Ts yang ni lha bdag dbang phyug nyon vsbaseyang ni lha dbang dga' byed nyon.
+  U2257rdzogspa yis vspa'o;2320rgyud'di yis vsni;2614gzugs mdog gis vsbasegzugs'dogskyis;2625cho'phrul gyis vsdu.
+  U2635colophon sna tshogs bkod pa man ngag gi rtsa ba..., norangbyungafterbkodpa.
+  Targetp083-colophon-detail.png bounds[1750,625,4080,800]2x.
+- Fixed earlierU1718baselemma toskad andU2207Wylieretrans.
+- Just fixed Markdowncoverage generator to use actualrowsrange rather than genericall7;83rows[1,6], methodexplicit49–82all7/83rows1–6. Parent notified minorwordingcorrection.
+
+COMPLETED DEGE29–41 (finalscope):
+- /workspace/scratch/a117ee885aff/dege-late.json/.md
+- Source editions/dege-W1ER7/sgra-thal-gyur.pdf,hash8c6b177a1fe8373a478f057d77afa747287d33a8673d7eb526ca8d89b29c8e04.
+- PDFN=BDRCimageN+646.
+- Native~3470×570 faintred7rows. Mainsequence followed using nativeRGB29–30thenmostlygreenchannel1%autocontrast2x; selectednativeRGBtargetsrechecked.
+- Explicitpartiallexicalcomparison, everypagefaintprefix/suffixuncertainty, noexactpunct/numerals/tinyannotationcertificate.
+-13pages29–41,25findings=20unresolved,3candidate,2observed_presence.
+- statuspartial_pass_complete_for_reassigned_range_PDF29_to41.
+- Helperdege_late_ledger.py functionspage/f/save;dege_late_extract.py START END; evidencedege-late-evidence/.
+- coverage:
+29U1379–1425
+30U1426–1476heading
+31U1477–1526begin
+32U1526cont–1576begin
+33U1576cont–1626begin
+34U1626cont–1676begin
+35U1676tail–1726begin
+36U1726cont–1778begin
+37U1778cont–1824
+38U1825–1874
+39U1875–1921begin
+40U1921cont–1970begin
+41U1970cont–2017begin
+42boundary-onlyopeningro myangs nas completes2017then2018; independentlyconfirmedbydzongsar_late, whoowns42–54.
+- Initialanchorerrors correctedandwithdrawn inreport (29initial1285/1386wrong→1379;31end1524→1526;34end1675→1676;38end1872→1874).
+- Keyfindings:
+S02after1882all3restorationversesp39row2;S03after2005all3p41row5right→6left/mid.
+Candidate1640dngosmeddang vsdo, nativeRGBlooksveryclearbutleftcandidateforparentaudit.
+Smallannotation1657lugs kyang above mainluskyanglooksveryclearstillcandidate.
+Othersprecisequeries bcugpa/s,thigle/r,sbyorbayis,1498gzung/bzung,1513pheb/s,1522rgyu/n,1595zin/yin,1693byabs/sbyabs,1718skad/sgra,1776smallnumeral,1787rimpao/payis,1859lta/lha,1951nam mkha/s,1986ldog/bzlog.
+- NativeRGBtargetsrecorded:
+p030bottomleft[320,390,1720,515],right[1650,390,3150,515]
+p039S02[800,140,2700,230]
+p041S03[350,260,3120,430]
+p0341640[320,180,850,275]
+p0341657[1300,275,1850,365]
+AllpNNN...native2x.png in evidence.
+- Sourcehash/consecutivepagesvalidated; parentcompletionmessage sent.
+
+COMPLETED BASE SIGNS EARLY (mostrecentfinished):
+Parentrequested Adzom2000PDF1–34 signs/punctuation/paratext afterexisting opening/annotation/continuous reports. We inspected all34nativefullbounds viaoverlappinghalves, focusedlocalpuncttargets; not exhaustive all-tsheg census, no page exactdiplomaticcertification.
+- /workspace/scratch/a117ee885aff/base-signs-early.json and.md
+- Helperbase_signs_early_ledger.py, import loadsjsonandunits; functionspage/f/save.
+- Sourceeditions/adzom-2000/sgra-thal-gyur.pdf,hashexisting15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343.
+- PDFN=BDRCN+2.
+- Nativeall5696×1344. Evidencebase-signs-early-evidence/pNNN-native.png,halvesleft[0,0,2948,1344],right[2748,0,5696,1344].
+- OnePNGp028wastruncatedonfirstsave, re-extractedandfixed.
+-34pageobjects eachfirst/endfromcontinuousearlyoropening1–4; allexact_diplomatic_preservation:false.
+-25findings. statuspagewise_signs_and_paratext_pass_complete_PDF1_to34_with_exact_preservation_not_certified.
+- Sevensecure local main sign proposals:
+  U00030 addsecondshad,PDF4row1right,bounds[3930,290,4970,470],AS-E-006.png.
+  U00035 addsecondshad,PDF4row3left,[1100,570,2100,700],AS-E-007.
+  U00105 addsecondshad,PDF7row1right,[4020,265,5050,420],AS-E-008.
+  U00252 addsecondshad,PDF13row1leftaftercontinuedgcod,[1050,290,1580,470],AS-E-013.
+  U00578 addsecondshad,PDF25row3leftafterdri,[900,445,1900,650],AS-E-019.
+  U00594 addsecondshad,PDF25row6midrightafterbyin,[4130,825,4840,1020],AS-E-020.
+  U00710restoreterminaltshegaftergang,PDF30row3,[3040,495,3860,695],AS-E-022(+2x). Distincttrianglebeforeverticalshad. JSONproposed_readinghasglyph.
+- Importantotherfindings:
+  PDF1titleSanskritU2andTibetanU4eachnear-textterminalverticalstrokeplusseparatedfar-rightpair. Current2/1shadstringsdon'trepresentphysicalarrangement. TopornateIndicscriptandmarginallegend/crown etcuntranscribed. Crop[1650,360,4050,910]AS-E001/002orp001-title-detail.png. NoforcedtripleUnicodeencoding.
+  PDF2portrait/fourrowcrossingcaptionheadornamentandterminalcluster/smallheading11dottedleader. Title/captionlexicaluncertretainedprioraudit.
+  PDF3pageopeningornamentwithincontinuedU14 absentflatunit.
+  U00022PDF3row3end rlung followedsmallpointclusterbesiderightframe; noverticalshad atrowend, nextrowU23mi phyeddirectlywithoutleadingshad. Currenttwo-shadendingnotliterallysupported. ExactclusterUnicodeunresolved.
+    p003-U22-endwide.png[3650,610,4490,815]
+    p003-U23-startwide.png[1160,720,2230,980]
+    AS-E-025observed_layout_sign_identity_unresolved.
+  U00192PDF10finalganghasthinshortmarkbeforeverticalshad; likelyreducedtshegbutidentityuncertain;currentcorrectednone.
+    AS-E-011candidate [4110,620,4930,825],p010-U192-terminal-2x.png.
+  U00328PDF15afterdang terminaltsheg widecropcandidatewithdrawn; focusednotdistinguishablefromspeckle/wear. unresolved, neitheroriginalextra norcorrectedabsencecertified.
+    [4190,795,4780,1020],AS-E-017(+2x).
+  U00596PDF26gdong terminalpointunresolvedadjacentthickshadhead.
+    [1480,335,2350,510],AS-E-021(+2x).
+  U00372→373→374PDF17row43physicalstrokes:1aftermain don yin no,1after small drislan gsum pa'o,1beforemain e ma;current372and373bothdouble=fourtotal. Needrootindependentallocationaudit; observedcountsecure. Couldmain372single+heading373pairrepresent3. AS-E-018 [3480,635,5220,830].
+    Initialtext“bzhinno”misdescriptionfixedto donyinno, followinggsofixedto ema.
+  Correctlocalone-shadgaendingssupported:136tshig,190zhig,246/251zhig,296mig/299phyag;599tshig,635gcig,649'jug,703/722tshig,830drug notedpageobjects.
+  PDF2U8bya baone,U9stonpaone,U10phyagtshallodoubleconfirmedfocusedstrips;U13niactual2strokesleftpanelbeforeportraitconfirmed[1910,755,3770,955].
+  Main/sourceheading punctuationoftenphysicallysplit acrosslayers; globallydoublingallunitendingswrong.
+  Runningmarginaltitles/folios,alternatingheadornaments,horizontalfillerstrokes,repeatedpointfillersatrowendsandoccasionallyinsiderows,annotationleadersnotencodedbyflatmainreading.
+- Parentreceivedcompletepaths+7proposals+limits andweannouncedGcnstart.
+
+END RETAINED SUMMARY FRAGMENTS. Formatting emphasis/backticks were removed for plain-text preservation; content is summary-level material only. Tsamdrak middle was assigned to another agent; no complete middle report body is present in this agent's retained context.

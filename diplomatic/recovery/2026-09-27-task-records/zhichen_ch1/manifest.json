@@ -1,0 +1,48 @@
+{
+  "agent": "/root/zhichen_ch1",
+  "recovery_date": "2026-09-27",
+  "scope": "Recovery only while the execution environment is unavailable; no source scans reopened, new readings made, or refs updated.",
+  "source_commit": "afb5c51",
+  "source_initial_script": {
+    "path": "diplomatic/recovery/agent-originals/zhichen_ch1/transcript-files/gcn_late_report.initial.py",
+    "git_blob_sha": "87929f24a6125c60a92aac2098b4688e131cefde",
+    "route": "Fetched committed original tool-call recovery copy through GitHub."
+  },
+  "files": [
+    {
+      "path": "diplomatic/recovery/2026-09-27-task-records/zhichen_ch1/gcn_late_report.amendments.txt",
+      "git_blob_sha": "9aedf55af8802c673790793e3c9dbe7a70ed5f63",
+      "route": "Exact retained three historical amendment tool-call bodies with recovery framing. Preserves the initial syntax failure and subsequent repair."
+    },
+    {
+      "path": "diplomatic/recovery/2026-09-27-task-records/zhichen_ch1/gcn_late_report.final.py",
+      "git_blob_sha": "0455c5676c30359374d91c61b75af458f6b667ca",
+      "route": "Mechanical application of the four exact recorded string replacements to the committed initial script. Each source pattern matched exactly once. Contains full historical report dictionary and Markdown generator."
+    },
+    {
+      "path": "diplomatic/recovery/2026-09-27-task-records/zhichen_ch1/transcript-replay/gcn-late.json",
+      "git_blob_sha": "98988e0747b780ce7853a4e8f25670000c64538b",
+      "route": "Historical dictionary extracted from the recovered final Python script using a restricted literal parser, resolving only the recorded source string and Python None/True/False; serialized as indented JSON. Not a surviving original file."
+    },
+    {
+      "path": "diplomatic/recovery/2026-09-27-task-records/zhichen_ch1/transcript-replay/gcn-late.md",
+      "git_blob_sha": "fe512690051bca999e800356764a6dbd36f9193f",
+      "route": "Recorded final generator formatting reproduced mechanically in JavaScript using the recovered dictionary. Not a surviving original file; no original pre-loss byte hash remains for comparison."
+    },
+    {
+      "path": "diplomatic/recovery/2026-09-27-task-records/zhichen_ch1/retained-summary-fragments.txt",
+      "git_blob_sha": "d3a6c15a08b11cabfec7d63391e69c7efe5278da",
+      "route": "Earlier Tsamdrak late, Degé late, and base-signs early compacted-context summary passages preserved as summary-level fragments with plain-text formatting. These are not the original reports, their complete bodies, or new verified readings."
+    }
+  ],
+  "limits": [
+    "The current execution environment is unavailable. This recovery uses retained tool-call content and the already committed initial script; no local original files were accessed in this pass.",
+    "The Gcn final script retains the disputed U1427 candidate at PDF449 and unverified U1511 candidate at PDF451/453. Its historical repeated-exposure and boundary statements are preserved, not newly validated.",
+    "The original gcn-late evidence image directory is not recovered here.",
+    "Full original Tsamdrak late, Degé late, and base-signs early JSON/Markdown reports and helper scripts are absent from the visible retained tool-call history. Only their summary fragments are available. No missing findings, page objects, Tibetan strings, or scripts were fabricated.",
+    "Tsamdrak middle belonged to a different agent; no complete middle report body survives in this agent context.",
+    "Blob SHA values identify these recovery payloads. Replayed report payloads cannot be claimed byte-identical to lost originals without their pre-loss hashes.",
+    "Historical report files contain their original status wording and next-work suggestions; those do not authorize new collation during this recovery-only task.",
+    "Parent agent is responsible for tree/commit/ref updates; this agent created blobs only."
+  ]
+}
