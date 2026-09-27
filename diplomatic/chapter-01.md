@@ -141,7 +141,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00030"></a>
 
-**U00030** འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན།
+**U00030** འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན། ། [SIGNS-VERIFIED-20260927-U00030](#signs-verified-20260927-u00030)
 
 <a id="u00031"></a>
 
@@ -161,7 +161,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00035"></a>
 
-**U00035** ཤ་ཁྲག་བཀོད་པའི་གཟུགས་མེད་པའི། [L1-0006](#l1-0006)
+**U00035** ཤ་ཁྲག་བཀོད་པའི་གཟུགས་མེད་པའི། ། [SIGNS-VERIFIED-20260927-U00035](#signs-verified-20260927-u00035) [L1-0006](#l1-0006)
 
 <a id="u00036"></a>
 
@@ -11639,6 +11639,42 @@ Units: [U02597](#u02597).
 
 **Evidence:** [100-u2597.png](evidence/chapter-01/continuous/100-u2597.png)
 
+<a id="signs-verified-20260927-u00030"></a>
+
+### SIGNS-VERIFIED-20260927-U00030
+
+Units: [U00030](#u00030).
+
+**A transcript:** འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན།
+
+**Adopted reading:** འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན། །
+
+**Scan locator:** PDF4/image6 row1; U30 between U28 thams cad rang byung ye shes so and U31 dga dang ldan pa.
+
+**Decision and reason:** Two separated upright shads after U30 na before U31 dga are visible in the actual target crop. Full PDF4 context and native crop independently checked; only this local terminal sign count is adopted. Earlier candidate crop had the wrong anchor and is superseded.
+
+**Confidence and limits:** {"punctuation": "high for detached shad count at the verified target; other signs not certified"}
+
+**Evidence:** [p004-U00030.png](evidence/chapter-01/opening-locator-audit-20260927/p004-U00030.png), [p004.png](evidence/chapter-01/opening-locator-audit-20260927/p004.png)
+
+<a id="signs-verified-20260927-u00035"></a>
+
+### SIGNS-VERIFIED-20260927-U00035
+
+Units: [U00035](#u00035).
+
+**A transcript:** ཤ་ཁྲག་བཀོད་པའི་གཟུགས་མེད་པའི།
+
+**Adopted reading:** ཤ་ཁྲག་བཀོད་པའི་གཟུགས་མེད་པའི། །
+
+**Scan locator:** PDF4/image6; U35 begins sha khrag at row2 far right and ends at row3 left before U36 rang snang.
+
+**Decision and reason:** Two separated upright shads after U35 final pai before U36 rang snang are visible in actual target crop. Full PDF4 context and native crop independently checked; only this local terminal sign count is adopted. Earlier candidate crop had the wrong anchor and is superseded.
+
+**Confidence and limits:** {"punctuation": "high for detached shad count at the verified target; other signs not certified"}
+
+**Evidence:** [p004-U00035.png](evidence/chapter-01/opening-locator-audit-20260927/p004-U00035.png), [p004.png](evidence/chapter-01/opening-locator-audit-20260927/p004.png)
+
 <a id="a2000-c01-s01"></a>
 
 ### A2000-C01-S01
@@ -14398,7 +14434,7 @@ Exact differences: C1-0014, C1-0015.
 ཤ་ཁྲག་བཀོད་པའི་གཟུགས་མེད་པའི། །
 ```
 
-**Disposition and reason:** Retain A provisionally because the selected diplomatic base is Adzom. B/S disagreement is preserved, but unverified transcripts, majority agreement, grammatical preference, and doctrinal expectations do not authorize changing the base witness. This is a pending scan decision, not a finding that A is the original or superior reading.
+**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SIGNS-VERIFIED-20260927-U00035](#signs-verified-20260927-u00035). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
 
 <a id="l1-0007"></a>
 

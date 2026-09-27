@@ -1122,5 +1122,89 @@
       "evidence/chapter-01/continuous/100-u2597.png"
     ],
     "confidence": "High for the omitted initial syllable; confirmed by two image inspections"
+  },
+  {
+    "units": [
+      "U00030"
+    ],
+    "original_units": {
+      "U00030": "འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན།"
+    },
+    "replacement_units": {
+      "U00030": "འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན། །"
+    },
+    "old": "འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན།",
+    "new": "འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན། །",
+    "id": "SIGNS-VERIFIED-20260927-U00030",
+    "rationale": "Two separated upright shads after U30 na before U31 dga are visible in the actual target crop. Full PDF4 context and native crop independently checked; only this local terminal sign count is adopted. Earlier candidate crop had the wrong anchor and is superseded.",
+    "locator": "PDF4/image6 row1; U30 between U28 thams cad rang byung ye shes so and U31 dga dang ldan pa",
+    "evidence": [
+      "evidence/chapter-01/opening-locator-audit-20260927/p004-U00030.png",
+      "evidence/chapter-01/opening-locator-audit-20260927/p004.png"
+    ],
+    "confidence": {
+      "punctuation": "high for detached shad count at the verified target; other signs not certified"
+    },
+    "source_record": "reviews/chapter-01/opening-locator-audit-20260927.json",
+    "provenance": {
+      "path": "evidence/chapter-01/opening-locator-audit-20260927/p004-U00030.png",
+      "sha256": "abab006195ff983de92e68369ccd4ffe7523f394302f133e1282221cd82b31f1",
+      "native_bounds": [
+        3220,
+        290,
+        5100,
+        485
+      ],
+      "pdf_page": 4,
+      "bdrc_image": 6,
+      "archive_member": "0006.png",
+      "source_image_sha256": "3b65e7a753563979f57aa2d9294d251fc07f36bb57cef96634cb4b62f6b899cd",
+      "derivation": "Unscaled crop of manifest-hash-verified native archive raster; no enhancement."
+    },
+    "supersedes": "SIGNS-RECOVERY-20260927-U00030",
+    "status": "adopted after independent full-page and target-crop correspondence check",
+    "uncertainty": "Unicode spacing represents separated strokes, not measured physical spacing."
+  },
+  {
+    "units": [
+      "U00035"
+    ],
+    "original_units": {
+      "U00035": "ཤ་ཁྲག་བཀོད་པའི་གཟུགས་མེད་པའི།"
+    },
+    "replacement_units": {
+      "U00035": "ཤ་ཁྲག་བཀོད་པའི་གཟུགས་མེད་པའི། །"
+    },
+    "old": "ཤ་ཁྲག་བཀོད་པའི་གཟུགས་མེད་པའི།",
+    "new": "ཤ་ཁྲག་བཀོད་པའི་གཟུགས་མེད་པའི། །",
+    "id": "SIGNS-VERIFIED-20260927-U00035",
+    "rationale": "Two separated upright shads after U35 final pai before U36 rang snang are visible in actual target crop. Full PDF4 context and native crop independently checked; only this local terminal sign count is adopted. Earlier candidate crop had the wrong anchor and is superseded.",
+    "locator": "PDF4/image6; U35 begins sha khrag at row2 far right and ends at row3 left before U36 rang snang",
+    "evidence": [
+      "evidence/chapter-01/opening-locator-audit-20260927/p004-U00035.png",
+      "evidence/chapter-01/opening-locator-audit-20260927/p004.png"
+    ],
+    "confidence": {
+      "punctuation": "high for detached shad count at the verified target; other signs not certified"
+    },
+    "source_record": "reviews/chapter-01/opening-locator-audit-20260927.json",
+    "provenance": {
+      "path": "evidence/chapter-01/opening-locator-audit-20260927/p004-U00035.png",
+      "sha256": "f95114c93784eb36a566224547b6c0790e68b982079145b93020d4954117ce0f",
+      "native_bounds": [
+        650,
+        500,
+        2600,
+        730
+      ],
+      "pdf_page": 4,
+      "bdrc_image": 6,
+      "archive_member": "0006.png",
+      "source_image_sha256": "3b65e7a753563979f57aa2d9294d251fc07f36bb57cef96634cb4b62f6b899cd",
+      "derivation": "Unscaled crop of manifest-hash-verified native archive raster; no enhancement."
+    },
+    "supersedes": "SIGNS-RECOVERY-20260927-U00035",
+    "status": "adopted after independent full-page and target-crop correspondence check",
+    "uncertainty": "Unicode spacing represents separated strokes, not measured physical spacing."
   }
 ]
