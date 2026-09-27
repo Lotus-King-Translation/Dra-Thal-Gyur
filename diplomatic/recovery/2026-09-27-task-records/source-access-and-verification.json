@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-27",
+  "purpose": "Recover and preserve original project work, not new collation",
+  "baseline_main": "afb5c5133357942267dc55fc60a1d22704d5ef08",
+  "cloud": {
+    "reported_environment_id": "ccarenv_b64_Y2NhcmVudl82YTkxMmNjNDkzZTQ4MTkxYWI4YzExZGE2YjQzZmMyZg",
+    "reported_cwd": "/workspace/scratch/a117ee885aff",
+    "status": "409 environment_offline; environment not connected",
+    "current_exec_and_browser_runtime_tools_available": false,
+    "limit": "No exposed original-storage or snapshot restoration operation; absence from current workspace is not proof of deletion."
+  },
+  "retained_original_agents": "Original task followups recovered literal tool messages; compacted summaries explicitly labeled.",
+  "linked_conversation": {
+    "url": "https://chatgpt.com/c/6ab8b470-01a0-83eb-90b7-9219f2662cff",
+    "route": "Read the exact referenced conversation's saved read_thread result in the later local recovery agent session.",
+    "result": "Five recent user/final-message turns; no original work tool logs. Live read_thread unavailable in this session."
+  },
+  "local_checks": {
+    "main_checkout_clean_at_baseline": true,
+    "project_scoped_missing_basename_search": "No additional original missing report paths in the three inspected project/recovery directories.",
+    "earlier_16_file_recovery_folder": "All16 contents exactly match baseline main Git blobs.",
+    "later_work_folder": {
+      "files": 371,
+      "bytes": 75574656,
+      "new_contents_against_main": 146,
+      "new_content_bytes": 20001828,
+      "archive_tree": "f8b4b94bc332b4b42347629a8b2036434f122084",
+      "remote_git_hash_mismatches": 0,
+      "source_unchanged": true
+    },
+    "search_limit": "A broader filename search encountered OS-protected directories and did not complete; no bypass attempted and no exhaustive whole-device absence claim made."
+  },
+  "outer_scratch_archive": {
+    "parts_declared": 85,
+    "parts_remote": 10,
+    "missing_range": "010–084",
+    "missing_bytes": 157252187,
+    "contains_missing54_report_bodies_per_manifest": false
+  },
+  "remaining_requirement": "Original workspace/snapshot or complete original task logs containing unavailable report bodies."
+}

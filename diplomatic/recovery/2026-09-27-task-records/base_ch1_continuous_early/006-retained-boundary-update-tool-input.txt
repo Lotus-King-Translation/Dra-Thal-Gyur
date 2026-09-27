@@ -1,0 +1,25 @@
+CLASSIFICATION: retained-tool-input. Literal original image-integrity/boundary-update command, preserved only as inert text. It has not been executed during recovery. It is not original generated report bytes or recovered images.
+
+python - <<'PY'
+from pathlib import Path
+from PIL import Image
+import fitz,io,json,sys
+sys.path.insert(0,'/workspace/scratch/a117ee885aff')
+from dzongsar_collation_work import save,REPORT
+root=Path('/workspace/scratch/a117ee885aff');out=root/'dzongsar-ch1-images';repo=root/'Dra-Thal-Gyur';doc=fitz.open(repo/'editions/dzongsar-manuscript/sgra-thal-gyur.pdf')
+repaired=[]
+for p in out.glob('p*.png'):
+ try: im=Image.open(p);im.load()
+ except Exception:
+  name=p.stem
+  if len(name) not in (4,6):continue
+  n=int(name[1:4]);im=Image.open(io.BytesIO(doc.extract_image(doc[n-1].get_images()[0][0])['image']));im.load()
+  if len(name)==6:
+   box=(0,0,1350,670) if name[-1]=='0' else (1250,0,2519,670);im=im.crop(box)
+  b=io.BytesIO();im.save(b,format='PNG');p.write_bytes(b.getvalue());repaired.append(p.name)
+j=json.loads(REPORT.read_text());j['remaining'][2]['range']='PDF16–120; U00280 through U02621 (U280 start inferred from the completed preceding page; U2621 visible at PDF120 end)';j['remaining'][3]['range']='PDF121 Chapter1 portion: U02622 through U02635, lines1–5';j['boundary']['chapter1_start_on_boundary_page']='U02622 yon tan thams cad rang rdzogs pas';j['boundary']['preceding_page_endpoint']='PDF120 ends with U02621 ston pa sangs rgyas bcom ldan \'das';j['boundary']['evidence'].append('dzongsar-ch1-images/p121-colophon.png')
+manifest=json.loads((repo/'editions/dzongsar-manuscript/image-manifest.json').read_text())
+print('manifest type',type(manifest).__name__,'repaired',repaired)
+if isinstance(manifest,dict):print('manifest keys',list(manifest))
+save(j)
+PY
