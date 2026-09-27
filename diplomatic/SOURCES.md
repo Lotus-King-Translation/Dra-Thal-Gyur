@@ -78,3 +78,7 @@ At this audit's local check, all ten mapped `sgra-thal-gyur.pdf` files were actu
 ## Subsequent Chapter 1 scan checks
 
 The [Langtang opening inspection](reviews/chapter-01/langtang-opening-gap.md) found apparent main-text continuity from image 3 to image 6 at the phrase corresponding to U00017. Missing indices 4–5 therefore do not justify a textual lacuna at this boundary. This local finding does not resolve later gaps or establish full collation. The [Chapter 1 dossier](chapter-01.md) records targeted Adzom corrections and restorations plus limited comparison-scan evidence; none upgrades the whole chapter to complete.
+
+## Second-reading coverage update
+
+The [coverage ledger](collation/chapter-01/scan-coverage.json) and [continuation record](HANDOFF.md) supersede earlier progress statements, without changing the inventory. Adzom has a continuous main-lexical pass and targeted annotation audit; exact punctuation/title work remains open. Tsamdrak, Tingkye and Tharpaling now have explicit partial attempts and capability assessments. Dzongsar has an interrupted opening comparison. Actual Chapter 1 colophons were located at Tsamdrak PDF83, Tingkye PDF69, Tharpaling PDF71 and Dzongsar PDF121. These boundary checks are not full intervening collation.

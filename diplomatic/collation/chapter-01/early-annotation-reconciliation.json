@@ -1,0 +1,174 @@
+{
+  "source": "ch1-continuous-early.json",
+  "audit": "ch1-annotation-audit.json",
+  "reconciliation": "All U-identifiers named in the continuous-early page uncertainty/delegation list have targeted annotation records. This does not expand early lexical proofreading into punctuation or all-witness collation.",
+  "all_delegated_identifiers_accounted_for": true,
+  "records": [
+    {
+      "pdf_page": 10,
+      "early_uncertainty": "U00180/U00187/U00192 small annotations delegated to annotation review",
+      "delegated_units": [
+        "U00180",
+        "U00187",
+        "U00192"
+      ],
+      "covered_by_annotation_audit": [
+        "U00180",
+        "U00187",
+        "U00192"
+      ],
+      "missing_from_annotation_audit": []
+    },
+    {
+      "pdf_page": 13,
+      "early_uncertainty": "U00272 small annotation delegated to annotation review",
+      "delegated_units": [
+        "U00272"
+      ],
+      "covered_by_annotation_audit": [
+        "U00272"
+      ],
+      "missing_from_annotation_audit": []
+    },
+    {
+      "pdf_page": 15,
+      "early_uncertainty": "U00317/U00318 and U00328 annotation layers delegated to annotation review",
+      "delegated_units": [
+        "U00317",
+        "U00318",
+        "U00328"
+      ],
+      "covered_by_annotation_audit": [
+        "U00317",
+        "U00318",
+        "U00328"
+      ],
+      "missing_from_annotation_audit": []
+    },
+    {
+      "pdf_page": 23,
+      "early_uncertainty": "U00534 small annotation delegated to annotation review",
+      "delegated_units": [
+        "U00534"
+      ],
+      "covered_by_annotation_audit": [
+        "U00534"
+      ],
+      "missing_from_annotation_audit": []
+    },
+    {
+      "pdf_page": 26,
+      "early_uncertainty": "U00596 small annotation layer delegated to annotation reviewer.",
+      "delegated_units": [
+        "U00596"
+      ],
+      "covered_by_annotation_audit": [
+        "U00596"
+      ],
+      "missing_from_annotation_audit": []
+    },
+    {
+      "pdf_page": 27,
+      "early_uncertainty": "U00626/U00632 small annotation layers delegated to annotation reviewer.",
+      "delegated_units": [
+        "U00626",
+        "U00632"
+      ],
+      "covered_by_annotation_audit": [
+        "U00626",
+        "U00632"
+      ],
+      "missing_from_annotation_audit": []
+    },
+    {
+      "pdf_page": 28,
+      "early_uncertainty": "U00651 small byas kyang annotation delegated.",
+      "delegated_units": [
+        "U00651"
+      ],
+      "covered_by_annotation_audit": [
+        "U00651"
+      ],
+      "missing_from_annotation_audit": []
+    },
+    {
+      "pdf_page": 30,
+      "early_uncertainty": "U00710 annotation layer independently resolved by annotation reviewer: main so so'i nus pas bsgyur ba gang; note bus pa sbyar yang 'byung. See ch1-annotation-audit.json; no residual main-text uncertainty here.",
+      "delegated_units": [
+        "U00710"
+      ],
+      "covered_by_annotation_audit": [
+        "U00710"
+      ],
+      "missing_from_annotation_audit": []
+    },
+    {
+      "pdf_page": 33,
+      "early_uncertainty": "U00800 small sa yi yang byung annotation delegated.",
+      "delegated_units": [
+        "U00800"
+      ],
+      "covered_by_annotation_audit": [
+        "U00800"
+      ],
+      "missing_from_annotation_audit": []
+    },
+    {
+      "pdf_page": 43,
+      "early_uncertainty": "U01067 small brgya yang byung annotation delegated.",
+      "delegated_units": [
+        "U01067"
+      ],
+      "covered_by_annotation_audit": [
+        "U01067"
+      ],
+      "missing_from_annotation_audit": []
+    },
+    {
+      "pdf_page": 44,
+      "early_uncertainty": "U01090 small bcu gcig kyang byung annotation delegated.",
+      "delegated_units": [
+        "U01090"
+      ],
+      "covered_by_annotation_audit": [
+        "U01090"
+      ],
+      "missing_from_annotation_audit": []
+    },
+    {
+      "pdf_page": 46,
+      "early_uncertainty": "U01144 tshig chad song editorial note classification delegated.",
+      "delegated_units": [
+        "U01144"
+      ],
+      "covered_by_annotation_audit": [
+        "U01144"
+      ],
+      "missing_from_annotation_audit": []
+    },
+    {
+      "pdf_page": 49,
+      "early_uncertainty": "U01233/U01237 shared small chags jig stongs pa gloss and e-copy duplication delegated.",
+      "delegated_units": [
+        "U01233",
+        "U01237"
+      ],
+      "covered_by_annotation_audit": [
+        "U01233",
+        "U01237"
+      ],
+      "missing_from_annotation_audit": []
+    },
+    {
+      "pdf_page": 50,
+      "early_uncertainty": "U01265 small dkrug kyang variant delegated.",
+      "delegated_units": [
+        "U01265"
+      ],
+      "covered_by_annotation_audit": [
+        "U01265"
+      ],
+      "missing_from_annotation_audit": []
+    }
+  ]
+}

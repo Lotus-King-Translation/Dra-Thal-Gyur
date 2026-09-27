@@ -1,0 +1,1461 @@
+{
+  "date": "2026-09-27",
+  "witness": "Tsamdrak manuscript facsimile, reproduction W21521",
+  "pdf": "editions/tsamdrak-1982/sgra-thal-gyur.pdf",
+  "sha256": "a35e69ef7543683f1a862602750d066a735b140729d19c682287d5d63a641292",
+  "mapping": "PDF p N = printed page N+1 = BDRC I0615 image N+3",
+  "scope": "Chapter1 only; continuous opening comparison attempt plus separate physical chapter-boundary identification",
+  "method": "Native embedded rasters extracted with PyMuPDF. Whole-page views and native left/right halves inspected and compared with A; no OCR or reconstructed glyphs. Punctuation/ornaments/marginal marks are not exhaustively collated.",
+  "independence": "Text-assisted image comparison. Uncertain glyphs are not inferred from A.",
+  "boundary": {
+    "pdf_page": 83,
+    "printed_page": 84,
+    "bdrc_image": 86,
+    "physical_line": 6,
+    "evidence": "p083-left.png, p083-right.png, p083-colophon-complete.png",
+    "visible_ending": "ལེའུ་སྟེ་དང་པོའོ",
+    "next_chapter_begins": "row7",
+    "status": "boundary_identified_from_actual_colophon_not_proportion"
+  },
+  "continuous_attempt": {
+    "last_pdf_page": 13,
+    "last_full_A_anchor": "U00349",
+    "next_anchor": "U00350 (starts PDF13 row7; continuation at PDF14)",
+    "complete": false,
+    "row_coverage": [
+      {
+        "pdf_page": 1,
+        "physical_line": 1,
+        "A_start": "U00005",
+        "A_end": "U00006",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Sanskrit title not fully resolved; Tibetan rgyagar language label identified."
+      },
+      {
+        "pdf_page": 1,
+        "physical_line": 2,
+        "A_start": "U00006",
+        "A_end": "U00008",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "End of Sanskrit title, bod skad du, and start of Tibetan title. Sanskrit glyph inventory unresolved."
+      },
+      {
+        "pdf_page": 1,
+        "physical_line": 3,
+        "A_start": "U00008",
+        "A_end": "U00009",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Tibetan title continuation and opening homage compared."
+      },
+      {
+        "pdf_page": 2,
+        "physical_line": 1,
+        "A_start": "U00010",
+        "A_end": "U00012",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Homage followed directly by opening verse; U11 heading not present at this junction."
+      },
+      {
+        "pdf_page": 2,
+        "physical_line": 2,
+        "A_start": "U00012",
+        "A_end": "U00014",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Opening verb unresolved; remaining wording compared."
+      },
+      {
+        "pdf_page": 2,
+        "physical_line": 3,
+        "A_start": "U00014",
+        "A_end": "U00016",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Main lexical sequence compared."
+      },
+      {
+        "pdf_page": 2,
+        "physical_line": 4,
+        "A_start": "U00016",
+        "A_end": "U00018",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Main lexical sequence compared; U18 continues onto next page."
+      },
+      {
+        "pdf_page": 3,
+        "physical_line": 1,
+        "A_start": "U00018",
+        "A_end": "U00021",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Main lexical sequence compared."
+      },
+      {
+        "pdf_page": 3,
+        "physical_line": 2,
+        "A_start": "U00021",
+        "A_end": "U00024",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Main lexical sequence compared."
+      },
+      {
+        "pdf_page": 3,
+        "physical_line": 3,
+        "A_start": "U00024",
+        "A_end": "U00027",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Main lexical sequence compared."
+      },
+      {
+        "pdf_page": 3,
+        "physical_line": 4,
+        "A_start": "U00027",
+        "A_end": "U00030",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "U29 heading not present at junction; U30 opening verb requires discriminating second check."
+      },
+      {
+        "pdf_page": 3,
+        "physical_line": 5,
+        "A_start": "U00031",
+        "A_end": "U00033",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Main lexical sequence compared."
+      },
+      {
+        "pdf_page": 4,
+        "physical_line": 1,
+        "A_start": "U00034",
+        "A_end": "U00036",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Main lexical sequence compared."
+      },
+      {
+        "pdf_page": 4,
+        "physical_line": 2,
+        "A_start": "U00036",
+        "A_end": "U00039",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Main lexical sequence compared; supports stong at U39."
+      },
+      {
+        "pdf_page": 4,
+        "physical_line": 3,
+        "A_start": "U00040",
+        "A_end": "U00043",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "U40 variant recorded; main lexical sequence compared."
+      },
+      {
+        "pdf_page": 4,
+        "physical_line": 4,
+        "A_start": "U00043",
+        "A_end": "U00046",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Main lexical sequence compared."
+      },
+      {
+        "pdf_page": 4,
+        "physical_line": 5,
+        "A_start": "U00046",
+        "A_end": "U00050",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Main lexical sequence compared."
+      },
+      {
+        "pdf_page": 4,
+        "physical_line": 6,
+        "A_start": "U00050",
+        "A_end": "U00053",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Main lexical sequence compared."
+      },
+      {
+        "pdf_page": 5,
+        "physical_line": 1,
+        "A_start": "U00054",
+        "A_end": "U00058",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Main lexical sequence compared."
+      },
+      {
+        "pdf_page": 5,
+        "physical_line": 2,
+        "A_start": "U00058",
+        "A_end": "U00063",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Main lexical sequence compared; U63 continues next row."
+      },
+      {
+        "pdf_page": 5,
+        "physical_line": 3,
+        "A_start": "U00063",
+        "A_end": "U00067",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "U63 variant recorded; main lexical sequence compared."
+      },
+      {
+        "pdf_page": 5,
+        "physical_line": 4,
+        "A_start": "U00067",
+        "A_end": "U00071",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Main lexical sequence compared."
+      },
+      {
+        "pdf_page": 5,
+        "physical_line": 5,
+        "A_start": "U00072",
+        "A_end": "U00076",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Main lexical sequence compared."
+      },
+      {
+        "pdf_page": 5,
+        "physical_line": 6,
+        "A_start": "U00076",
+        "A_end": "U00080",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "U79 final connective requires discriminating second check."
+      },
+      {
+        "pdf_page": 5,
+        "physical_line": 7,
+        "A_start": "U00081",
+        "A_end": "U00085",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Main lexical sequence compared; U85 incomplete until following page."
+      },
+      {
+        "pdf_page": 6,
+        "physical_line": 1,
+        "A_start": "U00085",
+        "A_end": "U00089",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 6,
+        "physical_line": 2,
+        "A_start": "U00089",
+        "A_end": "U00094",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 6,
+        "physical_line": 3,
+        "A_start": "U00094",
+        "A_end": "U00098",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 6,
+        "physical_line": 4,
+        "A_start": "U00099",
+        "A_end": "U00103",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 6,
+        "physical_line": 5,
+        "A_start": "U00103",
+        "A_end": "U00108",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 6,
+        "physical_line": 6,
+        "A_start": "U00108",
+        "A_end": "U00112",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 6,
+        "physical_line": 7,
+        "A_start": "U00112",
+        "A_end": "U00117",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 7,
+        "physical_line": 1,
+        "A_start": "U00117",
+        "A_end": "U00121",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 7,
+        "physical_line": 2,
+        "A_start": "U00122",
+        "A_end": "U00126",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 7,
+        "physical_line": 3,
+        "A_start": "U00126",
+        "A_end": "U00130",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 7,
+        "physical_line": 4,
+        "A_start": "U00131",
+        "A_end": "U00135",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 7,
+        "physical_line": 5,
+        "A_start": "U00135",
+        "A_end": "U00140",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 7,
+        "physical_line": 6,
+        "A_start": "U00140",
+        "A_end": "U00145",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 7,
+        "physical_line": 7,
+        "A_start": "U00145",
+        "A_end": "U00148",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "A U00143 is transposed after U00147 on this row; the span is not strictly monotonic."
+      },
+      {
+        "pdf_page": 8,
+        "physical_line": 1,
+        "A_start": "U00149",
+        "A_end": "U00153",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 8,
+        "physical_line": 2,
+        "A_start": "U00153",
+        "A_end": "U00157",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 8,
+        "physical_line": 3,
+        "A_start": "U00158",
+        "A_end": "U00162",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 8,
+        "physical_line": 4,
+        "A_start": "U00162",
+        "A_end": "U00167",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 8,
+        "physical_line": 5,
+        "A_start": "U00167",
+        "A_end": "U00171",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 8,
+        "physical_line": 6,
+        "A_start": "U00171",
+        "A_end": "U00176",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 8,
+        "physical_line": 7,
+        "A_start": "U00176",
+        "A_end": "U00180",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 9,
+        "physical_line": 1,
+        "A_start": "U00180",
+        "A_end": "U00184",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 9,
+        "physical_line": 2,
+        "A_start": "U00185",
+        "A_end": "U00190",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 9,
+        "physical_line": 3,
+        "A_start": "U00190",
+        "A_end": "U00194",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 9,
+        "physical_line": 4,
+        "A_start": "U00195",
+        "A_end": "U00199",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 9,
+        "physical_line": 5,
+        "A_start": "U00200",
+        "A_end": "U00205",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 9,
+        "physical_line": 6,
+        "A_start": "U00205",
+        "A_end": "U00209",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 9,
+        "physical_line": 7,
+        "A_start": "U00210",
+        "A_end": "U00214",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 10,
+        "physical_line": 1,
+        "A_start": "U00215",
+        "A_end": "U00219",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 10,
+        "physical_line": 2,
+        "A_start": "U00219",
+        "A_end": "U00224",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 10,
+        "physical_line": 3,
+        "A_start": "U00224",
+        "A_end": "U00229",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 10,
+        "physical_line": 4,
+        "A_start": "U00229",
+        "A_end": "U00233",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 10,
+        "physical_line": 5,
+        "A_start": "U00234",
+        "A_end": "U00238",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 10,
+        "physical_line": 6,
+        "A_start": "U00238",
+        "A_end": "U00244",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 10,
+        "physical_line": 7,
+        "A_start": "U00244",
+        "A_end": "U00249",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 11,
+        "physical_line": 1,
+        "A_start": "U00249",
+        "A_end": "U00254",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 11,
+        "physical_line": 2,
+        "A_start": "U00254",
+        "A_end": "U00259",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 11,
+        "physical_line": 3,
+        "A_start": "U00259",
+        "A_end": "U00264",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 11,
+        "physical_line": 4,
+        "A_start": "U00264",
+        "A_end": "U00269",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 11,
+        "physical_line": 5,
+        "A_start": "U00269",
+        "A_end": "U00274",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 11,
+        "physical_line": 6,
+        "A_start": "U00274",
+        "A_end": "U00278",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 11,
+        "physical_line": 7,
+        "A_start": "U00278",
+        "A_end": "U00283",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 12,
+        "physical_line": 1,
+        "A_start": "U00284",
+        "A_end": "U00287",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 12,
+        "physical_line": 2,
+        "A_start": "U00288",
+        "A_end": "U00292",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 12,
+        "physical_line": 3,
+        "A_start": "U00292",
+        "A_end": "U00297",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 12,
+        "physical_line": 4,
+        "A_start": "U00297",
+        "A_end": "U00301",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 12,
+        "physical_line": 5,
+        "A_start": "U00302",
+        "A_end": "U00306",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 12,
+        "physical_line": 6,
+        "A_start": "U00306",
+        "A_end": "U00311",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 12,
+        "physical_line": 7,
+        "A_start": "U00311",
+        "A_end": "U00315",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 13,
+        "physical_line": 1,
+        "A_start": "U00316",
+        "A_end": "U00322",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 13,
+        "physical_line": 2,
+        "A_start": "U00322",
+        "A_end": "U00327",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 13,
+        "physical_line": 3,
+        "A_start": "U00327",
+        "A_end": "U00331",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 13,
+        "physical_line": 4,
+        "A_start": "U00331",
+        "A_end": "U00335",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 13,
+        "physical_line": 5,
+        "A_start": "U00336",
+        "A_end": "U00340",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 13,
+        "physical_line": 6,
+        "A_start": "U00340",
+        "A_end": "U00345",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      },
+      {
+        "pdf_page": 13,
+        "physical_line": 7,
+        "A_start": "U00346",
+        "A_end": "U00350",
+        "activity": "guided_lexical_comparison_attempt_not_all_variant_certification",
+        "note": "Ranges are alignment extents, not a certification of every glyph or source sign."
+      }
+    ],
+    "description": "Sequential text-assisted lexical comparison attempt, NOT dependable exhaustive all-variant collation. Row locators document where comparison was attempted; they do not imply agreement in unrecorded glyphs.",
+    "all_variant_reliability": false
+  },
+  "variants": [
+    {
+      "id": "TS-CH1-V001",
+      "pdf_page": 2,
+      "printed_page": 3,
+      "bdrc_image": 5,
+      "physical_line": "between row1 homage and first verse",
+      "A_anchor": "U00011",
+      "A": "ཐུན་མོང་མ་ཡིན་པའི་གླེང་གཞི་བཀོད་པ།",
+      "tsamdrak_reading": "",
+      "confidence": "high",
+      "rationale": "The source goes directly from kun tu bzang po homage into the opening verse; the supplied A heading is not present at this junction. This is local physical absence, not proof of absence elsewhere in witness.",
+      "adoption": "Retain governing Adzom reading; this is comparison-witness evidence.",
+      "scope": "Lexical reading, not exact whitespace/sign reproduction.",
+      "discriminating_comparison": {
+        "A": "ཐུན་མོང་མ་ཡིན་པའི་གླེང་གཞི་བཀོད་པ།",
+        "Tsamdrak": "",
+        "local_finding_reliable": true,
+        "caution": "Ellipsis means deliberately abbreviated comparison span, not a source sign; full context is in the earlier string fields."
+      },
+      "status": "secure_local_observation",
+      "transcription_scope": "Full clause strings are sign-normalized context readings. Reliability attaches to the stated discriminating span and/or physical absence/transposition; this is not a guarantee of every fine glyph or source sign elsewhere in the clause.",
+      "evidence_files": [
+        "evidence/chapter-01/tsamdrak/p002-left.png",
+        "evidence/chapter-01/tsamdrak/p002-right.png"
+      ],
+      "A_reading_at_review_time": "ཐུན་མོང་མ་ཡིན་པའི་གླེང་གཞི་བཀོད་པ།"
+    },
+    {
+      "id": "TS-CH1-V002",
+      "pdf_page": 3,
+      "printed_page": 4,
+      "bdrc_image": 6,
+      "physical_line": "row4 between U28 and U30",
+      "A_anchor": "U00029",
+      "A": "ཐུན་མོང་གི་གླེང་གཞི་བཀོད་པ།",
+      "tsamdrak_reading": "",
+      "confidence": "high",
+      "rationale": "The visible next phrase after thams cad rang byung ye shes so is the next opening verse; the A section heading is not printed at this junction.",
+      "adoption": "Retain governing Adzom reading; this is comparison-witness evidence.",
+      "scope": "Lexical reading, not exact whitespace/sign reproduction.",
+      "discriminating_comparison": {
+        "A": "ཐུན་མོང་གི་གླེང་གཞི་བཀོད་པ།",
+        "Tsamdrak": "",
+        "local_finding_reliable": true,
+        "caution": "Ellipsis means deliberately abbreviated comparison span, not a source sign; full context is in the earlier string fields."
+      },
+      "status": "secure_local_observation",
+      "transcription_scope": "Full clause strings are sign-normalized context readings. Reliability attaches to the stated discriminating span and/or physical absence/transposition; this is not a guarantee of every fine glyph or source sign elsewhere in the clause.",
+      "evidence_files": [
+        "evidence/chapter-01/tsamdrak/p003-left.png",
+        "evidence/chapter-01/tsamdrak/p003-right.png"
+      ],
+      "A_reading_at_review_time": "ཐུན་མོང་གི་གླེང་གཞི་བཀོད་པ།"
+    },
+    {
+      "id": "TS-CH1-V003",
+      "pdf_page": 4,
+      "printed_page": 5,
+      "bdrc_image": 7,
+      "physical_line": 3,
+      "A_anchor": "U00040",
+      "A": "ཡོན་ཏན་ཐམས་ཅད་རྫོགས་པ་ཡི། །",
+      "tsamdrak_reading": "ཡོན་ཏན་ཐམས་ཅད་རྫོགས་པའི་སྐུ།",
+      "confidence": "high",
+      "rationale": "Native left-half image visibly ends rdzogs pa'i sku rather than A rdzogs pa yi.",
+      "adoption": "Retain governing Adzom reading; this is comparison-witness evidence.",
+      "scope": "Lexical reading, not exact whitespace/sign reproduction.",
+      "discriminating_comparison": {
+        "A": "རྫོགས་པ་ཡི",
+        "Tsamdrak": "རྫོགས་པའི་སྐུ",
+        "local_finding_reliable": true,
+        "caution": "Ellipsis means deliberately abbreviated comparison span, not a source sign; full context is in the earlier string fields."
+      },
+      "status": "secure_local_observation",
+      "transcription_scope": "Full clause strings are sign-normalized context readings. Reliability attaches to the stated discriminating span and/or physical absence/transposition; this is not a guarantee of every fine glyph or source sign elsewhere in the clause.",
+      "evidence_files": [
+        "evidence/chapter-01/tsamdrak/p004-left.png",
+        "evidence/chapter-01/tsamdrak/p004-right.png"
+      ],
+      "A_reading_at_review_time": "ཡོན་ཏན་ཐམས་ཅད་རྫོགས་པ་ཡི། །"
+    },
+    {
+      "id": "TS-CH1-V004",
+      "pdf_page": 5,
+      "printed_page": 6,
+      "bdrc_image": 8,
+      "physical_line": "row2 end to row3 start",
+      "A_anchor": "U00063",
+      "A": "བར་སྣང་ཉིད་ལས་གཞན་ཅི་མིན། །",
+      "tsamdrak_reading": "བར་སྣང་དག་ལ་གཞན་ཅི་མེད།",
+      "confidence": "moderate",
+      "rationale": "The source begins bar at row2 end, then snang dag la gzhan ci med. dag la differs from nyid las; final med is favored, with glyph confirmation recommended before treating this as closed.",
+      "adoption": "Retain governing Adzom reading; this is comparison-witness evidence.",
+      "scope": "Lexical reading, not exact whitespace/sign reproduction.",
+      "discriminating_comparison": {
+        "A": "ཉིད་ལས་…མིན",
+        "Tsamdrak": "དག་ལ་…མེད",
+        "local_finding_reliable": false,
+        "caution": "Ellipsis means deliberately abbreviated comparison span, not a source sign; full context is in the earlier string fields."
+      },
+      "status": "candidate_unresolved_do_not_adopt_as_settled",
+      "transcription_scope": "Full clause strings are sign-normalized context readings. Reliability attaches to the stated discriminating span and/or physical absence/transposition; this is not a guarantee of every fine glyph or source sign elsewhere in the clause.",
+      "evidence_files": [
+        "evidence/chapter-01/tsamdrak/p005-left.png",
+        "evidence/chapter-01/tsamdrak/p005-right.png"
+      ],
+      "A_reading_at_review_time": "བར་སྣང་ཉིད་ལས་གཞན་ཅི་མིན། །"
+    },
+    {
+      "id": "TS-CH1-B001",
+      "pdf_page": 83,
+      "printed_page": 84,
+      "bdrc_image": 86,
+      "physical_line": 6,
+      "A_anchor": "U02635",
+      "A": "སྣ་ཚོགས་བཀོད་པ་རང་བྱུང་མན་ངག་གི་རྩ་་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་དང་པོའོ།།",
+      "tsamdrak_reading": "སྣ་ཚོགས་བཀོད་པ་མན་ངག་གི་རྩ་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་དང་པོའོ།།",
+      "confidence": "high for omission of rang byung and chapter-one ending; moderate for complete sign-normalized transcription",
+      "rationale": "Actual Chapter1 colophon inspected. The source goes directly from bkod pa to man ngag without A rang byung. Complete reading needs an independent final palaeographic check; boundary itself is established by visible le'u ste dang po'o.",
+      "adoption": "Retain governing Adzom reading; this is comparison-witness evidence.",
+      "scope": "Lexical reading, not exact whitespace/sign reproduction.",
+      "discriminating_comparison": {
+        "A": "རང་བྱུང་",
+        "Tsamdrak": "",
+        "local_finding_reliable": true,
+        "caution": "Ellipsis means deliberately abbreviated comparison span, not a source sign; full context is in the earlier string fields."
+      },
+      "status": "secure_local_observation",
+      "transcription_scope": "Full clause strings are sign-normalized context readings. Reliability attaches to the stated discriminating span and/or physical absence/transposition; this is not a guarantee of every fine glyph or source sign elsewhere in the clause.",
+      "evidence_files": [
+        "evidence/chapter-01/tsamdrak/p083-left.png",
+        "evidence/chapter-01/tsamdrak/p083-right.png"
+      ],
+      "A_reading_at_review_time": "སྣ་ཚོགས་བཀོད་པ་རང་བྱུང་མན་ངག་གི་རྩ་་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་དང་པོའོ།།"
+    },
+    {
+      "id": "TS-CH1-V005",
+      "pdf_page": 7,
+      "printed_page": 8,
+      "bdrc_image": 10,
+      "physical_line": 3,
+      "A_anchor": "U00129",
+      "A": "སྒྲ་ཚིག་རྣམས་ནི་འབྱུང་བའི་གཞི། །",
+      "tsamdrak_reading": "སྒྲ་ཚིག་རྣམས་ཀྱི་འབྱུང་བའི་གཞི།",
+      "confidence": "high",
+      "rationale": "The native right-half source has rnams kyi against A rnams ni.",
+      "adoption": "Retain governing Adzom reading; comparison-witness evidence only.",
+      "scope": "Lexical reading, not exact whitespace/sign reproduction.",
+      "discriminating_comparison": {
+        "A": "རྣམས་ནི",
+        "Tsamdrak": "རྣམས་ཀྱི",
+        "local_finding_reliable": true,
+        "caution": "Ellipsis means deliberately abbreviated comparison span, not a source sign; full context is in the earlier string fields."
+      },
+      "status": "secure_local_observation",
+      "transcription_scope": "Full clause strings are sign-normalized context readings. Reliability attaches to the stated discriminating span and/or physical absence/transposition; this is not a guarantee of every fine glyph or source sign elsewhere in the clause.",
+      "evidence_files": [
+        "evidence/chapter-01/tsamdrak/p007-left.png",
+        "evidence/chapter-01/tsamdrak/p007-right.png"
+      ],
+      "A_reading_at_review_time": "སྒྲ་ཚིག་རྣམས་ནི་འབྱུང་བའི་གཞི། །"
+    },
+    {
+      "id": "TS-CH1-V006",
+      "pdf_page": 7,
+      "printed_page": 8,
+      "bdrc_image": 10,
+      "physical_line": 7,
+      "A_anchor": "U00143",
+      "A": "སྟོན་པའི་གསུང་ལ་ངེས་བསྡུས་པས། །",
+      "tsamdrak_reading": "སྟོན་པའི་གསུང་ལ་ངེས་བསྡུས་པས།",
+      "confidence": "high for position",
+      "rationale": "This verse occurs after U00147 and before U00148; at the position corresponding to A U00142–U00144 the witness goes directly from the U00142 phrase to U00144. Record as transposition, not omission plus independent addition.",
+      "adoption": "Retain governing Adzom reading; comparison-witness evidence only.",
+      "scope": "Lexical reading, not exact whitespace/sign reproduction.",
+      "transposition": {
+        "A_after": "U00142",
+        "A_before": "U00144",
+        "witness_after": "U00147",
+        "witness_before": "U00148"
+      },
+      "discriminating_comparison": {
+        "A": "after U00142",
+        "Tsamdrak": "after U00147",
+        "local_finding_reliable": true,
+        "caution": "Ellipsis means deliberately abbreviated comparison span, not a source sign; full context is in the earlier string fields."
+      },
+      "status": "secure_local_observation",
+      "transcription_scope": "Full clause strings are sign-normalized context readings. Reliability attaches to the stated discriminating span and/or physical absence/transposition; this is not a guarantee of every fine glyph or source sign elsewhere in the clause.",
+      "evidence_files": [
+        "evidence/chapter-01/tsamdrak/p007-left.png",
+        "evidence/chapter-01/tsamdrak/p007-right.png"
+      ],
+      "A_reading_at_review_time": "སྟོན་པའི་གསུང་ལ་ངེས་བསྡུས་པས། །"
+    },
+    {
+      "id": "TS-CH1-V007",
+      "pdf_page": 8,
+      "printed_page": 9,
+      "bdrc_image": 11,
+      "physical_line": 1,
+      "A_anchor": "U00149",
+      "A": "སྤྲོས་མེད་ཡན་ལག་བཞི་བཅུ་གཉིས། །",
+      "tsamdrak_reading": "སྤྲོས་བྲལ་ཡན་ལག་བཞི་བཅུ་གཉིས།",
+      "confidence": "moderate",
+      "rationale": "The word after spros appears bral rather than A med; retain as a candidate requiring a narrow glyph check.",
+      "adoption": "Retain governing Adzom reading; comparison-witness evidence only.",
+      "scope": "Lexical reading, not exact whitespace/sign reproduction.",
+      "discriminating_comparison": {
+        "A": "སྤྲོས་མེད",
+        "Tsamdrak": "སྤྲོས་བྲལ",
+        "local_finding_reliable": false,
+        "caution": "Ellipsis means deliberately abbreviated comparison span, not a source sign; full context is in the earlier string fields."
+      },
+      "status": "candidate_unresolved_do_not_adopt_as_settled",
+      "transcription_scope": "Full clause strings are sign-normalized context readings. Reliability attaches to the stated discriminating span and/or physical absence/transposition; this is not a guarantee of every fine glyph or source sign elsewhere in the clause.",
+      "evidence_files": [
+        "evidence/chapter-01/tsamdrak/p008-left.png",
+        "evidence/chapter-01/tsamdrak/p008-right.png"
+      ],
+      "A_reading_at_review_time": "སྤྲོས་མེད་ཡན་ལག་བཞི་བཅུ་གཉིས། །"
+    },
+    {
+      "id": "TS-CH1-V008",
+      "pdf_page": 8,
+      "printed_page": 9,
+      "bdrc_image": 11,
+      "physical_line": 3,
+      "A_anchor": "U00161",
+      "A": "ཐམས་ཅད་ངེས་འབྱུང་བསྟན་པར་འཕྲོས། །",
+      "tsamdrak_reading": "ཐམས་ཅད་ལས་འབྱུང་བསྟན་པར་འཕྲོས།",
+      "confidence": "high for las vs nges",
+      "rationale": "The source reads las after thams cad; A has nges. Rest of clause compared with source image.",
+      "adoption": "Retain governing Adzom reading; comparison-witness evidence only.",
+      "scope": "Lexical reading, not exact whitespace/sign reproduction.",
+      "discriminating_comparison": {
+        "A": "ཐམས་ཅད་ངེས",
+        "Tsamdrak": "ཐམས་ཅད་ལས",
+        "local_finding_reliable": true,
+        "caution": "Ellipsis means deliberately abbreviated comparison span, not a source sign; full context is in the earlier string fields."
+      },
+      "status": "secure_local_observation",
+      "transcription_scope": "Full clause strings are sign-normalized context readings. Reliability attaches to the stated discriminating span and/or physical absence/transposition; this is not a guarantee of every fine glyph or source sign elsewhere in the clause.",
+      "evidence_files": [
+        "evidence/chapter-01/tsamdrak/p008-left.png",
+        "evidence/chapter-01/tsamdrak/p008-right.png"
+      ],
+      "A_reading_at_review_time": "ཐམས་ཅད་ངེས་འབྱུང་བསྟན་པར་འཕྲོས། །"
+    },
+    {
+      "id": "TS-CH1-V009",
+      "pdf_page": 9,
+      "printed_page": 10,
+      "bdrc_image": 12,
+      "physical_line": "row1 start, continued from PDF8 row7",
+      "A_anchor": "U00180",
+      "A": "དེ་ནས་གཅིག་དང་ཐ་མི་སྡུད་པ་པོ་ཞུ་བ་རང་བྱུང་གི་བཀོད་པ་དད། །",
+      "tsamdrak_reading": "དེ་ནས་གཅིག་དང་ཐ་མི་དད།",
+      "confidence": "high for main sequence and absence of A inserted phrase at this locus",
+      "rationale": "The visible main line is de nas gcig dang tha mi dad. A has the additional sdud pa po zhu ba rang byung gi bkod pa sequence between mi and dad. No matching phrase is visible at this inspected main-line junction; margins are not certified exhaustively.",
+      "adoption": "Retain governing Adzom reading; comparison-witness evidence only.",
+      "scope": "Lexical reading, not exact whitespace/sign reproduction.",
+      "discriminating_comparison": {
+        "A": "སྡུད་པ་པོ་ཞུ་བ་རང་བྱུང་གི་བཀོད་པ་",
+        "Tsamdrak": "",
+        "local_finding_reliable": true,
+        "caution": "Ellipsis means deliberately abbreviated comparison span, not a source sign; full context is in the earlier string fields."
+      },
+      "status": "secure_local_observation",
+      "transcription_scope": "Full clause strings are sign-normalized context readings. Reliability attaches to the stated discriminating span and/or physical absence/transposition; this is not a guarantee of every fine glyph or source sign elsewhere in the clause.",
+      "evidence_files": [
+        "evidence/chapter-01/tsamdrak/p009-left.png",
+        "evidence/chapter-01/tsamdrak/p009-right.png"
+      ],
+      "A_reading_at_review_time": "དེ་ནས་གཅིག་དང་ཐ་མི་སྡུད་པ་པོ་ཞུ་བ་རང་བྱུང་གི་བཀོད་པ་དད། །"
+    },
+    {
+      "id": "TS-CH1-V010",
+      "pdf_page": 9,
+      "printed_page": 10,
+      "bdrc_image": 12,
+      "physical_line": 1,
+      "A_anchor": "U00181",
+      "A": "རང་བཞིན་དག་པའི་འཁོར་རྣམས་ལས། །",
+      "tsamdrak_reading": "རང་བཞིན་དག་པའི་འཁོར་རྣམས་ཀྱིས།",
+      "confidence": "moderate",
+      "rationale": "Last particle appears kyis instead of A las; the visible stacked form favors kyis, but independent verification is recommended.",
+      "adoption": "Retain governing Adzom reading; comparison-witness evidence only.",
+      "scope": "Lexical reading, not exact whitespace/sign reproduction.",
+      "discriminating_comparison": {
+        "A": "འཁོར་རྣམས་ལས",
+        "Tsamdrak": "འཁོར་རྣམས་ཀྱིས",
+        "local_finding_reliable": false,
+        "caution": "Ellipsis means deliberately abbreviated comparison span, not a source sign; full context is in the earlier string fields."
+      },
+      "status": "candidate_unresolved_do_not_adopt_as_settled",
+      "transcription_scope": "Full clause strings are sign-normalized context readings. Reliability attaches to the stated discriminating span and/or physical absence/transposition; this is not a guarantee of every fine glyph or source sign elsewhere in the clause.",
+      "evidence_files": [
+        "evidence/chapter-01/tsamdrak/p009-left.png",
+        "evidence/chapter-01/tsamdrak/p009-right.png"
+      ],
+      "A_reading_at_review_time": "རང་བཞིན་དག་པའི་འཁོར་རྣམས་ལས། །"
+    },
+    {
+      "id": "TS-CH1-V011",
+      "pdf_page": 9,
+      "printed_page": 10,
+      "bdrc_image": 12,
+      "physical_line": 2,
+      "A_anchor": "U00187",
+      "A": "འབྱུང་བཞིའི་དགོངས་དགོས་པ་ཡང་བྱུང་པ་ཇི་ལྟ་བུ། །",
+      "tsamdrak_reading": "འབྱུང་བཞིའི་དགོངས་པ་ཇི་ལྟ་བུ།",
+      "confidence": "moderate",
+      "rationale": "The main line is shorter than A; the inserted dgos pa yang byung sequence is not present at the inspected main-line locus. dgongs versus dgos itself needs final glyph check.",
+      "adoption": "Retain governing Adzom reading; comparison-witness evidence only.",
+      "scope": "Lexical reading, not exact whitespace/sign reproduction.",
+      "discriminating_comparison": {
+        "A": "དགོས་པ་ཡང་བྱུང་",
+        "Tsamdrak": "",
+        "local_finding_reliable": false,
+        "caution": "Ellipsis means deliberately abbreviated comparison span, not a source sign; full context is in the earlier string fields."
+      },
+      "status": "candidate_unresolved_do_not_adopt_as_settled",
+      "transcription_scope": "Full clause strings are sign-normalized context readings. Reliability attaches to the stated discriminating span and/or physical absence/transposition; this is not a guarantee of every fine glyph or source sign elsewhere in the clause.",
+      "evidence_files": [
+        "evidence/chapter-01/tsamdrak/p009-left.png",
+        "evidence/chapter-01/tsamdrak/p009-right.png"
+      ],
+      "A_reading_at_review_time": "འབྱུང་བཞིའི་དགོངས་དགོས་པ་ཡང་བྱུང་པ་ཇི་ལྟ་བུ། །"
+    },
+    {
+      "id": "TS-CH1-V012",
+      "pdf_page": 9,
+      "printed_page": 10,
+      "bdrc_image": 12,
+      "physical_line": 3,
+      "A_anchor": "U00192",
+      "A": "འདི་མཚམས་འོག་གི་རང་དང་གཞན་གྱི་དམ་བཅའི་ཞེས་པ་དང་འཕེན་པ་རླུང་སྟེ་ཞེས་པ་གཉིས་ཀྱི་དྲི་བ་མ་བྱུང་འགྱུར་དང་འགྱུར་བྱེད་གང་དང་གང་། །",
+      "tsamdrak_reading": "འགྱུར་དང་འགྱུར་བྱེད་གང་དང་གང་།",
+      "confidence": "high for short main-line sequence",
+      "rationale": "The witness directly prints the short question. A contains a long prefixed editorial-looking phrase beginning 'di mtshams 'og gi ...; it is not in this inspected main line. No claim about all marginal text.",
+      "adoption": "Retain governing Adzom reading; comparison-witness evidence only.",
+      "scope": "Lexical reading, not exact whitespace/sign reproduction.",
+      "discriminating_comparison": {
+        "A": "འདི་མཚམས་འོག་གི་རང་དང་གཞན་གྱི་དམ་བཅའི་ཞེས་པ་དང་འཕེན་པ་རླུང་སྟེ་ཞེས་པ་གཉིས་ཀྱི་དྲི་བ་མ་བྱུང་",
+        "Tsamdrak": "",
+        "local_finding_reliable": true,
+        "caution": "Ellipsis means deliberately abbreviated comparison span, not a source sign; full context is in the earlier string fields."
+      },
+      "status": "secure_local_observation",
+      "transcription_scope": "Full clause strings are sign-normalized context readings. Reliability attaches to the stated discriminating span and/or physical absence/transposition; this is not a guarantee of every fine glyph or source sign elsewhere in the clause.",
+      "evidence_files": [
+        "evidence/chapter-01/tsamdrak/p009-left.png",
+        "evidence/chapter-01/tsamdrak/p009-right.png"
+      ],
+      "A_reading_at_review_time": "འདི་མཚམས་འོག་གི་རང་དང་གཞན་གྱི་དམ་བཅའི་ཞེས་པ་དང་འཕེན་པ་རླུང་སྟེ་ཞེས་པ་གཉིས་ཀྱི་དྲི་བ་མ་བྱུང་འགྱུར་དང་འགྱུར་བྱེད་གང་དང་གང་། །"
+    },
+    {
+      "id": "TS-CH1-V013",
+      "pdf_page": 10,
+      "printed_page": 11,
+      "bdrc_image": 13,
+      "physical_line": 3,
+      "A_anchor": "U00227",
+      "A": "སྤོ་བའི་ལས་ནི་གང་གིས་བགྱིས། །",
+      "tsamdrak_reading": "སྤོ་བའི་ལས་ནི་གང་གིས་བྱེད།",
+      "confidence": "high",
+      "rationale": "The final printed verb is byed; A has bgyis.",
+      "adoption": "Retain governing Adzom reading; comparison-witness evidence only.",
+      "scope": "Lexical reading, not exact whitespace/sign reproduction.",
+      "discriminating_comparison": {
+        "A": "བགྱིས",
+        "Tsamdrak": "བྱེད",
+        "local_finding_reliable": true,
+        "caution": "Ellipsis means deliberately abbreviated comparison span, not a source sign; full context is in the earlier string fields."
+      },
+      "status": "secure_local_observation",
+      "transcription_scope": "Full clause strings are sign-normalized context readings. Reliability attaches to the stated discriminating span and/or physical absence/transposition; this is not a guarantee of every fine glyph or source sign elsewhere in the clause.",
+      "evidence_files": [
+        "evidence/chapter-01/tsamdrak/p010-left.png",
+        "evidence/chapter-01/tsamdrak/p010-right.png"
+      ],
+      "A_reading_at_review_time": "སྤོ་བའི་ལས་ནི་གང་གིས་བགྱིས། །"
+    },
+    {
+      "id": "TS-CH1-V014",
+      "pdf_page": 11,
+      "printed_page": 12,
+      "bdrc_image": 14,
+      "physical_line": 1,
+      "A_anchor": "U00252",
+      "A": "འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡིས་གཅོད།",
+      "tsamdrak_reading": "འཁོར་བའི་ཆུ་རྒྱུན་གང་གིས་གཅོད།",
+      "confidence": "high",
+      "rationale": "The source phrase after chu rgyun is gang gis; A has ci yis.",
+      "adoption": "Retain governing Adzom reading; comparison-witness evidence only.",
+      "scope": "Lexical reading, not exact whitespace/sign reproduction.",
+      "discriminating_comparison": {
+        "A": "ཅི་ཡིས",
+        "Tsamdrak": "གང་གིས",
+        "local_finding_reliable": true,
+        "caution": "Ellipsis means deliberately abbreviated comparison span, not a source sign; full context is in the earlier string fields."
+      },
+      "status": "secure_local_observation",
+      "transcription_scope": "Full clause strings are sign-normalized context readings. Reliability attaches to the stated discriminating span and/or physical absence/transposition; this is not a guarantee of every fine glyph or source sign elsewhere in the clause.",
+      "evidence_files": [
+        "evidence/chapter-01/tsamdrak/p011-left.png",
+        "evidence/chapter-01/tsamdrak/p011-right.png"
+      ],
+      "A_reading_at_review_time": "འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡིས་གཅོད།"
+    },
+    {
+      "id": "TS-CH1-V015",
+      "pdf_page": 11,
+      "printed_page": 12,
+      "bdrc_image": 14,
+      "physical_line": 5,
+      "A_anchor": "U00272",
+      "A": "དེ་ནས་རྒྱུད་ཀྱི་ཆེ་བ་རྣམ་པར་བཀོད་པའི་བཀོད་པ་ཁྱབ་བདག་སེམས་དཔའ་ནི། །",
+      "tsamdrak_reading": "དེ་ནས་ཁྱབ་བདག་སེམས་དཔའ་ནི།",
+      "confidence": "high for shorter main line",
+      "rationale": "Source goes from de nas directly to khyab bdag sems dpa' ni. A inserts a longer heading-like sequence beginning rgyud kyi che ba. This is absent from the inspected main-line locus, with all-margin absence unproven.",
+      "adoption": "Retain governing Adzom reading; comparison-witness evidence only.",
+      "scope": "Lexical reading, not exact whitespace/sign reproduction.",
+      "discriminating_comparison": {
+        "A": "རྒྱུད་ཀྱི་ཆེ་བ་རྣམ་པར་བཀོད་པའི་བཀོད་པ་",
+        "Tsamdrak": "",
+        "local_finding_reliable": true,
+        "caution": "Ellipsis means deliberately abbreviated comparison span, not a source sign; full context is in the earlier string fields."
+      },
+      "status": "secure_local_observation",
+      "transcription_scope": "Full clause strings are sign-normalized context readings. Reliability attaches to the stated discriminating span and/or physical absence/transposition; this is not a guarantee of every fine glyph or source sign elsewhere in the clause.",
+      "evidence_files": [
+        "evidence/chapter-01/tsamdrak/p011-left.png",
+        "evidence/chapter-01/tsamdrak/p011-right.png"
+      ],
+      "A_reading_at_review_time": "དེ་ནས་རྒྱུད་ཀྱི་ཆེ་བ་རྣམ་པར་བཀོད་པའི་བཀོད་པ་ཁྱབ་བདག་སེམས་དཔའ་ནི། །"
+    },
+    {
+      "id": "TS-CH1-V016",
+      "pdf_page": 12,
+      "printed_page": 13,
+      "bdrc_image": 15,
+      "physical_line": 1,
+      "A_anchor": "U00287",
+      "A": "སངས་རྒྱས་རྣམས་ཀྱིས་མ་གསུངས་པ། །",
+      "tsamdrak_reading": "སངས་རྒྱས་རྣམས་ཀྱིས་མ་གསུངས་པའི།",
+      "confidence": "moderate",
+      "rationale": "Terminal pa'i is favored by the visible vowel sign, against A pa; narrow confirmation required.",
+      "adoption": "Retain governing Adzom reading; comparison-witness evidence only.",
+      "scope": "Lexical reading, not exact whitespace/sign reproduction.",
+      "discriminating_comparison": {
+        "A": "པ",
+        "Tsamdrak": "པའི",
+        "local_finding_reliable": false,
+        "caution": "Ellipsis means deliberately abbreviated comparison span, not a source sign; full context is in the earlier string fields."
+      },
+      "status": "candidate_unresolved_do_not_adopt_as_settled",
+      "transcription_scope": "Full clause strings are sign-normalized context readings. Reliability attaches to the stated discriminating span and/or physical absence/transposition; this is not a guarantee of every fine glyph or source sign elsewhere in the clause.",
+      "evidence_files": [
+        "evidence/chapter-01/tsamdrak/p012-left.png",
+        "evidence/chapter-01/tsamdrak/p012-right2.png"
+      ],
+      "A_reading_at_review_time": "སངས་རྒྱས་རྣམས་ཀྱིས་མ་གསུངས་པ། །"
+    },
+    {
+      "id": "TS-CH1-V017",
+      "pdf_page": 12,
+      "printed_page": 13,
+      "bdrc_image": 15,
+      "physical_line": 3,
+      "A_anchor": "U00293",
+      "A": "ཆོས་ཀྱི་མེ་ལོང་དོན་གྱིས་སྡུད། །",
+      "tsamdrak_reading": "ཆོས་ཀྱི་མེ་ལོང་དོན་དུ་སྡུད།",
+      "confidence": "high for don du",
+      "rationale": "Source has don du against A don gyis. Main clause inspected in native left-half image.",
+      "adoption": "Retain governing Adzom reading; comparison-witness evidence only.",
+      "scope": "Lexical reading, not exact whitespace/sign reproduction.",
+      "discriminating_comparison": {
+        "A": "དོན་གྱིས",
+        "Tsamdrak": "དོན་དུ",
+        "local_finding_reliable": true,
+        "caution": "Ellipsis means deliberately abbreviated comparison span, not a source sign; full context is in the earlier string fields."
+      },
+      "status": "secure_local_observation",
+      "transcription_scope": "Full clause strings are sign-normalized context readings. Reliability attaches to the stated discriminating span and/or physical absence/transposition; this is not a guarantee of every fine glyph or source sign elsewhere in the clause.",
+      "evidence_files": [
+        "evidence/chapter-01/tsamdrak/p012-left.png",
+        "evidence/chapter-01/tsamdrak/p012-right2.png"
+      ],
+      "A_reading_at_review_time": "ཆོས་ཀྱི་མེ་ལོང་དོན་གྱིས་སྡུད། །"
+    },
+    {
+      "id": "TS-CH1-V018",
+      "pdf_page": 13,
+      "printed_page": 14,
+      "bdrc_image": 16,
+      "physical_line": 1,
+      "A_anchor": "U00317",
+      "A": "དྲི་བ་བདུན་ཅུ་ཟེར་ཀྱང་དོན་དྲུག་པར་ཡོད།",
+      "tsamdrak_reading": "",
+      "confidence": "high for absence at junction",
+      "rationale": "The witness proceeds directly from the phrase corresponding to U316 to U319. The A question-count note U317 is not present at this main-line junction; exhaustive margin absence not certified.",
+      "adoption": "Retain governing Adzom reading; comparison-witness evidence only.",
+      "scope": "Lexical reading, not exact whitespace/sign reproduction.",
+      "discriminating_comparison": {
+        "A": "དྲི་བ་བདུན་ཅུ་ཟེར་ཀྱང་དོན་དྲུག་པར་ཡོད།",
+        "Tsamdrak": "",
+        "local_finding_reliable": true,
+        "caution": "Ellipsis means deliberately abbreviated comparison span, not a source sign; full context is in the earlier string fields."
+      },
+      "status": "secure_local_observation",
+      "transcription_scope": "Full clause strings are sign-normalized context readings. Reliability attaches to the stated discriminating span and/or physical absence/transposition; this is not a guarantee of every fine glyph or source sign elsewhere in the clause.",
+      "evidence_files": [
+        "evidence/chapter-01/tsamdrak/p013-left.png",
+        "evidence/chapter-01/tsamdrak/p013-right.png"
+      ],
+      "A_reading_at_review_time": "དྲི་བ་བདུན་ཅུ་ཟེར་ཀྱང་དོན་དྲུག་པར་ཡོད།"
+    },
+    {
+      "id": "TS-CH1-V019",
+      "pdf_page": 13,
+      "printed_page": 14,
+      "bdrc_image": 16,
+      "physical_line": 1,
+      "A_anchor": "U00318",
+      "A": " དྲིས་ལན་དང་པོ།",
+      "tsamdrak_reading": "",
+      "confidence": "high for absence at junction",
+      "rationale": "No dris lan dang po heading between corresponding U316 and U319; source has punctuation/spacing before U319.",
+      "adoption": "Retain governing Adzom reading; comparison-witness evidence only.",
+      "scope": "Lexical reading, not exact whitespace/sign reproduction.",
+      "discriminating_comparison": {
+        "A": "དྲིས་ལན་དང་པོ།",
+        "Tsamdrak": "",
+        "local_finding_reliable": true,
+        "caution": "Ellipsis means deliberately abbreviated comparison span, not a source sign; full context is in the earlier string fields."
+      },
+      "status": "secure_local_observation",
+      "transcription_scope": "Full clause strings are sign-normalized context readings. Reliability attaches to the stated discriminating span and/or physical absence/transposition; this is not a guarantee of every fine glyph or source sign elsewhere in the clause.",
+      "evidence_files": [
+        "evidence/chapter-01/tsamdrak/p013-left.png",
+        "evidence/chapter-01/tsamdrak/p013-right.png"
+      ],
+      "A_reading_at_review_time": " དྲིས་ལན་དང་པོ།"
+    },
+    {
+      "id": "TS-CH1-V020",
+      "pdf_page": 13,
+      "printed_page": 14,
+      "bdrc_image": 16,
+      "physical_line": 3,
+      "A_anchor": "U00328",
+      "A": "མེས་ནི་འབྱུང་བ་སེལ་བ་སྤེལ་ཡང་བྱུང་དང་། །",
+      "tsamdrak_reading": "མེས་ནི་འབྱུང་བ་སྤེལ་བ་དང་།",
+      "confidence": "moderate",
+      "rationale": "Source appears spel ba and has no following spel yang byung insertion of A at this main-line locus. spel versus sel requires one more narrow check before a settled record.",
+      "adoption": "Retain governing Adzom reading; comparison-witness evidence only.",
+      "scope": "Lexical reading, not exact whitespace/sign reproduction.",
+      "discriminating_comparison": {
+        "A": "སེལ་བ་སྤེལ་ཡང་བྱུང",
+        "Tsamdrak": "སྤེལ་བ",
+        "local_finding_reliable": false,
+        "caution": "Ellipsis means deliberately abbreviated comparison span, not a source sign; full context is in the earlier string fields."
+      },
+      "status": "candidate_unresolved_do_not_adopt_as_settled",
+      "transcription_scope": "Full clause strings are sign-normalized context readings. Reliability attaches to the stated discriminating span and/or physical absence/transposition; this is not a guarantee of every fine glyph or source sign elsewhere in the clause.",
+      "evidence_files": [
+        "evidence/chapter-01/tsamdrak/p013-left.png",
+        "evidence/chapter-01/tsamdrak/p013-right.png"
+      ],
+      "A_reading_at_review_time": "མེས་ནི་འབྱུང་བ་སེལ་བ་སྤེལ་ཡང་བྱུང་དང་། །"
+    },
+    {
+      "id": "TS-CH1-V021",
+      "pdf_page": 13,
+      "printed_page": 14,
+      "bdrc_image": 16,
+      "physical_line": 6,
+      "A_anchor": "U00344",
+      "A": "དྲིས་ལན་གཉིས་པ།",
+      "tsamdrak_reading": "",
+      "confidence": "high for absence at junction",
+      "rationale": "After the U343 phrase, source proceeds to yan lag don ni 'di lta bu (U345), without the A dris lan gnyis pa heading in the visible main-line space.",
+      "adoption": "Retain governing Adzom reading; comparison-witness evidence only.",
+      "scope": "Lexical reading, not exact whitespace/sign reproduction.",
+      "discriminating_comparison": {
+        "A": "དྲིས་ལན་གཉིས་པ།",
+        "Tsamdrak": "",
+        "local_finding_reliable": true,
+        "caution": "Ellipsis means deliberately abbreviated comparison span, not a source sign; full context is in the earlier string fields."
+      },
+      "status": "secure_local_observation",
+      "transcription_scope": "Full clause strings are sign-normalized context readings. Reliability attaches to the stated discriminating span and/or physical absence/transposition; this is not a guarantee of every fine glyph or source sign elsewhere in the clause.",
+      "evidence_files": [
+        "evidence/chapter-01/tsamdrak/p013-left.png",
+        "evidence/chapter-01/tsamdrak/p013-right.png"
+      ],
+      "A_reading_at_review_time": "དྲིས་ལན་གཉིས་པ།"
+    }
+  ],
+  "uncertainties": [
+    {
+      "anchor": "U00006",
+      "location": "PDF1 row1–2",
+      "issue": "Exact Sanskrit transcription and signs not reliably settled; do not normalize from A."
+    },
+    {
+      "anchor": "U00012",
+      "location": "PDF2 row2 left",
+      "issue": "Verb after bdag gis differs in apparent stack from expected thos. Candidate bstan/bstun; cannot presently certify complete exact reading. Native crop p002-verb.png."
+    },
+    {
+      "anchor": "U00030",
+      "location": "PDF3 row4 right",
+      "issue": "Repeated opening verb requires discriminating second check; do not infer agreement from recognizable formula."
+    },
+    {
+      "anchor": "U00079",
+      "location": "PDF5 row6 right",
+      "issue": "Final connective looks de/ste; needs narrow confirmation."
+    },
+    {
+      "anchor": "U00118/U00139",
+      "location": "PDF7 rows1/5",
+      "issue": "Sanskrit bird-name spelling/vowel stacks not independently resolved; expected A ka la ping ka'i should not supply the reading."
+    },
+    {
+      "anchor": "U00148",
+      "location": "PDF7 row7 right",
+      "issue": "rtog(s) sangs final s after rtog needs narrow confirmation."
+    },
+    {
+      "anchor": "U00167",
+      "location": "PDF8 row4 end–row5 start",
+      "issue": "The word after lus kun is not reliably discriminated in this pass; cannot certify A brdzus."
+    },
+    {
+      "anchor": "U00193",
+      "location": "PDF9 row3 right",
+      "issue": "rjod/byed prefix spelling may differ; no exact settled variant recorded."
+    },
+    {
+      "anchor": "U00207",
+      "location": "PDF9 row6",
+      "issue": "Terminal gzung/gzungs requires narrow final-s check."
+    },
+    {
+      "anchor": "question annotations",
+      "location": "PDF9 rows2–7",
+      "issue": "Many smaller numeral-like source signs occur among verses; their exact inventory and values not collated."
+    },
+    {
+      "anchor": "U00214",
+      "location": "PDF9 row7 final edge",
+      "issue": "Native PDF10 begins U215, so U214 belongs wholly to PDF9; final edge letters require final crop check. Earlier checkpoint tentatively treated it as a page-crossing unit; corrected here."
+    },
+    {
+      "anchor": "U00234",
+      "location": "PDF10 row5",
+      "issue": "bzung/bzungs terminal s unresolved."
+    },
+    {
+      "anchor": "U00260",
+      "location": "PDF11 row3",
+      "issue": "'dus versus bsdus stack unresolved."
+    },
+    {
+      "anchor": "U00262",
+      "location": "PDF11 row3",
+      "issue": "gsung/gsungs final s unresolved."
+    },
+    {
+      "anchor": "U00295",
+      "location": "PDF12 row3 right",
+      "issue": "Possible absence of ba after gsang; not reliably closed."
+    },
+    {
+      "anchor": "U00304",
+      "location": "PDF12 row5 right",
+      "issue": "bstan/bsdus stack requires discriminating narrow comparison."
+    },
+    {
+      "anchor": "U00315",
+      "location": "PDF12 row7 right",
+      "issue": "bab/babs final s unresolved."
+    },
+    {
+      "anchor": "U00316",
+      "location": "PDF13 row1 start",
+      "issue": "tshig byung versus tshig 'byung prefix unresolved."
+    },
+    {
+      "anchor": "U00342",
+      "location": "PDF13 row6",
+      "issue": "des na versus de nas syllable grouping unresolved."
+    }
+  ],
+  "not_collated": [
+    {
+      "range": "A U00001–U00004",
+      "reason": "Acquired PDF begins with language-title section; preceding independent Adzom title material has no mapped counterpart in this acquired range. Do not call missing from the complete exemplar."
+    },
+    {
+      "range": "PDF14–82 and PDF83 rows1–5",
+      "reason": "Not yet continuously inspected/collated."
+    },
+    {
+      "range": "All margins, ornaments and exact physical punctuation",
+      "reason": "No exhaustive sign inventory yet."
+    }
+  ],
+  "fully_collated_chapter": false,
+  "certificate": "No full-chapter clearance. Unrecorded fine variants may remain even within compared opening rows; exact glyph-level collation is not yet certified.",
+  "image_notes": [
+    "p012-right.png was found zero bytes; p012-right2.png was freshly cropped from the valid native p012.png and used for inspection."
+  ],
+  "status": "partial_attempt_stopped_at_demonstrated_reading_capability_limit",
+  "surveyed_only": [
+    {
+      "pdf_pages": [
+        14,
+        15
+      ],
+      "purpose": "Viewed sequential native halves; no finished reliable comparison ledger. Do not count as collated."
+    },
+    {
+      "pdf_pages": [
+        82,
+        84,
+        86,
+        87,
+        88
+      ],
+      "purpose": "Locating actual first-chapter boundary; beyond-boundary pages only surveyed for orientation and not substantively collated."
+    }
+  ],
+  "capability_assessment": {
+    "finding": "I cannot responsibly certify continuous detection of every variant in this witness with my current Tibetan image-reading performance.",
+    "evidence": "At the opening verb (PDF2 row2 / U12), a large, readable-looking stack cannot be discriminated confidently as bstan/bstun or another reading. The repeated formula at U30 is likewise unresolved. As sequential comparison progressed, uncertain suffix/prefix/stack decisions recurred at U148, U167, U193, U207, U234, U260, U262, U295, U304, U315, U316. Some could be actual differences from A; their unknown state prevents all-variant clearance.",
+    "source_quality": "Most inspected Tsamdrak images are sharp enough for a competent manuscript reader. This is primarily a limit of this reviewer, not a claim that all listed passages are objectively unreadable or that better scanning will necessarily solve them.",
+    "risk": "Expected-text-assisted recognition can hide small orthographic differences. Apparent agreement in the rest of a row must not be converted into an agreement certificate.",
+    "reason_for_stopping_expansion": "Further page-by-page recognition with recurring unresolved distinctions would enlarge claimed coverage faster than dependable all-variant evidence. The stop is a demonstrated reliability limit, not an arbitrary sample quota.",
+    "needed_next_step": "A qualified Tibetan manuscript reader or independently verified diplomatic transcript should read the source continuously; narrow second readings should first resolve the listed discriminating glyphs. Keep secure local observations and candidates separate.",
+    "bounds": "No full-chapter, whole-witness, main-text-completeness or annotation-completeness certification. No assertion that all actual conflicts were detected even within the attempted rows."
+  },
+  "evidence_hashes": {
+    "evidence/chapter-01/tsamdrak/p002-left.png": "334bb3ba6b61fe7a8403411b50effd7571f09dfa1cb3ce1be423c3f110f98264",
+    "evidence/chapter-01/tsamdrak/p002-right.png": "7b01467d25cedfe6519ce5ff7f375038597ecac99c5910c5416d2929cd1fc0f4",
+    "evidence/chapter-01/tsamdrak/p003-left.png": "7a4da6a7ad1d4cfc51f51cb9d779db795abfa6a289bb552da3824fd663a559d9",
+    "evidence/chapter-01/tsamdrak/p003-right.png": "397be3759eaeea1a38654c8dd9f5737020741fbeee3edfeb708eda39a5cde222",
+    "evidence/chapter-01/tsamdrak/p004-left.png": "dabc1ba4a73817f58a98d96246f1c67277c609e3db6ec26c6427f5aaa9c998d6",
+    "evidence/chapter-01/tsamdrak/p004-right.png": "eb913eb4266482c0e9c5088597b4a8437bb2b67aa970cc0f78e511e3ede21fc4",
+    "evidence/chapter-01/tsamdrak/p005-left.png": "cfea02a816cb0f99c3459717870d6db0e824477c348a222fa76fad4006fa418b",
+    "evidence/chapter-01/tsamdrak/p005-right.png": "b7a61227b8b83f3b3023fb861cc6041f00b0faa5cb45ac233d260898e1f3590a",
+    "evidence/chapter-01/tsamdrak/p007-left.png": "e967769e4c2d9acf6e12812e663d8568e3bacc107b2efd75bf7d173a2af53156",
+    "evidence/chapter-01/tsamdrak/p007-right.png": "67beb6020946955210e252da1d685fb13ca22a94fd722b70522611dfab4304af",
+    "evidence/chapter-01/tsamdrak/p008-left.png": "16db117808bc83093a346247c95e29068f86edd461a4638e63a4b2ed91e6ce05",
+    "evidence/chapter-01/tsamdrak/p008-right.png": "05ef2b8821b8e33f50d920bfd960430fb63c2eb711844cd9b812e5e9904ec8f6",
+    "evidence/chapter-01/tsamdrak/p009-left.png": "5998dee57daa9c6c471ad1e233bdfaf96babbe4f6f8bffe11d41634f50f473da",
+    "evidence/chapter-01/tsamdrak/p009-right.png": "21295de2c9f9f2d524dd2027eb6cb7e861968d18f7ac812b8bf7e9335c0d4fa3",
+    "evidence/chapter-01/tsamdrak/p010-left.png": "ef58b14aebf123066d556b5f1a2e077ee4dd5aa34260f3ea93670810a7bf02fe",
+    "evidence/chapter-01/tsamdrak/p010-right.png": "f4d0bb5379e0a6dce882edf98f87a886486702d48ed0f4932e375d1be01723ac",
+    "evidence/chapter-01/tsamdrak/p011-left.png": "a58817be92bf4ec90ac9d9abd1761e7c28133b10b4ff4067369f17a24b5af8d5",
+    "evidence/chapter-01/tsamdrak/p011-right.png": "712bd3ae045ee6325ffc16ac214b1b362c62f6b6f0b6110d4e9bc675b645506c",
+    "evidence/chapter-01/tsamdrak/p012-left.png": "3bcdde62d481c95eb63fadde8ecb1b312f94fb15813e1b508380e764feb0b335",
+    "evidence/chapter-01/tsamdrak/p012-right2.png": "6e1c2c0d05ce71ddab1f828dc787608f3e619241827c5fde00641c784bae832e",
+    "evidence/chapter-01/tsamdrak/p013-left.png": "179576355462949b3bb91595e04df10d062429cbb62ffaf8f8874f3fe50a10cd",
+    "evidence/chapter-01/tsamdrak/p013-right.png": "3c863d58d0e6060b9fa09ad8626e976058885f16be75eedcec3ebc5574a68727",
+    "evidence/chapter-01/tsamdrak/p083-left.png": "3f62317470719efb6d57d12424f2ad8b5e54a84d3320029efdf32b04c66d048d",
+    "evidence/chapter-01/tsamdrak/p083-right.png": "a9187b4f2df66a2c59811ee7a30a02ed3253ebae28712691cff168787dc20575"
+  },
+  "summary": {
+    "attempted_physical_rows": 81,
+    "sequential_attempt_pages": "PDF1–13",
+    "last_complete_aligned_unit_in_attempt": "U00349",
+    "separate_chapter_boundary": "PDF83 row6",
+    "secure_local_observations": 16,
+    "unresolved_candidate_variants": 6,
+    "all_variant_collation_complete": false
+  },
+  "integration_note": "This review snapshot may quote the earlier flattened A transcript as its comparison context. The current reading text and linked Adzom scan interventions govern; a source note removed from A main text is not a missing main verse in the other witness."
+}

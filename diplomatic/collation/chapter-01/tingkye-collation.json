@@ -1,0 +1,735 @@
+{
+  "witness": "Tingkye 1973, I1765 scan assembly",
+  "date": "2026-09-27",
+  "requested_scope": "Continuous comparison of chapter1 through U02635",
+  "actual_status": "partial_local_findings_with_concrete_visual_reading_capability_obstacle",
+  "complete": false,
+  "baseline": "diplomatic/collation/chapter-01/reading-units.json reading_tibetan; other agents verify the Adzom facsimile. No new firsthand Adzom certification is asserted here.",
+  "source_pdf": "editions/tingkye-1973/sgra-thal-gyur.pdf",
+  "excluded_source": "editions/tingkye-1973/bdrc-W21518-9.pdf: mapping unresolved, not used",
+  "image_method": "Direct extraction of the embedded native raster from the stored PDF; native unenhanced crops. Full images are 4350 x 1100 pixels. Boxes are zero-based half-open native pixel coordinates.",
+  "punctuation_scope": "Lexical comparison only; punctuation/sign coverage incomplete.",
+  "source_images": [
+    {
+      "image": 394,
+      "file": "0394.png",
+      "url": "https://iiif.bdrc.io/bdr:I1765::17650394.TIF/full/max/0/default.png",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I1765/canvas/17650394.TIF",
+      "bytes": 82587,
+      "sha256": "420996df86f86cb4d341e81f83e664f982f05ce9a85288da6ec1c72c52095a0c",
+      "width": 4350,
+      "height": 1100,
+      "format": "PNG",
+      "pdf_page": 1
+    },
+    {
+      "image": 395,
+      "file": "0395.png",
+      "url": "https://iiif.bdrc.io/bdr:I1765::17650395.TIF/full/max/0/default.png",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I1765/canvas/17650395.TIF",
+      "bytes": 89821,
+      "sha256": "25e7b0d12ba5a43f964476883fd7e7133cdb3362cda947aa1b835dc509ae9077",
+      "width": 4350,
+      "height": 1100,
+      "format": "PNG",
+      "pdf_page": 2
+    },
+    {
+      "image": 462,
+      "file": "0462.png",
+      "url": "https://iiif.bdrc.io/bdr:I1765::17650462.TIF/full/max/0/default.png",
+      "canvas": "https://iiifpres.bdrc.io/v:bdr:I1765/canvas/17650462.TIF",
+      "bytes": 89111,
+      "sha256": "8dd0f561b848bb0ec7ea14ae84e39e6751f0f4b8075ee75ee021cc4117b509d4",
+      "width": 4350,
+      "height": 1100,
+      "format": "PNG",
+      "pdf_page": 69
+    }
+  ],
+  "ordered_inspected_rows": [
+    {
+      "pdf_page": 1,
+      "provider_image": 394,
+      "printed_page": 386,
+      "main_row": 6,
+      "first_aligned_unit": "U00005",
+      "last_aligned_unit": "U00009",
+      "status": "visually_inspected_and_locally_aligned_not_exhaustively_collated",
+      "note": "Root title begins here after the adjoining work; Sanskrit title remains unresolved; U00009 continues into row7.",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p001-left.png",
+        "evidence/chapter-01/tingkye/p001-right.png"
+      ]
+    },
+    {
+      "pdf_page": 1,
+      "provider_image": 394,
+      "printed_page": 386,
+      "main_row": 7,
+      "first_aligned_unit": "U00009",
+      "last_aligned_unit": "U00015",
+      "status": "visually_inspected_and_locally_aligned_not_exhaustively_collated",
+      "note": "Homage and opening; opening verb at U00012 unresolved; U00015 continues on the next page.",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p001-left.png",
+        "evidence/chapter-01/tingkye/p001-right.png"
+      ]
+    },
+    {
+      "pdf_page": 2,
+      "provider_image": 395,
+      "printed_page": 387,
+      "main_row": 1,
+      "first_aligned_unit": "U00015",
+      "last_aligned_unit": "U00020",
+      "status": "visually_inspected_and_locally_aligned_not_exhaustively_collated",
+      "note": "Begins with continuation of U00015; ends during U00020.",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p002-left.png",
+        "evidence/chapter-01/tingkye/p002-right.png"
+      ]
+    },
+    {
+      "pdf_page": 2,
+      "provider_image": 395,
+      "printed_page": 387,
+      "main_row": 2,
+      "first_aligned_unit": "U00020",
+      "last_aligned_unit": "U00026",
+      "status": "visually_inspected_and_locally_aligned_not_exhaustively_collated",
+      "note": "Begins with continuation of U00020; ends during U00026.",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p002-left.png",
+        "evidence/chapter-01/tingkye/p002-right.png"
+      ]
+    },
+    {
+      "pdf_page": 2,
+      "provider_image": 395,
+      "printed_page": 387,
+      "main_row": 3,
+      "first_aligned_unit": "U00026",
+      "last_aligned_unit": "U00032",
+      "status": "visually_inspected_and_locally_aligned_not_exhaustively_collated",
+      "note": "Begins with continuation of U00026; no heading visible between U00028 and U00030; ends after beginning of U00032.",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p002-left.png",
+        "evidence/chapter-01/tingkye/p002-right.png"
+      ]
+    },
+    {
+      "pdf_page": 2,
+      "provider_image": 395,
+      "printed_page": 387,
+      "main_row": 4,
+      "first_aligned_unit": "U00032",
+      "last_aligned_unit": "U00037",
+      "status": "visually_inspected_and_locally_aligned_not_exhaustively_collated",
+      "note": "Begins with continuation of U00032; ends during U00037.",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p002-left.png",
+        "evidence/chapter-01/tingkye/p002-right.png"
+      ]
+    },
+    {
+      "pdf_page": 2,
+      "provider_image": 395,
+      "printed_page": 387,
+      "main_row": 5,
+      "first_aligned_unit": "U00037",
+      "last_aligned_unit": "U00042",
+      "status": "visually_inspected_and_locally_aligned_not_exhaustively_collated",
+      "note": "Begins with continuation of U00037; ends during U00042.",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p002-left.png",
+        "evidence/chapter-01/tingkye/p002-right.png"
+      ]
+    },
+    {
+      "pdf_page": 2,
+      "provider_image": 395,
+      "printed_page": 387,
+      "main_row": 6,
+      "first_aligned_unit": "U00042",
+      "last_aligned_unit": "U00047",
+      "status": "visually_inspected_and_locally_aligned_not_exhaustively_collated",
+      "note": "Begins with continuation of U00042; ends after beginning of U00047.",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p002-left.png",
+        "evidence/chapter-01/tingkye/p002-right.png"
+      ]
+    },
+    {
+      "pdf_page": 2,
+      "provider_image": 395,
+      "printed_page": 387,
+      "main_row": 7,
+      "first_aligned_unit": "U00047",
+      "last_aligned_unit": "U00052",
+      "status": "visually_inspected_and_locally_aligned_not_exhaustively_collated",
+      "note": "Begins with continuation of U00047; unresolved particle/suffix decisions at U00047 and U00049; U00052 continues on next page.",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p002-left.png",
+        "evidence/chapter-01/tingkye/p002-right.png"
+      ]
+    },
+    {
+      "pdf_page": 69,
+      "provider_image": 462,
+      "printed_page": 454,
+      "main_row": 1,
+      "first_aligned_unit": "U02621",
+      "last_aligned_unit": "U02626",
+      "status": "visually_inspected_and_locally_aligned_not_exhaustively_collated",
+      "note": "Boundary navigation and local comparison only; no continuous connection to opening established.",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p069-left.png",
+        "evidence/chapter-01/tingkye/p069-right.png"
+      ]
+    },
+    {
+      "pdf_page": 69,
+      "provider_image": 462,
+      "printed_page": 454,
+      "main_row": 2,
+      "first_aligned_unit": "U02626",
+      "last_aligned_unit": "U02631",
+      "status": "visually_inspected_and_locally_aligned_not_exhaustively_collated",
+      "note": "Boundary navigation and local comparison only.",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p069-left.png",
+        "evidence/chapter-01/tingkye/p069-right.png"
+      ]
+    },
+    {
+      "pdf_page": 69,
+      "provider_image": 462,
+      "printed_page": 454,
+      "main_row": 3,
+      "first_aligned_unit": "U02631",
+      "last_aligned_unit": "U02635",
+      "status": "visually_inspected_and_locally_aligned_not_exhaustively_collated",
+      "note": "Contains U02633 local variant, U02634 and the first part of U02635.",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p069-left.png",
+        "evidence/chapter-01/tingkye/p069-right.png"
+      ]
+    },
+    {
+      "pdf_page": 69,
+      "provider_image": 462,
+      "printed_page": 454,
+      "main_row": 4,
+      "first_aligned_unit": "U02635",
+      "last_aligned_unit": "U02635",
+      "status": "visually_inspected_and_locally_aligned_not_exhaustively_collated",
+      "note": "Chapter1 ends in the left part of row4; next chapter starts after a large gap. No next-chapter collation was performed.",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p069-left.png",
+        "evidence/chapter-01/tingkye/p069-right.png"
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "id": "TK-001",
+      "unit": "U00013",
+      "pdf_page": 1,
+      "provider_image": 394,
+      "printed_page": 386,
+      "main_row": 7,
+      "adzom_comparison_snippet": "ཐོག་མར་ནི",
+      "tingkye_snippet": "ཐོག་མར",
+      "category": "omission",
+      "status": "previously_supported_reinspected",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p001-root-right.png"
+      ],
+      "box": null,
+      "disposition": "Retain the independently attested Adzom base reading; a comparison-witness variant alone does not authorize changing a diplomatic base.",
+      "rationale": "Observed local form differs from the Adzom comparison snippet. This records the variant, not a reconstruction or a correction of Tingkye."
+    },
+    {
+      "id": "TK-002",
+      "unit": "U00014",
+      "pdf_page": 1,
+      "provider_image": 394,
+      "printed_page": 386,
+      "main_row": 7,
+      "adzom_comparison_snippet": "མེད་པ་ལས",
+      "tingkye_snippet": "མེད་པ་ལ",
+      "category": "suffix",
+      "status": "previously_supported_reinspected",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p001-root-right.png"
+      ],
+      "box": null,
+      "disposition": "Retain the independently attested Adzom base reading; a comparison-witness variant alone does not authorize changing a diplomatic base.",
+      "rationale": "Observed local form differs from the Adzom comparison snippet. This records the variant, not a reconstruction or a correction of Tingkye."
+    },
+    {
+      "id": "TK-003",
+      "unit": "U00019",
+      "pdf_page": 2,
+      "provider_image": 395,
+      "printed_page": 387,
+      "main_row": 1,
+      "adzom_comparison_snippet": "རིག་པས",
+      "tingkye_snippet": "རིག་པ",
+      "category": "suffix",
+      "status": "supported_by_second_reading_reinspected",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p002-r1-right.png"
+      ],
+      "box": null,
+      "disposition": "Retain the independently attested Adzom base reading; a comparison-witness variant alone does not authorize changing a diplomatic base.",
+      "rationale": "Prior focused second reading resolved the suffix locally; current native page inspection is consistent with it."
+    },
+    {
+      "id": "TK-004",
+      "unit": "U00022",
+      "pdf_page": 2,
+      "provider_image": 395,
+      "printed_page": 387,
+      "main_row": 2,
+      "adzom_comparison_snippet": "ཡེ་ཤེས་ཤེས་རབ",
+      "tingkye_snippet": "ཡེ་ཤེས་རབ",
+      "category": "omission_or_repetition_difference",
+      "status": "previously_supported_reinspected",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p002-r2-left.png"
+      ],
+      "box": null,
+      "disposition": "Retain the independently attested Adzom base reading; a comparison-witness variant alone does not authorize changing a diplomatic base.",
+      "rationale": "Observed local form differs from the Adzom comparison snippet. This records the variant, not a reconstruction or a correction of Tingkye."
+    },
+    {
+      "id": "TK-005",
+      "unit": "U00023",
+      "pdf_page": 2,
+      "provider_image": 395,
+      "printed_page": 387,
+      "main_row": 2,
+      "adzom_comparison_snippet": "དམིགས་མེད་པས",
+      "tingkye_snippet": "དམིགས་མེད་པ",
+      "category": "suffix",
+      "status": "previously_supported_reinspected",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p002-r2-right.png"
+      ],
+      "box": null,
+      "disposition": "Retain the independently attested Adzom base reading; a comparison-witness variant alone does not authorize changing a diplomatic base.",
+      "rationale": "Observed local form differs from the Adzom comparison snippet. This records the variant, not a reconstruction or a correction of Tingkye."
+    },
+    {
+      "id": "TK-006",
+      "unit": "U00027",
+      "pdf_page": 2,
+      "provider_image": 395,
+      "printed_page": 387,
+      "main_row": 3,
+      "adzom_comparison_snippet": "ཡོངས་སུ་མེད",
+      "tingkye_snippet": "ཡོངས་མེད",
+      "category": "omission",
+      "status": "previously_supported_reinspected",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p002-r3-left.png"
+      ],
+      "box": null,
+      "disposition": "Retain the independently attested Adzom base reading; a comparison-witness variant alone does not authorize changing a diplomatic base.",
+      "rationale": "Observed local form differs from the Adzom comparison snippet. This records the variant, not a reconstruction or a correction of Tingkye."
+    },
+    {
+      "id": "TK-007",
+      "unit": "U00031",
+      "pdf_page": 2,
+      "provider_image": 395,
+      "printed_page": 387,
+      "main_row": 3,
+      "adzom_comparison_snippet": "དགའ་དང་ལྡན་པ",
+      "tingkye_snippet": "དགའ་ལྡན་པའི",
+      "category": "omission_and_particle",
+      "status": "new_local_reading_independent_review_needed",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p002-u31.png"
+      ],
+      "box": [
+        2920,
+        425,
+        3630,
+        545
+      ],
+      "disposition": "Retain the independently attested Adzom base reading; a comparison-witness variant alone does not authorize changing a diplomatic base.",
+      "rationale": "Observed local form differs from the Adzom comparison snippet. This records the variant, not a reconstruction or a correction of Tingkye."
+    },
+    {
+      "id": "TK-008",
+      "unit": "U00044",
+      "pdf_page": 2,
+      "provider_image": 395,
+      "printed_page": 387,
+      "main_row": 6,
+      "adzom_comparison_snippet": "གཟུགས་སུ་སྤྲུལ",
+      "tingkye_snippet": "གཟུགས་སྤྲུལ",
+      "category": "omission",
+      "status": "new_local_reading_independent_review_needed",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p002-u44.png"
+      ],
+      "box": [
+        1600,
+        675,
+        2260,
+        795
+      ],
+      "disposition": "Retain the independently attested Adzom base reading; a comparison-witness variant alone does not authorize changing a diplomatic base.",
+      "rationale": "Observed local form differs from the Adzom comparison snippet. This records the variant, not a reconstruction or a correction of Tingkye."
+    },
+    {
+      "id": "TK-009",
+      "unit": "U00052",
+      "pdf_page": 2,
+      "provider_image": 395,
+      "printed_page": 387,
+      "main_row": 7,
+      "adzom_comparison_snippet": "ཟང་ཐལ་དྲི་མ་མེད་པའི",
+      "tingkye_snippet": "ཟང་ཐལ་དྲི་མེད་པའི",
+      "category": "omission",
+      "status": "new_local_reading_independent_review_needed",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p002-u52-context.png"
+      ],
+      "box": [
+        3100,
+        725,
+        3830,
+        875
+      ],
+      "disposition": "Retain the independently attested Adzom base reading; a comparison-witness variant alone does not authorize changing a diplomatic base.",
+      "rationale": "Only the portion visible at the end of this page is quoted. Terminal སྐུ is on the uncollated next page and is not supplied here."
+    },
+    {
+      "id": "TK-010",
+      "unit": "U02633",
+      "pdf_page": 69,
+      "provider_image": 462,
+      "printed_page": 454,
+      "main_row": 3,
+      "adzom_comparison_snippet": "ཆོས་ཉིད་དབྱིངས་ལས",
+      "tingkye_snippet": "ཆོས་ཀྱི་དབྱིངས་ལས",
+      "category": "lexical_or_particle",
+      "status": "new_local_reading_independent_review_needed",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p069-u2633.png"
+      ],
+      "box": [
+        1460,
+        417,
+        2190,
+        530
+      ],
+      "disposition": "Retain the independently attested Adzom base reading; a comparison-witness variant alone does not authorize changing a diplomatic base.",
+      "rationale": "Observed local form differs from the Adzom comparison snippet. This records the variant, not a reconstruction or a correction of Tingkye."
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "TK-U01",
+      "unit": "U00006",
+      "pdf_page": 1,
+      "main_row": 6,
+      "span": "Sanskrit title between the language labels",
+      "adopted_reading": null,
+      "candidates": [],
+      "problem": "Compact letter stacks and vowel/ending marks cannot be read confidently enough for an exact transcript.",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p001-sanskrit-title.png",
+        "evidence/chapter-01/tingkye/p001-root-left.png"
+      ],
+      "box": [
+        1040,
+        660,
+        1800,
+        768
+      ]
+    },
+    {
+      "id": "TK-U02",
+      "unit": "U00012",
+      "pdf_page": 1,
+      "main_row": 7,
+      "span": "Verb after བདག་གིས",
+      "adopted_reading": null,
+      "candidates": [
+        "བསྟུན",
+        "བསྟན"
+      ],
+      "problem": "Prior focused second reading remained unresolved; proposals are hypotheses, not observed adopted readings. Do not replace with expected ཐོས.",
+      "evidence": [
+        "evidence/chapter-01/tingkye/ting-u12-verb-full.png",
+        "evidence/chapter-01/tingkye/p001-homage-to-opening.png"
+      ],
+      "box": [
+        1880,
+        744,
+        2130,
+        880
+      ]
+    },
+    {
+      "id": "TK-U03",
+      "unit": "U00047",
+      "pdf_page": 2,
+      "main_row": 7,
+      "span": "Particle following མཛད་པ",
+      "adopted_reading": null,
+      "candidates": [
+        "པ",
+        "པའི"
+      ],
+      "problem": "Possible added genitive relative to A; precise joining strokes not reliable enough to resolve here.",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p002-u47-recrop.png",
+        "evidence/chapter-01/tingkye/p002-left.png"
+      ],
+      "box": [
+        605,
+        728,
+        1170,
+        872
+      ]
+    },
+    {
+      "id": "TK-U04",
+      "unit": "U00049",
+      "pdf_page": 2,
+      "main_row": 7,
+      "span": "Particle after རྣམས",
+      "adopted_reading": null,
+      "candidates": [
+        "ཀྱི",
+        "ཀྱིས"
+      ],
+      "problem": "Possible suffix sa relative to A; native crop retained for an independent paleographic decision.",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p002-u49-context.png"
+      ],
+      "box": [
+        1480,
+        732,
+        2240,
+        872
+      ]
+    },
+    {
+      "id": "TK-U05",
+      "unit": "U02632",
+      "pdf_page": 69,
+      "main_row": 3,
+      "span": "Particle and following verb after མེད",
+      "adopted_reading": null,
+      "candidates": [],
+      "problem": "Joining at པར་གྱུར versus other forms not securely resolved; do not certify full-unit agreement.",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p069-colophon-left.png"
+      ]
+    }
+  ],
+  "layers": [
+    {
+      "units": [
+        "U00001",
+        "U00002",
+        "U00003",
+        "U00004"
+      ],
+      "pdf_page": 1,
+      "main_row": 6,
+      "status": "paratext_concordance_unresolved",
+      "observation": "Tingkye root starts on a shared page with the language-label/Sanskrit-title sequence corresponding to U00005 onward. The separate Adzom front-title units are not aligned as main text here; do not call this a lost leaf or lexical omission.",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p001.png",
+        "evidence/chapter-01/tingkye/p001-root-left.png"
+      ]
+    },
+    {
+      "units": [
+        "U00011"
+      ],
+      "pdf_page": 1,
+      "main_row": 7,
+      "status": "no_heading_visible_at_aligned_main_text_transition",
+      "observation": "Homage proceeds to the first opening formula without a visible corresponding heading at that position. Adzom layer/status must be established separately.",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p001-homage-to-opening.png"
+      ]
+    },
+    {
+      "units": [
+        "U00029"
+      ],
+      "pdf_page": 2,
+      "main_row": 3,
+      "status": "no_heading_visible_at_aligned_main_text_transition",
+      "observation": "U00028 is followed directly by U00030 at the aligned main-text transition.",
+      "evidence": [
+        "evidence/chapter-01/tingkye/p002-u28-u30-no-heading.png"
+      ]
+    },
+    {
+      "units": null,
+      "pdf_page": null,
+      "main_row": null,
+      "status": "punctuation_not_exhaustively_transcribed",
+      "observation": "Tingkye repeatedly uses multi-dot terminal signs. No claim of exact Unicode shad/tsheg/sign identity is made; lexical snippets omit terminal signs."
+    }
+  ],
+  "colophon": {
+    "pdf_page": 69,
+    "provider_image": 462,
+    "printed_page": 454,
+    "unit_start": "U02634",
+    "unit_end": "U02635",
+    "start_main_row": 3,
+    "end_main_row": 4,
+    "boundary": "End of དང་པོའོ in the left part of row4; the next chapter begins after a large blank gap on that row.",
+    "lexical_transcription": "ཞེས་སྒྲ་ཐལ་འགྱུར་ཆེན་པོ་ཆོས་རྣམས་ཀུན་གྱི་རྩ་བ་ལས སྣ་ཚོགས་བཀོད་པ་རང་བྱུང་མན་ངག་གི་རྩ་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་དང་པོའོ",
+    "line_break_after": "རང་བྱུང",
+    "status": "physical_chapter_boundary_identified_lexical_transcription_requires_independent_review_not_a_punctuation_transcript",
+    "evidence": [
+      "evidence/chapter-01/tingkye/p069-u2634-start-u2635-start.png",
+      "evidence/chapter-01/tingkye/p069-u2635-end.png",
+      "evidence/chapter-01/tingkye/p069-left.png",
+      "evidence/chapter-01/tingkye/p069-right.png"
+    ],
+    "native_boxes": {
+      "evidence/chapter-01/tingkye/p069-u2634-start-u2635-start.png": [
+        2060,
+        420,
+        3810,
+        526
+      ],
+      "evidence/chapter-01/tingkye/p069-u2635-end.png": [
+        630,
+        507,
+        1890,
+        624
+      ]
+    }
+  },
+  "prior_focused_results": [
+    {
+      "witness": "Tingkye",
+      "unit": "U00018",
+      "pdf_page": 2,
+      "provider_image": 395,
+      "printed_page": 387,
+      "line": 1,
+      "span_reading": "གཞལ་མེད་ཁང",
+      "decision": "No omission of terminal ཁང; previous uncertainty resolved locally.",
+      "confidence": "high_for_terminal_khang",
+      "box": [
+        2610,
+        260,
+        2870,
+        385
+      ],
+      "evidence": "evidence/chapter-01/tingkye/ting-u18-terminal.png"
+    },
+    {
+      "witness": "Tingkye",
+      "unit": "U00019",
+      "pdf_page": 2,
+      "provider_image": 395,
+      "printed_page": 387,
+      "line": 1,
+      "span_reading": "རང་བྱུང་རིག་པ་བཅོས་པ་མེད",
+      "decision": "Record རིག་པ against Adzom transcript རིག་པས; retain attested Adzom under diplomatic policy.",
+      "confidence": "high_for_absence_of_sa",
+      "box": [
+        2820,
+        275,
+        3410,
+        385
+      ],
+      "evidence": "evidence/chapter-01/tingkye/ting-u19.png"
+    },
+    {
+      "witness": "Tingkye",
+      "unit": "U00026",
+      "pdf_page": 2,
+      "provider_image": 395,
+      "printed_page": 387,
+      "line": 3,
+      "span_reading": "མ་འོངས་ད་ལྟར་མེད",
+      "decision": "No omission of ར in ལྟར; previous uncertainty resolved locally.",
+      "confidence": "high_for_terminal_ra",
+      "box": [
+        570,
+        425,
+        1160,
+        550
+      ],
+      "evidence": "evidence/chapter-01/tingkye/ting-u26.png"
+    },
+    {
+      "witness": "Tingkye",
+      "unit": "U00012",
+      "pdf_page": 1,
+      "provider_image": 394,
+      "printed_page": 386,
+      "line": 7,
+      "span_reading": null,
+      "uncertain_span": "verb after བདག་གིས",
+      "proposals": [
+        "བསྟུན",
+        "བསྟན"
+      ],
+      "decision": "Unresolved. Do not supply ཐོས from the base; proposals are not observed adopted readings.",
+      "confidence": "unresolved",
+      "box": [
+        1880,
+        744,
+        2130,
+        880
+      ],
+      "evidence": "evidence/chapter-01/tingkye/ting-u12-verb-full.png"
+    }
+  ],
+  "coverage": {
+    "ordered_opening_inspection": "PDF1 rows6-7 and PDF2 rows1-7; aligned U00005 through the first part of U00052 with unresolved readings. This is not certified complete collation even within that span.",
+    "isolated_end_inspection": "PDF69 rows1-4; chapter boundary and isolated local finding only.",
+    "unread_or_uncollated": "Remainder of U00052 through U02620 is not continuously collated, including PDF3-68; boundary-navigation inspections within this range confer no agreement status.",
+    "navigation_only_pages_viewed": [
+      30,
+      40,
+      50,
+      55,
+      60,
+      66,
+      70,
+      80,
+      100
+    ],
+    "extracted_but_not_viewed_pages": [
+      3,
+      45,
+      63,
+      64,
+      65,
+      67,
+      68,
+      90
+    ],
+    "complete_continuous_prefix_certified": false
+  },
+  "capability_obstacle": "The current reader cannot reliably distinguish enough compact handwritten Tibetan glyphs, joins, suffixes and Sanskrit stacks to produce a continuous exact transcript and certify every variant. This is demonstrated at the concrete unresolved loci, not a claim that the source is illegible. Familiar expected Tibetan is not substituted for the image. Increasing displayed scale did not resolve these reading judgments.",
+  "further_work": "A qualified reader of this manuscript hand must independently resolve or mark each uncertainty, transcribe/collate every main-text row from the root title through PDF69 row4, distinguish all source layers, and account for every addition/omission and sign. The local candidate findings require independent confirmation. Continuous source-span accounting and Adzom-scan comparison remain required before the witness can pass the chapter gate.",
+  "evidence_directory": "tingkye-ch1-evidence",
+  "prior_focused_results_provenance": {
+    "json": "second-dege-tingkye.json",
+    "evidence_directory": "second-reading-crops"
+  },
+  "integration_note": "This review snapshot may quote the earlier flattened A transcript as its comparison context. The current reading text and linked Adzom scan interventions govern; a source note removed from A main text is not a missing main verse in the other witness."
+}

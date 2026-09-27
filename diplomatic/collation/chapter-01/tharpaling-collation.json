@@ -1,0 +1,218 @@
+{
+  "witness": "Tharpaling W27491",
+  "date": "2026-09-27",
+  "status": "blocked_for_continuous_exact_collation",
+  "basis": "native embedded images, with reversible viewing aids; B electronic transcript and corrected Adzom units used for comparison",
+  "chapter_boundary": {
+    "pdf_page": 71,
+    "provider_image": 75,
+    "main_line": 5,
+    "colophon_ending": "ལེའུ་སྟེ་དང་པོའོ",
+    "status": "actual colophon and following incipit visually verified",
+    "next_chapter_incipit_same_line": true,
+    "evidence": [
+      "evidence/chapter-01/tharpaling/crops/p071-colophon-precise.png",
+      "evidence/chapter-01/tharpaling/crops/p071-next-incipit.png"
+    ],
+    "colophon_lexical_reading": "སྣ་ཚོགས་བཀོད་པ་རང་བྱུང་མན་ངག་གི་རྩ་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་དང་པོའོ",
+    "colophon_punctuation_scope": "lexical reading; exact shad/tsheg coding not certified",
+    "next_chapter_incipit": "དེ་ནས་ལྷ་དབང་རྟོག་པ་མེད",
+    "chapter_end_adzom_unit": "U02635",
+    "colophon_crop_box": [
+      490,
+      277,
+      1205,
+      329
+    ]
+  },
+  "inspected_pages": [
+    {
+      "pdf_page": 1,
+      "provider_image": 5,
+      "rows_traversed": [
+        1
+      ],
+      "aligned_start": "front_title",
+      "aligned_end": "front_title",
+      "status": "visually_traversed_not_fully_collated",
+      "comment": "Title differs from B electronic opening; damaged areas require exact transcription."
+    },
+    {
+      "pdf_page": 2,
+      "provider_image": 6,
+      "rows_traversed": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "aligned_start": "U00006",
+      "aligned_end": "U00023",
+      "status": "visually_traversed_not_fully_collated",
+      "comment": "All four rows traversed; local readings resolved below; small heading remains partly uncertain."
+    },
+    {
+      "pdf_page": 3,
+      "provider_image": 7,
+      "rows_traversed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "aligned_start": "U00024",
+      "aligned_end": "U00060",
+      "status": "visually_traversed_not_fully_collated",
+      "comment": "All six rows traversed; heavy ink/overlap across left portions prevents continuous exact certification."
+    }
+  ],
+  "differences": [
+    {
+      "id": "TH-C1-0001",
+      "pdf_page": 1,
+      "line": 1,
+      "unit": "front_title",
+      "B": "initial supplied title has རིན་པོ་ཆེ...",
+      "scan_reading": "རྫོགས་པ་ཆེན་པོ་⟦unresolved title continuation⟧",
+      "status": "secure initial phrase only; complete title unresolved",
+      "evidence": [
+        "evidence/chapter-01/tharpaling/crops/p001-half0.png",
+        "evidence/chapter-01/tharpaling/crops/p001-half1.png"
+      ]
+    },
+    {
+      "id": "TH-C1-0002",
+      "pdf_page": 2,
+      "line": 2,
+      "unit": "U00012",
+      "B": "བསྟན",
+      "scan_reading": "བསྟན",
+      "Adzom": "ཐོས",
+      "status": "scan supports B lexical variant locally",
+      "evidence": [
+        "evidence/chapter-01/tharpaling/crops/p002-u12.png"
+      ],
+      "rationale": "Record Tharpaling variant; retain Adzom facsimile reading in Adzom diplomatic base."
+    },
+    {
+      "id": "TH-C1-0003",
+      "pdf_page": 2,
+      "line": 3,
+      "unit": "U00017 / displaced U00011 heading",
+      "B": "heading linearized between དབུས་སུ and རླུང་སེམས",
+      "scan_reading": null,
+      "status": "small heading visually distinct from main line; exact wording unresolved",
+      "evidence": [
+        "evidence/chapter-01/tharpaling/crops/p002-heading.png"
+      ],
+      "rationale": "Separate source annotation layer from main verse; no plain main-text insertion."
+    },
+    {
+      "id": "TH-C1-0004",
+      "pdf_page": 2,
+      "line": 4,
+      "unit": "U00022",
+      "B": "ཤེས་རང",
+      "scan_reading": "ཤེས་རང",
+      "Adzom": "ཤེས་རབ",
+      "status": "scan supports B lexical variant locally",
+      "evidence": [
+        "evidence/chapter-01/tharpaling/crops/p002-u22.png"
+      ],
+      "rationale": "Do not treat the B reading as an e-text typo: the print supports རང. Preserve the Adzom reading under base policy."
+    }
+  ],
+  "unresolved": [
+    {
+      "pdf_page": 1,
+      "box": [
+        750,
+        160,
+        1590,
+        255
+      ],
+      "span": "title continuation and faint overlapping portions",
+      "status": "not exactly transcribed"
+    },
+    {
+      "pdf_page": 2,
+      "box": [
+        840,
+        216,
+        1170,
+        270
+      ],
+      "span": "small heading within main line3 near U17",
+      "status": "layer distinction observed; exact wording unresolved"
+    },
+    {
+      "pdf_page": 3,
+      "box": [
+        175,
+        145,
+        850,
+        377
+      ],
+      "span": "left portions of main rows2–6, overinking and overlap",
+      "status": "individual visible words align to B, but continuous exact reading not certified"
+    }
+  ],
+  "provenance": {
+    "pdf": "editions/tharpaling-1983/sgra-thal-gyur.pdf",
+    "B": "editions/tharpaling-1983/W27491_7.txt",
+    "ocr_role": "approximate locators only, no OCR reading treated as source evidence",
+    "ocr_model_url": "https://raw.githubusercontent.com/tesseract-ocr/tessdata_fast/main/bod.traineddata",
+    "ocr_model_sha256": "1aab1db8dae337dfc8fa0f94a1c137c47e4c7857c3e6b30093ec726cef912a0b"
+  },
+  "completion": false,
+  "capability_obstacle": {
+    "type": "continuous_lexical_reading_not_reliable",
+    "first_concrete_obstacle": {
+      "pdf_page": 3,
+      "provider_image": 7,
+      "main_rows": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "native_box": [
+        175,
+        150,
+        850,
+        375
+      ],
+      "evidence": "evidence/chapter-01/tharpaling/crops/p003-obscuration.png"
+    },
+    "description": "Overinking, joined strokes, and broken letters prevent this reader from independently establishing continuous readings. Filling from the expected B transcript would manufacture agreement. Additional uncertain regions already occur in title and small heading. This is a capability judgment for this inspection, not a claim that another qualified reader could never read the witness.",
+    "coverage_limit": "Pages1–3 visually traversed and page71 boundary checked. Pages4–70 are not continuously collated; boundary-search views do not count as collation. No all-variant completion claim."
+  },
+  "provider_alternative_check": {
+    "path": "tharpaling-ch1/provider-volume.pdf",
+    "source_url": "https://archive.org/download/bdrc-W27491/bdrc-W27491-1.pdf",
+    "sha256": "bb9637516e8018dde4cf0dfda51909ef15e359755179e55b0575c5cabd21804f",
+    "hash_matches_repository_record": true,
+    "pdf_pages": 666,
+    "visual_mapping_checked": {
+      "5": "root assembly1",
+      "6": "root assembly2",
+      "7": "root assembly3",
+      "75": "root assembly71"
+    },
+    "image_dimensions": [
+      2198,
+      454
+    ],
+    "finding": "Same scan content and same obstructed areas in tested locations; the provider PDF did not supply a clearer reading. No whole-container mapping claimed.",
+    "evidence": [
+      "evidence/chapter-01/tharpaling/crops/provider-p005.png",
+      "evidence/chapter-01/tharpaling/crops/provider-p006.png",
+      "evidence/chapter-01/tharpaling/crops/provider-p007.png",
+      "evidence/chapter-01/tharpaling/crops/provider-p075.png"
+    ]
+  },
+  "integration_note": "This review snapshot may quote the earlier flattened A transcript as its comparison context. The current reading text and linked Adzom scan interventions govern; a source note removed from A main text is not a missing main verse in the other witness."
+}

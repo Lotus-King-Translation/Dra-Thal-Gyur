@@ -1,0 +1,84 @@
+{
+  "scope": "Opening and Chapter1 boundary, root integration review, 2026-09-27",
+  "source_pdf": "editions/adzom-2000/sgra-thal-gyur.pdf",
+  "method": "Native embedded image extraction with exact crops; visual image-to-text comparison. No generated or reconstructed letters. Uncertain title text is not promoted by familiarity with its expected formula.",
+  "pages": [
+    {
+      "pdf_page": 1,
+      "bdrc_image": 3,
+      "span": "Title leaf, U00001–U00004",
+      "status": "visual inspection; ornate script and title wording not fully certified",
+      "uncertainties": [
+        "Ornamental and Sanskrit sequence",
+        "Exact compressed Tibetan title sequence; one second reader offers moderate candidate-text confirmation only",
+        "Physical signs and layout"
+      ]
+    },
+    {
+      "pdf_page": 2,
+      "bdrc_image": 4,
+      "span": "U00005–U00014 ending rang byung byas; portrait caption",
+      "status": "Tibetan main-text lexical comparison; Sanskrit prefix/title and caption remain provisional",
+      "observations": [
+        "U00011 heading is smaller, physically after the beginning of U00014; semantic display position before U00012 is editorial.",
+        "Main reading order crosses the portrait panel by physical row."
+      ],
+      "uncertainties": [
+        "U00005 prefix",
+        "U00006 exact Sanskrit transcription",
+        "Portrait caption, retained provisional"
+      ]
+    },
+    {
+      "pdf_page": 3,
+      "bdrc_image": 5,
+      "span": "U00014 las through U00026 prefix das dang",
+      "status": "continuous main-text lexical comparison",
+      "observations": [
+        "No additional lexical change identified; U00019 rig pas is visible."
+      ],
+      "punctuation_comparison_complete": false
+    },
+    {
+      "pdf_page": 4,
+      "bdrc_image": 6,
+      "span": "U00026 ma ongs through U00051 prefix kha dog",
+      "status": "continuous main-text lexical comparison",
+      "observations": [
+        "U00039 stong correction reconfirmed.",
+        "U00029 smaller heading is physically inserted on row2; semantic display position is before U00030."
+      ],
+      "punctuation_comparison_complete": false
+    },
+    {
+      "pdf_page": 102,
+      "bdrc_image": 104,
+      "span": "U02632–U02635 and boundary inscription only",
+      "status": "Chapter1 closing lexical comparison and boundary reinspection",
+      "observations": [
+        "The first chapter colophon ends on row2 with leu ste dang poo.",
+        "Following compressed sequence remains unread; later chapter is outside this inspection."
+      ],
+      "punctuation_comparison_complete": false
+    }
+  ],
+  "evidence": [
+    "evidence/chapter-01/opening-review/p001-full.png",
+    "evidence/chapter-01/opening-review/p001-0.png",
+    "evidence/chapter-01/opening-review/p001-1.png",
+    "evidence/chapter-01/opening-review/p002-full.png",
+    "evidence/chapter-01/opening-review/p002-0.png",
+    "evidence/chapter-01/opening-review/p002-1.png",
+    "evidence/chapter-01/opening-review/p003-0.png",
+    "evidence/chapter-01/opening-review/p003-1.png",
+    "evidence/chapter-01/opening-review/p004-0.png",
+    "evidence/chapter-01/opening-review/p004-1.png",
+    "evidence/chapter-01/opening-review/title-left-detail.png",
+    "evidence/chapter-01/opening-review/title-right-detail.png",
+    "evidence/chapter-01/opening-review/title-tibetan.png"
+  ],
+  "boundary_evidence": [
+    "evidence/chapter-01/adzom-102-annotation.png"
+  ],
+  "complete_diplomatic_certification": false
+}

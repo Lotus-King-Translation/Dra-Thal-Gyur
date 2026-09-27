@@ -28,9 +28,14 @@ def main():
     insertions = read('ch1-scan-insertions.json')
     opening = read('ch1-opening-corrections.json')
     checks = read('ch1-key-scan-checks.json')['items']
+    additional = read('additional-interventions.json') if (data / 'additional-interventions.json').exists() else []
+    coverage = read('scan-coverage.json') if (data / 'scan-coverage.json').exists() else {}
+    scan_loci = read('scan-comparison-loci.json') if (data / 'scan-comparison-loci.json').exists() else []
     notes = []
     replacements = {}
     consumed = set()
+    separate_note_units = set()
+    uncertain_units = set()
     annotation_links = collections.defaultdict(list)
     insert_after = collections.defaultdict(list)
 
@@ -65,7 +70,21 @@ def main():
                       'locator': f"PDF {loc['pages']}; BDRC images {loc['bdrc_images']}; {loc['location']}",
                       'evidence': rec['evidence_crop'], 'confidence': rec['confidence'],
                       'annotation': rec['separate_unchanged_transcript_annotation'],
+                      'scan_annotation': rec.get('scan_annotation_tibetan'),
+                      'annotation_status': rec.get('annotation_status', 'Exact supplied-transcript phrase; printed provenance unresolved.'),
                       'prior_report': rec['conflict_with_existing_report']})
+
+    for rec in additional:
+        for uid, text in rec['original_units'].items():
+            assert by_id[uid]['tibetan'] == text, (rec['id'], uid)
+        for uid, text in rec.get('replacement_units', {}).items():
+            assert uid not in replacements, ('Overlapping intervention', rec['id'], uid)
+            replacements[uid] = text
+            if not text:
+                separate_note_units.add(uid)
+        if rec.get('reading_uncertainty'):
+            uncertain_units.update(rec['units'])
+        notes.append(rec)
 
     for rec in notes:
         for uid in rec['units']:
@@ -79,6 +98,9 @@ def main():
     for rec in loci:
         for uid in rec['source_units']:
             annotation_links[uid].append(link(rec['id']))
+    for rec in scan_loci:
+        for uid in rec['units']:
+            annotation_links[uid].append(link(rec['id']))
     for rec in web['conflicts']:
         us = rec['source_units']
         if us:
@@ -89,32 +111,45 @@ def main():
     for uid in ['U00013', 'U00014', 'U00022', 'U00023', 'U00027']:
         annotation_links[uid].append('[Tingkye/Degé scan variant](reviews/chapter-01/independent-openings.md#conflicts-that-can-be-reported-conservatively)')
     for uid in ['U00012', 'U00018', 'U00019', 'U00026']:
-        annotation_links[uid].append('[Comparison-scan uncertainty](reviews/chapter-01/independent-openings.md#other-observations-and-uncertainties)')
+        annotation_links[uid].append('[Comparison-scan second reading](reviews/chapter-01/second-dege-tingkye.md)')
 
     doc = ['# Chapter 1 — provisional diplomatic reading and apparatus', '',
            '**IN PROGRESS: this chapter has not passed the complete-witness collation gate.**', '',
-           'The reading text represents all 2,635 supplied Adzom e-text units, with individually documented scan corrections and restorations. Most base text has not yet been proofread against the facsimile. The apparatus covers every exact A/B/S transcript difference and the separately defined W comparison; it does not cover every conflict in the scan-only editions.', '',
+           'The reading text represents all 2,635 supplied Adzom e-text units, with individually documented scan corrections and restorations. The [scan coverage ledger](collation/chapter-01/scan-coverage.json) distinguishes continuous lexical comparison, focused checks, unresolved glyphs, and unfinished punctuation work. The apparatus covers every exact A/B/S transcript difference and the separately defined W comparison; it does not cover every conflict in the scan-only editions.', '',
            '[Editorial method](METHOD.md) · [Source inventory](SOURCES.md) · [Status](STATUS.json) · [W apparatus](reviews/chapter-01/wikisource.md)', '',
            '## Coverage and notation', '',
            '- A: Adzom supplied transcript; B: Tharpaling supplied transcript; S: Sichuan supplied transcript; W: related Wikisource Wylie transcription. These are transcript sigla, not independent print attestations.',
            '- The A-scan governs adopted corrections. U identifiers locate the unchanged e-text; A2000-C01-S identifiers locate additional scan text. Neither set represents physical verse numbering.',
            '- Blank lines and trimmed boundary whitespace are editorial display choices. Exact quotations and offsets remain in the apparatus ledger. Scan restorations use readable Unicode punctuation, not a reproduction of variable physical spaces or fill marks.',
            '- Source headings, the provisional portrait caption, and the unread chapter-boundary inscription are explicitly distinguished. Other interleaved annotations remain unseparated where inspection is still outstanding.',
-           '- The five observed Tingkye/Degé comparison loci are in the [limited scan report](reviews/chapter-01/independent-openings.md). [Langtang opening continuity](reviews/chapter-01/langtang-opening-gap.md) is a boundary inspection only.', '',
+           '- Tingkye/Degé opening evidence is in the [first report](reviews/chapter-01/independent-openings.md) and the [second reading](reviews/chapter-01/second-dege-tingkye.md). [Langtang opening continuity](reviews/chapter-01/langtang-opening-gap.md) is a boundary inspection only.',
+           '- The [focused Adzom second reading](reviews/chapter-01/second-reading.md) confirms the 13 restored verses and two local corrections. It keeps the portrait caption provisional and the compressed boundary inscription unresolved.', '',
            '## Reading text', '']
     output_units = []
+    lexical_range = coverage.get('lexical_compared_unit_range', [])
     for u in units:
         uid = u['id']
         doc += [f'<a id="{uid.lower()}"></a>', '']
         if uid in consumed:
             text = '[Main text joined with the preceding unit by the linked scan decision; the original unit is retained in the apparatus.]'
+        elif uid in separate_note_units:
+            text = '[Source annotation recorded separately in the linked note; this anchor does not add a main-text verse.]'
         else:
             text = replacements.get(uid, u['tibetan'])
+        if uid in uncertain_units:
+            text += ' **[Print reading uncertain at this locus; see the linked evidence.]**'
         refs = ' '.join(dict.fromkeys(annotation_links[uid]))
-        source_role = '**[Source structural heading]** ' if uid in ['U00011', 'U00029'] else ''
+        source_role = '**[Source structural heading]** ' if uid in ['U00011', 'U00029'] or replacements.get(uid, u['tibetan']).strip().startswith('དྲིས་ལན་') else ''
         doc += [f'**{uid}** {source_role}{text.strip()}' + (f' {refs}' if refs else ''), '']
+        unit_status = 'unverified_transcription_scaffold'
+        if lexical_range and lexical_range[0] <= int(uid[1:]) <= lexical_range[1]:
+            unit_status = 'lexically_compared_punctuation_not_certified'
+        if uid in replacements:
+            unit_status = 'scan_intervention'
+        if uid in uncertain_units:
+            unit_status = 'uncertain_print_reading_or_annotation'
         output_units.append({'id': uid, 'source_tibetan': u['tibetan'], 'reading_tibetan': replacements.get(uid, u['tibetan']),
-                             'status': 'scan_intervention' if uid in replacements else 'unverified_transcription_scaffold'})
+                             'status': unit_status})
         for ins in insert_after[uid]:
             label = {'main_text_restoration': 'Restored main text', 'source_heading_restoration': 'Restored source heading',
                      'source_caption_provisional': 'Portrait caption — provisional reading; editorial placement',
@@ -130,7 +165,11 @@ def main():
                 f'**A transcript:** {rec["old"]}', '', f'**Adopted reading:** {rec["new"]}', '',
                 f'**Scan locator:** {rec["locator"]}.', '', f'**Decision and reason:** {rec["rationale"]}', '']
         if rec.get('annotation'):
-            doc += [f'**Transcript annotation retained separately; provenance unresolved:** {rec["annotation"]}', '']
+            doc += [f'**Separate annotation:** {rec["annotation"]}', '',
+                    '**Annotation status:** ' + rec.get('annotation_status', 'Exact supplied-transcript phrase; printed provenance unresolved.') , '']
+        if rec.get('scan_annotation'):
+            doc += ['**Observed printed annotation (lexical transcription):** ' + rec['scan_annotation'], '',
+                    'The separate transcript phrase above is preserved exactly; the observed print wording is quoted here independently.', '']
         if rec.get('prior_report'):
             doc += [f'**Earlier report cross-check:** {rec["prior_report"]}', '']
         confidence = json.dumps(rec['confidence'], ensure_ascii=False) if isinstance(rec['confidence'], dict) else rec['confidence']
@@ -143,6 +182,25 @@ def main():
                 f'**Decision and reason:** {rec["rationale"]}', '',
                 f'**Confidence:** {rec["confidence"]}. **Remaining uncertainty:** {rec["remaining_uncertainty"]}', '',
                 f'**Punctuation:** {rec["punctuation_policy"]}', '', '**Evidence:** ' + evidence(rec['evidence_images']), '']
+
+    doc += ['## Local comparison-scan findings', '',
+            'These are localized observations and explicitly uncertain candidates, not continuous complete-witness collation. The current Adzom main text below reflects its scan interventions. A removed source annotation is preserved in its own note; it must not be mistaken for a main verse missing in another witness. Ellipses in snippets are editorial abbreviations, not source signs. Complete review-time context, uncertainty ranges, and coverage are retained in the linked reports.', '']
+    for rec in scan_loci:
+        current = ' / '.join(replacements.get(uid, by_id[uid]['tibetan']).strip() or '[Source annotation separated; see the unit note.]' for uid in rec['units'])
+        other = rec['comparison_reading']
+        if other is None:
+            other = '[Unresolved; no complete reading adopted.]'
+        elif other == '':
+            other = '[No corresponding material observed at this inspected junction; see the stated scope.]'
+        doc += [f'<a id="{rec["id"].lower()}"></a>', '', f'### {rec["id"]} — {rec["witness"]}', '',
+                'Units: ' + ', '.join(link(uid) for uid in rec['units']) + '.', '',
+                '**Current Adzom main context:** ' + current, '',
+                '**Comparison reading/snippet:** ' + other, '',
+                '**Status:** ' + rec['status'] + '. **Confidence:** ' + rec['confidence'] + '.', '',
+                '**Locator:** ' + rec['locator'] + '.', '',
+                '**Observation:** ' + rec['rationale'], '',
+                '**Choice and reason:** ' + rec['decision'], '',
+                '**Evidence:** ' + evidence(rec['evidence']) + '. [Review and coverage](' + rec['review'] + ').', '']
 
     doc += ['## A/B/S transcript apparatus', '',
             'All 359 exact differences are represented once in the following 183 readable loci. Complete source-unit quotations avoid splitting Tibetan combining sequences. A/B/S offsets are zero-based half-open Unicode-character ranges in the original full files. Empty readings, where present, are transcript absences only. These quotations preserve exact strings, including delimiters; fenced presentation protects punctuation from Markdown.', '',
@@ -170,7 +228,8 @@ def main():
             doc += [f'**{k} [{rec["offsets"][k][0]}, {rec["offsets"][k][1]}):**', '', '```text', rec['readings'][k], '```', '']
         doc += ['**Disposition and reason:** ' + reason, '']
     doc += ['## Remaining work before a completed-chapter commit', '',
-            'Chapter 1 requires full Adzom scan proofreading, continuous collation of the acquired comparison scans, and resolution or explicit treatment of their unreadable spans. Degé’s faint main-line endings and small interlinear material could not be read reliably in the tested continuous span; the [scan report](reviews/chapter-01/independent-openings.md) gives exact limits. The title’s ornamental/Sanskrit material and the compressed inscription after the chapter colophon remain unresolved. The supplied e-text’s other interleaved annotation layers also require verification; earlier scan-review claims are not automatically authoritative.', '',
+            'The continuous main-Tibetan lexical pass is recorded in the [early](reviews/chapter-01/continuous-early.md) and [late](reviews/chapter-01/continuous-late.md) reports, supplemented by opening/boundary inspection. This has not certified every punctuation sign, source ornament or title glyph. U01522 remains uncertain; the exact U02615 annotation could not be established. The title material, provisional portrait caption, and compressed boundary inscription remain open.', '',
+            'Continuous reliable comparison-witness collation is unfinished. The [Tsamdrak](reviews/chapter-01/tsamdrak-collation.md), [Tingkye](reviews/chapter-01/tingkye-collation.md), and [Tharpaling](reviews/chapter-01/tharpaling-collation.md) attempts document concrete limits of the current readings and the need for qualified further reading. These limits are not a claim that all those sources are objectively illegible. [Dzongsar](reviews/chapter-01/dzongsar-collation.md) is an interrupted opening checkpoint, not a failed-legibility claim. The earlier [Degé report](reviews/chapter-01/independent-openings.md) and its second reading also remain limited.', '',
             'Sichuan can currently be cited only as its supplied transcript where no full scan is available. Adzom 1973–1977 and Gcn need verified root mappings before collation. Catalogue-only leads are recorded in SOURCES.md and are not counted as collated witnesses. Chapters 2–6 have not been started in this edition.', '']
     (out / 'chapter-01.md').write_text('\n'.join(doc))
     (data / 'editorial-decisions.json').write_text(json.dumps(decisions, ensure_ascii=False, indent=2) + '\n')
@@ -184,12 +243,14 @@ def main():
         'scan_restored_main_verse_lines': sum(len(x['tibetan_lines']) for x in insertions if x['kind'] == 'main_text_restoration'),
         'scan_restored_source_headings': sum(len(x['tibetan_lines']) for x in insertions if x['kind'] == 'source_heading_restoration'),
         'scan_correction_or_layer_separation_records': len(notes),
+        'local_comparison_scan_findings_including_candidates': len(scan_loci),
         'base_scan_fully_proofread': False, 'all_acquired_witnesses_fully_collated': False,
         'complete_every_conflict_claim': False,
-        'unresolved': ['Continuous base-scan proofreading', 'Continuous comparison-scan collation',
+        'scan_coverage': coverage,
+        'unresolved': ['Complete physical punctuation/sign and title proofreading', 'Reliable continuous comparison-scan collation',
                        'Faint Degé endings and interlinear material need reliable reading',
                        'Adzom title ornamental/Sanskrit text', 'Adzom PDF102 inscription',
-                       'Origin and physical status of transcript-inserted alternatives',
+                       'U01522 fused main-text cluster; U02615 exact annotation; U02620 inked cluster',
                        'Root mapping of Adzom1973 and Gcn containers', 'Sichuan full scan unavailable'],
         'chapter_markdown_sha256': hashlib.sha256((out / 'chapter-01.md').read_bytes()).hexdigest(),
     }

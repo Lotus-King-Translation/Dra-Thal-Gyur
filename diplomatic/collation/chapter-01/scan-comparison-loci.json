@@ -1,0 +1,874 @@
+[
+  {
+    "id": "TS-CH1-V001",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00011"
+    ],
+    "base_snippet_at_review": "ཐུན་མོང་མ་ཡིན་པའི་གླེང་གཞི་བཀོད་པ།",
+    "comparison_reading": "",
+    "comparison_context": "",
+    "status": "secure_local_observation",
+    "confidence": "high",
+    "locator": "PDF 2; BDRC image 5; printed p. 3; row between row1 homage and first verse",
+    "rationale": "The source goes directly from kun tu bzang po homage into the opening verse; the supplied A heading is not present at this junction. This is local physical absence, not proof of absence elsewhere in witness.",
+    "decision": "Retain governing Adzom reading; this is comparison-witness evidence.",
+    "evidence": [
+      "evidence/chapter-01/tsamdrak/p002-left.png",
+      "evidence/chapter-01/tsamdrak/p002-right.png"
+    ],
+    "review": "reviews/chapter-01/tsamdrak-collation.md"
+  },
+  {
+    "id": "TS-CH1-V002",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00029"
+    ],
+    "base_snippet_at_review": "ཐུན་མོང་གི་གླེང་གཞི་བཀོད་པ།",
+    "comparison_reading": "",
+    "comparison_context": "",
+    "status": "secure_local_observation",
+    "confidence": "high",
+    "locator": "PDF 3; BDRC image 6; printed p. 4; row row4 between U28 and U30",
+    "rationale": "The visible next phrase after thams cad rang byung ye shes so is the next opening verse; the A section heading is not printed at this junction.",
+    "decision": "Retain governing Adzom reading; this is comparison-witness evidence.",
+    "evidence": [
+      "evidence/chapter-01/tsamdrak/p003-left.png",
+      "evidence/chapter-01/tsamdrak/p003-right.png"
+    ],
+    "review": "reviews/chapter-01/tsamdrak-collation.md"
+  },
+  {
+    "id": "TS-CH1-V003",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00040"
+    ],
+    "base_snippet_at_review": "རྫོགས་པ་ཡི",
+    "comparison_reading": "རྫོགས་པའི་སྐུ",
+    "comparison_context": "ཡོན་ཏན་ཐམས་ཅད་རྫོགས་པའི་སྐུ།",
+    "status": "secure_local_observation",
+    "confidence": "high",
+    "locator": "PDF 4; BDRC image 7; printed p. 5; row 3",
+    "rationale": "Native left-half image visibly ends rdzogs pa'i sku rather than A rdzogs pa yi.",
+    "decision": "Retain governing Adzom reading; this is comparison-witness evidence.",
+    "evidence": [
+      "evidence/chapter-01/tsamdrak/p004-left.png",
+      "evidence/chapter-01/tsamdrak/p004-right.png"
+    ],
+    "review": "reviews/chapter-01/tsamdrak-collation.md"
+  },
+  {
+    "id": "TS-CH1-V004",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00063"
+    ],
+    "base_snippet_at_review": "ཉིད་ལས་…མིན",
+    "comparison_reading": "དག་ལ་…མེད",
+    "comparison_context": "བར་སྣང་དག་ལ་གཞན་ཅི་མེད།",
+    "status": "candidate_unresolved_do_not_adopt_as_settled",
+    "confidence": "moderate",
+    "locator": "PDF 5; BDRC image 8; printed p. 6; row row2 end to row3 start",
+    "rationale": "The source begins bar at row2 end, then snang dag la gzhan ci med. dag la differs from nyid las; final med is favored, with glyph confirmation recommended before treating this as closed.",
+    "decision": "Retain governing Adzom reading; this is comparison-witness evidence.",
+    "evidence": [
+      "evidence/chapter-01/tsamdrak/p005-left.png",
+      "evidence/chapter-01/tsamdrak/p005-right.png"
+    ],
+    "review": "reviews/chapter-01/tsamdrak-collation.md"
+  },
+  {
+    "id": "TS-CH1-B001",
+    "witness": "Tsamdrak",
+    "units": [
+      "U02635"
+    ],
+    "base_snippet_at_review": "རང་བྱུང་",
+    "comparison_reading": "",
+    "comparison_context": "སྣ་ཚོགས་བཀོད་པ་མན་ངག་གི་རྩ་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་དང་པོའོ།།",
+    "status": "secure_local_observation",
+    "confidence": "high for omission of rang byung and chapter-one ending; moderate for complete sign-normalized transcription",
+    "locator": "PDF 83; BDRC image 86; printed p. 84; row 6",
+    "rationale": "Actual Chapter1 colophon inspected. The source goes directly from bkod pa to man ngag without A rang byung. Complete reading needs an independent final palaeographic check; boundary itself is established by visible le'u ste dang po'o.",
+    "decision": "Retain governing Adzom reading; this is comparison-witness evidence.",
+    "evidence": [
+      "evidence/chapter-01/tsamdrak/p083-left.png",
+      "evidence/chapter-01/tsamdrak/p083-right.png"
+    ],
+    "review": "reviews/chapter-01/tsamdrak-collation.md"
+  },
+  {
+    "id": "TS-CH1-V005",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00129"
+    ],
+    "base_snippet_at_review": "རྣམས་ནི",
+    "comparison_reading": "རྣམས་ཀྱི",
+    "comparison_context": "སྒྲ་ཚིག་རྣམས་ཀྱི་འབྱུང་བའི་གཞི།",
+    "status": "secure_local_observation",
+    "confidence": "high",
+    "locator": "PDF 7; BDRC image 10; printed p. 8; row 3",
+    "rationale": "The native right-half source has rnams kyi against A rnams ni.",
+    "decision": "Retain governing Adzom reading; comparison-witness evidence only.",
+    "evidence": [
+      "evidence/chapter-01/tsamdrak/p007-left.png",
+      "evidence/chapter-01/tsamdrak/p007-right.png"
+    ],
+    "review": "reviews/chapter-01/tsamdrak-collation.md"
+  },
+  {
+    "id": "TS-CH1-V006",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00143"
+    ],
+    "base_snippet_at_review": "after U00142",
+    "comparison_reading": "after U00147",
+    "comparison_context": "སྟོན་པའི་གསུང་ལ་ངེས་བསྡུས་པས།",
+    "status": "secure_local_observation",
+    "confidence": "high for position",
+    "locator": "PDF 7; BDRC image 10; printed p. 8; row 7",
+    "rationale": "This verse occurs after U00147 and before U00148; at the position corresponding to A U00142–U00144 the witness goes directly from the U00142 phrase to U00144. Record as transposition, not omission plus independent addition.",
+    "decision": "Retain governing Adzom reading; comparison-witness evidence only.",
+    "evidence": [
+      "evidence/chapter-01/tsamdrak/p007-left.png",
+      "evidence/chapter-01/tsamdrak/p007-right.png"
+    ],
+    "review": "reviews/chapter-01/tsamdrak-collation.md"
+  },
+  {
+    "id": "TS-CH1-V007",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00149"
+    ],
+    "base_snippet_at_review": "སྤྲོས་མེད",
+    "comparison_reading": "སྤྲོས་བྲལ",
+    "comparison_context": "སྤྲོས་བྲལ་ཡན་ལག་བཞི་བཅུ་གཉིས།",
+    "status": "candidate_unresolved_do_not_adopt_as_settled",
+    "confidence": "moderate",
+    "locator": "PDF 8; BDRC image 11; printed p. 9; row 1",
+    "rationale": "The word after spros appears bral rather than A med; retain as a candidate requiring a narrow glyph check.",
+    "decision": "Retain governing Adzom reading; comparison-witness evidence only.",
+    "evidence": [
+      "evidence/chapter-01/tsamdrak/p008-left.png",
+      "evidence/chapter-01/tsamdrak/p008-right.png"
+    ],
+    "review": "reviews/chapter-01/tsamdrak-collation.md"
+  },
+  {
+    "id": "TS-CH1-V008",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00161"
+    ],
+    "base_snippet_at_review": "ཐམས་ཅད་ངེས",
+    "comparison_reading": "ཐམས་ཅད་ལས",
+    "comparison_context": "ཐམས་ཅད་ལས་འབྱུང་བསྟན་པར་འཕྲོས།",
+    "status": "secure_local_observation",
+    "confidence": "high for las vs nges",
+    "locator": "PDF 8; BDRC image 11; printed p. 9; row 3",
+    "rationale": "The source reads las after thams cad; A has nges. Rest of clause compared with source image.",
+    "decision": "Retain governing Adzom reading; comparison-witness evidence only.",
+    "evidence": [
+      "evidence/chapter-01/tsamdrak/p008-left.png",
+      "evidence/chapter-01/tsamdrak/p008-right.png"
+    ],
+    "review": "reviews/chapter-01/tsamdrak-collation.md"
+  },
+  {
+    "id": "TS-CH1-V009",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00180"
+    ],
+    "base_snippet_at_review": "སྡུད་པ་པོ་ཞུ་བ་རང་བྱུང་གི་བཀོད་པ་",
+    "comparison_reading": "",
+    "comparison_context": "དེ་ནས་གཅིག་དང་ཐ་མི་དད།",
+    "status": "secure_local_observation",
+    "confidence": "high for main sequence and absence of A inserted phrase at this locus",
+    "locator": "PDF 9; BDRC image 12; printed p. 10; row row1 start, continued from PDF8 row7",
+    "rationale": "The visible main line is de nas gcig dang tha mi dad. A has the additional sdud pa po zhu ba rang byung gi bkod pa sequence between mi and dad. No matching phrase is visible at this inspected main-line junction; margins are not certified exhaustively.",
+    "decision": "Retain governing Adzom reading; comparison-witness evidence only.",
+    "evidence": [
+      "evidence/chapter-01/tsamdrak/p009-left.png",
+      "evidence/chapter-01/tsamdrak/p009-right.png"
+    ],
+    "review": "reviews/chapter-01/tsamdrak-collation.md"
+  },
+  {
+    "id": "TS-CH1-V010",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00181"
+    ],
+    "base_snippet_at_review": "འཁོར་རྣམས་ལས",
+    "comparison_reading": "འཁོར་རྣམས་ཀྱིས",
+    "comparison_context": "རང་བཞིན་དག་པའི་འཁོར་རྣམས་ཀྱིས།",
+    "status": "candidate_unresolved_do_not_adopt_as_settled",
+    "confidence": "moderate",
+    "locator": "PDF 9; BDRC image 12; printed p. 10; row 1",
+    "rationale": "Last particle appears kyis instead of A las; the visible stacked form favors kyis, but independent verification is recommended.",
+    "decision": "Retain governing Adzom reading; comparison-witness evidence only.",
+    "evidence": [
+      "evidence/chapter-01/tsamdrak/p009-left.png",
+      "evidence/chapter-01/tsamdrak/p009-right.png"
+    ],
+    "review": "reviews/chapter-01/tsamdrak-collation.md"
+  },
+  {
+    "id": "TS-CH1-V011",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00187"
+    ],
+    "base_snippet_at_review": "དགོས་པ་ཡང་བྱུང་",
+    "comparison_reading": "",
+    "comparison_context": "འབྱུང་བཞིའི་དགོངས་པ་ཇི་ལྟ་བུ།",
+    "status": "candidate_unresolved_do_not_adopt_as_settled",
+    "confidence": "moderate",
+    "locator": "PDF 9; BDRC image 12; printed p. 10; row 2",
+    "rationale": "The main line is shorter than A; the inserted dgos pa yang byung sequence is not present at the inspected main-line locus. dgongs versus dgos itself needs final glyph check.",
+    "decision": "Retain governing Adzom reading; comparison-witness evidence only.",
+    "evidence": [
+      "evidence/chapter-01/tsamdrak/p009-left.png",
+      "evidence/chapter-01/tsamdrak/p009-right.png"
+    ],
+    "review": "reviews/chapter-01/tsamdrak-collation.md"
+  },
+  {
+    "id": "TS-CH1-V012",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00192"
+    ],
+    "base_snippet_at_review": "འདི་མཚམས་འོག་གི་རང་དང་གཞན་གྱི་དམ་བཅའི་ཞེས་པ་དང་འཕེན་པ་རླུང་སྟེ་ཞེས་པ་གཉིས་ཀྱི་དྲི་བ་མ་བྱུང་",
+    "comparison_reading": "",
+    "comparison_context": "འགྱུར་དང་འགྱུར་བྱེད་གང་དང་གང་།",
+    "status": "secure_local_observation",
+    "confidence": "high for short main-line sequence",
+    "locator": "PDF 9; BDRC image 12; printed p. 10; row 3",
+    "rationale": "The witness directly prints the short question. A contains a long prefixed editorial-looking phrase beginning 'di mtshams 'og gi ...; it is not in this inspected main line. No claim about all marginal text.",
+    "decision": "Retain governing Adzom reading; comparison-witness evidence only.",
+    "evidence": [
+      "evidence/chapter-01/tsamdrak/p009-left.png",
+      "evidence/chapter-01/tsamdrak/p009-right.png"
+    ],
+    "review": "reviews/chapter-01/tsamdrak-collation.md"
+  },
+  {
+    "id": "TS-CH1-V013",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00227"
+    ],
+    "base_snippet_at_review": "བགྱིས",
+    "comparison_reading": "བྱེད",
+    "comparison_context": "སྤོ་བའི་ལས་ནི་གང་གིས་བྱེད།",
+    "status": "secure_local_observation",
+    "confidence": "high",
+    "locator": "PDF 10; BDRC image 13; printed p. 11; row 3",
+    "rationale": "The final printed verb is byed; A has bgyis.",
+    "decision": "Retain governing Adzom reading; comparison-witness evidence only.",
+    "evidence": [
+      "evidence/chapter-01/tsamdrak/p010-left.png",
+      "evidence/chapter-01/tsamdrak/p010-right.png"
+    ],
+    "review": "reviews/chapter-01/tsamdrak-collation.md"
+  },
+  {
+    "id": "TS-CH1-V014",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00252"
+    ],
+    "base_snippet_at_review": "ཅི་ཡིས",
+    "comparison_reading": "གང་གིས",
+    "comparison_context": "འཁོར་བའི་ཆུ་རྒྱུན་གང་གིས་གཅོད།",
+    "status": "secure_local_observation",
+    "confidence": "high",
+    "locator": "PDF 11; BDRC image 14; printed p. 12; row 1",
+    "rationale": "The source phrase after chu rgyun is gang gis; A has ci yis.",
+    "decision": "Retain governing Adzom reading; comparison-witness evidence only.",
+    "evidence": [
+      "evidence/chapter-01/tsamdrak/p011-left.png",
+      "evidence/chapter-01/tsamdrak/p011-right.png"
+    ],
+    "review": "reviews/chapter-01/tsamdrak-collation.md"
+  },
+  {
+    "id": "TS-CH1-V015",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00272"
+    ],
+    "base_snippet_at_review": "རྒྱུད་ཀྱི་ཆེ་བ་རྣམ་པར་བཀོད་པའི་བཀོད་པ་",
+    "comparison_reading": "",
+    "comparison_context": "དེ་ནས་ཁྱབ་བདག་སེམས་དཔའ་ནི།",
+    "status": "secure_local_observation",
+    "confidence": "high for shorter main line",
+    "locator": "PDF 11; BDRC image 14; printed p. 12; row 5",
+    "rationale": "Source goes from de nas directly to khyab bdag sems dpa' ni. A inserts a longer heading-like sequence beginning rgyud kyi che ba. This is absent from the inspected main-line locus, with all-margin absence unproven.",
+    "decision": "Retain governing Adzom reading; comparison-witness evidence only.",
+    "evidence": [
+      "evidence/chapter-01/tsamdrak/p011-left.png",
+      "evidence/chapter-01/tsamdrak/p011-right.png"
+    ],
+    "review": "reviews/chapter-01/tsamdrak-collation.md"
+  },
+  {
+    "id": "TS-CH1-V016",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00287"
+    ],
+    "base_snippet_at_review": "པ",
+    "comparison_reading": "པའི",
+    "comparison_context": "སངས་རྒྱས་རྣམས་ཀྱིས་མ་གསུངས་པའི།",
+    "status": "candidate_unresolved_do_not_adopt_as_settled",
+    "confidence": "moderate",
+    "locator": "PDF 12; BDRC image 15; printed p. 13; row 1",
+    "rationale": "Terminal pa'i is favored by the visible vowel sign, against A pa; narrow confirmation required.",
+    "decision": "Retain governing Adzom reading; comparison-witness evidence only.",
+    "evidence": [
+      "evidence/chapter-01/tsamdrak/p012-left.png",
+      "evidence/chapter-01/tsamdrak/p012-right2.png"
+    ],
+    "review": "reviews/chapter-01/tsamdrak-collation.md"
+  },
+  {
+    "id": "TS-CH1-V017",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00293"
+    ],
+    "base_snippet_at_review": "དོན་གྱིས",
+    "comparison_reading": "དོན་དུ",
+    "comparison_context": "ཆོས་ཀྱི་མེ་ལོང་དོན་དུ་སྡུད།",
+    "status": "secure_local_observation",
+    "confidence": "high for don du",
+    "locator": "PDF 12; BDRC image 15; printed p. 13; row 3",
+    "rationale": "Source has don du against A don gyis. Main clause inspected in native left-half image.",
+    "decision": "Retain governing Adzom reading; comparison-witness evidence only.",
+    "evidence": [
+      "evidence/chapter-01/tsamdrak/p012-left.png",
+      "evidence/chapter-01/tsamdrak/p012-right2.png"
+    ],
+    "review": "reviews/chapter-01/tsamdrak-collation.md"
+  },
+  {
+    "id": "TS-CH1-V018",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00317"
+    ],
+    "base_snippet_at_review": "དྲི་བ་བདུན་ཅུ་ཟེར་ཀྱང་དོན་དྲུག་པར་ཡོད།",
+    "comparison_reading": "",
+    "comparison_context": "",
+    "status": "secure_local_observation",
+    "confidence": "high for absence at junction",
+    "locator": "PDF 13; BDRC image 16; printed p. 14; row 1",
+    "rationale": "The witness proceeds directly from the phrase corresponding to U316 to U319. The A question-count note U317 is not present at this main-line junction; exhaustive margin absence not certified.",
+    "decision": "Retain governing Adzom reading; comparison-witness evidence only.",
+    "evidence": [
+      "evidence/chapter-01/tsamdrak/p013-left.png",
+      "evidence/chapter-01/tsamdrak/p013-right.png"
+    ],
+    "review": "reviews/chapter-01/tsamdrak-collation.md"
+  },
+  {
+    "id": "TS-CH1-V019",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00318"
+    ],
+    "base_snippet_at_review": "དྲིས་ལན་དང་པོ།",
+    "comparison_reading": "",
+    "comparison_context": "",
+    "status": "secure_local_observation",
+    "confidence": "high for absence at junction",
+    "locator": "PDF 13; BDRC image 16; printed p. 14; row 1",
+    "rationale": "No dris lan dang po heading between corresponding U316 and U319; source has punctuation/spacing before U319.",
+    "decision": "Retain governing Adzom reading; comparison-witness evidence only.",
+    "evidence": [
+      "evidence/chapter-01/tsamdrak/p013-left.png",
+      "evidence/chapter-01/tsamdrak/p013-right.png"
+    ],
+    "review": "reviews/chapter-01/tsamdrak-collation.md"
+  },
+  {
+    "id": "TS-CH1-V020",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00328"
+    ],
+    "base_snippet_at_review": "སེལ་བ་སྤེལ་ཡང་བྱུང",
+    "comparison_reading": "སྤེལ་བ",
+    "comparison_context": "མེས་ནི་འབྱུང་བ་སྤེལ་བ་དང་།",
+    "status": "candidate_unresolved_do_not_adopt_as_settled",
+    "confidence": "moderate",
+    "locator": "PDF 13; BDRC image 16; printed p. 14; row 3",
+    "rationale": "Source appears spel ba and has no following spel yang byung insertion of A at this main-line locus. spel versus sel requires one more narrow check before a settled record.",
+    "decision": "Retain governing Adzom reading; comparison-witness evidence only.",
+    "evidence": [
+      "evidence/chapter-01/tsamdrak/p013-left.png",
+      "evidence/chapter-01/tsamdrak/p013-right.png"
+    ],
+    "review": "reviews/chapter-01/tsamdrak-collation.md"
+  },
+  {
+    "id": "TS-CH1-V021",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00344"
+    ],
+    "base_snippet_at_review": "དྲིས་ལན་གཉིས་པ།",
+    "comparison_reading": "",
+    "comparison_context": "",
+    "status": "secure_local_observation",
+    "confidence": "high for absence at junction",
+    "locator": "PDF 13; BDRC image 16; printed p. 14; row 6",
+    "rationale": "After the U343 phrase, source proceeds to yan lag don ni 'di lta bu (U345), without the A dris lan gnyis pa heading in the visible main-line space.",
+    "decision": "Retain governing Adzom reading; comparison-witness evidence only.",
+    "evidence": [
+      "evidence/chapter-01/tsamdrak/p013-left.png",
+      "evidence/chapter-01/tsamdrak/p013-right.png"
+    ],
+    "review": "reviews/chapter-01/tsamdrak-collation.md"
+  },
+  {
+    "id": "TK-001",
+    "witness": "Tingkye",
+    "units": [
+      "U00013"
+    ],
+    "base_snippet_at_review": "ཐོག་མར་ནི",
+    "comparison_reading": "ཐོག་མར",
+    "status": "previously_supported_reinspected",
+    "confidence": "previously_supported_reinspected",
+    "locator": "PDF 1; BDRC image 394; printed p. 386; row 7",
+    "rationale": "Observed local form differs from the Adzom comparison snippet. This records the variant, not a reconstruction or a correction of Tingkye.",
+    "decision": "Retain the independently attested Adzom base reading; a comparison-witness variant alone does not authorize changing a diplomatic base.",
+    "evidence": [
+      "evidence/chapter-01/tingkye/p001-root-right.png"
+    ],
+    "review": "reviews/chapter-01/tingkye-collation.md"
+  },
+  {
+    "id": "TK-002",
+    "witness": "Tingkye",
+    "units": [
+      "U00014"
+    ],
+    "base_snippet_at_review": "མེད་པ་ལས",
+    "comparison_reading": "མེད་པ་ལ",
+    "status": "previously_supported_reinspected",
+    "confidence": "previously_supported_reinspected",
+    "locator": "PDF 1; BDRC image 394; printed p. 386; row 7",
+    "rationale": "Observed local form differs from the Adzom comparison snippet. This records the variant, not a reconstruction or a correction of Tingkye.",
+    "decision": "Retain the independently attested Adzom base reading; a comparison-witness variant alone does not authorize changing a diplomatic base.",
+    "evidence": [
+      "evidence/chapter-01/tingkye/p001-root-right.png"
+    ],
+    "review": "reviews/chapter-01/tingkye-collation.md"
+  },
+  {
+    "id": "TK-003",
+    "witness": "Tingkye",
+    "units": [
+      "U00019"
+    ],
+    "base_snippet_at_review": "རིག་པས",
+    "comparison_reading": "རིག་པ",
+    "status": "supported_by_second_reading_reinspected",
+    "confidence": "supported_by_second_reading_reinspected",
+    "locator": "PDF 2; BDRC image 395; printed p. 387; row 1",
+    "rationale": "Prior focused second reading resolved the suffix locally; current native page inspection is consistent with it.",
+    "decision": "Retain the independently attested Adzom base reading; a comparison-witness variant alone does not authorize changing a diplomatic base.",
+    "evidence": [
+      "evidence/chapter-01/tingkye/p002-r1-right.png"
+    ],
+    "review": "reviews/chapter-01/tingkye-collation.md"
+  },
+  {
+    "id": "TK-004",
+    "witness": "Tingkye",
+    "units": [
+      "U00022"
+    ],
+    "base_snippet_at_review": "ཡེ་ཤེས་ཤེས་རབ",
+    "comparison_reading": "ཡེ་ཤེས་རབ",
+    "status": "previously_supported_reinspected",
+    "confidence": "previously_supported_reinspected",
+    "locator": "PDF 2; BDRC image 395; printed p. 387; row 2",
+    "rationale": "Observed local form differs from the Adzom comparison snippet. This records the variant, not a reconstruction or a correction of Tingkye.",
+    "decision": "Retain the independently attested Adzom base reading; a comparison-witness variant alone does not authorize changing a diplomatic base.",
+    "evidence": [
+      "evidence/chapter-01/tingkye/p002-r2-left.png"
+    ],
+    "review": "reviews/chapter-01/tingkye-collation.md"
+  },
+  {
+    "id": "TK-005",
+    "witness": "Tingkye",
+    "units": [
+      "U00023"
+    ],
+    "base_snippet_at_review": "དམིགས་མེད་པས",
+    "comparison_reading": "དམིགས་མེད་པ",
+    "status": "previously_supported_reinspected",
+    "confidence": "previously_supported_reinspected",
+    "locator": "PDF 2; BDRC image 395; printed p. 387; row 2",
+    "rationale": "Observed local form differs from the Adzom comparison snippet. This records the variant, not a reconstruction or a correction of Tingkye.",
+    "decision": "Retain the independently attested Adzom base reading; a comparison-witness variant alone does not authorize changing a diplomatic base.",
+    "evidence": [
+      "evidence/chapter-01/tingkye/p002-r2-right.png"
+    ],
+    "review": "reviews/chapter-01/tingkye-collation.md"
+  },
+  {
+    "id": "TK-006",
+    "witness": "Tingkye",
+    "units": [
+      "U00027"
+    ],
+    "base_snippet_at_review": "ཡོངས་སུ་མེད",
+    "comparison_reading": "ཡོངས་མེད",
+    "status": "previously_supported_reinspected",
+    "confidence": "previously_supported_reinspected",
+    "locator": "PDF 2; BDRC image 395; printed p. 387; row 3",
+    "rationale": "Observed local form differs from the Adzom comparison snippet. This records the variant, not a reconstruction or a correction of Tingkye.",
+    "decision": "Retain the independently attested Adzom base reading; a comparison-witness variant alone does not authorize changing a diplomatic base.",
+    "evidence": [
+      "evidence/chapter-01/tingkye/p002-r3-left.png"
+    ],
+    "review": "reviews/chapter-01/tingkye-collation.md"
+  },
+  {
+    "id": "TK-007",
+    "witness": "Tingkye",
+    "units": [
+      "U00031"
+    ],
+    "base_snippet_at_review": "དགའ་དང་ལྡན་པ",
+    "comparison_reading": "དགའ་ལྡན་པའི",
+    "status": "new_local_reading_independent_review_needed",
+    "confidence": "new_local_reading_independent_review_needed",
+    "locator": "PDF 2; BDRC image 395; printed p. 387; row 3",
+    "rationale": "Observed local form differs from the Adzom comparison snippet. This records the variant, not a reconstruction or a correction of Tingkye.",
+    "decision": "Retain the independently attested Adzom base reading; a comparison-witness variant alone does not authorize changing a diplomatic base.",
+    "evidence": [
+      "evidence/chapter-01/tingkye/p002-u31.png"
+    ],
+    "review": "reviews/chapter-01/tingkye-collation.md"
+  },
+  {
+    "id": "TK-008",
+    "witness": "Tingkye",
+    "units": [
+      "U00044"
+    ],
+    "base_snippet_at_review": "གཟུགས་སུ་སྤྲུལ",
+    "comparison_reading": "གཟུགས་སྤྲུལ",
+    "status": "new_local_reading_independent_review_needed",
+    "confidence": "new_local_reading_independent_review_needed",
+    "locator": "PDF 2; BDRC image 395; printed p. 387; row 6",
+    "rationale": "Observed local form differs from the Adzom comparison snippet. This records the variant, not a reconstruction or a correction of Tingkye.",
+    "decision": "Retain the independently attested Adzom base reading; a comparison-witness variant alone does not authorize changing a diplomatic base.",
+    "evidence": [
+      "evidence/chapter-01/tingkye/p002-u44.png"
+    ],
+    "review": "reviews/chapter-01/tingkye-collation.md"
+  },
+  {
+    "id": "TK-009",
+    "witness": "Tingkye",
+    "units": [
+      "U00052"
+    ],
+    "base_snippet_at_review": "ཟང་ཐལ་དྲི་མ་མེད་པའི",
+    "comparison_reading": "ཟང་ཐལ་དྲི་མེད་པའི",
+    "status": "new_local_reading_independent_review_needed",
+    "confidence": "new_local_reading_independent_review_needed",
+    "locator": "PDF 2; BDRC image 395; printed p. 387; row 7",
+    "rationale": "Only the portion visible at the end of this page is quoted. Terminal སྐུ is on the uncollated next page and is not supplied here.",
+    "decision": "Retain the independently attested Adzom base reading; a comparison-witness variant alone does not authorize changing a diplomatic base.",
+    "evidence": [
+      "evidence/chapter-01/tingkye/p002-u52-context.png"
+    ],
+    "review": "reviews/chapter-01/tingkye-collation.md"
+  },
+  {
+    "id": "TK-010",
+    "witness": "Tingkye",
+    "units": [
+      "U02633"
+    ],
+    "base_snippet_at_review": "ཆོས་ཉིད་དབྱིངས་ལས",
+    "comparison_reading": "ཆོས་ཀྱི་དབྱིངས་ལས",
+    "status": "new_local_reading_independent_review_needed",
+    "confidence": "new_local_reading_independent_review_needed",
+    "locator": "PDF 69; BDRC image 462; printed p. 454; row 3",
+    "rationale": "Observed local form differs from the Adzom comparison snippet. This records the variant, not a reconstruction or a correction of Tingkye.",
+    "decision": "Retain the independently attested Adzom base reading; a comparison-witness variant alone does not authorize changing a diplomatic base.",
+    "evidence": [
+      "evidence/chapter-01/tingkye/p069-u2633.png"
+    ],
+    "review": "reviews/chapter-01/tingkye-collation.md"
+  },
+  {
+    "id": "TH-C1-0001",
+    "witness": "Tharpaling",
+    "units": [
+      "U00004"
+    ],
+    "base_snippet_at_review": "[Layer/front-title comparison; not an exact Adzom snippet.]",
+    "comparison_reading": "རྫོགས་པ་ཆེན་པོ་⟦unresolved title continuation⟧",
+    "B_transcript_context": "initial supplied title has རིན་པོ་ཆེ...",
+    "status": "secure initial phrase only; complete title unresolved",
+    "confidence": "secure initial phrase only; complete title unresolved",
+    "locator": "PDF 1; BDRC image 5; row 1",
+    "rationale": "Only the initial title phrase is securely read; do not substitute the complete supplied transcript title for the unread physical title.",
+    "decision": "Retain the Adzom base with its own documented uncertainties. Preserve this comparison-print finding; unresolved letters are not conjecturally supplied.",
+    "evidence": [
+      "evidence/chapter-01/tharpaling/crops/p001-half0.png",
+      "evidence/chapter-01/tharpaling/crops/p001-half1.png"
+    ],
+    "review": "reviews/chapter-01/tharpaling-collation.md"
+  },
+  {
+    "id": "TH-C1-0002",
+    "witness": "Tharpaling",
+    "units": [
+      "U00012"
+    ],
+    "base_snippet_at_review": "ཐོས",
+    "comparison_reading": "བསྟན",
+    "B_transcript_context": "བསྟན",
+    "status": "scan supports B lexical variant locally",
+    "confidence": "scan supports B lexical variant locally",
+    "locator": "PDF 2; BDRC image 6; row 2",
+    "rationale": "Record Tharpaling variant; retain Adzom facsimile reading in Adzom diplomatic base.",
+    "decision": "Retain the Adzom base with its own documented uncertainties. Preserve this comparison-print finding; unresolved letters are not conjecturally supplied.",
+    "evidence": [
+      "evidence/chapter-01/tharpaling/crops/p002-u12.png"
+    ],
+    "review": "reviews/chapter-01/tharpaling-collation.md"
+  },
+  {
+    "id": "TH-C1-0003",
+    "witness": "Tharpaling",
+    "units": [
+      "U00017",
+      "U00011"
+    ],
+    "base_snippet_at_review": "[Layer/front-title comparison; not an exact Adzom snippet.]",
+    "comparison_reading": null,
+    "B_transcript_context": "heading linearized between དབུས་སུ and རླུང་སེམས",
+    "status": "small heading visually distinct from main line; exact wording unresolved",
+    "confidence": "small heading visually distinct from main line; exact wording unresolved",
+    "locator": "PDF 2; BDRC image 6; row 3",
+    "rationale": "Separate source annotation layer from main verse; no plain main-text insertion.",
+    "decision": "Retain the Adzom base with its own documented uncertainties. Preserve this comparison-print finding; unresolved letters are not conjecturally supplied.",
+    "evidence": [
+      "evidence/chapter-01/tharpaling/crops/p002-heading.png"
+    ],
+    "review": "reviews/chapter-01/tharpaling-collation.md"
+  },
+  {
+    "id": "TH-C1-0004",
+    "witness": "Tharpaling",
+    "units": [
+      "U00022"
+    ],
+    "base_snippet_at_review": "ཤེས་རབ",
+    "comparison_reading": "ཤེས་རང",
+    "B_transcript_context": "ཤེས་རང",
+    "status": "scan supports B lexical variant locally",
+    "confidence": "scan supports B lexical variant locally",
+    "locator": "PDF 2; BDRC image 6; row 4",
+    "rationale": "Do not treat the B reading as an e-text typo: the print supports རང. Preserve the Adzom reading under base policy.",
+    "decision": "Retain the Adzom base with its own documented uncertainties. Preserve this comparison-print finding; unresolved letters are not conjecturally supplied.",
+    "evidence": [
+      "evidence/chapter-01/tharpaling/crops/p002-u22.png"
+    ],
+    "review": "reviews/chapter-01/tharpaling-collation.md"
+  },
+  {
+    "id": "DZ-OPEN-01",
+    "witness": "Dzongsar",
+    "units": [
+      "U00001",
+      "U00002",
+      "U00003",
+      "U00004"
+    ],
+    "base_snippet_at_review": "Standalone Sanskrit and Tibetan title-page text.",
+    "comparison_reading": "Blank framed main panel; a marginal title label is present. The running Tibetan title appears on PDF2.",
+    "status": "paratext-structure",
+    "confidence": "high",
+    "locator": "PDF 1; BDRC image 5; row front matter",
+    "rationale": "This records only the observed local wording or layout; the rest of the witness is not thereby certified.",
+    "decision": "Keep base title-page text; document different front matter.",
+    "evidence": [
+      "evidence/chapter-01/dzongsar/p001-0.png",
+      "evidence/chapter-01/dzongsar/p001-1.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-collation.md"
+  },
+  {
+    "id": "DZ-OPEN-02",
+    "witness": "Dzongsar",
+    "units": [
+      "U00005",
+      "U00006"
+    ],
+    "base_snippet_at_review": "Invocatory gaM... and Sanskrit title.",
+    "comparison_reading": null,
+    "status": "unresolved-reading",
+    "confidence": "unresolved",
+    "locator": "PDF 2; BDRC image 6; row 1–2",
+    "rationale": "The small Sanskrit syllable group before rgya gar skad du and exact Sanskrit stack/vowel spellings have not been read securely enough to certify; do not import base readings as witness agreement.",
+    "decision": "Retain the Adzom working base. The comparison reading is unresolved and cannot justify a substitution.",
+    "evidence": [
+      "evidence/chapter-01/dzongsar/p002-0.png",
+      "evidence/chapter-01/dzongsar/p002-1.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-collation.md"
+  },
+  {
+    "id": "DZ-OPEN-03",
+    "witness": "Dzongsar",
+    "units": [
+      "U00011",
+      "U00012"
+    ],
+    "base_snippet_at_review": "In the Adzom displayed unit order, U11 precedes U12. This is editorial/semantic ordering, not a claim about the Adzom printed page layout.",
+    "comparison_reading": "The small heading thun mong ma yin pa'i gleng gzhi bkod pa is placed after the large main-text 'di (the first syllable of U12); skad continues at the start of PDF3.",
+    "status": "manuscript-heading-layout",
+    "confidence": "high",
+    "locator": "PDF 2; BDRC image 6; row 4",
+    "rationale": "Focused crop resolves earlier apparent 'di ni addition: it is large main 'di plus small heading, with a dotted leader. There is no secure extra ni.",
+    "decision": "Record Dzongsar physical interleaving. No cross-witness textual difference is established by the displayed unit order.",
+    "evidence": [
+      "evidence/chapter-01/dzongsar/p002-heading.png",
+      "evidence/chapter-01/dzongsar/p003-0.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-collation.md"
+  },
+  {
+    "id": "DZ-OPEN-04",
+    "witness": "Dzongsar",
+    "units": [
+      "U00029"
+    ],
+    "base_snippet_at_review": "In the Adzom displayed unit order, U29 precedes U30. This is editorial/semantic ordering, not a claim about the Adzom printed page layout.",
+    "comparison_reading": "Small heading thun mong gi gleng gzhi bkod pa appears after U32, before U33, in physical reading order.",
+    "status": "manuscript-heading-layout",
+    "confidence": "high",
+    "locator": "PDF 4; BDRC image 8; row 4",
+    "rationale": "This records only the observed local wording or layout; the rest of the witness is not thereby certified.",
+    "decision": "Record Dzongsar physical heading placement; it is not evidence of a main-text transposition.",
+    "evidence": [
+      "evidence/chapter-01/dzongsar/p004-0.png",
+      "evidence/chapter-01/dzongsar/p004-1.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-collation.md"
+  },
+  {
+    "id": "DZ-P011-01",
+    "witness": "Dzongsar",
+    "units": [
+      "U00180"
+    ],
+    "base_snippet_at_review": "Corrected base main: de nas gcig dang tha mi dad. Small linked heading begins sdud pa po.",
+    "comparison_reading": "Main line4: དེ་ནས་གཅིག་དང་ཐ་མི་དད། (de nas gcig dang tha mi dad). The dotted leader points to the smaller heading beginning sdud pa po on line5.",
+    "status": "paratext-layer-agreement",
+    "confidence": "high",
+    "locator": "PDF 11; BDRC image 15; row 4–5",
+    "rationale": "This records only the observed local wording or layout; the rest of the witness is not thereby certified.",
+    "decision": "Retain the main/heading separation. Focused recheck corrects the initial checkpoint prose, which erroneously placed sdud in main text; no main-text difference at this locus.",
+    "evidence": [
+      "evidence/chapter-01/dzongsar/p011-notes.png",
+      "evidence/chapter-01/dzongsar/p011-u180-main.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-collation.md"
+  },
+  {
+    "id": "DZ-P011-02",
+    "witness": "Dzongsar",
+    "units": [
+      "U00187"
+    ],
+    "base_snippet_at_review": "Main dgongs pa; separate dgos pa yang byung.",
+    "comparison_reading": "Main 'byung bzhi'i dgongs ... pa ji lta bu; smaller dgos pa yang byung between dgongs and pa, linked by dots.",
+    "status": "main-and-variant-note-agreement",
+    "confidence": "high",
+    "locator": "PDF 11; BDRC image 15; row 6",
+    "rationale": "This records only the observed local wording or layout; the rest of the witness is not thereby certified.",
+    "decision": "Retain base main dgongs. This witnesses a separate printed/manuscript alternative, not a main-text dgos reading.",
+    "evidence": [
+      "evidence/chapter-01/dzongsar/p011-notes.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-collation.md"
+  },
+  {
+    "id": "DZ-P012-01",
+    "witness": "Dzongsar",
+    "units": [
+      "U00192"
+    ],
+    "base_snippet_at_review": "The note beginning 'di mtshams 'og gi rang dang gzhan gyi dam bca'i ...",
+    "comparison_reading": "A small note with this beginning is present and linked by dotted leader above main 'gyur dang 'gyur byed gang dang gang.",
+    "status": "note-present-not-fully-collated",
+    "confidence": "high-for-presence-unresolved-full-transcription",
+    "locator": "PDF 12; BDRC image 16; row upper margin above line1",
+    "rationale": "This records only the observed local wording or layout; the rest of the witness is not thereby certified.",
+    "decision": "Do not count complete note wording as agreement until independently transcribed.",
+    "evidence": [
+      "evidence/chapter-01/dzongsar/p012-0.png",
+      "evidence/chapter-01/dzongsar/p012-1.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-collation.md"
+  },
+  {
+    "id": "DZ-P015-01",
+    "witness": "Dzongsar",
+    "units": [
+      "U00272"
+    ],
+    "base_snippet_at_review": "The Adzom source-unit U272 interleaves the heading between de nas and khyab bdag; corrected displayed reading separates it. This statement concerns unit ordering, not Adzom physical print placement.",
+    "comparison_reading": "Main de nas khyab bdag sems dpa' ni occurs in line4. Small heading rgyud kyi che ba rnam par bkod pa'i bkod pa is physically after U275 bris zhing bkod pa ma yin par, before U276 yan lag drug cu'i dbyangs ldan te.",
+    "status": "manuscript-heading-layout",
+    "confidence": "high",
+    "locator": "PDF 15; BDRC image 19; row 5",
+    "rationale": "This records only the observed local wording or layout; the rest of the witness is not thereby certified.",
+    "decision": "Record manuscript physical heading placement; no cross-witness textual difference follows solely from the displayed unit order.",
+    "evidence": [
+      "evidence/chapter-01/dzongsar/p015-heading.png",
+      "evidence/chapter-01/dzongsar/p015-1.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-collation.md"
+  },
+  {
+    "id": "DZ-P004-01",
+    "witness": "Dzongsar",
+    "units": [
+      "U00039"
+    ],
+    "base_snippet_at_review": "Corrected main stong dang ldan pa dbus ma'i gnas; source e-text had stod.",
+    "comparison_reading": "སྟོང་དང་ལྡན་པ་དབུས་མའི་གནས། (stong dang ldan pa dbus ma'i gnas)",
+    "status": "main-reading-agreement-with-corrected-base",
+    "confidence": "high",
+    "locator": "PDF 4; BDRC image 8; row 6",
+    "rationale": "This records only the observed local wording or layout; the rest of the witness is not thereby certified.",
+    "decision": "Supports corrected Adzom stong; do not treat uncorrected source-e-text stod as the base reading.",
+    "evidence": [
+      "evidence/chapter-01/dzongsar/p004-u39.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-collation.md"
+  }
+]

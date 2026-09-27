@@ -1,0 +1,627 @@
+{
+  "witness": "Dzongsar manuscript MW3PD988_0F57E0, volume I3PD1345",
+  "scope": "Continuous lexical collation of native facsimile images against the proofread Adzom reading, aided by source-units Wylie. This is not exhaustive punctuation/tsheg certification or a complete transcription of portrait captions. Manuscript PDF page N = BDRC image N+4. No repository edits. Checkpoint requested by coordinating agent after completing PDF15; this is not a finding that later Dzongsar pages are illegible. Main text was compared through U279; exact punctuation and all paratext were not certified.",
+  "boundary": {
+    "pdf_page": 121,
+    "bdrc_image": 125,
+    "unit": "U02635",
+    "description": "The actual Chapter 1 colophon corresponding to U2634–U2635 is on PDF121 (BDRC image125), lines4–5. The Chapter2 opening de nas lha dbang rtog pa med follows the divider in line5. Boundary identified by reading, not page-count interpolation.",
+    "evidence": [
+      "evidence/chapter-01/dzongsar/p121-0.png",
+      "evidence/chapter-01/dzongsar/p121-1.png",
+      "evidence/chapter-01/dzongsar/p121-colophon.png"
+    ],
+    "chapter1_start_on_boundary_page": "U02622 yon tan thams cad rang rdzogs pas",
+    "preceding_page_endpoint": "PDF120 ends with U02621 ston pa sangs rgyas bcom ldan 'das"
+  },
+  "pages": [
+    {
+      "pdf_page": 1,
+      "start": "prefatory",
+      "end": "prefatory",
+      "status": "continuous-lexical-comparison",
+      "detail": "Blank framed panel; marginal title. No continuous title text corresponding to Adzom title-page U1–4.",
+      "evidence": [
+        "evidence/chapter-01/dzongsar/p001-0.png",
+        "evidence/chapter-01/dzongsar/p001-1.png"
+      ]
+    },
+    {
+      "pdf_page": 2,
+      "start": "U00005",
+      "end": "U00012 ('di)",
+      "status": "compared-with-unresolved-span",
+      "detail": "Sanskrit invocatory/title syllables unresolved; Tibetan U7–10 and heading U11 compared. U12 begins with large 'di before the small heading; it continues skad on PDF3. Portrait captions not transcribed.",
+      "evidence": [
+        "evidence/chapter-01/dzongsar/p002-0.png",
+        "evidence/chapter-01/dzongsar/p002-1.png"
+      ]
+    },
+    {
+      "pdf_page": 3,
+      "start": "U00012 (skad)",
+      "end": "U00019 (through rig)",
+      "status": "continuous-lexical-comparison",
+      "detail": "Main text lexical comparison; no observed difference.",
+      "evidence": [
+        "evidence/chapter-01/dzongsar/p003-0.png",
+        "evidence/chapter-01/dzongsar/p003-1.png"
+      ]
+    },
+    {
+      "pdf_page": 4,
+      "start": "U00019 (pas)",
+      "end": "U00040 (through thams cad)",
+      "status": "continuous-lexical-comparison",
+      "detail": "Main text compared; heading U29 appears physically after U32.",
+      "evidence": [
+        "evidence/chapter-01/dzongsar/p004-0.png",
+        "evidence/chapter-01/dzongsar/p004-1.png"
+      ]
+    },
+    {
+      "pdf_page": 5,
+      "start": "U00040 (rdzogs pa yi)",
+      "end": "U00060",
+      "status": "continuous-lexical-comparison",
+      "detail": "Main text lexical comparison; no observed difference.",
+      "evidence": [
+        "evidence/chapter-01/dzongsar/p005-0.png",
+        "evidence/chapter-01/dzongsar/p005-1.png"
+      ]
+    },
+    {
+      "pdf_page": 6,
+      "start": "U00061",
+      "end": "U00083 (de tshe)",
+      "status": "continuous-lexical-comparison",
+      "detail": "Main text lexical comparison; no observed difference.",
+      "evidence": [
+        "evidence/chapter-01/dzongsar/p006-0.png",
+        "evidence/chapter-01/dzongsar/p006-1.png"
+      ]
+    },
+    {
+      "pdf_page": 7,
+      "start": "U00083 (mdzad pa)",
+      "end": "U00104 (chos kyi sku la)",
+      "status": "continuous-lexical-comparison",
+      "detail": "Main text lexical comparison; no observed difference.",
+      "evidence": [
+        "evidence/chapter-01/dzongsar/p007-0.png",
+        "evidence/chapter-01/dzongsar/p007-1.png"
+      ]
+    },
+    {
+      "pdf_page": 8,
+      "start": "U00104 (nges brgyud de)",
+      "end": "U00126 (so so'i sgra dbyangs)",
+      "status": "continuous-lexical-comparison",
+      "detail": "Main text lexical comparison; no observed difference.",
+      "evidence": [
+        "evidence/chapter-01/dzongsar/p008-0.png",
+        "evidence/chapter-01/dzongsar/p008-1.png"
+      ]
+    },
+    {
+      "pdf_page": 9,
+      "start": "U00126 (stong phrag brgyad)",
+      "end": "U00146 (through nges)",
+      "status": "continuous-lexical-comparison",
+      "detail": "No observed main lexical difference.",
+      "evidence": [
+        "evidence/chapter-01/dzongsar/p009-0.png",
+        "evidence/chapter-01/dzongsar/p009-1.png"
+      ]
+    },
+    {
+      "pdf_page": 10,
+      "start": "U00146 (par bsdus)",
+      "end": "U00168",
+      "status": "continuous-lexical-comparison",
+      "detail": "No observed main lexical difference.",
+      "evidence": [
+        "evidence/chapter-01/dzongsar/p010-0.png",
+        "evidence/chapter-01/dzongsar/p010-1.png"
+      ]
+    },
+    {
+      "pdf_page": 11,
+      "start": "U00169",
+      "end": "U00190 (through ci tsam)",
+      "status": "continuous-lexical-comparison",
+      "detail": "Main text compared. U180 question heading is smaller and linked by dots; U187 has main dgongs and small dgos pa yang byung.",
+      "evidence": [
+        "evidence/chapter-01/dzongsar/p011-0.png",
+        "evidence/chapter-01/dzongsar/p011-1.png"
+      ]
+    },
+    {
+      "pdf_page": 12,
+      "start": "U00190 (zhig)",
+      "end": "U00214",
+      "status": "continuous-lexical-comparison",
+      "detail": "Main text compared. Small marginal note at U192 is present but its exact complete wording is not certified in this pass.",
+      "evidence": [
+        "evidence/chapter-01/dzongsar/p012-0.png",
+        "evidence/chapter-01/dzongsar/p012-1.png"
+      ]
+    },
+    {
+      "pdf_page": 13,
+      "start": "U00215",
+      "end": "U00235 (through gang gis)",
+      "status": "continuous-lexical-comparison",
+      "detail": "No observed main lexical difference.",
+      "evidence": [
+        "evidence/chapter-01/dzongsar/p013-0.png",
+        "evidence/chapter-01/dzongsar/p013-1.png"
+      ]
+    },
+    {
+      "pdf_page": 14,
+      "start": "U00235 (bcad)",
+      "end": "U00258 ('phags pa'i)",
+      "status": "continuous-lexical-comparison",
+      "detail": "No observed main lexical difference.",
+      "evidence": [
+        "evidence/chapter-01/dzongsar/p014-0.png",
+        "evidence/chapter-01/dzongsar/p014-1.png"
+      ]
+    },
+    {
+      "pdf_page": 15,
+      "start": "U00258 (rdzu 'phrul...)",
+      "end": "U00279",
+      "status": "continuous-lexical-comparison",
+      "detail": "Main text compared. U272 heading physically appears after U275, before U276.",
+      "evidence": [
+        "evidence/chapter-01/dzongsar/p015-0.png",
+        "evidence/chapter-01/dzongsar/p015-1.png"
+      ]
+    },
+    {
+      "pdf_page": 16,
+      "status": "extracted-not-inspected",
+      "detail": "Image extracted for continuation; no visual comparison undertaken before checkpoint."
+    },
+    {
+      "pdf_page": 17,
+      "status": "extracted-not-inspected",
+      "detail": "Image extracted for continuation; no visual comparison undertaken before checkpoint."
+    },
+    {
+      "pdf_page": 100,
+      "status": "boundary-search-only",
+      "detail": "Not collated continuously."
+    },
+    {
+      "pdf_page": 110,
+      "status": "boundary-search-only",
+      "detail": "Not collated continuously."
+    },
+    {
+      "pdf_page": 120,
+      "status": "boundary-search-only",
+      "detail": "Not collated continuously."
+    },
+    {
+      "pdf_page": 121,
+      "status": "boundary-search-only",
+      "detail": "Not collated continuously."
+    },
+    {
+      "pdf_page": 122,
+      "status": "boundary-search-only",
+      "detail": "Not collated continuously."
+    },
+    {
+      "pdf_page": 123,
+      "status": "extracted-not-inspected",
+      "detail": "Created during boundary search but not visually examined or collated."
+    },
+    {
+      "pdf_page": 124,
+      "status": "extracted-not-inspected",
+      "detail": "Created during boundary search but not visually examined or collated."
+    },
+    {
+      "pdf_page": 130,
+      "status": "boundary-search-only",
+      "detail": "Not collated continuously."
+    }
+  ],
+  "observations": [
+    {
+      "id": "DZ-OPEN-01",
+      "unit": "U00001–U00004",
+      "pdf_page": 1,
+      "type": "paratext-structure",
+      "adzom": "Standalone Sanskrit and Tibetan title-page text.",
+      "dzongsar": "Blank framed main panel; a marginal title label is present. The running Tibetan title appears on PDF2.",
+      "confidence": "high",
+      "action": "Keep base title-page text; document different front matter."
+    },
+    {
+      "id": "DZ-OPEN-02",
+      "unit": "U00005–U00006",
+      "pdf_page": 2,
+      "line": "1–2",
+      "type": "unresolved-reading",
+      "adzom": "Invocatory gaM... and Sanskrit title.",
+      "dzongsar": null,
+      "confidence": "unresolved",
+      "reason": "The small Sanskrit syllable group before rgya gar skad du and exact Sanskrit stack/vowel spellings have not been read securely enough to certify; do not import base readings as witness agreement.",
+      "needed": "Independent reading of PDF2 line1 and beginning of line2, native image; Sanskrit/Tibetan palaeographic check."
+    },
+    {
+      "id": "DZ-OPEN-03",
+      "unit": "U00011 / U00012",
+      "pdf_page": 2,
+      "line": 4,
+      "type": "manuscript-heading-layout",
+      "adzom": "In the Adzom displayed unit order, U11 precedes U12. This is editorial/semantic ordering, not a claim about the Adzom printed page layout.",
+      "dzongsar": "The small heading thun mong ma yin pa'i gleng gzhi bkod pa is placed after the large main-text 'di (the first syllable of U12); skad continues at the start of PDF3.",
+      "confidence": "high",
+      "reason": "Focused crop resolves earlier apparent 'di ni addition: it is large main 'di plus small heading, with a dotted leader. There is no secure extra ni.",
+      "action": "Record Dzongsar physical interleaving. No cross-witness textual difference is established by the displayed unit order.",
+      "evidence": [
+        "evidence/chapter-01/dzongsar/p002-heading.png",
+        "evidence/chapter-01/dzongsar/p003-0.png"
+      ]
+    },
+    {
+      "id": "DZ-OPEN-04",
+      "unit": "U00029",
+      "pdf_page": 4,
+      "line": 4,
+      "type": "manuscript-heading-layout",
+      "adzom": "In the Adzom displayed unit order, U29 precedes U30. This is editorial/semantic ordering, not a claim about the Adzom printed page layout.",
+      "dzongsar": "Small heading thun mong gi gleng gzhi bkod pa appears after U32, before U33, in physical reading order.",
+      "confidence": "high",
+      "action": "Record Dzongsar physical heading placement; it is not evidence of a main-text transposition."
+    },
+    {
+      "id": "DZ-P011-01",
+      "unit": "U00180",
+      "pdf_page": 11,
+      "line": "4–5",
+      "type": "paratext-layer-agreement",
+      "adzom": "Corrected base main: de nas gcig dang tha mi dad. Small linked heading begins sdud pa po.",
+      "dzongsar": "Main line4: དེ་ནས་གཅིག་དང་ཐ་མི་དད། (de nas gcig dang tha mi dad). The dotted leader points to the smaller heading beginning sdud pa po on line5.",
+      "confidence": "high",
+      "action": "Retain the main/heading separation. Focused recheck corrects the initial checkpoint prose, which erroneously placed sdud in main text; no main-text difference at this locus.",
+      "evidence": [
+        "evidence/chapter-01/dzongsar/p011-notes.png",
+        "evidence/chapter-01/dzongsar/p011-u180-main.png"
+      ]
+    },
+    {
+      "id": "DZ-P011-02",
+      "unit": "U00187",
+      "pdf_page": 11,
+      "line": 6,
+      "type": "main-and-variant-note-agreement",
+      "adzom": "Main dgongs pa; separate dgos pa yang byung.",
+      "dzongsar": "Main 'byung bzhi'i dgongs ... pa ji lta bu; smaller dgos pa yang byung between dgongs and pa, linked by dots.",
+      "confidence": "high",
+      "action": "Retain base main dgongs. This witnesses a separate printed/manuscript alternative, not a main-text dgos reading.",
+      "evidence": [
+        "evidence/chapter-01/dzongsar/p011-notes.png"
+      ]
+    },
+    {
+      "id": "DZ-P012-01",
+      "unit": "U00192",
+      "pdf_page": 12,
+      "line": "upper margin above line1",
+      "type": "note-present-not-fully-collated",
+      "adzom": "The note beginning 'di mtshams 'og gi rang dang gzhan gyi dam bca'i ...",
+      "dzongsar": "A small note with this beginning is present and linked by dotted leader above main 'gyur dang 'gyur byed gang dang gang.",
+      "confidence": "high-for-presence-unresolved-full-transcription",
+      "action": "Do not count complete note wording as agreement until independently transcribed.",
+      "evidence": [
+        "evidence/chapter-01/dzongsar/p012-0.png",
+        "evidence/chapter-01/dzongsar/p012-1.png"
+      ]
+    },
+    {
+      "id": "DZ-P015-01",
+      "unit": "U00272",
+      "pdf_page": 15,
+      "line": 5,
+      "type": "manuscript-heading-layout",
+      "adzom": "The Adzom source-unit U272 interleaves the heading between de nas and khyab bdag; corrected displayed reading separates it. This statement concerns unit ordering, not Adzom physical print placement.",
+      "dzongsar": "Main de nas khyab bdag sems dpa' ni occurs in line4. Small heading rgyud kyi che ba rnam par bkod pa'i bkod pa is physically after U275 bris zhing bkod pa ma yin par, before U276 yan lag drug cu'i dbyangs ldan te.",
+      "confidence": "high",
+      "action": "Record manuscript physical heading placement; no cross-witness textual difference follows solely from the displayed unit order.",
+      "evidence": [
+        "evidence/chapter-01/dzongsar/p015-heading.png",
+        "evidence/chapter-01/dzongsar/p015-1.png"
+      ]
+    },
+    {
+      "id": "DZ-P004-01",
+      "unit": "U00039",
+      "pdf_page": 4,
+      "line": 6,
+      "type": "main-reading-agreement-with-corrected-base",
+      "adzom": "Corrected main stong dang ldan pa dbus ma'i gnas; source e-text had stod.",
+      "dzongsar": "སྟོང་དང་ལྡན་པ་དབུས་མའི་གནས། (stong dang ldan pa dbus ma'i gnas)",
+      "confidence": "high",
+      "action": "Supports corrected Adzom stong; do not treat uncorrected source-e-text stod as the base reading.",
+      "evidence": [
+        "evidence/chapter-01/dzongsar/p004-u39.png"
+      ]
+    }
+  ],
+  "status": "interrupted-checkpoint-incomplete",
+  "remaining": [
+    {
+      "range": "U00005–U00006; PDF2 lines1–2",
+      "status": "unresolved-invocation-and-Sanskrit-title",
+      "needed": "Independent exact Sanskrit stack/vowel transcription; no agreement certified."
+    },
+    {
+      "range": "PDF2–3 portrait captions and small notes at U180/U192",
+      "status": "paratext-not-fully-transcribed",
+      "needed": "Read all small-caption and annotation wording independently; layer presence already observed."
+    },
+    {
+      "range": "PDF16–120; U00280 through U02621 (U280 start inferred from the completed preceding page; U2621 visible at PDF120 end)",
+      "status": "not-continuously-collated",
+      "needed": "Continuous manuscript reading against the Adzom main and annotation layers; there is no finding that these pages are illegible."
+    },
+    {
+      "range": "PDF121 Chapter1 portion: U02622 through U02635, lines1–5",
+      "status": "boundary-established-only",
+      "needed": "Continuous collation from preceding page and precise colophon spelling; boundary itself is securely identified."
+    },
+    {
+      "range": "Punctuation, tsheg placement, and orthographic microvariation throughout PDF2–15",
+      "status": "not-exhaustively-certified",
+      "needed": "A diplomatic character-level pass. Lexical comparison does not assert identical punctuation or word spacing."
+    }
+  ],
+  "statistics": {
+    "continuous_main_text_pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "main_text_endpoint": "U00279",
+    "confirmed_main_text_lexical_variants": 0,
+    "unresolved_opening_span": "U00005–U00006",
+    "boundary_only_pdf_page": 121,
+    "completion_claim": false,
+    "manuscript_heading_layout_observations": 3,
+    "heading_layout_observations_are_not_certified_textual_variants": true
+  },
+  "evidence_manifest": {
+    "source_pdf": "editions/dzongsar-manuscript/sgra-thal-gyur.pdf",
+    "source_pdf_sha256": "5ec4cf4035136ceb4eaffdc47001358c5983aba39e63aed096aedfa4b586559f",
+    "native_dimensions": [
+      2519,
+      670
+    ],
+    "method": "Native image extraction with fitz; no OCR. Full-page and overlapping native-width crops [0,0,1350,670] and [1250,0,2519,670]. A few named detail crops enlarged 2x for visual inspection; no enhancement or conjectural restoration.",
+    "source_images": [
+      {
+        "image": 5,
+        "file": "0005.jpg",
+        "url": "https://iiif.bdrc.io/bdr:I3PD1345::I3PD13450005.jpg/full/max/0/default.jpg",
+        "canvas": "https://iiifpres.bdrc.io/v:bdr:I3PD1345/canvas/I3PD13450005.jpg",
+        "bytes": 205389,
+        "sha256": "09a04cf36a3c3fa011f4af72a888eeb52a785b5ab8f8919dfc58fe30efd84751",
+        "width": 2519,
+        "height": 670,
+        "format": "JPEG",
+        "pdf_page": 1
+      },
+      {
+        "image": 6,
+        "file": "0006.jpg",
+        "url": "https://iiif.bdrc.io/bdr:I3PD1345::I3PD13450006.jpg/full/max/0/default.jpg",
+        "canvas": "https://iiifpres.bdrc.io/v:bdr:I3PD1345/canvas/I3PD13450006.jpg",
+        "bytes": 361638,
+        "sha256": "2d6f7a72ec350f2a934f410d6af4c79517fdfe6caea7b8e1ea26c4f9d775b08e",
+        "width": 2519,
+        "height": 670,
+        "format": "JPEG",
+        "pdf_page": 2
+      },
+      {
+        "image": 7,
+        "file": "0007.jpg",
+        "url": "https://iiif.bdrc.io/bdr:I3PD1345::I3PD13450007.jpg/full/max/0/default.jpg",
+        "canvas": "https://iiifpres.bdrc.io/v:bdr:I3PD1345/canvas/I3PD13450007.jpg",
+        "bytes": 355511,
+        "sha256": "637be4998f5c5f61ec49d0e8acc33daa92ae590bc20bb9476c35fe1321f8bf66",
+        "width": 2519,
+        "height": 670,
+        "format": "JPEG",
+        "pdf_page": 3
+      },
+      {
+        "image": 8,
+        "file": "0008.jpg",
+        "url": "https://iiif.bdrc.io/bdr:I3PD1345::I3PD13450008.jpg/full/max/0/default.jpg",
+        "canvas": "https://iiifpres.bdrc.io/v:bdr:I3PD1345/canvas/I3PD13450008.jpg",
+        "bytes": 307168,
+        "sha256": "f300d9c9149d578fb6ba23434c5fd200bdeb2a7ec6208bdf64709e0091b91008",
+        "width": 2519,
+        "height": 670,
+        "format": "JPEG",
+        "pdf_page": 4
+      },
+      {
+        "image": 9,
+        "file": "0009.jpg",
+        "url": "https://iiif.bdrc.io/bdr:I3PD1345::I3PD13450009.jpg/full/max/0/default.jpg",
+        "canvas": "https://iiifpres.bdrc.io/v:bdr:I3PD1345/canvas/I3PD13450009.jpg",
+        "bytes": 325594,
+        "sha256": "d204bd98deb348abbca20a5ed32c3184ffea98207de212d7d1b384ffb9891611",
+        "width": 2519,
+        "height": 670,
+        "format": "JPEG",
+        "pdf_page": 5
+      },
+      {
+        "image": 10,
+        "file": "0010.jpg",
+        "url": "https://iiif.bdrc.io/bdr:I3PD1345::I3PD13450010.jpg/full/max/0/default.jpg",
+        "canvas": "https://iiifpres.bdrc.io/v:bdr:I3PD1345/canvas/I3PD13450010.jpg",
+        "bytes": 332286,
+        "sha256": "553f0d863a37cd623b3e9dcee16a1f4ecfc2441e85a684cf02189167250143ea",
+        "width": 2519,
+        "height": 670,
+        "format": "JPEG",
+        "pdf_page": 6
+      },
+      {
+        "image": 11,
+        "file": "0011.jpg",
+        "url": "https://iiif.bdrc.io/bdr:I3PD1345::I3PD13450011.jpg/full/max/0/default.jpg",
+        "canvas": "https://iiifpres.bdrc.io/v:bdr:I3PD1345/canvas/I3PD13450011.jpg",
+        "bytes": 335251,
+        "sha256": "60131da01b1555b505f98dcb4482b22c01cc9e27aeb1f6d59406691179cd6960",
+        "width": 2519,
+        "height": 670,
+        "format": "JPEG",
+        "pdf_page": 7
+      },
+      {
+        "image": 12,
+        "file": "0012.jpg",
+        "url": "https://iiif.bdrc.io/bdr:I3PD1345::I3PD13450012.jpg/full/max/0/default.jpg",
+        "canvas": "https://iiifpres.bdrc.io/v:bdr:I3PD1345/canvas/I3PD13450012.jpg",
+        "bytes": 329132,
+        "sha256": "5f4405b7362090c29a3df93df755106427780c79f2d4d94c8775dc31db47919e",
+        "width": 2519,
+        "height": 670,
+        "format": "JPEG",
+        "pdf_page": 8
+      },
+      {
+        "image": 13,
+        "file": "0013.jpg",
+        "url": "https://iiif.bdrc.io/bdr:I3PD1345::I3PD13450013.jpg/full/max/0/default.jpg",
+        "canvas": "https://iiifpres.bdrc.io/v:bdr:I3PD1345/canvas/I3PD13450013.jpg",
+        "bytes": 344828,
+        "sha256": "0382d86108c2665719d37fb8ea0ceed708d69dd2b755aa19d550751581faf8bf",
+        "width": 2519,
+        "height": 670,
+        "format": "JPEG",
+        "pdf_page": 9
+      },
+      {
+        "image": 14,
+        "file": "0014.jpg",
+        "url": "https://iiif.bdrc.io/bdr:I3PD1345::I3PD13450014.jpg/full/max/0/default.jpg",
+        "canvas": "https://iiifpres.bdrc.io/v:bdr:I3PD1345/canvas/I3PD13450014.jpg",
+        "bytes": 331228,
+        "sha256": "b4541c995de64d0c350b130464d8cf764a0a8ca8e16a8b239ad9f0e1e1dd771b",
+        "width": 2519,
+        "height": 670,
+        "format": "JPEG",
+        "pdf_page": 10
+      },
+      {
+        "image": 15,
+        "file": "0015.jpg",
+        "url": "https://iiif.bdrc.io/bdr:I3PD1345::I3PD13450015.jpg/full/max/0/default.jpg",
+        "canvas": "https://iiifpres.bdrc.io/v:bdr:I3PD1345/canvas/I3PD13450015.jpg",
+        "bytes": 338286,
+        "sha256": "3d3bc781569f9aa18fa15a1a15392a32078d40e094fdf8d5dc02803bf2b7a136",
+        "width": 2519,
+        "height": 670,
+        "format": "JPEG",
+        "pdf_page": 11
+      },
+      {
+        "image": 16,
+        "file": "0016.jpg",
+        "url": "https://iiif.bdrc.io/bdr:I3PD1345::I3PD13450016.jpg/full/max/0/default.jpg",
+        "canvas": "https://iiifpres.bdrc.io/v:bdr:I3PD1345/canvas/I3PD13450016.jpg",
+        "bytes": 327032,
+        "sha256": "f91b4982e17ad5c12814479b97bf06d5afdef122f3fd7b75418b40b60f3c2988",
+        "width": 2519,
+        "height": 670,
+        "format": "JPEG",
+        "pdf_page": 12
+      },
+      {
+        "image": 17,
+        "file": "0017.jpg",
+        "url": "https://iiif.bdrc.io/bdr:I3PD1345::I3PD13450017.jpg/full/max/0/default.jpg",
+        "canvas": "https://iiifpres.bdrc.io/v:bdr:I3PD1345/canvas/I3PD13450017.jpg",
+        "bytes": 364773,
+        "sha256": "563f6dac9bed96c409c1ce8ca11e78c3d321b807acf8583b6480fc04c412841d",
+        "width": 2519,
+        "height": 670,
+        "format": "JPEG",
+        "pdf_page": 13
+      },
+      {
+        "image": 18,
+        "file": "0018.jpg",
+        "url": "https://iiif.bdrc.io/bdr:I3PD1345::I3PD13450018.jpg/full/max/0/default.jpg",
+        "canvas": "https://iiifpres.bdrc.io/v:bdr:I3PD1345/canvas/I3PD13450018.jpg",
+        "bytes": 333819,
+        "sha256": "5b785117cd1770d8a47ede3446cf2215379b917dd771e87aca9391b3403a469e",
+        "width": 2519,
+        "height": 670,
+        "format": "JPEG",
+        "pdf_page": 14
+      },
+      {
+        "image": 19,
+        "file": "0019.jpg",
+        "url": "https://iiif.bdrc.io/bdr:I3PD1345::I3PD13450019.jpg/full/max/0/default.jpg",
+        "canvas": "https://iiifpres.bdrc.io/v:bdr:I3PD1345/canvas/I3PD13450019.jpg",
+        "bytes": 376088,
+        "sha256": "823787ca170bda40d3124146190574a3b0bfca126d37b55a39182dfda38eec45",
+        "width": 2519,
+        "height": 670,
+        "format": "JPEG",
+        "pdf_page": 15
+      },
+      {
+        "image": 124,
+        "file": "0124.jpg",
+        "url": "https://iiif.bdrc.io/bdr:I3PD1345::I3PD13450124.jpg/full/max/0/default.jpg",
+        "canvas": "https://iiifpres.bdrc.io/v:bdr:I3PD1345/canvas/I3PD13450124.jpg",
+        "bytes": 333606,
+        "sha256": "81e850ae1cbf477d0a53fea90792f637c330c808f81e2f657cf8981d0a8208b6",
+        "width": 2519,
+        "height": 670,
+        "format": "JPEG",
+        "pdf_page": 120
+      },
+      {
+        "image": 125,
+        "file": "0125.jpg",
+        "url": "https://iiif.bdrc.io/bdr:I3PD1345::I3PD13450125.jpg/full/max/0/default.jpg",
+        "canvas": "https://iiifpres.bdrc.io/v:bdr:I3PD1345/canvas/I3PD13450125.jpg",
+        "bytes": 327105,
+        "sha256": "6b0d59bf55e8f6641e71e80604d9384e4f0c5d16f0ffed7a15ba3963da9c7c3f",
+        "width": 2519,
+        "height": 670,
+        "format": "JPEG",
+        "pdf_page": 121
+      }
+    ]
+  },
+  "method_note": "The five corrected base interventions in the compared range (U39, U180, U187, U192, U272) have been reconciled explicitly with reading-units.json. Initial U180 main/heading wording in checkpoint prose was corrected after native-image recheck; source-e-text interleaving is not witness evidence."
+}

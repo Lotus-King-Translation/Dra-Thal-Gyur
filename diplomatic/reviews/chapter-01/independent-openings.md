@@ -1,5 +1,7 @@
 # Degé and Tingkye opening: limited visual sample
 
+**Second-reading update (2026-09-27):** The [targeted rereading](second-dege-tingkye.md) resolves Tingkye U00018 terminal *khang* and U00026 terminal *r* as present, supports Tingkye U00019 *rig pa* against Degé/Adzom *rig pas*, and preserves the remaining Tingkye verb and Degé compact-text uncertainties. That report supersedes the corresponding tentative statements below.
+
 Prepared 2026-09-27 for the diplomatic-edition work. This is a **sample of the opening**, not a complete chapter collation, not an edition, and not evidence that all conflicts in chapter 1 have been identified. The comparison baseline here is the supplied Adzom e-text and its `source-units.json` identifiers, not an independently established Adzom scan reading. Any final Adzom reading must be checked against its facsimile.
 
 ## Material actually inspected

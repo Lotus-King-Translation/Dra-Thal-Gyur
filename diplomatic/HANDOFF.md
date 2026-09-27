@@ -1,36 +1,42 @@
-# Chapter 1 continuation
+# Chapter 1 continuation after the second reading
 
-The requested edition is **not complete**. Chapter 1 is a reviewable working dossier, not a finished chapter; do not proceed to Chapter 2 yet. `STATUS.json` is the machine-readable gate.
+The requested golden edition is **not complete**. No chapter has passed the complete-witness gate. Chapter 1 is the only chapter under work; Chapters 2–6 and the closing material have not been started. The remote branch is `diplomatic/chapter-01-collation`.
 
-## Work preserved
+## What is preserved
 
-- Complete exact collation of Chapter 1 A/B/S supplied e-texts: 359 differences grouped into 183 readable loci, with a reason/disposition at each locus. Both representations reconstruct B and S exactly from A.
-- Defined lexical comparison with W: 273 blocks; exact raw website lines, signs, wrappers, and annotations preserved separately. W's apparent Tibetan conversion is diagnostic only.
-- Thirteen main verses and one source heading restored from individually inspected Adzom scan locations. The PDF74 reading `sku` is adopted over W's `su`.
-- Two local transcription corrections (U00039 `stod` → `stong`; U00542 `smras` → `spras`). Three other records separate scan-supported main readings from transcript-inserted alternatives of unestablished provenance, preserving every original phrase.
-- Five limited Tingkye/Degé comparison loci and an opening Langtang continuity check. These are samples, not full collation certificates.
-- Scan-only portrait caption retained provisionally; compressed inscription after U02635 remains unread with evidence linked.
+- All 2,635 original Chapter 1 anchors, exact A/B/S collation (359 minimal differences; 183 readable loci), and the defined 273-block W comparison. The original source strings remain unchanged.
+- A continuous main-Tibetan lexical comparison through the Chapter 1 end: PDF5–50 and PDF51–101 have page-by-page ledgers; opening/boundary inspection covers the adjacent material. This is not a complete punctuation, typography, title-script or ornamental-sign certification.
+- Thirteen restored main verses and one restored reply heading, checked again in the focused second reading and the continuous late pass.
+- Five local transcription corrections: U00039 `stod` → `stong`; U00542 `smras` → `spras`; U01598 `rdzo ba` → `rdzob`; U02522 `gzhon pa'gyur` → `gzhon par 'gyur`; U02597 restored initial `dris` in the reply heading.
+- A 41-record targeted annotation audit and additional interventions. The separately printed numerical notes at U01067/U01090/U01811–12 were found one physical line below the earlier narrow checks. Their previous non-observations are superseded explicitly. The printed U01811–12 alternative lacks the transcript's extra `kyang`.
+- The repeated transcript gloss in U01233/U01237 represents one observed printed note within U01238. Its two original occurrences are preserved; its physical record appears once.
+- Focused and partial comparison findings for Degé, Tingkye, Tsamdrak, Tharpaling and Dzongsar, plus the earlier Langtang opening continuity check. The current chapter links supported findings and unresolved candidates individually.
 
-## Exact next work
+## Why the chapter is still blocked
 
-1. Establish a reliable continuous reading of the comparison facsimiles. The attempted native-resolution Degé span has unresolved faint endings and small interlinear material: see the exact coverage and capability assessment in `reviews/chapter-01/independent-openings.md`. Obtain an independently checked transcript or a qualified second reading; better source images may help where available. Do not fill uncertain glyphs from the expected Adzom wording.
-2. Proofread Adzom Chapter 1 continuously, not just the verified spots. Distinguish genuine small-print source annotations from transcript-added phrases. The earlier translation's scan decisions are claims to check: three tested small-print attributions were not corroborated in the inspected areas.
-3. Complete physical chapter concordances and continuous collation for Tharpaling, Tingkye, Tsamdrak, Dzongsar, Gadkar, Zhichen, Langtang, W1ER119, and Degé. Check the remaining manifest discontinuities and record textual effects, not merely numerical gaps.
-4. Resolve root mappings for the acquired Adzom 1973–1977 and Gcn containers. Keep Sichuan's supplied transcript distinct from the unavailable full facsimile. Catalogue-only sources remain explicitly unavailable, never inferred to agree.
-5. Revisit title/Sanskrit/ornamental text, the provisional caption, the PDF102 inscription, physical punctuation and source-annotation placement. Unreadable material can remain explicitly uncertain; uninspected material cannot be labelled collated.
-6. Update the reading and decision ledger from verified evidence, rerun checks, mark Chapter 1 ready only after its coverage declaration is true, and make the completed-chapter commit. Only then begin Chapter 2.
+The second comparison readings did not establish reliable continuous all-variant collation. In Tsamdrak, the images are largely sharp, but the reader could not reliably distinguish recurring Tibetan stacks and suffixes; this is a capability limit, not a general claim of source illegibility. Tingkye has analogous unresolved reading judgments. Tharpaling adds concrete obscured regions; its alternative provider PDF contains the same image detail. The exact reports retain examples, inspection bounds and what remains uncollated.
+
+Dzongsar is an interrupted opening checkpoint through PDF15/U00279, not a claim that its later pages are unreadable. Its actual chapter colophon is PDF121. No uninspected comparison span is treated as agreement. The other mapped witnesses and unresolved containers still require collation or root mapping.
+
+The Adzom base itself retains explicit uncertainty at the title material, portrait caption, U01522 fused cluster, U02615 note, inked U02620 cluster, and compressed PDF102 inscription. These require qualified reading or explicitly maintained uncertainty. Physical punctuation/sign review also remains unfinished.
+
+## Next required work
+
+1. Obtain a qualified Tibetan manuscript/print reading or independently verified transcripts for the comparison witnesses. Resolve or precisely mark each uncertain span and collate the full Chapter 1 ranges. Do not supply expected wording where glyphs cannot be established.
+2. Complete the remaining comparison witnesses and physical punctuation/paratext checks. Keep unavailable Sichuan print, unmapped containers and catalogue-only leads distinct from collated evidence.
+3. Review the curated scan interventions against their evidence, run the validator and renderer, and make a completed-chapter commit only once its coverage declaration is true. Then proceed to Chapter 2, repeating the user's chapter-by-chapter commit sequence.
 
 ## Reproduction
 
-From the repository root, using Python 3 standard library:
+From the repository root:
 
 ```bash
-python3 diplomatic/tools/collate_chapter1.py --repo . --out /tmp/dra-ch1-abc
-python3 diplomatic/tools/collate_wikisource_ch1.py --repo . --out /tmp/dra-ch1-web
-python3 diplomatic/tools/make_wikisource_report.py --repo . --out /tmp/dra-ch1-web
 python3 diplomatic/tools/build_chapter1.py --repo .
+python3 diplomatic/tools/validate_chapter1.py --repo .
 ```
 
-The first three commands write fresh comparison outputs outside the tracked dossier. Optional `--pyewts PATH` on the W collation script enables diagnostic conversion when pyewts is installed. That conversion is not used to adopt readings. Scan interventions are curated JSON records with image evidence; they are not generated by an e-text diff.
+The raw electronic collation can be reproduced separately with `collate_chapter1.py`, `collate_wikisource_ch1.py`, and `make_wikisource_report.py`; each accepts `--repo` and `--out`. Optional `--pyewts PATH` enables diagnostic conversion for W, never automatic adoption.
 
-Exact source baseline and input hashes are recorded in `STATUS.json` and `collation/chapter-01/chapter1-summary.json`. Do not regenerate against changed source files without first recording and reviewing the change of baseline. Rendered Markdown contains intentionally preserved trailing spaces inside exact fenced source quotations; those are evidence, not formatting mistakes to normalize away.
+The machine-readable reading combines `reading-units.json` and `ch1-scan-insertions.json`. Curated changes are in `ch1-opening-corrections.json`, `ch1-key-scan-checks.json`, and `additional-interventions.json`. The renderer preserves all original U anchors, including anchors whose text is separated as source annotation or joined across an e-text split. `scan-comparison-loci.json` retains local comparison evidence and its uncertainty independently of the electronic patch apparatus.
+
+Source baseline: `e17a496ad7532cc627f9ba288b541f7a53efd002`. Source hashes and offsets are in `chapter1-summary.json`. Do not regenerate against altered source files without first reviewing and recording the new baseline. Intentional trailing spaces inside exact source quotations are evidence, not formatting defects to normalize away.

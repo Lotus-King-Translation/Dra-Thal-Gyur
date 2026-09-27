@@ -2,7 +2,7 @@
 
 **Chapter 1 is under collation. No chapter is yet certified complete.** This directory is the working dossier for the requested single annotated diplomatic edition, not a completed golden text. Chapters 2–6 and the final colophon have not been started here. The original editions, source files, glossary, and translation are unchanged.
 
-This dossier is a research checkpoint. It does not satisfy or bypass the completed-chapter gate below.
+The second reading has now checked the continuous main-Tibetan sequence and audited interleaved annotations. It has also documented a concrete limit: the current readings cannot certify continuous all-variant collation of several comparison witnesses. This remains a research checkpoint; it does not pass the completed-chapter gate below.
 
 ## Read the current work
 
@@ -11,6 +11,9 @@ This dossier is a research checkpoint. It does not satisfy or bypass the complet
 - [Editorial method](METHOD.md)
 - [Machine-readable chapter status](STATUS.json)
 - [Continuation instructions and reproduction](HANDOFF.md)
+- [Second-reading findings and limits](reviews/chapter-01/second-reading.md)
+- [Annotation audit](reviews/chapter-01/annotation-audit.md)
+- [Continuous base coverage](collation/chapter-01/scan-coverage.json)
 
 The apparatus distinguishes exact supplied-transcript differences from readings actually checked in a facsimile. An uncollated witness is never represented as agreeing with Adzom. Missing access and unreadable text are not silently treated as omissions by a witness.
 
@@ -18,7 +21,7 @@ The apparatus distinguishes exact supplied-transcript differences from readings 
 
 The repository already selects **Adzom W1KG11703, volume 1** as its base, with the **printed scan governing**. This edition follows that decision. A diplomatic text records that witness; it does not silently select a majority or more familiar reading from other witnesses. Every correction to the working Adzom transcription needs a scan locator and a recorded reason. Alternative readings remain visible even when the Adzom reading is retained.
 
-The working text preserves supplied readings pending verification and explicitly inserts individually verified scan-only material. Its unverified portions are a transcription scaffold. The prose reasons in the apparatus are editorial dispositions, not assertions that every printed witness has been read or that the retained reading is the author's original.
+The working text preserves supplied readings pending verification and explicitly inserts individually verified scan-only material. Its unverified title/sign portions and expressly uncertain readings remain provisional. A lexical comparison is not a certification of every physical punctuation sign. The prose reasons in the apparatus are editorial dispositions, not assertions that every printed witness has been read or that the retained reading is the author's original.
 
 ## Iteration gate
 

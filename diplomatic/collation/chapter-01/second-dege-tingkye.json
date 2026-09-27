@@ -1,0 +1,256 @@
+{
+  "date": "2026-09-27",
+  "scope": "Focused second visual readings only; not continuous chapter collation",
+  "punctuation_scope": "Lexical snippets; exact tsheg and terminal-mark Unicode equivalence not certified",
+  "coordinate_convention": "native image pixels, zero-based half-open boxes",
+  "evidence_directory": "evidence/chapter-01/second-reading",
+  "records": [
+    {
+      "witness": "Tingkye",
+      "unit": "U00018",
+      "pdf_page": 2,
+      "provider_image": 395,
+      "printed_page": 387,
+      "line": 1,
+      "span_reading": "གཞལ་མེད་ཁང",
+      "decision": "No omission of terminal ཁང; previous uncertainty resolved locally.",
+      "confidence": "high_for_terminal_khang",
+      "box": [
+        2610,
+        260,
+        2870,
+        385
+      ],
+      "evidence": "evidence/chapter-01/second-reading/ting-u18-terminal.png"
+    },
+    {
+      "witness": "Tingkye",
+      "unit": "U00019",
+      "pdf_page": 2,
+      "provider_image": 395,
+      "printed_page": 387,
+      "line": 1,
+      "span_reading": "རང་བྱུང་རིག་པ་བཅོས་པ་མེད",
+      "decision": "Record རིག་པ against Adzom transcript རིག་པས; retain attested Adzom under diplomatic policy.",
+      "confidence": "high_for_absence_of_sa",
+      "box": [
+        2820,
+        275,
+        3410,
+        385
+      ],
+      "evidence": "evidence/chapter-01/second-reading/ting-u19.png"
+    },
+    {
+      "witness": "Tingkye",
+      "unit": "U00026",
+      "pdf_page": 2,
+      "provider_image": 395,
+      "printed_page": 387,
+      "line": 3,
+      "span_reading": "མ་འོངས་ད་ལྟར་མེད",
+      "decision": "No omission of ར in ལྟར; previous uncertainty resolved locally.",
+      "confidence": "high_for_terminal_ra",
+      "box": [
+        570,
+        425,
+        1160,
+        550
+      ],
+      "evidence": "evidence/chapter-01/second-reading/ting-u26.png"
+    },
+    {
+      "witness": "Tingkye",
+      "unit": "U00012",
+      "pdf_page": 1,
+      "provider_image": 394,
+      "printed_page": 386,
+      "line": 7,
+      "span_reading": null,
+      "uncertain_span": "verb after བདག་གིས",
+      "proposals": [
+        "བསྟུན",
+        "བསྟན"
+      ],
+      "decision": "Unresolved. Do not supply ཐོས from the base; proposals are not observed adopted readings.",
+      "confidence": "unresolved",
+      "box": [
+        1880,
+        744,
+        2130,
+        880
+      ],
+      "evidence": "evidence/chapter-01/second-reading/ting-u12-verb-full.png"
+    },
+    {
+      "witness": "Dege",
+      "unit": "U00019",
+      "pdf_page": 1,
+      "provider_image": 647,
+      "printed_page": null,
+      "line": 3,
+      "span_reading": "རང་བྱུང་རིག་པས་བཅོས་པ་མེད",
+      "decision": "Supports རིག་པས locally; adjacent compact material not resolved.",
+      "confidence": "high_to_moderate_for_suffix_sa",
+      "box": [
+        1140,
+        197,
+        1450,
+        270
+      ],
+      "evidence": "evidence/chapter-01/second-reading/dege-u19-target.png"
+    },
+    {
+      "witness": "Dege",
+      "unit": null,
+      "pdf_page": 1,
+      "provider_image": 647,
+      "printed_page": null,
+      "line": 3,
+      "span_reading": null,
+      "uncertain_span": "compact material near U00018–U00019",
+      "decision": "Unresolved wording, attachment and textual layer.",
+      "confidence": "unresolved",
+      "box": [
+        690,
+        198,
+        1135,
+        260
+      ],
+      "evidence": "evidence/chapter-01/second-reading/dege-compact-color.png"
+    },
+    {
+      "witness": "Dege",
+      "unit": null,
+      "pdf_page": 2,
+      "provider_image": 648,
+      "printed_page": null,
+      "line": 1,
+      "span_reading": null,
+      "uncertain_span": "right-end region; box includes adjacent-line context",
+      "decision": "Not continuously transcribed; do not equate with agreement or omission.",
+      "confidence": "unresolved",
+      "box": [
+        2650,
+        77,
+        3070,
+        159
+      ],
+      "evidence": "evidence/chapter-01/second-reading/dege2-r1-color.png"
+    },
+    {
+      "witness": "Dege",
+      "unit": null,
+      "pdf_page": 2,
+      "provider_image": 648,
+      "printed_page": null,
+      "line": 2,
+      "span_reading": null,
+      "uncertain_span": "right-end region; box includes adjacent-line context",
+      "decision": "Not continuously transcribed; do not equate with agreement or omission.",
+      "confidence": "unresolved",
+      "box": [
+        2650,
+        146,
+        3070,
+        211
+      ],
+      "evidence": "evidence/chapter-01/second-reading/dege2-r2-color.png"
+    },
+    {
+      "witness": "Dege",
+      "unit": null,
+      "pdf_page": 2,
+      "provider_image": 648,
+      "printed_page": null,
+      "line": 3,
+      "span_reading": null,
+      "uncertain_span": "right-end region; box includes adjacent-line context",
+      "decision": "Not continuously transcribed; do not equate with agreement or omission.",
+      "confidence": "unresolved",
+      "box": [
+        2650,
+        200,
+        3070,
+        265
+      ],
+      "evidence": "evidence/chapter-01/second-reading/dege2-r3-color.png"
+    },
+    {
+      "witness": "Dege",
+      "unit": null,
+      "pdf_page": 2,
+      "provider_image": 648,
+      "printed_page": null,
+      "line": 4,
+      "span_reading": null,
+      "uncertain_span": "right-end region; box includes adjacent-line context",
+      "decision": "Not continuously transcribed; do not equate with agreement or omission.",
+      "confidence": "unresolved",
+      "box": [
+        2650,
+        251,
+        3070,
+        318
+      ],
+      "evidence": "evidence/chapter-01/second-reading/dege2-r4-color.png"
+    },
+    {
+      "witness": "Dege",
+      "unit": null,
+      "pdf_page": 2,
+      "provider_image": 648,
+      "printed_page": null,
+      "line": 5,
+      "span_reading": null,
+      "uncertain_span": "right-end region; box includes adjacent-line context",
+      "decision": "Not continuously transcribed; do not equate with agreement or omission.",
+      "confidence": "unresolved",
+      "box": [
+        2650,
+        306,
+        3070,
+        372
+      ],
+      "evidence": "evidence/chapter-01/second-reading/dege2-r5-color.png"
+    },
+    {
+      "witness": "Dege",
+      "unit": null,
+      "pdf_page": 2,
+      "provider_image": 648,
+      "printed_page": null,
+      "line": 6,
+      "span_reading": null,
+      "uncertain_span": "right-end region; box includes adjacent-line context",
+      "decision": "Not continuously transcribed; do not equate with agreement or omission.",
+      "confidence": "unresolved",
+      "box": [
+        2650,
+        359,
+        3070,
+        426
+      ],
+      "evidence": "evidence/chapter-01/second-reading/dege2-r6-color.png"
+    },
+    {
+      "witness": "Dege",
+      "unit": null,
+      "pdf_page": 2,
+      "provider_image": 648,
+      "printed_page": null,
+      "line": 7,
+      "span_reading": null,
+      "uncertain_span": "right-end region; box includes adjacent-line context",
+      "decision": "Not continuously transcribed; do not equate with agreement or omission.",
+      "confidence": "unresolved",
+      "box": [
+        2650,
+        412,
+        3070,
+        479
+      ],
+      "evidence": "evidence/chapter-01/second-reading/dege2-r7-color.png"
+    }
+  ]
+}

@@ -1,5 +1,7 @@
 # Chapter 1 selected Adzom scan checks
 
+**Superseded annotation-provenance findings:** The [broader annotation audit](annotation-audit.md) found the three disputed notes on the next physical line. Their locations and exact wording are now recorded in the [current decision ledger](../../collation/chapter-01/ch1-key-scan-checks.json). The earlier limited non-observations below are retained as review history, not current absence findings. U01811–12’s printed alternative also lacks the transcript’s extra *kyang*.
+
 Chapter 1 only; independent visual checks of four selected loci in Adzom W1KG11703. No English translation review or full-chapter certification.
 
 Native embedded images extracted with PyMuPDF (fitz), no OCR, native-pixel crops visually inspected. Crop coordinates in original 5696x1344 image pixels. Large-scale/whole-page views supplemented the locus inspection.

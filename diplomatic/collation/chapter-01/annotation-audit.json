@@ -1,0 +1,1545 @@
+{
+  "title": "Chapter 1 targeted annotation audit",
+  "scope": "All 30 old scan-decision annotation/layer records at units <=2635 except U00542 lexical correction; U01811-01812 is a joint record. Includes follow-up verification of U01067, U01090, U01811-01812. Plus eleven additional flat-transcript or structural candidates U00187, U00192, U00272, U00317, U00318, U00328, U00534, U00626, U00710, U00800, U01144. This is targeted annotation verification, not complete main-text proofreading or full multi-witness collation.",
+  "facsimile": "source/Dra-Thal-Gyur-Adzom-2000.pdf",
+  "pdf_sha256": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343",
+  "method": "Inspected native embedded facsimile images with full-page, overlapping half-page, and focused crops. No OCR or generative image editing. Single-shad Wylie proposals express reviewed lexical main readings; electronic whitespace and physical lineation are not equated. Local non-observation never establishes absence from the entire witness.",
+  "records": [
+    {
+      "unit": 180,
+      "id": "U00180",
+      "original_unit_text": "དེ་ནས་གཅིག་དང་ཐ་མི་སྡུད་པ་པོ་ཞུ་བ་རང་བྱུང་གི་བཀོད་པ་དད། །",
+      "original_unit_wylie": "de nas gcig dang tha mi sdud pa po zhu ba rang byung gi bkod pa dad/_/",
+      "prior_note": {
+        "unit": 180,
+        "note": "N-012",
+        "pdf_page": 10,
+        "bdrc_image": 12,
+        "main_reading_wylie": "de nas gcig dang tha mi dad/",
+        "gloss_wylie": "sdud pa po zhu ba rang byung gi bkod pa",
+        "english": "Then, one with this and not separate, [Small-print source gloss: ‘Compiler/questioner; the naturally arisen array.’] [N-012]",
+        "reason": "The full-resolution scan places the final dad in the main verse and the intervening material in smaller print below it. Restore verse/gloss boundaries only in the translation; leave the e-text intact.",
+        "status": "scan-supported separation; referent and gloss interpretation provisional"
+      },
+      "proposed_scan_main_wylie": "de nas gcig dang tha mi dad/",
+      "proposed_scan_main_tibetan": "དེ་ནས་གཅིག་དང་ཐ་མི་དད།",
+      "annotation_kept_separately_wylie": "sdud pa po zhu ba rang byung gi bkod pa",
+      "annotation_kept_separately_tibetan": "སྡུད་པ་པོ་ཞུ་བ་རང་བྱུང་གི་བཀོད་པ",
+      "annotation_provenance": "printed_separate",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "line 1 middle main; line 2 middle smaller annotation",
+      "pdf_pages": [
+        10
+      ],
+      "bdrc_images": [
+        12
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p010-left.png",
+        "evidence/chapter-01/annotation-audit/p010-right.png"
+      ],
+      "rationale": "Main verse is uninterrupted on line 1. The gloss is visibly printed in smaller script on line 2; its transcript insertion inside tha mi ... dad is not physical main-text order."
+    },
+    {
+      "unit": 187,
+      "id": "U00187",
+      "original_unit_text": "འབྱུང་བཞིའི་དགོངས་དགོས་པ་ཡང་བྱུང་པ་ཇི་ལྟ་བུ། །",
+      "original_unit_wylie": "'byung bzhi'i dgongs dgos pa yang byung pa ji lta bu/_/",
+      "prior_note": {
+        "unit": 187,
+        "pdf_page": 10,
+        "bdrc_image": 12,
+        "main_reading_wylie": "'byung bzhi'i dgongs pa ji lta bu/",
+        "source_variant_wylie": "dgos pa yang byung",
+        "reason": "Additional flat-transcript candidate requested by root."
+      },
+      "proposed_scan_main_wylie": "'byung bzhi'i dgongs pa ji lta bu/",
+      "proposed_scan_main_tibetan": "འབྱུང་བཞིའི་དགོངས་པ་ཇི་ལྟ་བུ།",
+      "annotation_kept_separately_wylie": "dgos pa yang byung",
+      "annotation_kept_separately_tibetan": "དགོས་པ་ཡང་བྱུང",
+      "annotation_provenance": "printed_separate_displaced",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "main line 3 left-middle; smaller note line 5 left-middle",
+      "pdf_pages": [
+        10
+      ],
+      "bdrc_images": [
+        12
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p010-left.png",
+        "evidence/chapter-01/annotation-audit/p010-right.png"
+      ],
+      "rationale": "Main 'byung bzhi'i dgongs pa ji lta bu is separate from the smaller dgos pa yang byung. The dotted leader and separate type distinguish the reported alternative; the note is two physical lines lower."
+    },
+    {
+      "unit": 192,
+      "id": "U00192",
+      "original_unit_text": "འདི་མཚམས་འོག་གི་རང་དང་གཞན་གྱི་དམ་བཅའི་ཞེས་པ་དང་འཕེན་པ་རླུང་སྟེ་ཞེས་པ་གཉིས་ཀྱི་དྲི་བ་མ་བྱུང་འགྱུར་དང་འགྱུར་བྱེད་གང་དང་གང་། །",
+      "original_unit_wylie": "'di mtshams 'og gi rang dang gzhan gyi dam bca'i zhes pa dang 'phen pa rlung ste zhes pa gnyis kyi dri ba ma byung 'gyur dang 'gyur byed gang dang gang /_/",
+      "prior_note": {
+        "unit": 192,
+        "pdf_page": 10,
+        "bdrc_image": 12,
+        "main_reading_wylie": "'gyur dang 'gyur byed gang dang gang/",
+        "source_annotation_wylie": "'di mtshams 'og gi rang dang gzhan gyi dam bca'i zhes pa dang 'phen pa rlung ste zhes pa gnyis kyi dri ba ma byung",
+        "reason": "Additional long small-print source annotation requested by root."
+      },
+      "proposed_scan_main_wylie": "'gyur dang 'gyur byed gang dang gang/",
+      "proposed_scan_main_tibetan": "འགྱུར་དང་འགྱུར་བྱེད་གང་དང་གང།",
+      "annotation_kept_separately_wylie": "'di mtshams 'og gi rang dang gzhan gyi dam bca'i zhes pa dang 'phen pa rlung ste zhes pa gnyis kyi dri ba ma byung",
+      "annotation_kept_separately_tibetan": "འདི་མཚམས་འོག་གི་རང་དང་གཞན་གྱི་དམ་བཅའི་ཞེས་པ་དང་འཕེན་པ་རླུང་སྟེ་ཞེས་པ་གཉིས་ཀྱི་དྲི་བ་མ་བྱུང",
+      "annotation_provenance": "printed_separate_structural_note",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "p10 line 4 smaller text before large main gyur clause",
+      "pdf_pages": [
+        10
+      ],
+      "bdrc_images": [
+        12
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p010-left.png",
+        "evidence/chapter-01/annotation-audit/p010-right.png"
+      ],
+      "rationale": "The long 'di mtshams ... dri ba ma byung statement is visibly smaller source annotation. Main 'gyur dang 'gyur byed gang dang gang follows in larger script on the same physical line. Preserve the long note in full; it is not part of the main question verse."
+    },
+    {
+      "unit": 272,
+      "id": "U00272",
+      "original_unit_text": "དེ་ནས་རྒྱུད་ཀྱི་ཆེ་བ་རྣམ་པར་བཀོད་པའི་བཀོད་པ་ཁྱབ་བདག་སེམས་དཔའ་ནི། །",
+      "original_unit_wylie": "de nas rgyud kyi che ba rnam par bkod pa'i bkod pa khyab bdag sems dpa' ni/_/",
+      "prior_note": {
+        "unit": 272,
+        "pdf_page": 13,
+        "bdrc_image": 15,
+        "main_reading_wylie": "de nas khyab bdag sems dpa' ni/",
+        "source_annotation_wylie": "rgyud kyi che ba rnam par bkod pa'i bkod pa",
+        "reason": "Continuous-early delegated structural layer."
+      },
+      "proposed_scan_main_wylie": "de nas khyab bdag sems dpa' ni/",
+      "proposed_scan_main_tibetan": "དེ་ནས་ཁྱབ་བདག་སེམས་དཔའ་ནི།",
+      "annotation_kept_separately_wylie": "rgyud kyi che ba rnam par bkod pa'i bkod pa",
+      "annotation_kept_separately_tibetan": "རྒྱུད་ཀྱི་ཆེ་བ་རྣམ་པར་བཀོད་པའི་བཀོད་པ",
+      "annotation_provenance": "printed_separate_structural_note",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "main p13 line 5 middle-right; smaller note line 6 middle-right",
+      "pdf_pages": [
+        13
+      ],
+      "bdrc_images": [
+        15
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p013-left.png",
+        "evidence/chapter-01/annotation-audit/p013-right.png",
+        "evidence/chapter-01/annotation-audit/U272-detail.png"
+      ],
+      "rationale": "Main de nas khyab bdag sems dpa' ni is continuous. The smaller rgyud kyi che ba rnam par bkod pa'i bkod pa is printed below it with a dotted leader. Keep the repeated bkod pa wording in the source note; do not mix it into the main verse."
+    },
+    {
+      "unit": 317,
+      "id": "U00317",
+      "original_unit_text": "དྲི་བ་བདུན་ཅུ་ཟེར་ཀྱང་དོན་དྲུག་པར་ཡོད།",
+      "original_unit_wylie": "dri ba bdun cu zer kyang don drug par yod/",
+      "prior_note": {
+        "unit": 317,
+        "pdf_page": 15,
+        "bdrc_image": 17,
+        "source_annotation_wylie": "dri ba bdun cu zer kyang don drug par yod/",
+        "reason": "Additional structural annotation candidate requested by root."
+      },
+      "proposed_scan_main_wylie": "",
+      "proposed_scan_main_tibetan": "",
+      "annotation_kept_separately_wylie": "dri ba bdun cu zer kyang don drug par yod/",
+      "annotation_kept_separately_tibetan": "དྲི་བ་བདུན་ཅུ་ཟེར་ཀྱང་དོན་དྲུག་པར་ཡོད།",
+      "annotation_provenance": "printed_structural_annotation",
+      "main_reading_confidence": "not_applicable_annotation_only_unit",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "line 4 middle before dris lan dang po",
+      "pdf_pages": [
+        15
+      ],
+      "bdrc_images": [
+        17
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p015-left.png",
+        "evidence/chapter-01/annotation-audit/p015-right.png"
+      ],
+      "rationale": "The complete dri ba bdun cu zer kyang don drug par yod is a smaller source statement after the question section and before the first reply heading. Preserve its 70/76 discrepancy; do not treat it as root verse or change either count."
+    },
+    {
+      "unit": 318,
+      "id": "U00318",
+      "original_unit_text": " དྲིས་ལན་དང་པོ།",
+      "original_unit_wylie": "_dris lan dang po/",
+      "prior_note": {
+        "unit": 318,
+        "pdf_page": 15,
+        "bdrc_image": 17,
+        "source_heading_wylie": "dris lan dang po/",
+        "reason": "Continuous-early delegated reply-heading layer."
+      },
+      "proposed_scan_main_wylie": "",
+      "proposed_scan_main_tibetan": "",
+      "annotation_kept_separately_wylie": "dris lan dang po/",
+      "annotation_kept_separately_tibetan": "དྲིས་ལན་དང་པོ།",
+      "annotation_provenance": "printed_reply_heading",
+      "main_reading_confidence": "not_applicable_annotation_only_unit",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "p15 line 4 middle-right after U00317 smaller count statement",
+      "pdf_pages": [
+        15
+      ],
+      "bdrc_images": [
+        17
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p015-left.png",
+        "evidence/chapter-01/annotation-audit/p015-right.png"
+      ],
+      "rationale": "dris lan dang po is a separately printed reply heading. Preserve its source structural role and sequence after U00317; no root-verse main reading belongs to this heading-only electronic unit."
+    },
+    {
+      "unit": 328,
+      "id": "U00328",
+      "original_unit_text": "མེས་ནི་འབྱུང་བ་སེལ་བ་སྤེལ་ཡང་བྱུང་དང་། །",
+      "original_unit_wylie": "mes ni 'byung ba sel ba spel yang byung dang /_/",
+      "prior_note": {
+        "unit": 328,
+        "pdf_page": 15,
+        "bdrc_image": 17,
+        "main_reading_wylie": "mes ni 'byung ba sel ba dang/",
+        "source_variant_wylie": "spel yang byung",
+        "reason": "Additional flat-transcript candidate requested by root."
+      },
+      "proposed_scan_main_wylie": "mes ni 'byung ba sel ba dang/",
+      "proposed_scan_main_tibetan": "མེས་ནི་འབྱུང་བ་སེལ་བ་དང།",
+      "annotation_kept_separately_wylie": "spel yang byung",
+      "annotation_kept_separately_tibetan": "སྤེལ་ཡང་བྱུང",
+      "annotation_provenance": "printed_separate",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "line 6 right",
+      "pdf_pages": [
+        15
+      ],
+      "bdrc_images": [
+        17
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p015-left.png",
+        "evidence/chapter-01/annotation-audit/p015-right.png"
+      ],
+      "rationale": "Main mes ni 'byung ba sel ba dang contains no spel. Smaller spel yang byung is set between sel ba and dang, with a dotted leader. Preserve both layers."
+    },
+    {
+      "unit": 534,
+      "id": "U00534",
+      "original_unit_text": "ལྗོངས་བདེ་ཡང་བྱུང་རབ་ཏུ་རྫོགས་ཏེ་ཉམས་དགའ་བར། །",
+      "original_unit_wylie": "ljongs bde yang byung rab tu rdzogs te nyams dga' bar/_/",
+      "prior_note": {
+        "unit": 534,
+        "pdf_page": 23,
+        "bdrc_image": 25,
+        "main_reading_wylie": "ljongs rab tu rdzogs te nyams dga' bar/",
+        "source_variant_wylie": "bde yang byung",
+        "reason": "Additional flat-transcript candidate requested by root."
+      },
+      "proposed_scan_main_wylie": "ljongs rab tu rdzogs te nyams dga' bar/",
+      "proposed_scan_main_tibetan": "ལྗོངས་རབ་ཏུ་རྫོགས་ཏེ་ཉམས་དགའ་བར།",
+      "annotation_kept_separately_wylie": "bde yang byung",
+      "annotation_kept_separately_tibetan": "བདེ་ཡང་བྱུང",
+      "annotation_provenance": "printed_separate_displaced",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "main line 4 right continuing line 5 left; smaller note line 5 far right",
+      "pdf_pages": [
+        23
+      ],
+      "bdrc_images": [
+        25
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p023-left.png",
+        "evidence/chapter-01/annotation-audit/p023-right.png"
+      ],
+      "rationale": "Main ljongs rab tu rdzogs te nyams dga' bar crosses the line. Smaller bde yang byung appears near the end of line 5, linked by a dotted leader; do not replace ljongs with bde."
+    },
+    {
+      "unit": 596,
+      "id": "U00596",
+      "original_unit_text": "འོད་འབྱུང་ཕྲེང་བ་ཀླུ་ཡི་གླུ་ཡང་གདུང་ཡང་བྱུང་གདོང་། །",
+      "original_unit_wylie": "'od 'byung phreng ba klu yi glu yang gdung yang byung gdong /_/",
+      "prior_note": {
+        "unit": 596,
+        "note": "N-035",
+        "pdf_page": 26,
+        "bdrc_image": 28,
+        "main_reading_wylie": "'od 'byung phreng ba klu yi gdong/",
+        "source_variant_wylie": "glu yang gdung yang byung",
+        "reason": "Separate the small-print reported alternatives glu and gdung from the main gdong reading; the existing English translates the main faces reading and retains both reported alternatives.",
+        "status": "scan-supported separation; variant scope and interpretation require review"
+      },
+      "proposed_scan_main_wylie": "'od 'byung phreng ba klu yi gdong/",
+      "proposed_scan_main_tibetan": "འོད་འབྱུང་ཕྲེང་བ་ཀླུ་ཡི་གདོང།",
+      "annotation_kept_separately_wylie": "glu yang gdung yang byung",
+      "annotation_kept_separately_tibetan": "གླུ་ཡང་གདུང་ཡང་བྱུང",
+      "annotation_provenance": "printed_separate_displaced",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "main line 1 left-middle; smaller note line 2 left-middle",
+      "pdf_pages": [
+        26
+      ],
+      "bdrc_images": [
+        28
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p026-left.png",
+        "evidence/chapter-01/annotation-audit/p026-right.png"
+      ],
+      "rationale": "The main klu yi gdong is visible. The smaller glu yang gdung yang byung is printed on the following line; the transcript interleaving does not reproduce physical lineation."
+    },
+    {
+      "unit": 626,
+      "id": "U00626",
+      "original_unit_text": "ཚིག་དང་ཟུར་ལ་གཞོན་གཞོག་ཀྱང་པ་དང༌། །",
+      "original_unit_wylie": "tshig dang zur la gzhon gzhog kyang pa dang*/_/",
+      "prior_note": {
+        "unit": 626,
+        "pdf_page": 27,
+        "bdrc_image": 29,
+        "main_reading_wylie": "tshig dang zur la gzhon pa dang/",
+        "source_variant_wylie": "gzhog kyang",
+        "reason": "Continuous-early delegated variant layer."
+      },
+      "proposed_scan_main_wylie": "tshig dang zur la gzhon pa dang/",
+      "proposed_scan_main_tibetan": "ཚིག་དང་ཟུར་ལ་གཞོན་པ་དང།",
+      "annotation_kept_separately_wylie": "gzhog kyang",
+      "annotation_kept_separately_tibetan": "གཞོག་ཀྱང",
+      "annotation_provenance": "printed_separate_displaced",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "main p27 line 2 middle; smaller note p27 line 3 middle",
+      "pdf_pages": [
+        27
+      ],
+      "bdrc_images": [
+        29
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p027-left.png",
+        "evidence/chapter-01/annotation-audit/p027-right.png",
+        "evidence/chapter-01/annotation-audit/U626-detail.png"
+      ],
+      "rationale": "Main tshig dang zur la gzhon pa dang is uninterrupted. The smaller gzhog kyang is printed on the next physical line with a dotted leader. Preserve gzhon in main and gzhog in the separate reported alternative."
+    },
+    {
+      "unit": 632,
+      "id": "U00632",
+      "original_unit_text": "མ་དག་པ་ཡིས་ནི་ཡང་ཡེ་ཤེས་སོ། །",
+      "original_unit_wylie": "ma dag pa yis ni yang ye shes so/_/",
+      "prior_note": {
+        "unit": 632,
+        "note": "N-038",
+        "pdf_page": 27,
+        "bdrc_image": 29,
+        "main_reading_wylie": "ma dag pa yis ye shes so/",
+        "source_variant_wylie": "ni yang",
+        "reason": "The original supports the negative ma dag, despite the difficult sense. Preserve it; separate the ni variant note without silently changing impure to pure.",
+        "status": "scan-supported negative and annotation separation; sentence interpretation unresolved"
+      },
+      "proposed_scan_main_wylie": "ma dag pa yis ye shes so/",
+      "proposed_scan_main_tibetan": "མ་དག་པ་ཡིས་ཡེ་ཤེས་སོ།",
+      "annotation_kept_separately_wylie": "ni yang",
+      "annotation_kept_separately_tibetan": "ནི་ཡང",
+      "annotation_provenance": "printed_separate_displaced",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "main line 3 far right continuing line 4 far left; note line 4 far right",
+      "pdf_pages": [
+        27
+      ],
+      "bdrc_images": [
+        29
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p027-left.png",
+        "evidence/chapter-01/annotation-audit/p027-right.png"
+      ],
+      "rationale": "The main ma dag pa yis ... ye shes so crosses a line break. The smaller ni yang occurs at the right end of line 4. Preserve both negative main and separate variant."
+    },
+    {
+      "unit": 651,
+      "id": "U00651",
+      "original_unit_text": "བྱས་ཀྱང་འདུག་གནས་དང་བྱུང་དང་བྱེད་པ་དང་། །",
+      "original_unit_wylie": "byas kyang 'dug gnas dang byung dang byed pa dang /_/",
+      "prior_note": {
+        "unit": 651,
+        "note": "N-039",
+        "pdf_page": 28,
+        "bdrc_image": 30,
+        "main_reading_wylie": "gnas dang byung dang byed pa dang/",
+        "source_variant_wylie": "byas kyang 'dug",
+        "reason": "The e-text runs the small-print 'byas also occurs' note into the main verse. The existing English separates this note from abiding, arising, and acting.",
+        "status": "scan-supported separation; overall list syntax provisional"
+      },
+      "proposed_scan_main_wylie": "gnas dang byung dang byed pa dang/",
+      "proposed_scan_main_tibetan": "གནས་དང་བྱུང་དང་བྱེད་པ་དང།",
+      "annotation_kept_separately_wylie": "byas kyang 'dug",
+      "annotation_kept_separately_tibetan": "བྱས་ཀྱང་འདུག",
+      "annotation_provenance": "printed_separate_displaced",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "main line 2 middle; smaller note line 3 middle",
+      "pdf_pages": [
+        28
+      ],
+      "bdrc_images": [
+        30
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p028-left.png",
+        "evidence/chapter-01/annotation-audit/p028-right.png"
+      ],
+      "rationale": "Main gnas dang byung dang byed pa dang is continuous. The smaller byas kyang 'dug is visible on line 3, displaced below the target. Separate the full three-syllable report."
+    },
+    {
+      "unit": 710,
+      "id": "U00710",
+      "original_unit_text": "སོ་སོའི་ནུས་པས་བུས་པ་སྦྱར་ཡང་འབྱུང་བསྒྱུར་བ་གང་། །",
+      "original_unit_wylie": "so so'i nus pas bus pa sbyar yang 'byung bsgyur ba gang /_/",
+      "prior_note": {
+        "unit": 710,
+        "pdf_page": 30,
+        "bdrc_image": 32,
+        "main_reading_wylie": "so so'i nus pas bsgyur ba gang/",
+        "source_variant_wylie": "bus pa sbyar yang 'byung",
+        "reason": "Additional flat-transcript candidate requested by root."
+      },
+      "proposed_scan_main_wylie": "so so'i nus pas bsgyur ba gang/",
+      "proposed_scan_main_tibetan": "སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང།",
+      "annotation_kept_separately_wylie": "bus pa sbyar yang 'byung",
+      "annotation_kept_separately_tibetan": "བུས་པ་སྦྱར་ཡང་འབྱུང",
+      "annotation_provenance": "printed_separate_boundary_correction",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "main line 3 right; smaller note line 4 middle-right",
+      "pdf_pages": [
+        30
+      ],
+      "bdrc_images": [
+        32
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p030-left.png",
+        "evidence/chapter-01/annotation-audit/p030-right.png"
+      ],
+      "rationale": "Main so so'i nus pas bsgyur ba gang excludes bus pa. The separate printed annotation reads bus pa sbyar yang 'byung on the following line. Preserve the whole supplied report rather than leave bus pa in the root main reading."
+    },
+    {
+      "unit": 800,
+      "id": "U00800",
+      "original_unit_text": "བྷ་ར་བྷ་ཏི་ས་ཡི་ཡང་བྱུང་ས་ལི་ཞེས་བྱ་བར། །",
+      "original_unit_wylie": "b+ha ra b+ha ti sa yi yang byung sa li zhes bya bar/_/",
+      "prior_note": {
+        "unit": 800,
+        "pdf_page": 33,
+        "bdrc_image": 35,
+        "main_reading_wylie": "b+ha ra b+ha ti sa li zhes bya bar/",
+        "source_variant_wylie": "sa yi yang byung",
+        "reason": "Additional flat-transcript candidate requested by root."
+      },
+      "proposed_scan_main_wylie": "b+ha ra b+ha ti sa li zhes bya bar/",
+      "proposed_scan_main_tibetan": "བྷ་ར་བྷ་ཏི་ས་ལི་ཞེས་བྱ་བར།",
+      "annotation_kept_separately_wylie": "sa yi yang byung",
+      "annotation_kept_separately_tibetan": "ས་ཡི་ཡང་བྱུང",
+      "annotation_provenance": "printed_separate_displaced",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "main line 5 left-middle; smaller note line 6 left-middle",
+      "pdf_pages": [
+        33
+      ],
+      "bdrc_images": [
+        35
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p033-left.png",
+        "evidence/chapter-01/annotation-audit/p033-right.png"
+      ],
+      "rationale": "Main b+ha ra b+ha ti sa li zhes bya bar is uninterrupted; smaller sa yi yang byung is linked by a dotted leader on the next physical line. Preserve the printed Sanskrit-like spelling without regularization."
+    },
+    {
+      "unit": 1067,
+      "id": "U01067",
+      "original_unit_text": "བརྒྱ་ཡང་བྱུང་ཐམས་ཅད་ཚེ་གཅིག་འབྲས་བུ་ཐོབ། །",
+      "original_unit_wylie": "brgya yang byung thams cad tshe gcig 'bras bu thob/_/",
+      "prior_note": {
+        "unit": 1067,
+        "note": "N-053",
+        "pdf_page": 43,
+        "bdrc_image": 45,
+        "main_reading_wylie": "thams cad tshe gcig 'bras bu thob/",
+        "source_variant_wylie": "brgya yang byung",
+        "reason": "Full original and detail crop separate the small-print numerical variant from the main result-in-one-lifetime verse; preserve the preceding eight-age main count.",
+        "status": "scan-supported separation; variant scope provisional",
+        "applied_in_batch": true
+      },
+      "proposed_scan_main_wylie": "thams cad tshe gcig 'bras bu thob/",
+      "proposed_scan_main_tibetan": "ཐམས་ཅད་ཚེ་གཅིག་འབྲས་བུ་ཐོབ།",
+      "annotation_kept_separately_wylie": "brgya yang byung",
+      "annotation_kept_separately_tibetan": "བརྒྱ་ཡང་བྱུང",
+      "annotation_provenance": "printed_separate_displaced",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "main p43 line 3 middle-right; smaller note line 4 middle",
+      "pdf_pages": [
+        43
+      ],
+      "bdrc_images": [
+        45
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p043-left.png",
+        "evidence/chapter-01/annotation-audit/p043-right.png",
+        "evidence/chapter-01/annotation-audit/U1067-detail.png"
+      ],
+      "rationale": "Main thams cad tshe gcig 'bras bu thob is clear. Smaller brgya yang byung is printed below on line 4 after the preceding main phrase. This directly supersedes the earlier local non-observation; it does not change the adopted main reading."
+    },
+    {
+      "unit": 1090,
+      "id": "U01090",
+      "original_unit_text": "ཡན་ལག་བཀོད་པ་བརྒྱ་བཅུ་གཅིག་ཀྱང་བྱུང་གཅིག་གོ། །",
+      "original_unit_wylie": "yan lag bkod pa brgya bcu gcig kyang byung gcig go/_/",
+      "prior_note": {
+        "unit": 1090,
+        "note": "N-054",
+        "pdf_page": 44,
+        "bdrc_image": 46,
+        "main_reading_wylie": "yan lag bkod pa brgya gcig go/",
+        "source_variant_wylie": "bcu gcig kyang byung",
+        "reason": "The original and crop separate the small-print eleven report from the main brgya gcig count. Translate the main 101 without silently converting the variant to a total.",
+        "status": "scan-supported separation; replacement scope provisional",
+        "applied_in_batch": true
+      },
+      "proposed_scan_main_wylie": "yan lag bkod pa brgya gcig go/",
+      "proposed_scan_main_tibetan": "ཡན་ལག་བཀོད་པ་བརྒྱ་གཅིག་གོ།",
+      "annotation_kept_separately_wylie": "bcu gcig kyang byung",
+      "annotation_kept_separately_tibetan": "བཅུ་གཅིག་ཀྱང་བྱུང",
+      "annotation_provenance": "printed_separate_displaced",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "main p44 line 2 far right; smaller note line 3 far right",
+      "pdf_pages": [
+        44
+      ],
+      "bdrc_images": [
+        46
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p044-left.png",
+        "evidence/chapter-01/annotation-audit/p044-right.png",
+        "evidence/chapter-01/annotation-audit/U1090-detail.png"
+      ],
+      "rationale": "Main yan lag bkod pa brgya gcig go is clear. Smaller bcu gcig kyang byung is printed on the next physical line at the right edge. This supersedes earlier local non-observation and restores witnessed annotation provenance."
+    },
+    {
+      "unit": 1144,
+      "id": "U01144",
+      "original_unit_text": "ཚིག་ཆད་སོང་།",
+      "original_unit_wylie": "tshig chad song /",
+      "prior_note": {
+        "unit": 1144,
+        "pdf_page": 46,
+        "bdrc_image": 48,
+        "source_annotation_wylie": "tshig chad song/",
+        "reason": "Continuous-early delegated omission-query layer."
+      },
+      "proposed_scan_main_wylie": "",
+      "proposed_scan_main_tibetan": "",
+      "annotation_kept_separately_wylie": "tshig chad song/",
+      "annotation_kept_separately_tibetan": "ཚིག་ཆད་སོང།",
+      "annotation_provenance": "printed_source_omission_query",
+      "main_reading_confidence": "not_applicable_annotation_only_unit",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "p46 line 3 left-middle between U01143 and U01145",
+      "pdf_pages": [
+        46
+      ],
+      "bdrc_images": [
+        48
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p046-left.png",
+        "evidence/chapter-01/annotation-audit/p046-right.png",
+        "evidence/chapter-01/annotation-audit/U1144-detail.png"
+      ],
+      "rationale": "tshig chad song is printed in smaller type after the preceding verse and before rtsi ni sems can gzhan don dang. Preserve it as the witness's textual omission query. It is neither root verse nor evidence sufficient to invent or restore missing words."
+    },
+    {
+      "unit": 1233,
+      "id": "U01233",
+      "original_unit_text": "དེ་ལྟར་བརྒྱ་དང་བརྒྱད་ཅུ་ཆགས་འཇིག་སྟོངས་པ་ལས། །",
+      "original_unit_wylie": "de ltar brgya dang brgyad cu chags 'jig stongs pa las/_/",
+      "prior_note": {
+        "unit": 1233,
+        "note": "N-059",
+        "pdf_page": 49,
+        "bdrc_image": 51,
+        "main_reading_wylie": "de ltar brgya dang brgyad cu las/",
+        "source_gloss_wylie": "chags 'jig stongs pa",
+        "reason": "The original sets formation/destruction/emptiness in smaller print; preserve it separately from the 180-period main verse.",
+        "status": "scan-supported separation",
+        "applied_in_batch": true
+      },
+      "proposed_scan_main_wylie": "de ltar brgya dang brgyad cu las/",
+      "proposed_scan_main_tibetan": "དེ་ལྟར་བརྒྱ་དང་བརྒྱད་ཅུ་ལས།",
+      "annotation_kept_separately_wylie": "chags 'jig stongs pa",
+      "annotation_kept_separately_tibetan": "ཆགས་འཇིག་སྟོངས་པ",
+      "annotation_provenance": "printed_displaced_single_occurrence",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "main line 4 middle; matching gloss line 5 middle-right, inside displayed U01238",
+      "pdf_pages": [
+        49
+      ],
+      "bdrc_images": [
+        51
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p049-left.png",
+        "evidence/chapter-01/annotation-audit/p049-right.png"
+      ],
+      "rationale": "No gloss interrupts brgyad cu ... las. One smaller chags 'jig stongs pa occurrence is printed on line 5 between bskal pa and chen po of U01238. The e-text reports it twice (U01233 and U01237); do not represent this as two scan-observed glosses.",
+      "shared_scan_annotation_key": "A-p049-l5-chags-jig-stongs-pa",
+      "observed_scan_annotation_count_for_shared_key": 1,
+      "observed_annotation_inside_unit": 1238,
+      "renderer_annotation_anchor": {
+        "shared_annotation_key": "A-p049-l5-chags-jig-stongs-pa",
+        "display_once": true,
+        "unit": "U01238",
+        "position": "inline_after_exact_prefix",
+        "exact_main_prefix_tibetan": "བསྐལ་པ་",
+        "prefix_unicode_codepoints": 7,
+        "main_suffix_wylie": "chen po gcig yin no/",
+        "scan_annotation_wylie": "chags 'jig stongs pa",
+        "source_transcript_units_preserved_in_apparatus": [
+          "U01233",
+          "U01237"
+        ],
+        "note": "Do not create two physical source annotations. Keep the U01238 main reading complete; place the single annotation marker after bskal pa."
+      }
+    },
+    {
+      "unit": 1237,
+      "id": "U01237",
+      "original_unit_text": "དེ་ལྟར་སྦྲགས་ཆགས་འཇིག་སྟོངས་པ་པ་དེ་ཙམ་ལས། །",
+      "original_unit_wylie": "de ltar sbrags chags 'jig stongs pa pa de tsam las/_/",
+      "prior_note": {
+        "unit": 1237,
+        "note": "N-059",
+        "pdf_page": 49,
+        "bdrc_image": 51,
+        "main_reading_wylie": "de ltar sbrags pa de tsam las/",
+        "source_gloss_wylie": "chags 'jig stongs pa",
+        "reason": "The e-text interleaves the repeated small-print gloss inside sbrags pa. Separate the gloss in English without editing the source.",
+        "status": "scan-supported separation",
+        "applied_in_batch": true
+      },
+      "proposed_scan_main_wylie": "de ltar sbrags pa de tsam las/",
+      "proposed_scan_main_tibetan": "དེ་ལྟར་སྦྲགས་པ་དེ་ཙམ་ལས།",
+      "annotation_kept_separately_wylie": "chags 'jig stongs pa",
+      "annotation_kept_separately_tibetan": "ཆགས་འཇིག་སྟོངས་པ",
+      "annotation_provenance": "printed_displaced_single_occurrence",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "main line 5 middle; matching gloss later on same line, inside displayed U01238",
+      "pdf_pages": [
+        49
+      ],
+      "bdrc_images": [
+        51
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p049-left.png",
+        "evidence/chapter-01/annotation-audit/p049-right.png"
+      ],
+      "rationale": "Main sbrags pa de tsam las is uninterrupted. The same single observed gloss reported with U01233 occurs between bskal pa and chen po in U01238. Preserve both e-text occurrences in apparatus, but count and display the scan annotation once at its observed position.",
+      "shared_scan_annotation_key": "A-p049-l5-chags-jig-stongs-pa",
+      "observed_scan_annotation_count_for_shared_key": 1,
+      "observed_annotation_inside_unit": 1238,
+      "renderer_annotation_anchor": {
+        "shared_annotation_key": "A-p049-l5-chags-jig-stongs-pa",
+        "display_once": true,
+        "unit": "U01238",
+        "position": "inline_after_exact_prefix",
+        "exact_main_prefix_tibetan": "བསྐལ་པ་",
+        "prefix_unicode_codepoints": 7,
+        "main_suffix_wylie": "chen po gcig yin no/",
+        "scan_annotation_wylie": "chags 'jig stongs pa",
+        "source_transcript_units_preserved_in_apparatus": [
+          "U01233",
+          "U01237"
+        ],
+        "note": "Do not create two physical source annotations. Keep the U01238 main reading complete; place the single annotation marker after bskal pa."
+      }
+    },
+    {
+      "unit": 1265,
+      "id": "U01265",
+      "original_unit_text": "རྣལ་འབྱོར་པ་ཡིས་བཀུག་དཀྲུག་ཀྱང་ ཤེས་ན། །",
+      "original_unit_wylie": "rnal 'byor pa yis bkug dkrug kyang _shes na/_/",
+      "prior_note": {
+        "unit": 1265,
+        "note": "N-062",
+        "pdf_page": 50,
+        "bdrc_image": 52,
+        "main_reading_wylie": "rnal 'byor pa yis bkug shes na/",
+        "source_variant_wylie": "dkrug kyang",
+        "reason": "The small-print stir alternative is distinct from the main knows-how-to-summon construction.",
+        "status": "scan-supported separation; abbreviated report retained",
+        "applied_in_batch": true
+      },
+      "proposed_scan_main_wylie": "rnal 'byor pa yis bkug shes na/",
+      "proposed_scan_main_tibetan": "རྣལ་འབྱོར་པ་ཡིས་བཀུག་ཤེས་ན།",
+      "annotation_kept_separately_wylie": "dkrug kyang",
+      "annotation_kept_separately_tibetan": "དཀྲུག་ཀྱང",
+      "annotation_provenance": "printed_separate_displaced",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "main line 5 middle-right; smaller note line 6 middle-right",
+      "pdf_pages": [
+        50
+      ],
+      "bdrc_images": [
+        52
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p050-left.png",
+        "evidence/chapter-01/annotation-audit/p050-right.png"
+      ],
+      "rationale": "Main rnal 'byor pa yis bkug shes na is continuous. Smaller dkrug kyang appears immediately below on line 6. Retain it as observed source annotation."
+    },
+    {
+      "unit": 1414,
+      "id": "U01414",
+      "original_unit_text": "ས་པ་ལ་སེ་ཡི་ཡང་བྱུང་ལ་སེར་པོའི་སྦྱོར་བ་ཡི། །",
+      "original_unit_wylie": "sa pa la se yi yang byung la ser po'i sbyor ba yi/_/",
+      "prior_note": {
+        "unit": 1414,
+        "note": "N-068",
+        "pdf_page": 56,
+        "bdrc_image": 58,
+        "main_reading_wylie": "sa pa la ser po'i sbyor ba yi/",
+        "source_variant_wylie": "se yi yang byung",
+        "reason": "Separate the small-print se yi report; do not use the interruption to invent a botanical or mineral identification.",
+        "status": "scan-supported separation; ingredient unidentified",
+        "applied_in_batch": true
+      },
+      "proposed_scan_main_wylie": "sa pa la ser po'i sbyor ba yi/",
+      "proposed_scan_main_tibetan": "ས་པ་ལ་སེར་པོའི་སྦྱོར་བ་ཡི།",
+      "annotation_kept_separately_wylie": "se yi yang byung",
+      "annotation_kept_separately_tibetan": "སེ་ཡི་ཡང་བྱུང",
+      "annotation_provenance": "printed_separate_displaced",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "main line 3 right; smaller note line 4 right",
+      "pdf_pages": [
+        56
+      ],
+      "bdrc_images": [
+        58
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p056-left.png",
+        "evidence/chapter-01/annotation-audit/p056-right.png"
+      ],
+      "rationale": "Main sa pa la ser po'i sbyor ba yi is uninterrupted. The smaller se yi yang byung is printed on the following physical line; its target association follows the supplied report, while its physical placement is recorded independently."
+    },
+    {
+      "unit": 1417,
+      "id": "U01417",
+      "original_unit_text": "འབྱུང་བའི་དུས་ཉིད་རབ་བསྟིམས་ བསྡེབས་ཀྱང་བྱུང་ནས། །",
+      "original_unit_wylie": "'byung ba'i dus nyid rab bstims _bsdebs kyang byung nas/_/",
+      "prior_note": {
+        "unit": 1417,
+        "note": "N-068",
+        "pdf_page": 56,
+        "bdrc_image": 58,
+        "main_reading_wylie": "'byung ba'i dus nyid rab bstims nas/",
+        "source_variant_wylie": "bsdebs kyang byung",
+        "reason": "Retain the main absorb wording and the separately printed combine alternative without choosing a practical reconstruction.",
+        "status": "scan-supported separation; sentence interpretation provisional",
+        "applied_in_batch": true
+      },
+      "proposed_scan_main_wylie": "'byung ba'i dus nyid rab bstims nas/",
+      "proposed_scan_main_tibetan": "འབྱུང་བའི་དུས་ཉིད་རབ་བསྟིམས་ནས།",
+      "annotation_kept_separately_wylie": "bsdebs kyang byung",
+      "annotation_kept_separately_tibetan": "བསྡེབས་ཀྱང་བྱུང",
+      "annotation_provenance": "printed_separate_displaced",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "main line 4 middle; smaller note line 5 middle-right before phyin nas",
+      "pdf_pages": [
+        56
+      ],
+      "bdrc_images": [
+        58
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p056-left.png",
+        "evidence/chapter-01/annotation-audit/p056-right.png"
+      ],
+      "rationale": "Main rab bstims nas is continuous; smaller bsdebs kyang byung is printed in nearby whitespace on the following line. Keep the note separate and do not insert it into the main predicate."
+    },
+    {
+      "unit": 1422,
+      "id": "U01422",
+      "original_unit_text": "རིན་པོ་ཆེ་ཡི་རིན་ཆེན་བསེའི་ཡང་བྱུང་སྦྱོར་བ་དག །",
+      "original_unit_wylie": "rin po che yi rin chen bse'i yang byung sbyor ba dag_/",
+      "prior_note": {
+        "unit": 1422,
+        "note": "N-068",
+        "pdf_page": 56,
+        "bdrc_image": 58,
+        "main_reading_wylie": "rin po che yi sbyor ba dag/",
+        "source_variant_wylie": "rin chen bse'i yang byung",
+        "reason": "Separate the alternative material wording from the precious-substance preparation in the main verse.",
+        "status": "scan-supported separation; alternative identity unresolved",
+        "applied_in_batch": true
+      },
+      "proposed_scan_main_wylie": "rin po che yi sbyor ba dag/",
+      "proposed_scan_main_tibetan": "རིན་པོ་ཆེ་ཡི་སྦྱོར་བ་དག།",
+      "annotation_kept_separately_wylie": "rin chen bse'i yang byung",
+      "annotation_kept_separately_tibetan": "རིན་ཆེན་བསེའི་ཡང་བྱུང",
+      "annotation_provenance": "printed_separate_displaced",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "main line 5 far right; smaller note line 6 far right",
+      "pdf_pages": [
+        56
+      ],
+      "bdrc_images": [
+        58
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p056-left.png",
+        "evidence/chapter-01/annotation-audit/p056-right.png"
+      ],
+      "rationale": "Main rin po che yi sbyor ba dag is uninterrupted. Smaller rin chen bse'i yang byung is printed at the right end of the following line. Preserve the uncertain ingredient wording; do not identify it from context."
+    },
+    {
+      "unit": 1439,
+      "id": "U01439",
+      "original_unit_text": "ལེགས་པར་སྦྱར་ཏེ་ཨ་ ཨ་ལིས་ཀྱང་བྱུང་ཡིས་བསྐོར། །",
+      "original_unit_wylie": "legs par sbyar te a _a lis kyang byung yis bskor/_/",
+      "prior_note": {
+        "unit": 1439,
+        "note": "N-068",
+        "pdf_page": 57,
+        "bdrc_image": 59,
+        "main_reading_wylie": "legs par sbyar te a yis bskor/",
+        "source_variant_wylie": "a lis kyang byung",
+        "reason": "The small-print āli alternative is separate from the main A syllable.",
+        "status": "scan-supported separation; ritual referent provisional",
+        "applied_in_batch": true
+      },
+      "proposed_scan_main_wylie": "legs par sbyar te a yis bskor/",
+      "proposed_scan_main_tibetan": "ལེགས་པར་སྦྱར་ཏེ་ཨ་ཡིས་བསྐོར།",
+      "annotation_kept_separately_wylie": "a lis kyang byung",
+      "annotation_kept_separately_tibetan": "ཨ་ལིས་ཀྱང་བྱུང",
+      "annotation_provenance": "printed_separate_displaced",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "main line 3 right; smaller note line 4 far right",
+      "pdf_pages": [
+        57
+      ],
+      "bdrc_images": [
+        59
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p057-left.png",
+        "evidence/chapter-01/annotation-audit/p057-right.png"
+      ],
+      "rationale": "Main a yis bskor is legible. The smaller a lis kyang byung report occurs at the end of the following line, not as part of the root verse."
+    },
+    {
+      "unit": 1567,
+      "id": "U01567",
+      "original_unit_text": "བསྡམས་པས་གཏེམས་ཀྱང་བྱུང་འགགས་ལ་བཙིར་བས་འཆིང༌། །",
+      "original_unit_wylie": "bsdams pas gtems kyang byung 'gags la btsir bas 'ching*/_/",
+      "prior_note": {
+        "unit": 1567,
+        "note": "N-075",
+        "pdf_page": 62,
+        "bdrc_image": 64,
+        "main_reading_wylie": "bsdams pas 'gags la btsir bas 'ching/",
+        "source_variant_wylie": "gtems kyang byung",
+        "reason": "Separate the smaller packing alternative from the main constricting/wringing operation pair.",
+        "status": "scan-supported separation; operational meaning provisional",
+        "applied_in_batch": true
+      },
+      "proposed_scan_main_wylie": "bsdams pas 'gags la btsir bas 'ching/",
+      "proposed_scan_main_tibetan": "བསྡམས་པས་འགགས་ལ་བཙིར་བས་འཆིང།",
+      "annotation_kept_separately_wylie": "gtems kyang byung",
+      "annotation_kept_separately_tibetan": "གཏེམས་ཀྱང་བྱུང",
+      "annotation_provenance": "printed_separate_displaced",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "main line 2 left-middle; smaller note line 3 left-middle",
+      "pdf_pages": [
+        62
+      ],
+      "bdrc_images": [
+        64
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p062-left.png",
+        "evidence/chapter-01/annotation-audit/p062-right.png"
+      ],
+      "rationale": "Main bsdams pas 'gags la btsir bas 'ching is legible. Smaller gtems kyang byung occurs on the following line before the next de ltar passage."
+    },
+    {
+      "unit": 1657,
+      "id": "U01657",
+      "original_unit_text": "འདི་ཡི་ལུས་ཀྱང་ལུགས་ཀྱང་གསུམ་ཡིན་ཏེ། །",
+      "original_unit_wylie": "'di yi lus kyang lugs kyang gsum yin te/_/",
+      "prior_note": {
+        "unit": 1657,
+        "note": "N-077",
+        "pdf_page": 65,
+        "bdrc_image": 67,
+        "main_reading_wylie": "'di yi lus kyang gsum yin te/",
+        "source_variant_wylie": "lugs kyang",
+        "reason": "The main body reading and smaller manner alternative are typographically distinct.",
+        "status": "scan-supported separation; variant scope provisional",
+        "applied_in_batch": true
+      },
+      "proposed_scan_main_wylie": "'di yi lus kyang gsum yin te/",
+      "proposed_scan_main_tibetan": "འདི་ཡི་ལུས་ཀྱང་གསུམ་ཡིན་ཏེ།",
+      "annotation_kept_separately_wylie": "lugs kyang",
+      "annotation_kept_separately_tibetan": "ལུགས་ཀྱང",
+      "annotation_provenance": "printed_separate_displaced",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "main line 4 right; smaller note line 5 right",
+      "pdf_pages": [
+        65
+      ],
+      "bdrc_images": [
+        67
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p065-left.png",
+        "evidence/chapter-01/annotation-audit/p065-right.png"
+      ],
+      "rationale": "Main lus kyang gsum yin te is continuous. Smaller lugs kyang is printed below, on line 5."
+    },
+    {
+      "unit": 1668,
+      "id": "U01668",
+      "original_unit_text": "བཀང་ཡང་བྱུང་།",
+      "original_unit_wylie": "bkang yang byung /",
+      "prior_note": {
+        "unit": 1668,
+        "note": "N-078",
+        "pdf_page": 66,
+        "bdrc_image": 68,
+        "source_variant_wylie": "bkang yang byung",
+        "reason": "The separate filled alternative belongs to the preceding encircled-with-wind wording, not a new main-verse action.",
+        "status": "scan-supported separation",
+        "applied_in_batch": true
+      },
+      "proposed_scan_main_wylie": "",
+      "proposed_scan_main_tibetan": "",
+      "annotation_kept_separately_wylie": "bkang yang byung",
+      "annotation_kept_separately_tibetan": "བཀང་ཡང་བྱུང",
+      "annotation_provenance": "printed_separate_displaced",
+      "main_reading_confidence": "not_applicable_annotation_only_unit",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "related main p65 line 6 end continuing p66 line 1 left; note p66 line 2 left-middle",
+      "pdf_pages": [
+        66
+      ],
+      "bdrc_images": [
+        68
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p066-left.png",
+        "evidence/chapter-01/annotation-audit/p066-right.png"
+      ],
+      "rationale": "The standalone electronic unit is an annotation; bkang yang byung is small print on p66 line 2. Main U01667 ends rlung gis bskor; do not insert the reported bkang into main text.",
+      "related_main_unit": 1667
+    },
+    {
+      "unit": 1711,
+      "id": "U01711",
+      "original_unit_text": "ཡི་གེ་བཟློག་བརྗོད་ཀྱང་ཚུལ་དྲུག་གིས་ཀྱང༌། །",
+      "original_unit_wylie": "yi ge bzlog brjod kyang tshul drug gis kyang*/_/",
+      "prior_note": {
+        "unit": 1711,
+        "note": "N-079",
+        "pdf_page": 67,
+        "bdrc_image": 69,
+        "main_reading_wylie": "yi ge bzlog tshul drug gis kyang/",
+        "source_variant_wylie": "brjod kyang",
+        "reason": "The small pronouncing alternative is separate from the main letter-reversal expression.",
+        "status": "scan-supported separation; six modes not reconstructed",
+        "applied_in_batch": true
+      },
+      "proposed_scan_main_wylie": "yi ge bzlog tshul drug gis kyang/",
+      "proposed_scan_main_tibetan": "ཡི་གེ་བཟློག་ཚུལ་དྲུག་གིས་ཀྱང།",
+      "annotation_kept_separately_wylie": "brjod kyang",
+      "annotation_kept_separately_tibetan": "བརྗོད་ཀྱང",
+      "annotation_provenance": "printed_separate_displaced",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "main line 4 middle; smaller note line 5 middle before dang",
+      "pdf_pages": [
+        67
+      ],
+      "bdrc_images": [
+        69
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p067-left.png",
+        "evidence/chapter-01/annotation-audit/p067-right.png"
+      ],
+      "rationale": "Main yi ge bzlog tshul drug gis kyang is uninterrupted. The smaller brjod kyang report is on the following physical line."
+    },
+    {
+      "unit": 1716,
+      "id": "U01716",
+      "original_unit_text": "འདྲེ་དང་རླུང་ལྷ་དག་གི་དག་པའི་སྐད་ཀྱང་བྱུང་སྐད། །",
+      "original_unit_wylie": "'dre dang rlung lha dag gi dag pa'i skad kyang byung skad/_/",
+      "prior_note": {
+        "unit": 1716,
+        "note": "N-079",
+        "pdf_page": 67,
+        "bdrc_image": 69,
+        "main_reading_wylie": "'dre dang rlung lha dag gi skad/",
+        "source_variant_wylie": "dag pa'i skad kyang byung",
+        "reason": "Preserve the separately printed pure-voice alternative without inserting it into the main list of voice classes.",
+        "status": "scan-supported separation",
+        "applied_in_batch": true
+      },
+      "proposed_scan_main_wylie": "'dre dang rlung lha dag gi skad/",
+      "proposed_scan_main_tibetan": "འདྲེ་དང་རླུང་ལྷ་དག་གི་སྐད།",
+      "annotation_kept_separately_wylie": "dag pa'i skad kyang byung",
+      "annotation_kept_separately_tibetan": "དག་པའི་སྐད་ཀྱང་བྱུང",
+      "annotation_provenance": "printed_separate_displaced",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "main line 5 right; smaller note line 6 middle-right",
+      "pdf_pages": [
+        67
+      ],
+      "bdrc_images": [
+        69
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p067-left.png",
+        "evidence/chapter-01/annotation-audit/p067-right.png"
+      ],
+      "rationale": "Main 'dre dang rlung lha dag gi skad is legible. The smaller dag pa'i skad kyang byung report occurs on line 6; do not substitute it for dag gi skad."
+    },
+    {
+      "unit": 1734,
+      "id": "U01734",
+      "original_unit_text": "ཟླ་བ་ལོ་ཡི་འཁྲུལ་འཁྲུགས་ལུགས་ཀྱང་ལུགས་ཀྱིས། །",
+      "original_unit_wylie": "zla ba lo yi 'khrul 'khrugs lugs kyang lugs kyis/_/",
+      "prior_note": {
+        "unit": 1734,
+        "note": "N-080",
+        "pdf_page": 68,
+        "bdrc_image": 70,
+        "main_reading_wylie": "zla ba lo yi 'khrul lugs kyis/",
+        "source_variant_wylie": "'khrugs lugs kyang",
+        "reason": "Full image and detail crop distinguish main error-mode wording from the smaller confusion-mode alternative.",
+        "status": "scan-supported separation; calendrical meaning unresolved",
+        "applied_in_batch": true
+      },
+      "proposed_scan_main_wylie": "zla ba lo yi 'khrul lugs kyis/",
+      "proposed_scan_main_tibetan": "ཟླ་བ་ལོ་ཡི་འཁྲུལ་ལུགས་ཀྱིས།",
+      "annotation_kept_separately_wylie": "'khrugs lugs kyang",
+      "annotation_kept_separately_tibetan": "འཁྲུགས་ལུགས་ཀྱང",
+      "annotation_provenance": "printed_separate_displaced",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "main line 3 middle-right; smaller note line 4 middle",
+      "pdf_pages": [
+        68
+      ],
+      "bdrc_images": [
+        70
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p068-left.png",
+        "evidence/chapter-01/annotation-audit/p068-right.png"
+      ],
+      "rationale": "Main zla ba lo yi 'khrul lugs kyis and smaller 'khrugs lugs kyang are typographically separate, on successive physical lines."
+    },
+    {
+      "unit": 1776,
+      "id": "U01776",
+      "original_unit_text": "མིན་ཀྱང་།",
+      "original_unit_wylie": "min kyang /",
+      "prior_note": {
+        "unit": 1776,
+        "note": "N-082",
+        "pdf_page": 69,
+        "bdrc_image": 71,
+        "source_variant_wylie": "min kyang",
+        "reason": "The is-not alternative is smaller than the main yin predicate at U01775. Do not change the main affirmative into a negative.",
+        "status": "scan-supported separation",
+        "applied_in_batch": true
+      },
+      "proposed_scan_main_wylie": "",
+      "proposed_scan_main_tibetan": "",
+      "annotation_kept_separately_wylie": "min kyang",
+      "annotation_kept_separately_tibetan": "མིན་ཀྱང",
+      "annotation_provenance": "printed_separate",
+      "main_reading_confidence": "not_applicable_annotation_only_unit",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "line 6 middle, immediately after main U01775 yin",
+      "pdf_pages": [
+        69
+      ],
+      "bdrc_images": [
+        71
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p069-left.png",
+        "evidence/chapter-01/annotation-audit/p069-right.png"
+      ],
+      "rationale": "The smaller min kyang is visibly set after the larger affirmative main predicate yin. Retain main affirmation and separate alternative.",
+      "related_main_unit": 1775
+    },
+    {
+      "unit": 1803,
+      "id": "U01803",
+      "original_unit_text": "ས་གཞི་ཡང་བྱུང་ཡ་བཞི་བཟུང་སྟེ་རང་རང་བསྟུན། །",
+      "original_unit_wylie": "sa gzhi yang byung ya bzhi bzung ste rang rang bstun/_/",
+      "prior_note": {
+        "unit": 1803,
+        "note": "N-083",
+        "pdf_page": 70,
+        "bdrc_image": 72,
+        "main_reading_wylie": "sa ya bzhi bzung ste rang rang bstun/",
+        "source_variant_wylie": "gzhi yang byung",
+        "reason": "The main sa ya numeral is interrupted in the e-text by a smaller gzhi variant report. The sentence continues into the next image.",
+        "status": "scan-supported separation; numeral unit and variant scope unresolved",
+        "applied_in_batch": true
+      },
+      "proposed_scan_main_wylie": "ya bzhi bzung ste rang rang bstun/",
+      "proposed_scan_main_tibetan": "ཡ་བཞི་བཟུང་སྟེ་རང་རང་བསྟུན།",
+      "annotation_kept_separately_wylie": "sa gzhi yang byung",
+      "annotation_kept_separately_tibetan": "ས་གཞི་ཡང་བྱུང",
+      "annotation_provenance": "printed_separate_boundary_correction",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "main p70 line 6 far right continuing p71 line 1 left; smaller note after main ya at p70 line 6 far right",
+      "pdf_pages": [
+        70,
+        71
+      ],
+      "bdrc_images": [
+        72,
+        73
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p070-left.png",
+        "evidence/chapter-01/annotation-audit/p070-right.png",
+        "evidence/chapter-01/annotation-audit/p071-full.png",
+        "evidence/chapter-01/annotation-audit/root-u1803-70.png",
+        "evidence/chapter-01/annotation-audit/root-u1803-71.png"
+      ],
+      "rationale": "Correction of this audit's earlier erroneous layer split: p70 ends with large ya followed by smaller sa gzhi yang byung. P71 begins large bzhi bzung ste rang rang bstun. The observed main is ya bzhi bzung ste rang rang bstun; do not move the smaller sa into main to obtain the numerically familiar sa ya. Preserve the whole smaller report sa gzhi yang byung separately. Root and the continuous-late reader independently identified this boundary before this focused recheck.",
+      "review_history": [
+        {
+          "status": "superseded_in_this_audit",
+          "main_wylie": "sa ya bzhi bzung ste rang rang bstun/",
+          "annotation_wylie": "gzhi yang byung",
+          "reason": "Incorrect layer boundary placed small-print sa in the main numeral."
+        },
+        {
+          "status": "corrected_after_native_crop_recheck",
+          "main_wylie": "ya bzhi bzung ste rang rang bstun/",
+          "annotation_wylie": "sa gzhi yang byung",
+          "reason": "Both native crops visibly distinguish large ya from smaller sa gzhi yang byung; p71 main starts bzhi bzung."
+        }
+      ]
+    },
+    {
+      "unit": 1806,
+      "id": "U01806",
+      "original_unit_text": "ལྟེབ་དང་གཏུགས་ཀྱང་བྱུང་།",
+      "original_unit_wylie": "lteb dang gtugs kyang byung /",
+      "prior_note": {
+        "unit": 1806,
+        "note": "N-083",
+        "pdf_page": 70,
+        "bdrc_image": 72,
+        "source_variant_wylie": "lteb dang gtugs kyang byung",
+        "reason": "A smaller marginal report is retained separately. Its precise target within the adjoining verses is not fixed here.",
+        "status": "scan-supported annotation; attachment unresolved",
+        "applied_in_batch": true
+      },
+      "proposed_scan_main_wylie": "",
+      "proposed_scan_main_tibetan": "",
+      "annotation_kept_separately_wylie": "lteb dang gtugs kyang byung",
+      "annotation_kept_separately_tibetan": "ལྟེབ་དང་གཏུགས་ཀྱང་བྱུང",
+      "annotation_provenance": "printed_margin_note",
+      "main_reading_confidence": "not_applicable_annotation_only_unit",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "p70 below line 6 far left, in extension of lower frame",
+      "pdf_pages": [
+        70
+      ],
+      "bdrc_images": [
+        72
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p070-left.png",
+        "evidence/chapter-01/annotation-audit/p070-right.png"
+      ],
+      "rationale": "The smaller lteb dang gtugs kyang byung is visibly printed in the lower-left marginal extension. Its precise target is not established by physical proximity alone."
+    },
+    {
+      "unit": 1811,
+      "id": "U01811",
+      "original_unit_text": "ལོ་སྟོང་ཞག་ལོ་སྟེ་ཞག་ཀྱང་བཅུ་ཕྲག་གསུམ། །",
+      "original_unit_wylie": "lo stong zhag lo ste zhag kyang bcu phrag gsum/_/",
+      "prior_note": {
+        "unit": 1811,
+        "units": [
+          1811,
+          1812
+        ],
+        "note": "N-083",
+        "pdf_page": 71,
+        "bdrc_image": 73,
+        "main_reading_wylie": "lo stong zhag kyang 'bum phrag gsum/",
+        "source_variant_wylie": "lo ste zhag kyang bcu phrag gsum yang byung",
+        "reason": "Full original and a corrected detail crop distinguish the main thousand-years/300,000-days verse from the smaller year/thirty-days alternative. The e-text splits both layers across two units.",
+        "status": "scan-supported separation; main arithmetic retained without normalization",
+        "applied_in_batch": true
+      },
+      "proposed_scan_main_wylie": "lo stong zhag kyang 'bum phrag gsum/",
+      "proposed_scan_main_tibetan": "ལོ་སྟོང་ཞག་ཀྱང་འབུམ་ཕྲག་གསུམ།",
+      "annotation_kept_separately_wylie": "lo ste zhag bcu phrag gsum yang byung",
+      "annotation_kept_separately_tibetan": "ལོ་སྟེ་ཞག་བཅུ་ཕྲག་གསུམ་ཡང་བྱུང",
+      "annotation_provenance": "printed_separate_exact_annotation_correction",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "main p71 line 2 far right to line 3 far left; smaller note line 3 right",
+      "pdf_pages": [
+        71
+      ],
+      "bdrc_images": [
+        73
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p071-left.png",
+        "evidence/chapter-01/annotation-audit/p071-right.png",
+        "evidence/chapter-01/annotation-audit/U1811-detail.png"
+      ],
+      "rationale": "Main lo stong zhag kyang 'bum phrag gsum is clear across the line break. Smaller note reads lo ste zhag bcu phrag gsum yang byung, without the kyang after zhag reported in the earlier annotation paraphrase. Preserve unchanged exact U01811/U01812 source strings in the apparatus and do not relabel the old flattened transcription as an exact scan quote.",
+      "units": [
+        1811,
+        1812
+      ],
+      "original_units": [
+        {
+          "id": "U01811",
+          "tibetan": "ལོ་སྟོང་ཞག་ལོ་སྟེ་ཞག་ཀྱང་བཅུ་ཕྲག་གསུམ། །",
+          "wylie": "lo stong zhag lo ste zhag kyang bcu phrag gsum/_/"
+        },
+        {
+          "id": "U01812",
+          "tibetan": "ཡང་བྱུང་ཀྱང་འབུམ་ཕྲག་གསུམ། །",
+          "wylie": "yang byung kyang 'bum phrag gsum/_/"
+        }
+      ],
+      "original_units_joined_exact_tibetan": "ལོ་སྟོང་ཞག་ལོ་སྟེ་ཞག་ཀྱང་བཅུ་ཕྲག་གསུམ། །ཡང་བྱུང་ཀྱང་འབུམ་ཕྲག་གསུམ། །",
+      "proposed_main_distribution": {
+        "U01811": "ལོ་སྟོང་ཞག་ཀྱང་འབུམ་ཕྲག་གསུམ།",
+        "U01812": ""
+      },
+      "exact_scan_annotation_wylie": "lo ste zhag bcu phrag gsum yang byung",
+      "exact_scan_annotation_tibetan": "ལོ་སྟེ་ཞག་བཅུ་ཕྲག་གསུམ་ཡང་བྱུང",
+      "annotation_transcription_difference": "Earlier source-note report had kyang after zhag; the observed smaller print does not. The main kyang belongs after main zhag. Preserve original source-unit strings independently."
+    },
+    {
+      "unit": 1829,
+      "id": "U01829",
+      "original_unit_text": "གསུམ་སྟེ་དུས་ནི་བཅུ་གཉིས་སྦྱར་ཡང་བྱུང།",
+      "original_unit_wylie": "gsum ste dus ni bcu gnyis sbyar yang byung/",
+      "prior_note": {
+        "unit": 1829,
+        "note": "N-083",
+        "pdf_page": 71,
+        "bdrc_image": 73,
+        "source_variant_wylie": "gsum ste dus ni bcu gnyis sbyar yang byung",
+        "related_main_unit": 1830,
+        "main_reading_wylie": "rten 'brel dus te bcu gnyis sbyar/",
+        "reason": "The full U01829 expression is a small-print alternative, beside the larger main rten 'brel verse that continues into image 74. It is not a second main enumeration.",
+        "status": "scan-supported separation; alternative scope provisional",
+        "applied_in_batch": true
+      },
+      "proposed_scan_main_wylie": "",
+      "proposed_scan_main_tibetan": "",
+      "annotation_kept_separately_wylie": "gsum ste dus ni bcu gnyis sbyar yang byung",
+      "annotation_kept_separately_tibetan": "གསུམ་སྟེ་དུས་ནི་བཅུ་གཉིས་སྦྱར་ཡང་བྱུང",
+      "annotation_provenance": "printed_separate_across_page",
+      "main_reading_confidence": "not_applicable_annotation_only_unit",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "p71 line 6 far right, continuing with yang byung at p72 line 1 far left",
+      "pdf_pages": [
+        71,
+        72
+      ],
+      "bdrc_images": [
+        73,
+        74
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p071-left.png",
+        "evidence/chapter-01/annotation-audit/p071-right.png",
+        "evidence/chapter-01/annotation-audit/p072-full.png"
+      ],
+      "rationale": "The note gsum ste dus ni bcu gnyis sbyar yang byung is in smaller script and crosses the page break. Main U01830 rten 'brel dus te bcu gnyis sbyar also crosses this break; printed p71 main begins rten and resumes 'brel ... on p72. Do not treat note as a second main enumeration.",
+      "related_main_unit": 1830
+    },
+    {
+      "unit": 2129,
+      "id": "U02129",
+      "original_unit_text": "དགུག་དང་བསད་དང་བསྐྲད་ཀྱང་བཅིངས་པའི་ལས། །",
+      "original_unit_wylie": "dgug dang bsad dang bskrad kyang bcings pa'i las/_/",
+      "prior_note": {
+        "unit": 2129,
+        "note": "N-093",
+        "pdf_page": 83,
+        "bdrc_image": 85,
+        "main_reading_wylie": "dgug dang bsad dang bcings pa'i las/",
+        "source_variant_wylie": "bskrad kyang",
+        "reason": "The smaller expelling alternative is distinct from the main summoning/killing/binding sequence.",
+        "status": "scan-supported separation",
+        "applied_in_batch": true
+      },
+      "proposed_scan_main_wylie": "dgug dang bsad dang bcings pa'i las/",
+      "proposed_scan_main_tibetan": "དགུག་དང་བསད་དང་བཅིངས་པའི་ལས།",
+      "annotation_kept_separately_wylie": "bskrad kyang",
+      "annotation_kept_separately_tibetan": "བསྐྲད་ཀྱང",
+      "annotation_provenance": "printed_separate_displaced",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "main line 3 middle-right; smaller note line 4 right",
+      "pdf_pages": [
+        83
+      ],
+      "bdrc_images": [
+        85
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p083-left.png",
+        "evidence/chapter-01/annotation-audit/p083-right.png"
+      ],
+      "rationale": "Main dgug dang bsad dang bcings pa'i las is continuous. Smaller bskrad kyang is printed on the following line."
+    },
+    {
+      "unit": 2225,
+      "id": "U02225",
+      "original_unit_text": "སྒྲ་དང་གདམས་ངག་སྨྲ་དང་གཏམ་ངན་ཡང་བྱུང་ལ་སོགས་ཏེ། །",
+      "original_unit_wylie": "sgra dang gdams ngag smra dang gtam ngan yang byung la sogs te/_/",
+      "prior_note": {
+        "unit": 2225,
+        "note": "N-098",
+        "pdf_page": 87,
+        "bdrc_image": 89,
+        "main_reading_wylie": "sgra dang gdams ngag smra dang la sogs te/",
+        "source_variant_wylie": "gtam ngan yang byung",
+        "reason": "The small bad-news report is separate from the main sound/instructions/speech list; the resulting main conjunction remains syntactically awkward and is not emended.",
+        "status": "scan-supported separation; main syntax provisional",
+        "applied_in_batch": true
+      },
+      "proposed_scan_main_wylie": "sgra dang gdams ngag la sogs te/",
+      "proposed_scan_main_tibetan": "སྒྲ་དང་གདམས་ངག་ལ་སོགས་ཏེ།",
+      "annotation_kept_separately_wylie": "smra dang gtam ngan yang byung",
+      "annotation_kept_separately_tibetan": "སྨྲ་དང་གཏམ་ངན་ཡང་བྱུང",
+      "annotation_provenance": "printed_separate_boundary_correction",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "main line 1 middle; smaller note line 2 middle",
+      "pdf_pages": [
+        87
+      ],
+      "bdrc_images": [
+        89
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p087-left.png",
+        "evidence/chapter-01/annotation-audit/p087-right.png"
+      ],
+      "rationale": "The old separation is wrong: main is sgra dang gdams ngag la sogs te. Both smra dang and gtam ngan belong to the smaller report smra dang gtam ngan yang byung. Remove smra dang from main only with this explicit scan correction."
+    },
+    {
+      "unit": 2332,
+      "id": "U02332",
+      "original_unit_text": "ངག་ནི་བསླབ་རླབ་ཀྱང་དང་གནས་པ་དང༌། །",
+      "original_unit_wylie": "ngag ni bslab rlab kyang dang gnas pa dang*/_/",
+      "prior_note": {
+        "unit": 2332,
+        "note": "N-103",
+        "pdf_page": 91,
+        "bdrc_image": 93,
+        "main_reading_wylie": "ngag ni bslab dang gnas pa dang/",
+        "source_variant_wylie": "rlab kyang",
+        "reason": "The smaller waves alternative is distinct from the main speech-training expression. Preserve it as a variant rather than a second instruction.",
+        "status": "scan-supported separation; variant meaning provisional",
+        "applied_in_batch": true
+      },
+      "proposed_scan_main_wylie": "ngag ni bslab dang gnas pa dang/",
+      "proposed_scan_main_tibetan": "ངག་ནི་བསླབ་དང་གནས་པ་དང།",
+      "annotation_kept_separately_wylie": "rlab kyang",
+      "annotation_kept_separately_tibetan": "རླབ་ཀྱང",
+      "annotation_provenance": "printed_separate_displaced",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "main line 1 middle; smaller note line 2 middle",
+      "pdf_pages": [
+        91
+      ],
+      "bdrc_images": [
+        93
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p091-left.png",
+        "evidence/chapter-01/annotation-audit/p091-right.png"
+      ],
+      "rationale": "Main ngag ni bslab dang gnas pa dang is visible; smaller rlab kyang is printed on line 2. Preserve the separate alternative."
+    },
+    {
+      "unit": 2489,
+      "id": "U02489",
+      "original_unit_text": "རྣལ་འབྱོར་ཆེན་པོའི་སྤྱོད་པའི་དྲིས་ལན་རེ་བདུན་པ།",
+      "original_unit_wylie": "rnal 'byor chen po'i spyod pa'i dris lan re bdun pa/",
+      "prior_note": {
+        "unit": 2489,
+        "note": "N-108",
+        "pdf_page": 96,
+        "bdrc_image": 98,
+        "main_reading_wylie": "rnal 'byor chen po'i spyod pa'i",
+        "source_heading_wylie": "dris lan re bdun pa",
+        "reason": "The printed reply heading falls between a genitive phrase and its result noun on the following image; preserve the heading position without treating it as part of the verse's grammar.",
+        "status": "scan-supported heading separation",
+        "applied_in_batch": true
+      },
+      "proposed_scan_main_wylie": "rnal 'byor chen po'i spyod pa'i",
+      "proposed_scan_main_tibetan": "རྣལ་འབྱོར་ཆེན་པོའི་སྤྱོད་པའི",
+      "annotation_kept_separately_wylie": "dris lan re bdun pa",
+      "annotation_kept_separately_tibetan": "དྲིས་ལན་རེ་བདུན་པ",
+      "annotation_provenance": "printed_heading_across_page",
+      "main_reading_confidence": "high",
+      "annotation_provenance_confidence": "high for the stated local observation; no claim about other loci",
+      "physical_locator": "main p96 line 6 far right; heading p97 line 1 first text",
+      "pdf_pages": [
+        96,
+        97
+      ],
+      "bdrc_images": [
+        98,
+        99
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p096-left.png",
+        "evidence/chapter-01/annotation-audit/p096-right.png",
+        "evidence/chapter-01/annotation-audit/p097-full.png"
+      ],
+      "rationale": "Main rnal 'byor chen po'i spyod pa'i ends p96. The heading dris lan re bdun pa is printed at the beginning of p97 before 'bras bu. Prior p96-only annotation locator is incomplete. Keep its structural position across the page break."
+    },
+    {
+      "unit": 2615,
+      "id": "U02615",
+      "original_unit_text": "མདོག་གི་ཡང་བྱུང་།",
+      "original_unit_wylie": "mdog gi yang byung /",
+      "prior_note": {
+        "unit": 2615,
+        "note": "N-115",
+        "pdf_page": 101,
+        "bdrc_image": 103,
+        "source_variant_wylie": "mdog gi yang byung",
+        "related_main_unit": 2614,
+        "reason": "The smaller color alternative is separate from the main form-assignment phrase; preserve the alternative without replacing the main text.",
+        "status": "scan-supported separation; replacement scope provisional",
+        "applied_in_batch": true
+      },
+      "proposed_scan_main_wylie": "",
+      "proposed_scan_main_tibetan": "",
+      "annotation_kept_separately_wylie": "mdog gi yang byung",
+      "annotation_kept_separately_tibetan": "མདོག་གི་ཡང་བྱུང",
+      "annotation_provenance": "small_note_cluster_glyphs_unresolved",
+      "main_reading_confidence": "not_applicable_annotation_only_unit",
+      "annotation_provenance_confidence": "qualified; exact glyph allocation unresolved",
+      "physical_locator": "related main p101 line 3 middle; small-note cluster p101 line 4 middle-right",
+      "pdf_pages": [
+        101
+      ],
+      "bdrc_images": [
+        103
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p101-left.png",
+        "evidence/chapter-01/annotation-audit/p101-right.png",
+        "evidence/chapter-01/annotation-audit/p101-summary.png"
+      ],
+      "rationale": "Main U02614 'bru bzhi lnga dang gzugs 'dogs kyis is clear. A displaced smaller note cluster before ston pa is heavily inked; exact allocation of mdog gi yang byung relative to the summary statement U02620 remains uncertain in this reading. Retain the transcript alternative separately with qualified scan provenance; do not claim absence.",
+      "related_main_unit": 2614,
+      "integration_followup": "The continuous late reviewer did not locate mdog gi yang byung on PDF101, identifying the inked summary as U02620. Exact U02615 print wording is therefore not established. Preserve the supplied transcript note without certifying its physical attestation."
+    },
+    {
+      "unit": 2620,
+      "id": "U02620",
+      "original_unit_text": "དེ་དག་གི་ཞབས་སྡུད་པའོ། །",
+      "original_unit_wylie": "de dag gi zhabs sdud pa'o/_/",
+      "prior_note": {
+        "unit": 2620,
+        "note": "N-115",
+        "pdf_page": 101,
+        "bdrc_image": 103,
+        "source_annotation_wylie": "de dag gi zhabs sdud pa'o/",
+        "reason": "Treat the concluding-summary statement as a source annotation introducing the closing narrative, not as an additional ritual instruction.",
+        "status": "scan-supported structural separation",
+        "applied_in_batch": true
+      },
+      "proposed_scan_main_wylie": "",
+      "proposed_scan_main_tibetan": "",
+      "annotation_kept_separately_wylie": "de dag gi zhabs sdud pa'o/",
+      "annotation_kept_separately_tibetan": "དེ་དག་གི་ཞབས་སྡུད་པའོ།",
+      "annotation_provenance": "small_note_cluster_glyphs_unresolved",
+      "main_reading_confidence": "not_applicable_annotation_only_unit",
+      "annotation_provenance_confidence": "qualified; exact glyph allocation unresolved",
+      "physical_locator": "p101 line 4 middle-right before ston pa",
+      "pdf_pages": [
+        101
+      ],
+      "bdrc_images": [
+        103
+      ],
+      "crop_paths": [
+        "evidence/chapter-01/annotation-audit/p101-left.png",
+        "evidence/chapter-01/annotation-audit/p101-right.png",
+        "evidence/chapter-01/annotation-audit/p101-summary.png"
+      ],
+      "rationale": "A smaller annotation cluster is printed after the main bying bar mi nus rgyug nus pa'o and before ston pa. The transcript reads de dag gi zhabs sdud pa'o. Its layer is observable, but the inked cluster does not support an unqualified fresh glyph-by-glyph certification here; preserve the exact transcript and review crop."
+    }
+  ]
+}

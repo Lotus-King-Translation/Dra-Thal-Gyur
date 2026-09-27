@@ -1,17 +1,24 @@
 {
-  "scope": "Chapter 1 provisional dossier, not complete-witness collation",
-  "all_local_markdown_links_resolve": true,
-  "local_links_checked": 1006,
+  "scope": "Chapter1 second-reading checkpoint; not a complete-witness certificate",
+  "source_hashes_unchanged": true,
+  "exact_reconstruction_checks": [
+    "minimal_B_exact",
+    "minimal_S_exact",
+    "whole_unit_B_exact",
+    "whole_unit_S_exact"
+  ],
   "base_units_accounted_for": 2635,
+  "curated_replacement_anchors": 47,
+  "scan_intervention_records": 47,
   "restored_main_verses": 13,
-  "restored_source_headings": 1,
   "abc_exact_conflicts": 359,
   "abc_readable_loci": 183,
-  "w_lexical_blocks": 273,
-  "independent_text_model_review": "All 2635 U records and declared interventions checked; no duplicate or misplaced insertions found.",
-  "original_tracked_source_files_modified": false,
+  "local_comparison_findings_including_candidates": 45,
+  "all_local_markdown_links_resolve": true,
+  "local_links_checked": 1519,
+  "evidence_references_checked": 547,
   "chapter_complete": false,
   "all_witnesses_collated": false,
   "next_chapter_started": false,
-  "markdown_sha256": "0eda4772d60943db2da268aaad4fbcba469b8f849b94fece2a9741159161aff3"
+  "markdown_sha256": "5982a21e84305cfd2827e0aeaec0aba7a30af30e0734f6cfc0ea20af5af074f9"
 }

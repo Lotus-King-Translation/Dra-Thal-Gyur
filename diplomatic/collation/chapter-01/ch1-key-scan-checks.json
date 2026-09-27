@@ -74,7 +74,7 @@
           45
         ],
         "image_group": "I1KG11710",
-        "location": "line 3, adjacent clauses U01066 and U01067",
+        "location": "main p43 line 3 middle-right; smaller note line 4 middle",
         "inspected_pixel_rectangles": {
           "p43-main-reading.png": [
             1330,
@@ -84,17 +84,31 @@
           ]
         }
       },
-      "rationale": "The inspected native pixels read མངོན་པའི་བསྟན་པ་བསྐལ་པ་བརྒྱད། followed by ཐམས་ཅད་ཚེ་གཅིག་འབྲས་བུ་ཐོབ།. No small brgya yang byung is visible between the clauses or in the inspected interline region. Separate that exact supplied-transcript phrase from the adopted main reading, preserving it in apparatus with provenance unresolved. The page was also viewed whole; this is not a certified exhaustive search for marginal microtext.",
-      "status": "scan_supported_main_reading_and_unverified_transcript_annotation",
+      "rationale": "Main thams cad tshe gcig 'bras bu thob is clear. Smaller brgya yang byung is printed below on line 4 after the preceding main phrase. This directly supersedes the earlier local non-observation; it does not change the adopted main reading. The broader physical-line inspection supersedes the earlier local non-observation.",
+      "status": "scan_supported_main_and_displaced_printed_annotation",
       "confidence": {
         "main_reading": "High",
-        "annotation_origin": "Unresolved",
-        "remaining_uncertainty": "Phrase is attested in the supplied transcript; the prior claim that it is small print in this Adzom image is not corroborated in the inspected area. Do not claim its absence from every possible source."
+        "annotation_reading": "High for the cited printed small phrase; physical location now established",
+        "limit": "Exact typography and spacing not certified."
       },
       "evidence_crop": [
-        "evidence/chapter-01/check-p43-main-reading.png"
+        "evidence/chapter-01/check-p43-main-reading.png",
+        "evidence/chapter-01/annotation-audit/p043-left.png",
+        "evidence/chapter-01/annotation-audit/p043-right.png",
+        "evidence/chapter-01/annotation-audit/U1067-detail.png"
       ],
-      "conflict_with_existing_report": "Conflicts with N-053 statement that the original image shows brgya yang byung in small print. The adopted main-text distinction is supported, but that attribution is not established by the observed image."
+      "conflict_with_existing_report": "Second inspection found the smaller phrase one physical line below the main locus. The earlier local non-observation is retained in the JSON history and is superseded.",
+      "superseded_local_observation": {
+        "rationale": "The inspected native pixels read མངོན་པའི་བསྟན་པ་བསྐལ་པ་བརྒྱད། followed by ཐམས་ཅད་ཚེ་གཅིག་འབྲས་བུ་ཐོབ།. No small brgya yang byung is visible between the clauses or in the inspected interline region. Separate that exact supplied-transcript phrase from the adopted main reading, preserving it in apparatus with provenance unresolved. The page was also viewed whole; this is not a certified exhaustive search for marginal microtext.",
+        "confidence": {
+          "main_reading": "High",
+          "annotation_origin": "Unresolved",
+          "remaining_uncertainty": "Phrase is attested in the supplied transcript; the prior claim that it is small print in this Adzom image is not corroborated in the inspected area. Do not claim its absence from every possible source."
+        },
+        "conflict_with_existing_report": "Conflicts with N-053 statement that the original image shows brgya yang byung in small print. The adopted main-text distinction is supported, but that attribution is not established by the observed image."
+      },
+      "scan_annotation_tibetan": "བརྒྱ་ཡང་བྱུང",
+      "annotation_status": "printed_separate_displaced; high for the stated local observation; no claim about other loci"
     },
     {
       "id": "SCAN-CH1-01090",
@@ -116,7 +130,7 @@
           46
         ],
         "image_group": "I1KG11710",
-        "location": "line 2 right end",
+        "location": "main p44 line 2 far right; smaller note line 3 far right",
         "inspected_pixel_rectangles": {
           "p44-main-reading.png": [
             4100,
@@ -132,18 +146,32 @@
           ]
         }
       },
-      "rationale": "The main line directly reads ཡན་ལག་བཀོད་པ་བརྒྱ་གཅིག་གོ།. The supplied-transcript insertion bcu gcig kyang byung is not visible in this main clause or the inspected surrounding interline area. Preserve its exact transcript wording in apparatus; do not label it an observed Adzom small-print note on this evidence. The page was also surveyed at overview scale, not certified for every possible microannotation.",
-      "status": "scan_supported_main_reading_and_unverified_transcript_annotation",
+      "rationale": "Main yan lag bkod pa brgya gcig go is clear. Smaller bcu gcig kyang byung is printed on the next physical line at the right edge. This supersedes earlier local non-observation and restores witnessed annotation provenance. The broader physical-line inspection supersedes the earlier local non-observation.",
+      "status": "scan_supported_main_and_displaced_printed_annotation",
       "confidence": {
         "main_reading": "High",
-        "annotation_origin": "Unresolved",
-        "remaining_uncertainty": "Source of the inserted transcript phrase remains unestablished; visual non-observation is limited to the stated locus and surrounding area."
+        "annotation_reading": "High for the cited printed small phrase; physical location now established",
+        "limit": "Exact typography and spacing not certified."
       },
       "evidence_crop": [
         "evidence/chapter-01/check-p44-main-reading.png",
-        "evidence/chapter-01/check-p44-line2-detail.png"
+        "evidence/chapter-01/check-p44-line2-detail.png",
+        "evidence/chapter-01/annotation-audit/p044-left.png",
+        "evidence/chapter-01/annotation-audit/p044-right.png",
+        "evidence/chapter-01/annotation-audit/U1090-detail.png"
       ],
-      "conflict_with_existing_report": "Conflicts with N-054 statement that this print separates bcu gcig kyang byung in small type. Main reading brgya gcig go is independently corroborated; claimed small-print provenance is not."
+      "conflict_with_existing_report": "Second inspection found the smaller phrase one physical line below the main locus. The earlier local non-observation is retained in the JSON history and is superseded.",
+      "superseded_local_observation": {
+        "rationale": "The main line directly reads ཡན་ལག་བཀོད་པ་བརྒྱ་གཅིག་གོ།. The supplied-transcript insertion bcu gcig kyang byung is not visible in this main clause or the inspected surrounding interline area. Preserve its exact transcript wording in apparatus; do not label it an observed Adzom small-print note on this evidence. The page was also surveyed at overview scale, not certified for every possible microannotation.",
+        "confidence": {
+          "main_reading": "High",
+          "annotation_origin": "Unresolved",
+          "remaining_uncertainty": "Source of the inserted transcript phrase remains unestablished; visual non-observation is limited to the stated locus and surrounding area."
+        },
+        "conflict_with_existing_report": "Conflicts with N-054 statement that this print separates bcu gcig kyang byung in small type. Main reading brgya gcig go is independently corroborated; claimed small-print provenance is not."
+      },
+      "scan_annotation_tibetan": "བཅུ་གཅིག་ཀྱང་བྱུང",
+      "annotation_status": "printed_separate_displaced; high for the stated local observation; no claim about other loci"
     },
     {
       "id": "SCAN-CH1-01811-01812",
@@ -167,7 +195,7 @@
           73
         ],
         "image_group": "I1KG11710",
-        "location": "line 2 right end to line 3 left start",
+        "location": "main p71 line 2 far right to line 3 far left; smaller note line 3 right",
         "inspected_pixel_rectangles": {
           "p71-main-reading-start.png": [
             4170,
@@ -195,20 +223,34 @@
           ]
         }
       },
-      "rationale": "The main verse reads lo stong zhag kyang 'bum phrag at the right end of line 2 and gsum at the start of line 3. The intervening lo ste zhag kyang bcu phrag gsum ... yang byung sequence in the flattened e-text is not visible in the inspected locus/interline region. Separate it without loss as an exact transcript annotation whose source is unresolved. This reconstruction restores the observed main line; it does not adjudicate whether the alternative numerical statement is correct or identify its witness.",
-      "status": "scan_supported_main_reading_and_unverified_transcript_annotation",
+      "rationale": "Main lo stong zhag kyang 'bum phrag gsum is clear across the line break. Smaller note reads lo ste zhag bcu phrag gsum yang byung, without the kyang after zhag reported in the earlier annotation paraphrase. Preserve unchanged exact U01811/U01812 source strings in the apparatus and do not relabel the old flattened transcription as an exact scan quote. The broader physical-line inspection supersedes the earlier local non-observation.",
+      "status": "scan_supported_main_and_displaced_printed_annotation",
       "confidence": {
         "main_reading": "High",
-        "annotation_origin": "Unresolved",
-        "remaining_uncertainty": "The main reading is clear; the origin and intended attachment of the supplied-transcript alternative are not established. Whole page surveyed at overview scale, not a certified search of every tiny marginal mark."
+        "annotation_reading": "High for the cited printed small phrase; physical location now established",
+        "limit": "Exact typography and spacing not certified."
       },
       "evidence_crop": [
         "evidence/chapter-01/check-p71-main-reading-start.png",
         "evidence/chapter-01/check-p71-main-reading-end.png",
         "evidence/chapter-01/check-p71-line2-end.png",
-        "evidence/chapter-01/check-p71-line3-start.png"
+        "evidence/chapter-01/check-p71-line3-start.png",
+        "evidence/chapter-01/annotation-audit/p071-left.png",
+        "evidence/chapter-01/annotation-audit/p071-right.png",
+        "evidence/chapter-01/annotation-audit/U1811-detail.png"
       ],
-      "conflict_with_existing_report": "Agrees with N-083 about the main reading but does not corroborate its claim that lo ste zhag kyang bcu phrag gsum yang byung is small print in this Adzom scan."
+      "conflict_with_existing_report": "Second inspection found the smaller phrase one physical line below the main locus. The earlier local non-observation is retained in the JSON history and is superseded. The print annotation lacks kyang after zhag; both original flattened transcript units remain unchanged in the apparatus.",
+      "superseded_local_observation": {
+        "rationale": "The main verse reads lo stong zhag kyang 'bum phrag at the right end of line 2 and gsum at the start of line 3. The intervening lo ste zhag kyang bcu phrag gsum ... yang byung sequence in the flattened e-text is not visible in the inspected locus/interline region. Separate it without loss as an exact transcript annotation whose source is unresolved. This reconstruction restores the observed main line; it does not adjudicate whether the alternative numerical statement is correct or identify its witness.",
+        "confidence": {
+          "main_reading": "High",
+          "annotation_origin": "Unresolved",
+          "remaining_uncertainty": "The main reading is clear; the origin and intended attachment of the supplied-transcript alternative are not established. Whole page surveyed at overview scale, not a certified search of every tiny marginal mark."
+        },
+        "conflict_with_existing_report": "Agrees with N-083 about the main reading but does not corroborate its claim that lo ste zhag kyang bcu phrag gsum yang byung is small print in this Adzom scan."
+      },
+      "scan_annotation_tibetan": "ལོ་སྟེ་ཞག་བཅུ་ཕྲག་གསུམ་ཡང་བྱུང",
+      "annotation_status": "printed_separate_exact_annotation_correction; high for the stated local observation; no claim about other loci"
     }
   ]
 }
