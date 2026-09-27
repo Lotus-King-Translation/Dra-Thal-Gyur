@@ -1,0 +1,19 @@
+{
+  "scope": "Recovery of retained task records only; no script execution or collation.",
+  "files": [
+    {
+      "name": "finalize.py",
+      "bytes": 14163,
+      "sha256": "5cf4d6a94a2544418363f050f36bd2d8c2b62aaa1da7408a13f19fd80b0701d9",
+      "previous_preservation_sha256": "5cf4d6a94a2544418363f050f36bd2d8c2b62aaa1da7408a13f19fd80b0701d9",
+      "source": "Literal original script body retained in earlier tool-call source, matching previous preservation-copy hash."
+    },
+    {
+      "name": "retained-context-quotations.md",
+      "bytes": 4023,
+      "sha256": "eabb81f79af6d14de4d74c6b965769ef305d2cd5a7acf2d77b51960e70f5723d",
+      "previous_preservation_sha256": "eabb81f79af6d14de4d74c6b965769ef305d2cd5a7acf2d77b51960e70f5723d",
+      "source": "Previously preserved verbatim compacted-summary quotations and exact handoff message excerpts; NOT original full report bytes."
+    }
+  ]
+}
