@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-27",
+  "validated_commit": "7fa5ef7096ac63ca28528e4df27befa8adf1594c",
+  "method": "Fetched pushed recovery branch into separate preservation worktree; compared paths against baseline main; parsed every JSON file in task-records archive.",
+  "baseline": "afb5c5133357942267dc55fc60a1d22704d5ef08",
+  "changed_paths": 450,
+  "unexpected_paths": [],
+  "task_record_files_at_validation": 77,
+  "parsed_json_files": 12,
+  "json_parse_errors": [],
+  "main_worktree_clean": true,
+  "archive_verification": {
+    "file_count": 371,
+    "bytes": 75574656,
+    "remote_archive_tree": "f8b4b94bc332b4b42347629a8b2036434f122084",
+    "manifest_git_blob_mismatches": 0
+  },
+  "final_batch_note": "The final batch adds three inert text/provenance records and this validation record. No edition changes or recovered-source execution.",
+  "complete_report_replay_count": 4,
+  "original_missing_report_identities": 54,
+  "remaining_incomplete_report_bodies": 50,
+  "original_report_byte_identity_verified_count": 0
+}

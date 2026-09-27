@@ -1,0 +1,26 @@
+CLASSIFICATION: retained-tool-input and verbatim-tool-output fragments from the first recovery attempt. The generated recovery-status.json and updated SHA256SUMS bytes were not printed in the retained record, and the filesystem became unavailable before they were committed. Their contents have not been recreated or their generator executed here. This record preserves the exact retained command and output instead.
+
+--- Retained recovery provenance command ---
+
+python - <<'PY'
+from pathlib import Path
+import hashlib,json
+root=Path('/workspace/scratch/a117ee885aff')
+p=root/'Dra-Thal-Gyur/diplomatic/recovery/2026-09-27-task-records/base_ch1_continuous_early'
+old_names=['ch1-continuous-early.json','ch1-continuous-early.md','dzongsar-ch1-collation.json','dzongsar-ch1-collation.md','dzongsar_collation_work.py']
+status={'classification':'new recovery provenance metadata, not original report content','original_path_checks':[{'path':str(root/name),'exists_at_recovery_check':(root/name).exists()} for name in old_names],'retained_context_status':{'adzom_continuous_early':'compacted summary only; full original JSON/MD contents not retained','dzongsar_ch1':'literal generator/input/update fragments and messages retained; generated full JSON/MD bytes not directly retained','tsamdrak':'no report body in retained context','tingkye':'no report body in retained context','tharpaling':'no report body in retained context'},'recovery_actions':'Saved retained text only. No facsimile rereading, old-generator execution, new readings, or canonical report overwrite.'}
+(p/'recovery-status.json').write_text(json.dumps(status,ensure_ascii=False,indent=2)+'\n')
+files=sorted(x for x in p.iterdir() if x.is_file() and x.name!='SHA256SUMS')
+(p/'SHA256SUMS').write_text(''.join(hashlib.sha256(x.read_bytes()).hexdigest()+'  '+x.name+'\n' for x in files))
+for entry in status['original_path_checks']:print(entry)
+print('Hashed recovery files:',len(files))
+PY
+
+--- Retained command output ---
+
+{'path': '/workspace/scratch/a117ee885aff/ch1-continuous-early.json', 'exists_at_recovery_check': False}
+{'path': '/workspace/scratch/a117ee885aff/ch1-continuous-early.md', 'exists_at_recovery_check': False}
+{'path': '/workspace/scratch/a117ee885aff/dzongsar-ch1-collation.json', 'exists_at_recovery_check': False}
+{'path': '/workspace/scratch/a117ee885aff/dzongsar-ch1-collation.md', 'exists_at_recovery_check': False}
+{'path': '/workspace/scratch/a117ee885aff/dzongsar_collation_work.py', 'exists_at_recovery_check': False}
+Hashed recovery files: 11
