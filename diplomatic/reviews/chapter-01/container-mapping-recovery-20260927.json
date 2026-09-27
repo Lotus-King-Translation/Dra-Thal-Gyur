@@ -1,0 +1,103 @@
+{
+  "date": "2026-09-27",
+  "method": "Recovery-packet-guided boundary review. Eight named PDF pages and the archived Gcn boundary detail crops were visually inspected. This recovers locators, not lost continuous collation reports or complete glyph transcriptions.",
+  "sources": [
+    {
+      "witness": "Adzom 1973–1977",
+      "path": "editions/adzom-1973-1977/bdrc-W1KG892.pdf",
+      "sha256": "ab7a3376249cd123a863578b10c1faf294d663862983d4d5cec7074dfa5f19d9",
+      "container_pages": 867,
+      "root_boundary_pdf_pages": [
+        11,
+        215
+      ],
+      "chapter1_end_pdf_page": 112,
+      "pages_inspected": [
+        11,
+        112,
+        215,
+        217
+      ],
+      "observations": [
+        "PDF11 is printed page1 and presents the root title; PDF215 is printed205 with terminal colophon layout. PDF217 is printed207 with a different text title.",
+        "PDF112 is printed102. The compressed chapter-boundary text and the following de nas lha dbang passage are visible. Exact compact inscription letters remain uncertified."
+      ],
+      "limitations": [
+        "Boundary-based mapping does not prove every intervening exposure or folio.",
+        "Related Adzom block manifestation; not presumed an independent textual vote."
+      ]
+    },
+    {
+      "witness": "Gcn W1ER128",
+      "path": "editions/gcn-manuscript/bdrc-W1ER128.pdf",
+      "sha256": "0e32b67b69e6bc57059993c511981154c15f5eeacad2217003f03bae124f0501",
+      "container_pages": 1595,
+      "root_title_pdf_page": 407,
+      "root_incipit_pdf_page": 408,
+      "root_terminal_pdf_page": 555,
+      "chapter1_end_pdf_page": 484,
+      "chapter1_end_row": 4,
+      "next_chapter_start_row": 5,
+      "pages_inspected": [
+        407,
+        408,
+        484,
+        555
+      ],
+      "observations": [
+        "PDF407 presents the root title; PDF408 has the illustrated opening and main-text incipit. The title is partly damaged; no complete exact title transcription is adopted.",
+        "PDF484 row4 carries the Chapter1 closing formula; row5 begins the de nas lha dbang sequence. The archived boundary crops confirm the transition at the same page.",
+        "PDF555 contains the terminal colophon and closing formulas."
+      ],
+      "limitations": [
+        "Provider image indices cannot be inferred from the stored 25-image preview manifest.",
+        "Full composite page rendering is required; extracting only a background image can omit text.",
+        "Repeated exposures and all intervening material remain to be accounted for; this is not continuous comparison."
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "path": "evidence/chapter-01/container-mapping-recovery-20260927/adzom73-0011.png",
+      "sha256": "ccfea912245b33ae4895caff836ba53796a9f5b7c1021cd29077d39182c57193",
+      "render": "PyMuPDF full-page composite raster, matrix 2x2; not first embedded-image extraction"
+    },
+    {
+      "path": "evidence/chapter-01/container-mapping-recovery-20260927/adzom73-0112.png",
+      "sha256": "a020476924d7e57b651aa92d86d206ddab822ae5fad4e9ac85f23a8115003e89",
+      "render": "PyMuPDF full-page composite raster, matrix 2x2; not first embedded-image extraction"
+    },
+    {
+      "path": "evidence/chapter-01/container-mapping-recovery-20260927/adzom73-0215.png",
+      "sha256": "d665fd75a9525cf380969873a499aacc3bb88f1b04aca810c4a6f2ebdc4074fd",
+      "render": "PyMuPDF full-page composite raster, matrix 2x2; not first embedded-image extraction"
+    },
+    {
+      "path": "evidence/chapter-01/container-mapping-recovery-20260927/adzom73-0217.png",
+      "sha256": "ad8972439fc4a6f8494c0c782505fd51f0520c5dd9a0e52a810f4dc8204008be",
+      "render": "PyMuPDF full-page composite raster, matrix 2x2; not first embedded-image extraction"
+    },
+    {
+      "path": "evidence/chapter-01/container-mapping-recovery-20260927/gcn-0407.png",
+      "sha256": "6d2f780fd062bc75f31fc3675d9c3e15b72399cb3dc557f66a8c65120827f386",
+      "render": "PyMuPDF full-page composite raster, matrix 2x2; not first embedded-image extraction"
+    },
+    {
+      "path": "evidence/chapter-01/container-mapping-recovery-20260927/gcn-0408.png",
+      "sha256": "20e6ec7041d8cba6d1ba786fe0eb8cd8d976cac4b99455acee91e2c96ea3b211",
+      "render": "PyMuPDF full-page composite raster, matrix 2x2; not first embedded-image extraction"
+    },
+    {
+      "path": "evidence/chapter-01/container-mapping-recovery-20260927/gcn-0484.png",
+      "sha256": "a4b15f92aed30f127367fdc4e5014ba3fc5449a3e1e9ad27f5c14cfb8164c543",
+      "render": "PyMuPDF full-page composite raster, matrix 2x2; not first embedded-image extraction"
+    },
+    {
+      "path": "evidence/chapter-01/container-mapping-recovery-20260927/gcn-0555.png",
+      "sha256": "70c61b09db6ab8518e7c029447d8f6353dc06efd16902e5eed4afaf22b6b21e0",
+      "render": "PyMuPDF full-page composite raster, matrix 2x2; not first embedded-image extraction"
+    }
+  ],
+  "prior_mapping_provenance": "recovery/2026-09-27.json:source_mapping_updates",
+  "chapter_complete": false
+}
