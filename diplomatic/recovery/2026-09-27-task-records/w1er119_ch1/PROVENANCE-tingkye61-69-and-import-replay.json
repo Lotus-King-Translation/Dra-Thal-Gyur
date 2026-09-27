@@ -1,0 +1,124 @@
+{
+  "schema": "recovery-provenance-supplement-v1",
+  "recovery_date": "2026-09-27",
+  "agent": "w1er119_ch1",
+  "purpose": "Preserve retained historical sources and complete static report payloads after workspace loss; no new collation.",
+  "supplement_to": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/PROVENANCE.json",
+  "artifact_count": 13,
+  "files": [
+    {
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/w1er119-import-audit.replayed.json",
+      "git_blob_sha": "c03f98ddbea6552b0bcea99e532231d9e109ea0a",
+      "route": "deterministic_transcript_replay_of_complete_static_payload",
+      "original_stage": "successful_saved_construction",
+      "original_output_byte_hash": null
+    },
+    {
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/w1er119-import-audit.replayed.md",
+      "git_blob_sha": "81bec68e3120a18489e30eeb7df45575fe2fbe2b",
+      "route": "deterministic_transcript_replay_of_complete_static_payload",
+      "original_stage": "successful_saved_construction",
+      "original_output_byte_hash": null
+    },
+    {
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p061.saved-update.py.txt",
+      "git_blob_sha": "ac1d5c2cd2895e4039a84c2aff80039e553bccd7",
+      "route": "exact_retained_tool_input_body",
+      "original_stage": "successful_saved_update",
+      "original_source_byte_hash": null
+    },
+    {
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p062.saved-update.py.txt",
+      "git_blob_sha": "26a563d6180fad7e6bbabc76ff4dbfaaaf9defe2",
+      "route": "exact_retained_tool_input_body",
+      "original_stage": "successful_saved_update",
+      "original_source_byte_hash": null
+    },
+    {
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p063.saved-update.py.txt",
+      "git_blob_sha": "50bd919511941a7b77f251626f6f421f1d7a8424",
+      "route": "exact_retained_tool_input_body",
+      "original_stage": "successful_saved_update",
+      "original_source_byte_hash": null
+    },
+    {
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p064.saved-update.py.txt",
+      "git_blob_sha": "3fa8ba660fedda47daa293c7d614902985e165c2",
+      "route": "exact_retained_tool_input_body",
+      "original_stage": "successful_saved_update",
+      "original_source_byte_hash": null
+    },
+    {
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p065.saved-update.py.txt",
+      "git_blob_sha": "5867248b707f4d6b09c7cb9ccd11976e8c5d4cfd",
+      "route": "exact_retained_tool_input_body",
+      "original_stage": "successful_saved_update",
+      "original_source_byte_hash": null
+    },
+    {
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p066.saved-update.py.txt",
+      "git_blob_sha": "3c96797a013600d8f919e4626d10288343f55ab2",
+      "route": "exact_retained_tool_input_body",
+      "original_stage": "successful_saved_update",
+      "original_source_byte_hash": null
+    },
+    {
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p067.saved-update.py.txt",
+      "git_blob_sha": "a1fa8443ee760e59d9a633c124a1a2160ba02f88",
+      "route": "exact_retained_tool_input_body",
+      "original_stage": "successful_saved_update",
+      "original_source_byte_hash": null
+    },
+    {
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p068.saved-update.py.txt",
+      "git_blob_sha": "6f5b86b21eab299419b3e58c14911dffdc92ba5e",
+      "route": "exact_retained_tool_input_body",
+      "original_stage": "successful_saved_update",
+      "original_source_byte_hash": null
+    },
+    {
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p069.saved-update.py.txt",
+      "git_blob_sha": "33ef1e7bd9fa4d6977a693b1c980619af83febe9",
+      "route": "exact_retained_tool_input_body",
+      "original_stage": "successful_saved_update",
+      "original_source_byte_hash": null
+    },
+    {
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tk-finish.py.retained-source.txt",
+      "git_blob_sha": "8fb344d33d4663565c7bb487e9cd707409ec8cde",
+      "route": "exact_retained_tool_input_body",
+      "original_stage": "successful_saved_finalization",
+      "original_source_byte_hash": null
+    },
+    {
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tk-finish.retained-tool-output.txt",
+      "git_blob_sha": "879fd5da07be3d0a7848fe3d7261d41a0277482d",
+      "route": "exact_retained_tool_stdout",
+      "original_stage": "successful_saved_finalization",
+      "original_output_byte_hash": null
+    }
+  ],
+  "replay_method": {
+    "source": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/w1er119-import-audit.saved-construction.py.txt",
+    "source_git_blob_sha": "f27b8e17bfd9d6af1ac0b3374ad0d0866c0ee4be",
+    "method": "A pure JavaScript literal parser extracted the complete Python dictionary literal and Markdown string literal. It did not execute the historical Python source.",
+    "json": "Complete static dictionary payload reserialized as JSON.",
+    "markdown": "Complete static Markdown string payload.",
+    "byte_identity": "Original report byte hashes are unknown. These files are explicitly deterministic transcript replays, not claimed recovered original output bytes."
+  },
+  "historical_tingkye_source_stages": {
+    "page61_original_path": "/workspace/scratch/a117ee885aff/tingkye-late-continuation-update.py",
+    "pages62_through69_original_path": "/workspace/scratch/a117ee885aff/tk-next.py",
+    "overwrite_history": "The original pages62–69 steps successively overwrote tk-next.py. Distinct recovery filenames retain each historical input body.",
+    "finalization": "The finalization source repairs recorded EWTS apostrophes, adds base-unit text and native evidence metadata, writes the final JSON and Markdown, and prints the retained counts.",
+    "pre_finalization_caution": "The page update sources are historical intermediate stages. Do not treat their fields as a new authoritative finalized report."
+  },
+  "dependency_and_recovery_limits": [
+    "The exact complete Tingkye40–69 original JSON and Markdown output bytes were not recovered by this supplement.",
+    "The page61–69 update sources depend on an existing Tingkye report containing earlier pages40–60 and an exact helper file; those complete dependencies are not supplied here.",
+    "A helper reconstructed earlier from compacted context is not certified as the exact original source and is not a substitute for that missing dependency.",
+    "The finalization source additionally depends on the existing EWTS base data and native page images; this supplement does not recover their missing original scratch copies.",
+    "The retained stdout reports 30 pages, 176 findings, 122 evidence stripes, and confidence counts of 40 moderate, 35 uncertain, and 101 high; counts are historical tool output, not independently regenerated in recovery.",
+    "No historical mutating script was executed during this recovery. No scans were reread, no new readings were constructed, and no repository ref was updated by this agent."
+  ]
+}
