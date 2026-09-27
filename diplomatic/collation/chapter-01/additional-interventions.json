@@ -1122,5 +1122,153 @@
       "evidence/chapter-01/continuous/100-u2597.png"
     ],
     "confidence": "High for the omitted initial syllable; confirmed by two image inspections"
+  },
+  {
+    "id": "SIGNS-RECOVERY-20260927-U00030",
+    "units": [
+      "U00030"
+    ],
+    "original_units": {
+      "U00030": "འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན།"
+    },
+    "replacement_units": {
+      "U00030": "འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན། །"
+    },
+    "old": "འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན།",
+    "new": "འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན། །",
+    "rationale": "two detached shads after na: first immediately after the syllable, second after a blank interval before dga; neither joins the neighboring letters. Only the terminal sign count at this boundary is certified; this is not full punctuation or lexical proofreading. Unicode spacing represents separated strokes, not measured facsimile spacing.",
+    "locator": "Adzom 2000 PDF 3; BDRC I1KG11710 image 5; main text row 4; terminal boundary of U00030",
+    "evidence": [
+      "evidence/chapter-01/signs-recovery-review-20260927/U00030.png",
+      "evidence/chapter-01/extension/base-signs-early/AS-E-006.png"
+    ],
+    "evidence_sha256": {
+      "evidence/chapter-01/signs-recovery-review-20260927/U00030.png": "a60d0176936e577d3af4356ee6566a465fd0fa0b6bdedde0119e97e719aa9e1a",
+      "evidence/chapter-01/extension/base-signs-early/AS-E-006.png": "5d27273ef923f83efb60f74ed27955d0c5d66c028a5de1628e52a42ba24fb32a"
+    },
+    "confidence": {
+      "punctuation": "high for this terminal boundary only"
+    },
+    "source_record": "reviews/chapter-01/signs-recovery-review-20260927.json#SIGNS-RECOVERY-20260927-U00030",
+    "uncertainty": "Only the terminal sign count at this boundary is certified; this is not full punctuation or lexical proofreading. Unicode spacing represents separated strokes, not measured facsimile spacing.",
+    "status": "adopted after coordinator native-crop review; local sign count only"
+  },
+  {
+    "id": "SIGNS-RECOVERY-20260927-U00035",
+    "units": [
+      "U00035"
+    ],
+    "original_units": {
+      "U00035": "ཤ་ཁྲག་བཀོད་པའི་གཟུགས་མེད་པའི།"
+    },
+    "replacement_units": {
+      "U00035": "ཤ་ཁྲག་བཀོད་པའི་གཟུགས་མེད་པའི། །"
+    },
+    "old": "ཤ་ཁྲག་བཀོད་པའི་གཟུགས་མེད་པའི།",
+    "new": "ཤ་ཁྲག་བཀོད་པའི་གཟུགས་མེད་པའི། །",
+    "rationale": "two detached shads after pa'i before rang snang: the first follows the final vowel-bearing syllable; a second vertical is separated by blank space before rang. Only the terminal sign count at this boundary is certified; this is not full punctuation or lexical proofreading. Unicode spacing represents separated strokes, not measured facsimile spacing.",
+    "locator": "Adzom 2000 PDF 4; BDRC I1KG11710 image 6; main text row 2; terminal boundary of U00035",
+    "evidence": [
+      "evidence/chapter-01/signs-recovery-review-20260927/U00035.png",
+      "evidence/chapter-01/extension/base-signs-early/AS-E-007.png"
+    ],
+    "evidence_sha256": {
+      "evidence/chapter-01/signs-recovery-review-20260927/U00035.png": "8ea6d73d46eb6231a7b013c25148797b3dbe8ba6dd84d7ae333097f86e215858",
+      "evidence/chapter-01/extension/base-signs-early/AS-E-007.png": "1a357d53b3842c14bc2fee3f87c1c3f8298f97707781a45606fdbd449498ec41"
+    },
+    "confidence": {
+      "punctuation": "high for this terminal boundary only"
+    },
+    "source_record": "reviews/chapter-01/signs-recovery-review-20260927.json#SIGNS-RECOVERY-20260927-U00035",
+    "uncertainty": "Only the terminal sign count at this boundary is certified; this is not full punctuation or lexical proofreading. Unicode spacing represents separated strokes, not measured facsimile spacing.",
+    "status": "adopted after coordinator native-crop review; local sign count only"
+  },
+  {
+    "id": "SIGNS-RECOVERY-20260927-U00105",
+    "units": [
+      "U00105"
+    ],
+    "original_units": {
+      "U00105": "ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ།"
+    },
+    "replacement_units": {
+      "U00105": "ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ། །"
+    },
+    "old": "ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ།",
+    "new": "ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ། །",
+    "rationale": "two detached shads after du: one after the completed du glyph, another before sprul. The du vowel stroke remains attached beneath its letter and is not counted as a shad. Only the terminal sign count at this boundary is certified; this is not full punctuation or lexical proofreading. Unicode spacing represents separated strokes, not measured facsimile spacing.",
+    "locator": "Adzom 2000 PDF 7; BDRC I1KG11710 image 9; main text row 1; terminal boundary of U00105",
+    "evidence": [
+      "evidence/chapter-01/signs-recovery-review-20260927/U00105.png",
+      "evidence/chapter-01/extension/base-signs-early/AS-E-008.png"
+    ],
+    "evidence_sha256": {
+      "evidence/chapter-01/signs-recovery-review-20260927/U00105.png": "0ed8750077a8efb6611cfa9ebc52ab1be8c5016013eefa79a6359c09ced56038",
+      "evidence/chapter-01/extension/base-signs-early/AS-E-008.png": "25450c63ef79b8f6a805dc98a04711aab6bf93725240e80209743548ffd7ccec"
+    },
+    "confidence": {
+      "punctuation": "high for this terminal boundary only"
+    },
+    "source_record": "reviews/chapter-01/signs-recovery-review-20260927.json#SIGNS-RECOVERY-20260927-U00105",
+    "uncertainty": "Only the terminal sign count at this boundary is certified; this is not full punctuation or lexical proofreading. Unicode spacing represents separated strokes, not measured facsimile spacing.",
+    "status": "adopted after coordinator native-crop review; local sign count only"
+  },
+  {
+    "id": "SIGNS-RECOVERY-20260927-U00252",
+    "units": [
+      "U00252"
+    ],
+    "original_units": {
+      "U00252": "འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡིས་གཅོད།"
+    },
+    "replacement_units": {
+      "U00252": "འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡིས་གཅོད། །"
+    },
+    "old": "འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡིས་གཅོད།",
+    "new": "འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡིས་གཅོད། །",
+    "rationale": "two detached shads after gcod on the following page: one after final da, another before bcud. The left vertical belonging to the initial gcod glyph is not counted. Only the terminal sign count at this boundary is certified; this is not full punctuation or lexical proofreading. Unicode spacing represents separated strokes, not measured facsimile spacing.",
+    "locator": "Adzom 2000 PDF 13; BDRC I1KG11710 image 15; main text row 1; terminal boundary of U00252; preceding words continue from PDF 12 into initial gcod on PDF 13",
+    "evidence": [
+      "evidence/chapter-01/signs-recovery-review-20260927/U00252.png",
+      "evidence/chapter-01/extension/base-signs-early/AS-E-013.png"
+    ],
+    "evidence_sha256": {
+      "evidence/chapter-01/signs-recovery-review-20260927/U00252.png": "a52d1a1487e63aefe0c10b250c5aa65a3c2e13aa6a0a94cb8eb609edcc219b3c",
+      "evidence/chapter-01/extension/base-signs-early/AS-E-013.png": "ac2684c4482b094b88a27e07af41520b28c584d2b7cac60775fa40b5835aea37"
+    },
+    "confidence": {
+      "punctuation": "high for this terminal boundary only"
+    },
+    "source_record": "reviews/chapter-01/signs-recovery-review-20260927.json#SIGNS-RECOVERY-20260927-U00252",
+    "uncertainty": "Only the terminal sign count at this boundary is certified; this is not full punctuation or lexical proofreading. Unicode spacing represents separated strokes, not measured facsimile spacing.",
+    "status": "adopted after coordinator native-crop review; local sign count only"
+  },
+  {
+    "id": "SIGNS-RECOVERY-20260927-U00372",
+    "units": [
+      "U00372"
+    ],
+    "original_units": {
+      "U00372": "སྣ་ཚོགས་སྤྲོས་པ་དོན་ཡིན་ནོ། །"
+    },
+    "replacement_units": {
+      "U00372": "སྣ་ཚོགས་སྤྲོས་པ་དོན་ཡིན་ནོ།"
+    },
+    "old": "སྣ་ཚོགས་སྤྲོས་པ་དོན་ཡིན་ནོ། །",
+    "new": "སྣ་ཚོགས་སྤྲོས་པ་དོན་ཡིན་ནོ།",
+    "rationale": "one detached shad after no before the smaller dris lan heading. The later upright at the heading's start joins the lower stroke of the initial dra form; it is not a second detached main-text shad. Only the terminal sign count at this boundary is certified; this is not full punctuation or lexical proofreading. Unicode spacing represents separated strokes, not measured facsimile spacing.",
+    "locator": "Adzom 2000 PDF 17; BDRC I1KG11710 image 19; main text row 4; terminal boundary of U00372",
+    "evidence": [
+      "evidence/chapter-01/signs-recovery-review-20260927/U00372.png"
+    ],
+    "evidence_sha256": {
+      "evidence/chapter-01/signs-recovery-review-20260927/U00372.png": "7244918673e35c89e8dc532d30863bea974d9ed78242b4c6319c36bfa2f929b6"
+    },
+    "confidence": {
+      "punctuation": "high for this terminal boundary only"
+    },
+    "source_record": "reviews/chapter-01/signs-recovery-review-20260927.json#SIGNS-RECOVERY-20260927-U00372",
+    "uncertainty": "Only the terminal sign count at this boundary is certified; this is not full punctuation or lexical proofreading. Unicode spacing represents separated strokes, not measured facsimile spacing.",
+    "status": "adopted after coordinator native-crop review; local sign count only"
   }
 ]
