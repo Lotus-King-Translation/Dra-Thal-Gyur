@@ -1,0 +1,9 @@
+python - <<'PY'
+from pathlib import Path
+p=Path('integration-final-audit-record.py')
+s=p.read_text().replace("existing=[r['id'] for r in a if r.get('additional_base_ids')]","existing=[r['id'] for r in a if r.get('additional_base_ids') and r['id'] not in expected]")
+s=s.replace("'save_time_missing':[k for k,v in expected.items() if by[k].get('additional_base_ids')!=v],","'save_time_missing':[k for k,v in expected.items() if by[k].get('additional_base_ids')!=v],\n 'save_time_result':'Root has applied all eleven missing mappings in the canonical data; final rendered backlinks still require rebuild verification.',")
+s=s.replace('1. **Eleven restoration comparisons need explicit IDs.** The existing 15 linked groups point to the correct restorations. Add the mappings below without upgrading local spelling confidence.','1. **Eleven missing restoration links were identified and have now been added by root to canonical data.** The existing 15 linked groups point to the correct restorations. The initial missing mappings are shown below; final rendered backlinks still need rebuild verification.')
+p.write_text(s)
+PY
+python integration-final-audit-record.py

@@ -51,3 +51,14 @@ is a separate required resource; it is not replaced by the combined standard.
 The Tibetan source governs what is said. The glossary governs the
 established English terminology used to express it. The guidance and
 QC procedure govern how the translation is produced, annotated, and checked.
+
+## Remote preservation checkpoints
+
+User instruction, 2026-09-27: preserve work frequently on the remote branch.
+
+- Save each report, evidence batch, or substantive edit incrementally. Commit and push it before beginning the next substantial batch, handing work to another agent, or ending a turn. Do not wait for a chapter to be complete.
+- Preserve interrupted and untracked project work on a recovery branch before editing, cleanup, regeneration, or synchronization. Keep archival originals separate from reconstructed material.
+- The coordinating agent serializes commits and pushes. Subagents save small batches and immediately notify the coordinator; they must not build a large unpublished backlog.
+- Verify the remote branch SHA after every checkpoint. A local commit or uploaded blob alone is not a completed remote checkpoint. If publication fails, report the failure and prioritize preservation before further substantive work.
+- Clearly label provisional checkpoints. Frequent preservation does not change the requirement to complete and commit each chapter before beginning the next.
+- Never commit credentials, runtime secrets, unrelated personal data, or dependency caches. Preserve project files and evidence without silently dropping unfinished or unreadable material.
