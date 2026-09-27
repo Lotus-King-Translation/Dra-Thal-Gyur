@@ -1,0 +1,3 @@
+from pathlib import Path
+r=Path('/workspace/scratch/a117ee885aff')
+for suffix in ['json','md']:(r/f'tharpaling-late-attempt.{suffix}').write_bytes((r/f'tharpaling-late.{suffix}').read_bytes())

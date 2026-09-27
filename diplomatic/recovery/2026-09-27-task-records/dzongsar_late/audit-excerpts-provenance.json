@@ -1,0 +1,27 @@
+{
+  "recovery_date": "2026-09-27",
+  "agent": "/root/dzongsar_late",
+  "route": "Literal retained text from a successful earlier exec_command read; submitted directly to GitHub create_blob without any filesystem access during recovery.",
+  "original_read_directory": "/workspace/scratch/a117ee885aff/Dra-Thal-Gyur/diplomatic/collation/chapter-01",
+  "original_read_code_fragment": "for name in ['root-final-audit.json','langtang-junction-audit.json']:\n x=json.loads((p/name).read_text())\n print(name,json.dumps({k:v for k,v in x.items() if k not in ['evidence_sha256']},ensure_ascii=False)[:16000])",
+  "files": [
+    {
+      "destination_path": "diplomatic/recovery/2026-09-27-task-records/dzongsar_late/root-final-audit.original-tool-output-excerpt.txt",
+      "git_blob_sha": "64db7ea880d53f133f0661ef7f8e2e2358a391f4",
+      "original_filename": "root-final-audit.json"
+    },
+    {
+      "destination_path": "diplomatic/recovery/2026-09-27-task-records/dzongsar_late/langtang-junction-audit.original-tool-output-excerpt.txt",
+      "git_blob_sha": "a47fd2b4d486f5b3cd553f892888004885be4f40",
+      "original_filename": "langtang-junction-audit.json"
+    }
+  ],
+  "limits": [
+    "These are exact retained output-line excerpts, not recovered original JSON file bytes.",
+    "The original read intentionally excluded the evidence_sha256 top-level field and reserialized the remaining object in one line.",
+    "The original read had a 16000-character output cap; both displayed objects end with closing braces, but this recovery does not infer or restore excluded fields.",
+    "No original PDF or image has been read during recovery. No claim has been newly evaluated or adopted.",
+    "Historical evidence paths and hashes inside the excerpts remain historical strings; they were not checked or regenerated now.",
+    "Root must attach these blobs to a commit; this agent has made no branch update."
+  ]
+}

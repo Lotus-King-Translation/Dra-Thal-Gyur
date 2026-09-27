@@ -1,0 +1,13 @@
+import json
+from pathlib import Path
+r=Path('/workspace/scratch/a117ee885aff')
+for stem in ['tharpaling-late','tharpaling-late-attempt']:
+ p=r/f'{stem}.json';d=json.loads(p.read_text());d['anchoring_correction']='All provisional44–46 mappings and the subsequently proposed U1631 opening were withdrawn completely. The preceding-page reader later withdrew their U1630/1631 quick-boundary cue too. No positive locus assertions are retained in this attempted-reading report; another readers sequential pass must establish them.'
+ for pg in d['pages']:
+  pg['locator_start']='not established reliably';pg['locator_end']='not established reliably'
+  for lim in pg['exact_unresolved_spans']:lim['span']='All text on the attempted page remains uncollated in this report. Individual readable words do not constitute agreement or a reliable transcript.'
+  if pg['pdf_page']==44:pg['notes']='Severe erosion throughout all six rows, with readable islands. Multiple provisional opening anchors were withdrawn after contradictions; no reliable unit mapping retained.'
+ d['provisional_work_disposition']='All provisional guessed unit maps and all associated findings, including subsequently proposed opening U1631, were withdrawn entirely before handoff. INVALID_SUPERSEDED_PROVISIONAL file is diagnostic only and must not be imported as witness evidence.'
+ p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')
+ m=r/f'{stem}.md';s=m.read_text();s=s.replace('After the preceding-page reader corrected the boundary, focused inspection located PDF44 opening at U1631, followed by U1632 and U1633. The subsequent continuous sequence was not established reliably by this reader.','The subsequently proposed PDF44 opening at U1631 was also withdrawn after the preceding-page reader withdrew that quick-boundary cue. No positive unit mapping is retained here; another reader’s sequential pass must establish the boundaries.').replace('Focused opening can be located at U1631, followed by U1632 and U1633, after Gadkar supplied corrected preceding boundary. I could not reliably map the rest continuously.','Multiple provisional opening anchors were withdrawn after contradictions; no reliable unit mapping is retained.')
+ m.write_text(s)

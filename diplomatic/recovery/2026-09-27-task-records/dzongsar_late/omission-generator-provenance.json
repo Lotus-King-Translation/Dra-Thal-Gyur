@@ -1,0 +1,29 @@
+{
+  "agent": "/root/dzongsar_late",
+  "recovery_date": "2026-09-27",
+  "scope": "Recovery only after the user stopped collation. No new reading, scan inspection, report regeneration, or branch update.",
+  "files": [
+    {
+      "destination_path": "diplomatic/recovery/2026-09-27-task-records/dzongsar_late/omission-audit-record.failed-dispatch.py.txt",
+      "git_blob_sha": "db2c39b1206dba52a89f48301f25594cdb21e4a4",
+      "original_intended_path": "/workspace/scratch/a117ee885aff/omission-audit-record.py",
+      "route": "Exact retained Python body from the agent's original failed exec_command tool call; submitted directly to GitHub create_blob as UTF-8.",
+      "original_call_structure": "cat > omission-audit-record.py <<'PY' ...body... PY; then python omission-audit-record.py (the original command used actual newlines).",
+      "original_result": "exec_command failed: CreateProcess { message: \"Rejected(\\\"Failed to create unified exec process: exec-server transport disconnected; failed to resume exec-server session: recovery timed out after 25s\\\")\" }",
+      "original_save_status": "No successful original save of this script or its omission-audit.json/md outputs is established.",
+      "recovery_execution": "The body has not been executed in either recovery attempt.",
+      "limits": [
+        "This is transcript-derived script text, not recovery of the original filesystem bytes.",
+        "Historical readings and qualifications within the literal body are preserved as historical claims only; they have not been reread, adopted, or newly validated.",
+        "The original omission evidence directory and raw inventory were absent in the replacement workspace. No images, inventory, timestamps, source hashes, or dynamic output reports were reconstructed.",
+        "The earlier recovery copy of this same literal body was written locally but parent reports it was not published before the workspace went offline again.",
+        "The Git blob is content-addressed storage only until the parent creates a tree/commit and updates the authorized branch."
+      ]
+    }
+  ],
+  "other_context_limits": [
+    "The exact complete original Degé-continuation, Degé-final, base-signs-late and comparison-integration-audit report/script bodies are not present in this agent's retained current context. Summaries are not being converted into purported original files.",
+    "The integration-final-audit initial generator and amendment were already published at parent-reported main afb5c51; they are not duplicated here.",
+    "The 87 surviving repository evidence images previously identified are already remote according to parent and are not duplicated."
+  ]
+}

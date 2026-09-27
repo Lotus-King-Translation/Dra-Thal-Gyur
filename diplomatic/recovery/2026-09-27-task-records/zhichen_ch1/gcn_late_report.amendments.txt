@@ -1,0 +1,36 @@
+Retained original amendment tool calls, in order. These are historical commands, not new collation. Original successful output followed the third call: Saved gcn-late.json/md; attempts 7 findings 5.
+
+CALL 1 (script mutation succeeded, subsequent execution failed with SyntaxError because of the unescaped possessive):
+python - <<'PY'
+from pathlib import Path
+p=Path('gcn_late_report.py')
+s=p.read_text()
+s=s.replace("'first_unit_locator':'U01427','first_unit_locator_basis':'Opening phrase rkang mgyogs bsgrub par dod pa yis, agreeing with parent locator; full suffix/orthography not certified'", "'first_unit_locator_candidate':'U01427','first_unit_locator_candidate_status':'disputed and unverified; do not use for alignment','first_unit_locator_candidate_basis':'Initial phrase impression, not a secure reading. The middle reader sequentially reached PDF442 at U00951–U00988, which disputes this much later opening unless an intervening jump is established. No such jump has been verified. Parent locator is not independent authority; the PDF448 ending remains pending.'")
+s=s.replace("The proposed U1511 locator for451/453 is only a candidate.", "The proposed U1427 locator for449 is disputed and unverified against the middle reader\'s sequential PDF442 U951–988 endpoint; do not use it as alignment authority. The proposed U1511 locator for451/453 is also an unverified candidate and may share the same expected-text error.")
+p.write_text(s)
+PY
+python gcn_late_report.py
+
+CALL 2:
+python - <<'PY'
+from pathlib import Path
+p=Path('gcn_late_report.py');s=p.read_text().replace("against the middle reader's sequential",'against the sequential middle-reader');p.write_text(s)
+PY
+python gcn_late_report.py
+python - <<'PY'
+import json
+from pathlib import Path
+j=json.loads(Path('gcn-late.json').read_text())
+a=j['attempts'][0]
+assert 'first_unit_locator' not in a
+assert a['first_unit_locator_candidate_status'].startswith('disputed')
+print(json.dumps(a,ensure_ascii=False,indent=2))
+PY
+
+CALL 3:
+python - <<'PY'
+from pathlib import Path
+p=Path('gcn_late_report.py');s=p.read_text();s=s.replace("if a.get('first_unit_locator_candidate'): anchor+=' (candidate only)'", "if a.get('first_unit_locator_candidate'): anchor+=' (disputed, unverified candidate)' if a.get('first_unit_locator_candidate_status') else ' (unverified candidate only)'")
+p.write_text(s)
+PY
+python gcn_late_report.py

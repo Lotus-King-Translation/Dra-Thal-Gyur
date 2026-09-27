@@ -1,0 +1,69 @@
+{
+  "kind": "Recovery provenance; not new collation",
+  "agent": "/root/w1er119_ch1",
+  "destination": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/",
+  "route": "Exact retained old tool-input bodies or explicitly named old stdout excerpts uploaded through GitHub create_blob while the workspace is unavailable.",
+  "sourceExecutionDuringRecovery": false,
+  "scansReadDuringRecovery": false,
+  "repositoryReferenceUpdatedByThisAgent": false,
+  "files": [
+    {
+      "path": "w1er119-import-audit.saved-construction.py.txt",
+      "git_blob_sha": "f27b8e17bfd9d6af1ac0b3374ad0d0866c0ee4be",
+      "original_call_status": "Successful exec_command; original JSON and Markdown writes completed",
+      "contents": "Complete data literal and Markdown text from retained construction body",
+      "limit": "This is the retained construction source, not byte recovery of either original output file."
+    },
+    {
+      "path": "tharpaling-late-attempt.stage1-saved-construction.py.txt",
+      "git_blob_sha": "680bb3bed2c442058c4d4d80518208ecd73841de",
+      "original_call_status": "Successful exec_command; original report writes completed",
+      "contents": "Failed reading-attempt report construction",
+      "limit": "Its U1631-opening statement was subsequently withdrawn by stage3. Preexisting extracted-page metadata and generated image hashes are not completely present in this body."
+    },
+    {
+      "path": "tharpaling-late-attempt.stage2-copy-saved.py.txt",
+      "git_blob_sha": "b16dab0affb4091294607e38a447a36a0ee3f9bd",
+      "original_call_status": "Successful exec_command; copied tharpaling-late JSON/MD to tharpaling-late-attempt JSON/MD",
+      "contents": "Exact three-line original copy body"
+    },
+    {
+      "path": "tharpaling-late-attempt.stage3-saved-withdrawal.py.txt",
+      "git_blob_sha": "26dce263a3d8d7f0ca4215f549aa83a35c0c64e3",
+      "original_call_status": "Successful exec_command; later withdrawals saved to both report names",
+      "contents": "Final withdrawal of all provisional locus mappings, including U1631 opening",
+      "limit": "No positive variant, agreement, or unit mapping survives this attempted-reading report."
+    },
+    {
+      "path": "tingkye-early-fourth-correction.BLOCKED-retained-source.py.txt",
+      "git_blob_sha": "561b3f7cda761f2d78201a9d10b93a52bb5f2217",
+      "original_call_status": "FAILED before process creation: 409 Conflict / environment_offline",
+      "contents": "Never-executed input for U182 nas withdrawal and qualification of U183 initial vowel/kye repetition",
+      "limit": "Not a saved report or completed mutation. Preserve as failed-save input only."
+    },
+    {
+      "path": "tingkye-early-omission-claims.retained-tool-output.txt",
+      "git_blob_sha": "63d1726404f47b1fa05d104cdb81be7fa3b84008",
+      "original_call_status": "Successful read-only exec_command stdout",
+      "contents": "Exact printed top-level keys and three original claim snapshots",
+      "limit": "Includes the subsequently disproved U183/184 omission claim; historical evidence, not endorsed current findings."
+    },
+    {
+      "path": "tingkye-early-native-metadata.retained-tool-output.txt",
+      "git_blob_sha": "6a14982b28d8785438fb29a1ac17c09c3a4e41ae",
+      "original_call_status": "Successful original image extraction and metadata write; printed list retained",
+      "contents": "Exact printed metadata list for PDF6/27/32, with native hashes and crop bounds",
+      "limit": "Images themselves are not recovered by this text."
+    }
+  ],
+  "known_prior_published_item": "Parent reports main afb5c51 contains diplomatic/recovery/agent-originals/w1er119_ch1/save-tingkye-early-audit.py.retained-source. This item was not rerun.",
+  "unrecovered_exact_output_bytes": [
+    "Original w1er119-import-audit.json and .md output bytes (their complete construction literal/text is preserved above).",
+    "Original tharpaling-late-attempt.json/.md and tharpaling-late.json/.md output bytes, including all extracted-page metadata.",
+    "Original tingkye-early-omission-audit.json/.md output bytes and native audit crop bytes.",
+    "Full original tsamdrak-middle.json/.md and tingkye-late-continuation.json/.md output bytes; no claim of complete recovery.",
+    "Original pre-compaction W1ER119 and Tsamdrak scratch source bodies not visible in retained context."
+  ],
+  "remaining_retained_source_possible": "Visible old tool-input history additionally contains Tingkye61–69 update bodies and tk-finish.py; these are partial source history, not full original report contents.",
+  "certainty": "The Git SHAs identify newly stored blobs of retained text. No equality to an unavailable old file hash is asserted."
+}
