@@ -1,0 +1,21 @@
+import json,hashlib
+from pathlib import Path
+import fitz
+R=Path('/workspace/scratch/a117ee885aff');F=R/'gcn-middle.json'
+def get():
+ if F.exists():return json.loads(F.read_text())
+ return {'witness':'Gcn / W1ER128','source_pdf':'editions/gcn-manuscript/bdrc-W1ER128.pdf','source_pdf_sha256':'0e32b67b69e6bc57059993c511981154c15f5eeacad2217003f03bae124f0501','requested_scope':'PDF411–448','comparison_base':'corrected reading-units.json plus ch1-scan-insertions.json','method':'Full composite PyMuPDF renders at matrix1.0, 3000px width, including text masks. Every main row viewed in overlapping left/right crops and compared lexically. Targeted uncertainty explicitly excluded from agreement. No OCR or supplied-base forced completion; single AI reader, not a glyph certificate. PDF page IDs only; no BDRC image or folio inference.','complete':False,'pages':[],'loci':[]}
+def page(x,p,start,end,rows=7,note=''):
+ pdf=fitz.open(R/'Dra-Thal-Gyur/editions/gcn-manuscript/bdrc-W1ER128.pdf');rect=pdf[p-1].rect
+ x['pages'].append({'pdf_page':p,'native_composite_bounds':list(rect),'rows_inspected':rows,'start':start,'end':end,'note':note})
+ x['last_inspected_page']=p;x['last_anchor']=end
+
+def locus(x,u,p,row,base,reading,status,note,kind='lexical_variant'):
+ x['loci'].append({'id':f'GCNM{len(x["loci"])+1:03}','unit':u,'pdf_page':p,'row':row,'base':base,'witness':reading,'status':status,'kind':kind,'note':note})
+def save(x):
+ F.write_text(json.dumps(x,ensure_ascii=False,indent=2)+'\n')
+ md=['# Gcn PDF411–448 comparison checkpoint','',f"Source SHA-256 `{x['source_pdf_sha256']}`.",'',x['method'],'',f"Completed through PDF{x.get('last_inspected_page')}, {x.get('last_anchor')}. Assigned segment complete: {x['complete']}.",'','| PDF page | Start | End | Note |','|---|---|---|---|']
+ for p in x['pages']:md.append(f"| {p['pdf_page']} | {p['start']} | {p['end']} | {p['note']} |")
+ md+=['','## Local observations','']
+ for q in x['loci']:md.append(f"- {q['id']} {q['unit']}, PDF{q['pdf_page']} row{q['row']}: {q['status']}. Base `{q['base']}`; witness `{q['witness']}`. {q['note']}")
+ (R/'gcn-middle.md').write_text('\n'.join(md)+'\n')

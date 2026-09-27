@@ -1,0 +1,34 @@
+CLASSIFICATION: verbatim-message. These are retained assistant-to-parent message bodies and the final response. They are not original report bytes. Earlier statements are preserved with their later corrections below.
+
+--- assistant-to-parent checkpoint message ---
+Dzongsar Chapter1 boundary located directly: PDF121 (=BDRC I3PD1345 image125), lines4–5 contain U2634–U2635 colophon; Chapter2 opens in line5 after the ornamental divider. This establishes Chapter1 span through PDF121. I am starting continuous native-image collation from opening; later pages viewed only for boundary mapping will be explicitly distinguished from collation.
+
+--- assistant-to-parent checkpoint message ---
+Dzongsar continuous collation ledger created at scratch dzongsar-ch1-collation.json/.md (native evidence in dzongsar-ch1-images). Through PDF8 (~U126) so far: main Tibetan lexical text tracks base closely. Concrete paratext difference: U29 small common-introduction heading physically occurs after U32 on PDF4 rather than before U30. Opening Sanskrit stacks at PDF2 remain explicitly unresolved; no false agreement. Continuing.
+
+--- assistant-to-parent checkpoint message ---
+Acknowledged checkpoint request. Completing Dzongsar PDF15 now; continuous main Tibetan lexical comparison spans PDF2–15 through U279, with Sanskrit opening explicitly unresolved. PDF16–120 and PDF121 Chapter1 portion remain uncollated (121 boundary only). I will save exact ledger/findings and state this is an interruption checkpoint, not a Dzongsar legibility limit.
+
+--- assistant-to-parent checkpoint message ---
+Dzongsar checkpoint saved: continuous lexical comparison PDF2–15 through U279; no confirmed main-text lexical departure in that examined stretch. Three physical heading-position differences U11, U29, U272; shared main dgongs / small dgos pa yang byung at U187. Focused inspection corrected an apparent opening addition: PDF2 has large main 'di (U12), then small U11 heading; PDF3 starts skad—no secure extra ni. Remaining PDF16–120 (~U280–2621) uncollated; PDF121 U2622–2635 boundary only. Sanskrit U5–6 and exact small notes/captions remain uncertified. Finishing evidence manifest/MD now.
+
+--- parent correction request ---
+Your DZ-P011-01 says main ends tha mi sdud, whereas A correctedmain ends tha mi dad and sdud pa po is note; this contradicts no mainlexicaldeparture summary. Please recheck native and explicitly resolve orflag beforefinal. Also physicalAheadingU11 actuallysmalleratp2bottomafterbeginningU14 andA29physicallyp4row2afterU33start, whileourUorderingsemantic/editorial; comparisons shouldcompareactualprintplacement orclearlysay 'Adzom displayed unit order', notphysicalAdzom. No newpagesneeded.
+
+--- assistant-to-parent correction message ---
+Recheck resolves U180: Dzongsar large main text is དེ་ནས་གཅིག་དང་ཐ་མི་དད། (de nas gcig dang tha mi dad); sdud begins the small linked heading on the following line. My prose had accidentally carried the source-e-text interleaving into the main quotation. Correcting it and clarifying all heading comparisons as Adzom displayed unit order, not Adzom physical print placement. These are manuscript layout observations, not yet proven witness textual differences.
+
+--- assistant-to-parent final correction message ---
+Corrections saved in both checkpoint files. U180 native crop now explicitly shows main དེ་ནས་གཅིག་དང་ཐ་མི་དད། and small sdud pa po heading. Also checked all five corrected base interventions within U1–279; Dz U39 clearly reads stong (p004-u39.png), supporting corrected A rather than source-e-text stod. U11/U29/U272 records now call themselves manuscript layout observations against Adzom displayed unit order, with no claim of certified cross-witness textual difference.
+
+--- assistant final response ---
+Saved the corrected Dzongsar checkpoint:
+
+- [JSON ledger](sandbox:/workspace/scratch/a117ee885aff/dzongsar-ch1-collation.json)
+- [Reading report](sandbox:/workspace/scratch/a117ee885aff/dzongsar-ch1-collation.md)
+
+Continuous lexical comparison reaches PDF15/U279. Chapter1’s actual colophon is PDF121, lines4–5. Later pages remain uncollated.
+
+U39 supports corrected **stong**; U180 main reads **tha mi dad**, with **sdud pa po** in the separate heading. Opening Sanskrit and specified small paratext remain uncertified. Heading-placement observations explicitly concern manuscript layout versus displayed unit order.
+
+No repository edits or commits.
