@@ -1,0 +1,45 @@
+{
+  "agent": "/root/gadkar_ch1",
+  "recovery_date": "2026-09-27",
+  "original_scratch_files_recovered": 0,
+  "scripts_executed_during_recovery": false,
+  "scan_reading_performed_during_recovery": false,
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 1582,
+      "sha256": "510c34e63e1816ce6126f9aca603d3970f8bad01a1c68156fc83205bcecbbdb7",
+      "route": "new_recovery_provenance_note"
+    },
+    {
+      "path": "retained-compacted-state-excerpts.md",
+      "bytes": 9666,
+      "sha256": "47429fefa0f7517d165983519a00b9b53e071377d8f277242646ed9244879308",
+      "route": "retained_compacted_summary_excerpts"
+    },
+    {
+      "path": "retained-failed-checkpoint-48-51.py",
+      "bytes": 2763,
+      "sha256": "058de900f019a56a03c9d79e4ef855493ec912bfa7a2dd85244579b1ab88ba53",
+      "route": "retained_tool_call_text"
+    },
+    {
+      "path": "retained-outage-messages.md",
+      "bytes": 1999,
+      "sha256": "c90b88853d57ef78f9300bb0908bf48a67ae4127102e5845fbf12316d92a17f3",
+      "route": "retained_message_payloads"
+    },
+    {
+      "path": "retained-successful-checkpoint-44-47.py",
+      "bytes": 3016,
+      "sha256": "15e88c00509097c70aaa5309c6df3058c3ec55ccf8ef9f31de2430416f3b5831",
+      "route": "retained_tool_call_text"
+    }
+  ],
+  "limitations": [
+    "No original scratch report or helper file bytes were found.",
+    "Python bodies preserve visible submitted tool text; they are not independently recovered filesystem files.",
+    "Compacted summary excerpts are not complete original reports.",
+    "No Gcn task or Gcn original report content is present in this agent retained context."
+  ]
+}

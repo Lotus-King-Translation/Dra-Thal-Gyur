@@ -1,0 +1,12 @@
+exec(open('/workspace/scratch/a117ee885aff/tingkye-late-continuation-helpers.py').read())
+page(69,'U2621 complete','U2635 chapter-one colophon ending le u ste dang po o, row 4 left','Only Chapter 1: rows 1–3 and the opening colophon in row 4. Row 4 continuation beginning de nas and rows 5–7 belong to Chapter 2 and were not collated. U2620 is a base non-main annotation slot.',rows=[1,2,3,4])
+f(69,'U2622','rang rdzogs pas','small dark mark at rang rdzogs; suffix not independently certified',1,'uncertain')
+f(69,'U2625','ming gi','ming gis',1)
+f(69,'U2630','ston pa nyid la rjes yi rang','ston pa nyid rjes yi rang',2,'moderate','Apparent local absence of la; guided read, independent confirmation advised.')
+d['status']='bounded_pass_finished'
+d['coverage_summary']={'pdf_pages':[40,69],'main_rows_traversed':207,'start':'U1485 final kyang','end':'U2635 colophon, PDF69 row4 left','method':'Sequential guided lexical comparison of every main row in this range against corrected Adzom reading units and restored insertions, using overlapping native crops. Not an independently produced full transcript or exhaustive glyph/punctuation/marginal-annotation collation.','not_certified':['all spelling suffixes and punctuation','small marginal/interlinear marks not individually transcribed','global absence or transposition of locally missing material','agreement at all unlisted loci; no positive agreement inferred from uncertainty'],'insertions_located':['S02: PDF49 row7, three main verses','S03: PDF53 rows1–2, three main verses','S04: PDF57 row7 / PDF58 row1, two verses','S05/S07: PDF61 row2; S06 heading absent at local junction'],'chapter_boundary':'PDF69 printed454 / BDRC462, row4 left, le u ste dang po o; following de nas starts next chapter.'}
+for x in d['findings']:
+ if x['unit'] in ['U1744','U1996–U1997','U2004']:
+  x['guided_second_inspection']='Root separately inspected native scan and confirmed the local junction; see root-final-audit.json/md. This is a guided second inspection, not an independent transcript.'
+  if x['unit']=='U1996–U1997': x['confidence']='high'
+p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')
