@@ -1,0 +1,33 @@
+CLASSIFICATION: retained-tool-input. Literal final report-correction command from the original session. This superseded the earlier U180 main/heading wording and the misleading physical-Adzom-placement comparisons. It has not been executed during recovery. It is not original generated JSON/Markdown bytes.
+
+python - <<'PY'
+import json,sys
+from pathlib import Path
+sys.path.insert(0,'/workspace/scratch/a117ee885aff')
+from dzongsar_collation_work import save,REPORT
+j=json.loads(REPORT.read_text())
+for v in j['observations']:
+ if v['id']=='DZ-OPEN-03':
+  v['type']='manuscript-heading-layout';v['adzom']='In the Adzom displayed unit order, U11 precedes U12. This is editorial/semantic ordering, not a claim about the Adzom printed page layout.';v['action']='Record Dzongsar physical interleaving. No cross-witness textual difference is established by the displayed unit order.'
+ if v['id']=='DZ-OPEN-04':
+  v['type']='manuscript-heading-layout';v['adzom']='In the Adzom displayed unit order, U29 precedes U30. This is editorial/semantic ordering, not a claim about the Adzom printed page layout.';v['action']='Record Dzongsar physical heading placement; it is not evidence of a main-text transposition.'
+ if v['id']=='DZ-P011-01':
+  v['adzom']="Corrected base main: de nas gcig dang tha mi dad. Small linked heading begins sdud pa po."
+  v['dzongsar']="Main line4: དེ་ནས་གཅིག་དང་ཐ་མི་དད། (de nas gcig dang tha mi dad). The dotted leader points to the smaller heading beginning sdud pa po on line5."
+  v['action']='Retain the main/heading separation. Focused recheck corrects the initial checkpoint prose, which erroneously placed sdud in main text; no main-text difference at this locus.'
+  v['evidence'].append('dzongsar-ch1-images/p011-u180-main.png')
+ if v['id']=='DZ-P015-01':
+  v['type']='manuscript-heading-layout';v['adzom']='The Adzom source-unit U272 interleaves the heading between de nas and khyab bdag; corrected displayed reading separates it. This statement concerns unit ordering, not Adzom physical print placement.';v['action']='Record manuscript physical heading placement; no cross-witness textual difference follows solely from the displayed unit order.'
+j['observations'].append(dict(id='DZ-P004-01',unit='U00039',pdf_page=4,line=6,type='main-reading-agreement-with-corrected-base',adzom='Corrected main stong dang ldan pa dbus ma\'i gnas; source e-text had stod.',dzongsar='སྟོང་དང་ལྡན་པ་དབུས་མའི་གནས། (stong dang ldan pa dbus ma\'i gnas)',confidence='high',action='Supports corrected Adzom stong; do not treat uncorrected source-e-text stod as the base reading.',evidence=['dzongsar-ch1-images/p004-u39.png']))
+j['statistics']['manuscript_heading_layout_observations']=3
+j['statistics']['heading_layout_observations_are_not_certified_textual_variants']=True
+j['method_note']='The five corrected base interventions in the compared range (U39, U180, U187, U192, U272) have been reconciled explicitly with reading-units.json. Initial U180 main/heading wording in checkpoint prose was corrected after native-image recheck; source-e-text interleaving is not witness evidence.'
+save(j)
+md=REPORT.with_suffix('.md');s=md.read_text().replace('This is a work in progress. Unexamined pages and unresolved glyphs are not agreements.','Status: interrupted checkpoint, incomplete. The coordinator requested a checkpoint after PDF15. This is not a finding that later Dzongsar pages are illegible. Unexamined pages and unresolved glyphs are not agreements.')
+s+='\n## Remaining work\n\n'
+for x in j['remaining']:s+=f"- **{x['range']}** — {x['status']}. {x['needed']}\n"
+s+='\n## Method clarification\n\n'+j['method_note']+' Heading comparisons refer to Adzom displayed unit order unless expressly stated otherwise; no difference in physical Adzom print layout is inferred from unit order.\n'
+s+='\n## Source evidence\n\nNative facsimile: `editions/dzongsar-manuscript/sgra-thal-gyur.pdf`. PDF SHA-256: `'+j['evidence_manifest']['source_pdf_sha256']+'`. Per-page BDRC/IIIF locators and original image hashes are preserved in JSON `evidence_manifest`. Native full pages and overlapping crops are in scratch `dzongsar-ch1-images/`.\n'
+md.write_text(s)
+print('Saved corrected checkpoint:',len(j['observations']),'observations')
+PY
