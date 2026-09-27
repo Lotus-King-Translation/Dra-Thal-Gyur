@@ -1,0 +1,240 @@
+"""Build a traceable reading edition; assembly is not independent semantic QC.
+Run with Python plus pyewts, after update_bookkeeping.py.
+"""
+from pathlib import Path
+from collections import defaultdict
+import csv, hashlib, html, json, re, shutil
+import pyewts
+B = Path(__file__).resolve().parent
+R = B.parents[1]
+C = pyewts.pyewts()
+def jl(path):
+    return [json.loads(s) for s in path.read_text(encoding='utf-8').splitlines() if s.strip()]
+def write(name, text):
+    p = B / name; p.parent.mkdir(parents=True, exist_ok=True)
+    p.write_text(text, encoding='utf-8')
+def save(name, value):
+    write(name, json.dumps(value, ensure_ascii=False, indent=2) + '\n')
+def sha(path):
+    return hashlib.sha256(path.read_bytes()).hexdigest()
+U = json.loads((B/'data/source-units.json').read_text())
+G = list(csv.DictReader((R/'glossary/expanded_tibetan_english_glossary.csv').open(encoding='utf-8')))
+N = [r for p in sorted((B/'notes').glob('review-input-*.jsonl')) for r in jl(p)]
+T = jl(B/'notes/terminology-input.jsonl')
+S = jl(B/'data/scan-only-units.jsonl')
+E, provenance = {}, {}
+for p in sorted((B/'data').glob('english-*.jsonl')):
+    for row in jl(p):
+        for n, text in enumerate(row['en'], row['start']):
+            assert n not in E and text.strip(), (p, n)
+            E[n], provenance[n] = text, [str(p.relative_to(B))]
+for filename in ['scan-decisions.jsonl', 'translation-decisions.jsonl']:
+    for rownum, row in enumerate(jl(B/'notes'/filename), 1):
+        if 'english' in row:
+            assert row['unit'] in E
+            E[row['unit']] = row['english']
+            provenance[row['unit']].append(f'notes/{filename}:record {rownum}')
+assert sorted(E) == list(range(1, len(U)+1))
+source = (R/'source/W1KG11703_7.txt').read_text(encoding='utf-8')
+assert ''.join(u['tibetan'] for u in U) == source
+assert all(source[u['start']:u['end']] == u['tibetan'] for u in U)
+assert len({r['id'] for r in N}) == len(N), 'Duplicate review-note IDs'
+known = {r['id'] for r in N+T}
+marker = re.compile(r'\[(N-[A-Za-z0-9-]+)\]')
+assert not ({x for text in E.values() for x in marker.findall(text)} - known)
+chapter_ranges = [(1,2635),(2636,3622),(3623,4305),(4306,4763),(4764,5197),(5198,5448),(5449,5466)]
+def section(n):
+    return next(i for i,(a,z) in enumerate(chapter_ranges,1) if a <= n <= z)
+def partname(i):
+    return f'chapter-{i:02}' if i < 7 else 'closing-material'
+def label(i):
+    return f'Chapter {i}' if i < 7 else 'Closing material'
+def linked(text, prefix=''):
+    return marker.sub(lambda m: f'[{m.group(1)}]({prefix}REVIEW-NOTES.md#{m.group(1).lower()})', text)
+def ul(n, prefix=''):
+    return f'[{U[n-1]["id"]}]({prefix}alignment/{partname(section(n))}.md#u{n:05})'
+notes_by_unit = defaultdict(set)
+for record in N+T:
+    for n in record.get('units', []):
+        notes_by_unit[n].add(record['id'])
+header = ('# Dra Thal Gyur — working English translation\n\n'
+          'Adzom W1KG11703, volume 1. All 5,466 e-text units are represented below, '
+          'with separate scan-only material. This is an annotated working draft: '
+          'retained source words and flagged constructions remain unresolved. '
+          'It is not an independently reviewed or publication-cleared edition.\n\n'
+          'Unit IDs lead to the exact Tibetan and character offsets. Source headings, '
+          'source glosses, and translator supplies remain distinguishable. '
+          'The [review notes](REVIEW-NOTES.md) and [handoff](HANDOFF.md) state limitations.\n\n')
+full = [header, '\n'.join(f'- [{label(i)}](#part-{i})' for i in range(1,8)), '\n']
+aligned = []
+for i,(a,z) in enumerate(chapter_ranges,1):
+    part = [f'# {label(i)}\n\n', '[Edition overview](../README.md) · [Notes](../REVIEW-NOTES.md)\n\n']
+    bilingual = [f'# {label(i)} — source alignment\n\n', 'Exact e-text slices; offsets count Unicode characters, zero-based, end-exclusive. The e-text is not a fully proofread diplomatic transcription. English reflects the explicit decision logs.\n\n']
+    full.append(f'\n<a id="part-{i}"></a>\n\n## {label(i)}\n\n')
+    for n in range(a,z+1):
+        u = U[n-1]; refs = sorted(notes_by_unit[n] | set(marker.findall(E[n])))
+        aligned.append({**u, 'english': E[n], 'notes': refs, 'english_provenance': provenance[n], 'state': 'represented_with_review_flags' if refs else 'represented_working_draft'})
+        if E[n].startswith('[Source heading:'):
+            full.append('\n'); part.append('\n')
+        full.append(f'{ul(n)} {linked(E[n])}  \n')
+        part.append(f'{ul(n,"../")} {linked(E[n],"../")}  \n')
+        bilingual.extend([f'<a id="u{n:05}"></a>\n\n### {u["id"]}\n\n', f'Source characters {u["start"]}–{u["end"]}.\n\n', '> '+u['tibetan'].replace('\n','\n> ')+'\n\n', linked(E[n],'../')+'\n\n'])
+        if refs:
+            bilingual.append('Review links: '+', '.join(f'[{r}](../REVIEW-NOTES.md#{r.lower()})' for r in refs)+'\n\n')
+        for extra in S:
+            if (extra.get('after_unit') == u['id']) or (extra['id']=='S0001' and n==8):
+                text = f'\n**{extra["id"]} — scan-only material, PDF page {extra["pdf_page"]}:** {extra["english"]}\n\n'
+                full.append(linked(text)); part.append(linked(text,'../'))
+    write(f'draft/{partname(i)}.md',''.join(part))
+    write(f'alignment/{partname(i)}.md',''.join(bilingual))
+write('Dra-Thal-Gyur-English.md',''.join(full))
+write('ALIGNED.jsonl',''.join(json.dumps(r,ensure_ascii=False)+'\n' for r in aligned))
+review = ['# Review notes and provisional terminology\n\n',
+          f'Source: `source/W1KG11703_7.txt`, SHA-256 `{sha(R/"source/W1KG11703_7.txt")}`. The selected Adzom facsimile governs. These are translator notes, not independent QC findings.\n\n',
+          'Exact e-text units and offsets are authoritative locators for this draft. Saved `scan_pages` are associated consultation pages, not a verified unit-to-page concordance. Do not use them as exact printed-page citations without checking the scan.\n\n']
+for note in N:
+    review.extend([f'<a id="{note["id"].lower()}"></a>\n\n## {note["id"]} — {note.get("category","Review")}\n\n'])
+    nums = [n for n in note.get('units',[]) if isinstance(n,int) and 1 <= n <= len(U)]
+    review.append('**Location:** '+', '.join(ul(n) for n in nums)+'\n\n')
+    for key,title in [('problem','Problem and evidence'),('treatment','Working treatment'),('uncertainty','Uncertainty'),('action','Review action')]:
+        review.append(f'**{title}:** {note.get(key,"Not documented in saved note.")}\n\n')
+    if note.get('scan_pages'):
+        review.append('**Saved associated scan pages (mapping unverified):** '+', '.join(map(str,note['scan_pages']))+'.\n\n')
+    review.append('<details>\n<summary>Exact Tibetan at the recorded source units</summary>\n\n')
+    for n in nums:
+        u=U[n-1]
+        review.append(f'**{u["id"]}**, characters {u["start"]}–{u["end"]}:\n\n> '+u['tibetan'].replace('\n','\n> ')+'\n\n')
+    review.append('</details>\n\n')
+    if note['id']=='N-116':
+        review.append('The unresolved scan-only annotation is [S0002](SCAN-ONLY.md#s0002); see its retained image crops.\n\n')
+term_groups=defaultdict(list)
+for record in T:
+    term_groups[record['id']].append(record)
+for note_id,records in term_groups.items():
+    review.append(f'<a id="{note_id.lower()}"></a>\n\n## {note_id} — terminology / usage record\n\n')
+    for record in records:
+        review.append('```json\n'+json.dumps(record,ensure_ascii=False,indent=2)+'\n```\n\n')
+        review.append('Source: '+', '.join(ul(n) for n in record.get('units',[]) if isinstance(n,int) and 1 <= n <= len(U))+'\n\n')
+write('REVIEW-NOTES.md',''.join(review))
+heads = {r['Tibetan'].rstrip('་'):r for r in G}
+form_records = defaultdict(list)
+for index,record in enumerate(T,1):
+    forms = [x.strip() for x in record['wylie'].split(';') if x.strip()]
+    outputs = [x.strip() for x in record['english'].split(';')]
+    for j,form in enumerate(forms):
+        tib = C.toUnicode(form).rstrip('་').strip()+'་'
+        output = outputs[j] if len(outputs)==len(forms) else record['english'] if len(forms)==1 else ''
+        if ' / ' in output or 'unresolved' in output.lower():
+            output = ''
+        form_records[tib].append((form,output,record,index))
+proposal_rows, usage_proposals = [], []
+for tib,items in sorted(form_records.items()):
+    records=[x[2] for x in items]
+    canonical=heads.get(tib.rstrip('་'))
+    proposed={x[1] for x in items if x[1]}
+    english=canonical['English'] if canonical else next(iter(proposed)) if len(proposed)==1 else ''
+    ids=', '.join(sorted({r['id'] for r in records}))
+    scope=' | '.join(dict.fromkeys(r.get('scope','') for r in records))
+    boundaries=' | '.join(dict.fromkeys(r.get('boundary','') for r in records))
+    evidence=' | '.join(dict.fromkeys(r.get('evidence','') for r in records))
+    status='Original pair retained; attached usage proposals unapproved.' if canonical else 'Proposed only; not activated. Blank English means no single settled candidate.'
+    if any(r['id']=='N-T42' for r in records):
+        status+=' Earlier just-as-it-is/new-entry rationale must be checked against the existing leaving-as-it-is whole expression and later corrections.'
+    status+=' '+ids+'; '+ ' | '.join(dict.fromkeys(r.get('status','') for r in records))
+    status+=' Working renderings: '+' | '.join(dict.fromkeys(r['english'] for r in records))
+    row=[tib,english,scope,'Unapproved grammatical proposals, where applicable; see usage records.',boundaries,canonical.get('Related entries','') if canonical else 'Related active glossary entries must be checked in review.',evidence+' Source-locator IDs: '+ids+'. Headword rendered from saved EWTS; verify against exact source quotes.',status]
+    (usage_proposals if canonical else proposal_rows).append(row)
+for name,rows in [('PROPOSED-GLOSSARY.csv',proposal_rows),('PROPOSED-USAGES.csv',usage_proposals)]:
+    with (B/name).open('w',newline='',encoding='utf-8') as f:
+        w=csv.writer(f); w.writerow(list(G[0])); w.writerows(rows)
+usage_count=0
+with (B/'USAGE.csv').open('w',newline='',encoding='utf-8') as f:
+    w=csv.writer(f)
+    w.writerow(['Source unit','Exact Tibetan unit','Canonical entry','English realization in draft','Category','Condition/evidence','Approval or note ID'])
+    for r in T:
+        canonical=[]
+        for form in r['wylie'].split(';'):
+            key=C.toUnicode(form.strip()).strip().rstrip('་')
+            if key in heads:
+                canonical.append(heads[key]['Tibetan']+' = '+heads[key]['English'])
+        for n in r.get('units',[]):
+            if isinstance(n,int) and n in E:
+                w.writerow([U[n-1]['id'],U[n-1]['tibetan'],'; '.join(canonical),E[n],r.get('kind','Provisional'),r.get('scope','')+' '+r.get('boundary','')+' '+r.get('evidence',''),r['id']+' | '+r.get('status','Unapproved')])
+                usage_count+=1
+candidate_count=0
+with (B/'USAGE-CANDIDATES.csv').open('w',newline='',encoding='utf-8') as f:
+    w=csv.writer(f); w.writerow(['Source unit','Saved EWTS form','Proposal IDs','Exact Tibetan unit','English draft','Status'])
+    for tib,items in form_records.items():
+        for form in sorted({x[0] for x in items}):
+            ids=sorted({x[2]['id'] for x in items if x[0]==form})
+            if set(ids) & {'N-T99','N-T110'}:
+                continue  # damaged/ambiguous source forms are not general match rules
+            declared={n for x in items if x[0]==form for n in x[2].get('units',[])}
+            pattern=re.compile(r'(?<![A-Za-z+])'+re.escape(form)+r"(?=$|[\s/_*'])")
+            for n,u in enumerate(U,1):
+                if n not in declared and pattern.search(u['wylie']):
+                    w.writerow([u['id'],form,';'.join(ids),u['tibetan'],E[n],'Candidate only: exact EWTS match; construction, whole-expression precedence and proposal scope not certified by assembly.'])
+                    candidate_count+=1
+scan_text=['# Scan-only material\n\n','These records supplement, rather than silently modify, the e-text. Placement in the English reading file is editorial; the scan locators below govern the actual location.\n\n']
+for extra in S:
+    scan_text.append(f'<a id="{extra["id"].lower()}"></a>\n\n## {extra["id"]}\n\n')
+    scan_text.append(f'PDF page {extra["pdf_page"]}; BDRC image {extra["bdrc_image"]}. {extra["location"]}.\n\n')
+    scan_text.append('**Status:** '+extra['status']+'.\n\n'+linked(extra['english'])+'\n\n')
+    if extra.get('tibetan_wylie'):
+        scan_text.append('**Provisional scan transcription (EWTS):** `'+extra['tibetan_wylie']+'`\n\n')
+    scan_text.append('**Evidence:** '+extra['evidence']+'\n\n')
+    for image in extra.get('evidence_images',[]):
+        if (B/'evidence'/image).exists():
+            scan_text.append(f'[{image}](evidence/{image})\n\n')
+    if extra['id']=='S0002' and (B/'evidence/0104-chapter-heading-isolated.png').exists():
+        scan_text.append('![Unresolved annotation crop](evidence/0104-chapter-heading-isolated.png)\n\n')
+write('SCAN-ONLY.md',''.join(scan_text))
+write('USAGE-README.md',f'''# Usage and terminology records
+
+`USAGE.csv` contains {usage_count} declared source-linked usage records from the translator's saved notes. The English cell contains the final assembled segment, not an assertion that every word in it is a glossary proposal. Some declared units supply surrounding context.
+
+`USAGE-CANDIDATES.csv` contains {candidate_count} additional exact-EWTS source-form matches. These are review candidates, not approved exceptions or a claim of complete semantic review. Compound precedence, attached forms, word senses and the scope of each proposal require source interpretation. An exact match may be a component of a longer established expression. Non-matching grammatical forms may still require review.
+
+`PROPOSED-GLOSSARY.csv` and `PROPOSED-USAGES.csv` retain the active glossary's eight-column schema. The former holds candidate forms not exactly matching an established headword; the latter preserves the original pair where a headword matches and records proposed supplementary uses separately. Both are unapproved working records. One Tibetan form is used per row. Blank English cells mean that no single candidate is settled; alternatives remain in the status field, not competing canonical defaults.
+
+Candidate Tibetan headwords are reversible renderings of saved EWTS forms with a final tsheg. They are not emendations of the source and may not equal an inflected source occurrence. Exact source quotations remain in the alignment and review notes. No source spelling, canonical pair, schema or glossary order was changed.
+
+Assembly does not extend a local proposal to every later occurrence. The additional candidate index is intentionally separate from declared usage records; a full construction-by-construction usage audit remains necessary.
+''')
+roundtrip = jl(B/'ALIGNED.jsonl')
+assert len(roundtrip) == 5466
+assert all(r['tibetan'] == U[n-1]['tibetan'] and r['english'] == E[n] for n,r in enumerate(roundtrip,1))
+for name in ['PROPOSED-GLOSSARY.csv','PROPOSED-USAGES.csv']:
+    rows = list(csv.reader((B/name).open(encoding='utf-8')))
+    assert rows[0] == list(G[0]) and all(len(r) == 8 for r in rows), name
+    assert len({r[0] for r in rows[1:]}) == len(rows)-1, name
+for row in json.loads((R/'GUIDANCE-PROVENANCE.json').read_text())['files']:
+    assert sha(R/row['path']) == row['sha256'], row['path']
+for row in json.loads((R/'source/SOURCE.json').read_text())['files']:
+    assert sha(R/'source'/row['path']) == row['sha256'], row['path']
+report = {
+    'etext_units': len(U),
+    'represented_english_units': len(E),
+    'missing_units': [], 'duplicate_units': [], 'undefined_note_markers': [],
+    'chapters_represented': 6, 'closing_units': 18,
+    'review_note_records': len(N), 'terminology_records': len(T),
+    'declared_usage_rows': usage_count,
+    'additional_usage_candidate_rows': candidate_count,
+    'new_candidate_headword_rows': len(proposal_rows),
+    'existing_headword_usage_rows': len(usage_proposals),
+    'scan_only_records': len(S),
+    'unresolved_scan_only_records': [s['id'] for s in S if 'unresolved' in s['status']],
+    'source_slices_roundtrip': True,
+    'source_asset_hashes_unchanged': True,
+    'guidance_and_glossary_hashes_unchanged': True,
+    'aligned_output_roundtrip': True,
+    'eight_column_candidate_schema': True,
+    'independent_qc_performed': False,
+    'full_diplomatic_scan_proofreading_performed': False,
+    'all_readings_resolved': False,
+    'scope': 'Mechanical assembly and traceability checks; not a semantic accuracy score or publication clearance.'
+}
+save('ASSEMBLY-CHECKS.json', report)
+files = [p for p in sorted(B.rglob('*')) if p.is_file() and p.name != 'SHA256SUMS' and '__pycache__' not in p.parts and p.suffix != '.pyc']
+write('SHA256SUMS', ''.join(sha(p) + '  ' + str(p.relative_to(B)) + '\n' for p in files))
+print(json.dumps(report, ensure_ascii=False))
