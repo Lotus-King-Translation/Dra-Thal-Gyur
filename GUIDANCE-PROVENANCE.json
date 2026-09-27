@@ -5,7 +5,17 @@
   "files": [
     {
       "path": "AGENTS.md",
-      "sha256": "c66fbfc2448cf0a5ea6ca8e52136128f7e9e18023a07b721bcecbb7451533e88"
+      "sha256": "c66fbfc2448cf0a5ea6ca8e52136128f7e9e18023a07b721bcecbb7451533e88",
+      "local_revision": {
+        "sha256": "07041286edbbb9b0b549b796f4cbe2dfb6f5399530d07a4d5569a5e2dc3fcffc",
+        "reason": "User-required frequent commits and remote preservation directives added after the original guidance copy. The original copied SHA remains in sha256.",
+        "commits": [
+          "70b5171",
+          "bb51187",
+          "5dd4e25"
+        ],
+        "date": "2026-09-27"
+      }
     },
     {
       "path": "glossary/expanded_tibetan_english_glossary.csv",

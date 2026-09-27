@@ -16,3 +16,5 @@ Preserve unresolved U01522/U02615/U02620/S09 and title/portrait material without
 
 Reproduce from repository root: `python3 diplomatic/tools/build_chapter1.py --repo .` then `python3 diplomatic/tools/validate_chapter1.py --repo .`.
 Mechanical success certifies its listed reconstruction/link/hash checks, not chapter readiness. Complete only when the [method](METHOD.md) and [acceptance criteria](reviews/chapter-01/readiness-audit-20260927.json) are satisfied.
+
+Current asset check (requires pikepdf): `python3 diplomatic/tools/verify_recovered_assets.py`; preserves historical acquisition files and verifies the documented AGENTS.md revision in GUIDANCE-PROVENANCE.json.
