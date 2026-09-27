@@ -1,0 +1,86 @@
+{
+  "source_directory": "Dra-Thal-Gyur-recovery-20260926",
+  "scope": "Exact local early translation checkpoint, archived without adoption into active translation or diplomatic edition.",
+  "files": [
+    {
+      "path": "early-translation-checkpoint/CONTINUATION.json",
+      "bytes": 188,
+      "sha256": "859109ca3cedf51ce25029c65369e99f2c48189e62832bf86150f0cf4aaf5602"
+    },
+    {
+      "path": "early-translation-checkpoint/data/english-00001-00250.jsonl",
+      "bytes": 12874,
+      "sha256": "a272404e8866c2fb1d46bcaa5125604498da40de3fefde598663bd4eb71f6fa5"
+    },
+    {
+      "path": "early-translation-checkpoint/data/english-00251-00500.jsonl",
+      "bytes": 12698,
+      "sha256": "5adbe981be9c2d5a0777ce768fd4ab7f0b500cbc6f17dfbb2f11d2dec7c69979"
+    },
+    {
+      "path": "early-translation-checkpoint/data/english-00501-00750.jsonl",
+      "bytes": 12944,
+      "sha256": "09b3e9569039f48d386bdfc9f73d805c525cd1a62f1365973b9dedc83e3bf86d"
+    },
+    {
+      "path": "early-translation-checkpoint/data/english-00751-01000.jsonl",
+      "bytes": 11093,
+      "sha256": "a2076d16da9089c215899975ffcde8cae4ba8be8ab52b3613501c09f29e55e64"
+    },
+    {
+      "path": "early-translation-checkpoint/data/scan-only-units.jsonl",
+      "bytes": 455,
+      "sha256": "d579a24c8caa69ef0cbfd59c8c8889c32912fced869cd0709575fa968f7bf650"
+    },
+    {
+      "path": "early-translation-checkpoint/data/scan-review.json",
+      "bytes": 470,
+      "sha256": "5901064743c422e12cbc4f006d7a1c0013b5ed3deecbb3c26099ec991cfadbdf"
+    },
+    {
+      "path": "early-translation-checkpoint/data/source-units.json",
+      "bytes": 1210253,
+      "sha256": "c8f1f0f8b91217a929cb82b0a5bb4544f8d29edddb145687f47218f05f0ceb5b"
+    },
+    {
+      "path": "early-translation-checkpoint/data/source-wylie.txt",
+      "bytes": 231951,
+      "sha256": "48459520815661cf8c0d903c3f765da2b6749f425bc168bfdf07c2331b551313"
+    },
+    {
+      "path": "early-translation-checkpoint/notes/review-input-00001-00250.jsonl",
+      "bytes": 10370,
+      "sha256": "d7826e6d0041e6ab8a31d731c652c976b842a4f10c06024177924b21a2fcd43f"
+    },
+    {
+      "path": "early-translation-checkpoint/notes/review-input-00251-00500.jsonl",
+      "bytes": 9058,
+      "sha256": "1de6cbedc8a0eaecd9d4cae57dd3b9accb0e208e82d15154f334dc8b71a6ee91"
+    },
+    {
+      "path": "early-translation-checkpoint/notes/review-input-00501-00750.jsonl",
+      "bytes": 10341,
+      "sha256": "caae7bd53f5f92cfb2f010c6bed4a4510d3150c60cbdb359e5eb26913d064eb4"
+    },
+    {
+      "path": "early-translation-checkpoint/notes/review-input-00751-01000.jsonl",
+      "bytes": 6849,
+      "sha256": "ece3c0b9d39e6d741f45be07336540e6efd17a64a96c06f7037ed97d6d427e5c"
+    },
+    {
+      "path": "early-translation-checkpoint/notes/scan-decisions.jsonl",
+      "bytes": 2326,
+      "sha256": "7a3f4105367987c15a98d621a2df2036118c04ca3e7856b3469ab27f1a7e24f7"
+    },
+    {
+      "path": "early-translation-checkpoint/notes/terminology-input.jsonl",
+      "bytes": 13750,
+      "sha256": "4ebcb8b1d3d7ca73621029a259b594784b75df190dc4797a148af4257862f200"
+    },
+    {
+      "path": "early-translation-checkpoint/notes/translation-decisions.jsonl",
+      "bytes": 1651,
+      "sha256": "06ecdabdaf4be74dfab8962d4a4826876e523c37c6b754c83cf535569d62baaa"
+    }
+  ]
+}
