@@ -1,0 +1,45 @@
+{
+  "scope": "Read-only integration audit of imported Tsamdrak-middle and Tingkye-late-continuation reports and generated chapter01 apparatus. This is a data/anchor consistency audit, not fresh independent scan transcription.",
+  "reports": [
+    {
+      "name": "tsamdrak-middle",
+      "pages": 35,
+      "findings": 134
+    },
+    {
+      "name": "tingkye-late-continuation",
+      "pages": 30,
+      "findings": 176
+    }
+  ],
+  "checks": {
+    "scratch_import_core_fields": "All310 finding IDs, units, rows, pages, base/comparison spans and confidence values preserved.",
+    "rendered_confidence_status": "All310 cards retain supplied confidence; moderate/uncertain findings not promoted to local-reading.",
+    "evidence": "All310 referenced evidence crops exist and hashes match; shared crops counted once per finding reference.",
+    "page_bounds": "All explicit U loci lie within their recorded page start/end range; this checks internal consistency only, not independent scan accuracy.",
+    "omission_ranges": "Tingkye U2459–2462 and U2521–2524 expand to all four unit anchors in rendered cards; U1996–1997 anchors both."
+  },
+  "issues": [
+    {
+      "ids": [
+        "TL-098",
+        "TL-099"
+      ],
+      "type": "restoration_context",
+      "detail": "Rendered cards attach only to U2308 and display its sdom pa context. TL098 actually concerns S05; TL099 concerns S06 heading. Add explicit A2000-C01-S05/S06 links and restored base context so these do not appear to be variants of U2308 itself.",
+      "severity": "medium"
+    },
+    {
+      "ids": [
+        "TL-058",
+        "TL-032",
+        "TL-061"
+      ],
+      "type": "guided_review_provenance",
+      "detail": "Structured report retains guided_second_inspection. Rendered cards omit it; TL058 still says independent check strongly advised although root performed guided second inspection and confidence was intentionally raised to high. Expose guided review provenance without calling it independent transcription.",
+      "severity": "low"
+    }
+  ],
+  "unintended_confidence_upgrades": [],
+  "repository_edits": false
+}
