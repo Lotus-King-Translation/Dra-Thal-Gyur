@@ -1,0 +1,108 @@
+{
+  "source": "recovery/agent-originals/gadkar_ch1/retained-successful-checkpoint-44-47.py",
+  "source_sha256": "15e88c00509097c70aaa5309c6df3058c3ec55ccf8ef9f31de2430416f3b5831",
+  "method": "Python AST literal extraction only; source script never executed.",
+  "status": "historical retained content; not a recovered original output or fresh visual certification",
+  "limits": [
+    "Earlier report body is missing. Tuple fields retain original wording.",
+    "The append operation reportedly succeeded historically; its complete output is missing.",
+    "No scan inspection performed by this extraction."
+  ],
+  "records": {
+    "page_rows_fields": [
+      "pdf_page",
+      "start_unit",
+      "end_unit",
+      "row_anchors",
+      "unresolved"
+    ],
+    "page_rows": [
+      [
+        44,
+        1599,
+        1638,
+        [
+          "1599–1605",
+          "1606–1611",
+          "1612–1617",
+          "1618–1623",
+          "1624–1629",
+          "1630–1638 partial"
+        ],
+        [
+          "Rows 1–5: thin and missing strokes especially left x300–1100/y100–330 and right x1160–1900/y145–340; individual lexical alternatives in these regions unresolved.",
+          "Row6: reply36 heading and 1635–1637 clearer; final tha ma lus begins1638."
+        ]
+      ],
+      [
+        45,
+        1638,
+        1675,
+        [
+          "1638 continuation–1643",
+          "1644–1649 partial",
+          "1649 continuation–1655 partial",
+          "1655 continuation–1662 partial",
+          "1662 continuation–1669 partial",
+          "1669 continuation–1675 partial"
+        ],
+        [
+          "Row1right 1641–1643 light/broken strokes; row2right1648–1649 merged shapes.",
+          "Row5left U1663 rdzu before phrul cannot be securely discriminated from merged stacks; no B omission adopted.",
+          "Row6right 1674–1675 light strokes, last word split at page boundary."
+        ]
+      ],
+      [
+        46,
+        1675,
+        1713,
+        [
+          "1675 continuation–1681",
+          "1682–1687",
+          "1688–1694 partial",
+          "1694 continuation–1701 partial",
+          "1701 continuation–1707 partial",
+          "1707 continuation–1713"
+        ],
+        [
+          "Rows1–3right x1220–1920/y90–225 severely faded; complete endings1680–1681 and1686–1687 not certified.",
+          "Rows3–6left thick/merged strokes; U1696 gnad/gnas not resolved; no variant entered."
+        ]
+      ],
+      [
+        47,
+        1714,
+        1751,
+        [
+          "1714–1719",
+          "1720–1725 partial",
+          "1725 continuation–1732 partial",
+          "1732 continuation–1738",
+          "1739–1744 partial",
+          "1744 continuation–1751 heading partial"
+        ],
+        [
+          "Rows2–6left overinked spans x300–700/y130–345; U1745 final ba'o/ba lo unresolved.",
+          "Row1right U1718–1719 faded; row3right1732 terminal split/strokes weak."
+        ]
+      ]
+    ],
+    "literal_findings": [
+      {
+        "id": "TH-LATE-003",
+        "kind": "transcript_error",
+        "pdf_page": 47,
+        "provider_image": 51,
+        "row": 2,
+        "unit": "U01724",
+        "scan_reading_ewts": "yang na sems kyi bya ba'i las",
+        "base_reading_ewts": "yang na sems kyi bya ba'i las",
+        "B_transcript_reading_ewts": "yang mdo sngags rig mdzod las",
+        "scope": "Local phrase only; following row2 ending remains partly faded.",
+        "decision": "Retain corrected Adzom phrase; Tharpaling main scan supports it, so electronic B is not an independent conflicting witness at this locus.",
+        "evidence": "tharpaling-middle-crops/p047-R.png; native x1110–1600,y125–170"
+      }
+    ],
+    "historical_save_succeeded": true
+  }
+}
