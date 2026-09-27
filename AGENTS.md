@@ -62,3 +62,8 @@ User instruction, 2026-09-27: preserve work frequently on the remote branch.
 - Verify the remote branch SHA after every checkpoint. A local commit or uploaded blob alone is not a completed remote checkpoint. If publication fails, report the failure and prioritize preservation before further substantive work.
 - Clearly label provisional checkpoints. Frequent preservation does not change the requirement to complete and commit each chapter before beginning the next.
 - Never commit credentials, runtime secrets, unrelated personal data, or dependency caches. Preserve project files and evidence without silently dropping unfinished or unreadable material.
+
+### Commit work to remote every step of the way
+
+You must at all times keep committing work to a remote branch. Even small
+progress must continuosly be committed.
