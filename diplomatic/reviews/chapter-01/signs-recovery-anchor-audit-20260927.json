@@ -1,0 +1,222 @@
+{
+  "id": "signs-recovery-anchor-audit-20260927",
+  "status": "correction and withdrawal audit; does not re-adopt interventions",
+  "root_checkpoint_withdrawing_all_ten": "21029ad",
+  "finding": "Two of ten historical crops have valid byte/pixel provenance but depict the wrong units. Source extraction and hashes were correct; visual target identification failed. Other eight have been re-identified locally but still need independent review before re-adoption.",
+  "root_cause": [
+    "The first two locations were inferred from page overviews rather than traced from known page opening through the complete target wording.",
+    "Recorded expected Tibetan context came from the supplied transcript; this was incorrectly treated as if it authenticated the pictured target.",
+    "Exact hashes and crop coordinates verified image provenance but could not verify that the image depicted the claimed anchor.",
+    "Confidence in terminal strokes was reported before resolving target identity; those confidence claims must not be retained as validated review."
+  ],
+  "historical_artifacts_unchanged": true,
+  "records": [
+    {
+      "id": "U00030",
+      "historical_record_id": "SIGNS-RECOVERY-20260927-U00030",
+      "historical_evidence": "evidence/chapter-01/signs-recovery-review-20260927/U00030.png",
+      "historical_sha256": "a60d0176936e577d3af4356ee6566a465fd0fa0b6bdedde0119e97e719aa9e1a",
+      "declared_source_member": "0005.png",
+      "source_member_sha256_matches_manifest": true,
+      "declared_bounds": [
+        2950,
+        740,
+        4420,
+        950
+      ],
+      "crop_pixels_reproduce_exactly": true,
+      "historical_locator": "Adzom 2000 PDF 3; BDRC I1KG11710 image 5; main text row 4; terminal boundary of U00030",
+      "disposition": "withdrawn; no adoption authorized by this audit",
+      "target_correspondence": "FAILED",
+      "actual_content": "U00025 ending mthun par bshad followed by U00026 opening 'das dang; not U00030.",
+      "correct_target_locator": "PDF 4, BDRC image 6, row 1",
+      "correct_target_evidence_pending": "recovery_audit opening locator report; work/opening-locator-review/p004-U00030.png",
+      "cause": "Wrong page and target phrase identified from overview; expected candidate interpretation carried into unrelated terminal strokes."
+    },
+    {
+      "id": "U00035",
+      "historical_record_id": "SIGNS-RECOVERY-20260927-U00035",
+      "historical_evidence": "evidence/chapter-01/signs-recovery-review-20260927/U00035.png",
+      "historical_sha256": "8ea6d73d46eb6231a7b013c25148797b3dbe8ba6dd84d7ae333097f86e215858",
+      "declared_source_member": "0006.png",
+      "source_member_sha256_matches_manifest": true,
+      "declared_bounds": [
+        620,
+        420,
+        1740,
+        600
+      ],
+      "crop_pixels_reproduce_exactly": true,
+      "historical_locator": "Adzom 2000 PDF 4; BDRC I1KG11710 image 6; main text row 2; terminal boundary of U00035",
+      "disposition": "withdrawn; no adoption authorized by this audit",
+      "target_correspondence": "FAILED",
+      "actual_content": "U00033 sa dang chu dang me rlung gi followed by U00034 opening 'byung ba; not U00035.",
+      "correct_target_locator": "PDF 4, BDRC image 6; U35 starts row 2 end sha khrag and ends row 3 opening bkod pa'i gzugs med pa'i",
+      "correct_target_evidence_pending": "recovery_audit opening locator report; work/opening-locator-review/p004-U00035.png",
+      "cause": "Wrong row selected; terminal sign count was applied to the named candidate without verifying its full lexical anchor."
+    },
+    {
+      "id": "U00105",
+      "historical_record_id": "SIGNS-RECOVERY-20260927-U00105",
+      "historical_evidence": "evidence/chapter-01/signs-recovery-review-20260927/U00105.png",
+      "historical_sha256": "0ed8750077a8efb6611cfa9ebc52ab1be8c5016013eefa79a6359c09ced56038",
+      "declared_source_member": "0009.png",
+      "source_member_sha256_matches_manifest": true,
+      "declared_bounds": [
+        3500,
+        240,
+        4620,
+        425
+      ],
+      "crop_pixels_reproduce_exactly": true,
+      "historical_locator": "Adzom 2000 PDF 7; BDRC I1KG11710 image 9; main text row 1; terminal boundary of U00105",
+      "disposition": "withdrawn; no adoption authorized by this audit",
+      "target_correspondence": "matched on renewed visual inspection; independent audit pending",
+      "observed_core_used_to_identify_target": "ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ",
+      "qualification": "Renewed anchor match is not a re-adoption. Prior sign claims remain withdrawn pending coordinator review."
+    },
+    {
+      "id": "U00252",
+      "historical_record_id": "SIGNS-RECOVERY-20260927-U00252",
+      "historical_evidence": "evidence/chapter-01/signs-recovery-review-20260927/U00252.png",
+      "historical_sha256": "a52d1a1487e63aefe0c10b250c5aa65a3c2e13aa6a0a94cb8eb609edcc219b3c",
+      "declared_source_member": "0015.png",
+      "source_member_sha256_matches_manifest": true,
+      "declared_bounds": [
+        1080,
+        255,
+        2000,
+        465
+      ],
+      "crop_pixels_reproduce_exactly": true,
+      "historical_locator": "Adzom 2000 PDF 13; BDRC I1KG11710 image 15; main text row 1; terminal boundary of U00252; preceding words continue from PDF 12 into initial gcod on PDF 13",
+      "disposition": "withdrawn; no adoption authorized by this audit",
+      "target_correspondence": "matched on renewed visual inspection; independent audit pending",
+      "observed_core_used_to_identify_target": "གཅོད",
+      "qualification": "Renewed anchor match is not a re-adoption. Prior sign claims remain withdrawn pending coordinator review."
+    },
+    {
+      "id": "U00372",
+      "historical_record_id": "SIGNS-RECOVERY-20260927-U00372",
+      "historical_evidence": "evidence/chapter-01/signs-recovery-review-20260927/U00372.png",
+      "historical_sha256": "7244918673e35c89e8dc532d30863bea974d9ed78242b4c6319c36bfa2f929b6",
+      "declared_source_member": "0019.png",
+      "source_member_sha256_matches_manifest": true,
+      "declared_bounds": [
+        3500,
+        620,
+        5200,
+        805
+      ],
+      "crop_pixels_reproduce_exactly": true,
+      "historical_locator": "Adzom 2000 PDF 17; BDRC I1KG11710 image 19; main text row 4; terminal boundary of U00372",
+      "disposition": "withdrawn; no adoption authorized by this audit",
+      "target_correspondence": "matched on renewed visual inspection; independent audit pending",
+      "observed_core_used_to_identify_target": "སྣ་ཚོགས་སྤྲོས་པ་དོན་ཡིན་ནོ",
+      "qualification": "Renewed anchor match is not a re-adoption. Prior sign claims remain withdrawn pending coordinator review."
+    },
+    {
+      "id": "U00578",
+      "historical_record_id": "SIGNS-RECOVERY-20260927-U00578",
+      "historical_evidence": "evidence/chapter-01/signs-recovery-review-20260927/U00578.png",
+      "historical_sha256": "e20652a11ba9a195fcf3e589c2dc54051921805e9f9ffab4b9df5fdeaf5793db",
+      "declared_source_member": "0027.png",
+      "source_member_sha256_matches_manifest": true,
+      "declared_bounds": [
+        900,
+        460,
+        1960,
+        650
+      ],
+      "crop_pixels_reproduce_exactly": true,
+      "historical_locator": "Adzom 2000 PDF 25; BDRC I1KG11710 image 27; main text row 3; terminal boundary of U00578",
+      "disposition": "withdrawn; no adoption authorized by this audit",
+      "target_correspondence": "matched on renewed visual inspection; independent audit pending",
+      "observed_core_used_to_identify_target": "ཁེངས་ཤིང་ཙནྡན་དྲི",
+      "qualification": "Renewed anchor match is not a re-adoption. Prior sign claims remain withdrawn pending coordinator review."
+    },
+    {
+      "id": "U00594",
+      "historical_record_id": "SIGNS-RECOVERY-20260927-U00594",
+      "historical_evidence": "evidence/chapter-01/signs-recovery-review-20260927/U00594.png",
+      "historical_sha256": "2dd81c6bc916409509d8402e716e39e7480b1233b47e2d52171f37fd8468f664",
+      "declared_source_member": "0027.png",
+      "source_member_sha256_matches_manifest": true,
+      "declared_bounds": [
+        3350,
+        840,
+        5020,
+        1010
+      ],
+      "crop_pixels_reproduce_exactly": true,
+      "historical_locator": "Adzom 2000 PDF 25; BDRC I1KG11710 image 27; main text row 6; terminal boundary of U00594",
+      "disposition": "withdrawn; no adoption authorized by this audit",
+      "target_correspondence": "matched on renewed visual inspection; independent audit pending",
+      "observed_core_used_to_identify_target": "འབྲུག་སྒྲོགས་གློག་དམར་ལྕེ་རྣམས་འབྱིན",
+      "qualification": "Renewed anchor match is not a re-adoption. Prior sign claims remain withdrawn pending coordinator review."
+    },
+    {
+      "id": "U00710",
+      "historical_record_id": "SIGNS-RECOVERY-20260927-U00710",
+      "historical_evidence": "evidence/chapter-01/signs-recovery-review-20260927/U00710.png",
+      "historical_sha256": "0de681cfe519830087d93cc9a811567ac44835a28d1764ffb45344a2e80a6b3e",
+      "declared_source_member": "0032.png",
+      "source_member_sha256_matches_manifest": true,
+      "declared_bounds": [
+        2850,
+        500,
+        4100,
+        725
+      ],
+      "crop_pixels_reproduce_exactly": true,
+      "historical_locator": "Adzom 2000 PDF 30; BDRC I1KG11710 image 32; main text row 3; terminal boundary of U00710",
+      "disposition": "withdrawn; no adoption authorized by this audit",
+      "target_correspondence": "matched on renewed visual inspection; independent audit pending",
+      "observed_core_used_to_identify_target": "སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང",
+      "qualification": "Renewed anchor match is not a re-adoption. Prior sign claims remain withdrawn pending coordinator review."
+    },
+    {
+      "id": "U01757",
+      "historical_record_id": "SIGNS-RECOVERY-20260927-U01757",
+      "historical_evidence": "evidence/chapter-01/signs-recovery-review-20260927/U01757.png",
+      "historical_sha256": "f7df1ca2968c3d770fb74f140ef9324dd0b7f2e8291aec50c3ef8ffca0dba4af",
+      "declared_source_member": "0071.png",
+      "source_member_sha256_matches_manifest": true,
+      "declared_bounds": [
+        2750,
+        380,
+        4450,
+        610
+      ],
+      "crop_pixels_reproduce_exactly": true,
+      "historical_locator": "Adzom 2000 PDF 69; BDRC I1KG11710 image 71; main text row 2; terminal boundary of U01757",
+      "disposition": "withdrawn; no adoption authorized by this audit",
+      "target_correspondence": "matched on renewed visual inspection; independent audit pending",
+      "observed_core_used_to_identify_target": "ཕོ་མོའི་སྡེབས་ཀྱིས་བརྒྱད་དུ་འགྱུར",
+      "qualification": "Renewed anchor match is not a re-adoption. Prior sign claims remain withdrawn pending coordinator review."
+    },
+    {
+      "id": "U02080",
+      "historical_record_id": "SIGNS-RECOVERY-20260927-U02080",
+      "historical_evidence": "evidence/chapter-01/signs-recovery-review-20260927/U02080.png",
+      "historical_sha256": "c00e4b4fa18d844c7afb8d0b551eb90ccc3fd002d2b3bfbb09dd945e5913586f",
+      "declared_source_member": "0083.png",
+      "source_member_sha256_matches_manifest": true,
+      "declared_bounds": [
+        3450,
+        620,
+        5100,
+        810
+      ],
+      "crop_pixels_reproduce_exactly": true,
+      "historical_locator": "Adzom 2000 PDF 81; BDRC I1KG11710 image 83; main text row 4; terminal boundary of U02080",
+      "disposition": "withdrawn; no adoption authorized by this audit",
+      "target_correspondence": "matched on renewed visual inspection; independent audit pending",
+      "observed_core_used_to_identify_target": "ལྷ་མོའི་མདོག་དང་ཞལ་ཕྱག་ནི",
+      "qualification": "Renewed anchor match is not a re-adoption. Prior sign claims remain withdrawn pending coordinator review."
+    }
+  ],
+  "unfinished_third_batch_manifest": "diplomatic/recovery/2026-09-27-local/signs-third-batch-paused/manifest.json",
+  "third_batch_status": "six crops preserved without proposals; fresh anchor verification required",
+  "corrected_opening_crops_seen": "recovery_audit provided correct native PDF4 U30/U35 crops, visually inspected by this reviewer. They are kept separate from historical wrong evidence."
+}

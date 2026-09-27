@@ -1,0 +1,314 @@
+{
+  "schema": "opening-locator-audit-v1",
+  "date": "2026-09-27",
+  "status": "discrepancy_resolved_original_page_ranges_confirmed",
+  "head_at_save": "f2fdd8ee981d588a459a55f46c0aa5192e355653",
+  "source_pdf": "editions/adzom-2000/sgra-thal-gyur.pdf",
+  "source_pdf_sha256": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343",
+  "mapping": "Adzom PDF N = I1KG11710 image N+2. Native dimensions5696x1344.",
+  "scope": "Fresh guided locator/anchor review of full native PDF3/4, overlapping column views, page-boundary details on2/5, and actual U30/U35 terminal boundaries. Not a new full lexical/sign proofread.",
+  "method": [
+    "All four relevant original PNG members were SHA256-verified against image-manifest.json.",
+    "Full PDF3/4 viewed then native left/middle/right columns with overlap.",
+    "PDF3/4 raster extraction via pdfimages decoded-pixel matched archived images.",
+    "Candidate unit strings and old/new ledgers were known before inspection; no blind claim.",
+    "Source phrase endpoints establish correspondence; crop hash alone does not establish its claimed anchor."
+  ],
+  "confirmed_page_ranges": [
+    {
+      "pdf_page": 3,
+      "bdrc_image": 5,
+      "start_unit": "U00014",
+      "start_partial": true,
+      "start_observed_ewts": "las",
+      "end_unit": "U00026",
+      "end_partial": true,
+      "end_observed_ewts": "'das dang",
+      "main_rows": 4,
+      "row_locator_summary": [
+        {
+          "row": 1,
+          "start": "U00014 continuation las",
+          "end": "U00017 partial rgyu"
+        },
+        {
+          "row": 2,
+          "start": "U00017 continuation dang rkyen",
+          "end": "U00020 partial phrasing through yongs"
+        },
+        {
+          "row": 3,
+          "start": "U00020 continuation su dag pa la",
+          "end": "U00023 partial mi phyed sna tshogs"
+        },
+        {
+          "row": 4,
+          "start": "U00023 continuation dmigs med pas",
+          "end": "U00026 opening das dang"
+        }
+      ],
+      "original_ledger_range": "U00014 las through U00026 prefix das dang",
+      "disposition": "retain_original_range"
+    },
+    {
+      "pdf_page": 4,
+      "bdrc_image": 6,
+      "start_unit": "U00026",
+      "start_partial": true,
+      "start_observed_ewts": "ma ongs da ltar med",
+      "end_unit": "U00051",
+      "end_partial": true,
+      "end_observed_ewts": "kha dog",
+      "main_rows": 6,
+      "row_locator_summary": [
+        {
+          "row": 1,
+          "start": "U00026 continuation ma ongs da ltar med",
+          "end": "U00031 opening dga dang ldan pa",
+          "includes": "U00030 is here; not PDF3."
+        },
+        {
+          "row": 2,
+          "start": "U00031 continuation bsod nams brtsegs",
+          "end": "U00035 opening sha khrag",
+          "source_heading": "U00029 smaller heading appears physically after U00033 and before U00034."
+        },
+        {
+          "row": 3,
+          "start": "U00035 continuation bkod pai gzugs med pai",
+          "end": "U00039 partial stong dang ldan",
+          "includes": "U00035 terminal signs occur here, not row2."
+        },
+        {
+          "row": 4,
+          "start": "U00039 continuation pa dbus mai gnas",
+          "end": "U00043 opening ston pa"
+        },
+        {
+          "row": 5,
+          "start": "U00043 continuation sangs rgyas bcom ldan das",
+          "end": "U00046 partial snang bai od ni bsam mi"
+        },
+        {
+          "row": 6,
+          "start": "U00046 continuation khyab",
+          "end": "U00051 opening kha dog"
+        }
+      ],
+      "original_ledger_range": "U00026 ma ongs through U00051 prefix kha dog",
+      "disposition": "retain_original_range",
+      "following_page_check": "PDF5/image7 row1 continues dkar zhing sha gzugs bral (U51)."
+    }
+  ],
+  "incorrect_new_records": [
+    {
+      "id": "SIGNS-RECOVERY-20260927-U00030",
+      "incorrect_locator": "PDF3/image5 row4",
+      "incorrect_evidence": "evidence/chapter-01/signs-recovery-review-20260927/U00030.png",
+      "incorrect_evidence_sha256": "a60d0176936e577d3af4356ee6566a465fd0fa0b6bdedde0119e97e719aa9e1a",
+      "declared_source_member": "0005.png",
+      "declared_bounds": [
+        2950,
+        740,
+        4420,
+        950
+      ],
+      "crop_pixels_match_declared_source": true,
+      "actual_crop_subject": "End of U00025 so soi nyams dang mthun par bshad, followed by opening U00026 das dang. It does not show U00030.",
+      "correct_locator": "PDF4/image6 row1; U30 between U28 thams cad rang byung ye shes so and U31 dga dang ldan pa",
+      "correct_evidence": "evidence/chapter-01/opening-locator-audit-20260927/p004-U00030.png",
+      "correct_native_bounds": [
+        3220,
+        290,
+        5100,
+        485
+      ],
+      "terminal_observation": "Two separated upright shads after U30 na before U31 dga are visible in the actual target crop.",
+      "disposition": "Correct provenance and reference the true target crop before retaining the two-shad intervention; preserve prior wrong evidence as superseded."
+    },
+    {
+      "id": "SIGNS-RECOVERY-20260927-U00035",
+      "incorrect_locator": "PDF4/image6 row2 terminal boundary",
+      "incorrect_evidence": "evidence/chapter-01/signs-recovery-review-20260927/U00035.png",
+      "incorrect_evidence_sha256": "8ea6d73d46eb6231a7b013c25148797b3dbe8ba6dd84d7ae333097f86e215858",
+      "declared_source_member": "0006.png",
+      "declared_bounds": [
+        620,
+        420,
+        1740,
+        600
+      ],
+      "crop_pixels_match_declared_source": true,
+      "actual_crop_subject": "Upper-left row2 context around U00031 continuation bsod nams brtsegs; it does not include the U35 terminal boundary.",
+      "correct_locator": "PDF4/image6; U35 begins sha khrag at row2 far right and ends at row3 left before U36 rang snang",
+      "correct_evidence": "evidence/chapter-01/opening-locator-audit-20260927/p004-U00035.png",
+      "correct_native_bounds": [
+        650,
+        500,
+        2600,
+        730
+      ],
+      "terminal_observation": "Two separated upright shads after U35 final pai before U36 rang snang are visible in actual target crop.",
+      "disposition": "Correct row, crop bounds and target correspondence before retaining the two-shad intervention; preserve prior wrong evidence as superseded."
+    }
+  ],
+  "other_sign_records": "All10 sign images present at audit matched their declared native member/crop pixels. Anchor correspondence and punctuation in the other8 were not inspected by this locator audit and require separate review.",
+  "evidence": [
+    {
+      "path": "evidence/chapter-01/opening-locator-audit-20260927/p003.png",
+      "sha256": "7443efc091b289c3a6a3bae7c01715cbbc29a7fd6ff9958f13af4a714cfbfc79",
+      "native_bounds": [
+        0,
+        0,
+        5696,
+        1344
+      ],
+      "pdf_page": 3,
+      "bdrc_image": 5,
+      "archive_member": "0005.png",
+      "archive_hash_matches_manifest": true,
+      "pdf_archive_decoded_pixels_identical": true
+    },
+    {
+      "path": "evidence/chapter-01/opening-locator-audit-20260927/p004.png",
+      "sha256": "3b65e7a753563979f57aa2d9294d251fc07f36bb57cef96634cb4b62f6b899cd",
+      "native_bounds": [
+        0,
+        0,
+        5696,
+        1344
+      ],
+      "pdf_page": 4,
+      "bdrc_image": 6,
+      "archive_member": "0006.png",
+      "archive_hash_matches_manifest": true,
+      "pdf_archive_decoded_pixels_identical": true
+    },
+    {
+      "path": "evidence/chapter-01/opening-locator-audit-20260927/p002-ending.png",
+      "sha256": "6944ce4a56ebf4b57793313d1a0976b62388058f1fb5f890b08cf1fc48855803",
+      "native_bounds": [
+        3700,
+        730,
+        5400,
+        1090
+      ],
+      "pdf_page": 2,
+      "bdrc_image": 4,
+      "archive_member": "0004.png",
+      "source_image_sha256": "28a7db3f3f430af83ac64da99bd9654266d7bef1e24f9395b839320ad0cf56e6",
+      "derivation": "Unscaled crop of manifest-hash-verified native archive raster; no enhancement."
+    },
+    {
+      "path": "evidence/chapter-01/opening-locator-audit-20260927/p003-start.png",
+      "sha256": "08e345b1f91e6381d246cab8a3e4bd82122257be4de2fdfa16fb5af90f11f5d6",
+      "native_bounds": [
+        1680,
+        330,
+        3350,
+        560
+      ],
+      "pdf_page": 3,
+      "bdrc_image": 5,
+      "archive_member": "0005.png",
+      "source_image_sha256": "7443efc091b289c3a6a3bae7c01715cbbc29a7fd6ff9958f13af4a714cfbfc79",
+      "derivation": "Unscaled crop of manifest-hash-verified native archive raster; no enhancement."
+    },
+    {
+      "path": "evidence/chapter-01/opening-locator-audit-20260927/p003-ending.png",
+      "sha256": "b4091a66bd7d52f3eeec4379b7f5c7771339015bfaa1a10f1ca9657285e8d249",
+      "native_bounds": [
+        3450,
+        745,
+        4480,
+        960
+      ],
+      "pdf_page": 3,
+      "bdrc_image": 5,
+      "archive_member": "0005.png",
+      "source_image_sha256": "7443efc091b289c3a6a3bae7c01715cbbc29a7fd6ff9958f13af4a714cfbfc79",
+      "derivation": "Unscaled crop of manifest-hash-verified native archive raster; no enhancement."
+    },
+    {
+      "path": "evidence/chapter-01/opening-locator-audit-20260927/p004-start.png",
+      "sha256": "53b9d574f7513057afbd1a1bd5fd47ffa483c0c49b773353ec9d938ed6c59db1",
+      "native_bounds": [
+        650,
+        285,
+        2500,
+        495
+      ],
+      "pdf_page": 4,
+      "bdrc_image": 6,
+      "archive_member": "0006.png",
+      "source_image_sha256": "3b65e7a753563979f57aa2d9294d251fc07f36bb57cef96634cb4b62f6b899cd",
+      "derivation": "Unscaled crop of manifest-hash-verified native archive raster; no enhancement."
+    },
+    {
+      "path": "evidence/chapter-01/opening-locator-audit-20260927/p004-ending.png",
+      "sha256": "5a6adb3bce4f11e61e4a1eeaa74f9f2335ba5ea57ca77a779d893bb8d06102e5",
+      "native_bounds": [
+        3750,
+        865,
+        5150,
+        1130
+      ],
+      "pdf_page": 4,
+      "bdrc_image": 6,
+      "archive_member": "0006.png",
+      "source_image_sha256": "3b65e7a753563979f57aa2d9294d251fc07f36bb57cef96634cb4b62f6b899cd",
+      "derivation": "Unscaled crop of manifest-hash-verified native archive raster; no enhancement."
+    },
+    {
+      "path": "evidence/chapter-01/opening-locator-audit-20260927/p005-start.png",
+      "sha256": "1326f2e9cebefd8dd43cc66510359163120acf9d234b7f4a6575dc7fa5d877f9",
+      "native_bounds": [
+        650,
+        300,
+        2550,
+        530
+      ],
+      "pdf_page": 5,
+      "bdrc_image": 7,
+      "archive_member": "0007.png",
+      "source_image_sha256": "0815ba89b9297eb0f8784cb320fe1fdc79710585f8ed28b2be637830c832dd10",
+      "derivation": "Unscaled crop of manifest-hash-verified native archive raster; no enhancement."
+    },
+    {
+      "path": "evidence/chapter-01/opening-locator-audit-20260927/p004-U00030.png",
+      "sha256": "abab006195ff983de92e68369ccd4ffe7523f394302f133e1282221cd82b31f1",
+      "native_bounds": [
+        3220,
+        290,
+        5100,
+        485
+      ],
+      "pdf_page": 4,
+      "bdrc_image": 6,
+      "archive_member": "0006.png",
+      "source_image_sha256": "3b65e7a753563979f57aa2d9294d251fc07f36bb57cef96634cb4b62f6b899cd",
+      "derivation": "Unscaled crop of manifest-hash-verified native archive raster; no enhancement."
+    },
+    {
+      "path": "evidence/chapter-01/opening-locator-audit-20260927/p004-U00035.png",
+      "sha256": "f95114c93784eb36a566224547b6c0790e68b982079145b93020d4954117ce0f",
+      "native_bounds": [
+        650,
+        500,
+        2600,
+        730
+      ],
+      "pdf_page": 4,
+      "bdrc_image": 6,
+      "archive_member": "0006.png",
+      "source_image_sha256": "3b65e7a753563979f57aa2d9294d251fc07f36bb57cef96634cb4b62f6b899cd",
+      "derivation": "Unscaled crop of manifest-hash-verified native archive raster; no enhancement."
+    }
+  ],
+  "limits": [
+    "Page and row endpoints are lexical locators, not exact character transcriptions of every interior word.",
+    "Tibetan title, Sanskrit, portrait, source annotations outside the identified U29 placement, all other signs and wider source questions remain outside scope.",
+    "This report validates old PDF3/4 spans; it does not erase the valid broader readiness blockers."
+  ],
+  "canonical_mutations": false
+}

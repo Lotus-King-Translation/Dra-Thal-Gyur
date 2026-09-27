@@ -16,4 +16,4 @@
 | Adzom1973 / Gcn | Mappings freshly recovered; continuous11–112 /407–484 row4 remains. Gcn requires complete composite rendering. |
 | Sichuan / catalogue leads | Full scans absent; retain transcript-only or unavailable status, without extending agreement claims. |
 
-Integrate fresh sign proposals and retained fragments with provenance; reconcile PDF3/4 locator inconsistency and stale container status. Representative Gadkar/Zhichen/W1ER119 crop checks added no reading certainty; scans remain available. Preserve exact unresolved spans; do not recast uninspected ranges as unreadable.
+Integrate fresh sign proposals and retained fragments with provenance; repair new U30/U35 crop correspondence ([resolved locator audit](opening-locator-audit-20260927.md)) and stale container status; old PDF3/4 spans were correct. Representative Gadkar/Zhichen/W1ER119 crop checks added no reading certainty; scans remain available. Preserve exact unresolved spans; do not recast uninspected ranges as unreadable.

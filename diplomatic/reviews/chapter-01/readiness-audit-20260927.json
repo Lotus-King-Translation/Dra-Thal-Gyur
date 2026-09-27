@@ -115,7 +115,7 @@
         "scope": "Title/frontmatter PDF1–2, main Chapter1 through U2635, boundary inscription included as qualified source layer."
       },
       "surviving_recorded_coverage": "Main lexical coverage U7–U2635; PDF5–50 ledger plus PDF51–101 and opening/boundary ledger. Forty-one-record annotation audit. Fresh five-sign candidate review and four unresolved base-locus rechecks.",
-      "reading_work_remaining": "Systematically inspect signs, spacing, headings and all annotations across PDF1–102; finish explicit title/portrait/Sanskrit scope. Check remaining 35 sign candidates, S02–S07 signs and U1286 source layer. Precisely preserve unresolved U1522/PDF60, U2615/U2620/PDF101 and S09/PDF102. Reconcile contradictory PDF3/4 unit ranges against the new U30 crop.",
+      "reading_work_remaining": "Systematically inspect signs, spacing, headings and all annotations across PDF1–102; finish explicit title/portrait/Sanskrit scope. Check remaining 35 sign candidates, S02–S07 signs and U1286 source layer. Precisely preserve unresolved U1522/PDF60, U2615/U2620/PDF101 and S09/PDF102. Original PDF3/4 unit ranges now independently confirmed; repair new U30/U35 sign provenance using opening-locator-audit-20260927, then verify other sign-record anchor correspondence.",
       "lost_history_claim_not_current_certified_coverage": "Recovery packet reports whole-range sign inspection and 15 integrated unit-sign edits, but original ledgers/files are missing; do not count those claims as recoverable completed coverage.",
       "records": [
         "collation/chapter-01/scan-coverage.json",
@@ -429,12 +429,13 @@
     },
     {
       "id": "ENG-04",
-      "action": "Reconcile stale coverage/locator metadata with fresh reports: existing SOURCES still calls Adzom1973/Gcn unmapped; PDF3/4 base endpoint ranges conflict with fresh U30 location.",
+      "action": "Refresh stale container coverage status; original PDF3/4 spans were confirmed by fresh locator audit. Repair incorrect new U30/U35 sign crop-to-anchor mappings, and independently verify remaining sign-record correspondence.",
       "inputs": [
         "SOURCES.md",
         "collation/chapter-01/opening-boundary-review.json",
         "reviews/chapter-01/container-mapping-recovery-20260927.json",
-        "reviews/chapter-01/signs-recovery-review-20260927.json"
+        "reviews/chapter-01/signs-recovery-review-20260927.json",
+        "reviews/chapter-01/opening-locator-audit-20260927.json"
       ]
     },
     {
@@ -534,5 +535,10 @@
     "reviews/chapter-01/second-dege-tingkye.md": "3b3f06205e5ba8dddff75b4d5ade64f615e8f513cd6503df2b0fde4b3578fddc",
     "reviews/chapter-01/signs-recovery-review-20260927.json": "25f3ef8fa9654db90c19477c3c77ab189224e97c9ec721c09cf8cd086cc091c1",
     "reviews/chapter-01/tingkye-recovery-review-20260927.json": "7d46b5d530d30f9e122779cd2d3d41d772552e4eb8c2e6981f68373b01ea1526"
+  },
+  "locator_discrepancy_resolution": {
+    "status": "resolved_by_fresh_native_review",
+    "audit": "reviews/chapter-01/opening-locator-audit-20260927.json",
+    "result": "Original PDF3/4 spans confirmed. New U30/U35 sign crops had wrong target correspondence; corrected actual target crops support two-shad findings, pending coordinator provenance repair. Other8 sign records require independent anchor confirmation."
   }
 }
