@@ -1,17 +1,18 @@
 # Tharpaling continuation review — 27 September 2026
 
-**PDF57–61 inspected; zero pages fully collated.** All six main rows were visually traversed on each page. [Structured scope and evidence](tharpaling-continuation-review-20260927.json); [candidate local records](tharpaling-continuation-review-20260927.loci.json).
+**PDF57–66 inspected; zero pages fully collated.** All six main rows visually traversed per page. [Structured scope](tharpaling-continuation-review-20260927.json); [local records](tharpaling-continuation-review-20260927.loci.json).
 
 | PDF / BDRC image | Remaining glyph-reading limits |
 |---|---|
-| 57 / 61 | Merged left-side clusters; substantial right-side dropouts in rows3–4; other suffixes and endings remain uncertain. |
-| 58 / 62 | Merged stacks throughout; faded right-medial groups in rows2,4,5; small headings and final signs unresolved. |
-| 59 / 63 | Faded left starts in rows4–6 and broad right-side loss, especially rows3–6. |
-| 60 / 64 | Repeated loss across left groups and right-medial strip in all six rows. |
-| 61 / 65 | Dense overinking across left/central groups; broken and merged strokes across right portions. |
+| 57–61 / 61–65 | Faded and merged groups across all pages; exact unresolved boxes retained in JSON. |
+| 62 / 66 | Merged left/medial ink; lower right rows4–6 particularly fragmented. |
+| 63 / 67 | Restored first verse and small heading incomplete; medial ink masses across rows3–6. |
+| 64 / 68 | Severe left/medial dropouts in rows2–6; broad lower/right loss despite inversion. |
+| 65 / 69 | Recurring fused and broken groups; no complete row certified. |
+| 66 / 70 | Pale upper rows, row2/6 ink masses and broken row4 medial stacks. |
 
-Two bounded observations: p56 ends at the U02100 neighborhood and p57 opens U02101, correcting the earlier recovered p56 endpoint U02093; p59 row6 supports the second restored line མངོན་སུམ་གནད་ཀྱི་མན་ངག་གིས. The first restored line remains too faded for this reader.
+Three bounded observations: U02100/U02101 at p56/57; p59 second restored verse; p63 latter restored verse ཡང་ནི་ལྷ་དབང་དགའ་བྱེད་ཉོན. Preceding verses and small headings retain the stated uncertainties.
 
-Original page pixels match the acquisition archive. Existing enlargements and reversible polarity inversion aided inspection; no OCR or reconstructed glyphs were used. Exact hashes and unresolved-region coordinates are in the JSON.
+Batch2 withdraws batch1 estimated whole-page U-anchor ranges: they were not established endpoints. The two supported local observations remain unchanged.
 
-These are partial positive observations and bounded reader limits. Familiar sequence recognition does not certify the surrounding letters, witness agreement, or chapter readiness. Pages62–71 await the next checkpointed batches.
+Native pixels match the acquisition archive. Full pages, L/R enlargements and specified polarity inversions inspected; no OCR or reconstructed letters. Familiar sequence recognition does not certify surrounding glyphs. Pages67–71 await the next checkpointed batch.

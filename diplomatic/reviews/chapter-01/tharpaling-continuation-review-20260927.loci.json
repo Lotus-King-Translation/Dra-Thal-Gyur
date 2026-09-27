@@ -41,5 +41,32 @@
       "evidence/chapter-01/recovered-tharpaling/p059-L.png"
     ],
     "review": "reviews/chapter-01/tharpaling-continuation-review-20260927.md"
+  },
+  {
+    "id": "TH-CONT-20260927-S07",
+    "witness": "Tharpaling 1983 W27491",
+    "units": [
+      "U02308",
+      "U02309"
+    ],
+    "insertion_ids": [
+      "A2000-C01-S05",
+      "A2000-C01-S06",
+      "A2000-C01-S07"
+    ],
+    "base_snippet_at_review": "A2000-C01-S07: ཡང་ནི་ལྷ་དབང་དགའ་བྱེད་ཉོན།",
+    "comparison_reading": "ཡང་ནི་ལྷ་དབང་དགའ་བྱེད་ཉོན",
+    "comparison_context": "Page63 row1: two main phrase groups separated by a small heading. The latter main phrase is read here; the preceding verse and intervening heading are not fully transcribed.",
+    "status": "supported_partial_restoration_observation",
+    "confidence": "moderate for the latter main phrase; preceding main verse and small heading remain unresolved",
+    "locator": "PDF63 / BDRC image67 / row1; p063-restored-verses-heading.png latter main phrase, box [1110,0,1800,186] in that existing enlarged crop",
+    "rationale": "The enlarged strip visibly preserves yang ni lha dbang dga byed nyon as a connected main-text sequence after the small heading. The first restored verse has visible broken glyph components and the heading is small; neither receives all-character agreement from this review.",
+    "decision": "Record bounded corroboration of S07; preserve Adzom restoration and uncertainty for S05/S06. Do not infer continuous witness agreement.",
+    "evidence": [
+      "evidence/chapter-01/recovered-tharpaling/p063.png",
+      "evidence/chapter-01/recovered-tharpaling/p063-L.png",
+      "evidence/chapter-01/extension/tharpaling-continuation/p063-restored-verses-heading.png"
+    ],
+    "review": "reviews/chapter-01/tharpaling-continuation-review-20260927.md"
   }
 ]
