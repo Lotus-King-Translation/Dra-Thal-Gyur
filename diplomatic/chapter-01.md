@@ -2333,7 +2333,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00578"></a>
 
-**U00578** འོད་ཀྱིས་ཁེངས་ཤིང་ཙནྡན་དྲི། [W-C01-040](reviews/chapter-01/wikisource.md#w-c01-040)
+**U00578** འོད་ཀྱིས་ཁེངས་ཤིང་ཙནྡན་དྲི། ། [SIGNS-RECOVERY-20260927-U00578](#signs-recovery-20260927-u00578) [W-C01-040](reviews/chapter-01/wikisource.md#w-c01-040)
 
 <a id="u00579"></a>
 
@@ -2397,7 +2397,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00594"></a>
 
-**U00594** འབྲུག་སྒྲོགས་གློག་དམར་ལྕེ་རྣམས་འབྱིན། [L1-0036](#l1-0036)
+**U00594** འབྲུག་སྒྲོགས་གློག་དམར་ལྕེ་རྣམས་འབྱིན། ། [SIGNS-RECOVERY-20260927-U00594](#signs-recovery-20260927-u00594) [L1-0036](#l1-0036)
 
 <a id="u00595"></a>
 
@@ -2861,7 +2861,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00710"></a>
 
-**U00710** སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང། ། [SCAN-CH1-LAYER-00710](#scan-ch1-layer-00710) [L1-0048](#l1-0048) [DZ-MID-035-U710](#dz-mid-035-u710) [W-C01-058](reviews/chapter-01/wikisource.md#w-c01-058)
+**U00710** སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང་། ། [SCAN-CH1-LAYER-00710](#scan-ch1-layer-00710) [L1-0048](#l1-0048) [DZ-MID-035-U710](#dz-mid-035-u710) [W-C01-058](reviews/chapter-01/wikisource.md#w-c01-058)
 
 <a id="u00711"></a>
 
@@ -7057,7 +7057,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01757"></a>
 
-**U01757** ཕོ་མོའི་སྡེབས་ཀྱིས་བརྒྱད་དུ་འགྱུར། [L1-0117](#l1-0117)
+**U01757** ཕོ་མོའི་སྡེབས་ཀྱིས་བརྒྱད་དུ་འགྱུར། ། [SIGNS-RECOVERY-20260927-U01757](#signs-recovery-20260927-u01757) [L1-0117](#l1-0117)
 
 <a id="u01758"></a>
 
@@ -8365,7 +8365,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02080"></a>
 
-**U02080** ལྷ་མོའི་མདོག་དང་ཞལ་ཕྱག་ནི། [L1-0137](#l1-0137)
+**U02080** ལྷ་མོའི་མདོག་དང་ཞལ་ཕྱག་ནི། ། [SIGNS-RECOVERY-20260927-U02080](#signs-recovery-20260927-u02080) [L1-0137](#l1-0137)
 
 <a id="u02081"></a>
 
@@ -11007,11 +11007,11 @@ Units: [U00710](#u00710).
 
 **A transcript:** སོ་སོའི་ནུས་པས་བུས་པ་སྦྱར་ཡང་འབྱུང་བསྒྱུར་བ་གང་། །
 
-**Adopted reading:** སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང། །
+**Adopted reading:** སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང་། །
 
 **Scan locator:** PDF 30; BDRC images 32; main line 3 right; smaller note line 4 middle-right.
 
-**Decision and reason:** Main so so'i nus pas bsgyur ba gang excludes bus pa. The separate printed annotation reads bus pa sbyar yang 'byung on the following line. Preserve the whole supplied report rather than leave bus pa in the root main reading. Main-text lexical sequence follows the scan; the supplied terminal delimiters are retained where applicable pending full physical-punctuation review.
+**Decision and reason:** Main so so'i nus pas bsgyur ba gang excludes bus pa. The separate printed annotation reads bus pa sbyar yang 'byung on the following line. Preserve the whole supplied report rather than leave bus pa in the root main reading. Main-text lexical sequence follows the scan; the supplied terminal delimiters are retained where applicable pending full physical-punctuation review. Fresh native-crop review restores the visible tsheg after gang while preserving the separated annotation. Only the stated terminal sign or tsheg allocation is certified; this is not full punctuation or lexical proofreading. Unicode spacing represents separated strokes, not measured facsimile spacing.
 
 **Separate annotation:** བུས་པ་སྦྱར་ཡང་འབྱུང
 
@@ -11019,7 +11019,7 @@ Units: [U00710](#u00710).
 
 **Confidence and limits:** {"main": "high", "annotation": "high for the stated local observation; no claim about other loci"}
 
-**Evidence:** [p030-left.png](evidence/chapter-01/annotation-audit/p030-left.png), [p030-right.png](evidence/chapter-01/annotation-audit/p030-right.png)
+**Evidence:** [p030-left.png](evidence/chapter-01/annotation-audit/p030-left.png), [p030-right.png](evidence/chapter-01/annotation-audit/p030-right.png), [U00710.png](evidence/chapter-01/signs-recovery-review-20260927/U00710.png), [AS-E-023.png](evidence/chapter-01/extension/base-signs-early/AS-E-023.png)
 
 <a id="scan-ch1-layer-00800"></a>
 
@@ -11728,6 +11728,78 @@ Units: [U00372](#u00372).
 **Confidence and limits:** {"punctuation": "high for this terminal boundary only"}
 
 **Evidence:** [U00372.png](evidence/chapter-01/signs-recovery-review-20260927/U00372.png)
+
+<a id="signs-recovery-20260927-u00578"></a>
+
+### SIGNS-RECOVERY-20260927-U00578
+
+Units: [U00578](#u00578).
+
+**A transcript:** འོད་ཀྱིས་ཁེངས་ཤིང་ཙནྡན་དྲི།
+
+**Adopted reading:** འོད་ཀྱིས་ཁེངས་ཤིང་ཙནྡན་དྲི། །
+
+**Scan locator:** Adzom 2000 PDF 25; BDRC I1KG11710 image 27; main text row 3; terminal boundary of U00578.
+
+**Decision and reason:** two detached shads after dri: the first follows the final syllable, the second stands before ston; neither is a letter downstroke. Only the stated terminal sign or tsheg allocation is certified; this is not full punctuation or lexical proofreading. Unicode spacing represents separated strokes, not measured facsimile spacing.
+
+**Confidence and limits:** {"punctuation": "high for this terminal boundary only"}
+
+**Evidence:** [U00578.png](evidence/chapter-01/signs-recovery-review-20260927/U00578.png), [AS-E-019.png](evidence/chapter-01/extension/base-signs-early/AS-E-019.png)
+
+<a id="signs-recovery-20260927-u00594"></a>
+
+### SIGNS-RECOVERY-20260927-U00594
+
+Units: [U00594](#u00594).
+
+**A transcript:** འབྲུག་སྒྲོགས་གློག་དམར་ལྕེ་རྣམས་འབྱིན།
+
+**Adopted reading:** འབྲུག་སྒྲོགས་གློག་དམར་ལྕེ་རྣམས་འབྱིན། །
+
+**Scan locator:** Adzom 2000 PDF 25; BDRC I1KG11710 image 27; main text row 6; terminal boundary of U00594.
+
+**Decision and reason:** two detached shads after 'byin before ston; the first immediately follows the final letter and the second is separated by a blank interval. Only the stated terminal sign or tsheg allocation is certified; this is not full punctuation or lexical proofreading. Unicode spacing represents separated strokes, not measured facsimile spacing.
+
+**Confidence and limits:** {"punctuation": "high for this terminal boundary only"}
+
+**Evidence:** [U00594.png](evidence/chapter-01/signs-recovery-review-20260927/U00594.png), [AS-E-020.png](evidence/chapter-01/extension/base-signs-early/AS-E-020.png)
+
+<a id="signs-recovery-20260927-u01757"></a>
+
+### SIGNS-RECOVERY-20260927-U01757
+
+Units: [U01757](#u01757).
+
+**A transcript:** ཕོ་མོའི་སྡེབས་ཀྱིས་བརྒྱད་དུ་འགྱུར།
+
+**Adopted reading:** ཕོ་མོའི་སྡེབས་ཀྱིས་བརྒྱད་དུ་འགྱུར། །
+
+**Scan locator:** Adzom 2000 PDF 69; BDRC I1KG11710 image 71; main text row 2; terminal boundary of U01757.
+
+**Decision and reason:** two detached shads after 'gyur before rang ngo; the curved lower letter/vowel strokes are separate from these vertical delimiters. Only the stated terminal sign or tsheg allocation is certified; this is not full punctuation or lexical proofreading. Unicode spacing represents separated strokes, not measured facsimile spacing.
+
+**Confidence and limits:** {"punctuation": "high for this terminal boundary only"}
+
+**Evidence:** [U01757.png](evidence/chapter-01/signs-recovery-review-20260927/U01757.png)
+
+<a id="signs-recovery-20260927-u02080"></a>
+
+### SIGNS-RECOVERY-20260927-U02080
+
+Units: [U02080](#u02080).
+
+**A transcript:** ལྷ་མོའི་མདོག་དང་ཞལ་ཕྱག་ནི།
+
+**Adopted reading:** ལྷ་མོའི་མདོག་དང་ཞལ་ཕྱག་ནི། །
+
+**Scan locator:** Adzom 2000 PDF 81; BDRC I1KG11710 image 83; main text row 4; terminal boundary of U02080.
+
+**Decision and reason:** two detached shads after ni before gsal. The second upright is detached from the following ga body; the lower neighboring curved stroke is not counted as a shad. Only the stated terminal sign or tsheg allocation is certified; this is not full punctuation or lexical proofreading. Unicode spacing represents separated strokes, not measured facsimile spacing.
+
+**Confidence and limits:** {"punctuation": "high for this terminal boundary only"}
+
+**Evidence:** [U02080.png](evidence/chapter-01/signs-recovery-review-20260927/U02080.png)
 
 <a id="a2000-c01-s01"></a>
 
@@ -13621,7 +13693,7 @@ Units: [U00559](#u00559).
 
 Units: [U00710](#u00710).
 
-**Current Adzom main context:** སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང། །
+**Current Adzom main context:** སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང་། །
 
 **Comparison reading/snippet:** so so i nus pas bsgyur ba gang
 
@@ -15128,7 +15200,7 @@ Exact differences: C1-0064.
 འབྲུག་སྒྲོགས་གློག་དམར་ལྕེ་རྣམས་འབྱིན། །
 ```
 
-**Disposition and reason:** Retain A’s punctuation/spacing provisionally under the base-transcription policy. Do not silently normalize the B/S delimiters into A; their exact forms remain quoted. Print punctuation is not yet verified at this locus.
+**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SIGNS-RECOVERY-20260927-U00594](#signs-recovery-20260927-u00594). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
 
 <a id="l1-0037"></a>
 
@@ -17396,7 +17468,7 @@ Exact differences: C1-0233.
 ཕོ་མོའི་སྡེབས་ཀྱིས་བརྒྱད་དུ་འགྱུར།།
 ```
 
-**Disposition and reason:** Retain A’s punctuation/spacing provisionally under the base-transcription policy. Do not silently normalize the B/S delimiters into A; their exact forms remain quoted. Print punctuation is not yet verified at this locus.
+**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SIGNS-RECOVERY-20260927-U01757](#signs-recovery-20260927-u01757). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
 
 <a id="l1-0118"></a>
 
@@ -17956,7 +18028,7 @@ Exact differences: C1-0274.
 ལྷ་མོའི་མདོག་དང་ཞལ་ཕྱག་ནི།
 ```
 
-**Disposition and reason:** Retain A’s punctuation/spacing provisionally under the base-transcription policy. Do not silently normalize the B/S delimiters into A; their exact forms remain quoted. Print punctuation is not yet verified at this locus.
+**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SIGNS-RECOVERY-20260927-U02080](#signs-recovery-20260927-u02080). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
 
 <a id="l1-0138"></a>
 

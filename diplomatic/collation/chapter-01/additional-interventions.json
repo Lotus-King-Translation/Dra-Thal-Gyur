@@ -334,23 +334,41 @@
       "U00710": "སོ་སོའི་ནུས་པས་བུས་པ་སྦྱར་ཡང་འབྱུང་བསྒྱུར་བ་གང་། །"
     },
     "replacement_units": {
-      "U00710": "སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང། །"
+      "U00710": "སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང་། །"
     },
     "old": "སོ་སོའི་ནུས་པས་བུས་པ་སྦྱར་ཡང་འབྱུང་བསྒྱུར་བ་གང་། །",
-    "new": "སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང། །",
+    "new": "སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང་། །",
     "annotation": "བུས་པ་སྦྱར་ཡང་འབྱུང",
     "annotation_status": "printed_separate_boundary_correction; high for the stated local observation; no claim about other loci",
-    "rationale": "Main so so'i nus pas bsgyur ba gang excludes bus pa. The separate printed annotation reads bus pa sbyar yang 'byung on the following line. Preserve the whole supplied report rather than leave bus pa in the root main reading. Main-text lexical sequence follows the scan; the supplied terminal delimiters are retained where applicable pending full physical-punctuation review.",
+    "rationale": "Main so so'i nus pas bsgyur ba gang excludes bus pa. The separate printed annotation reads bus pa sbyar yang 'byung on the following line. Preserve the whole supplied report rather than leave bus pa in the root main reading. Main-text lexical sequence follows the scan; the supplied terminal delimiters are retained where applicable pending full physical-punctuation review. Fresh native-crop review restores the visible tsheg after gang while preserving the separated annotation. Only the stated terminal sign or tsheg allocation is certified; this is not full punctuation or lexical proofreading. Unicode spacing represents separated strokes, not measured facsimile spacing.",
     "locator": "PDF 30; BDRC images 32; main line 3 right; smaller note line 4 middle-right",
     "evidence": [
       "evidence/chapter-01/annotation-audit/p030-left.png",
-      "evidence/chapter-01/annotation-audit/p030-right.png"
+      "evidence/chapter-01/annotation-audit/p030-right.png",
+      "evidence/chapter-01/signs-recovery-review-20260927/U00710.png",
+      "evidence/chapter-01/extension/base-signs-early/AS-E-023.png"
     ],
     "confidence": {
       "main": "high",
       "annotation": "high for the stated local observation; no claim about other loci"
     },
-    "source_record": "collation/chapter-01/annotation-audit.json#U00710"
+    "source_record": "collation/chapter-01/annotation-audit.json#U00710",
+    "punctuation_review": {
+      "id": "SIGNS-RECOVERY-20260927-U00710",
+      "source_record": "reviews/chapter-01/signs-recovery-review-20260927.json#SIGNS-RECOVERY-20260927-U00710",
+      "old": "སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང། །",
+      "new": "སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང་། །",
+      "locator": "Adzom 2000 PDF 30; BDRC I1KG11710 image 32; main text row 3; terminal boundary of U00710",
+      "confidence": {
+        "punctuation": "high for this terminal boundary only"
+      },
+      "evidence_sha256": {
+        "evidence/chapter-01/signs-recovery-review-20260927/U00710.png": "0de681cfe519830087d93cc9a811567ac44835a28d1764ffb45344a2e80a6b3e",
+        "evidence/chapter-01/extension/base-signs-early/AS-E-023.png": "4adb292234c72e8b22a09b0bf384ec358197d2f83027f7e155209ca9548e1a6f"
+      },
+      "uncertainty": "Only the stated terminal sign or tsheg allocation is certified; this is not full punctuation or lexical proofreading. Unicode spacing represents separated strokes, not measured facsimile spacing.",
+      "status": "adopted after coordinator native-crop review; local sign count only"
+    }
   },
   {
     "id": "SCAN-CH1-LAYER-00800",
@@ -1328,36 +1346,6 @@
       "punctuation": "high for this terminal boundary only"
     },
     "source_record": "reviews/chapter-01/signs-recovery-review-20260927.json#SIGNS-RECOVERY-20260927-U00594",
-    "uncertainty": "Only the stated terminal sign or tsheg allocation is certified; this is not full punctuation or lexical proofreading. Unicode spacing represents separated strokes, not measured facsimile spacing.",
-    "status": "adopted after coordinator native-crop review; local sign count only"
-  },
-  {
-    "id": "SIGNS-RECOVERY-20260927-U00710",
-    "units": [
-      "U00710"
-    ],
-    "original_units": {
-      "U00710": "སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང། །"
-    },
-    "replacement_units": {
-      "U00710": "སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང་། །"
-    },
-    "old": "སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང། །",
-    "new": "སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང་། །",
-    "rationale": "a discrete tsheg is visible between final nga of gang and the first of two detached shads. Restore this local tsheg while retaining the prior separation of the small source annotation from the main verse. Only the stated terminal sign or tsheg allocation is certified; this is not full punctuation or lexical proofreading. Unicode spacing represents separated strokes, not measured facsimile spacing.",
-    "locator": "Adzom 2000 PDF 30; BDRC I1KG11710 image 32; main text row 3; terminal boundary of U00710",
-    "evidence": [
-      "evidence/chapter-01/signs-recovery-review-20260927/U00710.png",
-      "evidence/chapter-01/extension/base-signs-early/AS-E-023.png"
-    ],
-    "evidence_sha256": {
-      "evidence/chapter-01/signs-recovery-review-20260927/U00710.png": "0de681cfe519830087d93cc9a811567ac44835a28d1764ffb45344a2e80a6b3e",
-      "evidence/chapter-01/extension/base-signs-early/AS-E-023.png": "4adb292234c72e8b22a09b0bf384ec358197d2f83027f7e155209ca9548e1a6f"
-    },
-    "confidence": {
-      "punctuation": "high for this terminal boundary only"
-    },
-    "source_record": "reviews/chapter-01/signs-recovery-review-20260927.json#SIGNS-RECOVERY-20260927-U00710",
     "uncertainty": "Only the stated terminal sign or tsheg allocation is certified; this is not full punctuation or lexical proofreading. Unicode spacing represents separated strokes, not measured facsimile spacing.",
     "status": "adopted after coordinator native-crop review; local sign count only"
   },
