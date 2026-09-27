@@ -1,0 +1,237 @@
+{
+  "report_type": "limited_independent_visual_source_assessment",
+  "date": "2026-09-27",
+  "reviewer": "Codex local_audit subagent; no claim of credentialed human palaeography",
+  "repository_head_at_save": "55f4817d8db644292c6d5d6c40da55e0687144c8",
+  "source_pdf": "editions/adzom-2000/sgra-thal-gyur.pdf",
+  "source_pdf_sha256": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343",
+  "image_archive": "editions/adzom-2000/original-images.zip",
+  "method": "Direct visual inspection of existing evidence and archived original PNGs, checked against acquisition SHA256 manifest. Candidate readings and previous reports were known before inspection; this is not a blind reading. No expected text was substituted for unread glyphs.",
+  "scope": {
+    "inspected": [
+      "p60 left and middle full-height native columns and U01522 native detail crops",
+      "p101 complete page in overlapping columns x=0..2000,1900..3900,3800..5696, y=0..1344; focused third/fourth-row details",
+      "p102 middle full-height column x=1900..3900, y=0..1344, and exact inscription crop",
+      "existing continuous/060-u1522.png, annotation-audit/p101-summary.png, adzom-102-annotation.png"
+    ],
+    "not_inspected_or_not_certified": [
+      "No comparison-witness images inspected in this batch",
+      "Title page and portrait caption not visually assessed in this batch",
+      "No continuous whole-chapter lexical or punctuation review",
+      "No semantic English QC or glossary proposal",
+      "No new source image information beyond the archived 5696x1344 rasters"
+    ]
+  },
+  "glossary_note": "CSV has no introductory prose; governing status qualifications were read in the combined standard. Full relevant eight-column entries were inspected. No terminology change is proposed.",
+  "input_sha256": {
+    "guidelines/tibetan_translation_standard_v2.md": "934f54616d1c55a6ecb0c594108397cca5b317dafc7c2c945972ffd1351b7760",
+    "glossary/expanded_tibetan_english_glossary.csv": "6b9029f7f02494e947e6a1273da7916b358e4d0738b35f012ce4da662d3fbbaf",
+    "diplomatic/METHOD.md": "388fc040120215005a7af74e8a8fc2370afc4f4d90ebab08d435c3fc79e4bdaf",
+    "diplomatic/HANDOFF.md": "c7530a2cd237f64aff1d74e8e2e8efeb3b378ed20c4ffaeabb20bdd41050834f",
+    "diplomatic/STATUS.json": "f0a77632240fadaed5d03294679fe70e7c8c31e45aa5e20c4155440a8ae3fe19",
+    "diplomatic/chapter-01.md": "e52092c969b78c1cacfd7764724df84e39ba5bd98f4bee78c05b5e583f4b93d9",
+    "translations/2026-09-26-full-draft/data/source-units.json": "c8f1f0f8b91217a929cb82b0a5bb4544f8d29edddb145687f47218f05f0ceb5b",
+    "editions/adzom-2000/image-manifest.json": "0627280756a05102331dd6db70e09adb26609713c170d10f8601adddb945d436"
+  },
+  "evidence": [
+    {
+      "path": "diplomatic/evidence/chapter-01/base-recovery-review-20260927/p060-u01522-left-native.png",
+      "sha256": "2b49d33e542f4f18f93b09cc155549cd231e0108b26bd50c92bfe39f4a7ed257",
+      "pdf_page": 60,
+      "bdrc_image": 62,
+      "archive_member": "0062.png",
+      "original_image_sha256": "bd87c558ba18eb6a7870be037a9ba76bf84043777f75e8c74ecefbe821c7b763",
+      "native_image_dimensions": [
+        5696,
+        1344
+      ],
+      "crop_box_xyxy_zero_based": [
+        1230,
+        620,
+        2100,
+        850
+      ],
+      "processing": "Pillow crop only; no resampling, denoising, threshold adjustment, reconstruction, or OCR"
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/base-recovery-review-20260927/p060-u01522-right-native.png",
+      "sha256": "d2ba6f984bba876a29582eb842bd339cea48019a897cf2825d71b44c05c0d9e4",
+      "pdf_page": 60,
+      "bdrc_image": 62,
+      "archive_member": "0062.png",
+      "original_image_sha256": "bd87c558ba18eb6a7870be037a9ba76bf84043777f75e8c74ecefbe821c7b763",
+      "native_image_dimensions": [
+        5696,
+        1344
+      ],
+      "crop_box_xyxy_zero_based": [
+        2000,
+        620,
+        2720,
+        850
+      ],
+      "processing": "Pillow crop only; no resampling, denoising, threshold adjustment, reconstruction, or OCR"
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/base-recovery-review-20260927/p101-u02614-02616-context-native.png",
+      "sha256": "a836924a1253421922bff4e13177957abe1699381d769d6305f806dbfb2a7c44",
+      "pdf_page": 101,
+      "bdrc_image": 103,
+      "archive_member": "0103.png",
+      "original_image_sha256": "889567c7817c2ef1163dbbb3329e8ece5a770c8cfd172aa1ca49511dca17fafe",
+      "native_image_dimensions": [
+        5696,
+        1344
+      ],
+      "crop_box_xyxy_zero_based": [
+        2360,
+        475,
+        4400,
+        645
+      ],
+      "processing": "Pillow crop only; no resampling, denoising, threshold adjustment, reconstruction, or OCR"
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/base-recovery-review-20260927/p101-u02620-full-native.png",
+      "sha256": "2811a2a5624443919a67f6ecac2dc690a18c3b7073e8804138cb5daad6b503d6",
+      "pdf_page": 101,
+      "bdrc_image": 103,
+      "archive_member": "0103.png",
+      "original_image_sha256": "889567c7817c2ef1163dbbb3329e8ece5a770c8cfd172aa1ca49511dca17fafe",
+      "native_image_dimensions": [
+        5696,
+        1344
+      ],
+      "crop_box_xyxy_zero_based": [
+        2760,
+        595,
+        3870,
+        805
+      ],
+      "processing": "Pillow crop only; no resampling, denoising, threshold adjustment, reconstruction, or OCR"
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/base-recovery-review-20260927/p102-inscription-native.png",
+      "sha256": "3eb7e7e1bdad5f6d0825b3898533f14162c53e3d559003d9b42adeba418482aa",
+      "pdf_page": 102,
+      "bdrc_image": 104,
+      "archive_member": "0104.png",
+      "original_image_sha256": "eb9e2e0e98df65ec94303d7b50e277b422685f940a26ba7ec00dbfade54dce91",
+      "native_image_dimensions": [
+        5696,
+        1344
+      ],
+      "crop_box_xyxy_zero_based": [
+        2220,
+        425,
+        2710,
+        595
+      ],
+      "processing": "Pillow crop only; no resampling, denoising, threshold adjustment, reconstruction, or OCR"
+    }
+  ],
+  "findings": [
+    {
+      "id": "BASE-RECOVERY-20260927-01",
+      "units": [
+        "U01522"
+      ],
+      "current_tibetan": "སོ་སོའི་བྱེད་པའི་རྒྱུ་འགགས་པ། །",
+      "pdf_page": 60,
+      "bdrc_image": 62,
+      "physical_locator": "Fourth main text row; left-middle. Inspect overlapping native boxes [1230,620,2100,850] and [2000,620,2720,850].",
+      "finding": "Open question",
+      "disposition": "Retain existing supplied text with unresolved scan marker; no emendation proposed.",
+      "proposed_correction": null,
+      "bounded_reading": "The left sequence is compatible with སོ་སོའི་བྱེད་; the distinct right segment is compatible with པའི་རྒྱུ་འགགས་པ།. The intervening fused cluster and its relation to the tall vertical stroke remain unresolved. These partial observations are not a reconstructed continuous transcription.",
+      "confidence": {
+        "presence_of_unresolved_cluster": "high",
+        "partial_outer_segments": "moderate",
+        "complete_transcription": "unresolved"
+      },
+      "reason": "The wider native context shows a separate right-hand segment beyond the cluster. The reviewer cannot reliably allocate the dense middle strokes or decide whether the apparent boundary belongs to punctuation, glyphs, or an intervention. Assigning the expected pa'i rgyu to the cluster alone would not account for the wider visual context.",
+      "review_action": "Have a qualified reader inspect both overlapping crops against the original scan; determine all letters and physical boundaries before changing the unit or declaring lexical completion.",
+      "evidence": [
+        "diplomatic/evidence/chapter-01/base-recovery-review-20260927/p060-u01522-left-native.png",
+        "diplomatic/evidence/chapter-01/base-recovery-review-20260927/p060-u01522-right-native.png"
+      ]
+    },
+    {
+      "id": "BASE-RECOVERY-20260927-02",
+      "units": [
+        "U02615"
+      ],
+      "current_tibetan": "མདོག་གི་ཡང་བྱུང་།",
+      "pdf_page": 101,
+      "bdrc_image": 103,
+      "physical_locator": "Expected annotation around third-row U02614–U02616; entire page inspected in three overlapping native columns.",
+      "finding": "Open question",
+      "disposition": "Retain supplied-transcript annotation with print attestation unresolved; do not infer witness omission.",
+      "proposed_correction": null,
+      "bounded_reading": null,
+      "confidence": {
+        "inspection_did_not_locate_the_exact_phrase": "high",
+        "historical_absence_from_print": "not_established"
+      },
+      "reason": "The third-row main-text context continues from འབྲུ་བཞི་ལྔ་དང་གཟུགས་འདོགས་ཀྱིས to the following main verse; this inspection did not identify a separately readable མདོག་གི་ཡང་བྱུང sequence there or elsewhere on p101. The dense fourth-row note cannot responsibly be reassigned to this wording. Non-identification is not proof of absence.",
+      "review_action": "Retain the exact A transcript provenance separately; obtain an independent qualified reading of p101 before certifying this phrase as printed or absent.",
+      "evidence": [
+        "diplomatic/evidence/chapter-01/base-recovery-review-20260927/p101-u02614-02616-context-native.png",
+        "diplomatic/evidence/chapter-01/base-recovery-review-20260927/p101-u02620-full-native.png"
+      ]
+    },
+    {
+      "id": "BASE-RECOVERY-20260927-03",
+      "units": [
+        "U02620"
+      ],
+      "current_tibetan": "དེ་དག་གི་ཞབས་སྡུད་པའོ། །",
+      "pdf_page": 101,
+      "bdrc_image": 103,
+      "physical_locator": "Fourth main text row, compressed smaller annotation between U02619 and U02621; native box [2760,595,3870,805].",
+      "finding": "Conforming layer separation; unresolved exact reading",
+      "disposition": "Keep annotation separate from main verse and retain qualified transcript wording.",
+      "proposed_correction": null,
+      "bounded_reading": null,
+      "confidence": {
+        "distinct_annotation_layer": "high",
+        "exact_letter_sequence": "unresolved"
+      },
+      "reason": "A compressed cluster is visibly present between the larger main-text phrases, and its scale/spacing differs. Dense and touching strokes prevent an independent letter-by-letter certification of the complete supplied དེ་དག་གི་ཞབས་སྡུད་པའོ wording. The same cluster cannot supply two independently certified notes.",
+      "review_action": "Require a complete glyph-grounded transcription before removing the current uncertainty.",
+      "evidence": [
+        "diplomatic/evidence/chapter-01/base-recovery-review-20260927/p101-u02620-full-native.png"
+      ]
+    },
+    {
+      "id": "BASE-RECOVERY-20260927-04",
+      "units": [],
+      "scan_record": "A2000-C01-S09",
+      "current_tibetan": null,
+      "current_editorial_marker": "[Unresolved inscription; no transcription adopted.]",
+      "pdf_page": 102,
+      "bdrc_image": 104,
+      "physical_locator": "Second row, after U02635 and before U02636; compact inscription within native box [2220,425,2710,595].",
+      "finding": "Open question",
+      "disposition": "Preserve scan-only unresolved marker and image; no proposed transcription.",
+      "proposed_correction": null,
+      "bounded_reading": null,
+      "confidence": {
+        "presence_and_boundary_location": "high",
+        "script_and_lexical_reading": "unresolved"
+      },
+      "reason": "The compact sequence and paired vertical delimiter on its left are visible in wider row context. The shapes are insufficiently discriminated by this reviewer to establish a complete Tibetan word sequence or identify an ornamental/script system. It must not be silently expanded into a chapter heading.",
+      "review_action": "Qualified script/palaeographic reading of the original raster or a better source; maintain a visible unresolved marker until then.",
+      "evidence": [
+        "diplomatic/evidence/chapter-01/base-recovery-review-20260927/p102-inscription-native.png"
+      ]
+    }
+  ],
+  "summary": {
+    "supported_lexical_corrections": 0,
+    "retained_unresolved_loci": 4,
+    "canonical_files_modified": false,
+    "chapter_ready": false,
+    "gate_reason": "These four local readings remain unresolved; this limited inspection cannot certify chapter completion or other witness coverage."
+  }
+}
