@@ -1,0 +1,282 @@
+{
+  "id": "signs-recovery-review-20260927",
+  "status": "provisional checkpoint; first five candidates reviewed",
+  "scope": "Guided fresh image check of first five integrated_original_unit_changes from recovery packet. No blind or continuous punctuation pass; no English translation QC. Canonical files and Tibetan source unchanged.",
+  "guidance": "guidelines/tibetan_translation_standard_v2.md Parts I and II; original glossary assignments retained; no terminology changes",
+  "source_pdf": "editions/adzom-2000/sgra-thal-gyur.pdf",
+  "source_pdf_sha256": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343",
+  "candidate_source": "diplomatic/recovery/2026-09-27.json#local_punctuation_work",
+  "reviewed_units": [
+    "U00030",
+    "U00035",
+    "U00105",
+    "U00252",
+    "U00372"
+  ],
+  "remaining_integrated_candidates": [
+    "U00578",
+    "U00594",
+    "U00710",
+    "U01757",
+    "U02080",
+    "U02090",
+    "U02172",
+    "U02183",
+    "U02484",
+    "U02489"
+  ],
+  "records": [
+    {
+      "id": "SIGNS-RECOVERY-20260927-U00030",
+      "units": [
+        "U00030"
+      ],
+      "original_units": {
+        "U00030": "འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན།"
+      },
+      "replacement_units": {
+        "U00030": "འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན། །"
+      },
+      "finding": "confirmed terminal punctuation mismatch",
+      "category": "source punctuation",
+      "disposition": "proposed; not integrated",
+      "confidence": "high for stated local sign allocation",
+      "locator": "Adzom 2000 PDF 3; BDRC I1KG11710 image 5; main text row 4; terminal boundary of U00030",
+      "observed_strokes": "two detached shads after na: first immediately after the syllable, second after a blank interval before dga; neither joins the neighboring letters.",
+      "uncertainty": "Only the terminal sign count at this boundary is certified; this is not full punctuation or lexical proofreading. Unicode spacing represents separated strokes, not measured facsimile spacing.",
+      "evidence": [
+        {
+          "path": "evidence/chapter-01/signs-recovery-review-20260927/U00030.png",
+          "sha256": "a60d0176936e577d3af4356ee6566a465fd0fa0b6bdedde0119e97e719aa9e1a",
+          "pixel_bounds": [
+            2950,
+            740,
+            4420,
+            950
+          ],
+          "native_dimensions": [
+            5696,
+            1344
+          ],
+          "derivation": "unscaled rectangular crop of original-images.zip native image, no enhancement",
+          "source_archive": "editions/adzom-2000/original-images.zip",
+          "source_member": "0005.png",
+          "source_member_sha256": "7443efc091b289c3a6a3bae7c01715cbbc29a7fd6ff9958f13af4a714cfbfc79",
+          "pdf_page": 3,
+          "bdrc_image": 5
+        },
+        {
+          "path": "evidence/chapter-01/extension/base-signs-early/AS-E-006.png",
+          "sha256": "5d27273ef923f83efb60f74ed27955d0c5d66c028a5de1628e52a42ba24fb32a",
+          "role": "earlier retained crop also visually inspected; fresh native crop controls this judgment"
+        }
+      ],
+      "source_tibetan_unchanged": "འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན།",
+      "context_units": {
+        "U00029": "ཐུན་མོང་གི་གླེང་གཞི་བཀོད་པ།",
+        "U00031": " དགའ་དང་ལྡན་པ་བསོད་ནམས་བརྩེགས། །"
+      }
+    },
+    {
+      "id": "SIGNS-RECOVERY-20260927-U00035",
+      "units": [
+        "U00035"
+      ],
+      "original_units": {
+        "U00035": "ཤ་ཁྲག་བཀོད་པའི་གཟུགས་མེད་པའི།"
+      },
+      "replacement_units": {
+        "U00035": "ཤ་ཁྲག་བཀོད་པའི་གཟུགས་མེད་པའི། །"
+      },
+      "finding": "confirmed terminal punctuation mismatch",
+      "category": "source punctuation",
+      "disposition": "proposed; not integrated",
+      "confidence": "high for stated local sign allocation",
+      "locator": "Adzom 2000 PDF 4; BDRC I1KG11710 image 6; main text row 2; terminal boundary of U00035",
+      "observed_strokes": "two detached shads after pa'i before rang snang: the first follows the final vowel-bearing syllable; a second vertical is separated by blank space before rang.",
+      "uncertainty": "Only the terminal sign count at this boundary is certified; this is not full punctuation or lexical proofreading. Unicode spacing represents separated strokes, not measured facsimile spacing.",
+      "evidence": [
+        {
+          "path": "evidence/chapter-01/signs-recovery-review-20260927/U00035.png",
+          "sha256": "8ea6d73d46eb6231a7b013c25148797b3dbe8ba6dd84d7ae333097f86e215858",
+          "pixel_bounds": [
+            620,
+            420,
+            1740,
+            600
+          ],
+          "native_dimensions": [
+            5696,
+            1344
+          ],
+          "derivation": "unscaled rectangular crop of original-images.zip native image, no enhancement",
+          "source_archive": "editions/adzom-2000/original-images.zip",
+          "source_member": "0006.png",
+          "source_member_sha256": "3b65e7a753563979f57aa2d9294d251fc07f36bb57cef96634cb4b62f6b899cd",
+          "pdf_page": 4,
+          "bdrc_image": 6
+        },
+        {
+          "path": "evidence/chapter-01/extension/base-signs-early/AS-E-007.png",
+          "sha256": "1a357d53b3842c14bc2fee3f87c1c3f8298f97707781a45606fdbd449498ec41",
+          "role": "earlier retained crop also visually inspected; fresh native crop controls this judgment"
+        }
+      ],
+      "source_tibetan_unchanged": "ཤ་ཁྲག་བཀོད་པའི་གཟུགས་མེད་པའི།",
+      "context_units": {
+        "U00034": "འབྱུང་བ་ཆེན་པོ་བཞི་མི་སྣང་། །",
+        "U00036": "རང་སྣང་དག་པ་ཆེན་པོའི་ཡུལ། །"
+      }
+    },
+    {
+      "id": "SIGNS-RECOVERY-20260927-U00105",
+      "units": [
+        "U00105"
+      ],
+      "original_units": {
+        "U00105": "ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ།"
+      },
+      "replacement_units": {
+        "U00105": "ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ། །"
+      },
+      "finding": "confirmed terminal punctuation mismatch",
+      "category": "source punctuation",
+      "disposition": "proposed; not integrated",
+      "confidence": "high for stated local sign allocation",
+      "locator": "Adzom 2000 PDF 7; BDRC I1KG11710 image 9; main text row 1; terminal boundary of U00105",
+      "observed_strokes": "two detached shads after du: one after the completed du glyph, another before sprul. The du vowel stroke remains attached beneath its letter and is not counted as a shad.",
+      "uncertainty": "Only the terminal sign count at this boundary is certified; this is not full punctuation or lexical proofreading. Unicode spacing represents separated strokes, not measured facsimile spacing.",
+      "evidence": [
+        {
+          "path": "evidence/chapter-01/signs-recovery-review-20260927/U00105.png",
+          "sha256": "0ed8750077a8efb6611cfa9ebc52ab1be8c5016013eefa79a6359c09ced56038",
+          "pixel_bounds": [
+            3500,
+            240,
+            4620,
+            425
+          ],
+          "native_dimensions": [
+            5696,
+            1344
+          ],
+          "derivation": "unscaled rectangular crop of original-images.zip native image, no enhancement",
+          "source_archive": "editions/adzom-2000/original-images.zip",
+          "source_member": "0009.png",
+          "source_member_sha256": "e8ff34017e051bd3ed2289bcd3f5a31287ce8fbc7e63fc7f4c9f399d7cb2dde8",
+          "pdf_page": 7,
+          "bdrc_image": 9
+        },
+        {
+          "path": "evidence/chapter-01/extension/base-signs-early/AS-E-008.png",
+          "sha256": "25450c63ef79b8f6a805dc98a04711aab6bf93725240e80209743548ffd7ccec",
+          "role": "earlier retained crop also visually inspected; fresh native crop controls this judgment"
+        }
+      ],
+      "source_tibetan_unchanged": "ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ།",
+      "context_units": {
+        "U00104": "ཆོས་ཀྱི་སྐུ་ལ་ངེས་བརྒྱུད་དེ། །",
+        "U00106": " སྤྲུལ་པའི་ས་བོན་ལྡང་བའོ། །"
+      }
+    },
+    {
+      "id": "SIGNS-RECOVERY-20260927-U00252",
+      "units": [
+        "U00252"
+      ],
+      "original_units": {
+        "U00252": "འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡིས་གཅོད།"
+      },
+      "replacement_units": {
+        "U00252": "འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡིས་གཅོད། །"
+      },
+      "finding": "confirmed terminal punctuation mismatch",
+      "category": "source punctuation",
+      "disposition": "proposed; not integrated",
+      "confidence": "high for stated local sign allocation",
+      "locator": "Adzom 2000 PDF 13; BDRC I1KG11710 image 15; main text row 1; terminal boundary of U00252; preceding words continue from PDF 12 into initial gcod on PDF 13",
+      "observed_strokes": "two detached shads after gcod on the following page: one after final da, another before bcud. The left vertical belonging to the initial gcod glyph is not counted.",
+      "uncertainty": "Only the terminal sign count at this boundary is certified; this is not full punctuation or lexical proofreading. Unicode spacing represents separated strokes, not measured facsimile spacing.",
+      "evidence": [
+        {
+          "path": "evidence/chapter-01/signs-recovery-review-20260927/U00252.png",
+          "sha256": "a52d1a1487e63aefe0c10b250c5aa65a3c2e13aa6a0a94cb8eb609edcc219b3c",
+          "pixel_bounds": [
+            1080,
+            255,
+            2000,
+            465
+          ],
+          "native_dimensions": [
+            5696,
+            1344
+          ],
+          "derivation": "unscaled rectangular crop of original-images.zip native image, no enhancement",
+          "source_archive": "editions/adzom-2000/original-images.zip",
+          "source_member": "0015.png",
+          "source_member_sha256": "177476a5c978024dcc5fffbe24eec717207a42e24beaa388bca91a97b9d752f1",
+          "pdf_page": 13,
+          "bdrc_image": 15
+        },
+        {
+          "path": "evidence/chapter-01/extension/base-signs-early/AS-E-013.png",
+          "sha256": "ac2684c4482b094b88a27e07af41520b28c584d2b7cac60775fa40b5835aea37",
+          "role": "earlier retained crop also visually inspected; fresh native crop controls this judgment"
+        }
+      ],
+      "source_tibetan_unchanged": "འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡིས་གཅོད།",
+      "context_units": {
+        "U00251": "འབྲས་བུའི་ཐོབ་ས་གང་ཙམ་ཞིག །",
+        "U00253": "བཅུད་ཀྱིས་ལེན་པ་ཇི་ལྟ་བུ། །"
+      }
+    },
+    {
+      "id": "SIGNS-RECOVERY-20260927-U00372",
+      "units": [
+        "U00372"
+      ],
+      "original_units": {
+        "U00372": "སྣ་ཚོགས་སྤྲོས་པ་དོན་ཡིན་ནོ། །"
+      },
+      "replacement_units": {
+        "U00372": "སྣ་ཚོགས་སྤྲོས་པ་དོན་ཡིན་ནོ།"
+      },
+      "finding": "confirmed terminal punctuation mismatch",
+      "category": "source punctuation",
+      "disposition": "proposed; not integrated",
+      "confidence": "high for stated local sign allocation",
+      "locator": "Adzom 2000 PDF 17; BDRC I1KG11710 image 19; main text row 4; terminal boundary of U00372",
+      "observed_strokes": "one detached shad after no before the smaller dris lan heading. The later upright at the heading's start joins the lower stroke of the initial dra form; it is not a second detached main-text shad.",
+      "uncertainty": "Only the terminal sign count at this boundary is certified; this is not full punctuation or lexical proofreading. Unicode spacing represents separated strokes, not measured facsimile spacing.",
+      "evidence": [
+        {
+          "path": "evidence/chapter-01/signs-recovery-review-20260927/U00372.png",
+          "sha256": "7244918673e35c89e8dc532d30863bea974d9ed78242b4c6319c36bfa2f929b6",
+          "pixel_bounds": [
+            3500,
+            620,
+            5200,
+            805
+          ],
+          "native_dimensions": [
+            5696,
+            1344
+          ],
+          "derivation": "unscaled rectangular crop of original-images.zip native image, no enhancement",
+          "source_archive": "editions/adzom-2000/original-images.zip",
+          "source_member": "0019.png",
+          "source_member_sha256": "824f1792676658aa258f3f1efe0a321e5c7ddc7cb8e0df77d8666cad1d3076ba",
+          "pdf_page": 17,
+          "bdrc_image": 19
+        }
+      ],
+      "source_tibetan_unchanged": "སྣ་ཚོགས་སྤྲོས་པ་དོན་ཡིན་ནོ། །",
+      "context_units": {
+        "U00371": "འདུལ་ཡུལ་གང་ཟག་མོས་དོན་དུ། །",
+        "U00373": "དྲིས་ལན་གསུམ་པའོ། །"
+      }
+    }
+  ],
+  "method": "Read unchanged neighboring transcript anchors; visually inspect existing early sign crops and fresh unscaled native image crops. Native source files checked against stored SHA256. Count detached strokes locally, distinguishing letter strokes and smaller heading text. No automatic candidate acceptance or global normalization.",
+  "missing_inputs": "Earlier full sign-review reports remain unavailable; this checkpoint supplies new bounded evidence rather than reconstructing their wording."
+}
