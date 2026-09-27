@@ -1,0 +1,252 @@
+{
+  "schema": "recovered_scan_review_v1",
+  "witness": "Tharpaling 1983 W27491",
+  "source": "editions/tharpaling-1983/sgra-thal-gyur.pdf",
+  "source_sha256": "db895ffc9850a728e25add92491341039547f999fff80d7e73e9521ada10b550",
+  "date": "2026-09-27",
+  "review_mode": "guided visual partial lexical comparison; not full-character certification",
+  "status": "in_progress",
+  "prior_report_status": "Earlier text reports were lost at workspace replacement; recovery notes preserve prior inspection claims. They are not silently reconstructed as new firsthand readings.",
+  "pages": [
+    {
+      "pdf_page": 52,
+      "start_anchor": "U01899",
+      "end_anchor": "U01938",
+      "endpoints_may_be_partial": true,
+      "coverage": "all six main rows visually inspected; partial lexical comparison only",
+      "unresolved": "Rows1–6 visually traversed. The leftmost third, especially rows2–4, has severe dropouts: the starts of U01905/1907 neighborhood and later first verses cannot be read continuously. The right half supplies sequence anchors but no blanket agreement.",
+      "evidence": "evidence/chapter-01/recovered-tharpaling/p052.png"
+    },
+    {
+      "pdf_page": 53,
+      "start_anchor": "U01938",
+      "end_anchor": "U01970",
+      "endpoints_may_be_partial": true,
+      "coverage": "all six main rows visually inspected; partial lexical comparison only",
+      "unresolved": "Rows1–6 traversed. Upper-left portions and several medial clusters are merged by ink. U01949 and the following material sequence are identifiable; suffixes and the small headings remain partly uncertain.",
+      "evidence": "evidence/chapter-01/recovered-tharpaling/p053.png"
+    },
+    {
+      "pdf_page": 54,
+      "start_anchor": "U01970",
+      "end_anchor": "A2000-C01-S03",
+      "endpoints_may_be_partial": true,
+      "coverage": "all six main rows visually inspected; partial lexical comparison only",
+      "unresolved": "Rows1–6 traversed. Top-right portions of rows1–2 are substantially faded; middle and lower rows are more legible, but not every syllable is secure. The restoration sequence after U02005 is positively present.",
+      "evidence": "evidence/chapter-01/recovered-tharpaling/p054.png"
+    },
+    {
+      "pdf_page": 55,
+      "start_anchor": "A2000-C01-S03",
+      "end_anchor": "U02055",
+      "endpoints_may_be_partial": true,
+      "coverage": "all six main rows visually inspected; partial lexical comparison only",
+      "unresolved": "Rows1–6 traversed. Leftmost quarter of rows2–6 and central patches are heavily fused. This prevents full comparison, including some ends of verses in U02011–2045. Readable phrases anchor the row sequence.",
+      "evidence": "evidence/chapter-01/recovered-tharpaling/p055.png"
+    },
+    {
+      "pdf_page": 56,
+      "start_anchor": "U02055",
+      "end_anchor": "U02093",
+      "endpoints_may_be_partial": true,
+      "coverage": "all six main rows visually inspected; partial lexical comparison only",
+      "unresolved": "Rows1–6 traversed. Negative-polarity source, with broken strokes across much of the upper and lower text. The sequence of mantra-practice passages is recognizable but no full agreement is claimed.",
+      "evidence": "evidence/chapter-01/recovered-tharpaling/p056.png"
+    }
+  ],
+  "loci": [
+    {
+      "id": "TH-REC-S01",
+      "witness": "Tharpaling 1983 W27491",
+      "units": [
+        "U01274",
+        "U01275"
+      ],
+      "comparison_reading": "Three intervening water verses present; readable phrases include chu yi zug pas dbang po sdud and the subsequent byer ba / snyoms pa sequence.",
+      "status": "false_omission_withdrawn",
+      "confidence": "high",
+      "locator": {
+        "pdf_pages": [
+          35
+        ],
+        "rows": "2 right to 3 left"
+      },
+      "rationale": "The prior crop started at U01275 and excluded the preceding row. Full-page review shows the three verses between U01274 and U01275. Presence is secure; fragmented letters do not justify certifying every syllable or punctuation mark.",
+      "decision": "Retain the selected Adzom scan reading as the diplomatic base; record this comparison evidence without importing its wording into the base.",
+      "evidence": [
+        "evidence/chapter-01/recovered-tharpaling/p035.png"
+      ],
+      "review": "Focused visual inspection of full source page and enlarged left/right crops; expected passage was known.",
+      "supersedes": "TH-C1-CONT-003"
+    },
+    {
+      "id": "TH-REC-S02",
+      "witness": "Tharpaling 1983 W27491",
+      "units": [
+        "U01882",
+        "U01883"
+      ],
+      "comparison_reading": "Three intervening verses present; the second has sku yi and the following sprul pa’i sku dang longs sku dang is visible.",
+      "status": "false_omission_withdrawn",
+      "confidence": "high",
+      "locator": {
+        "pdf_pages": [
+          51
+        ],
+        "rows": "3 far right to 4 left/middle"
+      },
+      "rationale": "The passage lies on PDF51, not the formerly cited PDF50. The first restored verse crosses the row boundary and is partly faint. The visible sequence before chos sku establishes presence, without supplying damaged letters from Adzom.",
+      "decision": "Retain the selected Adzom scan reading as the diplomatic base; record this comparison evidence without importing its wording into the base.",
+      "evidence": [
+        "evidence/chapter-01/recovered-tharpaling/p051.png"
+      ],
+      "review": "Focused visual inspection of full source page and enlarged left/right crops; expected passage was known.",
+      "supersedes": "TH-C1-CONT-004"
+    },
+    {
+      "id": "TH-REC-S03",
+      "witness": "Tharpaling 1983 W27491",
+      "units": [
+        "U02005",
+        "U02006"
+      ],
+      "comparison_reading": "Three intervening verses present, ending with ’bras bu las at the opening of PDF55 before rgyu la gsum la ’bras bur gnyis.",
+      "status": "false_omission_withdrawn",
+      "confidence": "high",
+      "locator": {
+        "pdf_pages": [
+          54,
+          55
+        ],
+        "rows": "54 row6 to 55 row1"
+      },
+      "rationale": "Full sequential page junction supplies the material that the former PDF53–54 locator missed. Presence of the sequence is secure; heavily inked portions of PDF55 are not certified letter by letter.",
+      "decision": "Retain the selected Adzom scan reading as the diplomatic base; record this comparison evidence without importing its wording into the base.",
+      "evidence": [
+        "evidence/chapter-01/recovered-tharpaling/p054.png",
+        "evidence/chapter-01/recovered-tharpaling/p055.png"
+      ],
+      "review": "Focused visual inspection of full source page and enlarged left/right crops; expected passage was known.",
+      "supersedes": "TH-C1-CONT-005"
+    },
+    {
+      "id": "TH-REC-P052-UNRESOLVED",
+      "witness": "Tharpaling 1983 W27491",
+      "units": [
+        "U01899",
+        "U01938"
+      ],
+      "comparison_reading": null,
+      "status": "unresolved_print_reading",
+      "confidence": "high confidence in limitation, no reading asserted",
+      "locator": {
+        "pdf_pages": [
+          52
+        ],
+        "rows": "1–6"
+      },
+      "rationale": "Rows1–6 visually traversed. The leftmost third, especially rows2–4, has severe dropouts: the starts of U01905/1907 neighborhood and later first verses cannot be read continuously. The right half supplies sequence anchors but no blanket agreement.",
+      "decision": "Retain the selected Adzom scan reading as the diplomatic base; record this comparison evidence without importing its wording into the base.",
+      "evidence": [
+        "evidence/chapter-01/recovered-tharpaling/p052.png"
+      ],
+      "review": "Focused visual inspection of full source page and enlarged left/right crops; expected passage was known."
+    },
+    {
+      "id": "TH-REC-P053-UNRESOLVED",
+      "witness": "Tharpaling 1983 W27491",
+      "units": [
+        "U01938",
+        "U01970"
+      ],
+      "comparison_reading": null,
+      "status": "unresolved_print_reading",
+      "confidence": "high confidence in limitation, no reading asserted",
+      "locator": {
+        "pdf_pages": [
+          53
+        ],
+        "rows": "1–6"
+      },
+      "rationale": "Rows1–6 traversed. Upper-left portions and several medial clusters are merged by ink. U01949 and the following material sequence are identifiable; suffixes and the small headings remain partly uncertain.",
+      "decision": "Retain the selected Adzom scan reading as the diplomatic base; record this comparison evidence without importing its wording into the base.",
+      "evidence": [
+        "evidence/chapter-01/recovered-tharpaling/p053.png"
+      ],
+      "review": "Focused visual inspection of full source page and enlarged left/right crops; expected passage was known."
+    },
+    {
+      "id": "TH-REC-P054-UNRESOLVED",
+      "witness": "Tharpaling 1983 W27491",
+      "units": [
+        "U01970"
+      ],
+      "comparison_reading": null,
+      "status": "unresolved_print_reading",
+      "confidence": "high confidence in limitation, no reading asserted",
+      "locator": {
+        "pdf_pages": [
+          54
+        ],
+        "rows": "1–6"
+      },
+      "rationale": "Rows1–6 traversed. Top-right portions of rows1–2 are substantially faded; middle and lower rows are more legible, but not every syllable is secure. The restoration sequence after U02005 is positively present.",
+      "decision": "Retain the selected Adzom scan reading as the diplomatic base; record this comparison evidence without importing its wording into the base.",
+      "evidence": [
+        "evidence/chapter-01/recovered-tharpaling/p054.png"
+      ],
+      "review": "Focused visual inspection of full source page and enlarged left/right crops; expected passage was known."
+    },
+    {
+      "id": "TH-REC-P055-UNRESOLVED",
+      "witness": "Tharpaling 1983 W27491",
+      "units": [
+        "U02055"
+      ],
+      "comparison_reading": null,
+      "status": "unresolved_print_reading",
+      "confidence": "high confidence in limitation, no reading asserted",
+      "locator": {
+        "pdf_pages": [
+          55
+        ],
+        "rows": "1–6"
+      },
+      "rationale": "Rows1–6 traversed. Leftmost quarter of rows2–6 and central patches are heavily fused. This prevents full comparison, including some ends of verses in U02011–2045. Readable phrases anchor the row sequence.",
+      "decision": "Retain the selected Adzom scan reading as the diplomatic base; record this comparison evidence without importing its wording into the base.",
+      "evidence": [
+        "evidence/chapter-01/recovered-tharpaling/p055.png"
+      ],
+      "review": "Focused visual inspection of full source page and enlarged left/right crops; expected passage was known."
+    },
+    {
+      "id": "TH-REC-P056-UNRESOLVED",
+      "witness": "Tharpaling 1983 W27491",
+      "units": [
+        "U02055",
+        "U02093"
+      ],
+      "comparison_reading": null,
+      "status": "unresolved_print_reading",
+      "confidence": "high confidence in limitation, no reading asserted",
+      "locator": {
+        "pdf_pages": [
+          56
+        ],
+        "rows": "1–6"
+      },
+      "rationale": "Rows1–6 traversed. Negative-polarity source, with broken strokes across much of the upper and lower text. The sequence of mantra-practice passages is recognizable but no full agreement is claimed.",
+      "decision": "Retain the selected Adzom scan reading as the diplomatic base; record this comparison evidence without importing its wording into the base.",
+      "evidence": [
+        "evidence/chapter-01/recovered-tharpaling/p056.png"
+      ],
+      "review": "Focused visual inspection of full source page and enlarged left/right crops; expected passage was known."
+    }
+  ],
+  "limitations": [
+    "Expected Adzom anchor text and earlier correction claims were known during inspection.",
+    "Faded and fused glyphs are left unresolved; a mapped page or verse presence does not certify its every letter or sign.",
+    "No English translation or base-text alteration is proposed.",
+    "PDF35 and PDF56 have negative photographic polarity as rendered by the source PDF; no missing wording is inferred from that polarity."
+  ]
+}
