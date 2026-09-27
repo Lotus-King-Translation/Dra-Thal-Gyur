@@ -1,0 +1,27 @@
+# Dra Thal Gyur — diplomatic edition in progress
+
+**Chapter 1 is under collation. No chapter is yet certified complete.** This directory is the working dossier for the requested single annotated diplomatic edition, not a completed golden text. Chapters 2–6 and the final colophon have not been started here. The original editions, source files, glossary, and translation are unchanged.
+
+This dossier is a research checkpoint. It does not satisfy or bypass the completed-chapter gate below.
+
+## Read the current work
+
+- [Chapter 1: Tibetan reading text and apparatus](chapter-01.md)
+- [Source inventory and coverage limitations](SOURCES.md)
+- [Editorial method](METHOD.md)
+- [Machine-readable chapter status](STATUS.json)
+- [Continuation instructions and reproduction](HANDOFF.md)
+
+The apparatus distinguishes exact supplied-transcript differences from readings actually checked in a facsimile. An uncollated witness is never represented as agreeing with Adzom. Missing access and unreadable text are not silently treated as omissions by a witness.
+
+## Governing source and decisions
+
+The repository already selects **Adzom W1KG11703, volume 1** as its base, with the **printed scan governing**. This edition follows that decision. A diplomatic text records that witness; it does not silently select a majority or more familiar reading from other witnesses. Every correction to the working Adzom transcription needs a scan locator and a recorded reason. Alternative readings remain visible even when the Adzom reading is retained.
+
+The working text preserves supplied readings pending verification and explicitly inserts individually verified scan-only material. Its unverified portions are a transcription scaffold. The prose reasons in the apparatus are editorial dispositions, not assertions that every printed witness has been read or that the retained reading is the author's original.
+
+## Iteration gate
+
+Complete and validate Chapter 1 before starting Chapter 2. Repeat this gate for each subsequent chapter. A chapter can be marked complete only after its declared witness coverage has been checked, its base transcription has been proofread throughout, all observed differences have apparatus entries, and all outstanding unreadable or unavailable spans are precisely recorded. A mechanical round-trip check establishes transcript coverage, not philological completeness.
+
+Source baseline: [`e17a496ad7532cc627f9ba288b541f7a53efd002`](https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/commit/e17a496ad7532cc627f9ba288b541f7a53efd002). Created 2026-09-27.

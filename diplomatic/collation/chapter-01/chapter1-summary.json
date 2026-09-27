@@ -1,0 +1,94 @@
+{
+  "scope": "Chapter 1 including opening and witness-specific material before the identical Chapter 2 incipit",
+  "unicode_normalization": "none",
+  "offset_convention": "zero-based half-open Unicode code points",
+  "sources": {
+    "A": {
+      "path": "editions/adzom-2000/W1KG11703_7.txt",
+      "status": "unverified supplied e-text extraction",
+      "full_file_sha256": "18bd9ce65311e2d6d7c703f053a5c0aac347e899a75f8749a8f9afd891452edc",
+      "start": 0,
+      "end": 76376,
+      "chapter_sha256": "34e3e43dcd3a24e31548d08f23ea18fff21f8c3a6a2bbabc2dcc1f3bc14bc9eb",
+      "chapter_utf8_bytes": 223998
+    },
+    "B": {
+      "path": "editions/tharpaling-1983/W27491_7.txt",
+      "status": "unverified supplied e-text extraction",
+      "full_file_sha256": "df05454b1ca21d893188b30e00b7b463abe369afc6ec26d917354a7d6de464c3",
+      "start": 0,
+      "end": 76794,
+      "chapter_sha256": "37bcf19f883260eda8a8dee0c0fb038393f3477fd1afd8a3c695b7c3343fb510",
+      "chapter_utf8_bytes": 225188
+    },
+    "S": {
+      "path": "editions/sichuan-2016/W3CN7084_7.txt",
+      "status": "unverified supplied e-text extraction",
+      "full_file_sha256": "2cf6b52889211579dff68f2e064032f40926de266242f111b3c94bb4efa47c57",
+      "start": 0,
+      "end": 76999,
+      "chapter_sha256": "1a7e521f6f0fd2af41c6963eaf8c6607c0b73c2cc6f9555407b2ef0a5ccdfea9",
+      "chapter_utf8_bytes": 225405
+    }
+  },
+  "pairwise_alignment": {
+    "B": {
+      "exact_anchor_count": 2316,
+      "op_counts": {
+        "insert": 61,
+        "equal": 141,
+        "replace": 37,
+        "delete": 44
+      }
+    },
+    "S": {
+      "exact_anchor_count": 2237,
+      "op_counts": {
+        "delete": 16,
+        "equal": 285,
+        "insert": 243,
+        "replace": 27
+      }
+    }
+  },
+  "conflict_groups": 359,
+  "classifications": {
+    "textual": 99,
+    "punctuation_or_spacing": 49,
+    "editorial_bracket_or_spacing": 211
+  },
+  "larger_or_structural_groups": [
+    "C1-0001",
+    "C1-0007",
+    "C1-0011",
+    "C1-0013",
+    "C1-0014",
+    "C1-0019",
+    "C1-0026",
+    "C1-0027",
+    "C1-0039",
+    "C1-0041",
+    "C1-0120",
+    "C1-0145",
+    "C1-0153",
+    "C1-0154",
+    "C1-0241",
+    "C1-0242",
+    "C1-0258",
+    "C1-0268",
+    "C1-0269",
+    "C1-0286",
+    "C1-0287",
+    "C1-0306",
+    "C1-0331",
+    "C1-0359"
+  ],
+  "source_units_with_differences": 289,
+  "readable_full_unit_loci": 183,
+  "reconstruction_validation": {
+    "A_source_units_exact": true,
+    "B_from_A_and_apparatus_exact": true,
+    "S_from_A_and_apparatus_exact": true
+  },
+  "alignment_caveat": "The monotonic computational alignment is lossless but not a certification of philological correspondence. Moved headings, omissions, and structural differences require manual review."
+}

@@ -1,0 +1,190 @@
+{
+  "status": "pass",
+  "scope": "Exact Chapter 1 supplied-e-text data only; no facsimile authenticity or edition completeness certification.",
+  "counts": {
+    "raw_conflict_groups": 359,
+    "readable_loci": 183,
+    "checks": 43
+  },
+  "checks": [
+    {
+      "check": "A full-file hash",
+      "passed": true
+    },
+    {
+      "check": "A unique next-chapter incipit",
+      "passed": true
+    },
+    {
+      "check": "A boundary is immediately before next-chapter incipit",
+      "passed": true
+    },
+    {
+      "check": "B full-file hash",
+      "passed": true
+    },
+    {
+      "check": "B unique next-chapter incipit",
+      "passed": true
+    },
+    {
+      "check": "B boundary is immediately before next-chapter incipit",
+      "passed": true
+    },
+    {
+      "check": "S full-file hash",
+      "passed": true
+    },
+    {
+      "check": "S unique next-chapter incipit",
+      "passed": true
+    },
+    {
+      "check": "S boundary is immediately before next-chapter incipit",
+      "passed": true
+    },
+    {
+      "check": "A chapter hash",
+      "passed": true
+    },
+    {
+      "check": "A chapter contains first-chapter closing formula",
+      "passed": true
+    },
+    {
+      "check": "B chapter hash",
+      "passed": true
+    },
+    {
+      "check": "B chapter contains first-chapter closing formula",
+      "passed": true
+    },
+    {
+      "check": "S chapter hash",
+      "passed": true
+    },
+    {
+      "check": "S chapter contains first-chapter closing formula",
+      "passed": true
+    },
+    {
+      "check": "Adzom units exactly reproduce chapter",
+      "passed": true
+    },
+    {
+      "check": "Adzom first/last boundaries",
+      "passed": true
+    },
+    {
+      "check": "Unique raw IDs",
+      "passed": true
+    },
+    {
+      "check": "Unique locus IDs",
+      "passed": true
+    },
+    {
+      "check": "Every raw difference appears in exactly one readable locus",
+      "passed": true
+    },
+    {
+      "check": "raw A monotonic exact source slices",
+      "passed": true
+    },
+    {
+      "check": "raw B monotonic exact source slices",
+      "passed": true
+    },
+    {
+      "check": "raw S monotonic exact source slices",
+      "passed": true
+    },
+    {
+      "check": "raw reconstructs B exactly",
+      "passed": true
+    },
+    {
+      "check": "raw reconstructs A exactly from B",
+      "passed": true
+    },
+    {
+      "check": "raw reconstructs S exactly",
+      "passed": true
+    },
+    {
+      "check": "raw reconstructs A exactly from S",
+      "passed": true
+    },
+    {
+      "check": "readable A monotonic exact source slices",
+      "passed": true
+    },
+    {
+      "check": "readable B monotonic exact source slices",
+      "passed": true
+    },
+    {
+      "check": "readable S monotonic exact source slices",
+      "passed": true
+    },
+    {
+      "check": "readable reconstructs B exactly",
+      "passed": true
+    },
+    {
+      "check": "readable reconstructs A exactly from B",
+      "passed": true
+    },
+    {
+      "check": "readable reconstructs S exactly",
+      "passed": true
+    },
+    {
+      "check": "readable reconstructs A exactly from S",
+      "passed": true
+    },
+    {
+      "check": "Every raw span is enclosed by its readable locus for all three sources",
+      "passed": true
+    },
+    {
+      "check": "No readable locus begins with isolated combining mark",
+      "passed": true
+    },
+    {
+      "check": "Pairwise A:B complete contiguous exact partition",
+      "passed": true
+    },
+    {
+      "check": "Pairwise A:S complete contiguous exact partition",
+      "passed": true
+    },
+    {
+      "check": "Copied chapter1-pairwise.json matches producer output",
+      "passed": true
+    },
+    {
+      "check": "Copied chapter1-loci.json matches producer output",
+      "passed": true
+    },
+    {
+      "check": "Copied chapter1-summary.json matches producer output",
+      "passed": true
+    },
+    {
+      "check": "Copied chapter1-conflicts.json matches producer output",
+      "passed": true
+    },
+    {
+      "check": "Copied script matches producer",
+      "passed": true
+    }
+  ],
+  "verified_files": {
+    "chapter1-pairwise.json": "e4cb41413189847aa484bd1343fb509b2f6d27a4ccb6cbe6cd6a75f72f6f5f9e",
+    "chapter1-loci.json": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821",
+    "chapter1-summary.json": "cd7045f0c0a01a0862261aaf2fa09227760cc987be8b34ac22c181cc3baac6f5",
+    "chapter1-conflicts.json": "ffcb314536d457a6c068c3d773147e3b0292e0643a8379b9abd50104ca045ec1"
+  },
+  "no_repository_writes": true
+}

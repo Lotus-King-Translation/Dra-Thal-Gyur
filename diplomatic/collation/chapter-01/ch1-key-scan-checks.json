@@ -1,0 +1,214 @@
+{
+  "scope": "Chapter 1 only; independent visual checks of four selected loci in Adzom W1KG11703. No English translation review or full-chapter certification.",
+  "method": "Native embedded images extracted with PyMuPDF (fitz), no OCR, native-pixel crops visually inspected. Crop coordinates in original 5696x1344 image pixels. Large-scale/whole-page views supplemented the locus inspection.",
+  "source_version": "Repository editions/adzom-2000/sgra-thal-gyur.pdf and immutable supplied transcript represented in translations/2026-09-26-full-draft/ALIGNED.jsonl.",
+  "existing_report_policy": "Earlier REVIEW-NOTES.md / scan-decisions claims were treated as claims to test, not authorities over the image. Unverified transcript phrases are retained in apparatus, not deleted.",
+  "items": [
+    {
+      "id": "SCAN-CH1-00542",
+      "units": [
+        "U00542"
+      ],
+      "original_tibetan": "བཀོད་པ་ལྔ་ཡིས་ཡོངས་སུ་སྨྲས། །",
+      "original_units": {
+        "U00542": "བཀོད་པ་ལྔ་ཡིས་ཡོངས་སུ་སྨྲས། །"
+      },
+      "adopted_tibetan": "བཀོད་པ་ལྔ་ཡིས་ཡོངས་སུ་སྤྲས། །",
+      "separate_unchanged_transcript_annotation": null,
+      "scan_locator": {
+        "pdf": "editions/adzom-2000/sgra-thal-gyur.pdf",
+        "pages": [
+          23,
+          24
+        ],
+        "bdrc_images": [
+          25,
+          26
+        ],
+        "image_group": "I1KG11710",
+        "location": "p23 line 6 right end, continuing p24 line 1 left start",
+        "inspected_pixel_rectangles": {
+          "p23-line6-end.png": [
+            3800,
+            860,
+            5240,
+            1080
+          ],
+          "p24-top-left.png": [
+            730,
+            250,
+            1250,
+            450
+          ]
+        }
+      },
+      "rationale": "The clause begins at the right end of p23 line 6. The continuation at the left of p24 line 1 clearly reads སུ་སྤྲས།. The scanned stack supports spras, whereas the extracted e-text has smras. Adopt spras as a scan-supported transcription correction and retain the original e-text reading in the apparatus.",
+      "status": "confirmed_e_text_transcription_error_at_inspected_locus",
+      "confidence": {
+        "reading": "High",
+        "remaining_uncertainty": "No material uncertainty in the inspected spras reading; this does not verify other U00542 witnesses."
+      },
+      "evidence_crop": [
+        "evidence/chapter-01/check-p23-line6-end.png",
+        "evidence/chapter-01/check-p24-top-left.png"
+      ],
+      "conflict_with_existing_report": "Agrees with prior N-033 / scan-decisions correction for smras -> spras. Independently checked; prior claim not used as evidence."
+    },
+    {
+      "id": "SCAN-CH1-01067",
+      "units": [
+        "U01067"
+      ],
+      "original_tibetan": "བརྒྱ་ཡང་བྱུང་ཐམས་ཅད་ཚེ་གཅིག་འབྲས་བུ་ཐོབ། །",
+      "original_units": {
+        "U01067": "བརྒྱ་ཡང་བྱུང་ཐམས་ཅད་ཚེ་གཅིག་འབྲས་བུ་ཐོབ། །"
+      },
+      "adopted_tibetan": "ཐམས་ཅད་ཚེ་གཅིག་འབྲས་བུ་ཐོབ། །",
+      "separate_unchanged_transcript_annotation": "བརྒྱ་ཡང་བྱུང་",
+      "scan_locator": {
+        "pdf": "editions/adzom-2000/sgra-thal-gyur.pdf",
+        "pages": [
+          43
+        ],
+        "bdrc_images": [
+          45
+        ],
+        "image_group": "I1KG11710",
+        "location": "line 3, adjacent clauses U01066 and U01067",
+        "inspected_pixel_rectangles": {
+          "p43-main-reading.png": [
+            1330,
+            490,
+            3400,
+            690
+          ]
+        }
+      },
+      "rationale": "The inspected native pixels read མངོན་པའི་བསྟན་པ་བསྐལ་པ་བརྒྱད། followed by ཐམས་ཅད་ཚེ་གཅིག་འབྲས་བུ་ཐོབ།. No small brgya yang byung is visible between the clauses or in the inspected interline region. Separate that exact supplied-transcript phrase from the adopted main reading, preserving it in apparatus with provenance unresolved. The page was also viewed whole; this is not a certified exhaustive search for marginal microtext.",
+      "status": "scan_supported_main_reading_and_unverified_transcript_annotation",
+      "confidence": {
+        "main_reading": "High",
+        "annotation_origin": "Unresolved",
+        "remaining_uncertainty": "Phrase is attested in the supplied transcript; the prior claim that it is small print in this Adzom image is not corroborated in the inspected area. Do not claim its absence from every possible source."
+      },
+      "evidence_crop": [
+        "evidence/chapter-01/check-p43-main-reading.png"
+      ],
+      "conflict_with_existing_report": "Conflicts with N-053 statement that the original image shows brgya yang byung in small print. The adopted main-text distinction is supported, but that attribution is not established by the observed image."
+    },
+    {
+      "id": "SCAN-CH1-01090",
+      "units": [
+        "U01090"
+      ],
+      "original_tibetan": "ཡན་ལག་བཀོད་པ་བརྒྱ་བཅུ་གཅིག་ཀྱང་བྱུང་གཅིག་གོ། །",
+      "original_units": {
+        "U01090": "ཡན་ལག་བཀོད་པ་བརྒྱ་བཅུ་གཅིག་ཀྱང་བྱུང་གཅིག་གོ། །"
+      },
+      "adopted_tibetan": "ཡན་ལག་བཀོད་པ་བརྒྱ་གཅིག་གོ། །",
+      "separate_unchanged_transcript_annotation": "བཅུ་གཅིག་ཀྱང་བྱུང་",
+      "scan_locator": {
+        "pdf": "editions/adzom-2000/sgra-thal-gyur.pdf",
+        "pages": [
+          44
+        ],
+        "bdrc_images": [
+          46
+        ],
+        "image_group": "I1KG11710",
+        "location": "line 2 right end",
+        "inspected_pixel_rectangles": {
+          "p44-main-reading.png": [
+            4100,
+            355,
+            5180,
+            540
+          ],
+          "p44-line2-detail.png": [
+            4000,
+            320,
+            5240,
+            570
+          ]
+        }
+      },
+      "rationale": "The main line directly reads ཡན་ལག་བཀོད་པ་བརྒྱ་གཅིག་གོ།. The supplied-transcript insertion bcu gcig kyang byung is not visible in this main clause or the inspected surrounding interline area. Preserve its exact transcript wording in apparatus; do not label it an observed Adzom small-print note on this evidence. The page was also surveyed at overview scale, not certified for every possible microannotation.",
+      "status": "scan_supported_main_reading_and_unverified_transcript_annotation",
+      "confidence": {
+        "main_reading": "High",
+        "annotation_origin": "Unresolved",
+        "remaining_uncertainty": "Source of the inserted transcript phrase remains unestablished; visual non-observation is limited to the stated locus and surrounding area."
+      },
+      "evidence_crop": [
+        "evidence/chapter-01/check-p44-main-reading.png",
+        "evidence/chapter-01/check-p44-line2-detail.png"
+      ],
+      "conflict_with_existing_report": "Conflicts with N-054 statement that this print separates bcu gcig kyang byung in small type. Main reading brgya gcig go is independently corroborated; claimed small-print provenance is not."
+    },
+    {
+      "id": "SCAN-CH1-01811-01812",
+      "units": [
+        "U01811",
+        "U01812"
+      ],
+      "original_tibetan": "ལོ་སྟོང་ཞག་ལོ་སྟེ་ཞག་ཀྱང་བཅུ་ཕྲག་གསུམ། །ཡང་བྱུང་ཀྱང་འབུམ་ཕྲག་གསུམ། །",
+      "original_units": {
+        "U01811": "ལོ་སྟོང་ཞག་ལོ་སྟེ་ཞག་ཀྱང་བཅུ་ཕྲག་གསུམ། །",
+        "U01812": "ཡང་བྱུང་ཀྱང་འབུམ་ཕྲག་གསུམ། །"
+      },
+      "adopted_tibetan": "ལོ་སྟོང་ཞག་ཀྱང་འབུམ་ཕྲག་གསུམ། །",
+      "separate_unchanged_transcript_annotation": "ལོ་སྟེ་ཞག་ཀྱང་བཅུ་ཕྲག་གསུམ། །ཡང་བྱུང་",
+      "scan_locator": {
+        "pdf": "editions/adzom-2000/sgra-thal-gyur.pdf",
+        "pages": [
+          71
+        ],
+        "bdrc_images": [
+          73
+        ],
+        "image_group": "I1KG11710",
+        "location": "line 2 right end to line 3 left start",
+        "inspected_pixel_rectangles": {
+          "p71-main-reading-start.png": [
+            4170,
+            365,
+            5200,
+            510
+          ],
+          "p71-main-reading-end.png": [
+            820,
+            490,
+            1090,
+            665
+          ],
+          "p71-line2-end.png": [
+            3970,
+            370,
+            5220,
+            550
+          ],
+          "p71-line3-start.png": [
+            770,
+            510,
+            1960,
+            660
+          ]
+        }
+      },
+      "rationale": "The main verse reads lo stong zhag kyang 'bum phrag at the right end of line 2 and gsum at the start of line 3. The intervening lo ste zhag kyang bcu phrag gsum ... yang byung sequence in the flattened e-text is not visible in the inspected locus/interline region. Separate it without loss as an exact transcript annotation whose source is unresolved. This reconstruction restores the observed main line; it does not adjudicate whether the alternative numerical statement is correct or identify its witness.",
+      "status": "scan_supported_main_reading_and_unverified_transcript_annotation",
+      "confidence": {
+        "main_reading": "High",
+        "annotation_origin": "Unresolved",
+        "remaining_uncertainty": "The main reading is clear; the origin and intended attachment of the supplied-transcript alternative are not established. Whole page surveyed at overview scale, not a certified search of every tiny marginal mark."
+      },
+      "evidence_crop": [
+        "evidence/chapter-01/check-p71-main-reading-start.png",
+        "evidence/chapter-01/check-p71-main-reading-end.png",
+        "evidence/chapter-01/check-p71-line2-end.png",
+        "evidence/chapter-01/check-p71-line3-start.png"
+      ],
+      "conflict_with_existing_report": "Agrees with N-083 about the main reading but does not corroborate its claim that lo ste zhag kyang bcu phrag gsum yang byung is small print in this Adzom scan."
+    }
+  ]
+}
