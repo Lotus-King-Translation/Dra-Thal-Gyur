@@ -2261,19 +2261,71 @@
     "witness": "Tharpaling 1983 W27491",
     "units": [
       "U02055",
-      "U02093"
+      "U02100"
     ],
     "comparison_reading": null,
     "status": "unresolved_print_reading",
     "confidence": "high confidence in limitation, no reading asserted",
     "locator": "Tharpaling PDF56; rows 1–6",
-    "rationale": "Rows1–6 traversed. Negative-polarity source, with broken strokes across much of the upper and lower text. The sequence of mantra-practice passages is recognizable but no full agreement is claimed. Provenance: retained interrupted recovery report; this integration performs no new scan reading.",
+    "rationale": "Rows1–6 traversed. Negative-polarity source, with broken strokes across much of the upper and lower text. The sequence of mantra-practice passages is recognizable but no full agreement is claimed. Provenance: retained interrupted recovery report; this integration performs no new scan reading. Fresh limited p56/57 junction inspection corrects the final anchor from U02093 to U02100; see TH-CONT-20260927-BOUNDARY-056-057. The preserved original report remains unchanged.",
     "decision": "Retain the selected Adzom scan reading as the diplomatic base; record this comparison evidence without importing its wording into the base.",
     "evidence": [
       "evidence/chapter-01/recovered-tharpaling/p056.png"
     ],
     "review": "collation/chapter-01/recovered-tharpaling.json",
     "retained_review_method": "Focused visual inspection of full source page and enlarged left/right crops; expected passage was known.",
-    "provenance_status": "Normalized from preserved interrupted recovery report; not a new coordinator scan reading."
+    "provenance_status": "Normalized from preserved interrupted recovery report; not a new coordinator scan reading.",
+    "historical_units": [
+      "U02055",
+      "U02093"
+    ]
+  },
+  {
+    "id": "TH-CONT-20260927-BOUNDARY-056-057",
+    "witness": "Tharpaling 1983 W27491",
+    "units": [
+      "U02100",
+      "U02101"
+    ],
+    "base_snippet_at_review": "ལས་རྫོགས་ནས་ནི་སྟོང་པ་ཡི། ། སེམས་ཀྱི་རྣལ་འབྱོར་རྫོགས་པའོ། །",
+    "comparison_reading": "ལས་རྫོགས་ནས་ནི་སྟོང་པ་ཡི / སེམས་ཀྱི་རྣལ་འབྱོར་རྫོགས་པའོ",
+    "comparison_context": "Page56 final main phrase and page57 first main phrase; slash is an editorial page boundary, not a source sign.",
+    "status": "local_page_boundary_correction",
+    "confidence": "moderate for lexical boundary; no all-character certification",
+    "locator": "PDF56/image60 row6 rightmost phrase to PDF57/image61 row1 opening",
+    "rationale": "The terminal las rdzogs nas ni stong pa yi phrase and following sems kyi rnal byor rdzogs pa o locate U02100/U02101 at this page boundary. The prior recovered report ends p56 at U02093 and is therefore too early as a page-end locator. This is a limited boundary check, not a rereview of all p56.",
+    "decision": "Correct coverage navigation after coordinator review; preserve base text and earlier report provenance.",
+    "evidence": [
+      "evidence/chapter-01/recovered-tharpaling/p056-R.png",
+      "evidence/chapter-01/recovered-tharpaling/p057-L.png"
+    ],
+    "review": "reviews/chapter-01/tharpaling-continuation-review-20260927.md",
+    "supersedes_claim": "recovered-tharpaling.json pages[pdf_page=56].end_anchor U02093; does not supersede its unreadability qualifications",
+    "coordinator_review": "Native retained half-page images inspected; bounded lexical context supported, no full-character or punctuation certification."
+  },
+  {
+    "id": "TH-CONT-20260927-S04-SECOND",
+    "witness": "Tharpaling 1983 W27491",
+    "units": [
+      "U02187",
+      "U02188"
+    ],
+    "base_snippet_at_review": "A2000-C01-S04 second restored line: མངོན་སུམ་གནད་ཀྱི་མན་ངག་གིས།",
+    "comparison_reading": "མངོན་སུམ་གནད་ཀྱི་མན་ངག་གིས",
+    "comparison_context": "PDF59 row6, second phrase group; after the severely faded first restored verse and before the khor das passage.",
+    "status": "supported_partial_restoration_observation",
+    "confidence": "moderate; exact physical punctuation not certified",
+    "locator": "PDF59/image63 row6 left-middle; p059-L.png box [780,500,1380,620]",
+    "rationale": "This second verse is readable as a connected glyph sequence in the enlarged crop. The preceding first restored verse is too faded for a complete fresh transcription here. No agreement or lexical completion is asserted for it.",
+    "decision": "Record the second-line corroboration only. Retain the governing Adzom restoration and existing uncertainty for unread Tharpaling letters.",
+    "evidence": [
+      "evidence/chapter-01/recovered-tharpaling/p059.png",
+      "evidence/chapter-01/recovered-tharpaling/p059-L.png"
+    ],
+    "review": "reviews/chapter-01/tharpaling-continuation-review-20260927.md",
+    "coordinator_review": "Native retained half-page images inspected; bounded lexical context supported, no full-character or punctuation certification.",
+    "insertion_ids": [
+      "A2000-C01-S04"
+    ]
   }
 ]

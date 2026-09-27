@@ -8417,7 +8417,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02093"></a>
 
-**U02093** འདི་རྣམས་སྔགས་ཀྱང་ཤེས་བྱས་ལ། ། [TH-REC-P056-UNRESOLVED](#th-rec-p056-unresolved)
+**U02093** འདི་རྣམས་སྔགས་ཀྱང་ཤེས་བྱས་ལ། །
 
 <a id="u02094"></a>
 
@@ -8445,11 +8445,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02100"></a>
 
-**U02100** ལས་རྫོགས་ནས་ནི་སྟོང་པ་ཡི། །
+**U02100** ལས་རྫོགས་ནས་ནི་སྟོང་པ་ཡི། ། [TH-REC-P056-UNRESOLVED](#th-rec-p056-unresolved) [TH-CONT-20260927-BOUNDARY-056-057](#th-cont-20260927-boundary-056-057)
 
 <a id="u02101"></a>
 
-**U02101** སེམས་ཀྱི་རྣལ་འབྱོར་རྫོགས་པའོ། །
+**U02101** སེམས་ཀྱི་རྣལ་འབྱོར་རྫོགས་པའོ། ། [TH-CONT-20260927-BOUNDARY-056-057](#th-cont-20260927-boundary-056-057)
 
 <a id="u02102"></a>
 
@@ -8793,7 +8793,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02187"></a>
 
-**U02187** ལུགས་སུ་ཁྱད་པར་སྡེབས་གཉིས་ཀྱི། ། [A2000-C01-S04](#a2000-c01-s04) [L1-0145](#l1-0145) [DZ-LATE-20](#dz-late-20) [W-C01-214](reviews/chapter-01/wikisource.md#w-c01-214)
+**U02187** ལུགས་སུ་ཁྱད་པར་སྡེབས་གཉིས་ཀྱི། ། [A2000-C01-S04](#a2000-c01-s04) [L1-0145](#l1-0145) [DZ-LATE-20](#dz-late-20) [TH-CONT-20260927-S04-SECOND](#th-cont-20260927-s04-second) [W-C01-214](reviews/chapter-01/wikisource.md#w-c01-214)
 
 **Restored main text — [A2000-C01-S04](#a2000-c01-s04)**
 
@@ -8803,7 +8803,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02188"></a>
 
-**U02188** འཁོར་འདས་འབྱེད་པའི་སྤྲོས་པ་གཅོད། །
+**U02188** འཁོར་འདས་འབྱེད་པའི་སྤྲོས་པ་གཅོད། ། [TH-CONT-20260927-S04-SECOND](#th-cont-20260927-s04-second)
 
 <a id="u02189"></a>
 
@@ -14169,9 +14169,9 @@ Units: [U02055](#u02055).
 
 ### TH-REC-P056-UNRESOLVED — Tharpaling 1983 W27491
 
-Units: [U02055](#u02055), [U02093](#u02093).
+Units: [U02055](#u02055), [U02100](#u02100).
 
-**Current Adzom main context:** བསྙེན་པ་བསྒྲུབ་པ་ལས་ཀྱི་མཐའ། ། / འདི་རྣམས་སྔགས་ཀྱང་ཤེས་བྱས་ལ། །
+**Current Adzom main context:** བསྙེན་པ་བསྒྲུབ་པ་ལས་ཀྱི་མཐའ། ། / ལས་རྫོགས་ནས་ནི་སྟོང་པ་ཡི། །
 
 **Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
 
@@ -14179,11 +14179,51 @@ Units: [U02055](#u02055), [U02093](#u02093).
 
 **Locator:** Tharpaling PDF56; rows 1–6.
 
-**Observation:** Rows1–6 traversed. Negative-polarity source, with broken strokes across much of the upper and lower text. The sequence of mantra-practice passages is recognizable but no full agreement is claimed. Provenance: retained interrupted recovery report; this integration performs no new scan reading.
+**Observation:** Rows1–6 traversed. Negative-polarity source, with broken strokes across much of the upper and lower text. The sequence of mantra-practice passages is recognizable but no full agreement is claimed. Provenance: retained interrupted recovery report; this integration performs no new scan reading. Fresh limited p56/57 junction inspection corrects the final anchor from U02093 to U02100; see TH-CONT-20260927-BOUNDARY-056-057. The preserved original report remains unchanged.
 
 **Choice and reason:** Retain the selected Adzom scan reading as the diplomatic base; record this comparison evidence without importing its wording into the base.
 
 **Evidence:** [p056.png](evidence/chapter-01/recovered-tharpaling/p056.png). [Review and coverage](collation/chapter-01/recovered-tharpaling.json).
+
+<a id="th-cont-20260927-boundary-056-057"></a>
+
+### TH-CONT-20260927-BOUNDARY-056-057 — Tharpaling 1983 W27491
+
+Units: [U02100](#u02100), [U02101](#u02101).
+
+**Current Adzom main context:** ལས་རྫོགས་ནས་ནི་སྟོང་པ་ཡི། ། / སེམས་ཀྱི་རྣལ་འབྱོར་རྫོགས་པའོ། །
+
+**Comparison reading/snippet:** ལས་རྫོགས་ནས་ནི་སྟོང་པ་ཡི / སེམས་ཀྱི་རྣལ་འབྱོར་རྫོགས་པའོ
+
+**Status:** local_page_boundary_correction. **Confidence:** moderate for lexical boundary; no all-character certification.
+
+**Locator:** PDF56/image60 row6 rightmost phrase to PDF57/image61 row1 opening.
+
+**Observation:** The terminal las rdzogs nas ni stong pa yi phrase and following sems kyi rnal byor rdzogs pa o locate U02100/U02101 at this page boundary. The prior recovered report ends p56 at U02093 and is therefore too early as a page-end locator. This is a limited boundary check, not a rereview of all p56.
+
+**Choice and reason:** Correct coverage navigation after coordinator review; preserve base text and earlier report provenance.
+
+**Evidence:** [p056-R.png](evidence/chapter-01/recovered-tharpaling/p056-R.png), [p057-L.png](evidence/chapter-01/recovered-tharpaling/p057-L.png). [Review and coverage](reviews/chapter-01/tharpaling-continuation-review-20260927.md).
+
+<a id="th-cont-20260927-s04-second"></a>
+
+### TH-CONT-20260927-S04-SECOND — Tharpaling 1983 W27491
+
+Units: [U02187](#u02187), [U02188](#u02188).
+
+**Current Adzom main context:** ལུགས་སུ་ཁྱད་པར་སྡེབས་གཉིས་ཀྱི། ། / [A2000-C01-S04](#a2000-c01-s04) འདུ་ཤེས་ཅན་དག་མཐའ་ལ་འཇོག / མངོན་སུམ་གནད་ཀྱི་མན་ངག་གིས། / འཁོར་འདས་འབྱེད་པའི་སྤྲོས་པ་གཅོད། །
+
+**Comparison reading/snippet:** མངོན་སུམ་གནད་ཀྱི་མན་ངག་གིས
+
+**Status:** supported_partial_restoration_observation. **Confidence:** moderate; exact physical punctuation not certified.
+
+**Locator:** PDF59/image63 row6 left-middle; p059-L.png box [780,500,1380,620].
+
+**Observation:** This second verse is readable as a connected glyph sequence in the enlarged crop. The preceding first restored verse is too faded for a complete fresh transcription here. No agreement or lexical completion is asserted for it.
+
+**Choice and reason:** Record the second-line corroboration only. Retain the governing Adzom restoration and existing uncertainty for unread Tharpaling letters.
+
+**Evidence:** [p059.png](evidence/chapter-01/recovered-tharpaling/p059.png), [p059-L.png](evidence/chapter-01/recovered-tharpaling/p059-L.png). [Review and coverage](reviews/chapter-01/tharpaling-continuation-review-20260927.md).
 
 ## A/B/S transcript apparatus
 
