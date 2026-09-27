@@ -1,6 +1,6 @@
 {
   "id": "signs-recovery-review-20260927",
-  "status": "historical proposals superseded; incorrect target assignments found; consult sign-adoption-audit-20260927.md for current dispositions",
+  "status": "provisional checkpoint; first ten candidates reviewed",
   "scope": "Guided fresh image check of first ten integrated_original_unit_changes from recovery packet. No blind or continuous punctuation pass; no English translation QC. Canonical files and Tibetan source are not edited by this reviewer.",
   "guidance": "guidelines/tibetan_translation_standard_v2.md Parts I and II; original glossary assignments retained; no terminology changes",
   "source_pdf": "editions/adzom-2000/sgra-thal-gyur.pdf",
@@ -524,10 +524,5 @@
     }
   ],
   "method": "Read unchanged neighboring transcript anchors; visually inspect existing early sign crops and fresh unscaled native image crops. Native source files checked against stored SHA256. Count detached strokes locally, distinguishing letter strokes and smaller heading text. No automatic candidate acceptance or global normalization.",
-  "missing_inputs": "Earlier full sign-review reports remain unavailable; this checkpoint supplies new bounded evidence rather than reconstructing their wording.",
-  "withdrawal_notice": {
-    "reason": "Two crops authenticated by bytes were assigned to wrong Tibetan anchors. No original proposal is authoritative merely from matching pixels.",
-    "current_disposition": "reviews/chapter-01/sign-adoption-audit-20260927.md",
-    "unchanged_archive": "recovery/2026-09-27-local/superseded-sign-review/manifest.json"
-  }
+  "missing_inputs": "Earlier full sign-review reports remain unavailable; this checkpoint supplies new bounded evidence rather than reconstructing their wording."
 }

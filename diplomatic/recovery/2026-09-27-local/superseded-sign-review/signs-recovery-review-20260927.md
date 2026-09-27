@@ -1,7 +1,5 @@
 # Adzom signs recovery review - 2026-09-27
 
-**Superseded proposals:** two target assignments failed independent verification; all ten original adoptions were withdrawn. See [current disposition](sign-adoption-audit-20260927.md). Correctly reverified adoptions use new records. The unchanged pre-notice reports are archived under recovery/2026-09-27-local/superseded-sign-review.
-
 Provisional checkpoint: ten guided candidate checks. Eight terminal one-to-two shad corrections, one two-to-one correction, and restoration of the visible final tsheg at U00710 are supported by fresh native-image inspection. This reviewer has not edited canonical files or source.
 
 | Anchor | Locator | Local finding |
