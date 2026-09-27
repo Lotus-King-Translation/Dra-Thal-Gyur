@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-27",
+  "scope": "Decode integrity only; no textual or locator certification",
+  "files_checked": 1236,
+  "decoded": 1234,
+  "failures": [
+    {
+      "path": "diplomatic/evidence/chapter-01/recovered-tharpaling/p052.png",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "cannot identify image file 'diplomatic/evidence/chapter-01/recovered-tharpaling/p052.png'"
+    },
+    {
+      "path": "diplomatic/recovery/2026-09-27-local/scratch-prefix-recovered/files/dege-review/p007-0.png",
+      "bytes": 1442085,
+      "sha256": "55096ff78f494aa8f7b55ac210d5fd7e7b86bcaa4626cf76ce6a403def7f3895",
+      "error": "broken PNG file (incomplete checksum in b'IDAT')"
+    }
+  ],
+  "preservation": "Failed archival interrupted outputs remain unchanged; active notes use intact alternatives when available."
+}
