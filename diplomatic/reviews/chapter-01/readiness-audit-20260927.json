@@ -1,0 +1,538 @@
+{
+  "schema": "chapter1-readiness-audit-v1",
+  "date": "2026-09-27",
+  "audited_head": "81a121bff2ad8f1ac7bd466c6b9ed1d5ceb5d4d3",
+  "status": "not_ready",
+  "scope": "Independent metadata and evidence-readiness audit; three limited native-manuscript sample views. No new lexical variant or complete coverage claim. No canonical mutations.",
+  "gate_authority": [
+    {
+      "path": "README.md",
+      "section": "Iteration gate",
+      "required": "Declared witness coverage checked; base proofread throughout; all observed differences in apparatus; unreadable/unavailable spans precisely recorded; no Chapter2 before Chapter1 completion."
+    },
+    {
+      "path": "METHOD.md",
+      "section": "Verification and completion",
+      "required": "Complete base scan coverage; exact boundaries; source layers; acquired comparison coverage or specifically documented unavailable spans; all alignment and apparatus links; exact source accounting; candid unresolved list."
+    }
+  ],
+  "gate_results": [
+    {
+      "requirement": "Mechanical source accounting and reconstruction",
+      "status": "passes_current_checkpoint_only",
+      "evidence": "VALIDATION.json",
+      "note": "2635 anchors, 359 exact conflicts, 183 loci, four exact B/S reconstruction checks. This does not certify unseen variants."
+    },
+    {
+      "requirement": "Base proofread throughout including physical signs and paratext",
+      "status": "not_passed",
+      "reason": "Lexical coverage survives; whole-range signs/source-layer review incomplete and exact uncertainties remain."
+    },
+    {
+      "requirement": "Acquired witness chapter extents and continuous comparison",
+      "status": "not_passed",
+      "reason": "Zhichen/W1ER119 endpoints unestablished; several available broad ranges uncollated or lost without recoverable ledgers. Lost claims are not completed coverage."
+    },
+    {
+      "requirement": "Observed differences fully linked with traceable dispositions",
+      "status": "not_passed",
+      "reason": "Fresh sign proposals and retained historical fragments require review/integration; large historical apparatus snapshot not recovered."
+    },
+    {
+      "requirement": "Exact unresolved/unavailable accounting",
+      "status": "partial",
+      "reason": "Many exact local exceptions exist, but two unknown chapter endpoints and broad uncollated available ranges cannot be recast as unavailable spans."
+    }
+  ],
+  "current_counts": {
+    "canonical_scan_records": 111,
+    "stored_status_scan_records": 111,
+    "historical_successful_lost_snapshot_observations": 1016,
+    "complete_chapters": [],
+    "next_chapter_started": false
+  },
+  "base_sign_candidate_work": {
+    "candidate_total": 40,
+    "freshly_reviewed": [
+      "U00030",
+      "U00035",
+      "U00105",
+      "U00252",
+      "U00372"
+    ],
+    "remaining_candidate_units": [
+      "U00578",
+      "U00594",
+      "U00710",
+      "U01757",
+      "U02080",
+      "U02090",
+      "U02172",
+      "U02183",
+      "U02484",
+      "U02489",
+      "U00995",
+      "U01094",
+      "U01270",
+      "U01416",
+      "U01534",
+      "U01627",
+      "U01635",
+      "U00910",
+      "U00948",
+      "U01023",
+      "U01147",
+      "U01186",
+      "U01239",
+      "U01257",
+      "U01308",
+      "U01353",
+      "U01476",
+      "U01540",
+      "U01557",
+      "U01634",
+      "U01661",
+      "U01727",
+      "U01539",
+      "U01595",
+      "U01688"
+    ],
+    "additional_tasks": [
+      "Insertion punctuation S02–S07",
+      "Source annotation U01286 separation and terminal signs",
+      "Systematic whole-Chapter1 physical signs, beyond the40 candidate list"
+    ]
+  },
+  "witnesses": [
+    {
+      "witness": "Adzom 2000 governing base",
+      "source": "editions/adzom-2000/sgra-thal-gyur.pdf",
+      "source_available_locally": true,
+      "chapter1_extent": {
+        "start_pdf": 1,
+        "end_pdf": 102,
+        "end_row": 2,
+        "scope": "Title/frontmatter PDF1–2, main Chapter1 through U2635, boundary inscription included as qualified source layer."
+      },
+      "surviving_recorded_coverage": "Main lexical coverage U7–U2635; PDF5–50 ledger plus PDF51–101 and opening/boundary ledger. Forty-one-record annotation audit. Fresh five-sign candidate review and four unresolved base-locus rechecks.",
+      "reading_work_remaining": "Systematically inspect signs, spacing, headings and all annotations across PDF1–102; finish explicit title/portrait/Sanskrit scope. Check remaining 35 sign candidates, S02–S07 signs and U1286 source layer. Precisely preserve unresolved U1522/PDF60, U2615/U2620/PDF101 and S09/PDF102. Reconcile contradictory PDF3/4 unit ranges against the new U30 crop.",
+      "lost_history_claim_not_current_certified_coverage": "Recovery packet reports whole-range sign inspection and 15 integrated unit-sign edits, but original ledgers/files are missing; do not count those claims as recoverable completed coverage.",
+      "records": [
+        "collation/chapter-01/scan-coverage.json",
+        "collation/chapter-01/opening-boundary-review.json",
+        "reviews/chapter-01/base-recovery-review-20260927.json",
+        "reviews/chapter-01/signs-recovery-review-20260927.json"
+      ],
+      "reader_or_source_limits": [
+        "U1522 fused letters; U2615 supplied annotation not located; U2620 compressed annotation; boundary inscription unresolved. Title/portrait include reading limits."
+      ],
+      "actual_missing_source": []
+    },
+    {
+      "witness": "Dzongsar",
+      "source": "editions/dzongsar-manuscript/sgra-thal-gyur.pdf",
+      "source_available_locally": true,
+      "chapter1_extent": {
+        "start_pdf": 1,
+        "main_start_pdf": 2,
+        "end_pdf": 121,
+        "end_row": 5,
+        "provider_mapping": "I3PD1345 image = PDF+4"
+      },
+      "surviving_recorded_coverage": "Continuous main lexical ledgers PDF2–15,16–68,69–121; last range includes ten restored verses, middle covers S01.",
+      "reading_work_remaining": "Read title/portrait/foreign script, every physical sign and small note; review explicit local uncertain spellings. Main lexical sequence need not be redone indiscriminately.",
+      "lost_history_claim_not_current_certified_coverage": "No missing full-main-range ledger asserted; later integration audit/crossrefs were lost.",
+      "records": [
+        "collation/chapter-01/dzongsar-collation.json",
+        "collation/chapter-01/dzongsar-middle.json",
+        "collation/chapter-01/dzongsar-late.json"
+      ],
+      "reader_or_source_limits": [
+        "Middle U440/PDF22, U534 layer, U710 note, foreign stacks listed in unreviewed_dimensions. Late unresolved notes include U1525,1567,1657,1701/1711,1716,1734,1779,1799,1811–12,1828–30,2129,2225,2335,2619–20; U1570 verb and U2351 suffix."
+      ],
+      "actual_missing_source": []
+    },
+    {
+      "witness": "Tingkye",
+      "source": "editions/tingkye-1973/sgra-thal-gyur.pdf",
+      "source_available_locally": true,
+      "chapter1_extent": {
+        "start_pdf": 1,
+        "start_row": 6,
+        "end_pdf": 69,
+        "end_row": 4,
+        "provider_mapping": "I1765 image = PDF+393"
+      },
+      "surviving_recorded_coverage": "Opening PDF1 rows6–7 and PDF2 rows1–7 are partial lexical attempts; PDF35–39 U1277–1485 partial comparison; isolated boundary findings. Fresh junction checks on PDF6,27,32 resolve four claims.",
+      "reading_work_remaining": "Continuous row-by-row comparison remains to be established for PDF3–34 and40–68, with PDF69 rows1–4 completion; full reliability/sign/note recheck also needed in attempted opening and35–39. Fresh local audits confer no surrounding coverage.",
+      "lost_history_claim_not_current_certified_coverage": "Packet reports main-row passes to69 row4 and176 later observations; tingkye-continuation and tingkye-late-continuation absent.",
+      "records": [
+        "collation/chapter-01/tingkye-collation.json",
+        "collation/chapter-01/tingkye-root.json",
+        "reviews/chapter-01/tingkye-recovery-review-20260927.json"
+      ],
+      "reader_or_source_limits": [
+        "Compact suffix/stack uncertainties at U6,12,47,49,2632. Exact invocation vowel/kye count on PDF6 remains uncertified. Additional provider container mapping does not match verified assembly at tested positions."
+      ],
+      "actual_missing_source": []
+    },
+    {
+      "witness": "Tsamdrak",
+      "source": "editions/tsamdrak-1982/sgra-thal-gyur.pdf",
+      "source_available_locally": true,
+      "chapter1_extent": {
+        "start_pdf": 1,
+        "end_pdf": 83,
+        "end_row": 6,
+        "provider_mapping": "I0615 image = PDF+3"
+      },
+      "surviving_recorded_coverage": "Sequential guided attempt PDF1–13 through U349; PDF14–15 viewed only. Sixteen secure local observations and six candidate variants; boundary separately located.",
+      "reading_work_remaining": "Establish reliable main-row comparison PDF14–82 and83 through row6; reassess unresolved discrimination in PDF1–13; annotate all physical signs/source notes.",
+      "lost_history_claim_not_current_certified_coverage": "Packet reports main-row passes through83 row6, but middle/late ledgers absent.",
+      "records": [
+        "collation/chapter-01/tsamdrak-collation.json"
+      ],
+      "reader_or_source_limits": [
+        "Largely sharp source; recurring reader uncertainties specifically at U12,30,148,167,193,207,234,260,262,295,304,315,316."
+      ],
+      "actual_missing_source": []
+    },
+    {
+      "witness": "Tharpaling",
+      "source": "editions/tharpaling-1983/sgra-thal-gyur.pdf",
+      "source_available_locally": true,
+      "chapter1_extent": {
+        "start_pdf": 1,
+        "end_pdf": 71,
+        "end_row": 5,
+        "provider_mapping": "I4448 image = PDF+4"
+      },
+      "surviving_recorded_coverage": "Partial opening1–3 plus boundary71. Surviving later reconstruction records52–56, eight local loci, and S01/S02/S03 evidence. Retained script bodies supply saved44–47 and unsaved48–51 notes, not whole original reports.",
+      "reading_work_remaining": "Recover or freshly rebuild PDF4–43 coverage, convert retained44–51 records with their actual provenance and inspect evidence, continue57–70 and71 through boundary. All attempted spans still need exact bounded unreadable regions, annotations/signs and reliability assessment.",
+      "lost_history_claim_not_current_certified_coverage": "Packet records sequential17–43, saved44–47, save-failed48–51. Original continuation/middle/late reports missing; remaining52–71 was incomplete at outage.",
+      "records": [
+        "collation/chapter-01/tharpaling-collation.json",
+        "collation/chapter-01/recovered-tharpaling.json",
+        "recovery/agent-originals/gadkar_ch1/README.md"
+      ],
+      "reader_or_source_limits": [
+        "PDF3 left rows2–6 native(175,150,850,375) overink/breaks.52 left rows2–4 dropout;53 upper-left/medial merged strokes;54 upper-right rows1–2 faded;55 left quarter rows2–6 fused;56 broken strokes. Same four tested provider pages retain same image defects.",
+        "recovered-tharpaling/p052.png is an empty interrupted evidence file; intact left/right crops exist. Preserve empty original and link valid evidence separately."
+      ],
+      "actual_missing_source": []
+    },
+    {
+      "witness": "Dege",
+      "source": "editions/dege-W1ER7/sgra-thal-gyur.pdf",
+      "source_available_locally": true,
+      "chapter1_extent": {
+        "start_pdf": 1,
+        "end_pdf": 54,
+        "end_row": 3,
+        "provider_mapping": "I1ER175 image = PDF+646"
+      },
+      "surviving_recorded_coverage": "Opening PDF1–2 focused observations and PDF54 boundary; extension images preserved.",
+      "reading_work_remaining": "Rebuild sequential main-row coverage PDF3–53 and Chapter1 portion54; complete opening precision, faint endings, interlinear material and physical signs.",
+      "lost_history_claim_not_current_certified_coverage": "Packet reports partial lexical comparisons through54 row3; dege-continuation/late/final reports absent.",
+      "records": [
+        "reviews/chapter-01/second-dege-tingkye.md",
+        "collation/chapter-01/dege-boundary.json"
+      ],
+      "reader_or_source_limits": [
+        "Faint endings and small interlinear text require glyph-level review; do not call absent from reader failure."
+      ],
+      "actual_missing_source": []
+    },
+    {
+      "witness": "Gadkar",
+      "source": "editions/gadkar-manuscript/sgra-thal-gyur.pdf",
+      "source_available_locally": true,
+      "chapter1_extent": {
+        "start_pdf": 1,
+        "end_pdf": 91,
+        "end_row": 4,
+        "end_provider_image": 531,
+        "end_backing_image": "I1BL8870538.jpg"
+      },
+      "surviving_recorded_coverage": "PDF1–11 locator sequence to U249 partial; all rows2–11 viewed without exhaustive lexical certification. Boundary91 established;75,80,84,86,88–90 were locator views only.",
+      "reading_work_remaining": "Continuously compare PDF12–90 and91 Chapter1 portion; reopen1–11 for reliable glyph/suffix discrimination, signs and below-line question annotations.",
+      "lost_history_claim_not_current_certified_coverage": "No later complete ledger claimed in packet.",
+      "records": [
+        "collation/chapter-01/gadkar-ch1.json"
+      ],
+      "reader_or_source_limits": [
+        "Sharp cursive source available. Current fresh sample p003-u19 did not independently settle rig pa(s); prior U187 dgongs/dgos unresolved. This is a local reading capability limit, not missing/illegible witness."
+      ],
+      "actual_missing_source": []
+    },
+    {
+      "witness": "Zhichen",
+      "source": "editions/khams-zhichen-manuscript/sgra-thal-gyur.pdf",
+      "source_available_locally": true,
+      "chapter1_extent": {
+        "start_pdf": 1,
+        "end_pdf": null,
+        "available_pdf_pages": 201,
+        "provider_mapping": "I1KG81308 image = PDF+30"
+      },
+      "surviving_recorded_coverage": "Opening1–3 viewed; boundary searches70,75,80,85–115,120,125. No securely established Chapter1 end or lexical agreement range.",
+      "reading_work_remaining": "First establish actual Chapter1 colophon from native pages; then all intervening text, source layers and signs. Do not substitute approximate page count.",
+      "lost_history_claim_not_current_certified_coverage": "No completed later chapter range established.",
+      "records": [
+        "collation/chapter-01/zhichen-ch1.json"
+      ],
+      "reader_or_source_limits": [
+        "Largely sharp cursive source. Fresh p003-u19-native sample still does not independently settle rig pa(s), so no upgraded variant or continuous capability claim."
+      ],
+      "actual_missing_source": []
+    },
+    {
+      "witness": "W1ER119",
+      "source": "editions/seventeen-tantras-W1ER119/sgra-thal-gyur.pdf",
+      "source_available_locally": true,
+      "chapter1_extent": {
+        "start_pdf": 1,
+        "end_pdf": null,
+        "available_pdf_pages": 168,
+        "provider_image_range": [
+          2,
+          201
+        ]
+      },
+      "surviving_recorded_coverage": "Seventeen inspection records; no confirmed variants or completed lexical unit ranges. Opening1–3, boundary candidates75–85,90; first manifest gap46→47 viewed.",
+      "reading_work_remaining": "Establish opening alignment and actual Chapter1 endpoint, then continuously compare intervening rows and source layers. Determine chapter membership and both text edges of all16 manifest gaps.",
+      "lost_history_claim_not_current_certified_coverage": "No completed late reading established.",
+      "records": [
+        "collation/chapter-01/w1er119-ch1.json"
+      ],
+      "reader_or_source_limits": [
+        "Fresh opening-left sample contains visible complex cursive strokes; this reviewer cannot independently transcribe a continuous clause reliably. Expected base recognition cannot supply agreement."
+      ],
+      "actual_missing_source": [
+        "Thirty-two provider indices absent from manifest, in16 gaps; textual loss and Chapter1 membership unestablished, not proven32 missing textual pages."
+      ]
+    },
+    {
+      "witness": "Langtang",
+      "source": "editions/langtang-manuscript/sgra-thal-gyur.pdf",
+      "source_available_locally": true,
+      "chapter1_extent": {
+        "start_pdf": 1,
+        "end_pdf": 104,
+        "end_rows": [
+          1,
+          2
+        ],
+        "endpoint_authority": "Historical recovery packet; fresh endpoint certification not part of surviving opening report."
+      },
+      "surviving_recorded_coverage": "Opening image3→6 main-text continuity observed at U17; no complete middle/late ledgers. Extension images and guided gap notes survive.",
+      "reading_work_remaining": "Re-establish PDF104 boundary; rebuild full Chapter1 comparison through104. Verify every late/middle claimed gap from its physical flanks and inspect remaining numerical gaps38–41 and172–173 for chapter membership/effect.",
+      "lost_history_claim_not_current_certified_coverage": "Packet claims through104 rows1–2,159 middle and34 late findings; all three reports absent.",
+      "records": [
+        "reviews/chapter-01/langtang-opening-gap.md",
+        "recovery/2026-09-27.json"
+      ],
+      "reader_or_source_limits": [],
+      "actual_missing_source": [
+        "Manifest indices4,5,38,39,40,41,172,173 absent. Continuity at3→6 already observed; no textual-loss claim from numbering alone."
+      ]
+    },
+    {
+      "witness": "Adzom 1973–1977 manifestation",
+      "source": "editions/adzom-1973-1977/bdrc-W1KG892.pdf",
+      "source_available_locally": true,
+      "chapter1_extent": {
+        "root_start_pdf": 11,
+        "root_end_pdf": 215,
+        "chapter1_end_pdf": 112,
+        "printed_end_page": 102
+      },
+      "surviving_recorded_coverage": "Fresh boundary review11,112,215,217 verifies root mapping; provider867-page PDF materialized locally.",
+      "reading_work_remaining": "Compare title11 through Chapter1 boundary112 continuously; preserve exact differences if any. Resolve compact boundary inscription or specify exact unreadability. Do not count related block manifestation as independent vote.",
+      "lost_history_claim_not_current_certified_coverage": "Mapping report lost, re-established by fresh review; no recovered full collation ledger.",
+      "records": [
+        "reviews/chapter-01/container-mapping-recovery-20260927.json"
+      ],
+      "reader_or_source_limits": [],
+      "actual_missing_source": []
+    },
+    {
+      "witness": "Gcn",
+      "source": "editions/gcn-manuscript/bdrc-W1ER128.pdf",
+      "source_available_locally": true,
+      "chapter1_extent": {
+        "root_title_pdf": 407,
+        "main_start_pdf": 408,
+        "chapter1_end_pdf": 484,
+        "chapter1_end_row": 4,
+        "next_chapter_start_row": 5,
+        "root_terminal_pdf": 555,
+        "provider_mapping": "unestablished"
+      },
+      "surviving_recorded_coverage": "Fresh full-composite boundary review407,408,484,555; saved metadata locates root. Retained late script has7 attempted pages/5 findings, not continuous lexical pass.",
+      "reading_work_remaining": "Rebuild408–448 from source if original ledgers remain missing; use corrected locators449 U1253 and451 U1331; verify450/452 and451/453 repeated exposures, then read453–484 through row4. Preserve repeated exposure provenance.",
+      "lost_history_claim_not_current_certified_coverage": "Packet reports opening408–410,middle411–448,unsaved449–452; opening/middle reports absent. Later expected-text locators explicitly withdrawn.",
+      "records": [
+        "reviews/chapter-01/container-mapping-recovery-20260927.json",
+        "recovery/agent-originals/zhichen_ch1/transcript-files/gcn_late_report.initial.py",
+        "recovery/2026-09-27.json"
+      ],
+      "reader_or_source_limits": [
+        "Must render full MRC composite; first embedded background image is inadequate. Ink-obscured phrases recorded at449–451; all later main rows remain uncollated."
+      ],
+      "actual_missing_source": []
+    },
+    {
+      "witness": "Sichuan 2016 supplied transcript",
+      "source": "editions/sichuan-2016/W3CN7084_7.txt",
+      "source_available_locally": true,
+      "chapter1_extent": {
+        "chapter1_transcript_offsets": "collation/chapter-01/chapter1-summary.json"
+      },
+      "surviving_recorded_coverage": "Exact supplied transcript A/B/S collation/reconstruction available. No acquired full facsimile.",
+      "reading_work_remaining": "Keep transcript readings labelled as transcript; establish what41 preview canvases actually cover before any print claims. Authorized source acquisition may address missing scan.",
+      "lost_history_claim_not_current_certified_coverage": "No lost full facsimile reading claimed.",
+      "records": [
+        "SOURCES.md",
+        "../editions/sichuan-2016/README.md"
+      ],
+      "reader_or_source_limits": [],
+      "actual_missing_source": [
+        "Full scan not acquired; stored acquisition record says provider PDF private and41 preview canvases only. No current external access recheck was performed in this audit."
+      ]
+    }
+  ],
+  "recoverable_engineering_work": [
+    {
+      "id": "ENG-01",
+      "action": "Review and integrate five fresh sign proposals; preserve old values, coordinates, hashes and exact rationale; regenerate reading/Markdown and validate.",
+      "inputs": [
+        "reviews/chapter-01/signs-recovery-review-20260927.json",
+        "reviews/chapter-01/signs-recovery-review-20260927-additional-interventions.proposed.json"
+      ]
+    },
+    {
+      "id": "ENG-02",
+      "action": "Extract retained literal report fragments into explicitly reconstructed derivatives. Preserve missing dynamic inputs and unsaved-command status; never execute append scripts blindly.",
+      "inputs": [
+        "recovery/agent-originals/",
+        "recovery/2026-09-27.json"
+      ]
+    },
+    {
+      "id": "ENG-03",
+      "action": "Restore missing crossrefs, link guided-recheck provenance and withdrawals, and reconcile unintegrated evidence against recovered findings before rendering.",
+      "inputs": [
+        "recovery/2026-09-27.json",
+        "recovery/agent-originals/dzongsar_late/preserved-20260927T164952Z/retained-tool-call-text/"
+      ]
+    },
+    {
+      "id": "ENG-04",
+      "action": "Reconcile stale coverage/locator metadata with fresh reports: existing SOURCES still calls Adzom1973/Gcn unmapped; PDF3/4 base endpoint ranges conflict with fresh U30 location.",
+      "inputs": [
+        "SOURCES.md",
+        "collation/chapter-01/opening-boundary-review.json",
+        "reviews/chapter-01/container-mapping-recovery-20260927.json",
+        "reviews/chapter-01/signs-recovery-review-20260927.json"
+      ]
+    },
+    {
+      "id": "ENG-05",
+      "action": "Resolve empty interrupted p052 evidence reference using intact preserved native halves or a newly hashed derivative, without erasing the empty archival artifact; check all evidence decoding, provenance, links, status/hash consistency and renderer reproducibility.",
+      "inputs": [
+        "collation/chapter-01/recovered-tharpaling.json",
+        "evidence/chapter-01/recovered-tharpaling/"
+      ]
+    }
+  ],
+  "fresh_reading_priorities": [
+    "Finish targeted base-sign candidates and U1286/insertion-source layers in small committed batches, then a systematic whole-range sign proofread.",
+    "Establish Zhichen and W1ER119 Chapter1 endpoints and manuscript gap effects; without those, exact scope accounting is impossible.",
+    "Rebuild absent continuous ledgers from available sources in bounded witness/page batches; do not use raw image counts or historical1,016 count as a completion target.",
+    "Complete Dzongsar signs/annotations and local unresolved main readings using its preserved main-lexical ledger as the starting point.",
+    "Audit every base unreadable interval with exact source evidence; a responsibly marked unreadable glyph may remain unresolved, but an available uninspected range cannot be relabelled unreadable."
+  ],
+  "actual_source_access_gaps": [
+    {
+      "witness": "Sichuan",
+      "missing": "Full underlying facsimile; transcript and preview metadata available."
+    },
+    {
+      "witness": "Paltseg2009",
+      "missing": "No acquired facsimile/e-text; catalogue volume anomaly; historical provider-private/manifest500 record."
+    },
+    {
+      "witness": "CTRC49-volume",
+      "missing": "No full acquired root scan; restricted collection, catalogue/preview metadata only."
+    },
+    {
+      "witness": "GangtengEAP",
+      "missing": "No acquired scan; individual root extent unestablished; historical endpoint401 record."
+    },
+    {
+      "witness": "Other catalogue leads",
+      "missing": "Spiti/OrgyenDorje, Sumra1977, BarberTaipei1991 and Rigdzin Tshewang Norbu acquisition/shelfmark/source coverage not established."
+    }
+  ],
+  "access_status_caveat": "This audit reports acquired repository holdings and their dated records, not a current re-query of external access. Restricted/catalogue-only sources are not counted as collated witnesses.",
+  "manuscript_capability_reassessment": {
+    "mode": "Native crops viewed after reading prior reports and candidate contexts; guided sample, not blind transcription or full manuscript test.",
+    "samples": [
+      {
+        "path": "evidence/chapter-01/extension/gadkar-ch1/p003-u19.png",
+        "sha256": "265189a893cfb88b840d2d9238e4e2f3dd89906366dd95e9812af8b76b24e949"
+      },
+      {
+        "path": "evidence/chapter-01/extension/zhichen-ch1/p003-u19-native.png",
+        "sha256": "07a08755845b3df37ab64398bf135fbf9ea0d90f1ad08d1bd4f9ce8c5fdc4ca1"
+      },
+      {
+        "path": "evidence/chapter-01/extension/w1er119-ch1/p002-left.png",
+        "sha256": "c6ca99c1a5edf1e8830ef579480c88862422bdc33793000d69529d9d6df7e2e1"
+      }
+    ],
+    "result": "Visible cursive strokes are present. This reviewer could not independently settle Gadkar/Zhichen rig pa(s) suffixes or a continuous W1ER119 opening clause sufficiently to certify all variants. No new lexical variant or whole-witness impossibility claim is made.",
+    "credible_next_step": "A bounded new transcription attempt by a reader demonstrably able to distinguish these hands, or independently checked source transcripts. Compare proposed readings to native glyphs with explicit uncertainty; expand only after discriminating ambiguous examples rather than matching expected text.",
+    "work_that_can_continue": "Engineering integration, base punctuation and locally readable witness junctions remain actionable; specialized manuscript failure does not block every other task."
+  },
+  "completion_acceptance": [
+    "Every declared acquired Chapter1 extent is established and each physical span has actual comparison evidence or a precisely bounded source/access limitation.",
+    "All readable base words, source layers and signs have been inspected; exact unresolved glyphs retained with native evidence rather than silently repaired.",
+    "All supported differences, withdrawals and variants are incorporated with anchors, witness identities, physical locators, rationale and confidence.",
+    "Current rendered edition, normalized records, source hashes, evidence integrity, coverage/status and validation agree.",
+    "Coordinator commits and pushes the completed-chapter state, verifies remote SHA, then starts Chapter2."
+  ],
+  "snapshot_inputs": {
+    "../editions/sichuan-2016/README.md": "80fe6f71adc6f06ae0c5dd72c1a482b1e186ce18c05343a87d86ca0b9d38d331",
+    "METHOD.md": "388fc040120215005a7af74e8a8fc2370afc4f4d90ebab08d435c3fc79e4bdaf",
+    "README.md": "5b383c230a76db836226f96e8c45dd08273b85518a9017cc6623faaae6083783",
+    "SOURCES.md": "ca519ff72feed69f65a2af4cadb84ff6b9ad52d1a977a1f6b7ee9e2bcaf5a0f8",
+    "STATUS.json": "e61373b51ccf5dc7d815b9de63066216181676cb20bcab18ddce9d3b08cfcb20",
+    "VALIDATION.json": "c59aee72058de9f2df438c3489a8170a0149037af37fd50ccdacbc811c0842dd",
+    "collation/chapter-01/dege-boundary.json": "3d89228d6917954b88d26cebb30a264a74b13a5dbeacf09bee5df0ce2106f6f4",
+    "collation/chapter-01/dzongsar-collation.json": "e54513317bff3abc7f1187ccc4267888d8887ebc16a72cbeca52bbaae784e7ea",
+    "collation/chapter-01/dzongsar-late.json": "d84dbf2410bbf4cd406d395c8fcc6de870ae9f0dbf9f2d75c28616516880520b",
+    "collation/chapter-01/dzongsar-middle.json": "8eaf9365f744ff8cbf7a30ac489d85aff7c829b571a5380d6bf994f887d1eb94",
+    "collation/chapter-01/gadkar-ch1.json": "5c012806a2f35db552f883edfe801a88d80e53be0eae8dc261ec16b529740e38",
+    "collation/chapter-01/opening-boundary-review.json": "fde1c38b103f4b2743f520e5f1f5c5cc708a9232614855791f3f8d045e1ecf15",
+    "collation/chapter-01/recovered-tharpaling.json": "98e8a9c4f8a0548974c89d71489f602555c04029e0a74fc29178e2187efd71de",
+    "collation/chapter-01/scan-comparison-loci.json": "a3d5d67cd4a7028f27d25c1f71ecf3a1d2d7edbda47f6aac65e388b7272088e6",
+    "collation/chapter-01/scan-coverage.json": "c650d32a716feff44ec25c2474a9fdcf79632521be6d9d586b72f62a06f4460c",
+    "collation/chapter-01/tharpaling-collation.json": "024a3a9e2013142af9c178dfe7dc262626dbd6e19d69d88d5003c1235a58b8fe",
+    "collation/chapter-01/tingkye-collation.json": "5a9d062eeab3bd50d755fd963f2e3bcaf9d3448742b76b3d28f279332e0bafe3",
+    "collation/chapter-01/tingkye-root.json": "1564ce8c34c40f3222f4083d23d37523fa09edb5a8581219f2dc3da8782f650e",
+    "collation/chapter-01/tsamdrak-collation.json": "cfdbd7566382184e6292e8fd35ac2992d2e61f5499e55edeceb7b40cbc386a3e",
+    "collation/chapter-01/w1er119-ch1.json": "f2b9a83a9af7376c29802ce789fd0e654d37816bf73dbd0511f324042dc2efa8",
+    "collation/chapter-01/zhichen-ch1.json": "e81f5a4828f30e9611fb4cb0c1def31942acd7b4e781fec0f617d4c332dc6fda",
+    "recovery/2026-09-27.json": "c1992030c204c17dbbb74a9c85958f1e40d49bd2188d3f89206b3cda762f68b4",
+    "recovery/agent-originals/gadkar_ch1/README.md": "510c34e63e1816ce6126f9aca603d3970f8bad01a1c68156fc83205bcecbbdb7",
+    "recovery/agent-originals/zhichen_ch1/transcript-files/gcn_late_report.initial.py": "247d4c8c81642560a15db64f1df3ba1ed952483b1ec297b7be8e9caf9b026db5",
+    "reviews/chapter-01/base-recovery-review-20260927.json": "6a33729beb5140445f88ec0024432b84fc36e45d248249cb9fc31c7a3d6e3148",
+    "reviews/chapter-01/container-mapping-recovery-20260927.json": "bbb0dba476a5394512e77b9cd634745f1d44220433cd80d48b6a305b97dc1c47",
+    "reviews/chapter-01/langtang-opening-gap.md": "6efdddefc1d86cdeb48459e2687d5cf2515e369d97a64dd3c510ea225e05365e",
+    "reviews/chapter-01/second-dege-tingkye.md": "3b3f06205e5ba8dddff75b4d5ade64f615e8f513cd6503df2b0fde4b3578fddc",
+    "reviews/chapter-01/signs-recovery-review-20260927.json": "25f3ef8fa9654db90c19477c3c77ab189224e97c9ec721c09cf8cd086cc091c1",
+    "reviews/chapter-01/tingkye-recovery-review-20260927.json": "7d46b5d530d30f9e122779cd2d3d41d772552e4eb8c2e6981f68373b01ea1526"
+  }
+}
