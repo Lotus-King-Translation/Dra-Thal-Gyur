@@ -441,7 +441,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00105"></a>
 
-**U00105** ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ།
+**U00105** ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ། ། [SIGNS-VERIFIED-20260927-U00105](#signs-verified-20260927-u00105)
 
 <a id="u00106"></a>
 
@@ -1029,7 +1029,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00252"></a>
 
-**U00252** འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡིས་གཅོད། [L1-0017](#l1-0017) [TS-CH1-V014](#ts-ch1-v014)
+**U00252** འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡིས་གཅོད། ། [SIGNS-VERIFIED-20260927-U00252](#signs-verified-20260927-u00252) [L1-0017](#l1-0017) [TS-CH1-V014](#ts-ch1-v014)
 
 <a id="u00253"></a>
 
@@ -1509,7 +1509,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00372"></a>
 
-**U00372** སྣ་ཚོགས་སྤྲོས་པ་དོན་ཡིན་ནོ། །
+**U00372** སྣ་ཚོགས་སྤྲོས་པ་དོན་ཡིན་ནོ། [SIGNS-VERIFIED-20260927-U00372](#signs-verified-20260927-u00372)
 
 <a id="u00373"></a>
 
@@ -2333,7 +2333,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00578"></a>
 
-**U00578** འོད་ཀྱིས་ཁེངས་ཤིང་ཙནྡན་དྲི། [W-C01-040](reviews/chapter-01/wikisource.md#w-c01-040)
+**U00578** འོད་ཀྱིས་ཁེངས་ཤིང་ཙནྡན་དྲི། ། [SIGNS-VERIFIED-20260927-U00578](#signs-verified-20260927-u00578) [W-C01-040](reviews/chapter-01/wikisource.md#w-c01-040)
 
 <a id="u00579"></a>
 
@@ -11675,6 +11675,78 @@ Units: [U00035](#u00035).
 
 **Evidence:** [p004-U00035.png](evidence/chapter-01/opening-locator-audit-20260927/p004-U00035.png), [p004.png](evidence/chapter-01/opening-locator-audit-20260927/p004.png)
 
+<a id="signs-verified-20260927-u00105"></a>
+
+### SIGNS-VERIFIED-20260927-U00105
+
+Units: [U00105](#u00105).
+
+**A transcript:** ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ།
+
+**Adopted reading:** ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ། །
+
+**Scan locator:** Adzom PDF7; BDRC image9; row1; las can snang bar byed don du.
+
+**Decision and reason:** Two separated upright signs after du before sprul; the subjoined vowel of du is not counted. Guided anchor identification and stated terminal signs only; not continuous lexical, orthographic, punctuation, or annotation certification.
+
+**Confidence and limits:** {"punctuation": "high for detached shad count at independently verified target"}
+
+**Evidence:** [p007-U00104-U00106.png](evidence/chapter-01/independent-sign-anchor-review-20260927-batch1/p007-U00104-U00106.png)
+
+<a id="signs-verified-20260927-u00252"></a>
+
+### SIGNS-VERIFIED-20260927-U00252
+
+Units: [U00252](#u00252).
+
+**A transcript:** འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡིས་གཅོད།
+
+**Adopted reading:** འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡིས་གཅོད། །
+
+**Scan locator:** Adzom PDF13; BDRC image15; row1; 'khor ba'i chu rgyun ci yis gcod.
+
+**Decision and reason:** Two separated upright signs after gcod before bcud. The complete unit spans PDF12 row6 to PDF13 row1. Guided anchor identification and stated terminal signs only; not continuous lexical, orthographic, punctuation, or annotation certification.
+
+**Confidence and limits:** {"punctuation": "high for detached shad count at independently verified target"}
+
+**Evidence:** [p012-U00252-prefix.png](evidence/chapter-01/independent-sign-anchor-review-20260927-batch1/p012-U00252-prefix.png), [p013-U00252-U00253.png](evidence/chapter-01/independent-sign-anchor-review-20260927-batch1/p013-U00252-U00253.png)
+
+<a id="signs-verified-20260927-u00372"></a>
+
+### SIGNS-VERIFIED-20260927-U00372
+
+Units: [U00372](#u00372).
+
+**A transcript:** སྣ་ཚོགས་སྤྲོས་པ་དོན་ཡིན་ནོ། །
+
+**Adopted reading:** སྣ་ཚོགས་སྤྲོས་པ་དོན་ཡིན་ནོ།
+
+**Scan locator:** Adzom PDF17; BDRC image19; row4; sna tshogs spros pa don yin no.
+
+**Decision and reason:** One detached upright after no. The subsequent upright belongs to the initial dra of the smaller dris lan heading and connects to its lower letter stroke. Guided anchor identification and stated terminal signs only; not continuous lexical, orthographic, punctuation, or annotation certification.
+
+**Confidence and limits:** {"punctuation": "high for detached shad count at independently verified target"}
+
+**Evidence:** [p017-U00371-U00373.png](evidence/chapter-01/independent-sign-anchor-review-20260927-batch1/p017-U00371-U00373.png)
+
+<a id="signs-verified-20260927-u00578"></a>
+
+### SIGNS-VERIFIED-20260927-U00578
+
+Units: [U00578](#u00578).
+
+**A transcript:** འོད་ཀྱིས་ཁེངས་ཤིང་ཙནྡན་དྲི།
+
+**Adopted reading:** འོད་ཀྱིས་ཁེངས་ཤིང་ཙནྡན་དྲི། །
+
+**Scan locator:** Adzom PDF25; BDRC image27; row3; 'od kyis khengs shing tsan+dan dri.
+
+**Decision and reason:** Two separated upright signs after dri before ston. The preceding U577 closes at the right edge of row2; U578 starts row3. Guided anchor identification and stated terminal signs only; not continuous lexical, orthographic, punctuation, or annotation certification.
+
+**Confidence and limits:** {"punctuation": "high for detached shad count at independently verified target"}
+
+**Evidence:** [p025-U00577.png](evidence/chapter-01/independent-sign-anchor-review-20260927-batch1/p025-U00577.png), [p025-U00578-U00579.png](evidence/chapter-01/independent-sign-anchor-review-20260927-batch1/p025-U00578-U00579.png)
+
 <a id="a2000-c01-s01"></a>
 
 ### A2000-C01-S01
@@ -12127,7 +12199,7 @@ Units: [U00227](#u00227).
 
 Units: [U00252](#u00252).
 
-**Current Adzom main context:** འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡིས་གཅོད།
+**Current Adzom main context:** འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡིས་གཅོད། །
 
 **Comparison reading/snippet:** གང་གིས
 
@@ -14782,7 +14854,7 @@ Exact differences: C1-0037.
 འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡིས་གཅོད། །
 ```
 
-**Disposition and reason:** Retain A’s punctuation/spacing provisionally under the base-transcription policy. Do not silently normalize the B/S delimiters into A; their exact forms remain quoted. Print punctuation is not yet verified at this locus.
+**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SIGNS-VERIFIED-20260927-U00252](#signs-verified-20260927-u00252). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
 
 <a id="l1-0018"></a>
 

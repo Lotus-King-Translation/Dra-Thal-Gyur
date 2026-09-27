@@ -8,7 +8,7 @@ The [recovery audit](recovery/2026-09-27-local/recovery-audit.md) lists 54 missi
 The [scratch inventory](recovery/2026-09-27-local/local-scratch/ARCHIVAL-SUBSET.md), [archive extraction](recovery/2026-09-27-local/scratch-prefix-recovered/README.md) and [image integrity audit](recovery/2026-09-27-local/image-integrity-audit.json) distinguish retained bytes from valid images.
 
 Fresh work: Adzom1973/Gcn boundary mappings; Tingkye three-junction recheck; four unresolved base loci; bounded Tharpaling continuation. See [coverage](collation/chapter-01/scan-coverage.json) and [readiness audit](reviews/chapter-01/readiness-audit-20260927.json).
-The [sign-adoption audit](reviews/chapter-01/sign-adoption-audit-20260927.md) withdraws ten provisional punctuation adoptions after anchor mismatches. Their proposals and original images remain preserved. U00030/U00035 are now re-adopted under new records after independent native-page/crop verification; eight proposals remain withdrawn.
+The [sign-adoption audit](reviews/chapter-01/sign-adoption-audit-20260927.md) withdraws ten provisional punctuation adoptions after anchor mismatches. Their proposals and original images remain preserved. Six targets now have new verified records after independent native-context checks; four other proposals remain withdrawn.
 Tharpaling recovered notes retain their interrupted-report provenance; empty p052.png stays archived while active notes use its intact halves. PDF56 ends at U02100, as supported by the fresh boundary review.
 
 Next: finish the native sign-anchor audit; perform continuous physical sign/source-layer review; obtain reliable Tibetan readings for the precisely listed uncollated witness ranges. Available but unread scans are not missing sources or agreement.

@@ -1206,5 +1206,298 @@
     "supersedes": "SIGNS-RECOVERY-20260927-U00035",
     "status": "adopted after independent full-page and target-crop correspondence check",
     "uncertainty": "Unicode spacing represents separated strokes, not measured physical spacing."
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260927-U00105",
+    "units": [
+      "U00105"
+    ],
+    "original_units": {
+      "U00105": "ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ།"
+    },
+    "replacement_units": {
+      "U00105": "ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ། །"
+    },
+    "old": "ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ།",
+    "new": "ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ། །",
+    "rationale": "Two separated upright signs after du before sprul; the subjoined vowel of du is not counted. Guided anchor identification and stated terminal signs only; not continuous lexical, orthographic, punctuation, or annotation certification.",
+    "locator": "Adzom PDF7; BDRC image9; row1; las can snang bar byed don du",
+    "evidence": [
+      "evidence/chapter-01/independent-sign-anchor-review-20260927-batch1/p007-U00104-U00106.png"
+    ],
+    "confidence": {
+      "punctuation": "high for detached shad count at independently verified target"
+    },
+    "source_record": "reviews/chapter-01/independent-sign-anchor-review-20260927-batch1.json#INDEPENDENT-ANCHOR-20260927-U00105",
+    "provenance": {
+      "id": "INDEPENDENT-ANCHOR-20260927-U00105",
+      "unit": "U00105",
+      "source_to_anchor_status": "confirmed",
+      "pdf_page_of_terminal": 7,
+      "bdrc_image_of_terminal": 9,
+      "main_row_of_terminal": 1,
+      "complete_target_locator_ewts": "las can snang bar byed don du",
+      "neighbor_before": "U00104 chos kyi sku la nges brgyud de",
+      "neighbor_after": "U00106 sprul pa'i sa bon ldang ba'o",
+      "source_tibetan_known_before_review": "ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ།",
+      "cross_page_target": null,
+      "observed_terminal_shads": 2,
+      "sign_observation": "Two separated upright signs after du before sprul; the subjoined vowel of du is not counted.",
+      "proposed_reading": "ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ། །",
+      "prior_crop": {
+        "path": "evidence/chapter-01/signs-recovery-review-20260927/U00105.png",
+        "sha256": "0ed8750077a8efb6611cfa9ebc52ab1be8c5016013eefa79a6359c09ced56038",
+        "pixel_bounds": [
+          3500,
+          240,
+          4620,
+          425
+        ],
+        "native_dimensions": [
+          5696,
+          1344
+        ],
+        "derivation": "unscaled rectangular crop of original-images.zip native image, no enhancement",
+        "source_archive": "editions/adzom-2000/original-images.zip",
+        "source_member": "0009.png",
+        "source_member_sha256": "e8ff34017e051bd3ed2289bcd3f5a31287ce8fbc7e63fc7f4c9f399d7cb2dde8",
+        "pdf_page": 7,
+        "bdrc_image": 9
+      },
+      "prior_crop_pixels_match_declared_source": true,
+      "prior_crop_matches_target": true,
+      "evidence": [
+        "evidence/chapter-01/independent-sign-anchor-review-20260927-batch1/p007-U00104-U00106.png"
+      ],
+      "disposition": "Supported bounded candidate for coordinator integration; no automatic re-adoption in this audit.",
+      "limits": "Guided anchor identification and stated terminal signs only; not continuous lexical, orthographic, punctuation, or annotation certification."
+    },
+    "supersedes": "SIGNS-RECOVERY-20260927-U00105",
+    "status": "adopted after independent source-to-anchor verification and coordinator target-strip review",
+    "uncertainty": "Unicode space denotes separated shads, not measured physical spacing."
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260927-U00252",
+    "units": [
+      "U00252"
+    ],
+    "original_units": {
+      "U00252": "འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡིས་གཅོད།"
+    },
+    "replacement_units": {
+      "U00252": "འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡིས་གཅོད། །"
+    },
+    "old": "འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡིས་གཅོད།",
+    "new": "འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡིས་གཅོད། །",
+    "rationale": "Two separated upright signs after gcod before bcud. The complete unit spans PDF12 row6 to PDF13 row1. Guided anchor identification and stated terminal signs only; not continuous lexical, orthographic, punctuation, or annotation certification.",
+    "locator": "Adzom PDF13; BDRC image15; row1; 'khor ba'i chu rgyun ci yis gcod",
+    "evidence": [
+      "evidence/chapter-01/independent-sign-anchor-review-20260927-batch1/p012-U00252-prefix.png",
+      "evidence/chapter-01/independent-sign-anchor-review-20260927-batch1/p013-U00252-U00253.png"
+    ],
+    "confidence": {
+      "punctuation": "high for detached shad count at independently verified target"
+    },
+    "source_record": "reviews/chapter-01/independent-sign-anchor-review-20260927-batch1.json#INDEPENDENT-ANCHOR-20260927-U00252",
+    "provenance": {
+      "id": "INDEPENDENT-ANCHOR-20260927-U00252",
+      "unit": "U00252",
+      "source_to_anchor_status": "confirmed",
+      "pdf_page_of_terminal": 13,
+      "bdrc_image_of_terminal": 15,
+      "main_row_of_terminal": 1,
+      "complete_target_locator_ewts": "'khor ba'i chu rgyun ci yis gcod",
+      "neighbor_before": "U00251 'bras bu'i thob sa gang tsam zhig",
+      "neighbor_after": "U00253 bcud kyis len pa ji lta bu",
+      "source_tibetan_known_before_review": "འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡིས་གཅོད།",
+      "cross_page_target": {
+        "start": {
+          "pdf_page": 12,
+          "bdrc_image": 14,
+          "row": 6,
+          "words": "'khor ba'i chu rgyun ci yis"
+        },
+        "end": {
+          "pdf_page": 13,
+          "bdrc_image": 15,
+          "row": 1,
+          "words": "gcod"
+        }
+      },
+      "observed_terminal_shads": 2,
+      "sign_observation": "Two separated upright signs after gcod before bcud. The complete unit spans PDF12 row6 to PDF13 row1.",
+      "proposed_reading": "འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡིས་གཅོད། །",
+      "prior_crop": {
+        "path": "evidence/chapter-01/signs-recovery-review-20260927/U00252.png",
+        "sha256": "a52d1a1487e63aefe0c10b250c5aa65a3c2e13aa6a0a94cb8eb609edcc219b3c",
+        "pixel_bounds": [
+          1080,
+          255,
+          2000,
+          465
+        ],
+        "native_dimensions": [
+          5696,
+          1344
+        ],
+        "derivation": "unscaled rectangular crop of original-images.zip native image, no enhancement",
+        "source_archive": "editions/adzom-2000/original-images.zip",
+        "source_member": "0015.png",
+        "source_member_sha256": "177476a5c978024dcc5fffbe24eec717207a42e24beaa388bca91a97b9d752f1",
+        "pdf_page": 13,
+        "bdrc_image": 15
+      },
+      "prior_crop_pixels_match_declared_source": true,
+      "prior_crop_matches_target": true,
+      "evidence": [
+        "evidence/chapter-01/independent-sign-anchor-review-20260927-batch1/p012-U00252-prefix.png",
+        "evidence/chapter-01/independent-sign-anchor-review-20260927-batch1/p013-U00252-U00253.png"
+      ],
+      "disposition": "Supported bounded candidate for coordinator integration; no automatic re-adoption in this audit.",
+      "limits": "Guided anchor identification and stated terminal signs only; not continuous lexical, orthographic, punctuation, or annotation certification."
+    },
+    "supersedes": "SIGNS-RECOVERY-20260927-U00252",
+    "status": "adopted after independent source-to-anchor verification and coordinator target-strip review",
+    "uncertainty": "Unicode space denotes separated shads, not measured physical spacing."
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260927-U00372",
+    "units": [
+      "U00372"
+    ],
+    "original_units": {
+      "U00372": "སྣ་ཚོགས་སྤྲོས་པ་དོན་ཡིན་ནོ། །"
+    },
+    "replacement_units": {
+      "U00372": "སྣ་ཚོགས་སྤྲོས་པ་དོན་ཡིན་ནོ།"
+    },
+    "old": "སྣ་ཚོགས་སྤྲོས་པ་དོན་ཡིན་ནོ། །",
+    "new": "སྣ་ཚོགས་སྤྲོས་པ་དོན་ཡིན་ནོ།",
+    "rationale": "One detached upright after no. The subsequent upright belongs to the initial dra of the smaller dris lan heading and connects to its lower letter stroke. Guided anchor identification and stated terminal signs only; not continuous lexical, orthographic, punctuation, or annotation certification.",
+    "locator": "Adzom PDF17; BDRC image19; row4; sna tshogs spros pa don yin no",
+    "evidence": [
+      "evidence/chapter-01/independent-sign-anchor-review-20260927-batch1/p017-U00371-U00373.png"
+    ],
+    "confidence": {
+      "punctuation": "high for detached shad count at independently verified target"
+    },
+    "source_record": "reviews/chapter-01/independent-sign-anchor-review-20260927-batch1.json#INDEPENDENT-ANCHOR-20260927-U00372",
+    "provenance": {
+      "id": "INDEPENDENT-ANCHOR-20260927-U00372",
+      "unit": "U00372",
+      "source_to_anchor_status": "confirmed",
+      "pdf_page_of_terminal": 17,
+      "bdrc_image_of_terminal": 19,
+      "main_row_of_terminal": 4,
+      "complete_target_locator_ewts": "sna tshogs spros pa don yin no",
+      "neighbor_before": "U00371 'dul yul gang zag mos don du",
+      "neighbor_after": "U00373 dris lan gsum pa'o",
+      "source_tibetan_known_before_review": "སྣ་ཚོགས་སྤྲོས་པ་དོན་ཡིན་ནོ། །",
+      "cross_page_target": null,
+      "observed_terminal_shads": 1,
+      "sign_observation": "One detached upright after no. The subsequent upright belongs to the initial dra of the smaller dris lan heading and connects to its lower letter stroke.",
+      "proposed_reading": "སྣ་ཚོགས་སྤྲོས་པ་དོན་ཡིན་ནོ།",
+      "prior_crop": {
+        "path": "evidence/chapter-01/signs-recovery-review-20260927/U00372.png",
+        "sha256": "7244918673e35c89e8dc532d30863bea974d9ed78242b4c6319c36bfa2f929b6",
+        "pixel_bounds": [
+          3500,
+          620,
+          5200,
+          805
+        ],
+        "native_dimensions": [
+          5696,
+          1344
+        ],
+        "derivation": "unscaled rectangular crop of original-images.zip native image, no enhancement",
+        "source_archive": "editions/adzom-2000/original-images.zip",
+        "source_member": "0019.png",
+        "source_member_sha256": "824f1792676658aa258f3f1efe0a321e5c7ddc7cb8e0df77d8666cad1d3076ba",
+        "pdf_page": 17,
+        "bdrc_image": 19
+      },
+      "prior_crop_pixels_match_declared_source": true,
+      "prior_crop_matches_target": true,
+      "evidence": [
+        "evidence/chapter-01/independent-sign-anchor-review-20260927-batch1/p017-U00371-U00373.png"
+      ],
+      "disposition": "Supported bounded candidate for coordinator integration; no automatic re-adoption in this audit.",
+      "limits": "Guided anchor identification and stated terminal signs only; not continuous lexical, orthographic, punctuation, or annotation certification."
+    },
+    "supersedes": "SIGNS-RECOVERY-20260927-U00372",
+    "status": "adopted after independent source-to-anchor verification and coordinator target-strip review",
+    "uncertainty": "Unicode space denotes separated shads, not measured physical spacing."
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260927-U00578",
+    "units": [
+      "U00578"
+    ],
+    "original_units": {
+      "U00578": "འོད་ཀྱིས་ཁེངས་ཤིང་ཙནྡན་དྲི།"
+    },
+    "replacement_units": {
+      "U00578": "འོད་ཀྱིས་ཁེངས་ཤིང་ཙནྡན་དྲི། །"
+    },
+    "old": "འོད་ཀྱིས་ཁེངས་ཤིང་ཙནྡན་དྲི།",
+    "new": "འོད་ཀྱིས་ཁེངས་ཤིང་ཙནྡན་དྲི། །",
+    "rationale": "Two separated upright signs after dri before ston. The preceding U577 closes at the right edge of row2; U578 starts row3. Guided anchor identification and stated terminal signs only; not continuous lexical, orthographic, punctuation, or annotation certification.",
+    "locator": "Adzom PDF25; BDRC image27; row3; 'od kyis khengs shing tsan+dan dri",
+    "evidence": [
+      "evidence/chapter-01/independent-sign-anchor-review-20260927-batch1/p025-U00577.png",
+      "evidence/chapter-01/independent-sign-anchor-review-20260927-batch1/p025-U00578-U00579.png"
+    ],
+    "confidence": {
+      "punctuation": "high for detached shad count at independently verified target"
+    },
+    "source_record": "reviews/chapter-01/independent-sign-anchor-review-20260927-batch1.json#INDEPENDENT-ANCHOR-20260927-U00578",
+    "provenance": {
+      "id": "INDEPENDENT-ANCHOR-20260927-U00578",
+      "unit": "U00578",
+      "source_to_anchor_status": "confirmed",
+      "pdf_page_of_terminal": 25,
+      "bdrc_image_of_terminal": 27,
+      "main_row_of_terminal": 3,
+      "complete_target_locator_ewts": "'od kyis khengs shing tsan+dan dri",
+      "neighbor_before": "U00577 mchod pa rdzogs pa'i lha mor bcas",
+      "neighbor_after": "U00579 ston pa'i bstan pa cha mnyam pa",
+      "source_tibetan_known_before_review": "འོད་ཀྱིས་ཁེངས་ཤིང་ཙནྡན་དྲི།",
+      "cross_page_target": null,
+      "observed_terminal_shads": 2,
+      "sign_observation": "Two separated upright signs after dri before ston. The preceding U577 closes at the right edge of row2; U578 starts row3.",
+      "proposed_reading": "འོད་ཀྱིས་ཁེངས་ཤིང་ཙནྡན་དྲི། །",
+      "prior_crop": {
+        "path": "evidence/chapter-01/signs-recovery-review-20260927/U00578.png",
+        "sha256": "e20652a11ba9a195fcf3e589c2dc54051921805e9f9ffab4b9df5fdeaf5793db",
+        "pixel_bounds": [
+          900,
+          460,
+          1960,
+          650
+        ],
+        "native_dimensions": [
+          5696,
+          1344
+        ],
+        "derivation": "unscaled rectangular crop of original-images.zip native image, no enhancement",
+        "source_archive": "editions/adzom-2000/original-images.zip",
+        "source_member": "0027.png",
+        "source_member_sha256": "b379b48065135a38ec36c506e9573bb8b6a5e8e46e3b6333405d2df454d0a8e8",
+        "pdf_page": 25,
+        "bdrc_image": 27
+      },
+      "prior_crop_pixels_match_declared_source": true,
+      "prior_crop_matches_target": true,
+      "evidence": [
+        "evidence/chapter-01/independent-sign-anchor-review-20260927-batch1/p025-U00577.png",
+        "evidence/chapter-01/independent-sign-anchor-review-20260927-batch1/p025-U00578-U00579.png"
+      ],
+      "disposition": "Supported bounded candidate for coordinator integration; no automatic re-adoption in this audit.",
+      "limits": "Guided anchor identification and stated terminal signs only; not continuous lexical, orthographic, punctuation, or annotation certification."
+    },
+    "supersedes": "SIGNS-RECOVERY-20260927-U00578",
+    "status": "adopted after independent source-to-anchor verification and coordinator target-strip review",
+    "uncertainty": "Unicode space denotes separated shads, not measured physical spacing."
   }
 ]
