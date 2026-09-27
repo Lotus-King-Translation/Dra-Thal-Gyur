@@ -12491,7 +12491,7 @@ Units: [U00012](#u00012).
 
 Units: [U00017](#u00017), [U00011](#u00011).
 
-**Current Adzom main context:** དབུས་སུ་རླུང་སེམས་རྒྱུ་དང་རྐྱེན། ། / ཐུན་མོང་མ་ཡིན་པའི་གླེང་གཞི་བཀོད་པ།
+**Current Adzom main context:** ཐུན་མོང་མ་ཡིན་པའི་གླེང་གཞི་བཀོད་པ། / དབུས་སུ་རླུང་སེམས་རྒྱུ་དང་རྐྱེན། །
 
 **Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
 
@@ -13151,7 +13151,7 @@ Units: [U01828](#u01828), [U01829](#u01829), [U01830](#u01830).
 
 Units: [U01882](#u01882).
 
-**Current Adzom main context:** ཞག་དང་ཟླ་བ་ལོ་རྣམས་ཀྱིས། །
+**Current Adzom main context:** ཞག་དང་ཟླ་བ་ལོ་རྣམས་ཀྱིས། ། / [A2000-C01-S02](#a2000-c01-s02) སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ། / འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ། / སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང་།
 
 **Comparison reading/snippet:** so so'i tshad la rtags kyis 'grub / 'di ltar sku yi 'grub pa la / sprul pa'i sku dang longs sku dang
 
@@ -13171,7 +13171,7 @@ Units: [U01882](#u01882).
 
 Units: [U02005](#u02005).
 
-**Current Adzom main context:** ཐེག་པ་དག་ནི་གཉིས་སུ་འདོད། །
+**Current Adzom main context:** ཐེག་པ་དག་ནི་གཉིས་སུ་འདོད། ། / [A2000-C01-S03](#a2000-c01-s03) གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ། / འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ། / འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས།
 
 **Comparison reading/snippet:** gzhi ni 'jig rten pa yin te / 'di las 'dod pa gnyis yin no / 'das pa rgyu dang 'bras bu las
 
@@ -13211,7 +13211,7 @@ Units: [U02129](#u02129).
 
 Units: [U02187](#u02187).
 
-**Current Adzom main context:** ལུགས་སུ་ཁྱད་པར་སྡེབས་གཉིས་ཀྱི། །
+**Current Adzom main context:** ལུགས་སུ་ཁྱད་པར་སྡེབས་གཉིས་ཀྱི། ། / [A2000-C01-S04](#a2000-c01-s04) འདུ་ཤེས་ཅན་དག་མཐའ་ལ་འཇོག / མངོན་སུམ་གནད་ཀྱི་མན་ངག་གིས།
 
 **Comparison reading/snippet:** 'du shes can dag mtha' la 'jog / mngon sum gnad kyi man ngag gis
 
@@ -13251,7 +13251,7 @@ Units: [U02225](#u02225).
 
 Units: [U02308](#u02308).
 
-**Current Adzom main context:** སྡོམ་པ་ལུས་དང་ངག་ཏུ་འདུས། །
+**Current Adzom main context:** སྡོམ་པ་ལུས་དང་ངག་ཏུ་འདུས། ། / [A2000-C01-S05](#a2000-c01-s05) རྡོ་རྗེ་གསང་བའི་གནས་གཟུང་བྱའོ། / [A2000-C01-S06](#a2000-c01-s06) དྲིས་ལན་ང་བདུན་པ། / [A2000-C01-S07](#a2000-c01-s07) ཡང་ནི་ལྷ་དབང་དགའ་བྱེད་ཉོན།
 
 **Comparison reading/snippet:** rdo rje gsang ba'i gnas gzung bya'o / yang ni lha dbang dga' byed nyon
 
@@ -13591,7 +13591,7 @@ Units: [U01233](#u01233), [U01237](#u01237), [U01238](#u01238).
 
 Units: [U01274](#u01274).
 
-**Current Adzom main context:** གསུམ་གསུམ་ཉིད་དེ་བཅུ་གཉིས་ལ། །
+**Current Adzom main context:** གསུམ་གསུམ་ཉིད་དེ་བཅུ་གཉིས་ལ། ། / [A2000-C01-S01](#a2000-c01-s01) ཆུ་ཡི་ཟུག་པས་དབང་པོ་སྡུད། / བྱེར་བ་ཡིས་ནི་འཁྲུགས་པར་བྱེད། / སྙོམས་པ་ཡིས་ནི་འབྲས་བུ་འབྱིན།
 
 **Comparison reading/snippet:** chu yi zug pas dbang po sdud / byer ba yis ni khrugs par byed / snyoms pa yis ni bras bu byin
 

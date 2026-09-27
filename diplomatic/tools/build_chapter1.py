@@ -185,8 +185,20 @@ def main():
 
     doc += ['## Local comparison-scan findings', '',
             'These are localized observations and explicitly uncertain candidates, not continuous complete-witness collation. The current Adzom main text below reflects its scan interventions. A removed source annotation is preserved in its own note; it must not be mistaken for a main verse missing in another witness. Ellipses in snippets are editorial abbreviations, not source signs. Complete review-time context, uncertainty ranges, and coverage are retained in the linked reports.', '']
+    insertion_by_id = {rec['id']: rec for rec in insertions}
     for rec in scan_loci:
-        current = ' / '.join(replacements.get(uid, by_id[uid]['tibetan']).strip() or '[Source annotation separated; see the unit note.]' for uid in rec['units'])
+        referenced = rec.get('insertion_ids', [])
+        assert len(referenced) == len(set(referenced)), rec['id']
+        assert all(ident in insertion_by_id for ident in referenced), rec['id']
+        context = []
+        for uid in sorted(rec['units']):
+            text = replacements.get(uid, by_id[uid]['tibetan']).strip() or '[Source annotation separated; see the unit note.]'
+            context.append((int(uid[1:]), 0, text))
+        for ident in referenced:
+            ins = insertion_by_id[ident]
+            context.append((int(ins['after_unit'][1:]), ins['anchor_sequence'],
+                            link(ident) + ' ' + ' / '.join(ins['tibetan_lines'])))
+        current = ' / '.join(text for _, _, text in sorted(context))
         other = rec['comparison_reading']
         if other is None:
             other = '[Unresolved; no complete reading adopted.]'

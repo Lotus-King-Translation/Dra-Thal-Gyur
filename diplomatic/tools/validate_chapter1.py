@@ -63,11 +63,28 @@ def main():
         assert ']('+ '#'+ins['id'].lower()+')' in segment,ins['id']
         for line in ins['tibetan_lines']:assert line in segment,ins['id']
     # Validate paths independently of the renderer, across the complete documentation tree.
+    # Original archival files retain their bytes and relative-link context.
+    archival_context = {}
+    for manifest in (out/'recovery').rglob('manifest-in-progress.json'):
+        for entry in json.loads(manifest.read_text()).get('files', []):
+            if not all(key in entry for key in ('original_path', 'recovered_path', 'sha256', 'bytes')):
+                continue
+            archived = (manifest.parent/entry['recovered_path']).resolve()
+            assert archived.is_relative_to(out/'recovery'), archived
+            payload = archived.read_bytes()
+            assert len(payload) == entry['bytes'], archived
+            assert hashlib.sha256(payload).hexdigest() == entry['sha256'], archived
+            marker = '/Dra-Thal-Gyur/'
+            assert marker in entry['original_path'], entry['original_path']
+            logical = (root/entry['original_path'].split(marker, 1)[1]).resolve()
+            assert logical.is_relative_to(root), logical
+            archival_context[archived] = logical
     links=0;broken=[]
     for p in out.rglob('*.md'):
+        logical = archival_context.get(p.resolve(), p)
         for target in re.findall(r'\]\(([^\s)]+)(?:\s+"[^"]*")?\)',p.read_text()):
             if re.match(r'^[a-zA-Z][a-zA-Z0-9+.-]*:',target):continue
-            name,_,frag=target.partition('#');dest=(p.parent/name).resolve() if name else p
+            name,_,frag=target.partition('#');dest=(logical.parent/name).resolve() if name else logical
             links+=1
             if not dest.exists():broken.append((str(p.relative_to(out)),target))
             elif frag and dest.suffix=='.md':
@@ -76,6 +93,16 @@ def main():
                     h=re.sub(r'[^\w\- ]','',h.lower()).replace(' ','-');anchors.add(h)
                 if frag not in anchors:broken.append((str(p.relative_to(out)),target))
     assert not broken,broken
+    insertion_map={x['id']:x for x in insertions}
+    for rec in read('scan-comparison-loci.json'):
+        start=chapter.index('<a id="'+rec['id'].lower()+'"></a>')
+        end=chapter.find('<a id="',start+1)
+        section=chapter[start:end if end!=-1 else len(chapter)]
+        for ident in rec.get('insertion_ids',[]):
+            assert ident in insertion_map,(rec['id'],ident)
+            assert ']('+'#'+ident.lower()+')' in section,(rec['id'],ident)
+            for line in insertion_map[ident]['tibetan_lines']:
+                assert line in section,(rec['id'],ident,line)
     evidence_count=0
     def check_evidence(x):
         nonlocal evidence_count
@@ -92,7 +119,7 @@ def main():
     status=json.loads((out/'STATUS.json').read_text());digest=hashlib.sha256((out/'chapter-01.md').read_bytes()).hexdigest()
     assert status['chapter_markdown_sha256']==digest
     assert status['complete_chapters']==[] and status['next_chapter_started'] is False
-    result={'scope':'Chapter1 second-reading checkpoint; not a complete-witness certificate','source_hashes_unchanged':True,'exact_reconstruction_checks':patch_checks,'base_units_accounted_for':len(actual),'curated_replacement_anchors':len(proposed),'scan_intervention_records':len(unit_note_ids),'restored_main_verses':13,'abc_exact_conflicts':len(raw_loci),'abc_readable_loci':len(whole),'local_comparison_findings_including_candidates':len(read('scan-comparison-loci.json')),'all_local_markdown_links_resolve':True,'local_links_checked':links,'evidence_references_checked':evidence_count,'chapter_complete':False,'all_witnesses_collated':False,'next_chapter_started':False,'markdown_sha256':digest}
+    result={'scope':'Chapter1 second-reading checkpoint; not a complete-witness certificate','source_hashes_unchanged':True,'exact_reconstruction_checks':patch_checks,'base_units_accounted_for':len(actual),'curated_replacement_anchors':len(proposed),'scan_intervention_records':len(unit_note_ids),'restored_main_verses':13,'abc_exact_conflicts':len(raw_loci),'abc_readable_loci':len(whole),'local_comparison_findings_including_candidates':len(read('scan-comparison-loci.json')),'archival_files_hash_checked':len(archival_context),'all_local_markdown_links_resolve':True,'local_links_checked':links,'evidence_references_checked':evidence_count,'chapter_complete':False,'all_witnesses_collated':False,'next_chapter_started':False,'markdown_sha256':digest}
     (out/'VALIDATION.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n')
     print(json.dumps(result,ensure_ascii=False,indent=2))
 
