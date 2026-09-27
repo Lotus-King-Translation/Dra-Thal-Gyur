@@ -51,3 +51,8 @@ is a separate required resource; it is not replaced by the combined standard.
 The Tibetan source governs what is said. The glossary governs the
 established English terminology used to express it. The guidance and
 QC procedure govern how the translation is produced, annotated, and checked.
+
+### Commit work to remote every step of the way
+
+You must at all times keep committing work to a remote branch. Even small
+progress must continuosly be committed.
