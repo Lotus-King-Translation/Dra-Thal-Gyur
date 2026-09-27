@@ -1,0 +1,358 @@
+{
+  "schema": "tingkye-recovery-review-v1",
+  "date": "2026-09-27",
+  "scope": "Fresh, guided, targeted physical-junction review of Tingkye PDF6 U182–185, PDF27 U974–977 and PDF32 U1173–1177. Not a translation or complete page/chapter collation.",
+  "source_pdf": "editions/tingkye-1973/sgra-thal-gyur.pdf",
+  "source_pdf_sha256": "573e785a586f1c99af9e4d5c54c0d36fefa4a49c28b4d296f1bf31ef249f1723",
+  "source_archive": "editions/tingkye-1973/original-images.zip",
+  "source_archive_sha256": "272016895d7d81c45f0f1972243cbe5a8478aeb6722e8afb4a5372672b6c6bbd",
+  "source_mapping": "I1765 image = PDF page +393; printed page = PDF page +385. Printed 391,412,417 visually confirmed.",
+  "base_source": "diplomatic/collation/chapter-01/reading-units.json",
+  "base_source_sha256": "6bcd52d9e71816d76002582c57c0702ed89face8b58c6e0b2fedcc3fca1f1f10",
+  "reviewer_context": [
+    "AGENTS.md",
+    "guidelines/tibetan_translation_standard_v2.md",
+    "Relevant expanded glossary rows: all eight columns reviewed; no English translation or terminology changes proposed.",
+    "diplomatic/recovery/2026-09-27.json",
+    "diplomatic/recovery/agent-originals/w1er119_ch1/save-tingkye-early-audit.py.retained-source"
+  ],
+  "review_mode": "guided_fresh_visual_review_not_blind",
+  "method": [
+    "Read the surviving prior claims and base units before inspecting the source; expected text was therefore known.",
+    "Extracted native archive images for provider399,420,425 and verified their byte SHA256 against image-manifest.json.",
+    "Used pdfimages to extract PDF6,27,32 rasters and verified identical dimensions and decoded grayscale pixels against the archived originals.",
+    "Viewed each full page and all seven physical rows for context; performed lexical junction review only on the stated rows. Native unscaled crop views checked both flanks and intervening physical spaces.",
+    "No OCR, model-generated image repair, sharpening, inferred missing glyphs, or new facsimile acquisition."
+  ],
+  "evidence": [
+    {
+      "pdf_page": 6,
+      "bdrc_image": 399,
+      "printed_page": 391,
+      "path": "evidence/chapter-01/tingkye-recovery-review-20260927/p006.png",
+      "sha256": "14e2ab0f82ed234988b6c591ed6655ecb51f3ed13e018b5030688f0254b256ff",
+      "bytes": 91373,
+      "native_dimensions": [
+        4350,
+        1100
+      ],
+      "archive_member": "0399.png",
+      "archive_manifest_sha256_matched": true,
+      "pdf_decoded_pixel_identity_verified": true,
+      "decoded_L_pixels_sha256": "a156740ba6288c7914aaa70eb88bc98da536f75089b3ac027c9ed5cfe837df3f",
+      "native_bounds": [
+        0,
+        0,
+        4350,
+        1100
+      ]
+    },
+    {
+      "pdf_page": 27,
+      "bdrc_image": 420,
+      "printed_page": 412,
+      "path": "evidence/chapter-01/tingkye-recovery-review-20260927/p027.png",
+      "sha256": "038c79724a995aaa8d04cbd0afa2612c8e97c84168df064726a672d62338f487",
+      "bytes": 90900,
+      "native_dimensions": [
+        4350,
+        1100
+      ],
+      "archive_member": "0420.png",
+      "archive_manifest_sha256_matched": true,
+      "pdf_decoded_pixel_identity_verified": true,
+      "decoded_L_pixels_sha256": "fa9b1c3fae021e0288af427f719c5c4933736880c3a5b9e650476647d49723f8",
+      "native_bounds": [
+        0,
+        0,
+        4350,
+        1100
+      ]
+    },
+    {
+      "pdf_page": 32,
+      "bdrc_image": 425,
+      "printed_page": 417,
+      "path": "evidence/chapter-01/tingkye-recovery-review-20260927/p032.png",
+      "sha256": "0baf55f78c16279b877fb0092bfbe5c7a06b2bbcd4b3799e91ea943daceedf2c",
+      "bytes": 89048,
+      "native_dimensions": [
+        4350,
+        1100
+      ],
+      "archive_member": "0425.png",
+      "archive_manifest_sha256_matched": true,
+      "pdf_decoded_pixel_identity_verified": true,
+      "decoded_L_pixels_sha256": "0132be320202389e31895a635f3750d2db4ff9275546e4f2d0cff573742c8e0d",
+      "native_bounds": [
+        0,
+        0,
+        4350,
+        1100
+      ]
+    },
+    {
+      "pdf_page": 6,
+      "path": "evidence/chapter-01/tingkye-recovery-review-20260927/p006-r4-right.png",
+      "sha256": "8f81246b51714b2f962cd55b6626f7db821ab6e1d90dcf0eca55d34778069f8e",
+      "bytes": 7717,
+      "native_bounds": [
+        2640,
+        460,
+        3950,
+        600
+      ],
+      "derivation": "Pillow crop of original manifest-verified raster. No enhancement, resampling, OCR or retouching."
+    },
+    {
+      "pdf_page": 6,
+      "path": "evidence/chapter-01/tingkye-recovery-review-20260927/p006-r5-left.png",
+      "sha256": "8f981a91c6683191c7902affb40ac12a7db69e6a98ae98ce7fe588f4c34d672e",
+      "bytes": 10396,
+      "native_bounds": [
+        520,
+        550,
+        2230,
+        690
+      ],
+      "derivation": "Pillow crop of original manifest-verified raster. No enhancement, resampling, OCR or retouching."
+    },
+    {
+      "pdf_page": 6,
+      "path": "evidence/chapter-01/tingkye-recovery-review-20260927/p006-r5-middle.png",
+      "sha256": "0cea83e71bc016c972d87237d97a428f2c258b02bfdc89ed71e4a1dec28178df",
+      "bytes": 10896,
+      "native_bounds": [
+        1700,
+        550,
+        3400,
+        690
+      ],
+      "derivation": "Pillow crop of original manifest-verified raster. No enhancement, resampling, OCR or retouching."
+    },
+    {
+      "pdf_page": 27,
+      "path": "evidence/chapter-01/tingkye-recovery-review-20260927/p027-r3-right.png",
+      "sha256": "38fcaf5df060a731e5909ed15bb1f87eac949f2d58374cbf420e9b2427706c49",
+      "bytes": 13265,
+      "native_bounds": [
+        2150,
+        380,
+        3950,
+        540
+      ],
+      "derivation": "Pillow crop of original manifest-verified raster. No enhancement, resampling, OCR or retouching."
+    },
+    {
+      "pdf_page": 27,
+      "path": "evidence/chapter-01/tingkye-recovery-review-20260927/p027-r4-left.png",
+      "sha256": "844f07ec1183f90d6f5f07f16b80a0f2c874d2827697d5838b4b3be34db1e062",
+      "bytes": 11256,
+      "native_bounds": [
+        520,
+        470,
+        2230,
+        620
+      ],
+      "derivation": "Pillow crop of original manifest-verified raster. No enhancement, resampling, OCR or retouching."
+    },
+    {
+      "pdf_page": 32,
+      "path": "evidence/chapter-01/tingkye-recovery-review-20260927/p032-r3-right.png",
+      "sha256": "a61546fc534e50522c050b70d21cfd274c2c2886541da187fed177db9cf8fd15",
+      "bytes": 11150,
+      "native_bounds": [
+        2270,
+        380,
+        3950,
+        540
+      ],
+      "derivation": "Pillow crop of original manifest-verified raster. No enhancement, resampling, OCR or retouching."
+    },
+    {
+      "pdf_page": 32,
+      "path": "evidence/chapter-01/tingkye-recovery-review-20260927/p032-r4-left.png",
+      "sha256": "fe8d591fadac8c94671c93d38e8768676d899cc4d2dd9e119600b65b24f78832",
+      "bytes": 12538,
+      "native_bounds": [
+        520,
+        470,
+        2330,
+        630
+      ],
+      "derivation": "Pillow crop of original manifest-verified raster. No enhancement, resampling, OCR or retouching."
+    }
+  ],
+  "findings": [
+    {
+      "id": "TK-REC-20260927-001",
+      "prior_record_ids": [
+        "TK-C-006-U00183",
+        "TK-EARLY-AUDIT-001"
+      ],
+      "units": [
+        "U00183",
+        "U00184"
+      ],
+      "flank_units": [
+        "U00182",
+        "U00185"
+      ],
+      "pdf_page": 6,
+      "bdrc_image": 399,
+      "printed_page": 391,
+      "physical_rows": [
+        4,
+        5
+      ],
+      "status": "false_local_omission_claim_withdrawn",
+      "finding": "Both verses corresponding to U183 and U184 are present between U182 and U185. The two-verse absence claim is rejected.",
+      "source_reading": "Row4 right has lha dbang gis ni di skad; row5 opens gsol, followed by an invocation ending bcom ldan das, then di ltar snang ba dam pa nyid, then bsam gyis mi khyab dus pa…",
+      "confidence": "high for presence/order of the two verses; no exact invocation spelling certification",
+      "remaining_uncertainty": "Exact opening invocation vowel, number/form of kye syllables, and pa yi/pai spelling in the right flank are outside this presence audit. The retained script supplied expected e ma kye kye; this review does not adopt that expected string as fully authenticated.",
+      "recommended_action": "Retain U183 and U184 in Adzom; label prior Tingkye absence claim withdrawn. Preserve any recovered old claim only as superseded history.",
+      "evidence": [
+        "evidence/chapter-01/tingkye-recovery-review-20260927/p006.png",
+        "evidence/chapter-01/tingkye-recovery-review-20260927/p006-r4-right.png",
+        "evidence/chapter-01/tingkye-recovery-review-20260927/p006-r5-left.png",
+        "evidence/chapter-01/tingkye-recovery-review-20260927/p006-r5-middle.png"
+      ]
+    },
+    {
+      "id": "TK-REC-20260927-002",
+      "prior_record_ids": [
+        "TK-C-006-U00182"
+      ],
+      "units": [
+        "U00182"
+      ],
+      "flank_units": [
+        "U00183"
+      ],
+      "pdf_page": 6,
+      "bdrc_image": 399,
+      "printed_page": 391,
+      "physical_rows": [
+        4,
+        5
+      ],
+      "status": "unsupported_nas_addition_withdrawn",
+      "finding": "At the end of U182, gsol is followed by punctuation and the invocation; no nas syllable intervenes at this junction.",
+      "source_reading": "Row4-right di skad continues with row5-left gsol. After its punctuation, the next syllables begin the invocation.",
+      "confidence": "high for the bounded gsol-to-invocation junction",
+      "remaining_uncertainty": "Invocation orthography remains qualified in TK-REC-20260927-001. This finding does not certify unrelated lexical records from the lost report.",
+      "recommended_action": "Withdraw the claimed Tingkye gsol nas addition at U182. Do not insert nas into the governing base.",
+      "evidence": [
+        "evidence/chapter-01/tingkye-recovery-review-20260927/p006.png",
+        "evidence/chapter-01/tingkye-recovery-review-20260927/p006-r4-right.png",
+        "evidence/chapter-01/tingkye-recovery-review-20260927/p006-r5-left.png"
+      ]
+    },
+    {
+      "id": "TK-REC-20260927-003",
+      "prior_record_ids": [
+        "TK-C-027-U00975",
+        "TK-EARLY-AUDIT-002"
+      ],
+      "units": [
+        "U00975"
+      ],
+      "flank_units": [
+        "U00974",
+        "U00976",
+        "U00977"
+      ],
+      "pdf_page": 27,
+      "bdrc_image": 420,
+      "printed_page": 412,
+      "physical_rows": [
+        3,
+        4
+      ],
+      "status": "local_omission_supported",
+      "finding": "The U974 phrase is directly followed by U976 in row3; U975 is absent at that junction. U977 begins at row3 right and continues at row4 left.",
+      "source_reading_ewts": "de 'das nga yis bzung ba yis / sangs rgyas stong dang rtsa gnyis ni / 'di la [row break] brten nas nges par 'byung",
+      "absent_base_string": "བསྟན་པའི་སྲོག་ཤིང་དམ་པ་ཡི། །",
+      "confidence": "high for this local sequence and absence",
+      "remaining_uncertainty": "No global absence elsewhere, displaced occurrence, exhaustive glyph comparison, or punctuation equivalence is certified.",
+      "recommended_action": "Record U975 as locally absent in Tingkye at PDF27 row3, retaining both physical flanks. Retain Adzom U975 unchanged.",
+      "evidence": [
+        "evidence/chapter-01/tingkye-recovery-review-20260927/p027.png",
+        "evidence/chapter-01/tingkye-recovery-review-20260927/p027-r3-right.png",
+        "evidence/chapter-01/tingkye-recovery-review-20260927/p027-r4-left.png"
+      ]
+    },
+    {
+      "id": "TK-REC-20260927-004",
+      "prior_record_ids": [
+        "TK-C-032-U01174",
+        "TK-EARLY-AUDIT-003"
+      ],
+      "units": [
+        "U01174",
+        "U01175"
+      ],
+      "flank_units": [
+        "U01172",
+        "U01173",
+        "U01176",
+        "U01177"
+      ],
+      "pdf_page": 32,
+      "bdrc_image": 425,
+      "printed_page": 417,
+      "physical_rows": [
+        3,
+        4
+      ],
+      "status": "local_omission_supported_two_unit_scope",
+      "finding": "U1173 begins with nyon at row3 end and continues mongs…phyir at row4 left. It proceeds directly to U1176, followed by U1177. Both U1174 and U1175 are absent at that junction.",
+      "source_reading_ewts": "dus kyi rim pa drug cu 'byung / nyon [row break] mongs las dbang gzhan 'gyur phyir / 'dzam bu gling pa rnams la yang / brgya yi bar la dus rim ni",
+      "absent_base_strings": {
+        "U01174": "རང་མཐུན་སྤྱི་དོན་ལས་ཀྱི་ཡང༌། །",
+        "U01175": "ཚེ་ལོ་ཉིད་ནི་སྟོང་པ་ལས། །"
+      },
+      "confidence": "high for this local sequence and two-verse absence",
+      "remaining_uncertainty": "Exact fine-letter and punctuation equivalence outside the identifying phrases, global absence and displacement elsewhere are not certified.",
+      "recommended_action": "Index both U1174 and U1175 in the Tingkye local gap finding. Retain both Adzom verses unchanged.",
+      "evidence": [
+        "evidence/chapter-01/tingkye-recovery-review-20260927/p032.png",
+        "evidence/chapter-01/tingkye-recovery-review-20260927/p032-r3-right.png",
+        "evidence/chapter-01/tingkye-recovery-review-20260927/p032-r4-left.png"
+      ]
+    }
+  ],
+  "coverage": {
+    "page_overviews_viewed": [
+      6,
+      27,
+      32
+    ],
+    "targeted_rows": {
+      "6": [
+        4,
+        5
+      ],
+      "27": [
+        3,
+        4
+      ],
+      "32": [
+        3,
+        4
+      ]
+    },
+    "fresh_findings": 4,
+    "distinct_target_junctions": 3,
+    "full_page_lexical_collation": false,
+    "whole_chapter_collation": false,
+    "disposition": "Targeted presence/absence questions resolved with listed orthographic limits; Chapter1 remains incomplete."
+  },
+  "limitations": [
+    "Four findings concern three junctions; the two PDF6 findings share the same evidence and are not independent witness votes.",
+    "The lost full Tingkye continuation and original claim snapshots are not recovered by this review.",
+    "Previous exact invocation transcription is not promoted to certainty. Presence of a verse can be established without certifying every grapheme.",
+    "No global witness omission, source reconstruction, all-punctuation certificate or chapter-completion claim."
+  ],
+  "mutations": "Only this new report and its evidence were created. Canonical apparatus, source, glossary and rendered chapter were unchanged."
+}
