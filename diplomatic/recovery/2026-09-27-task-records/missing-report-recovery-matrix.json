@@ -1,0 +1,1085 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-27",
+  "kind": "Recovery-only inventory; no new collation or edition changes",
+  "repository": "Lotus-King-Translation/Dra-Thal-Gyur",
+  "inspected_branch": "recovery/task-records-2026-09-27",
+  "inspected_commit": "91a8aa44ba412844ebc6ee4125288c23d8e036cf",
+  "original_missing_list_source": "diplomatic/recovery/2026-09-27-local/recovery-audit.json",
+  "original_missing_list_source_git_blob_sha": "279c856640cfdfffcb8e524f30c12603868fee68",
+  "scope": "Every one of the 54 original missing report basenames, including each JSON and Markdown file separately. Recoveries of unrelated already-published reports and additional scripts do not count toward these 54.",
+  "definitions": {
+    "original-bytes": "Surviving original report bytes, with original byte identity established; none recovered among these 54.",
+    "complete-transcript-replay": "Complete report content mechanically recreated from retained historical literal source/generator. No inference of unavailable readings and no original-byte identity claim.",
+    "partial-literal-evidence-source": "Exact retained tool input/output, report fragments or related literal audit records survive, but the complete original report is not recovered. For paired Markdown reports, related JSON evidence does not mean original Markdown text survives.",
+    "compacted-summary-only": "Substantive scope/findings/corrections survive only in a compacted summary, recovery summary or handoff; not original report bodies.",
+    "no-recoverable-body": "Only filename, scope/count metadata or distinct secondary-audit records are located; no substantive original report body is recovered."
+  },
+  "summary": {
+    "original_missing_files": 54,
+    "original_file_bytes_recovered": 0,
+    "complete_transcript_replayed_report_bodies": 4,
+    "complete_report_bodies_still_unrecovered": 50,
+    "counts_by_category": {
+      "original-bytes": 0,
+      "complete-transcript-replay": 4,
+      "partial-literal-evidence-source": 19,
+      "compacted-summary-only": 23,
+      "no-recoverable-body": 8
+    },
+    "exact_original_file_byte_identity_still_unverified": 54,
+    "new_or_completed_witness_collation": false,
+    "chapter_completion_certified": false
+  },
+  "cautions": [
+    "A recovered source script is not automatically a recovered report. Missing input ledgers and dynamic source metadata remain explicit dependencies.",
+    "The complete replayed Gcn late report is a record of a failed bounded reading attempt, not successful continuous lexical collation.",
+    "Historical findings and superseded locators are preserved as historical evidence. Recovery does not adopt them into the edition or increase confidence.",
+    "Original stdout excerpts for root-final-audit and langtang-junction-audit deliberately omitted evidence_sha256, so neither is a complete original JSON recovery.",
+    "The 54 basenames are the original audit denominator. New preservation files, repeated copies and provenance documents do not reduce it.",
+    "This inventory is tied to the inspected commit; later publication of retained fragments may improve individual evidence descriptions without restoring complete reports."
+  ],
+  "evidence": [
+    {
+      "id": "E01",
+      "path": "diplomatic/recovery/2026-09-27-task-records/zhichen_ch1/retained-summary-fragments.txt",
+      "git_blob_sha": "d3a6c15a08b11cabfec7d63391e69c7efe5278da"
+    },
+    {
+      "id": "E02",
+      "path": "diplomatic/recovery/2026-09-27.json",
+      "git_blob_sha": "a7cde3de670568edc191d78a4db5992c39519e3f"
+    },
+    {
+      "id": "E03",
+      "path": "diplomatic/recovery/2026-09-27-task-records/dzongsar_middle/finalize.py",
+      "git_blob_sha": "f8bb6613e89cffa85ea1236b799d8ce386c0dc9a"
+    },
+    {
+      "id": "E04",
+      "path": "diplomatic/recovery/2026-09-27-task-records/dzongsar_middle/RECOVERY-PROVENANCE.md",
+      "git_blob_sha": "d13560cb9b10fc622b8f2494ae754fc85b910123"
+    },
+    {
+      "id": "E05",
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-early-omission-claims.retained-tool-output.txt",
+      "git_blob_sha": "63d1726404f47b1fa05d104cdb81be7fa3b84008"
+    },
+    {
+      "id": "E06",
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-early-native-metadata.retained-tool-output.txt",
+      "git_blob_sha": "6a14982b28d8785438fb29a1ac17c09c3a4e41ae"
+    },
+    {
+      "id": "E07",
+      "path": "diplomatic/recovery/2026-09-27-task-records/dzongsar_middle/retained-context-quotations.md",
+      "git_blob_sha": "e18e6b5a465ef96abbc15bcb3f008dd2219f0bb6"
+    },
+    {
+      "id": "E08",
+      "path": "diplomatic/recovery/agent-originals/w1er119_ch1/save-tingkye-early-audit.py.retained-source",
+      "git_blob_sha": "ea8407a101ac4065edb4dce77c4bd6a40b36b063"
+    },
+    {
+      "id": "E09",
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/w1er119-import-audit.replayed.json",
+      "git_blob_sha": "c03f98ddbea6552b0bcea99e532231d9e109ea0a"
+    },
+    {
+      "id": "E10",
+      "path": "diplomatic/recovery/2026-09-27-task-records/dzongsar_late/root-final-audit.original-tool-output-excerpt.txt",
+      "git_blob_sha": "64db7ea880d53f133f0661ef7f8e2e2358a391f4"
+    },
+    {
+      "id": "E11",
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-early-fourth-correction.BLOCKED-retained-source.py.txt",
+      "git_blob_sha": "561b3f7cda761f2d78201a9d10b93a52bb5f2217"
+    },
+    {
+      "id": "E12",
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/PROVENANCE.json",
+      "git_blob_sha": "3f6fb24e9514909204c41adcf4277efb12ac7d0b"
+    },
+    {
+      "id": "E13",
+      "path": "diplomatic/recovery/2026-09-27-task-records/langtang_ch1/context-summary-limits.md",
+      "git_blob_sha": "2c37f62b16d5249a79142175c6c6f09340c34521"
+    },
+    {
+      "id": "E14",
+      "path": "diplomatic/recovery/2026-09-27-task-records/dzongsar_late/langtang-junction-audit.original-tool-output-excerpt.txt",
+      "git_blob_sha": "a47fd2b4d486f5b3cd553f892888004885be4f40"
+    },
+    {
+      "id": "E15",
+      "path": "diplomatic/recovery/2026-09-27-task-records/gadkar_ch1/retained-outage-messages.md",
+      "git_blob_sha": "f4f107b463990fa75277658fdcd75a41e6950cb9"
+    },
+    {
+      "id": "E16",
+      "path": "diplomatic/recovery/agent-originals/gadkar_ch1/retained-successful-checkpoint-44-47.py",
+      "git_blob_sha": "caf08320fbbed308f911da3b5ade23e135f20749"
+    },
+    {
+      "id": "E17",
+      "path": "diplomatic/recovery/agent-originals/gadkar_ch1/retained-failed-checkpoint-48-51.py",
+      "git_blob_sha": "e9d380224db1be7a398a660a1e4bd7fbb955f41d"
+    },
+    {
+      "id": "E18",
+      "path": "diplomatic/recovery/2026-09-27-local/retained-fragments/tharpaling-44-47.json",
+      "git_blob_sha": "47defe333712f462a01ac64861116d83136568de"
+    },
+    {
+      "id": "E19",
+      "path": "diplomatic/recovery/2026-09-27-local/retained-fragments/tharpaling-48-51-unsaved.json",
+      "git_blob_sha": "8f9ab98a8e3d02f85522065aeb4b2aaa91b83e16"
+    },
+    {
+      "id": "E20",
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tharpaling-late-attempt.stage1-saved-construction.py.txt",
+      "git_blob_sha": "680bb3bed2c442058c4d4d80518208ecd73841de"
+    },
+    {
+      "id": "E21",
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tharpaling-late-attempt.stage2-copy-saved.py.txt",
+      "git_blob_sha": "b16dab0affb4091294607e38a447a36a0ee3f9bd"
+    },
+    {
+      "id": "E22",
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tharpaling-late-attempt.stage3-saved-withdrawal.py.txt",
+      "git_blob_sha": "26dce263a3d8d7f0ca4215f549aa83a35c0c64e3"
+    },
+    {
+      "id": "E23",
+      "path": "diplomatic/recovery/2026-09-27-task-records/langtang_ch1/finalize-middle.py.txt",
+      "git_blob_sha": "9fd8ed55b1b426f2dc5ea0adad8291d43879d9bd"
+    },
+    {
+      "id": "E24",
+      "path": "diplomatic/recovery/2026-09-27-task-records/langtang_ch1/checkpoint.py.txt",
+      "git_blob_sha": "e67e768ffa312c3ddae77095a9dd36f009be1a3c"
+    },
+    {
+      "id": "E25",
+      "path": "diplomatic/recovery/2026-09-27-task-records/langtang_ch1/gcn-final-unsaved-handoff.txt",
+      "git_blob_sha": "35719dc00ffabc9948ffc99c07338ca30a6486da"
+    },
+    {
+      "id": "E26",
+      "path": "diplomatic/recovery/2026-09-27-task-records/zhichen_ch1/transcript-replay/gcn-late.json",
+      "git_blob_sha": "98988e0747b780ce7853a4e8f25670000c64538b"
+    },
+    {
+      "id": "E27",
+      "path": "diplomatic/recovery/2026-09-27-task-records/zhichen_ch1/transcript-replay/gcn-late.md",
+      "git_blob_sha": "fe512690051bca999e800356764a6dbd36f9193f"
+    },
+    {
+      "id": "E28",
+      "path": "diplomatic/recovery/2026-09-27-task-records/zhichen_ch1/gcn_late_report.final.py",
+      "git_blob_sha": "0455c5676c30359374d91c61b75af458f6b667ca"
+    },
+    {
+      "id": "E29",
+      "path": "diplomatic/recovery/2026-09-27-task-records/zhichen_ch1/gcn_late_report.amendments.txt",
+      "git_blob_sha": "9aedf55af8802c673790793e3c9dbe7a70ed5f63"
+    },
+    {
+      "id": "E30",
+      "path": "diplomatic/recovery/2026-09-27-task-records/zhichen_ch1/manifest.json",
+      "git_blob_sha": "9ab023c74c1f3be44e29e3a851a861148e4dc554"
+    },
+    {
+      "id": "E31",
+      "path": "diplomatic/recovery/2026-09-27-task-records/dzongsar_late/audit-excerpts-provenance.json",
+      "git_blob_sha": "4dcea0bd7f8baa47b920309b0544c04c61192746"
+    },
+    {
+      "id": "E32",
+      "path": "diplomatic/recovery/agent-originals/dzongsar_late/preserved-20260927T164952Z/retained-tool-call-text/integration-final-audit-record.initial.py.txt",
+      "git_blob_sha": "ff1fc88956dacf0f48896f6845cb5d57f40a17e5"
+    },
+    {
+      "id": "E33",
+      "path": "diplomatic/recovery/agent-originals/dzongsar_late/preserved-20260927T164952Z/retained-tool-call-text/integration-final-audit-record.amendment.sh.txt",
+      "git_blob_sha": "eabfe7714288943efc5ac45aeb611f0e8000f4e2"
+    },
+    {
+      "id": "E34",
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/w1er119-import-audit.replayed.md",
+      "git_blob_sha": "81bec68e3120a18489e30eeb7df45575fe2fbe2b"
+    },
+    {
+      "id": "E35",
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/w1er119-import-audit.saved-construction.py.txt",
+      "git_blob_sha": "f27b8e17bfd9d6af1ac0b3374ad0d0866c0ee4be"
+    }
+  ],
+  "files": [
+    {
+      "original_basename": "base-signs-early.json",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "compacted-summary-only",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E01",
+        "E02"
+      ],
+      "limits": "Retained summary describes 34 pages and 25 findings, including named signs and bounds. No original page/findings objects or Markdown body survives."
+    },
+    {
+      "original_basename": "base-signs-early.md",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "compacted-summary-only",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E01",
+        "E02"
+      ],
+      "limits": "Retained summary describes 34 pages and 25 findings, including named signs and bounds. No original page/findings objects or Markdown body survives."
+    },
+    {
+      "original_basename": "base-signs-middle.json",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "partial-literal-evidence-source",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E03",
+        "E04"
+      ],
+      "limits": "Exact, hash-matched finalizer survives. It reads a missing pre-existing JSON ledger and evidence files; it cannot restore the complete report. Historical proposals require review before any adoption."
+    },
+    {
+      "original_basename": "base-signs-middle.md",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "partial-literal-evidence-source",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E03",
+        "E04"
+      ],
+      "limits": "Exact, hash-matched finalizer survives. It reads a missing pre-existing JSON ledger and evidence files; it cannot restore the complete report. Historical proposals require review before any adoption."
+    },
+    {
+      "original_basename": "base-signs-late.json",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "compacted-summary-only",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E02"
+      ],
+      "limits": "Recovery packet retains later sign proposals and pagewise scope. No original late-report body or complete generator has been recovered."
+    },
+    {
+      "original_basename": "base-signs-late.md",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "compacted-summary-only",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E02"
+      ],
+      "limits": "Recovery packet retains later sign proposals and pagewise scope. No original late-report body or complete generator has been recovered."
+    },
+    {
+      "original_basename": "tingkye-continuation.json",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "partial-literal-evidence-source",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E05",
+        "E06",
+        "E07",
+        "E08"
+      ],
+      "limits": "Three historical claim snapshots survive as literal stdout; other PDF3–34 scope/findings survive only in a compacted summary. The U183–184 omission claim was withdrawn. Full report body absent."
+    },
+    {
+      "original_basename": "tingkye-continuation.md",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "partial-literal-evidence-source",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E05",
+        "E06",
+        "E07",
+        "E08"
+      ],
+      "limits": "Three historical claim snapshots survive as literal stdout; other PDF3–34 scope/findings survive only in a compacted summary. The U183–184 omission claim was withdrawn. Full report body absent."
+    },
+    {
+      "original_basename": "tingkye-late-continuation.json",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "partial-literal-evidence-source",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E09",
+        "E10",
+        "E02"
+      ],
+      "limits": "Literal related audits retain selected TL references and three guided checks. The 30-page/176-finding original ledger is not recovered at this snapshot; further retained update sources are pending."
+    },
+    {
+      "original_basename": "tingkye-late-continuation.md",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "partial-literal-evidence-source",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E09",
+        "E10",
+        "E02"
+      ],
+      "limits": "Literal related audits retain selected TL references and three guided checks. The 30-page/176-finding original ledger is not recovered at this snapshot; further retained update sources are pending."
+    },
+    {
+      "original_basename": "tingkye-early-omission-audit.json",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "partial-literal-evidence-source",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E08",
+        "E06",
+        "E05",
+        "E11"
+      ],
+      "limits": "Saved construction source, three original claim snapshots and native metadata stdout survive. Later fourth-correction input failed before execution. No complete original output file or original-byte equality is established."
+    },
+    {
+      "original_basename": "tingkye-early-omission-audit.md",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "partial-literal-evidence-source",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E08",
+        "E06",
+        "E05",
+        "E11"
+      ],
+      "limits": "Saved construction source, three original claim snapshots and native metadata stdout survive. Later fourth-correction input failed before execution. No complete original output file or original-byte equality is established."
+    },
+    {
+      "original_basename": "tsamdrak-middle.json",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "no-recoverable-body",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E09",
+        "E12"
+      ],
+      "limits": "Import audit reports 35 pages/134 findings and consistency checks, but does not contain the report's actual page ledger or finding bodies. Original author reports no retained complete body."
+    },
+    {
+      "original_basename": "tsamdrak-middle.md",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "no-recoverable-body",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E09",
+        "E12"
+      ],
+      "limits": "Import audit reports 35 pages/134 findings and consistency checks, but does not contain the report's actual page ledger or finding bodies. Original author reports no retained complete body."
+    },
+    {
+      "original_basename": "tsamdrak-late.json",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "compacted-summary-only",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E01",
+        "E02"
+      ],
+      "limits": "Summary retains PDF49–83 scope, 80-finding count and selected findings/corrections. No complete original records or generator."
+    },
+    {
+      "original_basename": "tsamdrak-late.md",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "compacted-summary-only",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E01",
+        "E02"
+      ],
+      "limits": "Summary retains PDF49–83 scope, 80-finding count and selected findings/corrections. No complete original records or generator."
+    },
+    {
+      "original_basename": "langtang-ch1.json",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "compacted-summary-only",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E13",
+        "E07"
+      ],
+      "limits": "Summary and original handoff describe PDF1–52/146 loci and the withdrawn U580 reading. No full report or opening generator."
+    },
+    {
+      "original_basename": "langtang-ch1.md",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "compacted-summary-only",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E13",
+        "E07"
+      ],
+      "limits": "Summary and original handoff describe PDF1–52/146 loci and the withdrawn U580 reading. No full report or opening generator."
+    },
+    {
+      "original_basename": "langtang-middle.json",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "compacted-summary-only",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E07"
+      ],
+      "limits": "Compacted summary retains PDF53–78/159 observations, selected omissions and heading corrections. It is explicitly not original report text."
+    },
+    {
+      "original_basename": "langtang-middle.md",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "compacted-summary-only",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E07"
+      ],
+      "limits": "Compacted summary retains PDF53–78/159 observations, selected omissions and heading corrections. It is explicitly not original report text."
+    },
+    {
+      "original_basename": "langtang-late.json",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "no-recoverable-body",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E02",
+        "E14"
+      ],
+      "limits": "Scope/count metadata and a separate guided junction audit survive. No original late-report page ledger or 34 finding bodies has been recovered."
+    },
+    {
+      "original_basename": "langtang-late.md",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "no-recoverable-body",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E02",
+        "E14"
+      ],
+      "limits": "Scope/count metadata and a separate guided junction audit survive. No original late-report page ledger or 34 finding bodies has been recovered."
+    },
+    {
+      "original_basename": "dege-continuation.json",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "no-recoverable-body",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E02"
+      ],
+      "limits": "Recovery packet records continuation scope and DGC restoration cross-references, but no original continuation report body is available."
+    },
+    {
+      "original_basename": "dege-continuation.md",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "no-recoverable-body",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E02"
+      ],
+      "limits": "Recovery packet records continuation scope and DGC restoration cross-references, but no original continuation report body is available."
+    },
+    {
+      "original_basename": "dege-late.json",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "compacted-summary-only",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E01"
+      ],
+      "limits": "Summary retains PDF29–41 endpoints, 25-finding breakdown, selected findings and crop bounds. Original JSON/Markdown and helper scripts absent."
+    },
+    {
+      "original_basename": "dege-late.md",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "compacted-summary-only",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E01"
+      ],
+      "limits": "Summary retains PDF29–41 endpoints, 25-finding breakdown, selected findings and crop bounds. Original JSON/Markdown and helper scripts absent."
+    },
+    {
+      "original_basename": "dege-final.json",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "no-recoverable-body",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E02"
+      ],
+      "limits": "Packet records the main-row endpoint at PDF54 row3. No original final-report body or complete retained construction source has been recovered."
+    },
+    {
+      "original_basename": "dege-final.md",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "no-recoverable-body",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E02"
+      ],
+      "limits": "Packet records the main-row endpoint at PDF54 row3. No original final-report body or complete retained construction source has been recovered."
+    },
+    {
+      "original_basename": "tharpaling-continuation.json",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "compacted-summary-only",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E02"
+      ],
+      "limits": "Three false restoration-absence claims and their withdrawal reasons survive in the recovery packet. Full continuation report absent; original false claims must not be readopted."
+    },
+    {
+      "original_basename": "tharpaling-continuation.md",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "compacted-summary-only",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E02"
+      ],
+      "limits": "Three false restoration-absence claims and their withdrawal reasons survive in the recovery packet. Full continuation report absent; original false claims must not be readopted."
+    },
+    {
+      "original_basename": "tharpaling-middle.json",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "compacted-summary-only",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E02",
+        "E15"
+      ],
+      "limits": "Summary reports sequential PDF17–43 scope, correction of S01 presence and endpoint corrections. Exact outage messages preserve the later handoff, not this report body."
+    },
+    {
+      "original_basename": "tharpaling-middle.md",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "compacted-summary-only",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E02",
+        "E15"
+      ],
+      "limits": "Summary reports sequential PDF17–43 scope, correction of S01 presence and endpoint corrections. Exact outage messages preserve the later handoff, not this report body."
+    },
+    {
+      "original_basename": "tharpaling-late-notes.json",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "partial-literal-evidence-source",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E16",
+        "E17",
+        "E15",
+        "E18",
+        "E19"
+      ],
+      "limits": "Exact saved append source for PDF44–47 and failed-save source for PDF48–51 survive. Earlier ledger dependency is absent; unsaved PDF48–51 notes are not a recovered original file."
+    },
+    {
+      "original_basename": "tharpaling-s02-s03-corrections.json",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "compacted-summary-only",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E02",
+        "E15"
+      ],
+      "limits": "Correction conclusions and confirmation that a correction file had been saved survive. Complete original correction-file body absent."
+    },
+    {
+      "original_basename": "tharpaling-late-attempt.json",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "partial-literal-evidence-source",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E20",
+        "E21",
+        "E22",
+        "E12"
+      ],
+      "limits": "Exact original construction, copy and withdrawal bodies survive. Missing pre-existing extracted_pages metadata prevents full recreation. Final stage withdraws all provisional locus mappings; no positive variants or agreement remain."
+    },
+    {
+      "original_basename": "tharpaling-late-attempt.md",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "partial-literal-evidence-source",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E20",
+        "E21",
+        "E22",
+        "E12"
+      ],
+      "limits": "Exact original construction, copy and withdrawal bodies survive. Missing pre-existing extracted_pages metadata prevents full recreation. Final stage withdraws all provisional locus mappings; no positive variants or agreement remain."
+    },
+    {
+      "original_basename": "adzom73-mapping.json",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "compacted-summary-only",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E13",
+        "E02"
+      ],
+      "limits": "Summary retains root/container and Chapter1 mapping. Complete mapping report text absent."
+    },
+    {
+      "original_basename": "adzom73-mapping.md",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "compacted-summary-only",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E13",
+        "E02"
+      ],
+      "limits": "Summary retains root/container and Chapter1 mapping. Complete mapping report text absent."
+    },
+    {
+      "original_basename": "gcn-mapping.json",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "compacted-summary-only",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E13",
+        "E02"
+      ],
+      "limits": "Summary retains root title/incipit/colophon and Chapter1 boundary mappings with MRC-rendering caveat. Complete mapping report text absent."
+    },
+    {
+      "original_basename": "gcn-mapping.md",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "compacted-summary-only",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E13",
+        "E02"
+      ],
+      "limits": "Summary retains root title/incipit/colophon and Chapter1 boundary mappings with MRC-rendering caveat. Complete mapping report text absent."
+    },
+    {
+      "original_basename": "gcn-opening.json",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "compacted-summary-only",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E13"
+      ],
+      "limits": "Summary retains PDF408–410 scope, selected findings and queries. Opening generator and original report records absent."
+    },
+    {
+      "original_basename": "gcn-opening.md",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "compacted-summary-only",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E13"
+      ],
+      "limits": "Summary retains PDF408–410 scope, selected findings and queries. Opening generator and original report records absent."
+    },
+    {
+      "original_basename": "gcn-middle.json",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "partial-literal-evidence-source",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E23",
+        "E24",
+        "E13",
+        "E25"
+      ],
+      "limits": "Literal later increment contains PDF443–448 and selected rereads; missing earlier checkpoint prevents recovery of full PDF411–448/38-page/68-locus report."
+    },
+    {
+      "original_basename": "gcn-middle.md",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "partial-literal-evidence-source",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E23",
+        "E24",
+        "E13",
+        "E25"
+      ],
+      "limits": "Literal later increment contains PDF443–448 and selected rereads; missing earlier checkpoint prevents recovery of full PDF411–448/38-page/68-locus report."
+    },
+    {
+      "original_basename": "gcn-late.json",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "complete-transcript-replay",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": true,
+      "recovered_content_path": "diplomatic/recovery/2026-09-27-task-records/zhichen_ch1/transcript-replay/gcn-late.json",
+      "evidence_ids": [
+        "E26",
+        "E27",
+        "E28",
+        "E29",
+        "E30"
+      ],
+      "limits": "Complete historical failed-attempt report content replayed from retained initial source plus exact amendments. Original byte identity unknown. Historical U1427/U1511 locator guesses remain superseded; this is not completed lexical collation."
+    },
+    {
+      "original_basename": "gcn-late.md",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "complete-transcript-replay",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": true,
+      "recovered_content_path": "diplomatic/recovery/2026-09-27-task-records/zhichen_ch1/transcript-replay/gcn-late.md",
+      "evidence_ids": [
+        "E26",
+        "E27",
+        "E28",
+        "E29",
+        "E30"
+      ],
+      "limits": "Complete historical failed-attempt report content replayed from retained initial source plus exact amendments. Original byte identity unknown. Historical U1427/U1511 locator guesses remain superseded; this is not completed lexical collation."
+    },
+    {
+      "original_basename": "root-final-audit.json",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "partial-literal-evidence-source",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E10",
+        "E31"
+      ],
+      "limits": "Literal JSON stdout preserves all displayed fields except deliberately excluded evidence_sha256. Original JSON bytes and original Markdown body are unavailable."
+    },
+    {
+      "original_basename": "root-final-audit.md",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "partial-literal-evidence-source",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E10",
+        "E31"
+      ],
+      "limits": "Literal JSON stdout preserves all displayed fields except deliberately excluded evidence_sha256. Original JSON bytes and original Markdown body are unavailable."
+    },
+    {
+      "original_basename": "langtang-junction-audit.json",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "partial-literal-evidence-source",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E14",
+        "E31"
+      ],
+      "limits": "Literal JSON stdout preserves all displayed fields except deliberately excluded evidence_sha256. Original JSON bytes and original Markdown body are unavailable."
+    },
+    {
+      "original_basename": "langtang-junction-audit.md",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "partial-literal-evidence-source",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E14",
+        "E31"
+      ],
+      "limits": "Literal JSON stdout preserves all displayed fields except deliberately excluded evidence_sha256. Original JSON bytes and original Markdown body are unavailable."
+    },
+    {
+      "original_basename": "integration-final-audit.json",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "partial-literal-evidence-source",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E32",
+        "E33"
+      ],
+      "limits": "Literal initial and amendment sources survive. Dynamic fields require the missing historical 1,024-observation apparatus snapshot; running against current data would not recover the original report."
+    },
+    {
+      "original_basename": "integration-final-audit.md",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "partial-literal-evidence-source",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": false,
+      "recovered_content_path": null,
+      "evidence_ids": [
+        "E32",
+        "E33"
+      ],
+      "limits": "Literal initial and amendment sources survive. Dynamic fields require the missing historical 1,024-observation apparatus snapshot; running against current data would not recover the original report."
+    },
+    {
+      "original_basename": "w1er119-import-audit.json",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "complete-transcript-replay",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": true,
+      "recovered_content_path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/w1er119-import-audit.replayed.json",
+      "evidence_ids": [
+        "E09",
+        "E34",
+        "E35",
+        "E12"
+      ],
+      "limits": "Complete static JSON dictionary and Markdown text replayed from retained successful construction source. Original pre-loss output hashes unavailable; historical consistency findings are not fresh scan certification."
+    },
+    {
+      "original_basename": "w1er119-import-audit.md",
+      "original_absolute_path": null,
+      "original_location_note": "The source audit identifies this missing report by basename. It does not establish one authoritative absolute original location; task sources mention scratch and imported repository copies. No absolute path is inferred as fact.",
+      "recovery_category": "complete-transcript-replay",
+      "original_bytes_recovered": false,
+      "original_byte_identity_verified": false,
+      "complete_report_content_recovered": true,
+      "recovered_content_path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/w1er119-import-audit.replayed.md",
+      "evidence_ids": [
+        "E09",
+        "E34",
+        "E35",
+        "E12"
+      ],
+      "limits": "Complete static JSON dictionary and Markdown text replayed from retained successful construction source. Original pre-loss output hashes unavailable; historical consistency findings are not fresh scan certification."
+    }
+  ],
+  "source_routes": [
+    {
+      "route": "Original cloud workspace",
+      "identifier": "ccarenv_b64_Y2NhcmVudl82YTkxMmNjNDkzZTQ4MTkxYWI4YzExZGE2YjQzZmMyZg",
+      "path": "/workspace/scratch/a117ee885aff",
+      "status": "Unavailable in current environment context; original storage/snapshot recovery is not exposed through current tools.",
+      "needed": "Original filesystem/snapshot containing the missing reports, apparatus, and uncommitted evidence. Reusing the same path in a fresh runtime does not recover old bytes."
+    },
+    {
+      "route": "Retained original agent task records",
+      "status": "Exact source/output recovered through reactivated original tasks. Some prior text has been compacted and only summaries remain.",
+      "needed": "Any still-retained original tool input/output or full original task transcript. Do not fabricate missing report records from summaries."
+    },
+    {
+      "route": "Connected local project directories and linked conversation record",
+      "status": "Root reports the local main checkout is clean at afb5c51 and exact project searches found no additional missing report files. The saved read_thread response for the linked ChatGPT conversation contains only five recent user/final turns, not the original work logs.",
+      "needed": "A complete original report copy or original tool-history payload if one becomes available. These current local checks do not prove all historical cloud storage is gone."
+    },
+    {
+      "route": "Reachable Git history",
+      "status": "Original recovery audit found none of the 54 report basenames in reachable history. Current recovery branch now preserves transcript-derived material listed above.",
+      "needed": "A previously unavailable original commit/blob or branch containing the actual original reports. Existing replay blobs must not be mislabeled original filesystem recovery."
+    },
+    {
+      "route": "Outer-scratch split archive",
+      "manifest": "diplomatic/recovery/2026-09-27-preservation/archive.json",
+      "declared_parts": 85,
+      "present_verified_parts": 10,
+      "present_range": "scratch.tar.gz.part-000 through part-009",
+      "missing_range": "scratch.tar.gz.part-010 through part-084",
+      "missing_bytes": 157252187,
+      "archive_bytes": 178223707,
+      "archive_sha256": "9475b82b7dae79239437f22f5d7cc408bae699867d25eb5b9b8b582f5dea4cd3",
+      "status": "Incomplete; only the existing prefix has been salvaged. Manifest lists 169 raster files plus crop-map.json, map_crops.py, ch1-ewts.txt and tingkye-qc-read.txt; none of the 54 missing report bodies.",
+      "needed": "Original missing 75 archive parts to restore the complete outer-scratch archive. Even a complete archive would not, by its manifest, restore these 54 report bodies."
+    }
+  ]
+}

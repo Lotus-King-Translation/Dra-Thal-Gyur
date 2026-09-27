@@ -1,0 +1,27 @@
+import json,re,hashlib,collections
+from pathlib import Path
+from PIL import Image
+root=Path('/workspace/scratch/a117ee885aff'); p=root/'tingkye-late-continuation.json';d=json.loads(p.read_text())
+base={int(l[1:6]):l[7:].strip() for l in (root/'w1er119-base-ewts.txt').read_text().splitlines() if l.startswith('U')}
+fix={'U2352':("pheb pa'o","phebs pa'o"),'U2355':("nges bzung ba'o","nges par bzung ba'o"),'U2367':("yan lag 'phen zhing","yan lag 'phen opening darkened"),'U2371':("sems kyis blangs te lus kyis bya'o","sems kyis lus kyis bya'o"),'U2377':("rnal 'byor pa yi","rnal 'byor pa yis"),'U2387':("mtha' yi dbye","mtha' yis dbye"),'U2389':("sems sbyang bya","sems sbyang bya'o"),'U2397':("'di yi","'di'i"),'U2436':("brtse ba'i don de dris pa'i lan","brtse ba'i don dris pa'i lan"),'U2467':("sngon 'gro ba dang","sngon 'gro dang"),'U2473':("'phros khung","'phros khungs"),'U2487':("'gags pa ste","'gags pa'i dus"),'U2489':("spyod pa'i","spyod pa'o"),'U2527':("ces bya ba'i","ces bya ba"),'U2535':("chod pa'o","chod par 'gyur"),'U2546':("byugs pa'i mtha' yi","byug pa'i mtha' yis"),'U2605':("brtsam pa'i","brtsams pa'i"),'U2614':("gzugs 'dogs","gzugs gdags"),'U2616':("spro bsdu bstim 'khyil pas bya'o","spro bsdu bstim dang 'khyil bas bya'o"),'U2618':("mi 'byed","mi 'byed / mi 'jig uncertain")}
+evid=root/'tingkye-late-continuation-evidence';evid.mkdir(exist_ok=True);cache={}
+for f in d['findings']:
+ if f['unit'] in fix: f['base_discriminating_span_ewts'],f['witness_discriminating_span_ewts']=fix[f['unit']]
+ nums=re.findall(r'U0*(\d+)',f['unit']); f['base_full_units_ewts']={f'U{int(n):05d}':base.get(int(n),'') for n in nums}
+ rows=[int(x) for x in re.findall(r'\d+',str(f['row']))];lo=min(rows);hi=max(rows);n=f['pdf_page'];key=(n,lo,hi)
+ if key not in cache:
+  bounds=[550,max(0,230+(lo-1)*85),3900,min(1100,405+(hi-1)*85)]
+  q=evid/f'p{n:03d}-r{lo:02d}-{hi:02d}.png';Image.open(root/f'tingkye-late-continuation-crops/p{n:03d}.png').crop(bounds).save(q)
+  cache[key]={'path':str(q),'native_bounds':bounds,'sha256':hashlib.sha256(q.read_bytes()).hexdigest(),'note':'Native-pixel stripe may include part of adjacent rows. Finding source row controls; no interpolation.'}
+ f['evidence_crop']=cache[key]
+d['evidence_policy']='General coverage cites PDF SHA-256, page identity, extracted-image hashes and overlapping native bounds; targeted findings have native row-stripe crops. Full page copies are working intermediates.'
+p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')
+counts=collections.Counter(f['confidence'] for f in d['findings'])
+lines=['# Tingkye Chapter 1 continuation — bounded lexical comparison','','Source: `'+d['source_pdf']+'`.', 'PDF SHA-256: `'+d['pdf_sha256']+'`.','','PDF40–69 (printed425–454; BDRC433–462), U1485 final **kyang** through U2635 chapter-one colophon at PDF69 row4 left. All seven main rows of PDF40–68, then Chapter1 portion of rows1–4 on PDF69: 207 row/partial-row traversals. This was a sequential **guided lexical comparison** against corrected Adzom, including restored insertions, using three overlapping native crops per page. It is not an independently produced full transcript or an exhaustive glyph, punctuation, or marginal-note collation.','','Unknown words/suffixes remain unknown; unlisted loci are not a positive agreement certificate. Local missing-verse observations do not establish global absence or rule out displacement elsewhere. Small marginal/interlinear marks were not comprehensively read.','','Findings: '+str(len(d['findings']))+f" ({counts['high']} high-confidence, {counts['moderate']} moderate, {counts['uncertain']} unresolved). The JSON gives exact source rows, native bounds, hashes and evidence files. No source file or repository file was changed.",'','The earlier PDF39 row2 junction was independently inspected: U1441 → U1453 → U1455. U1442–1452 are absent at that local main junction; U1453 is present. The parent separately inspected PDF46 U1744, PDF52 U1996–1997 and PDF53 U2004 junctions; those checks remain guided second inspections.','','Restorations located: S02 (PDF49 row7), S03 (PDF53 rows1–2), S04 (PDF57 row7 / PDF58 row1), and S05/S07 (PDF61 row2). S06 is absent at the local main junction. No attempt is made here to settle the unresolved Adzom S09 annotation.','','## Page coverage','','| PDF | Start | End | Notes |','|---:|---|---|---|']
+for pg in d['pages']: lines.append(f"| {pg['pdf_page']} | {pg['start']} | {pg['end']} | {pg.get('notes','')} |")
+lines+=['','## Findings and bounded uncertainties','','| ID | PDF / row | Unit | Corrected Adzom span | Tingkye observation | Confidence | Notes |','|---|---|---|---|---|---|---|']
+for f in d['findings']:
+ vals=[f['id'],f"{f['pdf_page']} / {f['row']}",f['unit'],f['base_discriminating_span_ewts'],f['witness_discriminating_span_ewts'],f['confidence'],f.get('note','')+' '+f.get('guided_second_inspection','')]
+ lines.append('| '+' | '.join(str(v).replace('|','\\|').replace('\n',' ') for v in vals)+' |')
+(root/'tingkye-late-continuation.md').write_text('\n'.join(lines)+'\n')
+print({'pages':len(d['pages']),'findings':len(d['findings']),'evidence_stripes':len(cache),'confidence':dict(counts)})
