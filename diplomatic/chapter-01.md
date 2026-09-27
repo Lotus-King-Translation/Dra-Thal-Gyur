@@ -9283,7 +9283,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02308"></a>
 
-**U02308** སྡོམ་པ་ལུས་དང་ངག་ཏུ་འདུས། ། [A2000-C01-S05](#a2000-c01-s05) [A2000-C01-S06](#a2000-c01-s06) [A2000-C01-S07](#a2000-c01-s07) [L1-0155](#l1-0155) [DZ-LATE-22](#dz-late-22)
+**U02308** སྡོམ་པ་ལུས་དང་ངག་ཏུ་འདུས། ། [A2000-C01-S05](#a2000-c01-s05) [A2000-C01-S06](#a2000-c01-s06) [A2000-C01-S07](#a2000-c01-s07) [L1-0155](#l1-0155) [DZ-LATE-22](#dz-late-22) [TH-CONT-20260927-S07](#th-cont-20260927-s07)
 
 **Restored main text — [A2000-C01-S05](#a2000-c01-s05)**
 
@@ -9299,7 +9299,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02309"></a>
 
-**U02309** ཚིག་བརྗོད་གྲུབ་མཐའི་རྣམ་གྲངས་ཀྱིས། ། [W-C01-232](reviews/chapter-01/wikisource.md#w-c01-232)
+**U02309** ཚིག་བརྗོད་གྲུབ་མཐའི་རྣམ་གྲངས་ཀྱིས། ། [TH-CONT-20260927-S07](#th-cont-20260927-s07) [W-C01-232](reviews/chapter-01/wikisource.md#w-c01-232)
 
 <a id="u02310"></a>
 
@@ -14260,6 +14260,26 @@ Units: [U02187](#u02187), [U02188](#u02188).
 **Choice and reason:** Record the second-line corroboration only. Retain the governing Adzom restoration and existing uncertainty for unread Tharpaling letters.
 
 **Evidence:** [p059.png](evidence/chapter-01/recovered-tharpaling/p059.png), [p059-L.png](evidence/chapter-01/recovered-tharpaling/p059-L.png). [Review and coverage](reviews/chapter-01/tharpaling-continuation-review-20260927.md).
+
+<a id="th-cont-20260927-s07"></a>
+
+### TH-CONT-20260927-S07 — Tharpaling 1983 W27491
+
+Units: [U02308](#u02308), [U02309](#u02309).
+
+**Current Adzom main context:** སྡོམ་པ་ལུས་དང་ངག་ཏུ་འདུས། ། / [A2000-C01-S05](#a2000-c01-s05) རྡོ་རྗེ་གསང་བའི་གནས་གཟུང་བྱའོ། / [A2000-C01-S06](#a2000-c01-s06) དྲིས་ལན་ང་བདུན་པ། / [A2000-C01-S07](#a2000-c01-s07) ཡང་ནི་ལྷ་དབང་དགའ་བྱེད་ཉོན། / ཚིག་བརྗོད་གྲུབ་མཐའི་རྣམ་གྲངས་ཀྱིས། །
+
+**Comparison reading/snippet:** ཡང་ནི་ལྷ་དབང་དགའ་བྱེད་ཉོན
+
+**Status:** supported_partial_restoration_observation. **Confidence:** moderate for the latter main phrase; preceding main verse and small heading remain unresolved.
+
+**Locator:** PDF63 / BDRC image67 / row1; p063-restored-verses-heading.png latter main phrase, box [1110,0,1800,186] in that existing enlarged crop.
+
+**Observation:** The enlarged strip visibly preserves yang ni lha dbang dga byed nyon as a connected main-text sequence after the small heading. The first restored verse has visible broken glyph components and the heading is small; neither receives all-character agreement from this review.
+
+**Choice and reason:** Record bounded corroboration of S07; preserve Adzom restoration and uncertainty for S05/S06. Do not infer continuous witness agreement.
+
+**Evidence:** [p063.png](evidence/chapter-01/recovered-tharpaling/p063.png), [p063-L.png](evidence/chapter-01/recovered-tharpaling/p063-L.png), [p063-restored-verses-heading.png](evidence/chapter-01/extension/tharpaling-continuation/p063-restored-verses-heading.png). [Review and coverage](reviews/chapter-01/tharpaling-continuation-review-20260927.md).
 
 ## A/B/S transcript apparatus
 
