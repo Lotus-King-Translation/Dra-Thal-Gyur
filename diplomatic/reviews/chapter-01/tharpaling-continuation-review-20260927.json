@@ -4,9 +4,9 @@
   "date": "2026-09-27",
   "source": "editions/tharpaling-1983/sgra-thal-gyur.pdf",
   "source_sha256": "db895ffc9850a728e25add92491341039547f999fff80d7e73e9521ada10b550",
-  "repository_head_at_save": "fda5adff332c182ee77cf375011318f18dcfe62c",
-  "method": "Direct inspection of all six main rows in native full-page images and existing enlarged L/R crops for PDF57–66. P57–60 and p64 also viewed with reversible RGB polarity inversion; p61 viewed in source polarity and inverse. Page63 restored-verse strip additionally inspected. No OCR, reconstructed letters, denoising, sharpening, or model-generated imagery. Original full-page pixels equal archived acquisition PNGs. Expected A readings were known; not a blind review.",
-  "batch_state": "second_five_pages_saved_waiting_for_remote_checkpoint",
+  "repository_head_at_save": "cf91f9d2a5daefbced5a3f3d5230c8516bf8b742",
+  "method": "Direct inspection of all six main rows in native full-page images and existing enlarged L/R crops for PDF57–71; page71 rows after Chapter1 closure provide boundary context only. P57–60 and p64 also viewed with reversible RGB polarity inversion; p61 viewed in source polarity and inverse. Page63 restored-verse strip and page71 colophon/next-incipit strips additionally inspected. No OCR, reconstructed letters, denoising, sharpening, or model-generated imagery. Original full-page pixels equal archived acquisition PNGs. Expected A readings were known; not a blind review.",
+  "batch_state": "final_five_pages_saved_waiting_for_remote_checkpoint",
   "reviewed_pdf_pages": [
     57,
     58,
@@ -17,7 +17,12 @@
     63,
     64,
     65,
-    66
+    66,
+    67,
+    68,
+    69,
+    70,
+    71
   ],
   "additional_bounded_inspection": "PDF56 rightmost final-row phrase only, to check prior endpoint discrepancy. Other displayed p56 rows are not counted as new page coverage.",
   "pages": [
@@ -864,6 +869,447 @@
         454
       ],
       "original_pixels_match_archived_png": true
+    },
+    {
+      "pdf_page": 67,
+      "bdrc_image": 71,
+      "main_rows_visually_inspected": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "visually_inspected": true,
+      "fully_collated": false,
+      "all_variants_enumerated": false,
+      "navigation_note": "No whole-page U-anchor bounds certified. Use only separately recorded local observations for textual alignment.",
+      "unresolved_glyph_regions": [
+        {
+          "rows": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "box_xyxy": [
+            300,
+            50,
+            1930,
+            575
+          ],
+          "issue": "Frequent merged ink masses in medial phrase groups; several roots, prefixes and suffixes not independently discriminated.",
+          "coordinates_reference": "diplomatic/evidence/chapter-01/recovered-tharpaling/p067-L.png",
+          "coordinate_convention": "zero-based half-open pixels in the existing enlarged crop, not native full-page coordinates",
+          "scope_qualification": "Examples of unresolved regions, not a claim that every remaining glyph is certified."
+        },
+        {
+          "rows": [
+            6
+          ],
+          "box_xyxy": [
+            200,
+            475,
+            550,
+            575
+          ],
+          "issue": "Small heading at lower left remains incomplete for this reader.",
+          "coordinates_reference": "diplomatic/evidence/chapter-01/recovered-tharpaling/p067-L.png",
+          "coordinate_convention": "zero-based half-open pixels in the existing enlarged crop, not native full-page coordinates",
+          "scope_qualification": "Examples of unresolved regions, not a claim that every remaining glyph is certified."
+        },
+        {
+          "rows": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "box_xyxy": [
+            150,
+            45,
+            1400,
+            570
+          ],
+          "issue": "Granular losses and heavy touching stacks recur across right-side groups; no continuous exact transcription obtained.",
+          "coordinates_reference": "diplomatic/evidence/chapter-01/recovered-tharpaling/p067-R.png",
+          "coordinate_convention": "zero-based half-open pixels in the existing enlarged crop, not native full-page coordinates",
+          "scope_qualification": "Examples of unresolved regions, not a claim that every remaining glyph is certified."
+        }
+      ],
+      "source_quality": "Visible fade, broken strokes and/or overinking as specified; this report does not label the entire page illegible.",
+      "reader_capability": "The reviewer could follow some phrases but could not independently discriminate every glyph. Recognition of expected wording is not agreement evidence.",
+      "evidence_files": {
+        "": "diplomatic/evidence/chapter-01/recovered-tharpaling/p067.png",
+        "-L": "diplomatic/evidence/chapter-01/recovered-tharpaling/p067-L.png",
+        "-R": "diplomatic/evidence/chapter-01/recovered-tharpaling/p067-R.png"
+      },
+      "evidence_sha256": {
+        "": "fb5dde569a311be333b9d5daaf3c2c8a844110fd832ef2c41de3963931532028",
+        "-L": "276ff4cf80d7a1e2627891a7f281acb9584c6de8d547928627b0ffb654701d56",
+        "-R": "60eb44db44b30a1333bcfa1c4f57155eb6dd5560659c09255b260fe4beb9b5ac"
+      },
+      "archive_member": "0071.png",
+      "original_png_sha256": "606a719ac7ff8b6b69a3223a5ea211a7606d237e9ff10ae22de17acdc7777d46",
+      "native_dimensions": [
+        2198,
+        454
+      ],
+      "original_pixels_match_archived_png": true
+    },
+    {
+      "pdf_page": 68,
+      "bdrc_image": 72,
+      "main_rows_visually_inspected": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "visually_inspected": true,
+      "fully_collated": false,
+      "all_variants_enumerated": false,
+      "navigation_note": "No whole-page U-anchor bounds certified. Use only separately recorded local observations for textual alignment.",
+      "unresolved_glyph_regions": [
+        {
+          "rows": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "box_xyxy": [
+            150,
+            75,
+            1850,
+            590
+          ],
+          "issue": "Touching stacks mixed with fine-component dropout; especially dense at row1 middle and row4 right-middle.",
+          "coordinates_reference": "diplomatic/evidence/chapter-01/recovered-tharpaling/p068-L.png",
+          "coordinate_convention": "zero-based half-open pixels in the existing enlarged crop, not native full-page coordinates",
+          "scope_qualification": "Examples of unresolved regions, not a claim that every remaining glyph is certified."
+        },
+        {
+          "rows": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "box_xyxy": [
+            520,
+            40,
+            1380,
+            575
+          ],
+          "issue": "Broken small strokes and overinked groups across upper and lower right portions; all syllable components not secure.",
+          "coordinates_reference": "diplomatic/evidence/chapter-01/recovered-tharpaling/p068-R.png",
+          "coordinate_convention": "zero-based half-open pixels in the existing enlarged crop, not native full-page coordinates",
+          "scope_qualification": "Examples of unresolved regions, not a claim that every remaining glyph is certified."
+        }
+      ],
+      "source_quality": "Visible fade, broken strokes and/or overinking as specified; this report does not label the entire page illegible.",
+      "reader_capability": "The reviewer could follow some phrases but could not independently discriminate every glyph. Recognition of expected wording is not agreement evidence.",
+      "evidence_files": {
+        "": "diplomatic/evidence/chapter-01/recovered-tharpaling/p068.png",
+        "-L": "diplomatic/evidence/chapter-01/recovered-tharpaling/p068-L.png",
+        "-R": "diplomatic/evidence/chapter-01/recovered-tharpaling/p068-R.png"
+      },
+      "evidence_sha256": {
+        "": "b6f2002bb38bd1fc7c1e417862e2b69bd3493fe1444602e3d62ffb525bccc48f",
+        "-L": "5029601f3298d2b9a1ab7b67f36cf7d3f28c787a863c03f18ffa42ac940ed0d2",
+        "-R": "d27ee7f647552a9e6d779ce2d3651f340c17a44d30305892d40f6f8c24cea432"
+      },
+      "archive_member": "0072.png",
+      "original_png_sha256": "787692dc3eaedbde767e64143824c0c1e3bbc7ddb7d8b25ab1cd38ba394291e2",
+      "native_dimensions": [
+        2198,
+        454
+      ],
+      "original_pixels_match_archived_png": true
+    },
+    {
+      "pdf_page": 69,
+      "bdrc_image": 73,
+      "main_rows_visually_inspected": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "visually_inspected": true,
+      "fully_collated": false,
+      "all_variants_enumerated": false,
+      "navigation_note": "No whole-page U-anchor bounds certified. Use only separately recorded local observations for textual alignment.",
+      "unresolved_glyph_regions": [
+        {
+          "rows": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "box_xyxy": [
+            700,
+            40,
+            1900,
+            465
+          ],
+          "issue": "Pale broken medial strokes across several phrase groups; particularly fragmented row1 middle and row4 toward right.",
+          "coordinates_reference": "diplomatic/evidence/chapter-01/recovered-tharpaling/p069-L.png",
+          "coordinate_convention": "zero-based half-open pixels in the existing enlarged crop, not native full-page coordinates",
+          "scope_qualification": "Examples of unresolved regions, not a claim that every remaining glyph is certified."
+        },
+        {
+          "rows": [
+            5
+          ],
+          "box_xyxy": [
+            530,
+            345,
+            710,
+            455
+          ],
+          "issue": "Solid dark blot occludes a local glyph cluster in row5; letters underneath are not reconstructed.",
+          "coordinates_reference": "diplomatic/evidence/chapter-01/recovered-tharpaling/p069-R.png",
+          "coordinate_convention": "zero-based half-open pixels in the existing enlarged crop, not native full-page coordinates",
+          "scope_qualification": "Examples of unresolved regions, not a claim that every remaining glyph is certified."
+        },
+        {
+          "rows": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "box_xyxy": [
+            150,
+            20,
+            1370,
+            555
+          ],
+          "issue": "Other intermittent losses and touching strokes through right-side groups; complete rows remain unresolved.",
+          "coordinates_reference": "diplomatic/evidence/chapter-01/recovered-tharpaling/p069-R.png",
+          "coordinate_convention": "zero-based half-open pixels in the existing enlarged crop, not native full-page coordinates",
+          "scope_qualification": "Examples of unresolved regions, not a claim that every remaining glyph is certified."
+        }
+      ],
+      "source_quality": "Visible fade, broken strokes and/or overinking as specified; this report does not label the entire page illegible.",
+      "reader_capability": "The reviewer could follow some phrases but could not independently discriminate every glyph. Recognition of expected wording is not agreement evidence.",
+      "evidence_files": {
+        "": "diplomatic/evidence/chapter-01/recovered-tharpaling/p069.png",
+        "-L": "diplomatic/evidence/chapter-01/recovered-tharpaling/p069-L.png",
+        "-R": "diplomatic/evidence/chapter-01/recovered-tharpaling/p069-R.png"
+      },
+      "evidence_sha256": {
+        "": "c0698ff60fee88e27fb1edff131a33c58c99a9b5dd81ea9a08347d6341d05fa8",
+        "-L": "0491b29274194f3c315130bdd84d5d0997e9ae55f63206312a7296ff15337c2e",
+        "-R": "faaf7b055fee2756e36467593e6988279887749b8c0bc884c29902f57e31df28"
+      },
+      "archive_member": "0073.png",
+      "original_png_sha256": "f8698ac67f1f8dcaec984d1f7662a8a074247bbffed423f4726cc0f658f59f50",
+      "native_dimensions": [
+        2198,
+        454
+      ],
+      "original_pixels_match_archived_png": true
+    },
+    {
+      "pdf_page": 70,
+      "bdrc_image": 74,
+      "main_rows_visually_inspected": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "visually_inspected": true,
+      "fully_collated": false,
+      "all_variants_enumerated": false,
+      "navigation_note": "No whole-page U-anchor bounds certified. Use only separately recorded local observations for textual alignment.",
+      "unresolved_glyph_regions": [
+        {
+          "rows": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "box_xyxy": [
+            0,
+            65,
+            1150,
+            590
+          ],
+          "issue": "Broken small strokes and merged letters recur in left/medial groups; row5 middle strongly speckled.",
+          "coordinates_reference": "diplomatic/evidence/chapter-01/recovered-tharpaling/p070-L.png",
+          "coordinate_convention": "zero-based half-open pixels in the existing enlarged crop, not native full-page coordinates",
+          "scope_qualification": "Examples of unresolved regions, not a claim that every remaining glyph is certified."
+        },
+        {
+          "rows": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "box_xyxy": [
+            400,
+            60,
+            1360,
+            620
+          ],
+          "issue": "Upper right endings, small headings and medial groups remain partly fragmentary. Lower rows contain clearer sequences but not complete certified readings.",
+          "coordinates_reference": "diplomatic/evidence/chapter-01/recovered-tharpaling/p070-R.png",
+          "coordinate_convention": "zero-based half-open pixels in the existing enlarged crop, not native full-page coordinates",
+          "scope_qualification": "Examples of unresolved regions, not a claim that every remaining glyph is certified."
+        }
+      ],
+      "source_quality": "Visible fade, broken strokes and/or overinking as specified; this report does not label the entire page illegible.",
+      "reader_capability": "The reviewer could follow some phrases but could not independently discriminate every glyph. Recognition of expected wording is not agreement evidence.",
+      "evidence_files": {
+        "": "diplomatic/evidence/chapter-01/recovered-tharpaling/p070.png",
+        "-L": "diplomatic/evidence/chapter-01/recovered-tharpaling/p070-L.png",
+        "-R": "diplomatic/evidence/chapter-01/recovered-tharpaling/p070-R.png"
+      },
+      "evidence_sha256": {
+        "": "c2b1f14c5e3cd0eec54c5e0065e76553f52c8fee34c9c01bb3d32a57a2fadade",
+        "-L": "e5a02ae7d95de57383f7805c19c78195e937336f4673a02989b7ee5ba4d815bf",
+        "-R": "5ed82ade5e410a721b17686b9eb17e90cf4cf98ef20c6acd80af90b5bf1858f4"
+      },
+      "archive_member": "0074.png",
+      "original_png_sha256": "f3402793b064ed0857ad01973ee1a25c4948047be2e2da0b2660f876406fb521",
+      "native_dimensions": [
+        2198,
+        454
+      ],
+      "original_pixels_match_archived_png": true
+    },
+    {
+      "pdf_page": 71,
+      "bdrc_image": 75,
+      "main_rows_visually_inspected": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "visually_inspected": true,
+      "fully_collated": false,
+      "all_variants_enumerated": false,
+      "navigation_note": "No whole-page U-anchor bounds certified. Use only separately recorded local observations for textual alignment.",
+      "unresolved_glyph_regions": [
+        {
+          "rows": [
+            1,
+            2
+          ],
+          "box_xyxy": [
+            1350,
+            75,
+            1950,
+            260
+          ],
+          "issue": "Broad dropout toward upper-row middle/right removes much of several syllable groups; no reconstruction from reference text.",
+          "coordinates_reference": "diplomatic/evidence/chapter-01/recovered-tharpaling/p071-L.png",
+          "coordinate_convention": "zero-based half-open pixels in the existing enlarged crop, not native full-page coordinates",
+          "scope_qualification": "Examples of unresolved regions, not a claim that every remaining glyph is certified."
+        },
+        {
+          "rows": [
+            1,
+            2
+          ],
+          "box_xyxy": [
+            250,
+            70,
+            1290,
+            260
+          ],
+          "issue": "Thin and partly missing strokes across upper right phrases and a small note/heading at row2 end; exact wording unresolved.",
+          "coordinates_reference": "diplomatic/evidence/chapter-01/recovered-tharpaling/p071-R.png",
+          "coordinate_convention": "zero-based half-open pixels in the existing enlarged crop, not native full-page coordinates",
+          "scope_qualification": "Examples of unresolved regions, not a claim that every remaining glyph is certified."
+        },
+        {
+          "rows": [
+            3,
+            4
+          ],
+          "box_xyxy": [
+            700,
+            275,
+            1400,
+            430
+          ],
+          "issue": "Some touching letter groups in lower-left/medial text remain beyond this reviewer; no all-character agreement.",
+          "coordinates_reference": "diplomatic/evidence/chapter-01/recovered-tharpaling/p071-L.png",
+          "coordinate_convention": "zero-based half-open pixels in the existing enlarged crop, not native full-page coordinates",
+          "scope_qualification": "Examples of unresolved regions, not a claim that every remaining glyph is certified."
+        },
+        {
+          "rows": [
+            3,
+            4
+          ],
+          "box_xyxy": [
+            500,
+            260,
+            1300,
+            435
+          ],
+          "issue": "Remaining broken strokes toward row3/4 right; exact ending letters not fully discriminated.",
+          "coordinates_reference": "diplomatic/evidence/chapter-01/recovered-tharpaling/p071-R.png",
+          "coordinate_convention": "zero-based half-open pixels in the existing enlarged crop, not native full-page coordinates",
+          "scope_qualification": "Examples of unresolved regions, not a claim that every remaining glyph is certified."
+        }
+      ],
+      "source_quality": "Visible fade, broken strokes and/or overinking as specified; this report does not label the entire page illegible.",
+      "reader_capability": "The reviewer could follow some phrases but could not independently discriminate every glyph. Recognition of expected wording is not agreement evidence.",
+      "evidence_files": {
+        "": "diplomatic/evidence/chapter-01/recovered-tharpaling/p071.png",
+        "-L": "diplomatic/evidence/chapter-01/recovered-tharpaling/p071-L.png",
+        "-R": "diplomatic/evidence/chapter-01/recovered-tharpaling/p071-R.png"
+      },
+      "evidence_sha256": {
+        "": "dc62ecf8926d1a59e99392ef519cf485469d1b8a4659c9581911c97073c40ea9",
+        "-L": "2ed4a8b9c71e9577cc8d69c1b356dbc760145fe9d25c6f42192032c5ef40a4bb",
+        "-R": "a466b05507447abc9b394f6a0514ba4da3133ca1c137850ee7451f97b190e033"
+      },
+      "archive_member": "0075.png",
+      "original_png_sha256": "5c6f67fdc7dd65e54243a0ea43491eb249dc7ca49d77ee96a2d372dd3343f774",
+      "native_dimensions": [
+        2198,
+        454
+      ],
+      "original_pixels_match_archived_png": true,
+      "chapter_01_scope": "Rows1–4 and row5 through its colophon. Row5 right continuation and row6 were displayed and visually traversed for boundary context only; they are Chapter2, not a completed Chapter2 review.",
+      "confirmed_chapter_end_anchor": "U02635",
+      "confirmed_chapter_end_locator": "PDF71 / BDRC I4448 image75 / row5; closing colophon native crop [490,277,1205,329]"
     }
   ],
   "loci": [
@@ -936,19 +1382,44 @@
         "evidence/chapter-01/extension/tharpaling-continuation/p063-restored-verses-heading.png"
       ],
       "review": "reviews/chapter-01/tharpaling-continuation-review-20260927.md"
+    },
+    {
+      "id": "TH-CONT-20260927-CHAPTER-END",
+      "witness": "Tharpaling 1983 W27491",
+      "units": [
+        "U02635",
+        "U02636"
+      ],
+      "base_snippet_at_review": "U02635 closing colophon; U02636 next chapter incipit.",
+      "comparison_reading": null,
+      "comparison_context": "Physical chapter closing colophon on row5, followed by a blank interval, intervening signs/text and the next incipit farther right.",
+      "status": "chapter_boundary_reconfirmed",
+      "confidence": "high for physical boundary; complete colophon spelling and exact punctuation not newly certified",
+      "locator": "PDF71 / BDRC I4448 image75 / main row5. Native colophon crop [490,277,1205,329]; see separate next-incipit crop.",
+      "rationale": "The separately inspected colophon strip has a clear closing leu ste dang poo ending; the next-incpit strip begins de nas lha dbang and continues beyond the boundary. This confirms the physical location reported in tharpaling-collation.md, not full-page agreement. No guessed page-start anchor or complete lexical colophon transcription is introduced.",
+      "decision": "Retain U02635 as Chapter1 endpoint, excluding Chapter2 continuation from Chapter1 coverage. Keep all unresolved preceding glyph groups explicit.",
+      "evidence": [
+        "evidence/chapter-01/recovered-tharpaling/p071.png",
+        "evidence/chapter-01/recovered-tharpaling/p071-L.png",
+        "evidence/chapter-01/recovered-tharpaling/p071-R.png",
+        "evidence/chapter-01/tharpaling/crops/p071-colophon-precise.png",
+        "evidence/chapter-01/tharpaling/crops/p071-next-incipit.png"
+      ],
+      "review": "reviews/chapter-01/tharpaling-continuation-review-20260927.md",
+      "prior_observation": "reviews/chapter-01/tharpaling-collation.md physical chapter boundary"
     }
   ],
   "candidate_loci_file": "diplomatic/reviews/chapter-01/tharpaling-continuation-review-20260927.loci.json",
   "not_completed": [
-    "Continuous exact collation and all-variant enumeration for pages57–66",
+    "Continuous exact collation and all-variant enumeration for pages57–71 through Chapter1 endpoint",
     "Exact punctuation, small annotations and every root/suffix distinction",
-    "Pages67–71 not visually inspected in these two batches",
+    "No Chapter2 collation: page71 right row5 and row6 observed only as boundary context",
     "No changes to Adzom base or canonical coverage files"
   ],
   "summary": {
-    "visually_inspected_pages": 10,
+    "visually_inspected_pages": 15,
     "fully_collated_pages": 0,
-    "candidate_local_observations": 3,
+    "candidate_local_observations": 4,
     "chapter_completion_gate_passed": false
   },
   "input_hashes": {
@@ -962,6 +1433,17 @@
   "additional_evidence_sha256": {
     "evidence/chapter-01/recovered-tharpaling/p063.png": "193a4c7cab83088cd8f7ab39c21fe174e9c01bd400e6562709f0aea9e2686f08",
     "evidence/chapter-01/recovered-tharpaling/p063-L.png": "71444400a6cad60b40ee73ccf90d4934578ab11ef3dbd9155df31b603a29fda6",
-    "evidence/chapter-01/extension/tharpaling-continuation/p063-restored-verses-heading.png": "be7ba031ea4f2803a62ea7e7ac36f31f0eaef0af804058af2a6db4f73eac2dd3"
-  }
+    "evidence/chapter-01/extension/tharpaling-continuation/p063-restored-verses-heading.png": "be7ba031ea4f2803a62ea7e7ac36f31f0eaef0af804058af2a6db4f73eac2dd3",
+    "evidence/chapter-01/recovered-tharpaling/p071.png": "dc62ecf8926d1a59e99392ef519cf485469d1b8a4659c9581911c97073c40ea9",
+    "evidence/chapter-01/recovered-tharpaling/p071-L.png": "2ed4a8b9c71e9577cc8d69c1b356dbc760145fe9d25c6f42192032c5ef40a4bb",
+    "evidence/chapter-01/recovered-tharpaling/p071-R.png": "a466b05507447abc9b394f6a0514ba4da3133ca1c137850ee7451f97b190e033",
+    "evidence/chapter-01/tharpaling/crops/p071-colophon-precise.png": "848d534ee22303dd7b65b76d5911fc7fb5ef42a482581faeec350e4b13706a83",
+    "evidence/chapter-01/tharpaling/crops/p071-next-incipit.png": "465b22cd3487b56bce387b495e69bebdd4a5d248a4184917e9e0e0219bc5900e"
+  },
+  "remaining_capacity_limits": [
+    "This reviewer cannot independently discriminate every root, prefix, suffix, superscript and subscript in the existing low-resolution, partly fused or broken images. This is a reader limitation, not proof that another reader cannot resolve them.",
+    "Polarity inversion and existing enlargements change visibility but add no lost spatial information. Some local pixels visibly omit strokes or obscure them with solid ink; expected Tibetan must not be substituted.",
+    "No clean text or OCR alignment was used as glyph proof; no blanket equivalence or exhaustive variant enumeration is supported.",
+    "A second competent Tibetan scan reader, improved source imaging where available, and exact glyph-level comparison remain necessary for the unresolved regions and complete Chapter1 certification."
+  ]
 }

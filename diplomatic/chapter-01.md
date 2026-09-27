@@ -10603,7 +10603,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02635"></a>
 
-**U02635** སྣ་ཚོགས་བཀོད་པ་རང་བྱུང་མན་ངག་གི་རྩ་་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་དང་པོའོ།། [A2000-C01-S09](#a2000-c01-s09) [L1-0183](#l1-0183) [TS-CH1-B001](#ts-ch1-b001) [DZ-LATE-29](#dz-late-29)
+**U02635** སྣ་ཚོགས་བཀོད་པ་རང་བྱུང་མན་ངག་གི་རྩ་་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་དང་པོའོ།། [A2000-C01-S09](#a2000-c01-s09) [L1-0183](#l1-0183) [TS-CH1-B001](#ts-ch1-b001) [DZ-LATE-29](#dz-late-29) [TH-CONT-20260927-CHAPTER-END](#th-cont-20260927-chapter-end)
 
 **Scan-only inscription — unread — [A2000-C01-S09](#a2000-c01-s09)**
 
@@ -14280,6 +14280,26 @@ Units: [U02308](#u02308), [U02309](#u02309).
 **Choice and reason:** Record bounded corroboration of S07; preserve Adzom restoration and uncertainty for S05/S06. Do not infer continuous witness agreement.
 
 **Evidence:** [p063.png](evidence/chapter-01/recovered-tharpaling/p063.png), [p063-L.png](evidence/chapter-01/recovered-tharpaling/p063-L.png), [p063-restored-verses-heading.png](evidence/chapter-01/extension/tharpaling-continuation/p063-restored-verses-heading.png). [Review and coverage](reviews/chapter-01/tharpaling-continuation-review-20260927.md).
+
+<a id="th-cont-20260927-chapter-end"></a>
+
+### TH-CONT-20260927-CHAPTER-END — Tharpaling 1983 W27491
+
+Units: [U02635](#u02635).
+
+**Current Adzom main context:** སྣ་ཚོགས་བཀོད་པ་རང་བྱུང་མན་ངག་གི་རྩ་་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་དང་པོའོ།།
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** chapter_boundary_reconfirmed. **Confidence:** high for physical boundary; complete colophon spelling and exact punctuation not newly certified.
+
+**Locator:** PDF71 / BDRC I4448 image75 / main row5. Native colophon crop [490,277,1205,329]; see separate next-incipit crop..
+
+**Observation:** The separately inspected colophon strip has a clear closing leu ste dang poo ending; the next-incpit strip begins de nas lha dbang and continues beyond the boundary. This confirms the physical location reported in tharpaling-collation.md, not full-page agreement. No guessed page-start anchor or complete lexical colophon transcription is introduced.
+
+**Choice and reason:** Retain U02635 as Chapter1 endpoint, excluding Chapter2 continuation from Chapter1 coverage. Keep all unresolved preceding glyph groups explicit.
+
+**Evidence:** [p071.png](evidence/chapter-01/recovered-tharpaling/p071.png), [p071-L.png](evidence/chapter-01/recovered-tharpaling/p071-L.png), [p071-R.png](evidence/chapter-01/recovered-tharpaling/p071-R.png), [p071-colophon-precise.png](evidence/chapter-01/tharpaling/crops/p071-colophon-precise.png), [p071-next-incipit.png](evidence/chapter-01/tharpaling/crops/p071-next-incipit.png). [Review and coverage](reviews/chapter-01/tharpaling-continuation-review-20260927.md).
 
 ## A/B/S transcript apparatus
 

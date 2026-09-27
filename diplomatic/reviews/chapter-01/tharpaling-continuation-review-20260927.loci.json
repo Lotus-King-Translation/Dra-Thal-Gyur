@@ -68,5 +68,30 @@
       "evidence/chapter-01/extension/tharpaling-continuation/p063-restored-verses-heading.png"
     ],
     "review": "reviews/chapter-01/tharpaling-continuation-review-20260927.md"
+  },
+  {
+    "id": "TH-CONT-20260927-CHAPTER-END",
+    "witness": "Tharpaling 1983 W27491",
+    "units": [
+      "U02635",
+      "U02636"
+    ],
+    "base_snippet_at_review": "U02635 closing colophon; U02636 next chapter incipit.",
+    "comparison_reading": null,
+    "comparison_context": "Physical chapter closing colophon on row5, followed by a blank interval, intervening signs/text and the next incipit farther right.",
+    "status": "chapter_boundary_reconfirmed",
+    "confidence": "high for physical boundary; complete colophon spelling and exact punctuation not newly certified",
+    "locator": "PDF71 / BDRC I4448 image75 / main row5. Native colophon crop [490,277,1205,329]; see separate next-incipit crop.",
+    "rationale": "The separately inspected colophon strip has a clear closing leu ste dang poo ending; the next-incpit strip begins de nas lha dbang and continues beyond the boundary. This confirms the physical location reported in tharpaling-collation.md, not full-page agreement. No guessed page-start anchor or complete lexical colophon transcription is introduced.",
+    "decision": "Retain U02635 as Chapter1 endpoint, excluding Chapter2 continuation from Chapter1 coverage. Keep all unresolved preceding glyph groups explicit.",
+    "evidence": [
+      "evidence/chapter-01/recovered-tharpaling/p071.png",
+      "evidence/chapter-01/recovered-tharpaling/p071-L.png",
+      "evidence/chapter-01/recovered-tharpaling/p071-R.png",
+      "evidence/chapter-01/tharpaling/crops/p071-colophon-precise.png",
+      "evidence/chapter-01/tharpaling/crops/p071-next-incipit.png"
+    ],
+    "review": "reviews/chapter-01/tharpaling-continuation-review-20260927.md",
+    "prior_observation": "reviews/chapter-01/tharpaling-collation.md physical chapter boundary"
   }
 ]
