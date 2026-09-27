@@ -1,5 +1,7 @@
 # Dra Thal Gyur — diplomatic edition in progress
 
+**Workspace interruption, 2026-09-27:** Later evidence and restart notes are preserved in the [recovery checkpoint](recovery/2026-09-27.md). The newer annotated chapter and reports still need integration from the disconnected workspace; the chapter and validation linked below remain the preceding checkpoint.
+
 **Chapter 1 is under collation. No chapter is yet certified complete.** This directory is the working dossier for the requested single annotated diplomatic edition, not a completed golden text. Chapters 2–6 and the final colophon have not been started here. The original editions, source files, glossary, and translation are unchanged.
 
 The second reading has checked the continuous Adzom main-Tibetan sequence and audited interleaved annotations. The comparison extension now covers Dzongsar’s complete Chapter1 main sequence with local uncertainty flags and records further witness attempts. It has also documented a concrete limit: the current readings cannot certify continuous all-variant collation of several comparison witnesses. This remains a research checkpoint; it does not pass the completed-chapter gate below.

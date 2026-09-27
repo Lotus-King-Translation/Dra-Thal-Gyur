@@ -1,0 +1,3904 @@
+{
+  "date": "2026-09-27",
+  "status": "workspace_disconnected_evidence_archive_only_not_completed_chapter",
+  "branch": "diplomatic/chapter-01-collation",
+  "parent_commit": "cfd727ea0bf8a86a5a27b3133339805ee02a6f2c",
+  "parent_tree": "d36d27abafb4aa273d15ae9806ba1c1eb8656987",
+  "source_baseline": "e17a496ad7532cc627f9ba288b541f7a53efd002",
+  "blocker": "exec-server disconnected, followed by repeated 409 Conflict / environment_offline. GitHub connector remained available. This is an execution-workspace failure, not a permission denial.",
+  "publication_scope": "Archive the 687 already uploaded evidence files and the recovery notes. The later annotated chapter, structured reports, code changes, and newest crops remain in the disconnected workspace and have not been published by this checkpoint. Existing chapter-01.md and its validation remain the earlier 107-observation checkpoint.",
+  "evidence_git_blob_hashes_verified": true,
+  "evidence_files": [
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/adzom73-mapping/a73-ch1-boundary.png",
+      "sha": "7db92a1b14a9c16a5ad6d5b9c507223e6983e6d9",
+      "size": 17064
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/adzom73-mapping/a73-next-title.png",
+      "sha": "596344a4740fe858d3c8b1e86cf584fc3e9eed23",
+      "size": 12351
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/adzom73-mapping/a73-root-end.png",
+      "sha": "0063e0366b1f2352d28e6dc74b230b145e8d4d2c",
+      "size": 20380
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/adzom73-mapping/a73-root-title.png",
+      "sha": "c84ce3db17bc8617c6a315010965bcb4a174d3cf",
+      "size": 11681
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/base-signs-early/AS-E-001.png",
+      "sha": "72712146582158afea632d4f01fdd999a3cd56a8",
+      "size": 61428
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/base-signs-early/AS-E-002.png",
+      "sha": "72712146582158afea632d4f01fdd999a3cd56a8",
+      "size": 61428
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/base-signs-early/AS-E-003.png",
+      "sha": "7a4d229ab12bdcc7ef5bda7131ff987f8464dc91",
+      "size": 125573
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/base-signs-early/AS-E-004.png",
+      "sha": "7b3027039498ce194e0185de68e4b0299b037b2f",
+      "size": 209364
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/base-signs-early/AS-E-005.png",
+      "sha": "8e9bfc0bd05e6f94be641e064fadd161623f89a6",
+      "size": 4360
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/base-signs-early/AS-E-006.png",
+      "sha": "9dc17500c7fd4d888be2e532e21dbb2040fd0448",
+      "size": 8619
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/base-signs-early/AS-E-007.png",
+      "sha": "fd9487db7ecb8e796d3a65219cff877497d66824",
+      "size": 6063
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/base-signs-early/AS-E-008.png",
+      "sha": "36d03102b690cac5b1ffe0c3add57ee632809ce8",
+      "size": 9571
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/base-signs-early/AS-E-009.png",
+      "sha": "c66b66ac67611f56a67821a8ee24bc22e2ee64ff",
+      "size": 6890
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/base-signs-early/AS-E-010.png",
+      "sha": "045460f3d2303a0631b524d028ae39a6d42579bf",
+      "size": 11000
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/base-signs-early/AS-E-012.png",
+      "sha": "090d47e86f925ac1008d95a7b55606ae2b67acec",
+      "size": 224373
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/base-signs-early/AS-E-013.png",
+      "sha": "d9a3c2632f9df83fc0b0d115e63a77604546c9b1",
+      "size": 4579
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/base-signs-early/AS-E-014.png",
+      "sha": "3ca585fa7eed6099e757f5aa77dae25fe6149782",
+      "size": 30705
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/base-signs-early/AS-E-015.png",
+      "sha": "d79df2a27c0bc99d71d46d6d8329cf0a9356b915",
+      "size": 42194
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/base-signs-early/AS-E-016.png",
+      "sha": "302d15adcca3f39ff9db55c667dbf2a28899561c",
+      "size": 41507
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/base-signs-early/AS-E-017.png",
+      "sha": "78248d56b6e72a0fd88797be2099c94c076a8baa",
+      "size": 8733
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/base-signs-early/AS-E-018.png",
+      "sha": "67ce5a331018f02b30a642d8500e5dd5232b5e19",
+      "size": 21550
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/base-signs-early/AS-E-019.png",
+      "sha": "ebad66801ef7b10127d3476c27ebe98f9ee3c9db",
+      "size": 13357
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/base-signs-early/AS-E-020.png",
+      "sha": "bc7e5d480de51df9135e46ca0ef23e3e622466cc",
+      "size": 9729
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/base-signs-early/AS-E-021.png",
+      "sha": "867a3f6fb962c2e17883a6c580e67f0a49646c18",
+      "size": 9185
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/base-signs-early/AS-E-022.png",
+      "sha": "a23f5f2189bbe61aa8a502bd083de1e1c43b5c18",
+      "size": 8275
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/base-signs-early/AS-E-023.png",
+      "sha": "e2d1ac77b6a988dfb54ef8885e1838b3a18a1417",
+      "size": 23317
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/base-signs-early/AS-E-024.png",
+      "sha": "c4962f3dd5818ef2647d8b52dceb67f60c2eaeb4",
+      "size": 20745
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/base-signs-early/p003-U22-endwide.png",
+      "sha": "f483e30a872cc0acfc2b48a7d84287d95f3a9535",
+      "size": 11680
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/base-signs-early/p003-U23-startwide.png",
+      "sha": "56d46eefe7dc32ba4ed62355c78986f5f4d3d544",
+      "size": 15104
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/base-signs-early/p010-U192-terminal-2x.png",
+      "sha": "32b83393b8940d5fc56ac7c42317d369cdf5a7ab",
+      "size": 44167
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/comparison-integration-audit/079-L.jpg",
+      "sha": "1c9dbe0f87a2831bbd8f30a008aa7413e4025877",
+      "size": 393040
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/comparison-integration-audit/079-u1696.png",
+      "sha": "d9f30947ca37270e0337c7ca46c333d5f4e91960",
+      "size": 97575
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/comparison-integration-audit/p024-u483.jpg",
+      "sha": "16d0de8ed43fb574f3b7a452949e19df6bc4161a",
+      "size": 85736
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/comparison-integration-audit/p027-0.jpg",
+      "sha": "7522e59741ad395abca1bd1fa4c0b47e6f06be80",
+      "size": 595799
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/comparison-integration-audit/p027-1.jpg",
+      "sha": "87c358efe2d272d15bfbe42852ac0526c0d1772e",
+      "size": 694137
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/comparison-integration-audit/p027-u534-note.jpg",
+      "sha": "88d31e3fc100ab4d1538186a76787456288042b9",
+      "size": 375594
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/comparison-integration-audit/p035-L.png",
+      "sha": "e162dd55d484490907db34373e274a62a56afad2",
+      "size": 72742
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/comparison-integration-audit/p035-R.png",
+      "sha": "328708a712795f3eb5f59c9c80fa71dc42e9c2db",
+      "size": 64983
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/comparison-integration-audit/p035-u1300.png",
+      "sha": "ca3a60861e7f08ad0266095563b7a49e30b1b80b",
+      "size": 4766
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/comparison-integration-audit/p035-u1310-full.png",
+      "sha": "7b5cf70e7833bc2d6f0f75da09841822edc7dd63",
+      "size": 5224
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/comparison-integration-audit/p038-R.png",
+      "sha": "df795e51b7e8209ef41f07ba2a2e53aefa68739b",
+      "size": 64697
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/comparison-integration-audit/p038-u1420.png",
+      "sha": "e3cbb2618f9105885a8418e5f12671e8d9908f59",
+      "size": 4492
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/comparison-integration-audit/p039-L.png",
+      "sha": "259758d05d4dcc383511160be6916eff5233ff75",
+      "size": 76247
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/comparison-integration-audit/p039-R.png",
+      "sha": "ce6ac8cbaf78c68f50a23e15146ff49607604ba2",
+      "size": 67437
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/comparison-integration-audit/p039-junction-smallnote.png",
+      "sha": "4e4914b3b48f08c45fb6eb458785d7b98d59309c",
+      "size": 5322
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/comparison-integration-audit/p039-junction1441-1455.png",
+      "sha": "8785b85206ee495cb629a3303857173211fdd588",
+      "size": 15822
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/comparison-integration-audit/p058-0.jpg",
+      "sha": "915359049fd6221d8f61dc9f3acfbd6af32469da",
+      "size": 521299
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/comparison-integration-audit/p058-1.jpg",
+      "sha": "469c3439cdb524af10917268af3aac6b6b7911b8",
+      "size": 603210
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/comparison-integration-audit/p058-notes-left.jpg",
+      "sha": "ebf03553f34b8dab777726fb3e4d17987fd3affc",
+      "size": 88440
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/comparison-integration-audit/p058-notes-right.jpg",
+      "sha": "494bbc95365bf88f474cab351d531c46b44642ef",
+      "size": 99219
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-continuation/007-DGC-001.png",
+      "sha": "6abc64d281a86aa9c4b77c5c4406db7f60b3d0e5",
+      "size": 342698
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-continuation/007-DGC-002.png",
+      "sha": "9dce24d357fcc3cfa9fdd5bf837fcbf134a90dde",
+      "size": 158211
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-continuation/011-DGC-003.png",
+      "sha": "d9e64f9688f60a99a67f1ba37b2de70e54f5c5f9",
+      "size": 62294
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-continuation/013-DGC-004.png",
+      "sha": "c383a4c2eb2642c27e9b35e11d1476a38f7c13ff",
+      "size": 227062
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-continuation/014-DGC-005.png",
+      "sha": "650047a6cf3d564948c35cfb8644f79620b71849",
+      "size": 82898
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-continuation/015-DGC-006.png",
+      "sha": "ee5007b2d8f843ca3190fecd9fb82237da328866",
+      "size": 145488
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-continuation/017-DGC-007.png",
+      "sha": "ec1e6214125cdd4795aef39d67d66b97afd50438",
+      "size": 90792
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-continuation/022-DGC-008.png",
+      "sha": "653ce12be3250b262cf634023d439718b88a6ac2",
+      "size": 327132
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-continuation/023-DGC-009.png",
+      "sha": "654324a3d1605456327be604530cbf99927200f2",
+      "size": 52006
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-continuation/024-DGC-010.png",
+      "sha": "c8c966a7dfd3a3546880c7bb42930e7f9ee3fad8",
+      "size": 33125
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-continuation/025-DGC-011.png",
+      "sha": "4c31d040e64cb4646e77dc83148d79f19dccd35c",
+      "size": 104342
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-continuation/026-DGC-012.png",
+      "sha": "d2daf3c2bcba47ca8b61a12fa4f48eb82473d72d",
+      "size": 173706
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-continuation/026-DGC-012b.png",
+      "sha": "808ef246debed6d60f6bf5976cd4de944917d683",
+      "size": 44132
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-continuation/026-DGC-013.png",
+      "sha": "4ace743355ceb36927535e06069bb0ea4a522c11",
+      "size": 106320
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-continuation/027-DGC-014.png",
+      "sha": "4c5dc52674e707767354a8b9284c07ff6c4136a2",
+      "size": 34285
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-continuation/028-DGC-015.png",
+      "sha": "3eace86fa951c989acbc57b48ae4ef64fcd3131e",
+      "size": 111878
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-final/042.jpg",
+      "sha": "b3523a31a5934a58d9dcc21b6efad10dc7ddb246",
+      "size": 568246
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-final/043.jpg",
+      "sha": "c5e7efda864d4d2079fc3c598c99ed857cea36d0",
+      "size": 560894
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-final/044.jpg",
+      "sha": "1a8ee6eae082c07c99c6a6cf6c25980c519fa78a",
+      "size": 547305
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-final/045-DGF-001.png",
+      "sha": "b13f7a62a0946020e48cd020054ced924487df38",
+      "size": 102795
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-final/045.jpg",
+      "sha": "55616688a951561be61b8c3fa6bd4769feb2ef28",
+      "size": 492624
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-final/046.jpg",
+      "sha": "0aaa587aa4240811da0f05dd0d4e8a42bffe956c",
+      "size": 561443
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-final/047-DGF-002.png",
+      "sha": "76b13a88cb8b0915c1721fd64d2f61abde09b838",
+      "size": 195424
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-final/047.jpg",
+      "sha": "5c87958d779398b6264454c18c667751eccbfb93",
+      "size": 593615
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-final/048-DGF-003.png",
+      "sha": "e93bb79c89e09906cf169d588ec9ca02681acae3",
+      "size": 71864
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-final/048.jpg",
+      "sha": "77f247a57607bb93203563e48f8656ec2c509bd2",
+      "size": 567184
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-final/049.jpg",
+      "sha": "7541057d81e74a47c45a722d66e949763c625e4c",
+      "size": 587496
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-final/050.jpg",
+      "sha": "dadfa1be60e5aedfb353169317c3ba446ebdefba",
+      "size": 569140
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-final/051-DGF-004.png",
+      "sha": "92b89b7d5d4cd8db469d18adfc5bc45f78dea009",
+      "size": 141865
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-final/051.jpg",
+      "sha": "519b00a2a79b9368d9ee7fc6f4529cb5eef3fd69",
+      "size": 580613
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-final/052-DGF-005.png",
+      "sha": "a24c0e34e62d4eef2802a6f6e12f3ee38dd725b7",
+      "size": 70798
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-final/052.jpg",
+      "sha": "4408bed561c048ca156a5457f63cd684533de044",
+      "size": 580619
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-final/053-DGF-006.png",
+      "sha": "9c692aeb90c9f0a478750a89a57747183d7a4bc4",
+      "size": 33459
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-final/053.jpg",
+      "sha": "b21edf68cf53ee842ce8d184326a5f6ec1cb9297",
+      "size": 546139
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-final/054-DGF-007.png",
+      "sha": "3871d6f6759706a07de774290bb6393977ebe631",
+      "size": 33332
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-final/054-DGF-008.png",
+      "sha": "d8fc6d9e17e7cf7f617cfac2b5b59ecc09136455",
+      "size": 216618
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-final/054-DGF-009.png",
+      "sha": "c97a0eed74ec47ad15e140d5c1eb64e4bdea9528",
+      "size": 54453
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-final/054.jpg",
+      "sha": "b42e5f03cf7cbe2291dbdc6599b891b75f76b776",
+      "size": 567399
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-late/p030-bottom-left-native2x.png",
+      "sha": "97e80dab41bb2f66fef66b062d598dc98dcb38d3",
+      "size": 945191
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-late/p030-bottom-right-native2x.png",
+      "sha": "f84d134a97395882a3b2a872d3251566ab6a13c0",
+      "size": 963249
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-late/p034-annotation1657-native2x.png",
+      "sha": "b6f14dd829eaf69845d4a2fed566aad98f176fb2",
+      "size": 299797
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-late/p034-query1640-native2x.png",
+      "sha": "a88e3d3b71fbda1b6c9946ff123c2715cb032564",
+      "size": 275062
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-late/p039-S02-native2x.png",
+      "sha": "a0521f0d1f7f033c29d9759a99ea570ccbaa60db",
+      "size": 955794
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/dege-late/p041-S03-native2x.png",
+      "sha": "cd8499c364d05f1e00db787eee63170db14a8a86",
+      "size": 2663599
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/gcn-mapping/gcn-ch1-colophon.png",
+      "sha": "d610bab2d69e2242296f95d13be40b298f9e345f",
+      "size": 99932
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/gcn-mapping/gcn-ch2-incipit.png",
+      "sha": "6b792c8b3a0f75c1c4df310f728c07415e1f763b",
+      "size": 48014
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/gcn-mapping/gcn-root-colophon.png",
+      "sha": "83fb5abfcdca81da52cdbd873b2a483a947d81c9",
+      "size": 250063
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/gcn-mapping/gcn-root-title.png",
+      "sha": "07a14e7383709644372d3e592499c5ba09dd613f",
+      "size": 21628
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/gcn-opening/gcn-u31.png",
+      "sha": "c6b8768618837153eb368c4588344fea26dc98ae",
+      "size": 16914
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/gcn-opening/gcn-u40.png",
+      "sha": "e2daa2e9c0edc5b6c4c45cef962be9cf00ec70b3",
+      "size": 36271
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/gcn-opening/gcn-u46-full.png",
+      "sha": "483957a64df432a54c745543c7d274ba8fdb1c0a",
+      "size": 57473
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/gcn-opening/gcn-u63.png",
+      "sha": "7034b20a169fecd631d27ca815f3ca1b72b1341b",
+      "size": 11419
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/gcn-opening/gcn-u70a.png",
+      "sha": "a91aeeee8b7b10403d67c4c43e4372281c398208",
+      "size": 10972
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/gcn-opening/gcn-u70b.png",
+      "sha": "3a4d3df361eef2585de0c9d4fba972fb289e0351",
+      "size": 16077
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-ch1/colophon.png",
+      "sha": "59a6727561c31142a71a3c00ebcd1bbb1fefb518",
+      "size": 382994
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-ch1/image037-end.png",
+      "sha": "573817420807cf71cfb9d5e9392220e139c297a2",
+      "size": 272674
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-ch1/image042-start.png",
+      "sha": "50bfd4e6457f9c1e7ecba13934cde5d2a6ff15f8",
+      "size": 232672
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-ch1/u1105-blank.png",
+      "sha": "9230a78a59da2dad20dab5d7210944cc932fc1e3",
+      "size": 90270
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-ch1/u1174-gap.png",
+      "sha": "3fb3f8c293e9fb71fb3003901a1cce2750f26a15",
+      "size": 159758
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-ch1/u1218-ending.png",
+      "sha": "a25d8d415b18258a0e039942dd9c3cc266efdecf",
+      "size": 98704
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-ch1/u199-u200-order.png",
+      "sha": "54d2ca63c05b503fcceb6defde39b7620d01f0fd",
+      "size": 165875
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-ch1/u580-line2-end.png",
+      "sha": "8315266bdf57fce5ae3aeab8d71e9c85c8dc628f",
+      "size": 35287
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-ch1/u580-line3-start.png",
+      "sha": "9a8a9022cc23cbccadf839678cc8549a23de63ed",
+      "size": 73011
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-junction-audit/LT-J1-97.png",
+      "sha": "9d923d548052908cfca97c462f08f0460f5d38fa",
+      "size": 117638
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-junction-audit/LT-J1-98.png",
+      "sha": "ef8e8e73513401229517b9a9a87459e4a9ec14e3",
+      "size": 274050
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-junction-audit/LT-J2-99.png",
+      "sha": "92c46c07b671e401f49ed4e3d870e4cb442fc68b",
+      "size": 87042
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-junction-audit/LT-J3-100.png",
+      "sha": "f28d99dadbe1817bc3ac3dafd259bd3ac5810c58",
+      "size": 144689
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-001-1.png",
+      "sha": "e24b59c92048dc20ec17d49c06dcdb24b6b606e6",
+      "size": 65760
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-002-1.png",
+      "sha": "8dc5e623628e76c11cd67bb6e77ef07ab4a07de1",
+      "size": 274377
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-003-1.png",
+      "sha": "0323b005e3252dfa8c0361dc43fda1cac9979718",
+      "size": 87876
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-004-1.png",
+      "sha": "538a640028be83cdf846ac351c3a6656c45509a7",
+      "size": 48397
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-005-1.png",
+      "sha": "43302cdaa4917dd5c64fdc815fe188104c23bc01",
+      "size": 75740
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-006-1.png",
+      "sha": "c6d2d1e01d887c76b509448da08a746d4523c7df",
+      "size": 72364
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-007-1.png",
+      "sha": "f08a3d0229d91f98b0e701cb764bdfdb6c4bed51",
+      "size": 61207
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-008-1.png",
+      "sha": "b949ca941062ee02379d6b71d54bef3f91f565e2",
+      "size": 82403
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-009-1.png",
+      "sha": "3acdcd39803be4ae769640b3da9ed4e422b60e9e",
+      "size": 100160
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-009-2.png",
+      "sha": "f54576e60b3679fd5b255551b55ffc3347fa64de",
+      "size": 48066
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-010-1.png",
+      "sha": "95b3ab5c2c88687891587f0411facf4fc8b6646d",
+      "size": 54027
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-011-1.png",
+      "sha": "cc6c7d1a3ffa2d628cf70f0534603506eda92568",
+      "size": 72038
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-012-1.png",
+      "sha": "5982c1a75d98cf626d2082e5a489c034ebea914b",
+      "size": 61831
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-013-1.png",
+      "sha": "3bc27810b18fa06aadd83fb9e04cb3c50fd3afbd",
+      "size": 83015
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-014-1.png",
+      "sha": "1b836d4beb8ddd61d3cf201dbdd765da534bc123",
+      "size": 73512
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-015-1.png",
+      "sha": "e7d5910446bc3a7aae847966bd1df2df2c68251b",
+      "size": 70977
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-016-1.png",
+      "sha": "5e9d109cbd23cdd2a5efd84a53224eea0b836f4b",
+      "size": 70500
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-017-1.png",
+      "sha": "7347bee5a2311b4470df4861517afedccb3d5bd2",
+      "size": 41939
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-018-1.png",
+      "sha": "37d85efb52d13c4fcb8c706073d945e4e6c72765",
+      "size": 107222
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-018-2.png",
+      "sha": "bd37276e311ca1d9b83fc721fd82f44adf3bcb7c",
+      "size": 99121
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-018-3.png",
+      "sha": "7712c4bd816151ff3c106447db3b4870f608db92",
+      "size": 28008
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-019-1.png",
+      "sha": "49880b4875c7565a56f84127d85f52b13e71c474",
+      "size": 38046
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-020-1.png",
+      "sha": "1fec1c83d585b704dd512869e4e268f05ee5ac61",
+      "size": 105032
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-021-1.png",
+      "sha": "0e77adf026b57430a190edc5e9382d140a4f23ac",
+      "size": 105166
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-022-1.png",
+      "sha": "d2a0d9b739e3ffa2bd8f31e4713645b154f1425a",
+      "size": 50174
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-022-2.png",
+      "sha": "ef90e9368ff32f3659ec4b5c79df2491a0f45785",
+      "size": 45933
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-023-1.png",
+      "sha": "903808e1fbc9d644ee60cde13bb380cc49400ad4",
+      "size": 61933
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-024-1.png",
+      "sha": "5f2c04f72988cecc3d71fc9be40e2159f0137bd9",
+      "size": 73285
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-025-1.png",
+      "sha": "d9bf0fa0453ad27f1334d5b6b4077ff08fe1d16c",
+      "size": 112654
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-026-1.png",
+      "sha": "2d88c563ee114e4cf37749065b95905d7053bca5",
+      "size": 98860
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-027-1.png",
+      "sha": "6aa3ff86435377b33df9c942a2ab2d784aeb4d1c",
+      "size": 283115
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-027-2.png",
+      "sha": "5ef9b1587133f7059ae8a4890202b613d00284c2",
+      "size": 136092
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-028-1.png",
+      "sha": "ef688c86174278748cdd06d2b153399f64c19bc9",
+      "size": 223334
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-029-1.png",
+      "sha": "31661151a5e30034bfac4a6acfef9f2176842da7",
+      "size": 67557
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-030-1.png",
+      "sha": "a03185f61501fda316d82d9758d53daf1a9685b2",
+      "size": 58526
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-031-1.png",
+      "sha": "1603f2437c1b3c4b974efb18b8ae9ed8b440ec67",
+      "size": 62382
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-032-1.png",
+      "sha": "151e769efc423f7fda5dfab7125d786ef14f367e",
+      "size": 106306
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-033-1.png",
+      "sha": "f12d66ca908cd888732cfde380645f40f356d7f9",
+      "size": 228828
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/finding-034-1.png",
+      "sha": "6553fc87d225fff2d8e76c7744cb3f8141484157",
+      "size": 79250
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/p104-colophon-left.png",
+      "sha": "67fff19f7c7e7df4c358281e1a0267f7ca8a023d",
+      "size": 236115
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-late/p104-colophon-right.png",
+      "sha": "07344f6f9ed16d2ea3916c9aa749350adf6b6a95",
+      "size": 243814
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p053-left.jpg",
+      "sha": "06e15f9278874885e68245a63242f7a3cc47c5f2",
+      "size": 517524
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p053-right.jpg",
+      "sha": "e5a624defe3671bd7e5acd69d1a5b4093d741801",
+      "size": 551130
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p054-left.jpg",
+      "sha": "f4810304f013015dca69ce0d55c725b0d9e3ddbb",
+      "size": 533191
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p054-right.jpg",
+      "sha": "b4c3dbd5b8c34bff9f8729808773d4ffcc8b4278",
+      "size": 552966
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p054-water.png",
+      "sha": "590351e8f323439263e46b18a8c01f9213752017",
+      "size": 599582
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p055-left.jpg",
+      "sha": "80bc48445dc73db41d01a353cec5834becdcfe63",
+      "size": 529498
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p055-right.jpg",
+      "sha": "a0a1e2e0285740a4e75e9f843e0c46cd2b8acbfd",
+      "size": 547083
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p056-left.jpg",
+      "sha": "0330290a7f73334c5be5769128aa427e8ae3e9ec",
+      "size": 466311
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p056-right.jpg",
+      "sha": "a14979c6d7c9e5fc3837ba9d3060d3051daaa44f",
+      "size": 493452
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p057-left.jpg",
+      "sha": "fdb6b40cee80f5e4ab1eb01b1b5ef6e3eaab21cc",
+      "size": 531713
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p057-right.jpg",
+      "sha": "db5ff6830a47805a98d86219c213b9ecc5b3fd69",
+      "size": 556992
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p057-u1362.png",
+      "sha": "8a9032cbc00db347884b6379d7d7d04525e7a8d9",
+      "size": 69824
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p058-left.jpg",
+      "sha": "81f346c1bda9cbcadb8ba9c83aaa1efd152f5df4",
+      "size": 529362
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p058-right.jpg",
+      "sha": "f064a0ac7614b2ff26e51d9eee8419fffb35644f",
+      "size": 553849
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p059-left.jpg",
+      "sha": "867dfe9ae25ba07659be68a32657dc5db5acc954",
+      "size": 528676
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p059-right.jpg",
+      "sha": "21d865ad7c6a2cc35378a15c27e49350a5579197",
+      "size": 552819
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p060-left.jpg",
+      "sha": "af443d7acb3af3d7b362e22add664459d6ff85b2",
+      "size": 519580
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p060-right.jpg",
+      "sha": "dc0cb8d3916959f03390f26287ef7d24bb01e330",
+      "size": 563071
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p061-left.jpg",
+      "sha": "353491b293864eeb8f286d4fa79cd82a501e9925",
+      "size": 508150
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p061-omission-u1442-1452.png",
+      "sha": "e110ed209664e9c71eb17279cc7d3d26e9bfca11",
+      "size": 216102
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p061-right.jpg",
+      "sha": "3fd58d43d8d40b849d89b9eeb99db395d4fe72fa",
+      "size": 537131
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p062-left.jpg",
+      "sha": "9950ba063cc7f67e18ddcada5ca9ac4495b3680f",
+      "size": 530395
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p062-right.jpg",
+      "sha": "72dd0395ca45eef68247dc6b12cbfd5636959ed5",
+      "size": 567249
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p063-left.jpg",
+      "sha": "95c259fa675bc9ebc198af1215de9bbe79692d90",
+      "size": 554005
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p063-right.jpg",
+      "sha": "c0aa9b30927748edb678ded57966261eacce1a9d",
+      "size": 606957
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p064-heading32.png",
+      "sha": "a95575b4a7b391a43bbd5bf888646e0c1da35354",
+      "size": 36439
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p064-heading33.png",
+      "sha": "9430cf0d5b66f33812d37c528158decef2a653d2",
+      "size": 42801
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p064-left.jpg",
+      "sha": "6376705275de175635d3173e959f70c37e6ab579",
+      "size": 503388
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p064-right.jpg",
+      "sha": "54138199b29816a583795b76a76c0316a0285b40",
+      "size": 527718
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p065-heading-at-u1573.png",
+      "sha": "b2d8ca94003aaceaccc090fef2007a51eea6618a",
+      "size": 68832
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p065-heading34.png",
+      "sha": "ac264ab41be736ec5e6f77876f3c7465b184e0a0",
+      "size": 56051
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p065-left.jpg",
+      "sha": "98cab6750ba142b14d914cfa82d00ce7d75bf6f5",
+      "size": 546914
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p065-right.jpg",
+      "sha": "0d672afbe98594d72b7989758297b040e7964a6f",
+      "size": 560821
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p066-heading35.png",
+      "sha": "b25bf423fe951c99c47004e6352c578cd10fc4e4",
+      "size": 28058
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p066-left.jpg",
+      "sha": "712f0a87e79deef324d0e84a85dd359eb71a461f",
+      "size": 499600
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p066-right.jpg",
+      "sha": "a7a0e00570d2aef771d7f2c5dbb42e757098bb29",
+      "size": 538516
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p067-heading36.png",
+      "sha": "1df45124166ee0effd1e0dca03f4a89e981728e9",
+      "size": 35123
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p067-left.jpg",
+      "sha": "800516dc30da612e4974cb668d03243e1e8e96a4",
+      "size": 530156
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p067-right.jpg",
+      "sha": "43c0b20f5dc636023fe5c2e21d8ff9018fb9a1d8",
+      "size": 555279
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p068-heading37.png",
+      "sha": "4266de62e6dfa1e13eb141d23ff328db7d6a4e45",
+      "size": 26727
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p068-left.jpg",
+      "sha": "2fe41800d65e65f4ed6c7fafbfd3d1f34e2341de",
+      "size": 539491
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p068-right.jpg",
+      "sha": "5cee35362c9e4efd1651ef6aabf60ef9b15ac6ad",
+      "size": 566709
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p069-heading38.png",
+      "sha": "912e1e492f5ec6bf0faf0dfbf8b88988be376dc3",
+      "size": 37711
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p069-left.jpg",
+      "sha": "1fe4b54ab675769e66a26b3bfe98b085069b9ab7",
+      "size": 561780
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p069-right.jpg",
+      "sha": "19bc7e7eae65a6eda619599e714706336a06acea",
+      "size": 595618
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p070-heading39.png",
+      "sha": "23da0843b733d6f47003c5ab438652b44c2ae7f9",
+      "size": 52604
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p070-left.jpg",
+      "sha": "e573f9f70431f728e5465afb6203fc604b996998",
+      "size": 503135
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p070-right.jpg",
+      "sha": "aa99ab3d5e41b81619de4e85bb72598899392abb",
+      "size": 538749
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p071-heading40.png",
+      "sha": "37196f772e4a3c9dc2d6f896d37861dd0eae413c",
+      "size": 39833
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p071-heading41.png",
+      "sha": "cfe41dc3cf40e59184d1eb2798724e27b9f2ba32",
+      "size": 53324
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p071-left.jpg",
+      "sha": "d09c20cd17048360e6ef4b299dacbc09a4c0733d",
+      "size": 528761
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p071-omission-u1744.png",
+      "sha": "68e3a1d67816014f6431d9deccaf527a758de773",
+      "size": 166287
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p071-right.jpg",
+      "sha": "2a004bfc806e0f2dd3feb895a76e44e553fc7647",
+      "size": 545972
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p072-left.jpg",
+      "sha": "2bf1df4063fbbafe5af7db507fa41ec05858ea16",
+      "size": 495125
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p072-omission-u1778.png",
+      "sha": "d43595b852078d8adfdccd08d53f8c43e087906c",
+      "size": 161999
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p072-right.jpg",
+      "sha": "7f178b0eeb6ff31d0c5c7645b06858a1684516fa",
+      "size": 520585
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p073-left.jpg",
+      "sha": "92bd3cc954767b08635db7521255e87bf91b28cc",
+      "size": 566122
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p073-right.jpg",
+      "sha": "7b47ffe85fb4c48852bee030882958ed37d259e8",
+      "size": 580792
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p074-left.jpg",
+      "sha": "f437c4ce36619364e379978a7fb9671229ee0cc1",
+      "size": 519947
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p074-right.jpg",
+      "sha": "39d7717c22e6ab44aa8d73aab0656d4e93466c69",
+      "size": 537692
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p074-u1830.png",
+      "sha": "54290393b95702508d96f51ec2d5d159409d3761",
+      "size": 83869
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p075-heading42.png",
+      "sha": "83f72a78c916db02465c870f03c6ddc0cfec45c1",
+      "size": 47263
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p075-left.jpg",
+      "sha": "f855a310fae49151514ff2c8f6e6c93fd2d30706",
+      "size": 526470
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p075-right.jpg",
+      "sha": "388a6d07e0a2be1fc94b38e009292ee18b49c4d4",
+      "size": 535399
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p076-left.jpg",
+      "sha": "23bc71e001ed4c7ba884d74f69bea3aa417325dd",
+      "size": 481397
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p076-restoration-u1882.png",
+      "sha": "7c5f92ef2524cacf39ffddf410445cd35c6f8db9",
+      "size": 206410
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p076-right.jpg",
+      "sha": "c02ab350c897eb705593b2fc67519c1f95cb80d0",
+      "size": 504409
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p077-heading43.png",
+      "sha": "236fd742e968a4ce439392e59ad9dc3e7ffd7175",
+      "size": 31767
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p077-left.jpg",
+      "sha": "f47da96c530192d6391f6c96be52132c4faa58ce",
+      "size": 477928
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p077-right.jpg",
+      "sha": "e37b9915f145443cfdec23c297d5515f083a0545",
+      "size": 480412
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p077-u1905.png",
+      "sha": "a9f2467f85fa01d42643fc2fdac0fff85604d626",
+      "size": 48251
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p078-heading44.png",
+      "sha": "022fcd6fdec114703daaa57961db3b3c6aaabd52",
+      "size": 36047
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p078-left.jpg",
+      "sha": "22ff37f406907e74a6d052329c60563884bea731",
+      "size": 503179
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/langtang-middle/p078-right.jpg",
+      "sha": "f5b114bc2c8a9d226667164379ec3efea3a3b648",
+      "size": 524854
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/root-final-audit/tk46-junction.png",
+      "sha": "5f67f2ce2ddceadd44f894de09d073c895e4ae7d",
+      "size": 10163
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/root-final-audit/tk52-junction.png",
+      "sha": "2c53dd9d84448a994d3806da62ab27523be14dc1",
+      "size": 21498
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/root-final-audit/tk53-junction.png",
+      "sha": "8b13cb52c2b7b2e1496229869ee7b941ebb2dddc",
+      "size": 9212
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tharpaling-continuation/p004-u85.png",
+      "sha": "bd67dbcbd4f6e535dec6a3d3460fa5802d3947d9",
+      "size": 2962
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tharpaling-continuation/p005-u134.png",
+      "sha": "ad49b6c69af89a821361729d9168b8d9509a2114",
+      "size": 3418
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tharpaling-continuation/p006-u164-166-order.png",
+      "sha": "1faf36974922c319dfac381fe690b9860377ac19",
+      "size": 7101
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tharpaling-continuation/p011-row2.png",
+      "sha": "a33d6a7edba33a8bb48447ecfff2c4322dadf6e8",
+      "size": 8513
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tharpaling-continuation/p011-row4.png",
+      "sha": "849f382f3f0c5a0f6062099c8b45b094013118c7",
+      "size": 7657
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tharpaling-continuation/p016-row3.png",
+      "sha": "d41102e09e80d0e86fb980305f93c2c2c21d701b",
+      "size": 11464
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tharpaling-continuation/p035-s01-row2.png",
+      "sha": "a528ac45ee9a1d7e15025da192c3aee9c0dfe8ec",
+      "size": 1580251
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tharpaling-continuation/p035-s01-row3.png",
+      "sha": "9c53e02e5af118f6f31f2c2bd2a11a0d0302539d",
+      "size": 1141377
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tharpaling-continuation/p035-u1275-start.png",
+      "sha": "2b5919b32b2c685b1eff285e2bdb5ab043af2e6f",
+      "size": 66099
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tharpaling-continuation/p050-u1882-1884.png",
+      "sha": "2e2243d319c31e101b0f600a091001b2b3fe48d1",
+      "size": 60542
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tharpaling-continuation/p053-u2005-start.png",
+      "sha": "7e354cdd70339e07f8e88861af44afde5fb4327e",
+      "size": 21962
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tharpaling-continuation/p054-u2005-2007.png",
+      "sha": "0c3504ec54c05bc32157d6f2153c3150d5da26f2",
+      "size": 62551
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tharpaling-continuation/p059-restored-verses.png",
+      "sha": "8671e62e4cbc71839a8a8a70fa3fdc294ac9026a",
+      "size": 54907
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tharpaling-continuation/p059-u2187-before.png",
+      "sha": "0149a9bd310dcccea9274ddb5ec8415510b22382",
+      "size": 30804
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tharpaling-continuation/p063-L.png",
+      "sha": "986dc491d8fa8aa09a6c0a89ea70e45505f07a9e",
+      "size": 37844
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tharpaling-continuation/p063-restored-verses-heading.png",
+      "sha": "d17cd155232a988654e2211fc92d2877009ae33f",
+      "size": 51269
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tharpaling-continuation/p063-u2308-end.png",
+      "sha": "07645cae016269518bcedba1ee0ebaa58b2751ff",
+      "size": 17688
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p003-0.png",
+      "sha": "74633e9eef046ca2483ef2ad299079b3ae7cdd2e",
+      "size": 47350
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p003-1.png",
+      "sha": "b770e27f7569387ce8dbb5ca1eb774da5b36991c",
+      "size": 56141
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p003-2.png",
+      "sha": "6f266a7ccfed535061745a11520e89d9d7cd5244",
+      "size": 34870
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p003-u54.png",
+      "sha": "d1f2d47a30e7980eeb3cc452e72dbf2499117569",
+      "size": 2383
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p003-u56.png",
+      "sha": "7283dddd0003e4f4d8c20198bc5c2792ffd0181c",
+      "size": 3321
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p003-u62.png",
+      "sha": "f29819f27c4c786aedb4de78617c9911150b2a1a",
+      "size": 3450
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p003-u71.png",
+      "sha": "ad0362eea66aad711d00223d4d1f55ce2b48386e",
+      "size": 7204
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p004-0.png",
+      "sha": "39d5dba83a841414993b72e6602f19840b963b6f",
+      "size": 46966
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p004-1.png",
+      "sha": "b5c26068f5a0f85a820643317603f56e1547fc96",
+      "size": 57633
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p004-2.png",
+      "sha": "772554608d67be532b2de223d37828ba89d86cb5",
+      "size": 37302
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p005-0.png",
+      "sha": "f59f13053520039b0bb7d7d0744a7cba438f4901",
+      "size": 46378
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p005-1.png",
+      "sha": "ba1f9c2b569cf57c47074a1bb0d4bf64378d20d7",
+      "size": 57036
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p005-2.png",
+      "sha": "0c20e73be281f5bc94753faea5217d799f48a29f",
+      "size": 35643
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p005-u130-fixed.png",
+      "sha": "9afc7d51b501561effa74ba9b59b6a16893cd6b0",
+      "size": 3942
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p005-u130.png",
+      "sha": "469c8440c35e742a5991de8c83e622d8ba4856a1",
+      "size": 3266
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p005-u138.png",
+      "sha": "9de04e43124bda9b49e8aefe436d55a5de961e22",
+      "size": 4763
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p005-u143-a.png",
+      "sha": "19b6cf22fcc5d6c3b008501009ce80bb89fb5b6a",
+      "size": 20545
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p005-u143-b.png",
+      "sha": "eb9275cb908c4496f12ca2a1fa6aa7fe20cb7252",
+      "size": 7949
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p005-u153.png",
+      "sha": "d32eab926bffe537bb96afa5a32f045e5a8990fd",
+      "size": 6786
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p006-0.png",
+      "sha": "952073c8f94c863c876271d57b156e98289f358b",
+      "size": 47123
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p006-1.png",
+      "sha": "b9dd8365e57e9b9d5059322775262288c2e5484c",
+      "size": 57515
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p006-2.png",
+      "sha": "8964511987165b841d569c6f5209a562baefd567",
+      "size": 37002
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p007-0.png",
+      "sha": "34ce5b34cec207c90aa5874c78a88d338a14fe0a",
+      "size": 47936
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p007-1.png",
+      "sha": "3f82c9071ab3dcf87751124fdbc012845ea86eef",
+      "size": 57336
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p007-2.png",
+      "sha": "2b976b96591e721965481b2a5b560d098a4c938c",
+      "size": 34244
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p008-0.png",
+      "sha": "4bf877a7d29582ffa38e40263603a70b72ce43bc",
+      "size": 47282
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p008-1.png",
+      "sha": "1b5d1dc0e268ede096b669ddc1aa5fcfc1bd33f8",
+      "size": 57392
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p008-2.png",
+      "sha": "2b01d05e6709c569685854d6c170d8f8750c2fc0",
+      "size": 36361
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p009-0.png",
+      "sha": "7c4842e68dd0537d11cbcdbf2a04a2b1e22566ac",
+      "size": 48538
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p009-1.png",
+      "sha": "dbf578fe0043373c3e10e7997c4ec8f27094f331",
+      "size": 58362
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p009-2.png",
+      "sha": "196e676509b8172934aeabc5d6de074edfa3b1be",
+      "size": 37322
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p010-0.png",
+      "sha": "cd3ab9ce76147d2a96731cdb5821f2767a321ae2",
+      "size": 46479
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p010-1.png",
+      "sha": "c9a693fd0dda03abaac936ace4f76f33da0e5fa8",
+      "size": 56675
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p010-2.png",
+      "sha": "6c9a22fe8c54a1c296a0381d6e8ecba99569317c",
+      "size": 36688
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p011-0.png",
+      "sha": "69a952d392586ada06400e3ba0e951f967f8baed",
+      "size": 48237
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p011-1.png",
+      "sha": "cb17a9312cbd9e695f338a3cf2c5077bfa6eece2",
+      "size": 58865
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p011-2.png",
+      "sha": "1d5c36577dec13b5c0255e6c39c83787d24e8eb6",
+      "size": 35949
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p012-0.png",
+      "sha": "492a48c5b57816906a2c0c12b10301982793e7a2",
+      "size": 47465
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p012-1.png",
+      "sha": "0172b4509ed1ccf4fc7c25b3db0b0bc43f3b6a52",
+      "size": 57529
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p012-2.png",
+      "sha": "d7bbaa324e597c4adba6fed02d21e741fbf48104",
+      "size": 36534
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p013-0.png",
+      "sha": "5b3abea081cacb40e8b19f846dc349ddc24dc1f2",
+      "size": 47696
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p013-1.png",
+      "sha": "47f519adb09593789595a5bd4fc2da3e419d960e",
+      "size": 57835
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p013-2.png",
+      "sha": "d523c0144b059a328517e2c4e1c543296c65f66e",
+      "size": 36209
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p014-0.png",
+      "sha": "ff3adf649aeb98e28bcb2c88ea3a2906f65880d8",
+      "size": 46628
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p014-1.png",
+      "sha": "1f745cee332841902e3666891540b50f56d5c76e",
+      "size": 58339
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p014-2.png",
+      "sha": "304abd023433c7f0c21c1a572868267a6643db96",
+      "size": 37723
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p015-0.png",
+      "sha": "2eaf9117f010e1d7232af9592924282840df5212",
+      "size": 47354
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p015-1.png",
+      "sha": "8c337af8d2b0f2d914a845163c00d709d73ae5c7",
+      "size": 57540
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p015-2.png",
+      "sha": "dee0b5d73518979dfbf4131d2783d5a427387e07",
+      "size": 34395
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p015-u503.png",
+      "sha": "e840f79144686bb67a8be2c4893000e4bf1747d3",
+      "size": 4305
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p016-0.png",
+      "sha": "856d549786009c03d1a13bfd11b98fac8d17be1b",
+      "size": 49033
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p016-1.png",
+      "sha": "2200b5e81b9249862dd2f172c9ffe3e81bc8f708",
+      "size": 60289
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p016-2.png",
+      "sha": "0b38ed91c3de88c97a7f11786c21b8c75e984d71",
+      "size": 39617
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p017-0.png",
+      "sha": "fcd36c102ed09b0cf7fb165e63521e41a865199d",
+      "size": 46183
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p017-1.png",
+      "sha": "43a8f68afa4688554c4a67bdfe542652ad282a51",
+      "size": 57306
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p017-2.png",
+      "sha": "26e08380b1ce5171dd2b602ed209a6387139521e",
+      "size": 37064
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p018-0.png",
+      "sha": "c732266b2ec40dd1b9ea0030cec2447667f61898",
+      "size": 48377
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p018-1.png",
+      "sha": "ed165fd72c5072f71cfdc5dfd44945b20165188b",
+      "size": 57624
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p018-2.png",
+      "sha": "da695e592d1a2a15d72ea4e6d0349aa399515ada",
+      "size": 37678
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p019-0.png",
+      "sha": "d191b2942f3968a3a299f8072c2c6a376b009413",
+      "size": 47267
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p019-1.png",
+      "sha": "a6c3fc4f045267c886d38f0df343e1db9c8976c7",
+      "size": 57919
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p019-2.png",
+      "sha": "cd91c72d2fe32b37b4a15aadf8f065ee8f3dc5ed",
+      "size": 35482
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p020-0.png",
+      "sha": "5f6f4fab70ee0b25af095dbaa5306cc53988e47a",
+      "size": 47158
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p020-1.png",
+      "sha": "7fbe6786546f47547e278c066364e4061733a522",
+      "size": 57151
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p020-2.png",
+      "sha": "69eb0c71c3973037c1cc18473accc34b54b86c67",
+      "size": 37480
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p021-0.png",
+      "sha": "456d3bf716130fab3e6bfdb6b867bce38c99a753",
+      "size": 47872
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p021-1.png",
+      "sha": "63f6ade24c496beae3f4724ced8f089d8e709355",
+      "size": 56868
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p021-2.png",
+      "sha": "176ea558fcfe282b40b5af57eea2cd0e0e90bb5e",
+      "size": 35647
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p022-0.png",
+      "sha": "e584bc796a76d80bcedbf23cc3614ba40a677b09",
+      "size": 44642
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p022-1.png",
+      "sha": "c3b02faeddc1c20ca4916b6ab0dafe83c322c80c",
+      "size": 57101
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p022-2.png",
+      "sha": "c9922a418a3d88454f5c4f3760e2b5675545d7cb",
+      "size": 34347
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p023-0.png",
+      "sha": "8b9b03c7900fff6ad27e6321c44d933c92afa075",
+      "size": 42743
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p023-1.png",
+      "sha": "63af517d26529e45d3aa491267017dbc5e11e85e",
+      "size": 55971
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p023-2.png",
+      "sha": "a4e0a92bb738be9612725dc6be91d13ade533231",
+      "size": 33700
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p024-0.png",
+      "sha": "84251b197e75ef0e0119c939872211353feabd23",
+      "size": 45742
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p024-1.png",
+      "sha": "745748ae2a95813e50544846dcca5876a42190b0",
+      "size": 58582
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p024-2.png",
+      "sha": "a09de613152d58408b8404d3a049742a5ae89220",
+      "size": 38459
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p025-0.png",
+      "sha": "36fa989cb9462a7e5d73a703de8de6d9f909e145",
+      "size": 47343
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p025-1.png",
+      "sha": "3c8c1d524febb9bb7668aae5614f23fa2f3ba075",
+      "size": 59301
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p025-2.png",
+      "sha": "cf268292934c6f99fbea78603afe2bb4b7557a53",
+      "size": 37588
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p026-0.png",
+      "sha": "6074c372e7011875786a9d90d144fe71d22beae4",
+      "size": 44474
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p026-1.png",
+      "sha": "6a5ad4d585e0395bbd3bc9954480ce94f873cad5",
+      "size": 57712
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p026-2.png",
+      "sha": "78babbd76e4419e315b94ca15d3b622a500e1096",
+      "size": 36768
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p027-0.png",
+      "sha": "bb8bcf7e65ec6b03d51cb4cbe1c96132dcff0e1c",
+      "size": 46266
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p027-1.png",
+      "sha": "61f3b2da0064826c9fb1353497a5bb6f3238f4ee",
+      "size": 57926
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p027-2.png",
+      "sha": "443886373af70c193e75a33df52bf033df04d4b7",
+      "size": 37151
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p028-0.png",
+      "sha": "3013da233e4db1b62157d915fe81193fa070f532",
+      "size": 45713
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p028-1.png",
+      "sha": "c31452f482e8c61d94b831d0cb51958213e41c3f",
+      "size": 56369
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p028-2.png",
+      "sha": "349d9d6d8735db35fec5ae6052119c6812d20be1",
+      "size": 34556
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p029-0.png",
+      "sha": "0c48ceee59c10361bbdaf727abbdbfdbee9c36aa",
+      "size": 48447
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p029-1.png",
+      "sha": "103250d9bb1d94b36d0e189e94147575e1d5257a",
+      "size": 56644
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p029-2.png",
+      "sha": "1cfbac34fc5deb9e780abb94dc8058a5b65ed83b",
+      "size": 35393
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p030-0.png",
+      "sha": "fd74e463791b1935e5f4e05f96ca1def579dae42",
+      "size": 44762
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p030-1.png",
+      "sha": "7d2b5912bb6c1fb2da3116730e73bbd703cb0ea7",
+      "size": 55051
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p030-2.png",
+      "sha": "6ece5c29e652dd9e3b017e2550ca67688b6e4148",
+      "size": 35539
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p031-0.png",
+      "sha": "0e32b3fbde4c66f1df315ef6c2390875d9e81619",
+      "size": 47439
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p031-1.png",
+      "sha": "912707901e1db98684f233b0d7fc0440f127f77a",
+      "size": 57438
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p031-2.png",
+      "sha": "8d41ffb769afff855f1f15842b5eb59a2cf335de",
+      "size": 36492
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p032-0.png",
+      "sha": "ffe47d33910758ca29a7e8e495ee4e40f0018d13",
+      "size": 46145
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p032-1.png",
+      "sha": "9d18bb612c7631fdf793969c4361da59508197ed",
+      "size": 57541
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p032-2.png",
+      "sha": "5627ae47b0522b7f072e7be7e733880927e85dfb",
+      "size": 37733
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p033-0.png",
+      "sha": "8794e3f378747a2f6180762bfa58bac945d282e3",
+      "size": 47222
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p033-1.png",
+      "sha": "8e1ab812ef8df8e703431d3cacbf87fc6ed578bd",
+      "size": 57154
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p033-2.png",
+      "sha": "2d89157c1e0f1a13f991de1dcd5504018edb50e1",
+      "size": 36102
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p034-0.png",
+      "sha": "e9b9ecab83402dbc34b0dc960ba382137e7b4f13",
+      "size": 46023
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p034-1.png",
+      "sha": "b5e29c237873502c95172188727825255cc8289a",
+      "size": 56955
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p034-2.png",
+      "sha": "4ed288c166d44eb70664ca2c574aa6bdc12c0852",
+      "size": 36280
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p034-water-third.png",
+      "sha": "dc5c753fddcf642dd1427bf5439fc0f508af8e68",
+      "size": 5696
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-continuation/p034-water.png",
+      "sha": "0f12b19b58bee91f741d50cbbc3a8318c2ada711",
+      "size": 24507
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p039-junction-smallnote.png",
+      "sha": "4e4914b3b48f08c45fb6eb458785d7b98d59309c",
+      "size": 5322
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p039-junction1441-1455.png",
+      "sha": "8785b85206ee495cb629a3303857173211fdd588",
+      "size": 15822
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p040-r03-03.png",
+      "sha": "cc534b1010d04bcc8fcce0d02689cf36b612cfda",
+      "size": 35804
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p040-r05-06.png",
+      "sha": "015f386d0519636ff5c1245f60255d36b61bfacf",
+      "size": 50729
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p040-r06-06.png",
+      "sha": "fe35fe08e831872de0c9b0370d0eaa207f0c2552",
+      "size": 33875
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p041-r02-02.png",
+      "sha": "bce51b2d92c978fe176bb63601937ff068ab29cd",
+      "size": 35437
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p041-r03-03.png",
+      "sha": "c84f2b2b4c9e56fa5db0eb5cd73f2ca91febe790",
+      "size": 34245
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p041-r04-04.png",
+      "sha": "92ae6239f2b3550fcf1da9520c71ed17fab89b59",
+      "size": 33212
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p041-r06-06.png",
+      "sha": "e4859f886afabd3f1c0b5b8d6bd80f971fc9afbd",
+      "size": 34685
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p042-r01-01.png",
+      "sha": "2ffab05cc9fb0ddebfd1af2730505410ba8f9f1f",
+      "size": 29065
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p042-r02-02.png",
+      "sha": "8cd2862fd5cc8d7f19aecce7b436ef1b42f12057",
+      "size": 34836
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p042-r04-04.png",
+      "sha": "6004b8662365741592b96480bf29fd783171b334",
+      "size": 34935
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p042-r06-06.png",
+      "sha": "19bf71045753179ddbc11057228cf508f4e17203",
+      "size": 34002
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p043-r01-01.png",
+      "sha": "bb6c62201dc40834b5f191c9883c642aaa92566e",
+      "size": 28717
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p043-r02-02.png",
+      "sha": "26b89a9cabf98ed3bc7dd044a314b67a8b21e9e6",
+      "size": 36806
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p043-r03-03.png",
+      "sha": "acf8a6e5594598abaff488230ed7907a6179888b",
+      "size": 36375
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p043-r06-06.png",
+      "sha": "c0d8bf0b5311245bd285b4c5128f06782e8ca64c",
+      "size": 33325
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p044-r02-02.png",
+      "sha": "d0713b43111b391f50430b8f156f7b7afdf2d4f1",
+      "size": 35087
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p044-r03-03.png",
+      "sha": "7d4b7ebe0cb8c5bf677aec6f4468decf1f7dfb54",
+      "size": 35837
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p044-r04-04.png",
+      "sha": "c9662df26798739ce10b41bfc0590b24afe7d0ee",
+      "size": 35527
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p044-r06-06.png",
+      "sha": "55b8b80ccbd2aad67fa190108086a6e663ce6a9e",
+      "size": 35515
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p045-r01-01.png",
+      "sha": "5e0694f204d7fb34b40c683c179ebff638a0555c",
+      "size": 28468
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p045-r02-02.png",
+      "sha": "ecd7d9562e83e48f1c10745237fce3aaf2a44765",
+      "size": 36092
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p045-r04-04.png",
+      "sha": "df4783cef2836faf4aec856b803903835aefc297",
+      "size": 34792
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p045-r05-05.png",
+      "sha": "7cd421bbceab01bfe40e78e54430ca962be9604a",
+      "size": 35069
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p045-r07-07.png",
+      "sha": "e72dcf06db37aded166ed9768bdd409b96e01fe6",
+      "size": 19288
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p046-r03-03.png",
+      "sha": "caf0eaaff4e1917e234f261207c1212e4e6767e9",
+      "size": 34012
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p046-r04-04.png",
+      "sha": "346a8ff44fbae06e2e5535c6a611732cbf498011",
+      "size": 33941
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p046-r05-05.png",
+      "sha": "90747c2dd813f2280b4917bc6496254512ed534d",
+      "size": 34484
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p046-r06-06.png",
+      "sha": "75b3bb41ea7c6327a6ee5c945ed7f685304529e0",
+      "size": 32814
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p046-r07-07.png",
+      "sha": "db826a17d7ddd648a04aff131fce9e4cde156e02",
+      "size": 18814
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p047-r03-03.png",
+      "sha": "572f9e118154a6c78ace96253cfb43914b16a3a8",
+      "size": 33405
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p048-r01-02.png",
+      "sha": "acadae9c623daae573a575f11d494184561175a7",
+      "size": 46276
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p048-r02-02.png",
+      "sha": "c0c353faf30428cf23342273bfffd8eae187c1a9",
+      "size": 34207
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p048-r02-03.png",
+      "sha": "032ca543bf4b1f75a6dbb208baec6de45ad78133",
+      "size": 50853
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p048-r03-03.png",
+      "sha": "bfc2dc54a228988cd354e21f4c71065358ed1f4f",
+      "size": 34249
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p049-r01-01.png",
+      "sha": "872c66a8e02a08118a5842427286004a7cb41c45",
+      "size": 28383
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p049-r04-04.png",
+      "sha": "4243730a8264dae8446ace3fa969efd3b02f6ccb",
+      "size": 33015
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p049-r05-05.png",
+      "sha": "1d35c3f14e67d00f707a94612f217f408ad66048",
+      "size": 32926
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p049-r06-06.png",
+      "sha": "d478a286891ec2b34f79579f08913f681b24787c",
+      "size": 33578
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p050-r01-01.png",
+      "sha": "0f7300c56fee31b86d831301422bc20aa9c10508",
+      "size": 29507
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p050-r04-04.png",
+      "sha": "e6aa2139cd9002ce8c401bc4487b21764dee73a8",
+      "size": 34625
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p050-r05-05.png",
+      "sha": "c71dbd554259920bd935645677837153cdda7f1f",
+      "size": 33359
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p050-r06-06.png",
+      "sha": "1ae21f151878fde07e2ac59a453affbcfb9ed1b0",
+      "size": 32414
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p051-r01-01.png",
+      "sha": "673bd23bff500b73f22369cc405a6f1c82460914",
+      "size": 28573
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p051-r03-03.png",
+      "sha": "cc7878695de4350dd09e9c59f9b268478b68400c",
+      "size": 34700
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p051-r06-06.png",
+      "sha": "e7de8d9d6128f254d912b53274e8d8debbfda2c9",
+      "size": 32919
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p052-r02-02.png",
+      "sha": "6e91cf8869fe15488be70fff8296bee325acb664",
+      "size": 34874
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p052-r03-03.png",
+      "sha": "b8d40111bd75c92ce3106c84877aefa647a9b83b",
+      "size": 36133
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p052-r07-07.png",
+      "sha": "9bf07580818815c1e546b5ce68d91618d01fc39d",
+      "size": 20867
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p053-r01-01.png",
+      "sha": "fa1c4fe174c5a6feb171cb87b1f9bbdf64e9167f",
+      "size": 29140
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p053-r02-02.png",
+      "sha": "d5ac83a40e362ead23f95b12f1535cd899e97b31",
+      "size": 34125
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p053-r05-05.png",
+      "sha": "f2ed9b74f6a4b6ce9e2b0b7c4feca2612854d2cc",
+      "size": 32592
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p054-r02-02.png",
+      "sha": "337a22efb3fe1a38e62ff8e2399da7bd70f6d7dc",
+      "size": 33630
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p054-r02-03.png",
+      "sha": "6c6193ff0acdf2a5d44177bbff40896f33d36872",
+      "size": 51311
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p054-r04-05.png",
+      "sha": "246ad40148149510fd64a85b9345c152ccb519ec",
+      "size": 53714
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p055-r04-04.png",
+      "sha": "8fecb54c328c889787d6e5563209e36050c1a1b6",
+      "size": 36138
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p055-r05-05.png",
+      "sha": "95c9b9f32d045c37ad9bc9fb0e022c7c4971b60d",
+      "size": 35062
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p056-r02-02.png",
+      "sha": "3744cad3f14f66512d2ef6e4fbc76d68d8725f99",
+      "size": 37291
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p056-r04-04.png",
+      "sha": "ec6ce713a8056995948a0e94f728613746e2e314",
+      "size": 38292
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p056-r06-06.png",
+      "sha": "d25397e5713099066894f1cfecd0fc81bb4aeb6a",
+      "size": 34034
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p056-r07-07.png",
+      "sha": "e1df130256ea4de7b640a6cc6eb9e39871d17ec9",
+      "size": 20450
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p057-r02-02.png",
+      "sha": "95918589e199cf81e6e39578e81cc89b0fb2775f",
+      "size": 36494
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p057-r03-03.png",
+      "sha": "0d1ebfd10e74786386c336c18cd476427b74a9c1",
+      "size": 35077
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p057-r06-06.png",
+      "sha": "46d4fba25f616a078131c04641cea7803ce6eafd",
+      "size": 34897
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p057-r07-07.png",
+      "sha": "fd50645a54866d146f6a1a991a471b744ec23ca8",
+      "size": 20192
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p058-r02-02.png",
+      "sha": "ddb2efe3933e0e997c637520479b26d067eb0a85",
+      "size": 37086
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p058-r03-04.png",
+      "sha": "6c41181a440674e05b3a51b6e2eef1d7598ee29e",
+      "size": 52848
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p058-r05-05.png",
+      "sha": "479be70b41cb1b3fca0fee8e25ad46d2542864fb",
+      "size": 33734
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p058-r06-06.png",
+      "sha": "14e6e52330c484127eb0ebd8cdd8b15053d2596d",
+      "size": 33908
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p058-r07-07.png",
+      "sha": "06774e8fd6b1fd2ca0305e999a4fda6082eda84f",
+      "size": 20462
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p059-r01-01.png",
+      "sha": "6e7833f448418a449531fda749adec777967b37a",
+      "size": 28510
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p059-r04-04.png",
+      "sha": "389d991f6e6951b08a99999a63d9f4d9ddae1795",
+      "size": 32856
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p059-r04-05.png",
+      "sha": "756d3d98c0aeadbdf716254812b718182589a666",
+      "size": 47859
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p059-r05-05.png",
+      "sha": "e048884a847feda667b9a396cbc6da253c4c4c0e",
+      "size": 32361
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p059-r06-06.png",
+      "sha": "a41c3491d535310f3b45ffd78ae3620d2b2319ee",
+      "size": 31377
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p060-r01-01.png",
+      "sha": "21567ad7aa4a88d07dfd1efd24aa0f69d88fc003",
+      "size": 30676
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p060-r02-02.png",
+      "sha": "4504e0ff4c4eb599ada82013ed8c6244a49f661e",
+      "size": 34256
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p060-r05-05.png",
+      "sha": "ce93975030bc405ab2147b2c58f68727a74ace4d",
+      "size": 34808
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p060-r07-07.png",
+      "sha": "bdc1fec85841ec3640c1f2de414f64e92c949df0",
+      "size": 20363
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p061-r02-02.png",
+      "sha": "a77a44641f5385ed49a699eb95c4077c4bc4a5a9",
+      "size": 33885
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p061-r04-04.png",
+      "sha": "a6f1780cdae4c0760119eaba9263dc4d255b77c5",
+      "size": 31302
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p061-r05-05.png",
+      "sha": "ae112c141f2b190c92686504c053ee8a639c4687",
+      "size": 31326
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p062-r01-01.png",
+      "sha": "2879eeb278c98526c12bf66ddb3a1e5dbf4355b8",
+      "size": 27766
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p062-r02-02.png",
+      "sha": "22458db73986eaff9dca33d6c16920c563ec556c",
+      "size": 33914
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p062-r03-03.png",
+      "sha": "5cb0c9dc004a8eec81a3f323f24b7daadf6e1e25",
+      "size": 35356
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p062-r04-04.png",
+      "sha": "09bff84994ed5cdc1a2c1d6a1fa815703a599b04",
+      "size": 35220
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p062-r06-06.png",
+      "sha": "99e627f55aa1abe08f6a1e962ed55ba1cdad7ebd",
+      "size": 33785
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p062-r07-07.png",
+      "sha": "cf3cd7101320aed8055757668c61d81218f2e3df",
+      "size": 20720
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p063-r02-02.png",
+      "sha": "51b2c812f3d557013f226513d308138efddcd543",
+      "size": 33705
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p063-r03-03.png",
+      "sha": "79dde32c67b160d70152f441768fe2bfe8338890",
+      "size": 33289
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p063-r04-04.png",
+      "sha": "ccaa22fabd2045372a38e1d809b28e857237bc18",
+      "size": 33727
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p063-r05-05.png",
+      "sha": "38e0b465bbd0f5c822ef1658e83e12a343b14653",
+      "size": 35003
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p063-r06-06.png",
+      "sha": "3a4614c0b9c70e5f7dd66fc8434597aeaca0c91f",
+      "size": 33240
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p063-r07-07.png",
+      "sha": "d300d65384bff430f40914ffdc4ba160087af8b5",
+      "size": 19057
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p064-r02-02.png",
+      "sha": "7ee5836569a1f30e9a306051d88fef53d21a2652",
+      "size": 33950
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p064-r03-03.png",
+      "sha": "2c5a822f219a4c256d5e844e082ba774ab486d98",
+      "size": 34227
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p064-r04-04.png",
+      "sha": "8087bb26b309976a27e5f1b75c56eae70e74fdc9",
+      "size": 34138
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p065-r01-01.png",
+      "sha": "45d1f5b1f3586953567964e10b15221a1b9d45f5",
+      "size": 28525
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p065-r02-02.png",
+      "sha": "abf185db304548ee55dbffa304cd1ec6dbacb8dc",
+      "size": 34820
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p065-r03-03.png",
+      "sha": "39c3819b03d39c46c0330907819c017937f9ffab",
+      "size": 35880
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p065-r05-05.png",
+      "sha": "178dfb0051874d582277a850460f1677bd7ec015",
+      "size": 34348
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p065-r06-06.png",
+      "sha": "3725cad3f944f889c865a8862737f17d2791c886",
+      "size": 33628
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p065-r07-07.png",
+      "sha": "fd36e2a40d437f9e620e8df347c734e5c6d55046",
+      "size": 19733
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p066-r01-01.png",
+      "sha": "1c83ae962891b9169c9bc125b85436d183293b01",
+      "size": 31558
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p066-r02-02.png",
+      "sha": "8bc7091964d5f034af0cc76ad1b266c5c2c203f3",
+      "size": 36491
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p066-r03-03.png",
+      "sha": "f0b748f804fc176c7f974f6c869a64a6d2cc9f2a",
+      "size": 35759
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p066-r04-04.png",
+      "sha": "477fe26ae8e48e500a426f7f3702686d826b415b",
+      "size": 34757
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p066-r05-05.png",
+      "sha": "be7d2b0b95e2f1024f40c1f2241d94f425419127",
+      "size": 35670
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p066-r06-06.png",
+      "sha": "4b1a794774e7a3994316185141fe0a47fe952170",
+      "size": 35923
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p066-r07-07.png",
+      "sha": "02e1a25205330e74a5ae698aab47955d80691277",
+      "size": 20169
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p067-r01-01.png",
+      "sha": "b9648164c3b33fff17c934a03ea993d72634b7f8",
+      "size": 29516
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p067-r02-02.png",
+      "sha": "c3d4305b0da86c507ca53221e7166667174d7c12",
+      "size": 36167
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p067-r03-03.png",
+      "sha": "f9d30adfdad5337d3bdaeb8dfb0f7f6a430e9c8c",
+      "size": 34254
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p067-r04-04.png",
+      "sha": "f3f6fbd4ca2ed9585afc3ee5eabf70eac20f35ae",
+      "size": 35025
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p067-r07-07.png",
+      "sha": "ed5c315a22a6d74a2630036e288e41fd9c1631dd",
+      "size": 19633
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p068-r01-01.png",
+      "sha": "ca449326104051950bbb889bb77143e27b4f9114",
+      "size": 29896
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p068-r02-02.png",
+      "sha": "348c48dd3751066c3ff7dab27971ddfa8dbc1b68",
+      "size": 35195
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p068-r04-04.png",
+      "sha": "a4e1e30d4daae75eaf2cc1fb849e970ed23ffcc7",
+      "size": 32813
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p068-r05-05.png",
+      "sha": "1d28a239d0e7063b57ce38251dbd85a816623f81",
+      "size": 34534
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p068-r06-06.png",
+      "sha": "656fdee5acbfc7506d6929fab49560330fbcb2b9",
+      "size": 35333
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p068-r07-07.png",
+      "sha": "df86ead6e52d266d4f52b71d1151df842a1ff0d8",
+      "size": 19801
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p069-r01-01.png",
+      "sha": "ccf67994050587b9cf8a4d78988ddd1c98cac5f6",
+      "size": 29809
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tingkye-late-continuation/p069-r02-02.png",
+      "sha": "88b6462a55aa24de7ef94d6d72473e86b0ed1720",
+      "size": 37272
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p049-left.png",
+      "sha": "70ab712c93980723e4cee0c0e943a28968a45923",
+      "size": 45481
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p049-middle.png",
+      "sha": "f349fcd132cd414a4948c359d003e2455d48ee77",
+      "size": 50580
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p049-right.png",
+      "sha": "85f5cc8cf879dffff5460a825792fa99cc8e232c",
+      "size": 23600
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p050-left.png",
+      "sha": "e8bd2a4d2b8693c33d912345871409dcd29e444e",
+      "size": 43162
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p050-middle.png",
+      "sha": "8e963453029c9fb07c4096dcf15cdd1b9e30556a",
+      "size": 48423
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p050-right.png",
+      "sha": "c5ca8a153fdb21fb77633cf9be1010062506ad51",
+      "size": 24162
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p051-left.png",
+      "sha": "11e87083f4e364b5e5c5a033244204271b803a03",
+      "size": 45882
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p051-middle.png",
+      "sha": "bd251658669971f788f071222f2a69c00b86c837",
+      "size": 51517
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p051-right.png",
+      "sha": "4de9d4f05a8015e2158d539c038dc3dec6ff8624",
+      "size": 25016
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p052-left.png",
+      "sha": "de745e6e787c018a5fa41e2ac2e682d8d3c8df24",
+      "size": 44985
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p052-middle.png",
+      "sha": "d0701188248393ffc1ed1f57e72898346c165f8f",
+      "size": 47012
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p052-right.png",
+      "sha": "e9f7098d19475cb5150096f79bd53dd18dd874a5",
+      "size": 24791
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p053-left.png",
+      "sha": "f13e4ba2df182349296218eefda7d32c78a4412a",
+      "size": 45084
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p053-middle.png",
+      "sha": "a0cd0e4922b44a2ae1036742c956f2917bb17a76",
+      "size": 51415
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p053-right.png",
+      "sha": "02da75393aaa42e34a5d4133bad587715129618b",
+      "size": 25960
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p054-left.png",
+      "sha": "221580ac5d2c1ee7d172f870dff0239e6ac2d4f7",
+      "size": 43020
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p054-middle.png",
+      "sha": "5b9ef4bb7730d3badbfdf15baa1fc52dfac38117",
+      "size": 49338
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p054-right.png",
+      "sha": "889cc5346986404fa802a053c8b4017e52a88931",
+      "size": 26290
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p055-left.png",
+      "sha": "9d5fd60e39c579117b46426055f3657871721ab2",
+      "size": 45790
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p055-middle.png",
+      "sha": "f086cfae4335f2ffbcb7c67a48e58123e8b97a67",
+      "size": 49456
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p055-right.png",
+      "sha": "22b9f1531324af9460b2f5cbca6eeb4299fa9dd1",
+      "size": 25465
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p056-left.png",
+      "sha": "1f31c0266fd26138ab6f7ca98c030cddfa291170",
+      "size": 46108
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p056-middle.png",
+      "sha": "0a01a18b92c6402c2ebafbebe28832420f6b430f",
+      "size": 49847
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p056-right.png",
+      "sha": "392219a5890f3f5ff0558170817418a5ef85e402",
+      "size": 25243
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p057-left.png",
+      "sha": "5132b0e2bb1b4fd1a7e2849f646ae8ff84aa9252",
+      "size": 46407
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p057-middle.png",
+      "sha": "ce504e6ed8f07ed7c8b18052de869b7798615ced",
+      "size": 50315
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p057-right.png",
+      "sha": "2891627cbe4c174fa255eec858545fd20532eac2",
+      "size": 25194
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p058-left.png",
+      "sha": "aa8240ad2bf59239e239e535ac48318cc73e0cc4",
+      "size": 46779
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p058-middle.png",
+      "sha": "a5c89cdb68d3307c0f8385106eea077f89a885bd",
+      "size": 50360
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p058-right.png",
+      "sha": "0c8875dd6e4010b57ee658d91b740d4574f9c385",
+      "size": 26107
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p059-left.png",
+      "sha": "b1d25deb9d6827502cf5506abf72726b566e0f2e",
+      "size": 44263
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p059-middle.png",
+      "sha": "5fef0cd76cb45cf05a42f149e6f44591afa2513b",
+      "size": 50656
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p059-right.png",
+      "sha": "69c19ecfbb9523dd332469c859d6c11e604f12f5",
+      "size": 25480
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p060-left.png",
+      "sha": "3fe18d42dab2a553909d05e48395d2781ba193c6",
+      "size": 43719
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p060-middle.png",
+      "sha": "4b201ddf33f3e97867d3936a52eef4455d3f316b",
+      "size": 46708
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p060-right.png",
+      "sha": "41087141c296f12cc2ea79dc5e7505482036fdb1",
+      "size": 24730
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p061-left.png",
+      "sha": "4d5a29c37f7afb3607dbf09d4d3d72ce5655f54a",
+      "size": 46201
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p061-middle.png",
+      "sha": "4d05e7d57a36f735d7da3cef58567f4e007b65a0",
+      "size": 53506
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p061-right.png",
+      "sha": "2615af5a4e440df460f03bb8b6cfc7a62516b9ad",
+      "size": 27840
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p062-left.png",
+      "sha": "018669c5197804c97fa57314ce16765ecea19fd4",
+      "size": 41649
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p062-middle.png",
+      "sha": "169205100a7d74a1c45cef66f6d736ea055f9979",
+      "size": 46394
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p062-right.png",
+      "sha": "0194ca10fa873fcd0a0c42a0f186f9383a937931",
+      "size": 25027
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p063-left.png",
+      "sha": "4fda2fd21a16afc1c1afc93a2296c7870ccd1a55",
+      "size": 45540
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p063-middle.png",
+      "sha": "0f8aa84e66a6437d3f5dc4c1c27607098519e726",
+      "size": 51796
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p063-right.png",
+      "sha": "eec6b066ba797e293ab8ec0891b204736311416e",
+      "size": 26569
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p065-left.png",
+      "sha": "c217d04f3e0a6f7e191221217b68fdb49334ec47",
+      "size": 46810
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p065-middle.png",
+      "sha": "59180e37b7ef767ca2125a96ea831d5b7cae9a1d",
+      "size": 49906
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p065-right.png",
+      "sha": "3921c8789778b3d20ea56710073c5af11f5dab40",
+      "size": 25155
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p066-left.png",
+      "sha": "2b0430db847e178061f897662d7244678f8a2705",
+      "size": 43386
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p066-middle.png",
+      "sha": "99548761f1cc549a364cea32b60028112bdcfcae",
+      "size": 48278
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p066-right.png",
+      "sha": "92fbb423ddc64b9050a198f94169f2794d6bd90e",
+      "size": 25796
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p068-left.png",
+      "sha": "256d76eb29717d55c3a2fdbe60ec1f5b16d6e58a",
+      "size": 44234
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p068-middle.png",
+      "sha": "e2a2fe234ef3fd8a8186899dc174923faadd7a2e",
+      "size": 47747
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p068-right.png",
+      "sha": "51758b9e944cce8c4aa40455c1050681f2a78ba0",
+      "size": 26710
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p069-left.png",
+      "sha": "ecf1f98542868ec08990b51e2c504a2058d46ed8",
+      "size": 44680
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p069-middle.png",
+      "sha": "715896fea08fc28edd7f0a712db434755d2dd14b",
+      "size": 50240
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p069-right.png",
+      "sha": "bf37c1c71370f2a6a081eaf4dff31d07d09b32df",
+      "size": 26109
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p070-left.png",
+      "sha": "87f16e0c3b9944098d4bd1f6d478e9d73b2cde8e",
+      "size": 44631
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p070-middle.png",
+      "sha": "1dce5927b9dff116f0be7cc9046d48bdb3b5ecc4",
+      "size": 47875
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p070-right.png",
+      "sha": "8740bd9986b267c632a3dee15ba7587911d243dd",
+      "size": 26431
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p071-left.png",
+      "sha": "572a31f4b1819389d8d2f45207444189e2d8b419",
+      "size": 45031
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p071-middle.png",
+      "sha": "47ad4ef6640c0c42a9b5e76b5efd6c957c4423d8",
+      "size": 50913
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p071-right.png",
+      "sha": "54dd0aceedce6d699ab14a4e08981c17c355b4ab",
+      "size": 24583
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p072-left.png",
+      "sha": "de0963a86a3b974e0878de257bccfdc50788e3cc",
+      "size": 42561
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p072-middle.png",
+      "sha": "6881579b38264eb68f5a3a54f709c327bb46fbb9",
+      "size": 46788
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p072-right.png",
+      "sha": "e3b35ecd0bccf2a57479857e3241cb6686819dfd",
+      "size": 25155
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p073-left.png",
+      "sha": "a92b7eb409fed583d3a68af9da4058da6b5b7f80",
+      "size": 45237
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p073-middle.png",
+      "sha": "890d40e83b572ad18ad7cdd49091e46601b55b10",
+      "size": 47749
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p073-right.png",
+      "sha": "7206f8c5b652ac05eede74ca42571d8e3b091a8b",
+      "size": 22726
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p074-left.png",
+      "sha": "9fd7cb74751bceaa37c3ca2b6f12eb44492269ea",
+      "size": 41767
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p074-middle.png",
+      "sha": "b86f4d297ea382422c5e49aa27481c1e9b47ebf9",
+      "size": 45100
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p074-right.png",
+      "sha": "eea6b380f5b8a41188182dcb1f16356c831a397a",
+      "size": 24645
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p075-left.png",
+      "sha": "5411f7236274affc980d3d2b000776df4acfd3e5",
+      "size": 45535
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p075-middle.png",
+      "sha": "5238fab48d5a0ade044bfaad983d40702a0b7777",
+      "size": 50273
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p075-right.png",
+      "sha": "dc8dd92861514e40c5b16bb5377f73e2e0f7adb2",
+      "size": 23558
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p076-left.png",
+      "sha": "e7b029ea4705fe85b50be283ea0fde3f8f623f1e",
+      "size": 43364
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p076-middle.png",
+      "sha": "09b6b55f599cd125aac3e1421567f1d446769a8c",
+      "size": 47194
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p076-right.png",
+      "sha": "e4e33f08df07631ee92f1fd19ed767153a9604d4",
+      "size": 25831
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p077-left.png",
+      "sha": "8b5a12d6f66fd4e012d7f079618403f8d50e3889",
+      "size": 42938
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p077-middle.png",
+      "sha": "2660c17895dd88cb4e14070bbfd4f66e1bccb7ef",
+      "size": 48017
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p077-right.png",
+      "sha": "596e51be214e18027542feabadf59ce1badc74f6",
+      "size": 23349
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p078-left.png",
+      "sha": "2658cd2549d6e3c62119baa9774a7de4809b051f",
+      "size": 41316
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p078-middle.png",
+      "sha": "2f989cc91ba3653094974d353c4afbcc8f636bee",
+      "size": 47847
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p078-right.png",
+      "sha": "724fec36a661f0b723313700207cbd71d4f7d38a",
+      "size": 25900
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p079-left.png",
+      "sha": "d5fa8ae28b80518ccc0bc8250771cfe0829a6db1",
+      "size": 46696
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p079-middle.png",
+      "sha": "41308b113cbbe1683fb13bc8af1bf1dd807a7c6f",
+      "size": 48583
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p079-right.png",
+      "sha": "242e3d6f0054eb4cda04b7ff42b305f4d27eeb2f",
+      "size": 24107
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p080-left.png",
+      "sha": "2c5b679d2c77beed50335cd3ecbf1a77370547a3",
+      "size": 44056
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p080-middle.png",
+      "sha": "647492636239bc65cc9744afc459b65ad229ae48",
+      "size": 49042
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p080-right.png",
+      "sha": "4bdcd86c8bec07951fe39033473a603ab2adaa6a",
+      "size": 26363
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p081-left.png",
+      "sha": "0a03a29780ef1a9b051bc8551e8b2c90bf2b25f8",
+      "size": 45239
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p081-middle.png",
+      "sha": "87c47a81ca57f549a384f4b542106298253e2060",
+      "size": 50776
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p081-right.png",
+      "sha": "9270dae6ab15530546c9d33ede08ade85c7f7c92",
+      "size": 25251
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p082-left.png",
+      "sha": "a78c418843c0def1d8e77ddc6971e3d33824f268",
+      "size": 43285
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p082-middle.png",
+      "sha": "abc8f66b668634f569e1cddf8c8d8cf30d8b96e5",
+      "size": 49335
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p082-right.png",
+      "sha": "ed4897da1fb8686964d232c8a04b1e2b9d20fb69",
+      "size": 24486
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p083-left.png",
+      "sha": "dd734fa25a655e7e6aba3b254305d39f3d4673bd",
+      "size": 44427
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p083-middle.png",
+      "sha": "53b62e6835b3b33779fdc89ab6eaf551663eae26",
+      "size": 50905
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-late/p083-right.png",
+      "sha": "48d0fd4869f6e28bd5eca1d6fe7e36ab028705e8",
+      "size": 26658
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p014-row4.png",
+      "sha": "9361248fb546a3337451fafafae51cfe79ee7676",
+      "size": 37315
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p014-row5.png",
+      "sha": "f71417bf9e93a6b0991c84cc12828096d7a937d1",
+      "size": 37257
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p015-row3.png",
+      "sha": "036ae37ce7627dd4784503e8d283566e32560d5a",
+      "size": 36789
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p015-row4.png",
+      "sha": "0f899332a73449d092256072e92b31e38026a3e0",
+      "size": 37824
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p015-row7.png",
+      "sha": "b16eb6c70d706d18889232e07af6cabfc79234b5",
+      "size": 23823
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p016-row2.png",
+      "sha": "15b78bb8a821973556136288b27aa067d4dcc622",
+      "size": 32239
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p016-row3.png",
+      "sha": "2371c8faa95d2ba3d63565add2bc9e5b52a7743b",
+      "size": 34198
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p016-row4.png",
+      "sha": "2d891a3b9368449adc17dac5a09f9048715d6b75",
+      "size": 34441
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p016-row7.png",
+      "sha": "272a7693ee28d6ed71782fb5583323de450fc48a",
+      "size": 30416
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p017-row1.png",
+      "sha": "f601b06487674a3906e0b8ba616c93c5867a31a3",
+      "size": 30312
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p017-row2.png",
+      "sha": "043928fb7e3455f991bbacd3e8fe17a22fdfb7b3",
+      "size": 37460
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p017-row4.png",
+      "sha": "318c6b6b4ec382c079095c8465538e0deabc6ff8",
+      "size": 37453
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p017-row5.png",
+      "sha": "b77a6da77c2558525d6c95aab96dd4093ae09690",
+      "size": 38809
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p017-row6.png",
+      "sha": "2b6f2c840e43865d61962cf69c6c7343ccd3a2c1",
+      "size": 38325
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p018-row2.png",
+      "sha": "c601dc643b117070fe26a4198cb2ee3133e459df",
+      "size": 35605
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p018-row3.png",
+      "sha": "9adf2808de5336ce3eebd16920a29c03f93d52a1",
+      "size": 37069
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p018-row4.png",
+      "sha": "ff3d19823a0591996acefdbbab0e8f4d5eb52d10",
+      "size": 35936
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p018-row6.png",
+      "sha": "c9f2998f4dce5e241067f1e187e76847f95483df",
+      "size": 39099
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p019-row2.png",
+      "sha": "2ff78b485196b688f72a7f275d08ae5c02cbbb49",
+      "size": 35362
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p019-row4.png",
+      "sha": "b79585990f636d451016fd9845df454d170d0156",
+      "size": 36669
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p019-row5.png",
+      "sha": "2607727e21d02db8d1946ce51f2e321fc5a66e5f",
+      "size": 38625
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p019-row6.png",
+      "sha": "2c9023de77dd39ae5115b8ba6b38ca1ef0fbc9ad",
+      "size": 38993
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p020-row5.png",
+      "sha": "b422060e0abb8bb02e6145c7b722c4ee6262d3d3",
+      "size": 41092
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p020-row6.png",
+      "sha": "9bd15bda38dd230a041ac85f99ca288966daa6bc",
+      "size": 39896
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p020-row7.png",
+      "sha": "55acee82bbbacf036c915a44a9b9711ec7c841c5",
+      "size": 24983
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p021-row4.png",
+      "sha": "c7daf232a2e97ebdc8db73e54fb4117b116507d7",
+      "size": 38212
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p021-row5.png",
+      "sha": "bbda1245b76bfdde8883c7670317a650ec349009",
+      "size": 36769
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p021-row6.png",
+      "sha": "c6e7a9ba77492f4a06493519bec8882a17b29400",
+      "size": 36448
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p022-row3.png",
+      "sha": "3e111c8a43d06b2f20d3a8d97ae31f9a819ad19a",
+      "size": 38506
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p022-row4.png",
+      "sha": "8e2657f22a45e6ae1c48ff1cb41f015ef1d60e0e",
+      "size": 39007
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p022-row6.png",
+      "sha": "6dce051b468acb6aa04766afdf766d1bee5293cc",
+      "size": 38633
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p022-row7.png",
+      "sha": "ae74434a3e92496a5fcb58f21ed9c00f83e530ae",
+      "size": 27239
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p023-row2.png",
+      "sha": "71746117dff49b309037dcfc080990fdcbe9a3a1",
+      "size": 38206
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p023-row4.png",
+      "sha": "7b865740624d5df75a03ae589817140a68c24e80",
+      "size": 38559
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p023-row6.png",
+      "sha": "5d4046033a9822f1a7a87548c1d263ea07ec7b6f",
+      "size": 36112
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p024-row5.png",
+      "sha": "ed113961d17ee76601601ebb00c42f7965716ff5",
+      "size": 36882
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p024-row7.png",
+      "sha": "a2587955e8b16a4ffc2919e75b11fa957e087cbf",
+      "size": 27895
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p025-row2.png",
+      "sha": "ed8c01c6e89637af92695f260578b7361c1e4e20",
+      "size": 35828
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p025-row3.png",
+      "sha": "c8b689f35f53c8bf13db738bcb28da8f152a4e88",
+      "size": 35324
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p025-row7.png",
+      "sha": "7f2d420cddeba45181692663a0f1659934f08fc0",
+      "size": 22335
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p026-row2.png",
+      "sha": "687dd4863757878abd0093492acd5ced148fa98a",
+      "size": 35710
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p026-row3.png",
+      "sha": "8cae6519242f65afa32c88e46b9428b15b622706",
+      "size": 38314
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p026-row4.png",
+      "sha": "1c448356263cef28979bdb89b752e8dddfed7885",
+      "size": 39595
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p026-row5.png",
+      "sha": "e521b7428f1d73cee41219131d424f1682a32b7d",
+      "size": 40224
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p027-row2.png",
+      "sha": "09ac931885a013283b8baf35ff1dc1d6e40a170a",
+      "size": 36768
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p027-row4.png",
+      "sha": "4ac45b5f2bbc799b0409afddaed5c3ed95a2b385",
+      "size": 37816
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p030-row5.png",
+      "sha": "faa121d50e988a9cc352e94516a76930ae37d255",
+      "size": 38062
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p031-row4.png",
+      "sha": "1c795b152207625efc3de457ea2e3534d86088d8",
+      "size": 37790
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p031-row6.png",
+      "sha": "7ee83504b33c97e2f93e99ffba8f5a908b50d0bf",
+      "size": 35045
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p032-row2.png",
+      "sha": "231d37776734df7c5f4918aa4618304b5c874c7f",
+      "size": 37735
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p032-row3.png",
+      "sha": "eb2cc52f67291f98bd458240deff4defa326f83f",
+      "size": 39612
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p032-row7.png",
+      "sha": "bd256edd36726cd7b8ecf196d005ce514c4be467",
+      "size": 22817
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p033-row2.png",
+      "sha": "5337ef056b53562bc7ed6f93a20a6e8564f4562c",
+      "size": 40168
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p034-row1.png",
+      "sha": "a14e8e46cb30d5090a9b2c0bcc4530f0db1e7233",
+      "size": 23696
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p034-row4.png",
+      "sha": "f6604dc3b6e3176e688b97ea9d4420078a1872ef",
+      "size": 38780
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p035-row6.png",
+      "sha": "18175bf5a176abf454d8c7786236d255b4fbff9e",
+      "size": 37757
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p036-row1.png",
+      "sha": "762607cb43a35e457284166e9b923d0e5d52d03c",
+      "size": 22912
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p036-row2.png",
+      "sha": "53a7f8e821044f21d8aa5cbb16c22d51912e2fcb",
+      "size": 36094
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p036-row3.png",
+      "sha": "420e1b4a08ab80f21e8d0b987ce5e076799ae0e9",
+      "size": 37801
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p036-row4.png",
+      "sha": "235bce07ceae5b0256ef235d24d26940d0a29a0e",
+      "size": 37782
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p036-row5.png",
+      "sha": "37bef7c6924469a37993bd305a2f21242a7c5f0f",
+      "size": 38346
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p036-row7.png",
+      "sha": "f5b611df7dba577840c8a2b708441af3cb870dbf",
+      "size": 23929
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p037-row2.png",
+      "sha": "1358e20e6b8a6453848d3293bcf40ff3c311ce7d",
+      "size": 38035
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p037-row5.png",
+      "sha": "af1d29b796bb946a1addf783e874ec0647e02734",
+      "size": 36952
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p037-row7.png",
+      "sha": "b0bb583cfefaae339022fc30d2a3dda39126bddd",
+      "size": 21723
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p038-row7.png",
+      "sha": "58acd2fce980e041cb668465eda63dee985ad1a2",
+      "size": 21598
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p039-row2.png",
+      "sha": "d514cb9c41392035876e7a6de8ced888d61db1f4",
+      "size": 36021
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p039-row3.png",
+      "sha": "0c33eb08d9d5806e2b582b83a1c0feaecfefcba5",
+      "size": 37194
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p039-row4.png",
+      "sha": "c2c94463a1e979fb086af3200e2aba7b1cffef50",
+      "size": 37094
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p039-row7.png",
+      "sha": "e4efe43051da8c2c76f8dcf16c3296423c3064b0",
+      "size": 21333
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p040-row4.png",
+      "sha": "758ad189783300dd53a39d38973395c0528dbb0c",
+      "size": 37640
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p040-row6.png",
+      "sha": "c70295ecbf1b86b677a03b54d1555e68ea8b3e6e",
+      "size": 36267
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p040-row7.png",
+      "sha": "3e76274080a37e1e253b9f7f9664f1dd8286d526",
+      "size": 23483
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p041-row1.png",
+      "sha": "9be9cc1b5e37e3e4010607ec5f594ae67a8ec634",
+      "size": 24517
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p041-row3.png",
+      "sha": "5a71baae1adce469a21c531f3b8e93160c2a2036",
+      "size": 37295
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p041-row4.png",
+      "sha": "56c3ce20a40c109c3b49d0040e63ff806c83b99f",
+      "size": 38937
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p041-row5.png",
+      "sha": "d2d11d50511f118435de42a3ef28071dfb73ad79",
+      "size": 41056
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p041-row6.png",
+      "sha": "60ff8a723e53e4be333288df2663828b3e245f9b",
+      "size": 39829
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p041-row7.png",
+      "sha": "444fcab2d4de5ac73c529a5a63bf4bcb937ac7d3",
+      "size": 25068
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p042-row3.png",
+      "sha": "dc067078c0a1557408513abb5e7f39b3c265a968",
+      "size": 37564
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p042-row5.png",
+      "sha": "aa7191b2b55f32bb36d97eab35f7406dea9b3537",
+      "size": 35238
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p043-row4.png",
+      "sha": "34004fc969bbd6de3e74659d57db058cae967d93",
+      "size": 36670
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p043-row7.png",
+      "sha": "c905adf50002f1283e4cc414531aa87df1eea362",
+      "size": 26129
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p044-row1.png",
+      "sha": "01c4c5a21e4bf904c105bbe1a5973f97e1c27c1d",
+      "size": 21928
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p044-row4.png",
+      "sha": "9a31e5f8e242d45cf41869eaffb49ebba88f9bea",
+      "size": 38765
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p044-row5.png",
+      "sha": "0279377a49eee4afcaac5ed8dd9a0e8a3d20189c",
+      "size": 39264
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p044-row6.png",
+      "sha": "9aac63e8848312c45856513563480e0834502a48",
+      "size": 38609
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p045-row2.png",
+      "sha": "a2607cf0bc4bbe3930a511f82511f32bdade7bc5",
+      "size": 35835
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p045-row4.png",
+      "sha": "09f3811cb2a0078dc48e785e695dc5163b07fb46",
+      "size": 36716
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p045-row6.png",
+      "sha": "b74a8b596de030dbf0fec8b4beb29e9db949aece",
+      "size": 36522
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p045-row7.png",
+      "sha": "33f3efc28aa76bbd5f9adf08a11eaf0be7daffc2",
+      "size": 25311
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p046-row1.png",
+      "sha": "85c5e8b77c0b70679802d124caf2bd2f91e53aed",
+      "size": 26082
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p046-row4.png",
+      "sha": "653a71cbe89a01772823c041ace5e6e0c6d42da0",
+      "size": 37636
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p046-row7.png",
+      "sha": "5c42043aab72083550a5e1c170793a9da2e6a1cf",
+      "size": 27479
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p047-row1.png",
+      "sha": "ee6c5956491b0695dea80d7652bbd7444d2cd9aa",
+      "size": 25527
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p047-row2.png",
+      "sha": "5dc17282b78cb1e3c65bb095b5bf19535e25ed8e",
+      "size": 35491
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p047-row3.png",
+      "sha": "97fcc8b3484a2717fbb56381e213b1276666f4cf",
+      "size": 37575
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p047-row4.png",
+      "sha": "d5e48553895b0a59a6ceb610b78d302377815fb1",
+      "size": 37215
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p047-row5.png",
+      "sha": "8841343d946e663140a0733c9f844e4842dc5a4f",
+      "size": 36483
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p048-row2.png",
+      "sha": "9c1c5ad8ac16551b43abf6e245fda1ac77f2d87b",
+      "size": 31785
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p048-row3.png",
+      "sha": "4f1bcb2d4b8d63c17889be136e33cc3edcfd6975",
+      "size": 33979
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p048-row6.png",
+      "sha": "15b3d223ef2b4f0dae36515f3f60820ad521148d",
+      "size": 35227
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/extension/tsamdrak-middle/p048-row7.png",
+      "sha": "85dd4e3ea1c3a257b6134b206f569b8f55f0e5a1",
+      "size": 26858
+    }
+  ],
+  "last_successful_local_validation": {
+    "base_units": 2635,
+    "exact_transcript_conflicts": 359,
+    "whole_unit_loci": 183,
+    "local_observations_including_uncertainty": 1016,
+    "scan_intervention_records": 55,
+    "restored_main_verses": 13,
+    "source_hashes_unchanged": true,
+    "reconstruction_checks": [
+      "minimal_B_exact",
+      "minimal_S_exact",
+      "whole_unit_B_exact",
+      "whole_unit_S_exact"
+    ],
+    "all_local_markdown_links_resolved": true,
+    "chapter_complete": false,
+    "note": "This validation preceded subsequent edits, corrections, Gcn additions and punctuation work. It is not a validation of the unfinished latest work or this evidence-only archive."
+  },
+  "continued_work": {
+    "Dzongsar": "Main sequence through PDF121; earlier integration audit qualified exact suffixes in two numerical source notes.",
+    "Tsamdrak": "Main-row passes through PDF83 row6; local glyph and annotation uncertainties retained.",
+    "Tingkye": "Main-row passes through PDF69 row4, 176 later observations. Three early omission claims rechecked; one withdrawn and two confirmed locally.",
+    "Langtang": "Main-row passes through PDF104 rows1–2; middle159 and late34 local findings. Larger local gaps independently checked.",
+    "Dege": "Main-row partial lexical comparisons through PDF54 row3; faint letters and small annotations not certified.",
+    "Tharpaling": "PDF17–43 sequential partial comparison saved. PDF44–47 and corrected restoration checks saved; PDF48–51 inspected but save blocked. PDF52–71 sequential continuation incomplete. Substantial damaged/faint spans unresolved.",
+    "Gcn": "Root mapped; opening408–410 and middle411–448 reports saved. PDF449–452 inspected but save blocked. PDF453 onward not continuously compared. Earlier failed late attempt is not a completed pass.",
+    "Other_manuscripts": "Gadkar, Zhichen and W1ER119 retain explicit reading-capability limits and uncollated ranges. No expected wording supplied.",
+    "Base_signs": "Pagewise inspections cover Adzom PDF1–102, with local correction proposals and targeted evidence. This is not exhaustive certification of every tsheg, ornamental sign or title glyph."
+  },
+  "mandatory_corrections": [
+    {
+      "id": "TH-C1-CONT-003",
+      "disposition": "withdraw false absence",
+      "correct": "All three S01 water verses occur on Tharpaling PDF35 row2 right through row3 left, between U1274 and U1275.",
+      "cause": "Earlier crop began at U1275 and did not show the supposed preceding junction.",
+      "superseded_by": "TH-MID-004"
+    },
+    {
+      "id": "TH-C1-CONT-004",
+      "disposition": "withdraw false absence",
+      "correct": "S02 three verses occur on Tharpaling PDF51 row3 end through row4 before U1883, not at the previously cited PDF50.",
+      "superseded_by": "TH-LATE-001"
+    },
+    {
+      "id": "TH-C1-CONT-005",
+      "disposition": "withdraw false absence",
+      "correct": "S03 follows U2005 on Tharpaling PDF54 row6 and continues through PDF55 row1 'bras bu las before U2006.",
+      "superseded_by": "TH-LATE-002"
+    },
+    {
+      "id": "TK-C-006-U00183",
+      "disposition": "withdraw false two-verse absence",
+      "correct": "Tingkye PDF6 row5 contains U183 and U184 between U182 and U185. Presence established; exact opening vowel/kye repetition not certified by this audit."
+    },
+    {
+      "id": "TK-C-006-U00182",
+      "disposition": "withdraw nas addition",
+      "correct": "Focused PDF6 row5 shows gsol directly followed by the invocation. The claimed nas addition is unsupported. This final scratch correction could not be saved."
+    },
+    {
+      "id": "TK-C-027-U00975",
+      "disposition": "local omission supported",
+      "correct": "PDF27 row3 joins U974 directly to U976. Both flanks and all intervening physical rows checked; no global absence claim."
+    },
+    {
+      "id": "TK-C-032-U01174",
+      "disposition": "local omission supported; expand indexed units",
+      "correct": "PDF32 joins U1173, split across rows3–4, to U1176; U1174–1175 locally absent. Index both units."
+    },
+    {
+      "id": "Gcn_late_provisional_locators",
+      "disposition": "withdraw expected-text locator errors",
+      "correct": "PDF449 starts U1253, not U1427; PDF451 starts U1331, not the earlier U1511 candidate. Sequential middle report ends PDF448 at U1252."
+    },
+    {
+      "id": "Tharpaling_provisional_locators",
+      "disposition": "withdraw nonsequential quick matches",
+      "correct": "PDF42 ends U1562; PDF43 starts U1563 and ends U1598; PDF44 starts U1599. Earlier U1630/U1631 endpoints were incorrect."
+    }
+  ],
+  "local_punctuation_work": {
+    "integrated_original_unit_changes": [
+      "U00030",
+      "U00035",
+      "U00105",
+      "U00252",
+      "U00372",
+      "U00578",
+      "U00594",
+      "U00710",
+      "U01757",
+      "U02080",
+      "U02090",
+      "U02172",
+      "U02183",
+      "U02484",
+      "U02489"
+    ],
+    "note": "Fifteen local punctuation interventions were written before the outage; not all were included in the last successful validation. U00372 is a local 2-to-1 allocation before a small heading; U00710 restores an observed tsheg. Other listed changes preserve locally observed detached strokes, not a global doubling rule.",
+    "middle_report_pending_integration": {
+      "main_one_to_two": [
+        "U00995",
+        "U01094",
+        "U01270",
+        "U01416",
+        "U01534",
+        "U01627",
+        "U01635"
+      ],
+      "heading_one_to_two": [
+        "U00910",
+        "U00948",
+        "U01023",
+        "U01147",
+        "U01186",
+        "U01239",
+        "U01257",
+        "U01308",
+        "U01353",
+        "U01476",
+        "U01540",
+        "U01557",
+        "U01634",
+        "U01661",
+        "U01727"
+      ],
+      "main_before_heading_two_to_one": [
+        "U01539",
+        "U01595",
+        "U01688"
+      ],
+      "unresolved": "Initial U1556/U1557 boundary abraded; pair after U1557 is clear. Exact allocation must be checked locally. Do not normalize all heading boundaries."
+    },
+    "insertion_revisions": "S02/S03 terminal pairs; S04 first jog one detached shad (ga downstroke is part of letter), second gis pair; S05/S06 transition four strokes allocated explicitly across main/heading; S07 pair. Prior strings and reasons retained in local insertion records.",
+    "note_U1286": "Root wider native crop confirms chu'i byer snyoms gnyis chad is small source annotation on Adzom PDF51 row4 right. Local additional intervention separates it from main verse. Terminal stroke remains uncertain against right frame."
+  },
+  "restoration_crossrefs": {
+    "DZ-LATE-17": [
+      "S02"
+    ],
+    "DZ-LATE-18": [
+      "S03"
+    ],
+    "DZ-LATE-20": [
+      "S04"
+    ],
+    "DZ-LATE-22": [
+      "S05",
+      "S06",
+      "S07"
+    ],
+    "TK-C-034-U01274": [
+      "S01"
+    ],
+    "DGC-012": [
+      "S01"
+    ],
+    "DGC-012b": [
+      "S01"
+    ],
+    "DZ-MID-060-RESTORATION": [
+      "S01"
+    ],
+    "TS-L-045": [
+      "S07"
+    ],
+    "TL-098": [
+      "S05"
+    ],
+    "TL-099": [
+      "S06"
+    ]
+  },
+  "unsaved_guided_omission_audit": [
+    {
+      "id": "OMA01",
+      "witness": "Tingkye",
+      "pdf": 39,
+      "rows": "2",
+      "units": "U1442–1452",
+      "result": "Local gap supported; U1453 present between U1441 and U1455.",
+      "crop": "tingkye-1973-039-expanded-junction.png",
+      "bounds": [
+        550,
+        320,
+        3900,
+        470
+      ]
+    },
+    {
+      "id": "OMA02",
+      "witness": "Tingkye",
+      "pdf": 65,
+      "rows": "1–2",
+      "units": "U2459–2462",
+      "result": "U2458 directly to U2464; small heading2463 treated separately.",
+      "crop": "tingkye-1973-065-junction.png",
+      "bounds": [
+        550,
+        230,
+        3900,
+        475
+      ]
+    },
+    {
+      "id": "OMA03",
+      "witness": "Tingkye",
+      "pdf": 66,
+      "rows": "4–5",
+      "units": "U2521–2524",
+      "result": "U2520 directly to U2525 and U2526.",
+      "crop": "tingkye-1973-066-expanded-junction.png",
+      "bounds": [
+        550,
+        480,
+        3900,
+        750
+      ]
+    },
+    {
+      "id": "OMA04",
+      "witness": "Tingkye",
+      "pdf": 66,
+      "rows": "1",
+      "units": "U2499",
+      "result": "U2497 to U2498 to U2501; heading2500 treated separately.",
+      "crop": "tingkye-066-row1.png",
+      "bounds": [
+        550,
+        230,
+        3900,
+        405
+      ]
+    },
+    {
+      "id": "OMA05",
+      "witness": "Langtang",
+      "pdf": 61,
+      "rows": "1–2",
+      "units": "U1442–1452",
+      "result": "U1441 to U1453 to small heading to U1455. Heading present; exact small letters not certified.",
+      "crop": "langtang-061-junction.png",
+      "bounds": [
+        230,
+        90,
+        2700,
+        260
+      ]
+    },
+    {
+      "id": "OMA06",
+      "witness": "Langtang",
+      "pdf": 71,
+      "rows": "1",
+      "units": "U1744",
+      "result": "U1743 directly to U1745.",
+      "crop": "langtang-071-junction.png",
+      "bounds": [
+        235,
+        105,
+        2700,
+        270
+      ]
+    },
+    {
+      "id": "OMA07",
+      "witness": "Langtang",
+      "pdf": 72,
+      "rows": "2",
+      "units": "U1778",
+      "result": "zug dang byer dang snyoms pa'i las directly to bcu gnyis dag ste gsum gsum gyis.",
+      "crop": "langtang-072-junction.png",
+      "bounds": [
+        235,
+        185,
+        2700,
+        380
+      ]
+    },
+    {
+      "id": "OMA08",
+      "witness": "Langtang",
+      "pdf": 51,
+      "rows": "1",
+      "units": "U1174–1175",
+      "result": "U1173 directly to U1176.",
+      "crop": "langtang-051-junction.png",
+      "bounds": [
+        235,
+        90,
+        2700,
+        320
+      ]
+    },
+    {
+      "id": "OMA09",
+      "witness": "Tsamdrak",
+      "pdf": 56,
+      "rows": "6–7",
+      "units": "U1778",
+      "result": "Verse present with shorter bcu gnyis dag las lo rnams kyang; ma yi absent locally. Not a whole-verse omission.",
+      "crop": "tsamdrak-056-expanded-junction.png",
+      "bounds": [
+        300,
+        640,
+        4110,
+        960
+      ]
+    },
+    {
+      "id": "OMA10",
+      "witness": "Gcn",
+      "pdf": 447,
+      "rows": "3–4",
+      "units": "U1173–1180",
+      "result": "U1172 dus ends preceding row3; row4 kyi rim pa drug cu 'byung directly followed by U1181. Full composite rendering required.",
+      "crop": "gcn-447-junction.png",
+      "bounds": [
+        100,
+        260,
+        2900,
+        470
+      ]
+    }
+  ],
+  "unsaved_audit_limits": "All OMA checks were guided: original proposals and expected Adzom wording known. Both flanks/intervening physical rows inspected. No global absence, exhaustive fine-letter or punctuation certification. Evidence crops saved under scratch omission-audit-evidence; report save failed. These newest crops are not included in this uploaded manifest.",
+  "unsaved_gcn_final_notes": [
+    {
+      "pdf": 449,
+      "start": "U1253",
+      "end": "U1292",
+      "notes": "S01 three verses present rows4–5 after U1274. Small reply23 by1258; reply24 earlier under1265. U1285→U1287 across rows6–7; U1286 is an Adzom source annotation and must not be counted as a missing main verse."
+    },
+    {
+      "pdf": 450,
+      "start": "U1293",
+      "end": "U1330",
+      "notes": "All7 rows inspected. Ink-obscured spans:1293 snyoms pas 'khrug pa'i,row1;1298 byer bas,row2;1315 mi snang,row5. Small reply25 before1309."
+    },
+    {
+      "pdf": 451,
+      "start": "U1331",
+      "end": "U1373 partial sku",
+      "notes": "Small reply26 above1336; reply27 earlier under1347 rather than before1354. U1367 khyab 'jug chen po'i ink-obscured,row7; remainder gsung dbyangs ston readable."
+    },
+    {
+      "pdf": 452,
+      "notes": "Visually repeats450. PDF453 onward not inspected by this sequential pass."
+    }
+  ],
+  "unsaved_tharpaling_final_notes": [
+    {
+      "pdf": 48,
+      "start": "U1751 heading continuation",
+      "end": "U1791 partial",
+      "row_spans": [
+        "1751–1758p",
+        "1758–1765p",
+        "1765–1771p",
+        "1771–1778p",
+        "1778–1785p",
+        "1785–1791p"
+      ]
+    },
+    {
+      "pdf": 49,
+      "start": "U1791 continuation",
+      "end": "U1827 partial",
+      "row_spans": [
+        "1791–1796",
+        "1797–1802p",
+        "1802–1809p",
+        "1809–1815",
+        "1816–1821p",
+        "1821–1827p"
+      ]
+    },
+    {
+      "pdf": 50,
+      "start": "U1827 zhag la yang",
+      "end": "U1865 partial",
+      "row_spans": [
+        "1827–1834p",
+        "1834–1839p",
+        "1839–1846p",
+        "1846–1852p",
+        "1852–1858p",
+        "1858–1865p"
+      ]
+    },
+    {
+      "pdf": 51,
+      "start": "U1865 continuation",
+      "end": "U1899 partial",
+      "row_spans": [
+        "1865–1871p",
+        "1871–1876",
+        "1877–1882+S02opening",
+        "S02continuation–1886p",
+        "1887–1892",
+        "1893–1899p"
+      ]
+    }
+  ],
+  "unsaved_tharpaling_limits": "Substantial faded/merged regions; no full agreement and no new positive variants on48–51. U1859 lta/lha remains unresolved. Correct S02 presence confirmed sequentially again.",
+  "source_mapping_updates": {
+    "Adzom1973": "867-page container; rootPDF11–215, Chapter1 ends112/printed102; blank216,nexttitle217. Related block manifestation, not an independent vote.",
+    "Gcn": "1595-page container; root title407, incipit408, terminal colophon555; Chapter1 ends484row4,nextincipitrow5. Stored25-image I1ER819 manifest cannot establish this container's provider numbering. Composite MRC rendering essential; repeated exposures not deduplicated silently."
+  },
+  "pending_reports_in_workspace": [
+    "base-signs-early.json/md",
+    "base-signs-middle.json/md",
+    "base-signs-late.json/md",
+    "tingkye-continuation.json/md (latest targeted withdrawals)",
+    "tingkye-late-continuation.json/md",
+    "tingkye-early-omission-audit.json/md",
+    "tsamdrak-middle.json/md",
+    "tsamdrak-late.json/md",
+    "langtang-ch1.json/md",
+    "langtang-middle.json/md",
+    "langtang-late.json/md",
+    "dege-continuation.json/md",
+    "dege-late.json/md",
+    "dege-final.json/md",
+    "tharpaling-continuation.json/md (three withdrawals)",
+    "tharpaling-middle.json/md",
+    "tharpaling-late-notes.json",
+    "tharpaling-s02-s03-corrections.json",
+    "tharpaling-late-attempt.json/md",
+    "adzom73-mapping.json/md",
+    "gcn-mapping.json/md",
+    "gcn-opening.json/md",
+    "gcn-middle.json/md",
+    "gcn-late.json/md (failed attempt, disputed locators)",
+    "root-final-audit.json/md",
+    "langtang-junction-audit.json/md",
+    "integration-final-audit.json/md",
+    "w1er119-import-audit.json/md"
+  ],
+  "restart_order": [
+    "Reconnect workspace and preserve all existing uncommitted/index changes before Git synchronization; do not reset or re-run old integration scripts blindly.",
+    "Reconcile remote evidence-only checkpoint with local working branch without discarding later text/report changes.",
+    "Remove redundant Tharpaling-middle enlarged page halves from repository output, preserving page image hashes and crop bounds. Last attempted importer optimization failed before process creation. Do not upload the 206MB redundant view set.",
+    "Integrate final base-signs-middle findings with focused independent checks. Record unresolved boundary allocations, not global rules.",
+    "Apply latest Tharpaling and Tingkye withdrawals, U182 correction, both U1174/1175 anchors, and the disputed Gcn locator correction. Archive original claims only as superseded history.",
+    "Save unsaved inspection/audit notes from this recovery record; link native crop evidence where available and preserve guided-review limits.",
+    "Make base-sign/annotation questions and restoration comparisons discoverable from main-text anchors. Eleven restoration crossrefs were repaired locally; regenerate context in actual reading order.",
+    "Resume Tharpaling PDF52–71 and Gcn PDF453–484 within reliable reading capability. Do not turn remaining unreadable/uncollated material into agreement.",
+    "Refresh status/progress/README/HANDOFF, rebuild chapter01, run validation and image checks on the actual final tree, then commit/publish the annotated checkpoint.",
+    "Only declare Chapter1 ready when its stated coverage and unresolved list are true. Do not begin Chapter2 before the user's Chapter1 gate."
+  ],
+  "completion": {
+    "chapter1": false,
+    "next_chapter_started": false,
+    "whole_edition": false
+  }
+}
