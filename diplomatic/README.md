@@ -1,6 +1,6 @@
 # Dra Thal Gyur — diplomatic edition in progress
 
-**Workspace interruption, 2026-09-27:** Later evidence and restart notes are preserved in the [recovery checkpoint](recovery/2026-09-27.md). The newer annotated chapter and reports still need integration from the disconnected workspace; the chapter and validation linked below remain the preceding checkpoint.
+**Recovery, 2026-09-27:** Accessible cloud checkpoints, local backups, unreachable blobs and scratch material are preserved in the [recovery audit](recovery/2026-09-27-local/recovery-audit.md). Missing cloud report bodies remain missing. The linked chapter includes explicitly identified recovered records and fresh bounded reviews. [Current continuation state](HANDOFF.md) and [sign-adoption audit](reviews/chapter-01/sign-adoption-audit-20260927.md) supersede older progress claims.
 
 **Chapter 1 is under collation. No chapter is yet certified complete.** This directory is the working dossier for the requested single annotated diplomatic edition, not a completed golden text. Chapters 2–6 and the final colophon have not been started here. The original editions, source files, glossary, and translation are unchanged.
 

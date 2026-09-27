@@ -4,7 +4,7 @@
 
 The reading text represents all 2,635 supplied Adzom e-text units, with individually documented scan corrections and restorations. The [scan coverage ledger](collation/chapter-01/scan-coverage.json) distinguishes continuous lexical comparison, focused checks, unresolved glyphs, and unfinished punctuation work. The apparatus covers every exact A/B/S transcript difference and the separately defined W comparison; it does not cover every conflict in the scan-only editions.
 
-[Editorial method](METHOD.md) · [Source inventory](SOURCES.md) · [Status](STATUS.json) · [W apparatus](reviews/chapter-01/wikisource.md) · [Comparison progress](reviews/chapter-01/comparison-extension.md)
+[Current recovery and continuation](HANDOFF.md) · [Editorial method](METHOD.md) · [Source inventory](SOURCES.md) · [Status](STATUS.json) · [W apparatus](reviews/chapter-01/wikisource.md) · [Comparison progress](reviews/chapter-01/comparison-extension.md)
 
 ## Coverage and notation
 
