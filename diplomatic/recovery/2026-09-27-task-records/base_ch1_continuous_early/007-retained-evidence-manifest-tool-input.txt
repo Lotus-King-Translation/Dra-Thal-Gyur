@@ -1,0 +1,21 @@
+CLASSIFICATION: retained-tool-input. Literal original report-metadata update command. It has not been executed during recovery. Runtime-expanded manifest values and original generated report bytes are not supplied by this record.
+
+python - <<'PY'
+import json,sys
+from pathlib import Path
+sys.path.insert(0,'/workspace/scratch/a117ee885aff')
+from dzongsar_collation_work import save,REPORT
+r=Path('/workspace/scratch/a117ee885aff');j=json.loads(REPORT.read_text());m=json.loads((r/'Dra-Thal-Gyur/editions/dzongsar-manuscript/image-manifest.json').read_text())
+j['evidence_manifest']={'source_pdf':'editions/dzongsar-manuscript/sgra-thal-gyur.pdf','source_pdf_sha256':m['pdf_sha256'],'native_dimensions':[2519,670],'method':'Native image extraction with fitz; no OCR. Full-page and overlapping native-width crops [0,0,1350,670] and [1250,0,2519,670]. A few named detail crops enlarged 2x for visual inspection; no enhancement or conjectural restoration.','source_images':[x for x in m['images'] if x['pdf_page'] in set(range(1,16))|{120,121}]}
+for p in j['pages']:
+ if p['pdf_page'] in [123,124]:p['status']='extracted-not-inspected';p['detail']='Created during boundary search but not visually examined or collated.'
+for n in [16,17]:j['pages'].append(dict(pdf_page=n,status='extracted-not-inspected',detail='Image extracted for continuation; no visual comparison undertaken before checkpoint.'))
+j['pages']=sorted(j['pages'],key=lambda x:x['pdf_page']);save(j)
+md=r/'dzongsar-ch1-collation.md'
+s=md.read_text();s=s.replace('This is a work in progress. Unexamined pages and unresolved glyphs are not agreements.','Status: interrupted checkpoint, incomplete. The coordinator requested a checkpoint after PDF15. This is not a finding that later Dzongsar pages are illegible. Unexamined pages and unresolved glyphs are not agreements.')
+s+='\n## Remaining work\n\n'
+for x in j['remaining']:s+=f"- **{x['range']}** — {x['status']}. {x['needed']}\n"
+s+='\n## Source evidence\n\nNative facsimile: `editions/dzongsar-manuscript/sgra-thal-gyur.pdf`. PDF SHA-256: `'+m['pdf_sha256']+'`. Per-page BDRC/IIIF locators and original image hashes are preserved in the JSON `evidence_manifest`. Native full pages and overlapping crops are in scratch `dzongsar-ch1-images/`.\n'
+md.write_text(s)
+print('Saved',REPORT.name,md.name,'page ledger entries',len(j['pages']),'observations',len(j['observations']))
+PY

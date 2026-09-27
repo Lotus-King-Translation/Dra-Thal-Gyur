@@ -4,7 +4,7 @@
   "kind": "Recovery-only inventory; no new collation or edition changes",
   "repository": "Lotus-King-Translation/Dra-Thal-Gyur",
   "inspected_branch": "recovery/task-records-2026-09-27",
-  "inspected_commit": "91a8aa44ba412844ebc6ee4125288c23d8e036cf",
+  "inspected_commit": "2ecbd6d7d9eb691f5b3942e4d27ac5cde2d5984d",
   "original_missing_list_source": "diplomatic/recovery/2026-09-27-local/recovery-audit.json",
   "original_missing_list_source_git_blob_sha": "279c856640cfdfffcb8e524f30c12603868fee68",
   "scope": "Every one of the 54 original missing report basenames, including each JSON and Markdown file separately. Recoveries of unrelated already-published reports and additional scripts do not count toward these 54.",
@@ -214,6 +214,66 @@
       "id": "E35",
       "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/w1er119-import-audit.saved-construction.py.txt",
       "git_blob_sha": "f27b8e17bfd9d6af1ac0b3374ad0d0866c0ee4be"
+    },
+    {
+      "id": "E36",
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p061.saved-update.py.txt",
+      "git_blob_sha": "ac1d5c2cd2895e4039a84c2aff80039e553bccd7"
+    },
+    {
+      "id": "E37",
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p062.saved-update.py.txt",
+      "git_blob_sha": "26a563d6180fad7e6bbabc76ff4dbfaaaf9defe2"
+    },
+    {
+      "id": "E38",
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p063.saved-update.py.txt",
+      "git_blob_sha": "50bd919511941a7b77f251626f6f421f1d7a8424"
+    },
+    {
+      "id": "E39",
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p064.saved-update.py.txt",
+      "git_blob_sha": "3fa8ba660fedda47daa293c7d614902985e165c2"
+    },
+    {
+      "id": "E40",
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p065.saved-update.py.txt",
+      "git_blob_sha": "5867248b707f4d6b09c7cb9ccd11976e8c5d4cfd"
+    },
+    {
+      "id": "E41",
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p066.saved-update.py.txt",
+      "git_blob_sha": "3c96797a013600d8f919e4626d10288343f55ab2"
+    },
+    {
+      "id": "E42",
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p067.saved-update.py.txt",
+      "git_blob_sha": "a1fa8443ee760e59d9a633c124a1a2160ba02f88"
+    },
+    {
+      "id": "E43",
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p068.saved-update.py.txt",
+      "git_blob_sha": "6f5b86b21eab299419b3e58c14911dffdc92ba5e"
+    },
+    {
+      "id": "E44",
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p069.saved-update.py.txt",
+      "git_blob_sha": "33ef1e7bd9fa4d6977a693b1c980619af83febe9"
+    },
+    {
+      "id": "E45",
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tk-finish.py.retained-source.txt",
+      "git_blob_sha": "8fb344d33d4663565c7bb487e9cd707409ec8cde"
+    },
+    {
+      "id": "E46",
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tk-finish.retained-tool-output.txt",
+      "git_blob_sha": "879fd5da07be3d0a7848fe3d7261d41a0277482d"
+    },
+    {
+      "id": "E47",
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/PROVENANCE-tingkye61-69-and-import-replay.json",
+      "git_blob_sha": "e5bb5d434f95893a16c5277b87782f73401deed4"
     }
   ],
   "files": [
@@ -351,9 +411,21 @@
       "evidence_ids": [
         "E09",
         "E10",
-        "E02"
+        "E02",
+        "E36",
+        "E37",
+        "E38",
+        "E39",
+        "E40",
+        "E41",
+        "E42",
+        "E43",
+        "E44",
+        "E45",
+        "E46",
+        "E47"
       ],
-      "limits": "Literal related audits retain selected TL references and three guided checks. The 30-page/176-finding original ledger is not recovered at this snapshot; further retained update sources are pending."
+      "limits": "Exact saved PDF61–69 update inputs retain nine page() and 79 explicit f(...) calls. Exact finalization source retains spelling corrections and report formatting; stdout records 30 pages/176 findings/122 stripes. Missing helper, earlier PDF40–60 ledger, EWTS input and image dependencies prevent complete original report recovery."
     },
     {
       "original_basename": "tingkye-late-continuation.md",
@@ -367,9 +439,21 @@
       "evidence_ids": [
         "E09",
         "E10",
-        "E02"
+        "E02",
+        "E36",
+        "E37",
+        "E38",
+        "E39",
+        "E40",
+        "E41",
+        "E42",
+        "E43",
+        "E44",
+        "E45",
+        "E46",
+        "E47"
       ],
-      "limits": "Literal related audits retain selected TL references and three guided checks. The 30-page/176-finding original ledger is not recovered at this snapshot; further retained update sources are pending."
+      "limits": "Exact saved PDF61–69 update inputs retain nine page() and 79 explicit f(...) calls. Exact finalization source retains spelling corrections and report formatting; stdout records 30 pages/176 findings/122 stripes. Missing helper, earlier PDF40–60 ledger, EWTS input and image dependencies prevent complete original report recovery."
     },
     {
       "original_basename": "tingkye-early-omission-audit.json",
@@ -1023,7 +1107,8 @@
         "E09",
         "E34",
         "E35",
-        "E12"
+        "E12",
+        "E47"
       ],
       "limits": "Complete static JSON dictionary and Markdown text replayed from retained successful construction source. Original pre-loss output hashes unavailable; historical consistency findings are not fresh scan certification."
     },
@@ -1040,7 +1125,8 @@
         "E09",
         "E34",
         "E35",
-        "E12"
+        "E12",
+        "E47"
       ],
       "limits": "Complete static JSON dictionary and Markdown text replayed from retained successful construction source. Original pre-loss output hashes unavailable; historical consistency findings are not fresh scan certification."
     }
@@ -1060,8 +1146,14 @@
     },
     {
       "route": "Connected local project directories and linked conversation record",
-      "status": "Root reports the local main checkout is clean at afb5c51 and exact project searches found no additional missing report files. The saved read_thread response for the linked ChatGPT conversation contains only five recent user/final turns, not the original work logs.",
-      "needed": "A complete original report copy or original tool-history payload if one becomes available. These current local checks do not prove all historical cloud storage is gone."
+      "status": "Root located the later local recovery agent's work folder. All 371 source files (75,574,656 bytes), plus README and manifest, are preserved under diplomatic/recovery/2026-09-27-local-agent-work/. This is later recovery work, not the original lost cloud worktree. Exact project searches found no additional original missing report bodies. The saved linked-conversation read_thread response contains only five recent user/final turns, not original work logs.",
+      "needed": "The original cloud files or original tool-history payload remain needed for remaining missing report bodies. These current local checks do not prove all historical cloud storage is gone.",
+      "archive_manifest": "diplomatic/recovery/2026-09-27-local-agent-work/manifest.json",
+      "archive_manifest_git_blob_sha": "858c9c74c51694d14504630e2b7bff719d62b43e",
+      "archive_file_count": 371,
+      "archive_total_bytes": 75574656,
+      "additional_check": "Root also reports a separate older 16-file recovery work folder was checked by content hash and all 16 files already exist on main.",
+      "remote_verification": "Root verified all 371 archived file Git blob hashes against the manifest: zero mismatches."
     },
     {
       "route": "Reachable Git history",

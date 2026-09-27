@@ -2,9 +2,11 @@
 
 **4 of the 54 report bodies have complete transcript-derived replays. None of the 54 has been recovered as a byte-verified original file; 50 complete report bodies remain unrecovered.** This is a recovery inventory, not completion of Chapter 1 or new witness collation.
 
-Inspected branch: `recovery/task-records-2026-09-27`, commit `91a8aa44ba412844ebc6ee4125288c23d8e036cf`. The denominator is exactly the missing-basename list in `diplomatic/recovery/2026-09-27-local/recovery-audit.json`. The JSON companion records every item and evidence blob SHA.
+Inspected branch: `recovery/task-records-2026-09-27`, commit `2ecbd6d7d9eb691f5b3942e4d27ac5cde2d5984d`. The denominator is exactly the missing-basename list in `diplomatic/recovery/2026-09-27-local/recovery-audit.json`. The JSON companion records every item and evidence blob SHA.
 
 The four complete replays are the Gcn late JSON/Markdown pair and the W1ER119 import-audit JSON/Markdown pair. Gcn late documents a failed bounded reading attempt; replaying its full historical content does not certify the witness. Its superseded locator guesses remain historical evidence.
+
+Newly preserved Tingkye sources include nine page-update bodies with 79 explicit finding-construction calls, finalization source and historical finalization output. Their earlier ledger and helper dependencies remain missing. Separately, all 371 files (75,574,656 bytes) in the later local recovery agent's work folder are archived; these are later recovery artifacts and do not count as restored original missing reports.
 
 ## Category meanings
 
@@ -30,8 +32,8 @@ The prior audit records basenames, not one authoritative original absolute locat
 | `base-signs-late.md` | Summary only | E02 | Recovery packet retains later sign proposals and pagewise scope. No original late-report body or complete generator has been recovered. |
 | `tingkye-continuation.json` | Partial literal evidence/source | E05, E06, E07, E08 | Three historical claim snapshots survive as literal stdout; other PDF3–34 scope/findings survive only in a compacted summary. The U183–184 omission claim was withdrawn. Full report body absent. |
 | `tingkye-continuation.md` | Partial literal evidence/source | E05, E06, E07, E08 | Three historical claim snapshots survive as literal stdout; other PDF3–34 scope/findings survive only in a compacted summary. The U183–184 omission claim was withdrawn. Full report body absent. |
-| `tingkye-late-continuation.json` | Partial literal evidence/source | E09, E10, E02 | Literal related audits retain selected TL references and three guided checks. The 30-page/176-finding original ledger is not recovered at this snapshot; further retained update sources are pending. |
-| `tingkye-late-continuation.md` | Partial literal evidence/source | E09, E10, E02 | Literal related audits retain selected TL references and three guided checks. The 30-page/176-finding original ledger is not recovered at this snapshot; further retained update sources are pending. |
+| `tingkye-late-continuation.json` | Partial literal evidence/source | E09, E10, E02, E36, E37, E38, E39, E40, E41, E42, E43, E44, E45, E46, E47 | Exact saved PDF61–69 update inputs retain nine page() and 79 explicit f(...) calls. Exact finalization source retains spelling corrections and report formatting; stdout records 30 pages/176 findings/122 stripes. Missing helper, earlier PDF40–60 ledger, EWTS input and image dependencies prevent complete original report recovery. |
+| `tingkye-late-continuation.md` | Partial literal evidence/source | E09, E10, E02, E36, E37, E38, E39, E40, E41, E42, E43, E44, E45, E46, E47 | Exact saved PDF61–69 update inputs retain nine page() and 79 explicit f(...) calls. Exact finalization source retains spelling corrections and report formatting; stdout records 30 pages/176 findings/122 stripes. Missing helper, earlier PDF40–60 ledger, EWTS input and image dependencies prevent complete original report recovery. |
 | `tingkye-early-omission-audit.json` | Partial literal evidence/source | E08, E06, E05, E11 | Saved construction source, three original claim snapshots and native metadata stdout survive. Later fourth-correction input failed before execution. No complete original output file or original-byte equality is established. |
 | `tingkye-early-omission-audit.md` | Partial literal evidence/source | E08, E06, E05, E11 | Saved construction source, three original claim snapshots and native metadata stdout survive. Later fourth-correction input failed before execution. No complete original output file or original-byte equality is established. |
 | `tsamdrak-middle.json` | No original body located | E09, E12 | Import audit reports 35 pages/134 findings and consistency checks, but does not contain the report's actual page ledger or finding bodies. Original author reports no retained complete body. |
@@ -74,12 +76,12 @@ The prior audit records basenames, not one authoritative original absolute locat
 | `langtang-junction-audit.md` | Partial literal evidence/source | E14, E31 | Literal JSON stdout preserves all displayed fields except deliberately excluded evidence_sha256. Original JSON bytes and original Markdown body are unavailable. |
 | `integration-final-audit.json` | Partial literal evidence/source | E32, E33 | Literal initial and amendment sources survive. Dynamic fields require the missing historical 1,024-observation apparatus snapshot; running against current data would not recover the original report. |
 | `integration-final-audit.md` | Partial literal evidence/source | E32, E33 | Literal initial and amendment sources survive. Dynamic fields require the missing historical 1,024-observation apparatus snapshot; running against current data would not recover the original report. |
-| `w1er119-import-audit.json` | Complete replay | E09, E34, E35, E12 | Complete static JSON dictionary and Markdown text replayed from retained successful construction source. Original pre-loss output hashes unavailable; historical consistency findings are not fresh scan certification. |
-| `w1er119-import-audit.md` | Complete replay | E09, E34, E35, E12 | Complete static JSON dictionary and Markdown text replayed from retained successful construction source. Original pre-loss output hashes unavailable; historical consistency findings are not fresh scan certification. |
+| `w1er119-import-audit.json` | Complete replay | E09, E34, E35, E12, E47 | Complete static JSON dictionary and Markdown text replayed from retained successful construction source. Original pre-loss output hashes unavailable; historical consistency findings are not fresh scan certification. |
+| `w1er119-import-audit.md` | Complete replay | E09, E34, E35, E12, E47 | Complete static JSON dictionary and Markdown text replayed from retained successful construction source. Original pre-loss output hashes unavailable; historical consistency findings are not fresh scan certification. |
 
 ## Evidence locations
 
-These paths were verified in the inspected commit. New scripts and provenance records are preservation artifacts, not extra recovered members of the original 54-file set.
+All 47 evidence paths and their blobs were verified in the inspected commit. New scripts and provenance records are preservation artifacts, not extra recovered members of the original 54-file set.
 
 | ID | Current repository path | Git blob SHA |
 |---|---|---|
@@ -118,12 +120,25 @@ These paths were verified in the inspected commit. New scripts and provenance re
 | E33 | `diplomatic/recovery/agent-originals/dzongsar_late/preserved-20260927T164952Z/retained-tool-call-text/integration-final-audit-record.amendment.sh.txt` | `eabfe7714288943efc5ac45aeb611f0e8000f4e2` |
 | E34 | `diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/w1er119-import-audit.replayed.md` | `81bec68e3120a18489e30eeb7df45575fe2fbe2b` |
 | E35 | `diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/w1er119-import-audit.saved-construction.py.txt` | `f27b8e17bfd9d6af1ac0b3374ad0d0866c0ee4be` |
+| E36 | `diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p061.saved-update.py.txt` | `ac1d5c2cd2895e4039a84c2aff80039e553bccd7` |
+| E37 | `diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p062.saved-update.py.txt` | `26a563d6180fad7e6bbabc76ff4dbfaaaf9defe2` |
+| E38 | `diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p063.saved-update.py.txt` | `50bd919511941a7b77f251626f6f421f1d7a8424` |
+| E39 | `diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p064.saved-update.py.txt` | `3fa8ba660fedda47daa293c7d614902985e165c2` |
+| E40 | `diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p065.saved-update.py.txt` | `5867248b707f4d6b09c7cb9ccd11976e8c5d4cfd` |
+| E41 | `diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p066.saved-update.py.txt` | `3c96797a013600d8f919e4626d10288343f55ab2` |
+| E42 | `diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p067.saved-update.py.txt` | `a1fa8443ee760e59d9a633c124a1a2160ba02f88` |
+| E43 | `diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p068.saved-update.py.txt` | `6f5b86b21eab299419b3e58c14911dffdc92ba5e` |
+| E44 | `diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p069.saved-update.py.txt` | `33ef1e7bd9fa4d6977a693b1c980619af83febe9` |
+| E45 | `diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tk-finish.py.retained-source.txt` | `8fb344d33d4663565c7bb487e9cd707409ec8cde` |
+| E46 | `diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tk-finish.retained-tool-output.txt` | `879fd5da07be3d0a7848fe3d7261d41a0277482d` |
+| E47 | `diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/PROVENANCE-tingkye61-69-and-import-replay.json` | `e5bb5d434f95893a16c5277b87782f73401deed4` |
 
 ## Remaining source routes and limits
 
 - **Original cloud workspace:** Unavailable in current environment context; original storage/snapshot recovery is not exposed through current tools. Original filesystem/snapshot containing the missing reports, apparatus, and uncommitted evidence. Reusing the same path in a fresh runtime does not recover old bytes.
 - **Retained original agent task records:** Exact source/output recovered through reactivated original tasks. Some prior text has been compacted and only summaries remain. Any still-retained original tool input/output or full original task transcript. Do not fabricate missing report records from summaries.
-- **Connected local project directories and linked conversation record:** Root reports the local main checkout is clean at afb5c51 and exact project searches found no additional missing report files. The saved read_thread response for the linked ChatGPT conversation contains only five recent user/final turns, not the original work logs. A complete original report copy or original tool-history payload if one becomes available. These current local checks do not prove all historical cloud storage is gone.
+- **Connected local project directories and linked conversation record:** Root located the later local recovery agent's work folder. All 371 source files (75,574,656 bytes), plus README and manifest, are preserved under diplomatic/recovery/2026-09-27-local-agent-work/. This is later recovery work, not the original lost cloud worktree. Exact project searches found no additional original missing report bodies. The saved linked-conversation read_thread response contains only five recent user/final turns, not original work logs. The original cloud files or original tool-history payload remain needed for remaining missing report bodies. These current local checks do not prove all historical cloud storage is gone.
+  Root verified all 371 archived file Git blob hashes against the manifest: zero mismatches. Root also reports a separate older 16-file recovery work folder was checked by content hash and all 16 files already exist on main.
 - **Reachable Git history:** Original recovery audit found none of the 54 report basenames in reachable history. Current recovery branch now preserves transcript-derived material listed above. A previously unavailable original commit/blob or branch containing the actual original reports. Existing replay blobs must not be mislabeled original filesystem recovery.
 - **Outer-scratch split archive:** Incomplete; only the existing prefix has been salvaged. Manifest lists 169 raster files plus crop-map.json, map_crops.py, ch1-ewts.txt and tingkye-qc-read.txt; none of the 54 missing report bodies. Original missing 75 archive parts to restore the complete outer-scratch archive. Even a complete archive would not, by its manifest, restore these 54 report bodies.
   The archive has 85 declared parts, 10 verified present, and 75 missing (010–084; 157,252,187 bytes). Full archive SHA-256: `9475b82b7dae79239437f22f5d7cc408bae699867d25eb5b9b8b582f5dea4cd3`.
