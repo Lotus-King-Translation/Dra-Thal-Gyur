@@ -4,7 +4,7 @@
 
 The reading text represents all 2,635 supplied Adzom e-text units, with individually documented scan corrections and restorations. The [scan coverage ledger](collation/chapter-01/scan-coverage.json) distinguishes continuous lexical comparison, focused checks, unresolved glyphs, and unfinished punctuation work. The apparatus covers every exact A/B/S transcript difference and the separately defined W comparison; it does not cover every conflict in the scan-only editions.
 
-[Editorial method](METHOD.md) · [Source inventory](SOURCES.md) · [Status](STATUS.json) · [W apparatus](reviews/chapter-01/wikisource.md)
+[Editorial method](METHOD.md) · [Source inventory](SOURCES.md) · [Status](STATUS.json) · [W apparatus](reviews/chapter-01/wikisource.md) · [Comparison progress](reviews/chapter-01/comparison-extension.md)
 
 ## Coverage and notation
 
@@ -31,7 +31,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00004"></a>
 
-**U00004** རིན་པོ་ཆེ་འབྱུང་བར་བྱེད་པ་སྒྲ་ཐལ་འགྱུར་ཆེན་པོའི་རྒྱུད་ཅེས་བྱ་བ་བཞུགས། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-TITLE-UNCERTAINTY](#scan-ch1-title-uncertainty) [L1-0001](#l1-0001) [TH-C1-0001](#th-c1-0001) [DZ-OPEN-01](#dz-open-01)
+**U00004** རིན་པོ་ཆེ་འབྱུང་བར་བྱེད་པ་སྒྲ་ཐལ་འགྱུར་ཆེན་པོའི་རྒྱུད་ཅེས་བྱ་བ་བཞུགས། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-TITLE-UNCERTAINTY](#scan-ch1-title-uncertainty) [L1-0001](#l1-0001) [TH-C1-0001](#th-c1-0001) [DZ-OPEN-01](#dz-open-01) [GAD-CH1-001](#gad-ch1-001)
 
 <a id="u00005"></a>
 
@@ -65,7 +65,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00011"></a>
 
-**U00011** **[Source structural heading]** ཐུན་མོང་མ་ཡིན་པའི་གླེང་གཞི་བཀོད་པ། [L1-0002](#l1-0002) [TS-CH1-V001](#ts-ch1-v001) [TH-C1-0003](#th-c1-0003) [DZ-OPEN-03](#dz-open-03) [W-C01-003](reviews/chapter-01/wikisource.md#w-c01-003)
+**U00011** **[Source structural heading]** ཐུན་མོང་མ་ཡིན་པའི་གླེང་གཞི་བཀོད་པ། [L1-0002](#l1-0002) [TS-CH1-V001](#ts-ch1-v001) [TH-C1-0003](#th-c1-0003) [DZ-OPEN-03](#dz-open-03) [GAD-CH1-002](#gad-ch1-002) [W-C01-003](reviews/chapter-01/wikisource.md#w-c01-003)
 
 <a id="u00012"></a>
 
@@ -97,7 +97,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00019"></a>
 
-**U00019** རང་བྱུང་རིག་པས་བཅོས་པ་མེད། ། [TK-003](#tk-003) [Comparison-scan second reading](reviews/chapter-01/second-dege-tingkye.md)
+**U00019** རང་བྱུང་རིག་པས་བཅོས་པ་མེད། ། [TK-003](#tk-003) [GAD-CH1-004](#gad-ch1-004) [Comparison-scan second reading](reviews/chapter-01/second-dege-tingkye.md)
 
 <a id="u00020"></a>
 
@@ -137,7 +137,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00029"></a>
 
-**U00029** **[Source structural heading]** ཐུན་མོང་གི་གླེང་གཞི་བཀོད་པ། [L1-0005](#l1-0005) [TS-CH1-V002](#ts-ch1-v002) [DZ-OPEN-04](#dz-open-04) [W-C01-004](reviews/chapter-01/wikisource.md#w-c01-004)
+**U00029** **[Source structural heading]** ཐུན་མོང་གི་གླེང་གཞི་བཀོད་པ། [L1-0005](#l1-0005) [TS-CH1-V002](#ts-ch1-v002) [DZ-OPEN-04](#dz-open-04) [GAD-CH1-003](#gad-ch1-003) [W-C01-004](reviews/chapter-01/wikisource.md#w-c01-004)
 
 <a id="u00030"></a>
 
@@ -769,7 +769,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00187"></a>
 
-**U00187** འབྱུང་བཞིའི་དགོངས་པ་ཇི་ལྟ་བུ། ། [SCAN-CH1-LAYER-00187](#scan-ch1-layer-00187) [L1-0014](#l1-0014) [TS-CH1-V011](#ts-ch1-v011) [DZ-P011-02](#dz-p011-02) [W-C01-013](reviews/chapter-01/wikisource.md#w-c01-013)
+**U00187** འབྱུང་བཞིའི་དགོངས་པ་ཇི་ལྟ་བུ། ། [SCAN-CH1-LAYER-00187](#scan-ch1-layer-00187) [L1-0014](#l1-0014) [TS-CH1-V011](#ts-ch1-v011) [DZ-P011-02](#dz-p011-02) [GAD-CH1-005](#gad-ch1-005) [GAD-CH1-006](#gad-ch1-006) [W-C01-013](reviews/chapter-01/wikisource.md#w-c01-013)
 
 <a id="u00188"></a>
 
@@ -893,7 +893,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00218"></a>
 
-**U00218** དེ་བཞིན་ཐིག་ལེའི་རྣམ་པ་ཅི། །
+**U00218** དེ་བཞིན་ཐིག་ལེའི་རྣམ་པ་ཅི། ། [GAD-CH1-006](#gad-ch1-006)
 
 <a id="u00219"></a>
 
@@ -1333,7 +1333,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00328"></a>
 
-**U00328** མེས་ནི་འབྱུང་བ་སེལ་བ་དང། ། [SCAN-CH1-LAYER-00328](#scan-ch1-layer-00328) [L1-0023](#l1-0023) [TS-CH1-V020](#ts-ch1-v020) [W-C01-025](reviews/chapter-01/wikisource.md#w-c01-025)
+**U00328** མེས་ནི་འབྱུང་བ་སེལ་བ་དང། ། [SCAN-CH1-LAYER-00328](#scan-ch1-layer-00328) [L1-0023](#l1-0023) [TS-CH1-V020](#ts-ch1-v020) [DZ-MID-018-U328](#dz-mid-018-u328) [W-C01-025](reviews/chapter-01/wikisource.md#w-c01-025)
 
 <a id="u00329"></a>
 
@@ -1513,7 +1513,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00373"></a>
 
-**U00373** **[Source structural heading]** དྲིས་ལན་གསུམ་པའོ། ། [L1-0027](#l1-0027) [W-C01-027](reviews/chapter-01/wikisource.md#w-c01-027)
+**U00373** **[Source structural heading]** དྲིས་ལན་གསུམ་པའོ། ། [L1-0027](#l1-0027) [DZ-MID-020-U373](#dz-mid-020-u373) [W-C01-027](reviews/chapter-01/wikisource.md#w-c01-027)
 
 <a id="u00374"></a>
 
@@ -1781,7 +1781,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00440"></a>
 
-**U00440** འབྱུང་བ་རྣམས་ཀྱི་སྒྲ་དོན་ནི། །
+**U00440** འབྱུང་བ་རྣམས་ཀྱི་སྒྲ་དོན་ནི། ། [DZ-MID-022-U440](#dz-mid-022-u440)
 
 <a id="u00441"></a>
 
@@ -1953,7 +1953,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00483"></a>
 
-**U00483** བེམ་དང་རིག་བཅས་སྒྲ་རྣམས་དང༌། །
+**U00483** བེམ་དང་རིག་བཅས་སྒྲ་རྣམས་དང༌། ། [DZ-MID-024-U483](#dz-mid-024-u483)
 
 <a id="u00484"></a>
 
@@ -2157,7 +2157,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00534"></a>
 
-**U00534** ལྗོངས་རབ་ཏུ་རྫོགས་ཏེ་ཉམས་དགའ་བར། ། [SCAN-CH1-LAYER-00534](#scan-ch1-layer-00534) [L1-0033](#l1-0033) [W-C01-036](reviews/chapter-01/wikisource.md#w-c01-036)
+**U00534** ལྗོངས་རབ་ཏུ་རྫོགས་ཏེ་ཉམས་དགའ་བར། ། [SCAN-CH1-LAYER-00534](#scan-ch1-layer-00534) [L1-0033](#l1-0033) [DZ-MID-027-U534](#dz-mid-027-u534) [W-C01-036](reviews/chapter-01/wikisource.md#w-c01-036)
 
 <a id="u00535"></a>
 
@@ -2257,7 +2257,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00559"></a>
 
-**U00559** བདེ་བའི་རོལ་པ་འབྱུང་བའོ། །
+**U00559** བདེ་བའི་རོལ་པ་འབྱུང་བའོ། ། [DZ-MID-028-U559-REJECTED](#dz-mid-028-u559-rejected)
 
 <a id="u00560"></a>
 
@@ -2861,7 +2861,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00710"></a>
 
-**U00710** སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང། ། [SCAN-CH1-LAYER-00710](#scan-ch1-layer-00710) [L1-0048](#l1-0048) [W-C01-058](reviews/chapter-01/wikisource.md#w-c01-058)
+**U00710** སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང། ། [SCAN-CH1-LAYER-00710](#scan-ch1-layer-00710) [L1-0048](#l1-0048) [DZ-MID-035-U710](#dz-mid-035-u710) [W-C01-058](reviews/chapter-01/wikisource.md#w-c01-058)
 
 <a id="u00711"></a>
 
@@ -4353,7 +4353,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01083"></a>
 
-**U01083** **[Source structural heading]** དྲིས་ལན་བཅུ་བདུན་པའོ། ། [L1-0063](#l1-0063) [W-C01-088](reviews/chapter-01/wikisource.md#w-c01-088)
+**U01083** **[Source structural heading]** དྲིས་ལན་བཅུ་བདུན་པའོ། ། [L1-0063](#l1-0063) [DZ-MID-051-U1083](#dz-mid-051-u1083) [W-C01-088](reviews/chapter-01/wikisource.md#w-c01-088)
 
 <a id="u01084"></a>
 
@@ -4953,7 +4953,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01233"></a>
 
-**U01233** དེ་ལྟར་བརྒྱ་དང་བརྒྱད་ཅུ་ལས། ། [SCAN-CH1-LAYER-01233](#scan-ch1-layer-01233) [L1-0071](#l1-0071) [W-C01-103](reviews/chapter-01/wikisource.md#w-c01-103)
+**U01233** དེ་ལྟར་བརྒྱ་དང་བརྒྱད་ཅུ་ལས། ། [SCAN-CH1-LAYER-01233](#scan-ch1-layer-01233) [L1-0071](#l1-0071) [DZ-MID-058-NOTES](#dz-mid-058-notes) [W-C01-103](reviews/chapter-01/wikisource.md#w-c01-103)
 
 <a id="u01234"></a>
 
@@ -4969,11 +4969,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01237"></a>
 
-**U01237** དེ་ལྟར་སྦྲགས་པ་དེ་ཙམ་ལས། ། [SCAN-CH1-LAYER-01233](#scan-ch1-layer-01233) [L1-0072](#l1-0072) [W-C01-104](reviews/chapter-01/wikisource.md#w-c01-104)
+**U01237** དེ་ལྟར་སྦྲགས་པ་དེ་ཙམ་ལས། ། [SCAN-CH1-LAYER-01233](#scan-ch1-layer-01233) [L1-0072](#l1-0072) [DZ-MID-058-NOTES](#dz-mid-058-notes) [W-C01-104](reviews/chapter-01/wikisource.md#w-c01-104)
 
 <a id="u01238"></a>
 
-**U01238** བསྐལ་པ་ཆེན་པོ་གཅིག་ཡིན་ནོ། ། [SCAN-CH1-LAYER-01233](#scan-ch1-layer-01233)
+**U01238** བསྐལ་པ་ཆེན་པོ་གཅིག་ཡིན་ནོ། ། [SCAN-CH1-LAYER-01233](#scan-ch1-layer-01233) [DZ-MID-058-NOTES](#dz-mid-058-notes)
 
 <a id="u01239"></a>
 
@@ -5117,7 +5117,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01274"></a>
 
-**U01274** གསུམ་གསུམ་ཉིད་དེ་བཅུ་གཉིས་ལ། ། [A2000-C01-S01](#a2000-c01-s01) [L1-0078](#l1-0078) [W-C01-110](reviews/chapter-01/wikisource.md#w-c01-110)
+**U01274** གསུམ་གསུམ་ཉིད་དེ་བཅུ་གཉིས་ལ། ། [A2000-C01-S01](#a2000-c01-s01) [L1-0078](#l1-0078) [DZ-MID-060-RESTORATION](#dz-mid-060-restoration) [W-C01-110](reviews/chapter-01/wikisource.md#w-c01-110)
 
 **Restored main text — [A2000-C01-S01](#a2000-c01-s01)**
 
@@ -5141,7 +5141,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01278"></a>
 
-**U01278** མེ་ཡི་ཟུག་པས་ནད་དུ་བྱེད། །
+**U01278** མེ་ཡི་ཟུག་པས་ནད་དུ་བྱེད། ། [TK-ROOT-01](#tk-root-01)
 
 <a id="u01279"></a>
 
@@ -5161,7 +5161,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01283"></a>
 
-**U01283** སྙོམས་པས་རླུང་སེམས་གཅིག་དུ་སྡུད། །
+**U01283** སྙོམས་པས་རླུང་སེམས་གཅིག་དུ་སྡུད། ། [TK-ROOT-02](#tk-root-02)
 
 <a id="u01284"></a>
 
@@ -5173,7 +5173,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01286"></a>
 
-**U01286** ཆུའི་བྱེར་སྙོམས་གཉིས་ཆད། [L1-0079](#l1-0079) [W-C01-111](reviews/chapter-01/wikisource.md#w-c01-111)
+**U01286** ཆུའི་བྱེར་སྙོམས་གཉིས་ཆད། [L1-0079](#l1-0079) [DZ-MID-060-U1286](#dz-mid-060-u1286) [W-C01-111](reviews/chapter-01/wikisource.md#w-c01-111)
 
 <a id="u01287"></a>
 
@@ -5229,7 +5229,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01300"></a>
 
-**U01300** རླུང་དང་ཆུ་ཡི་བྱ་བ་ཉིད། །
+**U01300** རླུང་དང་ཆུ་ཡི་བྱ་བ་ཉིད། ། [TK-ROOT-03](#tk-root-03)
 
 <a id="u01301"></a>
 
@@ -5269,7 +5269,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01310"></a>
 
-**U01310** བྱ་བ་བྲལ་བར་རྫོགས་པས་རྫོགས། །
+**U01310** བྱ་བ་བྲལ་བར་རྫོགས་པས་རྫོགས། ། [TK-ROOT-04](#tk-root-04)
 
 <a id="u01311"></a>
 
@@ -5405,7 +5405,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01344"></a>
 
-**U01344** སྐུ་དང་གསུང་དང་ཐུགས་དང་ནི། །
+**U01344** སྐུ་དང་གསུང་དང་ཐུགས་དང་ནི། ། [TK-ROOT-05](#tk-root-05)
 
 <a id="u01345"></a>
 
@@ -5461,7 +5461,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01358"></a>
 
-**U01358** ཆུ་ཡི་སྒྲ་ནི་གཤང་བ་ལ། ། [W-C01-121](reviews/chapter-01/wikisource.md#w-c01-121)
+**U01358** ཆུ་ཡི་སྒྲ་ནི་གཤང་བ་ལ། ། [TK-ROOT-06](#tk-root-06) [W-C01-121](reviews/chapter-01/wikisource.md#w-c01-121)
 
 <a id="u01359"></a>
 
@@ -5493,7 +5493,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01366"></a>
 
-**U01366** མེ་ཡི་སྒྲ་ནི་རིང་བྱེད་བསླབ། །
+**U01366** མེ་ཡི་སྒྲ་ནི་རིང་བྱེད་བསླབ། ། [TK-ROOT-07](#tk-root-07)
 
 <a id="u01367"></a>
 
@@ -5613,7 +5613,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01396"></a>
 
-**U01396** འབྱུང་བ་བཞི་དག་རྗོད་བྱེད་ཅིང་། །
+**U01396** འབྱུང་བ་བཞི་དག་རྗོད་བྱེད་ཅིང་། ། [TK-ROOT-08](#tk-root-08)
 
 <a id="u01397"></a>
 
@@ -5697,7 +5697,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01417"></a>
 
-**U01417** འབྱུང་བའི་དུས་ཉིད་རབ་བསྟིམས་ནས། ། [SCAN-CH1-LAYER-01417](#scan-ch1-layer-01417) [L1-0088](#l1-0088) [W-C01-129](reviews/chapter-01/wikisource.md#w-c01-129)
+**U01417** འབྱུང་བའི་དུས་ཉིད་རབ་བསྟིམས་ནས། ། [SCAN-CH1-LAYER-01417](#scan-ch1-layer-01417) [L1-0088](#l1-0088) [TK-ROOT-09](#tk-root-09) [W-C01-129](reviews/chapter-01/wikisource.md#w-c01-129)
 
 <a id="u01418"></a>
 
@@ -5709,7 +5709,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01420"></a>
 
-**U01420** མཁའ་འགྲོ་དབང་དུ་སྡུད་པའི་མིས། ། [L1-0089](#l1-0089)
+**U01420** མཁའ་འགྲོ་དབང་དུ་སྡུད་པའི་མིས། ། [L1-0089](#l1-0089) [TK-ROOT-10](#tk-root-10)
 
 <a id="u01421"></a>
 
@@ -5717,7 +5717,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01422"></a>
 
-**U01422** རིན་པོ་ཆེ་ཡི་སྦྱོར་བ་དག ། [SCAN-CH1-LAYER-01422](#scan-ch1-layer-01422) [L1-0089](#l1-0089) [W-C01-130](reviews/chapter-01/wikisource.md#w-c01-130)
+**U01422** རིན་པོ་ཆེ་ཡི་སྦྱོར་བ་དག ། [SCAN-CH1-LAYER-01422](#scan-ch1-layer-01422) [L1-0089](#l1-0089) [TK-ROOT-11](#tk-root-11) [W-C01-130](reviews/chapter-01/wikisource.md#w-c01-130)
 
 <a id="u01423"></a>
 
@@ -5785,7 +5785,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01439"></a>
 
-**U01439** ལེགས་པར་སྦྱར་ཏེ་ཨ་ཡིས་བསྐོར། ། [SCAN-CH1-LAYER-01439](#scan-ch1-layer-01439) [L1-0091](#l1-0091) [W-C01-133](reviews/chapter-01/wikisource.md#w-c01-133)
+**U01439** ལེགས་པར་སྦྱར་ཏེ་ཨ་ཡིས་བསྐོར། ། [SCAN-CH1-LAYER-01439](#scan-ch1-layer-01439) [L1-0091](#l1-0091) [TK-ROOT-14](#tk-root-14) [W-C01-133](reviews/chapter-01/wikisource.md#w-c01-133)
 
 <a id="u01440"></a>
 
@@ -5793,63 +5793,63 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01441"></a>
 
-**U01441** གནས་སུ་ཕྱིན་པས་ངེས་པར་འགྲུབ། །
+**U01441** གནས་སུ་ཕྱིན་པས་ངེས་པར་འགྲུབ། ། [TK-ROOT-12](#tk-root-12)
 
 <a id="u01442"></a>
 
-**U01442** བཅུད་ཀྱིས་ལེན་པར་འདོད་པས་ནི། །
+**U01442** བཅུད་ཀྱིས་ལེན་པར་འདོད་པས་ནི། ། [TK-ROOT-12](#tk-root-12)
 
 <a id="u01443"></a>
 
-**U01443** བདུད་རྩི་རྣམ་ལྔ་སྦྱར་བའི་ཐབས། །
+**U01443** བདུད་རྩི་རྣམ་ལྔ་སྦྱར་བའི་ཐབས། ། [TK-ROOT-12](#tk-root-12)
 
 <a id="u01444"></a>
 
-**U01444** གཞན་དུ་འབྱུང་བ་སྙོམས་པ་ལ། །
+**U01444** གཞན་དུ་འབྱུང་བ་སྙོམས་པ་ལ། ། [TK-ROOT-12](#tk-root-12)
 
 <a id="u01445"></a>
 
-**U01445** མཁས་པས་ཆ་སྙོམས་ལེགས་སྦྱར་ནས། །
+**U01445** མཁས་པས་ཆ་སྙོམས་ལེགས་སྦྱར་ནས། ། [TK-ROOT-12](#tk-root-12)
 
 <a id="u01446"></a>
 
-**U01446** རིན་པོ་ཆེ་ཡི་སྣོད་དུ་བླུགས། ། [W-C01-134](reviews/chapter-01/wikisource.md#w-c01-134)
+**U01446** རིན་པོ་ཆེ་ཡི་སྣོད་དུ་བླུགས། ། [TK-ROOT-12](#tk-root-12) [W-C01-134](reviews/chapter-01/wikisource.md#w-c01-134)
 
 <a id="u01447"></a>
 
-**U01447** དེ་ནས་སྦྲང་དང་ཨུད་ཙིད་ཏ། །
+**U01447** དེ་ནས་སྦྲང་དང་ཨུད་ཙིད་ཏ། ། [TK-ROOT-12](#tk-root-12)
 
 <a id="u01448"></a>
 
-**U01448** ཁ་ཚར་ལེགས་པར་བཏབ་ནས་ནི། །
+**U01448** ཁ་ཚར་ལེགས་པར་བཏབ་ནས་ནི། ། [TK-ROOT-12](#tk-root-12)
 
 <a id="u01449"></a>
 
-**U01449** དངུལ་ཆུའི་ཐིགས་པ་རེ་བླངས་ནས། །
+**U01449** དངུལ་ཆུའི་ཐིགས་པ་རེ་བླངས་ནས། ། [TK-ROOT-12](#tk-root-12)
 
 <a id="u01450"></a>
 
-**U01450** ནང་བཞིན་སྲན་མའི་རྡོག་མ་ཙམ། །
+**U01450** ནང་བཞིན་སྲན་མའི་རྡོག་མ་ཙམ། ། [TK-ROOT-12](#tk-root-12)
 
 <a id="u01451"></a>
 
-**U01451** མཁས་པ་དག་གིས་ཟ་སྤྱོད་ན། །
+**U01451** མཁས་པ་དག་གིས་ཟ་སྤྱོད་ན། ། [TK-ROOT-12](#tk-root-12)
 
 <a id="u01452"></a>
 
-**U01452** བཅུད་ཀྱིས་ལེན་པ་ཆེན་པོར་ཡང་། །
+**U01452** བཅུད་ཀྱིས་ལེན་པ་ཆེན་པོར་ཡང་། ། [TK-ROOT-12](#tk-root-12)
 
 <a id="u01453"></a>
 
-**U01453** འགྱུར་བ་ཐེ་ཚོམ་མི་ཟའོ། །
+**U01453** འགྱུར་བ་ཐེ་ཚོམ་མི་ཟའོ། ། [TK-ROOT-12](#tk-root-12) [TK-ROOT-13](#tk-root-13)
 
 <a id="u01454"></a>
 
-**U01454** **[Source structural heading]** དྲིས་ལན་ཉེར་དགུ་པའོ། ། [L1-0092](#l1-0092) [W-C01-135](reviews/chapter-01/wikisource.md#w-c01-135)
+**U01454** **[Source structural heading]** དྲིས་ལན་ཉེར་དགུ་པའོ། ། [L1-0092](#l1-0092) [TK-ROOT-12](#tk-root-12) [W-C01-135](reviews/chapter-01/wikisource.md#w-c01-135)
 
 <a id="u01455"></a>
 
-**U01455** བྱེ་བྲག་སྐུ་རྣམས་བསྒྲུབ་པ་ན། ། [L1-0092](#l1-0092)
+**U01455** བྱེ་བྲག་སྐུ་རྣམས་བསྒྲུབ་པ་ན། ། [L1-0092](#l1-0092) [TK-ROOT-12](#tk-root-12)
 
 <a id="u01456"></a>
 
@@ -5857,7 +5857,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01457"></a>
 
-**U01457** ཆུ་ཡི་དྲིས་ནི་བདེ་བ་སྟེར། །
+**U01457** ཆུ་ཡི་དྲིས་ནི་བདེ་བ་སྟེར། ། [TK-ROOT-15](#tk-root-15)
 
 <a id="u01458"></a>
 
@@ -5889,7 +5889,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01465"></a>
 
-**U01465** མེ་ཡི་དྲིས་ནི་ཉམས་བསྐྱེད་དེ། །
+**U01465** མེ་ཡི་དྲིས་ནི་ཉམས་བསྐྱེད་དེ། ། [TK-ROOT-16](#tk-root-16)
 
 <a id="u01466"></a>
 
@@ -6117,7 +6117,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01522"></a>
 
-**U01522** སོ་སོའི་བྱེད་པའི་རྒྱུ་འགགས་པ། ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-CONT-01522](#scan-ch1-cont-01522)
+**U01522** སོ་སོའི་བྱེད་པའི་རྒྱུ་འགགས་པ། ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-CONT-01522](#scan-ch1-cont-01522) [DZ-LATE-01](#dz-late-01)
 
 <a id="u01523"></a>
 
@@ -6129,7 +6129,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01525"></a>
 
-**U01525** ངག་ནི་ཧཱུཾ་ཞེས་གནས་པ་ལས། ། [W-C01-140](reviews/chapter-01/wikisource.md#w-c01-140)
+**U01525** ངག་ནི་ཧཱུཾ་ཞེས་གནས་པ་ལས། ། [DZ-LATE-02](#dz-late-02) [W-C01-140](reviews/chapter-01/wikisource.md#w-c01-140)
 
 <a id="u01526"></a>
 
@@ -6297,7 +6297,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01567"></a>
 
-**U01567** བསྡམས་པས་འགགས་ལ་བཙིར་བས་འཆིང། ། [SCAN-CH1-LAYER-01567](#scan-ch1-layer-01567) [L1-0100](#l1-0100) [W-C01-146](reviews/chapter-01/wikisource.md#w-c01-146)
+**U01567** བསྡམས་པས་འགགས་ལ་བཙིར་བས་འཆིང། ། [SCAN-CH1-LAYER-01567](#scan-ch1-layer-01567) [L1-0100](#l1-0100) [DZ-LATE-03](#dz-late-03) [W-C01-146](reviews/chapter-01/wikisource.md#w-c01-146)
 
 <a id="u01568"></a>
 
@@ -6309,7 +6309,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01570"></a>
 
-**U01570** འཕུལ་བས་སྡོད་ལ་དྲག་པས་ཟིན། །
+**U01570** འཕུལ་བས་སྡོད་ལ་དྲག་པས་ཟིན། ། [DZ-LATE-04](#dz-late-04)
 
 <a id="u01571"></a>
 
@@ -6421,7 +6421,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01598"></a>
 
-**U01598** དོན་དམ་དང་ནི་ཀུན་རྫོབ་ལས། ། [SCAN-CH1-CONT-01598](#scan-ch1-cont-01598) [W-C01-150](reviews/chapter-01/wikisource.md#w-c01-150)
+**U01598** དོན་དམ་དང་ནི་ཀུན་རྫོབ་ལས། ། [SCAN-CH1-CONT-01598](#scan-ch1-cont-01598) [DZ-LATE-05](#dz-late-05) [W-C01-150](reviews/chapter-01/wikisource.md#w-c01-150)
 
 <a id="u01599"></a>
 
@@ -6657,7 +6657,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01657"></a>
 
-**U01657** འདི་ཡི་ལུས་ཀྱང་གསུམ་ཡིན་ཏེ། ། [SCAN-CH1-LAYER-01657](#scan-ch1-layer-01657) [L1-0106](#l1-0106) [W-C01-154](reviews/chapter-01/wikisource.md#w-c01-154)
+**U01657** འདི་ཡི་ལུས་ཀྱང་གསུམ་ཡིན་ཏེ། ། [SCAN-CH1-LAYER-01657](#scan-ch1-layer-01657) [L1-0106](#l1-0106) [DZ-LATE-06](#dz-late-06) [W-C01-154](reviews/chapter-01/wikisource.md#w-c01-154)
 
 <a id="u01658"></a>
 
@@ -6697,11 +6697,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01667"></a>
 
-**U01667** རྒྱུ་དང་མི་རྒྱུ་རླུང་གིས་བསྐོར། །
+**U01667** རྒྱུ་དང་མི་རྒྱུ་རླུང་གིས་བསྐོར། ། [DZ-LATE-07](#dz-late-07)
 
 <a id="u01668"></a>
 
-**U01668** [Source annotation recorded separately in the linked note; this anchor does not add a main-text verse.] [SCAN-CH1-LAYER-01668](#scan-ch1-layer-01668) [L1-0108](#l1-0108) [W-C01-156](reviews/chapter-01/wikisource.md#w-c01-156)
+**U01668** [Source annotation recorded separately in the linked note; this anchor does not add a main-text verse.] [SCAN-CH1-LAYER-01668](#scan-ch1-layer-01668) [L1-0108](#l1-0108) [DZ-LATE-07](#dz-late-07) [W-C01-156](reviews/chapter-01/wikisource.md#w-c01-156)
 
 <a id="u01669"></a>
 
@@ -6813,7 +6813,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01696"></a>
 
-**U01696** དེ་བཞིན་སེམས་ཀྱི་གནས་ཀྱིས་དགྲོལ། ། [W-C01-160](reviews/chapter-01/wikisource.md#w-c01-160)
+**U01696** དེ་བཞིན་སེམས་ཀྱི་གནས་ཀྱིས་དགྲོལ། ། [DZ-LATE-08](#dz-late-08) [W-C01-160](reviews/chapter-01/wikisource.md#w-c01-160)
 
 <a id="u01697"></a>
 
@@ -6833,7 +6833,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01701"></a>
 
-**U01701** འབུ་སྲིན་ལ་སོགས་ལུས་དང་ནི། །
+**U01701** འབུ་སྲིན་ལ་སོགས་ལུས་དང་ནི། ། [DZ-LATE-09](#dz-late-09)
 
 <a id="u01702"></a>
 
@@ -6873,7 +6873,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01711"></a>
 
-**U01711** ཡི་གེ་བཟློག་ཚུལ་དྲུག་གིས་ཀྱང། ། [SCAN-CH1-LAYER-01711](#scan-ch1-layer-01711) [L1-0110](#l1-0110) [W-C01-165](reviews/chapter-01/wikisource.md#w-c01-165)
+**U01711** ཡི་གེ་བཟློག་ཚུལ་དྲུག་གིས་ཀྱང། ། [SCAN-CH1-LAYER-01711](#scan-ch1-layer-01711) [L1-0110](#l1-0110) [DZ-LATE-09](#dz-late-09) [W-C01-165](reviews/chapter-01/wikisource.md#w-c01-165)
 
 <a id="u01712"></a>
 
@@ -6893,7 +6893,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01716"></a>
 
-**U01716** འདྲེ་དང་རླུང་ལྷ་དག་གི་སྐད། ། [SCAN-CH1-LAYER-01716](#scan-ch1-layer-01716) [L1-0111](#l1-0111) [W-C01-166](reviews/chapter-01/wikisource.md#w-c01-166)
+**U01716** འདྲེ་དང་རླུང་ལྷ་དག་གི་སྐད། ། [SCAN-CH1-LAYER-01716](#scan-ch1-layer-01716) [L1-0111](#l1-0111) [DZ-LATE-10](#dz-late-10) [W-C01-166](reviews/chapter-01/wikisource.md#w-c01-166)
 
 <a id="u01717"></a>
 
@@ -6965,7 +6965,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01734"></a>
 
-**U01734** ཟླ་བ་ལོ་ཡི་འཁྲུལ་ལུགས་ཀྱིས། ། [SCAN-CH1-LAYER-01734](#scan-ch1-layer-01734) [L1-0114](#l1-0114) [W-C01-169](reviews/chapter-01/wikisource.md#w-c01-169)
+**U01734** ཟླ་བ་ལོ་ཡི་འཁྲུལ་ལུགས་ཀྱིས། ། [SCAN-CH1-LAYER-01734](#scan-ch1-layer-01734) [L1-0114](#l1-0114) [DZ-LATE-11](#dz-late-11) [W-C01-169](reviews/chapter-01/wikisource.md#w-c01-169)
 
 <a id="u01735"></a>
 
@@ -7145,7 +7145,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01779"></a>
 
-**U01779** བཅུ་གཉིས་དག་སྟེ་གསུམ་གསུམ་གྱིས། །
+**U01779** བཅུ་གཉིས་དག་སྟེ་གསུམ་གསུམ་གྱིས། ། [DZ-LATE-12](#dz-late-12)
 
 <a id="u01780"></a>
 
@@ -7225,7 +7225,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01799"></a>
 
-**U01799** རྣོ་དང་རྡུག་དང་དྲག་ཞན་དང་། །
+**U01799** རྣོ་དང་རྡུག་དང་དྲག་ཞན་དང་། ། [DZ-LATE-13](#dz-late-13)
 
 <a id="u01800"></a>
 
@@ -7241,7 +7241,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01803"></a>
 
-**U01803** ཡ་བཞི་བཟུང་སྟེ་རང་རང་བསྟུན། ། [SCAN-CH1-LAYER-01803](#scan-ch1-layer-01803) [L1-0121](#l1-0121) [W-C01-175](reviews/chapter-01/wikisource.md#w-c01-175)
+**U01803** ཡ་བཞི་བཟུང་སྟེ་རང་རང་བསྟུན། ། [SCAN-CH1-LAYER-01803](#scan-ch1-layer-01803) [L1-0121](#l1-0121) [DZ-LATE-14](#dz-late-14) [W-C01-175](reviews/chapter-01/wikisource.md#w-c01-175)
 
 <a id="u01804"></a>
 
@@ -7253,7 +7253,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01806"></a>
 
-**U01806** [Source annotation recorded separately in the linked note; this anchor does not add a main-text verse.] [SCAN-CH1-LAYER-01806](#scan-ch1-layer-01806) [L1-0122](#l1-0122) [W-C01-176](reviews/chapter-01/wikisource.md#w-c01-176)
+**U01806** [Source annotation recorded separately in the linked note; this anchor does not add a main-text verse.] [SCAN-CH1-LAYER-01806](#scan-ch1-layer-01806) [L1-0122](#l1-0122) [DZ-LATE-14](#dz-late-14) [W-C01-176](reviews/chapter-01/wikisource.md#w-c01-176)
 
 <a id="u01807"></a>
 
@@ -7273,11 +7273,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01811"></a>
 
-**U01811** ལོ་སྟོང་ཞག་ཀྱང་འབུམ་ཕྲག་གསུམ། ། [SCAN-CH1-01811-01812](#scan-ch1-01811-01812) [L1-0123](#l1-0123) [W-C01-177](reviews/chapter-01/wikisource.md#w-c01-177)
+**U01811** ལོ་སྟོང་ཞག་ཀྱང་འབུམ་ཕྲག་གསུམ། ། [SCAN-CH1-01811-01812](#scan-ch1-01811-01812) [L1-0123](#l1-0123) [DZ-LATE-15](#dz-late-15) [W-C01-177](reviews/chapter-01/wikisource.md#w-c01-177)
 
 <a id="u01812"></a>
 
-**U01812** [Main text joined with the preceding unit by the linked scan decision; the original unit is retained in the apparatus.] [SCAN-CH1-01811-01812](#scan-ch1-01811-01812) [L1-0123](#l1-0123) [W-C01-177](reviews/chapter-01/wikisource.md#w-c01-177)
+**U01812** [Main text joined with the preceding unit by the linked scan decision; the original unit is retained in the apparatus.] [SCAN-CH1-01811-01812](#scan-ch1-01811-01812) [L1-0123](#l1-0123) [DZ-LATE-15](#dz-late-15) [W-C01-177](reviews/chapter-01/wikisource.md#w-c01-177)
 
 <a id="u01813"></a>
 
@@ -7341,15 +7341,15 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01828"></a>
 
-**U01828** ཟླ་བ་ལོ་སྟེ་བྱེར་ཟུག་སྙོམས། །
+**U01828** ཟླ་བ་ལོ་སྟེ་བྱེར་ཟུག་སྙོམས། ། [DZ-LATE-16](#dz-late-16)
 
 <a id="u01829"></a>
 
-**U01829** [Source annotation recorded separately in the linked note; this anchor does not add a main-text verse.] [SCAN-CH1-LAYER-01829](#scan-ch1-layer-01829) [L1-0124](#l1-0124) [W-C01-179](reviews/chapter-01/wikisource.md#w-c01-179)
+**U01829** [Source annotation recorded separately in the linked note; this anchor does not add a main-text verse.] [SCAN-CH1-LAYER-01829](#scan-ch1-layer-01829) [L1-0124](#l1-0124) [DZ-LATE-16](#dz-late-16) [W-C01-179](reviews/chapter-01/wikisource.md#w-c01-179)
 
 <a id="u01830"></a>
 
-**U01830** རྟེན་འབྲེལ་དུས་ཏེ་བཅུ་གཉིས་སྦྱར། ། [L1-0124](#l1-0124)
+**U01830** རྟེན་འབྲེལ་དུས་ཏེ་བཅུ་གཉིས་སྦྱར། ། [L1-0124](#l1-0124) [DZ-LATE-16](#dz-late-16)
 
 <a id="u01831"></a>
 
@@ -7557,7 +7557,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01882"></a>
 
-**U01882** ཞག་དང་ཟླ་བ་ལོ་རྣམས་ཀྱིས། ། [A2000-C01-S02](#a2000-c01-s02) [L1-0128](#l1-0128) [W-C01-188](reviews/chapter-01/wikisource.md#w-c01-188)
+**U01882** ཞག་དང་ཟླ་བ་ལོ་རྣམས་ཀྱིས། ། [A2000-C01-S02](#a2000-c01-s02) [L1-0128](#l1-0128) [DZ-LATE-17](#dz-late-17) [W-C01-188](reviews/chapter-01/wikisource.md#w-c01-188)
 
 **Restored main text — [A2000-C01-S02](#a2000-c01-s02)**
 
@@ -8057,7 +8057,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02005"></a>
 
-**U02005** ཐེག་པ་དག་ནི་གཉིས་སུ་འདོད། ། [A2000-C01-S03](#a2000-c01-s03) [L1-0134](#l1-0134) [W-C01-196](reviews/chapter-01/wikisource.md#w-c01-196)
+**U02005** ཐེག་པ་དག་ནི་གཉིས་སུ་འདོད། ། [A2000-C01-S03](#a2000-c01-s03) [L1-0134](#l1-0134) [DZ-LATE-18](#dz-late-18) [W-C01-196](reviews/chapter-01/wikisource.md#w-c01-196)
 
 **Restored main text — [A2000-C01-S03](#a2000-c01-s03)**
 
@@ -8561,7 +8561,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02129"></a>
 
-**U02129** དགུག་དང་བསད་དང་བཅིངས་པའི་ལས། ། [SCAN-CH1-LAYER-02129](#scan-ch1-layer-02129) [L1-0139](#l1-0139) [W-C01-208](reviews/chapter-01/wikisource.md#w-c01-208)
+**U02129** དགུག་དང་བསད་དང་བཅིངས་པའི་ལས། ། [SCAN-CH1-LAYER-02129](#scan-ch1-layer-02129) [L1-0139](#l1-0139) [DZ-LATE-19](#dz-late-19) [W-C01-208](reviews/chapter-01/wikisource.md#w-c01-208)
 
 <a id="u02130"></a>
 
@@ -8793,7 +8793,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02187"></a>
 
-**U02187** ལུགས་སུ་ཁྱད་པར་སྡེབས་གཉིས་ཀྱི། ། [A2000-C01-S04](#a2000-c01-s04) [L1-0145](#l1-0145) [W-C01-214](reviews/chapter-01/wikisource.md#w-c01-214)
+**U02187** ལུགས་སུ་ཁྱད་པར་སྡེབས་གཉིས་ཀྱི། ། [A2000-C01-S04](#a2000-c01-s04) [L1-0145](#l1-0145) [DZ-LATE-20](#dz-late-20) [W-C01-214](reviews/chapter-01/wikisource.md#w-c01-214)
 
 **Restored main text — [A2000-C01-S04](#a2000-c01-s04)**
 
@@ -8951,7 +8951,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02225"></a>
 
-**U02225** སྒྲ་དང་གདམས་ངག་ལ་སོགས་ཏེ། ། [SCAN-CH1-LAYER-02225](#scan-ch1-layer-02225) [L1-0149](#l1-0149) [W-C01-219](reviews/chapter-01/wikisource.md#w-c01-219)
+**U02225** སྒྲ་དང་གདམས་ངག་ལ་སོགས་ཏེ། ། [SCAN-CH1-LAYER-02225](#scan-ch1-layer-02225) [L1-0149](#l1-0149) [DZ-LATE-21](#dz-late-21) [W-C01-219](reviews/chapter-01/wikisource.md#w-c01-219)
 
 <a id="u02226"></a>
 
@@ -9283,7 +9283,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02308"></a>
 
-**U02308** སྡོམ་པ་ལུས་དང་ངག་ཏུ་འདུས། ། [A2000-C01-S05](#a2000-c01-s05) [A2000-C01-S06](#a2000-c01-s06) [A2000-C01-S07](#a2000-c01-s07) [L1-0155](#l1-0155)
+**U02308** སྡོམ་པ་ལུས་དང་ངག་ཏུ་འདུས། ། [A2000-C01-S05](#a2000-c01-s05) [A2000-C01-S06](#a2000-c01-s06) [A2000-C01-S07](#a2000-c01-s07) [L1-0155](#l1-0155) [DZ-LATE-22](#dz-late-22)
 
 **Restored main text — [A2000-C01-S05](#a2000-c01-s05)**
 
@@ -9403,7 +9403,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02335"></a>
 
-**U02335** གནད་གསུམ་མན་ངག་འབྲལ་མི་བྱ། །
+**U02335** གནད་གསུམ་མན་ངག་འབྲལ་མི་བྱ། ། [DZ-LATE-23](#dz-late-23)
 
 <a id="u02336"></a>
 
@@ -9467,7 +9467,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02351"></a>
 
-**U02351** མི་འགུལ་གསུམ་ལ་གཞི་བཅས་པས། །
+**U02351** མི་འགུལ་གསུམ་ལ་གཞི་བཅས་པས། ། [DZ-LATE-24](#dz-late-24)
 
 <a id="u02352"></a>
 
@@ -10019,11 +10019,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02489"></a>
 
-**U02489** རྣལ་འབྱོར་ཆེན་པོའི་སྤྱོད་པའི [SCAN-CH1-LAYER-02489](#scan-ch1-layer-02489) [L1-0169](#l1-0169) [W-C01-252](reviews/chapter-01/wikisource.md#w-c01-252)
+**U02489** རྣལ་འབྱོར་ཆེན་པོའི་སྤྱོད་པའི [SCAN-CH1-LAYER-02489](#scan-ch1-layer-02489) [L1-0169](#l1-0169) [DZ-LATE-25](#dz-late-25) [W-C01-252](reviews/chapter-01/wikisource.md#w-c01-252)
 
 <a id="u02490"></a>
 
-**U02490** འབྲས་བུ་བརྗོད་པར་མི་ནུས་ཀྱང་། ། [L1-0169](#l1-0169)
+**U02490** འབྲས་བུ་བརྗོད་པར་མི་ནུས་ཀྱང་། ། [L1-0169](#l1-0169) [DZ-LATE-25](#dz-late-25)
 
 <a id="u02491"></a>
 
@@ -10151,7 +10151,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02522"></a>
 
-**U02522** གཟི་བརྗིད་ལྡན་ཞིང་གཞོན་པར་འགྱུར། ། [SCAN-CH1-CONT-02522](#scan-ch1-cont-02522) [L1-0172](#l1-0172) [W-C01-256](reviews/chapter-01/wikisource.md#w-c01-256)
+**U02522** གཟི་བརྗིད་ལྡན་ཞིང་གཞོན་པར་འགྱུར། ། [SCAN-CH1-CONT-02522](#scan-ch1-cont-02522) [L1-0172](#l1-0172) [DZ-LATE-26](#dz-late-26) [W-C01-256](reviews/chapter-01/wikisource.md#w-c01-256)
 
 <a id="u02523"></a>
 
@@ -10451,7 +10451,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02597"></a>
 
-**U02597** **[Source structural heading]** དྲིས་ལན་དོན་ལྔ་པ། [SCAN-CH1-CONT-02597](#scan-ch1-cont-02597) [L1-0179](#l1-0179) [W-C01-266](reviews/chapter-01/wikisource.md#w-c01-266)
+**U02597** **[Source structural heading]** དྲིས་ལན་དོན་ལྔ་པ། [SCAN-CH1-CONT-02597](#scan-ch1-cont-02597) [L1-0179](#l1-0179) [DZ-LATE-27](#dz-late-27) [W-C01-266](reviews/chapter-01/wikisource.md#w-c01-266)
 
 <a id="u02598"></a>
 
@@ -10539,11 +10539,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02619"></a>
 
-**U02619** བྱིང་བར་མི་ནུས་རྒྱུག་ནུས་པའོ། །
+**U02619** བྱིང་བར་མི་ནུས་རྒྱུག་ནུས་པའོ། ། [DZ-LATE-28](#dz-late-28)
 
 <a id="u02620"></a>
 
-**U02620** [Source annotation recorded separately in the linked note; this anchor does not add a main-text verse.] [SCAN-CH1-LAYER-02620](#scan-ch1-layer-02620) [L1-0182](#l1-0182) [W-C01-271](reviews/chapter-01/wikisource.md#w-c01-271)
+**U02620** [Source annotation recorded separately in the linked note; this anchor does not add a main-text verse.] [SCAN-CH1-LAYER-02620](#scan-ch1-layer-02620) [L1-0182](#l1-0182) [DZ-LATE-28](#dz-late-28) [W-C01-271](reviews/chapter-01/wikisource.md#w-c01-271)
 
 <a id="u02621"></a>
 
@@ -10603,7 +10603,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02635"></a>
 
-**U02635** སྣ་ཚོགས་བཀོད་པ་རང་བྱུང་མན་ངག་གི་རྩ་་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་དང་པོའོ།། [A2000-C01-S09](#a2000-c01-s09) [L1-0183](#l1-0183) [TS-CH1-B001](#ts-ch1-b001)
+**U02635** སྣ་ཚོགས་བཀོད་པ་རང་བྱུང་མན་ངག་གི་རྩ་་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་དང་པོའོ།། [A2000-C01-S09](#a2000-c01-s09) [L1-0183](#l1-0183) [TS-CH1-B001](#ts-ch1-b001) [DZ-LATE-29](#dz-late-29)
 
 **Scan-only inscription — unread — [A2000-C01-S09](#a2000-c01-s09)**
 
@@ -12704,6 +12704,1246 @@ Units: [U00039](#u00039).
 **Choice and reason:** Supports corrected Adzom stong; do not treat uncorrected source-e-text stod as the base reading.
 
 **Evidence:** [p004-u39.png](evidence/chapter-01/dzongsar/p004-u39.png). [Review and coverage](reviews/chapter-01/dzongsar-collation.md).
+
+<a id="gad-ch1-001"></a>
+
+### GAD-CH1-001 — Gadkar
+
+Units: [U00004](#u00004).
+
+**Current Adzom main context:** རིན་པོ་ཆེ་འབྱུང་བར་བྱེད་པ་སྒྲ་ཐལ་འགྱུར་ཆེན་པོའི་རྒྱུད་ཅེས་བྱ་བ་བཞུགས།
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** observed_structural_difference_with_terminal_reading_uncertain. **Confidence:** Only the bounded observation in the report; unspecified glyphs remain uncertified.
+
+**Locator:** PDF 1; native crop bounds in structured report.
+
+**Observation:** The separate cover title begins sgra thal ’gyur chen po’i rgyud; the Adzom cover’s rin po che ’byung bar byed pa prefix is not there. Terminal wording/signs remain untranscribed.
+
+**Choice and reason:** Retain the Adzom base. Record this observation or reading uncertainty without supplying manuscript letters. Local heading nonobservation is not proof of absence elsewhere on the leaf.
+
+**Evidence:** [p001-title.png](evidence/chapter-01/extension/gadkar-ch1/p001-title.png). [Review and coverage](reviews/chapter-01/gadkar-ch1.md).
+
+<a id="gad-ch1-002"></a>
+
+### GAD-CH1-002 — Gadkar
+
+Units: [U00011](#u00011).
+
+**Current Adzom main context:** ཐུན་མོང་མ་ཡིན་པའི་གླེང་གཞི་བཀོད་པ།
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** local_heading_nonobservation_not_witness_omission. **Confidence:** Only the bounded observation in the report; unspecified glyphs remain uncertified.
+
+**Locator:** PDF 2; native crop bounds in structured report.
+
+**Observation:** No thun mong ma yin pa’i gleng gzhi bkod pa heading appears between the invocation’s phyag ’tshal lo and the narrative ’di skad bdag gis thos pa’i dus gcig na. This compares the electronic display junction only. Adzom physically places this heading later (near U00014), so this observation does not establish a whole-witness omission or erase it from the base.
+
+**Choice and reason:** Retain the Adzom base. Record this observation or reading uncertainty without supplying manuscript letters. Local heading nonobservation is not proof of absence elsewhere on the leaf.
+
+**Evidence:** [p002-L.png](evidence/chapter-01/extension/gadkar-ch1/p002-L.png), [p002-R.png](evidence/chapter-01/extension/gadkar-ch1/p002-R.png). [Review and coverage](reviews/chapter-01/gadkar-ch1.md).
+
+<a id="gad-ch1-003"></a>
+
+### GAD-CH1-003 — Gadkar
+
+Units: [U00029](#u00029).
+
+**Current Adzom main context:** ཐུན་མོང་གི་གླེང་གཞི་བཀོད་པ།
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** local_heading_nonobservation_not_witness_omission. **Confidence:** Only the bounded observation in the report; unspecified glyphs remain uncertified.
+
+**Locator:** PDF 3; native crop bounds in structured report.
+
+**Observation:** No thun mong gi gleng gzhi bkod pa heading was recognized at the electronic display junction between thams cad rang byung ye shes so and the following ’di skad bdag gis thos pa’i dus gcig na. Adzom physically places the heading later (near U00033); this local nonobservation does not establish a whole-witness omission.
+
+**Choice and reason:** Retain the Adzom base. Record this observation or reading uncertainty without supplying manuscript letters. Local heading nonobservation is not proof of absence elsewhere on the leaf.
+
+**Evidence:** [p003-L.png](evidence/chapter-01/extension/gadkar-ch1/p003-L.png), [p003-R.png](evidence/chapter-01/extension/gadkar-ch1/p003-R.png). [Review and coverage](reviews/chapter-01/gadkar-ch1.md).
+
+<a id="gad-ch1-004"></a>
+
+### GAD-CH1-004 — Gadkar
+
+Units: [U00019](#u00019).
+
+**Current Adzom main context:** རང་བྱུང་རིག་པས་བཅོས་པ་མེད། །
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** unresolved_candidate. **Confidence:** Only the bounded observation in the report; unspecified glyphs remain uncertified.
+
+**Locator:** PDF 3; native crop bounds in structured report.
+
+**Observation:** The rig pa(s) suffix is not independently certain in the cursive hand. Candidate rig pa must not be promoted to a variant without another reader.
+
+**Choice and reason:** Retain the Adzom base. Record this observation or reading uncertainty without supplying manuscript letters. Local heading nonobservation is not proof of absence elsewhere on the leaf.
+
+**Evidence:** [p003-u19.png](evidence/chapter-01/extension/gadkar-ch1/p003-u19.png). [Review and coverage](reviews/chapter-01/gadkar-ch1.md).
+
+<a id="gad-ch1-005"></a>
+
+### GAD-CH1-005 — Gadkar
+
+Units: [U00187](#u00187).
+
+**Current Adzom main context:** འབྱུང་བཞིའི་དགོངས་པ་ཇི་ལྟ་བུ། །
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** unresolved_candidate. **Confidence:** Only the bounded observation in the report; unspecified glyphs remain uncertified.
+
+**Locator:** PDF 9; native crop bounds in structured report.
+
+**Observation:** The dgongs/dgos stack and suffix cannot be reliably distinguished; the lower-line crop records the exact place. Separate question number below the line is a source layer, not main verse.
+
+**Choice and reason:** Retain the Adzom base. Record this observation or reading uncertainty without supplying manuscript letters. Local heading nonobservation is not proof of absence elsewhere on the leaf.
+
+**Evidence:** [p009-u187.jpg](evidence/chapter-01/extension/gadkar-ch1/p009-u187.jpg). [Review and coverage](reviews/chapter-01/gadkar-ch1.md).
+
+<a id="gad-ch1-006"></a>
+
+### GAD-CH1-006 — Gadkar
+
+Units: [U00187](#u00187), [U00218](#u00218).
+
+**Current Adzom main context:** འབྱུང་བཞིའི་དགོངས་པ་ཇི་ལྟ་བུ། ། / དེ་བཞིན་ཐིག་ལེའི་རྣམ་པ་ཅི། །
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** observed_annotation_layer_untranscribed. **Confidence:** Only the bounded observation in the report; unspecified glyphs remain uncertified.
+
+**Locator:** PDF [9, 10]; native crop bounds in structured report.
+
+**Observation:** Question numerals below the main line, some connected by dotted leaders, are visibly present. They require exact reading and mapping; no numerals have been silently incorporated into the main text.
+
+**Choice and reason:** Retain the Adzom base. Record this observation or reading uncertainty without supplying manuscript letters. Local heading nonobservation is not proof of absence elsewhere on the leaf.
+
+**Evidence:** . [Review and coverage](reviews/chapter-01/gadkar-ch1.md).
+
+<a id="dz-late-01"></a>
+
+### DZ-LATE-01 — Dzongsar
+
+Units: [U01522](#u01522).
+
+**Current Adzom main context:** སོ་སོའི་བྱེད་པའི་རྒྱུ་འགགས་པ། །
+
+**Comparison reading/snippet:** so so'i byed pa'i rgyu 'gags pa
+
+**Status:** supporting-reading. **Confidence:** high.
+
+**Locator:** PDF 71; BDRC image 75; exact crop bounds in structured report.
+
+**Observation:** Native main row3 right. Unlike the fused Adzom cluster, pa'i rgyu is distinct here. Comparison supports the retained Adzom transcript but cannot certify glyphs in the Adzom printing.
+
+**Choice and reason:** Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.
+
+**Evidence:** [071-u1522.png](evidence/chapter-01/extension/dzongsar-late/071-u1522.png). [Review and coverage](reviews/chapter-01/dzongsar-late.md).
+
+<a id="dz-late-02"></a>
+
+### DZ-LATE-02 — Dzongsar
+
+Units: [U01525](#u01525).
+
+**Current Adzom main context:** ངག་ནི་ཧཱུཾ་ཞེས་གནས་པ་ལས། །
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** source-annotation. **Confidence:** unresolved annotation; high main-text alignment.
+
+**Locator:** PDF 71; BDRC image 75; exact crop bounds in structured report.
+
+**Observation:** Small annotation follows main ngag ni hUM zhes gnas pa las. Candidate ending la yang byung; initial portion not reliably established. Main text agrees lexically.
+
+**Choice and reason:** Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.
+
+**Evidence:** [071-u1525.png](evidence/chapter-01/extension/dzongsar-late/071-u1525.png). [Review and coverage](reviews/chapter-01/dzongsar-late.md).
+
+<a id="dz-late-03"></a>
+
+### DZ-LATE-03 — Dzongsar
+
+Units: [U01567](#u01567).
+
+**Current Adzom main context:** བསྡམས་པས་འགགས་ལ་བཙིར་བས་འཆིང། །
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** source-annotation. **Confidence:** unresolved first note word.
+
+**Locator:** PDF 73; BDRC image 77; exact crop bounds in structured report.
+
+**Observation:** A dotted link connects bsdams pas region to a smaller note in next row. Last words kyang byung are clear; initial variant word not certified. Main bsdams pas 'gags la btsir bas 'ching is distinct.
+
+**Choice and reason:** Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.
+
+**Evidence:** [073-u1567.png](evidence/chapter-01/extension/dzongsar-late/073-u1567.png). [Review and coverage](reviews/chapter-01/dzongsar-late.md).
+
+<a id="dz-late-04"></a>
+
+### DZ-LATE-04 — Dzongsar
+
+Units: [U01570](#u01570).
+
+**Current Adzom main context:** འཕུལ་བས་སྡོད་ལ་དྲག་པས་ཟིན། །
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** unresolved-reading. **Confidence:** unresolved initial verb.
+
+**Locator:** PDF 73; BDRC image 77; exact crop bounds in structured report.
+
+**Observation:** Initial verb before bas sdod la drag pas zin is not confidently discriminated: 'phul (base) versus 'dul. Preserve this exact local uncertainty; remainder read continuously. A native targeted reinspection favors 'dul, but the record remains a candidate rather than a certified difference.
+
+**Choice and reason:** Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.
+
+**Evidence:** [073-u1570.png](evidence/chapter-01/extension/dzongsar-late/073-u1570.png). [Review and coverage](reviews/chapter-01/dzongsar-late.md).
+
+<a id="dz-late-05"></a>
+
+### DZ-LATE-05 — Dzongsar
+
+Units: [U01598](#u01598).
+
+**Current Adzom main context:** དོན་དམ་དང་ནི་ཀུན་རྫོབ་ལས། །
+
+**Comparison reading/snippet:** don dam dang ni kun rdzob las
+
+**Status:** supporting-reading. **Confidence:** high.
+
+**Locator:** PDF 74; BDRC image 78; exact crop bounds in structured report.
+
+**Observation:** Main last row has kun rdzob, supporting the corrected reading of Adzom rather than the supplied e-text rdzo ba.
+
+**Choice and reason:** Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.
+
+**Evidence:** [074.jpg](evidence/chapter-01/extension/dzongsar-late/074.jpg). [Review and coverage](reviews/chapter-01/dzongsar-late.md).
+
+<a id="dz-late-06"></a>
+
+### DZ-LATE-06 — Dzongsar
+
+Units: [U01657](#u01657).
+
+**Current Adzom main context:** འདི་ཡི་ལུས་ཀྱང་གསུམ་ཡིན་ཏེ། །
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** source-annotation. **Confidence:** annotation wording unresolved.
+
+**Locator:** PDF 77; BDRC image 81; exact crop bounds in structured report.
+
+**Observation:** Small note below row4 initial lus kyang region, linked with dots. Presence secure; complete wording not established in this reading. Main lus kyang gsum yin te remains distinct.
+
+**Choice and reason:** Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.
+
+**Evidence:** [077-u1657.png](evidence/chapter-01/extension/dzongsar-late/077-u1657.png). [Review and coverage](reviews/chapter-01/dzongsar-late.md).
+
+<a id="dz-late-07"></a>
+
+### DZ-LATE-07 — Dzongsar
+
+Units: [U01667](#u01667), [U01668](#u01668).
+
+**Current Adzom main context:** རྒྱུ་དང་མི་རྒྱུ་རླུང་གིས་བསྐོར། ། / [Source annotation separated; see the unit note.]
+
+**Comparison reading/snippet:** dag kyang byung
+
+**Status:** source-annotation. **Confidence:** high.
+
+**Locator:** PDF 77; BDRC image 81; exact crop bounds in structured report.
+
+**Observation:** Small note after row6 rgyu dang mi rgyu rlung gis bskor, linked by dots to preceding main syllable. Main and note are separate.
+
+**Choice and reason:** Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.
+
+**Evidence:** [077-u1667.png](evidence/chapter-01/extension/dzongsar-late/077-u1667.png). [Review and coverage](reviews/chapter-01/dzongsar-late.md).
+
+<a id="dz-late-08"></a>
+
+### DZ-LATE-08 — Dzongsar
+
+Units: [U01696](#u01696).
+
+**Current Adzom main context:** དེ་བཞིན་སེམས་ཀྱི་གནས་ཀྱིས་དགྲོལ། །
+
+**Comparison reading/snippet:** de bzhin sems kyi gnad kyis dgrol
+
+**Status:** lexical-variant. **Confidence:** high for gnad.
+
+**Locator:** PDF 79; BDRC image 83; exact crop bounds in structured report.
+
+**Observation:** Scan row2 left has gnad rather than supplied corrected reading gnas. Retain Adzom gnas pending base-specific evidence; Dzongsar comparison does not authorize changing the governing witness.
+
+**Choice and reason:** Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.
+
+**Evidence:** [079-u1696.png](evidence/chapter-01/extension/dzongsar-late/079-u1696.png). [Review and coverage](reviews/chapter-01/dzongsar-late.md).
+
+<a id="dz-late-09"></a>
+
+### DZ-LATE-09 — Dzongsar
+
+Units: [U01701](#u01701), [U01711](#u01711).
+
+**Current Adzom main context:** འབུ་སྲིན་ལ་སོགས་ལུས་དང་ནི། ། / ཡི་གེ་བཟློག་ཚུལ་དྲུག་གིས་ཀྱང། །
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** source-annotation. **Confidence:** presence high; note wording unresolved.
+
+**Locator:** PDF 79; BDRC image 83; exact crop bounds in structured report.
+
+**Observation:** Dotted leader starts after bu srin at row3 and leads to small note in row6 following bzlog tshul. Annotation wording not safely established. The visible note is not extra main verse.
+
+**Choice and reason:** Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.
+
+**Evidence:** [079-u1701-note.png](evidence/chapter-01/extension/dzongsar-late/079-u1701-note.png). [Review and coverage](reviews/chapter-01/dzongsar-late.md).
+
+<a id="dz-late-10"></a>
+
+### DZ-LATE-10 — Dzongsar
+
+Units: [U01716](#u01716).
+
+**Current Adzom main context:** འདྲེ་དང་རླུང་ལྷ་དག་གི་སྐད། །
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** source-annotation. **Confidence:** note partly unread.
+
+**Locator:** PDF 80; BDRC image 84; exact crop bounds in structured report.
+
+**Observation:** Small note under row1 ending dag gi skad, dotted vertical link. Ending kyang byung readable; preceding small syllables unresolved.
+
+**Choice and reason:** Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.
+
+**Evidence:** [080-u1716.png](evidence/chapter-01/extension/dzongsar-late/080-u1716.png). [Review and coverage](reviews/chapter-01/dzongsar-late.md).
+
+<a id="dz-late-11"></a>
+
+### DZ-LATE-11 — Dzongsar
+
+Units: [U01734](#u01734).
+
+**Current Adzom main context:** ཟླ་བ་ལོ་ཡི་འཁྲུལ་ལུགས་ཀྱིས། །
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** source-annotation. **Confidence:** note partly unread.
+
+**Locator:** PDF 80; BDRC image 84; exact crop bounds in structured report.
+
+**Observation:** Small note beside row6 lo yi 'khrul, connected by dots. Looks to report an alternative for 'khrul lugs, but full wording remains unresolved; no conjectural replacement.
+
+**Choice and reason:** Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.
+
+**Evidence:** [080-u1734.png](evidence/chapter-01/extension/dzongsar-late/080-u1734.png). [Review and coverage](reviews/chapter-01/dzongsar-late.md).
+
+<a id="dz-late-12"></a>
+
+### DZ-LATE-12 — Dzongsar
+
+Units: [U01779](#u01779).
+
+**Current Adzom main context:** བཅུ་གཉིས་དག་སྟེ་གསུམ་གསུམ་གྱིས། །
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** source-annotation. **Confidence:** note unresolved.
+
+**Locator:** PDF 82; BDRC image 86; exact crop bounds in structured report.
+
+**Observation:** Small note immediately following main bcu gnyis dag ste gsum gsum gyis. Main uninterrupted; small note not safely transcribed.
+
+**Choice and reason:** Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.
+
+**Evidence:** [082-u1779.png](evidence/chapter-01/extension/dzongsar-late/082-u1779.png). [Review and coverage](reviews/chapter-01/dzongsar-late.md).
+
+<a id="dz-late-13"></a>
+
+### DZ-LATE-13 — Dzongsar
+
+Units: [U01799](#u01799).
+
+**Current Adzom main context:** རྣོ་དང་རྡུག་དང་དྲག་ཞན་དང་། །
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** source-annotation. **Confidence:** note unresolved.
+
+**Locator:** PDF 83; BDRC image 87; exact crop bounds in structured report.
+
+**Observation:** Small note beneath last-row left, dotted leader toward rno dang. Complete variant wording not established.
+
+**Choice and reason:** Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.
+
+**Evidence:** [083-u1799.png](evidence/chapter-01/extension/dzongsar-late/083-u1799.png). [Review and coverage](reviews/chapter-01/dzongsar-late.md).
+
+<a id="dz-late-14"></a>
+
+### DZ-LATE-14 — Dzongsar
+
+Units: [U01803](#u01803), [U01806](#u01806).
+
+**Current Adzom main context:** ཡ་བཞི་བཟུང་སྟེ་རང་རང་བསྟུན། ། / [Source annotation separated; see the unit note.]
+
+**Comparison reading/snippet:** ya gnyis la yang byung
+
+**Status:** source-annotation. **Confidence:** medium-high.
+
+**Locator:** PDF 84; BDRC image 88; exact crop bounds in structured report.
+
+**Observation:** Dotted note under ya bzhi of first row reads ya gnyis la yang byung. Main ya bzhi bzung ste rang rang bstun remains intact.
+
+**Choice and reason:** Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.
+
+**Evidence:** [084-u1803.png](evidence/chapter-01/extension/dzongsar-late/084-u1803.png). [Review and coverage](reviews/chapter-01/dzongsar-late.md).
+
+<a id="dz-late-15"></a>
+
+### DZ-LATE-15 — Dzongsar
+
+Units: [U01811](#u01811), [U01812](#u01812).
+
+**Current Adzom main context:** ལོ་སྟོང་ཞག་ཀྱང་འབུམ་ཕྲག་གསུམ། ། / [Source annotation separated; see the unit note.]
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** source-annotation. **Confidence:** main high; annotation partially unresolved.
+
+**Locator:** PDF 84; BDRC image 88; exact crop bounds in structured report.
+
+**Observation:** Main lo stong zhag kyang 'bum phrag gsum is clear on row3. Dotted link to smaller reported-number alternative in row5; complete note (especially initial phrase) needs independent reading. Do not merge it into root verse.
+
+**Choice and reason:** Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.
+
+**Evidence:** [084-u1811.png](evidence/chapter-01/extension/dzongsar-late/084-u1811.png). [Review and coverage](reviews/chapter-01/dzongsar-late.md).
+
+<a id="dz-late-16"></a>
+
+### DZ-LATE-16 — Dzongsar
+
+Units: [U01828](#u01828), [U01829](#u01829), [U01830](#u01830).
+
+**Current Adzom main context:** ཟླ་བ་ལོ་སྟེ་བྱེར་ཟུག་སྙོམས། ། / [Source annotation separated; see the unit note.] / རྟེན་འབྲེལ་དུས་ཏེ་བཅུ་གཉིས་སྦྱར། །
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** source-annotation. **Confidence:** annotation wording unresolved.
+
+**Locator:** PDF 85; BDRC image 89; exact crop bounds in structured report.
+
+**Observation:** Small multiword annotation lies on row3 left and dotted link points to row2 rten 'brel. Complete wording unresolved; main rten 'brel dus te bcu gnyis sbyar is distinct.
+
+**Choice and reason:** Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.
+
+**Evidence:** [085-u1829.png](evidence/chapter-01/extension/dzongsar-late/085-u1829.png). [Review and coverage](reviews/chapter-01/dzongsar-late.md).
+
+<a id="dz-late-17"></a>
+
+### DZ-LATE-17 — Dzongsar
+
+Units: [U01882](#u01882).
+
+**Current Adzom main context:** ཞག་དང་ཟླ་བ་ལོ་རྣམས་ཀྱིས། །
+
+**Comparison reading/snippet:** so so'i tshad la rtags kyis 'grub / 'di ltar sku yi 'grub pa la / sprul pa'i sku dang longs sku dang
+
+**Status:** restoration-corroborated. **Confidence:** high.
+
+**Locator:** PDF 87; BDRC image 91; exact crop bounds in structured report.
+
+**Observation:** All three restored lines appear as main text on row4, followed by chos sku ngo bo nyid kyi sku at row5 start. The second has sku, corroborating Adzom against W su.
+
+**Choice and reason:** Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.
+
+**Evidence:** [087-restoration.png](evidence/chapter-01/extension/dzongsar-late/087-restoration.png). [Review and coverage](reviews/chapter-01/dzongsar-late.md).
+
+<a id="dz-late-18"></a>
+
+### DZ-LATE-18 — Dzongsar
+
+Units: [U02005](#u02005).
+
+**Current Adzom main context:** ཐེག་པ་དག་ནི་གཉིས་སུ་འདོད། །
+
+**Comparison reading/snippet:** gzhi ni 'jig rten pa yin te / 'di las 'dod pa gnyis yin no / 'das pa rgyu dang 'bras bu las
+
+**Status:** restoration-corroborated. **Confidence:** high.
+
+**Locator:** PDF 93; BDRC image 97; exact crop bounds in structured report.
+
+**Observation:** All three restored lines are full-size main text, row2 after U2005 final 'dod at row2 start. Row2 ends rgyu la gsum la before U2006 continues on row3.
+
+**Choice and reason:** Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.
+
+**Evidence:** [093-restoration.png](evidence/chapter-01/extension/dzongsar-late/093-restoration.png). [Review and coverage](reviews/chapter-01/dzongsar-late.md).
+
+<a id="dz-late-19"></a>
+
+### DZ-LATE-19 — Dzongsar
+
+Units: [U02129](#u02129).
+
+**Current Adzom main context:** དགུག་དང་བསད་དང་བཅིངས་པའི་ལས། །
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** source-annotation. **Confidence:** note partially unresolved.
+
+**Locator:** PDF 98; BDRC image 102; exact crop bounds in structured report.
+
+**Observation:** Small note after main bsad, linked by dots. Candidate bsgral kyang; presence clear but exact complete note needs second reading.
+
+**Choice and reason:** Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.
+
+**Evidence:** [098-u2129.png](evidence/chapter-01/extension/dzongsar-late/098-u2129.png). [Review and coverage](reviews/chapter-01/dzongsar-late.md).
+
+<a id="dz-late-20"></a>
+
+### DZ-LATE-20 — Dzongsar
+
+Units: [U02187](#u02187).
+
+**Current Adzom main context:** ལུགས་སུ་ཁྱད་པར་སྡེབས་གཉིས་ཀྱི། །
+
+**Comparison reading/snippet:** 'du shes can dag mtha' la 'jog / mngon sum gnad kyi man ngag gis
+
+**Status:** restoration-corroborated. **Confidence:** high.
+
+**Locator:** PDF 101; BDRC image 105; exact crop bounds in structured report.
+
+**Observation:** Two verses occur in main text, row4 right continuing 'jog at row5 left, then second verse on row5.
+
+**Choice and reason:** Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.
+
+**Evidence:** [101-restoration.png](evidence/chapter-01/extension/dzongsar-late/101-restoration.png). [Review and coverage](reviews/chapter-01/dzongsar-late.md).
+
+<a id="dz-late-21"></a>
+
+### DZ-LATE-21 — Dzongsar
+
+Units: [U02225](#u02225).
+
+**Current Adzom main context:** སྒྲ་དང་གདམས་ངག་ལ་སོགས་ཏེ། །
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** source-annotation. **Confidence:** annotation wording unresolved.
+
+**Locator:** PDF 103; BDRC image 107; exact crop bounds in structured report.
+
+**Observation:** Small annotation in row4 after U2228 is dotted back to main gdams/ngag area on row3. Ending yang byung readable, complete alternative not securely established.
+
+**Choice and reason:** Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.
+
+**Evidence:** [103-u2225.png](evidence/chapter-01/extension/dzongsar-late/103-u2225.png). [Review and coverage](reviews/chapter-01/dzongsar-late.md).
+
+<a id="dz-late-22"></a>
+
+### DZ-LATE-22 — Dzongsar
+
+Units: [U02308](#u02308).
+
+**Current Adzom main context:** སྡོམ་པ་ལུས་དང་ངག་ཏུ་འདུས། །
+
+**Comparison reading/snippet:** rdo rje gsang ba'i gnas gzung bya'o / yang ni lha dbang dga' byed nyon
+
+**Status:** restoration-corroborated. **Confidence:** main verses high; initial small-heading words uncertain.
+
+**Locator:** PDF 107; BDRC image 111; exact crop bounds in structured report.
+
+**Observation:** Two restored main verses are present on row1 and row2 start. Between them a small reply-57 heading is present; precise initial wording of that small heading (dris lan versus dris pa) requires second reading; do not silently certify all letters.
+
+**Choice and reason:** Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.
+
+**Evidence:** [107-restoration.png](evidence/chapter-01/extension/dzongsar-late/107-restoration.png). [Review and coverage](reviews/chapter-01/dzongsar-late.md).
+
+<a id="dz-late-23"></a>
+
+### DZ-LATE-23 — Dzongsar
+
+Units: [U02335](#u02335).
+
+**Current Adzom main context:** གནད་གསུམ་མན་ངག་འབྲལ་མི་བྱ། །
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** source-annotation. **Confidence:** small-note wording unresolved.
+
+**Locator:** PDF 108; BDRC image 112; exact crop bounds in structured report.
+
+**Observation:** Small note immediately following main 'bral on row3. Candidate first word bral, followed by yang; exact complete note unresolved. The note remains separate from mi bya.
+
+**Choice and reason:** Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.
+
+**Evidence:** [108-u2335.png](evidence/chapter-01/extension/dzongsar-late/108-u2335.png). [Review and coverage](reviews/chapter-01/dzongsar-late.md).
+
+<a id="dz-late-24"></a>
+
+### DZ-LATE-24 — Dzongsar
+
+Units: [U02351](#u02351).
+
+**Current Adzom main context:** མི་འགུལ་གསུམ་ལ་གཞི་བཅས་པས། །
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** unresolved-reading. **Confidence:** local suffix unresolved.
+
+**Locator:** PDF 109; BDRC image 113; exact crop bounds in structured report.
+
+**Observation:** Row1 right: suffix after gzhi before bcas pas not independently discriminated (gzhi/gzhir). Main mi 'gul gsum la … bcas pas is legible. Retain this narrow uncertainty.
+
+**Choice and reason:** Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.
+
+**Evidence:** [109-u2351.png](evidence/chapter-01/extension/dzongsar-late/109-u2351.png). [Review and coverage](reviews/chapter-01/dzongsar-late.md).
+
+<a id="dz-late-25"></a>
+
+### DZ-LATE-25 — Dzongsar
+
+Units: [U02489](#u02489), [U02490](#u02490).
+
+**Current Adzom main context:** རྣལ་འབྱོར་ཆེན་པོའི་སྤྱོད་པའི / འབྲས་བུ་བརྗོད་པར་མི་ནུས་ཀྱང་། །
+
+**Comparison reading/snippet:** dris lan re bdun pa
+
+**Status:** source-heading-placement. **Confidence:** high.
+
+**Locator:** PDF 115; BDRC image 119; exact crop bounds in structured report.
+
+**Observation:** Small reply-67 heading occurs physically after spyod pa'i and before 'bras bu, across row2-to-row3 transition. It is paratext, not root-verse completion.
+
+**Choice and reason:** Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.
+
+**Evidence:** [115-u2489.png](evidence/chapter-01/extension/dzongsar-late/115-u2489.png). [Review and coverage](reviews/chapter-01/dzongsar-late.md).
+
+<a id="dz-late-26"></a>
+
+### DZ-LATE-26 — Dzongsar
+
+Units: [U02522](#u02522).
+
+**Current Adzom main context:** གཟི་བརྗིད་ལྡན་ཞིང་གཞོན་པར་འགྱུར། །
+
+**Comparison reading/snippet:** gzi brjid ldan zhing gzhon par 'gyur
+
+**Status:** supporting-reading. **Confidence:** high.
+
+**Locator:** PDF 116; BDRC image 120; exact crop bounds in structured report.
+
+**Observation:** Main row5 first verse distinctly has gzhon par 'gyur, corroborating the corrected Adzom transcription.
+
+**Choice and reason:** Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.
+
+**Evidence:** [116-u2522.png](evidence/chapter-01/extension/dzongsar-late/116-u2522.png). [Review and coverage](reviews/chapter-01/dzongsar-late.md).
+
+<a id="dz-late-27"></a>
+
+### DZ-LATE-27 — Dzongsar
+
+Units: [U02597](#u02597).
+
+**Current Adzom main context:** དྲིས་ལན་དོན་ལྔ་པ།
+
+**Comparison reading/snippet:** dris lan don lnga pa
+
+**Status:** supporting-heading. **Confidence:** high.
+
+**Locator:** PDF 119; BDRC image 123; exact crop bounds in structured report.
+
+**Observation:** Small heading after U2596 in row6 has initial dris, corroborating corrected Adzom heading.
+
+**Choice and reason:** Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.
+
+**Evidence:** [119-u2597.png](evidence/chapter-01/extension/dzongsar-late/119-u2597.png). [Review and coverage](reviews/chapter-01/dzongsar-late.md).
+
+<a id="dz-late-28"></a>
+
+### DZ-LATE-28 — Dzongsar
+
+Units: [U02619](#u02619), [U02620](#u02620).
+
+**Current Adzom main context:** བྱིང་བར་མི་ནུས་རྒྱུག་ནུས་པའོ། ། / [Source annotation separated; see the unit note.]
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** source-annotation. **Confidence:** small notes unresolved.
+
+**Locator:** PDF 120; BDRC image 124; exact crop bounds in structured report.
+
+**Observation:** Row6 contains a small note after bying bar mi nus and another smaller phrase before ston pa sangs rgyas. Main bying bar mi nus rgyug nus pa'o is distinguishable; exact smaller-note readings remain unresolved. Their presence does not resolve the inked Adzom note.
+
+**Choice and reason:** Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.
+
+**Evidence:** [120-u2619.png](evidence/chapter-01/extension/dzongsar-late/120-u2619.png). [Review and coverage](reviews/chapter-01/dzongsar-late.md).
+
+<a id="dz-late-29"></a>
+
+### DZ-LATE-29 — Dzongsar
+
+Units: [U02635](#u02635).
+
+**Current Adzom main context:** སྣ་ཚོགས་བཀོད་པ་རང་བྱུང་མན་ངག་གི་རྩ་་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་དང་པོའོ།།
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** scan-only-inscription. **Confidence:** presence high; inscription reading unresolved.
+
+**Locator:** PDF 121; BDRC image 125; exact crop bounds in structured report.
+
+**Observation:** A compressed multi-sign inscription follows the Chapter1 colophon before de nas lha dbang rtog pa med in row5. Its lexical reading and function are not certified. Do not normalize it to a chapter label.
+
+**Choice and reason:** Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.
+
+**Evidence:** [121-colophon-inscription.png](evidence/chapter-01/extension/dzongsar-late/121-colophon-inscription.png). [Review and coverage](reviews/chapter-01/dzongsar-late.md).
+
+<a id="dz-mid-018-u328"></a>
+
+### DZ-MID-018-U328 — Dzongsar
+
+Units: [U00328](#u00328).
+
+**Current Adzom main context:** མེས་ནི་འབྱུང་བ་སེལ་བ་དང། །
+
+**Comparison reading/snippet:** སྤེལ་ཡང་བྱུང་
+
+**Status:** small-variant-note. **Confidence:** high.
+
+**Locator:** PDF 18; BDRC image 22; crop bounds in structured report.
+
+**Observation:** Main sel ba row1; smaller spel yang byung row3 connected by dotted leader. Supports separate alternate, not main substitution.
+
+**Choice and reason:** Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.
+
+**Evidence:** [p018-u328.jpg](evidence/chapter-01/extension/dzongsar-middle/p018-u328.jpg). [Review and coverage](reviews/chapter-01/dzongsar-middle.md).
+
+<a id="dz-mid-020-u373"></a>
+
+### DZ-MID-020-U373 — Dzongsar
+
+Units: [U00373](#u00373).
+
+**Current Adzom main context:** དྲིས་ལན་གསུམ་པའོ། །
+
+**Comparison reading/snippet:** dris lan gsum pa
+
+**Status:** heading. **Confidence:** high.
+
+**Locator:** PDF 20; BDRC image 24; crop bounds in structured report.
+
+**Observation:** Smaller heading row1 before main e ma; manuscript lacks the base final o. Retain selected Adzom heading; record witness spelling.
+
+**Choice and reason:** Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.
+
+**Evidence:** [p020-u373.jpg](evidence/chapter-01/extension/dzongsar-middle/p020-u373.jpg). [Review and coverage](reviews/chapter-01/dzongsar-middle.md).
+
+<a id="dz-mid-022-u440"></a>
+
+### DZ-MID-022-U440 — Dzongsar
+
+Units: [U00440](#u00440).
+
+**Current Adzom main context:** འབྱུང་བ་རྣམས་ཀྱི་སྒྲ་དོན་ནི། །
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** obscured-reading. **Confidence:** unresolved.
+
+**Locator:** PDF 22; BDRC image 26; crop bounds in structured report.
+
+**Observation:** Surface abrasion crossing the beginning of this line segment prevents exact independent discrimination. Adjacent kyi sgra don ni readable; no absence inferred.
+
+**Choice and reason:** Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.
+
+**Evidence:** [p022-u440.jpg](evidence/chapter-01/extension/dzongsar-middle/p022-u440.jpg). [Review and coverage](reviews/chapter-01/dzongsar-middle.md).
+
+<a id="dz-mid-024-u483"></a>
+
+### DZ-MID-024-U483 — Dzongsar
+
+Units: [U00483](#u00483).
+
+**Current Adzom main context:** བེམ་དང་རིག་བཅས་སྒྲ་རྣམས་དང༌། །
+
+**Comparison reading/snippet:** bem dang rigs bcas sgra rnams dang
+
+**Status:** lexical-variant. **Confidence:** high.
+
+**Locator:** PDF 24; BDRC image 28; crop bounds in structured report.
+
+**Observation:** Native enlarged crop resolves clear suffix s in rigs against base rig. Retain Adzom rig under selected witness policy.
+
+**Choice and reason:** Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.
+
+**Evidence:** [p024-u483.jpg](evidence/chapter-01/extension/dzongsar-middle/p024-u483.jpg). [Review and coverage](reviews/chapter-01/dzongsar-middle.md).
+
+<a id="dz-mid-027-u534"></a>
+
+### DZ-MID-027-U534 — Dzongsar
+
+Units: [U00534](#u00534).
+
+**Current Adzom main context:** ལྗོངས་རབ་ཏུ་རྫོགས་ཏེ་ཉམས་དགའ་བར། །
+
+**Comparison reading/snippet:** Main row2 rab tu rdzogs te nyams dga bar. Small linked text row3 ljongs bde yang byung.
+
+**Status:** uncertain-layer-placement. **Confidence:** high for visible words; unresolved disposition of first ljongs.
+
+**Locator:** PDF 27; BDRC image 31; crop bounds in structured report.
+
+**Observation:** Base initial ljongs appears only in the smaller linked annotation here, not before large rab. Do not silently flatten or count main-text agreement. A supplied-small correction or lemma-plus-variant is possible.
+
+**Choice and reason:** Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.
+
+**Evidence:** [p027-u534-note.jpg](evidence/chapter-01/extension/dzongsar-middle/p027-u534-note.jpg). [Review and coverage](reviews/chapter-01/dzongsar-middle.md).
+
+<a id="dz-mid-028-u559-rejected"></a>
+
+### DZ-MID-028-U559-REJECTED — Dzongsar
+
+Units: [U00559](#u00559).
+
+**Current Adzom main context:** བདེ་བའི་རོལ་པ་འབྱུང་བའོ། །
+
+**Comparison reading/snippet:** byung ba o
+
+**Status:** rejected-difference. **Confidence:** high.
+
+**Locator:** PDF 28; BDRC image 32; crop bounds in structured report.
+
+**Observation:** Enlarged native crop rejects first impression of byung ngo. No difference.
+
+**Choice and reason:** Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.
+
+**Evidence:** [p028-u559.jpg](evidence/chapter-01/extension/dzongsar-middle/p028-u559.jpg). [Review and coverage](reviews/chapter-01/dzongsar-middle.md).
+
+<a id="dz-mid-035-u710"></a>
+
+### DZ-MID-035-U710 — Dzongsar
+
+Units: [U00710](#u00710).
+
+**Current Adzom main context:** སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང། །
+
+**Comparison reading/snippet:** so so i nus pas bsgyur ba gang
+
+**Status:** layer-observation. **Confidence:** high for main; small wording unresolved.
+
+**Locator:** PDF 35; BDRC image 39; crop bounds in structured report.
+
+**Observation:** Focused crop supports main nus pas bsgyur. Linked smaller note on row4 has sbyar yang byung; complete initial note phrase not certified.
+
+**Choice and reason:** Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.
+
+**Evidence:** [p035-u710.jpg](evidence/chapter-01/extension/dzongsar-middle/p035-u710.jpg). [Review and coverage](reviews/chapter-01/dzongsar-middle.md).
+
+<a id="dz-mid-051-u1083"></a>
+
+### DZ-MID-051-U1083 — Dzongsar
+
+Units: [U01083](#u01083).
+
+**Current Adzom main context:** དྲིས་ལན་བཅུ་བདུན་པའོ། །
+
+**Comparison reading/snippet:** dris lan bcu bdun pa
+
+**Status:** heading-spelling. **Confidence:** high.
+
+**Locator:** PDF 51; BDRC image 55; crop bounds in structured report.
+
+**Observation:** Small heading on row6 immediately before rgyud kyi lus dang yan. Keep Adzom heading; record missing final o in comparison witness.
+
+**Choice and reason:** Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.
+
+**Evidence:** [p051-u1083.jpg](evidence/chapter-01/extension/dzongsar-middle/p051-u1083.jpg). [Review and coverage](reviews/chapter-01/dzongsar-middle.md).
+
+<a id="dz-mid-058-notes"></a>
+
+### DZ-MID-058-NOTES — Dzongsar
+
+Units: [U01233](#u01233), [U01237](#u01237), [U01238](#u01238).
+
+**Current Adzom main context:** དེ་ལྟར་བརྒྱ་དང་བརྒྱད་ཅུ་ལས། ། / དེ་ལྟར་སྦྲགས་པ་དེ་ཙམ་ལས། ། / བསྐལ་པ་ཆེན་པོ་གཅིག་ཡིན་ནོ། །
+
+**Comparison reading/snippet:** Two small chags jig stongs pa notes visible at row5 left and far right
+
+**Status:** annotation-repetition. **Confidence:** high for two physical occurrences.
+
+**Locator:** PDF 58; BDRC image 62; crop bounds in structured report.
+
+**Observation:** Left note sits before final las of U1237; right note links upward into same surrounding numerical discussion. Do not collapse repeated witness notes or infer absent duplicate from Adzom. Exact semantic attachments need separate adjudication.
+
+**Choice and reason:** Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.
+
+**Evidence:** [p058-notes-left.jpg](evidence/chapter-01/extension/dzongsar-middle/p058-notes-left.jpg), [p058-notes-right.jpg](evidence/chapter-01/extension/dzongsar-middle/p058-notes-right.jpg). [Review and coverage](reviews/chapter-01/dzongsar-middle.md).
+
+<a id="dz-mid-060-restoration"></a>
+
+### DZ-MID-060-RESTORATION — Dzongsar
+
+Units: [U01274](#u01274).
+
+**Current Adzom main context:** གསུམ་གསུམ་ཉིད་དེ་བཅུ་གཉིས་ལ། །
+
+**Comparison reading/snippet:** chu yi zug pas dbang po sdud / byer ba yis ni khrugs par byed / snyoms pa yis ni bras bu byin
+
+**Status:** supports-scan-restoration. **Confidence:** high.
+
+**Locator:** PDF 60; BDRC image 64; crop bounds in structured report.
+
+**Observation:** Three main verses present in manuscript rows2 end through3, at same place as corrected Adzom scan restorations. They are absent only from supplied A/B/S e-texts, not from this manuscript.
+
+**Choice and reason:** Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.
+
+**Evidence:** [p060-restored.jpg](evidence/chapter-01/extension/dzongsar-middle/p060-restored.jpg). [Review and coverage](reviews/chapter-01/dzongsar-middle.md).
+
+<a id="dz-mid-060-u1286"></a>
+
+### DZ-MID-060-U1286 — Dzongsar
+
+Units: [U01286](#u01286).
+
+**Current Adzom main context:** ཆུའི་བྱེར་སྙོམས་གཉིས་ཆད།
+
+**Comparison reading/snippet:** chu i byer snyoms gnyis chad
+
+**Status:** layer-observation. **Confidence:** high.
+
+**Locator:** PDF 60; BDRC image 64; crop bounds in structured report.
+
+**Observation:** Smaller script after U1285 and before U1287; not an independent main verse.
+
+**Choice and reason:** Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.
+
+**Evidence:** . [Review and coverage](reviews/chapter-01/dzongsar-middle.md).
+
+<a id="tk-root-01"></a>
+
+### TK-ROOT-01 — Tingkye
+
+Units: [U01278](#u01278).
+
+**Current Adzom main context:** མེ་ཡི་ཟུག་པས་ནད་དུ་བྱེད། །
+
+**Comparison reading/snippet:** མེའི་ཟུག་པས་
+
+**Status:** observed-local-variant. **Confidence:** high.
+
+**Locator:** PDF 35; BDRC image 428; focused native crop.
+
+**Observation:** Tingkye contracts me yi to me’i at the start of this verse.
+
+**Choice and reason:** Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.
+
+**Evidence:** [p035-u1278.png](evidence/chapter-01/extension/tingkye-root/p035-u1278.png). [Review and coverage](reviews/chapter-01/tingkye-root.md).
+
+<a id="tk-root-02"></a>
+
+### TK-ROOT-02 — Tingkye
+
+Units: [U01283](#u01283).
+
+**Current Adzom main context:** སྙོམས་པས་རླུང་སེམས་གཅིག་དུ་སྡུད། །
+
+**Comparison reading/snippet:** གཅིག་ཏུ་སྡུད
+
+**Status:** observed-local-variant. **Confidence:** high.
+
+**Locator:** PDF 35; BDRC image 428; focused native crop.
+
+**Observation:** Tingkye has tu after gcig; the retained Adzom transcript has du.
+
+**Choice and reason:** Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.
+
+**Evidence:** [p035-u1283.png](evidence/chapter-01/extension/tingkye-root/p035-u1283.png). [Review and coverage](reviews/chapter-01/tingkye-root.md).
+
+<a id="tk-root-03"></a>
+
+### TK-ROOT-03 — Tingkye
+
+Units: [U01300](#u01300).
+
+**Current Adzom main context:** རླུང་དང་ཆུ་ཡི་བྱ་བ་ཉིད། །
+
+**Comparison reading/snippet:** བྱ་བ་རྣམས
+
+**Status:** observed-local-variant. **Confidence:** high.
+
+**Locator:** PDF 35; BDRC image 428; focused native crop.
+
+**Observation:** Terminal rnams is visible against the base nyid. The initial sequence appears rlung chu yi without dang, but that finer initial-word reading remains a candidate; only the quoted terminal phrase is asserted securely.
+
+**Choice and reason:** Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.
+
+**Evidence:** [p035-u1300.png](evidence/chapter-01/extension/tingkye-root/p035-u1300.png). [Review and coverage](reviews/chapter-01/tingkye-root.md).
+
+<a id="tk-root-04"></a>
+
+### TK-ROOT-04 — Tingkye
+
+Units: [U01310](#u01310).
+
+**Current Adzom main context:** བྱ་བ་བྲལ་བར་རྫོགས་པས་རྫོགས། །
+
+**Comparison reading/snippet:** བྱ་བྲལ་བས་རྫོགས་པས་རྫོགས
+
+**Status:** observed-local-variant. **Confidence:** high.
+
+**Locator:** PDF 35; BDRC image 428; focused native crop.
+
+**Observation:** The displayed main sequence is bya bral bas rather than base bya ba bral bar. No extra ba between bya and bral is visible in the inspected crop.
+
+**Choice and reason:** Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.
+
+**Evidence:** [p035-u1310-full.png](evidence/chapter-01/extension/tingkye-root/p035-u1310-full.png). [Review and coverage](reviews/chapter-01/tingkye-root.md).
+
+<a id="tk-root-05"></a>
+
+### TK-ROOT-05 — Tingkye
+
+Units: [U01344](#u01344).
+
+**Current Adzom main context:** སྐུ་དང་གསུང་དང་ཐུགས་དང་ནི། །
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** uncertain-reading. **Confidence:** unresolved.
+
+**Locator:** PDF 36; BDRC image 429; focused native crop.
+
+**Observation:** The last syllable following thugs dang appears gis rather than base ni, but the compact glyph is not independently certain. Preserve as a local reading query.
+
+**Choice and reason:** Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.
+
+**Evidence:** [p036-u1344.png](evidence/chapter-01/extension/tingkye-root/p036-u1344.png). [Review and coverage](reviews/chapter-01/tingkye-root.md).
+
+<a id="tk-root-06"></a>
+
+### TK-ROOT-06 — Tingkye
+
+Units: [U01358](#u01358).
+
+**Current Adzom main context:** ཆུ་ཡི་སྒྲ་ནི་གཤང་བ་ལ། །
+
+**Comparison reading/snippet:** ཆུའི་སྒྲ་ནི་
+
+**Status:** observed-local-variant. **Confidence:** high.
+
+**Locator:** PDF 37; BDRC image 430; focused native crop.
+
+**Observation:** Contracted chu’i against base chu yi.
+
+**Choice and reason:** Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.
+
+**Evidence:** [p037-u1358.png](evidence/chapter-01/extension/tingkye-root/p037-u1358.png). [Review and coverage](reviews/chapter-01/tingkye-root.md).
+
+<a id="tk-root-07"></a>
+
+### TK-ROOT-07 — Tingkye
+
+Units: [U01366](#u01366).
+
+**Current Adzom main context:** མེ་ཡི་སྒྲ་ནི་རིང་བྱེད་བསླབ། །
+
+**Comparison reading/snippet:** མེའི་སྒྲ་ནི་
+
+**Status:** observed-local-variant. **Confidence:** high.
+
+**Locator:** PDF 37; BDRC image 430; focused native crop.
+
+**Observation:** Contracted me’i against base me yi.
+
+**Choice and reason:** Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.
+
+**Evidence:** [p037-u1366-correct.png](evidence/chapter-01/extension/tingkye-root/p037-u1366-correct.png). [Review and coverage](reviews/chapter-01/tingkye-root.md).
+
+<a id="tk-root-08"></a>
+
+### TK-ROOT-08 — Tingkye
+
+Units: [U01396](#u01396).
+
+**Current Adzom main context:** འབྱུང་བ་བཞི་དག་རྗོད་བྱེད་ཅིང་། །
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** uncertain-reading. **Confidence:** unresolved.
+
+**Locator:** PDF 38; BDRC image 431; focused native crop.
+
+**Observation:** The initial letters of rjod/byed group may include a b prefix (brjod); the exact crowded stack is unresolved. No corrected manuscript quotation is supplied.
+
+**Choice and reason:** Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.
+
+**Evidence:** [p038-u1396.png](evidence/chapter-01/extension/tingkye-root/p038-u1396.png). [Review and coverage](reviews/chapter-01/tingkye-root.md).
+
+<a id="tk-root-09"></a>
+
+### TK-ROOT-09 — Tingkye
+
+Units: [U01417](#u01417).
+
+**Current Adzom main context:** འབྱུང་བའི་དུས་ཉིད་རབ་བསྟིམས་ནས། །
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** uncertain-reading. **Confidence:** unresolved.
+
+**Locator:** PDF 38; BDRC image 431; focused native crop.
+
+**Observation:** Exact prefix/suffix in the cluster before nas (base bstims) remains uncertain after focused inspection; the neighboring main text is readable.
+
+**Choice and reason:** Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.
+
+**Evidence:** [p038-u1417.png](evidence/chapter-01/extension/tingkye-root/p038-u1417.png). [Review and coverage](reviews/chapter-01/tingkye-root.md).
+
+<a id="tk-root-10"></a>
+
+### TK-ROOT-10 — Tingkye
+
+Units: [U01420](#u01420).
+
+**Current Adzom main context:** མཁའ་འགྲོ་དབང་དུ་སྡུད་པའི་མིས། །
+
+**Comparison reading/snippet:** སྡུད་པ་ཡིས
+
+**Status:** observed-local-variant. **Confidence:** high.
+
+**Locator:** PDF 38; BDRC image 431; focused native crop.
+
+**Observation:** Visible sdud pa yis against base sdud pa’i mis.
+
+**Choice and reason:** Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.
+
+**Evidence:** [p038-u1420.png](evidence/chapter-01/extension/tingkye-root/p038-u1420.png). [Review and coverage](reviews/chapter-01/tingkye-root.md).
+
+<a id="tk-root-11"></a>
+
+### TK-ROOT-11 — Tingkye
+
+Units: [U01422](#u01422).
+
+**Current Adzom main context:** རིན་པོ་ཆེ་ཡི་སྦྱོར་བ་དག །
+
+**Comparison reading/snippet:** རིན་པོ་ཆེའི་
+
+**Status:** observed-local-variant. **Confidence:** high.
+
+**Locator:** PDF 38; BDRC image 431; focused native crop.
+
+**Observation:** The word group crossing the physical row end contracts che yi to che’i; the main verse continues sbyor ba dag.
+
+**Choice and reason:** Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.
+
+**Evidence:** [p038-u1422.png](evidence/chapter-01/extension/tingkye-root/p038-u1422.png). [Review and coverage](reviews/chapter-01/tingkye-root.md).
+
+<a id="tk-root-12"></a>
+
+### TK-ROOT-12 — Tingkye
+
+Units: [U01441](#u01441), [U01442](#u01442), [U01443](#u01443), [U01444](#u01444), [U01445](#u01445), [U01446](#u01446), [U01447](#u01447), [U01448](#u01448), [U01449](#u01449), [U01450](#u01450), [U01451](#u01451), [U01452](#u01452), [U01453](#u01453), [U01454](#u01454), [U01455](#u01455).
+
+**Current Adzom main context:** གནས་སུ་ཕྱིན་པས་ངེས་པར་འགྲུབ། ། / བཅུད་ཀྱིས་ལེན་པར་འདོད་པས་ནི། ། / བདུད་རྩི་རྣམ་ལྔ་སྦྱར་བའི་ཐབས། ། / གཞན་དུ་འབྱུང་བ་སྙོམས་པ་ལ། ། / མཁས་པས་ཆ་སྙོམས་ལེགས་སྦྱར་ནས། ། / རིན་པོ་ཆེ་ཡི་སྣོད་དུ་བླུགས། ། / དེ་ནས་སྦྲང་དང་ཨུད་ཙིད་ཏ། ། / ཁ་ཚར་ལེགས་པར་བཏབ་ནས་ནི། ། / དངུལ་ཆུའི་ཐིགས་པ་རེ་བླངས་ནས། ། / ནང་བཞིན་སྲན་མའི་རྡོག་མ་ཙམ། ། / མཁས་པ་དག་གིས་ཟ་སྤྱོད་ན། ། / བཅུད་ཀྱིས་ལེན་པ་ཆེན་པོར་ཡང་། ། / འགྱུར་བ་ཐེ་ཚོམ་མི་ཟའོ། ། / དྲིས་ལན་ཉེར་དགུ་པའོ། ། / བྱེ་བྲག་སྐུ་རྣམས་བསྒྲུབ་པ་ན། །
+
+**Comparison reading/snippet:** U01441 → U01453 → U01455
+
+**Status:** local-sequence-absence. **Confidence:** high.
+
+**Locator:** PDF 39; BDRC image 432; focused native crop.
+
+**Observation:** Row2 proceeds from gnas su phyin pas nges par ’grub to ’gyur ba the tshom mi za’o and then bye brag sku rnams bsgrub pa na. Main verses U01442–U01452 are absent at this inspected junction. U01453 is present and must not be included in that omission. The Adzom reply heading U01454 is not at the junction. This is a local sequence difference, not proof that the verses never appear elsewhere in the witness.
+
+**Choice and reason:** Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.
+
+**Evidence:** [p039-junction1441-1455.png](evidence/chapter-01/extension/tingkye-root/p039-junction1441-1455.png). [Review and coverage](reviews/chapter-01/tingkye-root.md).
+
+<a id="tk-root-13"></a>
+
+### TK-ROOT-13 — Tingkye
+
+Units: [U01453](#u01453).
+
+**Current Adzom main context:** འགྱུར་བ་ཐེ་ཚོམ་མི་ཟའོ། །
+
+**Comparison reading/snippet:** འགྱུར་བ་ཐེ་ཚོམ་མི་ཟའོ
+
+**Status:** sequence-clarification. **Confidence:** high.
+
+**Locator:** PDF 39; BDRC image 432; focused native crop.
+
+**Observation:** Focused crop confirms this verse between U1441 and U1455. It initially looked like a small note in the wide view but is retained as observed main sequence, not an unread paratext.
+
+**Choice and reason:** Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.
+
+**Evidence:** [p039-junction-smallnote.png](evidence/chapter-01/extension/tingkye-root/p039-junction-smallnote.png). [Review and coverage](reviews/chapter-01/tingkye-root.md).
+
+<a id="tk-root-14"></a>
+
+### TK-ROOT-14 — Tingkye
+
+Units: [U01439](#u01439).
+
+**Current Adzom main context:** ལེགས་པར་སྦྱར་ཏེ་ཨ་ཡིས་བསྐོར། །
+
+**Comparison reading/snippet:** སྦྱར་ཏེ་ཨ་ཡིས་བསྐོར
+
+**Status:** supporting-main-layer. **Confidence:** high.
+
+**Locator:** PDF 39; BDRC image 432; focused native crop.
+
+**Observation:** Focused main phrase corroborates the separated Adzom main wording; the source-transcript alternative a lis kyang byung is not inserted here. This does not establish its absence from every margin.
+
+**Choice and reason:** Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.
+
+**Evidence:** [p039-u1439.png](evidence/chapter-01/extension/tingkye-root/p039-u1439.png). [Review and coverage](reviews/chapter-01/tingkye-root.md).
+
+<a id="tk-root-15"></a>
+
+### TK-ROOT-15 — Tingkye
+
+Units: [U01457](#u01457).
+
+**Current Adzom main context:** ཆུ་ཡི་དྲིས་ནི་བདེ་བ་སྟེར། །
+
+**Comparison reading/snippet:** ཆུའི་དྲིས་ནི་
+
+**Status:** observed-local-variant. **Confidence:** high.
+
+**Locator:** PDF 39; BDRC image 432; focused native crop.
+
+**Observation:** Contracted chu’i against base chu yi.
+
+**Choice and reason:** Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.
+
+**Evidence:** [p039-u1457.png](evidence/chapter-01/extension/tingkye-root/p039-u1457.png). [Review and coverage](reviews/chapter-01/tingkye-root.md).
+
+<a id="tk-root-16"></a>
+
+### TK-ROOT-16 — Tingkye
+
+Units: [U01465](#u01465).
+
+**Current Adzom main context:** མེ་ཡི་དྲིས་ནི་ཉམས་བསྐྱེད་དེ། །
+
+**Comparison reading/snippet:** མེའི་དྲིས་ནི་
+
+**Status:** observed-local-variant. **Confidence:** high.
+
+**Locator:** PDF 39; BDRC image 432; focused native crop.
+
+**Observation:** Contracted me’i against base me yi.
+
+**Choice and reason:** Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.
+
+**Evidence:** [p039-u1465.png](evidence/chapter-01/extension/tingkye-root/p039-u1465.png). [Review and coverage](reviews/chapter-01/tingkye-root.md).
 
 ## A/B/S transcript apparatus
 
@@ -17840,6 +19080,6 @@ Exact differences: C1-0357, C1-0358, C1-0359.
 
 The continuous main-Tibetan lexical pass is recorded in the [early](reviews/chapter-01/continuous-early.md) and [late](reviews/chapter-01/continuous-late.md) reports, supplemented by opening/boundary inspection. This has not certified every punctuation sign, source ornament or title glyph. U01522 remains uncertain; the exact U02615 annotation could not be established. The title material, provisional portrait caption, and compressed boundary inscription remain open.
 
-Continuous reliable comparison-witness collation is unfinished. The [Tsamdrak](reviews/chapter-01/tsamdrak-collation.md), [Tingkye](reviews/chapter-01/tingkye-collation.md), and [Tharpaling](reviews/chapter-01/tharpaling-collation.md) attempts document concrete limits of the current readings and the need for qualified further reading. These limits are not a claim that all those sources are objectively illegible. [Dzongsar](reviews/chapter-01/dzongsar-collation.md) is an interrupted opening checkpoint, not a failed-legibility claim. The earlier [Degé report](reviews/chapter-01/independent-openings.md) and its second reading also remain limited.
+Continuous reliable comparison-witness collation is unfinished. The [Tsamdrak](reviews/chapter-01/tsamdrak-collation.md), [Tingkye](reviews/chapter-01/tingkye-collation.md), and [Tharpaling](reviews/chapter-01/tharpaling-collation.md) attempts document concrete limits of the current readings and the need for qualified further reading. These limits are not a claim that all those sources are objectively illegible. The [comparison extension](reviews/chapter-01/comparison-extension.md) now joins the Dzongsar opening, middle and late main-sequence passes through its actual colophon. It also records new manuscript attempts and exact reading limits. The earlier [Degé report](reviews/chapter-01/independent-openings.md) and its second reading also remain limited.
 
 Sichuan can currently be cited only as its supplied transcript where no full scan is available. Adzom 1973–1977 and Gcn need verified root mappings before collation. Catalogue-only leads are recorded in SOURCES.md and are not counted as collated witnesses. Chapters 2–6 have not been started in this edition.

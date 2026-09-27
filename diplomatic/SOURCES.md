@@ -82,3 +82,7 @@ The [Langtang opening inspection](reviews/chapter-01/langtang-opening-gap.md) fo
 ## Second-reading coverage update
 
 The [coverage ledger](collation/chapter-01/scan-coverage.json) and [continuation record](HANDOFF.md) supersede earlier progress statements, without changing the inventory. Adzom has a continuous main-lexical pass and targeted annotation audit; exact punctuation/title work remains open. Tsamdrak, Tingkye and Tharpaling now have explicit partial attempts and capability assessments. Dzongsar has an interrupted opening comparison. Actual Chapter 1 colophons were located at Tsamdrak PDF83, Tingkye PDF69, Tharpaling PDF71 and Dzongsar PDF121. These boundary checks are not full intervening collation.
+
+## Comparison extension
+
+The [current comparison progress](reviews/chapter-01/comparison-extension.md) supersedes earlier progress claims. Dzongsar now has a main-lexical pass through PDF121. Gadkar’s Chapter1 boundary is PDF91/virtual image531/backing I1BL8870538.jpg, row4; Degé’s is PDF54/image700, row3. These boundary observations do not certify the intervening text. Zhichen and W1ER119 attempts document reading-capability limits rather than inaccessible or missing source material.

@@ -1,6 +1,6 @@
 # Chapter 1 continuation after the second reading
 
-The requested golden edition is **not complete**. No chapter has passed the complete-witness gate. Chapter 1 is the only chapter under work; Chapters 2–6 and the closing material have not been started. The remote branch is `diplomatic/chapter-01-collation`.
+The requested golden edition is **not complete**. The [comparison progress report](reviews/chapter-01/comparison-extension.md) supersedes earlier statements about witness progress. No chapter has passed the complete-witness gate. Chapter 1 is the only chapter under work; Chapters 2–6 and the closing material have not been started. The remote branch is `diplomatic/chapter-01-collation`.
 
 ## What is preserved
 
@@ -16,7 +16,7 @@ The requested golden edition is **not complete**. No chapter has passed the comp
 
 The second comparison readings did not establish reliable continuous all-variant collation. In Tsamdrak, the images are largely sharp, but the reader could not reliably distinguish recurring Tibetan stacks and suffixes; this is a capability limit, not a general claim of source illegibility. Tingkye has analogous unresolved reading judgments. Tharpaling adds concrete obscured regions; its alternative provider PDF contains the same image detail. The exact reports retain examples, inspection bounds and what remains uncollated.
 
-Dzongsar is an interrupted opening checkpoint through PDF15/U00279, not a claim that its later pages are unreadable. Its actual chapter colophon is PDF121. No uninspected comparison span is treated as agreement. The other mapped witnesses and unresolved containers still require collation or root mapping.
+Dzongsar now has opening, middle and late main-lexical ledgers covering PDF2–121 through the Chapter1 colophon. The 13 restored base verses are corroborated. Local uncertain words, exact Sanskrit and small-note wording remain explicitly qualified; this is not all-punctuation certification. See the [current comparison extension](reviews/chapter-01/comparison-extension.md) for newly incorporated reports and ongoing ranges. No uninspected comparison span is treated as agreement. The other mapped witnesses and unresolved containers still require collation or root mapping.
 
 The Adzom base itself retains explicit uncertainty at the title material, portrait caption, U01522 fused cluster, U02615 note, inked U02620 cluster, and compressed PDF102 inscription. These require qualified reading or explicitly maintained uncertainty. Physical punctuation/sign review also remains unfinished.
 

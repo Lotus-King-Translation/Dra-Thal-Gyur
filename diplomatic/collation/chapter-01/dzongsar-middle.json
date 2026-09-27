@@ -1,0 +1,669 @@
+{
+  "witness": "Dzongsar manuscript MW3PD988_0F57E0, volume I3PD1345",
+  "source_pdf": "editions/dzongsar-manuscript/sgra-thal-gyur.pdf",
+  "source_pdf_sha256": "5ec4cf4035136ceb4eaffdc47001358c5983aba39e63aed096aedfa4b586559f",
+  "assigned_pages": [
+    16,
+    68
+  ],
+  "method": "Native 2519x670 images; overlapping crops [0,0,1350,670], [1250,0,2519,670]. Lexical reading against corrected reading-units.json and ordered scan insertions; no OCR. Exact punctuation and all small annotation wording not certified. Candidates known during image comparison. PDF N maps BDRC image N+4. PNG extraction included some truncated local scratch writes; all affected viewing attempts were repeated from PDF as native-size JPEG crops at quality100. No unviewed corrupted crop is counted as inspection.",
+  "pages": [
+    {
+      "pdf_page": 16,
+      "bdrc_image": 20,
+      "start": "U00280",
+      "end": "U00303: first syllable khrul",
+      "status": "main-lexical-compared",
+      "detail": "No detected lexical main-text difference."
+    },
+    {
+      "pdf_page": 17,
+      "bdrc_image": 21,
+      "start": "U00303: pa i rdul onward",
+      "end": "U00326: through sogs pa",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared. Small note and reply heading near U317–318 visibly separate from main; full small wording not certified."
+    },
+    {
+      "pdf_page": 18,
+      "bdrc_image": 22,
+      "start": "U00326: bskyed",
+      "end": "U00348: through gzhung gis",
+      "status": "main-lexical-compared",
+      "detail": "Main compared. U328 alternate spel yang byung appears in small text on row3 above dgos pa sems; U344 heading split near rows5–6. U346 rnams is a small insertion beneath the line, preserving same lexical sequence."
+    },
+    {
+      "pdf_page": 19,
+      "bdrc_image": 23,
+      "start": "U00348: kyang",
+      "end": "U00370",
+      "status": "main-lexical-compared",
+      "detail": "No detected main lexical difference."
+    },
+    {
+      "pdf_page": 20,
+      "bdrc_image": 24,
+      "start": "U00371",
+      "end": "U00394",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared. Heading U373 reads dris lan gsum pa rather than base gsum pa o; final syllable absence visible before e ma."
+    },
+    {
+      "pdf_page": 21,
+      "bdrc_image": 25,
+      "start": "U00395",
+      "end": "U00418: zur phud",
+      "status": "main-lexical-compared",
+      "detail": "No detected main lexical difference."
+    },
+    {
+      "pdf_page": 22,
+      "bdrc_image": 26,
+      "start": "U00418: phyed pa i",
+      "end": "U00441",
+      "status": "main-lexical-compared-with-local-uncertainty",
+      "detail": "Continuous comparison except U440 rubbed ba rnams cluster after byung. Do not certify those glyphs."
+    },
+    {
+      "pdf_page": 23,
+      "bdrc_image": 27,
+      "start": "U00442",
+      "end": "U00464: gnas",
+      "status": "main-lexical-compared",
+      "detail": "No detected main lexical difference."
+    },
+    {
+      "pdf_page": 24,
+      "bdrc_image": 28,
+      "start": "U00464: dang byed",
+      "end": "U00485: through bstan bcos",
+      "status": "main-lexical-compared-with-local-uncertainty",
+      "detail": "Continuous comparison; U483 rig/rigs needs suffix discrimination."
+    },
+    {
+      "pdf_page": 25,
+      "bdrc_image": 29,
+      "start": "U00485: dang",
+      "end": "U00507",
+      "status": "main-lexical-compared",
+      "detail": "No detected main lexical difference."
+    },
+    {
+      "pdf_page": 26,
+      "bdrc_image": 30,
+      "start": "U00508",
+      "end": "U00528",
+      "status": "main-lexical-compared",
+      "detail": "No detected main lexical difference."
+    },
+    {
+      "pdf_page": 27,
+      "bdrc_image": 31,
+      "start": "U00529",
+      "end": "U00549: ston",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared; U534 main first syllable and associated note require focused layer check. U542 clearly spras, supporting corrected base against raw A smras."
+    },
+    {
+      "pdf_page": 28,
+      "bdrc_image": 32,
+      "start": "U00549: pa i bstan pa",
+      "end": "U00570: through yon tan",
+      "status": "main-lexical-compared",
+      "detail": "Continuous comparison; U559 terminal wording requires focused crop."
+    },
+    {
+      "pdf_page": 29,
+      "bdrc_image": 33,
+      "start": "U00570: rnams kyis brgyan",
+      "end": "U00591: khor lo brtsegs pa i",
+      "status": "main-lexical-compared",
+      "detail": "No detected main lexical difference."
+    },
+    {
+      "pdf_page": 30,
+      "bdrc_image": 34,
+      "start": "U00591: rnam pa ni",
+      "end": "U00611",
+      "status": "main-lexical-compared",
+      "detail": "Main compared; small klu yi gdong yang byung note physically in row3 near U600, related to U596, not part of U600."
+    },
+    {
+      "pdf_page": 31,
+      "bdrc_image": 35,
+      "start": "U00612",
+      "end": "U00632",
+      "status": "main-lexical-compared",
+      "detail": "Main compared; two small notes around final row require full independent transcription; presence does not certify their wording."
+    },
+    {
+      "pdf_page": 32,
+      "bdrc_image": 36,
+      "start": "U00633",
+      "end": "U00653: through sgrub par",
+      "status": "main-lexical-compared",
+      "detail": "Main compared. Smaller variant note with dotted leader before U651; complete note text not certified."
+    },
+    {
+      "pdf_page": 33,
+      "bdrc_image": 37,
+      "start": "U00653: byed",
+      "end": "U00677: through phye",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared; no detected lexical difference."
+    },
+    {
+      "pdf_page": 34,
+      "bdrc_image": 38,
+      "start": "U00677: na",
+      "end": "U00699: through skyob",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared; no detected lexical difference."
+    },
+    {
+      "pdf_page": 35,
+      "bdrc_image": 39,
+      "start": "U00699: rlung gi lha",
+      "end": "U00722: gleng",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared; U710 nus pa(s) uncertain suffix with linked small note in following row."
+    },
+    {
+      "pdf_page": 36,
+      "bdrc_image": 40,
+      "start": "U00722: gzhi dag",
+      "end": "U00745: phun",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared; no detected lexical difference."
+    },
+    {
+      "pdf_page": 37,
+      "bdrc_image": 41,
+      "start": "U00745: zhes",
+      "end": "U00767: byang gi phyogs na",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared; no detected lexical difference."
+    },
+    {
+      "pdf_page": 38,
+      "bdrc_image": 42,
+      "start": "U00767: gyo ba ldan",
+      "end": "U00790: rdo rje",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared; no detected lexical difference."
+    },
+    {
+      "pdf_page": 39,
+      "bdrc_image": 43,
+      "start": "U00790: byung ba i ri rtse la",
+      "end": "U00811: through byung",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared. U800 linked sa yi yang byung note visibly separate, row4; Sanskrit name stacks are not independently character-certified."
+    },
+    {
+      "pdf_page": 40,
+      "bdrc_image": 44,
+      "start": "U00811: ba i gnas",
+      "end": "U00834",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared; no detected lexical difference."
+    },
+    {
+      "pdf_page": 41,
+      "bdrc_image": 45,
+      "start": "U00835",
+      "end": "U00856: dir ni",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared; no detected lexical difference."
+    },
+    {
+      "pdf_page": 42,
+      "bdrc_image": 46,
+      "start": "U00856: nub nas",
+      "end": "U00879",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared; no detected lexical difference. Exact Sanskrit vowel/stack microvariation in names not character-certified."
+    },
+    {
+      "pdf_page": 43,
+      "bdrc_image": 47,
+      "start": "U00880",
+      "end": "U00902: di nas",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared; no detected lexical difference. Exact Sanskrit vowel/stack microvariation in names not character-certified."
+    },
+    {
+      "pdf_page": 44,
+      "bdrc_image": 48,
+      "start": "U00902: lo bcu i",
+      "end": "U00924: bstan pa dam pa",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared; no detected lexical difference."
+    },
+    {
+      "pdf_page": 45,
+      "bdrc_image": 49,
+      "start": "U00924: di nyid ni",
+      "end": "U00946: di la phel",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared; no detected lexical difference."
+    },
+    {
+      "pdf_page": 46,
+      "bdrc_image": 50,
+      "start": "U00946: grib byung ba min",
+      "end": "U00968",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared; no detected lexical difference."
+    },
+    {
+      "pdf_page": 47,
+      "bdrc_image": 51,
+      "start": "U00969",
+      "end": "U00991",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared; no detected lexical difference. Exact Sanskrit vowel/stack spelling in U988–989 not character-certified."
+    },
+    {
+      "pdf_page": 48,
+      "bdrc_image": 52,
+      "start": "U00992",
+      "end": "U01016: through od",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared. Exact foreign-name spellings at U993, U997, U1000, U1007, U1011, U1015 require specialist stack/vowel check; no wholesale name agreement claimed."
+    },
+    {
+      "pdf_page": 49,
+      "bdrc_image": 53,
+      "start": "U01016: do",
+      "end": "U01041: de",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared; no detected lexical difference."
+    },
+    {
+      "pdf_page": 50,
+      "bdrc_image": 54,
+      "start": "U01041: ltar",
+      "end": "U01063: stong",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared; no detected lexical difference."
+    },
+    {
+      "pdf_page": 51,
+      "bdrc_image": 55,
+      "start": "U01063: phrag brgya",
+      "end": "U01084: through yan",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared; thams cad tshe gcig bras bu thob main intact. Small alternatives in rows2–3 not flattened. U1083 heading lacks final o visible in base."
+    },
+    {
+      "pdf_page": 52,
+      "bdrc_image": 56,
+      "start": "U01084: lag ni",
+      "end": "U01106: yan lag nyid la",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared. U1090 main brgya gcig go; smaller bcu gcig kyang byung below brgya supports distinct reported alternative."
+    },
+    {
+      "pdf_page": 53,
+      "bdrc_image": 57,
+      "start": "U01106: brgya phrag gnyis",
+      "end": "U01128: khor",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared; no detected lexical difference."
+    },
+    {
+      "pdf_page": 54,
+      "bdrc_image": 58,
+      "start": "U01128: dang skye ba",
+      "end": "U01151: ye shes nyid",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared. U1144 short note is smaller before rtsi ni; separate from main, wording not independently certified."
+    },
+    {
+      "pdf_page": 55,
+      "bdrc_image": 59,
+      "start": "U01151: dang byung ba o",
+      "end": "U01174: rang mthun",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared; no detected lexical difference."
+    },
+    {
+      "pdf_page": 56,
+      "bdrc_image": 60,
+      "start": "U01174: spyi don las kyi yang",
+      "end": "U01198: through nges par",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared; no detected lexical difference."
+    },
+    {
+      "pdf_page": 57,
+      "bdrc_image": 61,
+      "start": "U01198: bkod",
+      "end": "U01221: through med",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared; no detected lexical difference."
+    },
+    {
+      "pdf_page": 58,
+      "bdrc_image": 62,
+      "start": "U01221: pa nas",
+      "end": "U01245: nyi shu dag",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared. Two physically distinct small chags jig stongs pa notes in row5, unlike single noted Adzom occurrence."
+    },
+    {
+      "pdf_page": 59,
+      "bdrc_image": 63,
+      "start": "U01245: ni rdzogs pa las",
+      "end": "U01267: dbang thang",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared; U1265 linked smaller note below/right, not main. No new lexical difference detected."
+    },
+    {
+      "pdf_page": 60,
+      "bdrc_image": 64,
+      "start": "U01267: spel dang gso ba dang",
+      "end": "U01287: first zug pa",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence and three restored Adzom verses after U1274 compared. All three are present as large main script, rows2–3. U1286 is physically small note at row6."
+    },
+    {
+      "pdf_page": 61,
+      "bdrc_image": 65,
+      "start": "U01287: second zug pa through phrad pa yis",
+      "end": "U01308: dris lan",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared; no detected lexical difference."
+    },
+    {
+      "pdf_page": 62,
+      "bdrc_image": 66,
+      "start": "U01308: nyer lnga pa",
+      "end": "U01330: lhug mar byung bas",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared. Small variant before U1330 beginning lhug; full wording unverified."
+    },
+    {
+      "pdf_page": 63,
+      "bdrc_image": 67,
+      "start": "U01330: skye ba med",
+      "end": "U01354: sku gsum bslab",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared; no detected lexical difference."
+    },
+    {
+      "pdf_page": 64,
+      "bdrc_image": 68,
+      "start": "U01354: pa i rim pa nyid",
+      "end": "U01378: rim pa dus dang",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared; no detected lexical difference."
+    },
+    {
+      "pdf_page": 65,
+      "bdrc_image": 69,
+      "start": "U01378: nges sbyar te",
+      "end": "U01399",
+      "status": "main-lexical-compared",
+      "detail": "Main sequence compared; no detected lexical difference."
+    },
+    {
+      "pdf_page": 66,
+      "bdrc_image": 70,
+      "start": "U01400",
+      "end": "U01421: ma mo",
+      "status": "main-lexical-compared",
+      "detail": "Main compared; U1414 and U1417 alternatives are separate smaller linked notes in rows5–6. Full wording not independently certified."
+    },
+    {
+      "pdf_page": 67,
+      "bdrc_image": 71,
+      "start": "U01421: du ba i sar phyin nas",
+      "end": "U01442: bcud",
+      "status": "main-lexical-compared",
+      "detail": "Main compared; U1422 and U1439 linked smaller alternatives kept separate. U1439 main a yis bskor is visible."
+    },
+    {
+      "pdf_page": 68,
+      "bdrc_image": 72,
+      "start": "U01442: kyis len par dod pas ni",
+      "end": "U01466: through nyams",
+      "status": "main-lexical-compared",
+      "detail": "All six main rows compared; no detected lexical difference. Exact Sanskrit/vowel representation at U1447 and U1462 not character-certified."
+    }
+  ],
+  "observations": [
+    {
+      "id": "DZ-MID-018-U328",
+      "pdf_page": 18,
+      "unit": "U00328",
+      "layer": "small-variant-note",
+      "reading": "སྤེལ་ཡང་བྱུང་",
+      "main_reading": "sel ba",
+      "detail": "Main sel ba row1; smaller spel yang byung row3 connected by dotted leader. Supports separate alternate, not main substitution.",
+      "confidence": "high",
+      "evidence": "evidence/chapter-01/extension/dzongsar-middle/p018-u328.jpg",
+      "bounds": [
+        1150,
+        200,
+        1560,
+        353
+      ]
+    },
+    {
+      "id": "DZ-MID-020-U373",
+      "pdf_page": 20,
+      "unit": "U00373",
+      "layer": "heading",
+      "adzom": "dris lan gsum pa o",
+      "dzongsar": "dris lan gsum pa",
+      "confidence": "high",
+      "detail": "Smaller heading row1 before main e ma; manuscript lacks the base final o. Retain selected Adzom heading; record witness spelling.",
+      "evidence": "evidence/chapter-01/extension/dzongsar-middle/p020-u373.jpg",
+      "bounds": [
+        1210,
+        120,
+        1530,
+        196
+      ]
+    },
+    {
+      "id": "DZ-MID-022-U440",
+      "pdf_page": 22,
+      "unit": "U00440",
+      "layer": "main",
+      "type": "obscured-reading",
+      "uncertain_span": "ba rnams after byung; base expected phrase byung ba rnams kyi sgra don ni",
+      "bounds": [
+        1330,
+        467,
+        1600,
+        551
+      ],
+      "confidence": "unresolved",
+      "detail": "Surface abrasion crossing the beginning of this line segment prevents exact independent discrimination. Adjacent kyi sgra don ni readable; no absence inferred.",
+      "evidence": "evidence/chapter-01/extension/dzongsar-middle/p022-u440.jpg"
+    },
+    {
+      "id": "DZ-MID-024-U483",
+      "pdf_page": 24,
+      "unit": "U00483",
+      "layer": "main",
+      "type": "lexical-variant",
+      "adzom": "bem dang rig bcas sgra rnams dang",
+      "candidate": "bem dang rigs bcas sgra rnams dang",
+      "confidence": "high",
+      "bounds": [
+        540,
+        449,
+        950,
+        543
+      ],
+      "detail": "Native enlarged crop resolves clear suffix s in rigs against base rig. Retain Adzom rig under selected witness policy.",
+      "dzongsar": "bem dang rigs bcas sgra rnams dang",
+      "evidence": "evidence/chapter-01/extension/dzongsar-middle/p024-u483.jpg"
+    },
+    {
+      "id": "DZ-MID-027-U534",
+      "pdf_page": 27,
+      "unit": "U00534",
+      "layer": "main-and-note",
+      "type": "uncertain-layer-placement",
+      "adzom": "ljongs rab tu rdzogs te nyams dga bar; separate bde yang byung",
+      "dzongsar": "Main row2 rab tu rdzogs te nyams dga bar. Small linked text row3 ljongs bde yang byung.",
+      "confidence": "high for visible words; unresolved disposition of first ljongs",
+      "detail": "Base initial ljongs appears only in the smaller linked annotation here, not before large rab. Do not silently flatten or count main-text agreement. A supplied-small correction or lemma-plus-variant is possible.",
+      "evidence": "evidence/chapter-01/extension/dzongsar-middle/p027-u534-note.jpg",
+      "bounds": [
+        1270,
+        201,
+        2110,
+        355
+      ]
+    },
+    {
+      "id": "DZ-MID-028-U559-REJECTED",
+      "pdf_page": 28,
+      "unit": "U00559",
+      "layer": "main",
+      "type": "rejected-difference",
+      "adzom": "byung ba o",
+      "dzongsar": "byung ba o",
+      "confidence": "high",
+      "detail": "Enlarged native crop rejects first impression of byung ngo. No difference.",
+      "evidence": "evidence/chapter-01/extension/dzongsar-middle/p028-u559.jpg"
+    },
+    {
+      "id": "DZ-MID-035-U710",
+      "pdf_page": 35,
+      "unit": "U00710",
+      "layer": "main-and-note",
+      "type": "layer-observation",
+      "adzom": "so so i nus pas bsgyur ba gang",
+      "dzongsar": "so so i nus pas bsgyur ba gang",
+      "confidence": "high for main; small wording unresolved",
+      "detail": "Focused crop supports main nus pas bsgyur. Linked smaller note on row4 has sbyar yang byung; complete initial note phrase not certified.",
+      "evidence": "evidence/chapter-01/extension/dzongsar-middle/p035-u710.jpg",
+      "bounds": [
+        1500,
+        267,
+        2165,
+        425
+      ]
+    },
+    {
+      "id": "DZ-MID-051-U1083",
+      "pdf_page": 51,
+      "unit": "U01083",
+      "layer": "heading",
+      "type": "heading-spelling",
+      "adzom": "dris lan bcu bdun pa o",
+      "dzongsar": "dris lan bcu bdun pa",
+      "confidence": "high",
+      "detail": "Small heading on row6 immediately before rgyud kyi lus dang yan. Keep Adzom heading; record missing final o in comparison witness.",
+      "evidence": "evidence/chapter-01/extension/dzongsar-middle/p051-u1083.jpg",
+      "bounds": [
+        1600,
+        462,
+        1930,
+        545
+      ]
+    },
+    {
+      "id": "DZ-MID-058-NOTES",
+      "pdf_page": 58,
+      "units": [
+        "U01233",
+        "U01237",
+        "U01238"
+      ],
+      "layer": "small-notes",
+      "type": "annotation-repetition",
+      "adzom": "One observed chags jig stongs pa note in Adzom PDF49",
+      "dzongsar": "Two small chags jig stongs pa notes visible at row5 left and far right",
+      "confidence": "high for two physical occurrences",
+      "detail": "Left note sits before final las of U1237; right note links upward into same surrounding numerical discussion. Do not collapse repeated witness notes or infer absent duplicate from Adzom. Exact semantic attachments need separate adjudication.",
+      "evidence": [
+        "evidence/chapter-01/extension/dzongsar-middle/p058-notes-left.jpg",
+        "evidence/chapter-01/extension/dzongsar-middle/p058-notes-right.jpg"
+      ],
+      "bounds": [
+        [
+          290,
+          399,
+          790,
+          475
+        ],
+        [
+          1780,
+          363,
+          2190,
+          473
+        ]
+      ]
+    },
+    {
+      "id": "DZ-MID-060-RESTORATION",
+      "pdf_page": 60,
+      "after_unit": "U01274",
+      "layer": "main",
+      "type": "supports-scan-restoration",
+      "dzongsar": [
+        "chu yi zug pas dbang po sdud",
+        "byer ba yis ni khrugs par byed",
+        "snyoms pa yis ni bras bu byin"
+      ],
+      "confidence": "high",
+      "detail": "Three main verses present in manuscript rows2 end through3, at same place as corrected Adzom scan restorations. They are absent only from supplied A/B/S e-texts, not from this manuscript.",
+      "evidence": "evidence/chapter-01/extension/dzongsar-middle/p060-restored.jpg",
+      "bounds": [
+        1200,
+        195,
+        2240,
+        342
+      ]
+    },
+    {
+      "id": "DZ-MID-060-U1286",
+      "pdf_page": 60,
+      "unit": "U01286",
+      "layer": "small-note",
+      "type": "layer-observation",
+      "dzongsar": "chu i byer snyoms gnyis chad",
+      "confidence": "high",
+      "detail": "Smaller script after U1285 and before U1287; not an independent main verse."
+    }
+  ],
+  "complete": false,
+  "assigned_page_inspection_complete": true,
+  "main_sequence_coverage": "PDF16–68, U00280 through U01466 nyams; all six main rows per page viewed in two overlapping crops, except specifically bounded uncertain word span at U440. This is lexical comparison with local queries, not exhaustive diplomatic sign or annotation collation.",
+  "unreviewed_dimensions": [
+    "Physical punctuation, tsheg and all orthographic microvariation",
+    "Full text of small annotation notes explicitly flagged in page ledger",
+    "Exact Sanskrit/foreign-name stacks and vowel length marks at U800, U901, U988–989, U993, U997, U1000, U1007, U1011, U1015, U1447, U1462",
+    "Semantic attachment of the two U1233/U1237/U1238-area small notes",
+    "Layer interpretation of initial ljongs at U534"
+  ],
+  "baselines": {
+    "reading-units.json": "6bcd52d9e71816d76002582c57c0702ed89face8b58c6e0b2fedcc3fca1f1f10",
+    "ch1-scan-insertions.json": "90f71d5165261f791b9c2a129b46e2093d72887ae9c7dbda8445c5c62b4f844d"
+  },
+  "integration": {
+    "date": "2026-09-27",
+    "note": "Report imported without upgrading reading confidence; exact native evidence retained. Scope limits remain binding."
+  },
+  "evidence_sha256": {
+    "evidence/chapter-01/extension/dzongsar-middle/p018-u328.jpg": "f7da33b6afec7ec98404a01d4c27b643456b9578457975ff10cbe64187e8261a",
+    "evidence/chapter-01/extension/dzongsar-middle/p020-u373.jpg": "6ed11b8a86f0e658890d12d4709a0496961ddd0439cbf5ac08134180f067ebb7",
+    "evidence/chapter-01/extension/dzongsar-middle/p022-u440.jpg": "2299251128fd97ca177809642ab1e5a86e05ce972471a6f1df5139f955670643",
+    "evidence/chapter-01/extension/dzongsar-middle/p024-u483.jpg": "7cfc810e833460edf6769bf88adc0b0da28921a61216738fff1041bd376de98a",
+    "evidence/chapter-01/extension/dzongsar-middle/p027-u534-note.jpg": "79cf50804765b25f5000e0e84705a7b26072eebb6c90ec24a470dc788f9fa8fe",
+    "evidence/chapter-01/extension/dzongsar-middle/p028-u559.jpg": "a5f9a83c9551c8a134f8c11864a870638befa082a3930c727b34921780b2e5ca",
+    "evidence/chapter-01/extension/dzongsar-middle/p035-u710.jpg": "3d1859d85b971d6229dd5ca23fd2ba95cba9039e75998be6169074d422ff9884",
+    "evidence/chapter-01/extension/dzongsar-middle/p051-u1083.jpg": "5710fa5cc20e3b91a902f2d8705a5658a9940f671045722b94816ce48ba76874",
+    "evidence/chapter-01/extension/dzongsar-middle/p058-notes-left.jpg": "471198b030eee3cd5bbc6d0b4c958818e219daec882d3af9be829daea8a010f5",
+    "evidence/chapter-01/extension/dzongsar-middle/p058-notes-right.jpg": "b64aae5a69ad325f7cd38456a2d994d4b69e0f946943c37e0db8065b149e4c2e",
+    "evidence/chapter-01/extension/dzongsar-middle/p060-restored.jpg": "5e131cf6ff6efbc9a10bc7de22d904058350cfeca954399632e7e4985b0c6e03"
+  }
+}

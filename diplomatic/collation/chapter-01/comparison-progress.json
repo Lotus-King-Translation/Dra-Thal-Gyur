@@ -1,0 +1,82 @@
+{
+  "date": "2026-09-27",
+  "status": "active comparison extension; not completed chapter",
+  "witnesses": [
+    {
+      "witness": "Dzongsar",
+      "coverage": "PDF2–121 through U2635; opening, middle and late ledgers cover the main sequence",
+      "limits": "Main lexical pass with explicit local uncertainties; no full punctuation or paratext certification",
+      "reviews": [
+        "reviews/chapter-01/dzongsar-collation.md",
+        "reviews/chapter-01/dzongsar-middle.md",
+        "reviews/chapter-01/dzongsar-late.md"
+      ]
+    },
+    {
+      "witness": "Tingkye",
+      "coverage": "Earlier opening plus new PDF35–39 / U1277–U1485 partial",
+      "limits": "Local lexical comparison and bounded questions; remaining continuation is underway, not yet incorporated",
+      "reviews": [
+        "reviews/chapter-01/tingkye-collation.md",
+        "reviews/chapter-01/tingkye-root.md"
+      ]
+    },
+    {
+      "witness": "Tsamdrak",
+      "coverage": "Earlier PDF1–13 through U349; Chapter1 end PDF83",
+      "limits": "Continuation underway; only saved earlier report is certified by this checkpoint",
+      "reviews": [
+        "reviews/chapter-01/tsamdrak-collation.md"
+      ]
+    },
+    {
+      "witness": "Tharpaling",
+      "coverage": "Earlier PDF1–3; Chapter1 end PDF71",
+      "limits": "Continuation underway; only saved earlier report is incorporated",
+      "reviews": [
+        "reviews/chapter-01/tharpaling-collation.md"
+      ]
+    },
+    {
+      "witness": "Degé",
+      "coverage": "Earlier PDF1–2; newly established boundary PDF54 / image700 row3",
+      "limits": "Boundary inspection is not intervening collation; continuation underway",
+      "reviews": [
+        "reviews/chapter-01/second-dege-tingkye.md",
+        "reviews/chapter-01/dege-boundary.md"
+      ]
+    },
+    {
+      "witness": "Gadkar",
+      "coverage": "PDF1–11 locator sequence; Chapter1 end PDF91 row4",
+      "limits": "Cursive words/stacks not reliably discriminated throughout. Local observations and uncertainty retained; no exhaustive lexical agreement",
+      "reviews": [
+        "reviews/chapter-01/gadkar-ch1.md"
+      ]
+    },
+    {
+      "witness": "Zhichen",
+      "coverage": "Opening PDF1–3 and listed boundary-search pages",
+      "limits": "No reliable continuous range or chapter endpoint established; reading capability limit, not source inaccessibility",
+      "reviews": [
+        "reviews/chapter-01/zhichen-ch1.md"
+      ]
+    },
+    {
+      "witness": "W1ER119",
+      "coverage": "17 inspection records; all16 manifest discontinuities indexed",
+      "limits": "No reliable word-level range or Chapter1 endpoint; gap effects unestablished",
+      "reviews": [
+        "reviews/chapter-01/w1er119-ch1.md"
+      ]
+    },
+    {
+      "witness": "Langtang",
+      "coverage": "Earlier opening continuity; continuation underway",
+      "limits": "Latest ongoing scratch reading not yet incorporated into this checkpoint",
+      "reviews": [
+        "reviews/chapter-01/langtang-opening-gap.md"
+      ]
+    }
+  ]
+}

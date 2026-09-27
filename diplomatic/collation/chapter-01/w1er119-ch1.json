@@ -1,0 +1,433 @@
+{
+  "witness": "W1ER119 / I1ER794",
+  "report_type": "failed partial reading attempt and reproducible coverage checkpoint",
+  "source_pdf": "editions/seventeen-tantras-W1ER119/sgra-thal-gyur.pdf",
+  "pdf_sha256": "c2230c75763c0968e9f6d1327ac37426b080ceef9a09022ceb02071339e606ea",
+  "source_manifest": "editions/seventeen-tantras-W1ER119/image-manifest.json",
+  "reader": "assistant w1er119_ch1",
+  "date": "2026-09-27",
+  "base_inputs": [
+    "diplomatic/collation/chapter-01/reading-units.json",
+    "diplomatic/collation/chapter-01/ch1-scan-insertions.json"
+  ],
+  "base_expected_text_seen": true,
+  "no_ocr_used": true,
+  "chapter_one_boundary": {
+    "status": "not established by this reading",
+    "do_not_use_candidate_pages_as_boundary": true
+  },
+  "completed_unit_ranges": [],
+  "confirmed_variants": [],
+  "uncertain_readings": [
+    {
+      "scope": "all attempted manuscript text; see pixel/page ledger",
+      "problem": "Reader could not reliably discriminate this headless manuscript hand. No Tibetan candidate is submitted as a manuscript reading. This is not a general source-legibility finding."
+    }
+  ],
+  "uninspected_and_uncollated": "All Chapter 1 content remains uncollated; the chapter end was not established. Even visually attempted pages are not assigned agreement. All pages outside the ledger were not visually inspected in this attempt.",
+  "inspections": [
+    {
+      "pdf_page": 1,
+      "bdrc_image": 2,
+      "native_size": [
+        3000,
+        737
+      ],
+      "image_sha256": "5f58fcafcd2723006fa1c3e81434ced7b6599d48469a50991a87523fbf54214c",
+      "inspection": "full-page orientation/title or chapter-boundary search; no reliable all-row transcription",
+      "result": "unmapped; not collated; no agreement inferred"
+    },
+    {
+      "pdf_page": 2,
+      "bdrc_image": 3,
+      "native_size": [
+        3000,
+        732
+      ],
+      "image_sha256": "00a6aeeb7e4ac657ca36579c7d96fa48188d0b25b17494c0990d8bfdbe7c90de",
+      "inspection": "full-page orientation/title or chapter-boundary search; no reliable all-row transcription",
+      "result": "unmapped; not collated; no agreement inferred"
+    },
+    {
+      "pdf_page": 3,
+      "bdrc_image": 4,
+      "native_size": [
+        3000,
+        733
+      ],
+      "image_sha256": "4380190033c3bb932cfd6a8676a4cc4f198878ba02ab16c20636d3277978c21c",
+      "inspection": "full-page orientation/title or chapter-boundary search; no reliable all-row transcription",
+      "result": "unmapped; not collated; no agreement inferred"
+    },
+    {
+      "pdf_page": 75,
+      "bdrc_image": 90,
+      "native_size": [
+        3000,
+        735
+      ],
+      "image_sha256": "dee532f8337495562dbf443f88668d9e6a39ae1879986cbca05f060543b66873",
+      "inspection": "full-page orientation/title or chapter-boundary search; no reliable all-row transcription",
+      "result": "unmapped; not collated; no agreement inferred"
+    },
+    {
+      "pdf_page": 76,
+      "bdrc_image": 91,
+      "native_size": [
+        3000,
+        744
+      ],
+      "image_sha256": "442267b123b9b7c469fd910a73ae51f96a494721f8b13935f40870786a8e0e20",
+      "inspection": "full-page orientation/title or chapter-boundary search; no reliable all-row transcription",
+      "result": "unmapped; not collated; no agreement inferred"
+    },
+    {
+      "pdf_page": 77,
+      "bdrc_image": 92,
+      "native_size": [
+        3000,
+        723
+      ],
+      "image_sha256": "d0f51a8de2ff14716a4f6384481fea7e29440e70c10189bb292c281be9952134",
+      "inspection": "full-page orientation/title or chapter-boundary search; no reliable all-row transcription",
+      "result": "unmapped; not collated; no agreement inferred"
+    },
+    {
+      "pdf_page": 78,
+      "bdrc_image": 93,
+      "native_size": [
+        3000,
+        750
+      ],
+      "image_sha256": "8cab86d65bcc0ebb9dee28f20ca35cea9154ba15e045e0f5f010d616f4813a15",
+      "inspection": "full-page orientation/title or chapter-boundary search; no reliable all-row transcription",
+      "result": "unmapped; not collated; no agreement inferred"
+    },
+    {
+      "pdf_page": 79,
+      "bdrc_image": 94,
+      "native_size": [
+        3000,
+        725
+      ],
+      "image_sha256": "a5a9d2a79e804d3d54a4f7ca112490817d023a180b3c58237478d46b0ca1802d",
+      "inspection": "full-page orientation/title or chapter-boundary search; no reliable all-row transcription",
+      "result": "unmapped; not collated; no agreement inferred"
+    },
+    {
+      "pdf_page": 80,
+      "bdrc_image": 95,
+      "native_size": [
+        3000,
+        748
+      ],
+      "image_sha256": "b531be4e8b71e9df5ebb1fea9a0d7c7f58cc51876e76b408013f780bb30ca153",
+      "inspection": "full-page orientation/title or chapter-boundary search; no reliable all-row transcription",
+      "result": "unmapped; not collated; no agreement inferred"
+    },
+    {
+      "pdf_page": 81,
+      "bdrc_image": 98,
+      "native_size": [
+        3000,
+        726
+      ],
+      "image_sha256": "0d305cae0346ce9e7564fa83a43dddd0e91844e07d1c84fcc9b0b9bd2100fa18",
+      "inspection": "full-page orientation/title or chapter-boundary search; no reliable all-row transcription",
+      "result": "unmapped; not collated; no agreement inferred"
+    },
+    {
+      "pdf_page": 82,
+      "bdrc_image": 99,
+      "native_size": [
+        3000,
+        725
+      ],
+      "image_sha256": "290211a2dffafcb1f326b920f36ccdccad64e033570eda99278c933348f4bf09",
+      "inspection": "full-page orientation/title or chapter-boundary search; no reliable all-row transcription",
+      "result": "unmapped; not collated; no agreement inferred"
+    },
+    {
+      "pdf_page": 83,
+      "bdrc_image": 100,
+      "native_size": [
+        3000,
+        734
+      ],
+      "image_sha256": "ac130d30bd87bc9f4f0fb4ef6f3577c49ccc80fc259a8645147dce4e7036fa87",
+      "inspection": "full-page orientation/title or chapter-boundary search; no reliable all-row transcription",
+      "result": "unmapped; not collated; no agreement inferred"
+    },
+    {
+      "pdf_page": 84,
+      "bdrc_image": 101,
+      "native_size": [
+        3000,
+        736
+      ],
+      "image_sha256": "4f71d8d114048d69f013ad7d6dccbddd635cdaee3cbfd903bb5e6fda91eb6943",
+      "inspection": "full-page orientation/title or chapter-boundary search; no reliable all-row transcription",
+      "result": "unmapped; not collated; no agreement inferred"
+    },
+    {
+      "pdf_page": 85,
+      "bdrc_image": 104,
+      "native_size": [
+        3000,
+        734
+      ],
+      "image_sha256": "4627eb207a736c60ddde06d180bc84501db83dfc004636cd21816bf191df4746",
+      "inspection": "full-page orientation/title or chapter-boundary search; no reliable all-row transcription",
+      "result": "unmapped; not collated; no agreement inferred"
+    },
+    {
+      "pdf_page": 90,
+      "bdrc_image": 109,
+      "native_size": [
+        3000,
+        745
+      ],
+      "image_sha256": "373cde709b6b684f1f6e5968a2a5078c5749a380af25df2151247881edc3fdc8",
+      "inspection": "full-page orientation/title or chapter-boundary search; no reliable all-row transcription",
+      "result": "unmapped; not collated; no agreement inferred"
+    },
+    {
+      "pdf_page": 46,
+      "bdrc_image": 47,
+      "native_bounds": [
+        150,
+        518,
+        2920,
+        703
+      ],
+      "inspection": "bottom-edge text search at numerical manifest gap",
+      "result": "neither textual continuity nor textual lacuna established"
+    },
+    {
+      "pdf_page": 47,
+      "bdrc_image": 50,
+      "native_bounds": [
+        150,
+        55,
+        2920,
+        250
+      ],
+      "inspection": "opening rows at numerical manifest gap",
+      "result": "neither textual continuity nor textual lacuna established"
+    }
+  ],
+  "opening_crops": [
+    {
+      "file": "evidence/chapter-01/extension/w1er119-ch1/p002-left.png",
+      "pdf_page": 2,
+      "bdrc_image": 3,
+      "native_bounds": [
+        160,
+        50,
+        1600,
+        682
+      ],
+      "transformation": "none beyond crop"
+    },
+    {
+      "file": "evidence/chapter-01/extension/w1er119-ch1/p002-right.png",
+      "pdf_page": 2,
+      "bdrc_image": 3,
+      "native_bounds": [
+        1450,
+        50,
+        2900,
+        682
+      ],
+      "transformation": "none beyond crop"
+    }
+  ],
+  "manifest_gap_audit": [
+    {
+      "before_pdf_page": 46,
+      "before_image": 47,
+      "after_pdf_page": 47,
+      "after_image": 50,
+      "absent_indices": [
+        48,
+        49
+      ],
+      "textual_effect": "not_established"
+    },
+    {
+      "before_pdf_page": 48,
+      "before_image": 51,
+      "after_pdf_page": 49,
+      "after_image": 54,
+      "absent_indices": [
+        52,
+        53
+      ],
+      "textual_effect": "not_established"
+    },
+    {
+      "before_pdf_page": 50,
+      "before_image": 55,
+      "after_pdf_page": 51,
+      "after_image": 58,
+      "absent_indices": [
+        56,
+        57
+      ],
+      "textual_effect": "not_established"
+    },
+    {
+      "before_pdf_page": 52,
+      "before_image": 59,
+      "after_pdf_page": 53,
+      "after_image": 62,
+      "absent_indices": [
+        60,
+        61
+      ],
+      "textual_effect": "not_established"
+    },
+    {
+      "before_pdf_page": 54,
+      "before_image": 63,
+      "after_pdf_page": 55,
+      "after_image": 66,
+      "absent_indices": [
+        64,
+        65
+      ],
+      "textual_effect": "not_established"
+    },
+    {
+      "before_pdf_page": 56,
+      "before_image": 67,
+      "after_pdf_page": 57,
+      "after_image": 70,
+      "absent_indices": [
+        68,
+        69
+      ],
+      "textual_effect": "not_established"
+    },
+    {
+      "before_pdf_page": 58,
+      "before_image": 71,
+      "after_pdf_page": 59,
+      "after_image": 74,
+      "absent_indices": [
+        72,
+        73
+      ],
+      "textual_effect": "not_established"
+    },
+    {
+      "before_pdf_page": 80,
+      "before_image": 95,
+      "after_pdf_page": 81,
+      "after_image": 98,
+      "absent_indices": [
+        96,
+        97
+      ],
+      "textual_effect": "not_established"
+    },
+    {
+      "before_pdf_page": 84,
+      "before_image": 101,
+      "after_pdf_page": 85,
+      "after_image": 104,
+      "absent_indices": [
+        102,
+        103
+      ],
+      "textual_effect": "not_established"
+    },
+    {
+      "before_pdf_page": 102,
+      "before_image": 121,
+      "after_pdf_page": 103,
+      "after_image": 124,
+      "absent_indices": [
+        122,
+        123
+      ],
+      "textual_effect": "not_established"
+    },
+    {
+      "before_pdf_page": 148,
+      "before_image": 169,
+      "after_pdf_page": 149,
+      "after_image": 172,
+      "absent_indices": [
+        170,
+        171
+      ],
+      "textual_effect": "not_established"
+    },
+    {
+      "before_pdf_page": 150,
+      "before_image": 173,
+      "after_pdf_page": 151,
+      "after_image": 176,
+      "absent_indices": [
+        174,
+        175
+      ],
+      "textual_effect": "not_established"
+    },
+    {
+      "before_pdf_page": 154,
+      "before_image": 179,
+      "after_pdf_page": 155,
+      "after_image": 182,
+      "absent_indices": [
+        180,
+        181
+      ],
+      "textual_effect": "not_established"
+    },
+    {
+      "before_pdf_page": 156,
+      "before_image": 183,
+      "after_pdf_page": 157,
+      "after_image": 186,
+      "absent_indices": [
+        184,
+        185
+      ],
+      "textual_effect": "not_established"
+    },
+    {
+      "before_pdf_page": 160,
+      "before_image": 189,
+      "after_pdf_page": 161,
+      "after_image": 192,
+      "absent_indices": [
+        190,
+        191
+      ],
+      "textual_effect": "not_established"
+    },
+    {
+      "before_pdf_page": 164,
+      "before_image": 195,
+      "after_pdf_page": 165,
+      "after_image": 198,
+      "absent_indices": [
+        196,
+        197
+      ],
+      "textual_effect": "not_established"
+    }
+  ],
+  "orientation_experiment": "180-degree rotation and horizontal mirroring were considered only as diagnostic transformed views, not accepted as source orientation and not used to assert readings. Original source images remain untouched.",
+  "next_step": "Independent qualified reading of the native opening crop; establish units and Chapter 1 colophon, then compare all rows and every numerical gap. Printed-witness work can continue while this reading remains unresolved.",
+  "integration": {
+    "date": "2026-09-27",
+    "note": "Report imported without upgrading reading confidence; exact native evidence retained. Scope limits remain binding."
+  },
+  "evidence_sha256": {
+    "evidence/chapter-01/extension/w1er119-ch1/p002-left.png": "c6ca99c1a5edf1e8830ef579480c88862422bdc33793000d69529d9d6df7e2e1",
+    "evidence/chapter-01/extension/w1er119-ch1/p002-right.png": "414bcf95e40c40ccfc43a980f269b68a8be5b756ab9d1a028ac65d7c85c61bad"
+  }
+}

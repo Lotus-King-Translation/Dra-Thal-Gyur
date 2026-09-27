@@ -2,7 +2,7 @@
 
 **Chapter 1 is under collation. No chapter is yet certified complete.** This directory is the working dossier for the requested single annotated diplomatic edition, not a completed golden text. Chapters 2–6 and the final colophon have not been started here. The original editions, source files, glossary, and translation are unchanged.
 
-The second reading has now checked the continuous main-Tibetan sequence and audited interleaved annotations. It has also documented a concrete limit: the current readings cannot certify continuous all-variant collation of several comparison witnesses. This remains a research checkpoint; it does not pass the completed-chapter gate below.
+The second reading has checked the continuous Adzom main-Tibetan sequence and audited interleaved annotations. The comparison extension now covers Dzongsar’s complete Chapter1 main sequence with local uncertainty flags and records further witness attempts. It has also documented a concrete limit: the current readings cannot certify continuous all-variant collation of several comparison witnesses. This remains a research checkpoint; it does not pass the completed-chapter gate below.
 
 ## Read the current work
 
@@ -14,6 +14,7 @@ The second reading has now checked the continuous main-Tibetan sequence and audi
 - [Second-reading findings and limits](reviews/chapter-01/second-reading.md)
 - [Annotation audit](reviews/chapter-01/annotation-audit.md)
 - [Continuous base coverage](collation/chapter-01/scan-coverage.json)
+- [Current comparison progress and limits](reviews/chapter-01/comparison-extension.md)
 
 The apparatus distinguishes exact supplied-transcript differences from readings actually checked in a facsimile. An uncollated witness is never represented as agreeing with Adzom. Missing access and unreadable text are not silently treated as omissions by a witness.
 

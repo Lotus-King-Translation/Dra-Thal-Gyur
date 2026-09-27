@@ -870,5 +870,1115 @@
       "evidence/chapter-01/dzongsar/p004-u39.png"
     ],
     "review": "reviews/chapter-01/dzongsar-collation.md"
+  },
+  {
+    "id": "GAD-CH1-001",
+    "witness": "Gadkar",
+    "units": [
+      "U00004"
+    ],
+    "comparison_reading": null,
+    "status": "observed_structural_difference_with_terminal_reading_uncertain",
+    "confidence": "Only the bounded observation in the report; unspecified glyphs remain uncertified",
+    "locator": "PDF 1; native crop bounds in structured report",
+    "rationale": "The separate cover title begins sgra thal ’gyur chen po’i rgyud; the Adzom cover’s rin po che ’byung bar byed pa prefix is not there. Terminal wording/signs remain untranscribed.",
+    "decision": "Retain the Adzom base. Record this observation or reading uncertainty without supplying manuscript letters. Local heading nonobservation is not proof of absence elsewhere on the leaf.",
+    "evidence": [
+      "evidence/chapter-01/extension/gadkar-ch1/p001-title.png"
+    ],
+    "review": "reviews/chapter-01/gadkar-ch1.md"
+  },
+  {
+    "id": "GAD-CH1-002",
+    "witness": "Gadkar",
+    "units": [
+      "U00011"
+    ],
+    "comparison_reading": null,
+    "status": "local_heading_nonobservation_not_witness_omission",
+    "confidence": "Only the bounded observation in the report; unspecified glyphs remain uncertified",
+    "locator": "PDF 2; native crop bounds in structured report",
+    "rationale": "No thun mong ma yin pa’i gleng gzhi bkod pa heading appears between the invocation’s phyag ’tshal lo and the narrative ’di skad bdag gis thos pa’i dus gcig na. This compares the electronic display junction only. Adzom physically places this heading later (near U00014), so this observation does not establish a whole-witness omission or erase it from the base.",
+    "decision": "Retain the Adzom base. Record this observation or reading uncertainty without supplying manuscript letters. Local heading nonobservation is not proof of absence elsewhere on the leaf.",
+    "evidence": [
+      "evidence/chapter-01/extension/gadkar-ch1/p002-L.png",
+      "evidence/chapter-01/extension/gadkar-ch1/p002-R.png"
+    ],
+    "review": "reviews/chapter-01/gadkar-ch1.md"
+  },
+  {
+    "id": "GAD-CH1-003",
+    "witness": "Gadkar",
+    "units": [
+      "U00029"
+    ],
+    "comparison_reading": null,
+    "status": "local_heading_nonobservation_not_witness_omission",
+    "confidence": "Only the bounded observation in the report; unspecified glyphs remain uncertified",
+    "locator": "PDF 3; native crop bounds in structured report",
+    "rationale": "No thun mong gi gleng gzhi bkod pa heading was recognized at the electronic display junction between thams cad rang byung ye shes so and the following ’di skad bdag gis thos pa’i dus gcig na. Adzom physically places the heading later (near U00033); this local nonobservation does not establish a whole-witness omission.",
+    "decision": "Retain the Adzom base. Record this observation or reading uncertainty without supplying manuscript letters. Local heading nonobservation is not proof of absence elsewhere on the leaf.",
+    "evidence": [
+      "evidence/chapter-01/extension/gadkar-ch1/p003-L.png",
+      "evidence/chapter-01/extension/gadkar-ch1/p003-R.png"
+    ],
+    "review": "reviews/chapter-01/gadkar-ch1.md"
+  },
+  {
+    "id": "GAD-CH1-004",
+    "witness": "Gadkar",
+    "units": [
+      "U00019"
+    ],
+    "comparison_reading": null,
+    "status": "unresolved_candidate",
+    "confidence": "Only the bounded observation in the report; unspecified glyphs remain uncertified",
+    "locator": "PDF 3; native crop bounds in structured report",
+    "rationale": "The rig pa(s) suffix is not independently certain in the cursive hand. Candidate rig pa must not be promoted to a variant without another reader.",
+    "decision": "Retain the Adzom base. Record this observation or reading uncertainty without supplying manuscript letters. Local heading nonobservation is not proof of absence elsewhere on the leaf.",
+    "evidence": [
+      "evidence/chapter-01/extension/gadkar-ch1/p003-u19.png"
+    ],
+    "review": "reviews/chapter-01/gadkar-ch1.md"
+  },
+  {
+    "id": "GAD-CH1-005",
+    "witness": "Gadkar",
+    "units": [
+      "U00187"
+    ],
+    "comparison_reading": null,
+    "status": "unresolved_candidate",
+    "confidence": "Only the bounded observation in the report; unspecified glyphs remain uncertified",
+    "locator": "PDF 9; native crop bounds in structured report",
+    "rationale": "The dgongs/dgos stack and suffix cannot be reliably distinguished; the lower-line crop records the exact place. Separate question number below the line is a source layer, not main verse.",
+    "decision": "Retain the Adzom base. Record this observation or reading uncertainty without supplying manuscript letters. Local heading nonobservation is not proof of absence elsewhere on the leaf.",
+    "evidence": [
+      "evidence/chapter-01/extension/gadkar-ch1/p009-u187.jpg"
+    ],
+    "review": "reviews/chapter-01/gadkar-ch1.md"
+  },
+  {
+    "id": "GAD-CH1-006",
+    "witness": "Gadkar",
+    "units": [
+      "U00187",
+      "U00218"
+    ],
+    "comparison_reading": null,
+    "status": "observed_annotation_layer_untranscribed",
+    "confidence": "Only the bounded observation in the report; unspecified glyphs remain uncertified",
+    "locator": "PDF [9, 10]; native crop bounds in structured report",
+    "rationale": "Question numerals below the main line, some connected by dotted leaders, are visibly present. They require exact reading and mapping; no numerals have been silently incorporated into the main text.",
+    "decision": "Retain the Adzom base. Record this observation or reading uncertainty without supplying manuscript letters. Local heading nonobservation is not proof of absence elsewhere on the leaf.",
+    "evidence": [],
+    "review": "reviews/chapter-01/gadkar-ch1.md"
+  },
+  {
+    "id": "DZ-LATE-01",
+    "witness": "Dzongsar",
+    "units": [
+      "U01522"
+    ],
+    "comparison_reading": "so so'i byed pa'i rgyu 'gags pa",
+    "status": "supporting-reading",
+    "confidence": "high",
+    "locator": "PDF 71; BDRC image 75; exact crop bounds in structured report",
+    "rationale": "Native main row3 right. Unlike the fused Adzom cluster, pa'i rgyu is distinct here. Comparison supports the retained Adzom transcript but cannot certify glyphs in the Adzom printing.",
+    "decision": "Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-late/071-u1522.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-late.md"
+  },
+  {
+    "id": "DZ-LATE-02",
+    "witness": "Dzongsar",
+    "units": [
+      "U01525"
+    ],
+    "comparison_reading": null,
+    "status": "source-annotation",
+    "confidence": "unresolved annotation; high main-text alignment",
+    "locator": "PDF 71; BDRC image 75; exact crop bounds in structured report",
+    "rationale": "Small annotation follows main ngag ni hUM zhes gnas pa las. Candidate ending la yang byung; initial portion not reliably established. Main text agrees lexically.",
+    "decision": "Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-late/071-u1525.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-late.md"
+  },
+  {
+    "id": "DZ-LATE-03",
+    "witness": "Dzongsar",
+    "units": [
+      "U01567"
+    ],
+    "comparison_reading": null,
+    "status": "source-annotation",
+    "confidence": "unresolved first note word",
+    "locator": "PDF 73; BDRC image 77; exact crop bounds in structured report",
+    "rationale": "A dotted link connects bsdams pas region to a smaller note in next row. Last words kyang byung are clear; initial variant word not certified. Main bsdams pas 'gags la btsir bas 'ching is distinct.",
+    "decision": "Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-late/073-u1567.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-late.md"
+  },
+  {
+    "id": "DZ-LATE-04",
+    "witness": "Dzongsar",
+    "units": [
+      "U01570"
+    ],
+    "comparison_reading": null,
+    "status": "unresolved-reading",
+    "confidence": "unresolved initial verb",
+    "locator": "PDF 73; BDRC image 77; exact crop bounds in structured report",
+    "rationale": "Initial verb before bas sdod la drag pas zin is not confidently discriminated: 'phul (base) versus 'dul. Preserve this exact local uncertainty; remainder read continuously. A native targeted reinspection favors 'dul, but the record remains a candidate rather than a certified difference.",
+    "decision": "Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-late/073-u1570.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-late.md"
+  },
+  {
+    "id": "DZ-LATE-05",
+    "witness": "Dzongsar",
+    "units": [
+      "U01598"
+    ],
+    "comparison_reading": "don dam dang ni kun rdzob las",
+    "status": "supporting-reading",
+    "confidence": "high",
+    "locator": "PDF 74; BDRC image 78; exact crop bounds in structured report",
+    "rationale": "Main last row has kun rdzob, supporting the corrected reading of Adzom rather than the supplied e-text rdzo ba.",
+    "decision": "Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-late/074.jpg"
+    ],
+    "review": "reviews/chapter-01/dzongsar-late.md"
+  },
+  {
+    "id": "DZ-LATE-06",
+    "witness": "Dzongsar",
+    "units": [
+      "U01657"
+    ],
+    "comparison_reading": null,
+    "status": "source-annotation",
+    "confidence": "annotation wording unresolved",
+    "locator": "PDF 77; BDRC image 81; exact crop bounds in structured report",
+    "rationale": "Small note below row4 initial lus kyang region, linked with dots. Presence secure; complete wording not established in this reading. Main lus kyang gsum yin te remains distinct.",
+    "decision": "Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-late/077-u1657.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-late.md"
+  },
+  {
+    "id": "DZ-LATE-07",
+    "witness": "Dzongsar",
+    "units": [
+      "U01667",
+      "U01668"
+    ],
+    "comparison_reading": "dag kyang byung",
+    "status": "source-annotation",
+    "confidence": "high",
+    "locator": "PDF 77; BDRC image 81; exact crop bounds in structured report",
+    "rationale": "Small note after row6 rgyu dang mi rgyu rlung gis bskor, linked by dots to preceding main syllable. Main and note are separate.",
+    "decision": "Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-late/077-u1667.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-late.md"
+  },
+  {
+    "id": "DZ-LATE-08",
+    "witness": "Dzongsar",
+    "units": [
+      "U01696"
+    ],
+    "comparison_reading": "de bzhin sems kyi gnad kyis dgrol",
+    "status": "lexical-variant",
+    "confidence": "high for gnad",
+    "locator": "PDF 79; BDRC image 83; exact crop bounds in structured report",
+    "rationale": "Scan row2 left has gnad rather than supplied corrected reading gnas. Retain Adzom gnas pending base-specific evidence; Dzongsar comparison does not authorize changing the governing witness.",
+    "decision": "Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-late/079-u1696.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-late.md"
+  },
+  {
+    "id": "DZ-LATE-09",
+    "witness": "Dzongsar",
+    "units": [
+      "U01701",
+      "U01711"
+    ],
+    "comparison_reading": null,
+    "status": "source-annotation",
+    "confidence": "presence high; note wording unresolved",
+    "locator": "PDF 79; BDRC image 83; exact crop bounds in structured report",
+    "rationale": "Dotted leader starts after bu srin at row3 and leads to small note in row6 following bzlog tshul. Annotation wording not safely established. The visible note is not extra main verse.",
+    "decision": "Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-late/079-u1701-note.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-late.md"
+  },
+  {
+    "id": "DZ-LATE-10",
+    "witness": "Dzongsar",
+    "units": [
+      "U01716"
+    ],
+    "comparison_reading": null,
+    "status": "source-annotation",
+    "confidence": "note partly unread",
+    "locator": "PDF 80; BDRC image 84; exact crop bounds in structured report",
+    "rationale": "Small note under row1 ending dag gi skad, dotted vertical link. Ending kyang byung readable; preceding small syllables unresolved.",
+    "decision": "Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-late/080-u1716.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-late.md"
+  },
+  {
+    "id": "DZ-LATE-11",
+    "witness": "Dzongsar",
+    "units": [
+      "U01734"
+    ],
+    "comparison_reading": null,
+    "status": "source-annotation",
+    "confidence": "note partly unread",
+    "locator": "PDF 80; BDRC image 84; exact crop bounds in structured report",
+    "rationale": "Small note beside row6 lo yi 'khrul, connected by dots. Looks to report an alternative for 'khrul lugs, but full wording remains unresolved; no conjectural replacement.",
+    "decision": "Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-late/080-u1734.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-late.md"
+  },
+  {
+    "id": "DZ-LATE-12",
+    "witness": "Dzongsar",
+    "units": [
+      "U01779"
+    ],
+    "comparison_reading": null,
+    "status": "source-annotation",
+    "confidence": "note unresolved",
+    "locator": "PDF 82; BDRC image 86; exact crop bounds in structured report",
+    "rationale": "Small note immediately following main bcu gnyis dag ste gsum gsum gyis. Main uninterrupted; small note not safely transcribed.",
+    "decision": "Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-late/082-u1779.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-late.md"
+  },
+  {
+    "id": "DZ-LATE-13",
+    "witness": "Dzongsar",
+    "units": [
+      "U01799"
+    ],
+    "comparison_reading": null,
+    "status": "source-annotation",
+    "confidence": "note unresolved",
+    "locator": "PDF 83; BDRC image 87; exact crop bounds in structured report",
+    "rationale": "Small note beneath last-row left, dotted leader toward rno dang. Complete variant wording not established.",
+    "decision": "Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-late/083-u1799.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-late.md"
+  },
+  {
+    "id": "DZ-LATE-14",
+    "witness": "Dzongsar",
+    "units": [
+      "U01803",
+      "U01806"
+    ],
+    "comparison_reading": "ya gnyis la yang byung",
+    "status": "source-annotation",
+    "confidence": "medium-high",
+    "locator": "PDF 84; BDRC image 88; exact crop bounds in structured report",
+    "rationale": "Dotted note under ya bzhi of first row reads ya gnyis la yang byung. Main ya bzhi bzung ste rang rang bstun remains intact.",
+    "decision": "Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-late/084-u1803.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-late.md"
+  },
+  {
+    "id": "DZ-LATE-15",
+    "witness": "Dzongsar",
+    "units": [
+      "U01811",
+      "U01812"
+    ],
+    "comparison_reading": null,
+    "status": "source-annotation",
+    "confidence": "main high; annotation partially unresolved",
+    "locator": "PDF 84; BDRC image 88; exact crop bounds in structured report",
+    "rationale": "Main lo stong zhag kyang 'bum phrag gsum is clear on row3. Dotted link to smaller reported-number alternative in row5; complete note (especially initial phrase) needs independent reading. Do not merge it into root verse.",
+    "decision": "Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-late/084-u1811.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-late.md"
+  },
+  {
+    "id": "DZ-LATE-16",
+    "witness": "Dzongsar",
+    "units": [
+      "U01828",
+      "U01829",
+      "U01830"
+    ],
+    "comparison_reading": null,
+    "status": "source-annotation",
+    "confidence": "annotation wording unresolved",
+    "locator": "PDF 85; BDRC image 89; exact crop bounds in structured report",
+    "rationale": "Small multiword annotation lies on row3 left and dotted link points to row2 rten 'brel. Complete wording unresolved; main rten 'brel dus te bcu gnyis sbyar is distinct.",
+    "decision": "Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-late/085-u1829.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-late.md"
+  },
+  {
+    "id": "DZ-LATE-17",
+    "witness": "Dzongsar",
+    "units": [
+      "U01882"
+    ],
+    "comparison_reading": "so so'i tshad la rtags kyis 'grub / 'di ltar sku yi 'grub pa la / sprul pa'i sku dang longs sku dang",
+    "status": "restoration-corroborated",
+    "confidence": "high",
+    "locator": "PDF 87; BDRC image 91; exact crop bounds in structured report",
+    "rationale": "All three restored lines appear as main text on row4, followed by chos sku ngo bo nyid kyi sku at row5 start. The second has sku, corroborating Adzom against W su.",
+    "decision": "Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-late/087-restoration.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-late.md"
+  },
+  {
+    "id": "DZ-LATE-18",
+    "witness": "Dzongsar",
+    "units": [
+      "U02005"
+    ],
+    "comparison_reading": "gzhi ni 'jig rten pa yin te / 'di las 'dod pa gnyis yin no / 'das pa rgyu dang 'bras bu las",
+    "status": "restoration-corroborated",
+    "confidence": "high",
+    "locator": "PDF 93; BDRC image 97; exact crop bounds in structured report",
+    "rationale": "All three restored lines are full-size main text, row2 after U2005 final 'dod at row2 start. Row2 ends rgyu la gsum la before U2006 continues on row3.",
+    "decision": "Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-late/093-restoration.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-late.md"
+  },
+  {
+    "id": "DZ-LATE-19",
+    "witness": "Dzongsar",
+    "units": [
+      "U02129"
+    ],
+    "comparison_reading": null,
+    "status": "source-annotation",
+    "confidence": "note partially unresolved",
+    "locator": "PDF 98; BDRC image 102; exact crop bounds in structured report",
+    "rationale": "Small note after main bsad, linked by dots. Candidate bsgral kyang; presence clear but exact complete note needs second reading.",
+    "decision": "Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-late/098-u2129.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-late.md"
+  },
+  {
+    "id": "DZ-LATE-20",
+    "witness": "Dzongsar",
+    "units": [
+      "U02187"
+    ],
+    "comparison_reading": "'du shes can dag mtha' la 'jog / mngon sum gnad kyi man ngag gis",
+    "status": "restoration-corroborated",
+    "confidence": "high",
+    "locator": "PDF 101; BDRC image 105; exact crop bounds in structured report",
+    "rationale": "Two verses occur in main text, row4 right continuing 'jog at row5 left, then second verse on row5.",
+    "decision": "Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-late/101-restoration.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-late.md"
+  },
+  {
+    "id": "DZ-LATE-21",
+    "witness": "Dzongsar",
+    "units": [
+      "U02225"
+    ],
+    "comparison_reading": null,
+    "status": "source-annotation",
+    "confidence": "annotation wording unresolved",
+    "locator": "PDF 103; BDRC image 107; exact crop bounds in structured report",
+    "rationale": "Small annotation in row4 after U2228 is dotted back to main gdams/ngag area on row3. Ending yang byung readable, complete alternative not securely established.",
+    "decision": "Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-late/103-u2225.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-late.md"
+  },
+  {
+    "id": "DZ-LATE-22",
+    "witness": "Dzongsar",
+    "units": [
+      "U02308"
+    ],
+    "comparison_reading": "rdo rje gsang ba'i gnas gzung bya'o / yang ni lha dbang dga' byed nyon",
+    "status": "restoration-corroborated",
+    "confidence": "main verses high; initial small-heading words uncertain",
+    "locator": "PDF 107; BDRC image 111; exact crop bounds in structured report",
+    "rationale": "Two restored main verses are present on row1 and row2 start. Between them a small reply-57 heading is present; precise initial wording of that small heading (dris lan versus dris pa) requires second reading; do not silently certify all letters.",
+    "decision": "Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-late/107-restoration.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-late.md"
+  },
+  {
+    "id": "DZ-LATE-23",
+    "witness": "Dzongsar",
+    "units": [
+      "U02335"
+    ],
+    "comparison_reading": null,
+    "status": "source-annotation",
+    "confidence": "small-note wording unresolved",
+    "locator": "PDF 108; BDRC image 112; exact crop bounds in structured report",
+    "rationale": "Small note immediately following main 'bral on row3. Candidate first word bral, followed by yang; exact complete note unresolved. The note remains separate from mi bya.",
+    "decision": "Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-late/108-u2335.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-late.md"
+  },
+  {
+    "id": "DZ-LATE-24",
+    "witness": "Dzongsar",
+    "units": [
+      "U02351"
+    ],
+    "comparison_reading": null,
+    "status": "unresolved-reading",
+    "confidence": "local suffix unresolved",
+    "locator": "PDF 109; BDRC image 113; exact crop bounds in structured report",
+    "rationale": "Row1 right: suffix after gzhi before bcas pas not independently discriminated (gzhi/gzhir). Main mi 'gul gsum la … bcas pas is legible. Retain this narrow uncertainty.",
+    "decision": "Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-late/109-u2351.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-late.md"
+  },
+  {
+    "id": "DZ-LATE-25",
+    "witness": "Dzongsar",
+    "units": [
+      "U02489",
+      "U02490"
+    ],
+    "comparison_reading": "dris lan re bdun pa",
+    "status": "source-heading-placement",
+    "confidence": "high",
+    "locator": "PDF 115; BDRC image 119; exact crop bounds in structured report",
+    "rationale": "Small reply-67 heading occurs physically after spyod pa'i and before 'bras bu, across row2-to-row3 transition. It is paratext, not root-verse completion.",
+    "decision": "Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-late/115-u2489.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-late.md"
+  },
+  {
+    "id": "DZ-LATE-26",
+    "witness": "Dzongsar",
+    "units": [
+      "U02522"
+    ],
+    "comparison_reading": "gzi brjid ldan zhing gzhon par 'gyur",
+    "status": "supporting-reading",
+    "confidence": "high",
+    "locator": "PDF 116; BDRC image 120; exact crop bounds in structured report",
+    "rationale": "Main row5 first verse distinctly has gzhon par 'gyur, corroborating the corrected Adzom transcription.",
+    "decision": "Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-late/116-u2522.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-late.md"
+  },
+  {
+    "id": "DZ-LATE-27",
+    "witness": "Dzongsar",
+    "units": [
+      "U02597"
+    ],
+    "comparison_reading": "dris lan don lnga pa",
+    "status": "supporting-heading",
+    "confidence": "high",
+    "locator": "PDF 119; BDRC image 123; exact crop bounds in structured report",
+    "rationale": "Small heading after U2596 in row6 has initial dris, corroborating corrected Adzom heading.",
+    "decision": "Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-late/119-u2597.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-late.md"
+  },
+  {
+    "id": "DZ-LATE-28",
+    "witness": "Dzongsar",
+    "units": [
+      "U02619",
+      "U02620"
+    ],
+    "comparison_reading": null,
+    "status": "source-annotation",
+    "confidence": "small notes unresolved",
+    "locator": "PDF 120; BDRC image 124; exact crop bounds in structured report",
+    "rationale": "Row6 contains a small note after bying bar mi nus and another smaller phrase before ston pa sangs rgyas. Main bying bar mi nus rgyug nus pa'o is distinguishable; exact smaller-note readings remain unresolved. Their presence does not resolve the inked Adzom note.",
+    "decision": "Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-late/120-u2619.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-late.md"
+  },
+  {
+    "id": "DZ-LATE-29",
+    "witness": "Dzongsar",
+    "units": [
+      "U02635"
+    ],
+    "comparison_reading": null,
+    "status": "scan-only-inscription",
+    "confidence": "presence high; inscription reading unresolved",
+    "locator": "PDF 121; BDRC image 125; exact crop bounds in structured report",
+    "rationale": "A compressed multi-sign inscription follows the Chapter1 colophon before de nas lha dbang rtog pa med in row5. Its lexical reading and function are not certified. Do not normalize it to a chapter label.",
+    "decision": "Retain governing Adzom reading; record comparison evidence or bounded uncertainty. No silent emendation.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-late/121-colophon-inscription.png"
+    ],
+    "review": "reviews/chapter-01/dzongsar-late.md"
+  },
+  {
+    "id": "DZ-MID-018-U328",
+    "witness": "Dzongsar",
+    "units": [
+      "U00328"
+    ],
+    "comparison_reading": "སྤེལ་ཡང་བྱུང་",
+    "status": "small-variant-note",
+    "confidence": "high",
+    "locator": "PDF 18; BDRC image 22; crop bounds in structured report",
+    "rationale": "Main sel ba row1; smaller spel yang byung row3 connected by dotted leader. Supports separate alternate, not main substitution.",
+    "decision": "Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-middle/p018-u328.jpg"
+    ],
+    "review": "reviews/chapter-01/dzongsar-middle.md"
+  },
+  {
+    "id": "DZ-MID-020-U373",
+    "witness": "Dzongsar",
+    "units": [
+      "U00373"
+    ],
+    "comparison_reading": "dris lan gsum pa",
+    "status": "heading",
+    "confidence": "high",
+    "locator": "PDF 20; BDRC image 24; crop bounds in structured report",
+    "rationale": "Smaller heading row1 before main e ma; manuscript lacks the base final o. Retain selected Adzom heading; record witness spelling.",
+    "decision": "Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-middle/p020-u373.jpg"
+    ],
+    "review": "reviews/chapter-01/dzongsar-middle.md"
+  },
+  {
+    "id": "DZ-MID-022-U440",
+    "witness": "Dzongsar",
+    "units": [
+      "U00440"
+    ],
+    "comparison_reading": null,
+    "status": "obscured-reading",
+    "confidence": "unresolved",
+    "locator": "PDF 22; BDRC image 26; crop bounds in structured report",
+    "rationale": "Surface abrasion crossing the beginning of this line segment prevents exact independent discrimination. Adjacent kyi sgra don ni readable; no absence inferred.",
+    "decision": "Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-middle/p022-u440.jpg"
+    ],
+    "review": "reviews/chapter-01/dzongsar-middle.md"
+  },
+  {
+    "id": "DZ-MID-024-U483",
+    "witness": "Dzongsar",
+    "units": [
+      "U00483"
+    ],
+    "comparison_reading": "bem dang rigs bcas sgra rnams dang",
+    "status": "lexical-variant",
+    "confidence": "high",
+    "locator": "PDF 24; BDRC image 28; crop bounds in structured report",
+    "rationale": "Native enlarged crop resolves clear suffix s in rigs against base rig. Retain Adzom rig under selected witness policy.",
+    "decision": "Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-middle/p024-u483.jpg"
+    ],
+    "review": "reviews/chapter-01/dzongsar-middle.md"
+  },
+  {
+    "id": "DZ-MID-027-U534",
+    "witness": "Dzongsar",
+    "units": [
+      "U00534"
+    ],
+    "comparison_reading": "Main row2 rab tu rdzogs te nyams dga bar. Small linked text row3 ljongs bde yang byung.",
+    "status": "uncertain-layer-placement",
+    "confidence": "high for visible words; unresolved disposition of first ljongs",
+    "locator": "PDF 27; BDRC image 31; crop bounds in structured report",
+    "rationale": "Base initial ljongs appears only in the smaller linked annotation here, not before large rab. Do not silently flatten or count main-text agreement. A supplied-small correction or lemma-plus-variant is possible.",
+    "decision": "Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-middle/p027-u534-note.jpg"
+    ],
+    "review": "reviews/chapter-01/dzongsar-middle.md"
+  },
+  {
+    "id": "DZ-MID-028-U559-REJECTED",
+    "witness": "Dzongsar",
+    "units": [
+      "U00559"
+    ],
+    "comparison_reading": "byung ba o",
+    "status": "rejected-difference",
+    "confidence": "high",
+    "locator": "PDF 28; BDRC image 32; crop bounds in structured report",
+    "rationale": "Enlarged native crop rejects first impression of byung ngo. No difference.",
+    "decision": "Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-middle/p028-u559.jpg"
+    ],
+    "review": "reviews/chapter-01/dzongsar-middle.md"
+  },
+  {
+    "id": "DZ-MID-035-U710",
+    "witness": "Dzongsar",
+    "units": [
+      "U00710"
+    ],
+    "comparison_reading": "so so i nus pas bsgyur ba gang",
+    "status": "layer-observation",
+    "confidence": "high for main; small wording unresolved",
+    "locator": "PDF 35; BDRC image 39; crop bounds in structured report",
+    "rationale": "Focused crop supports main nus pas bsgyur. Linked smaller note on row4 has sbyar yang byung; complete initial note phrase not certified.",
+    "decision": "Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-middle/p035-u710.jpg"
+    ],
+    "review": "reviews/chapter-01/dzongsar-middle.md"
+  },
+  {
+    "id": "DZ-MID-051-U1083",
+    "witness": "Dzongsar",
+    "units": [
+      "U01083"
+    ],
+    "comparison_reading": "dris lan bcu bdun pa",
+    "status": "heading-spelling",
+    "confidence": "high",
+    "locator": "PDF 51; BDRC image 55; crop bounds in structured report",
+    "rationale": "Small heading on row6 immediately before rgyud kyi lus dang yan. Keep Adzom heading; record missing final o in comparison witness.",
+    "decision": "Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-middle/p051-u1083.jpg"
+    ],
+    "review": "reviews/chapter-01/dzongsar-middle.md"
+  },
+  {
+    "id": "DZ-MID-058-NOTES",
+    "witness": "Dzongsar",
+    "units": [
+      "U01233",
+      "U01237",
+      "U01238"
+    ],
+    "comparison_reading": "Two small chags jig stongs pa notes visible at row5 left and far right",
+    "status": "annotation-repetition",
+    "confidence": "high for two physical occurrences",
+    "locator": "PDF 58; BDRC image 62; crop bounds in structured report",
+    "rationale": "Left note sits before final las of U1237; right note links upward into same surrounding numerical discussion. Do not collapse repeated witness notes or infer absent duplicate from Adzom. Exact semantic attachments need separate adjudication.",
+    "decision": "Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-middle/p058-notes-left.jpg",
+      "evidence/chapter-01/extension/dzongsar-middle/p058-notes-right.jpg"
+    ],
+    "review": "reviews/chapter-01/dzongsar-middle.md"
+  },
+  {
+    "id": "DZ-MID-060-RESTORATION",
+    "witness": "Dzongsar",
+    "units": [
+      "U01274"
+    ],
+    "comparison_reading": "chu yi zug pas dbang po sdud / byer ba yis ni khrugs par byed / snyoms pa yis ni bras bu byin",
+    "status": "supports-scan-restoration",
+    "confidence": "high",
+    "locator": "PDF 60; BDRC image 64; crop bounds in structured report",
+    "rationale": "Three main verses present in manuscript rows2 end through3, at same place as corrected Adzom scan restorations. They are absent only from supplied A/B/S e-texts, not from this manuscript.",
+    "decision": "Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.",
+    "evidence": [
+      "evidence/chapter-01/extension/dzongsar-middle/p060-restored.jpg"
+    ],
+    "review": "reviews/chapter-01/dzongsar-middle.md"
+  },
+  {
+    "id": "DZ-MID-060-U1286",
+    "witness": "Dzongsar",
+    "units": [
+      "U01286"
+    ],
+    "comparison_reading": "chu i byer snyoms gnyis chad",
+    "status": "layer-observation",
+    "confidence": "high",
+    "locator": "PDF 60; BDRC image 64; crop bounds in structured report",
+    "rationale": "Smaller script after U1285 and before U1287; not an independent main verse.",
+    "decision": "Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.",
+    "evidence": [],
+    "review": "reviews/chapter-01/dzongsar-middle.md"
+  },
+  {
+    "id": "TK-ROOT-01",
+    "units": [
+      "U01278"
+    ],
+    "pdf_page": 35,
+    "bdrc_image": 428,
+    "comparison_reading": "མེའི་ཟུག་པས་",
+    "status": "observed-local-variant",
+    "confidence": "high",
+    "rationale": "Tingkye contracts me yi to me’i at the start of this verse.",
+    "evidence": [
+      "evidence/chapter-01/extension/tingkye-root/p035-u1278.png"
+    ],
+    "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.",
+    "witness": "Tingkye",
+    "locator": "PDF 35; BDRC image 428; focused native crop",
+    "review": "reviews/chapter-01/tingkye-root.md"
+  },
+  {
+    "id": "TK-ROOT-02",
+    "units": [
+      "U01283"
+    ],
+    "pdf_page": 35,
+    "bdrc_image": 428,
+    "comparison_reading": "གཅིག་ཏུ་སྡུད",
+    "status": "observed-local-variant",
+    "confidence": "high",
+    "rationale": "Tingkye has tu after gcig; the retained Adzom transcript has du.",
+    "evidence": [
+      "evidence/chapter-01/extension/tingkye-root/p035-u1283.png"
+    ],
+    "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.",
+    "witness": "Tingkye",
+    "locator": "PDF 35; BDRC image 428; focused native crop",
+    "review": "reviews/chapter-01/tingkye-root.md"
+  },
+  {
+    "id": "TK-ROOT-03",
+    "units": [
+      "U01300"
+    ],
+    "pdf_page": 35,
+    "bdrc_image": 428,
+    "comparison_reading": "བྱ་བ་རྣམས",
+    "status": "observed-local-variant",
+    "confidence": "high",
+    "rationale": "Terminal rnams is visible against the base nyid. The initial sequence appears rlung chu yi without dang, but that finer initial-word reading remains a candidate; only the quoted terminal phrase is asserted securely.",
+    "evidence": [
+      "evidence/chapter-01/extension/tingkye-root/p035-u1300.png"
+    ],
+    "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.",
+    "witness": "Tingkye",
+    "locator": "PDF 35; BDRC image 428; focused native crop",
+    "review": "reviews/chapter-01/tingkye-root.md"
+  },
+  {
+    "id": "TK-ROOT-04",
+    "units": [
+      "U01310"
+    ],
+    "pdf_page": 35,
+    "bdrc_image": 428,
+    "comparison_reading": "བྱ་བྲལ་བས་རྫོགས་པས་རྫོགས",
+    "status": "observed-local-variant",
+    "confidence": "high",
+    "rationale": "The displayed main sequence is bya bral bas rather than base bya ba bral bar. No extra ba between bya and bral is visible in the inspected crop.",
+    "evidence": [
+      "evidence/chapter-01/extension/tingkye-root/p035-u1310-full.png"
+    ],
+    "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.",
+    "witness": "Tingkye",
+    "locator": "PDF 35; BDRC image 428; focused native crop",
+    "review": "reviews/chapter-01/tingkye-root.md"
+  },
+  {
+    "id": "TK-ROOT-05",
+    "units": [
+      "U01344"
+    ],
+    "pdf_page": 36,
+    "bdrc_image": 429,
+    "comparison_reading": null,
+    "status": "uncertain-reading",
+    "confidence": "unresolved",
+    "rationale": "The last syllable following thugs dang appears gis rather than base ni, but the compact glyph is not independently certain. Preserve as a local reading query.",
+    "evidence": [
+      "evidence/chapter-01/extension/tingkye-root/p036-u1344.png"
+    ],
+    "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.",
+    "witness": "Tingkye",
+    "locator": "PDF 36; BDRC image 429; focused native crop",
+    "review": "reviews/chapter-01/tingkye-root.md"
+  },
+  {
+    "id": "TK-ROOT-06",
+    "units": [
+      "U01358"
+    ],
+    "pdf_page": 37,
+    "bdrc_image": 430,
+    "comparison_reading": "ཆུའི་སྒྲ་ནི་",
+    "status": "observed-local-variant",
+    "confidence": "high",
+    "rationale": "Contracted chu’i against base chu yi.",
+    "evidence": [
+      "evidence/chapter-01/extension/tingkye-root/p037-u1358.png"
+    ],
+    "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.",
+    "witness": "Tingkye",
+    "locator": "PDF 37; BDRC image 430; focused native crop",
+    "review": "reviews/chapter-01/tingkye-root.md"
+  },
+  {
+    "id": "TK-ROOT-07",
+    "units": [
+      "U01366"
+    ],
+    "pdf_page": 37,
+    "bdrc_image": 430,
+    "comparison_reading": "མེའི་སྒྲ་ནི་",
+    "status": "observed-local-variant",
+    "confidence": "high",
+    "rationale": "Contracted me’i against base me yi.",
+    "evidence": [
+      "evidence/chapter-01/extension/tingkye-root/p037-u1366-correct.png"
+    ],
+    "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.",
+    "witness": "Tingkye",
+    "locator": "PDF 37; BDRC image 430; focused native crop",
+    "review": "reviews/chapter-01/tingkye-root.md"
+  },
+  {
+    "id": "TK-ROOT-08",
+    "units": [
+      "U01396"
+    ],
+    "pdf_page": 38,
+    "bdrc_image": 431,
+    "comparison_reading": null,
+    "status": "uncertain-reading",
+    "confidence": "unresolved",
+    "rationale": "The initial letters of rjod/byed group may include a b prefix (brjod); the exact crowded stack is unresolved. No corrected manuscript quotation is supplied.",
+    "evidence": [
+      "evidence/chapter-01/extension/tingkye-root/p038-u1396.png"
+    ],
+    "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.",
+    "witness": "Tingkye",
+    "locator": "PDF 38; BDRC image 431; focused native crop",
+    "review": "reviews/chapter-01/tingkye-root.md"
+  },
+  {
+    "id": "TK-ROOT-09",
+    "units": [
+      "U01417"
+    ],
+    "pdf_page": 38,
+    "bdrc_image": 431,
+    "comparison_reading": null,
+    "status": "uncertain-reading",
+    "confidence": "unresolved",
+    "rationale": "Exact prefix/suffix in the cluster before nas (base bstims) remains uncertain after focused inspection; the neighboring main text is readable.",
+    "evidence": [
+      "evidence/chapter-01/extension/tingkye-root/p038-u1417.png"
+    ],
+    "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.",
+    "witness": "Tingkye",
+    "locator": "PDF 38; BDRC image 431; focused native crop",
+    "review": "reviews/chapter-01/tingkye-root.md"
+  },
+  {
+    "id": "TK-ROOT-10",
+    "units": [
+      "U01420"
+    ],
+    "pdf_page": 38,
+    "bdrc_image": 431,
+    "comparison_reading": "སྡུད་པ་ཡིས",
+    "status": "observed-local-variant",
+    "confidence": "high",
+    "rationale": "Visible sdud pa yis against base sdud pa’i mis.",
+    "evidence": [
+      "evidence/chapter-01/extension/tingkye-root/p038-u1420.png"
+    ],
+    "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.",
+    "witness": "Tingkye",
+    "locator": "PDF 38; BDRC image 431; focused native crop",
+    "review": "reviews/chapter-01/tingkye-root.md"
+  },
+  {
+    "id": "TK-ROOT-11",
+    "units": [
+      "U01422"
+    ],
+    "pdf_page": 38,
+    "bdrc_image": 431,
+    "comparison_reading": "རིན་པོ་ཆེའི་",
+    "status": "observed-local-variant",
+    "confidence": "high",
+    "rationale": "The word group crossing the physical row end contracts che yi to che’i; the main verse continues sbyor ba dag.",
+    "evidence": [
+      "evidence/chapter-01/extension/tingkye-root/p038-u1422.png"
+    ],
+    "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.",
+    "witness": "Tingkye",
+    "locator": "PDF 38; BDRC image 431; focused native crop",
+    "review": "reviews/chapter-01/tingkye-root.md"
+  },
+  {
+    "id": "TK-ROOT-12",
+    "units": [
+      "U01441",
+      "U01442",
+      "U01443",
+      "U01444",
+      "U01445",
+      "U01446",
+      "U01447",
+      "U01448",
+      "U01449",
+      "U01450",
+      "U01451",
+      "U01452",
+      "U01453",
+      "U01454",
+      "U01455"
+    ],
+    "pdf_page": 39,
+    "bdrc_image": 432,
+    "comparison_reading": "U01441 → U01453 → U01455",
+    "status": "local-sequence-absence",
+    "confidence": "high",
+    "rationale": "Row2 proceeds from gnas su phyin pas nges par ’grub to ’gyur ba the tshom mi za’o and then bye brag sku rnams bsgrub pa na. Main verses U01442–U01452 are absent at this inspected junction. U01453 is present and must not be included in that omission. The Adzom reply heading U01454 is not at the junction. This is a local sequence difference, not proof that the verses never appear elsewhere in the witness.",
+    "evidence": [
+      "evidence/chapter-01/extension/tingkye-root/p039-junction1441-1455.png"
+    ],
+    "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.",
+    "witness": "Tingkye",
+    "locator": "PDF 39; BDRC image 432; focused native crop",
+    "review": "reviews/chapter-01/tingkye-root.md"
+  },
+  {
+    "id": "TK-ROOT-13",
+    "units": [
+      "U01453"
+    ],
+    "pdf_page": 39,
+    "bdrc_image": 432,
+    "comparison_reading": "འགྱུར་བ་ཐེ་ཚོམ་མི་ཟའོ",
+    "status": "sequence-clarification",
+    "confidence": "high",
+    "rationale": "Focused crop confirms this verse between U1441 and U1455. It initially looked like a small note in the wide view but is retained as observed main sequence, not an unread paratext.",
+    "evidence": [
+      "evidence/chapter-01/extension/tingkye-root/p039-junction-smallnote.png"
+    ],
+    "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.",
+    "witness": "Tingkye",
+    "locator": "PDF 39; BDRC image 432; focused native crop",
+    "review": "reviews/chapter-01/tingkye-root.md"
+  },
+  {
+    "id": "TK-ROOT-14",
+    "units": [
+      "U01439"
+    ],
+    "pdf_page": 39,
+    "bdrc_image": 432,
+    "comparison_reading": "སྦྱར་ཏེ་ཨ་ཡིས་བསྐོར",
+    "status": "supporting-main-layer",
+    "confidence": "high",
+    "rationale": "Focused main phrase corroborates the separated Adzom main wording; the source-transcript alternative a lis kyang byung is not inserted here. This does not establish its absence from every margin.",
+    "evidence": [
+      "evidence/chapter-01/extension/tingkye-root/p039-u1439.png"
+    ],
+    "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.",
+    "witness": "Tingkye",
+    "locator": "PDF 39; BDRC image 432; focused native crop",
+    "review": "reviews/chapter-01/tingkye-root.md"
+  },
+  {
+    "id": "TK-ROOT-15",
+    "units": [
+      "U01457"
+    ],
+    "pdf_page": 39,
+    "bdrc_image": 432,
+    "comparison_reading": "ཆུའི་དྲིས་ནི་",
+    "status": "observed-local-variant",
+    "confidence": "high",
+    "rationale": "Contracted chu’i against base chu yi.",
+    "evidence": [
+      "evidence/chapter-01/extension/tingkye-root/p039-u1457.png"
+    ],
+    "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.",
+    "witness": "Tingkye",
+    "locator": "PDF 39; BDRC image 432; focused native crop",
+    "review": "reviews/chapter-01/tingkye-root.md"
+  },
+  {
+    "id": "TK-ROOT-16",
+    "units": [
+      "U01465"
+    ],
+    "pdf_page": 39,
+    "bdrc_image": 432,
+    "comparison_reading": "མེའི་དྲིས་ནི་",
+    "status": "observed-local-variant",
+    "confidence": "high",
+    "rationale": "Contracted me’i against base me yi.",
+    "evidence": [
+      "evidence/chapter-01/extension/tingkye-root/p039-u1465.png"
+    ],
+    "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison.",
+    "witness": "Tingkye",
+    "locator": "PDF 39; BDRC image 432; focused native crop",
+    "review": "reviews/chapter-01/tingkye-root.md"
   }
 ]

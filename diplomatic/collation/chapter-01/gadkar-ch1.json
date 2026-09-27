@@ -1,0 +1,452 @@
+{
+  "witness": "Gadkar manuscript W1ER156 / MW1BL6",
+  "pdf": "editions/gadkar-manuscript/sgra-thal-gyur.pdf",
+  "pdf_sha256": "c1c383afa65ec4abc2108f11609147e44761ee471e96e8b320f6ecb5cf8e3ebe",
+  "manifest": "editions/gadkar-manuscript/image-manifest.json",
+  "scope": "Chapter 1 only",
+  "status": "incomplete",
+  "complete_lexical_collation": false,
+  "method": "Visual inspection of native raster images, with 200-pixel-overlap left/right crops. Corrected Adzom readings used as a locator, not as proof of agreement. EWTS conversion used only to find anchors. The cursive hand is generally sharp; limitations below reflect this agent’s reading capability, not blanket source illegibility.",
+  "boundary": {
+    "pdf_page": 91,
+    "virtual_image": 531,
+    "backing_image": "I1BL8870538.jpg",
+    "source_image_sha256": "ed9a59c2871248162991e2179db447a175b569cf751c8014d4059999a6c7307e",
+    "main_row": 4,
+    "status": "boundary_established_visually",
+    "evidence": "evidence/chapter-01/extension/gadkar-ch1/p091-colophon.png",
+    "crop_bounds": [
+      1000,
+      320,
+      3000,
+      430
+    ],
+    "description": "The Chapter 1 colophon occupies the beginning of row 4, ending in a red le’u ste dang po formula. The next incipit de nas lha dbang rtog pa med follows on that same row. This establishes the chapter boundary but does not certify every letter of the full colophon. No Chapter 2 collation performed."
+  },
+  "pages": [
+    {
+      "pdf_page": 1,
+      "virtual_image": 441,
+      "backing_image": "I1BL8870448.jpg",
+      "source_image_sha256": "503f36b0cf17df25495d6223777c3c135d0ce0494975f210e7637732c43948fb",
+      "native_size": [
+        4000,
+        689
+      ],
+      "inspected_bounds": [
+        [
+          0,
+          0,
+          2100,
+          689
+        ],
+        [
+          1900,
+          0,
+          4000,
+          689
+        ]
+      ],
+      "rows_inspected": 1,
+      "start_locator": "title",
+      "end_locator": "title",
+      "status": "locator_sequence_inspected_not_exhaustively_collated",
+      "note": "Short cover title, not the full Adzom cover/title layout. Entire native page inspected at reduced display plus central native title crop [1400,220,2600,400]."
+    },
+    {
+      "pdf_page": 2,
+      "virtual_image": 442,
+      "backing_image": "I1BL8870449.jpg",
+      "source_image_sha256": "952a811e7140b8235542b3d97071e76580d4aa6315ab478a82b5700b0a2f9848",
+      "native_size": [
+        4000,
+        705
+      ],
+      "inspected_bounds": [
+        [
+          0,
+          0,
+          2100,
+          705
+        ],
+        [
+          1900,
+          0,
+          4000,
+          705
+        ]
+      ],
+      "rows_inspected": 4,
+      "start_locator": "U00005 title label",
+      "end_locator": "U00016",
+      "status": "locator_sequence_inspected_not_exhaustively_collated",
+      "note": "Sanskrit title and Tibetan title followed by invocation and narrative. Sanskrit stacks not reliably transcribed. U00011 heading was not recognized at the invocation/narrative display junction; its possible placement elsewhere remains unestablished. No Adzom-style portrait/caption appears here."
+    },
+    {
+      "pdf_page": 3,
+      "virtual_image": 443,
+      "backing_image": "I1BL8870450.jpg",
+      "source_image_sha256": "537d912cf8cb51bc1a73e9cb6373adec3957a9eb822ae0292a512fef207fdf26",
+      "native_size": [
+        4000,
+        689
+      ],
+      "inspected_bounds": [
+        [
+          0,
+          0,
+          2100,
+          689
+        ],
+        [
+          1900,
+          0,
+          4000,
+          689
+        ]
+      ],
+      "rows_inspected": 4,
+      "start_locator": "U00017",
+      "end_locator": "U00035 partial",
+      "status": "locator_sequence_inspected_not_exhaustively_collated",
+      "note": "Opening narrative then ordinary setting. U00029 supplied heading was not recognized at the U00028/U00030 electronic display junction; this is not a whole-witness omission finding. U00019 suffix remains uncertain."
+    },
+    {
+      "pdf_page": 4,
+      "virtual_image": 444,
+      "backing_image": "I1BL8870451.jpg",
+      "source_image_sha256": "b224b080c5eb737b9c0bb9a879df836c72d2d5436b1151ff45a221b5b03a33e3",
+      "native_size": [
+        4000,
+        705
+      ],
+      "inspected_bounds": [
+        [
+          0,
+          0,
+          2100,
+          705
+        ],
+        [
+          1900,
+          0,
+          4000,
+          705
+        ]
+      ],
+      "rows_inspected": 5,
+      "start_locator": "U00035 partial",
+      "end_locator": "U00054 partial",
+      "status": "locator_sequence_inspected_not_exhaustively_collated",
+      "note": "Correspondence runs from gzugs med pa’i to the partial ma of ma yin pas at the page end. U00039 candidate stong requires independent reading; not adopted as certified agreement."
+    },
+    {
+      "pdf_page": 5,
+      "virtual_image": 445,
+      "backing_image": "I1BL8870452.jpg",
+      "source_image_sha256": "c3c52a56240d9f233f3f2bc9189743e87f79af2598ea63560e69bdb1262d7334",
+      "native_size": [
+        4000,
+        696
+      ],
+      "inspected_bounds": [
+        [
+          0,
+          0,
+          2100,
+          696
+        ],
+        [
+          1900,
+          0,
+          4000,
+          696
+        ]
+      ],
+      "rows_inspected": 5,
+      "start_locator": "U00054 partial",
+      "end_locator": "U00077 partial",
+      "status": "locator_sequence_inspected_not_exhaustively_collated",
+      "note": "Starts with yin pas, ends during de yi khyad par ston pa’i gzugs. No claim that every intervening stack/suffix is certified."
+    },
+    {
+      "pdf_page": 6,
+      "virtual_image": 446,
+      "backing_image": "I1BL8870453.jpg",
+      "source_image_sha256": "4a57f41c4aca8f79bd528bcbc948ed9ba15510abc9817957f6373dfc9eb245a2",
+      "native_size": [
+        4000,
+        712
+      ],
+      "inspected_bounds": [
+        [
+          0,
+          0,
+          2100,
+          712
+        ],
+        [
+          1900,
+          0,
+          4000,
+          712
+        ]
+      ],
+      "rows_inspected": 6,
+      "start_locator": "U00077 partial",
+      "end_locator": "U00110 partial",
+      "status": "locator_sequence_inspected_not_exhaustively_collated",
+      "note": "Start ston pa’i gzugs; page ends nam before mkha’ on next page."
+    },
+    {
+      "pdf_page": 7,
+      "virtual_image": 447,
+      "backing_image": "I1BL8870454.jpg",
+      "source_image_sha256": "63238689945dd40ea824059e66395e485472814c9fb9d86a2aafe9e6671d17dc",
+      "native_size": [
+        4000,
+        688
+      ],
+      "inspected_bounds": [
+        [
+          0,
+          0,
+          2100,
+          688
+        ],
+        [
+          1900,
+          0,
+          4000,
+          688
+        ]
+      ],
+      "rows_inspected": 6,
+      "start_locator": "U00110 partial",
+      "end_locator": "U00135",
+      "status": "locator_sequence_inspected_not_exhaustively_collated",
+      "note": "Continuation mkha’ mi ’byed bar snang las through tshig rnams bsdus te snang bar byas. Lexical loci remain uncollated at uncertain glyph level."
+    },
+    {
+      "pdf_page": 8,
+      "virtual_image": 448,
+      "backing_image": "I1BL8870455.jpg",
+      "source_image_sha256": "e9919a51be0cfff98e56a5afa4bcd5f2c724648ce2ca8916264cea6a1e150d96",
+      "native_size": [
+        4000,
+        708
+      ],
+      "inspected_bounds": [
+        [
+          0,
+          0,
+          2100,
+          708
+        ],
+        [
+          1900,
+          0,
+          4000,
+          708
+        ]
+      ],
+      "rows_inspected": 5,
+      "start_locator": "U00136",
+      "end_locator": "U00163",
+      "status": "locator_sequence_inspected_not_exhaustively_collated",
+      "note": "De ma yin pa’i brjod bya’i tshig through gsungs pas ’khor ba nub par byed. Locator sequence inspected, not independent complete transcription."
+    },
+    {
+      "pdf_page": 9,
+      "virtual_image": 449,
+      "backing_image": "I1BL8870456.jpg",
+      "source_image_sha256": "4a784f93fb5c6d251530dfffdd6d3c4add2fc25d3cd3d0b46babdcd37cfba8bd",
+      "native_size": [
+        4000,
+        682
+      ],
+      "inspected_bounds": [
+        [
+          0,
+          0,
+          2100,
+          682
+        ],
+        [
+          1900,
+          0,
+          4000,
+          682
+        ]
+      ],
+      "rows_inspected": 6,
+      "start_locator": "U00164",
+      "end_locator": "U00190 partial",
+      "status": "locator_sequence_inspected_not_exhaustively_collated",
+      "note": "Question sequence begins in lower rows. Separate numerals below questions; dotted leaders occur. U00187 dgongs/dgos discrimination unresolved."
+    },
+    {
+      "pdf_page": 10,
+      "virtual_image": 450,
+      "backing_image": "I1BL8870457.jpg",
+      "source_image_sha256": "4288b9bad815cec4fb3b30ee04b7a14a0437e8600dc3f7894cbb89e8485cb74c",
+      "native_size": [
+        4000,
+        708
+      ],
+      "inspected_bounds": [
+        [
+          0,
+          0,
+          2100,
+          708
+        ],
+        [
+          1900,
+          0,
+          4000,
+          708
+        ]
+      ],
+      "rows_inspected": 6,
+      "start_locator": "U00190 partial",
+      "end_locator": "U00218",
+      "status": "locator_sequence_inspected_not_exhaustively_collated",
+      "note": "Begins tsam zhig; ends de bzhin thig le’i rnam pa ci. Separate question-number layer with dotted leaders. Exact numerals and main-text suffixes not all reliably decoded."
+    },
+    {
+      "pdf_page": 11,
+      "virtual_image": 451,
+      "backing_image": "I1BL8870458.jpg",
+      "source_image_sha256": "f598c7771a810e4cc1bf4ebeb34ebafb8f63e23a87a51cf5d032bf637eea6f85",
+      "native_size": [
+        4000,
+        696
+      ],
+      "inspected_bounds": [
+        [
+          0,
+          0,
+          2100,
+          696
+        ],
+        [
+          1900,
+          0,
+          4000,
+          696
+        ]
+      ],
+      "rows_inspected": 6,
+      "start_locator": "U00219",
+      "end_locator": "U00249 partial",
+      "status": "locator_sequence_inspected_not_exhaustively_collated",
+      "note": "Question sequence continues, with bottom-right locator bsgom pa’i srog shing. Exact orthography and suffixes not independently certified."
+    }
+  ],
+  "observations": [
+    {
+      "id": "GAD-CH1-001",
+      "anchors": [
+        "U00004"
+      ],
+      "pdf_page": 1,
+      "status": "observed_structural_difference_with_terminal_reading_uncertain",
+      "description": "The separate cover title begins sgra thal ’gyur chen po’i rgyud; the Adzom cover’s rin po che ’byung bar byed pa prefix is not there. Terminal wording/signs remain untranscribed.",
+      "evidence": "evidence/chapter-01/extension/gadkar-ch1/p001-title.png",
+      "crop_bounds": [
+        1400,
+        220,
+        2600,
+        400
+      ]
+    },
+    {
+      "id": "GAD-CH1-002",
+      "anchors": [
+        "U00011"
+      ],
+      "pdf_page": 2,
+      "status": "local_heading_nonobservation_not_witness_omission",
+      "description": "No thun mong ma yin pa’i gleng gzhi bkod pa heading appears between the invocation’s phyag ’tshal lo and the narrative ’di skad bdag gis thos pa’i dus gcig na. This compares the electronic display junction only. Adzom physically places this heading later (near U00014), so this observation does not establish a whole-witness omission or erase it from the base.",
+      "evidence": [
+        "evidence/chapter-01/extension/gadkar-ch1/p002-L.png",
+        "evidence/chapter-01/extension/gadkar-ch1/p002-R.png"
+      ]
+    },
+    {
+      "id": "GAD-CH1-003",
+      "anchors": [
+        "U00029"
+      ],
+      "pdf_page": 3,
+      "status": "local_heading_nonobservation_not_witness_omission",
+      "description": "No thun mong gi gleng gzhi bkod pa heading was recognized at the electronic display junction between thams cad rang byung ye shes so and the following ’di skad bdag gis thos pa’i dus gcig na. Adzom physically places the heading later (near U00033); this local nonobservation does not establish a whole-witness omission.",
+      "evidence": [
+        "evidence/chapter-01/extension/gadkar-ch1/p003-L.png",
+        "evidence/chapter-01/extension/gadkar-ch1/p003-R.png"
+      ]
+    },
+    {
+      "id": "GAD-CH1-004",
+      "anchors": [
+        "U00019"
+      ],
+      "pdf_page": 3,
+      "status": "unresolved_candidate",
+      "candidate": "rang byung rig pa bcos pa med",
+      "description": "The rig pa(s) suffix is not independently certain in the cursive hand. Candidate rig pa must not be promoted to a variant without another reader.",
+      "evidence": "evidence/chapter-01/extension/gadkar-ch1/p003-u19.png",
+      "crop_bounds": [
+        2490,
+        145,
+        3180,
+        245
+      ]
+    },
+    {
+      "id": "GAD-CH1-005",
+      "anchors": [
+        "U00187"
+      ],
+      "pdf_page": 9,
+      "status": "unresolved_candidate",
+      "description": "The dgongs/dgos stack and suffix cannot be reliably distinguished; the lower-line crop records the exact place. Separate question number below the line is a source layer, not main verse.",
+      "evidence": "evidence/chapter-01/extension/gadkar-ch1/p009-u187.jpg",
+      "crop_bounds": [
+        1190,
+        380,
+        1900,
+        520
+      ]
+    },
+    {
+      "id": "GAD-CH1-006",
+      "anchors": [
+        "U00187",
+        "U00218"
+      ],
+      "pdf_pages": [
+        9,
+        10
+      ],
+      "status": "observed_annotation_layer_untranscribed",
+      "description": "Question numerals below the main line, some connected by dotted leaders, are visibly present. They require exact reading and mapping; no numerals have been silently incorporated into the main text."
+    }
+  ],
+  "uncollated": "All pages remain without exhaustive stack/suffix/orthography/punctuation certification. PDF12–90 and the Chapter 1 portion of PDF91 have not yet received a continuous main-row collation; boundary reconnaissance is not collation. PDF75,80,84,86,88–90 were opened as locators, not declared agreements. No inferred omission/addition/transposition outside specifically documented observations.",
+  "integration": {
+    "date": "2026-09-27",
+    "note": "Report imported without upgrading reading confidence; exact native evidence retained. Scope limits remain binding."
+  },
+  "evidence_sha256": {
+    "evidence/chapter-01/extension/gadkar-ch1/p001-title.png": "6b0461b5919387fa7fc0a2e6bdddc370c89532134bb53d257526e30ea9d8723c",
+    "evidence/chapter-01/extension/gadkar-ch1/p002-L.png": "16fcfab08104ff8a1c890f62b95ce598a8acd2b0176467014b590b729358b223",
+    "evidence/chapter-01/extension/gadkar-ch1/p002-R.png": "ee9917a686a1eef68110d7264facf1bca38342885d8e7580c30a821b1dc7dc98",
+    "evidence/chapter-01/extension/gadkar-ch1/p003-L.png": "e69957f9b0d20ab34170667c0c239330ff973fdaa87471172f32563137e6255b",
+    "evidence/chapter-01/extension/gadkar-ch1/p003-R.png": "d9cde54cdd4f78ae9717181fafed7e0d0707ab6583dcf789b8744f43240d3e1b",
+    "evidence/chapter-01/extension/gadkar-ch1/p003-u19.png": "265189a893cfb88b840d2d9238e4e2f3dd89906366dd95e9812af8b76b24e949",
+    "evidence/chapter-01/extension/gadkar-ch1/p009-u187.jpg": "0c8de492fecdcf354695bf566931c8a813f0781763f614ad38edf345dbcc4a73",
+    "evidence/chapter-01/extension/gadkar-ch1/p091-colophon.png": "2d597f8e2437a09ec831dad440f380ea938e6393de05877e7472be357127a955"
+  }
+}

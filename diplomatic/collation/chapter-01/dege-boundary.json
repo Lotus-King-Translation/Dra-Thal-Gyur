@@ -1,0 +1,59 @@
+{
+  "witness": "Degé W1ER7",
+  "date": "2026-09-27",
+  "scope": "Actual Chapter1 colophon location; locator survey only on neighboringpages. Not a continuous comparison.",
+  "basis": "Native embedded JPEG images inspected visually with exact crops; candidate Adzom colophon known during inspection.",
+  "source_pdf": "editions/dege-W1ER7/sgra-thal-gyur.pdf",
+  "pdf_sha256": "8c6b177a1fe8373a478f057d77afa747287d33a8673d7eb526ca8d89b29c8e04",
+  "boundary": {
+    "pdf_page": 54,
+    "bdrc_image": 700,
+    "image_sha256": "989d2bbb1d9a6b18519606c8bb8d3b725b83a40cef1c4f28a87a472cae4c06bf",
+    "native_dimensions": [
+      3474,
+      579
+    ],
+    "location": "main row3, ending dang po’o before compact intervening annotation and next incipit on row3 far right; med continues at row4 left",
+    "unit": "U02635",
+    "status": "Actual Chapter1 boundary identified; exact colophon wording not fully certified",
+    "colophon_ending_observed": "ལེའུ་སྟེ་དང་པོའོ",
+    "incipit_observed": "དེ་ནས་ལྷ་དབང་རྟོག་པ་མེད",
+    "evidence": [
+      "evidence/chapter-01/extension/dege-boundary/p054-colophon-a.png",
+      "evidence/chapter-01/extension/dege-boundary/p054-colophon-b.png",
+      "evidence/chapter-01/extension/dege-boundary/p054-colophon-ending.png",
+      "evidence/chapter-01/extension/dege-boundary/p054-next-incipit-start.png",
+      "evidence/chapter-01/extension/dege-boundary/p054-next-incipit-end.png"
+    ],
+    "uncertainties": [
+      "Exact entire colophon suffixes/tshegs",
+      "Intervening compact annotation wording",
+      "Continuous main-text and punctuation comparison outside identified boundary"
+    ]
+  },
+  "locator_only_pages_viewed": [
+    52,
+    53,
+    54,
+    55
+  ],
+  "generated_but_not_viewed": [
+    56,
+    57
+  ],
+  "not_claimed": [
+    "No verse-level agreement certification on locator-only pages",
+    "No collation of Chapter2"
+  ],
+  "integration": {
+    "date": "2026-09-27",
+    "note": "Report imported without upgrading reading confidence; exact native evidence retained. Scope limits remain binding."
+  },
+  "evidence_sha256": {
+    "evidence/chapter-01/extension/dege-boundary/p054-colophon-a.png": "754443b0b0558ec61a4ff3554e18b2d2a44c933917af7011e00d42743125d477",
+    "evidence/chapter-01/extension/dege-boundary/p054-colophon-b.png": "d2c92446ac406903f34b94fe62915a8f787f4a57fbcc1e1b2472447d75a516b4",
+    "evidence/chapter-01/extension/dege-boundary/p054-colophon-ending.png": "c202a58c21bb5ed6f5f86b2d99383a198bc751e67abf2b976a195b28ba9ed340",
+    "evidence/chapter-01/extension/dege-boundary/p054-next-incipit-end.png": "a05935114fafd7b76f32da1b1052acd7e9ba330bb5b29e769d5daeb0bd3917f2",
+    "evidence/chapter-01/extension/dege-boundary/p054-next-incipit-start.png": "547eea51689f14edd65ea4b02035e7346e0496515f3f5e21d49d74fdddfab186"
+  }
+}

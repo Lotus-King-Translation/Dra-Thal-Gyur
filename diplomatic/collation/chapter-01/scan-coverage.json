@@ -55,7 +55,7 @@
   "punctuation_and_spacing_fully_compared": false,
   "all_comparison_witnesses_continuously_collated": false,
   "focused_annotation_audit_records": 41,
-  "comparison_capability_obstacle": "Focused second readings produced supported variants and precise uncertainties, but the readers could not certify continuous all-variant collation of the faint/compact comparison printings. See individual comparison reports.",
+  "comparison_capability_obstacle": "Dzongsar main sequence now has a continuous lexical pass with bounded flags. Several cursive witnesses remain uncollated because reliable discrimination failed; print continuations are underway. Exact punctuation and all small notes are not certified.",
   "continuous_late_inspected_pdf_pages": [
     51,
     52,
@@ -172,6 +172,15 @@
     "collation/chapter-01/tsamdrak-collation.json",
     "collation/chapter-01/tingkye-collation.json",
     "collation/chapter-01/tharpaling-collation.json",
-    "collation/chapter-01/dzongsar-collation.json"
-  ]
+    "collation/chapter-01/dzongsar-collation.json",
+    "collation/chapter-01/dzongsar-middle.json",
+    "collation/chapter-01/dzongsar-late.json",
+    "collation/chapter-01/gadkar-ch1.json",
+    "collation/chapter-01/zhichen-ch1.json",
+    "collation/chapter-01/w1er119-ch1.json",
+    "collation/chapter-01/tingkye-root.json",
+    "collation/chapter-01/dege-boundary.json"
+  ],
+  "comparison_extension_ledger": "collation/chapter-01/comparison-progress.json",
+  "comparison_extension_report": "reviews/chapter-01/comparison-extension.md"
 }

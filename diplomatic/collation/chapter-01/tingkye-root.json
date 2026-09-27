@@ -1,0 +1,498 @@
+{
+  "witness": "Tingkye W21518",
+  "source_pdf": "editions/tingkye-1973/sgra-thal-gyur.pdf",
+  "source_pdf_sha256": "573e785a586f1c99af9e4d5c54c0d36fefa4a49c28b4d296f1bf31ef249f1723",
+  "date": "2026-09-27",
+  "scope": "Root reader continuation PDF35–39 only. No later page is declared inspected.",
+  "method": "Native embedded images, overlapping crops and focused exact-pixel crops; corrected Adzom reading used for guided comparison, not blind transcription. No OCR. Every main row traversed; exact physical punctuation, small annotations and all compact suffixes are not certified.",
+  "pages": [
+    {
+      "pdf_page": 35,
+      "bdrc_image": 428,
+      "printed_page": 420,
+      "start": "U01277 rdzogs pa’o",
+      "end": "U01316",
+      "rows_inspected": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "native_dimensions": [
+        4350,
+        1100
+      ],
+      "native_image_sha256": "399da76c725109187db679c53c23a2448b4969f699bd90624152df01b4f467de",
+      "view_bounds": [
+        [
+          0,
+          0,
+          2350,
+          1100
+        ],
+        [
+          2180,
+          0,
+          4350,
+          1100
+        ]
+      ],
+      "status": "continuous_main_sequence_compared_with_local_reading_queries; exact physical punctuation and all suffixes not certified"
+    },
+    {
+      "pdf_page": 36,
+      "bdrc_image": 429,
+      "printed_page": 421,
+      "start": "U01317",
+      "end": "U01355",
+      "rows_inspected": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "native_dimensions": [
+        4350,
+        1100
+      ],
+      "native_image_sha256": "76d44bb76ba44c3cd15507d70f63790a728332e2de9fa5cb8537740c3d71353e",
+      "view_bounds": [
+        [
+          0,
+          0,
+          2350,
+          1100
+        ],
+        [
+          2180,
+          0,
+          4350,
+          1100
+        ]
+      ],
+      "status": "continuous_main_sequence_compared_with_local_reading_queries; exact physical punctuation and all suffixes not certified"
+    },
+    {
+      "pdf_page": 37,
+      "bdrc_image": 430,
+      "printed_page": 422,
+      "start": "U01356",
+      "end": "U01395 khyi dang dred spyang las",
+      "rows_inspected": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "native_dimensions": [
+        4350,
+        1100
+      ],
+      "native_image_sha256": "4e5cba8b6a357bd5bbdc83bf52ebc3160e7c9d4af6d49a09176047c14dbd3ed5",
+      "view_bounds": [
+        [
+          0,
+          0,
+          2350,
+          1100
+        ],
+        [
+          2180,
+          0,
+          4350,
+          1100
+        ]
+      ],
+      "status": "continuous_main_sequence_compared_with_local_reading_queries; exact physical punctuation and all suffixes not certified"
+    },
+    {
+      "pdf_page": 38,
+      "bdrc_image": 431,
+      "printed_page": 423,
+      "start": "U01395 rgyal bar",
+      "end": "U01433 grangs dang mthun par",
+      "rows_inspected": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "native_dimensions": [
+        4350,
+        1100
+      ],
+      "native_image_sha256": "0760ce288c7458542b79f292a94993ea18d532ce9877bea6472bc699650d244a",
+      "view_bounds": [
+        [
+          0,
+          0,
+          2350,
+          1100
+        ],
+        [
+          2180,
+          0,
+          4350,
+          1100
+        ]
+      ],
+      "status": "continuous_main_sequence_compared_with_local_reading_queries; exact physical punctuation and all suffixes not certified"
+    },
+    {
+      "pdf_page": 39,
+      "bdrc_image": 432,
+      "printed_page": 424,
+      "start": "U01433 byugs pa dang",
+      "end": "U01485 through yis",
+      "rows_inspected": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "native_dimensions": [
+        4350,
+        1100
+      ],
+      "native_image_sha256": "108123f0b398ebd3fe9221212be95dac12a5f27f1dd23368620e5ce4303fb52b",
+      "view_bounds": [
+        [
+          0,
+          0,
+          2350,
+          1100
+        ],
+        [
+          2180,
+          0,
+          4350,
+          1100
+        ]
+      ],
+      "status": "continuous_main_sequence_compared_with_local_reading_queries; exact physical punctuation and all suffixes not certified"
+    }
+  ],
+  "observations": [
+    {
+      "id": "TK-ROOT-01",
+      "units": [
+        "U01278"
+      ],
+      "pdf_page": 35,
+      "bdrc_image": 428,
+      "comparison_reading": "མེའི་ཟུག་པས་",
+      "status": "observed-local-variant",
+      "confidence": "high",
+      "rationale": "Tingkye contracts me yi to me’i at the start of this verse.",
+      "evidence": [
+        "evidence/chapter-01/extension/tingkye-root/p035-u1278.png"
+      ],
+      "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison."
+    },
+    {
+      "id": "TK-ROOT-02",
+      "units": [
+        "U01283"
+      ],
+      "pdf_page": 35,
+      "bdrc_image": 428,
+      "comparison_reading": "གཅིག་ཏུ་སྡུད",
+      "status": "observed-local-variant",
+      "confidence": "high",
+      "rationale": "Tingkye has tu after gcig; the retained Adzom transcript has du.",
+      "evidence": [
+        "evidence/chapter-01/extension/tingkye-root/p035-u1283.png"
+      ],
+      "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison."
+    },
+    {
+      "id": "TK-ROOT-03",
+      "units": [
+        "U01300"
+      ],
+      "pdf_page": 35,
+      "bdrc_image": 428,
+      "comparison_reading": "བྱ་བ་རྣམས",
+      "status": "observed-local-variant",
+      "confidence": "high",
+      "rationale": "Terminal rnams is visible against the base nyid. The initial sequence appears rlung chu yi without dang, but that finer initial-word reading remains a candidate; only the quoted terminal phrase is asserted securely.",
+      "evidence": [
+        "evidence/chapter-01/extension/tingkye-root/p035-u1300.png"
+      ],
+      "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison."
+    },
+    {
+      "id": "TK-ROOT-04",
+      "units": [
+        "U01310"
+      ],
+      "pdf_page": 35,
+      "bdrc_image": 428,
+      "comparison_reading": "བྱ་བྲལ་བས་རྫོགས་པས་རྫོགས",
+      "status": "observed-local-variant",
+      "confidence": "high",
+      "rationale": "The displayed main sequence is bya bral bas rather than base bya ba bral bar. No extra ba between bya and bral is visible in the inspected crop.",
+      "evidence": [
+        "evidence/chapter-01/extension/tingkye-root/p035-u1310-full.png"
+      ],
+      "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison."
+    },
+    {
+      "id": "TK-ROOT-05",
+      "units": [
+        "U01344"
+      ],
+      "pdf_page": 36,
+      "bdrc_image": 429,
+      "comparison_reading": null,
+      "status": "uncertain-reading",
+      "confidence": "unresolved",
+      "rationale": "The last syllable following thugs dang appears gis rather than base ni, but the compact glyph is not independently certain. Preserve as a local reading query.",
+      "evidence": [
+        "evidence/chapter-01/extension/tingkye-root/p036-u1344.png"
+      ],
+      "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison."
+    },
+    {
+      "id": "TK-ROOT-06",
+      "units": [
+        "U01358"
+      ],
+      "pdf_page": 37,
+      "bdrc_image": 430,
+      "comparison_reading": "ཆུའི་སྒྲ་ནི་",
+      "status": "observed-local-variant",
+      "confidence": "high",
+      "rationale": "Contracted chu’i against base chu yi.",
+      "evidence": [
+        "evidence/chapter-01/extension/tingkye-root/p037-u1358.png"
+      ],
+      "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison."
+    },
+    {
+      "id": "TK-ROOT-07",
+      "units": [
+        "U01366"
+      ],
+      "pdf_page": 37,
+      "bdrc_image": 430,
+      "comparison_reading": "མེའི་སྒྲ་ནི་",
+      "status": "observed-local-variant",
+      "confidence": "high",
+      "rationale": "Contracted me’i against base me yi.",
+      "evidence": [
+        "evidence/chapter-01/extension/tingkye-root/p037-u1366-correct.png"
+      ],
+      "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison."
+    },
+    {
+      "id": "TK-ROOT-08",
+      "units": [
+        "U01396"
+      ],
+      "pdf_page": 38,
+      "bdrc_image": 431,
+      "comparison_reading": null,
+      "status": "uncertain-reading",
+      "confidence": "unresolved",
+      "rationale": "The initial letters of rjod/byed group may include a b prefix (brjod); the exact crowded stack is unresolved. No corrected manuscript quotation is supplied.",
+      "evidence": [
+        "evidence/chapter-01/extension/tingkye-root/p038-u1396.png"
+      ],
+      "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison."
+    },
+    {
+      "id": "TK-ROOT-09",
+      "units": [
+        "U01417"
+      ],
+      "pdf_page": 38,
+      "bdrc_image": 431,
+      "comparison_reading": null,
+      "status": "uncertain-reading",
+      "confidence": "unresolved",
+      "rationale": "Exact prefix/suffix in the cluster before nas (base bstims) remains uncertain after focused inspection; the neighboring main text is readable.",
+      "evidence": [
+        "evidence/chapter-01/extension/tingkye-root/p038-u1417.png"
+      ],
+      "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison."
+    },
+    {
+      "id": "TK-ROOT-10",
+      "units": [
+        "U01420"
+      ],
+      "pdf_page": 38,
+      "bdrc_image": 431,
+      "comparison_reading": "སྡུད་པ་ཡིས",
+      "status": "observed-local-variant",
+      "confidence": "high",
+      "rationale": "Visible sdud pa yis against base sdud pa’i mis.",
+      "evidence": [
+        "evidence/chapter-01/extension/tingkye-root/p038-u1420.png"
+      ],
+      "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison."
+    },
+    {
+      "id": "TK-ROOT-11",
+      "units": [
+        "U01422"
+      ],
+      "pdf_page": 38,
+      "bdrc_image": 431,
+      "comparison_reading": "རིན་པོ་ཆེའི་",
+      "status": "observed-local-variant",
+      "confidence": "high",
+      "rationale": "The word group crossing the physical row end contracts che yi to che’i; the main verse continues sbyor ba dag.",
+      "evidence": [
+        "evidence/chapter-01/extension/tingkye-root/p038-u1422.png"
+      ],
+      "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison."
+    },
+    {
+      "id": "TK-ROOT-12",
+      "units": [
+        "U01441",
+        "U01442",
+        "U01443",
+        "U01444",
+        "U01445",
+        "U01446",
+        "U01447",
+        "U01448",
+        "U01449",
+        "U01450",
+        "U01451",
+        "U01452",
+        "U01453",
+        "U01454",
+        "U01455"
+      ],
+      "pdf_page": 39,
+      "bdrc_image": 432,
+      "comparison_reading": "U01441 → U01453 → U01455",
+      "status": "local-sequence-absence",
+      "confidence": "high",
+      "rationale": "Row2 proceeds from gnas su phyin pas nges par ’grub to ’gyur ba the tshom mi za’o and then bye brag sku rnams bsgrub pa na. Main verses U01442–U01452 are absent at this inspected junction. U01453 is present and must not be included in that omission. The Adzom reply heading U01454 is not at the junction. This is a local sequence difference, not proof that the verses never appear elsewhere in the witness.",
+      "evidence": [
+        "evidence/chapter-01/extension/tingkye-root/p039-junction1441-1455.png"
+      ],
+      "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison."
+    },
+    {
+      "id": "TK-ROOT-13",
+      "units": [
+        "U01453"
+      ],
+      "pdf_page": 39,
+      "bdrc_image": 432,
+      "comparison_reading": "འགྱུར་བ་ཐེ་ཚོམ་མི་ཟའོ",
+      "status": "sequence-clarification",
+      "confidence": "high",
+      "rationale": "Focused crop confirms this verse between U1441 and U1455. It initially looked like a small note in the wide view but is retained as observed main sequence, not an unread paratext.",
+      "evidence": [
+        "evidence/chapter-01/extension/tingkye-root/p039-junction-smallnote.png"
+      ],
+      "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison."
+    },
+    {
+      "id": "TK-ROOT-14",
+      "units": [
+        "U01439"
+      ],
+      "pdf_page": 39,
+      "bdrc_image": 432,
+      "comparison_reading": "སྦྱར་ཏེ་ཨ་ཡིས་བསྐོར",
+      "status": "supporting-main-layer",
+      "confidence": "high",
+      "rationale": "Focused main phrase corroborates the separated Adzom main wording; the source-transcript alternative a lis kyang byung is not inserted here. This does not establish its absence from every margin.",
+      "evidence": [
+        "evidence/chapter-01/extension/tingkye-root/p039-u1439.png"
+      ],
+      "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison."
+    },
+    {
+      "id": "TK-ROOT-15",
+      "units": [
+        "U01457"
+      ],
+      "pdf_page": 39,
+      "bdrc_image": 432,
+      "comparison_reading": "ཆུའི་དྲིས་ནི་",
+      "status": "observed-local-variant",
+      "confidence": "high",
+      "rationale": "Contracted chu’i against base chu yi.",
+      "evidence": [
+        "evidence/chapter-01/extension/tingkye-root/p039-u1457.png"
+      ],
+      "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison."
+    },
+    {
+      "id": "TK-ROOT-16",
+      "units": [
+        "U01465"
+      ],
+      "pdf_page": 39,
+      "bdrc_image": 432,
+      "comparison_reading": "མེའི་དྲིས་ནི་",
+      "status": "observed-local-variant",
+      "confidence": "high",
+      "rationale": "Contracted me’i against base me yi.",
+      "evidence": [
+        "evidence/chapter-01/extension/tingkye-root/p039-u1465.png"
+      ],
+      "decision": "Retain the governing Adzom scan reading; record the local Tingkye evidence. No substitution into the base follows from this comparison."
+    }
+  ],
+  "heading_scope": "Reply headings U1308,U1335,U1353,U1381,U1454,U1476 were not observed at the corresponding inspected main-sequence junctions. This is not a global margin inventory or proof of whole-witness absence.",
+  "other_local_uncertainties": [
+    "U1300 initial rlung [dang?] chu yi",
+    "U1337 final letters of langs",
+    "U1393 final prefix/suffix of bsgrubs",
+    "U1423 exact tshogs cluster",
+    "U1439 exact fine spelling of preceding legs and Sanskrit a sign",
+    "U1470 exact nges lus and final bsgoms stacks"
+  ],
+  "uninspected_pdf_pages": [
+    40,
+    69
+  ],
+  "complete": false,
+  "integration": {
+    "date": "2026-09-27",
+    "note": "Report imported without upgrading reading confidence; exact native evidence retained. Scope limits remain binding."
+  },
+  "evidence_sha256": {
+    "evidence/chapter-01/extension/tingkye-root/p035-u1278.png": "bd06b358d3c218cab359dc240269c95222aa7126fa5cbb7c75e219e70ad34703",
+    "evidence/chapter-01/extension/tingkye-root/p035-u1283.png": "5d39a467a6a2bd42d8c39cb8c9cfe8cabcde4717ed9b260465c42adc0c2dc319",
+    "evidence/chapter-01/extension/tingkye-root/p035-u1300.png": "1eedfce56e3fa41e2c247ed9a00948d90f4aabe0ac683407f32564f06dbfa499",
+    "evidence/chapter-01/extension/tingkye-root/p035-u1310-full.png": "39bd2caa2fcdb5da1c30a5b1eb5b82978a2605bfadd8b87e995a2461f339de5b",
+    "evidence/chapter-01/extension/tingkye-root/p036-u1344.png": "6ca745c27f1193b6830d56e47ca009adaef5c30af9b727d4b1f85a9fa1c6b1f8",
+    "evidence/chapter-01/extension/tingkye-root/p037-u1358.png": "b1694194057b0e6c714a6ef63b2c9c8e675ddb25a9dfde3fa4975605a5bff2d3",
+    "evidence/chapter-01/extension/tingkye-root/p037-u1366-correct.png": "96859e343eec88993af9f7e739d396946cdf8666e056bed3b3a5645edceeb7ab",
+    "evidence/chapter-01/extension/tingkye-root/p038-u1396.png": "78fe1398a3da976041ac48e46ce469d7fbc78bd4d1ab984ec2bd9c73431eb9ef",
+    "evidence/chapter-01/extension/tingkye-root/p038-u1417.png": "7d26e03903aea21a177941ed09f5429906d5d974e96f6a6760794c46bf102575",
+    "evidence/chapter-01/extension/tingkye-root/p038-u1420.png": "b3e18279f9a28994eeb5b5d69389d60eb88cdd2e68993e3dfa66c7a2daf6c349",
+    "evidence/chapter-01/extension/tingkye-root/p038-u1422.png": "ff2294bb6b424a935255c6472d1f69f83ae8d4868f0761a6ec2c5382364a0e26",
+    "evidence/chapter-01/extension/tingkye-root/p039-junction-smallnote.png": "276b89dd55b43a275aa822fb2cb8e096e56da87e75fa3de6ab7b066b2f670bc0",
+    "evidence/chapter-01/extension/tingkye-root/p039-junction1441-1455.png": "eb1b81ccf373b887441e8427cccdac19cef6076869f857e8caef1b65d1252a73",
+    "evidence/chapter-01/extension/tingkye-root/p039-u1439.png": "ec62c8c2522b83bff8bd78b777b3fe6b2a886e9dc9767281b86d674dff2340e0",
+    "evidence/chapter-01/extension/tingkye-root/p039-u1457.png": "ab0461b8f25e3da3fd2b6f9a1dd3a847db0c66d86fd013928ee70d911d11c900",
+    "evidence/chapter-01/extension/tingkye-root/p039-u1465.png": "3317a3266cb7908f8cd0a51db956d17d07ad95b8890590afd083e4618f36f215"
+  }
+}

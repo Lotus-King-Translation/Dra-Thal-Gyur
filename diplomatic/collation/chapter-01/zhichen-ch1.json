@@ -1,0 +1,108 @@
+{
+  "witness": "Khams Zhichen manuscript",
+  "source_path": "editions/khams-zhichen-manuscript/sgra-thal-gyur.pdf",
+  "source_sha256": "5ce221203d5db067da644969b2bf336fa7222906c83fd8d9757e84212e244ee8",
+  "pdf_pages": 201,
+  "provider_image_rule": "PDF N = I1KG81308 image N+30",
+  "chapter": 1,
+  "status": "attempted_opening_and_boundary_location_not_reliable_continuous_collation",
+  "chapter_boundary": {
+    "status": "not_established",
+    "reason": "No Chapter 1 colophon was securely read in the locator views. Page-count proportion is not used as a chapter boundary."
+  },
+  "coverage": {
+    "reliably_collated_main_text_ranges": [],
+    "opening_attempt_pdf_pages": [
+      1,
+      2,
+      3
+    ],
+    "boundary_locator_viewed_pdf_pages": [
+      70,
+      75,
+      80,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      120,
+      125
+    ],
+    "boundary_locator_not_collation": true,
+    "uninspected_pages": "All other PDF pages. Some locator views may lie outside Chapter 1; no later-chapter editing or collation was undertaken."
+  },
+  "findings": [
+    {
+      "id": "ZH-OPEN-STRUCTURE",
+      "type": "layout_observation",
+      "pdf_page": 1,
+      "provider_image": 31,
+      "observation": "A short centered black title occurs inside red rules. This is not a diplomatic transcription of its exact letters. No lexical reading is adopted from it."
+    },
+    {
+      "id": "ZH-OPEN-LAYERS",
+      "type": "layout_observation",
+      "pdf_page": 2,
+      "provider_image": 32,
+      "observation": "Four ruled main rows use black and red ink. The first row includes an additional smaller invocation in black. A small red heading-like string occurs within the fourth row. Its identification with the supplied U00011 heading is plausible from context but not certified letter by letter."
+    },
+    {
+      "id": "ZH-U00019-QUERY",
+      "type": "unresolved_reading",
+      "pdf_page": 3,
+      "provider_image": 33,
+      "unit": "U00019",
+      "context": "The row-1 passage can be aligned provisionally with rang byung rig pa(s) bcos pa med. The suffix after rig pa cannot be established reliably by this reader. Neither rig pa nor rig pas is entered as an observed variant.",
+      "crop_native_pixel_bounds": [
+        940,
+        65,
+        1430,
+        125
+      ],
+      "evidence": "evidence/chapter-01/extension/zhichen-ch1/p003-u19-native.png"
+    }
+  ],
+  "confirmed_lexical_variants": [],
+  "limitations": [
+    "The available images are largely sharp. The failure is this reader's cursive Tibetan discrimination, not a finding that the manuscript is generally illegible.",
+    "Expected-text recognition is insufficient to certify a suffix, stack, lexical agreement or omission.",
+    "The full chapter remains uncollated. Uncertainty is not coded as agreement.",
+    "Native overlapping opening crops were used; rescaling the U00019 crop adds no image detail.",
+    "No English translation, source mutation, glossary change or repository commit was performed."
+  ],
+  "continuation": "A reader able to transcribe this cursive hand must locate the actual colophon and compare every main row and source annotation. The acquired PDF remains available; do not classify the witness as inaccessible.",
+  "integration": {
+    "date": "2026-09-27",
+    "note": "Report imported without upgrading reading confidence; exact native evidence retained. Scope limits remain binding."
+  },
+  "evidence_sha256": {
+    "evidence/chapter-01/extension/zhichen-ch1/p003-u19-native.png": "07a08755845b3df37ab64398bf135fbf9ea0d90f1ad08d1bd4f9ce8c5fdc4ca1"
+  }
+}
