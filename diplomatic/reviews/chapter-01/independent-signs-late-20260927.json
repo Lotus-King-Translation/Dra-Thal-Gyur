@@ -1,0 +1,644 @@
+{
+  "id": "independent-signs-late-20260927",
+  "date": "2026-09-27",
+  "scope": "Four withdrawn candidates U00594/U00710/U01757/U02080 only. Native full-page orientation, page opening and complete target wording with surrounding anchors checked before sign allocation. No English translation QC or canonical edits.",
+  "status": "four supported proposals saved for coordinator checkpoint and adoption review",
+  "repository_head_at_save": "923c38ea4713ca42a22a2e888e72945a8eafcb0a",
+  "source_pdf": "editions/adzom-2000/sgra-thal-gyur.pdf",
+  "source_pdf_sha256": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343",
+  "method": [
+    "Display each complete archived native page for physical orientation; inspect unscaled opening and target-row segments.",
+    "Identify target lexical sequence and neighboring anchors before viewing historical terminal crop for sign judgment.",
+    "Inspect complete historical crop and an extra unscaled terminal crop for U00710; verify historical crop pixels against archived member.",
+    "Preserve all original bytes, no OCR, denoising, sharpening, resynthesis or lexical reconstruction.",
+    "The reviewer knew the proposals and source transcript; target correspondence and mark allocation were checked against the actual image."
+  ],
+  "input_sha256": {
+    "AGENTS.md": "07041286edbbb9b0b549b796f4cbe2dfb6f5399530d07a4d5569a5e2dc3fcffc",
+    "guidelines/tibetan_translation_standard_v2.md": "934f54616d1c55a6ecb0c594108397cca5b317dafc7c2c945972ffd1351b7760",
+    "glossary/expanded_tibetan_english_glossary.csv": "6b9029f7f02494e947e6a1273da7916b358e4d0738b35f012ce4da662d3fbbaf",
+    "diplomatic/reviews/chapter-01/opening-locator-audit-20260927.json": "bd3b8bdc654a756f6535a8792e0e3fd240ededb9442761a76ac6bd465074f38d",
+    "diplomatic/reviews/chapter-01/sign-adoption-audit-20260927.md": "28a517d05d1b9ede8d6ba04c21a4575153c79fffeb09344850460a094e1d6094",
+    "diplomatic/reviews/chapter-01/signs-recovery-anchor-audit-20260927.json": "03dd788f0b2b1011f614345e82975d3af0fc1e364cee19ee63780d170d271e27",
+    "diplomatic/reviews/chapter-01/signs-recovery-review-20260927.json": "4915c48a9a0387d36790f51e8df13ccdcdbd1317ed2d3ceb461689c6fc5cdd1a",
+    "diplomatic/collation/chapter-01/additional-interventions.json": "d090af0951c6bb5d90369b03f5aa37a71bda5a6408cbfaad69327d39c3afa507",
+    "translations/2026-09-26-full-draft/data/source-units.json": "c8f1f0f8b91217a929cb82b0a5bb4544f8d29edddb145687f47218f05f0ceb5b"
+  },
+  "records": [
+    {
+      "id": "SIGNS-INDEPENDENT-LATE-20260927-U00594",
+      "units": [
+        "U00594"
+      ],
+      "source_tibetan_unchanged": "འབྲུག་སྒྲོགས་གློག་དམར་ལྕེ་རྣམས་འབྱིན།",
+      "original_units": {
+        "U00594": "འབྲུག་སྒྲོགས་གློག་དམར་ལྕེ་རྣམས་འབྱིན།"
+      },
+      "replacement_units": {
+        "U00594": "འབྲུག་སྒྲོགས་གློག་དམར་ལྕེ་རྣམས་འབྱིན། །"
+      },
+      "main_lexical_sequence_identified_from_native": "འབྲུག་སྒྲོགས་གློག་དམར་ལྕེ་རྣམས་འབྱིན",
+      "page_opening_observed_before_sign_count": "Printed first main fragment ཀྱིས་སྤྲས (U00569 tail), followed by the complete U00570 འདོད་པའི་ཡོན་ཏན་རྣམས་ཀྱིས་བརྒྱན; no inferred whole-page anchor range.",
+      "neighboring_anchors_identified": [
+        {
+          "unit": "U00593",
+          "observed_scope": "row6, preceding complete verse འཆར་ཁ་ཆུན་འཕྱང་རྣམས་ཀྱིས་བརྒྱན"
+        },
+        {
+          "unit": "U00595",
+          "observed_scope": "row6 following begins སྟོན་པའི་བསྟན་པ; remainder of this following unit not newly certified"
+        }
+      ],
+      "target_correspondence": "independently confirmed from native page and row context; not accepted from crop label",
+      "finding": "confirmed local punctuation mismatch",
+      "category": "source punctuation",
+      "disposition": "supported proposal; coordinator adoption pending; no canonical edit by reviewer",
+      "confidence": {
+        "target_identification": "high for complete target main wording and stated neighboring scope",
+        "sign_allocation": "high for this local boundary only"
+      },
+      "locator": "Adzom 2000 PDF25 / BDRC I1KG11710 image27 / main row6",
+      "observed_signs": "Two separated detached vertical shads follow final འབྱིན before སྟོན. The first is immediately after the completed final letter, the second precedes the following phrase after blank space.",
+      "terminal_shad_count": 2,
+      "terminal_tsheg_confirmed": null,
+      "native_source": {
+        "archive": "editions/adzom-2000/original-images.zip",
+        "member": "0027.png",
+        "sha256": "b379b48065135a38ec36c506e9573bb8b6a5e8e46e3b6333405d2df454d0a8e8",
+        "native_dimensions": [
+          5696,
+          1344
+        ],
+        "source_bytes_match_manifest": true,
+        "historical_candidate_crop_pixels_match_native": true
+      },
+      "evidence": [
+        {
+          "path": "evidence/chapter-01/independent-signs-late-20260927/p025.png",
+          "sha256": "b379b48065135a38ec36c506e9573bb8b6a5e8e46e3b6333405d2df454d0a8e8",
+          "pdf_page": 25,
+          "bdrc_image": 27,
+          "source_member": "0027.png",
+          "pixel_bounds": [
+            0,
+            0,
+            5696,
+            1344
+          ],
+          "derivation": "byte-identical archived PNG",
+          "coordinates": "zero-based half-open source pixels"
+        },
+        {
+          "path": "evidence/chapter-01/independent-signs-late-20260927/p025-opening-sequence.png",
+          "sha256": "b0f819b48a4f43a575343a5429e40dca9d877fba50bb759f2c63f246eb0caf82",
+          "pdf_page": 25,
+          "bdrc_image": 27,
+          "source_member": "0027.png",
+          "pixel_bounds": [
+            1375,
+            245,
+            3375,
+            440
+          ],
+          "derivation": "unscaled rectangular native crop; no enhancement",
+          "coordinates": "zero-based half-open source pixels"
+        },
+        {
+          "path": "evidence/chapter-01/independent-signs-late-20260927/p025-targetrow-0.png",
+          "sha256": "bb6dbd6726e2e4288e6a21a897be102e22ed4ed5fe610577b9ddd2c4af058368",
+          "pdf_page": 25,
+          "bdrc_image": 27,
+          "source_member": "0027.png",
+          "pixel_bounds": [
+            550,
+            840,
+            2200,
+            1010
+          ],
+          "derivation": "unscaled rectangular native crop; no enhancement",
+          "coordinates": "zero-based half-open source pixels"
+        },
+        {
+          "path": "evidence/chapter-01/independent-signs-late-20260927/p025-targetrow-1.png",
+          "sha256": "179fc3e21c97a14d69a81b1561e95efead6806645e301e1737c4d9d0a279e40c",
+          "pdf_page": 25,
+          "bdrc_image": 27,
+          "source_member": "0027.png",
+          "pixel_bounds": [
+            2100,
+            840,
+            3800,
+            1010
+          ],
+          "derivation": "unscaled rectangular native crop; no enhancement",
+          "coordinates": "zero-based half-open source pixels"
+        },
+        {
+          "path": "evidence/chapter-01/independent-signs-late-20260927/p025-targetrow-2.png",
+          "sha256": "0ee799b1d60b3c8016bce160e1fed8c785de19929e87852fee62938cf6dff0de",
+          "pdf_page": 25,
+          "bdrc_image": 27,
+          "source_member": "0027.png",
+          "pixel_bounds": [
+            3700,
+            840,
+            5350,
+            1010
+          ],
+          "derivation": "unscaled rectangular native crop; no enhancement",
+          "coordinates": "zero-based half-open source pixels"
+        },
+        {
+          "path": "evidence/chapter-01/signs-recovery-review-20260927/U00594.png",
+          "sha256": "2dd81c6bc916409509d8402e716e39e7480b1233b47e2d52171f37fd8468f664",
+          "source_member": "0027.png",
+          "pixel_bounds": [
+            3350,
+            840,
+            5020,
+            1010
+          ],
+          "derivation": "historical native crop; independently reidentified and pixels reverified",
+          "coordinates": "zero-based half-open source pixels"
+        }
+      ],
+      "limits": [
+        "Only the specified target boundary is a punctuation judgment; no global normalization or whole-page proofreading.",
+        "Neighbor descriptions state the actual displayed wording; unseen continuations are not certified.",
+        "Unicode spaces distinguish separated marks; they do not reproduce measured physical spacing.",
+        "Expected candidate readings were available; this independent correspondence check is not blind."
+      ]
+    },
+    {
+      "id": "SIGNS-INDEPENDENT-LATE-20260927-U00710",
+      "units": [
+        "U00710"
+      ],
+      "source_tibetan_unchanged": "སོ་སོའི་ནུས་པས་བུས་པ་སྦྱར་ཡང་འབྱུང་བསྒྱུར་བ་གང་། །",
+      "original_units": {
+        "U00710": "སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང། །"
+      },
+      "replacement_units": {
+        "U00710": "སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང་། །"
+      },
+      "main_lexical_sequence_identified_from_native": "སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང",
+      "page_opening_observed_before_sign_count": "Printed opening བསྟན་རྗེས་འཛིན་སེམས་ཀྱི་གནད (U00698 tail), followed by complete U00699 འགྲོ་བ་བདག་སྐྱོབ་རླུང་གི་ལྷ. Initial lung of U00698 belongs before this page and is not inserted into its opening.",
+      "neighboring_anchors_identified": [
+        {
+          "unit": "U00709",
+          "observed_scope": "row3 preceding བརྡའ་ཡི་འཇུག་པ་ཐམས་ཅད་སྣང"
+        },
+        {
+          "unit": "U00711",
+          "observed_scope": "row3 following རང་བཞིན་རྫོགས་པས་རྫོགས་པ་ཆེ"
+        }
+      ],
+      "target_correspondence": "independently confirmed from native page and row context; not accepted from crop label",
+      "finding": "confirmed local punctuation mismatch",
+      "category": "source punctuation",
+      "disposition": "supported proposal; coordinator adoption pending; no canonical edit by reviewer",
+      "confidence": {
+        "target_identification": "high for complete target main wording and stated neighboring scope",
+        "sign_allocation": "high for this local boundary only"
+      },
+      "locator": "Adzom 2000 PDF30 / BDRC I1KG11710 image32 / main row3",
+      "observed_signs": "A separate triangular tsheg stands at headline level after the completed final nga of གང and before the first detached shad. Two detached shads follow. The source annotation beneath the main line is not part of this terminal sequence.",
+      "terminal_shad_count": 2,
+      "terminal_tsheg_confirmed": true,
+      "native_source": {
+        "archive": "editions/adzom-2000/original-images.zip",
+        "member": "0032.png",
+        "sha256": "115325374d9f4eb4373594cb903e658b5e02863ce05bb7c9436b86369eebaa3a",
+        "native_dimensions": [
+          5696,
+          1344
+        ],
+        "source_bytes_match_manifest": true,
+        "historical_candidate_crop_pixels_match_native": true
+      },
+      "evidence": [
+        {
+          "path": "evidence/chapter-01/independent-signs-late-20260927/p030.png",
+          "sha256": "115325374d9f4eb4373594cb903e658b5e02863ce05bb7c9436b86369eebaa3a",
+          "pdf_page": 30,
+          "bdrc_image": 32,
+          "source_member": "0032.png",
+          "pixel_bounds": [
+            0,
+            0,
+            5696,
+            1344
+          ],
+          "derivation": "byte-identical archived PNG",
+          "coordinates": "zero-based half-open source pixels"
+        },
+        {
+          "path": "evidence/chapter-01/independent-signs-late-20260927/p030-opening-corrected.png",
+          "sha256": "d22cc4b4a2b87b339e3a5e7dd6ee465ffd053a51430aba4ff610544e4adc36e4",
+          "pdf_page": 30,
+          "bdrc_image": 32,
+          "source_member": "0032.png",
+          "pixel_bounds": [
+            550,
+            320,
+            2700,
+            505
+          ],
+          "derivation": "unscaled rectangular native crop; no enhancement",
+          "coordinates": "zero-based half-open source pixels"
+        },
+        {
+          "path": "evidence/chapter-01/independent-signs-late-20260927/p030-targetrow-0.png",
+          "sha256": "1ce1b7bbe41ee21cfdbf2825affc18ab99c934e205e92c72159239b6dfb1b648",
+          "pdf_page": 30,
+          "bdrc_image": 32,
+          "source_member": "0032.png",
+          "pixel_bounds": [
+            550,
+            500,
+            2200,
+            725
+          ],
+          "derivation": "unscaled rectangular native crop; no enhancement",
+          "coordinates": "zero-based half-open source pixels"
+        },
+        {
+          "path": "evidence/chapter-01/independent-signs-late-20260927/p030-targetrow-1.png",
+          "sha256": "69431e626dfaf50d334223ee0084f6babbbdce9437abbd339ecd7f47bd9750b7",
+          "pdf_page": 30,
+          "bdrc_image": 32,
+          "source_member": "0032.png",
+          "pixel_bounds": [
+            2100,
+            500,
+            3800,
+            725
+          ],
+          "derivation": "unscaled rectangular native crop; no enhancement",
+          "coordinates": "zero-based half-open source pixels"
+        },
+        {
+          "path": "evidence/chapter-01/independent-signs-late-20260927/p030-targetrow-2.png",
+          "sha256": "b5b3feba712d0e2bf409ecda26e0d1dc9fc8aa08f50d0af9cc5c31512b55b8de",
+          "pdf_page": 30,
+          "bdrc_image": 32,
+          "source_member": "0032.png",
+          "pixel_bounds": [
+            3700,
+            500,
+            5350,
+            725
+          ],
+          "derivation": "unscaled rectangular native crop; no enhancement",
+          "coordinates": "zero-based half-open source pixels"
+        },
+        {
+          "path": "evidence/chapter-01/signs-recovery-review-20260927/U00710.png",
+          "sha256": "0de681cfe519830087d93cc9a811567ac44835a28d1764ffb45344a2e80a6b3e",
+          "source_member": "0032.png",
+          "pixel_bounds": [
+            2850,
+            500,
+            4100,
+            725
+          ],
+          "derivation": "historical native crop; independently reidentified and pixels reverified",
+          "coordinates": "zero-based half-open source pixels"
+        },
+        {
+          "path": "evidence/chapter-01/independent-signs-late-20260927/p030-gang-terminal.png",
+          "sha256": "83c1b5e3e1925ab7a1898eed42c123a860ab4092d79216685c14fca238ab8390",
+          "pdf_page": 30,
+          "bdrc_image": 32,
+          "source_member": "0032.png",
+          "pixel_bounds": [
+            3490,
+            550,
+            3820,
+            675
+          ],
+          "derivation": "unscaled rectangular native crop; no enhancement",
+          "coordinates": "zero-based half-open source pixels"
+        }
+      ],
+      "limits": [
+        "Only the specified target boundary is a punctuation judgment; no global normalization or whole-page proofreading.",
+        "Neighbor descriptions state the actual displayed wording; unseen continuations are not certified.",
+        "Unicode spaces distinguish separated marks; they do not reproduce measured physical spacing.",
+        "Expected candidate readings were available; this independent correspondence check is not blind."
+      ],
+      "existing_intervention_dependency": "SCAN-CH1-LAYER-00710: retain existing main/annotation separation; restore only the terminal tsheg removed by its main replacement.",
+      "annotation_scope": "The separate smaller note below the main line is visibly separate; its complete wording is not independently re-certified by this punctuation review."
+    },
+    {
+      "id": "SIGNS-INDEPENDENT-LATE-20260927-U01757",
+      "units": [
+        "U01757"
+      ],
+      "source_tibetan_unchanged": "ཕོ་མོའི་སྡེབས་ཀྱིས་བརྒྱད་དུ་འགྱུར།",
+      "original_units": {
+        "U01757": "ཕོ་མོའི་སྡེབས་ཀྱིས་བརྒྱད་དུ་འགྱུར།"
+      },
+      "replacement_units": {
+        "U01757": "ཕོ་མོའི་སྡེབས་ཀྱིས་བརྒྱད་དུ་འགྱུར། །"
+      },
+      "main_lexical_sequence_identified_from_native": "ཕོ་མོའི་སྡེབས་ཀྱིས་བརྒྱད་དུ་འགྱུར",
+      "page_opening_observed_before_sign_count": "Printed first fragment ཀྱིས (U01749 tail), then U01750 ལས་ཀྱི་མཐའ་རྣམས་བསྒྱུར་བར་བྱའོ and a smaller heading. The complete U01757 target is separately identifiable on row2.",
+      "neighboring_anchors_identified": [
+        {
+          "unit": "U01756",
+          "observed_scope": "row2 preceding མཆོག་ཏུ་གནས་པ་བཅུ་དྲུག་ཉིད"
+        },
+        {
+          "unit": "U01758",
+          "observed_scope": "row2 following རང་ངོ་དག་པ་བཞི་ཡིས་ནི"
+        }
+      ],
+      "target_correspondence": "independently confirmed from native page and row context; not accepted from crop label",
+      "finding": "confirmed local punctuation mismatch",
+      "category": "source punctuation",
+      "disposition": "supported proposal; coordinator adoption pending; no canonical edit by reviewer",
+      "confidence": {
+        "target_identification": "high for complete target main wording and stated neighboring scope",
+        "sign_allocation": "high for this local boundary only"
+      },
+      "locator": "Adzom 2000 PDF69 / BDRC I1KG11710 image71 / main row2",
+      "observed_signs": "Two detached shads follow འགྱུར before རང་ངོ. The first stands after the final ra stroke; the second is separated before rang. The curved lower stroke belongs to neighboring letter material, not an additional delimiter.",
+      "terminal_shad_count": 2,
+      "terminal_tsheg_confirmed": null,
+      "native_source": {
+        "archive": "editions/adzom-2000/original-images.zip",
+        "member": "0071.png",
+        "sha256": "765693baed3d79028b774caa02de9714ee1c49aa2777879e457adc0f1ecfb1b0",
+        "native_dimensions": [
+          5696,
+          1344
+        ],
+        "source_bytes_match_manifest": true,
+        "historical_candidate_crop_pixels_match_native": true
+      },
+      "evidence": [
+        {
+          "path": "evidence/chapter-01/independent-signs-late-20260927/p069.png",
+          "sha256": "765693baed3d79028b774caa02de9714ee1c49aa2777879e457adc0f1ecfb1b0",
+          "pdf_page": 69,
+          "bdrc_image": 71,
+          "source_member": "0071.png",
+          "pixel_bounds": [
+            0,
+            0,
+            5696,
+            1344
+          ],
+          "derivation": "byte-identical archived PNG",
+          "coordinates": "zero-based half-open source pixels"
+        },
+        {
+          "path": "evidence/chapter-01/independent-signs-late-20260927/p069-opening.png",
+          "sha256": "ffbddbd9388d3fc94d32efaf4e2d7fa8dbb4fcdaf9d1e7493825051a292d616c",
+          "pdf_page": 69,
+          "bdrc_image": 71,
+          "source_member": "0071.png",
+          "pixel_bounds": [
+            550,
+            240,
+            2550,
+            430
+          ],
+          "derivation": "unscaled rectangular native crop; no enhancement",
+          "coordinates": "zero-based half-open source pixels"
+        },
+        {
+          "path": "evidence/chapter-01/independent-signs-late-20260927/p069-targetrow-0.png",
+          "sha256": "56e53e4fbf1500d876c776cbb5c0fcb1e860478fd8c3d14dec43f64cf8fe88bd",
+          "pdf_page": 69,
+          "bdrc_image": 71,
+          "source_member": "0071.png",
+          "pixel_bounds": [
+            550,
+            380,
+            2200,
+            610
+          ],
+          "derivation": "unscaled rectangular native crop; no enhancement",
+          "coordinates": "zero-based half-open source pixels"
+        },
+        {
+          "path": "evidence/chapter-01/independent-signs-late-20260927/p069-targetrow-1.png",
+          "sha256": "82756fda7a1fe19bcabcd94f64970d6e6333a25ae9c2650558f3e4c9928cc954",
+          "pdf_page": 69,
+          "bdrc_image": 71,
+          "source_member": "0071.png",
+          "pixel_bounds": [
+            2100,
+            380,
+            3800,
+            610
+          ],
+          "derivation": "unscaled rectangular native crop; no enhancement",
+          "coordinates": "zero-based half-open source pixels"
+        },
+        {
+          "path": "evidence/chapter-01/independent-signs-late-20260927/p069-targetrow-2.png",
+          "sha256": "62b604120b5b7af5ac8262c3a1584ec4a000933d819b54c6c39cea77ddbf94d3",
+          "pdf_page": 69,
+          "bdrc_image": 71,
+          "source_member": "0071.png",
+          "pixel_bounds": [
+            3700,
+            380,
+            5350,
+            610
+          ],
+          "derivation": "unscaled rectangular native crop; no enhancement",
+          "coordinates": "zero-based half-open source pixels"
+        },
+        {
+          "path": "evidence/chapter-01/signs-recovery-review-20260927/U01757.png",
+          "sha256": "f7df1ca2968c3d770fb74f140ef9324dd0b7f2e8291aec50c3ef8ffca0dba4af",
+          "source_member": "0071.png",
+          "pixel_bounds": [
+            2750,
+            380,
+            4450,
+            610
+          ],
+          "derivation": "historical native crop; independently reidentified and pixels reverified",
+          "coordinates": "zero-based half-open source pixels"
+        }
+      ],
+      "limits": [
+        "Only the specified target boundary is a punctuation judgment; no global normalization or whole-page proofreading.",
+        "Neighbor descriptions state the actual displayed wording; unseen continuations are not certified.",
+        "Unicode spaces distinguish separated marks; they do not reproduce measured physical spacing.",
+        "Expected candidate readings were available; this independent correspondence check is not blind."
+      ]
+    },
+    {
+      "id": "SIGNS-INDEPENDENT-LATE-20260927-U02080",
+      "units": [
+        "U02080"
+      ],
+      "source_tibetan_unchanged": "ལྷ་མོའི་མདོག་དང་ཞལ་ཕྱག་ནི།",
+      "original_units": {
+        "U02080": "ལྷ་མོའི་མདོག་དང་ཞལ་ཕྱག་ནི།"
+      },
+      "replacement_units": {
+        "U02080": "ལྷ་མོའི་མདོག་དང་ཞལ་ཕྱག་ནི། །"
+      },
+      "main_lexical_sequence_identified_from_native": "ལྷ་མོའི་མདོག་དང་ཞལ་ཕྱག་ནི",
+      "page_opening_observed_before_sign_count": "Printed first complete main phrase U02064 ཡེ་ཤེས་དབང་བསྐུར་གྱིས་བརྒྱན་ཏེ, followed by U02065 opening དངོས་གྲུབ. The target is on row4, not the similarly sized phrase group in a neighboring row.",
+      "neighboring_anchors_identified": [
+        {
+          "unit": "U02079",
+          "observed_scope": "row4 preceding ཡན་ལག་འདུས་པའི་ཆོ་ག་ལས"
+        },
+        {
+          "unit": "U02081",
+          "observed_scope": "row4 following གསལ་བར་རྣལ, continued row5 opening འབྱོར་ལུས་གནས་ཏེ"
+        }
+      ],
+      "target_correspondence": "independently confirmed from native page and row context; not accepted from crop label",
+      "finding": "confirmed local punctuation mismatch",
+      "category": "source punctuation",
+      "disposition": "supported proposal; coordinator adoption pending; no canonical edit by reviewer",
+      "confidence": {
+        "target_identification": "high for complete target main wording and stated neighboring scope",
+        "sign_allocation": "high for this local boundary only"
+      },
+      "locator": "Adzom 2000 PDF81 / BDRC I1KG11710 image83 / main row4",
+      "observed_signs": "Two detached shads follow ནི before གསལ. The second vertical is separated from the following ga body; neighboring lower curved strokes are excluded from the sign count.",
+      "terminal_shad_count": 2,
+      "terminal_tsheg_confirmed": null,
+      "native_source": {
+        "archive": "editions/adzom-2000/original-images.zip",
+        "member": "0083.png",
+        "sha256": "bc6cef50f76c7152083dccda4ef3176c4b578d5f75ec1023a9099f6523eab01d",
+        "native_dimensions": [
+          5696,
+          1344
+        ],
+        "source_bytes_match_manifest": true,
+        "historical_candidate_crop_pixels_match_native": true
+      },
+      "evidence": [
+        {
+          "path": "evidence/chapter-01/independent-signs-late-20260927/p081.png",
+          "sha256": "bc6cef50f76c7152083dccda4ef3176c4b578d5f75ec1023a9099f6523eab01d",
+          "pdf_page": 81,
+          "bdrc_image": 83,
+          "source_member": "0083.png",
+          "pixel_bounds": [
+            0,
+            0,
+            5696,
+            1344
+          ],
+          "derivation": "byte-identical archived PNG",
+          "coordinates": "zero-based half-open source pixels"
+        },
+        {
+          "path": "evidence/chapter-01/independent-signs-late-20260927/p081-opening.png",
+          "sha256": "ab00631addd2bb3080afba161b56a1d65b55b43abcc982813993e05556b778de",
+          "pdf_page": 81,
+          "bdrc_image": 83,
+          "source_member": "0083.png",
+          "pixel_bounds": [
+            550,
+            240,
+            2550,
+            430
+          ],
+          "derivation": "unscaled rectangular native crop; no enhancement",
+          "coordinates": "zero-based half-open source pixels"
+        },
+        {
+          "path": "evidence/chapter-01/independent-signs-late-20260927/p081-targetrow-0.png",
+          "sha256": "653f0910be24ed110c9a59cc03a124b5cfb58e3060fc13e3869e7baf290b81f8",
+          "pdf_page": 81,
+          "bdrc_image": 83,
+          "source_member": "0083.png",
+          "pixel_bounds": [
+            550,
+            620,
+            2200,
+            810
+          ],
+          "derivation": "unscaled rectangular native crop; no enhancement",
+          "coordinates": "zero-based half-open source pixels"
+        },
+        {
+          "path": "evidence/chapter-01/independent-signs-late-20260927/p081-targetrow-1.png",
+          "sha256": "5ba2b46bde61715a7adfe199c289c2680ce5c90bebfe2d08ce13e389cae57e7d",
+          "pdf_page": 81,
+          "bdrc_image": 83,
+          "source_member": "0083.png",
+          "pixel_bounds": [
+            2100,
+            620,
+            3800,
+            810
+          ],
+          "derivation": "unscaled rectangular native crop; no enhancement",
+          "coordinates": "zero-based half-open source pixels"
+        },
+        {
+          "path": "evidence/chapter-01/independent-signs-late-20260927/p081-targetrow-2.png",
+          "sha256": "d4fef47d6fa913a6a4ad77fa1094880ac69e42769ea7d398984c274882243c1e",
+          "pdf_page": 81,
+          "bdrc_image": 83,
+          "source_member": "0083.png",
+          "pixel_bounds": [
+            3700,
+            620,
+            5350,
+            810
+          ],
+          "derivation": "unscaled rectangular native crop; no enhancement",
+          "coordinates": "zero-based half-open source pixels"
+        },
+        {
+          "path": "evidence/chapter-01/signs-recovery-review-20260927/U02080.png",
+          "sha256": "c00e4b4fa18d844c7afb8d0b551eb90ccc3fd002d2b3bfbb09dd945e5913586f",
+          "source_member": "0083.png",
+          "pixel_bounds": [
+            3450,
+            620,
+            5100,
+            810
+          ],
+          "derivation": "historical native crop; independently reidentified and pixels reverified",
+          "coordinates": "zero-based half-open source pixels"
+        },
+        {
+          "path": "evidence/chapter-01/independent-signs-late-20260927/p081-next-anchor-continuation.png",
+          "sha256": "59631d7a87f4f5cbad5cbc39959ee0592a46817f7595121e74f9d589fba665d4",
+          "pdf_page": 81,
+          "bdrc_image": 83,
+          "source_member": "0083.png",
+          "pixel_bounds": [
+            630,
+            755,
+            1800,
+            965
+          ],
+          "derivation": "unscaled rectangular native crop; no enhancement",
+          "coordinates": "zero-based half-open source pixels"
+        }
+      ],
+      "limits": [
+        "Only the specified target boundary is a punctuation judgment; no global normalization or whole-page proofreading.",
+        "Neighbor descriptions state the actual displayed wording; unseen continuations are not certified.",
+        "Unicode spaces distinguish separated marks; they do not reproduce measured physical spacing.",
+        "Expected candidate readings were available; this independent correspondence check is not blind."
+      ]
+    }
+  ],
+  "summary": {
+    "targets_reidentified": 4,
+    "supported_punctuation_proposals": 4,
+    "canonical_edits": 0,
+    "full_page_proofreading": false,
+    "chapter_completion_gate_passed": false
+  }
+}
