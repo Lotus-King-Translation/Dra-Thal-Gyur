@@ -2002,5 +2002,103 @@
     "witness": "Tingkye",
     "locator": "PDF 39; BDRC image 432; focused native crop",
     "review": "reviews/chapter-01/tingkye-root.md"
+  },
+  {
+    "id": "TK-REC-20260927-001",
+    "witness": "Tingkye",
+    "units": [
+      "U00183",
+      "U00184"
+    ],
+    "comparison_reading": "Row4 right has lha dbang gis ni di skad; row5 opens gsol, followed by an invocation ending bcom ldan das, then di ltar snang ba dam pa nyid, then bsam gyis mi khyab dus pa…",
+    "status": "false_local_omission_claim_withdrawn",
+    "confidence": "high for presence/order of the two verses; no exact invocation spelling certification",
+    "locator": "PDF 6; BDRC image 399; printed 391; rows [4, 5]",
+    "rationale": "Both verses corresponding to U183 and U184 are present between U182 and U185. The two-verse absence claim is rejected. Exact opening invocation vowel, number/form of kye syllables, and pa yi/pai spelling in the right flank are outside this presence audit. The retained script supplied expected e ma kye kye; this review does not adopt that expected string as fully authenticated.",
+    "decision": "Retain U183 and U184 in Adzom; label prior Tingkye absence claim withdrawn. Preserve any recovered old claim only as superseded history.",
+    "evidence": [
+      "evidence/chapter-01/tingkye-recovery-review-20260927/p006.png",
+      "evidence/chapter-01/tingkye-recovery-review-20260927/p006-r4-right.png",
+      "evidence/chapter-01/tingkye-recovery-review-20260927/p006-r5-left.png",
+      "evidence/chapter-01/tingkye-recovery-review-20260927/p006-r5-middle.png"
+    ],
+    "review": "reviews/chapter-01/tingkye-recovery-review-20260927.md",
+    "supersedes_or_rechecks": [
+      "TK-C-006-U00183",
+      "TK-EARLY-AUDIT-001"
+    ],
+    "review_method": "guided_fresh_visual_review_not_blind"
+  },
+  {
+    "id": "TK-REC-20260927-002",
+    "witness": "Tingkye",
+    "units": [
+      "U00182"
+    ],
+    "comparison_reading": "Row4-right di skad continues with row5-left gsol. After its punctuation, the next syllables begin the invocation.",
+    "status": "unsupported_nas_addition_withdrawn",
+    "confidence": "high for the bounded gsol-to-invocation junction",
+    "locator": "PDF 6; BDRC image 399; printed 391; rows [4, 5]",
+    "rationale": "At the end of U182, gsol is followed by punctuation and the invocation; no nas syllable intervenes at this junction. Invocation orthography remains qualified in TK-REC-20260927-001. This finding does not certify unrelated lexical records from the lost report.",
+    "decision": "Withdraw the claimed Tingkye gsol nas addition at U182. Do not insert nas into the governing base.",
+    "evidence": [
+      "evidence/chapter-01/tingkye-recovery-review-20260927/p006.png",
+      "evidence/chapter-01/tingkye-recovery-review-20260927/p006-r4-right.png",
+      "evidence/chapter-01/tingkye-recovery-review-20260927/p006-r5-left.png"
+    ],
+    "review": "reviews/chapter-01/tingkye-recovery-review-20260927.md",
+    "supersedes_or_rechecks": [
+      "TK-C-006-U00182"
+    ],
+    "review_method": "guided_fresh_visual_review_not_blind"
+  },
+  {
+    "id": "TK-REC-20260927-003",
+    "witness": "Tingkye",
+    "units": [
+      "U00975"
+    ],
+    "comparison_reading": "de 'das nga yis bzung ba yis / sangs rgyas stong dang rtsa gnyis ni / 'di la [row break] brten nas nges par 'byung",
+    "status": "local_omission_supported",
+    "confidence": "high for this local sequence and absence",
+    "locator": "PDF 27; BDRC image 420; printed 412; rows [3, 4]",
+    "rationale": "The U974 phrase is directly followed by U976 in row3; U975 is absent at that junction. U977 begins at row3 right and continues at row4 left. No global absence elsewhere, displaced occurrence, exhaustive glyph comparison, or punctuation equivalence is certified.",
+    "decision": "Record U975 as locally absent in Tingkye at PDF27 row3, retaining both physical flanks. Retain Adzom U975 unchanged.",
+    "evidence": [
+      "evidence/chapter-01/tingkye-recovery-review-20260927/p027.png",
+      "evidence/chapter-01/tingkye-recovery-review-20260927/p027-r3-right.png",
+      "evidence/chapter-01/tingkye-recovery-review-20260927/p027-r4-left.png"
+    ],
+    "review": "reviews/chapter-01/tingkye-recovery-review-20260927.md",
+    "supersedes_or_rechecks": [
+      "TK-C-027-U00975",
+      "TK-EARLY-AUDIT-002"
+    ],
+    "review_method": "guided_fresh_visual_review_not_blind"
+  },
+  {
+    "id": "TK-REC-20260927-004",
+    "witness": "Tingkye",
+    "units": [
+      "U01174",
+      "U01175"
+    ],
+    "comparison_reading": "dus kyi rim pa drug cu 'byung / nyon [row break] mongs las dbang gzhan 'gyur phyir / 'dzam bu gling pa rnams la yang / brgya yi bar la dus rim ni",
+    "status": "local_omission_supported_two_unit_scope",
+    "confidence": "high for this local sequence and two-verse absence",
+    "locator": "PDF 32; BDRC image 425; printed 417; rows [3, 4]",
+    "rationale": "U1173 begins with nyon at row3 end and continues mongs…phyir at row4 left. It proceeds directly to U1176, followed by U1177. Both U1174 and U1175 are absent at that junction. Exact fine-letter and punctuation equivalence outside the identifying phrases, global absence and displacement elsewhere are not certified.",
+    "decision": "Index both U1174 and U1175 in the Tingkye local gap finding. Retain both Adzom verses unchanged.",
+    "evidence": [
+      "evidence/chapter-01/tingkye-recovery-review-20260927/p032.png",
+      "evidence/chapter-01/tingkye-recovery-review-20260927/p032-r3-right.png",
+      "evidence/chapter-01/tingkye-recovery-review-20260927/p032-r4-left.png"
+    ],
+    "review": "reviews/chapter-01/tingkye-recovery-review-20260927.md",
+    "supersedes_or_rechecks": [
+      "TK-C-032-U01174",
+      "TK-EARLY-AUDIT-003"
+    ],
+    "review_method": "guided_fresh_visual_review_not_blind"
   }
 ]

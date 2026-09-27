@@ -749,15 +749,15 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00182"></a>
 
-**U00182** ལྷ་དབང་གིས་ནི་འདི་སྐད་གསོལ། །
+**U00182** ལྷ་དབང་གིས་ནི་འདི་སྐད་གསོལ། ། [TK-REC-20260927-002](#tk-rec-20260927-002)
 
 <a id="u00183"></a>
 
-**U00183** ཨེ་མ་ཀྱེ་ཀྱེ་བཅོམ་ལྡན་འདས། །
+**U00183** ཨེ་མ་ཀྱེ་ཀྱེ་བཅོམ་ལྡན་འདས། ། [TK-REC-20260927-001](#tk-rec-20260927-001)
 
 <a id="u00184"></a>
 
-**U00184** འདི་ལྟར་སྣང་བ་དམ་པ་ཉིད། །
+**U00184** འདི་ལྟར་སྣང་བ་དམ་པ་ཉིད། ། [TK-REC-20260927-001](#tk-rec-20260927-001)
 
 <a id="u00185"></a>
 
@@ -3921,7 +3921,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00975"></a>
 
-**U00975** བསྟན་པའི་སྲོག་ཤིང་དམ་པ་ཡི། །
+**U00975** བསྟན་པའི་སྲོག་ཤིང་དམ་པ་ཡི། ། [TK-REC-20260927-003](#tk-rec-20260927-003)
 
 <a id="u00976"></a>
 
@@ -4717,11 +4717,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01174"></a>
 
-**U01174** རང་མཐུན་སྤྱི་དོན་ལས་ཀྱི་ཡང༌། །
+**U01174** རང་མཐུན་སྤྱི་དོན་ལས་ཀྱི་ཡང༌། ། [TK-REC-20260927-004](#tk-rec-20260927-004)
 
 <a id="u01175"></a>
 
-**U01175** ཚེ་ལོ་ཉིད་ནི་སྟོང་པ་ལས། །
+**U01175** ཚེ་ལོ་ཉིད་ནི་སྟོང་པ་ལས། ། [TK-REC-20260927-004](#tk-rec-20260927-004)
 
 <a id="u01176"></a>
 
@@ -13945,6 +13945,86 @@ Units: [U01465](#u01465).
 
 **Evidence:** [p039-u1465.png](evidence/chapter-01/extension/tingkye-root/p039-u1465.png). [Review and coverage](reviews/chapter-01/tingkye-root.md).
 
+<a id="tk-rec-20260927-001"></a>
+
+### TK-REC-20260927-001 — Tingkye
+
+Units: [U00183](#u00183), [U00184](#u00184).
+
+**Current Adzom main context:** ཨེ་མ་ཀྱེ་ཀྱེ་བཅོམ་ལྡན་འདས། ། / འདི་ལྟར་སྣང་བ་དམ་པ་ཉིད། །
+
+**Comparison reading/snippet:** Row4 right has lha dbang gis ni di skad; row5 opens gsol, followed by an invocation ending bcom ldan das, then di ltar snang ba dam pa nyid, then bsam gyis mi khyab dus pa…
+
+**Status:** false_local_omission_claim_withdrawn. **Confidence:** high for presence/order of the two verses; no exact invocation spelling certification.
+
+**Locator:** PDF 6; BDRC image 399; printed 391; rows [4, 5].
+
+**Observation:** Both verses corresponding to U183 and U184 are present between U182 and U185. The two-verse absence claim is rejected. Exact opening invocation vowel, number/form of kye syllables, and pa yi/pai spelling in the right flank are outside this presence audit. The retained script supplied expected e ma kye kye; this review does not adopt that expected string as fully authenticated.
+
+**Choice and reason:** Retain U183 and U184 in Adzom; label prior Tingkye absence claim withdrawn. Preserve any recovered old claim only as superseded history.
+
+**Evidence:** [p006.png](evidence/chapter-01/tingkye-recovery-review-20260927/p006.png), [p006-r4-right.png](evidence/chapter-01/tingkye-recovery-review-20260927/p006-r4-right.png), [p006-r5-left.png](evidence/chapter-01/tingkye-recovery-review-20260927/p006-r5-left.png), [p006-r5-middle.png](evidence/chapter-01/tingkye-recovery-review-20260927/p006-r5-middle.png). [Review and coverage](reviews/chapter-01/tingkye-recovery-review-20260927.md).
+
+<a id="tk-rec-20260927-002"></a>
+
+### TK-REC-20260927-002 — Tingkye
+
+Units: [U00182](#u00182).
+
+**Current Adzom main context:** ལྷ་དབང་གིས་ནི་འདི་སྐད་གསོལ། །
+
+**Comparison reading/snippet:** Row4-right di skad continues with row5-left gsol. After its punctuation, the next syllables begin the invocation.
+
+**Status:** unsupported_nas_addition_withdrawn. **Confidence:** high for the bounded gsol-to-invocation junction.
+
+**Locator:** PDF 6; BDRC image 399; printed 391; rows [4, 5].
+
+**Observation:** At the end of U182, gsol is followed by punctuation and the invocation; no nas syllable intervenes at this junction. Invocation orthography remains qualified in TK-REC-20260927-001. This finding does not certify unrelated lexical records from the lost report.
+
+**Choice and reason:** Withdraw the claimed Tingkye gsol nas addition at U182. Do not insert nas into the governing base.
+
+**Evidence:** [p006.png](evidence/chapter-01/tingkye-recovery-review-20260927/p006.png), [p006-r4-right.png](evidence/chapter-01/tingkye-recovery-review-20260927/p006-r4-right.png), [p006-r5-left.png](evidence/chapter-01/tingkye-recovery-review-20260927/p006-r5-left.png). [Review and coverage](reviews/chapter-01/tingkye-recovery-review-20260927.md).
+
+<a id="tk-rec-20260927-003"></a>
+
+### TK-REC-20260927-003 — Tingkye
+
+Units: [U00975](#u00975).
+
+**Current Adzom main context:** བསྟན་པའི་སྲོག་ཤིང་དམ་པ་ཡི། །
+
+**Comparison reading/snippet:** de 'das nga yis bzung ba yis / sangs rgyas stong dang rtsa gnyis ni / 'di la [row break] brten nas nges par 'byung
+
+**Status:** local_omission_supported. **Confidence:** high for this local sequence and absence.
+
+**Locator:** PDF 27; BDRC image 420; printed 412; rows [3, 4].
+
+**Observation:** The U974 phrase is directly followed by U976 in row3; U975 is absent at that junction. U977 begins at row3 right and continues at row4 left. No global absence elsewhere, displaced occurrence, exhaustive glyph comparison, or punctuation equivalence is certified.
+
+**Choice and reason:** Record U975 as locally absent in Tingkye at PDF27 row3, retaining both physical flanks. Retain Adzom U975 unchanged.
+
+**Evidence:** [p027.png](evidence/chapter-01/tingkye-recovery-review-20260927/p027.png), [p027-r3-right.png](evidence/chapter-01/tingkye-recovery-review-20260927/p027-r3-right.png), [p027-r4-left.png](evidence/chapter-01/tingkye-recovery-review-20260927/p027-r4-left.png). [Review and coverage](reviews/chapter-01/tingkye-recovery-review-20260927.md).
+
+<a id="tk-rec-20260927-004"></a>
+
+### TK-REC-20260927-004 — Tingkye
+
+Units: [U01174](#u01174), [U01175](#u01175).
+
+**Current Adzom main context:** རང་མཐུན་སྤྱི་དོན་ལས་ཀྱི་ཡང༌། ། / ཚེ་ལོ་ཉིད་ནི་སྟོང་པ་ལས། །
+
+**Comparison reading/snippet:** dus kyi rim pa drug cu 'byung / nyon [row break] mongs las dbang gzhan 'gyur phyir / 'dzam bu gling pa rnams la yang / brgya yi bar la dus rim ni
+
+**Status:** local_omission_supported_two_unit_scope. **Confidence:** high for this local sequence and two-verse absence.
+
+**Locator:** PDF 32; BDRC image 425; printed 417; rows [3, 4].
+
+**Observation:** U1173 begins with nyon at row3 end and continues mongs…phyir at row4 left. It proceeds directly to U1176, followed by U1177. Both U1174 and U1175 are absent at that junction. Exact fine-letter and punctuation equivalence outside the identifying phrases, global absence and displacement elsewhere are not certified.
+
+**Choice and reason:** Index both U1174 and U1175 in the Tingkye local gap finding. Retain both Adzom verses unchanged.
+
+**Evidence:** [p032.png](evidence/chapter-01/tingkye-recovery-review-20260927/p032.png), [p032-r3-right.png](evidence/chapter-01/tingkye-recovery-review-20260927/p032-r3-right.png), [p032-r4-left.png](evidence/chapter-01/tingkye-recovery-review-20260927/p032-r4-left.png). [Review and coverage](reviews/chapter-01/tingkye-recovery-review-20260927.md).
+
 ## A/B/S transcript apparatus
 
 All 359 exact differences are represented once in the following 183 readable loci. Complete source-unit quotations avoid splitting Tibetan combining sequences. A/B/S offsets are zero-based half-open Unicode-character ranges in the original full files. Empty readings, where present, are transcript absences only. These quotations preserve exact strings, including delimiters; fenced presentation protects punctuation from Markdown.
@@ -19082,4 +19162,4 @@ The continuous main-Tibetan lexical pass is recorded in the [early](reviews/chap
 
 Continuous reliable comparison-witness collation is unfinished. The [Tsamdrak](reviews/chapter-01/tsamdrak-collation.md), [Tingkye](reviews/chapter-01/tingkye-collation.md), and [Tharpaling](reviews/chapter-01/tharpaling-collation.md) attempts document concrete limits of the current readings and the need for qualified further reading. These limits are not a claim that all those sources are objectively illegible. The [comparison extension](reviews/chapter-01/comparison-extension.md) now joins the Dzongsar opening, middle and late main-sequence passes through its actual colophon. It also records new manuscript attempts and exact reading limits. The earlier [Degé report](reviews/chapter-01/independent-openings.md) and its second reading also remain limited.
 
-Sichuan can currently be cited only as its supplied transcript where no full scan is available. Adzom 1973–1977 and Gcn need verified root mappings before collation. Catalogue-only leads are recorded in SOURCES.md and are not counted as collated witnesses. Chapters 2–6 have not been started in this edition.
+Sichuan can currently be cited only as its supplied transcript where no full scan is available. Adzom 1973–1977 and Gcn now have [recovered boundary mappings](reviews/chapter-01/container-mapping-recovery-20260927.md); complete internal-exposure accounting and collation remain open. Catalogue-only leads are recorded in SOURCES.md and are not counted as collated witnesses. Chapters 2–6 have not been started in this edition.

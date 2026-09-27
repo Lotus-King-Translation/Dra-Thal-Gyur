@@ -86,3 +86,9 @@ The [coverage ledger](collation/chapter-01/scan-coverage.json) and [continuation
 ## Comparison extension
 
 The [current comparison progress](reviews/chapter-01/comparison-extension.md) supersedes earlier progress claims. Dzongsar now has a main-lexical pass through PDF121. Gadkar’s Chapter1 boundary is PDF91/virtual image531/backing I1BL8870538.jpg, row4; Degé’s is PDF54/image700, row3. These boundary observations do not certify the intervening text. Zhichen and W1ER119 attempts document reading-capability limits rather than inaccessible or missing source material.
+
+## Recovered container mappings and targeted review — 2026-09-27
+
+The [fresh boundary review](reviews/chapter-01/container-mapping-recovery-20260927.md) supersedes the earlier unmapped-container status: Adzom 1973–1977 root PDF11–215, Chapter 1 end112; Gcn root title407, incipit408, Chapter 1 end484 row4, terminal555. Eight named composite renders were checked. These are boundary-based locators; every internal exposure and full comparison remain unverified. Gcn provider numbering is not inferred from the preview manifest.
+
+The [Tingkye junction audit](reviews/chapter-01/tingkye-recovery-review-20260927.md) rechecks three physical junctions and records two withdrawn claims plus two bounded local omissions. It does not restore the missing continuous reports. The [base review](reviews/chapter-01/base-recovery-review-20260927.md) preserves four unresolved loci after wider native-image inspection.

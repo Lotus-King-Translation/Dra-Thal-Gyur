@@ -11,7 +11,7 @@
   "scan_restored_main_verse_lines": 13,
   "scan_restored_source_headings": 1,
   "scan_correction_or_layer_separation_records": 47,
-  "local_comparison_scan_findings_including_candidates": 107,
+  "local_comparison_scan_findings_including_candidates": 111,
   "base_scan_fully_proofread": false,
   "all_acquired_witnesses_fully_collated": false,
   "complete_every_conflict_claim": false,
@@ -208,8 +208,11 @@
     "Adzom title ornamental/Sanskrit text",
     "Adzom PDF102 inscription",
     "U01522 fused main-text cluster; U02615 exact annotation; U02620 inked cluster",
-    "Root mapping of Adzom1973 and Gcn containers",
+    "Continuous collation and internal-exposure accounting for mapped Adzom1973 and Gcn ranges",
     "Sichuan full scan unavailable"
   ],
-  "chapter_markdown_sha256": "e52092c969b78c1cacfd7764724df84e39ba5bd98f4bee78c05b5e583f4b93d9"
+  "recovery_checkpoint": "recovery/2026-09-27-local/recovery-audit.json",
+  "missing_later_original_reports": 54,
+  "recovery_scope": "Accessible local and remote material preserved; fresh reviews separately identified; missing cloud originals not reconstructed by assertion.",
+  "chapter_markdown_sha256": "227dfe39e85b96dc96f05b5aac1aa1001c6b423f1d676efab0c7fa14b4211cc3"
 }

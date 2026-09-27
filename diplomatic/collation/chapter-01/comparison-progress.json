@@ -14,11 +14,12 @@
     },
     {
       "witness": "Tingkye",
-      "coverage": "Earlier opening plus new PDF35–39 / U1277–U1485 partial",
+      "coverage": "Earlier opening plus new PDF35–39 / U1277–U1485 partial; fresh targeted presence/absence checks at PDF6,27,32",
       "limits": "Local lexical comparison and bounded questions; remaining continuation is underway, not yet incorporated",
       "reviews": [
         "reviews/chapter-01/tingkye-collation.md",
-        "reviews/chapter-01/tingkye-root.md"
+        "reviews/chapter-01/tingkye-root.md",
+        "reviews/chapter-01/tingkye-recovery-review-20260927.md"
       ]
     },
     {
@@ -31,8 +32,8 @@
     },
     {
       "witness": "Tharpaling",
-      "coverage": "Earlier PDF1–3; Chapter1 end PDF71",
-      "limits": "Continuation underway; only saved earlier report is incorporated",
+      "coverage": "Earlier PDF1–3; Chapter1 end PDF71; surviving reconstruction record covers PDF52–56 partially and S01–S03 junctions",
+      "limits": "Earlier lost continuous reports are not recovered. Partial reconstruction is separately preserved; remaining scan comparison must be rebuilt with exact uncertainty.",
       "reviews": [
         "reviews/chapter-01/tharpaling-collation.md"
       ]
@@ -78,5 +79,23 @@
         "reviews/chapter-01/langtang-opening-gap.md"
       ]
     }
-  ]
+  ],
+  "recovery_context": "54 later report files remain absent; fresh targeted reviews do not recreate the lost continuous apparatus.",
+  "mapped_containers": {
+    "review": "reviews/chapter-01/container-mapping-recovery-20260927.md",
+    "Adzom1973": {
+      "root_pdf": [
+        11,
+        215
+      ],
+      "chapter1_end_pdf": 112
+    },
+    "Gcn": {
+      "title_pdf": 407,
+      "incipit_pdf": 408,
+      "chapter1_end_pdf": 484,
+      "terminal_pdf": 555
+    },
+    "complete_internal_collation": false
+  }
 }

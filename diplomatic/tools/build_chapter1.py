@@ -44,7 +44,7 @@ def main():
 
     def evidence(paths):
         for path in paths:
-            assert (out / path).is_file(), path
+            assert (out / path).is_file() and (out / path).stat().st_size > 0, path
         return ', '.join(f'[{Path(x).name}]({x})' for x in paths)
 
     for rec in opening:
@@ -242,7 +242,7 @@ def main():
     doc += ['## Remaining work before a completed-chapter commit', '',
             'The continuous main-Tibetan lexical pass is recorded in the [early](reviews/chapter-01/continuous-early.md) and [late](reviews/chapter-01/continuous-late.md) reports, supplemented by opening/boundary inspection. This has not certified every punctuation sign, source ornament or title glyph. U01522 remains uncertain; the exact U02615 annotation could not be established. The title material, provisional portrait caption, and compressed boundary inscription remain open.', '',
             'Continuous reliable comparison-witness collation is unfinished. The [Tsamdrak](reviews/chapter-01/tsamdrak-collation.md), [Tingkye](reviews/chapter-01/tingkye-collation.md), and [Tharpaling](reviews/chapter-01/tharpaling-collation.md) attempts document concrete limits of the current readings and the need for qualified further reading. These limits are not a claim that all those sources are objectively illegible. The [comparison extension](reviews/chapter-01/comparison-extension.md) now joins the Dzongsar opening, middle and late main-sequence passes through its actual colophon. It also records new manuscript attempts and exact reading limits. The earlier [Degé report](reviews/chapter-01/independent-openings.md) and its second reading also remain limited.', '',
-            'Sichuan can currently be cited only as its supplied transcript where no full scan is available. Adzom 1973–1977 and Gcn need verified root mappings before collation. Catalogue-only leads are recorded in SOURCES.md and are not counted as collated witnesses. Chapters 2–6 have not been started in this edition.', '']
+            'Sichuan can currently be cited only as its supplied transcript where no full scan is available. Adzom 1973–1977 and Gcn now have [recovered boundary mappings](reviews/chapter-01/container-mapping-recovery-20260927.md); complete internal-exposure accounting and collation remain open. Catalogue-only leads are recorded in SOURCES.md and are not counted as collated witnesses. Chapters 2–6 have not been started in this edition.', '']
     (out / 'chapter-01.md').write_text('\n'.join(doc))
     (data / 'editorial-decisions.json').write_text(json.dumps(decisions, ensure_ascii=False, indent=2) + '\n')
     (data / 'reading-units.json').write_text(json.dumps(output_units, ensure_ascii=False, indent=2) + '\n')
@@ -263,7 +263,10 @@ def main():
                        'Faint Degé endings and interlinear material need reliable reading',
                        'Adzom title ornamental/Sanskrit text', 'Adzom PDF102 inscription',
                        'U01522 fused main-text cluster; U02615 exact annotation; U02620 inked cluster',
-                       'Root mapping of Adzom1973 and Gcn containers', 'Sichuan full scan unavailable'],
+                       'Continuous collation and internal-exposure accounting for mapped Adzom1973 and Gcn ranges', 'Sichuan full scan unavailable'],
+        'recovery_checkpoint': 'recovery/2026-09-27-local/recovery-audit.json',
+        'missing_later_original_reports': 54,
+        'recovery_scope': 'Accessible local and remote material preserved; fresh reviews separately identified; missing cloud originals not reconstructed by assertion.',
         'chapter_markdown_sha256': hashlib.sha256((out / 'chapter-01.md').read_bytes()).hexdigest(),
     }
     (out / 'STATUS.json').write_text(json.dumps(status, ensure_ascii=False, indent=2) + '\n')
