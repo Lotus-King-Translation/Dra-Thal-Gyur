@@ -182,5 +182,13 @@
     "collation/chapter-01/dege-boundary.json"
   ],
   "comparison_extension_ledger": "collation/chapter-01/comparison-progress.json",
-  "comparison_extension_report": "reviews/chapter-01/comparison-extension.md"
+  "comparison_extension_report": "reviews/chapter-01/comparison-extension.md",
+  "recovery_review_reports": [
+    "reviews/chapter-01/base-recovery-review-20260927.json",
+    "reviews/chapter-01/tingkye-recovery-review-20260927.json",
+    "reviews/chapter-01/container-mapping-recovery-20260927.json",
+    "reviews/chapter-01/tharpaling-continuation-review-20260927.json"
+  ],
+  "preserved_partial_report": "collation/chapter-01/recovered-tharpaling.json",
+  "recovery_scope": "Fresh reports retain their bounded visual scopes. Normalized Tharpaling recovery records preserve interrupted report provenance; no full collation inferred."
 }

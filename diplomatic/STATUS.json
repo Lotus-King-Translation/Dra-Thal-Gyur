@@ -11,7 +11,7 @@
   "scan_restored_main_verse_lines": 13,
   "scan_restored_source_headings": 1,
   "scan_correction_or_layer_separation_records": 56,
-  "local_comparison_scan_findings_including_candidates": 111,
+  "local_comparison_scan_findings_including_candidates": 119,
   "base_scan_fully_proofread": false,
   "all_acquired_witnesses_fully_collated": false,
   "complete_every_conflict_claim": false,
@@ -199,7 +199,15 @@
       "collation/chapter-01/dege-boundary.json"
     ],
     "comparison_extension_ledger": "collation/chapter-01/comparison-progress.json",
-    "comparison_extension_report": "reviews/chapter-01/comparison-extension.md"
+    "comparison_extension_report": "reviews/chapter-01/comparison-extension.md",
+    "recovery_review_reports": [
+      "reviews/chapter-01/base-recovery-review-20260927.json",
+      "reviews/chapter-01/tingkye-recovery-review-20260927.json",
+      "reviews/chapter-01/container-mapping-recovery-20260927.json",
+      "reviews/chapter-01/tharpaling-continuation-review-20260927.json"
+    ],
+    "preserved_partial_report": "collation/chapter-01/recovered-tharpaling.json",
+    "recovery_scope": "Fresh reports retain their bounded visual scopes. Normalized Tharpaling recovery records preserve interrupted report provenance; no full collation inferred."
   },
   "unresolved": [
     "Complete physical punctuation/sign and title proofreading",
@@ -214,5 +222,5 @@
   "recovery_checkpoint": "recovery/2026-09-27-local/recovery-audit.json",
   "missing_later_original_reports": 54,
   "recovery_scope": "Accessible local and remote material preserved; fresh reviews separately identified; missing cloud originals not reconstructed by assertion.",
-  "chapter_markdown_sha256": "22517ae6821c34f3df3f1f95f539630fd052cc3a969dc7e7ac4946f6f2a06520"
+  "chapter_markdown_sha256": "a6fd79763dcf23baf6e55f1202e4d6584562d9666d0ed94c2889e43a05e19afd"
 }

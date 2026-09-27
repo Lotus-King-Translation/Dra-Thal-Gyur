@@ -5117,7 +5117,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01274"></a>
 
-**U01274** གསུམ་གསུམ་ཉིད་དེ་བཅུ་གཉིས་ལ། ། [A2000-C01-S01](#a2000-c01-s01) [L1-0078](#l1-0078) [DZ-MID-060-RESTORATION](#dz-mid-060-restoration) [W-C01-110](reviews/chapter-01/wikisource.md#w-c01-110)
+**U01274** གསུམ་གསུམ་ཉིད་དེ་བཅུ་གཉིས་ལ། ། [A2000-C01-S01](#a2000-c01-s01) [L1-0078](#l1-0078) [DZ-MID-060-RESTORATION](#dz-mid-060-restoration) [TH-REC-S01](#th-rec-s01) [W-C01-110](reviews/chapter-01/wikisource.md#w-c01-110)
 
 **Restored main text — [A2000-C01-S01](#a2000-c01-s01)**
 
@@ -5129,7 +5129,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01275"></a>
 
-**U01275** ས་ཡི་ཟུག་པས་རྡུལ་རྣམས་འབྱིན། །
+**U01275** ས་ཡི་ཟུག་པས་རྡུལ་རྣམས་འབྱིན། ། [TH-REC-S01](#th-rec-s01)
 
 <a id="u01276"></a>
 
@@ -7557,7 +7557,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01882"></a>
 
-**U01882** ཞག་དང་ཟླ་བ་ལོ་རྣམས་ཀྱིས། ། [A2000-C01-S02](#a2000-c01-s02) [L1-0128](#l1-0128) [DZ-LATE-17](#dz-late-17) [W-C01-188](reviews/chapter-01/wikisource.md#w-c01-188)
+**U01882** ཞག་དང་ཟླ་བ་ལོ་རྣམས་ཀྱིས། ། [A2000-C01-S02](#a2000-c01-s02) [L1-0128](#l1-0128) [DZ-LATE-17](#dz-late-17) [TH-REC-S02](#th-rec-s02) [W-C01-188](reviews/chapter-01/wikisource.md#w-c01-188)
 
 **Restored main text — [A2000-C01-S02](#a2000-c01-s02)**
 
@@ -7569,7 +7569,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01883"></a>
 
-**U01883** ཆོས་སྐུ་ངོ་བོ་ཉིད་ཀྱི་སྐུ། །
+**U01883** ཆོས་སྐུ་ངོ་བོ་ཉིད་ཀྱི་སྐུ། ། [TH-REC-S02](#th-rec-s02)
 
 <a id="u01884"></a>
 
@@ -7633,7 +7633,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01899"></a>
 
-**U01899** ཕྱི་ནང་དབུགས་ནི་རྒྱུན་བཅད་ནས། །
+**U01899** ཕྱི་ནང་དབུགས་ནི་རྒྱུན་བཅད་ནས། ། [TH-REC-P052-UNRESOLVED](#th-rec-p052-unresolved)
 
 <a id="u01900"></a>
 
@@ -7789,7 +7789,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01938"></a>
 
-**U01938** སྤོ་འདོད་རྣལ་འབྱོར་སྐལ་ཆེ་བས། ། [L1-0131](#l1-0131)
+**U01938** སྤོ་འདོད་རྣལ་འབྱོར་སྐལ་ཆེ་བས། ། [L1-0131](#l1-0131) [TH-REC-P052-UNRESOLVED](#th-rec-p052-unresolved) [TH-REC-P053-UNRESOLVED](#th-rec-p053-unresolved)
 
 <a id="u01939"></a>
 
@@ -7917,7 +7917,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01970"></a>
 
-**U01970** འབྱུང་བའི་གནད་རྣམས་དྲང་དང་བཟློག །
+**U01970** འབྱུང་བའི་གནད་རྣམས་དྲང་དང་བཟློག ། [TH-REC-P053-UNRESOLVED](#th-rec-p053-unresolved) [TH-REC-P054-UNRESOLVED](#th-rec-p054-unresolved)
 
 <a id="u01971"></a>
 
@@ -8057,7 +8057,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02005"></a>
 
-**U02005** ཐེག་པ་དག་ནི་གཉིས་སུ་འདོད། ། [A2000-C01-S03](#a2000-c01-s03) [L1-0134](#l1-0134) [DZ-LATE-18](#dz-late-18) [W-C01-196](reviews/chapter-01/wikisource.md#w-c01-196)
+**U02005** ཐེག་པ་དག་ནི་གཉིས་སུ་འདོད། ། [A2000-C01-S03](#a2000-c01-s03) [L1-0134](#l1-0134) [DZ-LATE-18](#dz-late-18) [TH-REC-S03](#th-rec-s03) [W-C01-196](reviews/chapter-01/wikisource.md#w-c01-196)
 
 **Restored main text — [A2000-C01-S03](#a2000-c01-s03)**
 
@@ -8069,7 +8069,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02006"></a>
 
-**U02006** རྒྱུ་ལ་གསུམ་ལ་འབྲས་བུར་གཉིས། །
+**U02006** རྒྱུ་ལ་གསུམ་ལ་འབྲས་བུར་གཉིས། ། [TH-REC-S03](#th-rec-s03)
 
 <a id="u02007"></a>
 
@@ -8265,7 +8265,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02055"></a>
 
-**U02055** བསྙེན་པ་བསྒྲུབ་པ་ལས་ཀྱི་མཐའ། །
+**U02055** བསྙེན་པ་བསྒྲུབ་པ་ལས་ཀྱི་མཐའ། ། [TH-REC-P055-UNRESOLVED](#th-rec-p055-unresolved) [TH-REC-P056-UNRESOLVED](#th-rec-p056-unresolved)
 
 <a id="u02056"></a>
 
@@ -8417,7 +8417,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02093"></a>
 
-**U02093** འདི་རྣམས་སྔགས་ཀྱང་ཤེས་བྱས་ལ། །
+**U02093** འདི་རྣམས་སྔགས་ཀྱང་ཤེས་བྱས་ལ། ། [TH-REC-P056-UNRESOLVED](#th-rec-p056-unresolved)
 
 <a id="u02094"></a>
 
@@ -14186,6 +14186,166 @@ Units: [U01174](#u01174), [U01175](#u01175).
 **Choice and reason:** Index both U1174 and U1175 in the Tingkye local gap finding. Retain both Adzom verses unchanged.
 
 **Evidence:** [p032.png](evidence/chapter-01/tingkye-recovery-review-20260927/p032.png), [p032-r3-right.png](evidence/chapter-01/tingkye-recovery-review-20260927/p032-r3-right.png), [p032-r4-left.png](evidence/chapter-01/tingkye-recovery-review-20260927/p032-r4-left.png). [Review and coverage](reviews/chapter-01/tingkye-recovery-review-20260927.md).
+
+<a id="th-rec-s01"></a>
+
+### TH-REC-S01 — Tharpaling 1983 W27491
+
+Units: [U01274](#u01274), [U01275](#u01275).
+
+**Current Adzom main context:** གསུམ་གསུམ་ཉིད་དེ་བཅུ་གཉིས་ལ། ། / [A2000-C01-S01](#a2000-c01-s01) ཆུ་ཡི་ཟུག་པས་དབང་པོ་སྡུད། / བྱེར་བ་ཡིས་ནི་འཁྲུགས་པར་བྱེད། / སྙོམས་པ་ཡིས་ནི་འབྲས་བུ་འབྱིན། / ས་ཡི་ཟུག་པས་རྡུལ་རྣམས་འབྱིན། །
+
+**Comparison reading/snippet:** Three intervening water verses present; readable phrases include chu yi zug pas dbang po sdud and the subsequent byer ba / snyoms pa sequence.
+
+**Status:** false_omission_withdrawn. **Confidence:** high.
+
+**Locator:** Tharpaling PDF35; rows 2 right to 3 left.
+
+**Observation:** The prior crop started at U01275 and excluded the preceding row. Full-page review shows the three verses between U01274 and U01275. Presence is secure; fragmented letters do not justify certifying every syllable or punctuation mark. Provenance: retained interrupted recovery report; this integration performs no new scan reading.
+
+**Choice and reason:** Retain the selected Adzom scan reading as the diplomatic base; record this comparison evidence without importing its wording into the base.
+
+**Evidence:** [p035.png](evidence/chapter-01/recovered-tharpaling/p035.png). [Review and coverage](collation/chapter-01/recovered-tharpaling.json).
+
+<a id="th-rec-s02"></a>
+
+### TH-REC-S02 — Tharpaling 1983 W27491
+
+Units: [U01882](#u01882), [U01883](#u01883).
+
+**Current Adzom main context:** ཞག་དང་ཟླ་བ་ལོ་རྣམས་ཀྱིས། ། / [A2000-C01-S02](#a2000-c01-s02) སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ། / འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ། / སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང་། / ཆོས་སྐུ་ངོ་བོ་ཉིད་ཀྱི་སྐུ། །
+
+**Comparison reading/snippet:** Three intervening verses present; the second has sku yi and the following sprul pa’i sku dang longs sku dang is visible.
+
+**Status:** false_omission_withdrawn. **Confidence:** high.
+
+**Locator:** Tharpaling PDF51; rows 3 far right to 4 left/middle.
+
+**Observation:** The passage lies on PDF51, not the formerly cited PDF50. The first restored verse crosses the row boundary and is partly faint. The visible sequence before chos sku establishes presence, without supplying damaged letters from Adzom. Provenance: retained interrupted recovery report; this integration performs no new scan reading.
+
+**Choice and reason:** Retain the selected Adzom scan reading as the diplomatic base; record this comparison evidence without importing its wording into the base.
+
+**Evidence:** [p051.png](evidence/chapter-01/recovered-tharpaling/p051.png). [Review and coverage](collation/chapter-01/recovered-tharpaling.json).
+
+<a id="th-rec-s03"></a>
+
+### TH-REC-S03 — Tharpaling 1983 W27491
+
+Units: [U02005](#u02005), [U02006](#u02006).
+
+**Current Adzom main context:** ཐེག་པ་དག་ནི་གཉིས་སུ་འདོད། ། / [A2000-C01-S03](#a2000-c01-s03) གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ། / འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ། / འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས། / རྒྱུ་ལ་གསུམ་ལ་འབྲས་བུར་གཉིས། །
+
+**Comparison reading/snippet:** Three intervening verses present, ending with ’bras bu las at the opening of PDF55 before rgyu la gsum la ’bras bur gnyis.
+
+**Status:** false_omission_withdrawn. **Confidence:** high.
+
+**Locator:** Tharpaling PDF54,55; rows 54 row6 to 55 row1.
+
+**Observation:** Full sequential page junction supplies the material that the former PDF53–54 locator missed. Presence of the sequence is secure; heavily inked portions of PDF55 are not certified letter by letter. Provenance: retained interrupted recovery report; this integration performs no new scan reading.
+
+**Choice and reason:** Retain the selected Adzom scan reading as the diplomatic base; record this comparison evidence without importing its wording into the base.
+
+**Evidence:** [p054.png](evidence/chapter-01/recovered-tharpaling/p054.png), [p055.png](evidence/chapter-01/recovered-tharpaling/p055.png). [Review and coverage](collation/chapter-01/recovered-tharpaling.json).
+
+<a id="th-rec-p052-unresolved"></a>
+
+### TH-REC-P052-UNRESOLVED — Tharpaling 1983 W27491
+
+Units: [U01899](#u01899), [U01938](#u01938).
+
+**Current Adzom main context:** ཕྱི་ནང་དབུགས་ནི་རྒྱུན་བཅད་ནས། ། / སྤོ་འདོད་རྣལ་འབྱོར་སྐལ་ཆེ་བས། །
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** unresolved_print_reading. **Confidence:** high confidence in limitation, no reading asserted.
+
+**Locator:** Tharpaling PDF52; rows 1–6.
+
+**Observation:** Rows1–6 visually traversed. The leftmost third, especially rows2–4, has severe dropouts: the starts of U01905/1907 neighborhood and later first verses cannot be read continuously. The right half supplies sequence anchors but no blanket agreement. Provenance: retained interrupted recovery report; this integration performs no new scan reading. The original full-page PNG is empty and preserved as interrupted output; links use the two intact retained halves.
+
+**Choice and reason:** Retain the selected Adzom scan reading as the diplomatic base; record this comparison evidence without importing its wording into the base.
+
+**Evidence:** [p052-L.png](evidence/chapter-01/recovered-tharpaling/p052-L.png), [p052-R.png](evidence/chapter-01/recovered-tharpaling/p052-R.png). [Review and coverage](collation/chapter-01/recovered-tharpaling.json).
+
+<a id="th-rec-p053-unresolved"></a>
+
+### TH-REC-P053-UNRESOLVED — Tharpaling 1983 W27491
+
+Units: [U01938](#u01938), [U01970](#u01970).
+
+**Current Adzom main context:** སྤོ་འདོད་རྣལ་འབྱོར་སྐལ་ཆེ་བས། ། / འབྱུང་བའི་གནད་རྣམས་དྲང་དང་བཟློག །
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** unresolved_print_reading. **Confidence:** high confidence in limitation, no reading asserted.
+
+**Locator:** Tharpaling PDF53; rows 1–6.
+
+**Observation:** Rows1–6 traversed. Upper-left portions and several medial clusters are merged by ink. U01949 and the following material sequence are identifiable; suffixes and the small headings remain partly uncertain. Provenance: retained interrupted recovery report; this integration performs no new scan reading.
+
+**Choice and reason:** Retain the selected Adzom scan reading as the diplomatic base; record this comparison evidence without importing its wording into the base.
+
+**Evidence:** [p053.png](evidence/chapter-01/recovered-tharpaling/p053.png). [Review and coverage](collation/chapter-01/recovered-tharpaling.json).
+
+<a id="th-rec-p054-unresolved"></a>
+
+### TH-REC-P054-UNRESOLVED — Tharpaling 1983 W27491
+
+Units: [U01970](#u01970).
+
+**Current Adzom main context:** འབྱུང་བའི་གནད་རྣམས་དྲང་དང་བཟློག །
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** unresolved_print_reading. **Confidence:** high confidence in limitation, no reading asserted.
+
+**Locator:** Tharpaling PDF54; rows 1–6.
+
+**Observation:** Rows1–6 traversed. Top-right portions of rows1–2 are substantially faded; middle and lower rows are more legible, but not every syllable is secure. The restoration sequence after U02005 is positively present. Provenance: retained interrupted recovery report; this integration performs no new scan reading.
+
+**Choice and reason:** Retain the selected Adzom scan reading as the diplomatic base; record this comparison evidence without importing its wording into the base.
+
+**Evidence:** [p054.png](evidence/chapter-01/recovered-tharpaling/p054.png). [Review and coverage](collation/chapter-01/recovered-tharpaling.json).
+
+<a id="th-rec-p055-unresolved"></a>
+
+### TH-REC-P055-UNRESOLVED — Tharpaling 1983 W27491
+
+Units: [U02055](#u02055).
+
+**Current Adzom main context:** བསྙེན་པ་བསྒྲུབ་པ་ལས་ཀྱི་མཐའ། །
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** unresolved_print_reading. **Confidence:** high confidence in limitation, no reading asserted.
+
+**Locator:** Tharpaling PDF55; rows 1–6.
+
+**Observation:** Rows1–6 traversed. Leftmost quarter of rows2–6 and central patches are heavily fused. This prevents full comparison, including some ends of verses in U02011–2045. Readable phrases anchor the row sequence. Provenance: retained interrupted recovery report; this integration performs no new scan reading.
+
+**Choice and reason:** Retain the selected Adzom scan reading as the diplomatic base; record this comparison evidence without importing its wording into the base.
+
+**Evidence:** [p055.png](evidence/chapter-01/recovered-tharpaling/p055.png). [Review and coverage](collation/chapter-01/recovered-tharpaling.json).
+
+<a id="th-rec-p056-unresolved"></a>
+
+### TH-REC-P056-UNRESOLVED — Tharpaling 1983 W27491
+
+Units: [U02055](#u02055), [U02093](#u02093).
+
+**Current Adzom main context:** བསྙེན་པ་བསྒྲུབ་པ་ལས་ཀྱི་མཐའ། ། / འདི་རྣམས་སྔགས་ཀྱང་ཤེས་བྱས་ལ། །
+
+**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+
+**Status:** unresolved_print_reading. **Confidence:** high confidence in limitation, no reading asserted.
+
+**Locator:** Tharpaling PDF56; rows 1–6.
+
+**Observation:** Rows1–6 traversed. Negative-polarity source, with broken strokes across much of the upper and lower text. The sequence of mantra-practice passages is recognizable but no full agreement is claimed. Provenance: retained interrupted recovery report; this integration performs no new scan reading.
+
+**Choice and reason:** Retain the selected Adzom scan reading as the diplomatic base; record this comparison evidence without importing its wording into the base.
+
+**Evidence:** [p056.png](evidence/chapter-01/recovered-tharpaling/p056.png). [Review and coverage](collation/chapter-01/recovered-tharpaling.json).
 
 ## A/B/S transcript apparatus
 

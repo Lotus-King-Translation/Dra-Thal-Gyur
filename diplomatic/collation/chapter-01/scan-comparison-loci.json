@@ -2100,5 +2100,180 @@
       "TK-EARLY-AUDIT-003"
     ],
     "review_method": "guided_fresh_visual_review_not_blind"
+  },
+  {
+    "id": "TH-REC-S01",
+    "witness": "Tharpaling 1983 W27491",
+    "units": [
+      "U01274",
+      "U01275"
+    ],
+    "comparison_reading": "Three intervening water verses present; readable phrases include chu yi zug pas dbang po sdud and the subsequent byer ba / snyoms pa sequence.",
+    "status": "false_omission_withdrawn",
+    "confidence": "high",
+    "locator": "Tharpaling PDF35; rows 2 right to 3 left",
+    "rationale": "The prior crop started at U01275 and excluded the preceding row. Full-page review shows the three verses between U01274 and U01275. Presence is secure; fragmented letters do not justify certifying every syllable or punctuation mark. Provenance: retained interrupted recovery report; this integration performs no new scan reading.",
+    "decision": "Retain the selected Adzom scan reading as the diplomatic base; record this comparison evidence without importing its wording into the base.",
+    "evidence": [
+      "evidence/chapter-01/recovered-tharpaling/p035.png"
+    ],
+    "review": "collation/chapter-01/recovered-tharpaling.json",
+    "supersedes": "TH-C1-CONT-003",
+    "retained_review_method": "Focused visual inspection of full source page and enlarged left/right crops; expected passage was known.",
+    "provenance_status": "Normalized from preserved interrupted recovery report; not a new coordinator scan reading.",
+    "insertion_ids": [
+      "A2000-C01-S01"
+    ]
+  },
+  {
+    "id": "TH-REC-S02",
+    "witness": "Tharpaling 1983 W27491",
+    "units": [
+      "U01882",
+      "U01883"
+    ],
+    "comparison_reading": "Three intervening verses present; the second has sku yi and the following sprul pa’i sku dang longs sku dang is visible.",
+    "status": "false_omission_withdrawn",
+    "confidence": "high",
+    "locator": "Tharpaling PDF51; rows 3 far right to 4 left/middle",
+    "rationale": "The passage lies on PDF51, not the formerly cited PDF50. The first restored verse crosses the row boundary and is partly faint. The visible sequence before chos sku establishes presence, without supplying damaged letters from Adzom. Provenance: retained interrupted recovery report; this integration performs no new scan reading.",
+    "decision": "Retain the selected Adzom scan reading as the diplomatic base; record this comparison evidence without importing its wording into the base.",
+    "evidence": [
+      "evidence/chapter-01/recovered-tharpaling/p051.png"
+    ],
+    "review": "collation/chapter-01/recovered-tharpaling.json",
+    "supersedes": "TH-C1-CONT-004",
+    "retained_review_method": "Focused visual inspection of full source page and enlarged left/right crops; expected passage was known.",
+    "provenance_status": "Normalized from preserved interrupted recovery report; not a new coordinator scan reading.",
+    "insertion_ids": [
+      "A2000-C01-S02"
+    ]
+  },
+  {
+    "id": "TH-REC-S03",
+    "witness": "Tharpaling 1983 W27491",
+    "units": [
+      "U02005",
+      "U02006"
+    ],
+    "comparison_reading": "Three intervening verses present, ending with ’bras bu las at the opening of PDF55 before rgyu la gsum la ’bras bur gnyis.",
+    "status": "false_omission_withdrawn",
+    "confidence": "high",
+    "locator": "Tharpaling PDF54,55; rows 54 row6 to 55 row1",
+    "rationale": "Full sequential page junction supplies the material that the former PDF53–54 locator missed. Presence of the sequence is secure; heavily inked portions of PDF55 are not certified letter by letter. Provenance: retained interrupted recovery report; this integration performs no new scan reading.",
+    "decision": "Retain the selected Adzom scan reading as the diplomatic base; record this comparison evidence without importing its wording into the base.",
+    "evidence": [
+      "evidence/chapter-01/recovered-tharpaling/p054.png",
+      "evidence/chapter-01/recovered-tharpaling/p055.png"
+    ],
+    "review": "collation/chapter-01/recovered-tharpaling.json",
+    "supersedes": "TH-C1-CONT-005",
+    "retained_review_method": "Focused visual inspection of full source page and enlarged left/right crops; expected passage was known.",
+    "provenance_status": "Normalized from preserved interrupted recovery report; not a new coordinator scan reading.",
+    "insertion_ids": [
+      "A2000-C01-S03"
+    ]
+  },
+  {
+    "id": "TH-REC-P052-UNRESOLVED",
+    "witness": "Tharpaling 1983 W27491",
+    "units": [
+      "U01899",
+      "U01938"
+    ],
+    "comparison_reading": null,
+    "status": "unresolved_print_reading",
+    "confidence": "high confidence in limitation, no reading asserted",
+    "locator": "Tharpaling PDF52; rows 1–6",
+    "rationale": "Rows1–6 visually traversed. The leftmost third, especially rows2–4, has severe dropouts: the starts of U01905/1907 neighborhood and later first verses cannot be read continuously. The right half supplies sequence anchors but no blanket agreement. Provenance: retained interrupted recovery report; this integration performs no new scan reading. The original full-page PNG is empty and preserved as interrupted output; links use the two intact retained halves.",
+    "decision": "Retain the selected Adzom scan reading as the diplomatic base; record this comparison evidence without importing its wording into the base.",
+    "evidence": [
+      "evidence/chapter-01/recovered-tharpaling/p052-L.png",
+      "evidence/chapter-01/recovered-tharpaling/p052-R.png"
+    ],
+    "review": "collation/chapter-01/recovered-tharpaling.json",
+    "retained_review_method": "Focused visual inspection of full source page and enlarged left/right crops; expected passage was known.",
+    "provenance_status": "Normalized from preserved interrupted recovery report; not a new coordinator scan reading.",
+    "unusable_archival_evidence": [
+      "evidence/chapter-01/recovered-tharpaling/p052.png"
+    ]
+  },
+  {
+    "id": "TH-REC-P053-UNRESOLVED",
+    "witness": "Tharpaling 1983 W27491",
+    "units": [
+      "U01938",
+      "U01970"
+    ],
+    "comparison_reading": null,
+    "status": "unresolved_print_reading",
+    "confidence": "high confidence in limitation, no reading asserted",
+    "locator": "Tharpaling PDF53; rows 1–6",
+    "rationale": "Rows1–6 traversed. Upper-left portions and several medial clusters are merged by ink. U01949 and the following material sequence are identifiable; suffixes and the small headings remain partly uncertain. Provenance: retained interrupted recovery report; this integration performs no new scan reading.",
+    "decision": "Retain the selected Adzom scan reading as the diplomatic base; record this comparison evidence without importing its wording into the base.",
+    "evidence": [
+      "evidence/chapter-01/recovered-tharpaling/p053.png"
+    ],
+    "review": "collation/chapter-01/recovered-tharpaling.json",
+    "retained_review_method": "Focused visual inspection of full source page and enlarged left/right crops; expected passage was known.",
+    "provenance_status": "Normalized from preserved interrupted recovery report; not a new coordinator scan reading."
+  },
+  {
+    "id": "TH-REC-P054-UNRESOLVED",
+    "witness": "Tharpaling 1983 W27491",
+    "units": [
+      "U01970"
+    ],
+    "comparison_reading": null,
+    "status": "unresolved_print_reading",
+    "confidence": "high confidence in limitation, no reading asserted",
+    "locator": "Tharpaling PDF54; rows 1–6",
+    "rationale": "Rows1–6 traversed. Top-right portions of rows1–2 are substantially faded; middle and lower rows are more legible, but not every syllable is secure. The restoration sequence after U02005 is positively present. Provenance: retained interrupted recovery report; this integration performs no new scan reading.",
+    "decision": "Retain the selected Adzom scan reading as the diplomatic base; record this comparison evidence without importing its wording into the base.",
+    "evidence": [
+      "evidence/chapter-01/recovered-tharpaling/p054.png"
+    ],
+    "review": "collation/chapter-01/recovered-tharpaling.json",
+    "retained_review_method": "Focused visual inspection of full source page and enlarged left/right crops; expected passage was known.",
+    "provenance_status": "Normalized from preserved interrupted recovery report; not a new coordinator scan reading."
+  },
+  {
+    "id": "TH-REC-P055-UNRESOLVED",
+    "witness": "Tharpaling 1983 W27491",
+    "units": [
+      "U02055"
+    ],
+    "comparison_reading": null,
+    "status": "unresolved_print_reading",
+    "confidence": "high confidence in limitation, no reading asserted",
+    "locator": "Tharpaling PDF55; rows 1–6",
+    "rationale": "Rows1–6 traversed. Leftmost quarter of rows2–6 and central patches are heavily fused. This prevents full comparison, including some ends of verses in U02011–2045. Readable phrases anchor the row sequence. Provenance: retained interrupted recovery report; this integration performs no new scan reading.",
+    "decision": "Retain the selected Adzom scan reading as the diplomatic base; record this comparison evidence without importing its wording into the base.",
+    "evidence": [
+      "evidence/chapter-01/recovered-tharpaling/p055.png"
+    ],
+    "review": "collation/chapter-01/recovered-tharpaling.json",
+    "retained_review_method": "Focused visual inspection of full source page and enlarged left/right crops; expected passage was known.",
+    "provenance_status": "Normalized from preserved interrupted recovery report; not a new coordinator scan reading."
+  },
+  {
+    "id": "TH-REC-P056-UNRESOLVED",
+    "witness": "Tharpaling 1983 W27491",
+    "units": [
+      "U02055",
+      "U02093"
+    ],
+    "comparison_reading": null,
+    "status": "unresolved_print_reading",
+    "confidence": "high confidence in limitation, no reading asserted",
+    "locator": "Tharpaling PDF56; rows 1–6",
+    "rationale": "Rows1–6 traversed. Negative-polarity source, with broken strokes across much of the upper and lower text. The sequence of mantra-practice passages is recognizable but no full agreement is claimed. Provenance: retained interrupted recovery report; this integration performs no new scan reading.",
+    "decision": "Retain the selected Adzom scan reading as the diplomatic base; record this comparison evidence without importing its wording into the base.",
+    "evidence": [
+      "evidence/chapter-01/recovered-tharpaling/p056.png"
+    ],
+    "review": "collation/chapter-01/recovered-tharpaling.json",
+    "retained_review_method": "Focused visual inspection of full source page and enlarged left/right crops; expected passage was known.",
+    "provenance_status": "Normalized from preserved interrupted recovery report; not a new coordinator scan reading."
   }
 ]
