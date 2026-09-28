@@ -341,5 +341,133 @@
       "derivation": "unscaled native crop"
     }
   ],
-  "coordinates": "zero-based half-open native left/top/right/bottom"
+  "coordinates": "zero-based half-open native left/top/right/bottom",
+  "target_crops": [
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-06/p065-row5-context.png",
+      "pdf_page": 65,
+      "bdrc_image": 67,
+      "source_member": "0067.png",
+      "sha256": "97caee64953ace6b9d0d05fc9dfdffa973343fef7b61d9577d0cfe4363f4c03e",
+      "dimensions": [
+        5696,
+        1344
+      ],
+      "bounds": [
+        2390,
+        730,
+        5090,
+        960
+      ],
+      "derivation": "Exact unscaled native target/context crop; no enhancement."
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-06/p068-row1-right-context.png",
+      "pdf_page": 68,
+      "bdrc_image": 70,
+      "source_member": "0070.png",
+      "sha256": "01e8bb10883170792aeaa5f3da07eef16ca7e22fa0f9fd270d951151789b5a40",
+      "dimensions": [
+        5696,
+        1344
+      ],
+      "bounds": [
+        3980,
+        280,
+        5180,
+        515
+      ],
+      "derivation": "Exact unscaled native target/context crop; no enhancement."
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-06/p068-row2-left-context.png",
+      "pdf_page": 68,
+      "bdrc_image": 70,
+      "source_member": "0070.png",
+      "sha256": "39760d0807fb07780ec1c054aa34234199123142ce27ba4971d1728885628e10",
+      "dimensions": [
+        5696,
+        1344
+      ],
+      "bounds": [
+        710,
+        410,
+        2220,
+        645
+      ],
+      "derivation": "Exact unscaled native target/context crop; no enhancement."
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-06/p061-row2-left-context.png",
+      "pdf_page": 61,
+      "bdrc_image": 63,
+      "source_member": "0063.png",
+      "sha256": "39fbf7c8b32aeaa5236ab557fdd07bfe8b997c838d167d8f677676ce5d896e46",
+      "dimensions": [
+        5696,
+        1344
+      ],
+      "bounds": [
+        900,
+        380,
+        2500,
+        630
+      ],
+      "derivation": "Exact unscaled native target/context crop; no enhancement."
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-06/p061-U01539-terminal-detail.png",
+      "pdf_page": 61,
+      "bdrc_image": 63,
+      "source_member": "0063.png",
+      "sha256": "b28426a948eb7d47291a133f949fc777a6d43d206a93e90256c0174fd6ea12c2",
+      "dimensions": [
+        5696,
+        1344
+      ],
+      "bounds": [
+        1720,
+        375,
+        2140,
+        630
+      ],
+      "derivation": "Exact unscaled native target/context crop; no enhancement."
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-06/p063-row2-context.png",
+      "pdf_page": 63,
+      "bdrc_image": 65,
+      "source_member": "0065.png",
+      "sha256": "e992426ed8b20ae56272582d76778646f53325af785bad8f9916fe433c630589",
+      "dimensions": [
+        5696,
+        1344
+      ],
+      "bounds": [
+        2250,
+        415,
+        4650,
+        645
+      ],
+      "derivation": "Exact unscaled native target/context crop; no enhancement."
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-06/p066-row5-context.png",
+      "pdf_page": 66,
+      "bdrc_image": 68,
+      "source_member": "0068.png",
+      "sha256": "494942fcb06e1471241ed9343b07a3b969ca79841b2f21cbeee145dbfb62732a",
+      "dimensions": [
+        5696,
+        1344
+      ],
+      "bounds": [
+        1430,
+        775,
+        4560,
+        1035
+      ],
+      "derivation": "Exact unscaled native target/context crop; no enhancement."
+    }
+  ]
 }

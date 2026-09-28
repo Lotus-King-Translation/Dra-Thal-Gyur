@@ -2,7 +2,7 @@
   "task_id": "C1-SIGNS-06",
   "baseline_commit": "e406ce80e600574ffdb7b136274fa42325db0209",
   "reader": "independent-reader-C1-SIGNS-06-20260928",
-  "status": "native_evidence_prepared_not_yet_read",
+  "status": "coordinator_local_reading_saved_independent_pending",
   "source_paths_and_hashes": {
     "editions/adzom-2000/sgra-thal-gyur.pdf": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343",
     "editions/adzom-2000/original-images.zip": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb"
@@ -47,5 +47,72 @@
     }
   ],
   "chapter_complete": false,
-  "evidence_manifest": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-06/manifest.json"
+  "evidence_manifest": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-06/manifest.json",
+  "coordinator_first_reading": {
+    "reader": "ChatGPT-coordinator-session2",
+    "independent_findings_consulted": false,
+    "scope": "Local target sign inventory; not continuous physical or lexical collation",
+    "records": [
+      {
+        "anchor": "U01661",
+        "pdf_page": 65,
+        "row": 5,
+        "observed_before": "ངེས་པར་དངོས་སུ་འཕོ་བར་ནུས",
+        "observed_target": "དྲིས་ལན་སོ་བདུན་པ",
+        "observed_after": "རྟེན་འབྲེལ་སྦྱོར་བ་རྣམ་པ་གཉིས",
+        "detached_boundary_shads": 2,
+        "rationale": "Two detached uprights after the small heading final pa; the second is before next main rten-brel and is not its letter limb.",
+        "confidence": "provisional high for correspondence, pending independent count comparison",
+        "uncertainty": "Source-row and small-note punctuation outside the stated boundary is not certified."
+      },
+      {
+        "anchor": "U01727",
+        "pdf_page": 68,
+        "row": 2,
+        "observed_before": "སྡུག་བསྔལ་ལས་ཀྱང་མཐའ་དབྱེའོ",
+        "observed_target": "དྲིས་ལན་སོ་དགུ་པ",
+        "observed_after": "འབྱུང་བའི་འཕོ་བ་འདི་ལྟ་བུ",
+        "detached_boundary_shads": 2,
+        "rationale": "Heading starts row2 left; its final pa limb is followed by a detached shad and another upright before main byung-ba. Frame at left excluded.",
+        "confidence": "provisional high for correspondence, pending independent count comparison",
+        "uncertainty": "Source-row and small-note punctuation outside the stated boundary is not certified."
+      },
+      {
+        "anchor": "U01539",
+        "pdf_page": 61,
+        "row": 2,
+        "observed_before": "ལུས་དང་སེམས་ཀྱི་འབྲེལ་ཆད་དེ",
+        "observed_target": "ཁམས་གསུམ་དུ་ཡང་ལྡོག་པ་མིན",
+        "observed_after": "དྲིས་ལན་སོ་གཉིས་པ",
+        "detached_boundary_shads": 1,
+        "rationale": "One detached upright follows final min before the small heading. The apparent further vertical is part of the following dris letter structure, not a separate leading shad.",
+        "confidence": "provisional high for correspondence, pending independent count comparison",
+        "uncertainty": "Source-row and small-note punctuation outside the stated boundary is not certified."
+      },
+      {
+        "anchor": "U01595",
+        "pdf_page": 63,
+        "row": 2,
+        "observed_before": "སྒོམ་པ་པོས་ནི་རྣམ་པར་སྦྱང",
+        "observed_target": "དེས་ནི་སོ་སོའི་རླུང་ཚད་ཟིན",
+        "observed_after": "དྲིས་ལན་སོ་བཞི་པའོ",
+        "detached_boundary_shads": 1,
+        "rationale": "One separate terminal upright lies after zin. Following dris starts a connected letter/stack, not an additional detached vertical. Low curved ink at the boundary is excluded from sign count.",
+        "confidence": "provisional high for correspondence, pending independent count comparison",
+        "uncertainty": "Source-row and small-note punctuation outside the stated boundary is not certified."
+      },
+      {
+        "anchor": "U01688",
+        "pdf_page": 66,
+        "row": 5,
+        "observed_before": "སོ་སོའི་སྡེབ་དང་ལེགས་སྦྱར་ན",
+        "observed_target": "འདིས་ཀྱང་ཕན་དང་གནོད་པ་འགྲུབ",
+        "observed_after": "དྲིས་ལན་སོ་བརྒྱད་པའོ",
+        "detached_boundary_shads": 1,
+        "rationale": "One detached terminal shad after grub precedes the small heading. The heading initial vertical is connected to its letter structure and is not a second shad; neighboring-row strokes excluded.",
+        "confidence": "provisional high for correspondence, pending independent count comparison",
+        "uncertainty": "Source-row and small-note punctuation outside the stated boundary is not certified."
+      }
+    ]
+  }
 }

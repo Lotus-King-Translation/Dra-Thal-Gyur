@@ -2,7 +2,7 @@
   "task_id": "C1-SIGNS-04",
   "baseline_commit": "e406ce80e600574ffdb7b136274fa42325db0209",
   "reader": "independent-reader-C1-SIGNS-04-20260928",
-  "status": "native_evidence_prepared_not_yet_read",
+  "status": "coordinator_local_reading_saved_independent_pending",
   "source_paths_and_hashes": {
     "editions/adzom-2000/sgra-thal-gyur.pdf": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343",
     "editions/adzom-2000/original-images.zip": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb"
@@ -47,5 +47,72 @@
     }
   ],
   "chapter_complete": false,
-  "evidence_manifest": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/manifest.json"
+  "evidence_manifest": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/manifest.json",
+  "coordinator_first_reading": {
+    "reader": "ChatGPT-coordinator-session2",
+    "independent_findings_consulted": false,
+    "scope": "Local target sign inventory; not continuous physical or lexical collation",
+    "records": [
+      {
+        "anchor": "U01147",
+        "pdf_page": 46,
+        "row": 3,
+        "observed_before": "རང་གི་དོན་ཡང་རྫོགས་པའོ",
+        "observed_target": "དྲིས་ལན་བཅུ་དགུ་པ",
+        "observed_after": "སེམས་ཅན་དུས་ནི་རྣམ་པ་བརྒྱད",
+        "detached_boundary_shads": 2,
+        "rationale": "Small heading pa has a joined right limb; two additional detached vertical marks separate it from sems-can.",
+        "confidence": "provisional high for correspondence, pending independent count comparison",
+        "uncertainty": "Source-row and small-note punctuation outside the stated boundary is not certified."
+      },
+      {
+        "anchor": "U01186",
+        "pdf_page": 47,
+        "row": 6,
+        "observed_before": "དུས་རིམ་པའོ",
+        "observed_target": "དྲིས་ལན་ཉི་ཤུ་པ",
+        "observed_after": "ཕྱི་རོལ་འབྱུང་བ་རླུང་ལ་ཡང",
+        "detached_boundary_shads": 2,
+        "rationale": "Two detached shads between small heading pa and next main phyi-rol, excluding the pa limb and bottom frame.",
+        "confidence": "provisional high for correspondence, pending independent count comparison",
+        "uncertainty": "Source-row and small-note punctuation outside the stated boundary is not certified."
+      },
+      {
+        "anchor": "U01239",
+        "pdf_page": 49,
+        "row": 5,
+        "observed_before": "ཆེན་པོ་གཅིག་ཡིན་ནོ",
+        "observed_target": "དྲིས་ལན་ཉེར་གཉིས་པ",
+        "observed_after": "ཞག / ནི་བཅུ་ཕྲག་གསུམ་པ་ཡང",
+        "detached_boundary_shads": 2,
+        "rationale": "Two detached uprights stand before following zhag at row5 edge. The next anchor continues row6; page frame excluded.",
+        "confidence": "provisional high for correspondence, pending independent count comparison",
+        "uncertainty": "Source-row and small-note punctuation outside the stated boundary is not certified."
+      },
+      {
+        "anchor": "U01257",
+        "pdf_page": 50,
+        "row": 3,
+        "observed_before": "འབྱུང་བའི་རྩིས་རྣམས་སྤེལ་བའོ",
+        "observed_target": "དྲིས་ལན་ཉེར་གསུམ་པ",
+        "observed_after": "ཚེ་ནི་སྤེལ་དང་གསོ་བ་དང",
+        "detached_boundary_shads": 2,
+        "rationale": "Small heading terminal and next-leading upright are both detached from letters; lower dotted/curved ink not another shad.",
+        "confidence": "provisional high for correspondence, pending independent count comparison",
+        "uncertainty": "Source-row and small-note punctuation outside the stated boundary is not certified."
+      },
+      {
+        "anchor": "U01308",
+        "pdf_page": 52,
+        "row": "3 right -> 4 left",
+        "observed_before": "ངེས་པར་འགྱུར་རོ་དབང་པོའི་ལྷ",
+        "observed_target": "དྲིས་ལན་ཉེར / ལྔ་པ",
+        "observed_after": "འཁོར་བའི་ལས་རྒྱུད་གཅད་འདོད་ན",
+        "detached_boundary_shads": 2,
+        "rationale": "The heading is split across rows; two detached uprights after pa at row4 left precede khor-ba main text. Margin and previous-row strokes excluded.",
+        "confidence": "provisional high for correspondence, pending independent count comparison",
+        "uncertainty": "Source-row and small-note punctuation outside the stated boundary is not certified."
+      }
+    ]
+  }
 }

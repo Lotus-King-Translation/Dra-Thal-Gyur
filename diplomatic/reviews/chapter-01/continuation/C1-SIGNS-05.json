@@ -2,7 +2,7 @@
   "task_id": "C1-SIGNS-05",
   "baseline_commit": "e406ce80e600574ffdb7b136274fa42325db0209",
   "reader": "independent-reader-C1-SIGNS-05-20260928",
-  "status": "native_evidence_prepared_not_yet_read",
+  "status": "coordinator_local_reading_saved_independent_pending",
   "source_paths_and_hashes": {
     "editions/adzom-2000/sgra-thal-gyur.pdf": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343",
     "editions/adzom-2000/original-images.zip": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb"
@@ -46,5 +46,78 @@
     }
   ],
   "chapter_complete": false,
-  "evidence_manifest": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/manifest.json"
+  "evidence_manifest": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/manifest.json",
+  "coordinator_first_reading": {
+    "reader": "ChatGPT-coordinator-session2",
+    "independent_findings_consulted": false,
+    "scope": "Local target sign inventory; not continuous physical or lexical collation",
+    "records": [
+      {
+        "anchor": "U01353",
+        "pdf_page": 54,
+        "row": 2,
+        "observed_before": "བཅོམ་ལྡན་འདས་ཀྱི་ཡོན་ཏན་ནོ",
+        "observed_target": "དྲིས་ལན་ཉེར་བདུན་པ",
+        "observed_after": "སྐུ་གསུམ་བསླབ་པའི་རིམ་པ་ཉིད",
+        "detached_boundary_shads": 2,
+        "rationale": "Two detached uprights separate the small heading final pa from following sku-gsum main text; letter limb and upper/lower row material excluded.",
+        "confidence": "provisional high for correspondence, pending independent count comparison",
+        "uncertainty": "Source-row and small-note punctuation outside the stated boundary is not certified."
+      },
+      {
+        "anchor": "U01476",
+        "pdf_page": 58,
+        "row": 5,
+        "observed_before": "ཐེ་ཚོམ་ཟ་བ་མ་ཡིན་ནོ",
+        "observed_target": "དྲིས་ལན་སུམ་ཅུ་པ",
+        "observed_after": "གཉིད་ཀྱི་རྣལ / འབྱོར་སུས་བསྒོམ་པ",
+        "detached_boundary_shads": 2,
+        "rationale": "Small heading terminal and next-leading mark form two detached uprights; the following root verse crosses row5/6.",
+        "confidence": "provisional high for correspondence, pending independent count comparison",
+        "uncertainty": "Source-row and small-note punctuation outside the stated boundary is not certified."
+      },
+      {
+        "anchor": "U01540",
+        "pdf_page": 61,
+        "row": 2,
+        "observed_before": "ཁམས་གསུམ་དུ་ཡང་ལྡོག་པ་མིན",
+        "observed_target": "དྲིས་ལན་སོ་གཉིས་པ",
+        "observed_after": "རླུང་གི་དགོས་པ་རྣམ་པ་གཉིས",
+        "detached_boundary_shads": 2,
+        "rationale": "Two detached shads occur after heading-pa, distinct from its connected right limb and following rlung glyph.",
+        "confidence": "provisional high for correspondence, pending independent count comparison",
+        "uncertainty": "Source-row and small-note punctuation outside the stated boundary is not certified."
+      },
+      {
+        "anchor": "U01557",
+        "pdf_page": 61,
+        "row": 6,
+        "observed_before": "དེས་ན་རླུང་གིས་ལས་ཀུན / [faint བྱེད]",
+        "observed_target": "[faint དྲིས] ལན་སོ་གསུམ་པ",
+        "observed_after": "ལུས་ཀྱི་གནད་ནི་རྩ་ཡིན་ཏེ",
+        "detached_boundary_shads": 2,
+        "rationale": "Correct target is on row6 left, not the provisional row5 context crop. The heading initial syllable is faint; the complete sequence of previous/following main text identifies this heading. Its terminal pa and two detached shads are clear, above the bottom frame. Brackets here describe observed faintness, not supplied source signs.",
+        "confidence": "provisional high for correspondence, pending independent count comparison",
+        "uncertainty": "Source-row and small-note punctuation outside the stated boundary is not certified."
+      },
+      {
+        "anchor": "U01634",
+        "pdf_page": 64,
+        "row": 5,
+        "observed_before": "ཞིང་ཁམས་རྣམས་ལ་ལོངས་སྤྱོད་དོ",
+        "observed_target": "དྲིས་ལན་སོ་དྲུག་པ",
+        "observed_after": "འཕོ་བའི་བྱེ་བྲག་རྣམ་པ་གསུམ",
+        "detached_boundary_shads": 2,
+        "rationale": "Two detached marks separate the smaller heading from next main verse; curved material from preceding or following rows is not counted.",
+        "confidence": "provisional high for correspondence, pending independent count comparison",
+        "uncertainty": "Source-row and small-note punctuation outside the stated boundary is not certified."
+      }
+    ]
+  },
+  "crop_limitations": [
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/p061-row5-context.png",
+      "finding": "Valid row5 context but not the U01557 heading; retained as failed locator evidence. Correct U01557 is row6 left."
+    }
+  ]
 }
