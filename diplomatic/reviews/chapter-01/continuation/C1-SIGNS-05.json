@@ -2,7 +2,7 @@
   "task_id": "C1-SIGNS-05",
   "baseline_commit": "e406ce80e600574ffdb7b136274fa42325db0209",
   "reader": "independent-reader-C1-SIGNS-05-20260928",
-  "status": "resumed_single_boundary_in_progress",
+  "status": "terminal_decisions_integrated_pending_publication_receipt",
   "source_paths_and_hashes": {
     "editions/adzom-2000/sgra-thal-gyur.pdf": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343",
     "editions/adzom-2000/original-images.zip": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb"
@@ -332,8 +332,8 @@
     {
       "anchor": "U01557",
       "existing_reading": "དྲིས་ལན་སོ་གསུམ་པ།",
-      "status": "blocked",
-      "disposition": "unresolved",
+      "status": "adopted_pending_remote_receipt",
+      "disposition": "adopted",
       "physical_locator": {
         "pdf_page": 61,
         "bdrc_image": 63,
@@ -450,17 +450,68 @@
             1090
           ],
           "derivation": "Exact unscaled native target/context crop; no enhancement."
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/U01557-initial-heading-unresolved.png",
+          "pdf_page": 61,
+          "bdrc_image": 63,
+          "source_member": "0063.png",
+          "source_member_sha256": "1f190b4cdce61b6787c65c6d80a6743f73fe61aeebf2e16335cdd49102643203",
+          "sha256": "6112b58a2a1ad193cb05bbeb11cc6d8bfee053418199dc278a965fab7a6206b8",
+          "dimensions": [
+            5696,
+            1344
+          ],
+          "bounds": [
+            905,
+            865,
+            1120,
+            1010
+          ],
+          "crop_dimensions": [
+            215,
+            145
+          ],
+          "derivation": "Exact unscaled native crop; no enhancement",
+          "role": "Unresolved initial heading glyphs; not supplied from transcript"
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/U01557-terminal-boundary.png",
+          "pdf_page": 61,
+          "bdrc_image": 63,
+          "source_member": "0063.png",
+          "source_member_sha256": "1f190b4cdce61b6787c65c6d80a6743f73fe61aeebf2e16335cdd49102643203",
+          "sha256": "324b8800429a9c60f2c62e806b82736c147d64b1fc1089b678d3bb496e68a507",
+          "dimensions": [
+            5696,
+            1344
+          ],
+          "bounds": [
+            1280,
+            855,
+            1550,
+            1030
+          ],
+          "crop_dimensions": [
+            270,
+            175
+          ],
+          "derivation": "Exact unscaled native crop; no enhancement",
+          "role": "Visible final pa, detached small-heading shad and next-leading shad"
         }
       ],
       "confidence": {
-        "coordinator": "provisional high for correspondence, pending independent count comparison",
-        "independent": "Moderate overall; stronger for the terminal boundary than for the heading's opening."
+        "physical_correspondence": "high after recovered independent follow-up and coordinator reinspection",
+        "terminal_pa_and_two_detached_marks": "high for this boundary",
+        "heading_initial_letters": "reader-unresolved; retained provisionally with visible uncertainty"
       },
-      "uncertainty": "The complete heading cannot be independently confirmed from the faint opening. The supplied electronic wording is retained only as the existing reading.",
-      "proposed_reading": null,
-      "canonical_record_ids": [],
-      "rationale": "Independent correspondence/glyph discrimination is incomplete; preserve the coordinator proposal as provisional only.",
-      "next_step": "Verify the faint opening from an authorized alternative image before confirming full correspondence; preserve the two visible boundary shads meanwhile.",
+      "uncertainty": "The initial small-heading letters remain reader-unresolved within native [905,865,1120,1010]; the ending so gsum pa, physical correspondence and two detached terminal marks are independently supported. This punctuation decision does not certify the initials.",
+      "proposed_reading": "དྲིས་ལན་སོ་གསུམ་པ། །",
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U01557"
+      ],
+      "rationale": "The recovered same-reader follow-up establishes the exact heading boundary independently of whether its faint initials can all be read. The coordinator reinspected the full native page and context: visible so gsum pa precedes lus kyi gnad ni rtsa yin te; final pa has a joined right limb, followed by two separate vertical shads. Restore the missing second mark at the preceding anchor end so the complete inter-unit inventory is preserved once. This allocation is editorial, not inferred syntax or measured spacing. No lexical change is made. The faint initial electronic letters remain provisional and the reading text is explicitly marked print-uncertain; their exact bounded question is carried to C1-BASE-PHYSICAL. Completion here certifies the terminal punctuation, not the complete heading spelling or the page.",
+      "next_step": "Publish and verify this terminal-only correction with the explicit uncertain-print marker. Continue the separate initial-heading lexical question in C1-BASE-PHYSICAL.",
       "recovered_followup": {
         "path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05-U01557-followup-reading.txt",
         "sha256": "135a81ab4dbd2878fe2f28454ec5caca7c95837dd9de10988d8aa1e8abdda1bc",
@@ -503,7 +554,7 @@
           "uncertainty": "Initial heading letters remain unresolved. Coordinates are visual estimates in full-native coordinates. Physical sign inventory does not settle electronic-unit ownership.",
           "effect_on_prior_finding": "Corrects the earlier conflation: boundary correspondence is established, while complete lexical reading remains unestablished. The two-shad finding is unchanged. This is the same reader's follow-up, not another corroborating vote."
         },
-        "integration_status": "preserved; current coordinator review not yet performed"
+        "integration_status": "Its established boundary correspondence and two-shad count support the terminal correction. The unresolved initial heading letters are carried separately and visibly marked."
       },
       "coordinator_restart_review": {
         "reader": "ChatGPT-coordinator-20260928-resume3",
@@ -532,7 +583,7 @@
         "detached_boundary_shads": 2,
         "letter_segmentation": "Final pa has a connected right limb. A separate narrow vertical follows it; another detached upright precedes lus. Bottom frame and row5 fill dots are excluded.",
         "proposed_punctuation_reading": "དྲིས་ལན་སོ་གསུམ་པ། །",
-        "status": "provisional_pending_integration",
+        "status": "terminal-only correction integrated; initial lexical uncertainty explicitly retained",
         "independent_support": "Recovered same-reader follow-up establishes physical identity and confirms both detached shads; it does not certify the faint initial heading letters.",
         "remaining_uncertainty": {
           "source_member": "0063.png",
@@ -545,7 +596,10 @@
           "description": "Initial small-heading glyphs before the legible so gsum pa remain reader-unresolved",
           "required_visible_disposition": "Retain initial electronic letters provisionally with an explicit uncertain-print marker and evidence link; carry this separate lexical question to C1-BASE-PHYSICAL."
         }
-      }
+      },
+      "adopted_reading": "དྲིས་ལན་སོ་གསུམ་པ། །",
+      "current_independent_correspondence_established": true,
+      "independent_review_superseded_by": "recovered_followup for physical correspondence; not for complete lexical reading"
     },
     {
       "anchor": "U01634",
@@ -706,9 +760,7 @@
   ],
   "independent_review_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05-independent-attempt1-reading.txt",
   "independent_review_sha256": "6f3aaf67f862a54f1b9e36502a3b5d5669c5e1065962f2063ea0acd4968d5f91",
-  "remaining_blocked_anchors": [
-    "U01557"
-  ],
+  "remaining_blocked_anchors": [],
   "prior_verified_evidence_commit": "4b42e6e4672416021671119ea58dd5caa85f1efc",
   "independence": "One informed independent agent per five-candidate packet plus coordinator; no blind or human-certification claim.",
   "resume_history": [
@@ -725,6 +777,55 @@
       "prior_owner": "independent-reader-C1-SIGNS-05-20260928",
       "scope": "Only U01557 terminal punctuation; four prior adopted candidates remain unchanged. The recovered follow-up is used, not restarted.",
       "status": "Claimed and first current native-reading report saved"
+    }
+  ],
+  "carried_forward_uncertainties": [
+    {
+      "id": "C1-SIGNS-05-U01557-HEADING-INITIAL",
+      "status": "unresolved",
+      "anchor": "U01557",
+      "source_layer": "Initial letters of small reply heading; separate from its verified terminal punctuation",
+      "pdf_page": 61,
+      "bdrc_image": 63,
+      "row": 6,
+      "source_member": "0063.png",
+      "source_member_sha256": "1f190b4cdce61b6787c65c6d80a6743f73fe61aeebf2e16335cdd49102643203",
+      "native_bounds": [
+        905,
+        865,
+        1120,
+        1010
+      ],
+      "evidence_paths_and_hashes": [
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/U01557-initial-heading-unresolved.png",
+          "pdf_page": 61,
+          "bdrc_image": 63,
+          "source_member": "0063.png",
+          "source_member_sha256": "1f190b4cdce61b6787c65c6d80a6743f73fe61aeebf2e16335cdd49102643203",
+          "sha256": "6112b58a2a1ad193cb05bbeb11cc6d8bfee053418199dc278a965fab7a6206b8",
+          "dimensions": [
+            5696,
+            1344
+          ],
+          "bounds": [
+            905,
+            865,
+            1120,
+            1010
+          ],
+          "crop_dimensions": [
+            215,
+            145
+          ],
+          "derivation": "Exact unscaled native crop; no enhancement",
+          "role": "Unresolved initial heading glyphs; not supplied from transcript"
+        }
+      ],
+      "reason": "Initial small-heading letters are faint and not completely discriminated by the independent reader or coordinator. Their electronic spelling is retained provisionally, not certified.",
+      "next_step": "In C1-BASE-PHYSICAL inspect the complete page61 row6 heading and the bounded initial crop; transcribe only securely distinguished letters, retaining explicit uncertainty otherwise. Do not re-open the separately supported terminal count without new contrary evidence.",
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05.json",
+      "canonical_uncertainty_note": "SIGNS-VERIFIED-20260928-U01557"
     }
   ]
 }

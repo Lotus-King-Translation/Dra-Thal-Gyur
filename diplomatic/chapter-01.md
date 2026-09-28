@@ -4977,7 +4977,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01239"></a>
 
-**U01239** **[Source structural heading]** དྲིས་ལན་ཉེར་གཉིས་པ། [L1-0073](#l1-0073) [W-C01-105](reviews/chapter-01/wikisource.md#w-c01-105)
+**U01239** **[Source structural heading]** དྲིས་ལན་ཉེར་གཉིས་པ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-UNCERTAIN-U01239](#scan-ch1-uncertain-u01239) [L1-0073](#l1-0073) [W-C01-105](reviews/chapter-01/wikisource.md#w-c01-105)
 
 <a id="u01240"></a>
 
@@ -6257,7 +6257,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01557"></a>
 
-**U01557** **[Source structural heading]** དྲིས་ལན་སོ་གསུམ་པ། [L1-0099](#l1-0099) [W-C01-144](reviews/chapter-01/wikisource.md#w-c01-144)
+**U01557** **[Source structural heading]** དྲིས་ལན་སོ་གསུམ་པ། ། **[Print reading uncertain at this locus; see the linked evidence.]** [SIGNS-VERIFIED-20260928-U01557](#signs-verified-20260928-u01557) [L1-0099](#l1-0099) [W-C01-144](reviews/chapter-01/wikisource.md#w-c01-144)
 
 <a id="u01558"></a>
 
@@ -12269,6 +12269,42 @@ Units: [U01688](#u01688).
 
 **Evidence:** [p066-native.png](evidence/chapter-01/continuation/C1-SIGNS-06/p066-native.png), [p066-row5-context.png](evidence/chapter-01/continuation/C1-SIGNS-06/p066-row5-context.png)
 
+<a id="scan-ch1-uncertain-u01239"></a>
+
+### SCAN-CH1-UNCERTAIN-U01239
+
+Units: [U01239](#u01239).
+
+**A transcript:** དྲིས་ལན་ཉེར་གཉིས་པ།
+
+**Unchanged provisional transcript scaffold:** དྲིས་ལན་ཉེར་གཉིས་པ།
+
+**Scan locator:** Adzom 2000 PDF49 / BDRC image51 / member0051.png / small heading row5 right; uncertain angular ending approximately [4853,781,4947,887].
+
+**Decision and reason:** This is an uncertainty annotation, not a lexical or punctuation adoption. The heading is securely located on PDF49 row5 before zhag, and two detached boundary uprights are observed. The angular terminal letter(s) are not decisively segmented: the separate readers do not securely identify the additional pa of the electronic heading. Retain the original transcript scaffold unchanged and visibly mark its print reading uncertain. The earlier full-target quotation is not a new glyph certification. Preserve the known two-mark inventory in the report without silently repairing the unresolved heading. C1-SIGN-U01239 stays blocked.
+
+**Confidence and limits:** {"physical_correspondence": "high", "two_detached_boundary_marks": "high", "complete_terminal_spelling": "unresolved; tentative sa-alone reading not adopted"}
+
+**Evidence:** [p049-native.png](evidence/chapter-01/continuation/C1-SIGNS-04/p049-native.png), [U01239-heading-final-wide.png](evidence/chapter-01/continuation/C1-SIGNS-04/U01239-heading-final-wide.png), [U01239-final-glyph-detail.png](evidence/chapter-01/continuation/C1-SIGNS-04/U01239-final-glyph-detail.png), [C1-SIGNS-04-U01239-followup-reading.txt](reviews/chapter-01/continuation/C1-SIGNS-04-U01239-followup-reading.txt), [C1-SIGNS-04-U01239-restart-reading.txt](reviews/chapter-01/continuation/C1-SIGNS-04-U01239-restart-reading.txt), [C1-SIGNS-04.md](reviews/chapter-01/continuation/C1-SIGNS-04.md)
+
+<a id="signs-verified-20260928-u01557"></a>
+
+### SIGNS-VERIFIED-20260928-U01557
+
+Units: [U01557](#u01557).
+
+**A transcript:** དྲིས་ལན་སོ་གསུམ་པ།
+
+**Reading with verified terminal marks; initials provisional:** དྲིས་ལན་སོ་གསུམ་པ། །
+
+**Scan locator:** Adzom 2000 PDF61 / BDRC image63 / member0063.png / small heading row6 left; terminal crop [1280,855,1550,1030]; uncertain initials [905,865,1120,1010].
+
+**Decision and reason:** The recovered same-reader follow-up establishes the exact heading boundary independently of whether its faint initials can all be read. The coordinator reinspected the full native page and context: visible so gsum pa precedes lus kyi gnad ni rtsa yin te; final pa has a joined right limb, followed by two separate vertical shads. Restore the missing second mark at the preceding anchor end so the complete inter-unit inventory is preserved once. This allocation is editorial, not inferred syntax or measured spacing. No lexical change is made. The faint initial electronic letters remain provisional and the reading text is explicitly marked print-uncertain; their exact bounded question is carried to C1-BASE-PHYSICAL. Completion here certifies the terminal punctuation, not the complete heading spelling or the page.
+
+**Confidence and limits:** {"physical_correspondence": "high after recovered independent follow-up and coordinator reinspection", "terminal_pa_and_two_detached_marks": "high for this boundary", "heading_initial_letters": "reader-unresolved; retained provisionally with visible uncertainty"}
+
+**Evidence:** [p061-native.png](evidence/chapter-01/continuation/C1-SIGNS-05/p061-native.png), [p061-row5-right-U01556.png](evidence/chapter-01/continuation/C1-SIGNS-05/p061-row5-right-U01556.png), [p061-row6-left-U01557.png](evidence/chapter-01/continuation/C1-SIGNS-05/p061-row6-left-U01557.png), [U01557-terminal-boundary.png](evidence/chapter-01/continuation/C1-SIGNS-05/U01557-terminal-boundary.png), [U01557-initial-heading-unresolved.png](evidence/chapter-01/continuation/C1-SIGNS-05/U01557-initial-heading-unresolved.png), [C1-SIGNS-05-U01557-followup-reading.txt](reviews/chapter-01/continuation/C1-SIGNS-05-U01557-followup-reading.txt), [C1-SIGNS-05.md](reviews/chapter-01/continuation/C1-SIGNS-05.md)
+
 <a id="a2000-c01-s01"></a>
 
 ### A2000-C01-S01
@@ -16944,7 +16980,7 @@ Exact differences: C1-0142, C1-0143, C1-0144.
 {དྲིས་ལན་ཉེར་གཉིས་པ།}ཞག་ནི་བཅུ་ཕྲག་གསུམ་པ་ཡང༌། །ཟླ་བ་དག་ནི་གཅིག་ཡིན་ཏེ། །
 ```
 
-**Disposition and reason:** Retain A provisionally because the selected diplomatic base is Adzom. B/S disagreement is preserved, but unverified transcripts, majority agreement, grammatical preference, and doctrinal expectations do not authorize changing the base witness. This is a pending scan decision, not a finding that A is the original or superior reading.
+**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SCAN-CH1-UNCERTAIN-U01239](#scan-ch1-uncertain-u01239). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
 
 <a id="l1-0074"></a>
 
@@ -17672,7 +17708,7 @@ Exact differences: C1-0193, C1-0194.
 {དྲིས་ལན་སོ་གསུམ་པ།}ལུས་ཀྱི་གནད་ནི་རྩ་ཡིན་ཏེ། །
 ```
 
-**Disposition and reason:** Retain A’s wording provisionally and record the alternative brackets/delimiters as transcript presentation evidence. S’s braces do not, by themselves, establish the position or status of an annotation in the Adzom printing. Scan-layout verification remains outstanding.
+**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SIGNS-VERIFIED-20260928-U01557](#signs-verified-20260928-u01557). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
 
 <a id="l1-0100"></a>
 

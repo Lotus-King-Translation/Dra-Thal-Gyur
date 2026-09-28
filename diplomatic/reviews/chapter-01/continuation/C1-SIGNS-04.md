@@ -56,7 +56,7 @@ The [recovered same-reader follow-up](C1-SIGNS-04-U01239-followup-reading.txt) d
 
 The unresolved angular components are approximately native **[4853,781,4947,887]**. The preserved detail crop is **[4780,755,5090,965]**; its 3x nearest-neighbor display aid adds no source information. The low confidence of the control reading is explicit; another page of the same printing is not another witness.
 
-**No canonical change.** Keep this candidate blocked. Further work needs more decisive glyph evidence, not another repetition of the now-established mark count. The precise uncertainty remains required at the chapter completion gate.
+**No lexical or punctuation change.** The uncertainty-only note `SCAN-CH1-UNCERTAIN-U01239` marks the unchanged provisional scaffold as print-uncertain in the reading text. Keep this candidate blocked. Further work needs more decisive glyph evidence, not another repetition of the now-established mark count. The precise uncertainty remains required at the chapter completion gate.
 
 ## U01257
 

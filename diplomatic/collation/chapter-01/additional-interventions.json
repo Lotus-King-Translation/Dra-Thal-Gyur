@@ -3319,5 +3319,107 @@
       "archive_sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
       "no_fresh_lexical_or_whole_page_certificate": true
     }
+  },
+  {
+    "id": "SCAN-CH1-UNCERTAIN-U01239",
+    "units": [
+      "U01239"
+    ],
+    "original_units": {
+      "U01239": "དྲིས་ལན་ཉེར་གཉིས་པ།"
+    },
+    "replacement_units": {},
+    "old": "དྲིས་ལན་ཉེར་གཉིས་པ།",
+    "new": "དྲིས་ལན་ཉེར་གཉིས་པ།",
+    "reading_label": "Unchanged provisional transcript scaffold",
+    "reading_uncertainty": {
+      "scope": "Heading terminal angular letter(s)",
+      "native_source_member": "0051.png",
+      "native_bounds": [
+        4853,
+        781,
+        4947,
+        887
+      ],
+      "possible_reading": "Final sa alone is tentative; the complete supplied gnyis pa ending is not established"
+    },
+    "rationale": "This is an uncertainty annotation, not a lexical or punctuation adoption. The heading is securely located on PDF49 row5 before zhag, and two detached boundary uprights are observed. The angular terminal letter(s) are not decisively segmented: the separate readers do not securely identify the additional pa of the electronic heading. Retain the original transcript scaffold unchanged and visibly mark its print reading uncertain. The earlier full-target quotation is not a new glyph certification. Preserve the known two-mark inventory in the report without silently repairing the unresolved heading. C1-SIGN-U01239 stays blocked.",
+    "locator": "Adzom 2000 PDF49 / BDRC image51 / member0051.png / small heading row5 right; uncertain angular ending approximately [4853,781,4947,887]",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-SIGNS-04/p049-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-04/U01239-heading-final-wide.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-04/U01239-final-glyph-detail.png",
+      "reviews/chapter-01/continuation/C1-SIGNS-04-U01239-followup-reading.txt",
+      "reviews/chapter-01/continuation/C1-SIGNS-04-U01239-restart-reading.txt",
+      "reviews/chapter-01/continuation/C1-SIGNS-04.md"
+    ],
+    "evidence_sha256": {
+      "evidence/chapter-01/continuation/C1-SIGNS-04/p049-native.png": "a001ea07131821122d16c82d0155b8d52587e58614b1c99a34befcac9736573d",
+      "evidence/chapter-01/continuation/C1-SIGNS-04/U01239-heading-final-wide.png": "09f7c414e4a8196ee7adb54bb5d731783c58e67ec3788031105626439b1920a9",
+      "evidence/chapter-01/continuation/C1-SIGNS-04/U01239-final-glyph-detail.png": "5b59e179a0147f09badcd44b80ec86b646cc4d1f71b3271aeea6c0a7afe52204"
+    },
+    "confidence": {
+      "physical_correspondence": "high",
+      "two_detached_boundary_marks": "high",
+      "complete_terminal_spelling": "unresolved; tentative sa-alone reading not adopted"
+    },
+    "source_record": "reviews/chapter-01/continuation/C1-SIGNS-04.json#U01239",
+    "status": "unresolved_print_reading_no_transcript_change"
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260928-U01557",
+    "units": [
+      "U01557"
+    ],
+    "original_units": {
+      "U01557": "དྲིས་ལན་སོ་གསུམ་པ།"
+    },
+    "replacement_units": {
+      "U01557": "དྲིས་ལན་སོ་གསུམ་པ། །"
+    },
+    "old": "དྲིས་ལན་སོ་གསུམ་པ།",
+    "new": "དྲིས་ལན་སོ་གསུམ་པ། །",
+    "reading_label": "Reading with verified terminal marks; initials provisional",
+    "reading_uncertainty": {
+      "scope": "Initial small-heading letters only; terminal pa and both detached signs are separately supported",
+      "native_source_member": "0063.png",
+      "native_bounds": [
+        905,
+        865,
+        1120,
+        1010
+      ],
+      "description": "Faint initial heading glyphs are not newly certified by this punctuation review"
+    },
+    "rationale": "The recovered same-reader follow-up establishes the exact heading boundary independently of whether its faint initials can all be read. The coordinator reinspected the full native page and context: visible so gsum pa precedes lus kyi gnad ni rtsa yin te; final pa has a joined right limb, followed by two separate vertical shads. Restore the missing second mark at the preceding anchor end so the complete inter-unit inventory is preserved once. This allocation is editorial, not inferred syntax or measured spacing. No lexical change is made. The faint initial electronic letters remain provisional and the reading text is explicitly marked print-uncertain; their exact bounded question is carried to C1-BASE-PHYSICAL. Completion here certifies the terminal punctuation, not the complete heading spelling or the page.",
+    "locator": "Adzom 2000 PDF61 / BDRC image63 / member0063.png / small heading row6 left; terminal crop [1280,855,1550,1030]; uncertain initials [905,865,1120,1010]",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p061-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p061-row5-right-U01556.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p061-row6-left-U01557.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-05/U01557-terminal-boundary.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-05/U01557-initial-heading-unresolved.png",
+      "reviews/chapter-01/continuation/C1-SIGNS-05-U01557-followup-reading.txt",
+      "reviews/chapter-01/continuation/C1-SIGNS-05.md"
+    ],
+    "evidence_sha256": {
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p061-native.png": "1f190b4cdce61b6787c65c6d80a6743f73fe61aeebf2e16335cdd49102643203",
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p061-row5-right-U01556.png": "065d3bf01a2f1345d847e856ec3b820c024e858bced9081c689e0ffeade0e4f3",
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p061-row6-left-U01557.png": "a070eb8b4b82dc40097aa78b94b6a2dd94e091d5fc5ef7d34d8ea3571987cb42",
+      "evidence/chapter-01/continuation/C1-SIGNS-05/U01557-terminal-boundary.png": "324b8800429a9c60f2c62e806b82736c147d64b1fc1089b678d3bb496e68a507",
+      "evidence/chapter-01/continuation/C1-SIGNS-05/U01557-initial-heading-unresolved.png": "6112b58a2a1ad193cb05bbeb11cc6d8bfee053418199dc278a965fab7a6206b8"
+    },
+    "confidence": {
+      "physical_correspondence": "high after recovered independent follow-up and coordinator reinspection",
+      "terminal_pa_and_two_detached_marks": "high for this boundary",
+      "heading_initial_letters": "reader-unresolved; retained provisionally with visible uncertainty"
+    },
+    "source_record": "reviews/chapter-01/continuation/C1-SIGNS-05.json#U01557",
+    "status": "terminal_punctuation_adopted_initial_lexical_uncertainty_retained",
+    "independent_review": {
+      "path": "reviews/chapter-01/continuation/C1-SIGNS-05-U01557-followup-reading.txt",
+      "sha256": "135a81ab4dbd2878fe2f28454ec5caca7c95837dd9de10988d8aa1e8abdda1bc",
+      "relation": "Same-reader clarification of initial report, not an additional vote; no new blind/human certification"
+    }
   }
 ]

@@ -302,8 +302,10 @@
       },
       "uncertainty": "Terminal angular components in native member0051.png, approximately [4853,781,4947,887], do not securely establish the complete electronic gnyis pa ending. Two detached shads follow; their count is no longer the blocker.",
       "proposed_reading": null,
-      "canonical_record_ids": [],
-      "rationale": "No punctuation-only correction is adopted while the target ending remains lexically unresolved. The known two-mark inventory is preserved separately; the current electronic heading remains a provisional scaffold. Prior full-target wording is explicitly retained as a superseded claim, not silently certified.",
+      "canonical_record_ids": [
+        "SCAN-CH1-UNCERTAIN-U01239"
+      ],
+      "rationale": "No punctuation-only correction is adopted while the target ending remains lexically unresolved. The known two-mark inventory is preserved separately; the current electronic heading remains a provisional scaffold. Prior full-target wording is explicitly retained as a superseded claim, not silently certified. An uncertainty-only canonical note now makes this unresolved print reading visible beside the unchanged source scaffold.",
       "next_step": "Seek a more decisive reading of the bounded final angular letter(s) from better source detail or securely discriminated same-print letter forms. Do not repeat counts or silently supply pa; retain this exact unresolved span in the completion gate.",
       "recovered_followup": {
         "path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04-U01239-followup-reading.txt",
@@ -492,7 +494,8 @@
         "detached_boundary_shads": 2,
         "complete_heading_lexically_read": false,
         "source_control_limit": "Page50 is a same-print morphology control only; it does not supply missing letters or an independent witness."
-      }
+      },
+      "canonical_record_role": "Uncertainty-only note; no lexical or punctuation replacement"
     },
     {
       "anchor": "U01257",

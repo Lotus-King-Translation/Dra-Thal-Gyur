@@ -169,7 +169,7 @@ def main():
     for rec in notes:
         doc += [f'<a id="{rec["id"].lower()}"></a>', '', f'### {rec["id"]}', '',
                 'Units: ' + ', '.join(f'[{u}](#{u.lower()})' for u in rec['units']) + '.', '',
-                f'**A transcript:** {rec["old"]}', '', f'**Adopted reading:** {rec["new"]}', '',
+                f'**A transcript:** {rec["old"]}', '', f'**{rec.get("reading_label", "Adopted reading")}:** {rec["new"]}', '',
                 f'**Scan locator:** {rec["locator"]}.', '', f'**Decision and reason:** {rec["rationale"]}', '']
         if rec.get('annotation'):
             doc += [f'**Separate annotation:** {rec["annotation"]}', '',

@@ -1,0 +1,23 @@
+{
+  "baseline_commit": "2e753ef1874bdae17e0cb922284f1a4cae704b7a",
+  "all_checks_passed": true,
+  "scope": "Mechanical integrity and exact integration delta, not a glyph-reading certificate",
+  "files_hash_verified": 27,
+  "native_crop_pixel_checks": 23,
+  "unchanged_source_anchors": 2635,
+  "only_reading_string_change": [
+    "U01557"
+  ],
+  "exact_change": "Append one separated shad to U01557; all lexical letters unchanged",
+  "status_changes": [
+    "U01239",
+    "U01557"
+  ],
+  "both_uncertainties_visible_in_markdown": true,
+  "all_82_prior_records_unchanged": true,
+  "restoration_file_unchanged": true,
+  "new_records": 2,
+  "new_uncertainty_only_records": 1,
+  "new_terminal_corrections": 1,
+  "chapter_sha256": "9a31ff31edd89b1f27435071d8685d526b5f19e29a8c553295a038e3c3d18787"
+}

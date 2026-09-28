@@ -381,6 +381,24 @@
       },
       "fully_collated_pages_added": 0,
       "scope": "Only identified unit-terminal boundaries, including small headings. Blocked candidate correspondence or glyph discrimination remains visible; no whole-page or source-annotation certificate."
+    },
+    {
+      "task_id": "C1-SIGNS-05",
+      "phase": "interruption-followup-integration",
+      "report": "reviews/chapter-01/continuation/C1-SIGNS-05.json",
+      "physical_scope": "PDF61 row6 U01557 terminal only; PDF49 row5 U01239 uncertainty annotation is not an adopted reading",
+      "terminal_corrections": [
+        "U01557"
+      ],
+      "uncertainty_only_records": [
+        "SCAN-CH1-UNCERTAIN-U01239"
+      ],
+      "carried_forward_uncertainty_ids": [
+        "C1-SIGNS-05-U01557-HEADING-INITIAL"
+      ],
+      "source_lexical_strings_changed": false,
+      "full_pages_newly_collated": [],
+      "publication_status": "pending_verified_receipt"
     }
   ],
   "known_unit_sign_queue": {

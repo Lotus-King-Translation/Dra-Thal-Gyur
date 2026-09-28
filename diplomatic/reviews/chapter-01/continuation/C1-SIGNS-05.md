@@ -1,6 +1,6 @@
 # C1-SIGNS-05 — bounded native-sign review
 
-4 supported local punctuation corrections; 1 candidates blocked. Chapter 1 is unfinished. Source spellings, original transcript strings, restored verses and existing source-layer separations are not changed.
+Five local terminal-punctuation decisions are integrated; the publication receipt is pending. U01557 initial heading letters remain explicitly uncertain. Chapter 1 is unfinished. Source spellings, original transcript strings, restored verses and existing source-layer separations are not changed.
 
 [Exact report](C1-SIGNS-05.json) · [Independent raw image reading](C1-SIGNS-05-independent-attempt1-reading.txt) · [Execution receipt](C1-SIGNS-05-independent-attempt1-execution.json) · [Native evidence manifest](../../../evidence/chapter-01/continuation/C1-SIGNS-05/manifest.json).
 
@@ -66,23 +66,19 @@ Next step: Local boundary count integrated; other signs and source layers remain
 
 Canonical record: `SIGNS-VERIFIED-20260928-U01540`.
 
-## U01557
+## U01557 — terminal punctuation resolved; initial letters uncertain
 
-PDF61, BDRC63, row 6.
+PDF61, BDRC63, member `0063.png`, row6 left. The preceding visible row5 fragment is `དེས་ན་རླུང་གིས་ལས་ཀུན`; the faint row6 continuation before the heading is not transcribed in this review. The readable small-heading ending is `སོ་གསུམ་པ`, followed by the main-text sequence `ལུས་ཀྱི་གནད་ནི་རྩ་ཡིན་ཏེ`.
 
-Observed before: `དེས་ན་རླུང་གིས་ལས་ཀུན / [faint བྱེད]`; target: `[faint དྲིས] ལན་སོ་གསུམ་པ`; after: `ལུས་ཀྱི་གནད་ནི་རྩ་ཡིན་ཏེ`. Slash denotes a physical break; any bracketed faintness note is a reader comment, not a printed mark.
+Existing electronic reading: `དྲིས་ལན་སོ་གསུམ་པ།`.
 
-Existing reading: `དྲིས་ལན་སོ་གསུམ་པ།`.
+Reading with corrected terminal punctuation: `དྲིས་ལན་སོ་གསུམ་པ། །`. **The initial electronic letters remain provisional, not scan-certified.**
 
-**Blocked; no change adopted.**
+The [recovered follow-up](C1-SIGNS-05-U01557-followup-reading.txt) corrects the initial report's conflation of physical correspondence with complete lexical reading. The exact boundary is established although the initial heading letters remain faint. The coordinator's new native-page and context review likewise distinguishes final pa's joined right limb from a detached narrow closing shad and a second detached upright before main-text lus. Both boundary marks are retained once at the preceding U anchor, following the edition's established representation. Bottom-frame strokes and preceding-row fill dots are excluded.
 
-Independent correspondence/glyph discrimination is incomplete; preserve the coordinator proposal as provisional only.
+Canonical record: `SIGNS-VERIFIED-20260928-U01557`. The terminal evidence is the source-exact [boundary crop](../../../evidence/chapter-01/continuation/C1-SIGNS-05/U01557-terminal-boundary.png), native **[1280,855,1550,1030]**. The [uncertain initial crop](../../../evidence/chapter-01/continuation/C1-SIGNS-05/U01557-initial-heading-unresolved.png), **[905,865,1120,1010]**, preserves the separate lexical obstacle. The generated reading text explicitly flags the print reading as uncertain and links the evidence. No faint letter is newly supplied from another witness or certified merely by the electronic wording.
 
-Independent confidence: Moderate overall; stronger for the terminal boundary than for the heading's opening.
-
-Limits: The complete heading cannot be independently confirmed from the faint opening. The supplied electronic wording is retained only as the existing reading.
-
-Next step: Verify the faint opening from an authorized alternative image before confirming full correspondence; preserve the two visible boundary shads meanwhile.
+This completes the local terminal-sign decision only; publication is recorded by the subsequent receipt. The initial-letter question is explicitly carried as `C1-SIGNS-05-U01557-HEADING-INITIAL` in C1-BASE-PHYSICAL, with its source-member hash, exact evidence and next step. Do not count the same reader's follow-up as a second independent vote. No full page or complete heading spelling is newly certified.
 
 ## U01634
 

@@ -476,7 +476,9 @@
         "diplomatic/collation/chapter-01/annotation-audit.json",
         "diplomatic/collation/chapter-01/opening-boundary-review.json",
         "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01.json",
-        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/U02489-heading-terminal-uncertain.png"
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/U02489-heading-terminal-uncertain.png",
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05.json",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/U01557-initial-heading-unresolved.png"
       ],
       "output_paths": [
         "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL.json",
@@ -486,7 +488,8 @@
       "protocol": "coverage_review",
       "completion_criteria": [
         "Apply every coverage_review criterion to the full stated scope; retain exact remaining spans until completed.",
-        "Explicitly resolve or retain a precisely bounded disposition for C1-SIGNS-01-U02489-HEADING-TERMINAL at PDF97 row1; completed main-terminal candidate U02489 does not certify that heading sign."
+        "Explicitly resolve or retain a precisely bounded disposition for C1-SIGNS-01-U02489-HEADING-TERMINAL at PDF97 row1; completed main-terminal candidate U02489 does not certify that heading sign.",
+        "Account explicitly for the faint initial U01557 heading letters on PDF61 row6, without confusing their uncertainty with its separately verified two-mark terminal inventory."
       ],
       "report_paths": [],
       "checkpoint_commit": null,
@@ -533,6 +536,53 @@
           "reason": "Independent reader cannot securely distinguish the small heading terminal stroke from its final-letter structure; coordinator does not promote that stroke to a certified mark. Available source is not declared unreadable.",
           "next_step": "During C1-BASE-PHYSICAL, inspect the full PDF97 row1 heading plus this exact boundary; distinguish final pa structure from detached shads and encode every verified heading mark separately from the PDF96 main text.",
           "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01.json"
+        },
+        {
+          "id": "C1-SIGNS-05-U01557-HEADING-INITIAL",
+          "status": "unresolved",
+          "anchor": "U01557",
+          "source_layer": "Initial letters of small reply heading; separate from its verified terminal punctuation",
+          "pdf_page": 61,
+          "bdrc_image": 63,
+          "row": 6,
+          "source_member": "0063.png",
+          "source_member_sha256": "1f190b4cdce61b6787c65c6d80a6743f73fe61aeebf2e16335cdd49102643203",
+          "native_bounds": [
+            905,
+            865,
+            1120,
+            1010
+          ],
+          "evidence_paths_and_hashes": [
+            {
+              "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/U01557-initial-heading-unresolved.png",
+              "pdf_page": 61,
+              "bdrc_image": 63,
+              "source_member": "0063.png",
+              "source_member_sha256": "1f190b4cdce61b6787c65c6d80a6743f73fe61aeebf2e16335cdd49102643203",
+              "sha256": "6112b58a2a1ad193cb05bbeb11cc6d8bfee053418199dc278a965fab7a6206b8",
+              "dimensions": [
+                5696,
+                1344
+              ],
+              "bounds": [
+                905,
+                865,
+                1120,
+                1010
+              ],
+              "crop_dimensions": [
+                215,
+                145
+              ],
+              "derivation": "Exact unscaled native crop; no enhancement",
+              "role": "Unresolved initial heading glyphs; not supplied from transcript"
+            }
+          ],
+          "reason": "Initial small-heading letters are faint and not completely discriminated by the independent reader or coordinator. Their electronic spelling is retained provisionally, not certified.",
+          "next_step": "In C1-BASE-PHYSICAL inspect the complete page61 row6 heading and the bounded initial crop; transcribe only securely distinguished letters, retaining explicit uncertainty otherwise. Do not re-open the separately supported terminal count without new contrary evidence.",
+          "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05.json",
+          "canonical_uncertainty_note": "SIGNS-VERIFIED-20260928-U01557"
         }
       ]
     },
@@ -1395,7 +1445,9 @@
         "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p049-row5-right-context.png",
         "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p049-row6-left-context.png"
       ],
-      "canonical_record_ids": [],
+      "canonical_record_ids": [
+        "SCAN-CH1-UNCERTAIN-U01239"
+      ],
       "blocker": {
         "reason": "Terminal angular components in native member0051.png, approximately [4853,781,4947,887], do not securely establish the complete electronic gnyis pa ending. Two detached shads follow; their count is no longer the blocker.",
         "next_step": "Seek a more decisive reading of the bounded final angular letter(s) from better source detail or securely discriminated same-print letter forms. Do not repeat counts or silently supply pa; retain this exact unresolved span in the completion gate."
@@ -1527,7 +1579,7 @@
       "batch_id": "C1-SIGNS-05",
       "status": "in_progress",
       "owner": "ChatGPT-coordinator-20260928-resume3",
-      "disposition": "unresolved",
+      "disposition": "adopted",
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
         "json_pointer": "/before_units/U01557"
@@ -1540,14 +1592,21 @@
         "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/p061-row2-context.png",
         "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/p061-row5-context.png",
         "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/p061-row5-right-U01556.png",
-        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/p061-row6-left-U01557.png"
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/p061-row6-left-U01557.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/U01557-initial-heading-unresolved.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/U01557-terminal-boundary.png"
       ],
-      "canonical_record_ids": [],
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U01557"
+      ],
       "blocker": null,
       "prior_blocker_at_resume": {
         "reason": "The complete heading cannot be independently confirmed from the faint opening. The supplied electronic wording is retained only as the existing reading.",
         "next_step": "Verify the faint opening from an authorized alternative image before confirming full correspondence; preserve the two visible boundary shads meanwhile."
-      }
+      },
+      "carried_forward_uncertainty_ids": [
+        "C1-SIGNS-05-U01557-HEADING-INITIAL"
+      ]
     },
     {
       "id": "C1-SIGN-U01634",
