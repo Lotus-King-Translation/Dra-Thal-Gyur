@@ -807,7 +807,201 @@
           "sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
           "bytes": 37281893
         }
-      ]
+      ],
+      "coordinator_initial_reading": [
+        {
+          "id": "A2000-C01-S04-L1",
+          "pdf_page": 85,
+          "row": 4,
+          "before": "ལུགས་སུ་ཁྱད་པར་སྡེབས་གཉིས་ཀྱི",
+          "target": "འདུ་ཤེས་ཅན་དག་མཐའ་ལ་འཇོག",
+          "after": "མངོན་སུམ་གནད་ཀྱི་མན་ངག་གིས",
+          "detached_boundary_shads": 1,
+          "rationale": "The final ga connected right limb is not an additional detached sign. A separate narrow upright follows before the page frame; next row starts mngon without an extra opening shad. Provisional pending independent review."
+        },
+        {
+          "id": "A2000-C01-S04-L2",
+          "pdf_page": 85,
+          "row": 5,
+          "before": "འདུ་ཤེས་ཅན་དག་མཐའ་ལ་འཇོག",
+          "target": "མངོན་སུམ་གནད་ཀྱི་མན་ངག་གིས",
+          "after": "འཁོར་འདས་འབྱེད་པའི",
+          "detached_boundary_shads": 2,
+          "rationale": "One detached mark follows gis and a separate upright precedes khor; joined final letter limb and low ink excluded."
+        },
+        {
+          "id": "A2000-C01-S05-L1",
+          "pdf_page": 90,
+          "row": 1,
+          "before": "སྡོམ་པ་ལུས་དང་ངག་ཏུ་འདུས",
+          "target": "རྡོ་རྗེ་གསང་བའི་གནས་གཟུང་བྱའོ",
+          "after": "དྲིས་ལན་ང་བདུན་པ",
+          "detached_boundary_shads": 2,
+          "rationale": "Main final byao is followed by a detached boundary mark and a second upright preceding the smaller heading; preserve both without merging layers."
+        },
+        {
+          "id": "A2000-C01-S06-L1",
+          "pdf_page": 90,
+          "row": 1,
+          "before": "རྡོ་རྗེ་གསང་བའི་གནས་གཟུང་བྱའོ",
+          "target": "དྲིས་ལན་ང་བདུན་པ",
+          "after": "ཡང་ནི",
+          "detached_boundary_shads": 2,
+          "rationale": "Small heading final pa has a joined limb, followed by one detached upright and another before yang; frame lies beyond yang ni and is excluded."
+        },
+        {
+          "id": "A2000-C01-S07-L1",
+          "pdf_page": 90,
+          "row": "1 right to 2 left",
+          "before": "དྲིས་ལན་ང་བདུན་པ",
+          "target": "ཡང་ནི / ལྷ་དབང་དགའ་བྱེད་ཉོན",
+          "after": "ཚིག་བརྗོད་གྲུབ་མཐའི",
+          "detached_boundary_shads": 2,
+          "rationale": "Count after nyon, not the row1 break after yang ni. One terminal and one following-side detached upright; letter stems and neighboring vowel ink excluded."
+        }
+      ],
+      "coordinator_scope": "Full-page orientation plus existing native overlapping columns: PDF85 rows4-5 and PDF90 rows1-2. This is not a full-page certification. Counts are proposals, not yet integrated.",
+      "evidence_paths_and_hashes": [
+        {
+          "pdf_page": 85,
+          "bdrc_image": 87,
+          "source_member": "0087.png",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p085-native.png",
+          "sha256": "556b67acc769b5dcba4b60ee42a3be1b7c1201eac8d5ff9ac5d94c4727e125f7",
+          "dimensions": [
+            5696,
+            1344
+          ],
+          "status": "Prepared next bounded source packet; no visual decision yet"
+        },
+        {
+          "pdf_page": 90,
+          "bdrc_image": 92,
+          "source_member": "0092.png",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p090-native.png",
+          "sha256": "d9179f0033fa50262f8386eb9a267a212230449d8d66455d72bf317bc8283525",
+          "dimensions": [
+            5696,
+            1344
+          ],
+          "status": "Prepared next bounded source packet; no visual decision yet"
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p085-x0000-context.png",
+          "pdf_page": 85,
+          "bdrc_image": 87,
+          "source_member": "0087.png",
+          "source_member_sha256": "556b67acc769b5dcba4b60ee42a3be1b7c1201eac8d5ff9ac5d94c4727e125f7",
+          "native_bounds": [
+            0,
+            0,
+            2000,
+            1344
+          ],
+          "crop_dimensions": [
+            2000,
+            1344
+          ],
+          "sha256": "aa5f25fd1f65b81571758fa4ca308a7806531883f33e760ee9b76876c008e350",
+          "derivation": "Exact unscaled overlapping native column; next bounded source packet only"
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p085-x1900-context.png",
+          "pdf_page": 85,
+          "bdrc_image": 87,
+          "source_member": "0087.png",
+          "source_member_sha256": "556b67acc769b5dcba4b60ee42a3be1b7c1201eac8d5ff9ac5d94c4727e125f7",
+          "native_bounds": [
+            1900,
+            0,
+            3900,
+            1344
+          ],
+          "crop_dimensions": [
+            2000,
+            1344
+          ],
+          "sha256": "fa63337823a2fb76addd78053dd1812342ff0f0a37da944f27dd2ab4ab405d1e",
+          "derivation": "Exact unscaled overlapping native column; next bounded source packet only"
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p085-x3696-context.png",
+          "pdf_page": 85,
+          "bdrc_image": 87,
+          "source_member": "0087.png",
+          "source_member_sha256": "556b67acc769b5dcba4b60ee42a3be1b7c1201eac8d5ff9ac5d94c4727e125f7",
+          "native_bounds": [
+            3696,
+            0,
+            5696,
+            1344
+          ],
+          "crop_dimensions": [
+            2000,
+            1344
+          ],
+          "sha256": "7d1957df9d0d729b8a095aaf040160ddc356d6ca4d0a9b61b002cd6b57441201",
+          "derivation": "Exact unscaled overlapping native column; next bounded source packet only"
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p090-x0000-context.png",
+          "pdf_page": 90,
+          "bdrc_image": 92,
+          "source_member": "0092.png",
+          "source_member_sha256": "d9179f0033fa50262f8386eb9a267a212230449d8d66455d72bf317bc8283525",
+          "native_bounds": [
+            0,
+            0,
+            2000,
+            1344
+          ],
+          "crop_dimensions": [
+            2000,
+            1344
+          ],
+          "sha256": "689529a887664dcdcd52bc5e9d6b48bb6f8cbaf36452f7aa50f2ba53d6f55898",
+          "derivation": "Exact unscaled overlapping native column; next bounded source packet only"
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p090-x1900-context.png",
+          "pdf_page": 90,
+          "bdrc_image": 92,
+          "source_member": "0092.png",
+          "source_member_sha256": "d9179f0033fa50262f8386eb9a267a212230449d8d66455d72bf317bc8283525",
+          "native_bounds": [
+            1900,
+            0,
+            3900,
+            1344
+          ],
+          "crop_dimensions": [
+            2000,
+            1344
+          ],
+          "sha256": "f85c4435eb4847023300311f400047ab76cb91a80ce0a3c24641f200fbbbba1e",
+          "derivation": "Exact unscaled overlapping native column; next bounded source packet only"
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p090-x3696-context.png",
+          "pdf_page": 90,
+          "bdrc_image": 92,
+          "source_member": "0092.png",
+          "source_member_sha256": "d9179f0033fa50262f8386eb9a267a212230449d8d66455d72bf317bc8283525",
+          "native_bounds": [
+            3696,
+            0,
+            5696,
+            1344
+          ],
+          "crop_dimensions": [
+            2000,
+            1344
+          ],
+          "sha256": "32c7cba88b5ffc5daa31ffb595f6d5c4820586e7eaad3da81b9ccbe9c4cd0001",
+          "derivation": "Exact unscaled overlapping native column; next bounded source packet only"
+        }
+      ],
+      "prior_verified_claim_commit": "d4c4de3a88ec11c89e25eab442a0a635ea279bdc"
     }
   ],
   "remaining_targets": [

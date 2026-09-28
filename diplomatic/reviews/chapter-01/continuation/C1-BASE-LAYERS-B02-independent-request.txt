@@ -1,0 +1,18 @@
+Perform a bounded independent visual reading of restored Tibetan text and its physical boundary signs. This is source-text editing, not English translation. Inspect only the attached source images directly. Do not invoke tools, alter any authorization settings, read other reports, write files or publish commits. If direct image access is unavailable, state that no visual reading occurred. Your final answer is captured by the coordinator.
+
+Witness: governing Adzom 2000 image archive. Native pages are 5696x1344; PDF85=BDRC87/member0087.png; PDF90=BDRC92/member0092.png. Their hashes have been verified. Attachments 1/2 are full native PDF85/90. Attachments 3/4/5 are PDF85 unscaled columns at x=0..2000,1900..3900,3696..5696, each y=0..1344; 6/7/8 are the same columns for PDF90. Overlaps provide context, not new witnesses. No higher-resolution reconstruction or OCR is involved.
+
+Target packet S04-S07 has five boundaries. Existing strings and anchors below are locators, never authority for unread glyphs. Preserve odd grammar/spelling; do not silently add a word. Read the actual neighboring sequence before counting marks.
+S04 after U02187, before U02188. Existing restored lines:
+1 འདུ་ཤེས་ཅན་དག་མཐའ་ལ་འཇོག
+2 མངོན་སུམ་གནད་ཀྱི་མན་ངག་གིས།
+Locate PDF85 row4 right then row5 left. U02187 locator ལུགས་སུ་ཁྱད་པར་སྡེབས་གཉིས་ཀྱི; U02188 locator འཁོར་འདས་འབྱེད་པའི་སྤྲོས་པ་གཅོད.
+S05, S06, S07 after U02308, before U02309, in this order:
+S05 main: རྡོ་རྗེ་གསང་བའི་གནས་གཟུང་བྱའོ།
+S06 small heading: དྲིས་ལན་ང་བདུན་པ།
+S07 main: ཡང་ནི་ལྷ་དབང་དགའ་བྱེད་ཉོན།
+Locate PDF90 row1 right then row2 left; S07 is split across that row turn. Prior U02308 locator སྡོམ་པ་ལུས་དང་ངག་ཏུ་འདུས; following U02309 locator ཚིག་བརྗོད་གྲུབ་མཐའི་རྣམ་གྲངས་ཀྱིས.
+
+For each of the five line endings record: exactly which images and rows inspected; observed before/target/after Tibetan within legible scope; established correspondence or obstacle; complete physical detached-sign inventory including next-leading marks and signs at row turns; distinguish letters, tshegs, shads, frame, ornaments and neighboring-row ink. Count ga/pa/na/sa limbs only as letters. Give approximate native locus bounds and clearly label them estimates. Determine the terminal tsheg separately, with uncertainty if necessary. Propose an exact punctuation-only string only when justified. Our edition places verified inter-unit shads at the preceding unit end, encoding every physical mark once; spacing in Unicode is editorial. Report any different allocation without losing a mark. Keep the small heading separate from main verse. Do not turn no lexical variation noticed into a page-wide certificate.
+
+Return JSON with task_id C1-BASE-LAYERS-B02, reader_scope, records (id A2000-C01-S04-L1/L2,S05-L1,S06-L1,S07-L1 with full prefixes), confidence by dimension, unresolved, and next_step. This is an informed independent agent reading, not blind or human palaeography. No prior reader conclusions have been supplied.
