@@ -1,20 +1,68 @@
-# Chapter 1 — recovery and continuation
+# Continue the diplomatic edition
 
-**Not ready:** full base-sign proofreading and reliable continuous comparison remain unfinished. Chapter 2 has not started.
-`main` and `recovery/consolidated-2026-09-27` contain the recovery; commit and push every substantive batch, then verify remote SHAs.
+**Start here on `main`. Chapter 1 is unfinished.** Its Markdown edition, integrated apparatus, surviving review ledgers and recovery archives are preserved together. Historical recovery branches remain available; they are not separate active work queues. Finish and remotely commit Chapter 1 before starting Chapter 2, then continue chapter by chapter.
 
-Preserved: 2,635 anchors, 359 exact transcript differences in 183 loci, 13 restored main verses, retained cloud evidence, local backup and unreachable blobs. Current counts are authoritative in [STATUS.json](STATUS.json).
-The [recovery audit](recovery/2026-09-27-local/recovery-audit.md) lists 54 missing later report bodies and archive parts010–084. No claim that all cloud work was recovered.
-The [scratch inventory](recovery/2026-09-27-local/local-scratch/ARCHIVAL-SUBSET.md), [archive extraction](recovery/2026-09-27-local/scratch-prefix-recovered/README.md) and [image integrity audit](recovery/2026-09-27-local/image-integrity-audit.json) distinguish retained bytes from valid images.
+## Start a session
 
-Fresh work: Adzom1973/Gcn boundary mappings; Tingkye three-junction recheck; four unresolved base loci; bounded Tharpaling continuation. See [coverage](collation/chapter-01/scan-coverage.json) and [readiness audit](reviews/chapter-01/readiness-audit-20260927.json).
-The [sign-adoption audit](reviews/chapter-01/sign-adoption-audit-20260927.md) withdraws ten provisional punctuation adoptions after anchor mismatches. Their proposals and original images remain preserved. Ten targets now pass independent native-context checks: nine new records and one existing-record revision adopted;30 candidates remain.
-Tharpaling recovered notes retain their interrupted-report provenance; empty p052.png stays archived while active notes use its intact halves. PDF56 ends at U02100, as supported by the fresh boundary review.
+1. Read the repository [agent instructions](../AGENTS.md), this handoff and the [work status](WORK-STATUS.md). The latter distinguishes saved coverage from unfinished reading. Read the [method](METHOD.md) before making editorial decisions.
+2. Inspect `git status --short --branch`, including untracked files. If earlier work is present, preserve it on a new recovery branch and verify the remote checkpoint **before** checkout, regeneration, synchronization or cleanup. Never discard interrupted reports, crops or failed-reading evidence. Only the coordinator publishes while collaborators are working.
+3. On a clean checkout, fetch and fast-forward to `origin/main`. Verify the branch SHA through Git or the GitHub connector. Do not use an old recovery branch as the current base. If local and remote histories differ, inspect both; do not reset or force-push.
+4. Run the read-only checks from the repository root, before building:
 
-Next: review the30 remaining sign candidates and continuous physical sign/source-layer coverage; obtain reliable Tibetan readings for the precisely listed uncollated witness ranges. Available but unread scans are not missing sources or agreement.
-Preserve unresolved U01522/U02615/U02620/S09 and title/portrait material without supplying expected wording. Sichuan remains transcript-only where full scans are unavailable.
+   ```bash
+   python3 diplomatic/tools/validate_chapter1.py --repo . --check
+   python3 diplomatic/tools/build_chapter1.py --repo . --check
+   ```
 
-Reproduce from repository root: `python3 diplomatic/tools/build_chapter1.py --repo .` then `python3 diplomatic/tools/validate_chapter1.py --repo .`.
-Mechanical success certifies its listed reconstruction/link/hash checks, not chapter readiness. Complete only when the [method](METHOD.md) and [acceptance criteria](reviews/chapter-01/readiness-audit-20260927.json) are satisfied.
+   Stop to understand a failure. A stale generated file is a synchronization problem, not permission to overwrite evidence. These commands check recorded structure, hashes and reproducibility; they do not certify manuscript readings.
+5. Open [WORK-QUEUE.json](WORK-QUEUE.json). Follow `next_task_id`, inspect any saved report, and claim at most one bounded batch by setting its owner and status. At this checkpoint the next task is **C1-SIGNS-01: U02090, U02172, U02183, U02484 and U02489**. Each has preserved candidate crops in the [paused batch manifest](recovery/2026-09-27-local/signs-third-batch-paused/manifest.json). Their signs and anchor correspondence are still unverified. If an owner claim is stale, preserve its saved files, inspect the reports and remote commits, and record the reassignment before taking over.
 
-Current asset check (requires pikepdf): `python3 diplomatic/tools/verify_recovered_assets.py`; preserves historical acquisition files and verifies the documented AGENTS.md revision in GUIDANCE-PROVENANCE.json.
+For a dirty inherited tree, create a uniquely named local recovery branch at the current HEAD with `git switch -c recovery/YYYYMMDD-HHMM` (choose an unused name). Review and stage all project work, including untracked reports/evidence, then commit it and use `git push -u origin HEAD` to create that remote branch. Verify it with `python3 diplomatic/tools/checkpoint.py --branch recovery/YYYYMMDD-HHMM --verify-only` before any further changes. The normal checkpoint helper expects the target remote branch to exist. With connector-only access, create the recovery branch at the preserved parent, publish the entire reviewed snapshot there, and verify its ref instead.
+
+If shell authentication is unavailable, use the connected GitHub tools for the same reads and non-forced publication steps. A local checkout can be stale even when a previous chat says it is synchronized. Read the actual remote ref.
+
+## Know which files govern which claims
+
+| File or directory | Role |
+| --- | --- |
+| [WORK-STATUS.md](WORK-STATUS.md) | Human account of saved coverage, known gaps and recovery limits. Update when supported coverage changes. |
+| [WORK-QUEUE.json](WORK-QUEUE.json) | Current task ownership, exact candidate IDs, next bounded work, input/output paths and completion criteria. Keep all candidate rows, including completed ones. |
+| [CONTINUATION.json](CONTINUATION.json) | Authored continuation and recovery metadata copied into generated status. |
+| [collation/chapter-01](collation/chapter-01/) | Curated source comparisons, corrections, insertions, coverage and witness ledgers. Read the queue's `decision_destinations` before editing. |
+| [reviews/chapter-01](reviews/chapter-01/) and [evidence/chapter-01](evidence/chapter-01/) | Review reports and the exact source images that support them. New continuation batches have explicit destinations in the queue. |
+| [chapter-01.md](chapter-01.md), [STATUS.json](STATUS.json), `reading-units.json`, `editorial-decisions.json` | Generated products. Edit their authored inputs, then rebuild; do not maintain a second hand-edited edition. |
+| [recovery/README.md](recovery/README.md) | Archive index and provenance boundaries. Archived scripts are historical evidence; do not execute them to regenerate current work. |
+
+The machine-readable reading needs **both** `reading-units.json` and `ch1-scan-insertions.json`. The former alone omits restored material. Full source paths, manifests and witness relationships are in [SOURCES.md](SOURCES.md). Materialize the exact required Git LFS sources before inspection; a pointer file is not a scan. Record an access failure precisely instead of claiming the page was read. For the next batch, run `git lfs pull --include="editions/adzom-2000/sgra-thal-gyur.pdf,editions/adzom-2000/original-images.zip"` and compare both SHA-256 values with `pdf_sha256` and `zip_sha256` in `editions/adzom-2000/image-manifest.json`. These two objects were successfully fetched and hash-verified during the 2026-09-28 restart audit; a fresh checkout must verify its own files.
+
+## Do one small batch and preserve it
+
+The queue contains six batches of five punctuation candidates, followed by base-layer/sign tasks and explicit witness gaps. Its `protocols` specify the required report fields and acceptance criteria. For broader witness tasks, start with the named `first_batch`, then proceed in at most five source pages at a time. If one reading is blocked, save its exact obstacle and next step; continue another eligible bounded task. Dependencies give the preferred order, not a reason to abandon other useful work.
+
+For the first punctuation batch, create the planned JSON/Markdown report under `reviews/chapter-01/continuation/C1-SIGNS-01` and save new context/crops under `evidence/chapter-01/continuation/C1-SIGNS-01/`. Record the source hash, native member, page/row, crop bounds and **actual neighboring Tibetan sequence** before proposing a sign correction. A matching image hash does not prove that a crop belongs to its labeled anchor. Preserve the historical crops even if their labels prove wrong.
+
+Save partial reports and evidence immediately. Subagents notify the coordinator as soon as a small batch exists, including uncertain or failed findings; they do not accumulate unpublished work. Integrate supported decisions in the authored collation files specified by `decision_destinations`, with rationale and evidence. Then run:
+
+```bash
+python3 diplomatic/tools/build_chapter1.py --repo .
+python3 diplomatic/tools/validate_chapter1.py --repo .
+python3 diplomatic/tools/build_chapter1.py --repo . --check
+```
+
+Update queue dispositions, report links, exact remaining spans and the next task. Keep unresolved candidates `blocked`; they are not agreement. Review every diff and all untracked project files. Once all agents have saved and paused writing, stage the reviewed reports, evidence, authored inputs and generated outputs explicitly. The coordinator then runs:
+
+```bash
+python3 diplomatic/tools/checkpoint.py --branch main --message 'Checkpoint Chapter 1 C1-SIGNS-01: provisional review'
+```
+
+The helper requires a fully staged working tree, publishes without force, and verifies the remote SHA. A failed push is an unfinished preservation checkpoint: resolve publication before the next substantial batch. With connector publication, create blobs/tree/commit on the freshly read remote parent, update the branch without force, read the ref again and verify its SHA; synchronize the checkout to that verified tree. Never report a local commit or uploaded blob as remotely saved.
+
+Record a verified batch SHA in the next queue/report update; the live Git ref remains the authority for the current checkpoint. Do not put a commit's own unknown hash inside its files. End each session with a verified remote checkpoint and a next task that another agent can execute from the repository alone.
+
+## Do not restart preserved work or erase uncertainty
+
+The Adzom and Dzongsar main lexical passes survive within their stated scopes. Use those ledgers; finish their signs, annotations and named uncertainties. The old readiness audit and recovery packet contain historical counts. Current coverage is in WORK-STATUS, current metrics are generated in STATUS, and the queue tracks unfinished actions. Historical claims are not fresh certification.
+
+Recovery still has **54 original report identities: four complete transcript-replayed bodies and 50 incomplete bodies**. That is not a percentage of research time lost. Read the archive index before further recovery; repeat searches only when a new source becomes available. A failed-reading replay, partial template or summary cannot substitute for a missing continuous collation.
+
+The final queue task, `C1-COMPLETION-GATE`, applies the method's full chapter criteria. Passing software checks alone does not close it. All observed conflicts need traceable dispositions, all declared physical spans need evidence or a precise source/access limitation, and unresolved readings must stay visible. Only then mark Chapter 1 complete, commit and verify that state remotely, and begin Chapter 2.

@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Verify recovered assets plus documented local guidance revisions.
+"""Verify materialized source assets plus documented local guidance revisions.
 
 Adapted from the unchanged historical editions/verify_assets.py.
-Writes a recovery report without altering the original acquisition report.
+Writes the current ASSET-VALIDATION.json without altering historical reports.
 """
 from pathlib import Path
 import hashlib, json, zipfile, datetime
@@ -50,6 +50,6 @@ def main():
               'documented_local_guidance_revisions':sum('local_revision' in item for item in guidance['files']), 'active_source_matches_archive':True,
               'active_source_missing_image_indices':[], 'new_ocr':False,
               'text_proofread':False, 'complete_foliation_audit':False}
-    (ROOT/'diplomatic/recovery/2026-09-27-local/asset-validation.json').write_text(json.dumps(report,indent=2)+'\n')
+    (ROOT/'diplomatic/ASSET-VALIDATION.json').write_text(json.dumps(report,indent=2)+'\n')
     print(json.dumps(report,indent=2)); print('PASS')
 if __name__ == '__main__': main()

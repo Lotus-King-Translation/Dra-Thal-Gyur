@@ -5,6 +5,9 @@ import collections
 import hashlib
 import json
 from pathlib import Path
+import sys
+
+sys.dont_write_bytecode = True
 from continuation_state import load_continuation
 
 

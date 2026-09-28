@@ -26,4 +26,4 @@ PDFs and ZIPs are stored through Git LFS. After cloning, run `git lfs pull`. Fro
 
 The [edition catalogue](editions/CATALOGUE.md) distinguishes actual files from catalogue-only records, partial scan sets, and unverified leads. Multiple manifestations or e-texts do not automatically constitute independent witnesses. Preserve each source's attribution and restrictions; this repository grants no additional redistribution rights.
 
-Current full asset verification, including the documented local guidance revision: `python3 diplomatic/tools/verify_recovered_assets.py` (requires pikepdf). The original acquisition validator and asset bytes remain preserved.
+Full asset verification after materializing all required Git LFS files: `python3 diplomatic/tools/verify_recovered_assets.py` (requires pikepdf). It checks documented local guidance revisions and writes the current `diplomatic/ASSET-VALIDATION.json`; it does not overwrite historical reports. The original acquisition validator and asset bytes remain preserved.

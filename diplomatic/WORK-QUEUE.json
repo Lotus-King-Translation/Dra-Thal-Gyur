@@ -1,0 +1,1427 @@
+{
+  "schema_version": 1,
+  "updated": "2026-09-28",
+  "canonical_branch": "main",
+  "current_chapter": 1,
+  "chapter_status": "in_progress_not_ready",
+  "next_task_id": "C1-SIGNS-01",
+  "path_base": "repository root; JSON pointers identify records without changing their historical contents",
+  "scope": "Continuation queue, not new collation. Thirty punctuation candidates are scheduling items, not accepted readings. Existing Adzom and Dzongsar main lexical passes remain valid within their recorded scopes.",
+  "reference_paths": [
+    "diplomatic/HANDOFF.md",
+    "diplomatic/WORK-STATUS.md",
+    "diplomatic/METHOD.md",
+    "diplomatic/SOURCES.md"
+  ],
+  "status_rules": {
+    "pending": "Unclaimed work; owner must be null.",
+    "in_progress": "Owner named; current bounded scope and saved report path recorded. Checkpoint before expanding scope.",
+    "blocked": "Set blocker to an object with nonempty reason and next_step, link the saved partial report and evidence, and name the current owner if assigned. Reader uncertainty is not proof that a source is unavailable.",
+    "done": "Completion criteria met; report and evidence linked, canonical dispositions integrated where supported, validation passes, and remote checkpoint verified.",
+    "candidate_dispositions": [
+      "adopted",
+      "retained_existing_reading",
+      "withdrawn",
+      "unresolved"
+    ],
+    "unresolved_rule": "An unresolved candidate remains blocked with precise evidence and next step; it is not silently counted as resolved. A bounded review report can be finished while the enclosing coverage task stays open.",
+    "lease_rule": "A named owner is a claim, not a permanent lock. At startup check saved reports and remote commits; reclaim a stale claim only after preserving its work and recording the handoff in the report.",
+    "checkpoint_rule": "Commit claim plus first saved report, then each small evidence/decision batch. Only the coordinator publishes; update this queue in the same batch. Remote SHA verification is required before moving on.",
+    "dependency_rule": "depends_on gives preferred review order except at C1-COMPLETION-GATE, where every prerequisite is mandatory. If a preceding task is blocked with a preserved report, the coordinator may select another independently actionable task and update next_task_id; do not mark the blocked task done."
+  },
+  "protocols": {
+    "punctuation_review": {
+      "maximum_candidates_per_batch": 5,
+      "steps": [
+        "Read the candidate history as a hypothesis. Verify source bytes against the manifest and inspect the full native page before using any crop.",
+        "Trace the actual neighboring Tibetan sequence to the named anchor. Record PDF page, provider image, row, source archive member, its SHA-256, and crop bounds. Byte or pixel identity alone does not establish anchor identity.",
+        "Save native page context and target evidence; distinguish main letters, shads, tshegs, frames and small source annotations. State exactly what was and was not read.",
+        "Record observed reading, existing reading, alternative, disposition, rationale, confidence, uncertainty and independent correspondence review. Expected wording cannot supply a missing glyph.",
+        "Integrate only supported decisions into the appropriate authored collation records; preserve rejected proposals and superseded evidence. Build, validate, checkpoint and verify the remote branch before the next batch."
+      ],
+      "report_required_fields": [
+        "task_id",
+        "baseline_commit",
+        "reader",
+        "source_paths_and_hashes",
+        "anchor",
+        "physical_locator",
+        "observed_context",
+        "proposed_reading",
+        "disposition",
+        "rationale",
+        "confidence",
+        "uncertainty",
+        "evidence_paths_and_hashes",
+        "independent_review",
+        "canonical_record_ids",
+        "next_step"
+      ],
+      "completion_criteria": [
+        "Every candidate in the batch has a traceable disposition and exact anchor-to-native-image correspondence.",
+        "An adopted decision has independent target correspondence review and a canonical intervention or insertion record; a retained or withdrawn proposal has an explicit reason.",
+        "Unresolved candidates are blocked with exact glyph or sign bounds and a next step; they do not become agreement.",
+        "Reports, evidence, queue, generated edition and validation agree and are preserved in a verified remote checkpoint."
+      ]
+    },
+    "coverage_review": {
+      "batch_rule": "Begin with the task first_batch. Continue in at most five source pages or fewer if reading is difficult; save partial reports immediately. Add exact batch IDs to the report instead of claiming the whole witness complete.",
+      "report_required_fields": [
+        "task_id",
+        "baseline_commit",
+        "source_paths_and_hashes",
+        "reader",
+        "physical_start_and_end",
+        "anchor_start_and_end",
+        "rows_actually_compared",
+        "dimensions_checked",
+        "unread_or_uncertain_spans",
+        "observations",
+        "canonical_record_ids",
+        "evidence_paths_and_hashes",
+        "next_physical_span"
+      ],
+      "completion_criteria": [
+        "Every required physical span is accounted for by actual comparison evidence or a precisely bounded source/access limitation; available unread pages remain unfinished.",
+        "All supported differences, source layers and unresolved readings have exact anchors, physical locators, evidence and rationale.",
+        "Retained earlier ledgers are reused within their actual scopes; superseded claims are identified explicitly.",
+        "The coverage ledger and apparatus are updated, the build and validation pass, and reports/evidence are in a verified remote checkpoint."
+      ]
+    }
+  },
+  "decision_destinations": {
+    "base_unit_correction_or_source_layer": "diplomatic/collation/chapter-01/additional-interventions.json; extend the existing record if one already governs the anchor, avoiding overlapping corrections",
+    "scan_only_insertion_or_heading": "diplomatic/collation/chapter-01/ch1-scan-insertions.json; preserve stable insertion IDs and anchor order",
+    "comparison_witness_observation": "The witness report plus diplomatic/collation/chapter-01/scan-comparison-loci.json, including uncertainty and rationale",
+    "coverage": "diplomatic/collation/chapter-01/scan-coverage.json and the exact new review ledger; update diplomatic/WORK-STATUS.md only when supported coverage changes",
+    "operational_state": "diplomatic/WORK-QUEUE.json and diplomatic/CONTINUATION.json",
+    "generated_do_not_edit_directly": [
+      "diplomatic/chapter-01.md",
+      "diplomatic/STATUS.json",
+      "diplomatic/collation/chapter-01/reading-units.json",
+      "diplomatic/collation/chapter-01/editorial-decisions.json"
+    ],
+    "historical_records": "Files under diplomatic/recovery/ remain historical evidence; do not run their scripts or overwrite them with new conclusions"
+  },
+  "tasks": [
+    {
+      "id": "C1-SIGNS-01",
+      "kind": "punctuation_batch",
+      "status": "pending",
+      "owner": null,
+      "depends_on": [],
+      "candidate_ids": [
+        "C1-SIGN-U02090",
+        "C1-SIGN-U02172",
+        "C1-SIGN-U02183",
+        "C1-SIGN-U02484",
+        "C1-SIGN-U02489"
+      ],
+      "input_paths": [
+        "diplomatic/reviews/chapter-01/readiness-audit-20260927.json",
+        "diplomatic/reviews/chapter-01/sign-adoption-audit-20260927.md",
+        "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "editions/adzom-2000/sgra-thal-gyur.pdf",
+        "editions/adzom-2000/original-images.zip",
+        "editions/adzom-2000/image-manifest.json",
+        "diplomatic/recovery/2026-09-27-local/signs-third-batch-paused/manifest.json"
+      ],
+      "output_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01.md"
+      ],
+      "evidence_directory": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/",
+      "protocol": "punctuation_review",
+      "completion_criteria": [
+        "Apply every punctuation_review criterion; preserve unresolved items as blocked before taking the next pending batch."
+      ],
+      "report_paths": [],
+      "checkpoint_commit": null,
+      "blocker": null,
+      "dependency_policy": "preferred_order"
+    },
+    {
+      "id": "C1-SIGNS-02",
+      "kind": "punctuation_batch",
+      "status": "pending",
+      "owner": null,
+      "depends_on": [
+        "C1-SIGNS-01"
+      ],
+      "candidate_ids": [
+        "C1-SIGN-U00995",
+        "C1-SIGN-U01094",
+        "C1-SIGN-U01270",
+        "C1-SIGN-U01416",
+        "C1-SIGN-U01534"
+      ],
+      "input_paths": [
+        "diplomatic/reviews/chapter-01/readiness-audit-20260927.json",
+        "diplomatic/reviews/chapter-01/sign-adoption-audit-20260927.md",
+        "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "editions/adzom-2000/sgra-thal-gyur.pdf",
+        "editions/adzom-2000/original-images.zip",
+        "editions/adzom-2000/image-manifest.json"
+      ],
+      "output_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-02.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-02.md"
+      ],
+      "evidence_directory": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/",
+      "protocol": "punctuation_review",
+      "completion_criteria": [
+        "Apply every punctuation_review criterion; preserve unresolved items as blocked before taking the next pending batch."
+      ],
+      "report_paths": [],
+      "checkpoint_commit": null,
+      "blocker": null,
+      "dependency_policy": "preferred_order"
+    },
+    {
+      "id": "C1-SIGNS-03",
+      "kind": "punctuation_batch",
+      "status": "pending",
+      "owner": null,
+      "depends_on": [
+        "C1-SIGNS-02"
+      ],
+      "candidate_ids": [
+        "C1-SIGN-U01627",
+        "C1-SIGN-U01635",
+        "C1-SIGN-U00910",
+        "C1-SIGN-U00948",
+        "C1-SIGN-U01023"
+      ],
+      "input_paths": [
+        "diplomatic/reviews/chapter-01/readiness-audit-20260927.json",
+        "diplomatic/reviews/chapter-01/sign-adoption-audit-20260927.md",
+        "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "editions/adzom-2000/sgra-thal-gyur.pdf",
+        "editions/adzom-2000/original-images.zip",
+        "editions/adzom-2000/image-manifest.json"
+      ],
+      "output_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-03.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-03.md"
+      ],
+      "evidence_directory": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/",
+      "protocol": "punctuation_review",
+      "completion_criteria": [
+        "Apply every punctuation_review criterion; preserve unresolved items as blocked before taking the next pending batch."
+      ],
+      "report_paths": [],
+      "checkpoint_commit": null,
+      "blocker": null,
+      "dependency_policy": "preferred_order"
+    },
+    {
+      "id": "C1-SIGNS-04",
+      "kind": "punctuation_batch",
+      "status": "pending",
+      "owner": null,
+      "depends_on": [
+        "C1-SIGNS-03"
+      ],
+      "candidate_ids": [
+        "C1-SIGN-U01147",
+        "C1-SIGN-U01186",
+        "C1-SIGN-U01239",
+        "C1-SIGN-U01257",
+        "C1-SIGN-U01308"
+      ],
+      "input_paths": [
+        "diplomatic/reviews/chapter-01/readiness-audit-20260927.json",
+        "diplomatic/reviews/chapter-01/sign-adoption-audit-20260927.md",
+        "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "editions/adzom-2000/sgra-thal-gyur.pdf",
+        "editions/adzom-2000/original-images.zip",
+        "editions/adzom-2000/image-manifest.json"
+      ],
+      "output_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04.md"
+      ],
+      "evidence_directory": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/",
+      "protocol": "punctuation_review",
+      "completion_criteria": [
+        "Apply every punctuation_review criterion; preserve unresolved items as blocked before taking the next pending batch."
+      ],
+      "report_paths": [],
+      "checkpoint_commit": null,
+      "blocker": null,
+      "dependency_policy": "preferred_order"
+    },
+    {
+      "id": "C1-SIGNS-05",
+      "kind": "punctuation_batch",
+      "status": "pending",
+      "owner": null,
+      "depends_on": [
+        "C1-SIGNS-04"
+      ],
+      "candidate_ids": [
+        "C1-SIGN-U01353",
+        "C1-SIGN-U01476",
+        "C1-SIGN-U01540",
+        "C1-SIGN-U01557",
+        "C1-SIGN-U01634"
+      ],
+      "input_paths": [
+        "diplomatic/reviews/chapter-01/readiness-audit-20260927.json",
+        "diplomatic/reviews/chapter-01/sign-adoption-audit-20260927.md",
+        "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "editions/adzom-2000/sgra-thal-gyur.pdf",
+        "editions/adzom-2000/original-images.zip",
+        "editions/adzom-2000/image-manifest.json"
+      ],
+      "output_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05.md"
+      ],
+      "evidence_directory": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/",
+      "protocol": "punctuation_review",
+      "completion_criteria": [
+        "Apply every punctuation_review criterion; preserve unresolved items as blocked before taking the next pending batch."
+      ],
+      "report_paths": [],
+      "checkpoint_commit": null,
+      "blocker": null,
+      "dependency_policy": "preferred_order"
+    },
+    {
+      "id": "C1-SIGNS-06",
+      "kind": "punctuation_batch",
+      "status": "pending",
+      "owner": null,
+      "depends_on": [
+        "C1-SIGNS-05"
+      ],
+      "candidate_ids": [
+        "C1-SIGN-U01661",
+        "C1-SIGN-U01727",
+        "C1-SIGN-U01539",
+        "C1-SIGN-U01595",
+        "C1-SIGN-U01688"
+      ],
+      "input_paths": [
+        "diplomatic/reviews/chapter-01/readiness-audit-20260927.json",
+        "diplomatic/reviews/chapter-01/sign-adoption-audit-20260927.md",
+        "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "editions/adzom-2000/sgra-thal-gyur.pdf",
+        "editions/adzom-2000/original-images.zip",
+        "editions/adzom-2000/image-manifest.json"
+      ],
+      "output_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-06.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-06.md"
+      ],
+      "evidence_directory": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-06/",
+      "protocol": "punctuation_review",
+      "completion_criteria": [
+        "Apply every punctuation_review criterion; preserve unresolved items as blocked before taking the next pending batch."
+      ],
+      "report_paths": [],
+      "checkpoint_commit": null,
+      "blocker": null,
+      "dependency_policy": "preferred_order"
+    },
+    {
+      "id": "C1-BASE-LAYERS",
+      "kind": "base_layers",
+      "status": "pending",
+      "owner": null,
+      "depends_on": [
+        "C1-SIGNS-06"
+      ],
+      "scope": "Review S02–S07 insertion signs and U01286 source annotation separation/terminal signs. These are outside the thirty unit-sign candidates.",
+      "first_batch": "Review S02 and S03 with full native context; no automatic adoption of recovered punctuation strings.",
+      "input_paths": [
+        "diplomatic/reviews/chapter-01/readiness-audit-20260927.json",
+        "diplomatic/reviews/chapter-01/sign-adoption-audit-20260927.md",
+        "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "editions/adzom-2000/sgra-thal-gyur.pdf",
+        "editions/adzom-2000/original-images.zip",
+        "editions/adzom-2000/image-manifest.json",
+        "diplomatic/collation/chapter-01/ch1-scan-insertions.json",
+        "diplomatic/recovery/2026-09-27.json"
+      ],
+      "output_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-BASE-LAYERS.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-BASE-LAYERS.md"
+      ],
+      "evidence_directory": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/",
+      "protocol": "coverage_review",
+      "completion_criteria": [
+        "Apply every coverage_review criterion to the full stated scope; retain exact remaining spans until completed."
+      ],
+      "report_paths": [],
+      "checkpoint_commit": null,
+      "blocker": null,
+      "dependency_policy": "preferred_order"
+    },
+    {
+      "id": "C1-BASE-UNCERTAINTIES",
+      "kind": "base_uncertainties",
+      "status": "pending",
+      "owner": null,
+      "depends_on": [
+        "C1-BASE-LAYERS"
+      ],
+      "scope": "Precisely resolve or bound U01522/PDF60, U02615 and U02620/PDF101, S09/PDF102, and title/portrait/foreign-script uncertainties on PDF1–2.",
+      "first_batch": "Start with the saved U01522 review and PDF60; keep unresolved if native glyphs do not discriminate.",
+      "input_paths": [
+        "diplomatic/reviews/chapter-01/readiness-audit-20260927.json",
+        "diplomatic/reviews/chapter-01/sign-adoption-audit-20260927.md",
+        "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "editions/adzom-2000/sgra-thal-gyur.pdf",
+        "editions/adzom-2000/original-images.zip",
+        "editions/adzom-2000/image-manifest.json",
+        "diplomatic/reviews/chapter-01/base-recovery-review-20260927.json",
+        "diplomatic/collation/chapter-01/opening-boundary-review.json",
+        "diplomatic/collation/chapter-01/ch1-scan-insertions.json"
+      ],
+      "output_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES.md"
+      ],
+      "evidence_directory": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/",
+      "protocol": "coverage_review",
+      "completion_criteria": [
+        "Apply every coverage_review criterion to the full stated scope; retain exact remaining spans until completed."
+      ],
+      "report_paths": [],
+      "checkpoint_commit": null,
+      "blocker": null,
+      "dependency_policy": "preferred_order"
+    },
+    {
+      "id": "C1-BASE-PHYSICAL",
+      "kind": "base_signs_and_layers",
+      "status": "pending",
+      "owner": null,
+      "depends_on": [
+        "C1-BASE-UNCERTAINTIES"
+      ],
+      "scope": "Systematic physical signs, spacing, headings and source layers across Adzom PDF1–102, including already checked lexical passages. Thirty reviewed candidates alone cannot satisfy this task.",
+      "first_batch": "Record physical coverage PDF1–5, reusing exact completed local reviews; continue in bounded page batches. Do not redo the saved main lexical pass wholesale.",
+      "input_paths": [
+        "diplomatic/reviews/chapter-01/readiness-audit-20260927.json",
+        "diplomatic/reviews/chapter-01/sign-adoption-audit-20260927.md",
+        "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "editions/adzom-2000/sgra-thal-gyur.pdf",
+        "editions/adzom-2000/original-images.zip",
+        "editions/adzom-2000/image-manifest.json",
+        "diplomatic/collation/chapter-01/continuous-early.json",
+        "diplomatic/collation/chapter-01/continuous-late.json",
+        "diplomatic/collation/chapter-01/annotation-audit.json",
+        "diplomatic/collation/chapter-01/opening-boundary-review.json"
+      ],
+      "output_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL.md"
+      ],
+      "evidence_directory": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/",
+      "protocol": "coverage_review",
+      "completion_criteria": [
+        "Apply every coverage_review criterion to the full stated scope; retain exact remaining spans until completed."
+      ],
+      "report_paths": [],
+      "checkpoint_commit": null,
+      "blocker": null,
+      "dependency_policy": "preferred_order"
+    },
+    {
+      "id": "C1-DZONGSAR",
+      "kind": "witness_coverage",
+      "status": "pending",
+      "owner": null,
+      "depends_on": [
+        "C1-BASE-PHYSICAL"
+      ],
+      "scope": "PDF1–121: title/portrait/foreign script, exact physical signs and notes, and all listed local uncertainties. Preserve the saved main lexical comparison PDF2–121.",
+      "first_batch": "Read the three existing ledgers and list unresolved IDs; first targeted batch U00440/U00534/U00710 before broad sign/source-layer coverage.",
+      "input_paths": [
+        "editions/dzongsar-manuscript/sgra-thal-gyur.pdf",
+        "diplomatic/collation/chapter-01/dzongsar-collation.json",
+        "diplomatic/collation/chapter-01/dzongsar-middle.json",
+        "diplomatic/collation/chapter-01/dzongsar-late.json"
+      ],
+      "output_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR.md"
+      ],
+      "evidence_directory": "diplomatic/evidence/chapter-01/continuation/C1-DZONGSAR/",
+      "protocol": "coverage_review",
+      "completion_criteria": [
+        "Apply every coverage_review criterion to the full stated scope; retain exact remaining spans until completed."
+      ],
+      "report_paths": [],
+      "checkpoint_commit": null,
+      "blocker": null,
+      "dependency_policy": "preferred_order"
+    },
+    {
+      "id": "C1-TINGKYE",
+      "kind": "witness_coverage",
+      "status": "pending",
+      "owner": null,
+      "depends_on": [
+        "C1-BASE-PHYSICAL"
+      ],
+      "scope": "Complete continuous PDF3–34 and40–69 through row4; opening1–2 and35–39 remain partial. Preserve fresh junction checks at6/27/32.",
+      "first_batch": "Review archived61–69 fragments and current boundary/junction reports first, then create a bounded PDF3–7 continuation ledger; fragments do not certify surrounding coverage.",
+      "input_paths": [
+        "editions/tingkye-1973/sgra-thal-gyur.pdf",
+        "diplomatic/collation/chapter-01/tingkye-collation.json",
+        "diplomatic/collation/chapter-01/tingkye-root.json",
+        "diplomatic/reviews/chapter-01/tingkye-recovery-review-20260927.json",
+        "diplomatic/recovery/2026-09-27-task-records/missing-report-recovery-matrix.json"
+      ],
+      "output_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE.md"
+      ],
+      "evidence_directory": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/",
+      "protocol": "coverage_review",
+      "completion_criteria": [
+        "Apply every coverage_review criterion to the full stated scope; retain exact remaining spans until completed."
+      ],
+      "report_paths": [],
+      "checkpoint_commit": null,
+      "blocker": null,
+      "dependency_policy": "preferred_order"
+    },
+    {
+      "id": "C1-TSAMDRAK",
+      "kind": "witness_coverage",
+      "status": "pending",
+      "owner": null,
+      "depends_on": [
+        "C1-BASE-PHYSICAL"
+      ],
+      "scope": "Resolve recorded opening1–13 suffix/stack uncertainties; reliable continuous PDF14–83 through row6, including signs/source notes.",
+      "first_batch": "Test reliable discrimination on listed opening uncertainties U00012/U00030/U00148; if successful continue PDF14–18. Record reader limits without labeling the whole source illegible.",
+      "input_paths": [
+        "editions/tsamdrak-1982/sgra-thal-gyur.pdf",
+        "diplomatic/collation/chapter-01/tsamdrak-collation.json"
+      ],
+      "output_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK.md"
+      ],
+      "evidence_directory": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/",
+      "protocol": "coverage_review",
+      "completion_criteria": [
+        "Apply every coverage_review criterion to the full stated scope; retain exact remaining spans until completed."
+      ],
+      "report_paths": [],
+      "checkpoint_commit": null,
+      "blocker": null,
+      "dependency_policy": "preferred_order"
+    },
+    {
+      "id": "C1-THARPALING",
+      "kind": "witness_coverage",
+      "status": "pending",
+      "owner": null,
+      "depends_on": [
+        "C1-BASE-PHYSICAL"
+      ],
+      "scope": "Missing PDF4–43 ledger; verify retained44–51; complete52–71 through row5. Previous57–71 traversal collated zero full pages. Withdrawn omission claims stay withdrawn; PDF56 ends U02100.",
+      "first_batch": "Read retained44–51 fragments and partial52–56 with their provenance before any re-reading; first new bounded comparison PDF4–8. Preserve the empty interrupted p052 original and use intact halves.",
+      "input_paths": [
+        "editions/tharpaling-1983/sgra-thal-gyur.pdf",
+        "diplomatic/collation/chapter-01/tharpaling-collation.json",
+        "diplomatic/collation/chapter-01/recovered-tharpaling.json",
+        "diplomatic/recovery/agent-originals/gadkar_ch1/README.md",
+        "diplomatic/recovery/2026-09-27-task-records/missing-report-recovery-matrix.json",
+        "diplomatic/reviews/chapter-01/tharpaling-continuation-review-20260927.md"
+      ],
+      "output_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-THARPALING.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-THARPALING.md"
+      ],
+      "evidence_directory": "diplomatic/evidence/chapter-01/continuation/C1-THARPALING/",
+      "protocol": "coverage_review",
+      "completion_criteria": [
+        "Apply every coverage_review criterion to the full stated scope; retain exact remaining spans until completed."
+      ],
+      "report_paths": [],
+      "checkpoint_commit": null,
+      "blocker": null,
+      "dependency_policy": "preferred_order"
+    },
+    {
+      "id": "C1-DEGE",
+      "kind": "witness_coverage",
+      "status": "pending",
+      "owner": null,
+      "depends_on": [
+        "C1-BASE-PHYSICAL"
+      ],
+      "scope": "Continuous PDF3–54 through row3; opening1–2 exact endings, interlinear material and signs remain partial.",
+      "first_batch": "Read opening and boundary reports, then compare PDF3–7 continuously, recording faint endings as exact uncertainties.",
+      "input_paths": [
+        "editions/dege-W1ER7/sgra-thal-gyur.pdf",
+        "diplomatic/reviews/chapter-01/second-dege-tingkye.md",
+        "diplomatic/collation/chapter-01/dege-boundary.json"
+      ],
+      "output_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-DEGE.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-DEGE.md"
+      ],
+      "evidence_directory": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/",
+      "protocol": "coverage_review",
+      "completion_criteria": [
+        "Apply every coverage_review criterion to the full stated scope; retain exact remaining spans until completed."
+      ],
+      "report_paths": [],
+      "checkpoint_commit": null,
+      "blocker": null,
+      "dependency_policy": "preferred_order"
+    },
+    {
+      "id": "C1-GADKAR",
+      "kind": "witness_coverage",
+      "status": "pending",
+      "owner": null,
+      "depends_on": [
+        "C1-BASE-PHYSICAL"
+      ],
+      "scope": "Reliable exact discrimination in opening PDF1–11, then continuous12–91 through row4, signs and below-line annotations. Existing locator sequence is not lexical agreement.",
+      "first_batch": "Test unresolved opening suffix/stack distinctions against native evidence; first five-page comparison must wait until reliable reading is demonstrated.",
+      "input_paths": [
+        "editions/gadkar-manuscript/sgra-thal-gyur.pdf",
+        "diplomatic/collation/chapter-01/gadkar-ch1.json"
+      ],
+      "output_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-GADKAR.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-GADKAR.md"
+      ],
+      "evidence_directory": "diplomatic/evidence/chapter-01/continuation/C1-GADKAR/",
+      "protocol": "coverage_review",
+      "completion_criteria": [
+        "Apply every coverage_review criterion to the full stated scope; retain exact remaining spans until completed."
+      ],
+      "report_paths": [],
+      "checkpoint_commit": null,
+      "blocker": null,
+      "dependency_policy": "preferred_order"
+    },
+    {
+      "id": "C1-ZHICHEN",
+      "kind": "witness_coverage",
+      "status": "pending",
+      "owner": null,
+      "depends_on": [
+        "C1-BASE-PHYSICAL"
+      ],
+      "scope": "Establish Chapter1 endpoint, then reliable continuous reading and all source layers/signs. No certified main lexical range survives.",
+      "first_batch": "Use opening/boundary-search records to identify the actual colophon on native pages; record failed candidate pages and exact continuation point.",
+      "input_paths": [
+        "editions/khams-zhichen-manuscript/sgra-thal-gyur.pdf",
+        "diplomatic/collation/chapter-01/zhichen-ch1.json"
+      ],
+      "output_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN.md"
+      ],
+      "evidence_directory": "diplomatic/evidence/chapter-01/continuation/C1-ZHICHEN/",
+      "protocol": "coverage_review",
+      "completion_criteria": [
+        "Apply every coverage_review criterion to the full stated scope; retain exact remaining spans until completed."
+      ],
+      "report_paths": [],
+      "checkpoint_commit": null,
+      "blocker": null,
+      "dependency_policy": "preferred_order"
+    },
+    {
+      "id": "C1-W1ER119",
+      "kind": "witness_coverage",
+      "status": "pending",
+      "owner": null,
+      "depends_on": [
+        "C1-BASE-PHYSICAL"
+      ],
+      "scope": "Establish opening alignment and Chapter1 endpoint; determine both text edges and chapter membership of16 manifest discontinuities; complete continuous comparison.",
+      "first_batch": "Read the17 inspection records and replayed import audit; test opening alignment and actual endpoint. A numerical gap alone is not a textual omission.",
+      "input_paths": [
+        "editions/seventeen-tantras-W1ER119/sgra-thal-gyur.pdf",
+        "diplomatic/collation/chapter-01/w1er119-ch1.json",
+        "diplomatic/recovery/2026-09-27-task-records/missing-report-recovery-matrix.json"
+      ],
+      "output_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-W1ER119.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-W1ER119.md"
+      ],
+      "evidence_directory": "diplomatic/evidence/chapter-01/continuation/C1-W1ER119/",
+      "protocol": "coverage_review",
+      "completion_criteria": [
+        "Apply every coverage_review criterion to the full stated scope; retain exact remaining spans until completed."
+      ],
+      "report_paths": [],
+      "checkpoint_commit": null,
+      "blocker": null,
+      "dependency_policy": "preferred_order"
+    },
+    {
+      "id": "C1-LANGTANG",
+      "kind": "witness_coverage",
+      "status": "pending",
+      "owner": null,
+      "depends_on": [
+        "C1-BASE-PHYSICAL"
+      ],
+      "scope": "Recheck historical PDF104 endpoint; continuous Chapter1 comparison and all later gap effects. Opening provider images3→6 continuity is already recorded.",
+      "first_batch": "Re-establish actual boundary at PDF104 from native glyphs, using historical claims only as locators; then inspect next unverified numerical gap flanks.",
+      "input_paths": [
+        "editions/langtang-manuscript/sgra-thal-gyur.pdf",
+        "diplomatic/reviews/chapter-01/langtang-opening-gap.md",
+        "diplomatic/recovery/2026-09-27.json",
+        "diplomatic/recovery/2026-09-27-task-records/missing-report-recovery-matrix.json"
+      ],
+      "output_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-LANGTANG.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-LANGTANG.md"
+      ],
+      "evidence_directory": "diplomatic/evidence/chapter-01/continuation/C1-LANGTANG/",
+      "protocol": "coverage_review",
+      "completion_criteria": [
+        "Apply every coverage_review criterion to the full stated scope; retain exact remaining spans until completed."
+      ],
+      "report_paths": [],
+      "checkpoint_commit": null,
+      "blocker": null,
+      "dependency_policy": "preferred_order"
+    },
+    {
+      "id": "C1-ADZOM1973",
+      "kind": "witness_coverage",
+      "status": "pending",
+      "owner": null,
+      "depends_on": [
+        "C1-BASE-PHYSICAL"
+      ],
+      "scope": "Provider container root11–215; compare Chapter1 title11 through boundary112. Account for internal exposures and exact compact boundary inscription. Related block manifestation is not an independent vote.",
+      "first_batch": "Read boundary mapping and source manifest, enumerate exposures on provider pages11–15, then compare those five pages.",
+      "input_paths": [
+        "editions/adzom-1973-1977/bdrc-W1KG892.pdf",
+        "diplomatic/reviews/chapter-01/container-mapping-recovery-20260927.json"
+      ],
+      "output_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-ADZOM1973.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-ADZOM1973.md"
+      ],
+      "evidence_directory": "diplomatic/evidence/chapter-01/continuation/C1-ADZOM1973/",
+      "protocol": "coverage_review",
+      "completion_criteria": [
+        "Apply every coverage_review criterion to the full stated scope; retain exact remaining spans until completed."
+      ],
+      "report_paths": [],
+      "checkpoint_commit": null,
+      "blocker": null,
+      "dependency_policy": "preferred_order"
+    },
+    {
+      "id": "C1-GCN",
+      "kind": "witness_coverage",
+      "status": "pending",
+      "owner": null,
+      "depends_on": [
+        "C1-BASE-PHYSICAL"
+      ],
+      "scope": "Provider title407, incipit408, Chapter1 ends484 row4. Establish exposure accounting and continuous comparison; middle fragments and late failed-reading replay are not full ledgers.",
+      "first_batch": "Read saved boundary mapping, retained443–448 fragments and failed late report; first bounded comparison provider pages407–411 after a reliable reading test.",
+      "input_paths": [
+        "editions/gcn-manuscript/bdrc-W1ER128.pdf",
+        "diplomatic/reviews/chapter-01/container-mapping-recovery-20260927.json",
+        "diplomatic/recovery/agent-originals/zhichen_ch1/transcript-files/gcn_late_report.initial.py",
+        "diplomatic/recovery/2026-09-27.json",
+        "diplomatic/recovery/2026-09-27-task-records/missing-report-recovery-matrix.json"
+      ],
+      "output_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-GCN.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-GCN.md"
+      ],
+      "evidence_directory": "diplomatic/evidence/chapter-01/continuation/C1-GCN/",
+      "protocol": "coverage_review",
+      "completion_criteria": [
+        "Apply every coverage_review criterion to the full stated scope; retain exact remaining spans until completed."
+      ],
+      "report_paths": [],
+      "checkpoint_commit": null,
+      "blocker": null,
+      "dependency_policy": "preferred_order"
+    },
+    {
+      "id": "C1-TRANSCRIPT-SCOPE",
+      "kind": "source_scope",
+      "status": "pending",
+      "owner": null,
+      "depends_on": [
+        "C1-BASE-PHYSICAL"
+      ],
+      "scope": "Keep Sichuan and Wikisource exact transcript apparatus and provenance distinct from unseen printed-witness readings. Check source availability and record any actual access limitations at the chapter gate.",
+      "first_batch": "Verify the source register and exact transcript scope; do not claim full Sichuan scan verification.",
+      "input_paths": [
+        "diplomatic/SOURCES.md",
+        "editions/sichuan-2016/README.md",
+        "editions/adzom-wikisource/PROVENANCE.json",
+        "diplomatic/collation/chapter-01/chapter1-conflicts.json",
+        "diplomatic/reviews/chapter-01/wikisource.md"
+      ],
+      "output_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-TRANSCRIPT-SCOPE.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-TRANSCRIPT-SCOPE.md"
+      ],
+      "evidence_directory": "diplomatic/evidence/chapter-01/continuation/C1-TRANSCRIPT-SCOPE/",
+      "protocol": "coverage_review",
+      "completion_criteria": [
+        "Apply every coverage_review criterion to the full stated scope; retain exact remaining spans until completed."
+      ],
+      "report_paths": [],
+      "checkpoint_commit": null,
+      "blocker": null,
+      "dependency_policy": "preferred_order"
+    },
+    {
+      "id": "C1-COMPLETION-GATE",
+      "kind": "chapter_gate",
+      "status": "pending",
+      "owner": null,
+      "depends_on": [
+        "C1-SIGNS-01",
+        "C1-SIGNS-02",
+        "C1-SIGNS-03",
+        "C1-SIGNS-04",
+        "C1-SIGNS-05",
+        "C1-SIGNS-06",
+        "C1-BASE-LAYERS",
+        "C1-BASE-UNCERTAINTIES",
+        "C1-BASE-PHYSICAL",
+        "C1-DZONGSAR",
+        "C1-TINGKYE",
+        "C1-TSAMDRAK",
+        "C1-THARPALING",
+        "C1-DEGE",
+        "C1-GADKAR",
+        "C1-ZHICHEN",
+        "C1-W1ER119",
+        "C1-LANGTANG",
+        "C1-ADZOM1973",
+        "C1-GCN",
+        "C1-TRANSCRIPT-SCOPE"
+      ],
+      "scope": "Complete the declared Chapter1 coverage and apparatus before Chapter2. No chapter is currently complete.",
+      "first_batch": "Audit every earlier task against its actual reports; identify all remaining source spans and unresolved readings. Mechanical validation cannot certify manuscript readings.",
+      "input_paths": [
+        "diplomatic/METHOD.md",
+        "diplomatic/WORK-STATUS.md",
+        "diplomatic/STATUS.json",
+        "diplomatic/VALIDATION.json",
+        "diplomatic/reviews/chapter-01/readiness-audit-20260927.json",
+        "diplomatic/collation/chapter-01/scan-coverage.json"
+      ],
+      "output_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-COMPLETION-GATE.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-COMPLETION-GATE.md"
+      ],
+      "evidence_directory": "diplomatic/evidence/chapter-01/continuation/C1-COMPLETION-GATE/",
+      "protocol": "coverage_review",
+      "completion_criteria": [
+        "Every declared acquired Chapter1 extent is established and each physical span has actual comparison evidence or a precisely bounded source/access limitation.",
+        "All readable base words, source layers and signs have been inspected; exact unresolved glyphs retained with native evidence rather than silently repaired.",
+        "All supported differences, withdrawals and variants are incorporated with anchors, witness identities, physical locators, rationale and confidence.",
+        "Current rendered edition, normalized records, source hashes, evidence integrity, coverage/status and validation agree.",
+        "Coordinator commits and pushes the completed-chapter state, verifies remote SHA, then starts Chapter2."
+      ],
+      "report_paths": [],
+      "checkpoint_commit": null,
+      "blocker": null,
+      "dependency_policy": "all_required_for_completion"
+    }
+  ],
+  "punctuation_candidates": [
+    {
+      "id": "C1-SIGN-U02090",
+      "anchor": "U02090",
+      "batch_id": "C1-SIGNS-01",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U02090"
+      },
+      "historical_evidence_paths": [
+        "diplomatic/recovery/2026-09-27-local/signs-third-batch-paused/U02090-native-crop.png"
+      ],
+      "historical_evidence_note": "Retained candidate material only; correspondence and sign reading require review.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    },
+    {
+      "id": "C1-SIGN-U02172",
+      "anchor": "U02172",
+      "batch_id": "C1-SIGNS-01",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U02172"
+      },
+      "historical_evidence_paths": [
+        "diplomatic/recovery/2026-09-27-local/signs-third-batch-paused/U02172-native-crop.png"
+      ],
+      "historical_evidence_note": "Retained candidate material only; correspondence and sign reading require review.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    },
+    {
+      "id": "C1-SIGN-U02183",
+      "anchor": "U02183",
+      "batch_id": "C1-SIGNS-01",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U02183"
+      },
+      "historical_evidence_paths": [
+        "diplomatic/recovery/2026-09-27-local/signs-third-batch-paused/U02183-native-crop.png"
+      ],
+      "historical_evidence_note": "Retained candidate material only; correspondence and sign reading require review.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    },
+    {
+      "id": "C1-SIGN-U02484",
+      "anchor": "U02484",
+      "batch_id": "C1-SIGNS-01",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U02484"
+      },
+      "historical_evidence_paths": [
+        "diplomatic/recovery/2026-09-27-local/signs-third-batch-paused/U02484-native-crop.png"
+      ],
+      "historical_evidence_note": "Retained candidate material only; correspondence and sign reading require review.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    },
+    {
+      "id": "C1-SIGN-U02489",
+      "anchor": "U02489",
+      "batch_id": "C1-SIGNS-01",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U02489"
+      },
+      "historical_evidence_paths": [
+        "diplomatic/recovery/2026-09-27-local/signs-third-batch-paused/U02489-native-crop.png",
+        "diplomatic/recovery/2026-09-27-local/signs-third-batch-paused/U02489-heading-native-crop.png"
+      ],
+      "historical_evidence_note": "Retained candidate material only; correspondence and sign reading require review.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    },
+    {
+      "id": "C1-SIGN-U00995",
+      "anchor": "U00995",
+      "batch_id": "C1-SIGNS-02",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U00995"
+      },
+      "historical_evidence_paths": [],
+      "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    },
+    {
+      "id": "C1-SIGN-U01094",
+      "anchor": "U01094",
+      "batch_id": "C1-SIGNS-02",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U01094"
+      },
+      "historical_evidence_paths": [],
+      "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    },
+    {
+      "id": "C1-SIGN-U01270",
+      "anchor": "U01270",
+      "batch_id": "C1-SIGNS-02",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U01270"
+      },
+      "historical_evidence_paths": [],
+      "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    },
+    {
+      "id": "C1-SIGN-U01416",
+      "anchor": "U01416",
+      "batch_id": "C1-SIGNS-02",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U01416"
+      },
+      "historical_evidence_paths": [],
+      "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    },
+    {
+      "id": "C1-SIGN-U01534",
+      "anchor": "U01534",
+      "batch_id": "C1-SIGNS-02",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U01534"
+      },
+      "historical_evidence_paths": [],
+      "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    },
+    {
+      "id": "C1-SIGN-U01627",
+      "anchor": "U01627",
+      "batch_id": "C1-SIGNS-03",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U01627"
+      },
+      "historical_evidence_paths": [],
+      "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    },
+    {
+      "id": "C1-SIGN-U01635",
+      "anchor": "U01635",
+      "batch_id": "C1-SIGNS-03",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U01635"
+      },
+      "historical_evidence_paths": [],
+      "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    },
+    {
+      "id": "C1-SIGN-U00910",
+      "anchor": "U00910",
+      "batch_id": "C1-SIGNS-03",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U00910"
+      },
+      "historical_evidence_paths": [],
+      "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    },
+    {
+      "id": "C1-SIGN-U00948",
+      "anchor": "U00948",
+      "batch_id": "C1-SIGNS-03",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U00948"
+      },
+      "historical_evidence_paths": [],
+      "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    },
+    {
+      "id": "C1-SIGN-U01023",
+      "anchor": "U01023",
+      "batch_id": "C1-SIGNS-03",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U01023"
+      },
+      "historical_evidence_paths": [],
+      "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    },
+    {
+      "id": "C1-SIGN-U01147",
+      "anchor": "U01147",
+      "batch_id": "C1-SIGNS-04",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U01147"
+      },
+      "historical_evidence_paths": [],
+      "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    },
+    {
+      "id": "C1-SIGN-U01186",
+      "anchor": "U01186",
+      "batch_id": "C1-SIGNS-04",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U01186"
+      },
+      "historical_evidence_paths": [],
+      "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    },
+    {
+      "id": "C1-SIGN-U01239",
+      "anchor": "U01239",
+      "batch_id": "C1-SIGNS-04",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U01239"
+      },
+      "historical_evidence_paths": [],
+      "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    },
+    {
+      "id": "C1-SIGN-U01257",
+      "anchor": "U01257",
+      "batch_id": "C1-SIGNS-04",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U01257"
+      },
+      "historical_evidence_paths": [],
+      "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    },
+    {
+      "id": "C1-SIGN-U01308",
+      "anchor": "U01308",
+      "batch_id": "C1-SIGNS-04",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U01308"
+      },
+      "historical_evidence_paths": [],
+      "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    },
+    {
+      "id": "C1-SIGN-U01353",
+      "anchor": "U01353",
+      "batch_id": "C1-SIGNS-05",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U01353"
+      },
+      "historical_evidence_paths": [],
+      "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    },
+    {
+      "id": "C1-SIGN-U01476",
+      "anchor": "U01476",
+      "batch_id": "C1-SIGNS-05",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U01476"
+      },
+      "historical_evidence_paths": [],
+      "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    },
+    {
+      "id": "C1-SIGN-U01540",
+      "anchor": "U01540",
+      "batch_id": "C1-SIGNS-05",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U01540"
+      },
+      "historical_evidence_paths": [],
+      "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    },
+    {
+      "id": "C1-SIGN-U01557",
+      "anchor": "U01557",
+      "batch_id": "C1-SIGNS-05",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U01557"
+      },
+      "historical_evidence_paths": [],
+      "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    },
+    {
+      "id": "C1-SIGN-U01634",
+      "anchor": "U01634",
+      "batch_id": "C1-SIGNS-05",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U01634"
+      },
+      "historical_evidence_paths": [],
+      "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    },
+    {
+      "id": "C1-SIGN-U01661",
+      "anchor": "U01661",
+      "batch_id": "C1-SIGNS-06",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U01661"
+      },
+      "historical_evidence_paths": [],
+      "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    },
+    {
+      "id": "C1-SIGN-U01727",
+      "anchor": "U01727",
+      "batch_id": "C1-SIGNS-06",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U01727"
+      },
+      "historical_evidence_paths": [],
+      "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    },
+    {
+      "id": "C1-SIGN-U01539",
+      "anchor": "U01539",
+      "batch_id": "C1-SIGNS-06",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U01539"
+      },
+      "historical_evidence_paths": [],
+      "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    },
+    {
+      "id": "C1-SIGN-U01595",
+      "anchor": "U01595",
+      "batch_id": "C1-SIGNS-06",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U01595"
+      },
+      "historical_evidence_paths": [],
+      "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    },
+    {
+      "id": "C1-SIGN-U01688",
+      "anchor": "U01688",
+      "batch_id": "C1-SIGNS-06",
+      "status": "pending",
+      "owner": null,
+      "disposition": null,
+      "historical_record": {
+        "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
+        "json_pointer": "/before_units/U01688"
+      },
+      "historical_evidence_paths": [],
+      "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
+      "report_path": null,
+      "evidence_paths": [],
+      "canonical_record_ids": [],
+      "blocker": null
+    }
+  ],
+  "deferred_chapters": {
+    "chapters": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "final_colophon": "not_started",
+    "start_condition": "Chapter1 completion gate has passed and its completed-chapter commit is verified remotely."
+  }
+}
