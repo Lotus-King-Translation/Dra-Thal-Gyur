@@ -154,8 +154,8 @@
     {
       "id": "C1-SIGNS-02",
       "kind": "punctuation_batch",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "ChatGPT-coordinator-20260928-session2",
       "depends_on": [
         "C1-SIGNS-01"
       ],
@@ -185,7 +185,10 @@
       "completion_criteria": [
         "Apply every punctuation_review criterion; preserve unresolved items as blocked before taking the next pending batch."
       ],
-      "report_paths": [],
+      "report_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-02.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-02.md"
+      ],
       "checkpoint_commit": null,
       "blocker": null,
       "dependency_policy": "preferred_order"
@@ -1052,8 +1055,8 @@
       "id": "C1-SIGN-U00995",
       "anchor": "U00995",
       "batch_id": "C1-SIGNS-02",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "ChatGPT-coordinator-20260928-session2",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -1061,7 +1064,7 @@
       },
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-02.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
@@ -1070,8 +1073,8 @@
       "id": "C1-SIGN-U01094",
       "anchor": "U01094",
       "batch_id": "C1-SIGNS-02",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "ChatGPT-coordinator-20260928-session2",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -1079,7 +1082,7 @@
       },
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-02.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
@@ -1088,8 +1091,8 @@
       "id": "C1-SIGN-U01270",
       "anchor": "U01270",
       "batch_id": "C1-SIGNS-02",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "ChatGPT-coordinator-20260928-session2",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -1097,7 +1100,7 @@
       },
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-02.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
@@ -1106,8 +1109,8 @@
       "id": "C1-SIGN-U01416",
       "anchor": "U01416",
       "batch_id": "C1-SIGNS-02",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "ChatGPT-coordinator-20260928-session2",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -1115,7 +1118,7 @@
       },
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-02.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
@@ -1124,8 +1127,8 @@
       "id": "C1-SIGN-U01534",
       "anchor": "U01534",
       "batch_id": "C1-SIGNS-02",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "ChatGPT-coordinator-20260928-session2",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -1133,7 +1136,7 @@
       },
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-02.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
