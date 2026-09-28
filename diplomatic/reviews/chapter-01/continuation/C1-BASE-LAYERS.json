@@ -1,7 +1,7 @@
 {
   "task_id": "C1-BASE-LAYERS",
   "baseline_commit": "39b09f6f090cc3e98f478941ef69f38b41a75cbd",
-  "reader": "ChatGPT-coordinator-20260928-resume3",
+  "reader": "ChatGPT-coordinator-20260928-continuous",
   "status": "in_progress",
   "scope": "S02-S07 insertion punctuation and U01286 source-layer review; each subsection is separately bounded",
   "current_batch_id": "C1-BASE-LAYERS-B02",
@@ -781,13 +781,33 @@
         85,
         90
       ],
-      "status": "claimed",
-      "owner": "ChatGPT-coordinator-20260928-resume3",
+      "status": "in_progress",
+      "owner": "ChatGPT-coordinator-20260928-continuous",
       "baseline_commit": "2ee597e24cccce417de37c1c7057e345ac4e7c9a",
       "rows_actually_compared": [],
       "observations": [],
       "canonical_record_ids": [],
-      "next_physical_span": "PDF85 rows4-5 S04; PDF90 rows1-2 S05/S06/S07. U01286 remains a later separate layer batch."
+      "next_physical_span": "PDF85 rows4-5 S04; PDF90 rows1-2 S05/S06/S07. U01286 remains a later separate layer batch.",
+      "ownership_history": [
+        {
+          "from": "ChatGPT-coordinator-20260928-resume3",
+          "to": "ChatGPT-coordinator-20260928-continuous",
+          "baseline": "cdaec0b506a2a4b3fe685791dc4e042debca415a",
+          "reason": "Resume saved claimed B02; no unpublished inherited project files; earlier report and manifest inspected."
+        }
+      ],
+      "restart_source_verification": [
+        {
+          "path": "editions/adzom-2000/sgra-thal-gyur.pdf",
+          "sha256": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343",
+          "bytes": 37358206
+        },
+        {
+          "path": "editions/adzom-2000/original-images.zip",
+          "sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+          "bytes": 37281893
+        }
+      ]
     }
   ],
   "remaining_targets": [

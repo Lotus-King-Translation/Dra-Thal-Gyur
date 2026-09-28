@@ -1,0 +1,135 @@
+{
+  "baseline_commit": "cdaec0b506a2a4b3fe685791dc4e042debca415a",
+  "chapter_complete": false,
+  "task_counts": {
+    "done": 5,
+    "blocked": 1,
+    "in_progress": 1,
+    "pending": 15
+  },
+  "known_sign_candidates": {
+    "total": 30,
+    "disposed": 29,
+    "blocked": [
+      "U01239"
+    ]
+  },
+  "base_remaining": [
+    "S04-S07 insertion signs",
+    "U01286 source layer",
+    "U01239 heading ending",
+    "U01557 heading initials",
+    "U02489 heading terminal",
+    "U01522 fused cluster",
+    "U02615 annotation attestation",
+    "U02620 compressed annotation",
+    "S09 boundary inscription",
+    "title and portrait",
+    "PDF1-102 systematic physical proofreading"
+  ],
+  "explicit_unfinished_comparison_ranges": [
+    {
+      "witness": "Tingkye",
+      "ranges": [
+        [
+          3,
+          34
+        ],
+        [
+          40,
+          69
+        ]
+      ],
+      "pages_in_ranges": 62
+    },
+    {
+      "witness": "Tsamdrak",
+      "ranges": [
+        [
+          14,
+          83
+        ]
+      ],
+      "pages_in_ranges": 70
+    },
+    {
+      "witness": "Tharpaling",
+      "ranges": [
+        [
+          4,
+          71
+        ]
+      ],
+      "pages_in_ranges": 68
+    },
+    {
+      "witness": "Dege",
+      "ranges": [
+        [
+          3,
+          54
+        ]
+      ],
+      "pages_in_ranges": 52
+    },
+    {
+      "witness": "Gadkar",
+      "ranges": [
+        [
+          12,
+          91
+        ]
+      ],
+      "pages_in_ranges": 80
+    },
+    {
+      "witness": "Adzom1973",
+      "ranges": [
+        [
+          11,
+          112
+        ]
+      ],
+      "pages_in_ranges": 102
+    },
+    {
+      "witness": "Gcn",
+      "ranges": [
+        [
+          407,
+          484
+        ]
+      ],
+      "pages_in_ranges": 78
+    }
+  ],
+  "range_total": 512,
+  "range_count_limits": "Pages within explicitly unfinished task ranges, not entirely unread pages or effort percentage. Partial earlier findings remain reusable. Excludes additional opening, Dzongsar signs, Langtang, Zhichen and W1ER119 work.",
+  "overall_completion_percentage": null,
+  "source_status_path": "diplomatic/WORK-STATUS.md",
+  "source_paths_and_hashes": [
+    {
+      "path": "editions/adzom-2000/sgra-thal-gyur.pdf",
+      "sha256": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343",
+      "bytes": 37358206
+    },
+    {
+      "path": "editions/adzom-2000/original-images.zip",
+      "sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+      "bytes": 37281893
+    }
+  ],
+  "startup_checks": {
+    "working_tree_clean": true,
+    "ignored_project_files": [],
+    "remote_sha_matched": "cdaec0b506a2a4b3fe685791dc4e042debca415a",
+    "validation_passed": true,
+    "reproducible_build_passed": true
+  },
+  "tool_limitation": {
+    "action": "start uv Python environment with Pillow/pikepdf/PyMuPDF",
+    "result": "OpenAI could not determine safety status; action blocked",
+    "workaround_attempted": false,
+    "continuation": "Use already-preserved native image evidence for the current B02 reading; no environment installation or new crop generation attempted."
+  }
+}
