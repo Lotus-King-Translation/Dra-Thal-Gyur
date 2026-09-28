@@ -1,0 +1,34 @@
+{
+  "task_id": "C1-SIGNS-01",
+  "baseline_commit": "7fe1ac75164bfb44ca6f3aac0b0c4a31f0f5942c",
+  "reader": "ChatGPT-coordinator-20260928-C1-SIGNS-01",
+  "status": "in_progress",
+  "scope": "Only U02090, U02172, U02183, U02484, U02489; no canonical decisions yet.",
+  "startup": {
+    "inherited_worktree": "clean, including untracked and ignored project files",
+    "previous_local_head": "afb5c5133357942267dc55fc60a1d22704d5ef08",
+    "synchronization": "non-forced fetch and fast-forward; HEAD verified against live origin/main",
+    "validation_check": "passed before regeneration",
+    "build_check": "all four generated products match"
+  },
+  "source_paths_and_hashes": [
+    {
+      "path": "editions/adzom-2000/sgra-thal-gyur.pdf",
+      "sha256": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343",
+      "verified": true
+    },
+    {
+      "path": "editions/adzom-2000/original-images.zip",
+      "sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+      "verified": true
+    }
+  ],
+  "method": "Full native image inspection followed by explicit Tibetan neighbor-to-anchor mapping. Historical candidate labels and expected strings are hypotheses, not evidence. No OCR.",
+  "independent_review": {
+    "status": "not_yet_performed",
+    "note": "Do not call a same-reader recheck an independent review."
+  },
+  "observations": [],
+  "canonical_record_ids": [],
+  "next_step": "Inspect native members 0084.png, 0087.png, 0098.png and 0099.png; preserve context, target crops and first-reader findings incrementally."
+}

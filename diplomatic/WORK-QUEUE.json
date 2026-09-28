@@ -107,8 +107,8 @@
     {
       "id": "C1-SIGNS-01",
       "kind": "punctuation_batch",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "ChatGPT-coordinator-20260928-C1-SIGNS-01",
       "depends_on": [],
       "candidate_ids": [
         "C1-SIGN-U02090",
@@ -137,7 +137,10 @@
       "completion_criteria": [
         "Apply every punctuation_review criterion; preserve unresolved items as blocked before taking the next pending batch."
       ],
-      "report_paths": [],
+      "report_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01.md"
+      ],
       "checkpoint_commit": null,
       "blocker": null,
       "dependency_policy": "preferred_order"
@@ -865,8 +868,8 @@
       "id": "C1-SIGN-U02090",
       "anchor": "U02090",
       "batch_id": "C1-SIGNS-01",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "ChatGPT-coordinator-20260928-C1-SIGNS-01",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -876,7 +879,7 @@
         "diplomatic/recovery/2026-09-27-local/signs-third-batch-paused/U02090-native-crop.png"
       ],
       "historical_evidence_note": "Retained candidate material only; correspondence and sign reading require review.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
@@ -885,8 +888,8 @@
       "id": "C1-SIGN-U02172",
       "anchor": "U02172",
       "batch_id": "C1-SIGNS-01",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "ChatGPT-coordinator-20260928-C1-SIGNS-01",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -896,7 +899,7 @@
         "diplomatic/recovery/2026-09-27-local/signs-third-batch-paused/U02172-native-crop.png"
       ],
       "historical_evidence_note": "Retained candidate material only; correspondence and sign reading require review.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
@@ -905,8 +908,8 @@
       "id": "C1-SIGN-U02183",
       "anchor": "U02183",
       "batch_id": "C1-SIGNS-01",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "ChatGPT-coordinator-20260928-C1-SIGNS-01",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -916,7 +919,7 @@
         "diplomatic/recovery/2026-09-27-local/signs-third-batch-paused/U02183-native-crop.png"
       ],
       "historical_evidence_note": "Retained candidate material only; correspondence and sign reading require review.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
@@ -925,8 +928,8 @@
       "id": "C1-SIGN-U02484",
       "anchor": "U02484",
       "batch_id": "C1-SIGNS-01",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "ChatGPT-coordinator-20260928-C1-SIGNS-01",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -936,7 +939,7 @@
         "diplomatic/recovery/2026-09-27-local/signs-third-batch-paused/U02484-native-crop.png"
       ],
       "historical_evidence_note": "Retained candidate material only; correspondence and sign reading require review.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
@@ -945,8 +948,8 @@
       "id": "C1-SIGN-U02489",
       "anchor": "U02489",
       "batch_id": "C1-SIGNS-01",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "ChatGPT-coordinator-20260928-C1-SIGNS-01",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -957,7 +960,7 @@
         "diplomatic/recovery/2026-09-27-local/signs-third-batch-paused/U02489-heading-native-crop.png"
       ],
       "historical_evidence_note": "Retained candidate material only; correspondence and sign reading require review.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
