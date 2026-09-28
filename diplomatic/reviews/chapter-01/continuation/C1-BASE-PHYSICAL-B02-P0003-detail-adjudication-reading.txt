@@ -1,0 +1,16 @@
+{
+  "images_actually_inspected": [1, 2, 3, 4, 5],
+  "source_correspondence": "Overview inspected before details. All five views represent PDF3/BDRC5/member0005.png; crops and rotations supply no independent witness.",
+  "boundary_graph_components": {
+    "coordinate_basis": "Approximate native zero-based half-open bounds.",
+    "top": "Within approximately [1920,440,1975,485): broad cap with downward projections, followed by a separate short horizontal tier.",
+    "stem_and_lower": "Below the tiers, a narrow descending stroke tapers toward approximately y540. Curving strokes near its foot require separation from the next row.",
+    "detached_upright": "Approximately [2015,445,2045,545): separate tall, essentially untiered stroke."
+  },
+  "letter_vs_sign_vs_neighbor_row": "The tiered structure is punctuation-like and visibly distinguishable from the adjacent ordinary shad. The arch rising from row2, approximately [1875,510,1940,565), is neighboring vowel material; its leftward curl must not be counted as an additional punctuation tier.",
+  "literal_boundary_inventory": ["ལས", "[tiered graphic: encoding unresolved]", "།", "འབྱུང"],
+  "encoding_candidate_and_confidence": {"selected": null, "U+0F0F": "Unconfirmed; the broad cap is not securely an isolated tsheg.", "U+0F10": "Unconfirmed; two graphic levels do not establish two tshegs.", "U+0F11": "Leading morphological hypothesis, moderate confidence: the ornamental stacked structure supports comparison, but not a definitive code-point assignment."},
+  "marginal_components": {"positions": "Image5, displayed left to right; approximate local x intervals.", "single_marker": {"observed": "ཀ", "x": [80,160], "confidence": "high"}, "first_title_segment": {"observed": "སྒྲ་", "x": [250,320], "confidence": "high"}, "possible_foliation": {"observed": "གཉིས་", "x": [320,500], "confidence": "moderate-high reading; probable foliation ‘two’"}, "remaining_title_segment": {"observed": "ཐལ་འགྱུར", "x": [505,780], "confidence": "high"}, "physical_vs_interpreted_order": "Physical order is marker → first title segment → possible foliation → remaining title segment. Treating the two title segments together is interpretation; they are physically interrupted."},
+  "disagreements_or_limits": "Image4 clips the terminal scope; Image5 supplies it. No terminal shad is confidently identified. Exact punctuation encoding remains unresolved. This is informed image review, not independent-witness corroboration, human certification, or whole-chapter coverage.",
+  "next_step": "Retain the tiered graphic without forced Unicode normalization. Record the marginal components separately from the root main text, preserving their physical order."
+}

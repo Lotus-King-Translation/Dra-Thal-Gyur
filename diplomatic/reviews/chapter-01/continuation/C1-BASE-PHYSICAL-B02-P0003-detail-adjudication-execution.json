@@ -1,0 +1,42 @@
+{
+  "status": "captured_requires_coordinator_review",
+  "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B02-P0003-detail-adjudication-spec.json",
+  "request_sha256": "11e02b05f2efa96d69fd77514146c0285c565778eaf629a068c3ba642e991c06",
+  "images": [
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/p003-native.png",
+      "sha256": "7443efc091b289c3a6a3bae7c01715cbbc29a7fd6ff9958f13af4a714cfbfc79"
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/p003-x1900-y0000.png",
+      "sha256": "91a21da8ce2c219ef802aa0e4c0a365ee842f4be82851f8c8ad7b1ac40ea63dc"
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/U00014-incoming-boundary-detail.png",
+      "sha256": "ee143da604a3b3f6e5623942ab6d7eb06af0d4104f3455d4d10025787025feca"
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/margin-inscription-rotated90.png",
+      "sha256": "26a58e3c74741e7ba39d5bfe710de576f1e674e0ed63743be22bfd43d5e4cada"
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/margin-inscription-extended-rotated90.png",
+      "sha256": "545e4abcc104864d20432dad4e2e0ad07a3e8e232719c4a0ecf1372d2fe8c646"
+    }
+  ],
+  "started_at": "2026-09-28T15:56:45.855810+00:00",
+  "source_pages": [
+    3
+  ],
+  "sandbox": "read-only",
+  "editorial_decisions_made_by_wrapper": false,
+  "returncode": 0,
+  "unexpected_tool_items": [],
+  "unparseable_event_lines": 0,
+  "finished_at": "2026-09-28T15:59:34.272565+00:00",
+  "output_hashes": {
+    "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B02-P0003-detail-adjudication-reading.txt": "fa7dda8ec8a924692980b20f839eed15c10b0ddbbeff0a6a461a399a6de89706",
+    "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B02-P0003-detail-adjudication-session.jsonl": "97a27068c45fbc7ef86ff3564e179b32d06a708b919b8f7b73789efc9fcaf209",
+    "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B02-P0003-detail-adjudication-stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}
