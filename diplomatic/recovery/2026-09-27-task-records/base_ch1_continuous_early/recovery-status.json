@@ -1,0 +1,33 @@
+{
+  "classification": "new recovery provenance metadata, not original report content",
+  "original_path_checks": [
+    {
+      "path": "/workspace/scratch/a117ee885aff/ch1-continuous-early.json",
+      "exists_at_recovery_check": false
+    },
+    {
+      "path": "/workspace/scratch/a117ee885aff/ch1-continuous-early.md",
+      "exists_at_recovery_check": false
+    },
+    {
+      "path": "/workspace/scratch/a117ee885aff/dzongsar-ch1-collation.json",
+      "exists_at_recovery_check": false
+    },
+    {
+      "path": "/workspace/scratch/a117ee885aff/dzongsar-ch1-collation.md",
+      "exists_at_recovery_check": false
+    },
+    {
+      "path": "/workspace/scratch/a117ee885aff/dzongsar_collation_work.py",
+      "exists_at_recovery_check": false
+    }
+  ],
+  "retained_context_status": {
+    "adzom_continuous_early": "compacted summary only; full original JSON/MD contents not retained",
+    "dzongsar_ch1": "literal generator/input/update fragments and messages retained; generated full JSON/MD bytes not directly retained",
+    "tsamdrak": "no report body in retained context",
+    "tingkye": "no report body in retained context",
+    "tharpaling": "no report body in retained context"
+  },
+  "recovery_actions": "Saved retained text only. No facsimile rereading, old-generator execution, new readings, or canonical report overwrite."
+}
