@@ -2407,5 +2407,165 @@
       }
     },
     "status": "adopted after independent native-context correspondence and explicit boundary-inventory clarification"
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260928-U01094",
+    "units": [
+      "U01094"
+    ],
+    "original_units": {
+      "U01094": "ལུས་རྫོགས་ཡན་ལག་གསང་འབྱེད་པའོ།"
+    },
+    "replacement_units": {
+      "U01094": "ལུས་རྫོགས་ཡན་ལག་གསང་འབྱེད་པའོ། །"
+    },
+    "old": "ལུས་རྫོགས་ཡན་ལག་གསང་འབྱེད་པའོ།",
+    "new": "ལུས་རྫོགས་ཡན་ལག་གསང་འབྱེད་པའོ། །",
+    "rationale": "Target spans PDF44 rows3 and4. Two detached boundary uprights stand after the full main-text ending pa-o and before gnyis; nearby small source writing and vowel/letter strokes are excluded. All physical boundary marks are encoded once at the preceding electronic unit end, following the edition convention; their space-separated Unicode representation does not measure physical spacing. No lexical or annotation text is changed.",
+    "locator": "Adzom2000 PDF 44 / main row 3 right -> 4 left",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p044-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p044-row3-right-context.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p044-row4-left-context.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p044-row3-middle-context.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/U01094-terminal.png"
+    ],
+    "evidence_hashes": {
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p044-native.png": "eb473f51e6f7f537fc672d362d766a88331b5bcb17ef959523f869568bb4c8f3",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p044-row3-right-context.png": "d427896d4993f7b2c8284e53485b852448ae9b88e45f345be249375fb4918f71",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p044-row4-left-context.png": "5641eb6e78764b1bd947ebe9d37ce30562f074d6282c94a349d95222f4917d38",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p044-row3-middle-context.png": "5df886f342a3e22818faa033ae9d278ed684fe3c936f95e264820d1b8c678d23",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/U01094-terminal.png": "317d08a781e3d1b1ce49f91e556418d3bbb50f2f3f5813e3507a5e34111c1793"
+    },
+    "confidence": {
+      "correspondence": "high, independent informed agent and coordinator contexts",
+      "boundary_shads": "high for the two detached marks only"
+    },
+    "source_record": "reviews/chapter-01/continuation/C1-SIGNS-02.json#U01094",
+    "punctuation_review": {
+      "report": "reviews/chapter-01/continuation/C1-SIGNS-02-independent.json",
+      "native_archive_sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+      "physical_boundary_shads": 2,
+      "scope": "One local boundary; not a complete-page sign or lexical certificate."
+    }
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260928-U01270",
+    "units": [
+      "U01270"
+    ],
+    "original_units": {
+      "U01270": "རྣལ་འབྱོར་པ་ཡིས་བརྩམ་པར་བྱའོ།"
+    },
+    "replacement_units": {
+      "U01270": "རྣལ་འབྱོར་པ་ཡིས་བརྩམ་པར་བྱའོ། །"
+    },
+    "old": "རྣལ་འབྱོར་པ་ཡིས་བརྩམ་པར་བྱའོ།",
+    "new": "རྣལ་འབྱོར་པ་ཡིས་བརྩམ་པར་བྱའོ། །",
+    "rationale": "Two detached uprights separate the main verse ending bya-o from the smaller following reply heading. Neither is the lower page frame. The complete heading and the small note before the target are not recollated here. All physical boundary marks are encoded once at the preceding electronic unit end, following the edition convention; their space-separated Unicode representation does not measure physical spacing. No lexical or annotation text is changed.",
+    "locator": "Adzom2000 PDF 50 / main row 6",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p050-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p050-row6-right-context.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p050-row6-middle-context.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/U01270-terminal.png"
+    ],
+    "evidence_hashes": {
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p050-native.png": "d8b7887a5712b2d501b6c5d3129d1c8ec135e546c902d28782ef8d81be4a488e",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p050-row6-right-context.png": "b87a08c23e8e7a9bdfce27fa5f1c4e425d44f2b458c7ae3146b1dd794eca6af2",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p050-row6-middle-context.png": "92f13e9628770e0973b21ebc0a06d5ee5e7a29b0bd69ddd359139d4cd12c8a4f",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/U01270-terminal.png": "db96ddf88221dc854b1b8194da2187dc2fe2e81be4ac760cfcbd224b109e0dc7"
+    },
+    "confidence": {
+      "correspondence": "high, independent informed agent and coordinator contexts",
+      "boundary_shads": "high for the two detached marks only"
+    },
+    "source_record": "reviews/chapter-01/continuation/C1-SIGNS-02.json#U01270",
+    "punctuation_review": {
+      "report": "reviews/chapter-01/continuation/C1-SIGNS-02-independent.json",
+      "native_archive_sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+      "physical_boundary_shads": 2,
+      "scope": "One local boundary; not a complete-page sign or lexical certificate."
+    }
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260928-U01416",
+    "units": [
+      "U01416"
+    ],
+    "original_units": {
+      "U01416": "ལུས་ཀྱི་གནས་ལྔར་ལེགས་སྤྱོད་ན།"
+    },
+    "replacement_units": {
+      "U01416": "ལུས་ཀྱི་གནས་ལྔར་ལེགས་སྤྱོད་ན། །"
+    },
+    "old": "ལུས་ཀྱི་གནས་ལྔར་ལེགས་སྤྱོད་ན།",
+    "new": "ལུས་ཀྱི་གནས་ལྔར་ལེགས་སྤྱོད་ན། །",
+    "rationale": "The final na has its own descending stem; beyond it two detached shads separate the target from the following byung-ba phrase. The letter stem is not counted as punctuation. All physical boundary marks are encoded once at the preceding electronic unit end, following the edition convention; their space-separated Unicode representation does not measure physical spacing. No lexical or annotation text is changed.",
+    "locator": "Adzom2000 PDF 56 / main row 4",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p056-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p056-row4-context.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p056-row4-left-context.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/U01416-terminal.png"
+    ],
+    "evidence_hashes": {
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p056-native.png": "ba67cf19a8a54d50ffcd0d68d690bb68d8eaa594331110d78b41cb85b1713494",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p056-row4-context.png": "516b4621454de8b737123bb1bbbc37a9dd542bca820c5bab37dc6883199c0add",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p056-row4-left-context.png": "16442463faf8bdfcb7dd5e22f8cd6907b32860ab107241bbdd946d31927269a8",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/U01416-terminal.png": "35a2b6ea6df3e015b7bbc7f5a15b2e3ad8e276cf9a9912a4d8e942a2c757f70f"
+    },
+    "confidence": {
+      "correspondence": "high, independent informed agent and coordinator contexts",
+      "boundary_shads": "high for the two detached marks only"
+    },
+    "source_record": "reviews/chapter-01/continuation/C1-SIGNS-02.json#U01416",
+    "punctuation_review": {
+      "report": "reviews/chapter-01/continuation/C1-SIGNS-02-independent.json",
+      "native_archive_sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+      "physical_boundary_shads": 2,
+      "scope": "One local boundary; not a complete-page sign or lexical certificate."
+    }
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260928-U01534",
+    "units": [
+      "U01534"
+    ],
+    "original_units": {
+      "U01534": "ལུས་ཀྱི་གནད་དང་ངག་དང་ཡང་།"
+    },
+    "replacement_units": {
+      "U01534": "ལུས་ཀྱི་གནད་དང་ངག་དང་ཡང་། །"
+    },
+    "old": "ལུས་ཀྱི་གནད་དང་ངག་དང་ཡང་།",
+    "new": "ལུས་ཀྱི་གནད་དང་ངག་དང་ཡང་། །",
+    "rationale": "The anchor starts on PDF60 row6 and continues on PDF61 row1. Two detached shads stand after yang and before sems. Preserve the existing terminal tsheg; page ornament and adjacent-row strokes are excluded. All physical boundary marks are encoded once at the preceding electronic unit end, following the edition convention; their space-separated Unicode representation does not measure physical spacing. No lexical or annotation text is changed.",
+    "locator": "Adzom2000 PDF 61 / main row 1",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p060-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p061-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p060-row6-right-context.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p061-row1-context.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/U01534-terminal.png"
+    ],
+    "evidence_hashes": {
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p060-native.png": "bd87c558ba18eb6a7870be037a9ba76bf84043777f75e8c74ecefbe821c7b763",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p061-native.png": "1f190b4cdce61b6787c65c6d80a6743f73fe61aeebf2e16335cdd49102643203",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p060-row6-right-context.png": "118a1214bf90852f0c04929bdb0788784059d84073453de8ca089c42df5ebcb6",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p061-row1-context.png": "644bc4229c71756a7c57bfbfc1f7481799cc45e60193e930e944cf561c4d76a0",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/U01534-terminal.png": "35b8a8152fcbe66a36ffbf8efbfb0796670db02be6f79aa55a326b0053519c9a"
+    },
+    "confidence": {
+      "correspondence": "high, independent informed agent and coordinator contexts",
+      "boundary_shads": "high for the two detached marks only"
+    },
+    "source_record": "reviews/chapter-01/continuation/C1-SIGNS-02.json#U01534",
+    "punctuation_review": {
+      "report": "reviews/chapter-01/continuation/C1-SIGNS-02-independent.json",
+      "native_archive_sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+      "physical_boundary_shads": 2,
+      "scope": "One local boundary; not a complete-page sign or lexical certificate."
+    }
   }
 ]

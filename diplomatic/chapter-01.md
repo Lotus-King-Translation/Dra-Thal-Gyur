@@ -4397,7 +4397,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01094"></a>
 
-**U01094** ལུས་རྫོགས་ཡན་ལག་གསང་འབྱེད་པའོ། [L1-0065](#l1-0065)
+**U01094** ལུས་རྫོགས་ཡན་ལག་གསང་འབྱེད་པའོ། ། [SIGNS-VERIFIED-20260928-U01094](#signs-verified-20260928-u01094) [L1-0065](#l1-0065)
 
 <a id="u01095"></a>
 
@@ -5101,7 +5101,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01270"></a>
 
-**U01270** རྣལ་འབྱོར་པ་ཡིས་བརྩམ་པར་བྱའོ།
+**U01270** རྣལ་འབྱོར་པ་ཡིས་བརྩམ་པར་བྱའོ། ། [SIGNS-VERIFIED-20260928-U01270](#signs-verified-20260928-u01270)
 
 <a id="u01271"></a>
 
@@ -5693,7 +5693,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01416"></a>
 
-**U01416** ལུས་ཀྱི་གནས་ལྔར་ལེགས་སྤྱོད་ན། [L1-0088](#l1-0088)
+**U01416** ལུས་ཀྱི་གནས་ལྔར་ལེགས་སྤྱོད་ན། ། [SIGNS-VERIFIED-20260928-U01416](#signs-verified-20260928-u01416) [L1-0088](#l1-0088)
 
 <a id="u01417"></a>
 
@@ -6165,7 +6165,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01534"></a>
 
-**U01534** ལུས་ཀྱི་གནད་དང་ངག་དང་ཡང་། [L1-0096](#l1-0096)
+**U01534** ལུས་ཀྱི་གནད་དང་ངག་དང་ཡང་། ། [SIGNS-VERIFIED-20260928-U01534](#signs-verified-20260928-u01534) [L1-0096](#l1-0096)
 
 <a id="u01535"></a>
 
@@ -11855,6 +11855,78 @@ Units: [U02484](#u02484).
 
 **Evidence:** [p096-native.png](evidence/chapter-01/continuation/C1-SIGNS-01/p096-native.png), [p096-row5-context.png](evidence/chapter-01/continuation/C1-SIGNS-01/p096-row5-context.png), [U02484-terminal-detail.png](evidence/chapter-01/continuation/C1-SIGNS-01/U02484-terminal-detail.png), [C1-SIGNS-01.md](reviews/chapter-01/continuation/C1-SIGNS-01.md), [C1-SIGNS-01-independent-attached.md](reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md), [C1-SIGNS-01-independent-boundary-addendum.md](reviews/chapter-01/continuation/C1-SIGNS-01-independent-boundary-addendum.md)
 
+<a id="signs-verified-20260928-u01094"></a>
+
+### SIGNS-VERIFIED-20260928-U01094
+
+Units: [U01094](#u01094).
+
+**A transcript:** ལུས་རྫོགས་ཡན་ལག་གསང་འབྱེད་པའོ།
+
+**Adopted reading:** ལུས་རྫོགས་ཡན་ལག་གསང་འབྱེད་པའོ། །
+
+**Scan locator:** Adzom2000 PDF 44 / main row 3 right -> 4 left.
+
+**Decision and reason:** Target spans PDF44 rows3 and4. Two detached boundary uprights stand after the full main-text ending pa-o and before gnyis; nearby small source writing and vowel/letter strokes are excluded. All physical boundary marks are encoded once at the preceding electronic unit end, following the edition convention; their space-separated Unicode representation does not measure physical spacing. No lexical or annotation text is changed.
+
+**Confidence and limits:** {"correspondence": "high, independent informed agent and coordinator contexts", "boundary_shads": "high for the two detached marks only"}
+
+**Evidence:** [p044-native.png](evidence/chapter-01/continuation/C1-SIGNS-02/p044-native.png), [p044-row3-right-context.png](evidence/chapter-01/continuation/C1-SIGNS-02/p044-row3-right-context.png), [p044-row4-left-context.png](evidence/chapter-01/continuation/C1-SIGNS-02/p044-row4-left-context.png), [p044-row3-middle-context.png](evidence/chapter-01/continuation/C1-SIGNS-02/p044-row3-middle-context.png), [U01094-terminal.png](evidence/chapter-01/continuation/C1-SIGNS-02/U01094-terminal.png)
+
+<a id="signs-verified-20260928-u01270"></a>
+
+### SIGNS-VERIFIED-20260928-U01270
+
+Units: [U01270](#u01270).
+
+**A transcript:** རྣལ་འབྱོར་པ་ཡིས་བརྩམ་པར་བྱའོ།
+
+**Adopted reading:** རྣལ་འབྱོར་པ་ཡིས་བརྩམ་པར་བྱའོ། །
+
+**Scan locator:** Adzom2000 PDF 50 / main row 6.
+
+**Decision and reason:** Two detached uprights separate the main verse ending bya-o from the smaller following reply heading. Neither is the lower page frame. The complete heading and the small note before the target are not recollated here. All physical boundary marks are encoded once at the preceding electronic unit end, following the edition convention; their space-separated Unicode representation does not measure physical spacing. No lexical or annotation text is changed.
+
+**Confidence and limits:** {"correspondence": "high, independent informed agent and coordinator contexts", "boundary_shads": "high for the two detached marks only"}
+
+**Evidence:** [p050-native.png](evidence/chapter-01/continuation/C1-SIGNS-02/p050-native.png), [p050-row6-right-context.png](evidence/chapter-01/continuation/C1-SIGNS-02/p050-row6-right-context.png), [p050-row6-middle-context.png](evidence/chapter-01/continuation/C1-SIGNS-02/p050-row6-middle-context.png), [U01270-terminal.png](evidence/chapter-01/continuation/C1-SIGNS-02/U01270-terminal.png)
+
+<a id="signs-verified-20260928-u01416"></a>
+
+### SIGNS-VERIFIED-20260928-U01416
+
+Units: [U01416](#u01416).
+
+**A transcript:** ལུས་ཀྱི་གནས་ལྔར་ལེགས་སྤྱོད་ན།
+
+**Adopted reading:** ལུས་ཀྱི་གནས་ལྔར་ལེགས་སྤྱོད་ན། །
+
+**Scan locator:** Adzom2000 PDF 56 / main row 4.
+
+**Decision and reason:** The final na has its own descending stem; beyond it two detached shads separate the target from the following byung-ba phrase. The letter stem is not counted as punctuation. All physical boundary marks are encoded once at the preceding electronic unit end, following the edition convention; their space-separated Unicode representation does not measure physical spacing. No lexical or annotation text is changed.
+
+**Confidence and limits:** {"correspondence": "high, independent informed agent and coordinator contexts", "boundary_shads": "high for the two detached marks only"}
+
+**Evidence:** [p056-native.png](evidence/chapter-01/continuation/C1-SIGNS-02/p056-native.png), [p056-row4-context.png](evidence/chapter-01/continuation/C1-SIGNS-02/p056-row4-context.png), [p056-row4-left-context.png](evidence/chapter-01/continuation/C1-SIGNS-02/p056-row4-left-context.png), [U01416-terminal.png](evidence/chapter-01/continuation/C1-SIGNS-02/U01416-terminal.png)
+
+<a id="signs-verified-20260928-u01534"></a>
+
+### SIGNS-VERIFIED-20260928-U01534
+
+Units: [U01534](#u01534).
+
+**A transcript:** ལུས་ཀྱི་གནད་དང་ངག་དང་ཡང་།
+
+**Adopted reading:** ལུས་ཀྱི་གནད་དང་ངག་དང་ཡང་། །
+
+**Scan locator:** Adzom2000 PDF 61 / main row 1.
+
+**Decision and reason:** The anchor starts on PDF60 row6 and continues on PDF61 row1. Two detached shads stand after yang and before sems. Preserve the existing terminal tsheg; page ornament and adjacent-row strokes are excluded. All physical boundary marks are encoded once at the preceding electronic unit end, following the edition convention; their space-separated Unicode representation does not measure physical spacing. No lexical or annotation text is changed.
+
+**Confidence and limits:** {"correspondence": "high, independent informed agent and coordinator contexts", "boundary_shads": "high for the two detached marks only"}
+
+**Evidence:** [p060-native.png](evidence/chapter-01/continuation/C1-SIGNS-02/p060-native.png), [p061-native.png](evidence/chapter-01/continuation/C1-SIGNS-02/p061-native.png), [p060-row6-right-context.png](evidence/chapter-01/continuation/C1-SIGNS-02/p060-row6-right-context.png), [p061-row1-context.png](evidence/chapter-01/continuation/C1-SIGNS-02/p061-row1-context.png), [U01534-terminal.png](evidence/chapter-01/continuation/C1-SIGNS-02/U01534-terminal.png)
+
 <a id="a2000-c01-s01"></a>
 
 ### A2000-C01-S01
@@ -16306,7 +16378,7 @@ Exact differences: C1-0126.
 ལུས་རྫོགས་ཡན་ལག་གསང་འབྱེད་པའོ། །
 ```
 
-**Disposition and reason:** Retain A’s punctuation/spacing provisionally under the base-transcription policy. Do not silently normalize the B/S delimiters into A; their exact forms remain quoted. Print punctuation is not yet verified at this locus.
+**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SIGNS-VERIFIED-20260928-U01094](#signs-verified-20260928-u01094). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
 
 <a id="l1-0066"></a>
 
@@ -16950,7 +17022,7 @@ Exact differences: C1-0171, C1-0172, C1-0173.
 ལུས་ཀྱི་གནས་ལྔར་ལེགས་སྤྱོད་ན།།འབྱུང་བའི་དུས་ཉིད་རབ་བསྟིམས་ {བསྡེབས་ཀྱང་བྱུང་}ནས། །
 ```
 
-**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SCAN-CH1-LAYER-01417](#scan-ch1-layer-01417). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
+**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SCAN-CH1-LAYER-01417](#scan-ch1-layer-01417), [SIGNS-VERIFIED-20260928-U01416](#signs-verified-20260928-u01416). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
 
 <a id="l1-0089"></a>
 
@@ -17174,7 +17246,7 @@ Exact differences: C1-0189.
 ལུས་ཀྱི་གནད་དང་ངག་དང་ཡང་།།
 ```
 
-**Disposition and reason:** Retain A’s punctuation/spacing provisionally under the base-transcription policy. Do not silently normalize the B/S delimiters into A; their exact forms remain quoted. Print punctuation is not yet verified at this locus.
+**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SIGNS-VERIFIED-20260928-U01534](#signs-verified-20260928-u01534). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
 
 <a id="l1-0097"></a>
 

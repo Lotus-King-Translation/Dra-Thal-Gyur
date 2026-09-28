@@ -222,13 +222,40 @@
       "existing_readings_retained": 1,
       "fully_collated_pages_added": 0,
       "scope": "Only the five identified main-terminal boundaries. U02489 small heading terminal at PDF97 row1 remains unresolved; systematic signs/source-layer proofreading remains unfinished."
+    },
+    {
+      "task_id": "C1-SIGNS-02",
+      "report": "reviews/chapter-01/continuation/C1-SIGNS-02.json",
+      "independent_image_report": "reviews/chapter-01/continuation/C1-SIGNS-02-independent.json",
+      "main_terminal_anchors": [
+        "U00995",
+        "U01094",
+        "U01270",
+        "U01416",
+        "U01534"
+      ],
+      "source_pages_for_context": [
+        40,
+        44,
+        50,
+        56,
+        60,
+        61
+      ],
+      "adopted_main_reading_changes": 4,
+      "existing_readings_retained": 0,
+      "unresolved_anchors": [
+        "U00995"
+      ],
+      "fully_collated_pages_added": 0,
+      "scope": "Four corroborated two-shad boundaries. U00995 count disputed (2 versus3); no correction adopted at that anchor. Source layers and whole-page signs remain uncollated."
     }
   ],
   "known_unit_sign_queue": {
     "queue": "WORK-QUEUE.json",
     "original_candidate_identities": 30,
-    "completed_candidates": 5,
-    "unfinished_candidates": 25,
+    "completed_candidates": 9,
+    "unfinished_candidates": 21,
     "note": "Scheduling/disposition count, not a chapter completeness percentage or a full-page signs pass."
   }
 }

@@ -2,7 +2,7 @@
   "task_id": "C1-SIGNS-02",
   "baseline_commit": "bca0572bf753a7750041d81e306a20b0a9a20777",
   "reader": "ChatGPT-coordinator-20260928-session2",
-  "status": "native_contexts_preserved_reading_in_progress",
+  "status": "four_adoptions_one_boundary_dispute",
   "source_paths_and_hashes": {
     "editions/adzom-2000/sgra-thal-gyur.pdf": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343",
     "editions/adzom-2000/original-images.zip": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb"
@@ -29,13 +29,85 @@
       },
       "observed_detached_boundary_shads": 2,
       "proposed_reading": "དེ་ཡི་རྗེས་སུ་སྐལ་ལྡན་པ། །",
-      "disposition": "unresolved_pending_independent_review",
+      "disposition": "unresolved",
       "confidence": "high for local two-mark inventory; surrounding page not fully proofread",
-      "uncertainty": "Independent target correspondence review pending; electronic unit breaks are not physical lines."
+      "uncertainty": "Independent reader reports three marks; coordinator two. Need final-pa stem versus detached shad discrimination; no adoption pending resolution.",
+      "independent_review": {
+        "anchor": "U00995",
+        "actual_pdf_page_and_row": "40, row 5",
+        "observed_before": "ལོ་ནི་བདུན་ཅུ་རྩ་ལྔར་འཛིན",
+        "observed_target": "དེ་ཡི་རྗེས་སུ་སྐལ་ལྡན་པ",
+        "observed_after": "སོ་ཤའི་གླིང་ཞེས",
+        "detached_boundary_shads": 3,
+        "terminal_tsheg": false,
+        "observed_sign_description": "After the final པ, two closely spaced upright strokes are detached from the letter. Across the following blank interval, a third upright stands immediately before སོ. All three occupy the target row; none is a stroke from the row above or below.",
+        "existing_reading": "དེ་ཡི་རྗེས་སུ་སྐལ་ལྡན་པ།",
+        "punctuation_only_proposal": "Preserve combined boundary པ།། །སོ: two target-adjacent shads and one following-leading shad.",
+        "confidence": "High for correspondence and boundary count.",
+        "uncertainty": "Electronic ownership of the third shad is editorial; its physical presence is clear.",
+        "correspondence_confirmed": true
+      },
+      "evidence_paths_and_hashes": [
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p040-native.png",
+          "pdf_page": 40,
+          "bdrc_image": 42,
+          "source_member": "0042.png",
+          "sha256": "f0a89327bcf49d11b5bc21129b2ce3f71d6a2f9f8f43b0135d8b2b50290fac6a",
+          "dimensions": [
+            5696,
+            1344
+          ]
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p040-row5-context.png",
+          "pdf_page": 40,
+          "bdrc_image": 42,
+          "source_member": "0042.png",
+          "bounds": [
+            2650,
+            795,
+            5150,
+            1020
+          ],
+          "sha256": "78b198b5f35175db2ccacc95eb874ba97b10ca8fb42fbc818853495882985850",
+          "derivation": "Unscaled native rectangular crop, no enhancement or resampling."
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/U00995-terminal.png",
+          "pdf_page": 40,
+          "bdrc_image": 42,
+          "source_member": "0042.png",
+          "bounds": [
+            4140,
+            795,
+            4530,
+            1020
+          ],
+          "sha256": "a05b62ab80b6ab0271a9699a0f5760ec054a77d152439df38e0036c5ed0e1192",
+          "derivation": "Unscaled native rectangular crop; no enhancement."
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/U00995-wide-terminal-context.png",
+          "pdf_page": 40,
+          "bdrc_image": 42,
+          "source_member": "0042.png",
+          "bounds": [
+            3420,
+            795,
+            4730,
+            1020
+          ],
+          "sha256": "2740061f5b30eda3c018d8b862b426973a7c42cc0b9b0537ce4526981c173d98",
+          "derivation": "Unscaled native crop for disputed final-pa boundary."
+        }
+      ],
+      "canonical_record_ids": [],
+      "next_step": "Reinspect the final pa-head/stem and the three reported uprights in wide native context; save structural adjudication."
     },
     {
       "anchor": "U01094",
-      "status": "first_reader_provisional",
+      "status": "adopted",
       "existing_reading": "ལུས་རྫོགས་ཡན་ལག་གསང་འབྱེད་པའོ།",
       "physical_locator": [
         44,
@@ -48,13 +120,102 @@
       },
       "observed_detached_boundary_shads": 2,
       "proposed_reading": "ལུས་རྫོགས་ཡན་ལག་གསང་འབྱེད་པའོ། །",
-      "disposition": "unresolved_pending_independent_review",
+      "disposition": "adopted",
       "confidence": "high for local two-mark inventory; surrounding page not fully proofread",
-      "uncertainty": "Independent target correspondence review pending; electronic unit breaks are not physical lines."
+      "uncertainty": "Nearby small source writing is not transcribed or reassigned. No material uncertainty in the two boundary shads.",
+      "independent_review": {
+        "anchor": "U01094",
+        "actual_pdf_page_and_row": "44, rows 3 / 4; terminal boundary in row 4",
+        "observed_before": "གོང་མའི་ལུས་དང་ཡན་ལག་རྫོགས",
+        "observed_target": "ལུས་རྫོགས་ཡན་ལག་གསང་ / འབྱེད་པའོ",
+        "observed_after": "གཉིས་པའི་ལུས་ནི",
+        "detached_boundary_shads": 2,
+        "terminal_tsheg": false,
+        "observed_sign_description": "The target begins at the right of row 3 and continues at the left of row 4. One detached upright follows པའོ; another stands after a blank interval immediately before གཉིས. The vowel above the terminal letter and the adjacent-row strokes are excluded.",
+        "existing_reading": "ལུས་རྫོགས་ཡན་ལག་གསང་འབྱེད་པའོ།",
+        "punctuation_only_proposal": "Preserve combined boundary པའོ། །གཉིས; retain the following-leading shad if units are stored separately.",
+        "confidence": "High for correspondence and boundary count.",
+        "uncertainty": "Nearby small source writing is not transcribed or reassigned. No material uncertainty in the two boundary shads.",
+        "correspondence_confirmed": true
+      },
+      "evidence_paths_and_hashes": [
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p044-native.png",
+          "pdf_page": 44,
+          "bdrc_image": 46,
+          "source_member": "0046.png",
+          "sha256": "eb473f51e6f7f537fc672d362d766a88331b5bcb17ef959523f869568bb4c8f3",
+          "dimensions": [
+            5696,
+            1344
+          ]
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p044-row3-right-context.png",
+          "pdf_page": 44,
+          "bdrc_image": 46,
+          "source_member": "0046.png",
+          "bounds": [
+            3550,
+            505,
+            5220,
+            725
+          ],
+          "sha256": "d427896d4993f7b2c8284e53485b852448ae9b88e45f345be249375fb4918f71",
+          "derivation": "Unscaled native rectangular crop, no enhancement or resampling."
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p044-row4-left-context.png",
+          "pdf_page": 44,
+          "bdrc_image": 46,
+          "source_member": "0046.png",
+          "bounds": [
+            780,
+            625,
+            2750,
+            850
+          ],
+          "sha256": "5641eb6e78764b1bd947ebe9d37ce30562f074d6282c94a349d95222f4917d38",
+          "derivation": "Unscaled native rectangular crop, no enhancement or resampling."
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p044-row3-middle-context.png",
+          "pdf_page": 44,
+          "bdrc_image": 46,
+          "source_member": "0046.png",
+          "bounds": [
+            2440,
+            505,
+            3910,
+            725
+          ],
+          "sha256": "5df886f342a3e22818faa033ae9d278ed684fe3c936f95e264820d1b8c678d23",
+          "derivation": "Unscaled native rectangular crop; no enhancement."
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/U01094-terminal.png",
+          "pdf_page": 44,
+          "bdrc_image": 46,
+          "source_member": "0046.png",
+          "bounds": [
+            1080,
+            625,
+            1370,
+            850
+          ],
+          "sha256": "317d08a781e3d1b1ce49f91e556418d3bbb50f2f3f5813e3507a5e34111c1793",
+          "derivation": "Unscaled native rectangular crop; no enhancement."
+        }
+      ],
+      "rationale": "Target spans PDF44 rows3 and4. Two detached boundary uprights stand after the full main-text ending pa-o and before gnyis; nearby small source writing and vowel/letter strokes are excluded. All physical boundary marks are encoded once at the preceding electronic unit end, following the edition convention; their space-separated Unicode representation does not measure physical spacing. No lexical or annotation text is changed.",
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U01094"
+      ],
+      "next_step": "No further action on this local count; broader physical review remains open."
     },
     {
       "anchor": "U01270",
-      "status": "first_reader_provisional",
+      "status": "adopted",
       "existing_reading": "རྣལ་འབྱོར་པ་ཡིས་བརྩམ་པར་བྱའོ།",
       "physical_locator": [
         50,
@@ -67,13 +228,88 @@
       },
       "observed_detached_boundary_shads": 2,
       "proposed_reading": "རྣལ་འབྱོར་པ་ཡིས་བརྩམ་པར་བྱའོ། །",
-      "disposition": "unresolved_pending_independent_review",
+      "disposition": "adopted",
       "confidence": "high for local two-mark inventory; surrounding page not fully proofread",
-      "uncertainty": "Independent target correspondence review pending; electronic unit breaks are not physical lines."
+      "uncertainty": "The heading is quoted only through its legible opening; its remaining wording is not certified. Additional writing after the quoted preceding phrase is outside that quotation and is not reassigned.",
+      "independent_review": {
+        "anchor": "U01270",
+        "actual_pdf_page_and_row": "50, row 6",
+        "observed_before": "གཞན་ནི་མཉམ་པའི་སྦྱོར་བ་ཉིད",
+        "observed_target": "རྣལ་འབྱོར་པ་ཡིས་བརྩམ་པར་བྱའོ",
+        "observed_after": "དྲིས་ལན",
+        "detached_boundary_shads": 2,
+        "terminal_tsheg": false,
+        "observed_sign_description": "One detached vertical follows the terminal བྱའོ. A second vertical stands immediately before the smaller following heading beginning དྲིས་ལན. Both are above and separate from the lower frame line; the terminal letter's curved strokes are not counted.",
+        "existing_reading": "རྣལ་འབྱོར་པ་ཡིས་བརྩམ་པར་བྱའོ།",
+        "punctuation_only_proposal": "Preserve combined boundary བྱའོ། །དྲིས; count the heading-leading shad as well as the target-adjacent shad.",
+        "confidence": "High for local correspondence and boundary count; limited for the complete heading.",
+        "uncertainty": "The heading is quoted only through its legible opening; its remaining wording is not certified. Additional writing after the quoted preceding phrase is outside that quotation and is not reassigned.",
+        "correspondence_confirmed": true
+      },
+      "evidence_paths_and_hashes": [
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p050-native.png",
+          "pdf_page": 50,
+          "bdrc_image": 52,
+          "source_member": "0052.png",
+          "sha256": "d8b7887a5712b2d501b6c5d3129d1c8ec135e546c902d28782ef8d81be4a488e",
+          "dimensions": [
+            5696,
+            1344
+          ]
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p050-row6-right-context.png",
+          "pdf_page": 50,
+          "bdrc_image": 52,
+          "source_member": "0052.png",
+          "bounds": [
+            3550,
+            880,
+            5230,
+            1090
+          ],
+          "sha256": "b87a08c23e8e7a9bdfce27fa5f1c4e425d44f2b458c7ae3146b1dd794eca6af2",
+          "derivation": "Unscaled native rectangular crop, no enhancement or resampling."
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p050-row6-middle-context.png",
+          "pdf_page": 50,
+          "bdrc_image": 52,
+          "source_member": "0052.png",
+          "bounds": [
+            2460,
+            880,
+            4080,
+            1090
+          ],
+          "sha256": "92f13e9628770e0973b21ebc0a06d5ee5e7a29b0bd69ddd359139d4cd12c8a4f",
+          "derivation": "Unscaled native rectangular crop; no enhancement."
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/U01270-terminal.png",
+          "pdf_page": 50,
+          "bdrc_image": 52,
+          "source_member": "0052.png",
+          "bounds": [
+            4610,
+            880,
+            5000,
+            1090
+          ],
+          "sha256": "db96ddf88221dc854b1b8194da2187dc2fe2e81be4ac760cfcbd224b109e0dc7",
+          "derivation": "Unscaled native rectangular crop; no enhancement."
+        }
+      ],
+      "rationale": "Two detached uprights separate the main verse ending bya-o from the smaller following reply heading. Neither is the lower page frame. The complete heading and the small note before the target are not recollated here. All physical boundary marks are encoded once at the preceding electronic unit end, following the edition convention; their space-separated Unicode representation does not measure physical spacing. No lexical or annotation text is changed.",
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U01270"
+      ],
+      "next_step": "No further action on this local count; broader physical review remains open."
     },
     {
       "anchor": "U01416",
-      "status": "first_reader_provisional",
+      "status": "adopted",
       "existing_reading": "ལུས་ཀྱི་གནས་ལྔར་ལེགས་སྤྱོད་ན།",
       "physical_locator": [
         56,
@@ -86,13 +322,88 @@
       },
       "observed_detached_boundary_shads": 2,
       "proposed_reading": "ལུས་ཀྱི་གནས་ལྔར་ལེགས་སྤྱོད་ན། །",
-      "disposition": "unresolved_pending_independent_review",
+      "disposition": "adopted",
       "confidence": "high for local two-mark inventory; surrounding page not fully proofread",
-      "uncertainty": "Independent target correspondence review pending; electronic unit breaks are not physical lines."
+      "uncertainty": "No material uncertainty in the local sign inventory; ownership between electronic units is not determined by spacing alone.",
+      "independent_review": {
+        "anchor": "U01416",
+        "actual_pdf_page_and_row": "56, row 4",
+        "observed_before": "འབྱུང་བའི་ཡི་གེ་རབ་བཟླས་ཤིང་",
+        "observed_target": "ལུས་ཀྱི་གནས་ལྔར་ལེགས་སྤྱོད་ན",
+        "observed_after": "འབྱུང་བའི་དུས་ཉིད",
+        "detached_boundary_shads": 2,
+        "terminal_tsheg": false,
+        "observed_sign_description": "The final ན has its own descending right stroke. Beyond it is one separate upright shad; across a wider space is another upright immediately before འབྱུང. These are two detached signs, independently of the final-letter stroke.",
+        "existing_reading": "ལུས་ཀྱི་གནས་ལྔར་ལེགས་སྤྱོད་ན།",
+        "punctuation_only_proposal": "Preserve combined boundary ན། །འབྱུང; retain both physical shads.",
+        "confidence": "High for correspondence and boundary count.",
+        "uncertainty": "No material uncertainty in the local sign inventory; ownership between electronic units is not determined by spacing alone.",
+        "correspondence_confirmed": true
+      },
+      "evidence_paths_and_hashes": [
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p056-native.png",
+          "pdf_page": 56,
+          "bdrc_image": 58,
+          "source_member": "0058.png",
+          "sha256": "ba67cf19a8a54d50ffcd0d68d690bb68d8eaa594331110d78b41cb85b1713494",
+          "dimensions": [
+            5696,
+            1344
+          ]
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p056-row4-context.png",
+          "pdf_page": 56,
+          "bdrc_image": 58,
+          "source_member": "0058.png",
+          "bounds": [
+            1740,
+            625,
+            4090,
+            860
+          ],
+          "sha256": "516b4621454de8b737123bb1bbbc37a9dd542bca820c5bab37dc6883199c0add",
+          "derivation": "Unscaled native rectangular crop, no enhancement or resampling."
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p056-row4-left-context.png",
+          "pdf_page": 56,
+          "bdrc_image": 58,
+          "source_member": "0058.png",
+          "bounds": [
+            790,
+            625,
+            1900,
+            860
+          ],
+          "sha256": "16442463faf8bdfcb7dd5e22f8cd6907b32860ab107241bbdd946d31927269a8",
+          "derivation": "Unscaled native rectangular crop; no enhancement."
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/U01416-terminal.png",
+          "pdf_page": 56,
+          "bdrc_image": 58,
+          "source_member": "0058.png",
+          "bounds": [
+            2610,
+            625,
+            2950,
+            860
+          ],
+          "sha256": "35a2b6ea6df3e015b7bbc7f5a15b2e3ad8e276cf9a9912a4d8e942a2c757f70f",
+          "derivation": "Unscaled native rectangular crop; no enhancement."
+        }
+      ],
+      "rationale": "The final na has its own descending stem; beyond it two detached shads separate the target from the following byung-ba phrase. The letter stem is not counted as punctuation. All physical boundary marks are encoded once at the preceding electronic unit end, following the edition convention; their space-separated Unicode representation does not measure physical spacing. No lexical or annotation text is changed.",
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U01416"
+      ],
+      "next_step": "No further action on this local count; broader physical review remains open."
     },
     {
       "anchor": "U01534",
-      "status": "first_reader_provisional",
+      "status": "adopted",
       "existing_reading": "ལུས་ཀྱི་གནད་དང་ངག་དང་ཡང་།",
       "physical_locator": [
         61,
@@ -105,12 +416,105 @@
       },
       "observed_detached_boundary_shads": 2,
       "proposed_reading": "ལུས་ཀྱི་གནད་དང་ངག་དང་ཡང་། །",
-      "disposition": "unresolved_pending_independent_review",
+      "disposition": "adopted",
       "confidence": "high for local two-mark inventory; surrounding page not fully proofread",
-      "uncertainty": "Independent target correspondence review pending; electronic unit breaks are not physical lines."
+      "uncertainty": "The tsheg is much smaller than the two uprights but is distinguishable as a separate upper mark. Page-break ornaments and fillers are not inventoried.",
+      "independent_review": {
+        "anchor": "U01534",
+        "actual_pdf_page_and_row": "60, row 6 / 61, row 1; terminal boundary on page 61, row 1",
+        "observed_before": "དངོས་གཞི་རང་གི་རྒྱུད་བརྟེན་ནི",
+        "observed_target": "ལུས་ཀྱི་ / གནད་དང་ངག་དང་ཡང་",
+        "observed_after": "སེམས་ཀྱི་གནད་ལ་བརྟེན་པ་ཡིས",
+        "detached_boundary_shads": 2,
+        "terminal_tsheg": true,
+        "observed_sign_description": "The target begins at the right of page 60's last row and resumes on page 61's first row. After final ང, a small detached upper tsheg precedes the target-adjacent shad. A second shad stands across the blank interval immediately before སེམས. Page-opening ornament and strokes from row 2 are excluded.",
+        "existing_reading": "ལུས་ཀྱི་གནད་དང་ངག་དང་ཡང་།",
+        "punctuation_only_proposal": "Preserve combined boundary ཡང་། །སེམས: one terminal tsheg and two shads.",
+        "confidence": "High for correspondence and shad count; moderately high for the small terminal tsheg.",
+        "uncertainty": "The tsheg is much smaller than the two uprights but is distinguishable as a separate upper mark. Page-break ornaments and fillers are not inventoried.",
+        "correspondence_confirmed": true
+      },
+      "evidence_paths_and_hashes": [
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p060-native.png",
+          "pdf_page": 60,
+          "bdrc_image": 62,
+          "source_member": "0062.png",
+          "sha256": "bd87c558ba18eb6a7870be037a9ba76bf84043777f75e8c74ecefbe821c7b763",
+          "dimensions": [
+            5696,
+            1344
+          ]
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p061-native.png",
+          "pdf_page": 61,
+          "bdrc_image": 63,
+          "source_member": "0063.png",
+          "sha256": "1f190b4cdce61b6787c65c6d80a6743f73fe61aeebf2e16335cdd49102643203",
+          "dimensions": [
+            5696,
+            1344
+          ]
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p060-row6-right-context.png",
+          "pdf_page": 60,
+          "bdrc_image": 62,
+          "source_member": "0062.png",
+          "bounds": [
+            3790,
+            885,
+            5230,
+            1090
+          ],
+          "sha256": "118a1214bf90852f0c04929bdb0788784059d84073453de8ca089c42df5ebcb6",
+          "derivation": "Unscaled native rectangular crop, no enhancement or resampling."
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p061-row1-context.png",
+          "pdf_page": 61,
+          "bdrc_image": 63,
+          "source_member": "0063.png",
+          "bounds": [
+            1080,
+            255,
+            3070,
+            465
+          ],
+          "sha256": "644bc4229c71756a7c57bfbfc1f7481799cc45e60193e930e944cf561c4d76a0",
+          "derivation": "Unscaled native rectangular crop, no enhancement or resampling."
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/U01534-terminal.png",
+          "pdf_page": 61,
+          "bdrc_image": 63,
+          "source_member": "0063.png",
+          "bounds": [
+            1680,
+            255,
+            2110,
+            465
+          ],
+          "sha256": "35b8a8152fcbe66a36ffbf8efbfb0796670db02be6f79aa55a326b0053519c9a",
+          "derivation": "Unscaled native rectangular crop; no enhancement."
+        }
+      ],
+      "rationale": "The anchor starts on PDF60 row6 and continues on PDF61 row1. Two detached shads stand after yang and before sems. Preserve the existing terminal tsheg; page ornament and adjacent-row strokes are excluded. All physical boundary marks are encoded once at the preceding electronic unit end, following the edition convention; their space-separated Unicode representation does not measure physical spacing. No lexical or annotation text is changed.",
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U01534"
+      ],
+      "next_step": "No further action on this local count; broader physical review remains open."
     }
   ],
   "next_step": "Inspect full native pages and independently verify the actual target context before judging signs.",
   "evidence_manifest": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/manifest.json",
-  "checkpoint_commit": "37549955d7bc569190663c1e9da32e1eb39ff180"
+  "checkpoint_commit": "37549955d7bc569190663c1e9da32e1eb39ff180",
+  "independent_review": {
+    "path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-02-independent.json",
+    "sha256": "d227763f0d5d96faa5b9eb077007ccb4595ffe5624d3a9277f5192ffbcd86095",
+    "exit_code": 0,
+    "status": "four counts corroborated; U00995 differs, no adoption at that anchor yet"
+  },
+  "chapter_complete": false
 }
