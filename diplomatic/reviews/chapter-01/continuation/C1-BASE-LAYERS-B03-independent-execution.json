@@ -1,0 +1,58 @@
+{
+  "status": "prepared_not_invoked",
+  "baseline_commit": "1cabbf7b7b31301524d32a30b3412675e9c8fa34",
+  "argv": [
+    "codex",
+    "exec",
+    "--sandbox",
+    "read-only",
+    "--color",
+    "never",
+    "--json",
+    "-c",
+    "model_reasoning_effort=\"high\"",
+    "-C",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p051-native.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/adzom-051-left.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/adzom-051-right.png",
+    "-o",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/reviews/chapter-01/continuation/C1-BASE-LAYERS-B03-independent-reading.txt",
+    "-"
+  ],
+  "request_path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-LAYERS-B03-independent-request.txt",
+  "request_sha256": "ab0e1cfbfbd748e6051fdfd0933607bb3ddced1e4d7215e262e0a4c014e2e5eb",
+  "attachments": [
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p051-native.png",
+      "sha256": "f2ff0100922a5bc5420adbcb82a14d267df3d0dda113543d9abbff002ce5f6a2",
+      "image_dimensions": [
+        5696,
+        1344
+      ],
+      "role": "verified complete native member0053.png"
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/adzom-051-left.png",
+      "sha256": "e7f3be104ef30c3dcb0123d9be0e8c2a39eb3f4149bb12cf108db1d4091e3235",
+      "image_dimensions": [
+        2680,
+        980
+      ],
+      "role": "previously preserved reading view; original crop coordinates not newly certified"
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/adzom-051-right.png",
+      "sha256": "69ee24d300f7138e2cc75c63a4a9cc374d629a4d7c7598c0d939ae9fc7fe8be9",
+      "image_dimensions": [
+        2680,
+        980
+      ],
+      "role": "previously preserved reading view; original crop coordinates not newly certified"
+    }
+  ],
+  "source_images_modified": false
+}

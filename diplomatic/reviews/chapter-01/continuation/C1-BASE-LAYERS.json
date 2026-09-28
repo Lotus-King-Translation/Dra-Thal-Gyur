@@ -1445,13 +1445,61 @@
       "pdf_pages": [
         51
       ],
-      "status": "claimed",
+      "status": "in_progress",
       "owner": "ChatGPT-coordinator-20260928-continuous",
       "baseline_commit": "a9d7af1a7fff729d0331801828df8a53ddfaa2ed",
       "rows_actually_compared": [],
       "observations": [],
       "canonical_record_ids": [],
-      "next_physical_span": "Inspect PDF51 row4 small note and its surrounding main text; preserve S01 and all uninspected signs."
+      "next_physical_span": "Inspect PDF51 row4 small note and its surrounding main text; preserve S01 and all uninspected signs.",
+      "evidence_paths_and_hashes": [
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p051-native.png",
+          "sha256": "f2ff0100922a5bc5420adbcb82a14d267df3d0dda113543d9abbff002ce5f6a2",
+          "image_dimensions": [
+            5696,
+            1344
+          ],
+          "role": "verified complete native member0053.png"
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/adzom-051-left.png",
+          "sha256": "e7f3be104ef30c3dcb0123d9be0e8c2a39eb3f4149bb12cf108db1d4091e3235",
+          "image_dimensions": [
+            2680,
+            980
+          ],
+          "role": "previously preserved reading view; original crop coordinates not newly certified"
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/adzom-051-right.png",
+          "sha256": "69ee24d300f7138e2cc75c63a4a9cc374d629a4d7c7598c0d939ae9fc7fe8be9",
+          "image_dimensions": [
+            2680,
+            980
+          ],
+          "role": "previously preserved reading view; original crop coordinates not newly certified"
+        }
+      ],
+      "coordinator_initial_reading": {
+        "pdf_page": 51,
+        "bdrc_image": 53,
+        "source_member": "0053.png",
+        "row": 4,
+        "location": "Small note at far right after U01285; following main text resumes at row5 left",
+        "before": "ཆུ་ཡི་ཟུག་པས་ས་འདུས་ལ",
+        "target": "ཆུའི་བྱེར་སྙོམས་གཉིས་ཆད",
+        "after": "ཟུག་པ་ཟུག་པ་འཕྲད་པ་ཡིས",
+        "source_layer": "visibly smaller source annotation, not a full-size main verse",
+        "proposed_main_reading": "",
+        "terminal_signs": "No secure detached terminal shad identified by this initial inspection; final letter and nearby right frame require independent discrimination. Do not count frame as a sign.",
+        "confidence": {
+          "layer": "high",
+          "lexical": "medium-high for stated reading",
+          "terminal_signs": "unresolved in coordinator first pass"
+        },
+        "scope": "Only this note and neighboring main sequence; S01 and other page material are not re-collated."
+      }
     }
   ],
   "remaining_targets": [
