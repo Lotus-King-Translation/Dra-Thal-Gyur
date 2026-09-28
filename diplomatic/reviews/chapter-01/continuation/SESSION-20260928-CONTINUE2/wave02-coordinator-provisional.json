@@ -35,6 +35,31 @@
     ],
     "initial_independent_claim": "22 internal boundaries have one detached shad each",
     "coordinator_observation": "At the native row1 yis / ye thog boundary and several analogous joins, separate uprights are visible after the preceding final letter and before the following first letter. The blanket one-stroke claim is not adopted. A page-wide component-level adjudication is requested with both hypotheses explicit.",
-    "canonical_disposition": "No mass deletion or source normalization before reconciliation."
+    "canonical_disposition": "No mass deletion or source normalization before reconciliation.",
+    "adjudication_result": {
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B06-P0007-boundary-adjudication-reading.txt",
+      "physical_inventory": {
+        "unit_ending_positions_inspected": 26,
+        "internal_same_row_boundaries": 22,
+        "detached_punctuation_at_internal_same_row_boundaries": 44,
+        "row_right_ending_positions": 4,
+        "detached_punctuation_at_row_right_endings": 8,
+        "internal_row_turns_checked": 2,
+        "detached_punctuation_at_internal_row_turns": 0,
+        "total_detached_punctuation_components": 52,
+        "components_by_physical_row": {
+          "1": 8,
+          "2": 10,
+          "3": 8,
+          "4": 8,
+          "5": 8,
+          "6": 10
+        },
+        "frame_strokes_counted_as_punctuation": 0
+      },
+      "disposition": "Retain the existing two-shad serialization; the 22 proposed deletions are rejected. All raw disagreements remain preserved.",
+      "lexical_label_limit": "Several short Tibetan neighbor labels in the adjudication are mistaken (including U00111-following word and U00127 terminal). The adjudication is accepted only for the separately described detached-bar morphology, with target correspondence established by the full native page, original row ledger and coordinator inspection. No lexical label from this sign-only addendum replaces source wording.",
+      "ownership": "Two row-right bars remain encoded once at the existing unit ending; electronic ownership is editorial, not inferred source syntax."
+    }
   }
 }
