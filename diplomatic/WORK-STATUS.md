@@ -2,13 +2,13 @@
 
 Updated 2026-09-28. **Chapter 1 is unfinished; Chapters 2–6 and the final colophon have not started.** Start at [HANDOFF.md](HANDOFF.md) for operational instructions and [WORK-QUEUE.json](WORK-QUEUE.json) for the next bounded task. This ledger records supported scholarly coverage and explicitly retained uncertainty; a saved inspection is not a whole-page collation.
 
-Preserved pre-continuation edition baseline: `afb5c5133357942267dc55fc60a1d22704d5ef08`. Current [Chapter 1](chapter-01.md) SHA-256: `8feae3b6ead90c03029fe88c980cf80eac255d4c07b1f1a36f5bee1dae5676e9`. See [C1-SIGNS-01](reviews/chapter-01/continuation/C1-SIGNS-01.md) and the [C1-SIGNS-02 review](reviews/chapter-01/continuation/C1-SIGNS-02.md); these local punctuation changes do not complete the edition.
+Preserved pre-continuation edition baseline: `afb5c5133357942267dc55fc60a1d22704d5ef08`. Current [Chapter 1](chapter-01.md) SHA-256: `542d3851cdc1759a16b8e66d3e302b43ccc95f865a6a49a4d03ceb53201889cc`. See [C1-SIGNS-01](reviews/chapter-01/continuation/C1-SIGNS-01.md) and the [C1-SIGNS-02 review](reviews/chapter-01/continuation/C1-SIGNS-02.md); these local punctuation changes do not complete the edition.
 
 ## What is already saved and integrated
 
 - **2,635 base anchors**, **359 exact supplied-transcript differences in 183 loci**, and **273 Wikisource lexical comparison blocks**.
-- **85 scan correction/source-layer/uncertainty records**, plus **13 restored main verses and one reply heading**.
-- **150 comparison records**, including candidates and uncertainty: Dzongsar 49, Tingkye 55, Tsamdrak 24, Tharpaling 16, Gadkar 6. These are observations, not 150 confirmed variants or a coverage percentage.
+- **86 scan correction/source-layer/uncertainty records**, plus **13 restored main verses and one reply heading**.
+- **180 comparison records**, including candidates and uncertainty: Dzongsar 49, Tingkye 71, Tsamdrak 38, Tharpaling 16, Gadkar 6. These are observations, not 150 confirmed variants or a coverage percentage.
 - Adzom's continuous **main lexical** pass, its targeted annotation audit, and Dzongsar's continuous **main lexical** comparison survive. They should not be discarded or repeated wholesale.
 
 Sources: [status](STATUS.json), [interventions](chapter-01.md#scan-interventions), [comparison records](collation/chapter-01/scan-comparison-loci.json), [base coverage](collation/chapter-01/scan-coverage.json).
@@ -47,7 +47,7 @@ The saved [validation record](VALIDATION.json) reports passing reconstruction, s
 
 The [earlier sign audit](reviews/chapter-01/sign-adoption-audit-20260927.md) records ten independently reverified targets: nine added interventions and one revised intervention. The new [C1-SIGNS-01 report](reviews/chapter-01/continuation/C1-SIGNS-01.md) disposes five more main-terminal candidates: U02090 retained; U02172/U02183/U02484 corrected by three new records; U02489 corrected in its existing layer record. The independent review and its explicit boundary-inventory clarification preserve every detached mark without confusing terminal/opening ownership. **U01239 remains blocked. The U01557 terminal correction is remotely verified; systematic proofreading remains.** The small U02489 heading terminal is separately unresolved, with exact bounds and a next step in C1-BASE-PHYSICAL. The [readiness audit](reviews/chapter-01/readiness-audit-20260927.json) retains its historical candidate identities; current dispositions are in [WORK-QUEUE.json](WORK-QUEUE.json), not inferred from old counts.
 
-C1-SIGNS-02 adds five two-shad corrections at U00995/U01094/U01270/U01416/U01534. U00995's initial 2-versus-3 disagreement is preserved with the same-reader structural adjudication: the extra counted stroke belongs to final pa. **Next is C1-BASE-UNCERTAINTIES, beginning at U01522/PDF60; U01286 remains precisely blocked for note letters/signs. U01239 remains precisely blocked after its restart review.** Continue bounded candidate reviews, resolve or precisely bound remaining base uncertainties, then fill witness gaps using retained ledgers first. Commit and verify every substantive batch remotely. Complete Chapter1's declared coverage and apparatus before starting Chapter2.
+C1-SIGNS-02 adds five two-shad corrections at U00995/U01094/U01270/U01416/U01534. U00995's initial 2-versus-3 disagreement is preserved with the same-reader structural adjudication: the extra counted stroke belongs to final pa. **Next base-uncertainty work is S09/PDF102, retaining the completed bounded PDF60/PDF101 reviews; U01286 remains precisely blocked for note letters/signs. U01239 remains precisely blocked after its restart review.** Continue bounded candidate reviews, resolve or precisely bound remaining base uncertainties, then fill witness gaps using retained ledgers first. Commit and verify every substantive batch remotely. Complete Chapter1's declared coverage and apparatus before starting Chapter2.
 
 ### Current continuation wave
 
@@ -72,3 +72,9 @@ Tingkye PDF3 rows1–7 and PDF4 rows1–3 now have a partial comparison ledger w
 The Tsamdrak opening test resolves U00030’s verb locally as thos, retains U00012 bstan/bstun uncertainty, and records a qualified rtog-versus-rtogs observation at U00148. The old U00143 transposition is reaffirmed. These tests are not three fully collated pages. [Report](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
 
 U01522’s extra middle components and separate right segment are more precisely inventoried but remain unresolved; no Adzom word was changed. Adzom physical PDF1–5 has a partial row/region ledger with13 boundary assessments, not five completed pages. [Uncertainty review](reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES.md) and [physical review](reviews/chapter-01/continuation/C1-BASE-PHYSICAL.md).
+
+### Continued single-page reviews — second session wave
+
+Tingkye PDF4 rows4–7 now joins the preceding row ledger and continues through U00127 at the page turn. Its next full comparison starts PDF5 row1. Sixteen further local or uncertain records preserve the actual signs and lexical differences; earlier PDF6 observations still do not move the continuous frontier. Tsamdrak PDF14 has all seven rows transcribed with bounded doubts and fourteen new local/uncertain records; next is PDF15.
+
+Adzom PDF3 now has a source-ordered four-row physical inventory, all twelve boundaries and marginal regions inspected. U00014 ends with a tiered graph plus a detached shad; exact encoding remains unresolved, and the unchanged transcript scaffold is visibly qualified. Marginal components are read in physical order as ka / sgra / gnyis / thal-gyur, not merged into main text. PDF101 all-row note search leaves U02615 wording and the dense U02620 candidate locus unverified; the same ink is not allocated twice. These reviews add no base lexical substitution and do not complete Chapter1.

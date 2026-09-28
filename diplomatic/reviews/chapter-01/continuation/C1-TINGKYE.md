@@ -327,3 +327,68 @@ Canonical records: `TK-CONT-20260928-TK-B01-026`.
 ## Exact next span
 
 Resume **PDF4 row4, U00106 continuation `ས་བོན`** after `སྤྲུལ་པའི` at row3 end. Finish rows4–7, PDF5, the unexamined PDF6 spans and PDF7. Keep all listed page3/4 glyph and sign questions visible. The compound D graphic mark is not normalized into Adzom shads.
+
+
+## B02-P0004-R4-R7 — continued source inspection
+
+PDF4 rows4-7 followed in full, continuing U00106 to the outgoing U00127 fragment. Twenty-one graphic delimiters and bounded glyph questions recorded. PDF5 row1 is context only; new frontier is PDF5 row1, not the older isolated PDF6 check.
+
+[Raw reading](C1-TINGKYE-B02-P0004-R4-R7-reader-reading.txt). The complete row ledger and sign legend are retained in the structured report.
+
+### Physical row 4
+
+```text
+ས་བོན་ལྡང་བའོ{S01} དེ་ལྟར་དངོས་ཀྱི་བསྟན་པ་ལ⟦Q01⟧{S02} གཟུགས་⟦Q02⟧་ཆོ་འཕྲུལ་འདི་ལྟ་བུ{S03} སུས་ཀྱང་བརྗོད་པ་མེད་པ་ནི{S04} ནམ་མཁའ་མི་⟦Q10⟧་བར་སྣང་ལས{S05} ཚིག་རྣམས་ཀུན་གྱིས་ཐོག
+```
+
+### Physical row 5
+
+```text
+མར་ཡང{S06} དགུ་གཉིས་བཞིའི་ཡང་སྟེང་ནས{S07} ཚངས་པ་ཆེན་པོ⟦Q03⟧{S08} དེ་ནས་ཆོས་ཉིད་ནམ་མཁའ་ལས{S09} ཁྱབ་འཇུག་ཆེན་པོ་གསུང་གིས་ནི{S10} བྱིན་གྱིས་བརླབས་ཀྱིས་རང་སྒྲར་སྟོན{S11}
+```
+
+### Physical row 6
+
+```text
+དེ་ནས་ཕྱོགས་བྲལ་ནམ་མཁའ་ལས{S12} ཀ་ལ་པིང་ཀའི་སྒྲ་དབྱངས་ལས{S13} བསྟན་པ་ཀུན་གྱིས་བཅུད་⟦Q04⟧་པའི{S14} རྒྱུད་ཀྱི་རྒྱལ་པོ་འདི་ཉིད་ནི{S15} ཚིག་རྣམས་ཀུན་གྱིས་ཐོག་མར་ཡང{S16} བརྒྱ་ཕྲག་གསུ⟦Q05⟧
+```
+
+### Physical row 7
+
+```text
+དང་དྲུག་ཅུ་ཡིས{S17} སྒྲ་ལས་དྲངས་ཏེ་སྟོན་པའི་གསུངས{S18} དེ་ནས་འབྱུང་བ་སོ་སོའི་སྒྲ{S19} ⟦Q06⟧ཚ་དང་གྲང་བ་ལས{S20} སོ་སོའི་སྒྲ་དབྱངས་སྟོང་ཕྲག་བརྒྱད{S21} སྟོན་པས་བྱིན་གྱིས་བརླབས་པར
+```
+
+### Bounded questions retained
+
+**Q01:** The component after ལ is not securely resolved as the suffix ས versus an under-hanging graphic component. No complete final syllable is adopted.
+
+**Q02:** One clustered syllabic interval; apparent reading སྣང, but the stack and following consonant are not secure. The base's བརྙན is not supplied.
+
+**Q03:** Remaining lexical ink after པོ, including any attached genitive, the intervening groups, and the preinitials of the final གྲགས-like group. Apparent sequence དབྱངས་སུ་གྲགས remains a candidate, not an adopted transcription.
+
+**Q04:** Apparent འདུས; the initial or superscribed components are insufficiently secure to exclude བསྡུས. The whole questioned syllable is withheld.
+
+**Q05:** Only the suffix after གསུ is unresolved: apparent མ, with ང not confidently excluded. No omission or complete གསུམ reading is certified.
+
+**Q06:** Opening clustered groups; apparent བྱེད་རྒྱུ remains uncertain. This interval was examined in both overlapping bands and the native column, not skipped.
+
+**Q07:** Outgoing word's final consonant: apparent ས, but ང is not securely excluded. Do not adopt གནས or a difference from སྣང as settled.
+
+**Q08:** Apparent བྱེད; presence of an initial འ remains unresolved.
+
+**Q09:** Apparent ལ་ལ་ཡང; the number and segmentation of the ལ-like groups remain unresolved. Possible repetition is retained as a question rather than reduced to the base.
+
+**Q10:** Apparent འགྱུར; initial stack གྱ versus བྱ is unresolved. The under-vowel and final ར are more secure than the consonant stack.
+
+**QM1:** Entire bounded upper marginal cluster remains undeciphered; no main-text assignment.
+
+**QM2:** Entire bounded isolated marginal glyph remains undeciphered.
+
+**QM3:** Entire bounded lower marginal cluster remains undeciphered; no source-note wording supplied.
+
+**QM4:** Entire bounded PDF5 marginal cluster remains undeciphered; no source-note wording supplied.
+
+Next: PDF5 row1, U00127 outgoing join and U00128 onward; PDF4 targeted glyph and marginal questions remain visible.
+
+This completed bounded inspection does not certify unexamined portions of the chapter. Unresolved glyphs are not agreement, missing text, or source unavailability.

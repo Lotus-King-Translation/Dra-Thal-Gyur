@@ -3700,5 +3700,1971 @@
         ]
       }
     }
+  },
+  {
+    "id": "TK-CONT2-B02-O02",
+    "witness": "Tingkye",
+    "units": [
+      "U00109"
+    ],
+    "base_snippet_at_review": "སུས་ཀྱང་བརྗོད་དུ་མེད་པར་ནི",
+    "comparison_reading": "སུས་ཀྱང་བརྗོད་པ་མེད་པ་ནི",
+    "status": "qualified_local_observation",
+    "confidence": "{\"reading\": \"moderate\", \"alignment\": \"high\", \"bounds\": \"approximate\"}",
+    "locator": "PDF 4; native bounds and row context: [2140, 515, 2645, 596]",
+    "rationale": "I read པ after བརྗོད and པ before ནི; the base's དུ and final ར are not adopted. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0004-R4-R7",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B02-P0004-R4-R7-reader-reading.txt",
+        "sha256": "500890e0e74baf67bf089f12052a6af784bb64ae5247838f32258d50cd5e5391"
+      },
+      "observation": {
+        "id": "B02-O02",
+        "anchors": [
+          "U00109"
+        ],
+        "source_span": "སུས་ཀྱང་བརྗོད་པ་མེད་པ་ནི",
+        "base_span": "སུས་ཀྱང་བརྗོད་དུ་མེད་པར་ནི",
+        "category": "provisional_lexical_difference",
+        "neighboring_context": "Between U00108's delimiter S03 and U00110.",
+        "approximate_native_bounds": [
+          2140,
+          515,
+          2645,
+          596
+        ],
+        "confidence": {
+          "reading": "moderate",
+          "alignment": "high",
+          "bounds": "approximate"
+        },
+        "rationale": "I read པ after བརྗོད and པ before ནི; the base's དུ and final ར are not adopted."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
+  },
+  {
+    "id": "TK-CONT2-B02-O03",
+    "witness": "Tingkye",
+    "units": [
+      "U00110"
+    ],
+    "base_snippet_at_review": "ནམ་མཁའ་མི་འབྱེད་བར་སྣང་ལས",
+    "comparison_reading": "ནམ་མཁའ་མི་⟦Q10⟧་བར་སྣང་ལས",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"surrounding_text\": \"moderate_to_high\", \"internal_stack\": \"low\", \"alignment\": \"high\"}",
+    "locator": "PDF 4; native bounds and row context: [2680, 515, 3270, 596]",
+    "rationale": "The questioned syllable appears to have an under-vowel and final ར; its consonant stack remains unresolved. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0004-R4-R7",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B02-P0004-R4-R7-reader-reading.txt",
+        "sha256": "500890e0e74baf67bf089f12052a6af784bb64ae5247838f32258d50cd5e5391"
+      },
+      "observation": {
+        "id": "B02-O03",
+        "anchors": [
+          "U00110"
+        ],
+        "source_span": "ནམ་མཁའ་མི་⟦Q10⟧་བར་སྣང་ལས",
+        "base_span": "ནམ་མཁའ་མི་འབྱེད་བར་སྣང་ལས",
+        "category": "bounded_reading_uncertainty_with_apparent_difference",
+        "neighboring_context": "After མི and before བར.",
+        "approximate_native_bounds": [
+          2680,
+          515,
+          3270,
+          596
+        ],
+        "confidence": {
+          "surrounding_text": "moderate_to_high",
+          "internal_stack": "low",
+          "alignment": "high"
+        },
+        "rationale": "The questioned syllable appears to have an under-vowel and final ར; its consonant stack remains unresolved."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
+  },
+  {
+    "id": "TK-CONT2-B02-O04",
+    "witness": "Tingkye",
+    "units": [
+      "U00111",
+      "U00119",
+      "U00121"
+    ],
+    "base_snippet_at_review": "ཀུན་གྱི in all three positions.",
+    "comparison_reading": "ཀུན་གྱིས in all three positions.",
+    "status": "qualified_local_observation",
+    "confidence": "{\"reading\": \"moderate\", \"alignment\": \"high\", \"repetition\": \"moderate\"}",
+    "locator": "PDF 4; native bounds and row context: [[3450, 515, 3680, 596], [1830, 675, 2090, 766], [2990, 675, 3240, 766]]",
+    "rationale": "A following ས-shaped component is visible in each occurrence; repetition is retained rather than silently regularized. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0004-R4-R7",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B02-P0004-R4-R7-reader-reading.txt",
+        "sha256": "500890e0e74baf67bf089f12052a6af784bb64ae5247838f32258d50cd5e5391"
+      },
+      "observation": {
+        "id": "B02-O04",
+        "anchors": [
+          "U00111",
+          "U00119",
+          "U00121"
+        ],
+        "source_span": "ཀུན་གྱིས in all three positions.",
+        "base_span": "ཀུན་གྱི in all three positions.",
+        "category": "repeated_provisional_lexical_difference",
+        "neighboring_context": "Before ཐོག in U00111/U00121; before བཅུད in U00119.",
+        "approximate_native_bounds": [
+          [
+            3450,
+            515,
+            3680,
+            596
+          ],
+          [
+            1830,
+            675,
+            2090,
+            766
+          ],
+          [
+            2990,
+            675,
+            3240,
+            766
+          ]
+        ],
+        "confidence": {
+          "reading": "moderate",
+          "alignment": "high",
+          "repetition": "moderate"
+        },
+        "rationale": "A following ས-shaped component is visible in each occurrence; repetition is retained rather than silently regularized."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
+  },
+  {
+    "id": "TK-CONT2-B02-O05",
+    "witness": "Tingkye",
+    "units": [
+      "U00112"
+    ],
+    "base_snippet_at_review": "བཞི་ཡི་ཡང",
+    "comparison_reading": "བཞིའི་ཡང",
+    "status": "qualified_local_observation",
+    "confidence": "{\"reading\": \"moderate\", \"alignment\": \"high\"}",
+    "locator": "PDF 4; native bounds and row context: [950, 590, 1160, 682]",
+    "rationale": "The source appears to attach the genitive to བཞི; I do not read a separate ཡི syllable. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0004-R4-R7",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B02-P0004-R4-R7-reader-reading.txt",
+        "sha256": "500890e0e74baf67bf089f12052a6af784bb64ae5247838f32258d50cd5e5391"
+      },
+      "observation": {
+        "id": "B02-O05",
+        "anchors": [
+          "U00112"
+        ],
+        "source_span": "བཞིའི་ཡང",
+        "base_span": "བཞི་ཡི་ཡང",
+        "category": "provisional_orthographic_difference",
+        "neighboring_context": "དགུ་གཉིས before; སྟེང་ནས after.",
+        "approximate_native_bounds": [
+          950,
+          590,
+          1160,
+          682
+        ],
+        "confidence": {
+          "reading": "moderate",
+          "alignment": "high"
+        },
+        "rationale": "The source appears to attach the genitive to བཞི; I do not read a separate ཡི syllable."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
+  },
+  {
+    "id": "TK-CONT2-B02-O06",
+    "witness": "Tingkye",
+    "units": [
+      "U00115"
+    ],
+    "base_snippet_at_review": "ཁྱབ་འཇུག་ཆེན་པོའི་གསུང་གིས་ནི",
+    "comparison_reading": "ཁྱབ་འཇུག་ཆེན་པོ་གསུང་གིས་ནི",
+    "status": "qualified_local_observation",
+    "confidence": "{\"reading\": \"moderate\", \"alignment\": \"high\"}",
+    "locator": "PDF 4; native bounds and row context: [2530, 590, 3100, 688]",
+    "rationale": "I read པོ followed by གསུང without a securely visible འི. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0004-R4-R7",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B02-P0004-R4-R7-reader-reading.txt",
+        "sha256": "500890e0e74baf67bf089f12052a6af784bb64ae5247838f32258d50cd5e5391"
+      },
+      "observation": {
+        "id": "B02-O06",
+        "anchors": [
+          "U00115"
+        ],
+        "source_span": "ཁྱབ་འཇུག་ཆེན་པོ་གསུང་གིས་ནི",
+        "base_span": "ཁྱབ་འཇུག་ཆེན་པོའི་གསུང་གིས་ནི",
+        "category": "provisional_lexical_difference",
+        "neighboring_context": "Between S09 and S10.",
+        "approximate_native_bounds": [
+          2530,
+          590,
+          3100,
+          688
+        ],
+        "confidence": {
+          "reading": "moderate",
+          "alignment": "high"
+        },
+        "rationale": "I read པོ followed by གསུང without a securely visible འི."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
+  },
+  {
+    "id": "TK-CONT2-B02-O07",
+    "witness": "Tingkye",
+    "units": [
+      "U00116"
+    ],
+    "base_snippet_at_review": "བྱིན་གྱིས་རླབས་ཀྱིས",
+    "comparison_reading": "བྱིན་གྱིས་བརླབས་ཀྱིས",
+    "status": "qualified_local_observation",
+    "confidence": "{\"reading\": \"moderate\", \"alignment\": \"high\"}",
+    "locator": "PDF 4; native bounds and row context: [3130, 590, 3510, 688]",
+    "rationale": "An initial བ is read before the རླ stack. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0004-R4-R7",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B02-P0004-R4-R7-reader-reading.txt",
+        "sha256": "500890e0e74baf67bf089f12052a6af784bb64ae5247838f32258d50cd5e5391"
+      },
+      "observation": {
+        "id": "B02-O07",
+        "anchors": [
+          "U00116"
+        ],
+        "source_span": "བྱིན་གྱིས་བརླབས་ཀྱིས",
+        "base_span": "བྱིན་གྱིས་རླབས་ཀྱིས",
+        "category": "provisional_orthographic_difference",
+        "neighboring_context": "Followed by རང་སྒྲར་སྟོན and S11.",
+        "approximate_native_bounds": [
+          3130,
+          590,
+          3510,
+          688
+        ],
+        "confidence": {
+          "reading": "moderate",
+          "alignment": "high"
+        },
+        "rationale": "An initial བ is read before the རླ stack."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
+  },
+  {
+    "id": "TK-CONT2-B02-O08",
+    "witness": "Tingkye",
+    "units": [
+      "U00122"
+    ],
+    "base_snippet_at_review": "དང་དྲུག་ཅུ་ཡི",
+    "comparison_reading": "དང་དྲུག་ཅུ་ཡིས",
+    "status": "qualified_local_observation",
+    "confidence": "{\"reading\": \"moderate_to_high\", \"alignment\": \"high\"}",
+    "locator": "PDF 4; native bounds and row context: [570, 750, 885, 846]",
+    "rationale": "The source ending includes a ས-shaped suffix before S17. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0004-R4-R7",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B02-P0004-R4-R7-reader-reading.txt",
+        "sha256": "500890e0e74baf67bf089f12052a6af784bb64ae5247838f32258d50cd5e5391"
+      },
+      "observation": {
+        "id": "B02-O08",
+        "anchors": [
+          "U00122"
+        ],
+        "source_span": "དང་དྲུག་ཅུ་ཡིས",
+        "base_span": "དང་དྲུག་ཅུ་ཡི",
+        "category": "provisional_suffix_difference",
+        "neighboring_context": "Row7 opening, following the unresolved row6 terminal suffix Q05.",
+        "approximate_native_bounds": [
+          570,
+          750,
+          885,
+          846
+        ],
+        "confidence": {
+          "reading": "moderate_to_high",
+          "alignment": "high"
+        },
+        "rationale": "The source ending includes a ས-shaped suffix before S17."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
+  },
+  {
+    "id": "TK-CONT2-B02-O09",
+    "witness": "Tingkye",
+    "units": [
+      "U00123"
+    ],
+    "base_snippet_at_review": "སྟོན་པས་གསུངས",
+    "comparison_reading": "སྟོན་པའི་གསུངས",
+    "status": "qualified_local_observation",
+    "confidence": "{\"reading\": \"moderate\", \"alignment\": \"high\"}",
+    "locator": "PDF 4; native bounds and row context: [1110, 750, 1510, 846]",
+    "rationale": "I read an attached genitive with an upper vowel mark after པ; no replacement by the base's པས is made. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0004-R4-R7",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B02-P0004-R4-R7-reader-reading.txt",
+        "sha256": "500890e0e74baf67bf089f12052a6af784bb64ae5247838f32258d50cd5e5391"
+      },
+      "observation": {
+        "id": "B02-O09",
+        "anchors": [
+          "U00123"
+        ],
+        "source_span": "སྟོན་པའི་གསུངས",
+        "base_span": "སྟོན་པས་གསུངས",
+        "category": "provisional_lexical_difference",
+        "neighboring_context": "Preceded by སྒྲ་ལས་དྲངས་ཏེ; followed by S18.",
+        "approximate_native_bounds": [
+          1110,
+          750,
+          1510,
+          846
+        ],
+        "confidence": {
+          "reading": "moderate",
+          "alignment": "high"
+        },
+        "rationale": "I read an attached genitive with an upper vowel mark after པ; no replacement by the base's པས is made."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
+  },
+  {
+    "id": "TK-CONT2-B02-O10",
+    "witness": "Tingkye",
+    "units": [
+      "U00127"
+    ],
+    "base_snippet_at_review": "སྟོན་པས་བྱིན་གྱིས་བརླབས་པར་སྣང",
+    "comparison_reading": "སྟོན་པས་བྱིན་གྱིས་བརླབས་པར / གན⟦Q07⟧",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"physical_join\": \"high\", \"terminal_reading\": \"low_to_moderate\", \"alignment\": \"high\"}",
+    "locator": "PDF 4; native bounds and row context: [[3150, 750, 3760, 846], [590, 275, 740, 355]]",
+    "rationale": "The outgoing word appears to begin གན; its final consonant is not settled. The base's སྣང is not supplied. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0004-R4-R7",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B02-P0004-R4-R7-reader-reading.txt",
+        "sha256": "500890e0e74baf67bf089f12052a6af784bb64ae5247838f32258d50cd5e5391"
+      },
+      "observation": {
+        "id": "B02-O10",
+        "anchors": [
+          "U00127"
+        ],
+        "source_span": "སྟོན་པས་བྱིན་གྱིས་བརླབས་པར / གན⟦Q07⟧",
+        "base_span": "སྟོན་པས་བྱིན་གྱིས་བརླབས་པར་སྣང",
+        "category": "outgoing_join_with_unresolved_terminal_reading",
+        "neighboring_context": "PDF4 row7 end joins PDF5 row1 opening before S22.",
+        "approximate_native_bounds": [
+          [
+            3150,
+            750,
+            3760,
+            846
+          ],
+          [
+            590,
+            275,
+            740,
+            355
+          ]
+        ],
+        "confidence": {
+          "physical_join": "high",
+          "terminal_reading": "low_to_moderate",
+          "alignment": "high"
+        },
+        "rationale": "The outgoing word appears to begin གན; its final consonant is not settled. The base's སྣང is not supplied."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
+  },
+  {
+    "id": "TK-CONT2-B02-O11",
+    "witness": "Tingkye",
+    "units": [
+      "U00106",
+      "U00107",
+      "U00108",
+      "U00109",
+      "U00110",
+      "U00111",
+      "U00112",
+      "U00113",
+      "U00114",
+      "U00115",
+      "U00116",
+      "U00117",
+      "U00118",
+      "U00119",
+      "U00120",
+      "U00121",
+      "U00122",
+      "U00123",
+      "U00124",
+      "U00125",
+      "U00126"
+    ],
+    "base_snippet_at_review": "The supplied units generally end ། །.",
+    "comparison_reading": "S01–S21, each code C.",
+    "status": "qualified_local_observation",
+    "confidence": "{\"presence_and_order\": \"high\", \"graphic_class\": \"moderate\", \"unicode_equivalence\": \"not_assigned\"}",
+    "locator": "PDF 4; native bounds and row context: [570, 510, 3770, 846]",
+    "rationale": "Twenty-one target delimiters are represented once each. Descenders, vowel marks, internal tshegs and frame rules are not counted as extra shads. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0004-R4-R7",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B02-P0004-R4-R7-reader-reading.txt",
+        "sha256": "500890e0e74baf67bf089f12052a6af784bb64ae5247838f32258d50cd5e5391"
+      },
+      "observation": {
+        "id": "B02-O11",
+        "anchors": [
+          "U00106–U00126"
+        ],
+        "source_span": "S01–S21, each code C.",
+        "base_span": "The supplied units generally end ། །.",
+        "category": "graphic_punctuation_inventory",
+        "neighboring_context": "One inventoried compound delimiter at each completed anchor boundary in the target rows.",
+        "approximate_native_bounds": [
+          570,
+          510,
+          3770,
+          846
+        ],
+        "confidence": {
+          "presence_and_order": "high",
+          "graphic_class": "moderate",
+          "unicode_equivalence": "not_assigned"
+        },
+        "rationale": "Twenty-one target delimiters are represented once each. Descenders, vowel marks, internal tshegs and frame rules are not counted as extra shads."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
+  },
+  {
+    "id": "TK-CONT2-B02-Q01",
+    "witness": "Tingkye",
+    "units": [
+      "U00107"
+    ],
+    "base_snippet_at_review": "དེ་ལྟར་དངོས་ཀྱི་བསྟན་པ་ལས། །",
+    "comparison_reading": "[Unresolved inspected source interval: The component after ལ is not securely resolved as the suffix ས versus an under-hanging graphic component. No complete final syllable is adopted.]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"location\": \"source-based local correspondence\", \"exact_reading\": \"unresolved\"}",
+    "locator": "PDF 4; native bounds and row context: [1320, 520, 1415, 596]",
+    "rationale": "The component after ལ is not securely resolved as the suffix ས versus an under-hanging graphic component. No complete final syllable is adopted. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0004-R4-R7",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B02-P0004-R4-R7-reader-reading.txt",
+        "sha256": "500890e0e74baf67bf089f12052a6af784bb64ae5247838f32258d50cd5e5391"
+      },
+      "observation": {
+        "id": "B02-Q01",
+        "anchors": [
+          "U00107"
+        ],
+        "source_span": null,
+        "base_span": "དེ་ལྟར་དངོས་ཀྱི་བསྟན་པ་ལས། །",
+        "category": "bounded_glyph_uncertainty",
+        "question": "The component after ལ is not securely resolved as the suffix ས versus an under-hanging graphic component. No complete final syllable is adopted.",
+        "neighboring_context": "བསྟན་པ་ལ… followed by S02",
+        "approximate_native_bounds": [
+          1320,
+          520,
+          1415,
+          596
+        ],
+        "confidence": {
+          "location": "source-based local correspondence",
+          "exact_reading": "unresolved"
+        },
+        "rationale": "The component after ལ is not securely resolved as the suffix ས versus an under-hanging graphic component. No complete final syllable is adopted."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
+  },
+  {
+    "id": "TK-CONT2-B02-Q02",
+    "witness": "Tingkye",
+    "units": [
+      "U00108"
+    ],
+    "base_snippet_at_review": "གཟུགས་བརྙན་ཆོ་འཕྲུལ་འདི་ལྟ་བུ། །",
+    "comparison_reading": "[Unresolved inspected source interval: One clustered syllabic interval; apparent reading སྣང, but the stack and following consonant are not secure. The base's བརྙན is not supplied.]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"location\": \"source-based local correspondence\", \"exact_reading\": \"unresolved\"}",
+    "locator": "PDF 4; native bounds and row context: [1630, 510, 1800, 596]",
+    "rationale": "One clustered syllabic interval; apparent reading སྣང, but the stack and following consonant are not secure. The base's བརྙན is not supplied. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0004-R4-R7",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B02-P0004-R4-R7-reader-reading.txt",
+        "sha256": "500890e0e74baf67bf089f12052a6af784bb64ae5247838f32258d50cd5e5391"
+      },
+      "observation": {
+        "id": "B02-Q02",
+        "anchors": [
+          "U00108"
+        ],
+        "source_span": null,
+        "base_span": "གཟུགས་བརྙན་ཆོ་འཕྲུལ་འདི་ལྟ་བུ། །",
+        "category": "bounded_glyph_uncertainty",
+        "question": "One clustered syllabic interval; apparent reading སྣང, but the stack and following consonant are not secure. The base's བརྙན is not supplied.",
+        "neighboring_context": "གཟུགས་…་ཆོ་འཕྲུལ",
+        "approximate_native_bounds": [
+          1630,
+          510,
+          1800,
+          596
+        ],
+        "confidence": {
+          "location": "source-based local correspondence",
+          "exact_reading": "unresolved"
+        },
+        "rationale": "One clustered syllabic interval; apparent reading སྣང, but the stack and following consonant are not secure. The base's བརྙན is not supplied."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
+  },
+  {
+    "id": "TK-CONT2-B02-Q03",
+    "witness": "Tingkye",
+    "units": [
+      "U00113"
+    ],
+    "base_snippet_at_review": "ཚངས་པ་ཆེན་པོའི་དབྱངས་སུ་བསྒྲགས། །",
+    "comparison_reading": "[Unresolved inspected source interval: Remaining lexical ink after པོ, including any attached genitive, the intervening groups, and the preinitials of the final གྲགས-like group. Apparent sequence དབྱངས་སུ་གྲགས remains a candidate, not an adopted transcription.]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"location\": \"source-based local correspondence\", \"exact_reading\": \"unresolved\"}",
+    "locator": "PDF 4; native bounds and row context: [1590, 585, 1910, 688]",
+    "rationale": "Remaining lexical ink after པོ, including any attached genitive, the intervening groups, and the preinitials of the final གྲགས-like group. Apparent sequence དབྱངས་སུ་གྲགས remains a candidate, not an adopted transcription. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0004-R4-R7",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B02-P0004-R4-R7-reader-reading.txt",
+        "sha256": "500890e0e74baf67bf089f12052a6af784bb64ae5247838f32258d50cd5e5391"
+      },
+      "observation": {
+        "id": "B02-Q03",
+        "anchors": [
+          "U00113"
+        ],
+        "source_span": null,
+        "base_span": "ཚངས་པ་ཆེན་པོའི་དབྱངས་སུ་བསྒྲགས། །",
+        "category": "bounded_glyph_uncertainty",
+        "question": "Remaining lexical ink after པོ, including any attached genitive, the intervening groups, and the preinitials of the final གྲགས-like group. Apparent sequence དབྱངས་སུ་གྲགས remains a candidate, not an adopted transcription.",
+        "neighboring_context": "ཚངས་པ་ཆེན་པོ… before S08",
+        "approximate_native_bounds": [
+          1590,
+          585,
+          1910,
+          688
+        ],
+        "confidence": {
+          "location": "source-based local correspondence",
+          "exact_reading": "unresolved"
+        },
+        "rationale": "Remaining lexical ink after པོ, including any attached genitive, the intervening groups, and the preinitials of the final གྲགས-like group. Apparent sequence དབྱངས་སུ་གྲགས remains a candidate, not an adopted transcription."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
+  },
+  {
+    "id": "TK-CONT2-B02-Q04",
+    "witness": "Tingkye",
+    "units": [
+      "U00119"
+    ],
+    "base_snippet_at_review": "བསྟན་པ་ཀུན་གྱི་བཅུད་བསྡུས་པའི། །",
+    "comparison_reading": "[Unresolved inspected source interval: Apparent འདུས; the initial or superscribed components are insufficiently secure to exclude བསྡུས. The whole questioned syllable is withheld.]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"location\": \"source-based local correspondence\", \"exact_reading\": \"unresolved\"}",
+    "locator": "PDF 4; native bounds and row context: [2110, 675, 2260, 766]",
+    "rationale": "Apparent འདུས; the initial or superscribed components are insufficiently secure to exclude བསྡུས. The whole questioned syllable is withheld. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0004-R4-R7",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B02-P0004-R4-R7-reader-reading.txt",
+        "sha256": "500890e0e74baf67bf089f12052a6af784bb64ae5247838f32258d50cd5e5391"
+      },
+      "observation": {
+        "id": "B02-Q04",
+        "anchors": [
+          "U00119"
+        ],
+        "source_span": null,
+        "base_span": "བསྟན་པ་ཀུན་གྱི་བཅུད་བསྡུས་པའི། །",
+        "category": "bounded_glyph_uncertainty",
+        "question": "Apparent འདུས; the initial or superscribed components are insufficiently secure to exclude བསྡུས. The whole questioned syllable is withheld.",
+        "neighboring_context": "བཅུད་…་པའི",
+        "approximate_native_bounds": [
+          2110,
+          675,
+          2260,
+          766
+        ],
+        "confidence": {
+          "location": "source-based local correspondence",
+          "exact_reading": "unresolved"
+        },
+        "rationale": "Apparent འདུས; the initial or superscribed components are insufficiently secure to exclude བསྡུས. The whole questioned syllable is withheld."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
+  },
+  {
+    "id": "TK-CONT2-B02-Q05",
+    "witness": "Tingkye",
+    "units": [
+      "U00122"
+    ],
+    "base_snippet_at_review": "བརྒྱ་ཕྲག་གསུམ་དང་དྲུག་ཅུ་ཡི། །",
+    "comparison_reading": "[Unresolved inspected source interval: Only the suffix after གསུ is unresolved: apparent མ, with ང not confidently excluded. No omission or complete གསུམ reading is certified.]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"location\": \"source-based local correspondence\", \"exact_reading\": \"unresolved\"}",
+    "locator": "PDF 4; native bounds and row context: [3680, 675, 3765, 766]",
+    "rationale": "Only the suffix after གསུ is unresolved: apparent མ, with ང not confidently excluded. No omission or complete གསུམ reading is certified. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0004-R4-R7",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B02-P0004-R4-R7-reader-reading.txt",
+        "sha256": "500890e0e74baf67bf089f12052a6af784bb64ae5247838f32258d50cd5e5391"
+      },
+      "observation": {
+        "id": "B02-Q05",
+        "anchors": [
+          "U00122"
+        ],
+        "source_span": null,
+        "base_span": "བརྒྱ་ཕྲག་གསུམ་དང་དྲུག་ཅུ་ཡི། །",
+        "category": "bounded_glyph_uncertainty",
+        "question": "Only the suffix after གསུ is unresolved: apparent མ, with ང not confidently excluded. No omission or complete གསུམ reading is certified.",
+        "neighboring_context": "བརྒྱ་ཕྲག་གསུ… at the right edge; next row དང་དྲུག",
+        "approximate_native_bounds": [
+          3680,
+          675,
+          3765,
+          766
+        ],
+        "confidence": {
+          "location": "source-based local correspondence",
+          "exact_reading": "unresolved"
+        },
+        "rationale": "Only the suffix after གསུ is unresolved: apparent མ, with ང not confidently excluded. No omission or complete གསུམ reading is certified."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
+  },
+  {
+    "id": "TK-CONT2-B02-Q06",
+    "witness": "Tingkye",
+    "units": [
+      "U00125"
+    ],
+    "base_snippet_at_review": "བྱེད་རྒྱུ་ཚ་དང་གྲང་བ་ལས། །",
+    "comparison_reading": "[Unresolved inspected source interval: Opening clustered groups; apparent བྱེད་རྒྱུ remains uncertain. This interval was examined in both overlapping bands and the native column, not skipped.]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"location\": \"source-based local correspondence\", \"exact_reading\": \"unresolved\"}",
+    "locator": "PDF 4; native bounds and row context: [2050, 750, 2310, 846]",
+    "rationale": "Opening clustered groups; apparent བྱེད་རྒྱུ remains uncertain. This interval was examined in both overlapping bands and the native column, not skipped. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0004-R4-R7",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B02-P0004-R4-R7-reader-reading.txt",
+        "sha256": "500890e0e74baf67bf089f12052a6af784bb64ae5247838f32258d50cd5e5391"
+      },
+      "observation": {
+        "id": "B02-Q06",
+        "anchors": [
+          "U00125"
+        ],
+        "source_span": null,
+        "base_span": "བྱེད་རྒྱུ་ཚ་དང་གྲང་བ་ལས། །",
+        "category": "bounded_glyph_uncertainty",
+        "question": "Opening clustered groups; apparent བྱེད་རྒྱུ remains uncertain. This interval was examined in both overlapping bands and the native column, not skipped.",
+        "neighboring_context": "After S19 and before the securely read ཚ་དང་གྲང་བ་ལས",
+        "approximate_native_bounds": [
+          2050,
+          750,
+          2310,
+          846
+        ],
+        "confidence": {
+          "location": "source-based local correspondence",
+          "exact_reading": "unresolved"
+        },
+        "rationale": "Opening clustered groups; apparent བྱེད་རྒྱུ remains uncertain. This interval was examined in both overlapping bands and the native column, not skipped."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
+  },
+  {
+    "id": "TS-CONT2-B02-O02",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00356"
+    ],
+    "base_snippet_at_review": "ཐུན་མོང་མིན་པའི་ལུས་ལ་སྦྱར",
+    "comparison_reading": "ཐུན་མོང་མིན་པས་ལུས་ལ་སྦྱར",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"reading\": \"medium-high\"}",
+    "locator": "PDF 14; native bounds and row context: [1550, 315, 2380, 475]",
+    "rationale": "The source is read པས at the junction, rather than the base's པའི. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x2360-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0014",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B02-P0014-reader-reading.txt",
+        "sha256": "2fccd135a3c1c54b384012b0012b820a5e3f7c9f6013476c9ff1b34ad69b3173"
+      },
+      "observation": {
+        "id": "B02-O02",
+        "anchors": [
+          "U00356"
+        ],
+        "source_span": "ཐུན་མོང་མིན་པས་ལུས་ལ་སྦྱར",
+        "base_span": "ཐུན་མོང་མིན་པའི་ལུས་ལ་སྦྱར",
+        "category": "lexical_variant",
+        "neighboring_context": {
+          "left": "མིན",
+          "right": "ལུས་ལ་སྦྱར"
+        },
+        "approximate_native_bounds": [
+          1550,
+          315,
+          2380,
+          475
+        ],
+        "confidence": {
+          "alignment": "high",
+          "reading": "medium-high"
+        },
+        "rationale": "The source is read པས at the junction, rather than the base's པའི."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
+  },
+  {
+    "id": "TS-CONT2-B02-O03",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00357"
+    ],
+    "base_snippet_at_review": "ཐེག་གཞན",
+    "comparison_reading": "ཐེག་པ་གཞན",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"reading\": \"high\"}",
+    "locator": "PDF 14; native bounds and row context: [2320, 305, 2760, 440]",
+    "rationale": "A separate པ is visible between ཐེག and གཞན; retain it as an unaligned source component. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x2360-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0014",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B02-P0014-reader-reading.txt",
+        "sha256": "2fccd135a3c1c54b384012b0012b820a5e3f7c9f6013476c9ff1b34ad69b3173"
+      },
+      "observation": {
+        "id": "B02-O03",
+        "anchors": [
+          "U00357"
+        ],
+        "source_span": "ཐེག་པ་གཞན",
+        "base_span": "ཐེག་གཞན",
+        "category": "additional_source_syllable",
+        "neighboring_context": {
+          "left": "ཐེག",
+          "right": "གཞན་རྣམས་དང"
+        },
+        "approximate_native_bounds": [
+          2320,
+          305,
+          2760,
+          440
+        ],
+        "confidence": {
+          "alignment": "high",
+          "reading": "high"
+        },
+        "rationale": "A separate པ is visible between ཐེག and གཞན; retain it as an unaligned source component."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
+  },
+  {
+    "id": "TS-CONT2-B02-O04",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00361"
+    ],
+    "base_snippet_at_review": "འདུལ་གཞི་ལས་ནི་འདུལ་བྱེད་དུ",
+    "comparison_reading": "འདུལ་པ་གཞི་ལས་ནི་འདུལ་⟦Q02:མེད⟧་དུ",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"additional_པ\": \"medium-high\", \"Q02\": \"low\"}",
+    "locator": "PDF 14; native bounds and row context: [1770, 400, 2580, 550]",
+    "rationale": "The initial པ is independently visible. The later compact syllable tentatively resembles མེད; a substitution for བྱེད is not established. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x2360-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0014",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B02-P0014-reader-reading.txt",
+        "sha256": "2fccd135a3c1c54b384012b0012b820a5e3f7c9f6013476c9ff1b34ad69b3173"
+      },
+      "observation": {
+        "id": "B02-O04",
+        "anchors": [
+          "U00361"
+        ],
+        "source_span": "འདུལ་པ་གཞི་ལས་ནི་འདུལ་⟦Q02:མེད⟧་དུ",
+        "base_span": "འདུལ་གཞི་ལས་ནི་འདུལ་བྱེད་དུ",
+        "category": "additional_source_syllable_and_bounded_uncertainty",
+        "neighboring_context": {
+          "insertion_flanks": [
+            "འདུལ",
+            "གཞི"
+          ],
+          "uncertain_flanks": [
+            "འདུལ",
+            "དུ"
+          ]
+        },
+        "approximate_native_bounds": [
+          1770,
+          400,
+          2580,
+          550
+        ],
+        "confidence": {
+          "alignment": "high",
+          "additional_པ": "medium-high",
+          "Q02": "low"
+        },
+        "rationale": "The initial པ is independently visible. The later compact syllable tentatively resembles མེད; a substitution for བྱེད is not established."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
+  },
+  {
+    "id": "TS-CONT2-B02-O05",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00364"
+    ],
+    "base_snippet_at_review": "དྲུག་གིས་གཞུང",
+    "comparison_reading": "དྲུག་ནི་གཞུང",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"reading\": \"high\"}",
+    "locator": "PDF 14; native bounds and row context: [450, 515, 1210, 670]",
+    "rationale": "The intervening source syllable reads ནི. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x2360-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0014",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B02-P0014-reader-reading.txt",
+        "sha256": "2fccd135a3c1c54b384012b0012b820a5e3f7c9f6013476c9ff1b34ad69b3173"
+      },
+      "observation": {
+        "id": "B02-O05",
+        "anchors": [
+          "U00364"
+        ],
+        "source_span": "དྲུག་ནི་གཞུང",
+        "base_span": "དྲུག་གིས་གཞུང",
+        "category": "lexical_variant",
+        "neighboring_context": {
+          "left": "ལེའུ་གྲངས",
+          "right": "གཞུང་ཉིད་ལས"
+        },
+        "approximate_native_bounds": [
+          450,
+          515,
+          1210,
+          670
+        ],
+        "confidence": {
+          "alignment": "high",
+          "reading": "high"
+        },
+        "rationale": "The intervening source syllable reads ནི."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
+  },
+  {
+    "id": "TS-CONT2-B02-O06",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00365"
+    ],
+    "base_snippet_at_review": "ཅི་ལྟར",
+    "comparison_reading": "⟦Q03:ཇི⟧་ལྟར",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"root_letter\": \"low-medium\", \"vowel\": \"high\"}",
+    "locator": "PDF 14; native bounds and row context: [1190, 510, 1430, 650]",
+    "rationale": "The initial root tentatively reads ཇ; distinction from ཅ remains open. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x2360-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0014",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B02-P0014-reader-reading.txt",
+        "sha256": "2fccd135a3c1c54b384012b0012b820a5e3f7c9f6013476c9ff1b34ad69b3173"
+      },
+      "observation": {
+        "id": "B02-O06",
+        "anchors": [
+          "U00365"
+        ],
+        "source_span": "⟦Q03:ཇི⟧་ལྟར",
+        "base_span": "ཅི་ལྟར",
+        "category": "candidate_variant_unresolved",
+        "neighboring_context": {
+          "left": "གཞུང་ཉིད་ལས",
+          "right": "གནས་པའི་ཚིག་དོན་ནི"
+        },
+        "approximate_native_bounds": [
+          1190,
+          510,
+          1430,
+          650
+        ],
+        "confidence": {
+          "alignment": "high",
+          "root_letter": "low-medium",
+          "vowel": "high"
+        },
+        "rationale": "The initial root tentatively reads ཇ; distinction from ཅ remains open."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
+  },
+  {
+    "id": "TS-CONT2-B02-O07",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00367"
+    ],
+    "base_snippet_at_review": "དོན་སྣོད་ལ་སོགས་སྣང་བར་སྟོན",
+    "comparison_reading": "དོན་སྣོད་ལ་སོགས་གསལ་བར་སྟོན",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"reading\": \"high\"}",
+    "locator": "PDF 14; native bounds and row context: [2460, 495, 3270, 650]",
+    "rationale": "Source གསལ is visibly distinct from the supplied base སྣང. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x2360-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0014",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B02-P0014-reader-reading.txt",
+        "sha256": "2fccd135a3c1c54b384012b0012b820a5e3f7c9f6013476c9ff1b34ad69b3173"
+      },
+      "observation": {
+        "id": "B02-O07",
+        "anchors": [
+          "U00367"
+        ],
+        "source_span": "དོན་སྣོད་ལ་སོགས་གསལ་བར་སྟོན",
+        "base_span": "དོན་སྣོད་ལ་སོགས་སྣང་བར་སྟོན",
+        "category": "lexical_variant",
+        "neighboring_context": {
+          "left": "ལ་སོགས",
+          "right": "བར་སྟོན"
+        },
+        "approximate_native_bounds": [
+          2460,
+          495,
+          3270,
+          650
+        ],
+        "confidence": {
+          "alignment": "high",
+          "reading": "high"
+        },
+        "rationale": "Source གསལ is visibly distinct from the supplied base སྣང."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
+  },
+  {
+    "id": "TS-CONT2-B02-O08",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00370"
+    ],
+    "base_snippet_at_review": "རྒྱས་པ་བཤད",
+    "comparison_reading": "རྒྱས་པར་བཤད",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"reading\": \"medium-high\"}",
+    "locator": "PDF 14; native bounds and row context: [1140, 615, 1990, 770]",
+    "rationale": "The source is read པར, preserving the visible final ར. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x2360-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0014",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B02-P0014-reader-reading.txt",
+        "sha256": "2fccd135a3c1c54b384012b0012b820a5e3f7c9f6013476c9ff1b34ad69b3173"
+      },
+      "observation": {
+        "id": "B02-O08",
+        "anchors": [
+          "U00370"
+        ],
+        "source_span": "རྒྱས་པར་བཤད",
+        "base_span": "རྒྱས་པ་བཤད",
+        "category": "suffix_variant",
+        "neighboring_context": {
+          "left": "མདོ་དང་རྒྱས",
+          "right": "བཤད"
+        },
+        "approximate_native_bounds": [
+          1140,
+          615,
+          1990,
+          770
+        ],
+        "confidence": {
+          "alignment": "high",
+          "reading": "medium-high"
+        },
+        "rationale": "The source is read པར, preserving the visible final ར."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
+  },
+  {
+    "id": "TS-CONT2-B02-O09",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00371"
+    ],
+    "base_snippet_at_review": "འདུལ་ཡུལ་གང་ཟག་མོས་དོན་དུ",
+    "comparison_reading": "གདུལ་བྱ་གང་ཟག་མོས་དོན་དུ",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"reading\": \"high\"}",
+    "locator": "PDF 14; native bounds and row context: [1970, 605, 2630, 760]",
+    "rationale": "The source opening reads གདུལ་བྱ; neither the initial prefix nor the following syllable is normalized to the base. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x2360-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0014",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B02-P0014-reader-reading.txt",
+        "sha256": "2fccd135a3c1c54b384012b0012b820a5e3f7c9f6013476c9ff1b34ad69b3173"
+      },
+      "observation": {
+        "id": "B02-O09",
+        "anchors": [
+          "U00371"
+        ],
+        "source_span": "གདུལ་བྱ་གང་ཟག་མོས་དོན་དུ",
+        "base_span": "འདུལ་ཡུལ་གང་ཟག་མོས་དོན་དུ",
+        "category": "lexical_variant",
+        "neighboring_context": {
+          "left": "རྒྱས་པར་བཤད",
+          "right": "གང་ཟག་མོས་དོན་དུ"
+        },
+        "approximate_native_bounds": [
+          1970,
+          605,
+          2630,
+          760
+        ],
+        "confidence": {
+          "alignment": "high",
+          "reading": "high"
+        },
+        "rationale": "The source opening reads གདུལ་བྱ; neither the initial prefix nor the following syllable is normalized to the base."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
+  },
+  {
+    "id": "TS-CONT2-B02-O10",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00372"
+    ],
+    "base_snippet_at_review": "སྤྲོས་པ་དོན་ཡིན་ནོ",
+    "comparison_reading": "སྤྲོས་པ་དག་ཡིན་ནོ",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"reading\": \"medium-high\", \"terminal_punctuation\": \"unresolved\"}",
+    "locator": "PDF 14; native bounds and row context: [2630, 590, 3330, 745]",
+    "rationale": "The source syllable is read དག; the following boundary is separately retained as B20. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x2360-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0014",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B02-P0014-reader-reading.txt",
+        "sha256": "2fccd135a3c1c54b384012b0012b820a5e3f7c9f6013476c9ff1b34ad69b3173"
+      },
+      "observation": {
+        "id": "B02-O10",
+        "anchors": [
+          "U00372"
+        ],
+        "source_span": "སྤྲོས་པ་དག་ཡིན་ནོ",
+        "base_span": "སྤྲོས་པ་དོན་ཡིན་ནོ",
+        "category": "lexical_variant",
+        "neighboring_context": {
+          "left": "སྣ་ཚོགས་སྤྲོས་པ",
+          "right": "ཡིན་ནོ"
+        },
+        "approximate_native_bounds": [
+          2630,
+          590,
+          3330,
+          745
+        ],
+        "confidence": {
+          "alignment": "high",
+          "reading": "medium-high",
+          "terminal_punctuation": "unresolved"
+        },
+        "rationale": "The source syllable is read དག; the following boundary is separately retained as B20."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
+  },
+  {
+    "id": "TS-CONT2-B02-O11",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00372",
+      "U00373",
+      "U00374"
+    ],
+    "base_snippet_at_review": "ཡིན་ནོ [section annotation: དྲིས་ལན་གསུམ་པའོ] ཨེ་མ་རྒྱུད་དག་ངེས་འབྱུང་བ",
+    "comparison_reading": "ཡིན་ནོ [raised N01] ཨེ་མ་རྒྱུད / དག་ངེས་འབྱུང་བ",
+    "status": "qualified_local_observation",
+    "confidence": "{\"absence_of_full_label_in_gap\": \"high\", \"N01_presence\": \"high\", \"N01_identity\": \"medium\"}",
+    "locator": "PDF 14; native bounds and row context: [3200, 585, 3900, 765]",
+    "rationale": "The full base annotation is not visible in this gap. A small raised numeral-like mark is present. This is not recorded as an omitted main verse, and the mark is not expanded into unseen words. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x2360-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0014",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B02-P0014-reader-reading.txt",
+        "sha256": "2fccd135a3c1c54b384012b0012b820a5e3f7c9f6013476c9ff1b34ad69b3173"
+      },
+      "observation": {
+        "id": "B02-O11",
+        "anchors": [
+          "U00372",
+          "U00373",
+          "U00374"
+        ],
+        "source_span": "ཡིན་ནོ [raised N01] ཨེ་མ་རྒྱུད / དག་ངེས་འབྱུང་བ",
+        "base_span": "ཡིན་ནོ [section annotation: དྲིས་ལན་གསུམ་པའོ] ཨེ་མ་རྒྱུད་དག་ངེས་འབྱུང་བ",
+        "category": "source_annotation_layer",
+        "neighboring_context": {
+          "left": "སྣ་ཚོགས་སྤྲོས་པ་དག་ཡིན་ནོ",
+          "right": "ཨེ་མ་རྒྱུད་དག་ངེས་འབྱུང་བ"
+        },
+        "approximate_native_bounds": [
+          3200,
+          585,
+          3900,
+          765
+        ],
+        "confidence": {
+          "absence_of_full_label_in_gap": "high",
+          "N01_presence": "high",
+          "N01_identity": "medium"
+        },
+        "rationale": "The full base annotation is not visible in this gap. A small raised numeral-like mark is present. This is not recorded as an omitted main verse, and the mark is not expanded into unseen words."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
+  },
+  {
+    "id": "TS-CONT2-B02-O12",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00377"
+    ],
+    "base_snippet_at_review": "མཚན་དོན་རྣམ་ཕྱེ་སྟེ",
+    "comparison_reading": "མཚན་དོན་⟦Q04:རྣམས⟧་ཕྱེ་སྟེ",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"root_reading\": \"high\", \"final_ས\": \"medium\"}",
+    "locator": "PDF 14; native bounds and row context: [2170, 690, 2850, 850]",
+    "rationale": "An apparent final ས is retained provisionally; suffix acceptance requires another reading of this bounded cluster. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x2360-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0014",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B02-P0014-reader-reading.txt",
+        "sha256": "2fccd135a3c1c54b384012b0012b820a5e3f7c9f6013476c9ff1b34ad69b3173"
+      },
+      "observation": {
+        "id": "B02-O12",
+        "anchors": [
+          "U00377"
+        ],
+        "source_span": "མཚན་དོན་⟦Q04:རྣམས⟧་ཕྱེ་སྟེ",
+        "base_span": "མཚན་དོན་རྣམ་ཕྱེ་སྟེ",
+        "category": "candidate_suffix_variant_unresolved",
+        "neighboring_context": {
+          "left": "མཚན་དོན",
+          "right": "ཕྱེ་སྟེ"
+        },
+        "approximate_native_bounds": [
+          2170,
+          690,
+          2850,
+          850
+        ],
+        "confidence": {
+          "alignment": "high",
+          "root_reading": "high",
+          "final_ས": "medium"
+        },
+        "rationale": "An apparent final ས is retained provisionally; suffix acceptance requires another reading of this bounded cluster."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
+  },
+  {
+    "id": "TS-CONT2-B02-O13",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00383"
+    ],
+    "base_snippet_at_review": "དམིགས་པས་ཡུལ་གྱི་བློ་རྣམས་ལ",
+    "comparison_reading": "དམིགས་པ་ཡུལ་གྱི་བློ་རྣམས་ལ",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"reading\": \"medium-high\"}",
+    "locator": "PDF 14; native bounds and row context: [3090, 765, 3890, 920]",
+    "rationale": "The inspected junction reads པ་ཡུལ without a discernible intervening ས; this is a suffix difference, not a whole-word omission. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x2360-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0014",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B02-P0014-reader-reading.txt",
+        "sha256": "2fccd135a3c1c54b384012b0012b820a5e3f7c9f6013476c9ff1b34ad69b3173"
+      },
+      "observation": {
+        "id": "B02-O13",
+        "anchors": [
+          "U00383"
+        ],
+        "source_span": "དམིགས་པ་ཡུལ་གྱི་བློ་རྣམས་ལ",
+        "base_span": "དམིགས་པས་ཡུལ་གྱི་བློ་རྣམས་ལ",
+        "category": "suffix_absence",
+        "neighboring_context": {
+          "left": "དམིགས་པ",
+          "right": "ཡུལ་གྱི"
+        },
+        "approximate_native_bounds": [
+          3090,
+          765,
+          3890,
+          920
+        ],
+        "confidence": {
+          "alignment": "high",
+          "reading": "medium-high"
+        },
+        "rationale": "The inspected junction reads པ་ཡུལ without a discernible intervening ས; this is a suffix difference, not a whole-word omission."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
+  },
+  {
+    "id": "TS-CONT2-B02-O14",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00350",
+      "U00383"
+    ],
+    "base_snippet_at_review": "Repeated base ། ། and section-label punctuation.",
+    "comparison_reading": "Boundary inventory B01–B29, E02, E03, E04 and E07; O01 and N01 separately inventoried.",
+    "status": "qualified_local_observation",
+    "confidence": "{\"boundary_locations\": \"high\", \"internal_D_graphics\": \"medium\", \"right_edge_decomposition\": \"unresolved\"}",
+    "locator": "PDF 14; native bounds and row context: [450, 220, 3900, 940]",
+    "rationale": "Graphic events are referenced once at their physical positions. No source compound ornament, frame stroke or raised numeral is converted automatically into base punctuation. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x2360-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0014",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B02-P0014-reader-reading.txt",
+        "sha256": "2fccd135a3c1c54b384012b0012b820a5e3f7c9f6013476c9ff1b34ad69b3173"
+      },
+      "observation": {
+        "id": "B02-O14",
+        "anchors": [
+          "U00350",
+          "U00383"
+        ],
+        "source_span": "Boundary inventory B01–B29, E02, E03, E04 and E07; O01 and N01 separately inventoried.",
+        "base_span": "Repeated base ། ། and section-label punctuation.",
+        "category": "graphic_punctuation_inventory",
+        "neighboring_context": "Each boundary is located by its adjacent anchors in rows.",
+        "approximate_native_bounds": [
+          450,
+          220,
+          3900,
+          940
+        ],
+        "confidence": {
+          "boundary_locations": "high",
+          "internal_D_graphics": "medium",
+          "right_edge_decomposition": "unresolved"
+        },
+        "rationale": "Graphic events are referenced once at their physical positions. No source compound ornament, frame stroke or raised numeral is converted automatically into base punctuation."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
+  },
+  {
+    "id": "TS-CONT2-B02-Q01",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00355"
+    ],
+    "base_snippet_at_review": "གཞན་ལས་ཁྱད་པར་འཕགས་དོན་དུ། །",
+    "comparison_reading": "[Unresolved inspected source interval: The two syllables and their junction are not securely separable in this reading; do not certify agreement or an omission here.]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"location\": \"source-based local correspondence\", \"exact_reading\": \"unresolved\"}",
+    "locator": "PDF 14; native bounds and row context: [1260, 320, 1535, 475]",
+    "rationale": "The two syllables and their junction are not securely separable in this reading; do not certify agreement or an omission here. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x2360-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-right.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-left.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-right.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0014",
+      "baseline_commit": "54a551da508c19372f883795c6bcef7acf48149d",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B02-P0014-reader-reading.txt",
+        "sha256": "2fccd135a3c1c54b384012b0012b820a5e3f7c9f6013476c9ff1b34ad69b3173"
+      },
+      "observation": {
+        "id": "B02-Q01",
+        "anchors": [
+          "U00355"
+        ],
+        "source_span": null,
+        "base_span": "གཞན་ལས་ཁྱད་པར་འཕགས་དོན་དུ། །",
+        "category": "bounded_glyph_uncertainty",
+        "question": "The two syllables and their junction are not securely separable in this reading; do not certify agreement or an omission here.",
+        "neighboring_context": "Compact final cluster after འཕགས and before B06.",
+        "approximate_native_bounds": [
+          1260,
+          320,
+          1535,
+          475
+        ],
+        "confidence": {
+          "location": "source-based local correspondence",
+          "exact_reading": "unresolved"
+        },
+        "rationale": "The two syllables and their junction are not securely separable in this reading; do not certify agreement or an omission here."
+      },
+      "coordinator_scope": "Target native overview and all target row bands inspected; reported local distinctions retained within their stated confidence, not promoted to blanket agreement."
+    }
   }
 ]

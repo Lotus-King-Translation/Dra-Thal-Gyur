@@ -37,3 +37,82 @@ Record རྟོག་སངས as a provisional visual variant, retaining the b
 ## Continuation
 
 `TS-CONT-20260928-U00012` and `TS-CONT-20260928-U00148` preserve the unresolved or provisional observations. No Adzom text is changed. Begin new continuous comparison at PDF14 using the saved outgoing PDF13 sequence; do not label the three inspected opening pages fully collated.
+
+
+## B02-P0014 — continued source inspection
+
+PDF14 all seven rows followed from incoming U00350 to U00383, with source additions, lexical variants, numeral-like annotation and graphic boundaries preserved. Local unread glyphs/signs remain explicit; next full-page comparison is PDF15.
+
+[Raw reading](C1-TSAMDRAK-B02-P0014-reader-reading.txt). The complete row ledger and sign legend are retained in the structured report.
+
+### Physical row 1
+
+```text
+⟦O01⟧ རྣམ་བཤད་པའོ⟦B01⟧གཞུང་ལ་རྣམ་པ་གཉིས་སུ་བསྟན⟦B02⟧ལུས་ཉིད་རྣམ་པར་གཞག་པ་དང⟦B03⟧ཡན་ལག་དོན་གྱིས་རྒྱས་པར་དབྱེ⟦B04⟧ལུས་ནི་གླེང་གཞི་རྣམ
+```
+
+### Physical row 2
+
+```text
+པ་གཉིས⟦B05⟧གཞན་ལས་ཁྱད་པར་འཕགས་⟦Q01:དོན་དུ⟧⟦B06⟧ཐུན་མོང་མིན་པས་ལུས་ལ་སྦྱར⟦B07⟧ཐེག་པ་གཞན་རྣམས་དང་སྒོ་བསྟུན་ཕྱིར⟦B08⟧ཐུན་མོང་དག་གི་གླེང་གཞི་ཡིས⟦E02⟧
+```
+
+### Physical row 3
+
+```text
+སྡུད་པ་རང་གི་འཁོར་རྣམས་ལ⟦B09⟧ཡིད་ཆེས་བྱ་ཕྱིར་བསྟན་པ་སྟེ⟦B10⟧འདུལ་པ་གཞི་ལས་ནི་འདུལ་⟦Q02:མེད⟧་དུ⟦B11⟧བྱུང་བས་བསྟན་པ་གནས་པར་བྱེད⟦B12⟧ཡན་ལག་དཔེ་དང་ཚིག་དོན་ནོ⟦E03⟧
+```
+
+### Physical row 4
+
+```text
+ལེའུ་གྲངས་དྲུག་ནི་གཞུང་ཉིད་ལས⟦B13⟧⟦Q03:ཇི⟧་ལྟར་གནས་པའི་ཚིག་དོན་ནི⟦B14⟧ལུས་ཀྱི་ཁོག་པ་ཕྱེ་བ་ལྟར⟦B15⟧དོན་སྣོད་ལ་སོགས་གསལ་བར་སྟོན⟦B16⟧ཚིག་གི་དོན་ལ་རྣམ་པ་གཉིས⟦E04⟧
+```
+
+### Physical row 5
+
+```text
+དྲིས་དང་ལན་དུ་གསུངས་པའོ⟦B17⟧ལན་གཉིས་མདོ་དང་རྒྱས་པར་བཤད⟦B18⟧གདུལ་བྱ་གང་ཟག་མོས་དོན་དུ⟦B19⟧སྣ་ཚོགས་སྤྲོས་པ་དག་ཡིན་ནོ⟦B20⟧ཨེ་མ་རྒྱུད
+```
+
+### Physical row 6
+
+```text
+དག་ངེས་འབྱུང་བ⟦B21⟧དགོངས་པ་རྣམ་པ་གཉིས་ཡིན་ཏེ⟦B22⟧རིག་པ་རང་སྣང་བློ་ཅན་ལ⟦B23⟧རྒྱུད་ཀྱི་མཚན་དོན་⟦Q04:རྣམས⟧་ཕྱེ་སྟེ⟦B24⟧བརྡ་དང་སྒྲ་དང་དོན་གསུམ་གྱིས⟦B25⟧ཆོས་ཉིད་མངོན
+```
+
+### Physical row 7
+
+```text
+སུམ་ལམ་བྱས་ཏེ⟦B26⟧ཁམས་གསུམ་འཁོར་བའི་རྒྱུན་བཅད་ནས⟦B27⟧ཕྱི་ཕྱིར་ལྡོག་པ་མེད་པ་ཡིས⟦B28⟧ཟད་པའི་མཚན་ཉིད་ཤེས་པའོ⟦B29⟧དམིགས་པ་ཡུལ་གྱི་བློ་རྣམས་ལ⟦E07⟧
+```
+
+### Bounded questions retained
+
+**Q01:** The two syllables and their junction are not securely separable in this reading; do not certify agreement or an omission here.
+
+**Q02:** Root/subjoined structure unresolved; བྱེད is not excluded. No confirmed lexical substitution.
+
+**Q03:** ཇ versus ཅ remains unresolved.
+
+**Q04:** Whether the apparent final component is a separate suffix ས.
+
+**P02:** Exact detached-upright count versus the terminal ས limb.
+
+**P03:** Exact punctuation decomposition of the terminal upright group.
+
+**P04:** Closely spaced uprights are visible; their separation from the final letter is not fully resolved.
+
+**P05:** Which adjacent vertical components are detached punctuation rather than letter limbs; N01 itself is separately inventoried.
+
+**P07:** Exact detached-upright count.
+
+**N01-Q:** Tentative ༣ requires confirmation; no lexical expansion supported.
+
+**M01-Q:** Letter or numeral identity unresolved.
+
+**M02-Q:** Individual letters and orientation unresolved.
+
+Next: PDF15 row1, expected following U00383 but exact source correspondence must be established; preserve PDF14 bounded questions.
+
+This completed bounded inspection does not certify unexamined portions of the chapter. Unresolved glyphs are not agreement, missing text, or source unavailability.

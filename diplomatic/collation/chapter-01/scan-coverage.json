@@ -1094,6 +1094,159 @@
         "Can independent inspection confirm the ga–separator–sa segmentation at U00148?"
       ],
       "publication_status": "integration_pending_verification"
+    },
+    {
+      "task_id": "C1-BASE-UNCERTAINTIES",
+      "batch_id": "B02-P0101",
+      "report": "reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES.json",
+      "summary": "PDF101 all six rows searched; U02615 wording not identified and U02620 candidate locus remains unread in bounded components. No source phrase or spelling changed.",
+      "rows_reported": 6,
+      "canonical_record_ids": [
+        "SCAN-CH1-LAYER-02615",
+        "SCAN-CH1-LAYER-02620"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "result": "Both complete transcript-note readings remain unverified. U02615 was not independently located; the U02620 candidate locus is physically bounded between established main-text flanks.",
+        "completed": "Overview-first inspection; all six rows searched left to right; targeted row 3 and row 4 boundaries and cluster inspected across the overlapping views.",
+        "limits": "Search coverage replaces full-page main-text transcription here. Neither non-identification nor unresolved ink proves historical absence. No target-page area was omitted from the phrase search; exhaustive unrelated lexical and punctuation collation was not undertaken.",
+        "review_status": "Informed independent image reading; not blind review, human palaeographic certification or whole-chapter certification."
+      },
+      "next_physical_span": "PDF102 S09 boundary inscription, then title/portrait scopes; preserve the unresolved PDF60/PDF101 findings without endlessly repeating identical evidence."
+    },
+    {
+      "task_id": "C1-BASE-PHYSICAL",
+      "batch_id": "B02-P0003",
+      "report": "reviews/chapter-01/continuation/C1-BASE-PHYSICAL.json",
+      "summary": "All four PDF3 main rows, twelve unit boundaries, internal row/page turns and non-main regions inventoried. Eleven ordinary double-shad boundaries retained. U00014 tiered graphic remains encoding-uncertain; marginal components now read in their physical order. No lexical correction.",
+      "rows_reported": 4,
+      "canonical_record_ids": [
+        "SCAN-CH1-SIGN-00014-UNCERTAIN"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "all_four_target_rows_followed_left_to_right": true,
+        "target_margins_and_frames_inspected": true,
+        "unit_boundaries_recorded": [
+          "B14",
+          "B15",
+          "B16",
+          "B17",
+          "B18",
+          "B19",
+          "B20",
+          "B21",
+          "B22",
+          "B23",
+          "B24",
+          "B25"
+        ],
+        "physical_row_endings_recorded": [
+          "U00017: རྒྱུ → དང",
+          "U00020: ཡོངས → སུ",
+          "U00023: ཚོགས → དམིགས",
+          "U00026: དང → PDF4 མ"
+        ],
+        "main_text_source_annotations_identified": 0,
+        "lexical_changes_proposed": [],
+        "complete_resolved_inventory": false,
+        "remaining_limits": "Seven bounded graphic or marginal questions remain. All target regions received inspection, but the marginal legend and specified signs are not settled.",
+        "review_character": "Informed independent agent reading with the base reference available; not blind review, an independent witness, human palaeographic certification or whole-chapter certification."
+      },
+      "next_physical_span": "PDF4 full physical inventory and remaining page1/2/5 scopes; PDF3 has explicitly bounded remaining graphic questions, not unread whole rows."
+    },
+    {
+      "task_id": "C1-TINGKYE",
+      "batch_id": "B02-P0004-R4-R7",
+      "report": "reviews/chapter-01/continuation/C1-TINGKYE.json",
+      "summary": "PDF4 rows4-7 followed in full, continuing U00106 to the outgoing U00127 fragment. Twenty-one graphic delimiters and bounded glyph questions recorded. PDF5 row1 is context only; new frontier is PDF5 row1, not the older isolated PDF6 check.",
+      "rows_reported": 4,
+      "canonical_record_ids": [
+        "TK-CONT2-B02-O02",
+        "TK-CONT2-B02-O03",
+        "TK-CONT2-B02-O04",
+        "TK-CONT2-B02-O05",
+        "TK-CONT2-B02-O06",
+        "TK-CONT2-B02-O07",
+        "TK-CONT2-B02-O08",
+        "TK-CONT2-B02-O09",
+        "TK-CONT2-B02-O10",
+        "TK-CONT2-B02-O11",
+        "TK-CONT2-B02-Q01",
+        "TK-CONT2-B02-Q02",
+        "TK-CONT2-B02-Q03",
+        "TK-CONT2-B02-Q04",
+        "TK-CONT2-B02-Q05",
+        "TK-CONT2-B02-Q06"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "target_rows_followed_left_to_right": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "unexamined_target_intervals": [],
+        "unresolved_target_intervals": [
+          "Q01",
+          "Q02",
+          "Q03",
+          "Q04",
+          "Q05",
+          "Q06",
+          "Q10"
+        ],
+        "target_boundary_signs_inventoried": 21,
+        "unaligned_components": "No additional free-standing lexical component was securely identified. Unresolved main-text intervals remain anchored by their neighbors; marginal clusters remain separately unaligned.",
+        "source_annotations": "No separable interlinear or inline annotation was identified within the four target rows; marginal material is recorded separately.",
+        "status": "Complete spatial inspection of the four target rows, with bounded undeciphered intervals and provisional lexical findings; not an unqualified completed collation.",
+        "review_character": "Informed independent agent reading with the base reference disclosed; neither blind review nor human palaeographic certification.",
+        "certification_scope": "No whole-page completion beyond the declared rows and no whole-chapter certification."
+      },
+      "next_physical_span": "PDF5 row1, U00127 outgoing join and U00128 onward; PDF4 targeted glyph and marginal questions remain visible."
+    },
+    {
+      "task_id": "C1-TSAMDRAK",
+      "batch_id": "B02-P0014",
+      "report": "reviews/chapter-01/continuation/C1-TSAMDRAK.json",
+      "summary": "PDF14 all seven rows followed from incoming U00350 to U00383, with source additions, lexical variants, numeral-like annotation and graphic boundaries preserved. Local unread glyphs/signs remain explicit; next full-page comparison is PDF15.",
+      "rows_reported": 7,
+      "canonical_record_ids": [
+        "TS-CONT2-B02-O02",
+        "TS-CONT2-B02-O03",
+        "TS-CONT2-B02-O04",
+        "TS-CONT2-B02-O05",
+        "TS-CONT2-B02-O06",
+        "TS-CONT2-B02-O07",
+        "TS-CONT2-B02-O08",
+        "TS-CONT2-B02-O09",
+        "TS-CONT2-B02-O10",
+        "TS-CONT2-B02-O11",
+        "TS-CONT2-B02-O12",
+        "TS-CONT2-B02-O13",
+        "TS-CONT2-B02-O14",
+        "TS-CONT2-B02-Q01"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "target_rows_examined": 7,
+        "target_rows_transcribed": 7,
+        "status": "Full declared page inspected; transcription and collation remain provisional at the explicitly bounded lexical, graphic and marginal questions.",
+        "unaligned_components": [
+          "Additional པ in U00357",
+          "Additional པ in U00361",
+          "O01 opening ornament",
+          "N01 raised sign",
+          "M01 marginal glyph",
+          "M02 marginal legend"
+        ],
+        "source_layer_separation": "Main text, section sign, ornament, marginal material, pagination and frame remain separate.",
+        "punctuation_status": "Boundary locations inventoried; exact right-edge decomposition and B20 remain incomplete.",
+        "review_character": "Informed independent agent reading with the base reference visible; neither blind review nor human palaeographic certification.",
+        "certification_scope": "No whole-chapter certification; no remote preservation or file mutation performed."
+      },
+      "next_physical_span": "PDF15 row1, expected following U00383 but exact source correspondence must be established; preserve PDF14 bounded questions."
     }
   ]
 }

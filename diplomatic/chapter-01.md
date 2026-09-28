@@ -77,7 +77,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00014"></a>
 
-**U00014** རང་བྱུང་བྱས་པ་མེད་པ་ལས། ། [TK-002](#tk-002) [Tingkye/Degé scan variant](reviews/chapter-01/independent-openings.md#conflicts-that-can-be-reported-conservatively)
+**U00014** རང་བྱུང་བྱས་པ་མེད་པ་ལས། ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-SIGN-00014-UNCERTAIN](#scan-ch1-sign-00014-uncertain) [TK-002](#tk-002) [Tingkye/Degé scan variant](reviews/chapter-01/independent-openings.md#conflicts-that-can-be-reported-conservatively)
 
 <a id="u00015"></a>
 
@@ -445,91 +445,91 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00106"></a>
 
-**U00106** སྤྲུལ་པའི་ས་བོན་ལྡང་བའོ། ། [L1-0010](#l1-0010)
+**U00106** སྤྲུལ་པའི་ས་བོན་ལྡང་བའོ། ། [L1-0010](#l1-0010) [TK-CONT2-B02-O11](#tk-cont2-b02-o11)
 
 <a id="u00107"></a>
 
-**U00107** དེ་ལྟར་དངོས་ཀྱི་བསྟན་པ་ལས། །
+**U00107** དེ་ལྟར་དངོས་ཀྱི་བསྟན་པ་ལས། ། [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TK-CONT2-B02-Q01](#tk-cont2-b02-q01)
 
 <a id="u00108"></a>
 
-**U00108** གཟུགས་བརྙན་ཆོ་འཕྲུལ་འདི་ལྟ་བུ། །
+**U00108** གཟུགས་བརྙན་ཆོ་འཕྲུལ་འདི་ལྟ་བུ། ། [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TK-CONT2-B02-Q02](#tk-cont2-b02-q02)
 
 <a id="u00109"></a>
 
-**U00109** སུས་ཀྱང་བརྗོད་དུ་མེད་པར་ནི། །
+**U00109** སུས་ཀྱང་བརྗོད་དུ་མེད་པར་ནི། ། [TK-CONT2-B02-O02](#tk-cont2-b02-o02) [TK-CONT2-B02-O11](#tk-cont2-b02-o11)
 
 <a id="u00110"></a>
 
-**U00110** ནམ་མཁའ་མི་འབྱེད་བར་སྣང་ལས། །
+**U00110** ནམ་མཁའ་མི་འབྱེད་བར་སྣང་ལས། ། [TK-CONT2-B02-O03](#tk-cont2-b02-o03) [TK-CONT2-B02-O11](#tk-cont2-b02-o11)
 
 <a id="u00111"></a>
 
-**U00111** ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང༌། །
+**U00111** ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང༌། ། [TK-CONT2-B02-O04](#tk-cont2-b02-o04) [TK-CONT2-B02-O11](#tk-cont2-b02-o11)
 
 <a id="u00112"></a>
 
-**U00112** དགུ་གཉིས་བཞི་ཡི་ཡང་སྟེང་ནས། །
+**U00112** དགུ་གཉིས་བཞི་ཡི་ཡང་སྟེང་ནས། ། [TK-CONT2-B02-O05](#tk-cont2-b02-o05) [TK-CONT2-B02-O11](#tk-cont2-b02-o11)
 
 <a id="u00113"></a>
 
-**U00113** ཚངས་པ་ཆེན་པོའི་དབྱངས་སུ་བསྒྲགས། །
+**U00113** ཚངས་པ་ཆེན་པོའི་དབྱངས་སུ་བསྒྲགས། ། [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TK-CONT2-B02-Q03](#tk-cont2-b02-q03)
 
 <a id="u00114"></a>
 
-**U00114** དེ་ནས་ཆོས་ཉིད་ནམ་མཁའ་ལས། །
+**U00114** དེ་ནས་ཆོས་ཉིད་ནམ་མཁའ་ལས། ། [TK-CONT2-B02-O11](#tk-cont2-b02-o11)
 
 <a id="u00115"></a>
 
-**U00115** ཁྱབ་འཇུག་ཆེན་པོའི་གསུང་གིས་ནི། །
+**U00115** ཁྱབ་འཇུག་ཆེན་པོའི་གསུང་གིས་ནི། ། [TK-CONT2-B02-O06](#tk-cont2-b02-o06) [TK-CONT2-B02-O11](#tk-cont2-b02-o11)
 
 <a id="u00116"></a>
 
-**U00116** བྱིན་གྱིས་རླབས་ཀྱིས་རང་སྒྲར་སྟོན། །
+**U00116** བྱིན་གྱིས་རླབས་ཀྱིས་རང་སྒྲར་སྟོན། ། [TK-CONT2-B02-O07](#tk-cont2-b02-o07) [TK-CONT2-B02-O11](#tk-cont2-b02-o11)
 
 <a id="u00117"></a>
 
-**U00117** དེ་ནས་ཕྱོགས་བྲལ་ནམ་མཁའ་ལས། །
+**U00117** དེ་ནས་ཕྱོགས་བྲལ་ནམ་མཁའ་ལས། ། [TK-CONT2-B02-O11](#tk-cont2-b02-o11)
 
 <a id="u00118"></a>
 
-**U00118** ཀ་ལ་པིང་ཀའི་སྒྲ་དབྱངས་ལས། །
+**U00118** ཀ་ལ་པིང་ཀའི་སྒྲ་དབྱངས་ལས། ། [TK-CONT2-B02-O11](#tk-cont2-b02-o11)
 
 <a id="u00119"></a>
 
-**U00119** བསྟན་པ་ཀུན་གྱི་བཅུད་བསྡུས་པའི། །
+**U00119** བསྟན་པ་ཀུན་གྱི་བཅུད་བསྡུས་པའི། ། [TK-CONT2-B02-O04](#tk-cont2-b02-o04) [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TK-CONT2-B02-Q04](#tk-cont2-b02-q04)
 
 <a id="u00120"></a>
 
-**U00120** རྒྱུད་ཀྱི་རྒྱལ་པོ་འདི་ཉིད་ནི། །
+**U00120** རྒྱུད་ཀྱི་རྒྱལ་པོ་འདི་ཉིད་ནི། ། [TK-CONT2-B02-O11](#tk-cont2-b02-o11)
 
 <a id="u00121"></a>
 
-**U00121** ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང་། །
+**U00121** ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང་། ། [TK-CONT2-B02-O04](#tk-cont2-b02-o04) [TK-CONT2-B02-O11](#tk-cont2-b02-o11)
 
 <a id="u00122"></a>
 
-**U00122** བརྒྱ་ཕྲག་གསུམ་དང་དྲུག་ཅུ་ཡི། །
+**U00122** བརྒྱ་ཕྲག་གསུམ་དང་དྲུག་ཅུ་ཡི། ། [TK-CONT2-B02-O08](#tk-cont2-b02-o08) [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TK-CONT2-B02-Q05](#tk-cont2-b02-q05)
 
 <a id="u00123"></a>
 
-**U00123** སྒྲ་ལས་དྲངས་ཏེ་སྟོན་པས་གསུངས། །
+**U00123** སྒྲ་ལས་དྲངས་ཏེ་སྟོན་པས་གསུངས། ། [TK-CONT2-B02-O09](#tk-cont2-b02-o09) [TK-CONT2-B02-O11](#tk-cont2-b02-o11)
 
 <a id="u00124"></a>
 
-**U00124** དེ་ནས་འབྱུང་བ་སོ་སོའི་སྒྲ། །
+**U00124** དེ་ནས་འབྱུང་བ་སོ་སོའི་སྒྲ། ། [TK-CONT2-B02-O11](#tk-cont2-b02-o11)
 
 <a id="u00125"></a>
 
-**U00125** བྱེད་རྒྱུ་ཚ་དང་གྲང་བ་ལས། །
+**U00125** བྱེད་རྒྱུ་ཚ་དང་གྲང་བ་ལས། ། [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TK-CONT2-B02-Q06](#tk-cont2-b02-q06)
 
 <a id="u00126"></a>
 
-**U00126** སོ་སོའི་སྒྲ་དབྱངས་སྟོང་ཕྲག་བརྒྱད། །
+**U00126** སོ་སོའི་སྒྲ་དབྱངས་སྟོང་ཕྲག་བརྒྱད། ། [TK-CONT2-B02-O11](#tk-cont2-b02-o11)
 
 <a id="u00127"></a>
 
-**U00127** སྟོན་པས་བྱིན་གྱིས་བརླབས་པར་སྣང་། །
+**U00127** སྟོན་པས་བྱིན་གྱིས་བརླབས་པར་སྣང་། ། [TK-CONT2-B02-O10](#tk-cont2-b02-o10)
 
 <a id="u00128"></a>
 
@@ -1421,7 +1421,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00350"></a>
 
-**U00350** རྟོགས་པར་བྱ་ཕྱིར་རྣམ་བཤད་པའོ། ། [L1-0026](#l1-0026)
+**U00350** རྟོགས་པར་བྱ་ཕྱིར་རྣམ་བཤད་པའོ། ། [L1-0026](#l1-0026) [TS-CONT2-B02-O14](#ts-cont2-b02-o14)
 
 <a id="u00351"></a>
 
@@ -1441,15 +1441,15 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00355"></a>
 
-**U00355** གཞན་ལས་ཁྱད་པར་འཕགས་དོན་དུ། །
+**U00355** གཞན་ལས་ཁྱད་པར་འཕགས་དོན་དུ། ། [TS-CONT2-B02-Q01](#ts-cont2-b02-q01)
 
 <a id="u00356"></a>
 
-**U00356** ཐུན་མོང་མིན་པའི་ལུས་ལ་སྦྱར། །
+**U00356** ཐུན་མོང་མིན་པའི་ལུས་ལ་སྦྱར། ། [TS-CONT2-B02-O02](#ts-cont2-b02-o02)
 
 <a id="u00357"></a>
 
-**U00357** ཐེག་གཞན་རྣམས་དང་སྒོ་བསྟུན་ཕྱིར། །
+**U00357** ཐེག་གཞན་རྣམས་དང་སྒོ་བསྟུན་ཕྱིར། ། [TS-CONT2-B02-O03](#ts-cont2-b02-o03)
 
 <a id="u00358"></a>
 
@@ -1465,7 +1465,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00361"></a>
 
-**U00361** འདུལ་གཞི་ལས་ནི་འདུལ་བྱེད་དུ། །
+**U00361** འདུལ་གཞི་ལས་ནི་འདུལ་བྱེད་དུ། ། [TS-CONT2-B02-O04](#ts-cont2-b02-o04)
 
 <a id="u00362"></a>
 
@@ -1477,11 +1477,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00364"></a>
 
-**U00364** ལེའུ་གྲངས་དྲུག་གིས་གཞུང་ཉིད་ལས། །
+**U00364** ལེའུ་གྲངས་དྲུག་གིས་གཞུང་ཉིད་ལས། ། [TS-CONT2-B02-O05](#ts-cont2-b02-o05)
 
 <a id="u00365"></a>
 
-**U00365** ཅི་ལྟར་གནས་པའི་ཚིག་དོན་ནི། །
+**U00365** ཅི་ལྟར་གནས་པའི་ཚིག་དོན་ནི། ། [TS-CONT2-B02-O06](#ts-cont2-b02-o06)
 
 <a id="u00366"></a>
 
@@ -1489,7 +1489,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00367"></a>
 
-**U00367** དོན་སྣོད་ལ་སོགས་སྣང་བར་སྟོན། །
+**U00367** དོན་སྣོད་ལ་སོགས་སྣང་བར་སྟོན། ། [TS-CONT2-B02-O07](#ts-cont2-b02-o07)
 
 <a id="u00368"></a>
 
@@ -1501,23 +1501,23 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00370"></a>
 
-**U00370** ལན་གཉིས་མདོ་དང་རྒྱས་པ་བཤད། །
+**U00370** ལན་གཉིས་མདོ་དང་རྒྱས་པ་བཤད། ། [TS-CONT2-B02-O08](#ts-cont2-b02-o08)
 
 <a id="u00371"></a>
 
-**U00371** འདུལ་ཡུལ་གང་ཟག་མོས་དོན་དུ། །
+**U00371** འདུལ་ཡུལ་གང་ཟག་མོས་དོན་དུ། ། [TS-CONT2-B02-O09](#ts-cont2-b02-o09)
 
 <a id="u00372"></a>
 
-**U00372** སྣ་ཚོགས་སྤྲོས་པ་དོན་ཡིན་ནོ། [SIGNS-VERIFIED-20260927-U00372](#signs-verified-20260927-u00372)
+**U00372** སྣ་ཚོགས་སྤྲོས་པ་དོན་ཡིན་ནོ། [SIGNS-VERIFIED-20260927-U00372](#signs-verified-20260927-u00372) [TS-CONT2-B02-O10](#ts-cont2-b02-o10) [TS-CONT2-B02-O11](#ts-cont2-b02-o11)
 
 <a id="u00373"></a>
 
-**U00373** **[Source structural heading]** དྲིས་ལན་གསུམ་པའོ། ། [L1-0027](#l1-0027) [DZ-MID-020-U373](#dz-mid-020-u373) [W-C01-027](reviews/chapter-01/wikisource.md#w-c01-027)
+**U00373** **[Source structural heading]** དྲིས་ལན་གསུམ་པའོ། ། [L1-0027](#l1-0027) [DZ-MID-020-U373](#dz-mid-020-u373) [TS-CONT2-B02-O11](#ts-cont2-b02-o11) [W-C01-027](reviews/chapter-01/wikisource.md#w-c01-027)
 
 <a id="u00374"></a>
 
-**U00374** ཨེ་མ་རྒྱུད་དག་ངེས་འབྱུང་བ། ། [L1-0027](#l1-0027)
+**U00374** ཨེ་མ་རྒྱུད་དག་ངེས་འབྱུང་བ། ། [L1-0027](#l1-0027) [TS-CONT2-B02-O11](#ts-cont2-b02-o11)
 
 <a id="u00375"></a>
 
@@ -1529,7 +1529,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00377"></a>
 
-**U00377** རྒྱུད་ཀྱི་མཚན་དོན་རྣམ་ཕྱེ་སྟེ། །
+**U00377** རྒྱུད་ཀྱི་མཚན་དོན་རྣམ་ཕྱེ་སྟེ། ། [TS-CONT2-B02-O12](#ts-cont2-b02-o12)
 
 <a id="u00378"></a>
 
@@ -1553,7 +1553,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00383"></a>
 
-**U00383** དམིགས་པས་ཡུལ་གྱི་བློ་རྣམས་ལ། ། [W-C01-028](reviews/chapter-01/wikisource.md#w-c01-028)
+**U00383** དམིགས་པས་ཡུལ་གྱི་བློ་རྣམས་ལ། ། [TS-CONT2-B02-O13](#ts-cont2-b02-o13) [TS-CONT2-B02-O14](#ts-cont2-b02-o14) [W-C01-028](reviews/chapter-01/wikisource.md#w-c01-028)
 
 <a id="u00384"></a>
 
@@ -10543,7 +10543,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02620"></a>
 
-**U02620** [Source annotation recorded separately in the linked note; this anchor does not add a main-text verse.] [SCAN-CH1-LAYER-02620](#scan-ch1-layer-02620) [L1-0182](#l1-0182) [DZ-LATE-28](#dz-late-28) [W-C01-271](reviews/chapter-01/wikisource.md#w-c01-271)
+**U02620** [Source annotation recorded separately in the linked note; this anchor does not add a main-text verse.] **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-LAYER-02620](#scan-ch1-layer-02620) [L1-0182](#l1-0182) [DZ-LATE-28](#dz-late-28) [W-C01-271](reviews/chapter-01/wikisource.md#w-c01-271)
 
 <a id="u02621"></a>
 
@@ -11517,7 +11517,7 @@ Units: [U02615](#u02615).
 
 **Scan locator:** PDF 101; BDRC images 103; related main p101 line 3 middle; small-note cluster p101 line 4 middle-right.
 
-**Decision and reason:** Main U02614 'bru bzhi lnga dang gzugs 'dogs kyis is clear. A displaced smaller note cluster before ston pa is heavily inked; exact allocation of mdog gi yang byung relative to the summary statement U02620 remains uncertain in this reading. Retain the transcript alternative separately with qualified scan provenance; do not claim absence. Main-text lexical sequence follows the scan; the supplied terminal delimiters are retained where applicable pending full physical-punctuation review. The subsequent continuous review could not identify the exact mdog gi yang byung phrase in p101. Keep the transcript wording as an unconfirmed note, not a certified print quotation.
+**Decision and reason:** Main U02614 'bru bzhi lnga dang gzugs 'dogs kyis is clear. A displaced smaller note cluster before ston pa is heavily inked; exact allocation of mdog gi yang byung relative to the summary statement U02620 remains uncertain in this reading. Retain the transcript alternative separately with qualified scan provenance; do not claim absence. Main-text lexical sequence follows the scan; the supplied terminal delimiters are retained where applicable pending full physical-punctuation review. The subsequent continuous review could not identify the exact mdog gi yang byung phrase in p101. Keep the transcript wording as an unconfirmed note, not a certified print quotation. The later B02-P0101 all-row phrase search again leaves the two transcript-note wordings unverified. One dense fourth-row locus is inventoried once with four bounded component questions; it is not used twice to manufacture two attestations. Non-identification is not historical absence.
 
 **Separate annotation:** མདོག་གི་ཡང་བྱུང
 
@@ -11525,7 +11525,7 @@ Units: [U02615](#u02615).
 
 **Confidence and limits:** {"main": "not_applicable_annotation_only_unit", "annotation": "Unresolved; reviewer observations differ about the inked cluster."}
 
-**Evidence:** [p101-left.png](evidence/chapter-01/annotation-audit/p101-left.png), [p101-right.png](evidence/chapter-01/annotation-audit/p101-right.png), [p101-summary.png](evidence/chapter-01/annotation-audit/p101-summary.png)
+**Evidence:** [p101-left.png](evidence/chapter-01/annotation-audit/p101-left.png), [p101-right.png](evidence/chapter-01/annotation-audit/p101-right.png), [p101-summary.png](evidence/chapter-01/annotation-audit/p101-summary.png), [p101-native.png](evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/p101-native.png), [p101-x0000-y0000.png](evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/p101-x0000-y0000.png), [p101-x1900-y0000.png](evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/p101-x1900-y0000.png), [p101-x3696-y0000.png](evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/p101-x3696-y0000.png), [U02615-row3-context.png](evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/U02615-row3-context.png), [U02620-note-context.png](evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/U02620-note-context.png), [row4-left-context.png](evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/row4-left-context.png), [row4-right-context.png](evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/row4-right-context.png)
 
 <a id="scan-ch1-layer-02620"></a>
 
@@ -11539,7 +11539,7 @@ Units: [U02620](#u02620).
 
 **Scan locator:** PDF 101; BDRC images 103; p101 line 4 middle-right before ston pa.
 
-**Decision and reason:** A smaller annotation cluster is printed after the main bying bar mi nus rgyug nus pa'o and before ston pa. The transcript reads de dag gi zhabs sdud pa'o. Its layer is observable, but the inked cluster does not support an unqualified fresh glyph-by-glyph certification here; preserve the exact transcript and review crop. Main-text lexical sequence follows the scan; the supplied terminal delimiters are retained where applicable pending full physical-punctuation review.
+**Decision and reason:** A smaller annotation cluster is printed after the main bying bar mi nus rgyug nus pa'o and before ston pa. The transcript reads de dag gi zhabs sdud pa'o. Its layer is observable, but the inked cluster does not support an unqualified fresh glyph-by-glyph certification here; preserve the exact transcript and review crop. Main-text lexical sequence follows the scan; the supplied terminal delimiters are retained where applicable pending full physical-punctuation review. The later B02-P0101 all-row phrase search again leaves the two transcript-note wordings unverified. One dense fourth-row locus is inventoried once with four bounded component questions; it is not used twice to manufacture two attestations. Non-identification is not historical absence.
 
 **Separate annotation:** དེ་དག་གི་ཞབས་སྡུད་པའོ།
 
@@ -11547,7 +11547,7 @@ Units: [U02620](#u02620).
 
 **Confidence and limits:** {"main": "not_applicable_annotation_only_unit", "annotation": "qualified; exact glyph allocation unresolved"}
 
-**Evidence:** [p101-left.png](evidence/chapter-01/annotation-audit/p101-left.png), [p101-right.png](evidence/chapter-01/annotation-audit/p101-right.png), [p101-summary.png](evidence/chapter-01/annotation-audit/p101-summary.png)
+**Evidence:** [p101-left.png](evidence/chapter-01/annotation-audit/p101-left.png), [p101-right.png](evidence/chapter-01/annotation-audit/p101-right.png), [p101-summary.png](evidence/chapter-01/annotation-audit/p101-summary.png), [p101-native.png](evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/p101-native.png), [p101-x0000-y0000.png](evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/p101-x0000-y0000.png), [p101-x1900-y0000.png](evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/p101-x1900-y0000.png), [p101-x3696-y0000.png](evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/p101-x3696-y0000.png), [U02615-row3-context.png](evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/U02615-row3-context.png), [U02620-note-context.png](evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/U02620-note-context.png), [row4-left-context.png](evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/row4-left-context.png), [row4-right-context.png](evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/row4-right-context.png)
 
 <a id="scan-ch1-cont-01598"></a>
 
@@ -12326,6 +12326,24 @@ Units: [U01286](#u01286).
 **Confidence and limits:** {"source_note_location_and_layer": "high; coordinator plus two informed image readers", "complete_note_lexical_reading": "unresolved in independent reviews; original transcript quoted separately", "note_terminal_sign_count": "unresolved; no punctuation deletion or adoption in the print-note layer"}
 
 **Evidence:** [p051-native.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/p051-native.png), [U01286-row4-source-context.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/U01286-row4-source-context.png), [U01286-annotation-native.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/U01286-annotation-native.png), [U01286-following-main-full-height.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/U01286-following-main-full-height.png), [C1-BASE-LAYERS.md](reviews/chapter-01/continuation/C1-BASE-LAYERS.md), [C1-BASE-LAYERS-B03-independent-reading.txt](reviews/chapter-01/continuation/C1-BASE-LAYERS-B03-independent-reading.txt), [C1-BASE-LAYERS-B03-detail-reading.txt](reviews/chapter-01/continuation/C1-BASE-LAYERS-B03-detail-reading.txt)
+
+<a id="scan-ch1-sign-00014-uncertain"></a>
+
+### SCAN-CH1-SIGN-00014-UNCERTAIN
+
+Units: [U00014](#u00014).
+
+**A transcript:** རང་བྱུང་བྱས་པ་མེད་པ་ལས། །
+
+**Unchanged transcript scaffold; first terminal sign graphically unresolved:** རང་བྱུང་བྱས་པ་མེད་པ་ལས། །
+
+**Scan locator:** Adzom PDF3 / BDRC5 / member0005.png / row1 incoming U00014 terminal; exact detail bounds [1720,365,2110,615].
+
+**Decision and reason:** At PDF3 row1 after the incoming las, the source has a tiered punctuation-like graph followed by a separate ordinary shad. Two informed image readings and the coordinator distinguish it from a plain upright. U+0F11 is a moderate encoding hypothesis only, not adopted. The lower curl entering the detail belongs to neighboring-row vowel material and is not an extra punctuation tier. Retain the transcript string provisionally with this visible qualification rather than assert that both printed marks are ordinary shads. The coordinator initial two-ordinary-shad inventory is superseded at this boundary; its earlier draft is retained.
+
+**Confidence and limits:** {"physical_correspondence": "high", "tiered_graph_presence": "high", "exact_Unicode_encoding": "unresolved; U+0F11 moderate hypothesis"}
+
+**Evidence:** [p003-native.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/p003-native.png), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/p003-x0000-y0000.png), [p003-x1900-y0000.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/p003-x1900-y0000.png), [p003-x3696-y0000.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/p003-x3696-y0000.png), [row1-left.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row1-left.png), [row1-right.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row1-right.png), [row2-left.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row2-left.png), [row2-right.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row2-right.png), [row3-left.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row3-left.png), [row3-right.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row3-right.png), [row4-left.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row4-right.png), [U00014-incoming-boundary-detail.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/U00014-incoming-boundary-detail.png), [margin-inscription-extended-rotated90.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/margin-inscription-extended-rotated90.png), [C1-BASE-PHYSICAL-B02-P0003-detail-adjudication-reading.txt](reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B02-P0003-detail-adjudication-reading.txt)
 
 <a id="a2000-c01-s01"></a>
 
@@ -15492,6 +15510,606 @@ Units: [U00148](#u00148).
 **Choice and reason:** Retain governing Adzom reading unchanged; preserve this witness-specific qualified observation without upgrading incomplete opening coverage.
 
 **Evidence:** [p007-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p007-native.png), [p007-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p007-x0000-y0000.png), [p007-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p007-x1900-y0000.png), [p007-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p007-x2352-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="tk-cont2-b02-o02"></a>
+
+### TK-CONT2-B02-O02 — Tingkye
+
+Units: [U00109](#u00109).
+
+**Current Adzom main context:** སུས་ཀྱང་བརྗོད་དུ་མེད་པར་ནི། །
+
+**Comparison reading/snippet:** སུས་ཀྱང་བརྗོད་པ་མེད་པ་ནི
+
+**Status:** qualified_local_observation. **Confidence:** {"reading": "moderate", "alignment": "high", "bounds": "approximate"}.
+
+**Locator:** PDF 4; native bounds and row context: [2140, 515, 2645, 596].
+
+**Observation:** I read པ after བརྗོད and པ before ནི; the base's དུ and final ར are not adopted. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png), [p004-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png), [p004-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png), [row4-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b02-o03"></a>
+
+### TK-CONT2-B02-O03 — Tingkye
+
+Units: [U00110](#u00110).
+
+**Current Adzom main context:** ནམ་མཁའ་མི་འབྱེད་བར་སྣང་ལས། །
+
+**Comparison reading/snippet:** ནམ་མཁའ་མི་⟦Q10⟧་བར་སྣང་ལས
+
+**Status:** bounded_uncertainty. **Confidence:** {"surrounding_text": "moderate_to_high", "internal_stack": "low", "alignment": "high"}.
+
+**Locator:** PDF 4; native bounds and row context: [2680, 515, 3270, 596].
+
+**Observation:** The questioned syllable appears to have an under-vowel and final ར; its consonant stack remains unresolved. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png), [p004-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png), [p004-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png), [row4-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b02-o04"></a>
+
+### TK-CONT2-B02-O04 — Tingkye
+
+Units: [U00111](#u00111), [U00119](#u00119), [U00121](#u00121).
+
+**Current Adzom main context:** ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང༌། ། / བསྟན་པ་ཀུན་གྱི་བཅུད་བསྡུས་པའི། ། / ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང་། །
+
+**Comparison reading/snippet:** ཀུན་གྱིས in all three positions.
+
+**Status:** qualified_local_observation. **Confidence:** {"reading": "moderate", "alignment": "high", "repetition": "moderate"}.
+
+**Locator:** PDF 4; native bounds and row context: [[3450, 515, 3680, 596], [1830, 675, 2090, 766], [2990, 675, 3240, 766]].
+
+**Observation:** A following ས-shaped component is visible in each occurrence; repetition is retained rather than silently regularized. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png), [p004-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png), [p004-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png), [row4-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b02-o05"></a>
+
+### TK-CONT2-B02-O05 — Tingkye
+
+Units: [U00112](#u00112).
+
+**Current Adzom main context:** དགུ་གཉིས་བཞི་ཡི་ཡང་སྟེང་ནས། །
+
+**Comparison reading/snippet:** བཞིའི་ཡང
+
+**Status:** qualified_local_observation. **Confidence:** {"reading": "moderate", "alignment": "high"}.
+
+**Locator:** PDF 4; native bounds and row context: [950, 590, 1160, 682].
+
+**Observation:** The source appears to attach the genitive to བཞི; I do not read a separate ཡི syllable. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png), [p004-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png), [p004-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png), [row4-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b02-o06"></a>
+
+### TK-CONT2-B02-O06 — Tingkye
+
+Units: [U00115](#u00115).
+
+**Current Adzom main context:** ཁྱབ་འཇུག་ཆེན་པོའི་གསུང་གིས་ནི། །
+
+**Comparison reading/snippet:** ཁྱབ་འཇུག་ཆེན་པོ་གསུང་གིས་ནི
+
+**Status:** qualified_local_observation. **Confidence:** {"reading": "moderate", "alignment": "high"}.
+
+**Locator:** PDF 4; native bounds and row context: [2530, 590, 3100, 688].
+
+**Observation:** I read པོ followed by གསུང without a securely visible འི. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png), [p004-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png), [p004-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png), [row4-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b02-o07"></a>
+
+### TK-CONT2-B02-O07 — Tingkye
+
+Units: [U00116](#u00116).
+
+**Current Adzom main context:** བྱིན་གྱིས་རླབས་ཀྱིས་རང་སྒྲར་སྟོན། །
+
+**Comparison reading/snippet:** བྱིན་གྱིས་བརླབས་ཀྱིས
+
+**Status:** qualified_local_observation. **Confidence:** {"reading": "moderate", "alignment": "high"}.
+
+**Locator:** PDF 4; native bounds and row context: [3130, 590, 3510, 688].
+
+**Observation:** An initial བ is read before the རླ stack. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png), [p004-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png), [p004-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png), [row4-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b02-o08"></a>
+
+### TK-CONT2-B02-O08 — Tingkye
+
+Units: [U00122](#u00122).
+
+**Current Adzom main context:** བརྒྱ་ཕྲག་གསུམ་དང་དྲུག་ཅུ་ཡི། །
+
+**Comparison reading/snippet:** དང་དྲུག་ཅུ་ཡིས
+
+**Status:** qualified_local_observation. **Confidence:** {"reading": "moderate_to_high", "alignment": "high"}.
+
+**Locator:** PDF 4; native bounds and row context: [570, 750, 885, 846].
+
+**Observation:** The source ending includes a ས-shaped suffix before S17. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png), [p004-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png), [p004-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png), [row4-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b02-o09"></a>
+
+### TK-CONT2-B02-O09 — Tingkye
+
+Units: [U00123](#u00123).
+
+**Current Adzom main context:** སྒྲ་ལས་དྲངས་ཏེ་སྟོན་པས་གསུངས། །
+
+**Comparison reading/snippet:** སྟོན་པའི་གསུངས
+
+**Status:** qualified_local_observation. **Confidence:** {"reading": "moderate", "alignment": "high"}.
+
+**Locator:** PDF 4; native bounds and row context: [1110, 750, 1510, 846].
+
+**Observation:** I read an attached genitive with an upper vowel mark after པ; no replacement by the base's པས is made. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png), [p004-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png), [p004-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png), [row4-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b02-o10"></a>
+
+### TK-CONT2-B02-O10 — Tingkye
+
+Units: [U00127](#u00127).
+
+**Current Adzom main context:** སྟོན་པས་བྱིན་གྱིས་བརླབས་པར་སྣང་། །
+
+**Comparison reading/snippet:** སྟོན་པས་བྱིན་གྱིས་བརླབས་པར / གན⟦Q07⟧
+
+**Status:** bounded_uncertainty. **Confidence:** {"physical_join": "high", "terminal_reading": "low_to_moderate", "alignment": "high"}.
+
+**Locator:** PDF 4; native bounds and row context: [[3150, 750, 3760, 846], [590, 275, 740, 355]].
+
+**Observation:** The outgoing word appears to begin གན; its final consonant is not settled. The base's སྣང is not supplied. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png), [p004-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png), [p004-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png), [row4-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b02-o11"></a>
+
+### TK-CONT2-B02-O11 — Tingkye
+
+Units: [U00106](#u00106), [U00107](#u00107), [U00108](#u00108), [U00109](#u00109), [U00110](#u00110), [U00111](#u00111), [U00112](#u00112), [U00113](#u00113), [U00114](#u00114), [U00115](#u00115), [U00116](#u00116), [U00117](#u00117), [U00118](#u00118), [U00119](#u00119), [U00120](#u00120), [U00121](#u00121), [U00122](#u00122), [U00123](#u00123), [U00124](#u00124), [U00125](#u00125), [U00126](#u00126).
+
+**Current Adzom main context:** སྤྲུལ་པའི་ས་བོན་ལྡང་བའོ། ། / དེ་ལྟར་དངོས་ཀྱི་བསྟན་པ་ལས། ། / གཟུགས་བརྙན་ཆོ་འཕྲུལ་འདི་ལྟ་བུ། ། / སུས་ཀྱང་བརྗོད་དུ་མེད་པར་ནི། ། / ནམ་མཁའ་མི་འབྱེད་བར་སྣང་ལས། ། / ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང༌། ། / དགུ་གཉིས་བཞི་ཡི་ཡང་སྟེང་ནས། ། / ཚངས་པ་ཆེན་པོའི་དབྱངས་སུ་བསྒྲགས། ། / དེ་ནས་ཆོས་ཉིད་ནམ་མཁའ་ལས། ། / ཁྱབ་འཇུག་ཆེན་པོའི་གསུང་གིས་ནི། ། / བྱིན་གྱིས་རླབས་ཀྱིས་རང་སྒྲར་སྟོན། ། / དེ་ནས་ཕྱོགས་བྲལ་ནམ་མཁའ་ལས། ། / ཀ་ལ་པིང་ཀའི་སྒྲ་དབྱངས་ལས། ། / བསྟན་པ་ཀུན་གྱི་བཅུད་བསྡུས་པའི། ། / རྒྱུད་ཀྱི་རྒྱལ་པོ་འདི་ཉིད་ནི། ། / ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང་། ། / བརྒྱ་ཕྲག་གསུམ་དང་དྲུག་ཅུ་ཡི། ། / སྒྲ་ལས་དྲངས་ཏེ་སྟོན་པས་གསུངས། ། / དེ་ནས་འབྱུང་བ་སོ་སོའི་སྒྲ། ། / བྱེད་རྒྱུ་ཚ་དང་གྲང་བ་ལས། ། / སོ་སོའི་སྒྲ་དབྱངས་སྟོང་ཕྲག་བརྒྱད། །
+
+**Comparison reading/snippet:** S01–S21, each code C.
+
+**Status:** qualified_local_observation. **Confidence:** {"presence_and_order": "high", "graphic_class": "moderate", "unicode_equivalence": "not_assigned"}.
+
+**Locator:** PDF 4; native bounds and row context: [570, 510, 3770, 846].
+
+**Observation:** Twenty-one target delimiters are represented once each. Descenders, vowel marks, internal tshegs and frame rules are not counted as extra shads. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png), [p004-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png), [p004-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png), [row4-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b02-q01"></a>
+
+### TK-CONT2-B02-Q01 — Tingkye
+
+Units: [U00107](#u00107).
+
+**Current Adzom main context:** དེ་ལྟར་དངོས་ཀྱི་བསྟན་པ་ལས། །
+
+**Comparison reading/snippet:** [Unresolved inspected source interval: The component after ལ is not securely resolved as the suffix ས versus an under-hanging graphic component. No complete final syllable is adopted.]
+
+**Status:** bounded_uncertainty. **Confidence:** {"location": "source-based local correspondence", "exact_reading": "unresolved"}.
+
+**Locator:** PDF 4; native bounds and row context: [1320, 520, 1415, 596].
+
+**Observation:** The component after ལ is not securely resolved as the suffix ས versus an under-hanging graphic component. No complete final syllable is adopted. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png), [p004-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png), [p004-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png), [row4-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b02-q02"></a>
+
+### TK-CONT2-B02-Q02 — Tingkye
+
+Units: [U00108](#u00108).
+
+**Current Adzom main context:** གཟུགས་བརྙན་ཆོ་འཕྲུལ་འདི་ལྟ་བུ། །
+
+**Comparison reading/snippet:** [Unresolved inspected source interval: One clustered syllabic interval; apparent reading སྣང, but the stack and following consonant are not secure. The base's བརྙན is not supplied.]
+
+**Status:** bounded_uncertainty. **Confidence:** {"location": "source-based local correspondence", "exact_reading": "unresolved"}.
+
+**Locator:** PDF 4; native bounds and row context: [1630, 510, 1800, 596].
+
+**Observation:** One clustered syllabic interval; apparent reading སྣང, but the stack and following consonant are not secure. The base's བརྙན is not supplied. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png), [p004-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png), [p004-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png), [row4-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b02-q03"></a>
+
+### TK-CONT2-B02-Q03 — Tingkye
+
+Units: [U00113](#u00113).
+
+**Current Adzom main context:** ཚངས་པ་ཆེན་པོའི་དབྱངས་སུ་བསྒྲགས། །
+
+**Comparison reading/snippet:** [Unresolved inspected source interval: Remaining lexical ink after པོ, including any attached genitive, the intervening groups, and the preinitials of the final གྲགས-like group. Apparent sequence དབྱངས་སུ་གྲགས remains a candidate, not an adopted transcription.]
+
+**Status:** bounded_uncertainty. **Confidence:** {"location": "source-based local correspondence", "exact_reading": "unresolved"}.
+
+**Locator:** PDF 4; native bounds and row context: [1590, 585, 1910, 688].
+
+**Observation:** Remaining lexical ink after པོ, including any attached genitive, the intervening groups, and the preinitials of the final གྲགས-like group. Apparent sequence དབྱངས་སུ་གྲགས remains a candidate, not an adopted transcription. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png), [p004-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png), [p004-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png), [row4-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b02-q04"></a>
+
+### TK-CONT2-B02-Q04 — Tingkye
+
+Units: [U00119](#u00119).
+
+**Current Adzom main context:** བསྟན་པ་ཀུན་གྱི་བཅུད་བསྡུས་པའི། །
+
+**Comparison reading/snippet:** [Unresolved inspected source interval: Apparent འདུས; the initial or superscribed components are insufficiently secure to exclude བསྡུས. The whole questioned syllable is withheld.]
+
+**Status:** bounded_uncertainty. **Confidence:** {"location": "source-based local correspondence", "exact_reading": "unresolved"}.
+
+**Locator:** PDF 4; native bounds and row context: [2110, 675, 2260, 766].
+
+**Observation:** Apparent འདུས; the initial or superscribed components are insufficiently secure to exclude བསྡུས. The whole questioned syllable is withheld. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png), [p004-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png), [p004-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png), [row4-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b02-q05"></a>
+
+### TK-CONT2-B02-Q05 — Tingkye
+
+Units: [U00122](#u00122).
+
+**Current Adzom main context:** བརྒྱ་ཕྲག་གསུམ་དང་དྲུག་ཅུ་ཡི། །
+
+**Comparison reading/snippet:** [Unresolved inspected source interval: Only the suffix after གསུ is unresolved: apparent མ, with ང not confidently excluded. No omission or complete གསུམ reading is certified.]
+
+**Status:** bounded_uncertainty. **Confidence:** {"location": "source-based local correspondence", "exact_reading": "unresolved"}.
+
+**Locator:** PDF 4; native bounds and row context: [3680, 675, 3765, 766].
+
+**Observation:** Only the suffix after གསུ is unresolved: apparent མ, with ང not confidently excluded. No omission or complete གསུམ reading is certified. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png), [p004-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png), [p004-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png), [row4-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b02-q06"></a>
+
+### TK-CONT2-B02-Q06 — Tingkye
+
+Units: [U00125](#u00125).
+
+**Current Adzom main context:** བྱེད་རྒྱུ་ཚ་དང་གྲང་བ་ལས། །
+
+**Comparison reading/snippet:** [Unresolved inspected source interval: Opening clustered groups; apparent བྱེད་རྒྱུ remains uncertain. This interval was examined in both overlapping bands and the native column, not skipped.]
+
+**Status:** bounded_uncertainty. **Confidence:** {"location": "source-based local correspondence", "exact_reading": "unresolved"}.
+
+**Locator:** PDF 4; native bounds and row context: [2050, 750, 2310, 846].
+
+**Observation:** Opening clustered groups; apparent བྱེད་རྒྱུ remains uncertain. This interval was examined in both overlapping bands and the native column, not skipped. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x0000-y0000.png), [p004-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x1900-y0000.png), [p004-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/p004-x2350-y0000.png), [row4-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="ts-cont2-b02-o02"></a>
+
+### TS-CONT2-B02-O02 — Tsamdrak
+
+Units: [U00356](#u00356).
+
+**Current Adzom main context:** ཐུན་མོང་མིན་པའི་ལུས་ལ་སྦྱར། །
+
+**Comparison reading/snippet:** ཐུན་མོང་མིན་པས་ལུས་ལ་སྦྱར
+
+**Status:** qualified_local_observation. **Confidence:** {"alignment": "high", "reading": "medium-high"}.
+
+**Locator:** PDF 14; native bounds and row context: [1550, 315, 2380, 475].
+
+**Observation:** The source is read པས at the junction, rather than the base's པའི. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p014-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-native.png), [p014-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x0000-y0000.png), [p014-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x1900-y0000.png), [p014-x2360-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x2360-y0000.png), [row1-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-left.png), [row1-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-right.png), [row2-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-left.png), [row2-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-right.png), [row3-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-left.png), [row3-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-right.png), [row4-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b02-o03"></a>
+
+### TS-CONT2-B02-O03 — Tsamdrak
+
+Units: [U00357](#u00357).
+
+**Current Adzom main context:** ཐེག་གཞན་རྣམས་དང་སྒོ་བསྟུན་ཕྱིར། །
+
+**Comparison reading/snippet:** ཐེག་པ་གཞན
+
+**Status:** qualified_local_observation. **Confidence:** {"alignment": "high", "reading": "high"}.
+
+**Locator:** PDF 14; native bounds and row context: [2320, 305, 2760, 440].
+
+**Observation:** A separate པ is visible between ཐེག and གཞན; retain it as an unaligned source component. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p014-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-native.png), [p014-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x0000-y0000.png), [p014-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x1900-y0000.png), [p014-x2360-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x2360-y0000.png), [row1-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-left.png), [row1-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-right.png), [row2-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-left.png), [row2-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-right.png), [row3-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-left.png), [row3-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-right.png), [row4-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b02-o04"></a>
+
+### TS-CONT2-B02-O04 — Tsamdrak
+
+Units: [U00361](#u00361).
+
+**Current Adzom main context:** འདུལ་གཞི་ལས་ནི་འདུལ་བྱེད་དུ། །
+
+**Comparison reading/snippet:** འདུལ་པ་གཞི་ལས་ནི་འདུལ་⟦Q02:མེད⟧་དུ
+
+**Status:** bounded_uncertainty. **Confidence:** {"alignment": "high", "additional_པ": "medium-high", "Q02": "low"}.
+
+**Locator:** PDF 14; native bounds and row context: [1770, 400, 2580, 550].
+
+**Observation:** The initial པ is independently visible. The later compact syllable tentatively resembles མེད; a substitution for བྱེད is not established. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p014-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-native.png), [p014-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x0000-y0000.png), [p014-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x1900-y0000.png), [p014-x2360-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x2360-y0000.png), [row1-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-left.png), [row1-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-right.png), [row2-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-left.png), [row2-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-right.png), [row3-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-left.png), [row3-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-right.png), [row4-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b02-o05"></a>
+
+### TS-CONT2-B02-O05 — Tsamdrak
+
+Units: [U00364](#u00364).
+
+**Current Adzom main context:** ལེའུ་གྲངས་དྲུག་གིས་གཞུང་ཉིད་ལས། །
+
+**Comparison reading/snippet:** དྲུག་ནི་གཞུང
+
+**Status:** qualified_local_observation. **Confidence:** {"alignment": "high", "reading": "high"}.
+
+**Locator:** PDF 14; native bounds and row context: [450, 515, 1210, 670].
+
+**Observation:** The intervening source syllable reads ནི. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p014-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-native.png), [p014-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x0000-y0000.png), [p014-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x1900-y0000.png), [p014-x2360-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x2360-y0000.png), [row1-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-left.png), [row1-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-right.png), [row2-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-left.png), [row2-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-right.png), [row3-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-left.png), [row3-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-right.png), [row4-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b02-o06"></a>
+
+### TS-CONT2-B02-O06 — Tsamdrak
+
+Units: [U00365](#u00365).
+
+**Current Adzom main context:** ཅི་ལྟར་གནས་པའི་ཚིག་དོན་ནི། །
+
+**Comparison reading/snippet:** ⟦Q03:ཇི⟧་ལྟར
+
+**Status:** bounded_uncertainty. **Confidence:** {"alignment": "high", "root_letter": "low-medium", "vowel": "high"}.
+
+**Locator:** PDF 14; native bounds and row context: [1190, 510, 1430, 650].
+
+**Observation:** The initial root tentatively reads ཇ; distinction from ཅ remains open. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p014-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-native.png), [p014-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x0000-y0000.png), [p014-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x1900-y0000.png), [p014-x2360-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x2360-y0000.png), [row1-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-left.png), [row1-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-right.png), [row2-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-left.png), [row2-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-right.png), [row3-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-left.png), [row3-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-right.png), [row4-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b02-o07"></a>
+
+### TS-CONT2-B02-O07 — Tsamdrak
+
+Units: [U00367](#u00367).
+
+**Current Adzom main context:** དོན་སྣོད་ལ་སོགས་སྣང་བར་སྟོན། །
+
+**Comparison reading/snippet:** དོན་སྣོད་ལ་སོགས་གསལ་བར་སྟོན
+
+**Status:** qualified_local_observation. **Confidence:** {"alignment": "high", "reading": "high"}.
+
+**Locator:** PDF 14; native bounds and row context: [2460, 495, 3270, 650].
+
+**Observation:** Source གསལ is visibly distinct from the supplied base སྣང. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p014-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-native.png), [p014-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x0000-y0000.png), [p014-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x1900-y0000.png), [p014-x2360-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x2360-y0000.png), [row1-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-left.png), [row1-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-right.png), [row2-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-left.png), [row2-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-right.png), [row3-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-left.png), [row3-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-right.png), [row4-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b02-o08"></a>
+
+### TS-CONT2-B02-O08 — Tsamdrak
+
+Units: [U00370](#u00370).
+
+**Current Adzom main context:** ལན་གཉིས་མདོ་དང་རྒྱས་པ་བཤད། །
+
+**Comparison reading/snippet:** རྒྱས་པར་བཤད
+
+**Status:** qualified_local_observation. **Confidence:** {"alignment": "high", "reading": "medium-high"}.
+
+**Locator:** PDF 14; native bounds and row context: [1140, 615, 1990, 770].
+
+**Observation:** The source is read པར, preserving the visible final ར. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p014-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-native.png), [p014-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x0000-y0000.png), [p014-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x1900-y0000.png), [p014-x2360-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x2360-y0000.png), [row1-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-left.png), [row1-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-right.png), [row2-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-left.png), [row2-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-right.png), [row3-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-left.png), [row3-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-right.png), [row4-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b02-o09"></a>
+
+### TS-CONT2-B02-O09 — Tsamdrak
+
+Units: [U00371](#u00371).
+
+**Current Adzom main context:** འདུལ་ཡུལ་གང་ཟག་མོས་དོན་དུ། །
+
+**Comparison reading/snippet:** གདུལ་བྱ་གང་ཟག་མོས་དོན་དུ
+
+**Status:** qualified_local_observation. **Confidence:** {"alignment": "high", "reading": "high"}.
+
+**Locator:** PDF 14; native bounds and row context: [1970, 605, 2630, 760].
+
+**Observation:** The source opening reads གདུལ་བྱ; neither the initial prefix nor the following syllable is normalized to the base. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p014-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-native.png), [p014-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x0000-y0000.png), [p014-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x1900-y0000.png), [p014-x2360-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x2360-y0000.png), [row1-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-left.png), [row1-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-right.png), [row2-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-left.png), [row2-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-right.png), [row3-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-left.png), [row3-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-right.png), [row4-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b02-o10"></a>
+
+### TS-CONT2-B02-O10 — Tsamdrak
+
+Units: [U00372](#u00372).
+
+**Current Adzom main context:** སྣ་ཚོགས་སྤྲོས་པ་དོན་ཡིན་ནོ།
+
+**Comparison reading/snippet:** སྤྲོས་པ་དག་ཡིན་ནོ
+
+**Status:** qualified_local_observation. **Confidence:** {"alignment": "high", "reading": "medium-high", "terminal_punctuation": "unresolved"}.
+
+**Locator:** PDF 14; native bounds and row context: [2630, 590, 3330, 745].
+
+**Observation:** The source syllable is read དག; the following boundary is separately retained as B20. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p014-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-native.png), [p014-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x0000-y0000.png), [p014-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x1900-y0000.png), [p014-x2360-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x2360-y0000.png), [row1-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-left.png), [row1-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-right.png), [row2-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-left.png), [row2-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-right.png), [row3-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-left.png), [row3-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-right.png), [row4-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b02-o11"></a>
+
+### TS-CONT2-B02-O11 — Tsamdrak
+
+Units: [U00372](#u00372), [U00373](#u00373), [U00374](#u00374).
+
+**Current Adzom main context:** སྣ་ཚོགས་སྤྲོས་པ་དོན་ཡིན་ནོ། / དྲིས་ལན་གསུམ་པའོ། ། / ཨེ་མ་རྒྱུད་དག་ངེས་འབྱུང་བ། །
+
+**Comparison reading/snippet:** ཡིན་ནོ [raised N01] ཨེ་མ་རྒྱུད / དག་ངེས་འབྱུང་བ
+
+**Status:** qualified_local_observation. **Confidence:** {"absence_of_full_label_in_gap": "high", "N01_presence": "high", "N01_identity": "medium"}.
+
+**Locator:** PDF 14; native bounds and row context: [3200, 585, 3900, 765].
+
+**Observation:** The full base annotation is not visible in this gap. A small raised numeral-like mark is present. This is not recorded as an omitted main verse, and the mark is not expanded into unseen words. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p014-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-native.png), [p014-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x0000-y0000.png), [p014-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x1900-y0000.png), [p014-x2360-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x2360-y0000.png), [row1-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-left.png), [row1-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-right.png), [row2-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-left.png), [row2-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-right.png), [row3-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-left.png), [row3-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-right.png), [row4-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b02-o12"></a>
+
+### TS-CONT2-B02-O12 — Tsamdrak
+
+Units: [U00377](#u00377).
+
+**Current Adzom main context:** རྒྱུད་ཀྱི་མཚན་དོན་རྣམ་ཕྱེ་སྟེ། །
+
+**Comparison reading/snippet:** མཚན་དོན་⟦Q04:རྣམས⟧་ཕྱེ་སྟེ
+
+**Status:** bounded_uncertainty. **Confidence:** {"alignment": "high", "root_reading": "high", "final_ས": "medium"}.
+
+**Locator:** PDF 14; native bounds and row context: [2170, 690, 2850, 850].
+
+**Observation:** An apparent final ས is retained provisionally; suffix acceptance requires another reading of this bounded cluster. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p014-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-native.png), [p014-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x0000-y0000.png), [p014-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x1900-y0000.png), [p014-x2360-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x2360-y0000.png), [row1-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-left.png), [row1-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-right.png), [row2-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-left.png), [row2-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-right.png), [row3-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-left.png), [row3-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-right.png), [row4-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b02-o13"></a>
+
+### TS-CONT2-B02-O13 — Tsamdrak
+
+Units: [U00383](#u00383).
+
+**Current Adzom main context:** དམིགས་པས་ཡུལ་གྱི་བློ་རྣམས་ལ། །
+
+**Comparison reading/snippet:** དམིགས་པ་ཡུལ་གྱི་བློ་རྣམས་ལ
+
+**Status:** qualified_local_observation. **Confidence:** {"alignment": "high", "reading": "medium-high"}.
+
+**Locator:** PDF 14; native bounds and row context: [3090, 765, 3890, 920].
+
+**Observation:** The inspected junction reads པ་ཡུལ without a discernible intervening ས; this is a suffix difference, not a whole-word omission. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p014-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-native.png), [p014-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x0000-y0000.png), [p014-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x1900-y0000.png), [p014-x2360-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x2360-y0000.png), [row1-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-left.png), [row1-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-right.png), [row2-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-left.png), [row2-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-right.png), [row3-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-left.png), [row3-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-right.png), [row4-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b02-o14"></a>
+
+### TS-CONT2-B02-O14 — Tsamdrak
+
+Units: [U00350](#u00350), [U00383](#u00383).
+
+**Current Adzom main context:** རྟོགས་པར་བྱ་ཕྱིར་རྣམ་བཤད་པའོ། ། / དམིགས་པས་ཡུལ་གྱི་བློ་རྣམས་ལ། །
+
+**Comparison reading/snippet:** Boundary inventory B01–B29, E02, E03, E04 and E07; O01 and N01 separately inventoried.
+
+**Status:** qualified_local_observation. **Confidence:** {"boundary_locations": "high", "internal_D_graphics": "medium", "right_edge_decomposition": "unresolved"}.
+
+**Locator:** PDF 14; native bounds and row context: [450, 220, 3900, 940].
+
+**Observation:** Graphic events are referenced once at their physical positions. No source compound ornament, frame stroke or raised numeral is converted automatically into base punctuation. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p014-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-native.png), [p014-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x0000-y0000.png), [p014-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x1900-y0000.png), [p014-x2360-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x2360-y0000.png), [row1-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-left.png), [row1-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-right.png), [row2-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-left.png), [row2-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-right.png), [row3-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-left.png), [row3-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-right.png), [row4-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b02-q01"></a>
+
+### TS-CONT2-B02-Q01 — Tsamdrak
+
+Units: [U00355](#u00355).
+
+**Current Adzom main context:** གཞན་ལས་ཁྱད་པར་འཕགས་དོན་དུ། །
+
+**Comparison reading/snippet:** [Unresolved inspected source interval: The two syllables and their junction are not securely separable in this reading; do not certify agreement or an omission here.]
+
+**Status:** bounded_uncertainty. **Confidence:** {"location": "source-based local correspondence", "exact_reading": "unresolved"}.
+
+**Locator:** PDF 14; native bounds and row context: [1260, 320, 1535, 475].
+
+**Observation:** The two syllables and their junction are not securely separable in this reading; do not certify agreement or an omission here. Scope is the stated local observation, not unqualified certification of every neighboring glyph. Editorial Q markers and sign codes are defined in the raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve this comparison-witness observation and its uncertainty; no global absence or reconstructed history is inferred.
+
+**Evidence:** [p014-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-native.png), [p014-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x0000-y0000.png), [p014-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x1900-y0000.png), [p014-x2360-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/p014-x2360-y0000.png), [row1-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-left.png), [row1-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-right.png), [row2-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-left.png), [row2-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-right.png), [row3-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-left.png), [row3-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-right.png), [row4-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-right.png), [row5-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-left.png), [row5-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-right.png), [row6-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-left.png), [row6-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-right.png), [row7-left.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-left.png), [row7-right.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-right.png). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
 
 ## A/B/S transcript apparatus
 

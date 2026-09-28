@@ -1212,19 +1212,86 @@
     "new": "[No main-text verse; source annotation.]",
     "annotation": "མདོག་གི་ཡང་བྱུང",
     "annotation_status": "Supplied-transcript note; exact printed wording not established. The targeted audit tentatively associated it with the inked cluster, while the continuous reviewer could not locate this sequence after inspecting p101.",
-    "rationale": "Main U02614 'bru bzhi lnga dang gzugs 'dogs kyis is clear. A displaced smaller note cluster before ston pa is heavily inked; exact allocation of mdog gi yang byung relative to the summary statement U02620 remains uncertain in this reading. Retain the transcript alternative separately with qualified scan provenance; do not claim absence. Main-text lexical sequence follows the scan; the supplied terminal delimiters are retained where applicable pending full physical-punctuation review. The subsequent continuous review could not identify the exact mdog gi yang byung phrase in p101. Keep the transcript wording as an unconfirmed note, not a certified print quotation.",
+    "rationale": "Main U02614 'bru bzhi lnga dang gzugs 'dogs kyis is clear. A displaced smaller note cluster before ston pa is heavily inked; exact allocation of mdog gi yang byung relative to the summary statement U02620 remains uncertain in this reading. Retain the transcript alternative separately with qualified scan provenance; do not claim absence. Main-text lexical sequence follows the scan; the supplied terminal delimiters are retained where applicable pending full physical-punctuation review. The subsequent continuous review could not identify the exact mdog gi yang byung phrase in p101. Keep the transcript wording as an unconfirmed note, not a certified print quotation. The later B02-P0101 all-row phrase search again leaves the two transcript-note wordings unverified. One dense fourth-row locus is inventoried once with four bounded component questions; it is not used twice to manufacture two attestations. Non-identification is not historical absence.",
     "locator": "PDF 101; BDRC images 103; related main p101 line 3 middle; small-note cluster p101 line 4 middle-right",
     "evidence": [
       "evidence/chapter-01/annotation-audit/p101-left.png",
       "evidence/chapter-01/annotation-audit/p101-right.png",
-      "evidence/chapter-01/annotation-audit/p101-summary.png"
+      "evidence/chapter-01/annotation-audit/p101-summary.png",
+      "evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/p101-native.png",
+      "evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/p101-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/p101-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/p101-x3696-y0000.png",
+      "evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/U02615-row3-context.png",
+      "evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/U02620-note-context.png",
+      "evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/row4-left-context.png",
+      "evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/row4-right-context.png"
     ],
     "confidence": {
       "main": "not_applicable_annotation_only_unit",
       "annotation": "Unresolved; reviewer observations differ about the inked cluster."
     },
     "source_record": "collation/chapter-01/annotation-audit.json#U02615",
-    "reading_uncertainty": true
+    "reading_uncertainty": true,
+    "continuation_review_20260928_p101": {
+      "batch_id": "B02-P0101",
+      "previous_rationale": "Main U02614 'bru bzhi lnga dang gzugs 'dogs kyis is clear. A displaced smaller note cluster before ston pa is heavily inked; exact allocation of mdog gi yang byung relative to the summary statement U02620 remains uncertain in this reading. Retain the transcript alternative separately with qualified scan provenance; do not claim absence. Main-text lexical sequence follows the scan; the supplied terminal delimiters are retained where applicable pending full physical-punctuation review. The subsequent continuous review could not identify the exact mdog gi yang byung phrase in p101. Keep the transcript wording as an unconfirmed note, not a certified print quotation.",
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B02-P0101-reader-reading.txt",
+      "raw_report_sha256": "695c7e45bf1eee62cdb81ee3c2f3e239b4c5b87ff1e16bf303cb80e09b0acfbe",
+      "source_search": {
+        "result": "Both complete transcript-note readings remain unverified. U02615 was not independently located; the U02620 candidate locus is physically bounded between established main-text flanks.",
+        "completed": "Overview-first inspection; all six rows searched left to right; targeted row 3 and row 4 boundaries and cluster inspected across the overlapping views.",
+        "limits": "Search coverage replaces full-page main-text transcription here. Neither non-identification nor unresolved ink proves historical absence. No target-page area was omitted from the phrase search; exhaustive unrelated lexical and punctuation collation was not undertaken.",
+        "review_status": "Informed independent image reading; not blind review, human palaeographic certification or whole-chapter certification."
+      },
+      "bounded_questions": [
+        {
+          "id": "N-A",
+          "approximate_native_bounds": [
+            2910,
+            620,
+            3130,
+            800
+          ],
+          "question": "Initial linked upright group and adjoining dense heads: letter segmentation and possible additional boundary stroke remain unresolved."
+        },
+        {
+          "id": "N-B",
+          "approximate_native_bounds": [
+            3130,
+            610,
+            3390,
+            790
+          ],
+          "question": "Merged central heads, upper marks and descending limbs: no secure syllable sequence or tsheg allocation."
+        },
+        {
+          "id": "N-C",
+          "approximate_native_bounds": [
+            3390,
+            610,
+            3560,
+            790
+          ],
+          "question": "An upper i-like mark and underlying form suggest གི?, but attachment and root identification remain uncertain."
+        },
+        {
+          "id": "N-D",
+          "approximate_native_bounds": [
+            3560,
+            630,
+            3710,
+            800
+          ],
+          "question": "Final hooked and descending forms before S4-R: neither པའོ nor བྱུང is securely established; do not complete either supplied phrase."
+        },
+        {
+          "id": "M1/M2",
+          "question": "The bounded marginal inscription and external number stamp described above remain untranscribed after inspection."
+        }
+      ],
+      "coordinator_disposition": "The dense fourth-row locus is inventoried once. No exact phrase is supplied from transcript expectations; source-note strings and earlier qualified layer separation remain unchanged."
+    }
   },
   {
     "id": "SCAN-CH1-LAYER-02620",
@@ -1241,18 +1308,86 @@
     "new": "[No main-text verse; source annotation.]",
     "annotation": "དེ་དག་གི་ཞབས་སྡུད་པའོ།",
     "annotation_status": "small_note_cluster_glyphs_unresolved; qualified; exact glyph allocation unresolved",
-    "rationale": "A smaller annotation cluster is printed after the main bying bar mi nus rgyug nus pa'o and before ston pa. The transcript reads de dag gi zhabs sdud pa'o. Its layer is observable, but the inked cluster does not support an unqualified fresh glyph-by-glyph certification here; preserve the exact transcript and review crop. Main-text lexical sequence follows the scan; the supplied terminal delimiters are retained where applicable pending full physical-punctuation review.",
+    "rationale": "A smaller annotation cluster is printed after the main bying bar mi nus rgyug nus pa'o and before ston pa. The transcript reads de dag gi zhabs sdud pa'o. Its layer is observable, but the inked cluster does not support an unqualified fresh glyph-by-glyph certification here; preserve the exact transcript and review crop. Main-text lexical sequence follows the scan; the supplied terminal delimiters are retained where applicable pending full physical-punctuation review. The later B02-P0101 all-row phrase search again leaves the two transcript-note wordings unverified. One dense fourth-row locus is inventoried once with four bounded component questions; it is not used twice to manufacture two attestations. Non-identification is not historical absence.",
     "locator": "PDF 101; BDRC images 103; p101 line 4 middle-right before ston pa",
     "evidence": [
       "evidence/chapter-01/annotation-audit/p101-left.png",
       "evidence/chapter-01/annotation-audit/p101-right.png",
-      "evidence/chapter-01/annotation-audit/p101-summary.png"
+      "evidence/chapter-01/annotation-audit/p101-summary.png",
+      "evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/p101-native.png",
+      "evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/p101-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/p101-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/p101-x3696-y0000.png",
+      "evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/U02615-row3-context.png",
+      "evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/U02620-note-context.png",
+      "evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/row4-left-context.png",
+      "evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/row4-right-context.png"
     ],
     "confidence": {
       "main": "not_applicable_annotation_only_unit",
       "annotation": "qualified; exact glyph allocation unresolved"
     },
-    "source_record": "collation/chapter-01/annotation-audit.json#U02620"
+    "source_record": "collation/chapter-01/annotation-audit.json#U02620",
+    "continuation_review_20260928_p101": {
+      "batch_id": "B02-P0101",
+      "previous_rationale": "A smaller annotation cluster is printed after the main bying bar mi nus rgyug nus pa'o and before ston pa. The transcript reads de dag gi zhabs sdud pa'o. Its layer is observable, but the inked cluster does not support an unqualified fresh glyph-by-glyph certification here; preserve the exact transcript and review crop. Main-text lexical sequence follows the scan; the supplied terminal delimiters are retained where applicable pending full physical-punctuation review.",
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B02-P0101-reader-reading.txt",
+      "raw_report_sha256": "695c7e45bf1eee62cdb81ee3c2f3e239b4c5b87ff1e16bf303cb80e09b0acfbe",
+      "source_search": {
+        "result": "Both complete transcript-note readings remain unverified. U02615 was not independently located; the U02620 candidate locus is physically bounded between established main-text flanks.",
+        "completed": "Overview-first inspection; all six rows searched left to right; targeted row 3 and row 4 boundaries and cluster inspected across the overlapping views.",
+        "limits": "Search coverage replaces full-page main-text transcription here. Neither non-identification nor unresolved ink proves historical absence. No target-page area was omitted from the phrase search; exhaustive unrelated lexical and punctuation collation was not undertaken.",
+        "review_status": "Informed independent image reading; not blind review, human palaeographic certification or whole-chapter certification."
+      },
+      "bounded_questions": [
+        {
+          "id": "N-A",
+          "approximate_native_bounds": [
+            2910,
+            620,
+            3130,
+            800
+          ],
+          "question": "Initial linked upright group and adjoining dense heads: letter segmentation and possible additional boundary stroke remain unresolved."
+        },
+        {
+          "id": "N-B",
+          "approximate_native_bounds": [
+            3130,
+            610,
+            3390,
+            790
+          ],
+          "question": "Merged central heads, upper marks and descending limbs: no secure syllable sequence or tsheg allocation."
+        },
+        {
+          "id": "N-C",
+          "approximate_native_bounds": [
+            3390,
+            610,
+            3560,
+            790
+          ],
+          "question": "An upper i-like mark and underlying form suggest གི?, but attachment and root identification remain uncertain."
+        },
+        {
+          "id": "N-D",
+          "approximate_native_bounds": [
+            3560,
+            630,
+            3710,
+            800
+          ],
+          "question": "Final hooked and descending forms before S4-R: neither པའོ nor བྱུང is securely established; do not complete either supplied phrase."
+        },
+        {
+          "id": "M1/M2",
+          "question": "The bounded marginal inscription and external number stamp described above remain untranscribed after inspection."
+        }
+      ],
+      "coordinator_disposition": "The dense fourth-row locus is inventoried once. No exact phrase is supplied from transcript expectations; source-note strings and earlier qualified layer separation remain unchanged."
+    },
+    "reading_uncertainty": true
   },
   {
     "id": "SCAN-CH1-CONT-01598",
@@ -3575,6 +3710,117 @@
         ]
       },
       "limits": "The extra crops are unchanged pixels from the same witness; separate reader responses are not additional source witnesses."
+    }
+  },
+  {
+    "id": "SCAN-CH1-SIGN-00014-UNCERTAIN",
+    "units": [
+      "U00014"
+    ],
+    "original_units": {
+      "U00014": "རང་བྱུང་བྱས་པ་མེད་པ་ལས། །"
+    },
+    "replacement_units": {},
+    "old": "རང་བྱུང་བྱས་པ་མེད་པ་ལས། །",
+    "new": "རང་བྱུང་བྱས་པ་མེད་པ་ལས། །",
+    "reading_label": "Unchanged transcript scaffold; first terminal sign graphically unresolved",
+    "reading_uncertainty": true,
+    "rationale": "At PDF3 row1 after the incoming las, the source has a tiered punctuation-like graph followed by a separate ordinary shad. Two informed image readings and the coordinator distinguish it from a plain upright. U+0F11 is a moderate encoding hypothesis only, not adopted. The lower curl entering the detail belongs to neighboring-row vowel material and is not an extra punctuation tier. Retain the transcript string provisionally with this visible qualification rather than assert that both printed marks are ordinary shads. The coordinator initial two-ordinary-shad inventory is superseded at this boundary; its earlier draft is retained.",
+    "locator": "Adzom PDF3 / BDRC5 / member0005.png / row1 incoming U00014 terminal; exact detail bounds [1720,365,2110,615]",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/p003-native.png",
+      "evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/p003-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/p003-x3696-y0000.png",
+      "evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row1-left.png",
+      "evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row1-right.png",
+      "evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row2-left.png",
+      "evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row2-right.png",
+      "evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row3-left.png",
+      "evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row3-right.png",
+      "evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row4-left.png",
+      "evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row4-right.png",
+      "evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/U00014-incoming-boundary-detail.png",
+      "evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/margin-inscription-extended-rotated90.png",
+      "reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B02-P0003-detail-adjudication-reading.txt"
+    ],
+    "confidence": {
+      "physical_correspondence": "high",
+      "tiered_graph_presence": "high",
+      "exact_Unicode_encoding": "unresolved; U+0F11 moderate hypothesis"
+    },
+    "continuation_review": {
+      "batch_id": "B02-P0003",
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B02-P0003-reader-reading.txt",
+      "adjudication": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B02-P0003-detail-adjudication-reading.txt",
+      "adjudication_sha256": "fa7dda8ec8a924692980b20f839eed15c10b0ddbbeff0a6a461a399a6de89706",
+      "source_component_record": {
+        "images_actually_inspected": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "source_correspondence": "Overview inspected before details. All five views represent PDF3/BDRC5/member0005.png; crops and rotations supply no independent witness.",
+        "boundary_graph_components": {
+          "coordinate_basis": "Approximate native zero-based half-open bounds.",
+          "top": "Within approximately [1920,440,1975,485): broad cap with downward projections, followed by a separate short horizontal tier.",
+          "stem_and_lower": "Below the tiers, a narrow descending stroke tapers toward approximately y540. Curving strokes near its foot require separation from the next row.",
+          "detached_upright": "Approximately [2015,445,2045,545): separate tall, essentially untiered stroke."
+        },
+        "letter_vs_sign_vs_neighbor_row": "The tiered structure is punctuation-like and visibly distinguishable from the adjacent ordinary shad. The arch rising from row2, approximately [1875,510,1940,565), is neighboring vowel material; its leftward curl must not be counted as an additional punctuation tier.",
+        "literal_boundary_inventory": [
+          "ལས",
+          "[tiered graphic: encoding unresolved]",
+          "།",
+          "འབྱུང"
+        ],
+        "encoding_candidate_and_confidence": {
+          "selected": null,
+          "U+0F0F": "Unconfirmed; the broad cap is not securely an isolated tsheg.",
+          "U+0F10": "Unconfirmed; two graphic levels do not establish two tshegs.",
+          "U+0F11": "Leading morphological hypothesis, moderate confidence: the ornamental stacked structure supports comparison, but not a definitive code-point assignment."
+        },
+        "marginal_components": {
+          "positions": "Image5, displayed left to right; approximate local x intervals.",
+          "single_marker": {
+            "observed": "ཀ",
+            "x": [
+              80,
+              160
+            ],
+            "confidence": "high"
+          },
+          "first_title_segment": {
+            "observed": "སྒྲ་",
+            "x": [
+              250,
+              320
+            ],
+            "confidence": "high"
+          },
+          "possible_foliation": {
+            "observed": "གཉིས་",
+            "x": [
+              320,
+              500
+            ],
+            "confidence": "moderate-high reading; probable foliation ‘two’"
+          },
+          "remaining_title_segment": {
+            "observed": "ཐལ་འགྱུར",
+            "x": [
+              505,
+              780
+            ],
+            "confidence": "high"
+          },
+          "physical_vs_interpreted_order": "Physical order is marker → first title segment → possible foliation → remaining title segment. Treating the two title segments together is interpretation; they are physically interrupted."
+        },
+        "disagreements_or_limits": "Image4 clips the terminal scope; Image5 supplies it. No terminal shad is confidently identified. Exact punctuation encoding remains unresolved. This is informed image review, not independent-witness corroboration, human certification, or whole-chapter coverage.",
+        "next_step": "Retain the tiered graphic without forced Unicode normalization. Record the marginal components separately from the root main text, preserving their physical order."
+      }
     }
   }
 ]

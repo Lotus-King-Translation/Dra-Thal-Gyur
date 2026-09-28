@@ -427,7 +427,7 @@
       "id": "C1-BASE-UNCERTAINTIES",
       "kind": "base_uncertainties",
       "status": "in_progress",
-      "owner": "independent-reader-C1-BASE-UNCERTAINTIES-B02-P0101-reader",
+      "owner": "ChatGPT-coordinator-20260928-continue2",
       "depends_on": [
         "C1-BASE-LAYERS"
       ],
@@ -467,13 +467,14 @@
       "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate.",
       "current_batch_result": "U01522 component inventory extended without an adopted reading; next independent source question PDF101 U02615/U02620, while U01522 stays explicitly unresolved.",
       "prior_owner_at_reassignment": "reader-base-uncertainties-B01-20260928",
-      "reassignment_note": "Previous reader finished and was published at b3b10d5; its report remains unchanged. No orphan reader or unpublished inherited work was found."
+      "reassignment_note": "Previous reader finished and was published at b3b10d5; its report remains unchanged. No orphan reader or unpublished inherited work was found.",
+      "next_physical_span": "PDF102 S09 boundary inscription, then title/portrait scopes; preserve the unresolved PDF60/PDF101 findings without endlessly repeating identical evidence."
     },
     {
       "id": "C1-BASE-PHYSICAL",
       "kind": "base_signs_and_layers",
       "status": "in_progress",
-      "owner": "independent-reader-C1-BASE-PHYSICAL-B02-P0003-reader",
+      "owner": "ChatGPT-coordinator-20260928-continue2",
       "depends_on": [
         "C1-BASE-UNCERTAINTIES"
       ],
@@ -610,7 +611,8 @@
       "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate.",
       "current_batch_result": "Partial PDF1-5 physical ledger:13 specific boundary assessments, no newly completed full pages. Complete missing boundaries in one-page sub-batches.",
       "prior_owner_at_reassignment": "reader-base-physical-B01-20260928",
-      "reassignment_note": "Previous reader finished and was published at b3b10d5; its report remains unchanged. No orphan reader or unpublished inherited work was found."
+      "reassignment_note": "Previous reader finished and was published at b3b10d5; its report remains unchanged. No orphan reader or unpublished inherited work was found.",
+      "next_physical_span": "PDF4 full physical inventory and remaining page1/2/5 scopes; PDF3 has explicitly bounded remaining graphic questions, not unread whole rows."
     },
     {
       "id": "C1-DZONGSAR",
@@ -646,7 +648,7 @@
       "id": "C1-TINGKYE",
       "kind": "witness_coverage",
       "status": "in_progress",
-      "owner": "independent-reader-C1-TINGKYE-B02-P0004-R4-R7-reader",
+      "owner": "ChatGPT-coordinator-20260928-continue2",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -680,13 +682,14 @@
       "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate.",
       "current_batch_result": "Partial continuous comparison through PDF4 row3, with an isolated PDF6 junction; next is PDF4 row4 U00106 continuation, not PDF8.",
       "prior_owner_at_reassignment": "reader-tingkye-B01-20260928",
-      "reassignment_note": "Previous reader finished and was published at b3b10d5; its report remains unchanged. No orphan reader or unpublished inherited work was found."
+      "reassignment_note": "Previous reader finished and was published at b3b10d5; its report remains unchanged. No orphan reader or unpublished inherited work was found.",
+      "next_physical_span": "PDF5 row1, U00127 outgoing join and U00128 onward; PDF4 targeted glyph and marginal questions remain visible."
     },
     {
       "id": "C1-TSAMDRAK",
       "kind": "witness_coverage",
       "status": "in_progress",
-      "owner": "independent-reader-C1-TSAMDRAK-B02-P0014-reader",
+      "owner": "ChatGPT-coordinator-20260928-continue2",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -717,7 +720,8 @@
       "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate.",
       "current_batch_result": "Target test distinguishes U30 thos; U12 vowel remains unresolved and U148 rtog reading is qualified. Continue new comparison at PDF14 without repeating opening passes.",
       "prior_owner_at_reassignment": "reader-tsamdrak-B01-20260928",
-      "reassignment_note": "Previous reader finished and was published at b3b10d5; its report remains unchanged. No orphan reader or unpublished inherited work was found."
+      "reassignment_note": "Previous reader finished and was published at b3b10d5; its report remains unchanged. No orphan reader or unpublished inherited work was found.",
+      "next_physical_span": "PDF15 row1, expected following U00383 but exact source correspondence must be established; preserve PDF14 bounded questions."
     },
     {
       "id": "C1-THARPALING",
