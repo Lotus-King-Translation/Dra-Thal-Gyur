@@ -1,0 +1,32 @@
+{
+  "date": "2026-09-28",
+  "prior": "1dde3761efc21ba653e87b7f1b8bb08261d72453",
+  "commit": "8179acf12fcc6039708b89cdfa2868ddf5126f75",
+  "deleted": [],
+  "changed": [],
+  "added": [
+    "diplomatic/recovery/2026-09-27-task-records/base_ch1_annotation_audit/SHA256SUMS-batch2",
+    "diplomatic/recovery/2026-09-27-task-records/base_ch1_annotation_audit/SHA256SUMS-batch3",
+    "diplomatic/recovery/2026-09-27-task-records/base_ch1_annotation_audit/SHA256SUMS-batch4",
+    "diplomatic/recovery/2026-09-27-task-records/base_ch1_continuous_early/recovery-status.json",
+    "diplomatic/recovery/2026-09-28-recheck/README.md",
+    "diplomatic/recovery/2026-09-28-recheck/reconnected-versions/base_ch1_continuous_early/SHA256SUMS",
+    "diplomatic/recovery/2026-09-28-recheck/reconnected-versions/base_ch1_continuous_late/README.md",
+    "diplomatic/recovery/2026-09-28-recheck/static-finalizer-dependencies.md",
+    "diplomatic/recovery/2026-09-28-recheck/workspace-check.json"
+  ],
+  "entire_local_snapshot_tree": "c5f33680244ac7dcfdc05ce1e0e4311e4061273f",
+  "snapshot_match": true,
+  "checksum_validation": {
+    "entries": 17,
+    "matched": 17
+  },
+  "original_report_recovery": {
+    "original_identities": 54,
+    "complete_transcript_replay_bodies": 4,
+    "incomplete_bodies": 50,
+    "additional_complete_bodies_from_reconnection": 0
+  },
+  "remote_main": "afb5c5133357942267dc55fc60a1d22704d5ef08",
+  "preservation_note": "The original43untracked files are preserved as an exact full-tree remote snapshot. Consolidation retains prior versions and adds six new files/versions; no earlier recovery file or edition content is changed."
+}
