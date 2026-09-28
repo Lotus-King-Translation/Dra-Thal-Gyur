@@ -223,6 +223,20 @@
   "current_handoff": "HANDOFF.md",
   "sign_review_adoption_audit": "reviews/chapter-01/sign-adoption-audit-20260927.md",
   "missing_later_original_reports": 54,
-  "recovery_scope": "Accessible local and remote material preserved; fresh reviews separately identified; missing cloud originals not reconstructed by assertion.",
-  "chapter_markdown_sha256": "927d6b36c7d105efa2857ef5f2392fcf5f2f6b54f287f6c8139d43663fe51c40"
+  "recovery_scope": "Current work is reconciled in WORK-STATUS.md. All54 original missing report identities remain tracked;4complete bodies have transcript-derived replays and50complete bodies remain unavailable. This is not a percentage of scholarly work lost or completed.",
+  "chapter_markdown_sha256": "927d6b36c7d105efa2857ef5f2392fcf5f2f6b54f287f6c8139d43663fe51c40",
+  "current_work_status": "WORK-STATUS.md",
+  "recovery_progress": {
+    "updated": "2026-09-28",
+    "archive_branch": "recovery/task-records-2026-09-27",
+    "archive_checkpoint": "d510250e83efcbb6c56ac3b6ee0a89140f6e006b",
+    "original_missing_report_identities": 54,
+    "complete_transcript_replay_bodies": 4,
+    "incomplete_report_bodies": 50,
+    "original_pre_loss_byte_identity_verified": 0,
+    "cloud_incident_record": "recovery/CLOUD-INCIDENT.md",
+    "server_side_restore_available_to_agent": false,
+    "server_side_retained_snapshot_existence": "unknown",
+    "support_request_submitted": false
+  }
 }

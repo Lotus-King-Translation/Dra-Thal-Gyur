@@ -67,3 +67,9 @@ User instruction, 2026-09-27: preserve work frequently on the remote branch.
 
 You must at all times keep committing work to a remote branch. Even small
 progress must continuosly be committed.
+
+## Diplomatic edition continuation
+
+Before resuming diplomatic-edition work, read [diplomatic/WORK-STATUS.md](diplomatic/WORK-STATUS.md) for the current saved coverage and remaining work. It links the separate recovery branch and the exact missing-report inventory.
+
+Treat preserved originals, transcript-derived replays, partial templates, and new scan reviews as distinct provenance categories. File counts and archived historical progress claims are not witness-coverage percentages. Use the saved apparatus and explicit page/anchor ledgers when deciding which checks remain; preserve surviving lexical passes instead of restarting them wholesale.
