@@ -8797,9 +8797,9 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 **Restored main text — [A2000-C01-S04](#a2000-c01-s04)**
 
-འདུ་ཤེས་ཅན་དག་མཐའ་ལ་འཇོག
+འདུ་ཤེས་ཅན་དག་མཐའ་ལ་འཇོག།
 
-མངོན་སུམ་གནད་ཀྱི་མན་ངག་གིས།
+མངོན་སུམ་གནད་ཀྱི་མན་ངག་གིས། །
 
 <a id="u02188"></a>
 
@@ -9287,15 +9287,15 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 **Restored main text — [A2000-C01-S05](#a2000-c01-s05)**
 
-རྡོ་རྗེ་གསང་བའི་གནས་གཟུང་བྱའོ།
+རྡོ་རྗེ་གསང་བའི་གནས་གཟུང་བྱའོ། །
 
 **Restored source heading — [A2000-C01-S06](#a2000-c01-s06)**
 
-དྲིས་ལན་ང་བདུན་པ།
+དྲིས་ལན་ང་བདུན་པ། །
 
 **Restored main text — [A2000-C01-S07](#a2000-c01-s07)**
 
-ཡང་ནི་ལྷ་དབང་དགའ་བྱེད་ཉོན།
+ཡང་ནི་ལྷ་དབང་དགའ་བྱེད་ཉོན། །
 
 <a id="u02309"></a>
 
@@ -12365,17 +12365,17 @@ After [U02005](#u02005); before U02006. **main_text_restoration**.
 
 After [U02187](#u02187); before U02188. **main_text_restoration**.
 
-**Reading:** འདུ་ཤེས་ཅན་དག་མཐའ་ལ་འཇོག / མངོན་སུམ་གནད་ཀྱི་མན་ངག་གིས།
+**Reading:** འདུ་ཤེས་ཅན་དག་མཐའ་ལ་འཇོག། / མངོན་སུམ་གནད་ཀྱི་མན་ངག་གིས། །
 
 **Locator:** PDF 85; BDRC image 87; Main row 4, last verse; then row 5, first verse.
 
-**Decision and reason:** Present as full-size root-text verse in the Adzom-2000 facsimile; absent from the cleaned Adzom e-text. Restore from the scan, not by adopting Wikisource as an independent authority.
+**Decision and reason:** Present as full-size root-text verse in the Adzom-2000 facsimile; absent from the cleaned Adzom e-text. Restore from the scan, not by adopting Wikisource as an independent authority. C1-BASE-LAYERS-B02 independently corroborates the recorded terminal mark counts; the previous lexical reading, insertion order and source-layer status remain unchanged.
 
-**Confidence:** high. **Remaining uncertainty:** No unresolved lexical glyph identified in this focused inspection.
+**Confidence:** high for the earlier lexical scope; local B02 terminal-sign confidence is dimensioned in punctuation_review and does not newly certify every letter or tsheg. **Remaining uncertainty:** No unresolved lexical glyph identified in this focused inspection.
 
-**Punctuation:** Tibetan tsheg/shad rendered as readable Unicode; this is a lexical reading transcription, not pixel-exact reproduction of space widths or line-fill marks.
+**Punctuation:** Specified terminal shads follow the documented native-image inventory in C1-BASE-LAYERS-B02; Unicode inter-shad spacing is editorial. Other physical signs and spacing remain within the broader unfinished physical review.
 
-**Evidence:** [adzom-085-restoration.png](evidence/chapter-01/adzom-085-restoration.png), [adzom-085-left.png](evidence/chapter-01/adzom-085-left.png), [adzom-085-right.png](evidence/chapter-01/adzom-085-right.png)
+**Evidence:** [adzom-085-restoration.png](evidence/chapter-01/adzom-085-restoration.png), [adzom-085-left.png](evidence/chapter-01/adzom-085-left.png), [adzom-085-right.png](evidence/chapter-01/adzom-085-right.png), [p085-native.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/p085-native.png), [p085-x0000-context.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/p085-x0000-context.png), [p085-x1900-context.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/p085-x1900-context.png), [p085-x3696-context.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/p085-x3696-context.png), [C1-BASE-LAYERS.md](reviews/chapter-01/continuation/C1-BASE-LAYERS.md), [C1-BASE-LAYERS-B02-independent-reading.txt](reviews/chapter-01/continuation/C1-BASE-LAYERS-B02-independent-reading.txt)
 
 <a id="a2000-c01-s05"></a>
 
@@ -12383,17 +12383,17 @@ After [U02187](#u02187); before U02188. **main_text_restoration**.
 
 After [U02308](#u02308); before U02309. **main_text_restoration**.
 
-**Reading:** རྡོ་རྗེ་གསང་བའི་གནས་གཟུང་བྱའོ།
+**Reading:** རྡོ་རྗེ་གསང་བའི་གནས་གཟུང་བྱའོ། །
 
 **Locator:** PDF 90; BDRC image 92; Main row 1, right, immediately after སྡོམ་པ་ལུས་དང་ངག་ཏུ་འདུས། and before the smaller reply heading.
 
-**Decision and reason:** Present as full-size root-text verse in the Adzom-2000 facsimile; absent from the cleaned Adzom e-text. Restore from the scan, not by adopting Wikisource as an independent authority.
+**Decision and reason:** Present as full-size root-text verse in the Adzom-2000 facsimile; absent from the cleaned Adzom e-text. Restore from the scan, not by adopting Wikisource as an independent authority. C1-BASE-LAYERS-B02 independently corroborates the recorded terminal mark counts; the previous lexical reading, insertion order and source-layer status remain unchanged.
 
-**Confidence:** high. **Remaining uncertainty:** No unresolved lexical glyph identified in this focused inspection.
+**Confidence:** high for the earlier lexical scope; local B02 terminal-sign confidence is dimensioned in punctuation_review and does not newly certify every letter or tsheg. **Remaining uncertainty:** No unresolved lexical glyph identified in this focused inspection.
 
-**Punctuation:** Tibetan tsheg/shad rendered as readable Unicode; this is a lexical reading transcription, not pixel-exact reproduction of space widths or line-fill marks.
+**Punctuation:** Specified terminal shads follow the documented native-image inventory in C1-BASE-LAYERS-B02; Unicode inter-shad spacing is editorial. Other physical signs and spacing remain within the broader unfinished physical review.
 
-**Evidence:** [adzom-090-restoration.png](evidence/chapter-01/adzom-090-restoration.png), [adzom-090-omission-detail.png](evidence/chapter-01/adzom-090-omission-detail.png)
+**Evidence:** [adzom-090-restoration.png](evidence/chapter-01/adzom-090-restoration.png), [adzom-090-omission-detail.png](evidence/chapter-01/adzom-090-omission-detail.png), [p090-native.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/p090-native.png), [p090-x0000-context.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/p090-x0000-context.png), [p090-x1900-context.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/p090-x1900-context.png), [p090-x3696-context.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/p090-x3696-context.png), [C1-BASE-LAYERS.md](reviews/chapter-01/continuation/C1-BASE-LAYERS.md), [C1-BASE-LAYERS-B02-independent-reading.txt](reviews/chapter-01/continuation/C1-BASE-LAYERS-B02-independent-reading.txt)
 
 <a id="a2000-c01-s06"></a>
 
@@ -12401,17 +12401,17 @@ After [U02308](#u02308); before U02309. **main_text_restoration**.
 
 After [U02308](#u02308); before U02309. **source_heading_restoration**.
 
-**Reading:** དྲིས་ལན་ང་བདུན་པ།
+**Reading:** དྲིས་ལན་ང་བདུན་པ། །
 
 **Locator:** PDF 90; BDRC image 92; Small heading within main row 1, after རྡོ་རྗེ་...བྱའོ། and before ཡང་ནི་.
 
-**Decision and reason:** Smaller printed source heading is visible in the scan and missing from the cleaned e-text. Restore separately from the surrounding root verses. Its reading is supported by the glyphs, also consistent with preceding reply 56 and following reply 58; sequence is corroboration, not the sole evidence.
+**Decision and reason:** Smaller printed source heading is visible in the scan and missing from the cleaned e-text. Restore separately from the surrounding root verses. Its reading is supported by the glyphs, also consistent with preceding reply 56 and following reply 58; sequence is corroboration, not the sole evidence. C1-BASE-LAYERS-B02 independently corroborates the recorded terminal mark counts; the previous lexical reading, insertion order and source-layer status remain unchanged.
 
-**Confidence:** high. **Remaining uncertainty:** No unresolved lexical glyph identified in this focused inspection.
+**Confidence:** high for the earlier lexical scope; local B02 terminal-sign confidence is dimensioned in punctuation_review and does not newly certify every letter or tsheg. **Remaining uncertainty:** No unresolved lexical glyph identified in this focused inspection.
 
-**Punctuation:** Tibetan tsheg/shad rendered as readable Unicode; this is a lexical reading transcription, not pixel-exact reproduction of space widths or line-fill marks.
+**Punctuation:** Specified terminal shads follow the documented native-image inventory in C1-BASE-LAYERS-B02; Unicode inter-shad spacing is editorial. Other physical signs and spacing remain within the broader unfinished physical review.
 
-**Evidence:** [adzom-090-heading.png](evidence/chapter-01/adzom-090-heading.png), [adzom-090-omission-detail.png](evidence/chapter-01/adzom-090-omission-detail.png)
+**Evidence:** [adzom-090-heading.png](evidence/chapter-01/adzom-090-heading.png), [adzom-090-omission-detail.png](evidence/chapter-01/adzom-090-omission-detail.png), [p090-native.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/p090-native.png), [p090-x0000-context.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/p090-x0000-context.png), [p090-x1900-context.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/p090-x1900-context.png), [p090-x3696-context.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/p090-x3696-context.png), [C1-BASE-LAYERS.md](reviews/chapter-01/continuation/C1-BASE-LAYERS.md), [C1-BASE-LAYERS-B02-independent-reading.txt](reviews/chapter-01/continuation/C1-BASE-LAYERS-B02-independent-reading.txt)
 
 <a id="a2000-c01-s07"></a>
 
@@ -12419,17 +12419,17 @@ After [U02308](#u02308); before U02309. **source_heading_restoration**.
 
 After [U02308](#u02308); before U02309. **main_text_restoration**.
 
-**Reading:** ཡང་ནི་ལྷ་དབང་དགའ་བྱེད་ཉོན།
+**Reading:** ཡང་ནི་ལྷ་དབང་དགའ་བྱེད་ཉོན། །
 
 **Locator:** PDF 90; BDRC image 92; ཡང་ནི་ at end of main row 1; ལྷ་དབང་དགའ་བྱེད་ཉོན། at start of row 2, immediately before U02309.
 
-**Decision and reason:** Present as full-size root-text verse in the Adzom-2000 facsimile; absent from the cleaned Adzom e-text. Restore from the scan, not by adopting Wikisource as an independent authority.
+**Decision and reason:** Present as full-size root-text verse in the Adzom-2000 facsimile; absent from the cleaned Adzom e-text. Restore from the scan, not by adopting Wikisource as an independent authority. C1-BASE-LAYERS-B02 independently corroborates the recorded terminal mark counts; the previous lexical reading, insertion order and source-layer status remain unchanged.
 
-**Confidence:** high. **Remaining uncertainty:** No unresolved lexical glyph identified in this focused inspection.
+**Confidence:** high for the earlier lexical scope; local B02 terminal-sign confidence is dimensioned in punctuation_review and does not newly certify every letter or tsheg. **Remaining uncertainty:** No unresolved lexical glyph identified in this focused inspection.
 
-**Punctuation:** Tibetan tsheg/shad rendered as readable Unicode; this is a lexical reading transcription, not pixel-exact reproduction of space widths or line-fill marks.
+**Punctuation:** Specified terminal shads follow the documented native-image inventory in C1-BASE-LAYERS-B02; Unicode inter-shad spacing is editorial. Other physical signs and spacing remain within the broader unfinished physical review.
 
-**Evidence:** [adzom-090-restoration.png](evidence/chapter-01/adzom-090-restoration.png), [adzom-090-left.png](evidence/chapter-01/adzom-090-left.png), [adzom-090-right.png](evidence/chapter-01/adzom-090-right.png)
+**Evidence:** [adzom-090-restoration.png](evidence/chapter-01/adzom-090-restoration.png), [adzom-090-left.png](evidence/chapter-01/adzom-090-left.png), [adzom-090-right.png](evidence/chapter-01/adzom-090-right.png), [p090-native.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/p090-native.png), [p090-x0000-context.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/p090-x0000-context.png), [p090-x1900-context.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/p090-x1900-context.png), [p090-x3696-context.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/p090-x3696-context.png), [C1-BASE-LAYERS.md](reviews/chapter-01/continuation/C1-BASE-LAYERS.md), [C1-BASE-LAYERS-B02-independent-reading.txt](reviews/chapter-01/continuation/C1-BASE-LAYERS-B02-independent-reading.txt)
 
 <a id="a2000-c01-s08"></a>
 
@@ -13877,7 +13877,7 @@ Units: [U02129](#u02129).
 
 Units: [U02187](#u02187).
 
-**Current Adzom main context:** ལུགས་སུ་ཁྱད་པར་སྡེབས་གཉིས་ཀྱི། ། / [A2000-C01-S04](#a2000-c01-s04) འདུ་ཤེས་ཅན་དག་མཐའ་ལ་འཇོག / མངོན་སུམ་གནད་ཀྱི་མན་ངག་གིས།
+**Current Adzom main context:** ལུགས་སུ་ཁྱད་པར་སྡེབས་གཉིས་ཀྱི། ། / [A2000-C01-S04](#a2000-c01-s04) འདུ་ཤེས་ཅན་དག་མཐའ་ལ་འཇོག། / མངོན་སུམ་གནད་ཀྱི་མན་ངག་གིས། །
 
 **Comparison reading/snippet:** 'du shes can dag mtha' la 'jog / mngon sum gnad kyi man ngag gis
 
@@ -13917,7 +13917,7 @@ Units: [U02225](#u02225).
 
 Units: [U02308](#u02308).
 
-**Current Adzom main context:** སྡོམ་པ་ལུས་དང་ངག་ཏུ་འདུས། ། / [A2000-C01-S05](#a2000-c01-s05) རྡོ་རྗེ་གསང་བའི་གནས་གཟུང་བྱའོ། / [A2000-C01-S06](#a2000-c01-s06) དྲིས་ལན་ང་བདུན་པ། / [A2000-C01-S07](#a2000-c01-s07) ཡང་ནི་ལྷ་དབང་དགའ་བྱེད་ཉོན།
+**Current Adzom main context:** སྡོམ་པ་ལུས་དང་ངག་ཏུ་འདུས། ། / [A2000-C01-S05](#a2000-c01-s05) རྡོ་རྗེ་གསང་བའི་གནས་གཟུང་བྱའོ། ། / [A2000-C01-S06](#a2000-c01-s06) དྲིས་ལན་ང་བདུན་པ། ། / [A2000-C01-S07](#a2000-c01-s07) ཡང་ནི་ལྷ་དབང་དགའ་བྱེད་ཉོན། །
 
 **Comparison reading/snippet:** rdo rje gsang ba'i gnas gzung bya'o / yang ni lha dbang dga' byed nyon
 
@@ -14877,7 +14877,7 @@ Units: [U02100](#u02100), [U02101](#u02101).
 
 Units: [U02187](#u02187), [U02188](#u02188).
 
-**Current Adzom main context:** ལུགས་སུ་ཁྱད་པར་སྡེབས་གཉིས་ཀྱི། ། / [A2000-C01-S04](#a2000-c01-s04) འདུ་ཤེས་ཅན་དག་མཐའ་ལ་འཇོག / མངོན་སུམ་གནད་ཀྱི་མན་ངག་གིས། / འཁོར་འདས་འབྱེད་པའི་སྤྲོས་པ་གཅོད། །
+**Current Adzom main context:** ལུགས་སུ་ཁྱད་པར་སྡེབས་གཉིས་ཀྱི། ། / [A2000-C01-S04](#a2000-c01-s04) འདུ་ཤེས་ཅན་དག་མཐའ་ལ་འཇོག། / མངོན་སུམ་གནད་ཀྱི་མན་ངག་གིས། ། / འཁོར་འདས་འབྱེད་པའི་སྤྲོས་པ་གཅོད། །
 
 **Comparison reading/snippet:** མངོན་སུམ་གནད་ཀྱི་མན་ངག་གིས
 
@@ -14897,7 +14897,7 @@ Units: [U02187](#u02187), [U02188](#u02188).
 
 Units: [U02308](#u02308), [U02309](#u02309).
 
-**Current Adzom main context:** སྡོམ་པ་ལུས་དང་ངག་ཏུ་འདུས། ། / [A2000-C01-S05](#a2000-c01-s05) རྡོ་རྗེ་གསང་བའི་གནས་གཟུང་བྱའོ། / [A2000-C01-S06](#a2000-c01-s06) དྲིས་ལན་ང་བདུན་པ། / [A2000-C01-S07](#a2000-c01-s07) ཡང་ནི་ལྷ་དབང་དགའ་བྱེད་ཉོན། / ཚིག་བརྗོད་གྲུབ་མཐའི་རྣམ་གྲངས་ཀྱིས། །
+**Current Adzom main context:** སྡོམ་པ་ལུས་དང་ངག་ཏུ་འདུས། ། / [A2000-C01-S05](#a2000-c01-s05) རྡོ་རྗེ་གསང་བའི་གནས་གཟུང་བྱའོ། ། / [A2000-C01-S06](#a2000-c01-s06) དྲིས་ལན་ང་བདུན་པ། ། / [A2000-C01-S07](#a2000-c01-s07) ཡང་ནི་ལྷ་དབང་དགའ་བྱེད་ཉོན། ། / ཚིག་བརྗོད་གྲུབ་མཐའི་རྣམ་གྲངས་ཀྱིས། །
 
 **Comparison reading/snippet:** ཡང་ནི་ལྷ་དབང་དགའ་བྱེད་ཉོན
 

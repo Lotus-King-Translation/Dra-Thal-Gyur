@@ -1,0 +1,16 @@
+{
+  "events": [
+    {
+      "operation": "New uv Python environment",
+      "result": "Tool could not determine safety status; blocked before execution",
+      "no_installation_attempted_after_block": true
+    },
+    {
+      "operation": "Read-only REPL compound query for B02 status and U01286 background",
+      "result": "Tool could not determine safety status; same request retried once with same result",
+      "executed": false
+    }
+  ],
+  "security_settings_changed": false,
+  "scope": "Operational access record only; no inference that source scans are unavailable or unreadable."
+}

@@ -781,12 +781,424 @@
         85,
         90
       ],
-      "status": "in_progress",
+      "status": "integrated_pending_remote_verification",
       "owner": "ChatGPT-coordinator-20260928-continuous",
       "baseline_commit": "2ee597e24cccce417de37c1c7057e345ac4e7c9a",
-      "rows_actually_compared": [],
-      "observations": [],
-      "canonical_record_ids": [],
+      "rows_actually_compared": [
+        {
+          "pdf_page": 85,
+          "rows": [
+            4,
+            5
+          ],
+          "scope": "S04, neighboring contexts and row turn only"
+        },
+        {
+          "pdf_page": 90,
+          "rows": [
+            1,
+            2
+          ],
+          "scope": "S05-S07, neighboring contexts and row turn only"
+        }
+      ],
+      "observations": [
+        {
+          "id": "A2000-C01-S04-L1",
+          "insertion_id": "A2000-C01-S04",
+          "line_index": 0,
+          "existing_reading": "འདུ་ཤེས་ཅན་དག་མཐའ་ལ་འཇོག",
+          "adopted_reading": "འདུ་ཤེས་ཅན་དག་མཐའ་ལ་འཇོག།",
+          "disposition": "adopted_local_punctuation_only",
+          "physical_locator": {
+            "pdf_page": 85,
+            "bdrc_image": 87,
+            "source_member": "0087.png",
+            "row": 4,
+            "estimated_loci": [
+              [
+                4050,
+                650,
+                5130,
+                795
+              ]
+            ],
+            "bounds_status": "Reader estimates; exact unchanged evidence-file bounds are in the manifest"
+          },
+          "observed_context": {
+            "before": "གཉིས་ཀྱི",
+            "target": "འདུ་ཤེས་ཅན་དག་མཐའ་ལ་འཇོག",
+            "after": "མངོན་སུམ་གནད་ཀྱི་མན་ངག་གིས"
+          },
+          "detached_boundary_shads": 1,
+          "rationale": "The final ga connected right limb is not an additional detached sign. A separate narrow upright follows before the page frame; next row starts mngon without an extra opening shad. Separate reader confirms the same physical inventory; count each boundary mark once at the preceding unit end, without lexical normalization.",
+          "confidence": {
+            "correspondence": "high",
+            "letters": "medium-high",
+            "shads": "medium-high",
+            "terminal_tsheg": "medium"
+          },
+          "terminal_tsheg_scope": "No new tsheg decision or removal; the existing lexical/tsheg sequence is retained. The report records what this local reader discerned, not a page-wide absence certificate.",
+          "independent_observation": {
+            "id": "A2000-C01-S04-L1",
+            "inspected": [
+              "Image 1 rows 4–5",
+              "Images 4–5 row 4",
+              "Image 3 row 5"
+            ],
+            "observed": {
+              "before": "གཉིས་ཀྱི",
+              "target": "འདུ་ཤེས་ཅན་དག་མཐའ་ལ་འཇོག",
+              "after": "མངོན་སུམ་གནད་ཀྱི་མན་ངག་གིས"
+            },
+            "correspondence": "Located across the specified row turn.",
+            "detached_signs": {
+              "count": 1,
+              "inventory": [
+                "One shad after the final ga, near x=5090.",
+                "No additional leading shad discerned before row-5 མངོན."
+              ],
+              "exclusions": "The ga descender is a letter limb; the farther-right vertical is the frame. No boundary ornament identified."
+            },
+            "terminal_tsheg": "None discerned; small background flecks are not established tshegs.",
+            "estimated_locus": [
+              4050,
+              650,
+              5130,
+              795
+            ],
+            "punctuation_only_proposal": "འདུ་ཤེས་ཅན་དག་མཐའ་ལ་འཇོག།",
+            "confidence": {
+              "correspondence": "high",
+              "letters": "medium-high",
+              "shads": "medium-high",
+              "terminal_tsheg": "medium"
+            }
+          },
+          "canonical_record_id": "A2000-C01-S04"
+        },
+        {
+          "id": "A2000-C01-S04-L2",
+          "insertion_id": "A2000-C01-S04",
+          "line_index": 1,
+          "existing_reading": "མངོན་སུམ་གནད་ཀྱི་མན་ངག་གིས།",
+          "adopted_reading": "མངོན་སུམ་གནད་ཀྱི་མན་ངག་གིས། །",
+          "disposition": "adopted_local_punctuation_only",
+          "physical_locator": {
+            "pdf_page": 85,
+            "bdrc_image": 87,
+            "source_member": "0087.png",
+            "row": 5,
+            "estimated_loci": [
+              [
+                780,
+                765,
+                1850,
+                920
+              ]
+            ],
+            "bounds_status": "Reader estimates; exact unchanged evidence-file bounds are in the manifest"
+          },
+          "observed_context": {
+            "before": "མཐའ་ལ་འཇོག",
+            "target": "མངོན་སུམ་གནད་ཀྱི་མན་ངག་གིས",
+            "after": "འཁོར་འདས་འབྱེད་པའི"
+          },
+          "detached_boundary_shads": 2,
+          "rationale": "One detached mark follows gis and a separate upright precedes khor; joined final letter limb and low ink excluded. Separate reader confirms the same physical inventory; count each boundary mark once at the preceding unit end, without lexical normalization.",
+          "confidence": {
+            "correspondence": "high",
+            "letters": "medium-high",
+            "shads": "medium",
+            "terminal_tsheg": "medium"
+          },
+          "terminal_tsheg_scope": "No new tsheg decision or removal; the existing lexical/tsheg sequence is retained. The report records what this local reader discerned, not a page-wide absence certificate.",
+          "independent_observation": {
+            "id": "A2000-C01-S04-L2",
+            "inspected": [
+              "Image 1 row 5",
+              "Images 3–4 row 5",
+              "Image 5 row 4 for preceding text"
+            ],
+            "observed": {
+              "before": "མཐའ་ལ་འཇོག",
+              "target": "མངོན་སུམ་གནད་ཀྱི་མན་ངག་གིས",
+              "after": "འཁོར་འདས་འབྱེད་པའི"
+            },
+            "correspondence": "Located at row-5 left, followed by the supplied U02188 opening.",
+            "detached_signs": {
+              "count": 2,
+              "inventory": [
+                "One trailing shad after གིས, approximately x=1730.",
+                "One next-leading shad before འཁོར, approximately x=1790."
+              ],
+              "exclusions": "The final sa limb is additional letter ink, not a third shad; adjacent-row strokes are excluded."
+            },
+            "terminal_tsheg": "None discerned.",
+            "estimated_locus": [
+              780,
+              765,
+              1850,
+              920
+            ],
+            "punctuation_only_proposal": "མངོན་སུམ་གནད་ཀྱི་མན་ངག་གིས།།",
+            "allocation": "Move the next-leading shad to this preceding-unit ending; encode both physical shads once.",
+            "confidence": {
+              "correspondence": "high",
+              "letters": "medium-high",
+              "shads": "medium",
+              "terminal_tsheg": "medium"
+            }
+          },
+          "canonical_record_id": "A2000-C01-S04"
+        },
+        {
+          "id": "A2000-C01-S05-L1",
+          "insertion_id": "A2000-C01-S05",
+          "line_index": 0,
+          "existing_reading": "རྡོ་རྗེ་གསང་བའི་གནས་གཟུང་བྱའོ།",
+          "adopted_reading": "རྡོ་རྗེ་གསང་བའི་གནས་གཟུང་བྱའོ། །",
+          "disposition": "adopted_local_punctuation_only",
+          "physical_locator": {
+            "pdf_page": 90,
+            "bdrc_image": 92,
+            "source_member": "0092.png",
+            "row": 1,
+            "estimated_loci": [
+              [
+                3440,
+                270,
+                4460,
+                445
+              ]
+            ],
+            "bounds_status": "Reader estimates; exact unchanged evidence-file bounds are in the manifest"
+          },
+          "observed_context": {
+            "before": "ངག་ཏུ་འདུས",
+            "target": "རྡོ་རྗེ་གསང་བའི་གནས་གཟུང་བྱའོ",
+            "after": "དྲིས་ལན་ང་བདུན་པ"
+          },
+          "detached_boundary_shads": 2,
+          "rationale": "Main final byao is followed by a detached boundary mark and a second upright preceding the smaller heading; preserve both without merging layers. Separate reader confirms the same physical inventory; count each boundary mark once at the preceding unit end, without lexical normalization.",
+          "confidence": {
+            "correspondence": "high",
+            "letters": "medium",
+            "shads": "medium",
+            "terminal_tsheg": "medium"
+          },
+          "terminal_tsheg_scope": "No new tsheg decision or removal; the existing lexical/tsheg sequence is retained. The report records what this local reader discerned, not a page-wide absence certificate.",
+          "independent_observation": {
+            "id": "A2000-C01-S05-L1",
+            "inspected": [
+              "Image 2 row 1",
+              "Images 7–8 row 1"
+            ],
+            "observed": {
+              "before": "ངག་ཏུ་འདུས",
+              "target": "རྡོ་རྗེ་གསང་བའི་གནས་གཟུང་བྱའོ",
+              "after": "དྲིས་ལན་ང་བདུན་པ"
+            },
+            "correspondence": "Main text followed by a visibly smaller inline heading.",
+            "detached_signs": {
+              "count": 2,
+              "inventory": [
+                "One trailing shad near x=4375.",
+                "One next-leading vertical shad before the small heading, near x=4420."
+              ],
+              "exclusions": "The heading's initial stacked letter and vowel belong to its text; no ornament identified at this boundary."
+            },
+            "terminal_tsheg": "None discerned.",
+            "estimated_locus": [
+              3440,
+              270,
+              4460,
+              445
+            ],
+            "punctuation_only_proposal": "རྡོ་རྗེ་གསང་བའི་གནས་གཟུང་བྱའོ།།",
+            "allocation": "Assign the heading-leading shad to S05's ending without incorporating heading words into the verse.",
+            "confidence": {
+              "correspondence": "high",
+              "letters": "medium",
+              "shads": "medium",
+              "terminal_tsheg": "medium"
+            }
+          },
+          "canonical_record_id": "A2000-C01-S05"
+        },
+        {
+          "id": "A2000-C01-S06-L1",
+          "insertion_id": "A2000-C01-S06",
+          "line_index": 0,
+          "existing_reading": "དྲིས་ལན་ང་བདུན་པ།",
+          "adopted_reading": "དྲིས་ལན་ང་བདུན་པ། །",
+          "disposition": "adopted_local_punctuation_only",
+          "physical_locator": {
+            "pdf_page": 90,
+            "bdrc_image": 92,
+            "source_member": "0092.png",
+            "row": 1,
+            "estimated_loci": [
+              [
+                4410,
+                275,
+                4930,
+                445
+              ]
+            ],
+            "bounds_status": "Reader estimates; exact unchanged evidence-file bounds are in the manifest"
+          },
+          "observed_context": {
+            "before": "གནས་གཟུང་བྱའོ",
+            "target": "དྲིས་ལན་ང་བདུན་པ",
+            "after": "ཡང་ནི"
+          },
+          "detached_boundary_shads": 2,
+          "rationale": "Small heading final pa has a joined limb, followed by one detached upright and another before yang; frame lies beyond yang ni and is excluded. Separate reader confirms the same physical inventory; count each boundary mark once at the preceding unit end, without lexical normalization.",
+          "confidence": {
+            "correspondence": "high",
+            "letters": "medium",
+            "shads": "medium",
+            "terminal_tsheg": "medium"
+          },
+          "terminal_tsheg_scope": "No new tsheg decision or removal; the existing lexical/tsheg sequence is retained. The report records what this local reader discerned, not a page-wide absence certificate.",
+          "independent_observation": {
+            "id": "A2000-C01-S06-L1",
+            "inspected": [
+              "Image 2 row 1",
+              "Image 8 row 1"
+            ],
+            "observed": {
+              "before": "གནས་གཟུང་བྱའོ",
+              "target": "དྲིས་ལན་ང་བདུན་པ",
+              "after": "ཡང་ནི"
+            },
+            "correspondence": "Small heading between two main-text passages; its compact lettering makes lexical assessment less secure.",
+            "detached_signs": {
+              "count": 2,
+              "inventory": [
+                "One heading-terminal shad near x=4830.",
+                "One larger next-leading shad before ཡང, near x=4900."
+              ],
+              "exclusions": "The final pa's right limb is letter ink, not an additional shad."
+            },
+            "terminal_tsheg": "None discerned.",
+            "estimated_locus": [
+              4410,
+              275,
+              4930,
+              445
+            ],
+            "punctuation_only_proposal": "དྲིས་ལན་ང་བདུན་པ།།",
+            "allocation": "Retain S06 as a separate heading; allocate the following main-text leading shad to its ending.",
+            "confidence": {
+              "correspondence": "high",
+              "letters": "medium",
+              "shads": "medium",
+              "terminal_tsheg": "medium"
+            }
+          },
+          "canonical_record_id": "A2000-C01-S06"
+        },
+        {
+          "id": "A2000-C01-S07-L1",
+          "insertion_id": "A2000-C01-S07",
+          "line_index": 0,
+          "existing_reading": "ཡང་ནི་ལྷ་དབང་དགའ་བྱེད་ཉོན།",
+          "adopted_reading": "ཡང་ནི་ལྷ་དབང་དགའ་བྱེད་ཉོན། །",
+          "disposition": "adopted_local_punctuation_only",
+          "physical_locator": {
+            "pdf_page": 90,
+            "bdrc_image": 92,
+            "source_member": "0092.png",
+            "row": "1 right to 2 left",
+            "estimated_loci": [
+              [
+                4930,
+                270,
+                5130,
+                445
+              ],
+              [
+                750,
+                450,
+                1520,
+                615
+              ]
+            ],
+            "bounds_status": "Reader estimates; exact unchanged evidence-file bounds are in the manifest"
+          },
+          "observed_context": {
+            "before": "དྲིས་ལན་ང་བདུན་པ",
+            "target": "ཡང་ནི་ལྷ་དབང་དགའ་བྱེད་ཉོན",
+            "after": "ཚིག་བརྗོད"
+          },
+          "detached_boundary_shads": 2,
+          "rationale": "Count after nyon, not the row1 break after yang ni. One terminal and one following-side detached upright; letter stems and neighboring vowel ink excluded. Separate reader confirms the same physical inventory; count each boundary mark once at the preceding unit end, without lexical normalization.",
+          "confidence": {
+            "correspondence": "high",
+            "letters": "medium-high",
+            "shads": "medium",
+            "terminal_tsheg": "medium",
+            "row_turn": "medium-high"
+          },
+          "terminal_tsheg_scope": "No new tsheg decision or removal; the existing lexical/tsheg sequence is retained. The report records what this local reader discerned, not a page-wide absence certificate.",
+          "independent_observation": {
+            "id": "A2000-C01-S07-L1",
+            "inspected": [
+              "Image 2 rows 1–2",
+              "Image 8 row 1",
+              "Image 6 row 2"
+            ],
+            "observed": {
+              "before": "དྲིས་ལན་ང་བདུན་པ",
+              "target": "ཡང་ནི་ལྷ་དབང་དགའ་བྱེད་ཉོན",
+              "after": "ཚིག་བརྗོད"
+            },
+            "correspondence": "ཡང་ནི continues across the row turn into ལྷ་དབང…; no word supplied at the join.",
+            "detached_signs": {
+              "count": 2,
+              "inventory": [
+                "One trailing shad after ཉོན, approximately x=1410 on row 2.",
+                "One next-leading shad before ཚིག, approximately x=1470.",
+                "At the internal row turn: a tsheg after ནི, with no additional shad discerned before row-2 ལྷ."
+              ],
+              "exclusions": "The final na limb is letter ink. Lower neighboring-row vowel strokes and the row-1 right frame are excluded."
+            },
+            "terminal_tsheg": "None discerned after ཉོན; distinguish the internal tsheg after row-1 ནི.",
+            "estimated_loci": [
+              [
+                4930,
+                270,
+                5130,
+                445
+              ],
+              [
+                750,
+                450,
+                1520,
+                615
+              ]
+            ],
+            "punctuation_only_proposal": "ཡང་ནི་ལྷ་དབང་དགའ་བྱེད་ཉོན།།",
+            "allocation": "Assign the U02309-leading shad to S07's ending; introduce no punctuation at the internal row turn.",
+            "confidence": {
+              "correspondence": "high",
+              "letters": "medium-high",
+              "shads": "medium",
+              "terminal_tsheg": "medium",
+              "row_turn": "medium-high"
+            }
+          },
+          "canonical_record_id": "A2000-C01-S07"
+        }
+      ],
+      "canonical_record_ids": [
+        "A2000-C01-S04",
+        "A2000-C01-S05",
+        "A2000-C01-S06",
+        "A2000-C01-S07"
+      ],
       "next_physical_span": "PDF85 rows4-5 S04; PDF90 rows1-2 S05/S06/S07. U01286 remains a later separate layer batch.",
       "ownership_history": [
         {
@@ -1001,14 +1413,31 @@
           "derivation": "Exact unscaled overlapping native column; next bounded source packet only"
         }
       ],
-      "prior_verified_claim_commit": "d4c4de3a88ec11c89e25eab442a0a635ea279bdc"
+      "prior_verified_claim_commit": "d4c4de3a88ec11c89e25eab442a0a635ea279bdc",
+      "independent_review": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-LAYERS-B02-independent-reading.txt",
+        "sha256": "387dae86d5dec18838c6e2eeb235ac2c37127f18d4cc5c1a64dfcbed40b1d10d",
+        "reviewer_count": 1,
+        "scope": {
+          "method": "Direct visual inspection of attachments only; informed independent model reading, not blind or human palaeography.",
+          "coverage": "PDF85 rows 4–5; PDF90 rows 1–2, limited to the five requested endings and their neighbors.",
+          "coordinates": "All bounds below are approximate native-pixel estimates: [x_min,y_min,x_max,y_max]."
+        },
+        "limits": [
+          "Compact S06 lettering and terminal-tsheg absence warrant confirmation before integration.",
+          "Coordinate bounds are estimates, not measured crops.",
+          "These local readings establish no page-wide lexical certification."
+        ],
+        "coordinator_reconciliation": "Five physical mark counts agree. Compact S06 letters are not replaced; no new tsheg absence decision is adopted. Preserve the existing separate heading and all lexical text."
+      },
+      "unread_or_uncertain_spans": [
+        "No whole-page proofreading claimed. Compact S06 letters and tsheg absence are not upgraded beyond their recorded local confidence; no lexical/tsheg changes made."
+      ],
+      "mechanical_checks": "diplomatic/reviews/chapter-01/continuation/C1-BASE-LAYERS-B02-checks.json",
+      "chapter_sha256_after_integration": "b9301b09f1ba9b272bfe7c1683ba2ecaf028fb185164de0880492fc58e58f59e"
     }
   ],
   "remaining_targets": [
-    "A2000-C01-S04",
-    "A2000-C01-S05",
-    "A2000-C01-S06",
-    "A2000-C01-S07",
     "U01286"
   ],
   "chapter_complete": false

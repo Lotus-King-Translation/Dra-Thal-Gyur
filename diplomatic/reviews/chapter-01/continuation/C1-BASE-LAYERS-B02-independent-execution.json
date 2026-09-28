@@ -1,6 +1,6 @@
 {
   "baseline_commit": "d4c4de3a88ec11c89e25eab442a0a635ea279bdc",
-  "status": "prepared_not_invoked",
+  "status": "completed",
   "argv": [
     "codex",
     "exec",
@@ -174,5 +174,17 @@
     }
   ],
   "no_environment_or_security_configuration_changes": true,
-  "prelaunch_error": "An initial REPL command-list construction had a SyntaxError; no reader was started. Corrected and checked before launch."
+  "prelaunch_error": "An initial REPL command-list construction had a SyntaxError; no reader was started. Corrected and checked before launch.",
+  "exit_code": 0,
+  "raw_report_sha256": "387dae86d5dec18838c6e2eeb235ac2c37127f18d4cc5c1a64dfcbed40b1d10d",
+  "session_log": "diplomatic/reviews/chapter-01/continuation/C1-BASE-LAYERS-B02-independent-session.jsonl",
+  "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-LAYERS-B02-independent-reading.txt",
+  "tool_calls_observed": false,
+  "event_item_types": [
+    "agent_message",
+    "error"
+  ],
+  "completed_event_present": true,
+  "session_sha256": "efc0a3603f78ff13682017ed9dcec499bd4990bd081129a336106034aca6b0a3",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 }

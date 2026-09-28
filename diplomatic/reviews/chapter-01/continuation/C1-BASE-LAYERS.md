@@ -1,6 +1,6 @@
 # Base layers and restored-verse signs — Chapter 1
 
-**In progress. S02/S03 now have six integrated terminal-shad corrections; S04–S07 and U01286 remain.** This is not full physical proofreading or a complete-witness certificate.
+**In progress. S02–S07 now have eleven integrated terminal-shad restorations; U01286 remains.** This is not full physical proofreading or a complete-witness certificate.
 
 ## Batch B01 — S02 and S03
 
@@ -34,12 +34,41 @@ The first two restored verses follow `ཐེག་པ་དག་ནི་གཉ
 
 Two detached shads stand before the frame after the second verse; the heavier continuous frame is excluded. The final sa's connected descender after the third verse is likewise not an extra shad. Neighboring-row ink is retained in the evidence but not counted as another terminal mark.
 
+## Batch B02 — S04–S07
+
+The coordinator and a separate informed image reader inspected PDF85 rows4–5 and PDF90 rows1–2 using the preserved full native pages and exact overlapping columns. The five boundary inventories agree: **1, 2, 2, 2, 2 detached shads**. Five missing shads are restored, with no lexical or tsheg change. The independent reader's dimensioned confidence and raw report remain unchanged in [the independent reading](C1-BASE-LAYERS-B02-independent-reading.txt).
+
+### S04 — PDF85 / BDRC87 / member0087.png
+
+The first verse follows the U02187 ending `གཉིས་ཀྱི` on row4; the next verse starts row5 and precedes U02188's `འཁོར་འདས་འབྱེད་པའི`.
+
+```
+འདུ་ཤེས་ཅན་དག་མཐའ་ལ་འཇོག།
+མངོན་སུམ་གནད་ཀྱི་མན་ངག་གིས། །
+```
+
+Only one detached shad follows final ga before the row4 frame; ga's joined descender is not another sign. Two detached shads follow gis across the next inter-unit boundary. No mark is inserted at the internal row turn.
+
+### S05–S07 — PDF90 / BDRC92 / member0092.png
+
+After U02308's `ངག་ཏུ་འདུས`, the sequence contains a restored main verse, a separate smaller heading, and a main verse spanning row1 right to row2 left. It then continues with U02309's `ཚིག་བརྗོད`.
+
+S05 main: `རྡོ་རྗེ་གསང་བའི་གནས་གཟུང་བྱའོ། །`
+
+S06 source heading: `དྲིས་ལན་ང་བདུན་པ། །`
+
+S07 main: `ཡང་ནི་ལྷ་དབང་དགའ་བྱེད་ཉོན། །`
+
+The heading is not merged into either main verse. Its connected pa limb is excluded from the count. S07 is counted after nyon, not at the row break after yang ni. Each next-leading mark is preserved once at the preceding editorial unit's end.
+
+**Limits:** compact S06 letters and terminal-tsheg absence are not newly certified. The accepted changes concern detached shads only; all existing letters and tshegs are retained. Estimated target rectangles in the independent report are not claimed as exact crops; the evidence manifest gives the exact bounds of the source files actually used. No whole page is newly declared collated.
+
 ## Provenance and limits
 
 The authored insertion records preserve their old Tibetan and Wylie strings, confidence and punctuation policy within `punctuation_review`, together with the exact independent report hash and per-line findings. Unicode spaces separate the encoded marks; they do not measure physical spacing. The old lexical restoration passes remain in force within their documented scope. Independent medium-confidence interior readings do not create new lexical corrections.
 
-This is an informed agent check with candidate strings available, not a blind reading or credentialed human palaeography. Only named local boundaries and their correspondence were examined; no full source page is newly declared collated. Batch B01 is remotely verified at `2ee597e24cccce417de37c1c7057e345ac4e7c9a`. Batch B02 now claims S04–S07 using the preserved next packet.
+This is an informed agent check with candidate strings available, not a blind reading or credentialed human palaeography. Only named local boundaries and their correspondence were examined; no full source page is newly declared collated. Batch B01 is remotely verified at `2ee597e24cccce417de37c1c7057e345ac4e7c9a`. Batch B02 integrates the five additional locally corroborated marks; its publication receipt is recorded in the JSON report after remote verification.
 
 ## Next bounded work
 
-S04 on PDF85 rows4–5 and S05/S06/S07 on PDF90 rows1–2 are next. Their native pages and overlapping columns have been prepared, but no new reading of that packet is claimed here. U01286 remains a separate source-layer review after those restored signs.
+Next is U01286 on PDF51: determine the small printed source-note layer and its exact signs, preserving the current source string and the existing S01 restorations. Broader physical proofreading and the explicitly retained uncertainties remain open.
