@@ -190,5 +190,45 @@
     "reviews/chapter-01/tharpaling-continuation-review-20260927.json"
   ],
   "preserved_partial_report": "collation/chapter-01/recovered-tharpaling.json",
-  "recovery_scope": "Fresh reports retain their bounded visual scopes. Normalized Tharpaling recovery records preserve interrupted report provenance; no full collation inferred."
+  "recovery_scope": "Fresh reports retain their bounded visual scopes. Normalized Tharpaling recovery records preserve interrupted report provenance; no full collation inferred.",
+  "continuation_punctuation_reviews": [
+    {
+      "task_id": "C1-SIGNS-01",
+      "report": "reviews/chapter-01/continuation/C1-SIGNS-01.json",
+      "independent_image_report": "reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md",
+      "independent_boundary_inventory": "reviews/chapter-01/continuation/C1-SIGNS-01-independent-boundary-addendum.md",
+      "main_terminal_anchors": [
+        "U02090",
+        "U02172",
+        "U02183",
+        "U02484",
+        "U02489"
+      ],
+      "physical_detached_mark_counts": [
+        1,
+        2,
+        2,
+        2,
+        2
+      ],
+      "source_pages_for_context": [
+        81,
+        82,
+        85,
+        96,
+        97
+      ],
+      "adopted_main_reading_changes": 4,
+      "existing_readings_retained": 1,
+      "fully_collated_pages_added": 0,
+      "scope": "Only the five identified main-terminal boundaries. U02489 small heading terminal at PDF97 row1 remains unresolved; systematic signs/source-layer proofreading remains unfinished."
+    }
+  ],
+  "known_unit_sign_queue": {
+    "queue": "WORK-QUEUE.json",
+    "original_candidate_identities": 30,
+    "completed_candidates": 5,
+    "unfinished_candidates": 25,
+    "note": "Scheduling/disposition count, not a chapter completeness percentage or a full-page signs pass."
+  }
 }

@@ -8733,7 +8733,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02172"></a>
 
-**U02172** འཁྲུལ་དུས་གནས་དུས་བཟློག་པའི་དུས། [L1-0142](#l1-0142)
+**U02172** འཁྲུལ་དུས་གནས་དུས་བཟློག་པའི་དུས། ། [SIGNS-VERIFIED-20260928-U02172](#signs-verified-20260928-u02172) [L1-0142](#l1-0142)
 
 <a id="u02173"></a>
 
@@ -8777,7 +8777,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02183"></a>
 
-**U02183** སོ་སོའི་འདོད་པ་ཐ་དད་ཀྱང་། [L1-0144](#l1-0144)
+**U02183** སོ་སོའི་འདོད་པ་ཐ་དད་ཀྱང་། ། [SIGNS-VERIFIED-20260928-U02183](#signs-verified-20260928-u02183) [L1-0144](#l1-0144)
 
 <a id="u02184"></a>
 
@@ -9999,7 +9999,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02484"></a>
 
-**U02484** རྟག་ཏུ་འདྲིས་ན་སྤྱོད་པ་བདེ། [L1-0168](#l1-0168) [W-C01-251](reviews/chapter-01/wikisource.md#w-c01-251)
+**U02484** རྟག་ཏུ་འདྲིས་ན་སྤྱོད་པ་བདེ། ། [SIGNS-VERIFIED-20260928-U02484](#signs-verified-20260928-u02484) [L1-0168](#l1-0168) [W-C01-251](reviews/chapter-01/wikisource.md#w-c01-251)
 
 <a id="u02485"></a>
 
@@ -10019,7 +10019,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02489"></a>
 
-**U02489** རྣལ་འབྱོར་ཆེན་པོའི་སྤྱོད་པའི [SCAN-CH1-LAYER-02489](#scan-ch1-layer-02489) [L1-0169](#l1-0169) [DZ-LATE-25](#dz-late-25) [W-C01-252](reviews/chapter-01/wikisource.md#w-c01-252)
+**U02489** རྣལ་འབྱོར་ཆེན་པོའི་སྤྱོད་པའི། ། [SCAN-CH1-LAYER-02489](#scan-ch1-layer-02489) [L1-0169](#l1-0169) [DZ-LATE-25](#dz-late-25) [W-C01-252](reviews/chapter-01/wikisource.md#w-c01-252)
 
 <a id="u02490"></a>
 
@@ -11491,19 +11491,19 @@ Units: [U02489](#u02489).
 
 **A transcript:** རྣལ་འབྱོར་ཆེན་པོའི་སྤྱོད་པའི་དྲིས་ལན་རེ་བདུན་པ།
 
-**Adopted reading:** རྣལ་འབྱོར་ཆེན་པོའི་སྤྱོད་པའི
+**Adopted reading:** རྣལ་འབྱོར་ཆེན་པོའི་སྤྱོད་པའི། །
 
 **Scan locator:** PDF 96, 97; BDRC images 98, 99; main p96 line 6 far right; heading p97 line 1 first text.
 
-**Decision and reason:** Main rnal 'byor chen po'i spyod pa'i ends p96. The heading dris lan re bdun pa is printed at the beginning of p97 before 'bras bu. Prior p96-only annotation locator is incomplete. Keep its structural position across the page break. Main-text lexical sequence follows the scan; the supplied terminal delimiters are retained where applicable pending full physical-punctuation review.
+**Decision and reason:** Main rnal 'byor chen po'i spyod pa'i ends p96. The heading dris lan re bdun pa is printed at the beginning of p97 before 'bras bu. Prior p96-only annotation locator is incomplete. Keep its structural position across the page break. The existing main lexical reading and separate heading are preserved. C1-SIGNS-01 restores two independently corroborated detached shads after the PDF96 main text, before the separate thick page frame. The earlier pending-delimiter clause is superseded only at this main terminal; its prior wording is retained in punctuation_review. The small PDF97 heading terminal remains unresolved and is carried to C1-BASE-PHYSICAL. Every detached boundary mark is encoded exactly once. This edition keeps intervening shads at the end of the preceding U unit, consistent with the existing reading representation; this is editorial ownership, not a claim that source spacing determines syntax. Concatenated text must preserve the same physical inventory under either assignment. Unicode spaces separate marks but do not measure print spacing.
 
 **Separate annotation:** དྲིས་ལན་རེ་བདུན་པ
 
-**Annotation status:** printed_heading_across_page; high for the stated local observation; no claim about other loci
+**Annotation status:** printed_heading_across_page; high for the stated local observation; no claim about other loci; this local punctuation review does not certify the small heading terminal sign
 
-**Confidence and limits:** {"main": "high", "annotation": "high for the stated local observation; no claim about other loci"}
+**Confidence and limits:** {"main": "high", "annotation": "high for the stated local observation; no claim about other loci", "main_terminal_signs": "high for two detached shads before the PDF96 frame; no claim for heading punctuation"}
 
-**Evidence:** [p096-left.png](evidence/chapter-01/annotation-audit/p096-left.png), [p096-right.png](evidence/chapter-01/annotation-audit/p096-right.png), [p097-full.png](evidence/chapter-01/annotation-audit/p097-full.png)
+**Evidence:** [p096-left.png](evidence/chapter-01/annotation-audit/p096-left.png), [p096-right.png](evidence/chapter-01/annotation-audit/p096-right.png), [p097-full.png](evidence/chapter-01/annotation-audit/p097-full.png), [p096-native.png](evidence/chapter-01/continuation/C1-SIGNS-01/p096-native.png), [p097-row1-context.png](evidence/chapter-01/continuation/C1-SIGNS-01/p097-row1-context.png), [p096-row6-context-tall.png](evidence/chapter-01/continuation/C1-SIGNS-01/p096-row6-context-tall.png), [U02489-terminal-detail.png](evidence/chapter-01/continuation/C1-SIGNS-01/U02489-terminal-detail.png), [C1-SIGNS-01.md](reviews/chapter-01/continuation/C1-SIGNS-01.md), [C1-SIGNS-01-independent-attached.md](reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md), [C1-SIGNS-01-independent-boundary-addendum.md](reviews/chapter-01/continuation/C1-SIGNS-01-independent-boundary-addendum.md), [U02489-heading-terminal-uncertain.png](evidence/chapter-01/continuation/C1-SIGNS-01/U02489-heading-terminal-uncertain.png)
 
 <a id="scan-ch1-layer-02615"></a>
 
@@ -11800,6 +11800,60 @@ Units: [U02080](#u02080).
 **Confidence and limits:** {"target_identification": "high for complete target main wording and stated neighboring scope", "sign_allocation": "high for this local boundary only"}
 
 **Evidence:** [p081.png](evidence/chapter-01/independent-signs-late-20260927/p081.png), [p081-opening.png](evidence/chapter-01/independent-signs-late-20260927/p081-opening.png), [p081-targetrow-0.png](evidence/chapter-01/independent-signs-late-20260927/p081-targetrow-0.png), [p081-targetrow-1.png](evidence/chapter-01/independent-signs-late-20260927/p081-targetrow-1.png), [p081-targetrow-2.png](evidence/chapter-01/independent-signs-late-20260927/p081-targetrow-2.png), [U02080.png](evidence/chapter-01/signs-recovery-review-20260927/U02080.png), [p081-next-anchor-continuation.png](evidence/chapter-01/independent-signs-late-20260927/p081-next-anchor-continuation.png)
+
+<a id="signs-verified-20260928-u02172"></a>
+
+### SIGNS-VERIFIED-20260928-U02172
+
+Units: [U02172](#u02172).
+
+**A transcript:** འཁྲུལ་དུས་གནས་དུས་བཟློག་པའི་དུས།
+
+**Adopted reading:** འཁྲུལ་དུས་གནས་དུས་བཟློག་པའི་དུས། །
+
+**Scan locator:** Adzom 2000 PDF85 / BDRC I1KG11710 image87 / main row1.
+
+**Decision and reason:** Two detached vertical shads follow dus before the next བྱེ་བྲག; the ending letter stroke of sa and curved ink below the boundary are not extra delimiters; the precise origin of that curved ink remains uncertain. Every detached boundary mark is encoded exactly once. This edition keeps intervening shads at the end of the preceding U unit, consistent with the existing reading representation; this is editorial ownership, not a claim that source spacing determines syntax. Concatenated text must preserve the same physical inventory under either assignment. Unicode spaces separate marks but do not measure print spacing.
+
+**Confidence and limits:** {"target_correspondence": "independent agent correspondence check plus coordinator full-page/context reading", "physical_detached_mark_inventory": "high for this boundary only"}
+
+**Evidence:** [p085-native.png](evidence/chapter-01/continuation/C1-SIGNS-01/p085-native.png), [p085-row1-context.png](evidence/chapter-01/continuation/C1-SIGNS-01/p085-row1-context.png), [U02172-terminal-detail.png](evidence/chapter-01/continuation/C1-SIGNS-01/U02172-terminal-detail.png), [C1-SIGNS-01.md](reviews/chapter-01/continuation/C1-SIGNS-01.md), [C1-SIGNS-01-independent-attached.md](reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md), [C1-SIGNS-01-independent-boundary-addendum.md](reviews/chapter-01/continuation/C1-SIGNS-01-independent-boundary-addendum.md)
+
+<a id="signs-verified-20260928-u02183"></a>
+
+### SIGNS-VERIFIED-20260928-U02183
+
+Units: [U02183](#u02183).
+
+**A transcript:** སོ་སོའི་འདོད་པ་ཐ་དད་ཀྱང་།
+
+**Adopted reading:** སོ་སོའི་འདོད་པ་ཐ་དད་ཀྱང་། །
+
+**Scan locator:** Adzom 2000 PDF85 / BDRC I1KG11710 image87 / main row3.
+
+**Decision and reason:** Two separated shads follow kyang before འཇིག. The visible terminal dot is not an additional shad; the existing tsheg is retained. The next anchor continues onto row4, which is not transcribed here. Every detached boundary mark is encoded exactly once. This edition keeps intervening shads at the end of the preceding U unit, consistent with the existing reading representation; this is editorial ownership, not a claim that source spacing determines syntax. Concatenated text must preserve the same physical inventory under either assignment. Unicode spaces separate marks but do not measure print spacing.
+
+**Confidence and limits:** {"target_correspondence": "independent agent correspondence check plus coordinator full-page/context reading", "physical_detached_mark_inventory": "high for this boundary only"}
+
+**Evidence:** [p085-native.png](evidence/chapter-01/continuation/C1-SIGNS-01/p085-native.png), [p085-row3-context-left.png](evidence/chapter-01/continuation/C1-SIGNS-01/p085-row3-context-left.png), [p085-row3-context-right.png](evidence/chapter-01/continuation/C1-SIGNS-01/p085-row3-context-right.png), [U02183-terminal-detail.png](evidence/chapter-01/continuation/C1-SIGNS-01/U02183-terminal-detail.png), [C1-SIGNS-01.md](reviews/chapter-01/continuation/C1-SIGNS-01.md), [C1-SIGNS-01-independent-attached.md](reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md), [C1-SIGNS-01-independent-boundary-addendum.md](reviews/chapter-01/continuation/C1-SIGNS-01-independent-boundary-addendum.md)
+
+<a id="signs-verified-20260928-u02484"></a>
+
+### SIGNS-VERIFIED-20260928-U02484
+
+Units: [U02484](#u02484).
+
+**A transcript:** རྟག་ཏུ་འདྲིས་ན་སྤྱོད་པ་བདེ།
+
+**Adopted reading:** རྟག་ཏུ་འདྲིས་ན་སྤྱོད་པ་བདེ། །
+
+**Scan locator:** Adzom 2000 PDF96 / BDRC I1KG11710 image98 / main row5.
+
+**Decision and reason:** Two detached shads after bde stand before ཆོས. Neither the final letter/vowel stroke nor neighboring-row material is counted. Only the visible following fragment is transcribed here. Every detached boundary mark is encoded exactly once. This edition keeps intervening shads at the end of the preceding U unit, consistent with the existing reading representation; this is editorial ownership, not a claim that source spacing determines syntax. Concatenated text must preserve the same physical inventory under either assignment. Unicode spaces separate marks but do not measure print spacing.
+
+**Confidence and limits:** {"target_correspondence": "independent agent correspondence check plus coordinator full-page/context reading", "physical_detached_mark_inventory": "high for this boundary only"}
+
+**Evidence:** [p096-native.png](evidence/chapter-01/continuation/C1-SIGNS-01/p096-native.png), [p096-row5-context.png](evidence/chapter-01/continuation/C1-SIGNS-01/p096-row5-context.png), [U02484-terminal-detail.png](evidence/chapter-01/continuation/C1-SIGNS-01/U02484-terminal-detail.png), [C1-SIGNS-01.md](reviews/chapter-01/continuation/C1-SIGNS-01.md), [C1-SIGNS-01-independent-attached.md](reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md), [C1-SIGNS-01-independent-boundary-addendum.md](reviews/chapter-01/continuation/C1-SIGNS-01-independent-boundary-addendum.md)
 
 <a id="a2000-c01-s01"></a>
 
@@ -13473,7 +13527,7 @@ Units: [U02351](#u02351).
 
 Units: [U02489](#u02489), [U02490](#u02490).
 
-**Current Adzom main context:** རྣལ་འབྱོར་ཆེན་པོའི་སྤྱོད་པའི / འབྲས་བུ་བརྗོད་པར་མི་ནུས་ཀྱང་། །
+**Current Adzom main context:** རྣལ་འབྱོར་ཆེན་པོའི་སྤྱོད་པའི། ། / འབྲས་བུ་བརྗོད་པར་མི་ནུས་ཀྱང་། །
 
 **Comparison reading/snippet:** dris lan re bdun pa
 
@@ -18408,7 +18462,7 @@ Exact differences: C1-0282.
 འཁྲུལ་དུས་གནས་དུས་བཟློག་པའི་དུས།།
 ```
 
-**Disposition and reason:** Retain A’s punctuation/spacing provisionally under the base-transcription policy. Do not silently normalize the B/S delimiters into A; their exact forms remain quoted. Print punctuation is not yet verified at this locus.
+**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SIGNS-VERIFIED-20260928-U02172](#signs-verified-20260928-u02172). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
 
 <a id="l1-0143"></a>
 
@@ -18464,7 +18518,7 @@ Exact differences: C1-0285.
 སོ་སོའི་འདོད་པ་ཐ་དད་ཀྱང་།།
 ```
 
-**Disposition and reason:** Retain A’s punctuation/spacing provisionally under the base-transcription policy. Do not silently normalize the B/S delimiters into A; their exact forms remain quoted. Print punctuation is not yet verified at this locus.
+**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SIGNS-VERIFIED-20260928-U02183](#signs-verified-20260928-u02183). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
 
 <a id="l1-0145"></a>
 
@@ -19136,7 +19190,7 @@ Exact differences: C1-0330.
 རྟག་ཏུ་འདྲིས་ན་སྤྱོད་པ་བདེ།།
 ```
 
-**Disposition and reason:** Retain A’s punctuation/spacing provisionally under the base-transcription policy. Do not silently normalize the B/S delimiters into A; their exact forms remain quoted. Print punctuation is not yet verified at this locus.
+**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SIGNS-VERIFIED-20260928-U02484](#signs-verified-20260928-u02484). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
 
 <a id="l1-0169"></a>
 

@@ -1111,24 +1111,91 @@
       "U02489": "རྣལ་འབྱོར་ཆེན་པོའི་སྤྱོད་པའི་དྲིས་ལན་རེ་བདུན་པ།"
     },
     "replacement_units": {
-      "U02489": "རྣལ་འབྱོར་ཆེན་པོའི་སྤྱོད་པའི"
+      "U02489": "རྣལ་འབྱོར་ཆེན་པོའི་སྤྱོད་པའི། །"
     },
     "old": "རྣལ་འབྱོར་ཆེན་པོའི་སྤྱོད་པའི་དྲིས་ལན་རེ་བདུན་པ།",
-    "new": "རྣལ་འབྱོར་ཆེན་པོའི་སྤྱོད་པའི",
+    "new": "རྣལ་འབྱོར་ཆེན་པོའི་སྤྱོད་པའི། །",
     "annotation": "དྲིས་ལན་རེ་བདུན་པ",
-    "annotation_status": "printed_heading_across_page; high for the stated local observation; no claim about other loci",
-    "rationale": "Main rnal 'byor chen po'i spyod pa'i ends p96. The heading dris lan re bdun pa is printed at the beginning of p97 before 'bras bu. Prior p96-only annotation locator is incomplete. Keep its structural position across the page break. Main-text lexical sequence follows the scan; the supplied terminal delimiters are retained where applicable pending full physical-punctuation review.",
+    "annotation_status": "printed_heading_across_page; high for the stated local observation; no claim about other loci; this local punctuation review does not certify the small heading terminal sign",
+    "rationale": "Main rnal 'byor chen po'i spyod pa'i ends p96. The heading dris lan re bdun pa is printed at the beginning of p97 before 'bras bu. Prior p96-only annotation locator is incomplete. Keep its structural position across the page break. The existing main lexical reading and separate heading are preserved. C1-SIGNS-01 restores two independently corroborated detached shads after the PDF96 main text, before the separate thick page frame. The earlier pending-delimiter clause is superseded only at this main terminal; its prior wording is retained in punctuation_review. The small PDF97 heading terminal remains unresolved and is carried to C1-BASE-PHYSICAL. Every detached boundary mark is encoded exactly once. This edition keeps intervening shads at the end of the preceding U unit, consistent with the existing reading representation; this is editorial ownership, not a claim that source spacing determines syntax. Concatenated text must preserve the same physical inventory under either assignment. Unicode spaces separate marks but do not measure print spacing.",
     "locator": "PDF 96, 97; BDRC images 98, 99; main p96 line 6 far right; heading p97 line 1 first text",
     "evidence": [
       "evidence/chapter-01/annotation-audit/p096-left.png",
       "evidence/chapter-01/annotation-audit/p096-right.png",
-      "evidence/chapter-01/annotation-audit/p097-full.png"
+      "evidence/chapter-01/annotation-audit/p097-full.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-01/p096-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-01/p097-row1-context.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-01/p096-row6-context-tall.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-01/U02489-terminal-detail.png",
+      "reviews/chapter-01/continuation/C1-SIGNS-01.md",
+      "reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md",
+      "reviews/chapter-01/continuation/C1-SIGNS-01-independent-boundary-addendum.md",
+      "evidence/chapter-01/continuation/C1-SIGNS-01/U02489-heading-terminal-uncertain.png"
     ],
     "confidence": {
       "main": "high",
-      "annotation": "high for the stated local observation; no claim about other loci"
+      "annotation": "high for the stated local observation; no claim about other loci",
+      "main_terminal_signs": "high for two detached shads before the PDF96 frame; no claim for heading punctuation"
     },
-    "source_record": "collation/chapter-01/annotation-audit.json#U02489"
+    "source_record": "collation/chapter-01/annotation-audit.json#U02489",
+    "punctuation_review": {
+      "source_record": "reviews/chapter-01/continuation/C1-SIGNS-01.json#C1-SIGNS-01-U02489",
+      "independent_report": "reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md",
+      "independent_boundary_inventory": "reviews/chapter-01/continuation/C1-SIGNS-01-independent-boundary-addendum.md",
+      "physical_detached_mark_count": 2,
+      "encoding_convention": "Every detached boundary mark is encoded exactly once. This edition keeps intervening shads at the end of the preceding U unit, consistent with the existing reading representation; this is editorial ownership, not a claim that source spacing determines syntax. Concatenated text must preserve the same physical inventory under either assignment. Unicode spaces separate marks but do not measure print spacing.",
+      "evidence_sha256": {
+        "evidence/chapter-01/continuation/C1-SIGNS-01/p096-native.png": "11a98728e5974979f0f27349daf143e5ae935e621d50ae2f9491bffbddbb27de",
+        "evidence/chapter-01/continuation/C1-SIGNS-01/p097-row1-context.png": "1f76a2883cc1a9324c2afbab1ddf40018f15bd6bfd0f2627d7462f5937095a4e",
+        "evidence/chapter-01/continuation/C1-SIGNS-01/p096-row6-context-tall.png": "35c17c0657507f9604b1d8e7057a666300d14b4f8d92718bff6b9e22d8947773",
+        "evidence/chapter-01/continuation/C1-SIGNS-01/U02489-terminal-detail.png": "f30b0d0ac21a02b3056b0d91af335fd830b071e0d019fe393cd271591c91c84b",
+        "evidence/chapter-01/continuation/C1-SIGNS-01/U02489-heading-terminal-uncertain.png": "0449b6724eb2f19ec555dbcdee74593bdb941c56d1e88435890b33f2a504ab25"
+      },
+      "prior_reading": "རྣལ་འབྱོར་ཆེན་པོའི་སྤྱོད་པའི",
+      "prior_rationale": "Main rnal 'byor chen po'i spyod pa'i ends p96. The heading dris lan re bdun pa is printed at the beginning of p97 before 'bras bu. Prior p96-only annotation locator is incomplete. Keep its structural position across the page break. Main-text lexical sequence follows the scan; the supplied terminal delimiters are retained where applicable pending full physical-punctuation review.",
+      "prior_annotation_status": "printed_heading_across_page; high for the stated local observation; no claim about other loci",
+      "heading_terminal_uncertainty": {
+        "id": "C1-SIGNS-01-U02489-HEADING-TERMINAL",
+        "status": "unresolved",
+        "anchor": "U02489",
+        "source_layer": "separate small reply heading, not main terminal",
+        "pdf_page": 97,
+        "bdrc_image": 99,
+        "row": 1,
+        "source_member": "0099.png",
+        "source_member_sha256": "34c91dd83af8287f7caa6de5b5afb924069578a6f16f8804532f0328a1b9af29",
+        "native_bounds": [
+          1560,
+          320,
+          1810,
+          505
+        ],
+        "evidence_paths_and_hashes": [
+          {
+            "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/U02489-heading-terminal-uncertain.png",
+            "sha256": "0449b6724eb2f19ec555dbcdee74593bdb941c56d1e88435890b33f2a504ab25",
+            "native_bounds": [
+              1560,
+              320,
+              1810,
+              505
+            ],
+            "pdf_page": 97,
+            "bdrc_image": 99,
+            "source_member": "0099.png",
+            "source_member_sha256": "34c91dd83af8287f7caa6de5b5afb924069578a6f16f8804532f0328a1b9af29",
+            "native_image_dimensions": [
+              5696,
+              1344
+            ],
+            "status": "Explicitly uncertain small-heading boundary; no canonical sign proposal."
+          }
+        ],
+        "reason": "Independent reader cannot securely distinguish the small heading terminal stroke from its final-letter structure; coordinator does not promote that stroke to a certified mark. Available source is not declared unreadable.",
+        "next_step": "During C1-BASE-PHYSICAL, inspect the full PDF97 row1 heading plus this exact boundary; distinguish final pa structure from detached shads and encode every verified heading mark separately from the PDF96 main text.",
+        "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01.json"
+      }
+    }
   },
   {
     "id": "SCAN-CH1-LAYER-02615",
@@ -2212,5 +2279,133 @@
     },
     "supersedes": "SIGNS-RECOVERY-20260927-U02080",
     "status": "adopted after independent native-context verification and coordinator row-strip inspection"
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260928-U02172",
+    "units": [
+      "U02172"
+    ],
+    "original_units": {
+      "U02172": "འཁྲུལ་དུས་གནས་དུས་བཟློག་པའི་དུས།"
+    },
+    "replacement_units": {
+      "U02172": "འཁྲུལ་དུས་གནས་དུས་བཟློག་པའི་དུས། །"
+    },
+    "old": "འཁྲུལ་དུས་གནས་དུས་བཟློག་པའི་དུས།",
+    "new": "འཁྲུལ་དུས་གནས་དུས་བཟློག་པའི་དུས། །",
+    "rationale": "Two detached vertical shads follow dus before the next བྱེ་བྲག; the ending letter stroke of sa and curved ink below the boundary are not extra delimiters; the precise origin of that curved ink remains uncertain. Every detached boundary mark is encoded exactly once. This edition keeps intervening shads at the end of the preceding U unit, consistent with the existing reading representation; this is editorial ownership, not a claim that source spacing determines syntax. Concatenated text must preserve the same physical inventory under either assignment. Unicode spaces separate marks but do not measure print spacing.",
+    "locator": "Adzom 2000 PDF85 / BDRC I1KG11710 image87 / main row1",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-SIGNS-01/p085-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-01/p085-row1-context.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-01/U02172-terminal-detail.png",
+      "reviews/chapter-01/continuation/C1-SIGNS-01.md",
+      "reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md",
+      "reviews/chapter-01/continuation/C1-SIGNS-01-independent-boundary-addendum.md"
+    ],
+    "confidence": {
+      "target_correspondence": "independent agent correspondence check plus coordinator full-page/context reading",
+      "physical_detached_mark_inventory": "high for this boundary only"
+    },
+    "source_record": "reviews/chapter-01/continuation/C1-SIGNS-01.json#C1-SIGNS-01-U02172",
+    "punctuation_review": {
+      "source_record": "reviews/chapter-01/continuation/C1-SIGNS-01.json#C1-SIGNS-01-U02172",
+      "independent_report": "reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md",
+      "independent_boundary_inventory": "reviews/chapter-01/continuation/C1-SIGNS-01-independent-boundary-addendum.md",
+      "physical_detached_mark_count": 2,
+      "encoding_convention": "Every detached boundary mark is encoded exactly once. This edition keeps intervening shads at the end of the preceding U unit, consistent with the existing reading representation; this is editorial ownership, not a claim that source spacing determines syntax. Concatenated text must preserve the same physical inventory under either assignment. Unicode spaces separate marks but do not measure print spacing.",
+      "evidence_sha256": {
+        "evidence/chapter-01/continuation/C1-SIGNS-01/p085-native.png": "556b67acc769b5dcba4b60ee42a3be1b7c1201eac8d5ff9ac5d94c4727e125f7",
+        "evidence/chapter-01/continuation/C1-SIGNS-01/p085-row1-context.png": "594aaf4221f357e9af89a6ba9b97d8643030b0743bea73ba014da67742142d84",
+        "evidence/chapter-01/continuation/C1-SIGNS-01/U02172-terminal-detail.png": "f11273a685dc39b248e084b6d2beb38f562f4c5d0912496e57d1c9b069f82e9c"
+      }
+    },
+    "status": "adopted after independent native-context correspondence and explicit boundary-inventory clarification"
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260928-U02183",
+    "units": [
+      "U02183"
+    ],
+    "original_units": {
+      "U02183": "སོ་སོའི་འདོད་པ་ཐ་དད་ཀྱང་།"
+    },
+    "replacement_units": {
+      "U02183": "སོ་སོའི་འདོད་པ་ཐ་དད་ཀྱང་། །"
+    },
+    "old": "སོ་སོའི་འདོད་པ་ཐ་དད་ཀྱང་།",
+    "new": "སོ་སོའི་འདོད་པ་ཐ་དད་ཀྱང་། །",
+    "rationale": "Two separated shads follow kyang before འཇིག. The visible terminal dot is not an additional shad; the existing tsheg is retained. The next anchor continues onto row4, which is not transcribed here. Every detached boundary mark is encoded exactly once. This edition keeps intervening shads at the end of the preceding U unit, consistent with the existing reading representation; this is editorial ownership, not a claim that source spacing determines syntax. Concatenated text must preserve the same physical inventory under either assignment. Unicode spaces separate marks but do not measure print spacing.",
+    "locator": "Adzom 2000 PDF85 / BDRC I1KG11710 image87 / main row3",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-SIGNS-01/p085-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-01/p085-row3-context-left.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-01/p085-row3-context-right.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-01/U02183-terminal-detail.png",
+      "reviews/chapter-01/continuation/C1-SIGNS-01.md",
+      "reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md",
+      "reviews/chapter-01/continuation/C1-SIGNS-01-independent-boundary-addendum.md"
+    ],
+    "confidence": {
+      "target_correspondence": "independent agent correspondence check plus coordinator full-page/context reading",
+      "physical_detached_mark_inventory": "high for this boundary only"
+    },
+    "source_record": "reviews/chapter-01/continuation/C1-SIGNS-01.json#C1-SIGNS-01-U02183",
+    "punctuation_review": {
+      "source_record": "reviews/chapter-01/continuation/C1-SIGNS-01.json#C1-SIGNS-01-U02183",
+      "independent_report": "reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md",
+      "independent_boundary_inventory": "reviews/chapter-01/continuation/C1-SIGNS-01-independent-boundary-addendum.md",
+      "physical_detached_mark_count": 2,
+      "encoding_convention": "Every detached boundary mark is encoded exactly once. This edition keeps intervening shads at the end of the preceding U unit, consistent with the existing reading representation; this is editorial ownership, not a claim that source spacing determines syntax. Concatenated text must preserve the same physical inventory under either assignment. Unicode spaces separate marks but do not measure print spacing.",
+      "evidence_sha256": {
+        "evidence/chapter-01/continuation/C1-SIGNS-01/p085-native.png": "556b67acc769b5dcba4b60ee42a3be1b7c1201eac8d5ff9ac5d94c4727e125f7",
+        "evidence/chapter-01/continuation/C1-SIGNS-01/p085-row3-context-left.png": "23e587cc783ef1840e9d57f5cd48decfc74b62d2f7918d5e9320f8a9a6960a2b",
+        "evidence/chapter-01/continuation/C1-SIGNS-01/p085-row3-context-right.png": "58cb5600d30d62cb4655eac69826e49cd3561c01ae2423e5af91a1e1d943c866",
+        "evidence/chapter-01/continuation/C1-SIGNS-01/U02183-terminal-detail.png": "693253adb64ba30362316d36850af5ceed8356bc3188ec4b85ba14d398b41b6e"
+      }
+    },
+    "status": "adopted after independent native-context correspondence and explicit boundary-inventory clarification"
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260928-U02484",
+    "units": [
+      "U02484"
+    ],
+    "original_units": {
+      "U02484": "རྟག་ཏུ་འདྲིས་ན་སྤྱོད་པ་བདེ།"
+    },
+    "replacement_units": {
+      "U02484": "རྟག་ཏུ་འདྲིས་ན་སྤྱོད་པ་བདེ། །"
+    },
+    "old": "རྟག་ཏུ་འདྲིས་ན་སྤྱོད་པ་བདེ།",
+    "new": "རྟག་ཏུ་འདྲིས་ན་སྤྱོད་པ་བདེ། །",
+    "rationale": "Two detached shads after bde stand before ཆོས. Neither the final letter/vowel stroke nor neighboring-row material is counted. Only the visible following fragment is transcribed here. Every detached boundary mark is encoded exactly once. This edition keeps intervening shads at the end of the preceding U unit, consistent with the existing reading representation; this is editorial ownership, not a claim that source spacing determines syntax. Concatenated text must preserve the same physical inventory under either assignment. Unicode spaces separate marks but do not measure print spacing.",
+    "locator": "Adzom 2000 PDF96 / BDRC I1KG11710 image98 / main row5",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-SIGNS-01/p096-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-01/p096-row5-context.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-01/U02484-terminal-detail.png",
+      "reviews/chapter-01/continuation/C1-SIGNS-01.md",
+      "reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md",
+      "reviews/chapter-01/continuation/C1-SIGNS-01-independent-boundary-addendum.md"
+    ],
+    "confidence": {
+      "target_correspondence": "independent agent correspondence check plus coordinator full-page/context reading",
+      "physical_detached_mark_inventory": "high for this boundary only"
+    },
+    "source_record": "reviews/chapter-01/continuation/C1-SIGNS-01.json#C1-SIGNS-01-U02484",
+    "punctuation_review": {
+      "source_record": "reviews/chapter-01/continuation/C1-SIGNS-01.json#C1-SIGNS-01-U02484",
+      "independent_report": "reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md",
+      "independent_boundary_inventory": "reviews/chapter-01/continuation/C1-SIGNS-01-independent-boundary-addendum.md",
+      "physical_detached_mark_count": 2,
+      "encoding_convention": "Every detached boundary mark is encoded exactly once. This edition keeps intervening shads at the end of the preceding U unit, consistent with the existing reading representation; this is editorial ownership, not a claim that source spacing determines syntax. Concatenated text must preserve the same physical inventory under either assignment. Unicode spaces separate marks but do not measure print spacing.",
+      "evidence_sha256": {
+        "evidence/chapter-01/continuation/C1-SIGNS-01/p096-native.png": "11a98728e5974979f0f27349daf143e5ae935e621d50ae2f9491bffbddbb27de",
+        "evidence/chapter-01/continuation/C1-SIGNS-01/p096-row5-context.png": "b52e57479b2d9fa9b41a9b5c4638008507535d87de0794117bc9bf6001ac9ca2",
+        "evidence/chapter-01/continuation/C1-SIGNS-01/U02484-terminal-detail.png": "ce473cf6a82b7a67d0ef485825d54c677bc8fbeb69662cd8c74970c3ba35df4d"
+      }
+    },
+    "status": "adopted after independent native-context correspondence and explicit boundary-inventory clarification"
   }
 ]

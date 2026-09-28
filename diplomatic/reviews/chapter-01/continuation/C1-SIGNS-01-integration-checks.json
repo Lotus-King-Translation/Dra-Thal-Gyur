@@ -1,0 +1,53 @@
+{
+  "task_id": "C1-SIGNS-01",
+  "comparison_baseline_commit": "7fe1ac75164bfb44ca6f3aac0b0c4a31f0f5942c",
+  "all_checks_passed": true,
+  "scope": "Mechanical integration checks only; no independent glyph recognition or whole-witness certification.",
+  "base_anchors_identical_and_ordered": 2635,
+  "all_source_tibetan_strings_unchanged": true,
+  "main_lexical_strings_unchanged": true,
+  "exact_reading_changes": [
+    {
+      "anchor": "U02172",
+      "before": "འཁྲུལ་དུས་གནས་དུས་བཟློག་པའི་དུས།",
+      "after": "འཁྲུལ་དུས་གནས་དུས་བཟློག་པའི་དུས། །"
+    },
+    {
+      "anchor": "U02183",
+      "before": "སོ་སོའི་འདོད་པ་ཐ་དད་ཀྱང་།",
+      "after": "སོ་སོའི་འདོད་པ་ཐ་དད་ཀྱང་། །"
+    },
+    {
+      "anchor": "U02484",
+      "before": "རྟག་ཏུ་འདྲིས་ན་སྤྱོད་པ་བདེ།",
+      "after": "རྟག་ཏུ་འདྲིས་ན་སྤྱོད་པ་བདེ། །"
+    },
+    {
+      "anchor": "U02489",
+      "before": "རྣལ་འབྱོར་ཆེན་པོའི་སྤྱོད་པའི",
+      "after": "རྣལ་འབྱོར་ཆེན་པོའི་སྤྱོད་པའི། །"
+    }
+  ],
+  "new_intervention_record_ids": [
+    "SIGNS-VERIFIED-20260928-U02172",
+    "SIGNS-VERIFIED-20260928-U02183",
+    "SIGNS-VERIFIED-20260928-U02484"
+  ],
+  "revised_intervention_record_ids": [
+    "SCAN-CH1-LAYER-02489"
+  ],
+  "all_other_intervention_records_unchanged": true,
+  "U02090_entire_generated_record_unchanged": true,
+  "U02489_separate_heading_text_unchanged": true,
+  "scan_insertion_file_byte_unchanged": true,
+  "independent_attachment_hashes_reverified": 18,
+  "known_candidate_dispositions": {
+    "done": 5,
+    "unfinished": 25
+  },
+  "chapter_markdown_sha256": "370cb93657e13f3dd854494fbdad37ebf0854c3f8ff100f90d3c19933785dc70",
+  "generated_scan_intervention_record_count": 59,
+  "chapter_complete": false,
+  "next_task_id": "C1-SIGNS-02",
+  "final_prose_audit": "No sign-allocation disagreement implied for U02489; origin of low curved ink at U02172 explicitly uncertain. Reading changes rechecked after rebuilding."
+}

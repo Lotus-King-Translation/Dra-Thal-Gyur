@@ -1,0 +1,45 @@
+{
+  "task_id": "C1-SIGNS-01",
+  "attempt_id": "independent-boundary-addendum",
+  "baseline_commit": "bccf091c9b3e5401eae94f5feb526de6612d54b2",
+  "resumed_thread_id": "01a0e782-0d40-7280-95d8-04ce87b97ed2",
+  "reviewer_relationship": "Same independent attached-image reader resumed for clarification; not an additional independent reader.",
+  "mode": "Read-only sandbox, direct image attachments, no tool calls requested or recorded; permissions unchanged.",
+  "request_path": "C1-SIGNS-01-independent-boundary-addendum-request.txt",
+  "request_sha256": "4ea3d4d5a0402951e9940b17b3d5b4ae66f99ae517d21206d7a04ba109702c85",
+  "report_path": "C1-SIGNS-01-independent-boundary-addendum.md",
+  "report_sha256": "6d9ff0f022376c5d53cd443344eb67deddc897f039aa16184f761de395993fa1",
+  "session_log": "C1-SIGNS-01-independent-boundary-addendum-session.jsonl",
+  "session_sha256": "40ae20ab72a95d38bb21a7da0ac5c11c191be654e741567b3f2299da8e0af372",
+  "stderr": "C1-SIGNS-01-independent-boundary-addendum-stderr.txt",
+  "attachment_order": [
+    {
+      "index": 1,
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/U02090-terminal-detail.png",
+      "sha256": "5632af6c5c839fe61d88d67a9296d60c4f3767231a5ffa40df1898f9580a1a83"
+    },
+    {
+      "index": 2,
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/U02172-terminal-detail.png",
+      "sha256": "f11273a685dc39b248e084b6d2beb38f562f4c5d0912496e57d1c9b069f82e9c"
+    },
+    {
+      "index": 3,
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/U02183-terminal-detail.png",
+      "sha256": "693253adb64ba30362316d36850af5ceed8356bc3188ec4b85ba14d398b41b6e"
+    },
+    {
+      "index": 4,
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/U02484-terminal-detail.png",
+      "sha256": "ce473cf6a82b7a67d0ef485825d54c677bc8fbeb69662cd8c74970c3ba35df4d"
+    },
+    {
+      "index": 5,
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/U02489-terminal-detail.png",
+      "sha256": "f30b0d0ac21a02b3056b0d91af335fd830b071e0d019fe393cd271591c91c84b"
+    }
+  ],
+  "status": "completed",
+  "exit_status": 0,
+  "result": "Physical inventories 1/2/2/2/2 confirmed; opening-versus-terminal ownership clarified without suppressing any mark. Small PDF97 heading terminal remains unresolved."
+}

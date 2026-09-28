@@ -1,0 +1,18 @@
+The **physical inventories** are 1, 2, 2, 2, 2 vertical punctuation marks. The assignments below preserve each mark; `|` denotes only the editorial unit boundary.
+### U02090
+
+Reinspected attachment 1, U02090-terminal-detail.png: PDF82/BDRC84/member0084.png, [840,355,1170,515], with earlier row1 context. **One detached upright** occurs before the following འདི. I continue to read the nearer thick descending stroke as ཀ’s right-hand stem, structurally joined through its head, not as another shad; the finer internal stroke also belongs to the letter. Scattered dots are not additional vertical punctuation. Confidence: moderately high, with the crowded letter-head junction the least certain feature. Complete boundary under my earlier assignment: `ཀ | །འདི`. Removing the electronic shad from U02090 therefore requires preserving it on the following unit.
+### U02172
+
+Reinspected attachment 2, U02172-terminal-detail.png: PDF85/BDRC87/member0087.png, [2740,275,3150,465], with earlier row1 context. **Two detached uprights** intervene: one immediately after དུས and another before བྱེ་བྲག. Neither is a component of those adjacent letters. The finer descending stroke of final ས is excluded. The low sweeping ink beneath the first shad is not another vertical punctuation mark; its precise origin remains uncertain. Confidence: high for the two-mark inventory. Complete boundary: `དུས། | །བྱེ་བྲག`. My earlier “no change” concerned only the target’s assigned terminal sign; the second mark must also survive transcription.
+### U02183
+
+Reinspected attachment 3, U02183-terminal-detail.png: PDF85/BDRC87/member0087.png, [4250,495,4650,715], with earlier row3 context. **Two detached uprights** occur after ཀྱང་ and before འཇིག་རྟེན. Both are separate from adjacent letter structures. The raised terminal tsheg is visible but is not a vertical mark. The small transverse stroke on the nearer shad and ink from the lower row supply no additional shad. Confidence: high. Complete boundary: `ཀྱང་། | །འཇིག་རྟེན`. The earlier target-only “no change” requires retaining the second shad with the following unit under that assignment.
+### U02484
+
+Reinspected attachment 4, U02484-terminal-detail.png: PDF96/BDRC98/member0098.png, [4190,740,4590,960], with earlier row5 context. **Two detached uprights** stand between བདེ and ཆོས: the nearer terminal shad and the farther upright preceding ཆོས. They are distinct from the final དེ’s descending stroke and the following letter. Neighboring-row strokes and small flecks are excluded. Confidence: high. Complete boundary: `བདེ། | །ཆོས`. Again, “no change” applied only to the target-side punctuation, not to the complete inter-unit inventory.
+### U02489
+
+Reinspected attachment 5, U02489-terminal-detail.png: PDF96/BDRC98/member0098.png, [4840,845,5180,1090], with earlier row6 and PDF97 row1 contexts. **Two detached shads** follow པའི before the substantially heavier page frame. Neither belongs to the final letter; its descending and raised vowel strokes are excluded, as is the frame. Confidence: high. Retain `པའི།།` without lexical normalization. The separate small PDF97 heading’s terminal stroke remains unresolved between letter structure and punctuation; this does not affect the PDF96 inventory.
+
+Correction to my earlier recommendation: U02090’s proposed deletion must be **reassignment, not loss**. For the other three inter-unit boundaries, preserve the following-side shad wherever not already encoded. Ownership remains editorial; these are not revised glyph inventories. This clarification continues the same informed agent review.

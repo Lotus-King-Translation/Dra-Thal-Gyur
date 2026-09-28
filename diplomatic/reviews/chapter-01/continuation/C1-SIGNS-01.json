@@ -2,8 +2,8 @@
   "task_id": "C1-SIGNS-01",
   "baseline_commit": "7fe1ac75164bfb44ca6f3aac0b0c4a31f0f5942c",
   "reader": "ChatGPT-coordinator-20260928-C1-SIGNS-01",
-  "status": "independent_reading_received_boundary_allocation_disagreement",
-  "scope": "Only U02090, U02172, U02183, U02484, U02489; no canonical decisions yet.",
+  "status": "completed_bounded_main_terminal_batch",
+  "scope": "Five named main-terminal punctuation candidates only. U02489 small-heading punctuation is explicitly unresolved outside this completed main-terminal scope; it is carried to C1-BASE-PHYSICAL.",
   "startup": {
     "inherited_worktree": "clean, including untracked and ignored project files",
     "previous_local_head": "afb5c5133357942267dc55fc60a1d22704d5ef08",
@@ -25,12 +25,14 @@
   ],
   "method": "Full native image inspection followed by explicit Tibetan neighbor-to-anchor mapping. Historical candidate labels and expected strings are hypotheses, not evidence. No OCR.",
   "independent_review": {
-    "status": "visual_correspondence_completed_sign_allocation_disagreement",
+    "status": "completed_visual_correspondence_and_physical_inventory",
     "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent.md",
     "session_log": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-session.jsonl",
     "stderr_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-stderr.txt",
-    "note": "Preserve both actual reads. The independent attached-image agent acknowledges the separated upright before the next phrase but calls it an opening mark rather than a target-terminal mark at four boundaries. Its proposed strings do not show where that mark would be encoded in the next unit. No silent agreement or adoption is inferred.",
-    "successful_image_report": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md"
+    "note": "First failed attempt remains preserved. The successful attached-image report and its same-reader clarification are separate retained files, not two independent reviewers. The clarification reconciles sign ownership without altering observed glyph inventory: 1/2/2/2/2. Coordinator adopted a mark-preserving encoding after examining the same native contexts.",
+    "successful_image_report": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md",
+    "boundary_inventory_addendum": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-boundary-addendum.md",
+    "addendum_execution": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-boundary-addendum-execution.json"
   },
   "observations": [
     {
@@ -64,17 +66,17 @@
       "existing_reading": "ལས་རྣམས་སྟོན་པ་ཙན་ཏི་ཀ །",
       "proposed_reading": "ལས་རྣམས་སྟོན་པ་ཙན་ཏི་ཀ །",
       "observed_terminal_shad_count": 1,
-      "disposition": "unresolved",
-      "integration_status": "first_reader_only_not_integrated",
-      "rationale": "The final vertical of ka is joined to its letter body; only one additional detached shad stands before the following འདི. The historical crop identifies only the continuation of this cross-page anchor, not its complete text.",
+      "disposition": "retained_existing_reading",
+      "integration_status": "existing reading retained; no redundant intervention created",
+      "rationale": "The final vertical of ka is joined to its letter body; only one additional detached shad stands before the following འདི. The historical crop identifies only the continuation of this cross-page anchor, not its complete text. Every detached boundary mark is encoded exactly once. This edition keeps intervening shads at the end of the preceding U unit, consistent with the existing reading representation; this is editorial ownership, not a claim that source spacing determines syntax. Concatenated text must preserve the same physical inventory under either assignment. Unicode spaces separate marks but do not measure print spacing.",
       "confidence": {
         "target_correspondence": "high for the stated context",
         "local_sign_count": "high, subject to separate agent review"
       },
       "uncertainty": [
-        "First-reader image judgment, not independent approval; expected anchor wording was available.",
-        "Only the specified local sign boundary is reviewed. Page overviews do not certify all wording or signs on a page.",
-        "Proposed Unicode spaces separate marks and do not encode measured physical whitespace."
+        "Candidate IDs and electronic locators were supplied beforehand; this is neither a blind review nor human palaeographic certification.",
+        "Only the specified boundary is certified by this local review; no full-page or whole-chapter signs coverage is inferred.",
+        "Independent confidence is moderately high; the crowded ka-head/stem junction is its least certain feature. Both actual readings nevertheless distinguish the joined ka stem from the one detached upright."
       ],
       "evidence_paths_and_hashes": [
         {
@@ -133,16 +135,19 @@
         }
       ],
       "independent_review": {
-        "status": "target_correspondence_confirmed",
+        "status": "completed_independent_agent_correspondence_and_inventory",
         "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md",
         "terminal_shad_count_in_reviewer_allocation": 0,
-        "agreement": "disagrees on boundary allocation: independent reader excludes the upright before next segment as its opening mark",
-        "note": "Different boundary ownership must not cause a printed sign to disappear from the continuous reading."
+        "agreement": "Physical inventory agrees with coordinator; initial terminal-only allocation is corrected by the explicit two-unit inventory in the addendum.",
+        "note": "Different boundary ownership must not cause a printed sign to disappear from the continuous reading.",
+        "boundary_inventory_addendum": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-boundary-addendum.md",
+        "physical_detached_mark_inventory": 1
       },
       "canonical_record_ids": [],
-      "next_step": "Request explicit physical inventory of ALL detached shads between the two letter groups, separate from assigning signs to units. Preserve the disagreement until resolved.",
+      "next_step": "No further action for this bounded main-terminal candidate; systematic physical/source-layer proofreading remains open.",
       "historical_crop_correspondence": "Historical crop contains only the page82 continuation and a clipped next anchor; wider page81/page82 context establishes the full target. Correct continuation label, not a complete-verse crop.",
-      "first_reader_disposition": "retained_existing_reading"
+      "first_reader_disposition": "retained_existing_reading",
+      "encoding_convention": "Every detached boundary mark is encoded exactly once. This edition keeps intervening shads at the end of the preceding U unit, consistent with the existing reading representation; this is editorial ownership, not a claim that source spacing determines syntax. Concatenated text must preserve the same physical inventory under either assignment. Unicode spaces separate marks but do not measure print spacing."
     },
     {
       "id": "C1-SIGNS-01-U02172",
@@ -171,17 +176,17 @@
       "existing_reading": "འཁྲུལ་དུས་གནས་དུས་བཟློག་པའི་དུས།",
       "proposed_reading": "འཁྲུལ་དུས་གནས་དུས་བཟློག་པའི་དུས། །",
       "observed_terminal_shad_count": 2,
-      "disposition": "unresolved",
-      "integration_status": "first_reader_only_not_integrated",
-      "rationale": "Two detached vertical shads follow dus before the next བྱེ་བྲག; the ending letter stroke of sa and curved material from the neighboring row are not extra delimiters.",
+      "disposition": "adopted",
+      "integration_status": "integrated in authored additional-interventions record",
+      "rationale": "Two detached vertical shads follow dus before the next བྱེ་བྲག; the ending letter stroke of sa and curved ink below the boundary are not extra delimiters; the precise origin of that curved ink remains uncertain. Every detached boundary mark is encoded exactly once. This edition keeps intervening shads at the end of the preceding U unit, consistent with the existing reading representation; this is editorial ownership, not a claim that source spacing determines syntax. Concatenated text must preserve the same physical inventory under either assignment. Unicode spaces separate marks but do not measure print spacing.",
       "confidence": {
         "target_correspondence": "high for the stated context",
         "local_sign_count": "high, subject to separate agent review"
       },
       "uncertainty": [
-        "First-reader image judgment, not independent approval; expected anchor wording was available.",
-        "Only the specified local sign boundary is reviewed. Page overviews do not certify all wording or signs on a page.",
-        "Proposed Unicode spaces separate marks and do not encode measured physical whitespace."
+        "Candidate IDs and electronic locators were supplied beforehand; this is neither a blind review nor human palaeographic certification.",
+        "Only the specified boundary is certified by this local review; no full-page or whole-chapter signs coverage is inferred.",
+        "Origin of the low sweeping ink below the first shad remains uncertain; neither reader treats it as another detached vertical delimiter."
       ],
       "evidence_paths_and_hashes": [
         {
@@ -222,16 +227,21 @@
         }
       ],
       "independent_review": {
-        "status": "target_correspondence_confirmed",
+        "status": "completed_independent_agent_correspondence_and_inventory",
         "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md",
         "terminal_shad_count_in_reviewer_allocation": 1,
-        "agreement": "disagrees on boundary allocation: independent reader excludes the upright before next segment as its opening mark",
-        "note": "Different boundary ownership must not cause a printed sign to disappear from the continuous reading."
+        "agreement": "Physical inventory agrees with coordinator; initial terminal-only allocation is corrected by the explicit two-unit inventory in the addendum.",
+        "note": "Different boundary ownership must not cause a printed sign to disappear from the continuous reading.",
+        "boundary_inventory_addendum": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-boundary-addendum.md",
+        "physical_detached_mark_inventory": 2
       },
-      "canonical_record_ids": [],
-      "next_step": "Request explicit physical inventory of ALL detached shads between the two letter groups, separate from assigning signs to units. Preserve the disagreement until resolved.",
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U02172"
+      ],
+      "next_step": "No further action for this bounded main-terminal candidate; systematic physical/source-layer proofreading remains open.",
       "historical_crop_correspondence": "Historical crop contains the named target and the start of the following anchor; preceding context supplied separately.",
-      "first_reader_disposition": "unresolved"
+      "first_reader_disposition": "unresolved",
+      "encoding_convention": "Every detached boundary mark is encoded exactly once. This edition keeps intervening shads at the end of the preceding U unit, consistent with the existing reading representation; this is editorial ownership, not a claim that source spacing determines syntax. Concatenated text must preserve the same physical inventory under either assignment. Unicode spaces separate marks but do not measure print spacing."
     },
     {
       "id": "C1-SIGNS-01-U02183",
@@ -260,17 +270,16 @@
       "existing_reading": "སོ་སོའི་འདོད་པ་ཐ་དད་ཀྱང་།",
       "proposed_reading": "སོ་སོའི་འདོད་པ་ཐ་དད་ཀྱང་། །",
       "observed_terminal_shad_count": 2,
-      "disposition": "unresolved",
-      "integration_status": "first_reader_only_not_integrated",
-      "rationale": "Two separated shads follow kyang before འཇིག. The visible terminal dot is not an additional shad; the existing tsheg is retained. The next anchor continues onto row4, which is not transcribed here.",
+      "disposition": "adopted",
+      "integration_status": "integrated in authored additional-interventions record",
+      "rationale": "Two separated shads follow kyang before འཇིག. The visible terminal dot is not an additional shad; the existing tsheg is retained. The next anchor continues onto row4, which is not transcribed here. Every detached boundary mark is encoded exactly once. This edition keeps intervening shads at the end of the preceding U unit, consistent with the existing reading representation; this is editorial ownership, not a claim that source spacing determines syntax. Concatenated text must preserve the same physical inventory under either assignment. Unicode spaces separate marks but do not measure print spacing.",
       "confidence": {
         "target_correspondence": "high for the stated context",
         "local_sign_count": "high, subject to separate agent review"
       },
       "uncertainty": [
-        "First-reader image judgment, not independent approval; expected anchor wording was available.",
-        "Only the specified local sign boundary is reviewed. Page overviews do not certify all wording or signs on a page.",
-        "Proposed Unicode spaces separate marks and do not encode measured physical whitespace."
+        "Candidate IDs and electronic locators were supplied beforehand; this is neither a blind review nor human palaeographic certification.",
+        "Only the specified boundary is certified by this local review; no full-page or whole-chapter signs coverage is inferred."
       ],
       "evidence_paths_and_hashes": [
         {
@@ -329,16 +338,21 @@
         }
       ],
       "independent_review": {
-        "status": "target_correspondence_confirmed",
+        "status": "completed_independent_agent_correspondence_and_inventory",
         "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md",
         "terminal_shad_count_in_reviewer_allocation": 1,
-        "agreement": "disagrees on boundary allocation: independent reader excludes the upright before next segment as its opening mark",
-        "note": "Different boundary ownership must not cause a printed sign to disappear from the continuous reading."
+        "agreement": "Physical inventory agrees with coordinator; initial terminal-only allocation is corrected by the explicit two-unit inventory in the addendum.",
+        "note": "Different boundary ownership must not cause a printed sign to disappear from the continuous reading.",
+        "boundary_inventory_addendum": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-boundary-addendum.md",
+        "physical_detached_mark_inventory": 2
       },
-      "canonical_record_ids": [],
-      "next_step": "Request explicit physical inventory of ALL detached shads between the two letter groups, separate from assigning signs to units. Preserve the disagreement until resolved.",
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U02183"
+      ],
+      "next_step": "No further action for this bounded main-terminal candidate; systematic physical/source-layer proofreading remains open.",
       "historical_crop_correspondence": "Historical crop contains preceding U02182, the target and only the beginning of U02184. It is not a whole-row or whole-next-anchor certificate.",
-      "first_reader_disposition": "unresolved"
+      "first_reader_disposition": "unresolved",
+      "encoding_convention": "Every detached boundary mark is encoded exactly once. This edition keeps intervening shads at the end of the preceding U unit, consistent with the existing reading representation; this is editorial ownership, not a claim that source spacing determines syntax. Concatenated text must preserve the same physical inventory under either assignment. Unicode spaces separate marks but do not measure print spacing."
     },
     {
       "id": "C1-SIGNS-01-U02484",
@@ -367,17 +381,16 @@
       "existing_reading": "རྟག་ཏུ་འདྲིས་ན་སྤྱོད་པ་བདེ།",
       "proposed_reading": "རྟག་ཏུ་འདྲིས་ན་སྤྱོད་པ་བདེ། །",
       "observed_terminal_shad_count": 2,
-      "disposition": "unresolved",
-      "integration_status": "first_reader_only_not_integrated",
-      "rationale": "Two detached shads after bde stand before ཆོས. Neither the final letter/vowel stroke nor neighboring-row material is counted. Only the visible following fragment is transcribed here.",
+      "disposition": "adopted",
+      "integration_status": "integrated in authored additional-interventions record",
+      "rationale": "Two detached shads after bde stand before ཆོས. Neither the final letter/vowel stroke nor neighboring-row material is counted. Only the visible following fragment is transcribed here. Every detached boundary mark is encoded exactly once. This edition keeps intervening shads at the end of the preceding U unit, consistent with the existing reading representation; this is editorial ownership, not a claim that source spacing determines syntax. Concatenated text must preserve the same physical inventory under either assignment. Unicode spaces separate marks but do not measure print spacing.",
       "confidence": {
         "target_correspondence": "high for the stated context",
         "local_sign_count": "high, subject to separate agent review"
       },
       "uncertainty": [
-        "First-reader image judgment, not independent approval; expected anchor wording was available.",
-        "Only the specified local sign boundary is reviewed. Page overviews do not certify all wording or signs on a page.",
-        "Proposed Unicode spaces separate marks and do not encode measured physical whitespace."
+        "Candidate IDs and electronic locators were supplied beforehand; this is neither a blind review nor human palaeographic certification.",
+        "Only the specified boundary is certified by this local review; no full-page or whole-chapter signs coverage is inferred."
       ],
       "evidence_paths_and_hashes": [
         {
@@ -418,16 +431,21 @@
         }
       ],
       "independent_review": {
-        "status": "target_correspondence_confirmed",
+        "status": "completed_independent_agent_correspondence_and_inventory",
         "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md",
         "terminal_shad_count_in_reviewer_allocation": 1,
-        "agreement": "disagrees on boundary allocation: independent reader excludes the upright before next segment as its opening mark",
-        "note": "Different boundary ownership must not cause a printed sign to disappear from the continuous reading."
+        "agreement": "Physical inventory agrees with coordinator; initial terminal-only allocation is corrected by the explicit two-unit inventory in the addendum.",
+        "note": "Different boundary ownership must not cause a printed sign to disappear from the continuous reading.",
+        "boundary_inventory_addendum": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-boundary-addendum.md",
+        "physical_detached_mark_inventory": 2
       },
-      "canonical_record_ids": [],
-      "next_step": "Request explicit physical inventory of ALL detached shads between the two letter groups, separate from assigning signs to units. Preserve the disagreement until resolved.",
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U02484"
+      ],
+      "next_step": "No further action for this bounded main-terminal candidate; systematic physical/source-layer proofreading remains open.",
       "historical_crop_correspondence": "Historical crop contains the named target and following fragment; previous complete context is supplied by the wider strip.",
-      "first_reader_disposition": "unresolved"
+      "first_reader_disposition": "unresolved",
+      "encoding_convention": "Every detached boundary mark is encoded exactly once. This edition keeps intervening shads at the end of the preceding U unit, consistent with the existing reading representation; this is editorial ownership, not a claim that source spacing determines syntax. Concatenated text must preserve the same physical inventory under either assignment. Unicode spaces separate marks but do not measure print spacing."
     },
     {
       "id": "C1-SIGNS-01-U02489",
@@ -460,18 +478,17 @@
       "existing_reading": "རྣལ་འབྱོར་ཆེན་པོའི་སྤྱོད་པའི",
       "proposed_reading": "རྣལ་འབྱོར་ཆེན་པོའི་སྤྱོད་པའི། །",
       "observed_terminal_shad_count": 2,
-      "disposition": "unresolved",
-      "integration_status": "first_reader_only_not_integrated",
-      "rationale": "Two detached shads after the main-text pai precede a third much thicker vertical that is the page frame. The separate small reply heading is first text on PDF97 row1, before U02490. Preserve main/heading separation and the existing lexical reading; heading punctuation is not adopted by this main-terminal proposal.",
+      "disposition": "adopted",
+      "integration_status": "integrated in authored additional-interventions record",
+      "rationale": "Two detached shads after the main-text pai precede a third much thicker vertical that is the page frame. The separate small reply heading is first text on PDF97 row1, before U02490. Preserve main/heading separation and the existing lexical reading; heading punctuation is not adopted by this main-terminal proposal. Every detached boundary mark is encoded exactly once. This edition keeps intervening shads at the end of the preceding U unit, consistent with the existing reading representation; this is editorial ownership, not a claim that source spacing determines syntax. Concatenated text must preserve the same physical inventory under either assignment. Unicode spaces separate marks but do not measure print spacing.",
       "confidence": {
         "target_correspondence": "high for the stated context",
         "local_sign_count": "high, subject to separate agent review"
       },
       "uncertainty": [
-        "First-reader image judgment, not independent approval; expected anchor wording was available.",
-        "Only the specified local sign boundary is reviewed. Page overviews do not certify all wording or signs on a page.",
-        "Proposed Unicode spaces separate marks and do not encode measured physical whitespace.",
-        "Heading signs not proposed for canonical change in this main-terminal review."
+        "Candidate IDs and electronic locators were supplied beforehand; this is neither a blind review nor human palaeographic certification.",
+        "Only the specified boundary is certified by this local review; no full-page or whole-chapter signs coverage is inferred.",
+        "PDF97 small-heading terminal sign remains reader-unresolved and is explicitly carried to C1-BASE-PHYSICAL. No heading-punctuation change."
       ],
       "evidence_paths_and_hashes": [
         {
@@ -530,20 +547,30 @@
         }
       ],
       "independent_review": {
-        "status": "target_correspondence_confirmed",
+        "status": "completed_independent_agent_correspondence_and_inventory",
         "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md",
         "terminal_shad_count_in_reviewer_allocation": 2,
-        "agreement": "agrees on two main terminal shads; heading sign remains unread",
-        "note": "Different boundary ownership must not cause a printed sign to disappear from the continuous reading."
+        "agreement": "Physical inventory agrees with coordinator; initial terminal-only allocation is corrected by the explicit two-unit inventory in the addendum.",
+        "note": "Different boundary ownership must not cause a printed sign to disappear from the continuous reading.",
+        "boundary_inventory_addendum": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-boundary-addendum.md",
+        "physical_detached_mark_inventory": 2
       },
-      "canonical_record_ids": [],
-      "next_step": "Integrate supported main-terminal change while preserving heading uncertainty.",
+      "canonical_record_ids": [
+        "SCAN-CH1-LAYER-02489"
+      ],
+      "next_step": "No further action for this bounded main-terminal candidate; systematic physical/source-layer proofreading remains open.",
       "historical_crop_correspondence": "Historical main crop clips upper portions of the main letters/vowels; its visible terminal strokes are not sufficient alone for full target identity. The taller context and full page establish the target and frame. Historical heading crop belongs to the separate page97 source heading, not the main terminal.",
-      "first_reader_disposition": "unresolved"
+      "first_reader_disposition": "unresolved",
+      "encoding_convention": "Every detached boundary mark is encoded exactly once. This edition keeps intervening shads at the end of the preceding U unit, consistent with the existing reading representation; this is editorial ownership, not a claim that source spacing determines syntax. Concatenated text must preserve the same physical inventory under either assignment. Unicode spaces separate marks but do not measure print spacing."
     }
   ],
-  "canonical_record_ids": [],
-  "next_step": "Save the independent report and allocation disagreement, then seek a focused boundary-inventory addendum before integrating the disputed four boundaries.",
+  "canonical_record_ids": [
+    "SIGNS-VERIFIED-20260928-U02172",
+    "SIGNS-VERIFIED-20260928-U02183",
+    "SIGNS-VERIFIED-20260928-U02484",
+    "SCAN-CH1-LAYER-02489"
+  ],
+  "next_step": "C1-SIGNS-02: U00995, U01094, U01270, U01416, U01534. Separately keep U02489 small-heading punctuation pending in C1-BASE-PHYSICAL.",
   "evidence_paths_and_hashes": [
     {
       "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p081-native.png",
@@ -621,9 +648,80 @@
       "commit": "a95bebc294c0c57f68144b28741e5947f98e8736",
       "scope": "coordinator five first-reader findings, wider evidence, and blocked first independent attempt",
       "remote": "origin/main"
+    },
+    {
+      "commit": "bccf091c9b3e5401eae94f5feb526de6612d54b2",
+      "scope": "independent image report and explicit boundary-allocation disagreement before clarification or integration",
+      "remote": "origin/main"
     }
   ],
   "crop_manifest": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/crop-manifest.json",
   "historical_crop_audit": "All six preserved candidate/context crops hash-match the archived manifest and pixel-match their stated native bounds. This is not verification of anchor labels.",
-  "preliminary_locator_note": "U02090 crosses PDF81 row6 to PDF82 row1. U02489 main text is at PDF96 row6; its separately transcribed reply heading is at PDF97 row1. Exact signs and correspondence still under review."
+  "preliminary_locator_note": "U02090 crosses PDF81 row6 to PDF82 row1. U02489 main text is at PDF96 row6; its separately transcribed reply heading is at PDF97 row1. Exact signs and correspondence still under review.",
+  "encoding_convention": "Every detached boundary mark is encoded exactly once. This edition keeps intervening shads at the end of the preceding U unit, consistent with the existing reading representation; this is editorial ownership, not a claim that source spacing determines syntax. Concatenated text must preserve the same physical inventory under either assignment. Unicode spaces separate marks but do not measure print spacing.",
+  "source_evidence_verification": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/source-evidence-verification.json",
+  "integration_summary": {
+    "candidate_dispositions": {
+      "adopted": 4,
+      "retained_existing_reading": 1
+    },
+    "new_intervention_records": 3,
+    "existing_intervention_records_revised": 1,
+    "main_reading_units_changed": 4,
+    "source_tibetan_changed": false,
+    "all_historical_material_preserved": true,
+    "chapter_complete": false
+  },
+  "carried_forward_uncertainties": [
+    {
+      "id": "C1-SIGNS-01-U02489-HEADING-TERMINAL",
+      "status": "unresolved",
+      "anchor": "U02489",
+      "source_layer": "separate small reply heading, not main terminal",
+      "pdf_page": 97,
+      "bdrc_image": 99,
+      "row": 1,
+      "source_member": "0099.png",
+      "source_member_sha256": "34c91dd83af8287f7caa6de5b5afb924069578a6f16f8804532f0328a1b9af29",
+      "native_bounds": [
+        1560,
+        320,
+        1810,
+        505
+      ],
+      "evidence_paths_and_hashes": [
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/U02489-heading-terminal-uncertain.png",
+          "sha256": "0449b6724eb2f19ec555dbcdee74593bdb941c56d1e88435890b33f2a504ab25",
+          "native_bounds": [
+            1560,
+            320,
+            1810,
+            505
+          ],
+          "pdf_page": 97,
+          "bdrc_image": 99,
+          "source_member": "0099.png",
+          "source_member_sha256": "34c91dd83af8287f7caa6de5b5afb924069578a6f16f8804532f0328a1b9af29",
+          "native_image_dimensions": [
+            5696,
+            1344
+          ],
+          "status": "Explicitly uncertain small-heading boundary; no canonical sign proposal."
+        }
+      ],
+      "reason": "Independent reader cannot securely distinguish the small heading terminal stroke from its final-letter structure; coordinator does not promote that stroke to a certified mark. Available source is not declared unreadable.",
+      "next_step": "During C1-BASE-PHYSICAL, inspect the full PDF97 row1 heading plus this exact boundary; distinguish final pa structure from detached shads and encode every verified heading mark separately from the PDF96 main text.",
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01.json"
+    }
+  ],
+  "integration_checks": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-integration-checks.json",
+  "chapter_markdown_sha256": "370cb93657e13f3dd854494fbdad37ebf0854c3f8ff100f90d3c19933785dc70",
+  "final_mechanical_recheck": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-final-mechanical-recheck.json",
+  "validation_reports": {
+    "first_validation": "C1-SIGNS-01-validation-attempt1.txt",
+    "final_validation": "C1-SIGNS-01-validation-final.json",
+    "final_build_reproducibility": "C1-SIGNS-01-build-final-check.json",
+    "mechanical_source_and_integration_checks": "C1-SIGNS-01-final-mechanical-recheck.json"
+  }
 }
