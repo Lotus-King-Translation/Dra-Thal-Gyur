@@ -413,6 +413,82 @@
       ],
       "sha256": "32c7cba88b5ffc5daa31ffb595f6d5c4820586e7eaad3da81b9ccbe9c4cd0001",
       "derivation": "Exact unscaled overlapping native column; next bounded source packet only"
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/U01286-row4-source-context.png",
+      "pdf_page": 51,
+      "bdrc_image": 53,
+      "source_member": "0053.png",
+      "source_member_sha256": "f2ff0100922a5bc5420adbcb82a14d267df3d0dda113543d9abbff002ce5f6a2",
+      "native_bounds": [
+        3770,
+        595,
+        5230,
+        850
+      ],
+      "crop_dimensions": [
+        1460,
+        255
+      ],
+      "sha256": "89be22e71fbb6f8d3a932625517c37c9ad7e785f76b12166df45db25709e1fae",
+      "derivation": "Exact unscaled rectangular crop of the byte-verified native member; no enhancement or resampling"
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/U01286-annotation-native.png",
+      "pdf_page": 51,
+      "bdrc_image": 53,
+      "source_member": "0053.png",
+      "source_member_sha256": "f2ff0100922a5bc5420adbcb82a14d267df3d0dda113543d9abbff002ce5f6a2",
+      "native_bounds": [
+        4550,
+        625,
+        5170,
+        845
+      ],
+      "crop_dimensions": [
+        620,
+        220
+      ],
+      "sha256": "f3442a06832f0b740a4c0d860bb8e0ba40fdc3e1678abeea352c7ab34680b55d",
+      "derivation": "Exact unscaled rectangular crop of the byte-verified native member; no enhancement or resampling"
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/U01286-row5-main-context.png",
+      "pdf_page": 51,
+      "bdrc_image": 53,
+      "source_member": "0053.png",
+      "source_member_sha256": "f2ff0100922a5bc5420adbcb82a14d267df3d0dda113543d9abbff002ce5f6a2",
+      "native_bounds": [
+        740,
+        830,
+        1780,
+        1080
+      ],
+      "crop_dimensions": [
+        1040,
+        250
+      ],
+      "sha256": "e994b3880d305845740b6ae508fe708ef8cf303dcf3736915da7cef3dd454deb",
+      "derivation": "Exact unscaled rectangular crop of the byte-verified native member; no enhancement or resampling"
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/U01286-following-main-full-height.png",
+      "pdf_page": 51,
+      "bdrc_image": 53,
+      "source_member": "0053.png",
+      "source_member_sha256": "f2ff0100922a5bc5420adbcb82a14d267df3d0dda113543d9abbff002ce5f6a2",
+      "native_bounds": [
+        690,
+        755,
+        1910,
+        975
+      ],
+      "crop_dimensions": [
+        1220,
+        220
+      ],
+      "sha256": "aa7ba03017da445f2d364d29ba2686320b0bcc9d889d74e87490a6740feaf99a",
+      "derivation": "Exact unscaled native crop, widened vertically because the earlier context clipped the next line; earlier evidence retained"
     }
   ]
 }

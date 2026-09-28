@@ -1,5 +1,5 @@
 {
-  "status": "prepared_not_invoked",
+  "status": "completed_with_bounded_reading_limit",
   "baseline_commit": "1cabbf7b7b31301524d32a30b3412675e9c8fa34",
   "argv": [
     "codex",
@@ -54,5 +54,9 @@
       "role": "previously preserved reading view; original crop coordinates not newly certified"
     }
   ],
-  "source_images_modified": false
+  "source_images_modified": false,
+  "exit_code": 0,
+  "thread_id": "01a0e844-1b25-7ef2-b3d3-1c759e089111",
+  "raw_report_sha256": "21f74444128b1070e71aa65a52dede87d164984900f568e4df9040f9409d842b",
+  "no_tool_calls_in_reader_log": true
 }

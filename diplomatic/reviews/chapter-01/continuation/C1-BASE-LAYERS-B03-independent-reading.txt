@@ -1,0 +1,15 @@
+{
+  "task_id": "C1-BASE-LAYERS-B03",
+  "inspected_images/rows": "Images 1–3 visually inspected; row4 right and row5 left only. Independent informed reading; no whole-page collation.",
+  "physical_locator": {"witness": "Adzom2000", "page": "PDF51/BDRC53", "annotation_native_bounds": [4600, 655, 5135, 805], "bounds_status": "Visual estimate from image1, not measured crop coordinates."},
+  "observed_before_note_after": {"before": "Large text ending ཆུ་ཡི་ཟུག་པས་ས་འདུས་ལ; punctuation assessed separately.", "note": "Smaller writing occupies the remaining right-hand space of row4.", "after": "Row5 resumes at the left with large ཟུག་པ་ཟུག་པ་འཕྲད་པ་ཡིས."},
+  "main_vs_annotation_evidence": "The intervening writing has visibly smaller letter bodies and closer spacing than both surrounding main-text passages. Its physical presentation supports a source annotation.",
+  "exact_observed_annotation": null,
+  "qualified_annotation_reading": "I can provisionally distinguish ཆུའི་ … གཉིས་ཆད. I cannot independently resolve the intervening letters sufficiently to certify the supplied electronic wording.",
+  "detached_sign_inventory_by_boundary": {"prior_main_to_note": "One independent vertical separator is distinguishable after the large main text. I cannot certify an additional note-initial sign; neighboring letter limbs must not be counted as one.", "note_to_right_frame": "Terminal strokes are insufficiently resolved to distinguish a separate shad from the final letter and nearby frame. Count unresolved.", "row_turn_to_following_main": "No independent leading shad is visibly distinguishable before row5 ཟུག.", "internal_tshegs": "Some intersyllabic dots are visible, but a complete detached-sign count is not secure at this display resolution."},
+  "terminal_tsheg": {"status": "Unresolved", "reason": "I cannot securely isolate a terminal dot from neighboring letter or frame ink."},
+  "proposed_main_reading_and_separate_annotation": {"status": "Blocked pending glyph and punctuation resolution", "supported_disposition": "Treat the smaller writing as a separate source annotation; preserve every boundary-sign candidate in the record. No absent verse is restored."},
+  "confidence_by_dimension": {"smaller_annotation_layout": "High", "location_and_row_turn": "High", "complete_annotation_transcription": "Low", "boundary_sign_count": "Low"},
+  "unread_or_uncertain_glyphs": [{"item": "Annotation medial letters", "approximate_native_bounds": [4770, 655, 4960, 800]}, {"item": "Initial boundary signs", "approximate_native_bounds": [4520, 655, 4665, 810]}, {"item": "Final letters, possible shad and terminal tsheg", "approximate_native_bounds": [4980, 655, 5150, 810]}],
+  "next_step": "Coordinator should inspect an enlarged native crop of these estimated bounds and settle the unresolved signs before changing U01286 or allocating punctuation between units."
+}
