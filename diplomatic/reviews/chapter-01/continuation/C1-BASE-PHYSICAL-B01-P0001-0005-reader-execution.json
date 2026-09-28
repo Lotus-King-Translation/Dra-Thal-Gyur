@@ -1,7 +1,7 @@
 {
   "task_id": "C1-BASE-PHYSICAL",
   "batch_id": "B01-P0001-0005",
-  "status": "prepared_not_launched",
+  "status": "completed",
   "baseline_commit": "21de152e4df880c6530c8fb9aa1dbcd9b57b1602",
   "argv": [
     "codex",
@@ -427,5 +427,17 @@
   "source_identity_not_reading_certification": true,
   "output_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B01-P0001-0005-reader-reading.txt",
   "session_log": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B01-P0001-0005-reader-session.jsonl",
-  "stderr_log": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B01-P0001-0005-reader-stderr.txt"
+  "stderr_log": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B01-P0001-0005-reader-stderr.txt",
+  "verified_dispatch_checkpoint": "bf15686a02b8f29000ebbaacdf4cfa871cc60aeb",
+  "pid": 17156,
+  "started_at": "2026-09-28T14:44:41.893423+00:00",
+  "exit_code": 0,
+  "item_types": [
+    "agent_message",
+    "error"
+  ],
+  "report_sha256": "6c559156029c86826145f961752b9166f1b0731d9a29071e2522b26d91a6f8de",
+  "session_sha256": "abdaf44978d476c7b4063f391eb433f2a047a54bde8bb09fb2952f9d236d9016",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "no_tools_used_in_reader": true
 }

@@ -10,7 +10,7 @@
     {
       "batch_id": "B01-P0001-0005",
       "task_id": "C1-BASE-PHYSICAL",
-      "status": "claimed_not_yet_read",
+      "status": "reader_finished_coordinator_integration_pending",
       "owner": "reader-base-physical-B01-20260928",
       "baseline_commit": "21de152e4df880c6530c8fb9aa1dbcd9b57b1602",
       "scope": "Full physical accounting of Adzom PDF1-5, reusing preserved local readings",
@@ -415,7 +415,1101 @@
         }
       ],
       "next_physical_span": "Full physical accounting of Adzom PDF1-5, reusing preserved local readings",
-      "source_identity_only": "Prepared hashes and lossless crops are not a scholarly comparison claim."
+      "source_identity_only": "Source metadata validates attachment identity; actual reading limits are in the raw reader report.",
+      "raw_reader_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B01-P0001-0005-reader-reading.txt",
+        "sha256": "6c559156029c86826145f961752b9166f1b0731d9a29071e2522b26d91a6f8de"
+      },
+      "reader_findings": {
+        "task_id": "C1-BASE-PHYSICAL",
+        "batch_id": "B01-P0001-0005",
+        "reader_scope": {
+          "method": "Direct visual examination of the 20 supplied images; no tools or external files used.",
+          "status": "Partial physical proofreading, with all five pages surveyed and selected punctuation boundaries examined.",
+          "checked_dimensions": [
+            "Text-block arrangement",
+            "Physical row sequence and continuation fragments",
+            "Selected detached punctuation",
+            "Visible row-end filler marks",
+            "Heading placement",
+            "Title and caption region placement",
+            "Frames, ornaments and marginal inscription locations"
+          ],
+          "not_certified": [
+            "Wholesale lexical agreement",
+            "Every terminal tsheg",
+            "Every U boundary",
+            "Foreign-script title transcription",
+            "Complete portrait caption",
+            "Exact marginal foliation readings"
+          ],
+          "coordinate_convention": "Approximate native-page bounds [left, top, right, bottom]; location estimates, not pixel measurements.",
+          "legend": {
+            "D2": "Two visibly separate shad-shaped strokes at a unit boundary; intervening physical space is not encoded.",
+            "S1_RD2": "One stroke immediately following text, with a separate right-aligned pair farther away; lexical assignment of the remote pair remains open.",
+            "F2": "Two short upper-level row-end marks, distinct from a full-height shad; provisionally classified as filler.",
+            "FM": "Multiple short upper-level row-end marks; precise count or classification unresolved.",
+            "OPEN": "Anchor continues beyond the examined physical endpoint; no terminal punctuation assigned."
+          },
+          "boundary_record_format": [
+            "anchor",
+            "physical_row",
+            "legend_code",
+            "terminal_tsheg_status"
+          ],
+          "boundary_scope_rule": "Only boundaries explicitly inventoried below receive a new punctuation assessment. Row alignment alone does not certify punctuation or all intervening letters.",
+          "hash_scope": "Coordinator-supplied image identity is accepted as attachment metadata; hashes provide no reading certification."
+        },
+        "pages": [
+          {
+            "pdf_page": 1,
+            "images": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "row_region_ledger": [
+              {
+                "region": "P1.T1",
+                "position": "Upper title row",
+                "observed": "Large, densely stacked foreign-script lettering with separate signs at both ends.",
+                "first_fragment": null,
+                "last_fragment": null,
+                "anchors": [],
+                "scope": "Arrangement inspected; lettering not transcribed."
+              },
+              {
+                "region": "P1.T2",
+                "position": "Middle title row",
+                "first_fragment": null,
+                "last_fragment": null,
+                "anchors": [
+                  "U00001",
+                  "U00002"
+                ],
+                "scope": "Tibetan-script foreign-language title located; stack sequence remains unresolved."
+              },
+              {
+                "region": "P1.T3",
+                "position": "Lower title row",
+                "first_fragment": "རིན་པོ་ཆེ་",
+                "last_fragment": "བཞུགས།",
+                "anchors": [
+                  "U00003",
+                  "U00004"
+                ],
+                "scope": "Opening and terminal fragments inspected; no renewed whole-title lexical certification."
+              }
+            ],
+            "source_sequence": [
+              "Untranscribed upper title row",
+              "U00001 ornament and U00002 title",
+              "U00003 ornament and U00004 Tibetan title"
+            ],
+            "boundary_inventory": [
+              [
+                "U00004",
+                "P1.T3",
+                "S1_RD2",
+                "No terminal tsheg resolved between final ས and the adjacent stroke."
+              ]
+            ],
+            "source_layers": [
+              {
+                "position": "Upper title row",
+                "classification": "Source title in foreign script",
+                "observed_text": null,
+                "bounded_uncertainty": "Entire lettering sequence",
+                "already_represented": "No separate transcription identifiable in supplied reference."
+              },
+              {
+                "position": "Left ends of middle and lower title rows",
+                "classification": "Opening ornaments",
+                "observed_text": null,
+                "bounded_uncertainty": "Exact Unicode representation",
+                "already_represented": "U00001 and U00003 are candidate representations; exact equivalence not certified."
+              },
+              {
+                "position": "Far right of middle and lower rows",
+                "classification": "Detached terminal sign groups",
+                "observed_text": "A separate pair of vertical strokes on each row.",
+                "already_represented": "Relationship to reference punctuation unresolved."
+              },
+              {
+                "position": "Above upper outer frame, near horizontal centre",
+                "classification": "Framed marginal character",
+                "observed_text": null,
+                "bounded_uncertainty": "Single character inside a small peaked enclosure",
+                "already_represented": "Not identifiable in supplied reference."
+              },
+              {
+                "position": "Left strip between outer and inner frames",
+                "classification": "Marginal inscription",
+                "observed_text": null,
+                "bounded_uncertainty": "Rotated inscription, including abraded lower portion",
+                "already_represented": "Not identifiable in supplied reference."
+              },
+              {
+                "position": "Around title block",
+                "classification": "Frames and end panels",
+                "observed_text": null,
+                "already_represented": "Non-textual layout; not represented by supplied U readings."
+              },
+              {
+                "position": "Far-left external white margin",
+                "classification": "External numeric stamp",
+                "observed_text": null,
+                "already_represented": "Not root text."
+              }
+            ],
+            "reuse_references": [],
+            "unexamined_or_uncertain_regions": [
+              "Foreign title lettering and stacks",
+              "Exact middle-title transcription",
+              "Marginal inscription and enclosed character",
+              "Assignment of remote right-hand stroke pairs",
+              "Whole-title lexical comparison"
+            ]
+          },
+          {
+            "pdf_page": 2,
+            "images": [
+              5,
+              6,
+              7,
+              8
+            ],
+            "row_region_ledger": [
+              {
+                "row": "P2.R1",
+                "left_segment": {
+                  "first_fragment": null,
+                  "last_fragment": "རྒྱ་གར་སྐད་དུ",
+                  "anchors": [
+                    "U00005"
+                  ]
+                },
+                "right_segment": {
+                  "first_fragment": null,
+                  "last_fragment": "བོད་སྐད་དུ",
+                  "anchors": [
+                    "U00006",
+                    "U00007"
+                  ]
+                },
+                "scope": "Language-label positions inspected; foreign sequences unresolved."
+              },
+              {
+                "row": "P2.R2",
+                "left_segment": {
+                  "first_fragment": "རིན་པོ་ཆེ་",
+                  "last_fragment": "ཆེན",
+                  "anchors": [
+                    "U00008"
+                  ]
+                },
+                "right_segment": {
+                  "first_fragment": "པོའི་རྒྱུད་",
+                  "last_fragment": "ཆེན",
+                  "anchors": [
+                    "U00008",
+                    "U00009"
+                  ]
+                },
+                "scope": "Segment endpoints and cross-portrait continuation inspected."
+              },
+              {
+                "row": "P2.R3",
+                "left_segment": {
+                  "first_fragment": "པོ་མཆོག་གི་",
+                  "last_fragment": "བཟང་པོ་ལ",
+                  "anchors": [
+                    "U00009",
+                    "U00010"
+                  ]
+                },
+                "right_segment": {
+                  "first_fragment": "ཕྱག་འཚལ་ལོ",
+                  "last_fragment": "དུས",
+                  "anchors": [
+                    "U00010",
+                    "U00012"
+                  ]
+                },
+                "scope": "Segment endpoints and intervening unit disposition inspected."
+              },
+              {
+                "row": "P2.R4",
+                "left_segment": {
+                  "first_fragment": "གཅིག་ན",
+                  "last_fragment": "ཐོག་མར་ནི",
+                  "anchors": [
+                    "U00012",
+                    "U00013"
+                  ]
+                },
+                "right_segment": {
+                  "first_fragment": "རང་བྱུང་",
+                  "last_fragment": null,
+                  "anchors": [
+                    "U00014",
+                    "U00011"
+                  ]
+                },
+                "scope": "Left endpoints inspected; right root-text ending unresolved. Smaller heading occupies right-hand remainder."
+              }
+            ],
+            "source_sequence": [
+              "U00005",
+              "U00006",
+              "U00007",
+              "U00008 across R2 left/right",
+              "U00009 across R2 right/R3 left",
+              "U00010 across R3 left/right",
+              "U00012 across R3 right/R4 left",
+              "U00013",
+              "U00014 begins at R4 right",
+              "U00011 appears in smaller script at R4 right; it does not precede U00012 physically"
+            ],
+            "boundary_inventory": [],
+            "source_layers": [
+              {
+                "position": "Left segment of first row",
+                "classification": "Foreign formula and language heading",
+                "observed_text": "རྒྱ་གར་སྐད་དུ",
+                "bounded_uncertainty": "Preceding foreign formula and its punctuation",
+                "already_represented": "U00005, provisionally."
+              },
+              {
+                "position": "Right segment of first row",
+                "classification": "Foreign title followed by language heading",
+                "observed_text": "བོད་སྐད་དུ",
+                "bounded_uncertainty": "U00006 foreign stacks and terminal punctuation",
+                "already_represented": "U00006–U00007."
+              },
+              {
+                "position": "R4, smaller script in right text panel",
+                "classification": "Source heading",
+                "observed_text": "ཐུན་མོང་མ་ཡིན་པའི་གླེང་གཞི་བཀོད་པ",
+                "bounded_uncertainty": "Terminal punctuation",
+                "already_represented": "U00011; electronic placement differs from physical placement."
+              },
+              {
+                "position": "Central framed panel",
+                "classification": "Portrait and decorative surround",
+                "observed_text": null,
+                "already_represented": "Not represented in root text; no identity assigned."
+              },
+              {
+                "position": "Narrow band beneath central portrait, extending beyond panel",
+                "classification": "Source caption",
+                "observed_text": null,
+                "bounded_uncertainty": "Whole caption requires another glyph-level reading; supplied provisional wording is not independently confirmed here.",
+                "already_represented": "A2000-C01-S08 provisionally represents this region."
+              },
+              {
+                "position": "Beginning of first left row and beginning of caption band",
+                "classification": "Opening ornaments",
+                "observed_text": null,
+                "already_represented": "Exact encoding not checked."
+              },
+              {
+                "position": "Left exterior strip and surrounding ruled panels",
+                "classification": "Marginal inscription, frames and blank end panels",
+                "observed_text": null,
+                "bounded_uncertainty": "Marginal lettering",
+                "already_represented": "Not identifiable in supplied U reference."
+              }
+            ],
+            "reuse_references": [],
+            "unexamined_or_uncertain_regions": [
+              "All terminal punctuation boundaries on this page",
+              "U00005–U00006 foreign sequences",
+              "Exact U00014 fragment at R4 right",
+              "Portrait caption lettering",
+              "Marginal inscription",
+              "Exact ornament encoding"
+            ]
+          },
+          {
+            "pdf_page": 3,
+            "images": [
+              9,
+              10,
+              11,
+              12
+            ],
+            "row_region_ledger": [
+              {
+                "row": "P3.R1",
+                "first_fragment": null,
+                "last_fragment": "དབུས་སུ་རླུང་སེམས་རྒྱུ",
+                "anchors": [
+                  "U00014 continuation",
+                  "U00015",
+                  "U00016",
+                  "U00017 opening"
+                ],
+                "scope": "Row sequence and right endpoint inspected; short opening continuation unresolved."
+              },
+              {
+                "row": "P3.R2",
+                "first_fragment": "དང་རྐྱེན",
+                "last_fragment": "འཁྲུལ་པ་ཡོངས",
+                "anchors": [
+                  "U00017 completion",
+                  "U00018",
+                  "U00019",
+                  "U00020 opening"
+                ],
+                "scope": "Both endpoints and row-end marks inspected."
+              },
+              {
+                "row": "P3.R3",
+                "first_fragment": "སུ་དག་པ་ལ",
+                "last_fragment": "མི་ཕྱེད་སྣ་ཚོགས",
+                "anchors": [
+                  "U00020 completion",
+                  "U00021",
+                  "U00022",
+                  "U00023 opening"
+                ],
+                "scope": "Both endpoints and row-end marks inspected."
+              },
+              {
+                "row": "P3.R4",
+                "first_fragment": "དམིགས་མེད་པས",
+                "last_fragment": "འདས་དང",
+                "anchors": [
+                  "U00023 completion",
+                  "U00024",
+                  "U00025",
+                  "U00026 opening"
+                ],
+                "scope": "Both endpoints and outgoing page continuation inspected."
+              }
+            ],
+            "source_sequence": [
+              "U00014 completion, exact fragment unresolved",
+              "U00015",
+              "U00016",
+              "U00017 across R1/R2",
+              "U00018",
+              "U00019",
+              "U00020 across R2/R3",
+              "U00021",
+              "U00022",
+              "U00023 across R3/R4",
+              "U00024",
+              "U00025",
+              "U00026 begins at R4 and continues on PDF4"
+            ],
+            "boundary_inventory": [
+              [
+                "U00015",
+                "P3.R1",
+                "D2",
+                "No terminal tsheg resolved."
+              ],
+              [
+                "U00016",
+                "P3.R1",
+                "D2",
+                "No terminal tsheg resolved."
+              ]
+            ],
+            "source_layers": [
+              {
+                "position": "R1 left",
+                "classification": "Opening ornament",
+                "observed_text": null,
+                "already_represented": "No separate matching slot established."
+              },
+              {
+                "position": "Right end of R1",
+                "classification": "Possible row filler",
+                "observed_text": null,
+                "bounded_uncertainty": "Multiple short marks after རྒྱུ; precise count unresolved.",
+                "already_represented": "Not separately represented in U00017."
+              },
+              {
+                "position": "Right end of R2",
+                "classification": "Provisional row filler",
+                "observed_text": null,
+                "bounded_uncertainty": "Short upper-level marks following ཡོངས.",
+                "already_represented": "Not separately represented in U00020."
+              },
+              {
+                "position": "Right end of R3",
+                "classification": "Provisional row filler",
+                "observed_text": null,
+                "bounded_uncertainty": "Short upper-level marks following ཚོགས.",
+                "already_represented": "Not separately represented in U00023."
+              },
+              {
+                "position": "Left marginal strip",
+                "classification": "Foliation/sign and rotated inscription",
+                "observed_text": null,
+                "bounded_uncertainty": "Exact characters",
+                "already_represented": "Not identifiable in supplied reference."
+              },
+              {
+                "position": "Outer and inner perimeter, with blank end panels",
+                "classification": "Frames",
+                "observed_text": null,
+                "already_represented": "Non-textual."
+              }
+            ],
+            "reuse_references": [],
+            "unexamined_or_uncertain_regions": [
+              "U00014 incoming continuation",
+              "Boundary punctuation other than U00015 and U00016",
+              "Terminal tshegs",
+              "Precise row-filler counts",
+              "Marginal readings"
+            ]
+          },
+          {
+            "pdf_page": 4,
+            "images": [
+              13,
+              14,
+              15,
+              16
+            ],
+            "row_region_ledger": [
+              {
+                "row": "P4.R1",
+                "first_fragment": "མ་འོངས་ད་ལྟར་མེད",
+                "last_fragment": "དགའ་དང་ལྡན་པ",
+                "anchors": [
+                  "U00026 completion",
+                  "U00027",
+                  "U00028",
+                  "U00030",
+                  "U00031 opening"
+                ],
+                "scope": "Endpoints, unit order and selected boundaries inspected."
+              },
+              {
+                "row": "P4.R2",
+                "first_fragment": "བསོད་ནམས་བརྩེགས",
+                "last_fragment": "ཤ་ཁྲག",
+                "anchors": [
+                  "U00031 completion",
+                  "U00032",
+                  "U00033",
+                  "U00034",
+                  "U00035 opening"
+                ],
+                "scope": "Endpoints and smaller inserted heading located; no renewed U00035 terminal assessment."
+              },
+              {
+                "row": "P4.R3",
+                "first_fragment": "བཀོད་པའི་གཟུགས་མེད་པའི",
+                "last_fragment": "སྟོང་དང་ལྡན",
+                "anchors": [
+                  "U00035 completion",
+                  "U00036",
+                  "U00037",
+                  "U00038",
+                  "U00039 opening"
+                ],
+                "scope": "Endpoints and continuation positions inspected."
+              },
+              {
+                "row": "P4.R4",
+                "first_fragment": "པ་དབུས་མའི་གནས",
+                "last_fragment": "སྟོན་པ",
+                "anchors": [
+                  "U00039 completion",
+                  "U00040",
+                  "U00041",
+                  "U00042",
+                  "U00043 opening"
+                ],
+                "scope": "Endpoints, U00041 boundary and outgoing filler inspected."
+              },
+              {
+                "row": "P4.R5",
+                "first_fragment": "སངས་རྒྱས་བཅོམ་ལྡན་འདས",
+                "last_fragment": "སྣང་བའི་འོད་ནི་བསམ་མི",
+                "anchors": [
+                  "U00043 completion",
+                  "U00044",
+                  "U00045",
+                  "U00046 opening"
+                ],
+                "scope": "Endpoints, U00043 boundary and outgoing filler inspected."
+              },
+              {
+                "row": "P4.R6",
+                "first_fragment": "ཁྱབ",
+                "last_fragment": "ཁ་དོག",
+                "anchors": [
+                  "U00046 completion",
+                  "U00047",
+                  "U00048",
+                  "U00049",
+                  "U00050",
+                  "U00051 opening"
+                ],
+                "scope": "Endpoints and outgoing page continuation inspected."
+              }
+            ],
+            "source_sequence": [
+              "U00026 completion",
+              "U00027",
+              "U00028",
+              "U00030",
+              "U00031 across R1/R2",
+              "U00032",
+              "U00033",
+              "U00029 smaller heading in R2",
+              "U00034",
+              "U00035 across R2/R3",
+              "U00036",
+              "U00037",
+              "U00038",
+              "U00039 across R3/R4",
+              "U00040",
+              "U00041",
+              "U00042",
+              "U00043 across R4/R5",
+              "U00044",
+              "U00045",
+              "U00046 across R5/R6",
+              "U00047",
+              "U00048",
+              "U00049",
+              "U00050",
+              "U00051 begins at R6"
+            ],
+            "boundary_inventory": [
+              [
+                "U00028",
+                "P4.R1",
+                "D2",
+                "No terminal tsheg resolved."
+              ],
+              [
+                "U00041",
+                "P4.R4",
+                "D2",
+                "No terminal tsheg resolved."
+              ],
+              [
+                "U00043",
+                "P4.R5",
+                "D2",
+                "No terminal tsheg resolved."
+              ],
+              [
+                "U00046",
+                "P4.R6",
+                "D2",
+                "No terminal tsheg resolved."
+              ]
+            ],
+            "source_layers": [
+              {
+                "position": "R2, smaller script between the main-text portions associated with U00033 and U00034",
+                "classification": "Source heading",
+                "observed_text": "ཐུན་མོང་གི་གླེང་གཞི་བཀོད་པ",
+                "bounded_uncertainty": "Terminal punctuation",
+                "already_represented": "U00029; physical placement is later than its electronic position before U00030."
+              },
+              {
+                "position": "Right end of R4 after སྟོན་པ",
+                "classification": "Provisional row filler",
+                "observed_text": null,
+                "bounded_uncertainty": "Two short upper-level marks; not transcribed as shads.",
+                "already_represented": "Not separately represented in U00043."
+              },
+              {
+                "position": "Right end of R5 after མི",
+                "classification": "Provisional row filler",
+                "observed_text": null,
+                "bounded_uncertainty": "Two short upper-level marks; not transcribed as shads.",
+                "already_represented": "Not separately represented in U00046."
+              },
+              {
+                "position": "Left marginal strip",
+                "classification": "Rotated marginal inscription",
+                "observed_text": null,
+                "bounded_uncertainty": "Exact lettering",
+                "already_represented": "Not identifiable in supplied reference."
+              },
+              {
+                "position": "Perimeter and right blank strip",
+                "classification": "Frame",
+                "observed_text": null,
+                "already_represented": "Non-textual."
+              }
+            ],
+            "reuse_references": [
+              {
+                "anchors": [
+                  "U00030",
+                  "U00035"
+                ],
+                "status": "Accepted terminal records acknowledged but not counted as newly reviewed or precisely reused.",
+                "reason": "Their exact local record identifiers and coverage were not supplied. No new contrary terminal finding is asserted."
+              }
+            ],
+            "unexamined_or_uncertain_regions": [
+              "All boundaries other than the four explicitly inventoried",
+              "Heading terminal punctuation",
+              "Terminal tshegs generally",
+              "Marginal lettering",
+              "Exact encoding of filler marks"
+            ]
+          },
+          {
+            "pdf_page": 5,
+            "images": [
+              17,
+              18,
+              19,
+              20
+            ],
+            "row_region_ledger": [
+              {
+                "row": "P5.R1",
+                "first_fragment": "དཀར་ཞིང་",
+                "last_fragment": "མངོན་པར་རྒྱུ",
+                "anchors": [
+                  "U00051 completion",
+                  "U00052",
+                  "U00053",
+                  "U00054",
+                  "U00055 opening"
+                ],
+                "scope": "Endpoints and U00052–U00054 detached strokes inspected."
+              },
+              {
+                "row": "P5.R2",
+                "first_fragment": "བ་རྣམ་གཉིས་བྲལ",
+                "last_fragment": "བར་སྣང་དག་ལ་གནས",
+                "anchors": [
+                  "U00055 completion",
+                  "U00056",
+                  "U00057",
+                  "U00058",
+                  "U00059 opening"
+                ],
+                "scope": "Endpoints and continuation positions inspected."
+              },
+              {
+                "row": "P5.R3",
+                "first_fragment": "བཅས་ནས",
+                "last_fragment": "བར་སྣང་ཉིད་ལས་གཞན",
+                "anchors": [
+                  "U00059 completion",
+                  "U00060",
+                  "U00061",
+                  "U00062",
+                  "U00063 opening"
+                ],
+                "scope": "Endpoints inspected; interior lexical reading not recertified."
+              },
+              {
+                "row": "P5.R4",
+                "first_fragment": "ཅི་མིན",
+                "last_fragment": "མཛེས་ཞིང་ལྡེམ་བག་ལྡན་པ་ལ",
+                "anchors": [
+                  "U00063 completion",
+                  "U00064",
+                  "U00065",
+                  "U00066",
+                  "U00067"
+                ],
+                "scope": "Endpoints and U00067 terminal pair inspected."
+              },
+              {
+                "row": "P5.R5",
+                "first_fragment": "བག་ཡངས་",
+                "last_fragment": "གཟུགས་མེད་ལས་ཀྱི་འགྱུར་བྱེད་ལྟར",
+                "anchors": [
+                  "U00068",
+                  "U00069",
+                  "U00070",
+                  "U00071"
+                ],
+                "scope": "Endpoints and U00071 terminal pair inspected."
+              },
+              {
+                "row": "P5.R6",
+                "first_fragment": "ཁམས་དང་",
+                "last_fragment": "སངས",
+                "anchors": [
+                  "U00072",
+                  "U00073",
+                  "U00074",
+                  "U00075",
+                  "U00076 opening"
+                ],
+                "scope": "Endpoints, U00075 boundary and unfinished final anchor inspected."
+              }
+            ],
+            "source_sequence": [
+              "U00051 completion",
+              "U00052",
+              "U00053",
+              "U00054",
+              "U00055 across R1/R2",
+              "U00056",
+              "U00057",
+              "U00058",
+              "U00059 across R2/R3",
+              "U00060",
+              "U00061",
+              "U00062",
+              "U00063 across R3/R4",
+              "U00064",
+              "U00065",
+              "U00066",
+              "U00067",
+              "U00068",
+              "U00069",
+              "U00070",
+              "U00071",
+              "U00072",
+              "U00073",
+              "U00074",
+              "U00075",
+              "U00076 opening only"
+            ],
+            "boundary_inventory": [
+              [
+                "U00052",
+                "P5.R1",
+                "D2",
+                "No terminal tsheg resolved."
+              ],
+              [
+                "U00053",
+                "P5.R1",
+                "D2",
+                "No terminal tsheg resolved."
+              ],
+              [
+                "U00054",
+                "P5.R1",
+                "D2",
+                "No terminal tsheg resolved."
+              ],
+              [
+                "U00067",
+                "P5.R4",
+                "D2",
+                "No terminal tsheg resolved."
+              ],
+              [
+                "U00071",
+                "P5.R5",
+                "D2",
+                "No terminal tsheg resolved."
+              ],
+              [
+                "U00075",
+                "P5.R6",
+                "D2",
+                "No terminal tsheg resolved."
+              ],
+              [
+                "U00076",
+                "P5.R6",
+                "OPEN",
+                "Upper-level mark after visible སངས remains unassigned; no anchor-terminal assessment."
+              ]
+            ],
+            "source_layers": [
+              {
+                "position": "R1 left, before text",
+                "classification": "Opening ornament and detached horizontal trace",
+                "observed_text": null,
+                "bounded_uncertainty": "Horizontal trace may be filler or incidental; not assigned as lexical punctuation.",
+                "already_represented": "Not separately identifiable in supplied reference."
+              },
+              {
+                "position": "Left margin, above and beside rotated inscription",
+                "classification": "Foliation/sign and marginal inscription",
+                "observed_text": null,
+                "bounded_uncertainty": "Exact characters",
+                "already_represented": "Not identifiable in supplied reference."
+              },
+              {
+                "position": "Right end of R6",
+                "classification": "Unfinished root-text anchor with adjacent small mark",
+                "observed_text": "སངས",
+                "bounded_uncertainty": "Adjacent mark classification; following letters lie outside supplied batch.",
+                "already_represented": "Opening of U00076 only."
+              },
+              {
+                "position": "Perimeter and narrow right panel",
+                "classification": "Frame",
+                "observed_text": null,
+                "already_represented": "Non-textual."
+              }
+            ],
+            "reuse_references": [],
+            "unexamined_or_uncertain_regions": [
+              "All boundaries not explicitly inventoried",
+              "Fine terminal-tsheg decisions",
+              "Marginal readings",
+              "U00076 continuation and terminal punctuation"
+            ]
+          }
+        ],
+        "observations": [
+          {
+            "id": "B01-PHYS-001",
+            "anchors": [
+              "U00004"
+            ],
+            "category": "Detached punctuation inventory",
+            "exact_supported_reading": "བཞུགས།",
+            "physical_locator": {
+              "page": 1,
+              "region": "P1.T3 right end",
+              "approx_native_bounds": [
+                3520,
+                710,
+                3950,
+                885
+              ]
+            },
+            "before": "U00004 ends བཞུགས།",
+            "observed": "An adjacent stroke follows བཞུགས; a farther-right pair of vertical strokes is also visible.",
+            "rationale": "The remote pair must be inventoried separately before deciding whether it belongs to title punctuation or a repeated terminal ornament.",
+            "confidence": "High for spatial separation; unresolved for editorial assignment."
+          },
+          {
+            "id": "B01-PHYS-002",
+            "anchors": [
+              "U00011",
+              "U00012",
+              "U00014"
+            ],
+            "category": "Heading placement",
+            "exact_supported_reading": "ཐུན་མོང་མ་ཡིན་པའི་གླེང་གཞི་བཀོད་པ",
+            "physical_locator": {
+              "page": 2,
+              "region": "R4 right, smaller script",
+              "approx_native_bounds": [
+                3520,
+                765,
+                4600,
+                915
+              ]
+            },
+            "before": "Electronic order places U00011 before U00012.",
+            "observed": "The smaller heading is physically beside the later R4 material; U00012 has already begun on R3.",
+            "rationale": "Source heading placement and electronic reading order require separate records.",
+            "confidence": "High for placement; terminal punctuation not assessed."
+          },
+          {
+            "id": "B01-PHYS-003",
+            "anchors": [
+              "A2000-C01-S08"
+            ],
+            "category": "Caption uncertainty retained",
+            "exact_supported_reading": null,
+            "physical_locator": {
+              "page": 2,
+              "region": "Caption band beneath portrait",
+              "approx_native_bounds": [
+                1940,
+                950,
+                3400,
+                1055
+              ]
+            },
+            "before": [
+              "བརྒྱུད་པ་ཀུན་གྱི་ཐོག་མའི་གཞི།",
+              "སྟོན་པ་ཀུན་ཏུ་བཟང་པོ་ལ་འདུད།།"
+            ],
+            "observed": "A continuous narrow caption band with opening ornament and terminal strokes is visible. This inspection does not establish the supplied two textual strings.",
+            "rationale": "The small and abraded lettering cannot be promoted to agreement from the provisional reference. Portrait identity was not inferred.",
+            "confidence": "High for caption presence and location; unresolved for complete wording."
+          },
+          {
+            "id": "B01-PHYS-004",
+            "anchors": [
+              "U00017",
+              "U00020",
+              "U00023"
+            ],
+            "category": "Row-end marks",
+            "exact_supported_readings": [
+              {
+                "row": "P3.R1",
+                "outgoing": "རྒྱུ",
+                "incoming": "དང་རྐྱེན"
+              },
+              {
+                "row": "P3.R2",
+                "outgoing": "ཡོངས",
+                "incoming": "སུ་དག་པ་ལ"
+              },
+              {
+                "row": "P3.R3",
+                "outgoing": "ཚོགས",
+                "incoming": "དམིགས་མེད་པས"
+              }
+            ],
+            "physical_locator": {
+              "page": 3,
+              "region": "Right ends of R1–R3",
+              "approx_native_bounds": [
+                4330,
+                445,
+                4500,
+                785
+              ]
+            },
+            "before": "Continuous U readings without physical row-filler records.",
+            "observed": "Short upper-level marks occur at the outgoing ends; the corresponding anchors continue on the next row.",
+            "rationale": "These marks are not full-height terminal shads. Their count and exact encoding remain open.",
+            "confidence": "High for continuation and mark presence; medium for filler classification."
+          },
+          {
+            "id": "B01-PHYS-005",
+            "anchors": [
+              "U00029",
+              "U00030",
+              "U00033",
+              "U00034"
+            ],
+            "category": "Heading placement",
+            "exact_supported_reading": "ཐུན་མོང་གི་གླེང་གཞི་བཀོད་པ",
+            "physical_locator": {
+              "page": 4,
+              "region": "Smaller insertion in R2",
+              "approx_native_bounds": [
+                3380,
+                465,
+                3830,
+                580
+              ]
+            },
+            "before": "Electronic order places U00029 before U00030.",
+            "observed": "U00030 is on R1. The smaller heading is embedded spatially in R2 between the U00033 and U00034 portions.",
+            "rationale": "The heading belongs to a separate source layer and must not be merged into the root verse sequence.",
+            "confidence": "High for placement; terminal punctuation unresolved."
+          },
+          {
+            "id": "B01-PHYS-006",
+            "anchors": [
+              "U00043",
+              "U00046"
+            ],
+            "category": "Row-filler inventory",
+            "exact_supported_readings": [
+              {
+                "anchor": "U00043",
+                "outgoing": "སྟོན་པ",
+                "incoming": "སངས་རྒྱས"
+              },
+              {
+                "anchor": "U00046",
+                "outgoing": "མི",
+                "incoming": "ཁྱབ"
+              }
+            ],
+            "physical_locator": {
+              "page": 4,
+              "region": "Right ends of R4 and R5",
+              "approx_native_bounds": [
+                4720,
+                710,
+                5080,
+                900
+              ]
+            },
+            "before": [
+              "སྟོན་པ་སངས་རྒྱས",
+              "བསམ་མི་ཁྱབ"
+            ],
+            "observed": "Each outgoing row has two short upper-level marks after its text fragment; the words continue on the following row.",
+            "rationale": "Record these marks as provisional physical fillers, without inserting lexical shads or changing the wording.",
+            "confidence": "High for two short marks and continuation; medium for functional classification."
+          },
+          {
+            "id": "B01-PHYS-007",
+            "anchors": [
+              "U00076"
+            ],
+            "category": "Batch-end continuation",
+            "exact_supported_reading": "སངས",
+            "physical_locator": {
+              "page": 5,
+              "region": "R6 far right",
+              "approx_native_bounds": [
+                4780,
+                915,
+                5090,
+                1050
+              ]
+            },
+            "before": "སངས་རྒྱས་རྣམས་ཀྱི་གཟུགས་སྐུའོ། །",
+            "observed": "Only the opening སངས is supported at this batch endpoint; an adjacent small upper-level mark remains unassigned.",
+            "rationale": "The supplied complete electronic unit cannot supply unseen continuation letters or terminal signs.",
+            "confidence": "High for the visible opening and unfinished status."
+          }
+        ],
+        "remaining_spans": [
+          {
+            "scope": "PDF1",
+            "required": "Resolve foreign-title lettering, marginal characters, opening ornaments and the assignment of remote terminal pairs."
+          },
+          {
+            "scope": "PDF2",
+            "required": "Read caption glyph by glyph, resolve foreign sequences and U00014 outgoing fragment, and inventory every unit boundary."
+          },
+          {
+            "scope": "PDF3",
+            "required": "Resolve U00014 incoming fragment; inventory remaining boundaries and exact filler forms."
+          },
+          {
+            "scope": "PDF4",
+            "required": "Inventory remaining boundaries and heading punctuation; attach exact preserved U00030/U00035 terminal-record references before counting their coverage."
+          },
+          {
+            "scope": "PDF5",
+            "required": "Inventory remaining boundaries, especially ambiguous terminal tshegs; resolve the mark beside the opening of U00076."
+          },
+          {
+            "scope": "All five pages",
+            "required": "Complete marginal inscriptions and foliation readings. No unlisted boundary is certified by this report."
+          }
+        ],
+        "next_physical_span": {
+          "unfinished_anchor": "U00076",
+          "last_observed_location": "PDF5 R6 far right",
+          "last_supported_fragment": "སངས",
+          "continuation_to_inspect": "PDF6 opening, outside the supplied images",
+          "unseen_text_policy": "No continuation letters or terminal signs supplied.",
+          "current_batch_backlog": "Complete the explicitly listed unresolved physical spans before marking B01 fully proofread."
+        },
+        "completion_assessment": {
+          "result": "Precise partial report; batch not complete.",
+          "pages_visually_surveyed": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "new_boundary_assessments": 13,
+          "open_endpoint_records": 1,
+          "accepted_terminal_records_recertified": 0,
+          "new_lexical_corrections_asserted": 0,
+          "scope_limit": "Physical arrangement, row continuation and selected mark inventories were examined. This does not establish complete lexical or punctuation agreement for U00001–U00076."
+        }
+      }
     }
   ],
   "remaining_declared_scope": "Systematic physical signs, spacing, headings and source layers across Adzom PDF1–102, including already checked lexical passages. Thirty reviewed candidates alone cannot satisfy this task.",

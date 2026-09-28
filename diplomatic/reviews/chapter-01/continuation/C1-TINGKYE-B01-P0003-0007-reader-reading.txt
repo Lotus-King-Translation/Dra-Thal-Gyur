@@ -1,0 +1,823 @@
+{
+  "task_id": "C1-TINGKYE",
+  "batch_id": "B01-P0003-0007",
+  "source_scope": {
+    "method": "Direct visual reading of supplied images; no tools, files, OCR or external sources used.",
+    "status": "partial_comparison",
+    "completed_scope": "PDF3 rows 1–7 and PDF4 rows 1–3 traversed and compared, with bounded uncertainties below. Additional discontinuous inspection of PDF6 U00180–U00184.",
+    "coverage_limit": "No whole-page agreement claim. PDF5 and PDF7 received no lexical comparison. PDF6 received only the specified junction inspection.",
+    "coordinates": "Estimated native-pixel bounds [left, top, right, bottom]; not measured.",
+    "agreement_definition": "Listed agreements concern observed lexical readings only. They do not certify punctuation, terminal tshegs or spans separately flagged as uncertain.",
+    "governing_witness": "No observation authorizes an alteration to Adzom."
+  },
+  "sign_legend": {
+    "D": {
+      "description": "Vertically compounded boundary sign: upper oblique loop or lozenge, short medial oblique stroke or strokes, and lower rounded element. Internal stroke count is not certified. This is a graphic description, not normalization to one or two shads.",
+      "specimen": {
+        "page": 3,
+        "row": 1,
+        "after_anchor": "U00053",
+        "estimated_native_bounds": [1202, 280, 1232, 342]
+      }
+    },
+    "T": {
+      "description": "Small syllable-separating dot near the upper writing level. Its identity is distinguished from the larger vertically compounded D sign.",
+      "specimen": {
+        "page": 3,
+        "row": 1,
+        "within": "ཉོན་མོངས",
+        "estimated_native_bounds": [775, 283, 823, 327]
+      }
+    },
+    "O": {
+      "description": "Paired curling horizontal ornament at the beginning of an opening row, separate from the main wording.",
+      "specimen": {
+        "page": 4,
+        "row": 1,
+        "estimated_native_bounds": [580, 278, 677, 326]
+      }
+    },
+    "F": {
+      "description": "Long horizontal and vertical frame rules; not punctuation or letter limbs."
+    },
+    "V_UNRESOLVED": {
+      "description": "Very fine short vertical strokes whose function is unresolved; not counted as shads.",
+      "specimen": {
+        "page": 3,
+        "row": 7,
+        "between_anchors": ["U00085", "U00086"],
+        "estimated_native_bounds": [1090, 780, 1122, 816]
+      }
+    }
+  },
+  "pages": [
+    {
+      "pdf_page": 3,
+      "source_member": "0396.png",
+      "printed_number": "388",
+      "rows_actually_compared": [
+        {
+          "row": 1,
+          "extent": "entire main row, with unresolved opening glyphs",
+          "opening_fragment": null,
+          "opening_uncertainty": "The carried terminal word of U00052 is unresolved; see TK-B01-001.",
+          "first_secure_fragment": "ཉོན་མོངས་རགས་པ",
+          "closing_fragment": "དབུགས་ལ་བརྟེན་པའི",
+          "source_ordered_anchor_mapping": [
+            "U00052 terminal word only",
+            "U00053",
+            "U00054",
+            "U00055",
+            "U00056",
+            "U00057",
+            "U00058 opening through པའི"
+          ],
+          "observed_lexical_agreement": ["U00053", "U00056", "U00057"],
+          "unaligned_additions": [],
+          "observation_ids": ["TK-B01-001", "TK-B01-002", "TK-B01-003"]
+        },
+        {
+          "row": 2,
+          "extent": "entire main row",
+          "opening_fragment": "འགྲོ་འོང་ཟད",
+          "closing_fragment": "བར་སྣང་ཉིད་ལས་གཞན",
+          "source_ordered_anchor_mapping": [
+            "U00058 completion",
+            "U00059",
+            "U00060",
+            "U00061",
+            "U00062",
+            "U00063 opening through གཞན"
+          ],
+          "observed_lexical_agreement": ["U00058 across rows 1–2", "U00059", "U00060", "U00061"],
+          "unaligned_additions": [],
+          "observation_ids": ["TK-B01-004", "TK-B01-005", "TK-B01-006"]
+        },
+        {
+          "row": 3,
+          "extent": "entire main row",
+          "opening_fragment": "ཅི་ཡིན",
+          "closing_fragment": "བག་ཡངས་རྣམ་ཤེས་གུད་མེད་པར",
+          "source_ordered_anchor_mapping": [
+            "U00063 completion",
+            "U00064",
+            "U00065",
+            "U00066",
+            "U00067",
+            "U00068"
+          ],
+          "observed_lexical_agreement": ["U00064", "U00065", "U00066", "U00067", "U00068"],
+          "unaligned_additions": [],
+          "observation_ids": ["TK-B01-006"]
+        },
+        {
+          "row": 4,
+          "extent": "entire main row",
+          "opening_fragment": "བསམ་གཏན་དང་པོར་གནས་པ་བཞིན",
+          "closing_fragment": "སྟོང་དང",
+          "source_ordered_anchor_mapping": [
+            "U00069",
+            "U00070",
+            "U00071",
+            "U00072",
+            "U00073",
+            "U00074 opening སྟོང་དང"
+          ],
+          "observed_lexical_agreement": ["U00069", "U00072", "U00073"],
+          "unaligned_additions": [],
+          "observation_ids": ["TK-B01-007", "TK-B01-008"]
+        },
+        {
+          "row": 5,
+          "extent": "entire main row",
+          "opening_fragment": "རྩ་གཅིག་གཟུགས་རྣམས་ནི",
+          "closing_fragment": "ང་ནི་ལྷ་བུ་དགའ་བྱེད",
+          "source_ordered_anchor_mapping": [
+            "U00074 completion",
+            "U00075",
+            "U00076",
+            "U00077",
+            "U00078",
+            "U00079 through བྱེད"
+          ],
+          "observed_lexical_agreement": [
+            "U00074 across rows 4–5",
+            "U00075",
+            "U00076",
+            "U00077",
+            "U00078",
+            "U00079 before its row-6 terminal syllable"
+          ],
+          "unaligned_additions": [],
+          "observation_ids": ["TK-B01-009"]
+        },
+        {
+          "row": 6,
+          "extent": "entire main row, with uncertain initial syllable",
+          "opening_fragment": null,
+          "opening_uncertainty": "Terminal syllable of U00079: དེ versus སྟེ remains unresolved.",
+          "first_secure_fragment": "དབང་ཕྱུག་རྫོགས་པའི",
+          "closing_fragment": "བར",
+          "source_ordered_anchor_mapping": [
+            "U00079 terminal syllable",
+            "U00080",
+            "U00081",
+            "U00082",
+            "U00083",
+            "U00084",
+            "U00085 opening བར"
+          ],
+          "observed_lexical_agreement": ["U00080", "U00081", "U00082", "U00083", "U00084"],
+          "unaligned_additions": [],
+          "observation_ids": ["TK-B01-009"]
+        },
+        {
+          "row": 7,
+          "extent": "entire main row, with bounded suffix uncertainties",
+          "opening_fragment": "སྣང་ཉིད་ལ་གཟུགས་བཀོད",
+          "closing_fragment": "བསྟན་པ་དངོས",
+          "source_ordered_anchor_mapping": [
+            "U00085 completion",
+            "U00086",
+            "U00087",
+            "U00088",
+            "U00089"
+          ],
+          "observed_lexical_agreement": ["U00086", "U00087"],
+          "unaligned_additions": [],
+          "observation_ids": ["TK-B01-010", "TK-B01-011", "TK-B01-012", "TK-B01-013", "TK-B01-014", "TK-B01-015"]
+        }
+      ],
+      "opening_closing_physical_sequence": {
+        "opening": "Unresolved carried terminal word of U00052, D, then ཉོན་མོངས་རགས་པ.",
+        "closing": "U00089 ends visibly with བསྟན་པ་དངོས; no separate D sign confidently identified before the right frame."
+      },
+      "sign_inventory": {
+        "observed_codes": ["D", "T", "F", "V_UNRESOLVED"],
+        "boundary_list_format": ["anchor", "row", "mark_code", "terminal_tsheg_status"],
+        "boundary_list": [
+          ["U00052", 1, "D", "unresolved"],
+          ["U00053", 1, "D", "unresolved"],
+          ["U00054", 1, "D", "unresolved"],
+          ["U00055", 1, "D", "unresolved"],
+          ["U00056", 1, "D", "unresolved"],
+          ["U00057", 1, "D", "unresolved"],
+          ["U00058", 2, "D", "unresolved"],
+          ["U00059", 2, "D", "unresolved"],
+          ["U00060", 2, "D", "unresolved"],
+          ["U00061", 2, "D", "unresolved"],
+          ["U00062", 2, "D", "unresolved"],
+          ["U00063", 3, "D", "unresolved"],
+          ["U00064", 3, "D", "unresolved"],
+          ["U00065", 3, "D", "unresolved"],
+          ["U00066", 3, "D", "unresolved"],
+          ["U00067", 3, "D", "unresolved"],
+          ["U00068", 3, "D", "unresolved"],
+          ["U00069", 4, "D", "unresolved"],
+          ["U00070", 4, "D", "unresolved"],
+          ["U00071", 4, "D", "unresolved"],
+          ["U00072", 4, "D", "unresolved"],
+          ["U00073", 4, "D", "unresolved"],
+          ["U00074", 5, "D", "unresolved"],
+          ["U00075", 5, "D", "unresolved"],
+          ["U00076", 5, "D", "unresolved"],
+          ["U00077", 5, "D", "unresolved"],
+          ["U00078", 5, "D", "unresolved"],
+          ["U00079", 6, "D", "unresolved"],
+          ["U00080", 6, "D", "unresolved"],
+          ["U00081", 6, "D", "unresolved"],
+          ["U00082", 6, "D", "unresolved"],
+          ["U00083", 6, "D", "unresolved"],
+          ["U00084", 6, "D", "unresolved"],
+          ["U00085", 7, "D", "unresolved"],
+          ["U00086", 7, "D", "unresolved"],
+          ["U00087", 7, "D", "unresolved"],
+          ["U00088", 7, "D", "unresolved"],
+          ["U00089", 7, "not_identified", "unresolved"]
+        ],
+        "qualification": "Boundary-sign presence was examined; individual terminal tsheg presence was not resolved. Fine vertical traces are excluded from D and from any shad count."
+      },
+      "source_layers": {
+        "main": "Seven continuous main rows.",
+        "marginal": [
+          {
+            "readable_quote": "388",
+            "kind": "printed page number",
+            "estimated_native_bounds": [460, 284, 541, 332]
+          },
+          {
+            "readable_quote": null,
+            "kind": "vertical Tibetan marginal label",
+            "estimated_native_bounds": [444, 448, 540, 741],
+            "status": "visible but not securely transcribed"
+          }
+        ],
+        "separate_annotations": "No separate readable interlinear note identified within the compared main-row bands. The unread marginal label is not certified as an annotation or as a title.",
+        "line_fill": "No line-fill ornament securely identified on this page."
+      },
+      "explicitly_unexamined_or_uncertain_spans": [
+        "U00052 terminal word at row 1 opening.",
+        "U00062 final consonant in རྒྱུག/རྒྱུད.",
+        "U00079 terminal syllable at row 6 opening.",
+        "U00085 terminal པ/པར.",
+        "U00089 ཀྱི/ཀྱིས.",
+        "All individual terminal tsheg determinations.",
+        "Fine vertical traces in row 7 and the marginal Tibetan label."
+      ]
+    },
+    {
+      "pdf_page": 4,
+      "source_member": "0397.png",
+      "printed_number": "389",
+      "rows_actually_compared": [
+        {
+          "row": 1,
+          "extent": "entire main row, with bounded པ/བ uncertainty",
+          "opening_fragment": "རྡོ་རྗེ་བཅས་དང་སྐུ་གཟུགས་ནི",
+          "closing_fragment": "ཀུན་དང་ལྷན",
+          "source_ordered_anchor_mapping": ["U00090", "U00091", "U00092", "U00093", "U00094", "U00095 opening"],
+          "observed_lexical_agreement": ["U00090", "U00091", "U00093", "U00094"],
+          "unaligned_additions": [],
+          "observation_ids": ["TK-B01-015", "TK-B01-016"]
+        },
+        {
+          "row": 2,
+          "extent": "entire main row, with bounded uncertainties in U00099",
+          "opening_fragment": "ཅིག་མ་ཡིན་ནོ",
+          "closing_fragment": "དེས་ན་རྫོགས་ཆེན་བྱ་རྩོལ",
+          "source_ordered_anchor_mapping": ["U00095 completion", "U00096", "U00097", "U00098", "U00099", "U00100 through རྩོལ"],
+          "observed_lexical_agreement": ["U00095 across rows 1–2", "U00096"],
+          "unaligned_additions": [],
+          "observation_ids": ["TK-B01-017", "TK-B01-018", "TK-B01-019", "TK-B01-020"]
+        },
+        {
+          "row": 3,
+          "extent": "entire main row, with bounded suffix uncertainty in U00105",
+          "opening_fragment": "བྲལ",
+          "closing_fragment": "སྤྲུལ་པའི",
+          "source_ordered_anchor_mapping": ["U00100 completion", "U00101", "U00102", "U00103", "U00104", "U00105", "U00106 opening"],
+          "observed_lexical_agreement": ["U00100 across rows 2–3", "U00101", "U00102", "U00103", "U00106 opening སྤྲུལ་པའི"],
+          "unaligned_additions": [],
+          "observation_ids": ["TK-B01-021", "TK-B01-022"]
+        }
+      ],
+      "opening_closing_physical_sequence": {
+        "opening": "Curling ornament O, intervening space, a D-like compound sign immediately before རྡོ་རྗེ་བཅས.",
+        "last_compared": "Row 3 ends སྤྲུལ་པའི, the opening of U00106.",
+        "page_closing": null,
+        "page_closing_status": "not compared"
+      },
+      "sign_inventory": {
+        "observed_codes_in_compared_scope": ["D", "T", "O", "F"],
+        "opening_sign_assignment": "The compound sign before U00090 is physically observed but not assigned conclusively to U00089 or U00090.",
+        "terminal_tshegs": "Unresolved individually.",
+        "rows_4_to_7": "No punctuation certification."
+      },
+      "source_layers": {
+        "main": "Rows 1–3 compared; rows 4–7 not compared.",
+        "U00105": "The aligned wording occupies ordinary main text in row 3; its Adzom scan_intervention status does not make it a missing verse here.",
+        "readable_notes": [],
+        "unread_marginal_material": [
+          {
+            "estimated_native_bounds": [464, 405, 561, 774],
+            "status": "Tibetan marginal material visible; not transcribed or classified further."
+          }
+        ]
+      },
+      "explicitly_unexamined_or_uncertain_spans": [
+        "Rows 4–7 in full.",
+        "U00092 པར/བར.",
+        "U00099 སུ/དུ and གྲོལ་བར/པར.",
+        "U00105 སྣང་བར/སྣང་བ.",
+        "Marginal wording, terminal tshegs and the function of the opening compound sign."
+      ]
+    },
+    {
+      "pdf_page": 5,
+      "source_member": "0398.png",
+      "printed_number": "390",
+      "rows_actually_compared": [],
+      "opening_closing_physical_sequence": {
+        "opening": null,
+        "closing": null,
+        "status": "not lexically inspected"
+      },
+      "source_ordered_anchor_mapping": [],
+      "sign_inventory": {
+        "status": "not examined for certification"
+      },
+      "source_layers": {
+        "status": "not examined"
+      },
+      "explicitly_unexamined_or_uncertain_spans": ["All seven main rows, their punctuation and all non-main material."]
+    },
+    {
+      "pdf_page": 6,
+      "source_member": "0399.png",
+      "printed_number": "391",
+      "rows_actually_compared": [
+        {
+          "row": 4,
+          "extent": "partial, beginning at U00180",
+          "physical_row_opening": null,
+          "physical_row_opening_status": "outside compared span",
+          "compared_opening_fragment": "དེ་ནས་གཅིག་དང་ཐ་མི་དད",
+          "closing_fragment": "ལྷ་དབང་གིས་ནི་འདི་སྐད",
+          "source_ordered_anchor_mapping": ["U00180", "U00181", "U00182 through སྐད"],
+          "observed_lexical_agreement": ["U00180", "U00182 before its row-5 completion"],
+          "observation_ids": ["TK-B01-023", "TK-B01-024"]
+        },
+        {
+          "row": 5,
+          "extent": "partial, opening through U00184",
+          "opening_fragment": "གསོལ",
+          "compared_closing_fragment": "འདི་ལྟར་སྣང་བ་དམ་པ་ཉིད",
+          "physical_row_closing": null,
+          "physical_row_closing_status": "outside compared span",
+          "source_ordered_anchor_mapping": ["U00182 completion", "U00183", "U00184"],
+          "observed_lexical_agreement": ["U00182 across rows 4–5", "U00184"],
+          "observation_ids": ["TK-B01-025", "TK-B01-026"]
+        }
+      ],
+      "opening_closing_physical_sequence": {
+        "page_opening": null,
+        "page_closing": null,
+        "status": "page endpoints not compared",
+        "inspected_junction": "འདི་སྐད at row 4 end → གསོལ D ཨེ་མ་ཀྱེ་བཅོམ་ལྡན་འདས D འདི་ལྟར་སྣང་བ་དམ་པ་ཉིད in row 5."
+      },
+      "sign_inventory": {
+        "observed_codes_in_local_scope": ["D", "T"],
+        "boundary_list": [
+          ["U00180", 4, "D", "unresolved"],
+          ["U00181", 4, "D", "unresolved"],
+          ["U00182", 5, "D", "unresolved"],
+          ["U00183", 5, "D", "unresolved"],
+          ["U00184", 5, "D", "unresolved"]
+        ]
+      },
+      "source_layers": {
+        "U00180": "Ordinary main text at the inspected junction.",
+        "annotation_SCAN_CH1_LAYER_00180": "The supplied separate Adzom annotation is not visible at this local junction. No global absence claim.",
+        "annotation_SCAN_CH1_LAYER_00187": "Not examined.",
+        "annotation_SCAN_CH1_LAYER_00192": "Not examined.",
+        "marginal_material": "Not transcribed."
+      },
+      "explicitly_unexamined_or_uncertain_spans": [
+        "Rows 1–3.",
+        "Row 4 from its opening through U00179.",
+        "Row 5 after U00184.",
+        "Rows 6–7.",
+        "All non-main material outside the U00180 local junction.",
+        "Individual terminal tshegs."
+      ]
+    },
+    {
+      "pdf_page": 7,
+      "source_member": "0400.png",
+      "printed_number": "392",
+      "rows_actually_compared": [],
+      "opening_closing_physical_sequence": {
+        "opening": null,
+        "closing": null,
+        "status": "not lexically inspected"
+      },
+      "source_ordered_anchor_mapping": [],
+      "sign_inventory": {
+        "status": "not examined for certification"
+      },
+      "source_layers": {
+        "status": "not examined"
+      },
+      "explicitly_unexamined_or_uncertain_spans": ["All seven main rows, their punctuation and all non-main material."]
+    }
+  ],
+  "observations": [
+    {
+      "id": "TK-B01-001",
+      "anchors": ["U00052"],
+      "base_reading": "སྐུ",
+      "witness_reading": null,
+      "bounded_uncertainty": "The page-opening terminal word resembles ལུས, but its initial construction and possible final ས are not securely resolved.",
+      "category": "glyph_uncertainty",
+      "before_context": null,
+      "after_context": "D ཉོན་མོངས་རགས་པ",
+      "estimated_native_bounds": {"page": 3, "row": 1, "bounds": [568, 270, 680, 352]},
+      "rationale": "The visible carried word was inspected independently; the expected སྐུ is not accepted as testimony for its glyphs.",
+      "confidence": "low for reading; high for position",
+      "disposition": "retain unresolved; re-examine opening word"
+    },
+    {
+      "id": "TK-B01-002",
+      "anchors": ["U00054"],
+      "base_reading": "བག་ལ་ཉལ་བ་མ་ཡིན་པས",
+      "witness_reading": "བག་ལ་ཉལ་བ་མ་ཡིན",
+      "category": "local_omission",
+      "before_context": "རང་དག་སྟེ D",
+      "after_context": "D མངོན་པར",
+      "estimated_native_bounds": {"page": 3, "row": 1, "bounds": [1250, 263, 1670, 350]},
+      "rationale": "The compound boundary sign follows ཡིན directly; no པས syllable is visible between them.",
+      "confidence": "high",
+      "disposition": "record witness difference"
+    },
+    {
+      "id": "TK-B01-003",
+      "anchors": ["U00055"],
+      "base_reading": "རྣམ་གཉིས་བྲལ",
+      "witness_reading": "རྣམས་དང་བྲལ",
+      "category": "lexical_difference",
+      "before_context": "མངོན་པར་རྒྱུ་བ",
+      "after_context": "D དབང་པོ་ལྔ་ནི",
+      "estimated_native_bounds": {"page": 3, "row": 1, "bounds": [1880, 263, 2230, 351]},
+      "rationale": "Visible རྣམས is followed by དང; the base's གཉིས is not the observed word.",
+      "confidence": "high",
+      "disposition": "record witness difference"
+    },
+    {
+      "id": "TK-B01-004",
+      "anchors": ["U00062"],
+      "base_reading": "རྣམ་པ་རྣམས",
+      "witness_reading": "རྣམ་པ་དང",
+      "category": "lexical_difference",
+      "before_context": "པའི",
+      "after_context": "D བར་སྣང་ཉིད",
+      "estimated_native_bounds": {"page": 3, "row": 2, "bounds": [2990, 350, 3250, 439]},
+      "rationale": "The final word before the boundary is visibly དང.",
+      "confidence": "high",
+      "disposition": "record witness difference independently of TK-B01-005"
+    },
+    {
+      "id": "TK-B01-005",
+      "anchors": ["U00062"],
+      "base_reading": "རྒྱུག",
+      "witness_reading": null,
+      "bounded_uncertainty": "The final consonant of རྒྱུག/རྒྱུད is not securely distinguished.",
+      "category": "glyph_uncertainty",
+      "before_context": "བསྐྱོད་ཅིང",
+      "after_context": "པའི་རྣམ་པ་དང",
+      "estimated_native_bounds": {"page": 3, "row": 2, "bounds": [2800, 350, 2980, 441]},
+      "rationale": "The lower and final strokes do not support an unqualified consonant identification.",
+      "confidence": "low",
+      "disposition": "retain bounded uncertainty"
+    },
+    {
+      "id": "TK-B01-006",
+      "anchors": ["U00063"],
+      "base_reading": "ཅི་མིན",
+      "witness_reading": "ཅི་ཡིན",
+      "category": "lexical_difference",
+      "before_context": "བར་སྣང་ཉིད་ལས་གཞན",
+      "after_context": "D རང་ལས་འོད་བྱུང",
+      "estimated_native_bounds": {"page": 3, "row": 3, "bounds": [568, 432, 710, 514]},
+      "rationale": "At the physical continuation, the syllable after ཅི reads ཡིན.",
+      "confidence": "high",
+      "disposition": "record witness difference"
+    },
+    {
+      "id": "TK-B01-007",
+      "anchors": ["U00070"],
+      "base_reading": "བྱེད་པ་བྲལ",
+      "witness_reading": "བྱེད་པ་མེད",
+      "category": "lexical_difference",
+      "before_context": "མངོན་དུ་བྱ་དང",
+      "after_context": "D གཟུགས་མེད",
+      "estimated_native_bounds": {"page": 3, "row": 4, "bounds": [1480, 516, 1745, 609]},
+      "rationale": "The terminal word has the visible form མེད, not བྲལ.",
+      "confidence": "high",
+      "disposition": "record witness difference"
+    },
+    {
+      "id": "TK-B01-008",
+      "anchors": ["U00071"],
+      "base_reading": "འགྱུར་བྱེད་ལྟར",
+      "witness_reading": "འགྱུར་ལྟར",
+      "category": "local_omission",
+      "before_context": "གཟུགས་མེད་ལས་ཀྱི",
+      "after_context": "D ཁམས་དང",
+      "estimated_native_bounds": {"page": 3, "row": 4, "bounds": [2010, 516, 2340, 609]},
+      "rationale": "ལྟར follows འགྱུར without an intervening བྱེད.",
+      "confidence": "high",
+      "disposition": "record witness difference"
+    },
+    {
+      "id": "TK-B01-009",
+      "anchors": ["U00079"],
+      "base_reading": "སྟེ",
+      "witness_reading": null,
+      "bounded_uncertainty": "Row-6 opening resembles དེ; possible stacked construction for སྟེ remains unresolved.",
+      "category": "glyph_uncertainty",
+      "before_context": "ང་ནི་ལྷ་བུ་དགའ་བྱེད",
+      "after_context": "D དབང་ཕྱུག",
+      "estimated_native_bounds": {"page": 3, "row": 6, "bounds": [569, 677, 640, 767]},
+      "rationale": "The terminal syllable is on the next physical row and cannot be supplied from the reference.",
+      "confidence": "low",
+      "disposition": "retain bounded uncertainty"
+    },
+    {
+      "id": "TK-B01-010",
+      "anchors": ["U00085"],
+      "base_reading": "སྣང་ཉིད་ལས་གཟུགས",
+      "witness_reading": "སྣང་ཉིད་ལ་གཟུགས",
+      "category": "suffix_difference",
+      "before_context": "བར at row 6 end",
+      "after_context": "བཀོད",
+      "estimated_native_bounds": {"page": 3, "row": 7, "bounds": [568, 757, 925, 851]},
+      "rationale": "The particle between ཉིད and གཟུགས reads ལ without a visible final ས.",
+      "confidence": "high",
+      "disposition": "record witness difference"
+    },
+    {
+      "id": "TK-B01-011",
+      "anchors": ["U00085"],
+      "base_reading": "བཀོད་པར",
+      "witness_reading": null,
+      "bounded_uncertainty": "The ending appears བཀོད་པ; a final ར is not securely excluded.",
+      "category": "suffix_uncertainty",
+      "before_context": "ལ་གཟུགས",
+      "after_context": "D, fine vertical traces, then སུས་ཀྱང",
+      "estimated_native_bounds": {"page": 3, "row": 7, "bounds": [913, 759, 1085, 853]},
+      "rationale": "The terminal letter and adjacent boundary strokes require a more exact distinction.",
+      "confidence": "medium for candidate པ; unresolved",
+      "disposition": "do not certify a second U00085 difference yet"
+    },
+    {
+      "id": "TK-B01-012",
+      "anchors": ["U00088"],
+      "base_reading": "བསྟན་པ་དམ་པ་རྫོགས་པའི་ཕྱིར",
+      "witness_reading": "བསྟན་པ་ཐམས་ཅད་རྫོགས་པའི་ཕྱིར",
+      "category": "lexical_difference",
+      "before_context": "བཅུ་བདུན་ནི D",
+      "after_context": "D སྐུ་གསུང",
+      "estimated_native_bounds": {"page": 3, "row": 7, "bounds": [2340, 750, 3010, 859]},
+      "rationale": "The two visible syllables after བསྟན་པ read ཐམས་ཅད.",
+      "confidence": "high",
+      "disposition": "record witness difference"
+    },
+    {
+      "id": "TK-B01-013",
+      "anchors": ["U00089"],
+      "base_reading": "ཐུགས་ཀྱི་བསྟན",
+      "witness_reading": null,
+      "bounded_uncertainty": "The particle appears ཀྱིས, but the possible final ས is not securely separated from adjoining strokes.",
+      "category": "suffix_uncertainty",
+      "before_context": "སྐུ་གསུང་ཐུགས",
+      "after_context": "བསྟན་པ་དངོས",
+      "estimated_native_bounds": {"page": 3, "row": 7, "bounds": [3290, 748, 3490, 858]},
+      "rationale": "The instrumental-versus-genitive distinction must not be inferred from syntax.",
+      "confidence": "medium for candidate ཀྱིས; unresolved",
+      "disposition": "retain bounded uncertainty"
+    },
+    {
+      "id": "TK-B01-014",
+      "anchors": ["U00085", "U00086"],
+      "base_reading": "། །",
+      "witness_reading": null,
+      "category": "sign_uncertainty",
+      "before_context": "བཀོད",
+      "after_context": "སུས་ཀྱང",
+      "estimated_native_bounds": {"page": 3, "row": 7, "bounds": [1045, 773, 1133, 824]},
+      "rationale": "A D sign and very fine vertical traces occur in the inter-unit space. The fine traces are not securely punctuation and are not normalized to shads.",
+      "confidence": "high for traces; low for function",
+      "disposition": "preserve graphic distinction; leave sign identity unresolved"
+    },
+    {
+      "id": "TK-B01-015",
+      "anchors": ["U00089", "U00090"],
+      "base_reading": "དངོས། ། རྡོ་རྗེ",
+      "witness_reading": null,
+      "category": "page_boundary_sign_assignment",
+      "before_context": "བསྟན་པ་དངོས",
+      "after_context": "རྡོ་རྗེ་བཅས",
+      "estimated_native_bounds": [
+        {"page": 3, "row": 7, "bounds": [3550, 750, 3780, 869]},
+        {"page": 4, "row": 1, "bounds": [580, 263, 935, 352]}
+      ],
+      "rationale": "No terminal D is securely identified at the PDF3 right edge. PDF4 has an opening ornament and a separate compound sign immediately before its first main wording. Its attachment across the page boundary remains unresolved.",
+      "confidence": "medium",
+      "disposition": "record physical placement without assigning delimiter semantics"
+    },
+    {
+      "id": "TK-B01-016",
+      "anchors": ["U00092"],
+      "base_reading": "རང་སྣང་བར",
+      "witness_reading": null,
+      "bounded_uncertainty": "The terminal syllable appears པར rather than བར; root-letter identity remains unresolved.",
+      "category": "glyph_uncertainty",
+      "before_context": "ཡེ་ཐོག་ནས་ནི",
+      "after_context": "D སོ་སོའི་ལས",
+      "estimated_native_bounds": {"page": 4, "row": 1, "bounds": [2170, 268, 2400, 356]},
+      "rationale": "A possible པ/བ difference is visible but not sufficiently secure for a replacement reading.",
+      "confidence": "medium for candidate པར; unresolved",
+      "disposition": "retain bounded uncertainty"
+    },
+    {
+      "id": "TK-B01-017",
+      "anchors": ["U00097"],
+      "base_reading": "མཆོག་རྣམས་མཐར",
+      "witness_reading": "མཆོག་དང་མཐར",
+      "category": "lexical_difference",
+      "before_context": "དངོས་གྲུབ",
+      "after_context": "ཐུག་པའི D འབད་ཅིང",
+      "estimated_native_bounds": {"page": 4, "row": 2, "bounds": [1610, 349, 2070, 442]},
+      "rationale": "The word following མཆོག reads དང.",
+      "confidence": "high",
+      "disposition": "record witness difference"
+    },
+    {
+      "id": "TK-B01-018",
+      "anchors": ["U00098"],
+      "base_reading": "མ་ཡིན་པས",
+      "witness_reading": "མ་ཡིན་པར",
+      "category": "suffix_difference",
+      "before_context": "འབད་ཅིང་རྩོལ་བ",
+      "after_context": "D གང",
+      "estimated_native_bounds": {"page": 4, "row": 2, "bounds": [2450, 345, 2670, 443]},
+      "rationale": "The final consonant of the terminal particle reads ར.",
+      "confidence": "high",
+      "disposition": "record witness difference"
+    },
+    {
+      "id": "TK-B01-019",
+      "anchors": ["U00099"],
+      "base_reading": "གང་སུ་འཕྲད",
+      "witness_reading": null,
+      "bounded_uncertainty": "The syllable following གང may read དུ rather than སུ.",
+      "category": "glyph_uncertainty",
+      "before_context": "མ་ཡིན་པར D གང",
+      "after_context": "འཕྲད་པ",
+      "estimated_native_bounds": {"page": 4, "row": 2, "bounds": [2730, 346, 2920, 442]},
+      "rationale": "The root-letter shape is insufficiently secure to certify either agreement or difference.",
+      "confidence": "low",
+      "disposition": "retain bounded uncertainty"
+    },
+    {
+      "id": "TK-B01-020",
+      "anchors": ["U00099"],
+      "base_reading": "གྲོལ་བར",
+      "witness_reading": null,
+      "bounded_uncertainty": "གྲོལ་པར versus གྲོལ་བར remains unresolved.",
+      "category": "glyph_uncertainty",
+      "before_context": "འཕྲད་པ",
+      "after_context": "ངེས D དེས་ན",
+      "estimated_native_bounds": {"page": 4, "row": 2, "bounds": [2950, 347, 3195, 445]},
+      "rationale": "The པ/བ distinction is not securely read.",
+      "confidence": "low",
+      "disposition": "retain bounded uncertainty"
+    },
+    {
+      "id": "TK-B01-021",
+      "anchors": ["U00104"],
+      "base_reading": "ངེས་བརྒྱུད་དེ",
+      "witness_reading": "ངེས་པར་བརྒྱུད",
+      "category": "local_sequence_difference",
+      "before_context": "ཆོས་ཀྱི་སྐུ་ལ",
+      "after_context": "D ལས་ཅན",
+      "estimated_native_bounds": {"page": 4, "row": 3, "bounds": [2700, 434, 3040, 540]},
+      "rationale": "The visible sequence places པར after ངེས and ends with བརྒྱུད directly before the boundary. This is not merely a punctuation difference.",
+      "confidence": "high",
+      "disposition": "record exact local sequence; do not infer a transposition mechanism"
+    },
+    {
+      "id": "TK-B01-022",
+      "anchors": ["U00105"],
+      "base_reading": "ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ",
+      "witness_reading": null,
+      "bounded_uncertainty": "The wording is present as main text; only སྣང་བར versus སྣང་བ remains unresolved.",
+      "category": "source_layer_presence_and_suffix_uncertainty",
+      "before_context": "ངེས་པར་བརྒྱུད D",
+      "after_context": "D སྤྲུལ་པའི",
+      "estimated_native_bounds": {"page": 4, "row": 3, "bounds": [3090, 435, 3555, 542]},
+      "rationale": "The unit occupies the ordinary main line between U00104 and U00106; the possible final ར after བ is not certified.",
+      "confidence": "high for main-text presence; low for the suffix",
+      "disposition": "record main-layer presence without claiming complete lexical agreement"
+    },
+    {
+      "id": "TK-B01-023",
+      "anchors": ["U00180"],
+      "base_reading": {
+        "main": "དེ་ནས་གཅིག་དང་ཐ་མི་དད",
+        "separate_annotation": "སྡུད་པ་པོ་ཞུ་བ་རང་བྱུང་གི་བཀོད་པ"
+      },
+      "witness_reading": "དེ་ནས་གཅིག་དང་ཐ་མི་དད",
+      "category": "main_agreement_and_local_source_layer_difference",
+      "before_context": "མེད་དོ D",
+      "after_context": "D རང་བཞིན",
+      "estimated_native_bounds": {"page": 6, "row": 4, "bounds": [2020, 514, 2570, 618]},
+      "rationale": "The main wording is visible continuously at this junction. The separately identified Adzom annotation is not visible here; its absence elsewhere has not been investigated.",
+      "confidence": "high for main wording; medium for local annotation absence",
+      "disposition": "record local evidence only; no globally missing-heading claim"
+    },
+    {
+      "id": "TK-B01-024",
+      "anchors": ["U00181"],
+      "base_reading": "རང་བཞིན་དག་པའི་འཁོར་རྣམས་ལས",
+      "witness_reading": "རང་བཞིན་སྣང་བའི་འཁོར་རྣམས་ཀྱིས",
+      "category": "lexical_and_particle_difference",
+      "before_context": "ཐ་མི་དད D",
+      "after_context": "D ལྷ་དབང་གིས་ནི",
+      "estimated_native_bounds": {"page": 6, "row": 4, "bounds": [2570, 513, 3250, 620]},
+      "rationale": "The visible internal reading is སྣང་བའི, and the ending after རྣམས reads ཀྱིས.",
+      "confidence": "medium-high",
+      "disposition": "record witness differences; retain Adzom unchanged"
+    },
+    {
+      "id": "TK-B01-025",
+      "anchors": ["U00182", "U00183"],
+      "base_reading": "གསོལ། ། ཨེ་མ",
+      "witness_reading": "གསོལ [D] ཨེ་མ",
+      "category": "junction_presence_and_no_local_addition",
+      "before_context": "ལྷ་དབང་གིས་ནི་འདི་སྐད",
+      "after_context": "ཀྱེ་བཅོམ་ལྡན་འདས",
+      "estimated_native_bounds": {"page": 6, "row": 5, "bounds": [573, 605, 1100, 704]},
+      "rationale": "Row 5 begins with U00182's གསོལ followed by D and ཨེ་མ. No ནས syllable occurs in this inspected interval.",
+      "confidence": "high",
+      "disposition": "preserve withdrawal of the former ནས-addition claim"
+    },
+    {
+      "id": "TK-B01-026",
+      "anchors": ["U00183", "U00184"],
+      "base_reading": "ཨེ་མ་ཀྱེ་ཀྱེ་བཅོམ་ལྡན་འདས",
+      "witness_reading": "ཨེ་མ་ཀྱེ་བཅོམ་ལྡན་འདས",
+      "category": "local_omission_with_unit_presence",
+      "before_context": "གསོལ D",
+      "after_context": "D འདི་ལྟར་སྣང་བ་དམ་པ་ཉིད",
+      "estimated_native_bounds": {"page": 6, "row": 5, "bounds": [785, 603, 1945, 707]},
+      "rationale": "One ཀྱེ is visible between ཨེ་མ and བཅོམ. U00183 and the following U00184 are both physically present; the observation is a local repetition difference, not omission of either unit.",
+      "confidence": "high",
+      "disposition": "record single-ཀྱེ reading and preserve both anchors as present"
+    }
+  ],
+  "exact_remaining_spans": [
+    {
+      "page": 3,
+      "scope": "Resolve TK-B01-001, TK-B01-005, TK-B01-009, TK-B01-011 and TK-B01-013; certify terminal tshegs and unresolved sign traces; transcribe the marginal label."
+    },
+    {
+      "page": 4,
+      "scope": "Continuous comparison resumes at row 4 opening, the continuation of U00106, and proceeds through rows 4–7. Also resolve TK-B01-016, TK-B01-019, TK-B01-020 and TK-B01-022."
+    },
+    {
+      "page": 5,
+      "scope": "Rows 1–7 in full, including page-opening continuation, all lexical comparisons, boundaries and source layers."
+    },
+    {
+      "page": 6,
+      "scope": "Rows 1–3; row 4 opening through U00179; row 5 after U00184; rows 6–7. The isolated U00180–U00184 observations do not discharge these spans."
+    },
+    {
+      "page": 7,
+      "scope": "Rows 1–7 in full, including page-opening continuation, all lexical comparisons, boundaries and source layers."
+    },
+    {
+      "pages": [3, 4, 5, 6, 7],
+      "scope": "Complete annotation and marginal-material review remains outstanding; unexamined source-note slots must not be classified as omitted main verses."
+    }
+  ],
+  "next_physical_span": {
+    "page": 4,
+    "row": 4,
+    "anchor": "U00106 continuation",
+    "preceding_compared_fragment": "སྤྲུལ་པའི at row 3 end",
+    "visible_restart_fragment": "ས་བོན",
+    "instruction": "Resume continuous comparison here; do not advance the continuous coverage frontier to the isolated PDF6 junction."
+  }
+}

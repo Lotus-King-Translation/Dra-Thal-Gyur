@@ -1,7 +1,7 @@
 {
   "task_id": "C1-TSAMDRAK",
   "batch_id": "B01-OPENING-TEST",
-  "status": "prepared_not_launched",
+  "status": "completed",
   "baseline_commit": "21de152e4df880c6530c8fb9aa1dbcd9b57b1602",
   "argv": [
     "codex",
@@ -267,5 +267,17 @@
   "source_identity_not_reading_certification": true,
   "output_report": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B01-OPENING-TEST-reader-reading.txt",
   "session_log": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B01-OPENING-TEST-reader-session.jsonl",
-  "stderr_log": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B01-OPENING-TEST-reader-stderr.txt"
+  "stderr_log": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B01-OPENING-TEST-reader-stderr.txt",
+  "verified_dispatch_checkpoint": "bf15686a02b8f29000ebbaacdf4cfa871cc60aeb",
+  "pid": 17158,
+  "started_at": "2026-09-28T14:44:41.899921+00:00",
+  "exit_code": 0,
+  "item_types": [
+    "agent_message",
+    "error"
+  ],
+  "report_sha256": "9ab534903f6b87e8fdd257fccc9ef127c354871ad8a9efcea4f2456be096b81e",
+  "session_sha256": "95ff2d894291d54bfa6ead87f7b72805bad8fd2d8a5e15dab9d1286c91f958cc",
+  "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "no_tools_used_in_reader": true
 }

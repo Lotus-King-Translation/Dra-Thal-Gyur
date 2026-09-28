@@ -15,6 +15,19 @@
       "result": "Tool could not determine safety status; exact request retried once with same failure",
       "executed": false,
       "resource_availability_claim": "No claim that the repository files are unavailable; this records the blocked execution request."
+    },
+    {
+      "operation": "Write a proposed full-page CoreGraphics PDF compositor source file for provider-container inspection",
+      "result": "Tool could not determine safety status; write blocked",
+      "file_created": false,
+      "subsequent_execution_or_alternative_write_attempted": false,
+      "source_scope": "A renderer has not been produced by this blocked action. Existing provider PDF bytes are not claimed missing; existing known boundary renders remain preserved."
+    },
+    {
+      "operation": "Prepare three additional Tsamdrak target-context crops in the existing image interpreter",
+      "result": "Tool could not determine safety status; crop action blocked",
+      "subsequent_same_crop_action_attempted": false,
+      "continuation": "Coordinator inspected already-preserved full pages and native columns instead. No new target crop claimed."
     }
   ],
   "security_settings_changed": false,

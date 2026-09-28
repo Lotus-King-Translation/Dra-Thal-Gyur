@@ -1,5 +1,5 @@
 {
-  "status": "ready_for_remote_checkpoint_before_dispatch",
+  "status": "all_four_readers_finished_raw_reports_saved",
   "coordinator": "ChatGPT-coordinator-20260928-continuous",
   "baseline_commit": "21de152e4df880c6530c8fb9aa1dbcd9b57b1602",
   "packets": [
@@ -66,5 +66,8 @@
       "reader_prefix": "C1-TSAMDRAK-B01-OPENING-TEST-reader"
     }
   ],
-  "publication_rule": "No worker publishes. Save completed and partial reports; coordinator verifies every remote checkpoint before expanding each bounded scope."
+  "publication_rule": "No worker publishes. Save completed and partial reports; coordinator verifies every remote checkpoint before expanding each bounded scope.",
+  "verified_dispatch_checkpoint": "bf15686a02b8f29000ebbaacdf4cfa871cc60aeb",
+  "coordinator_initial_report": "diplomatic/reviews/chapter-01/continuation/SESSION-20260928-CONTINUOUS/WAVE-001-coordinator-initial.json",
+  "new_full_pages_certified": 0
 }
