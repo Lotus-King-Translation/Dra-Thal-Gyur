@@ -4338,7 +4338,7 @@
     },
     {
       "batch_id": "B03-P0004",
-      "status": "claimed_prepared_not_read",
+      "status": "reading_captured_pending_coordinator_review",
       "owner": "reader-C1-BASE-PHYSICAL-B03-P0004-reader",
       "baseline_commit": "d5a05bc3c9c6abee18459895c4fec8aa6e093548",
       "scope": "Complete physical inventory of ADZOM PDF4 only, all main rows, source layers, ornaments, filler signs and marginal inscriptions. Adjacent pages are boundary context only. Existing main lexical pass is retained; record every boundary and any newly observed mismatch without grammatical normalization.",
@@ -4347,11 +4347,29 @@
       "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B03-P0004-reader-spec.json",
       "rows_actually_compared": [],
       "observations": [],
-      "canonical_record_ids": []
+      "canonical_record_ids": [],
+      "independent_review": {
+        "task_id": "C1-BASE-PHYSICAL",
+        "batch_id": "B03-P0004",
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B03-P0004-reader-reading.txt",
+        "sha256": "bde1f4498648b4281a8424051ec23973369ce53ebe9c801902bcfe9bc499be22",
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B03-P0004-reader-execution.json",
+        "scope": {
+          "target_spatial_inspection": "All six physical main rows followed left to right; both gutters, frame, external numbering, exterior margins and small-script layer inspected.",
+          "target_unexamined_spans": [],
+          "transcription_status": "Provisional and explicitly incomplete at bounded inspected uncertainties; not a fully resolved glyph inventory.",
+          "punctuation_status": "Boundary groups inventoried in source order. Source-layer allocation at S08 and fine accounting of filler groups remain provisional.",
+          "new_mismatch_status": "U00049 is a possible mismatch requiring adjudication, not an adopted correction. Other uncertain components do not authorize changing the retained lexical pass.",
+          "provenance": "Informed independent agent reading of supplied images and base reference; not blind review or human palaeographic certification.",
+          "certification_scope": "PDF4 only; no whole-chapter certification.",
+          "tools_or_external_actions": "None."
+        },
+        "proposals_adopted": false
+      }
     },
     {
       "batch_id": "B04-P0005",
-      "status": "claimed_prepared_not_read",
+      "status": "reading_captured_pending_coordinator_review",
       "owner": "reader-C1-BASE-PHYSICAL-B04-P0005-reader",
       "baseline_commit": "d5a05bc3c9c6abee18459895c4fec8aa6e093548",
       "scope": "Complete physical inventory of ADZOM PDF5 only, all main rows, source layers, ornaments, filler signs and marginal inscriptions. Adjacent pages are boundary context only. Existing main lexical pass is retained; record every boundary and any newly observed mismatch without grammatical normalization.",
@@ -4360,11 +4378,35 @@
       "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B04-P0005-reader-spec.json",
       "rows_actually_compared": [],
       "observations": [],
-      "canonical_record_ids": []
+      "canonical_record_ids": [],
+      "independent_review": {
+        "task_id": "C1-BASE-PHYSICAL",
+        "batch_id": "B04-P0005",
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B04-P0005-reader-reading.txt",
+        "sha256": "b977107f84e3b248cea857bd6d937c84b0fe60f2818b8dea852a7fffdc07f62f",
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B04-P0005-reader-execution.json",
+        "scope": {
+          "target_inspection": "All six target main rows followed left to right; marginal, ornamental, frame and blank-margin regions inspected.",
+          "resolution": "Main lexical sequence transcribed; six bounded questions remain concerning small marks, one marginal group and the horizontal stroke's function.",
+          "individual_full_height_verticals_inventoried": 52,
+          "count_excludes": [
+            "frame rules",
+            "letter limbs",
+            "tshegs",
+            "opening ornament",
+            "horizontal stroke",
+            "short terminal strokes"
+          ],
+          "independent_source_count": 1,
+          "review_status": "Informed independent agent reading, not blind review or human palaeographic certification.",
+          "certification_scope": "This page only; neither complete resolution of every mark nor whole-chapter certification is claimed."
+        },
+        "proposals_adopted": false
+      }
     },
     {
       "batch_id": "B05-P0006",
-      "status": "claimed_prepared_not_read",
+      "status": "reading_captured_pending_coordinator_review",
       "owner": "reader-C1-BASE-PHYSICAL-B05-P0006-reader",
       "baseline_commit": "d5a05bc3c9c6abee18459895c4fec8aa6e093548",
       "scope": "Complete physical inventory of ADZOM PDF6 only, all main rows, source layers, ornaments, filler signs and marginal inscriptions. Adjacent pages are boundary context only. Existing main lexical pass is retained; record every boundary and any newly observed mismatch without grammatical normalization.",
@@ -4373,11 +4415,37 @@
       "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B05-P0006-reader-spec.json",
       "rows_actually_compared": [],
       "observations": [],
-      "canonical_record_ids": []
+      "canonical_record_ids": [],
+      "independent_review": {
+        "task_id": "C1-BASE-PHYSICAL",
+        "batch_id": "B05-P0006",
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B05-P0006-reader-reading.txt",
+        "sha256": "e8128aa5f828aa5ef192c9fa638a937ab3f97ac4c5ca4674c664620a47ba4cd9",
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B05-P0006-reader-execution.json",
+        "scope": {
+          "target_rows_inspected": 6,
+          "target_rows_with_source_ordered_transcription": 6,
+          "ordered_anchor_fragments": 31,
+          "boundary_groups_inventoried": 26,
+          "inventoried_boundary_components": {
+            "S": 50,
+            "C": 2
+          },
+          "additional_short_stroke_cluster": "F3",
+          "target_unexamined_spans": [],
+          "resolution_status": "Full target-page inspection pass with one bounded unresolved lexical span, one unresolved tsheg/filler partition and four unresolved terminal-mark positions. Not a fully resolved glyph-by-glyph certification.",
+          "source_layers": "Main text, marginal folio material, numerical stamp, frames and exterior marks inspected; no independent source annotation identified.",
+          "lexical_disposition": "Existing lexical pass retained. No secure new lexical correction proposed.",
+          "provenance": "Direct inspection of supplied attachments. Target crops and rotation are views of one source page, not independent witnesses.",
+          "review_status": "Informed independent agent reading with base reference supplied; neither blind review nor human palaeographic certification.",
+          "certification_scope": "PDF6 only; no whole-chapter certification."
+        },
+        "proposals_adopted": false
+      }
     },
     {
       "batch_id": "B06-P0007",
-      "status": "claimed_prepared_not_read",
+      "status": "reading_captured_pending_coordinator_review",
       "owner": "reader-C1-BASE-PHYSICAL-B06-P0007-reader",
       "baseline_commit": "d5a05bc3c9c6abee18459895c4fec8aa6e093548",
       "scope": "Complete physical inventory of ADZOM PDF7 only, all main rows, source layers, ornaments, filler signs and marginal inscriptions. Adjacent pages are boundary context only. Existing main lexical pass is retained; record every boundary and any newly observed mismatch without grammatical normalization.",
@@ -4386,7 +4454,32 @@
       "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B06-P0007-reader-spec.json",
       "rows_actually_compared": [],
       "observations": [],
-      "canonical_record_ids": []
+      "canonical_record_ids": [],
+      "independent_review": {
+        "task_id": "C1-BASE-PHYSICAL",
+        "batch_id": "B06-P0007",
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B06-P0007-reader-reading.txt",
+        "sha256": "c4d5563a7c16df9e2a8069952df68c249dd729cba53685c7ef38694d9978653d",
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B06-P0007-reader-execution.json",
+        "scope": {
+          "target_rows_traversed": 6,
+          "target_rows_total": 6,
+          "main_text_extent": "U00102 final portion through U00127; every physical row followed left to right.",
+          "inventory_totals": {
+            "internal_unit_boundary_strokes": 22,
+            "terminal_strokes_before_right_edge_strokes": 4,
+            "additional_right_edge_strokes": 4,
+            "opening_ornamental_boundary_stroke": 1,
+            "opening_ornamental_complexes": 1,
+            "horizontal_opening_fillers": 1
+          },
+          "source_layers": "Six main rows and the separately recorded marginal material; no detached interlinear textual annotation identified.",
+          "lexical_disposition": "Existing lexical pass retained. No definite new lexical mismatch established; one main-text stack remains provisional.",
+          "completion_limit": "Physical traversal is complete for this target page, with three bounded reading questions and unresolved functions of the marginal trace and outer closure strokes.",
+          "review_status": "Informed independent agent reading from supplied images; not blind review, human palaeographic certification or whole-chapter certification."
+        },
+        "proposals_adopted": false
+      }
     }
   ],
   "remaining_declared_scope": "All unlisted physical dimensions on PDF1-5, plus PDF6-102; existing lexical pass and verified local signs retained. Next sub-batches complete page3,4,5 separately, with the exact prior record references supplied.",

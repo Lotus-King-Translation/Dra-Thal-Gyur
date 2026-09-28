@@ -2827,7 +2827,7 @@
     },
     {
       "batch_id": "B03-P0015",
-      "status": "claimed_prepared_not_read",
+      "status": "reading_captured_pending_coordinator_review",
       "owner": "reader-C1-TSAMDRAK-B03-P0015-reader",
       "baseline_commit": "d5a05bc3c9c6abee18459895c4fec8aa6e093548",
       "scope": "TSAMDRAK PDF15 all seven main rows, non-main regions and signs. PDF14 ended at U00383 དམིགས་པ་ཡུལ་གྱི་བློ་རྣམས་ལ. Establish the next actual source anchor rather than infer proportional mapping. PDF14/16 are boundary context only. Preserve physical notes/numerals separately, including local absence of a base heading rather than calling it an omitted main verse. Inspect every row despite isolated unclear glyphs.",
@@ -2836,7 +2836,31 @@
       "specification": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B03-P0015-reader-spec.json",
       "rows_actually_compared": [],
       "observations": [],
-      "canonical_record_ids": []
+      "canonical_record_ids": [],
+      "independent_review": {
+        "task_id": "C1-TSAMDRAK",
+        "batch_id": "B03-P0015",
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B03-P0015-reader-reading.txt",
+        "sha256": "2e1b5310d3c35af6e7b69ba46ca567c499fe33fa4389248f2061ea54dfdd3bf1",
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B03-P0015-reader-execution.json",
+        "scope": {
+          "target_physical_rows_inspected": 7,
+          "unexamined_target_spans": [],
+          "main_text_alignment": "U00384 through U00418, excluding U00394 as a locally unattested base heading rather than a missing main verse.",
+          "unaligned_components": [
+            "N01",
+            "M01",
+            "F01",
+            "F02",
+            "F03"
+          ],
+          "result": "All target rows followed left to right. Six lexical questions, one small-mark identity, one boundary-component question and terminal-tsheg questions remain explicitly bounded after inspection.",
+          "punctuation_status": "Physical configurations inventoried provisionally; exhaustive glyph-level punctuation certification is not claimed.",
+          "review_type": "Informed independent reading of supplied images with the base reference available; not blind review or human palaeographic certification.",
+          "scope_limit": "One target page only; no whole-chapter certification."
+        },
+        "proposals_adopted": false
+      }
     }
   ],
   "remaining_declared_scope": "Resolve recorded opening1–13 suffix/stack uncertainties; reliable continuous PDF14–83 through row6, including signs/source notes.",

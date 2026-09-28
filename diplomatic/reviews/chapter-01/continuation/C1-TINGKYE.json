@@ -5025,7 +5025,7 @@
     },
     {
       "batch_id": "B03-P0005",
-      "status": "claimed_prepared_not_read",
+      "status": "reading_captured_pending_coordinator_review",
       "owner": "reader-C1-TINGKYE-B03-P0005-reader",
       "baseline_commit": "d5a05bc3c9c6abee18459895c4fec8aa6e093548",
       "scope": "TINGKYE PDF5 all seven main rows, margins, notes and signs. Previous continuous report ends PDF4 row7 U00127 through པར, with a questioned outgoing word on PDF5 row1. Establish that word from pixels, then continue U00128 onward across the entire page. PDF4 and PDF6 are boundary context only. No inherited whole-page agreement is inferred from the earlier PDF6 isolated junction. Give actual source-ordered rows, every local conflict, precisely bounded unread components and true outgoing anchor.",
@@ -5034,7 +5034,26 @@
       "specification": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B03-P0005-reader-spec.json",
       "rows_actually_compared": [],
       "observations": [],
-      "canonical_record_ids": []
+      "canonical_record_ids": [],
+      "independent_review": {
+        "task_id": "C1-TINGKYE",
+        "batch_id": "B03-P0005",
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B03-P0005-reader-reading.txt",
+        "sha256": "932db1bb576e1eacd3fbedb52db365e14fac8ed67d2dc6f447c2b7ce8a8ecfdd",
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B03-P0005-reader-execution.json",
+        "scope": {
+          "target_rows_visually_followed": 7,
+          "target_rows_declared": 7,
+          "target_unexamined_spans": 0,
+          "target_terminal_compounds_inventoried": 35,
+          "main_text_glyph_questions": 7,
+          "marginal_glyph_questions": 1,
+          "additional_ink_questions": 1,
+          "result": "Source-ordered reading supplied for the entire target page, with bounded unresolved components. Incoming U00127 reads གནང. U00143 physically follows U00147. The page exits within U00162 after འདུ.",
+          "limits": "Complete visual traversal is not complete glyph resolution or whole-page agreement. Unmarked transcriptions retain the confidence qualifications in the observations. This is an informed independent agent reading with the base visible, not blind review or human palaeographic certification; no whole-chapter certification."
+        },
+        "proposals_adopted": false
+      }
     }
   ],
   "remaining_declared_scope": "PDF3 local uncertainties/signs/margins; PDF4 rows4-7 and listed questions; PDF5 all; PDF6 outside U180-184 junction; PDF7 all; remainder of declared witness coverage unchanged.",

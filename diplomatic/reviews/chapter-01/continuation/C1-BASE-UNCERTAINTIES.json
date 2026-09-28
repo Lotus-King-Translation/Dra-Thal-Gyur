@@ -1260,7 +1260,7 @@
     },
     {
       "batch_id": "B03-P0102-S09",
-      "status": "claimed_prepared_not_read",
+      "status": "reading_captured_pending_coordinator_review",
       "owner": "reader-C1-BASE-UNCERTAINTIES-B03-P0102-S09-reader",
       "baseline_commit": "d5a05bc3c9c6abee18459895c4fec8aa6e093548",
       "scope": "Adzom PDF102 chapter1 boundary and S09 compact inscription only. Locate the actual U02635 closing and subsequent next-chapter incipit to delimit S09. Transcribe the inscription only as far as individual shapes support; distinguish its script, source layer, signs and exact remaining components. PDF101 is incoming context. Do not transcribe or collate Chapter2 beyond the minimal boundary incipit. Prior S09 remains explicitly unresolved, not a guessed heading.",
@@ -1269,7 +1269,16 @@
       "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B03-P0102-S09-reader-spec.json",
       "rows_actually_compared": [],
       "observations": [],
-      "canonical_record_ids": []
+      "canonical_record_ids": [],
+      "independent_review": {
+        "task_id": "C1-BASE-UNCERTAINTIES",
+        "batch_id": "B03-P0102-S09",
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B03-P0102-S09-reader-reading.txt",
+        "sha256": "4aef968fe69218f0ac6184b4db9e01479ad9a60a11d7eb8462e56a4b92817f2a",
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B03-P0102-S09-reader-execution.json",
+        "scope": "Requested boundary and S09 inspected. U02635 closure and following incipit located; S09 remains lexically unresolved, with bounded graphic components recorded. No heading adopted. These views represent one source, not independent witnesses. This informed image reading is neither blind review nor human palaeographic certification; no whole-chapter certification.",
+        "proposals_adopted": false
+      }
     }
   ],
   "remaining_declared_scope": "U01522 bounded unresolved; PDF101 annotations, PDF102 inscription, and title/portrait/foreign-script questions still require their planned reviews.",

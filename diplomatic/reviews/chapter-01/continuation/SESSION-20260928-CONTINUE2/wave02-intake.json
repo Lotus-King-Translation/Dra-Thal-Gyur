@@ -1,0 +1,182 @@
+{
+  "wave_id": "CONTINUE2-W02",
+  "status": "all_readers_finished_pending_editorial_integration",
+  "readers": [
+    {
+      "task_id": "C1-BASE-PHYSICAL",
+      "batch_id": "B03-P0004",
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B03-P0004-reader-reading.txt",
+      "sha256": "bde1f4498648b4281a8424051ec23973369ce53ebe9c801902bcfe9bc499be22",
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B03-P0004-reader-execution.json",
+      "scope": {
+        "target_spatial_inspection": "All six physical main rows followed left to right; both gutters, frame, external numbering, exterior margins and small-script layer inspected.",
+        "target_unexamined_spans": [],
+        "transcription_status": "Provisional and explicitly incomplete at bounded inspected uncertainties; not a fully resolved glyph inventory.",
+        "punctuation_status": "Boundary groups inventoried in source order. Source-layer allocation at S08 and fine accounting of filler groups remain provisional.",
+        "new_mismatch_status": "U00049 is a possible mismatch requiring adjudication, not an adopted correction. Other uncertain components do not authorize changing the retained lexical pass.",
+        "provenance": "Informed independent agent reading of supplied images and base reference; not blind review or human palaeographic certification.",
+        "certification_scope": "PDF4 only; no whole-chapter certification.",
+        "tools_or_external_actions": "None."
+      },
+      "proposals_adopted": false
+    },
+    {
+      "task_id": "C1-BASE-PHYSICAL",
+      "batch_id": "B04-P0005",
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B04-P0005-reader-reading.txt",
+      "sha256": "b977107f84e3b248cea857bd6d937c84b0fe60f2818b8dea852a7fffdc07f62f",
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B04-P0005-reader-execution.json",
+      "scope": {
+        "target_inspection": "All six target main rows followed left to right; marginal, ornamental, frame and blank-margin regions inspected.",
+        "resolution": "Main lexical sequence transcribed; six bounded questions remain concerning small marks, one marginal group and the horizontal stroke's function.",
+        "individual_full_height_verticals_inventoried": 52,
+        "count_excludes": [
+          "frame rules",
+          "letter limbs",
+          "tshegs",
+          "opening ornament",
+          "horizontal stroke",
+          "short terminal strokes"
+        ],
+        "independent_source_count": 1,
+        "review_status": "Informed independent agent reading, not blind review or human palaeographic certification.",
+        "certification_scope": "This page only; neither complete resolution of every mark nor whole-chapter certification is claimed."
+      },
+      "proposals_adopted": false
+    },
+    {
+      "task_id": "C1-BASE-PHYSICAL",
+      "batch_id": "B05-P0006",
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B05-P0006-reader-reading.txt",
+      "sha256": "e8128aa5f828aa5ef192c9fa638a937ab3f97ac4c5ca4674c664620a47ba4cd9",
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B05-P0006-reader-execution.json",
+      "scope": {
+        "target_rows_inspected": 6,
+        "target_rows_with_source_ordered_transcription": 6,
+        "ordered_anchor_fragments": 31,
+        "boundary_groups_inventoried": 26,
+        "inventoried_boundary_components": {
+          "S": 50,
+          "C": 2
+        },
+        "additional_short_stroke_cluster": "F3",
+        "target_unexamined_spans": [],
+        "resolution_status": "Full target-page inspection pass with one bounded unresolved lexical span, one unresolved tsheg/filler partition and four unresolved terminal-mark positions. Not a fully resolved glyph-by-glyph certification.",
+        "source_layers": "Main text, marginal folio material, numerical stamp, frames and exterior marks inspected; no independent source annotation identified.",
+        "lexical_disposition": "Existing lexical pass retained. No secure new lexical correction proposed.",
+        "provenance": "Direct inspection of supplied attachments. Target crops and rotation are views of one source page, not independent witnesses.",
+        "review_status": "Informed independent agent reading with base reference supplied; neither blind review nor human palaeographic certification.",
+        "certification_scope": "PDF6 only; no whole-chapter certification."
+      },
+      "proposals_adopted": false
+    },
+    {
+      "task_id": "C1-BASE-PHYSICAL",
+      "batch_id": "B06-P0007",
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B06-P0007-reader-reading.txt",
+      "sha256": "c4d5563a7c16df9e2a8069952df68c249dd729cba53685c7ef38694d9978653d",
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B06-P0007-reader-execution.json",
+      "scope": {
+        "target_rows_traversed": 6,
+        "target_rows_total": 6,
+        "main_text_extent": "U00102 final portion through U00127; every physical row followed left to right.",
+        "inventory_totals": {
+          "internal_unit_boundary_strokes": 22,
+          "terminal_strokes_before_right_edge_strokes": 4,
+          "additional_right_edge_strokes": 4,
+          "opening_ornamental_boundary_stroke": 1,
+          "opening_ornamental_complexes": 1,
+          "horizontal_opening_fillers": 1
+        },
+        "source_layers": "Six main rows and the separately recorded marginal material; no detached interlinear textual annotation identified.",
+        "lexical_disposition": "Existing lexical pass retained. No definite new lexical mismatch established; one main-text stack remains provisional.",
+        "completion_limit": "Physical traversal is complete for this target page, with three bounded reading questions and unresolved functions of the marginal trace and outer closure strokes.",
+        "review_status": "Informed independent agent reading from supplied images; not blind review, human palaeographic certification or whole-chapter certification."
+      },
+      "proposals_adopted": false
+    },
+    {
+      "task_id": "C1-BASE-UNCERTAINTIES",
+      "batch_id": "B03-P0102-S09",
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B03-P0102-S09-reader-reading.txt",
+      "sha256": "4aef968fe69218f0ac6184b4db9e01479ad9a60a11d7eb8462e56a4b92817f2a",
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B03-P0102-S09-reader-execution.json",
+      "scope": "Requested boundary and S09 inspected. U02635 closure and following incipit located; S09 remains lexically unresolved, with bounded graphic components recorded. No heading adopted. These views represent one source, not independent witnesses. This informed image reading is neither blind review nor human palaeographic certification; no whole-chapter certification.",
+      "proposals_adopted": false
+    },
+    {
+      "task_id": "C1-TINGKYE",
+      "batch_id": "B03-P0005",
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B03-P0005-reader-reading.txt",
+      "sha256": "932db1bb576e1eacd3fbedb52db365e14fac8ed67d2dc6f447c2b7ce8a8ecfdd",
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B03-P0005-reader-execution.json",
+      "scope": {
+        "target_rows_visually_followed": 7,
+        "target_rows_declared": 7,
+        "target_unexamined_spans": 0,
+        "target_terminal_compounds_inventoried": 35,
+        "main_text_glyph_questions": 7,
+        "marginal_glyph_questions": 1,
+        "additional_ink_questions": 1,
+        "result": "Source-ordered reading supplied for the entire target page, with bounded unresolved components. Incoming U00127 reads གནང. U00143 physically follows U00147. The page exits within U00162 after འདུ.",
+        "limits": "Complete visual traversal is not complete glyph resolution or whole-page agreement. Unmarked transcriptions retain the confidence qualifications in the observations. This is an informed independent agent reading with the base visible, not blind review or human palaeographic certification; no whole-chapter certification."
+      },
+      "proposals_adopted": false
+    },
+    {
+      "task_id": "C1-TSAMDRAK",
+      "batch_id": "B03-P0015",
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B03-P0015-reader-reading.txt",
+      "sha256": "2e1b5310d3c35af6e7b69ba46ca567c499fe33fa4389248f2061ea54dfdd3bf1",
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B03-P0015-reader-execution.json",
+      "scope": {
+        "target_physical_rows_inspected": 7,
+        "unexamined_target_spans": [],
+        "main_text_alignment": "U00384 through U00418, excluding U00394 as a locally unattested base heading rather than a missing main verse.",
+        "unaligned_components": [
+          "N01",
+          "M01",
+          "F01",
+          "F02",
+          "F03"
+        ],
+        "result": "All target rows followed left to right. Six lexical questions, one small-mark identity, one boundary-component question and terminal-tsheg questions remain explicitly bounded after inspection.",
+        "punctuation_status": "Physical configurations inventoried provisionally; exhaustive glyph-level punctuation certification is not claimed.",
+        "review_type": "Informed independent reading of supplied images with the base reference available; not blind review or human palaeographic certification.",
+        "scope_limit": "One target page only; no whole-chapter certification."
+      },
+      "proposals_adopted": false
+    },
+    {
+      "task_id": "C1-DEGE",
+      "batch_id": "B01-P0003",
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt",
+      "sha256": "d345dcb8481077097c0dc96a0e6d25832a8c25a8092357a6265dd752f912454c",
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-execution.json",
+      "scope": {
+        "target_overview_inspected_before_crops": true,
+        "target_rows_followed_left_to_right": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "target_unexamined_spans": [],
+        "main_text_status": "Provisional source-ordered reading with bounded unresolved components; not a completed glyph-exact transcription.",
+        "interlinear_and_margin_status": "Visually surveyed; uncertain marginal wording and reddish impressions retained explicitly.",
+        "punctuation_status": "Boundary locations inventoried; exact graphic decomposition and filler counts incomplete.",
+        "supported_anchor_extent": "U00101 suffix through U00148 prefix; intervening alignment supported by observed sequences, not by the supplied broad locator range.",
+        "variant_status": "No definite lexical variant adopted from unresolved components. Unmarked readings are provisional observations, not whole-page agreement certification.",
+        "evidence_independence": "All target crops, bands and the rotated edge depict the same source image; they are not independent witnesses.",
+        "review_character": "Informed agent reading with the base reference available; not blind review or human palaeographic certification.",
+        "whole_chapter_certification": false,
+        "tools_network_file_access_OCR_writes": "None used."
+      },
+      "proposals_adopted": false
+    }
+  ],
+  "chapter_complete": false
+}

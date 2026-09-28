@@ -1,0 +1,125 @@
+{
+  "scope": "Preserved electronic-source identity, exact quotation accounting and acquired-file inventory; not visual proofreading",
+  "sources": [
+    {
+      "siglum": "A",
+      "path": "editions/adzom-2000/W1KG11703_7.txt",
+      "full_file_sha256": "18bd9ce65311e2d6d7c703f053a5c0aac347e899a75f8749a8f9afd891452edc",
+      "chapter_offsets": [
+        0,
+        76376
+      ],
+      "chapter_sha256": "34e3e43dcd3a24e31548d08f23ea18fff21f8c3a6a2bbabc2dcc1f3bc14bc9eb",
+      "chapter_bytes": 223998
+    },
+    {
+      "siglum": "B",
+      "path": "editions/tharpaling-1983/W27491_7.txt",
+      "full_file_sha256": "df05454b1ca21d893188b30e00b7b463abe369afc6ec26d917354a7d6de464c3",
+      "chapter_offsets": [
+        0,
+        76794
+      ],
+      "chapter_sha256": "37bcf19f883260eda8a8dee0c0fb038393f3477fd1afd8a3c695b7c3343fb510",
+      "chapter_bytes": 225188
+    },
+    {
+      "siglum": "S",
+      "path": "editions/sichuan-2016/W3CN7084_7.txt",
+      "full_file_sha256": "2cf6b52889211579dff68f2e064032f40926de266242f111b3c94bb4efa47c57",
+      "chapter_offsets": [
+        0,
+        76999
+      ],
+      "chapter_sha256": "1a7e521f6f0fd2af41c6963eaf8c6607c0b73c2cc6f9555407b2ef0a5ccdfea9",
+      "chapter_bytes": 225405
+    }
+  ],
+  "unicode_normalization": "none",
+  "sichuan_family": {
+    "original_docx_hash_verified": true,
+    "extracted_txt_hash_verified": true,
+    "separate_txt_matches_after_BOM_decode_and_outer_whitespace": true,
+    "independent_witnesses_from_these_three_files": 1,
+    "docx_extraction_reperformed": false,
+    "inventory": [
+      {
+        "path": "editions/sichuan-2016/W3CN7084_7.docx",
+        "bytes": 132076,
+        "sha256": "2bdc5f0470bf4311caae308ee1cbef83d21e060021f7f0cf4e79f3608d704567"
+      },
+      {
+        "path": "editions/sichuan-2016/W3CN7084_7.txt",
+        "bytes": 463712,
+        "sha256": "2cf6b52889211579dff68f2e064032f40926de266242f111b3c94bb4efa47c57"
+      },
+      {
+        "path": "editions/sichuan-2016/README.md",
+        "bytes": 1196,
+        "sha256": "80fe6f71adc6f06ae0c5dd72c1a482b1e186ce18c05343a87d86ca0b9d38d331"
+      },
+      {
+        "path": "editions/sichuan-2016/s.txt",
+        "bytes": 463715,
+        "sha256": "32c8281eee82651da3e187a1b3fc33aca96bef31aff4ddd5c395e1ab5dfec1e4"
+      },
+      {
+        "path": "editions/sichuan-2016/etext-provenance.json",
+        "bytes": 682,
+        "sha256": "ef89048d8fc62d03b9ad6990ea239f9e812678889db29c5cf7a4975fdbb048be"
+      },
+      {
+        "path": "editions/sichuan-2016/metadata/internet-archive.json",
+        "bytes": 15746,
+        "sha256": "bcecb00ee205eed5b063b2fe9190fc1eec1a08fbf2b73f5fc7b5c1ca38f2dc94"
+      },
+      {
+        "path": "editions/sichuan-2016/metadata/iiif-collection.json",
+        "bytes": 1659,
+        "sha256": "f4738552fe7662de9d3498c0c22bedaf6a88dc95fcfbec7890649d82d41ffa4f"
+      },
+      {
+        "path": "editions/sichuan-2016/metadata/publication.json",
+        "bytes": 10426,
+        "sha256": "9cc33464271d08de5153af3730af5e091058527b0f7029349d4c239dae649cdf"
+      },
+      {
+        "path": "editions/sichuan-2016/metadata/scan.json",
+        "bytes": 1395,
+        "sha256": "c8876d8d13715c188a582e450971d8dafc56cb3719d4a8d4d754b1292d20e5c2"
+      },
+      {
+        "path": "editions/sichuan-2016/metadata/volume-manifest.json",
+        "bytes": 67122,
+        "sha256": "b360b98e37466d3619a062f1d4d6c6598008227cf746a6f366c5229a4c2ecd2a"
+      }
+    ],
+    "full_scan_pdf_or_image_archive_acquired": false,
+    "limitation": "No acquired full facsimile in this source directory; supplied S strings are transcript evidence only. Historical remote restrictions are not asserted as fresh global availability findings."
+  },
+  "wikisource": {
+    "revision_id": 439571,
+    "revision_timestamp": "2015-09-09T14:02:11Z",
+    "source_sha256": "d2a6e95e8c65d28d7812efa79d65bd397a0796a9e00621430a86b5713b70ede8",
+    "duplicate_files_identical": true,
+    "chapter_file_lines": [
+      1,
+      2664
+    ],
+    "next_chapter_marker_line": 2665,
+    "conflict_blocks": 273,
+    "exact_source_quotations_checked": 300,
+    "exact_website_quotations_checked": 225,
+    "alignment_only_normalization": "Strip EWTS / _ * # @ signs, collapse whitespace. Apparatus retains complete exact source Tibetan/Wylie and exact website lines. Romanization category lowercases/removes stack + spacing for classification only; it is not proof of Tibetan equivalence.",
+    "status": "Related digital reference, not an additional independently certified print; diagnostic Unicode conversion is not adopted."
+  },
+  "exact_reconstruction_checks": [
+    "minimal_B_exact",
+    "minimal_S_exact",
+    "whole_unit_B_exact",
+    "whole_unit_S_exact"
+  ],
+  "all_checks_passed": true,
+  "chapter_complete": false,
+  "publication_status": "Not yet published; coordinator must verify the remote checkpoint."
+}

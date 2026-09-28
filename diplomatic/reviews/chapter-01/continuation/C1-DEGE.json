@@ -8,7 +8,7 @@
   "batches": [
     {
       "batch_id": "B01-P0003",
-      "status": "claimed_prepared_not_read",
+      "status": "reading_captured_pending_coordinator_review",
       "owner": "reader-C1-DEGE-B01-P0003-reader",
       "baseline_commit": "d5a05bc3c9c6abee18459895c4fec8aa6e093548",
       "scope": "DEGE PDF3: establish actual opening/closing anchors, then inspect all seven main rows and all interlinear/marginal source material and signs. PDF2/4 are contextual flanks only; earlier opening reports did not certify them fully. Broad U1-250 base range is a locator aid, NOT an inferred page mapping. Read source independently wherever it disagrees. Retain faint letter components with exact bounds rather than treating the entire page as unavailable. Native color images are authoritative; any explicitly labeled channel view is only a deterministic contrast aid, not new pixels or another witness.",
@@ -17,7 +17,37 @@
       "specification": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-spec.json",
       "rows_actually_compared": [],
       "observations": [],
-      "canonical_record_ids": []
+      "canonical_record_ids": [],
+      "independent_review": {
+        "task_id": "C1-DEGE",
+        "batch_id": "B01-P0003",
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt",
+        "sha256": "d345dcb8481077097c0dc96a0e6d25832a8c25a8092357a6265dd752f912454c",
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-execution.json",
+        "scope": {
+          "target_overview_inspected_before_crops": true,
+          "target_rows_followed_left_to_right": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "target_unexamined_spans": [],
+          "main_text_status": "Provisional source-ordered reading with bounded unresolved components; not a completed glyph-exact transcription.",
+          "interlinear_and_margin_status": "Visually surveyed; uncertain marginal wording and reddish impressions retained explicitly.",
+          "punctuation_status": "Boundary locations inventoried; exact graphic decomposition and filler counts incomplete.",
+          "supported_anchor_extent": "U00101 suffix through U00148 prefix; intervening alignment supported by observed sequences, not by the supplied broad locator range.",
+          "variant_status": "No definite lexical variant adopted from unresolved components. Unmarked readings are provisional observations, not whole-page agreement certification.",
+          "evidence_independence": "All target crops, bands and the rotated edge depict the same source image; they are not independent witnesses.",
+          "review_character": "Informed agent reading with the base reference available; not blind review or human palaeographic certification.",
+          "whole_chapter_certification": false,
+          "tools_network_file_access_OCR_writes": "None used."
+        },
+        "proposals_adopted": false
+      }
     }
   ],
   "current_wave_id": "CONTINUE2-W02"
