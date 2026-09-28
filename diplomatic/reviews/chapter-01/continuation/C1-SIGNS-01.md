@@ -15,3 +15,7 @@ U02090 crosses PDF81 row6 to PDF82 row1; its ka stem is not an extra shad. U0248
 Full observations, exact bounds and hashes are in [the JSON report](C1-SIGNS-01.json) and [crop manifest](../../../evidence/chapter-01/continuation/C1-SIGNS-01/crop-manifest.json). The [first independent attempt](C1-SIGNS-01-independent.md) remains preserved.
 
 Next: a separate image-attached review, without altering tool permissions. The shorter context crops remain saved alongside taller alternatives. This is not continuous page collation or chapter completion.
+
+## Separate image reading received
+
+The [image-attached review](C1-SIGNS-01-independent-attached.md) directly inspected the five locations. It agrees with the coordinator on U02489 main text having two shads. At the other four boundaries it assigns the upright before the next phrase to that phrase instead of the preceding terminal. This is a real recorded disagreement in sign allocation; no correction is integrated at this checkpoint. A follow-up must inventory all detached marks across the boundary and explain where they are encoded, without allowing a printed mark to disappear between units.

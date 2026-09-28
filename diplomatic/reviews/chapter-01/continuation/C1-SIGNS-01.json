@@ -2,7 +2,7 @@
   "task_id": "C1-SIGNS-01",
   "baseline_commit": "7fe1ac75164bfb44ca6f3aac0b0c4a31f0f5942c",
   "reader": "ChatGPT-coordinator-20260928-C1-SIGNS-01",
-  "status": "first_reader_complete_independent_inspection_blocked",
+  "status": "independent_reading_received_boundary_allocation_disagreement",
   "scope": "Only U02090, U02172, U02183, U02484, U02489; no canonical decisions yet.",
   "startup": {
     "inherited_worktree": "clean, including untracked and ignored project files",
@@ -25,11 +25,12 @@
   ],
   "method": "Full native image inspection followed by explicit Tibetan neighbor-to-anchor mapping. Historical candidate labels and expected strings are hypotheses, not evidence. No OCR.",
   "independent_review": {
-    "status": "blocked_no_visual_inspection",
+    "status": "visual_correspondence_completed_sign_allocation_disagreement",
     "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent.md",
     "session_log": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-session.jsonl",
     "stderr_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-stderr.txt",
-    "note": "Preserved access-limitation report; no independent glyph or anchor certification."
+    "note": "Preserve both actual reads. The independent attached-image agent acknowledges the separated upright before the next phrase but calls it an opening mark rather than a target-terminal mark at four boundaries. Its proposed strings do not show where that mark would be encoded in the next unit. No silent agreement or adoption is inferred.",
+    "successful_image_report": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md"
   },
   "observations": [
     {
@@ -63,7 +64,7 @@
       "existing_reading": "ལས་རྣམས་སྟོན་པ་ཙན་ཏི་ཀ །",
       "proposed_reading": "ལས་རྣམས་སྟོན་པ་ཙན་ཏི་ཀ །",
       "observed_terminal_shad_count": 1,
-      "disposition": "retained_existing_reading",
+      "disposition": "unresolved",
       "integration_status": "first_reader_only_not_integrated",
       "rationale": "The final vertical of ka is joined to its letter body; only one additional detached shad stands before the following འདི. The historical crop identifies only the continuation of this cross-page anchor, not its complete text.",
       "confidence": {
@@ -132,12 +133,16 @@
         }
       ],
       "independent_review": {
-        "status": "blocked",
-        "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent.md",
-        "reason": "First independent agent did not invoke an image viewer because its ACP policy needed an unavailable authorization tool; its hash checks do not certify signs."
+        "status": "target_correspondence_confirmed",
+        "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md",
+        "terminal_shad_count_in_reviewer_allocation": 0,
+        "agreement": "disagrees on boundary allocation: independent reader excludes the upright before next segment as its opening mark",
+        "note": "Different boundary ownership must not cause a printed sign to disappear from the continuous reading."
       },
       "canonical_record_ids": [],
-      "next_step": "Obtain a separate actual image correspondence review before any adoption."
+      "next_step": "Request explicit physical inventory of ALL detached shads between the two letter groups, separate from assigning signs to units. Preserve the disagreement until resolved.",
+      "historical_crop_correspondence": "Historical crop contains only the page82 continuation and a clipped next anchor; wider page81/page82 context establishes the full target. Correct continuation label, not a complete-verse crop.",
+      "first_reader_disposition": "retained_existing_reading"
     },
     {
       "id": "C1-SIGNS-01-U02172",
@@ -217,12 +222,16 @@
         }
       ],
       "independent_review": {
-        "status": "blocked",
-        "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent.md",
-        "reason": "First independent agent did not invoke an image viewer because its ACP policy needed an unavailable authorization tool; its hash checks do not certify signs."
+        "status": "target_correspondence_confirmed",
+        "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md",
+        "terminal_shad_count_in_reviewer_allocation": 1,
+        "agreement": "disagrees on boundary allocation: independent reader excludes the upright before next segment as its opening mark",
+        "note": "Different boundary ownership must not cause a printed sign to disappear from the continuous reading."
       },
       "canonical_record_ids": [],
-      "next_step": "Obtain a separate actual image correspondence review before any adoption."
+      "next_step": "Request explicit physical inventory of ALL detached shads between the two letter groups, separate from assigning signs to units. Preserve the disagreement until resolved.",
+      "historical_crop_correspondence": "Historical crop contains the named target and the start of the following anchor; preceding context supplied separately.",
+      "first_reader_disposition": "unresolved"
     },
     {
       "id": "C1-SIGNS-01-U02183",
@@ -320,12 +329,16 @@
         }
       ],
       "independent_review": {
-        "status": "blocked",
-        "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent.md",
-        "reason": "First independent agent did not invoke an image viewer because its ACP policy needed an unavailable authorization tool; its hash checks do not certify signs."
+        "status": "target_correspondence_confirmed",
+        "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md",
+        "terminal_shad_count_in_reviewer_allocation": 1,
+        "agreement": "disagrees on boundary allocation: independent reader excludes the upright before next segment as its opening mark",
+        "note": "Different boundary ownership must not cause a printed sign to disappear from the continuous reading."
       },
       "canonical_record_ids": [],
-      "next_step": "Obtain a separate actual image correspondence review before any adoption."
+      "next_step": "Request explicit physical inventory of ALL detached shads between the two letter groups, separate from assigning signs to units. Preserve the disagreement until resolved.",
+      "historical_crop_correspondence": "Historical crop contains preceding U02182, the target and only the beginning of U02184. It is not a whole-row or whole-next-anchor certificate.",
+      "first_reader_disposition": "unresolved"
     },
     {
       "id": "C1-SIGNS-01-U02484",
@@ -405,12 +418,16 @@
         }
       ],
       "independent_review": {
-        "status": "blocked",
-        "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent.md",
-        "reason": "First independent agent did not invoke an image viewer because its ACP policy needed an unavailable authorization tool; its hash checks do not certify signs."
+        "status": "target_correspondence_confirmed",
+        "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md",
+        "terminal_shad_count_in_reviewer_allocation": 1,
+        "agreement": "disagrees on boundary allocation: independent reader excludes the upright before next segment as its opening mark",
+        "note": "Different boundary ownership must not cause a printed sign to disappear from the continuous reading."
       },
       "canonical_record_ids": [],
-      "next_step": "Obtain a separate actual image correspondence review before any adoption."
+      "next_step": "Request explicit physical inventory of ALL detached shads between the two letter groups, separate from assigning signs to units. Preserve the disagreement until resolved.",
+      "historical_crop_correspondence": "Historical crop contains the named target and following fragment; previous complete context is supplied by the wider strip.",
+      "first_reader_disposition": "unresolved"
     },
     {
       "id": "C1-SIGNS-01-U02489",
@@ -513,16 +530,20 @@
         }
       ],
       "independent_review": {
-        "status": "blocked",
-        "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent.md",
-        "reason": "First independent agent did not invoke an image viewer because its ACP policy needed an unavailable authorization tool; its hash checks do not certify signs."
+        "status": "target_correspondence_confirmed",
+        "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md",
+        "terminal_shad_count_in_reviewer_allocation": 2,
+        "agreement": "agrees on two main terminal shads; heading sign remains unread",
+        "note": "Different boundary ownership must not cause a printed sign to disappear from the continuous reading."
       },
       "canonical_record_ids": [],
-      "next_step": "Obtain a separate actual image correspondence review before any adoption."
+      "next_step": "Integrate supported main-terminal change while preserving heading uncertainty.",
+      "historical_crop_correspondence": "Historical main crop clips upper portions of the main letters/vowels; its visible terminal strokes are not sufficient alone for full target identity. The taller context and full page establish the target and frame. Historical heading crop belongs to the separate page97 source heading, not the main terminal.",
+      "first_reader_disposition": "unresolved"
     }
   ],
   "canonical_record_ids": [],
-  "next_step": "Retry independent reading with the saved source images attached directly as input, without changing tool permissions. If unavailable, preserve blocked candidates; do not adopt.",
+  "next_step": "Save the independent report and allocation disagreement, then seek a focused boundary-inventory addendum before integrating the disputed four boundaries.",
   "evidence_paths_and_hashes": [
     {
       "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p081-native.png",
@@ -594,6 +615,11 @@
     {
       "commit": "df1599d1eb0d819fc9cc2e108264cd2e93ed3101",
       "scope": "native pages, initial context strips and historical crop reproduction audit",
+      "remote": "origin/main"
+    },
+    {
+      "commit": "a95bebc294c0c57f68144b28741e5947f98e8736",
+      "scope": "coordinator five first-reader findings, wider evidence, and blocked first independent attempt",
       "remote": "origin/main"
     }
   ],

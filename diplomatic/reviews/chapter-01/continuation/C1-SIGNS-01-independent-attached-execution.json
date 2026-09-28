@@ -1,0 +1,112 @@
+{
+  "task_id": "C1-SIGNS-01",
+  "attempt_id": "independent-attached",
+  "baseline_commit": "a95bebc294c0c57f68144b28741e5947f98e8736",
+  "agent": "separate local Codex CLI invocation; independent context, not a human reader or blind test",
+  "mode": "read-only sandbox; saved source images passed through ordinary CLI image attachments; no tools requested; no permissions or authorization rules changed",
+  "earlier_attempt": "C1-SIGNS-01-independent.md",
+  "attachment_order": [
+    {
+      "index": 1,
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p081-native.png",
+      "sha256": "bc6cef50f76c7152083dccda4ef3176c4b578d5f75ec1023a9099f6523eab01d"
+    },
+    {
+      "index": 2,
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p082-native.png",
+      "sha256": "f35351ea5b0b4e6e1f14ed6aa71e8a9969c6e8a2386bed45d16050e209addd91"
+    },
+    {
+      "index": 3,
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p085-native.png",
+      "sha256": "556b67acc769b5dcba4b60ee42a3be1b7c1201eac8d5ff9ac5d94c4727e125f7"
+    },
+    {
+      "index": 4,
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p096-native.png",
+      "sha256": "11a98728e5974979f0f27349daf143e5ae935e621d50ae2f9491bffbddbb27de"
+    },
+    {
+      "index": 5,
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p097-native.png",
+      "sha256": "34c91dd83af8287f7caa6de5b5afb924069578a6f16f8804532f0328a1b9af29"
+    },
+    {
+      "index": 6,
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p081-row6-right-context-tall.png",
+      "sha256": "118b78e8317a645b3a0df495917993c6509c3fdd973e22fc6bc49f3b978cf624"
+    },
+    {
+      "index": 7,
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p082-row1-left-context.png",
+      "sha256": "ff8b31609f1260035d0b7256014bde698e7a510daed5237e2b52b71c4628bb5c"
+    },
+    {
+      "index": 8,
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p085-row1-context.png",
+      "sha256": "594aaf4221f357e9af89a6ba9b97d8643030b0743bea73ba014da67742142d84"
+    },
+    {
+      "index": 9,
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p085-row3-context-left.png",
+      "sha256": "23e587cc783ef1840e9d57f5cd48decfc74b62d2f7918d5e9320f8a9a6960a2b"
+    },
+    {
+      "index": 10,
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p085-row3-context-right.png",
+      "sha256": "58cb5600d30d62cb4655eac69826e49cd3561c01ae2423e5af91a1e1d943c866"
+    },
+    {
+      "index": 11,
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p096-row5-context.png",
+      "sha256": "b52e57479b2d9fa9b41a9b5c4638008507535d87de0794117bc9bf6001ac9ca2"
+    },
+    {
+      "index": 12,
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p096-row6-context-tall.png",
+      "sha256": "35c17c0657507f9604b1d8e7057a666300d14b4f8d92718bff6b9e22d8947773"
+    },
+    {
+      "index": 13,
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p097-row1-context.png",
+      "sha256": "1f76a2883cc1a9324c2afbab1ddf40018f15bd6bfd0f2627d7462f5937095a4e"
+    },
+    {
+      "index": 14,
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/U02090-terminal-detail.png",
+      "sha256": "5632af6c5c839fe61d88d67a9296d60c4f3767231a5ffa40df1898f9580a1a83"
+    },
+    {
+      "index": 15,
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/U02172-terminal-detail.png",
+      "sha256": "f11273a685dc39b248e084b6d2beb38f562f4c5d0912496e57d1c9b069f82e9c"
+    },
+    {
+      "index": 16,
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/U02183-terminal-detail.png",
+      "sha256": "693253adb64ba30362316d36850af5ceed8356bc3188ec4b85ba14d398b41b6e"
+    },
+    {
+      "index": 17,
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/U02484-terminal-detail.png",
+      "sha256": "ce473cf6a82b7a67d0ef485825d54c677bc8fbeb69662cd8c74970c3ba35df4d"
+    },
+    {
+      "index": 18,
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/U02489-terminal-detail.png",
+      "sha256": "f30b0d0ac21a02b3056b0d91af335fd830b071e0d019fe393cd271591c91c84b"
+    }
+  ],
+  "instruction_summary": "Inspect five full native pages then exact context/detail crops; trace actual Tibetan neighbors to five supplied anchor IDs; count signs separately from character strokes/frames; keep U02489 main/heading distinct; no tools, OCR, normalization or canonical edits; report inability if attachments unavailable or governing policy prevents inspection. First-reader conclusions withheld; existing electronic readings were supplied as locators only.",
+  "prompt_coordinate_note": "One prompt line redundantly wrote U02172 top coordinate as 2750-2475, immediately expanded there to correct [2740,275,3150,465]. Manifest and attached pixels carry the authoritative bounds.",
+  "output_report": "C1-SIGNS-01-independent-attached.md",
+  "session_log": "C1-SIGNS-01-independent-attached-session.jsonl",
+  "stderr": "C1-SIGNS-01-independent-attached-stderr.txt",
+  "status": "completed",
+  "request_path": "C1-SIGNS-01-independent-attached-request.txt",
+  "request_provenance": "Exact active process heredoc recovered from its own ps command; displayed octal newline escapes decoded. No unrelated process or credential inspection.",
+  "exit_status": 0,
+  "result": "Direct attached-image inspection succeeded. All five target locations confirmed within quoted fragment scopes. U02489 main two shads agrees; four other boundaries differ because the independent reader allocates the detached upright before the following text to that following segment.",
+  "report_sha256": "bf6b1f506e21e7328dbe0ec055e8a3accc91ea779f0484c66b73d7ea08aae80b",
+  "session_sha256": "36668582868ea265b84453637708417c2eaac7b127b974083b6504599524c6e0"
+}
