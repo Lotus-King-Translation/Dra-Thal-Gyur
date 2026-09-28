@@ -242,20 +242,26 @@
         60,
         61
       ],
-      "adopted_main_reading_changes": 4,
+      "adopted_main_reading_changes": 5,
       "existing_readings_retained": 0,
-      "unresolved_anchors": [
-        "U00995"
-      ],
+      "unresolved_anchors": [],
       "fully_collated_pages_added": 0,
-      "scope": "Four corroborated two-shad boundaries. U00995 count disputed (2 versus3); no correction adopted at that anchor. Source layers and whole-page signs remain uncollated."
+      "scope": "Five local two-shad boundaries. Initial U00995 count disagreement is retained with the same-reader structural correction; no complete-page sign or source-layer certificate.",
+      "physical_detached_mark_counts": [
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "independent_boundary_adjudication": "reviews/chapter-01/continuation/C1-SIGNS-02-U00995-adjudication.json"
     }
   ],
   "known_unit_sign_queue": {
     "queue": "WORK-QUEUE.json",
     "original_candidate_identities": 30,
-    "completed_candidates": 9,
-    "unfinished_candidates": 21,
+    "completed_candidates": 10,
+    "unfinished_candidates": 20,
     "note": "Scheduling/disposition count, not a chapter completeness percentage or a full-page signs pass."
   }
 }

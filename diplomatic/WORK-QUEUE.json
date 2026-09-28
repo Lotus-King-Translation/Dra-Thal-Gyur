@@ -189,7 +189,7 @@
         "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-02.json",
         "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-02.md"
       ],
-      "checkpoint_commit": "f3fcbfc8e3998de517bfa32603419160feaab169",
+      "checkpoint_commit": "34b193869a30e427e285d44773a939d66a6ee2cc",
       "blocker": null,
       "dependency_policy": "preferred_order"
     },
@@ -1055,9 +1055,9 @@
       "id": "C1-SIGN-U00995",
       "anchor": "U00995",
       "batch_id": "C1-SIGNS-02",
-      "status": "blocked",
+      "status": "done",
       "owner": "ChatGPT-coordinator-20260928-session2",
-      "disposition": "unresolved",
+      "disposition": "adopted",
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
         "json_pointer": "/before_units/U00995"
@@ -1071,11 +1071,10 @@
         "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/U00995-terminal.png",
         "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/U00995-wide-terminal-context.png"
       ],
-      "canonical_record_ids": [],
-      "blocker": {
-        "reason": "Independent reader reports three marks; coordinator two. Need final-pa stem versus detached shad discrimination; no adoption pending resolution.",
-        "next_step": "Reinspect the final pa-head/stem and the three reported uprights in wide native context; save structural adjudication."
-      }
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U00995"
+      ],
+      "blocker": null
     },
     {
       "id": "C1-SIGN-U01094",

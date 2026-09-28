@@ -1,0 +1,14 @@
+{
+  "anchor": "U00995: PDF40, main-text row 5. Correspondence established from visible དེ་ཡི་རྗེས་སུ་སྐལ་ལྡན་པ followed by སོ་ཤའི.",
+  "observed_boundary_inventory": [
+    {"upright": 1, "position": "Immediately beside the final པ body", "observation": "Its lower end meets the curved/diagonal body of པ. It is the letter's descending right limb, not a detached shad."},
+    {"upright": 2, "position": "Immediately right of that letter limb", "observation": "A separate narrow column with its own top and descending stem; a white gap separates it from པ.", "classification": "Detached shad"},
+    {"upright": 3, "position": "Across the wider blank interval, before སོ", "observation": "A separate upright with a broad top and tapering lower stem, detached from the following letter.", "classification": "Detached shad"}
+  ],
+  "final_letter_strokes": "The final པ has an angled upper head, a leftward turn into its lower body, and a curved/diagonal return toward the right. That return meets the close descending upright at the lower-right corner. Counting this upright separately from the body incorrectly adds punctuation.",
+  "counts": {"detached_boundary_shads": 2, "detached_terminal_tshegs": 0, "letter_uprights_excluded": 1},
+  "confidence": "High for correspondence; moderately high for the stroke classification and two-shad count.",
+  "uncertainty": "Fine raster interruptions limit certainty about every point of ink continuity. The wider context nevertheless supports the close upright's membership in པ; I do not see a third independently detached punctuation column.",
+  "whether_prior_count_is_maintained": false,
+  "reasoning": "Reinspection of the native row, then the wide context and detail, corrects my earlier segmentation: I counted the final པ's right limb as punctuation. Excluding that limb leaves one target-adjacent shad and one following-leading shad. The combined visible boundary is པ། །སོ."
+}

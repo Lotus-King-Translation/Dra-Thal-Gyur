@@ -2567,5 +2567,45 @@
       "physical_boundary_shads": 2,
       "scope": "One local boundary; not a complete-page sign or lexical certificate."
     }
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260928-U00995",
+    "units": [
+      "U00995"
+    ],
+    "original_units": {
+      "U00995": "དེ་ཡི་རྗེས་སུ་སྐལ་ལྡན་པ།"
+    },
+    "replacement_units": {
+      "U00995": "དེ་ཡི་རྗེས་སུ་སྐལ་ལྡན་པ། །"
+    },
+    "old": "དེ་ཡི་རྗེས་སུ་སྐལ་ལྡན་པ།",
+    "new": "དེ་ཡི་རྗེས་སུ་སྐལ་ལྡན་པ། །",
+    "rationale": "Two detached shads separate final pa from so. The close descending limb belongs to final pa and is excluded from punctuation. The independent reader initially counted that limb as a third shad, then corrected the structural segmentation after inspecting wider native context; both reports are preserved. Fine raster interruptions remain a limit on certainty. Both boundary marks are encoded once at the preceding electronic unit end; spacing is editorial, not a measured facsimile.",
+    "locator": "Adzom2000 PDF40 / BDRC42 / main row5",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p040-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p040-row5-context.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/U00995-terminal.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/U00995-wide-terminal-context.png"
+    ],
+    "evidence_hashes": {
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p040-native.png": "f0a89327bcf49d11b5bc21129b2ce3f71d6a2f9f8f43b0135d8b2b50290fac6a",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/p040-row5-context.png": "78b198b5f35175db2ccacc95eb874ba97b10ca8fb42fbc818853495882985850",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/U00995-terminal.png": "a05b62ab80b6ab0271a9699a0f5760ec054a77d152439df38e0036c5ed0e1192",
+      "evidence/chapter-01/continuation/C1-SIGNS-02/U00995-wide-terminal-context.png": "2740061f5b30eda3c018d8b862b426973a7c42cc0b9b0537ce4526981c173d98"
+    },
+    "confidence": {
+      "correspondence": "high",
+      "boundary_shads": "moderately high; final-pa membership rechecked in wider context"
+    },
+    "source_record": "reviews/chapter-01/continuation/C1-SIGNS-02.json#U00995",
+    "punctuation_review": {
+      "independent_initial": "reviews/chapter-01/continuation/C1-SIGNS-02-independent.json",
+      "independent_adjudication": "reviews/chapter-01/continuation/C1-SIGNS-02-U00995-adjudication.json",
+      "prior_independent_count": 3,
+      "final_physical_count": 2,
+      "scope": "Local boundary only; no general sign-normalization claim."
+    }
   }
 ]

@@ -2,7 +2,7 @@
   "task_id": "C1-SIGNS-02",
   "baseline_commit": "bca0572bf753a7750041d81e306a20b0a9a20777",
   "reader": "ChatGPT-coordinator-20260928-session2",
-  "status": "four_adoptions_one_boundary_dispute",
+  "status": "five_main_terminal_decisions_integrated_awaiting_publication_receipt",
   "source_paths_and_hashes": {
     "editions/adzom-2000/sgra-thal-gyur.pdf": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343",
     "editions/adzom-2000/original-images.zip": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb"
@@ -16,7 +16,7 @@
   "candidates": [
     {
       "anchor": "U00995",
-      "status": "first_reader_provisional",
+      "status": "adopted",
       "existing_reading": "དེ་ཡི་རྗེས་སུ་སྐལ་ལྡན་པ།",
       "physical_locator": [
         40,
@@ -29,9 +29,9 @@
       },
       "observed_detached_boundary_shads": 2,
       "proposed_reading": "དེ་ཡི་རྗེས་སུ་སྐལ་ལྡན་པ། །",
-      "disposition": "unresolved",
-      "confidence": "high for local two-mark inventory; surrounding page not fully proofread",
-      "uncertainty": "Independent reader reports three marks; coordinator two. Need final-pa stem versus detached shad discrimination; no adoption pending resolution.",
+      "disposition": "adopted",
+      "confidence": "high correspondence; moderately high two-shad count",
+      "uncertainty": "Fine raster interruptions limit certainty about every point of ink continuity. The wider context nevertheless supports the close upright's membership in པ; I do not see a third independently detached punctuation column.",
       "independent_review": {
         "anchor": "U00995",
         "actual_pdf_page_and_row": "40, row 5",
@@ -102,8 +102,45 @@
           "derivation": "Unscaled native crop for disputed final-pa boundary."
         }
       ],
-      "canonical_record_ids": [],
-      "next_step": "Reinspect the final pa-head/stem and the three reported uprights in wide native context; save structural adjudication."
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U00995"
+      ],
+      "next_step": "No remaining material count disagreement; broad physical proofreading still required.",
+      "independent_adjudication": {
+        "anchor": "U00995: PDF40, main-text row 5. Correspondence established from visible དེ་ཡི་རྗེས་སུ་སྐལ་ལྡན་པ followed by སོ་ཤའི.",
+        "observed_boundary_inventory": [
+          {
+            "upright": 1,
+            "position": "Immediately beside the final པ body",
+            "observation": "Its lower end meets the curved/diagonal body of པ. It is the letter's descending right limb, not a detached shad."
+          },
+          {
+            "upright": 2,
+            "position": "Immediately right of that letter limb",
+            "observation": "A separate narrow column with its own top and descending stem; a white gap separates it from པ.",
+            "classification": "Detached shad"
+          },
+          {
+            "upright": 3,
+            "position": "Across the wider blank interval, before སོ",
+            "observation": "A separate upright with a broad top and tapering lower stem, detached from the following letter.",
+            "classification": "Detached shad"
+          }
+        ],
+        "final_letter_strokes": "The final པ has an angled upper head, a leftward turn into its lower body, and a curved/diagonal return toward the right. That return meets the close descending upright at the lower-right corner. Counting this upright separately from the body incorrectly adds punctuation.",
+        "counts": {
+          "detached_boundary_shads": 2,
+          "detached_terminal_tshegs": 0,
+          "letter_uprights_excluded": 1
+        },
+        "confidence": "High for correspondence; moderately high for the stroke classification and two-shad count.",
+        "uncertainty": "Fine raster interruptions limit certainty about every point of ink continuity. The wider context nevertheless supports the close upright's membership in པ; I do not see a third independently detached punctuation column.",
+        "whether_prior_count_is_maintained": false,
+        "reasoning": "Reinspection of the native row, then the wide context and detail, corrects my earlier segmentation: I counted the final པ's right limb as punctuation. Excluding that limb leaves one target-adjacent shad and one following-leading shad. The combined visible boundary is པ། །སོ."
+      },
+      "independent_adjudication_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-02-U00995-adjudication.json",
+      "independent_review_history_note": "The original three-shad proposal is preserved unchanged; the same independent reader corrected final-pa segmentation in the saved adjudication. This is one independent reader, not two votes.",
+      "rationale": "Two detached shads separate final pa from so. The close descending limb belongs to final pa and is excluded from punctuation. The independent reader initially counted that limb as a third shad, then corrected the structural segmentation after inspecting wider native context; both reports are preserved. Fine raster interruptions remain a limit on certainty. Both boundary marks are encoded once at the preceding electronic unit end; spacing is editorial, not a measured facsimile."
     },
     {
       "anchor": "U01094",
@@ -511,10 +548,18 @@
   "evidence_manifest": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/manifest.json",
   "checkpoint_commit": "37549955d7bc569190663c1e9da32e1eb39ff180",
   "independent_review": {
-    "path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-02-independent.json",
-    "sha256": "d227763f0d5d96faa5b9eb077007ccb4595ffe5624d3a9277f5192ffbcd86095",
-    "exit_code": 0,
-    "status": "four counts corroborated; U00995 differs, no adoption at that anchor yet"
+    "initial_report": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-02-independent.json",
+    "adjudication": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-02-U00995-adjudication.json",
+    "independent_visual_readers": 1,
+    "all_correspondences_supported": true,
+    "not_blind_or_human_certification": true
   },
-  "chapter_complete": false
+  "chapter_complete": false,
+  "verification": {
+    "independent_process_exit": 0,
+    "adjudication_process_exit": 0,
+    "source_pdf_sha256_verified": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343",
+    "source_zip_sha256_verified": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+    "scope": "Local counts only; software does not certify manuscript readings."
+  }
 }

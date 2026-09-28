@@ -1,0 +1,21 @@
+{
+  "all_checks_passed": true,
+  "baseline_commit": "bca0572bf753a7750041d81e306a20b0a9a20777",
+  "source_anchor_strings_unchanged": 2635,
+  "exact_changed_anchor_ids": [
+    "U00995",
+    "U01094",
+    "U01270",
+    "U01416",
+    "U01534"
+  ],
+  "exact_change_each": "append U+0020 SPACE and U+0F0D TIBETAN MARK SHAD",
+  "native_pages_byte_verified": 6,
+  "native_crops_pixel_verified": 16,
+  "chapter_markdown_sha256": "b0050572e044e18857d6b0d2abc2e943b13a86c951d2f87691eb867d873b1a55",
+  "chapter_complete": false,
+  "optional_batch_helper_offline_tests": {
+    "passed": 3,
+    "live_reader_calls_in_tests": 0
+  }
+}

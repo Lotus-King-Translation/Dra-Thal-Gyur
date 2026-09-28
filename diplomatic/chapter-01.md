@@ -4001,7 +4001,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00995"></a>
 
-**U00995** དེ་ཡི་རྗེས་སུ་སྐལ་ལྡན་པ། [L1-0058](#l1-0058)
+**U00995** དེ་ཡི་རྗེས་སུ་སྐལ་ལྡན་པ། ། [SIGNS-VERIFIED-20260928-U00995](#signs-verified-20260928-u00995) [L1-0058](#l1-0058)
 
 <a id="u00996"></a>
 
@@ -11927,6 +11927,24 @@ Units: [U01534](#u01534).
 
 **Evidence:** [p060-native.png](evidence/chapter-01/continuation/C1-SIGNS-02/p060-native.png), [p061-native.png](evidence/chapter-01/continuation/C1-SIGNS-02/p061-native.png), [p060-row6-right-context.png](evidence/chapter-01/continuation/C1-SIGNS-02/p060-row6-right-context.png), [p061-row1-context.png](evidence/chapter-01/continuation/C1-SIGNS-02/p061-row1-context.png), [U01534-terminal.png](evidence/chapter-01/continuation/C1-SIGNS-02/U01534-terminal.png)
 
+<a id="signs-verified-20260928-u00995"></a>
+
+### SIGNS-VERIFIED-20260928-U00995
+
+Units: [U00995](#u00995).
+
+**A transcript:** དེ་ཡི་རྗེས་སུ་སྐལ་ལྡན་པ།
+
+**Adopted reading:** དེ་ཡི་རྗེས་སུ་སྐལ་ལྡན་པ། །
+
+**Scan locator:** Adzom2000 PDF40 / BDRC42 / main row5.
+
+**Decision and reason:** Two detached shads separate final pa from so. The close descending limb belongs to final pa and is excluded from punctuation. The independent reader initially counted that limb as a third shad, then corrected the structural segmentation after inspecting wider native context; both reports are preserved. Fine raster interruptions remain a limit on certainty. Both boundary marks are encoded once at the preceding electronic unit end; spacing is editorial, not a measured facsimile.
+
+**Confidence and limits:** {"correspondence": "high", "boundary_shads": "moderately high; final-pa membership rechecked in wider context"}
+
+**Evidence:** [p040-native.png](evidence/chapter-01/continuation/C1-SIGNS-02/p040-native.png), [p040-row5-context.png](evidence/chapter-01/continuation/C1-SIGNS-02/p040-row5-context.png), [U00995-terminal.png](evidence/chapter-01/continuation/C1-SIGNS-02/U00995-terminal.png), [U00995-wide-terminal-context.png](evidence/chapter-01/continuation/C1-SIGNS-02/U00995-wide-terminal-context.png)
+
 <a id="a2000-c01-s01"></a>
 
 ### A2000-C01-S01
@@ -16182,7 +16200,7 @@ Exact differences: C1-0109, C1-0110.
 དེ་ཡི་རྗེས་སུ་སྐལ་ལྡན་པ། །སོ་ཤའི་གླིང་ཞེས་བྱ་བ་ཡི། །
 ```
 
-**Disposition and reason:** Retain A provisionally because the selected diplomatic base is Adzom. B/S disagreement is preserved, but unverified transcripts, majority agreement, grammatical preference, and doctrinal expectations do not authorize changing the base witness. This is a pending scan decision, not a finding that A is the original or superior reading.
+**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SIGNS-VERIFIED-20260928-U00995](#signs-verified-20260928-u00995). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
 
 <a id="l1-0059"></a>
 
