@@ -38,7 +38,7 @@ Two detached shads stand before the frame after the second verse; the heavier co
 
 The authored insertion records preserve their old Tibetan and Wylie strings, confidence and punctuation policy within `punctuation_review`, together with the exact independent report hash and per-line findings. Unicode spaces separate the encoded marks; they do not measure physical spacing. The old lexical restoration passes remain in force within their documented scope. Independent medium-confidence interior readings do not create new lexical corrections.
 
-This is an informed agent check with candidate strings available, not a blind reading or credentialed human palaeography. Only named local boundaries and their correspondence were examined; no full source page is newly declared collated. The first batch still needs its verified-publication receipt before expanding active review.
+This is an informed agent check with candidate strings available, not a blind reading or credentialed human palaeography. Only named local boundaries and their correspondence were examined; no full source page is newly declared collated. Batch B01 is remotely verified at `2ee597e24cccce417de37c1c7057e345ac4e7c9a`. Batch B02 now claims S04–S07 using the preserved next packet.
 
 ## Next bounded work
 

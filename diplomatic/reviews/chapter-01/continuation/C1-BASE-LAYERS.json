@@ -4,7 +4,7 @@
   "reader": "ChatGPT-coordinator-20260928-resume3",
   "status": "in_progress",
   "scope": "S02-S07 insertion punctuation and U01286 source-layer review; each subsection is separately bounded",
-  "current_batch_id": "C1-BASE-LAYERS-B01",
+  "current_batch_id": "C1-BASE-LAYERS-B02",
   "source_paths_and_hashes": {
     "task_id": "C1-BASE-LAYERS",
     "source_pdf": {
@@ -417,7 +417,7 @@
         74,
         78
       ],
-      "status": "integrated_pending_verified_publication",
+      "status": "done",
       "rows_actually_compared": [
         {
           "pdf_page": 73,
@@ -444,7 +444,7 @@
           "line_index": 0,
           "old": "སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ།",
           "new": "སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ། །",
-          "disposition": "adopted_pending_publication",
+          "disposition": "adopted",
           "independent_record": {
             "id": "A2000-C01-S02-L1",
             "visible_lexical_text": "སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ",
@@ -477,7 +477,7 @@
           "line_index": 1,
           "old": "འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ།",
           "new": "འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ། །",
-          "disposition": "adopted_pending_publication",
+          "disposition": "adopted",
           "independent_record": {
             "id": "A2000-C01-S02-L2",
             "visible_lexical_text": "འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ",
@@ -510,7 +510,7 @@
           "line_index": 2,
           "old": "སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང་།",
           "new": "སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང་། །",
-          "disposition": "adopted_pending_publication",
+          "disposition": "adopted",
           "independent_record": {
             "id": "A2000-C01-S02-L3",
             "visible_lexical_text": "སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང",
@@ -543,7 +543,7 @@
           "line_index": 0,
           "old": "གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ།",
           "new": "གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ། །",
-          "disposition": "adopted_pending_publication",
+          "disposition": "adopted",
           "independent_record": {
             "id": "A2000-C01-S03-L1",
             "visible_lexical_text": "གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ",
@@ -576,7 +576,7 @@
           "line_index": 1,
           "old": "འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ།",
           "new": "འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ། །",
-          "disposition": "adopted_pending_publication",
+          "disposition": "adopted",
           "independent_record": {
             "id": "A2000-C01-S03-L2",
             "visible_lexical_text": "འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ",
@@ -609,7 +609,7 @@
           "line_index": 2,
           "old": "འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས།",
           "new": "འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས། །",
-          "disposition": "adopted_pending_publication",
+          "disposition": "adopted",
           "independent_record": {
             "id": "A2000-C01-S03-L3",
             "visible_lexical_text": "འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས",
@@ -766,31 +766,36 @@
       },
       "coordinator_small_mark_recheck": "S02-L3 native terminal crop: a separate small headline point before the first shad is compatible with the retained tsheg; no dot is added or removed. Record the independent medium confidence rather than upgrading it. The two shads are distinct.",
       "mechanical_checks": "diplomatic/reviews/chapter-01/continuation/C1-BASE-LAYERS-B01-checks.json",
-      "chapter_sha256_after_integration": "3e62743d08488a4e72c72cf16052546bc5017d5459fd3fd3b33d4fd619e472ee"
+      "chapter_sha256_after_integration": "3e62743d08488a4e72c72cf16052546bc5017d5459fd3fd3b33d4fd619e472ee",
+      "verified_integration_commit": "2ee597e24cccce417de37c1c7057e345ac4e7c9a"
+    },
+    {
+      "batch_id": "C1-BASE-LAYERS-B02",
+      "anchors": [
+        "A2000-C01-S04",
+        "A2000-C01-S05",
+        "A2000-C01-S06",
+        "A2000-C01-S07"
+      ],
+      "pdf_pages": [
+        85,
+        90
+      ],
+      "status": "claimed",
+      "owner": "ChatGPT-coordinator-20260928-resume3",
+      "baseline_commit": "2ee597e24cccce417de37c1c7057e345ac4e7c9a",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": [],
+      "next_physical_span": "PDF85 rows4-5 S04; PDF90 rows1-2 S05/S06/S07. U01286 remains a later separate layer batch."
     }
   ],
   "remaining_targets": [
-    "A2000-C01-S02",
-    "A2000-C01-S03",
     "A2000-C01-S04",
     "A2000-C01-S05",
     "A2000-C01-S06",
     "A2000-C01-S07",
     "U01286"
   ],
-  "chapter_complete": false,
-  "prepared_next_batch": {
-    "batch_id": "C1-BASE-LAYERS-B02",
-    "anchors": [
-      "A2000-C01-S04",
-      "A2000-C01-S05",
-      "A2000-C01-S06",
-      "A2000-C01-S07"
-    ],
-    "pdf_pages": [
-      85,
-      90
-    ],
-    "status": "source_materialized_no_reading_claim"
-  }
+  "chapter_complete": false
 }
