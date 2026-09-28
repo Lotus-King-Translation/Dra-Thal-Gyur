@@ -1,0 +1,146 @@
+{
+  "baseline_commit": "b3b10d56c395bc0896463c5e66e2974e35db1df1",
+  "wave": "CONTINUE2-W01",
+  "status": "raw_readers_captured_not_yet_adopted",
+  "readers": [
+    {
+      "task_id": "C1-BASE-UNCERTAINTIES",
+      "batch_id": "B02-P0101",
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B02-P0101-reader-reading.txt",
+      "raw_sha256": "695c7e45bf1eee62cdb81ee3c2f3e239b4c5b87ff1e16bf303cb80e09b0acfbe",
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B02-P0101-reader-execution.json",
+      "rows_reported": 6,
+      "observations_reported": 5,
+      "coverage_assessment": {
+        "result": "Both complete transcript-note readings remain unverified. U02615 was not independently located; the U02620 candidate locus is physically bounded between established main-text flanks.",
+        "completed": "Overview-first inspection; all six rows searched left to right; targeted row 3 and row 4 boundaries and cluster inspected across the overlapping views.",
+        "limits": "Search coverage replaces full-page main-text transcription here. Neither non-identification nor unresolved ink proves historical absence. No target-page area was omitted from the phrase search; exhaustive unrelated lexical and punctuation collation was not undertaken.",
+        "review_status": "Informed independent image reading; not blind review, human palaeographic certification or whole-chapter certification."
+      },
+      "next_physical_span": {
+        "location": "PDF101 row 4, N-A through N-D",
+        "purpose": "Resolve the existing bounded glyph questions before adopting either transcript-note reading.",
+        "page_continuation": "Row 6 ends in the U02631 material; the following page is outside this packet."
+      },
+      "proposals_accepted": false
+    },
+    {
+      "task_id": "C1-BASE-PHYSICAL",
+      "batch_id": "B02-P0003",
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B02-P0003-reader-reading.txt",
+      "raw_sha256": "925a537442d388d0defe2b77ddf61bf496b01317ed2353e0b35475c76761f681",
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B02-P0003-reader-execution.json",
+      "rows_reported": 4,
+      "observations_reported": 18,
+      "coverage_assessment": {
+        "all_four_target_rows_followed_left_to_right": true,
+        "target_margins_and_frames_inspected": true,
+        "unit_boundaries_recorded": [
+          "B14",
+          "B15",
+          "B16",
+          "B17",
+          "B18",
+          "B19",
+          "B20",
+          "B21",
+          "B22",
+          "B23",
+          "B24",
+          "B25"
+        ],
+        "physical_row_endings_recorded": [
+          "U00017: རྒྱུ → དང",
+          "U00020: ཡོངས → སུ",
+          "U00023: ཚོགས → དམིགས",
+          "U00026: དང → PDF4 མ"
+        ],
+        "main_text_source_annotations_identified": 0,
+        "lexical_changes_proposed": [],
+        "complete_resolved_inventory": false,
+        "remaining_limits": "Seven bounded graphic or marginal questions remain. All target regions received inspection, but the marginal legend and specified signs are not settled.",
+        "review_character": "Informed independent agent reading with the base reference available; not blind review, an independent witness, human palaeographic certification or whole-chapter certification."
+      },
+      "next_physical_span": {
+        "pdf_page": 4,
+        "physical_row": 1,
+        "anchor": "U00026 continuation",
+        "visible_context": "མ་འོངས་ད་ལྟར་མེད",
+        "status": "Boundary context inspected; full PDF4 inventory not undertaken."
+      },
+      "proposals_accepted": false
+    },
+    {
+      "task_id": "C1-TINGKYE",
+      "batch_id": "B02-P0004-R4-R7",
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B02-P0004-R4-R7-reader-reading.txt",
+      "raw_sha256": "500890e0e74baf67bf089f12052a6af784bb64ae5247838f32258d50cd5e5391",
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B02-P0004-R4-R7-reader-execution.json",
+      "rows_reported": 4,
+      "observations_reported": 12,
+      "coverage_assessment": {
+        "target_rows_followed_left_to_right": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "unexamined_target_intervals": [],
+        "unresolved_target_intervals": [
+          "Q01",
+          "Q02",
+          "Q03",
+          "Q04",
+          "Q05",
+          "Q06",
+          "Q10"
+        ],
+        "target_boundary_signs_inventoried": 21,
+        "unaligned_components": "No additional free-standing lexical component was securely identified. Unresolved main-text intervals remain anchored by their neighbors; marginal clusters remain separately unaligned.",
+        "source_annotations": "No separable interlinear or inline annotation was identified within the four target rows; marginal material is recorded separately.",
+        "status": "Complete spatial inspection of the four target rows, with bounded undeciphered intervals and provisional lexical findings; not an unqualified completed collation.",
+        "review_character": "Informed independent agent reading with the base reference disclosed; neither blind review nor human palaeographic certification.",
+        "certification_scope": "No whole-page completion beyond the declared rows and no whole-chapter certification."
+      },
+      "next_physical_span": {
+        "target_end": "PDF4 row7, U00127 through པར.",
+        "outgoing_join": "PDF5 row1 opening གན⟦Q07⟧ and S22 require resolution before adopting a complete U00127 reading.",
+        "next_bounded_comparison": "PDF5 row1, starting with that outgoing join and then U00128.",
+        "frontier_constraint": "No advance to the historical isolated PDF6 check."
+      },
+      "proposals_accepted": false
+    },
+    {
+      "task_id": "C1-TSAMDRAK",
+      "batch_id": "B02-P0014",
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B02-P0014-reader-reading.txt",
+      "raw_sha256": "2fccd135a3c1c54b384012b0012b820a5e3f7c9f6013476c9ff1b34ad69b3173",
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B02-P0014-reader-execution.json",
+      "rows_reported": 7,
+      "observations_reported": 14,
+      "coverage_assessment": {
+        "target_rows_examined": 7,
+        "target_rows_transcribed": 7,
+        "status": "Full declared page inspected; transcription and collation remain provisional at the explicitly bounded lexical, graphic and marginal questions.",
+        "unaligned_components": [
+          "Additional པ in U00357",
+          "Additional པ in U00361",
+          "O01 opening ornament",
+          "N01 raised sign",
+          "M01 marginal glyph",
+          "M02 marginal legend"
+        ],
+        "source_layer_separation": "Main text, section sign, ornament, marginal material, pagination and frame remain separate.",
+        "punctuation_status": "Boundary locations inventoried; exact right-edge decomposition and B20 remain incomplete.",
+        "review_character": "Informed independent agent reading with the base reference visible; neither blind review nor human palaeographic certification.",
+        "certification_scope": "No whole-chapter certification; no remote preservation or file mutation performed."
+      },
+      "next_physical_span": {
+        "location": "PDF15 row1, following PDF14 row7 དམིགས་པ་ཡུལ་གྱི་བློ་རྣམས་ལ.",
+        "base_anchor_to_test": "U00384",
+        "mapping_status": "Unverified; no unseen continuation supplied."
+      },
+      "proposals_accepted": false
+    }
+  ]
+}

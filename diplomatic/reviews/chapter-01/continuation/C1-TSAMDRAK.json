@@ -513,14 +513,46 @@
     {
       "batch_id": "B02-P0014",
       "baseline_commit": "b3b10d56c395bc0896463c5e66e2974e35db1df1",
-      "status": "claimed_prepared_not_read",
+      "status": "reading_captured_pending_coordinator_adoption",
       "owner": "independent-reader-C1-TSAMDRAK-B02-P0014-reader",
       "scope": "Compare all seven main rows of PDF14 plus all visible source layers and signs. PDF13 is context for incoming U00350, not new whole-page coverage.",
       "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/manifest.json",
       "specification": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B02-P0014-reader-spec.json",
       "rows_actually_compared": [],
       "observations": [],
-      "canonical_record_ids": []
+      "canonical_record_ids": [],
+      "independent_review": {
+        "task_id": "C1-TSAMDRAK",
+        "batch_id": "B02-P0014",
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B02-P0014-reader-reading.txt",
+        "raw_sha256": "2fccd135a3c1c54b384012b0012b820a5e3f7c9f6013476c9ff1b34ad69b3173",
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B02-P0014-reader-execution.json",
+        "rows_reported": 7,
+        "observations_reported": 14,
+        "coverage_assessment": {
+          "target_rows_examined": 7,
+          "target_rows_transcribed": 7,
+          "status": "Full declared page inspected; transcription and collation remain provisional at the explicitly bounded lexical, graphic and marginal questions.",
+          "unaligned_components": [
+            "Additional པ in U00357",
+            "Additional པ in U00361",
+            "O01 opening ornament",
+            "N01 raised sign",
+            "M01 marginal glyph",
+            "M02 marginal legend"
+          ],
+          "source_layer_separation": "Main text, section sign, ornament, marginal material, pagination and frame remain separate.",
+          "punctuation_status": "Boundary locations inventoried; exact right-edge decomposition and B20 remain incomplete.",
+          "review_character": "Informed independent agent reading with the base reference visible; neither blind review nor human palaeographic certification.",
+          "certification_scope": "No whole-chapter certification; no remote preservation or file mutation performed."
+        },
+        "next_physical_span": {
+          "location": "PDF15 row1, following PDF14 row7 དམིགས་པ་ཡུལ་གྱི་བློ་རྣམས་ལ.",
+          "base_anchor_to_test": "U00384",
+          "mapping_status": "Unverified; no unseen continuation supplied."
+        },
+        "proposals_accepted": false
+      }
     }
   ],
   "remaining_declared_scope": "Resolve recorded opening1–13 suffix/stack uncertainties; reliable continuous PDF14–83 through row6, including signs/source notes.",

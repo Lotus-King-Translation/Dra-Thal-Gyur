@@ -1,0 +1,98 @@
+{
+  "baseline_commit": "b3b10d56c395bc0896463c5e66e2974e35db1df1",
+  "reader": "ChatGPT coordinator; supplied base locators known",
+  "scope": "Current native-source inspections, not whole-page lexical recertification",
+  "base_p003": {
+    "images_inspected": [
+      "p003-native.png",
+      "row1-left.png",
+      "row1-right.png",
+      "row2-left.png",
+      "row2-right.png",
+      "row3-left.png",
+      "row3-right.png",
+      "row4-left.png",
+      "row4-right.png",
+      "margin-inscription-rotated90.png",
+      "margin-inscription-extended-rotated90.png"
+    ],
+    "incoming_fragment": "ལས",
+    "boundary_inventory": [
+      {
+        "anchor": "U00014",
+        "detached_shads": 2,
+        "scope": "Joined final-letter limbs excluded; terminal tsheg confidence not upgraded"
+      },
+      {
+        "anchor": "U00015",
+        "detached_shads": 2,
+        "scope": "Joined final-letter limbs excluded; terminal tsheg confidence not upgraded"
+      },
+      {
+        "anchor": "U00016",
+        "detached_shads": 2,
+        "scope": "Joined final-letter limbs excluded; terminal tsheg confidence not upgraded"
+      },
+      {
+        "anchor": "U00017",
+        "detached_shads": 2,
+        "scope": "Joined final-letter limbs excluded; terminal tsheg confidence not upgraded"
+      },
+      {
+        "anchor": "U00018",
+        "detached_shads": 2,
+        "scope": "Joined final-letter limbs excluded; terminal tsheg confidence not upgraded"
+      },
+      {
+        "anchor": "U00019",
+        "detached_shads": 2,
+        "scope": "Joined final-letter limbs excluded; terminal tsheg confidence not upgraded"
+      },
+      {
+        "anchor": "U00020",
+        "detached_shads": 2,
+        "scope": "Joined final-letter limbs excluded; terminal tsheg confidence not upgraded"
+      },
+      {
+        "anchor": "U00021",
+        "detached_shads": 2,
+        "scope": "Joined final-letter limbs excluded; terminal tsheg confidence not upgraded"
+      },
+      {
+        "anchor": "U00022",
+        "detached_shads": 2,
+        "scope": "Joined final-letter limbs excluded; terminal tsheg confidence not upgraded"
+      },
+      {
+        "anchor": "U00023",
+        "detached_shads": 2,
+        "scope": "Joined final-letter limbs excluded; terminal tsheg confidence not upgraded"
+      },
+      {
+        "anchor": "U00024",
+        "detached_shads": 2,
+        "scope": "Joined final-letter limbs excluded; terminal tsheg confidence not upgraded"
+      },
+      {
+        "anchor": "U00025",
+        "detached_shads": 2,
+        "scope": "Joined final-letter limbs excluded; terminal tsheg confidence not upgraded"
+      }
+    ],
+    "internal_row_turns": [
+      "U00017: རྒྱུ / དང་རྐྱེན",
+      "U00020: ཡོངས / སུ་དག་པ་ལ",
+      "U00023: ཚོགས / དམིགས་མེད་པས"
+    ],
+    "outgoing_fragment": "འདས་དང",
+    "outgoing_anchor": "U00026",
+    "filler_scope": "Short upper-level marks at row1/2/3 outgoing edges are not full-height shads; exact filler counts remain qualified. No shad inserted inside those U anchors.",
+    "marginal_scope": "Lossless rotated extended view shows a separate ka-like marker and running-title/numeral material. Tentative gnyis within the inscription is not yet certified. First view clipped the right end and is retained as such.",
+    "lexical_claim": "No new correction proposed; earlier main lexical pass reused only within its saved scope."
+  },
+  "base_p101": {
+    "inspection": "Native full-page overview and exact row3/row4 context and note crops inspected. Dense row4 material physically precedes ston pa; exact two supplied note strings not newly certified.",
+    "independent_report_seen": true,
+    "coordinator_disposition": "Retain actual one clustered physical locus and do not allocate its ink twice. Existing separate transcript-note provenance remains qualified; no lexical adoption."
+  }
+}

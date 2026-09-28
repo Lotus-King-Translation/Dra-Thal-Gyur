@@ -2781,14 +2781,54 @@
     {
       "batch_id": "B02-P0004-R4-R7",
       "baseline_commit": "b3b10d56c395bc0896463c5e66e2974e35db1df1",
-      "status": "claimed_prepared_not_read",
+      "status": "reading_captured_pending_coordinator_adoption",
       "owner": "independent-reader-C1-TINGKYE-B02-P0004-R4-R7-reader",
       "scope": "Resume continuous comparison at PDF4 row4 U00106 sa bon; complete rows4-7 only, with PDF5 row1 outgoing context. Earlier PDF4 rows1-3 have saved comparison and must not be reclassified as newly done.",
       "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/manifest.json",
       "specification": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B02-P0004-R4-R7-reader-spec.json",
       "rows_actually_compared": [],
       "observations": [],
-      "canonical_record_ids": []
+      "canonical_record_ids": [],
+      "independent_review": {
+        "task_id": "C1-TINGKYE",
+        "batch_id": "B02-P0004-R4-R7",
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B02-P0004-R4-R7-reader-reading.txt",
+        "raw_sha256": "500890e0e74baf67bf089f12052a6af784bb64ae5247838f32258d50cd5e5391",
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B02-P0004-R4-R7-reader-execution.json",
+        "rows_reported": 4,
+        "observations_reported": 12,
+        "coverage_assessment": {
+          "target_rows_followed_left_to_right": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "unexamined_target_intervals": [],
+          "unresolved_target_intervals": [
+            "Q01",
+            "Q02",
+            "Q03",
+            "Q04",
+            "Q05",
+            "Q06",
+            "Q10"
+          ],
+          "target_boundary_signs_inventoried": 21,
+          "unaligned_components": "No additional free-standing lexical component was securely identified. Unresolved main-text intervals remain anchored by their neighbors; marginal clusters remain separately unaligned.",
+          "source_annotations": "No separable interlinear or inline annotation was identified within the four target rows; marginal material is recorded separately.",
+          "status": "Complete spatial inspection of the four target rows, with bounded undeciphered intervals and provisional lexical findings; not an unqualified completed collation.",
+          "review_character": "Informed independent agent reading with the base reference disclosed; neither blind review nor human palaeographic certification.",
+          "certification_scope": "No whole-page completion beyond the declared rows and no whole-chapter certification."
+        },
+        "next_physical_span": {
+          "target_end": "PDF4 row7, U00127 through པར.",
+          "outgoing_join": "PDF5 row1 opening གན⟦Q07⟧ and S22 require resolution before adopting a complete U00127 reading.",
+          "next_bounded_comparison": "PDF5 row1, starting with that outgoing join and then U00128.",
+          "frontier_constraint": "No advance to the historical isolated PDF6 check."
+        },
+        "proposals_accepted": false
+      }
     }
   ],
   "remaining_declared_scope": "PDF3 local uncertainties/signs/margins; PDF4 rows4-7 and listed questions; PDF5 all; PDF6 outside U180-184 junction; PDF7 all; remainder of declared witness coverage unchanged.",

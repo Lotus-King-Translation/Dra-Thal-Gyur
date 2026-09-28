@@ -1,0 +1,41 @@
+{
+  "source": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/p003-native.png",
+  "source_sha256": "7443efc091b289c3a6a3bae7c01715cbbc29a7fd6ff9958f13af4a714cfbfc79",
+  "native_bounds": [
+    485,
+    290,
+    870,
+    1015
+  ],
+  "operation": "Crop then lossless 90 degree counterclockwise pixel permutation; no resampling or reconstruction",
+  "view": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/margin-inscription-rotated90.png",
+  "sha256": "26a58e3c74741e7ba39d5bfe710de576f1e674e0ed63743be22bfd43d5e4cada",
+  "dimensions": [
+    725,
+    385
+  ],
+  "scope": "New coordinator marginal-reading aid, not an attachment to the already running reader",
+  "first_view_limit": "Right end clipped in the first rotated strip; preserved as a failed extent, not full marginal transcription.",
+  "extended_view": {
+    "native_bounds": [
+      485,
+      260,
+      920,
+      1190
+    ],
+    "view": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/margin-inscription-extended-rotated90.png",
+    "sha256": "545e4abcc104864d20432dad4e2e0ad07a3e8e232719c4a0ecf1372d2fe8c646",
+    "operation": "Lossless crop and 90-degree counterclockwise rotation; no resampling"
+  },
+  "boundary_detail": {
+    "native_bounds": [
+      1720,
+      365,
+      2110,
+      615
+    ],
+    "view": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/U00014-incoming-boundary-detail.png",
+    "sha256": "ee143da604a3b3f6e5623942ab6d7eb06af0d4104f3455d4d10025787025feca",
+    "reason": "Adjudicate actual terminal letters versus newly reported compound sign; source remains unchanged"
+  }
+}

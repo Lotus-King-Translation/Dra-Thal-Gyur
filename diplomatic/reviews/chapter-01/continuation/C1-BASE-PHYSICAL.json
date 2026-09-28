@@ -2177,14 +2177,60 @@
     {
       "batch_id": "B02-P0003",
       "baseline_commit": "b3b10d56c395bc0896463c5e66e2974e35db1df1",
-      "status": "claimed_prepared_not_read",
+      "status": "reading_captured_pending_coordinator_adoption",
       "owner": "independent-reader-C1-BASE-PHYSICAL-B02-P0003-reader",
       "scope": "Complete physical inventory of PDF3 only, all four main rows and margins. PDF2 and PDF4 are incoming/outgoing context only. Retain accepted previous lexical readings and exact prior local interventions.",
       "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/manifest.json",
       "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B02-P0003-reader-spec.json",
       "rows_actually_compared": [],
       "observations": [],
-      "canonical_record_ids": []
+      "canonical_record_ids": [],
+      "independent_review": {
+        "task_id": "C1-BASE-PHYSICAL",
+        "batch_id": "B02-P0003",
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B02-P0003-reader-reading.txt",
+        "raw_sha256": "925a537442d388d0defe2b77ddf61bf496b01317ed2353e0b35475c76761f681",
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B02-P0003-reader-execution.json",
+        "rows_reported": 4,
+        "observations_reported": 18,
+        "coverage_assessment": {
+          "all_four_target_rows_followed_left_to_right": true,
+          "target_margins_and_frames_inspected": true,
+          "unit_boundaries_recorded": [
+            "B14",
+            "B15",
+            "B16",
+            "B17",
+            "B18",
+            "B19",
+            "B20",
+            "B21",
+            "B22",
+            "B23",
+            "B24",
+            "B25"
+          ],
+          "physical_row_endings_recorded": [
+            "U00017: རྒྱུ → དང",
+            "U00020: ཡོངས → སུ",
+            "U00023: ཚོགས → དམིགས",
+            "U00026: དང → PDF4 མ"
+          ],
+          "main_text_source_annotations_identified": 0,
+          "lexical_changes_proposed": [],
+          "complete_resolved_inventory": false,
+          "remaining_limits": "Seven bounded graphic or marginal questions remain. All target regions received inspection, but the marginal legend and specified signs are not settled.",
+          "review_character": "Informed independent agent reading with the base reference available; not blind review, an independent witness, human palaeographic certification or whole-chapter certification."
+        },
+        "next_physical_span": {
+          "pdf_page": 4,
+          "physical_row": 1,
+          "anchor": "U00026 continuation",
+          "visible_context": "མ་འོངས་ད་ལྟར་མེད",
+          "status": "Boundary context inspected; full PDF4 inventory not undertaken."
+        },
+        "proposals_accepted": false
+      }
     }
   ],
   "remaining_declared_scope": "All unlisted physical dimensions on PDF1-5, plus PDF6-102; existing lexical pass and verified local signs retained. Next sub-batches complete page3,4,5 separately, with the exact prior record references supplied.",

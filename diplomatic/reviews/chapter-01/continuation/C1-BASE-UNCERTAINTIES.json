@@ -318,14 +318,35 @@
     {
       "batch_id": "B02-P0101",
       "baseline_commit": "b3b10d56c395bc0896463c5e66e2974e35db1df1",
-      "status": "claimed_prepared_not_read",
+      "status": "reading_captured_pending_coordinator_adoption",
       "owner": "independent-reader-C1-BASE-UNCERTAINTIES-B02-P0101-reader",
       "scope": "PDF101 full-page search for U02615 transcript-note wording, and glyph-level reading/source-layer/sign review of U02620. Preserve U01522 bounded findings.",
       "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/manifest.json",
       "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B02-P0101-reader-spec.json",
       "rows_actually_compared": [],
       "observations": [],
-      "canonical_record_ids": []
+      "canonical_record_ids": [],
+      "independent_review": {
+        "task_id": "C1-BASE-UNCERTAINTIES",
+        "batch_id": "B02-P0101",
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B02-P0101-reader-reading.txt",
+        "raw_sha256": "695c7e45bf1eee62cdb81ee3c2f3e239b4c5b87ff1e16bf303cb80e09b0acfbe",
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B02-P0101-reader-execution.json",
+        "rows_reported": 6,
+        "observations_reported": 5,
+        "coverage_assessment": {
+          "result": "Both complete transcript-note readings remain unverified. U02615 was not independently located; the U02620 candidate locus is physically bounded between established main-text flanks.",
+          "completed": "Overview-first inspection; all six rows searched left to right; targeted row 3 and row 4 boundaries and cluster inspected across the overlapping views.",
+          "limits": "Search coverage replaces full-page main-text transcription here. Neither non-identification nor unresolved ink proves historical absence. No target-page area was omitted from the phrase search; exhaustive unrelated lexical and punctuation collation was not undertaken.",
+          "review_status": "Informed independent image reading; not blind review, human palaeographic certification or whole-chapter certification."
+        },
+        "next_physical_span": {
+          "location": "PDF101 row 4, N-A through N-D",
+          "purpose": "Resolve the existing bounded glyph questions before adopting either transcript-note reading.",
+          "page_continuation": "Row 6 ends in the U02631 material; the following page is outside this packet."
+        },
+        "proposals_accepted": false
+      }
     }
   ],
   "remaining_declared_scope": "U01522 bounded unresolved; PDF101 annotations, PDF102 inscription, and title/portrait/foreign-script questions still require their planned reviews.",
