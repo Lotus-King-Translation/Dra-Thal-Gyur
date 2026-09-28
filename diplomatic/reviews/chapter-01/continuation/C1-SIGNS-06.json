@@ -1,0 +1,51 @@
+{
+  "task_id": "C1-SIGNS-06",
+  "baseline_commit": "e406ce80e600574ffdb7b136274fa42325db0209",
+  "reader": "independent-reader-C1-SIGNS-06-20260928",
+  "status": "native_evidence_prepared_not_yet_read",
+  "source_paths_and_hashes": {
+    "editions/adzom-2000/sgra-thal-gyur.pdf": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343",
+    "editions/adzom-2000/original-images.zip": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb"
+  },
+  "planned_source_pages": [
+    61,
+    63,
+    65,
+    66,
+    68
+  ],
+  "candidates": [
+    {
+      "anchor": "U01661",
+      "existing_reading": "དྲིས་ལན་སོ་བདུན་པ།",
+      "status": "not_yet_read",
+      "disposition": null
+    },
+    {
+      "anchor": "U01727",
+      "existing_reading": "དྲིས་ལན་སོ་དགུ་པ།",
+      "status": "not_yet_read",
+      "disposition": null
+    },
+    {
+      "anchor": "U01539",
+      "existing_reading": "ཁམས་གསུམ་དུ་ཡང་ལྡོག་པ་མིན། །",
+      "status": "not_yet_read",
+      "disposition": null
+    },
+    {
+      "anchor": "U01595",
+      "existing_reading": "དེས་ནི་སོ་སོའི་རླུང་ཚད་ཟིན། །",
+      "status": "not_yet_read",
+      "disposition": null
+    },
+    {
+      "anchor": "U01688",
+      "existing_reading": "འདིས་ཀྱང་ཕན་དང་གནོད་པ་འགྲུབ། །",
+      "status": "not_yet_read",
+      "disposition": null
+    }
+  ],
+  "chapter_complete": false,
+  "evidence_manifest": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-06/manifest.json"
+}

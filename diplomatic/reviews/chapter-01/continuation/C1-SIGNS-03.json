@@ -1,0 +1,50 @@
+{
+  "task_id": "C1-SIGNS-03",
+  "baseline_commit": "e406ce80e600574ffdb7b136274fa42325db0209",
+  "reader": "ChatGPT-coordinator-session2",
+  "status": "native_evidence_prepared_not_yet_read",
+  "source_paths_and_hashes": {
+    "editions/adzom-2000/sgra-thal-gyur.pdf": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343",
+    "editions/adzom-2000/original-images.zip": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb"
+  },
+  "planned_source_pages": [
+    37,
+    39,
+    41,
+    64
+  ],
+  "candidates": [
+    {
+      "anchor": "U01627",
+      "existing_reading": "འབྱུང་བཞི་དག་ལ་དབང་སྒྱུར་འགྱུར།",
+      "status": "not_yet_read",
+      "disposition": null
+    },
+    {
+      "anchor": "U01635",
+      "existing_reading": "འཕོ་བའི་བྱེ་བྲག་རྣམ་པ་གསུམ།",
+      "status": "not_yet_read",
+      "disposition": null
+    },
+    {
+      "anchor": "U00910",
+      "existing_reading": "དྲིས་ལན་བཅུ་བཞི་པ།",
+      "status": "not_yet_read",
+      "disposition": null
+    },
+    {
+      "anchor": "U00948",
+      "existing_reading": "དྲིས་ལན་བཅོ་ལྔ་པ།",
+      "status": "not_yet_read",
+      "disposition": null
+    },
+    {
+      "anchor": "U01023",
+      "existing_reading": "དྲིས་ལན་བཅུ་དྲུག་པ།",
+      "status": "not_yet_read",
+      "disposition": null
+    }
+  ],
+  "chapter_complete": false,
+  "evidence_manifest": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/manifest.json"
+}

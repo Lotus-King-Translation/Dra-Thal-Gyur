@@ -2,7 +2,7 @@
   "task_id": "C1-SIGNS-02",
   "baseline_commit": "bca0572bf753a7750041d81e306a20b0a9a20777",
   "reader": "ChatGPT-coordinator-20260928-session2",
-  "status": "five_main_terminal_decisions_integrated_awaiting_publication_receipt",
+  "status": "done_local_boundary_review",
   "source_paths_and_hashes": {
     "editions/adzom-2000/sgra-thal-gyur.pdf": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343",
     "editions/adzom-2000/original-images.zip": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb"
@@ -561,5 +561,6 @@
     "source_pdf_sha256_verified": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343",
     "source_zip_sha256_verified": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
     "scope": "Local counts only; software does not certify manuscript readings."
-  }
+  },
+  "verified_integration_commit": "e406ce80e600574ffdb7b136274fa42325db0209"
 }

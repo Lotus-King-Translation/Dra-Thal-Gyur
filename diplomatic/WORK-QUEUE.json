@@ -4,7 +4,7 @@
   "canonical_branch": "main",
   "current_chapter": 1,
   "chapter_status": "in_progress_not_ready",
-  "next_task_id": "C1-SIGNS-02",
+  "next_task_id": "C1-SIGNS-03",
   "path_base": "repository root; JSON pointers identify records without changing their historical contents",
   "scope": "Continuation queue, not a whole-chapter collation claim. Thirty punctuation candidate identities remain tracked, including completed dispositions; unfinished items are hypotheses, not accepted readings. Existing Adzom and Dzongsar main lexical passes remain valid within their recorded scopes.",
   "reference_paths": [
@@ -154,7 +154,7 @@
     {
       "id": "C1-SIGNS-02",
       "kind": "punctuation_batch",
-      "status": "in_progress",
+      "status": "done",
       "owner": "ChatGPT-coordinator-20260928-session2",
       "depends_on": [
         "C1-SIGNS-01"
@@ -189,15 +189,15 @@
         "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-02.json",
         "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-02.md"
       ],
-      "checkpoint_commit": "34b193869a30e427e285d44773a939d66a6ee2cc",
+      "checkpoint_commit": "e406ce80e600574ffdb7b136274fa42325db0209",
       "blocker": null,
       "dependency_policy": "preferred_order"
     },
     {
       "id": "C1-SIGNS-03",
       "kind": "punctuation_batch",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "ChatGPT-coordinator-session2",
       "depends_on": [
         "C1-SIGNS-02"
       ],
@@ -227,16 +227,20 @@
       "completion_criteria": [
         "Apply every punctuation_review criterion; preserve unresolved items as blocked before taking the next pending batch."
       ],
-      "report_paths": [],
+      "report_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-03.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-03.md"
+      ],
       "checkpoint_commit": null,
       "blocker": null,
-      "dependency_policy": "preferred_order"
+      "dependency_policy": "preferred_order",
+      "parallel_dispatch_note": "One distinct five-candidate packet per reader; source parent fixed; coordinator alone adopts and publishes after all readers pause. Dependencies remain mandatory only at completion gate."
     },
     {
       "id": "C1-SIGNS-04",
       "kind": "punctuation_batch",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "independent-reader-C1-SIGNS-04-20260928",
       "depends_on": [
         "C1-SIGNS-03"
       ],
@@ -266,16 +270,20 @@
       "completion_criteria": [
         "Apply every punctuation_review criterion; preserve unresolved items as blocked before taking the next pending batch."
       ],
-      "report_paths": [],
+      "report_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04.md"
+      ],
       "checkpoint_commit": null,
       "blocker": null,
-      "dependency_policy": "preferred_order"
+      "dependency_policy": "preferred_order",
+      "parallel_dispatch_note": "One distinct five-candidate packet per reader; source parent fixed; coordinator alone adopts and publishes after all readers pause. Dependencies remain mandatory only at completion gate."
     },
     {
       "id": "C1-SIGNS-05",
       "kind": "punctuation_batch",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "independent-reader-C1-SIGNS-05-20260928",
       "depends_on": [
         "C1-SIGNS-04"
       ],
@@ -305,16 +313,20 @@
       "completion_criteria": [
         "Apply every punctuation_review criterion; preserve unresolved items as blocked before taking the next pending batch."
       ],
-      "report_paths": [],
+      "report_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05.md"
+      ],
       "checkpoint_commit": null,
       "blocker": null,
-      "dependency_policy": "preferred_order"
+      "dependency_policy": "preferred_order",
+      "parallel_dispatch_note": "One distinct five-candidate packet per reader; source parent fixed; coordinator alone adopts and publishes after all readers pause. Dependencies remain mandatory only at completion gate."
     },
     {
       "id": "C1-SIGNS-06",
       "kind": "punctuation_batch",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "independent-reader-C1-SIGNS-06-20260928",
       "depends_on": [
         "C1-SIGNS-05"
       ],
@@ -344,10 +356,14 @@
       "completion_criteria": [
         "Apply every punctuation_review criterion; preserve unresolved items as blocked before taking the next pending batch."
       ],
-      "report_paths": [],
+      "report_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-06.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-06.md"
+      ],
       "checkpoint_commit": null,
       "blocker": null,
-      "dependency_policy": "preferred_order"
+      "dependency_policy": "preferred_order",
+      "parallel_dispatch_note": "One distinct five-candidate packet per reader; source parent fixed; coordinator alone adopts and publishes after all readers pause. Dependencies remain mandatory only at completion gate."
     },
     {
       "id": "C1-BASE-LAYERS",
@@ -1182,8 +1198,8 @@
       "id": "C1-SIGN-U01627",
       "anchor": "U01627",
       "batch_id": "C1-SIGNS-03",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "ChatGPT-coordinator-session2",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -1191,7 +1207,7 @@
       },
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-03.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
@@ -1200,8 +1216,8 @@
       "id": "C1-SIGN-U01635",
       "anchor": "U01635",
       "batch_id": "C1-SIGNS-03",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "ChatGPT-coordinator-session2",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -1209,7 +1225,7 @@
       },
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-03.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
@@ -1218,8 +1234,8 @@
       "id": "C1-SIGN-U00910",
       "anchor": "U00910",
       "batch_id": "C1-SIGNS-03",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "ChatGPT-coordinator-session2",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -1227,7 +1243,7 @@
       },
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-03.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
@@ -1236,8 +1252,8 @@
       "id": "C1-SIGN-U00948",
       "anchor": "U00948",
       "batch_id": "C1-SIGNS-03",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "ChatGPT-coordinator-session2",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -1245,7 +1261,7 @@
       },
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-03.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
@@ -1254,8 +1270,8 @@
       "id": "C1-SIGN-U01023",
       "anchor": "U01023",
       "batch_id": "C1-SIGNS-03",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "ChatGPT-coordinator-session2",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -1263,7 +1279,7 @@
       },
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-03.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
@@ -1272,8 +1288,8 @@
       "id": "C1-SIGN-U01147",
       "anchor": "U01147",
       "batch_id": "C1-SIGNS-04",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "independent-reader-C1-SIGNS-04-20260928",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -1281,7 +1297,7 @@
       },
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
@@ -1290,8 +1306,8 @@
       "id": "C1-SIGN-U01186",
       "anchor": "U01186",
       "batch_id": "C1-SIGNS-04",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "independent-reader-C1-SIGNS-04-20260928",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -1299,7 +1315,7 @@
       },
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
@@ -1308,8 +1324,8 @@
       "id": "C1-SIGN-U01239",
       "anchor": "U01239",
       "batch_id": "C1-SIGNS-04",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "independent-reader-C1-SIGNS-04-20260928",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -1317,7 +1333,7 @@
       },
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
@@ -1326,8 +1342,8 @@
       "id": "C1-SIGN-U01257",
       "anchor": "U01257",
       "batch_id": "C1-SIGNS-04",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "independent-reader-C1-SIGNS-04-20260928",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -1335,7 +1351,7 @@
       },
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
@@ -1344,8 +1360,8 @@
       "id": "C1-SIGN-U01308",
       "anchor": "U01308",
       "batch_id": "C1-SIGNS-04",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "independent-reader-C1-SIGNS-04-20260928",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -1353,7 +1369,7 @@
       },
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
@@ -1362,8 +1378,8 @@
       "id": "C1-SIGN-U01353",
       "anchor": "U01353",
       "batch_id": "C1-SIGNS-05",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "independent-reader-C1-SIGNS-05-20260928",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -1371,7 +1387,7 @@
       },
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
@@ -1380,8 +1396,8 @@
       "id": "C1-SIGN-U01476",
       "anchor": "U01476",
       "batch_id": "C1-SIGNS-05",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "independent-reader-C1-SIGNS-05-20260928",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -1389,7 +1405,7 @@
       },
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
@@ -1398,8 +1414,8 @@
       "id": "C1-SIGN-U01540",
       "anchor": "U01540",
       "batch_id": "C1-SIGNS-05",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "independent-reader-C1-SIGNS-05-20260928",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -1407,7 +1423,7 @@
       },
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
@@ -1416,8 +1432,8 @@
       "id": "C1-SIGN-U01557",
       "anchor": "U01557",
       "batch_id": "C1-SIGNS-05",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "independent-reader-C1-SIGNS-05-20260928",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -1425,7 +1441,7 @@
       },
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
@@ -1434,8 +1450,8 @@
       "id": "C1-SIGN-U01634",
       "anchor": "U01634",
       "batch_id": "C1-SIGNS-05",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "independent-reader-C1-SIGNS-05-20260928",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -1443,7 +1459,7 @@
       },
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
@@ -1452,8 +1468,8 @@
       "id": "C1-SIGN-U01661",
       "anchor": "U01661",
       "batch_id": "C1-SIGNS-06",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "independent-reader-C1-SIGNS-06-20260928",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -1461,7 +1477,7 @@
       },
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-06.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
@@ -1470,8 +1486,8 @@
       "id": "C1-SIGN-U01727",
       "anchor": "U01727",
       "batch_id": "C1-SIGNS-06",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "independent-reader-C1-SIGNS-06-20260928",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -1479,7 +1495,7 @@
       },
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-06.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
@@ -1488,8 +1504,8 @@
       "id": "C1-SIGN-U01539",
       "anchor": "U01539",
       "batch_id": "C1-SIGNS-06",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "independent-reader-C1-SIGNS-06-20260928",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -1497,7 +1513,7 @@
       },
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-06.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
@@ -1506,8 +1522,8 @@
       "id": "C1-SIGN-U01595",
       "anchor": "U01595",
       "batch_id": "C1-SIGNS-06",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "independent-reader-C1-SIGNS-06-20260928",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -1515,7 +1531,7 @@
       },
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-06.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
@@ -1524,8 +1540,8 @@
       "id": "C1-SIGN-U01688",
       "anchor": "U01688",
       "batch_id": "C1-SIGNS-06",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "independent-reader-C1-SIGNS-06-20260928",
       "disposition": null,
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -1533,7 +1549,7 @@
       },
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
-      "report_path": null,
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-06.json",
       "evidence_paths": [],
       "canonical_record_ids": [],
       "blocker": null
