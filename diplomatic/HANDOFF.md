@@ -4,6 +4,8 @@
 
 ## Start a session
 
+Use Python 3.11 or newer and Git. The chapter build and validation use only the standard library. Git LFS is needed to fetch scans; the separate full asset verifier additionally needs `pikepdf`.
+
 1. Read the repository [agent instructions](../AGENTS.md), this handoff and the [work status](WORK-STATUS.md). The latter distinguishes saved coverage from unfinished reading. Read the [method](METHOD.md) before making editorial decisions.
 2. Inspect `git status --short --branch`, including untracked files. If earlier work is present, preserve it on a new recovery branch and verify the remote checkpoint **before** checkout, regeneration, synchronization or cleanup. Never discard interrupted reports, crops or failed-reading evidence. Only the coordinator publishes while collaborators are working.
 3. On a clean checkout, fetch and fast-forward to `origin/main`. Verify the branch SHA through Git or the GitHub connector. Do not use an old recovery branch as the current base. If local and remote histories differ, inspect both; do not reset or force-push.
@@ -41,7 +43,7 @@ The queue contains six batches of five punctuation candidates, followed by base-
 
 For the first punctuation batch, create the planned JSON/Markdown report under `reviews/chapter-01/continuation/C1-SIGNS-01` and save new context/crops under `evidence/chapter-01/continuation/C1-SIGNS-01/`. Record the source hash, native member, page/row, crop bounds and **actual neighboring Tibetan sequence** before proposing a sign correction. A matching image hash does not prove that a crop belongs to its labeled anchor. Preserve the historical crops even if their labels prove wrong.
 
-Save partial reports and evidence immediately. Subagents notify the coordinator as soon as a small batch exists, including uncertain or failed findings; they do not accumulate unpublished work. Integrate supported decisions in the authored collation files specified by `decision_destinations`, with rationale and evidence. Then run:
+Save partial reports and evidence immediately inside this repository, at the queue's report/evidence paths. Scratch folders and chat messages are not durable handoff storage. Inspect ignored files with `git ls-files --others --ignored --exclude-standard` as well: unfinished project evidence named `.tmp` or `.part` must be preserved explicitly, while caches and credentials must not be staged. Subagents notify the coordinator as soon as a small batch exists, including uncertain or failed findings; they do not accumulate unpublished work. Integrate supported decisions in the authored collation files specified by `decision_destinations`, with rationale and evidence. Then run:
 
 ```bash
 python3 diplomatic/tools/build_chapter1.py --repo .
@@ -57,7 +59,7 @@ python3 diplomatic/tools/checkpoint.py --branch main --message 'Checkpoint Chapt
 
 The helper requires a fully staged working tree, publishes without force, and verifies the remote SHA. A failed push is an unfinished preservation checkpoint: resolve publication before the next substantial batch. With connector publication, create blobs/tree/commit on the freshly read remote parent, update the branch without force, read the ref again and verify its SHA; synchronize the checkout to that verified tree. Never report a local commit or uploaded blob as remotely saved.
 
-Record a verified batch SHA in the next queue/report update; the live Git ref remains the authority for the current checkpoint. Do not put a commit's own unknown hash inside its files. End each session with a verified remote checkpoint and a next task that another agent can execute from the repository alone.
+Record a verified batch SHA in the next queue/report update; the live Git ref remains the authority for the current checkpoint. Do not put a commit's own unknown hash inside its files. End each session with a verified remote checkpoint and a next task that another agent can execute from the repository alone. The [restart audit](RESUME-AUDIT.json) records the setup checks performed on 2026-09-28; rerun current checks instead of treating that historical receipt as today's result.
 
 ## Do not restart preserved work or erase uncertainty
 

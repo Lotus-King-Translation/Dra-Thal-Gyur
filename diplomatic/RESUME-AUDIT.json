@@ -1,0 +1,87 @@
+{
+  "date": "2026-09-28",
+  "scope": "Historical acceptance record for continuation setup; not a scholarly completion certificate or a claim that lost originals were recovered.",
+  "audited_implementation_commit": "1d2b34b9833769fb171e6995203a33102a08ab5d",
+  "canonical_branch": "main",
+  "entrypoint": "diplomatic/HANDOFF.md",
+  "next_task_id": "C1-SIGNS-01",
+  "consolidation": {
+    "source_commit": "061917d9bc7489d313dbcd428ce743c7c45fa2dc",
+    "recovery_files_added_to_main": 469,
+    "historical_branches_retained": true,
+    "inventoried_archival_files": 669,
+    "inventoried_archival_bytes": 138112660,
+    "historical_files_changed_or_deleted": 0
+  },
+  "chapter": {
+    "path": "diplomatic/chapter-01.md",
+    "sha256": "927d6b36c7d105efa2857ef5f2392fcf5f2f6b54f287f6c8139d43663fe51c40",
+    "unchanged_from_saved_edition": true,
+    "complete": false,
+    "new_scholarly_readings": 0
+  },
+  "verification": {
+    "read_only_build_check": "passed; four generated outputs match",
+    "read_only_validation": "passed; see VALIDATION.json for structural counts",
+    "check_mode_writes": "isolated script execution created no Python cache and changed no generated-output hashes",
+    "checkpoint_regression_tests": {
+      "passed": 4,
+      "scenarios": [
+        "commit, push and verify exact remote SHA",
+        "reject unstaged/untracked evidence without committing",
+        "reject remote work absent locally",
+        "retain local commit after rejected push without reporting success"
+      ]
+    },
+    "queue_negative_checks_rejected": [
+      "pending item with owner",
+      "unknown dependency",
+      "done task without outputs",
+      "blocked candidate without reason/next_step",
+      "unresolved disposition marked done",
+      "done batch with pending candidate",
+      "invalid historical JSON pointer"
+    ],
+    "independent_fresh_reader_review": "passed after fixing archive writer, stale source coverage, new branch creation and stale-claim instructions"
+  },
+  "materialized_and_verified_source_objects": [
+    {
+      "path": "editions/adzom-2000/sgra-thal-gyur.pdf",
+      "bytes": 37358206,
+      "sha256": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343",
+      "matches_image_manifest": true
+    },
+    {
+      "path": "editions/adzom-2000/original-images.zip",
+      "bytes": 37281893,
+      "sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+      "matches_image_manifest": true
+    }
+  ],
+  "tested_tool_sha256": {
+    "diplomatic/tools/build_chapter1.py": "a79b57147dfc26ac2427569de3d0065eb2d78595c83b4331bd8abef1caeb22fd",
+    "diplomatic/tools/validate_chapter1.py": "67535f28a00e81306888ede8e97370e30116731ca2e344913a5306e057149b70",
+    "diplomatic/tools/continuation_state.py": "335f8ced7a448d61b216ebd852a33298e1c29209a7e1ffc2dcc93e51755e52cd",
+    "diplomatic/tools/checkpoint.py": "51bb53463e40f72c704f5219ae553c8f129bf6a3c7fe644ac36dcff88015ae60",
+    "diplomatic/tools/test_checkpoint.py": "6bf30753e94aeaafed1d8b2b33f8daaa4fe3ec6f68f3755e8839842f68a115fc",
+    "diplomatic/tools/verify_recovered_assets.py": "03e5deba81242ec07dbf3ffc412c2eae6d5e13629744b1c8cf84d2de4c656838"
+  },
+  "publication": {
+    "method": "GitHub connector blobs/tree/commit followed by non-forced ref update and ref reread; published full tree matched local committed tree",
+    "shell_push_authenticated": false,
+    "fallback_verified": true,
+    "prior_remote_checkpoints": [
+      "a43522c8e7cabe9a87421e9a6dec3a49f41f2d83",
+      "1d2b34b9833769fb171e6995203a33102a08ab5d"
+    ],
+    "final_commit": "Consult git history and the live main ref; a file cannot contain its own commit hash."
+  },
+  "limits": {
+    "historical_report_identities": 54,
+    "complete_transcript_replay_bodies": 4,
+    "incomplete_report_bodies": 50,
+    "full_source_asset_verifier_run_this_pass": false,
+    "all_witnesses_collated": false,
+    "chapter_2_started": false
+  }
+}
