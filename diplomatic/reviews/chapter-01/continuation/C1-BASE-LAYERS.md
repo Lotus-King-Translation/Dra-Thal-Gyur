@@ -67,7 +67,7 @@ The heading is not merged into either main verse. Its connected pa limb is exclu
 
 The authored insertion records preserve their old Tibetan and Wylie strings, confidence and punctuation policy within `punctuation_review`, together with the exact independent report hash and per-line findings. Unicode spaces separate the encoded marks; they do not measure physical spacing. The old lexical restoration passes remain in force within their documented scope. Independent medium-confidence interior readings do not create new lexical corrections.
 
-This is an informed agent check with candidate strings available, not a blind reading or credentialed human palaeography. Only named local boundaries and their correspondence were examined; no full source page is newly declared collated. Batch B01 is remotely verified at `2ee597e24cccce417de37c1c7057e345ac4e7c9a`. Batch B02 integrates the five additional locally corroborated marks; its publication receipt is recorded in the JSON report after remote verification.
+This is an informed agent check with candidate strings available, not a blind reading or credentialed human palaeography. Only named local boundaries and their correspondence were examined; no full source page is newly declared collated. Batch B01 is remotely verified at `2ee597e24cccce417de37c1c7057e345ac4e7c9a`. Batch B02 is remotely verified at `a9d7af1a7fff729d0331801828df8a53ddfaa2ed`; it integrates five additional locally corroborated marks. B03 now claims U01286.
 
 ## Next bounded work
 

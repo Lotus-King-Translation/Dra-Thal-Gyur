@@ -4,7 +4,7 @@
   "reader": "ChatGPT-coordinator-20260928-continuous",
   "status": "in_progress",
   "scope": "S02-S07 insertion punctuation and U01286 source-layer review; each subsection is separately bounded",
-  "current_batch_id": "C1-BASE-LAYERS-B02",
+  "current_batch_id": "C1-BASE-LAYERS-B03",
   "source_paths_and_hashes": {
     "task_id": "C1-BASE-LAYERS",
     "source_pdf": {
@@ -781,7 +781,7 @@
         85,
         90
       ],
-      "status": "integrated_pending_remote_verification",
+      "status": "done",
       "owner": "ChatGPT-coordinator-20260928-continuous",
       "baseline_commit": "2ee597e24cccce417de37c1c7057e345ac4e7c9a",
       "rows_actually_compared": [
@@ -1434,7 +1434,24 @@
         "No whole-page proofreading claimed. Compact S06 letters and tsheg absence are not upgraded beyond their recorded local confidence; no lexical/tsheg changes made."
       ],
       "mechanical_checks": "diplomatic/reviews/chapter-01/continuation/C1-BASE-LAYERS-B02-checks.json",
-      "chapter_sha256_after_integration": "b9301b09f1ba9b272bfe7c1683ba2ecaf028fb185164de0880492fc58e58f59e"
+      "chapter_sha256_after_integration": "b9301b09f1ba9b272bfe7c1683ba2ecaf028fb185164de0880492fc58e58f59e",
+      "verified_integration_commit": "a9d7af1a7fff729d0331801828df8a53ddfaa2ed"
+    },
+    {
+      "batch_id": "C1-BASE-LAYERS-B03",
+      "anchors": [
+        "U01286"
+      ],
+      "pdf_pages": [
+        51
+      ],
+      "status": "claimed",
+      "owner": "ChatGPT-coordinator-20260928-continuous",
+      "baseline_commit": "a9d7af1a7fff729d0331801828df8a53ddfaa2ed",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": [],
+      "next_physical_span": "Inspect PDF51 row4 small note and its surrounding main text; preserve S01 and all uninspected signs."
     }
   ],
   "remaining_targets": [
