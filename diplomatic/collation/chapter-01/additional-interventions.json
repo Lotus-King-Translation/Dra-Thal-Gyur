@@ -2607,5 +2607,717 @@
       "final_physical_count": 2,
       "scope": "Local boundary only; no general sign-normalization claim."
     }
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260928-U01627",
+    "units": [
+      "U01627"
+    ],
+    "original_units": {
+      "U01627": "འབྱུང་བཞི་དག་ལ་དབང་སྒྱུར་འགྱུར།"
+    },
+    "replacement_units": {
+      "U01627": "འབྱུང་བཞི་དག་ལ་དབང་སྒྱུར་འགྱུར། །"
+    },
+    "old": "འབྱུང་བཞི་དག་ལ་དབང་སྒྱུར་འགྱུར།",
+    "new": "འབྱུང་བཞི་དག་ལ་དབང་སྒྱུར་འགྱུར། །",
+    "rationale": "Final ra/gyur letter structure precedes two separated boundary uprights; neighboring lower-row ink is excluded. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.",
+    "locator": "Adzom2000 PDF64 / BDRC66 / main row 3 right -> 4 left",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p064-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p064-row3-right.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p064-row4-left.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p064-row5-right.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p064-row6-left.png"
+    ],
+    "evidence_hashes": {
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p064-native.png": "153fc43f4ff965be75c9fc4f2d5ec339a00d7d98c414deef93952020f89d3759",
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p064-row3-right.png": "ed2281e4718c40f53d67b4dd0839f098ceb6a433368efe1f74ff674f29810324",
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p064-row4-left.png": "b418087ee37c6c8e06db6d2be7aa3fb0e9abbbaf9aeea97ac5f82eec16b7a45a",
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p064-row5-right.png": "a487084564d30acc0b838756dbf0bd324e5868dd0b5918b4276d42cf809a6e87",
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p064-row6-left.png": "ce692a3d8e443987225224770dd76e3bc66ce3377af7593fad64e33baa25678f"
+    },
+    "confidence": {
+      "independent_visual_review": "High for correspondence and two-stroke inventory.",
+      "coordinator_correspondence": "native page and actual adjoining sequence independently inspected",
+      "limit": "Electronic ownership of the next-leading shad remains unassigned. The rectangular bounds span both rows and necessarily include intervening text."
+    },
+    "source_record": "reviews/chapter-01/continuation/C1-SIGNS-03.json#U01627",
+    "punctuation_review": {
+      "independent_report": "reviews/chapter-01/continuation/C1-SIGNS-03-independent-attempt1-reading.txt",
+      "independent_correspondence_confirmed": true,
+      "physical_boundary_shads": 2,
+      "source_member": "0066.png",
+      "archive_sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+      "no_fresh_lexical_or_whole_page_certificate": true
+    }
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260928-U01635",
+    "units": [
+      "U01635"
+    ],
+    "original_units": {
+      "U01635": "འཕོ་བའི་བྱེ་བྲག་རྣམ་པ་གསུམ།"
+    },
+    "replacement_units": {
+      "U01635": "འཕོ་བའི་བྱེ་བྲག་རྣམ་པ་གསུམ། །"
+    },
+    "old": "འཕོ་བའི་བྱེ་བྲག་རྣམ་པ་གསུམ།",
+    "new": "འཕོ་བའི་བྱེ་བྲག་རྣམ་པ་གསུམ། །",
+    "rationale": "Two thin detached terminal uprights stand before the much heavier page frame; the following main verse is on row6. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.",
+    "locator": "Adzom2000 PDF64 / BDRC66 / main row 5",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p064-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p064-row3-right.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p064-row4-left.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p064-row5-right.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p064-row6-left.png"
+    ],
+    "evidence_hashes": {
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p064-native.png": "153fc43f4ff965be75c9fc4f2d5ec339a00d7d98c414deef93952020f89d3759",
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p064-row3-right.png": "ed2281e4718c40f53d67b4dd0839f098ceb6a433368efe1f74ff674f29810324",
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p064-row4-left.png": "b418087ee37c6c8e06db6d2be7aa3fb0e9abbbaf9aeea97ac5f82eec16b7a45a",
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p064-row5-right.png": "a487084564d30acc0b838756dbf0bd324e5868dd0b5918b4276d42cf809a6e87",
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p064-row6-left.png": "ce692a3d8e443987225224770dd76e3bc66ce3377af7593fad64e33baa25678f"
+    },
+    "confidence": {
+      "independent_visual_review": "High.",
+      "coordinator_correspondence": "native page and actual adjoining sequence independently inspected",
+      "limit": "Bounds are visually estimated; no material uncertainty in the two terminal shads."
+    },
+    "source_record": "reviews/chapter-01/continuation/C1-SIGNS-03.json#U01635",
+    "punctuation_review": {
+      "independent_report": "reviews/chapter-01/continuation/C1-SIGNS-03-independent-attempt1-reading.txt",
+      "independent_correspondence_confirmed": true,
+      "physical_boundary_shads": 2,
+      "source_member": "0066.png",
+      "archive_sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+      "no_fresh_lexical_or_whole_page_certificate": true
+    }
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260928-U00910",
+    "units": [
+      "U00910"
+    ],
+    "original_units": {
+      "U00910": "དྲིས་ལན་བཅུ་བཞི་པ།"
+    },
+    "replacement_units": {
+      "U00910": "དྲིས་ལན་བཅུ་བཞི་པ། །"
+    },
+    "old": "དྲིས་ལན་བཅུ་བཞི་པ།",
+    "new": "དྲིས་ལན་བཅུ་བཞི་པ། །",
+    "rationale": "Small heading ends with a detached shad followed across white space by another upright before next main text; exclude final pa limb. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.",
+    "locator": "Adzom2000 PDF37 / BDRC39 / main row 4",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p037-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p037-row4-middle.png"
+    ],
+    "evidence_hashes": {
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p037-native.png": "35e0f0491d2f2301d7d70c33143ef7476d247e0ba033ee8de3f17245cee6db60",
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p037-row4-middle.png": "5dcda231efe7aaaad767cebbcff6268eceb65d037de1e252d7f90bccbfcad134"
+    },
+    "confidence": {
+      "independent_visual_review": "High for correspondence and boundary inventory.",
+      "coordinator_correspondence": "native page and actual adjoining sequence independently inspected",
+      "limit": "One heading-adjacent shad and one next-leading shad are visible; their allocation to electronic units cannot be determined from spacing alone."
+    },
+    "source_record": "reviews/chapter-01/continuation/C1-SIGNS-03.json#U00910",
+    "punctuation_review": {
+      "independent_report": "reviews/chapter-01/continuation/C1-SIGNS-03-independent-attempt1-reading.txt",
+      "independent_correspondence_confirmed": true,
+      "physical_boundary_shads": 2,
+      "source_member": "0039.png",
+      "archive_sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+      "no_fresh_lexical_or_whole_page_certificate": true
+    }
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260928-U00948",
+    "units": [
+      "U00948"
+    ],
+    "original_units": {
+      "U00948": "དྲིས་ལན་བཅོ་ལྔ་པ།"
+    },
+    "replacement_units": {
+      "U00948": "དྲིས་ལན་བཅོ་ལྔ་པ། །"
+    },
+    "old": "དྲིས་ལན་བཅོ་ལྔ་པ།",
+    "new": "དྲིས་ལན་བཅོ་ལྔ་པ། །",
+    "rationale": "Two detached boundary marks separate small heading pa from next main text; the main-letter limb is not a punctuation sign. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.",
+    "locator": "Adzom2000 PDF39 / BDRC41 / main row 1",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p039-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p039-row1-context.png"
+    ],
+    "evidence_hashes": {
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p039-native.png": "d71f2583227431e62bdafd2dabe211fd9b38ec08682bb451a1d362aea3fb4abd",
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p039-row1-context.png": "d726c40ff4df502954b442d49a88df6e55835d37ba80ac25dc10a4e2cbb12da2"
+    },
+    "confidence": {
+      "independent_visual_review": "High for correspondence and boundary inventory.",
+      "coordinator_correspondence": "native page and actual adjoining sequence independently inspected",
+      "limit": "The complete boundary has two shads, but this does not independently establish two heading-terminal signs."
+    },
+    "source_record": "reviews/chapter-01/continuation/C1-SIGNS-03.json#U00948",
+    "punctuation_review": {
+      "independent_report": "reviews/chapter-01/continuation/C1-SIGNS-03-independent-attempt1-reading.txt",
+      "independent_correspondence_confirmed": true,
+      "physical_boundary_shads": 2,
+      "source_member": "0041.png",
+      "archive_sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+      "no_fresh_lexical_or_whole_page_certificate": true
+    }
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260928-U01023",
+    "units": [
+      "U01023"
+    ],
+    "original_units": {
+      "U01023": "དྲིས་ལན་བཅུ་དྲུག་པ།"
+    },
+    "replacement_units": {
+      "U01023": "དྲིས་ལན་བཅུ་དྲུག་པ། །"
+    },
+    "old": "དྲིས་ལན་བཅུ་དྲུག་པ།",
+    "new": "དྲིས་ལན་བཅུ་དྲུག་པ། །",
+    "rationale": "Heading-pa right limb excluded; two free uprights at the heading/main-text boundary. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.",
+    "locator": "Adzom2000 PDF41 / BDRC43 / main row 5",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p041-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p041-row5-middle.png"
+    ],
+    "evidence_hashes": {
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p041-native.png": "0018c6201fb7b99cbc88d23b990563d7f876880e49e8f8a9cc0d3a14a888cdef",
+      "evidence/chapter-01/continuation/C1-SIGNS-03/p041-row5-middle.png": "6785c5151ff8732b5205188d7a68422e3346ccafa30b824256b84b079ee95e0f"
+    },
+    "confidence": {
+      "independent_visual_review": "High for correspondence and boundary inventory.",
+      "coordinator_correspondence": "native page and actual adjoining sequence independently inspected",
+      "limit": "The next-leading shad is secure as a separate stroke; its electronic ownership remains unresolved."
+    },
+    "source_record": "reviews/chapter-01/continuation/C1-SIGNS-03.json#U01023",
+    "punctuation_review": {
+      "independent_report": "reviews/chapter-01/continuation/C1-SIGNS-03-independent-attempt1-reading.txt",
+      "independent_correspondence_confirmed": true,
+      "physical_boundary_shads": 2,
+      "source_member": "0043.png",
+      "archive_sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+      "no_fresh_lexical_or_whole_page_certificate": true
+    }
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260928-U01147",
+    "units": [
+      "U01147"
+    ],
+    "original_units": {
+      "U01147": "དྲིས་ལན་བཅུ་དགུ་པ།"
+    },
+    "replacement_units": {
+      "U01147": "དྲིས་ལན་བཅུ་དགུ་པ། །"
+    },
+    "old": "དྲིས་ལན་བཅུ་དགུ་པ།",
+    "new": "དྲིས་ལན་བཅུ་དགུ་པ། །",
+    "rationale": "Small heading pa has a joined right limb; two additional detached vertical marks separate it from sems-can. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.",
+    "locator": "Adzom2000 PDF46 / BDRC48 / main row 3",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-SIGNS-04/p046-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-04/p046-row3-context.png"
+    ],
+    "evidence_hashes": {
+      "evidence/chapter-01/continuation/C1-SIGNS-04/p046-native.png": "22775def91a142c9c963d6ddfd72bce25048625ebafc5cc0753460b781a62073",
+      "evidence/chapter-01/continuation/C1-SIGNS-04/p046-row3-context.png": "da5f788e29e7f74bd62dc620933cc872c3470d52d564bc65145e5367957ad5bb"
+    },
+    "confidence": {
+      "independent_visual_review": "moderate",
+      "coordinator_correspondence": "native page and actual adjoining sequence independently inspected",
+      "limit": "The two visible boundary shads do not by themselves establish electronic-unit ownership."
+    },
+    "source_record": "reviews/chapter-01/continuation/C1-SIGNS-04.json#U01147",
+    "punctuation_review": {
+      "independent_report": "reviews/chapter-01/continuation/C1-SIGNS-04-independent-attempt1-reading.txt",
+      "independent_correspondence_confirmed": true,
+      "physical_boundary_shads": 2,
+      "source_member": "0048.png",
+      "archive_sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+      "no_fresh_lexical_or_whole_page_certificate": true
+    }
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260928-U01186",
+    "units": [
+      "U01186"
+    ],
+    "original_units": {
+      "U01186": "དྲིས་ལན་ཉི་ཤུ་པ།"
+    },
+    "replacement_units": {
+      "U01186": "དྲིས་ལན་ཉི་ཤུ་པ། །"
+    },
+    "old": "དྲིས་ལན་ཉི་ཤུ་པ།",
+    "new": "དྲིས་ལན་ཉི་ཤུ་པ། །",
+    "rationale": "Two detached shads between small heading pa and next main phyi-rol, excluding the pa limb and bottom frame. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.",
+    "locator": "Adzom2000 PDF47 / BDRC49 / main row 6",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-SIGNS-04/p047-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-04/p047-row5-right-context.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-04/p047-row6-left-context.png"
+    ],
+    "evidence_hashes": {
+      "evidence/chapter-01/continuation/C1-SIGNS-04/p047-native.png": "531f7f036762fef068b3e2708b5240b27851bf7e0a8810e16bc115ff30a045b0",
+      "evidence/chapter-01/continuation/C1-SIGNS-04/p047-row5-right-context.png": "713555acbcbf0446a8e100075a7a6e4a98323b82977932714d53a30a5546be3d",
+      "evidence/chapter-01/continuation/C1-SIGNS-04/p047-row6-left-context.png": "db15f4fb7b4169a2e27e6a53292472f1407828268a4ac874c4efa64e2fa233ce"
+    },
+    "confidence": {
+      "independent_visual_review": "moderate",
+      "coordinator_correspondence": "native page and actual adjoining sequence independently inspected",
+      "limit": "Minor printing loss affects the heading, but the two boundary strokes remain distinguishable. Editorial ownership is unresolved."
+    },
+    "source_record": "reviews/chapter-01/continuation/C1-SIGNS-04.json#U01186",
+    "punctuation_review": {
+      "independent_report": "reviews/chapter-01/continuation/C1-SIGNS-04-independent-attempt1-reading.txt",
+      "independent_correspondence_confirmed": true,
+      "physical_boundary_shads": 2,
+      "source_member": "0049.png",
+      "archive_sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+      "no_fresh_lexical_or_whole_page_certificate": true
+    }
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260928-U01257",
+    "units": [
+      "U01257"
+    ],
+    "original_units": {
+      "U01257": "དྲིས་ལན་ཉེར་གསུམ་པ།"
+    },
+    "replacement_units": {
+      "U01257": "དྲིས་ལན་ཉེར་གསུམ་པ། །"
+    },
+    "old": "དྲིས་ལན་ཉེར་གསུམ་པ།",
+    "new": "དྲིས་ལན་ཉེར་གསུམ་པ། །",
+    "rationale": "Small heading terminal and next-leading upright are both detached from letters; lower dotted/curved ink not another shad. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.",
+    "locator": "Adzom2000 PDF50 / BDRC52 / main row 3",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-SIGNS-04/p050-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-04/p050-row3-right-context.png"
+    ],
+    "evidence_hashes": {
+      "evidence/chapter-01/continuation/C1-SIGNS-04/p050-native.png": "d8b7887a5712b2d501b6c5d3129d1c8ec135e546c902d28782ef8d81be4a488e",
+      "evidence/chapter-01/continuation/C1-SIGNS-04/p050-row3-right-context.png": "981181cc868722b0ec588a36b688b69991d7f8dcc983cbf72f9cba43e6896e56"
+    },
+    "confidence": {
+      "independent_visual_review": "moderate",
+      "coordinator_correspondence": "native page and actual adjoining sequence independently inspected",
+      "limit": "Interior glyphs show abrasion. The boundary inventory is clearer than the damaged letter interiors; ownership remains unresolved."
+    },
+    "source_record": "reviews/chapter-01/continuation/C1-SIGNS-04.json#U01257",
+    "punctuation_review": {
+      "independent_report": "reviews/chapter-01/continuation/C1-SIGNS-04-independent-attempt1-reading.txt",
+      "independent_correspondence_confirmed": true,
+      "physical_boundary_shads": 2,
+      "source_member": "0052.png",
+      "archive_sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+      "no_fresh_lexical_or_whole_page_certificate": true
+    }
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260928-U01308",
+    "units": [
+      "U01308"
+    ],
+    "original_units": {
+      "U01308": "དྲིས་ལན་ཉེར་ལྔ་པ།"
+    },
+    "replacement_units": {
+      "U01308": "དྲིས་ལན་ཉེར་ལྔ་པ། །"
+    },
+    "old": "དྲིས་ལན་ཉེར་ལྔ་པ།",
+    "new": "དྲིས་ལན་ཉེར་ལྔ་པ། །",
+    "rationale": "The heading is split across rows; two detached uprights after pa at row4 left precede khor-ba main text. Margin and previous-row strokes excluded. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.",
+    "locator": "Adzom2000 PDF52 / BDRC54 / main row 3 right -> 4 left",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-SIGNS-04/p052-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-04/p052-row3-right-context.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-04/p052-row4-left-context.png"
+    ],
+    "evidence_hashes": {
+      "evidence/chapter-01/continuation/C1-SIGNS-04/p052-native.png": "0dff9a93c7b3c7690c68ab861de2168907394cc9efc65a50041696bd8cc1b01c",
+      "evidence/chapter-01/continuation/C1-SIGNS-04/p052-row3-right-context.png": "d21c9e92f8e79ced10ab531ddda5de3981fa7d0f291a67aaa55a3ba86907654c",
+      "evidence/chapter-01/continuation/C1-SIGNS-04/p052-row4-left-context.png": "5a4720f1f746ed07d96d5d09bbb188d0b686e08e1b5caf2532305d8ad13d1219"
+    },
+    "confidence": {
+      "independent_visual_review": "moderate",
+      "coordinator_correspondence": "native page and actual adjoining sequence independently inspected",
+      "limit": "actual_row records the starting row; the target continues on row 4. Its bounds enclose both separated portions and intervening unrelated text. Electronic ownership is unresolved."
+    },
+    "source_record": "reviews/chapter-01/continuation/C1-SIGNS-04.json#U01308",
+    "punctuation_review": {
+      "independent_report": "reviews/chapter-01/continuation/C1-SIGNS-04-independent-attempt1-reading.txt",
+      "independent_correspondence_confirmed": true,
+      "physical_boundary_shads": 2,
+      "source_member": "0054.png",
+      "archive_sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+      "no_fresh_lexical_or_whole_page_certificate": true
+    }
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260928-U01353",
+    "units": [
+      "U01353"
+    ],
+    "original_units": {
+      "U01353": "དྲིས་ལན་ཉེར་བདུན་པ།"
+    },
+    "replacement_units": {
+      "U01353": "དྲིས་ལན་ཉེར་བདུན་པ། །"
+    },
+    "old": "དྲིས་ལན་ཉེར་བདུན་པ།",
+    "new": "དྲིས་ལན་ཉེར་བདུན་པ། །",
+    "rationale": "Two detached uprights separate the small heading final pa from following sku-gsum main text; letter limb and upper/lower row material excluded. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.",
+    "locator": "Adzom2000 PDF54 / BDRC56 / main row 2",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p054-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p054-row2-context.png"
+    ],
+    "evidence_hashes": {
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p054-native.png": "8c9faa1dd4ea91fb6af6adddee3056f6a124cb3cad51a2899d0f9b432d351ddf",
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p054-row2-context.png": "0e2919f9bd01b3b4adc4df434eea7238f353b6401755041ba29934d435c841e6"
+    },
+    "confidence": {
+      "independent_visual_review": "High for correspondence and two-stroke inventory; moderate for terminal-tsheg absence.",
+      "coordinator_correspondence": "native page and actual adjoining sequence independently inspected",
+      "limit": "Physical inventory establishes two shads, but does not establish their electronic-unit ownership."
+    },
+    "source_record": "reviews/chapter-01/continuation/C1-SIGNS-05.json#U01353",
+    "punctuation_review": {
+      "independent_report": "reviews/chapter-01/continuation/C1-SIGNS-05-independent-attempt1-reading.txt",
+      "independent_correspondence_confirmed": true,
+      "physical_boundary_shads": 2,
+      "source_member": "0056.png",
+      "archive_sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+      "no_fresh_lexical_or_whole_page_certificate": true
+    }
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260928-U01476",
+    "units": [
+      "U01476"
+    ],
+    "original_units": {
+      "U01476": "དྲིས་ལན་སུམ་ཅུ་པ།"
+    },
+    "replacement_units": {
+      "U01476": "དྲིས་ལན་སུམ་ཅུ་པ། །"
+    },
+    "old": "དྲིས་ལན་སུམ་ཅུ་པ།",
+    "new": "དྲིས་ལན་སུམ་ཅུ་པ། །",
+    "rationale": "Small heading terminal and next-leading mark form two detached uprights; the following root verse crosses row5/6. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.",
+    "locator": "Adzom2000 PDF58 / BDRC60 / main row 5",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p058-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p058-row5-right-context.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p058-row6-left-context.png"
+    ],
+    "evidence_hashes": {
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p058-native.png": "c02462977151ece0572081403c99558584f663b6751e35990c74b75ca402f7b5",
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p058-row5-right-context.png": "993a5b21094ef002776be0ab82b2717d492b551f2eb0923c44034ea756edc86b",
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p058-row6-left-context.png": "7b4e87fabf80d22ac1897c9d6ee1b61c1a3a9ba873124fe6a8bf54c9d2e99bd8"
+    },
+    "confidence": {
+      "independent_visual_review": "High for correspondence and two-shad inventory; moderate for terminal-tsheg absence.",
+      "coordinator_correspondence": "native page and actual adjoining sequence independently inspected",
+      "limit": "Neither the intervening space nor the difference in stroke height alone authorizes assigning both signs to the heading."
+    },
+    "source_record": "reviews/chapter-01/continuation/C1-SIGNS-05.json#U01476",
+    "punctuation_review": {
+      "independent_report": "reviews/chapter-01/continuation/C1-SIGNS-05-independent-attempt1-reading.txt",
+      "independent_correspondence_confirmed": true,
+      "physical_boundary_shads": 2,
+      "source_member": "0060.png",
+      "archive_sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+      "no_fresh_lexical_or_whole_page_certificate": true
+    }
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260928-U01540",
+    "units": [
+      "U01540"
+    ],
+    "original_units": {
+      "U01540": "དྲིས་ལན་སོ་གཉིས་པ།"
+    },
+    "replacement_units": {
+      "U01540": "དྲིས་ལན་སོ་གཉིས་པ། །"
+    },
+    "old": "དྲིས་ལན་སོ་གཉིས་པ།",
+    "new": "དྲིས་ལན་སོ་གཉིས་པ། །",
+    "rationale": "Two detached shads occur after heading-pa, distinct from its connected right limb and following rlung glyph. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.",
+    "locator": "Adzom2000 PDF61 / BDRC63 / main row 2",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p061-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p061-row2-context.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p061-row5-context.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p061-row5-right-U01556.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p061-row6-left-U01557.png"
+    ],
+    "evidence_hashes": {
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p061-native.png": "1f190b4cdce61b6787c65c6d80a6743f73fe61aeebf2e16335cdd49102643203",
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p061-row2-context.png": "4e2e640912142c4fbf9bddf3ec5f3e7c9a2aa4a9b3320a23f9db90a12c987ce7",
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p061-row5-context.png": "3227c3a17dc85a73889bf6536e49342afef792073b8fd7681c50da43583a89ad",
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p061-row5-right-U01556.png": "065d3bf01a2f1345d847e856ec3b820c024e858bced9081c689e0ffeade0e4f3",
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p061-row6-left-U01557.png": "a070eb8b4b82dc40097aa78b94b6a2dd94e091d5fc5ef7d34d8ea3571987cb42"
+    },
+    "confidence": {
+      "independent_visual_review": "High for location and detached-shad count; moderate for terminal-tsheg absence.",
+      "coordinator_correspondence": "native page and actual adjoining sequence independently inspected",
+      "limit": "The two visible signs require an explicit allocation decision; the electronic heading's single shad does not settle that decision."
+    },
+    "source_record": "reviews/chapter-01/continuation/C1-SIGNS-05.json#U01540",
+    "punctuation_review": {
+      "independent_report": "reviews/chapter-01/continuation/C1-SIGNS-05-independent-attempt1-reading.txt",
+      "independent_correspondence_confirmed": true,
+      "physical_boundary_shads": 2,
+      "source_member": "0063.png",
+      "archive_sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+      "no_fresh_lexical_or_whole_page_certificate": true
+    }
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260928-U01634",
+    "units": [
+      "U01634"
+    ],
+    "original_units": {
+      "U01634": "དྲིས་ལན་སོ་དྲུག་པ།"
+    },
+    "replacement_units": {
+      "U01634": "དྲིས་ལན་སོ་དྲུག་པ། །"
+    },
+    "old": "དྲིས་ལན་སོ་དྲུག་པ།",
+    "new": "དྲིས་ལན་སོ་དྲུག་པ། །",
+    "rationale": "Two detached marks separate the smaller heading from next main verse; curved material from preceding or following rows is not counted. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.",
+    "locator": "Adzom2000 PDF64 / BDRC66 / main row 5",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p064-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p064-row5-context.png"
+    ],
+    "evidence_hashes": {
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p064-native.png": "153fc43f4ff965be75c9fc4f2d5ec339a00d7d98c414deef93952020f89d3759",
+      "evidence/chapter-01/continuation/C1-SIGNS-05/p064-row5-context.png": "3b644ba5c93afb3f619f72a4502219e3e48072e71050843f0f4cd4f0f35bc40a"
+    },
+    "confidence": {
+      "independent_visual_review": "High for correspondence and two-shad inventory; moderate for terminal-tsheg absence.",
+      "coordinator_correspondence": "native page and actual adjoining sequence independently inspected",
+      "limit": "The boundary count does not by itself establish whether the second shad belongs electronically to the heading or following unit."
+    },
+    "source_record": "reviews/chapter-01/continuation/C1-SIGNS-05.json#U01634",
+    "punctuation_review": {
+      "independent_report": "reviews/chapter-01/continuation/C1-SIGNS-05-independent-attempt1-reading.txt",
+      "independent_correspondence_confirmed": true,
+      "physical_boundary_shads": 2,
+      "source_member": "0066.png",
+      "archive_sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+      "no_fresh_lexical_or_whole_page_certificate": true
+    }
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260928-U01661",
+    "units": [
+      "U01661"
+    ],
+    "original_units": {
+      "U01661": "དྲིས་ལན་སོ་བདུན་པ།"
+    },
+    "replacement_units": {
+      "U01661": "དྲིས་ལན་སོ་བདུན་པ། །"
+    },
+    "old": "དྲིས་ལན་སོ་བདུན་པ།",
+    "new": "དྲིས་ལན་སོ་བདུན་པ། །",
+    "rationale": "Two detached uprights after the small heading final pa; the second is before next main rten-brel and is not its letter limb. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.",
+    "locator": "Adzom2000 PDF65 / BDRC67 / main row 5",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-SIGNS-06/p065-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-06/p065-row5-context.png"
+    ],
+    "evidence_hashes": {
+      "evidence/chapter-01/continuation/C1-SIGNS-06/p065-native.png": "260f2d8cc7cc9aff0f53dcf863beecbf6154c471a9d429e9ac126d11252b7b23",
+      "evidence/chapter-01/continuation/C1-SIGNS-06/p065-row5-context.png": "97caee64953ace6b9d0d05fc9dfdffa973343fef7b61d9577d0cfe4363f4c03e"
+    },
+    "confidence": {
+      "independent_visual_review": "medium",
+      "coordinator_correspondence": "native page and actual adjoining sequence independently inspected",
+      "limit": "The two strokes are spatially distinguishable, but their allocation between electronic units is not established by spacing."
+    },
+    "source_record": "reviews/chapter-01/continuation/C1-SIGNS-06.json#U01661",
+    "punctuation_review": {
+      "independent_report": "reviews/chapter-01/continuation/C1-SIGNS-06-independent-attempt1-reading.txt",
+      "independent_correspondence_confirmed": true,
+      "physical_boundary_shads": 2,
+      "source_member": "0067.png",
+      "archive_sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+      "no_fresh_lexical_or_whole_page_certificate": true
+    }
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260928-U01727",
+    "units": [
+      "U01727"
+    ],
+    "original_units": {
+      "U01727": "དྲིས་ལན་སོ་དགུ་པ།"
+    },
+    "replacement_units": {
+      "U01727": "དྲིས་ལན་སོ་དགུ་པ། །"
+    },
+    "old": "དྲིས་ལན་སོ་དགུ་པ།",
+    "new": "དྲིས་ལན་སོ་དགུ་པ། །",
+    "rationale": "Heading starts row2 left; its final pa limb is followed by a detached shad and another upright before main byung-ba. Frame at left excluded. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.",
+    "locator": "Adzom2000 PDF68 / BDRC70 / main row 2",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-SIGNS-06/p068-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-06/p068-row1-right-context.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-06/p068-row2-left-context.png"
+    ],
+    "evidence_hashes": {
+      "evidence/chapter-01/continuation/C1-SIGNS-06/p068-native.png": "e0ca69659488cb14f79d58704e226c244e242ac61e3958097920f07f8f899a22",
+      "evidence/chapter-01/continuation/C1-SIGNS-06/p068-row1-right-context.png": "01e8bb10883170792aeaa5f3da07eef16ca7e22fa0f9fd270d951151789b5a40",
+      "evidence/chapter-01/continuation/C1-SIGNS-06/p068-row2-left-context.png": "39760d0807fb07780ec1c054aa34234199123142ce27ba4971d1728885628e10"
+    },
+    "confidence": {
+      "independent_visual_review": "medium-high",
+      "coordinator_correspondence": "native page and actual adjoining sequence independently inspected",
+      "limit": "Editorial ownership of the next-leading shad remains unresolved."
+    },
+    "source_record": "reviews/chapter-01/continuation/C1-SIGNS-06.json#U01727",
+    "punctuation_review": {
+      "independent_report": "reviews/chapter-01/continuation/C1-SIGNS-06-independent-attempt1-reading.txt",
+      "independent_correspondence_confirmed": true,
+      "physical_boundary_shads": 2,
+      "source_member": "0070.png",
+      "archive_sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+      "no_fresh_lexical_or_whole_page_certificate": true
+    }
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260928-U01539",
+    "units": [
+      "U01539"
+    ],
+    "original_units": {
+      "U01539": "ཁམས་གསུམ་དུ་ཡང་ལྡོག་པ་མིན། །"
+    },
+    "replacement_units": {
+      "U01539": "ཁམས་གསུམ་དུ་ཡང་ལྡོག་པ་མིན།"
+    },
+    "old": "ཁམས་གསུམ་དུ་ཡང་ལྡོག་པ་མིན། །",
+    "new": "ཁམས་གསུམ་དུ་ཡང་ལྡོག་པ་མིན།",
+    "rationale": "One detached upright follows final min before the small heading. The apparent further vertical is part of the following dris letter structure, not a separate leading shad. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.",
+    "locator": "Adzom2000 PDF61 / BDRC63 / main row 2",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-SIGNS-06/p061-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-06/p061-row2-left-context.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-06/p061-U01539-terminal-detail.png"
+    ],
+    "evidence_hashes": {
+      "evidence/chapter-01/continuation/C1-SIGNS-06/p061-native.png": "1f190b4cdce61b6787c65c6d80a6743f73fe61aeebf2e16335cdd49102643203",
+      "evidence/chapter-01/continuation/C1-SIGNS-06/p061-row2-left-context.png": "39fbf7c8b32aeaa5236ab557fdd07bfe8b997c838d167d8f677676ce5d896e46",
+      "evidence/chapter-01/continuation/C1-SIGNS-06/p061-U01539-terminal-detail.png": "b28426a948eb7d47291a133f949fc777a6d43d206a93e90256c0174fd6ea12c2"
+    },
+    "confidence": {
+      "independent_visual_review": "medium-high",
+      "coordinator_correspondence": "native page and actual adjoining sequence independently inspected",
+      "limit": "No second detached shad is discernible in this interval; bounds are approximate."
+    },
+    "source_record": "reviews/chapter-01/continuation/C1-SIGNS-06.json#U01539",
+    "punctuation_review": {
+      "independent_report": "reviews/chapter-01/continuation/C1-SIGNS-06-independent-attempt1-reading.txt",
+      "independent_correspondence_confirmed": true,
+      "physical_boundary_shads": 1,
+      "source_member": "0063.png",
+      "archive_sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+      "no_fresh_lexical_or_whole_page_certificate": true
+    }
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260928-U01595",
+    "units": [
+      "U01595"
+    ],
+    "original_units": {
+      "U01595": "དེས་ནི་སོ་སོའི་རླུང་ཚད་ཟིན། །"
+    },
+    "replacement_units": {
+      "U01595": "དེས་ནི་སོ་སོའི་རླུང་ཚད་ཟིན།"
+    },
+    "old": "དེས་ནི་སོ་སོའི་རླུང་ཚད་ཟིན། །",
+    "new": "དེས་ནི་སོ་སོའི་རླུང་ཚད་ཟིན།",
+    "rationale": "One separate terminal upright lies after zin. Following dris starts a connected letter/stack, not an additional detached vertical. Low curved ink at the boundary is excluded from sign count. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.",
+    "locator": "Adzom2000 PDF63 / BDRC65 / main row 2",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-SIGNS-06/p063-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-06/p063-row2-context.png"
+    ],
+    "evidence_hashes": {
+      "evidence/chapter-01/continuation/C1-SIGNS-06/p063-native.png": "5a450ada9547976f6221aabe1113c32e499040daa1b1e623592e8edf676ac941",
+      "evidence/chapter-01/continuation/C1-SIGNS-06/p063-row2-context.png": "e992426ed8b20ae56272582d76778646f53325af785bad8f9916fe433c630589"
+    },
+    "confidence": {
+      "independent_visual_review": "medium",
+      "coordinator_correspondence": "native page and actual adjoining sequence independently inspected",
+      "limit": "The terminal-letter and punctuation strokes are close; this count warrants coordinator comparison at the same boundary."
+    },
+    "source_record": "reviews/chapter-01/continuation/C1-SIGNS-06.json#U01595",
+    "punctuation_review": {
+      "independent_report": "reviews/chapter-01/continuation/C1-SIGNS-06-independent-attempt1-reading.txt",
+      "independent_correspondence_confirmed": true,
+      "physical_boundary_shads": 1,
+      "source_member": "0065.png",
+      "archive_sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+      "no_fresh_lexical_or_whole_page_certificate": true
+    }
+  },
+  {
+    "id": "SIGNS-VERIFIED-20260928-U01688",
+    "units": [
+      "U01688"
+    ],
+    "original_units": {
+      "U01688": "འདིས་ཀྱང་ཕན་དང་གནོད་པ་འགྲུབ། །"
+    },
+    "replacement_units": {
+      "U01688": "འདིས་ཀྱང་ཕན་དང་གནོད་པ་འགྲུབ།"
+    },
+    "old": "འདིས་ཀྱང་ཕན་དང་གནོད་པ་འགྲུབ། །",
+    "new": "འདིས་ཀྱང་ཕན་དང་གནོད་པ་འགྲུབ།",
+    "rationale": "One detached terminal shad after grub precedes the small heading. The heading initial vertical is connected to its letter structure and is not a second shad; neighboring-row strokes excluded. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.",
+    "locator": "Adzom2000 PDF66 / BDRC68 / main row 5",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-SIGNS-06/p066-native.png",
+      "evidence/chapter-01/continuation/C1-SIGNS-06/p066-row5-context.png"
+    ],
+    "evidence_hashes": {
+      "evidence/chapter-01/continuation/C1-SIGNS-06/p066-native.png": "2460398f2c63b170388429269870bc369ccaefccc25619fd1858dc5325098ad1",
+      "evidence/chapter-01/continuation/C1-SIGNS-06/p066-row5-context.png": "494942fcb06e1471241ed9343b07a3b969ca79841b2f21cbeee145dbfb62732a"
+    },
+    "confidence": {
+      "independent_visual_review": "medium-high",
+      "coordinator_correspondence": "native page and actual adjoining sequence independently inspected",
+      "limit": "No second detached boundary shad is discernible; editorial acceptance remains with the coordinator."
+    },
+    "source_record": "reviews/chapter-01/continuation/C1-SIGNS-06.json#U01688",
+    "punctuation_review": {
+      "independent_report": "reviews/chapter-01/continuation/C1-SIGNS-06-independent-attempt1-reading.txt",
+      "independent_correspondence_confirmed": true,
+      "physical_boundary_shads": 1,
+      "source_member": "0068.png",
+      "archive_sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+      "no_fresh_lexical_or_whole_page_certificate": true
+    }
   }
 ]

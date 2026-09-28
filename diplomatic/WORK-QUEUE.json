@@ -231,7 +231,7 @@
         "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-03.json",
         "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-03.md"
       ],
-      "checkpoint_commit": null,
+      "checkpoint_commit": "4b42e6e4672416021671119ea58dd5caa85f1efc",
       "blocker": null,
       "dependency_policy": "preferred_order",
       "parallel_dispatch_note": "One distinct five-candidate packet per reader; source parent fixed; coordinator alone adopts and publishes after all readers pause. Dependencies remain mandatory only at completion gate."
@@ -239,7 +239,7 @@
     {
       "id": "C1-SIGNS-04",
       "kind": "punctuation_batch",
-      "status": "in_progress",
+      "status": "blocked",
       "owner": "independent-reader-C1-SIGNS-04-20260928",
       "depends_on": [
         "C1-SIGNS-03"
@@ -274,15 +274,18 @@
         "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04.json",
         "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04.md"
       ],
-      "checkpoint_commit": null,
-      "blocker": null,
+      "checkpoint_commit": "4b42e6e4672416021671119ea58dd5caa85f1efc",
+      "blocker": {
+        "reason": "Unresolved native correspondence or glyph segmentation at U01239",
+        "next_step": "Use the saved exact context and independent obstacle; resolve or explicitly retain the blocked candidate before closing this batch."
+      },
       "dependency_policy": "preferred_order",
       "parallel_dispatch_note": "One distinct five-candidate packet per reader; source parent fixed; coordinator alone adopts and publishes after all readers pause. Dependencies remain mandatory only at completion gate."
     },
     {
       "id": "C1-SIGNS-05",
       "kind": "punctuation_batch",
-      "status": "in_progress",
+      "status": "blocked",
       "owner": "independent-reader-C1-SIGNS-05-20260928",
       "depends_on": [
         "C1-SIGNS-04"
@@ -317,8 +320,11 @@
         "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05.json",
         "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05.md"
       ],
-      "checkpoint_commit": null,
-      "blocker": null,
+      "checkpoint_commit": "4b42e6e4672416021671119ea58dd5caa85f1efc",
+      "blocker": {
+        "reason": "Unresolved native correspondence or glyph segmentation at U01557",
+        "next_step": "Use the saved exact context and independent obstacle; resolve or explicitly retain the blocked candidate before closing this batch."
+      },
       "dependency_policy": "preferred_order",
       "parallel_dispatch_note": "One distinct five-candidate packet per reader; source parent fixed; coordinator alone adopts and publishes after all readers pause. Dependencies remain mandatory only at completion gate."
     },
@@ -360,7 +366,7 @@
         "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-06.json",
         "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-06.md"
       ],
-      "checkpoint_commit": null,
+      "checkpoint_commit": "4b42e6e4672416021671119ea58dd5caa85f1efc",
       "blocker": null,
       "dependency_policy": "preferred_order",
       "parallel_dispatch_note": "One distinct five-candidate packet per reader; source parent fixed; coordinator alone adopts and publishes after all readers pause. Dependencies remain mandatory only at completion gate."
@@ -1198,9 +1204,9 @@
       "id": "C1-SIGN-U01627",
       "anchor": "U01627",
       "batch_id": "C1-SIGNS-03",
-      "status": "in_progress",
+      "status": "done",
       "owner": "ChatGPT-coordinator-session2",
-      "disposition": null,
+      "disposition": "adopted",
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
         "json_pointer": "/before_units/U01627"
@@ -1208,17 +1214,25 @@
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
       "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-03.json",
-      "evidence_paths": [],
-      "canonical_record_ids": [],
+      "evidence_paths": [
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-row3-right.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-row4-left.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-row5-right.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-row6-left.png"
+      ],
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U01627"
+      ],
       "blocker": null
     },
     {
       "id": "C1-SIGN-U01635",
       "anchor": "U01635",
       "batch_id": "C1-SIGNS-03",
-      "status": "in_progress",
+      "status": "done",
       "owner": "ChatGPT-coordinator-session2",
-      "disposition": null,
+      "disposition": "adopted",
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
         "json_pointer": "/before_units/U01635"
@@ -1226,17 +1240,25 @@
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
       "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-03.json",
-      "evidence_paths": [],
-      "canonical_record_ids": [],
+      "evidence_paths": [
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-row3-right.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-row4-left.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-row5-right.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-row6-left.png"
+      ],
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U01635"
+      ],
       "blocker": null
     },
     {
       "id": "C1-SIGN-U00910",
       "anchor": "U00910",
       "batch_id": "C1-SIGNS-03",
-      "status": "in_progress",
+      "status": "done",
       "owner": "ChatGPT-coordinator-session2",
-      "disposition": null,
+      "disposition": "adopted",
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
         "json_pointer": "/before_units/U00910"
@@ -1244,17 +1266,22 @@
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
       "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-03.json",
-      "evidence_paths": [],
-      "canonical_record_ids": [],
+      "evidence_paths": [
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p037-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p037-row4-middle.png"
+      ],
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U00910"
+      ],
       "blocker": null
     },
     {
       "id": "C1-SIGN-U00948",
       "anchor": "U00948",
       "batch_id": "C1-SIGNS-03",
-      "status": "in_progress",
+      "status": "done",
       "owner": "ChatGPT-coordinator-session2",
-      "disposition": null,
+      "disposition": "adopted",
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
         "json_pointer": "/before_units/U00948"
@@ -1262,17 +1289,22 @@
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
       "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-03.json",
-      "evidence_paths": [],
-      "canonical_record_ids": [],
+      "evidence_paths": [
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p039-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p039-row1-context.png"
+      ],
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U00948"
+      ],
       "blocker": null
     },
     {
       "id": "C1-SIGN-U01023",
       "anchor": "U01023",
       "batch_id": "C1-SIGNS-03",
-      "status": "in_progress",
+      "status": "done",
       "owner": "ChatGPT-coordinator-session2",
-      "disposition": null,
+      "disposition": "adopted",
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
         "json_pointer": "/before_units/U01023"
@@ -1280,17 +1312,22 @@
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
       "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-03.json",
-      "evidence_paths": [],
-      "canonical_record_ids": [],
+      "evidence_paths": [
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p041-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p041-row5-middle.png"
+      ],
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U01023"
+      ],
       "blocker": null
     },
     {
       "id": "C1-SIGN-U01147",
       "anchor": "U01147",
       "batch_id": "C1-SIGNS-04",
-      "status": "in_progress",
+      "status": "done",
       "owner": "independent-reader-C1-SIGNS-04-20260928",
-      "disposition": null,
+      "disposition": "adopted",
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
         "json_pointer": "/before_units/U01147"
@@ -1298,17 +1335,22 @@
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
       "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04.json",
-      "evidence_paths": [],
-      "canonical_record_ids": [],
+      "evidence_paths": [
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p046-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p046-row3-context.png"
+      ],
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U01147"
+      ],
       "blocker": null
     },
     {
       "id": "C1-SIGN-U01186",
       "anchor": "U01186",
       "batch_id": "C1-SIGNS-04",
-      "status": "in_progress",
+      "status": "done",
       "owner": "independent-reader-C1-SIGNS-04-20260928",
-      "disposition": null,
+      "disposition": "adopted",
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
         "json_pointer": "/before_units/U01186"
@@ -1316,17 +1358,23 @@
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
       "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04.json",
-      "evidence_paths": [],
-      "canonical_record_ids": [],
+      "evidence_paths": [
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p047-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p047-row5-right-context.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p047-row6-left-context.png"
+      ],
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U01186"
+      ],
       "blocker": null
     },
     {
       "id": "C1-SIGN-U01239",
       "anchor": "U01239",
       "batch_id": "C1-SIGNS-04",
-      "status": "in_progress",
+      "status": "blocked",
       "owner": "independent-reader-C1-SIGNS-04-20260928",
-      "disposition": null,
+      "disposition": "unresolved",
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
         "json_pointer": "/before_units/U01239"
@@ -1334,17 +1382,24 @@
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
       "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04.json",
-      "evidence_paths": [],
+      "evidence_paths": [
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p049-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p049-row5-right-context.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p049-row6-left-context.png"
+      ],
       "canonical_record_ids": [],
-      "blocker": null
+      "blocker": {
+        "reason": "The quoted target is only the confidently legible span. Final པ, terminal tsheg and total detached-shad count remain unconfirmed; no omission or replacement is asserted.",
+        "next_step": "Reinspect the heading's final glyph and narrow terminal strokes before proposing punctuation; include the leading shad before ཞག in the inventory."
+      }
     },
     {
       "id": "C1-SIGN-U01257",
       "anchor": "U01257",
       "batch_id": "C1-SIGNS-04",
-      "status": "in_progress",
+      "status": "done",
       "owner": "independent-reader-C1-SIGNS-04-20260928",
-      "disposition": null,
+      "disposition": "adopted",
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
         "json_pointer": "/before_units/U01257"
@@ -1352,17 +1407,22 @@
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
       "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04.json",
-      "evidence_paths": [],
-      "canonical_record_ids": [],
+      "evidence_paths": [
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p050-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p050-row3-right-context.png"
+      ],
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U01257"
+      ],
       "blocker": null
     },
     {
       "id": "C1-SIGN-U01308",
       "anchor": "U01308",
       "batch_id": "C1-SIGNS-04",
-      "status": "in_progress",
+      "status": "done",
       "owner": "independent-reader-C1-SIGNS-04-20260928",
-      "disposition": null,
+      "disposition": "adopted",
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
         "json_pointer": "/before_units/U01308"
@@ -1370,17 +1430,23 @@
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
       "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04.json",
-      "evidence_paths": [],
-      "canonical_record_ids": [],
+      "evidence_paths": [
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p052-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p052-row3-right-context.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p052-row4-left-context.png"
+      ],
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U01308"
+      ],
       "blocker": null
     },
     {
       "id": "C1-SIGN-U01353",
       "anchor": "U01353",
       "batch_id": "C1-SIGNS-05",
-      "status": "in_progress",
+      "status": "done",
       "owner": "independent-reader-C1-SIGNS-05-20260928",
-      "disposition": null,
+      "disposition": "adopted",
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
         "json_pointer": "/before_units/U01353"
@@ -1388,17 +1454,22 @@
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
       "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05.json",
-      "evidence_paths": [],
-      "canonical_record_ids": [],
+      "evidence_paths": [
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/p054-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/p054-row2-context.png"
+      ],
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U01353"
+      ],
       "blocker": null
     },
     {
       "id": "C1-SIGN-U01476",
       "anchor": "U01476",
       "batch_id": "C1-SIGNS-05",
-      "status": "in_progress",
+      "status": "done",
       "owner": "independent-reader-C1-SIGNS-05-20260928",
-      "disposition": null,
+      "disposition": "adopted",
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
         "json_pointer": "/before_units/U01476"
@@ -1406,17 +1477,23 @@
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
       "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05.json",
-      "evidence_paths": [],
-      "canonical_record_ids": [],
+      "evidence_paths": [
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/p058-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/p058-row5-right-context.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/p058-row6-left-context.png"
+      ],
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U01476"
+      ],
       "blocker": null
     },
     {
       "id": "C1-SIGN-U01540",
       "anchor": "U01540",
       "batch_id": "C1-SIGNS-05",
-      "status": "in_progress",
+      "status": "done",
       "owner": "independent-reader-C1-SIGNS-05-20260928",
-      "disposition": null,
+      "disposition": "adopted",
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
         "json_pointer": "/before_units/U01540"
@@ -1424,17 +1501,25 @@
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
       "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05.json",
-      "evidence_paths": [],
-      "canonical_record_ids": [],
+      "evidence_paths": [
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/p061-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/p061-row2-context.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/p061-row5-context.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/p061-row5-right-U01556.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/p061-row6-left-U01557.png"
+      ],
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U01540"
+      ],
       "blocker": null
     },
     {
       "id": "C1-SIGN-U01557",
       "anchor": "U01557",
       "batch_id": "C1-SIGNS-05",
-      "status": "in_progress",
+      "status": "blocked",
       "owner": "independent-reader-C1-SIGNS-05-20260928",
-      "disposition": null,
+      "disposition": "unresolved",
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
         "json_pointer": "/before_units/U01557"
@@ -1442,17 +1527,26 @@
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
       "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05.json",
-      "evidence_paths": [],
+      "evidence_paths": [
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/p061-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/p061-row2-context.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/p061-row5-context.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/p061-row5-right-U01556.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/p061-row6-left-U01557.png"
+      ],
       "canonical_record_ids": [],
-      "blocker": null
+      "blocker": {
+        "reason": "The complete heading cannot be independently confirmed from the faint opening. The supplied electronic wording is retained only as the existing reading.",
+        "next_step": "Verify the faint opening from an authorized alternative image before confirming full correspondence; preserve the two visible boundary shads meanwhile."
+      }
     },
     {
       "id": "C1-SIGN-U01634",
       "anchor": "U01634",
       "batch_id": "C1-SIGNS-05",
-      "status": "in_progress",
+      "status": "done",
       "owner": "independent-reader-C1-SIGNS-05-20260928",
-      "disposition": null,
+      "disposition": "adopted",
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
         "json_pointer": "/before_units/U01634"
@@ -1460,17 +1554,22 @@
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
       "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05.json",
-      "evidence_paths": [],
-      "canonical_record_ids": [],
+      "evidence_paths": [
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/p064-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/p064-row5-context.png"
+      ],
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U01634"
+      ],
       "blocker": null
     },
     {
       "id": "C1-SIGN-U01661",
       "anchor": "U01661",
       "batch_id": "C1-SIGNS-06",
-      "status": "in_progress",
+      "status": "done",
       "owner": "independent-reader-C1-SIGNS-06-20260928",
-      "disposition": null,
+      "disposition": "adopted",
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
         "json_pointer": "/before_units/U01661"
@@ -1478,17 +1577,22 @@
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
       "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-06.json",
-      "evidence_paths": [],
-      "canonical_record_ids": [],
+      "evidence_paths": [
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-06/p065-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-06/p065-row5-context.png"
+      ],
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U01661"
+      ],
       "blocker": null
     },
     {
       "id": "C1-SIGN-U01727",
       "anchor": "U01727",
       "batch_id": "C1-SIGNS-06",
-      "status": "in_progress",
+      "status": "done",
       "owner": "independent-reader-C1-SIGNS-06-20260928",
-      "disposition": null,
+      "disposition": "adopted",
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
         "json_pointer": "/before_units/U01727"
@@ -1496,17 +1600,23 @@
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
       "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-06.json",
-      "evidence_paths": [],
-      "canonical_record_ids": [],
+      "evidence_paths": [
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-06/p068-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-06/p068-row1-right-context.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-06/p068-row2-left-context.png"
+      ],
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U01727"
+      ],
       "blocker": null
     },
     {
       "id": "C1-SIGN-U01539",
       "anchor": "U01539",
       "batch_id": "C1-SIGNS-06",
-      "status": "in_progress",
+      "status": "done",
       "owner": "independent-reader-C1-SIGNS-06-20260928",
-      "disposition": null,
+      "disposition": "adopted",
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
         "json_pointer": "/before_units/U01539"
@@ -1514,17 +1624,23 @@
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
       "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-06.json",
-      "evidence_paths": [],
-      "canonical_record_ids": [],
+      "evidence_paths": [
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-06/p061-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-06/p061-row2-left-context.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-06/p061-U01539-terminal-detail.png"
+      ],
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U01539"
+      ],
       "blocker": null
     },
     {
       "id": "C1-SIGN-U01595",
       "anchor": "U01595",
       "batch_id": "C1-SIGNS-06",
-      "status": "in_progress",
+      "status": "done",
       "owner": "independent-reader-C1-SIGNS-06-20260928",
-      "disposition": null,
+      "disposition": "adopted",
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
         "json_pointer": "/before_units/U01595"
@@ -1532,17 +1648,22 @@
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
       "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-06.json",
-      "evidence_paths": [],
-      "canonical_record_ids": [],
+      "evidence_paths": [
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-06/p063-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-06/p063-row2-context.png"
+      ],
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U01595"
+      ],
       "blocker": null
     },
     {
       "id": "C1-SIGN-U01688",
       "anchor": "U01688",
       "batch_id": "C1-SIGNS-06",
-      "status": "in_progress",
+      "status": "done",
       "owner": "independent-reader-C1-SIGNS-06-20260928",
-      "disposition": null,
+      "disposition": "adopted",
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
         "json_pointer": "/before_units/U01688"
@@ -1550,8 +1671,13 @@
       "historical_evidence_paths": [],
       "historical_evidence_note": "No verified candidate crop is assigned here. Locate the target from native page context; never infer it from the expected sign count.",
       "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-06.json",
-      "evidence_paths": [],
-      "canonical_record_ids": [],
+      "evidence_paths": [
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-06/p066-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-06/p066-row5-context.png"
+      ],
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U01688"
+      ],
       "blocker": null
     }
   ],

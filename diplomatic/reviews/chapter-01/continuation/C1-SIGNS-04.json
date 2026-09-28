@@ -2,7 +2,7 @@
   "task_id": "C1-SIGNS-04",
   "baseline_commit": "e406ce80e600574ffdb7b136274fa42325db0209",
   "reader": "independent-reader-C1-SIGNS-04-20260928",
-  "status": "coordinator_local_reading_saved_independent_pending",
+  "status": "partial_blocked",
   "source_paths_and_hashes": {
     "editions/adzom-2000/sgra-thal-gyur.pdf": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343",
     "editions/adzom-2000/original-images.zip": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb"
@@ -18,32 +18,459 @@
     {
       "anchor": "U01147",
       "existing_reading": "དྲིས་ལན་བཅུ་དགུ་པ།",
-      "status": "not_yet_read",
-      "disposition": null
+      "status": "adopted",
+      "disposition": "adopted",
+      "physical_locator": {
+        "pdf_page": 46,
+        "bdrc_image": 48,
+        "row": 3
+      },
+      "observed_context": {
+        "before": "རང་གི་དོན་ཡང་རྫོགས་པའོ",
+        "target": "དྲིས་ལན་བཅུ་དགུ་པ",
+        "after": "སེམས་ཅན་དུས་ནི་རྣམ་པ་བརྒྱད"
+      },
+      "independent_review": {
+        "anchor": "U01147",
+        "correspondence_confirmed": true,
+        "actual_pdf_page": 46,
+        "actual_row": 3,
+        "observed_before": "རང་གི་དོན་ཡང་རྫོགས་པའོ",
+        "observed_target": "དྲིས་ལན་བཅུ་དགུ་པ",
+        "observed_after": "སེམས་ཅན",
+        "native_target_bounds": [
+          3830,
+          595,
+          4300,
+          720
+        ],
+        "detached_boundary_shads": 2,
+        "terminal_tsheg": false,
+        "exact_existing_reading": "དྲིས་ལན་བཅུ་དགུ་པ།",
+        "proposed_punctuation_only_reading": null,
+        "rationale": "After the final པ's joined descending limb, a separate narrow upright closes the small heading. Another detached, taller upright precedes སེམས. Both lie inside the frame; neither is a vowel, tsheg or row-fill mark.",
+        "confidence": "moderate",
+        "uncertainty": "The two visible boundary shads do not by themselves establish electronic-unit ownership.",
+        "next_step": "Reconcile U01147–U01148 under the edition's ownership convention, preserving both shads."
+      },
+      "evidence_paths_and_hashes": [
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p046-native.png",
+          "pdf_page": 46,
+          "bdrc_image": 48,
+          "source_member": "0048.png",
+          "sha256": "22775def91a142c9c963d6ddfd72bce25048625ebafc5cc0753460b781a62073",
+          "dimensions": [
+            5696,
+            1344
+          ]
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p046-row3-context.png",
+          "pdf_page": 46,
+          "bdrc_image": 48,
+          "source_member": "0048.png",
+          "sha256": "da5f788e29e7f74bd62dc620933cc872c3470d52d564bc65145e5367957ad5bb",
+          "dimensions": [
+            5696,
+            1344
+          ],
+          "bounds": [
+            2970,
+            555,
+            5210,
+            775
+          ],
+          "derivation": "Exact unscaled native target/context crop; no enhancement."
+        }
+      ],
+      "confidence": {
+        "coordinator": "provisional high for correspondence, pending independent count comparison",
+        "independent": "moderate"
+      },
+      "uncertainty": "The two visible boundary shads do not by themselves establish electronic-unit ownership.",
+      "proposed_reading": "དྲིས་ལན་བཅུ་དགུ་པ། །",
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U01147"
+      ],
+      "rationale": "Small heading pa has a joined right limb; two additional detached vertical marks separate it from sems-can. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.",
+      "next_step": "Local boundary count integrated; other signs and source layers remain in the systematic physical review task."
     },
     {
       "anchor": "U01186",
       "existing_reading": "དྲིས་ལན་ཉི་ཤུ་པ།",
-      "status": "not_yet_read",
-      "disposition": null
+      "status": "adopted",
+      "disposition": "adopted",
+      "physical_locator": {
+        "pdf_page": 47,
+        "bdrc_image": 49,
+        "row": 6
+      },
+      "observed_context": {
+        "before": "དུས་རིམ་པའོ",
+        "target": "དྲིས་ལན་ཉི་ཤུ་པ",
+        "after": "ཕྱི་རོལ་འབྱུང་བ་རླུང་ལ་ཡང"
+      },
+      "independent_review": {
+        "anchor": "U01186",
+        "correspondence_confirmed": true,
+        "actual_pdf_page": 47,
+        "actual_row": 6,
+        "observed_before": "དུས་རིམ་པའོ",
+        "observed_target": "དྲིས་ལན་ཉི་ཤུ་པ",
+        "observed_after": "ཕྱི་རོལ་འབྱུང་བ",
+        "native_target_bounds": [
+          1295,
+          916,
+          1695,
+          1040
+        ],
+        "detached_boundary_shads": 2,
+        "terminal_tsheg": false,
+        "exact_existing_reading": "དྲིས་ལན་ཉི་ཤུ་པ།",
+        "proposed_punctuation_only_reading": null,
+        "rationale": "The small final པ has its own descending right limb. A narrow detached stroke follows it; a second, heavier detached stroke stands before the following main text. The lower frame is horizontal and separate from these strokes.",
+        "confidence": "moderate",
+        "uncertainty": "Minor printing loss affects the heading, but the two boundary strokes remain distinguishable. Editorial ownership is unresolved.",
+        "next_step": "Preserve the heading-terminal and next-leading shads when reconciling U01186–U01187."
+      },
+      "evidence_paths_and_hashes": [
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p047-native.png",
+          "pdf_page": 47,
+          "bdrc_image": 49,
+          "source_member": "0049.png",
+          "sha256": "531f7f036762fef068b3e2708b5240b27851bf7e0a8810e16bc115ff30a045b0",
+          "dimensions": [
+            5696,
+            1344
+          ]
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p047-row5-right-context.png",
+          "pdf_page": 47,
+          "bdrc_image": 49,
+          "source_member": "0049.png",
+          "sha256": "713555acbcbf0446a8e100075a7a6e4a98323b82977932714d53a30a5546be3d",
+          "dimensions": [
+            5696,
+            1344
+          ],
+          "bounds": [
+            4350,
+            760,
+            5160,
+            970
+          ],
+          "derivation": "Exact unscaled native target/context crop; no enhancement."
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p047-row6-left-context.png",
+          "pdf_page": 47,
+          "bdrc_image": 49,
+          "source_member": "0049.png",
+          "sha256": "db15f4fb7b4169a2e27e6a53292472f1407828268a4ac874c4efa64e2fa233ce",
+          "dimensions": [
+            5696,
+            1344
+          ],
+          "bounds": [
+            720,
+            885,
+            2780,
+            1090
+          ],
+          "derivation": "Exact unscaled native target/context crop; no enhancement."
+        }
+      ],
+      "confidence": {
+        "coordinator": "provisional high for correspondence, pending independent count comparison",
+        "independent": "moderate"
+      },
+      "uncertainty": "Minor printing loss affects the heading, but the two boundary strokes remain distinguishable. Editorial ownership is unresolved.",
+      "proposed_reading": "དྲིས་ལན་ཉི་ཤུ་པ། །",
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U01186"
+      ],
+      "rationale": "Two detached shads between small heading pa and next main phyi-rol, excluding the pa limb and bottom frame. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.",
+      "next_step": "Local boundary count integrated; other signs and source layers remain in the systematic physical review task."
     },
     {
       "anchor": "U01239",
       "existing_reading": "དྲིས་ལན་ཉེར་གཉིས་པ།",
-      "status": "not_yet_read",
-      "disposition": null
+      "status": "blocked",
+      "disposition": "unresolved",
+      "physical_locator": {
+        "pdf_page": 49,
+        "bdrc_image": 51,
+        "row": 5
+      },
+      "observed_context": {
+        "before": "ཆེན་པོ་གཅིག་ཡིན་ནོ",
+        "target": "དྲིས་ལན་ཉེར་གཉིས་པ",
+        "after": "ཞག / ནི་བཅུ་ཕྲག་གསུམ་པ་ཡང"
+      },
+      "independent_review": {
+        "anchor": "U01239",
+        "correspondence_confirmed": false,
+        "actual_pdf_page": 49,
+        "actual_row": 5,
+        "observed_before": "གཅིག་ཡིན་ནོ",
+        "observed_target": "དྲིས་ལན་ཉེར་གཉིས",
+        "observed_after": "ཞག / ནི་བཅུ་ཕྲག",
+        "native_target_bounds": [
+          4440,
+          756,
+          4950,
+          900
+        ],
+        "detached_boundary_shads": null,
+        "terminal_tsheg": null,
+        "exact_existing_reading": "དྲིས་ལན་ཉེར་གཉིས་པ།",
+        "proposed_punctuation_only_reading": null,
+        "rationale": "The adjoining text identifies the candidate heading's location. Its right edge contains closely spaced descending strokes, followed by a conspicuous detached leading shad before ཞག. I cannot confidently separate the heading's final lexical limb or possible པ from every narrow terminal stroke.",
+        "confidence": "low for the complete target and boundary count",
+        "uncertainty": "The quoted target is only the confidently legible span. Final པ, terminal tsheg and total detached-shad count remain unconfirmed; no omission or replacement is asserted.",
+        "next_step": "Reinspect the heading's final glyph and narrow terminal strokes before proposing punctuation; include the leading shad before ཞག in the inventory."
+      },
+      "evidence_paths_and_hashes": [
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p049-native.png",
+          "pdf_page": 49,
+          "bdrc_image": 51,
+          "source_member": "0051.png",
+          "sha256": "a001ea07131821122d16c82d0155b8d52587e58614b1c99a34befcac9736573d",
+          "dimensions": [
+            5696,
+            1344
+          ]
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p049-row5-right-context.png",
+          "pdf_page": 49,
+          "bdrc_image": 51,
+          "source_member": "0051.png",
+          "sha256": "b928dcd1818b20f999118414f1cb0cf910e9253aaf9f7391c6ae8e917b385f57",
+          "dimensions": [
+            5696,
+            1344
+          ],
+          "bounds": [
+            2950,
+            745,
+            5190,
+            975
+          ],
+          "derivation": "Exact unscaled native target/context crop; no enhancement."
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p049-row6-left-context.png",
+          "pdf_page": 49,
+          "bdrc_image": 51,
+          "source_member": "0051.png",
+          "sha256": "c846813fda7e4a9292998611ec9522c3903b173d77b95a363e1b85bab6e8847a",
+          "dimensions": [
+            5696,
+            1344
+          ],
+          "bounds": [
+            750,
+            865,
+            1780,
+            1080
+          ],
+          "derivation": "Exact unscaled native target/context crop; no enhancement."
+        }
+      ],
+      "confidence": {
+        "coordinator": "provisional high for correspondence, pending independent count comparison",
+        "independent": "low for the complete target and boundary count"
+      },
+      "uncertainty": "The quoted target is only the confidently legible span. Final པ, terminal tsheg and total detached-shad count remain unconfirmed; no omission or replacement is asserted.",
+      "proposed_reading": null,
+      "canonical_record_ids": [],
+      "rationale": "Independent correspondence/glyph discrimination is incomplete; preserve the coordinator proposal as provisional only.",
+      "next_step": "Reinspect the heading's final glyph and narrow terminal strokes before proposing punctuation; include the leading shad before ཞག in the inventory."
     },
     {
       "anchor": "U01257",
       "existing_reading": "དྲིས་ལན་ཉེར་གསུམ་པ།",
-      "status": "not_yet_read",
-      "disposition": null
+      "status": "adopted",
+      "disposition": "adopted",
+      "physical_locator": {
+        "pdf_page": 50,
+        "bdrc_image": 52,
+        "row": 3
+      },
+      "observed_context": {
+        "before": "འབྱུང་བའི་རྩིས་རྣམས་སྤེལ་བའོ",
+        "target": "དྲིས་ལན་ཉེར་གསུམ་པ",
+        "after": "ཚེ་ནི་སྤེལ་དང་གསོ་བ་དང"
+      },
+      "independent_review": {
+        "anchor": "U01257",
+        "correspondence_confirmed": true,
+        "actual_pdf_page": 50,
+        "actual_row": 3,
+        "observed_before": "རྣམས་སྤེལ་བའོ",
+        "observed_target": "དྲིས་ལན་ཉེར་གསུམ་པ",
+        "observed_after": "ཚེ་ནི་སྤེལ་དང",
+        "native_target_bounds": [
+          3830,
+          528,
+          4385,
+          662
+        ],
+        "detached_boundary_shads": 2,
+        "terminal_tsheg": false,
+        "exact_existing_reading": "དྲིས་ལན་ཉེར་གསུམ་པ།",
+        "proposed_punctuation_only_reading": null,
+        "rationale": "The small heading ends before the larger ཚེ. Beyond the final letter's connected limb, a narrow detached terminal stroke and a separate heavier leading stroke are visible. Broken ink within the heading is not an additional shad.",
+        "confidence": "moderate",
+        "uncertainty": "Interior glyphs show abrasion. The boundary inventory is clearer than the damaged letter interiors; ownership remains unresolved.",
+        "next_step": "Preserve both detached boundary shads when reconciling U01257–U01258; do not normalize the lexical text."
+      },
+      "evidence_paths_and_hashes": [
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p050-native.png",
+          "pdf_page": 50,
+          "bdrc_image": 52,
+          "source_member": "0052.png",
+          "sha256": "d8b7887a5712b2d501b6c5d3129d1c8ec135e546c902d28782ef8d81be4a488e",
+          "dimensions": [
+            5696,
+            1344
+          ]
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p050-row3-right-context.png",
+          "pdf_page": 50,
+          "bdrc_image": 52,
+          "source_member": "0052.png",
+          "sha256": "981181cc868722b0ec588a36b688b69991d7f8dcc983cbf72f9cba43e6896e56",
+          "dimensions": [
+            5696,
+            1344
+          ],
+          "bounds": [
+            2740,
+            480,
+            5180,
+            715
+          ],
+          "derivation": "Exact unscaled native target/context crop; no enhancement."
+        }
+      ],
+      "confidence": {
+        "coordinator": "provisional high for correspondence, pending independent count comparison",
+        "independent": "moderate"
+      },
+      "uncertainty": "Interior glyphs show abrasion. The boundary inventory is clearer than the damaged letter interiors; ownership remains unresolved.",
+      "proposed_reading": "དྲིས་ལན་ཉེར་གསུམ་པ། །",
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U01257"
+      ],
+      "rationale": "Small heading terminal and next-leading upright are both detached from letters; lower dotted/curved ink not another shad. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.",
+      "next_step": "Local boundary count integrated; other signs and source layers remain in the systematic physical review task."
     },
     {
       "anchor": "U01308",
       "existing_reading": "དྲིས་ལན་ཉེར་ལྔ་པ།",
-      "status": "not_yet_read",
-      "disposition": null
+      "status": "adopted",
+      "disposition": "adopted",
+      "physical_locator": {
+        "pdf_page": 52,
+        "bdrc_image": 54,
+        "row": "3 right -> 4 left"
+      },
+      "observed_context": {
+        "before": "ངེས་པར་འགྱུར་རོ་དབང་པོའི་ལྷ",
+        "target": "དྲིས་ལན་ཉེར / ལྔ་པ",
+        "after": "འཁོར་བའི་ལས་རྒྱུད་གཅད་འདོད་ན"
+      },
+      "independent_review": {
+        "anchor": "U01308",
+        "correspondence_confirmed": true,
+        "actual_pdf_page": 52,
+        "actual_row": 3,
+        "observed_before": "དབང་པོའི་ལྷ",
+        "observed_target": "དྲིས་ལན་ཉེར་ / ལྔ་པ",
+        "observed_after": "འཁོར་བའི་ལས་རྒྱུད",
+        "native_target_bounds": [
+          780,
+          530,
+          5155,
+          847
+        ],
+        "detached_boundary_shads": 2,
+        "terminal_tsheg": false,
+        "exact_existing_reading": "དྲིས་ལན་ཉེར་ལྔ་པ།",
+        "proposed_punctuation_only_reading": null,
+        "rationale": "The small heading begins at the right of row 3 and finishes at the left of row 4. After row 4's final པ, one detached upright closes the heading and another precedes the following main text. The row-3 ending mark after ཉེར is not a terminal shad after the complete heading.",
+        "confidence": "moderate",
+        "uncertainty": "actual_row records the starting row; the target continues on row 4. Its bounds enclose both separated portions and intervening unrelated text. Electronic ownership is unresolved.",
+        "next_step": "Inventory the terminal boundary on row 4 and preserve both shads when reconciling U01308–U01309."
+      },
+      "evidence_paths_and_hashes": [
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p052-native.png",
+          "pdf_page": 52,
+          "bdrc_image": 54,
+          "source_member": "0054.png",
+          "sha256": "0dff9a93c7b3c7690c68ab861de2168907394cc9efc65a50041696bd8cc1b01c",
+          "dimensions": [
+            5696,
+            1344
+          ]
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p052-row3-right-context.png",
+          "pdf_page": 52,
+          "bdrc_image": 54,
+          "source_member": "0054.png",
+          "sha256": "d21c9e92f8e79ced10ab531ddda5de3981fa7d0f291a67aaa55a3ba86907654c",
+          "dimensions": [
+            5696,
+            1344
+          ],
+          "bounds": [
+            3810,
+            510,
+            5190,
+            745
+          ],
+          "derivation": "Exact unscaled native target/context crop; no enhancement."
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p052-row4-left-context.png",
+          "pdf_page": 52,
+          "bdrc_image": 54,
+          "source_member": "0054.png",
+          "sha256": "5a4720f1f746ed07d96d5d09bbb188d0b686e08e1b5caf2532305d8ad13d1219",
+          "dimensions": [
+            5696,
+            1344
+          ],
+          "bounds": [
+            700,
+            650,
+            2360,
+            870
+          ],
+          "derivation": "Exact unscaled native target/context crop; no enhancement."
+        }
+      ],
+      "confidence": {
+        "coordinator": "provisional high for correspondence, pending independent count comparison",
+        "independent": "moderate"
+      },
+      "uncertainty": "actual_row records the starting row; the target continues on row 4. Its bounds enclose both separated portions and intervening unrelated text. Electronic ownership is unresolved.",
+      "proposed_reading": "དྲིས་ལན་ཉེར་ལྔ་པ། །",
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U01308"
+      ],
+      "rationale": "The heading is split across rows; two detached uprights after pa at row4 left precede khor-ba main text. Margin and previous-row strokes excluded. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.",
+      "next_step": "Local boundary count integrated; other signs and source layers remain in the systematic physical review task."
     }
   ],
   "chapter_complete": false,
@@ -114,5 +541,12 @@
         "uncertainty": "Source-row and small-note punctuation outside the stated boundary is not certified."
       }
     ]
-  }
+  },
+  "independent_review_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04-independent-attempt1-reading.txt",
+  "independent_review_sha256": "39604e68305454e59f2fff50eeb1ec558ca829b4c6a81b965bac9a57b3e6fd81",
+  "remaining_blocked_anchors": [
+    "U01239"
+  ],
+  "prior_verified_evidence_commit": "4b42e6e4672416021671119ea58dd5caa85f1efc",
+  "independence": "One informed independent agent per five-candidate packet plus coordinator; no blind or human-certification claim."
 }

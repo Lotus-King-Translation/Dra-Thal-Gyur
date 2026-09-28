@@ -2,7 +2,7 @@
   "task_id": "C1-SIGNS-03",
   "baseline_commit": "e406ce80e600574ffdb7b136274fa42325db0209",
   "reader": "ChatGPT-coordinator-session2",
-  "status": "coordinator_local_reading_saved_independent_pending",
+  "status": "decisions_integrated_pending_publication_receipt",
   "source_paths_and_hashes": {
     "editions/adzom-2000/sgra-thal-gyur.pdf": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343",
     "editions/adzom-2000/original-images.zip": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb"
@@ -17,32 +17,515 @@
     {
       "anchor": "U01627",
       "existing_reading": "འབྱུང་བཞི་དག་ལ་དབང་སྒྱུར་འགྱུར།",
-      "status": "not_yet_read",
-      "disposition": null
+      "status": "adopted",
+      "disposition": "adopted",
+      "physical_locator": {
+        "pdf_page": 64,
+        "bdrc_image": 66,
+        "row": "3 right -> 4 left"
+      },
+      "observed_context": {
+        "before": "བདེ་ཆེན་ཟག་མེད་ཐོབ་པ་དང",
+        "target": "འབྱུང་བཞི / དག་ལ་དབང་སྒྱུར་འགྱུར",
+        "after": "དངོས་ལ་བརྟགས"
+      },
+      "independent_review": {
+        "anchor": "U01627",
+        "correspondence_confirmed": true,
+        "actual_pdf_page": 64,
+        "actual_row": 3,
+        "observed_before": "ཐོབ་པ་དང་",
+        "observed_target": "འབྱུང་བཞི / དག་ལ་དབང་སྒྱུར་འགྱུར",
+        "observed_after": "དངོས་ལ་བརྟགས་པའི་",
+        "native_target_bounds": [
+          765,
+          540,
+          5110,
+          805
+        ],
+        "detached_boundary_shads": 2,
+        "terminal_tsheg": false,
+        "exact_existing_reading": "འབྱུང་བཞི་དག་ལ་དབང་སྒྱུར་འགྱུར།",
+        "proposed_punctuation_only_reading": null,
+        "rationale": "Target starts at the right end of row 3 and concludes at the left of row 4. After the final ra, one detached vertical stroke follows the word; another stands before the following main-text da. Both are separate from letter limbs. No terminal tsheg is discernible.",
+        "confidence": "High for correspondence and two-stroke inventory.",
+        "uncertainty": "Electronic ownership of the next-leading shad remains unassigned. The rectangular bounds span both rows and necessarily include intervening text.",
+        "next_step": "Record both boundary shads; apply the established editorial allocation convention before changing the electronic unit."
+      },
+      "evidence_paths_and_hashes": [
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-native.png",
+          "pdf_page": 64,
+          "bdrc_image": 66,
+          "source_member": "0066.png",
+          "sha256": "153fc43f4ff965be75c9fc4f2d5ec339a00d7d98c414deef93952020f89d3759",
+          "dimensions": [
+            5696,
+            1344
+          ]
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-row3-right.png",
+          "pdf_page": 64,
+          "bdrc_image": 66,
+          "source_member": "0066.png",
+          "sha256": "ed2281e4718c40f53d67b4dd0839f098ceb6a433368efe1f74ff674f29810324",
+          "dimensions": [
+            5696,
+            1344
+          ],
+          "bounds": [
+            4380,
+            530,
+            5160,
+            740
+          ],
+          "derivation": "Exact unscaled native target/context crop; no enhancement."
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-row4-left.png",
+          "pdf_page": 64,
+          "bdrc_image": 66,
+          "source_member": "0066.png",
+          "sha256": "b418087ee37c6c8e06db6d2be7aa3fb0e9abbbaf9aeea97ac5f82eec16b7a45a",
+          "dimensions": [
+            5696,
+            1344
+          ],
+          "bounds": [
+            710,
+            650,
+            1780,
+            860
+          ],
+          "derivation": "Exact unscaled native target/context crop; no enhancement."
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-row5-right.png",
+          "pdf_page": 64,
+          "bdrc_image": 66,
+          "source_member": "0066.png",
+          "sha256": "a487084564d30acc0b838756dbf0bd324e5868dd0b5918b4276d42cf809a6e87",
+          "dimensions": [
+            5696,
+            1344
+          ],
+          "bounds": [
+            3700,
+            760,
+            5160,
+            1000
+          ],
+          "derivation": "Exact unscaled native target/context crop; no enhancement."
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-row6-left.png",
+          "pdf_page": 64,
+          "bdrc_image": 66,
+          "source_member": "0066.png",
+          "sha256": "ce692a3d8e443987225224770dd76e3bc66ce3377af7593fad64e33baa25678f",
+          "dimensions": [
+            5696,
+            1344
+          ],
+          "bounds": [
+            710,
+            880,
+            1780,
+            1100
+          ],
+          "derivation": "Exact unscaled native target/context crop; no enhancement."
+        }
+      ],
+      "confidence": {
+        "coordinator": "provisional high for correspondence, pending independent count comparison",
+        "independent": "High for correspondence and two-stroke inventory."
+      },
+      "uncertainty": "Electronic ownership of the next-leading shad remains unassigned. The rectangular bounds span both rows and necessarily include intervening text.",
+      "proposed_reading": "འབྱུང་བཞི་དག་ལ་དབང་སྒྱུར་འགྱུར། །",
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U01627"
+      ],
+      "rationale": "Final ra/gyur letter structure precedes two separated boundary uprights; neighboring lower-row ink is excluded. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.",
+      "next_step": "Local boundary count integrated; other signs and source layers remain in the systematic physical review task."
     },
     {
       "anchor": "U01635",
       "existing_reading": "འཕོ་བའི་བྱེ་བྲག་རྣམ་པ་གསུམ།",
-      "status": "not_yet_read",
-      "disposition": null
+      "status": "adopted",
+      "disposition": "adopted",
+      "physical_locator": {
+        "pdf_page": 64,
+        "bdrc_image": 66,
+        "row": 5
+      },
+      "observed_context": {
+        "before": "དྲིས་ལན་སོ་དྲུག་པ",
+        "target": "འཕོ་བའི་བྱེ་བྲག་རྣམ་པ་གསུམ",
+        "after": "དབང་པོ་དག་གི་དབྱེ་བ་ཡིས"
+      },
+      "independent_review": {
+        "anchor": "U01635",
+        "correspondence_confirmed": true,
+        "actual_pdf_page": 64,
+        "actual_row": 5,
+        "observed_before": "དྲིས་ལན་སོ་དྲུག་པ",
+        "observed_target": "འཕོ་བའི་བྱེ་བྲག་རྣམ་པ་གསུམ",
+        "observed_after": "དབང་པོ་དག་གི་དབྱེ་བ་ཡིས",
+        "native_target_bounds": [
+          4300,
+          780,
+          5105,
+          935
+        ],
+        "detached_boundary_shads": 2,
+        "terminal_tsheg": false,
+        "exact_existing_reading": "འཕོ་བའི་བྱེ་བྲག་རྣམ་པ་གསུམ།",
+        "proposed_punctuation_only_reading": "འཕོ་བའི་བྱེ་བྲག་རྣམ་པ་གསུམ། །",
+        "rationale": "Two detached vertical shads follow the final ma. Its joined right limb is excluded, as is the stepped page frame farther right. The following text begins on row 6 without an additional leading shad.",
+        "confidence": "High.",
+        "uncertainty": "Bounds are visually estimated; no material uncertainty in the two terminal shads.",
+        "next_step": "Add the second terminal shad without changing lexical characters."
+      },
+      "evidence_paths_and_hashes": [
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-native.png",
+          "pdf_page": 64,
+          "bdrc_image": 66,
+          "source_member": "0066.png",
+          "sha256": "153fc43f4ff965be75c9fc4f2d5ec339a00d7d98c414deef93952020f89d3759",
+          "dimensions": [
+            5696,
+            1344
+          ]
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-row3-right.png",
+          "pdf_page": 64,
+          "bdrc_image": 66,
+          "source_member": "0066.png",
+          "sha256": "ed2281e4718c40f53d67b4dd0839f098ceb6a433368efe1f74ff674f29810324",
+          "dimensions": [
+            5696,
+            1344
+          ],
+          "bounds": [
+            4380,
+            530,
+            5160,
+            740
+          ],
+          "derivation": "Exact unscaled native target/context crop; no enhancement."
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-row4-left.png",
+          "pdf_page": 64,
+          "bdrc_image": 66,
+          "source_member": "0066.png",
+          "sha256": "b418087ee37c6c8e06db6d2be7aa3fb0e9abbbaf9aeea97ac5f82eec16b7a45a",
+          "dimensions": [
+            5696,
+            1344
+          ],
+          "bounds": [
+            710,
+            650,
+            1780,
+            860
+          ],
+          "derivation": "Exact unscaled native target/context crop; no enhancement."
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-row5-right.png",
+          "pdf_page": 64,
+          "bdrc_image": 66,
+          "source_member": "0066.png",
+          "sha256": "a487084564d30acc0b838756dbf0bd324e5868dd0b5918b4276d42cf809a6e87",
+          "dimensions": [
+            5696,
+            1344
+          ],
+          "bounds": [
+            3700,
+            760,
+            5160,
+            1000
+          ],
+          "derivation": "Exact unscaled native target/context crop; no enhancement."
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-row6-left.png",
+          "pdf_page": 64,
+          "bdrc_image": 66,
+          "source_member": "0066.png",
+          "sha256": "ce692a3d8e443987225224770dd76e3bc66ce3377af7593fad64e33baa25678f",
+          "dimensions": [
+            5696,
+            1344
+          ],
+          "bounds": [
+            710,
+            880,
+            1780,
+            1100
+          ],
+          "derivation": "Exact unscaled native target/context crop; no enhancement."
+        }
+      ],
+      "confidence": {
+        "coordinator": "provisional high for correspondence, pending independent count comparison",
+        "independent": "High."
+      },
+      "uncertainty": "Bounds are visually estimated; no material uncertainty in the two terminal shads.",
+      "proposed_reading": "འཕོ་བའི་བྱེ་བྲག་རྣམ་པ་གསུམ། །",
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U01635"
+      ],
+      "rationale": "Two thin detached terminal uprights stand before the much heavier page frame; the following main verse is on row6. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.",
+      "next_step": "Local boundary count integrated; other signs and source layers remain in the systematic physical review task."
     },
     {
       "anchor": "U00910",
       "existing_reading": "དྲིས་ལན་བཅུ་བཞི་པ།",
-      "status": "not_yet_read",
-      "disposition": null
+      "status": "adopted",
+      "disposition": "adopted",
+      "physical_locator": {
+        "pdf_page": 37,
+        "bdrc_image": 39,
+        "row": 4
+      },
+      "observed_context": {
+        "before": "འདི་ན་མི་གནས་དེར་སྣང་ངོ",
+        "target": "དྲིས་ལན་བཅུ་བཞི་པ",
+        "after": "དེ་ལྟར་དར་འགྲིབ"
+      },
+      "independent_review": {
+        "anchor": "U00910",
+        "correspondence_confirmed": true,
+        "actual_pdf_page": 37,
+        "actual_row": 4,
+        "observed_before": "གནས་དེར་སྣང་ངོ་",
+        "observed_target": "དྲིས་ལན་བཅུ་བཞི་པ",
+        "observed_after": "དེ་ལྟར་དར་འགྲིབ་",
+        "native_target_bounds": [
+          3710,
+          610,
+          4170,
+          755
+        ],
+        "detached_boundary_shads": 2,
+        "terminal_tsheg": false,
+        "exact_existing_reading": "དྲིས་ལན་བཅུ་བཞི་པ།",
+        "proposed_punctuation_only_reading": null,
+        "rationale": "A detached shad follows the small heading's final pa. A second, taller detached shad precedes the adjoining main-text de. Neither is the pa's joined descending limb. The complete intertext boundary therefore contains two shads.",
+        "confidence": "High for correspondence and boundary inventory.",
+        "uncertainty": "One heading-adjacent shad and one next-leading shad are visible; their allocation to electronic units cannot be determined from spacing alone.",
+        "next_step": "Preserve both signs in the boundary inventory and resolve ownership under the edition's heading convention."
+      },
+      "evidence_paths_and_hashes": [
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p037-native.png",
+          "pdf_page": 37,
+          "bdrc_image": 39,
+          "source_member": "0039.png",
+          "sha256": "35e0f0491d2f2301d7d70c33143ef7476d247e0ba033ee8de3f17245cee6db60",
+          "dimensions": [
+            5696,
+            1344
+          ]
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p037-row4-middle.png",
+          "pdf_page": 37,
+          "bdrc_image": 39,
+          "source_member": "0039.png",
+          "sha256": "5dcda231efe7aaaad767cebbcff6268eceb65d037de1e252d7f90bccbfcad134",
+          "dimensions": [
+            5696,
+            1344
+          ],
+          "bounds": [
+            2740,
+            625,
+            4300,
+            835
+          ],
+          "derivation": "Exact unscaled native target/context crop; no enhancement."
+        }
+      ],
+      "confidence": {
+        "coordinator": "provisional high for correspondence, pending independent count comparison",
+        "independent": "High for correspondence and boundary inventory."
+      },
+      "uncertainty": "One heading-adjacent shad and one next-leading shad are visible; their allocation to electronic units cannot be determined from spacing alone.",
+      "proposed_reading": "དྲིས་ལན་བཅུ་བཞི་པ། །",
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U00910"
+      ],
+      "rationale": "Small heading ends with a detached shad followed across white space by another upright before next main text; exclude final pa limb. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.",
+      "next_step": "Local boundary count integrated; other signs and source layers remain in the systematic physical review task."
     },
     {
       "anchor": "U00948",
       "existing_reading": "དྲིས་ལན་བཅོ་ལྔ་པ།",
-      "status": "not_yet_read",
-      "disposition": null
+      "status": "adopted",
+      "disposition": "adopted",
+      "physical_locator": {
+        "pdf_page": 39,
+        "bdrc_image": 41,
+        "row": 1
+      },
+      "observed_context": {
+        "before": "བ་རྣམས་ནི་སྨིན་བྱེད་དོ",
+        "target": "དྲིས་ལན་བཅོ་ལྔ་པ",
+        "after": "རྫོགས་སངས་རྒྱས"
+      },
+      "independent_review": {
+        "anchor": "U00948",
+        "correspondence_confirmed": true,
+        "actual_pdf_page": 39,
+        "actual_row": 1,
+        "observed_before": "སྨིན་བྱེད་དོ",
+        "observed_target": "དྲིས་ལན་བཅོ་ལྔ་པ",
+        "observed_after": "རྫོགས་སངས་རྒྱས་",
+        "native_target_bounds": [
+          1995,
+          250,
+          2375,
+          400
+        ],
+        "detached_boundary_shads": 2,
+        "terminal_tsheg": false,
+        "exact_existing_reading": "དྲིས་ལན་བཅོ་ལྔ་པ།",
+        "proposed_punctuation_only_reading": null,
+        "rationale": "The small heading ends with pa followed by a detached vertical shad. Another detached vertical stroke stands before the larger rdzogs stack of the following text. That second stroke is separate from the stack and its vowel; both boundary shads must be counted.",
+        "confidence": "High for correspondence and boundary inventory.",
+        "uncertainty": "The complete boundary has two shads, but this does not independently establish two heading-terminal signs.",
+        "next_step": "Retain the heading's lexical form and account for the next-leading shad before assigning punctuation to electronic units."
+      },
+      "evidence_paths_and_hashes": [
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p039-native.png",
+          "pdf_page": 39,
+          "bdrc_image": 41,
+          "source_member": "0041.png",
+          "sha256": "d71f2583227431e62bdafd2dabe211fd9b38ec08682bb451a1d362aea3fb4abd",
+          "dimensions": [
+            5696,
+            1344
+          ]
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p039-row1-context.png",
+          "pdf_page": 39,
+          "bdrc_image": 41,
+          "source_member": "0041.png",
+          "sha256": "d726c40ff4df502954b442d49a88df6e55835d37ba80ac25dc10a4e2cbb12da2",
+          "dimensions": [
+            5696,
+            1344
+          ],
+          "bounds": [
+            1220,
+            250,
+            2980,
+            465
+          ],
+          "derivation": "Exact unscaled native target/context crop; no enhancement."
+        }
+      ],
+      "confidence": {
+        "coordinator": "provisional high for correspondence, pending independent count comparison",
+        "independent": "High for correspondence and boundary inventory."
+      },
+      "uncertainty": "The complete boundary has two shads, but this does not independently establish two heading-terminal signs.",
+      "proposed_reading": "དྲིས་ལན་བཅོ་ལྔ་པ། །",
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U00948"
+      ],
+      "rationale": "Two detached boundary marks separate small heading pa from next main text; the main-letter limb is not a punctuation sign. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.",
+      "next_step": "Local boundary count integrated; other signs and source layers remain in the systematic physical review task."
     },
     {
       "anchor": "U01023",
       "existing_reading": "དྲིས་ལན་བཅུ་དྲུག་པ།",
-      "status": "not_yet_read",
-      "disposition": null
+      "status": "adopted",
+      "disposition": "adopted",
+      "physical_locator": {
+        "pdf_page": 41,
+        "bdrc_image": 43,
+        "row": 5
+      },
+      "observed_context": {
+        "before": "དེ་ནས་མི་གནས་ངོ་བོའོ",
+        "target": "དྲིས་ལན་བཅུ་དྲུག་པ",
+        "after": "བསྟན་པའི་སྙིང་ཐིག"
+      },
+      "independent_review": {
+        "anchor": "U01023",
+        "correspondence_confirmed": true,
+        "actual_pdf_page": 41,
+        "actual_row": 5,
+        "observed_before": "མི་གནས་ངོ་བོའོ",
+        "observed_target": "དྲིས་ལན་བཅུ་དྲུག་པ",
+        "observed_after": "བསྟན་པའི་སྙིང་ཐིག་",
+        "native_target_bounds": [
+          3230,
+          795,
+          3675,
+          930
+        ],
+        "detached_boundary_shads": 2,
+        "terminal_tsheg": false,
+        "exact_existing_reading": "དྲིས་ལན་བཅུ་དྲུག་པ།",
+        "proposed_punctuation_only_reading": null,
+        "rationale": "One detached shad follows the reduced-size heading's final pa. A second detached shad precedes the following larger bstan stack. The pa's own limb and the following stack's strokes are excluded from the count.",
+        "confidence": "High for correspondence and boundary inventory.",
+        "uncertainty": "The next-leading shad is secure as a separate stroke; its electronic ownership remains unresolved.",
+        "next_step": "Record the two-sign boundary and apply the edition's heading convention without silently dropping the next-leading shad."
+      },
+      "evidence_paths_and_hashes": [
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p041-native.png",
+          "pdf_page": 41,
+          "bdrc_image": 43,
+          "source_member": "0043.png",
+          "sha256": "0018c6201fb7b99cbc88d23b990563d7f876880e49e8f8a9cc0d3a14a888cdef",
+          "dimensions": [
+            5696,
+            1344
+          ]
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p041-row5-middle.png",
+          "pdf_page": 41,
+          "bdrc_image": 43,
+          "source_member": "0043.png",
+          "sha256": "6785c5151ff8732b5205188d7a68422e3346ccafa30b824256b84b079ee95e0f",
+          "dimensions": [
+            5696,
+            1344
+          ],
+          "bounds": [
+            3100,
+            750,
+            4440,
+            995
+          ],
+          "derivation": "Exact unscaled native target/context crop; no enhancement."
+        }
+      ],
+      "confidence": {
+        "coordinator": "provisional high for correspondence, pending independent count comparison",
+        "independent": "High for correspondence and boundary inventory."
+      },
+      "uncertainty": "The next-leading shad is secure as a separate stroke; its electronic ownership remains unresolved.",
+      "proposed_reading": "དྲིས་ལན་བཅུ་དྲུག་པ། །",
+      "canonical_record_ids": [
+        "SIGNS-VERIFIED-20260928-U01023"
+      ],
+      "rationale": "Heading-pa right limb excluded; two free uprights at the heading/main-text boundary. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.",
+      "next_step": "Local boundary count integrated; other signs and source layers remain in the systematic physical review task."
     }
   ],
   "chapter_complete": false,
@@ -113,5 +596,10 @@
         "uncertainty": "Source-row and small-note punctuation outside the stated boundary is not certified."
       }
     ]
-  }
+  },
+  "independent_review_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-03-independent-attempt1-reading.txt",
+  "independent_review_sha256": "a56fd34a8610f110caa7e43a0c16e931781294d2ca45e404c45abd16712ccade",
+  "remaining_blocked_anchors": [],
+  "prior_verified_evidence_commit": "4b42e6e4672416021671119ea58dd5caa85f1efc",
+  "independence": "One informed independent agent per five-candidate packet plus coordinator; no blind or human-certification claim."
 }

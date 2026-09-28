@@ -3661,7 +3661,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00910"></a>
 
-**U00910** **[Source structural heading]** དྲིས་ལན་བཅུ་བཞི་པ། [L1-0055](#l1-0055) [W-C01-071](reviews/chapter-01/wikisource.md#w-c01-071)
+**U00910** **[Source structural heading]** དྲིས་ལན་བཅུ་བཞི་པ། ། [SIGNS-VERIFIED-20260928-U00910](#signs-verified-20260928-u00910) [L1-0055](#l1-0055) [W-C01-071](reviews/chapter-01/wikisource.md#w-c01-071)
 
 <a id="u00911"></a>
 
@@ -3813,7 +3813,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00948"></a>
 
-**U00948** **[Source structural heading]** དྲིས་ལན་བཅོ་ལྔ་པ། [L1-0057](#l1-0057) [W-C01-074](reviews/chapter-01/wikisource.md#w-c01-074)
+**U00948** **[Source structural heading]** དྲིས་ལན་བཅོ་ལྔ་པ། ། [SIGNS-VERIFIED-20260928-U00948](#signs-verified-20260928-u00948) [L1-0057](#l1-0057) [W-C01-074](reviews/chapter-01/wikisource.md#w-c01-074)
 
 <a id="u00949"></a>
 
@@ -4113,7 +4113,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01023"></a>
 
-**U01023** **[Source structural heading]** དྲིས་ལན་བཅུ་དྲུག་པ། [L1-0060](#l1-0060) [W-C01-083](reviews/chapter-01/wikisource.md#w-c01-083)
+**U01023** **[Source structural heading]** དྲིས་ལན་བཅུ་དྲུག་པ། ། [SIGNS-VERIFIED-20260928-U01023](#signs-verified-20260928-u01023) [L1-0060](#l1-0060) [W-C01-083](reviews/chapter-01/wikisource.md#w-c01-083)
 
 <a id="u01024"></a>
 
@@ -4609,7 +4609,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01147"></a>
 
-**U01147** **[Source structural heading]** དྲིས་ལན་བཅུ་དགུ་པ། [L1-0068](#l1-0068) [W-C01-093](reviews/chapter-01/wikisource.md#w-c01-093)
+**U01147** **[Source structural heading]** དྲིས་ལན་བཅུ་དགུ་པ། ། [SIGNS-VERIFIED-20260928-U01147](#signs-verified-20260928-u01147) [L1-0068](#l1-0068) [W-C01-093](reviews/chapter-01/wikisource.md#w-c01-093)
 
 <a id="u01148"></a>
 
@@ -4765,7 +4765,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01186"></a>
 
-**U01186** **[Source structural heading]** དྲིས་ལན་ཉི་ཤུ་པ། [L1-0069](#l1-0069) [W-C01-097](reviews/chapter-01/wikisource.md#w-c01-097)
+**U01186** **[Source structural heading]** དྲིས་ལན་ཉི་ཤུ་པ། ། [SIGNS-VERIFIED-20260928-U01186](#signs-verified-20260928-u01186) [L1-0069](#l1-0069) [W-C01-097](reviews/chapter-01/wikisource.md#w-c01-097)
 
 <a id="u01187"></a>
 
@@ -5049,7 +5049,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01257"></a>
 
-**U01257** **[Source structural heading]** དྲིས་ལན་ཉེར་གསུམ་པ། [L1-0075](#l1-0075) [W-C01-106](reviews/chapter-01/wikisource.md#w-c01-106)
+**U01257** **[Source structural heading]** དྲིས་ལན་ཉེར་གསུམ་པ། ། [SIGNS-VERIFIED-20260928-U01257](#signs-verified-20260928-u01257) [L1-0075](#l1-0075) [W-C01-106](reviews/chapter-01/wikisource.md#w-c01-106)
 
 <a id="u01258"></a>
 
@@ -5261,7 +5261,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01308"></a>
 
-**U01308** **[Source structural heading]** དྲིས་ལན་ཉེར་ལྔ་པ། [L1-0080](#l1-0080) [W-C01-114](reviews/chapter-01/wikisource.md#w-c01-114)
+**U01308** **[Source structural heading]** དྲིས་ལན་ཉེར་ལྔ་པ། ། [SIGNS-VERIFIED-20260928-U01308](#signs-verified-20260928-u01308) [L1-0080](#l1-0080) [W-C01-114](reviews/chapter-01/wikisource.md#w-c01-114)
 
 <a id="u01309"></a>
 
@@ -5441,7 +5441,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01353"></a>
 
-**U01353** **[Source structural heading]** དྲིས་ལན་ཉེར་བདུན་པ། [L1-0085](#l1-0085) [W-C01-120](reviews/chapter-01/wikisource.md#w-c01-120)
+**U01353** **[Source structural heading]** དྲིས་ལན་ཉེར་བདུན་པ། ། [SIGNS-VERIFIED-20260928-U01353](#signs-verified-20260928-u01353) [L1-0085](#l1-0085) [W-C01-120](reviews/chapter-01/wikisource.md#w-c01-120)
 
 <a id="u01354"></a>
 
@@ -5933,7 +5933,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01476"></a>
 
-**U01476** **[Source structural heading]** དྲིས་ལན་སུམ་ཅུ་པ། [L1-0093](#l1-0093) [W-C01-137](reviews/chapter-01/wikisource.md#w-c01-137)
+**U01476** **[Source structural heading]** དྲིས་ལན་སུམ་ཅུ་པ། ། [SIGNS-VERIFIED-20260928-U01476](#signs-verified-20260928-u01476) [L1-0093](#l1-0093) [W-C01-137](reviews/chapter-01/wikisource.md#w-c01-137)
 
 <a id="u01477"></a>
 
@@ -6185,11 +6185,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01539"></a>
 
-**U01539** ཁམས་གསུམ་དུ་ཡང་ལྡོག་པ་མིན། །
+**U01539** ཁམས་གསུམ་དུ་ཡང་ལྡོག་པ་མིན། [SIGNS-VERIFIED-20260928-U01539](#signs-verified-20260928-u01539)
 
 <a id="u01540"></a>
 
-**U01540** **[Source structural heading]** དྲིས་ལན་སོ་གཉིས་པ། [L1-0097](#l1-0097) [W-C01-142](reviews/chapter-01/wikisource.md#w-c01-142)
+**U01540** **[Source structural heading]** དྲིས་ལན་སོ་གཉིས་པ། ། [SIGNS-VERIFIED-20260928-U01540](#signs-verified-20260928-u01540) [L1-0097](#l1-0097) [W-C01-142](reviews/chapter-01/wikisource.md#w-c01-142)
 
 <a id="u01541"></a>
 
@@ -6409,7 +6409,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01595"></a>
 
-**U01595** དེས་ནི་སོ་སོའི་རླུང་ཚད་ཟིན། །
+**U01595** དེས་ནི་སོ་སོའི་རླུང་ཚད་ཟིན། [SIGNS-VERIFIED-20260928-U01595](#signs-verified-20260928-u01595)
 
 <a id="u01596"></a>
 
@@ -6537,7 +6537,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01627"></a>
 
-**U01627** འབྱུང་བཞི་དག་ལ་དབང་སྒྱུར་འགྱུར། [L1-0104](#l1-0104)
+**U01627** འབྱུང་བཞི་དག་ལ་དབང་སྒྱུར་འགྱུར། ། [SIGNS-VERIFIED-20260928-U01627](#signs-verified-20260928-u01627) [L1-0104](#l1-0104)
 
 <a id="u01628"></a>
 
@@ -6565,11 +6565,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01634"></a>
 
-**U01634** **[Source structural heading]** དྲིས་ལན་སོ་དྲུག་པ། [L1-0105](#l1-0105) [W-C01-152](reviews/chapter-01/wikisource.md#w-c01-152)
+**U01634** **[Source structural heading]** དྲིས་ལན་སོ་དྲུག་པ། ། [SIGNS-VERIFIED-20260928-U01634](#signs-verified-20260928-u01634) [L1-0105](#l1-0105) [W-C01-152](reviews/chapter-01/wikisource.md#w-c01-152)
 
 <a id="u01635"></a>
 
-**U01635** འཕོ་བའི་བྱེ་བྲག་རྣམ་པ་གསུམ། [L1-0105](#l1-0105)
+**U01635** འཕོ་བའི་བྱེ་བྲག་རྣམ་པ་གསུམ། ། [SIGNS-VERIFIED-20260928-U01635](#signs-verified-20260928-u01635) [L1-0105](#l1-0105)
 
 <a id="u01636"></a>
 
@@ -6673,7 +6673,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01661"></a>
 
-**U01661** **[Source structural heading]** དྲིས་ལན་སོ་བདུན་པ། [L1-0107](#l1-0107) [W-C01-155](reviews/chapter-01/wikisource.md#w-c01-155)
+**U01661** **[Source structural heading]** དྲིས་ལན་སོ་བདུན་པ། ། [SIGNS-VERIFIED-20260928-U01661](#signs-verified-20260928-u01661) [L1-0107](#l1-0107) [W-C01-155](reviews/chapter-01/wikisource.md#w-c01-155)
 
 <a id="u01662"></a>
 
@@ -6781,7 +6781,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01688"></a>
 
-**U01688** འདིས་ཀྱང་ཕན་དང་གནོད་པ་འགྲུབ། །
+**U01688** འདིས་ཀྱང་ཕན་དང་གནོད་པ་འགྲུབ། [SIGNS-VERIFIED-20260928-U01688](#signs-verified-20260928-u01688)
 
 <a id="u01689"></a>
 
@@ -6937,7 +6937,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01727"></a>
 
-**U01727** **[Source structural heading]** དྲིས་ལན་སོ་དགུ་པ། [L1-0113](#l1-0113) [W-C01-168](reviews/chapter-01/wikisource.md#w-c01-168)
+**U01727** **[Source structural heading]** དྲིས་ལན་སོ་དགུ་པ། ། [SIGNS-VERIFIED-20260928-U01727](#signs-verified-20260928-u01727) [L1-0113](#l1-0113) [W-C01-168](reviews/chapter-01/wikisource.md#w-c01-168)
 
 <a id="u01728"></a>
 
@@ -11945,6 +11945,330 @@ Units: [U00995](#u00995).
 
 **Evidence:** [p040-native.png](evidence/chapter-01/continuation/C1-SIGNS-02/p040-native.png), [p040-row5-context.png](evidence/chapter-01/continuation/C1-SIGNS-02/p040-row5-context.png), [U00995-terminal.png](evidence/chapter-01/continuation/C1-SIGNS-02/U00995-terminal.png), [U00995-wide-terminal-context.png](evidence/chapter-01/continuation/C1-SIGNS-02/U00995-wide-terminal-context.png)
 
+<a id="signs-verified-20260928-u01627"></a>
+
+### SIGNS-VERIFIED-20260928-U01627
+
+Units: [U01627](#u01627).
+
+**A transcript:** འབྱུང་བཞི་དག་ལ་དབང་སྒྱུར་འགྱུར།
+
+**Adopted reading:** འབྱུང་བཞི་དག་ལ་དབང་སྒྱུར་འགྱུར། །
+
+**Scan locator:** Adzom2000 PDF64 / BDRC66 / main row 3 right -> 4 left.
+
+**Decision and reason:** Final ra/gyur letter structure precedes two separated boundary uprights; neighboring lower-row ink is excluded. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.
+
+**Confidence and limits:** {"independent_visual_review": "High for correspondence and two-stroke inventory.", "coordinator_correspondence": "native page and actual adjoining sequence independently inspected", "limit": "Electronic ownership of the next-leading shad remains unassigned. The rectangular bounds span both rows and necessarily include intervening text."}
+
+**Evidence:** [p064-native.png](evidence/chapter-01/continuation/C1-SIGNS-03/p064-native.png), [p064-row3-right.png](evidence/chapter-01/continuation/C1-SIGNS-03/p064-row3-right.png), [p064-row4-left.png](evidence/chapter-01/continuation/C1-SIGNS-03/p064-row4-left.png), [p064-row5-right.png](evidence/chapter-01/continuation/C1-SIGNS-03/p064-row5-right.png), [p064-row6-left.png](evidence/chapter-01/continuation/C1-SIGNS-03/p064-row6-left.png)
+
+<a id="signs-verified-20260928-u01635"></a>
+
+### SIGNS-VERIFIED-20260928-U01635
+
+Units: [U01635](#u01635).
+
+**A transcript:** འཕོ་བའི་བྱེ་བྲག་རྣམ་པ་གསུམ།
+
+**Adopted reading:** འཕོ་བའི་བྱེ་བྲག་རྣམ་པ་གསུམ། །
+
+**Scan locator:** Adzom2000 PDF64 / BDRC66 / main row 5.
+
+**Decision and reason:** Two thin detached terminal uprights stand before the much heavier page frame; the following main verse is on row6. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.
+
+**Confidence and limits:** {"independent_visual_review": "High.", "coordinator_correspondence": "native page and actual adjoining sequence independently inspected", "limit": "Bounds are visually estimated; no material uncertainty in the two terminal shads."}
+
+**Evidence:** [p064-native.png](evidence/chapter-01/continuation/C1-SIGNS-03/p064-native.png), [p064-row3-right.png](evidence/chapter-01/continuation/C1-SIGNS-03/p064-row3-right.png), [p064-row4-left.png](evidence/chapter-01/continuation/C1-SIGNS-03/p064-row4-left.png), [p064-row5-right.png](evidence/chapter-01/continuation/C1-SIGNS-03/p064-row5-right.png), [p064-row6-left.png](evidence/chapter-01/continuation/C1-SIGNS-03/p064-row6-left.png)
+
+<a id="signs-verified-20260928-u00910"></a>
+
+### SIGNS-VERIFIED-20260928-U00910
+
+Units: [U00910](#u00910).
+
+**A transcript:** དྲིས་ལན་བཅུ་བཞི་པ།
+
+**Adopted reading:** དྲིས་ལན་བཅུ་བཞི་པ། །
+
+**Scan locator:** Adzom2000 PDF37 / BDRC39 / main row 4.
+
+**Decision and reason:** Small heading ends with a detached shad followed across white space by another upright before next main text; exclude final pa limb. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.
+
+**Confidence and limits:** {"independent_visual_review": "High for correspondence and boundary inventory.", "coordinator_correspondence": "native page and actual adjoining sequence independently inspected", "limit": "One heading-adjacent shad and one next-leading shad are visible; their allocation to electronic units cannot be determined from spacing alone."}
+
+**Evidence:** [p037-native.png](evidence/chapter-01/continuation/C1-SIGNS-03/p037-native.png), [p037-row4-middle.png](evidence/chapter-01/continuation/C1-SIGNS-03/p037-row4-middle.png)
+
+<a id="signs-verified-20260928-u00948"></a>
+
+### SIGNS-VERIFIED-20260928-U00948
+
+Units: [U00948](#u00948).
+
+**A transcript:** དྲིས་ལན་བཅོ་ལྔ་པ།
+
+**Adopted reading:** དྲིས་ལན་བཅོ་ལྔ་པ། །
+
+**Scan locator:** Adzom2000 PDF39 / BDRC41 / main row 1.
+
+**Decision and reason:** Two detached boundary marks separate small heading pa from next main text; the main-letter limb is not a punctuation sign. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.
+
+**Confidence and limits:** {"independent_visual_review": "High for correspondence and boundary inventory.", "coordinator_correspondence": "native page and actual adjoining sequence independently inspected", "limit": "The complete boundary has two shads, but this does not independently establish two heading-terminal signs."}
+
+**Evidence:** [p039-native.png](evidence/chapter-01/continuation/C1-SIGNS-03/p039-native.png), [p039-row1-context.png](evidence/chapter-01/continuation/C1-SIGNS-03/p039-row1-context.png)
+
+<a id="signs-verified-20260928-u01023"></a>
+
+### SIGNS-VERIFIED-20260928-U01023
+
+Units: [U01023](#u01023).
+
+**A transcript:** དྲིས་ལན་བཅུ་དྲུག་པ།
+
+**Adopted reading:** དྲིས་ལན་བཅུ་དྲུག་པ། །
+
+**Scan locator:** Adzom2000 PDF41 / BDRC43 / main row 5.
+
+**Decision and reason:** Heading-pa right limb excluded; two free uprights at the heading/main-text boundary. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.
+
+**Confidence and limits:** {"independent_visual_review": "High for correspondence and boundary inventory.", "coordinator_correspondence": "native page and actual adjoining sequence independently inspected", "limit": "The next-leading shad is secure as a separate stroke; its electronic ownership remains unresolved."}
+
+**Evidence:** [p041-native.png](evidence/chapter-01/continuation/C1-SIGNS-03/p041-native.png), [p041-row5-middle.png](evidence/chapter-01/continuation/C1-SIGNS-03/p041-row5-middle.png)
+
+<a id="signs-verified-20260928-u01147"></a>
+
+### SIGNS-VERIFIED-20260928-U01147
+
+Units: [U01147](#u01147).
+
+**A transcript:** དྲིས་ལན་བཅུ་དགུ་པ།
+
+**Adopted reading:** དྲིས་ལན་བཅུ་དགུ་པ། །
+
+**Scan locator:** Adzom2000 PDF46 / BDRC48 / main row 3.
+
+**Decision and reason:** Small heading pa has a joined right limb; two additional detached vertical marks separate it from sems-can. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.
+
+**Confidence and limits:** {"independent_visual_review": "moderate", "coordinator_correspondence": "native page and actual adjoining sequence independently inspected", "limit": "The two visible boundary shads do not by themselves establish electronic-unit ownership."}
+
+**Evidence:** [p046-native.png](evidence/chapter-01/continuation/C1-SIGNS-04/p046-native.png), [p046-row3-context.png](evidence/chapter-01/continuation/C1-SIGNS-04/p046-row3-context.png)
+
+<a id="signs-verified-20260928-u01186"></a>
+
+### SIGNS-VERIFIED-20260928-U01186
+
+Units: [U01186](#u01186).
+
+**A transcript:** དྲིས་ལན་ཉི་ཤུ་པ།
+
+**Adopted reading:** དྲིས་ལན་ཉི་ཤུ་པ། །
+
+**Scan locator:** Adzom2000 PDF47 / BDRC49 / main row 6.
+
+**Decision and reason:** Two detached shads between small heading pa and next main phyi-rol, excluding the pa limb and bottom frame. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.
+
+**Confidence and limits:** {"independent_visual_review": "moderate", "coordinator_correspondence": "native page and actual adjoining sequence independently inspected", "limit": "Minor printing loss affects the heading, but the two boundary strokes remain distinguishable. Editorial ownership is unresolved."}
+
+**Evidence:** [p047-native.png](evidence/chapter-01/continuation/C1-SIGNS-04/p047-native.png), [p047-row5-right-context.png](evidence/chapter-01/continuation/C1-SIGNS-04/p047-row5-right-context.png), [p047-row6-left-context.png](evidence/chapter-01/continuation/C1-SIGNS-04/p047-row6-left-context.png)
+
+<a id="signs-verified-20260928-u01257"></a>
+
+### SIGNS-VERIFIED-20260928-U01257
+
+Units: [U01257](#u01257).
+
+**A transcript:** དྲིས་ལན་ཉེར་གསུམ་པ།
+
+**Adopted reading:** དྲིས་ལན་ཉེར་གསུམ་པ། །
+
+**Scan locator:** Adzom2000 PDF50 / BDRC52 / main row 3.
+
+**Decision and reason:** Small heading terminal and next-leading upright are both detached from letters; lower dotted/curved ink not another shad. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.
+
+**Confidence and limits:** {"independent_visual_review": "moderate", "coordinator_correspondence": "native page and actual adjoining sequence independently inspected", "limit": "Interior glyphs show abrasion. The boundary inventory is clearer than the damaged letter interiors; ownership remains unresolved."}
+
+**Evidence:** [p050-native.png](evidence/chapter-01/continuation/C1-SIGNS-04/p050-native.png), [p050-row3-right-context.png](evidence/chapter-01/continuation/C1-SIGNS-04/p050-row3-right-context.png)
+
+<a id="signs-verified-20260928-u01308"></a>
+
+### SIGNS-VERIFIED-20260928-U01308
+
+Units: [U01308](#u01308).
+
+**A transcript:** དྲིས་ལན་ཉེར་ལྔ་པ།
+
+**Adopted reading:** དྲིས་ལན་ཉེར་ལྔ་པ། །
+
+**Scan locator:** Adzom2000 PDF52 / BDRC54 / main row 3 right -> 4 left.
+
+**Decision and reason:** The heading is split across rows; two detached uprights after pa at row4 left precede khor-ba main text. Margin and previous-row strokes excluded. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.
+
+**Confidence and limits:** {"independent_visual_review": "moderate", "coordinator_correspondence": "native page and actual adjoining sequence independently inspected", "limit": "actual_row records the starting row; the target continues on row 4. Its bounds enclose both separated portions and intervening unrelated text. Electronic ownership is unresolved."}
+
+**Evidence:** [p052-native.png](evidence/chapter-01/continuation/C1-SIGNS-04/p052-native.png), [p052-row3-right-context.png](evidence/chapter-01/continuation/C1-SIGNS-04/p052-row3-right-context.png), [p052-row4-left-context.png](evidence/chapter-01/continuation/C1-SIGNS-04/p052-row4-left-context.png)
+
+<a id="signs-verified-20260928-u01353"></a>
+
+### SIGNS-VERIFIED-20260928-U01353
+
+Units: [U01353](#u01353).
+
+**A transcript:** དྲིས་ལན་ཉེར་བདུན་པ།
+
+**Adopted reading:** དྲིས་ལན་ཉེར་བདུན་པ། །
+
+**Scan locator:** Adzom2000 PDF54 / BDRC56 / main row 2.
+
+**Decision and reason:** Two detached uprights separate the small heading final pa from following sku-gsum main text; letter limb and upper/lower row material excluded. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.
+
+**Confidence and limits:** {"independent_visual_review": "High for correspondence and two-stroke inventory; moderate for terminal-tsheg absence.", "coordinator_correspondence": "native page and actual adjoining sequence independently inspected", "limit": "Physical inventory establishes two shads, but does not establish their electronic-unit ownership."}
+
+**Evidence:** [p054-native.png](evidence/chapter-01/continuation/C1-SIGNS-05/p054-native.png), [p054-row2-context.png](evidence/chapter-01/continuation/C1-SIGNS-05/p054-row2-context.png)
+
+<a id="signs-verified-20260928-u01476"></a>
+
+### SIGNS-VERIFIED-20260928-U01476
+
+Units: [U01476](#u01476).
+
+**A transcript:** དྲིས་ལན་སུམ་ཅུ་པ།
+
+**Adopted reading:** དྲིས་ལན་སུམ་ཅུ་པ། །
+
+**Scan locator:** Adzom2000 PDF58 / BDRC60 / main row 5.
+
+**Decision and reason:** Small heading terminal and next-leading mark form two detached uprights; the following root verse crosses row5/6. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.
+
+**Confidence and limits:** {"independent_visual_review": "High for correspondence and two-shad inventory; moderate for terminal-tsheg absence.", "coordinator_correspondence": "native page and actual adjoining sequence independently inspected", "limit": "Neither the intervening space nor the difference in stroke height alone authorizes assigning both signs to the heading."}
+
+**Evidence:** [p058-native.png](evidence/chapter-01/continuation/C1-SIGNS-05/p058-native.png), [p058-row5-right-context.png](evidence/chapter-01/continuation/C1-SIGNS-05/p058-row5-right-context.png), [p058-row6-left-context.png](evidence/chapter-01/continuation/C1-SIGNS-05/p058-row6-left-context.png)
+
+<a id="signs-verified-20260928-u01540"></a>
+
+### SIGNS-VERIFIED-20260928-U01540
+
+Units: [U01540](#u01540).
+
+**A transcript:** དྲིས་ལན་སོ་གཉིས་པ།
+
+**Adopted reading:** དྲིས་ལན་སོ་གཉིས་པ། །
+
+**Scan locator:** Adzom2000 PDF61 / BDRC63 / main row 2.
+
+**Decision and reason:** Two detached shads occur after heading-pa, distinct from its connected right limb and following rlung glyph. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.
+
+**Confidence and limits:** {"independent_visual_review": "High for location and detached-shad count; moderate for terminal-tsheg absence.", "coordinator_correspondence": "native page and actual adjoining sequence independently inspected", "limit": "The two visible signs require an explicit allocation decision; the electronic heading's single shad does not settle that decision."}
+
+**Evidence:** [p061-native.png](evidence/chapter-01/continuation/C1-SIGNS-05/p061-native.png), [p061-row2-context.png](evidence/chapter-01/continuation/C1-SIGNS-05/p061-row2-context.png), [p061-row5-context.png](evidence/chapter-01/continuation/C1-SIGNS-05/p061-row5-context.png), [p061-row5-right-U01556.png](evidence/chapter-01/continuation/C1-SIGNS-05/p061-row5-right-U01556.png), [p061-row6-left-U01557.png](evidence/chapter-01/continuation/C1-SIGNS-05/p061-row6-left-U01557.png)
+
+<a id="signs-verified-20260928-u01634"></a>
+
+### SIGNS-VERIFIED-20260928-U01634
+
+Units: [U01634](#u01634).
+
+**A transcript:** དྲིས་ལན་སོ་དྲུག་པ།
+
+**Adopted reading:** དྲིས་ལན་སོ་དྲུག་པ། །
+
+**Scan locator:** Adzom2000 PDF64 / BDRC66 / main row 5.
+
+**Decision and reason:** Two detached marks separate the smaller heading from next main verse; curved material from preceding or following rows is not counted. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.
+
+**Confidence and limits:** {"independent_visual_review": "High for correspondence and two-shad inventory; moderate for terminal-tsheg absence.", "coordinator_correspondence": "native page and actual adjoining sequence independently inspected", "limit": "The boundary count does not by itself establish whether the second shad belongs electronically to the heading or following unit."}
+
+**Evidence:** [p064-native.png](evidence/chapter-01/continuation/C1-SIGNS-05/p064-native.png), [p064-row5-context.png](evidence/chapter-01/continuation/C1-SIGNS-05/p064-row5-context.png)
+
+<a id="signs-verified-20260928-u01661"></a>
+
+### SIGNS-VERIFIED-20260928-U01661
+
+Units: [U01661](#u01661).
+
+**A transcript:** དྲིས་ལན་སོ་བདུན་པ།
+
+**Adopted reading:** དྲིས་ལན་སོ་བདུན་པ། །
+
+**Scan locator:** Adzom2000 PDF65 / BDRC67 / main row 5.
+
+**Decision and reason:** Two detached uprights after the small heading final pa; the second is before next main rten-brel and is not its letter limb. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.
+
+**Confidence and limits:** {"independent_visual_review": "medium", "coordinator_correspondence": "native page and actual adjoining sequence independently inspected", "limit": "The two strokes are spatially distinguishable, but their allocation between electronic units is not established by spacing."}
+
+**Evidence:** [p065-native.png](evidence/chapter-01/continuation/C1-SIGNS-06/p065-native.png), [p065-row5-context.png](evidence/chapter-01/continuation/C1-SIGNS-06/p065-row5-context.png)
+
+<a id="signs-verified-20260928-u01727"></a>
+
+### SIGNS-VERIFIED-20260928-U01727
+
+Units: [U01727](#u01727).
+
+**A transcript:** དྲིས་ལན་སོ་དགུ་པ།
+
+**Adopted reading:** དྲིས་ལན་སོ་དགུ་པ། །
+
+**Scan locator:** Adzom2000 PDF68 / BDRC70 / main row 2.
+
+**Decision and reason:** Heading starts row2 left; its final pa limb is followed by a detached shad and another upright before main byung-ba. Frame at left excluded. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.
+
+**Confidence and limits:** {"independent_visual_review": "medium-high", "coordinator_correspondence": "native page and actual adjoining sequence independently inspected", "limit": "Editorial ownership of the next-leading shad remains unresolved."}
+
+**Evidence:** [p068-native.png](evidence/chapter-01/continuation/C1-SIGNS-06/p068-native.png), [p068-row1-right-context.png](evidence/chapter-01/continuation/C1-SIGNS-06/p068-row1-right-context.png), [p068-row2-left-context.png](evidence/chapter-01/continuation/C1-SIGNS-06/p068-row2-left-context.png)
+
+<a id="signs-verified-20260928-u01539"></a>
+
+### SIGNS-VERIFIED-20260928-U01539
+
+Units: [U01539](#u01539).
+
+**A transcript:** ཁམས་གསུམ་དུ་ཡང་ལྡོག་པ་མིན། །
+
+**Adopted reading:** ཁམས་གསུམ་དུ་ཡང་ལྡོག་པ་མིན།
+
+**Scan locator:** Adzom2000 PDF61 / BDRC63 / main row 2.
+
+**Decision and reason:** One detached upright follows final min before the small heading. The apparent further vertical is part of the following dris letter structure, not a separate leading shad. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.
+
+**Confidence and limits:** {"independent_visual_review": "medium-high", "coordinator_correspondence": "native page and actual adjoining sequence independently inspected", "limit": "No second detached shad is discernible in this interval; bounds are approximate."}
+
+**Evidence:** [p061-native.png](evidence/chapter-01/continuation/C1-SIGNS-06/p061-native.png), [p061-row2-left-context.png](evidence/chapter-01/continuation/C1-SIGNS-06/p061-row2-left-context.png), [p061-U01539-terminal-detail.png](evidence/chapter-01/continuation/C1-SIGNS-06/p061-U01539-terminal-detail.png)
+
+<a id="signs-verified-20260928-u01595"></a>
+
+### SIGNS-VERIFIED-20260928-U01595
+
+Units: [U01595](#u01595).
+
+**A transcript:** དེས་ནི་སོ་སོའི་རླུང་ཚད་ཟིན། །
+
+**Adopted reading:** དེས་ནི་སོ་སོའི་རླུང་ཚད་ཟིན།
+
+**Scan locator:** Adzom2000 PDF63 / BDRC65 / main row 2.
+
+**Decision and reason:** One separate terminal upright lies after zin. Following dris starts a connected letter/stack, not an additional detached vertical. Low curved ink at the boundary is excluded from sign count. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.
+
+**Confidence and limits:** {"independent_visual_review": "medium", "coordinator_correspondence": "native page and actual adjoining sequence independently inspected", "limit": "The terminal-letter and punctuation strokes are close; this count warrants coordinator comparison at the same boundary."}
+
+**Evidence:** [p063-native.png](evidence/chapter-01/continuation/C1-SIGNS-06/p063-native.png), [p063-row2-context.png](evidence/chapter-01/continuation/C1-SIGNS-06/p063-row2-context.png)
+
+<a id="signs-verified-20260928-u01688"></a>
+
+### SIGNS-VERIFIED-20260928-U01688
+
+Units: [U01688](#u01688).
+
+**A transcript:** འདིས་ཀྱང་ཕན་དང་གནོད་པ་འགྲུབ། །
+
+**Adopted reading:** འདིས་ཀྱང་ཕན་དང་གནོད་པ་འགྲུབ།
+
+**Scan locator:** Adzom2000 PDF66 / BDRC68 / main row 5.
+
+**Decision and reason:** One detached terminal shad after grub precedes the small heading. The heading initial vertical is connected to its letter structure and is not a second shad; neighboring-row strokes excluded. The edition records each detached inter-unit boundary mark once at the preceding U anchor end, consistent with its existing representation. This is editorial ownership, not an inference of syntax from physical spacing; a next-leading mark cannot be dropped merely because it stands near the following text. Unicode spaces separate encoded shads, not measured physical distances.
+
+**Confidence and limits:** {"independent_visual_review": "medium-high", "coordinator_correspondence": "native page and actual adjoining sequence independently inspected", "limit": "No second detached boundary shad is discernible; editorial acceptance remains with the coordinator."}
+
+**Evidence:** [p066-native.png](evidence/chapter-01/continuation/C1-SIGNS-06/p066-native.png), [p066-row5-context.png](evidence/chapter-01/continuation/C1-SIGNS-06/p066-row5-context.png)
+
 <a id="a2000-c01-s01"></a>
 
 ### A2000-C01-S01
@@ -16116,7 +16440,7 @@ Exact differences: C1-0101, C1-0102.
 {དྲིས་ལན་བཅུ་བཞི་པ།}དེ་ལྟར་དར་འགྲིབ་རྫོགས་ནས་ནི། །
 ```
 
-**Disposition and reason:** Retain A’s wording provisionally and record the alternative brackets/delimiters as transcript presentation evidence. S’s braces do not, by themselves, establish the position or status of an annotation in the Adzom printing. Scan-layout verification remains outstanding.
+**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SIGNS-VERIFIED-20260928-U00910](#signs-verified-20260928-u00910). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
 
 <a id="l1-0056"></a>
 
@@ -16172,7 +16496,7 @@ Exact differences: C1-0107, C1-0108.
 {དྲིས་ལན་བཅོ་ལྔ་པ།}རྫོགས་སངས་རྒྱས་ཀྱི་བསྟན་པ་ནི། །
 ```
 
-**Disposition and reason:** Retain A’s wording provisionally and record the alternative brackets/delimiters as transcript presentation evidence. S’s braces do not, by themselves, establish the position or status of an annotation in the Adzom printing. Scan-layout verification remains outstanding.
+**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SIGNS-VERIFIED-20260928-U00948](#signs-verified-20260928-u00948). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
 
 <a id="l1-0058"></a>
 
@@ -16256,7 +16580,7 @@ Exact differences: C1-0113, C1-0114, C1-0115.
 {དྲིས་ལན་བཅུ་དྲུག་པ།}བསྟན་པའི་སྙིང་ཐིག་གསང་བ་འདི། །
 ```
 
-**Disposition and reason:** Retain A’s wording provisionally and record the alternative brackets/delimiters as transcript presentation evidence. S’s braces do not, by themselves, establish the position or status of an annotation in the Adzom printing. Scan-layout verification remains outstanding.
+**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SIGNS-VERIFIED-20260928-U01023](#signs-verified-20260928-u01023). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
 
 <a id="l1-0061"></a>
 
@@ -16480,7 +16804,7 @@ Exact differences: C1-0132, C1-0133.
 {དྲིས་ལན་བཅུ་དགུ་པ།}སེམས་ཅན་དུས་ནི་རྣམ་པ་བརྒྱད། །
 ```
 
-**Disposition and reason:** Retain A’s wording provisionally and record the alternative brackets/delimiters as transcript presentation evidence. S’s braces do not, by themselves, establish the position or status of an annotation in the Adzom printing. Scan-layout verification remains outstanding.
+**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SIGNS-VERIFIED-20260928-U01147](#signs-verified-20260928-u01147). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
 
 <a id="l1-0069"></a>
 
@@ -16508,7 +16832,7 @@ Exact differences: C1-0134, C1-0135.
 {དྲིས་ལན་ཉི་ཤུ་པ།}ཕྱི་རོལ་འབྱུང་བ་རླུང་ལ་ཡང༌། །
 ```
 
-**Disposition and reason:** Retain A’s wording provisionally and record the alternative brackets/delimiters as transcript presentation evidence. S’s braces do not, by themselves, establish the position or status of an annotation in the Adzom printing. Scan-layout verification remains outstanding.
+**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SIGNS-VERIFIED-20260928-U01186](#signs-verified-20260928-u01186). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
 
 <a id="l1-0070"></a>
 
@@ -16676,7 +17000,7 @@ Exact differences: C1-0146, C1-0147.
 {དྲིས་ལན་ཉེར་གསུམ་པ།}ཚེ་ནི་སྤེལ་དང་གསོ་བ་དང༌། །
 ```
 
-**Disposition and reason:** Retain A’s wording provisionally and record the alternative brackets/delimiters as transcript presentation evidence. S’s braces do not, by themselves, establish the position or status of an annotation in the Adzom printing. Scan-layout verification remains outstanding.
+**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SIGNS-VERIFIED-20260928-U01257](#signs-verified-20260928-u01257). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
 
 <a id="l1-0076"></a>
 
@@ -16816,7 +17140,7 @@ Exact differences: C1-0157, C1-0158.
 {དྲིས་ལན་ཉེར་ལྔ་པ།}འཁོར་བའི་ལས་རྒྱུད་གཅད་འདོད་ན། །
 ```
 
-**Disposition and reason:** Retain A’s wording provisionally and record the alternative brackets/delimiters as transcript presentation evidence. S’s braces do not, by themselves, establish the position or status of an annotation in the Adzom printing. Scan-layout verification remains outstanding.
+**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SIGNS-VERIFIED-20260928-U01308](#signs-verified-20260928-u01308). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
 
 <a id="l1-0081"></a>
 
@@ -16956,7 +17280,7 @@ Exact differences: C1-0164, C1-0165.
 {དྲིས་ལན་ཉེར་བདུན་པ།} སྐུ་གསུམ་བསླབ་པའི་རིམ་པ་ཉིད། །
 ```
 
-**Disposition and reason:** Retain A’s wording provisionally and record the alternative brackets/delimiters as transcript presentation evidence. S’s braces do not, by themselves, establish the position or status of an annotation in the Adzom printing. Scan-layout verification remains outstanding.
+**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SIGNS-VERIFIED-20260928-U01353](#signs-verified-20260928-u01353). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
 
 <a id="l1-0086"></a>
 
@@ -17180,7 +17504,7 @@ Exact differences: C1-0184, C1-0185.
 {དྲིས་ལན་སུམ་ཅུ་པ།}གཉིད་ཀྱི་རྣལ་འབྱོར་སུས་བསྒོམ་པ། །
 ```
 
-**Disposition and reason:** Retain A’s wording provisionally and record the alternative brackets/delimiters as transcript presentation evidence. S’s braces do not, by themselves, establish the position or status of an annotation in the Adzom printing. Scan-layout verification remains outstanding.
+**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SIGNS-VERIFIED-20260928-U01476](#signs-verified-20260928-u01476). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
 
 <a id="l1-0094"></a>
 
@@ -17292,7 +17616,7 @@ Exact differences: C1-0190, C1-0191.
 {དྲིས་ལན་སོ་གཉིས་པ།}རླུང་གི་དགོས་པ་རྣམ་པ་གཉིས། །
 ```
 
-**Disposition and reason:** Retain A’s wording provisionally and record the alternative brackets/delimiters as transcript presentation evidence. S’s braces do not, by themselves, establish the position or status of an annotation in the Adzom printing. Scan-layout verification remains outstanding.
+**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SIGNS-VERIFIED-20260928-U01540](#signs-verified-20260928-u01540). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
 
 <a id="l1-0098"></a>
 
@@ -17488,7 +17812,7 @@ Exact differences: C1-0202.
 འབྱུང་བཞི་དག་ལ་དབང་སྒྱུར་འགྱུར།།
 ```
 
-**Disposition and reason:** Retain A’s punctuation/spacing provisionally under the base-transcription policy. Do not silently normalize the B/S delimiters into A; their exact forms remain quoted. Print punctuation is not yet verified at this locus.
+**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SIGNS-VERIFIED-20260928-U01627](#signs-verified-20260928-u01627). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
 
 <a id="l1-0105"></a>
 
@@ -17516,7 +17840,7 @@ Exact differences: C1-0203, C1-0204, C1-0205.
 {དྲིས་ལན་སོ་དྲུག་པ།}འཕོ་བའི་བྱེ་བྲག་རྣམ་པ་གསུམ།
 ```
 
-**Disposition and reason:** Retain A’s wording provisionally and record the alternative brackets/delimiters as transcript presentation evidence. S’s braces do not, by themselves, establish the position or status of an annotation in the Adzom printing. Scan-layout verification remains outstanding.
+**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SIGNS-VERIFIED-20260928-U01635](#signs-verified-20260928-u01635), [SIGNS-VERIFIED-20260928-U01634](#signs-verified-20260928-u01634). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
 
 <a id="l1-0106"></a>
 
@@ -17572,7 +17896,7 @@ Exact differences: C1-0208, C1-0209, C1-0210, C1-0211.
 {དྲིས་ལན་སོ་བདུན་པ།}རྟེན་འབྲེལ་སྦྱོར་བ་རྣམ་པ་གཉིས། །སྣ་ཚོགས་རྫུ་འཕྲུལ་བསྒྲུབ་པ་དང་། །
 ```
 
-**Disposition and reason:** Retain A provisionally because the selected diplomatic base is Adzom. B/S disagreement is preserved, but unverified transcripts, majority agreement, grammatical preference, and doctrinal expectations do not authorize changing the base witness. This is a pending scan decision, not a finding that A is the original or superior reading.
+**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SIGNS-VERIFIED-20260928-U01661](#signs-verified-20260928-u01661). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
 
 <a id="l1-0108"></a>
 
@@ -17740,7 +18064,7 @@ Exact differences: C1-0225, C1-0226, C1-0227.
 {དྲིས་ལན་སོ་དགུ་པ།}འབྱུང་བའི་འཕོ་བ་འདི་ལྟ་བུ། །
 ```
 
-**Disposition and reason:** Retain A’s wording provisionally and record the alternative brackets/delimiters as transcript presentation evidence. S’s braces do not, by themselves, establish the position or status of an annotation in the Adzom printing. Scan-layout verification remains outstanding.
+**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SIGNS-VERIFIED-20260928-U01727](#signs-verified-20260928-u01727). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
 
 <a id="l1-0114"></a>
 

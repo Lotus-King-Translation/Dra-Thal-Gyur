@@ -255,13 +255,139 @@
         2
       ],
       "independent_boundary_adjudication": "reviews/chapter-01/continuation/C1-SIGNS-02-U00995-adjudication.json"
+    },
+    {
+      "task_id": "C1-SIGNS-03",
+      "report": "reviews/chapter-01/continuation/C1-SIGNS-03.json",
+      "independent_image_report": "reviews/chapter-01/continuation/C1-SIGNS-03-independent-attempt1-reading.txt",
+      "main_terminal_anchors": [
+        "U01627",
+        "U01635",
+        "U00910",
+        "U00948",
+        "U01023"
+      ],
+      "source_pages_for_context": [
+        37,
+        39,
+        41,
+        64
+      ],
+      "adopted_main_reading_changes": 5,
+      "existing_readings_retained": 0,
+      "unresolved_anchors": [],
+      "physical_detached_mark_counts": {
+        "U01627": 2,
+        "U01635": 2,
+        "U00910": 2,
+        "U00948": 2,
+        "U01023": 2
+      },
+      "fully_collated_pages_added": 0,
+      "scope": "Only identified unit-terminal boundaries, including small headings. Blocked candidate correspondence or glyph discrimination remains visible; no whole-page or source-annotation certificate."
+    },
+    {
+      "task_id": "C1-SIGNS-04",
+      "report": "reviews/chapter-01/continuation/C1-SIGNS-04.json",
+      "independent_image_report": "reviews/chapter-01/continuation/C1-SIGNS-04-independent-attempt1-reading.txt",
+      "main_terminal_anchors": [
+        "U01147",
+        "U01186",
+        "U01239",
+        "U01257",
+        "U01308"
+      ],
+      "source_pages_for_context": [
+        46,
+        47,
+        49,
+        50,
+        52
+      ],
+      "adopted_main_reading_changes": 4,
+      "existing_readings_retained": 0,
+      "unresolved_anchors": [
+        "U01239"
+      ],
+      "physical_detached_mark_counts": {
+        "U01147": 2,
+        "U01186": 2,
+        "U01239": null,
+        "U01257": 2,
+        "U01308": 2
+      },
+      "fully_collated_pages_added": 0,
+      "scope": "Only identified unit-terminal boundaries, including small headings. Blocked candidate correspondence or glyph discrimination remains visible; no whole-page or source-annotation certificate."
+    },
+    {
+      "task_id": "C1-SIGNS-05",
+      "report": "reviews/chapter-01/continuation/C1-SIGNS-05.json",
+      "independent_image_report": "reviews/chapter-01/continuation/C1-SIGNS-05-independent-attempt1-reading.txt",
+      "main_terminal_anchors": [
+        "U01353",
+        "U01476",
+        "U01540",
+        "U01557",
+        "U01634"
+      ],
+      "source_pages_for_context": [
+        54,
+        58,
+        61,
+        64
+      ],
+      "adopted_main_reading_changes": 4,
+      "existing_readings_retained": 0,
+      "unresolved_anchors": [
+        "U01557"
+      ],
+      "physical_detached_mark_counts": {
+        "U01353": 2,
+        "U01476": 2,
+        "U01540": 2,
+        "U01557": 2,
+        "U01634": 2
+      },
+      "fully_collated_pages_added": 0,
+      "scope": "Only identified unit-terminal boundaries, including small headings. Blocked candidate correspondence or glyph discrimination remains visible; no whole-page or source-annotation certificate."
+    },
+    {
+      "task_id": "C1-SIGNS-06",
+      "report": "reviews/chapter-01/continuation/C1-SIGNS-06.json",
+      "independent_image_report": "reviews/chapter-01/continuation/C1-SIGNS-06-independent-attempt1-reading.txt",
+      "main_terminal_anchors": [
+        "U01661",
+        "U01727",
+        "U01539",
+        "U01595",
+        "U01688"
+      ],
+      "source_pages_for_context": [
+        61,
+        63,
+        65,
+        66,
+        68
+      ],
+      "adopted_main_reading_changes": 5,
+      "existing_readings_retained": 0,
+      "unresolved_anchors": [],
+      "physical_detached_mark_counts": {
+        "U01661": 2,
+        "U01727": 2,
+        "U01539": 1,
+        "U01595": 1,
+        "U01688": 1
+      },
+      "fully_collated_pages_added": 0,
+      "scope": "Only identified unit-terminal boundaries, including small headings. Blocked candidate correspondence or glyph discrimination remains visible; no whole-page or source-annotation certificate."
     }
   ],
   "known_unit_sign_queue": {
     "queue": "WORK-QUEUE.json",
     "original_candidate_identities": 30,
-    "completed_candidates": 10,
-    "unfinished_candidates": 20,
+    "completed_candidates": 28,
+    "unfinished_candidates": 2,
     "note": "Scheduling/disposition count, not a chapter completeness percentage or a full-page signs pass."
   }
 }
