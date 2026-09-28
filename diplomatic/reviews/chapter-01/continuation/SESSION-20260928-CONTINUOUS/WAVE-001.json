@@ -1,0 +1,70 @@
+{
+  "status": "ready_for_remote_checkpoint_before_dispatch",
+  "coordinator": "ChatGPT-coordinator-20260928-continuous",
+  "baseline_commit": "21de152e4df880c6530c8fb9aa1dbcd9b57b1602",
+  "packets": [
+    {
+      "task_id": "C1-BASE-UNCERTAINTIES",
+      "batch_id": "B01-U01522",
+      "owner": "reader-base-uncertainties-B01-20260928",
+      "pages": [
+        60
+      ],
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES.json",
+      "manifest_path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B01-U01522/manifest.json",
+      "request_path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B01-U01522-reader-request.txt",
+      "execution_path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B01-U01522-reader-execution.json",
+      "reader_prefix": "C1-BASE-UNCERTAINTIES-B01-U01522-reader"
+    },
+    {
+      "task_id": "C1-BASE-PHYSICAL",
+      "batch_id": "B01-P0001-0005",
+      "owner": "reader-base-physical-B01-20260928",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL.json",
+      "manifest_path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B01-P0001-0005/manifest.json",
+      "request_path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B01-P0001-0005-reader-request.txt",
+      "execution_path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B01-P0001-0005-reader-execution.json",
+      "reader_prefix": "C1-BASE-PHYSICAL-B01-P0001-0005-reader"
+    },
+    {
+      "task_id": "C1-TINGKYE",
+      "batch_id": "B01-P0003-0007",
+      "owner": "reader-tingkye-B01-20260928",
+      "pages": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE.json",
+      "manifest_path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/manifest.json",
+      "request_path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B01-P0003-0007-reader-request.txt",
+      "execution_path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B01-P0003-0007-reader-execution.json",
+      "reader_prefix": "C1-TINGKYE-B01-P0003-0007-reader"
+    },
+    {
+      "task_id": "C1-TSAMDRAK",
+      "batch_id": "B01-OPENING-TEST",
+      "owner": "reader-tsamdrak-B01-20260928",
+      "pages": [
+        2,
+        3,
+        7
+      ],
+      "report_path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK.json",
+      "manifest_path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/manifest.json",
+      "request_path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B01-OPENING-TEST-reader-request.txt",
+      "execution_path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B01-OPENING-TEST-reader-execution.json",
+      "reader_prefix": "C1-TSAMDRAK-B01-OPENING-TEST-reader"
+    }
+  ],
+  "publication_rule": "No worker publishes. Save completed and partial reports; coordinator verifies every remote checkpoint before expanding each bounded scope."
+}

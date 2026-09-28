@@ -426,8 +426,8 @@
     {
       "id": "C1-BASE-UNCERTAINTIES",
       "kind": "base_uncertainties",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "reader-base-uncertainties-B01-20260928",
       "depends_on": [
         "C1-BASE-LAYERS"
       ],
@@ -444,7 +444,8 @@
         "editions/adzom-2000/image-manifest.json",
         "diplomatic/reviews/chapter-01/base-recovery-review-20260927.json",
         "diplomatic/collation/chapter-01/opening-boundary-review.json",
-        "diplomatic/collation/chapter-01/ch1-scan-insertions.json"
+        "diplomatic/collation/chapter-01/ch1-scan-insertions.json",
+        "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B01-U01522/manifest.json"
       ],
       "output_paths": [
         "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES.json",
@@ -455,16 +456,21 @@
       "completion_criteria": [
         "Apply every coverage_review criterion to the full stated scope; retain exact remaining spans until completed."
       ],
-      "report_paths": [],
-      "checkpoint_commit": null,
+      "report_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES.md"
+      ],
+      "checkpoint_commit": "21de152e4df880c6530c8fb9aa1dbcd9b57b1602",
       "blocker": null,
-      "dependency_policy": "preferred_order"
+      "dependency_policy": "preferred_order",
+      "current_batch_id": "B01-U01522",
+      "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate."
     },
     {
       "id": "C1-BASE-PHYSICAL",
       "kind": "base_signs_and_layers",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "reader-base-physical-B01-20260928",
       "depends_on": [
         "C1-BASE-UNCERTAINTIES"
       ],
@@ -486,7 +492,8 @@
         "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01.json",
         "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/U02489-heading-terminal-uncertain.png",
         "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05.json",
-        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/U01557-initial-heading-unresolved.png"
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/U01557-initial-heading-unresolved.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B01-P0001-0005/manifest.json"
       ],
       "output_paths": [
         "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL.json",
@@ -499,8 +506,11 @@
         "Explicitly resolve or retain a precisely bounded disposition for C1-SIGNS-01-U02489-HEADING-TERMINAL at PDF97 row1; completed main-terminal candidate U02489 does not certify that heading sign.",
         "Account explicitly for the faint initial U01557 heading letters on PDF61 row6, without confusing their uncertainty with its separately verified two-mark terminal inventory."
       ],
-      "report_paths": [],
-      "checkpoint_commit": null,
+      "report_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL.md"
+      ],
+      "checkpoint_commit": "21de152e4df880c6530c8fb9aa1dbcd9b57b1602",
       "blocker": null,
       "dependency_policy": "preferred_order",
       "carried_forward_uncertainties": [
@@ -592,7 +602,9 @@
           "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05.json",
           "canonical_uncertainty_note": "SIGNS-VERIFIED-20260928-U01557"
         }
-      ]
+      ],
+      "current_batch_id": "B01-P0001-0005",
+      "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate."
     },
     {
       "id": "C1-DZONGSAR",
@@ -627,8 +639,8 @@
     {
       "id": "C1-TINGKYE",
       "kind": "witness_coverage",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "reader-tingkye-B01-20260928",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -639,7 +651,8 @@
         "diplomatic/collation/chapter-01/tingkye-collation.json",
         "diplomatic/collation/chapter-01/tingkye-root.json",
         "diplomatic/reviews/chapter-01/tingkye-recovery-review-20260927.json",
-        "diplomatic/recovery/2026-09-27-task-records/missing-report-recovery-matrix.json"
+        "diplomatic/recovery/2026-09-27-task-records/missing-report-recovery-matrix.json",
+        "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/manifest.json"
       ],
       "output_paths": [
         "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE.json",
@@ -650,16 +663,21 @@
       "completion_criteria": [
         "Apply every coverage_review criterion to the full stated scope; retain exact remaining spans until completed."
       ],
-      "report_paths": [],
-      "checkpoint_commit": null,
+      "report_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE.md"
+      ],
+      "checkpoint_commit": "21de152e4df880c6530c8fb9aa1dbcd9b57b1602",
       "blocker": null,
-      "dependency_policy": "preferred_order"
+      "dependency_policy": "preferred_order",
+      "current_batch_id": "B01-P0003-0007",
+      "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate."
     },
     {
       "id": "C1-TSAMDRAK",
       "kind": "witness_coverage",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "reader-tsamdrak-B01-20260928",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -667,7 +685,8 @@
       "first_batch": "Test reliable discrimination on listed opening uncertainties U00012/U00030/U00148; if successful continue PDF14–18. Record reader limits without labeling the whole source illegible.",
       "input_paths": [
         "editions/tsamdrak-1982/sgra-thal-gyur.pdf",
-        "diplomatic/collation/chapter-01/tsamdrak-collation.json"
+        "diplomatic/collation/chapter-01/tsamdrak-collation.json",
+        "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/manifest.json"
       ],
       "output_paths": [
         "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK.json",
@@ -678,10 +697,15 @@
       "completion_criteria": [
         "Apply every coverage_review criterion to the full stated scope; retain exact remaining spans until completed."
       ],
-      "report_paths": [],
-      "checkpoint_commit": null,
+      "report_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK.md"
+      ],
+      "checkpoint_commit": "21de152e4df880c6530c8fb9aa1dbcd9b57b1602",
       "blocker": null,
-      "dependency_policy": "preferred_order"
+      "dependency_policy": "preferred_order",
+      "current_batch_id": "B01-OPENING-TEST",
+      "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate."
     },
     {
       "id": "C1-THARPALING",

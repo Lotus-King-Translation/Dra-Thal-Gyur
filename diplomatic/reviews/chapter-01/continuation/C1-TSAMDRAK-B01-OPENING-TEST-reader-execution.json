@@ -1,0 +1,271 @@
+{
+  "task_id": "C1-TSAMDRAK",
+  "batch_id": "B01-OPENING-TEST",
+  "status": "prepared_not_launched",
+  "baseline_commit": "21de152e4df880c6530c8fb9aa1dbcd9b57b1602",
+  "argv": [
+    "codex",
+    "exec",
+    "--sandbox",
+    "read-only",
+    "--color",
+    "never",
+    "--json",
+    "-c",
+    "model_reasoning_effort=\"high\"",
+    "-C",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p002-native.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p002-x0000-y0000.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p002-x1900-y0000.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p002-x2344-y0000.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p003-native.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p003-x0000-y0000.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p003-x1900-y0000.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p003-x2344-y0000.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p007-native.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p007-x0000-y0000.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p007-x1900-y0000.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p007-x2352-y0000.png",
+    "-o",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B01-OPENING-TEST-reader-reading.txt",
+    "-"
+  ],
+  "request_path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B01-OPENING-TEST-reader-request.txt",
+  "request_sha256": "e31985e7b02c63c4d92de3a1815afef11e67740c184e5d01db175d0a64513fef",
+  "attachments": [
+    {
+      "pdf_page": 2,
+      "bdrc_image": 5,
+      "source_member": "0005.png",
+      "source_member_sha256": "1301d05d65c69f35099aa7243953ea327c12b0e3b7bafc48993a29e69690057a",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p002-native.png",
+      "sha256": "1301d05d65c69f35099aa7243953ea327c12b0e3b7bafc48993a29e69690057a",
+      "dimensions": [
+        4344,
+        1044
+      ]
+    },
+    {
+      "pdf_page": 2,
+      "bdrc_image": 5,
+      "source_member": "0005.png",
+      "source_member_sha256": "1301d05d65c69f35099aa7243953ea327c12b0e3b7bafc48993a29e69690057a",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p002-x0000-y0000.png",
+      "sha256": "38d4b9cf6d4b107bf0ba20308521d39e00a14f0d0fd36d3335ab384cabe3a4d5",
+      "native_bounds": [
+        0,
+        0,
+        2000,
+        1044
+      ],
+      "dimensions": [
+        2000,
+        1044
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 2,
+      "bdrc_image": 5,
+      "source_member": "0005.png",
+      "source_member_sha256": "1301d05d65c69f35099aa7243953ea327c12b0e3b7bafc48993a29e69690057a",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p002-x1900-y0000.png",
+      "sha256": "7f87580b3b3143f93af2951c995dccd9e459cb2cd61b7c326c2915ff9788e62e",
+      "native_bounds": [
+        1900,
+        0,
+        3900,
+        1044
+      ],
+      "dimensions": [
+        2000,
+        1044
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 2,
+      "bdrc_image": 5,
+      "source_member": "0005.png",
+      "source_member_sha256": "1301d05d65c69f35099aa7243953ea327c12b0e3b7bafc48993a29e69690057a",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p002-x2344-y0000.png",
+      "sha256": "32aa9195fee21a31dca1708b614f0b66265948642f8487dad076ba2f553d7422",
+      "native_bounds": [
+        2344,
+        0,
+        4344,
+        1044
+      ],
+      "dimensions": [
+        2000,
+        1044
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 3,
+      "bdrc_image": 6,
+      "source_member": "0006.png",
+      "source_member_sha256": "fe033cc8394a6dca953c827b81b887afb6b09c6d0b9efdb82fdd8510503d1ff9",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p003-native.png",
+      "sha256": "fe033cc8394a6dca953c827b81b887afb6b09c6d0b9efdb82fdd8510503d1ff9",
+      "dimensions": [
+        4344,
+        1044
+      ]
+    },
+    {
+      "pdf_page": 3,
+      "bdrc_image": 6,
+      "source_member": "0006.png",
+      "source_member_sha256": "fe033cc8394a6dca953c827b81b887afb6b09c6d0b9efdb82fdd8510503d1ff9",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p003-x0000-y0000.png",
+      "sha256": "3058cc92345b0049e3b1f0546e1ef7585c4c2010e7b7de37b5676668a6083060",
+      "native_bounds": [
+        0,
+        0,
+        2000,
+        1044
+      ],
+      "dimensions": [
+        2000,
+        1044
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 3,
+      "bdrc_image": 6,
+      "source_member": "0006.png",
+      "source_member_sha256": "fe033cc8394a6dca953c827b81b887afb6b09c6d0b9efdb82fdd8510503d1ff9",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p003-x1900-y0000.png",
+      "sha256": "d7e38676b620e9c5bb8a8dd747443a3e2c759c8e4108a6f452ab817ca4f6e7ed",
+      "native_bounds": [
+        1900,
+        0,
+        3900,
+        1044
+      ],
+      "dimensions": [
+        2000,
+        1044
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 3,
+      "bdrc_image": 6,
+      "source_member": "0006.png",
+      "source_member_sha256": "fe033cc8394a6dca953c827b81b887afb6b09c6d0b9efdb82fdd8510503d1ff9",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p003-x2344-y0000.png",
+      "sha256": "26b0d46af60fa559408990079b9bf676610a3d1a2f10d5585e93090982f8b56c",
+      "native_bounds": [
+        2344,
+        0,
+        4344,
+        1044
+      ],
+      "dimensions": [
+        2000,
+        1044
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 7,
+      "bdrc_image": 10,
+      "source_member": "0010.png",
+      "source_member_sha256": "b7145581d17d97fa763c55c2e62609d1c99523ad23d01fec190a28bda1b7870c",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p007-native.png",
+      "sha256": "b7145581d17d97fa763c55c2e62609d1c99523ad23d01fec190a28bda1b7870c",
+      "dimensions": [
+        4352,
+        1041
+      ]
+    },
+    {
+      "pdf_page": 7,
+      "bdrc_image": 10,
+      "source_member": "0010.png",
+      "source_member_sha256": "b7145581d17d97fa763c55c2e62609d1c99523ad23d01fec190a28bda1b7870c",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p007-x0000-y0000.png",
+      "sha256": "989ab96f1ecdc57ec7a9071dce4c734a4543dd4aa7547e981f6295c1c9a1bbd8",
+      "native_bounds": [
+        0,
+        0,
+        2000,
+        1041
+      ],
+      "dimensions": [
+        2000,
+        1041
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 7,
+      "bdrc_image": 10,
+      "source_member": "0010.png",
+      "source_member_sha256": "b7145581d17d97fa763c55c2e62609d1c99523ad23d01fec190a28bda1b7870c",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p007-x1900-y0000.png",
+      "sha256": "e1068326fc234923f189a56fe50f177f91a03b49600c01da7aa8ec0f0b729c4e",
+      "native_bounds": [
+        1900,
+        0,
+        3900,
+        1041
+      ],
+      "dimensions": [
+        2000,
+        1041
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 7,
+      "bdrc_image": 10,
+      "source_member": "0010.png",
+      "source_member_sha256": "b7145581d17d97fa763c55c2e62609d1c99523ad23d01fec190a28bda1b7870c",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p007-x2352-y0000.png",
+      "sha256": "8a05f9d9132c43a531b75ca5f711c07aab901d677c4f888e3389f7d47db3e288",
+      "native_bounds": [
+        2352,
+        0,
+        4352,
+        1041
+      ],
+      "dimensions": [
+        2000,
+        1041
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    }
+  ],
+  "base_reference_path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/base-reference.json",
+  "source_identity_not_reading_certification": true,
+  "output_report": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B01-OPENING-TEST-reader-reading.txt",
+  "session_log": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B01-OPENING-TEST-reader-session.jsonl",
+  "stderr_log": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B01-OPENING-TEST-reader-stderr.txt"
+}

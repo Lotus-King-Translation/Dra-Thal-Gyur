@@ -1,0 +1,166 @@
+You are an independent source-image reader for a Tibetan diplomatic edition. This is not an English translation request. Use the supplied images directly; do not invoke tools, read other files, change configuration, write files or publish. Your final report is captured by the coordinator. If direct image access is unavailable, say explicitly no visual reading occurred. No expected text, OCR or familiarity can supply unobserved glyphs. Distinguish actual observed agreement from an uncertain or uninspected span. Produce the requested substantive reading, not an operational plan.
+
+Task ID: C1-BASE-UNCERTAINTIES; batch ID: B01-U01522.
+
+Task: a discriminating source reading of U01522 in the governing Adzom2000 PDF60, physical row4. Read the actual graphic sequence, not a grammatical reconstruction. The supplied main reference is སོ་སོའི་བྱེད་པའི་རྒྱུ་འགགས་པ། །. Earlier reading found a fused central cluster and a distinct right segment compatible with པའི་རྒྱུ་འགགས་པ. It could not determine all strokes or whether the apparent boundary separates main letters, a correction, or another source layer. That unresolved finding is preserved; it is not a verdict you must repeat.
+
+Inspect the full page and native columns before the two focused crops. Map the actual neighboring main-text sequence to the given U identifiers. Then provide a left-to-right inventory of the physical components at U01522: exact legible Tibetan or EWTS for each, letter components, relative size, connected strokes, detached punctuation, and approximate full-native bounds. A familiar expected phrase cannot fill a component. Equally, do not replace a discernible letter with a generic unreadability statement: explain the strongest literal reading the pixels support and distinguish tentative parts. Account for the separate right-hand segment as well as the fused middle; do not read the same expected syllables twice or silently discard an extra component. Assess actual main/note/correction layering before deciding the reading.
+
+Return JSON with task_id, batch_id, inspected_images_and_rows, actual_anchor_correspondence, observed_before_target_after, physical_components, proposed_main_reading, proposed_separate_source_material, punctuation_inventory, confidence_by_dimension, precisely_bounded_uncertainties, what_changed_relative_to_prior_question, and next_step. An unresolved proposed reading must remain qualified; no source is declared objectively illegible merely because you cannot read it. This is one local question, not a full-page or chapter certificate. No canonical edits are authorized to the reader.
+
+
+ATTACHMENT INDEX — native source identity was hash-verified by the coordinator; this does not prove any reading:
+
+Image 1: PDF60; source member 0062.png; native bounds full native page; file p060-native.png.
+
+Image 2: PDF60; source member 0062.png; native bounds [0, 0, 2000, 1344]; file p060-x0000-y0000.png.
+
+Image 3: PDF60; source member 0062.png; native bounds [1900, 0, 3900, 1344]; file p060-x1900-y0000.png.
+
+Image 4: PDF60; source member 0062.png; native bounds [3696, 0, 5696, 1344]; file p060-x3696-y0000.png.
+
+Image 5: PDF60; source member 0062.png; native bounds [1230, 620, 2100, 850]; file p060-u01522-left-native.png.
+
+Image 6: PDF60; source member 0062.png; native bounds [2000, 620, 2720, 850]; file p060-u01522-right-native.png.
+
+CURRENT GOVERNING ADZOM REFERENCE — alignment aid only, not agreement in a comparison witness. Stable U identifiers are electronic anchors, not physical rows. Empty main readings are non-main/source-note slots and must not be counted as missing verses.
+
+U01480 [lexically_compared_punctuation_not_certified] རྣལ་འབྱོར་ལུས་ཀྱི་རྩལ་སྦྱངས་ཏེ། །
+
+U01481 [lexically_compared_punctuation_not_certified] རྩ་རྣམས་ཁུངས་སུ་བཟུང་བ་གནད། །
+
+U01482 [lexically_compared_punctuation_not_certified] ནང་གི་དུས་ནི་བཞི་ཉིད་ཀྱིས། །
+
+U01483 [lexically_compared_punctuation_not_certified] རྣལ་འབྱོར་དག་གི་རྩལ་སྦྱངས་ཏེ། །
+
+U01484 [lexically_compared_punctuation_not_certified] བརྗོད་པའི་རྒྱུན་རྣམས་གཅད་པ་གནད། །
+
+U01485 [lexically_compared_punctuation_not_certified] གསང་བའི་དུས་ནི་བཞི་ཡིས་ཀྱང་། །
+
+U01486 [lexically_compared_punctuation_not_certified] རྣལ་འབྱོར་སེམས་ཀྱི་རྩལ་སྦྱངས་ཏེ། །
+
+U01487 [lexically_compared_punctuation_not_certified] གཉིད་ལ་གོམས་པ་གནད་ཡིན་ནོ། །
+
+U01488 [lexically_compared_punctuation_not_certified] ཁོ་ན་ཉིད་ཀྱི་དུས་བཞི་ཡིས། །
+
+U01489 [lexically_compared_punctuation_not_certified] ལུས་དང་ངག་སེམས་ངེས་བསྡུས་ནས། །
+
+U01490 [lexically_compared_punctuation_not_certified] འོད་གསལ་ཆེན་པོ་གཉིད་དང་བསྲེ། །
+
+U01491 [lexically_compared_punctuation_not_certified] དེ་ལྟར་གོམས་ནས་སྐུ་གསུམ་ལ། །
+
+U01492 [lexically_compared_punctuation_not_certified] ངེས་པར་སྦྱོར་རོ་རྣལ་འབྱོར་པས། །
+
+U01493 [lexically_compared_punctuation_not_certified] རྨི་ལམ་གནད་ཀྱི་ལམ་ཁྱེར་ནི། །
+
+U01494 [lexically_compared_punctuation_not_certified] སྔོན་དུ་བྱ་དང་གནད་ལ་དབབ། །
+
+U01495 [lexically_compared_punctuation_not_certified] སྔོན་དུ་ལུས་ངག་སེམས་སྦྱངས་ཏེ། །
+
+U01496 [lexically_compared_punctuation_not_certified] འབྱོངས་པའི་རྟགས་ལ་བརྟེན་ནས་ནི། །
+
+U01497 [lexically_compared_punctuation_not_certified] བརྟག་དང་ཟིལ་གྱིས་གནོན་པ་དང༌། །
+
+U01498 [lexically_compared_punctuation_not_certified] བག་ཆགས་གསུམ་པོ་ངེས་གཟུང་བྱ། །
+
+U01499 [lexically_compared_punctuation_not_certified] དེ་ནས་གནད་ལ་འབེབས་དུས་སུ། །
+
+U01500 [lexically_compared_punctuation_not_certified] སྦྱང་དང་བསྒྱུར་དང་བཅད་པ་དང༌། །
+
+U01501 [lexically_compared_punctuation_not_certified] དཀྲུགས་དང་བཅུད་དང་གནད་ལ་འབོར། །
+
+U01502 [lexically_compared_punctuation_not_certified] བསྐྱིལ་བཟློག་ལས་ཀྱི་གནད་བྱས་པས། །
+
+U01503 [lexically_compared_punctuation_not_certified] ལས་ཀྱི་རྨི་ལམ་མཐའ་ཟད་དེ། །
+
+U01504 [lexically_compared_punctuation_not_certified] བག་ཆགས་འཁྲུལ་པ་དྲུང་ནས་ཐོན། །
+
+U01505 [lexically_compared_punctuation_not_certified] འདི་དུས་རང་གི་བརྩོན་འགྲུས་ཀྱིས། །
+
+U01506 [lexically_compared_punctuation_not_certified] རབ་ལ་ཆད་དང་འབྲིང་ལ་ཤེས། །
+
+U01507 [lexically_compared_punctuation_not_certified] ཐ་མ་འགྱུར་བར་ངེས་པ་སྟེ། །
+
+U01508 [lexically_compared_punctuation_not_certified] འདི་དག་རྨི་ལམ་ཐོག་མ་ཡང༌། །
+
+U01509 [lexically_compared_punctuation_not_certified] རབ་ལ་བརྗེད་དང་ཐ་མ་འགགས། །
+
+U01510 [lexically_compared_punctuation_not_certified] འབྲིང་ལ་ཤིན་ཏུ་གསལ་བ་ལ། །
+
+U01511 [lexically_compared_punctuation_not_certified] ཐ་མ་ཡིན་པ་ཤེས་པའོ། །
+
+U01512 [lexically_compared_punctuation_not_certified] ཐ་མ་མི་གསལ་དེ་ནས་འགྱུར། །
+
+U01513 [lexically_compared_punctuation_not_certified] དེ་རྣམས་ཀྱིས་ནི་ཚད་ལ་ཕེབ། །
+
+U01514 [lexically_compared_punctuation_not_certified] དྲིས་ལན་སོ་གཅིག་པའོ། །
+
+U01515 [lexically_compared_punctuation_not_certified] སྐྱེས་བུས་རང་སེམས་མ་ཐུལ་བ། །
+
+U01516 [lexically_compared_punctuation_not_certified] མི་རྟོག་བསྒོམས་པས་ངེས་ཐུལ་ཏེ། །
+
+U01517 [lexically_compared_punctuation_not_certified] རྣལ་དུ་ཕེབས་ནས་རང་གིའོ། །
+
+U01518 [lexically_compared_punctuation_not_certified] སྔོན་དུ་སྦྱངས་པའི་རིམ་པ་དང་། །
+
+U01519 [lexically_compared_punctuation_not_certified] དངོས་གཞི་རང་གི་རྒྱུད་ལ་བརྟེན། །
+
+U01520 [lexically_compared_punctuation_not_certified] སྔོན་དུ་སྦྱང་བའི་རིམ་པ་ནི། །
+
+U01521 [lexically_compared_punctuation_not_certified] ལུས་ཀྱི་སྔོན་དུ་འགྲོ་བ་ལས། །
+
+U01522 [uncertain_print_reading_or_annotation] སོ་སོའི་བྱེད་པའི་རྒྱུ་འགགས་པ། །
+
+U01523 [lexically_compared_punctuation_not_certified] རྡོ་རྗེའི་སྐྱིལ་ཀྲུང་དུ་བཅས་ཏེ། །
+
+U01524 [lexically_compared_punctuation_not_certified] ལུས་སྦྱང་སེམས་ལ་ཕན་པའོ། །
+
+U01525 [lexically_compared_punctuation_not_certified] ངག་ནི་ཧཱུཾ་ཞེས་གནས་པ་ལས། །
+
+U01526 [lexically_compared_punctuation_not_certified] རྒྱས་གདབ་པ་དང་རྩལ་སྦྱང་དང་། །
+
+U01527 [lexically_compared_punctuation_not_certified] གཉན་བཙལ་ལམ་དུ་ཞུགས་པ་ཡིས། །
+
+U01528 [lexically_compared_punctuation_not_certified] དེ་ལྟར་ངག་སྦྱང་སེམས་ལ་ཕན། །
+
+U01529 [lexically_compared_punctuation_not_certified] སེམས་ནི་ཐོག་མ་བྱུང་བ་དང་། །
+
+U01530 [lexically_compared_punctuation_not_certified] བར་དུ་གནས་པ་ཐ་མར་འགྲོ། །
+
+U01531 [lexically_compared_punctuation_not_certified] དེ་ལྟར་གསུམ་ལ་བརྟགས་དཔྱད་ན། །
+
+U01532 [lexically_compared_punctuation_not_certified] སེམས་སྦྱང་སེམས་ཀྱི་གནས་ལུགས་ཤེས། །
+
+U01533 [lexically_compared_punctuation_not_certified] དངོས་གཞི་རང་གི་རྒྱུད་བརྟེན་ནི། །
+
+U01534 [scan_intervention] ལུས་ཀྱི་གནད་དང་ངག་དང་ཡང་། །
+
+U01535 [lexically_compared_punctuation_not_certified] སེམས་ཀྱི་གནད་ལ་བརྟེན་པ་ཡིས། །
+
+U01536 [lexically_compared_punctuation_not_certified] རླུང་ནི་ཅི་ནས་དལ་བྱ་སྟེ། །
+
+U01537 [lexically_compared_punctuation_not_certified] རབ་ཏུ་འཕང་བ་ལས་བྱུང་བ། །
+
+U01538 [lexically_compared_punctuation_not_certified] ལུས་དང་སེམས་ཀྱི་འབྲེལ་ཆད་དེ། །
+
+U01539 [scan_intervention] ཁམས་གསུམ་དུ་ཡང་ལྡོག་པ་མིན།
+
+U01540 [scan_intervention] དྲིས་ལན་སོ་གཉིས་པ། །
+
+U01541 [lexically_compared_punctuation_not_certified] རླུང་གི་དགོས་པ་རྣམ་པ་གཉིས། །
+
+U01542 [lexically_compared_punctuation_not_certified] འཇིག་རྟེན་ལུས་རྫོགས་བསྐྱེད་པ་དང་། །
+
+U01543 [lexically_compared_punctuation_not_certified] བརྟེན་ཅིང་གནས་པའི་ཚེ་རྣམས་དང༌། །
+
+U01544 [lexically_compared_punctuation_not_certified] དབང་དང་ཚེ་ལ་སོགས་པ་འཕེལ། །
+
+U01545 [lexically_compared_punctuation_not_certified] བསོད་ནམས་ལས་ཀྱི་བྱེད་པའོ། །
+
+ORDERED SCAN-ONLY INSERTIONS WITHIN THIS REFERENCE:
+
+SEPARATE ANNOTATIONS AND CURRENT UNCERTAINTY FLAGS (reference, not new witness observations):
+
+[{"id": "SCAN-CH1-CONT-01522", "units": ["U01522"], "reading_uncertainty": true}]
+
+Return only your actual JSON reading report. Include task_id and batch_id. Qualification at unresolved glyphs is required, but no invented unavailable pages or unsupported wholesale agreement.

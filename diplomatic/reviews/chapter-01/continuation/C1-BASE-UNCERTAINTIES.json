@@ -1,0 +1,131 @@
+{
+  "task_id": "C1-BASE-UNCERTAINTIES",
+  "status": "in_progress",
+  "reader": "reader-base-uncertainties-B01-20260928",
+  "baseline_commit": "21de152e4df880c6530c8fb9aa1dbcd9b57b1602",
+  "declared_scope": "Precisely resolve or bound U01522/PDF60, U02615 and U02620/PDF101, S09/PDF102, and title/portrait/foreign-script uncertainties on PDF1–2.",
+  "chapter_complete": false,
+  "coverage_complete": false,
+  "batches": [
+    {
+      "batch_id": "B01-U01522",
+      "task_id": "C1-BASE-UNCERTAINTIES",
+      "status": "claimed_not_yet_read",
+      "owner": "reader-base-uncertainties-B01-20260928",
+      "baseline_commit": "21de152e4df880c6530c8fb9aa1dbcd9b57b1602",
+      "scope": "U01522/PDF60 targeted glyph and source-layer question",
+      "source_paths_and_hashes": [
+        {
+          "path": "editions/adzom-2000/sgra-thal-gyur.pdf",
+          "sha256": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343",
+          "bytes": 37358206
+        },
+        {
+          "path": "editions/adzom-2000/original-images.zip",
+          "sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+          "bytes": 37281893
+        }
+      ],
+      "evidence_manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B01-U01522/manifest.json",
+      "physical_start_and_end": {
+        "requested_pages": [
+          60
+        ],
+        "actual_rows": "not_yet_compared"
+      },
+      "anchor_start_and_end": null,
+      "reference_anchor_range": [
+        1480,
+        1545
+      ],
+      "rows_actually_compared": [],
+      "dimensions_checked": [],
+      "unread_or_uncertain_spans": [
+        {
+          "scope": "All requested visual source spans before reader execution",
+          "status": "not_yet_compared"
+        }
+      ],
+      "observations": [],
+      "canonical_record_ids": [],
+      "evidence_paths_and_hashes": [
+        {
+          "pdf_page": 60,
+          "bdrc_image": 62,
+          "source_member": "0062.png",
+          "source_member_sha256": "bd87c558ba18eb6a7870be037a9ba76bf84043777f75e8c74ecefbe821c7b763",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B01-U01522/p060-native.png",
+          "sha256": "bd87c558ba18eb6a7870be037a9ba76bf84043777f75e8c74ecefbe821c7b763",
+          "dimensions": [
+            5696,
+            1344
+          ]
+        },
+        {
+          "pdf_page": 60,
+          "bdrc_image": 62,
+          "source_member": "0062.png",
+          "source_member_sha256": "bd87c558ba18eb6a7870be037a9ba76bf84043777f75e8c74ecefbe821c7b763",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B01-U01522/p060-x0000-y0000.png",
+          "sha256": "201c5cbba2a4400edfc534e98b713570de8dcc16b520dbfd3abab57dff4d50cf",
+          "native_bounds": [
+            0,
+            0,
+            2000,
+            1344
+          ],
+          "dimensions": [
+            2000,
+            1344
+          ],
+          "derivation": "Unscaled native crop; no enhancement or OCR",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 60,
+          "bdrc_image": 62,
+          "source_member": "0062.png",
+          "source_member_sha256": "bd87c558ba18eb6a7870be037a9ba76bf84043777f75e8c74ecefbe821c7b763",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B01-U01522/p060-x1900-y0000.png",
+          "sha256": "4d36678a0d199ebd8e4803628207d2451b39959e5e9324bc14268ebef867d192",
+          "native_bounds": [
+            1900,
+            0,
+            3900,
+            1344
+          ],
+          "dimensions": [
+            2000,
+            1344
+          ],
+          "derivation": "Unscaled native crop; no enhancement or OCR",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 60,
+          "bdrc_image": 62,
+          "source_member": "0062.png",
+          "source_member_sha256": "bd87c558ba18eb6a7870be037a9ba76bf84043777f75e8c74ecefbe821c7b763",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B01-U01522/p060-x3696-y0000.png",
+          "sha256": "4e17488dc78557f26a2f4f15aa9f8bcd401e22cca29456516c716c66e6b0a4ad",
+          "native_bounds": [
+            3696,
+            0,
+            5696,
+            1344
+          ],
+          "dimensions": [
+            2000,
+            1344
+          ],
+          "derivation": "Unscaled native crop; no enhancement or OCR",
+          "pixel_identity_verified": true
+        }
+      ],
+      "next_physical_span": "U01522/PDF60 targeted glyph and source-layer question",
+      "source_identity_only": "Prepared hashes and lossless crops are not a scholarly comparison claim."
+    }
+  ],
+  "remaining_declared_scope": "Precisely resolve or bound U01522/PDF60, U02615 and U02620/PDF101, S09/PDF102, and title/portrait/foreign-script uncertainties on PDF1–2.",
+  "protocol": "coverage_review"
+}

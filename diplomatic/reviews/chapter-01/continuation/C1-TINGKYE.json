@@ -1,0 +1,474 @@
+{
+  "task_id": "C1-TINGKYE",
+  "status": "in_progress",
+  "reader": "reader-tingkye-B01-20260928",
+  "baseline_commit": "21de152e4df880c6530c8fb9aa1dbcd9b57b1602",
+  "declared_scope": "Complete continuous PDF3–34 and40–69 through row4; opening1–2 and35–39 remain partial. Preserve fresh junction checks at6/27/32.",
+  "chapter_complete": false,
+  "coverage_complete": false,
+  "batches": [
+    {
+      "batch_id": "B01-P0003-0007",
+      "task_id": "C1-TINGKYE",
+      "status": "claimed_not_yet_read",
+      "owner": "reader-tingkye-B01-20260928",
+      "baseline_commit": "21de152e4df880c6530c8fb9aa1dbcd9b57b1602",
+      "scope": "Continuous bounded comparison of Tingkye PDF3-7; preserve the earlier junction findings",
+      "source_paths_and_hashes": [
+        {
+          "path": "editions/tingkye-1973/sgra-thal-gyur.pdf",
+          "sha256": "573e785a586f1c99af9e4d5c54c0d36fefa4a49c28b4d296f1bf31ef249f1723",
+          "bytes": 13011254
+        },
+        {
+          "path": "editions/tingkye-1973/original-images.zip",
+          "sha256": "272016895d7d81c45f0f1972243cbe5a8478aeb6722e8afb4a5372672b6c6bbd",
+          "bytes": 12951378
+        }
+      ],
+      "evidence_manifest": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/manifest.json",
+      "physical_start_and_end": {
+        "requested_pages": [
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "actual_rows": "not_yet_compared"
+      },
+      "anchor_start_and_end": null,
+      "reference_anchor_range": [
+        45,
+        280
+      ],
+      "rows_actually_compared": [],
+      "dimensions_checked": [],
+      "unread_or_uncertain_spans": [
+        {
+          "scope": "All requested visual source spans before reader execution",
+          "status": "not_yet_compared"
+        }
+      ],
+      "observations": [],
+      "canonical_record_ids": [],
+      "evidence_paths_and_hashes": [
+        {
+          "pdf_page": 3,
+          "bdrc_image": 396,
+          "source_member": "0396.png",
+          "source_member_sha256": "5b5b2cb2f3175b18772ec9a332a68823e8e7a072357d7a1c4483ec803cf7cbcd",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png",
+          "sha256": "5b5b2cb2f3175b18772ec9a332a68823e8e7a072357d7a1c4483ec803cf7cbcd",
+          "dimensions": [
+            4350,
+            1100
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "bdrc_image": 397,
+          "source_member": "0397.png",
+          "source_member_sha256": "c0c7f00d06caa8e091a1d78586389c62f611fe24ce75bffb25e19872793c764f",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-native.png",
+          "sha256": "c0c7f00d06caa8e091a1d78586389c62f611fe24ce75bffb25e19872793c764f",
+          "dimensions": [
+            4350,
+            1100
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "bdrc_image": 398,
+          "source_member": "0398.png",
+          "source_member_sha256": "0780273799938409c49cf604fb261dbfc3c5cce3205e87510da0e5d844404b02",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p005-native.png",
+          "sha256": "0780273799938409c49cf604fb261dbfc3c5cce3205e87510da0e5d844404b02",
+          "dimensions": [
+            4350,
+            1100
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "bdrc_image": 399,
+          "source_member": "0399.png",
+          "source_member_sha256": "14e2ab0f82ed234988b6c591ed6655ecb51f3ed13e018b5030688f0254b256ff",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-native.png",
+          "sha256": "14e2ab0f82ed234988b6c591ed6655ecb51f3ed13e018b5030688f0254b256ff",
+          "dimensions": [
+            4350,
+            1100
+          ]
+        },
+        {
+          "pdf_page": 7,
+          "bdrc_image": 400,
+          "source_member": "0400.png",
+          "source_member_sha256": "39e82741ab21ed744ae9d9da2d1797ac9c0406eb5a248bce480f2641988dba9f",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p007-native.png",
+          "sha256": "39e82741ab21ed744ae9d9da2d1797ac9c0406eb5a248bce480f2641988dba9f",
+          "dimensions": [
+            4350,
+            1100
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "bdrc_image": 396,
+          "source_member": "0396.png",
+          "source_member_sha256": "5b5b2cb2f3175b18772ec9a332a68823e8e7a072357d7a1c4483ec803cf7cbcd",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png",
+          "sha256": "9f9923d9158691701335a13ba5cbf82ceebd1b449f8b2228c43788becccca81b",
+          "native_bounds": [
+            0,
+            0,
+            2000,
+            1100
+          ],
+          "dimensions": [
+            2000,
+            1100
+          ],
+          "derivation": "Unscaled native crop; no enhancement or OCR",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 3,
+          "bdrc_image": 396,
+          "source_member": "0396.png",
+          "source_member_sha256": "5b5b2cb2f3175b18772ec9a332a68823e8e7a072357d7a1c4483ec803cf7cbcd",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png",
+          "sha256": "1b64af0f2098ab41ce4185e19929df63a903634ead74054e34d040b47ac4cf89",
+          "native_bounds": [
+            1900,
+            0,
+            3900,
+            1100
+          ],
+          "dimensions": [
+            2000,
+            1100
+          ],
+          "derivation": "Unscaled native crop; no enhancement or OCR",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 3,
+          "bdrc_image": 396,
+          "source_member": "0396.png",
+          "source_member_sha256": "5b5b2cb2f3175b18772ec9a332a68823e8e7a072357d7a1c4483ec803cf7cbcd",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png",
+          "sha256": "868837b1cef3436a2bb2a054686f8df2113cafa1c84f2b45a5839bf86ce2d8bb",
+          "native_bounds": [
+            2350,
+            0,
+            4350,
+            1100
+          ],
+          "dimensions": [
+            2000,
+            1100
+          ],
+          "derivation": "Unscaled native crop; no enhancement or OCR",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 4,
+          "bdrc_image": 397,
+          "source_member": "0397.png",
+          "source_member_sha256": "c0c7f00d06caa8e091a1d78586389c62f611fe24ce75bffb25e19872793c764f",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x0000-y0000.png",
+          "sha256": "8602628b717538c931ad3c88b0fb1a9502a6b8941de7b02a48c54b822083e8e7",
+          "native_bounds": [
+            0,
+            0,
+            2000,
+            1100
+          ],
+          "dimensions": [
+            2000,
+            1100
+          ],
+          "derivation": "Unscaled native crop; no enhancement or OCR",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 4,
+          "bdrc_image": 397,
+          "source_member": "0397.png",
+          "source_member_sha256": "c0c7f00d06caa8e091a1d78586389c62f611fe24ce75bffb25e19872793c764f",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x1900-y0000.png",
+          "sha256": "ac945ed570f25a67cffa72e62d9e4046024731885b6c1c9ee1bcb7bf645ca62d",
+          "native_bounds": [
+            1900,
+            0,
+            3900,
+            1100
+          ],
+          "dimensions": [
+            2000,
+            1100
+          ],
+          "derivation": "Unscaled native crop; no enhancement or OCR",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 4,
+          "bdrc_image": 397,
+          "source_member": "0397.png",
+          "source_member_sha256": "c0c7f00d06caa8e091a1d78586389c62f611fe24ce75bffb25e19872793c764f",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x2350-y0000.png",
+          "sha256": "133ffd60fe8839820175831ef1d40b17659ab8826857386b5a3624c4f0e212e3",
+          "native_bounds": [
+            2350,
+            0,
+            4350,
+            1100
+          ],
+          "dimensions": [
+            2000,
+            1100
+          ],
+          "derivation": "Unscaled native crop; no enhancement or OCR",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 5,
+          "bdrc_image": 398,
+          "source_member": "0398.png",
+          "source_member_sha256": "0780273799938409c49cf604fb261dbfc3c5cce3205e87510da0e5d844404b02",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p005-x0000-y0000.png",
+          "sha256": "3da39701fe65c5f897321f9a0b24590d97217b393bde2c631e32c6151a7c2486",
+          "native_bounds": [
+            0,
+            0,
+            2000,
+            1100
+          ],
+          "dimensions": [
+            2000,
+            1100
+          ],
+          "derivation": "Unscaled native crop; no enhancement or OCR",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 5,
+          "bdrc_image": 398,
+          "source_member": "0398.png",
+          "source_member_sha256": "0780273799938409c49cf604fb261dbfc3c5cce3205e87510da0e5d844404b02",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p005-x1900-y0000.png",
+          "sha256": "8504fd88986979c6a583b1a0a654001696474e0e96389cc3ab896401e16975e6",
+          "native_bounds": [
+            1900,
+            0,
+            3900,
+            1100
+          ],
+          "dimensions": [
+            2000,
+            1100
+          ],
+          "derivation": "Unscaled native crop; no enhancement or OCR",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 5,
+          "bdrc_image": 398,
+          "source_member": "0398.png",
+          "source_member_sha256": "0780273799938409c49cf604fb261dbfc3c5cce3205e87510da0e5d844404b02",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p005-x2350-y0000.png",
+          "sha256": "a75cf92abb00e5b7b6ddd24e27bc41527a00a6e017d89bb5ece30e418a28268f",
+          "native_bounds": [
+            2350,
+            0,
+            4350,
+            1100
+          ],
+          "dimensions": [
+            2000,
+            1100
+          ],
+          "derivation": "Unscaled native crop; no enhancement or OCR",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 6,
+          "bdrc_image": 399,
+          "source_member": "0399.png",
+          "source_member_sha256": "14e2ab0f82ed234988b6c591ed6655ecb51f3ed13e018b5030688f0254b256ff",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x0000-y0000.png",
+          "sha256": "da3e8705f9db819ec6d1011e9524b3c84a4cd7b6095006e419ac3f7b6909fde0",
+          "native_bounds": [
+            0,
+            0,
+            2000,
+            1100
+          ],
+          "dimensions": [
+            2000,
+            1100
+          ],
+          "derivation": "Unscaled native crop; no enhancement or OCR",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 6,
+          "bdrc_image": 399,
+          "source_member": "0399.png",
+          "source_member_sha256": "14e2ab0f82ed234988b6c591ed6655ecb51f3ed13e018b5030688f0254b256ff",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x1900-y0000.png",
+          "sha256": "3501b7f2f84a47cd1bf64ab9529a6f40c817ebb5d2fd3cfa6fbbd439b07e3872",
+          "native_bounds": [
+            1900,
+            0,
+            3900,
+            1100
+          ],
+          "dimensions": [
+            2000,
+            1100
+          ],
+          "derivation": "Unscaled native crop; no enhancement or OCR",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 6,
+          "bdrc_image": 399,
+          "source_member": "0399.png",
+          "source_member_sha256": "14e2ab0f82ed234988b6c591ed6655ecb51f3ed13e018b5030688f0254b256ff",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x2350-y0000.png",
+          "sha256": "e94edfa286aa4a59c66ff4e66d6ba17ee1a7491384215fbf58d62d2233d04113",
+          "native_bounds": [
+            2350,
+            0,
+            4350,
+            1100
+          ],
+          "dimensions": [
+            2000,
+            1100
+          ],
+          "derivation": "Unscaled native crop; no enhancement or OCR",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 7,
+          "bdrc_image": 400,
+          "source_member": "0400.png",
+          "source_member_sha256": "39e82741ab21ed744ae9d9da2d1797ac9c0406eb5a248bce480f2641988dba9f",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p007-x0000-y0000.png",
+          "sha256": "5f30c190b9cb91a0635098ea829cba24555f5004c69b9ce8afa44e1a7936b01f",
+          "native_bounds": [
+            0,
+            0,
+            2000,
+            1100
+          ],
+          "dimensions": [
+            2000,
+            1100
+          ],
+          "derivation": "Unscaled native crop; no enhancement or OCR",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 7,
+          "bdrc_image": 400,
+          "source_member": "0400.png",
+          "source_member_sha256": "39e82741ab21ed744ae9d9da2d1797ac9c0406eb5a248bce480f2641988dba9f",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p007-x1900-y0000.png",
+          "sha256": "8b3b1233a78a73a95434d43eead246ee7186430963f4005accbebaa45e15e9e3",
+          "native_bounds": [
+            1900,
+            0,
+            3900,
+            1100
+          ],
+          "dimensions": [
+            2000,
+            1100
+          ],
+          "derivation": "Unscaled native crop; no enhancement or OCR",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 7,
+          "bdrc_image": 400,
+          "source_member": "0400.png",
+          "source_member_sha256": "39e82741ab21ed744ae9d9da2d1797ac9c0406eb5a248bce480f2641988dba9f",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p007-x2350-y0000.png",
+          "sha256": "da04e16031a93ecaedffd4879813fd7978cca810a507c5cf364c2a0844a9d61a",
+          "native_bounds": [
+            2350,
+            0,
+            4350,
+            1100
+          ],
+          "dimensions": [
+            2000,
+            1100
+          ],
+          "derivation": "Unscaled native crop; no enhancement or OCR",
+          "pixel_identity_verified": true
+        }
+      ],
+      "next_physical_span": "Continuous bounded comparison of Tingkye PDF3-7; preserve the earlier junction findings",
+      "source_identity_only": "Prepared hashes and lossless crops are not a scholarly comparison claim."
+    }
+  ],
+  "remaining_declared_scope": "Complete continuous PDF3–34 and40–69 through row4; opening1–2 and35–39 remain partial. Preserve fresh junction checks at6/27/32.",
+  "protocol": "coverage_review",
+  "prior_material_consulted": [
+    {
+      "path": "diplomatic/reviews/chapter-01/tingkye-collation.md",
+      "sha256": "c32a527189835425c58a46b8fdd32563d94208ecd54cc980008bb57e034609cf"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/tingkye-recovery-review-20260927.md",
+      "sha256": "9aabc4fe16348569a5f30cfebde6cdcb0ef05ea1755239833359a582a023be21"
+    },
+    {
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p061.saved-update.py.txt",
+      "sha256": "010eb9d28dd5051c541fdd2f61228dba5f224fc03dc3b517ab51f0c228baa5ce"
+    },
+    {
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p062.saved-update.py.txt",
+      "sha256": "9e778d0fb4b368b33613ba5c181e16b16edbb55a6536725878a2207dbe33910c"
+    },
+    {
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p063.saved-update.py.txt",
+      "sha256": "918b7493a6689aa3f540aa4154f262345cb0ef43bd4701b80651f35c8f9124f2"
+    },
+    {
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p064.saved-update.py.txt",
+      "sha256": "ae91135db0dd1a4e891ca4b2964876f701c457ac1ad4664972092befb488195f"
+    },
+    {
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p065.saved-update.py.txt",
+      "sha256": "600a5e82d30ee0249acf3ea96159e68fd80f36cc8d34cae560f4d0a39b97e5da"
+    },
+    {
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p066.saved-update.py.txt",
+      "sha256": "51ba1f9d181b08eaa27570efa0b6f0d7688870bb96f302ffd79eaf1cfa5fa62b"
+    },
+    {
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p067.saved-update.py.txt",
+      "sha256": "1d76ac81b21585a46116534e82d1deb195aa9cd21aa932fe4bd4a9009eb4d289"
+    },
+    {
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p068.saved-update.py.txt",
+      "sha256": "29009d47917cd40b9e2721621084360cca0ca0e88002d71564a5cbc23a420b24"
+    },
+    {
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tingkye-p069.saved-update.py.txt",
+      "sha256": "4bdcbbfae63a9a5c7c4d4bb7aff515779e0984bb8072111a85e7fd4cca82e0fd"
+    },
+    {
+      "path": "diplomatic/recovery/2026-09-27-task-records/w1er119_ch1/tk-finish.retained-tool-output.txt",
+      "sha256": "c00ab8f23133f8fefd79063f8d03f444a05257ceb20d5c60d4b91a121c66aa77"
+    }
+  ],
+  "prior_material_limits": "Archived61-69 commands and the retained 176-finding summary are hypotheses/provenance, not a recovered continuous body or new scan agreement. No archived script was executed. Current PDF6 junction review supersedes the old U183/U184 absence and U182 nas-addition claims. Earlier opening and boundary records remain partial."
+}

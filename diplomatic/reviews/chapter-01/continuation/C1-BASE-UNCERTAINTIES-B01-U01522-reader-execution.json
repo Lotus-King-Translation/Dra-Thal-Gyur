@@ -1,0 +1,143 @@
+{
+  "task_id": "C1-BASE-UNCERTAINTIES",
+  "batch_id": "B01-U01522",
+  "status": "prepared_not_launched",
+  "baseline_commit": "21de152e4df880c6530c8fb9aa1dbcd9b57b1602",
+  "argv": [
+    "codex",
+    "exec",
+    "--sandbox",
+    "read-only",
+    "--color",
+    "never",
+    "--json",
+    "-c",
+    "model_reasoning_effort=\"high\"",
+    "-C",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B01-U01522/p060-native.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B01-U01522/p060-x0000-y0000.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B01-U01522/p060-x1900-y0000.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B01-U01522/p060-x3696-y0000.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/base-recovery-review-20260927/p060-u01522-left-native.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/base-recovery-review-20260927/p060-u01522-right-native.png",
+    "-o",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B01-U01522-reader-reading.txt",
+    "-"
+  ],
+  "request_path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B01-U01522-reader-request.txt",
+  "request_sha256": "eb5138a23c42fa009c95722b0a72fe8f21e462f3005c9a47c47d50e8442f6814",
+  "attachments": [
+    {
+      "pdf_page": 60,
+      "bdrc_image": 62,
+      "source_member": "0062.png",
+      "source_member_sha256": "bd87c558ba18eb6a7870be037a9ba76bf84043777f75e8c74ecefbe821c7b763",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B01-U01522/p060-native.png",
+      "sha256": "bd87c558ba18eb6a7870be037a9ba76bf84043777f75e8c74ecefbe821c7b763",
+      "dimensions": [
+        5696,
+        1344
+      ]
+    },
+    {
+      "pdf_page": 60,
+      "bdrc_image": 62,
+      "source_member": "0062.png",
+      "source_member_sha256": "bd87c558ba18eb6a7870be037a9ba76bf84043777f75e8c74ecefbe821c7b763",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B01-U01522/p060-x0000-y0000.png",
+      "sha256": "201c5cbba2a4400edfc534e98b713570de8dcc16b520dbfd3abab57dff4d50cf",
+      "native_bounds": [
+        0,
+        0,
+        2000,
+        1344
+      ],
+      "dimensions": [
+        2000,
+        1344
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 60,
+      "bdrc_image": 62,
+      "source_member": "0062.png",
+      "source_member_sha256": "bd87c558ba18eb6a7870be037a9ba76bf84043777f75e8c74ecefbe821c7b763",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B01-U01522/p060-x1900-y0000.png",
+      "sha256": "4d36678a0d199ebd8e4803628207d2451b39959e5e9324bc14268ebef867d192",
+      "native_bounds": [
+        1900,
+        0,
+        3900,
+        1344
+      ],
+      "dimensions": [
+        2000,
+        1344
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 60,
+      "bdrc_image": 62,
+      "source_member": "0062.png",
+      "source_member_sha256": "bd87c558ba18eb6a7870be037a9ba76bf84043777f75e8c74ecefbe821c7b763",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B01-U01522/p060-x3696-y0000.png",
+      "sha256": "4e17488dc78557f26a2f4f15aa9f8bcd401e22cca29456516c716c66e6b0a4ad",
+      "native_bounds": [
+        3696,
+        0,
+        5696,
+        1344
+      ],
+      "dimensions": [
+        2000,
+        1344
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/base-recovery-review-20260927/p060-u01522-left-native.png",
+      "native_bounds": [
+        1230,
+        620,
+        2100,
+        850
+      ],
+      "sha256": "2b49d33e542f4f18f93b09cc155549cd231e0108b26bd50c92bfe39f4a7ed257",
+      "pixel_identity_verified": true,
+      "pdf_page": 60,
+      "source_member": "0062.png",
+      "status": "Reused archived local evidence; original unchanged"
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/base-recovery-review-20260927/p060-u01522-right-native.png",
+      "native_bounds": [
+        2000,
+        620,
+        2720,
+        850
+      ],
+      "sha256": "d2ba6f984bba876a29582eb842bd339cea48019a897cf2825d71b44c05c0d9e4",
+      "pixel_identity_verified": true,
+      "pdf_page": 60,
+      "source_member": "0062.png",
+      "status": "Reused archived local evidence; original unchanged"
+    }
+  ],
+  "base_reference_path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B01-U01522/base-reference.json",
+  "source_identity_not_reading_certification": true,
+  "output_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B01-U01522-reader-reading.txt",
+  "session_log": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B01-U01522-reader-session.jsonl",
+  "stderr_log": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B01-U01522-reader-stderr.txt"
+}
