@@ -653,6 +653,11 @@
       "commit": "bccf091c9b3e5401eae94f5feb526de6612d54b2",
       "scope": "independent image report and explicit boundary-allocation disagreement before clarification or integration",
       "remote": "origin/main"
+    },
+    {
+      "commit": "2f6b18fcd0dff47805f77c8e59a0dad8ac480b04",
+      "scope": "four punctuation-only corrections integrated, one reading retained, bounded heading uncertainty carried forward; build, structural validation and image integrity checks passed",
+      "remote": "origin/main"
     }
   ],
   "crop_manifest": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/crop-manifest.json",
@@ -723,5 +728,6 @@
     "final_validation": "C1-SIGNS-01-validation-final.json",
     "final_build_reproducibility": "C1-SIGNS-01-build-final-check.json",
     "mechanical_source_and_integration_checks": "C1-SIGNS-01-final-mechanical-recheck.json"
-  }
+  },
+  "publication_receipt": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-publication-receipt.json"
 }

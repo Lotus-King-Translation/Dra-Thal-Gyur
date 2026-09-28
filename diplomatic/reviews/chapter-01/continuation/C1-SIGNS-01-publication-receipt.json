@@ -1,0 +1,33 @@
+{
+  "task_id": "C1-SIGNS-01",
+  "canonical_branch": "main",
+  "verified_integration_commit": "2f6b18fcd0dff47805f77c8e59a0dad8ac480b04",
+  "verified_origin_main_at_receipt_creation": "2f6b18fcd0dff47805f77c8e59a0dad8ac480b04",
+  "verification": "Live git ls-remote origin refs/heads/main equals local HEAD; clean tracked/untracked/ignored project inventory verified before this receipt-only update. The checkpoint helper already committed, pushed non-forcibly and verified this same integration SHA.",
+  "chapter_markdown_sha256": "370cb93657e13f3dd854494fbdad37ebf0854c3f8ff100f90d3c19933785dc70",
+  "completed_candidates": 5,
+  "adopted_main_reading_changes": 4,
+  "retained_existing_readings": 1,
+  "source_anchors_preserved": 2635,
+  "scan_intervention_records": 59,
+  "remaining_known_punctuation_candidates": 25,
+  "independent_visual_reader_count": 1,
+  "independent_review_limits": "Informed agent review with same-reader clarification; not blind or human palaeographic certification. First blocked attempt preserved.",
+  "carried_forward_uncertainty": "C1-SIGNS-01-U02489-HEADING-TERMINAL, PDF97 row1, assigned to C1-BASE-PHYSICAL",
+  "checks": {
+    "final_validation": "C1-SIGNS-01-validation-final.json",
+    "reproducible_build": "C1-SIGNS-01-build-final-check.json",
+    "source_and_pixel_integrity": "C1-SIGNS-01-final-mechanical-recheck.json",
+    "exact_integration_delta": "C1-SIGNS-01-integration-checks.json"
+  },
+  "chapter_complete": false,
+  "next_task_id": "C1-SIGNS-02",
+  "next_anchors": [
+    "U00995",
+    "U01094",
+    "U01270",
+    "U01416",
+    "U01534"
+  ],
+  "receipt_commit_note": "This file records an already verified integration SHA. Its own later publication commit is obtained from live origin/main, not guessed inside the file."
+}
