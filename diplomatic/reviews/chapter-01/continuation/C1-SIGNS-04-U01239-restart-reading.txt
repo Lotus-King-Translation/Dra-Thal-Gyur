@@ -1,0 +1,20 @@
+{
+  "anchor": "U01239 — Adzom2000 PDF49 / BDRC51 / member0051.png",
+  "images_actually_inspected": ["1: page49, relevant rows only", "2: row5 right", "3: row6 left", "4: heading context", "5: terminal detail", "6: repeated pixels enlarged", "7: page50 control region", "8: control heading"],
+  "physical_correspondence": "The small heading follows the row5 main-text ending and precedes the row-final ཞག. That sequence continues at row6 left. The wide crop and terminal details correspond to this heading.",
+  "observed_before_target_after": {"before": "ཆེན་པོ་གཅིག་ཡིན་ནོ", "target_secure_prefix": "དྲིས་ལན་ཉེར་གཉི", "after": "ཞག / ནི་བཅུ་ཕྲག་གསུམ་པ་ཡང"},
+  "bounds_convention": "Approximate native-page49 [xmin, ymin, xmax, ymax]; visually estimated, not measured.",
+  "final_letter_segmentation": [
+    {"glyph": "ཉི", "bounds": [4808, 753, 4863, 887], "evidence": "Vowel-bearing looped letter before the angular terminal body."},
+    {"glyph": "ས", "bounds": [4853, 781, 4944, 864], "evidence": "Best reading of the broad angular ending. Its right descending stroke belongs to an angular letter body; it is not a detached shad. This segmentation remains tentative."},
+    {"glyph": null, "bounds": null, "evidence": "I cannot securely identify a distinct following པ. I favour final ས alone, but cannot conclusively exclude a different segmentation of the adjacent angular components."}
+  ],
+  "detached_boundary_shads": 2,
+  "boundary_inventory": [{"bounds": [4953, 783, 4965, 895], "description": "Detached vertical immediately after the terminal letter body."}, {"bounds": [4990, 783, 5009, 895], "description": "Second detached vertical immediately before ཞག; potentially the next-leading sign."}],
+  "complete_heading_reading": null,
+  "proposed_reading": "དྲིས་ལན་ཉེར་གཉིས — tentative lexical reading; two detached boundary shads follow. Their electronic-unit ownership is not established by counting them.",
+  "confidence_by_dimension": {"physical_correspondence": "high", "prefix_reading": "high", "terminal_sa_without_separate_pa": "moderate", "two_detached_shads": "high", "shad_ownership": "unresolved", "page50_control": "low: its terminal body appears more compact; I cannot securely certify its letter segmentation or use it to establish པ on page49"},
+  "exact_remaining_uncertainty": "Whether the terminal angular components constitute ས alone is not conclusively resolved in this reading. No securely identified separate པ supports the electronic ending. The second detached shad requires separate ownership assessment.",
+  "limitations": "Direct vision of supplied images only; no tools or other reports. Enlargement adds no information. Page50 is the same witness. This is an informed agent reading, with no new whole-page coverage claim.",
+  "next_step": "Preserve this tentative reading and both boundary marks separately; leave the electronic terminal spelling unresolved pending a more decisive glyph-level reading."
+}

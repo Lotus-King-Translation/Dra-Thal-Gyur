@@ -46,23 +46,17 @@ Next step: Local boundary count integrated; other signs and source layers remain
 
 Canonical record: `SIGNS-VERIFIED-20260928-U01186`.
 
-## U01239
+## U01239 — restart result remains blocked
 
-PDF49, BDRC51, row 5.
+PDF49, BDRC51, member `0051.png`, row5. The small heading lies after `ཆེན་པོ་གཅིག་ཡིན་ནོ` and before row-final `ཞག`, continued on row6 by `ནི་བཅུ་ཕྲག་གསུམ་པ་ཡང`.
 
-Observed before: `ཆེན་པོ་གཅིག་ཡིན་ནོ`; target: `དྲིས་ལན་ཉེར་གཉིས་པ`; after: `ཞག / ནི་བཅུ་ཕྲག་གསུམ་པ་ཡང`. Slash denotes a physical break; any bracketed faintness note is a reader comment, not a printed mark.
+**Two detached boundary shads and exact physical correspondence are now supported. The complete terminal spelling is not.** The secure heading prefix is `དྲིས་ལན་ཉེར་གཉི`. The angular ending may be final `ས` alone; a separate `པ` is not decisively established. This tentative reading is not adopted. The ending in the existing electronic scaffold, `དྲིས་ལན་ཉེར་གཉིས་པ།`, must not be treated as fresh glyph evidence.
 
-Existing reading: `དྲིས་ལན་ཉེར་གཉིས་པ།`.
+The [recovered same-reader follow-up](C1-SIGNS-04-U01239-followup-reading.txt) distinguishes physical correspondence from complete lexical reading. The [fresh morphology review](C1-SIGNS-04-U01239-restart-reading.txt), using wider context and a same-print control, corroborates two detached marks but remains non-decisive about the angular letters. The prior full-target quotation and initial count uncertainty are preserved in the JSON report and original raw reports; the new account supersedes them only in the stated dimensions.
 
-**Blocked; no change adopted.**
+The unresolved angular components are approximately native **[4853,781,4947,887]**. The preserved detail crop is **[4780,755,5090,965]**; its 3x nearest-neighbor display aid adds no source information. The low confidence of the control reading is explicit; another page of the same printing is not another witness.
 
-Independent correspondence/glyph discrimination is incomplete; preserve the coordinator proposal as provisional only.
-
-Independent confidence: low for the complete target and boundary count
-
-Limits: The quoted target is only the confidently legible span. Final པ, terminal tsheg and total detached-shad count remain unconfirmed; no omission or replacement is asserted.
-
-Next step: Reinspect the heading's final glyph and narrow terminal strokes before proposing punctuation; include the leading shad before ཞག in the inventory.
+**No canonical change.** Keep this candidate blocked. Further work needs more decisive glyph evidence, not another repetition of the now-established mark count. The precise uncertainty remains required at the chapter completion gate.
 
 ## U01257
 

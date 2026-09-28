@@ -4,7 +4,7 @@
   "canonical_branch": "main",
   "current_chapter": 1,
   "chapter_status": "in_progress_not_ready",
-  "next_task_id": "C1-SIGNS-04",
+  "next_task_id": "C1-SIGNS-05",
   "path_base": "repository root; JSON pointers identify records without changing their historical contents",
   "scope": "Continuation queue, not a whole-chapter collation claim. Thirty punctuation candidate identities remain tracked, including completed dispositions; unfinished items are hypotheses, not accepted readings. Existing Adzom and Dzongsar main lexical passes remain valid within their recorded scopes.",
   "reference_paths": [
@@ -241,7 +241,7 @@
       "id": "C1-SIGNS-04",
       "kind": "punctuation_batch",
       "status": "blocked",
-      "owner": "ChatGPT-coordinator-20260928-resume3",
+      "owner": null,
       "depends_on": [
         "C1-SIGNS-03"
       ],
@@ -274,12 +274,13 @@
       "report_paths": [
         "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04.json",
         "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04.md",
-        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04-U01239-followup-reading.txt"
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04-U01239-followup-reading.txt",
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04-U01239-restart-reading.txt"
       ],
       "checkpoint_commit": "f635311376e8aa3072cf56ecbb72bb24138185ea",
       "blocker": {
-        "reason": "Unresolved native correspondence or glyph segmentation at U01239",
-        "next_step": "Use the saved exact context and independent obstacle; resolve or explicitly retain the blocked candidate before closing this batch."
+        "reason": "Terminal angular components in native member0051.png, approximately [4853,781,4947,887], do not securely establish the complete electronic gnyis pa ending. Two detached shads follow; their count is no longer the blocker.",
+        "next_step": "Seek a more decisive reading of the bounded final angular letter(s) from better source detail or securely discriminated same-print letter forms. Do not repeat counts or silently supply pa; retain this exact unresolved span in the completion gate."
       },
       "dependency_policy": "preferred_order",
       "parallel_dispatch_note": "One distinct five-candidate packet per reader; source parent fixed; coordinator alone adopts and publishes after all readers pause. Dependencies remain mandatory only at completion gate.",
@@ -1378,7 +1379,7 @@
       "anchor": "U01239",
       "batch_id": "C1-SIGNS-04",
       "status": "blocked",
-      "owner": "independent-reader-C1-SIGNS-04-20260928",
+      "owner": null,
       "disposition": "unresolved",
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -1394,8 +1395,8 @@
       ],
       "canonical_record_ids": [],
       "blocker": {
-        "reason": "The quoted target is only the confidently legible span. Final པ, terminal tsheg and total detached-shad count remain unconfirmed; no omission or replacement is asserted.",
-        "next_step": "Reinspect the heading's final glyph and narrow terminal strokes before proposing punctuation; include the leading shad before ཞག in the inventory."
+        "reason": "Terminal angular components in native member0051.png, approximately [4853,781,4947,887], do not securely establish the complete electronic gnyis pa ending. Two detached shads follow; their count is no longer the blocker.",
+        "next_step": "Seek a more decisive reading of the bounded final angular letter(s) from better source detail or securely discriminated same-print letter forms. Do not repeat counts or silently supply pa; retain this exact unresolved span in the completion gate."
       }
     },
     {

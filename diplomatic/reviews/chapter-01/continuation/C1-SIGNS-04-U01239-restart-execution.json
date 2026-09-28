@@ -1,7 +1,7 @@
 {
   "review_id": "C1-SIGNS-04-U01239-restart",
   "baseline_commit": "00e5818384904d1aadf226c117e42a14f8205fdb",
-  "state": "prepared_not_launched",
+  "state": "completed",
   "attachments": [
     {
       "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p049-native.png",
@@ -37,5 +37,52 @@
     }
   ],
   "request_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04-U01239-restart-request.txt",
-  "independence": "Fresh informed image reader; expected electronic locator supplied, other reader conclusions withheld; same-print control is not another witness."
+  "independence": "Fresh informed image reader; expected electronic locator supplied, other reader conclusions withheld; same-print control is not another witness.",
+  "returncode": 0,
+  "launched_after_verified_checkpoint": "a6584911aaae016fa63c3758f82ea2689bb3cf5e",
+  "argv": [
+    "codex",
+    "exec",
+    "--sandbox",
+    "read-only",
+    "--color",
+    "never",
+    "--json",
+    "-C",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur",
+    "-o",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04-U01239-restart-reading.txt",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p049-native.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p049-row5-right-context.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p049-row6-left-context.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/U01239-heading-final-wide.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/U01239-final-glyph-detail.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/U01239-final-glyph-detail-3x-nearest.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p050-native.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-SIGNS-04/p050-row3-right-context.png",
+    "-"
+  ],
+  "outputs": [
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04-U01239-restart-reading.txt",
+      "sha256": "5e7f17215c19418d32c7d4d0db28d3bdb1da3e6ffc78d8c3979f60911d86da2f"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04-U01239-restart-session.jsonl",
+      "sha256": "565b8ffc1cbc298d51b26177d07e96c6b67c9439ed2013693a703f5e0e271b97"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04-U01239-restart-stderr.txt",
+      "sha256": "3e75d28a6681c31400a3f0fcb564c7613fd42796fb83294e4d53fea86bcbd401"
+    }
+  ],
+  "result": "Native boundary correspondence and two detached marks independently supported; terminal spelling not decisively read; no adoption."
 }
