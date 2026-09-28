@@ -79,7 +79,7 @@ The main reading at U01286 is therefore empty, with its stable anchor retained a
 
 **Still blocked:** medial note letters, final letter-versus-sign allocation and terminal tsheg. The exact note crop is `[4550,625,5170,845]`; the independent report bounds the specific doubtful regions as visual estimates. One separator after the prior main text is visible to the separate readers, but this is not a completed punctuation review of U01285. No change is made to that anchor's punctuation. This task remains blocked for those exact note/sign details; the source is available and is not labelled globally illegible.
 
-Canonical source-layer record: `SCAN-CH1-LAYER-01286`. Its purpose is to stop treating the small note as main verse while keeping its exact printed reading visibly unresolved.
+Layer separation remotely verified at `a0822b20db28304e7e5d930ee69b9e9c90e31474`. Canonical source-layer record: `SCAN-CH1-LAYER-01286`. Its purpose is to stop treating the small note as main verse while keeping its exact printed reading visibly unresolved.
 
 ## Next bounded work
 
