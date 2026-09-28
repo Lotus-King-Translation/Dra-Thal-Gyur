@@ -1,9 +1,17 @@
-# C1-SIGNS-01 — provisional continuation
+# C1-SIGNS-01 — first-reader checkpoint
 
-First-reader batch claimed on 2026-09-28 from `7fe1ac75164bfb44ca6f3aac0b0c4a31f0f5942c`.
+Five local main-terminal boundaries were inspected from verified native pages and wider context. **No canonical correction is adopted yet.** The initial separate agent could hash files but could not invoke its image viewer; its preserved report is not visual corroboration.
 
-Startup validation and reproducible-build checks passed before changes. Adzom PDF and original-image ZIP hashes match the acquisition manifest. No canonical text has been changed.
+| Anchor | Native location | First-reader finding | Current state |
+| --- | --- | --- | --- |
+| U02090 | PDF 81,82 | 1 detached shad(s) | Retain existing single shad; letter stem excluded |
+| U02172 | PDF 85 | 2 detached shad(s) | Proposed correction; independent review pending |
+| U02183 | PDF 85 | 2 detached shad(s) | Proposed correction; independent review pending |
+| U02484 | PDF 96 | 2 detached shad(s) | Proposed correction; independent review pending |
+| U02489 | PDF 96,97 | 2 detached shad(s) | Proposed correction; independent review pending |
 
-The five targets are U02090, U02172, U02183, U02484 and U02489. Native context and actual neighboring Tibetan must be checked before trusting historical crop labels. Independent correspondence review remains required for any adoption.
+U02090 crosses PDF81 row6 to PDF82 row1; its ka stem is not an extra shad. U02489 main text is at PDF96 row6 and the small reply heading is at PDF97 row1. The page frame is not a third shad. Main/heading separation and the unusual lexical reading remain unchanged.
 
-Next: inspect native members 0084.png, 0087.png, 0098.png and 0099.png and save bounded findings here.
+Full observations, exact bounds and hashes are in [the JSON report](C1-SIGNS-01.json) and [crop manifest](../../../evidence/chapter-01/continuation/C1-SIGNS-01/crop-manifest.json). The [first independent attempt](C1-SIGNS-01-independent.md) remains preserved.
+
+Next: a separate image-attached review, without altering tool permissions. The shorter context crops remain saved alongside taller alternatives. This is not continuous page collation or chapter completion.

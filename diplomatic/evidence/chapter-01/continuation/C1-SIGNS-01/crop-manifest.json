@@ -146,6 +146,132 @@
         5696,
         1344
       ]
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p081-row6-right-context-tall.png",
+      "sha256": "118b78e8317a645b3a0df495917993c6509c3fdd973e22fc6bc49f3b978cf624",
+      "native_bounds": [
+        3380,
+        810,
+        5160,
+        1090
+      ],
+      "pdf_page": 81,
+      "bdrc_image": 83,
+      "source_member": "0083.png",
+      "source_member_sha256": "bc6cef50f76c7152083dccda4ef3176c4b578d5f75ec1023a9099f6523eab01d",
+      "native_image_dimensions": [
+        5696,
+        1344
+      ]
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p096-row6-context-tall.png",
+      "sha256": "35c17c0657507f9604b1d8e7057a666300d14b4f8d92718bff6b9e22d8947773",
+      "native_bounds": [
+        3130,
+        845,
+        5160,
+        1090
+      ],
+      "pdf_page": 96,
+      "bdrc_image": 98,
+      "source_member": "0098.png",
+      "source_member_sha256": "11a98728e5974979f0f27349daf143e5ae935e621d50ae2f9491bffbddbb27de",
+      "native_image_dimensions": [
+        5696,
+        1344
+      ]
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/U02090-terminal-detail.png",
+      "sha256": "5632af6c5c839fe61d88d67a9296d60c4f3767231a5ffa40df1898f9580a1a83",
+      "native_bounds": [
+        840,
+        355,
+        1170,
+        515
+      ],
+      "pdf_page": 82,
+      "bdrc_image": 84,
+      "source_member": "0084.png",
+      "source_member_sha256": "f35351ea5b0b4e6e1f14ed6aa71e8a9969c6e8a2386bed45d16050e209addd91",
+      "native_image_dimensions": [
+        5696,
+        1344
+      ]
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/U02172-terminal-detail.png",
+      "sha256": "f11273a685dc39b248e084b6d2beb38f562f4c5d0912496e57d1c9b069f82e9c",
+      "native_bounds": [
+        2740,
+        275,
+        3150,
+        465
+      ],
+      "pdf_page": 85,
+      "bdrc_image": 87,
+      "source_member": "0087.png",
+      "source_member_sha256": "556b67acc769b5dcba4b60ee42a3be1b7c1201eac8d5ff9ac5d94c4727e125f7",
+      "native_image_dimensions": [
+        5696,
+        1344
+      ]
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/U02183-terminal-detail.png",
+      "sha256": "693253adb64ba30362316d36850af5ceed8356bc3188ec4b85ba14d398b41b6e",
+      "native_bounds": [
+        4250,
+        495,
+        4650,
+        715
+      ],
+      "pdf_page": 85,
+      "bdrc_image": 87,
+      "source_member": "0087.png",
+      "source_member_sha256": "556b67acc769b5dcba4b60ee42a3be1b7c1201eac8d5ff9ac5d94c4727e125f7",
+      "native_image_dimensions": [
+        5696,
+        1344
+      ]
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/U02484-terminal-detail.png",
+      "sha256": "ce473cf6a82b7a67d0ef485825d54c677bc8fbeb69662cd8c74970c3ba35df4d",
+      "native_bounds": [
+        4190,
+        740,
+        4590,
+        960
+      ],
+      "pdf_page": 96,
+      "bdrc_image": 98,
+      "source_member": "0098.png",
+      "source_member_sha256": "11a98728e5974979f0f27349daf143e5ae935e621d50ae2f9491bffbddbb27de",
+      "native_image_dimensions": [
+        5696,
+        1344
+      ]
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/U02489-terminal-detail.png",
+      "sha256": "f30b0d0ac21a02b3056b0d91af335fd830b071e0d019fe393cd271591c91c84b",
+      "native_bounds": [
+        4840,
+        845,
+        5180,
+        1090
+      ],
+      "pdf_page": 96,
+      "bdrc_image": 98,
+      "source_member": "0098.png",
+      "source_member_sha256": "11a98728e5974979f0f27349daf143e5ae935e621d50ae2f9491bffbddbb27de",
+      "native_image_dimensions": [
+        5696,
+        1344
+      ]
     }
   ],
   "historical_crop_reproduction_checks": [
@@ -233,5 +359,6 @@
       "pixels_match_native_source": true,
       "anchor_identity": "not_established_by_pixel_check"
     }
-  ]
+  ],
+  "preservation_note": "Original shorter context crops retained even where neighboring vowel tops approach a crop edge; taller alternatives added, not substituted."
 }
