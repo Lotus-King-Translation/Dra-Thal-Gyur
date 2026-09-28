@@ -28,7 +28,7 @@
           5696,
           1344
         ],
-        "status": "source_verified_not_yet_visually_reviewed"
+        "status": "Native full-page overview visually inspected by coordinator; only named target rows are claimed for current local review"
       },
       {
         "pdf_page": 78,
@@ -40,10 +40,232 @@
           5696,
           1344
         ],
-        "status": "source_verified_not_yet_visually_reviewed"
+        "status": "Native full-page overview visually inspected by coordinator; only named target rows are claimed for current local review"
+      },
+      {
+        "pdf_page": 73,
+        "bdrc_image": 75,
+        "source_member": "0075.png",
+        "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p073-native.png",
+        "sha256": "09654ba9fb4e3fae1abc60b8f3c9c1cde25e9419ec258069d32fec491e4754ec",
+        "dimensions": [
+          5696,
+          1344
+        ],
+        "status": "Additional preceding-page context for S02; not a whole-page review"
       }
     ],
-    "crops": []
+    "crops": [
+      {
+        "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p074-row1-left-context.png",
+        "pdf_page": 74,
+        "bdrc_image": 76,
+        "source_member": "0076.png",
+        "source_member_sha256": "7fd84380e02c0b8c140fa3537b968fc5e36f49d96a37be4060d2ad210d5f57fd",
+        "native_bounds": [
+          600,
+          285,
+          2480,
+          525
+        ],
+        "crop_dimensions": [
+          1880,
+          240
+        ],
+        "sha256": "294d747b19410d25982b64ca6484264416f78521e55bbb5373bacf7581771857",
+        "derivation": "Exact unscaled native crop; includes neighboring rows where the tilted page requires context"
+      },
+      {
+        "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p074-row1-middle-context.png",
+        "pdf_page": 74,
+        "bdrc_image": 76,
+        "source_member": "0076.png",
+        "source_member_sha256": "7fd84380e02c0b8c140fa3537b968fc5e36f49d96a37be4060d2ad210d5f57fd",
+        "native_bounds": [
+          2260,
+          280,
+          4160,
+          520
+        ],
+        "crop_dimensions": [
+          1900,
+          240
+        ],
+        "sha256": "b11de43c268c480901cfb1dc3b49edb2ea0243794ab6fd76c41cbd056bca2568",
+        "derivation": "Exact unscaled native crop; includes neighboring rows where the tilted page requires context"
+      },
+      {
+        "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p078-row5-right-context.png",
+        "pdf_page": 78,
+        "bdrc_image": 80,
+        "source_member": "0080.png",
+        "source_member_sha256": "1dc6b068f740945cc47af3639bb86c987c66b68b61c83b194eedf6ea32d38752",
+        "native_bounds": [
+          2250,
+          735,
+          5150,
+          1010
+        ],
+        "crop_dimensions": [
+          2900,
+          275
+        ],
+        "sha256": "8dc11034e7df1e8ddaa4779d271124c7af6b9bac16a13e6d4e2821780c428a58",
+        "derivation": "Exact unscaled native crop; includes neighboring rows where the tilted page requires context"
+      },
+      {
+        "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p078-row6-left-context.png",
+        "pdf_page": 78,
+        "bdrc_image": 80,
+        "source_member": "0080.png",
+        "source_member_sha256": "1dc6b068f740945cc47af3639bb86c987c66b68b61c83b194eedf6ea32d38752",
+        "native_bounds": [
+          595,
+          960,
+          2690,
+          1185
+        ],
+        "crop_dimensions": [
+          2095,
+          225
+        ],
+        "sha256": "a71270b463efe6601035944d1dc826c2c7692214fc505fb3be2d281d7ec0d624",
+        "derivation": "Exact unscaled native crop; includes neighboring rows where the tilted page requires context"
+      },
+      {
+        "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/S02-L1-terminal.png",
+        "pdf_page": 74,
+        "bdrc_image": 76,
+        "source_member": "0076.png",
+        "source_member_sha256": "7fd84380e02c0b8c140fa3537b968fc5e36f49d96a37be4060d2ad210d5f57fd",
+        "native_bounds": [
+          1220,
+          335,
+          1530,
+          500
+        ],
+        "crop_dimensions": [
+          310,
+          165
+        ],
+        "sha256": "5692ff3ede470a767207de6082c2a6c7ed29dd6c93dc0b4b825c475d4bf49c4d",
+        "derivation": "Exact unscaled native terminal crop; anchor identity relies on full page and wider context"
+      },
+      {
+        "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/S02-L2-terminal.png",
+        "pdf_page": 74,
+        "bdrc_image": 76,
+        "source_member": "0076.png",
+        "source_member_sha256": "7fd84380e02c0b8c140fa3537b968fc5e36f49d96a37be4060d2ad210d5f57fd",
+        "native_bounds": [
+          2070,
+          325,
+          2350,
+          500
+        ],
+        "crop_dimensions": [
+          280,
+          175
+        ],
+        "sha256": "3adfd384ee8b6dc9b31569c4266df493907e9637d58a0f3be2e80d74a823923e",
+        "derivation": "Exact unscaled native terminal crop; anchor identity relies on full page and wider context"
+      },
+      {
+        "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/S02-L3-terminal.png",
+        "pdf_page": 74,
+        "bdrc_image": 76,
+        "source_member": "0076.png",
+        "source_member_sha256": "7fd84380e02c0b8c140fa3537b968fc5e36f49d96a37be4060d2ad210d5f57fd",
+        "native_bounds": [
+          2950,
+          315,
+          3330,
+          500
+        ],
+        "crop_dimensions": [
+          380,
+          185
+        ],
+        "sha256": "da6202da7e671baf48bcff41ddd5574cbb5b55e4334ba2afd46953d19cd341b2",
+        "derivation": "Exact unscaled native terminal crop; anchor identity relies on full page and wider context"
+      },
+      {
+        "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/S03-L1-terminal.png",
+        "pdf_page": 78,
+        "bdrc_image": 80,
+        "source_member": "0080.png",
+        "source_member_sha256": "1dc6b068f740945cc47af3639bb86c987c66b68b61c83b194eedf6ea32d38752",
+        "native_bounds": [
+          3840,
+          760,
+          4200,
+          970
+        ],
+        "crop_dimensions": [
+          360,
+          210
+        ],
+        "sha256": "3626682a851d20639e7c9df0abae813c5b08e7ec5ae8b6403e245a12139a01f9",
+        "derivation": "Exact unscaled native terminal crop; anchor identity relies on full page and wider context"
+      },
+      {
+        "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/S03-L2-terminal.png",
+        "pdf_page": 78,
+        "bdrc_image": 80,
+        "source_member": "0080.png",
+        "source_member_sha256": "1dc6b068f740945cc47af3639bb86c987c66b68b61c83b194eedf6ea32d38752",
+        "native_bounds": [
+          4760,
+          720,
+          5070,
+          950
+        ],
+        "crop_dimensions": [
+          310,
+          230
+        ],
+        "sha256": "00986cfd3632b31ba56388e4c238fc26d792e8822ae40b999ff34858ab13e19d",
+        "derivation": "Exact unscaled native terminal crop; anchor identity relies on full page and wider context"
+      },
+      {
+        "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/S03-L3-terminal.png",
+        "pdf_page": 78,
+        "bdrc_image": 80,
+        "source_member": "0080.png",
+        "source_member_sha256": "1dc6b068f740945cc47af3639bb86c987c66b68b61c83b194eedf6ea32d38752",
+        "native_bounds": [
+          1280,
+          990,
+          1660,
+          1180
+        ],
+        "crop_dimensions": [
+          380,
+          190
+        ],
+        "sha256": "65a8998805996f7481d8cefe7b3e18c8889e9df606a5dab6627a01775fda1331",
+        "derivation": "Exact unscaled native terminal crop; anchor identity relies on full page and wider context"
+      },
+      {
+        "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p073-row6-right-context.png",
+        "pdf_page": 73,
+        "bdrc_image": 75,
+        "source_member": "0075.png",
+        "source_member_sha256": "09654ba9fb4e3fae1abc60b8f3c9c1cde25e9419ec258069d32fec491e4754ec",
+        "native_bounds": [
+          2860,
+          850,
+          4950,
+          1050
+        ],
+        "crop_dimensions": [
+          2090,
+          200
+        ],
+        "sha256": "b0b566a87bcc79adb2df92b5539be9688f4b5c72378d32c3c532a70ef26327cc",
+        "derivation": "Exact unscaled native crop; preceding U01881-U01882 context for S02"
+      }
+    ]
   },
   "batches": [
     {
@@ -53,15 +275,145 @@
         "A2000-C01-S03"
       ],
       "pdf_pages": [
+        73,
         74,
         78
       ],
-      "status": "source_verified_claimed",
-      "rows_actually_compared": [],
+      "status": "coordinator_reading_saved_pending_independent_review",
+      "rows_actually_compared": [
+        {
+          "pdf_page": 73,
+          "row": 6,
+          "scope": "U01881-U01882 preceding context only"
+        },
+        {
+          "pdf_page": 74,
+          "row": 1,
+          "scope": "S02 three restored verses and U01883 following context"
+        },
+        {
+          "pdf_page": 78,
+          "rows": [
+            5,
+            6
+          ],
+          "scope": "U02005 preceding context, S03 three restored verses, U02006 following context"
+        }
+      ],
       "observations": [],
-      "unread_or_uncertain_spans": "Visual review not yet performed",
+      "unread_or_uncertain_spans": "No whole-page lexical or sign certification. The native crops include adjacent rows and frame material that is not transcribed; exact terminal dot/count judgments await independent review.",
       "canonical_record_ids": [],
-      "next_physical_span": "S02 PDF74 row1 and S03 PDF78 rows5-6, using full native context"
+      "next_physical_span": "S02 PDF74 row1 and S03 PDF78 rows5-6, using full native context",
+      "coordinator_initial_reading": [
+        {
+          "anchor": "A2000-C01-S02",
+          "line_index": 0,
+          "existing_reading": "སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ།",
+          "observed_lexical_sequence": "སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ",
+          "physical_locator": {
+            "pdf_page": 74,
+            "bdrc_image": 76,
+            "row": 1,
+            "source_member": "0076.png"
+          },
+          "detached_boundary_shads": 2,
+          "terminal_tsheg": false,
+          "proposed_reading": "སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ། །",
+          "status": "coordinator_proposal_pending_independent_review",
+          "rationale": "Two separate vertical boundary marks observed; terminal letter components, adjacent-row strokes and page frame are excluded. Preserve lexical spelling and existing structural insertion order."
+        },
+        {
+          "anchor": "A2000-C01-S02",
+          "line_index": 1,
+          "existing_reading": "འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ།",
+          "observed_lexical_sequence": "འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ",
+          "physical_locator": {
+            "pdf_page": 74,
+            "bdrc_image": 76,
+            "row": 1,
+            "source_member": "0076.png"
+          },
+          "detached_boundary_shads": 2,
+          "terminal_tsheg": false,
+          "proposed_reading": "འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ། །",
+          "status": "coordinator_proposal_pending_independent_review",
+          "rationale": "Two separate vertical boundary marks observed; terminal letter components, adjacent-row strokes and page frame are excluded. Preserve lexical spelling and existing structural insertion order."
+        },
+        {
+          "anchor": "A2000-C01-S02",
+          "line_index": 2,
+          "existing_reading": "སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང་།",
+          "observed_lexical_sequence": "སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང",
+          "physical_locator": {
+            "pdf_page": 74,
+            "bdrc_image": 76,
+            "row": 1,
+            "source_member": "0076.png"
+          },
+          "detached_boundary_shads": 2,
+          "terminal_tsheg": true,
+          "proposed_reading": "སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང་། །",
+          "status": "coordinator_proposal_pending_independent_review",
+          "rationale": "Two separate vertical boundary marks observed; terminal letter components, adjacent-row strokes and page frame are excluded. Preserve lexical spelling and existing structural insertion order."
+        },
+        {
+          "anchor": "A2000-C01-S03",
+          "line_index": 0,
+          "existing_reading": "གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ།",
+          "observed_lexical_sequence": "གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ",
+          "physical_locator": {
+            "pdf_page": 78,
+            "bdrc_image": 80,
+            "row": 5,
+            "source_member": "0080.png"
+          },
+          "detached_boundary_shads": 2,
+          "terminal_tsheg": false,
+          "proposed_reading": "གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ། །",
+          "status": "coordinator_proposal_pending_independent_review",
+          "rationale": "Two separate vertical boundary marks observed; terminal letter components, adjacent-row strokes and page frame are excluded. Preserve lexical spelling and existing structural insertion order."
+        },
+        {
+          "anchor": "A2000-C01-S03",
+          "line_index": 1,
+          "existing_reading": "འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ།",
+          "observed_lexical_sequence": "འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ",
+          "physical_locator": {
+            "pdf_page": 78,
+            "bdrc_image": 80,
+            "row": 5,
+            "source_member": "0080.png"
+          },
+          "detached_boundary_shads": 2,
+          "terminal_tsheg": false,
+          "proposed_reading": "འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ། །",
+          "status": "coordinator_proposal_pending_independent_review",
+          "rationale": "Two separate vertical boundary marks observed; terminal letter components, adjacent-row strokes and page frame are excluded. Preserve lexical spelling and existing structural insertion order."
+        },
+        {
+          "anchor": "A2000-C01-S03",
+          "line_index": 2,
+          "existing_reading": "འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས།",
+          "observed_lexical_sequence": "འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས",
+          "physical_locator": {
+            "pdf_page": 78,
+            "bdrc_image": 80,
+            "row": 6,
+            "source_member": "0080.png"
+          },
+          "detached_boundary_shads": 2,
+          "terminal_tsheg": false,
+          "proposed_reading": "འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས། །",
+          "status": "coordinator_proposal_pending_independent_review",
+          "rationale": "Two separate vertical boundary marks observed; terminal letter components, adjacent-row strokes and page frame are excluded. Preserve lexical spelling and existing structural insertion order."
+        }
+      ],
+      "correspondence": {
+        "S02_before": "PDF73 row6 ཞག་དང་ཟླ་བ་ལོ་རྣམས་ཀྱིས",
+        "S02_after": "PDF74 row1 ཆོས་སྐུ་ངོ་བོ་ཉིད་ཀྱི་སྐུ",
+        "S03_before": "PDF78 row5 ཐེག་པ་དག་ནི་གཉིས་སུ་འདོད",
+        "S03_after": "PDF78 row6 རྒྱུ་ལ་གསུམ་ལ་འབྲས་བུར་གཉིས"
+      }
     }
   ],
   "remaining_targets": [
