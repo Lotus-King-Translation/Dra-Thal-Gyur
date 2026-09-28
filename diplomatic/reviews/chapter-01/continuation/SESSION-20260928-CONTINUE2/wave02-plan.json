@@ -1,0 +1,145 @@
+{
+  "wave_id": "CONTINUE2-W02",
+  "baseline_commit": "d5a05bc3c9c6abee18459895c4fec8aa6e093548",
+  "status": "requests_ready_pending_checkpoint",
+  "plans": [
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B03-P0004",
+      "edition": "adzom-2000",
+      "target_page": 4,
+      "pages": [
+        3,
+        4,
+        5
+      ],
+      "lo": 25,
+      "hi": 53,
+      "scope": "Complete physical inventory of ADZOM PDF4 only, all main rows, source layers, ornaments, filler signs and marginal inscriptions. Adjacent pages are boundary context only. Existing main lexical pass is retained; record every boundary and any newly observed mismatch without grammatical normalization.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B03-P0004/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B03-P0004-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B03-P0004-reader-spec.json"
+    },
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B04-P0005",
+      "edition": "adzom-2000",
+      "target_page": 5,
+      "pages": [
+        4,
+        5,
+        6
+      ],
+      "lo": 49,
+      "hi": 80,
+      "scope": "Complete physical inventory of ADZOM PDF5 only, all main rows, source layers, ornaments, filler signs and marginal inscriptions. Adjacent pages are boundary context only. Existing main lexical pass is retained; record every boundary and any newly observed mismatch without grammatical normalization.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B04-P0005/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B04-P0005-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B04-P0005-reader-spec.json"
+    },
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B05-P0006",
+      "edition": "adzom-2000",
+      "target_page": 6,
+      "pages": [
+        5,
+        6,
+        7
+      ],
+      "lo": 74,
+      "hi": 106,
+      "scope": "Complete physical inventory of ADZOM PDF6 only, all main rows, source layers, ornaments, filler signs and marginal inscriptions. Adjacent pages are boundary context only. Existing main lexical pass is retained; record every boundary and any newly observed mismatch without grammatical normalization.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B05-P0006/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B05-P0006-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B05-P0006-reader-spec.json"
+    },
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B06-P0007",
+      "edition": "adzom-2000",
+      "target_page": 7,
+      "pages": [
+        6,
+        7,
+        8
+      ],
+      "lo": 100,
+      "hi": 130,
+      "scope": "Complete physical inventory of ADZOM PDF7 only, all main rows, source layers, ornaments, filler signs and marginal inscriptions. Adjacent pages are boundary context only. Existing main lexical pass is retained; record every boundary and any newly observed mismatch without grammatical normalization.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B06-P0007/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B06-P0007-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B06-P0007-reader-spec.json"
+    },
+    {
+      "task": "C1-BASE-UNCERTAINTIES",
+      "batch": "B03-P0102-S09",
+      "edition": "adzom-2000",
+      "target_page": 102,
+      "pages": [
+        101,
+        102
+      ],
+      "lo": 2625,
+      "hi": 2635,
+      "scope": "Adzom PDF102 chapter1 boundary and S09 compact inscription only. Locate the actual U02635 closing and subsequent next-chapter incipit to delimit S09. Transcribe the inscription only as far as individual shapes support; distinguish its script, source layer, signs and exact remaining components. PDF101 is incoming context. Do not transcribe or collate Chapter2 beyond the minimal boundary incipit. Prior S09 remains explicitly unresolved, not a guessed heading.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B03-P0102-S09/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B03-P0102-S09-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B03-P0102-S09-reader-spec.json"
+    },
+    {
+      "task": "C1-TINGKYE",
+      "batch": "B03-P0005",
+      "edition": "tingkye-1973",
+      "target_page": 5,
+      "pages": [
+        4,
+        5,
+        6
+      ],
+      "lo": 125,
+      "hi": 185,
+      "scope": "TINGKYE PDF5 all seven main rows, margins, notes and signs. Previous continuous report ends PDF4 row7 U00127 through པར, with a questioned outgoing word on PDF5 row1. Establish that word from pixels, then continue U00128 onward across the entire page. PDF4 and PDF6 are boundary context only. No inherited whole-page agreement is inferred from the earlier PDF6 isolated junction. Give actual source-ordered rows, every local conflict, precisely bounded unread components and true outgoing anchor.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B03-P0005/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B03-P0005-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B03-P0005-reader-spec.json"
+    },
+    {
+      "task": "C1-TSAMDRAK",
+      "batch": "B03-P0015",
+      "edition": "tsamdrak-1982",
+      "target_page": 15,
+      "pages": [
+        14,
+        15,
+        16
+      ],
+      "lo": 380,
+      "hi": 445,
+      "scope": "TSAMDRAK PDF15 all seven main rows, non-main regions and signs. PDF14 ended at U00383 དམིགས་པ་ཡུལ་གྱི་བློ་རྣམས་ལ. Establish the next actual source anchor rather than infer proportional mapping. PDF14/16 are boundary context only. Preserve physical notes/numerals separately, including local absence of a base heading rather than calling it an omitted main verse. Inspect every row despite isolated unclear glyphs.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B03-P0015/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B03-P0015-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B03-P0015-reader-spec.json"
+    },
+    {
+      "task": "C1-DEGE",
+      "batch": "B01-P0003",
+      "edition": "dege-W1ER7",
+      "target_page": 3,
+      "pages": [
+        2,
+        3,
+        4
+      ],
+      "lo": 1,
+      "hi": 250,
+      "scope": "DEGE PDF3: establish actual opening/closing anchors, then inspect all seven main rows and all interlinear/marginal source material and signs. PDF2/4 are contextual flanks only; earlier opening reports did not certify them fully. Broad U1-250 base range is a locator aid, NOT an inferred page mapping. Read source independently wherever it disagrees. Retain faint letter components with exact bounds rather than treating the entire page as unavailable. Native color images are authoritative; any explicitly labeled channel view is only a deterministic contrast aid, not new pixels or another witness.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B01-P0003/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-spec.json"
+    }
+  ],
+  "maximum_parallel_readers": 8,
+  "prior_wave_integration_verified": "2382179fb648e4ec59fbe1633d83a23df5b6e620",
+  "chapter_complete": false
+}

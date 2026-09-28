@@ -1,0 +1,184 @@
+{
+  "schema_version": 1,
+  "task_id": "C1-BASE-UNCERTAINTIES",
+  "batch_id": "B03-P0102-S09",
+  "baseline_commit": "d5a05bc3c9c6abee18459895c4fec8aa6e093548",
+  "edition": "adzom-2000",
+  "generator": {
+    "path": "diplomatic/tools/prepare_native_packet.py",
+    "sha256": "6b7142a8d55c61eaa25b3403391ec2b69658df5d377f1531dbd2d99315db752c",
+    "pillow_version": "12.3.0"
+  },
+  "requested_pdf_pages": [
+    101,
+    102
+  ],
+  "source_assets": [
+    {
+      "path": "editions/adzom-2000/sgra-thal-gyur.pdf",
+      "sha256": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343",
+      "bytes": 37358206
+    },
+    {
+      "path": "editions/adzom-2000/original-images.zip",
+      "sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+      "bytes": 37281893
+    }
+  ],
+  "source_manifest_sha256": "0627280756a05102331dd6db70e09adb26609713c170d10f8601adddb945d436",
+  "status": "ready_for_visual_review_not_collated",
+  "pages": [
+    {
+      "pdf_page": 101,
+      "bdrc_image": 103,
+      "source_member": "0103.png",
+      "source_member_sha256": "889567c7817c2ef1163dbbb3329e8ece5a770c8cfd172aa1ca49511dca17fafe",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B03-P0102-S09/p101-native.png",
+      "sha256": "889567c7817c2ef1163dbbb3329e8ece5a770c8cfd172aa1ca49511dca17fafe",
+      "dimensions": [
+        5696,
+        1344
+      ]
+    },
+    {
+      "pdf_page": 102,
+      "bdrc_image": 104,
+      "source_member": "0104.png",
+      "source_member_sha256": "eb9e2e0e98df65ec94303d7b50e277b422685f940a26ba7ec00dbfade54dce91",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B03-P0102-S09/p102-native.png",
+      "sha256": "eb9e2e0e98df65ec94303d7b50e277b422685f940a26ba7ec00dbfade54dce91",
+      "dimensions": [
+        5696,
+        1344
+      ]
+    }
+  ],
+  "views": [
+    {
+      "pdf_page": 101,
+      "bdrc_image": 103,
+      "source_member": "0103.png",
+      "source_member_sha256": "889567c7817c2ef1163dbbb3329e8ece5a770c8cfd172aa1ca49511dca17fafe",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B03-P0102-S09/p101-x0000-y0000.png",
+      "sha256": "31a96e4ff6839ced6b838a11b83c67d1339d921b0e1a162341a1cc85f40e247a",
+      "native_bounds": [
+        0,
+        0,
+        2000,
+        1344
+      ],
+      "dimensions": [
+        2000,
+        1344
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 101,
+      "bdrc_image": 103,
+      "source_member": "0103.png",
+      "source_member_sha256": "889567c7817c2ef1163dbbb3329e8ece5a770c8cfd172aa1ca49511dca17fafe",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B03-P0102-S09/p101-x1900-y0000.png",
+      "sha256": "eaf944200fd53011b9f09a2a291efdd434b52de4658b4f54253ae3152739d9d4",
+      "native_bounds": [
+        1900,
+        0,
+        3900,
+        1344
+      ],
+      "dimensions": [
+        2000,
+        1344
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 101,
+      "bdrc_image": 103,
+      "source_member": "0103.png",
+      "source_member_sha256": "889567c7817c2ef1163dbbb3329e8ece5a770c8cfd172aa1ca49511dca17fafe",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B03-P0102-S09/p101-x3696-y0000.png",
+      "sha256": "bec87ccc803e65556faea9c1f21c3f856b460734ebe1c74b91e0aae7fecc6461",
+      "native_bounds": [
+        3696,
+        0,
+        5696,
+        1344
+      ],
+      "dimensions": [
+        2000,
+        1344
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 102,
+      "bdrc_image": 104,
+      "source_member": "0104.png",
+      "source_member_sha256": "eb9e2e0e98df65ec94303d7b50e277b422685f940a26ba7ec00dbfade54dce91",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B03-P0102-S09/p102-x0000-y0000.png",
+      "sha256": "a65dbe0d24483cb4e74bfb0a73671f725e1c89658a0e9e14a09a03021ef5365c",
+      "native_bounds": [
+        0,
+        0,
+        2000,
+        1344
+      ],
+      "dimensions": [
+        2000,
+        1344
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 102,
+      "bdrc_image": 104,
+      "source_member": "0104.png",
+      "source_member_sha256": "eb9e2e0e98df65ec94303d7b50e277b422685f940a26ba7ec00dbfade54dce91",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B03-P0102-S09/p102-x1900-y0000.png",
+      "sha256": "453c47b4f83e46ff3b2a84006161c49b1babbdd6897cd9f8f4509d122148e0a8",
+      "native_bounds": [
+        1900,
+        0,
+        3900,
+        1344
+      ],
+      "dimensions": [
+        2000,
+        1344
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 102,
+      "bdrc_image": 104,
+      "source_member": "0104.png",
+      "source_member_sha256": "eb9e2e0e98df65ec94303d7b50e277b422685f940a26ba7ec00dbfade54dce91",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B03-P0102-S09/p102-x3696-y0000.png",
+      "sha256": "b6a907267385a5f5c6c947c9d716d58f1bdfabd713da062437f4493ebe1812e1",
+      "native_bounds": [
+        3696,
+        0,
+        5696,
+        1344
+      ],
+      "dimensions": [
+        2000,
+        1344
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    }
+  ],
+  "coordinates": "Zero-based half-open native raster pixels",
+  "reading_claim": "None: hashes and tiles do not establish glyphs",
+  "base_reference": {
+    "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B03-P0102-S09/base-reference.json",
+    "sha256": "75300d1ff934d77396d4e300f4d51c804498f405b97e6475844df60ee82cac71"
+  }
+}

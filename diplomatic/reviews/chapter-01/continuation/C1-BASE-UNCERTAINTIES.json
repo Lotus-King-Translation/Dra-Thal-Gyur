@@ -1257,10 +1257,24 @@
       },
       "whole_pages_newly_certified": [],
       "prior_verified_raw_report_commit": "66076df0a746baeab74630407e6bcbb4059db2de"
+    },
+    {
+      "batch_id": "B03-P0102-S09",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-BASE-UNCERTAINTIES-B03-P0102-S09-reader",
+      "baseline_commit": "d5a05bc3c9c6abee18459895c4fec8aa6e093548",
+      "scope": "Adzom PDF102 chapter1 boundary and S09 compact inscription only. Locate the actual U02635 closing and subsequent next-chapter incipit to delimit S09. Transcribe the inscription only as far as individual shapes support; distinguish its script, source layer, signs and exact remaining components. PDF101 is incoming context. Do not transcribe or collate Chapter2 beyond the minimal boundary incipit. Prior S09 remains explicitly unresolved, not a guessed heading.",
+      "target_page": 102,
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B03-P0102-S09/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B03-P0102-S09-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
     }
   ],
   "remaining_declared_scope": "U01522 bounded unresolved; PDF101 annotations, PDF102 inscription, and title/portrait/foreign-script questions still require their planned reviews.",
   "protocol": "coverage_review",
   "current_batch_id": "B02-P0101",
-  "next_physical_span": "PDF102 S09 boundary inscription, then title/portrait scopes; preserve the unresolved PDF60/PDF101 findings without endlessly repeating identical evidence."
+  "next_physical_span": "PDF102 S09 boundary inscription, then title/portrait scopes; preserve the unresolved PDF60/PDF101 findings without endlessly repeating identical evidence.",
+  "current_wave_id": "CONTINUE2-W02"
 }

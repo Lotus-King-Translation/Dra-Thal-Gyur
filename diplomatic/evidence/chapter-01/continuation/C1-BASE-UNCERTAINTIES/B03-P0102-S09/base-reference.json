@@ -1,0 +1,112 @@
+{
+  "baseline_commit": "d5a05bc3c9c6abee18459895c4fec8aa6e093548",
+  "anchor_range": [
+    2625,
+    2635
+  ],
+  "warning": "Base reference only, never evidence of comparison-witness agreement",
+  "base_units": [
+    {
+      "id": "U02625",
+      "source_tibetan": "སྒྲ་ཚིག་མིང་གི་ཆོ་འཕྲུལ་དུ། །",
+      "reading_tibetan": "སྒྲ་ཚིག་མིང་གི་ཆོ་འཕྲུལ་དུ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U02626",
+      "source_tibetan": "སྐལ་བ་བཟང་པོ་རྣམས་ལ་སྣང་། །",
+      "reading_tibetan": "སྐལ་བ་བཟང་པོ་རྣམས་ལ་སྣང་། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U02627",
+      "source_tibetan": "དེ་ལྟར་རྫོགས་ཆེན་གསང་བའི་ཚིག །",
+      "reading_tibetan": "དེ་ལྟར་རྫོགས་ཆེན་གསང་བའི་ཚིག །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U02628",
+      "source_tibetan": "ལྷ་དབང་གིས་ནི་ངེས་ཐོས་ནས། །",
+      "reading_tibetan": "ལྷ་དབང་གིས་ནི་ངེས་ཐོས་ནས། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U02629",
+      "source_tibetan": "ལུས་གུས་ཐལ་མོ་ལེགས་སྦྱར་ཏེ། །",
+      "reading_tibetan": "ལུས་གུས་ཐལ་མོ་ལེགས་སྦྱར་ཏེ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U02630",
+      "source_tibetan": "སྟོན་པ་ཉིད་ལ་རྗེས་ཡི་རང་། །",
+      "reading_tibetan": "སྟོན་པ་ཉིད་ལ་རྗེས་ཡི་རང་། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U02631",
+      "source_tibetan": "ཐམས་ཅད་རྫོགས་པ་ཆེན་པོ་ལས། །",
+      "reading_tibetan": "ཐམས་ཅད་རྫོགས་པ་ཆེན་པོ་ལས། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U02632",
+      "source_tibetan": "རང་བཞིན་སྤྲོས་པ་མེད་པར་གྱུར། །",
+      "reading_tibetan": "རང་བཞིན་སྤྲོས་པ་མེད་པར་གྱུར། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U02633",
+      "source_tibetan": "ཆོས་ཉིད་དབྱིངས་ལས་དབྱེར་མེད་པའོ། །",
+      "reading_tibetan": "ཆོས་ཉིད་དབྱིངས་ལས་དབྱེར་མེད་པའོ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U02634",
+      "source_tibetan": "ཞེས་སྒྲ་ཐལ་འགྱུར་ཆེན་པོ་ཆོས་རྣམས་ཀུན་གྱི་རྩ་བ་ལས།",
+      "reading_tibetan": "ཞེས་སྒྲ་ཐལ་འགྱུར་ཆེན་པོ་ཆོས་རྣམས་ཀུན་གྱི་རྩ་བ་ལས།",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U02635",
+      "source_tibetan": "སྣ་ཚོགས་བཀོད་པ་རང་བྱུང་མན་ངག་གི་རྩ་་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་དང་པོའོ།།",
+      "reading_tibetan": "སྣ་ཚོགས་བཀོད་པ་རང་བྱུང་མན་ངག་གི་རྩ་་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་དང་པོའོ།།",
+      "status": "lexically_compared_punctuation_not_certified"
+    }
+  ],
+  "insertions": [
+    {
+      "id": "A2000-C01-S09",
+      "kind": "scan_only_unresolved",
+      "after_unit": "U02635",
+      "before_unit": "U02636",
+      "anchor_sequence": 1,
+      "tibetan_lines": [],
+      "wylie": [],
+      "pdf_page": 102,
+      "bdrc_image": 104,
+      "scan_location": "Short compressed inscription/ornamental-looking annotation in row 2, between chapter-one colophon and chapter-two opening.",
+      "rationale": "Visible scan-only material must be represented by an explicit unresolved marker and linked image, without guessed wording.",
+      "confidence": "high for presence; unresolved for reading",
+      "remaining_uncertainty": "I cannot reliably distinguish a complete Tibetan word sequence. No proposed transcription is safe enough to adopt; possible script/ornamental letter forms must not be normalized into a plausible chapter heading.",
+      "evidence_images": [
+        "evidence/chapter-01/adzom-102-annotation.png"
+      ],
+      "punctuation_policy": "Tibetan tsheg/shad rendered as readable Unicode; this is a lexical reading transcription, not pixel-exact reproduction of space widths or line-fill marks."
+    }
+  ],
+  "separate_annotations": [],
+  "source_inputs": [
+    {
+      "path": "diplomatic/collation/chapter-01/reading-units.json",
+      "sha256": "c398225ec29f12ad27bde5f485dc5fcda630e441e194bed098e3b89a26c12d5b"
+    },
+    {
+      "path": "diplomatic/collation/chapter-01/ch1-scan-insertions.json",
+      "sha256": "9c6fde0772c21e2826695d6d5efec130c05af904c0a5e737c5c18718de36bfb2"
+    },
+    {
+      "path": "diplomatic/collation/chapter-01/additional-interventions.json",
+      "sha256": "044a5ff2d548cb00f42e4dc57b3d7868872a9b06896c9f71f7ff5a8fbb124aac"
+    }
+  ]
+}

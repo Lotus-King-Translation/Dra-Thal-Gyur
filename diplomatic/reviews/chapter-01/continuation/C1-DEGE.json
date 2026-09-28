@@ -1,0 +1,24 @@
+{
+  "task_id": "C1-DEGE",
+  "status": "in_progress",
+  "baseline_commit": "d5a05bc3c9c6abee18459895c4fec8aa6e093548",
+  "declared_scope": "Continuous PDF3–54 through row3; opening1–2 exact endings, interlinear material and signs remain partial.",
+  "chapter_complete": false,
+  "coverage_complete": false,
+  "batches": [
+    {
+      "batch_id": "B01-P0003",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-DEGE-B01-P0003-reader",
+      "baseline_commit": "d5a05bc3c9c6abee18459895c4fec8aa6e093548",
+      "scope": "DEGE PDF3: establish actual opening/closing anchors, then inspect all seven main rows and all interlinear/marginal source material and signs. PDF2/4 are contextual flanks only; earlier opening reports did not certify them fully. Broad U1-250 base range is a locator aid, NOT an inferred page mapping. Read source independently wherever it disagrees. Retain faint letter components with exact bounds rather than treating the entire page as unavailable. Native color images are authoritative; any explicitly labeled channel view is only a deterministic contrast aid, not new pixels or another witness.",
+      "target_page": 3,
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B01-P0003/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
+    }
+  ],
+  "current_wave_id": "CONTINUE2-W02"
+}

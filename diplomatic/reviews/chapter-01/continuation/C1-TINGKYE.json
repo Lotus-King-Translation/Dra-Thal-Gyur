@@ -5022,6 +5022,19 @@
       },
       "whole_pages_newly_certified": [],
       "prior_verified_raw_report_commit": "66076df0a746baeab74630407e6bcbb4059db2de"
+    },
+    {
+      "batch_id": "B03-P0005",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-TINGKYE-B03-P0005-reader",
+      "baseline_commit": "d5a05bc3c9c6abee18459895c4fec8aa6e093548",
+      "scope": "TINGKYE PDF5 all seven main rows, margins, notes and signs. Previous continuous report ends PDF4 row7 U00127 through པར, with a questioned outgoing word on PDF5 row1. Establish that word from pixels, then continue U00128 onward across the entire page. PDF4 and PDF6 are boundary context only. No inherited whole-page agreement is inferred from the earlier PDF6 isolated junction. Give actual source-ordered rows, every local conflict, precisely bounded unread components and true outgoing anchor.",
+      "target_page": 5,
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B03-P0005/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B03-P0005-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
     }
   ],
   "remaining_declared_scope": "PDF3 local uncertainties/signs/margins; PDF4 rows4-7 and listed questions; PDF5 all; PDF6 outside U180-184 junction; PDF7 all; remainder of declared witness coverage unchanged.",
@@ -5078,5 +5091,6 @@
   ],
   "prior_material_limits": "Archived61-69 commands and the retained 176-finding summary are hypotheses/provenance, not a recovered continuous body or new scan agreement. No archived script was executed. Current PDF6 junction review supersedes the old U183/U184 absence and U182 nas-addition claims. Earlier opening and boundary records remain partial.",
   "current_batch_id": "B02-P0004-R4-R7",
-  "next_physical_span": "PDF5 row1, U00127 outgoing join and U00128 onward; PDF4 targeted glyph and marginal questions remain visible."
+  "next_physical_span": "PDF5 row1, U00127 outgoing join and U00128 onward; PDF4 targeted glyph and marginal questions remain visible.",
+  "current_wave_id": "CONTINUE2-W02"
 }

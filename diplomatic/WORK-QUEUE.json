@@ -427,7 +427,7 @@
       "id": "C1-BASE-UNCERTAINTIES",
       "kind": "base_uncertainties",
       "status": "in_progress",
-      "owner": "ChatGPT-coordinator-20260928-continue2",
+      "owner": "separate-page-readers-CONTINUE2-W02",
       "depends_on": [
         "C1-BASE-LAYERS"
       ],
@@ -463,18 +463,20 @@
       "checkpoint_commit": "b3b10d56c395bc0896463c5e66e2974e35db1df1",
       "blocker": null,
       "dependency_policy": "preferred_order",
-      "current_batch_id": "B02-P0101",
+      "current_batch_id": "B03-P0102-S09",
       "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate.",
       "current_batch_result": "U01522 component inventory extended without an adopted reading; next independent source question PDF101 U02615/U02620, while U01522 stays explicitly unresolved.",
       "prior_owner_at_reassignment": "reader-base-uncertainties-B01-20260928",
       "reassignment_note": "Previous reader finished and was published at b3b10d5; its report remains unchanged. No orphan reader or unpublished inherited work was found.",
-      "next_physical_span": "PDF102 S09 boundary inscription, then title/portrait scopes; preserve the unresolved PDF60/PDF101 findings without endlessly repeating identical evidence."
+      "next_physical_span": "PDF102 S09 boundary inscription, then title/portrait scopes; preserve the unresolved PDF60/PDF101 findings without endlessly repeating identical evidence.",
+      "current_wave_id": "CONTINUE2-W02",
+      "bounded_parallel_policy": "Each reader owns one target page and at most three source pages including context; coordinator alone publishes and no unfinished page is inferred complete from a neighbor."
     },
     {
       "id": "C1-BASE-PHYSICAL",
       "kind": "base_signs_and_layers",
       "status": "in_progress",
-      "owner": "ChatGPT-coordinator-20260928-continue2",
+      "owner": "separate-page-readers-CONTINUE2-W02",
       "depends_on": [
         "C1-BASE-UNCERTAINTIES"
       ],
@@ -607,12 +609,14 @@
           "canonical_uncertainty_note": "SIGNS-VERIFIED-20260928-U01557"
         }
       ],
-      "current_batch_id": "B02-P0003",
+      "current_batch_id": "B03-P0004",
       "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate.",
       "current_batch_result": "Partial PDF1-5 physical ledger:13 specific boundary assessments, no newly completed full pages. Complete missing boundaries in one-page sub-batches.",
       "prior_owner_at_reassignment": "reader-base-physical-B01-20260928",
       "reassignment_note": "Previous reader finished and was published at b3b10d5; its report remains unchanged. No orphan reader or unpublished inherited work was found.",
-      "next_physical_span": "PDF4 full physical inventory and remaining page1/2/5 scopes; PDF3 has explicitly bounded remaining graphic questions, not unread whole rows."
+      "next_physical_span": "PDF4 full physical inventory and remaining page1/2/5 scopes; PDF3 has explicitly bounded remaining graphic questions, not unread whole rows.",
+      "current_wave_id": "CONTINUE2-W02",
+      "bounded_parallel_policy": "Each reader owns one target page and at most three source pages including context; coordinator alone publishes and no unfinished page is inferred complete from a neighbor."
     },
     {
       "id": "C1-DZONGSAR",
@@ -648,7 +652,7 @@
       "id": "C1-TINGKYE",
       "kind": "witness_coverage",
       "status": "in_progress",
-      "owner": "ChatGPT-coordinator-20260928-continue2",
+      "owner": "separate-page-readers-CONTINUE2-W02",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -678,18 +682,20 @@
       "checkpoint_commit": "b3b10d56c395bc0896463c5e66e2974e35db1df1",
       "blocker": null,
       "dependency_policy": "preferred_order",
-      "current_batch_id": "B02-P0004-R4-R7",
+      "current_batch_id": "B03-P0005",
       "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate.",
       "current_batch_result": "Partial continuous comparison through PDF4 row3, with an isolated PDF6 junction; next is PDF4 row4 U00106 continuation, not PDF8.",
       "prior_owner_at_reassignment": "reader-tingkye-B01-20260928",
       "reassignment_note": "Previous reader finished and was published at b3b10d5; its report remains unchanged. No orphan reader or unpublished inherited work was found.",
-      "next_physical_span": "PDF5 row1, U00127 outgoing join and U00128 onward; PDF4 targeted glyph and marginal questions remain visible."
+      "next_physical_span": "PDF5 row1, U00127 outgoing join and U00128 onward; PDF4 targeted glyph and marginal questions remain visible.",
+      "current_wave_id": "CONTINUE2-W02",
+      "bounded_parallel_policy": "Each reader owns one target page and at most three source pages including context; coordinator alone publishes and no unfinished page is inferred complete from a neighbor."
     },
     {
       "id": "C1-TSAMDRAK",
       "kind": "witness_coverage",
       "status": "in_progress",
-      "owner": "ChatGPT-coordinator-20260928-continue2",
+      "owner": "separate-page-readers-CONTINUE2-W02",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -716,12 +722,14 @@
       "checkpoint_commit": "b3b10d56c395bc0896463c5e66e2974e35db1df1",
       "blocker": null,
       "dependency_policy": "preferred_order",
-      "current_batch_id": "B02-P0014",
+      "current_batch_id": "B03-P0015",
       "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate.",
       "current_batch_result": "Target test distinguishes U30 thos; U12 vowel remains unresolved and U148 rtog reading is qualified. Continue new comparison at PDF14 without repeating opening passes.",
       "prior_owner_at_reassignment": "reader-tsamdrak-B01-20260928",
       "reassignment_note": "Previous reader finished and was published at b3b10d5; its report remains unchanged. No orphan reader or unpublished inherited work was found.",
-      "next_physical_span": "PDF15 row1, expected following U00383 but exact source correspondence must be established; preserve PDF14 bounded questions."
+      "next_physical_span": "PDF15 row1, expected following U00383 but exact source correspondence must be established; preserve PDF14 bounded questions.",
+      "current_wave_id": "CONTINUE2-W02",
+      "bounded_parallel_policy": "Each reader owns one target page and at most three source pages including context; coordinator alone publishes and no unfinished page is inferred complete from a neighbor."
     },
     {
       "id": "C1-THARPALING",
@@ -758,8 +766,8 @@
     {
       "id": "C1-DEGE",
       "kind": "witness_coverage",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "separate-page-readers-CONTINUE2-W02",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -779,10 +787,16 @@
       "completion_criteria": [
         "Apply every coverage_review criterion to the full stated scope; retain exact remaining spans until completed."
       ],
-      "report_paths": [],
+      "report_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-DEGE.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-DEGE.md"
+      ],
       "checkpoint_commit": null,
       "blocker": null,
-      "dependency_policy": "preferred_order"
+      "dependency_policy": "preferred_order",
+      "current_wave_id": "CONTINUE2-W02",
+      "current_batch_id": "B01-P0003",
+      "bounded_parallel_policy": "Each reader owns one target page and at most three source pages including context; coordinator alone publishes and no unfinished page is inferred complete from a neighbor."
     },
     {
       "id": "C1-GADKAR",

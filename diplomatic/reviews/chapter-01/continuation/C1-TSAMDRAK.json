@@ -2824,6 +2824,19 @@
       },
       "whole_pages_newly_certified": [],
       "prior_verified_raw_report_commit": "66076df0a746baeab74630407e6bcbb4059db2de"
+    },
+    {
+      "batch_id": "B03-P0015",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-TSAMDRAK-B03-P0015-reader",
+      "baseline_commit": "d5a05bc3c9c6abee18459895c4fec8aa6e093548",
+      "scope": "TSAMDRAK PDF15 all seven main rows, non-main regions and signs. PDF14 ended at U00383 དམིགས་པ་ཡུལ་གྱི་བློ་རྣམས་ལ. Establish the next actual source anchor rather than infer proportional mapping. PDF14/16 are boundary context only. Preserve physical notes/numerals separately, including local absence of a base heading rather than calling it an omitted main verse. Inspect every row despite isolated unclear glyphs.",
+      "target_page": 15,
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B03-P0015/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B03-P0015-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
     }
   ],
   "remaining_declared_scope": "Resolve recorded opening1–13 suffix/stack uncertainties; reliable continuous PDF14–83 through row6, including signs/source notes.",
@@ -2847,5 +2860,6 @@
   ],
   "reliability_assessment": "Visual reading occurred. The inspection distinguishes the two opening constructions and supports a specific final-sa omission at U00148. It does not resolve the lower component distinguishing bstan from bstun at U00012; a claim that all three questions are settled would exceed this reading.",
   "current_batch_id": "B02-P0014",
-  "next_physical_span": "PDF15 row1, expected following U00383 but exact source correspondence must be established; preserve PDF14 bounded questions."
+  "next_physical_span": "PDF15 row1, expected following U00383 but exact source correspondence must be established; preserve PDF14 bounded questions.",
+  "current_wave_id": "CONTINUE2-W02"
 }
