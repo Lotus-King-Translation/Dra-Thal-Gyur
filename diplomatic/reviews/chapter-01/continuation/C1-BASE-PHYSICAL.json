@@ -2173,8 +2173,21 @@
         }
       },
       "whole_pages_newly_certified": []
+    },
+    {
+      "batch_id": "B02-P0003",
+      "baseline_commit": "b3b10d56c395bc0896463c5e66e2974e35db1df1",
+      "status": "claimed_prepared_not_read",
+      "owner": "independent-reader-C1-BASE-PHYSICAL-B02-P0003-reader",
+      "scope": "Complete physical inventory of PDF3 only, all four main rows and margins. PDF2 and PDF4 are incoming/outgoing context only. Retain accepted previous lexical readings and exact prior local interventions.",
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B02-P0003-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
     }
   ],
   "remaining_declared_scope": "All unlisted physical dimensions on PDF1-5, plus PDF6-102; existing lexical pass and verified local signs retained. Next sub-batches complete page3,4,5 separately, with the exact prior record references supplied.",
-  "protocol": "coverage_review"
+  "protocol": "coverage_review",
+  "current_batch_id": "B02-P0003"
 }

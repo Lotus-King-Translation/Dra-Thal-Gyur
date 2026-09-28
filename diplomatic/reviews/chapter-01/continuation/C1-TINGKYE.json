@@ -2777,6 +2777,18 @@
       },
       "whole_pages_newly_certified": [],
       "prior_verified_raw_report_commit": "36d3f88b0e5b477a43829cf0dddc1ac8bba3c2df"
+    },
+    {
+      "batch_id": "B02-P0004-R4-R7",
+      "baseline_commit": "b3b10d56c395bc0896463c5e66e2974e35db1df1",
+      "status": "claimed_prepared_not_read",
+      "owner": "independent-reader-C1-TINGKYE-B02-P0004-R4-R7-reader",
+      "scope": "Resume continuous comparison at PDF4 row4 U00106 sa bon; complete rows4-7 only, with PDF5 row1 outgoing context. Earlier PDF4 rows1-3 have saved comparison and must not be reclassified as newly done.",
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B02-P0004-R4-R7-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
     }
   ],
   "remaining_declared_scope": "PDF3 local uncertainties/signs/margins; PDF4 rows4-7 and listed questions; PDF5 all; PDF6 outside U180-184 junction; PDF7 all; remainder of declared witness coverage unchanged.",
@@ -2831,5 +2843,6 @@
       "sha256": "c00ab8f23133f8fefd79063f8d03f444a05257ceb20d5c60d4b91a121c66aa77"
     }
   ],
-  "prior_material_limits": "Archived61-69 commands and the retained 176-finding summary are hypotheses/provenance, not a recovered continuous body or new scan agreement. No archived script was executed. Current PDF6 junction review supersedes the old U183/U184 absence and U182 nas-addition claims. Earlier opening and boundary records remain partial."
+  "prior_material_limits": "Archived61-69 commands and the retained 176-finding summary are hypotheses/provenance, not a recovered continuous body or new scan agreement. No archived script was executed. Current PDF6 junction review supersedes the old U183/U184 absence and U182 nas-addition claims. Earlier opening and boundary records remain partial.",
+  "current_batch_id": "B02-P0004-R4-R7"
 }

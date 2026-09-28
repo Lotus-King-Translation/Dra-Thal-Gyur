@@ -427,7 +427,7 @@
       "id": "C1-BASE-UNCERTAINTIES",
       "kind": "base_uncertainties",
       "status": "in_progress",
-      "owner": "reader-base-uncertainties-B01-20260928",
+      "owner": "independent-reader-C1-BASE-UNCERTAINTIES-B02-P0101-reader",
       "depends_on": [
         "C1-BASE-LAYERS"
       ],
@@ -460,18 +460,20 @@
         "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES.json",
         "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES.md"
       ],
-      "checkpoint_commit": "21de152e4df880c6530c8fb9aa1dbcd9b57b1602",
+      "checkpoint_commit": "b3b10d56c395bc0896463c5e66e2974e35db1df1",
       "blocker": null,
       "dependency_policy": "preferred_order",
-      "current_batch_id": "B01-U01522",
+      "current_batch_id": "B02-P0101",
       "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate.",
-      "current_batch_result": "U01522 component inventory extended without an adopted reading; next independent source question PDF101 U02615/U02620, while U01522 stays explicitly unresolved."
+      "current_batch_result": "U01522 component inventory extended without an adopted reading; next independent source question PDF101 U02615/U02620, while U01522 stays explicitly unresolved.",
+      "prior_owner_at_reassignment": "reader-base-uncertainties-B01-20260928",
+      "reassignment_note": "Previous reader finished and was published at b3b10d5; its report remains unchanged. No orphan reader or unpublished inherited work was found."
     },
     {
       "id": "C1-BASE-PHYSICAL",
       "kind": "base_signs_and_layers",
       "status": "in_progress",
-      "owner": "reader-base-physical-B01-20260928",
+      "owner": "independent-reader-C1-BASE-PHYSICAL-B02-P0003-reader",
       "depends_on": [
         "C1-BASE-UNCERTAINTIES"
       ],
@@ -511,7 +513,7 @@
         "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL.json",
         "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL.md"
       ],
-      "checkpoint_commit": "21de152e4df880c6530c8fb9aa1dbcd9b57b1602",
+      "checkpoint_commit": "b3b10d56c395bc0896463c5e66e2974e35db1df1",
       "blocker": null,
       "dependency_policy": "preferred_order",
       "carried_forward_uncertainties": [
@@ -604,9 +606,11 @@
           "canonical_uncertainty_note": "SIGNS-VERIFIED-20260928-U01557"
         }
       ],
-      "current_batch_id": "B01-P0001-0005",
+      "current_batch_id": "B02-P0003",
       "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate.",
-      "current_batch_result": "Partial PDF1-5 physical ledger:13 specific boundary assessments, no newly completed full pages. Complete missing boundaries in one-page sub-batches."
+      "current_batch_result": "Partial PDF1-5 physical ledger:13 specific boundary assessments, no newly completed full pages. Complete missing boundaries in one-page sub-batches.",
+      "prior_owner_at_reassignment": "reader-base-physical-B01-20260928",
+      "reassignment_note": "Previous reader finished and was published at b3b10d5; its report remains unchanged. No orphan reader or unpublished inherited work was found."
     },
     {
       "id": "C1-DZONGSAR",
@@ -642,7 +646,7 @@
       "id": "C1-TINGKYE",
       "kind": "witness_coverage",
       "status": "in_progress",
-      "owner": "reader-tingkye-B01-20260928",
+      "owner": "independent-reader-C1-TINGKYE-B02-P0004-R4-R7-reader",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -669,18 +673,20 @@
         "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE.json",
         "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE.md"
       ],
-      "checkpoint_commit": "21de152e4df880c6530c8fb9aa1dbcd9b57b1602",
+      "checkpoint_commit": "b3b10d56c395bc0896463c5e66e2974e35db1df1",
       "blocker": null,
       "dependency_policy": "preferred_order",
-      "current_batch_id": "B01-P0003-0007",
+      "current_batch_id": "B02-P0004-R4-R7",
       "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate.",
-      "current_batch_result": "Partial continuous comparison through PDF4 row3, with an isolated PDF6 junction; next is PDF4 row4 U00106 continuation, not PDF8."
+      "current_batch_result": "Partial continuous comparison through PDF4 row3, with an isolated PDF6 junction; next is PDF4 row4 U00106 continuation, not PDF8.",
+      "prior_owner_at_reassignment": "reader-tingkye-B01-20260928",
+      "reassignment_note": "Previous reader finished and was published at b3b10d5; its report remains unchanged. No orphan reader or unpublished inherited work was found."
     },
     {
       "id": "C1-TSAMDRAK",
       "kind": "witness_coverage",
       "status": "in_progress",
-      "owner": "reader-tsamdrak-B01-20260928",
+      "owner": "independent-reader-C1-TSAMDRAK-B02-P0014-reader",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -704,12 +710,14 @@
         "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK.json",
         "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK.md"
       ],
-      "checkpoint_commit": "21de152e4df880c6530c8fb9aa1dbcd9b57b1602",
+      "checkpoint_commit": "b3b10d56c395bc0896463c5e66e2974e35db1df1",
       "blocker": null,
       "dependency_policy": "preferred_order",
-      "current_batch_id": "B01-OPENING-TEST",
+      "current_batch_id": "B02-P0014",
       "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate.",
-      "current_batch_result": "Target test distinguishes U30 thos; U12 vowel remains unresolved and U148 rtog reading is qualified. Continue new comparison at PDF14 without repeating opening passes."
+      "current_batch_result": "Target test distinguishes U30 thos; U12 vowel remains unresolved and U148 rtog reading is qualified. Continue new comparison at PDF14 without repeating opening passes.",
+      "prior_owner_at_reassignment": "reader-tsamdrak-B01-20260928",
+      "reassignment_note": "Previous reader finished and was published at b3b10d5; its report remains unchanged. No orphan reader or unpublished inherited work was found."
     },
     {
       "id": "C1-THARPALING",

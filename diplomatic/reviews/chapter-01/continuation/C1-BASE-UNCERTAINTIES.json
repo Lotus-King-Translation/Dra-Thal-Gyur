@@ -314,8 +314,21 @@
         "what_changed_relative_to_prior_question": "The intervening shad and substantial extra middle group are explicitly retained in the inventory. The right-hand ending is read independently rather than used to absorb or duplicate the middle strokes. This inspection does not resolve the source-layer relationship.",
         "next_step": "Obtain an independent glyph-by-glyph assessment of x1440–2050, retaining the full row for punctuation and layer assignment; keep the canonical reading qualified pending that assessment."
       }
+    },
+    {
+      "batch_id": "B02-P0101",
+      "baseline_commit": "b3b10d56c395bc0896463c5e66e2974e35db1df1",
+      "status": "claimed_prepared_not_read",
+      "owner": "independent-reader-C1-BASE-UNCERTAINTIES-B02-P0101-reader",
+      "scope": "PDF101 full-page search for U02615 transcript-note wording, and glyph-level reading/source-layer/sign review of U02620. Preserve U01522 bounded findings.",
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B02-P0101-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
     }
   ],
   "remaining_declared_scope": "U01522 bounded unresolved; PDF101 annotations, PDF102 inscription, and title/portrait/foreign-script questions still require their planned reviews.",
-  "protocol": "coverage_review"
+  "protocol": "coverage_review",
+  "current_batch_id": "B02-P0101"
 }

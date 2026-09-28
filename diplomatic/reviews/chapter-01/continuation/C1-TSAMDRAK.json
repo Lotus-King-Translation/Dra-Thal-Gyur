@@ -509,6 +509,18 @@
         ],
         "next_step": "Seek independent component-level adjudication of those two bounded details, using these same witness images and withholding the expected lexical answers."
       }
+    },
+    {
+      "batch_id": "B02-P0014",
+      "baseline_commit": "b3b10d56c395bc0896463c5e66e2974e35db1df1",
+      "status": "claimed_prepared_not_read",
+      "owner": "independent-reader-C1-TSAMDRAK-B02-P0014-reader",
+      "scope": "Compare all seven main rows of PDF14 plus all visible source layers and signs. PDF13 is context for incoming U00350, not new whole-page coverage.",
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B02-P0014-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
     }
   ],
   "remaining_declared_scope": "Resolve recorded opening1–13 suffix/stack uncertainties; reliable continuous PDF14–83 through row6, including signs/source notes.",
@@ -530,5 +542,6 @@
       "question": "Final s after rtog in rtog(s) sangs; known U143 transposition precedes U148 here."
     }
   ],
-  "reliability_assessment": "Visual reading occurred. The inspection distinguishes the two opening constructions and supports a specific final-sa omission at U00148. It does not resolve the lower component distinguishing bstan from bstun at U00012; a claim that all three questions are settled would exceed this reading."
+  "reliability_assessment": "Visual reading occurred. The inspection distinguishes the two opening constructions and supports a specific final-sa omission at U00148. It does not resolve the lower component distinguishing bstan from bstun at U00012; a claim that all three questions are settled would exceed this reading.",
+  "current_batch_id": "B02-P0014"
 }

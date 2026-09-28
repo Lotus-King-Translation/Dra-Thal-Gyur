@@ -1,0 +1,755 @@
+{
+  "baseline_commit": "b3b10d56c395bc0896463c5e66e2974e35db1df1",
+  "status": "requests_ready_pending_checkpoint",
+  "plans": [
+    {
+      "task": "C1-BASE-UNCERTAINTIES",
+      "batch": "B02-P0101",
+      "edition": "adzom-2000",
+      "pages": [
+        101
+      ],
+      "lo": 2580,
+      "hi": 2635,
+      "target": "PDF101 full-page search for U02615 transcript-note wording, and glyph-level reading/source-layer/sign review of U02620. Preserve U01522 bounded findings.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/manifest.json",
+      "focused_views": [
+        {
+          "pdf_page": 101,
+          "bdrc_image": 103,
+          "source_member": "0103.png",
+          "source_member_sha256": "889567c7817c2ef1163dbbb3329e8ece5a770c8cfd172aa1ca49511dca17fafe",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/U02615-row3-context.png",
+          "sha256": "a836924a1253421922bff4e13177957abe1699381d769d6305f806dbfb2a7c44",
+          "native_bounds": [
+            2360,
+            475,
+            4400,
+            645
+          ],
+          "dimensions": [
+            2040,
+            170
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 101,
+          "bdrc_image": 103,
+          "source_member": "0103.png",
+          "source_member_sha256": "889567c7817c2ef1163dbbb3329e8ece5a770c8cfd172aa1ca49511dca17fafe",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/U02620-note-context.png",
+          "sha256": "2811a2a5624443919a67f6ecac2dc690a18c3b7073e8804138cb5daad6b503d6",
+          "native_bounds": [
+            2760,
+            595,
+            3870,
+            805
+          ],
+          "dimensions": [
+            1110,
+            210
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 101,
+          "bdrc_image": 103,
+          "source_member": "0103.png",
+          "source_member_sha256": "889567c7817c2ef1163dbbb3329e8ece5a770c8cfd172aa1ca49511dca17fafe",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/row4-left-context.png",
+          "sha256": "4368184ba6eaf4caef82ecdd65f93cf423544c8743ade914e410dc9a32d6df68",
+          "native_bounds": [
+            700,
+            570,
+            2800,
+            845
+          ],
+          "dimensions": [
+            2100,
+            275
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 101,
+          "bdrc_image": 103,
+          "source_member": "0103.png",
+          "source_member_sha256": "889567c7817c2ef1163dbbb3329e8ece5a770c8cfd172aa1ca49511dca17fafe",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/row4-right-context.png",
+          "sha256": "7260580b5ae143c67b868683bccf15f6bc29752549a1c5c122d5174512a11fee",
+          "native_bounds": [
+            2670,
+            570,
+            5200,
+            845
+          ],
+          "dimensions": [
+            2530,
+            275
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        }
+      ],
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B02-P0101-reader-spec.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B02-P0101-reader"
+    },
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B02-P0003",
+      "edition": "adzom-2000",
+      "pages": [
+        2,
+        3,
+        4
+      ],
+      "lo": 5,
+      "hi": 40,
+      "target": "Complete physical inventory of PDF3 only, all four main rows and margins. PDF2 and PDF4 are incoming/outgoing context only. Retain accepted previous lexical readings and exact prior local interventions.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/manifest.json",
+      "focused_views": [
+        {
+          "pdf_page": 3,
+          "bdrc_image": 5,
+          "source_member": "0005.png",
+          "source_member_sha256": "7443efc091b289c3a6a3bae7c01715cbbc29a7fd6ff9958f13af4a714cfbfc79",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row1-left.png",
+          "sha256": "3c08d45fbefe464337c1005150a581180e474509dd6c1bdc6a71f999c3c3694f",
+          "native_bounds": [
+            1300,
+            330,
+            3050,
+            550
+          ],
+          "dimensions": [
+            1750,
+            220
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 3,
+          "bdrc_image": 5,
+          "source_member": "0005.png",
+          "source_member_sha256": "7443efc091b289c3a6a3bae7c01715cbbc29a7fd6ff9958f13af4a714cfbfc79",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row1-right.png",
+          "sha256": "bcc433a76d0359e6e6048a0a81e69a02e18fac29c1631bff7f76700fccdeeb82",
+          "native_bounds": [
+            2900,
+            330,
+            4500,
+            550
+          ],
+          "dimensions": [
+            1600,
+            220
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 3,
+          "bdrc_image": 5,
+          "source_member": "0005.png",
+          "source_member_sha256": "7443efc091b289c3a6a3bae7c01715cbbc29a7fd6ff9958f13af4a714cfbfc79",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row2-left.png",
+          "sha256": "e608fa3c4a44b84ce340ca018b36002062c2e906ab4525b6dedd3d7228cc5d44",
+          "native_bounds": [
+            1300,
+            475,
+            3050,
+            680
+          ],
+          "dimensions": [
+            1750,
+            205
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 3,
+          "bdrc_image": 5,
+          "source_member": "0005.png",
+          "source_member_sha256": "7443efc091b289c3a6a3bae7c01715cbbc29a7fd6ff9958f13af4a714cfbfc79",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row2-right.png",
+          "sha256": "fb4c11f01e2d612ec8e272bb999338d02256511551be713cda99dddabec1a160",
+          "native_bounds": [
+            2900,
+            475,
+            4500,
+            680
+          ],
+          "dimensions": [
+            1600,
+            205
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 3,
+          "bdrc_image": 5,
+          "source_member": "0005.png",
+          "source_member_sha256": "7443efc091b289c3a6a3bae7c01715cbbc29a7fd6ff9958f13af4a714cfbfc79",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row3-left.png",
+          "sha256": "530c3210893d1e7a27c952f2763d4ddcc6a503ff467b77017a436e6a0404e026",
+          "native_bounds": [
+            1300,
+            605,
+            3050,
+            805
+          ],
+          "dimensions": [
+            1750,
+            200
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 3,
+          "bdrc_image": 5,
+          "source_member": "0005.png",
+          "source_member_sha256": "7443efc091b289c3a6a3bae7c01715cbbc29a7fd6ff9958f13af4a714cfbfc79",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row3-right.png",
+          "sha256": "ff433c1655b74330341a2b5298798da9879362a3e16eaec05ed54d222a5edc1c",
+          "native_bounds": [
+            2900,
+            605,
+            4500,
+            805
+          ],
+          "dimensions": [
+            1600,
+            200
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 3,
+          "bdrc_image": 5,
+          "source_member": "0005.png",
+          "source_member_sha256": "7443efc091b289c3a6a3bae7c01715cbbc29a7fd6ff9958f13af4a714cfbfc79",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row4-left.png",
+          "sha256": "cefce1c170297269c3e698fadb605a4c3f98e3c55b9849f370b6fb85e283a1cc",
+          "native_bounds": [
+            1300,
+            735,
+            3050,
+            940
+          ],
+          "dimensions": [
+            1750,
+            205
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 3,
+          "bdrc_image": 5,
+          "source_member": "0005.png",
+          "source_member_sha256": "7443efc091b289c3a6a3bae7c01715cbbc29a7fd6ff9958f13af4a714cfbfc79",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row4-right.png",
+          "sha256": "a3708e58a019fc3df5da1c8de30bfc381910371a945b90151b8581cea1b8c647",
+          "native_bounds": [
+            2900,
+            735,
+            4500,
+            940
+          ],
+          "dimensions": [
+            1600,
+            205
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        }
+      ],
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B02-P0003-reader-spec.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B02-P0003-reader"
+    },
+    {
+      "task": "C1-TINGKYE",
+      "batch": "B02-P0004-R4-R7",
+      "edition": "tingkye-1973",
+      "pages": [
+        4,
+        5
+      ],
+      "lo": 88,
+      "hi": 170,
+      "target": "Resume continuous comparison at PDF4 row4 U00106 sa bon; complete rows4-7 only, with PDF5 row1 outgoing context. Earlier PDF4 rows1-3 have saved comparison and must not be reclassified as newly done.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/manifest.json",
+      "focused_views": [
+        {
+          "pdf_page": 4,
+          "bdrc_image": 397,
+          "source_member": "0397.png",
+          "source_member_sha256": "c0c7f00d06caa8e091a1d78586389c62f611fe24ce75bffb25e19872793c764f",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-left.png",
+          "sha256": "112fb7ad4c7a04571ac86b23873e898b207f56f3591c36943cf178be8665b8b3",
+          "native_bounds": [
+            520,
+            490,
+            2250,
+            645
+          ],
+          "dimensions": [
+            1730,
+            155
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 4,
+          "bdrc_image": 397,
+          "source_member": "0397.png",
+          "source_member_sha256": "c0c7f00d06caa8e091a1d78586389c62f611fe24ce75bffb25e19872793c764f",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row4-right.png",
+          "sha256": "57a2130573bb3a2098b4f4659d742bec4c1d00389aeeb9d3b8b9e83bd2834baf",
+          "native_bounds": [
+            2150,
+            490,
+            3850,
+            645
+          ],
+          "dimensions": [
+            1700,
+            155
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 4,
+          "bdrc_image": 397,
+          "source_member": "0397.png",
+          "source_member_sha256": "c0c7f00d06caa8e091a1d78586389c62f611fe24ce75bffb25e19872793c764f",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-left.png",
+          "sha256": "11f677db9883b6a1edd21755997604443ffde7ebc5e7eaa2236fa15a068bf9f7",
+          "native_bounds": [
+            520,
+            575,
+            2250,
+            730
+          ],
+          "dimensions": [
+            1730,
+            155
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 4,
+          "bdrc_image": 397,
+          "source_member": "0397.png",
+          "source_member_sha256": "c0c7f00d06caa8e091a1d78586389c62f611fe24ce75bffb25e19872793c764f",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row5-right.png",
+          "sha256": "20918541e340dad561877bb84e41bd8a00bb5c631e52300afa9d16a5d82351e5",
+          "native_bounds": [
+            2150,
+            575,
+            3850,
+            730
+          ],
+          "dimensions": [
+            1700,
+            155
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 4,
+          "bdrc_image": 397,
+          "source_member": "0397.png",
+          "source_member_sha256": "c0c7f00d06caa8e091a1d78586389c62f611fe24ce75bffb25e19872793c764f",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-left.png",
+          "sha256": "1f09afced023bac2f570f97943bb07014068d386d358423c83d1a9574cded06f",
+          "native_bounds": [
+            520,
+            660,
+            2250,
+            815
+          ],
+          "dimensions": [
+            1730,
+            155
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 4,
+          "bdrc_image": 397,
+          "source_member": "0397.png",
+          "source_member_sha256": "c0c7f00d06caa8e091a1d78586389c62f611fe24ce75bffb25e19872793c764f",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row6-right.png",
+          "sha256": "64382b1b3dc8abd3fc16ec86979f7a54e12c702e6f9f7f8fc3d1696b32cad547",
+          "native_bounds": [
+            2150,
+            660,
+            3850,
+            815
+          ],
+          "dimensions": [
+            1700,
+            155
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 4,
+          "bdrc_image": 397,
+          "source_member": "0397.png",
+          "source_member_sha256": "c0c7f00d06caa8e091a1d78586389c62f611fe24ce75bffb25e19872793c764f",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-left.png",
+          "sha256": "9aedb54ced9850137e490995f61301cb0857f16ad201f012a817155f73328bf4",
+          "native_bounds": [
+            520,
+            740,
+            2250,
+            900
+          ],
+          "dimensions": [
+            1730,
+            160
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 4,
+          "bdrc_image": 397,
+          "source_member": "0397.png",
+          "source_member_sha256": "c0c7f00d06caa8e091a1d78586389c62f611fe24ce75bffb25e19872793c764f",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B02-P0004-R4-R7/row7-right.png",
+          "sha256": "37083e45ce407131aef63ee63cbf3baf2cde5519e8a9f7ad79284760b977814f",
+          "native_bounds": [
+            2150,
+            740,
+            3850,
+            900
+          ],
+          "dimensions": [
+            1700,
+            160
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        }
+      ],
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B02-P0004-R4-R7-reader-spec.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B02-P0004-R4-R7-reader"
+    },
+    {
+      "task": "C1-TSAMDRAK",
+      "batch": "B02-P0014",
+      "edition": "tsamdrak-1982",
+      "pages": [
+        13,
+        14
+      ],
+      "lo": 325,
+      "hi": 410,
+      "target": "Compare all seven main rows of PDF14 plus all visible source layers and signs. PDF13 is context for incoming U00350, not new whole-page coverage.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/manifest.json",
+      "focused_views": [
+        {
+          "pdf_page": 14,
+          "bdrc_image": 17,
+          "source_member": "0017.png",
+          "source_member_sha256": "b0903f2b5aa911504e6188dfe90bb5626d5f32e00ce274b4a30b70ca9f436123",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-left.png",
+          "sha256": "3638d1b7e4cf921ef97f0b47f5c79e96d80a6ea94405c19acb8d5934caea9128",
+          "native_bounds": [
+            400,
+            220,
+            2240,
+            385
+          ],
+          "dimensions": [
+            1840,
+            165
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 14,
+          "bdrc_image": 17,
+          "source_member": "0017.png",
+          "source_member_sha256": "b0903f2b5aa911504e6188dfe90bb5626d5f32e00ce274b4a30b70ca9f436123",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row1-right.png",
+          "sha256": "b62ee2e46ea57fc9c51aa65e5d5c632d0f1a0a21a0e289c42d42801b105429a6",
+          "native_bounds": [
+            2130,
+            220,
+            3980,
+            385
+          ],
+          "dimensions": [
+            1850,
+            165
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 14,
+          "bdrc_image": 17,
+          "source_member": "0017.png",
+          "source_member_sha256": "b0903f2b5aa911504e6188dfe90bb5626d5f32e00ce274b4a30b70ca9f436123",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-left.png",
+          "sha256": "4820b0658c0115ab274e6bada116402f060c2b852b2fc5fc84ffb09306bea275",
+          "native_bounds": [
+            400,
+            325,
+            2240,
+            490
+          ],
+          "dimensions": [
+            1840,
+            165
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 14,
+          "bdrc_image": 17,
+          "source_member": "0017.png",
+          "source_member_sha256": "b0903f2b5aa911504e6188dfe90bb5626d5f32e00ce274b4a30b70ca9f436123",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row2-right.png",
+          "sha256": "ba0584da46a83a82eb837a0b743f840b494d4c3d05bf7369d708c9d704f24860",
+          "native_bounds": [
+            2130,
+            325,
+            3980,
+            490
+          ],
+          "dimensions": [
+            1850,
+            165
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 14,
+          "bdrc_image": 17,
+          "source_member": "0017.png",
+          "source_member_sha256": "b0903f2b5aa911504e6188dfe90bb5626d5f32e00ce274b4a30b70ca9f436123",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-left.png",
+          "sha256": "d20ad778cd0fce26ce60ff5097c605419cd43bbc6a54de6bfc1cad950b10e7a5",
+          "native_bounds": [
+            400,
+            410,
+            2240,
+            575
+          ],
+          "dimensions": [
+            1840,
+            165
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 14,
+          "bdrc_image": 17,
+          "source_member": "0017.png",
+          "source_member_sha256": "b0903f2b5aa911504e6188dfe90bb5626d5f32e00ce274b4a30b70ca9f436123",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row3-right.png",
+          "sha256": "1724f3f1c7352c72b2471d62fe321c6f4cdb5f78f399e09aca5df1c7d24b63cc",
+          "native_bounds": [
+            2130,
+            410,
+            3980,
+            575
+          ],
+          "dimensions": [
+            1850,
+            165
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 14,
+          "bdrc_image": 17,
+          "source_member": "0017.png",
+          "source_member_sha256": "b0903f2b5aa911504e6188dfe90bb5626d5f32e00ce274b4a30b70ca9f436123",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-left.png",
+          "sha256": "97e4687b9f361eb174f103ce114c82ce851aea922b954f8fc150504b284309ca",
+          "native_bounds": [
+            400,
+            505,
+            2240,
+            670
+          ],
+          "dimensions": [
+            1840,
+            165
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 14,
+          "bdrc_image": 17,
+          "source_member": "0017.png",
+          "source_member_sha256": "b0903f2b5aa911504e6188dfe90bb5626d5f32e00ce274b4a30b70ca9f436123",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row4-right.png",
+          "sha256": "5448630d4e9635157dff16813cc985e940ae2c8a26d9ad3c32dfb33e1a618287",
+          "native_bounds": [
+            2130,
+            505,
+            3980,
+            670
+          ],
+          "dimensions": [
+            1850,
+            165
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 14,
+          "bdrc_image": 17,
+          "source_member": "0017.png",
+          "source_member_sha256": "b0903f2b5aa911504e6188dfe90bb5626d5f32e00ce274b4a30b70ca9f436123",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-left.png",
+          "sha256": "190a95892ac84ce8158c51c147b2a99eed74a631bdc7fd084001422e34b5e8b3",
+          "native_bounds": [
+            400,
+            600,
+            2240,
+            765
+          ],
+          "dimensions": [
+            1840,
+            165
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 14,
+          "bdrc_image": 17,
+          "source_member": "0017.png",
+          "source_member_sha256": "b0903f2b5aa911504e6188dfe90bb5626d5f32e00ce274b4a30b70ca9f436123",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row5-right.png",
+          "sha256": "85cc9af89771ebfa808b931791203e3416485a147147bc26105b154adbd7d536",
+          "native_bounds": [
+            2130,
+            600,
+            3980,
+            765
+          ],
+          "dimensions": [
+            1850,
+            165
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 14,
+          "bdrc_image": 17,
+          "source_member": "0017.png",
+          "source_member_sha256": "b0903f2b5aa911504e6188dfe90bb5626d5f32e00ce274b4a30b70ca9f436123",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-left.png",
+          "sha256": "c773950135a9d803d7477cd1261f5dad5687db99ea2abd3c77d41f75d59cdb1e",
+          "native_bounds": [
+            400,
+            690,
+            2240,
+            855
+          ],
+          "dimensions": [
+            1840,
+            165
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 14,
+          "bdrc_image": 17,
+          "source_member": "0017.png",
+          "source_member_sha256": "b0903f2b5aa911504e6188dfe90bb5626d5f32e00ce274b4a30b70ca9f436123",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row6-right.png",
+          "sha256": "365f3d4db8d732191367c4888964cfc64ab9e49afc1bfdd9c41630c5170bca13",
+          "native_bounds": [
+            2130,
+            690,
+            3980,
+            855
+          ],
+          "dimensions": [
+            1850,
+            165
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 14,
+          "bdrc_image": 17,
+          "source_member": "0017.png",
+          "source_member_sha256": "b0903f2b5aa911504e6188dfe90bb5626d5f32e00ce274b4a30b70ca9f436123",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-left.png",
+          "sha256": "a38a0a84538175ad39f49e375c59d6d94e48e3bc2f70d707fe17e0300d4bfcf8",
+          "native_bounds": [
+            400,
+            770,
+            2240,
+            940
+          ],
+          "dimensions": [
+            1840,
+            170
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        },
+        {
+          "pdf_page": 14,
+          "bdrc_image": 17,
+          "source_member": "0017.png",
+          "source_member_sha256": "b0903f2b5aa911504e6188dfe90bb5626d5f32e00ce274b4a30b70ca9f436123",
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B02-P0014/row7-right.png",
+          "sha256": "bb982d6c85ae9817f2dded413b7b157177b322ac1ddee510c06656f8ed2ef00b",
+          "native_bounds": [
+            2130,
+            770,
+            3980,
+            940
+          ],
+          "dimensions": [
+            1850,
+            170
+          ],
+          "derivation": "Exact unscaled native crop, no enhancement; spatial aid not certification",
+          "pixel_identity_verified": true
+        }
+      ],
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B02-P0014-reader-spec.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B02-P0014-reader"
+    }
+  ],
+  "chapter_complete": false
+}
