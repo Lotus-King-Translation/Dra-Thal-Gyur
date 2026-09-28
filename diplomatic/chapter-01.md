@@ -7561,11 +7561,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 **Restored main text — [A2000-C01-S02](#a2000-c01-s02)**
 
-སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ།
+སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ། །
 
-འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ།
+འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ། །
 
-སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང་།
+སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང་། །
 
 <a id="u01883"></a>
 
@@ -8061,11 +8061,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 **Restored main text — [A2000-C01-S03](#a2000-c01-s03)**
 
-གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ།
+གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ། །
 
-འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ།
+འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ། །
 
-འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས།
+འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས། །
 
 <a id="u02006"></a>
 
@@ -12329,17 +12329,17 @@ After [U01274](#u01274); before U01275. **main_text_restoration**.
 
 After [U01882](#u01882); before U01883. **main_text_restoration**.
 
-**Reading:** སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ། / འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ། / སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང་།
+**Reading:** སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ། ། / འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ། ། / སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང་། །
 
 **Locator:** PDF 74; BDRC image 76; Main row 1, first three verses, before ཆོས་སྐུ་ངོ་བོ་ཉིད་ཀྱི་སྐུ།
 
-**Decision and reason:** Present in scan and omitted in e-text. The second restored verse visibly reads སྐུ་ (sku), not Wikisource's su; adopt the printed reading. The scan has འགྲུབ་ ('grub), retained without grammatical emendation.
+**Decision and reason:** Present in scan and omitted in e-text. The second restored verse visibly reads སྐུ་ (sku), not Wikisource's su; adopt the printed reading. The scan has འགྲུབ་ ('grub), retained without grammatical emendation. C1-BASE-LAYERS-B01 independently reidentified these three main verses and their neighboring sequence; two detached shads at each following boundary are now encoded once, at the preceding restored verse end. No lexical change is made.
 
-**Confidence:** high. **Remaining uncertainty:** No unresolved lexical glyph identified in this focused inspection.
+**Confidence:** High for the three two-shad terminal inventories; retained lexical reading not globally recertified. S02-L3 existing tsheg has qualified medium independent support.. **Remaining uncertainty:** No unresolved lexical glyph identified in this focused inspection.
 
-**Punctuation:** Tibetan tsheg/shad rendered as readable Unicode; this is a lexical reading transcription, not pixel-exact reproduction of space widths or line-fill marks.
+**Punctuation:** Six local restored-verse terminal inventories in S02/S03 reviewed against native context and an independent reader. Each detached boundary mark is encoded once; spaces are editorial separation, not measured print width. This does not certify whole-page punctuation.
 
-**Evidence:** [adzom-074-restoration.png](evidence/chapter-01/adzom-074-restoration.png), [adzom-074-sku-line.png](evidence/chapter-01/adzom-074-sku-line.png)
+**Evidence:** [adzom-074-restoration.png](evidence/chapter-01/adzom-074-restoration.png), [adzom-074-sku-line.png](evidence/chapter-01/adzom-074-sku-line.png), [p074-native.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/p074-native.png), [p074-row1-left-context.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/p074-row1-left-context.png), [p074-row1-middle-context.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/p074-row1-middle-context.png), [S02-L1-terminal.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/S02-L1-terminal.png), [S02-L2-terminal.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/S02-L2-terminal.png), [S02-L3-terminal.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/S02-L3-terminal.png), [C1-BASE-LAYERS.md](reviews/chapter-01/continuation/C1-BASE-LAYERS.md), [C1-BASE-LAYERS-B01-independent-reading.txt](reviews/chapter-01/continuation/C1-BASE-LAYERS-B01-independent-reading.txt)
 
 <a id="a2000-c01-s03"></a>
 
@@ -12347,17 +12347,17 @@ After [U01882](#u01882); before U01883. **main_text_restoration**.
 
 After [U02005](#u02005); before U02006. **main_text_restoration**.
 
-**Reading:** གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ། / འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ། / འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས།
+**Reading:** གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ། ། / འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ། ། / འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས། །
 
 **Locator:** PDF 78; BDRC image 80; Main row 5, right-hand two verses; then row 6, first verse.
 
-**Decision and reason:** Present as full-size root-text verse in the Adzom-2000 facsimile; absent from the cleaned Adzom e-text. Restore from the scan, not by adopting Wikisource as an independent authority.
+**Decision and reason:** Present as full-size root-text verse in the Adzom-2000 facsimile; absent from the cleaned Adzom e-text. Restore from the scan, not by adopting Wikisource as an independent authority. C1-BASE-LAYERS-B01 independently reidentified these three main verses and their neighboring sequence; two detached shads at each following boundary are now encoded once, at the preceding restored verse end. No lexical change is made.
 
-**Confidence:** high. **Remaining uncertainty:** No unresolved lexical glyph identified in this focused inspection.
+**Confidence:** High for the three two-shad terminal inventories; existing lexical readings retained without grammatical repair.. **Remaining uncertainty:** No unresolved lexical glyph identified in this focused inspection.
 
-**Punctuation:** Tibetan tsheg/shad rendered as readable Unicode; this is a lexical reading transcription, not pixel-exact reproduction of space widths or line-fill marks.
+**Punctuation:** Six local restored-verse terminal inventories in S02/S03 reviewed against native context and an independent reader. Each detached boundary mark is encoded once; spaces are editorial separation, not measured print width. This does not certify whole-page punctuation.
 
-**Evidence:** [adzom-078-restoration.png](evidence/chapter-01/adzom-078-restoration.png), [adzom-078-left.png](evidence/chapter-01/adzom-078-left.png), [adzom-078-right.png](evidence/chapter-01/adzom-078-right.png)
+**Evidence:** [adzom-078-restoration.png](evidence/chapter-01/adzom-078-restoration.png), [adzom-078-left.png](evidence/chapter-01/adzom-078-left.png), [adzom-078-right.png](evidence/chapter-01/adzom-078-right.png), [p078-native.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/p078-native.png), [p078-row5-right-context.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/p078-row5-right-context.png), [p078-row6-left-context.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/p078-row6-left-context.png), [S03-L1-terminal.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/S03-L1-terminal.png), [S03-L2-terminal.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/S03-L2-terminal.png), [S03-L3-terminal.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/S03-L3-terminal.png), [C1-BASE-LAYERS.md](reviews/chapter-01/continuation/C1-BASE-LAYERS.md), [C1-BASE-LAYERS-B01-independent-reading.txt](reviews/chapter-01/continuation/C1-BASE-LAYERS-B01-independent-reading.txt)
 
 <a id="a2000-c01-s04"></a>
 
@@ -13817,7 +13817,7 @@ Units: [U01828](#u01828), [U01829](#u01829), [U01830](#u01830).
 
 Units: [U01882](#u01882).
 
-**Current Adzom main context:** ཞག་དང་ཟླ་བ་ལོ་རྣམས་ཀྱིས། ། / [A2000-C01-S02](#a2000-c01-s02) སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ། / འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ། / སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང་།
+**Current Adzom main context:** ཞག་དང་ཟླ་བ་ལོ་རྣམས་ཀྱིས། ། / [A2000-C01-S02](#a2000-c01-s02) སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ། ། / འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ། ། / སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང་། །
 
 **Comparison reading/snippet:** so so'i tshad la rtags kyis 'grub / 'di ltar sku yi 'grub pa la / sprul pa'i sku dang longs sku dang
 
@@ -13837,7 +13837,7 @@ Units: [U01882](#u01882).
 
 Units: [U02005](#u02005).
 
-**Current Adzom main context:** ཐེག་པ་དག་ནི་གཉིས་སུ་འདོད། ། / [A2000-C01-S03](#a2000-c01-s03) གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ། / འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ། / འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས།
+**Current Adzom main context:** ཐེག་པ་དག་ནི་གཉིས་སུ་འདོད། ། / [A2000-C01-S03](#a2000-c01-s03) གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ། ། / འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ། ། / འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས། །
 
 **Comparison reading/snippet:** gzhi ni 'jig rten pa yin te / 'di las 'dod pa gnyis yin no / 'das pa rgyu dang 'bras bu las
 
@@ -14717,7 +14717,7 @@ Units: [U01274](#u01274), [U01275](#u01275).
 
 Units: [U01882](#u01882), [U01883](#u01883).
 
-**Current Adzom main context:** ཞག་དང་ཟླ་བ་ལོ་རྣམས་ཀྱིས། ། / [A2000-C01-S02](#a2000-c01-s02) སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ། / འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ། / སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང་། / ཆོས་སྐུ་ངོ་བོ་ཉིད་ཀྱི་སྐུ། །
+**Current Adzom main context:** ཞག་དང་ཟླ་བ་ལོ་རྣམས་ཀྱིས། ། / [A2000-C01-S02](#a2000-c01-s02) སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ། ། / འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ། ། / སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང་། ། / ཆོས་སྐུ་ངོ་བོ་ཉིད་ཀྱི་སྐུ། །
 
 **Comparison reading/snippet:** Three intervening verses present; the second has sku yi and the following sprul pa’i sku dang longs sku dang is visible.
 
@@ -14737,7 +14737,7 @@ Units: [U01882](#u01882), [U01883](#u01883).
 
 Units: [U02005](#u02005), [U02006](#u02006).
 
-**Current Adzom main context:** ཐེག་པ་དག་ནི་གཉིས་སུ་འདོད། ། / [A2000-C01-S03](#a2000-c01-s03) གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ། / འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ། / འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས། / རྒྱུ་ལ་གསུམ་ལ་འབྲས་བུར་གཉིས། །
+**Current Adzom main context:** ཐེག་པ་དག་ནི་གཉིས་སུ་འདོད། ། / [A2000-C01-S03](#a2000-c01-s03) གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ། ། / འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ། ། / འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས། ། / རྒྱུ་ལ་གསུམ་ལ་འབྲས་བུར་གཉིས། །
 
 **Comparison reading/snippet:** Three intervening verses present, ending with ’bras bu las at the opening of PDF55 before rgyu la gsum la ’bras bur gnyis.
 

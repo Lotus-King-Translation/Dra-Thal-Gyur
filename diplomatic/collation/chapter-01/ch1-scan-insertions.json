@@ -35,26 +35,132 @@
     "before_unit": "U01883",
     "anchor_sequence": 1,
     "tibetan_lines": [
-      "སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ།",
-      "འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ།",
-      "སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང་།"
+      "སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ། །",
+      "འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ། །",
+      "སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང་། །"
     ],
     "wylie": [
-      "so so'i tshad la rtags kyis 'grub/",
-      "'di ltar sku yi 'grub pa la/",
-      "sprul pa'i sku dang longs sku dang/"
+      "so so'i tshad la rtags kyis 'grub//",
+      "'di ltar sku yi 'grub pa la//",
+      "sprul pa'i sku dang longs sku dang//"
     ],
     "pdf_page": 74,
     "bdrc_image": 76,
     "scan_location": "Main row 1, first three verses, before ཆོས་སྐུ་ངོ་བོ་ཉིད་ཀྱི་སྐུ།",
-    "rationale": "Present in scan and omitted in e-text. The second restored verse visibly reads སྐུ་ (sku), not Wikisource's su; adopt the printed reading. The scan has འགྲུབ་ ('grub), retained without grammatical emendation.",
-    "confidence": "high",
+    "rationale": "Present in scan and omitted in e-text. The second restored verse visibly reads སྐུ་ (sku), not Wikisource's su; adopt the printed reading. The scan has འགྲུབ་ ('grub), retained without grammatical emendation. C1-BASE-LAYERS-B01 independently reidentified these three main verses and their neighboring sequence; two detached shads at each following boundary are now encoded once, at the preceding restored verse end. No lexical change is made.",
+    "confidence": "High for the three two-shad terminal inventories; retained lexical reading not globally recertified. S02-L3 existing tsheg has qualified medium independent support.",
     "remaining_uncertainty": "No unresolved lexical glyph identified in this focused inspection.",
     "evidence_images": [
       "evidence/chapter-01/adzom-074-restoration.png",
-      "evidence/chapter-01/adzom-074-sku-line.png"
+      "evidence/chapter-01/adzom-074-sku-line.png",
+      "evidence/chapter-01/continuation/C1-BASE-LAYERS/p074-native.png",
+      "evidence/chapter-01/continuation/C1-BASE-LAYERS/p074-row1-left-context.png",
+      "evidence/chapter-01/continuation/C1-BASE-LAYERS/p074-row1-middle-context.png",
+      "evidence/chapter-01/continuation/C1-BASE-LAYERS/S02-L1-terminal.png",
+      "evidence/chapter-01/continuation/C1-BASE-LAYERS/S02-L2-terminal.png",
+      "evidence/chapter-01/continuation/C1-BASE-LAYERS/S02-L3-terminal.png",
+      "reviews/chapter-01/continuation/C1-BASE-LAYERS.md",
+      "reviews/chapter-01/continuation/C1-BASE-LAYERS-B01-independent-reading.txt"
     ],
-    "punctuation_policy": "Tibetan tsheg/shad rendered as readable Unicode; this is a lexical reading transcription, not pixel-exact reproduction of space widths or line-fill marks."
+    "punctuation_policy": "Six local restored-verse terminal inventories in S02/S03 reviewed against native context and an independent reader. Each detached boundary mark is encoded once; spaces are editorial separation, not measured print width. This does not certify whole-page punctuation.",
+    "punctuation_review": {
+      "task_id": "C1-BASE-LAYERS-B01",
+      "baseline_commit": "338ae386a0f22490aef9fac75f93c7ba393f2cb1",
+      "previous_tibetan_lines": [
+        "སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ།",
+        "འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ།",
+        "སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང་།"
+      ],
+      "previous_wylie": [
+        "so so'i tshad la rtags kyis 'grub/",
+        "'di ltar sku yi 'grub pa la/",
+        "sprul pa'i sku dang longs sku dang/"
+      ],
+      "previous_punctuation_policy": "Tibetan tsheg/shad rendered as readable Unicode; this is a lexical reading transcription, not pixel-exact reproduction of space widths or line-fill marks.",
+      "previous_confidence": "high",
+      "independent_report": "reviews/chapter-01/continuation/C1-BASE-LAYERS-B01-independent-reading.txt",
+      "independent_sha256": "9352d80c11b99a1b2aba76ed25f7c6403fface7ffbc8ceb3031aa0ef1974e281",
+      "report": "reviews/chapter-01/continuation/C1-BASE-LAYERS.json",
+      "observations": [
+        {
+          "id": "A2000-C01-S02-L1",
+          "visible_lexical_text": "སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ",
+          "physical_row": "PDF74 row1, first verse",
+          "before": "Across page turn: PDF73 row6, U01882 ཞག་དང་ཟླ་བ་ལོ་རྣམས་ཀྱིས",
+          "after": "Same row: S02-L2 འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ",
+          "following_boundary": {
+            "detached_shads": 2,
+            "inventory": [
+              "One immediately following འགྲུབ",
+              "One before following འདི"
+            ],
+            "terminal_tsheg": "absent",
+            "excluded": "Final letter strokes, lower-row ink, and page frame"
+          },
+          "existing": "སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ།",
+          "proposed": "སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ། །",
+          "confidence": {
+            "correspondence": "high",
+            "lexical": "medium",
+            "shads": "high",
+            "terminal_tsheg": "high"
+          },
+          "uncertainty": "Interior stacked letters are less distinct than the boundary; no alternative lexical reading proposed."
+        },
+        {
+          "id": "A2000-C01-S02-L2",
+          "visible_lexical_text": "འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ",
+          "physical_row": "PDF74 row1, second verse",
+          "before": "Same row: S02-L1 སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ",
+          "after": "Same row: S02-L3 སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང",
+          "following_boundary": {
+            "detached_shads": 2,
+            "inventory": [
+              "One immediately following ལ",
+              "One before following སྤྲུལ"
+            ],
+            "terminal_tsheg": "absent",
+            "excluded": "Final ལ strokes, lower-row ink, and upper frame"
+          },
+          "existing": "འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ།",
+          "proposed": "འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ། །",
+          "confidence": {
+            "correspondence": "high",
+            "lexical": "medium",
+            "shads": "high",
+            "terminal_tsheg": "high"
+          },
+          "uncertainty": "སྐུ and འགྲུབ are retained; no replacement letter reading established from the uneven impression."
+        },
+        {
+          "id": "A2000-C01-S02-L3",
+          "visible_lexical_text": "སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང",
+          "physical_row": "PDF74 row1, third verse",
+          "before": "Same row: S02-L2 འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ",
+          "after": "Same row: U01883 ཆོས་སྐུ་ངོ་བོ་ཉིད་ཀྱི་སྐུ",
+          "following_boundary": {
+            "detached_shads": 2,
+            "inventory": [
+              "One following final དང and its small terminal mark",
+              "One before following ཆོས"
+            ],
+            "terminal_tsheg": "visible, medium confidence",
+            "excluded": "Final ང descending stroke, following ཆོས vowel strokes, lower-row ink, and upper frame"
+          },
+          "existing": "སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང་།",
+          "proposed": "སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང་། །",
+          "confidence": {
+            "correspondence": "high",
+            "lexical": "high",
+            "shads": "high",
+            "terminal_tsheg": "medium"
+          },
+          "uncertainty": "The small mark before the first shad is read as a tsheg; its identification is less secure than the two detached shads."
+        }
+      ],
+      "new_scope": "Terminal shads only; lexical wording and existing terminal tsheg retained, not normalized",
+      "tsheg_limit": "S02-L3 small terminal mark retained: independent medium confidence; coordinator sees a separate headline point compatible with the existing tsheg. This is less secure than the two-shad inventory."
+    }
   },
   {
     "id": "A2000-C01-S03",
@@ -63,27 +169,133 @@
     "before_unit": "U02006",
     "anchor_sequence": 1,
     "tibetan_lines": [
-      "གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ།",
-      "འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ།",
-      "འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས།"
+      "གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ། །",
+      "འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ། །",
+      "འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས། །"
     ],
     "wylie": [
-      "gzhi ni 'jig rten pa yin te/",
-      "'di las 'dod pa gnyis yin no/",
-      "'das pa rgyu dang 'bras bu las/"
+      "gzhi ni 'jig rten pa yin te//",
+      "'di las 'dod pa gnyis yin no//",
+      "'das pa rgyu dang 'bras bu las//"
     ],
     "pdf_page": 78,
     "bdrc_image": 80,
     "scan_location": "Main row 5, right-hand two verses; then row 6, first verse.",
-    "rationale": "Present as full-size root-text verse in the Adzom-2000 facsimile; absent from the cleaned Adzom e-text. Restore from the scan, not by adopting Wikisource as an independent authority.",
-    "confidence": "high",
+    "rationale": "Present as full-size root-text verse in the Adzom-2000 facsimile; absent from the cleaned Adzom e-text. Restore from the scan, not by adopting Wikisource as an independent authority. C1-BASE-LAYERS-B01 independently reidentified these three main verses and their neighboring sequence; two detached shads at each following boundary are now encoded once, at the preceding restored verse end. No lexical change is made.",
+    "confidence": "High for the three two-shad terminal inventories; existing lexical readings retained without grammatical repair.",
     "remaining_uncertainty": "No unresolved lexical glyph identified in this focused inspection.",
     "evidence_images": [
       "evidence/chapter-01/adzom-078-restoration.png",
       "evidence/chapter-01/adzom-078-left.png",
-      "evidence/chapter-01/adzom-078-right.png"
+      "evidence/chapter-01/adzom-078-right.png",
+      "evidence/chapter-01/continuation/C1-BASE-LAYERS/p078-native.png",
+      "evidence/chapter-01/continuation/C1-BASE-LAYERS/p078-row5-right-context.png",
+      "evidence/chapter-01/continuation/C1-BASE-LAYERS/p078-row6-left-context.png",
+      "evidence/chapter-01/continuation/C1-BASE-LAYERS/S03-L1-terminal.png",
+      "evidence/chapter-01/continuation/C1-BASE-LAYERS/S03-L2-terminal.png",
+      "evidence/chapter-01/continuation/C1-BASE-LAYERS/S03-L3-terminal.png",
+      "reviews/chapter-01/continuation/C1-BASE-LAYERS.md",
+      "reviews/chapter-01/continuation/C1-BASE-LAYERS-B01-independent-reading.txt"
     ],
-    "punctuation_policy": "Tibetan tsheg/shad rendered as readable Unicode; this is a lexical reading transcription, not pixel-exact reproduction of space widths or line-fill marks."
+    "punctuation_policy": "Six local restored-verse terminal inventories in S02/S03 reviewed against native context and an independent reader. Each detached boundary mark is encoded once; spaces are editorial separation, not measured print width. This does not certify whole-page punctuation.",
+    "punctuation_review": {
+      "task_id": "C1-BASE-LAYERS-B01",
+      "baseline_commit": "338ae386a0f22490aef9fac75f93c7ba393f2cb1",
+      "previous_tibetan_lines": [
+        "གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ།",
+        "འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ།",
+        "འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས།"
+      ],
+      "previous_wylie": [
+        "gzhi ni 'jig rten pa yin te/",
+        "'di las 'dod pa gnyis yin no/",
+        "'das pa rgyu dang 'bras bu las/"
+      ],
+      "previous_punctuation_policy": "Tibetan tsheg/shad rendered as readable Unicode; this is a lexical reading transcription, not pixel-exact reproduction of space widths or line-fill marks.",
+      "previous_confidence": "high",
+      "independent_report": "reviews/chapter-01/continuation/C1-BASE-LAYERS-B01-independent-reading.txt",
+      "independent_sha256": "9352d80c11b99a1b2aba76ed25f7c6403fface7ffbc8ceb3031aa0ef1974e281",
+      "report": "reviews/chapter-01/continuation/C1-BASE-LAYERS.json",
+      "observations": [
+        {
+          "id": "A2000-C01-S03-L1",
+          "visible_lexical_text": "གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ",
+          "physical_row": "PDF78 row5, right portion, immediately after U02005",
+          "before": "Same row: U02005 ཐེག་པ་དག་ནི་གཉིས་སུ་འདོད",
+          "after": "Same row: S03-L2 འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ",
+          "following_boundary": {
+            "detached_shads": 2,
+            "inventory": [
+              "One following ཏེ",
+              "One before following འདི"
+            ],
+            "terminal_tsheg": "absent",
+            "excluded": "Final ཏེ letter and vowel strokes, adjacent-row ink beneath the boundary, and frame"
+          },
+          "existing": "གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ།",
+          "proposed": "གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ། །",
+          "confidence": {
+            "correspondence": "high",
+            "lexical": "medium",
+            "shads": "high",
+            "terminal_tsheg": "medium"
+          },
+          "uncertainty": "Uneven ink and neighboring-row intrusions affect the lower boundary; they do not establish an additional sign. No alternative letter reading proposed."
+        },
+        {
+          "id": "A2000-C01-S03-L2",
+          "visible_lexical_text": "འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ",
+          "physical_row": "PDF78 row5, final verse at right frame",
+          "before": "Same row: S03-L1 གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ",
+          "after": "Row turn to PDF78 row6 left: S03-L3 འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས",
+          "following_boundary": {
+            "detached_shads": 2,
+            "inventory": [
+              "First detached shad following ནོ",
+              "Second detached shad between the first and the right frame; no additional leading shad identified at row6 opening"
+            ],
+            "terminal_tsheg": "absent",
+            "excluded": "Final ནོ letter and vowel strokes, continuous right page frame, and row6 ink below"
+          },
+          "existing": "འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ།",
+          "proposed": "འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ། །",
+          "confidence": {
+            "correspondence": "high",
+            "lexical": "high",
+            "shads": "high",
+            "terminal_tsheg": "high"
+          },
+          "uncertainty": "No additional punctuation ambiguity identified; the farther-right continuous vertical is the frame."
+        },
+        {
+          "id": "A2000-C01-S03-L3",
+          "visible_lexical_text": "འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས",
+          "physical_row": "PDF78 row6, first verse",
+          "before": "Previous row, right end: S03-L2 འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ",
+          "after": "Same row: U02006 རྒྱུ་ལ་གསུམ་ལ་འབྲས་བུར་གཉིས",
+          "following_boundary": {
+            "detached_shads": 2,
+            "inventory": [
+              "One following final ལས",
+              "One before following རྒྱུ"
+            ],
+            "terminal_tsheg": "absent",
+            "excluded": "Descending stroke belonging to final ས, following རྒྱུ stack, upper-row ink, and bottom frame"
+          },
+          "existing": "འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས།",
+          "proposed": "འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས། །",
+          "confidence": {
+            "correspondence": "high",
+            "lexical": "high",
+            "shads": "high",
+            "terminal_tsheg": "high"
+          },
+          "uncertainty": "The final letter's descending stroke is excluded; it does not supply a third shad."
+        }
+      ],
+      "new_scope": "Terminal shads only; lexical wording and existing terminal tsheg retained, not normalized",
+      "tsheg_limit": "No new tsheg introduced or removed."
+    }
   },
   {
     "id": "A2000-C01-S04",

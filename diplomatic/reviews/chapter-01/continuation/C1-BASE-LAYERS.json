@@ -53,6 +53,30 @@
           1344
         ],
         "status": "Additional preceding-page context for S02; not a whole-page review"
+      },
+      {
+        "pdf_page": 85,
+        "bdrc_image": 87,
+        "source_member": "0087.png",
+        "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p085-native.png",
+        "sha256": "556b67acc769b5dcba4b60ee42a3be1b7c1201eac8d5ff9ac5d94c4727e125f7",
+        "dimensions": [
+          5696,
+          1344
+        ],
+        "status": "Prepared next bounded source packet; no visual decision yet"
+      },
+      {
+        "pdf_page": 90,
+        "bdrc_image": 92,
+        "source_member": "0092.png",
+        "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p090-native.png",
+        "sha256": "d9179f0033fa50262f8386eb9a267a212230449d8d66455d72bf317bc8283525",
+        "dimensions": [
+          5696,
+          1344
+        ],
+        "status": "Prepared next bounded source packet; no visual decision yet"
       }
     ],
     "crops": [
@@ -264,6 +288,120 @@
         ],
         "sha256": "b0b566a87bcc79adb2df92b5539be9688f4b5c72378d32c3c532a70ef26327cc",
         "derivation": "Exact unscaled native crop; preceding U01881-U01882 context for S02"
+      },
+      {
+        "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p085-x0000-context.png",
+        "pdf_page": 85,
+        "bdrc_image": 87,
+        "source_member": "0087.png",
+        "source_member_sha256": "556b67acc769b5dcba4b60ee42a3be1b7c1201eac8d5ff9ac5d94c4727e125f7",
+        "native_bounds": [
+          0,
+          0,
+          2000,
+          1344
+        ],
+        "crop_dimensions": [
+          2000,
+          1344
+        ],
+        "sha256": "aa5f25fd1f65b81571758fa4ca308a7806531883f33e760ee9b76876c008e350",
+        "derivation": "Exact unscaled overlapping native column; next bounded source packet only"
+      },
+      {
+        "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p085-x1900-context.png",
+        "pdf_page": 85,
+        "bdrc_image": 87,
+        "source_member": "0087.png",
+        "source_member_sha256": "556b67acc769b5dcba4b60ee42a3be1b7c1201eac8d5ff9ac5d94c4727e125f7",
+        "native_bounds": [
+          1900,
+          0,
+          3900,
+          1344
+        ],
+        "crop_dimensions": [
+          2000,
+          1344
+        ],
+        "sha256": "fa63337823a2fb76addd78053dd1812342ff0f0a37da944f27dd2ab4ab405d1e",
+        "derivation": "Exact unscaled overlapping native column; next bounded source packet only"
+      },
+      {
+        "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p085-x3696-context.png",
+        "pdf_page": 85,
+        "bdrc_image": 87,
+        "source_member": "0087.png",
+        "source_member_sha256": "556b67acc769b5dcba4b60ee42a3be1b7c1201eac8d5ff9ac5d94c4727e125f7",
+        "native_bounds": [
+          3696,
+          0,
+          5696,
+          1344
+        ],
+        "crop_dimensions": [
+          2000,
+          1344
+        ],
+        "sha256": "7d1957df9d0d729b8a095aaf040160ddc356d6ca4d0a9b61b002cd6b57441201",
+        "derivation": "Exact unscaled overlapping native column; next bounded source packet only"
+      },
+      {
+        "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p090-x0000-context.png",
+        "pdf_page": 90,
+        "bdrc_image": 92,
+        "source_member": "0092.png",
+        "source_member_sha256": "d9179f0033fa50262f8386eb9a267a212230449d8d66455d72bf317bc8283525",
+        "native_bounds": [
+          0,
+          0,
+          2000,
+          1344
+        ],
+        "crop_dimensions": [
+          2000,
+          1344
+        ],
+        "sha256": "689529a887664dcdcd52bc5e9d6b48bb6f8cbaf36452f7aa50f2ba53d6f55898",
+        "derivation": "Exact unscaled overlapping native column; next bounded source packet only"
+      },
+      {
+        "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p090-x1900-context.png",
+        "pdf_page": 90,
+        "bdrc_image": 92,
+        "source_member": "0092.png",
+        "source_member_sha256": "d9179f0033fa50262f8386eb9a267a212230449d8d66455d72bf317bc8283525",
+        "native_bounds": [
+          1900,
+          0,
+          3900,
+          1344
+        ],
+        "crop_dimensions": [
+          2000,
+          1344
+        ],
+        "sha256": "f85c4435eb4847023300311f400047ab76cb91a80ce0a3c24641f200fbbbba1e",
+        "derivation": "Exact unscaled overlapping native column; next bounded source packet only"
+      },
+      {
+        "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p090-x3696-context.png",
+        "pdf_page": 90,
+        "bdrc_image": 92,
+        "source_member": "0092.png",
+        "source_member_sha256": "d9179f0033fa50262f8386eb9a267a212230449d8d66455d72bf317bc8283525",
+        "native_bounds": [
+          3696,
+          0,
+          5696,
+          1344
+        ],
+        "crop_dimensions": [
+          2000,
+          1344
+        ],
+        "sha256": "32c7cba88b5ffc5daa31ffb595f6d5c4820586e7eaad3da81b9ccbe9c4cd0001",
+        "derivation": "Exact unscaled overlapping native column; next bounded source packet only"
       }
     ]
   },
@@ -279,7 +417,7 @@
         74,
         78
       ],
-      "status": "coordinator_reading_saved_pending_independent_review",
+      "status": "integrated_pending_verified_publication",
       "rows_actually_compared": [
         {
           "pdf_page": 73,
@@ -300,10 +438,212 @@
           "scope": "U02005 preceding context, S03 three restored verses, U02006 following context"
         }
       ],
-      "observations": [],
-      "unread_or_uncertain_spans": "No whole-page lexical or sign certification. The native crops include adjacent rows and frame material that is not transcribed; exact terminal dot/count judgments await independent review.",
-      "canonical_record_ids": [],
-      "next_physical_span": "S02 PDF74 row1 and S03 PDF78 rows5-6, using full native context",
+      "observations": [
+        {
+          "anchor": "A2000-C01-S02",
+          "line_index": 0,
+          "old": "སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ།",
+          "new": "སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ། །",
+          "disposition": "adopted_pending_publication",
+          "independent_record": {
+            "id": "A2000-C01-S02-L1",
+            "visible_lexical_text": "སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ",
+            "physical_row": "PDF74 row1, first verse",
+            "before": "Across page turn: PDF73 row6, U01882 ཞག་དང་ཟླ་བ་ལོ་རྣམས་ཀྱིས",
+            "after": "Same row: S02-L2 འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ",
+            "following_boundary": {
+              "detached_shads": 2,
+              "inventory": [
+                "One immediately following འགྲུབ",
+                "One before following འདི"
+              ],
+              "terminal_tsheg": "absent",
+              "excluded": "Final letter strokes, lower-row ink, and page frame"
+            },
+            "existing": "སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ།",
+            "proposed": "སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ། །",
+            "confidence": {
+              "correspondence": "high",
+              "lexical": "medium",
+              "shads": "high",
+              "terminal_tsheg": "high"
+            },
+            "uncertainty": "Interior stacked letters are less distinct than the boundary; no alternative lexical reading proposed."
+          },
+          "coordinator_confirmation": "Full native page, neighboring sequence and native terminal crop inspected; two distinct boundary shads exclude joined letter limbs, frame and neighboring-row ink."
+        },
+        {
+          "anchor": "A2000-C01-S02",
+          "line_index": 1,
+          "old": "འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ།",
+          "new": "འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ། །",
+          "disposition": "adopted_pending_publication",
+          "independent_record": {
+            "id": "A2000-C01-S02-L2",
+            "visible_lexical_text": "འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ",
+            "physical_row": "PDF74 row1, second verse",
+            "before": "Same row: S02-L1 སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ",
+            "after": "Same row: S02-L3 སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང",
+            "following_boundary": {
+              "detached_shads": 2,
+              "inventory": [
+                "One immediately following ལ",
+                "One before following སྤྲུལ"
+              ],
+              "terminal_tsheg": "absent",
+              "excluded": "Final ལ strokes, lower-row ink, and upper frame"
+            },
+            "existing": "འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ།",
+            "proposed": "འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ། །",
+            "confidence": {
+              "correspondence": "high",
+              "lexical": "medium",
+              "shads": "high",
+              "terminal_tsheg": "high"
+            },
+            "uncertainty": "སྐུ and འགྲུབ are retained; no replacement letter reading established from the uneven impression."
+          },
+          "coordinator_confirmation": "Full native page, neighboring sequence and native terminal crop inspected; two distinct boundary shads exclude joined letter limbs, frame and neighboring-row ink."
+        },
+        {
+          "anchor": "A2000-C01-S02",
+          "line_index": 2,
+          "old": "སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང་།",
+          "new": "སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང་། །",
+          "disposition": "adopted_pending_publication",
+          "independent_record": {
+            "id": "A2000-C01-S02-L3",
+            "visible_lexical_text": "སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང",
+            "physical_row": "PDF74 row1, third verse",
+            "before": "Same row: S02-L2 འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ",
+            "after": "Same row: U01883 ཆོས་སྐུ་ངོ་བོ་ཉིད་ཀྱི་སྐུ",
+            "following_boundary": {
+              "detached_shads": 2,
+              "inventory": [
+                "One following final དང and its small terminal mark",
+                "One before following ཆོས"
+              ],
+              "terminal_tsheg": "visible, medium confidence",
+              "excluded": "Final ང descending stroke, following ཆོས vowel strokes, lower-row ink, and upper frame"
+            },
+            "existing": "སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང་།",
+            "proposed": "སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང་། །",
+            "confidence": {
+              "correspondence": "high",
+              "lexical": "high",
+              "shads": "high",
+              "terminal_tsheg": "medium"
+            },
+            "uncertainty": "The small mark before the first shad is read as a tsheg; its identification is less secure than the two detached shads."
+          },
+          "coordinator_confirmation": "Full native page, neighboring sequence and native terminal crop inspected; two distinct boundary shads exclude joined letter limbs, frame and neighboring-row ink."
+        },
+        {
+          "anchor": "A2000-C01-S03",
+          "line_index": 0,
+          "old": "གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ།",
+          "new": "གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ། །",
+          "disposition": "adopted_pending_publication",
+          "independent_record": {
+            "id": "A2000-C01-S03-L1",
+            "visible_lexical_text": "གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ",
+            "physical_row": "PDF78 row5, right portion, immediately after U02005",
+            "before": "Same row: U02005 ཐེག་པ་དག་ནི་གཉིས་སུ་འདོད",
+            "after": "Same row: S03-L2 འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ",
+            "following_boundary": {
+              "detached_shads": 2,
+              "inventory": [
+                "One following ཏེ",
+                "One before following འདི"
+              ],
+              "terminal_tsheg": "absent",
+              "excluded": "Final ཏེ letter and vowel strokes, adjacent-row ink beneath the boundary, and frame"
+            },
+            "existing": "གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ།",
+            "proposed": "གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ། །",
+            "confidence": {
+              "correspondence": "high",
+              "lexical": "medium",
+              "shads": "high",
+              "terminal_tsheg": "medium"
+            },
+            "uncertainty": "Uneven ink and neighboring-row intrusions affect the lower boundary; they do not establish an additional sign. No alternative letter reading proposed."
+          },
+          "coordinator_confirmation": "Full native page, neighboring sequence and native terminal crop inspected; two distinct boundary shads exclude joined letter limbs, frame and neighboring-row ink."
+        },
+        {
+          "anchor": "A2000-C01-S03",
+          "line_index": 1,
+          "old": "འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ།",
+          "new": "འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ། །",
+          "disposition": "adopted_pending_publication",
+          "independent_record": {
+            "id": "A2000-C01-S03-L2",
+            "visible_lexical_text": "འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ",
+            "physical_row": "PDF78 row5, final verse at right frame",
+            "before": "Same row: S03-L1 གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ",
+            "after": "Row turn to PDF78 row6 left: S03-L3 འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས",
+            "following_boundary": {
+              "detached_shads": 2,
+              "inventory": [
+                "First detached shad following ནོ",
+                "Second detached shad between the first and the right frame; no additional leading shad identified at row6 opening"
+              ],
+              "terminal_tsheg": "absent",
+              "excluded": "Final ནོ letter and vowel strokes, continuous right page frame, and row6 ink below"
+            },
+            "existing": "འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ།",
+            "proposed": "འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ། །",
+            "confidence": {
+              "correspondence": "high",
+              "lexical": "high",
+              "shads": "high",
+              "terminal_tsheg": "high"
+            },
+            "uncertainty": "No additional punctuation ambiguity identified; the farther-right continuous vertical is the frame."
+          },
+          "coordinator_confirmation": "Full native page, neighboring sequence and native terminal crop inspected; two distinct boundary shads exclude joined letter limbs, frame and neighboring-row ink."
+        },
+        {
+          "anchor": "A2000-C01-S03",
+          "line_index": 2,
+          "old": "འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས།",
+          "new": "འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས། །",
+          "disposition": "adopted_pending_publication",
+          "independent_record": {
+            "id": "A2000-C01-S03-L3",
+            "visible_lexical_text": "འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས",
+            "physical_row": "PDF78 row6, first verse",
+            "before": "Previous row, right end: S03-L2 འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ",
+            "after": "Same row: U02006 རྒྱུ་ལ་གསུམ་ལ་འབྲས་བུར་གཉིས",
+            "following_boundary": {
+              "detached_shads": 2,
+              "inventory": [
+                "One following final ལས",
+                "One before following རྒྱུ"
+              ],
+              "terminal_tsheg": "absent",
+              "excluded": "Descending stroke belonging to final ས, following རྒྱུ stack, upper-row ink, and bottom frame"
+            },
+            "existing": "འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས།",
+            "proposed": "འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས། །",
+            "confidence": {
+              "correspondence": "high",
+              "lexical": "high",
+              "shads": "high",
+              "terminal_tsheg": "high"
+            },
+            "uncertainty": "The final letter's descending stroke is excluded; it does not supply a third shad."
+          },
+          "coordinator_confirmation": "Full native page, neighboring sequence and native terminal crop inspected; two distinct boundary shads exclude joined letter limbs, frame and neighboring-row ink."
+        }
+      ],
+      "unread_or_uncertain_spans": "No whole-page or renewed all-letter certification. Independent medium-confidence interior glyph/tsheg observations remain explicit; no alternative lexical reading or new dot is adopted.",
+      "canonical_record_ids": [
+        "A2000-C01-S02",
+        "A2000-C01-S03"
+      ],
+      "next_physical_span": "S04 PDF85 rows4-5 and S05-S07 PDF90 rows1-2; prepared source pages are not yet visually reviewed.",
       "coordinator_initial_reading": [
         {
           "anchor": "A2000-C01-S02",
@@ -413,7 +753,20 @@
         "S02_after": "PDF74 row1 ཆོས་སྐུ་ངོ་བོ་ཉིད་ཀྱི་སྐུ",
         "S03_before": "PDF78 row5 ཐེག་པ་དག་ནི་གཉིས་སུ་འདོད",
         "S03_after": "PDF78 row6 རྒྱུ་ལ་གསུམ་ལ་འབྲས་བུར་གཉིས"
-      }
+      },
+      "independent_review": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-LAYERS-B01-independent-reading.txt",
+        "sha256": "9352d80c11b99a1b2aba76ed25f7c6403fface7ffbc8ceb3031aa0ef1974e281",
+        "reader_count": 1,
+        "limits": [
+          "S02-L3 terminal tsheg merits coordinator reinspection of image11.",
+          "Medium lexical confidence records retain the supplied readings without grammatical repair; rough interior letterforms were not independently resolved beyond the readings reported."
+        ],
+        "raw_report_preserved": true
+      },
+      "coordinator_small_mark_recheck": "S02-L3 native terminal crop: a separate small headline point before the first shad is compatible with the retained tsheg; no dot is added or removed. Record the independent medium confidence rather than upgrading it. The two shads are distinct.",
+      "mechanical_checks": "diplomatic/reviews/chapter-01/continuation/C1-BASE-LAYERS-B01-checks.json",
+      "chapter_sha256_after_integration": "3e62743d08488a4e72c72cf16052546bc5017d5459fd3fd3b33d4fd619e472ee"
     }
   ],
   "remaining_targets": [
@@ -425,5 +778,19 @@
     "A2000-C01-S07",
     "U01286"
   ],
-  "chapter_complete": false
+  "chapter_complete": false,
+  "prepared_next_batch": {
+    "batch_id": "C1-BASE-LAYERS-B02",
+    "anchors": [
+      "A2000-C01-S04",
+      "A2000-C01-S05",
+      "A2000-C01-S06",
+      "A2000-C01-S07"
+    ],
+    "pdf_pages": [
+      85,
+      90
+    ],
+    "status": "source_materialized_no_reading_claim"
+  }
 }

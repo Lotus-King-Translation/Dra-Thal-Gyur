@@ -1,7 +1,7 @@
 {
   "task_id": "C1-BASE-LAYERS-B01",
   "baseline_commit": "d44737c81bcd33187608eed807e81595cb3aba73",
-  "status": "prepared_not_launched",
+  "status": "completed",
   "request_path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-LAYERS-B01-independent-request.txt",
   "attachments": [
     {
@@ -61,5 +61,64 @@
       "sha256": "65a8998805996f7481d8cefe7b3e18c8889e9df606a5dab6627a01775fda1331"
     }
   ],
-  "scope": "Six restored main-verse terminals; full-page context inspected only for these targets"
+  "scope": "Six restored main-verse terminals; full-page context inspected only for these targets",
+  "returncode": 0,
+  "launched_after_verified_checkpoint": "338ae386a0f22490aef9fac75f93c7ba393f2cb1",
+  "argv": [
+    "codex",
+    "exec",
+    "--sandbox",
+    "read-only",
+    "--color",
+    "never",
+    "--json",
+    "-C",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur",
+    "-o",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/reviews/chapter-01/continuation/C1-BASE-LAYERS-B01-independent-reading.txt",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p073-native.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p074-native.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p078-native.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p073-row6-right-context.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p074-row1-left-context.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p074-row1-middle-context.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p078-row5-right-context.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p078-row6-left-context.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/S02-L1-terminal.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/S02-L2-terminal.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/S02-L3-terminal.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/S03-L1-terminal.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/S03-L2-terminal.png",
+    "-i",
+    "/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/S03-L3-terminal.png",
+    "-"
+  ],
+  "outputs": [
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-LAYERS-B01-independent-reading.txt",
+      "sha256": "9352d80c11b99a1b2aba76ed25f7c6403fface7ffbc8ceb3031aa0ef1974e281"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-LAYERS-B01-independent-session.jsonl",
+      "sha256": "8daad1f5cbc27cd8b2c984c5a939c10f91a88c718fe948920bf6c85ed937e017"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-LAYERS-B01-independent-stderr.txt",
+      "sha256": "3e75d28a6681c31400a3f0fcb564c7613fd42796fb83294e4d53fea86bcbd401"
+    }
+  ],
+  "scope_limits": "Six local shad inventories; medium-confidence interior/dot observations preserved in the raw report, no whole-page certification"
 }

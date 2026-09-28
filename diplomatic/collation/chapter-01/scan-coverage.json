@@ -408,5 +408,26 @@
     "completed_candidates": 29,
     "unfinished_candidates": 1,
     "note": "Scheduling/disposition count, not a chapter completeness percentage or a full-page signs pass."
-  }
+  },
+  "base_layer_continuation_reviews": [
+    {
+      "batch_id": "C1-BASE-LAYERS-B01",
+      "report": "reviews/chapter-01/continuation/C1-BASE-LAYERS.json",
+      "source_pages": [
+        73,
+        74,
+        78
+      ],
+      "newly_reviewed_scope": "Six restored-verse terminals in S02/S03, plus exact local correspondence; not full pages",
+      "insertion_ids": [
+        "A2000-C01-S02",
+        "A2000-C01-S03"
+      ],
+      "punctuation_only_line_changes": 6,
+      "lexical_strings_changed": false,
+      "existing_tsheg_qualification": "S02-L3 retained with medium independent support; no dot change",
+      "whole_pages_newly_collated": [],
+      "publication_status": "pending_verified_receipt"
+    }
+  ]
 }
