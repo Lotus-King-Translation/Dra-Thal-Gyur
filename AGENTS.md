@@ -66,10 +66,14 @@ User instruction, 2026-09-27: preserve work frequently on the remote branch.
 ### Commit work to remote every step of the way
 
 You must at all times keep committing work to a remote branch. Even small
-progress must continuosly be committed.
+progress must continuously be committed.
 
 ## Diplomatic edition continuation
 
-Before resuming diplomatic-edition work, read [diplomatic/WORK-STATUS.md](diplomatic/WORK-STATUS.md) for the current saved coverage and remaining work. It links the separate recovery branch and the exact missing-report inventory.
+Before resuming diplomatic-edition work, start at [diplomatic/HANDOFF.md](diplomatic/HANDOFF.md). `main` is the single continuation branch and includes all preserved archives. Follow its read-only startup checks, then claim the next bounded task in [diplomatic/WORK-QUEUE.json](diplomatic/WORK-QUEUE.json). [WORK-STATUS.md](diplomatic/WORK-STATUS.md) records saved scholarly coverage; [recovery/README.md](diplomatic/recovery/README.md) explains historical material. Recovery branches are historical checkpoints, not current alternatives.
 
 Treat preserved originals, transcript-derived replays, partial templates, and new scan reviews as distinct provenance categories. File counts and archived historical progress claims are not witness-coverage percentages. Use the saved apparatus and explicit page/anchor ledgers when deciding which checks remain; preserve surviving lexical passes instead of restarting them wholesale.
+
+Authored continuation metadata belongs in `diplomatic/CONTINUATION.json`; `STATUS.json`, the chapter Markdown, and generated collation outputs are rebuilt from curated inputs. Do not hand-edit generated output or execute archived recovery scripts. Run read-only validation before regeneration. Never treat a mechanical pass as a completed chapter.
+
+The coordinator records each task's exact page/anchor coverage, dispositions, remaining uncertainties and evidence paths, then commits and verifies the remote checkpoint before the next substantial batch. Use `diplomatic/tools/checkpoint.py` after reviewing and staging all pending project work; follow the connector fallback in HANDOFF if shell authentication fails. A local commit, task message, or uploaded blob is not remote preservation. Do not end a turn with unpublished project changes.

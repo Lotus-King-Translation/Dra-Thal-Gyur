@@ -5,15 +5,19 @@ import collections
 import hashlib
 import json
 from pathlib import Path
+from continuation_state import load_continuation
 
 
 def main():
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument('--repo', required=True, type=Path)
+    p.add_argument('--check', action='store_true',
+                   help='Compare generated outputs without writing any files')
     args = p.parse_args()
     root = args.repo.resolve()
     out = root / 'diplomatic'
     data = out / 'collation/chapter-01'
+    continuation = load_continuation(out)
     read = lambda name: json.loads((data / name).read_text())
     for meta in read('chapter1-summary.json')['sources'].values():
         observed = hashlib.sha256((root / meta['path']).read_bytes()).hexdigest()
@@ -243,9 +247,7 @@ def main():
             'The continuous main-Tibetan lexical pass is recorded in the [early](reviews/chapter-01/continuous-early.md) and [late](reviews/chapter-01/continuous-late.md) reports, supplemented by opening/boundary inspection. This has not certified every punctuation sign, source ornament or title glyph. U01522 remains uncertain; the exact U02615 annotation could not be established. The title material, provisional portrait caption, and compressed boundary inscription remain open.', '',
             'Continuous reliable comparison-witness collation is unfinished. The [Tsamdrak](reviews/chapter-01/tsamdrak-collation.md), [Tingkye](reviews/chapter-01/tingkye-collation.md), and [Tharpaling](reviews/chapter-01/tharpaling-collation.md) attempts document concrete limits of the current readings and the need for qualified further reading. These limits are not a claim that all those sources are objectively illegible. The [comparison extension](reviews/chapter-01/comparison-extension.md) now joins the Dzongsar opening, middle and late main-sequence passes through its actual colophon. It also records new manuscript attempts and exact reading limits. The earlier [Degé report](reviews/chapter-01/independent-openings.md) and its second reading also remain limited.', '',
             'Sichuan can currently be cited only as its supplied transcript where no full scan is available. Adzom 1973–1977 and Gcn now have [recovered boundary mappings](reviews/chapter-01/container-mapping-recovery-20260927.md); complete internal-exposure accounting and collation remain open. Catalogue-only leads are recorded in SOURCES.md and are not counted as collated witnesses. Chapters 2–6 have not been started in this edition.', '']
-    (out / 'chapter-01.md').write_text('\n'.join(doc))
-    (data / 'editorial-decisions.json').write_text(json.dumps(decisions, ensure_ascii=False, indent=2) + '\n')
-    (data / 'reading-units.json').write_text(json.dumps(output_units, ensure_ascii=False, indent=2) + '\n')
+    chapter = '\n'.join(doc)
     status = {
         'source_commit': 'e17a496ad7532cc627f9ba288b541f7a53efd002',
         'current_chapter': 1, 'complete_chapters': [], 'next_chapter_started': False,
@@ -264,14 +266,25 @@ def main():
                        'Adzom title ornamental/Sanskrit text', 'Adzom PDF102 inscription',
                        'U01522 fused main-text cluster; U02615 exact annotation; U02620 inked cluster',
                        'Continuous collation and internal-exposure accounting for mapped Adzom1973 and Gcn ranges', 'Sichuan full scan unavailable'],
-        'recovery_checkpoint': 'recovery/2026-09-27-local/recovery-audit.json',
-        'current_handoff': 'HANDOFF.md',
-        'sign_review_adoption_audit': 'reviews/chapter-01/sign-adoption-audit-20260927.md',
-        'missing_later_original_reports': 54,
-        'recovery_scope': 'Accessible local and remote material preserved; fresh reviews separately identified; missing cloud originals not reconstructed by assertion.',
-        'chapter_markdown_sha256': hashlib.sha256((out / 'chapter-01.md').read_bytes()).hexdigest(),
+        'chapter_markdown_sha256': hashlib.sha256(chapter.encode()).hexdigest(),
     }
-    (out / 'STATUS.json').write_text(json.dumps(status, ensure_ascii=False, indent=2) + '\n')
+    status.update(continuation)
+    outputs = {
+        out / 'chapter-01.md': chapter,
+        data / 'editorial-decisions.json': json.dumps(decisions, ensure_ascii=False, indent=2) + '\n',
+        data / 'reading-units.json': json.dumps(output_units, ensure_ascii=False, indent=2) + '\n',
+        out / 'STATUS.json': json.dumps(status, ensure_ascii=False, indent=2) + '\n',
+    }
+    if args.check:
+        stale = [str(path.relative_to(root)) for path, content in outputs.items()
+                 if not path.is_file() or path.read_bytes() != content.encode()]
+        if stale:
+            raise SystemExit('Generated outputs are stale: ' + ', '.join(stale))
+        print(json.dumps({'generated_outputs_match': True, 'outputs_checked': len(outputs),
+                          'chapter_markdown_sha256': status['chapter_markdown_sha256']}, indent=2))
+        return
+    for path, content in outputs.items():
+        path.write_text(content)
     print(json.dumps(status, ensure_ascii=False, indent=2))
 
 

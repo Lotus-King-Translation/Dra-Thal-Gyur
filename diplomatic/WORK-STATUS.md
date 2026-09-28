@@ -1,6 +1,6 @@
 # Diplomatic edition — current work status
 
-Updated 2026-09-28. **Chapter 1 is unfinished; Chapters 2–6 and the final colophon have not started.** This is the entry point for deciding what remains. It records saved evidence, not new manuscript readings.
+Updated 2026-09-28. **Chapter 1 is unfinished; Chapters 2–6 and the final colophon have not started.** Start at [HANDOFF.md](HANDOFF.md) for operational instructions and [WORK-QUEUE.json](WORK-QUEUE.json) for the next bounded task. This ledger explains scholarly coverage. It records saved evidence, not new manuscript readings.
 
 Edition baseline: `afb5c5133357942267dc55fc60a1d22704d5ef08`. [Chapter 1](chapter-01.md) SHA-256: `927d6b36c7d105efa2857ef5f2392fcf5f2f6b54f287f6c8139d43663fe51c40`. Later recovery commits preserve records without completing the edition.
 
@@ -35,7 +35,9 @@ PDF numbers refer to the named witness; provider-container numbers apply to Adzo
 
 ## Recovery is separate from completion
 
-The [54-file recovery matrix](https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/blob/recovery/task-records-2026-09-27/diplomatic/recovery/2026-09-27-task-records/missing-report-recovery-matrix.md) tracks missing historical report files, often JSON/Markdown pairs—not 54 independent research passes. **Four complete report bodies were replayed from retained transcript sources; 50 remain incomplete.** Partial bodies, failed-save commands, summaries and withdrawals remain useful evidence, but are not completed witness coverage. Historical 1,016/1,024-observation claims must not replace the saved 123-record apparatus.
+All preserved archives are now on `main`, indexed in [recovery/README.md](recovery/README.md). Historical recovery branches remain available but are not continuation branches.
+
+The [54-file recovery matrix](recovery/2026-09-27-task-records/missing-report-recovery-matrix.md) tracks missing historical report files, often JSON/Markdown pairs—not 54 independent research passes. **Four complete report bodies were replayed from retained transcript sources; 50 remain incomplete.** Partial bodies, failed-save commands, summaries and withdrawals remain useful evidence, but are not completed witness coverage. Historical 1,016/1,024-observation claims must not replace the saved 123-record apparatus.
 
 Usable sources remain: ten mapped facsimile assemblies, acquisition manifests/archives, three supplied transcript families, provider containers and retained evidence crops; see [source inventory](SOURCES.md). Some large files require Git LFS materialization. Sichuan full scans and catalogue-only Paltség/CTRC/Gangteng leads remain unavailable in the acquired holdings. Missing reports do not mean these other source scans vanished.
 

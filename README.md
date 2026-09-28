@@ -16,7 +16,7 @@ Working repository for a Tibetan–English translation of the **Dra Thal Gyur ro
 | [glossary/](glossary/expanded_tibetan_english_glossary.csv) | The original eight-column glossary, unchanged |
 | [GUIDANCE-PROVENANCE.json](GUIDANCE-PROVENANCE.json) | Source commit and checksums for the copied instructions, guidelines, and glossary |
 
-**Diplomatic Chapter 1 remains in progress.** [Current status](diplomatic/STATUS.json) and [continuation](diplomatic/HANDOFF.md) distinguish recovered evidence, verified local corrections and uncollated witnesses.
+**Diplomatic Chapter 1 remains in progress.** Continue from [diplomatic/HANDOFF.md](diplomatic/HANDOFF.md) on `main`. It provides restart checks, an exact work queue and remote checkpoint instructions. The edition and all preserved recovery archives are together on this branch.
 
 ## Reading the source
 

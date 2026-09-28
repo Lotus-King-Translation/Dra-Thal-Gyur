@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "purpose": "Authored continuation and recovery metadata. The chapter builder copies status_fields into generated STATUS.json; edit this file instead of hand-editing STATUS.json. Chapter readiness and scholarly counts are derived separately and cannot be overridden here.",
+  "status_fields": {
+    "recovery_checkpoint": "recovery/2026-09-27-local/recovery-audit.json",
+    "current_handoff": "HANDOFF.md",
+    "sign_review_adoption_audit": "reviews/chapter-01/sign-adoption-audit-20260927.md",
+    "missing_later_original_reports": 54,
+    "recovery_scope": "Current work is reconciled in WORK-STATUS.md. All 54 original missing report identities remain tracked; 4 complete bodies have transcript-derived replays and 50 complete bodies remain unavailable. This is not a percentage of scholarly work lost or completed.",
+    "current_work_status": "WORK-STATUS.md",
+    "recovery_progress": {
+      "updated": "2026-09-28",
+      "archive_branch": "main",
+      "archive_checkpoint": "061917d9bc7489d313dbcd428ce743c7c45fa2dc",
+      "original_missing_report_identities": 54,
+      "complete_transcript_replay_bodies": 4,
+      "incomplete_report_bodies": 50,
+      "original_pre_loss_byte_identity_verified": 0,
+      "cloud_incident_record": "recovery/CLOUD-INCIDENT.md",
+      "server_side_restore_available_to_agent": false,
+      "server_side_retained_snapshot_existence": "unknown",
+      "support_request_submitted": false
+    },
+    "canonical_branch": "main",
+    "work_queue": "WORK-QUEUE.json"
+  }
+}

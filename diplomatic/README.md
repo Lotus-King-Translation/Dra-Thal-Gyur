@@ -1,6 +1,6 @@
 # Dra Thal Gyur — diplomatic edition in progress
 
-**Current status, 2026-09-28:** Start with the [work ledger](WORK-STATUS.md). It identifies saved Chapter1 coverage, remaining uncertainties, and witness-by-witness gaps. Recovery archives are on [`recovery/task-records-2026-09-27`](https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/tree/recovery/task-records-2026-09-27); they do not certify missing collation. The [cloud incident record](recovery/CLOUD-INCIDENT.md) documents the unavailable originals and the proposed OpenAI-side investigation; no support request or restore has been initiated. [Technical continuation instructions](HANDOFF.md) remain applicable, with current recovery accounting in the work ledger.
+**Start here:** [HANDOFF.md](HANDOFF.md) gives the restart checks, next task and verified checkpoint procedure. `main` contains the edition and all preserved recovery archives. The [work ledger](WORK-STATUS.md) records saved coverage; the [work queue](WORK-QUEUE.json) records what to do next; the [recovery index](recovery/README.md) explains historical evidence and missing records.
 
 **Chapter 1 is under collation. No chapter is yet certified complete.** This directory is the working dossier for the requested single annotated diplomatic edition, not a completed golden text. Chapters 2–6 and the final colophon have not been started here. The original editions, source files, glossary, and translation are unchanged.
 
