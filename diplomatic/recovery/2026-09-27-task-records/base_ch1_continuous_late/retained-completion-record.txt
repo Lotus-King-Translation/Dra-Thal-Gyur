@@ -1,0 +1,10 @@
+PROVENANCE: The first block below is verbatim retained tool stdout from the successful finalization input. The second block is the verbatim retained message sent to the parent after saving. Labels are recovery metadata, not original file content.
+
+BEGIN TOOL STDOUT
+Wrote JSON and Markdown; pages: 51 lexical complete: 50 findings: 29
+Statuses: {'continuous_main_lexical_comparison_complete': 50, 'continuous_main_lexical_comparison_with_uncertain_glyphs': 1}
+END TOOL STDOUT
+
+BEGIN PARENT MESSAGE
+Final scratch ledger/report saved: /workspace/scratch/a117ee885aff/ch1-continuous-late.json and .md. Every PDF page51–101 continuously compared; 50 main lexical complete, p60 U1522 uncertain fused པའི་རྒྱུ་. New high-confidence corrections U1598 (rdzob), U2522 (gzhon par 'gyur), U2597 (restore dris). Existing 13 verses+heading S01–S07 confirmed. Important layer fixes U1811–1812 and U2225; U2489 heading actually p97. U2615 note not located in scan. All punctuation flags remain false: continuous lexical audit does not establish exhaustive diplomatic punctuation. Scope ends U2631 p101; no repo changes.
+END PARENT MESSAGE

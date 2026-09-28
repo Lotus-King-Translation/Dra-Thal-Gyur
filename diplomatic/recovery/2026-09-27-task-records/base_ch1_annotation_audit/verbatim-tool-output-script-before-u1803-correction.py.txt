@@ -1,0 +1,113 @@
+import json,sys,hashlib
+from pathlib import Path
+sys.path.insert(0,'/workspace/scratch/a117ee885aff/python-deps')
+import pyewts
+w=pyewts.pyewts()
+root=Path('/workspace/scratch/a117ee885aff/Dra-Thal-Gyur');out=Path('/workspace/scratch/a117ee885aff')
+notes=[json.loads(x) for x in (root/'translations/2026-09-26-full-draft/notes/scan-decisions.jsonl').read_text().splitlines()]
+a={int(d['id'][1:]):d for d in map(json.loads,(root/'translations/2026-09-26-full-draft/ALIGNED.jsonl').read_text().splitlines())}
+# This table records human visual inspection, not OCR or inferred agreement.
+obs={
+180:('printed_separate','line 1 middle main; line 2 middle smaller annotation',"Main verse is uninterrupted on line 1. The gloss is visibly printed in smaller script on line 2; its transcript insertion inside tha mi ... dad is not physical main-text order."),
+596:('not_observed_at_locus','line 1 left-middle',"Main klu yi gdong is visible; neither reported glu nor gdung note was observed at this locus in the inspected page. Retain the supplied report as A-e-text evidence, without A-scan attribution or a claim that it is absent everywhere."),
+632:('not_observed_at_locus','line 3 far right continuing line 4 far left',"The scan main reads ma dag pa yis ... ye shes so across the physical line break. No ni yang annotation was observed at this locus. Keep the negative; retain ni yang as a transcript report whose scan provenance is unverified."),
+651:('not_observed_at_locus','line 2 middle',"The main gnas dang byung dang byed pa dang is continuous. No byas kyang 'dug annotation was observed at the locus. Keep the supplied alternative separately with transcript-only provenance."),
+1233:('printed_displaced_single_occurrence','main line 4 middle; matching gloss line 5 middle-right, inside displayed U01238',"No gloss interrupts brgyad cu ... las. One smaller chags 'jig stongs pa occurrence is printed on line 5 between bskal pa and chen po of U01238. The e-text reports it twice (U01233 and U01237); do not represent this as two scan-observed glosses."),
+1237:('printed_displaced_single_occurrence','main line 5 middle; matching gloss later on same line, inside displayed U01238',"Main sbrags pa de tsam las is uninterrupted. The same single observed gloss reported with U01233 occurs between bskal pa and chen po in U01238. Preserve both e-text occurrences in apparatus, but count and display the scan annotation once at its observed position."),
+1265:('not_observed_at_locus','line 5 middle-right',"Main rnal 'byor pa yis bkug shes na is legible and uninterrupted. No dkrug kyang report was observed at this locus. Retain the alternative separately as transcript evidence."),
+1414:('printed_separate_displaced','main line 3 right; smaller note line 4 right',"Main sa pa la ser po'i sbyor ba yi is uninterrupted. The smaller se yi yang byung is printed on the following physical line; its target association follows the supplied report, while its physical placement is recorded independently."),
+1417:('printed_separate_displaced','main line 4 middle; smaller note line 5 middle-right before phyin nas',"Main rab bstims nas is continuous; smaller bsdebs kyang byung is printed in nearby whitespace on the following line. Keep the note separate and do not insert it into the main predicate."),
+1422:('printed_separate_displaced','main line 5 far right; smaller note line 6 far right',"Main rin po che yi sbyor ba dag is uninterrupted. Smaller rin chen bse'i yang byung is printed at the right end of the following line. Preserve the uncertain ingredient wording; do not identify it from context."),
+1439:('printed_separate_displaced','main line 3 right; smaller note line 4 far right',"Main a yis bskor is legible. The smaller a lis kyang byung report occurs at the end of the following line, not as part of the root verse."),
+1567:('printed_separate_displaced','main line 2 left-middle; smaller note line 3 left-middle',"Main bsdams pas 'gags la btsir bas 'ching is legible. Smaller gtems kyang byung occurs on the following line before the next de ltar passage."),
+1657:('printed_separate_displaced','main line 4 right; smaller note line 5 right',"Main lus kyang gsum yin te is continuous. Smaller lugs kyang is printed below, on line 5."),
+1668:('printed_separate_displaced','related main p65 line 6 end continuing p66 line 1 left; note p66 line 2 left-middle',"The standalone electronic unit is an annotation; bkang yang byung is small print on p66 line 2. Main U01667 ends rlung gis bskor; do not insert the reported bkang into main text."),
+1711:('printed_separate_displaced','main line 4 middle; smaller note line 5 middle before dang',"Main yi ge bzlog tshul drug gis kyang is uninterrupted. The smaller brjod kyang report is on the following physical line."),
+1716:('printed_separate_displaced','main line 5 right; smaller note line 6 middle-right',"Main 'dre dang rlung lha dag gi skad is legible. The smaller dag pa'i skad kyang byung report occurs on line 6; do not substitute it for dag gi skad."),
+1734:('printed_separate_displaced','main line 3 middle-right; smaller note line 4 middle',"Main zla ba lo yi 'khrul lugs kyis and smaller 'khrugs lugs kyang are typographically separate, on successive physical lines."),
+1776:('printed_separate','line 6 middle, immediately after main U01775 yin',"The smaller min kyang is visibly set after the larger affirmative main predicate yin. Retain main affirmation and separate alternative."),
+1803:('printed_separate','p70 line 6 far right continuing p71 line 1 left',"The main numeral sa ya is split around nearby smaller gzhi yang byung and the page break: retain main sa ya bzhi bzung ste rang rang bstun. The numerical interpretation is not settled by the transcription."),
+1806:('printed_margin_note','p70 below line 6 far left, in extension of lower frame',"The smaller lteb dang gtugs kyang byung is visibly printed in the lower-left marginal extension. Its precise target is not established by physical proximity alone."),
+1829:('printed_separate_across_page','p71 line 6 far right, continuing with yang byung at p72 line 1 far left',"The note gsum ste dus ni bcu gnyis sbyar yang byung is in smaller script and crosses the page break. Main U01830 rten 'brel dus te bcu gnyis sbyar also crosses this break; printed p71 main begins rten and resumes 'brel ... on p72. Do not treat note as a second main enumeration."),
+2129:('printed_separate_displaced','main line 3 middle-right; smaller note line 4 right',"Main dgug dang bsad dang bcings pa'i las is continuous. Smaller bskrad kyang is printed on the following line."),
+2225:('printed_separate_boundary_correction','main line 1 middle; smaller note line 2 middle',"The old separation is wrong: main is sgra dang gdams ngag la sogs te. Both smra dang and gtam ngan belong to the smaller report smra dang gtam ngan yang byung. Remove smra dang from main only with this explicit scan correction."),
+2332:('printed_separate_displaced','main line 1 middle; smaller note line 2 middle',"Main ngag ni bslab dang gnas pa dang is visible; smaller rlab kyang is printed on line 2. Preserve the separate alternative."),
+2489:('printed_heading_across_page','main p96 line 6 far right; heading p97 line 1 first text',"Main rnal 'byor chen po'i spyod pa'i ends p96. The heading dris lan re bdun pa is printed at the beginning of p97 before 'bras bu. Prior p96-only annotation locator is incomplete. Keep its structural position across the page break."),
+2615:('small_note_cluster_glyphs_unresolved','related main p101 line 3 middle; small-note cluster p101 line 4 middle-right',"Main U02614 'bru bzhi lnga dang gzugs 'dogs kyis is clear. A displaced smaller note cluster before ston pa is heavily inked; exact allocation of mdog gi yang byung relative to the summary statement U02620 remains uncertain in this reading. Retain the transcript alternative separately with qualified scan provenance; do not claim absence."),
+2620:('small_note_cluster_glyphs_unresolved','p101 line 4 middle-right before ston pa',"A smaller annotation cluster is printed after the main bying bar mi nus rgyug nus pa'o and before ston pa. The transcript reads de dag gi zhabs sdud pa'o. Its layer is observable, but the inked cluster does not support an unqualified fresh glyph-by-glyph certification here; preserve the exact transcript and review crop."),
+}
+obs.update({
+596:('printed_separate_displaced','main line 1 left-middle; smaller note line 2 left-middle',"The main klu yi gdong is visible. The smaller glu yang gdung yang byung is printed on the following line; the transcript interleaving does not reproduce physical lineation."),
+632:('printed_separate_displaced','main line 3 far right continuing line 4 far left; note line 4 far right',"The main ma dag pa yis ... ye shes so crosses a line break. The smaller ni yang occurs at the right end of line 4. Preserve both negative main and separate variant."),
+651:('printed_separate_displaced','main line 2 middle; smaller note line 3 middle',"Main gnas dang byung dang byed pa dang is continuous. The smaller byas kyang 'dug is visible on line 3, displaced below the target. Separate the full three-syllable report."),
+1265:('printed_separate_displaced','main line 5 middle-right; smaller note line 6 middle-right',"Main rnal 'byor pa yis bkug shes na is continuous. Smaller dkrug kyang appears immediately below on line 6. Retain it as observed source annotation."),
+187:('printed_separate_displaced','main line 3 left-middle; smaller note line 5 left-middle',"Main 'byung bzhi'i dgongs pa ji lta bu is separate from the smaller dgos pa yang byung. The dotted leader and separate type distinguish the reported alternative; the note is two physical lines lower."),
+317:('printed_structural_annotation','line 4 middle before dris lan dang po',"The complete dri ba bdun cu zer kyang don drug par yod is a smaller source statement after the question section and before the first reply heading. Preserve its 70/76 discrepancy; do not treat it as root verse or change either count."),
+328:('printed_separate','line 6 right',"Main mes ni 'byung ba sel ba dang contains no spel. Smaller spel yang byung is set between sel ba and dang, with a dotted leader. Preserve both layers."),
+534:('printed_separate_displaced','main line 4 right continuing line 5 left; smaller note line 5 far right',"Main ljongs rab tu rdzogs te nyams dga' bar crosses the line. Smaller bde yang byung appears near the end of line 5, linked by a dotted leader; do not replace ljongs with bde."),
+710:('printed_separate_boundary_correction','main line 3 right; smaller note line 4 middle-right',"Main so so'i nus pas bsgyur ba gang excludes bus pa. The separate printed annotation reads bus pa sbyar yang 'byung on the following line. Preserve the whole supplied report rather than leave bus pa in the root main reading."),
+800:('printed_separate_displaced','main line 5 left-middle; smaller note line 6 left-middle',"Main b+ha ra b+ha ti sa li zhes bya bar is uninterrupted; smaller sa yi yang byung is linked by a dotted leader on the next physical line. Preserve the printed Sanskrit-like spelling without regularization."),
+})
+notes += [
+{'unit':187,'pdf_page':10,'bdrc_image':12,'main_reading_wylie':"'byung bzhi'i dgongs pa ji lta bu/",'source_variant_wylie':'dgos pa yang byung','reason':'Additional flat-transcript candidate requested by root.'},
+{'unit':317,'pdf_page':15,'bdrc_image':17,'source_annotation_wylie':'dri ba bdun cu zer kyang don drug par yod/','reason':'Additional structural annotation candidate requested by root.'},
+{'unit':328,'pdf_page':15,'bdrc_image':17,'main_reading_wylie':"mes ni 'byung ba sel ba dang/",'source_variant_wylie':'spel yang byung','reason':'Additional flat-transcript candidate requested by root.'},
+{'unit':534,'pdf_page':23,'bdrc_image':25,'main_reading_wylie':"ljongs rab tu rdzogs te nyams dga' bar/",'source_variant_wylie':'bde yang byung','reason':'Additional flat-transcript candidate requested by root.'},
+{'unit':710,'pdf_page':30,'bdrc_image':32,'main_reading_wylie':"so so'i nus pas bsgyur ba gang/",'source_variant_wylie':"bus pa sbyar yang 'byung",'reason':'Additional flat-transcript candidate requested by root.'},
+{'unit':800,'pdf_page':33,'bdrc_image':35,'main_reading_wylie':"b+ha ra b+ha ti sa li zhes bya bar/",'source_variant_wylie':'sa yi yang byung','reason':'Additional flat-transcript candidate requested by root.'},
+]
+obs.update({
+1067:('printed_separate_displaced','main p43 line 3 middle-right; smaller note line 4 middle',"Main thams cad tshe gcig 'bras bu thob is clear. Smaller brgya yang byung is printed below on line 4 after the preceding main phrase. This directly supersedes the earlier local non-observation; it does not change the adopted main reading."),
+1090:('printed_separate_displaced','main p44 line 2 far right; smaller note line 3 far right',"Main yan lag bkod pa brgya gcig go is clear. Smaller bcu gcig kyang byung is printed on the next physical line at the right edge. This supersedes earlier local non-observation and restores witnessed annotation provenance."),
+1811:('printed_separate_exact_annotation_correction','main p71 line 2 far right to line 3 far left; smaller note line 3 right',"Main lo stong zhag kyang 'bum phrag gsum is clear across the line break. Smaller note reads lo ste zhag bcu phrag gsum yang byung, without the kyang after zhag reported in the earlier annotation paraphrase. Preserve unchanged exact U01811/U01812 source strings in the apparatus and do not relabel the old flattened transcription as an exact scan quote."),
+})
+obs[192]=('printed_separate_structural_note','p10 line 4 smaller text before large main gyur clause',"The long 'di mtshams ... dri ba ma byung statement is visibly smaller source annotation. Main 'gyur dang 'gyur byed gang dang gang follows in larger script on the same physical line. Preserve the long note in full; it is not part of the main question verse.")
+notes.append({'unit':192,'pdf_page':10,'bdrc_image':12,'main_reading_wylie':"'gyur dang 'gyur byed gang dang gang/",'source_annotation_wylie':"'di mtshams 'og gi rang dang gzhan gyi dam bca'i zhes pa dang 'phen pa rlung ste zhes pa gnyis kyi dri ba ma byung",'reason':'Additional long small-print source annotation requested by root.'})
+obs.update({
+272:('printed_separate_structural_note','main p13 line 5 middle-right; smaller note line 6 middle-right',"Main de nas khyab bdag sems dpa' ni is continuous. The smaller rgyud kyi che ba rnam par bkod pa'i bkod pa is printed below it with a dotted leader. Keep the repeated bkod pa wording in the source note; do not mix it into the main verse."),
+318:('printed_reply_heading','p15 line 4 middle-right after U00317 smaller count statement',"dris lan dang po is a separately printed reply heading. Preserve its source structural role and sequence after U00317; no root-verse main reading belongs to this heading-only electronic unit."),
+626:('printed_separate_displaced','main p27 line 2 middle; smaller note p27 line 3 middle',"Main tshig dang zur la gzhon pa dang is uninterrupted. The smaller gzhog kyang is printed on the next physical line with a dotted leader. Preserve gzhon in main and gzhog in the separate reported alternative."),
+1144:('printed_source_omission_query','p46 line 3 left-middle between U01143 and U01145',"tshig chad song is printed in smaller type after the preceding verse and before rtsi ni sems can gzhan don dang. Preserve it as the witness's textual omission query. It is neither root verse nor evidence sufficient to invent or restore missing words."),
+})
+notes += [
+{'unit':272,'pdf_page':13,'bdrc_image':15,'main_reading_wylie':"de nas khyab bdag sems dpa' ni/",'source_annotation_wylie':"rgyud kyi che ba rnam par bkod pa'i bkod pa",'reason':'Continuous-early delegated structural layer.'},
+{'unit':318,'pdf_page':15,'bdrc_image':17,'source_heading_wylie':'dris lan dang po/','reason':'Continuous-early delegated reply-heading layer.'},
+{'unit':626,'pdf_page':27,'bdrc_image':29,'main_reading_wylie':'tshig dang zur la gzhon pa dang/','source_variant_wylie':'gzhog kyang','reason':'Continuous-early delegated variant layer.'},
+{'unit':1144,'pdf_page':46,'bdrc_image':48,'source_annotation_wylie':'tshig chad song/','reason':'Continuous-early delegated omission-query layer.'},
+]
+rows=[]
+for d in notes:
+ n=d['unit']
+ if n not in obs:continue
+ status,loc,reason=obs[n]; ann=next((d[k] for k in ('source_variant_wylie','source_gloss_wylie','source_annotation_wylie','source_heading_wylie','gloss_wylie') if k in d),'')
+ main=d.get('main_reading_wylie','')
+ if n in (1668,1776,1806,1829,2615,2620):main=''
+ if n==1811:ann='lo ste zhag bcu phrag gsum yang byung'
+ if n==2225:main='sgra dang gdams ngag la sogs te/';ann='smra dang gtam ngan yang byung'
+ pg=d['pdf_page'];crops=[str(out/'ch1-annotation-crops'/f'p{pg:03d}-left.png'),str(out/'ch1-annotation-crops'/f'p{pg:03d}-right.png')]
+ if n in (1803,1829,2489):crops.extend(str(out/'ch1-annotation-crops'/f'p{x:03d}-full.png') for x in ({1803:[71],1829:[72],2489:[97]}[n]))
+ if n in (2615,2620):crops.append(str(out/'ch1-annotation-crops'/'p101-summary.png'))
+ row={'unit':n,'id':f'U{n:05d}','original_unit_text':a[n]['tibetan'],'original_unit_wylie':a[n]['wylie'],'prior_note':d,'proposed_scan_main_wylie':main,'proposed_scan_main_tibetan':w.toUnicode(main),'annotation_kept_separately_wylie':ann,'annotation_kept_separately_tibetan':w.toUnicode(ann),'annotation_provenance':status,'main_reading_confidence':'high' if main else 'not_applicable_annotation_only_unit','annotation_provenance_confidence':'qualified; exact glyph allocation unresolved' if n in (2615,2620) else 'high for the stated local observation; no claim about other loci','physical_locator':loc,'pdf_pages':[pg]+({1803:[71],1829:[72],2489:[97]}.get(n,[])),'bdrc_images':[x+2 for x in [pg]+({1803:[71],1829:[72],2489:[97]}.get(n,[]))],'crop_paths':crops,'rationale':reason}
+ if n in (1233,1237):row['shared_scan_annotation_key']='A-p049-l5-chags-jig-stongs-pa';row['observed_scan_annotation_count_for_shared_key']=1;row['observed_annotation_inside_unit']=1238
+ if n in (1668,1776,1829,2615):row['related_main_unit']={1668:1667,1776:1775,1829:1830,2615:2614}[n]
+ if n==1811:
+  row['units']=[1811,1812]
+  row['original_units']=[{'id':a[x]['id'],'tibetan':a[x]['tibetan'],'wylie':a[x]['wylie']} for x in (1811,1812)]
+  row['original_units_joined_exact_tibetan']=a[1811]['tibetan']+a[1812]['tibetan']
+  row['proposed_main_distribution']={'U01811':w.toUnicode(main),'U01812':''}
+  row['exact_scan_annotation_wylie']=ann
+  row['exact_scan_annotation_tibetan']=w.toUnicode(ann)
+  row['annotation_transcription_difference']='Earlier source-note report had kyang after zhag; the observed smaller print does not. The main kyang belongs after main zhag. Preserve original source-unit strings independently.'
+ if n in (1233,1237):
+  prefix=w.toUnicode('bskal pa ')
+  row['renderer_annotation_anchor']={'shared_annotation_key':'A-p049-l5-chags-jig-stongs-pa','display_once':True,'unit':'U01238','position':'inline_after_exact_prefix','exact_main_prefix_tibetan':prefix,'prefix_unicode_codepoints':len(prefix),'main_suffix_wylie':'chen po gcig yin no/','scan_annotation_wylie':"chags 'jig stongs pa",'source_transcript_units_preserved_in_apparatus':['U01233','U01237'],'note':'Do not create two physical source annotations. Keep the U01238 main reading complete; place the single annotation marker after bskal pa.'}
+ if n in (272,626,1067,1090,1144,1811):row['crop_paths'].append(str(out/'ch1-annotation-crops'/f'U{n}-detail.png'))
+ rows.append(row)
+rows.sort(key=lambda r:r['unit'])
+report={'title':'Chapter 1 targeted annotation audit','scope':'All 30 old scan-decision annotation/layer records at units <=2635 except U00542 lexical correction; U01811-01812 is a joint record. Includes follow-up verification of U01067, U01090, U01811-01812. Plus eleven additional flat-transcript or structural candidates U00187, U00192, U00272, U00317, U00318, U00328, U00534, U00626, U00710, U00800, U01144. This is targeted annotation verification, not complete main-text proofreading or full multi-witness collation.','facsimile':'source/Dra-Thal-Gyur-Adzom-2000.pdf','pdf_sha256':hashlib.sha256((root/'source/Dra-Thal-Gyur-Adzom-2000.pdf').read_bytes()).hexdigest(),'method':'Inspected native embedded facsimile images with full-page, overlapping half-page, and focused crops. No OCR or generative image editing. Single-shad Wylie proposals express reviewed lexical main readings; electronic whitespace and physical lineation are not equated. Local non-observation never establishes absence from the entire witness.','records':rows}
+(out/'ch1-annotation-audit.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
+md=['# Chapter 1 targeted annotation audit','',report['scope'],'',report['method'],'','PDF SHA-256: `'+report['pdf_sha256']+'`','',f'{len(rows)} records reviewed. Main text and printed annotation provenance are judged separately.','']
+for r in rows:
+ md += [f"## {r['id']}",'',f"- Original: `{r['original_unit_wylie']}`",f"- Proposed main: `{r['proposed_scan_main_wylie']}`" if r['proposed_scan_main_wylie'] else '- Proposed main: none in this annotation-only electronic unit.',f"- Annotation preserved: `{r['annotation_kept_separately_wylie']}`",f"- Provenance: {r['annotation_provenance']}; confidence: {r['annotation_provenance_confidence']}.",f"- Locator: PDF {', '.join(map(str,r['pdf_pages']))}; BDRC {', '.join(map(str,r['bdrc_images']))}; {r['physical_locator']}.",'- Decision: '+r['rationale'],'- Crops: '+', '.join(f'`{x}`' for x in r['crop_paths']),'']
+(out/'ch1-annotation-audit.md').write_text('\n'.join(md))
+print(len(rows),out/'ch1-annotation-audit.json')

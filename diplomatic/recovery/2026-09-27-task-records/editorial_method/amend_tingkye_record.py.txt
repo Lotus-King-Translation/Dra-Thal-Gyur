@@ -1,0 +1,13 @@
+import json
+from pathlib import Path
+root=Path('/workspace/scratch/a117ee885aff');p=root/'tingkye-ch1-collation.json';d=json.loads(p.read_text());d['evidence_directory']='tingkye-ch1-evidence';d['prior_focused_results_provenance']={'json':'second-dege-tingkye.json','evidence_directory':'second-reading-crops'};d['colophon']['native_boxes']={'p069-u2634-start-u2635-start.png':[2060,420,3810,526],'p069-u2635-end.png':[630,507,1890,624]};p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')
+missing=[]
+for section in ['ordered_inspected_rows','findings','unresolved','layers']:
+ for r in d[section]:
+  for f in r.get('evidence',[]):
+   if not (root/d['evidence_directory']/f).exists():missing.append(f)
+for f in d['colophon']['evidence']:
+ if not (root/d['evidence_directory']/f).exists():missing.append(f)
+print('Referenced evidence exists:',not missing,missing)
+print('Completion:',d['complete'])
+print('Chapter boundary:',d['colophon']['pdf_page'],d['colophon']['provider_image'],d['colophon']['printed_page'])

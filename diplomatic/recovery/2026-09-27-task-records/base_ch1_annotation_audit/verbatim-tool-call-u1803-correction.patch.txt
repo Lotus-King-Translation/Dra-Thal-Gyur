@@ -1,0 +1,14 @@
+*** Begin Patch
+*** Update File: /workspace/scratch/a117ee885aff/build_annotation_audit.py
+@@
+-1803:('printed_separate','p70 line 6 far right continuing p71 line 1 left',"The main numeral sa ya is split around nearby smaller gzhi yang byung and the page break: retain main sa ya bzhi bzung ste rang rang bstun. The numerical interpretation is not settled by the transcription."),
++1803:('printed_separate_boundary_correction','main p70 line 6 far right continuing p71 line 1 left; smaller note after main ya at p70 line 6 far right',"Correction of this audit's earlier erroneous layer split: p70 ends with large ya followed by smaller sa gzhi yang byung. P71 begins large bzhi bzung ste rang rang bstun. The observed main is ya bzhi bzung ste rang rang bstun; do not move the smaller sa into main to obtain the numerically familiar sa ya. Preserve the whole smaller report sa gzhi yang byung separately. Root and the continuous-late reader independently identified this boundary before this focused recheck."),
+@@
+  if n==1811:ann='lo ste zhag bcu phrag gsum yang byung'
++ if n==1803:main='ya bzhi bzung ste rang rang bstun/';ann='sa gzhi yang byung'
+@@
+  if n in (1668,1776,1829,2615):row['related_main_unit']={1668:1667,1776:1775,1829:1830,2615:2614}[n]
++ if n==1803:
++  row['review_history']=[{'status':'superseded_in_this_audit','main_wylie':'sa ya bzhi bzung ste rang rang bstun/','annotation_wylie':'gzhi yang byung','reason':'Incorrect layer boundary placed small-print sa in the main numeral.'},{'status':'corrected_after_native_crop_recheck','main_wylie':main,'annotation_wylie':ann,'reason':'Both native crops visibly distinguish large ya from smaller sa gzhi yang byung; p71 main starts bzhi bzung.'}]
++  row['crop_paths'].extend([str(out/'root-u1803-70.png'),str(out/'root-u1803-71.png')])
+*** End Patch

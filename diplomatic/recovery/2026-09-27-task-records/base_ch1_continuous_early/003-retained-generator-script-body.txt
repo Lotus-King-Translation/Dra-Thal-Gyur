@@ -1,0 +1,24 @@
+CLASSIFICATION: retained-tool-input fragment. This is the literal Python body supplied in the original cat heredoc for /workspace/scratch/a117ee885aff/dzongsar_collation_work.py. It has not been executed during recovery. It is not recovered original file bytes.
+
+import json,fitz,io,sys
+from pathlib import Path
+from PIL import Image
+ROOT=Path('/workspace/scratch/a117ee885aff'); REPO=ROOT/'Dra-Thal-Gyur'; OUT=ROOT/'dzongsar-ch1-images'; REPORT=ROOT/'dzongsar-ch1-collation.json'
+def images(a,b):
+ p=fitz.open(REPO/'editions/dzongsar-manuscript/sgra-thal-gyur.pdf')
+ for n in range(a,b+1):
+  im=Image.open(io.BytesIO(p.extract_image(p[n-1].get_images()[0][0])['image']))
+  im.save(OUT/f'p{n:03}.png')
+  for j,(x0,x1) in enumerate([(0,1350),(1250,2519)]): im.crop((x0,0,x1,670)).save(OUT/f'p{n:03}-{j}.png')
+def units(a,b):
+ for x in json.load(open(REPO/'translations/2026-09-26-full-draft/data/source-units.json'))[a-1:b]: print(x['id'],x['wylie'])
+def save(d):
+ REPORT.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')
+ s=['# Dzongsar manuscript, Chapter 1: continuous collation ledger','',d['scope'],'',d['boundary']['description'],'','This is a work in progress. Unexamined pages and unresolved glyphs are not agreements.','', '## Page coverage','', '| PDF / BDRC image | Adzom unit endpoints | Status | Detail |','|---|---|---|---|']
+ for p in d['pages']:s.append(f"| {p['pdf_page']} / {p['pdf_page']+4} | {p.get('start','')} – {p.get('end','')} | {p['status']} | {p.get('detail','')} |")
+ s+=['','## Observed differences and unresolved readings','']
+ for v in d['observations']:s += [f"### {v['id']}: {v['unit']} / PDF {v['pdf_page']}",'',json.dumps(v,ensure_ascii=False,indent=2),'']
+ (ROOT/'dzongsar-ch1-collation.md').write_text('\n'.join(s)+'\n')
+if __name__=='__main__':
+ if sys.argv[1]=='images':images(int(sys.argv[2]),int(sys.argv[3]))
+ if sys.argv[1]=='units':units(int(sys.argv[2]),int(sys.argv[3]))

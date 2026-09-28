@@ -1,0 +1,23 @@
+CLASSIFICATION: verbatim-tool-output fragments. These are literal text printed by original successful commands, as retained in conversation. They are not full generated report bytes, recovered images, or a new reading.
+
+--- Original image-integrity/boundary-update command output ---
+manifest type dict repaired ['p123.png', 'p011.png']
+manifest keys ['edition', 'manifest_url', 'bdrc_image_start', 'bdrc_image_end', 'pages', 'skipped_indices_not_in_manifest', 'images', 'pdf_sha256', 'zip_sha256', 'dimensions_preserved_every_page', 'pixel_identity_checked_pdf_pages', 'new_ocr']
+
+--- Original evidence-manifest/report command output ---
+Saved dzongsar-ch1-collation.json dzongsar-ch1-collation.md page ledger entries 25 observations 8
+
+--- Original reading-units lookup output before U180 correction ---
+{'id': 'U00180', 'source_tibetan': 'དེ་ནས་གཅིག་དང་ཐ་མི་སྡུད་པ་པོ་ཞུ་བ་རང་བྱུང་གི་བཀོད་པ་དད། །', 'reading_tibetan': 'དེ་ནས་གཅིག་དང་ཐ་མི་དད། །', 'status': 'scan_intervention'}
+{'id': 'U00187', 'source_tibetan': 'འབྱུང་བཞིའི་དགོངས་དགོས་པ་ཡང་བྱུང་པ་ཇི་ལྟ་བུ། །', 'reading_tibetan': 'འབྱུང་བཞིའི་དགོངས་པ་ཇི་ལྟ་བུ། །', 'status': 'scan_intervention'}
+{'id': 'U00192', 'source_tibetan': 'འདི་མཚམས་འོག་གི་རང་དང་གཞན་གྱི་དམ་བཅའི་ཞེས་པ་དང་འཕེན་པ་རླུང་སྟེ་ཞེས་པ་གཉིས་ཀྱི་དྲི་བ་མ་བྱུང་འགྱུར་དང་འགྱུར་བྱེད་གང་དང་གང་། །', 'reading_tibetan': 'འགྱུར་དང་འགྱུར་བྱེད་གང་དང་གང། །', 'status': 'scan_intervention'}
+
+--- Original corrected-base intervention lookup output ---
+U00039 stong dang ldan pa dbus ma'i gnas/_/ scan_intervention
+U00180 de nas gcig dang tha mi dad/_/ scan_intervention
+U00187 'byung bzhi'i dgongs pa ji lta bu/_/ scan_intervention
+U00192 'gyur dang 'gyur byed gang dang gang/_/ scan_intervention
+U00272 de nas khyab bdag sems dpa' ni/_/ scan_intervention
+
+--- Original final-correction command output ---
+Saved corrected checkpoint: 9 observations

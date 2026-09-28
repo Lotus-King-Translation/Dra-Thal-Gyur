@@ -1,0 +1,79 @@
+{
+  "agent": "/root/langtang_ch1",
+  "recovery_date": "2026-09-27",
+  "original_collation_date": "not established by retained excerpts; before recovery",
+  "original_filesystem_bytes_recovered": false,
+  "original_file_hashes_available": false,
+  "collation_resumed": false,
+  "scripts_executed": false,
+  "source_scans_reread": false,
+  "files": [
+    {
+      "path": "base.py.txt",
+      "bytes": 444,
+      "sha256": "deec4fccd59a7b04d3a016a87e285e6b63f30eb68f9320661bbe2392e83c96d2",
+      "route": "literal_recovery_tool_input_with_compacted_context_provenance",
+      "completeness": "complete retained helper block; original filesystem byte identity unverified"
+    },
+    {
+      "path": "checkpoint.py.txt",
+      "bytes": 2142,
+      "sha256": "77ecf6e2fd240f67e56905c5010951fb7a5f2c5082b188c7ba5e43db95931369",
+      "route": "literal_recovery_tool_input_with_compacted_context_provenance",
+      "completeness": "complete retained checkpoint helper block; contains no accumulated page or locus records"
+    },
+    {
+      "path": "finalize-middle.py.txt",
+      "bytes": 5535,
+      "sha256": "fc5fdeac2a52731643228012142ac626fd0605217ed2ed764c91ea5053143d0b",
+      "route": "literal_recovery_tool_input_with_compacted_context_provenance",
+      "completeness": "complete retained finalizer script block; fragment of the middle report, adding PDF443–448 and later updates; absent prior data must not be invented"
+    },
+    {
+      "path": "gcn-final-unsaved-handoff.txt",
+      "bytes": 935,
+      "sha256": "7f585379a8d99c2698c896a4649adec237b10b4f31e65b3c8aa49810058d0f1c",
+      "route": "literal_recovery_tool_input_with_compacted_context_provenance",
+      "completeness": "complete retained unsaved handoff message; no original saved late report existed; PDF449–452 only"
+    },
+    {
+      "path": "direct-message-dzongsar-late.txt",
+      "bytes": 685,
+      "sha256": "f37457b08b20149ebd49110bc6391bb0e68dfc8d85e11bba54ab4aa3d2795411",
+      "route": "direct_visible_collaboration_message",
+      "completeness": "full visible message payload with newly added sender/recipient/date metadata"
+    },
+    {
+      "path": "context-summary-limits.md",
+      "bytes": 3144,
+      "sha256": "905fc8b60f3eb4e02d77035a79423b3f6c62bcb7935eb948aa137a6adba051b0",
+      "route": "new_preservation_of_compacted_context_summary",
+      "completeness": "summary only; not literal original report text"
+    },
+    {
+      "path": "PROVENANCE.md",
+      "bytes": 1380,
+      "sha256": "0afc6fff4910aae1c823020ab2ab9f0c46aa3cb6f4b63c3aa00e8f3d470b3120",
+      "route": "new_recovery_metadata",
+      "completeness": "recovery provenance and limitations"
+    }
+  ],
+  "unavailable": [
+    "langtang-ch1.json",
+    "langtang-ch1.md",
+    "adzom73-mapping.json",
+    "adzom73-mapping.md",
+    "gcn-mapping.json",
+    "gcn-mapping.md",
+    "gcn-opening.json",
+    "gcn-opening.md",
+    "gcn-middle.json",
+    "gcn-middle.md",
+    "Gcn opening generator literal text",
+    "Gcn middle incremental writes before finalizer"
+  ],
+  "never_saved_before_interruption": [
+    "gcn-final.json",
+    "gcn-final.md"
+  ]
+}

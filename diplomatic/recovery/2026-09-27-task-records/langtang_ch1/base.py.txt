@@ -1,0 +1,9 @@
+import json,sys
+sys.path.insert(0,'/workspace/scratch/a117ee885aff/python-deps');import pyewts
+c=pyewts.pyewts();rs=json.load(open('/workspace/scratch/a117ee885aff/Dra-Thal-Gyur/diplomatic/collation/chapter-01/reading-units.json'))
+if len(sys.argv)>2:
+ for u in rs[int(sys.argv[1])-1:int(sys.argv[2])]:print(u['id'],c.toWylie(u['reading_tibetan']))
+else:
+ for u in rs:
+  s=c.toWylie(u['reading_tibetan'])
+  if sys.argv[1] in s:print(u['id'],s)

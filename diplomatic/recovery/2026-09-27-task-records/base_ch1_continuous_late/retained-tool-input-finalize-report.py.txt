@@ -1,0 +1,55 @@
+import json
+from pathlib import Path
+p=Path('/workspace/scratch/a117ee885aff/ch1-continuous-late.json')
+d=json.loads(p.read_text())
+anchors={99:('U02546 remainder','U02574 prefix འདིས་ཀྱང་ཟས་གོས་'),100:('U02574 remainder གཉིས་འགྲུབ་ནས།','U02602 complete'),101:('U02603','U02631 complete ཐམས་ཅད་རྫོགས་པ་ཆེན་པོ་ལས།')}
+for x in d['pages']:
+ n=x['pdf_page']
+ if n in anchors:
+  x.update(status='continuous_main_lexical_comparison_complete',main_lexical_comparison_complete=True,punctuation_comparison_complete=False,start_anchor=anchors[n][0],end_anchor=anchors[n][1],evidence=[f'late-crops/{n:03d}-{k}.png' for k in range(3)],result='Six rows continuously compared. Any observed lexical discrepancy or annotation uncertainty is separately recorded; no additional main lexical discrepancy observed.')
+  if n==101:x['result']+=' U2615 transcript annotation not located in this scan; main lexical completion does not certify its provenance.'
+d['completed_lexical_pages']=[x['pdf_page'] for x in d['pages'] if x['main_lexical_comparison_complete']]
+d['differences'] += [
+ {'pdf_page':100,'kind':'new_scan_correction','units':['U02597'],'old_reading':'ལན་དོན་ལྔ་པ།','scan_reading':'དྲིས་ལན་དོན་ལྔ་པ།','confidence':'high','evidence':['late-crops/100-u2597.png'],'reason':'Smaller reply heading in row5 near right clearly begins dris. Transcript omits this syllable.'},
+ {'pdf_page':101,'kind':'annotation_provenance_unresolved','units':['U02615'],'etext':'མདོག་གི་ཡང་བྱུང་།','confidence':'unresolved','evidence':['late-crops/101-0.png','late-crops/101-1.png','late-crops/101-2.png','late-crops/101-overview.png'],'reason':'Not located after continuous inspection of all six physical rows and full-page margins. U2614 main འབྲུ་བཞི་ལྔ་དང་གཟུགས་འདོགས་ཀྱིས། is clear, followed directly by U2616 in row3. Visible small writing in row4 is U2620. This establishes an unlocated transcript annotation, not proof of its historical absence.'},
+ {'pdf_page':101,'kind':'annotation_layer','units':['U02620'],'small_annotation':'དེ་དག་གི་ཞབས་སྡུད་པའོ།','confidence':'medium-high','evidence':['late-crops/101-u2614-2620.png'],'reason':'Small source summary appears in row4 before ston pa of U2621. Impression is somewhat heavy but the smaller type and summary reading are visible. Keep separate from main verse.'}
+]
+# Correct positional descriptions after independent annotation audit; reading itself unchanged.
+for x in d['differences']:
+ if x.get('unit')=='U01414':x['reason']='Main sa pa la occurs in full-sized verse; smaller se yi yang byung is physically in row4 near right within/after the next rab tu sbyor ba context. Physical placement is distinct from inferred target.'
+ if x.get('unit')=='U01417':x['reason']='Main bstims nas is uninterrupted full-sized verse; small bsdebs kyang byung occurs physically in row5 before phyin nas. Physical placement is distinct from inferred target.'
+ if x.get('unit')=='U01422':x['reason']='Main rin po che yi is full-sized verse; smaller rin chen bse\'i yang byung is physically row6 far right. Retain separately.'
+d['caveats'] += ['PDF p60 U1522 remains uncertain at the fused glyph cluster པའི་རྒྱུ་; no conjectural correction proposed.','PDF p101 U2615 supplied annotation not visually located; its Adzom scan provenance remains unresolved.','Scope ends at U2631 on PDF p101. Chapter1 U2632–2635 and any p102 inscription lie outside this assigned page range.']
+p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')
+lines=['# Continuous Adzom Chapter 1 comparison: PDF pages 51–101','',
+'All 51 assigned scan pages were read continuously in native-image crops against the supplied source units. Fifty pages have completed main lexical comparison; page 60 has one unresolved fused glyph cluster. This is not a certificate of exhaustive diplomatic punctuation or annotation completeness. No repository files were changed by this subagent.','',
+'Source: `source/Dra-Thal-Gyur-Adzom-2000.pdf`; comparison: `translations/2026-09-26-full-draft/data/source-units.json`. PDF page numbers are one-based; BDRC image = PDF page + 2. Native page images are 5696 × 1344 pixels. Crops and exceptional detail images are in `late-crops/`.','',
+'## New corrections established from the scan','',
+'| PDF page | Unit | Supplied reading | Scan reading | Reason |','|---|---|---|---|---|',
+'| 63 | U01598 | ཀུན་རྫོ་བ་ལས། | ཀུན་རྫོབ་ལས། | The ba is a suffix, without an intervening tsheg. |',
+'| 98 | U02522 | གཞོན་པའགྱུར། | གཞོན་པར་འགྱུར། | Printed ra suffix and syllable boundary are visible. |',
+'| 100 | U02597 | ལན་དོན་ལྔ་པ། | དྲིས་ལན་དོན་ལྔ་པ། | Small reply heading includes initial dris. |','',
+'All three have high confidence. Evidence: `063-u1598.png`, `098-u2522.png`, `100-u2597.png` in `late-crops/`. Full readings and reasons are in the JSON ledger.','',
+'## Important source layers and uncertainty','',
+'- p60 U01522: the glyph cluster corresponding to supplied པའི་རྒྱུ་ after བྱེད་ is fused/overwritten-looking; no independent certification or conjectural correction. Evidence: `060-u1522.png`.',
+'- p71 U01811–U01812: main is ལོ་སྟོང་ཞག་ཀྱང་འབུམ་ཕྲག་གསུམ།; the smaller alternative is ལོ་སྟེ་ཞག་བཅུ་ཕྲག་གསུམ་ཡང་བྱུང་. The transcript interleaves them. Evidence: `071-u1811.png`.',
+'- p87 U02225: main is སྒྲ་དང་གདམས་ངག་ལ་སོགས་ཏེ།; the entire smaller alternative is སྨྲ་དང་གཏམ་ངན་ཡང་བྱུང་. Do not leave སྨྲ་དང་ in the main verse.',
+'- p96 U02489: main ends སྤྱོད་པའི།, retained as printed; its smaller reply heading is physically the first text of p97.',
+'- p101 U02615: supplied མདོག་གི་ཡང་བྱུང་། was not located after six-row and full-page margin inspection. Its A-scan provenance is unresolved. This does not prove its historical absence.',
+'- p101 U02620: དེ་དག་གི་ཞབས་སྡུད་པའོ། is a smaller source summary in row4 before U02621, not main verse.','',
+'Additional small annotation separations are recorded in the JSON ledger for p56,57,62,65,66,67,68,69,70,83,91. An independent annotation agent is auditing these layers. Physical placement should not be silently identified with an inferred textual target.','',
+'## Existing omissions independently confirmed','',
+'All 13 omitted main verses plus the heading in existing restorations S01–S07 were read in their continuous contexts: p51 after U01274 (3 verses); p74 after U01882 (3); p78 after U02005 (3); p85 after U02187 (2); p90 after U02308 (2 verses and one heading). Exact Tibetan is in the JSON ledger.','',
+'## Page coverage','',
+'“Complete” below means continuous main lexical comparison, not complete punctuation transcription. p60 was continuously inspected, but the unresolved cluster prevents complete lexical certification. All rows were compared; no page was marked complete merely because its image was opened.','',
+'| PDF page | BDRC image | Status | Start anchor | End anchor |','|---:|---:|---|---|---|']
+for x in d['pages']:
+ status='Complete' if x['main_lexical_comparison_complete'] else 'Inspected; uncertain glyphs'
+ lines.append(f"| {x['pdf_page']} | {x['bdrc_image']} | {status} | {x.get('start_anchor','')} | {x.get('end_anchor','')} |")
+lines += ['','## Limits','',*['- '+c for c in d['caveats']],'','The supplied e-text commonly has double shad where the scan shows a single shad. This pass does not certify each punctuation, line-fill, spacing, or typographic detail. It is a continuous lexical audit with explicit residual uncertainty, not a claim that Chapter 1 or the edition is fully completed.','']
+Path('/workspace/scratch/a117ee885aff/ch1-continuous-late.md').write_text('\n'.join(lines))
+print('Wrote JSON and Markdown; pages:',len(d['pages']),'lexical complete:',len(d['completed_lexical_pages']),'findings:',len(d['differences']))
+print('Statuses:',{s:sum(x['status']==s for x in d['pages']) for s in set(x['status'] for x in d['pages'])})
+assert len(d['completed_lexical_pages'])==50
+assert [x['pdf_page'] for x in d['pages']]==list(range(51,102))
+assert not any(x['status']=='not_inspected' for x in d['pages'])

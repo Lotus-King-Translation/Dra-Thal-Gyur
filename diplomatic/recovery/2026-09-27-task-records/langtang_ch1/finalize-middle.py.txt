@@ -1,0 +1,38 @@
+import sys;sys.path.insert(0,'/workspace/scratch/a117ee885aff/gcn-middle-inspect')
+from checkpoint import *
+x=get()
+def evidence(n,b):
+ f=R/'gcn-middle-inspect'/f'{n}.jpg';x['loci'][-1]['evidence']={'file':str(f),'native_composite_bounds':b,'sha256':hashlib.sha256(f.read_bytes()).hexdigest()}
+page(x,443,'U00989 pha med bu ni badzra he','U01032 partial di nas')
+locus(x,'U00989 U00993 U00997 U01000 U01007 U01011 U01015',443,'1–5','Sanskrit-style personal names','Names recognizable; exact conjunct/vowel-length details not fully established','partially_read','Lexical context was compared, but this report does not certify every Sanskrit conjunct or length mark. No unseen graphic distinctions are counted as agreement.','name_graphic_uncertainty')
+locus(x,'U01026',443,7,'khams gnyis','[ink-overlapped]','unresolved','Continuation after zhing at prior row end; subsequent la nges spyad nas readable.','local_damage')
+locus(x,'U01023',443,6,'dris lan bcu drug pa','Small reply-sixteen label before U1024','read','Source annotation present.','source_annotation')
+page(x,444,'U01032 bskal pa bye ba na','U01073 partial lus can rnam par mi')
+for u,row,span in [('U01045',3,'rdzu phrul'),('U01056',5,'drang nges las kyi'),('U01068',7,'di dus khor ba')]:locus(x,u,444,row,span,'[ink-overlapped]','unresolved','Listed left-edge span not secure; remaining line read across to right edge.','local_damage')
+locus(x,'U01048–U01049',444,'3–4','No equivalent root-text words','Tiny below-line annotation at transition','unresolved','Small mark/letters below the transition near ston pai khor and following phags pa; exact reading not established.','source_annotation')
+page(x,445,'U01073 snang ngo','U01112 partial lnga pai lus dang yan')
+locus(x,'U01083',445,2,'dris lan bcu bdun pa','Small reply-seventeen label at U1084','read','Source annotation present.','source_annotation')
+locus(x,'U01098',445,5,'gnad dus bkod pa sum cu gcig',"gnad 'dus bkod pa sum cu gcig",'read','Targeted crop shows the achung prefix before dus. Retain as witness difference; no base emendation proposed.')
+evidence('u1098',[800,405,1460,490])
+locus(x,'U01105',445,6,'ye shes bkod pa lnga bcu brgyad','yan lag bkod pa lnga bcu brgyad','read','First two syllables read yan lag; numeric ending lnga bcu brgyad is present. Not a blank or omission at this locus.')
+evidence('u1105',[1680,470,2450,550])
+page(x,446,'U01112 lag ni','U01155 partial sems can rlung')
+locus(x,'U01122 / U01117',446,1,'Reply-eighteen heading before U1123','Small dris lan bco brgyad label under U1117','read','The source number label is earlier than the Adzom position, beside drug pai lus dang yan lag ni. Main U1123 occurs in row2.','source_annotation_position')
+evidence('reply18',[2160,195,2750,305])
+locus(x,'U01125',446,3,'las kyi brten so','[ink-overlapped]','unresolved','Beginning of continuation at left edge is not secure; yis and following phyi yi byung ba material readable.','local_damage')
+locus(x,'U01147',446,6,'dris lan bcu dgu pa','Small reply-nineteen label under U1148','read','Source annotation present.','source_annotation')
+page(x,447,'U01155 sems pho bai dus','U01206 de nas lha min gnas dag ste',note='Actual local omission U1173–1180 at row4; see expanded native crop and independent-check request.')
+locus(x,'U01173–U01180',447,4,'Eight verses between U1172 and U1181',None,'read_omission','The main line directly joins U1172 dus kyi rim pa drug cu byung to U1181 goms pai pho dus brgyad rim gyis. No intervening verses at that join; every other main row on the page also inspected. Independent check requested from dzongsar_late.','main_text_omission')
+evidence('u1172-u1181-gap',[110,330,1700,445])
+locus(x,'U01186',447,5,'dris lan nyi shu pa','Small reply-twenty label below U1187','read','Source annotation present.','source_annotation')
+page(x,448,'U01207 gling bzhii mi rnams rim gyis so','U01252 byi ba glang dang stag nyid dang')
+locus(x,'U01218',448,'2–3',"srid pa'i 'khrul 'khor nyid du'o", "srid pa'i 'khrul 'khor nyid do",'read','Ending at row3 start reads nyid do with o vowel, not du-o. Initial phrase is on preceding row.')
+evidence('u1218',[110,300,430,395])
+locus(x,'U01239',448,5,'dris lan nyer gnyis pa','Small reply-twenty-two label near U1240','read','Source annotation present.','source_annotation')
+locus(x,'U01249',448,7,'dgun','Tiny below-line note under dgun','unresolved','A small source note below the winter term is visible; exact reading not secure.','source_annotation')
+x['complete']=True
+x['scope_limit']='Assigned PDF411–448 complete as a bounded visual lexical comparison, with recorded local unresolved spans and partially read paratext. Chapter1 remains incomplete in this report; PDF449–484 are a separate task. No whole-glyph or human certificate.'
+x['repeated_exposures']=[{'later_pdf':a,'earlier_pdf':b,'status':'all main rows visually checked; same text/layout, separate photographic exposure'} for a,b in [(418,416),(419,417),(422,420),(423,421),(426,424),(427,425),(436,434),(437,435),(440,438),(441,439)]]
+x['resolved_local_rereads']=[{'unit':'U00722','reading':'yang dag tshig','note':'Targeted crop supports tshig; initial local doubt not counted as variant.'},{'unit':'U01127','reading':'las dang gos dang dbang po dang','note':'Targeted crop supports las, not an invented zas variant.'},{'unit':'U01142','reading':'bcud kyis len pa grub','note':'Targeted crop does not establish a missing-s variant.'}]
+save(x)
+print('Saved complete 411–448 report:',len(x['pages']),'pages,',len(x['loci']),'loci')
