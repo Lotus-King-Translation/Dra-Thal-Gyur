@@ -1,0 +1,60 @@
+{
+  "incoming_head": "f635311376e8aa3072cf56ecbb72bb24138185ea",
+  "recovery_branch": "recovery/20260928-interruption-120821",
+  "recovery_commit_verified_on_branch_and_main": "dc09b247764ac68d65ca138326b35c48539338d6",
+  "incoming_untracked_files": [
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04-U01239-followup-reading.txt",
+      "bytes": 2293,
+      "sha256": "ecf4906c7dff889ab3e4f8c5397bb0dc0594a6b43b81d170c12ca1ad4052063d"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04-U01239-followup-session.jsonl",
+      "bytes": 3861,
+      "sha256": "9f0262f0ba27a6746c1129729ba8be3011d3d2264b4bcce83d26e9619b8c0f9b"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04-U01239-followup-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05-U01557-followup-reading.txt",
+      "bytes": 2093,
+      "sha256": "135a81ab4dbd2878fe2f28454ec5caca7c95837dd9de10988d8aa1e8abdda1bc"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05-U01557-followup-session.jsonl",
+      "bytes": 3611,
+      "sha256": "47dbee63829bc2e701330ade836733638fcc852a0a374510c561b99339436aae"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05-U01557-followup-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "incoming_ignored_project_files": [],
+  "other_existing_project_worktree_status": "Clean detached checkout; no unpublished work found",
+  "interrupted_coordinator_pid": 35215,
+  "surviving_canonical_inputs_match_saved_files": [
+    "WORK-QUEUE.json",
+    "additional-interventions.json",
+    "scan-coverage.json",
+    "C1-SIGNS-02.json"
+  ],
+  "surviving_raw_editorial_drafts": {
+    "path": "diplomatic/reviews/chapter-01/continuation/INTERRUPTION-20260928/interrupted-repl-editorial-drafts.json",
+    "sha256": "f58400f313f8e7dffa438ecca42ff2f5e1495d1b3f2cd2d2e3334da97ddd6be3"
+  },
+  "reader_output_handles": "Both interrupted follow-up subprocesses finished with return code 0 and output handles were already closed",
+  "scope_limit": "This audit covers the checkout, recovered six output files and selected surviving editorial objects. It is not a literal process-memory or historical-cloud restoration. No work was deleted or reset.",
+  "initial_read_only_checks": {
+    "chapter_validator": "passed",
+    "chapter_reproducibility": "passed",
+    "source_anchor_count": 2635,
+    "intervention_count": 82,
+    "unfinished_sign_candidates": 2
+  },
+  "editorial_effect": "No canonical reading changes; completed C1-SIGNS-03/C1-SIGNS-06 receipt labels reconciled; both recovered follow-ups linked and pending coordinator inspection."
+}

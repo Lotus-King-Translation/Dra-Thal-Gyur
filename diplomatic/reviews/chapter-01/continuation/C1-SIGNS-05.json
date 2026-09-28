@@ -460,7 +460,51 @@
       "proposed_reading": null,
       "canonical_record_ids": [],
       "rationale": "Independent correspondence/glyph discrimination is incomplete; preserve the coordinator proposal as provisional only.",
-      "next_step": "Verify the faint opening from an authorized alternative image before confirming full correspondence; preserve the two visible boundary shads meanwhile."
+      "next_step": "Verify the faint opening from an authorized alternative image before confirming full correspondence; preserve the two visible boundary shads meanwhile.",
+      "recovered_followup": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05-U01557-followup-reading.txt",
+        "sha256": "135a81ab4dbd2878fe2f28454ec5caca7c95837dd9de10988d8aa1e8abdda1bc",
+        "same_reader": true,
+        "observation": {
+          "anchor": "U01557",
+          "boundary_correspondence_established": true,
+          "complete_heading_lexically_read": false,
+          "actual_observed_context": {
+            "preceding_row5_visible": "དེས་ན་རླུང་གིས་ལས་ཀུན",
+            "row6_before_heading": "Faint row-initial continuation; not freshly transcribed.",
+            "following_row6_visible": "ལུས་ཀྱི་གནད་ནི་རྩ་ཡིན་ཏེ"
+          },
+          "physical_locator": {
+            "pdf_page": 61,
+            "physical_main_row": 6,
+            "description": "Small heading after the faint row-initial continuation and before the main-text ལུས་ཀྱི sequence. The visible སོ་གསུམ་པ ending and adjoining sequence uniquely locate this boundary.",
+            "approximate_native_heading_bounds": [
+              900,
+              865,
+              1400,
+              1005
+            ]
+          },
+          "detached_boundary_shads": 2,
+          "exact_observed_target_only": "སོ་གསུམ་པ",
+          "unread_glyphs_with_native_bounds": [
+            {
+              "description": "Faint initial heading portion preceding the legible ending; no missing letters supplied from the electronic reading.",
+              "approximate_native_bounds": [
+                905,
+                885,
+                1110,
+                990
+              ]
+            }
+          ],
+          "letter_vs_sign_reasoning": "The final པ has a connected right limb. Beyond that limb, a separate narrow upright closes the small heading, approximately within [1375,887,1400,1005]. A second detached upright precedes main-text ལུས, approximately within [1473,896,1496,980]. Both are counted. The connected letter limb, bottom frame, and row5 terminal fill marks are excluded.",
+          "confidence": "High for physical correspondence and two detached boundary shads; insufficient for complete transcription of the faint opening.",
+          "uncertainty": "Initial heading letters remain unresolved. Coordinates are visual estimates in full-native coordinates. Physical sign inventory does not settle electronic-unit ownership.",
+          "effect_on_prior_finding": "Corrects the earlier conflation: boundary correspondence is established, while complete lexical reading remains unestablished. The two-shad finding is unchanged. This is the same reader's follow-up, not another corroborating vote."
+        },
+        "integration_status": "preserved; current coordinator review not yet performed"
+      }
     },
     {
       "anchor": "U01634",
@@ -625,5 +669,14 @@
     "U01557"
   ],
   "prior_verified_evidence_commit": "4b42e6e4672416021671119ea58dd5caa85f1efc",
-  "independence": "One informed independent agent per five-candidate packet plus coordinator; no blind or human-certification claim."
+  "independence": "One informed independent agent per five-candidate packet plus coordinator; no blind or human-certification claim.",
+  "resume_history": [
+    {
+      "coordinator": "ChatGPT-coordinator-20260928-resume3",
+      "recovery_commit": "dc09b247764ac68d65ca138326b35c48539338d6",
+      "preservation_branch": "recovery/20260928-interruption-120821",
+      "prior_status": "partial_blocked",
+      "scope": "Recover follow-up, distinguish boundary identity from complete lexical reading; no canonical edit in this restart checkpoint."
+    }
+  ]
 }

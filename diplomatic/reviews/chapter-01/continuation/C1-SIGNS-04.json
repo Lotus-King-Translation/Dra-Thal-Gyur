@@ -290,7 +290,89 @@
       "proposed_reading": null,
       "canonical_record_ids": [],
       "rationale": "Independent correspondence/glyph discrimination is incomplete; preserve the coordinator proposal as provisional only.",
-      "next_step": "Reinspect the heading's final glyph and narrow terminal strokes before proposing punctuation; include the leading shad before ཞག in the inventory."
+      "next_step": "Reinspect the heading's final glyph and narrow terminal strokes before proposing punctuation; include the leading shad before ཞག in the inventory.",
+      "recovered_followup": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04-U01239-followup-reading.txt",
+        "sha256": "ecf4906c7dff889ab3e4f8c5397bb0dc0594a6b43b81d170c12ca1ad4052063d",
+        "same_reader": true,
+        "observation": {
+          "anchor": "U01239",
+          "boundary_correspondence_established": true,
+          "complete_heading_lexically_read": false,
+          "actual_observed_context": {
+            "before": "གཅིག་ཡིན་ནོ",
+            "heading_legible_prefix": "དྲིས་ལན་ཉེར་གཉི",
+            "after": "ཞག / ནི་བཅུ་ཕྲག་གསུམ་པ་ཡང"
+          },
+          "physical_locator": {
+            "pdf_page": 49,
+            "bdrc_image": 51,
+            "source_member": "0051.png",
+            "physical_main_row": 5,
+            "position": "Small heading immediately before row-final ཞག; following text continues on row 6.",
+            "detail_crop_native_bounds": [
+              4780,
+              755,
+              5090,
+              965
+            ],
+            "coordinate_precision": "Stroke bounds below are visual estimates in full native coordinates."
+          },
+          "detached_boundary_shads": 2,
+          "exact_observed_target_only": null,
+          "unread_glyphs_with_native_bounds": [
+            {
+              "native_bounds": [
+                4898,
+                779,
+                4947,
+                865
+              ],
+              "description": "Final shaped letter before the detached uprights; tentatively ས, but its identity remains insufficiently certain for a complete transcription. An additional པ is not independently established."
+            }
+          ],
+          "letter_vs_sign_reasoning": [
+            {
+              "native_bounds": [
+                4934,
+                780,
+                4947,
+                865
+              ],
+              "classification": "Letter limb",
+              "reason": "The first narrow descending stroke meets the shaped final letter's descending branch; it is not counted as a detached shad."
+            },
+            {
+              "native_bounds": [
+                4951,
+                782,
+                4964,
+                896
+              ],
+              "classification": "Detached shad",
+              "reason": "A separate narrow upright follows the final letter, without a connecting branch."
+            },
+            {
+              "native_bounds": [
+                4994,
+                782,
+                5009,
+                899
+              ],
+              "classification": "Detached shad",
+              "reason": "A second, heavier upright stands separately before the next main ཞག. It must remain in the boundary inventory."
+            }
+          ],
+          "confidence": {
+            "physical_correspondence": "high",
+            "boundary_count": "moderately high",
+            "final_letter_identity": "low"
+          },
+          "uncertainty": "The crops resolve the distinction between the final letter's limb and two detached uprights more clearly than they resolve the final letter's identity. No electronic-unit ownership is assigned.",
+          "effect_on_prior_finding": "Updates boundary correspondence to established and detached-shad count from null to 2. Complete lexical reading remains unresolved; no punctuation-only correction is authorized by this finding. This is the same reader's follow-up, not another corroborating vote."
+        },
+        "integration_status": "preserved; current coordinator review not yet performed"
+      }
     },
     {
       "anchor": "U01257",
@@ -548,5 +630,14 @@
     "U01239"
   ],
   "prior_verified_evidence_commit": "4b42e6e4672416021671119ea58dd5caa85f1efc",
-  "independence": "One informed independent agent per five-candidate packet plus coordinator; no blind or human-certification claim."
+  "independence": "One informed independent agent per five-candidate packet plus coordinator; no blind or human-certification claim.",
+  "resume_history": [
+    {
+      "coordinator": "ChatGPT-coordinator-20260928-resume3",
+      "recovery_commit": "dc09b247764ac68d65ca138326b35c48539338d6",
+      "preservation_branch": "recovery/20260928-interruption-120821",
+      "prior_status": "partial_blocked",
+      "scope": "Recover follow-up, distinguish boundary identity from complete lexical reading; no canonical edit in this restart checkpoint."
+    }
+  ]
 }

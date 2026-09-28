@@ -1,0 +1,238 @@
+{
+  "provenance": "Selected surviving editorial objects from interrupted coordinator Python process 35215; captured after its completed follow-up outputs were preserved remotely. These are original in-memory drafts, not new readings or superseding decisions. Python tuples serialize as JSON arrays.",
+  "captured_from_pid": 35215,
+  "saved_file_comparisons": {
+    "WORK-QUEUE.json": true,
+    "additional-interventions.json": true,
+    "scan-coverage.json": true,
+    "C1-SIGNS-02.json": true
+  },
+  "draft_tuple_fields": [
+    "anchor",
+    "pdf_page",
+    "row",
+    "preceding_observation",
+    "target_observation",
+    "following_observation",
+    "provisional_detached_sign_count",
+    "rationale"
+  ],
+  "coordinator_drafts": {
+    "C1-SIGNS-03": [
+      [
+        "U01627",
+        64,
+        "3 right -> 4 left",
+        "བདེ་ཆེན་ཟག་མེད་ཐོབ་པ་དང",
+        "འབྱུང་བཞི / དག་ལ་དབང་སྒྱུར་འགྱུར",
+        "དངོས་ལ་བརྟགས",
+        2,
+        "Final ra/gyur letter structure precedes two separated boundary uprights; neighboring lower-row ink is excluded."
+      ],
+      [
+        "U01635",
+        64,
+        5,
+        "དྲིས་ལན་སོ་དྲུག་པ",
+        "འཕོ་བའི་བྱེ་བྲག་རྣམ་པ་གསུམ",
+        "དབང་པོ་དག་གི་དབྱེ་བ་ཡིས",
+        2,
+        "Two thin detached terminal uprights stand before the much heavier page frame; the following main verse is on row6."
+      ],
+      [
+        "U00910",
+        37,
+        4,
+        "འདི་ན་མི་གནས་དེར་སྣང་ངོ",
+        "དྲིས་ལན་བཅུ་བཞི་པ",
+        "དེ་ལྟར་དར་འགྲིབ",
+        2,
+        "Small heading ends with a detached shad followed across white space by another upright before next main text; exclude final pa limb."
+      ],
+      [
+        "U00948",
+        39,
+        1,
+        "བ་རྣམས་ནི་སྨིན་བྱེད་དོ",
+        "དྲིས་ལན་བཅོ་ལྔ་པ",
+        "རྫོགས་སངས་རྒྱས",
+        2,
+        "Two detached boundary marks separate small heading pa from next main text; the main-letter limb is not a punctuation sign."
+      ],
+      [
+        "U01023",
+        41,
+        5,
+        "དེ་ནས་མི་གནས་ངོ་བོའོ",
+        "དྲིས་ལན་བཅུ་དྲུག་པ",
+        "བསྟན་པའི་སྙིང་ཐིག",
+        2,
+        "Heading-pa right limb excluded; two free uprights at the heading/main-text boundary."
+      ]
+    ],
+    "C1-SIGNS-04": [
+      [
+        "U01147",
+        46,
+        3,
+        "རང་གི་དོན་ཡང་རྫོགས་པའོ",
+        "དྲིས་ལན་བཅུ་དགུ་པ",
+        "སེམས་ཅན་དུས་ནི་རྣམ་པ་བརྒྱད",
+        2,
+        "Small heading pa has a joined right limb; two additional detached vertical marks separate it from sems-can."
+      ],
+      [
+        "U01186",
+        47,
+        6,
+        "དུས་རིམ་པའོ",
+        "དྲིས་ལན་ཉི་ཤུ་པ",
+        "ཕྱི་རོལ་འབྱུང་བ་རླུང་ལ་ཡང",
+        2,
+        "Two detached shads between small heading pa and next main phyi-rol, excluding the pa limb and bottom frame."
+      ],
+      [
+        "U01239",
+        49,
+        5,
+        "ཆེན་པོ་གཅིག་ཡིན་ནོ",
+        "དྲིས་ལན་ཉེར་གཉིས་པ",
+        "ཞག / ནི་བཅུ་ཕྲག་གསུམ་པ་ཡང",
+        2,
+        "Two detached uprights stand before following zhag at row5 edge. The next anchor continues row6; page frame excluded."
+      ],
+      [
+        "U01257",
+        50,
+        3,
+        "འབྱུང་བའི་རྩིས་རྣམས་སྤེལ་བའོ",
+        "དྲིས་ལན་ཉེར་གསུམ་པ",
+        "ཚེ་ནི་སྤེལ་དང་གསོ་བ་དང",
+        2,
+        "Small heading terminal and next-leading upright are both detached from letters; lower dotted/curved ink not another shad."
+      ],
+      [
+        "U01308",
+        52,
+        "3 right -> 4 left",
+        "ངེས་པར་འགྱུར་རོ་དབང་པོའི་ལྷ",
+        "དྲིས་ལན་ཉེར / ལྔ་པ",
+        "འཁོར་བའི་ལས་རྒྱུད་གཅད་འདོད་ན",
+        2,
+        "The heading is split across rows; two detached uprights after pa at row4 left precede khor-ba main text. Margin and previous-row strokes excluded."
+      ]
+    ],
+    "C1-SIGNS-05": [
+      [
+        "U01353",
+        54,
+        2,
+        "བཅོམ་ལྡན་འདས་ཀྱི་ཡོན་ཏན་ནོ",
+        "དྲིས་ལན་ཉེར་བདུན་པ",
+        "སྐུ་གསུམ་བསླབ་པའི་རིམ་པ་ཉིད",
+        2,
+        "Two detached uprights separate the small heading final pa from following sku-gsum main text; letter limb and upper/lower row material excluded."
+      ],
+      [
+        "U01476",
+        58,
+        5,
+        "ཐེ་ཚོམ་ཟ་བ་མ་ཡིན་ནོ",
+        "དྲིས་ལན་སུམ་ཅུ་པ",
+        "གཉིད་ཀྱི་རྣལ / འབྱོར་སུས་བསྒོམ་པ",
+        2,
+        "Small heading terminal and next-leading mark form two detached uprights; the following root verse crosses row5/6."
+      ],
+      [
+        "U01540",
+        61,
+        2,
+        "ཁམས་གསུམ་དུ་ཡང་ལྡོག་པ་མིན",
+        "དྲིས་ལན་སོ་གཉིས་པ",
+        "རླུང་གི་དགོས་པ་རྣམ་པ་གཉིས",
+        2,
+        "Two detached shads occur after heading-pa, distinct from its connected right limb and following rlung glyph."
+      ],
+      [
+        "U01557",
+        61,
+        6,
+        "དེས་ན་རླུང་གིས་ལས་ཀུན / [faint བྱེད]",
+        "[faint དྲིས] ལན་སོ་གསུམ་པ",
+        "ལུས་ཀྱི་གནད་ནི་རྩ་ཡིན་ཏེ",
+        2,
+        "Correct target is on row6 left, not the provisional row5 context crop. The heading initial syllable is faint; the complete sequence of previous/following main text identifies this heading. Its terminal pa and two detached shads are clear, above the bottom frame. Brackets here describe observed faintness, not supplied source signs."
+      ],
+      [
+        "U01634",
+        64,
+        5,
+        "ཞིང་ཁམས་རྣམས་ལ་ལོངས་སྤྱོད་དོ",
+        "དྲིས་ལན་སོ་དྲུག་པ",
+        "འཕོ་བའི་བྱེ་བྲག་རྣམ་པ་གསུམ",
+        2,
+        "Two detached marks separate the smaller heading from next main verse; curved material from preceding or following rows is not counted."
+      ]
+    ],
+    "C1-SIGNS-06": [
+      [
+        "U01661",
+        65,
+        5,
+        "ངེས་པར་དངོས་སུ་འཕོ་བར་ནུས",
+        "དྲིས་ལན་སོ་བདུན་པ",
+        "རྟེན་འབྲེལ་སྦྱོར་བ་རྣམ་པ་གཉིས",
+        2,
+        "Two detached uprights after the small heading final pa; the second is before next main rten-brel and is not its letter limb."
+      ],
+      [
+        "U01727",
+        68,
+        2,
+        "སྡུག་བསྔལ་ལས་ཀྱང་མཐའ་དབྱེའོ",
+        "དྲིས་ལན་སོ་དགུ་པ",
+        "འབྱུང་བའི་འཕོ་བ་འདི་ལྟ་བུ",
+        2,
+        "Heading starts row2 left; its final pa limb is followed by a detached shad and another upright before main byung-ba. Frame at left excluded."
+      ],
+      [
+        "U01539",
+        61,
+        2,
+        "ལུས་དང་སེམས་ཀྱི་འབྲེལ་ཆད་དེ",
+        "ཁམས་གསུམ་དུ་ཡང་ལྡོག་པ་མིན",
+        "དྲིས་ལན་སོ་གཉིས་པ",
+        1,
+        "One detached upright follows final min before the small heading. The apparent further vertical is part of the following dris letter structure, not a separate leading shad."
+      ],
+      [
+        "U01595",
+        63,
+        2,
+        "སྒོམ་པ་པོས་ནི་རྣམ་པར་སྦྱང",
+        "དེས་ནི་སོ་སོའི་རླུང་ཚད་ཟིན",
+        "དྲིས་ལན་སོ་བཞི་པའོ",
+        1,
+        "One separate terminal upright lies after zin. Following dris starts a connected letter/stack, not an additional detached vertical. Low curved ink at the boundary is excluded from sign count."
+      ],
+      [
+        "U01688",
+        66,
+        5,
+        "སོ་སོའི་སྡེབ་དང་ལེགས་སྦྱར་ན",
+        "འདིས་ཀྱང་ཕན་དང་གནོད་པ་འགྲུབ",
+        "དྲིས་ལན་སོ་བརྒྱད་པའོ",
+        1,
+        "One detached terminal shad after grub precedes the small heading. The heading initial vertical is connected to its letter structure and is not a second shad; neighboring-row strokes excluded."
+      ]
+    ]
+  },
+  "followup_requests_match_saved_files": {
+    "U01239": true,
+    "U01557": true
+  },
+  "followup_processes_finished": {
+    "U01239": 0,
+    "U01557": 0
+  }
+}

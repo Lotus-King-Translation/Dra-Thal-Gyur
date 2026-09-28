@@ -4,7 +4,7 @@
   "canonical_branch": "main",
   "current_chapter": 1,
   "chapter_status": "in_progress_not_ready",
-  "next_task_id": "C1-SIGNS-03",
+  "next_task_id": "C1-SIGNS-04",
   "path_base": "repository root; JSON pointers identify records without changing their historical contents",
   "scope": "Continuation queue, not a whole-chapter collation claim. Thirty punctuation candidate identities remain tracked, including completed dispositions; unfinished items are hypotheses, not accepted readings. Existing Adzom and Dzongsar main lexical passes remain valid within their recorded scopes.",
   "reference_paths": [
@@ -196,7 +196,7 @@
     {
       "id": "C1-SIGNS-03",
       "kind": "punctuation_batch",
-      "status": "in_progress",
+      "status": "done",
       "owner": "ChatGPT-coordinator-session2",
       "depends_on": [
         "C1-SIGNS-02"
@@ -231,16 +231,17 @@
         "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-03.json",
         "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-03.md"
       ],
-      "checkpoint_commit": "4b42e6e4672416021671119ea58dd5caa85f1efc",
+      "checkpoint_commit": "f635311376e8aa3072cf56ecbb72bb24138185ea",
       "blocker": null,
       "dependency_policy": "preferred_order",
-      "parallel_dispatch_note": "One distinct five-candidate packet per reader; source parent fixed; coordinator alone adopts and publishes after all readers pause. Dependencies remain mandatory only at completion gate."
+      "parallel_dispatch_note": "One distinct five-candidate packet per reader; source parent fixed; coordinator alone adopts and publishes after all readers pause. Dependencies remain mandatory only at completion gate.",
+      "completion_summary": "Completed decisions were published before interruption in f635311376e8aa3072cf56ecbb72bb24138185ea; this resume records the verified receipt without rereading or altering the accepted findings."
     },
     {
       "id": "C1-SIGNS-04",
       "kind": "punctuation_batch",
       "status": "blocked",
-      "owner": "independent-reader-C1-SIGNS-04-20260928",
+      "owner": "ChatGPT-coordinator-20260928-resume3",
       "depends_on": [
         "C1-SIGNS-03"
       ],
@@ -272,15 +273,17 @@
       ],
       "report_paths": [
         "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04.json",
-        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04.md"
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04.md",
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04-U01239-followup-reading.txt"
       ],
-      "checkpoint_commit": "4b42e6e4672416021671119ea58dd5caa85f1efc",
+      "checkpoint_commit": "f635311376e8aa3072cf56ecbb72bb24138185ea",
       "blocker": {
         "reason": "Unresolved native correspondence or glyph segmentation at U01239",
         "next_step": "Use the saved exact context and independent obstacle; resolve or explicitly retain the blocked candidate before closing this batch."
       },
       "dependency_policy": "preferred_order",
-      "parallel_dispatch_note": "One distinct five-candidate packet per reader; source parent fixed; coordinator alone adopts and publishes after all readers pause. Dependencies remain mandatory only at completion gate."
+      "parallel_dispatch_note": "One distinct five-candidate packet per reader; source parent fixed; coordinator alone adopts and publishes after all readers pause. Dependencies remain mandatory only at completion gate.",
+      "resume_scope": "Only U01239 remains; preserve and use its recovered same-reader follow-up. Four adopted readings remain unchanged."
     },
     {
       "id": "C1-SIGNS-05",
@@ -318,9 +321,10 @@
       ],
       "report_paths": [
         "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05.json",
-        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05.md"
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05.md",
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05-U01557-followup-reading.txt"
       ],
-      "checkpoint_commit": "4b42e6e4672416021671119ea58dd5caa85f1efc",
+      "checkpoint_commit": "f635311376e8aa3072cf56ecbb72bb24138185ea",
       "blocker": {
         "reason": "Unresolved native correspondence or glyph segmentation at U01557",
         "next_step": "Use the saved exact context and independent obstacle; resolve or explicitly retain the blocked candidate before closing this batch."
@@ -331,7 +335,7 @@
     {
       "id": "C1-SIGNS-06",
       "kind": "punctuation_batch",
-      "status": "in_progress",
+      "status": "done",
       "owner": "independent-reader-C1-SIGNS-06-20260928",
       "depends_on": [
         "C1-SIGNS-05"
@@ -366,10 +370,11 @@
         "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-06.json",
         "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-06.md"
       ],
-      "checkpoint_commit": "4b42e6e4672416021671119ea58dd5caa85f1efc",
+      "checkpoint_commit": "f635311376e8aa3072cf56ecbb72bb24138185ea",
       "blocker": null,
       "dependency_policy": "preferred_order",
-      "parallel_dispatch_note": "One distinct five-candidate packet per reader; source parent fixed; coordinator alone adopts and publishes after all readers pause. Dependencies remain mandatory only at completion gate."
+      "parallel_dispatch_note": "One distinct five-candidate packet per reader; source parent fixed; coordinator alone adopts and publishes after all readers pause. Dependencies remain mandatory only at completion gate.",
+      "completion_summary": "Completed decisions were published before interruption in f635311376e8aa3072cf56ecbb72bb24138185ea; this resume records the verified receipt without rereading or altering the accepted findings."
     },
     {
       "id": "C1-BASE-LAYERS",

@@ -2,7 +2,7 @@
   "task_id": "C1-SIGNS-03",
   "baseline_commit": "e406ce80e600574ffdb7b136274fa42325db0209",
   "reader": "ChatGPT-coordinator-session2",
-  "status": "decisions_integrated_pending_publication_receipt",
+  "status": "done_local_sign_batch",
   "source_paths_and_hashes": {
     "editions/adzom-2000/sgra-thal-gyur.pdf": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343",
     "editions/adzom-2000/original-images.zip": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb"
@@ -601,5 +601,7 @@
   "independent_review_sha256": "a56fd34a8610f110caa7e43a0c16e931781294d2ca45e404c45abd16712ccade",
   "remaining_blocked_anchors": [],
   "prior_verified_evidence_commit": "4b42e6e4672416021671119ea58dd5caa85f1efc",
-  "independence": "One informed independent agent per five-candidate packet plus coordinator; no blind or human-certification claim."
+  "independence": "One informed independent agent per five-candidate packet plus coordinator; no blind or human-certification claim.",
+  "verified_integration_commit": "f635311376e8aa3072cf56ecbb72bb24138185ea",
+  "interruption_reconciliation": "Previous pending-publication label was stale after the verified integration commit. No new glyph certification."
 }
