@@ -2,7 +2,7 @@
   "task_id": "C1-BASE-LAYERS",
   "baseline_commit": "39b09f6f090cc3e98f478941ef69f38b41a75cbd",
   "reader": "ChatGPT-coordinator-20260928-continuous",
-  "status": "in_progress",
+  "status": "blocked_on_note_letters_and_signs",
   "scope": "S02-S07 insertion punctuation and U01286 source-layer review; each subsection is separately bounded",
   "current_batch_id": "C1-BASE-LAYERS-B03",
   "source_paths_and_hashes": {
@@ -1445,13 +1445,34 @@
       "pdf_pages": [
         51
       ],
-      "status": "in_progress",
+      "status": "partial_layer_integrated_signs_blocked",
       "owner": "ChatGPT-coordinator-20260928-continuous",
       "baseline_commit": "a9d7af1a7fff729d0331801828df8a53ddfaa2ed",
-      "rows_actually_compared": [],
-      "observations": [],
-      "canonical_record_ids": [],
-      "next_physical_span": "Inspect PDF51 row4 small note and its surrounding main text; preserve S01 and all uninspected signs.",
+      "rows_actually_compared": [
+        {
+          "pdf_page": 51,
+          "rows": [
+            4,
+            5
+          ],
+          "scope": "Small U01286 source-note layer and adjacent main-text locations only"
+        }
+      ],
+      "observations": [
+        {
+          "anchor": "U01286",
+          "disposition": "source_annotation_separated; exact note letters/signs unresolved",
+          "record_id": "SCAN-CH1-LAYER-01286",
+          "source_tibetan_unchanged": "ཆུའི་བྱེར་སྙོམས་གཉིས་ཆད།",
+          "main_reading": "",
+          "annotation_transcript": "ཆུའི་བྱེར་སྙོམས་གཉིས་ཆད།",
+          "rationale": "The native PDF51 row4 shows substantially smaller writing after the larger U01285 phrase, with main verse resuming at row5 U01287. The coordinator and both separate image reviews agree on this physical source-note layer. Remove the annotation from the main-verse sequence without deleting its electronic anchor or source string. This is a layout/layer correction, not a reconstructed lexical reading: the coordinator could read the candidate sequence more fully, but the separate readers did not securely discriminate all medial and final glyphs. Preserve their differing reading limits. The electronic terminal shad is retained only in the exact transcript quotation; no claim is made that it is a detached printed note-terminal sign. Do not restore any additional verse from the note or its meaning. Existing U01285 punctuation and S01 restorations are untouched."
+        }
+      ],
+      "canonical_record_ids": [
+        "SCAN-CH1-LAYER-01286"
+      ],
+      "next_physical_span": "Revisit the exact U01286 note/sign bounds with a genuinely discriminating reading or additional source evidence; other Chapter1 tasks may proceed. The source is available, not declared illegible.",
       "evidence_paths_and_hashes": [
         {
           "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p051-native.png",
@@ -1587,11 +1608,128 @@
         "note_terminal_shads": 0,
         "rationale": "Native detail exposes the small letters more clearly than the full-page display. After final chad the connected descending letter stroke precedes the heavy frame; no detached shad is identified here. Provisional pending separate reader follow-up.",
         "scope": "No change to U01285 boundary count proposed here. The first saved row5 crop cuts the upper parts of the following main line; retain it as limited evidence, not a complete next-anchor crop."
-      }
+      },
+      "independent_detail_review": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-LAYERS-B03-detail-reading.txt",
+        "sha256": "7aebe53efe927e307d114f334707af1cc1adfd705ef55c102d80b49ff1636aa9",
+        "finding": {
+          "task_id": "C1-BASE-LAYERS-B03-detail",
+          "actual_source_correspondence": "The attachments place the candidate U01286 note at the right end of row4, between the supplied U01285 and U01287 locations. Locator wording is not independently established in full.",
+          "observed_before_note_after": {
+            "before": "Larger row4 main writing, followed by detached vertical punctuation.",
+            "note": "Smaller writing occupying the remaining row4 space.",
+            "after": "Larger row5 writing begins ཟུག་པ་; row6 is excluded."
+          },
+          "exact_note_lexical_reading": null,
+          "legible_spans": [
+            {
+              "text": "ཆུ",
+              "position": "opening",
+              "confidence": "moderate"
+            },
+            {
+              "text": "གཉིས",
+              "position": "toward the right",
+              "confidence": "moderate"
+            }
+          ],
+          "unresolved_lexical_material": "Opening suffix, medial sequence, and terminal cluster remain insufficiently secure. The supplied བྱེར་སྙོམས and ཆད remain hypotheses.",
+          "exact_printed_note_with_signs": null,
+          "annotation_layer": {
+            "reading": "Source note in smaller script, spatially distinct from the main verse.",
+            "confidence": "high"
+          },
+          "note_terminal_shad_count": null,
+          "prior_main_to_note_inventory": [
+            {
+              "item": "Prior-main final letter and its descending right limb",
+              "classification": "letter; do not count the limb as punctuation"
+            },
+            {
+              "item": "Detached vertical stroke immediately before the smaller writing",
+              "classification": "one clearly distinguishable shad; semantic ownership unresolved"
+            },
+            {
+              "item": "Additional note-initial separator",
+              "classification": "not independently established; do not duplicate the preceding shad"
+            }
+          ],
+          "row_turn_inventory": {
+            "note_right_edge": "Terminal letter strokes precede the heavy frame; a separate terminal shad cannot be securely isolated.",
+            "terminal_tsheg": "No terminal tsheg securely identified.",
+            "page_frame": "Heavy continuous boundary, separate from text and punctuation.",
+            "row5_opening": "No leading shad visible between the left frame and ཟུག་པ་.",
+            "row5_opening_confidence": "high"
+          },
+          "letter_vs_mark_reasoning": "The terminal cluster contains descending strokes whose separation from possible punctuation is unresolved. Counting a shad there would require deciding which strokes belong to the final letter. The heavy frame is unambiguous.",
+          "confidence_per_dimension": {
+            "source_location": "high",
+            "note_vs_main": "high",
+            "complete_lexical_reading": "low",
+            "left_detached_shad": "moderate",
+            "terminal_letter_segmentation": "low",
+            "terminal_shad_count": "low",
+            "terminal_tsheg": "low",
+            "frame": "high"
+          },
+          "approximate_native_uncertain_bounds": {
+            "opening_and_medial": [
+              4580,
+              650,
+              4900,
+              790
+            ],
+            "terminal_letters_and_possible_marks": [
+              5010,
+              650,
+              5135,
+              795
+            ],
+            "prior_main_note_boundary": [
+              4510,
+              640,
+              4600,
+              790
+            ]
+          },
+          "recommended_main_note_disposition": "Retain a separate unresolved source-note record at U01286. Do not promote the locator wording into diplomatic transcription or insert reconstructed verse.",
+          "next_step": "Retain these uncertainties alongside the preserved report. Further adjudication must identify individual strokes; these crops provide context, not additional witness information.",
+          "review_status": "Separate informed agent review of attached pixels using known electronic locators; neither human nor blind palaeography; no whole-page certification."
+        }
+      },
+      "unread_or_uncertain_spans": [
+        {
+          "layer": "U01286 printed note",
+          "bounds": {
+            "opening_and_medial": [
+              4580,
+              650,
+              4900,
+              790
+            ],
+            "terminal_letters_and_possible_marks": [
+              5010,
+              650,
+              5135,
+              795
+            ],
+            "prior_main_note_boundary": [
+              4510,
+              640,
+              4600,
+              790
+            ]
+          },
+          "status": "unresolved",
+          "reason": "Separate readers did not resolve the complete note or final sign/letter allocation; disagreement with fuller coordinator candidate reading remains explicit."
+        }
+      ],
+      "mechanical_checks": "diplomatic/reviews/chapter-01/continuation/C1-BASE-LAYERS-B03-checks.json",
+      "chapter_sha256_after_integration": "4d8e46f6da1f83de5b8e8000ceeb822a30aa9e9fa3312c928b7ef3b96cee69e9"
     }
   ],
   "remaining_targets": [
-    "U01286"
+    "U01286 exact printed note and boundary signs"
   ],
   "chapter_complete": false
 }

@@ -1,6 +1,6 @@
 # Base layers and restored-verse signs — Chapter 1
 
-**In progress. S02–S07 now have eleven integrated terminal-shad restorations; U01286 remains.** This is not full physical proofreading or a complete-witness certificate.
+**In progress. S02–S07 have eleven integrated terminal-shad restorations. U01286 is now separated as a source note; its exact printed letters and terminal signs remain blocked.** This is not full physical proofreading or a complete-witness certificate.
 
 ## Batch B01 — S02 and S03
 
@@ -69,6 +69,18 @@ The authored insertion records preserve their old Tibetan and Wylie strings, con
 
 This is an informed agent check with candidate strings available, not a blind reading or credentialed human palaeography. Only named local boundaries and their correspondence were examined; no full source page is newly declared collated. Batch B01 is remotely verified at `2ee597e24cccce417de37c1c7057e345ac4e7c9a`. Batch B02 is remotely verified at `a9d7af1a7fff729d0331801828df8a53ddfaa2ed`; it integrates five additional locally corroborated marks. B03 now claims U01286.
 
+## Batch B03 — U01286 source-note layer
+
+Native PDF51 / BDRC53 / member0053.png places smaller writing at the far right of row4 after the large main-text phrase `ཆུ་ཡི་ཟུག་པས་ས་འདུས་ལ`. Row5 resumes with large `ཟུག་པ་ཟུག་པ་འཕྲད་པ་ཡིས`. Both independent readings confirm the smaller source-note layer and its location; they do not certify all note letters or signs.
+
+The main reading at U01286 is therefore empty, with its stable anchor retained and the source note presented separately. The exact original transcript string `ཆུའི་བྱེར་སྙོམས་གཉིས་ཆད།` remains quoted, including its electronic delimiter. It is explicitly **not** an unqualified printed quotation. No absent main verse is reconstructed. U01285, U01287, S01 and every other reading remain unchanged.
+
+[Initial separate reading](C1-BASE-LAYERS-B03-independent-reading.txt) and [native-detail separate reading](C1-BASE-LAYERS-B03-detail-reading.txt) are preserved unchanged. The coordinator's fuller candidate reading is also retained without overriding their limits. The new exact native crops and hashes are in the [manifest](../../../evidence/chapter-01/continuation/C1-BASE-LAYERS/manifest.json). The first following-line crop clipped the line's upper strokes; it is retained alongside the corrected full-height context, not silently replaced.
+
+**Still blocked:** medial note letters, final letter-versus-sign allocation and terminal tsheg. The exact note crop is `[4550,625,5170,845]`; the independent report bounds the specific doubtful regions as visual estimates. One separator after the prior main text is visible to the separate readers, but this is not a completed punctuation review of U01285. No change is made to that anchor's punctuation. This task remains blocked for those exact note/sign details; the source is available and is not labelled globally illegible.
+
+Canonical source-layer record: `SCAN-CH1-LAYER-01286`. Its purpose is to stop treating the small note as main verse while keeping its exact printed reading visibly unresolved.
+
 ## Next bounded work
 
-Next is U01286 on PDF51: determine the small printed source-note layer and its exact signs, preserving the current source string and the existing S01 restorations. Broader physical proofreading and the explicitly retained uncertainties remain open.
+Next independently actionable task is C1-BASE-UNCERTAINTIES, starting at the saved U01522/PDF60 question. Return to the precisely blocked U01286 note when a discriminating source reading is available. Broader physical proofreading and witness comparison remain open.

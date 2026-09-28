@@ -1,0 +1,19 @@
+{
+  "task_id": "C1-BASE-LAYERS-B03-detail",
+  "actual_source_correspondence": "The attachments place the candidate U01286 note at the right end of row4, between the supplied U01285 and U01287 locations. Locator wording is not independently established in full.",
+  "observed_before_note_after": {"before": "Larger row4 main writing, followed by detached vertical punctuation.", "note": "Smaller writing occupying the remaining row4 space.", "after": "Larger row5 writing begins ཟུག་པ་; row6 is excluded."},
+  "exact_note_lexical_reading": null,
+  "legible_spans": [{"text": "ཆུ", "position": "opening", "confidence": "moderate"}, {"text": "གཉིས", "position": "toward the right", "confidence": "moderate"}],
+  "unresolved_lexical_material": "Opening suffix, medial sequence, and terminal cluster remain insufficiently secure. The supplied བྱེར་སྙོམས and ཆད remain hypotheses.",
+  "exact_printed_note_with_signs": null,
+  "annotation_layer": {"reading": "Source note in smaller script, spatially distinct from the main verse.", "confidence": "high"},
+  "note_terminal_shad_count": null,
+  "prior_main_to_note_inventory": [{"item": "Prior-main final letter and its descending right limb", "classification": "letter; do not count the limb as punctuation"}, {"item": "Detached vertical stroke immediately before the smaller writing", "classification": "one clearly distinguishable shad; semantic ownership unresolved"}, {"item": "Additional note-initial separator", "classification": "not independently established; do not duplicate the preceding shad"}],
+  "row_turn_inventory": {"note_right_edge": "Terminal letter strokes precede the heavy frame; a separate terminal shad cannot be securely isolated.", "terminal_tsheg": "No terminal tsheg securely identified.", "page_frame": "Heavy continuous boundary, separate from text and punctuation.", "row5_opening": "No leading shad visible between the left frame and ཟུག་པ་.", "row5_opening_confidence": "high"},
+  "letter_vs_mark_reasoning": "The terminal cluster contains descending strokes whose separation from possible punctuation is unresolved. Counting a shad there would require deciding which strokes belong to the final letter. The heavy frame is unambiguous.",
+  "confidence_per_dimension": {"source_location": "high", "note_vs_main": "high", "complete_lexical_reading": "low", "left_detached_shad": "moderate", "terminal_letter_segmentation": "low", "terminal_shad_count": "low", "terminal_tsheg": "low", "frame": "high"},
+  "approximate_native_uncertain_bounds": {"opening_and_medial": [4580, 650, 4900, 790], "terminal_letters_and_possible_marks": [5010, 650, 5135, 795], "prior_main_note_boundary": [4510, 640, 4600, 790]},
+  "recommended_main_note_disposition": "Retain a separate unresolved source-note record at U01286. Do not promote the locator wording into diplomatic transcription or insert reconstructed verse.",
+  "next_step": "Retain these uncertainties alongside the preserved report. Further adjudication must identify individual strokes; these crops provide context, not additional witness information.",
+  "review_status": "Separate informed agent review of attached pixels using known electronic locators; neither human nor blind palaeography; no whole-page certification."
+}

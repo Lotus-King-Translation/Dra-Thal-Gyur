@@ -9,6 +9,12 @@
       "operation": "Read-only REPL compound query for B02 status and U01286 background",
       "result": "Tool could not determine safety status; same request retried once with same result",
       "executed": false
+    },
+    {
+      "operation": "Compound REPL extraction of Dzongsar ledger fields and Dege report preview",
+      "result": "Tool could not determine safety status; exact request retried once with same failure",
+      "executed": false,
+      "resource_availability_claim": "No claim that the repository files are unavailable; this records the blocked execution request."
     }
   ],
   "security_settings_changed": false,

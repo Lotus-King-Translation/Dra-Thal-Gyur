@@ -1,5 +1,5 @@
 {
-  "status": "prepared_not_invoked",
+  "status": "completed_with_unresolved_lexical_and_sign_details",
   "request_sha256": "3948bf7bb96a8c4318d09f40ed0be7dd39e4232b555442ce060806ec8cf48db5",
   "request_path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-LAYERS-B03-detail-request.txt",
   "attachments": [
@@ -21,5 +21,8 @@
     }
   ],
   "source_relationship": "Same native page; additional crop visibility is not an independent witness",
-  "reader_relation": "New informed agent using detail images; earlier limited reader retained"
+  "reader_relation": "New informed agent using detail images; earlier limited reader retained",
+  "exit_code": 0,
+  "raw_report_sha256": "7aebe53efe927e307d114f334707af1cc1adfd705ef55c102d80b49ff1636aa9",
+  "no_tool_calls_observed": true
 }

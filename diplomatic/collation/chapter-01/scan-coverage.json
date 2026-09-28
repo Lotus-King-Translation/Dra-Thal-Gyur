@@ -450,6 +450,22 @@
       "whole_pages_newly_collated": [],
       "publication_status": "verified",
       "verified_integration_commit": "a9d7af1a7fff729d0331801828df8a53ddfaa2ed"
+    },
+    {
+      "batch_id": "C1-BASE-LAYERS-B03",
+      "report": "reviews/chapter-01/continuation/C1-BASE-LAYERS.json",
+      "source_pages": [
+        51
+      ],
+      "newly_reviewed_scope": "U01286 small-note layer separated from main verse; exact note letters and signs remain unresolved",
+      "canonical_record_ids": [
+        "SCAN-CH1-LAYER-01286"
+      ],
+      "main_verse_to_annotation_separations": 1,
+      "whole_pages_newly_collated": [],
+      "publication_status": "pending_verification",
+      "remaining_blocker": "U01286 medial/final note letters and exact boundary-sign inventory",
+      "lexical_correction_adopted": false
     }
   ]
 }

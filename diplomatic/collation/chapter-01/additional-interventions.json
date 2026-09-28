@@ -3421,5 +3421,74 @@
       "sha256": "135a81ab4dbd2878fe2f28454ec5caca7c95837dd9de10988d8aa1e8abdda1bc",
       "relation": "Same-reader clarification of initial report, not an additional vote; no new blind/human certification"
     }
+  },
+  {
+    "id": "SCAN-CH1-LAYER-01286",
+    "units": [
+      "U01286"
+    ],
+    "original_units": {
+      "U01286": "ཆུའི་བྱེར་སྙོམས་གཉིས་ཆད།"
+    },
+    "replacement_units": {
+      "U01286": ""
+    },
+    "old": "ཆུའི་བྱེར་སྙོམས་གཉིས་ཆད།",
+    "new": "[No main-text verse; separate printed source-note layer with unresolved exact transcription.]",
+    "reading_label": "Source-layer disposition; note wording not newly certified",
+    "annotation": "ཆུའི་བྱེར་སྙོམས་གཉིས་ཆད།",
+    "annotation_status": "Exact supplied-transcript string, including its delimiter, preserved as transcript evidence only. Smaller printed note at this locus independently established; medial letters and terminal signs remain unconfirmed in the separate readings.",
+    "rationale": "The native PDF51 row4 shows substantially smaller writing after the larger U01285 phrase, with main verse resuming at row5 U01287. The coordinator and both separate image reviews agree on this physical source-note layer. Remove the annotation from the main-verse sequence without deleting its electronic anchor or source string. This is a layout/layer correction, not a reconstructed lexical reading: the coordinator could read the candidate sequence more fully, but the separate readers did not securely discriminate all medial and final glyphs. Preserve their differing reading limits. The electronic terminal shad is retained only in the exact transcript quotation; no claim is made that it is a detached printed note-terminal sign. Do not restore any additional verse from the note or its meaning. Existing U01285 punctuation and S01 restorations are untouched.",
+    "locator": "Adzom2000 PDF51 / BDRC53 / member0053.png; small note at row4 far right, between main U01285 and U01287; exact note crop [4550,625,5170,845].",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-BASE-LAYERS/p051-native.png",
+      "evidence/chapter-01/continuation/C1-BASE-LAYERS/U01286-row4-source-context.png",
+      "evidence/chapter-01/continuation/C1-BASE-LAYERS/U01286-annotation-native.png",
+      "evidence/chapter-01/continuation/C1-BASE-LAYERS/U01286-following-main-full-height.png",
+      "reviews/chapter-01/continuation/C1-BASE-LAYERS.md",
+      "reviews/chapter-01/continuation/C1-BASE-LAYERS-B03-independent-reading.txt",
+      "reviews/chapter-01/continuation/C1-BASE-LAYERS-B03-detail-reading.txt"
+    ],
+    "confidence": {
+      "source_note_location_and_layer": "high; coordinator plus two informed image readers",
+      "complete_note_lexical_reading": "unresolved in independent reviews; original transcript quoted separately",
+      "note_terminal_sign_count": "unresolved; no punctuation deletion or adoption in the print-note layer"
+    },
+    "source_record": "reviews/chapter-01/continuation/C1-BASE-LAYERS.json#C1-BASE-LAYERS-B03",
+    "reading_uncertainty": true,
+    "source_layer_review": {
+      "baseline_commit": "8d7c0afad3697d7e5f829f602fe3075373eec934",
+      "raw_reports": [
+        {
+          "path": "reviews/chapter-01/continuation/C1-BASE-LAYERS-B03-independent-reading.txt",
+          "sha256": "21f74444128b1070e71aa65a52dede87d164984900f568e4df9040f9409d842b"
+        },
+        {
+          "path": "reviews/chapter-01/continuation/C1-BASE-LAYERS-B03-detail-reading.txt",
+          "sha256": "7aebe53efe927e307d114f334707af1cc1adfd705ef55c102d80b49ff1636aa9"
+        }
+      ],
+      "unresolved_native_bounds": {
+        "opening_and_medial": [
+          4580,
+          650,
+          4900,
+          790
+        ],
+        "terminal_letters_and_possible_marks": [
+          5010,
+          650,
+          5135,
+          795
+        ],
+        "prior_main_note_boundary": [
+          4510,
+          640,
+          4600,
+          790
+        ]
+      },
+      "limits": "The extra crops are unchanged pixels from the same witness; separate reader responses are not additional source witnesses."
+    }
   }
 ]

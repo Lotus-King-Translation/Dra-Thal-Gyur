@@ -5173,7 +5173,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u01286"></a>
 
-**U01286** ཆུའི་བྱེར་སྙོམས་གཉིས་ཆད། [L1-0079](#l1-0079) [DZ-MID-060-U1286](#dz-mid-060-u1286) [W-C01-111](reviews/chapter-01/wikisource.md#w-c01-111)
+**U01286** [Source annotation recorded separately in the linked note; this anchor does not add a main-text verse.] **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-LAYER-01286](#scan-ch1-layer-01286) [L1-0079](#l1-0079) [DZ-MID-060-U1286](#dz-mid-060-u1286) [W-C01-111](reviews/chapter-01/wikisource.md#w-c01-111)
 
 <a id="u01287"></a>
 
@@ -12305,6 +12305,28 @@ Units: [U01557](#u01557).
 
 **Evidence:** [p061-native.png](evidence/chapter-01/continuation/C1-SIGNS-05/p061-native.png), [p061-row5-right-U01556.png](evidence/chapter-01/continuation/C1-SIGNS-05/p061-row5-right-U01556.png), [p061-row6-left-U01557.png](evidence/chapter-01/continuation/C1-SIGNS-05/p061-row6-left-U01557.png), [U01557-terminal-boundary.png](evidence/chapter-01/continuation/C1-SIGNS-05/U01557-terminal-boundary.png), [U01557-initial-heading-unresolved.png](evidence/chapter-01/continuation/C1-SIGNS-05/U01557-initial-heading-unresolved.png), [C1-SIGNS-05-U01557-followup-reading.txt](reviews/chapter-01/continuation/C1-SIGNS-05-U01557-followup-reading.txt), [C1-SIGNS-05.md](reviews/chapter-01/continuation/C1-SIGNS-05.md)
 
+<a id="scan-ch1-layer-01286"></a>
+
+### SCAN-CH1-LAYER-01286
+
+Units: [U01286](#u01286).
+
+**A transcript:** ཆུའི་བྱེར་སྙོམས་གཉིས་ཆད།
+
+**Source-layer disposition; note wording not newly certified:** [No main-text verse; separate printed source-note layer with unresolved exact transcription.]
+
+**Scan locator:** Adzom2000 PDF51 / BDRC53 / member0053.png; small note at row4 far right, between main U01285 and U01287; exact note crop [4550,625,5170,845]..
+
+**Decision and reason:** The native PDF51 row4 shows substantially smaller writing after the larger U01285 phrase, with main verse resuming at row5 U01287. The coordinator and both separate image reviews agree on this physical source-note layer. Remove the annotation from the main-verse sequence without deleting its electronic anchor or source string. This is a layout/layer correction, not a reconstructed lexical reading: the coordinator could read the candidate sequence more fully, but the separate readers did not securely discriminate all medial and final glyphs. Preserve their differing reading limits. The electronic terminal shad is retained only in the exact transcript quotation; no claim is made that it is a detached printed note-terminal sign. Do not restore any additional verse from the note or its meaning. Existing U01285 punctuation and S01 restorations are untouched.
+
+**Separate annotation:** ཆུའི་བྱེར་སྙོམས་གཉིས་ཆད།
+
+**Annotation status:** Exact supplied-transcript string, including its delimiter, preserved as transcript evidence only. Smaller printed note at this locus independently established; medial letters and terminal signs remain unconfirmed in the separate readings.
+
+**Confidence and limits:** {"source_note_location_and_layer": "high; coordinator plus two informed image readers", "complete_note_lexical_reading": "unresolved in independent reviews; original transcript quoted separately", "note_terminal_sign_count": "unresolved; no punctuation deletion or adoption in the print-note layer"}
+
+**Evidence:** [p051-native.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/p051-native.png), [U01286-row4-source-context.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/U01286-row4-source-context.png), [U01286-annotation-native.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/U01286-annotation-native.png), [U01286-following-main-full-height.png](evidence/chapter-01/continuation/C1-BASE-LAYERS/U01286-following-main-full-height.png), [C1-BASE-LAYERS.md](reviews/chapter-01/continuation/C1-BASE-LAYERS.md), [C1-BASE-LAYERS-B03-independent-reading.txt](reviews/chapter-01/continuation/C1-BASE-LAYERS-B03-independent-reading.txt), [C1-BASE-LAYERS-B03-detail-reading.txt](reviews/chapter-01/continuation/C1-BASE-LAYERS-B03-detail-reading.txt)
+
 <a id="a2000-c01-s01"></a>
 
 ### A2000-C01-S01
@@ -14277,7 +14299,7 @@ Units: [U01274](#u01274).
 
 Units: [U01286](#u01286).
 
-**Current Adzom main context:** ཆུའི་བྱེར་སྙོམས་གཉིས་ཆད།
+**Current Adzom main context:** [Source annotation separated; see the unit note.]
 
 **Comparison reading/snippet:** chu i byer snyoms gnyis chad
 
@@ -17148,7 +17170,7 @@ Exact differences: C1-0155, C1-0156.
 {ཆུའི་བྱེར་སྙོམས་གཉིས་ཆད།}ཟུག་པ་ཟུག་པ་འཕྲད་པ་ཡིས། །
 ```
 
-**Disposition and reason:** Retain A’s wording provisionally and record the alternative brackets/delimiters as transcript presentation evidence. S’s braces do not, by themselves, establish the position or status of an annotation in the Adzom printing. Scan-layout verification remains outstanding.
+**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SCAN-CH1-LAYER-01286](#scan-ch1-layer-01286). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
 
 <a id="l1-0080"></a>
 

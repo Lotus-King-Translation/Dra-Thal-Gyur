@@ -4,7 +4,7 @@
   "canonical_branch": "main",
   "current_chapter": 1,
   "chapter_status": "in_progress_not_ready",
-  "next_task_id": "C1-BASE-LAYERS",
+  "next_task_id": "C1-BASE-UNCERTAINTIES",
   "path_base": "repository root; JSON pointers identify records without changing their historical contents",
   "scope": "Continuation queue, not a whole-chapter collation claim. Thirty punctuation candidate identities remain tracked, including completed dispositions; unfinished items are hypotheses, not accepted readings. Existing Adzom and Dzongsar main lexical passes remain valid within their recorded scopes.",
   "reference_paths": [
@@ -383,7 +383,7 @@
     {
       "id": "C1-BASE-LAYERS",
       "kind": "base_layers",
-      "status": "in_progress",
+      "status": "blocked",
       "owner": "ChatGPT-coordinator-20260928-continuous",
       "depends_on": [
         "C1-SIGNS-06"
@@ -416,7 +416,10 @@
         "diplomatic/reviews/chapter-01/continuation/C1-BASE-LAYERS.md"
       ],
       "checkpoint_commit": "a9d7af1a7fff729d0331801828df8a53ddfaa2ed",
-      "blocker": null,
+      "blocker": {
+        "reason": "U01286 smaller source-note layer is established and separated, but exact printed note letters and terminal sign inventory remain unresolved in separate readings. S02-S07 terminal reviews are complete within their local scope.",
+        "next_step": "Use the full native page and exact [4550,625,5170,845] note crop, preserving both independent limits; distinguish each final letter limb from any shad and the frame. Available source is not declared unavailable."
+      },
       "dependency_policy": "preferred_order",
       "current_batch_id": "C1-BASE-LAYERS-B03"
     },
