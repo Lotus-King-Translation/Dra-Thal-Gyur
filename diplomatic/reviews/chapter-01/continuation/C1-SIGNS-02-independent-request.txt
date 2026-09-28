@@ -1,0 +1,268 @@
+You are a separate informed visual reader for a Tibetan diplomatic edition. Inspect the attached native pages first and the context/detail crops second. Do not invoke any tools, network, filesystem reads or writes; direct reading of supplied image attachments only. Respect all existing authorization policies. If attachments are unavailable, report no visual reading. This is not translation, OCR, a blind test, or human palaeographic certification.
+Task C1-SIGNS-02: independently establish the five stated anchor correspondences from visible neighbouring Tibetan, then inventory ALL detached shads/tshegs BETWEEN the last target letter and first following letter/heading. Count all physical marks before assigning them to either electronic unit. A leading mark on the next unit must not disappear from the combined transcription. Exclude final-letter strokes, frame lines, small source annotations and strokes in adjacent rows. Do not normalize grammar, spelling, Sanskrit, small notes or source layer placement. Expected strings below locate a passage; they cannot supply an unread glyph. Report exact uncertainty rather than guessing. Local boundaries only, not whole-page certification.
+Return a JSON object with reader, images_actually_inspected, records (one per target with anchor, actual_pdf_page_and_row, observed_before, observed_target, observed_after, detached_boundary_shads, terminal_tsheg, observed_sign_description, existing_reading, punctuation_only_proposal, confidence, uncertainty, correspondence_confirmed), and scope_limitations. Give observable reasoning, not an unexamined vote. Bound quotes to visible text; indicate a physical row/page split with /, not as a source sign. No tools and no repository writes; coordinator captures your answer.
+Electronic locators:
+
+U00995: དེ་ཡི་རྗེས་སུ་སྐལ་ལྡན་པ།
+previous: ལོ་ནི་བདུན་ཅུ་རྩ་ལྔར་འཛིན། །
+following: སོ་ཤའི་གླིང་ཞེས་བྱ་བ་ཡི། །
+
+U01094: ལུས་རྫོགས་ཡན་ལག་གསང་འབྱེད་པའོ།
+previous: གོང་མའི་ལུས་དང་ཡན་ལག་རྫོགས། །
+following: གཉིས་པའི་ལུས་ནི་ཉེར་བསྟན་པ། །
+
+U01270: རྣལ་འབྱོར་པ་ཡིས་བརྩམ་པར་བྱའོ།
+previous: གཞན་ནི་མཉམ་པའི་སྦྱོར་བ་ཉིད། །
+following: དྲིས་ལན་ཉེར་བཞི་པའོ། །
+
+U01416: ལུས་ཀྱི་གནས་ལྔར་ལེགས་སྤྱོད་ན།
+previous: འབྱུང་བའི་ཡི་གེ་རབ་བཟླས་ཤིང་། །
+following: འབྱུང་བའི་དུས་ཉིད་རབ་བསྟིམས་ནས། །
+
+U01534: ལུས་ཀྱི་གནད་དང་ངག་དང་ཡང་།
+previous: དངོས་གཞི་རང་གི་རྒྱུད་བརྟེན་ནི། །
+following: སེམས་ཀྱི་གནད་ལ་བརྟེན་པ་ཡིས། །
+
+Attached images in order (all image dimensions/crop coordinates native; no enhancement):
+[
+  {
+    "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p040-native.png",
+    "pdf_page": 40,
+    "bdrc_image": 42,
+    "source_member": "0042.png",
+    "dimensions": [
+      5696,
+      1344
+    ]
+  },
+  {
+    "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p044-native.png",
+    "pdf_page": 44,
+    "bdrc_image": 46,
+    "source_member": "0046.png",
+    "dimensions": [
+      5696,
+      1344
+    ]
+  },
+  {
+    "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p050-native.png",
+    "pdf_page": 50,
+    "bdrc_image": 52,
+    "source_member": "0052.png",
+    "dimensions": [
+      5696,
+      1344
+    ]
+  },
+  {
+    "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p056-native.png",
+    "pdf_page": 56,
+    "bdrc_image": 58,
+    "source_member": "0058.png",
+    "dimensions": [
+      5696,
+      1344
+    ]
+  },
+  {
+    "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p060-native.png",
+    "pdf_page": 60,
+    "bdrc_image": 62,
+    "source_member": "0062.png",
+    "dimensions": [
+      5696,
+      1344
+    ]
+  },
+  {
+    "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p061-native.png",
+    "pdf_page": 61,
+    "bdrc_image": 63,
+    "source_member": "0063.png",
+    "dimensions": [
+      5696,
+      1344
+    ]
+  },
+  {
+    "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p040-row5-context.png",
+    "pdf_page": 40,
+    "bdrc_image": 42,
+    "source_member": "0042.png",
+    "bounds": [
+      2650,
+      795,
+      5150,
+      1020
+    ]
+  },
+  {
+    "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p044-row3-right-context.png",
+    "pdf_page": 44,
+    "bdrc_image": 46,
+    "source_member": "0046.png",
+    "bounds": [
+      3550,
+      505,
+      5220,
+      725
+    ]
+  },
+  {
+    "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p044-row4-left-context.png",
+    "pdf_page": 44,
+    "bdrc_image": 46,
+    "source_member": "0046.png",
+    "bounds": [
+      780,
+      625,
+      2750,
+      850
+    ]
+  },
+  {
+    "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p050-row6-right-context.png",
+    "pdf_page": 50,
+    "bdrc_image": 52,
+    "source_member": "0052.png",
+    "bounds": [
+      3550,
+      880,
+      5230,
+      1090
+    ]
+  },
+  {
+    "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p056-row4-context.png",
+    "pdf_page": 56,
+    "bdrc_image": 58,
+    "source_member": "0058.png",
+    "bounds": [
+      1740,
+      625,
+      4090,
+      860
+    ]
+  },
+  {
+    "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p060-row6-right-context.png",
+    "pdf_page": 60,
+    "bdrc_image": 62,
+    "source_member": "0062.png",
+    "bounds": [
+      3790,
+      885,
+      5230,
+      1090
+    ]
+  },
+  {
+    "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p061-row1-context.png",
+    "pdf_page": 61,
+    "bdrc_image": 63,
+    "source_member": "0063.png",
+    "bounds": [
+      1080,
+      255,
+      3070,
+      465
+    ]
+  },
+  {
+    "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p044-row3-middle-context.png",
+    "pdf_page": 44,
+    "bdrc_image": 46,
+    "source_member": "0046.png",
+    "bounds": [
+      2440,
+      505,
+      3910,
+      725
+    ]
+  },
+  {
+    "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p050-row6-middle-context.png",
+    "pdf_page": 50,
+    "bdrc_image": 52,
+    "source_member": "0052.png",
+    "bounds": [
+      2460,
+      880,
+      4080,
+      1090
+    ]
+  },
+  {
+    "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p056-row4-left-context.png",
+    "pdf_page": 56,
+    "bdrc_image": 58,
+    "source_member": "0058.png",
+    "bounds": [
+      790,
+      625,
+      1900,
+      860
+    ]
+  },
+  {
+    "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/U00995-terminal.png",
+    "pdf_page": 40,
+    "bdrc_image": 42,
+    "source_member": "0042.png",
+    "bounds": [
+      4140,
+      795,
+      4530,
+      1020
+    ]
+  },
+  {
+    "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/U01094-terminal.png",
+    "pdf_page": 44,
+    "bdrc_image": 46,
+    "source_member": "0046.png",
+    "bounds": [
+      1080,
+      625,
+      1370,
+      850
+    ]
+  },
+  {
+    "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/U01270-terminal.png",
+    "pdf_page": 50,
+    "bdrc_image": 52,
+    "source_member": "0052.png",
+    "bounds": [
+      4610,
+      880,
+      5000,
+      1090
+    ]
+  },
+  {
+    "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/U01416-terminal.png",
+    "pdf_page": 56,
+    "bdrc_image": 58,
+    "source_member": "0058.png",
+    "bounds": [
+      2610,
+      625,
+      2950,
+      860
+    ]
+  },
+  {
+    "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/U01534-terminal.png",
+    "pdf_page": 61,
+    "bdrc_image": 63,
+    "source_member": "0063.png",
+    "bounds": [
+      1680,
+      255,
+      2110,
+      465
+    ]
+  }
+]

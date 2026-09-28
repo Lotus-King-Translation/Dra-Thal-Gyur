@@ -2,7 +2,7 @@
   "task_id": "C1-SIGNS-02",
   "baseline_commit": "bca0572bf753a7750041d81e306a20b0a9a20777",
   "reader": "ChatGPT-coordinator-20260928-session2",
-  "status": "claimed_source_verified_no_new_readings_yet",
+  "status": "native_contexts_preserved_reading_in_progress",
   "source_paths_and_hashes": {
     "editions/adzom-2000/sgra-thal-gyur.pdf": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343",
     "editions/adzom-2000/original-images.zip": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb"
@@ -16,29 +16,101 @@
   "candidates": [
     {
       "anchor": "U00995",
-      "status": "not_yet_inspected",
-      "existing_reading": "དེ་ཡི་རྗེས་སུ་སྐལ་ལྡན་པ།"
+      "status": "first_reader_provisional",
+      "existing_reading": "དེ་ཡི་རྗེས་སུ་སྐལ་ལྡན་པ།",
+      "physical_locator": [
+        40,
+        5
+      ],
+      "observed_context": {
+        "before": "ལོ་ནི་བདུན་ཅུ་རྩ་ལྔར་འཛིན",
+        "target": "དེ་ཡི་རྗེས་སུ་སྐལ་ལྡན་པ",
+        "after": "སོ་ཤའི་གླིང་ཞེས་བྱ་བ་ཡི"
+      },
+      "observed_detached_boundary_shads": 2,
+      "proposed_reading": "དེ་ཡི་རྗེས་སུ་སྐལ་ལྡན་པ། །",
+      "disposition": "unresolved_pending_independent_review",
+      "confidence": "high for local two-mark inventory; surrounding page not fully proofread",
+      "uncertainty": "Independent target correspondence review pending; electronic unit breaks are not physical lines."
     },
     {
       "anchor": "U01094",
-      "status": "not_yet_inspected",
-      "existing_reading": "ལུས་རྫོགས་ཡན་ལག་གསང་འབྱེད་པའོ།"
+      "status": "first_reader_provisional",
+      "existing_reading": "ལུས་རྫོགས་ཡན་ལག་གསང་འབྱེད་པའོ།",
+      "physical_locator": [
+        44,
+        "3 right -> 4 left"
+      ],
+      "observed_context": {
+        "before": "གོང་མའི་ལུས་དང་ཡན་ལག་རྫོགས",
+        "target": "ལུས་རྫོགས་ཡན་ལག་གསང / འབྱེད་པའོ",
+        "after": "གཉིས་པའི་ལུས་ནི་ཉེར་བསྟན་པ"
+      },
+      "observed_detached_boundary_shads": 2,
+      "proposed_reading": "ལུས་རྫོགས་ཡན་ལག་གསང་འབྱེད་པའོ། །",
+      "disposition": "unresolved_pending_independent_review",
+      "confidence": "high for local two-mark inventory; surrounding page not fully proofread",
+      "uncertainty": "Independent target correspondence review pending; electronic unit breaks are not physical lines."
     },
     {
       "anchor": "U01270",
-      "status": "not_yet_inspected",
-      "existing_reading": "རྣལ་འབྱོར་པ་ཡིས་བརྩམ་པར་བྱའོ།"
+      "status": "first_reader_provisional",
+      "existing_reading": "རྣལ་འབྱོར་པ་ཡིས་བརྩམ་པར་བྱའོ།",
+      "physical_locator": [
+        50,
+        6
+      ],
+      "observed_context": {
+        "before": "གཞན་ནི་མཉམ་པའི་སྦྱོར་བ་ཉིད",
+        "target": "རྣལ་འབྱོར་པ་ཡིས་བརྩམ་པར་བྱའོ",
+        "after": "དྲིས་ལན་ཉེར་བཞི"
+      },
+      "observed_detached_boundary_shads": 2,
+      "proposed_reading": "རྣལ་འབྱོར་པ་ཡིས་བརྩམ་པར་བྱའོ། །",
+      "disposition": "unresolved_pending_independent_review",
+      "confidence": "high for local two-mark inventory; surrounding page not fully proofread",
+      "uncertainty": "Independent target correspondence review pending; electronic unit breaks are not physical lines."
     },
     {
       "anchor": "U01416",
-      "status": "not_yet_inspected",
-      "existing_reading": "ལུས་ཀྱི་གནས་ལྔར་ལེགས་སྤྱོད་ན།"
+      "status": "first_reader_provisional",
+      "existing_reading": "ལུས་ཀྱི་གནས་ལྔར་ལེགས་སྤྱོད་ན།",
+      "physical_locator": [
+        56,
+        4
+      ],
+      "observed_context": {
+        "before": "འབྱུང་བའི་ཡི་གེ་རབ་བཟླས་ཤིང",
+        "target": "ལུས་ཀྱི་གནས་ལྔར་ལེགས་སྤྱོད་ན",
+        "after": "འབྱུང་བའི་དུས་ཉིད་རབ་བསྟིམས་ནས"
+      },
+      "observed_detached_boundary_shads": 2,
+      "proposed_reading": "ལུས་ཀྱི་གནས་ལྔར་ལེགས་སྤྱོད་ན། །",
+      "disposition": "unresolved_pending_independent_review",
+      "confidence": "high for local two-mark inventory; surrounding page not fully proofread",
+      "uncertainty": "Independent target correspondence review pending; electronic unit breaks are not physical lines."
     },
     {
       "anchor": "U01534",
-      "status": "not_yet_inspected",
-      "existing_reading": "ལུས་ཀྱི་གནད་དང་ངག་དང་ཡང་།"
+      "status": "first_reader_provisional",
+      "existing_reading": "ལུས་ཀྱི་གནད་དང་ངག་དང་ཡང་།",
+      "physical_locator": [
+        61,
+        1
+      ],
+      "observed_context": {
+        "before": "དངོས་གཞི་རང་གི་རྒྱུད་བརྟེན་ནི",
+        "target": "ལུས་ཀྱི / གནད་དང་ངག་དང་ཡང",
+        "after": "སེམས་ཀྱི་གནད་ལ་བརྟེན་པ་ཡིས"
+      },
+      "observed_detached_boundary_shads": 2,
+      "proposed_reading": "ལུས་ཀྱི་གནད་དང་ངག་དང་ཡང་། །",
+      "disposition": "unresolved_pending_independent_review",
+      "confidence": "high for local two-mark inventory; surrounding page not fully proofread",
+      "uncertainty": "Independent target correspondence review pending; electronic unit breaks are not physical lines."
     }
   ],
-  "next_step": "Inspect full native pages and independently verify the actual target context before judging signs."
+  "next_step": "Inspect full native pages and independently verify the actual target context before judging signs.",
+  "evidence_manifest": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/manifest.json",
+  "checkpoint_commit": "37549955d7bc569190663c1e9da32e1eb39ff180"
 }
