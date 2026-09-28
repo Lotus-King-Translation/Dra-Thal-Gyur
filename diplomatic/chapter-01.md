@@ -69,7 +69,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00012"></a>
 
-**U00012** འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན། ། [L1-0002](#l1-0002) [TH-C1-0002](#th-c1-0002) [DZ-OPEN-03](#dz-open-03) [Comparison-scan second reading](reviews/chapter-01/second-dege-tingkye.md)
+**U00012** འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན། ། [L1-0002](#l1-0002) [TH-C1-0002](#th-c1-0002) [DZ-OPEN-03](#dz-open-03) [TS-CONT-20260928-U00012](#ts-cont-20260928-u00012) [Comparison-scan second reading](reviews/chapter-01/second-dege-tingkye.md)
 
 <a id="u00013"></a>
 
@@ -229,7 +229,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00052"></a>
 
-**U00052** ཟང་ཐལ་དྲི་མ་མེད་པའི་སྐུ། ། [TK-009](#tk-009)
+**U00052** ཟང་ཐལ་དྲི་མ་མེད་པའི་སྐུ། ། [TK-009](#tk-009) [TK-CONT-20260928-TK-B01-001](#tk-cont-20260928-tk-b01-001)
 
 <a id="u00053"></a>
 
@@ -237,11 +237,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00054"></a>
 
-**U00054** བག་ལ་ཉལ་བ་མ་ཡིན་པས། །
+**U00054** བག་ལ་ཉལ་བ་མ་ཡིན་པས། ། [TK-CONT-20260928-TK-B01-002](#tk-cont-20260928-tk-b01-002)
 
 <a id="u00055"></a>
 
-**U00055** མངོན་པར་རྒྱུ་བ་རྣམ་གཉིས་བྲལ། །
+**U00055** མངོན་པར་རྒྱུ་བ་རྣམ་གཉིས་བྲལ། ། [TK-CONT-20260928-TK-B01-003](#tk-cont-20260928-tk-b01-003)
 
 <a id="u00056"></a>
 
@@ -269,11 +269,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00062"></a>
 
-**U00062** བསྐྱོད་ཅིང་རྒྱུག་པའི་རྣམ་པ་རྣམས། །
+**U00062** བསྐྱོད་ཅིང་རྒྱུག་པའི་རྣམ་པ་རྣམས། ། [TK-CONT-20260928-TK-B01-004](#tk-cont-20260928-tk-b01-004) [TK-CONT-20260928-TK-B01-005](#tk-cont-20260928-tk-b01-005)
 
 <a id="u00063"></a>
 
-**U00063** བར་སྣང་ཉིད་ལས་གཞན་ཅི་མིན། ། [TS-CH1-V004](#ts-ch1-v004)
+**U00063** བར་སྣང་ཉིད་ལས་གཞན་ཅི་མིན། ། [TS-CH1-V004](#ts-ch1-v004) [TK-CONT-20260928-TK-B01-006](#tk-cont-20260928-tk-b01-006)
 
 <a id="u00064"></a>
 
@@ -301,11 +301,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00070"></a>
 
-**U00070** མངོན་དུ་བྱ་དང་བྱེད་པ་བྲལ། །
+**U00070** མངོན་དུ་བྱ་དང་བྱེད་པ་བྲལ། ། [TK-CONT-20260928-TK-B01-007](#tk-cont-20260928-tk-b01-007)
 
 <a id="u00071"></a>
 
-**U00071** གཟུགས་མེད་ལས་ཀྱི་འགྱུར་བྱེད་ལྟར། །
+**U00071** གཟུགས་མེད་ལས་ཀྱི་འགྱུར་བྱེད་ལྟར། ། [TK-CONT-20260928-TK-B01-008](#tk-cont-20260928-tk-b01-008)
 
 <a id="u00072"></a>
 
@@ -337,7 +337,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00079"></a>
 
-**U00079** ང་ནི་ལྷ་བུ་དགའ་བྱེད་སྟེ། ། [W-C01-008](reviews/chapter-01/wikisource.md#w-c01-008)
+**U00079** ང་ནི་ལྷ་བུ་དགའ་བྱེད་སྟེ། ། [TK-CONT-20260928-TK-B01-009](#tk-cont-20260928-tk-b01-009) [W-C01-008](reviews/chapter-01/wikisource.md#w-c01-008)
 
 <a id="u00080"></a>
 
@@ -361,11 +361,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00085"></a>
 
-**U00085** བར་སྣང་ཉིད་ལས་གཟུགས་བཀོད་པར། ། [L1-0009](#l1-0009)
+**U00085** བར་སྣང་ཉིད་ལས་གཟུགས་བཀོད་པར། ། [L1-0009](#l1-0009) [TK-CONT-20260928-TK-B01-010](#tk-cont-20260928-tk-b01-010) [TK-CONT-20260928-TK-B01-011](#tk-cont-20260928-tk-b01-011) [TK-CONT-20260928-TK-B01-014](#tk-cont-20260928-tk-b01-014)
 
 <a id="u00086"></a>
 
-**U00086** སུས་ཀྱང་བྱས་པ་མེད་པར་སྣང་། །
+**U00086** སུས་ཀྱང་བྱས་པ་མེད་པར་སྣང་། ། [TK-CONT-20260928-TK-B01-014](#tk-cont-20260928-tk-b01-014)
 
 <a id="u00087"></a>
 
@@ -373,15 +373,15 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00088"></a>
 
-**U00088** བསྟན་པ་དམ་པ་རྫོགས་པའི་ཕྱིར། །
+**U00088** བསྟན་པ་དམ་པ་རྫོགས་པའི་ཕྱིར། ། [TK-CONT-20260928-TK-B01-012](#tk-cont-20260928-tk-b01-012)
 
 <a id="u00089"></a>
 
-**U00089** སྐུ་གསུང་ཐུགས་ཀྱི་བསྟན་པ་དངོས། །
+**U00089** སྐུ་གསུང་ཐུགས་ཀྱི་བསྟན་པ་དངོས། ། [TK-CONT-20260928-TK-B01-013](#tk-cont-20260928-tk-b01-013) [TK-CONT-20260928-TK-B01-015](#tk-cont-20260928-tk-b01-015)
 
 <a id="u00090"></a>
 
-**U00090** རྡོ་རྗེ་བཅས་དང་སྐུ་གཟུགས་ནི། །
+**U00090** རྡོ་རྗེ་བཅས་དང་སྐུ་གཟུགས་ནི། ། [TK-CONT-20260928-TK-B01-015](#tk-cont-20260928-tk-b01-015)
 
 <a id="u00091"></a>
 
@@ -389,7 +389,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00092"></a>
 
-**U00092** ཡེ་ཐོག་ནས་ནི་རང་སྣང་བར། །
+**U00092** ཡེ་ཐོག་ནས་ནི་རང་སྣང་བར། ། [TK-CONT-20260928-TK-B01-016](#tk-cont-20260928-tk-b01-016)
 
 <a id="u00093"></a>
 
@@ -409,15 +409,15 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00097"></a>
 
-**U00097** དངོས་གྲུབ་མཆོག་རྣམས་མཐར་ཐུག་པའི། །
+**U00097** དངོས་གྲུབ་མཆོག་རྣམས་མཐར་ཐུག་པའི། ། [TK-CONT-20260928-TK-B01-017](#tk-cont-20260928-tk-b01-017)
 
 <a id="u00098"></a>
 
-**U00098** འབད་ཅིང་རྩོལ་བ་མ་ཡིན་པས། །
+**U00098** འབད་ཅིང་རྩོལ་བ་མ་ཡིན་པས། ། [TK-CONT-20260928-TK-B01-018](#tk-cont-20260928-tk-b01-018)
 
 <a id="u00099"></a>
 
-**U00099** གང་སུ་འཕྲད་པ་གྲོལ་བར་ངེས། །
+**U00099** གང་སུ་འཕྲད་པ་གྲོལ་བར་ངེས། ། [TK-CONT-20260928-TK-B01-019](#tk-cont-20260928-tk-b01-019) [TK-CONT-20260928-TK-B01-020](#tk-cont-20260928-tk-b01-020)
 
 <a id="u00100"></a>
 
@@ -437,11 +437,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00104"></a>
 
-**U00104** ཆོས་ཀྱི་སྐུ་ལ་ངེས་བརྒྱུད་དེ། །
+**U00104** ཆོས་ཀྱི་སྐུ་ལ་ངེས་བརྒྱུད་དེ། ། [TK-CONT-20260928-TK-B01-021](#tk-cont-20260928-tk-b01-021)
 
 <a id="u00105"></a>
 
-**U00105** ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ། ། [SIGNS-VERIFIED-20260927-U00105](#signs-verified-20260927-u00105)
+**U00105** ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ། ། [SIGNS-VERIFIED-20260927-U00105](#signs-verified-20260927-u00105) [TK-CONT-20260928-TK-B01-022](#tk-cont-20260928-tk-b01-022)
 
 <a id="u00106"></a>
 
@@ -613,7 +613,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00148"></a>
 
-**U00148** རྟོགས་སངས་ཡན་ལག་དྲུག་ཅུ་གཉིས། །
+**U00148** རྟོགས་སངས་ཡན་ལག་དྲུག་ཅུ་གཉིས། ། [TS-CONT-20260928-U00148](#ts-cont-20260928-u00148)
 
 <a id="u00149"></a>
 
@@ -741,11 +741,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00180"></a>
 
-**U00180** དེ་ནས་གཅིག་དང་ཐ་མི་དད། ། [SCAN-CH1-LAYER-00180](#scan-ch1-layer-00180) [L1-0013](#l1-0013) [TS-CH1-V009](#ts-ch1-v009) [DZ-P011-01](#dz-p011-01) [W-C01-012](reviews/chapter-01/wikisource.md#w-c01-012)
+**U00180** དེ་ནས་གཅིག་དང་ཐ་མི་དད། ། [SCAN-CH1-LAYER-00180](#scan-ch1-layer-00180) [L1-0013](#l1-0013) [TS-CH1-V009](#ts-ch1-v009) [DZ-P011-01](#dz-p011-01) [TK-CONT-20260928-TK-B01-023](#tk-cont-20260928-tk-b01-023) [W-C01-012](reviews/chapter-01/wikisource.md#w-c01-012)
 
 <a id="u00181"></a>
 
-**U00181** རང་བཞིན་དག་པའི་འཁོར་རྣམས་ལས། ། [TS-CH1-V010](#ts-ch1-v010)
+**U00181** རང་བཞིན་དག་པའི་འཁོར་རྣམས་ལས། ། [TS-CH1-V010](#ts-ch1-v010) [TK-CONT-20260928-TK-B01-024](#tk-cont-20260928-tk-b01-024)
 
 <a id="u00182"></a>
 
@@ -753,11 +753,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00183"></a>
 
-**U00183** ཨེ་མ་ཀྱེ་ཀྱེ་བཅོམ་ལྡན་འདས། ། [TK-REC-20260927-001](#tk-rec-20260927-001)
+**U00183** ཨེ་མ་ཀྱེ་ཀྱེ་བཅོམ་ལྡན་འདས། ། [TK-REC-20260927-001](#tk-rec-20260927-001) [TK-CONT-20260928-TK-B01-026](#tk-cont-20260928-tk-b01-026)
 
 <a id="u00184"></a>
 
-**U00184** འདི་ལྟར་སྣང་བ་དམ་པ་ཉིད། ། [TK-REC-20260927-001](#tk-rec-20260927-001)
+**U00184** འདི་ལྟར་སྣང་བ་དམ་པ་ཉིད། ། [TK-REC-20260927-001](#tk-rec-20260927-001) [TK-CONT-20260928-TK-B01-026](#tk-cont-20260928-tk-b01-026)
 
 <a id="u00185"></a>
 
@@ -11575,15 +11575,15 @@ Units: [U01522](#u01522).
 
 **A transcript:** སོ་སོའི་བྱེད་པའི་རྒྱུ་འགགས་པ། །
 
-**Adopted reading:** སོ་སོའི་བྱེད་པའི་རྒྱུ་འགགས་པ། །
+**Unchanged transcript scaffold; source components and layering unresolved:** སོ་སོའི་བྱེད་པའི་རྒྱུ་འགགས་པ། །
 
 **Scan locator:** PDF60; BDRC image62; fused middle of main verse.
 
-**Decision and reason:** The cluster after byed is fused/overwritten in the native scan. Two visual inspections did not establish the exact pa'i rgyu sequence independently. Retain the supplied wording visibly as uncertain, with no conjectural correction.
+**Decision and reason:** The cluster after byed is fused/overwritten in the native scan. Two visual inspections did not establish the exact pa'i rgyu sequence independently. Retain the supplied wording visibly as uncertain, with no conjectural correction. The B01 continuation separately inventories the substantial extra middle group, its following upright and the distinct right-hand ending. These cannot be collapsed into or duplicated from the expected pa-i rgyu string. Main-versus-intervention layering remains unresolved; no lexical or punctuation correction is adopted.
 
 **Confidence and limits:** Unresolved cluster
 
-**Evidence:** [060-u1522.png](evidence/chapter-01/continuous/060-u1522.png)
+**Evidence:** [060-u1522.png](evidence/chapter-01/continuous/060-u1522.png), [p060-native.png](evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B01-U01522/p060-native.png), [p060-x0000-y0000.png](evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B01-U01522/p060-x0000-y0000.png), [p060-x1900-y0000.png](evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B01-U01522/p060-x1900-y0000.png), [p060-x3696-y0000.png](evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B01-U01522/p060-x3696-y0000.png), [p060-u01522-left-native.png](evidence/chapter-01/base-recovery-review-20260927/p060-u01522-left-native.png), [p060-u01522-right-native.png](evidence/chapter-01/base-recovery-review-20260927/p060-u01522-right-native.png), [C1-BASE-UNCERTAINTIES.md](reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES.md)
 
 <a id="scan-ch1-title-uncertainty"></a>
 
@@ -14671,7 +14671,7 @@ Units: [U00182](#u00182).
 
 **Choice and reason:** Withdraw the claimed Tingkye gsol nas addition at U182. Do not insert nas into the governing base.
 
-**Evidence:** [p006.png](evidence/chapter-01/tingkye-recovery-review-20260927/p006.png), [p006-r4-right.png](evidence/chapter-01/tingkye-recovery-review-20260927/p006-r4-right.png), [p006-r5-left.png](evidence/chapter-01/tingkye-recovery-review-20260927/p006-r5-left.png). [Review and coverage](reviews/chapter-01/tingkye-recovery-review-20260927.md).
+**Evidence:** [p006.png](evidence/chapter-01/tingkye-recovery-review-20260927/p006.png), [p006-r4-right.png](evidence/chapter-01/tingkye-recovery-review-20260927/p006-r4-right.png), [p006-r5-left.png](evidence/chapter-01/tingkye-recovery-review-20260927/p006-r5-left.png), [p006-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x0000-y0000.png), [p006-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x1900-y0000.png), [p006-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x2350-y0000.png). [Review and coverage](reviews/chapter-01/tingkye-recovery-review-20260927.md).
 
 <a id="tk-rec-20260927-003"></a>
 
@@ -14952,6 +14952,546 @@ Units: [U02635](#u02635).
 **Choice and reason:** Retain U02635 as Chapter1 endpoint, excluding Chapter2 continuation from Chapter1 coverage. Keep all unresolved preceding glyph groups explicit.
 
 **Evidence:** [p071.png](evidence/chapter-01/recovered-tharpaling/p071.png), [p071-L.png](evidence/chapter-01/recovered-tharpaling/p071-L.png), [p071-R.png](evidence/chapter-01/recovered-tharpaling/p071-R.png), [p071-colophon-precise.png](evidence/chapter-01/tharpaling/crops/p071-colophon-precise.png), [p071-next-incipit.png](evidence/chapter-01/tharpaling/crops/p071-next-incipit.png). [Review and coverage](reviews/chapter-01/tharpaling-continuation-review-20260927.md).
+
+<a id="tk-cont-20260928-tk-b01-001"></a>
+
+### TK-CONT-20260928-TK-B01-001 — Tingkye
+
+Units: [U00052](#u00052).
+
+**Current Adzom main context:** ཟང་ཐལ་དྲི་མ་མེད་པའི་སྐུ། །
+
+**Comparison reading/snippet:** [Unresolved reading or sign assignment: The page-opening terminal word resembles ལུས, but its initial construction and possible final ས are not securely resolved.]
+
+**Status:** bounded_uncertain_observation. **Confidence:** low for reading; high for position; coordinator native-column check; no unlisted scope certified.
+
+**Locator:** PDF3 / BDRC396 / printed388 / row1 / estimated native bounds [568, 270, 680, 352].
+
+**Observation:** The visible carried word was inspected independently; the expected སྐུ is not accepted as testimony for its glyphs. The page-opening terminal word resembles ལུས, but its initial construction and possible final ས are not securely resolved. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.
+
+**Choice and reason:** Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.
+
+**Evidence:** [p003-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png), [p003-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png), [p003-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont-20260928-tk-b01-002"></a>
+
+### TK-CONT-20260928-TK-B01-002 — Tingkye
+
+Units: [U00054](#u00054).
+
+**Current Adzom main context:** བག་ལ་ཉལ་བ་མ་ཡིན་པས། །
+
+**Comparison reading/snippet:** བག་ལ་ཉལ་བ་མ་ཡིན
+
+**Status:** localized_observation. **Confidence:** high; coordinator native-column check; no unlisted scope certified.
+
+**Locator:** PDF3 / BDRC396 / printed388 / row1 / estimated native bounds [1250, 263, 1670, 350].
+
+**Observation:** The compound boundary sign follows ཡིན directly; no པས syllable is visible between them. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.
+
+**Choice and reason:** Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.
+
+**Evidence:** [p003-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png), [p003-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png), [p003-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont-20260928-tk-b01-003"></a>
+
+### TK-CONT-20260928-TK-B01-003 — Tingkye
+
+Units: [U00055](#u00055).
+
+**Current Adzom main context:** མངོན་པར་རྒྱུ་བ་རྣམ་གཉིས་བྲལ། །
+
+**Comparison reading/snippet:** རྣམས་དང་བྲལ
+
+**Status:** localized_observation. **Confidence:** high; coordinator native-column check; no unlisted scope certified.
+
+**Locator:** PDF3 / BDRC396 / printed388 / row1 / estimated native bounds [1880, 263, 2230, 351].
+
+**Observation:** Visible རྣམས is followed by དང; the base's གཉིས is not the observed word. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.
+
+**Choice and reason:** Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.
+
+**Evidence:** [p003-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png), [p003-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png), [p003-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont-20260928-tk-b01-004"></a>
+
+### TK-CONT-20260928-TK-B01-004 — Tingkye
+
+Units: [U00062](#u00062).
+
+**Current Adzom main context:** བསྐྱོད་ཅིང་རྒྱུག་པའི་རྣམ་པ་རྣམས། །
+
+**Comparison reading/snippet:** རྣམ་པ་དང
+
+**Status:** localized_observation. **Confidence:** high; coordinator native-column check; no unlisted scope certified.
+
+**Locator:** PDF3 / BDRC396 / printed388 / row2 / estimated native bounds [2990, 350, 3250, 439].
+
+**Observation:** The final word before the boundary is visibly དང. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.
+
+**Choice and reason:** Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.
+
+**Evidence:** [p003-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png), [p003-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png), [p003-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont-20260928-tk-b01-005"></a>
+
+### TK-CONT-20260928-TK-B01-005 — Tingkye
+
+Units: [U00062](#u00062).
+
+**Current Adzom main context:** བསྐྱོད་ཅིང་རྒྱུག་པའི་རྣམ་པ་རྣམས། །
+
+**Comparison reading/snippet:** [Unresolved reading or sign assignment: The final consonant of རྒྱུག/རྒྱུད is not securely distinguished.]
+
+**Status:** bounded_uncertain_observation. **Confidence:** low; coordinator native-column check; no unlisted scope certified.
+
+**Locator:** PDF3 / BDRC396 / printed388 / row2 / estimated native bounds [2800, 350, 2980, 441].
+
+**Observation:** The lower and final strokes do not support an unqualified consonant identification. The final consonant of རྒྱུག/རྒྱུད is not securely distinguished. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.
+
+**Choice and reason:** Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.
+
+**Evidence:** [p003-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png), [p003-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png), [p003-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont-20260928-tk-b01-006"></a>
+
+### TK-CONT-20260928-TK-B01-006 — Tingkye
+
+Units: [U00063](#u00063).
+
+**Current Adzom main context:** བར་སྣང་ཉིད་ལས་གཞན་ཅི་མིན། །
+
+**Comparison reading/snippet:** ཅི་ཡིན
+
+**Status:** localized_observation. **Confidence:** high; coordinator native-column check; no unlisted scope certified.
+
+**Locator:** PDF3 / BDRC396 / printed388 / row3 / estimated native bounds [568, 432, 710, 514].
+
+**Observation:** At the physical continuation, the syllable after ཅི reads ཡིན. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.
+
+**Choice and reason:** Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.
+
+**Evidence:** [p003-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png), [p003-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png), [p003-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont-20260928-tk-b01-007"></a>
+
+### TK-CONT-20260928-TK-B01-007 — Tingkye
+
+Units: [U00070](#u00070).
+
+**Current Adzom main context:** མངོན་དུ་བྱ་དང་བྱེད་པ་བྲལ། །
+
+**Comparison reading/snippet:** བྱེད་པ་མེད
+
+**Status:** localized_observation. **Confidence:** high; coordinator native-column check; no unlisted scope certified.
+
+**Locator:** PDF3 / BDRC396 / printed388 / row4 / estimated native bounds [1480, 516, 1745, 609].
+
+**Observation:** The terminal word has the visible form མེད, not བྲལ. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.
+
+**Choice and reason:** Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.
+
+**Evidence:** [p003-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png), [p003-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png), [p003-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont-20260928-tk-b01-008"></a>
+
+### TK-CONT-20260928-TK-B01-008 — Tingkye
+
+Units: [U00071](#u00071).
+
+**Current Adzom main context:** གཟུགས་མེད་ལས་ཀྱི་འགྱུར་བྱེད་ལྟར། །
+
+**Comparison reading/snippet:** འགྱུར་ལྟར
+
+**Status:** localized_observation. **Confidence:** high; coordinator native-column check; no unlisted scope certified.
+
+**Locator:** PDF3 / BDRC396 / printed388 / row4 / estimated native bounds [2010, 516, 2340, 609].
+
+**Observation:** ལྟར follows འགྱུར without an intervening བྱེད. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.
+
+**Choice and reason:** Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.
+
+**Evidence:** [p003-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png), [p003-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png), [p003-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont-20260928-tk-b01-009"></a>
+
+### TK-CONT-20260928-TK-B01-009 — Tingkye
+
+Units: [U00079](#u00079).
+
+**Current Adzom main context:** ང་ནི་ལྷ་བུ་དགའ་བྱེད་སྟེ། །
+
+**Comparison reading/snippet:** [Unresolved reading or sign assignment: Row-6 opening resembles དེ; possible stacked construction for སྟེ remains unresolved.]
+
+**Status:** bounded_uncertain_observation. **Confidence:** low; coordinator native-column check; no unlisted scope certified.
+
+**Locator:** PDF3 / BDRC396 / printed388 / row6 / estimated native bounds [569, 677, 640, 767].
+
+**Observation:** The terminal syllable is on the next physical row and cannot be supplied from the reference. Row-6 opening resembles དེ; possible stacked construction for སྟེ remains unresolved. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.
+
+**Choice and reason:** Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.
+
+**Evidence:** [p003-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png), [p003-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png), [p003-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont-20260928-tk-b01-010"></a>
+
+### TK-CONT-20260928-TK-B01-010 — Tingkye
+
+Units: [U00085](#u00085).
+
+**Current Adzom main context:** བར་སྣང་ཉིད་ལས་གཟུགས་བཀོད་པར། །
+
+**Comparison reading/snippet:** སྣང་ཉིད་ལ་གཟུགས
+
+**Status:** localized_observation. **Confidence:** high; coordinator native-column check; no unlisted scope certified.
+
+**Locator:** PDF3 / BDRC396 / printed388 / row7 / estimated native bounds [568, 757, 925, 851].
+
+**Observation:** The particle between ཉིད and གཟུགས reads ལ without a visible final ས. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.
+
+**Choice and reason:** Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.
+
+**Evidence:** [p003-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png), [p003-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png), [p003-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont-20260928-tk-b01-011"></a>
+
+### TK-CONT-20260928-TK-B01-011 — Tingkye
+
+Units: [U00085](#u00085).
+
+**Current Adzom main context:** བར་སྣང་ཉིད་ལས་གཟུགས་བཀོད་པར། །
+
+**Comparison reading/snippet:** [Unresolved reading or sign assignment: The ending appears བཀོད་པ; a final ར is not securely excluded.]
+
+**Status:** bounded_uncertain_observation. **Confidence:** medium for candidate པ; unresolved; coordinator native-column check; no unlisted scope certified.
+
+**Locator:** PDF3 / BDRC396 / printed388 / row7 / estimated native bounds [913, 759, 1085, 853].
+
+**Observation:** The terminal letter and adjacent boundary strokes require a more exact distinction. The ending appears བཀོད་པ; a final ར is not securely excluded. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.
+
+**Choice and reason:** Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.
+
+**Evidence:** [p003-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png), [p003-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png), [p003-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont-20260928-tk-b01-012"></a>
+
+### TK-CONT-20260928-TK-B01-012 — Tingkye
+
+Units: [U00088](#u00088).
+
+**Current Adzom main context:** བསྟན་པ་དམ་པ་རྫོགས་པའི་ཕྱིར། །
+
+**Comparison reading/snippet:** བསྟན་པ་ཐམས་ཅད་རྫོགས་པའི་ཕྱིར
+
+**Status:** localized_observation. **Confidence:** high; coordinator native-column check; no unlisted scope certified.
+
+**Locator:** PDF3 / BDRC396 / printed388 / row7 / estimated native bounds [2340, 750, 3010, 859].
+
+**Observation:** The two visible syllables after བསྟན་པ read ཐམས་ཅད. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.
+
+**Choice and reason:** Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.
+
+**Evidence:** [p003-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png), [p003-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png), [p003-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont-20260928-tk-b01-013"></a>
+
+### TK-CONT-20260928-TK-B01-013 — Tingkye
+
+Units: [U00089](#u00089).
+
+**Current Adzom main context:** སྐུ་གསུང་ཐུགས་ཀྱི་བསྟན་པ་དངོས། །
+
+**Comparison reading/snippet:** [Unresolved reading or sign assignment: The particle appears ཀྱིས, but the possible final ས is not securely separated from adjoining strokes.]
+
+**Status:** bounded_uncertain_observation. **Confidence:** medium for candidate ཀྱིས; unresolved; coordinator native-column check; no unlisted scope certified.
+
+**Locator:** PDF3 / BDRC396 / printed388 / row7 / estimated native bounds [3290, 748, 3490, 858].
+
+**Observation:** The instrumental-versus-genitive distinction must not be inferred from syntax. The particle appears ཀྱིས, but the possible final ས is not securely separated from adjoining strokes. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.
+
+**Choice and reason:** Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.
+
+**Evidence:** [p003-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png), [p003-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png), [p003-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont-20260928-tk-b01-014"></a>
+
+### TK-CONT-20260928-TK-B01-014 — Tingkye
+
+Units: [U00085](#u00085), [U00086](#u00086).
+
+**Current Adzom main context:** བར་སྣང་ཉིད་ལས་གཟུགས་བཀོད་པར། ། / སུས་ཀྱང་བྱས་པ་མེད་པར་སྣང་། །
+
+**Comparison reading/snippet:** [Unresolved reading or sign assignment: A D sign and very fine vertical traces occur in the inter-unit space. The fine traces are not securely punctuation and are not normalized to shads.]
+
+**Status:** bounded_uncertain_observation. **Confidence:** high for traces; low for function; coordinator native-column check; no unlisted scope certified.
+
+**Locator:** PDF3 / BDRC396 / printed388 / row7 / estimated native bounds [1045, 773, 1133, 824].
+
+**Observation:** A D sign and very fine vertical traces occur in the inter-unit space. The fine traces are not securely punctuation and are not normalized to shads.  Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.
+
+**Choice and reason:** Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.
+
+**Evidence:** [p003-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png), [p003-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png), [p003-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont-20260928-tk-b01-015"></a>
+
+### TK-CONT-20260928-TK-B01-015 — Tingkye
+
+Units: [U00089](#u00089), [U00090](#u00090).
+
+**Current Adzom main context:** སྐུ་གསུང་ཐུགས་ཀྱི་བསྟན་པ་དངོས། ། / རྡོ་རྗེ་བཅས་དང་སྐུ་གཟུགས་ནི། །
+
+**Comparison reading/snippet:** [Unresolved reading or sign assignment: No terminal D is securely identified at the PDF3 right edge. PDF4 has an opening ornament and a separate compound sign immediately before its first main wording. Its attachment across the page boundary remains unresolved.]
+
+**Status:** bounded_uncertain_observation. **Confidence:** medium; coordinator native-column check; no unlisted scope certified.
+
+**Locator:** PDF3 / BDRC396 / printed388 / row7 / estimated native bounds [3550, 750, 3780, 869]; PDF4 / BDRC397 / printed389 / row1 / estimated native bounds [580, 263, 935, 352].
+
+**Observation:** No terminal D is securely identified at the PDF3 right edge. PDF4 has an opening ornament and a separate compound sign immediately before its first main wording. Its attachment across the page boundary remains unresolved.  Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.
+
+**Choice and reason:** Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.
+
+**Evidence:** [p003-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png), [p003-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png), [p003-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png), [p004-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x0000-y0000.png), [p004-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x1900-y0000.png), [p004-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x2350-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont-20260928-tk-b01-016"></a>
+
+### TK-CONT-20260928-TK-B01-016 — Tingkye
+
+Units: [U00092](#u00092).
+
+**Current Adzom main context:** ཡེ་ཐོག་ནས་ནི་རང་སྣང་བར། །
+
+**Comparison reading/snippet:** [Unresolved reading or sign assignment: The terminal syllable appears པར rather than བར; root-letter identity remains unresolved.]
+
+**Status:** bounded_uncertain_observation. **Confidence:** medium for candidate པར; unresolved; coordinator native-column check; no unlisted scope certified.
+
+**Locator:** PDF4 / BDRC397 / printed389 / row1 / estimated native bounds [2170, 268, 2400, 356].
+
+**Observation:** A possible པ/བ difference is visible but not sufficiently secure for a replacement reading. The terminal syllable appears པར rather than བར; root-letter identity remains unresolved. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.
+
+**Choice and reason:** Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x0000-y0000.png), [p004-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x1900-y0000.png), [p004-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x2350-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont-20260928-tk-b01-017"></a>
+
+### TK-CONT-20260928-TK-B01-017 — Tingkye
+
+Units: [U00097](#u00097).
+
+**Current Adzom main context:** དངོས་གྲུབ་མཆོག་རྣམས་མཐར་ཐུག་པའི། །
+
+**Comparison reading/snippet:** མཆོག་དང་མཐར
+
+**Status:** localized_observation. **Confidence:** high; coordinator native-column check; no unlisted scope certified.
+
+**Locator:** PDF4 / BDRC397 / printed389 / row2 / estimated native bounds [1610, 349, 2070, 442].
+
+**Observation:** The word following མཆོག reads དང. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.
+
+**Choice and reason:** Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x0000-y0000.png), [p004-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x1900-y0000.png), [p004-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x2350-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont-20260928-tk-b01-018"></a>
+
+### TK-CONT-20260928-TK-B01-018 — Tingkye
+
+Units: [U00098](#u00098).
+
+**Current Adzom main context:** འབད་ཅིང་རྩོལ་བ་མ་ཡིན་པས། །
+
+**Comparison reading/snippet:** མ་ཡིན་པར
+
+**Status:** localized_observation. **Confidence:** high; coordinator native-column check; no unlisted scope certified.
+
+**Locator:** PDF4 / BDRC397 / printed389 / row2 / estimated native bounds [2450, 345, 2670, 443].
+
+**Observation:** The final consonant of the terminal particle reads ར. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.
+
+**Choice and reason:** Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x0000-y0000.png), [p004-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x1900-y0000.png), [p004-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x2350-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont-20260928-tk-b01-019"></a>
+
+### TK-CONT-20260928-TK-B01-019 — Tingkye
+
+Units: [U00099](#u00099).
+
+**Current Adzom main context:** གང་སུ་འཕྲད་པ་གྲོལ་བར་ངེས། །
+
+**Comparison reading/snippet:** [Unresolved reading or sign assignment: The syllable following གང may read དུ rather than སུ.]
+
+**Status:** bounded_uncertain_observation. **Confidence:** low; coordinator native-column check; no unlisted scope certified.
+
+**Locator:** PDF4 / BDRC397 / printed389 / row2 / estimated native bounds [2730, 346, 2920, 442].
+
+**Observation:** The root-letter shape is insufficiently secure to certify either agreement or difference. The syllable following གང may read དུ rather than སུ. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.
+
+**Choice and reason:** Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x0000-y0000.png), [p004-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x1900-y0000.png), [p004-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x2350-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont-20260928-tk-b01-020"></a>
+
+### TK-CONT-20260928-TK-B01-020 — Tingkye
+
+Units: [U00099](#u00099).
+
+**Current Adzom main context:** གང་སུ་འཕྲད་པ་གྲོལ་བར་ངེས། །
+
+**Comparison reading/snippet:** [Unresolved reading or sign assignment: གྲོལ་པར versus གྲོལ་བར remains unresolved.]
+
+**Status:** bounded_uncertain_observation. **Confidence:** low; coordinator native-column check; no unlisted scope certified.
+
+**Locator:** PDF4 / BDRC397 / printed389 / row2 / estimated native bounds [2950, 347, 3195, 445].
+
+**Observation:** The པ/བ distinction is not securely read. གྲོལ་པར versus གྲོལ་བར remains unresolved. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.
+
+**Choice and reason:** Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x0000-y0000.png), [p004-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x1900-y0000.png), [p004-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x2350-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont-20260928-tk-b01-021"></a>
+
+### TK-CONT-20260928-TK-B01-021 — Tingkye
+
+Units: [U00104](#u00104).
+
+**Current Adzom main context:** ཆོས་ཀྱི་སྐུ་ལ་ངེས་བརྒྱུད་དེ། །
+
+**Comparison reading/snippet:** ངེས་པར་བརྒྱུད
+
+**Status:** localized_observation. **Confidence:** high; coordinator native-column check; no unlisted scope certified.
+
+**Locator:** PDF4 / BDRC397 / printed389 / row3 / estimated native bounds [2700, 434, 3040, 540].
+
+**Observation:** The visible sequence places པར after ངེས and ends with བརྒྱུད directly before the boundary. This is not merely a punctuation difference. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.
+
+**Choice and reason:** Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x0000-y0000.png), [p004-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x1900-y0000.png), [p004-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x2350-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont-20260928-tk-b01-022"></a>
+
+### TK-CONT-20260928-TK-B01-022 — Tingkye
+
+Units: [U00105](#u00105).
+
+**Current Adzom main context:** ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ། །
+
+**Comparison reading/snippet:** [Unresolved reading or sign assignment: The wording is present as main text; only སྣང་བར versus སྣང་བ remains unresolved.]
+
+**Status:** bounded_uncertain_observation. **Confidence:** high for main-text presence; low for the suffix; coordinator native-column check; no unlisted scope certified.
+
+**Locator:** PDF4 / BDRC397 / printed389 / row3 / estimated native bounds [3090, 435, 3555, 542].
+
+**Observation:** The unit occupies the ordinary main line between U00104 and U00106; the possible final ར after བ is not certified. The wording is present as main text; only སྣང་བར versus སྣང་བ remains unresolved. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.
+
+**Choice and reason:** Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x0000-y0000.png), [p004-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x1900-y0000.png), [p004-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x2350-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont-20260928-tk-b01-023"></a>
+
+### TK-CONT-20260928-TK-B01-023 — Tingkye
+
+Units: [U00180](#u00180).
+
+**Current Adzom main context:** དེ་ནས་གཅིག་དང་ཐ་མི་དད། །
+
+**Comparison reading/snippet:** དེ་ནས་གཅིག་དང་ཐ་མི་དད
+
+**Status:** localized_observation. **Confidence:** high for main wording; medium for local annotation absence; coordinator native-column check; no unlisted scope certified.
+
+**Locator:** PDF6 / BDRC399 / printed391 / row4 / estimated native bounds [2020, 514, 2570, 618].
+
+**Observation:** The main wording is visible continuously at this junction. The separately identified Adzom annotation is not visible here; its absence elsewhere has not been investigated. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.
+
+**Choice and reason:** Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x0000-y0000.png), [p006-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x1900-y0000.png), [p006-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x2350-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont-20260928-tk-b01-024"></a>
+
+### TK-CONT-20260928-TK-B01-024 — Tingkye
+
+Units: [U00181](#u00181).
+
+**Current Adzom main context:** རང་བཞིན་དག་པའི་འཁོར་རྣམས་ལས། །
+
+**Comparison reading/snippet:** རང་བཞིན་སྣང་བའི་འཁོར་རྣམས་ཀྱིས
+
+**Status:** localized_observation. **Confidence:** medium-high; coordinator native-column check; no unlisted scope certified.
+
+**Locator:** PDF6 / BDRC399 / printed391 / row4 / estimated native bounds [2570, 513, 3250, 620].
+
+**Observation:** The visible internal reading is སྣང་བའི, and the ending after རྣམས reads ཀྱིས. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.
+
+**Choice and reason:** Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x0000-y0000.png), [p006-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x1900-y0000.png), [p006-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x2350-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont-20260928-tk-b01-026"></a>
+
+### TK-CONT-20260928-TK-B01-026 — Tingkye
+
+Units: [U00183](#u00183), [U00184](#u00184).
+
+**Current Adzom main context:** ཨེ་མ་ཀྱེ་ཀྱེ་བཅོམ་ལྡན་འདས། ། / འདི་ལྟར་སྣང་བ་དམ་པ་ཉིད། །
+
+**Comparison reading/snippet:** ཨེ་མ་ཀྱེ་བཅོམ་ལྡན་འདས
+
+**Status:** localized_observation. **Confidence:** high; coordinator native-column check; no unlisted scope certified.
+
+**Locator:** PDF6 / BDRC399 / printed391 / row5 / estimated native bounds [785, 603, 1945, 707].
+
+**Observation:** One ཀྱེ is visible between ཨེ་མ and བཅོམ. U00183 and the following U00184 are both physically present; the observation is a local repetition difference, not omission of either unit. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.
+
+**Choice and reason:** Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x0000-y0000.png), [p006-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x1900-y0000.png), [p006-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x2350-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="ts-cont-20260928-u00012"></a>
+
+### TS-CONT-20260928-U00012 — Tsamdrak
+
+Units: [U00012](#u00012).
+
+**Current Adzom main context:** འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན། །
+
+**Comparison reading/snippet:** [Exact vowel unresolved: candidate བསྟན / བསྟུན; this is not an adopted full witness reading.]
+
+**Status:** bounded_reading_uncertainty. **Confidence:** Unresolved a/u vowel; high local correspondence.
+
+**Locator:** PDF2, BDRC5, row2 left. Estimated native target bounds {'target_xyxy': [1100, 425, 1320, 560], 'uncertainty': 'Approximate coordinates; uncertainty concerns the lower curve within the central stack, not the entire phrase.'}..
+
+**Observation:** A separate initial ba precedes a vertically extended cluster read provisionally as superscribed sa over ta; final na follows. No independent above-line naro is visible. The cluster has a conspicuous lower curved return, but I cannot securely separate a zhabs-kyu from the lower ta structure. Thus the observable difficulty is specifically bstan versus bstun. A small separator before pa is distinct from that lower curve. The observed multi-component form does not support certifying the reference ཐོས. Partial reading supports the earlier bstan/bstun family, without resolving its vowel. Coordinator full-page and native-column checks support the reported local distinction, not full-page comparison.
+
+**Choice and reason:** Retain governing Adzom reading unchanged; preserve this witness-specific qualified observation without upgrading incomplete opening coverage.
+
+**Evidence:** [p002-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p002-native.png), [p002-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p002-x0000-y0000.png), [p002-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p002-x1900-y0000.png), [p002-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p002-x2344-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont-20260928-u00148"></a>
+
+### TS-CONT-20260928-U00148 — Tsamdrak
+
+Units: [U00148](#u00148).
+
+**Current Adzom main context:** རྟོགས་སངས་ཡན་ལག་དྲུག་ཅུ་གཉིས། །
+
+**Comparison reading/snippet:** རྟོག་སངས [provisional local reading; final-sa absence has moderate confidence]
+
+**Status:** provisional_local_variant. **Confidence:** Moderate for final-sa absence; high local anchor correspondence.
+
+**Locator:** PDF7, BDRC10, row7 right. Estimated native target bounds {'target_xyxy': [2990, 790, 3160, 915], 'boundary_inspection_envelope_xyxy': [2960, 770, 3290, 925], 'uncertainty': 'Approximate bounds include the transition into sangs; the discriminating issue is whether an additional sa body intervenes.'}..
+
+**Observation:** The opening cluster reads ra over ta with naro, followed by ga. After ga I distinguish a small head-level separator and then the full sa beginning sangs. I do not see a separate full sa between ga and that separator. The downward limb of the opening stack belongs to the stacked letter, not a final sa; the following sangs supplies its own initial sa, nga, and final sa. Provisional disagreement: the witness appears to lack the final sa of reference རྟོགས before སངས. Local order supports U00147 → U00143 → U00148. Coordinator full-page and native-column checks support the reported local distinction, not full-page comparison.
+
+**Choice and reason:** Retain governing Adzom reading unchanged; preserve this witness-specific qualified observation without upgrading incomplete opening coverage.
+
+**Evidence:** [p007-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p007-native.png), [p007-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p007-x0000-y0000.png), [p007-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p007-x1900-y0000.png), [p007-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p007-x2352-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
 
 ## A/B/S transcript apparatus
 

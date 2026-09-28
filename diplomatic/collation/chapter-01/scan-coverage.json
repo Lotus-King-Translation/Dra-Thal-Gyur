@@ -468,5 +468,632 @@
       "lexical_correction_adopted": false,
       "verified_integration_commit": "a0822b20db28304e7e5d930ee69b9e9c90e31474"
     }
+  ],
+  "continuation_bounded_reviews": [
+    {
+      "task_id": "C1-BASE-UNCERTAINTIES",
+      "batch_id": "B01-U01522",
+      "report": "reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES.json",
+      "scope": [
+        {
+          "pdf_page": 60,
+          "row": 4,
+          "scope": "U01522 graphic components and adjacent fragments only"
+        }
+      ],
+      "canonical_record_ids": [
+        "SCAN-CH1-CONT-01522"
+      ],
+      "whole_pages_newly_certified": [],
+      "remaining": [
+        "x1440–1680: segmentation and allocation of crowded upper and lower strokes.",
+        "x1680–2030: literal transcription of the additional full-height group.",
+        "x1690–1735, y650–710: ownership of detached marks.",
+        "x2090–2280: exact initial segmentation of the separate right segment.",
+        "Relationship of the two shad-separated groups: continuous main text versus source intervention."
+      ],
+      "publication_status": "integration_pending_verification"
+    },
+    {
+      "task_id": "C1-BASE-PHYSICAL",
+      "batch_id": "B01-P0001-0005",
+      "report": "reviews/chapter-01/continuation/C1-BASE-PHYSICAL.json",
+      "scope": [
+        {
+          "pdf_page": 1,
+          "row_region_ledger": [
+            {
+              "region": "P1.T1",
+              "position": "Upper title row",
+              "observed": "Large, densely stacked foreign-script lettering with separate signs at both ends.",
+              "first_fragment": null,
+              "last_fragment": null,
+              "anchors": [],
+              "scope": "Arrangement inspected; lettering not transcribed."
+            },
+            {
+              "region": "P1.T2",
+              "position": "Middle title row",
+              "first_fragment": null,
+              "last_fragment": null,
+              "anchors": [
+                "U00001",
+                "U00002"
+              ],
+              "scope": "Tibetan-script foreign-language title located; stack sequence remains unresolved."
+            },
+            {
+              "region": "P1.T3",
+              "position": "Lower title row",
+              "first_fragment": "རིན་པོ་ཆེ་",
+              "last_fragment": "བཞུགས།",
+              "anchors": [
+                "U00003",
+                "U00004"
+              ],
+              "scope": "Opening and terminal fragments inspected; no renewed whole-title lexical certification."
+            }
+          ],
+          "boundary_inventory": [
+            [
+              "U00004",
+              "P1.T3",
+              "S1_RD2",
+              "No terminal tsheg resolved between final ས and the adjacent stroke."
+            ]
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "row_region_ledger": [
+            {
+              "row": "P2.R1",
+              "left_segment": {
+                "first_fragment": null,
+                "last_fragment": "རྒྱ་གར་སྐད་དུ",
+                "anchors": [
+                  "U00005"
+                ]
+              },
+              "right_segment": {
+                "first_fragment": null,
+                "last_fragment": "བོད་སྐད་དུ",
+                "anchors": [
+                  "U00006",
+                  "U00007"
+                ]
+              },
+              "scope": "Language-label positions inspected; foreign sequences unresolved."
+            },
+            {
+              "row": "P2.R2",
+              "left_segment": {
+                "first_fragment": "རིན་པོ་ཆེ་",
+                "last_fragment": "ཆེན",
+                "anchors": [
+                  "U00008"
+                ]
+              },
+              "right_segment": {
+                "first_fragment": "པོའི་རྒྱུད་",
+                "last_fragment": "ཆེན",
+                "anchors": [
+                  "U00008",
+                  "U00009"
+                ]
+              },
+              "scope": "Segment endpoints and cross-portrait continuation inspected."
+            },
+            {
+              "row": "P2.R3",
+              "left_segment": {
+                "first_fragment": "པོ་མཆོག་གི་",
+                "last_fragment": "བཟང་པོ་ལ",
+                "anchors": [
+                  "U00009",
+                  "U00010"
+                ]
+              },
+              "right_segment": {
+                "first_fragment": "ཕྱག་འཚལ་ལོ",
+                "last_fragment": "དུས",
+                "anchors": [
+                  "U00010",
+                  "U00012"
+                ]
+              },
+              "scope": "Segment endpoints and intervening unit disposition inspected."
+            },
+            {
+              "row": "P2.R4",
+              "left_segment": {
+                "first_fragment": "གཅིག་ན",
+                "last_fragment": "ཐོག་མར་ནི",
+                "anchors": [
+                  "U00012",
+                  "U00013"
+                ]
+              },
+              "right_segment": {
+                "first_fragment": "རང་བྱུང་",
+                "last_fragment": null,
+                "anchors": [
+                  "U00014",
+                  "U00011"
+                ]
+              },
+              "scope": "Left endpoints inspected; right root-text ending unresolved. Smaller heading occupies right-hand remainder."
+            }
+          ],
+          "boundary_inventory": []
+        },
+        {
+          "pdf_page": 3,
+          "row_region_ledger": [
+            {
+              "row": "P3.R1",
+              "first_fragment": null,
+              "last_fragment": "དབུས་སུ་རླུང་སེམས་རྒྱུ",
+              "anchors": [
+                "U00014 continuation",
+                "U00015",
+                "U00016",
+                "U00017 opening"
+              ],
+              "scope": "Row sequence and right endpoint inspected; short opening continuation unresolved."
+            },
+            {
+              "row": "P3.R2",
+              "first_fragment": "དང་རྐྱེན",
+              "last_fragment": "འཁྲུལ་པ་ཡོངས",
+              "anchors": [
+                "U00017 completion",
+                "U00018",
+                "U00019",
+                "U00020 opening"
+              ],
+              "scope": "Both endpoints and row-end marks inspected."
+            },
+            {
+              "row": "P3.R3",
+              "first_fragment": "སུ་དག་པ་ལ",
+              "last_fragment": "མི་ཕྱེད་སྣ་ཚོགས",
+              "anchors": [
+                "U00020 completion",
+                "U00021",
+                "U00022",
+                "U00023 opening"
+              ],
+              "scope": "Both endpoints and row-end marks inspected."
+            },
+            {
+              "row": "P3.R4",
+              "first_fragment": "དམིགས་མེད་པས",
+              "last_fragment": "འདས་དང",
+              "anchors": [
+                "U00023 completion",
+                "U00024",
+                "U00025",
+                "U00026 opening"
+              ],
+              "scope": "Both endpoints and outgoing page continuation inspected."
+            }
+          ],
+          "boundary_inventory": [
+            [
+              "U00015",
+              "P3.R1",
+              "D2",
+              "No terminal tsheg resolved."
+            ],
+            [
+              "U00016",
+              "P3.R1",
+              "D2",
+              "No terminal tsheg resolved."
+            ]
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "row_region_ledger": [
+            {
+              "row": "P4.R1",
+              "first_fragment": "མ་འོངས་ད་ལྟར་མེད",
+              "last_fragment": "དགའ་དང་ལྡན་པ",
+              "anchors": [
+                "U00026 completion",
+                "U00027",
+                "U00028",
+                "U00030",
+                "U00031 opening"
+              ],
+              "scope": "Endpoints, unit order and selected boundaries inspected."
+            },
+            {
+              "row": "P4.R2",
+              "first_fragment": "བསོད་ནམས་བརྩེགས",
+              "last_fragment": "ཤ་ཁྲག",
+              "anchors": [
+                "U00031 completion",
+                "U00032",
+                "U00033",
+                "U00034",
+                "U00035 opening"
+              ],
+              "scope": "Endpoints and smaller inserted heading located; no renewed U00035 terminal assessment."
+            },
+            {
+              "row": "P4.R3",
+              "first_fragment": "བཀོད་པའི་གཟུགས་མེད་པའི",
+              "last_fragment": "སྟོང་དང་ལྡན",
+              "anchors": [
+                "U00035 completion",
+                "U00036",
+                "U00037",
+                "U00038",
+                "U00039 opening"
+              ],
+              "scope": "Endpoints and continuation positions inspected."
+            },
+            {
+              "row": "P4.R4",
+              "first_fragment": "པ་དབུས་མའི་གནས",
+              "last_fragment": "སྟོན་པ",
+              "anchors": [
+                "U00039 completion",
+                "U00040",
+                "U00041",
+                "U00042",
+                "U00043 opening"
+              ],
+              "scope": "Endpoints, U00041 boundary and outgoing filler inspected."
+            },
+            {
+              "row": "P4.R5",
+              "first_fragment": "སངས་རྒྱས་བཅོམ་ལྡན་འདས",
+              "last_fragment": "སྣང་བའི་འོད་ནི་བསམ་མི",
+              "anchors": [
+                "U00043 completion",
+                "U00044",
+                "U00045",
+                "U00046 opening"
+              ],
+              "scope": "Endpoints, U00043 boundary and outgoing filler inspected."
+            },
+            {
+              "row": "P4.R6",
+              "first_fragment": "ཁྱབ",
+              "last_fragment": "ཁ་དོག",
+              "anchors": [
+                "U00046 completion",
+                "U00047",
+                "U00048",
+                "U00049",
+                "U00050",
+                "U00051 opening"
+              ],
+              "scope": "Endpoints and outgoing page continuation inspected."
+            }
+          ],
+          "boundary_inventory": [
+            [
+              "U00028",
+              "P4.R1",
+              "D2",
+              "No terminal tsheg resolved."
+            ],
+            [
+              "U00041",
+              "P4.R4",
+              "D2",
+              "No terminal tsheg resolved."
+            ],
+            [
+              "U00043",
+              "P4.R5",
+              "D2",
+              "No terminal tsheg resolved."
+            ],
+            [
+              "U00046",
+              "P4.R6",
+              "D2",
+              "No terminal tsheg resolved."
+            ]
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "row_region_ledger": [
+            {
+              "row": "P5.R1",
+              "first_fragment": "དཀར་ཞིང་",
+              "last_fragment": "མངོན་པར་རྒྱུ",
+              "anchors": [
+                "U00051 completion",
+                "U00052",
+                "U00053",
+                "U00054",
+                "U00055 opening"
+              ],
+              "scope": "Endpoints and U00052–U00054 detached strokes inspected."
+            },
+            {
+              "row": "P5.R2",
+              "first_fragment": "བ་རྣམ་གཉིས་བྲལ",
+              "last_fragment": "བར་སྣང་དག་ལ་གནས",
+              "anchors": [
+                "U00055 completion",
+                "U00056",
+                "U00057",
+                "U00058",
+                "U00059 opening"
+              ],
+              "scope": "Endpoints and continuation positions inspected."
+            },
+            {
+              "row": "P5.R3",
+              "first_fragment": "བཅས་ནས",
+              "last_fragment": "བར་སྣང་ཉིད་ལས་གཞན",
+              "anchors": [
+                "U00059 completion",
+                "U00060",
+                "U00061",
+                "U00062",
+                "U00063 opening"
+              ],
+              "scope": "Endpoints inspected; interior lexical reading not recertified."
+            },
+            {
+              "row": "P5.R4",
+              "first_fragment": "ཅི་མིན",
+              "last_fragment": "མཛེས་ཞིང་ལྡེམ་བག་ལྡན་པ་ལ",
+              "anchors": [
+                "U00063 completion",
+                "U00064",
+                "U00065",
+                "U00066",
+                "U00067"
+              ],
+              "scope": "Endpoints and U00067 terminal pair inspected."
+            },
+            {
+              "row": "P5.R5",
+              "first_fragment": "བག་ཡངས་",
+              "last_fragment": "གཟུགས་མེད་ལས་ཀྱི་འགྱུར་བྱེད་ལྟར",
+              "anchors": [
+                "U00068",
+                "U00069",
+                "U00070",
+                "U00071"
+              ],
+              "scope": "Endpoints and U00071 terminal pair inspected."
+            },
+            {
+              "row": "P5.R6",
+              "first_fragment": "ཁམས་དང་",
+              "last_fragment": "སངས",
+              "anchors": [
+                "U00072",
+                "U00073",
+                "U00074",
+                "U00075",
+                "U00076 opening"
+              ],
+              "scope": "Endpoints, U00075 boundary and unfinished final anchor inspected."
+            }
+          ],
+          "boundary_inventory": [
+            [
+              "U00052",
+              "P5.R1",
+              "D2",
+              "No terminal tsheg resolved."
+            ],
+            [
+              "U00053",
+              "P5.R1",
+              "D2",
+              "No terminal tsheg resolved."
+            ],
+            [
+              "U00054",
+              "P5.R1",
+              "D2",
+              "No terminal tsheg resolved."
+            ],
+            [
+              "U00067",
+              "P5.R4",
+              "D2",
+              "No terminal tsheg resolved."
+            ],
+            [
+              "U00071",
+              "P5.R5",
+              "D2",
+              "No terminal tsheg resolved."
+            ],
+            [
+              "U00075",
+              "P5.R6",
+              "D2",
+              "No terminal tsheg resolved."
+            ],
+            [
+              "U00076",
+              "P5.R6",
+              "OPEN",
+              "Upper-level mark after visible སངས remains unassigned; no anchor-terminal assessment."
+            ]
+          ]
+        }
+      ],
+      "canonical_record_ids": [],
+      "whole_pages_newly_certified": [],
+      "remaining": [
+        {
+          "scope": "PDF1",
+          "required": "Resolve foreign-title lettering, marginal characters, opening ornaments and the assignment of remote terminal pairs."
+        },
+        {
+          "scope": "PDF2",
+          "required": "Read caption glyph by glyph, resolve foreign sequences and U00014 outgoing fragment, and inventory every unit boundary."
+        },
+        {
+          "scope": "PDF3",
+          "required": "Resolve U00014 incoming fragment; inventory remaining boundaries and exact filler forms."
+        },
+        {
+          "scope": "PDF4",
+          "required": "Inventory remaining boundaries and heading punctuation; attach exact preserved U00030/U00035 terminal-record references before counting their coverage."
+        },
+        {
+          "scope": "PDF5",
+          "required": "Inventory remaining boundaries, especially ambiguous terminal tshegs; resolve the mark beside the opening of U00076."
+        },
+        {
+          "scope": "All five pages",
+          "required": "Complete marginal inscriptions and foliation readings. No unlisted boundary is certified by this report."
+        }
+      ],
+      "publication_status": "integration_pending_verification"
+    },
+    {
+      "task_id": "C1-TINGKYE",
+      "batch_id": "B01-P0003-0007",
+      "report": "reviews/chapter-01/continuation/C1-TINGKYE.json",
+      "scope": [
+        {
+          "pdf_page": 3,
+          "rows": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "scope": "Main lexical comparison plus explicitly listed signs; glyph/tsheg/marginal uncertainties remain"
+        },
+        {
+          "pdf_page": 4,
+          "rows": [
+            1,
+            2,
+            3
+          ],
+          "scope": "Main lexical comparison plus listed signs; row4 onward unexamined"
+        },
+        {
+          "pdf_page": 6,
+          "rows": [
+            4,
+            5
+          ],
+          "scope": "Only U00180-U00184 junction; not complete rows"
+        }
+      ],
+      "canonical_record_ids": [
+        "TK-CONT-20260928-TK-B01-001",
+        "TK-CONT-20260928-TK-B01-002",
+        "TK-CONT-20260928-TK-B01-003",
+        "TK-CONT-20260928-TK-B01-004",
+        "TK-CONT-20260928-TK-B01-005",
+        "TK-CONT-20260928-TK-B01-006",
+        "TK-CONT-20260928-TK-B01-007",
+        "TK-CONT-20260928-TK-B01-008",
+        "TK-CONT-20260928-TK-B01-009",
+        "TK-CONT-20260928-TK-B01-010",
+        "TK-CONT-20260928-TK-B01-011",
+        "TK-CONT-20260928-TK-B01-012",
+        "TK-CONT-20260928-TK-B01-013",
+        "TK-CONT-20260928-TK-B01-014",
+        "TK-CONT-20260928-TK-B01-015",
+        "TK-CONT-20260928-TK-B01-016",
+        "TK-CONT-20260928-TK-B01-017",
+        "TK-CONT-20260928-TK-B01-018",
+        "TK-CONT-20260928-TK-B01-019",
+        "TK-CONT-20260928-TK-B01-020",
+        "TK-CONT-20260928-TK-B01-021",
+        "TK-CONT-20260928-TK-B01-022",
+        "TK-CONT-20260928-TK-B01-023",
+        "TK-CONT-20260928-TK-B01-024",
+        "TK-CONT-20260928-TK-B01-026",
+        "TK-REC-20260927-002"
+      ],
+      "whole_pages_newly_certified": [],
+      "remaining": [
+        {
+          "page": 3,
+          "scope": "Resolve TK-B01-001, TK-B01-005, TK-B01-009, TK-B01-011 and TK-B01-013; certify terminal tshegs and unresolved sign traces; transcribe the marginal label."
+        },
+        {
+          "page": 4,
+          "scope": "Continuous comparison resumes at row 4 opening, the continuation of U00106, and proceeds through rows 4–7. Also resolve TK-B01-016, TK-B01-019, TK-B01-020 and TK-B01-022."
+        },
+        {
+          "page": 5,
+          "scope": "Rows 1–7 in full, including page-opening continuation, all lexical comparisons, boundaries and source layers."
+        },
+        {
+          "page": 6,
+          "scope": "Rows 1–3; row 4 opening through U00179; row 5 after U00184; rows 6–7. The isolated U00180–U00184 observations do not discharge these spans."
+        },
+        {
+          "page": 7,
+          "scope": "Rows 1–7 in full, including page-opening continuation, all lexical comparisons, boundaries and source layers."
+        },
+        {
+          "pages": [
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "scope": "Complete annotation and marginal-material review remains outstanding; unexamined source-note slots must not be classified as omitted main verses."
+        }
+      ],
+      "publication_status": "integration_pending_verification"
+    },
+    {
+      "task_id": "C1-TSAMDRAK",
+      "batch_id": "B01-OPENING-TEST",
+      "report": "reviews/chapter-01/continuation/C1-TSAMDRAK.json",
+      "scope": [
+        {
+          "pdf_page": 2,
+          "row": 2,
+          "anchor": "U00012",
+          "scope": "Verb components only"
+        },
+        {
+          "pdf_page": 3,
+          "row": 4,
+          "anchor": "U00030",
+          "scope": "Repeated opening verb only"
+        },
+        {
+          "pdf_page": 7,
+          "row": 7,
+          "anchor": "U00148",
+          "scope": "rtog(s) sangs and identifying U143 transposition flanks"
+        }
+      ],
+      "canonical_record_ids": [
+        "TS-CONT-20260928-U00012",
+        "TS-CONT-20260928-U00148",
+        "TS-CH1-V006"
+      ],
+      "whole_pages_newly_certified": [],
+      "remaining": [
+        "At U00012, does the lower return contain an independent zhabs-kyu beyond the subjoined ta?",
+        "Can independent inspection confirm the ga–separator–sa segmentation at U00148?"
+      ],
+      "publication_status": "integration_pending_verification"
+    }
   ]
 }

@@ -10,7 +10,7 @@
     {
       "batch_id": "B01-OPENING-TEST",
       "task_id": "C1-TSAMDRAK",
-      "status": "reader_finished_coordinator_integration_pending",
+      "status": "targeted_reading_integrated_with_uncertainties",
       "owner": "reader-tsamdrak-B01-20260928",
       "baseline_commit": "21de152e4df880c6530c8fb9aa1dbcd9b57b1602",
       "scope": "Discriminating opening tests U00012/PDF2, U00030/PDF3 and U00148/PDF7",
@@ -40,16 +40,138 @@
         1,
         160
       ],
-      "rows_actually_compared": [],
-      "dimensions_checked": [],
-      "unread_or_uncertain_spans": [
+      "rows_actually_compared": [
         {
-          "scope": "All requested visual source spans before reader execution",
-          "status": "not_yet_compared"
+          "pdf_page": 2,
+          "row": 2,
+          "anchor": "U00012",
+          "scope": "Verb components only"
+        },
+        {
+          "pdf_page": 3,
+          "row": 4,
+          "anchor": "U00030",
+          "scope": "Repeated opening verb only"
+        },
+        {
+          "pdf_page": 7,
+          "row": 7,
+          "anchor": "U00148",
+          "scope": "rtog(s) sangs and identifying U143 transposition flanks"
         }
       ],
-      "observations": [],
-      "canonical_record_ids": [],
+      "dimensions_checked": [],
+      "unread_or_uncertain_spans": [
+        "At U00012, does the lower return contain an independent zhabs-kyu beyond the subjoined ta?",
+        "Can independent inspection confirm the ga–separator–sa segmentation at U00148?"
+      ],
+      "observations": [
+        {
+          "anchor": "U00012",
+          "actual_correspondence": "Opening formula begins PDF2 row1 right and continues row2 left; identification rests on visible wording.",
+          "physical_page_row": "PDF2, BDRC5, row2 left.",
+          "observed_context": {
+            "before": "གིས་",
+            "target_partial": "བསྟ[ུ?]ན་",
+            "after": "པའི་དུས་གཅིག་ན",
+            "notation": "Brackets mark uncertainty, not witness characters."
+          },
+          "glyph_components": "A separate initial ba precedes a vertically extended cluster read provisionally as superscribed sa over ta; final na follows. No independent above-line naro is visible. The cluster has a conspicuous lower curved return, but I cannot securely separate a zhabs-kyu from the lower ta structure. Thus the observable difficulty is specifically bstan versus bstun. A small separator before pa is distinct from that lower curve.",
+          "exact_witness_reading": null,
+          "comparison_to_base_reference": "The observed multi-component form does not support certifying the reference ཐོས. Partial reading supports the earlier bstan/bstun family, without resolving its vowel.",
+          "approximate_native_target_and_uncertainty_bounds": {
+            "target_xyxy": [
+              1100,
+              425,
+              1320,
+              560
+            ],
+            "uncertainty": "Approximate coordinates; uncertainty concerns the lower curve within the central stack, not the entire phrase."
+          },
+          "confidence": {
+            "correspondence": "high",
+            "initial_ba_and_final_na": "moderate-high",
+            "sa_ta_stack": "moderate",
+            "independent_u_vowel": "unresolved"
+          },
+          "disposition": "Retain component-level uncertainty; do not enter either bstan or bstun as settled.",
+          "canonical_record_ids": [
+            "TS-CONT-20260928-U00012"
+          ]
+        },
+        {
+          "anchor": "U00030",
+          "actual_correspondence": "The second opening formula is visibly present at PDF3 row4 right.",
+          "physical_page_row": "PDF3, BDRC6, row4 right.",
+          "observed_context": {
+            "before": "བདག་གིས་",
+            "target": "ཐོས་",
+            "after": "པའི་དུས་གཅིག་ན"
+          },
+          "glyph_components": "The disputed syllable has a tha body, an above-line naro, and a separate following sa. I see neither a preceding ba nor the deep stacked construction observed at U00012. The small following separator is not an additional consonant.",
+          "exact_witness_reading": "ཐོས",
+          "comparison_to_base_reference": "Observed agreement with the reference at this verb. The two printed opening verbs are graphically different: U00030 has the above-line o sign and tha-plus-sa construction; U00012 has an initial ba and a descending central cluster.",
+          "approximate_native_target_and_uncertainty_bounds": {
+            "target_xyxy": [
+              2800,
+              630,
+              2960,
+              780
+            ],
+            "inspection_envelope_xyxy": [
+              2720,
+              620,
+              3050,
+              795
+            ],
+            "uncertainty": "Coordinates approximate; no material unresolved component in the proposed verb."
+          },
+          "confidence": "Moderate-high for ཐོས; high for correspondence.",
+          "disposition": "Accept targeted lexical agreement provisionally; this does not certify surrounding punctuation or the whole anchor.",
+          "integrated_disposition": "Localized agreement at verb thos; old repeated-form uncertainty superseded only for this verb. No apparatus conflict record needed."
+        },
+        {
+          "anchor": "U00148",
+          "actual_correspondence": "Visible row7 sequence is the ending of U00147, then wording identifying U00143, then U00148. The local transposition is supported by words, not numerical order.",
+          "physical_page_row": "PDF7, BDRC10, row7 right.",
+          "observed_context": {
+            "preceding_sequence_identifiers": [
+              "དེ་ལ་གསལ་བྱེད་",
+              "སྟོན་པའི་གསུང་"
+            ],
+            "target_and_after": "རྟོག་སངས་ཡན་ལག",
+            "scope_qualification": "These identifying spans establish local correspondence; the complete preceding verses and remainder of U00148 are not certified here."
+          },
+          "glyph_components": "The opening cluster reads ra over ta with naro, followed by ga. After ga I distinguish a small head-level separator and then the full sa beginning sangs. I do not see a separate full sa between ga and that separator. The downward limb of the opening stack belongs to the stacked letter, not a final sa; the following sangs supplies its own initial sa, nga, and final sa.",
+          "exact_witness_reading": "རྟོག་སངས",
+          "comparison_to_base_reference": "Provisional disagreement: the witness appears to lack the final sa of reference རྟོགས before སངས. Local order supports U00147 → U00143 → U00148.",
+          "approximate_native_target_and_uncertainty_bounds": {
+            "target_xyxy": [
+              2990,
+              790,
+              3160,
+              915
+            ],
+            "boundary_inspection_envelope_xyxy": [
+              2960,
+              770,
+              3290,
+              925
+            ],
+            "uncertainty": "Approximate bounds include the transition into sangs; the discriminating issue is whether an additional sa body intervenes."
+          },
+          "confidence": "Moderate for absence of final sa; high for local anchor order.",
+          "disposition": "Record རྟོག་སངས as a provisional visual variant, retaining the boundary crop for independent confirmation.",
+          "canonical_record_ids": [
+            "TS-CONT-20260928-U00148"
+          ]
+        }
+      ],
+      "canonical_record_ids": [
+        "TS-CONT-20260928-U00012",
+        "TS-CONT-20260928-U00148",
+        "TS-CH1-V006"
+      ],
       "evidence_paths_and_hashes": [
         {
           "pdf_page": 2,
@@ -268,7 +390,7 @@
           "pixel_identity_verified": true
         }
       ],
-      "next_physical_span": "Discriminating opening tests U00012/PDF2, U00030/PDF3 and U00148/PDF7",
+      "next_physical_span": "Begin new continuous comparison at PDF14, using the existing PDF13 outgoing sequence; keep the specific opening vowel/suffix questions visible and do not treat the displayed opening pages as newly complete.",
       "source_identity_only": "Source metadata validates attachment identity; actual reading limits are in the raw reader report.",
       "raw_reader_report": {
         "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B01-OPENING-TEST-reader-reading.txt",
@@ -307,7 +429,10 @@
               "sa_ta_stack": "moderate",
               "independent_u_vowel": "unresolved"
             },
-            "disposition": "Retain component-level uncertainty; do not enter either bstan or bstun as settled."
+            "disposition": "Retain component-level uncertainty; do not enter either bstan or bstun as settled.",
+            "canonical_record_ids": [
+              "TS-CONT-20260928-U00012"
+            ]
           },
           {
             "anchor": "U00030",
@@ -337,7 +462,8 @@
               "uncertainty": "Coordinates approximate; no material unresolved component in the proposed verb."
             },
             "confidence": "Moderate-high for ཐོས; high for correspondence.",
-            "disposition": "Accept targeted lexical agreement provisionally; this does not certify surrounding punctuation or the whole anchor."
+            "disposition": "Accept targeted lexical agreement provisionally; this does not certify surrounding punctuation or the whole anchor.",
+            "integrated_disposition": "Localized agreement at verb thos; old repeated-form uncertainty superseded only for this verb. No apparatus conflict record needed."
           },
           {
             "anchor": "U00148",
@@ -370,7 +496,10 @@
               "uncertainty": "Approximate bounds include the transition into sangs; the discriminating issue is whether an additional sa body intervenes."
             },
             "confidence": "Moderate for absence of final sa; high for local anchor order.",
-            "disposition": "Record རྟོག་སངས as a provisional visual variant, retaining the boundary crop for independent confirmation."
+            "disposition": "Record རྟོག་སངས as a provisional visual variant, retaining the boundary crop for independent confirmation.",
+            "canonical_record_ids": [
+              "TS-CONT-20260928-U00148"
+            ]
           }
         ],
         "reliability_assessment": "Visual reading occurred. The inspection distinguishes the two opening constructions and supports a specific final-sa omission at U00148. It does not resolve the lower component distinguishing bstan from bstun at U00012; a claim that all three questions are settled would exceed this reading.",
@@ -400,5 +529,6 @@
       "location": "PDF7 row7 right",
       "question": "Final s after rtog in rtog(s) sangs; known U143 transposition precedes U148 here."
     }
-  ]
+  ],
+  "reliability_assessment": "Visual reading occurred. The inspection distinguishes the two opening constructions and supports a specific final-sa omission at U00148. It does not resolve the lower component distinguishing bstan from bstun at U00012; a claim that all three questions are settled would exceed this reading."
 }

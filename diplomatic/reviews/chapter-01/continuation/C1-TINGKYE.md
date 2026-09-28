@@ -1,9 +1,329 @@
-# C1-TINGKYE — continuation review
+# C1-TINGKYE — bounded continuation review
 
-**In progress; no new visual comparison claimed by this source-packet checkpoint.**
+**Chapter1 remains unfinished.** Exact partial reading and unresolved spans are recorded below. No whole-page or whole-witness certification is implied.
 
-Current bounded batch: `B01-P0003-0007`. Continuous bounded comparison of Tingkye PDF3-7; preserve the earlier junction findings.
+[Structured report](C1-TINGKYE.json) · [Raw independent report](C1-TINGKYE-B01-P0003-0007-reader-reading.txt) · [Native source manifest](../../../evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/manifest.json)
 
-[Structured report](C1-TINGKYE.json) · [Native source packet](../../../evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/manifest.json)
+## Coverage
 
-Existing lexical passes and earlier observations are retained within their stated scopes. All declared remaining witness or physical-page work remains unfinished until supported records are integrated.
+Main sequence compared: PDF3 rows1–7 and PDF4 rows1–3, with bounded glyph uncertainties. A separate PDF6 U00180–U00184 junction check does not advance that continuous frontier. PDF5 and PDF7 remain unread in this packet.
+
+Twenty-five new localized or explicitly uncertain apparatus observations are integrated; the previous no-nas withdrawal receives a recheck, not a duplicate record. They are not twenty-five confirmed variants. Adzom remains unchanged.
+
+## Observations
+
+### TK-B01-001 — U00052
+
+Base snippet: `སྐུ`.
+
+Witness: **Unresolved:** The page-opening terminal word resembles ལུས, but its initial construction and possible final ས are not securely resolved.
+
+The visible carried word was inspected independently; the expected སྐུ is not accepted as testimony for its glyphs.
+
+Confidence: low for reading; high for position.
+
+Canonical records: `TK-CONT-20260928-TK-B01-001`.
+
+### TK-B01-002 — U00054
+
+Base snippet: `བག་ལ་ཉལ་བ་མ་ཡིན་པས`.
+
+Witness: `བག་ལ་ཉལ་བ་མ་ཡིན`.
+
+The compound boundary sign follows ཡིན directly; no པས syllable is visible between them.
+
+Confidence: high.
+
+Canonical records: `TK-CONT-20260928-TK-B01-002`.
+
+### TK-B01-003 — U00055
+
+Base snippet: `རྣམ་གཉིས་བྲལ`.
+
+Witness: `རྣམས་དང་བྲལ`.
+
+Visible རྣམས is followed by དང; the base's གཉིས is not the observed word.
+
+Confidence: high.
+
+Canonical records: `TK-CONT-20260928-TK-B01-003`.
+
+### TK-B01-004 — U00062
+
+Base snippet: `རྣམ་པ་རྣམས`.
+
+Witness: `རྣམ་པ་དང`.
+
+The final word before the boundary is visibly དང.
+
+Confidence: high.
+
+Canonical records: `TK-CONT-20260928-TK-B01-004`.
+
+### TK-B01-005 — U00062
+
+Base snippet: `རྒྱུག`.
+
+Witness: **Unresolved:** The final consonant of རྒྱུག/རྒྱུད is not securely distinguished.
+
+The lower and final strokes do not support an unqualified consonant identification.
+
+Confidence: low.
+
+Canonical records: `TK-CONT-20260928-TK-B01-005`.
+
+### TK-B01-006 — U00063
+
+Base snippet: `ཅི་མིན`.
+
+Witness: `ཅི་ཡིན`.
+
+At the physical continuation, the syllable after ཅི reads ཡིན.
+
+Confidence: high.
+
+Canonical records: `TK-CONT-20260928-TK-B01-006`.
+
+### TK-B01-007 — U00070
+
+Base snippet: `བྱེད་པ་བྲལ`.
+
+Witness: `བྱེད་པ་མེད`.
+
+The terminal word has the visible form མེད, not བྲལ.
+
+Confidence: high.
+
+Canonical records: `TK-CONT-20260928-TK-B01-007`.
+
+### TK-B01-008 — U00071
+
+Base snippet: `འགྱུར་བྱེད་ལྟར`.
+
+Witness: `འགྱུར་ལྟར`.
+
+ལྟར follows འགྱུར without an intervening བྱེད.
+
+Confidence: high.
+
+Canonical records: `TK-CONT-20260928-TK-B01-008`.
+
+### TK-B01-009 — U00079
+
+Base snippet: `སྟེ`.
+
+Witness: **Unresolved:** Row-6 opening resembles དེ; possible stacked construction for སྟེ remains unresolved.
+
+The terminal syllable is on the next physical row and cannot be supplied from the reference.
+
+Confidence: low.
+
+Canonical records: `TK-CONT-20260928-TK-B01-009`.
+
+### TK-B01-010 — U00085
+
+Base snippet: `སྣང་ཉིད་ལས་གཟུགས`.
+
+Witness: `སྣང་ཉིད་ལ་གཟུགས`.
+
+The particle between ཉིད and གཟུགས reads ལ without a visible final ས.
+
+Confidence: high.
+
+Canonical records: `TK-CONT-20260928-TK-B01-010`.
+
+### TK-B01-011 — U00085
+
+Base snippet: `བཀོད་པར`.
+
+Witness: **Unresolved:** The ending appears བཀོད་པ; a final ར is not securely excluded.
+
+The terminal letter and adjacent boundary strokes require a more exact distinction.
+
+Confidence: medium for candidate པ; unresolved.
+
+Canonical records: `TK-CONT-20260928-TK-B01-011`.
+
+### TK-B01-012 — U00088
+
+Base snippet: `བསྟན་པ་དམ་པ་རྫོགས་པའི་ཕྱིར`.
+
+Witness: `བསྟན་པ་ཐམས་ཅད་རྫོགས་པའི་ཕྱིར`.
+
+The two visible syllables after བསྟན་པ read ཐམས་ཅད.
+
+Confidence: high.
+
+Canonical records: `TK-CONT-20260928-TK-B01-012`.
+
+### TK-B01-013 — U00089
+
+Base snippet: `ཐུགས་ཀྱི་བསྟན`.
+
+Witness: **Unresolved:** The particle appears ཀྱིས, but the possible final ས is not securely separated from adjoining strokes.
+
+The instrumental-versus-genitive distinction must not be inferred from syntax.
+
+Confidence: medium for candidate ཀྱིས; unresolved.
+
+Canonical records: `TK-CONT-20260928-TK-B01-013`.
+
+### TK-B01-014 — U00085, U00086
+
+Base snippet: `། །`.
+
+Witness: **Unresolved:** A D sign and very fine vertical traces occur in the inter-unit space. The fine traces are not securely punctuation and are not normalized to shads.
+
+A D sign and very fine vertical traces occur in the inter-unit space. The fine traces are not securely punctuation and are not normalized to shads.
+
+Confidence: high for traces; low for function.
+
+Canonical records: `TK-CONT-20260928-TK-B01-014`.
+
+### TK-B01-015 — U00089, U00090
+
+Base snippet: `དངོས། ། རྡོ་རྗེ`.
+
+Witness: **Unresolved:** No terminal D is securely identified at the PDF3 right edge. PDF4 has an opening ornament and a separate compound sign immediately before its first main wording. Its attachment across the page boundary remains unresolved.
+
+No terminal D is securely identified at the PDF3 right edge. PDF4 has an opening ornament and a separate compound sign immediately before its first main wording. Its attachment across the page boundary remains unresolved.
+
+Confidence: medium.
+
+Canonical records: `TK-CONT-20260928-TK-B01-015`.
+
+### TK-B01-016 — U00092
+
+Base snippet: `རང་སྣང་བར`.
+
+Witness: **Unresolved:** The terminal syllable appears པར rather than བར; root-letter identity remains unresolved.
+
+A possible པ/བ difference is visible but not sufficiently secure for a replacement reading.
+
+Confidence: medium for candidate པར; unresolved.
+
+Canonical records: `TK-CONT-20260928-TK-B01-016`.
+
+### TK-B01-017 — U00097
+
+Base snippet: `མཆོག་རྣམས་མཐར`.
+
+Witness: `མཆོག་དང་མཐར`.
+
+The word following མཆོག reads དང.
+
+Confidence: high.
+
+Canonical records: `TK-CONT-20260928-TK-B01-017`.
+
+### TK-B01-018 — U00098
+
+Base snippet: `མ་ཡིན་པས`.
+
+Witness: `མ་ཡིན་པར`.
+
+The final consonant of the terminal particle reads ར.
+
+Confidence: high.
+
+Canonical records: `TK-CONT-20260928-TK-B01-018`.
+
+### TK-B01-019 — U00099
+
+Base snippet: `གང་སུ་འཕྲད`.
+
+Witness: **Unresolved:** The syllable following གང may read དུ rather than སུ.
+
+The root-letter shape is insufficiently secure to certify either agreement or difference.
+
+Confidence: low.
+
+Canonical records: `TK-CONT-20260928-TK-B01-019`.
+
+### TK-B01-020 — U00099
+
+Base snippet: `གྲོལ་བར`.
+
+Witness: **Unresolved:** གྲོལ་པར versus གྲོལ་བར remains unresolved.
+
+The པ/བ distinction is not securely read.
+
+Confidence: low.
+
+Canonical records: `TK-CONT-20260928-TK-B01-020`.
+
+### TK-B01-021 — U00104
+
+Base snippet: `ངེས་བརྒྱུད་དེ`.
+
+Witness: `ངེས་པར་བརྒྱུད`.
+
+The visible sequence places པར after ངེས and ends with བརྒྱུད directly before the boundary. This is not merely a punctuation difference.
+
+Confidence: high.
+
+Canonical records: `TK-CONT-20260928-TK-B01-021`.
+
+### TK-B01-022 — U00105
+
+Base snippet: `ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ`.
+
+Witness: **Unresolved:** The wording is present as main text; only སྣང་བར versus སྣང་བ remains unresolved.
+
+The unit occupies the ordinary main line between U00104 and U00106; the possible final ར after བ is not certified.
+
+Confidence: high for main-text presence; low for the suffix.
+
+Canonical records: `TK-CONT-20260928-TK-B01-022`.
+
+### TK-B01-023 — U00180
+
+Base snippet: `{"main": "དེ་ནས་གཅིག་དང་ཐ་མི་དད", "separate_annotation": "སྡུད་པ་པོ་ཞུ་བ་རང་བྱུང་གི་བཀོད་པ"}`.
+
+Witness: `དེ་ནས་གཅིག་དང་ཐ་མི་དད`.
+
+The main wording is visible continuously at this junction. The separately identified Adzom annotation is not visible here; its absence elsewhere has not been investigated.
+
+Confidence: high for main wording; medium for local annotation absence.
+
+Canonical records: `TK-CONT-20260928-TK-B01-023`.
+
+### TK-B01-024 — U00181
+
+Base snippet: `རང་བཞིན་དག་པའི་འཁོར་རྣམས་ལས`.
+
+Witness: `རང་བཞིན་སྣང་བའི་འཁོར་རྣམས་ཀྱིས`.
+
+The visible internal reading is སྣང་བའི, and the ending after རྣམས reads ཀྱིས.
+
+Confidence: medium-high.
+
+Canonical records: `TK-CONT-20260928-TK-B01-024`.
+
+### TK-B01-025 — U00182, U00183
+
+Base snippet: `གསོལ། ། ཨེ་མ`.
+
+Witness: `གསོལ [D] ཨེ་མ`.
+
+Row 5 begins with U00182's གསོལ followed by D and ཨེ་མ. No ནས syllable occurs in this inspected interval.
+
+Confidence: high.
+
+Canonical records: `TK-REC-20260927-002`.
+
+### TK-B01-026 — U00183, U00184
+
+Base snippet: `ཨེ་མ་ཀྱེ་ཀྱེ་བཅོམ་ལྡན་འདས`.
+
+Witness: `ཨེ་མ་ཀྱེ་བཅོམ་ལྡན་འདས`.
+
+One ཀྱེ is visible between ཨེ་མ and བཅོམ. U00183 and the following U00184 are both physically present; the observation is a local repetition difference, not omission of either unit.
+
+Confidence: high.
+
+Canonical records: `TK-CONT-20260928-TK-B01-026`.
+
+## Exact next span
+
+Resume **PDF4 row4, U00106 continuation `ས་བོན`** after `སྤྲུལ་པའི` at row3 end. Finish rows4–7, PDF5, the unexamined PDF6 spans and PDF7. Keep all listed page3/4 glyph and sign questions visible. The compound D graphic mark is not normalized into Adzom shads.

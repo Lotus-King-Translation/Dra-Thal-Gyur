@@ -10,7 +10,7 @@
     {
       "batch_id": "B01-U01522",
       "task_id": "C1-BASE-UNCERTAINTIES",
-      "status": "reader_finished_coordinator_integration_pending",
+      "status": "target_inspected_unresolved",
       "owner": "reader-base-uncertainties-B01-20260928",
       "baseline_commit": "21de152e4df880c6530c8fb9aa1dbcd9b57b1602",
       "scope": "U01522/PDF60 targeted glyph and source-layer question",
@@ -38,16 +38,88 @@
         1480,
         1545
       ],
-      "rows_actually_compared": [],
-      "dimensions_checked": [],
-      "unread_or_uncertain_spans": [
+      "rows_actually_compared": [
         {
-          "scope": "All requested visual source spans before reader execution",
-          "status": "not_yet_compared"
+          "pdf_page": 60,
+          "row": 4,
+          "scope": "U01522 graphic components and adjacent fragments only"
         }
       ],
-      "observations": [],
-      "canonical_record_ids": [],
+      "dimensions_checked": [],
+      "unread_or_uncertain_spans": [
+        "x1440–1680: segmentation and allocation of crowded upper and lower strokes.",
+        "x1680–2030: literal transcription of the additional full-height group.",
+        "x1690–1735, y650–710: ownership of detached marks.",
+        "x2090–2280: exact initial segmentation of the separate right segment.",
+        "Relationship of the two shad-separated groups: continuous main text versus source intervention."
+      ],
+      "observations": [
+        {
+          "id": "BASE-CONT-20260928-U01522",
+          "disposition": "retain_visible_uncertainty",
+          "rationale": "The cluster after byed is fused/overwritten in the native scan. Two visual inspections did not establish the exact pa'i rgyu sequence independently. Retain the supplied wording visibly as uncertain, with no conjectural correction. The B01 continuation separately inventories the substantial extra middle group, its following upright and the distinct right-hand ending. These cannot be collapsed into or duplicated from the expected pa-i rgyu string. Main-versus-intervention layering remains unresolved; no lexical or punctuation correction is adopted.",
+          "component_inventory": [
+            {
+              "bounds_approx": [
+                1290,
+                675,
+                1445,
+                795
+              ],
+              "reading": "།སོ་སོ…",
+              "features": "Opening vertical shad, then two sa-like bodies with upper o marks; ordinary main-text height. The second syllable's right boundary enters the crowded following group.",
+              "confidence": "Moderate for སོ་སོ; high for the opening shad."
+            },
+            {
+              "bounds_approx": [
+                1440,
+                650,
+                1680,
+                825
+              ],
+              "reading": "Tentatively …འི་བྱེད་; not a resolved segmentation.",
+              "features": "Raised curved mark, enclosed upper counter, dense lower hooked/stacked strokes, then an angular rightward body with a descending terminal stroke. A bya-like lower structure and a final da-like outline support the candidate བྱེད; I cannot independently assign every intervening stroke to འི and བྱེད.",
+              "confidence": "Low to moderate."
+            },
+            {
+              "bounds_approx": [
+                1680,
+                645,
+                2030,
+                825
+              ],
+              "reading": "Additional letters remain unresolved; the left part has a ra-like hooked form and ma-like angular body, tentatively ར…མ…, and the right part contains a conspicuous subjoined loop.",
+              "features": "Several substantial bodies, long upper strokes and a deep lower loop occupy the main writing band. They are not merely a tsheg or a small detached gloss. I cannot justify a complete Tibetan word from these shapes.",
+              "confidence": "High that an additional substantial group exists; low for its letter assignments."
+            },
+            {
+              "bounds_approx": [
+                2030,
+                705,
+                2050,
+                830
+              ],
+              "reading": "།",
+              "features": "A distinct long vertical stroke closes the preceding graphic group.",
+              "confidence": "High."
+            },
+            {
+              "bounds_approx": [
+                2090,
+                695,
+                2660,
+                830
+              ],
+              "reading": "པ[འི?]་རྒྱུ་འགགས་པ།",
+              "features": "Separate full-height group after a visible gap: initial pa-like body and crowded following strokes; a pronounced descending rgya/zhabs-kyu cluster; then the less crowded འགགས་པ and terminal shad. The initial པའི segmentation is less secure than the following རྒྱུ་འགགས་པ.",
+              "confidence": "Moderate overall; higher for the ending."
+            }
+          ]
+        }
+      ],
+      "canonical_record_ids": [
+        "SCAN-CH1-CONT-01522"
+      ],
       "evidence_paths_and_hashes": [
         {
           "pdf_page": 60,
@@ -122,7 +194,7 @@
           "pixel_identity_verified": true
         }
       ],
-      "next_physical_span": "U01522/PDF60 targeted glyph and source-layer question",
+      "next_physical_span": "Next independently actionable uncertainty packet: PDF101 U02615/U02620; U01522 exact components/layer relationship remain tracked, not settled.",
       "source_identity_only": "Source metadata validates attachment identity; actual reading limits are in the raw reader report.",
       "raw_reader_report": {
         "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B01-U01522-reader-reading.txt",
@@ -244,6 +316,6 @@
       }
     }
   ],
-  "remaining_declared_scope": "Precisely resolve or bound U01522/PDF60, U02615 and U02620/PDF101, S09/PDF102, and title/portrait/foreign-script uncertainties on PDF1–2.",
+  "remaining_declared_scope": "U01522 bounded unresolved; PDF101 annotations, PDF102 inscription, and title/portrait/foreign-script questions still require their planned reviews.",
   "protocol": "coverage_review"
 }

@@ -10,7 +10,7 @@
     {
       "batch_id": "B01-P0003-0007",
       "task_id": "C1-TINGKYE",
-      "status": "reader_finished_coordinator_integration_pending",
+      "status": "partial_comparison_integrated",
       "owner": "reader-tingkye-B01-20260928",
       "baseline_commit": "21de152e4df880c6530c8fb9aa1dbcd9b57b1602",
       "scope": "Continuous bounded comparison of Tingkye PDF3-7; preserve the earlier junction findings",
@@ -37,21 +37,847 @@
         ],
         "actual_rows": "not_yet_compared"
       },
-      "anchor_start_and_end": null,
+      "anchor_start_and_end": {
+        "continuous_start": "U00052 tail on PDF3 row1",
+        "continuous_end": "U00106 opening at PDF4 row3 end",
+        "isolated_later_span": [
+          "U00180",
+          "U00184"
+        ]
+      },
       "reference_anchor_range": [
         45,
         280
       ],
-      "rows_actually_compared": [],
-      "dimensions_checked": [],
-      "unread_or_uncertain_spans": [
+      "rows_actually_compared": [
         {
-          "scope": "All requested visual source spans before reader execution",
-          "status": "not_yet_compared"
+          "pdf_page": 3,
+          "rows": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "scope": "Main lexical comparison plus explicitly listed signs; glyph/tsheg/marginal uncertainties remain"
+        },
+        {
+          "pdf_page": 4,
+          "rows": [
+            1,
+            2,
+            3
+          ],
+          "scope": "Main lexical comparison plus listed signs; row4 onward unexamined"
+        },
+        {
+          "pdf_page": 6,
+          "rows": [
+            4,
+            5
+          ],
+          "scope": "Only U00180-U00184 junction; not complete rows"
         }
       ],
-      "observations": [],
-      "canonical_record_ids": [],
+      "dimensions_checked": [
+        "main lexical sequence in stated rows",
+        "listed graphic boundary inventories",
+        "localized source-layer presence"
+      ],
+      "unread_or_uncertain_spans": [
+        {
+          "page": 3,
+          "scope": "Resolve TK-B01-001, TK-B01-005, TK-B01-009, TK-B01-011 and TK-B01-013; certify terminal tshegs and unresolved sign traces; transcribe the marginal label."
+        },
+        {
+          "page": 4,
+          "scope": "Continuous comparison resumes at row 4 opening, the continuation of U00106, and proceeds through rows 4–7. Also resolve TK-B01-016, TK-B01-019, TK-B01-020 and TK-B01-022."
+        },
+        {
+          "page": 5,
+          "scope": "Rows 1–7 in full, including page-opening continuation, all lexical comparisons, boundaries and source layers."
+        },
+        {
+          "page": 6,
+          "scope": "Rows 1–3; row 4 opening through U00179; row 5 after U00184; rows 6–7. The isolated U00180–U00184 observations do not discharge these spans."
+        },
+        {
+          "page": 7,
+          "scope": "Rows 1–7 in full, including page-opening continuation, all lexical comparisons, boundaries and source layers."
+        },
+        {
+          "pages": [
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "scope": "Complete annotation and marginal-material review remains outstanding; unexamined source-note slots must not be classified as omitted main verses."
+        }
+      ],
+      "observations": [
+        {
+          "id": "TK-B01-001",
+          "anchors": [
+            "U00052"
+          ],
+          "base_reading": "སྐུ",
+          "witness_reading": null,
+          "bounded_uncertainty": "The page-opening terminal word resembles ལུས, but its initial construction and possible final ས are not securely resolved.",
+          "category": "glyph_uncertainty",
+          "before_context": null,
+          "after_context": "D ཉོན་མོངས་རགས་པ",
+          "estimated_native_bounds": {
+            "page": 3,
+            "row": 1,
+            "bounds": [
+              568,
+              270,
+              680,
+              352
+            ]
+          },
+          "rationale": "The visible carried word was inspected independently; the expected སྐུ is not accepted as testimony for its glyphs.",
+          "confidence": "low for reading; high for position",
+          "disposition": "retain unresolved; re-examine opening word",
+          "canonical_record_ids": [
+            "TK-CONT-20260928-TK-B01-001"
+          ]
+        },
+        {
+          "id": "TK-B01-002",
+          "anchors": [
+            "U00054"
+          ],
+          "base_reading": "བག་ལ་ཉལ་བ་མ་ཡིན་པས",
+          "witness_reading": "བག་ལ་ཉལ་བ་མ་ཡིན",
+          "category": "local_omission",
+          "before_context": "རང་དག་སྟེ D",
+          "after_context": "D མངོན་པར",
+          "estimated_native_bounds": {
+            "page": 3,
+            "row": 1,
+            "bounds": [
+              1250,
+              263,
+              1670,
+              350
+            ]
+          },
+          "rationale": "The compound boundary sign follows ཡིན directly; no པས syllable is visible between them.",
+          "confidence": "high",
+          "disposition": "record witness difference",
+          "canonical_record_ids": [
+            "TK-CONT-20260928-TK-B01-002"
+          ]
+        },
+        {
+          "id": "TK-B01-003",
+          "anchors": [
+            "U00055"
+          ],
+          "base_reading": "རྣམ་གཉིས་བྲལ",
+          "witness_reading": "རྣམས་དང་བྲལ",
+          "category": "lexical_difference",
+          "before_context": "མངོན་པར་རྒྱུ་བ",
+          "after_context": "D དབང་པོ་ལྔ་ནི",
+          "estimated_native_bounds": {
+            "page": 3,
+            "row": 1,
+            "bounds": [
+              1880,
+              263,
+              2230,
+              351
+            ]
+          },
+          "rationale": "Visible རྣམས is followed by དང; the base's གཉིས is not the observed word.",
+          "confidence": "high",
+          "disposition": "record witness difference",
+          "canonical_record_ids": [
+            "TK-CONT-20260928-TK-B01-003"
+          ]
+        },
+        {
+          "id": "TK-B01-004",
+          "anchors": [
+            "U00062"
+          ],
+          "base_reading": "རྣམ་པ་རྣམས",
+          "witness_reading": "རྣམ་པ་དང",
+          "category": "lexical_difference",
+          "before_context": "པའི",
+          "after_context": "D བར་སྣང་ཉིད",
+          "estimated_native_bounds": {
+            "page": 3,
+            "row": 2,
+            "bounds": [
+              2990,
+              350,
+              3250,
+              439
+            ]
+          },
+          "rationale": "The final word before the boundary is visibly དང.",
+          "confidence": "high",
+          "disposition": "record witness difference independently of TK-B01-005",
+          "canonical_record_ids": [
+            "TK-CONT-20260928-TK-B01-004"
+          ]
+        },
+        {
+          "id": "TK-B01-005",
+          "anchors": [
+            "U00062"
+          ],
+          "base_reading": "རྒྱུག",
+          "witness_reading": null,
+          "bounded_uncertainty": "The final consonant of རྒྱུག/རྒྱུད is not securely distinguished.",
+          "category": "glyph_uncertainty",
+          "before_context": "བསྐྱོད་ཅིང",
+          "after_context": "པའི་རྣམ་པ་དང",
+          "estimated_native_bounds": {
+            "page": 3,
+            "row": 2,
+            "bounds": [
+              2800,
+              350,
+              2980,
+              441
+            ]
+          },
+          "rationale": "The lower and final strokes do not support an unqualified consonant identification.",
+          "confidence": "low",
+          "disposition": "retain bounded uncertainty",
+          "canonical_record_ids": [
+            "TK-CONT-20260928-TK-B01-005"
+          ]
+        },
+        {
+          "id": "TK-B01-006",
+          "anchors": [
+            "U00063"
+          ],
+          "base_reading": "ཅི་མིན",
+          "witness_reading": "ཅི་ཡིན",
+          "category": "lexical_difference",
+          "before_context": "བར་སྣང་ཉིད་ལས་གཞན",
+          "after_context": "D རང་ལས་འོད་བྱུང",
+          "estimated_native_bounds": {
+            "page": 3,
+            "row": 3,
+            "bounds": [
+              568,
+              432,
+              710,
+              514
+            ]
+          },
+          "rationale": "At the physical continuation, the syllable after ཅི reads ཡིན.",
+          "confidence": "high",
+          "disposition": "record witness difference",
+          "canonical_record_ids": [
+            "TK-CONT-20260928-TK-B01-006"
+          ]
+        },
+        {
+          "id": "TK-B01-007",
+          "anchors": [
+            "U00070"
+          ],
+          "base_reading": "བྱེད་པ་བྲལ",
+          "witness_reading": "བྱེད་པ་མེད",
+          "category": "lexical_difference",
+          "before_context": "མངོན་དུ་བྱ་དང",
+          "after_context": "D གཟུགས་མེད",
+          "estimated_native_bounds": {
+            "page": 3,
+            "row": 4,
+            "bounds": [
+              1480,
+              516,
+              1745,
+              609
+            ]
+          },
+          "rationale": "The terminal word has the visible form མེད, not བྲལ.",
+          "confidence": "high",
+          "disposition": "record witness difference",
+          "canonical_record_ids": [
+            "TK-CONT-20260928-TK-B01-007"
+          ]
+        },
+        {
+          "id": "TK-B01-008",
+          "anchors": [
+            "U00071"
+          ],
+          "base_reading": "འགྱུར་བྱེད་ལྟར",
+          "witness_reading": "འགྱུར་ལྟར",
+          "category": "local_omission",
+          "before_context": "གཟུགས་མེད་ལས་ཀྱི",
+          "after_context": "D ཁམས་དང",
+          "estimated_native_bounds": {
+            "page": 3,
+            "row": 4,
+            "bounds": [
+              2010,
+              516,
+              2340,
+              609
+            ]
+          },
+          "rationale": "ལྟར follows འགྱུར without an intervening བྱེད.",
+          "confidence": "high",
+          "disposition": "record witness difference",
+          "canonical_record_ids": [
+            "TK-CONT-20260928-TK-B01-008"
+          ]
+        },
+        {
+          "id": "TK-B01-009",
+          "anchors": [
+            "U00079"
+          ],
+          "base_reading": "སྟེ",
+          "witness_reading": null,
+          "bounded_uncertainty": "Row-6 opening resembles དེ; possible stacked construction for སྟེ remains unresolved.",
+          "category": "glyph_uncertainty",
+          "before_context": "ང་ནི་ལྷ་བུ་དགའ་བྱེད",
+          "after_context": "D དབང་ཕྱུག",
+          "estimated_native_bounds": {
+            "page": 3,
+            "row": 6,
+            "bounds": [
+              569,
+              677,
+              640,
+              767
+            ]
+          },
+          "rationale": "The terminal syllable is on the next physical row and cannot be supplied from the reference.",
+          "confidence": "low",
+          "disposition": "retain bounded uncertainty",
+          "canonical_record_ids": [
+            "TK-CONT-20260928-TK-B01-009"
+          ]
+        },
+        {
+          "id": "TK-B01-010",
+          "anchors": [
+            "U00085"
+          ],
+          "base_reading": "སྣང་ཉིད་ལས་གཟུགས",
+          "witness_reading": "སྣང་ཉིད་ལ་གཟུགས",
+          "category": "suffix_difference",
+          "before_context": "བར at row 6 end",
+          "after_context": "བཀོད",
+          "estimated_native_bounds": {
+            "page": 3,
+            "row": 7,
+            "bounds": [
+              568,
+              757,
+              925,
+              851
+            ]
+          },
+          "rationale": "The particle between ཉིད and གཟུགས reads ལ without a visible final ས.",
+          "confidence": "high",
+          "disposition": "record witness difference",
+          "canonical_record_ids": [
+            "TK-CONT-20260928-TK-B01-010"
+          ]
+        },
+        {
+          "id": "TK-B01-011",
+          "anchors": [
+            "U00085"
+          ],
+          "base_reading": "བཀོད་པར",
+          "witness_reading": null,
+          "bounded_uncertainty": "The ending appears བཀོད་པ; a final ར is not securely excluded.",
+          "category": "suffix_uncertainty",
+          "before_context": "ལ་གཟུགས",
+          "after_context": "D, fine vertical traces, then སུས་ཀྱང",
+          "estimated_native_bounds": {
+            "page": 3,
+            "row": 7,
+            "bounds": [
+              913,
+              759,
+              1085,
+              853
+            ]
+          },
+          "rationale": "The terminal letter and adjacent boundary strokes require a more exact distinction.",
+          "confidence": "medium for candidate པ; unresolved",
+          "disposition": "do not certify a second U00085 difference yet",
+          "canonical_record_ids": [
+            "TK-CONT-20260928-TK-B01-011"
+          ]
+        },
+        {
+          "id": "TK-B01-012",
+          "anchors": [
+            "U00088"
+          ],
+          "base_reading": "བསྟན་པ་དམ་པ་རྫོགས་པའི་ཕྱིར",
+          "witness_reading": "བསྟན་པ་ཐམས་ཅད་རྫོགས་པའི་ཕྱིར",
+          "category": "lexical_difference",
+          "before_context": "བཅུ་བདུན་ནི D",
+          "after_context": "D སྐུ་གསུང",
+          "estimated_native_bounds": {
+            "page": 3,
+            "row": 7,
+            "bounds": [
+              2340,
+              750,
+              3010,
+              859
+            ]
+          },
+          "rationale": "The two visible syllables after བསྟན་པ read ཐམས་ཅད.",
+          "confidence": "high",
+          "disposition": "record witness difference",
+          "canonical_record_ids": [
+            "TK-CONT-20260928-TK-B01-012"
+          ]
+        },
+        {
+          "id": "TK-B01-013",
+          "anchors": [
+            "U00089"
+          ],
+          "base_reading": "ཐུགས་ཀྱི་བསྟན",
+          "witness_reading": null,
+          "bounded_uncertainty": "The particle appears ཀྱིས, but the possible final ས is not securely separated from adjoining strokes.",
+          "category": "suffix_uncertainty",
+          "before_context": "སྐུ་གསུང་ཐུགས",
+          "after_context": "བསྟན་པ་དངོས",
+          "estimated_native_bounds": {
+            "page": 3,
+            "row": 7,
+            "bounds": [
+              3290,
+              748,
+              3490,
+              858
+            ]
+          },
+          "rationale": "The instrumental-versus-genitive distinction must not be inferred from syntax.",
+          "confidence": "medium for candidate ཀྱིས; unresolved",
+          "disposition": "retain bounded uncertainty",
+          "canonical_record_ids": [
+            "TK-CONT-20260928-TK-B01-013"
+          ]
+        },
+        {
+          "id": "TK-B01-014",
+          "anchors": [
+            "U00085",
+            "U00086"
+          ],
+          "base_reading": "། །",
+          "witness_reading": null,
+          "category": "sign_uncertainty",
+          "before_context": "བཀོད",
+          "after_context": "སུས་ཀྱང",
+          "estimated_native_bounds": {
+            "page": 3,
+            "row": 7,
+            "bounds": [
+              1045,
+              773,
+              1133,
+              824
+            ]
+          },
+          "rationale": "A D sign and very fine vertical traces occur in the inter-unit space. The fine traces are not securely punctuation and are not normalized to shads.",
+          "confidence": "high for traces; low for function",
+          "disposition": "preserve graphic distinction; leave sign identity unresolved",
+          "canonical_record_ids": [
+            "TK-CONT-20260928-TK-B01-014"
+          ]
+        },
+        {
+          "id": "TK-B01-015",
+          "anchors": [
+            "U00089",
+            "U00090"
+          ],
+          "base_reading": "དངོས། ། རྡོ་རྗེ",
+          "witness_reading": null,
+          "category": "page_boundary_sign_assignment",
+          "before_context": "བསྟན་པ་དངོས",
+          "after_context": "རྡོ་རྗེ་བཅས",
+          "estimated_native_bounds": [
+            {
+              "page": 3,
+              "row": 7,
+              "bounds": [
+                3550,
+                750,
+                3780,
+                869
+              ]
+            },
+            {
+              "page": 4,
+              "row": 1,
+              "bounds": [
+                580,
+                263,
+                935,
+                352
+              ]
+            }
+          ],
+          "rationale": "No terminal D is securely identified at the PDF3 right edge. PDF4 has an opening ornament and a separate compound sign immediately before its first main wording. Its attachment across the page boundary remains unresolved.",
+          "confidence": "medium",
+          "disposition": "record physical placement without assigning delimiter semantics",
+          "canonical_record_ids": [
+            "TK-CONT-20260928-TK-B01-015"
+          ]
+        },
+        {
+          "id": "TK-B01-016",
+          "anchors": [
+            "U00092"
+          ],
+          "base_reading": "རང་སྣང་བར",
+          "witness_reading": null,
+          "bounded_uncertainty": "The terminal syllable appears པར rather than བར; root-letter identity remains unresolved.",
+          "category": "glyph_uncertainty",
+          "before_context": "ཡེ་ཐོག་ནས་ནི",
+          "after_context": "D སོ་སོའི་ལས",
+          "estimated_native_bounds": {
+            "page": 4,
+            "row": 1,
+            "bounds": [
+              2170,
+              268,
+              2400,
+              356
+            ]
+          },
+          "rationale": "A possible པ/བ difference is visible but not sufficiently secure for a replacement reading.",
+          "confidence": "medium for candidate པར; unresolved",
+          "disposition": "retain bounded uncertainty",
+          "canonical_record_ids": [
+            "TK-CONT-20260928-TK-B01-016"
+          ]
+        },
+        {
+          "id": "TK-B01-017",
+          "anchors": [
+            "U00097"
+          ],
+          "base_reading": "མཆོག་རྣམས་མཐར",
+          "witness_reading": "མཆོག་དང་མཐར",
+          "category": "lexical_difference",
+          "before_context": "དངོས་གྲུབ",
+          "after_context": "ཐུག་པའི D འབད་ཅིང",
+          "estimated_native_bounds": {
+            "page": 4,
+            "row": 2,
+            "bounds": [
+              1610,
+              349,
+              2070,
+              442
+            ]
+          },
+          "rationale": "The word following མཆོག reads དང.",
+          "confidence": "high",
+          "disposition": "record witness difference",
+          "canonical_record_ids": [
+            "TK-CONT-20260928-TK-B01-017"
+          ]
+        },
+        {
+          "id": "TK-B01-018",
+          "anchors": [
+            "U00098"
+          ],
+          "base_reading": "མ་ཡིན་པས",
+          "witness_reading": "མ་ཡིན་པར",
+          "category": "suffix_difference",
+          "before_context": "འབད་ཅིང་རྩོལ་བ",
+          "after_context": "D གང",
+          "estimated_native_bounds": {
+            "page": 4,
+            "row": 2,
+            "bounds": [
+              2450,
+              345,
+              2670,
+              443
+            ]
+          },
+          "rationale": "The final consonant of the terminal particle reads ར.",
+          "confidence": "high",
+          "disposition": "record witness difference",
+          "canonical_record_ids": [
+            "TK-CONT-20260928-TK-B01-018"
+          ]
+        },
+        {
+          "id": "TK-B01-019",
+          "anchors": [
+            "U00099"
+          ],
+          "base_reading": "གང་སུ་འཕྲད",
+          "witness_reading": null,
+          "bounded_uncertainty": "The syllable following གང may read དུ rather than སུ.",
+          "category": "glyph_uncertainty",
+          "before_context": "མ་ཡིན་པར D གང",
+          "after_context": "འཕྲད་པ",
+          "estimated_native_bounds": {
+            "page": 4,
+            "row": 2,
+            "bounds": [
+              2730,
+              346,
+              2920,
+              442
+            ]
+          },
+          "rationale": "The root-letter shape is insufficiently secure to certify either agreement or difference.",
+          "confidence": "low",
+          "disposition": "retain bounded uncertainty",
+          "canonical_record_ids": [
+            "TK-CONT-20260928-TK-B01-019"
+          ]
+        },
+        {
+          "id": "TK-B01-020",
+          "anchors": [
+            "U00099"
+          ],
+          "base_reading": "གྲོལ་བར",
+          "witness_reading": null,
+          "bounded_uncertainty": "གྲོལ་པར versus གྲོལ་བར remains unresolved.",
+          "category": "glyph_uncertainty",
+          "before_context": "འཕྲད་པ",
+          "after_context": "ངེས D དེས་ན",
+          "estimated_native_bounds": {
+            "page": 4,
+            "row": 2,
+            "bounds": [
+              2950,
+              347,
+              3195,
+              445
+            ]
+          },
+          "rationale": "The པ/བ distinction is not securely read.",
+          "confidence": "low",
+          "disposition": "retain bounded uncertainty",
+          "canonical_record_ids": [
+            "TK-CONT-20260928-TK-B01-020"
+          ]
+        },
+        {
+          "id": "TK-B01-021",
+          "anchors": [
+            "U00104"
+          ],
+          "base_reading": "ངེས་བརྒྱུད་དེ",
+          "witness_reading": "ངེས་པར་བརྒྱུད",
+          "category": "local_sequence_difference",
+          "before_context": "ཆོས་ཀྱི་སྐུ་ལ",
+          "after_context": "D ལས་ཅན",
+          "estimated_native_bounds": {
+            "page": 4,
+            "row": 3,
+            "bounds": [
+              2700,
+              434,
+              3040,
+              540
+            ]
+          },
+          "rationale": "The visible sequence places པར after ངེས and ends with བརྒྱུད directly before the boundary. This is not merely a punctuation difference.",
+          "confidence": "high",
+          "disposition": "record exact local sequence; do not infer a transposition mechanism",
+          "canonical_record_ids": [
+            "TK-CONT-20260928-TK-B01-021"
+          ]
+        },
+        {
+          "id": "TK-B01-022",
+          "anchors": [
+            "U00105"
+          ],
+          "base_reading": "ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ",
+          "witness_reading": null,
+          "bounded_uncertainty": "The wording is present as main text; only སྣང་བར versus སྣང་བ remains unresolved.",
+          "category": "source_layer_presence_and_suffix_uncertainty",
+          "before_context": "ངེས་པར་བརྒྱུད D",
+          "after_context": "D སྤྲུལ་པའི",
+          "estimated_native_bounds": {
+            "page": 4,
+            "row": 3,
+            "bounds": [
+              3090,
+              435,
+              3555,
+              542
+            ]
+          },
+          "rationale": "The unit occupies the ordinary main line between U00104 and U00106; the possible final ར after བ is not certified.",
+          "confidence": "high for main-text presence; low for the suffix",
+          "disposition": "record main-layer presence without claiming complete lexical agreement",
+          "canonical_record_ids": [
+            "TK-CONT-20260928-TK-B01-022"
+          ]
+        },
+        {
+          "id": "TK-B01-023",
+          "anchors": [
+            "U00180"
+          ],
+          "base_reading": {
+            "main": "དེ་ནས་གཅིག་དང་ཐ་མི་དད",
+            "separate_annotation": "སྡུད་པ་པོ་ཞུ་བ་རང་བྱུང་གི་བཀོད་པ"
+          },
+          "witness_reading": "དེ་ནས་གཅིག་དང་ཐ་མི་དད",
+          "category": "main_agreement_and_local_source_layer_difference",
+          "before_context": "མེད་དོ D",
+          "after_context": "D རང་བཞིན",
+          "estimated_native_bounds": {
+            "page": 6,
+            "row": 4,
+            "bounds": [
+              2020,
+              514,
+              2570,
+              618
+            ]
+          },
+          "rationale": "The main wording is visible continuously at this junction. The separately identified Adzom annotation is not visible here; its absence elsewhere has not been investigated.",
+          "confidence": "high for main wording; medium for local annotation absence",
+          "disposition": "record local evidence only; no globally missing-heading claim",
+          "canonical_record_ids": [
+            "TK-CONT-20260928-TK-B01-023"
+          ]
+        },
+        {
+          "id": "TK-B01-024",
+          "anchors": [
+            "U00181"
+          ],
+          "base_reading": "རང་བཞིན་དག་པའི་འཁོར་རྣམས་ལས",
+          "witness_reading": "རང་བཞིན་སྣང་བའི་འཁོར་རྣམས་ཀྱིས",
+          "category": "lexical_and_particle_difference",
+          "before_context": "ཐ་མི་དད D",
+          "after_context": "D ལྷ་དབང་གིས་ནི",
+          "estimated_native_bounds": {
+            "page": 6,
+            "row": 4,
+            "bounds": [
+              2570,
+              513,
+              3250,
+              620
+            ]
+          },
+          "rationale": "The visible internal reading is སྣང་བའི, and the ending after རྣམས reads ཀྱིས.",
+          "confidence": "medium-high",
+          "disposition": "record witness differences; retain Adzom unchanged",
+          "canonical_record_ids": [
+            "TK-CONT-20260928-TK-B01-024"
+          ]
+        },
+        {
+          "id": "TK-B01-025",
+          "anchors": [
+            "U00182",
+            "U00183"
+          ],
+          "base_reading": "གསོལ། ། ཨེ་མ",
+          "witness_reading": "གསོལ [D] ཨེ་མ",
+          "category": "junction_presence_and_no_local_addition",
+          "before_context": "ལྷ་དབང་གིས་ནི་འདི་སྐད",
+          "after_context": "ཀྱེ་བཅོམ་ལྡན་འདས",
+          "estimated_native_bounds": {
+            "page": 6,
+            "row": 5,
+            "bounds": [
+              573,
+              605,
+              1100,
+              704
+            ]
+          },
+          "rationale": "Row 5 begins with U00182's གསོལ followed by D and ཨེ་མ. No ནས syllable occurs in this inspected interval.",
+          "confidence": "high",
+          "disposition": "preserve withdrawal of the former ནས-addition claim",
+          "canonical_record_ids": [
+            "TK-REC-20260927-002"
+          ]
+        },
+        {
+          "id": "TK-B01-026",
+          "anchors": [
+            "U00183",
+            "U00184"
+          ],
+          "base_reading": "ཨེ་མ་ཀྱེ་ཀྱེ་བཅོམ་ལྡན་འདས",
+          "witness_reading": "ཨེ་མ་ཀྱེ་བཅོམ་ལྡན་འདས",
+          "category": "local_omission_with_unit_presence",
+          "before_context": "གསོལ D",
+          "after_context": "D འདི་ལྟར་སྣང་བ་དམ་པ་ཉིད",
+          "estimated_native_bounds": {
+            "page": 6,
+            "row": 5,
+            "bounds": [
+              785,
+              603,
+              1945,
+              707
+            ]
+          },
+          "rationale": "One ཀྱེ is visible between ཨེ་མ and བཅོམ. U00183 and the following U00184 are both physically present; the observation is a local repetition difference, not omission of either unit.",
+          "confidence": "high",
+          "disposition": "record single-ཀྱེ reading and preserve both anchors as present",
+          "canonical_record_ids": [
+            "TK-CONT-20260928-TK-B01-026"
+          ]
+        }
+      ],
+      "canonical_record_ids": [
+        "TK-CONT-20260928-TK-B01-001",
+        "TK-CONT-20260928-TK-B01-002",
+        "TK-CONT-20260928-TK-B01-003",
+        "TK-CONT-20260928-TK-B01-004",
+        "TK-CONT-20260928-TK-B01-005",
+        "TK-CONT-20260928-TK-B01-006",
+        "TK-CONT-20260928-TK-B01-007",
+        "TK-CONT-20260928-TK-B01-008",
+        "TK-CONT-20260928-TK-B01-009",
+        "TK-CONT-20260928-TK-B01-010",
+        "TK-CONT-20260928-TK-B01-011",
+        "TK-CONT-20260928-TK-B01-012",
+        "TK-CONT-20260928-TK-B01-013",
+        "TK-CONT-20260928-TK-B01-014",
+        "TK-CONT-20260928-TK-B01-015",
+        "TK-CONT-20260928-TK-B01-016",
+        "TK-CONT-20260928-TK-B01-017",
+        "TK-CONT-20260928-TK-B01-018",
+        "TK-CONT-20260928-TK-B01-019",
+        "TK-CONT-20260928-TK-B01-020",
+        "TK-CONT-20260928-TK-B01-021",
+        "TK-CONT-20260928-TK-B01-022",
+        "TK-CONT-20260928-TK-B01-023",
+        "TK-CONT-20260928-TK-B01-024",
+        "TK-CONT-20260928-TK-B01-026",
+        "TK-REC-20260927-002"
+      ],
       "evidence_paths_and_hashes": [
         {
           "pdf_page": 3,
@@ -414,7 +1240,14 @@
           "pixel_identity_verified": true
         }
       ],
-      "next_physical_span": "Continuous bounded comparison of Tingkye PDF3-7; preserve the earlier junction findings",
+      "next_physical_span": {
+        "page": 4,
+        "row": 4,
+        "anchor": "U00106 continuation",
+        "preceding_compared_fragment": "སྤྲུལ་པའི at row 3 end",
+        "visible_restart_fragment": "ས་བོན",
+        "instruction": "Resume continuous comparison here; do not advance the continuous coverage frontier to the isolated PDF6 junction."
+      },
       "source_identity_only": "Source metadata validates attachment identity; actual reading limits are in the raw reader report.",
       "raw_reader_report": {
         "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B01-P0003-0007-reader-reading.txt",
@@ -1941,10 +2774,12 @@
           "visible_restart_fragment": "ས་བོན",
           "instruction": "Resume continuous comparison here; do not advance the continuous coverage frontier to the isolated PDF6 junction."
         }
-      }
+      },
+      "whole_pages_newly_certified": [],
+      "prior_verified_raw_report_commit": "36d3f88b0e5b477a43829cf0dddc1ac8bba3c2df"
     }
   ],
-  "remaining_declared_scope": "Complete continuous PDF3–34 and40–69 through row4; opening1–2 and35–39 remain partial. Preserve fresh junction checks at6/27/32.",
+  "remaining_declared_scope": "PDF3 local uncertainties/signs/margins; PDF4 rows4-7 and listed questions; PDF5 all; PDF6 outside U180-184 junction; PDF7 all; remainder of declared witness coverage unchanged.",
   "protocol": "coverage_review",
   "prior_material_consulted": [
     {

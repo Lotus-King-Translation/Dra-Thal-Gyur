@@ -2,13 +2,13 @@
 
 Updated 2026-09-28. **Chapter 1 is unfinished; Chapters 2–6 and the final colophon have not started.** Start at [HANDOFF.md](HANDOFF.md) for operational instructions and [WORK-QUEUE.json](WORK-QUEUE.json) for the next bounded task. This ledger records supported scholarly coverage and explicitly retained uncertainty; a saved inspection is not a whole-page collation.
 
-Preserved pre-continuation edition baseline: `afb5c5133357942267dc55fc60a1d22704d5ef08`. Current [Chapter 1](chapter-01.md) SHA-256: `4d8e46f6da1f83de5b8e8000ceeb822a30aa9e9fa3312c928b7ef3b96cee69e9`. See [C1-SIGNS-01](reviews/chapter-01/continuation/C1-SIGNS-01.md) and the [C1-SIGNS-02 review](reviews/chapter-01/continuation/C1-SIGNS-02.md); these local punctuation changes do not complete the edition.
+Preserved pre-continuation edition baseline: `afb5c5133357942267dc55fc60a1d22704d5ef08`. Current [Chapter 1](chapter-01.md) SHA-256: `8feae3b6ead90c03029fe88c980cf80eac255d4c07b1f1a36f5bee1dae5676e9`. See [C1-SIGNS-01](reviews/chapter-01/continuation/C1-SIGNS-01.md) and the [C1-SIGNS-02 review](reviews/chapter-01/continuation/C1-SIGNS-02.md); these local punctuation changes do not complete the edition.
 
 ## What is already saved and integrated
 
 - **2,635 base anchors**, **359 exact supplied-transcript differences in 183 loci**, and **273 Wikisource lexical comparison blocks**.
 - **85 scan correction/source-layer/uncertainty records**, plus **13 restored main verses and one reply heading**.
-- **123 comparison records**, including candidates and uncertainty: Dzongsar 49, Tingkye 30, Tsamdrak 22, Tharpaling 16, Gadkar 6. These are observations, not 123 confirmed variants or a coverage percentage.
+- **150 comparison records**, including candidates and uncertainty: Dzongsar 49, Tingkye 55, Tsamdrak 24, Tharpaling 16, Gadkar 6. These are observations, not 150 confirmed variants or a coverage percentage.
 - Adzom's continuous **main lexical** pass, its targeted annotation audit, and Dzongsar's continuous **main lexical** comparison survive. They should not be discarded or repeated wholesale.
 
 Sources: [status](STATUS.json), [interventions](chapter-01.md#scan-interventions), [comparison records](collation/chapter-01/scan-comparison-loci.json), [base coverage](collation/chapter-01/scan-coverage.json).
@@ -64,3 +64,11 @@ The [base-layer continuation](reviews/chapter-01/continuation/C1-BASE-LAYERS.md)
 The B02 continuation adds five further shads in S04–S07: inventories 1/2/2/2/2, without lexical, tsheg, insertion-order or verse-count changes. U01286 remains the last target in C1-BASE-LAYERS; no complete page or witness is certified by these local corrections.
 
 U01286 is now removed from the main-verse sequence and preserved as a separate source annotation, with its exact supplied string quoted unchanged. Independent layout correspondence is strong, but complete printed note letters and terminal signs are unresolved; this is a source-layer correction, not a new lexical transcription or an omitted-verse restoration. See [B03](reviews/chapter-01/continuation/C1-BASE-LAYERS.md#batch-b03--u01286-source-note-layer).
+
+### Bounded continuation readings — Wave001
+
+Tingkye PDF3 rows1–7 and PDF4 rows1–3 now have a partial comparison ledger with explicit glyph/sign limits, plus a separate PDF6 U00180–U00184 check. Twenty-five localized or uncertain observations are integrated; the old no-nas withdrawal is rechecked without duplication. The next continuous span is PDF4 row4, U00106 continuation. PDF5/7 remain unread in that packet. [Report](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+The Tsamdrak opening test resolves U00030’s verb locally as thos, retains U00012 bstan/bstun uncertainty, and records a qualified rtog-versus-rtogs observation at U00148. The old U00143 transposition is reaffirmed. These tests are not three fully collated pages. [Report](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+U01522’s extra middle components and separate right segment are more precisely inventoried but remain unresolved; no Adzom word was changed. Adzom physical PDF1–5 has a partial row/region ledger with13 boundary assessments, not five completed pages. [Uncertainty review](reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES.md) and [physical review](reviews/chapter-01/continuation/C1-BASE-PHYSICAL.md).

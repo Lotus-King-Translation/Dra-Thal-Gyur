@@ -137,7 +137,14 @@
       "evidence/chapter-01/tsamdrak/p007-left.png",
       "evidence/chapter-01/tsamdrak/p007-right.png"
     ],
-    "review": "reviews/chapter-01/tsamdrak-collation.md"
+    "review": "reviews/chapter-01/tsamdrak-collation.md",
+    "continuation_rechecks": [
+      {
+        "report": "reviews/chapter-01/continuation/C1-TSAMDRAK.json",
+        "batch_id": "B01-OPENING-TEST",
+        "result": "Local U147-U143-U148 order reaffirmed; no duplicate transposition record created."
+      }
+    ]
   },
   {
     "id": "TS-CH1-V007",
@@ -2044,13 +2051,58 @@
     "evidence": [
       "evidence/chapter-01/tingkye-recovery-review-20260927/p006.png",
       "evidence/chapter-01/tingkye-recovery-review-20260927/p006-r4-right.png",
-      "evidence/chapter-01/tingkye-recovery-review-20260927/p006-r5-left.png"
+      "evidence/chapter-01/tingkye-recovery-review-20260927/p006-r5-left.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x2350-y0000.png"
     ],
     "review": "reviews/chapter-01/tingkye-recovery-review-20260927.md",
     "supersedes_or_rechecks": [
       "TK-C-006-U00182"
     ],
-    "review_method": "guided_fresh_visual_review_not_blind"
+    "review_method": "guided_fresh_visual_review_not_blind",
+    "continuation_rechecks": [
+      {
+        "report": "reviews/chapter-01/continuation/C1-TINGKYE.json",
+        "finding_id": "TK-B01-025",
+        "observation": {
+          "id": "TK-B01-025",
+          "anchors": [
+            "U00182",
+            "U00183"
+          ],
+          "base_reading": "གསོལ། ། ཨེ་མ",
+          "witness_reading": "གསོལ [D] ཨེ་མ",
+          "category": "junction_presence_and_no_local_addition",
+          "before_context": "ལྷ་དབང་གིས་ནི་འདི་སྐད",
+          "after_context": "ཀྱེ་བཅོམ་ལྡན་འདས",
+          "estimated_native_bounds": {
+            "page": 6,
+            "row": 5,
+            "bounds": [
+              573,
+              605,
+              1100,
+              704
+            ]
+          },
+          "rationale": "Row 5 begins with U00182's གསོལ followed by D and ཨེ་མ. No ནས syllable occurs in this inspected interval.",
+          "confidence": "high",
+          "disposition": "preserve withdrawal of the former ནས-addition claim",
+          "canonical_record_ids": [
+            "TK-REC-20260927-002"
+          ]
+        },
+        "evidence": [
+          "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-native.png",
+          "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x0000-y0000.png",
+          "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x1900-y0000.png",
+          "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x2350-y0000.png"
+        ],
+        "result": "Same no-nas local finding confirmed; no duplicate apparatus locus created."
+      }
+    ]
   },
   {
     "id": "TK-REC-20260927-003",
@@ -2381,5 +2433,1272 @@
     "prior_observation": "reviews/chapter-01/tharpaling-collation.md physical chapter boundary",
     "following_chapter_context_unit": "U02636",
     "coordinator_review": "Retained colophon and next-incipit strips directly inspected; supports the physical boundary only. Following chapter anchor remains context outside the chapter reading."
+  },
+  {
+    "id": "TK-CONT-20260928-TK-B01-001",
+    "witness": "Tingkye",
+    "units": [
+      "U00052"
+    ],
+    "base_snippet_at_review": "སྐུ",
+    "comparison_reading": "[Unresolved reading or sign assignment: The page-opening terminal word resembles ལུས, but its initial construction and possible final ས are not securely resolved.]",
+    "status": "bounded_uncertain_observation",
+    "confidence": "low for reading; high for position; coordinator native-column check; no unlisted scope certified",
+    "locator": "PDF3 / BDRC396 / printed388 / row1 / estimated native bounds [568, 270, 680, 352]",
+    "rationale": "The visible carried word was inspected independently; the expected སྐུ is not accepted as testimony for its glyphs. The page-opening terminal word resembles ལུས, but its initial construction and possible final ས are not securely resolved. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.",
+    "decision": "Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003-0007",
+      "raw_report": "reviews/chapter-01/continuation/C1-TINGKYE-B01-P0003-0007-reader-reading.txt",
+      "raw_report_sha256": "c145c7fab9c26a3da201c6fe463516a4ecd5f8074c81879bbb226eccc007464f",
+      "observation_id": "TK-B01-001",
+      "category": "glyph_uncertainty",
+      "before_context": null,
+      "after_context": "D ཉོན་མོངས་རགས་པ",
+      "estimated_native_loci": [
+        {
+          "page": 3,
+          "row": 1,
+          "bounds": [
+            568,
+            270,
+            680,
+            352
+          ]
+        }
+      ],
+      "independent_reader": true,
+      "blind": false,
+      "coordinator_check": "Full native pages3,4,6 and their three overlapping native columns inspected. The supported local snippets agree with the separate reader; all null/qualified glyph and sign questions remain unresolved."
+    }
+  },
+  {
+    "id": "TK-CONT-20260928-TK-B01-002",
+    "witness": "Tingkye",
+    "units": [
+      "U00054"
+    ],
+    "base_snippet_at_review": "བག་ལ་ཉལ་བ་མ་ཡིན་པས",
+    "comparison_reading": "བག་ལ་ཉལ་བ་མ་ཡིན",
+    "status": "localized_observation",
+    "confidence": "high; coordinator native-column check; no unlisted scope certified",
+    "locator": "PDF3 / BDRC396 / printed388 / row1 / estimated native bounds [1250, 263, 1670, 350]",
+    "rationale": "The compound boundary sign follows ཡིན directly; no པས syllable is visible between them. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.",
+    "decision": "Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003-0007",
+      "raw_report": "reviews/chapter-01/continuation/C1-TINGKYE-B01-P0003-0007-reader-reading.txt",
+      "raw_report_sha256": "c145c7fab9c26a3da201c6fe463516a4ecd5f8074c81879bbb226eccc007464f",
+      "observation_id": "TK-B01-002",
+      "category": "local_omission",
+      "before_context": "རང་དག་སྟེ D",
+      "after_context": "D མངོན་པར",
+      "estimated_native_loci": [
+        {
+          "page": 3,
+          "row": 1,
+          "bounds": [
+            1250,
+            263,
+            1670,
+            350
+          ]
+        }
+      ],
+      "independent_reader": true,
+      "blind": false,
+      "coordinator_check": "Full native pages3,4,6 and their three overlapping native columns inspected. The supported local snippets agree with the separate reader; all null/qualified glyph and sign questions remain unresolved."
+    }
+  },
+  {
+    "id": "TK-CONT-20260928-TK-B01-003",
+    "witness": "Tingkye",
+    "units": [
+      "U00055"
+    ],
+    "base_snippet_at_review": "རྣམ་གཉིས་བྲལ",
+    "comparison_reading": "རྣམས་དང་བྲལ",
+    "status": "localized_observation",
+    "confidence": "high; coordinator native-column check; no unlisted scope certified",
+    "locator": "PDF3 / BDRC396 / printed388 / row1 / estimated native bounds [1880, 263, 2230, 351]",
+    "rationale": "Visible རྣམས is followed by དང; the base's གཉིས is not the observed word. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.",
+    "decision": "Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003-0007",
+      "raw_report": "reviews/chapter-01/continuation/C1-TINGKYE-B01-P0003-0007-reader-reading.txt",
+      "raw_report_sha256": "c145c7fab9c26a3da201c6fe463516a4ecd5f8074c81879bbb226eccc007464f",
+      "observation_id": "TK-B01-003",
+      "category": "lexical_difference",
+      "before_context": "མངོན་པར་རྒྱུ་བ",
+      "after_context": "D དབང་པོ་ལྔ་ནི",
+      "estimated_native_loci": [
+        {
+          "page": 3,
+          "row": 1,
+          "bounds": [
+            1880,
+            263,
+            2230,
+            351
+          ]
+        }
+      ],
+      "independent_reader": true,
+      "blind": false,
+      "coordinator_check": "Full native pages3,4,6 and their three overlapping native columns inspected. The supported local snippets agree with the separate reader; all null/qualified glyph and sign questions remain unresolved."
+    }
+  },
+  {
+    "id": "TK-CONT-20260928-TK-B01-004",
+    "witness": "Tingkye",
+    "units": [
+      "U00062"
+    ],
+    "base_snippet_at_review": "རྣམ་པ་རྣམས",
+    "comparison_reading": "རྣམ་པ་དང",
+    "status": "localized_observation",
+    "confidence": "high; coordinator native-column check; no unlisted scope certified",
+    "locator": "PDF3 / BDRC396 / printed388 / row2 / estimated native bounds [2990, 350, 3250, 439]",
+    "rationale": "The final word before the boundary is visibly དང. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.",
+    "decision": "Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003-0007",
+      "raw_report": "reviews/chapter-01/continuation/C1-TINGKYE-B01-P0003-0007-reader-reading.txt",
+      "raw_report_sha256": "c145c7fab9c26a3da201c6fe463516a4ecd5f8074c81879bbb226eccc007464f",
+      "observation_id": "TK-B01-004",
+      "category": "lexical_difference",
+      "before_context": "པའི",
+      "after_context": "D བར་སྣང་ཉིད",
+      "estimated_native_loci": [
+        {
+          "page": 3,
+          "row": 2,
+          "bounds": [
+            2990,
+            350,
+            3250,
+            439
+          ]
+        }
+      ],
+      "independent_reader": true,
+      "blind": false,
+      "coordinator_check": "Full native pages3,4,6 and their three overlapping native columns inspected. The supported local snippets agree with the separate reader; all null/qualified glyph and sign questions remain unresolved."
+    }
+  },
+  {
+    "id": "TK-CONT-20260928-TK-B01-005",
+    "witness": "Tingkye",
+    "units": [
+      "U00062"
+    ],
+    "base_snippet_at_review": "རྒྱུག",
+    "comparison_reading": "[Unresolved reading or sign assignment: The final consonant of རྒྱུག/རྒྱུད is not securely distinguished.]",
+    "status": "bounded_uncertain_observation",
+    "confidence": "low; coordinator native-column check; no unlisted scope certified",
+    "locator": "PDF3 / BDRC396 / printed388 / row2 / estimated native bounds [2800, 350, 2980, 441]",
+    "rationale": "The lower and final strokes do not support an unqualified consonant identification. The final consonant of རྒྱུག/རྒྱུད is not securely distinguished. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.",
+    "decision": "Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003-0007",
+      "raw_report": "reviews/chapter-01/continuation/C1-TINGKYE-B01-P0003-0007-reader-reading.txt",
+      "raw_report_sha256": "c145c7fab9c26a3da201c6fe463516a4ecd5f8074c81879bbb226eccc007464f",
+      "observation_id": "TK-B01-005",
+      "category": "glyph_uncertainty",
+      "before_context": "བསྐྱོད་ཅིང",
+      "after_context": "པའི་རྣམ་པ་དང",
+      "estimated_native_loci": [
+        {
+          "page": 3,
+          "row": 2,
+          "bounds": [
+            2800,
+            350,
+            2980,
+            441
+          ]
+        }
+      ],
+      "independent_reader": true,
+      "blind": false,
+      "coordinator_check": "Full native pages3,4,6 and their three overlapping native columns inspected. The supported local snippets agree with the separate reader; all null/qualified glyph and sign questions remain unresolved."
+    }
+  },
+  {
+    "id": "TK-CONT-20260928-TK-B01-006",
+    "witness": "Tingkye",
+    "units": [
+      "U00063"
+    ],
+    "base_snippet_at_review": "ཅི་མིན",
+    "comparison_reading": "ཅི་ཡིན",
+    "status": "localized_observation",
+    "confidence": "high; coordinator native-column check; no unlisted scope certified",
+    "locator": "PDF3 / BDRC396 / printed388 / row3 / estimated native bounds [568, 432, 710, 514]",
+    "rationale": "At the physical continuation, the syllable after ཅི reads ཡིན. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.",
+    "decision": "Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003-0007",
+      "raw_report": "reviews/chapter-01/continuation/C1-TINGKYE-B01-P0003-0007-reader-reading.txt",
+      "raw_report_sha256": "c145c7fab9c26a3da201c6fe463516a4ecd5f8074c81879bbb226eccc007464f",
+      "observation_id": "TK-B01-006",
+      "category": "lexical_difference",
+      "before_context": "བར་སྣང་ཉིད་ལས་གཞན",
+      "after_context": "D རང་ལས་འོད་བྱུང",
+      "estimated_native_loci": [
+        {
+          "page": 3,
+          "row": 3,
+          "bounds": [
+            568,
+            432,
+            710,
+            514
+          ]
+        }
+      ],
+      "independent_reader": true,
+      "blind": false,
+      "coordinator_check": "Full native pages3,4,6 and their three overlapping native columns inspected. The supported local snippets agree with the separate reader; all null/qualified glyph and sign questions remain unresolved."
+    }
+  },
+  {
+    "id": "TK-CONT-20260928-TK-B01-007",
+    "witness": "Tingkye",
+    "units": [
+      "U00070"
+    ],
+    "base_snippet_at_review": "བྱེད་པ་བྲལ",
+    "comparison_reading": "བྱེད་པ་མེད",
+    "status": "localized_observation",
+    "confidence": "high; coordinator native-column check; no unlisted scope certified",
+    "locator": "PDF3 / BDRC396 / printed388 / row4 / estimated native bounds [1480, 516, 1745, 609]",
+    "rationale": "The terminal word has the visible form མེད, not བྲལ. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.",
+    "decision": "Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003-0007",
+      "raw_report": "reviews/chapter-01/continuation/C1-TINGKYE-B01-P0003-0007-reader-reading.txt",
+      "raw_report_sha256": "c145c7fab9c26a3da201c6fe463516a4ecd5f8074c81879bbb226eccc007464f",
+      "observation_id": "TK-B01-007",
+      "category": "lexical_difference",
+      "before_context": "མངོན་དུ་བྱ་དང",
+      "after_context": "D གཟུགས་མེད",
+      "estimated_native_loci": [
+        {
+          "page": 3,
+          "row": 4,
+          "bounds": [
+            1480,
+            516,
+            1745,
+            609
+          ]
+        }
+      ],
+      "independent_reader": true,
+      "blind": false,
+      "coordinator_check": "Full native pages3,4,6 and their three overlapping native columns inspected. The supported local snippets agree with the separate reader; all null/qualified glyph and sign questions remain unresolved."
+    }
+  },
+  {
+    "id": "TK-CONT-20260928-TK-B01-008",
+    "witness": "Tingkye",
+    "units": [
+      "U00071"
+    ],
+    "base_snippet_at_review": "འགྱུར་བྱེད་ལྟར",
+    "comparison_reading": "འགྱུར་ལྟར",
+    "status": "localized_observation",
+    "confidence": "high; coordinator native-column check; no unlisted scope certified",
+    "locator": "PDF3 / BDRC396 / printed388 / row4 / estimated native bounds [2010, 516, 2340, 609]",
+    "rationale": "ལྟར follows འགྱུར without an intervening བྱེད. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.",
+    "decision": "Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003-0007",
+      "raw_report": "reviews/chapter-01/continuation/C1-TINGKYE-B01-P0003-0007-reader-reading.txt",
+      "raw_report_sha256": "c145c7fab9c26a3da201c6fe463516a4ecd5f8074c81879bbb226eccc007464f",
+      "observation_id": "TK-B01-008",
+      "category": "local_omission",
+      "before_context": "གཟུགས་མེད་ལས་ཀྱི",
+      "after_context": "D ཁམས་དང",
+      "estimated_native_loci": [
+        {
+          "page": 3,
+          "row": 4,
+          "bounds": [
+            2010,
+            516,
+            2340,
+            609
+          ]
+        }
+      ],
+      "independent_reader": true,
+      "blind": false,
+      "coordinator_check": "Full native pages3,4,6 and their three overlapping native columns inspected. The supported local snippets agree with the separate reader; all null/qualified glyph and sign questions remain unresolved."
+    }
+  },
+  {
+    "id": "TK-CONT-20260928-TK-B01-009",
+    "witness": "Tingkye",
+    "units": [
+      "U00079"
+    ],
+    "base_snippet_at_review": "སྟེ",
+    "comparison_reading": "[Unresolved reading or sign assignment: Row-6 opening resembles དེ; possible stacked construction for སྟེ remains unresolved.]",
+    "status": "bounded_uncertain_observation",
+    "confidence": "low; coordinator native-column check; no unlisted scope certified",
+    "locator": "PDF3 / BDRC396 / printed388 / row6 / estimated native bounds [569, 677, 640, 767]",
+    "rationale": "The terminal syllable is on the next physical row and cannot be supplied from the reference. Row-6 opening resembles དེ; possible stacked construction for སྟེ remains unresolved. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.",
+    "decision": "Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003-0007",
+      "raw_report": "reviews/chapter-01/continuation/C1-TINGKYE-B01-P0003-0007-reader-reading.txt",
+      "raw_report_sha256": "c145c7fab9c26a3da201c6fe463516a4ecd5f8074c81879bbb226eccc007464f",
+      "observation_id": "TK-B01-009",
+      "category": "glyph_uncertainty",
+      "before_context": "ང་ནི་ལྷ་བུ་དགའ་བྱེད",
+      "after_context": "D དབང་ཕྱུག",
+      "estimated_native_loci": [
+        {
+          "page": 3,
+          "row": 6,
+          "bounds": [
+            569,
+            677,
+            640,
+            767
+          ]
+        }
+      ],
+      "independent_reader": true,
+      "blind": false,
+      "coordinator_check": "Full native pages3,4,6 and their three overlapping native columns inspected. The supported local snippets agree with the separate reader; all null/qualified glyph and sign questions remain unresolved."
+    }
+  },
+  {
+    "id": "TK-CONT-20260928-TK-B01-010",
+    "witness": "Tingkye",
+    "units": [
+      "U00085"
+    ],
+    "base_snippet_at_review": "སྣང་ཉིད་ལས་གཟུགས",
+    "comparison_reading": "སྣང་ཉིད་ལ་གཟུགས",
+    "status": "localized_observation",
+    "confidence": "high; coordinator native-column check; no unlisted scope certified",
+    "locator": "PDF3 / BDRC396 / printed388 / row7 / estimated native bounds [568, 757, 925, 851]",
+    "rationale": "The particle between ཉིད and གཟུགས reads ལ without a visible final ས. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.",
+    "decision": "Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003-0007",
+      "raw_report": "reviews/chapter-01/continuation/C1-TINGKYE-B01-P0003-0007-reader-reading.txt",
+      "raw_report_sha256": "c145c7fab9c26a3da201c6fe463516a4ecd5f8074c81879bbb226eccc007464f",
+      "observation_id": "TK-B01-010",
+      "category": "suffix_difference",
+      "before_context": "བར at row 6 end",
+      "after_context": "བཀོད",
+      "estimated_native_loci": [
+        {
+          "page": 3,
+          "row": 7,
+          "bounds": [
+            568,
+            757,
+            925,
+            851
+          ]
+        }
+      ],
+      "independent_reader": true,
+      "blind": false,
+      "coordinator_check": "Full native pages3,4,6 and their three overlapping native columns inspected. The supported local snippets agree with the separate reader; all null/qualified glyph and sign questions remain unresolved."
+    }
+  },
+  {
+    "id": "TK-CONT-20260928-TK-B01-011",
+    "witness": "Tingkye",
+    "units": [
+      "U00085"
+    ],
+    "base_snippet_at_review": "བཀོད་པར",
+    "comparison_reading": "[Unresolved reading or sign assignment: The ending appears བཀོད་པ; a final ར is not securely excluded.]",
+    "status": "bounded_uncertain_observation",
+    "confidence": "medium for candidate པ; unresolved; coordinator native-column check; no unlisted scope certified",
+    "locator": "PDF3 / BDRC396 / printed388 / row7 / estimated native bounds [913, 759, 1085, 853]",
+    "rationale": "The terminal letter and adjacent boundary strokes require a more exact distinction. The ending appears བཀོད་པ; a final ར is not securely excluded. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.",
+    "decision": "Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003-0007",
+      "raw_report": "reviews/chapter-01/continuation/C1-TINGKYE-B01-P0003-0007-reader-reading.txt",
+      "raw_report_sha256": "c145c7fab9c26a3da201c6fe463516a4ecd5f8074c81879bbb226eccc007464f",
+      "observation_id": "TK-B01-011",
+      "category": "suffix_uncertainty",
+      "before_context": "ལ་གཟུགས",
+      "after_context": "D, fine vertical traces, then སུས་ཀྱང",
+      "estimated_native_loci": [
+        {
+          "page": 3,
+          "row": 7,
+          "bounds": [
+            913,
+            759,
+            1085,
+            853
+          ]
+        }
+      ],
+      "independent_reader": true,
+      "blind": false,
+      "coordinator_check": "Full native pages3,4,6 and their three overlapping native columns inspected. The supported local snippets agree with the separate reader; all null/qualified glyph and sign questions remain unresolved."
+    }
+  },
+  {
+    "id": "TK-CONT-20260928-TK-B01-012",
+    "witness": "Tingkye",
+    "units": [
+      "U00088"
+    ],
+    "base_snippet_at_review": "བསྟན་པ་དམ་པ་རྫོགས་པའི་ཕྱིར",
+    "comparison_reading": "བསྟན་པ་ཐམས་ཅད་རྫོགས་པའི་ཕྱིར",
+    "status": "localized_observation",
+    "confidence": "high; coordinator native-column check; no unlisted scope certified",
+    "locator": "PDF3 / BDRC396 / printed388 / row7 / estimated native bounds [2340, 750, 3010, 859]",
+    "rationale": "The two visible syllables after བསྟན་པ read ཐམས་ཅད. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.",
+    "decision": "Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003-0007",
+      "raw_report": "reviews/chapter-01/continuation/C1-TINGKYE-B01-P0003-0007-reader-reading.txt",
+      "raw_report_sha256": "c145c7fab9c26a3da201c6fe463516a4ecd5f8074c81879bbb226eccc007464f",
+      "observation_id": "TK-B01-012",
+      "category": "lexical_difference",
+      "before_context": "བཅུ་བདུན་ནི D",
+      "after_context": "D སྐུ་གསུང",
+      "estimated_native_loci": [
+        {
+          "page": 3,
+          "row": 7,
+          "bounds": [
+            2340,
+            750,
+            3010,
+            859
+          ]
+        }
+      ],
+      "independent_reader": true,
+      "blind": false,
+      "coordinator_check": "Full native pages3,4,6 and their three overlapping native columns inspected. The supported local snippets agree with the separate reader; all null/qualified glyph and sign questions remain unresolved."
+    }
+  },
+  {
+    "id": "TK-CONT-20260928-TK-B01-013",
+    "witness": "Tingkye",
+    "units": [
+      "U00089"
+    ],
+    "base_snippet_at_review": "ཐུགས་ཀྱི་བསྟན",
+    "comparison_reading": "[Unresolved reading or sign assignment: The particle appears ཀྱིས, but the possible final ས is not securely separated from adjoining strokes.]",
+    "status": "bounded_uncertain_observation",
+    "confidence": "medium for candidate ཀྱིས; unresolved; coordinator native-column check; no unlisted scope certified",
+    "locator": "PDF3 / BDRC396 / printed388 / row7 / estimated native bounds [3290, 748, 3490, 858]",
+    "rationale": "The instrumental-versus-genitive distinction must not be inferred from syntax. The particle appears ཀྱིས, but the possible final ས is not securely separated from adjoining strokes. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.",
+    "decision": "Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003-0007",
+      "raw_report": "reviews/chapter-01/continuation/C1-TINGKYE-B01-P0003-0007-reader-reading.txt",
+      "raw_report_sha256": "c145c7fab9c26a3da201c6fe463516a4ecd5f8074c81879bbb226eccc007464f",
+      "observation_id": "TK-B01-013",
+      "category": "suffix_uncertainty",
+      "before_context": "སྐུ་གསུང་ཐུགས",
+      "after_context": "བསྟན་པ་དངོས",
+      "estimated_native_loci": [
+        {
+          "page": 3,
+          "row": 7,
+          "bounds": [
+            3290,
+            748,
+            3490,
+            858
+          ]
+        }
+      ],
+      "independent_reader": true,
+      "blind": false,
+      "coordinator_check": "Full native pages3,4,6 and their three overlapping native columns inspected. The supported local snippets agree with the separate reader; all null/qualified glyph and sign questions remain unresolved."
+    }
+  },
+  {
+    "id": "TK-CONT-20260928-TK-B01-014",
+    "witness": "Tingkye",
+    "units": [
+      "U00085",
+      "U00086"
+    ],
+    "base_snippet_at_review": "། །",
+    "comparison_reading": "[Unresolved reading or sign assignment: A D sign and very fine vertical traces occur in the inter-unit space. The fine traces are not securely punctuation and are not normalized to shads.]",
+    "status": "bounded_uncertain_observation",
+    "confidence": "high for traces; low for function; coordinator native-column check; no unlisted scope certified",
+    "locator": "PDF3 / BDRC396 / printed388 / row7 / estimated native bounds [1045, 773, 1133, 824]",
+    "rationale": "A D sign and very fine vertical traces occur in the inter-unit space. The fine traces are not securely punctuation and are not normalized to shads.  Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.",
+    "decision": "Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003-0007",
+      "raw_report": "reviews/chapter-01/continuation/C1-TINGKYE-B01-P0003-0007-reader-reading.txt",
+      "raw_report_sha256": "c145c7fab9c26a3da201c6fe463516a4ecd5f8074c81879bbb226eccc007464f",
+      "observation_id": "TK-B01-014",
+      "category": "sign_uncertainty",
+      "before_context": "བཀོད",
+      "after_context": "སུས་ཀྱང",
+      "estimated_native_loci": [
+        {
+          "page": 3,
+          "row": 7,
+          "bounds": [
+            1045,
+            773,
+            1133,
+            824
+          ]
+        }
+      ],
+      "independent_reader": true,
+      "blind": false,
+      "coordinator_check": "Full native pages3,4,6 and their three overlapping native columns inspected. The supported local snippets agree with the separate reader; all null/qualified glyph and sign questions remain unresolved."
+    }
+  },
+  {
+    "id": "TK-CONT-20260928-TK-B01-015",
+    "witness": "Tingkye",
+    "units": [
+      "U00089",
+      "U00090"
+    ],
+    "base_snippet_at_review": "དངོས། ། རྡོ་རྗེ",
+    "comparison_reading": "[Unresolved reading or sign assignment: No terminal D is securely identified at the PDF3 right edge. PDF4 has an opening ornament and a separate compound sign immediately before its first main wording. Its attachment across the page boundary remains unresolved.]",
+    "status": "bounded_uncertain_observation",
+    "confidence": "medium; coordinator native-column check; no unlisted scope certified",
+    "locator": "PDF3 / BDRC396 / printed388 / row7 / estimated native bounds [3550, 750, 3780, 869]; PDF4 / BDRC397 / printed389 / row1 / estimated native bounds [580, 263, 935, 352]",
+    "rationale": "No terminal D is securely identified at the PDF3 right edge. PDF4 has an opening ornament and a separate compound sign immediately before its first main wording. Its attachment across the page boundary remains unresolved.  Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.",
+    "decision": "Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p003-x2350-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x2350-y0000.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003-0007",
+      "raw_report": "reviews/chapter-01/continuation/C1-TINGKYE-B01-P0003-0007-reader-reading.txt",
+      "raw_report_sha256": "c145c7fab9c26a3da201c6fe463516a4ecd5f8074c81879bbb226eccc007464f",
+      "observation_id": "TK-B01-015",
+      "category": "page_boundary_sign_assignment",
+      "before_context": "བསྟན་པ་དངོས",
+      "after_context": "རྡོ་རྗེ་བཅས",
+      "estimated_native_loci": [
+        {
+          "page": 3,
+          "row": 7,
+          "bounds": [
+            3550,
+            750,
+            3780,
+            869
+          ]
+        },
+        {
+          "page": 4,
+          "row": 1,
+          "bounds": [
+            580,
+            263,
+            935,
+            352
+          ]
+        }
+      ],
+      "independent_reader": true,
+      "blind": false,
+      "coordinator_check": "Full native pages3,4,6 and their three overlapping native columns inspected. The supported local snippets agree with the separate reader; all null/qualified glyph and sign questions remain unresolved."
+    }
+  },
+  {
+    "id": "TK-CONT-20260928-TK-B01-016",
+    "witness": "Tingkye",
+    "units": [
+      "U00092"
+    ],
+    "base_snippet_at_review": "རང་སྣང་བར",
+    "comparison_reading": "[Unresolved reading or sign assignment: The terminal syllable appears པར rather than བར; root-letter identity remains unresolved.]",
+    "status": "bounded_uncertain_observation",
+    "confidence": "medium for candidate པར; unresolved; coordinator native-column check; no unlisted scope certified",
+    "locator": "PDF4 / BDRC397 / printed389 / row1 / estimated native bounds [2170, 268, 2400, 356]",
+    "rationale": "A possible པ/བ difference is visible but not sufficiently secure for a replacement reading. The terminal syllable appears པར rather than བར; root-letter identity remains unresolved. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.",
+    "decision": "Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x2350-y0000.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003-0007",
+      "raw_report": "reviews/chapter-01/continuation/C1-TINGKYE-B01-P0003-0007-reader-reading.txt",
+      "raw_report_sha256": "c145c7fab9c26a3da201c6fe463516a4ecd5f8074c81879bbb226eccc007464f",
+      "observation_id": "TK-B01-016",
+      "category": "glyph_uncertainty",
+      "before_context": "ཡེ་ཐོག་ནས་ནི",
+      "after_context": "D སོ་སོའི་ལས",
+      "estimated_native_loci": [
+        {
+          "page": 4,
+          "row": 1,
+          "bounds": [
+            2170,
+            268,
+            2400,
+            356
+          ]
+        }
+      ],
+      "independent_reader": true,
+      "blind": false,
+      "coordinator_check": "Full native pages3,4,6 and their three overlapping native columns inspected. The supported local snippets agree with the separate reader; all null/qualified glyph and sign questions remain unresolved."
+    }
+  },
+  {
+    "id": "TK-CONT-20260928-TK-B01-017",
+    "witness": "Tingkye",
+    "units": [
+      "U00097"
+    ],
+    "base_snippet_at_review": "མཆོག་རྣམས་མཐར",
+    "comparison_reading": "མཆོག་དང་མཐར",
+    "status": "localized_observation",
+    "confidence": "high; coordinator native-column check; no unlisted scope certified",
+    "locator": "PDF4 / BDRC397 / printed389 / row2 / estimated native bounds [1610, 349, 2070, 442]",
+    "rationale": "The word following མཆོག reads དང. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.",
+    "decision": "Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x2350-y0000.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003-0007",
+      "raw_report": "reviews/chapter-01/continuation/C1-TINGKYE-B01-P0003-0007-reader-reading.txt",
+      "raw_report_sha256": "c145c7fab9c26a3da201c6fe463516a4ecd5f8074c81879bbb226eccc007464f",
+      "observation_id": "TK-B01-017",
+      "category": "lexical_difference",
+      "before_context": "དངོས་གྲུབ",
+      "after_context": "ཐུག་པའི D འབད་ཅིང",
+      "estimated_native_loci": [
+        {
+          "page": 4,
+          "row": 2,
+          "bounds": [
+            1610,
+            349,
+            2070,
+            442
+          ]
+        }
+      ],
+      "independent_reader": true,
+      "blind": false,
+      "coordinator_check": "Full native pages3,4,6 and their three overlapping native columns inspected. The supported local snippets agree with the separate reader; all null/qualified glyph and sign questions remain unresolved."
+    }
+  },
+  {
+    "id": "TK-CONT-20260928-TK-B01-018",
+    "witness": "Tingkye",
+    "units": [
+      "U00098"
+    ],
+    "base_snippet_at_review": "མ་ཡིན་པས",
+    "comparison_reading": "མ་ཡིན་པར",
+    "status": "localized_observation",
+    "confidence": "high; coordinator native-column check; no unlisted scope certified",
+    "locator": "PDF4 / BDRC397 / printed389 / row2 / estimated native bounds [2450, 345, 2670, 443]",
+    "rationale": "The final consonant of the terminal particle reads ར. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.",
+    "decision": "Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x2350-y0000.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003-0007",
+      "raw_report": "reviews/chapter-01/continuation/C1-TINGKYE-B01-P0003-0007-reader-reading.txt",
+      "raw_report_sha256": "c145c7fab9c26a3da201c6fe463516a4ecd5f8074c81879bbb226eccc007464f",
+      "observation_id": "TK-B01-018",
+      "category": "suffix_difference",
+      "before_context": "འབད་ཅིང་རྩོལ་བ",
+      "after_context": "D གང",
+      "estimated_native_loci": [
+        {
+          "page": 4,
+          "row": 2,
+          "bounds": [
+            2450,
+            345,
+            2670,
+            443
+          ]
+        }
+      ],
+      "independent_reader": true,
+      "blind": false,
+      "coordinator_check": "Full native pages3,4,6 and their three overlapping native columns inspected. The supported local snippets agree with the separate reader; all null/qualified glyph and sign questions remain unresolved."
+    }
+  },
+  {
+    "id": "TK-CONT-20260928-TK-B01-019",
+    "witness": "Tingkye",
+    "units": [
+      "U00099"
+    ],
+    "base_snippet_at_review": "གང་སུ་འཕྲད",
+    "comparison_reading": "[Unresolved reading or sign assignment: The syllable following གང may read དུ rather than སུ.]",
+    "status": "bounded_uncertain_observation",
+    "confidence": "low; coordinator native-column check; no unlisted scope certified",
+    "locator": "PDF4 / BDRC397 / printed389 / row2 / estimated native bounds [2730, 346, 2920, 442]",
+    "rationale": "The root-letter shape is insufficiently secure to certify either agreement or difference. The syllable following གང may read དུ rather than སུ. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.",
+    "decision": "Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x2350-y0000.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003-0007",
+      "raw_report": "reviews/chapter-01/continuation/C1-TINGKYE-B01-P0003-0007-reader-reading.txt",
+      "raw_report_sha256": "c145c7fab9c26a3da201c6fe463516a4ecd5f8074c81879bbb226eccc007464f",
+      "observation_id": "TK-B01-019",
+      "category": "glyph_uncertainty",
+      "before_context": "མ་ཡིན་པར D གང",
+      "after_context": "འཕྲད་པ",
+      "estimated_native_loci": [
+        {
+          "page": 4,
+          "row": 2,
+          "bounds": [
+            2730,
+            346,
+            2920,
+            442
+          ]
+        }
+      ],
+      "independent_reader": true,
+      "blind": false,
+      "coordinator_check": "Full native pages3,4,6 and their three overlapping native columns inspected. The supported local snippets agree with the separate reader; all null/qualified glyph and sign questions remain unresolved."
+    }
+  },
+  {
+    "id": "TK-CONT-20260928-TK-B01-020",
+    "witness": "Tingkye",
+    "units": [
+      "U00099"
+    ],
+    "base_snippet_at_review": "གྲོལ་བར",
+    "comparison_reading": "[Unresolved reading or sign assignment: གྲོལ་པར versus གྲོལ་བར remains unresolved.]",
+    "status": "bounded_uncertain_observation",
+    "confidence": "low; coordinator native-column check; no unlisted scope certified",
+    "locator": "PDF4 / BDRC397 / printed389 / row2 / estimated native bounds [2950, 347, 3195, 445]",
+    "rationale": "The པ/བ distinction is not securely read. གྲོལ་པར versus གྲོལ་བར remains unresolved. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.",
+    "decision": "Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x2350-y0000.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003-0007",
+      "raw_report": "reviews/chapter-01/continuation/C1-TINGKYE-B01-P0003-0007-reader-reading.txt",
+      "raw_report_sha256": "c145c7fab9c26a3da201c6fe463516a4ecd5f8074c81879bbb226eccc007464f",
+      "observation_id": "TK-B01-020",
+      "category": "glyph_uncertainty",
+      "before_context": "འཕྲད་པ",
+      "after_context": "ངེས D དེས་ན",
+      "estimated_native_loci": [
+        {
+          "page": 4,
+          "row": 2,
+          "bounds": [
+            2950,
+            347,
+            3195,
+            445
+          ]
+        }
+      ],
+      "independent_reader": true,
+      "blind": false,
+      "coordinator_check": "Full native pages3,4,6 and their three overlapping native columns inspected. The supported local snippets agree with the separate reader; all null/qualified glyph and sign questions remain unresolved."
+    }
+  },
+  {
+    "id": "TK-CONT-20260928-TK-B01-021",
+    "witness": "Tingkye",
+    "units": [
+      "U00104"
+    ],
+    "base_snippet_at_review": "ངེས་བརྒྱུད་དེ",
+    "comparison_reading": "ངེས་པར་བརྒྱུད",
+    "status": "localized_observation",
+    "confidence": "high; coordinator native-column check; no unlisted scope certified",
+    "locator": "PDF4 / BDRC397 / printed389 / row3 / estimated native bounds [2700, 434, 3040, 540]",
+    "rationale": "The visible sequence places པར after ངེས and ends with བརྒྱུད directly before the boundary. This is not merely a punctuation difference. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.",
+    "decision": "Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x2350-y0000.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003-0007",
+      "raw_report": "reviews/chapter-01/continuation/C1-TINGKYE-B01-P0003-0007-reader-reading.txt",
+      "raw_report_sha256": "c145c7fab9c26a3da201c6fe463516a4ecd5f8074c81879bbb226eccc007464f",
+      "observation_id": "TK-B01-021",
+      "category": "local_sequence_difference",
+      "before_context": "ཆོས་ཀྱི་སྐུ་ལ",
+      "after_context": "D ལས་ཅན",
+      "estimated_native_loci": [
+        {
+          "page": 4,
+          "row": 3,
+          "bounds": [
+            2700,
+            434,
+            3040,
+            540
+          ]
+        }
+      ],
+      "independent_reader": true,
+      "blind": false,
+      "coordinator_check": "Full native pages3,4,6 and their three overlapping native columns inspected. The supported local snippets agree with the separate reader; all null/qualified glyph and sign questions remain unresolved."
+    }
+  },
+  {
+    "id": "TK-CONT-20260928-TK-B01-022",
+    "witness": "Tingkye",
+    "units": [
+      "U00105"
+    ],
+    "base_snippet_at_review": "ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ",
+    "comparison_reading": "[Unresolved reading or sign assignment: The wording is present as main text; only སྣང་བར versus སྣང་བ remains unresolved.]",
+    "status": "bounded_uncertain_observation",
+    "confidence": "high for main-text presence; low for the suffix; coordinator native-column check; no unlisted scope certified",
+    "locator": "PDF4 / BDRC397 / printed389 / row3 / estimated native bounds [3090, 435, 3555, 542]",
+    "rationale": "The unit occupies the ordinary main line between U00104 and U00106; the possible final ར after བ is not certified. The wording is present as main text; only སྣང་བར versus སྣང་བ remains unresolved. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.",
+    "decision": "Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p004-x2350-y0000.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003-0007",
+      "raw_report": "reviews/chapter-01/continuation/C1-TINGKYE-B01-P0003-0007-reader-reading.txt",
+      "raw_report_sha256": "c145c7fab9c26a3da201c6fe463516a4ecd5f8074c81879bbb226eccc007464f",
+      "observation_id": "TK-B01-022",
+      "category": "source_layer_presence_and_suffix_uncertainty",
+      "before_context": "ངེས་པར་བརྒྱུད D",
+      "after_context": "D སྤྲུལ་པའི",
+      "estimated_native_loci": [
+        {
+          "page": 4,
+          "row": 3,
+          "bounds": [
+            3090,
+            435,
+            3555,
+            542
+          ]
+        }
+      ],
+      "independent_reader": true,
+      "blind": false,
+      "coordinator_check": "Full native pages3,4,6 and their three overlapping native columns inspected. The supported local snippets agree with the separate reader; all null/qualified glyph and sign questions remain unresolved."
+    }
+  },
+  {
+    "id": "TK-CONT-20260928-TK-B01-023",
+    "witness": "Tingkye",
+    "units": [
+      "U00180"
+    ],
+    "base_snippet_at_review": "{\"main\": \"དེ་ནས་གཅིག་དང་ཐ་མི་དད\", \"separate_annotation\": \"སྡུད་པ་པོ་ཞུ་བ་རང་བྱུང་གི་བཀོད་པ\"}",
+    "comparison_reading": "དེ་ནས་གཅིག་དང་ཐ་མི་དད",
+    "status": "localized_observation",
+    "confidence": "high for main wording; medium for local annotation absence; coordinator native-column check; no unlisted scope certified",
+    "locator": "PDF6 / BDRC399 / printed391 / row4 / estimated native bounds [2020, 514, 2570, 618]",
+    "rationale": "The main wording is visible continuously at this junction. The separately identified Adzom annotation is not visible here; its absence elsewhere has not been investigated. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.",
+    "decision": "Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x2350-y0000.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003-0007",
+      "raw_report": "reviews/chapter-01/continuation/C1-TINGKYE-B01-P0003-0007-reader-reading.txt",
+      "raw_report_sha256": "c145c7fab9c26a3da201c6fe463516a4ecd5f8074c81879bbb226eccc007464f",
+      "observation_id": "TK-B01-023",
+      "category": "main_agreement_and_local_source_layer_difference",
+      "before_context": "མེད་དོ D",
+      "after_context": "D རང་བཞིན",
+      "estimated_native_loci": [
+        {
+          "page": 6,
+          "row": 4,
+          "bounds": [
+            2020,
+            514,
+            2570,
+            618
+          ]
+        }
+      ],
+      "independent_reader": true,
+      "blind": false,
+      "coordinator_check": "Full native pages3,4,6 and their three overlapping native columns inspected. The supported local snippets agree with the separate reader; all null/qualified glyph and sign questions remain unresolved."
+    }
+  },
+  {
+    "id": "TK-CONT-20260928-TK-B01-024",
+    "witness": "Tingkye",
+    "units": [
+      "U00181"
+    ],
+    "base_snippet_at_review": "རང་བཞིན་དག་པའི་འཁོར་རྣམས་ལས",
+    "comparison_reading": "རང་བཞིན་སྣང་བའི་འཁོར་རྣམས་ཀྱིས",
+    "status": "localized_observation",
+    "confidence": "medium-high; coordinator native-column check; no unlisted scope certified",
+    "locator": "PDF6 / BDRC399 / printed391 / row4 / estimated native bounds [2570, 513, 3250, 620]",
+    "rationale": "The visible internal reading is སྣང་བའི, and the ending after རྣམས reads ཀྱིས. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.",
+    "decision": "Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x2350-y0000.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003-0007",
+      "raw_report": "reviews/chapter-01/continuation/C1-TINGKYE-B01-P0003-0007-reader-reading.txt",
+      "raw_report_sha256": "c145c7fab9c26a3da201c6fe463516a4ecd5f8074c81879bbb226eccc007464f",
+      "observation_id": "TK-B01-024",
+      "category": "lexical_and_particle_difference",
+      "before_context": "ཐ་མི་དད D",
+      "after_context": "D ལྷ་དབང་གིས་ནི",
+      "estimated_native_loci": [
+        {
+          "page": 6,
+          "row": 4,
+          "bounds": [
+            2570,
+            513,
+            3250,
+            620
+          ]
+        }
+      ],
+      "independent_reader": true,
+      "blind": false,
+      "coordinator_check": "Full native pages3,4,6 and their three overlapping native columns inspected. The supported local snippets agree with the separate reader; all null/qualified glyph and sign questions remain unresolved."
+    }
+  },
+  {
+    "id": "TK-CONT-20260928-TK-B01-026",
+    "witness": "Tingkye",
+    "units": [
+      "U00183",
+      "U00184"
+    ],
+    "base_snippet_at_review": "ཨེ་མ་ཀྱེ་ཀྱེ་བཅོམ་ལྡན་འདས",
+    "comparison_reading": "ཨེ་མ་ཀྱེ་བཅོམ་ལྡན་འདས",
+    "status": "localized_observation",
+    "confidence": "high; coordinator native-column check; no unlisted scope certified",
+    "locator": "PDF6 / BDRC399 / printed391 / row5 / estimated native bounds [785, 603, 1945, 707]",
+    "rationale": "One ཀྱེ is visible between ཨེ་མ and བཅོམ. U00183 and the following U00184 are both physically present; the observation is a local repetition difference, not omission of either unit. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.",
+    "decision": "Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x2350-y0000.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003-0007",
+      "raw_report": "reviews/chapter-01/continuation/C1-TINGKYE-B01-P0003-0007-reader-reading.txt",
+      "raw_report_sha256": "c145c7fab9c26a3da201c6fe463516a4ecd5f8074c81879bbb226eccc007464f",
+      "observation_id": "TK-B01-026",
+      "category": "local_omission_with_unit_presence",
+      "before_context": "གསོལ D",
+      "after_context": "D འདི་ལྟར་སྣང་བ་དམ་པ་ཉིད",
+      "estimated_native_loci": [
+        {
+          "page": 6,
+          "row": 5,
+          "bounds": [
+            785,
+            603,
+            1945,
+            707
+          ]
+        }
+      ],
+      "independent_reader": true,
+      "blind": false,
+      "coordinator_check": "Full native pages3,4,6 and their three overlapping native columns inspected. The supported local snippets agree with the separate reader; all null/qualified glyph and sign questions remain unresolved."
+    }
+  },
+  {
+    "id": "TS-CONT-20260928-U00012",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00012"
+    ],
+    "base_snippet_at_review": "ཐོས",
+    "comparison_reading": "[Exact vowel unresolved: candidate བསྟན / བསྟུན; this is not an adopted full witness reading.]",
+    "status": "bounded_reading_uncertainty",
+    "confidence": "Unresolved a/u vowel; high local correspondence",
+    "locator": "PDF2, BDRC5, row2 left. Estimated native target bounds {'target_xyxy': [1100, 425, 1320, 560], 'uncertainty': 'Approximate coordinates; uncertainty concerns the lower curve within the central stack, not the entire phrase.'}.",
+    "rationale": "A separate initial ba precedes a vertically extended cluster read provisionally as superscribed sa over ta; final na follows. No independent above-line naro is visible. The cluster has a conspicuous lower curved return, but I cannot securely separate a zhabs-kyu from the lower ta structure. Thus the observable difficulty is specifically bstan versus bstun. A small separator before pa is distinct from that lower curve. The observed multi-component form does not support certifying the reference ཐོས. Partial reading supports the earlier bstan/bstun family, without resolving its vowel. Coordinator full-page and native-column checks support the reported local distinction, not full-page comparison.",
+    "decision": "Retain governing Adzom reading unchanged; preserve this witness-specific qualified observation without upgrading incomplete opening coverage.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p002-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p002-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p002-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p002-x2344-y0000.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-TEST",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B01-OPENING-TEST-reader-reading.txt",
+        "sha256": "9ab534903f6b87e8fdd257fccc9ef127c354871ad8a9efcea4f2456be096b81e"
+      },
+      "observation": {
+        "anchor": "U00012",
+        "actual_correspondence": "Opening formula begins PDF2 row1 right and continues row2 left; identification rests on visible wording.",
+        "physical_page_row": "PDF2, BDRC5, row2 left.",
+        "observed_context": {
+          "before": "གིས་",
+          "target_partial": "བསྟ[ུ?]ན་",
+          "after": "པའི་དུས་གཅིག་ན",
+          "notation": "Brackets mark uncertainty, not witness characters."
+        },
+        "glyph_components": "A separate initial ba precedes a vertically extended cluster read provisionally as superscribed sa over ta; final na follows. No independent above-line naro is visible. The cluster has a conspicuous lower curved return, but I cannot securely separate a zhabs-kyu from the lower ta structure. Thus the observable difficulty is specifically bstan versus bstun. A small separator before pa is distinct from that lower curve.",
+        "exact_witness_reading": null,
+        "comparison_to_base_reference": "The observed multi-component form does not support certifying the reference ཐོས. Partial reading supports the earlier bstan/bstun family, without resolving its vowel.",
+        "approximate_native_target_and_uncertainty_bounds": {
+          "target_xyxy": [
+            1100,
+            425,
+            1320,
+            560
+          ],
+          "uncertainty": "Approximate coordinates; uncertainty concerns the lower curve within the central stack, not the entire phrase."
+        },
+        "confidence": {
+          "correspondence": "high",
+          "initial_ba_and_final_na": "moderate-high",
+          "sa_ta_stack": "moderate",
+          "independent_u_vowel": "unresolved"
+        },
+        "disposition": "Retain component-level uncertainty; do not enter either bstan or bstun as settled.",
+        "canonical_record_ids": [
+          "TS-CONT-20260928-U00012"
+        ]
+      }
+    }
+  },
+  {
+    "id": "TS-CONT-20260928-U00148",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00148"
+    ],
+    "base_snippet_at_review": "རྟོགས་སངས",
+    "comparison_reading": "རྟོག་སངས [provisional local reading; final-sa absence has moderate confidence]",
+    "status": "provisional_local_variant",
+    "confidence": "Moderate for final-sa absence; high local anchor correspondence",
+    "locator": "PDF7, BDRC10, row7 right. Estimated native target bounds {'target_xyxy': [2990, 790, 3160, 915], 'boundary_inspection_envelope_xyxy': [2960, 770, 3290, 925], 'uncertainty': 'Approximate bounds include the transition into sangs; the discriminating issue is whether an additional sa body intervenes.'}.",
+    "rationale": "The opening cluster reads ra over ta with naro, followed by ga. After ga I distinguish a small head-level separator and then the full sa beginning sangs. I do not see a separate full sa between ga and that separator. The downward limb of the opening stack belongs to the stacked letter, not a final sa; the following sangs supplies its own initial sa, nga, and final sa. Provisional disagreement: the witness appears to lack the final sa of reference རྟོགས before སངས. Local order supports U00147 → U00143 → U00148. Coordinator full-page and native-column checks support the reported local distinction, not full-page comparison.",
+    "decision": "Retain governing Adzom reading unchanged; preserve this witness-specific qualified observation without upgrading incomplete opening coverage.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p007-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p007-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p007-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B01-OPENING-TEST/p007-x2352-y0000.png"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-TEST",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B01-OPENING-TEST-reader-reading.txt",
+        "sha256": "9ab534903f6b87e8fdd257fccc9ef127c354871ad8a9efcea4f2456be096b81e"
+      },
+      "observation": {
+        "anchor": "U00148",
+        "actual_correspondence": "Visible row7 sequence is the ending of U00147, then wording identifying U00143, then U00148. The local transposition is supported by words, not numerical order.",
+        "physical_page_row": "PDF7, BDRC10, row7 right.",
+        "observed_context": {
+          "preceding_sequence_identifiers": [
+            "དེ་ལ་གསལ་བྱེད་",
+            "སྟོན་པའི་གསུང་"
+          ],
+          "target_and_after": "རྟོག་སངས་ཡན་ལག",
+          "scope_qualification": "These identifying spans establish local correspondence; the complete preceding verses and remainder of U00148 are not certified here."
+        },
+        "glyph_components": "The opening cluster reads ra over ta with naro, followed by ga. After ga I distinguish a small head-level separator and then the full sa beginning sangs. I do not see a separate full sa between ga and that separator. The downward limb of the opening stack belongs to the stacked letter, not a final sa; the following sangs supplies its own initial sa, nga, and final sa.",
+        "exact_witness_reading": "རྟོག་སངས",
+        "comparison_to_base_reference": "Provisional disagreement: the witness appears to lack the final sa of reference རྟོགས before སངས. Local order supports U00147 → U00143 → U00148.",
+        "approximate_native_target_and_uncertainty_bounds": {
+          "target_xyxy": [
+            2990,
+            790,
+            3160,
+            915
+          ],
+          "boundary_inspection_envelope_xyxy": [
+            2960,
+            770,
+            3290,
+            925
+          ],
+          "uncertainty": "Approximate bounds include the transition into sangs; the discriminating issue is whether an additional sa body intervenes."
+        },
+        "confidence": "Moderate for absence of final sa; high for local anchor order.",
+        "disposition": "Record རྟོག་སངས as a provisional visual variant, retaining the boundary crop for independent confirmation.",
+        "canonical_record_ids": [
+          "TS-CONT-20260928-U00148"
+        ]
+      }
+    }
   }
 ]
