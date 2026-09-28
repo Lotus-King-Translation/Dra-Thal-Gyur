@@ -1,6 +1,6 @@
 # C1-SIGNS-05 — bounded native-sign review
 
-Five local terminal-punctuation decisions are integrated; the publication receipt is pending. U01557 initial heading letters remain explicitly uncertain. Chapter 1 is unfinished. Source spellings, original transcript strings, restored verses and existing source-layer separations are not changed.
+Five local terminal-punctuation decisions are integrated; the final correction is remotely verified at `4f098a18165e4bda4c650c7fb8565402621625c7`. U01557 initial heading letters remain explicitly uncertain. Chapter 1 is unfinished. Source spellings, original transcript strings, restored verses and existing source-layer separations are not changed.
 
 [Exact report](C1-SIGNS-05.json) · [Independent raw image reading](C1-SIGNS-05-independent-attempt1-reading.txt) · [Execution receipt](C1-SIGNS-05-independent-attempt1-execution.json) · [Native evidence manifest](../../../evidence/chapter-01/continuation/C1-SIGNS-05/manifest.json).
 
@@ -78,7 +78,7 @@ The [recovered follow-up](C1-SIGNS-05-U01557-followup-reading.txt) corrects the 
 
 Canonical record: `SIGNS-VERIFIED-20260928-U01557`. The terminal evidence is the source-exact [boundary crop](../../../evidence/chapter-01/continuation/C1-SIGNS-05/U01557-terminal-boundary.png), native **[1280,855,1550,1030]**. The [uncertain initial crop](../../../evidence/chapter-01/continuation/C1-SIGNS-05/U01557-initial-heading-unresolved.png), **[905,865,1120,1010]**, preserves the separate lexical obstacle. The generated reading text explicitly flags the print reading as uncertain and links the evidence. No faint letter is newly supplied from another witness or certified merely by the electronic wording.
 
-This completes the local terminal-sign decision only; publication is recorded by the subsequent receipt. The initial-letter question is explicitly carried as `C1-SIGNS-05-U01557-HEADING-INITIAL` in C1-BASE-PHYSICAL, with its source-member hash, exact evidence and next step. Do not count the same reader's follow-up as a second independent vote. No full page or complete heading spelling is newly certified.
+This completes the local terminal-sign decision only; the [publication receipt](C1-SIGNS-05-restart-publication.json) records its verified integration. The initial-letter question is explicitly carried as `C1-SIGNS-05-U01557-HEADING-INITIAL` in C1-BASE-PHYSICAL, with its source-member hash, exact evidence and next step. Do not count the same reader's follow-up as a second independent vote. No full page or complete heading spelling is newly certified.
 
 ## U01634
 

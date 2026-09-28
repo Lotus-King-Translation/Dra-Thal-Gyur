@@ -1,0 +1,18 @@
+{
+  "expected_loci": [
+    "L1-0073"
+  ],
+  "actual_changes": [
+    {
+      "locus": "L1-0001",
+      "before": "The reading text follows the linked scan intervention(s) for the inspected material: [SCAN-CH1-TITLE-UNCERTAINTY](#scan-ch1-title-uncertainty). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.",
+      "after": "Retain A as an explicitly uncertain transcript scaffold at [SCAN-CH1-TITLE-UNCERTAINTY](#scan-ch1-title-uncertainty). These notes document unresolved print readings; they do not adopt a replacement spelling or certify the supplied punctuation. The raw A/B/S quotations remain unchanged."
+    },
+    {
+      "locus": "L1-0073",
+      "before": "The reading text follows the linked scan intervention(s) for the inspected material: [SCAN-CH1-UNCERTAIN-U01239](#scan-ch1-uncertain-u01239). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.",
+      "after": "Retain A as an explicitly uncertain transcript scaffold at [SCAN-CH1-UNCERTAIN-U01239](#scan-ch1-uncertain-u01239). These notes document unresolved print readings; they do not adopt a replacement spelling or certify the supplied punctuation. The raw A/B/S quotations remain unchanged."
+    }
+  ],
+  "failure": "Assertion failed; subsequent REPL print was not evidence of a pass. Renderer must be corrected before publication."
+}

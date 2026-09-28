@@ -14964,7 +14964,7 @@ Exact differences: C1-0001, C1-0002, C1-0003, C1-0004, C1-0005, C1-0006.
 ༄༅། །རིན་པོ་ཆེ་འབྱུང་བར་བྱེད་པ་སྒྲ་ཐལ་འགྱུར་ཆེན་པོའི་རྒྱུད་ཅེས་བྱ་བ།རྒྱ་གར་སྐད་དུ། རཏྣཱ་ཀ་ར་ཤཔྡ་མ་ཧཱ་པྲ་སཾ་ག་ཏནྟྲ་ནཱ་མ།
 ```
 
-**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SCAN-CH1-TITLE-UNCERTAINTY](#scan-ch1-title-uncertainty). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
+**Disposition and reason:** Retain A as an explicitly uncertain transcript scaffold at [SCAN-CH1-TITLE-UNCERTAINTY](#scan-ch1-title-uncertainty). These notes document unresolved print readings; they do not adopt a replacement spelling or certify the supplied punctuation. The raw A/B/S quotations remain unchanged.
 
 <a id="l1-0002"></a>
 
@@ -16980,7 +16980,7 @@ Exact differences: C1-0142, C1-0143, C1-0144.
 {དྲིས་ལན་ཉེར་གཉིས་པ།}ཞག་ནི་བཅུ་ཕྲག་གསུམ་པ་ཡང༌། །ཟླ་བ་དག་ནི་གཅིག་ཡིན་ཏེ། །
 ```
 
-**Disposition and reason:** The reading text follows the linked scan intervention(s) for the inspected material: [SCAN-CH1-UNCERTAIN-U01239](#scan-ch1-uncertain-u01239). Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.
+**Disposition and reason:** Retain A as an explicitly uncertain transcript scaffold at [SCAN-CH1-UNCERTAIN-U01239](#scan-ch1-uncertain-u01239). These notes document unresolved print readings; they do not adopt a replacement spelling or certify the supplied punctuation. The raw A/B/S quotations remain unchanged.
 
 <a id="l1-0074"></a>
 

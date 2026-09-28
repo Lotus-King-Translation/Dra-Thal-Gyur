@@ -229,7 +229,9 @@ def main():
         involved = [n for n in notes if set(n['units']) & set(rec['source_units'])]
         added = [n for n in insertions if n['after_unit'] in rec['source_units']]
         classes = collections.Counter(raw[i]['classification'] for i in rec['exact_conflicts'])
-        if involved or added:
+        if involved and not added and all(n.get('reading_uncertainty') and not n.get('replacement_units') for n in involved):
+            reason = 'Retain A as an explicitly uncertain transcript scaffold at ' + ', '.join(link(n['id']) for n in involved) + '. These notes document unresolved print readings; they do not adopt a replacement spelling or certify the supplied punctuation. The raw A/B/S quotations remain unchanged.'
+        elif involved or added:
             reason = 'The reading text follows the linked scan intervention(s) for the inspected material: ' + ', '.join(link(n['id']) for n in involved + added) + '. Elsewhere within this locus A is retained provisionally. The raw A/B/S quotations remain unchanged to preserve the transcript evidence.'
         elif set(classes) == {'punctuation_or_spacing'}:
             reason = 'Retain A’s punctuation/spacing provisionally under the base-transcription policy. Do not silently normalize the B/S delimiters into A; their exact forms remain quoted. Print punctuation is not yet verified at this locus.'

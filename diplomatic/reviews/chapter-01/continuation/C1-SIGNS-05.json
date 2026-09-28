@@ -2,7 +2,7 @@
   "task_id": "C1-SIGNS-05",
   "baseline_commit": "e406ce80e600574ffdb7b136274fa42325db0209",
   "reader": "independent-reader-C1-SIGNS-05-20260928",
-  "status": "terminal_decisions_integrated_pending_publication_receipt",
+  "status": "done_terminal_sign_batch_initial_lexical_uncertainty_retained",
   "source_paths_and_hashes": {
     "editions/adzom-2000/sgra-thal-gyur.pdf": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343",
     "editions/adzom-2000/original-images.zip": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb"
@@ -332,7 +332,7 @@
     {
       "anchor": "U01557",
       "existing_reading": "དྲིས་ལན་སོ་གསུམ་པ།",
-      "status": "adopted_pending_remote_receipt",
+      "status": "done_terminal_punctuation",
       "disposition": "adopted",
       "physical_locator": {
         "pdf_page": 61,
@@ -511,7 +511,7 @@
         "SIGNS-VERIFIED-20260928-U01557"
       ],
       "rationale": "The recovered same-reader follow-up establishes the exact heading boundary independently of whether its faint initials can all be read. The coordinator reinspected the full native page and context: visible so gsum pa precedes lus kyi gnad ni rtsa yin te; final pa has a joined right limb, followed by two separate vertical shads. Restore the missing second mark at the preceding anchor end so the complete inter-unit inventory is preserved once. This allocation is editorial, not inferred syntax or measured spacing. No lexical change is made. The faint initial electronic letters remain provisional and the reading text is explicitly marked print-uncertain; their exact bounded question is carried to C1-BASE-PHYSICAL. Completion here certifies the terminal punctuation, not the complete heading spelling or the page.",
-      "next_step": "Publish and verify this terminal-only correction with the explicit uncertain-print marker. Continue the separate initial-heading lexical question in C1-BASE-PHYSICAL.",
+      "next_step": "Continue the separately bounded initial-heading question in C1-BASE-PHYSICAL; terminal correction remotely verified at 4f098a18165e4bda4c650c7fb8565402621625c7",
       "recovered_followup": {
         "path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05-U01557-followup-reading.txt",
         "sha256": "135a81ab4dbd2878fe2f28454ec5caca7c95837dd9de10988d8aa1e8abdda1bc",
@@ -827,5 +827,6 @@
       "report_path": "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05.json",
       "canonical_uncertainty_note": "SIGNS-VERIFIED-20260928-U01557"
     }
-  ]
+  ],
+  "verified_integration_commit": "4f098a18165e4bda4c650c7fb8565402621625c7"
 }

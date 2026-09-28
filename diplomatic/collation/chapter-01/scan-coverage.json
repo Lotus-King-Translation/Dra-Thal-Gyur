@@ -398,14 +398,15 @@
       ],
       "source_lexical_strings_changed": false,
       "full_pages_newly_collated": [],
-      "publication_status": "pending_verified_receipt"
+      "publication_status": "verified",
+      "integration_commit": "4f098a18165e4bda4c650c7fb8565402621625c7"
     }
   ],
   "known_unit_sign_queue": {
     "queue": "WORK-QUEUE.json",
     "original_candidate_identities": 30,
-    "completed_candidates": 28,
-    "unfinished_candidates": 2,
+    "completed_candidates": 29,
+    "unfinished_candidates": 1,
     "note": "Scheduling/disposition count, not a chapter completeness percentage or a full-page signs pass."
   }
 }

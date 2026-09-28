@@ -1,0 +1,24 @@
+{
+  "task_id": "C1-SIGNS-05",
+  "verified_integration_commit": "4f098a18165e4bda4c650c7fb8565402621625c7",
+  "verified_origin_main_at_receipt_creation": "4f098a18165e4bda4c650c7fb8565402621625c7",
+  "terminal_candidate_done": "U01557",
+  "exact_reading_delta": "Append a separated second shad; preserve all original lexical letters",
+  "uncertainty_only_note": "SCAN-CH1-UNCERTAIN-U01239",
+  "remaining_blocked_sign_candidate": "U01239",
+  "carried_initial_letter_uncertainty": "C1-SIGNS-05-U01557-HEADING-INITIAL",
+  "original_source_anchors": 2635,
+  "completed_known_sign_candidates": 29,
+  "unfinished_known_sign_candidates": 1,
+  "checks": "C1-SIGNS-05-restart-checks.json",
+  "chapter_complete": false,
+  "next_task_id": "C1-BASE-LAYERS",
+  "next_batch": [
+    "A2000-C01-S02",
+    "A2000-C01-S03"
+  ],
+  "subsequent_refinement": "The receipt update makes the generated apparatus label an uncertainty-only note explicitly as scaffold retention, not an adopted replacement. This does not alter any Tibetan reading.",
+  "receipt_tree_chapter_sha256": "1ecafcbc8cea33f63bfaba95d5a2cca1b2f611ff67c35bb51df23091028d8f67",
+  "renderer_refinement_check": "Passed after inspecting the existing title uncertainty note: only L1-0001 and L1-0073 decision prose changes. Both notes have empty replacement maps and unresolved print readings; neither now implies an adopted replacement. All reading-unit records remain unchanged.",
+  "renderer_initial_check_failure": "The initial expected delta omitted the existing title uncertainty note. The failed check and actual two-locus delta are preserved separately, rather than represented as an initial pass."
+}

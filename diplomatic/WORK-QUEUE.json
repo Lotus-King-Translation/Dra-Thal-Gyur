@@ -4,7 +4,7 @@
   "canonical_branch": "main",
   "current_chapter": 1,
   "chapter_status": "in_progress_not_ready",
-  "next_task_id": "C1-SIGNS-05",
+  "next_task_id": "C1-BASE-LAYERS",
   "path_base": "repository root; JSON pointers identify records without changing their historical contents",
   "scope": "Continuation queue, not a whole-chapter collation claim. Thirty punctuation candidate identities remain tracked, including completed dispositions; unfinished items are hypotheses, not accepted readings. Existing Adzom and Dzongsar main lexical passes remain valid within their recorded scopes.",
   "reference_paths": [
@@ -289,7 +289,7 @@
     {
       "id": "C1-SIGNS-05",
       "kind": "punctuation_batch",
-      "status": "in_progress",
+      "status": "done",
       "owner": "ChatGPT-coordinator-20260928-resume3",
       "depends_on": [
         "C1-SIGNS-04"
@@ -325,7 +325,7 @@
         "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05.md",
         "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05-U01557-followup-reading.txt"
       ],
-      "checkpoint_commit": "f635311376e8aa3072cf56ecbb72bb24138185ea",
+      "checkpoint_commit": "4f098a18165e4bda4c650c7fb8565402621625c7",
       "blocker": null,
       "dependency_policy": "preferred_order",
       "parallel_dispatch_note": "One distinct five-candidate packet per reader; source parent fixed; coordinator alone adopts and publishes after all readers pause. Dependencies remain mandatory only at completion gate.",
@@ -333,7 +333,8 @@
         "reason": "Unresolved native correspondence or glyph segmentation at U01557",
         "next_step": "Use the saved exact context and independent obstacle; resolve or explicitly retain the blocked candidate before closing this batch."
       },
-      "resume_scope": "Only U01557 terminal punctuation; its faint initial heading letters remain a distinct uncertainty."
+      "resume_scope": "Only U01557 terminal punctuation; its faint initial heading letters remain a distinct uncertainty.",
+      "completion_summary": "Five terminal-sign decisions completed. The last U01557 correction is remotely verified at 4f098a18165e4bda4c650c7fb8565402621625c7; its initial letters remain visibly uncertain and explicitly carried to C1-BASE-PHYSICAL."
     },
     {
       "id": "C1-SIGNS-06",
@@ -1577,7 +1578,7 @@
       "id": "C1-SIGN-U01557",
       "anchor": "U01557",
       "batch_id": "C1-SIGNS-05",
-      "status": "in_progress",
+      "status": "done",
       "owner": "ChatGPT-coordinator-20260928-resume3",
       "disposition": "adopted",
       "historical_record": {
