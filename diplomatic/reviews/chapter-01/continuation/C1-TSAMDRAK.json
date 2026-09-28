@@ -2861,6 +2861,71 @@
         },
         "proposals_adopted": false
       }
+    },
+    {
+      "batch_id": "B04-P0016",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-TSAMDRAK-B04-P0016-reader",
+      "baseline_commit": "07f658e3c831f86f50841e4bb9587472eaa194a6",
+      "scope": "Read TSAMDRAK PDF16 all main rows, non-main annotations/numerals, margins and every graphic boundary. Previous and following pages are contextual flanks, not part of the new full-page scope. Establish exact anchor correspondence from visible text; broad base range is not a page map. Preserve local additions, omissions, transpositions, unusual wording and unresolved syllables without importing expected formulas. Do not let a difficult word prevent inspection of all later rows.",
+      "target_page": 16,
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B04-P0016-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
+    },
+    {
+      "batch_id": "B05-P0017",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-TSAMDRAK-B05-P0017-reader",
+      "baseline_commit": "07f658e3c831f86f50841e4bb9587472eaa194a6",
+      "scope": "Read TSAMDRAK PDF17 all main rows, non-main annotations/numerals, margins and every graphic boundary. Previous and following pages are contextual flanks, not part of the new full-page scope. Establish exact anchor correspondence from visible text; broad base range is not a page map. Preserve local additions, omissions, transpositions, unusual wording and unresolved syllables without importing expected formulas. Do not let a difficult word prevent inspection of all later rows.",
+      "target_page": 17,
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B05-P0017-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
+    },
+    {
+      "batch_id": "B06-P0018",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-TSAMDRAK-B06-P0018-reader",
+      "baseline_commit": "07f658e3c831f86f50841e4bb9587472eaa194a6",
+      "scope": "Read TSAMDRAK PDF18 all main rows, non-main annotations/numerals, margins and every graphic boundary. Previous and following pages are contextual flanks, not part of the new full-page scope. Establish exact anchor correspondence from visible text; broad base range is not a page map. Preserve local additions, omissions, transpositions, unusual wording and unresolved syllables without importing expected formulas. Do not let a difficult word prevent inspection of all later rows.",
+      "target_page": 18,
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B06-P0018-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
+    },
+    {
+      "batch_id": "B07-P0019",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-TSAMDRAK-B07-P0019-reader",
+      "baseline_commit": "07f658e3c831f86f50841e4bb9587472eaa194a6",
+      "scope": "Read TSAMDRAK PDF19 all main rows, non-main annotations/numerals, margins and every graphic boundary. Previous and following pages are contextual flanks, not part of the new full-page scope. Establish exact anchor correspondence from visible text; broad base range is not a page map. Preserve local additions, omissions, transpositions, unusual wording and unresolved syllables without importing expected formulas. Do not let a difficult word prevent inspection of all later rows.",
+      "target_page": 19,
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B07-P0019-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
+    },
+    {
+      "batch_id": "B08-P0020",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-TSAMDRAK-B08-P0020-reader",
+      "baseline_commit": "07f658e3c831f86f50841e4bb9587472eaa194a6",
+      "scope": "Read TSAMDRAK PDF20 all main rows, non-main annotations/numerals, margins and every graphic boundary. Previous and following pages are contextual flanks, not part of the new full-page scope. Establish exact anchor correspondence from visible text; broad base range is not a page map. Preserve local additions, omissions, transpositions, unusual wording and unresolved syllables without importing expected formulas. Do not let a difficult word prevent inspection of all later rows.",
+      "target_page": 20,
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B08-P0020-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
     }
   ],
   "remaining_declared_scope": "Resolve recorded opening1–13 suffix/stack uncertainties; reliable continuous PDF14–83 through row6, including signs/source notes.",
@@ -2885,5 +2950,5 @@
   "reliability_assessment": "Visual reading occurred. The inspection distinguishes the two opening constructions and supports a specific final-sa omission at U00148. It does not resolve the lower component distinguishing bstan from bstun at U00012; a claim that all three questions are settled would exceed this reading.",
   "current_batch_id": "B02-P0014",
   "next_physical_span": "PDF15 row1, expected following U00383 but exact source correspondence must be established; preserve PDF14 bounded questions.",
-  "current_wave_id": "CONTINUE2-W02"
+  "current_wave_id": "CONTINUE2-W03"
 }

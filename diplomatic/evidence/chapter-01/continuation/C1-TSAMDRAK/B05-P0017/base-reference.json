@@ -1,0 +1,572 @@
+{
+  "baseline_commit": "07f658e3c831f86f50841e4bb9587472eaa194a6",
+  "anchor_range": [
+    443,
+    533
+  ],
+  "warning": "Base reference only, never evidence of comparison-witness agreement",
+  "base_units": [
+    {
+      "id": "U00443",
+      "source_tibetan": "རེ་རེ་ལ་ཡང་གཉིས་གཉིས་ཏེ། །",
+      "reading_tibetan": "རེ་རེ་ལ་ཡང་གཉིས་གཉིས་ཏེ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00444",
+      "source_tibetan": "གཅིག་ནི་མ་ནིང་སྟོང་པས་ན། །",
+      "reading_tibetan": "གཅིག་ནི་མ་ནིང་སྟོང་པས་ན། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00445",
+      "source_tibetan": "ཕོ་དང་མོ་ཡི་ཁྱད་པར་ལས། །",
+      "reading_tibetan": "ཕོ་དང་མོ་ཡི་ཁྱད་པར་ལས། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00446",
+      "source_tibetan": "ཚ་དང་གྲང་བའི་བྱེད་རྒྱུ་ཅན། །",
+      "reading_tibetan": "ཚ་དང་གྲང་བའི་བྱེད་རྒྱུ་ཅན། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00447",
+      "source_tibetan": "སྟོང་ཕྲག་དག་ནི་གཉིས་གཉིས་ལས། །",
+      "reading_tibetan": "སྟོང་ཕྲག་དག་ནི་གཉིས་གཉིས་ལས། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00448",
+      "source_tibetan": "བརྗོད་ཅིང་བརྟགས་པའི་སྒྲ་རྣམས་ནི། །",
+      "reading_tibetan": "བརྗོད་ཅིང་བརྟགས་པའི་སྒྲ་རྣམས་ནི། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00449",
+      "source_tibetan": "རྣལ་འབྱོར་པ་ཡིས་བརྗོད་ཤེས་ན། །",
+      "reading_tibetan": "རྣལ་འབྱོར་པ་ཡིས་བརྗོད་ཤེས་ན། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00450",
+      "source_tibetan": "དེ་དག་ཀུན་གྱི་སྐད་ལ་ཡང་། །",
+      "reading_tibetan": "དེ་དག་ཀུན་གྱི་སྐད་ལ་ཡང་། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00451",
+      "source_tibetan": "བདེ་ལེགས་སུ་ནི་ཉན་པར་སྤྲོ། །",
+      "reading_tibetan": "བདེ་ལེགས་སུ་ནི་ཉན་པར་སྤྲོ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00452",
+      "source_tibetan": "དེ་ཉིད་སུ་ཡིས་ངེས་འབྱོངས་པ། །",
+      "reading_tibetan": "དེ་ཉིད་སུ་ཡིས་ངེས་འབྱོངས་པ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00453",
+      "source_tibetan": "རིགས་དྲུག་ལ་ཡང་ངེས་པར་སྦྱོར། །",
+      "reading_tibetan": "རིགས་དྲུག་ལ་ཡང་ངེས་པར་སྦྱོར། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00454",
+      "source_tibetan": "དུས་དང་བཅས་ཏེ་མངོན་སྣང་བའོ། །",
+      "reading_tibetan": "དུས་དང་བཅས་ཏེ་མངོན་སྣང་བའོ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00455",
+      "source_tibetan": "འདས་དང་མ་འོངས་ད་ལྟར་གྱི། །",
+      "reading_tibetan": "འདས་དང་མ་འོངས་ད་ལྟར་གྱི། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00456",
+      "source_tibetan": "སྟོན་པ་སངས་རྒྱས་བཅོམ་ལྡན་འདས། །",
+      "reading_tibetan": "སྟོན་པ་སངས་རྒྱས་བཅོམ་ལྡན་འདས། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00457",
+      "source_tibetan": "དབྱངས་གཅིག་གིས་ནི་དཀྱིལ་འཁོར་དུ། །",
+      "reading_tibetan": "དབྱངས་གཅིག་གིས་ནི་དཀྱིལ་འཁོར་དུ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00458",
+      "source_tibetan": "སྐལ་བ་ཅན་གྱི་སྣང་བ་ལ། །",
+      "reading_tibetan": "སྐལ་བ་ཅན་གྱི་སྣང་བ་ལ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00459",
+      "source_tibetan": "དབང་པོ་དྲུག་གི་རྣམ་དག་པས། །",
+      "reading_tibetan": "དབང་པོ་དྲུག་གི་རྣམ་དག་པས། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00460",
+      "source_tibetan": "བཅུ་བཅུ་ཡི་ནི་སྐུ་གསུམ་ལས། །",
+      "reading_tibetan": "བཅུ་བཅུ་ཡི་ནི་སྐུ་གསུམ་ལས། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00461",
+      "source_tibetan": "ཁྱད་པར་སྤྲུལ་པའི་སྐུ་ལས་འཕྲོས། །",
+      "reading_tibetan": "ཁྱད་པར་སྤྲུལ་པའི་སྐུ་ལས་འཕྲོས། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00462",
+      "source_tibetan": "འཕྲོས་པ་ཡི་ནི་ཟེར་ཙམ་གྱིས། །",
+      "reading_tibetan": "འཕྲོས་པ་ཡི་ནི་ཟེར་ཙམ་གྱིས། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00463",
+      "source_tibetan": "རྣལ་འབྱོར་རྟོག་པའི་ཆུ་རྒྱུན་འགགས། །",
+      "reading_tibetan": "རྣལ་འབྱོར་རྟོག་པའི་ཆུ་རྒྱུན་འགགས། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00464",
+      "source_tibetan": "གནས་དང་འབྱེད་དང་གནས་བཅུད་ཡུལ། །",
+      "reading_tibetan": "གནས་དང་འབྱེད་དང་གནས་བཅུད་ཡུལ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00465",
+      "source_tibetan": "ཐོབ་ཅིང་མཐོང་རྟོགས་ངེས་འཇུག་པའོ། །",
+      "reading_tibetan": "ཐོབ་ཅིང་མཐོང་རྟོགས་ངེས་འཇུག་པའོ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00466",
+      "source_tibetan": "དེ་ལྟར་སྒྲ་ཡི་དགོས་པ་ནི། །",
+      "reading_tibetan": "དེ་ལྟར་སྒྲ་ཡི་དགོས་པ་ནི། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00467",
+      "source_tibetan": "རྣམ་པ་གཉིས་སུ་ཤེས་བྱ་སྟེ། །",
+      "reading_tibetan": "རྣམ་པ་གཉིས་སུ་ཤེས་བྱ་སྟེ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00468",
+      "source_tibetan": "མཆོག་དང་ཐུན་མོང་པ་དག་གི། །",
+      "reading_tibetan": "མཆོག་དང་ཐུན་མོང་པ་དག་གི། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00469",
+      "source_tibetan": "ལས་ཅན་སོ་སོའི་ངེས་འབྱེད་འཕྲུལ། །",
+      "reading_tibetan": "ལས་ཅན་སོ་སོའི་ངེས་འབྱེད་འཕྲུལ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00470",
+      "source_tibetan": "མཆོག་ལ་སྐུ་ལྔ་མངོན་པར་འགྲུབ། །",
+      "reading_tibetan": "མཆོག་ལ་སྐུ་ལྔ་མངོན་པར་འགྲུབ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00471",
+      "source_tibetan": "དེ་ལྟར་གྲུབ་པའི་རྟགས་བཅུ་ཡིས། །",
+      "reading_tibetan": "དེ་ལྟར་གྲུབ་པའི་རྟགས་བཅུ་ཡིས། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00472",
+      "source_tibetan": "རྡོ་རྗེ་འཆང་གི་ལུས་དང་མཉམ། །",
+      "reading_tibetan": "རྡོ་རྗེ་འཆང་གི་ལུས་དང་མཉམ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00473",
+      "source_tibetan": "འདི་ལ་ཡོན་ཏན་བརྗོད་མི་ལངས། །",
+      "reading_tibetan": "འདི་ལ་ཡོན་ཏན་བརྗོད་མི་ལངས། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00474",
+      "source_tibetan": "ཆོས་དང་ཆོས་ཀྱི་དབྱིངས་ཉིད་དང་། །",
+      "reading_tibetan": "ཆོས་དང་ཆོས་ཀྱི་དབྱིངས་ཉིད་དང་། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00475",
+      "source_tibetan": "གཞི་དང་ལམ་དང་འབྲས་བུ་ལ། །",
+      "reading_tibetan": "གཞི་དང་ལམ་དང་འབྲས་བུ་ལ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00476",
+      "source_tibetan": "བདེ་བར་རོལ་པ་ཉིད་ཡིན་ནོ། །",
+      "reading_tibetan": "བདེ་བར་རོལ་པ་ཉིད་ཡིན་ནོ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00477",
+      "source_tibetan": "ཐུན་མོང་གྱུར་པའི་དགོས་པ་ནི། །",
+      "reading_tibetan": "ཐུན་མོང་གྱུར་པའི་དགོས་པ་ནི། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00478",
+      "source_tibetan": "སྒྲ་ཚད་རིག་པའི་བསྟན་ཆོས་དང༌། །",
+      "reading_tibetan": "སྒྲ་ཚད་རིག་པའི་བསྟན་ཆོས་དང༌། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00479",
+      "source_tibetan": "བཟོ་དང་སྒྱུ་རྩལ་སྣ་ཚོགས་དང༌། །",
+      "reading_tibetan": "བཟོ་དང་སྒྱུ་རྩལ་སྣ་ཚོགས་དང༌། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00480",
+      "source_tibetan": "འཕོངས་དང་མ་སྦྱངས་ལས་རྣམས་འགྲུབ། །",
+      "reading_tibetan": "འཕོངས་དང་མ་སྦྱངས་ལས་རྣམས་འགྲུབ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00481",
+      "source_tibetan": "འབྱུང་བ་ལྔ་ལ་སྤྱོད་ནུས་དང༌། །",
+      "reading_tibetan": "འབྱུང་བ་ལྔ་ལ་སྤྱོད་ནུས་དང༌། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00482",
+      "source_tibetan": "མཚོན་དང་དུག་ལས་རྒྱལ་བ་དང༌། །",
+      "reading_tibetan": "མཚོན་དང་དུག་ལས་རྒྱལ་བ་དང༌། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00483",
+      "source_tibetan": "བེམ་དང་རིག་བཅས་སྒྲ་རྣམས་དང༌། །",
+      "reading_tibetan": "བེམ་དང་རིག་བཅས་སྒྲ་རྣམས་དང༌། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00484",
+      "source_tibetan": "བརྡའ་དང་ཐ་སྙད་ལ་མཁས་འགྱུར། །",
+      "reading_tibetan": "བརྡའ་དང་ཐ་སྙད་ལ་མཁས་འགྱུར། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00485",
+      "source_tibetan": "མདོར་ན་དགོས་པའི་བསྟན་བཅོས་དང༌། །",
+      "reading_tibetan": "མདོར་ན་དགོས་པའི་བསྟན་བཅོས་དང༌། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00486",
+      "source_tibetan": "བཀའ་ཡི་མཚན་ཉིད་ཤེས་པར་འགྱུར། །",
+      "reading_tibetan": "བཀའ་ཡི་མཚན་ཉིད་ཤེས་པར་འགྱུར། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00487",
+      "source_tibetan": "སྨན་དང་རྩི་སྦྱོར་བྱེ་བྲག་འབྱེད། །",
+      "reading_tibetan": "སྨན་དང་རྩི་སྦྱོར་བྱེ་བྲག་འབྱེད། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00488",
+      "source_tibetan": "ཐལ་ཡིག་ཕུལ་དུ་ཕྱིན་པ་དང༌། །",
+      "reading_tibetan": "ཐལ་ཡིག་ཕུལ་དུ་ཕྱིན་པ་དང༌། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00489",
+      "source_tibetan": "འཇིག་རྟེན་སྦྱོར་བ་ལྷུན་གྱིས་གྲུབ། །",
+      "reading_tibetan": "འཇིག་རྟེན་སྦྱོར་བ་ལྷུན་གྱིས་གྲུབ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00490",
+      "source_tibetan": "སྒྲ་དོན་དེ་ལྟར་དགོས་པ་འགྲུབ། །",
+      "reading_tibetan": "སྒྲ་དོན་དེ་ལྟར་དགོས་པ་འགྲུབ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00491",
+      "source_tibetan": "རྒྱུད་ལ་ངེས་པའི་འཕྲུལ་འབྱེད་ཕྱེ། །",
+      "reading_tibetan": "རྒྱུད་ལ་ངེས་པའི་འཕྲུལ་འབྱེད་ཕྱེ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00492",
+      "source_tibetan": "དྲིས་ལན་ལྔ་པ།",
+      "reading_tibetan": "དྲིས་ལན་ལྔ་པ།",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00493",
+      "source_tibetan": "ཐལ་བའི་གནས་ནི་རྣམ་པ་བརྒྱད། །",
+      "reading_tibetan": "ཐལ་བའི་གནས་ནི་རྣམ་པ་བརྒྱད། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00494",
+      "source_tibetan": "འཇིག་རྟེན་ཁམས་དང་ཞིང་ཁམས་དང་། །",
+      "reading_tibetan": "འཇིག་རྟེན་ཁམས་དང་ཞིང་ཁམས་དང་། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00495",
+      "source_tibetan": "དམ་བཅའ་སྐྱོན་དང་སྐྱོན་གནས་དང་། །",
+      "reading_tibetan": "དམ་བཅའ་སྐྱོན་དང་སྐྱོན་གནས་དང་། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00496",
+      "source_tibetan": "འཕེན་པའི་ལས་དང་སྦྱོར་བ་དང་། །",
+      "reading_tibetan": "འཕེན་པའི་ལས་དང་སྦྱོར་བ་དང་། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00497",
+      "source_tibetan": "གྲགས་དང་སོང་བའི་གནད་དང་བརྒྱད། །",
+      "reading_tibetan": "གྲགས་དང་སོང་བའི་གནད་དང་བརྒྱད། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00498",
+      "source_tibetan": "འདི་རྣམས་ཐལ་བའི་གནས་སུ་འདོད། །",
+      "reading_tibetan": "འདི་རྣམས་ཐལ་བའི་གནས་སུ་འདོད། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00499",
+      "source_tibetan": "འཇིག་རྟེན་ཁམས་ནི་ཆགས་པ་དང༌། །",
+      "reading_tibetan": "འཇིག་རྟེན་ཁམས་ནི་ཆགས་པ་དང༌། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00500",
+      "source_tibetan": "གནས་པ་ཉིད་དང་འཇིག་པའི་དུས། །",
+      "reading_tibetan": "གནས་པ་ཉིད་དང་འཇིག་པའི་དུས། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00501",
+      "source_tibetan": "སྟོང་པ་ཉིད་དང་རྒྱུ་དང་རྐྱེན། །",
+      "reading_tibetan": "སྟོང་པ་ཉིད་དང་རྒྱུ་དང་རྐྱེན། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00502",
+      "source_tibetan": "གྲུབ་ཚུལ་དང་ནི་དྲང་ཚད་དོ། །",
+      "reading_tibetan": "གྲུབ་ཚུལ་དང་ནི་དྲང་ཚད་དོ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00503",
+      "source_tibetan": "ཞིང་ཁམས་རྣམ་པ་བཅུ་གསུམ་ལ། །",
+      "reading_tibetan": "ཞིང་ཁམས་རྣམ་པ་བཅུ་གསུམ་ལ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00504",
+      "source_tibetan": "འདི་ནས་འཇིག་རྟེན་འོག་ན་ནི། །",
+      "reading_tibetan": "འདི་ནས་འཇིག་རྟེན་འོག་ན་ནི། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00505",
+      "source_tibetan": "ཐལ་བའི་དབྱངས་ཞེས་བྱ་བའི་ཡུལ། །",
+      "reading_tibetan": "ཐལ་བའི་དབྱངས་ཞེས་བྱ་བའི་ཡུལ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00506",
+      "source_tibetan": "རྒྱ་ཁྱོན་དཔག་དཀའ་རབ་ཏུ་མཛེས། །",
+      "reading_tibetan": "རྒྱ་ཁྱོན་དཔག་དཀའ་རབ་ཏུ་མཛེས། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00507",
+      "source_tibetan": "རྒྱུ་དང་རྐྱེན་དང་རང་བཞིན་དང༌། །",
+      "reading_tibetan": "རྒྱུ་དང་རྐྱེན་དང་རང་བཞིན་དང༌། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00508",
+      "source_tibetan": "སྟོན་པའི་བསྟན་པ་དེ་ཡི་འཁོར། །",
+      "reading_tibetan": "སྟོན་པའི་བསྟན་པ་དེ་ཡི་འཁོར། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00509",
+      "source_tibetan": "སྟེང་དང་འོག་དང་ཕྱོགས་མཚམས་སུ། །",
+      "reading_tibetan": "སྟེང་དང་འོག་དང་ཕྱོགས་མཚམས་སུ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00510",
+      "source_tibetan": "ཆུ་ཞེང་ཉམས་དགའ་བཀོད་ལེགས་སྤྲས། །",
+      "reading_tibetan": "ཆུ་ཞེང་ཉམས་དགའ་བཀོད་ལེགས་སྤྲས། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00511",
+      "source_tibetan": "དེ་ནས་འཇིག་རྟེན་དྲུག་འོག་ཏུ། །",
+      "reading_tibetan": "དེ་ནས་འཇིག་རྟེན་དྲུག་འོག་ཏུ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00512",
+      "source_tibetan": "ཐལ་བ་འཛིན་ཞེས་བྱ་བ་ནི། །",
+      "reading_tibetan": "ཐལ་བ་འཛིན་ཞེས་བྱ་བ་ནི། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00513",
+      "source_tibetan": "འཁོར་ལོའི་དབྱིབས་ལ་ཟང་ཐལ་ལོ། །",
+      "reading_tibetan": "འཁོར་ལོའི་དབྱིབས་ལ་ཟང་ཐལ་ལོ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00514",
+      "source_tibetan": "སྟོན་པའི་བསྟན་པ་བདེན་པ་ཉིད། །",
+      "reading_tibetan": "སྟོན་པའི་བསྟན་པ་བདེན་པ་ཉིད། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00515",
+      "source_tibetan": "སྤྲས་ལེགས་བཀོད་པ་གཉིས་པའོ། །",
+      "reading_tibetan": "སྤྲས་ལེགས་བཀོད་པ་གཉིས་པའོ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00516",
+      "source_tibetan": "འདི་ནས་འཇིག་རྟེན་གསུམ་གཡས་ན། །",
+      "reading_tibetan": "འདི་ནས་འཇིག་རྟེན་གསུམ་གཡས་ན། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00517",
+      "source_tibetan": "ཐལ་བ་སྐྱོབ་ཅེས་བྱ་བ་ནི། །",
+      "reading_tibetan": "ཐལ་བ་སྐྱོབ་ཅེས་བྱ་བ་ནི། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00518",
+      "source_tibetan": "མརྒད་དག་གིས་ཡོངས་སྤྲས་པ། །",
+      "reading_tibetan": "མརྒད་དག་གིས་ཡོངས་སྤྲས་པ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00519",
+      "source_tibetan": "འོད་དང་ཁ་དོག་ངེས་གསལ་ཞིང་། །",
+      "reading_tibetan": "འོད་དང་ཁ་དོག་ངེས་གསལ་ཞིང་། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00520",
+      "source_tibetan": "སྟོན་པའི་བསྟན་པ་འདུལ་བའི་ཞིང་། །",
+      "reading_tibetan": "སྟོན་པའི་བསྟན་པ་འདུལ་བའི་ཞིང་། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00521",
+      "source_tibetan": "སོ་སོའི་ལས་དང་མཚན་བཅས་པའོ། །",
+      "reading_tibetan": "སོ་སོའི་ལས་དང་མཚན་བཅས་པའོ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00522",
+      "source_tibetan": "དེ་ནས་འཇིག་རྟེན་དྲུག་གི་སྟེང༌། །",
+      "reading_tibetan": "དེ་ནས་འཇིག་རྟེན་དྲུག་གི་སྟེང༌། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00523",
+      "source_tibetan": "ཐལ་བ་བརྡལ་ཞེས་བྱ་བ་ནི། །",
+      "reading_tibetan": "ཐལ་བ་བརྡལ་ཞེས་བྱ་བ་ནི། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00524",
+      "source_tibetan": "པདྨ་རྒྱས་པའི་དབྱིབས་འདྲ་བ། །",
+      "reading_tibetan": "པདྨ་རྒྱས་པའི་དབྱིབས་འདྲ་བ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00525",
+      "source_tibetan": "ཤིན་ཏུ་བརྡལ་བ་ཁོད་སྙོམས་པ། །",
+      "reading_tibetan": "ཤིན་ཏུ་བརྡལ་བ་ཁོད་སྙོམས་པ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00526",
+      "source_tibetan": "སྣ་ཚོགས་འོད་འབར་ཁ་དོག་ནི། །",
+      "reading_tibetan": "སྣ་ཚོགས་འོད་འབར་ཁ་དོག་ནི། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00527",
+      "source_tibetan": "དཀར་དམར་སྣང་བ་འཁྲུགས་པ་ལས། །",
+      "reading_tibetan": "དཀར་དམར་སྣང་བ་འཁྲུགས་པ་ལས། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00528",
+      "source_tibetan": "རགས་པའི་གཟུགས་བརྙན་སྣང་བ་མིན། །",
+      "reading_tibetan": "རགས་པའི་གཟུགས་བརྙན་སྣང་བ་མིན། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00529",
+      "source_tibetan": "སྟོན་པའི་བསྟན་པ་འདུ་མཆེད་རྒྱས། །",
+      "reading_tibetan": "སྟོན་པའི་བསྟན་པ་འདུ་མཆེད་རྒྱས། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00530",
+      "source_tibetan": "བསྐལ་པ་རྫོགས་པས་ཐལ་ཞེས་བྱའོ། །",
+      "reading_tibetan": "བསྐལ་པ་རྫོགས་པས་ཐལ་ཞེས་བྱའོ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00531",
+      "source_tibetan": "འདི་ནས་འཇིག་རྟེན་སྟེང་དུ་ཡང༌། །",
+      "reading_tibetan": "འདི་ནས་འཇིག་རྟེན་སྟེང་དུ་ཡང༌། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00532",
+      "source_tibetan": "བཅུ་དགུ་འདས་པའི་ཡང་སྟེང་ན། །",
+      "reading_tibetan": "བཅུ་དགུ་འདས་པའི་ཡང་སྟེང་ན། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    },
+    {
+      "id": "U00533",
+      "source_tibetan": "ཐལ་བའི་བེ་ཅོན་ཞེས་བྱ་བ། །",
+      "reading_tibetan": "ཐལ་བའི་བེ་ཅོན་ཞེས་བྱ་བ། །",
+      "status": "lexically_compared_punctuation_not_certified"
+    }
+  ],
+  "insertions": [],
+  "separate_annotations": [],
+  "source_inputs": [
+    {
+      "path": "diplomatic/collation/chapter-01/reading-units.json",
+      "sha256": "c398225ec29f12ad27bde5f485dc5fcda630e441e194bed098e3b89a26c12d5b"
+    },
+    {
+      "path": "diplomatic/collation/chapter-01/ch1-scan-insertions.json",
+      "sha256": "9c6fde0772c21e2826695d6d5efec130c05af904c0a5e737c5c18718de36bfb2"
+    },
+    {
+      "path": "diplomatic/collation/chapter-01/additional-interventions.json",
+      "sha256": "044a5ff2d548cb00f42e4dc57b3d7868872a9b06896c9f71f7ff5a8fbb124aac"
+    }
+  ]
+}

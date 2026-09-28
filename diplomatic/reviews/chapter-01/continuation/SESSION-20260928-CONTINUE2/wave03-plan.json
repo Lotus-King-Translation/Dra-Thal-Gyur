@@ -1,0 +1,367 @@
+{
+  "wave_id": "CONTINUE2-W03",
+  "baseline_commit": "07f658e3c831f86f50841e4bb9587472eaa194a6",
+  "status": "requests_ready_pending_checkpoint",
+  "plans": [
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B07-P0008",
+      "edition": "adzom-2000",
+      "target_page": 8,
+      "pages": [
+        7,
+        8,
+        9
+      ],
+      "lo": 120,
+      "hi": 195,
+      "scope": "Complete the physical sign/source-layer inventory of ADZOM PDF8 only. Every main row and non-main region must be inspected. Existing lexical pass remains; neighboring pages are boundary context only. Reference range is a broad locating aid, never a guessed page map. Record each complete two-word boundary interval, including uprights near the next word, without assuming those uprights are part of the next letter. Give physical component counts and joined-letter reasons; do not count only preceding-owned marks. Tiered source graphics are not plain shads merely because the base uses that encoding.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B07-P0008/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B07-P0008-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B07-P0008-reader-spec.json"
+    },
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B08-P0009",
+      "edition": "adzom-2000",
+      "target_page": 9,
+      "pages": [
+        8,
+        9,
+        10
+      ],
+      "lo": 146,
+      "hi": 221,
+      "scope": "Complete the physical sign/source-layer inventory of ADZOM PDF9 only. Every main row and non-main region must be inspected. Existing lexical pass remains; neighboring pages are boundary context only. Reference range is a broad locating aid, never a guessed page map. Record each complete two-word boundary interval, including uprights near the next word, without assuming those uprights are part of the next letter. Give physical component counts and joined-letter reasons; do not count only preceding-owned marks. Tiered source graphics are not plain shads merely because the base uses that encoding.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B08-P0009/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B08-P0009-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B08-P0009-reader-spec.json"
+    },
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B09-P0010",
+      "edition": "adzom-2000",
+      "target_page": 10,
+      "pages": [
+        9,
+        10,
+        11
+      ],
+      "lo": 172,
+      "hi": 247,
+      "scope": "Complete the physical sign/source-layer inventory of ADZOM PDF10 only. Every main row and non-main region must be inspected. Existing lexical pass remains; neighboring pages are boundary context only. Reference range is a broad locating aid, never a guessed page map. Record each complete two-word boundary interval, including uprights near the next word, without assuming those uprights are part of the next letter. Give physical component counts and joined-letter reasons; do not count only preceding-owned marks. Tiered source graphics are not plain shads merely because the base uses that encoding.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B09-P0010/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B09-P0010-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B09-P0010-reader-spec.json"
+    },
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B10-P0011",
+      "edition": "adzom-2000",
+      "target_page": 11,
+      "pages": [
+        10,
+        11,
+        12
+      ],
+      "lo": 198,
+      "hi": 273,
+      "scope": "Complete the physical sign/source-layer inventory of ADZOM PDF11 only. Every main row and non-main region must be inspected. Existing lexical pass remains; neighboring pages are boundary context only. Reference range is a broad locating aid, never a guessed page map. Record each complete two-word boundary interval, including uprights near the next word, without assuming those uprights are part of the next letter. Give physical component counts and joined-letter reasons; do not count only preceding-owned marks. Tiered source graphics are not plain shads merely because the base uses that encoding.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B10-P0011-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B10-P0011-reader-spec.json"
+    },
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B11-P0012",
+      "edition": "adzom-2000",
+      "target_page": 12,
+      "pages": [
+        11,
+        12,
+        13
+      ],
+      "lo": 224,
+      "hi": 299,
+      "scope": "Complete the physical sign/source-layer inventory of ADZOM PDF12 only. Every main row and non-main region must be inspected. Existing lexical pass remains; neighboring pages are boundary context only. Reference range is a broad locating aid, never a guessed page map. Record each complete two-word boundary interval, including uprights near the next word, without assuming those uprights are part of the next letter. Give physical component counts and joined-letter reasons; do not count only preceding-owned marks. Tiered source graphics are not plain shads merely because the base uses that encoding.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B11-P0012/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B11-P0012-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B11-P0012-reader-spec.json"
+    },
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B12-P0013",
+      "edition": "adzom-2000",
+      "target_page": 13,
+      "pages": [
+        12,
+        13,
+        14
+      ],
+      "lo": 250,
+      "hi": 325,
+      "scope": "Complete the physical sign/source-layer inventory of ADZOM PDF13 only. Every main row and non-main region must be inspected. Existing lexical pass remains; neighboring pages are boundary context only. Reference range is a broad locating aid, never a guessed page map. Record each complete two-word boundary interval, including uprights near the next word, without assuming those uprights are part of the next letter. Give physical component counts and joined-letter reasons; do not count only preceding-owned marks. Tiered source graphics are not plain shads merely because the base uses that encoding.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B12-P0013/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B12-P0013-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B12-P0013-reader-spec.json"
+    },
+    {
+      "task": "C1-TINGKYE",
+      "batch": "B04-P0006",
+      "edition": "tingkye-1973",
+      "target_page": 6,
+      "pages": [
+        5,
+        6,
+        7
+      ],
+      "lo": 155,
+      "hi": 245,
+      "scope": "Read TINGKYE PDF6 all seven main rows, source layers, compound punctuation and margins. Adjacent pages are context only. Read the actual incoming/outgoing words from the supplied flanks and align by observed wording, never by numerical proportions. Every local difference needs exact source and reference spans, confidence and two visible flanks for any absence. A small base heading absent from the local main sequence is not a missing main verse. Keep individual unread glyphs bounded and continue the other rows.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B04-P0006-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B04-P0006-reader-spec.json"
+    },
+    {
+      "task": "C1-TINGKYE",
+      "batch": "B05-P0007",
+      "edition": "tingkye-1973",
+      "target_page": 7,
+      "pages": [
+        6,
+        7,
+        8
+      ],
+      "lo": 191,
+      "hi": 281,
+      "scope": "Read TINGKYE PDF7 all seven main rows, source layers, compound punctuation and margins. Adjacent pages are context only. Read the actual incoming/outgoing words from the supplied flanks and align by observed wording, never by numerical proportions. Every local difference needs exact source and reference spans, confidence and two visible flanks for any absence. A small base heading absent from the local main sequence is not a missing main verse. Keep individual unread glyphs bounded and continue the other rows.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B05-P0007-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B05-P0007-reader-spec.json"
+    },
+    {
+      "task": "C1-TINGKYE",
+      "batch": "B06-P0008",
+      "edition": "tingkye-1973",
+      "target_page": 8,
+      "pages": [
+        7,
+        8,
+        9
+      ],
+      "lo": 227,
+      "hi": 317,
+      "scope": "Read TINGKYE PDF8 all seven main rows, source layers, compound punctuation and margins. Adjacent pages are context only. Read the actual incoming/outgoing words from the supplied flanks and align by observed wording, never by numerical proportions. Every local difference needs exact source and reference spans, confidence and two visible flanks for any absence. A small base heading absent from the local main sequence is not a missing main verse. Keep individual unread glyphs bounded and continue the other rows.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B06-P0008-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B06-P0008-reader-spec.json"
+    },
+    {
+      "task": "C1-TINGKYE",
+      "batch": "B07-P0009",
+      "edition": "tingkye-1973",
+      "target_page": 9,
+      "pages": [
+        8,
+        9,
+        10
+      ],
+      "lo": 263,
+      "hi": 353,
+      "scope": "Read TINGKYE PDF9 all seven main rows, source layers, compound punctuation and margins. Adjacent pages are context only. Read the actual incoming/outgoing words from the supplied flanks and align by observed wording, never by numerical proportions. Every local difference needs exact source and reference spans, confidence and two visible flanks for any absence. A small base heading absent from the local main sequence is not a missing main verse. Keep individual unread glyphs bounded and continue the other rows.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B07-P0009-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B07-P0009-reader-spec.json"
+    },
+    {
+      "task": "C1-TINGKYE",
+      "batch": "B08-P0010",
+      "edition": "tingkye-1973",
+      "target_page": 10,
+      "pages": [
+        9,
+        10,
+        11
+      ],
+      "lo": 299,
+      "hi": 389,
+      "scope": "Read TINGKYE PDF10 all seven main rows, source layers, compound punctuation and margins. Adjacent pages are context only. Read the actual incoming/outgoing words from the supplied flanks and align by observed wording, never by numerical proportions. Every local difference needs exact source and reference spans, confidence and two visible flanks for any absence. A small base heading absent from the local main sequence is not a missing main verse. Keep individual unread glyphs bounded and continue the other rows.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B08-P0010-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B08-P0010-reader-spec.json"
+    },
+    {
+      "task": "C1-TSAMDRAK",
+      "batch": "B04-P0016",
+      "edition": "tsamdrak-1982",
+      "target_page": 16,
+      "pages": [
+        15,
+        16,
+        17
+      ],
+      "lo": 410,
+      "hi": 500,
+      "scope": "Read TSAMDRAK PDF16 all main rows, non-main annotations/numerals, margins and every graphic boundary. Previous and following pages are contextual flanks, not part of the new full-page scope. Establish exact anchor correspondence from visible text; broad base range is not a page map. Preserve local additions, omissions, transpositions, unusual wording and unresolved syllables without importing expected formulas. Do not let a difficult word prevent inspection of all later rows.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B04-P0016-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B04-P0016-reader-spec.json"
+    },
+    {
+      "task": "C1-TSAMDRAK",
+      "batch": "B05-P0017",
+      "edition": "tsamdrak-1982",
+      "target_page": 17,
+      "pages": [
+        16,
+        17,
+        18
+      ],
+      "lo": 443,
+      "hi": 533,
+      "scope": "Read TSAMDRAK PDF17 all main rows, non-main annotations/numerals, margins and every graphic boundary. Previous and following pages are contextual flanks, not part of the new full-page scope. Establish exact anchor correspondence from visible text; broad base range is not a page map. Preserve local additions, omissions, transpositions, unusual wording and unresolved syllables without importing expected formulas. Do not let a difficult word prevent inspection of all later rows.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B05-P0017-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B05-P0017-reader-spec.json"
+    },
+    {
+      "task": "C1-TSAMDRAK",
+      "batch": "B06-P0018",
+      "edition": "tsamdrak-1982",
+      "target_page": 18,
+      "pages": [
+        17,
+        18,
+        19
+      ],
+      "lo": 476,
+      "hi": 566,
+      "scope": "Read TSAMDRAK PDF18 all main rows, non-main annotations/numerals, margins and every graphic boundary. Previous and following pages are contextual flanks, not part of the new full-page scope. Establish exact anchor correspondence from visible text; broad base range is not a page map. Preserve local additions, omissions, transpositions, unusual wording and unresolved syllables without importing expected formulas. Do not let a difficult word prevent inspection of all later rows.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B06-P0018-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B06-P0018-reader-spec.json"
+    },
+    {
+      "task": "C1-TSAMDRAK",
+      "batch": "B07-P0019",
+      "edition": "tsamdrak-1982",
+      "target_page": 19,
+      "pages": [
+        18,
+        19,
+        20
+      ],
+      "lo": 509,
+      "hi": 599,
+      "scope": "Read TSAMDRAK PDF19 all main rows, non-main annotations/numerals, margins and every graphic boundary. Previous and following pages are contextual flanks, not part of the new full-page scope. Establish exact anchor correspondence from visible text; broad base range is not a page map. Preserve local additions, omissions, transpositions, unusual wording and unresolved syllables without importing expected formulas. Do not let a difficult word prevent inspection of all later rows.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B07-P0019-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B07-P0019-reader-spec.json"
+    },
+    {
+      "task": "C1-TSAMDRAK",
+      "batch": "B08-P0020",
+      "edition": "tsamdrak-1982",
+      "target_page": 20,
+      "pages": [
+        19,
+        20,
+        21
+      ],
+      "lo": 542,
+      "hi": 632,
+      "scope": "Read TSAMDRAK PDF20 all main rows, non-main annotations/numerals, margins and every graphic boundary. Previous and following pages are contextual flanks, not part of the new full-page scope. Establish exact anchor correspondence from visible text; broad base range is not a page map. Preserve local additions, omissions, transpositions, unusual wording and unresolved syllables without importing expected formulas. Do not let a difficult word prevent inspection of all later rows.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B08-P0020-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B08-P0020-reader-spec.json"
+    },
+    {
+      "task": "C1-DEGE",
+      "batch": "B02-P0004",
+      "edition": "dege-W1ER7",
+      "target_page": 4,
+      "pages": [
+        3,
+        4,
+        5
+      ],
+      "lo": 125,
+      "hi": 265,
+      "scope": "Read DEGE PDF4 all main rows, small interlinear/inline notes, marginal labels and source signs. Native color is authoritative; neighboring pages are boundary context only. Align actual observed words, not a page-number estimate. If a faint suffix is unreadable to you, delimit that precise span but continue all remaining text. Record additions and local absences only with their observed flanks. Preserve exact physical row order and every unaligned small written component; do not silently absorb it into main text.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B02-P0004/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B02-P0004-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B02-P0004-reader-spec.json"
+    },
+    {
+      "task": "C1-DEGE",
+      "batch": "B03-P0005",
+      "edition": "dege-W1ER7",
+      "target_page": 5,
+      "pages": [
+        4,
+        5,
+        6
+      ],
+      "lo": 175,
+      "hi": 315,
+      "scope": "Read DEGE PDF5 all main rows, small interlinear/inline notes, marginal labels and source signs. Native color is authoritative; neighboring pages are boundary context only. Align actual observed words, not a page-number estimate. If a faint suffix is unreadable to you, delimit that precise span but continue all remaining text. Record additions and local absences only with their observed flanks. Preserve exact physical row order and every unaligned small written component; do not silently absorb it into main text.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B03-P0005/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B03-P0005-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B03-P0005-reader-spec.json"
+    },
+    {
+      "task": "C1-DEGE",
+      "batch": "B04-P0006",
+      "edition": "dege-W1ER7",
+      "target_page": 6,
+      "pages": [
+        5,
+        6,
+        7
+      ],
+      "lo": 225,
+      "hi": 365,
+      "scope": "Read DEGE PDF6 all main rows, small interlinear/inline notes, marginal labels and source signs. Native color is authoritative; neighboring pages are boundary context only. Align actual observed words, not a page-number estimate. If a faint suffix is unreadable to you, delimit that precise span but continue all remaining text. Record additions and local absences only with their observed flanks. Preserve exact physical row order and every unaligned small written component; do not silently absorb it into main text.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B04-P0006/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B04-P0006-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B04-P0006-reader-spec.json"
+    },
+    {
+      "task": "C1-DEGE",
+      "batch": "B05-P0007",
+      "edition": "dege-W1ER7",
+      "target_page": 7,
+      "pages": [
+        6,
+        7,
+        8
+      ],
+      "lo": 275,
+      "hi": 415,
+      "scope": "Read DEGE PDF7 all main rows, small interlinear/inline notes, marginal labels and source signs. Native color is authoritative; neighboring pages are boundary context only. Align actual observed words, not a page-number estimate. If a faint suffix is unreadable to you, delimit that precise span but continue all remaining text. Record additions and local absences only with their observed flanks. Preserve exact physical row order and every unaligned small written component; do not silently absorb it into main text.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B05-P0007/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B05-P0007-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B05-P0007-reader-spec.json"
+    },
+    {
+      "task": "C1-DEGE",
+      "batch": "B06-P0008",
+      "edition": "dege-W1ER7",
+      "target_page": 8,
+      "pages": [
+        7,
+        8,
+        9
+      ],
+      "lo": 325,
+      "hi": 465,
+      "scope": "Read DEGE PDF8 all main rows, small interlinear/inline notes, marginal labels and source signs. Native color is authoritative; neighboring pages are boundary context only. Align actual observed words, not a page-number estimate. If a faint suffix is unreadable to you, delimit that precise span but continue all remaining text. Record additions and local absences only with their observed flanks. Preserve exact physical row order and every unaligned small written component; do not silently absorb it into main text.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B06-P0008/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B06-P0008-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B06-P0008-reader-spec.json"
+    }
+  ],
+  "maximum_parallel_readers": 21,
+  "previous_reading_reference_commit": "2382179fb648e4ec59fbe1633d83a23df5b6e620",
+  "chapter_complete": false
+}

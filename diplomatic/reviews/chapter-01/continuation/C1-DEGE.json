@@ -48,7 +48,72 @@
         },
         "proposals_adopted": false
       }
+    },
+    {
+      "batch_id": "B02-P0004",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-DEGE-B02-P0004-reader",
+      "baseline_commit": "07f658e3c831f86f50841e4bb9587472eaa194a6",
+      "scope": "Read DEGE PDF4 all main rows, small interlinear/inline notes, marginal labels and source signs. Native color is authoritative; neighboring pages are boundary context only. Align actual observed words, not a page-number estimate. If a faint suffix is unreadable to you, delimit that precise span but continue all remaining text. Record additions and local absences only with their observed flanks. Preserve exact physical row order and every unaligned small written component; do not silently absorb it into main text.",
+      "target_page": 4,
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B02-P0004/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B02-P0004-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
+    },
+    {
+      "batch_id": "B03-P0005",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-DEGE-B03-P0005-reader",
+      "baseline_commit": "07f658e3c831f86f50841e4bb9587472eaa194a6",
+      "scope": "Read DEGE PDF5 all main rows, small interlinear/inline notes, marginal labels and source signs. Native color is authoritative; neighboring pages are boundary context only. Align actual observed words, not a page-number estimate. If a faint suffix is unreadable to you, delimit that precise span but continue all remaining text. Record additions and local absences only with their observed flanks. Preserve exact physical row order and every unaligned small written component; do not silently absorb it into main text.",
+      "target_page": 5,
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B03-P0005/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B03-P0005-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
+    },
+    {
+      "batch_id": "B04-P0006",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-DEGE-B04-P0006-reader",
+      "baseline_commit": "07f658e3c831f86f50841e4bb9587472eaa194a6",
+      "scope": "Read DEGE PDF6 all main rows, small interlinear/inline notes, marginal labels and source signs. Native color is authoritative; neighboring pages are boundary context only. Align actual observed words, not a page-number estimate. If a faint suffix is unreadable to you, delimit that precise span but continue all remaining text. Record additions and local absences only with their observed flanks. Preserve exact physical row order and every unaligned small written component; do not silently absorb it into main text.",
+      "target_page": 6,
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B04-P0006/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B04-P0006-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
+    },
+    {
+      "batch_id": "B05-P0007",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-DEGE-B05-P0007-reader",
+      "baseline_commit": "07f658e3c831f86f50841e4bb9587472eaa194a6",
+      "scope": "Read DEGE PDF7 all main rows, small interlinear/inline notes, marginal labels and source signs. Native color is authoritative; neighboring pages are boundary context only. Align actual observed words, not a page-number estimate. If a faint suffix is unreadable to you, delimit that precise span but continue all remaining text. Record additions and local absences only with their observed flanks. Preserve exact physical row order and every unaligned small written component; do not silently absorb it into main text.",
+      "target_page": 7,
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B05-P0007/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B05-P0007-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
+    },
+    {
+      "batch_id": "B06-P0008",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-DEGE-B06-P0008-reader",
+      "baseline_commit": "07f658e3c831f86f50841e4bb9587472eaa194a6",
+      "scope": "Read DEGE PDF8 all main rows, small interlinear/inline notes, marginal labels and source signs. Native color is authoritative; neighboring pages are boundary context only. Align actual observed words, not a page-number estimate. If a faint suffix is unreadable to you, delimit that precise span but continue all remaining text. Record additions and local absences only with their observed flanks. Preserve exact physical row order and every unaligned small written component; do not silently absorb it into main text.",
+      "target_page": 8,
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B06-P0008/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B06-P0008-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
     }
   ],
-  "current_wave_id": "CONTINUE2-W02"
+  "current_wave_id": "CONTINUE2-W03"
 }

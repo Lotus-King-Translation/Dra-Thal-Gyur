@@ -1,0 +1,522 @@
+{
+  "task_id": "C1-BASE-PHYSICAL",
+  "batch_id": "B10-P0011",
+  "source_pages": [
+    10,
+    11,
+    12
+  ],
+  "images": [
+    {
+      "pdf_page": 11,
+      "bdrc_image": 13,
+      "source_member": "0013.png",
+      "source_member_sha256": "ed0fc1f9b0c2ef91a2cdd9a7c9b4faee2c25ffc08964811eef241d67ee9a0e69",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/p011-native.png",
+      "sha256": "ed0fc1f9b0c2ef91a2cdd9a7c9b4faee2c25ffc08964811eef241d67ee9a0e69",
+      "dimensions": [
+        5696,
+        1344
+      ]
+    },
+    {
+      "pdf_page": 10,
+      "bdrc_image": 12,
+      "source_member": "0012.png",
+      "source_member_sha256": "26c0fda84ae95245a625c29598e8dca97c9ceeb7910e6808562ac5fdf7b4cf7e",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/p010-native.png",
+      "sha256": "26c0fda84ae95245a625c29598e8dca97c9ceeb7910e6808562ac5fdf7b4cf7e",
+      "dimensions": [
+        5696,
+        1344
+      ]
+    },
+    {
+      "pdf_page": 12,
+      "bdrc_image": 14,
+      "source_member": "0014.png",
+      "source_member_sha256": "7eacb20216ec058df00bd9517e74e72f7ac81a3514b1d060c66bd9bad8342ef6",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/p012-native.png",
+      "sha256": "7eacb20216ec058df00bd9517e74e72f7ac81a3514b1d060c66bd9bad8342ef6",
+      "dimensions": [
+        5696,
+        1344
+      ]
+    },
+    {
+      "pdf_page": 11,
+      "bdrc_image": 13,
+      "source_member": "0013.png",
+      "source_member_sha256": "ed0fc1f9b0c2ef91a2cdd9a7c9b4faee2c25ffc08964811eef241d67ee9a0e69",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/p011-x0000-y0000.png",
+      "sha256": "f39f009547407528afc6b823e26ee27eb5ec990a1ee0e6f4097452907f83639d",
+      "native_bounds": [
+        0,
+        0,
+        2000,
+        1344
+      ],
+      "dimensions": [
+        2000,
+        1344
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 11,
+      "bdrc_image": 13,
+      "source_member": "0013.png",
+      "source_member_sha256": "ed0fc1f9b0c2ef91a2cdd9a7c9b4faee2c25ffc08964811eef241d67ee9a0e69",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/p011-x1900-y0000.png",
+      "sha256": "215bc63feaf3c2088595545a1dde87dffbe561979d41f5821ec5500613cc90ae",
+      "native_bounds": [
+        1900,
+        0,
+        3900,
+        1344
+      ],
+      "dimensions": [
+        2000,
+        1344
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 11,
+      "bdrc_image": 13,
+      "source_member": "0013.png",
+      "source_member_sha256": "ed0fc1f9b0c2ef91a2cdd9a7c9b4faee2c25ffc08964811eef241d67ee9a0e69",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/p011-x3696-y0000.png",
+      "sha256": "9930e15a7d3fa2dd883373d5d43e1a95e54ea97cd5593cfcaa1aa457b1ac4f8d",
+      "native_bounds": [
+        3696,
+        0,
+        5696,
+        1344
+      ],
+      "dimensions": [
+        2000,
+        1344
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 10,
+      "bdrc_image": 12,
+      "source_member": "0012.png",
+      "source_member_sha256": "26c0fda84ae95245a625c29598e8dca97c9ceeb7910e6808562ac5fdf7b4cf7e",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/p010-x3696-y0000.png",
+      "sha256": "bcd57f2dd4e73598d07f900e01986b81c6c21726e971c68c2381dd9753c95af3",
+      "native_bounds": [
+        3696,
+        0,
+        5696,
+        1344
+      ],
+      "dimensions": [
+        2000,
+        1344
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 12,
+      "bdrc_image": 14,
+      "source_member": "0014.png",
+      "source_member_sha256": "7eacb20216ec058df00bd9517e74e72f7ac81a3514b1d060c66bd9bad8342ef6",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/p012-x0000-y0000.png",
+      "sha256": "766dca6da1544c157305c98294975fa8d1b4a481aeb94025c53a6bb0855bc188",
+      "native_bounds": [
+        0,
+        0,
+        2000,
+        1344
+      ],
+      "dimensions": [
+        2000,
+        1344
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/band-x0000-y0150.png",
+      "sha256": "8d68fbd138d9758d2536df531635b63cdf453dec02f6a1095730a22d2fb5e1cc",
+      "pdf_page": 11,
+      "bdrc_image": 13,
+      "source_member": "0013.png",
+      "source_member_sha256": "ed0fc1f9b0c2ef91a2cdd9a7c9b4faee2c25ffc08964811eef241d67ee9a0e69",
+      "native_bounds": [
+        0,
+        150,
+        2000,
+        450
+      ],
+      "dimensions": [
+        2000,
+        300
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/band-x1900-y0150.png",
+      "sha256": "93da42a02b59a6a2a99f5a016335167e2f34c264461a093d2818130015249a94",
+      "pdf_page": 11,
+      "bdrc_image": 13,
+      "source_member": "0013.png",
+      "source_member_sha256": "ed0fc1f9b0c2ef91a2cdd9a7c9b4faee2c25ffc08964811eef241d67ee9a0e69",
+      "native_bounds": [
+        1900,
+        150,
+        3900,
+        450
+      ],
+      "dimensions": [
+        2000,
+        300
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/band-x3696-y0150.png",
+      "sha256": "fa7a1c7d88fc70b133d89014009f2d4579bae500040ed83c41ddcd5f2772fef8",
+      "pdf_page": 11,
+      "bdrc_image": 13,
+      "source_member": "0013.png",
+      "source_member_sha256": "ed0fc1f9b0c2ef91a2cdd9a7c9b4faee2c25ffc08964811eef241d67ee9a0e69",
+      "native_bounds": [
+        3696,
+        150,
+        5696,
+        450
+      ],
+      "dimensions": [
+        2000,
+        300
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/band-x0000-y0350.png",
+      "sha256": "2f04138da31910570dead6c3ce3ee90f8cc417b51ff7cdab8bcd3eab35d33d41",
+      "pdf_page": 11,
+      "bdrc_image": 13,
+      "source_member": "0013.png",
+      "source_member_sha256": "ed0fc1f9b0c2ef91a2cdd9a7c9b4faee2c25ffc08964811eef241d67ee9a0e69",
+      "native_bounds": [
+        0,
+        350,
+        2000,
+        650
+      ],
+      "dimensions": [
+        2000,
+        300
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/band-x1900-y0350.png",
+      "sha256": "263bcac4f45c16b3f5d89e8c98e581ec89954944111963f4944c5430c2b06d32",
+      "pdf_page": 11,
+      "bdrc_image": 13,
+      "source_member": "0013.png",
+      "source_member_sha256": "ed0fc1f9b0c2ef91a2cdd9a7c9b4faee2c25ffc08964811eef241d67ee9a0e69",
+      "native_bounds": [
+        1900,
+        350,
+        3900,
+        650
+      ],
+      "dimensions": [
+        2000,
+        300
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/band-x3696-y0350.png",
+      "sha256": "00050638075d71b0e2c9a13e924f5de164d0ba4465bed2bb8d4d39d77a9aefa9",
+      "pdf_page": 11,
+      "bdrc_image": 13,
+      "source_member": "0013.png",
+      "source_member_sha256": "ed0fc1f9b0c2ef91a2cdd9a7c9b4faee2c25ffc08964811eef241d67ee9a0e69",
+      "native_bounds": [
+        3696,
+        350,
+        5696,
+        650
+      ],
+      "dimensions": [
+        2000,
+        300
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/band-x0000-y0550.png",
+      "sha256": "dbb26cfe7ecaf05b5f80434d0449bce56603fe5de4b1233613fadef3fd659288",
+      "pdf_page": 11,
+      "bdrc_image": 13,
+      "source_member": "0013.png",
+      "source_member_sha256": "ed0fc1f9b0c2ef91a2cdd9a7c9b4faee2c25ffc08964811eef241d67ee9a0e69",
+      "native_bounds": [
+        0,
+        550,
+        2000,
+        850
+      ],
+      "dimensions": [
+        2000,
+        300
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/band-x1900-y0550.png",
+      "sha256": "16602faa56f973759d686cc48fee82a5aa1b71a248bc52d3c694e79c05305aa2",
+      "pdf_page": 11,
+      "bdrc_image": 13,
+      "source_member": "0013.png",
+      "source_member_sha256": "ed0fc1f9b0c2ef91a2cdd9a7c9b4faee2c25ffc08964811eef241d67ee9a0e69",
+      "native_bounds": [
+        1900,
+        550,
+        3900,
+        850
+      ],
+      "dimensions": [
+        2000,
+        300
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/band-x3696-y0550.png",
+      "sha256": "5d3a45c02bf24a16ae85daa3a6efc3e72c3bac47445e9c45cb89dd17693d20f4",
+      "pdf_page": 11,
+      "bdrc_image": 13,
+      "source_member": "0013.png",
+      "source_member_sha256": "ed0fc1f9b0c2ef91a2cdd9a7c9b4faee2c25ffc08964811eef241d67ee9a0e69",
+      "native_bounds": [
+        3696,
+        550,
+        5696,
+        850
+      ],
+      "dimensions": [
+        2000,
+        300
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/band-x0000-y0750.png",
+      "sha256": "8d644013aa8d8f4005b9bb28ba8a5f2e998c476c5cf50e62426649c83fb10dfb",
+      "pdf_page": 11,
+      "bdrc_image": 13,
+      "source_member": "0013.png",
+      "source_member_sha256": "ed0fc1f9b0c2ef91a2cdd9a7c9b4faee2c25ffc08964811eef241d67ee9a0e69",
+      "native_bounds": [
+        0,
+        750,
+        2000,
+        1050
+      ],
+      "dimensions": [
+        2000,
+        300
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/band-x1900-y0750.png",
+      "sha256": "937e21778e758deaf2bd51799af9dd563bcc26867b9e17fbb5fbfc263c53b51b",
+      "pdf_page": 11,
+      "bdrc_image": 13,
+      "source_member": "0013.png",
+      "source_member_sha256": "ed0fc1f9b0c2ef91a2cdd9a7c9b4faee2c25ffc08964811eef241d67ee9a0e69",
+      "native_bounds": [
+        1900,
+        750,
+        3900,
+        1050
+      ],
+      "dimensions": [
+        2000,
+        300
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/band-x3696-y0750.png",
+      "sha256": "1c57212bc2cb178933c90e2894987b5d88232ab07c127e15f34900defe3860c0",
+      "pdf_page": 11,
+      "bdrc_image": 13,
+      "source_member": "0013.png",
+      "source_member_sha256": "ed0fc1f9b0c2ef91a2cdd9a7c9b4faee2c25ffc08964811eef241d67ee9a0e69",
+      "native_bounds": [
+        3696,
+        750,
+        5696,
+        1050
+      ],
+      "dimensions": [
+        2000,
+        300
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/band-x0000-y0950.png",
+      "sha256": "8173ab1b01478ab9be9a7fa7f899661afa8bf4b1180528e506e25214365c253a",
+      "pdf_page": 11,
+      "bdrc_image": 13,
+      "source_member": "0013.png",
+      "source_member_sha256": "ed0fc1f9b0c2ef91a2cdd9a7c9b4faee2c25ffc08964811eef241d67ee9a0e69",
+      "native_bounds": [
+        0,
+        950,
+        2000,
+        1250
+      ],
+      "dimensions": [
+        2000,
+        300
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/band-x1900-y0950.png",
+      "sha256": "89e22d80bf5f2b98c50b195c0506b82b68157041640e342951e9256041b2c420",
+      "pdf_page": 11,
+      "bdrc_image": 13,
+      "source_member": "0013.png",
+      "source_member_sha256": "ed0fc1f9b0c2ef91a2cdd9a7c9b4faee2c25ffc08964811eef241d67ee9a0e69",
+      "native_bounds": [
+        1900,
+        950,
+        3900,
+        1250
+      ],
+      "dimensions": [
+        2000,
+        300
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/band-x3696-y0950.png",
+      "sha256": "8b4551e5c2db7df7973bc66a6cecd88aa0843f6e12983aea645e84ec5d414e80",
+      "pdf_page": 11,
+      "bdrc_image": 13,
+      "source_member": "0013.png",
+      "source_member_sha256": "ed0fc1f9b0c2ef91a2cdd9a7c9b4faee2c25ffc08964811eef241d67ee9a0e69",
+      "native_bounds": [
+        3696,
+        950,
+        5696,
+        1250
+      ],
+      "dimensions": [
+        2000,
+        300
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/band-x0000-y1150.png",
+      "sha256": "63cfb72fd0a8ac6cf809acc1296fcc5ea926389584c0be04c3e9b18c7705f111",
+      "pdf_page": 11,
+      "bdrc_image": 13,
+      "source_member": "0013.png",
+      "source_member_sha256": "ed0fc1f9b0c2ef91a2cdd9a7c9b4faee2c25ffc08964811eef241d67ee9a0e69",
+      "native_bounds": [
+        0,
+        1150,
+        2000,
+        1344
+      ],
+      "dimensions": [
+        2000,
+        194
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/band-x1900-y1150.png",
+      "sha256": "50f2e7cfcb32744c6589b5236f68074554bec0df149258af6ed54e019c292ec2",
+      "pdf_page": 11,
+      "bdrc_image": 13,
+      "source_member": "0013.png",
+      "source_member_sha256": "ed0fc1f9b0c2ef91a2cdd9a7c9b4faee2c25ffc08964811eef241d67ee9a0e69",
+      "native_bounds": [
+        1900,
+        1150,
+        3900,
+        1344
+      ],
+      "dimensions": [
+        2000,
+        194
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/band-x3696-y1150.png",
+      "sha256": "96eaa6dd7aacfbe4e70eaad28df61dfc146ca96d978b45e02d172300468567d5",
+      "pdf_page": 11,
+      "bdrc_image": 13,
+      "source_member": "0013.png",
+      "source_member_sha256": "ed0fc1f9b0c2ef91a2cdd9a7c9b4faee2c25ffc08964811eef241d67ee9a0e69",
+      "native_bounds": [
+        3696,
+        1150,
+        5696,
+        1344
+      ],
+      "dimensions": [
+        2000,
+        194
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/left-edge-rotated90.png",
+      "sha256": "c4ad1ca915e22fccbff4b83b171d14de42358225f3eccb6a0a6914264b69e785",
+      "pdf_page": 11,
+      "source_member": "0013.png",
+      "native_bounds": [
+        0,
+        0,
+        900,
+        1344
+      ],
+      "derivation": "Lossless 90-degree counterclockwise rotation of native left edge; not automatically all marginal text"
+    }
+  ],
+  "request_path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B10-P0011-reader-request.txt",
+  "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B10-P0011-reader"
+}

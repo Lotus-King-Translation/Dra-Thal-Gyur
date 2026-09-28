@@ -5054,6 +5054,71 @@
         },
         "proposals_adopted": false
       }
+    },
+    {
+      "batch_id": "B04-P0006",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-TINGKYE-B04-P0006-reader",
+      "baseline_commit": "07f658e3c831f86f50841e4bb9587472eaa194a6",
+      "scope": "Read TINGKYE PDF6 all seven main rows, source layers, compound punctuation and margins. Adjacent pages are context only. Read the actual incoming/outgoing words from the supplied flanks and align by observed wording, never by numerical proportions. Every local difference needs exact source and reference spans, confidence and two visible flanks for any absence. A small base heading absent from the local main sequence is not a missing main verse. Keep individual unread glyphs bounded and continue the other rows.",
+      "target_page": 6,
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B04-P0006-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
+    },
+    {
+      "batch_id": "B05-P0007",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-TINGKYE-B05-P0007-reader",
+      "baseline_commit": "07f658e3c831f86f50841e4bb9587472eaa194a6",
+      "scope": "Read TINGKYE PDF7 all seven main rows, source layers, compound punctuation and margins. Adjacent pages are context only. Read the actual incoming/outgoing words from the supplied flanks and align by observed wording, never by numerical proportions. Every local difference needs exact source and reference spans, confidence and two visible flanks for any absence. A small base heading absent from the local main sequence is not a missing main verse. Keep individual unread glyphs bounded and continue the other rows.",
+      "target_page": 7,
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B05-P0007-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
+    },
+    {
+      "batch_id": "B06-P0008",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-TINGKYE-B06-P0008-reader",
+      "baseline_commit": "07f658e3c831f86f50841e4bb9587472eaa194a6",
+      "scope": "Read TINGKYE PDF8 all seven main rows, source layers, compound punctuation and margins. Adjacent pages are context only. Read the actual incoming/outgoing words from the supplied flanks and align by observed wording, never by numerical proportions. Every local difference needs exact source and reference spans, confidence and two visible flanks for any absence. A small base heading absent from the local main sequence is not a missing main verse. Keep individual unread glyphs bounded and continue the other rows.",
+      "target_page": 8,
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B06-P0008-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
+    },
+    {
+      "batch_id": "B07-P0009",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-TINGKYE-B07-P0009-reader",
+      "baseline_commit": "07f658e3c831f86f50841e4bb9587472eaa194a6",
+      "scope": "Read TINGKYE PDF9 all seven main rows, source layers, compound punctuation and margins. Adjacent pages are context only. Read the actual incoming/outgoing words from the supplied flanks and align by observed wording, never by numerical proportions. Every local difference needs exact source and reference spans, confidence and two visible flanks for any absence. A small base heading absent from the local main sequence is not a missing main verse. Keep individual unread glyphs bounded and continue the other rows.",
+      "target_page": 9,
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B07-P0009-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
+    },
+    {
+      "batch_id": "B08-P0010",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-TINGKYE-B08-P0010-reader",
+      "baseline_commit": "07f658e3c831f86f50841e4bb9587472eaa194a6",
+      "scope": "Read TINGKYE PDF10 all seven main rows, source layers, compound punctuation and margins. Adjacent pages are context only. Read the actual incoming/outgoing words from the supplied flanks and align by observed wording, never by numerical proportions. Every local difference needs exact source and reference spans, confidence and two visible flanks for any absence. A small base heading absent from the local main sequence is not a missing main verse. Keep individual unread glyphs bounded and continue the other rows.",
+      "target_page": 10,
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B08-P0010-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
     }
   ],
   "remaining_declared_scope": "PDF3 local uncertainties/signs/margins; PDF4 rows4-7 and listed questions; PDF5 all; PDF6 outside U180-184 junction; PDF7 all; remainder of declared witness coverage unchanged.",
@@ -5111,5 +5176,5 @@
   "prior_material_limits": "Archived61-69 commands and the retained 176-finding summary are hypotheses/provenance, not a recovered continuous body or new scan agreement. No archived script was executed. Current PDF6 junction review supersedes the old U183/U184 absence and U182 nas-addition claims. Earlier opening and boundary records remain partial.",
   "current_batch_id": "B02-P0004-R4-R7",
   "next_physical_span": "PDF5 row1, U00127 outgoing join and U00128 onward; PDF4 targeted glyph and marginal questions remain visible.",
-  "current_wave_id": "CONTINUE2-W02"
+  "current_wave_id": "CONTINUE2-W03"
 }

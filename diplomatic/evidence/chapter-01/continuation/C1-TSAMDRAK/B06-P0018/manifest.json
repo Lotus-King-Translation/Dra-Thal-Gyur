@@ -1,0 +1,257 @@
+{
+  "schema_version": 1,
+  "task_id": "C1-TSAMDRAK",
+  "batch_id": "B06-P0018",
+  "baseline_commit": "07f658e3c831f86f50841e4bb9587472eaa194a6",
+  "edition": "tsamdrak-1982",
+  "generator": {
+    "path": "diplomatic/tools/prepare_native_packet.py",
+    "sha256": "6b7142a8d55c61eaa25b3403391ec2b69658df5d377f1531dbd2d99315db752c",
+    "pillow_version": "12.3.0"
+  },
+  "requested_pdf_pages": [
+    17,
+    18,
+    19
+  ],
+  "source_assets": [
+    {
+      "path": "editions/tsamdrak-1982/sgra-thal-gyur.pdf",
+      "sha256": "a35e69ef7543683f1a862602750d066a735b140729d19c682287d5d63a641292",
+      "bytes": 14570439
+    },
+    {
+      "path": "editions/tsamdrak-1982/original-images.zip",
+      "sha256": "04800613525c2504199ae5703da0f0b17588d57ccbe11e9a730650218e9d778e",
+      "bytes": 14499981
+    }
+  ],
+  "source_manifest_sha256": "fa953f7f7367cc41cbde1c3a1b2e76819f6b0f1abb440be4e99729a9cdef6a02",
+  "status": "ready_for_visual_review_not_collated",
+  "pages": [
+    {
+      "pdf_page": 17,
+      "bdrc_image": 20,
+      "source_member": "0020.png",
+      "source_member_sha256": "54011eda797f3047db1f59e1581e31a6017ff4c3e1b544ffd8a8bccf63221f48",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p017-native.png",
+      "sha256": "54011eda797f3047db1f59e1581e31a6017ff4c3e1b544ffd8a8bccf63221f48",
+      "dimensions": [
+        4352,
+        1042
+      ]
+    },
+    {
+      "pdf_page": 18,
+      "bdrc_image": 21,
+      "source_member": "0021.png",
+      "source_member_sha256": "ca68c6f0298fea2ec81ac6670a036a44e787fae70f5b6f2a73d7849d83f764ed",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-native.png",
+      "sha256": "ca68c6f0298fea2ec81ac6670a036a44e787fae70f5b6f2a73d7849d83f764ed",
+      "dimensions": [
+        4344,
+        1040
+      ]
+    },
+    {
+      "pdf_page": 19,
+      "bdrc_image": 22,
+      "source_member": "0022.png",
+      "source_member_sha256": "ed822822f1dc6ec1add5dd42fa1d911b543b0c424784fb8f3c76b4b0176e9901",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p019-native.png",
+      "sha256": "ed822822f1dc6ec1add5dd42fa1d911b543b0c424784fb8f3c76b4b0176e9901",
+      "dimensions": [
+        4344,
+        1040
+      ]
+    }
+  ],
+  "views": [
+    {
+      "pdf_page": 17,
+      "bdrc_image": 20,
+      "source_member": "0020.png",
+      "source_member_sha256": "54011eda797f3047db1f59e1581e31a6017ff4c3e1b544ffd8a8bccf63221f48",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p017-x0000-y0000.png",
+      "sha256": "024c57229b96e8cba7d283c4045f957ab0985daefd4d07354813c048d6e7563a",
+      "native_bounds": [
+        0,
+        0,
+        2000,
+        1042
+      ],
+      "dimensions": [
+        2000,
+        1042
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 17,
+      "bdrc_image": 20,
+      "source_member": "0020.png",
+      "source_member_sha256": "54011eda797f3047db1f59e1581e31a6017ff4c3e1b544ffd8a8bccf63221f48",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p017-x1900-y0000.png",
+      "sha256": "6c3deb96d22beaa57d3284c94c1fba014f30f12ab38158807481513bc559fd0a",
+      "native_bounds": [
+        1900,
+        0,
+        3900,
+        1042
+      ],
+      "dimensions": [
+        2000,
+        1042
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 17,
+      "bdrc_image": 20,
+      "source_member": "0020.png",
+      "source_member_sha256": "54011eda797f3047db1f59e1581e31a6017ff4c3e1b544ffd8a8bccf63221f48",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p017-x2352-y0000.png",
+      "sha256": "d91d503e61acdcdd7304f3850ec31fe30eea143e3352c40e6306c7ff6fc93c6d",
+      "native_bounds": [
+        2352,
+        0,
+        4352,
+        1042
+      ],
+      "dimensions": [
+        2000,
+        1042
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 18,
+      "bdrc_image": 21,
+      "source_member": "0021.png",
+      "source_member_sha256": "ca68c6f0298fea2ec81ac6670a036a44e787fae70f5b6f2a73d7849d83f764ed",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x0000-y0000.png",
+      "sha256": "533322eddb0b80306c8d531617df2af7a5a79674dcc63a11d4484d2fe4df99d6",
+      "native_bounds": [
+        0,
+        0,
+        2000,
+        1040
+      ],
+      "dimensions": [
+        2000,
+        1040
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 18,
+      "bdrc_image": 21,
+      "source_member": "0021.png",
+      "source_member_sha256": "ca68c6f0298fea2ec81ac6670a036a44e787fae70f5b6f2a73d7849d83f764ed",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x1900-y0000.png",
+      "sha256": "c52e0aca250c4b940f31098ee477f4821d99e2c3073e0c7424371619605ad6be",
+      "native_bounds": [
+        1900,
+        0,
+        3900,
+        1040
+      ],
+      "dimensions": [
+        2000,
+        1040
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 18,
+      "bdrc_image": 21,
+      "source_member": "0021.png",
+      "source_member_sha256": "ca68c6f0298fea2ec81ac6670a036a44e787fae70f5b6f2a73d7849d83f764ed",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x2344-y0000.png",
+      "sha256": "c49823df461df5f027caea97ee836ce8bd7c905eda50c936c2a12af68cd09095",
+      "native_bounds": [
+        2344,
+        0,
+        4344,
+        1040
+      ],
+      "dimensions": [
+        2000,
+        1040
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 19,
+      "bdrc_image": 22,
+      "source_member": "0022.png",
+      "source_member_sha256": "ed822822f1dc6ec1add5dd42fa1d911b543b0c424784fb8f3c76b4b0176e9901",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p019-x0000-y0000.png",
+      "sha256": "3609f8649abbf29486bc276683859909517fbf04f1092135a3df87a1aed19b95",
+      "native_bounds": [
+        0,
+        0,
+        2000,
+        1040
+      ],
+      "dimensions": [
+        2000,
+        1040
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 19,
+      "bdrc_image": 22,
+      "source_member": "0022.png",
+      "source_member_sha256": "ed822822f1dc6ec1add5dd42fa1d911b543b0c424784fb8f3c76b4b0176e9901",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p019-x1900-y0000.png",
+      "sha256": "e7ca6cc936f9d04b99e72cc42ae0a18c84216a7584dc3a90c075d511fa0431a9",
+      "native_bounds": [
+        1900,
+        0,
+        3900,
+        1040
+      ],
+      "dimensions": [
+        2000,
+        1040
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 19,
+      "bdrc_image": 22,
+      "source_member": "0022.png",
+      "source_member_sha256": "ed822822f1dc6ec1add5dd42fa1d911b543b0c424784fb8f3c76b4b0176e9901",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p019-x2344-y0000.png",
+      "sha256": "fd44af9ce2375978b5d4581542a25591b6d279a4197a7feedb5b51a00429e13e",
+      "native_bounds": [
+        2344,
+        0,
+        4344,
+        1040
+      ],
+      "dimensions": [
+        2000,
+        1040
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    }
+  ],
+  "coordinates": "Zero-based half-open native raster pixels",
+  "reading_claim": "None: hashes and tiles do not establish glyphs",
+  "base_reference": {
+    "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/base-reference.json",
+    "sha256": "17247042a513068b7353488d442d5432566c8f13ff3a8cf4a4a418ee2473abed"
+  }
+}
