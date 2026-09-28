@@ -30,5 +30,77 @@
   },
   "observations": [],
   "canonical_record_ids": [],
-  "next_step": "Inspect native members 0084.png, 0087.png, 0098.png and 0099.png; preserve context, target crops and first-reader findings incrementally."
+  "next_step": "Inspect native members 0084.png, 0087.png, 0098.png and 0099.png; preserve context, target crops and first-reader findings incrementally.",
+  "evidence_paths_and_hashes": [
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p081-native.png",
+      "sha256": "bc6cef50f76c7152083dccda4ef3176c4b578d5f75ec1023a9099f6523eab01d",
+      "source_member": "0083.png",
+      "pdf_page": 81,
+      "bdrc_image": 83,
+      "dimensions": [
+        5696,
+        1344
+      ],
+      "visual_inspection": "full-page overview inspected; only target-region reading in scope"
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p082-native.png",
+      "sha256": "f35351ea5b0b4e6e1f14ed6aa71e8a9969c6e8a2386bed45d16050e209addd91",
+      "source_member": "0084.png",
+      "pdf_page": 82,
+      "bdrc_image": 84,
+      "dimensions": [
+        5696,
+        1344
+      ],
+      "visual_inspection": "full-page overview inspected; only target-region reading in scope"
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p085-native.png",
+      "sha256": "556b67acc769b5dcba4b60ee42a3be1b7c1201eac8d5ff9ac5d94c4727e125f7",
+      "source_member": "0087.png",
+      "pdf_page": 85,
+      "bdrc_image": 87,
+      "dimensions": [
+        5696,
+        1344
+      ],
+      "visual_inspection": "full-page overview inspected; only target-region reading in scope"
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p096-native.png",
+      "sha256": "11a98728e5974979f0f27349daf143e5ae935e621d50ae2f9491bffbddbb27de",
+      "source_member": "0098.png",
+      "pdf_page": 96,
+      "bdrc_image": 98,
+      "dimensions": [
+        5696,
+        1344
+      ],
+      "visual_inspection": "full-page overview inspected; only target-region reading in scope"
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p097-native.png",
+      "sha256": "34c91dd83af8287f7caa6de5b5afb924069578a6f16f8804532f0328a1b9af29",
+      "source_member": "0099.png",
+      "pdf_page": 97,
+      "bdrc_image": 99,
+      "dimensions": [
+        5696,
+        1344
+      ],
+      "visual_inspection": "full-page overview inspected; only target-region reading in scope"
+    }
+  ],
+  "verified_prior_checkpoints": [
+    {
+      "commit": "229c2501e7deb05253ab0e6083e542b53d462eca",
+      "scope": "claim and source-hash setup",
+      "remote": "origin/main"
+    }
+  ],
+  "crop_manifest": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/crop-manifest.json",
+  "historical_crop_audit": "All six preserved candidate/context crops hash-match the archived manifest and pixel-match their stated native bounds. This is not verification of anchor labels.",
+  "preliminary_locator_note": "U02090 crosses PDF81 row6 to PDF82 row1. U02489 main text is at PDF96 row6; its separately transcribed reply heading is at PDF97 row1. Exact signs and correspondence still under review."
 }
