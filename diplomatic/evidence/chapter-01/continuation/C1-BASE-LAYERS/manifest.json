@@ -1,0 +1,40 @@
+{
+  "task_id": "C1-BASE-LAYERS",
+  "source_pdf": {
+    "path": "editions/adzom-2000/sgra-thal-gyur.pdf",
+    "sha256": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343"
+  },
+  "source_archive": {
+    "path": "editions/adzom-2000/original-images.zip",
+    "sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb"
+  },
+  "source_manifest": "editions/adzom-2000/image-manifest.json",
+  "coordinates": "Zero-based half-open native pixel bounds, no image enhancement unless explicitly noted",
+  "pages": [
+    {
+      "pdf_page": 74,
+      "bdrc_image": 76,
+      "source_member": "0076.png",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p074-native.png",
+      "sha256": "7fd84380e02c0b8c140fa3537b968fc5e36f49d96a37be4060d2ad210d5f57fd",
+      "dimensions": [
+        5696,
+        1344
+      ],
+      "status": "source_verified_not_yet_visually_reviewed"
+    },
+    {
+      "pdf_page": 78,
+      "bdrc_image": 80,
+      "source_member": "0080.png",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-LAYERS/p078-native.png",
+      "sha256": "1dc6b068f740945cc47af3639bb86c987c66b68b61c83b194eedf6ea32d38752",
+      "dimensions": [
+        5696,
+        1344
+      ],
+      "status": "source_verified_not_yet_visually_reviewed"
+    }
+  ],
+  "crops": []
+}

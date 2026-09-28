@@ -383,8 +383,8 @@
     {
       "id": "C1-BASE-LAYERS",
       "kind": "base_layers",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "ChatGPT-coordinator-20260928-resume3",
       "depends_on": [
         "C1-SIGNS-06"
       ],
@@ -411,10 +411,14 @@
       "completion_criteria": [
         "Apply every coverage_review criterion to the full stated scope; retain exact remaining spans until completed."
       ],
-      "report_paths": [],
-      "checkpoint_commit": null,
+      "report_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-BASE-LAYERS.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-BASE-LAYERS.md"
+      ],
+      "checkpoint_commit": "39b09f6f090cc3e98f478941ef69f38b41a75cbd",
       "blocker": null,
-      "dependency_policy": "preferred_order"
+      "dependency_policy": "preferred_order",
+      "current_batch_id": "C1-BASE-LAYERS-B01"
     },
     {
       "id": "C1-BASE-UNCERTAINTIES",
