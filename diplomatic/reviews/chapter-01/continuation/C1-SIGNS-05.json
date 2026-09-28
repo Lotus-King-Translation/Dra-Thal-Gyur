@@ -2,7 +2,7 @@
   "task_id": "C1-SIGNS-05",
   "baseline_commit": "e406ce80e600574ffdb7b136274fa42325db0209",
   "reader": "independent-reader-C1-SIGNS-05-20260928",
-  "status": "partial_blocked",
+  "status": "resumed_single_boundary_in_progress",
   "source_paths_and_hashes": {
     "editions/adzom-2000/sgra-thal-gyur.pdf": "15b6279d4e12ce738161a18979ad11907da4398dcee1fc5de4a3b1b595ef1343",
     "editions/adzom-2000/original-images.zip": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb"
@@ -504,6 +504,47 @@
           "effect_on_prior_finding": "Corrects the earlier conflation: boundary correspondence is established, while complete lexical reading remains unestablished. The two-shad finding is unchanged. This is the same reader's follow-up, not another corroborating vote."
         },
         "integration_status": "preserved; current coordinator review not yet performed"
+      },
+      "coordinator_restart_review": {
+        "reader": "ChatGPT-coordinator-20260928-resume3",
+        "baseline_commit": "080113ce3aa18413f3ff7036747019112eec7960",
+        "physical_locator": {
+          "pdf_page": 61,
+          "bdrc_image": 63,
+          "source_member": "0063.png",
+          "row": 6
+        },
+        "images_actually_inspected": [
+          "p061-native.png",
+          "p061-row6-left-U01557.png",
+          "p061-row5-right-U01556.png",
+          "U01557-terminal-boundary.png",
+          "U01557-initial-heading-unresolved.png"
+        ],
+        "observed_context": {
+          "preceding_row5": "དེས་ན་རླུང་གིས་ལས་ཀུན",
+          "row6_pre_heading": "Faint preceding main continuation not transcribed in this review",
+          "heading_readable_ending": "སོ་གསུམ་པ",
+          "heading_initial_letters": "Reader-unresolved; do not supply from the electronic heading",
+          "following_main": "ལུས་ཀྱི་གནད་ནི་རྩ་ཡིན་ཏེ"
+        },
+        "physical_correspondence": true,
+        "detached_boundary_shads": 2,
+        "letter_segmentation": "Final pa has a connected right limb. A separate narrow vertical follows it; another detached upright precedes lus. Bottom frame and row5 fill dots are excluded.",
+        "proposed_punctuation_reading": "དྲིས་ལན་སོ་གསུམ་པ། །",
+        "status": "provisional_pending_integration",
+        "independent_support": "Recovered same-reader follow-up establishes physical identity and confirms both detached shads; it does not certify the faint initial heading letters.",
+        "remaining_uncertainty": {
+          "source_member": "0063.png",
+          "bounds": [
+            905,
+            865,
+            1120,
+            1010
+          ],
+          "description": "Initial small-heading glyphs before the legible so gsum pa remain reader-unresolved",
+          "required_visible_disposition": "Retain initial electronic letters provisionally with an explicit uncertain-print marker and evidence link; carry this separate lexical question to C1-BASE-PHYSICAL."
+        }
       }
     },
     {
@@ -677,6 +718,13 @@
       "preservation_branch": "recovery/20260928-interruption-120821",
       "prior_status": "partial_blocked",
       "scope": "Recover follow-up, distinguish boundary identity from complete lexical reading; no canonical edit in this restart checkpoint."
+    },
+    {
+      "coordinator": "ChatGPT-coordinator-20260928-resume3",
+      "baseline_commit": "080113ce3aa18413f3ff7036747019112eec7960",
+      "prior_owner": "independent-reader-C1-SIGNS-05-20260928",
+      "scope": "Only U01557 terminal punctuation; four prior adopted candidates remain unchanged. The recovered follow-up is used, not restarted.",
+      "status": "Claimed and first current native-reading report saved"
     }
   ]
 }

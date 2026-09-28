@@ -277,7 +277,7 @@
         "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04-U01239-followup-reading.txt",
         "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-04-U01239-restart-reading.txt"
       ],
-      "checkpoint_commit": "f635311376e8aa3072cf56ecbb72bb24138185ea",
+      "checkpoint_commit": "080113ce3aa18413f3ff7036747019112eec7960",
       "blocker": {
         "reason": "Terminal angular components in native member0051.png, approximately [4853,781,4947,887], do not securely establish the complete electronic gnyis pa ending. Two detached shads follow; their count is no longer the blocker.",
         "next_step": "Seek a more decisive reading of the bounded final angular letter(s) from better source detail or securely discriminated same-print letter forms. Do not repeat counts or silently supply pa; retain this exact unresolved span in the completion gate."
@@ -289,8 +289,8 @@
     {
       "id": "C1-SIGNS-05",
       "kind": "punctuation_batch",
-      "status": "blocked",
-      "owner": "independent-reader-C1-SIGNS-05-20260928",
+      "status": "in_progress",
+      "owner": "ChatGPT-coordinator-20260928-resume3",
       "depends_on": [
         "C1-SIGNS-04"
       ],
@@ -326,12 +326,14 @@
         "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-05-U01557-followup-reading.txt"
       ],
       "checkpoint_commit": "f635311376e8aa3072cf56ecbb72bb24138185ea",
-      "blocker": {
+      "blocker": null,
+      "dependency_policy": "preferred_order",
+      "parallel_dispatch_note": "One distinct five-candidate packet per reader; source parent fixed; coordinator alone adopts and publishes after all readers pause. Dependencies remain mandatory only at completion gate.",
+      "prior_blocker_at_resume": {
         "reason": "Unresolved native correspondence or glyph segmentation at U01557",
         "next_step": "Use the saved exact context and independent obstacle; resolve or explicitly retain the blocked candidate before closing this batch."
       },
-      "dependency_policy": "preferred_order",
-      "parallel_dispatch_note": "One distinct five-candidate packet per reader; source parent fixed; coordinator alone adopts and publishes after all readers pause. Dependencies remain mandatory only at completion gate."
+      "resume_scope": "Only U01557 terminal punctuation; its faint initial heading letters remain a distinct uncertainty."
     },
     {
       "id": "C1-SIGNS-06",
@@ -1523,8 +1525,8 @@
       "id": "C1-SIGN-U01557",
       "anchor": "U01557",
       "batch_id": "C1-SIGNS-05",
-      "status": "blocked",
-      "owner": "independent-reader-C1-SIGNS-05-20260928",
+      "status": "in_progress",
+      "owner": "ChatGPT-coordinator-20260928-resume3",
       "disposition": "unresolved",
       "historical_record": {
         "path": "diplomatic/collation/chapter-01/recovered-base-signs.json",
@@ -1541,7 +1543,8 @@
         "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/p061-row6-left-U01557.png"
       ],
       "canonical_record_ids": [],
-      "blocker": {
+      "blocker": null,
+      "prior_blocker_at_resume": {
         "reason": "The complete heading cannot be independently confirmed from the faint opening. The supplied electronic wording is retained only as the existing reading.",
         "next_step": "Verify the faint opening from an authorized alternative image before confirming full correspondence; preserve the two visible boundary shads meanwhile."
       }

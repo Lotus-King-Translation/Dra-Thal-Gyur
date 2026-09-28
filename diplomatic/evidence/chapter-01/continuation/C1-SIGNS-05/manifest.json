@@ -438,6 +438,54 @@
         1075
       ],
       "derivation": "Exact unscaled native target/context crop; no enhancement."
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/U01557-initial-heading-unresolved.png",
+      "pdf_page": 61,
+      "bdrc_image": 63,
+      "source_member": "0063.png",
+      "source_member_sha256": "1f190b4cdce61b6787c65c6d80a6743f73fe61aeebf2e16335cdd49102643203",
+      "sha256": "6112b58a2a1ad193cb05bbeb11cc6d8bfee053418199dc278a965fab7a6206b8",
+      "dimensions": [
+        5696,
+        1344
+      ],
+      "bounds": [
+        905,
+        865,
+        1120,
+        1010
+      ],
+      "crop_dimensions": [
+        215,
+        145
+      ],
+      "derivation": "Exact unscaled native crop; no enhancement",
+      "role": "Unresolved initial heading glyphs; not supplied from transcript"
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/U01557-terminal-boundary.png",
+      "pdf_page": 61,
+      "bdrc_image": 63,
+      "source_member": "0063.png",
+      "source_member_sha256": "1f190b4cdce61b6787c65c6d80a6743f73fe61aeebf2e16335cdd49102643203",
+      "sha256": "324b8800429a9c60f2c62e806b82736c147d64b1fc1089b678d3bb496e68a507",
+      "dimensions": [
+        5696,
+        1344
+      ],
+      "bounds": [
+        1280,
+        855,
+        1550,
+        1030
+      ],
+      "crop_dimensions": [
+        270,
+        175
+      ],
+      "derivation": "Exact unscaled native crop; no enhancement",
+      "role": "Visible final pa, detached small-heading shad and next-leading shad"
     }
   ]
 }
