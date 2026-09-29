@@ -3392,6 +3392,768 @@
       },
       "next_physical_span": "Next genuinely missing Tingkye page is PDF11, row1 U00348 continuation པ་དང་གཞུང་གིས་ཀྱང, then རིམ་དང་ཅིག་ཆར. Retain the page10 Q/QT and marginal questions.",
       "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-TSAMDRAK",
+      "batch_id": "B04-P0016",
+      "target_page": 16,
+      "report": "reviews/chapter-01/continuation/C1-TSAMDRAK.json",
+      "summary": "Tsamdrak PDF16: U00419–U00451 source traversal includes a distinct additional main verse across rows3–4 between U00432 and U00433. The repeated mngon-shes wording is retained, not treated as a duplicated crop.",
+      "rows_reported": 7,
+      "canonical_record_ids": [
+        "TS-CONT2-P016-O02",
+        "TS-CONT2-P016-O03",
+        "TS-CONT2-P016-O04",
+        "TS-CONT2-P016-O05",
+        "TS-CONT2-P016-O06",
+        "TS-CONT2-P016-O07",
+        "TS-CONT2-P016-O08",
+        "TS-CONT2-P016-O09",
+        "TS-CONT2-P016-O10",
+        "TS-CONT2-P016-O11",
+        "TS-CONT2-P016-O12",
+        "TS-CONT2-P016-O13",
+        "TS-CONT2-P016-O14",
+        "TS-CONT2-P016-O15",
+        "TS-CONT2-P016-O16",
+        "TS-CONT2-P016-O17",
+        "TS-CONT2-P016-O18"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "target_rows_inspected": [
+          "R1",
+          "R2",
+          "R3",
+          "R4",
+          "R5",
+          "R6",
+          "R7"
+        ],
+        "main_text_inspection": "All seven rows followed left to right; unresolved clusters did not halt later-row inspection.",
+        "complete_base_units_present": "U00419–U00450",
+        "partial_base_unit_present": "U00451",
+        "additional_unaligned_main_components": [
+          "ADD01: མངོན་ཤེས་དྲུག་ནི་ཤེས་པ་དང"
+        ],
+        "non_main_components_inventoried": [
+          "O01",
+          "S00",
+          "S01",
+          "M01",
+          "M02",
+          "M03",
+          "F01",
+          "F02",
+          "X01"
+        ],
+        "source_order": "Matched anchors remain in increasing order; no transposition established within this page.",
+        "omission_status": "No complete base unit between U00419 and U00450 is absent; the possible མ issue within U00430 remains unresolved.",
+        "boundary_inventory": "B01–B33 each inventoried once; references in transcriptions do not represent additional signs.",
+        "completion": "Full target-page inspection with bounded unresolved readings and graphic questions; not a fully resolved transcription or punctuation certification.",
+        "certification_scope": "No whole-chapter certification."
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q01",
+          "scope": "U00427 final syllable, R2",
+          "bounds": [
+            3380,
+            325,
+            3555,
+            465
+          ],
+          "question": "Is a separate suffix ས present after the securely read གསུང?",
+          "disposition": "Retain གསུང⟦Q01⟧; no variant adopted for this suffix."
+        },
+        {
+          "id": "Q02",
+          "scope": "U00430, between འགྲོ་ and རྣམས་",
+          "bounds": [
+            1860,
+            420,
+            2070,
+            565
+          ],
+          "question": "Does the compact run contain an independent མ་, or do the apparent strokes belong to the adjacent stacks?",
+          "disposition": "Retain bounded marker; do not supply or omit མ from the base."
+        },
+        {
+          "id": "Q03",
+          "scope": "B29 after U00446 ཅན",
+          "bounds": [
+            3810,
+            710,
+            3870,
+            850
+          ],
+          "question": "How many detached punctuation strokes can be separated from the inner right rule?",
+          "disposition": "GF; no normalized double shad."
+        },
+        {
+          "id": "Q04",
+          "scope": "M01 left-margin single graph",
+          "bounds": [
+            355,
+            465,
+            435,
+            515
+          ],
+          "question": "Tentative ཀ; exact graph identification remains uncertain.",
+          "disposition": "Keep outside main text."
+        },
+        {
+          "id": "Q05",
+          "scope": "M02 lower left-margin entry",
+          "bounds": [
+            365,
+            635,
+            438,
+            748
+          ],
+          "question": "Tentative དགུ; confirm both graphs without deriving them from page numbering.",
+          "disposition": "Provisional marginal reading."
+        },
+        {
+          "id": "Q06",
+          "scope": "Terminal points immediately before B08, B10, B11, B14, B15, B18, B20 and B33",
+          "locations": [
+            {
+              "boundary": "B08",
+              "after": "U00426 ཡང"
+            },
+            {
+              "boundary": "B10",
+              "after": "U00428 དང"
+            },
+            {
+              "boundary": "B11",
+              "after": "U00429 དང"
+            },
+            {
+              "boundary": "B14",
+              "after": "U00432 དང"
+            },
+            {
+              "boundary": "B15",
+              "after": "ADD01 དང"
+            },
+            {
+              "boundary": "B18",
+              "after": "U00435 དང"
+            },
+            {
+              "boundary": "B20",
+              "after": "U00437 ཡང"
+            },
+            {
+              "boundary": "B33",
+              "after": "U00450 ཡང"
+            }
+          ],
+          "question": "A terminal tsheg cannot be securely distinguished from nearby letter-head or boundary ink at these particular locations.",
+          "disposition": "Boundary pairs are inventoried, but terminal-point presence remains unresolved; use the corresponding sign bounds."
+        }
+      ],
+      "unexamined_spans": [],
+      "next_physical_span": "Integrate the saved PDF17 report; keep every present-page glyph and graphic question explicit.",
+      "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-TSAMDRAK",
+      "batch_id": "B05-P0017",
+      "target_page": 17,
+      "report": "reviews/chapter-01/continuation/C1-TSAMDRAK.json",
+      "summary": "Tsamdrak PDF17: incoming སྤྲོ completes U00451 and is a word, not an ornament. Seven source rows reach U00484 opening; finer/smaller row6 lettering remains main-text position, with no chronology inferred.",
+      "rows_reported": 7,
+      "canonical_record_ids": [
+        "TS-CONT2-T17-O02",
+        "TS-CONT2-T17-O03",
+        "TS-CONT2-T17-O04",
+        "TS-CONT2-T17-O05",
+        "TS-CONT2-T17-O06",
+        "TS-CONT2-T17-O07",
+        "TS-CONT2-T17-O09",
+        "TS-CONT2-B05-Q01",
+        "TS-CONT2-B05-Q02",
+        "TS-CONT2-B05-Q03",
+        "TS-CONT2-B05-Q04",
+        "TS-CONT2-B05-Q06",
+        "TS-CONT2-B05-Q07",
+        "TS-CONT2-B05-Q08"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "target_overview_inspected_first": true,
+        "all_seven_target_rows_followed_left_to_right": true,
+        "target_margins_and_frames_inspected": true,
+        "scope_unexamined": false,
+        "exact_glyph_transcription_complete": false,
+        "bounded_outstanding_questions": 9,
+        "anchor_order": "U00451 tail, U00452–U00483, U00484 opening; no intervening transposition identified.",
+        "unaligned_components": "Right-margin 18, frame structures and B26's unclassified graphic are recorded separately; no additional unaligned lexical passage identified.",
+        "flanks": "Seen for continuity, not fully transcribed or certified.",
+        "method": "Direct inspection of attached images; no tools, OCR, network or file access.",
+        "review_status": "Informed independent agent reading with the base reference supplied; neither blind review nor human palaeographic certification. No whole-chapter certification."
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q01",
+          "anchor": "U00457",
+          "bounds": [
+            1035,
+            250,
+            1215,
+            370
+          ],
+          "observed_context": "དབྱངས་⟦Q01⟧་གིས་ནི",
+          "question": "The cluster before གིས: གཅིག versus a pa-like component followed by ཅིག. Prefix identity and possible internal separator remain unresolved.",
+          "extent": "One cluster, potentially two syllables."
+        },
+        {
+          "id": "Q02",
+          "anchor": "U00459",
+          "bounds": [
+            2465,
+            280,
+            2625,
+            395
+          ],
+          "observed_context": "དབང་པོ་དྲུག་⟦Q02⟧རྣམ་དག་པས",
+          "question": "Whether a separate གི་ occurs between དྲུག and རྣམ; the crowded strokes do not support a firm presence or omission finding.",
+          "extent": "Possible intervening syllable only."
+        },
+        {
+          "id": "Q03",
+          "anchor": "U00461",
+          "bounds": [
+            875,
+            335,
+            1010,
+            460
+          ],
+          "observed_context": "སྐུ་ལས་འཕྲོ⟦Q03⟧",
+          "question": "Whether final ས is present after འཕྲོ.",
+          "extent": "Terminal suffix only."
+        },
+        {
+          "id": "Q04",
+          "anchor": "U00463",
+          "bounds": [
+            2280,
+            365,
+            2460,
+            490
+          ],
+          "observed_context": "ཆུ་རྒྱུན་འགག⟦Q04⟧",
+          "question": "Whether final ས is present after འགག.",
+          "extent": "Terminal suffix only."
+        },
+        {
+          "id": "Q05",
+          "anchor": "U00468",
+          "bounds": [
+            2395,
+            455,
+            2490,
+            590
+          ],
+          "observed_context": "ཐུན་མོང་⟦Q05⟧་དག་གིས",
+          "question": "Pa versus ba in the intervening syllable.",
+          "extent": "One syllable."
+        },
+        {
+          "id": "Q06",
+          "anchor": "U00473",
+          "bounds": [
+            2580,
+            565,
+            2730,
+            710
+          ],
+          "observed_context": "བརྗོད་མི་ལང⟦Q06⟧",
+          "question": "The visible core is ལང; presence of a final ས is not securely resolved.",
+          "extent": "Terminal suffix only."
+        },
+        {
+          "id": "Q07",
+          "anchor": "U00478",
+          "bounds": [
+            2560,
+            640,
+            2740,
+            790
+          ],
+          "observed_context": "བསྟན་⟦Q07⟧་དང",
+          "question": "Readings ཆོས and བཅོས remain distinguishable possibilities; the possible prefixed ba is not secure.",
+          "extent": "One syllable."
+        },
+        {
+          "id": "Q08",
+          "anchor": "U00480",
+          "bounds": [
+            3650,
+            660,
+            3830,
+            805
+          ],
+          "observed_context": "འཕོང⟦Q08⟧ / next row དང་མ་སྦྱངས",
+          "question": "Whether final ས follows the visible འཕོང before the physical row break.",
+          "extent": "Terminal suffix only."
+        },
+        {
+          "id": "Q09",
+          "anchor": "U00476/U00477 boundary",
+          "graphic_ref": "B26",
+          "bounds": [
+            1240,
+            630,
+            1330,
+            735
+          ],
+          "question": "Ownership of the upright immediately before the detached hook, and the hook's punctuation or annotation function.",
+          "extent": "Two adjacent graphic components; inventoried only under B26."
+        }
+      ],
+      "unexamined_spans": [],
+      "next_physical_span": "Integrate the saved PDF18 report; keep every present-page glyph and graphic question explicit.",
+      "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-TSAMDRAK",
+      "batch_id": "B06-P0018",
+      "target_page": 18,
+      "report": "reviews/chapter-01/continuation/C1-TSAMDRAK.json",
+      "summary": "Tsamdrak PDF18: U00484 ending through U00516 opening is integrated. Detached A01 at the U00492 heading position and A02–A07 are graphic evidence; their provisional numeral values are not expanded into full heading words.",
+      "rows_reported": 7,
+      "canonical_record_ids": [
+        "TS-CONT2-P18-02",
+        "TS-CONT2-P18-03",
+        "TS-CONT2-P18-04",
+        "TS-CONT2-P18-05",
+        "TS-CONT2-P18-06",
+        "TS-CONT2-P18-07",
+        "TS-CONT2-P18-08",
+        "TS-CONT2-P18-09",
+        "TS-CONT2-P18-10",
+        "TS-CONT2-P18-11",
+        "TS-CONT2-P18-12",
+        "TS-CONT2-P18-13",
+        "TS-CONT2-P18-14",
+        "TS-CONT2-B06-Q4"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "main_rows_traversed_left_to_right": 7,
+        "target_page_visually_inspected": "All seven main rows, margins, opening ornament, detached annotations, numerals and frame boundaries.",
+        "lexical_status": "Provisional source-ordered transcription; bounded unresolved spans Q1–Q6 retained.",
+        "graphic_status": "Boundary intervals inventoried; numeral values, specified terminal dots and two frame junctions remain unresolved. Exact punctuation certification is not claimed.",
+        "alignment_status": "Visible correspondence established from U00484 tail through U00516 opening; U00492 has positional graphic correspondence only.",
+        "unaligned_components": "O01, A01–A07, M01–M03 and frames retained separately; no additional lexical insertion asserted beyond the listed local readings.",
+        "certification": "No whole-chapter certification; no claim that repeated crops are independent evidence."
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q1",
+          "location": "R1/U00485, after དགོས",
+          "bounds": [
+            1450,
+            205,
+            1660,
+            345
+          ],
+          "question": "Whether the syllable read provisionally as པ has an additional genitive attachment; none supplied."
+        },
+        {
+          "id": "Q2",
+          "location": "R4/U00499, between ཁམས and ཆགས",
+          "bounds": [
+            1630,
+            520,
+            1780,
+            630
+          ],
+          "question": "Exact identity of the short syllable, provisionally ལ."
+        },
+        {
+          "id": "Q3",
+          "location": "R5 opening/U00502",
+          "bounds": [
+            440,
+            630,
+            610,
+            730
+          ],
+          "question": "Initial consonant and final consonant configuration of the syllable provisionally གྲངས."
+        },
+        {
+          "id": "Q4",
+          "location": "R6/U00511 right edge",
+          "bounds": [
+            3760,
+            695,
+            3865,
+            825
+          ],
+          "question": "Complete final syllable, provisionally ཏུ, and its separation from the frame."
+        },
+        {
+          "id": "Q5",
+          "location": "R7/U00514 after བསྟན",
+          "bounds": [
+            2090,
+            795,
+            2280,
+            905
+          ],
+          "question": "Whether the following syllable is པས; the apparent final ས remains uncertain."
+        },
+        {
+          "id": "Q6",
+          "location": "M02 left marginal label",
+          "bounds": [
+            350,
+            600,
+            425,
+            745
+          ],
+          "question": "Consonant stacks preceding the readable final པ།; not resolved as a title or ordinal."
+        },
+        {
+          "id": "Q7",
+          "locations": [
+            "A01",
+            "A02",
+            "A03",
+            "A04",
+            "A05",
+            "A06",
+            "A07"
+          ],
+          "question": "Exact numeral values remain provisional. Graphic descriptions and individual bounds are preserved in source_annotations."
+        },
+        {
+          "id": "Q8",
+          "locations": [
+            "B09",
+            "B27"
+          ],
+          "question": "Number and ownership of delimiter-like strokes at the right-frame junctions."
+        },
+        {
+          "id": "Q9",
+          "locations": [
+            "B02",
+            "B05",
+            "B10",
+            "B11",
+            "B12",
+            "B15",
+            "B23"
+          ],
+          "question": "Presence and separation of a terminal tsheg immediately before the tall boundary strokes after དང; individual intervals are bounded in signs."
+        }
+      ],
+      "unexamined_spans": {
+        "within_target_page": [],
+        "outside_target_scope": [
+          {
+            "location": "PDF17",
+            "scope": "Interior text beyond the contextual page-ending inspection was not fully transcribed or collated."
+          },
+          {
+            "location": "PDF19",
+            "scope": "Text beyond the contextual opening was not fully transcribed or collated."
+          }
+        ]
+      },
+      "next_physical_span": "Integrate the saved PDF19 report; keep every present-page glyph and graphic question explicit.",
+      "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-TSAMDRAK",
+      "batch_id": "B07-P0019",
+      "target_page": 19,
+      "report": "reviews/chapter-01/continuation/C1-TSAMDRAK.json",
+      "summary": "Tsamdrak PDF19: seven rows U00516 ending through U00548 are integrated. At U00534 the local phrase lacks the base ljongs opening and the separate base note is not visible here; no global absence inference.",
+      "rows_reported": 7,
+      "canonical_record_ids": [
+        "TS-CONT2-B07-O02",
+        "TS-CONT2-B07-O03",
+        "TS-CONT2-B07-O04",
+        "TS-CONT2-B07-O05",
+        "TS-CONT2-B07-O06",
+        "TS-CONT2-B07-O07",
+        "TS-CONT2-B07-O08",
+        "TS-CONT2-B07-O09",
+        "TS-CONT2-B07-O10",
+        "TS-CONT2-B07-O11"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "target_visual_traversal": "All seven target physical rows inspected left to right, including later text after uncertain clusters; margins, interline spaces and frame also inspected.",
+        "target_anchor_coverage": "U00516 tail; U00517–U00548. Supplied U00509–U00599 range is not treated as this page's coverage.",
+        "bounded_unresolved_items": 6,
+        "transcription_status": "Provisional diplomatic reading; observations with medium confidence and Q01–Q06 require coordinator adjudication.",
+        "independent_witness_count": 1,
+        "derivative_views": "All target crops, overlapping bands and rotated edge are views of the same source image, not additional witnesses.",
+        "review_character": "Informed independent agent reading with the base reference available; not blind review or human palaeographic certification.",
+        "whole_chapter_certification": false
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q01",
+          "row": "R3",
+          "anchor": "U00527",
+          "scope": "Final letter cluster of the syllable beginning འཁྲུ, between སྣང་བ and པ་ལ.",
+          "approx_native_bounds": [
+            1470,
+            365,
+            1635,
+            480
+          ],
+          "tentative_reading": "ལ",
+          "remaining_question": "Is the final cluster securely ལ? The remainder of this row was inspected and transcribed."
+        },
+        {
+          "id": "Q02",
+          "row": "R6",
+          "anchor": "U00542",
+          "scope": "Medial component of the final stacked syllable after ཡོངས་སུ.",
+          "approx_native_bounds": [
+            2780,
+            685,
+            2960,
+            815
+          ],
+          "tentative_reading": "སྤྲས",
+          "remaining_question": "The stack's medial component remains insufficiently resolved; do not certify either supplied base form."
+        },
+        {
+          "id": "Q03",
+          "inventory_ref": "D01",
+          "scope": "Identity of the complete small detached graphic at the U00521/U00522 boundary.",
+          "tentative_reading": null
+        },
+        {
+          "id": "Q04",
+          "inventory_ref": "D02",
+          "scope": "Identity of the complete small detached graphic at the U00530/U00531 boundary.",
+          "tentative_reading": null
+        },
+        {
+          "id": "Q05",
+          "inventory_ref": "D03",
+          "scope": "Identity of the complete small detached graphic at the U00538/U00539 boundary.",
+          "tentative_reading": null
+        },
+        {
+          "id": "Q06",
+          "inventory_ref": "D04",
+          "scope": "Identity of the complete small detached graphic at the U00544/U00545 boundary.",
+          "tentative_reading": null
+        }
+      ],
+      "unexamined_spans": [],
+      "next_physical_span": "Integrate the saved PDF20 report; keep every present-page glyph and graphic question explicit.",
+      "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-TSAMDRAK",
+      "batch_id": "B08-P0020",
+      "target_page": 20,
+      "report": "reviews/chapter-01/continuation/C1-TSAMDRAK.json",
+      "summary": "Tsamdrak PDF20: seven rows U00549–U00581 prefix are integrated. Directional order and the yi-ge/ri-mo order are recorded as source sequence, not silently harmonized. Five lexical-component questions remain with the non-main graphic inventory.",
+      "rows_reported": 7,
+      "canonical_record_ids": [
+        "TS-CONT2-B08-P0020-O02",
+        "TS-CONT2-B08-P0020-O03",
+        "TS-CONT2-B08-P0020-O04",
+        "TS-CONT2-B08-P0020-O05",
+        "TS-CONT2-B08-P0020-O06",
+        "TS-CONT2-B08-P0020-O07",
+        "TS-CONT2-B08-P0020-O08",
+        "TS-CONT2-B08-P0020-O09",
+        "TS-CONT2-B08-P0020-O10",
+        "TS-CONT2-B08-P0020-O11",
+        "TS-CONT2-B08-P0020-O12",
+        "TS-CONT2-B08-P0020-O13",
+        "TS-CONT2-B08-P0020-O14"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "target_overview_inspected_first": true,
+        "all_target_rows_followed_left_to_right": true,
+        "main_rows_examined": 7,
+        "target_margins_and_frames_examined": true,
+        "target_unexamined_regions": 0,
+        "unresolved_regions": "Q01–Q10; individual H marks retain separate bounds.",
+        "unaligned_components": [
+          "NM-O1",
+          "NM-S0",
+          "NM-L1",
+          "NM-L2",
+          "NM-R1",
+          "NM-F1",
+          "H1",
+          "H2",
+          "H3",
+          "H4"
+        ],
+        "additional_unaligned_main_verse_segments_identified": [],
+        "reading_status": "Provisional source-ordered transcription with bounded uncertainties; complete visual traversal does not imply complete glyph resolution.",
+        "review_type": "Informed independent agent reading using the supplied base for correspondence.",
+        "blind_review": false,
+        "human_palaeographic_certification": false,
+        "independent_witness_count": 1,
+        "whole_chapter_certification": false,
+        "tools_network_files_ocr_or_writes_used": false
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q01",
+          "scope": "Row 3, final lexical stack after གཡོ་ཞིང",
+          "bounds": [
+            3690,
+            390,
+            3850,
+            525
+          ],
+          "question": "Does the stack read བསྐྱོད, or another prefixed/stacked form?",
+          "status": "Inspected; candidate only."
+        },
+        {
+          "id": "Q02",
+          "scope": "Row 4, final suffix of སྟེང",
+          "bounds": [
+            3770,
+            475,
+            3845,
+            620
+          ],
+          "question": "Is a final ས present?",
+          "status": "Inspected; unresolved."
+        },
+        {
+          "id": "Q03",
+          "scope": "Row 7, compact opening fragment after བྱ and before B7.1",
+          "bounds": [
+            490,
+            780,
+            545,
+            885
+          ],
+          "question": "Is there a separate བ?",
+          "status": "Inspected; unresolved."
+        },
+        {
+          "id": "Q04",
+          "scope": "Row 7, between ལོ and ལྡན",
+          "bounds": [
+            3050,
+            765,
+            3160,
+            890
+          ],
+          "question": "Is the intervening contour an additional ང?",
+          "status": "Inspected; unresolved."
+        },
+        {
+          "id": "Q05",
+          "scope": "Row 7, rightmost letter adjacent to the inner rule",
+          "bounds": [
+            3800,
+            765,
+            3860,
+            900
+          ],
+          "question": "Can final ན in གཞོན be independently resolved from the ruling?",
+          "status": "Inspected; unresolved."
+        },
+        {
+          "id": "Q06",
+          "scope": "Single upper-left marginal letter",
+          "bounds": [
+            330,
+            330,
+            410,
+            395
+          ],
+          "question": "Candidate ཀ; exact letter identity remains uncertain.",
+          "status": "Inspected in original and rotated views."
+        },
+        {
+          "id": "Q07",
+          "scope": "Initial group of left marginal foliation, preceding གཅིག",
+          "bounds": [
+            335,
+            545,
+            425,
+            640
+          ],
+          "question": "Candidate བཅུ; compact initial group not securely resolved.",
+          "status": "Inspected in original and rotated views."
+        },
+        {
+          "id": "Q08",
+          "scope": "B2.5, between final ལ and right inner ruling",
+          "bounds": [
+            3790,
+            305,
+            3855,
+            415
+          ],
+          "question": "How many detached terminal strokes precede the frame? A two-stroke punctuation group is plausible but not certified.",
+          "status": "Inspected; E code retained."
+        },
+        {
+          "id": "Q09",
+          "scope": "B5.5, between མཛེས and right inner ruling",
+          "bounds": [
+            3785,
+            585,
+            3855,
+            715
+          ],
+          "question": "How many detached terminal strokes precede the frame? A two-stroke punctuation group is plausible but not certified.",
+          "status": "Inspected; E code retained."
+        },
+        {
+          "id": "Q10",
+          "scope": "Detached marks H1–H4",
+          "bounds": [
+            [
+              2305,
+              205,
+              2345,
+              245
+            ],
+            [
+              2010,
+              405,
+              2050,
+              465
+            ],
+            [
+              3535,
+              490,
+              3590,
+              540
+            ],
+            [
+              1945,
+              695,
+              1990,
+              760
+            ]
+          ],
+          "question": "Their graphic presence is established; numeral, annotation or punctuation identity remains unresolved.",
+          "status": "Inspected and individually inventoried; no lexical expansion."
+        }
+      ],
+      "unexamined_spans": [],
+      "next_physical_span": "Next genuinely missing Tsamdrak page is PDF21 row1, U00581 continuation པ་རྣམས་ཀྱིས་བསྐོར. Keep PDF20 Q01–Q10, including final-letter/frame ambiguity.",
+      "reader_claims_require_coordinator_dispositions": true
     }
   ]
 }

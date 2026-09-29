@@ -1717,7 +1717,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00424"></a>
 
-**U00424** པིང་ཀ་ལ་ཡི་སྒྲ་དབྱངས་ཀྱིས། །
+**U00424** པིང་ཀ་ལ་ཡི་སྒྲ་དབྱངས་ཀྱིས། ། [TS-CONT2-P016-O02](#ts-cont2-p016-o02)
 
 <a id="u00425"></a>
 
@@ -1729,7 +1729,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00427"></a>
 
-**U00427** གོང་མ་ཙམ་སྟེ་ངེས་བརྗོད་གསུངས། །
+**U00427** གོང་མ་ཙམ་སྟེ་ངེས་བརྗོད་གསུངས། ། [TS-CONT2-P016-O17](#ts-cont2-p016-o17)
 
 <a id="u00428"></a>
 
@@ -1737,31 +1737,31 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00429"></a>
 
-**U00429** དེ་བཞིན་འདས་པའི་ལྷ་དག་དང༌། །
+**U00429** དེ་བཞིན་འདས་པའི་ལྷ་དག་དང༌། ། [TS-CONT2-P016-O03](#ts-cont2-p016-o03)
 
 <a id="u00430"></a>
 
-**U00430** མཁའ་འགྲོ་མ་རྣམས་འདུས་པ་ཡིས། །
+**U00430** མཁའ་འགྲོ་མ་རྣམས་འདུས་པ་ཡིས། ། [TS-CONT2-P016-O04](#ts-cont2-p016-o04)
 
 <a id="u00431"></a>
 
-**U00431** སྒྲ་ཡི་བྱེ་བྲག་རྣམ་ཤེས་ན། །
+**U00431** སྒྲ་ཡི་བྱེ་བྲག་རྣམ་ཤེས་ན། ། [TS-CONT2-P016-O05](#ts-cont2-p016-o05)
 
 <a id="u00432"></a>
 
-**U00432** དེ་རྣམས་སྐད་ནི་ཤེས་པ་དང་། །
+**U00432** དེ་རྣམས་སྐད་ནི་ཤེས་པ་དང་། ། [TS-CONT2-P016-O06](#ts-cont2-p016-o06)
 
 <a id="u00433"></a>
 
-**U00433** མངོན་ཤེས་དྲུག་ལ་ངེས་སྤྱད་ན། །
+**U00433** མངོན་ཤེས་དྲུག་ལ་ངེས་སྤྱད་ན། ། [TS-CONT2-P016-O06](#ts-cont2-p016-o06) [TS-CONT2-P016-O07](#ts-cont2-p016-o07)
 
 <a id="u00434"></a>
 
-**U00434** བདེ་གཤེགས་བཀའ་ཡི་དོན་རྣམས་ཤེས། །
+**U00434** བདེ་གཤེགས་བཀའ་ཡི་དོན་རྣམས་ཤེས། ། [TS-CONT2-P016-O08](#ts-cont2-p016-o08)
 
 <a id="u00435"></a>
 
-**U00435** ཚིགས་སུ་བཅད་པའི་གྲངས་ཀྱིས་སུ། །
+**U00435** ཚིགས་སུ་བཅད་པའི་གྲངས་ཀྱིས་སུ། ། [TS-CONT2-P016-O09](#ts-cont2-p016-o09)
 
 <a id="u00436"></a>
 
@@ -1769,7 +1769,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00437"></a>
 
-**U00437** དེ་ནས་ཆུ་ཡི་སྒྲ་ལ་ཡང༌། །
+**U00437** དེ་ནས་ཆུ་ཡི་སྒྲ་ལ་ཡང༌། ། [TS-CONT2-P016-O10](#ts-cont2-p016-o10)
 
 <a id="u00438"></a>
 
@@ -1777,7 +1777,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00439"></a>
 
-**U00439** མཁས་པས་ཆོ་ག་རྫོགས་པའོ། །
+**U00439** མཁས་པས་ཆོ་ག་རྫོགས་པའོ། ། [TS-CONT2-P016-O11](#ts-cont2-p016-o11)
 
 <a id="u00440"></a>
 
@@ -1785,11 +1785,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00441"></a>
 
-**U00441** དཔའ་དང་དཔའ་བར་འགྲོ་བ་ཡིས། །
+**U00441** དཔའ་དང་དཔའ་བར་འགྲོ་བ་ཡིས། ། [TS-CONT2-P016-O12](#ts-cont2-p016-o12)
 
 <a id="u00442"></a>
 
-**U00442** ས་ཆུ་མེ་རླུང་བཞི་དག་ལ། །
+**U00442** ས་ཆུ་མེ་རླུང་བཞི་དག་ལ། ། [TS-CONT2-P016-O13](#ts-cont2-p016-o13)
 
 <a id="u00443"></a>
 
@@ -1805,19 +1805,19 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00446"></a>
 
-**U00446** ཚ་དང་གྲང་བའི་བྱེད་རྒྱུ་ཅན། །
+**U00446** ཚ་དང་གྲང་བའི་བྱེད་རྒྱུ་ཅན། ། [TS-CONT2-P016-O18](#ts-cont2-p016-o18)
 
 <a id="u00447"></a>
 
-**U00447** སྟོང་ཕྲག་དག་ནི་གཉིས་གཉིས་ལས། །
+**U00447** སྟོང་ཕྲག་དག་ནི་གཉིས་གཉིས་ལས། ། [TS-CONT2-P016-O18](#ts-cont2-p016-o18)
 
 <a id="u00448"></a>
 
-**U00448** བརྗོད་ཅིང་བརྟགས་པའི་སྒྲ་རྣམས་ནི། །
+**U00448** བརྗོད་ཅིང་བརྟགས་པའི་སྒྲ་རྣམས་ནི། ། [TS-CONT2-P016-O14](#ts-cont2-p016-o14)
 
 <a id="u00449"></a>
 
-**U00449** རྣལ་འབྱོར་པ་ཡིས་བརྗོད་ཤེས་ན། །
+**U00449** རྣལ་འབྱོར་པ་ཡིས་བརྗོད་ཤེས་ན། ། [TS-CONT2-P016-O15](#ts-cont2-p016-o15)
 
 <a id="u00450"></a>
 
@@ -1825,7 +1825,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00451"></a>
 
-**U00451** བདེ་ལེགས་སུ་ནི་ཉན་པར་སྤྲོ། །
+**U00451** བདེ་ལེགས་སུ་ནི་ཉན་པར་སྤྲོ། ། [TS-CONT2-P016-O16](#ts-cont2-p016-o16)
 
 <a id="u00452"></a>
 
@@ -1837,7 +1837,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00454"></a>
 
-**U00454** དུས་དང་བཅས་ཏེ་མངོན་སྣང་བའོ། །
+**U00454** དུས་དང་བཅས་ཏེ་མངོན་སྣང་བའོ། ། [TS-CONT2-T17-O02](#ts-cont2-t17-o02)
 
 <a id="u00455"></a>
 
@@ -1849,7 +1849,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00457"></a>
 
-**U00457** དབྱངས་གཅིག་གིས་ནི་དཀྱིལ་འཁོར་དུ། །
+**U00457** དབྱངས་གཅིག་གིས་ནི་དཀྱིལ་འཁོར་དུ། ། [TS-CONT2-B05-Q01](#ts-cont2-b05-q01)
 
 <a id="u00458"></a>
 
@@ -1857,23 +1857,23 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00459"></a>
 
-**U00459** དབང་པོ་དྲུག་གི་རྣམ་དག་པས། །
+**U00459** དབང་པོ་དྲུག་གི་རྣམ་དག་པས། ། [TS-CONT2-B05-Q02](#ts-cont2-b05-q02)
 
 <a id="u00460"></a>
 
-**U00460** བཅུ་བཅུ་ཡི་ནི་སྐུ་གསུམ་ལས། །
+**U00460** བཅུ་བཅུ་ཡི་ནི་སྐུ་གསུམ་ལས། ། [TS-CONT2-T17-O03](#ts-cont2-t17-o03)
 
 <a id="u00461"></a>
 
-**U00461** ཁྱད་པར་སྤྲུལ་པའི་སྐུ་ལས་འཕྲོས། །
+**U00461** ཁྱད་པར་སྤྲུལ་པའི་སྐུ་ལས་འཕྲོས། ། [TS-CONT2-B05-Q03](#ts-cont2-b05-q03)
 
 <a id="u00462"></a>
 
-**U00462** འཕྲོས་པ་ཡི་ནི་ཟེར་ཙམ་གྱིས། །
+**U00462** འཕྲོས་པ་ཡི་ནི་ཟེར་ཙམ་གྱིས། ། [TS-CONT2-T17-O04](#ts-cont2-t17-o04)
 
 <a id="u00463"></a>
 
-**U00463** རྣལ་འབྱོར་རྟོག་པའི་ཆུ་རྒྱུན་འགགས། །
+**U00463** རྣལ་འབྱོར་རྟོག་པའི་ཆུ་རྒྱུན་འགགས། ། [TS-CONT2-B05-Q04](#ts-cont2-b05-q04)
 
 <a id="u00464"></a>
 
@@ -1885,7 +1885,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00466"></a>
 
-**U00466** དེ་ལྟར་སྒྲ་ཡི་དགོས་པ་ནི། །
+**U00466** དེ་ལྟར་སྒྲ་ཡི་དགོས་པ་ནི། ། [TS-CONT2-T17-O05](#ts-cont2-t17-o05)
 
 <a id="u00467"></a>
 
@@ -1893,7 +1893,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00468"></a>
 
-**U00468** མཆོག་དང་ཐུན་མོང་པ་དག་གི། །
+**U00468** མཆོག་དང་ཐུན་མོང་པ་དག་གི། ། [TS-CONT2-T17-O06](#ts-cont2-t17-o06)
 
 <a id="u00469"></a>
 
@@ -1913,7 +1913,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00473"></a>
 
-**U00473** འདི་ལ་ཡོན་ཏན་བརྗོད་མི་ལངས། །
+**U00473** འདི་ལ་ཡོན་ཏན་བརྗོད་མི་ལངས། ། [TS-CONT2-B05-Q06](#ts-cont2-b05-q06)
 
 <a id="u00474"></a>
 
@@ -1925,15 +1925,15 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00476"></a>
 
-**U00476** བདེ་བར་རོལ་པ་ཉིད་ཡིན་ནོ། །
+**U00476** བདེ་བར་རོལ་པ་ཉིད་ཡིན་ནོ། ། [TS-CONT2-T17-O09](#ts-cont2-t17-o09)
 
 <a id="u00477"></a>
 
-**U00477** ཐུན་མོང་གྱུར་པའི་དགོས་པ་ནི། །
+**U00477** ཐུན་མོང་གྱུར་པའི་དགོས་པ་ནི། ། [TS-CONT2-T17-O09](#ts-cont2-t17-o09)
 
 <a id="u00478"></a>
 
-**U00478** སྒྲ་ཚད་རིག་པའི་བསྟན་ཆོས་དང༌། །
+**U00478** སྒྲ་ཚད་རིག་པའི་བསྟན་ཆོས་དང༌། ། [TS-CONT2-B05-Q07](#ts-cont2-b05-q07)
 
 <a id="u00479"></a>
 
@@ -1941,7 +1941,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00480"></a>
 
-**U00480** འཕོངས་དང་མ་སྦྱངས་ལས་རྣམས་འགྲུབ། །
+**U00480** འཕོངས་དང་མ་སྦྱངས་ལས་རྣམས་འགྲུབ། ། [TS-CONT2-B05-Q08](#ts-cont2-b05-q08)
 
 <a id="u00481"></a>
 
@@ -1957,11 +1957,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00484"></a>
 
-**U00484** བརྡའ་དང་ཐ་སྙད་ལ་མཁས་འགྱུར། །
+**U00484** བརྡའ་དང་ཐ་སྙད་ལ་མཁས་འགྱུར། ། [TS-CONT2-T17-O07](#ts-cont2-t17-o07)
 
 <a id="u00485"></a>
 
-**U00485** མདོར་ན་དགོས་པའི་བསྟན་བཅོས་དང༌། །
+**U00485** མདོར་ན་དགོས་པའི་བསྟན་བཅོས་དང༌། ། [TS-CONT2-P18-02](#ts-cont2-p18-02)
 
 <a id="u00486"></a>
 
@@ -1969,7 +1969,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00487"></a>
 
-**U00487** སྨན་དང་རྩི་སྦྱོར་བྱེ་བྲག་འབྱེད། །
+**U00487** སྨན་དང་རྩི་སྦྱོར་བྱེ་བྲག་འབྱེད། ། [TS-CONT2-P18-03](#ts-cont2-p18-03)
 
 <a id="u00488"></a>
 
@@ -1981,7 +1981,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00490"></a>
 
-**U00490** སྒྲ་དོན་དེ་ལྟར་དགོས་པ་འགྲུབ། །
+**U00490** སྒྲ་དོན་དེ་ལྟར་དགོས་པ་འགྲུབ། ། [TS-CONT2-P18-04](#ts-cont2-p18-04)
 
 <a id="u00491"></a>
 
@@ -1989,7 +1989,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00492"></a>
 
-**U00492** **[Source structural heading]** དྲིས་ལན་ལྔ་པ། [L1-0030](#l1-0030) [W-C01-031](reviews/chapter-01/wikisource.md#w-c01-031)
+**U00492** **[Source structural heading]** དྲིས་ལན་ལྔ་པ། [L1-0030](#l1-0030) [TS-CONT2-P18-05](#ts-cont2-p18-05) [W-C01-031](reviews/chapter-01/wikisource.md#w-c01-031)
 
 <a id="u00493"></a>
 
@@ -1997,19 +1997,19 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00494"></a>
 
-**U00494** འཇིག་རྟེན་ཁམས་དང་ཞིང་ཁམས་དང་། །
+**U00494** འཇིག་རྟེན་ཁམས་དང་ཞིང་ཁམས་དང་། ། [TS-CONT2-P18-14](#ts-cont2-p18-14)
 
 <a id="u00495"></a>
 
-**U00495** དམ་བཅའ་སྐྱོན་དང་སྐྱོན་གནས་དང་། །
+**U00495** དམ་བཅའ་སྐྱོན་དང་སྐྱོན་གནས་དང་། ། [TS-CONT2-P18-14](#ts-cont2-p18-14)
 
 <a id="u00496"></a>
 
-**U00496** འཕེན་པའི་ལས་དང་སྦྱོར་བ་དང་། །
+**U00496** འཕེན་པའི་ལས་དང་སྦྱོར་བ་དང་། ། [TS-CONT2-P18-14](#ts-cont2-p18-14)
 
 <a id="u00497"></a>
 
-**U00497** གྲགས་དང་སོང་བའི་གནད་དང་བརྒྱད། །
+**U00497** གྲགས་དང་སོང་བའི་གནད་དང་བརྒྱད། ། [TS-CONT2-P18-06](#ts-cont2-p18-06)
 
 <a id="u00498"></a>
 
@@ -2017,7 +2017,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00499"></a>
 
-**U00499** འཇིག་རྟེན་ཁམས་ནི་ཆགས་པ་དང༌། །
+**U00499** འཇིག་རྟེན་ཁམས་ནི་ཆགས་པ་དང༌། ། [TS-CONT2-P18-07](#ts-cont2-p18-07)
 
 <a id="u00500"></a>
 
@@ -2025,11 +2025,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00501"></a>
 
-**U00501** སྟོང་པ་ཉིད་དང་རྒྱུ་དང་རྐྱེན། །
+**U00501** སྟོང་པ་ཉིད་དང་རྒྱུ་དང་རྐྱེན། ། [TS-CONT2-P18-08](#ts-cont2-p18-08)
 
 <a id="u00502"></a>
 
-**U00502** གྲུབ་ཚུལ་དང་ནི་དྲང་ཚད་དོ། ། [W-C01-032](reviews/chapter-01/wikisource.md#w-c01-032)
+**U00502** གྲུབ་ཚུལ་དང་ནི་དྲང་ཚད་དོ། ། [TS-CONT2-P18-09](#ts-cont2-p18-09) [TS-CONT2-P18-14](#ts-cont2-p18-14) [W-C01-032](reviews/chapter-01/wikisource.md#w-c01-032)
 
 <a id="u00503"></a>
 
@@ -2041,7 +2041,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00505"></a>
 
-**U00505** ཐལ་བའི་དབྱངས་ཞེས་བྱ་བའི་ཡུལ། །
+**U00505** ཐལ་བའི་དབྱངས་ཞེས་བྱ་བའི་ཡུལ། ། [TS-CONT2-P18-10](#ts-cont2-p18-10)
 
 <a id="u00506"></a>
 
@@ -2061,15 +2061,15 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00510"></a>
 
-**U00510** ཆུ་ཞེང་ཉམས་དགའ་བཀོད་ལེགས་སྤྲས། ། [W-C01-033](reviews/chapter-01/wikisource.md#w-c01-033)
+**U00510** ཆུ་ཞེང་ཉམས་དགའ་བཀོད་ལེགས་སྤྲས། ། [TS-CONT2-P18-14](#ts-cont2-p18-14) [W-C01-033](reviews/chapter-01/wikisource.md#w-c01-033)
 
 <a id="u00511"></a>
 
-**U00511** དེ་ནས་འཇིག་རྟེན་དྲུག་འོག་ཏུ། །
+**U00511** དེ་ནས་འཇིག་རྟེན་དྲུག་འོག་ཏུ། ། [TS-CONT2-B06-Q4](#ts-cont2-b06-q4)
 
 <a id="u00512"></a>
 
-**U00512** ཐལ་བ་འཛིན་ཞེས་བྱ་བ་ནི། །
+**U00512** ཐལ་བ་འཛིན་ཞེས་བྱ་བ་ནི། ། [TS-CONT2-P18-11](#ts-cont2-p18-11)
 
 <a id="u00513"></a>
 
@@ -2077,11 +2077,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00514"></a>
 
-**U00514** སྟོན་པའི་བསྟན་པ་བདེན་པ་ཉིད། །
+**U00514** སྟོན་པའི་བསྟན་པ་བདེན་པ་ཉིད། ། [TS-CONT2-P18-12](#ts-cont2-p18-12)
 
 <a id="u00515"></a>
 
-**U00515** སྤྲས་ལེགས་བཀོད་པ་གཉིས་པའོ། །
+**U00515** སྤྲས་ལེགས་བཀོད་པ་གཉིས་པའོ། ། [TS-CONT2-P18-13](#ts-cont2-p18-13) [TS-CONT2-P18-14](#ts-cont2-p18-14)
 
 <a id="u00516"></a>
 
@@ -2093,7 +2093,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00518"></a>
 
-**U00518** མརྒད་དག་གིས་ཡོངས་སྤྲས་པ། ། [L1-0031](#l1-0031) [W-C01-034](reviews/chapter-01/wikisource.md#w-c01-034)
+**U00518** མརྒད་དག་གིས་ཡོངས་སྤྲས་པ། ། [L1-0031](#l1-0031) [TS-CONT2-B07-O02](#ts-cont2-b07-o02) [W-C01-034](reviews/chapter-01/wikisource.md#w-c01-034)
 
 <a id="u00519"></a>
 
@@ -2105,7 +2105,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00521"></a>
 
-**U00521** སོ་སོའི་ལས་དང་མཚན་བཅས་པའོ། །
+**U00521** སོ་སོའི་ལས་དང་མཚན་བཅས་པའོ། ། [TS-CONT2-B07-O03](#ts-cont2-b07-o03)
 
 <a id="u00522"></a>
 
@@ -2113,15 +2113,15 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00523"></a>
 
-**U00523** ཐལ་བ་བརྡལ་ཞེས་བྱ་བ་ནི། །
+**U00523** ཐལ་བ་བརྡལ་ཞེས་བྱ་བ་ནི། ། [TS-CONT2-B07-O04](#ts-cont2-b07-o04)
 
 <a id="u00524"></a>
 
-**U00524** པདྨ་རྒྱས་པའི་དབྱིབས་འདྲ་བ། ། [W-C01-035](reviews/chapter-01/wikisource.md#w-c01-035)
+**U00524** པདྨ་རྒྱས་པའི་དབྱིབས་འདྲ་བ། ། [TS-CONT2-B07-O05](#ts-cont2-b07-o05) [W-C01-035](reviews/chapter-01/wikisource.md#w-c01-035)
 
 <a id="u00525"></a>
 
-**U00525** ཤིན་ཏུ་བརྡལ་བ་ཁོད་སྙོམས་པ། །
+**U00525** ཤིན་ཏུ་བརྡལ་བ་ཁོད་སྙོམས་པ། ། [TS-CONT2-B07-O06](#ts-cont2-b07-o06)
 
 <a id="u00526"></a>
 
@@ -2129,7 +2129,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00527"></a>
 
-**U00527** དཀར་དམར་སྣང་བ་འཁྲུགས་པ་ལས། །
+**U00527** དཀར་དམར་སྣང་བ་འཁྲུགས་པ་ལས། ། [TS-CONT2-B07-O07](#ts-cont2-b07-o07)
 
 <a id="u00528"></a>
 
@@ -2157,7 +2157,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00534"></a>
 
-**U00534** ལྗོངས་རབ་ཏུ་རྫོགས་ཏེ་ཉམས་དགའ་བར། ། [SCAN-CH1-LAYER-00534](#scan-ch1-layer-00534) [L1-0033](#l1-0033) [DZ-MID-027-U534](#dz-mid-027-u534) [W-C01-036](reviews/chapter-01/wikisource.md#w-c01-036)
+**U00534** ལྗོངས་རབ་ཏུ་རྫོགས་ཏེ་ཉམས་དགའ་བར། ། [SCAN-CH1-LAYER-00534](#scan-ch1-layer-00534) [L1-0033](#l1-0033) [DZ-MID-027-U534](#dz-mid-027-u534) [TS-CONT2-B07-O08](#ts-cont2-b07-o08) [W-C01-036](reviews/chapter-01/wikisource.md#w-c01-036)
 
 <a id="u00535"></a>
 
@@ -2169,11 +2169,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00537"></a>
 
-**U00537** སྟོན་པའི་བསྟན་པ་རྫོགས་གཉིས་ལྡན། །
+**U00537** སྟོན་པའི་བསྟན་པ་རྫོགས་གཉིས་ལྡན། ། [TS-CONT2-B07-O09](#ts-cont2-b07-o09)
 
 <a id="u00538"></a>
 
-**U00538** ཐོད་པའི་ཕྲེང་བ་བཀོད་པ་འོ། ། [L1-0034](#l1-0034) [W-C01-037](reviews/chapter-01/wikisource.md#w-c01-037)
+**U00538** ཐོད་པའི་ཕྲེང་བ་བཀོད་པ་འོ། ། [L1-0034](#l1-0034) [TS-CONT2-B07-O10](#ts-cont2-b07-o10) [W-C01-037](reviews/chapter-01/wikisource.md#w-c01-037)
 
 <a id="u00539"></a>
 
@@ -2189,7 +2189,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00542"></a>
 
-**U00542** བཀོད་པ་ལྔ་ཡིས་ཡོངས་སུ་སྤྲས། ། [SCAN-CH1-00542](#scan-ch1-00542) [W-C01-038](reviews/chapter-01/wikisource.md#w-c01-038)
+**U00542** བཀོད་པ་ལྔ་ཡིས་ཡོངས་སུ་སྤྲས། ། [SCAN-CH1-00542](#scan-ch1-00542) [TS-CONT2-B07-O11](#ts-cont2-b07-o11) [W-C01-038](reviews/chapter-01/wikisource.md#w-c01-038)
 
 <a id="u00543"></a>
 
@@ -2225,7 +2225,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00551"></a>
 
-**U00551** འདི་ནས་འཇིག་རྟེན་ལྷོ་ཤར་གཡོན། །
+**U00551** འདི་ནས་འཇིག་རྟེན་ལྷོ་ཤར་གཡོན། ། [TS-CONT2-B08-P0020-O02](#ts-cont2-b08-p0020-o02)
 
 <a id="u00552"></a>
 
@@ -2233,7 +2233,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00553"></a>
 
-**U00553** ཐལ་བའི་སྒྲ་ཞེས་བྱ་བ་ཡི། །
+**U00553** ཐལ་བའི་སྒྲ་ཞེས་བྱ་བ་ཡི། ། [TS-CONT2-B08-P0020-O03](#ts-cont2-b08-p0020-o03)
 
 <a id="u00554"></a>
 
@@ -2269,7 +2269,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00562"></a>
 
-**U00562** གཡོ་ཞིང་སྤྱོད་པ་བར་སྣང་ལ། །
+**U00562** གཡོ་ཞིང་སྤྱོད་པ་བར་སྣང་ལ། ། [TS-CONT2-B08-P0020-O04](#ts-cont2-b08-p0020-o04)
 
 <a id="u00563"></a>
 
@@ -2277,7 +2277,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00564"></a>
 
-**U00564** བསྐྱོད་པ་ལས་ནི་སྒྲ་རྣམས་འབྱུང༌། །
+**U00564** བསྐྱོད་པ་ལས་ནི་སྒྲ་རྣམས་འབྱུང༌། ། [TS-CONT2-B08-P0020-O05](#ts-cont2-b08-p0020-o05)
 
 <a id="u00565"></a>
 
@@ -2289,11 +2289,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00567"></a>
 
-**U00567** དེ་སྟེང་བཅུ་གསུམ་བརྩེགས་པ་ན། །
+**U00567** དེ་སྟེང་བཅུ་གསུམ་བརྩེགས་པ་ན། ། [TS-CONT2-B08-P0020-O06](#ts-cont2-b08-p0020-o06)
 
 <a id="u00568"></a>
 
-**U00568** རིན་ཆེན་ཐལ་བ་ཞེས་བྱ་ན། །
+**U00568** རིན་ཆེན་ཐལ་བ་ཞེས་བྱ་ན། ། [TS-CONT2-B08-P0020-O07](#ts-cont2-b08-p0020-o07)
 
 <a id="u00569"></a>
 
@@ -2305,7 +2305,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00571"></a>
 
-**U00571** འཕྲུལ་གྱི་རི་མོ་ཡི་གེ་མཛེས། །
+**U00571** འཕྲུལ་གྱི་རི་མོ་ཡི་གེ་མཛེས། ། [TS-CONT2-B08-P0020-O08](#ts-cont2-b08-p0020-o08)
 
 <a id="u00572"></a>
 
@@ -2317,7 +2317,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00574"></a>
 
-**U00574** འདི་ནས་ནུབ་བྱང་མཚམས་ཀྱི་སྟེང༌། །
+**U00574** འདི་ནས་ནུབ་བྱང་མཚམས་ཀྱི་སྟེང༌། ། [TS-CONT2-B08-P0020-O09](#ts-cont2-b08-p0020-o09)
 
 <a id="u00575"></a>
 
@@ -2325,15 +2325,15 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00576"></a>
 
-**U00576** འདུ་བའི་ཐལ་བ་ཞེས་བྱ་བ། །
+**U00576** འདུ་བའི་ཐལ་བ་ཞེས་བྱ་བ། ། [TS-CONT2-B08-P0020-O10](#ts-cont2-b08-p0020-o10)
 
 <a id="u00577"></a>
 
-**U00577** མཆོད་པ་རྫོགས་པའི་ལྷ་མོར་བཅས། །
+**U00577** མཆོད་པ་རྫོགས་པའི་ལྷ་མོར་བཅས། ། [TS-CONT2-B08-P0020-O11](#ts-cont2-b08-p0020-o11)
 
 <a id="u00578"></a>
 
-**U00578** འོད་ཀྱིས་ཁེངས་ཤིང་ཙནྡན་དྲི། ། [SIGNS-VERIFIED-20260927-U00578](#signs-verified-20260927-u00578) [W-C01-040](reviews/chapter-01/wikisource.md#w-c01-040)
+**U00578** འོད་ཀྱིས་ཁེངས་ཤིང་ཙནྡན་དྲི། ། [SIGNS-VERIFIED-20260927-U00578](#signs-verified-20260927-u00578) [TS-CONT2-B08-P0020-O12](#ts-cont2-b08-p0020-o12) [W-C01-040](reviews/chapter-01/wikisource.md#w-c01-040)
 
 <a id="u00579"></a>
 
@@ -2341,11 +2341,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00580"></a>
 
-**U00580** བཅུ་དྲུག་ལོ་ལྡན་མཛེས་པའི་གཟུགས། །
+**U00580** བཅུ་དྲུག་ལོ་ལྡན་མཛེས་པའི་གཟུགས། ། [TS-CONT2-B08-P0020-O13](#ts-cont2-b08-p0020-o13)
 
 <a id="u00581"></a>
 
-**U00581** རབ་ཏུ་གཞོན་པ་རྣམས་ཀྱིས་བསྐོར། ། [W-C01-041](reviews/chapter-01/wikisource.md#w-c01-041)
+**U00581** རབ་ཏུ་གཞོན་པ་རྣམས་ཀྱིས་བསྐོར། ། [TS-CONT2-B08-P0020-O14](#ts-cont2-b08-p0020-o14) [W-C01-041](reviews/chapter-01/wikisource.md#w-c01-041)
 
 <a id="u00582"></a>
 
@@ -18646,6 +18646,1366 @@ Units: [U00346](#u00346).
 **Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
 
 **Evidence:** [p010-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-native.png), [p010-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x0000-y0000.png), [p010-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x1900-y0000.png), [p010-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x2350-y0000.png), [C1-TINGKYE-B08-P0010-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B08-P0010-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="ts-cont2-p016-o02"></a>
+
+### TS-CONT2-P016-O02 — Tsamdrak
+
+Units: [U00424](#u00424).
+
+**Current Adzom main context:** པིང་ཀ་ལ་ཡི་སྒྲ་དབྱངས་ཀྱིས། །
+
+**Comparison reading/snippet:** སྒྲ་དབྱངས་ནི
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyph_reading": "high", "alignment": "high"}.
+
+**Locator:** PDF 16; source-member and native bounds in linked packet; bounds: [1020, 335, 1545, 475].
+
+**Observation:** The terminal syllable has the visible form ནི, not a supplied ཀྱིས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p016-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-native.png), [p016-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x0000-y0000.png), [p016-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x1900-y0000.png), [p016-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x2352-y0000.png), [C1-TSAMDRAK-B04-P0016-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B04-P0016-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-p016-o03"></a>
+
+### TS-CONT2-P016-O03 — Tsamdrak
+
+Units: [U00429](#u00429).
+
+**Current Adzom main context:** དེ་བཞིན་འདས་པའི་ལྷ་དག་དང༌། །
+
+**Comparison reading/snippet:** ལྷ་རྣམས་དང
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyph_reading": "high", "alignment": "high"}.
+
+**Locator:** PDF 16; source-member and native bounds in linked packet; bounds: [940, 430, 1610, 570].
+
+**Observation:** The source contains རྣམས after ལྷ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p016-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-native.png), [p016-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x0000-y0000.png), [p016-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x1900-y0000.png), [p016-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x2352-y0000.png), [C1-TSAMDRAK-B04-P0016-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B04-P0016-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-p016-o04"></a>
+
+### TS-CONT2-P016-O04 — Tsamdrak
+
+Units: [U00430](#u00430).
+
+**Current Adzom main context:** མཁའ་འགྲོ་མ་རྣམས་འདུས་པ་ཡིས། །
+
+**Comparison reading/snippet:** མཁའ་འགྲོ་⟦Q02⟧རྣམས་འདུས་པ་ཡི
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"terminal_ཡི": "high", "independent_མ": "unresolved", "alignment": "high"}.
+
+**Locator:** PDF 16; source-member and native bounds in linked packet; bounds: [1690, 420, 2310, 565].
+
+**Observation:** The terminal reading is ཡི. Whether a separate མ occurs in the earlier compact cluster remains unresolved; no omission of མ is adopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p016-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-native.png), [p016-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x0000-y0000.png), [p016-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x1900-y0000.png), [p016-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x2352-y0000.png), [C1-TSAMDRAK-B04-P0016-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B04-P0016-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-p016-o05"></a>
+
+### TS-CONT2-P016-O05 — Tsamdrak
+
+Units: [U00431](#u00431).
+
+**Current Adzom main context:** སྒྲ་ཡི་བྱེ་བྲག་རྣམ་ཤེས་ན། །
+
+**Comparison reading/snippet:** བྱེ་བྲག་རྣམས་ཤེས་ན
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyph_reading": "medium-high", "alignment": "high"}.
+
+**Locator:** PDF 16; source-member and native bounds in linked packet; bounds: [2340, 420, 2950, 565].
+
+**Observation:** A final ས is read with རྣམས before the separate ཤེས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p016-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-native.png), [p016-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x0000-y0000.png), [p016-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x1900-y0000.png), [p016-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x2352-y0000.png), [C1-TSAMDRAK-B04-P0016-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B04-P0016-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-p016-o06"></a>
+
+### TS-CONT2-P016-O06 — Tsamdrak
+
+Units: [U00432](#u00432), [U00433](#u00433).
+
+**Current Adzom main context:** དེ་རྣམས་སྐད་ནི་ཤེས་པ་དང་། ། / མངོན་ཤེས་དྲུག་ལ་ངེས་སྤྱད་ན། །
+
+**Comparison reading/snippet:** མངོན་ཤེས་དྲུག་ནི་ཤེས་པ་དང
+
+**Status:** supported_local_additional_main_verse. **Confidence:** {"glyph_reading": "high", "physical_continuation": "high", "main_text_status": "high", "alignment": "high"}.
+
+**Locator:** PDF 16; source-member and native bounds in linked packet; bounds: [[3640, 415, 3845, 560], [450, 525, 850, 680]].
+
+**Observation:** R3 ends with མངོན་ཤེས; R4 continues དྲུག་ནི་ཤེས་པ་དང before a boundary and the separately written U00433. It is retained as main text, including the repetition. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p016-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-native.png), [p016-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x0000-y0000.png), [p016-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x1900-y0000.png), [p016-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x2352-y0000.png), [C1-TSAMDRAK-B04-P0016-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B04-P0016-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-p016-o07"></a>
+
+### TS-CONT2-P016-O07 — Tsamdrak
+
+Units: [U00433](#u00433).
+
+**Current Adzom main context:** མངོན་ཤེས་དྲུག་ལ་ངེས་སྤྱད་ན། །
+
+**Comparison reading/snippet:** ངེས་སྤྱད་ནས
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyph_reading": "medium-high", "alignment": "high"}.
+
+**Locator:** PDF 16; source-member and native bounds in linked packet; bounds: [925, 520, 1570, 680].
+
+**Observation:** The final syllable is read with a suffix ས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p016-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-native.png), [p016-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x0000-y0000.png), [p016-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x1900-y0000.png), [p016-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x2352-y0000.png), [C1-TSAMDRAK-B04-P0016-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B04-P0016-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-p016-o08"></a>
+
+### TS-CONT2-P016-O08 — Tsamdrak
+
+Units: [U00434](#u00434).
+
+**Current Adzom main context:** བདེ་གཤེགས་བཀའ་ཡི་དོན་རྣམས་ཤེས། །
+
+**Comparison reading/snippet:** དོན་ནི་ཤེས
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyph_reading": "high", "alignment": "high"}.
+
+**Locator:** PDF 16; source-member and native bounds in linked packet; bounds: [1650, 515, 2415, 670].
+
+**Observation:** The intervening syllable has the vowel-bearing form ནི; རྣམས is not imported. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p016-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-native.png), [p016-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x0000-y0000.png), [p016-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x1900-y0000.png), [p016-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x2352-y0000.png), [C1-TSAMDRAK-B04-P0016-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B04-P0016-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-p016-o09"></a>
+
+### TS-CONT2-P016-O09 — Tsamdrak
+
+Units: [U00435](#u00435).
+
+**Current Adzom main context:** ཚིགས་སུ་བཅད་པའི་གྲངས་ཀྱིས་སུ། །
+
+**Comparison reading/snippet:** གྲངས་ཀྱི་དང
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyph_reading": "medium-high", "alignment": "high"}.
+
+**Locator:** PDF 16; source-member and native bounds in linked packet; bounds: [2460, 510, 3200, 670].
+
+**Observation:** The visible ending is read as ཀྱི་དང and retained despite its unusual wording. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p016-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-native.png), [p016-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x0000-y0000.png), [p016-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x1900-y0000.png), [p016-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x2352-y0000.png), [C1-TSAMDRAK-B04-P0016-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B04-P0016-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-p016-o10"></a>
+
+### TS-CONT2-P016-O10 — Tsamdrak
+
+Units: [U00437](#u00437).
+
+**Current Adzom main context:** དེ་ནས་ཆུ་ཡི་སྒྲ་ལ་ཡང༌། །
+
+**Comparison reading/snippet:** ཆུ་ཡིས་སྒྲ
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyph_reading": "high", "alignment": "high"}.
+
+**Locator:** PDF 16; source-member and native bounds in linked packet; bounds: [650, 625, 1240, 785].
+
+**Observation:** The suffix ས belongs to ཡིས before the following སྒྲ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p016-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-native.png), [p016-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x0000-y0000.png), [p016-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x1900-y0000.png), [p016-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x2352-y0000.png), [C1-TSAMDRAK-B04-P0016-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B04-P0016-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-p016-o11"></a>
+
+### TS-CONT2-P016-O11 — Tsamdrak
+
+Units: [U00439](#u00439).
+
+**Current Adzom main context:** མཁས་པས་ཆོ་ག་རྫོགས་པའོ། །
+
+**Comparison reading/snippet:** མཁས་པའི་ཆོ་ག
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyph_reading": "high", "alignment": "high"}.
+
+**Locator:** PDF 16; source-member and native bounds in linked packet; bounds: [2100, 615, 2700, 780].
+
+**Observation:** The source has the vowel-bearing པའི sequence. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p016-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-native.png), [p016-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x0000-y0000.png), [p016-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x1900-y0000.png), [p016-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x2352-y0000.png), [C1-TSAMDRAK-B04-P0016-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B04-P0016-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-p016-o12"></a>
+
+### TS-CONT2-P016-O12 — Tsamdrak
+
+Units: [U00441](#u00441).
+
+**Current Adzom main context:** དཔའ་དང་དཔའ་བར་འགྲོ་བ་ཡིས། །
+
+**Comparison reading/snippet:** འགྲོ་བ་ཡི
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyph_reading": "high", "alignment": "high"}.
+
+**Locator:** PDF 16; source-member and native bounds in linked packet; bounds: [450, 715, 705, 865].
+
+**Observation:** No suffix ས is read between ཡི and the boundary. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p016-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-native.png), [p016-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x0000-y0000.png), [p016-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x1900-y0000.png), [p016-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x2352-y0000.png), [C1-TSAMDRAK-B04-P0016-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B04-P0016-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-p016-o13"></a>
+
+### TS-CONT2-P016-O13 — Tsamdrak
+
+Units: [U00442](#u00442).
+
+**Current Adzom main context:** ས་ཆུ་མེ་རླུང་བཞི་དག་ལ། །
+
+**Comparison reading/snippet:** བཞི་དག་ལས
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyph_reading": "high", "alignment": "high"}.
+
+**Locator:** PDF 16; source-member and native bounds in linked packet; bounds: [760, 710, 1300, 865].
+
+**Observation:** The terminal syllable is visibly ལས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p016-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-native.png), [p016-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x0000-y0000.png), [p016-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x1900-y0000.png), [p016-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x2352-y0000.png), [C1-TSAMDRAK-B04-P0016-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B04-P0016-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-p016-o14"></a>
+
+### TS-CONT2-P016-O14 — Tsamdrak
+
+Units: [U00448](#u00448).
+
+**Current Adzom main context:** བརྗོད་ཅིང་བརྟགས་པའི་སྒྲ་རྣམས་ནི། །
+
+**Comparison reading/snippet:** སྒྲ་རྣམས་ཀྱིས
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyph_reading": "high", "alignment": "high"}.
+
+**Locator:** PDF 16; source-member and native bounds in linked packet; bounds: [1210, 815, 2040, 945].
+
+**Observation:** The terminal stack and following suffix support ཀྱིས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p016-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-native.png), [p016-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x0000-y0000.png), [p016-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x1900-y0000.png), [p016-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x2352-y0000.png), [C1-TSAMDRAK-B04-P0016-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B04-P0016-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-p016-o15"></a>
+
+### TS-CONT2-P016-O15 — Tsamdrak
+
+Units: [U00449](#u00449).
+
+**Current Adzom main context:** རྣལ་འབྱོར་པ་ཡིས་བརྗོད་ཤེས་ན། །
+
+**Comparison reading/snippet:** རྣལ་འབྱོར་པ་ཡི་བརྗོད་ཤེས་ན
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyph_reading": "high", "alignment": "high"}.
+
+**Locator:** PDF 16; source-member and native bounds in linked packet; bounds: [2100, 810, 2700, 940].
+
+**Observation:** The source reads ཡི before བརྗོད, without a separately visible suffix ས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p016-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-native.png), [p016-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x0000-y0000.png), [p016-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x1900-y0000.png), [p016-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x2352-y0000.png), [C1-TSAMDRAK-B04-P0016-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B04-P0016-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-p016-o16"></a>
+
+### TS-CONT2-P016-O16 — Tsamdrak
+
+Units: [U00451](#u00451).
+
+**Current Adzom main context:** བདེ་ལེགས་སུ་ནི་ཉན་པར་སྤྲོ། །
+
+**Comparison reading/snippet:** བདེ་བའི་ལུགས་སུ་ཉན་པར
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyph_reading": "high", "alignment": "high", "page_continuation": "high"}.
+
+**Locator:** PDF 16; source-member and native bounds in linked packet; bounds: [3340, 800, 3845, 940].
+
+**Observation:** The visible source wording is retained. The following-page completion is contextual evidence and is not inserted into the target-row transcription. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p016-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-native.png), [p016-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x0000-y0000.png), [p016-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x1900-y0000.png), [p016-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x2352-y0000.png), [C1-TSAMDRAK-B04-P0016-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B04-P0016-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-p016-o17"></a>
+
+### TS-CONT2-P016-O17 — Tsamdrak
+
+Units: [U00427](#u00427).
+
+**Current Adzom main context:** གོང་མ་ཙམ་སྟེ་ངེས་བརྗོད་གསུངས། །
+
+**Comparison reading/snippet:** གསུང⟦Q01⟧
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"core_གསུང": "high", "final_ས": "unresolved", "alignment": "high"}.
+
+**Locator:** PDF 16; source-member and native bounds in linked packet; bounds: [3380, 325, 3555, 465].
+
+**Observation:** The final compact strokes do not support a secure decision about suffix ས. Neither agreement nor omission is asserted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p016-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-native.png), [p016-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x0000-y0000.png), [p016-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x1900-y0000.png), [p016-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x2352-y0000.png), [C1-TSAMDRAK-B04-P0016-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B04-P0016-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-p016-o18"></a>
+
+### TS-CONT2-P016-O18 — Tsamdrak
+
+Units: [U00446](#u00446), [U00447](#u00447).
+
+**Current Adzom main context:** ཚ་དང་གྲང་བའི་བྱེད་རྒྱུ་ཅན། ། / སྟོང་ཕྲག་དག་ནི་གཉིས་གཉིས་ལས། །
+
+**Comparison reading/snippet:** ཅན ⟦B29⟧ / སྟོང་ཕྲག
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"lexical_boundary": "high", "stroke_multiplicity": "unresolved", "frame_contact": "high"}.
+
+**Locator:** PDF 16; source-member and native bounds in linked packet; bounds: [3810, 710, 3870, 850].
+
+**Observation:** The inner frame supplies adjacent vertical strokes that must not automatically be counted as shads. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p016-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-native.png), [p016-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x0000-y0000.png), [p016-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x1900-y0000.png), [p016-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B04-P0016/p016-x2352-y0000.png), [C1-TSAMDRAK-B04-P0016-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B04-P0016-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-t17-o02"></a>
+
+### TS-CONT2-T17-O02 — Tsamdrak
+
+Units: [U00454](#u00454).
+
+**Current Adzom main context:** དུས་དང་བཅས་ཏེ་མངོན་སྣང་བའོ། །
+
+**Comparison reading/snippet:** དུས་དང་བཅས་པ་མངོན་སྣང་ངོ
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"alignment": "high", "lexical": "moderate-high", "graphic": "moderate"}.
+
+**Locator:** PDF 17; source-member and native bounds in linked packet; bounds: [2030, 160, 2690, 305].
+
+**Observation:** Read པ after བཅས and ངོ after སྣང; neither is supplied from the base. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p017-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-native.png), [p017-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x0000-y0000.png), [p017-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x1900-y0000.png), [p017-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x2352-y0000.png), [C1-TSAMDRAK-B05-P0017-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B05-P0017-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-t17-o03"></a>
+
+### TS-CONT2-T17-O03 — Tsamdrak
+
+Units: [U00460](#u00460).
+
+**Current Adzom main context:** བཅུ་བཅུ་ཡི་ནི་སྐུ་གསུམ་ལས། །
+
+**Comparison reading/snippet:** བཅུ་བཅུ་ཡིས་ནི་སྐུ་གསུམ་ལས
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"alignment": "high", "lexical": "moderate-high", "graphic": "moderate-high"}.
+
+**Locator:** PDF 17; source-member and native bounds in linked packet; bounds: [3010, 290, 3690, 415].
+
+**Observation:** A sa is read following ཡི; the repeated བཅུ is retained. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p017-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-native.png), [p017-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x0000-y0000.png), [p017-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x1900-y0000.png), [p017-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x2352-y0000.png), [C1-TSAMDRAK-B05-P0017-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B05-P0017-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-t17-o04"></a>
+
+### TS-CONT2-T17-O04 — Tsamdrak
+
+Units: [U00462](#u00462).
+
+**Current Adzom main context:** འཕྲོས་པ་ཡི་ནི་ཟེར་ཙམ་གྱིས། །
+
+**Comparison reading/snippet:** འཕྲོས་པ་ཡིས་ནི་ཟེར་ཙམ་གྱིས
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"alignment": "high", "lexical": "moderate-high", "graphic": "moderate"}.
+
+**Locator:** PDF 17; source-member and native bounds in linked packet; bounds: [1050, 330, 1760, 480].
+
+**Observation:** Read ཡིས rather than ཡི. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p017-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-native.png), [p017-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x0000-y0000.png), [p017-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x1900-y0000.png), [p017-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x2352-y0000.png), [C1-TSAMDRAK-B05-P0017-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B05-P0017-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-t17-o05"></a>
+
+### TS-CONT2-T17-O05 — Tsamdrak
+
+Units: [U00466](#u00466).
+
+**Current Adzom main context:** དེ་ལྟར་སྒྲ་ཡི་དགོས་པ་ནི། །
+
+**Comparison reading/snippet:** དེ་ལྟར་སྒྲ་ཡིས་དགོས་པ་ནི
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"alignment": "high", "lexical": "moderate-high", "graphic": "moderate"}.
+
+**Locator:** PDF 17; source-member and native bounds in linked packet; bounds: [810, 425, 1400, 575].
+
+**Observation:** The sequence following སྒྲ is read ཡིས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p017-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-native.png), [p017-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x0000-y0000.png), [p017-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x1900-y0000.png), [p017-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x2352-y0000.png), [C1-TSAMDRAK-B05-P0017-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B05-P0017-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-t17-o06"></a>
+
+### TS-CONT2-T17-O06 — Tsamdrak
+
+Units: [U00468](#u00468).
+
+**Current Adzom main context:** མཆོག་དང་ཐུན་མོང་པ་དག་གི། །
+
+**Comparison reading/snippet:** མཆོག་དང་ཐུན་མོང་⟦Q05⟧་དག་གིས
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"alignment": "high", "final_gis": "moderate-high", "Q05": "unresolved"}.
+
+**Locator:** PDF 17; source-member and native bounds in linked packet; bounds: [2035, 450, 2670, 610].
+
+**Observation:** Final གིས is read independently of the unresolved pa/ba shape earlier in the phrase. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p017-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-native.png), [p017-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x0000-y0000.png), [p017-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x1900-y0000.png), [p017-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x2352-y0000.png), [C1-TSAMDRAK-B05-P0017-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B05-P0017-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-t17-o07"></a>
+
+### TS-CONT2-T17-O07 — Tsamdrak
+
+Units: [U00484](#u00484).
+
+**Current Adzom main context:** བརྡའ་དང་ཐ་སྙད་ལ་མཁས་འགྱུར། །
+
+**Comparison reading/snippet:** བརྡ་དང་ཐ་སྙད་ལ་མཁས
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"alignment": "high", "lexical": "moderate-high", "page_continuation": "high"}.
+
+**Locator:** PDF 17; source-member and native bounds in linked packet; bounds: [3300, 770, 3845, 890].
+
+**Observation:** No separate final འ is read in བརྡ. The absent target-page འགྱུར is a page carry, not an omission claim. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p017-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-native.png), [p017-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x0000-y0000.png), [p017-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x1900-y0000.png), [p017-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x2352-y0000.png), [C1-TSAMDRAK-B05-P0017-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B05-P0017-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-t17-o09"></a>
+
+### TS-CONT2-T17-O09 — Tsamdrak
+
+Units: [U00476](#u00476), [U00477](#u00477).
+
+**Current Adzom main context:** བདེ་བར་རོལ་པ་ཉིད་ཡིན་ནོ། ། / ཐུན་མོང་གྱུར་པའི་དགོས་པ་ནི། །
+
+**Comparison reading/snippet:** ཡིན་ནོ{B26} ཐུན་མོང
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"location": "high", "hook_presence": "high", "function": "unresolved", "adjacent_upright_ownership": "unresolved"}.
+
+**Locator:** PDF 17; source-member and native bounds in linked packet; bounds: [1235, 625, 1410, 745].
+
+**Observation:** The isolated hook is visible. It is not silently converted into base punctuation or assigned a numerical meaning. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p017-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-native.png), [p017-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x0000-y0000.png), [p017-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x1900-y0000.png), [p017-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x2352-y0000.png), [C1-TSAMDRAK-B05-P0017-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B05-P0017-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b05-q01"></a>
+
+### TS-CONT2-B05-Q01 — Tsamdrak
+
+Units: [U00457](#u00457).
+
+**Current Adzom main context:** དབྱངས་གཅིག་གིས་ནི་དཀྱིལ་འཁོར་དུ། །
+
+**Comparison reading/snippet:** དབྱངས་⟦Q01⟧་གིས་ནི
+
+**Status:** inspected_bounded_reading_uncertainty. **Confidence:** {"location": "scoped to preserved page report", "exact_component": "unresolved"}.
+
+**Locator:** PDF 17; source-member and native bounds in linked packet; bounds: [1035, 250, 1215, 370].
+
+**Observation:** The cluster before གིས: གཅིག versus a pa-like component followed by ཅིག. Prefix identity and possible internal separator remain unresolved. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain Adzom unchanged. This is an unresolved inspected component, not a certified witness omission or agreement.
+
+**Evidence:** [p017-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-native.png), [p017-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x0000-y0000.png), [p017-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x1900-y0000.png), [p017-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x2352-y0000.png), [C1-TSAMDRAK-B05-P0017-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B05-P0017-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b05-q02"></a>
+
+### TS-CONT2-B05-Q02 — Tsamdrak
+
+Units: [U00459](#u00459).
+
+**Current Adzom main context:** དབང་པོ་དྲུག་གི་རྣམ་དག་པས། །
+
+**Comparison reading/snippet:** དབང་པོ་དྲུག་⟦Q02⟧རྣམ་དག་པས
+
+**Status:** inspected_bounded_reading_uncertainty. **Confidence:** {"location": "scoped to preserved page report", "exact_component": "unresolved"}.
+
+**Locator:** PDF 17; source-member and native bounds in linked packet; bounds: [2465, 280, 2625, 395].
+
+**Observation:** Whether a separate གི་ occurs between དྲུག and རྣམ; the crowded strokes do not support a firm presence or omission finding. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain Adzom unchanged. This is an unresolved inspected component, not a certified witness omission or agreement.
+
+**Evidence:** [p017-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-native.png), [p017-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x0000-y0000.png), [p017-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x1900-y0000.png), [p017-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x2352-y0000.png), [C1-TSAMDRAK-B05-P0017-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B05-P0017-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b05-q03"></a>
+
+### TS-CONT2-B05-Q03 — Tsamdrak
+
+Units: [U00461](#u00461).
+
+**Current Adzom main context:** ཁྱད་པར་སྤྲུལ་པའི་སྐུ་ལས་འཕྲོས། །
+
+**Comparison reading/snippet:** སྐུ་ལས་འཕྲོ⟦Q03⟧
+
+**Status:** inspected_bounded_reading_uncertainty. **Confidence:** {"location": "scoped to preserved page report", "exact_component": "unresolved"}.
+
+**Locator:** PDF 17; source-member and native bounds in linked packet; bounds: [875, 335, 1010, 460].
+
+**Observation:** Whether final ས is present after འཕྲོ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain Adzom unchanged. This is an unresolved inspected component, not a certified witness omission or agreement.
+
+**Evidence:** [p017-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-native.png), [p017-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x0000-y0000.png), [p017-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x1900-y0000.png), [p017-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x2352-y0000.png), [C1-TSAMDRAK-B05-P0017-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B05-P0017-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b05-q04"></a>
+
+### TS-CONT2-B05-Q04 — Tsamdrak
+
+Units: [U00463](#u00463).
+
+**Current Adzom main context:** རྣལ་འབྱོར་རྟོག་པའི་ཆུ་རྒྱུན་འགགས། །
+
+**Comparison reading/snippet:** ཆུ་རྒྱུན་འགག⟦Q04⟧
+
+**Status:** inspected_bounded_reading_uncertainty. **Confidence:** {"location": "scoped to preserved page report", "exact_component": "unresolved"}.
+
+**Locator:** PDF 17; source-member and native bounds in linked packet; bounds: [2280, 365, 2460, 490].
+
+**Observation:** Whether final ས is present after འགག. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain Adzom unchanged. This is an unresolved inspected component, not a certified witness omission or agreement.
+
+**Evidence:** [p017-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-native.png), [p017-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x0000-y0000.png), [p017-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x1900-y0000.png), [p017-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x2352-y0000.png), [C1-TSAMDRAK-B05-P0017-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B05-P0017-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b05-q06"></a>
+
+### TS-CONT2-B05-Q06 — Tsamdrak
+
+Units: [U00473](#u00473).
+
+**Current Adzom main context:** འདི་ལ་ཡོན་ཏན་བརྗོད་མི་ལངས། །
+
+**Comparison reading/snippet:** བརྗོད་མི་ལང⟦Q06⟧
+
+**Status:** inspected_bounded_reading_uncertainty. **Confidence:** {"location": "scoped to preserved page report", "exact_component": "unresolved"}.
+
+**Locator:** PDF 17; source-member and native bounds in linked packet; bounds: [2580, 565, 2730, 710].
+
+**Observation:** The visible core is ལང; presence of a final ས is not securely resolved. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain Adzom unchanged. This is an unresolved inspected component, not a certified witness omission or agreement.
+
+**Evidence:** [p017-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-native.png), [p017-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x0000-y0000.png), [p017-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x1900-y0000.png), [p017-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x2352-y0000.png), [C1-TSAMDRAK-B05-P0017-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B05-P0017-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b05-q07"></a>
+
+### TS-CONT2-B05-Q07 — Tsamdrak
+
+Units: [U00478](#u00478).
+
+**Current Adzom main context:** སྒྲ་ཚད་རིག་པའི་བསྟན་ཆོས་དང༌། །
+
+**Comparison reading/snippet:** བསྟན་⟦Q07⟧་དང
+
+**Status:** inspected_bounded_reading_uncertainty. **Confidence:** {"location": "scoped to preserved page report", "exact_component": "unresolved"}.
+
+**Locator:** PDF 17; source-member and native bounds in linked packet; bounds: [2560, 640, 2740, 790].
+
+**Observation:** Readings ཆོས and བཅོས remain distinguishable possibilities; the possible prefixed ba is not secure. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain Adzom unchanged. This is an unresolved inspected component, not a certified witness omission or agreement.
+
+**Evidence:** [p017-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-native.png), [p017-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x0000-y0000.png), [p017-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x1900-y0000.png), [p017-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x2352-y0000.png), [C1-TSAMDRAK-B05-P0017-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B05-P0017-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b05-q08"></a>
+
+### TS-CONT2-B05-Q08 — Tsamdrak
+
+Units: [U00480](#u00480).
+
+**Current Adzom main context:** འཕོངས་དང་མ་སྦྱངས་ལས་རྣམས་འགྲུབ། །
+
+**Comparison reading/snippet:** འཕོང⟦Q08⟧ / next row དང་མ་སྦྱངས
+
+**Status:** inspected_bounded_reading_uncertainty. **Confidence:** {"location": "scoped to preserved page report", "exact_component": "unresolved"}.
+
+**Locator:** PDF 17; source-member and native bounds in linked packet; bounds: [3650, 660, 3830, 805].
+
+**Observation:** Whether final ས follows the visible འཕོང before the physical row break. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain Adzom unchanged. This is an unresolved inspected component, not a certified witness omission or agreement.
+
+**Evidence:** [p017-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-native.png), [p017-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x0000-y0000.png), [p017-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x1900-y0000.png), [p017-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B05-P0017/p017-x2352-y0000.png), [C1-TSAMDRAK-B05-P0017-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B05-P0017-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-p18-02"></a>
+
+### TS-CONT2-P18-02 — Tsamdrak
+
+Units: [U00485](#u00485).
+
+**Current Adzom main context:** མདོར་ན་དགོས་པའི་བསྟན་བཅོས་དང༌། །
+
+**Comparison reading/snippet:** མདོར་ན་དགོས་⟦Q1:པ⟧་བསྟན་བཅོས་དང
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"reading": "medium", "alignment": "high", "graphics": "medium"}.
+
+**Locator:** PDF 18; source-member and native bounds in linked packet; bounds: [1130, 200, 1930, 350].
+
+**Observation:** The source appears to have པ without a securely resolved genitive attachment; adoption must await Q1. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p018-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-native.png), [p018-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x0000-y0000.png), [p018-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x1900-y0000.png), [p018-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x2344-y0000.png), [C1-TSAMDRAK-B06-P0018-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B06-P0018-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-p18-03"></a>
+
+### TS-CONT2-P18-03 — Tsamdrak
+
+Units: [U00487](#u00487).
+
+**Current Adzom main context:** སྨན་དང་རྩི་སྦྱོར་བྱེ་བྲག་འབྱེད། །
+
+**Comparison reading/snippet:** སྨན་དང་རྩི་སྦྱོར་བྱེ་བྲག་ཕྱེ
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"reading": "medium-to-high", "alignment": "high", "graphics": "medium"}.
+
+**Locator:** PDF 18; source-member and native bounds in linked packet; bounds: [2810, 175, 3500, 330].
+
+**Observation:** The visible final cluster reads ཕྱེ; the longer base ending is not transcribed into it. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p018-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-native.png), [p018-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x0000-y0000.png), [p018-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x1900-y0000.png), [p018-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x2344-y0000.png), [C1-TSAMDRAK-B06-P0018-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B06-P0018-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-p18-04"></a>
+
+### TS-CONT2-P18-04 — Tsamdrak
+
+Units: [U00490](#u00490).
+
+**Current Adzom main context:** སྒྲ་དོན་དེ་ལྟར་དགོས་པ་འགྲུབ། །
+
+**Comparison reading/snippet:** དེ་ལྟར་སྒྲ་དོན་དགོས་པ་འགྲུབ
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"reading": "high", "alignment": "high", "graphics": "medium"}.
+
+**Locator:** PDF 18; source-member and native bounds in linked packet; bounds: [1530, 310, 2160, 450].
+
+**Observation:** Source order visibly places དེ་ལྟར before སྒྲ་དོན. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p018-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-native.png), [p018-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x0000-y0000.png), [p018-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x1900-y0000.png), [p018-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x2344-y0000.png), [C1-TSAMDRAK-B06-P0018-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B06-P0018-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-p18-05"></a>
+
+### TS-CONT2-P18-05 — Tsamdrak
+
+Units: [U00492](#u00492).
+
+**Current Adzom main context:** དྲིས་ལན་ལྔ་པ།
+
+**Comparison reading/snippet:** [Detached graphic A01 at the U00492 heading position; exact numeral value unresolved; heading words not supplied.]
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"reading": "medium for numeral candidate", "alignment": "high for position", "graphics": "high for detached status"}.
+
+**Locator:** PDF 18; source-member and native bounds in linked packet; bounds: [2780, 300, 3220, 415].
+
+**Observation:** A detached sign occupies this position. The base heading words are not visible; the sign is not expanded into those words. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p018-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-native.png), [p018-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x0000-y0000.png), [p018-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x1900-y0000.png), [p018-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x2344-y0000.png), [C1-TSAMDRAK-B06-P0018-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B06-P0018-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-p18-06"></a>
+
+### TS-CONT2-P18-06 — Tsamdrak
+
+Units: [U00497](#u00497).
+
+**Current Adzom main context:** གྲགས་དང་སོང་བའི་གནད་དང་བརྒྱད། །
+
+**Comparison reading/snippet:** གྲགས་དང་སོང་བའི་གནས་ཏེ་བརྒྱད
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"reading": "medium-to-high", "alignment": "high", "graphics": "medium"}.
+
+**Locator:** PDF 18; source-member and native bounds in linked packet; bounds: [2760, 395, 3470, 525].
+
+**Observation:** The visible corresponding span reads གནས་ཏེ, rather than the supplied གནད་དང. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p018-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-native.png), [p018-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x0000-y0000.png), [p018-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x1900-y0000.png), [p018-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x2344-y0000.png), [C1-TSAMDRAK-B06-P0018-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B06-P0018-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-p18-07"></a>
+
+### TS-CONT2-P18-07 — Tsamdrak
+
+Units: [U00499](#u00499).
+
+**Current Adzom main context:** འཇིག་རྟེན་ཁམས་ནི་ཆགས་པ་དང༌། །
+
+**Comparison reading/snippet:** འཇིག་རྟེན་ཁམས་⟦Q2:ལ⟧་ཆགས་པ་དང
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"reading": "medium", "alignment": "high", "graphics": "medium"}.
+
+**Locator:** PDF 18; source-member and native bounds in linked packet; bounds: [1220, 515, 1990, 640].
+
+**Observation:** The short syllable after ཁམས appears to be ལ; its identity remains bounded as Q2. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p018-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-native.png), [p018-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x0000-y0000.png), [p018-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x1900-y0000.png), [p018-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x2344-y0000.png), [C1-TSAMDRAK-B06-P0018-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B06-P0018-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-p18-08"></a>
+
+### TS-CONT2-P18-08 — Tsamdrak
+
+Units: [U00501](#u00501).
+
+**Current Adzom main context:** སྟོང་པ་ཉིད་དང་རྒྱུ་དང་རྐྱེན། །
+
+**Comparison reading/snippet:** སྟོངས་པ་ཉིད་དང་རྒྱུ་དང་རྐྱེན
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"reading": "medium-to-high", "alignment": "high", "graphics": "medium"}.
+
+**Locator:** PDF 18; source-member and native bounds in linked packet; bounds: [2820, 490, 3460, 625].
+
+**Observation:** An additional ས is visible in སྟོངས; it is retained rather than normalized. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p018-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-native.png), [p018-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x0000-y0000.png), [p018-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x1900-y0000.png), [p018-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x2344-y0000.png), [C1-TSAMDRAK-B06-P0018-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B06-P0018-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-p18-09"></a>
+
+### TS-CONT2-P18-09 — Tsamdrak
+
+Units: [U00502](#u00502).
+
+**Current Adzom main context:** གྲུབ་ཚུལ་དང་ནི་དྲང་ཚད་དོ། །
+
+**Comparison reading/snippet:** ⟦Q3:གྲངས⟧་ཚད་དོ
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"reading": "medium", "alignment": "high", "graphics": "medium"}.
+
+**Locator:** PDF 18; source-member and native bounds in linked packet; bounds: [440, 630, 740, 730].
+
+**Observation:** The first syllable appears to have a གྲ opening and final ས. Its exact consonant configuration remains Q3. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p018-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-native.png), [p018-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x0000-y0000.png), [p018-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x1900-y0000.png), [p018-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x2344-y0000.png), [C1-TSAMDRAK-B06-P0018-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B06-P0018-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-p18-10"></a>
+
+### TS-CONT2-P18-10 — Tsamdrak
+
+Units: [U00505](#u00505).
+
+**Current Adzom main context:** ཐལ་བའི་དབྱངས་ཞེས་བྱ་བའི་ཡུལ། །
+
+**Comparison reading/snippet:** ཐལ་བ་དབྱངས་ཞེས་བྱ་བ་ཡི
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"reading": "medium-to-high", "alignment": "high", "graphics": "medium"}.
+
+**Locator:** PDF 18; source-member and native bounds in linked packet; bounds: [2160, 600, 2800, 730].
+
+**Observation:** The visible sequence has ཐལ་བ and ends བྱ་བ་ཡི. Neither the genitives nor ཡུལ of the base are supplied. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p018-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-native.png), [p018-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x0000-y0000.png), [p018-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x1900-y0000.png), [p018-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x2344-y0000.png), [C1-TSAMDRAK-B06-P0018-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B06-P0018-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-p18-11"></a>
+
+### TS-CONT2-P18-11 — Tsamdrak
+
+Units: [U00512](#u00512).
+
+**Current Adzom main context:** ཐལ་བ་འཛིན་ཞེས་བྱ་བ་ནི། །
+
+**Comparison reading/snippet:** ཐལ་བ་འཛིན་ཞེས་བྱ་བ་ཡི
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"reading": "high", "alignment": "high", "graphics": "medium"}.
+
+**Locator:** PDF 18; source-member and native bounds in linked packet; bounds: [440, 805, 985, 920].
+
+**Observation:** Final ཡི is visible, rather than base ནི. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p018-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-native.png), [p018-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x0000-y0000.png), [p018-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x1900-y0000.png), [p018-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x2344-y0000.png), [C1-TSAMDRAK-B06-P0018-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B06-P0018-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-p18-12"></a>
+
+### TS-CONT2-P18-12 — Tsamdrak
+
+Units: [U00514](#u00514).
+
+**Current Adzom main context:** སྟོན་པའི་བསྟན་པ་བདེན་པ་ཉིད། །
+
+**Comparison reading/snippet:** སྟོན་པའི་བསྟན་⟦Q5:པས⟧་བདེན་པ་ཉིད
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"reading": "medium", "alignment": "high", "graphics": "medium"}.
+
+**Locator:** PDF 18; source-member and native bounds in linked packet; bounds: [1830, 790, 2530, 920].
+
+**Observation:** A possible final ས after པ is visible; Q5 prevents treating it as settled. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p018-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-native.png), [p018-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x0000-y0000.png), [p018-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x1900-y0000.png), [p018-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x2344-y0000.png), [C1-TSAMDRAK-B06-P0018-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B06-P0018-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-p18-13"></a>
+
+### TS-CONT2-P18-13 — Tsamdrak
+
+Units: [U00515](#u00515).
+
+**Current Adzom main context:** སྤྲས་ལེགས་བཀོད་པ་གཉིས་པའོ། །
+
+**Comparison reading/snippet:** སྤྲས་ལེགས་པ་བཀོད་པ་གཉིས་པའོ
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"reading": "medium-to-high", "alignment": "high", "graphics": "medium"}.
+
+**Locator:** PDF 18; source-member and native bounds in linked packet; bounds: [2560, 780, 3290, 915].
+
+**Observation:** An additional པ appears between ལེགས and བཀོད. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p018-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-native.png), [p018-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x0000-y0000.png), [p018-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x1900-y0000.png), [p018-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x2344-y0000.png), [C1-TSAMDRAK-B06-P0018-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B06-P0018-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-p18-14"></a>
+
+### TS-CONT2-P18-14 — Tsamdrak
+
+Units: [U00494](#u00494), [U00495](#u00495), [U00496](#u00496), [U00502](#u00502), [U00510](#u00510), [U00515](#u00515).
+
+**Current Adzom main context:** འཇིག་རྟེན་ཁམས་དང་ཞིང་ཁམས་དང་། ། / དམ་བཅའ་སྐྱོན་དང་སྐྱོན་གནས་དང་། ། / འཕེན་པའི་ལས་དང་སྦྱོར་བ་དང་། ། / གྲུབ་ཚུལ་དང་ནི་དྲང་ཚད་དོ། ། / ཆུ་ཞེང་ཉམས་དགའ་བཀོད་ལེགས་སྤྲས། ། / སྤྲས་ལེགས་བཀོད་པ་གཉིས་པའོ། །
+
+**Comparison reading/snippet:** A02–A07
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"reading": "variable; see individual candidates", "alignment": "high for physical positions", "graphics": "high for presence"}.
+
+**Locator:** PDF 18; source-member and native bounds in linked packet; bounds: [440, 405, 3410, 905].
+
+**Observation:** These detached marks are retained independently. Their provisional numeral interpretations are not inserted into the main verses. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p018-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-native.png), [p018-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x0000-y0000.png), [p018-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x1900-y0000.png), [p018-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x2344-y0000.png), [C1-TSAMDRAK-B06-P0018-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B06-P0018-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b06-q4"></a>
+
+### TS-CONT2-B06-Q4 — Tsamdrak
+
+Units: [U00511](#u00511).
+
+**Current Adzom main context:** དེ་ནས་འཇིག་རྟེན་དྲུག་འོག་ཏུ། །
+
+**Comparison reading/snippet:** [Inspected source component unresolved; no exact replacement adopted.]
+
+**Status:** inspected_bounded_reading_uncertainty. **Confidence:** {"location": "scoped to preserved page report", "exact_component": "unresolved"}.
+
+**Locator:** PDF 18; source-member and native bounds in linked packet; bounds: [3760, 695, 3865, 825].
+
+**Observation:** Complete final syllable, provisionally ཏུ, and its separation from the frame. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain Adzom unchanged. This is an unresolved inspected component, not a certified witness omission or agreement.
+
+**Evidence:** [p018-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-native.png), [p018-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x0000-y0000.png), [p018-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x1900-y0000.png), [p018-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B06-P0018/p018-x2344-y0000.png), [C1-TSAMDRAK-B06-P0018-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B06-P0018-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b07-o02"></a>
+
+### TS-CONT2-B07-O02 — Tsamdrak
+
+Units: [U00518](#u00518).
+
+**Current Adzom main context:** མརྒད་དག་གིས་ཡོངས་སྤྲས་པ། །
+
+**Comparison reading/snippet:** ཡོངས་སྤྲས་པས
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"geometry": "high", "anchor_alignment": "high", "lexical_reading": "medium"}.
+
+**Locator:** PDF 19; source-member and native bounds in linked packet; bounds: [1290, 155, 2045, 310].
+
+**Observation:** The source ending appears to include ས after པ before its boundary stroke. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p019-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-native.png), [p019-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x0000-y0000.png), [p019-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x1900-y0000.png), [p019-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x2344-y0000.png), [C1-TSAMDRAK-B07-P0019-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B07-P0019-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b07-o03"></a>
+
+### TS-CONT2-B07-O03 — Tsamdrak
+
+Units: [U00521](#u00521).
+
+**Current Adzom main context:** སོ་སོའི་ལས་དང་མཚན་བཅས་པའོ། །
+
+**Comparison reading/snippet:** སོ་སོའི / ལས་མཚན་བཅས་པའོ
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"geometry": "high", "anchor_alignment": "high", "lexical_reading": "high"}.
+
+**Locator:** PDF 19; source-member and native bounds in linked packet; bounds: [425, 260, 915, 375].
+
+**Observation:** At R2 left, ལས is followed directly by མཚན; no intervening དང is visible. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p019-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-native.png), [p019-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x0000-y0000.png), [p019-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x1900-y0000.png), [p019-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x2344-y0000.png), [C1-TSAMDRAK-B07-P0019-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B07-P0019-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b07-o04"></a>
+
+### TS-CONT2-B07-O04 — Tsamdrak
+
+Units: [U00523](#u00523).
+
+**Current Adzom main context:** ཐལ་བ་བརྡལ་ཞེས་བྱ་བ་ནི། །
+
+**Comparison reading/snippet:** ཞེས་བྱ་བ་ཡི
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"geometry": "high", "anchor_alignment": "high", "lexical_reading": "high"}.
+
+**Locator:** PDF 19; source-member and native bounds in linked packet; bounds: [1600, 285, 2200, 420].
+
+**Observation:** The final syllable reads ཡི rather than the supplied base's ནི. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p019-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-native.png), [p019-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x0000-y0000.png), [p019-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x1900-y0000.png), [p019-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x2344-y0000.png), [C1-TSAMDRAK-B07-P0019-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B07-P0019-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b07-o05"></a>
+
+### TS-CONT2-B07-O05 — Tsamdrak
+
+Units: [U00524](#u00524).
+
+**Current Adzom main context:** པདྨ་རྒྱས་པའི་དབྱིབས་འདྲ་བ། །
+
+**Comparison reading/snippet:** པདྨ་རྒྱས་པའི་དབྱིབས་འདྲ
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"geometry": "high", "anchor_alignment": "high", "lexical_reading": "medium-high"}.
+
+**Locator:** PDF 19; source-member and native bounds in linked packet; bounds: [2250, 300, 2900, 430].
+
+**Observation:** No separate final བ is visible between འདྲ and the boundary stroke. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p019-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-native.png), [p019-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x0000-y0000.png), [p019-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x1900-y0000.png), [p019-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x2344-y0000.png), [C1-TSAMDRAK-B07-P0019-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B07-P0019-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b07-o06"></a>
+
+### TS-CONT2-B07-O06 — Tsamdrak
+
+Units: [U00525](#u00525).
+
+**Current Adzom main context:** ཤིན་ཏུ་བརྡལ་བ་ཁོད་སྙོམས་པ། །
+
+**Comparison reading/snippet:** བརྡལ་ཞིང་ཁོད
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"geometry": "high", "anchor_alignment": "high", "lexical_reading": "high"}.
+
+**Locator:** PDF 19; source-member and native bounds in linked packet; bounds: [2940, 305, 3695, 430].
+
+**Observation:** The syllable between བརྡལ and ཁོད has the visible reading ཞིང. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p019-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-native.png), [p019-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x0000-y0000.png), [p019-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x1900-y0000.png), [p019-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x2344-y0000.png), [C1-TSAMDRAK-B07-P0019-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B07-P0019-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b07-o07"></a>
+
+### TS-CONT2-B07-O07 — Tsamdrak
+
+Units: [U00527](#u00527).
+
+**Current Adzom main context:** དཀར་དམར་སྣང་བ་འཁྲུགས་པ་ལས། །
+
+**Comparison reading/snippet:** འཁྲུ⟦Q01:ལ?⟧་པ་ལ
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"geometry": "high", "anchor_alignment": "high", "terminal_ལ_reading": "medium-high", "internal_final_cluster": "low-medium"}.
+
+**Locator:** PDF 19; source-member and native bounds in linked packet; bounds: [1410, 360, 1775, 485].
+
+**Observation:** The ending reads པ་ལ, without a clearly separate final ས. Within the preceding syllable, ལ is favored but remains Q01; the base's གས is not supplied as witness text. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p019-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-native.png), [p019-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x0000-y0000.png), [p019-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x1900-y0000.png), [p019-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x2344-y0000.png), [C1-TSAMDRAK-B07-P0019-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B07-P0019-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b07-o08"></a>
+
+### TS-CONT2-B07-O08 — Tsamdrak
+
+Units: [U00534](#u00534).
+
+**Current Adzom main context:** ལྗོངས་རབ་ཏུ་རྫོགས་ཏེ་ཉམས་དགའ་བར། །
+
+**Comparison reading/snippet:** རབ་ཏུ་རྫོགས་ཏེ་ཉམས་དགའ་བ
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"geometry": "high", "anchor_alignment": "high", "lexical_reading": "medium-high", "local_annotation_absence": "high"}.
+
+**Locator:** PDF 19; source-member and native bounds in linked packet; bounds: [2990, 470, 3705, 620].
+
+**Observation:** The visible phrase begins རབ་ཏུ; no initial ལྗོངས is present. Its ending reads བ rather than བར. No separate བདེ་ཡང་བྱུང annotation is visible in this locus. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p019-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-native.png), [p019-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x0000-y0000.png), [p019-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x1900-y0000.png), [p019-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x2344-y0000.png), [C1-TSAMDRAK-B07-P0019-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B07-P0019-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b07-o09"></a>
+
+### TS-CONT2-B07-O09 — Tsamdrak
+
+Units: [U00537](#u00537).
+
+**Current Adzom main context:** སྟོན་པའི་བསྟན་པ་རྫོགས་གཉིས་ལྡན། །
+
+**Comparison reading/snippet:** སྟོན་པའི་བསྟན་རྫོགས་གཉིས་ལྡན
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"geometry": "high", "anchor_alignment": "high", "lexical_reading": "medium-high"}.
+
+**Locator:** PDF 19; source-member and native bounds in linked packet; bounds: [1800, 555, 2610, 705].
+
+**Observation:** The sequence proceeds from བསྟན to རྫོགས without an independently visible པ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p019-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-native.png), [p019-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x0000-y0000.png), [p019-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x1900-y0000.png), [p019-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x2344-y0000.png), [C1-TSAMDRAK-B07-P0019-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B07-P0019-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b07-o10"></a>
+
+### TS-CONT2-B07-O10 — Tsamdrak
+
+Units: [U00538](#u00538).
+
+**Current Adzom main context:** ཐོད་པའི་ཕྲེང་བ་བཀོད་པ་འོ། །
+
+**Comparison reading/snippet:** ཕྲེང་བས་བཀོད་པའོ
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"geometry": "high", "anchor_alignment": "high", "lexical_reading": "medium-high", "syllable_division": "medium"}.
+
+**Locator:** PDF 19; source-member and native bounds in linked packet; bounds: [2640, 565, 3355, 715].
+
+**Observation:** A ས is visible following བ in བས. The ending is read as པའོ without importing the base's separate པ་འོ division. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p019-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-native.png), [p019-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x0000-y0000.png), [p019-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x1900-y0000.png), [p019-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x2344-y0000.png), [C1-TSAMDRAK-B07-P0019-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B07-P0019-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b07-o11"></a>
+
+### TS-CONT2-B07-O11 — Tsamdrak
+
+Units: [U00542](#u00542).
+
+**Current Adzom main context:** བཀོད་པ་ལྔ་ཡིས་ཡོངས་སུ་སྤྲས། །
+
+**Comparison reading/snippet:** བཀོད་པ་ལྔ་ཡིས་ཡོངས་སུ་⟦Q02:སྤྲས?⟧
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"geometry": "high", "anchor_alignment": "high", "final_stack_reading": "low-medium"}.
+
+**Locator:** PDF 19; source-member and native bounds in linked packet; bounds: [2770, 680, 2970, 820].
+
+**Observation:** སྤྲས is favored from the visible stack, but the medial component is not resolved securely enough to certify agreement with the corrected base reading. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p019-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-native.png), [p019-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x0000-y0000.png), [p019-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x1900-y0000.png), [p019-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B07-P0019/p019-x2344-y0000.png), [C1-TSAMDRAK-B07-P0019-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B07-P0019-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b08-p0020-o02"></a>
+
+### TS-CONT2-B08-P0020-O02 — Tsamdrak
+
+Units: [U00551](#u00551).
+
+**Current Adzom main context:** འདི་ནས་འཇིག་རྟེན་ལྷོ་ཤར་གཡོན། །
+
+**Comparison reading/snippet:** ཤར་ལྷོ
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"lexical": "medium-high", "order": "high", "anchor": "high"}.
+
+**Locator:** PDF 20; source-member and native bounds in linked packet; bounds: [2700, 200, 2990, 325].
+
+**Observation:** The visible directional syllables occur in the order ཤར then ལྷོ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p020-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-native.png), [p020-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x0000-y0000.png), [p020-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x1900-y0000.png), [p020-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x2344-y0000.png), [C1-TSAMDRAK-B08-P0020-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B08-P0020-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b08-p0020-o03"></a>
+
+### TS-CONT2-B08-P0020-O03 — Tsamdrak
+
+Units: [U00553](#u00553).
+
+**Current Adzom main context:** ཐལ་བའི་སྒྲ་ཞེས་བྱ་བ་ཡི། །
+
+**Comparison reading/snippet:** ཡིས
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"lexical": "high", "anchor": "high", "boundary": "medium-high"}.
+
+**Locator:** PDF 20; source-member and native bounds in linked packet; bounds: [840, 305, 990, 415].
+
+**Observation:** A final ས is visible before the terminal stroke. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p020-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-native.png), [p020-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x0000-y0000.png), [p020-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x1900-y0000.png), [p020-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x2344-y0000.png), [C1-TSAMDRAK-B08-P0020-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B08-P0020-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b08-p0020-o04"></a>
+
+### TS-CONT2-B08-P0020-O04 — Tsamdrak
+
+Units: [U00562](#u00562).
+
+**Current Adzom main context:** གཡོ་ཞིང་སྤྱོད་པ་བར་སྣང་ལ། །
+
+**Comparison reading/snippet:** གཡོ་ཞིང་⟦Q01:བསྐྱོད?⟧ / པ་བར་སྣང་ལ
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"anchor": "high", "row_join": "high", "stack_reading": "low-medium"}.
+
+**Locator:** PDF 20; source-member and native bounds in linked packet; bounds: [3500, 390, 3850, 525].
+
+**Observation:** The rightmost stack suggests བསྐྱོད, but its prefix and internal stack are not sufficiently secure for adoption. The rest of the unit was inspected. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p020-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-native.png), [p020-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x0000-y0000.png), [p020-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x1900-y0000.png), [p020-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x2344-y0000.png), [C1-TSAMDRAK-B08-P0020-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B08-P0020-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b08-p0020-o05"></a>
+
+### TS-CONT2-B08-P0020-O05 — Tsamdrak
+
+Units: [U00564](#u00564).
+
+**Current Adzom main context:** བསྐྱོད་པ་ལས་ནི་སྒྲ་རྣམས་འབྱུང༌། །
+
+**Comparison reading/snippet:** སྐྱོད་པ
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"lexical": "medium-high", "anchor": "high"}.
+
+**Locator:** PDF 20; source-member and native bounds in linked packet; bounds: [1475, 490, 1735, 620].
+
+**Observation:** The beginning reads སྐྱོད; no separate preceding བ is discerned in this unit. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p020-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-native.png), [p020-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x0000-y0000.png), [p020-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x1900-y0000.png), [p020-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x2344-y0000.png), [C1-TSAMDRAK-B08-P0020-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B08-P0020-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b08-p0020-o06"></a>
+
+### TS-CONT2-B08-P0020-O06 — Tsamdrak
+
+Units: [U00567](#u00567).
+
+**Current Adzom main context:** དེ་སྟེང་བཅུ་གསུམ་བརྩེགས་པ་ན། །
+
+**Comparison reading/snippet:** དེ་སྟེང⟦Q02:ས?⟧
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"anchor": "high", "row_join": "high", "final_suffix": "low-medium"}.
+
+**Locator:** PDF 20; source-member and native bounds in linked packet; bounds: [3575, 475, 3845, 620].
+
+**Observation:** The final contour could include ས; it is not silently discarded or accepted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p020-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-native.png), [p020-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x0000-y0000.png), [p020-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x1900-y0000.png), [p020-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x2344-y0000.png), [C1-TSAMDRAK-B08-P0020-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B08-P0020-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b08-p0020-o07"></a>
+
+### TS-CONT2-B08-P0020-O07 — Tsamdrak
+
+Units: [U00568](#u00568).
+
+**Current Adzom main context:** རིན་ཆེན་ཐལ་བ་ཞེས་བྱ་ན། །
+
+**Comparison reading/snippet:** རིན་ཆེན་ཐལ་བ་ཞེས་བྱ
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"lexical": "high", "anchor": "high", "boundary": "medium-high"}.
+
+**Locator:** PDF 20; source-member and native bounds in linked packet; bounds: [1030, 585, 1575, 715].
+
+**Observation:** The terminal stroke follows བྱ; no intervening ན is visible. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p020-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-native.png), [p020-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x0000-y0000.png), [p020-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x1900-y0000.png), [p020-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x2344-y0000.png), [C1-TSAMDRAK-B08-P0020-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B08-P0020-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b08-p0020-o08"></a>
+
+### TS-CONT2-B08-P0020-O08 — Tsamdrak
+
+Units: [U00571](#u00571).
+
+**Current Adzom main context:** འཕྲུལ་གྱི་རི་མོ་ཡི་གེ་མཛེས། །
+
+**Comparison reading/snippet:** ཡི་གེ་རི་མོ
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"lexical": "high", "order": "high", "anchor": "high", "terminal_punctuation": "unresolved"}.
+
+**Locator:** PDF 20; source-member and native bounds in linked packet; bounds: [3430, 575, 3800, 715].
+
+**Observation:** The visible sequence places ཡི་གེ before རི་མོ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p020-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-native.png), [p020-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x0000-y0000.png), [p020-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x1900-y0000.png), [p020-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x2344-y0000.png), [C1-TSAMDRAK-B08-P0020-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B08-P0020-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b08-p0020-o09"></a>
+
+### TS-CONT2-B08-P0020-O09 — Tsamdrak
+
+Units: [U00574](#u00574).
+
+**Current Adzom main context:** འདི་ནས་ནུབ་བྱང་མཚམས་ཀྱི་སྟེང༌། །
+
+**Comparison reading/snippet:** བྱང་ནུབ
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"lexical": "high", "order": "high", "anchor": "high"}.
+
+**Locator:** PDF 20; source-member and native bounds in linked packet; bounds: [2210, 675, 2470, 810].
+
+**Observation:** The source places བྱང before ནུབ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p020-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-native.png), [p020-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x0000-y0000.png), [p020-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x1900-y0000.png), [p020-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x2344-y0000.png), [C1-TSAMDRAK-B08-P0020-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B08-P0020-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b08-p0020-o10"></a>
+
+### TS-CONT2-B08-P0020-O10 — Tsamdrak
+
+Units: [U00576](#u00576).
+
+**Current Adzom main context:** འདུ་བའི་ཐལ་བ་ཞེས་བྱ་བ། །
+
+**Comparison reading/snippet:** བྱ་⟦Q03:བ?⟧
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"anchor": "high", "first_syllable": "high", "second_syllable": "low-medium"}.
+
+**Locator:** PDF 20; source-member and native bounds in linked packet; bounds: [440, 780, 585, 890].
+
+**Observation:** The compact form between བྱ and B7.1 is not securely separated as an additional བ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p020-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-native.png), [p020-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x0000-y0000.png), [p020-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x1900-y0000.png), [p020-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x2344-y0000.png), [C1-TSAMDRAK-B08-P0020-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B08-P0020-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b08-p0020-o11"></a>
+
+### TS-CONT2-B08-P0020-O11 — Tsamdrak
+
+Units: [U00577](#u00577).
+
+**Current Adzom main context:** མཆོད་པ་རྫོགས་པའི་ལྷ་མོར་བཅས། །
+
+**Comparison reading/snippet:** རྫོགས་པས
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"lexical": "medium-high", "anchor": "high"}.
+
+**Locator:** PDF 20; source-member and native bounds in linked packet; bounds: [800, 775, 1110, 890].
+
+**Observation:** The post-པ form is read as ས, giving པས; the base's པའི is not imported. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p020-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-native.png), [p020-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x0000-y0000.png), [p020-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x1900-y0000.png), [p020-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x2344-y0000.png), [C1-TSAMDRAK-B08-P0020-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B08-P0020-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b08-p0020-o12"></a>
+
+### TS-CONT2-B08-P0020-O12 — Tsamdrak
+
+Units: [U00578](#u00578).
+
+**Current Adzom main context:** འོད་ཀྱིས་ཁེངས་ཤིང་ཙནྡན་དྲི། །
+
+**Comparison reading/snippet:** གངས
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"lexical": "medium", "anchor": "high"}.
+
+**Locator:** PDF 20; source-member and native bounds in linked packet; bounds: [1600, 775, 1770, 890].
+
+**Observation:** The visible form is read as གངས, without a securely visible ེ. This provisional reading preserves the observed unusual form. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p020-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-native.png), [p020-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x0000-y0000.png), [p020-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x1900-y0000.png), [p020-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x2344-y0000.png), [C1-TSAMDRAK-B08-P0020-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B08-P0020-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b08-p0020-o13"></a>
+
+### TS-CONT2-B08-P0020-O13 — Tsamdrak
+
+Units: [U00580](#u00580).
+
+**Current Adzom main context:** བཅུ་དྲུག་ལོ་ལྡན་མཛེས་པའི་གཟུགས། །
+
+**Comparison reading/snippet:** ལོ⟦Q04:ང?⟧་ལྡན
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"anchor": "high", "ལོ_and_ལྡན": "medium-high", "intervening_ང": "low-medium"}.
+
+**Locator:** PDF 20; source-member and native bounds in linked packet; bounds: [3000, 765, 3260, 890].
+
+**Observation:** A contour after ལོ could represent ང or belong to the following complex; no extra letter is adopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p020-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-native.png), [p020-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x0000-y0000.png), [p020-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x1900-y0000.png), [p020-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x2344-y0000.png), [C1-TSAMDRAK-B08-P0020-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B08-P0020-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont2-b08-p0020-o14"></a>
+
+### TS-CONT2-B08-P0020-O14 — Tsamdrak
+
+Units: [U00581](#u00581).
+
+**Current Adzom main context:** རབ་ཏུ་གཞོན་པ་རྣམས་ཀྱིས་བསྐོར། །
+
+**Comparison reading/snippet:** རབ་ཏུ་གཞོ⟦Q05:ན?⟧
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"anchor": "high", "page_join": "high", "final_ན": "low-medium"}.
+
+**Locator:** PDF 20; source-member and native bounds in linked packet; bounds: [3630, 765, 3860, 900].
+
+**Observation:** The final letter crowds the inner rule; the contextual continuation does not independently establish that glyph. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this particular Tsamdrak reading, local addition, source-layer graphic or unresolved component; no grammatical normalization or unexamined-scope agreement is inferred.
+
+**Evidence:** [p020-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-native.png), [p020-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x0000-y0000.png), [p020-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x1900-y0000.png), [p020-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x2344-y0000.png), [C1-TSAMDRAK-B08-P0020-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B08-P0020-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
 
 ## A/B/S transcript apparatus
 

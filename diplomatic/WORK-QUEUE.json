@@ -4,7 +4,7 @@
   "canonical_branch": "main",
   "current_chapter": 1,
   "chapter_status": "in_progress_not_ready",
-  "next_task_id": "C1-TSAMDRAK",
+  "next_task_id": "C1-DEGE",
   "path_base": "repository root; JSON pointers identify records without changing their historical contents",
   "scope": "Continuation queue, not a whole-chapter collation claim. Thirty punctuation candidate identities remain tracked, including completed dispositions; unfinished items are hypotheses, not accepted readings. Existing Adzom and Dzongsar main lexical passes remain valid within their recorded scopes.",
   "reference_paths": [
@@ -725,7 +725,7 @@
       "checkpoint_commit": "b3b10d56c395bc0896463c5e66e2974e35db1df1",
       "blocker": null,
       "dependency_policy": "preferred_order",
-      "current_batch_id": "B04-P0016",
+      "current_batch_id": null,
       "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate.",
       "current_batch_result": "Target test distinguishes U30 thos; U12 vowel remains unresolved and U148 rtog reading is qualified. Continue new comparison at PDF14 without repeating opening passes.",
       "prior_owner_at_reassignment": "reader-tsamdrak-B01-20260928",
@@ -733,14 +733,7 @@
       "next_physical_span": "PDF15 row1, expected following U00383 but exact source correspondence must be established; preserve PDF14 bounded questions.",
       "current_wave_id": "CONTINUE2-W03",
       "bounded_parallel_policy": "Each reader owns one target page and at most three source pages including context; coordinator alone publishes and no unfinished page is inferred complete from a neighbor.",
-      "next_step": "Integrate saved PDF16/B04-P0016. Retain PDF15 questions Q01-Q09, including the small numeral-like mark and tiny row-end separators.",
-      "integration_group": [
-        "B04-P0016",
-        "B05-P0017",
-        "B06-P0018",
-        "B07-P0019",
-        "B08-P0020"
-      ]
+      "next_step": "Next genuinely missing Tsamdrak page is PDF21 row1, U00581 continuation པ་རྣམས་ཀྱིས་བསྐོར. Keep PDF20 Q01–Q10, including final-letter/frame ambiguity."
     },
     {
       "id": "C1-THARPALING",

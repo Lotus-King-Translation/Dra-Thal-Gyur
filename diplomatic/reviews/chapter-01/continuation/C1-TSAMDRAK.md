@@ -128,3 +128,63 @@ The small N01 mark between U00400 and U00401 is recorded without inventing a num
 **Remaining:** Integrate saved PDF16/B04-P0016. Retain PDF15 questions Q01-Q09, including the small numeral-like mark and tiny row-end separators.
 
 The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.
+
+## B04-P0016 — preserved review integrated
+
+Tsamdrak PDF16: U00419–U00451 source traversal includes a distinct additional main verse across rows3–4 between U00432 and U00433. The repeated mngon-shes wording is retained, not treated as a duplicated crop.
+
+[Unchanged raw report](C1-TSAMDRAK-B04-P0016-reader-reading.txt) · [Exact source and rows](C1-TSAMDRAK.json).
+
+Full source traversal is distinguished from exact resolution. Ordinary boundaries, frame-adjacent complexes, detached small marks and main lettering are recorded separately. Candidate numeral values are not expanded into words or headings.
+
+**Remaining:** Integrate the saved PDF17 report; keep every present-page glyph and graphic question explicit.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.
+
+## B05-P0017 — preserved review integrated
+
+Tsamdrak PDF17: incoming སྤྲོ completes U00451 and is a word, not an ornament. Seven source rows reach U00484 opening; finer/smaller row6 lettering remains main-text position, with no chronology inferred.
+
+[Unchanged raw report](C1-TSAMDRAK-B05-P0017-reader-reading.txt) · [Exact source and rows](C1-TSAMDRAK.json).
+
+Full source traversal is distinguished from exact resolution. Ordinary boundaries, frame-adjacent complexes, detached small marks and main lettering are recorded separately. Candidate numeral values are not expanded into words or headings.
+
+**Remaining:** Integrate the saved PDF18 report; keep every present-page glyph and graphic question explicit.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.
+
+## B06-P0018 — preserved review integrated
+
+Tsamdrak PDF18: U00484 ending through U00516 opening is integrated. Detached A01 at the U00492 heading position and A02–A07 are graphic evidence; their provisional numeral values are not expanded into full heading words.
+
+[Unchanged raw report](C1-TSAMDRAK-B06-P0018-reader-reading.txt) · [Exact source and rows](C1-TSAMDRAK.json).
+
+Full source traversal is distinguished from exact resolution. Ordinary boundaries, frame-adjacent complexes, detached small marks and main lettering are recorded separately. Candidate numeral values are not expanded into words or headings.
+
+**Remaining:** Integrate the saved PDF19 report; keep every present-page glyph and graphic question explicit.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.
+
+## B07-P0019 — preserved review integrated
+
+Tsamdrak PDF19: seven rows U00516 ending through U00548 are integrated. At U00534 the local phrase lacks the base ljongs opening and the separate base note is not visible here; no global absence inference.
+
+[Unchanged raw report](C1-TSAMDRAK-B07-P0019-reader-reading.txt) · [Exact source and rows](C1-TSAMDRAK.json).
+
+Full source traversal is distinguished from exact resolution. Ordinary boundaries, frame-adjacent complexes, detached small marks and main lettering are recorded separately. Candidate numeral values are not expanded into words or headings.
+
+**Remaining:** Integrate the saved PDF20 report; keep every present-page glyph and graphic question explicit.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.
+
+## B08-P0020 — preserved review integrated
+
+Tsamdrak PDF20: seven rows U00549–U00581 prefix are integrated. Directional order and the yi-ge/ri-mo order are recorded as source sequence, not silently harmonized. Five lexical-component questions remain with the non-main graphic inventory.
+
+[Unchanged raw report](C1-TSAMDRAK-B08-P0020-reader-reading.txt) · [Exact source and rows](C1-TSAMDRAK.json).
+
+Full source traversal is distinguished from exact resolution. Ordinary boundaries, frame-adjacent complexes, detached small marks and main lettering are recorded separately. Candidate numeral values are not expanded into words or headings.
+
+**Remaining:** Next genuinely missing Tsamdrak page is PDF21 row1, U00581 continuation པ་རྣམས་ཀྱིས་བསྐོར. Keep PDF20 Q01–Q10, including final-letter/frame ambiguity.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.
