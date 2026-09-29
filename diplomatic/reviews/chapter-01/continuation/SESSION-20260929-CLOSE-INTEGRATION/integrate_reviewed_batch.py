@@ -69,7 +69,7 @@ def integrate(plan, decisions):
     dump(C / 'scan-comparison-loci.json', old_records + new_records)
     queue = load(D / 'WORK-QUEUE.json')
     task = next(t for t in queue['tasks'] if t['id'] == plan['task'])
-    task.update(status='in_progress', owner=None, current_batch_id=None,
+    task.update(status='in_progress', owner='ChatGPT-coordinator-20260929-integration', current_batch_id=None,
                 next_step=decisions['coordinator']['next_step'],
                 last_integrated_batch_id=plan['batch'])
     queue['next_task_id'] = decisions['next_task_id']

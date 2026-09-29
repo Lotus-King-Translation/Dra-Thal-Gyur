@@ -464,3 +464,15 @@ No base-wording change. Medium-confidence readings remain provisional. Graphic c
 **Remaining:** Next genuinely missing Tingkye page is PDF11, row1 U00348 continuation པ་དང་གཞུང་གིས་ཀྱང, then རིམ་དང་ཅིག་ཆར. Retain the page10 Q/QT and marginal questions.
 
 The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.
+
+## B09-P0011-0013 — preserved review integrated
+
+Tingkye PDF11–13: all21target rows are integrated through U00463, with qualified lexical contrasts, compound punctuation and exact unresolved components. This is source traversal, not complete glyph certainty.
+
+[Unchanged raw report](C1-TINGKYE-B09-P0011-0013-reader-reading.txt) · [Exact source and rows](C1-TINGKYE.json).
+
+Heading positions U00373/U00394 have local noncorrespondence, not missing main verses. The source sequence crossing U00363 is recorded in physical order, not normalized to the base. A high-confidence readable component does not settle an adjacent Q span.
+
+**Remaining:** Continue genuinely missing Tingkye PDF14 row1 at U00464 གནས་དང་འབྱེད་དང་གནས་བཅུད་ཡུལ. Retain all Q11/Q12/Q13 questions and marginal labels.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.

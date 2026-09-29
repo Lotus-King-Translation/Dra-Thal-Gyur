@@ -21623,5 +21623,2572 @@
       "coordinator_disposition": "Preserve as a scoped source-layer, graphic or inspected-uncertainty apparatus record, not automatically a confirmed lexical variant."
     },
     "source_layer_reference_ids": []
+  },
+  {
+    "id": "TK-CONT3-B09-O11-01",
+    "witness": "Tingkye",
+    "units": [
+      "U00348"
+    ],
+    "base_snippet_at_review": "མཚན་བསྟན་པ་དང་གཞུང་གིས་ཀྱང",
+    "comparison_reading": "པ་དང་གཞུང་[Q11a]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"partial\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 11; source-member and native bounds in linked packet; bounds: [605, 265, 975, 356]",
+    "rationale": "The neighboring words establish the split; the supplied start does not resolve Q11a. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O11-01",
+        "pdf_page": 11,
+        "anchors": [
+          "U00348"
+        ],
+        "source_span": "པ་དང་གཞུང་[Q11a]",
+        "base_span": "མཚན་བསྟན་པ་དང་གཞུང་གིས་ཀྱང",
+        "category": "incoming_boundary",
+        "neighboring_context": "PDF10 row7 ends མཚན་བསྟན; PDF11 opens པ་དང་གཞུང་.",
+        "approximate_native_bounds": [
+          605,
+          265,
+          975,
+          356
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "partial",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The neighboring words establish the split; the supplied start does not resolve Q11a."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O11-02",
+    "witness": "Tingkye",
+    "units": [
+      "U00349"
+    ],
+    "base_snippet_at_review": "རིམ",
+    "comparison_reading": "རིམས",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 11; source-member and native bounds in linked packet; bounds: [1010, 265, 1180, 354]",
+    "rationale": "I read a final ས after མ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O11-02",
+        "pdf_page": 11,
+        "anchors": [
+          "U00349"
+        ],
+        "source_span": "རིམས",
+        "base_span": "རིམ",
+        "category": "spelling",
+        "neighboring_context": "Before དང་ཅིག་ཆར.",
+        "approximate_native_bounds": [
+          1010,
+          265,
+          1180,
+          354
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "I read a final ས after མ."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O11-03",
+    "witness": "Tingkye",
+    "units": [
+      "U00350"
+    ],
+    "base_snippet_at_review": "རྣམ་བཤད",
+    "comparison_reading": "རྣམ་པ་བཤད",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 11; source-member and native bounds in linked packet; bounds: [1920, 270, 2250, 353]",
+    "rationale": "A separate པ is visible between རྣམ and བཤད. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O11-03",
+        "pdf_page": 11,
+        "anchors": [
+          "U00350"
+        ],
+        "source_span": "རྣམ་པ་བཤད",
+        "base_span": "རྣམ་བཤད",
+        "category": "additional_syllable",
+        "neighboring_context": "བྱ་ཕྱིར … པའོ{T} གཞུང.",
+        "approximate_native_bounds": [
+          1920,
+          270,
+          2250,
+          353
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "A separate པ is visible between རྣམ and བཤད."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O11-04",
+    "witness": "Tingkye",
+    "units": [
+      "U00356"
+    ],
+    "base_snippet_at_review": "མིན་པའི་ལུས",
+    "comparison_reading": "མིན་པས་ལུས",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 11; source-member and native bounds in linked packet; bounds: [2320, 350, 2665, 436]",
+    "rationale": "The ending is read as པས, without an i-vowel. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O11-04",
+        "pdf_page": 11,
+        "anchors": [
+          "U00356"
+        ],
+        "source_span": "མིན་པས་ལུས",
+        "base_span": "མིན་པའི་ལུས",
+        "category": "lexical_variant",
+        "neighboring_context": "ཐུན་མོང … ལ་སྦྱར.",
+        "approximate_native_bounds": [
+          2320,
+          350,
+          2665,
+          436
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The ending is read as པས, without an i-vowel."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O11-05",
+    "witness": "Tingkye",
+    "units": [
+      "U00357"
+    ],
+    "base_snippet_at_review": "སྒོ་བསྟུན་ཕྱིར",
+    "comparison_reading": "སྒོ་མཐུན་ཕྱིར",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 11; source-member and native bounds in linked packet; bounds: [3100, 350, 3445, 436]",
+    "rationale": "The cluster is read as མཐུན. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O11-05",
+        "pdf_page": 11,
+        "anchors": [
+          "U00357"
+        ],
+        "source_span": "སྒོ་མཐུན་ཕྱིར",
+        "base_span": "སྒོ་བསྟུན་ཕྱིར",
+        "category": "lexical_variant",
+        "neighboring_context": "After ཐེག་གཞན་རྣམས་དང.",
+        "approximate_native_bounds": [
+          3100,
+          350,
+          3445,
+          436
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The cluster is read as མཐུན."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O11-06",
+    "witness": "Tingkye",
+    "units": [
+      "U00360"
+    ],
+    "base_snippet_at_review": "བསྟན་པ་སྟེ",
+    "comparison_reading": "བསྟན་པ་དང",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 11; source-member and native bounds in linked packet; bounds: [1850, 429, 2120, 520]",
+    "rationale": "The terminal syllable has the form དང. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O11-06",
+        "pdf_page": 11,
+        "anchors": [
+          "U00360"
+        ],
+        "source_span": "བསྟན་པ་དང",
+        "base_span": "བསྟན་པ་སྟེ",
+        "category": "lexical_variant",
+        "neighboring_context": "ཡིད་ཆེས་བྱ་ཕྱིར … {T} འདུལ.",
+        "approximate_native_bounds": [
+          1850,
+          429,
+          2120,
+          520
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The terminal syllable has the form དང."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O11-07",
+    "witness": "Tingkye",
+    "units": [
+      "U00361"
+    ],
+    "base_snippet_at_review": "འདུལ་གཞི",
+    "comparison_reading": "འདུལ་བ་གཞི",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 11; source-member and native bounds in linked packet; bounds: [2150, 429, 2440, 520]",
+    "rationale": "A separate བ stands between འདུལ and གཞི. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O11-07",
+        "pdf_page": 11,
+        "anchors": [
+          "U00361"
+        ],
+        "source_span": "འདུལ་བ་གཞི",
+        "base_span": "འདུལ་གཞི",
+        "category": "additional_syllable",
+        "neighboring_context": "Before ལས་ནི་འདུལ་བྱེད་དུ.",
+        "approximate_native_bounds": [
+          2150,
+          429,
+          2440,
+          520
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "A separate བ stands between འདུལ and གཞི."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O11-08",
+    "witness": "Tingkye",
+    "units": [
+      "U00363"
+    ],
+    "base_snippet_at_review": "ཡན་ལག་དཔེ་དང་ཚིག་དོན་ནོ",
+    "comparison_reading": "ཡན་ལག་དཔེ་ཚིག་དོན / དང{T}",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"high\"}",
+    "locator": "PDF 11; source-member and native bounds in linked packet; bounds: [[3330, 428, 3740, 520], [605, 510, 710, 601]]",
+    "rationale": "No དང is identified between དཔེ and ཚིག; the following physical row begins དང. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O11-08",
+        "pdf_page": 11,
+        "anchors": [
+          "U00363"
+        ],
+        "source_span": "ཡན་ལག་དཔེ་ཚིག་དོན / དང{T}",
+        "base_span": "ཡན་ལག་དཔེ་དང་ཚིག་དོན་ནོ",
+        "category": "lexical_sequence_and_row_break",
+        "neighboring_context": "After U00362; followed by the U00364 opening.",
+        "approximate_native_bounds": [
+          [
+            3330,
+            428,
+            3740,
+            520
+          ],
+          [
+            605,
+            510,
+            710,
+            601
+          ]
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "high"
+        },
+        "rationale": "No དང is identified between དཔེ and ཚིག; the following physical row begins དང."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O11-09",
+    "witness": "Tingkye",
+    "units": [
+      "U00372",
+      "U00373",
+      "U00374"
+    ],
+    "base_snippet_at_review": "U00373: དྲིས་ལན་གསུམ་པའོ",
+    "comparison_reading": "ཡིན་ནོ{T} ཨེ་མ",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"high\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 11; source-member and native bounds in linked packet; bounds: [2540, 590, 2840, 685]",
+    "rationale": "The inspected local interval contains the tiered separator and spacing; I do not identify the base's note there. This is not a missing-main-verse claim. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O11-09",
+        "pdf_page": 11,
+        "anchors": [
+          "U00372",
+          "U00373",
+          "U00374"
+        ],
+        "source_span": "ཡིན་ནོ{T} ཨེ་མ",
+        "base_span": "U00373: དྲིས་ལན་གསུམ་པའོ",
+        "category": "local_source_note_noncorrespondence",
+        "neighboring_context": "The main text proceeds from the close of U00372 to the opening of U00374.",
+        "approximate_native_bounds": [
+          2540,
+          590,
+          2840,
+          685
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "high",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The inspected local interval contains the tiered separator and spacing; I do not identify the base's note there. This is not a missing-main-verse claim."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O11-10",
+    "witness": "Tingkye",
+    "units": [
+      "U00371"
+    ],
+    "base_snippet_at_review": "འདུལ་ཡུལ",
+    "comparison_reading": "གདུལ་ཡུལ",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 11; source-member and native bounds in linked packet; bounds: [1510, 590, 1770, 684]",
+    "rationale": "The initial prefixed form is read as གདུལ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O11-10",
+        "pdf_page": 11,
+        "anchors": [
+          "U00371"
+        ],
+        "source_span": "གདུལ་ཡུལ",
+        "base_span": "འདུལ་ཡུལ",
+        "category": "spelling",
+        "neighboring_context": "Before གང་ཟག་མོས་དོན་དུ.",
+        "approximate_native_bounds": [
+          1510,
+          590,
+          1770,
+          684
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The initial prefixed form is read as གདུལ."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O11-11",
+    "witness": "Tingkye",
+    "units": [
+      "U00378"
+    ],
+    "base_snippet_at_review": "དོན་གསུམ་གྱིས",
+    "comparison_reading": "དོན་གསུམ་སྟེ",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"high\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 11; source-member and native bounds in linked packet; bounds: [1840, 672, 2120, 770]",
+    "rationale": "The terminal stack and vowel read སྟེ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O11-11",
+        "pdf_page": 11,
+        "anchors": [
+          "U00378"
+        ],
+        "source_span": "དོན་གསུམ་སྟེ",
+        "base_span": "དོན་གསུམ་གྱིས",
+        "category": "lexical_variant",
+        "neighboring_context": "After བརྡ་དང་སྒྲ་དང; before U00379.",
+        "approximate_native_bounds": [
+          1840,
+          672,
+          2120,
+          770
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "high",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The terminal stack and vowel read སྟེ."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O11-12",
+    "witness": "Tingkye",
+    "units": [
+      "U00383",
+      "U00384"
+    ],
+    "base_snippet_at_review": "དམིགས་པས་ཡུལ … རྣམས་ལ། ། རྒྱུད་ཀྱི",
+    "comparison_reading": "དམིགས་པ་ཡུལ … རྣམས་ལ་རྒྱུད་ཀྱི",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 11; source-member and native bounds in linked packet; bounds: [1490, 755, 2300, 850]",
+    "rationale": "I read པ without final ས and a continuous syllabic join at ལ་རྒྱུད; no T is identified at that anchor boundary. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O11-12",
+        "pdf_page": 11,
+        "anchors": [
+          "U00383",
+          "U00384"
+        ],
+        "source_span": "དམིགས་པ་ཡུལ … རྣམས་ལ་རྒྱུད་ཀྱི",
+        "base_span": "དམིགས་པས་ཡུལ … རྣམས་ལ། ། རྒྱུད་ཀྱི",
+        "category": "spelling_and_boundary_punctuation",
+        "neighboring_context": "Between U00382 and U00385 in row7.",
+        "approximate_native_bounds": [
+          1490,
+          755,
+          2300,
+          850
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "I read པ without final ས and a continuous syllabic join at ལ་རྒྱུད; no T is identified at that anchor boundary."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O12-01",
+    "witness": "Tingkye",
+    "units": [
+      "U00390"
+    ],
+    "base_snippet_at_review": "བསླབ་གྱུར་ནས",
+    "comparison_reading": "བསླབ་པ་[Q12a]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"partial\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 12; source-member and native bounds in linked packet; bounds: [2900, 257, 3220, 350]",
+    "rationale": "The intervening syllable reads པ; the final component remains independently unresolved. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O12-01",
+        "pdf_page": 12,
+        "anchors": [
+          "U00390"
+        ],
+        "source_span": "བསླབ་པ་[Q12a]",
+        "base_span": "བསླབ་གྱུར་ནས",
+        "category": "partial_lexical_variant",
+        "neighboring_context": "ཐབས་ལ … {T} དེས་ཀྱང.",
+        "approximate_native_bounds": [
+          2900,
+          257,
+          3220,
+          350
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "partial",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The intervening syllable reads པ; the final component remains independently unresolved."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O12-02",
+    "witness": "Tingkye",
+    "units": [
+      "U00391"
+    ],
+    "base_snippet_at_review": "བསྒྲུབ་པ",
+    "comparison_reading": "སྒྲུབ་པ",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 12; source-member and native bounds in linked packet; bounds: [3450, 257, 3730, 350]",
+    "rationale": "No separate prefixed བ is identified before the སྒྲུབ stack. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O12-02",
+        "pdf_page": 12,
+        "anchors": [
+          "U00391"
+        ],
+        "source_span": "སྒྲུབ་པ",
+        "base_span": "བསྒྲུབ་པ",
+        "category": "spelling",
+        "neighboring_context": "དེས་ཀྱང་སོ་སོའི … སྙེམས.",
+        "approximate_native_bounds": [
+          3450,
+          257,
+          3730,
+          350
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "No separate prefixed བ is identified before the སྒྲུབ stack."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O12-03",
+    "witness": "Tingkye",
+    "units": [
+      "U00393",
+      "U00394",
+      "U00395"
+    ],
+    "base_snippet_at_review": "U00394: དྲིས་ལན་བཞི་པ",
+    "comparison_reading": "བྱའོ{T} {T}རྒྱུད་ཀྱི",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"high\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 12; source-member and native bounds in linked packet; bounds: [1710, 340, 2060, 437]",
+    "rationale": "Two separated tiered clusters are retained. No note wording or reply numeral is identified within this interval. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O12-03",
+        "pdf_page": 12,
+        "anchors": [
+          "U00393",
+          "U00394",
+          "U00395"
+        ],
+        "source_span": "བྱའོ{T} {T}རྒྱུད་ཀྱི",
+        "base_span": "U00394: དྲིས་ལན་བཞི་པ",
+        "category": "local_source_note_noncorrespondence_and_graphics",
+        "neighboring_context": "Enlarged interval between the U00393 close and U00395 opening.",
+        "approximate_native_bounds": [
+          1710,
+          340,
+          2060,
+          437
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "high",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "Two separated tiered clusters are retained. No note wording or reply numeral is identified within this interval."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O12-04",
+    "witness": "Tingkye",
+    "units": [
+      "U00396"
+    ],
+    "base_snippet_at_review": "མཚན་གྱི་རྣམ",
+    "comparison_reading": "མཚན་གྱིས་རྣམ",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 12; source-member and native bounds in linked packet; bounds: [2530, 341, 2820, 437]",
+    "rationale": "A final ས is read after གྱི. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O12-04",
+        "pdf_page": 12,
+        "anchors": [
+          "U00396"
+        ],
+        "source_span": "མཚན་གྱིས་རྣམ",
+        "base_span": "མཚན་གྱི་རྣམ",
+        "category": "spelling",
+        "neighboring_context": "ངེས་པའི … གྲངས་ལ.",
+        "approximate_native_bounds": [
+          2530,
+          341,
+          2820,
+          437
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "A final ས is read after གྱི."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O12-05",
+    "witness": "Tingkye",
+    "units": [
+      "U00402"
+    ],
+    "base_snippet_at_review": "མ་བཤད་པས",
+    "comparison_reading": "མ་བཤད་ནི",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 12; source-member and native bounds in linked packet; bounds: [2940, 425, 3240, 517]",
+    "rationale": "The terminal syllable has an i-vowel and is read ནི. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O12-05",
+        "pdf_page": 12,
+        "anchors": [
+          "U00402"
+        ],
+        "source_span": "མ་བཤད་ནི",
+        "base_span": "མ་བཤད་པས",
+        "category": "lexical_variant",
+        "neighboring_context": "རྒྱུད་རྣམས་གཞན་དུ … {T} before ཨེ་མ.",
+        "approximate_native_bounds": [
+          2940,
+          425,
+          3240,
+          517
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The terminal syllable has an i-vowel and is read ནི."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O12-06",
+    "witness": "Tingkye",
+    "units": [
+      "U00404"
+    ],
+    "base_snippet_at_review": "ང་ཡི་སྤྲོ་ཡིས",
+    "comparison_reading": "ང་ཡིས་[Q12b]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"partial\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 12; source-member and native bounds in linked packet; bounds: [574, 503, 1045, 596]",
+    "rationale": "The first particle reads ཡིས; that does not settle the following cluster. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O12-06",
+        "pdf_page": 12,
+        "anchors": [
+          "U00404"
+        ],
+        "source_span": "ང་ཡིས་[Q12b]",
+        "base_span": "ང་ཡི་སྤྲོ་ཡིས",
+        "category": "partial_spelling_variant",
+        "neighboring_context": "Row4 opening, followed by ང་ལ་ཉོན.",
+        "approximate_native_bounds": [
+          574,
+          503,
+          1045,
+          596
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "partial",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The first particle reads ཡིས; that does not settle the following cluster."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O12-07",
+    "witness": "Tingkye",
+    "units": [
+      "U00409"
+    ],
+    "base_snippet_at_review": "སྤྱད",
+    "comparison_reading": "སྤྱོད",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 12; source-member and native bounds in linked packet; bounds: [820, 584, 976, 680]",
+    "rationale": "I read an o-vowel above the stack. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O12-07",
+        "pdf_page": 12,
+        "anchors": [
+          "U00409"
+        ],
+        "source_span": "སྤྱོད",
+        "base_span": "སྤྱད",
+        "category": "vowel_variant",
+        "neighboring_context": "པ་ཆེན་པོར … {T} ཚངས.",
+        "approximate_native_bounds": [
+          820,
+          584,
+          976,
+          680
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "I read an o-vowel above the stack."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O12-08",
+    "witness": "Tingkye",
+    "units": [
+      "U00412"
+    ],
+    "base_snippet_at_review": "གནས་གཞན",
+    "comparison_reading": "གནས་པ་གཞན",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 12; source-member and native bounds in linked packet; bounds: [2010, 584, 2290, 680]",
+    "rationale": "A separate པ intervenes. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O12-08",
+        "pdf_page": 12,
+        "anchors": [
+          "U00412"
+        ],
+        "source_span": "གནས་པ་གཞན",
+        "base_span": "གནས་གཞན",
+        "category": "additional_syllable",
+        "neighboring_context": "Before བྱེད་པ་རེ་རེ་སྟེ.",
+        "approximate_native_bounds": [
+          2010,
+          584,
+          2290,
+          680
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "A separate པ intervenes."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O12-09",
+    "witness": "Tingkye",
+    "units": [
+      "U00413"
+    ],
+    "base_snippet_at_review": "གནས་གཞན",
+    "comparison_reading": "གནས་པ་གཞན",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 12; source-member and native bounds in linked packet; bounds: [2760, 584, 3030, 680]",
+    "rationale": "The additional པ is read independently in this occurrence. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O12-09",
+        "pdf_page": 12,
+        "anchors": [
+          "U00413"
+        ],
+        "source_span": "གནས་པ་གཞན",
+        "base_span": "གནས་གཞན",
+        "category": "additional_syllable",
+        "neighboring_context": "དང … ལྔ་ཡིན་པས.",
+        "approximate_native_bounds": [
+          2760,
+          584,
+          3030,
+          680
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The additional པ is read independently in this occurrence."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O12-10",
+    "witness": "Tingkye",
+    "units": [
+      "U00416"
+    ],
+    "base_snippet_at_review": "གནས་གཞན་ལས",
+    "comparison_reading": "གནས་པ་གཞན་ལས",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 12; source-member and native bounds in linked packet; bounds: [1570, 666, 1885, 762]",
+    "rationale": "The visible sequence includes པ after གནས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O12-10",
+        "pdf_page": 12,
+        "anchors": [
+          "U00416"
+        ],
+        "source_span": "གནས་པ་གཞན་ལས",
+        "base_span": "གནས་གཞན་ལས",
+        "category": "additional_syllable",
+        "neighboring_context": "After ཁྱབ་འཇུག་གིས་ནི.",
+        "approximate_native_bounds": [
+          1570,
+          666,
+          1885,
+          762
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The visible sequence includes པ after གནས."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O12-11",
+    "witness": "Tingkye",
+    "units": [
+      "U00418"
+    ],
+    "base_snippet_at_review": "ཟུར་ཕུད་ཕྱེད་པའི་ལས་ཀྱི་རྒྱུ",
+    "comparison_reading": "ཟུར་ཕུད་བྱེད་པའི་ལས་རྒྱུ",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 12; source-member and native bounds in linked packet; bounds: [2530, 666, 3045, 762]",
+    "rationale": "The verb is read བྱེད; ལས runs directly to རྒྱུ without an identified ཀྱི. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O12-11",
+        "pdf_page": 12,
+        "anchors": [
+          "U00418"
+        ],
+        "source_span": "ཟུར་ཕུད་བྱེད་པའི་ལས་རྒྱུ",
+        "base_span": "ཟུར་ཕུད་ཕྱེད་པའི་ལས་ཀྱི་རྒྱུ",
+        "category": "lexical_sequence",
+        "neighboring_context": "Between U00417 and མཚན་ལྡན.",
+        "approximate_native_bounds": [
+          2530,
+          666,
+          3045,
+          762
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The verb is read བྱེད; ལས runs directly to རྒྱུ without an identified ཀྱི."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O12-12",
+    "witness": "Tingkye",
+    "units": [
+      "U00424"
+    ],
+    "base_snippet_at_review": "སྒྲ་དབྱངས་ཀྱིས",
+    "comparison_reading": "སྒྲ་དབྱངས་ནི",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 12; source-member and native bounds in linked packet; bounds: [2880, 746, 3130, 847]",
+    "rationale": "The final particle reads ནི; the earlier possessive remains unresolved. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O12-12",
+        "pdf_page": 12,
+        "anchors": [
+          "U00424"
+        ],
+        "source_span": "སྒྲ་དབྱངས་ནི",
+        "base_span": "སྒྲ་དབྱངས་ཀྱིས",
+        "category": "lexical_variant",
+        "neighboring_context": "After པིང་ཀ་[Q12c]; before U00425.",
+        "approximate_native_bounds": [
+          2880,
+          746,
+          3130,
+          847
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The final particle reads ནི; the earlier possessive remains unresolved."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O12-13",
+    "witness": "Tingkye",
+    "units": [
+      "U00425"
+    ],
+    "base_snippet_at_review": "ལུས་ལ་བརྒྱ",
+    "comparison_reading": "ལུས་དང་བརྒྱ",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 12; source-member and native bounds in linked packet; bounds: [3150, 746, 3440, 847]",
+    "rationale": "The particle after ལུས is read དང. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p012-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O12-13",
+        "pdf_page": 12,
+        "anchors": [
+          "U00425"
+        ],
+        "source_span": "ལུས་དང་བརྒྱ",
+        "base_span": "ལུས་ལ་བརྒྱ",
+        "category": "lexical_variant",
+        "neighboring_context": "Continues དང་ཉི་ཤུ་ལ{T} དེ.",
+        "approximate_native_bounds": [
+          3150,
+          746,
+          3440,
+          847
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The particle after ལུས is read དང."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O13-01",
+    "witness": "Tingkye",
+    "units": [
+      "U00427"
+    ],
+    "base_snippet_at_review": "གོང་མ་ཙམ་སྟེ་ངེས་བརྗོད་གསུངས",
+    "comparison_reading": "གོང་ཙམ་སྟེ་ངེས་བརྗོད་གསུང",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 13; source-member and native bounds in linked packet; bounds: [1170, 259, 1750, 357]",
+    "rationale": "No separate མ is identified after གོང; the final word is read without suffix ས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O13-01",
+        "pdf_page": 13,
+        "anchors": [
+          "U00427"
+        ],
+        "source_span": "གོང་ཙམ་སྟེ་ངེས་བརྗོད་གསུང",
+        "base_span": "གོང་མ་ཙམ་སྟེ་ངེས་བརྗོད་གསུངས",
+        "category": "lexical_sequence_and_spelling",
+        "neighboring_context": "Between U00426 and འཇིག་རྟེན.",
+        "approximate_native_bounds": [
+          1170,
+          259,
+          1750,
+          357
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "No separate མ is identified after གོང; the final word is read without suffix ས."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O13-02",
+    "witness": "Tingkye",
+    "units": [
+      "U00428"
+    ],
+    "base_snippet_at_review": "འཇིག་རྟེན་པ་ཡི",
+    "comparison_reading": "འཇིག་རྟེན་པའི",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 13; source-member and native bounds in linked packet; bounds: [1760, 259, 2070, 357]",
+    "rationale": "The possessive is joined to པ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O13-02",
+        "pdf_page": 13,
+        "anchors": [
+          "U00428"
+        ],
+        "source_span": "འཇིག་རྟེན་པའི",
+        "base_span": "འཇིག་རྟེན་པ་ཡི",
+        "category": "contracted_form",
+        "neighboring_context": "Before ལྷ་རྣམས་དང.",
+        "approximate_native_bounds": [
+          1760,
+          259,
+          2070,
+          357
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The possessive is joined to པ."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O13-03",
+    "witness": "Tingkye",
+    "units": [
+      "U00429"
+    ],
+    "base_snippet_at_review": "ལྷ་དག་དང",
+    "comparison_reading": "ལྷ་རྣམས་དང",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 13; source-member and native bounds in linked packet; bounds: [2640, 259, 2900, 357]",
+    "rationale": "The plural reads རྣམས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O13-03",
+        "pdf_page": 13,
+        "anchors": [
+          "U00429"
+        ],
+        "source_span": "ལྷ་རྣམས་དང",
+        "base_span": "ལྷ་དག་དང",
+        "category": "lexical_variant",
+        "neighboring_context": "After དེ་བཞིན་འདས་པའི.",
+        "approximate_native_bounds": [
+          2640,
+          259,
+          2900,
+          357
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The plural reads རྣམས."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O13-04",
+    "witness": "Tingkye",
+    "units": [
+      "U00433"
+    ],
+    "base_snippet_at_review": "སྤྱད་ན",
+    "comparison_reading": "སྤྱད་ནས",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 13; source-member and native bounds in linked packet; bounds: [1810, 342, 2015, 436]",
+    "rationale": "A final ས is read on the closing particle. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O13-04",
+        "pdf_page": 13,
+        "anchors": [
+          "U00433"
+        ],
+        "source_span": "སྤྱད་ནས",
+        "base_span": "སྤྱད་ན",
+        "category": "spelling",
+        "neighboring_context": "མངོན་ཤེས་དྲུག་ལ་ངེས … {T}.",
+        "approximate_native_bounds": [
+          1810,
+          342,
+          2015,
+          436
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "A final ས is read on the closing particle."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O13-05",
+    "witness": "Tingkye",
+    "units": [
+      "U00434"
+    ],
+    "base_snippet_at_review": "དོན་རྣམས་ཤེས",
+    "comparison_reading": "དོན་ཉིད་ཤེས",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 13; source-member and native bounds in linked packet; bounds: [2390, 342, 2670, 437]",
+    "rationale": "The middle syllable is read ཉིད. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O13-05",
+        "pdf_page": 13,
+        "anchors": [
+          "U00434"
+        ],
+        "source_span": "དོན་ཉིད་ཤེས",
+        "base_span": "དོན་རྣམས་ཤེས",
+        "category": "lexical_variant",
+        "neighboring_context": "After བདེ་གཤེགས་བཀའ་ཡི.",
+        "approximate_native_bounds": [
+          2390,
+          342,
+          2670,
+          437
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The middle syllable is read ཉིད."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O13-06",
+    "witness": "Tingkye",
+    "units": [
+      "U00435"
+    ],
+    "base_snippet_at_review": "ཚིགས་སུ་བཅད་པའི་གྲངས་ཀྱིས་སུ",
+    "comparison_reading": "ཚིགས་བཅད་པའི་གྲངས་ཀྱིས་ལས",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 13; source-member and native bounds in linked packet; bounds: [2680, 342, 3280, 437]",
+    "rationale": "No སུ is identified after ཚིགས; the terminal syllable reads ལས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O13-06",
+        "pdf_page": 13,
+        "anchors": [
+          "U00435"
+        ],
+        "source_span": "ཚིགས་བཅད་པའི་གྲངས་ཀྱིས་ལས",
+        "base_span": "ཚིགས་སུ་བཅད་པའི་གྲངས་ཀྱིས་སུ",
+        "category": "lexical_sequence",
+        "neighboring_context": "Between U00434 and སོ་སོར.",
+        "approximate_native_bounds": [
+          2680,
+          342,
+          3280,
+          437
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "No སུ is identified after ཚིགས; the terminal syllable reads ལས."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O13-07",
+    "witness": "Tingkye",
+    "units": [
+      "U00439"
+    ],
+    "base_snippet_at_review": "མཁས་པས",
+    "comparison_reading": "མཁས་པའི",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 13; source-member and native bounds in linked packet; bounds: [1980, 423, 2200, 518]",
+    "rationale": "The ending is read with the joined possessive and i-vowel. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O13-07",
+        "pdf_page": 13,
+        "anchors": [
+          "U00439"
+        ],
+        "source_span": "མཁས་པའི",
+        "base_span": "མཁས་པས",
+        "category": "lexical_variant",
+        "neighboring_context": "Before ཆོ་ག་རྫོགས་པའོ.",
+        "approximate_native_bounds": [
+          1980,
+          423,
+          2200,
+          518
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The ending is read with the joined possessive and i-vowel."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O13-08",
+    "witness": "Tingkye",
+    "units": [
+      "U00442"
+    ],
+    "base_snippet_at_review": "བཞི་དག་ལ",
+    "comparison_reading": "བཞི་དག་ལས",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 13; source-member and native bounds in linked packet; bounds: [610, 503, 915, 600]",
+    "rationale": "The closing particle has a visible final ས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O13-08",
+        "pdf_page": 13,
+        "anchors": [
+          "U00442"
+        ],
+        "source_span": "བཞི་དག་ལས",
+        "base_span": "བཞི་དག་ལ",
+        "category": "spelling",
+        "neighboring_context": "Row4 continuation of ས་ཆུ་མེ་རླུང.",
+        "approximate_native_bounds": [
+          610,
+          503,
+          915,
+          600
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The closing particle has a visible final ས."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O13-09",
+    "witness": "Tingkye",
+    "units": [
+      "U00445"
+    ],
+    "base_snippet_at_review": "མོ་ཡི",
+    "comparison_reading": "མོའི",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 13; source-member and native bounds in linked packet; bounds: [2140, 503, 2340, 600]",
+    "rationale": "The possessive is attached to མོ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O13-09",
+        "pdf_page": 13,
+        "anchors": [
+          "U00445"
+        ],
+        "source_span": "མོའི",
+        "base_span": "མོ་ཡི",
+        "category": "contracted_form",
+        "neighboring_context": "ཕོ་དང … ཁྱད་པར་ལས.",
+        "approximate_native_bounds": [
+          2140,
+          503,
+          2340,
+          600
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The possessive is attached to མོ."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O13-10",
+    "witness": "Tingkye",
+    "units": [
+      "U00448"
+    ],
+    "base_snippet_at_review": "སྒྲ་རྣམས་ནི",
+    "comparison_reading": "སྒྲ་རྣམས་ཀྱི",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 13; source-member and native bounds in linked packet; bounds: [880, 582, 1180, 686]",
+    "rationale": "The closing particle has the stacked form ཀྱི. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O13-10",
+        "pdf_page": 13,
+        "anchors": [
+          "U00448"
+        ],
+        "source_span": "སྒྲ་རྣམས་ཀྱི",
+        "base_span": "སྒྲ་རྣམས་ནི",
+        "category": "lexical_variant",
+        "neighboring_context": "Row5 continuation after ཅིང་བརྟགས་པའི.",
+        "approximate_native_bounds": [
+          880,
+          582,
+          1180,
+          686
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The closing particle has the stacked form ཀྱི."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O13-11",
+    "witness": "Tingkye",
+    "units": [
+      "U00449"
+    ],
+    "base_snippet_at_review": "རྣལ་འབྱོར་པ་ཡིས་བརྗོད་ཤེས་ན",
+    "comparison_reading": "རྣལ་འབྱོར་པ་ཡིས་སྒྲ་བརྗོད་ཤེས",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 13; source-member and native bounds in linked packet; bounds: [1190, 582, 1810, 686]",
+    "rationale": "A སྒྲ syllable is read before བརྗོད; the tiered mark follows ཤེས without an identified ན. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O13-11",
+        "pdf_page": 13,
+        "anchors": [
+          "U00449"
+        ],
+        "source_span": "རྣལ་འབྱོར་པ་ཡིས་སྒྲ་བརྗོད་ཤེས",
+        "base_span": "རྣལ་འབྱོར་པ་ཡིས་བརྗོད་ཤེས་ན",
+        "category": "lexical_sequence",
+        "neighboring_context": "Between U00448 and དེ་དག་ཀུན.",
+        "approximate_native_bounds": [
+          1190,
+          582,
+          1810,
+          686
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "A སྒྲ syllable is read before བརྗོད; the tiered mark follows ཤེས without an identified ན."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O13-12",
+    "witness": "Tingkye",
+    "units": [
+      "U00455"
+    ],
+    "base_snippet_at_review": "ད་ལྟར་གྱི",
+    "comparison_reading": "ད་ལྟར་གྱིས",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 13; source-member and native bounds in linked packet; bounds: [1740, 665, 2010, 770]",
+    "rationale": "The particle is read with final ས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O13-12",
+        "pdf_page": 13,
+        "anchors": [
+          "U00455"
+        ],
+        "source_span": "ད་ལྟར་གྱིས",
+        "base_span": "ད་ལྟར་གྱི",
+        "category": "spelling",
+        "neighboring_context": "After འདས་དང་མ་འོངས.",
+        "approximate_native_bounds": [
+          1740,
+          665,
+          2010,
+          770
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The particle is read with final ས."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O13-13",
+    "witness": "Tingkye",
+    "units": [
+      "U00458"
+    ],
+    "base_snippet_at_review": "སྐལ་བ་ཅན",
+    "comparison_reading": "སྐལ་པ་ཅན",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 13; source-member and native bounds in linked packet; bounds: [3360, 665, 3610, 770]",
+    "rationale": "The intervening letter is read པ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O13-13",
+        "pdf_page": 13,
+        "anchors": [
+          "U00458"
+        ],
+        "source_span": "སྐལ་པ་ཅན",
+        "base_span": "སྐལ་བ་ཅན",
+        "category": "spelling",
+        "neighboring_context": "Row6 close, continuing གྱི་སྣང / བ་ལ.",
+        "approximate_native_bounds": [
+          3360,
+          665,
+          3610,
+          770
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The intervening letter is read པ."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O13-14",
+    "witness": "Tingkye",
+    "units": [
+      "U00459"
+    ],
+    "base_snippet_at_review": "དྲུག་གི་རྣམ",
+    "comparison_reading": "དྲུག་གིས་རྣམ",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 13; source-member and native bounds in linked packet; bounds: [960, 749, 1170, 851]",
+    "rationale": "A final ས is read in གིས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O13-14",
+        "pdf_page": 13,
+        "anchors": [
+          "U00459"
+        ],
+        "source_span": "དྲུག་གིས་རྣམ",
+        "base_span": "དྲུག་གི་རྣམ",
+        "category": "spelling",
+        "neighboring_context": "དབང་པོ … དག་པས.",
+        "approximate_native_bounds": [
+          960,
+          749,
+          1170,
+          851
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "A final ས is read in གིས."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O13-15",
+    "witness": "Tingkye",
+    "units": [
+      "U00460"
+    ],
+    "base_snippet_at_review": "བཅུ་བཅུ་ཡི་ནི",
+    "comparison_reading": "བཅུ་བཅུ་ཡིས་ནི",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 13; source-member and native bounds in linked packet; bounds: [1300, 749, 1635, 851]",
+    "rationale": "The particle is read ཡིས; both བཅུ occurrences are retained. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O13-15",
+        "pdf_page": 13,
+        "anchors": [
+          "U00460"
+        ],
+        "source_span": "བཅུ་བཅུ་ཡིས་ནི",
+        "base_span": "བཅུ་བཅུ་ཡི་ནི",
+        "category": "spelling",
+        "neighboring_context": "Before སྐུ་གསུམ་ལས.",
+        "approximate_native_bounds": [
+          1300,
+          749,
+          1635,
+          851
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The particle is read ཡིས; both བཅུ occurrences are retained."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-O13-16",
+    "witness": "Tingkye",
+    "units": [
+      "U00462"
+    ],
+    "base_snippet_at_review": "འཕྲོས་པ་ཡི་ནི",
+    "comparison_reading": "འཕྲོས་པ་ཡིས་ནི",
+    "status": "qualified_local_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 13; source-member and native bounds in linked packet; bounds: [2440, 749, 2780, 851]",
+    "rationale": "A final ས is read after ཡི. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "O13-16",
+        "pdf_page": 13,
+        "anchors": [
+          "U00462"
+        ],
+        "source_span": "འཕྲོས་པ་ཡིས་ནི",
+        "base_span": "འཕྲོས་པ་ཡི་ནི",
+        "category": "spelling",
+        "neighboring_context": "Before ཟེར་ཙམ་གྱིས.",
+        "approximate_native_bounds": [
+          2440,
+          749,
+          2780,
+          851
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "A final ས is read after ཡི."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-Q11b",
+    "witness": "Tingkye",
+    "units": [
+      "U00353"
+    ],
+    "base_snippet_at_review": "ཡན་ལག་དོན་གྱིས་རྒྱས་པར་དབྱེ། །",
+    "comparison_reading": "[Q11b] Final syllable after པར: the བྱེ component is readable, but is a separate prefixed ད present?",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 11; source-member and native bounds in linked packet; bounds: [859, 350, 947, 439]",
+    "rationale": "Final syllable after པར: the བྱེ component is readable, but is a separate prefixed ད present? Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "Q11b",
+        "pdf_page": 11,
+        "anchors": [
+          "U00353"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q11b] Final syllable after པར: the བྱེ component is readable, but is a separate prefixed ད present?",
+        "base_span": "ཡན་ལག་དོན་གྱིས་རྒྱས་པར་དབྱེ། །",
+        "approximate_native_bounds": [
+          859,
+          350,
+          947,
+          439
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Final syllable after པར: the བྱེ component is readable, but is a separate prefixed ད present?"
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-Q11c",
+    "witness": "Tingkye",
+    "units": [
+      "U00364"
+    ],
+    "base_snippet_at_review": "ལེའུ་གྲངས་དྲུག་གིས་གཞུང་ཉིད་ལས། །",
+    "comparison_reading": "[Q11c] Resolve the opening cluster before གཞུང་ཉིད་ལས, including the division of the first words and the ending of the particle following the readable དྲུག-like cluster.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 11; source-member and native bounds in linked packet; bounds: [741, 511, 1047, 602]",
+    "rationale": "Resolve the opening cluster before གཞུང་ཉིད་ལས, including the division of the first words and the ending of the particle following the readable དྲུག-like cluster. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "Q11c",
+        "pdf_page": 11,
+        "anchors": [
+          "U00364"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q11c] Resolve the opening cluster before གཞུང་ཉིད་ལས, including the division of the first words and the ending of the particle following the readable དྲུག-like cluster.",
+        "base_span": "ལེའུ་གྲངས་དྲུག་གིས་གཞུང་ཉིད་ལས། །",
+        "approximate_native_bounds": [
+          741,
+          511,
+          1047,
+          602
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Resolve the opening cluster before གཞུང་ཉིད་ལས, including the division of the first words and the ending of the particle following the readable དྲུག-like cluster."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-Q11d",
+    "witness": "Tingkye",
+    "units": [
+      "U00365"
+    ],
+    "base_snippet_at_review": "ཅི་ལྟར་གནས་པའི་ཚིག་དོན་ནི། །",
+    "comparison_reading": "[Q11d] Initial syllable immediately before ལྟར: is the consonant ཅ or ཇ?",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 11; source-member and native bounds in linked packet; bounds: [1312, 507, 1397, 591]",
+    "rationale": "Initial syllable immediately before ལྟར: is the consonant ཅ or ཇ? Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "Q11d",
+        "pdf_page": 11,
+        "anchors": [
+          "U00365"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q11d] Initial syllable immediately before ལྟར: is the consonant ཅ or ཇ?",
+        "base_span": "ཅི་ལྟར་གནས་པའི་ཚིག་དོན་ནི། །",
+        "approximate_native_bounds": [
+          1312,
+          507,
+          1397,
+          591
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Initial syllable immediately before ལྟར: is the consonant ཅ or ཇ?"
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-Q11e",
+    "witness": "Tingkye",
+    "units": [
+      "U00370"
+    ],
+    "base_snippet_at_review": "ལན་གཉིས་མདོ་དང་རྒྱས་པ་བཤད། །",
+    "comparison_reading": "[Q11e] Syllable between ལན and མདོ: resolve prefix and final consonant; I cannot securely distinguish the གཉིས-like and ཉིད-like readings.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 11; source-member and native bounds in linked packet; bounds: [1001, 588, 1136, 679]",
+    "rationale": "Syllable between ལན and མདོ: resolve prefix and final consonant; I cannot securely distinguish the གཉིས-like and ཉིད-like readings. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p011-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "Q11e",
+        "pdf_page": 11,
+        "anchors": [
+          "U00370"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q11e] Syllable between ལན and མདོ: resolve prefix and final consonant; I cannot securely distinguish the གཉིས-like and ཉིད-like readings.",
+        "base_span": "ལན་གཉིས་མདོ་དང་རྒྱས་པ་བཤད། །",
+        "approximate_native_bounds": [
+          1001,
+          588,
+          1136,
+          679
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Syllable between ལན and མདོ: resolve prefix and final consonant; I cannot securely distinguish the གཉིས-like and ཉིད-like readings."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-Q13a",
+    "witness": "Tingkye",
+    "units": [
+      "U00438"
+    ],
+    "base_snippet_at_review": "སྙན་བརྗོད་གསུང་ནི་བསམ་མི་ཁྱབ། །",
+    "comparison_reading": "[Q13a] Between readable སྙན and བརྗོད, is an additional པར-like syllable present, or do these strokes belong to the adjacent letters? The placeholder includes this interval's tsheg allocation.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 13; source-member and native bounds in linked packet; bounds: [1350, 422, 1489, 512]",
+    "rationale": "Between readable སྙན and བརྗོད, is an additional པར-like syllable present, or do these strokes belong to the adjacent letters? The placeholder includes this interval's tsheg allocation. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "Q13a",
+        "pdf_page": 13,
+        "anchors": [
+          "U00438"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q13a] Between readable སྙན and བརྗོད, is an additional པར-like syllable present, or do these strokes belong to the adjacent letters? The placeholder includes this interval's tsheg allocation.",
+        "base_span": "སྙན་བརྗོད་གསུང་ནི་བསམ་མི་ཁྱབ། །",
+        "approximate_native_bounds": [
+          1350,
+          422,
+          1489,
+          512
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Between readable སྙན and བརྗོད, is an additional པར-like syllable present, or do these strokes belong to the adjacent letters? The placeholder includes this interval's tsheg allocation."
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
+  },
+  {
+    "id": "TK-CONT3-B09-Q13b",
+    "witness": "Tingkye",
+    "units": [
+      "U00446"
+    ],
+    "base_snippet_at_review": "ཚ་དང་གྲང་བའི་བྱེད་རྒྱུ་ཅན། །",
+    "comparison_reading": "[Q13b] Resolve the entire interval between བའི and རྒྱུ: is a separate བྱེད present, and which visible strokes and tshegs belong to it?",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 13; source-member and native bounds in linked packet; bounds: [2670, 502, 2821, 602]",
+    "rationale": "Resolve the entire interval between བའི and རྒྱུ: is a separate བྱེད present, and which visible strokes and tshegs belong to it? Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0011-0013",
+      "baseline_commit": "17e3c30dd131e7c59534485fc64d78cca7fd7396",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba"
+      },
+      "observation": {
+        "id": "Q13b",
+        "pdf_page": 13,
+        "anchors": [
+          "U00446"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q13b] Resolve the entire interval between བའི and རྒྱུ: is a separate བྱེད present, and which visible strokes and tshegs belong to it?",
+        "base_span": "ཚ་དང་གྲང་བའི་བྱེད་རྒྱུ་ཅན། །",
+        "approximate_native_bounds": [
+          2670,
+          502,
+          2821,
+          602
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Resolve the entire interval between བའི and རྒྱུ: is a separate བྱེད present, and which visible strokes and tshegs belong to it?"
+      },
+      "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
+    }
   }
 ]

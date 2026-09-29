@@ -4858,6 +4858,336 @@
       ],
       "next_physical_span": "Next genuinely missing Degé comparison page is PDF9, row1 U00390 continuation ཐབས་ལ་བསླབ་གྱུར་ནས. Retain all PDF8 Q01-Q12 and the previous page-specific unresolved letters, note remainders and graphic inventories.",
       "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-TINGKYE",
+      "batch_id": "B09-P0011-0013",
+      "target_pages": [
+        11,
+        12,
+        13
+      ],
+      "report": "reviews/chapter-01/continuation/C1-TINGKYE.json",
+      "summary": "Tingkye PDF11–13: all21target rows are integrated through U00463, with qualified lexical contrasts, compound punctuation and exact unresolved components. This is source traversal, not complete glyph certainty.",
+      "rows_reported": 21,
+      "canonical_record_ids": [
+        "TK-CONT3-B09-O11-01",
+        "TK-CONT3-B09-O11-02",
+        "TK-CONT3-B09-O11-03",
+        "TK-CONT3-B09-O11-04",
+        "TK-CONT3-B09-O11-05",
+        "TK-CONT3-B09-O11-06",
+        "TK-CONT3-B09-O11-07",
+        "TK-CONT3-B09-O11-08",
+        "TK-CONT3-B09-O11-09",
+        "TK-CONT3-B09-O11-10",
+        "TK-CONT3-B09-O11-11",
+        "TK-CONT3-B09-O11-12",
+        "TK-CONT3-B09-O12-01",
+        "TK-CONT3-B09-O12-02",
+        "TK-CONT3-B09-O12-03",
+        "TK-CONT3-B09-O12-04",
+        "TK-CONT3-B09-O12-05",
+        "TK-CONT3-B09-O12-06",
+        "TK-CONT3-B09-O12-07",
+        "TK-CONT3-B09-O12-08",
+        "TK-CONT3-B09-O12-09",
+        "TK-CONT3-B09-O12-10",
+        "TK-CONT3-B09-O12-11",
+        "TK-CONT3-B09-O12-12",
+        "TK-CONT3-B09-O12-13",
+        "TK-CONT3-B09-O13-01",
+        "TK-CONT3-B09-O13-02",
+        "TK-CONT3-B09-O13-03",
+        "TK-CONT3-B09-O13-04",
+        "TK-CONT3-B09-O13-05",
+        "TK-CONT3-B09-O13-06",
+        "TK-CONT3-B09-O13-07",
+        "TK-CONT3-B09-O13-08",
+        "TK-CONT3-B09-O13-09",
+        "TK-CONT3-B09-O13-10",
+        "TK-CONT3-B09-O13-11",
+        "TK-CONT3-B09-O13-12",
+        "TK-CONT3-B09-O13-13",
+        "TK-CONT3-B09-O13-14",
+        "TK-CONT3-B09-O13-15",
+        "TK-CONT3-B09-O13-16",
+        "TK-CONT3-B09-Q11b",
+        "TK-CONT3-B09-Q11c",
+        "TK-CONT3-B09-Q11d",
+        "TK-CONT3-B09-Q11e",
+        "TK-CONT3-B09-Q13a",
+        "TK-CONT3-B09-Q13b"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "image_access_failure": null,
+        "target_pages_inspected": 3,
+        "target_main_rows_inspected": 21,
+        "row_traversal": "All seven physical rows on each target page inspected left to right; native layouts established before crop use.",
+        "result": "Continuous reading supplied through PDF13 row7, with local lexical and graphic uncertainties retained in position.",
+        "limitations": "An informed independent model reading with the base visible, not blind review or credentialed human palaeography. Medium-confidence readings and Q items require further checking; complete glyph-level resolution is not claimed.",
+        "provenance": "Attachment identifiers and coordinate dimensions are supplied metadata; hashes were not independently verified.",
+        "certification": "No complete chapter or witness certification."
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q11a",
+          "pdf_page": 11,
+          "anchor": "U00348",
+          "native_bounds": [
+            819,
+            265,
+            939,
+            356
+          ],
+          "exact_question": "After གཞུང, determine the particle's final consonant and whether the following initial has subjoined ྱ: གིས་ཀྱང versus གི་ཡང or another graphically supported reading."
+        },
+        {
+          "id": "Q11b",
+          "pdf_page": 11,
+          "anchor": "U00353",
+          "native_bounds": [
+            859,
+            350,
+            947,
+            439
+          ],
+          "exact_question": "Final syllable after པར: the བྱེ component is readable, but is a separate prefixed ད present?"
+        },
+        {
+          "id": "Q11c",
+          "pdf_page": 11,
+          "anchor": "U00364",
+          "native_bounds": [
+            741,
+            511,
+            1047,
+            602
+          ],
+          "exact_question": "Resolve the opening cluster before གཞུང་ཉིད་ལས, including the division of the first words and the ending of the particle following the readable དྲུག-like cluster."
+        },
+        {
+          "id": "Q11d",
+          "pdf_page": 11,
+          "anchor": "U00365",
+          "native_bounds": [
+            1312,
+            507,
+            1397,
+            591
+          ],
+          "exact_question": "Initial syllable immediately before ལྟར: is the consonant ཅ or ཇ?"
+        },
+        {
+          "id": "Q11e",
+          "pdf_page": 11,
+          "anchor": "U00370",
+          "native_bounds": [
+            1001,
+            588,
+            1136,
+            679
+          ],
+          "exact_question": "Syllable between ལན and མདོ: resolve prefix and final consonant; I cannot securely distinguish the གཉིས-like and ཉིད-like readings."
+        },
+        {
+          "id": "Q11f",
+          "pdf_page": 11,
+          "anchor": "U00379/U00380 boundary",
+          "native_bounds": [
+            2752,
+            680,
+            2831,
+            769
+          ],
+          "exact_question": "Is the long descending stroke immediately before ཁམས a detached bar or an attached limb of the initial letter? Retain it without allocation."
+        },
+        {
+          "id": "Q11g",
+          "pdf_page": 11,
+          "anchor": "U00384/U00385 boundary",
+          "native_bounds": [
+            2499,
+            785,
+            2533,
+            824
+          ],
+          "exact_question": "Classify the tiny detached vertical ink trace after the tiered mark and before གང: punctuation, incidental ink, or a component of an adjoining mark?"
+        },
+        {
+          "id": "Q11m",
+          "pdf_page": 11,
+          "anchor": null,
+          "native_bounds": [
+            486,
+            481,
+            578,
+            750
+          ],
+          "exact_question": "Read the remainder of the vertically arranged left label after the identifiable initial ཨ; do not complete it from the similar label on another page."
+        },
+        {
+          "id": "Q12a",
+          "pdf_page": 12,
+          "anchor": "U00390",
+          "native_bounds": [
+            3118,
+            258,
+            3198,
+            353
+          ],
+          "exact_question": "Resolve the final syllable after བསླབ་པ, particularly whether the ན-like form has a suffix."
+        },
+        {
+          "id": "Q12b",
+          "pdf_page": 12,
+          "anchor": "U00404",
+          "native_bounds": [
+            723,
+            504,
+            925,
+            596
+          ],
+          "exact_question": "Resolve the cluster between ང་ཡིས and ང་ལ་ཉོན: the སྤྲོ-like component and its following or attached consonant/particle remain uncertain."
+        },
+        {
+          "id": "Q12c",
+          "pdf_page": 12,
+          "anchor": "U00424",
+          "native_bounds": [
+            2836,
+            746,
+            2951,
+            839
+          ],
+          "exact_question": "Between པིང་ཀ and སྒྲ, distinguish contracted ལའི from separately written ལ་ཡི and determine any suffix."
+        },
+        {
+          "id": "Q12d",
+          "pdf_page": 12,
+          "anchor": "U00415/U00416 boundary",
+          "native_bounds": [
+            1160,
+            673,
+            1256,
+            769
+          ],
+          "exact_question": "Determine whether the long left stroke preceding ཁྱབ is detached punctuation or part of the initial ཁྱ letter."
+        },
+        {
+          "id": "Q12e",
+          "pdf_page": 12,
+          "anchor": "U00402/U00403 boundary",
+          "native_bounds": [
+            3225,
+            447,
+            3267,
+            508
+          ],
+          "exact_question": "Classify the minute detached traces between the tiered mark and ཨེ: additional graphic element or incidental ink?"
+        },
+        {
+          "id": "Q12m1",
+          "pdf_page": 12,
+          "anchor": null,
+          "native_bounds": [
+            485,
+            359,
+            543,
+            437
+          ],
+          "exact_question": "Read the upper vertically arranged marginal label; no wording or numeral value is securely assigned."
+        },
+        {
+          "id": "Q12m2",
+          "pdf_page": 12,
+          "anchor": null,
+          "native_bounds": [
+            480,
+            521,
+            540,
+            562
+          ],
+          "exact_question": "Identify the isolated middle marginal character, including any attached vowel or secondary stroke."
+        },
+        {
+          "id": "Q12m3",
+          "pdf_page": 12,
+          "anchor": null,
+          "native_bounds": [
+            476,
+            616,
+            545,
+            767
+          ],
+          "exact_question": "Read the lower vertically arranged marginal cluster; determine its actual characters without inferring a folio numeral from sequence."
+        },
+        {
+          "id": "Q13a",
+          "pdf_page": 13,
+          "anchor": "U00438",
+          "native_bounds": [
+            1350,
+            422,
+            1489,
+            512
+          ],
+          "exact_question": "Between readable སྙན and བརྗོད, is an additional པར-like syllable present, or do these strokes belong to the adjacent letters? The placeholder includes this interval's tsheg allocation."
+        },
+        {
+          "id": "Q13b",
+          "pdf_page": 13,
+          "anchor": "U00446",
+          "native_bounds": [
+            2670,
+            502,
+            2821,
+            602
+          ],
+          "exact_question": "Resolve the entire interval between བའི and རྒྱུ: is a separate བྱེད present, and which visible strokes and tshegs belong to it?"
+        },
+        {
+          "id": "Q13c",
+          "pdf_page": 13,
+          "anchor": "U00460/U00461 boundary",
+          "native_bounds": [
+            1838,
+            756,
+            1934,
+            850
+          ],
+          "exact_question": "Is the descending left stroke before ཁྱད an ordinary detached bar or a limb of the initial letter?"
+        },
+        {
+          "id": "Q13m",
+          "pdf_page": 13,
+          "anchor": null,
+          "native_bounds": [
+            485,
+            451,
+            579,
+            744
+          ],
+          "exact_question": "Read the remainder of the vertically arranged left label following the initial ཨ, independently of PDF11."
+        }
+      ],
+      "unexamined_spans": {
+        "actual_target_omissions": [],
+        "deliberately_excluded_flanks": [
+          {
+            "pdf_page": 10,
+            "scope": "All text except the immediate row7 incoming context ending མཚན་བསྟན; full-page view used for layout."
+          },
+          {
+            "pdf_page": 14,
+            "scope": "All text except the immediate row1 outgoing context beginning གནས་དང་འབྱེད་དང; full-page view used for layout."
+          }
+        ],
+        "distinction": "Q components were inspected and remain unresolved; they are not unexamined rows."
+      },
+      "next_physical_span": "Continue genuinely missing Tingkye PDF14 row1 at U00464 གནས་དང་འབྱེད་དང་གནས་བཅུད་ཡུལ. Retain all Q11/Q12/Q13 questions and marginal labels.",
+      "reader_claims_require_coordinator_dispositions": true
     }
   ]
 }
