@@ -1,0 +1,124 @@
+{
+  "baseline_commit": "aa11c2acec53ba75231471a2c74a90d033836284",
+  "inherited_untracked_preservation": "aa11c2acec53ba75231471a2c74a90d033836284",
+  "ignored_scope": "Five Python bytecode caches only; no ignored research files found.",
+  "active_readers": 0,
+  "read_only_checks_passed": true,
+  "source_units": 2635,
+  "scan_interventions": 88,
+  "comparison_records": 493,
+  "restored_verses": 13,
+  "report_receipts": [
+    {
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B13-P0014-0016-reader-reading.txt",
+      "sha256": "e02c7ff4fa937c94c8859233497fd126ebcfe250c715d0d79e6919d5f640d22b",
+      "images_hash_verified": 16,
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B13-P0014-0016-reader-execution.json"
+    },
+    {
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B04-TITLE-P0001-0002-reader-reading.txt",
+      "sha256": "ab9b11551a32f612b03ebccec2089ba6785bab2c3ca89a9c3320c2754332ee3d",
+      "images_hash_verified": 10,
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B04-TITLE-P0001-0002-reader-execution.json"
+    },
+    {
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+      "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd",
+      "images_hash_verified": 16,
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-execution.json"
+    },
+    {
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+      "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a",
+      "images_hash_verified": 16,
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-execution.json"
+    },
+    {
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt",
+      "sha256": "580b8191eab3dba635e7d7612fae80f728eb25e25f3a0878a8c418eee065f4c0",
+      "images_hash_verified": 13,
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-execution.json"
+    },
+    {
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+      "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245",
+      "images_hash_verified": 13,
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-execution.json"
+    },
+    {
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt",
+      "sha256": "965421634abc8d5c0814cfd65aa596865284703493c7bea74e3a5b4aa62a2dce",
+      "images_hash_verified": 12,
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader-execution.json"
+    },
+    {
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B02-BOUNDARY-P0102-0106-reader-reading.txt",
+      "sha256": "345cfc5cbc0ab13c07f45b8ba560b3b0b286a48e8bfd6e09e7fc6f158b0b8996",
+      "images_hash_verified": 15,
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B02-BOUNDARY-P0102-0106-reader-execution.json"
+    },
+    {
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt",
+      "sha256": "6b90812b3088eb0ba30cfa23c63a085b9a781c6a5cfe20864c947ff8b2579bce",
+      "images_hash_verified": 10,
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-execution.json"
+    },
+    {
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-LANGTANG-B01-BOUNDARY-P0102-0106-reader-reading.txt",
+      "sha256": "81ddc6a3e7f52497172029eb3160b3e394de348459001a3acbff47f7c68f4ec1",
+      "images_hash_verified": 15,
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-LANGTANG-B01-BOUNDARY-P0102-0106-reader-execution.json"
+    },
+    {
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-reading.txt",
+      "sha256": "c29918ed1a1995dd827acb519c0ad7bd287d044bc9de81f5177eaf5e367b12f5",
+      "images_hash_verified": 11,
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-execution.json"
+    }
+  ],
+  "errors": [
+    {
+      "task": "C1-ZHICHEN",
+      "batch": "B01-OPENING-P0002-0003",
+      "exception": "JSONDecodeError",
+      "message": "Expecting value: line 13 column 3272 (char 11126)"
+    },
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B14-P0017-0019",
+      "exception": "FileNotFoundError",
+      "message": "[Errno 2] No such file or directory: '/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B14-P0017-0019-reader-execution.json'"
+    },
+    {
+      "task": "C1-TINGKYE",
+      "batch": "B11-P0017-0019",
+      "exception": "FileNotFoundError",
+      "message": "[Errno 2] No such file or directory: '/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B11-P0017-0019-reader-execution.json'"
+    },
+    {
+      "task": "C1-TSAMDRAK",
+      "batch": "B11-P0027-0029",
+      "exception": "FileNotFoundError",
+      "message": "[Errno 2] No such file or directory: '/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B11-P0027-0029-reader-execution.json'"
+    },
+    {
+      "task": "C1-DEGE",
+      "batch": "B09-P0015-0017",
+      "exception": "FileNotFoundError",
+      "message": "[Errno 2] No such file or directory: '/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/reviews/chapter-01/continuation/C1-DEGE-B09-P0015-0017-reader-execution.json'"
+    },
+    {
+      "task": "C1-ADZOM1973",
+      "batch": "B01-P0011-0013",
+      "exception": "FileNotFoundError",
+      "message": "[Errno 2] No such file or directory: '/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/reviews/chapter-01/continuation/C1-ADZOM1973-B01-P0011-0013-reader-execution.json'"
+    },
+    {
+      "task": "C1-GCN",
+      "batch": "B01-P0407-0409",
+      "exception": "FileNotFoundError",
+      "message": "[Errno 2] No such file or directory: '/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/reviews/chapter-01/continuation/C1-GCN-B01-P0407-0409-reader-execution.json'"
+    }
+  ],
+  "chapter_complete": false
+}
