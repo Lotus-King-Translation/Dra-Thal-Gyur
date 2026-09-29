@@ -404,3 +404,63 @@ Incoming U00127 is rechecked in its existing apparatus entry rather than duplica
 **Remaining:** Integrate the saved PDF6/B04-P0006 report, preserving the PDF5 Q01-Q08 and M01 details. The continuous page traversal now reaches the PDF5 exit within U00162, not beyond it.
 
 The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.
+
+## B04-P0006 — preserved review integrated
+
+Tingkye PDF6: seven-row U00162-to-U00200 opening traversal integrated. Source order at the exit is U00198→U00200→U00199→U00201, not a missing U00199. Three earlier local findings are rechecked rather than duplicated.
+
+[Unchanged raw report](C1-TINGKYE-B04-P0006-reader-reading.txt) · [Exact source and rows](C1-TINGKYE.json).
+
+No base-wording change. Medium-confidence readings remain provisional. Graphic compounds, page-opening devices and non-main labels are not normalized to Adzom punctuation.
+
+**Remaining:** PDF7 begins with U00200 ending འགྱུར, then U00199 and U00201. This next report is integrated in the same group; preserve G01–G05, marginal questions and opening-sign role.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.
+
+## B05-P0007 — preserved review integrated
+
+Tingkye PDF7: seven-row source-order ledger integrated with explicit small-glyph, source-layer and compound-sign limits. All earlier observations are reused within scope.
+
+[Unchanged raw report](C1-TINGKYE-B05-P0007-reader-reading.txt) · [Exact source and rows](C1-TINGKYE.json).
+
+No base-wording change. Medium-confidence readings remain provisional. Graphic compounds, page-opening devices and non-main labels are not normalized to Adzom punctuation.
+
+**Remaining:** PDF8 begins with U00236 continuation མ་བསྟེན. This next report is integrated in the same group; Q01–Q05 remain bounded.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.
+
+## B06-P0008 — preserved review integrated
+
+Tingkye PDF8: seven-row source-order ledger integrated with explicit small-glyph, source-layer and compound-sign limits. All earlier observations are reused within scope.
+
+[Unchanged raw report](C1-TINGKYE-B06-P0008-reader-reading.txt) · [Exact source and rows](C1-TINGKYE.json).
+
+No base-wording change. Medium-confidence readings remain provisional. Graphic compounds, page-opening devices and non-main labels are not normalized to Adzom punctuation.
+
+**Remaining:** PDF9 starts U00273 continuation ཚིག་མིང་དུ་མ་བསྒྲགས་ཀྱང. The next report is integrated in the same group; retain main Q243/Q250/Q256/Q267, raised QA1 and marginal/graphic questions.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.
+
+## B07-P0009 — preserved review integrated
+
+Tingkye PDF9: seven-row source-order ledger integrated with explicit small-glyph, source-layer and compound-sign limits. All earlier observations are reused within scope.
+
+[Unchanged raw report](C1-TINGKYE-B07-P0009-reader-reading.txt) · [Exact source and rows](C1-TINGKYE.json).
+
+No base-wording change. Medium-confidence readings remain provisional. Graphic compounds, page-opening devices and non-main labels are not normalized to Adzom punctuation.
+
+**Remaining:** PDF10 begins U00310 continuation སྐད་དག་ལས. The next report is integrated in the same group; retain Q01–Q08 including unresolved kye repetition, and M01/M02.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.
+
+## B08-P0010 — preserved review integrated
+
+Tingkye PDF10: seven-row source-order ledger integrated with explicit small-glyph, source-layer and compound-sign limits. All earlier observations are reused within scope.
+
+[Unchanged raw report](C1-TINGKYE-B08-P0010-reader-reading.txt) · [Exact source and rows](C1-TINGKYE.json).
+
+No base-wording change. Medium-confidence readings remain provisional. Graphic compounds, page-opening devices and non-main labels are not normalized to Adzom punctuation.
+
+**Remaining:** Next genuinely missing Tingkye page is PDF11, row1 U00348 continuation པ་དང་གཞུང་གིས་ཀྱང, then རིམ་དང་ཅིག་ཆར. Retain the page10 Q/QT and marginal questions.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.

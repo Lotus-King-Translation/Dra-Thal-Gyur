@@ -689,7 +689,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00167"></a>
 
-**U00167** ལུས་ཀུན་བརྫུས་པའི་ཐོག་མའི་ཚེ། །
+**U00167** ལུས་ཀུན་བརྫུས་པའི་ཐོག་མའི་ཚེ། ། [TK-CONT2-B04-O02](#tk-cont2-b04-o02)
 
 <a id="u00168"></a>
 
@@ -697,11 +697,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00169"></a>
 
-**U00169** བརྫུས་ནས་སྐྱེས་པའི་འགྲོ་བ་ལ། །
+**U00169** བརྫུས་ནས་སྐྱེས་པའི་འགྲོ་བ་ལ། ། [TK-CONT2-B04-O03](#tk-cont2-b04-o03)
 
 <a id="u00170"></a>
 
-**U00170** མི་འབྱེད་རང་བཞིན་རྣམ་དག་པ། །
+**U00170** མི་འབྱེད་རང་བཞིན་རྣམ་དག་པ། ། [TK-CONT2-B04-O04](#tk-cont2-b04-o04)
 
 <a id="u00171"></a>
 
@@ -709,11 +709,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00172"></a>
 
-**U00172** བརྗོད་ཅིང་སྒྲ་ཚིག་བདེ་རིག་སྟེ། །
+**U00172** བརྗོད་ཅིང་སྒྲ་ཚིག་བདེ་རིག་སྟེ། ། [TK-CONT2-B04-O05](#tk-cont2-b04-o05)
 
 <a id="u00173"></a>
 
-**U00173** ཆོས་ཀྱི་སྐུ་ཡང་རྒྱུ་མེད་པ། །
+**U00173** ཆོས་ཀྱི་སྐུ་ཡང་རྒྱུ་མེད་པ། ། [TK-CONT2-B04-O06](#tk-cont2-b04-o06)
 
 <a id="u00174"></a>
 
@@ -729,11 +729,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00177"></a>
 
-**U00177** རང་བཞིན་རྫོགས་པ་ཆེན་པོ་ཡི། །
+**U00177** རང་བཞིན་རྫོགས་པ་ཆེན་པོ་ཡི། ། [TK-CONT2-B04-O07](#tk-cont2-b04-o07)
 
 <a id="u00178"></a>
 
-**U00178** དཀྱིལ་འཁོར་གཅིག་ཏུ་ཐབས་ཅིག་འཁོད། །
+**U00178** དཀྱིལ་འཁོར་གཅིག་ཏུ་ཐབས་ཅིག་འཁོད། ། [TK-CONT2-B04-O08](#tk-cont2-b04-o08)
 
 <a id="u00179"></a>
 
@@ -769,7 +769,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00187"></a>
 
-**U00187** འབྱུང་བཞིའི་དགོངས་པ་ཇི་ལྟ་བུ། ། [SCAN-CH1-LAYER-00187](#scan-ch1-layer-00187) [L1-0014](#l1-0014) [TS-CH1-V011](#ts-ch1-v011) [DZ-P011-02](#dz-p011-02) [GAD-CH1-005](#gad-ch1-005) [GAD-CH1-006](#gad-ch1-006) [W-C01-013](reviews/chapter-01/wikisource.md#w-c01-013)
+**U00187** འབྱུང་བཞིའི་དགོངས་པ་ཇི་ལྟ་བུ། ། [SCAN-CH1-LAYER-00187](#scan-ch1-layer-00187) [L1-0014](#l1-0014) [TS-CH1-V011](#ts-ch1-v011) [DZ-P011-02](#dz-p011-02) [GAD-CH1-005](#gad-ch1-005) [GAD-CH1-006](#gad-ch1-006) [TK-CONT2-B04-O11](#tk-cont2-b04-o11) [TK-CONT2-B04-O18](#tk-cont2-b04-o18) [W-C01-013](reviews/chapter-01/wikisource.md#w-c01-013)
 
 <a id="u00188"></a>
 
@@ -785,11 +785,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00191"></a>
 
-**U00191** ཐལ་བའི་གནས་ནི་དུ་ཙམ་མཆིས། །
+**U00191** ཐལ་བའི་གནས་ནི་དུ་ཙམ་མཆིས། ། [TK-CONT2-B04-O12](#tk-cont2-b04-o12) [TK-CONT2-B04-O19](#tk-cont2-b04-o19)
 
 <a id="u00192"></a>
 
-**U00192** འགྱུར་དང་འགྱུར་བྱེད་གང་དང་གང། ། [SCAN-CH1-LAYER-00192](#scan-ch1-layer-00192) [L1-0015](#l1-0015) [TS-CH1-V012](#ts-ch1-v012) [DZ-P012-01](#dz-p012-01) [W-C01-014](reviews/chapter-01/wikisource.md#w-c01-014)
+**U00192** འགྱུར་དང་འགྱུར་བྱེད་གང་དང་གང། ། [SCAN-CH1-LAYER-00192](#scan-ch1-layer-00192) [L1-0015](#l1-0015) [TS-CH1-V012](#ts-ch1-v012) [DZ-P012-01](#dz-p012-01) [TK-CONT2-B04-O13](#tk-cont2-b04-o13) [TK-CONT2-B04-O19](#tk-cont2-b04-o19) [W-C01-014](reviews/chapter-01/wikisource.md#w-c01-014)
 
 <a id="u00193"></a>
 
@@ -809,23 +809,23 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00197"></a>
 
-**U00197** འཇིག་པའི་རྒྱུ་ནི་ཅི་ལས་འབྱུང་། ། [W-C01-015](reviews/chapter-01/wikisource.md#w-c01-015)
+**U00197** འཇིག་པའི་རྒྱུ་ནི་ཅི་ལས་འབྱུང་། ། [TK-CONT2-B04-O14](#tk-cont2-b04-o14) [W-C01-015](reviews/chapter-01/wikisource.md#w-c01-015)
 
 <a id="u00198"></a>
 
-**U00198** ཞིག་ནས་གནས་པ་གང་ནས་བྱུང༌། །
+**U00198** ཞིག་ནས་གནས་པ་གང་ནས་བྱུང༌། ། [TK-CONT2-B04-O15](#tk-cont2-b04-o15) [TK-CONT2-B04-O16](#tk-cont2-b04-o16)
 
 <a id="u00199"></a>
 
-**U00199** བར་དུ་སུ་དང་སུ་ཡིས་འཛིན། །
+**U00199** བར་དུ་སུ་དང་སུ་ཡིས་འཛིན། ། [TK-CONT2-B04-O16](#tk-cont2-b04-o16)
 
 <a id="u00200"></a>
 
-**U00200** ཐ་མ་འདི་ཉིད་གང་དུ་འགྱུར། །
+**U00200** ཐ་མ་འདི་ཉིད་གང་དུ་འགྱུར། ། [TK-CONT2-B04-O16](#tk-cont2-b04-o16)
 
 <a id="u00201"></a>
 
-**U00201** ལུས་དང་ཡན་ལག་ཅི་ལྟ་བུ། །
+**U00201** ལུས་དང་ཡན་ལག་ཅི་ལྟ་བུ། ། [TK-CONT2-B04-O16](#tk-cont2-b04-o16)
 
 <a id="u00202"></a>
 
@@ -849,11 +849,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00207"></a>
 
-**U00207** ཚེ་དང་དབང་ཐང་གང་གིས་གཟུངས། །
+**U00207** ཚེ་དང་དབང་ཐང་གང་གིས་གཟུངས། ། [TK-CONT2-B05-O02](#tk-cont2-b05-o02)
 
 <a id="u00208"></a>
 
-**U00208** བྱེར་ཟུག་སྙོམས་པའི་མཐའ་ཅིར་འགྱུར། ། [L1-0016](#l1-0016)
+**U00208** བྱེར་ཟུག་སྙོམས་པའི་མཐའ་ཅིར་འགྱུར། ། [L1-0016](#l1-0016) [TK-CONT2-B05-O03](#tk-cont2-b05-o03)
 
 <a id="u00209"></a>
 
@@ -869,11 +869,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00212"></a>
 
-**U00212** ཐུན་མོང་ལས་ཀྱི་མཐའ་གང་ལགས། །
+**U00212** ཐུན་མོང་ལས་ཀྱི་མཐའ་གང་ལགས། ། [TK-CONT2-B05-O04](#tk-cont2-b05-o04)
 
 <a id="u00213"></a>
 
-**U00213** བྱེ་བྲག་སྐུ་རྣམས་ཅི་ལྟར་འགྲུབ། །
+**U00213** བྱེ་བྲག་སྐུ་རྣམས་ཅི་ལྟར་འགྲུབ། ། [TK-CONT2-B05-O05](#tk-cont2-b05-o05)
 
 <a id="u00214"></a>
 
@@ -889,7 +889,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00217"></a>
 
-**U00217** རྩ་ཡི་ཡོན་ཏན་ཅི་ཙམ་མཆིས། །
+**U00217** རྩ་ཡི་ཡོན་ཏན་ཅི་ཙམ་མཆིས། ། [TK-CONT2-B05-O06](#tk-cont2-b05-o06)
 
 <a id="u00218"></a>
 
@@ -897,7 +897,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00219"></a>
 
-**U00219** མཁའ་འགྲོ་མ་ཡི་ལས་མཐའ་གང༌། །
+**U00219** མཁའ་འགྲོ་མ་ཡི་ལས་མཐའ་གང༌། ། [TK-CONT2-B05-O07](#tk-cont2-b05-o07)
 
 <a id="u00220"></a>
 
@@ -905,7 +905,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00221"></a>
 
-**U00221** རྟེན་ཅིང་འབྲེལ་པ་ཅི་ཡི་རྒྱུ། །
+**U00221** རྟེན་ཅིང་འབྲེལ་པ་ཅི་ཡི་རྒྱུ། ། [TK-CONT2-B05-O08](#tk-cont2-b05-o08) [TK-CONT2-B05-O09](#tk-cont2-b05-o09)
 
 <a id="u00222"></a>
 
@@ -917,19 +917,19 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00224"></a>
 
-**U00224** གནད་ཀྱི་འབྱུང་བ་གང་དང་གང༌། །
+**U00224** གནད་ཀྱི་འབྱུང་བ་གང་དང་གང༌། ། [TK-CONT2-B05-O10](#tk-cont2-b05-o10)
 
 <a id="u00225"></a>
 
-**U00225** རྩིས་སྦྱོར་ལས་ཀྱི་ཡན་ལག་ཅི། །
+**U00225** རྩིས་སྦྱོར་ལས་ཀྱི་ཡན་ལག་ཅི། ། [TK-CONT2-B05-O11](#tk-cont2-b05-o11)
 
 <a id="u00226"></a>
 
-**U00226** འབྱུང་བའི་བདེ་བ་གང་གིས་འགྲུབ། །
+**U00226** འབྱུང་བའི་བདེ་བ་གང་གིས་འགྲུབ། ། [TK-CONT2-B05-O12](#tk-cont2-b05-o12)
 
 <a id="u00227"></a>
 
-**U00227** སྤོ་བའི་ལས་ནི་གང་གིས་བགྱིས། ། [TS-CH1-V013](#ts-ch1-v013)
+**U00227** སྤོ་བའི་ལས་ནི་གང་གིས་བགྱིས། ། [TS-CH1-V013](#ts-ch1-v013) [TK-CONT2-B05-O13](#tk-cont2-b05-o13)
 
 <a id="u00228"></a>
 
@@ -941,7 +941,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00230"></a>
 
-**U00230** གྲུབ་མཐའ་དགོངས་པ་གང་གིས་འགྲུབ། །
+**U00230** གྲུབ་མཐའ་དགོངས་པ་གང་གིས་འགྲུབ། ། [TK-CONT2-B05-O14](#tk-cont2-b05-o14)
 
 <a id="u00231"></a>
 
@@ -949,15 +949,15 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00232"></a>
 
-**U00232** བསྒྲུབ་པའི་རིམ་པ་དུ་ཞིག་མཆིས། །
+**U00232** བསྒྲུབ་པའི་རིམ་པ་དུ་ཞིག་མཆིས། ། [TK-CONT2-B05-O15](#tk-cont2-b05-o15)
 
 <a id="u00233"></a>
 
-**U00233** གནས་ལུགས་རྣམས་ཀྱི་འདུག་ཚུལ་ཅི། །
+**U00233** གནས་ལུགས་རྣམས་ཀྱི་འདུག་ཚུལ་ཅི། ། [TK-CONT2-B05-O16](#tk-cont2-b05-o16)
 
 <a id="u00234"></a>
 
-**U00234** འཁྲུལ་པའི་རྩིས་རྣམས་ཅི་ལྟར་བཟུངས། །
+**U00234** འཁྲུལ་པའི་རྩིས་རྣམས་ཅི་ལྟར་བཟུངས། ། [TK-CONT2-B05-O17](#tk-cont2-b05-o17)
 
 <a id="u00235"></a>
 
@@ -973,7 +973,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00238"></a>
 
-**U00238** དུས་དང་བསྟན་པའི་བབ་སོ་ཅི། །
+**U00238** དུས་དང་བསྟན་པའི་བབ་སོ་ཅི། ། [TK-CONT2-B06-O02](#tk-cont2-b06-o02)
 
 <a id="u00239"></a>
 
@@ -993,7 +993,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00243"></a>
 
-**U00243** མངོན་སུམ་གནད་ལ་ཅི་ལྟར་བསྒྲེ། །
+**U00243** མངོན་སུམ་གནད་ལ་ཅི་ལྟར་བསྒྲེ། ། [TK-CONT2-B06-O03](#tk-cont2-b06-o03)
 
 <a id="u00244"></a>
 
@@ -1013,19 +1013,19 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00248"></a>
 
-**U00248** བལྟ་བ་མཐའ་ལ་གང་གིས་བསྐྱལ། ། [W-C01-017](reviews/chapter-01/wikisource.md#w-c01-017)
+**U00248** བལྟ་བ་མཐའ་ལ་གང་གིས་བསྐྱལ། ། [TK-CONT2-B06-O04](#tk-cont2-b06-o04) [W-C01-017](reviews/chapter-01/wikisource.md#w-c01-017)
 
 <a id="u00249"></a>
 
-**U00249** བསྒོམ་པའི་སྲོག་ཤིང་གང་དང་གང་། །
+**U00249** བསྒོམ་པའི་སྲོག་ཤིང་གང་དང་གང་། ། [TK-CONT2-B06-O05](#tk-cont2-b06-o05)
 
 <a id="u00250"></a>
 
-**U00250** སྤྱོད་པའི་སྦྱོར་བ་ཇི་ལྟ་བུ། ། [W-C01-018](reviews/chapter-01/wikisource.md#w-c01-018)
+**U00250** སྤྱོད་པའི་སྦྱོར་བ་ཇི་ལྟ་བུ། ། [TK-CONT2-B06-O06](#tk-cont2-b06-o06) [W-C01-018](reviews/chapter-01/wikisource.md#w-c01-018)
 
 <a id="u00251"></a>
 
-**U00251** འབྲས་བུའི་ཐོབ་ས་གང་ཙམ་ཞིག །
+**U00251** འབྲས་བུའི་ཐོབ་ས་གང་ཙམ་ཞིག ། [TK-CONT2-B06-O07](#tk-cont2-b06-o07)
 
 <a id="u00252"></a>
 
@@ -1033,7 +1033,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00253"></a>
 
-**U00253** བཅུད་ཀྱིས་ལེན་པ་ཇི་ལྟ་བུ། །
+**U00253** བཅུད་ཀྱིས་ལེན་པ་ཇི་ལྟ་བུ། ། [TK-CONT2-B06-O08](#tk-cont2-b06-o08)
 
 <a id="u00254"></a>
 
@@ -1041,11 +1041,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00255"></a>
 
-**U00255** འབྱུང་བའི་རྒྱུན་ནི་ཅི་ལྟར་གཅད། །
+**U00255** འབྱུང་བའི་རྒྱུན་ནི་ཅི་ལྟར་གཅད། ། [TK-CONT2-B06-O09](#tk-cont2-b06-o09)
 
 <a id="u00256"></a>
 
-**U00256** བཞི་པོ་རོ་རྣམས་ཅི་ཡིས་སྙོམས། །
+**U00256** བཞི་པོ་རོ་རྣམས་ཅི་ཡིས་སྙོམས། ། [TK-CONT2-B06-O10](#tk-cont2-b06-o10) [TK-CONT2-B06-O11](#tk-cont2-b06-o11)
 
 <a id="u00257"></a>
 
@@ -1053,7 +1053,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00258"></a>
 
-**U00258** འཕགས་པའི་རྫུ་འཕྲུལ་ཅི་ཡིས་འགྲུབ།། [L1-0018](#l1-0018)
+**U00258** འཕགས་པའི་རྫུ་འཕྲུལ་ཅི་ཡིས་འགྲུབ།། [L1-0018](#l1-0018) [TK-CONT2-B06-O12](#tk-cont2-b06-o12)
 
 <a id="u00259"></a>
 
@@ -1069,7 +1069,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00262"></a>
 
-**U00262** སྣང་བའི་བདག་པོས་བདག་ལ་གསུང་། །
+**U00262** སྣང་བའི་བདག་པོས་བདག་ལ་གསུང་། ། [TK-CONT2-B06-O13](#tk-cont2-b06-o13) [TK-CONT2-B06-O14](#tk-cont2-b06-o14)
 
 <a id="u00263"></a>
 
@@ -1077,7 +1077,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00264"></a>
 
-**U00264** མ་འོངས་པ་ཡི་དུས་རྣམས་སུ། །
+**U00264** མ་འོངས་པ་ཡི་དུས་རྣམས་སུ། ། [TK-CONT2-B06-O15](#tk-cont2-b06-o15)
 
 <a id="u00265"></a>
 
@@ -1089,7 +1089,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00267"></a>
 
-**U00267** བྱ་བྲལ་གླེན་པས་བདེ་ཆེན་རྙེད། །
+**U00267** བྱ་བྲལ་གླེན་པས་བདེ་ཆེན་རྙེད། ། [TK-CONT2-B06-O16](#tk-cont2-b06-o16)
 
 <a id="u00268"></a>
 
@@ -1105,11 +1105,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00271"></a>
 
-**U00271** རིམ་པ་གསལ་བར་ཕྱེས་ལ་གསུང་། །
+**U00271** རིམ་པ་གསལ་བར་ཕྱེས་ལ་གསུང་། ། [TK-CONT2-B06-O17](#tk-cont2-b06-o17)
 
 <a id="u00272"></a>
 
-**U00272** དེ་ནས་ཁྱབ་བདག་སེམས་དཔའ་ནི། ། [SCAN-CH1-LAYER-00272](#scan-ch1-layer-00272) [L1-0019](#l1-0019) [TS-CH1-V015](#ts-ch1-v015) [DZ-P015-01](#dz-p015-01) [W-C01-019](reviews/chapter-01/wikisource.md#w-c01-019)
+**U00272** དེ་ནས་ཁྱབ་བདག་སེམས་དཔའ་ནི། ། [SCAN-CH1-LAYER-00272](#scan-ch1-layer-00272) [L1-0019](#l1-0019) [TS-CH1-V015](#ts-ch1-v015) [DZ-P015-01](#dz-p015-01) [TK-CONT2-B06-O18](#tk-cont2-b06-o18) [W-C01-019](reviews/chapter-01/wikisource.md#w-c01-019)
 
 <a id="u00273"></a>
 
@@ -1125,7 +1125,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00276"></a>
 
-**U00276** ཡན་ལག་དྲུག་ཅུའི་དབྱངས་ལྡན་ཏེ། །
+**U00276** ཡན་ལག་དྲུག་ཅུའི་དབྱངས་ལྡན་ཏེ། ། [TK-CONT2-B07-O02](#tk-cont2-b07-o02)
 
 <a id="u00277"></a>
 
@@ -1145,11 +1145,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00281"></a>
 
-**U00281** ཨིནྡྲ་ལྷ་ཡི་དབང་ཕྱུག་ཉོན། ། [W-C01-020](reviews/chapter-01/wikisource.md#w-c01-020)
+**U00281** ཨིནྡྲ་ལྷ་ཡི་དབང་ཕྱུག་ཉོན། ། [TK-CONT2-B07-O03](#tk-cont2-b07-o03) [W-C01-020](reviews/chapter-01/wikisource.md#w-c01-020)
 
 <a id="u00282"></a>
 
-**U00282** ལུས་དང་ངག་ཡིད་རབ་གཙེར་བས། །
+**U00282** ལུས་དང་ངག་ཡིད་རབ་གཙེར་བས། ། [TK-CONT2-B07-O03](#tk-cont2-b07-o03)
 
 <a id="u00283"></a>
 
@@ -1165,7 +1165,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00286"></a>
 
-**U00286** ཨེ་མ་ངོ་མཚར་རྨད་བྱུང་བ། །
+**U00286** ཨེ་མ་ངོ་མཚར་རྨད་བྱུང་བ། ། [TK-CONT2-B07-O04](#tk-cont2-b07-o04)
 
 <a id="u00287"></a>
 
@@ -1193,11 +1193,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00293"></a>
 
-**U00293** ཆོས་ཀྱི་མེ་ལོང་དོན་གྱིས་སྡུད། ། [TS-CH1-V017](#ts-ch1-v017)
+**U00293** ཆོས་ཀྱི་མེ་ལོང་དོན་གྱིས་སྡུད། ། [TS-CH1-V017](#ts-ch1-v017) [TK-CONT2-B07-O05](#tk-cont2-b07-o05)
 
 <a id="u00294"></a>
 
-**U00294** བཀའ་ཡི་འགྲེལ་པ་མན་ངག་སྙིང་། །
+**U00294** བཀའ་ཡི་འགྲེལ་པ་མན་ངག་སྙིང་། ། [TK-CONT2-B07-O05](#tk-cont2-b07-o05)
 
 <a id="u00295"></a>
 
@@ -1209,11 +1209,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00297"></a>
 
-**U00297** ཡང་གསང་ལྡེ་མིག་བལྟ་བའི་ཕུགས། །
+**U00297** ཡང་གསང་ལྡེ་མིག་བལྟ་བའི་ཕུགས། ། [TK-CONT2-B07-O06](#tk-cont2-b07-o06)
 
 <a id="u00298"></a>
 
-**U00298** སྤྱོད་པའི་སྦྱང་ས་བསྒོམ་པའི་གནད། །
+**U00298** སྤྱོད་པའི་སྦྱང་ས་བསྒོམ་པའི་གནད། ། [TK-CONT2-B07-O07](#tk-cont2-b07-o07)
 
 <a id="u00299"></a>
 
@@ -1229,11 +1229,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00302"></a>
 
-**U00302** ང་ཡི་སྤྲོས་པའི་ཚིག་རྣམས་ལ། །
+**U00302** ང་ཡི་སྤྲོས་པའི་ཚིག་རྣམས་ལ། ། [TK-CONT2-B07-O08](#tk-cont2-b07-o08)
 
 <a id="u00303"></a>
 
-**U00303** འཁྲུལ་པའི་རྡུལ་གྱི་ཆ་མེད་པས། །
+**U00303** འཁྲུལ་པའི་རྡུལ་གྱི་ཆ་མེད་པས། ། [TK-CONT2-B07-O09](#tk-cont2-b07-o09)
 
 <a id="u00304"></a>
 
@@ -1241,7 +1241,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00305"></a>
 
-**U00305** ངེས་པར་གྲུབ་ཅིང་དོན་འབྱུང་བས། །
+**U00305** ངེས་པར་གྲུབ་ཅིང་དོན་འབྱུང་བས། ། [TK-CONT2-B07-O10](#tk-cont2-b07-o10)
 
 <a id="u00306"></a>
 
@@ -1249,15 +1249,15 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00307"></a>
 
-**U00307** དེས་ན་བསྟན་པའི་སྙིང་པོ་བསྟན། །
+**U00307** དེས་ན་བསྟན་པའི་སྙིང་པོ་བསྟན། ། [TK-CONT2-B07-O11](#tk-cont2-b07-o11)
 
 <a id="u00308"></a>
 
-**U00308** ཀྱེ་ཀྱེ་དགའ་བར་བྱེད་པས་ཟུང་། །
+**U00308** ཀྱེ་ཀྱེ་དགའ་བར་བྱེད་པས་ཟུང་། ། [TK-CONT2-B07-O12](#tk-cont2-b07-o12)
 
 <a id="u00309"></a>
 
-**U00309** དྲིས་པའི་ཚིག་རྣམས་གསལ་ཕྱེ་བས། ། [W-C01-022](reviews/chapter-01/wikisource.md#w-c01-022)
+**U00309** དྲིས་པའི་ཚིག་རྣམས་གསལ་ཕྱེ་བས། ། [TK-CONT2-B07-O13](#tk-cont2-b07-o13) [W-C01-022](reviews/chapter-01/wikisource.md#w-c01-022)
 
 <a id="u00310"></a>
 
@@ -1265,7 +1265,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00311"></a>
 
-**U00311** ཡི་གེའི་རྣམ་སྤྲུལ་འདི་ལྟ་བུ། །
+**U00311** ཡི་གེའི་རྣམ་སྤྲུལ་འདི་ལྟ་བུ། ། [TK-CONT2-B08-O02](#tk-cont2-b08-o02)
 
 <a id="u00312"></a>
 
@@ -1281,27 +1281,27 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00315"></a>
 
-**U00315** ངང་གཞི་བབ་ཀྱིས་གྲུབ་པ་ཡི། །
+**U00315** ངང་གཞི་བབ་ཀྱིས་གྲུབ་པ་ཡི། ། [TK-CONT2-B08-O03](#tk-cont2-b08-o03)
 
 <a id="u00316"></a>
 
-**U00316** ཚིག་བྱུང་གཞི་ལ་འདི་ལྟར་སྣང་།
+**U00316** ཚིག་བྱུང་གཞི་ལ་འདི་ལྟར་སྣང་། [TK-CONT2-B08-O04](#tk-cont2-b08-o04) [TK-CONT2-B08-O05](#tk-cont2-b08-o05)
 
 <a id="u00317"></a>
 
-**U00317** [Source annotation recorded separately in the linked note; this anchor does not add a main-text verse.] [SCAN-CH1-LAYER-00317](#scan-ch1-layer-00317) [L1-0021](#l1-0021) [TS-CH1-V018](#ts-ch1-v018) [W-C01-023](reviews/chapter-01/wikisource.md#w-c01-023)
+**U00317** [Source annotation recorded separately in the linked note; this anchor does not add a main-text verse.] [SCAN-CH1-LAYER-00317](#scan-ch1-layer-00317) [L1-0021](#l1-0021) [TS-CH1-V018](#ts-ch1-v018) [TK-CONT2-B08-O05](#tk-cont2-b08-o05) [W-C01-023](reviews/chapter-01/wikisource.md#w-c01-023)
 
 <a id="u00318"></a>
 
-**U00318** [Source annotation recorded separately in the linked note; this anchor does not add a main-text verse.] [SCAN-CH1-LAYER-00318](#scan-ch1-layer-00318) [TS-CH1-V019](#ts-ch1-v019) [W-C01-023](reviews/chapter-01/wikisource.md#w-c01-023)
+**U00318** [Source annotation recorded separately in the linked note; this anchor does not add a main-text verse.] [SCAN-CH1-LAYER-00318](#scan-ch1-layer-00318) [TS-CH1-V019](#ts-ch1-v019) [TK-CONT2-B08-O05](#tk-cont2-b08-o05) [W-C01-023](reviews/chapter-01/wikisource.md#w-c01-023)
 
 <a id="u00319"></a>
 
-**U00319** འབྱུང་བའི་དགོས་པ་འདི་ལྟ་སྟེ། ། [L1-0022](#l1-0022)
+**U00319** འབྱུང་བའི་དགོས་པ་འདི་ལྟ་སྟེ། ། [L1-0022](#l1-0022) [TK-CONT2-B08-O05](#tk-cont2-b08-o05)
 
 <a id="u00320"></a>
 
-**U00320** ཆུ་ནི་དྭངས་མ་སྡུད་པ་དང་། ། [W-C01-024](reviews/chapter-01/wikisource.md#w-c01-024)
+**U00320** ཆུ་ནི་དྭངས་མ་སྡུད་པ་དང་། ། [TK-CONT2-B08-O06](#tk-cont2-b08-o06) [W-C01-024](reviews/chapter-01/wikisource.md#w-c01-024)
 
 <a id="u00321"></a>
 
@@ -1313,7 +1313,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00323"></a>
 
-**U00323** དགོས་པ་ཚད་དང་གྲངས་ངོ་ཤེས། །
+**U00323** དགོས་པ་ཚད་དང་གྲངས་ངོ་ཤེས། ། [TK-CONT2-B08-O07a](#tk-cont2-b08-o07a) [TK-CONT2-B08-O07b](#tk-cont2-b08-o07b)
 
 <a id="u00324"></a>
 
@@ -1325,15 +1325,15 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00326"></a>
 
-**U00326** སྨིན་པས་རྩ་ལ་སོགས་པ་བསྐྱེད། །
+**U00326** སྨིན་པས་རྩ་ལ་སོགས་པ་བསྐྱེད། ། [TK-CONT2-B08-O08](#tk-cont2-b08-o08)
 
 <a id="u00327"></a>
 
-**U00327** དགོས་པ་ཀུན་རྫོབ་ཐིག་ལེར་ཤེས། །
+**U00327** དགོས་པ་ཀུན་རྫོབ་ཐིག་ལེར་ཤེས། ། [TK-CONT2-B08-O09a](#tk-cont2-b08-o09a) [TK-CONT2-B08-O09b](#tk-cont2-b08-o09b)
 
 <a id="u00328"></a>
 
-**U00328** མེས་ནི་འབྱུང་བ་སེལ་བ་དང། ། [SCAN-CH1-LAYER-00328](#scan-ch1-layer-00328) [L1-0023](#l1-0023) [TS-CH1-V020](#ts-ch1-v020) [DZ-MID-018-U328](#dz-mid-018-u328) [W-C01-025](reviews/chapter-01/wikisource.md#w-c01-025)
+**U00328** མེས་ནི་འབྱུང་བ་སེལ་བ་དང། ། [SCAN-CH1-LAYER-00328](#scan-ch1-layer-00328) [L1-0023](#l1-0023) [TS-CH1-V020](#ts-ch1-v020) [DZ-MID-018-U328](#dz-mid-018-u328) [TK-CONT2-B08-O10a](#tk-cont2-b08-o10a) [TK-CONT2-B08-O10b](#tk-cont2-b08-o10b) [W-C01-025](reviews/chapter-01/wikisource.md#w-c01-025)
 
 <a id="u00329"></a>
 
@@ -1341,7 +1341,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00330"></a>
 
-**U00330** འབར་ཞིང་མཆེད་པས་མིག་སོགས་བསྐྱེད། །
+**U00330** འབར་ཞིང་མཆེད་པས་མིག་སོགས་བསྐྱེད། ། [TK-CONT2-B08-O11a](#tk-cont2-b08-o11a) [TK-CONT2-B08-O11b](#tk-cont2-b08-o11b)
 
 <a id="u00331"></a>
 
@@ -1361,15 +1361,15 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00335"></a>
 
-**U00335** དགོས་པ་སེམས་ཀྱི་གནས་པ་ཤེས། །
+**U00335** དགོས་པ་སེམས་ཀྱི་གནས་པ་ཤེས། ། [TK-CONT2-B08-O12](#tk-cont2-b08-o12)
 
 <a id="u00336"></a>
 
-**U00336** འབྱུང་བཞི་དག་གི་དཀྱིལ་འཁོར་ཆེ། །
+**U00336** འབྱུང་བཞི་དག་གི་དཀྱིལ་འཁོར་ཆེ། ། [TK-CONT2-B08-O13](#tk-cont2-b08-o13)
 
 <a id="u00337"></a>
 
-**U00337** ལུས་སོགས་ གྲུབ་པའི་རྒྱུ་བྱས་ཏེ། ། [L1-0024](#l1-0024)
+**U00337** ལུས་སོགས་ གྲུབ་པའི་རྒྱུ་བྱས་ཏེ། ། [L1-0024](#l1-0024) [TK-CONT2-B08-O14](#tk-cont2-b08-o14)
 
 <a id="u00338"></a>
 
@@ -1393,19 +1393,19 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00343"></a>
 
-**U00343** བྱ་བ་རྫོགས་པའི་དོན་ལ་མཁས། །
+**U00343** བྱ་བ་རྫོགས་པའི་དོན་ལ་མཁས། ། [TK-CONT2-B08-O15](#tk-cont2-b08-o15)
 
 <a id="u00344"></a>
 
-**U00344** **[Source structural heading]** དྲིས་ལན་གཉིས་པ། [L1-0025](#l1-0025) [TS-CH1-V021](#ts-ch1-v021) [W-C01-026](reviews/chapter-01/wikisource.md#w-c01-026)
+**U00344** **[Source structural heading]** དྲིས་ལན་གཉིས་པ། [L1-0025](#l1-0025) [TS-CH1-V021](#ts-ch1-v021) [TK-CONT2-B08-O15](#tk-cont2-b08-o15) [W-C01-026](reviews/chapter-01/wikisource.md#w-c01-026)
 
 <a id="u00345"></a>
 
-**U00345** ཡན་ལག་དོན་ནི་འདི་ལྟ་བུ།། [L1-0025](#l1-0025)
+**U00345** ཡན་ལག་དོན་ནི་འདི་ལྟ་བུ།། [L1-0025](#l1-0025) [TK-CONT2-B08-O15](#tk-cont2-b08-o15)
 
 <a id="u00346"></a>
 
-**U00346** སངས་རྒྱས་རྣམས་ཀྱི་མཁྱེན་པ་ཡི། །
+**U00346** སངས་རྒྱས་རྣམས་ཀྱི་མཁྱེན་པ་ཡི། ། [TK-CONT2-B08-O16](#tk-cont2-b08-o16)
 
 <a id="u00347"></a>
 
@@ -15465,7 +15465,7 @@ Units: [U00180](#u00180).
 
 **Choice and reason:** Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.
 
-**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x0000-y0000.png), [p006-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x1900-y0000.png), [p006-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x2350-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x0000-y0000.png), [p006-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x1900-y0000.png), [p006-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x2350-y0000.png), [C1-TINGKYE-B04-P0006-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B04-P0006-reader-reading.txt), [p006-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-native.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
 
 <a id="tk-cont-20260928-tk-b01-024"></a>
 
@@ -15475,17 +15475,17 @@ Units: [U00181](#u00181).
 
 **Current Adzom main context:** རང་བཞིན་དག་པའི་འཁོར་རྣམས་ལས། །
 
-**Comparison reading/snippet:** རང་བཞིན་སྣང་བའི་འཁོར་རྣམས་ཀྱིས
+**Comparison reading/snippet:** རང་བཞིན་⟦medial wording unresolved; prior སྣང་བའི proposal preserved⟧་འཁོར་རྣམས་ཀྱིས
 
-**Status:** localized_observation. **Confidence:** medium-high; coordinator native-column check; no unlisted scope certified.
+**Status:** qualified_terminal_reading_with_unresolved_medial_cluster. **Confidence:** High for final ཀྱིས and physical correspondence; complete medial wording is not securely corroborated..
 
 **Locator:** PDF6 / BDRC399 / printed391 / row4 / estimated native bounds [2570, 513, 3250, 620].
 
-**Observation:** The visible internal reading is སྣང་བའི, and the ending after རྣམས reads ཀྱིས. Only this local source span is asserted. The compound D marker is a graphic description, not a normalization to Adzom shads.
+**Observation:** The earlier bounded reader proposed སྣང་བའི in the medial cluster. The later full-page reader left that same cluster G03 unresolved. Preserve the earlier proposal and newer uncertainty separately; the shared terminal ཀྱིས remains supported. Neither uncertainty nor prior recognition is a new exact medial transcription.
 
 **Choice and reason:** Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.
 
-**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x0000-y0000.png), [p006-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x1900-y0000.png), [p006-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x2350-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x0000-y0000.png), [p006-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x1900-y0000.png), [p006-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x2350-y0000.png), [C1-TINGKYE-B04-P0006-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B04-P0006-reader-reading.txt), [p006-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-native.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
 
 <a id="tk-cont-20260928-tk-b01-026"></a>
 
@@ -15505,7 +15505,7 @@ Units: [U00183](#u00183), [U00184](#u00184).
 
 **Choice and reason:** Retain governing Adzom reading unchanged. Record the observed comparison reading or explicit uncertainty; no agreement is inferred for unexamined characters.
 
-**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x0000-y0000.png), [p006-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x1900-y0000.png), [p006-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x2350-y0000.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x0000-y0000.png), [p006-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x1900-y0000.png), [p006-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B01-P0003-0007/p006-x2350-y0000.png), [C1-TINGKYE-B04-P0006-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B04-P0006-reader-reading.txt), [p006-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-native.png). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
 
 <a id="ts-cont-20260928-u00012"></a>
 
@@ -17066,6 +17066,1586 @@ Units: [U00148](#u00148).
 **Choice and reason:** Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.
 
 **Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png), [p003-x1484-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png), [C1-DEGE-B01-P0003-reader-reading.txt](reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-DEGE.md).
+
+<a id="tk-cont2-b04-o02"></a>
+
+### TK-CONT2-B04-O02 — Tingkye
+
+Units: [U00167](#u00167).
+
+**Current Adzom main context:** ལུས་ཀུན་བརྫུས་པའི་ཐོག་མའི་ཚེ། །
+
+**Comparison reading/snippet:** ལུས་ཀུན | ⟦G01⟧་པའི་ཐོག་མེད་པ་ཡིས
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"མེད་པ་ཡིས": "medium-high", "initial_syllable": "unresolved", "alignment": "high"}.
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: [590, 329, 1040, 419].
+
+**Observation:** The inspected ending reads མེད་པ་ཡིས, rather than the reference ending མའི་ཚེ. The first syllable is not reconstructed from the reference. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x0000-y0000.png), [p006-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x1900-y0000.png), [p006-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x2350-y0000.png), [C1-TINGKYE-B04-P0006-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B04-P0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b04-o03"></a>
+
+### TK-CONT2-B04-O03 — Tingkye
+
+Units: [U00169](#u00169).
+
+**Current Adzom main context:** བརྫུས་ནས་སྐྱེས་པའི་འགྲོ་བ་ལ། །
+
+**Comparison reading/snippet:** འགྲོ་བ་དང
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"reading": "high", "alignment": "high"}.
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: [1640, 329, 2170, 419].
+
+**Observation:** The terminal syllable has the visible spelling དང. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x0000-y0000.png), [p006-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x1900-y0000.png), [p006-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x2350-y0000.png), [C1-TINGKYE-B04-P0006-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B04-P0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b04-o04"></a>
+
+### TK-CONT2-B04-O04 — Tingkye
+
+Units: [U00170](#u00170).
+
+**Current Adzom main context:** མི་འབྱེད་རང་བཞིན་རྣམ་དག་པ། །
+
+**Comparison reading/snippet:** མི་འགྱུར
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"reading": "medium", "alignment": "high"}.
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: [2200, 329, 2780, 419].
+
+**Observation:** The inspected stack and ending support འགྱུར; retain as a provisional reading, not a certified correction. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x0000-y0000.png), [p006-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x1900-y0000.png), [p006-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x2350-y0000.png), [C1-TINGKYE-B04-P0006-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B04-P0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b04-o05"></a>
+
+### TK-CONT2-B04-O05 — Tingkye
+
+Units: [U00172](#u00172).
+
+**Current Adzom main context:** བརྗོད་ཅིང་སྒྲ་ཚིག་བདེ་རིག་སྟེ། །
+
+**Comparison reading/snippet:** བརྗོད་⟦G02⟧་སྒྲ་ཚིག
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"candidate_ཚིག": "medium-low", "alignment": "high"}.
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: [3400, 329, 3770, 419].
+
+**Observation:** The second syllable appears closer to ཚིག, but its identity remains unresolved; no definitive substitution is asserted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x0000-y0000.png), [p006-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x1900-y0000.png), [p006-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x2350-y0000.png), [C1-TINGKYE-B04-P0006-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B04-P0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b04-o06"></a>
+
+### TK-CONT2-B04-O06 — Tingkye
+
+Units: [U00173](#u00173).
+
+**Current Adzom main context:** ཆོས་ཀྱི་སྐུ་ཡང་རྒྱུ་མེད་པ། །
+
+**Comparison reading/snippet:** རྒྱུ་མེད་པས
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"reading": "high", "alignment": "high"}.
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: [855, 408, 1370, 500].
+
+**Observation:** A final ས is visible before the compound separator. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x0000-y0000.png), [p006-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x1900-y0000.png), [p006-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x2350-y0000.png), [C1-TINGKYE-B04-P0006-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B04-P0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b04-o07"></a>
+
+### TK-CONT2-B04-O07 — Tingkye
+
+Units: [U00177](#u00177).
+
+**Current Adzom main context:** རང་བཞིན་རྫོགས་པ་ཆེན་པོ་ཡི། །
+
+**Comparison reading/snippet:** ཆེན་པོ | ཡིས
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"reading": "high", "alignment": "high"}.
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: {"row3": [3240, 408, 3770, 500], "row4": [590, 490, 730, 580]}.
+
+**Observation:** The next physical row begins ཡིས; the projecting marks above the preceding པོ belong to its vowel, not an additional separator. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x0000-y0000.png), [p006-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x1900-y0000.png), [p006-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x2350-y0000.png), [C1-TINGKYE-B04-P0006-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B04-P0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b04-o08"></a>
+
+### TK-CONT2-B04-O08 — Tingkye
+
+Units: [U00178](#u00178).
+
+**Current Adzom main context:** དཀྱིལ་འཁོར་གཅིག་ཏུ་ཐབས་ཅིག་འཁོད། །
+
+**Comparison reading/snippet:** ཐབས་གཅིག་འཁོད
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"reading": "medium", "alignment": "high"}.
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: [740, 490, 1510, 580].
+
+**Observation:** A prefixed ག appears before ཅིག after ཐབས; provisional pending confirmation of that small prefix. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x0000-y0000.png), [p006-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x1900-y0000.png), [p006-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x2350-y0000.png), [C1-TINGKYE-B04-P0006-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B04-P0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b04-o11"></a>
+
+### TK-CONT2-B04-O11 — Tingkye
+
+Units: [U00187](#u00187).
+
+**Current Adzom main context:** འབྱུང་བཞིའི་དགོངས་པ་ཇི་ལྟ་བུ། །
+
+**Comparison reading/snippet:** འབྱུང་⟦G04⟧ཞིའི་དགོས་པ་ཇི་ལྟ་བུ
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"དགོས་པ": "medium-high", "prefix_before_ཞིའི": "unresolved", "alignment": "high"}.
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: [2920, 573, 3470, 665].
+
+**Observation:** The main-sized sequence reads དགོས་པ. The preceding syllable's initial consonant is not securely distinguished. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x0000-y0000.png), [p006-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x1900-y0000.png), [p006-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x2350-y0000.png), [C1-TINGKYE-B04-P0006-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B04-P0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b04-o12"></a>
+
+### TK-CONT2-B04-O12 — Tingkye
+
+Units: [U00191](#u00191).
+
+**Current Adzom main context:** ཐལ་བའི་གནས་ནི་དུ་ཙམ་མཆིས། །
+
+**Comparison reading/snippet:** གནས་ནི་ཅི་ཙམ་མཆིས
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"reading": "medium-high", "alignment": "high"}.
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: [2000, 654, 2610, 747].
+
+**Observation:** The inspected syllable has the reading ཅི rather than དུ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x0000-y0000.png), [p006-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x1900-y0000.png), [p006-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x2350-y0000.png), [C1-TINGKYE-B04-P0006-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B04-P0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b04-o13"></a>
+
+### TK-CONT2-B04-O13 — Tingkye
+
+Units: [U00192](#u00192).
+
+**Current Adzom main context:** འགྱུར་དང་འགྱུར་བྱེད་གང་དང་གང། །
+
+**Comparison reading/snippet:** འགྱུར་དང་འགྱུར་གང་དང་གང
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"reading": "medium-high", "absence_of_བྱེད": "medium-high", "alignment": "high"}.
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: [2620, 654, 3210, 747].
+
+**Observation:** The second འགྱུར is followed directly by གང; no separate བྱེད is identified between those visible flanks. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x0000-y0000.png), [p006-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x1900-y0000.png), [p006-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x2350-y0000.png), [C1-TINGKYE-B04-P0006-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B04-P0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b04-o14"></a>
+
+### TK-CONT2-B04-O14 — Tingkye
+
+Units: [U00197](#u00197).
+
+**Current Adzom main context:** འཇིག་པའི་རྒྱུ་ནི་ཅི་ལས་འབྱུང་། །
+
+**Comparison reading/snippet:** ཅི་ལས་⟦G05⟧བྱུང
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"བྱུང": "high", "presence_of_prefixed_འ": "unresolved", "alignment": "high"}.
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: [2230, 735, 2750, 840].
+
+**Observation:** Plain བྱུང is the provisional impression; possible preceding འ is left unresolved, so no omission is adopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x0000-y0000.png), [p006-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x1900-y0000.png), [p006-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x2350-y0000.png), [C1-TINGKYE-B04-P0006-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B04-P0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b04-o15"></a>
+
+### TK-CONT2-B04-O15 — Tingkye
+
+Units: [U00198](#u00198).
+
+**Current Adzom main context:** ཞིག་ནས་གནས་པ་གང་ནས་བྱུང༌། །
+
+**Comparison reading/snippet:** གང་ལས་བྱུང
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"reading": "high", "alignment": "high"}.
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: [2760, 735, 3260, 840].
+
+**Observation:** The second case syllable in this unit is ལས; the earlier ནས after ཞིག remains distinct. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x0000-y0000.png), [p006-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x1900-y0000.png), [p006-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x2350-y0000.png), [C1-TINGKYE-B04-P0006-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B04-P0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b04-o16"></a>
+
+### TK-CONT2-B04-O16 — Tingkye
+
+Units: [U00198](#u00198), [U00199](#u00199), [U00200](#u00200), [U00201](#u00201).
+
+**Current Adzom main context:** ཞིག་ནས་གནས་པ་གང་ནས་བྱུང༌། ། / བར་དུ་སུ་དང་སུ་ཡིས་འཛིན། ། / ཐ་མ་འདི་ཉིད་གང་དུ་འགྱུར། ། / ལུས་དང་ཡན་ལག་ཅི་ལྟ་བུ། །
+
+**Comparison reading/snippet:** ཞིག་ནས་གནས་པ་གང་ལས་བྱུང⟦R7-P05⟧ ཐ་མ་འདི་ཉིད་གང་དུ | འགྱུར⟦P⟧ བར་དུ་སུ་དང་སུ་ཡིས་འཛིན⟦P⟧ ལུས་དང་ཡན་ལག་ཅི་ལྟ་བུ
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"boundary_reading": "high", "unit_order": "high", "alignment": "high"}.
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: {"pdf6": [2760, 735, 3770, 840], "pdf7": [585, 250, 1750, 340]}.
+
+**Observation:** Observed wording establishes U00198 → U00200 → U00199 → U00201. U00199 is not a missing verse. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x0000-y0000.png), [p006-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x1900-y0000.png), [p006-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x2350-y0000.png), [C1-TINGKYE-B04-P0006-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B04-P0006-reader-reading.txt), [C1-TINGKYE-B05-P0007-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B05-P0007-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b04-o18"></a>
+
+### TK-CONT2-B04-O18 — Tingkye
+
+Units: [U00187](#u00187).
+
+**Current Adzom main context:** འབྱུང་བཞིའི་དགོངས་པ་ཇི་ལྟ་བུ། །
+
+**Comparison reading/snippet:** དགོས་པ་ཇི་ལྟ་བུ
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"main_sized_དགོས་པ": "medium-high", "local_separate_note_not_identified": "high"}.
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: [2920, 550, 3480, 670].
+
+**Observation:** དགོས་པ appears in the main sequence. No separate local དགོས་པ་ཡང་བྱུང note is identified; shared words do not establish reproduction of the base annotation. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x0000-y0000.png), [p006-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x1900-y0000.png), [p006-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x2350-y0000.png), [C1-TINGKYE-B04-P0006-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B04-P0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b04-o19"></a>
+
+### TK-CONT2-B04-O19 — Tingkye
+
+Units: [U00191](#u00191), [U00192](#u00192).
+
+**Current Adzom main context:** ཐལ་བའི་གནས་ནི་དུ་ཙམ་མཆིས། ། / འགྱུར་དང་འགྱུར་བྱེད་གང་དང་གང། །
+
+**Comparison reading/snippet:** ཐལ་བའི་གནས་ནི་ཅི་ཙམ་མཆིས⟦R6-P04⟧ འགྱུར་དང་འགྱུར་གང་དང་གང
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"direct_main_transition": "high", "local_separate_note_not_identified": "high", "unread_marginal_wording": "unresolved"}.
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: [2000, 630, 3220, 753].
+
+**Observation:** The two main units directly adjoin across P. The reference's structural note is not identified in the local interlinear region; no main-verse absence is inferred. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x0000-y0000.png), [p006-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x1900-y0000.png), [p006-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B04-P0006/p006-x2350-y0000.png), [C1-TINGKYE-B04-P0006-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B04-P0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b05-o02"></a>
+
+### TK-CONT2-B05-O02 — Tingkye
+
+Units: [U00207](#u00207).
+
+**Current Adzom main context:** ཚེ་དང་དབང་ཐང་གང་གིས་གཟུངས། །
+
+**Comparison reading/snippet:** བཟུང
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"reading": "medium", "alignment": "high", "difference": "medium"}.
+
+**Locator:** PDF 7; source-member and native bounds in linked packet; bounds: [1740, 338, 1850, 432].
+
+**Observation:** The visible prefix is read as བ; the final ང is followed by the compound delimiter without a separately distinguished suffix ས. Retain as a provisional visual reading. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p007-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-native.png), [p007-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x0000-y0000.png), [p007-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x1900-y0000.png), [p007-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x2350-y0000.png), [C1-TINGKYE-B05-P0007-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B05-P0007-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b05-o03"></a>
+
+### TK-CONT2-B05-O03 — Tingkye
+
+Units: [U00208](#u00208).
+
+**Current Adzom main context:** བྱེར་ཟུག་སྙོམས་པའི་མཐའ་ཅིར་འགྱུར། །
+
+**Comparison reading/snippet:** བྱེ⟦Q01:ར?⟧་⟦Q02:ཟུག?⟧
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"initial_cluster_resolution": "low", "following_text": "high", "alignment": "high"}.
+
+**Locator:** PDF 7; source-member and native bounds in linked packet; bounds: [1860, 337, 2090, 432].
+
+**Observation:** The first cluster's suffix and the following cluster's internal form are not securely resolved across the column overlap. Neither agreement nor a replacement reading is adopted for these two components. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p007-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-native.png), [p007-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x0000-y0000.png), [p007-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x1900-y0000.png), [p007-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x2350-y0000.png), [C1-TINGKYE-B05-P0007-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B05-P0007-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b05-o04"></a>
+
+### TK-CONT2-B05-O04 — Tingkye
+
+Units: [U00212](#u00212).
+
+**Current Adzom main context:** ཐུན་མོང་ལས་ཀྱི་མཐའ་གང་ལགས། །
+
+**Comparison reading/snippet:** ལས་ཀྱིས་མཐའ
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"reading": "high", "alignment": "high", "difference": "high"}.
+
+**Locator:** PDF 7; source-member and native bounds in linked packet; bounds: [1510, 417, 1810, 522].
+
+**Observation:** A terminal ས is visible after the ཀྱི stack before མཐའ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p007-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-native.png), [p007-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x0000-y0000.png), [p007-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x1900-y0000.png), [p007-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x2350-y0000.png), [C1-TINGKYE-B05-P0007-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B05-P0007-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b05-o05"></a>
+
+### TK-CONT2-B05-O05 — Tingkye
+
+Units: [U00213](#u00213).
+
+**Current Adzom main context:** བྱེ་བྲག་སྐུ་རྣམས་ཅི་ལྟར་འགྲུབ། །
+
+**Comparison reading/snippet:** སྐུ་ནི་ཅི་ལྟར་སྒྲུབ
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"ནི_reading": "high", "སྒྲུབ_reading": "medium", "alignment": "high"}.
+
+**Locator:** PDF 7; source-member and native bounds in linked packet; bounds: [2110, 415, 2450, 526].
+
+**Observation:** The short ནི syllable is visible after སྐུ. The final verb is read with a superposed ས rather than the base's initial འ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p007-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-native.png), [p007-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x0000-y0000.png), [p007-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x1900-y0000.png), [p007-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x2350-y0000.png), [C1-TINGKYE-B05-P0007-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B05-P0007-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b05-o06"></a>
+
+### TK-CONT2-B05-O06 — Tingkye
+
+Units: [U00217](#u00217).
+
+**Current Adzom main context:** རྩ་ཡི་ཡོན་ཏན་ཅི་ཙམ་མཆིས། །
+
+**Comparison reading/snippet:** རྩ་བའི
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"reading": "high", "alignment": "high", "difference": "high"}.
+
+**Locator:** PDF 7; source-member and native bounds in linked packet; bounds: [1100, 493, 1280, 591].
+
+**Observation:** The source has the visible བའི cluster after རྩ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p007-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-native.png), [p007-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x0000-y0000.png), [p007-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x1900-y0000.png), [p007-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x2350-y0000.png), [C1-TINGKYE-B05-P0007-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B05-P0007-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b05-o07"></a>
+
+### TK-CONT2-B05-O07 — Tingkye
+
+Units: [U00219](#u00219).
+
+**Current Adzom main context:** མཁའ་འགྲོ་མ་ཡི་ལས་མཐའ་གང༌། །
+
+**Comparison reading/snippet:** མཁའ་འགྲོ་མའི་ལས
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"reading": "high", "alignment": "high", "difference": "high"}.
+
+**Locator:** PDF 7; source-member and native bounds in linked packet; bounds: [2190, 492, 2670, 600].
+
+**Observation:** The source writes མའི directly before ལས; no separate ཡི syllable occupies that interval. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p007-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-native.png), [p007-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x0000-y0000.png), [p007-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x1900-y0000.png), [p007-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x2350-y0000.png), [C1-TINGKYE-B05-P0007-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B05-P0007-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b05-o08"></a>
+
+### TK-CONT2-B05-O08 — Tingkye
+
+Units: [U00221](#u00221).
+
+**Current Adzom main context:** རྟེན་ཅིང་འབྲེལ་པ་ཅི་ཡི་རྒྱུ། །
+
+**Comparison reading/snippet:** བརྟེན་ཅིང
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"reading": "medium", "alignment": "high", "difference": "medium"}.
+
+**Locator:** PDF 7; source-member and native bounds in linked packet; bounds: [3470, 490, 3720, 596].
+
+**Observation:** An initial བ is read before the རྟེན stack at the right end of row 4. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p007-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-native.png), [p007-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x0000-y0000.png), [p007-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x1900-y0000.png), [p007-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x2350-y0000.png), [C1-TINGKYE-B05-P0007-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B05-P0007-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b05-o09"></a>
+
+### TK-CONT2-B05-O09 — Tingkye
+
+Units: [U00221](#u00221).
+
+**Current Adzom main context:** རྟེན་ཅིང་འབྲེལ་པ་ཅི་ཡི་རྒྱུ། །
+
+**Comparison reading/snippet:** འབྲེལ་པ་⟦Q03:ཅིའི?⟧་རྒྱུ
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"junction_reading": "low", "flanking_words": "high", "alignment": "high"}.
+
+**Locator:** PDF 7; source-member and native bounds in linked packet; bounds: [590, 578, 890, 696].
+
+**Observation:** The junction after པ appears contracted, but the distinction between ཅིའི and ཅི་ཡི is unresolved. No omission is adopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p007-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-native.png), [p007-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x0000-y0000.png), [p007-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x1900-y0000.png), [p007-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x2350-y0000.png), [C1-TINGKYE-B05-P0007-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B05-P0007-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b05-o10"></a>
+
+### TK-CONT2-B05-O10 — Tingkye
+
+Units: [U00224](#u00224).
+
+**Current Adzom main context:** གནད་ཀྱི་འབྱུང་བ་གང་དང་གང༌། །
+
+**Comparison reading/snippet:** གནད་ཀྱིས་འབྱུང་བ
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"reading": "high", "alignment": "high", "difference": "high"}.
+
+**Locator:** PDF 7; source-member and native bounds in linked packet; bounds: [2250, 577, 2630, 691].
+
+**Observation:** The ས after ཀྱི is visible before the next syllable. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p007-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-native.png), [p007-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x0000-y0000.png), [p007-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x1900-y0000.png), [p007-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x2350-y0000.png), [C1-TINGKYE-B05-P0007-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B05-P0007-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b05-o11"></a>
+
+### TK-CONT2-B05-O11 — Tingkye
+
+Units: [U00225](#u00225).
+
+**Current Adzom main context:** རྩིས་སྦྱོར་ལས་ཀྱི་ཡན་ལག་ཅི། །
+
+**Comparison reading/snippet:** ལས་ནི་ཡན་ལག
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"reading": "high", "alignment": "high", "difference": "high"}.
+
+**Locator:** PDF 7; source-member and native bounds in linked packet; bounds: [3080, 579, 3420, 690].
+
+**Observation:** The source syllable is ནི, without a ཀྱ stack. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p007-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-native.png), [p007-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x0000-y0000.png), [p007-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x1900-y0000.png), [p007-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x2350-y0000.png), [C1-TINGKYE-B05-P0007-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B05-P0007-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b05-o12"></a>
+
+### TK-CONT2-B05-O12 — Tingkye
+
+Units: [U00226](#u00226).
+
+**Current Adzom main context:** འབྱུང་བའི་བདེ་བ་གང་གིས་འགྲུབ། །
+
+**Comparison reading/snippet:** འབྱུང་བ་བདེ [row 5→6] བ་གང་གིས་སྒྲུབ
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"བ_before_བདེ": "medium", "སྒྲུབ_reading": "high", "alignment": "high"}.
+
+**Locator:** PDF 7; source-member and native bounds in linked packet; bounds: [[3480, 577, 3720, 692], [590, 657, 855, 773]].
+
+**Observation:** Row 5 shows བ followed by བདེ without a securely visible genitive extension; row 6 begins with the remaining བ and ends this unit with སྒྲུབ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p007-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-native.png), [p007-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x0000-y0000.png), [p007-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x1900-y0000.png), [p007-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x2350-y0000.png), [C1-TINGKYE-B05-P0007-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B05-P0007-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b05-o13"></a>
+
+### TK-CONT2-B05-O13 — Tingkye
+
+Units: [U00227](#u00227).
+
+**Current Adzom main context:** སྤོ་བའི་ལས་ནི་གང་གིས་བགྱིས། །
+
+**Comparison reading/snippet:** བགྱི⟦Q04:ས?⟧
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"བགྱི_reading": "high", "suffix_presence": "low", "alignment": "high"}.
+
+**Locator:** PDF 7; source-member and native bounds in linked packet; bounds: [1350, 657, 1490, 773].
+
+**Observation:** The verb stack and following compound sign are visible, but the terminal stroke does not securely establish or exclude a separate ས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p007-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-native.png), [p007-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x0000-y0000.png), [p007-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x1900-y0000.png), [p007-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x2350-y0000.png), [C1-TINGKYE-B05-P0007-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B05-P0007-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b05-o14"></a>
+
+### TK-CONT2-B05-O14 — Tingkye
+
+Units: [U00230](#u00230).
+
+**Current Adzom main context:** གྲུབ་མཐའ་དགོངས་པ་གང་གིས་འགྲུབ། །
+
+**Comparison reading/snippet:** གྲུབ་མཐའི་དགོངས་པ
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"reading": "medium", "alignment": "high", "difference": "medium"}.
+
+**Locator:** PDF 7; source-member and native bounds in linked packet; bounds: [2770, 656, 3200, 772].
+
+**Observation:** The source is read with the genitive extension and vowel above མཐའི. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p007-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-native.png), [p007-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x0000-y0000.png), [p007-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x1900-y0000.png), [p007-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x2350-y0000.png), [C1-TINGKYE-B05-P0007-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B05-P0007-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b05-o15"></a>
+
+### TK-CONT2-B05-O15 — Tingkye
+
+Units: [U00232](#u00232).
+
+**Current Adzom main context:** བསྒྲུབ་པའི་རིམ་པ་དུ་ཞིག་མཆིས། །
+
+**Comparison reading/snippet:** སྒྲུབ་པའི
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"reading": "high", "alignment": "high", "difference": "high"}.
+
+**Locator:** PDF 7; source-member and native bounds in linked packet; bounds: [970, 739, 1200, 852].
+
+**Observation:** The word begins directly with the སྒྲ stack after the preceding delimiter; no prefixed བ is visible. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p007-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-native.png), [p007-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x0000-y0000.png), [p007-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x1900-y0000.png), [p007-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x2350-y0000.png), [C1-TINGKYE-B05-P0007-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B05-P0007-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b05-o16"></a>
+
+### TK-CONT2-B05-O16 — Tingkye
+
+Units: [U00233](#u00233).
+
+**Current Adzom main context:** གནས་ལུགས་རྣམས་ཀྱི་འདུག་ཚུལ་ཅི། །
+
+**Comparison reading/snippet:** རྣམས་ཀྱིས་འདུག
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"reading": "high", "alignment": "high", "difference": "high"}.
+
+**Locator:** PDF 7; source-member and native bounds in linked packet; bounds: [1770, 738, 2150, 852].
+
+**Observation:** A terminal ས follows ཀྱི before འདུག. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p007-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-native.png), [p007-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x0000-y0000.png), [p007-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x1900-y0000.png), [p007-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x2350-y0000.png), [C1-TINGKYE-B05-P0007-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B05-P0007-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b05-o17"></a>
+
+### TK-CONT2-B05-O17 — Tingkye
+
+Units: [U00234](#u00234).
+
+**Current Adzom main context:** འཁྲུལ་པའི་རྩིས་རྣམས་ཅི་ལྟར་བཟུངས། །
+
+**Comparison reading/snippet:** ⟦Q05:ཇི?⟧་ལྟར་བཟུང
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"བཟུང_reading": "high", "ཇི_or_ཅི": "low", "alignment": "high"}.
+
+**Locator:** PDF 7; source-member and native bounds in linked packet; bounds: [2660, 738, 2970, 852].
+
+**Observation:** The final ང is followed by the compound delimiter without a visible suffix ས. The earlier syllable's root is not securely distinguished as ཇ versus ཅ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p007-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-native.png), [p007-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x0000-y0000.png), [p007-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x1900-y0000.png), [p007-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B05-P0007/p007-x2350-y0000.png), [C1-TINGKYE-B05-P0007-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B05-P0007-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b06-o02"></a>
+
+### TK-CONT2-B06-O02 — Tingkye
+
+Units: [U00238](#u00238).
+
+**Current Adzom main context:** དུས་དང་བསྟན་པའི་བབ་སོ་ཅི། །
+
+**Comparison reading/snippet:** བབས་སོ
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyphs": "moderate", "alignment": "high", "layer": "high"}.
+
+**Locator:** PDF 8; source-member and native bounds in linked packet; bounds: [2180, 255, 2760, 350].
+
+**Observation:** I read a final ས in the source syllable བབས. This is a provisional local reading. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p008-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-native.png), [p008-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x0000-y0000.png), [p008-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x1900-y0000.png), [p008-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x2350-y0000.png), [C1-TINGKYE-B06-P0008-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B06-P0008-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b06-o03"></a>
+
+### TK-CONT2-B06-O03 — Tingkye
+
+Units: [U00243](#u00243).
+
+**Current Adzom main context:** མངོན་སུམ་གནད་ལ་ཅི་ལྟར་བསྒྲེ། །
+
+**Comparison reading/snippet:** ཅི་ལྟར་⟦Q243⟧
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"glyphs": "low for final syllable", "alignment": "high", "layer": "high"}.
+
+**Locator:** PDF 8; source-member and native bounds in linked packet; bounds: [2140, 340, 2350, 445].
+
+**Observation:** The final syllable's stacked body is visible, but I cannot securely resolve its vowel and ending. The reference reading is not inserted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p008-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-native.png), [p008-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x0000-y0000.png), [p008-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x1900-y0000.png), [p008-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x2350-y0000.png), [C1-TINGKYE-B06-P0008-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B06-P0008-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b06-o04"></a>
+
+### TK-CONT2-B06-O04 — Tingkye
+
+Units: [U00248](#u00248).
+
+**Current Adzom main context:** བལྟ་བ་མཐའ་ལ་གང་གིས་བསྐྱལ། །
+
+**Comparison reading/snippet:** ལྟ་བ་མཐའ་ལ
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyphs": "moderate", "alignment": "high", "absence_of_prefix": "moderate"}.
+
+**Locator:** PDF 8; source-member and native bounds in linked packet; bounds: [1640, 420, 2210, 535].
+
+**Observation:** I read the source onset as ལྟ, without a separate preceding བ; both neighboring stretches are visible. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p008-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-native.png), [p008-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x0000-y0000.png), [p008-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x1900-y0000.png), [p008-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x2350-y0000.png), [C1-TINGKYE-B06-P0008-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B06-P0008-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b06-o05"></a>
+
+### TK-CONT2-B06-O05 — Tingkye
+
+Units: [U00249](#u00249).
+
+**Current Adzom main context:** བསྒོམ་པའི་སྲོག་ཤིང་གང་དང་གང་། །
+
+**Comparison reading/snippet:** སྒོམ་པའི
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyphs": "moderate", "alignment": "high", "absence_of_prefix": "moderate"}.
+
+**Locator:** PDF 8; source-member and native bounds in linked packet; bounds: [2205, 420, 2835, 535].
+
+**Observation:** The initial visible group reads སྒོམ; I do not resolve a separate prefixed བ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p008-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-native.png), [p008-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x0000-y0000.png), [p008-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x1900-y0000.png), [p008-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x2350-y0000.png), [C1-TINGKYE-B06-P0008-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B06-P0008-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b06-o06"></a>
+
+### TK-CONT2-B06-O06 — Tingkye
+
+Units: [U00250](#u00250).
+
+**Current Adzom main context:** སྤྱོད་པའི་སྦྱོར་བ་ཇི་ལྟ་བུ། །
+
+**Comparison reading/snippet:** སྤྱོད་པའི་⟦Q250⟧་བ་ཇི་ལྟ་བུ
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"glyphs": "low for medial stack", "alignment": "high", "layer": "high"}.
+
+**Locator:** PDF 8; source-member and native bounds in linked packet; bounds: [3000, 420, 3190, 530].
+
+**Observation:** The medial syllable has a visible stack and upper vowel, but its consonant composition is not securely distinguished. No lexical difference is adopted here. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p008-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-native.png), [p008-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x0000-y0000.png), [p008-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x1900-y0000.png), [p008-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x2350-y0000.png), [C1-TINGKYE-B06-P0008-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B06-P0008-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b06-o07"></a>
+
+### TK-CONT2-B06-O07 — Tingkye
+
+Units: [U00251](#u00251).
+
+**Current Adzom main context:** འབྲས་བུའི་ཐོབ་ས་གང་ཙམ་ཞིག །
+
+**Comparison reading/snippet:** འབྲས་བུ་ཐོབ་པ་གང | ཙམ་ཞིག
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyphs": "moderate", "alignment": "high", "row_join": "high"}.
+
+**Locator:** PDF 8; source-member and native bounds in linked packet; bounds: [[3335, 420, 3745, 535], [580, 490, 805, 615]].
+
+**Observation:** I read བུ rather than བུའི, followed by ཐོབ་པ rather than ཐོབ་ས. The following row supplies the actual continuation. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p008-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-native.png), [p008-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x0000-y0000.png), [p008-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x1900-y0000.png), [p008-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x2350-y0000.png), [C1-TINGKYE-B06-P0008-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B06-P0008-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b06-o08"></a>
+
+### TK-CONT2-B06-O08 — Tingkye
+
+Units: [U00253](#u00253).
+
+**Current Adzom main context:** བཅུད་ཀྱིས་ལེན་པ་ཇི་ལྟ་བུ། །
+
+**Comparison reading/snippet:** བཅུད་ཀྱི་ལེན་པ
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyphs": "moderate", "alignment": "high", "absence_of_suffix": "moderate"}.
+
+**Locator:** PDF 8; source-member and native bounds in linked packet; bounds: [1415, 490, 1870, 615].
+
+**Observation:** My provisional reading is ཀྱི immediately before ལེན, without resolving the reference's final ས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p008-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-native.png), [p008-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x0000-y0000.png), [p008-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x1900-y0000.png), [p008-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x2350-y0000.png), [C1-TINGKYE-B06-P0008-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B06-P0008-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b06-o09"></a>
+
+### TK-CONT2-B06-O09 — Tingkye
+
+Units: [U00255](#u00255).
+
+**Current Adzom main context:** འབྱུང་བའི་རྒྱུན་ནི་ཅི་ལྟར་གཅད། །
+
+**Comparison reading/snippet:** ཅི་ལྟར་བཅད
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyphs": "moderate", "alignment": "high", "layer": "high"}.
+
+**Locator:** PDF 8; source-member and native bounds in linked packet; bounds: [2490, 490, 3050, 615].
+
+**Observation:** The final word provisionally reads བཅད; the prefix is not silently conformed to the reference. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p008-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-native.png), [p008-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x0000-y0000.png), [p008-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x1900-y0000.png), [p008-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x2350-y0000.png), [C1-TINGKYE-B06-P0008-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B06-P0008-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b06-o10"></a>
+
+### TK-CONT2-B06-O10 — Tingkye
+
+Units: [U00256](#u00256).
+
+**Current Adzom main context:** བཞི་པོ་རོ་རྣམས་ཅི་ཡིས་སྙོམས། །
+
+**Comparison reading/snippet:** བཞི་པོའི་རོ་རྣམས
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyphs": "moderate", "alignment": "high", "layer": "high"}.
+
+**Locator:** PDF 8; source-member and native bounds in linked packet; bounds: [3070, 490, 3430, 615].
+
+**Observation:** I read an attached འི after པོ. The terminal syllable is a separate unresolved question. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p008-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-native.png), [p008-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x0000-y0000.png), [p008-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x1900-y0000.png), [p008-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x2350-y0000.png), [C1-TINGKYE-B06-P0008-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B06-P0008-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b06-o11"></a>
+
+### TK-CONT2-B06-O11 — Tingkye
+
+Units: [U00256](#u00256).
+
+**Current Adzom main context:** བཞི་པོ་རོ་རྣམས་ཅི་ཡིས་སྙོམས། །
+
+**Comparison reading/snippet:** ཅི་ཡིས་⟦Q256⟧
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"glyphs": "low for terminal syllable", "alignment": "high", "layer": "high"}.
+
+**Locator:** PDF 8; source-member and native bounds in linked packet; bounds: [3410, 490, 3620, 615].
+
+**Observation:** The visible group suggests མཉམས, but I cannot securely establish the stack, vowel and final consonants. Neither that candidate nor སྙོམས is adopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p008-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-native.png), [p008-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x0000-y0000.png), [p008-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x1900-y0000.png), [p008-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x2350-y0000.png), [C1-TINGKYE-B06-P0008-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B06-P0008-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b06-o12"></a>
+
+### TK-CONT2-B06-O12 — Tingkye
+
+Units: [U00258](#u00258).
+
+**Current Adzom main context:** འཕགས་པའི་རྫུ་འཕྲུལ་ཅི་ཡིས་འགྲུབ།།
+
+**Comparison reading/snippet:** ཅི་ཡིས་བསྒྲུབ
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyphs": "moderate", "alignment": "high", "layer": "high"}.
+
+**Locator:** PDF 8; source-member and native bounds in linked packet; bounds: [1055, 575, 1760, 695].
+
+**Observation:** I read a prefixed and superscribed cluster བསྒྲུབ, rather than the reference's འགྲུབ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p008-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-native.png), [p008-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x0000-y0000.png), [p008-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x1900-y0000.png), [p008-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x2350-y0000.png), [C1-TINGKYE-B06-P0008-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B06-P0008-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b06-o13"></a>
+
+### TK-CONT2-B06-O13 — Tingkye
+
+Units: [U00262](#u00262).
+
+**Current Adzom main context:** སྣང་བའི་བདག་པོས་བདག་ལ་གསུང་། །
+
+**Comparison reading/snippet:** སྣང with raised ⟦QA1⟧
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"small_text_presence": "high", "small_text_reading": "low-to-moderate", "functional_assignment": "low"}.
+
+**Locator:** PDF 8; source-member and native bounds in linked packet; bounds: [3610, 575, 3745, 690].
+
+**Observation:** Small raised characters are present; བའི is a tentative reading. Their smaller physical layer must remain visible in the record. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p008-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-native.png), [p008-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x0000-y0000.png), [p008-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x1900-y0000.png), [p008-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x2350-y0000.png), [C1-TINGKYE-B06-P0008-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B06-P0008-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b06-o14"></a>
+
+### TK-CONT2-B06-O14 — Tingkye
+
+Units: [U00262](#u00262).
+
+**Current Adzom main context:** སྣང་བའི་བདག་པོས་བདག་ལ་གསུང་། །
+
+**Comparison reading/snippet:** བདག་ལ་གསུངས
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyphs": "moderate", "alignment": "high", "layer": "high"}.
+
+**Locator:** PDF 8; source-member and native bounds in linked packet; bounds: [580, 655, 1070, 780].
+
+**Observation:** The terminal word provisionally reads གསུངས with final ས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p008-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-native.png), [p008-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x0000-y0000.png), [p008-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x1900-y0000.png), [p008-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x2350-y0000.png), [C1-TINGKYE-B06-P0008-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B06-P0008-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b06-o15"></a>
+
+### TK-CONT2-B06-O15 — Tingkye
+
+Units: [U00264](#u00264).
+
+**Current Adzom main context:** མ་འོངས་པ་ཡི་དུས་རྣམས་སུ། །
+
+**Comparison reading/snippet:** མ་འོངས་པའི་དུས
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyphs": "moderate", "alignment": "high", "segmentation": "moderate"}.
+
+**Locator:** PDF 8; source-member and native bounds in linked packet; bounds: [1670, 655, 2130, 780].
+
+**Observation:** I read the contracted written form པའི, not a separate པ་ཡི. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p008-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-native.png), [p008-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x0000-y0000.png), [p008-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x1900-y0000.png), [p008-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x2350-y0000.png), [C1-TINGKYE-B06-P0008-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B06-P0008-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b06-o16"></a>
+
+### TK-CONT2-B06-O16 — Tingkye
+
+Units: [U00267](#u00267).
+
+**Current Adzom main context:** བྱ་བྲལ་གླེན་པས་བདེ་ཆེན་རྙེད། །
+
+**Comparison reading/snippet:** གླེན་⟦Q267⟧་བདེ
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"glyphs": "low for particle ending", "alignment": "high", "row_join": "high"}.
+
+**Locator:** PDF 8; source-member and native bounds in linked packet; bounds: [3490, 655, 3745, 780].
+
+**Observation:** The པ-body is visible, but the following marks do not support a secure choice between a bare or extended particle. No missing suffix is asserted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p008-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-native.png), [p008-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x0000-y0000.png), [p008-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x1900-y0000.png), [p008-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x2350-y0000.png), [C1-TINGKYE-B06-P0008-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B06-P0008-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b06-o17"></a>
+
+### TK-CONT2-B06-O17 — Tingkye
+
+Units: [U00271](#u00271).
+
+**Current Adzom main context:** རིམ་པ་གསལ་བར་ཕྱེས་ལ་གསུང་། །
+
+**Comparison reading/snippet:** ཕྱེ་ལ་གསུངས
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyphs": "moderate", "alignment": "high", "absence_of_suffix_after_phye": "moderate"}.
+
+**Locator:** PDF 8; source-member and native bounds in linked packet; bounds: [2380, 735, 3010, 855].
+
+**Observation:** I provisionally read ཕྱེ directly followed by ལ, and a final ས in གསུངས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p008-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-native.png), [p008-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x0000-y0000.png), [p008-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x1900-y0000.png), [p008-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x2350-y0000.png), [C1-TINGKYE-B06-P0008-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B06-P0008-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b06-o18"></a>
+
+### TK-CONT2-B06-O18 — Tingkye
+
+Units: [U00272](#u00272).
+
+**Current Adzom main context:** དེ་ནས་ཁྱབ་བདག་སེམས་དཔའ་ནི། །
+
+**Comparison reading/snippet:** དེ་ནས་ཁྱབ་བདག་སེམས་དཔའ་ནི
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"main_glyphs": "high", "alignment": "high", "local_annotation_absence": "high"}.
+
+**Locator:** PDF 8; source-member and native bounds in linked packet; bounds: [3010, 725, 3745, 860].
+
+**Observation:** The visible main sequence passes directly from དེ་ནས to ཁྱབ་བདག. No corresponding small heading is seen in this bounded area. This is not evidence of a missing main verse. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p008-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-native.png), [p008-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x0000-y0000.png), [p008-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x1900-y0000.png), [p008-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B06-P0008/p008-x2350-y0000.png), [C1-TINGKYE-B06-P0008-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B06-P0008-reader-reading.txt), [C1-TINGKYE-B07-P0009-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B07-P0009-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b07-o02"></a>
+
+### TK-CONT2-B07-O02 — Tingkye
+
+Units: [U00276](#u00276).
+
+**Current Adzom main context:** ཡན་ལག་དྲུག་ཅུའི་དབྱངས་ལྡན་ཏེ། །
+
+**Comparison reading/snippet:** དྲུག་བཅུའི
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyphs": "medium-high", "alignment": "high", "difference": "medium-high"}.
+
+**Locator:** PDF 9; source-member and native bounds in linked packet; bounds: [2360, 260, 2940, 375].
+
+**Observation:** I read an additional བ before ཅུའི in the source. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p009-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-native.png), [p009-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x0000-y0000.png), [p009-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x1900-y0000.png), [p009-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x2350-y0000.png), [C1-TINGKYE-B07-P0009-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B07-P0009-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b07-o03"></a>
+
+### TK-CONT2-B07-O03 — Tingkye
+
+Units: [U00281](#u00281), [U00282](#u00282).
+
+**Current Adzom main context:** ཨིནྡྲ་ལྷ་ཡི་དབང་ཕྱུག་ཉོན། ། / ལུས་དང་ངག་ཡིད་རབ་གཙེར་བས། །
+
+**Comparison reading/snippet:** ["ལྷ་⟦Q01⟧་དབང", "རབ་⟦Q02⟧ཙེར་བས"]
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"alignment": "high", "Q01_glyphs": "low-medium", "Q02_prefix": "low-medium", "difference": "unresolved"}.
+
+**Locator:** PDF 9; source-member and native bounds in linked packet; bounds: [2070, 345, 3200, 465].
+
+**Observation:** The surrounding sequences are readable; these two short components are not secure enough to certify agreement or difference. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p009-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-native.png), [p009-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x0000-y0000.png), [p009-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x1900-y0000.png), [p009-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x2350-y0000.png), [C1-TINGKYE-B07-P0009-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B07-P0009-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b07-o04"></a>
+
+### TK-CONT2-B07-O04 — Tingkye
+
+Units: [U00286](#u00286).
+
+**Current Adzom main context:** ཨེ་མ་ངོ་མཚར་རྨད་བྱུང་བ། །
+
+**Comparison reading/snippet:** རྨད་⟦Q03⟧བྱུང་བའི
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"alignment": "high", "ending_བའི": "medium-high", "prefix_before_བྱུང": "unresolved"}.
+
+**Locator:** PDF 9; source-member and native bounds in linked packet; bounds: [1880, 425, 2410, 550].
+
+**Observation:** The terminal group reads བའི. A possible འ prefix before བྱུང is retained separately as Q03. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p009-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-native.png), [p009-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x0000-y0000.png), [p009-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x1900-y0000.png), [p009-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x2350-y0000.png), [C1-TINGKYE-B07-P0009-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B07-P0009-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b07-o05"></a>
+
+### TK-CONT2-B07-O05 — Tingkye
+
+Units: [U00293](#u00293), [U00294](#u00294).
+
+**Current Adzom main context:** ཆོས་ཀྱི་མེ་ལོང་དོན་གྱིས་སྡུད། ། / བཀའ་ཡི་འགྲེལ་པ་མན་ངག་སྙིང་། །
+
+**Comparison reading/snippet:** ["དོན་གྱིས་⟦Q04⟧སྡུད", "⟦Q05⟧་འགྲེལ"]
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"alignment": "high", "Q04_prefix": "low-medium", "Q05_segmentation": "medium", "difference": "unresolved"}.
+
+**Locator:** PDF 9; source-member and native bounds in linked packet; bounds: [2950, 510, 3770, 635].
+
+**Observation:** Possible བསྡུད and བཀའི readings require confirmation; neither is silently normalized to the reference. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p009-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-native.png), [p009-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x0000-y0000.png), [p009-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x1900-y0000.png), [p009-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x2350-y0000.png), [C1-TINGKYE-B07-P0009-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B07-P0009-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b07-o06"></a>
+
+### TK-CONT2-B07-O06 — Tingkye
+
+Units: [U00297](#u00297).
+
+**Current Adzom main context:** ཡང་གསང་ལྡེ་མིག་བལྟ་བའི་ཕུགས། །
+
+**Comparison reading/snippet:** ལྡེ་མིག་ལྟ་བའི་ཕུགས
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyphs": "medium", "alignment": "high", "prefix_absence": "medium"}.
+
+**Locator:** PDF 9; source-member and native bounds in linked packet; bounds: [1910, 590, 2500, 725].
+
+**Observation:** My visual reading is ལྟ, without the reference's prefixed བ. This is a provisional local variant. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p009-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-native.png), [p009-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x0000-y0000.png), [p009-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x1900-y0000.png), [p009-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x2350-y0000.png), [C1-TINGKYE-B07-P0009-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B07-P0009-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b07-o07"></a>
+
+### TK-CONT2-B07-O07 — Tingkye
+
+Units: [U00298](#u00298).
+
+**Current Adzom main context:** སྤྱོད་པའི་སྦྱང་ས་བསྒོམ་པའི་གནད། །
+
+**Comparison reading/snippet:** སྤྱོད་པའི་⟦Q06⟧་ས་སྒོམ་པའི་གནད
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"alignment": "high", "Q06": "unresolved", "སྒོམ_reading": "medium", "prefix_absence": "medium"}.
+
+**Locator:** PDF 9; source-member and native bounds in linked packet; bounds: [2510, 590, 3160, 725].
+
+**Observation:** The group before ས is unresolved between the readings specified in Q06. I provisionally read སྒོམ rather than བསྒོམ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p009-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-native.png), [p009-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x0000-y0000.png), [p009-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x1900-y0000.png), [p009-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x2350-y0000.png), [C1-TINGKYE-B07-P0009-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B07-P0009-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b07-o08"></a>
+
+### TK-CONT2-B07-O08 — Tingkye
+
+Units: [U00302](#u00302).
+
+**Current Adzom main context:** ང་ཡི་སྤྲོས་པའི་ཚིག་རྣམས་ལ། །
+
+**Comparison reading/snippet:** ང་ཡིས་སྤྲོས
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyphs": "medium", "alignment": "high", "difference": "medium"}.
+
+**Locator:** PDF 9; source-member and native bounds in linked packet; bounds: [1770, 670, 2350, 805].
+
+**Observation:** The source appears to retain a final ས on ཡིས; the overlapping columns were considered together. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p009-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-native.png), [p009-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x0000-y0000.png), [p009-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x1900-y0000.png), [p009-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x2350-y0000.png), [C1-TINGKYE-B07-P0009-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B07-P0009-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b07-o09"></a>
+
+### TK-CONT2-B07-O09 — Tingkye
+
+Units: [U00303](#u00303).
+
+**Current Adzom main context:** འཁྲུལ་པའི་རྡུལ་གྱི་ཆ་མེད་པས། །
+
+**Comparison reading/snippet:** འཁྲུལ་པ་རྡུལ་གྱིས་ཆ་མེད་པས
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyphs": "medium", "alignment": "high", "differences": "medium"}.
+
+**Locator:** PDF 9; source-member and native bounds in linked packet; bounds: [2370, 670, 2950, 805].
+
+**Observation:** My source reading has པ and གྱིས. These are provisional visual variants, preserved without grammatical correction. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p009-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-native.png), [p009-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x0000-y0000.png), [p009-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x1900-y0000.png), [p009-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x2350-y0000.png), [C1-TINGKYE-B07-P0009-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B07-P0009-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b07-o10"></a>
+
+### TK-CONT2-B07-O10 — Tingkye
+
+Units: [U00305](#u00305).
+
+**Current Adzom main context:** ངེས་པར་གྲུབ་ཅིང་དོན་འབྱུང་བས། །
+
+**Comparison reading/snippet:** ངེས་པར / འགྲུབ་ཅིང་དོན་འབྱུང་བས
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyphs": "medium-high", "alignment": "high", "row_join": "high", "difference": "medium-high"}.
+
+**Locator:** PDF 9; source-member and native bounds in linked packet; bounds: [[3560, 670, 3770, 790], [600, 745, 1080, 875]].
+
+**Observation:** The initial group on row7 reads འགྲུབ. It continues row6 ངེས་པར. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p009-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-native.png), [p009-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x0000-y0000.png), [p009-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x1900-y0000.png), [p009-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x2350-y0000.png), [C1-TINGKYE-B07-P0009-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B07-P0009-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b07-o11"></a>
+
+### TK-CONT2-B07-O11 — Tingkye
+
+Units: [U00307](#u00307).
+
+**Current Adzom main context:** དེས་ན་བསྟན་པའི་སྙིང་པོ་བསྟན། །
+
+**Comparison reading/snippet:** དེ་ནས་བསྟན་པའི
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyphs": "medium-high", "alignment": "high", "difference": "medium-high"}.
+
+**Locator:** PDF 9; source-member and native bounds in linked packet; bounds: [1670, 745, 2280, 875].
+
+**Observation:** The source places ས with ནས, giving དེ་ནས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p009-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-native.png), [p009-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x0000-y0000.png), [p009-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x1900-y0000.png), [p009-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x2350-y0000.png), [C1-TINGKYE-B07-P0009-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B07-P0009-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b07-o12"></a>
+
+### TK-CONT2-B07-O12 — Tingkye
+
+Units: [U00308](#u00308).
+
+**Current Adzom main context:** ཀྱེ་ཀྱེ་དགའ་བར་བྱེད་པས་ཟུང་། །
+
+**Comparison reading/snippet:** ⟦Q07⟧་དགའ་བར་བྱེད་⟦Q08⟧་ཟུང
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"alignment": "high", "at_least_one_ཀྱེ": "high", "repetition_count": "unresolved", "Q08": "unresolved"}.
+
+**Locator:** PDF 9; source-member and native bounds in linked packet; bounds: [2260, 735, 2830, 875].
+
+**Observation:** One horizontally localized ཀྱེ complex is visible. Its upper and lower components do not support a secure decision between one syllable and a vertically compressed repetition. No omission of the second ཀྱེ is certified. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p009-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-native.png), [p009-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x0000-y0000.png), [p009-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x1900-y0000.png), [p009-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x2350-y0000.png), [C1-TINGKYE-B07-P0009-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B07-P0009-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b07-o13"></a>
+
+### TK-CONT2-B07-O13 — Tingkye
+
+Units: [U00309](#u00309).
+
+**Current Adzom main context:** དྲིས་པའི་ཚིག་རྣམས་གསལ་ཕྱེ་བས། །
+
+**Comparison reading/snippet:** གསལ་ཕྱེ་བ
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyphs": "medium-high", "alignment": "high", "final_ས_absence": "medium-high"}.
+
+**Locator:** PDF 9; source-member and native bounds in linked packet; bounds: [2820, 745, 3370, 875].
+
+**Observation:** The terminal བ is followed by the compound punctuator; I do not read a final ས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p009-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-native.png), [p009-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x0000-y0000.png), [p009-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x1900-y0000.png), [p009-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B07-P0009/p009-x2350-y0000.png), [C1-TINGKYE-B07-P0009-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B07-P0009-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b08-o02"></a>
+
+### TK-CONT2-B08-O02 — Tingkye
+
+Units: [U00311](#u00311).
+
+**Current Adzom main context:** ཡི་གེའི་རྣམ་སྤྲུལ་འདི་ལྟ་བུ། །
+
+**Comparison reading/snippet:** རྣམ་⟦Q311⟧་འདི
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"glyph": "medium-low", "alignment": "high"}.
+
+**Locator:** PDF 10; source-member and native bounds in linked packet; bounds: [1300, 263, 1505, 361].
+
+**Observation:** འཕྲུལ is the provisional visual candidate; the initial and stacked components are not sufficiently secure for an adopted substitution. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p010-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-native.png), [p010-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x0000-y0000.png), [p010-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x1900-y0000.png), [p010-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x2350-y0000.png), [C1-TINGKYE-B08-P0010-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B08-P0010-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b08-o03"></a>
+
+### TK-CONT2-B08-O03 — Tingkye
+
+Units: [U00315](#u00315).
+
+**Current Adzom main context:** ངང་གཞི་བབ་ཀྱིས་གྲུབ་པ་ཡི། །
+
+**Comparison reading/snippet:** ⟦Q315⟧་ལ་བབས་ཀྱིས་གྲུབ་པ་ཡིས
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"first_syllable": "medium-low", "ལ་བབས": "medium", "ཡིས": "high", "alignment": "high"}.
+
+**Locator:** PDF 10; source-member and native bounds in linked packet; bounds: [[3510, 264, 3770, 359], [580, 342, 906, 435]].
+
+**Observation:** The source opening appears to be གཞི་ལ་བབས, with its first syllable retained as unresolved. Row 2 visibly ends this unit with ཡིས, not the reference's ཡི. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p010-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-native.png), [p010-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x0000-y0000.png), [p010-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x1900-y0000.png), [p010-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x2350-y0000.png), [C1-TINGKYE-B08-P0010-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B08-P0010-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b08-o04"></a>
+
+### TK-CONT2-B08-O04 — Tingkye
+
+Units: [U00316](#u00316).
+
+**Current Adzom main context:** ཚིག་བྱུང་གཞི་ལ་འདི་ལྟར་སྣང་།
+
+**Comparison reading/snippet:** ཚིག་འབྱུང་བ་གཞི
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyph": "medium-high", "alignment": "high"}.
+
+**Locator:** PDF 10; source-member and native bounds in linked packet; bounds: [931, 342, 1260, 443].
+
+**Observation:** An initial འ and a separate བ before གཞི are visible in the source sequence. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p010-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-native.png), [p010-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x0000-y0000.png), [p010-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x1900-y0000.png), [p010-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x2350-y0000.png), [C1-TINGKYE-B08-P0010-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B08-P0010-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b08-o05"></a>
+
+### TK-CONT2-B08-O05 — Tingkye
+
+Units: [U00316](#u00316), [U00317](#u00317), [U00318](#u00318), [U00319](#u00319).
+
+**Current Adzom main context:** ཚིག་བྱུང་གཞི་ལ་འདི་ལྟར་སྣང་། / [Source annotation separated; see the unit note.] / [Source annotation separated; see the unit note.] / འབྱུང་བའི་དགོས་པ་འདི་ལྟ་སྟེ། །
+
+**Comparison reading/snippet:** ཚིག་འབྱུང་བ་གཞི་ལ་འདི་ལྟར་སྣང{C:R2-S2} འབྱུང་བའི་དགོས་པ་འདི་ལྟ་སྟེ
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"local_adjacency": "high", "layer_inspection": "high"}.
+
+**Locator:** PDF 10; source-member and native bounds in linked packet; bounds: [1250, 325, 1810, 455].
+
+**Observation:** The two main-text flanks are adjacent across a compound separator. No corresponding smaller wording was identified between or around them. This concerns reference annotations, not absent main verses. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p010-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-native.png), [p010-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x0000-y0000.png), [p010-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x1900-y0000.png), [p010-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x2350-y0000.png), [C1-TINGKYE-B08-P0010-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B08-P0010-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b08-o06"></a>
+
+### TK-CONT2-B08-O06 — Tingkye
+
+Units: [U00320](#u00320).
+
+**Current Adzom main context:** ཆུ་ནི་དྭངས་མ་སྡུད་པ་དང་། །
+
+**Comparison reading/snippet:** ཆུ་ནི་⟦Q320⟧་མ
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"wa_component": "low", "alignment": "high"}.
+
+**Locator:** PDF 10; source-member and native bounds in linked packet; bounds: [2250, 348, 2420, 440].
+
+**Observation:** དངས is readable at the ordinary letter level; the small subjoined ྭ is not securely distinguished. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p010-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-native.png), [p010-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x0000-y0000.png), [p010-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x1900-y0000.png), [p010-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x2350-y0000.png), [C1-TINGKYE-B08-P0010-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B08-P0010-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b08-o07a"></a>
+
+### TK-CONT2-B08-O07a — Tingkye
+
+Units: [U00323](#u00323).
+
+**Current Adzom main context:** དགོས་པ་ཚད་དང་གྲངས་ངོ་ཤེས། །
+
+**Comparison reading/snippet:** ཚད་གྲངས
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyph": "high", "adjacency": "high", "alignment": "high"}.
+
+**Locator:** PDF 10; source-member and native bounds in linked packet; bounds: [833, 429, 1040, 519].
+
+**Observation:** The two observed words meet without an intervening དང. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p010-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-native.png), [p010-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x0000-y0000.png), [p010-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x1900-y0000.png), [p010-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x2350-y0000.png), [C1-TINGKYE-B08-P0010-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B08-P0010-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b08-o07b"></a>
+
+### TK-CONT2-B08-O07b — Tingkye
+
+Units: [U00323](#u00323).
+
+**Current Adzom main context:** དགོས་པ་ཚད་དང་གྲངས་ངོ་ཤེས། །
+
+**Comparison reading/snippet:** གྲངས་ཤེས
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyph": "high", "adjacency": "high", "alignment": "high"}.
+
+**Locator:** PDF 10; source-member and native bounds in linked packet; bounds: [930, 429, 1145, 519].
+
+**Observation:** No separate ངོ occurs between the visible flanks. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p010-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-native.png), [p010-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x0000-y0000.png), [p010-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x1900-y0000.png), [p010-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x2350-y0000.png), [C1-TINGKYE-B08-P0010-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B08-P0010-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b08-o08"></a>
+
+### TK-CONT2-B08-O08 — Tingkye
+
+Units: [U00326](#u00326).
+
+**Current Adzom main context:** སྨིན་པས་རྩ་ལ་སོགས་པ་བསྐྱེད། །
+
+**Comparison reading/snippet:** སོགས་པ་⟦Q326⟧
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"prefix": "low", "remaining_stack": "medium-high", "alignment": "high"}.
+
+**Locator:** PDF 10; source-member and native bounds in linked packet; bounds: [2790, 427, 2945, 526].
+
+**Observation:** སྐྱེད is readable; a separate prefixed བ cannot be securely distinguished. No prefix absence is adopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p010-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-native.png), [p010-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x0000-y0000.png), [p010-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x1900-y0000.png), [p010-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x2350-y0000.png), [C1-TINGKYE-B08-P0010-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B08-P0010-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b08-o09a"></a>
+
+### TK-CONT2-B08-O09a — Tingkye
+
+Units: [U00327](#u00327).
+
+**Current Adzom main context:** དགོས་པ་ཀུན་རྫོབ་ཐིག་ལེར་ཤེས། །
+
+**Comparison reading/snippet:** ཀུན་⟦Q327⟧་ཐིག
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"suffix": "medium-low", "alignment": "high"}.
+
+**Locator:** PDF 10; source-member and native bounds in linked packet; bounds: [3140, 427, 3390, 526].
+
+**Observation:** The source appears to have རྫོབས; the apparent final ས remains unresolved. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p010-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-native.png), [p010-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x0000-y0000.png), [p010-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x1900-y0000.png), [p010-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x2350-y0000.png), [C1-TINGKYE-B08-P0010-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B08-P0010-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b08-o09b"></a>
+
+### TK-CONT2-B08-O09b — Tingkye
+
+Units: [U00327](#u00327).
+
+**Current Adzom main context:** དགོས་པ་ཀུན་རྫོབ་ཐིག་ལེར་ཤེས། །
+
+**Comparison reading/snippet:** ཐིག་ལེ་ཤེས
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyph": "medium-high", "adjacency": "high", "alignment": "high"}.
+
+**Locator:** PDF 10; source-member and native bounds in linked packet; bounds: [3320, 427, 3605, 526].
+
+**Observation:** The source's middle syllable reads ལེ, without a distinct final ར. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p010-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-native.png), [p010-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x0000-y0000.png), [p010-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x1900-y0000.png), [p010-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x2350-y0000.png), [C1-TINGKYE-B08-P0010-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B08-P0010-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b08-o10a"></a>
+
+### TK-CONT2-B08-O10a — Tingkye
+
+Units: [U00328](#u00328).
+
+**Current Adzom main context:** མེས་ནི་འབྱུང་བ་སེལ་བ་དང། །
+
+**Comparison reading/snippet:** མེས་ནི་འབྱུང་བ་⟦Q328⟧་བ་དང
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"stack": "medium", "alignment": "high"}.
+
+**Locator:** PDF 10; source-member and native bounds in linked packet; bounds: [[3650, 429, 3765, 520], [580, 508, 1015, 610]].
+
+**Observation:** སྤེལ is the provisional main-line reading; the subjoined component remains bounded for reinspection. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p010-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-native.png), [p010-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x0000-y0000.png), [p010-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x1900-y0000.png), [p010-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x2350-y0000.png), [C1-TINGKYE-B08-P0010-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B08-P0010-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b08-o10b"></a>
+
+### TK-CONT2-B08-O10b — Tingkye
+
+Units: [U00328](#u00328).
+
+**Current Adzom main context:** མེས་ནི་འབྱུང་བ་སེལ་བ་དང། །
+
+**Comparison reading/snippet:** འབྱུང་བ་⟦Q328⟧་བ་དང{C:R4-S1} སྨིན་ཅིང
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"main_line_order": "high", "separate_layer_inspection": "high", "uncertain_stack": "medium"}.
+
+**Locator:** PDF 10; source-member and native bounds in linked packet; bounds: [580, 490, 1130, 612].
+
+**Observation:** No separate smaller annotation matching the reference note is visible around this main-line phrase. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p010-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-native.png), [p010-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x0000-y0000.png), [p010-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x1900-y0000.png), [p010-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x2350-y0000.png), [C1-TINGKYE-B08-P0010-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B08-P0010-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b08-o11a"></a>
+
+### TK-CONT2-B08-O11a — Tingkye
+
+Units: [U00330](#u00330).
+
+**Current Adzom main context:** འབར་ཞིང་མཆེད་པས་མིག་སོགས་བསྐྱེད། །
+
+**Comparison reading/snippet:** མཆེད་པ་⟦Q330⟧
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"པ_reading": "medium-high", "adjacency": "high", "alignment": "high"}.
+
+**Locator:** PDF 10; source-member and native bounds in linked packet; bounds: [1980, 510, 2260, 611].
+
+**Observation:** The intervening syllable reads པ; no separate final ས is identified on that syllable. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p010-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-native.png), [p010-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x0000-y0000.png), [p010-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x1900-y0000.png), [p010-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x2350-y0000.png), [C1-TINGKYE-B08-P0010-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B08-P0010-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b08-o11b"></a>
+
+### TK-CONT2-B08-O11b — Tingkye
+
+Units: [U00330](#u00330).
+
+**Current Adzom main context:** འབར་ཞིང་མཆེད་པས་མིག་སོགས་བསྐྱེད། །
+
+**Comparison reading/snippet:** པ་⟦Q330⟧་སོགས
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"suffix": "medium-low", "alignment": "high"}.
+
+**Locator:** PDF 10; source-member and native bounds in linked packet; bounds: [2120, 510, 2305, 611].
+
+**Observation:** The eye-word may read མིགས rather than མིག; its final component needs reinspection separately from the preceding པ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p010-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-native.png), [p010-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x0000-y0000.png), [p010-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x1900-y0000.png), [p010-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x2350-y0000.png), [C1-TINGKYE-B08-P0010-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B08-P0010-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b08-o12"></a>
+
+### TK-CONT2-B08-O12 — Tingkye
+
+Units: [U00335](#u00335).
+
+**Current Adzom main context:** དགོས་པ་སེམས་ཀྱི་གནས་པ་ཤེས། །
+
+**Comparison reading/snippet:** སེམས་ཀྱིས་གནས
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyph": "medium-high", "alignment": "high"}.
+
+**Locator:** PDF 10; source-member and native bounds in linked packet; bounds: [2220, 591, 2560, 694].
+
+**Observation:** A final ས is visible after the ཀྱི stack. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p010-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-native.png), [p010-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x0000-y0000.png), [p010-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x1900-y0000.png), [p010-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x2350-y0000.png), [C1-TINGKYE-B08-P0010-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B08-P0010-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b08-o13"></a>
+
+### TK-CONT2-B08-O13 — Tingkye
+
+Units: [U00336](#u00336).
+
+**Current Adzom main context:** འབྱུང་བཞི་དག་གི་དཀྱིལ་འཁོར་ཆེ། །
+
+**Comparison reading/snippet:** འབྱུང་བ་བཞི་དག་དཀྱིལ་འཁོར་ཤེས
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"བ_insertion": "high", "གི_absence": "medium-high", "ཤེས_reading": "medium-high", "alignment": "high"}.
+
+**Locator:** PDF 10; source-member and native bounds in linked packet; bounds: [2770, 591, 3520, 695].
+
+**Observation:** The full source phrase supports a separate བ, direct དག་དཀྱིལ adjacency, and the ending ཤེས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p010-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-native.png), [p010-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x0000-y0000.png), [p010-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x1900-y0000.png), [p010-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x2350-y0000.png), [C1-TINGKYE-B08-P0010-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B08-P0010-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b08-o14"></a>
+
+### TK-CONT2-B08-O14 — Tingkye
+
+Units: [U00337](#u00337).
+
+**Current Adzom main context:** ལུས་སོགས་ གྲུབ་པའི་རྒྱུ་བྱས་ཏེ། །
+
+**Comparison reading/snippet:** ལུས་སོགས / ⟦Q337⟧་པའི་རྒྱུ
+
+**Status:** bounded_component_uncertainty. **Confidence:** {"prefix": "medium-low", "alignment": "high"}.
+
+**Locator:** PDF 10; source-member and native bounds in linked packet; bounds: [[3560, 591, 3770, 695], [580, 675, 825, 773]].
+
+**Observation:** The first syllable of row 6 appears to have an initial འ before གྲུབ; that component is not adopted as certain. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p010-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-native.png), [p010-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x0000-y0000.png), [p010-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x1900-y0000.png), [p010-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x2350-y0000.png), [C1-TINGKYE-B08-P0010-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B08-P0010-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b08-o15"></a>
+
+### TK-CONT2-B08-O15 — Tingkye
+
+Units: [U00343](#u00343), [U00344](#u00344), [U00345](#u00345).
+
+**Current Adzom main context:** བྱ་བ་རྫོགས་པའི་དོན་ལ་མཁས། ། / དྲིས་ལན་གཉིས་པ། / ཡན་ལག་དོན་ནི་འདི་ལྟ་བུ།།
+
+**Comparison reading/snippet:** བྱ་བ་རྫོགས་པའི་དོན་ལ་མཁས{C:R7-S2} {C:R7-S3}ཡན་ལག་དོན་ནི་འདི་ལྟ་བུ
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"flanks": "high", "blank_interval": "high", "heading_absence_in_local_sequence": "high"}.
+
+**Locator:** PDF 10; source-member and native bounds in linked packet; bounds: [1190, 748, 1975, 852].
+
+**Observation:** The intervening region contains spacing and one detached compound, not identifiable heading letters. This is a heading-layer observation, not a missing main verse. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p010-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-native.png), [p010-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x0000-y0000.png), [p010-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x1900-y0000.png), [p010-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x2350-y0000.png), [C1-TINGKYE-B08-P0010-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B08-P0010-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="tk-cont2-b08-o16"></a>
+
+### TK-CONT2-B08-O16 — Tingkye
+
+Units: [U00346](#u00346).
+
+**Current Adzom main context:** སངས་རྒྱས་རྣམས་ཀྱི་མཁྱེན་པ་ཡི། །
+
+**Comparison reading/snippet:** མཁྱེན་པའི
+
+**Status:** qualified_local_visual_observation. **Confidence:** {"glyph": "medium-high", "alignment": "high"}.
+
+**Locator:** PDF 10; source-member and native bounds in linked packet; bounds: [2630, 749, 2890, 852].
+
+**Observation:** The ending is written as པའི; no independent ཡི syllable is identified. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Record this scoped comparison-witness evidence without grammatical normalization; reader uncertainties are not agreement or omission, and local source-note absence is not a lost main verse.
+
+**Evidence:** [p010-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-native.png), [p010-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x0000-y0000.png), [p010-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x1900-y0000.png), [p010-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B08-P0010/p010-x2350-y0000.png), [C1-TINGKYE-B08-P0010-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B08-P0010-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
 
 ## A/B/S transcript apparatus
 

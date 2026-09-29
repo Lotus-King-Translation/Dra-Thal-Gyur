@@ -2373,6 +2373,1025 @@
       ],
       "next_physical_span": "Integrate saved PDF4/B02-P0004. Retain all PDF3 Q01-Q15 and non-main/graphic questions M01Q-M03Q and SG01-SG03.",
       "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-TINGKYE",
+      "batch_id": "B04-P0006",
+      "target_page": 6,
+      "report": "reviews/chapter-01/continuation/C1-TINGKYE.json",
+      "summary": "Tingkye PDF6: seven-row U00162-to-U00200 opening traversal integrated. Source order at the exit is U00198→U00200→U00199→U00201, not a missing U00199. Three earlier local findings are rechecked rather than duplicated.",
+      "rows_reported": 7,
+      "canonical_record_ids": [
+        "TK-CONT-20260928-TK-B01-024",
+        "TK-CONT-20260928-TK-B01-026",
+        "TK-CONT-20260928-TK-B01-023",
+        "TK-CONT2-B04-O02",
+        "TK-CONT2-B04-O03",
+        "TK-CONT2-B04-O04",
+        "TK-CONT2-B04-O05",
+        "TK-CONT2-B04-O06",
+        "TK-CONT2-B04-O07",
+        "TK-CONT2-B04-O08",
+        "TK-CONT2-B04-O11",
+        "TK-CONT2-B04-O12",
+        "TK-CONT2-B04-O13",
+        "TK-CONT2-B04-O14",
+        "TK-CONT2-B04-O15",
+        "TK-CONT2-B04-O16",
+        "TK-CONT2-B04-O18",
+        "TK-CONT2-B04-O19"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "all_seven_target_rows_followed_left_to_right": true,
+        "target_spans_left_unexamined": [],
+        "bounded_unresolved_main_loci": 5,
+        "marginal_reading_questions": 3,
+        "separate_source_annotations": "None securely identified in the target main/interlinear regions; unresolved marginal text remains separately recorded.",
+        "unaligned_components": [
+          "Opening ornament O1",
+          "Opening sign R1-P01",
+          "Detached sign R1-P02",
+          "Marginal clusters M01–M03",
+          "Unresolved main clusters G01–G05"
+        ],
+        "completion": "Full target-page inspection with provisional transcription and explicit unresolved loci; not a fully resolved diplomatic transcription.",
+        "review_character": "Informed independent agent reading, not blind review or human palaeographic certification.",
+        "certification_scope": "No whole-chapter certification."
+      },
+      "unread_after_inspection": [
+        {
+          "id": "G01",
+          "scope": "target row 2, first syllable",
+          "approximate_native_bounds": [
+            590,
+            329,
+            715,
+            419
+          ],
+          "visible_flanks": {
+            "left": "PDF6 row 1 ending ལུས་ཀུན",
+            "right": "པའི་ཐོག་མེད་པ་ཡིས"
+          },
+          "question": "Identity of the initial stacked syllable; སྤྲུལ and a རྫུས-type reading remain candidates. The base's བརྫུས is not supplied."
+        },
+        {
+          "id": "G02",
+          "scope": "target row 2, one syllable after བརྗོད",
+          "approximate_native_bounds": [
+            3520,
+            329,
+            3620,
+            419
+          ],
+          "visible_flanks": {
+            "left": "བརྗོད",
+            "right": "སྒྲ་ཚིག"
+          },
+          "question": "Tentative ཚིག; distinction from ཅིང remains unresolved."
+        },
+        {
+          "id": "G03",
+          "scope": "target row 4, short cluster between བཞིན and འཁོར",
+          "approximate_native_bounds": [
+            2750,
+            490,
+            2950,
+            580
+          ],
+          "visible_flanks": {
+            "left": "རང་བཞིན",
+            "right": "འཁོར་རྣམས་ཀྱིས"
+          },
+          "question": "Approximately two syllables. The first cluster resembles a stacked ལྷ-type form; the following genitive syllable is also insufficiently secure. Neither the base's དག་པའི nor a replacement is adopted."
+        },
+        {
+          "id": "G04",
+          "scope": "target row 5, initial consonant before ཞིའི",
+          "approximate_native_bounds": [
+            3030,
+            573,
+            3120,
+            665
+          ],
+          "visible_flanks": {
+            "left": "འབྱུང",
+            "right": "ཞིའི་དགོས་པ"
+          },
+          "question": "ག versus བ; provisional impression favors ག, without adoption."
+        },
+        {
+          "id": "G05",
+          "scope": "target row 7, possible prefix before final བྱུང in U00197",
+          "approximate_native_bounds": [
+            2580,
+            735,
+            2720,
+            840
+          ],
+          "visible_flanks": {
+            "left": "ཅི་ལས",
+            "right": "བྱུང⟦R7-P04⟧"
+          },
+          "question": "Whether a distinct prefixed འ is present. Marker may resolve to འ or to no character."
+        },
+        {
+          "id": "G06-CONTEXT",
+          "scope": "PDF5 row 7, incoming unit before its final འདུ",
+          "approximate_native_bounds": [
+            3360,
+            735,
+            3670,
+            840
+          ],
+          "question": "The several preceding syllables were inspected but are not securely transcribed here. Only the observed terminal འདུ is used for the incoming alignment."
+        },
+        {
+          "id": "M01",
+          "scope": "Entire upper compact marginal cluster N02",
+          "question": "Lexical identity unresolved after original and rotated inspection."
+        },
+        {
+          "id": "M02",
+          "scope": "Single isolated marginal character N03",
+          "question": "Character identity unresolved; not classified as a numeral or shad."
+        },
+        {
+          "id": "M03",
+          "scope": "Entire short lower marginal run N04",
+          "question": "Wording unresolved after inspection; no title expansion supplied."
+        },
+        {
+          "id": "R1-P02-ROLE",
+          "scope": "Detached compound sign before མཆེད",
+          "question": "Graphic occurrence is recognized; attachment to the incoming unit versus the opening apparatus remains unresolved."
+        }
+      ],
+      "unexamined_spans": [
+        {
+          "scope": "context only",
+          "location": "PDF5 outside the incoming boundary and PDF7 beyond the quoted outgoing sequence",
+          "extent": "Overviews seen, but these contextual pages have not received exhaustive glyph-by-glyph collation in this batch."
+        }
+      ],
+      "next_physical_span": "PDF7 begins with U00200 ending འགྱུར, then U00199 and U00201. This next report is integrated in the same group; preserve G01–G05, marginal questions and opening-sign role.",
+      "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-TINGKYE",
+      "batch_id": "B05-P0007",
+      "target_page": 7,
+      "report": "reviews/chapter-01/continuation/C1-TINGKYE.json",
+      "summary": "Tingkye PDF7: seven-row source-order ledger integrated with explicit small-glyph, source-layer and compound-sign limits. All earlier observations are reused within scope.",
+      "rows_reported": 7,
+      "canonical_record_ids": [
+        "TK-CONT2-B05-O02",
+        "TK-CONT2-B05-O03",
+        "TK-CONT2-B05-O04",
+        "TK-CONT2-B05-O05",
+        "TK-CONT2-B05-O06",
+        "TK-CONT2-B05-O07",
+        "TK-CONT2-B05-O08",
+        "TK-CONT2-B05-O09",
+        "TK-CONT2-B05-O10",
+        "TK-CONT2-B05-O11",
+        "TK-CONT2-B05-O12",
+        "TK-CONT2-B05-O13",
+        "TK-CONT2-B05-O14",
+        "TK-CONT2-B05-O15",
+        "TK-CONT2-B05-O16",
+        "TK-CONT2-B05-O17",
+        "TK-CONT2-B04-O16"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "physical_rows_examined": 7,
+        "fully_contained_base_aligned_units": 36,
+        "incoming_fragment": "U00200: འགྱུར",
+        "outgoing_fragment": "U00236: བླ",
+        "target_compound_delimiters_inventoried": 37,
+        "unresolved_target_questions": 5,
+        "source_layers": "No separate interlinear note was identified on the target. The gutter collection label is recorded separately.",
+        "unaligned_components": [
+          "NM01 page number",
+          "NM02 running label",
+          "NM03 frame",
+          "CTX-O01",
+          "CTX-P01",
+          "CTX-P02"
+        ],
+        "base_annotations": "SCAN-CH1-LAYER-00192 and SCAN-CH1-LAYER-00272 are outside this target's observed main-text extent. Neither is counted as a missing main verse.",
+        "status": "Full target inspection with bounded unresolved readings; medium-confidence differences remain provisional.",
+        "review_type": "Informed independent agent reading, not blind review or human palaeographic certification.",
+        "certification_scope": "No whole-chapter certification."
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q01",
+          "anchor": "U00208",
+          "scope": "Possible final ར of the first syllable after P09.",
+          "tentative_reading": "བྱེར",
+          "approximate_native_bounds": [
+            1860,
+            337,
+            1980,
+            432
+          ],
+          "required_resolution": "Distinguish the suffix from adjoining strokes; do not adopt base agreement yet."
+        },
+        {
+          "id": "Q02",
+          "anchor": "U00208",
+          "scope": "The single cluster between the initial བྱེ… syllable and སྙོམས.",
+          "tentative_reading": "ཟུག",
+          "approximate_native_bounds": [
+            1970,
+            337,
+            2090,
+            432
+          ],
+          "required_resolution": "Resolve the root/stack and lower stroke of this cluster."
+        },
+        {
+          "id": "Q03",
+          "anchor": "U00221",
+          "scope": "The genitive junction between འབྲེལ་པ and རྒྱུ.",
+          "tentative_reading": "ཅིའི",
+          "alternative_to_distinguish": "ཅི་ཡི",
+          "approximate_native_bounds": [
+            750,
+            578,
+            850,
+            688
+          ],
+          "required_resolution": "Distinguish the intervening letter and syllable boundary."
+        },
+        {
+          "id": "Q04",
+          "anchor": "U00227",
+          "scope": "Possible suffix ས after བགྱི and before P29.",
+          "approximate_native_bounds": [
+            1390,
+            657,
+            1490,
+            773
+          ],
+          "required_resolution": "Establish whether the terminal stroke is a separate suffix; no suffix omission is adopted."
+        },
+        {
+          "id": "Q05",
+          "anchor": "U00234",
+          "scope": "Root letter of the syllable immediately before ལྟར.",
+          "tentative_reading": "ཇི",
+          "alternative_to_distinguish": "ཅི",
+          "approximate_native_bounds": [
+            2660,
+            738,
+            2760,
+            840
+          ],
+          "required_resolution": "Distinguish ཇ from ཅ."
+        },
+        {
+          "id": "CTX-Q01",
+          "anchor": "PDF8 opening",
+          "scope": "Function and attachment of CTX-P02 before མ.",
+          "required_resolution": "The sign is seen and inventoried; its attachment remains unresolved."
+        }
+      ],
+      "unexamined_spans": [
+        {
+          "location": "Target PDF7",
+          "spans": [],
+          "qualification": "All seven main rows and visible non-main regions were examined; Q01–Q05 remain unresolved after inspection."
+        },
+        {
+          "location": "Context PDF6",
+          "spans": [
+            "Main text preceding the terminal row-7 phrase ཐ་མ་འདི་ཉིད་གང་དུ was not exhaustively transcribed or collated."
+          ],
+          "within_target_scope": false
+        },
+        {
+          "location": "Context PDF8",
+          "spans": [
+            "Text after the opening U00236 continuation and the following ཕྱི་རོལ་འབྱུང་རྟགས anchor was not exhaustively transcribed or collated."
+          ],
+          "within_target_scope": false
+        }
+      ],
+      "next_physical_span": "PDF8 begins with U00236 continuation མ་བསྟེན. This next report is integrated in the same group; Q01–Q05 remain bounded.",
+      "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-TINGKYE",
+      "batch_id": "B06-P0008",
+      "target_page": 8,
+      "report": "reviews/chapter-01/continuation/C1-TINGKYE.json",
+      "summary": "Tingkye PDF8: seven-row source-order ledger integrated with explicit small-glyph, source-layer and compound-sign limits. All earlier observations are reused within scope.",
+      "rows_reported": 7,
+      "canonical_record_ids": [
+        "TK-CONT2-B06-O02",
+        "TK-CONT2-B06-O03",
+        "TK-CONT2-B06-O04",
+        "TK-CONT2-B06-O05",
+        "TK-CONT2-B06-O06",
+        "TK-CONT2-B06-O07",
+        "TK-CONT2-B06-O08",
+        "TK-CONT2-B06-O09",
+        "TK-CONT2-B06-O10",
+        "TK-CONT2-B06-O11",
+        "TK-CONT2-B06-O12",
+        "TK-CONT2-B06-O13",
+        "TK-CONT2-B06-O14",
+        "TK-CONT2-B06-O15",
+        "TK-CONT2-B06-O16",
+        "TK-CONT2-B06-O17",
+        "TK-CONT2-B06-O18"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "target_main_rows_inspected_left_to_right": 7,
+        "target_main_rows_unexamined": 0,
+        "target_alignment": "Continuous source order from U00236 continuation to U00273 initial syllable.",
+        "unresolved_main_text_locations": [
+          "Q243",
+          "Q250",
+          "Q256",
+          "Q267"
+        ],
+        "unresolved_other_locations": [
+          "QA1",
+          "QM1",
+          "QM3",
+          "Q-SIGNS"
+        ],
+        "unaligned_components": [
+          "O1",
+          "P00",
+          "I01",
+          "marginal inscriptions",
+          "pagination",
+          "frames"
+        ],
+        "candidate_variants": "Moderate-confidence readings in the observation list remain provisional; they are not palaeographic certification.",
+        "missing_main_verse_claim": false,
+        "review_type": "Informed independent agent reading; not blind review or human palaeographic certification.",
+        "completion_limit": "All seven target rows received inspection, but unresolved glyphs and provisional readings prevent a fully resolved diplomatic transcription. No whole-chapter certification."
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q243",
+          "row": 2,
+          "anchor": "U00243",
+          "scope": "One terminal syllable following ཅི་ལྟར and preceding P243.",
+          "approximate_native_bounds": [
+            2140,
+            340,
+            2350,
+            445
+          ],
+          "question": "Vowel and ending of the visible stacked syllable remain unresolved.",
+          "inspected_images": [
+            1,
+            4,
+            5,
+            12,
+            13
+          ]
+        },
+        {
+          "id": "Q250",
+          "row": 3,
+          "anchor": "U00250",
+          "scope": "One medial stacked syllable between པའི and བ་ཇི་ལྟ་བུ.",
+          "approximate_native_bounds": [
+            3000,
+            420,
+            3190,
+            530
+          ],
+          "question": "Consonant composition of the stack; no reading supplied from སྦྱོར in the reference.",
+          "inspected_images": [
+            1,
+            5,
+            6,
+            13,
+            14
+          ]
+        },
+        {
+          "id": "Q256",
+          "row": 4,
+          "anchor": "U00256",
+          "scope": "One terminal syllable between ཅི་ཡིས and P256.",
+          "approximate_native_bounds": [
+            3410,
+            490,
+            3620,
+            615
+          ],
+          "question": "Tentative visual candidate མཉམས; stack, vowel and final consonants are not secure.",
+          "inspected_images": [
+            1,
+            5,
+            6,
+            16,
+            17
+          ]
+        },
+        {
+          "id": "QA1",
+          "row": 5,
+          "anchor": "U00262",
+          "scope": "Small raised component immediately upper-right of སྣང.",
+          "approximate_native_bounds": [
+            3665,
+            580,
+            3740,
+            625
+          ],
+          "question": "Tentatively བའི; exact lettering and function remain unresolved.",
+          "inspected_images": [
+            1,
+            5,
+            6,
+            16,
+            17,
+            19,
+            20
+          ]
+        },
+        {
+          "id": "Q267",
+          "row": 6,
+          "anchor": "U00267",
+          "scope": "Particle after གླེན and before བདེ.",
+          "approximate_native_bounds": [
+            3490,
+            655,
+            3745,
+            780
+          ],
+          "question": "The པ-body is visible; its ending is unresolved.",
+          "inspected_images": [
+            1,
+            5,
+            6,
+            19,
+            20
+          ]
+        },
+        {
+          "id": "QM1",
+          "scope": "Upper marginal inscription only.",
+          "approximate_native_bounds": [
+            492,
+            410,
+            564,
+            493
+          ],
+          "question": "Tentative སྒྲ is not secure.",
+          "inspected_images": [
+            1,
+            4,
+            27
+          ]
+        },
+        {
+          "id": "QM3",
+          "scope": "Entire lower compact marginal inscription within the stated rectangle.",
+          "approximate_native_bounds": [
+            492,
+            660,
+            573,
+            830
+          ],
+          "question": "Inspected but not securely transcribed; no completion from an inferred folio number.",
+          "inspected_images": [
+            1,
+            4,
+            18,
+            21,
+            27
+          ]
+        },
+        {
+          "id": "Q-SIGNS",
+          "scope": "Fine stroke composition within TK-C1, P00 and I01; occurrence locations and counts are inventoried.",
+          "question": "Exact component-level graphic equivalence remains unresolved; no normalized shad count is asserted."
+        }
+      ],
+      "unexamined_spans": [
+        {
+          "pdf_page": 7,
+          "scope": "All text other than the final-row incoming boundary passage recorded in B06-O01.",
+          "status": "Overview viewed; these surrounding passages were not diplomatically transcribed or collated.",
+          "within_target_scope": false
+        },
+        {
+          "pdf_page": 9,
+          "scope": "Text beyond the opening continuation of U00273 and its immediately following རང་བཞིན flank.",
+          "status": "Overview viewed; these surrounding passages were not diplomatically transcribed or collated.",
+          "within_target_scope": false
+        }
+      ],
+      "next_physical_span": "PDF9 starts U00273 continuation ཚིག་མིང་དུ་མ་བསྒྲགས་ཀྱང. The next report is integrated in the same group; retain main Q243/Q250/Q256/Q267, raised QA1 and marginal/graphic questions.",
+      "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-TINGKYE",
+      "batch_id": "B07-P0009",
+      "target_page": 9,
+      "report": "reviews/chapter-01/continuation/C1-TINGKYE.json",
+      "summary": "Tingkye PDF9: seven-row source-order ledger integrated with explicit small-glyph, source-layer and compound-sign limits. All earlier observations are reused within scope.",
+      "rows_reported": 7,
+      "canonical_record_ids": [
+        "TK-CONT2-B07-O02",
+        "TK-CONT2-B07-O03",
+        "TK-CONT2-B07-O04",
+        "TK-CONT2-B07-O05",
+        "TK-CONT2-B07-O06",
+        "TK-CONT2-B07-O07",
+        "TK-CONT2-B07-O08",
+        "TK-CONT2-B07-O09",
+        "TK-CONT2-B07-O10",
+        "TK-CONT2-B07-O11",
+        "TK-CONT2-B07-O12",
+        "TK-CONT2-B07-O13",
+        "TK-CONT2-B06-O18"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "target_rows_traversed": 7,
+        "target_rows_declared": 7,
+        "target_unexamined_spans": [],
+        "main_text_questions": 8,
+        "marginal_questions": 2,
+        "target_terminal_clusters_inventoried": 37,
+        "main_text_unaligned_components": "No additional lexical component securely identified outside the ordered anchors; Q07 remains unresolved internally.",
+        "non_main_unaligned_components": [
+          "M01",
+          "M02",
+          "printed page number",
+          "frame",
+          "context-page opening apparatus"
+        ],
+        "resolution": "Full target-page traversal with bounded unresolved readings; not a fully resolved transcription.",
+        "review_character": "Informed independent agent reading with the base reference available; not blind review or human palaeographic certification.",
+        "certification_scope": "Local page findings only; no whole-chapter certification."
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q01",
+          "location": "PDF9 row2, U00281",
+          "scope": "One syllable between ལྷ and དབང.",
+          "candidate_readings": [
+            "ཡི"
+          ],
+          "status": "Tentative candidate only; letter form not securely resolved.",
+          "approximate_native_bounds": [
+            2200,
+            345,
+            2320,
+            455
+          ]
+        },
+        {
+          "id": "Q02",
+          "location": "PDF9 row2, U00282",
+          "scope": "Prefix before ཙེར.",
+          "candidate_readings": [
+            "ག",
+            "བ"
+          ],
+          "status": "Prefix unresolved; ཙེར་བས retained.",
+          "approximate_native_bounds": [
+            2990,
+            345,
+            3180,
+            455
+          ]
+        },
+        {
+          "id": "Q03",
+          "location": "PDF9 row3, U00286",
+          "scope": "Possible prefix immediately before བྱུང.",
+          "candidate_readings": [
+            "འ",
+            ""
+          ],
+          "status": "Presence of འ unresolved; no supplied prefix treated as established.",
+          "approximate_native_bounds": [
+            2160,
+            425,
+            2360,
+            545
+          ]
+        },
+        {
+          "id": "Q04",
+          "location": "PDF9 row4, U00293",
+          "scope": "Possible བ prefix before སྡུད.",
+          "candidate_readings": [
+            "བ",
+            ""
+          ],
+          "status": "I lean toward བསྡུད, but retain the prefix question.",
+          "approximate_native_bounds": [
+            3230,
+            510,
+            3440,
+            635
+          ]
+        },
+        {
+          "id": "Q05",
+          "location": "PDF9 row4, opening of U00294",
+          "scope": "The group immediately preceding འགྲེལ.",
+          "candidate_readings": [
+            "བཀའི",
+            "བཀའ་ཡི"
+          ],
+          "status": "Contraction versus separate ཡི unresolved; apparent reading leans toward བཀའི.",
+          "approximate_native_bounds": [
+            3500,
+            510,
+            3680,
+            635
+          ]
+        },
+        {
+          "id": "Q06",
+          "location": "PDF9 row5, U00298",
+          "scope": "One lexical group between སྤྱོད་པའི and ས.",
+          "candidate_readings": [
+            "གཡང",
+            "སྦྱང"
+          ],
+          "status": "The apparent གཡང reading is not secure enough for adoption; the base reading has not been substituted.",
+          "approximate_native_bounds": [
+            2690,
+            590,
+            2860,
+            725
+          ]
+        },
+        {
+          "id": "Q07",
+          "location": "PDF9 row7, opening of U00308",
+          "scope": "Entire vertically elaborate ཀྱེ complex between S35 and དགའ.",
+          "candidate_readings": [
+            "ཀྱེ",
+            "ཀྱེ་ཀྱེ"
+          ],
+          "status": "At least one ཀྱེ is legible. Repetition count and allocation of upper components remain unresolved.",
+          "approximate_native_bounds": [
+            2250,
+            730,
+            2360,
+            855
+          ]
+        },
+        {
+          "id": "Q08",
+          "location": "PDF9 row7, U00308",
+          "scope": "Particle between བྱེད and ཟུང.",
+          "candidate_readings": [
+            "པས",
+            "བས"
+          ],
+          "status": "Initial consonant unresolved; final ས is retained.",
+          "approximate_native_bounds": [
+            2580,
+            745,
+            2730,
+            865
+          ]
+        },
+        {
+          "id": "M01",
+          "location": "Left marginal label",
+          "scope": "Leading device or letter groups preceding the apparent རྒྱུད.",
+          "candidate_readings": [],
+          "status": "Inspected in original and rotated orientation; no secure transcription.",
+          "approximate_native_bounds": [
+            480,
+            425,
+            575,
+            555
+          ]
+        },
+        {
+          "id": "M02",
+          "location": "Left marginal label",
+          "scope": "Possible prefix immediately before the apparent བུམ.",
+          "candidate_readings": [
+            "འ",
+            ""
+          ],
+          "status": "Do not silently expand the label to an expected title.",
+          "approximate_native_bounds": [
+            480,
+            645,
+            575,
+            720
+          ]
+        }
+      ],
+      "unexamined_spans": [
+        {
+          "pdf_page": 8,
+          "scope": "Rows1–6 and row7 before the reported incoming junction.",
+          "reason": "Context-only page; overview inspected for layout, not subjected to complete lexical collation."
+        },
+        {
+          "pdf_page": 10,
+          "scope": "Row1 after the reported opening words ཡི་གེའི་རྣམ, and rows2–7.",
+          "reason": "Context-only page; no complete lexical collation attempted."
+        }
+      ],
+      "next_physical_span": "PDF10 begins U00310 continuation སྐད་དག་ལས. The next report is integrated in the same group; retain Q01–Q08 including unresolved kye repetition, and M01/M02.",
+      "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-TINGKYE",
+      "batch_id": "B08-P0010",
+      "target_page": 10,
+      "report": "reviews/chapter-01/continuation/C1-TINGKYE.json",
+      "summary": "Tingkye PDF10: seven-row source-order ledger integrated with explicit small-glyph, source-layer and compound-sign limits. All earlier observations are reused within scope.",
+      "rows_reported": 7,
+      "canonical_record_ids": [
+        "TK-CONT2-B08-O02",
+        "TK-CONT2-B08-O03",
+        "TK-CONT2-B08-O04",
+        "TK-CONT2-B08-O05",
+        "TK-CONT2-B08-O06",
+        "TK-CONT2-B08-O07a",
+        "TK-CONT2-B08-O07b",
+        "TK-CONT2-B08-O08",
+        "TK-CONT2-B08-O09a",
+        "TK-CONT2-B08-O09b",
+        "TK-CONT2-B08-O10a",
+        "TK-CONT2-B08-O10b",
+        "TK-CONT2-B08-O11a",
+        "TK-CONT2-B08-O11b",
+        "TK-CONT2-B08-O12",
+        "TK-CONT2-B08-O13",
+        "TK-CONT2-B08-O14",
+        "TK-CONT2-B08-O15",
+        "TK-CONT2-B08-O16"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "target_rows_followed_left_to_right": 7,
+        "target_rows_total": 7,
+        "target_row_order_established_from_overview": true,
+        "target_main_regions_unexamined": 0,
+        "lexical_endpoint_compounds_inventoried": 35,
+        "additional_detached_compounds_inventoried": 3,
+        "source_annotations": "No separate smaller textual annotation identified in the inspected target main-text region; marginal wording is recorded separately with bounded uncertainties.",
+        "unaligned_components": "Opening flourish, three detached compounds, marginal labels, pagination and frame are explicitly inventoried.",
+        "status": "Provisional informed agent reading with unresolved glyphs; candidate variants require adoption decisions by the coordinator.",
+        "review_character": "Not blind review and not human palaeographic certification.",
+        "certification_extent": "No whole-chapter certification."
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q311",
+          "row": 1,
+          "scope": "One syllable between རྣམ and འདི.",
+          "candidate": "འཕྲུལ",
+          "alternative": "སྤྲུལ",
+          "question": "Initial and stacked consonant components.",
+          "approximate_native_bounds": [
+            1360,
+            264,
+            1485,
+            361
+          ]
+        },
+        {
+          "id": "Q315",
+          "row": 1,
+          "scope": "First syllable of the last phrase, before ལ་བབས.",
+          "candidate": "གཞི",
+          "question": "Exact initial consonant combination; no preceding ངང supplied.",
+          "approximate_native_bounds": [
+            3530,
+            263,
+            3630,
+            359
+          ]
+        },
+        {
+          "id": "Q320",
+          "row": 2,
+          "scope": "One syllable between ཆུ་ནི and མ.",
+          "candidates": [
+            "དངས",
+            "དྭངས"
+          ],
+          "question": "Presence of subjoined ྭ.",
+          "approximate_native_bounds": [
+            2270,
+            348,
+            2400,
+            440
+          ]
+        },
+        {
+          "id": "Q326",
+          "row": 3,
+          "scope": "Final syllable after སོགས་པ.",
+          "candidates": [
+            "སྐྱེད",
+            "བསྐྱེད"
+          ],
+          "question": "Presence of prefixed བ.",
+          "approximate_native_bounds": [
+            2810,
+            428,
+            2915,
+            524
+          ]
+        },
+        {
+          "id": "Q327",
+          "row": 3,
+          "scope": "One syllable between ཀུན and ཐིག.",
+          "candidate": "རྫོབས",
+          "alternative": "རྫོབ",
+          "question": "Apparent final ས.",
+          "approximate_native_bounds": [
+            3160,
+            427,
+            3310,
+            526
+          ]
+        },
+        {
+          "id": "Q328",
+          "row": 4,
+          "scope": "One syllable between འབྱུང་བ and བ་དང.",
+          "candidate": "སྤེལ",
+          "alternative": "སེལ",
+          "question": "Subjoined consonant within the stack.",
+          "approximate_native_bounds": [
+            824,
+            508,
+            925,
+            611
+          ]
+        },
+        {
+          "id": "Q330",
+          "row": 4,
+          "scope": "One syllable between པ and སོགས.",
+          "candidate": "མིགས",
+          "alternative": "མིག",
+          "question": "Final ས versus adjoining letter strokes.",
+          "approximate_native_bounds": [
+            2130,
+            510,
+            2260,
+            611
+          ]
+        },
+        {
+          "id": "Q337",
+          "row": 6,
+          "scope": "First syllable before པའི.",
+          "candidate": "འགྲུབ",
+          "alternative": "གྲུབ",
+          "question": "Separate initial འ versus the stack's own leftward strokes.",
+          "approximate_native_bounds": [
+            581,
+            675,
+            704,
+            776
+          ]
+        },
+        {
+          "id": "QM1",
+          "scope": "Upper left marginal cluster.",
+          "candidate": "ལྔ",
+          "question": "Whole compact folio-like cluster remains uncertain.",
+          "approximate_native_bounds": [
+            507,
+            407,
+            572,
+            483
+          ]
+        },
+        {
+          "id": "QM2",
+          "scope": "Single middle marginal letter.",
+          "candidates": [
+            "པ",
+            "ཕ"
+          ],
+          "question": "Exact letter identity.",
+          "approximate_native_bounds": [
+            511,
+            526,
+            569,
+            582
+          ]
+        },
+        {
+          "id": "QM3a–QM3c",
+          "scope": "Three lower marginal groups; outer groups unresolved, middle group provisionally ཀྱི.",
+          "question": "Exact wording of each compact group; no restoration from the work's title.",
+          "approximate_native_bounds": [
+            492,
+            633,
+            572,
+            791
+          ]
+        },
+        {
+          "id": "QT1",
+          "scope": "Immediately after row 1 བབས.",
+          "question": "Separate terminal tsheg versus final letter-head detail.",
+          "approximate_native_bounds": [
+            3720,
+            282,
+            3770,
+            331
+          ]
+        },
+        {
+          "id": "QT2",
+          "scope": "Immediately after row 2 པས.",
+          "question": "Separate terminal tsheg versus final letter-head detail.",
+          "approximate_native_bounds": [
+            3710,
+            365,
+            3770,
+            420
+          ]
+        },
+        {
+          "id": "QT3",
+          "scope": "Immediately after row 3 མེས.",
+          "question": "Small rightmost mark: terminal tsheg or letter limb.",
+          "approximate_native_bounds": [
+            3710,
+            445,
+            3770,
+            505
+          ]
+        },
+        {
+          "id": "QT5",
+          "scope": "Immediately after row 5 སོགས.",
+          "question": "Separate terminal tsheg versus final letter-head detail.",
+          "approximate_native_bounds": [
+            3710,
+            614,
+            3770,
+            677
+          ]
+        },
+        {
+          "id": "QT6",
+          "scope": "Immediately after row 6 རང.",
+          "question": "Separate terminal tsheg versus final letter-head detail.",
+          "approximate_native_bounds": [
+            3710,
+            695,
+            3770,
+            758
+          ]
+        },
+        {
+          "id": "QT7",
+          "scope": "Immediately after row 7 བསྟན.",
+          "question": "Separate terminal tsheg versus final letter-head detail.",
+          "approximate_native_bounds": [
+            3710,
+            775,
+            3780,
+            840
+          ]
+        }
+      ],
+      "unexamined_spans": {
+        "target_page": [],
+        "context_only": [
+          {
+            "pdf_page": 9,
+            "scope": "Rows 1–6 and row 7 before the incoming ཁྱབ་འཇུག་གིས་ནི excerpt were not examined glyph by glyph; overview inspection is not collation coverage."
+          },
+          {
+            "pdf_page": 11,
+            "scope": "Material after the opening continuation and the following རིམ་དང་ཅིག་ཆར context was not examined glyph by glyph."
+          }
+        ]
+      },
+      "next_physical_span": "Next genuinely missing Tingkye page is PDF11, row1 U00348 continuation པ་དང་གཞུང་གིས་ཀྱང, then རིམ་དང་ཅིག་ཆར. Retain the page10 Q/QT and marginal questions.",
+      "reader_claims_require_coordinator_dispositions": true
     }
   ]
 }

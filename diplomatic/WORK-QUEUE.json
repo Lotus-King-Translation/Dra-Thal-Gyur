@@ -4,7 +4,7 @@
   "canonical_branch": "main",
   "current_chapter": 1,
   "chapter_status": "in_progress_not_ready",
-  "next_task_id": "C1-TINGKYE",
+  "next_task_id": "C1-TSAMDRAK",
   "path_base": "repository root; JSON pointers identify records without changing their historical contents",
   "scope": "Continuation queue, not a whole-chapter collation claim. Thirty punctuation candidate identities remain tracked, including completed dispositions; unfinished items are hypotheses, not accepted readings. Existing Adzom and Dzongsar main lexical passes remain valid within their recorded scopes.",
   "reference_paths": [
@@ -684,7 +684,7 @@
       "checkpoint_commit": "b3b10d56c395bc0896463c5e66e2974e35db1df1",
       "blocker": null,
       "dependency_policy": "preferred_order",
-      "current_batch_id": "B04-P0006",
+      "current_batch_id": null,
       "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate.",
       "current_batch_result": "Partial continuous comparison through PDF4 row3, with an isolated PDF6 junction; next is PDF4 row4 U00106 continuation, not PDF8.",
       "prior_owner_at_reassignment": "reader-tingkye-B01-20260928",
@@ -692,14 +692,7 @@
       "next_physical_span": "PDF5 row1, U00127 outgoing join and U00128 onward; PDF4 targeted glyph and marginal questions remain visible.",
       "current_wave_id": "CONTINUE2-W03",
       "bounded_parallel_policy": "Each reader owns one target page and at most three source pages including context; coordinator alone publishes and no unfinished page is inferred complete from a neighbor.",
-      "next_step": "Integrate the saved PDF6/B04-P0006 report, preserving the PDF5 Q01-Q08 and M01 details. The continuous page traversal now reaches the PDF5 exit within U00162, not beyond it.",
-      "integration_group": [
-        "B04-P0006",
-        "B05-P0007",
-        "B06-P0008",
-        "B07-P0009",
-        "B08-P0010"
-      ]
+      "next_step": "Next genuinely missing Tingkye page is PDF11, row1 U00348 continuation པ་དང་གཞུང་གིས་ཀྱང, then རིམ་དང་ཅིག་ཆར. Retain the page10 Q/QT and marginal questions."
     },
     {
       "id": "C1-TSAMDRAK",
