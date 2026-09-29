@@ -1,0 +1,12 @@
+{
+  "original_report": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt",
+  "original_sha256": "2f2639bc7a83d6973eebd673fa8ba1457e02d84ff9a4d8fa6329fca9acb40728",
+  "parsed_sidecar": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading-parsed.json",
+  "parsed_sha256": "7547fd610531b8ed093e449d5c179ca389d1bfef138ff71a951ce47121c451ea",
+  "old_exact_fragment": "[572, seventy,950,130]",
+  "new_exact_fragment": "[572,70,950,130]",
+  "occurrences": 1,
+  "repair_scope": "Convert one bare English coordinate numeral seventy into JSON number70. Every other byte, all Tibetan strings, findings and uncertainty are unchanged. Native bounds remain reader estimates, not new measurements.",
+  "editorial_adoption": false,
+  "chapter_complete": false
+}
