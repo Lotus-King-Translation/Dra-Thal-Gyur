@@ -476,3 +476,15 @@ Heading positions U00373/U00394 have local noncorrespondence, not missing main v
 **Remaining:** Continue genuinely missing Tingkye PDF14 row1 at U00464 གནས་དང་འབྱེད་དང་གནས་བཅུད་ཡུལ. Retain all Q11/Q12/Q13 questions and marginal labels.
 
 The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.
+
+## B10-P0014-0016 — preserved review integrated
+
+Tingkye PDF14–16 integrated: twenty-one source-ordered rows and thirty-nine localized or provisional comparison observations; all twenty bounded questions remain traceable.
+
+[Unchanged raw report](C1-TINGKYE-B10-P0014-0016-reader-reading.txt) · [Exact source and rows](C1-TINGKYE.json).
+
+Every raw observation has a disposition. General graphic inventories and margins stay in the physical ledger; no compound mark is normalized to Adzom punctuation. The source twelve/thirteen numeral difference and yi-ge/ri-mo order are retained as witness observations, while the spras correspondence is not counted as another variant against the corrected base.
+
+**Remaining:** Integrate B11/PDF17–19 only after its completed reader output is preserved and checked, beginning U00575 completion དྲུག་པ་ན. The disconnected Mac may have later results; inspect and preserve them before any relaunch. Retain Q14-01 through Q16-M3 and all marginal questions.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.

@@ -15689,7 +15689,7 @@
     },
     {
       "batch_id": "B10-P0014-0016",
-      "status": "claimed_prepared_not_read",
+      "status": "review_integrated_with_bounded_uncertainties",
       "owner": "reader-C1-TINGKYE-B10-P0014-0016",
       "baseline_commit": "01dc80b83303648317fd86853edb5c81b3a03970",
       "target_pages": [
@@ -15707,9 +15707,2173 @@
       "scope": "Continuous Tingkye PDF14–16, entry U00464. All target rows and non-main material, source order and signs; previous PDF11–13 already integrated. Do not repeat earlier work except the immediate joins.",
       "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/manifest.json",
       "specification": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-spec.json",
-      "rows_actually_compared": [],
-      "observations": [],
-      "canonical_record_ids": []
+      "rows_actually_compared": [
+        {
+          "pdf_page": 14,
+          "physical_row": 1,
+          "observed_sequence": "གནས་དང་འབྱེད་དང་གནས་བཅུད་ཡུལ<C> ཐོབ་ཅིང་མཐོང་རྟོགས་ངེས་འཇུག་པའོ<C> <C> དེ་ལྟར་སྒྲ་ཡིས་དགོས་པ་ནི<C> རྣམ་པ་གཉིས་སུ་ཤེས་བྱ་སྟེ<C> མཆོག་དང་ཐུན་མོང་པ་དག་གི<C>",
+          "ordered_anchor_fragments": [
+            "U00464",
+            "U00465",
+            "U00466",
+            "U00467",
+            "U00468"
+          ],
+          "signs": {
+            "C": 6,
+            "special_interval": "U00465→U00466: C C",
+            "leading_non_main": "N14-entry",
+            "row_end": "C"
+          },
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 14,
+          "physical_row": 2,
+          "observed_sequence": "ལས་ཅན་སོ་སོའི་ངེས་འབྱེད་འཕྲུལ<C> མཆོག་ལ་སྐུ་ལྔ་མངོན་པར་འགྲུབ<C> དེ་ལྟར་གྲུབ་པའི་རྟགས་བཅུ་ཡིས<C> རྡོ་རྗེ་འཆང་གི་ལུས་དང་མཉམ<C> འདི་ལ་ཡོན་ཏན་བརྗོད་མི་ལང[Q14-01]<C> ཆོས་དང་ཆོས",
+          "ordered_anchor_fragments": [
+            "U00469",
+            "U00470",
+            "U00471",
+            "U00472",
+            "U00473",
+            "U00474:initial"
+          ],
+          "signs": {
+            "C": 5,
+            "row_end": "no separate terminal delimiter discerned"
+          },
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 14,
+          "physical_row": 3,
+          "observed_sequence": "ཀྱི་དབྱིངས་ཉིད་དང<C> གཞི་དང་ལམ་དང་འབྲས་བུ་ལ<C> བདེ་བར་རོལ་པ་ཉིད་ཡིན་ནོ<C> ཐུན་མོང་གྱུར་པའི་དགོས་པ་ཡིས<C> སྒྲ་ཚད་རིག་པའི་བསྟན་བཅོས་དང<C> བཟོ་དང་སྒྱུ་རྩལ་སྣ་ཚོགས་དང<C>",
+          "ordered_anchor_fragments": [
+            "U00474:continuation",
+            "U00475",
+            "U00476",
+            "U00477",
+            "U00478",
+            "U00479"
+          ],
+          "signs": {
+            "C": 6,
+            "row_end": "C"
+          },
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 14,
+          "physical_row": 4,
+          "observed_sequence": "འཕོངས་[Q14-02]མ་སྦྱངས་ལས་རྣམས་འགྲུབ<C> འབྱུང་བ་ལྔ་ལ་སྤྱོད་ནུས་དང<C> མཚོན་དང་དུག་ལས་རྒྱལ་བ་དང<C> བེམ་དང་རིག་བཅས་སྒྲ་རྣམས་དང<C> སྒྲ་དང་ཐ་སྙད་ལ་མཁས་འགྱུར<C> མདོར་ན་དགོས",
+          "ordered_anchor_fragments": [
+            "U00480",
+            "U00481",
+            "U00482",
+            "U00483",
+            "U00484",
+            "U00485:initial"
+          ],
+          "signs": {
+            "C": 5,
+            "row_end": "no separate terminal delimiter discerned"
+          },
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 14,
+          "physical_row": 5,
+          "observed_sequence": "པའི་བསྟན་བཅོས་དང<C> བཀའི་མཚན་ཉིད་ཤེས་པར་འགྱུར<C> སྨན་དང་རྩི་སྦྱོར་[Q14-03]<C> ཐལ་ཡིག་ཕུལ་དུ་ཕྱིན་པ་དང<C> འཇིག་རྟེན་སྦྱོར་བ་ལྷུན་གྱིས་གྲུབ<C> དེ་ལྟར་སྒྲ་དོན་དགོས་པར",
+          "ordered_anchor_fragments": [
+            "U00485:continuation",
+            "U00486",
+            "U00487",
+            "U00488",
+            "U00489",
+            "U00490:initial"
+          ],
+          "signs": {
+            "C": 5,
+            "row_end": "no separate terminal delimiter discerned"
+          },
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 14,
+          "physical_row": 6,
+          "observed_sequence": "འགྲུབ<C> རྒྱུད་ལ[Q14-04]་ངེས་པའི་འཕྲུལ་འབྱེད་ཕྱེ<C> ཐལ་བའི་གནས་ནི་རྣམ་པ་བརྒྱད<C> འཇིག་རྟེན་ཁམས་དང་ཞིང་ཁམས་དང<C> དམ་བཅའ་སྐྱོན་དང་སྐྱོན་གནས་དང<C> འཕེན་པའི་ལས་དང་སྦྱོར",
+          "ordered_anchor_fragments": [
+            "U00490:continuation",
+            "U00491",
+            "U00493",
+            "U00494",
+            "U00495",
+            "U00496:initial"
+          ],
+          "signs": {
+            "C": 5,
+            "row_end": "no separate terminal delimiter discerned"
+          },
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 14,
+          "physical_row": 7,
+          "observed_sequence": "བ་དང<C> གྲགས་དང་སོང་བའི་གན[Q14-05]་དང་བརྒྱད<C> འདི་རྣམས་ཐལ་བའི་གནས་སུ་འདོད<C> འཇིག་རྟེན་ཁམས་ནི་ཆགས་པ་དང<C> གནས་པ་ཉིད་དང་འཇིག[Q14-06]་པའི་དུས<C> སྟོང་པ་ཉིད་དང་རྒྱུ་དང་རྐྱེན<C>",
+          "ordered_anchor_fragments": [
+            "U00496:continuation",
+            "U00497",
+            "U00498",
+            "U00499",
+            "U00500",
+            "U00501"
+          ],
+          "signs": {
+            "C": 6,
+            "row_end": "C"
+          },
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 15,
+          "physical_row": 1,
+          "observed_sequence": "གྲུབ་ཚུལ་དང་ནི་དྲང་ཚད་དོ<C> ཞིང་ཁམས་རྣམ་པ་བཅུ་གཉིས་ལ<C> འདི་ནས་འཇིག་རྟེན་འོག་ན་ནི<C> ཐལ་བ་དབྱངས་ཞེས་བྱ་བ་ཡིས<C> རྒྱ་ཁྱོན་དཔག་དཀའ་རབ་ཏུ་མཛེས<C> རྒྱུ་དང་རྐྱེན་དང་རང",
+          "ordered_anchor_fragments": [
+            "U00502",
+            "U00503",
+            "U00504",
+            "U00505",
+            "U00506",
+            "U00507:initial"
+          ],
+          "signs": {
+            "C": 5,
+            "row_end": "no separate terminal delimiter discerned"
+          },
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 15,
+          "physical_row": 2,
+          "observed_sequence": "བཞིན་དང<C> སྟོན་པའི་བསྟན་པ་[Q15-01]འཁོར<C> སྟེང་དང་འོག་དང་ཕྱོགས་མཚམས་སུ<C> ཆུ་ཞེང་ཉམས་དགའ་བཀོད་ལེགས་སྤྲས<C> དེ་ནས་འཇིག་རྟེན་དྲུག་འོག་དང<C> ཐལ་བ་འཛིན་ཞེས་བྱ་བ་ཡིས<C>",
+          "ordered_anchor_fragments": [
+            "U00507:continuation",
+            "U00508",
+            "U00509",
+            "U00510",
+            "U00511",
+            "U00512"
+          ],
+          "signs": {
+            "C": 6,
+            "row_end": "C"
+          },
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 15,
+          "physical_row": 3,
+          "observed_sequence": "འཁོར་ལོའི་དབྱིབས་ལ་ཟང་ཐལ་ལོ<C> སྟོན་པའི་བསྟན་པ་བདེན་པ་ཉིད<C> སྤྲས་ལེགས་བཀོད་པའི་གཉིས་པའོ<C> འདི་ནས་འཇིག་རྟེན་གསུམ་གཡས་ན<C> ཐལ་བ་སྐྱོབ་བྱ་བ་ནི<C> མར",
+          "ordered_anchor_fragments": [
+            "U00513",
+            "U00514",
+            "U00515",
+            "U00516",
+            "U00517",
+            "U00518:initial"
+          ],
+          "signs": {
+            "C": 5,
+            "row_end": "no separate terminal delimiter discerned"
+          },
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 15,
+          "physical_row": 4,
+          "observed_sequence": "གད་དག་གིས་ཡོངས་སྤྲས་པ<C> འོད་དང་ཁ་དོག་ངེས་གསལ་ཞིང<C> སྟོན་པའི་བསྟན་པ[Q15-02]་འདུལ་བའི་ཞིང<C> སོ་སོའི་ལས་མཚན་བཅས་པའོ<C> དེ་ནས་འཇིག་རྟེན་དྲུག་གི་སྟེང<C> ཐལ་བ་བརྡལ",
+          "ordered_anchor_fragments": [
+            "U00518:continuation",
+            "U00519",
+            "U00520",
+            "U00521",
+            "U00522",
+            "U00523:initial"
+          ],
+          "signs": {
+            "C": 5,
+            "row_end": "no separate terminal delimiter discerned"
+          },
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 15,
+          "physical_row": 5,
+          "observed_sequence": "ཞེས་བྱ་ཡིས<C> པདྨ་རྒྱས་པའི་དབྱིབས་འདྲ་བ<C> ཤིན་ཏུ་བརྡལ་བ་ཁོད་སྙོམས་པ<C> སྣ་ཚོགས་འོད་འབར་ཁ་དོག་ནི<C> དཀར་དམར་སྣང་བ་འཁྲུགས་པ་ལས<C> རགས་པའི་གཟུགས་ལ་སྣང་ཡོད",
+          "ordered_anchor_fragments": [
+            "U00523:continuation",
+            "U00524",
+            "U00525",
+            "U00526",
+            "U00527",
+            "U00528:initial"
+          ],
+          "signs": {
+            "C": 5,
+            "row_end": "no separate terminal delimiter discerned"
+          },
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 15,
+          "physical_row": 6,
+          "observed_sequence": "པ་མེད<C> སྟོན་པའི་བསྟན་པ་འདུ་མཆེད་རྒྱས<C> བསྐལ་པ་རྫོགས་པས་ཐལ་ཞེས་བྱའོ<C> འདི་ནས་འཇིག་རྟེན་སྟེང་དུ་ཡང<C> བཅུ་དགུ་འདས་པའི་ཡང་སྟེང་ན[Q15-03]<C> ཐལ་བའི་བེ་[Q15-04]ཞེས་བྱ་བ<C>",
+          "ordered_anchor_fragments": [
+            "U00528:continuation",
+            "U00529",
+            "U00530",
+            "U00531",
+            "U00532",
+            "U00533"
+          ],
+          "signs": {
+            "C": 6,
+            "row_end": "C"
+          },
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 15,
+          "physical_row": 7,
+          "observed_sequence": "རབ་ཏུ་རྫོགས་ཏེ་ཉམས་དགའ་བར<C> རིན་ཆེན་སིལ་མ་སྣ་ཚོགས་ལས<C> ངེས་པར་སྤྲས་ཏེ་སྤུངས་པའི་ཚུལ<C> སྟོན་པའི་བསྟན་པ་རྫོགས་པ་གཉིས་ལྡན<C> ཐོད་པའི་ཕྲེང་བ་བཀོད་པའོ<C> འདི་ནས་འཇིག",
+          "ordered_anchor_fragments": [
+            "U00534",
+            "U00535",
+            "U00536",
+            "U00537",
+            "U00538",
+            "U00539:initial"
+          ],
+          "signs": {
+            "C": 5,
+            "row_end": "no separate terminal delimiter discerned"
+          },
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 16,
+          "physical_row": 1,
+          "observed_sequence": "རྟེན་བྱང་ཤར་མཚམས<C> ཐལ་བའི་རྒྱུན་ཞེས་བྱ་བ་ཡིས<C> མཆོད་རྟེན་དབྱིབས་འདྲ་བང་རིམ་མཛེས<C> བཀོད་པ་ལྔ་ཡིས་ཡོངས་སུ་སྤྲས<C> སྒྲ་དབྱངས་སྣ་ཚོགས་འབྱུང་བའི་གཞི<C> སྟོན་པའི",
+          "ordered_anchor_fragments": [
+            "U00539:continuation",
+            "U00540",
+            "U00541",
+            "U00542",
+            "U00543",
+            "U00544:initial"
+          ],
+          "signs": {
+            "C": 5,
+            "leading_non_main": "N16-entry",
+            "row_end": "no separate terminal delimiter discerned"
+          },
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 16,
+          "physical_row": 2,
+          "observed_sequence": "བསྟན་པ་དུས་འབྱུང་ངེས<C> དེ་སྟེང་ཉི་ཤུ་རྩ་གཅིག་ན<C> རབ་ཏུ་ཐལ་བས་ཁྱབ་ཅེས་བྱ<C> དམིགས་པ་དག་པའི་རང་བཞིན་དུ<C> ཕྱི་དང་ནང་མེད་ཟང་ཐལ་སྣང<C> སྟོན་པའི་བསྟན་པ་འབྱུང་བ[Q16-01]་སྟོན<C>",
+          "ordered_anchor_fragments": [
+            "U00544:continuation",
+            "U00545",
+            "U00546",
+            "U00547",
+            "U00548",
+            "U00549"
+          ],
+          "signs": {
+            "C": 6,
+            "row_end": "C"
+          },
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 16,
+          "physical_row": 3,
+          "observed_sequence": "བྱེད་པའི་རྒྱུ་རྐྱེན་ཁྱབ་འཇུག་གོ<C> འདི་ནས་འཇིག་རྟེན་ལྷོ་ཤར་གཡོན<C> འཇིག་རྟེན་ཁམས་ནི་དྲུག་འདས་ན<C> ཐལ་བའི་སྒྲ་ཞེས་བྱ་བ་ཡིས<C> སྐྱོད་བྱེད་འཕན་གྱིས་རབ་ཏུ་བཀླུབས<C> རྒྱལ",
+          "ordered_anchor_fragments": [
+            "U00550",
+            "U00551",
+            "U00552",
+            "U00553",
+            "U00554",
+            "U00555:initial"
+          ],
+          "signs": {
+            "C": 5,
+            "row_end": "no separate terminal delimiter discerned"
+          },
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 16,
+          "physical_row": 4,
+          "observed_sequence": "མཚན་གདུགས་ལ་སོགས་པ་བསྒྲེང<C> མེ་ཏོག་སིལ་མའི་ཆར་དང་དྲི<C> སྟོན་པ་ཉིད་དང་བསྟན་པ་ལ<C> མཛེས་བྱེད་གཟུགས་བརྙན་སྣ་ཚོགས་ཀྱིས་སྐོར<C> བདེ་བའི་རོལ་པ་འབྱུང་བའོ<C>",
+          "ordered_anchor_fragments": [
+            "U00555:continuation",
+            "U00556",
+            "U00557",
+            "U00558",
+            "U00559"
+          ],
+          "signs": {
+            "C": 5,
+            "row_end": "C"
+          },
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 16,
+          "physical_row": 5,
+          "observed_sequence": "འདི་ནས་འཇིག་རྟེན་ལྷོ་ནུབ་གཡས<C> དྲུག་འདས་འོག་ན་ཐལ་བའི་རླུང<C> གཡོ་ཞིང་སྤྱོད་པ་བར་སྣང་ལ<C> ཕན་ཚུན་གཡོ་ཞིང་ལྡིང་བ་དང<C> སྐྱོད་པ་ལས་ནི་སྒྲ་རྣམས་འབྱུང<C> སྟོན་པའི",
+          "ordered_anchor_fragments": [
+            "U00560",
+            "U00561",
+            "U00562",
+            "U00563",
+            "U00564",
+            "U00565:initial"
+          ],
+          "signs": {
+            "C": 5,
+            "row_end": "no separate terminal delimiter discerned"
+          },
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 16,
+          "physical_row": 6,
+          "observed_sequence": "བསྟན་པ་རླུང་[Q16-02]<C> ལྔ་ལྡན་འཇུག་པ་གསུམ་ཡིན་ནོ<C> དེ་སྟེང་བཅུ་གསུམ་བརྩེགས་པ་ན<C> རིན་ཆེན་ཐལ་བ་ཞེས་བྱ་བ<C> བཀྲ་ཤིས་ཉི་མ་རྣམས་ཀྱིས་སྤྲས<C> འདོད་པའི་ཡོན་ཏན",
+          "ordered_anchor_fragments": [
+            "U00565:continuation",
+            "U00566",
+            "U00567",
+            "U00568",
+            "U00569",
+            "U00570:initial"
+          ],
+          "signs": {
+            "C": 5,
+            "row_end": "no separate terminal delimiter discerned"
+          },
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 16,
+          "physical_row": 7,
+          "observed_sequence": "རྣམས་ཀྱིས་བརྒྱན<C> འཕྲུལ་གྱི་ཡི་གེ་རི་མོ་མཛེས<C> སྟོན་པའི་བསྟན་པ་གཟུགས་བརྙན་རྫོགས<C> [Q16-03]པདྨའི་སྤྱན་གྱིས་མཛེས<C> འདི་ནས་ནུབ་བྱང་མཚམས་ཀྱི་སྟེང<C> འཇིག་རྟེན་ཁམས་ནི",
+          "ordered_anchor_fragments": [
+            "U00570:continuation",
+            "U00571",
+            "U00572",
+            "U00573",
+            "U00574",
+            "U00575:initial"
+          ],
+          "signs": {
+            "C": 5,
+            "row_end": "no separate terminal delimiter discerned"
+          },
+          "source_annotations": []
+        }
+      ],
+      "observations": [
+        {
+          "id": "O14-01",
+          "pdf_page": 14,
+          "anchors": [
+            "U00463",
+            "U00464"
+          ],
+          "source_span": "གནས་དང་འབྱེད་དང་གནས་བཅུད་ཡུལ",
+          "base_span": "U00464",
+          "category": "incoming correspondence",
+          "neighboring_context": {
+            "pdf13_outgoing_locator": "རྣལ་འབྱོར་རྟོག་པའི",
+            "pdf14_following": "ཐོབ་ཅིང་མཐོང"
+          },
+          "approximate_native_bounds": [
+            825,
+            263,
+            1508,
+            345
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The actual neighboring clauses establish entry at U00464; the broad supplied anchor range is not used as a page map.",
+          "coordinator_disposition": "Retain physical correspondence, graphic inventory or marginal uncertainty in the source-ordered report; not a new apparatus variant or extra coverage beyond this target."
+        },
+        {
+          "id": "O14-02",
+          "pdf_page": 14,
+          "anchors": [
+            "U00464",
+            "U00465",
+            "U00466",
+            "U00501"
+          ],
+          "source_span": "Inline C clusters; C C in the U00465→U00466 interval; separate O+C and detached entry C",
+          "base_span": "Main-unit endings represented by ། །",
+          "category": "graphic inventory",
+          "neighboring_context": "པའོ<C> <C> དེ་ལྟར",
+          "approximate_native_bounds": [
+            560,
+            260,
+            3790,
+            855
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "not applicable",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "Both clusters in the complete interval are retained, including the one nearer the following clause. Frame strokes and attached letter limbs are excluded. No separate filler train was distinguished.",
+          "coordinator_disposition": "Retain physical correspondence, graphic inventory or marginal uncertainty in the source-ordered report; not a new apparatus variant or extra coverage beyond this target."
+        },
+        {
+          "id": "O14-03",
+          "pdf_page": 14,
+          "anchors": [
+            "U00466"
+          ],
+          "source_span": "སྒྲ་ཡིས",
+          "base_span": "སྒྲ་ཡི",
+          "category": "lexical spelling",
+          "neighboring_context": "དེ་ལྟར … དགོས་པ་ནི",
+          "approximate_native_bounds": [
+            2340,
+            258,
+            2560,
+            340
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The final ས is visible in the main line.",
+          "coordinator_disposition": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged."
+        },
+        {
+          "id": "O14-04",
+          "pdf_page": 14,
+          "anchors": [
+            "U00473"
+          ],
+          "source_span": "ལང[Q14-01]",
+          "base_span": "ལངས",
+          "category": "unresolved suffix",
+          "neighboring_context": "བརྗོད་མི … <C> ཆོས་དང་ཆོས",
+          "approximate_native_bounds": {
+            "question_ref": "Q14-01"
+          },
+          "confidence": {
+            "alignment": "high",
+            "lexical": "unresolved",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The final component remains isolated from the otherwise readable clause.",
+          "coordinator_disposition": "Integrate the bounded unresolved component, not an accepted reading, omission or agreement."
+        },
+        {
+          "id": "O14-05",
+          "pdf_page": 14,
+          "anchors": [
+            "U00477"
+          ],
+          "source_span": "དགོས་པ་ཡིས",
+          "base_span": "དགོས་པ་ནི",
+          "category": "lexical substitution",
+          "neighboring_context": "ཐུན་མོང་གྱུར་པའི … <C> སྒྲ་ཚད",
+          "approximate_native_bounds": [
+            2310,
+            428,
+            2645,
+            520
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The source ending is read as ཡིས; it is not regularized to the base's formulation.",
+          "coordinator_disposition": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged."
+        },
+        {
+          "id": "O14-06",
+          "pdf_page": 14,
+          "anchors": [
+            "U00478"
+          ],
+          "source_span": "བསྟན་བཅོས",
+          "base_span": "བསྟན་ཆོས",
+          "category": "lexical substitution",
+          "neighboring_context": "སྒྲ་ཚད་རིག་པའི … དང",
+          "approximate_native_bounds": [
+            2930,
+            428,
+            3130,
+            522
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "medium",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The source has the additional initial བ in བཅོས.",
+          "coordinator_disposition": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged."
+        },
+        {
+          "id": "O14-07",
+          "pdf_page": 14,
+          "anchors": [
+            "U00480"
+          ],
+          "source_span": "འཕོངས་[Q14-02]མ་སྦྱངས",
+          "base_span": "འཕོངས་དང་མ་སྦྱངས",
+          "category": "unresolved intervening component",
+          "neighboring_context": "… ལས་རྣམས་འགྲུབ<C>",
+          "approximate_native_bounds": {
+            "question_ref": "Q14-02"
+          },
+          "confidence": {
+            "alignment": "high",
+            "lexical": "unresolved",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "Neither presence nor omission of the intervening word is certified.",
+          "coordinator_disposition": "Integrate the bounded unresolved component, not an accepted reading, omission or agreement."
+        },
+        {
+          "id": "O14-08",
+          "pdf_page": 14,
+          "anchors": [
+            "U00484"
+          ],
+          "source_span": "སྒྲ་དང་ཐ་སྙད",
+          "base_span": "བརྡའ་དང་ཐ་སྙད",
+          "category": "lexical substitution",
+          "neighboring_context": "བེམ་དང་རིག་བཅས … / … ལ་མཁས་འགྱུར",
+          "approximate_native_bounds": [
+            2840,
+            513,
+            3170,
+            609
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "medium",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The initial stack is read as སྒྲ, separately from the preceding clause's ending.",
+          "coordinator_disposition": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged."
+        },
+        {
+          "id": "O14-09",
+          "pdf_page": 14,
+          "anchors": [
+            "U00486"
+          ],
+          "source_span": "བཀའི་མཚན་ཉིད",
+          "base_span": "བཀའ་ཡི་མཚན་ཉིད",
+          "category": "contracted spelling",
+          "neighboring_context": "པའི་བསྟན་བཅོས་དང<C> … ཤེས་པར་འགྱུར",
+          "approximate_native_bounds": [
+            1000,
+            599,
+            1290,
+            698
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "medium",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The genitive vowel is attached to བཀའ; a separate ཡི is not transcribed.",
+          "coordinator_disposition": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged."
+        },
+        {
+          "id": "O14-10",
+          "pdf_page": 14,
+          "anchors": [
+            "U00487"
+          ],
+          "source_span": "སྨན་དང་རྩི་སྦྱོར་[Q14-03]",
+          "base_span": "སྨན་དང་རྩི་སྦྱོར་བྱེ་བྲག་འབྱེད",
+          "category": "unresolved clause ending",
+          "neighboring_context": "… <C> ཐལ་ཡིག་ཕུལ་དུ",
+          "approximate_native_bounds": {
+            "question_ref": "Q14-03"
+          },
+          "confidence": {
+            "alignment": "high",
+            "lexical": "unresolved",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The securely readable initial words do not determine the terminal syllables.",
+          "coordinator_disposition": "Integrate the bounded unresolved component, not an accepted reading, omission or agreement."
+        },
+        {
+          "id": "O14-11",
+          "pdf_page": 14,
+          "anchors": [
+            "U00490"
+          ],
+          "source_span": "དེ་ལྟར་སྒྲ་དོན་དགོས་པར / འགྲུབ",
+          "base_span": "སྒྲ་དོན་དེ་ལྟར་དགོས་པ་འགྲུབ",
+          "category": "word order and ending",
+          "neighboring_context": "ལྷུན་གྱིས་གྲུབ<C> … <C> རྒྱུད",
+          "approximate_native_bounds": [
+            [
+              3230,
+              598,
+              3755,
+              693
+            ],
+            [
+              558,
+              684,
+              708,
+              764
+            ]
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "medium",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The source places དེ་ལྟར first and reads པར before the row break; འགྲུབ starts row 6.",
+          "coordinator_disposition": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged."
+        },
+        {
+          "id": "O14-12",
+          "pdf_page": 14,
+          "anchors": [
+            "U00491"
+          ],
+          "source_span": "རྒྱུད་ལ[Q14-04]",
+          "base_span": "རྒྱུད་ལ",
+          "category": "unresolved suffix",
+          "neighboring_context": "… ངེས་པའི་འཕྲུལ་འབྱེད་ཕྱེ",
+          "approximate_native_bounds": {
+            "question_ref": "Q14-04"
+          },
+          "confidence": {
+            "alignment": "high",
+            "lexical": "unresolved",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "A possible additional consonant is retained as uncertainty rather than accepted or deleted.",
+          "coordinator_disposition": "Integrate the bounded unresolved component, not an accepted reading, omission or agreement."
+        },
+        {
+          "id": "O14-13",
+          "pdf_page": 14,
+          "anchors": [
+            "U00491",
+            "U00492",
+            "U00493"
+          ],
+          "source_span": "འཕྲུལ་འབྱེད་ཕྱེ<C> ཐལ་བའི་གནས",
+          "base_span": "U00492: དྲིས་ལན་ལྔ་པ།",
+          "category": "main-versus-note placement",
+          "neighboring_context": "Row 6 transition from U00491 to U00493",
+          "approximate_native_bounds": [
+            1110,
+            681,
+            1630,
+            784
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "No heading words occur in this main-line interval. The unresolved marginal labels prevent a claim that the heading is absent everywhere on the page.",
+          "coordinator_disposition": "Integrate only local absence of the reply-heading words between observed main flanks. Unread margins preclude global absence; not a missing main verse."
+        },
+        {
+          "id": "O14-14",
+          "pdf_page": 14,
+          "anchors": [
+            "U00497"
+          ],
+          "source_span": "གན[Q14-05]",
+          "base_span": "གནད",
+          "category": "unresolved final consonant",
+          "neighboring_context": "སོང་བའི … དང་བརྒྱད",
+          "approximate_native_bounds": {
+            "question_ref": "Q14-05"
+          },
+          "confidence": {
+            "alignment": "high",
+            "lexical": "unresolved",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The final letter is not supplied from the alignment aid.",
+          "coordinator_disposition": "Integrate the bounded unresolved component, not an accepted reading, omission or agreement."
+        },
+        {
+          "id": "O14-15",
+          "pdf_page": 14,
+          "anchors": [
+            "U00500"
+          ],
+          "source_span": "འཇིག[Q14-06]་པའི",
+          "base_span": "འཇིག་པའི",
+          "category": "unresolved suffix",
+          "neighboring_context": "གནས་པ་ཉིད་དང … དུས",
+          "approximate_native_bounds": {
+            "question_ref": "Q14-06"
+          },
+          "confidence": {
+            "alignment": "high",
+            "lexical": "unresolved",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The possible additional stroke is not silently absorbed into a letter limb or asserted as ས.",
+          "coordinator_disposition": "Integrate the bounded unresolved component, not an accepted reading, omission or agreement."
+        },
+        {
+          "id": "O14-16",
+          "pdf_page": 14,
+          "anchors": [],
+          "source_span": "[Q14-M1]; [Q14-M2]; [Q14-M3]",
+          "base_span": null,
+          "category": "unresolved marginal material",
+          "neighboring_context": "Left strip beneath printed 399; outside the main-text divider",
+          "approximate_native_bounds": {
+            "question_refs": [
+              "Q14-M1",
+              "Q14-M2",
+              "Q14-M3"
+            ]
+          },
+          "confidence": {
+            "alignment": "not applicable",
+            "lexical": "unresolved",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "Three distinct regions are retained. No numeral value or heading identity is inferred from the expected reply order.",
+          "coordinator_disposition": "Retain physical correspondence, graphic inventory or marginal uncertainty in the source-ordered report; not a new apparatus variant or extra coverage beyond this target."
+        },
+        {
+          "id": "O15-01",
+          "pdf_page": 15,
+          "anchors": [
+            "U00502",
+            "U00539"
+          ],
+          "source_span": "Seven main rows with C boundary clusters; printed 400 and left marginal label outside the text divider",
+          "base_span": "Main-unit endings represented by ། །",
+          "category": "graphic inventory",
+          "neighboring_context": "Incoming གྲུབ་ཚུལ; outgoing འདི་ནས་འཇིག",
+          "approximate_native_bounds": [
+            580,
+            258,
+            3780,
+            851
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "not applicable",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The compounds are recorded as whole intervals. No opening ornament, separate filler train, or ordinary-bar-only delimiter was confidently distinguished on this page.",
+          "coordinator_disposition": "Retain physical correspondence, graphic inventory or marginal uncertainty in the source-ordered report; not a new apparatus variant or extra coverage beyond this target."
+        },
+        {
+          "id": "O15-02",
+          "pdf_page": 15,
+          "anchors": [
+            "U00503"
+          ],
+          "source_span": "བཅུ་གཉིས",
+          "base_span": "བཅུ་གསུམ",
+          "category": "lexical substitution",
+          "neighboring_context": "ཞིང་ཁམས་རྣམ་པ … ལ",
+          "approximate_native_bounds": [
+            1390,
+            260,
+            1655,
+            343
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The source's second numeral word is read directly as གཉིས.",
+          "coordinator_disposition": "Record the directly read twelve against base thirteen; do not reconcile arithmetic or change Adzom."
+        },
+        {
+          "id": "O15-03",
+          "pdf_page": 15,
+          "anchors": [
+            "U00505"
+          ],
+          "source_span": "ཐལ་བ་དབྱངས་ཞེས་བྱ་བ་ཡིས",
+          "base_span": "ཐལ་བའི་དབྱངས་ཞེས་བྱ་བའི་ཡུལ",
+          "category": "lexical and grammatical difference",
+          "neighboring_context": "འོག་ན་ནི<C> … <C> རྒྱ་ཁྱོན",
+          "approximate_native_bounds": [
+            2205,
+            258,
+            2740,
+            348
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The source's uncontracted བ and terminal བ་ཡིས are preserved.",
+          "coordinator_disposition": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged."
+        },
+        {
+          "id": "O15-04",
+          "pdf_page": 15,
+          "anchors": [
+            "U00508"
+          ],
+          "source_span": "བསྟན་པ་[Q15-01]འཁོར",
+          "base_span": "བསྟན་པ་དེ་ཡི་འཁོར",
+          "category": "unresolved local spelling",
+          "neighboring_context": "སྟོན་པའི … <C> སྟེང་དང",
+          "approximate_native_bounds": {
+            "question_ref": "Q15-01"
+          },
+          "confidence": {
+            "alignment": "high",
+            "lexical": "unresolved",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The genitive sequence is not expanded from the base.",
+          "coordinator_disposition": "Integrate the bounded unresolved component, not an accepted reading, omission or agreement."
+        },
+        {
+          "id": "O15-05",
+          "pdf_page": 15,
+          "anchors": [
+            "U00511"
+          ],
+          "source_span": "དྲུག་འོག་དང",
+          "base_span": "དྲུག་འོག་ཏུ",
+          "category": "lexical substitution",
+          "neighboring_context": "དེ་ནས་འཇིག་རྟེན … <C> ཐལ་བ་འཛིན",
+          "approximate_native_bounds": [
+            2830,
+            343,
+            3150,
+            431
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The terminal word is read as དང.",
+          "coordinator_disposition": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged."
+        },
+        {
+          "id": "O15-06",
+          "pdf_page": 15,
+          "anchors": [
+            "U00512"
+          ],
+          "source_span": "ཞེས་བྱ་བ་ཡིས",
+          "base_span": "ཞེས་བྱ་བ་ནི",
+          "category": "lexical substitution",
+          "neighboring_context": "ཐལ་བ་འཛིན … <C>",
+          "approximate_native_bounds": [
+            3430,
+            341,
+            3760,
+            431
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The visible ending is ཡིས.",
+          "coordinator_disposition": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged."
+        },
+        {
+          "id": "O15-07",
+          "pdf_page": 15,
+          "anchors": [
+            "U00515"
+          ],
+          "source_span": "བཀོད་པའི་གཉིས་པའོ",
+          "base_span": "བཀོད་པ་གཉིས་པའོ",
+          "category": "grammatical spelling",
+          "neighboring_context": "སྤྲས་ལེགས … <C> འདི་ནས",
+          "approximate_native_bounds": [
+            1990,
+            424,
+            2390,
+            518
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "medium",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The genitive marking after པ is retained despite the unusual construction.",
+          "coordinator_disposition": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged."
+        },
+        {
+          "id": "O15-08",
+          "pdf_page": 15,
+          "anchors": [
+            "U00517"
+          ],
+          "source_span": "ཐལ་བ་སྐྱོབ་བྱ་བ་ནི",
+          "base_span": "ཐལ་བ་སྐྱོབ་ཅེས་བྱ་བ་ནི",
+          "category": "local word absence",
+          "neighboring_context": "གསུམ་གཡས་ན<C> … <C> མར",
+          "approximate_native_bounds": [
+            3170,
+            425,
+            3630,
+            520
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "medium",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "No separate ཅེས is discerned between སྐྱོབ and བྱ in this interval.",
+          "coordinator_disposition": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged."
+        },
+        {
+          "id": "O15-09",
+          "pdf_page": 15,
+          "anchors": [
+            "U00518"
+          ],
+          "source_span": "མར / གད་དག་གིས",
+          "base_span": "མརྒད་དག་གིས",
+          "category": "physical division and spelling",
+          "neighboring_context": "Row 3 right edge → row 4 left edge",
+          "approximate_native_bounds": [
+            [
+              3640,
+              425,
+              3770,
+              516
+            ],
+            [
+              585,
+              517,
+              875,
+              603
+            ]
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "medium",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The source places མར at the previous row's end and གད at the next row's start; no stacked form is supplied across the break.",
+          "coordinator_disposition": "Record written segmentation across a physical row break; not a missing syllable or source gap."
+        },
+        {
+          "id": "O15-10",
+          "pdf_page": 15,
+          "anchors": [
+            "U00520"
+          ],
+          "source_span": "བསྟན་པ[Q15-02]་འདུལ",
+          "base_span": "བསྟན་པ་འདུལ",
+          "category": "unresolved grammatical marking",
+          "neighboring_context": "སྟོན་པའི … བའི་ཞིང",
+          "approximate_native_bounds": {
+            "question_ref": "Q15-02"
+          },
+          "confidence": {
+            "alignment": "high",
+            "lexical": "unresolved",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "A possible genitive attachment remains unresolved locally.",
+          "coordinator_disposition": "Integrate the bounded unresolved component, not an accepted reading, omission or agreement."
+        },
+        {
+          "id": "O15-11",
+          "pdf_page": 15,
+          "anchors": [
+            "U00521"
+          ],
+          "source_span": "སོ་སོའི་ལས་མཚན་བཅས་པའོ",
+          "base_span": "སོ་སོའི་ལས་དང་མཚན་བཅས་པའོ",
+          "category": "local word absence",
+          "neighboring_context": "འདུལ་བའི་ཞིང<C> … <C> དེ་ནས",
+          "approximate_native_bounds": [
+            2350,
+            513,
+            2835,
+            605
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The source proceeds directly from ལས to མཚན.",
+          "coordinator_disposition": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged."
+        },
+        {
+          "id": "O15-12",
+          "pdf_page": 15,
+          "anchors": [
+            "U00523"
+          ],
+          "source_span": "ཐལ་བ་བརྡལ / ཞེས་བྱ་ཡིས",
+          "base_span": "ཐལ་བ་བརྡལ་ཞེས་བྱ་བ་ནི",
+          "category": "lexical ending",
+          "neighboring_context": "Row 4 right edge → row 5 opening, before པདྨ",
+          "approximate_native_bounds": [
+            [
+              3420,
+              515,
+              3755,
+              602
+            ],
+            [
+              590,
+              597,
+              881,
+              689
+            ]
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The continuation reads ཞེས་བྱ་ཡིས without supplying the base's intervening བ or final ནི.",
+          "coordinator_disposition": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged."
+        },
+        {
+          "id": "O15-13",
+          "pdf_page": 15,
+          "anchors": [
+            "U00528"
+          ],
+          "source_span": "རགས་པའི་གཟུགས་ལ་སྣང་ཡོད / པ་མེད",
+          "base_span": "རགས་པའི་གཟུགས་བརྙན་སྣང་བ་མིན",
+          "category": "clause difference",
+          "neighboring_context": "འཁྲུགས་པ་ལས<C> … <C> སྟོན་པའི",
+          "approximate_native_bounds": [
+            [
+              3170,
+              593,
+              3760,
+              691
+            ],
+            [
+              585,
+              678,
+              786,
+              768
+            ]
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "medium",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The longer source sequence spans the physical row break. Its wording is retained without grammatical repair.",
+          "coordinator_disposition": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged."
+        },
+        {
+          "id": "O15-14",
+          "pdf_page": 15,
+          "anchors": [
+            "U00532"
+          ],
+          "source_span": "ཡང་སྟེང་ན[Q15-03]",
+          "base_span": "ཡང་སྟེང་ན",
+          "category": "unresolved suffix",
+          "neighboring_context": "བཅུ་དགུ་འདས་པའི … <C> ཐལ་བའི",
+          "approximate_native_bounds": {
+            "question_ref": "Q15-03"
+          },
+          "confidence": {
+            "alignment": "high",
+            "lexical": "unresolved",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The possible terminal consonant is not settled by the neighboring clear words.",
+          "coordinator_disposition": "Integrate the bounded unresolved component, not an accepted reading, omission or agreement."
+        },
+        {
+          "id": "O15-15",
+          "pdf_page": 15,
+          "anchors": [
+            "U00533"
+          ],
+          "source_span": "བེ་[Q15-04]",
+          "base_span": "བེ་ཅོན",
+          "category": "unresolved syllable",
+          "neighboring_context": "ཐལ་བའི … ཞེས་བྱ་བ",
+          "approximate_native_bounds": {
+            "question_ref": "Q15-04"
+          },
+          "confidence": {
+            "alignment": "high",
+            "lexical": "unresolved",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The disputed syllable is not supplied from the aligned name.",
+          "coordinator_disposition": "Integrate the bounded unresolved component, not an accepted reading, omission or agreement."
+        },
+        {
+          "id": "O15-16",
+          "pdf_page": 15,
+          "anchors": [
+            "U00534"
+          ],
+          "source_span": "རབ་ཏུ་རྫོགས་ཏེ་ཉམས་དགའ་བར",
+          "base_span": {
+            "reading_initial": "ལྗོངས་རབ་ཏུ",
+            "separate_annotation": "བདེ་ཡང་བྱུང"
+          },
+          "category": "local main-text absence and note-layer comparison",
+          "neighboring_context": "Immediately after U00533; before རིན་ཆེན",
+          "approximate_native_bounds": [
+            580,
+            727,
+            1120,
+            848
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "medium",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "Row 7 begins with རབ་ཏུ; no preceding ལྗོངས or separate small-note wording is discerned in this local region. This is not a claim of global absence or historical cause.",
+          "coordinator_disposition": "Record only the local main-layer start rab-tu and locally unobserved smaller note; no global absence or historical cause."
+        },
+        {
+          "id": "O15-17",
+          "pdf_page": 15,
+          "anchors": [
+            "U00535"
+          ],
+          "source_span": "སྣ་ཚོགས་ལས",
+          "base_span": "སྣ་ཚོགས་པས",
+          "category": "lexical substitution",
+          "neighboring_context": "རིན་ཆེན་སིལ་མ … <C> ངེས་པར",
+          "approximate_native_bounds": [
+            1420,
+            756,
+            1680,
+            847
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The final syllable is read as ལས.",
+          "coordinator_disposition": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged."
+        },
+        {
+          "id": "O15-18",
+          "pdf_page": 15,
+          "anchors": [
+            "U00537"
+          ],
+          "source_span": "རྫོགས་པ་གཉིས་ལྡན",
+          "base_span": "རྫོགས་གཉིས་ལྡན",
+          "category": "additional word",
+          "neighboring_context": "སྟོན་པའི་བསྟན་པ … <C> ཐོད་པའི",
+          "approximate_native_bounds": [
+            2540,
+            756,
+            2880,
+            848
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "medium",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "A separate པ is read between རྫོགས and གཉིས.",
+          "coordinator_disposition": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged."
+        },
+        {
+          "id": "O15-19",
+          "pdf_page": 15,
+          "anchors": [
+            "U00539"
+          ],
+          "source_span": "འདི་ནས་འཇིག",
+          "base_span": "U00539, initial words",
+          "category": "outgoing page correspondence",
+          "neighboring_context": {
+            "pdf16_row1": "རྟེན་བྱང་ཤར་མཚམས<C>"
+          },
+          "approximate_native_bounds": [
+            3490,
+            754,
+            3770,
+            848
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The phrase continues across the page boundary; the detached entry mark on PDF16 is kept separately from the lexical continuation.",
+          "coordinator_disposition": "Retain physical correspondence, graphic inventory or marginal uncertainty in the source-ordered report; not a new apparatus variant or extra coverage beyond this target."
+        },
+        {
+          "id": "O15-20",
+          "pdf_page": 15,
+          "anchors": [],
+          "source_span": "[Q15-M1]",
+          "base_span": null,
+          "category": "unresolved marginal material",
+          "neighboring_context": "Left label strip beneath printed 400",
+          "approximate_native_bounds": {
+            "question_ref": "Q15-M1"
+          },
+          "confidence": {
+            "alignment": "not applicable",
+            "lexical": "unresolved",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The marginal wording is not inferred from recurring titles on other pages.",
+          "coordinator_disposition": "Retain physical correspondence, graphic inventory or marginal uncertainty in the source-ordered report; not a new apparatus variant or extra coverage beyond this target."
+        },
+        {
+          "id": "O16-01",
+          "pdf_page": 16,
+          "anchors": [
+            "U00539",
+            "U00575"
+          ],
+          "source_span": "Seven main rows with C clusters; separate O+C and detached entry C; frame and marginal labels outside the main sequence",
+          "base_span": "Main-unit endings represented by ། །",
+          "category": "graphic inventory",
+          "neighboring_context": "Opening continuation རྟེན་བྱང་ཤར་མཚམས; outgoing འཇིག་རྟེན་ཁམས་ནི",
+          "approximate_native_bounds": [
+            602,
+            253,
+            3775,
+            854
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "not applicable",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The whole separator intervals are retained without conversion to double shads. No independent filler train was distinguished.",
+          "coordinator_disposition": "Retain physical correspondence, graphic inventory or marginal uncertainty in the source-ordered report; not a new apparatus variant or extra coverage beyond this target."
+        },
+        {
+          "id": "O16-02",
+          "pdf_page": 16,
+          "anchors": [
+            "U00540"
+          ],
+          "source_span": "ཞེས་བྱ་བ་ཡིས",
+          "base_span": "ཞེས་བྱ་བ་ནི",
+          "category": "lexical substitution",
+          "neighboring_context": "ཐལ་བའི་རྒྱུན … <C> མཆོད་རྟེན",
+          "approximate_native_bounds": [
+            1500,
+            260,
+            1790,
+            349
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The source has terminal ཡིས.",
+          "coordinator_disposition": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged."
+        },
+        {
+          "id": "O16-03",
+          "pdf_page": 16,
+          "anchors": [
+            "U00542"
+          ],
+          "source_span": "སྤྲས",
+          "base_span": {
+            "source_tibetan": "སྨྲས",
+            "reading_tibetan": "སྤྲས"
+          },
+          "category": "comparison with raw and edited base layers",
+          "neighboring_context": "བཀོད་པ་ལྔ་ཡིས་ཡོངས་སུ … <C>",
+          "approximate_native_bounds": [
+            2810,
+            255,
+            2970,
+            350
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "medium",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The observed stack is read as སྤྲས, agreeing with the supplied edited reading rather than its raw source string.",
+          "coordinator_disposition": "Retain source spras correspondence to the corrected base in the row ledger; no duplicate variant against the already corrected base."
+        },
+        {
+          "id": "O16-04",
+          "pdf_page": 16,
+          "anchors": [
+            "U00549"
+          ],
+          "source_span": "འབྱུང་བ[Q16-01]་སྟོན",
+          "base_span": "འབྱུང་བར་སྟོན",
+          "category": "unresolved suffix",
+          "neighboring_context": "སྟོན་པའི་བསྟན་པ … <C>",
+          "approximate_native_bounds": {
+            "question_ref": "Q16-01"
+          },
+          "confidence": {
+            "alignment": "high",
+            "lexical": "unresolved",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The possible ར remains locally unresolved.",
+          "coordinator_disposition": "Integrate the bounded unresolved component, not an accepted reading, omission or agreement."
+        },
+        {
+          "id": "O16-05",
+          "pdf_page": 16,
+          "anchors": [
+            "U00553"
+          ],
+          "source_span": "ཞེས་བྱ་བ་ཡིས",
+          "base_span": "ཞེས་བྱ་བ་ཡི",
+          "category": "lexical spelling",
+          "neighboring_context": "ཐལ་བའི་སྒྲ … <C> སྐྱོད་བྱེད",
+          "approximate_native_bounds": [
+            2580,
+            427,
+            2890,
+            521
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The final ས is visible.",
+          "coordinator_disposition": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged."
+        },
+        {
+          "id": "O16-06",
+          "pdf_page": 16,
+          "anchors": [
+            "U00558"
+          ],
+          "source_span": "བརྙན་སྣ་ཚོགས་ཀྱིས་སྐོར",
+          "base_span": "བརྙན་ཚོགས་ཀྱིས་བསྐོར",
+          "category": "additional word and spelling",
+          "neighboring_context": "མཛེས་བྱེད་གཟུགས … <C> བདེ་བའི",
+          "approximate_native_bounds": [
+            2690,
+            511,
+            3180,
+            613
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "medium",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The source includes སྣ and is read with སྐོར, without a separately discerned བ prefix.",
+          "coordinator_disposition": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged."
+        },
+        {
+          "id": "O16-07",
+          "pdf_page": 16,
+          "anchors": [
+            "U00564"
+          ],
+          "source_span": "སྐྱོད་པ",
+          "base_span": "བསྐྱོད་པ",
+          "category": "spelling",
+          "neighboring_context": "… ལས་ནི་སྒྲ་རྣམས་འབྱུང",
+          "approximate_native_bounds": [
+            2970,
+            596,
+            3150,
+            699
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "medium",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "No separate initial བ is discerned before the stack.",
+          "coordinator_disposition": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged."
+        },
+        {
+          "id": "O16-08",
+          "pdf_page": 16,
+          "anchors": [
+            "U00565"
+          ],
+          "source_span": "བསྟན་པ་རླུང་[Q16-02]",
+          "base_span": "བསྟན་པ་རླུང་གིས་གཡོ",
+          "category": "unresolved clause ending",
+          "neighboring_context": "Row 5 སྟོན་པའི → row 6 continuation; followed by ལྔ་ལྡན",
+          "approximate_native_bounds": {
+            "question_ref": "Q16-02"
+          },
+          "confidence": {
+            "alignment": "high",
+            "lexical": "unresolved",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The final grammatical and verbal components are not supplied from the formula.",
+          "coordinator_disposition": "Integrate the bounded unresolved component, not an accepted reading, omission or agreement."
+        },
+        {
+          "id": "O16-09",
+          "pdf_page": 16,
+          "anchors": [
+            "U00568"
+          ],
+          "source_span": "ཞེས་བྱ་བ",
+          "base_span": "ཞེས་བྱ་ན",
+          "category": "lexical substitution",
+          "neighboring_context": "རིན་ཆེན་ཐལ་བ … <C> བཀྲ་ཤིས",
+          "approximate_native_bounds": [
+            2520,
+            682,
+            2760,
+            777
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The final letter is read as བ.",
+          "coordinator_disposition": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged."
+        },
+        {
+          "id": "O16-10",
+          "pdf_page": 16,
+          "anchors": [
+            "U00571"
+          ],
+          "source_span": "འཕྲུལ་གྱི་ཡི་གེ་རི་མོ་མཛེས",
+          "base_span": "འཕྲུལ་གྱི་རི་མོ་ཡི་གེ་མཛེས",
+          "category": "word order",
+          "neighboring_context": "རྣམས་ཀྱིས་བརྒྱན<C> … <C> སྟོན་པའི",
+          "approximate_native_bounds": [
+            1010,
+            750,
+            1525,
+            850
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The observed order is ཡི་གེ before རི་མོ.",
+          "coordinator_disposition": "Record the source word order yi-ge then ri-mo, not a reordered base text."
+        },
+        {
+          "id": "O16-11",
+          "pdf_page": 16,
+          "anchors": [
+            "U00573"
+          ],
+          "source_span": "[Q16-03]པདྨའི་སྤྱན་གྱིས་མཛེས",
+          "base_span": "ལྡ་ལྡི་པདྨའི་སྤྱན་གྱིས་མཛེས",
+          "category": "unresolved initial syllables",
+          "neighboring_context": "གཟུགས་བརྙན་རྫོགས<C> … <C> འདི་ནས་ནུབ་བྱང",
+          "approximate_native_bounds": {
+            "question_ref": "Q16-03"
+          },
+          "confidence": {
+            "alignment": "high",
+            "lexical": "unresolved",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The initial vowel-bearing clusters remain unresolved independently of the clear following phrase.",
+          "coordinator_disposition": "Integrate the bounded unresolved component, not an accepted reading, omission or agreement."
+        },
+        {
+          "id": "O16-12",
+          "pdf_page": 16,
+          "anchors": [
+            "U00575"
+          ],
+          "source_span": "འཇིག་རྟེན་ཁམས་ནི",
+          "base_span": "U00575, initial words",
+          "category": "outgoing correspondence",
+          "neighboring_context": {
+            "pdf17_row1": "དྲུག་པ་ན<C>"
+          },
+          "approximate_native_bounds": [
+            3380,
+            750,
+            3770,
+            851
+          ],
+          "confidence": {
+            "alignment": "high",
+            "lexical": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The actual next-page opening completes the clause; the end of PDF16 is not a unit ending.",
+          "coordinator_disposition": "Retain physical correspondence, graphic inventory or marginal uncertainty in the source-ordered report; not a new apparatus variant or extra coverage beyond this target."
+        },
+        {
+          "id": "O16-13",
+          "pdf_page": 16,
+          "anchors": [],
+          "source_span": "[Q16-M1]; [Q16-M2]; [Q16-M3]",
+          "base_span": null,
+          "category": "unresolved marginal material",
+          "neighboring_context": "Left strip beneath printed 401; outside the main-text divider",
+          "approximate_native_bounds": {
+            "question_refs": [
+              "Q16-M1",
+              "Q16-M2",
+              "Q16-M3"
+            ]
+          },
+          "confidence": {
+            "alignment": "not applicable",
+            "lexical": "unresolved",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The separate marginal regions are retained without borrowing readings from PDF14 or assigning an expected numeral.",
+          "coordinator_disposition": "Retain physical correspondence, graphic inventory or marginal uncertainty in the source-ordered report; not a new apparatus variant or extra coverage beyond this target."
+        }
+      ],
+      "canonical_record_ids": [
+        "TK-COV1-B10-O14-03",
+        "TK-COV1-B10-O14-04",
+        "TK-COV1-B10-O14-05",
+        "TK-COV1-B10-O14-06",
+        "TK-COV1-B10-O14-07",
+        "TK-COV1-B10-O14-08",
+        "TK-COV1-B10-O14-09",
+        "TK-COV1-B10-O14-10",
+        "TK-COV1-B10-O14-11",
+        "TK-COV1-B10-O14-12",
+        "TK-COV1-B10-O14-13",
+        "TK-COV1-B10-O14-14",
+        "TK-COV1-B10-O14-15",
+        "TK-COV1-B10-O15-02",
+        "TK-COV1-B10-O15-03",
+        "TK-COV1-B10-O15-04",
+        "TK-COV1-B10-O15-05",
+        "TK-COV1-B10-O15-06",
+        "TK-COV1-B10-O15-07",
+        "TK-COV1-B10-O15-08",
+        "TK-COV1-B10-O15-09",
+        "TK-COV1-B10-O15-10",
+        "TK-COV1-B10-O15-11",
+        "TK-COV1-B10-O15-12",
+        "TK-COV1-B10-O15-13",
+        "TK-COV1-B10-O15-14",
+        "TK-COV1-B10-O15-15",
+        "TK-COV1-B10-O15-16",
+        "TK-COV1-B10-O15-17",
+        "TK-COV1-B10-O15-18",
+        "TK-COV1-B10-O16-02",
+        "TK-COV1-B10-O16-04",
+        "TK-COV1-B10-O16-05",
+        "TK-COV1-B10-O16-06",
+        "TK-COV1-B10-O16-07",
+        "TK-COV1-B10-O16-08",
+        "TK-COV1-B10-O16-09",
+        "TK-COV1-B10-O16-10",
+        "TK-COV1-B10-O16-11"
+      ],
+      "source_layers_and_non_main_regions": [
+        {
+          "pdf_page": 14,
+          "regions": [
+            {
+              "id": "N14-number",
+              "type": "printed page label",
+              "observed": "399",
+              "approximate_native_bounds": [
+                455,
+                282,
+                534,
+                333
+              ]
+            },
+            {
+              "id": "N14-upper",
+              "type": "upper marginal label",
+              "observed": "[Q14-M1]"
+            },
+            {
+              "id": "N14-middle",
+              "type": "isolated marginal glyph",
+              "observed": "[Q14-M2]"
+            },
+            {
+              "id": "N14-lower",
+              "type": "lower marginal label",
+              "observed": "[Q14-M3]"
+            },
+            {
+              "id": "N14-opening",
+              "type": "opening ornament and adjacent compound mark",
+              "observed": "<O><C>",
+              "approximate_native_bounds": [
+                567,
+                272,
+                684,
+                334
+              ]
+            },
+            {
+              "id": "N14-entry",
+              "type": "detached first-row entry mark",
+              "observed": "<C>",
+              "approximate_native_bounds": [
+                800,
+                277,
+                827,
+                332
+              ]
+            },
+            {
+              "id": "N14-frame",
+              "type": "frame with left label divider and right outer strip",
+              "observed": "<F>",
+              "approximate_native_bounds": [
+                440,
+                211,
+                3906,
+                893
+              ]
+            }
+          ]
+        },
+        {
+          "pdf_page": 15,
+          "regions": [
+            {
+              "id": "N15-number",
+              "type": "printed page label",
+              "observed": "400",
+              "approximate_native_bounds": [
+                486,
+                271,
+                565,
+                322
+              ]
+            },
+            {
+              "id": "N15-margin",
+              "type": "vertical marginal label",
+              "observed": "[Q15-M1]"
+            },
+            {
+              "id": "N15-frame",
+              "type": "frame with left label divider and right outer strip",
+              "observed": "<F>",
+              "approximate_native_bounds": [
+                445,
+                218,
+                3904,
+                899
+              ]
+            }
+          ]
+        },
+        {
+          "pdf_page": 16,
+          "regions": [
+            {
+              "id": "N16-number",
+              "type": "printed page label",
+              "observed": "401",
+              "approximate_native_bounds": [
+                512,
+                272,
+                578,
+                321
+              ]
+            },
+            {
+              "id": "N16-upper",
+              "type": "upper marginal label",
+              "observed": "[Q16-M1]"
+            },
+            {
+              "id": "N16-middle",
+              "type": "isolated marginal glyph",
+              "observed": "[Q16-M2]"
+            },
+            {
+              "id": "N16-lower",
+              "type": "lower marginal label",
+              "observed": "[Q16-M3]"
+            },
+            {
+              "id": "N16-opening",
+              "type": "opening ornament and adjacent compound mark",
+              "observed": "<O><C>",
+              "approximate_native_bounds": [
+                612,
+                270,
+                701,
+                326
+              ]
+            },
+            {
+              "id": "N16-entry",
+              "type": "detached first-row entry mark",
+              "observed": "<C>",
+              "approximate_native_bounds": [
+                853,
+                278,
+                880,
+                330
+              ]
+            },
+            {
+              "id": "N16-frame",
+              "type": "frame with left label divider and right outer strip",
+              "observed": "<F>",
+              "approximate_native_bounds": [
+                486,
+                219,
+                3849,
+                892
+              ]
+            }
+          ]
+        }
+      ],
+      "unread_or_uncertain_spans": [
+        {
+          "id": "Q14-01",
+          "pdf_page": 14,
+          "anchor": "U00473",
+          "native_bounds": [
+            3370,
+            343,
+            3515,
+            433
+          ],
+          "exact_question": "After the securely read ལང, is there a final ས, or only a letter limb before C?"
+        },
+        {
+          "id": "Q14-02",
+          "pdf_page": 14,
+          "anchor": "U00480",
+          "native_bounds": [
+            650,
+            511,
+            845,
+            603
+          ],
+          "exact_question": "Does the interval between འཕོངས and the following མ་སྦྱངས contain a separate དང?"
+        },
+        {
+          "id": "Q14-03",
+          "pdf_page": 14,
+          "anchor": "U00487",
+          "native_bounds": [
+            1840,
+            598,
+            2180,
+            702
+          ],
+          "exact_question": "What are the terminal syllables after རྩི་སྦྱོར and before C, including their prefixes and final consonants?"
+        },
+        {
+          "id": "Q14-04",
+          "pdf_page": 14,
+          "anchor": "U00491",
+          "native_bounds": [
+            840,
+            678,
+            956,
+            774
+          ],
+          "exact_question": "Is the syllable after རྒྱུད simply ལ, or does it carry a final ས?"
+        },
+        {
+          "id": "Q14-05",
+          "pdf_page": 14,
+          "anchor": "U00497",
+          "native_bounds": [
+            1070,
+            746,
+            1205,
+            850
+          ],
+          "exact_question": "What is the final consonant of གན… between སོང་བའི and དང་བརྒྱད: ད or ས?"
+        },
+        {
+          "id": "Q14-06",
+          "pdf_page": 14,
+          "anchor": "U00500",
+          "native_bounds": [
+            3040,
+            748,
+            3190,
+            852
+          ],
+          "exact_question": "Is a final ས present after འཇིག before པའི, or is the apparent stroke attached to the existing letters?"
+        },
+        {
+          "id": "Q14-M1",
+          "pdf_page": 14,
+          "anchor": null,
+          "native_bounds": [
+            472,
+            358,
+            545,
+            449
+          ],
+          "exact_question": "Read the complete upper marginal label beneath 399, without deriving it from another page."
+        },
+        {
+          "id": "Q14-M2",
+          "pdf_page": 14,
+          "anchor": null,
+          "native_bounds": [
+            484,
+            493,
+            539,
+            537
+          ],
+          "exact_question": "Identify the isolated middle marginal glyph; is it a letter, numeral, or nonlexical sign?"
+        },
+        {
+          "id": "Q14-M3",
+          "pdf_page": 14,
+          "anchor": null,
+          "native_bounds": [
+            473,
+            619,
+            547,
+            817
+          ],
+          "exact_question": "Read the complete lower marginal label, preserving its order and any terminal sign."
+        },
+        {
+          "id": "Q15-01",
+          "pdf_page": 15,
+          "anchor": "U00508",
+          "native_bounds": [
+            1080,
+            336,
+            1245,
+            433
+          ],
+          "exact_question": "Read the sequence between བསྟན་པ and འཁོར: is the genitive contracted or written as separate syllables?"
+        },
+        {
+          "id": "Q15-02",
+          "pdf_page": 15,
+          "anchor": "U00520",
+          "native_bounds": [
+            1910,
+            510,
+            2085,
+            612
+          ],
+          "exact_question": "Does པ after བསྟན carry a genitive attachment before འདུལ?"
+        },
+        {
+          "id": "Q15-03",
+          "pdf_page": 15,
+          "anchor": "U00532",
+          "native_bounds": [
+            3040,
+            672,
+            3200,
+            779
+          ],
+          "exact_question": "Is the ending after ཡང་སྟེང ན or ནས before C?"
+        },
+        {
+          "id": "Q15-04",
+          "pdf_page": 15,
+          "anchor": "U00533",
+          "native_bounds": [
+            3390,
+            674,
+            3570,
+            780
+          ],
+          "exact_question": "Read the syllable following བེ and preceding ཞེས, especially its vowel and final consonant."
+        },
+        {
+          "id": "Q15-M1",
+          "pdf_page": 15,
+          "anchor": null,
+          "native_bounds": [
+            484,
+            405,
+            581,
+            722
+          ],
+          "exact_question": "Read the entire vertical marginal label beneath 400, including its opening and terminal marks."
+        },
+        {
+          "id": "Q16-01",
+          "pdf_page": 16,
+          "anchor": "U00549",
+          "native_bounds": [
+            3480,
+            337,
+            3660,
+            433
+          ],
+          "exact_question": "Does the བ following འབྱུང have a final ར before སྟོན?"
+        },
+        {
+          "id": "Q16-02",
+          "pdf_page": 16,
+          "anchor": "U00565",
+          "native_bounds": [
+            830,
+            681,
+            1065,
+            779
+          ],
+          "exact_question": "Read all components after རླུང and before C, including the grammatical ending and the initial consonants of the final word."
+        },
+        {
+          "id": "Q16-03",
+          "pdf_page": 16,
+          "anchor": "U00573",
+          "native_bounds": [
+            2220,
+            747,
+            2405,
+            853
+          ],
+          "exact_question": "Read the two initial clusters before པདྨའི, distinguishing their attached vowels without using the base's ལྡ་ལྡི."
+        },
+        {
+          "id": "Q16-M1",
+          "pdf_page": 16,
+          "anchor": null,
+          "native_bounds": [
+            526,
+            343,
+            593,
+            430
+          ],
+          "exact_question": "Read the complete upper marginal label beneath 401."
+        },
+        {
+          "id": "Q16-M2",
+          "pdf_page": 16,
+          "anchor": null,
+          "native_bounds": [
+            532,
+            459,
+            585,
+            508
+          ],
+          "exact_question": "Identify the isolated middle marginal glyph without assigning an expected numeral value."
+        },
+        {
+          "id": "Q16-M3",
+          "pdf_page": 16,
+          "anchor": null,
+          "native_bounds": [
+            518,
+            630,
+            595,
+            831
+          ],
+          "exact_question": "Read the lower marginal label completely, including its final component and any attached sign."
+        }
+      ],
+      "unexamined_spans": {
+        "actual_target_omissions": [],
+        "deliberately_excluded_flanks": [
+          {
+            "pdf_page": 13,
+            "scope": "Lexical collation outside the immediate row-7 outgoing correspondence; the native layout and supplied boundary crop were inspected."
+          },
+          {
+            "pdf_page": 17,
+            "scope": "Lexical collation after the row-1 completion དྲུག་པ་ན<C>; the native layout and supplied opening crop were inspected."
+          }
+        ]
+      },
+      "next_physical_span": "Integrate B11/PDF17–19 only after its completed reader output is preserved and checked, beginning U00575 completion དྲུག་པ་ན. The disconnected Mac may have later results; inspect and preserve them before any relaunch. Retain Q14-01 through Q16-M3 and all marginal questions.",
+      "integration_20260929": {
+        "verified_inputs": {
+          "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+          "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd",
+          "images_hash_verified": 16,
+          "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-execution.json"
+        },
+        "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+        "coordinator": {
+          "summary": "Tingkye PDF14–16 integrated: twenty-one source-ordered rows and thirty-nine localized or provisional comparison observations; all twenty bounded questions remain traceable.",
+          "detail": "Every raw observation has a disposition. General graphic inventories and margins stay in the physical ledger; no compound mark is normalized to Adzom punctuation. The source twelve/thirteen numeral difference and yi-ge/ri-mo order are retained as witness observations, while the spras correspondence is not counted as another variant against the corrected base.",
+          "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged.",
+          "next_step": "Integrate B11/PDF17–19 only after its completed reader output is preserved and checked, beginning U00575 completion དྲུག་པ་ན. The disconnected Mac may have later results; inspect and preserve them before any relaunch. Retain Q14-01 through Q16-M3 and all marginal questions.",
+          "observation_dispositions": {
+            "O14-01": "Retain physical correspondence, graphic inventory or marginal uncertainty in the source-ordered report; not a new apparatus variant or extra coverage beyond this target.",
+            "O14-02": "Retain physical correspondence, graphic inventory or marginal uncertainty in the source-ordered report; not a new apparatus variant or extra coverage beyond this target.",
+            "O14-03": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged.",
+            "O14-04": "Integrate the bounded unresolved component, not an accepted reading, omission or agreement.",
+            "O14-05": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged.",
+            "O14-06": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged.",
+            "O14-07": "Integrate the bounded unresolved component, not an accepted reading, omission or agreement.",
+            "O14-08": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged.",
+            "O14-09": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged.",
+            "O14-10": "Integrate the bounded unresolved component, not an accepted reading, omission or agreement.",
+            "O14-11": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged.",
+            "O14-12": "Integrate the bounded unresolved component, not an accepted reading, omission or agreement.",
+            "O14-13": "Integrate only local absence of the reply-heading words between observed main flanks. Unread margins preclude global absence; not a missing main verse.",
+            "O14-14": "Integrate the bounded unresolved component, not an accepted reading, omission or agreement.",
+            "O14-15": "Integrate the bounded unresolved component, not an accepted reading, omission or agreement.",
+            "O14-16": "Retain physical correspondence, graphic inventory or marginal uncertainty in the source-ordered report; not a new apparatus variant or extra coverage beyond this target.",
+            "O15-01": "Retain physical correspondence, graphic inventory or marginal uncertainty in the source-ordered report; not a new apparatus variant or extra coverage beyond this target.",
+            "O15-02": "Record the directly read twelve against base thirteen; do not reconcile arithmetic or change Adzom.",
+            "O15-03": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged.",
+            "O15-04": "Integrate the bounded unresolved component, not an accepted reading, omission or agreement.",
+            "O15-05": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged.",
+            "O15-06": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged.",
+            "O15-07": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged.",
+            "O15-08": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged.",
+            "O15-09": "Record written segmentation across a physical row break; not a missing syllable or source gap.",
+            "O15-10": "Integrate the bounded unresolved component, not an accepted reading, omission or agreement.",
+            "O15-11": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged.",
+            "O15-12": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged.",
+            "O15-13": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged.",
+            "O15-14": "Integrate the bounded unresolved component, not an accepted reading, omission or agreement.",
+            "O15-15": "Integrate the bounded unresolved component, not an accepted reading, omission or agreement.",
+            "O15-16": "Record only the local main-layer start rab-tu and locally unobserved smaller note; no global absence or historical cause.",
+            "O15-17": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged.",
+            "O15-18": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged.",
+            "O15-19": "Retain physical correspondence, graphic inventory or marginal uncertainty in the source-ordered report; not a new apparatus variant or extra coverage beyond this target.",
+            "O15-20": "Retain physical correspondence, graphic inventory or marginal uncertainty in the source-ordered report; not a new apparatus variant or extra coverage beyond this target.",
+            "O16-01": "Retain physical correspondence, graphic inventory or marginal uncertainty in the source-ordered report; not a new apparatus variant or extra coverage beyond this target.",
+            "O16-02": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged.",
+            "O16-03": "Retain source spras correspondence to the corrected base in the row ledger; no duplicate variant against the already corrected base.",
+            "O16-04": "Integrate the bounded unresolved component, not an accepted reading, omission or agreement.",
+            "O16-05": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged.",
+            "O16-06": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged.",
+            "O16-07": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged.",
+            "O16-08": "Integrate the bounded unresolved component, not an accepted reading, omission or agreement.",
+            "O16-09": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged.",
+            "O16-10": "Record the source word order yi-ge then ri-mo, not a reordered base text.",
+            "O16-11": "Integrate the bounded unresolved component, not an accepted reading, omission or agreement.",
+            "O16-12": "Retain physical correspondence, graphic inventory or marginal uncertainty in the source-ordered report; not a new apparatus variant or extra coverage beyond this target.",
+            "O16-13": "Retain physical correspondence, graphic inventory or marginal uncertainty in the source-ordered report; not a new apparatus variant or extra coverage beyond this target."
+          }
+        },
+        "reader_claims_not_automatically_certified": true
+      },
+      "graphic_legend": {
+        "<C>": "Whole narrow compound separator: vertically tiered short oblique and hooked or oval strokes. Its upper component is not separately allocated as a terminal tsheg. This code does not mean the base's double shad.",
+        "<O>": "Curvilinear opening ornament; not transcribed as a lexical syllable.",
+        "<F>": "Straight frame or ruling, outside the lexical sequence.",
+        "་": "Syllabic tsheg within the transcription. Spaces around graphic codes separate records and do not reproduce measured spacing.",
+        "[Q…]": "Unresolved component at that position; its bounds and question occur once in unread_after_inspection. It may include an uncertain suffix or intervening separator.",
+        "anchor_fragments": "initial and continuation identify physical portions of a securely aligned unit, not reconstructed text.",
+        "bounds": "[left,top,right,bottom] in the declared 4350×1100 native coordinate system; visually estimated, not pixel-measured.",
+        "sign_counts": "Row C counts cover inline clusters only. Separately recorded opening ornaments and detached entry marks are excluded."
+      },
+      "independent_review": {
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd",
+        "images_hash_verified": 16,
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-execution.json",
+        "scope": {
+          "image_access_failure": null,
+          "tools_used": false,
+          "target_inspection": "All 21 physical target rows inspected left to right and represented; all target marginal regions inspected and recorded.",
+          "unresolved_material": "The 20 explicitly bounded Q entries remain unresolved; seven concern marginal regions and thirteen concern main-text components.",
+          "physical_record": "Row divisions, cross-row and cross-page continuations, compound separators, opening ornaments, detached entry marks, frames, and marginal layers are distinguished.",
+          "precision_limit": "Graphic decomposition and bounds are visual estimates. C records the whole cluster rather than certifying each tiny stroke as a particular Unicode punctuation character.",
+          "certification": "Provisional batch reading only; no complete chapter or witness certification."
+        },
+        "proposals_adopted": false
+      }
     },
     {
       "batch_id": "B11-P0017-0019",

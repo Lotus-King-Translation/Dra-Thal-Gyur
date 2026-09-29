@@ -2,13 +2,13 @@
 
 Updated 2026-09-29. **Chapter 1 is unfinished; Chapters 2–6 and the final colophon have not started.** Start at [HANDOFF.md](HANDOFF.md) for operational instructions and [WORK-QUEUE.json](WORK-QUEUE.json) for the next bounded task. This ledger records supported scholarly coverage and explicitly retained uncertainty; a saved inspection is not a whole-page collation.
 
-Preserved pre-continuation edition baseline: `afb5c5133357942267dc55fc60a1d22704d5ef08`. Current [Chapter 1](chapter-01.md) SHA-256: `5539f66992dfed5bffe5d5d1ed68821eda207408627c9e2320d2c1d2fe11fa88`. See [C1-SIGNS-01](reviews/chapter-01/continuation/C1-SIGNS-01.md) and the [C1-SIGNS-02 review](reviews/chapter-01/continuation/C1-SIGNS-02.md); these local punctuation changes do not complete the edition.
+Preserved pre-continuation edition baseline: `afb5c5133357942267dc55fc60a1d22704d5ef08`. Current [Chapter 1](chapter-01.md) SHA-256: `e06876b725dd9c13345e7e8c9ada5ae9796c4e1db1e92b10a3b79699d0dde733`. See [C1-SIGNS-01](reviews/chapter-01/continuation/C1-SIGNS-01.md) and the [C1-SIGNS-02 review](reviews/chapter-01/continuation/C1-SIGNS-02.md); these local punctuation changes do not complete the edition.
 
 ## What is already saved and integrated
 
 - **2,635 base anchors**, **359 exact supplied-transcript differences in 183 loci**, and **273 Wikisource lexical comparison blocks**.
 - **88 scan correction/source-layer/uncertainty records**, plus **13 restored main verses and one reply heading**.
-- **493 comparison records**, including qualified observations and uncertainty: Degé 56, Dzongsar 49, Gadkar 6, Langtang 2, Tharpaling 4, Tharpaling 1983 W27491 12, Tingkye 215, Tsamdrak 149. These are not a count of confirmed variants or a coverage percentage.
+- **532 comparison records**, including qualified observations and uncertainty: Degé 56, Dzongsar 49, Gadkar 6, Langtang 2, Tharpaling 4, Tharpaling 1983 W27491 12, Tingkye 254, Tsamdrak 149. Not a confirmed-variant count or a coverage percentage.
 - Adzom's continuous **main lexical** pass, its targeted annotation audit, and Dzongsar's continuous **main lexical** comparison survive. They should not be discarded or repeated wholesale.
 
 Sources: [status](STATUS.json), [interventions](chapter-01.md#scan-interventions), [comparison records](collation/chapter-01/scan-comparison-loci.json), [base coverage](collation/chapter-01/scan-coverage.json).
@@ -114,3 +114,5 @@ Langtang Chapter1 endpoint is now freshly established at PDF104/provider111 row2
 Adzom PDF14–16: eighteen source-ordered physical rows, margins, fillers and interleaved notes integrated from the preserved report; fourteen bounded questions remain. O15-3/O16-3 remain pending sign-adoption candidates; no canonical text changed.
 
 Adzom PDF1–2 title/illustrated-opening report integrated: title lines, four interrupted main rows, small source heading, margins and one physical caption row accounted for, with Q01–Q18 retained. S08 now displays a source-supported partial caption; the old proposal is retained in history. All 2,635 source anchors and thirteen restored main verses are unchanged.
+
+Tingkye PDF14–16 integrated: twenty-one source-ordered rows and thirty-nine localized or provisional comparison observations; all twenty bounded questions remain traceable. Integrate B11/PDF17–19 only after its completed reader output is preserved and checked, beginning U00575 completion དྲུག་པ་ན. The disconnected Mac may have later results; inspect and preserve them before any relaunch. Retain Q14-01 through Q16-M3 and all marginal questions.

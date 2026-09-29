@@ -27008,5 +27008,2189 @@
       },
       "coordinator_scope": "Native104 overview and both unscaled source columns at the closing/incipit, plus PDF102–103 overviews for prior context. Raw report, source-member and attachment hashes checked. Independent informed model reading, not blind or human certification."
     }
+  },
+  {
+    "id": "TK-COV1-B10-O14-03",
+    "witness": "Tingkye",
+    "units": [
+      "U00466"
+    ],
+    "base_snippet_at_review": "སྒྲ་ཡི",
+    "comparison_reading": "སྒྲ་ཡིས",
+    "status": "localized_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"high\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 14; source-member and native bounds in linked packet; bounds: [2340, 258, 2560, 340]",
+    "rationale": "The final ས is visible in the main line. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O14-03",
+        "pdf_page": 14,
+        "anchors": [
+          "U00466"
+        ],
+        "source_span": "སྒྲ་ཡིས",
+        "base_span": "སྒྲ་ཡི",
+        "category": "lexical spelling",
+        "neighboring_context": "དེ་ལྟར … དགོས་པ་ནི",
+        "approximate_native_bounds": [
+          2340,
+          258,
+          2560,
+          340
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "high",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The final ས is visible in the main line."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O14-04",
+    "witness": "Tingkye",
+    "units": [
+      "U00473"
+    ],
+    "base_snippet_at_review": "ལངས",
+    "comparison_reading": "ལང[Q14-01]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"unresolved\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 14; source-member and native bounds in linked packet; bounds: [3370, 343, 3515, 433]",
+    "rationale": "The final component remains isolated from the otherwise readable clause. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O14-04",
+        "pdf_page": 14,
+        "anchors": [
+          "U00473"
+        ],
+        "source_span": "ལང[Q14-01]",
+        "base_span": "ལངས",
+        "category": "unresolved suffix",
+        "neighboring_context": "བརྗོད་མི … <C> ཆོས་དང་ཆོས",
+        "approximate_native_bounds": [
+          3370,
+          343,
+          3515,
+          433
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "unresolved",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The final component remains isolated from the otherwise readable clause."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O14-05",
+    "witness": "Tingkye",
+    "units": [
+      "U00477"
+    ],
+    "base_snippet_at_review": "དགོས་པ་ནི",
+    "comparison_reading": "དགོས་པ་ཡིས",
+    "status": "localized_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"high\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 14; source-member and native bounds in linked packet; bounds: [2310, 428, 2645, 520]",
+    "rationale": "The source ending is read as ཡིས; it is not regularized to the base's formulation. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O14-05",
+        "pdf_page": 14,
+        "anchors": [
+          "U00477"
+        ],
+        "source_span": "དགོས་པ་ཡིས",
+        "base_span": "དགོས་པ་ནི",
+        "category": "lexical substitution",
+        "neighboring_context": "ཐུན་མོང་གྱུར་པའི … <C> སྒྲ་ཚད",
+        "approximate_native_bounds": [
+          2310,
+          428,
+          2645,
+          520
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "high",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The source ending is read as ཡིས; it is not regularized to the base's formulation."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O14-06",
+    "witness": "Tingkye",
+    "units": [
+      "U00478"
+    ],
+    "base_snippet_at_review": "བསྟན་ཆོས",
+    "comparison_reading": "བསྟན་བཅོས",
+    "status": "provisional_visual_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 14; source-member and native bounds in linked packet; bounds: [2930, 428, 3130, 522]",
+    "rationale": "The source has the additional initial བ in བཅོས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O14-06",
+        "pdf_page": 14,
+        "anchors": [
+          "U00478"
+        ],
+        "source_span": "བསྟན་བཅོས",
+        "base_span": "བསྟན་ཆོས",
+        "category": "lexical substitution",
+        "neighboring_context": "སྒྲ་ཚད་རིག་པའི … དང",
+        "approximate_native_bounds": [
+          2930,
+          428,
+          3130,
+          522
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The source has the additional initial བ in བཅོས."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O14-07",
+    "witness": "Tingkye",
+    "units": [
+      "U00480"
+    ],
+    "base_snippet_at_review": "འཕོངས་དང་མ་སྦྱངས",
+    "comparison_reading": "འཕོངས་[Q14-02]མ་སྦྱངས",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"unresolved\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 14; source-member and native bounds in linked packet; bounds: [650, 511, 845, 603]",
+    "rationale": "Neither presence nor omission of the intervening word is certified. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O14-07",
+        "pdf_page": 14,
+        "anchors": [
+          "U00480"
+        ],
+        "source_span": "འཕོངས་[Q14-02]མ་སྦྱངས",
+        "base_span": "འཕོངས་དང་མ་སྦྱངས",
+        "category": "unresolved intervening component",
+        "neighboring_context": "… ལས་རྣམས་འགྲུབ<C>",
+        "approximate_native_bounds": [
+          650,
+          511,
+          845,
+          603
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "unresolved",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "Neither presence nor omission of the intervening word is certified."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O14-08",
+    "witness": "Tingkye",
+    "units": [
+      "U00484"
+    ],
+    "base_snippet_at_review": "བརྡའ་དང་ཐ་སྙད",
+    "comparison_reading": "སྒྲ་དང་ཐ་སྙད",
+    "status": "provisional_visual_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 14; source-member and native bounds in linked packet; bounds: [2840, 513, 3170, 609]",
+    "rationale": "The initial stack is read as སྒྲ, separately from the preceding clause's ending. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O14-08",
+        "pdf_page": 14,
+        "anchors": [
+          "U00484"
+        ],
+        "source_span": "སྒྲ་དང་ཐ་སྙད",
+        "base_span": "བརྡའ་དང་ཐ་སྙད",
+        "category": "lexical substitution",
+        "neighboring_context": "བེམ་དང་རིག་བཅས … / … ལ་མཁས་འགྱུར",
+        "approximate_native_bounds": [
+          2840,
+          513,
+          3170,
+          609
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The initial stack is read as སྒྲ, separately from the preceding clause's ending."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O14-09",
+    "witness": "Tingkye",
+    "units": [
+      "U00486"
+    ],
+    "base_snippet_at_review": "བཀའ་ཡི་མཚན་ཉིད",
+    "comparison_reading": "བཀའི་མཚན་ཉིད",
+    "status": "provisional_visual_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 14; source-member and native bounds in linked packet; bounds: [1000, 599, 1290, 698]",
+    "rationale": "The genitive vowel is attached to བཀའ; a separate ཡི is not transcribed. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O14-09",
+        "pdf_page": 14,
+        "anchors": [
+          "U00486"
+        ],
+        "source_span": "བཀའི་མཚན་ཉིད",
+        "base_span": "བཀའ་ཡི་མཚན་ཉིད",
+        "category": "contracted spelling",
+        "neighboring_context": "པའི་བསྟན་བཅོས་དང<C> … ཤེས་པར་འགྱུར",
+        "approximate_native_bounds": [
+          1000,
+          599,
+          1290,
+          698
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The genitive vowel is attached to བཀའ; a separate ཡི is not transcribed."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O14-10",
+    "witness": "Tingkye",
+    "units": [
+      "U00487"
+    ],
+    "base_snippet_at_review": "སྨན་དང་རྩི་སྦྱོར་བྱེ་བྲག་འབྱེད",
+    "comparison_reading": "སྨན་དང་རྩི་སྦྱོར་[Q14-03]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"unresolved\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 14; source-member and native bounds in linked packet; bounds: [1840, 598, 2180, 702]",
+    "rationale": "The securely readable initial words do not determine the terminal syllables. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O14-10",
+        "pdf_page": 14,
+        "anchors": [
+          "U00487"
+        ],
+        "source_span": "སྨན་དང་རྩི་སྦྱོར་[Q14-03]",
+        "base_span": "སྨན་དང་རྩི་སྦྱོར་བྱེ་བྲག་འབྱེད",
+        "category": "unresolved clause ending",
+        "neighboring_context": "… <C> ཐལ་ཡིག་ཕུལ་དུ",
+        "approximate_native_bounds": [
+          1840,
+          598,
+          2180,
+          702
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "unresolved",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The securely readable initial words do not determine the terminal syllables."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O14-11",
+    "witness": "Tingkye",
+    "units": [
+      "U00490"
+    ],
+    "base_snippet_at_review": "སྒྲ་དོན་དེ་ལྟར་དགོས་པ་འགྲུབ",
+    "comparison_reading": "དེ་ལྟར་སྒྲ་དོན་དགོས་པར / འགྲུབ",
+    "status": "provisional_visual_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 14; source-member and native bounds in linked packet; bounds: [[3230, 598, 3755, 693], [558, 684, 708, 764]]",
+    "rationale": "The source places དེ་ལྟར first and reads པར before the row break; འགྲུབ starts row 6. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O14-11",
+        "pdf_page": 14,
+        "anchors": [
+          "U00490"
+        ],
+        "source_span": "དེ་ལྟར་སྒྲ་དོན་དགོས་པར / འགྲུབ",
+        "base_span": "སྒྲ་དོན་དེ་ལྟར་དགོས་པ་འགྲུབ",
+        "category": "word order and ending",
+        "neighboring_context": "ལྷུན་གྱིས་གྲུབ<C> … <C> རྒྱུད",
+        "approximate_native_bounds": [
+          [
+            3230,
+            598,
+            3755,
+            693
+          ],
+          [
+            558,
+            684,
+            708,
+            764
+          ]
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The source places དེ་ལྟར first and reads པར before the row break; འགྲུབ starts row 6."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O14-12",
+    "witness": "Tingkye",
+    "units": [
+      "U00491"
+    ],
+    "base_snippet_at_review": "རྒྱུད་ལ",
+    "comparison_reading": "རྒྱུད་ལ[Q14-04]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"unresolved\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 14; source-member and native bounds in linked packet; bounds: [840, 678, 956, 774]",
+    "rationale": "A possible additional consonant is retained as uncertainty rather than accepted or deleted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O14-12",
+        "pdf_page": 14,
+        "anchors": [
+          "U00491"
+        ],
+        "source_span": "རྒྱུད་ལ[Q14-04]",
+        "base_span": "རྒྱུད་ལ",
+        "category": "unresolved suffix",
+        "neighboring_context": "… ངེས་པའི་འཕྲུལ་འབྱེད་ཕྱེ",
+        "approximate_native_bounds": [
+          840,
+          678,
+          956,
+          774
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "unresolved",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "A possible additional consonant is retained as uncertainty rather than accepted or deleted."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O14-13",
+    "witness": "Tingkye",
+    "units": [
+      "U00491",
+      "U00492",
+      "U00493"
+    ],
+    "base_snippet_at_review": "U00492: དྲིས་ལན་ལྔ་པ།",
+    "comparison_reading": "འཕྲུལ་འབྱེད་ཕྱེ<C> ཐལ་བའི་གནས",
+    "status": "localized_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"high\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 14; source-member and native bounds in linked packet; bounds: [1110, 681, 1630, 784]",
+    "rationale": "No heading words occur in this main-line interval. The unresolved marginal labels prevent a claim that the heading is absent everywhere on the page. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O14-13",
+        "pdf_page": 14,
+        "anchors": [
+          "U00491",
+          "U00492",
+          "U00493"
+        ],
+        "source_span": "འཕྲུལ་འབྱེད་ཕྱེ<C> ཐལ་བའི་གནས",
+        "base_span": "U00492: དྲིས་ལན་ལྔ་པ།",
+        "category": "main-versus-note placement",
+        "neighboring_context": "Row 6 transition from U00491 to U00493",
+        "approximate_native_bounds": [
+          1110,
+          681,
+          1630,
+          784
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "high",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "No heading words occur in this main-line interval. The unresolved marginal labels prevent a claim that the heading is absent everywhere on the page."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O14-14",
+    "witness": "Tingkye",
+    "units": [
+      "U00497"
+    ],
+    "base_snippet_at_review": "གནད",
+    "comparison_reading": "གན[Q14-05]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"unresolved\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 14; source-member and native bounds in linked packet; bounds: [1070, 746, 1205, 850]",
+    "rationale": "The final letter is not supplied from the alignment aid. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O14-14",
+        "pdf_page": 14,
+        "anchors": [
+          "U00497"
+        ],
+        "source_span": "གན[Q14-05]",
+        "base_span": "གནད",
+        "category": "unresolved final consonant",
+        "neighboring_context": "སོང་བའི … དང་བརྒྱད",
+        "approximate_native_bounds": [
+          1070,
+          746,
+          1205,
+          850
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "unresolved",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The final letter is not supplied from the alignment aid."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O14-15",
+    "witness": "Tingkye",
+    "units": [
+      "U00500"
+    ],
+    "base_snippet_at_review": "འཇིག་པའི",
+    "comparison_reading": "འཇིག[Q14-06]་པའི",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"unresolved\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 14; source-member and native bounds in linked packet; bounds: [3040, 748, 3190, 852]",
+    "rationale": "The possible additional stroke is not silently absorbed into a letter limb or asserted as ས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p014-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O14-15",
+        "pdf_page": 14,
+        "anchors": [
+          "U00500"
+        ],
+        "source_span": "འཇིག[Q14-06]་པའི",
+        "base_span": "འཇིག་པའི",
+        "category": "unresolved suffix",
+        "neighboring_context": "གནས་པ་ཉིད་དང … དུས",
+        "approximate_native_bounds": [
+          3040,
+          748,
+          3190,
+          852
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "unresolved",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The possible additional stroke is not silently absorbed into a letter limb or asserted as ས."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O15-02",
+    "witness": "Tingkye",
+    "units": [
+      "U00503"
+    ],
+    "base_snippet_at_review": "བཅུ་གསུམ",
+    "comparison_reading": "བཅུ་གཉིས",
+    "status": "localized_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"high\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 15; source-member and native bounds in linked packet; bounds: [1390, 260, 1655, 343]",
+    "rationale": "The source's second numeral word is read directly as གཉིས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O15-02",
+        "pdf_page": 15,
+        "anchors": [
+          "U00503"
+        ],
+        "source_span": "བཅུ་གཉིས",
+        "base_span": "བཅུ་གསུམ",
+        "category": "lexical substitution",
+        "neighboring_context": "ཞིང་ཁམས་རྣམ་པ … ལ",
+        "approximate_native_bounds": [
+          1390,
+          260,
+          1655,
+          343
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "high",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The source's second numeral word is read directly as གཉིས."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O15-03",
+    "witness": "Tingkye",
+    "units": [
+      "U00505"
+    ],
+    "base_snippet_at_review": "ཐལ་བའི་དབྱངས་ཞེས་བྱ་བའི་ཡུལ",
+    "comparison_reading": "ཐལ་བ་དབྱངས་ཞེས་བྱ་བ་ཡིས",
+    "status": "localized_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"high\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 15; source-member and native bounds in linked packet; bounds: [2205, 258, 2740, 348]",
+    "rationale": "The source's uncontracted བ and terminal བ་ཡིས are preserved. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O15-03",
+        "pdf_page": 15,
+        "anchors": [
+          "U00505"
+        ],
+        "source_span": "ཐལ་བ་དབྱངས་ཞེས་བྱ་བ་ཡིས",
+        "base_span": "ཐལ་བའི་དབྱངས་ཞེས་བྱ་བའི་ཡུལ",
+        "category": "lexical and grammatical difference",
+        "neighboring_context": "འོག་ན་ནི<C> … <C> རྒྱ་ཁྱོན",
+        "approximate_native_bounds": [
+          2205,
+          258,
+          2740,
+          348
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "high",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The source's uncontracted བ and terminal བ་ཡིས are preserved."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O15-04",
+    "witness": "Tingkye",
+    "units": [
+      "U00508"
+    ],
+    "base_snippet_at_review": "བསྟན་པ་དེ་ཡི་འཁོར",
+    "comparison_reading": "བསྟན་པ་[Q15-01]འཁོར",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"unresolved\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 15; source-member and native bounds in linked packet; bounds: [1080, 336, 1245, 433]",
+    "rationale": "The genitive sequence is not expanded from the base. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O15-04",
+        "pdf_page": 15,
+        "anchors": [
+          "U00508"
+        ],
+        "source_span": "བསྟན་པ་[Q15-01]འཁོར",
+        "base_span": "བསྟན་པ་དེ་ཡི་འཁོར",
+        "category": "unresolved local spelling",
+        "neighboring_context": "སྟོན་པའི … <C> སྟེང་དང",
+        "approximate_native_bounds": [
+          1080,
+          336,
+          1245,
+          433
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "unresolved",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The genitive sequence is not expanded from the base."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O15-05",
+    "witness": "Tingkye",
+    "units": [
+      "U00511"
+    ],
+    "base_snippet_at_review": "དྲུག་འོག་ཏུ",
+    "comparison_reading": "དྲུག་འོག་དང",
+    "status": "localized_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"high\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 15; source-member and native bounds in linked packet; bounds: [2830, 343, 3150, 431]",
+    "rationale": "The terminal word is read as དང. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O15-05",
+        "pdf_page": 15,
+        "anchors": [
+          "U00511"
+        ],
+        "source_span": "དྲུག་འོག་དང",
+        "base_span": "དྲུག་འོག་ཏུ",
+        "category": "lexical substitution",
+        "neighboring_context": "དེ་ནས་འཇིག་རྟེན … <C> ཐལ་བ་འཛིན",
+        "approximate_native_bounds": [
+          2830,
+          343,
+          3150,
+          431
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "high",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The terminal word is read as དང."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O15-06",
+    "witness": "Tingkye",
+    "units": [
+      "U00512"
+    ],
+    "base_snippet_at_review": "ཞེས་བྱ་བ་ནི",
+    "comparison_reading": "ཞེས་བྱ་བ་ཡིས",
+    "status": "localized_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"high\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 15; source-member and native bounds in linked packet; bounds: [3430, 341, 3760, 431]",
+    "rationale": "The visible ending is ཡིས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O15-06",
+        "pdf_page": 15,
+        "anchors": [
+          "U00512"
+        ],
+        "source_span": "ཞེས་བྱ་བ་ཡིས",
+        "base_span": "ཞེས་བྱ་བ་ནི",
+        "category": "lexical substitution",
+        "neighboring_context": "ཐལ་བ་འཛིན … <C>",
+        "approximate_native_bounds": [
+          3430,
+          341,
+          3760,
+          431
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "high",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The visible ending is ཡིས."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O15-07",
+    "witness": "Tingkye",
+    "units": [
+      "U00515"
+    ],
+    "base_snippet_at_review": "བཀོད་པ་གཉིས་པའོ",
+    "comparison_reading": "བཀོད་པའི་གཉིས་པའོ",
+    "status": "provisional_visual_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 15; source-member and native bounds in linked packet; bounds: [1990, 424, 2390, 518]",
+    "rationale": "The genitive marking after པ is retained despite the unusual construction. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O15-07",
+        "pdf_page": 15,
+        "anchors": [
+          "U00515"
+        ],
+        "source_span": "བཀོད་པའི་གཉིས་པའོ",
+        "base_span": "བཀོད་པ་གཉིས་པའོ",
+        "category": "grammatical spelling",
+        "neighboring_context": "སྤྲས་ལེགས … <C> འདི་ནས",
+        "approximate_native_bounds": [
+          1990,
+          424,
+          2390,
+          518
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The genitive marking after པ is retained despite the unusual construction."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O15-08",
+    "witness": "Tingkye",
+    "units": [
+      "U00517"
+    ],
+    "base_snippet_at_review": "ཐལ་བ་སྐྱོབ་ཅེས་བྱ་བ་ནི",
+    "comparison_reading": "ཐལ་བ་སྐྱོབ་བྱ་བ་ནི",
+    "status": "provisional_visual_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 15; source-member and native bounds in linked packet; bounds: [3170, 425, 3630, 520]",
+    "rationale": "No separate ཅེས is discerned between སྐྱོབ and བྱ in this interval. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O15-08",
+        "pdf_page": 15,
+        "anchors": [
+          "U00517"
+        ],
+        "source_span": "ཐལ་བ་སྐྱོབ་བྱ་བ་ནི",
+        "base_span": "ཐལ་བ་སྐྱོབ་ཅེས་བྱ་བ་ནི",
+        "category": "local word absence",
+        "neighboring_context": "གསུམ་གཡས་ན<C> … <C> མར",
+        "approximate_native_bounds": [
+          3170,
+          425,
+          3630,
+          520
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "No separate ཅེས is discerned between སྐྱོབ and བྱ in this interval."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O15-09",
+    "witness": "Tingkye",
+    "units": [
+      "U00518"
+    ],
+    "base_snippet_at_review": "མརྒད་དག་གིས",
+    "comparison_reading": "མར / གད་དག་གིས",
+    "status": "provisional_visual_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 15; source-member and native bounds in linked packet; bounds: [[3640, 425, 3770, 516], [585, 517, 875, 603]]",
+    "rationale": "The source places མར at the previous row's end and གད at the next row's start; no stacked form is supplied across the break. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O15-09",
+        "pdf_page": 15,
+        "anchors": [
+          "U00518"
+        ],
+        "source_span": "མར / གད་དག་གིས",
+        "base_span": "མརྒད་དག་གིས",
+        "category": "physical division and spelling",
+        "neighboring_context": "Row 3 right edge → row 4 left edge",
+        "approximate_native_bounds": [
+          [
+            3640,
+            425,
+            3770,
+            516
+          ],
+          [
+            585,
+            517,
+            875,
+            603
+          ]
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The source places མར at the previous row's end and གད at the next row's start; no stacked form is supplied across the break."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O15-10",
+    "witness": "Tingkye",
+    "units": [
+      "U00520"
+    ],
+    "base_snippet_at_review": "བསྟན་པ་འདུལ",
+    "comparison_reading": "བསྟན་པ[Q15-02]་འདུལ",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"unresolved\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 15; source-member and native bounds in linked packet; bounds: [1910, 510, 2085, 612]",
+    "rationale": "A possible genitive attachment remains unresolved locally. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O15-10",
+        "pdf_page": 15,
+        "anchors": [
+          "U00520"
+        ],
+        "source_span": "བསྟན་པ[Q15-02]་འདུལ",
+        "base_span": "བསྟན་པ་འདུལ",
+        "category": "unresolved grammatical marking",
+        "neighboring_context": "སྟོན་པའི … བའི་ཞིང",
+        "approximate_native_bounds": [
+          1910,
+          510,
+          2085,
+          612
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "unresolved",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "A possible genitive attachment remains unresolved locally."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O15-11",
+    "witness": "Tingkye",
+    "units": [
+      "U00521"
+    ],
+    "base_snippet_at_review": "སོ་སོའི་ལས་དང་མཚན་བཅས་པའོ",
+    "comparison_reading": "སོ་སོའི་ལས་མཚན་བཅས་པའོ",
+    "status": "localized_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"high\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 15; source-member and native bounds in linked packet; bounds: [2350, 513, 2835, 605]",
+    "rationale": "The source proceeds directly from ལས to མཚན. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O15-11",
+        "pdf_page": 15,
+        "anchors": [
+          "U00521"
+        ],
+        "source_span": "སོ་སོའི་ལས་མཚན་བཅས་པའོ",
+        "base_span": "སོ་སོའི་ལས་དང་མཚན་བཅས་པའོ",
+        "category": "local word absence",
+        "neighboring_context": "འདུལ་བའི་ཞིང<C> … <C> དེ་ནས",
+        "approximate_native_bounds": [
+          2350,
+          513,
+          2835,
+          605
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "high",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The source proceeds directly from ལས to མཚན."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O15-12",
+    "witness": "Tingkye",
+    "units": [
+      "U00523"
+    ],
+    "base_snippet_at_review": "ཐལ་བ་བརྡལ་ཞེས་བྱ་བ་ནི",
+    "comparison_reading": "ཐལ་བ་བརྡལ / ཞེས་བྱ་ཡིས",
+    "status": "localized_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"high\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 15; source-member and native bounds in linked packet; bounds: [[3420, 515, 3755, 602], [590, 597, 881, 689]]",
+    "rationale": "The continuation reads ཞེས་བྱ་ཡིས without supplying the base's intervening བ or final ནི. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O15-12",
+        "pdf_page": 15,
+        "anchors": [
+          "U00523"
+        ],
+        "source_span": "ཐལ་བ་བརྡལ / ཞེས་བྱ་ཡིས",
+        "base_span": "ཐལ་བ་བརྡལ་ཞེས་བྱ་བ་ནི",
+        "category": "lexical ending",
+        "neighboring_context": "Row 4 right edge → row 5 opening, before པདྨ",
+        "approximate_native_bounds": [
+          [
+            3420,
+            515,
+            3755,
+            602
+          ],
+          [
+            590,
+            597,
+            881,
+            689
+          ]
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "high",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The continuation reads ཞེས་བྱ་ཡིས without supplying the base's intervening བ or final ནི."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O15-13",
+    "witness": "Tingkye",
+    "units": [
+      "U00528"
+    ],
+    "base_snippet_at_review": "རགས་པའི་གཟུགས་བརྙན་སྣང་བ་མིན",
+    "comparison_reading": "རགས་པའི་གཟུགས་ལ་སྣང་ཡོད / པ་མེད",
+    "status": "provisional_visual_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 15; source-member and native bounds in linked packet; bounds: [[3170, 593, 3760, 691], [585, 678, 786, 768]]",
+    "rationale": "The longer source sequence spans the physical row break. Its wording is retained without grammatical repair. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O15-13",
+        "pdf_page": 15,
+        "anchors": [
+          "U00528"
+        ],
+        "source_span": "རགས་པའི་གཟུགས་ལ་སྣང་ཡོད / པ་མེད",
+        "base_span": "རགས་པའི་གཟུགས་བརྙན་སྣང་བ་མིན",
+        "category": "clause difference",
+        "neighboring_context": "འཁྲུགས་པ་ལས<C> … <C> སྟོན་པའི",
+        "approximate_native_bounds": [
+          [
+            3170,
+            593,
+            3760,
+            691
+          ],
+          [
+            585,
+            678,
+            786,
+            768
+          ]
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The longer source sequence spans the physical row break. Its wording is retained without grammatical repair."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O15-14",
+    "witness": "Tingkye",
+    "units": [
+      "U00532"
+    ],
+    "base_snippet_at_review": "ཡང་སྟེང་ན",
+    "comparison_reading": "ཡང་སྟེང་ན[Q15-03]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"unresolved\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 15; source-member and native bounds in linked packet; bounds: [3040, 672, 3200, 779]",
+    "rationale": "The possible terminal consonant is not settled by the neighboring clear words. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O15-14",
+        "pdf_page": 15,
+        "anchors": [
+          "U00532"
+        ],
+        "source_span": "ཡང་སྟེང་ན[Q15-03]",
+        "base_span": "ཡང་སྟེང་ན",
+        "category": "unresolved suffix",
+        "neighboring_context": "བཅུ་དགུ་འདས་པའི … <C> ཐལ་བའི",
+        "approximate_native_bounds": [
+          3040,
+          672,
+          3200,
+          779
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "unresolved",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The possible terminal consonant is not settled by the neighboring clear words."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O15-15",
+    "witness": "Tingkye",
+    "units": [
+      "U00533"
+    ],
+    "base_snippet_at_review": "བེ་ཅོན",
+    "comparison_reading": "བེ་[Q15-04]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"unresolved\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 15; source-member and native bounds in linked packet; bounds: [3390, 674, 3570, 780]",
+    "rationale": "The disputed syllable is not supplied from the aligned name. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O15-15",
+        "pdf_page": 15,
+        "anchors": [
+          "U00533"
+        ],
+        "source_span": "བེ་[Q15-04]",
+        "base_span": "བེ་ཅོན",
+        "category": "unresolved syllable",
+        "neighboring_context": "ཐལ་བའི … ཞེས་བྱ་བ",
+        "approximate_native_bounds": [
+          3390,
+          674,
+          3570,
+          780
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "unresolved",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The disputed syllable is not supplied from the aligned name."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O15-16",
+    "witness": "Tingkye",
+    "units": [
+      "U00534"
+    ],
+    "base_snippet_at_review": "{\"reading_initial\": \"ལྗོངས་རབ་ཏུ\", \"separate_annotation\": \"བདེ་ཡང་བྱུང\"}",
+    "comparison_reading": "རབ་ཏུ་རྫོགས་ཏེ་ཉམས་དགའ་བར",
+    "status": "provisional_visual_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 15; source-member and native bounds in linked packet; bounds: [580, 727, 1120, 848]",
+    "rationale": "Row 7 begins with རབ་ཏུ; no preceding ལྗོངས or separate small-note wording is discerned in this local region. This is not a claim of global absence or historical cause. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O15-16",
+        "pdf_page": 15,
+        "anchors": [
+          "U00534"
+        ],
+        "source_span": "རབ་ཏུ་རྫོགས་ཏེ་ཉམས་དགའ་བར",
+        "base_span": {
+          "reading_initial": "ལྗོངས་རབ་ཏུ",
+          "separate_annotation": "བདེ་ཡང་བྱུང"
+        },
+        "category": "local main-text absence and note-layer comparison",
+        "neighboring_context": "Immediately after U00533; before རིན་ཆེན",
+        "approximate_native_bounds": [
+          580,
+          727,
+          1120,
+          848
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "Row 7 begins with རབ་ཏུ; no preceding ལྗོངས or separate small-note wording is discerned in this local region. This is not a claim of global absence or historical cause."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O15-17",
+    "witness": "Tingkye",
+    "units": [
+      "U00535"
+    ],
+    "base_snippet_at_review": "སྣ་ཚོགས་པས",
+    "comparison_reading": "སྣ་ཚོགས་ལས",
+    "status": "localized_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"high\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 15; source-member and native bounds in linked packet; bounds: [1420, 756, 1680, 847]",
+    "rationale": "The final syllable is read as ལས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O15-17",
+        "pdf_page": 15,
+        "anchors": [
+          "U00535"
+        ],
+        "source_span": "སྣ་ཚོགས་ལས",
+        "base_span": "སྣ་ཚོགས་པས",
+        "category": "lexical substitution",
+        "neighboring_context": "རིན་ཆེན་སིལ་མ … <C> ངེས་པར",
+        "approximate_native_bounds": [
+          1420,
+          756,
+          1680,
+          847
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "high",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The final syllable is read as ལས."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O15-18",
+    "witness": "Tingkye",
+    "units": [
+      "U00537"
+    ],
+    "base_snippet_at_review": "རྫོགས་གཉིས་ལྡན",
+    "comparison_reading": "རྫོགས་པ་གཉིས་ལྡན",
+    "status": "provisional_visual_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 15; source-member and native bounds in linked packet; bounds: [2540, 756, 2880, 848]",
+    "rationale": "A separate པ is read between རྫོགས and གཉིས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p015-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O15-18",
+        "pdf_page": 15,
+        "anchors": [
+          "U00537"
+        ],
+        "source_span": "རྫོགས་པ་གཉིས་ལྡན",
+        "base_span": "རྫོགས་གཉིས་ལྡན",
+        "category": "additional word",
+        "neighboring_context": "སྟོན་པའི་བསྟན་པ … <C> ཐོད་པའི",
+        "approximate_native_bounds": [
+          2540,
+          756,
+          2880,
+          848
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "A separate པ is read between རྫོགས and གཉིས."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O16-02",
+    "witness": "Tingkye",
+    "units": [
+      "U00540"
+    ],
+    "base_snippet_at_review": "ཞེས་བྱ་བ་ནི",
+    "comparison_reading": "ཞེས་བྱ་བ་ཡིས",
+    "status": "localized_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"high\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 16; source-member and native bounds in linked packet; bounds: [1500, 260, 1790, 349]",
+    "rationale": "The source has terminal ཡིས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O16-02",
+        "pdf_page": 16,
+        "anchors": [
+          "U00540"
+        ],
+        "source_span": "ཞེས་བྱ་བ་ཡིས",
+        "base_span": "ཞེས་བྱ་བ་ནི",
+        "category": "lexical substitution",
+        "neighboring_context": "ཐལ་བའི་རྒྱུན … <C> མཆོད་རྟེན",
+        "approximate_native_bounds": [
+          1500,
+          260,
+          1790,
+          349
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "high",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The source has terminal ཡིས."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O16-04",
+    "witness": "Tingkye",
+    "units": [
+      "U00549"
+    ],
+    "base_snippet_at_review": "འབྱུང་བར་སྟོན",
+    "comparison_reading": "འབྱུང་བ[Q16-01]་སྟོན",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"unresolved\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 16; source-member and native bounds in linked packet; bounds: [3480, 337, 3660, 433]",
+    "rationale": "The possible ར remains locally unresolved. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O16-04",
+        "pdf_page": 16,
+        "anchors": [
+          "U00549"
+        ],
+        "source_span": "འབྱུང་བ[Q16-01]་སྟོན",
+        "base_span": "འབྱུང་བར་སྟོན",
+        "category": "unresolved suffix",
+        "neighboring_context": "སྟོན་པའི་བསྟན་པ … <C>",
+        "approximate_native_bounds": [
+          3480,
+          337,
+          3660,
+          433
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "unresolved",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The possible ར remains locally unresolved."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O16-05",
+    "witness": "Tingkye",
+    "units": [
+      "U00553"
+    ],
+    "base_snippet_at_review": "ཞེས་བྱ་བ་ཡི",
+    "comparison_reading": "ཞེས་བྱ་བ་ཡིས",
+    "status": "localized_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"high\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 16; source-member and native bounds in linked packet; bounds: [2580, 427, 2890, 521]",
+    "rationale": "The final ས is visible. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O16-05",
+        "pdf_page": 16,
+        "anchors": [
+          "U00553"
+        ],
+        "source_span": "ཞེས་བྱ་བ་ཡིས",
+        "base_span": "ཞེས་བྱ་བ་ཡི",
+        "category": "lexical spelling",
+        "neighboring_context": "ཐལ་བའི་སྒྲ … <C> སྐྱོད་བྱེད",
+        "approximate_native_bounds": [
+          2580,
+          427,
+          2890,
+          521
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "high",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The final ས is visible."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O16-06",
+    "witness": "Tingkye",
+    "units": [
+      "U00558"
+    ],
+    "base_snippet_at_review": "བརྙན་ཚོགས་ཀྱིས་བསྐོར",
+    "comparison_reading": "བརྙན་སྣ་ཚོགས་ཀྱིས་སྐོར",
+    "status": "provisional_visual_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 16; source-member and native bounds in linked packet; bounds: [2690, 511, 3180, 613]",
+    "rationale": "The source includes སྣ and is read with སྐོར, without a separately discerned བ prefix. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O16-06",
+        "pdf_page": 16,
+        "anchors": [
+          "U00558"
+        ],
+        "source_span": "བརྙན་སྣ་ཚོགས་ཀྱིས་སྐོར",
+        "base_span": "བརྙན་ཚོགས་ཀྱིས་བསྐོར",
+        "category": "additional word and spelling",
+        "neighboring_context": "མཛེས་བྱེད་གཟུགས … <C> བདེ་བའི",
+        "approximate_native_bounds": [
+          2690,
+          511,
+          3180,
+          613
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The source includes སྣ and is read with སྐོར, without a separately discerned བ prefix."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O16-07",
+    "witness": "Tingkye",
+    "units": [
+      "U00564"
+    ],
+    "base_snippet_at_review": "བསྐྱོད་པ",
+    "comparison_reading": "སྐྱོད་པ",
+    "status": "provisional_visual_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 16; source-member and native bounds in linked packet; bounds: [2970, 596, 3150, 699]",
+    "rationale": "No separate initial བ is discerned before the stack. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O16-07",
+        "pdf_page": 16,
+        "anchors": [
+          "U00564"
+        ],
+        "source_span": "སྐྱོད་པ",
+        "base_span": "བསྐྱོད་པ",
+        "category": "spelling",
+        "neighboring_context": "… ལས་ནི་སྒྲ་རྣམས་འབྱུང",
+        "approximate_native_bounds": [
+          2970,
+          596,
+          3150,
+          699
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "No separate initial བ is discerned before the stack."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O16-08",
+    "witness": "Tingkye",
+    "units": [
+      "U00565"
+    ],
+    "base_snippet_at_review": "བསྟན་པ་རླུང་གིས་གཡོ",
+    "comparison_reading": "བསྟན་པ་རླུང་[Q16-02]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"unresolved\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 16; source-member and native bounds in linked packet; bounds: [830, 681, 1065, 779]",
+    "rationale": "The final grammatical and verbal components are not supplied from the formula. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O16-08",
+        "pdf_page": 16,
+        "anchors": [
+          "U00565"
+        ],
+        "source_span": "བསྟན་པ་རླུང་[Q16-02]",
+        "base_span": "བསྟན་པ་རླུང་གིས་གཡོ",
+        "category": "unresolved clause ending",
+        "neighboring_context": "Row 5 སྟོན་པའི → row 6 continuation; followed by ལྔ་ལྡན",
+        "approximate_native_bounds": [
+          830,
+          681,
+          1065,
+          779
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "unresolved",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The final grammatical and verbal components are not supplied from the formula."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O16-09",
+    "witness": "Tingkye",
+    "units": [
+      "U00568"
+    ],
+    "base_snippet_at_review": "ཞེས་བྱ་ན",
+    "comparison_reading": "ཞེས་བྱ་བ",
+    "status": "localized_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"high\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 16; source-member and native bounds in linked packet; bounds: [2520, 682, 2760, 777]",
+    "rationale": "The final letter is read as བ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O16-09",
+        "pdf_page": 16,
+        "anchors": [
+          "U00568"
+        ],
+        "source_span": "ཞེས་བྱ་བ",
+        "base_span": "ཞེས་བྱ་ན",
+        "category": "lexical substitution",
+        "neighboring_context": "རིན་ཆེན་ཐལ་བ … <C> བཀྲ་ཤིས",
+        "approximate_native_bounds": [
+          2520,
+          682,
+          2760,
+          777
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "high",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The final letter is read as བ."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O16-10",
+    "witness": "Tingkye",
+    "units": [
+      "U00571"
+    ],
+    "base_snippet_at_review": "འཕྲུལ་གྱི་རི་མོ་ཡི་གེ་མཛེས",
+    "comparison_reading": "འཕྲུལ་གྱི་ཡི་གེ་རི་མོ་མཛེས",
+    "status": "localized_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"high\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 16; source-member and native bounds in linked packet; bounds: [1010, 750, 1525, 850]",
+    "rationale": "The observed order is ཡི་གེ before རི་མོ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O16-10",
+        "pdf_page": 16,
+        "anchors": [
+          "U00571"
+        ],
+        "source_span": "འཕྲུལ་གྱི་ཡི་གེ་རི་མོ་མཛེས",
+        "base_span": "འཕྲུལ་གྱི་རི་མོ་ཡི་གེ་མཛེས",
+        "category": "word order",
+        "neighboring_context": "རྣམས་ཀྱིས་བརྒྱན<C> … <C> སྟོན་པའི",
+        "approximate_native_bounds": [
+          1010,
+          750,
+          1525,
+          850
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "high",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The observed order is ཡི་གེ before རི་མོ."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
+  },
+  {
+    "id": "TK-COV1-B10-O16-11",
+    "witness": "Tingkye",
+    "units": [
+      "U00573"
+    ],
+    "base_snippet_at_review": "ལྡ་ལྡི་པདྨའི་སྤྱན་གྱིས་མཛེས",
+    "comparison_reading": "[Q16-03]པདྨའི་སྤྱན་གྱིས་མཛེས",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"unresolved\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 16; source-member and native bounds in linked packet; bounds: [2220, 747, 2405, 853]",
+    "rationale": "The initial vowel-bearing clusters remain unresolved independently of the clear following phrase. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-native.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/p016-x2350-y0000.png",
+      "reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TINGKYE.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0014-0016",
+      "baseline_commit": "277666b80b0f84c30e61ce7ee95c9598f32dbf9c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt",
+        "sha256": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd"
+      },
+      "observation": {
+        "id": "O16-11",
+        "pdf_page": 16,
+        "anchors": [
+          "U00573"
+        ],
+        "source_span": "[Q16-03]པདྨའི་སྤྱན་གྱིས་མཛེས",
+        "base_span": "ལྡ་ལྡི་པདྨའི་སྤྱན་གྱིས་མཛེས",
+        "category": "unresolved initial syllables",
+        "neighboring_context": "གཟུགས་བརྙན་རྫོགས<C> … <C> འདི་ནས་ནུབ་བྱང",
+        "approximate_native_bounds": [
+          2220,
+          747,
+          2405,
+          853
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "unresolved",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The initial vowel-bearing clusters remain unresolved independently of the clear following phrase."
+      },
+      "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
+    }
   }
 ]
