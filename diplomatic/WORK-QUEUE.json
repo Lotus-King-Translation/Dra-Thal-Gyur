@@ -733,7 +733,14 @@
       "next_physical_span": "PDF15 row1, expected following U00383 but exact source correspondence must be established; preserve PDF14 bounded questions.",
       "current_wave_id": "CONTINUE2-W03",
       "bounded_parallel_policy": "Each reader owns one target page and at most three source pages including context; coordinator alone publishes and no unfinished page is inferred complete from a neighbor.",
-      "next_step": "Integrate saved PDF16/B04-P0016. Retain PDF15 questions Q01-Q09, including the small numeral-like mark and tiny row-end separators."
+      "next_step": "Integrate saved PDF16/B04-P0016. Retain PDF15 questions Q01-Q09, including the small numeral-like mark and tiny row-end separators.",
+      "integration_group": [
+        "B04-P0016",
+        "B05-P0017",
+        "B06-P0018",
+        "B07-P0019",
+        "B08-P0020"
+      ]
     },
     {
       "id": "C1-THARPALING",
