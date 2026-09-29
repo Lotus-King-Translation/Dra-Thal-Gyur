@@ -1,0 +1,136 @@
+{
+  "wave_id": "COVERAGE-W02",
+  "plans": [
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B14-P0017-0019",
+      "edition": "adzom-2000",
+      "target_pages": [
+        17,
+        18,
+        19
+      ],
+      "pages": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "lo": 340,
+      "hi": 450,
+      "kind": "physical",
+      "scope": "Read these three disjoint target pages in full, preserving exact source order, headings/notes, signs, margins and every bounded unresolved glyph. Neighboring pages are only joins. Earlier independently assigned target pages are not part of this coverage. Preserve the saved main lexical pass and finish physical accounting."
+    },
+    {
+      "task": "C1-TINGKYE",
+      "batch": "B11-P0017-0019",
+      "edition": "tingkye-1973",
+      "target_pages": [
+        17,
+        18,
+        19
+      ],
+      "pages": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "lo": 550,
+      "hi": 770,
+      "kind": "continuous",
+      "scope": "Read these three disjoint target pages in full, preserving exact source order, headings/notes, signs, margins and every bounded unresolved glyph. Neighboring pages are only joins. Earlier independently assigned target pages are not part of this coverage. The base is only a broad alignment aid, never source testimony."
+    },
+    {
+      "task": "C1-TSAMDRAK",
+      "batch": "B11-P0027-0029",
+      "edition": "tsamdrak-1982",
+      "target_pages": [
+        27,
+        28,
+        29
+      ],
+      "pages": [
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "lo": 760,
+      "hi": 975,
+      "kind": "continuous",
+      "scope": "Read these three disjoint target pages in full, preserving exact source order, headings/notes, signs, margins and every bounded unresolved glyph. Neighboring pages are only joins. Earlier independently assigned target pages are not part of this coverage. The base is only a broad alignment aid, never source testimony."
+    },
+    {
+      "task": "C1-DEGE",
+      "batch": "B09-P0015-0017",
+      "edition": "dege-W1ER7",
+      "target_pages": [
+        15,
+        16,
+        17
+      ],
+      "pages": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "lo": 650,
+      "hi": 870,
+      "kind": "continuous",
+      "scope": "Read these three disjoint target pages in full, preserving exact source order, headings/notes, signs, margins and every bounded unresolved glyph. Neighboring pages are only joins. Earlier independently assigned target pages are not part of this coverage. The base is only a broad alignment aid, never source testimony."
+    },
+    {
+      "task": "C1-ADZOM1973",
+      "batch": "B01-P0011-0013",
+      "edition": "adzom-1973-1977",
+      "source_pdf": "editions/adzom-1973-1977/bdrc-W1KG892.pdf",
+      "source_sha256": "ab7a3376249cd123a863578b10c1faf294d663862983d4d5cec7074dfa5f19d9",
+      "target_pages": [
+        11,
+        12,
+        13
+      ],
+      "pages": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "lo": 1,
+      "hi": 65,
+      "kind": "composite",
+      "scope": "Full-composite provider PDF11–13, root title and opening. These are printed1–3 by the saved boundary mapping, not three separate witnesses. Inventory actual exposed frames/leaves, title and foreign text, caption/illustration and source notes plus every main row and boundary. Reference is Adzom2000, not proof of this related manifestation. PDF14 is outgoing context only."
+    },
+    {
+      "task": "C1-GCN",
+      "batch": "B01-P0407-0409",
+      "edition": "gcn-manuscript",
+      "source_pdf": "editions/gcn-manuscript/bdrc-W1ER128.pdf",
+      "source_sha256": "0e32b67b69e6bc57059993c511981154c15f5eeacad2217003f03bae124f0501",
+      "target_pages": [
+        407,
+        408,
+        409
+      ],
+      "pages": [
+        407,
+        408,
+        409,
+        410
+      ],
+      "lo": 1,
+      "hi": 110,
+      "kind": "composite",
+      "scope": "Full-composite provider PDF407–409, title, illustrated opening and first continuation. Provider numbers are not BDRC preview-image indices. Inventory actual exposed leaves/frames and composite layers, title, foreign text, captions, each main row, smaller notes, margins and punctuation. The first embedded image alone is not the source page. PDF410 is context only. Retain exact cursive-reading limits."
+    }
+  ],
+  "status": "planned_not_read",
+  "maximum_parallel_readers": 6,
+  "chapter_complete": false
+}

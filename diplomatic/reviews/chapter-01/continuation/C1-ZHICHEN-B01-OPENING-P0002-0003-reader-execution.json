@@ -1,5 +1,5 @@
 {
-  "status": "running_not_accepted",
+  "status": "captured_requires_coordinator_review",
   "specification": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-spec.json",
   "request_sha256": "d09637c6b47c21e89cf49d2211be972bd9be20c88de07d36d2ac93bc8f887a98",
   "images": [
@@ -180,5 +180,14 @@
     4
   ],
   "sandbox": "read-only",
-  "editorial_decisions_made_by_wrapper": false
+  "editorial_decisions_made_by_wrapper": false,
+  "returncode": 0,
+  "unexpected_tool_items": [],
+  "unparseable_event_lines": 0,
+  "finished_at": "2026-09-29T15:24:03.336279+00:00",
+  "output_hashes": {
+    "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt": "2f2639bc7a83d6973eebd673fa8ba1457e02d84ff9a4d8fa6329fca9acb40728",
+    "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-session.jsonl": "be78d8196a46766f3b459218cc9aac94ca50f0d6ae7e8d3b894ae8ddf11564b4",
+    "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
 }

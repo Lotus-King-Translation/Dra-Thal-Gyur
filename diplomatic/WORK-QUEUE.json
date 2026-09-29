@@ -488,7 +488,7 @@
       "id": "C1-BASE-PHYSICAL",
       "kind": "base_signs_and_layers",
       "status": "in_progress",
-      "owner": "bounded-source-reader-COVERAGE-W01",
+      "owner": "coordinator-with-disjoint-bounded-readers",
       "depends_on": [
         "C1-BASE-UNCERTAINTIES"
       ],
@@ -666,6 +666,17 @@
           ],
           "scope": "Adzom PDF14–16 full physical signs, main-versus-small source layers, marginal text, frames and row-end fillers. Preserve the existing main lexical pass; record any actual new conflict rather than silently replacing it. Entry PDF14 U00277. Flanks are context only.",
           "status": "planned_not_read"
+        },
+        {
+          "batch_id": "B14-P0017-0019",
+          "target_pages": [
+            17,
+            18,
+            19
+          ],
+          "owner": "reader-C1-BASE-PHYSICAL-B14-P0017-0019",
+          "scope": "Read these three disjoint target pages in full, preserving exact source order, headings/notes, signs, margins and every bounded unresolved glyph. Neighboring pages are only joins. Earlier independently assigned target pages are not part of this coverage. Preserve the saved main lexical pass and finish physical accounting.",
+          "status": "planned_not_read"
         }
       ]
     },
@@ -722,7 +733,7 @@
       "id": "C1-TINGKYE",
       "kind": "witness_coverage",
       "status": "in_progress",
-      "owner": "bounded-source-reader-COVERAGE-W01",
+      "owner": "coordinator-with-disjoint-bounded-readers",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -772,6 +783,17 @@
           ],
           "scope": "Continuous Tingkye PDF14–16, entry U00464. All target rows and non-main material, source order and signs; previous PDF11–13 already integrated. Do not repeat earlier work except the immediate joins.",
           "status": "planned_not_read"
+        },
+        {
+          "batch_id": "B11-P0017-0019",
+          "target_pages": [
+            17,
+            18,
+            19
+          ],
+          "owner": "reader-C1-TINGKYE-B11-P0017-0019",
+          "scope": "Read these three disjoint target pages in full, preserving exact source order, headings/notes, signs, margins and every bounded unresolved glyph. Neighboring pages are only joins. Earlier independently assigned target pages are not part of this coverage. The base is only a broad alignment aid, never source testimony.",
+          "status": "planned_not_read"
         }
       ]
     },
@@ -779,7 +801,7 @@
       "id": "C1-TSAMDRAK",
       "kind": "witness_coverage",
       "status": "in_progress",
-      "owner": "bounded-source-reader-COVERAGE-W01",
+      "owner": "coordinator-with-disjoint-bounded-readers",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -825,6 +847,17 @@
             26
           ],
           "scope": "Continuous Tsamdrak PDF24–26, entry U00682. All target rows and non-main material. Exact suffix/stack uncertainty and isolated numeral-like signs must remain explicit.",
+          "status": "planned_not_read"
+        },
+        {
+          "batch_id": "B11-P0027-0029",
+          "target_pages": [
+            27,
+            28,
+            29
+          ],
+          "owner": "reader-C1-TSAMDRAK-B11-P0027-0029",
+          "scope": "Read these three disjoint target pages in full, preserving exact source order, headings/notes, signs, margins and every bounded unresolved glyph. Neighboring pages are only joins. Earlier independently assigned target pages are not part of this coverage. The base is only a broad alignment aid, never source testimony.",
           "status": "planned_not_read"
         }
       ]
@@ -881,7 +914,7 @@
       "id": "C1-DEGE",
       "kind": "witness_coverage",
       "status": "in_progress",
-      "owner": "bounded-source-reader-COVERAGE-W01",
+      "owner": "coordinator-with-disjoint-bounded-readers",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -922,6 +955,17 @@
             14
           ],
           "scope": "Continuous Degé PDF12–14. Entry is U00539 continuation following PDF11 ending འདི་ནས་འཇིག. Inspect faint main text, physically interleaved notes, margins and signs; readable later rows must not be abandoned because one span is faint.",
+          "status": "planned_not_read"
+        },
+        {
+          "batch_id": "B09-P0015-0017",
+          "target_pages": [
+            15,
+            16,
+            17
+          ],
+          "owner": "reader-C1-DEGE-B09-P0015-0017",
+          "scope": "Read these three disjoint target pages in full, preserving exact source order, headings/notes, signs, margins and every bounded unresolved glyph. Neighboring pages are only joins. Earlier independently assigned target pages are not part of this coverage. The base is only a broad alignment aid, never source testimony.",
           "status": "planned_not_read"
         }
       ]
@@ -1119,8 +1163,8 @@
     {
       "id": "C1-ADZOM1973",
       "kind": "witness_coverage",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "coordinator-with-disjoint-bounded-readers",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -1142,13 +1186,26 @@
       "report_paths": [],
       "checkpoint_commit": null,
       "blocker": null,
-      "dependency_policy": "preferred_order"
+      "dependency_policy": "preferred_order",
+      "current_claims": [
+        {
+          "batch_id": "B01-P0011-0013",
+          "target_pages": [
+            11,
+            12,
+            13
+          ],
+          "owner": "reader-C1-ADZOM1973-B01-P0011-0013",
+          "scope": "Full-composite provider PDF11–13, root title and opening. These are printed1–3 by the saved boundary mapping, not three separate witnesses. Inventory actual exposed frames/leaves, title and foreign text, caption/illustration and source notes plus every main row and boundary. Reference is Adzom2000, not proof of this related manifestation. PDF14 is outgoing context only.",
+          "status": "planned_not_read"
+        }
+      ]
     },
     {
       "id": "C1-GCN",
       "kind": "witness_coverage",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "coordinator-with-disjoint-bounded-readers",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -1173,7 +1230,20 @@
       "report_paths": [],
       "checkpoint_commit": null,
       "blocker": null,
-      "dependency_policy": "preferred_order"
+      "dependency_policy": "preferred_order",
+      "current_claims": [
+        {
+          "batch_id": "B01-P0407-0409",
+          "target_pages": [
+            407,
+            408,
+            409
+          ],
+          "owner": "reader-C1-GCN-B01-P0407-0409",
+          "scope": "Full-composite provider PDF407–409, title, illustrated opening and first continuation. Provider numbers are not BDRC preview-image indices. Inventory actual exposed leaves/frames and composite layers, title, foreign text, captions, each main row, smaller notes, margins and punctuation. The first embedded image alone is not the source page. PDF410 is context only. Retain exact cursive-reading limits.",
+          "status": "planned_not_read"
+        }
+      ]
     },
     {
       "id": "C1-TRANSCRIPT-SCOPE",

@@ -1,5 +1,5 @@
 {
-  "status": "running_not_accepted",
+  "status": "captured_requires_coordinator_review",
   "specification": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B02-BOUNDARY-P0102-0106-reader-spec.json",
   "request_sha256": "0ad62f8b3e901589b92db81bc855a55723583009a8f0e7c6cb9ecafe0f2e4df0",
   "images": [
@@ -273,5 +273,14 @@
     106
   ],
   "sandbox": "read-only",
-  "editorial_decisions_made_by_wrapper": false
+  "editorial_decisions_made_by_wrapper": false,
+  "returncode": 0,
+  "unexpected_tool_items": [],
+  "unparseable_event_lines": 0,
+  "finished_at": "2026-09-29T15:20:07.993050+00:00",
+  "output_hashes": {
+    "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B02-BOUNDARY-P0102-0106-reader-reading.txt": "345cfc5cbc0ab13c07f45b8ba560b3b0b286a48e8bfd6e09e7fc6f158b0b8996",
+    "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B02-BOUNDARY-P0102-0106-reader-session.jsonl": "e42c941f2a7db65ec33f7b16887f9b816337478cad3b5021842aa0398d120fca",
+    "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B02-BOUNDARY-P0102-0106-reader-stderr.txt": "39cf3c4130d98fe8c8ca357727ba6b4682a096fca4e2deaea4d0c0eb8467b5d2"
+  }
 }

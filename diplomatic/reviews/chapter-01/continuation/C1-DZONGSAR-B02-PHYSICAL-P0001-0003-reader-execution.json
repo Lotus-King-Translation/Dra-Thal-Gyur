@@ -1,5 +1,5 @@
 {
-  "status": "running_not_accepted",
+  "status": "captured_requires_coordinator_review",
   "specification": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-spec.json",
   "request_sha256": "b06584f389553982c721d37339ff434227e1eb29d06ba3b8667c95a5a0296b84",
   "images": [
@@ -200,5 +200,14 @@
     4
   ],
   "sandbox": "read-only",
-  "editorial_decisions_made_by_wrapper": false
+  "editorial_decisions_made_by_wrapper": false,
+  "returncode": 0,
+  "unexpected_tool_items": [],
+  "unparseable_event_lines": 0,
+  "finished_at": "2026-09-29T15:24:01.861491+00:00",
+  "output_hashes": {
+    "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-reading.txt": "c29918ed1a1995dd827acb519c0ad7bd287d044bc9de81f5177eaf5e367b12f5",
+    "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-session.jsonl": "36b878c35e493e57fdc66f3ee30ed6360cd6f1d17a4889af74bf2fafdfe7c899",
+    "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
 }

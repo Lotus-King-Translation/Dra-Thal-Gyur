@@ -1,5 +1,5 @@
 {
-  "status": "running_not_accepted",
+  "status": "captured_requires_coordinator_review",
   "specification": "diplomatic/reviews/chapter-01/continuation/C1-LANGTANG-B01-BOUNDARY-P0102-0106-reader-spec.json",
   "request_sha256": "4a2302868e5a5af298a355072d3d47e307e4db331bd118a41130cfb3ea044f59",
   "images": [
@@ -273,5 +273,14 @@
     106
   ],
   "sandbox": "read-only",
-  "editorial_decisions_made_by_wrapper": false
+  "editorial_decisions_made_by_wrapper": false,
+  "returncode": 0,
+  "unexpected_tool_items": [],
+  "unparseable_event_lines": 0,
+  "finished_at": "2026-09-29T15:23:01.278093+00:00",
+  "output_hashes": {
+    "diplomatic/reviews/chapter-01/continuation/C1-LANGTANG-B01-BOUNDARY-P0102-0106-reader-reading.txt": "81ddc6a3e7f52497172029eb3160b3e394de348459001a3acbff47f7c68f4ec1",
+    "diplomatic/reviews/chapter-01/continuation/C1-LANGTANG-B01-BOUNDARY-P0102-0106-reader-session.jsonl": "8b5a719593881c9289a90560f7037e30df1fd7f0e37c25fddc3df66cc8f5af2b",
+    "diplomatic/reviews/chapter-01/continuation/C1-LANGTANG-B01-BOUNDARY-P0102-0106-reader-stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
 }
