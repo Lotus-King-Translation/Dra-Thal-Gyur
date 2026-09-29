@@ -1,0 +1,47 @@
+{
+  "baseline": "dc30245ad3d2110f879f606892e1b38f87f93f3d",
+  "recovered_checkpoint": "d46ce1579d962c9af78b220534b59bf8942b02c2",
+  "recovery_branch": "recovery/20260929-142607-integration-draft",
+  "recovered_draft": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-CLOSE-INTEGRATION/adzom-008-010-decisions.json",
+  "recovered_draft_sha256": "3b94e37b133ca02385a6144a8a31280285fab120f59fd3a24c9487b634ab895c",
+  "reader_receipts": {
+    "8": {
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B07-P0008-reader-reading.txt",
+      "sha256": "0463ddf9c1b1d16c3d86749862c2c8abbd8d3386a08aff2f6311ad8cf9cdfd3c",
+      "images_hash_verified": 27,
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B07-P0008-reader-execution.json"
+    },
+    "9": {
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B08-P0009-reader-reading.txt",
+      "sha256": "2103886475087c54aca2cf725194a7a5f829acf95c2d73924d954eea72b7bc3e",
+      "images_hash_verified": 27,
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B08-P0009-reader-execution.json"
+    },
+    "10": {
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B09-P0010-reader-reading.txt",
+      "sha256": "4e292573e4062c532b3d4a1508bd3283c95500adfd0046d3ce2cb88bcec9309b",
+      "images_hash_verified": 27,
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B09-P0010-reader-execution.json"
+    },
+    "11": {
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B10-P0011-reader-reading.txt",
+      "sha256": "b3ea23b9a9a886f960e8d176bc43ea9ef2851d51fe627a1e35495707e905024e",
+      "images_hash_verified": 27,
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B10-P0011-reader-execution.json"
+    },
+    "12": {
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B11-P0012-reader-reading.txt",
+      "sha256": "fb4a1451f8879db492f98866b08147863637323bdda0259b135bba87951b4df8",
+      "images_hash_verified": 27,
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B11-P0012-reader-execution.json"
+    },
+    "13": {
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B12-P0013-reader-reading.txt",
+      "sha256": "7320f787bff822b23b3c5e15b0e67c3475638c4fb00b645ecf9aab8ba1812af4",
+      "images_hash_verified": 27,
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B12-P0013-reader-execution.json"
+    }
+  },
+  "scope": "Report integration; no fresh canonical Tibetan adoption in this claim.",
+  "chapter_complete": false
+}
