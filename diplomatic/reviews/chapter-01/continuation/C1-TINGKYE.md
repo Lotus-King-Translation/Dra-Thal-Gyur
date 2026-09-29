@@ -392,3 +392,15 @@ PDF4 rows4-7 followed in full, continuing U00106 to the outgoing U00127 fragment
 Next: PDF5 row1, U00127 outgoing join and U00128 onward; PDF4 targeted glyph and marginal questions remain visible.
 
 This completed bounded inspection does not certify unexamined portions of the chapter. Unresolved glyphs are not agreement, missing text, or source unavailability.
+
+## B03-P0005 — preserved review integrated
+
+Tingkye PDF5: all seven source rows from the incoming U00127 terminal to U00162 opening are integrated with bounded doubts. The source places U00143 after U00147; 35 compound terminators remain graphic inventory, not normalized double shads.
+
+[Unchanged raw report](C1-TINGKYE-B03-P0005-reader-reading.txt) · [Exact source and rows](C1-TINGKYE.json).
+
+Incoming U00127 is rechecked in its existing apparatus entry rather than duplicated. Eighteen further local or uncertain observations preserve source wording and source order; no Adzom text is changed. Medium-confidence distinctions remain qualified.
+
+**Remaining:** Integrate the saved PDF6/B04-P0006 report, preserving the PDF5 Q01-Q08 and M01 details. The continuous page traversal now reaches the PDF5 exit within U00162, not beyond it.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.

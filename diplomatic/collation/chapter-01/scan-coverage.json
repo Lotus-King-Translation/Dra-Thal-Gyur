@@ -1728,6 +1728,173 @@
         "completion_limit": "Physical traversal is complete for this target page, with three bounded reading questions and unresolved functions of the marginal trace and outer closure strokes.",
         "review_status": "Informed independent agent reading from supplied images; not blind review, human palaeographic certification or whole-chapter certification."
       }
+    },
+    {
+      "task_id": "C1-TINGKYE",
+      "batch_id": "B03-P0005",
+      "target_page": 5,
+      "report": "reviews/chapter-01/continuation/C1-TINGKYE.json",
+      "summary": "Tingkye PDF5: all seven source rows from the incoming U00127 terminal to U00162 opening are integrated with bounded doubts. The source places U00143 after U00147; 35 compound terminators remain graphic inventory, not normalized double shads.",
+      "rows_reported": 7,
+      "canonical_record_ids": [
+        "TK-CONT2-B02-O10",
+        "TK-CONT2-B03-O02",
+        "TK-CONT2-B03-O03",
+        "TK-CONT2-B03-O04",
+        "TK-CONT2-B03-O05",
+        "TK-CONT2-B03-O06",
+        "TK-CONT2-B03-O07",
+        "TK-CONT2-B03-O08",
+        "TK-CONT2-B03-O09",
+        "TK-CONT2-B03-O10",
+        "TK-CONT2-B03-O11",
+        "TK-CONT2-B03-O12",
+        "TK-CONT2-B03-O13",
+        "TK-CONT2-B03-O14",
+        "TK-CONT2-B03-O15",
+        "TK-CONT2-B03-O16",
+        "TK-CONT2-B03-O17",
+        "TK-CONT2-B03-O18",
+        "TK-CONT2-B03-O19"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "target_rows_visually_followed": 7,
+        "target_rows_declared": 7,
+        "target_unexamined_spans": 0,
+        "target_terminal_compounds_inventoried": 35,
+        "main_text_glyph_questions": 7,
+        "marginal_glyph_questions": 1,
+        "additional_ink_questions": 1,
+        "result": "Source-ordered reading supplied for the entire target page, with bounded unresolved components. Incoming U00127 reads གནང. U00143 physically follows U00147. The page exits within U00162 after འདུ.",
+        "limits": "Complete visual traversal is not complete glyph resolution or whole-page agreement. Unmarked transcriptions retain the confidence qualifications in the observations. This is an informed independent agent reading with the base visible, not blind review or human palaeographic certification; no whole-chapter certification."
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q01",
+          "location": "Row3, final cluster after བརྗོད་ཚིག",
+          "approximate_native_bounds": [
+            3580,
+            438,
+            3720,
+            528
+          ],
+          "question": "Tentatively བཞི; exact cluster and vowel reading not secure.",
+          "status": "inspected, unresolved"
+        },
+        {
+          "id": "Q02",
+          "location": "Row4, first syllable before ལྔར",
+          "approximate_native_bounds": [
+            596,
+            526,
+            660,
+            599
+          ],
+          "question": "འམ versus མ; presence of a separate initial འ is unresolved.",
+          "status": "inspected, unresolved"
+        },
+        {
+          "id": "Q03",
+          "location": "Row4 U00145, immediately before རྗོད",
+          "approximate_native_bounds": [
+            1700,
+            523,
+            1795,
+            602
+          ],
+          "question": "Possible prefixed བ versus no independent prefix; marker does not assert an extra letter.",
+          "status": "inspected, unresolved"
+        },
+        {
+          "id": "Q04",
+          "location": "Row4 U00146, consonantal group following རི",
+          "approximate_native_bounds": [
+            2280,
+            524,
+            2390,
+            603
+          ],
+          "question": "The group resembles གས or ངས; the resulting opening would be རིགས or རིངས. Neither is adopted as certain.",
+          "status": "inspected, unresolved"
+        },
+        {
+          "id": "Q05",
+          "location": "Row6 U00153, final word between གྱིས and C27",
+          "approximate_native_bounds": [
+            1370,
+            684,
+            1475,
+            765
+          ],
+          "question": "Tentative མང; a ཀྱང reading cannot be excluded from my inspection.",
+          "status": "inspected, unresolved"
+        },
+        {
+          "id": "Q06",
+          "location": "Row7 U00159, syllable between གྱི and མར",
+          "approximate_native_bounds": [
+            1670,
+            763,
+            1790,
+            833
+          ],
+          "question": "ཐོག versus ཐེག; vowel contour unresolved.",
+          "status": "inspected, unresolved"
+        },
+        {
+          "id": "Q07",
+          "location": "Row7 U00162, first word",
+          "approximate_native_bounds": [
+            3340,
+            762,
+            3435,
+            848
+          ],
+          "question": "བསྟན versus སྟན; prefixed བ not securely distinguished.",
+          "status": "inspected, unresolved"
+        },
+        {
+          "id": "Q08",
+          "location": "Leading portion of the running marginal wording, before the tentatively legible རྒྱུད་འབུམ",
+          "approximate_native_bounds": [
+            475,
+            430,
+            578,
+            565
+          ],
+          "question": "Exact lettering and any opening nonlexical component remain unresolved; no conventional title supplied.",
+          "status": "inspected, unresolved"
+        },
+        {
+          "id": "M01",
+          "location": "Row7 U00160, between ཐལ and འགྱུར",
+          "approximate_native_bounds": [
+            2250,
+            766,
+            2365,
+            826
+          ],
+          "question": "Classification of faint ink traces and separator; no lexical loss established.",
+          "status": "inspected, unresolved"
+        }
+      ],
+      "unexamined_spans": [
+        {
+          "scope": "target_page",
+          "spans": []
+        },
+        {
+          "scope": "PDF4 boundary-context page",
+          "spans": "Main text before the final U00127 fragment, and non-boundary marginal material, were not systematically collated."
+        },
+        {
+          "scope": "PDF6 boundary-context page",
+          "spans": "Main text after the incoming མཆེད་གྲུབ junction, and non-boundary marginal material, were not systematically collated."
+        }
+      ],
+      "next_physical_span": "Integrate the saved PDF6/B04-P0006 report, preserving the PDF5 Q01-Q08 and M01 details. The continuous page traversal now reaches the PDF5 exit within U00162, not beyond it.",
+      "reader_claims_require_coordinator_dispositions": true
     }
   ]
 }

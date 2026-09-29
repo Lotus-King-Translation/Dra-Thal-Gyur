@@ -108,3 +108,37 @@ def integrate_page(repo, plan, coordinator, canonical_ids=()):
     with markdown.open('a', encoding='utf-8') as handle:
         handle.write(addition)
     return verified
+
+
+def as_text(value):
+    return value if isinstance(value, str) else json.dumps(value, ensure_ascii=False)
+
+
+def comparison_record(repo, plan, observation, record_id, witness, status,
+                      decision, coordinator_scope, comparison=None):
+    """Build one explicitly selected, qualified apparatus record; no file writes."""
+    anchors = observation.get('anchors', [])
+    assert anchors and all(len(a) == 6 and a[0] == 'U' and a[1:].isdigit() for a in anchors)
+    manifest = load(repo / plan['manifest'])
+    page = plan['target_page']
+    images = [item for item in manifest['pages'] + manifest['views'] if item['pdf_page'] == page]
+    evidence = [item['path'].removeprefix('diplomatic/') for item in images]
+    raw_path = plan['output_stem'] + '-reading.txt'
+    evidence.append(raw_path.removeprefix('diplomatic/'))
+    source = observation.get('source_span', observation.get('source_spans'))
+    base = observation.get('base_span', observation.get('base_spans'))
+    bounds = observation.get('approximate_native_bounds', observation.get('approx_native_bounds'))
+    confidence = observation.get('confidence', observation.get('confidence_by_dimension', 'qualified'))
+    return {'id': record_id, 'witness': witness, 'units': list(anchors),
+            'base_snippet_at_review': as_text(base),
+            'comparison_reading': as_text(source) if comparison is None else comparison,
+            'status': status, 'confidence': as_text(confidence),
+            'locator': f'PDF {page}; source-member and native bounds in linked packet; bounds: {as_text(bounds)}',
+            'rationale': observation.get('rationale', '') + ' Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.',
+            'decision': decision, 'evidence': evidence,
+            'review': f'reviews/chapter-01/continuation/{plan["task"]}.md',
+            'continuation_provenance': {'batch_id': plan['batch'],
+                'baseline_commit': subprocess.check_output(['git', 'rev-parse', 'HEAD'], cwd=repo, text=True).strip(),
+                'raw_report': {'path': raw_path, 'sha256': sha(repo / raw_path)},
+                'observation': copy.deepcopy(observation),
+                'coordinator_scope': coordinator_scope}}
