@@ -7794,7 +7794,32 @@
         },
         "proposals_adopted": false
       }
+    },
+    {
+      "batch_id": "B07-P0009-0011",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-DEGE-20260929-new",
+      "baseline_commit": "372add7218ee390260d9884f66bc5a5f750e156d",
+      "target_pages": [
+        9,
+        10,
+        11
+      ],
+      "source_pages": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "scope": "Continue genuinely missing Degé PDF9,10,11 through all seven main rows and all source layers. Start with U00390 continuation ཐབས་ལ་བསླབ་གྱུར་ནས. PDF8/12 are boundary context only. Faint exact glyphs remain bounded unresolved; do not label available source pages inaccessible or skip the next readable sequence.",
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
     }
   ],
-  "current_wave_id": "CONTINUE2-W03"
+  "current_wave_id": "CONTINUE2-W03",
+  "current_batch_id": "B07-P0009-0011"
 }

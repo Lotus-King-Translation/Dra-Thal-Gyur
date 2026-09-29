@@ -1,0 +1,33 @@
+{
+  "task_id": "C1-DZONGSAR",
+  "status": "in_progress",
+  "baseline_commit": "372add7218ee390260d9884f66bc5a5f750e156d",
+  "declared_scope": "PDF1–121: title/portrait/foreign script, exact physical signs and notes, and all listed local uncertainties. Preserve the saved main lexical comparison PDF2–121.",
+  "chapter_complete": false,
+  "coverage_complete": false,
+  "batches": [
+    {
+      "batch_id": "B01-U00440-U00534-U00710",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-DZONGSAR-20260929-new",
+      "baseline_commit": "372add7218ee390260d9884f66bc5a5f750e156d",
+      "target_pages": [
+        22,
+        27,
+        35
+      ],
+      "source_pages": [
+        22,
+        27,
+        35
+      ],
+      "scope": "Three targeted uncertainties only, not whole-page recollation: U00440/PDF22 abraded ba-rnams segment, U00534/PDF27 main rab-tu-rdzogs and small linked ljongs-bde-yang-byung with uncertain role of ljongs, U00710/PDF35 small linked annotation above/below nus-pas-bsgyur. Keep saved full main lexical passes. Establish actual neighbor context, glyph components and source-layer evidence; resolve only source-supported letters; physical smaller lettering does not alone settle semantic role.",
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-DZONGSAR/B01-U00440-U00534-U00710/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B01-U00440-U00534-U00710-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
+    }
+  ],
+  "current_batch_id": "B01-U00440-U00534-U00710"
+}

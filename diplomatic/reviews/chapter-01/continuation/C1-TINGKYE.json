@@ -13686,6 +13686,30 @@
         },
         "proposals_adopted": false
       }
+    },
+    {
+      "batch_id": "B09-P0011-0013",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-TINGKYE-20260929-new",
+      "baseline_commit": "372add7218ee390260d9884f66bc5a5f750e156d",
+      "target_pages": [
+        11,
+        12,
+        13
+      ],
+      "source_pages": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "scope": "Continue the genuinely missing continuous Tingkye comparison through all seven main rows of PDF11,12,13. Start at PDF11 U00348 continuation པ་དང་གཞུང་གིས་ཀྱང. PDF10/14 are boundary context only. Do not repeat already integrated pages. Compare lexical text, all source layers and graphic punctuation; record exact unresolved components rather than omit rows.",
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
     }
   ],
   "remaining_declared_scope": "PDF3 local uncertainties/signs/margins; PDF4 rows4-7 and listed questions; PDF5 all; PDF6 outside U180-184 junction; PDF7 all; remainder of declared witness coverage unchanged.",
@@ -13741,7 +13765,7 @@
     }
   ],
   "prior_material_limits": "Archived61-69 commands and the retained 176-finding summary are hypotheses/provenance, not a recovered continuous body or new scan agreement. No archived script was executed. Current PDF6 junction review supersedes the old U183/U184 absence and U182 nas-addition claims. Earlier opening and boundary records remain partial.",
-  "current_batch_id": "B02-P0004-R4-R7",
+  "current_batch_id": "B09-P0011-0013",
   "next_physical_span": "PDF5 row1, U00127 outgoing join and U00128 onward; PDF4 targeted glyph and marginal questions remain visible.",
   "current_wave_id": "CONTINUE2-W03"
 }

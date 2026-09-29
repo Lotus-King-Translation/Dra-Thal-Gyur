@@ -645,7 +645,10 @@
       "completion_criteria": [
         "Apply every coverage_review criterion to the full stated scope; retain exact remaining spans until completed."
       ],
-      "report_paths": [],
+      "report_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR.md"
+      ],
       "checkpoint_commit": null,
       "blocker": null,
       "dependency_policy": "preferred_order",

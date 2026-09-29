@@ -20,7 +20,10 @@
       ],
       "lo": 338,
       "hi": 485,
-      "scope": "Continue the genuinely missing continuous Tingkye comparison through all seven main rows of PDF11,12,13. Start at PDF11 U00348 continuation པ་དང་གཞུང་གིས་ཀྱང. PDF10/14 are boundary context only. Do not repeat already integrated pages. Compare lexical text, all source layers and graphic punctuation; record exact unresolved components rather than omit rows."
+      "scope": "Continue the genuinely missing continuous Tingkye comparison through all seven main rows of PDF11,12,13. Start at PDF11 U00348 continuation པ་དང་གཞུང་གིས་ཀྱང. PDF10/14 are boundary context only. Do not repeat already integrated pages. Compare lexical text, all source layers and graphic punctuation; record exact unresolved components rather than omit rows.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-spec.json"
     },
     {
       "task": "C1-TSAMDRAK",
@@ -41,7 +44,10 @@
       ],
       "lo": 570,
       "hi": 700,
-      "scope": "Continue genuinely missing Tsamdrak PDF21,22,23 through every main row and non-main region. Start with U00581 continuation པ་རྣམས་ཀྱིས་བསྐོར. PDF20/24 provide boundary context only. Preserve actual source repetitions, differing clause order, short marks and heading layers; no source normalization."
+      "scope": "Continue genuinely missing Tsamdrak PDF21,22,23 through every main row and non-main region. Start with U00581 continuation པ་རྣམས་ཀྱིས་བསྐོར. PDF20/24 provide boundary context only. Preserve actual source repetitions, differing clause order, short marks and heading layers; no source normalization.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-spec.json"
     },
     {
       "task": "C1-DEGE",
@@ -62,7 +68,10 @@
       ],
       "lo": 380,
       "hi": 555,
-      "scope": "Continue genuinely missing Degé PDF9,10,11 through all seven main rows and all source layers. Start with U00390 continuation ཐབས་ལ་བསླབ་གྱུར་ནས. PDF8/12 are boundary context only. Faint exact glyphs remain bounded unresolved; do not label available source pages inaccessible or skip the next readable sequence."
+      "scope": "Continue genuinely missing Degé PDF9,10,11 through all seven main rows and all source layers. Start with U00390 continuation ཐབས་ལ་བསླབ་གྱུར་ནས. PDF8/12 are boundary context only. Faint exact glyphs remain bounded unresolved; do not label available source pages inaccessible or skip the next readable sequence.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-spec.json"
     },
     {
       "task": "C1-DZONGSAR",
@@ -81,11 +90,15 @@
       ],
       "lo": 425,
       "hi": 725,
-      "scope": "Three targeted uncertainties only, not whole-page recollation: U00440/PDF22 abraded ba-rnams segment, U00534/PDF27 main rab-tu-rdzogs and small linked ljongs-bde-yang-byung with uncertain role of ljongs, U00710/PDF35 small linked annotation above/below nus-pas-bsgyur. Keep saved full main lexical passes. Establish actual neighbor context, glyph components and source-layer evidence; resolve only source-supported letters; physical smaller lettering does not alone settle semantic role."
+      "scope": "Three targeted uncertainties only, not whole-page recollation: U00440/PDF22 abraded ba-rnams segment, U00534/PDF27 main rab-tu-rdzogs and small linked ljongs-bde-yang-byung with uncertain role of ljongs, U00710/PDF35 small linked annotation above/below nus-pas-bsgyur. Keep saved full main lexical passes. Establish actual neighbor context, glyph components and source-layer evidence; resolve only source-supported letters; physical smaller lettering does not alone settle semantic role.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-DZONGSAR/B01-U00440-U00534-U00710/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B01-U00440-U00534-U00710-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B01-U00440-U00534-U00710-reader-spec.json"
     }
   ],
   "maximum_parallel_readers": 4,
-  "status": "planned_not_prepared",
+  "status": "prepared_requests_pending_checkpoint",
   "chapter_complete": false,
-  "existing_base_report_read_request": "Adzom8-13 summary request remains paused after identical retries. This wave does not reread those reports or source targets."
+  "existing_base_report_read_request": "Adzom8-13 summary request remains paused after identical retries. This wave does not reread those reports or source targets.",
+  "prepared_at_commit": "372add7218ee390260d9884f66bc5a5f750e156d"
 }

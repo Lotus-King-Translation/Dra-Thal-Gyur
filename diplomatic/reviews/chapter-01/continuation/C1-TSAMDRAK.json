@@ -10750,6 +10750,30 @@
         },
         "proposals_adopted": false
       }
+    },
+    {
+      "batch_id": "B09-P0021-0023",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-TSAMDRAK-20260929-new",
+      "baseline_commit": "372add7218ee390260d9884f66bc5a5f750e156d",
+      "target_pages": [
+        21,
+        22,
+        23
+      ],
+      "source_pages": [
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "scope": "Continue genuinely missing Tsamdrak PDF21,22,23 through every main row and non-main region. Start with U00581 continuation པ་རྣམས་ཀྱིས་བསྐོར. PDF20/24 provide boundary context only. Preserve actual source repetitions, differing clause order, short marks and heading layers; no source normalization.",
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
     }
   ],
   "remaining_declared_scope": "Resolve recorded opening1–13 suffix/stack uncertainties; reliable continuous PDF14–83 through row6, including signs/source notes.",
@@ -10772,7 +10796,7 @@
     }
   ],
   "reliability_assessment": "Visual reading occurred. The inspection distinguishes the two opening constructions and supports a specific final-sa omission at U00148. It does not resolve the lower component distinguishing bstan from bstun at U00012; a claim that all three questions are settled would exceed this reading.",
-  "current_batch_id": "B02-P0014",
+  "current_batch_id": "B09-P0021-0023",
   "next_physical_span": "PDF15 row1, expected following U00383 but exact source correspondence must be established; preserve PDF14 bounded questions.",
   "current_wave_id": "CONTINUE2-W03"
 }
