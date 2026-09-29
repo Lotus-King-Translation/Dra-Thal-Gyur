@@ -4,7 +4,7 @@
   "canonical_branch": "main",
   "current_chapter": 1,
   "chapter_status": "in_progress_not_ready",
-  "next_task_id": "C1-DEGE",
+  "next_task_id": "C1-BASE-PHYSICAL",
   "path_base": "repository root; JSON pointers identify records without changing their historical contents",
   "scope": "Continuation queue, not a whole-chapter collation claim. Thirty punctuation candidate identities remain tracked, including completed dispositions; unfinished items are hypotheses, not accepted readings. Existing Adzom and Dzongsar main lexical passes remain valid within their recorded scopes.",
   "reference_paths": [
@@ -799,8 +799,9 @@
       "blocker": null,
       "dependency_policy": "preferred_order",
       "current_wave_id": "CONTINUE2-W03",
-      "current_batch_id": "B01-P0003",
-      "bounded_parallel_policy": "Each reader owns one target page and at most three source pages including context; coordinator alone publishes and no unfinished page is inferred complete from a neighbor."
+      "current_batch_id": "B02-P0004",
+      "bounded_parallel_policy": "Each reader owns one target page and at most three source pages including context; coordinator alone publishes and no unfinished page is inferred complete from a neighbor.",
+      "next_step": "Integrate saved PDF4/B02-P0004. Retain all PDF3 Q01-Q15 and non-main/graphic questions M01Q-M03Q and SG01-SG03."
     },
     {
       "id": "C1-GADKAR",

@@ -7436,5 +7436,935 @@
       },
       "coordinator_scope": "Native full-page overview and three overlapping full-height columns inspected for all seven rows, local headword correspondence and selected discriminating readings; unclear stacks and suffixes remain qualified."
     }
+  },
+  {
+    "id": "DG-CONT2-B01-Q01",
+    "witness": "Degé",
+    "units": [
+      "U00102"
+    ],
+    "base_snippet_at_review": "སངས་རྒྱས་བརྗོད་དུ་མེད་པ་ཡིས། །",
+    "comparison_reading": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+    "status": "inspected_bounded_reading_uncertainty",
+    "confidence": "{\"physical_locator\": \"scoped to source report\", \"exact_component_reading\": \"unresolved\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [1125, 108, 1215, 178]",
+    "rationale": "Resolve the compact syllables between བརྗོད and པ་ཡིས; upper marks and letter bodies are not securely separable. The stored candidate དུ་མེད remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003",
+      "baseline_commit": "323a0678fe7fe82438b94b24f413b114de60a142",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt",
+        "sha256": "d345dcb8481077097c0dc96a0e6d25832a8c25a8092357a6265dd752f912454c"
+      },
+      "observation": {
+        "id": "Q01",
+        "anchors": [
+          "U00102"
+        ],
+        "source_span": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+        "base_span": "སངས་རྒྱས་བརྗོད་དུ་མེད་པ་ཡིས། །",
+        "approximate_native_bounds": [
+          1125,
+          108,
+          1215,
+          178
+        ],
+        "confidence": {
+          "physical_locator": "scoped to source report",
+          "exact_component_reading": "unresolved"
+        },
+        "rationale": "Resolve the compact syllables between བརྗོད and པ་ཡིས; upper marks and letter bodies are not securely separable. The stored candidate དུ་མེད remains unadopted."
+      },
+      "coordinator_scope": "Native color overview and both overlapping native columns inspected for source identity, all seven baselines, incoming and outgoing context and the contrast limitations of named small spans. No whole-page glyph agreement claimed.",
+      "source_record_kind": "unread_after_inspection",
+      "original_question": {
+        "id": "Q01",
+        "anchor": "U00102",
+        "approximate_native_bounds": [
+          1125,
+          108,
+          1215,
+          178
+        ],
+        "question": "Resolve the compact syllables between བརྗོད and པ་ཡིས; upper marks and letter bodies are not securely separable.",
+        "candidate_unadopted": "དུ་མེད"
+      }
+    }
+  },
+  {
+    "id": "DG-CONT2-B01-Q02",
+    "witness": "Degé",
+    "units": [
+      "U00106"
+    ],
+    "base_snippet_at_review": " སྤྲུལ་པའི་ས་བོན་ལྡང་བའོ། །",
+    "comparison_reading": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+    "status": "inspected_bounded_reading_uncertainty",
+    "confidence": "{\"physical_locator\": \"scoped to source report\", \"exact_component_reading\": \"unresolved\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [2490, 112, 2618, 178]",
+    "rationale": "Resolve the faint terminal run after ས་བོན, including the initial stack and final vowel-bearing cluster. The stored candidate ལྡང་བའོ remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003",
+      "baseline_commit": "323a0678fe7fe82438b94b24f413b114de60a142",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt",
+        "sha256": "d345dcb8481077097c0dc96a0e6d25832a8c25a8092357a6265dd752f912454c"
+      },
+      "observation": {
+        "id": "Q02",
+        "anchors": [
+          "U00106"
+        ],
+        "source_span": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+        "base_span": " སྤྲུལ་པའི་ས་བོན་ལྡང་བའོ། །",
+        "approximate_native_bounds": [
+          2490,
+          112,
+          2618,
+          178
+        ],
+        "confidence": {
+          "physical_locator": "scoped to source report",
+          "exact_component_reading": "unresolved"
+        },
+        "rationale": "Resolve the faint terminal run after ས་བོན, including the initial stack and final vowel-bearing cluster. The stored candidate ལྡང་བའོ remains unadopted."
+      },
+      "coordinator_scope": "Native color overview and both overlapping native columns inspected for source identity, all seven baselines, incoming and outgoing context and the contrast limitations of named small spans. No whole-page glyph agreement claimed.",
+      "source_record_kind": "unread_after_inspection",
+      "original_question": {
+        "id": "Q02",
+        "anchor": "U00106",
+        "approximate_native_bounds": [
+          2490,
+          112,
+          2618,
+          178
+        ],
+        "question": "Resolve the faint terminal run after ས་བོན, including the initial stack and final vowel-bearing cluster.",
+        "candidate_unadopted": "ལྡང་བའོ"
+      }
+    }
+  },
+  {
+    "id": "DG-CONT2-B01-Q03",
+    "witness": "Degé",
+    "units": [
+      "U00107"
+    ],
+    "base_snippet_at_review": "དེ་ལྟར་དངོས་ཀྱི་བསྟན་པ་ལས། །",
+    "comparison_reading": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+    "status": "inspected_bounded_reading_uncertainty",
+    "confidence": "{\"physical_locator\": \"scoped to source report\", \"exact_component_reading\": \"unresolved\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [2780, 112, 2910, 178]",
+    "rationale": "Resolve the pale final lexical run before F01; distinguish its final letter strokes from the following short marks. The stored candidate བསྟན་པ remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003",
+      "baseline_commit": "323a0678fe7fe82438b94b24f413b114de60a142",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt",
+        "sha256": "d345dcb8481077097c0dc96a0e6d25832a8c25a8092357a6265dd752f912454c"
+      },
+      "observation": {
+        "id": "Q03",
+        "anchors": [
+          "U00107"
+        ],
+        "source_span": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+        "base_span": "དེ་ལྟར་དངོས་ཀྱི་བསྟན་པ་ལས། །",
+        "approximate_native_bounds": [
+          2780,
+          112,
+          2910,
+          178
+        ],
+        "confidence": {
+          "physical_locator": "scoped to source report",
+          "exact_component_reading": "unresolved"
+        },
+        "rationale": "Resolve the pale final lexical run before F01; distinguish its final letter strokes from the following short marks. The stored candidate བསྟན་པ remains unadopted."
+      },
+      "coordinator_scope": "Native color overview and both overlapping native columns inspected for source identity, all seven baselines, incoming and outgoing context and the contrast limitations of named small spans. No whole-page glyph agreement claimed.",
+      "source_record_kind": "unread_after_inspection",
+      "original_question": {
+        "id": "Q03",
+        "anchor": "U00107",
+        "approximate_native_bounds": [
+          2780,
+          112,
+          2910,
+          178
+        ],
+        "question": "Resolve the pale final lexical run before F01; distinguish its final letter strokes from the following short marks.",
+        "candidate_unadopted": "བསྟན་པ"
+      }
+    }
+  },
+  {
+    "id": "DG-CONT2-B01-Q04",
+    "witness": "Degé",
+    "units": [
+      "U00114"
+    ],
+    "base_snippet_at_review": "དེ་ནས་ཆོས་ཉིད་ནམ་མཁའ་ལས། །",
+    "comparison_reading": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+    "status": "inspected_bounded_reading_uncertainty",
+    "confidence": "{\"physical_locator\": \"scoped to source report\", \"exact_component_reading\": \"unresolved\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [2895, 166, 2942, 231]",
+    "rationale": "Resolve the syllable following དེ at the right edge of R2. The stored candidate ནས remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003",
+      "baseline_commit": "323a0678fe7fe82438b94b24f413b114de60a142",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt",
+        "sha256": "d345dcb8481077097c0dc96a0e6d25832a8c25a8092357a6265dd752f912454c"
+      },
+      "observation": {
+        "id": "Q04",
+        "anchors": [
+          "U00114"
+        ],
+        "source_span": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+        "base_span": "དེ་ནས་ཆོས་ཉིད་ནམ་མཁའ་ལས། །",
+        "approximate_native_bounds": [
+          2895,
+          166,
+          2942,
+          231
+        ],
+        "confidence": {
+          "physical_locator": "scoped to source report",
+          "exact_component_reading": "unresolved"
+        },
+        "rationale": "Resolve the syllable following དེ at the right edge of R2. The stored candidate ནས remains unadopted."
+      },
+      "coordinator_scope": "Native color overview and both overlapping native columns inspected for source identity, all seven baselines, incoming and outgoing context and the contrast limitations of named small spans. No whole-page glyph agreement claimed.",
+      "source_record_kind": "unread_after_inspection",
+      "original_question": {
+        "id": "Q04",
+        "anchor": "U00114",
+        "approximate_native_bounds": [
+          2895,
+          166,
+          2942,
+          231
+        ],
+        "question": "Resolve the syllable following དེ at the right edge of R2.",
+        "candidate_unadopted": "ནས"
+      }
+    }
+  },
+  {
+    "id": "DG-CONT2-B01-Q05",
+    "witness": "Degé",
+    "units": [
+      "U00115"
+    ],
+    "base_snippet_at_review": "ཁྱབ་འཇུག་ཆེན་པོའི་གསུང་གིས་ནི། །",
+    "comparison_reading": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+    "status": "inspected_bounded_reading_uncertainty",
+    "confidence": "{\"physical_locator\": \"scoped to source report\", \"exact_component_reading\": \"unresolved\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [950, 211, 1082, 282]",
+    "rationale": "Resolve the closely spaced run between ཆེན་པོའི and ནི, particularly lower components and the final suffix. The stored candidate གསུང་གིས remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003",
+      "baseline_commit": "323a0678fe7fe82438b94b24f413b114de60a142",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt",
+        "sha256": "d345dcb8481077097c0dc96a0e6d25832a8c25a8092357a6265dd752f912454c"
+      },
+      "observation": {
+        "id": "Q05",
+        "anchors": [
+          "U00115"
+        ],
+        "source_span": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+        "base_span": "ཁྱབ་འཇུག་ཆེན་པོའི་གསུང་གིས་ནི། །",
+        "approximate_native_bounds": [
+          950,
+          211,
+          1082,
+          282
+        ],
+        "confidence": {
+          "physical_locator": "scoped to source report",
+          "exact_component_reading": "unresolved"
+        },
+        "rationale": "Resolve the closely spaced run between ཆེན་པོའི and ནི, particularly lower components and the final suffix. The stored candidate གསུང་གིས remains unadopted."
+      },
+      "coordinator_scope": "Native color overview and both overlapping native columns inspected for source identity, all seven baselines, incoming and outgoing context and the contrast limitations of named small spans. No whole-page glyph agreement claimed.",
+      "source_record_kind": "unread_after_inspection",
+      "original_question": {
+        "id": "Q05",
+        "anchor": "U00115",
+        "approximate_native_bounds": [
+          950,
+          211,
+          1082,
+          282
+        ],
+        "question": "Resolve the closely spaced run between ཆེན་པོའི and ནི, particularly lower components and the final suffix.",
+        "candidate_unadopted": "གསུང་གིས"
+      }
+    }
+  },
+  {
+    "id": "DG-CONT2-B01-Q06",
+    "witness": "Degé",
+    "units": [
+      "U00120"
+    ],
+    "base_snippet_at_review": "རྒྱུད་ཀྱི་རྒྱལ་པོ་འདི་ཉིད་ནི། །",
+    "comparison_reading": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+    "status": "inspected_bounded_reading_uncertainty",
+    "confidence": "{\"physical_locator\": \"scoped to source report\", \"exact_component_reading\": \"unresolved\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [2795, 211, 2927, 282]",
+    "rationale": "Resolve the faint run between རྒྱལ་པོ and final ནི. The stored candidate འདི་ཉིད remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003",
+      "baseline_commit": "323a0678fe7fe82438b94b24f413b114de60a142",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt",
+        "sha256": "d345dcb8481077097c0dc96a0e6d25832a8c25a8092357a6265dd752f912454c"
+      },
+      "observation": {
+        "id": "Q06",
+        "anchors": [
+          "U00120"
+        ],
+        "source_span": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+        "base_span": "རྒྱུད་ཀྱི་རྒྱལ་པོ་འདི་ཉིད་ནི། །",
+        "approximate_native_bounds": [
+          2795,
+          211,
+          2927,
+          282
+        ],
+        "confidence": {
+          "physical_locator": "scoped to source report",
+          "exact_component_reading": "unresolved"
+        },
+        "rationale": "Resolve the faint run between རྒྱལ་པོ and final ནི. The stored candidate འདི་ཉིད remains unadopted."
+      },
+      "coordinator_scope": "Native color overview and both overlapping native columns inspected for source identity, all seven baselines, incoming and outgoing context and the contrast limitations of named small spans. No whole-page glyph agreement claimed.",
+      "source_record_kind": "unread_after_inspection",
+      "original_question": {
+        "id": "Q06",
+        "anchor": "U00120",
+        "approximate_native_bounds": [
+          2795,
+          211,
+          2927,
+          282
+        ],
+        "question": "Resolve the faint run between རྒྱལ་པོ and final ནི.",
+        "candidate_unadopted": "འདི་ཉིད"
+      }
+    }
+  },
+  {
+    "id": "DG-CONT2-B01-Q07",
+    "witness": "Degé",
+    "units": [
+      "U00127"
+    ],
+    "base_snippet_at_review": "སྟོན་པས་བྱིན་གྱིས་བརླབས་པར་སྣང་། །",
+    "comparison_reading": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+    "status": "inspected_bounded_reading_uncertainty",
+    "confidence": "{\"physical_locator\": \"scoped to source report\", \"exact_component_reading\": \"unresolved\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [2740, 261, 2822, 331]",
+    "rationale": "Resolve the stack before པར་སྣང and whether a separate prefixed བ is present. The stored candidate བརླབས remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003",
+      "baseline_commit": "323a0678fe7fe82438b94b24f413b114de60a142",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt",
+        "sha256": "d345dcb8481077097c0dc96a0e6d25832a8c25a8092357a6265dd752f912454c"
+      },
+      "observation": {
+        "id": "Q07",
+        "anchors": [
+          "U00127"
+        ],
+        "source_span": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+        "base_span": "སྟོན་པས་བྱིན་གྱིས་བརླབས་པར་སྣང་། །",
+        "approximate_native_bounds": [
+          2740,
+          261,
+          2822,
+          331
+        ],
+        "confidence": {
+          "physical_locator": "scoped to source report",
+          "exact_component_reading": "unresolved"
+        },
+        "rationale": "Resolve the stack before པར་སྣང and whether a separate prefixed བ is present. The stored candidate བརླབས remains unadopted."
+      },
+      "coordinator_scope": "Native color overview and both overlapping native columns inspected for source identity, all seven baselines, incoming and outgoing context and the contrast limitations of named small spans. No whole-page glyph agreement claimed.",
+      "source_record_kind": "unread_after_inspection",
+      "original_question": {
+        "id": "Q07",
+        "anchor": "U00127",
+        "approximate_native_bounds": [
+          2740,
+          261,
+          2822,
+          331
+        ],
+        "question": "Resolve the stack before པར་སྣང and whether a separate prefixed བ is present.",
+        "candidate_unadopted": "བརླབས"
+      }
+    }
+  },
+  {
+    "id": "DG-CONT2-B01-Q08",
+    "witness": "Degé",
+    "units": [
+      "U00128"
+    ],
+    "base_snippet_at_review": "ཁྱད་པར་འབྱེད་རྒྱུའི་གསུང་ལ་ཡང༌། །",
+    "comparison_reading": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+    "status": "inspected_bounded_reading_uncertainty",
+    "confidence": "{\"physical_locator\": \"scoped to source report\", \"exact_component_reading\": \"unresolved\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [490, 309, 632, 383]",
+    "rationale": "Resolve the pale run between row-initial པར and གསུང་ལ་ཡང, including vowels and superscribed/subjoined components. The stored candidate འབྱེད་རྒྱུའི remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003",
+      "baseline_commit": "323a0678fe7fe82438b94b24f413b114de60a142",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt",
+        "sha256": "d345dcb8481077097c0dc96a0e6d25832a8c25a8092357a6265dd752f912454c"
+      },
+      "observation": {
+        "id": "Q08",
+        "anchors": [
+          "U00128"
+        ],
+        "source_span": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+        "base_span": "ཁྱད་པར་འབྱེད་རྒྱུའི་གསུང་ལ་ཡང༌། །",
+        "approximate_native_bounds": [
+          490,
+          309,
+          632,
+          383
+        ],
+        "confidence": {
+          "physical_locator": "scoped to source report",
+          "exact_component_reading": "unresolved"
+        },
+        "rationale": "Resolve the pale run between row-initial པར and གསུང་ལ་ཡང, including vowels and superscribed/subjoined components. The stored candidate འབྱེད་རྒྱུའི remains unadopted."
+      },
+      "coordinator_scope": "Native color overview and both overlapping native columns inspected for source identity, all seven baselines, incoming and outgoing context and the contrast limitations of named small spans. No whole-page glyph agreement claimed.",
+      "source_record_kind": "unread_after_inspection",
+      "original_question": {
+        "id": "Q08",
+        "anchor": "U00128",
+        "approximate_native_bounds": [
+          490,
+          309,
+          632,
+          383
+        ],
+        "question": "Resolve the pale run between row-initial པར and གསུང་ལ་ཡང, including vowels and superscribed/subjoined components.",
+        "candidate_unadopted": "འབྱེད་རྒྱུའི"
+      }
+    }
+  },
+  {
+    "id": "DG-CONT2-B01-Q09",
+    "witness": "Degé",
+    "units": [
+      "U00131"
+    ],
+    "base_snippet_at_review": "རང་སྣང་འདུས་པའི་འཁོར་ལ་གསུངས། །",
+    "comparison_reading": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+    "status": "inspected_bounded_reading_uncertainty",
+    "confidence": "{\"physical_locator\": \"scoped to source report\", \"exact_component_reading\": \"unresolved\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [1595, 309, 1730, 383]",
+    "rationale": "Resolve the compressed run between རང་སྣང and འཁོར་ལ་གསུངས. The stored candidate འདུས་པའི remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003",
+      "baseline_commit": "323a0678fe7fe82438b94b24f413b114de60a142",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt",
+        "sha256": "d345dcb8481077097c0dc96a0e6d25832a8c25a8092357a6265dd752f912454c"
+      },
+      "observation": {
+        "id": "Q09",
+        "anchors": [
+          "U00131"
+        ],
+        "source_span": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+        "base_span": "རང་སྣང་འདུས་པའི་འཁོར་ལ་གསུངས། །",
+        "approximate_native_bounds": [
+          1595,
+          309,
+          1730,
+          383
+        ],
+        "confidence": {
+          "physical_locator": "scoped to source report",
+          "exact_component_reading": "unresolved"
+        },
+        "rationale": "Resolve the compressed run between རང་སྣང and འཁོར་ལ་གསུངས. The stored candidate འདུས་པའི remains unadopted."
+      },
+      "coordinator_scope": "Native color overview and both overlapping native columns inspected for source identity, all seven baselines, incoming and outgoing context and the contrast limitations of named small spans. No whole-page glyph agreement claimed.",
+      "source_record_kind": "unread_after_inspection",
+      "original_question": {
+        "id": "Q09",
+        "anchor": "U00131",
+        "approximate_native_bounds": [
+          1595,
+          309,
+          1730,
+          383
+        ],
+        "question": "Resolve the compressed run between རང་སྣང and འཁོར་ལ་གསུངས.",
+        "candidate_unadopted": "འདུས་པའི"
+      }
+    }
+  },
+  {
+    "id": "DG-CONT2-B01-Q10",
+    "witness": "Degé",
+    "units": [
+      "U00134"
+    ],
+    "base_snippet_at_review": "གཉེན་པོ་བསྡུས་དང་དབང་པོའི་དོན། །",
+    "comparison_reading": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+    "status": "inspected_bounded_reading_uncertainty",
+    "confidence": "{\"physical_locator\": \"scoped to source report\", \"exact_component_reading\": \"unresolved\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [2835, 309, 2970, 383]",
+    "rationale": "Resolve the terminal run after བསྡུས་དང, including the rightmost vowel/suffix components. The stored candidate དབང་པོའི remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003",
+      "baseline_commit": "323a0678fe7fe82438b94b24f413b114de60a142",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt",
+        "sha256": "d345dcb8481077097c0dc96a0e6d25832a8c25a8092357a6265dd752f912454c"
+      },
+      "observation": {
+        "id": "Q10",
+        "anchors": [
+          "U00134"
+        ],
+        "source_span": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+        "base_span": "གཉེན་པོ་བསྡུས་དང་དབང་པོའི་དོན། །",
+        "approximate_native_bounds": [
+          2835,
+          309,
+          2970,
+          383
+        ],
+        "confidence": {
+          "physical_locator": "scoped to source report",
+          "exact_component_reading": "unresolved"
+        },
+        "rationale": "Resolve the terminal run after བསྡུས་དང, including the rightmost vowel/suffix components. The stored candidate དབང་པོའི remains unadopted."
+      },
+      "coordinator_scope": "Native color overview and both overlapping native columns inspected for source identity, all seven baselines, incoming and outgoing context and the contrast limitations of named small spans. No whole-page glyph agreement claimed.",
+      "source_record_kind": "unread_after_inspection",
+      "original_question": {
+        "id": "Q10",
+        "anchor": "U00134",
+        "approximate_native_bounds": [
+          2835,
+          309,
+          2970,
+          383
+        ],
+        "question": "Resolve the terminal run after བསྡུས་དང, including the rightmost vowel/suffix components.",
+        "candidate_unadopted": "དབང་པོའི"
+      }
+    }
+  },
+  {
+    "id": "DG-CONT2-B01-Q11",
+    "witness": "Degé",
+    "units": [
+      "U00135"
+    ],
+    "base_snippet_at_review": "ཚིག་རྣམས་བསྡུས་ཏེ་སྣང་བར་བྱས། །",
+    "comparison_reading": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+    "status": "inspected_bounded_reading_uncertainty",
+    "confidence": "{\"physical_locator\": \"scoped to source report\", \"exact_component_reading\": \"unresolved\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [662, 359, 790, 430]",
+    "rationale": "Resolve the faint run after ཚིག་རྣམས and before སྣང་བར་བྱས. The stored candidate བསྡུས་ཏེ remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003",
+      "baseline_commit": "323a0678fe7fe82438b94b24f413b114de60a142",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt",
+        "sha256": "d345dcb8481077097c0dc96a0e6d25832a8c25a8092357a6265dd752f912454c"
+      },
+      "observation": {
+        "id": "Q11",
+        "anchors": [
+          "U00135"
+        ],
+        "source_span": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+        "base_span": "ཚིག་རྣམས་བསྡུས་ཏེ་སྣང་བར་བྱས། །",
+        "approximate_native_bounds": [
+          662,
+          359,
+          790,
+          430
+        ],
+        "confidence": {
+          "physical_locator": "scoped to source report",
+          "exact_component_reading": "unresolved"
+        },
+        "rationale": "Resolve the faint run after ཚིག་རྣམས and before སྣང་བར་བྱས. The stored candidate བསྡུས་ཏེ remains unadopted."
+      },
+      "coordinator_scope": "Native color overview and both overlapping native columns inspected for source identity, all seven baselines, incoming and outgoing context and the contrast limitations of named small spans. No whole-page glyph agreement claimed.",
+      "source_record_kind": "unread_after_inspection",
+      "original_question": {
+        "id": "Q11",
+        "anchor": "U00135",
+        "approximate_native_bounds": [
+          662,
+          359,
+          790,
+          430
+        ],
+        "question": "Resolve the faint run after ཚིག་རྣམས and before སྣང་བར་བྱས.",
+        "candidate_unadopted": "བསྡུས་ཏེ"
+      }
+    }
+  },
+  {
+    "id": "DG-CONT2-B01-Q12",
+    "witness": "Degé",
+    "units": [
+      "U00138"
+    ],
+    "base_snippet_at_review": "སྒྲ་ཚིག་མིང་ལ་ངེས་བསྡུས་པས། །",
+    "comparison_reading": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+    "status": "inspected_bounded_reading_uncertainty",
+    "confidence": "{\"physical_locator\": \"scoped to source report\", \"exact_component_reading\": \"unresolved\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [1700, 359, 1835, 430]",
+    "rationale": "Resolve the faint central syllables between སྒྲ་ཚིག and བསྡུས་པས. The stored candidate མིང་ལ་ངེས remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003",
+      "baseline_commit": "323a0678fe7fe82438b94b24f413b114de60a142",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt",
+        "sha256": "d345dcb8481077097c0dc96a0e6d25832a8c25a8092357a6265dd752f912454c"
+      },
+      "observation": {
+        "id": "Q12",
+        "anchors": [
+          "U00138"
+        ],
+        "source_span": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+        "base_span": "སྒྲ་ཚིག་མིང་ལ་ངེས་བསྡུས་པས། །",
+        "approximate_native_bounds": [
+          1700,
+          359,
+          1835,
+          430
+        ],
+        "confidence": {
+          "physical_locator": "scoped to source report",
+          "exact_component_reading": "unresolved"
+        },
+        "rationale": "Resolve the faint central syllables between སྒྲ་ཚིག and བསྡུས་པས. The stored candidate མིང་ལ་ངེས remains unadopted."
+      },
+      "coordinator_scope": "Native color overview and both overlapping native columns inspected for source identity, all seven baselines, incoming and outgoing context and the contrast limitations of named small spans. No whole-page glyph agreement claimed.",
+      "source_record_kind": "unread_after_inspection",
+      "original_question": {
+        "id": "Q12",
+        "anchor": "U00138",
+        "approximate_native_bounds": [
+          1700,
+          359,
+          1835,
+          430
+        ],
+        "question": "Resolve the faint central syllables between སྒྲ་ཚིག and བསྡུས་པས.",
+        "candidate_unadopted": "མིང་ལ་ངེས"
+      }
+    }
+  },
+  {
+    "id": "DG-CONT2-B01-Q13",
+    "witness": "Degé",
+    "units": [
+      "U00141"
+    ],
+    "base_snippet_at_review": "གསལ་བྱེད་སྒྲ་དོན་བཅུ་གཉིས་ལས། །",
+    "comparison_reading": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+    "status": "inspected_bounded_reading_uncertainty",
+    "confidence": "{\"physical_locator\": \"scoped to source report\", \"exact_component_reading\": \"unresolved\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [2795, 359, 2895, 430]",
+    "rationale": "Resolve the run between གསལ་བྱེད and བཅུ་གཉིས. The stored candidate སྒྲ་དོན remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003",
+      "baseline_commit": "323a0678fe7fe82438b94b24f413b114de60a142",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt",
+        "sha256": "d345dcb8481077097c0dc96a0e6d25832a8c25a8092357a6265dd752f912454c"
+      },
+      "observation": {
+        "id": "Q13",
+        "anchors": [
+          "U00141"
+        ],
+        "source_span": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+        "base_span": "གསལ་བྱེད་སྒྲ་དོན་བཅུ་གཉིས་ལས། །",
+        "approximate_native_bounds": [
+          2795,
+          359,
+          2895,
+          430
+        ],
+        "confidence": {
+          "physical_locator": "scoped to source report",
+          "exact_component_reading": "unresolved"
+        },
+        "rationale": "Resolve the run between གསལ་བྱེད and བཅུ་གཉིས. The stored candidate སྒྲ་དོན remains unadopted."
+      },
+      "coordinator_scope": "Native color overview and both overlapping native columns inspected for source identity, all seven baselines, incoming and outgoing context and the contrast limitations of named small spans. No whole-page glyph agreement claimed.",
+      "source_record_kind": "unread_after_inspection",
+      "original_question": {
+        "id": "Q13",
+        "anchor": "U00141",
+        "approximate_native_bounds": [
+          2795,
+          359,
+          2895,
+          430
+        ],
+        "question": "Resolve the run between གསལ་བྱེད and བཅུ་གཉིས.",
+        "candidate_unadopted": "སྒྲ་དོན"
+      }
+    }
+  },
+  {
+    "id": "DG-CONT2-B01-Q14",
+    "witness": "Degé",
+    "units": [
+      "U00145"
+    ],
+    "base_snippet_at_review": "ངེས་པའི་རྗོད་བྱེད་བརྒྱ་དང་གསུམ། །",
+    "comparison_reading": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+    "status": "inspected_bounded_reading_uncertainty",
+    "confidence": "{\"physical_locator\": \"scoped to source report\", \"exact_component_reading\": \"unresolved\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [1695, 406, 1808, 469]",
+    "rationale": "Resolve the pale opening run before རྗོད་བྱེད. The stored candidate ངེས་པའི remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003",
+      "baseline_commit": "323a0678fe7fe82438b94b24f413b114de60a142",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt",
+        "sha256": "d345dcb8481077097c0dc96a0e6d25832a8c25a8092357a6265dd752f912454c"
+      },
+      "observation": {
+        "id": "Q14",
+        "anchors": [
+          "U00145"
+        ],
+        "source_span": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+        "base_span": "ངེས་པའི་རྗོད་བྱེད་བརྒྱ་དང་གསུམ། །",
+        "approximate_native_bounds": [
+          1695,
+          406,
+          1808,
+          469
+        ],
+        "confidence": {
+          "physical_locator": "scoped to source report",
+          "exact_component_reading": "unresolved"
+        },
+        "rationale": "Resolve the pale opening run before རྗོད་བྱེད. The stored candidate ངེས་པའི remains unadopted."
+      },
+      "coordinator_scope": "Native color overview and both overlapping native columns inspected for source identity, all seven baselines, incoming and outgoing context and the contrast limitations of named small spans. No whole-page glyph agreement claimed.",
+      "source_record_kind": "unread_after_inspection",
+      "original_question": {
+        "id": "Q14",
+        "anchor": "U00145",
+        "approximate_native_bounds": [
+          1695,
+          406,
+          1808,
+          469
+        ],
+        "question": "Resolve the pale opening run before རྗོད་བྱེད.",
+        "candidate_unadopted": "ངེས་པའི"
+      }
+    }
+  },
+  {
+    "id": "DG-CONT2-B01-Q15",
+    "witness": "Degé",
+    "units": [
+      "U00148"
+    ],
+    "base_snippet_at_review": "རྟོགས་སངས་ཡན་ལག་དྲུག་ཅུ་གཉིས། །",
+    "comparison_reading": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+    "status": "inspected_bounded_reading_uncertainty",
+    "confidence": "{\"physical_locator\": \"scoped to source report\", \"exact_component_reading\": \"unresolved\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [2825, 406, 2878, 469]",
+    "rationale": "Is a separate final ས present after the visible རྟོག components? Retain the question before the following སངས. The stored candidate ས remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0003",
+      "baseline_commit": "323a0678fe7fe82438b94b24f413b114de60a142",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt",
+        "sha256": "d345dcb8481077097c0dc96a0e6d25832a8c25a8092357a6265dd752f912454c"
+      },
+      "observation": {
+        "id": "Q15",
+        "anchors": [
+          "U00148"
+        ],
+        "source_span": "[Inspected source span remains unread at the specified component; no lexical reading adopted.]",
+        "base_span": "རྟོགས་སངས་ཡན་ལག་དྲུག་ཅུ་གཉིས། །",
+        "approximate_native_bounds": [
+          2825,
+          406,
+          2878,
+          469
+        ],
+        "confidence": {
+          "physical_locator": "scoped to source report",
+          "exact_component_reading": "unresolved"
+        },
+        "rationale": "Is a separate final ས present after the visible རྟོག components? Retain the question before the following སངས. The stored candidate ས remains unadopted."
+      },
+      "coordinator_scope": "Native color overview and both overlapping native columns inspected for source identity, all seven baselines, incoming and outgoing context and the contrast limitations of named small spans. No whole-page glyph agreement claimed.",
+      "source_record_kind": "unread_after_inspection",
+      "original_question": {
+        "id": "Q15",
+        "anchor": "U00148",
+        "approximate_native_bounds": [
+          2825,
+          406,
+          2878,
+          469
+        ],
+        "question": "Is a separate final ས present after the visible རྟོག components? Retain the question before the following སངས.",
+        "candidate_unadopted": "ས"
+      }
+    }
   }
 ]

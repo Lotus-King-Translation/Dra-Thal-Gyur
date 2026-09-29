@@ -429,7 +429,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00102"></a>
 
-**U00102** སངས་རྒྱས་བརྗོད་དུ་མེད་པ་ཡིས། །
+**U00102** སངས་རྒྱས་བརྗོད་དུ་མེད་པ་ཡིས། ། [DG-CONT2-B01-Q01](#dg-cont2-b01-q01)
 
 <a id="u00103"></a>
 
@@ -445,11 +445,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00106"></a>
 
-**U00106** སྤྲུལ་པའི་ས་བོན་ལྡང་བའོ། ། [L1-0010](#l1-0010) [TK-CONT2-B02-O11](#tk-cont2-b02-o11)
+**U00106** སྤྲུལ་པའི་ས་བོན་ལྡང་བའོ། ། [L1-0010](#l1-0010) [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [DG-CONT2-B01-Q02](#dg-cont2-b01-q02)
 
 <a id="u00107"></a>
 
-**U00107** དེ་ལྟར་དངོས་ཀྱི་བསྟན་པ་ལས། ། [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TK-CONT2-B02-Q01](#tk-cont2-b02-q01)
+**U00107** དེ་ལྟར་དངོས་ཀྱི་བསྟན་པ་ལས། ། [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TK-CONT2-B02-Q01](#tk-cont2-b02-q01) [DG-CONT2-B01-Q03](#dg-cont2-b01-q03)
 
 <a id="u00108"></a>
 
@@ -477,11 +477,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00114"></a>
 
-**U00114** དེ་ནས་ཆོས་ཉིད་ནམ་མཁའ་ལས། ། [TK-CONT2-B02-O11](#tk-cont2-b02-o11)
+**U00114** དེ་ནས་ཆོས་ཉིད་ནམ་མཁའ་ལས། ། [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [DG-CONT2-B01-Q04](#dg-cont2-b01-q04)
 
 <a id="u00115"></a>
 
-**U00115** ཁྱབ་འཇུག་ཆེན་པོའི་གསུང་གིས་ནི། ། [TK-CONT2-B02-O06](#tk-cont2-b02-o06) [TK-CONT2-B02-O11](#tk-cont2-b02-o11)
+**U00115** ཁྱབ་འཇུག་ཆེན་པོའི་གསུང་གིས་ནི། ། [TK-CONT2-B02-O06](#tk-cont2-b02-o06) [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [DG-CONT2-B01-Q05](#dg-cont2-b01-q05)
 
 <a id="u00116"></a>
 
@@ -501,7 +501,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00120"></a>
 
-**U00120** རྒྱུད་ཀྱི་རྒྱལ་པོ་འདི་ཉིད་ནི། ། [TK-CONT2-B02-O11](#tk-cont2-b02-o11)
+**U00120** རྒྱུད་ཀྱི་རྒྱལ་པོ་འདི་ཉིད་ནི། ། [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [DG-CONT2-B01-Q06](#dg-cont2-b01-q06)
 
 <a id="u00121"></a>
 
@@ -529,11 +529,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00127"></a>
 
-**U00127** སྟོན་པས་བྱིན་གྱིས་བརླབས་པར་སྣང་། ། [TK-CONT2-B02-O10](#tk-cont2-b02-o10)
+**U00127** སྟོན་པས་བྱིན་གྱིས་བརླབས་པར་སྣང་། ། [TK-CONT2-B02-O10](#tk-cont2-b02-o10) [DG-CONT2-B01-Q07](#dg-cont2-b01-q07)
 
 <a id="u00128"></a>
 
-**U00128** ཁྱད་པར་འབྱེད་རྒྱུའི་གསུང་ལ་ཡང༌། ། [TK-CONT2-B03-O02](#tk-cont2-b03-o02)
+**U00128** ཁྱད་པར་འབྱེད་རྒྱུའི་གསུང་ལ་ཡང༌། ། [TK-CONT2-B03-O02](#tk-cont2-b03-o02) [DG-CONT2-B01-Q08](#dg-cont2-b01-q08)
 
 <a id="u00129"></a>
 
@@ -545,7 +545,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00131"></a>
 
-**U00131** རང་སྣང་འདུས་པའི་འཁོར་ལ་གསུངས། །
+**U00131** རང་སྣང་འདུས་པའི་འཁོར་ལ་གསུངས། ། [DG-CONT2-B01-Q09](#dg-cont2-b01-q09)
 
 <a id="u00132"></a>
 
@@ -557,11 +557,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00134"></a>
 
-**U00134** གཉེན་པོ་བསྡུས་དང་དབང་པོའི་དོན། ། [L1-0011](#l1-0011)
+**U00134** གཉེན་པོ་བསྡུས་དང་དབང་པོའི་དོན། ། [L1-0011](#l1-0011) [DG-CONT2-B01-Q10](#dg-cont2-b01-q10)
 
 <a id="u00135"></a>
 
-**U00135** ཚིག་རྣམས་བསྡུས་ཏེ་སྣང་བར་བྱས། །
+**U00135** ཚིག་རྣམས་བསྡུས་ཏེ་སྣང་བར་བྱས། ། [DG-CONT2-B01-Q11](#dg-cont2-b01-q11)
 
 <a id="u00136"></a>
 
@@ -573,7 +573,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00138"></a>
 
-**U00138** སྒྲ་ཚིག་མིང་ལ་ངེས་བསྡུས་པས། ། [TK-CONT2-B03-O07](#tk-cont2-b03-o07) [W-C01-010](reviews/chapter-01/wikisource.md#w-c01-010)
+**U00138** སྒྲ་ཚིག་མིང་ལ་ངེས་བསྡུས་པས། ། [TK-CONT2-B03-O07](#tk-cont2-b03-o07) [DG-CONT2-B01-Q12](#dg-cont2-b01-q12) [W-C01-010](reviews/chapter-01/wikisource.md#w-c01-010)
 
 <a id="u00139"></a>
 
@@ -585,7 +585,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00141"></a>
 
-**U00141** གསལ་བྱེད་སྒྲ་དོན་བཅུ་གཉིས་ལས། །
+**U00141** གསལ་བྱེད་སྒྲ་དོན་བཅུ་གཉིས་ལས། ། [DG-CONT2-B01-Q13](#dg-cont2-b01-q13)
 
 <a id="u00142"></a>
 
@@ -601,7 +601,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00145"></a>
 
-**U00145** ངེས་པའི་རྗོད་བྱེད་བརྒྱ་དང་གསུམ། ། [TK-CONT2-B03-O11](#tk-cont2-b03-o11) [TK-CONT2-B03-O13](#tk-cont2-b03-o13) [W-C01-011](reviews/chapter-01/wikisource.md#w-c01-011)
+**U00145** ངེས་པའི་རྗོད་བྱེད་བརྒྱ་དང་གསུམ། ། [TK-CONT2-B03-O11](#tk-cont2-b03-o11) [TK-CONT2-B03-O13](#tk-cont2-b03-o13) [DG-CONT2-B01-Q14](#dg-cont2-b01-q14) [W-C01-011](reviews/chapter-01/wikisource.md#w-c01-011)
 
 <a id="u00146"></a>
 
@@ -613,7 +613,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00148"></a>
 
-**U00148** རྟོགས་སངས་ཡན་ལག་དྲུག་ཅུ་གཉིས། ། [TS-CONT-20260928-U00148](#ts-cont-20260928-u00148) [TK-CONT2-B03-O13](#tk-cont2-b03-o13)
+**U00148** རྟོགས་སངས་ཡན་ལག་དྲུག་ཅུ་གཉིས། ། [TS-CONT-20260928-U00148](#ts-cont-20260928-u00148) [TK-CONT2-B03-O13](#tk-cont2-b03-o13) [DG-CONT2-B01-Q15](#dg-cont2-b01-q15)
 
 <a id="u00149"></a>
 
@@ -16766,6 +16766,306 @@ Units: [U00418](#u00418).
 **Choice and reason:** Retain governing Adzom unchanged. Preserve this specific comparison-witness reading, source-layer observation or uncertainty; no conjectural repair or global absence is inferred.
 
 **Evidence:** [p015-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B03-P0015/p015-native.png), [p015-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B03-P0015/p015-x0000-y0000.png), [p015-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B03-P0015/p015-x1900-y0000.png), [p015-x2360-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B03-P0015/p015-x2360-y0000.png), [C1-TSAMDRAK-B03-P0015-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B03-P0015-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="dg-cont2-b01-q01"></a>
+
+### DG-CONT2-B01-Q01 — Degé
+
+Units: [U00102](#u00102).
+
+**Current Adzom main context:** སངས་རྒྱས་བརྗོད་དུ་མེད་པ་ཡིས། །
+
+**Comparison reading/snippet:** [Inspected source span remains unread at the specified component; no lexical reading adopted.]
+
+**Status:** inspected_bounded_reading_uncertainty. **Confidence:** {"physical_locator": "scoped to source report", "exact_component_reading": "unresolved"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [1125, 108, 1215, 178].
+
+**Observation:** Resolve the compact syllables between བརྗོད and པ་ཡིས; upper marks and letter bodies are not securely separable. The stored candidate དུ་མེད remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png), [p003-x1484-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png), [C1-DEGE-B01-P0003-reader-reading.txt](reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-DEGE.md).
+
+<a id="dg-cont2-b01-q02"></a>
+
+### DG-CONT2-B01-Q02 — Degé
+
+Units: [U00106](#u00106).
+
+**Current Adzom main context:** སྤྲུལ་པའི་ས་བོན་ལྡང་བའོ། །
+
+**Comparison reading/snippet:** [Inspected source span remains unread at the specified component; no lexical reading adopted.]
+
+**Status:** inspected_bounded_reading_uncertainty. **Confidence:** {"physical_locator": "scoped to source report", "exact_component_reading": "unresolved"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [2490, 112, 2618, 178].
+
+**Observation:** Resolve the faint terminal run after ས་བོན, including the initial stack and final vowel-bearing cluster. The stored candidate ལྡང་བའོ remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png), [p003-x1484-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png), [C1-DEGE-B01-P0003-reader-reading.txt](reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-DEGE.md).
+
+<a id="dg-cont2-b01-q03"></a>
+
+### DG-CONT2-B01-Q03 — Degé
+
+Units: [U00107](#u00107).
+
+**Current Adzom main context:** དེ་ལྟར་དངོས་ཀྱི་བསྟན་པ་ལས། །
+
+**Comparison reading/snippet:** [Inspected source span remains unread at the specified component; no lexical reading adopted.]
+
+**Status:** inspected_bounded_reading_uncertainty. **Confidence:** {"physical_locator": "scoped to source report", "exact_component_reading": "unresolved"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [2780, 112, 2910, 178].
+
+**Observation:** Resolve the pale final lexical run before F01; distinguish its final letter strokes from the following short marks. The stored candidate བསྟན་པ remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png), [p003-x1484-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png), [C1-DEGE-B01-P0003-reader-reading.txt](reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-DEGE.md).
+
+<a id="dg-cont2-b01-q04"></a>
+
+### DG-CONT2-B01-Q04 — Degé
+
+Units: [U00114](#u00114).
+
+**Current Adzom main context:** དེ་ནས་ཆོས་ཉིད་ནམ་མཁའ་ལས། །
+
+**Comparison reading/snippet:** [Inspected source span remains unread at the specified component; no lexical reading adopted.]
+
+**Status:** inspected_bounded_reading_uncertainty. **Confidence:** {"physical_locator": "scoped to source report", "exact_component_reading": "unresolved"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [2895, 166, 2942, 231].
+
+**Observation:** Resolve the syllable following དེ at the right edge of R2. The stored candidate ནས remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png), [p003-x1484-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png), [C1-DEGE-B01-P0003-reader-reading.txt](reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-DEGE.md).
+
+<a id="dg-cont2-b01-q05"></a>
+
+### DG-CONT2-B01-Q05 — Degé
+
+Units: [U00115](#u00115).
+
+**Current Adzom main context:** ཁྱབ་འཇུག་ཆེན་པོའི་གསུང་གིས་ནི། །
+
+**Comparison reading/snippet:** [Inspected source span remains unread at the specified component; no lexical reading adopted.]
+
+**Status:** inspected_bounded_reading_uncertainty. **Confidence:** {"physical_locator": "scoped to source report", "exact_component_reading": "unresolved"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [950, 211, 1082, 282].
+
+**Observation:** Resolve the closely spaced run between ཆེན་པོའི and ནི, particularly lower components and the final suffix. The stored candidate གསུང་གིས remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png), [p003-x1484-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png), [C1-DEGE-B01-P0003-reader-reading.txt](reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-DEGE.md).
+
+<a id="dg-cont2-b01-q06"></a>
+
+### DG-CONT2-B01-Q06 — Degé
+
+Units: [U00120](#u00120).
+
+**Current Adzom main context:** རྒྱུད་ཀྱི་རྒྱལ་པོ་འདི་ཉིད་ནི། །
+
+**Comparison reading/snippet:** [Inspected source span remains unread at the specified component; no lexical reading adopted.]
+
+**Status:** inspected_bounded_reading_uncertainty. **Confidence:** {"physical_locator": "scoped to source report", "exact_component_reading": "unresolved"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [2795, 211, 2927, 282].
+
+**Observation:** Resolve the faint run between རྒྱལ་པོ and final ནི. The stored candidate འདི་ཉིད remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png), [p003-x1484-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png), [C1-DEGE-B01-P0003-reader-reading.txt](reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-DEGE.md).
+
+<a id="dg-cont2-b01-q07"></a>
+
+### DG-CONT2-B01-Q07 — Degé
+
+Units: [U00127](#u00127).
+
+**Current Adzom main context:** སྟོན་པས་བྱིན་གྱིས་བརླབས་པར་སྣང་། །
+
+**Comparison reading/snippet:** [Inspected source span remains unread at the specified component; no lexical reading adopted.]
+
+**Status:** inspected_bounded_reading_uncertainty. **Confidence:** {"physical_locator": "scoped to source report", "exact_component_reading": "unresolved"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [2740, 261, 2822, 331].
+
+**Observation:** Resolve the stack before པར་སྣང and whether a separate prefixed བ is present. The stored candidate བརླབས remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png), [p003-x1484-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png), [C1-DEGE-B01-P0003-reader-reading.txt](reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-DEGE.md).
+
+<a id="dg-cont2-b01-q08"></a>
+
+### DG-CONT2-B01-Q08 — Degé
+
+Units: [U00128](#u00128).
+
+**Current Adzom main context:** ཁྱད་པར་འབྱེད་རྒྱུའི་གསུང་ལ་ཡང༌། །
+
+**Comparison reading/snippet:** [Inspected source span remains unread at the specified component; no lexical reading adopted.]
+
+**Status:** inspected_bounded_reading_uncertainty. **Confidence:** {"physical_locator": "scoped to source report", "exact_component_reading": "unresolved"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [490, 309, 632, 383].
+
+**Observation:** Resolve the pale run between row-initial པར and གསུང་ལ་ཡང, including vowels and superscribed/subjoined components. The stored candidate འབྱེད་རྒྱུའི remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png), [p003-x1484-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png), [C1-DEGE-B01-P0003-reader-reading.txt](reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-DEGE.md).
+
+<a id="dg-cont2-b01-q09"></a>
+
+### DG-CONT2-B01-Q09 — Degé
+
+Units: [U00131](#u00131).
+
+**Current Adzom main context:** རང་སྣང་འདུས་པའི་འཁོར་ལ་གསུངས། །
+
+**Comparison reading/snippet:** [Inspected source span remains unread at the specified component; no lexical reading adopted.]
+
+**Status:** inspected_bounded_reading_uncertainty. **Confidence:** {"physical_locator": "scoped to source report", "exact_component_reading": "unresolved"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [1595, 309, 1730, 383].
+
+**Observation:** Resolve the compressed run between རང་སྣང and འཁོར་ལ་གསུངས. The stored candidate འདུས་པའི remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png), [p003-x1484-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png), [C1-DEGE-B01-P0003-reader-reading.txt](reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-DEGE.md).
+
+<a id="dg-cont2-b01-q10"></a>
+
+### DG-CONT2-B01-Q10 — Degé
+
+Units: [U00134](#u00134).
+
+**Current Adzom main context:** གཉེན་པོ་བསྡུས་དང་དབང་པོའི་དོན། །
+
+**Comparison reading/snippet:** [Inspected source span remains unread at the specified component; no lexical reading adopted.]
+
+**Status:** inspected_bounded_reading_uncertainty. **Confidence:** {"physical_locator": "scoped to source report", "exact_component_reading": "unresolved"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [2835, 309, 2970, 383].
+
+**Observation:** Resolve the terminal run after བསྡུས་དང, including the rightmost vowel/suffix components. The stored candidate དབང་པོའི remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png), [p003-x1484-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png), [C1-DEGE-B01-P0003-reader-reading.txt](reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-DEGE.md).
+
+<a id="dg-cont2-b01-q11"></a>
+
+### DG-CONT2-B01-Q11 — Degé
+
+Units: [U00135](#u00135).
+
+**Current Adzom main context:** ཚིག་རྣམས་བསྡུས་ཏེ་སྣང་བར་བྱས། །
+
+**Comparison reading/snippet:** [Inspected source span remains unread at the specified component; no lexical reading adopted.]
+
+**Status:** inspected_bounded_reading_uncertainty. **Confidence:** {"physical_locator": "scoped to source report", "exact_component_reading": "unresolved"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [662, 359, 790, 430].
+
+**Observation:** Resolve the faint run after ཚིག་རྣམས and before སྣང་བར་བྱས. The stored candidate བསྡུས་ཏེ remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png), [p003-x1484-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png), [C1-DEGE-B01-P0003-reader-reading.txt](reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-DEGE.md).
+
+<a id="dg-cont2-b01-q12"></a>
+
+### DG-CONT2-B01-Q12 — Degé
+
+Units: [U00138](#u00138).
+
+**Current Adzom main context:** སྒྲ་ཚིག་མིང་ལ་ངེས་བསྡུས་པས། །
+
+**Comparison reading/snippet:** [Inspected source span remains unread at the specified component; no lexical reading adopted.]
+
+**Status:** inspected_bounded_reading_uncertainty. **Confidence:** {"physical_locator": "scoped to source report", "exact_component_reading": "unresolved"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [1700, 359, 1835, 430].
+
+**Observation:** Resolve the faint central syllables between སྒྲ་ཚིག and བསྡུས་པས. The stored candidate མིང་ལ་ངེས remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png), [p003-x1484-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png), [C1-DEGE-B01-P0003-reader-reading.txt](reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-DEGE.md).
+
+<a id="dg-cont2-b01-q13"></a>
+
+### DG-CONT2-B01-Q13 — Degé
+
+Units: [U00141](#u00141).
+
+**Current Adzom main context:** གསལ་བྱེད་སྒྲ་དོན་བཅུ་གཉིས་ལས། །
+
+**Comparison reading/snippet:** [Inspected source span remains unread at the specified component; no lexical reading adopted.]
+
+**Status:** inspected_bounded_reading_uncertainty. **Confidence:** {"physical_locator": "scoped to source report", "exact_component_reading": "unresolved"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [2795, 359, 2895, 430].
+
+**Observation:** Resolve the run between གསལ་བྱེད and བཅུ་གཉིས. The stored candidate སྒྲ་དོན remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png), [p003-x1484-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png), [C1-DEGE-B01-P0003-reader-reading.txt](reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-DEGE.md).
+
+<a id="dg-cont2-b01-q14"></a>
+
+### DG-CONT2-B01-Q14 — Degé
+
+Units: [U00145](#u00145).
+
+**Current Adzom main context:** ངེས་པའི་རྗོད་བྱེད་བརྒྱ་དང་གསུམ། །
+
+**Comparison reading/snippet:** [Inspected source span remains unread at the specified component; no lexical reading adopted.]
+
+**Status:** inspected_bounded_reading_uncertainty. **Confidence:** {"physical_locator": "scoped to source report", "exact_component_reading": "unresolved"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [1695, 406, 1808, 469].
+
+**Observation:** Resolve the pale opening run before རྗོད་བྱེད. The stored candidate ངེས་པའི remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png), [p003-x1484-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png), [C1-DEGE-B01-P0003-reader-reading.txt](reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-DEGE.md).
+
+<a id="dg-cont2-b01-q15"></a>
+
+### DG-CONT2-B01-Q15 — Degé
+
+Units: [U00148](#u00148).
+
+**Current Adzom main context:** རྟོགས་སངས་ཡན་ལག་དྲུག་ཅུ་གཉིས། །
+
+**Comparison reading/snippet:** [Inspected source span remains unread at the specified component; no lexical reading adopted.]
+
+**Status:** inspected_bounded_reading_uncertainty. **Confidence:** {"physical_locator": "scoped to source report", "exact_component_reading": "unresolved"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [2825, 406, 2878, 469].
+
+**Observation:** Is a separate final ས present after the visible རྟོག components? Retain the question before the following སངས. The stored candidate ས remains unadopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. This entry records reader uncertainty at an inspected Degé span, not an attested omission, agreement, or accepted alternative.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x0000-y0000.png), [p003-x1484-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B01-P0003/p003-x1484-y0000.png), [C1-DEGE-B01-P0003-reader-reading.txt](reviews/chapter-01/continuation/C1-DEGE-B01-P0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-DEGE.md).
 
 ## A/B/S transcript apparatus
 

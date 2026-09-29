@@ -2074,6 +2074,305 @@
       ],
       "next_physical_span": "Integrate saved PDF16/B04-P0016. Retain PDF15 questions Q01-Q09, including the small numeral-like mark and tiny row-end separators.",
       "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-DEGE",
+      "batch_id": "B01-P0003",
+      "target_page": 3,
+      "report": "reviews/chapter-01/continuation/C1-DEGE.json",
+      "summary": "Degé PDF3: seven source-ordered rows U00101 suffix through U00148 prefix integrated with fifteen bounded lexical questions. Repeated U00111/U00121 wording and physical wraps are retained; unresolved red impressions are not treated as agreement or omission.",
+      "rows_reported": 7,
+      "canonical_record_ids": [
+        "DG-CONT2-B01-Q01",
+        "DG-CONT2-B01-Q02",
+        "DG-CONT2-B01-Q03",
+        "DG-CONT2-B01-Q04",
+        "DG-CONT2-B01-Q05",
+        "DG-CONT2-B01-Q06",
+        "DG-CONT2-B01-Q07",
+        "DG-CONT2-B01-Q08",
+        "DG-CONT2-B01-Q09",
+        "DG-CONT2-B01-Q10",
+        "DG-CONT2-B01-Q11",
+        "DG-CONT2-B01-Q12",
+        "DG-CONT2-B01-Q13",
+        "DG-CONT2-B01-Q14",
+        "DG-CONT2-B01-Q15"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "target_overview_inspected_before_crops": true,
+        "target_rows_followed_left_to_right": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "target_unexamined_spans": [],
+        "main_text_status": "Provisional source-ordered reading with bounded unresolved components; not a completed glyph-exact transcription.",
+        "interlinear_and_margin_status": "Visually surveyed; uncertain marginal wording and reddish impressions retained explicitly.",
+        "punctuation_status": "Boundary locations inventoried; exact graphic decomposition and filler counts incomplete.",
+        "supported_anchor_extent": "U00101 suffix through U00148 prefix; intervening alignment supported by observed sequences, not by the supplied broad locator range.",
+        "variant_status": "No definite lexical variant adopted from unresolved components. Unmarked readings are provisional observations, not whole-page agreement certification.",
+        "evidence_independence": "All target crops, bands and the rotated edge depict the same source image; they are not independent witnesses.",
+        "review_character": "Informed agent reading with the base reference available; not blind review or human palaeographic certification.",
+        "whole_chapter_certification": false,
+        "tools_network_file_access_OCR_writes": "None used."
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q01",
+          "anchor": "U00102",
+          "approximate_native_bounds": [
+            1125,
+            108,
+            1215,
+            178
+          ],
+          "question": "Resolve the compact syllables between བརྗོད and པ་ཡིས; upper marks and letter bodies are not securely separable.",
+          "candidate_unadopted": "དུ་མེད"
+        },
+        {
+          "id": "Q02",
+          "anchor": "U00106",
+          "approximate_native_bounds": [
+            2490,
+            112,
+            2618,
+            178
+          ],
+          "question": "Resolve the faint terminal run after ས་བོན, including the initial stack and final vowel-bearing cluster.",
+          "candidate_unadopted": "ལྡང་བའོ"
+        },
+        {
+          "id": "Q03",
+          "anchor": "U00107",
+          "approximate_native_bounds": [
+            2780,
+            112,
+            2910,
+            178
+          ],
+          "question": "Resolve the pale final lexical run before F01; distinguish its final letter strokes from the following short marks.",
+          "candidate_unadopted": "བསྟན་པ"
+        },
+        {
+          "id": "Q04",
+          "anchor": "U00114",
+          "approximate_native_bounds": [
+            2895,
+            166,
+            2942,
+            231
+          ],
+          "question": "Resolve the syllable following དེ at the right edge of R2.",
+          "candidate_unadopted": "ནས"
+        },
+        {
+          "id": "Q05",
+          "anchor": "U00115",
+          "approximate_native_bounds": [
+            950,
+            211,
+            1082,
+            282
+          ],
+          "question": "Resolve the closely spaced run between ཆེན་པོའི and ནི, particularly lower components and the final suffix.",
+          "candidate_unadopted": "གསུང་གིས"
+        },
+        {
+          "id": "Q06",
+          "anchor": "U00120",
+          "approximate_native_bounds": [
+            2795,
+            211,
+            2927,
+            282
+          ],
+          "question": "Resolve the faint run between རྒྱལ་པོ and final ནི.",
+          "candidate_unadopted": "འདི་ཉིད"
+        },
+        {
+          "id": "Q07",
+          "anchor": "U00127",
+          "approximate_native_bounds": [
+            2740,
+            261,
+            2822,
+            331
+          ],
+          "question": "Resolve the stack before པར་སྣང and whether a separate prefixed བ is present.",
+          "candidate_unadopted": "བརླབས"
+        },
+        {
+          "id": "Q08",
+          "anchor": "U00128",
+          "approximate_native_bounds": [
+            490,
+            309,
+            632,
+            383
+          ],
+          "question": "Resolve the pale run between row-initial པར and གསུང་ལ་ཡང, including vowels and superscribed/subjoined components.",
+          "candidate_unadopted": "འབྱེད་རྒྱུའི"
+        },
+        {
+          "id": "Q09",
+          "anchor": "U00131",
+          "approximate_native_bounds": [
+            1595,
+            309,
+            1730,
+            383
+          ],
+          "question": "Resolve the compressed run between རང་སྣང and འཁོར་ལ་གསུངས.",
+          "candidate_unadopted": "འདུས་པའི"
+        },
+        {
+          "id": "Q10",
+          "anchor": "U00134",
+          "approximate_native_bounds": [
+            2835,
+            309,
+            2970,
+            383
+          ],
+          "question": "Resolve the terminal run after བསྡུས་དང, including the rightmost vowel/suffix components.",
+          "candidate_unadopted": "དབང་པོའི"
+        },
+        {
+          "id": "Q11",
+          "anchor": "U00135",
+          "approximate_native_bounds": [
+            662,
+            359,
+            790,
+            430
+          ],
+          "question": "Resolve the faint run after ཚིག་རྣམས and before སྣང་བར་བྱས.",
+          "candidate_unadopted": "བསྡུས་ཏེ"
+        },
+        {
+          "id": "Q12",
+          "anchor": "U00138",
+          "approximate_native_bounds": [
+            1700,
+            359,
+            1835,
+            430
+          ],
+          "question": "Resolve the faint central syllables between སྒྲ་ཚིག and བསྡུས་པས.",
+          "candidate_unadopted": "མིང་ལ་ངེས"
+        },
+        {
+          "id": "Q13",
+          "anchor": "U00141",
+          "approximate_native_bounds": [
+            2795,
+            359,
+            2895,
+            430
+          ],
+          "question": "Resolve the run between གསལ་བྱེད and བཅུ་གཉིས.",
+          "candidate_unadopted": "སྒྲ་དོན"
+        },
+        {
+          "id": "Q14",
+          "anchor": "U00145",
+          "approximate_native_bounds": [
+            1695,
+            406,
+            1808,
+            469
+          ],
+          "question": "Resolve the pale opening run before རྗོད་བྱེད.",
+          "candidate_unadopted": "ངེས་པའི"
+        },
+        {
+          "id": "Q15",
+          "anchor": "U00148",
+          "approximate_native_bounds": [
+            2825,
+            406,
+            2878,
+            469
+          ],
+          "question": "Is a separate final ས present after the visible རྟོག components? Retain the question before the following སངས.",
+          "candidate_unadopted": "ས"
+        },
+        {
+          "id": "M01Q",
+          "approximate_native_bounds": [
+            375,
+            250,
+            421,
+            304
+          ],
+          "question": "Resolve the latter part of the middle marginal wording.",
+          "candidate_unadopted": "ཐལ"
+        },
+        {
+          "id": "M02Q",
+          "approximate_native_bounds": [
+            376,
+            309,
+            423,
+            377
+          ],
+          "question": "Resolve the complete folio-like marginal word; do not substitute the PDF number.",
+          "candidate_unadopted": "གཉིས"
+        },
+        {
+          "id": "M03Q",
+          "approximate_native_bounds": [
+            222,
+            8,
+            335,
+            507
+          ],
+          "question": "Determine whether any recoverable lettering is present in the reddish impressions; no lexical reading adopted."
+        },
+        {
+          "id": "SG01",
+          "bounded_references": [
+            "B101–B147"
+          ],
+          "question": "Exact decomposition and count of independent punctuation strokes remain unresolved at the individually inventoried boundary boxes. Especially distinguish the final ག limb at B136, the right-edge cluster B120, and upper short marks at B107, B134 and B141. No blanket double-shad agreement is claimed."
+        },
+        {
+          "id": "SG02",
+          "bounded_references": [
+            "F01",
+            "F02",
+            "F07"
+          ],
+          "question": "Resolve the number and exact shapes of the short terminal marks and their separation from adjacent lexical strokes."
+        },
+        {
+          "id": "SG03",
+          "bounded_references": [
+            "P01"
+          ],
+          "question": "Resolve the opening ornament's graphic components and the status of its following upright."
+        }
+      ],
+      "unexamined_spans": [
+        {
+          "source": "PDF2",
+          "scope": "Full lexical and graphic collation of all rows and marginal material, except the terminal གཞན་འབད་ fragment used for context.",
+          "reason": "Contextual flank only; overview inspection is not full collation."
+        },
+        {
+          "source": "PDF4",
+          "scope": "Full lexical and graphic collation of all rows and annotations, except the opening ཡན་ལག་དྲུག་ཅུ་གཉིས fragment used for context.",
+          "reason": "Contextual flank only; its visible lower-row small writing was not transcribed."
+        }
+      ],
+      "next_physical_span": "Integrate saved PDF4/B02-P0004. Retain all PDF3 Q01-Q15 and non-main/graphic questions M01Q-M03Q and SG01-SG03.",
+      "reader_claims_require_coordinator_dispositions": true
     }
   ]
 }
