@@ -170,3 +170,39 @@ The three smaller notes are recorded at their physical positions, not relocated 
 **Remaining:** Continue saved Adzom PDF11–13 reports. Adjudicate U00156/PDF9 and U00179/U00184/U00197/PDF10 in one bounded packet; retain N1-letter, capped-sign and dotted-guide questions.
 
 The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.
+
+## B10-P0011 — preserved review integrated
+
+Adzom PDF11: all six physical rows, twenty-five interunit intervals and non-main regions integrated from the saved reading, U00202 continuation through U00227 opening.
+
+[Unchanged raw report](C1-BASE-PHYSICAL-B10-P0011-reader-reading.txt) · [Exact source and rows](C1-BASE-PHYSICAL.json).
+
+Fifty upright candidates comprise forty-seven provisional boundary graphics and three unresolved following-letter-edge candidates, not fifty certified plain shads. Opening ornament, horizontal trace, row-end runs, physical marginal order and frame exclusions are retained.
+
+**Remaining:** Continue the saved PDF12 report. PDF11 retains three specific joining questions, marginal-word and terminal-mark questions, ornament topology and tsheg/filler roles; no lexical pass is restarted.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.
+
+## B11-P0012 — preserved review integrated
+
+Adzom PDF12: six source-ordered rows and twenty-five intervals integrated, U00227 continuation through the unfinished U00252 page-end phrase.
+
+[Unchanged raw report](C1-BASE-PHYSICAL-B11-P0012-reader-reading.txt) · [Exact source and rows](C1-BASE-PHYSICAL.json).
+
+Forty-eight long upright candidates and two joined terminal-ga limbs are accounted for separately. Cap/tier topology, E3/E5 small-mark clusters, U00252 final sa and the large marginal glyph remain unresolved. The raw medium-confidence marginal reading is preserved, not normalized to an expected title or folio.
+
+**Remaining:** Continue the saved PDF13 report. Retain PDF12 H01, E3, E5, L01 and M1; the PDF13 lexical join alone cannot settle the weak PDF12 final sa.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.
+
+## B12-P0013 — preserved review integrated
+
+Adzom PDF13: six source-ordered rows, twenty-five main boundary intervals, row-terminal short marks and the separately interleaved N1 source note integrated, through U00276.
+
+[Unchanged raw report](C1-BASE-PHYSICAL-B12-P0013-reader-reading.txt) · [Exact source and rows](C1-BASE-PHYSICAL.json).
+
+Tiered B252/B260/B264/B273 remain graphically distinct from plain-shad serialization. N1 physically occurs after U00275 and before U00276 in row6; the note-associated U00272 main verse is on row5. All three uprights at B275 retain separate identities. Q1/Q2/QN1, marginal groups and short-mark questions remain explicit.
+
+**Remaining:** All six saved Adzom PDF8-13 reports are integrated. Next new base physical span is PDF14 from U00277, while title/portrait PDF1-2 and all exact prior component questions remain required. Continue other eligible witness gaps without recreating these reports.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.

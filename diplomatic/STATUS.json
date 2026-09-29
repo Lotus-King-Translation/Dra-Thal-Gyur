@@ -6333,6 +6333,319 @@
         "next_physical_span": "Continue saved Adzom PDF11–13 reports. Adjudicate U00156/PDF9 and U00179/U00184/U00197/PDF10 in one bounded packet; retain N1-letter, capped-sign and dotted-guide questions.",
         "reader_claims_require_coordinator_dispositions": true,
         "target_page": 10
+      },
+      {
+        "task_id": "C1-BASE-PHYSICAL",
+        "batch_id": "B10-P0011",
+        "target_pages": [
+          11
+        ],
+        "report": "reviews/chapter-01/continuation/C1-BASE-PHYSICAL.json",
+        "summary": "Adzom PDF11: all six physical rows, twenty-five interunit intervals and non-main regions integrated from the saved reading, U00202 continuation through U00227 opening.",
+        "rows_reported": 6,
+        "canonical_record_ids": [],
+        "whole_pages_newly_certified": [],
+        "coverage_assessment": {
+          "inspection": "All six target rows and visible non-main regions inspected.",
+          "recorded_interunit_boundaries": 25,
+          "boundary_upright_inventory": "Fifty upright candidates recorded across the 25 intervals: 47 provisionally classified as boundary graphics and three retained as unresolved following-letter-edge candidates. This is not a certified count of 50 plain shads.",
+          "unaligned_material": "Opening compound graphic and its upright, horizontal trace, elevated row-end runs, marginal wording, mechanical stamp, frames and exterior traces are separately accounted for.",
+          "completion": "Inspection complete; graphic adjudication remains provisional at the explicitly bounded questions.",
+          "lexical_status": "Source-ordered readings support location and sign review; the existing lexical pass is not replaced.",
+          "review_status": "Informed independent agent reading of the supplied images; neither blind review nor human palaeographic certification.",
+          "certification_extent": "PDF11 only; no whole-chapter certification."
+        },
+        "unread_after_inspection": [
+          {
+            "id": "Q01",
+            "scope": "B02: tall component immediately beside ཕྱི",
+            "approximate_native_bounds": [
+              2670,
+              270,
+              2800,
+              426
+            ],
+            "question": "Separate boundary graphic or joined edge of the compound letter? Upper-head structure also remains unresolved.",
+            "effect": "Retain J?; do not certify two plain shads."
+          },
+          {
+            "id": "Q02",
+            "scope": "B09: tall component immediately beside སྐུ",
+            "approximate_native_bounds": [
+              1200,
+              543,
+              1340,
+              713
+            ],
+            "question": "Independence from the following stacked letter is not securely established.",
+            "effect": "Retain J?; candidate remains inventoried."
+          },
+          {
+            "id": "Q03",
+            "scope": "B23: tall component beside རྩིས",
+            "approximate_native_bounds": [
+              2580,
+              890,
+              2740,
+              1042
+            ],
+            "question": "Exact joining and tiered cap construction are unresolved.",
+            "effect": "Retain J? rather than normalize it to a plain shad or discard it as a letter limb."
+          },
+          {
+            "id": "Q04",
+            "scope": "Left margin, second and third wording groups",
+            "approximate_native_bounds": [
+              415,
+              395,
+              555,
+              735
+            ],
+            "question": "Tentative readings སྒྲ and དྲུག require confirmation of the compressed stack strokes.",
+            "effect": "Question marks retained; physical order preserved."
+          },
+          {
+            "id": "Q05",
+            "scope": "Left margin after ཐལ་འགྱུར",
+            "approximate_native_bounds": [
+              415,
+              930,
+              555,
+              1045
+            ],
+            "question": "Exact number and character of the terminal small strokes are unresolved.",
+            "effect": "No terminal shad or tsheg count certified."
+          },
+          {
+            "id": "Q06",
+            "scope": "Lower tiers of O1",
+            "approximate_native_bounds": [
+              565,
+              360,
+              700,
+              435
+            ],
+            "question": "Exact separation and count of the curved lower strokes.",
+            "effect": "Compound ornament preserved descriptively; no plain-shad substitution."
+          },
+          {
+            "id": "Q07",
+            "scope": "Elevated runs E1, E2, E3, E5 and E6",
+            "question": "Which first components, if any, function as ordinary tshegs rather than row-end filling marks?",
+            "effect": "Physical run counts retained without assigning every component a punctuation function."
+          },
+          {
+            "id": "Q08",
+            "scope": "H1 and the mechanical stamp's faint curved trace",
+            "question": "Intentional graphic versus incidental impression; stamp orientation also unresolved.",
+            "effect": "Remain separately inventoried nonlexical material."
+          }
+        ],
+        "unexamined_spans": {
+          "within_target_page": [],
+          "outside_target_scope": [
+            "PDF10 was used only for the incoming boundary, not exhaustively collated.",
+            "PDF12 was used only for the outgoing boundary, not exhaustively collated."
+          ]
+        },
+        "next_physical_span": "Continue the saved PDF12 report. PDF11 retains three specific joining questions, marginal-word and terminal-mark questions, ornament topology and tsheg/filler roles; no lexical pass is restarted.",
+        "reader_claims_require_coordinator_dispositions": true,
+        "target_page": 11
+      },
+      {
+        "task_id": "C1-BASE-PHYSICAL",
+        "batch_id": "B11-P0012",
+        "target_pages": [
+          12
+        ],
+        "report": "reviews/chapter-01/continuation/C1-BASE-PHYSICAL.json",
+        "summary": "Adzom PDF12: six source-ordered rows and twenty-five intervals integrated, U00227 continuation through the unfinished U00252 page-end phrase.",
+        "rows_reported": 6,
+        "canonical_record_ids": [],
+        "whole_pages_newly_certified": [],
+        "coverage_assessment": {
+          "target_main_rows_inspected": 6,
+          "target_non_main_regions_inspected": true,
+          "complete_interunit_intervals_recorded": 25,
+          "long_upright_sign_candidates_counted": 48,
+          "joined_terminal_ga_limbs_separately_accounted_for": 2,
+          "small_row_end_clusters_unresolved": 2,
+          "source_annotation_result": "No separate structural note identified on PDF12; the supplied U00272 annotation is not target-page evidence.",
+          "unaligned_components": "M1–M7 and E3/E5 account for non-main and unresolved row-end material separately from verse alignment.",
+          "completion": "All target regions inspected; lexical row sequence and long-upright inventory supplied. Exact cap/tier topology, two small row-end clusters, one final letter, and the large marginal glyph remain unresolved; full physical-sign certification is incomplete.",
+          "review_status": "Informed independent agent reading; neither blind review nor human palaeographic certification. No whole-chapter claim."
+        },
+        "unread_after_inspection": [
+          {
+            "id": "H01",
+            "scope": "The head portions of the upright candidates in B01–B25, each bounded by its listed interval rectangle.",
+            "question": "Exact number and connectivity of short cap/tier elements above each counted long shaft.",
+            "disposition": "V preserves shaft positions only. Neither a plain-shad classification nor normalization of a potentially tiered graphic is supported by this response."
+          },
+          {
+            "id": "E3",
+            "scope": "R3, rightmost end of བསྐུར, approximately [4910,600,5030,715].",
+            "question": "One or two small upper ticks are distinguishable as possible marks; their separation from the final letter and their tsheg/filler roles remain unresolved.",
+            "disposition": "No long stop added; no exact small-component count certified."
+          },
+          {
+            "id": "E5",
+            "scope": "R5, rightmost end of བལྟ་བ, approximately [4910,840,5030,935].",
+            "question": "Small upper ticks beside the final ba: exact component count and division between tsheg, filler, and letter feature remain unresolved.",
+            "disposition": "Preserved as an unresolved local graphic cluster."
+          },
+          {
+            "id": "L01",
+            "scope": "R6 final letter of ཡི⟦ས?⟧, approximately [4930,980,5035,1100].",
+            "question": "Final sa is probable, but its weakened, crowded strokes are not fully resolved.",
+            "disposition": "Tentative letter retained; following གཅོད is not supplied on PDF12."
+          },
+          {
+            "id": "M1",
+            "scope": "Single large glyph in the upper left internal strip, approximately [610,310,745,465].",
+            "question": "Glyph identity and folio/volume function.",
+            "disposition": "Graphic description retained without a guessed numeral."
+          }
+        ],
+        "unexamined_spans": [],
+        "next_physical_span": "Continue the saved PDF13 report. Retain PDF12 H01, E3, E5, L01 and M1; the PDF13 lexical join alone cannot settle the weak PDF12 final sa.",
+        "reader_claims_require_coordinator_dispositions": true,
+        "target_page": 12
+      },
+      {
+        "task_id": "C1-BASE-PHYSICAL",
+        "batch_id": "B12-P0013",
+        "target_pages": [
+          13
+        ],
+        "report": "reviews/chapter-01/continuation/C1-BASE-PHYSICAL.json",
+        "summary": "Adzom PDF13: six source-ordered rows, twenty-five main boundary intervals, row-terminal short marks and the separately interleaved N1 source note integrated, through U00276.",
+        "rows_reported": 6,
+        "canonical_record_ids": [],
+        "whole_pages_newly_certified": [],
+        "coverage_assessment": {
+          "target_inspection": "All six target rows and all visible non-main regions received direct visual inspection.",
+          "inventory_status": "Provisional source-ordered inventory; bounded unresolved lettering and short-mark counts remain listed above.",
+          "main_boundary_intervals_inventoried": 25,
+          "tiered_boundary_intervals": [
+            "B252",
+            "B260",
+            "B264",
+            "B273"
+          ],
+          "interleaved_source_layer": "N1 retained at its physical R6 location, with all three interval uprights inventoried.",
+          "unaligned_components": [
+            "Opening ornament and its two uprights",
+            "Tiered graphic components beyond plain base-shad encoding",
+            "Short row-terminal marks F1–F5",
+            "Marginal lettering and stamp",
+            "N1 physical placement and its separate terminal upright"
+          ],
+          "lexical_pass": "Existing lexical pass remains; unresolved readings here are not adopted corrections.",
+          "review_type": "Informed independent agent reading, not blind review or human palaeographic certification.",
+          "certification": "No whole-chapter or fully resolved glyph certification."
+        },
+        "unread_after_inspection": [
+          {
+            "id": "Q1",
+            "location": "R1, between བཞི་པོ and རྣམས",
+            "approximate_native_bounds": [
+              4520,
+              260,
+              4700,
+              410
+            ],
+            "scope": "One faint syllabic group.",
+            "candidate": "རོ",
+            "remaining_question": "The small vowel/body strokes are insufficiently distinct for an unqualified reading."
+          },
+          {
+            "id": "Q2",
+            "location": "R5 right end, after མ and before R6 ཀྱང",
+            "approximate_native_bounds": [
+              4690,
+              750,
+              4965,
+              950
+            ],
+            "scope": "One worn stacked syllable and any following upper-level terminal point.",
+            "candidate": "བསྒྲགས",
+            "remaining_question": "Lower and final strokes, and the separation of a possible terminal point, remain unresolved."
+          },
+          {
+            "id": "QN1",
+            "location": "Smaller R6 annotation, after རྣམ་པར and before final བཀོད་པ",
+            "approximate_native_bounds": [
+              3410,
+              870,
+              3680,
+              1015
+            ],
+            "scope": "Approximately two small syllables.",
+            "candidate": "བཀོད་པའི",
+            "remaining_question": "The crowded small letter bodies and genitive marks are not securely separable."
+          },
+          {
+            "id": "QM1",
+            "location": "Left marginal compartment, between ཀ and བདུན",
+            "approximate_native_bounds": [
+              510,
+              425,
+              625,
+              550
+            ],
+            "scope": "One short marginal group, approximately one or two glyphs.",
+            "candidate": null,
+            "remaining_question": "Letter identity remains unresolved after the rotated view."
+          },
+          {
+            "id": "QM2",
+            "location": "Left marginal title, between སྒྲ and འགྱུར",
+            "approximate_native_bounds": [
+              505,
+              875,
+              625,
+              1005
+            ],
+            "scope": "One short syllabic group.",
+            "candidate": "ཐལ",
+            "remaining_question": "Medial letter strokes remain insufficiently clear for an unqualified title transcription."
+          },
+          {
+            "id": "QE2",
+            "location": "R2, immediately after གིས and before the right frame",
+            "approximate_native_bounds": [
+              4870,
+              390,
+              4975,
+              500
+            ],
+            "scope": "One clear short mark and a possible second faint component.",
+            "remaining_question": "Whether the faint component is a second designed tick or an ink/frame artifact."
+          },
+          {
+            "id": "QE4",
+            "location": "R4, immediately after འདས",
+            "approximate_native_bounds": [
+              4860,
+              650,
+              4975,
+              785
+            ],
+            "scope": "Possible terminal point only.",
+            "remaining_question": "No independent terminal point can be securely separated from neighboring ink."
+          }
+        ],
+        "unexamined_spans": {
+          "within_target_page": [],
+          "outside_target_scope": [
+            "PDF12 apart from overview and final boundary context was not collated.",
+            "PDF14 apart from overview and opening boundary context was not collated."
+          ]
+        },
+        "next_physical_span": "All six saved Adzom PDF8-13 reports are integrated. Next new base physical span is PDF14 from U00277, while title/portrait PDF1-2 and all exact prior component questions remain required. Continue other eligible witness gaps without recreating these reports.",
+        "reader_claims_require_coordinator_dispositions": true,
+        "target_page": 13
       }
     ]
   },

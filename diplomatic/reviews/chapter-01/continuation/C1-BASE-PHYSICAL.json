@@ -13364,42 +13364,3941 @@
     },
     {
       "batch_id": "B10-P0011",
-      "status": "claimed_prepared_not_read",
+      "status": "review_integrated_with_bounded_uncertainties",
       "owner": "reader-C1-BASE-PHYSICAL-B10-P0011-reader",
       "baseline_commit": "07f658e3c831f86f50841e4bb9587472eaa194a6",
       "scope": "Complete the physical sign/source-layer inventory of ADZOM PDF11 only. Every main row and non-main region must be inspected. Existing lexical pass remains; neighboring pages are boundary context only. Reference range is a broad locating aid, never a guessed page map. Record each complete two-word boundary interval, including uprights near the next word, without assuming those uprights are part of the next letter. Give physical component counts and joined-letter reasons; do not count only preceding-owned marks. Tiered source graphics are not plain shads merely because the base uses that encoding.",
       "target_page": 11,
       "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/manifest.json",
       "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B10-P0011-reader-spec.json",
-      "rows_actually_compared": [],
-      "observations": [],
-      "canonical_record_ids": []
+      "rows_actually_compared": [
+        {
+          "row_id": "P11-R1",
+          "approximate_native_bounds": [
+            560,
+            230,
+            4900,
+            447
+          ],
+          "observed_sequence": "⟦O1⟧ ⟦H1⟧ བ་རྣམས་ཀྱི་འདོད་པ་ཅི⟦B01⟧སེམས་ཅན་དུས་ཀྱི་རིམ་པ་གང⟦B02⟧ཕྱི་རོལ་ནང་དང་དོན་ནི་ཅི⟦B03⟧དུས་ཀྱི་འཕོ་བ་གང་དང་གང⟦B04⟧ཞག་དང་ཟླ་བ་ལོ⟦E1⟧",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00202",
+              "fragment": "བ་རྣམས་ཀྱི་འདོད་པ་ཅི",
+              "extent": "continuation"
+            },
+            {
+              "anchor": "U00203",
+              "fragment": "སེམས་ཅན་དུས་ཀྱི་རིམ་པ་གང"
+            },
+            {
+              "anchor": "U00204",
+              "fragment": "ཕྱི་རོལ་ནང་དང་དོན་ནི་ཅི"
+            },
+            {
+              "anchor": "U00205",
+              "fragment": "དུས་ཀྱི་འཕོ་བ་གང་དང་གང"
+            },
+            {
+              "anchor": "U00206",
+              "fragment": "ཞག་དང་ཟླ་བ་ལོ",
+              "extent": "opening"
+            }
+          ],
+          "signs": [
+            "O1",
+            "H1",
+            "B01",
+            "B02",
+            "B03",
+            "B04",
+            "E1"
+          ],
+          "source_annotations": []
+        },
+        {
+          "row_id": "P11-R2",
+          "approximate_native_bounds": [
+            550,
+            355,
+            4900,
+            583
+          ],
+          "observed_sequence": "རྣམས་ཅི⟦B05⟧ཚེ་དང་དབང་ཐང་གང་གིས་གཟུངས⟦B06⟧བྱེར་ཟུག་སྙོམས་པའི་མཐའ་ཅིར་འགྱུར⟦B07⟧འཁོར་བའི་ལམ་རྒྱུད་གང་གིས་བཅད⟦B08⟧སྟོན་པའི་ཡོན⟦E2⟧",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00206",
+              "fragment": "རྣམས་ཅི",
+              "extent": "completion"
+            },
+            {
+              "anchor": "U00207",
+              "fragment": "ཚེ་དང་དབང་ཐང་གང་གིས་གཟུངས"
+            },
+            {
+              "anchor": "U00208",
+              "fragment": "བྱེར་ཟུག་སྙོམས་པའི་མཐའ་ཅིར་འགྱུར"
+            },
+            {
+              "anchor": "U00209",
+              "fragment": "འཁོར་བའི་ལམ་རྒྱུད་གང་གིས་བཅད"
+            },
+            {
+              "anchor": "U00210",
+              "fragment": "སྟོན་པའི་ཡོན",
+              "extent": "opening"
+            }
+          ],
+          "signs": [
+            "B05",
+            "B06",
+            "B07",
+            "B08",
+            "E2"
+          ],
+          "source_annotations": []
+        },
+        {
+          "row_id": "P11-R3",
+          "approximate_native_bounds": [
+            550,
+            475,
+            4900,
+            716
+          ],
+          "observed_sequence": "ཏན་གང་གིས་བསྒྲུབ⟦B09⟧སྐུ་གསུམ་ངོ་བོ་ཅི་ལྟར་བསླབ⟦B10⟧ཐུན་མོང་ལས་ཀྱི་མཐའ་གང་ལགས⟦B11⟧བྱེ་བྲག་སྐུ་རྣམས་ཅི་ལྟར་འགྲུབ⟦B12⟧གཉིད་དང་རྨི་ལམ་ཅི⟦E3⟧",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00210",
+              "fragment": "ཏན་གང་གིས་བསྒྲུབ",
+              "extent": "completion"
+            },
+            {
+              "anchor": "U00211",
+              "fragment": "སྐུ་གསུམ་ངོ་བོ་ཅི་ལྟར་བསླབ"
+            },
+            {
+              "anchor": "U00212",
+              "fragment": "ཐུན་མོང་ལས་ཀྱི་མཐའ་གང་ལགས"
+            },
+            {
+              "anchor": "U00213",
+              "fragment": "བྱེ་བྲག་སྐུ་རྣམས་ཅི་ལྟར་འགྲུབ"
+            },
+            {
+              "anchor": "U00214",
+              "fragment": "གཉིད་དང་རྨི་ལམ་ཅི",
+              "extent": "opening"
+            }
+          ],
+          "signs": [
+            "B09",
+            "B10",
+            "B11",
+            "B12",
+            "E3"
+          ],
+          "source_annotations": []
+        },
+        {
+          "row_id": "P11-R4",
+          "approximate_native_bounds": [
+            550,
+            597,
+            4900,
+            842
+          ],
+          "observed_sequence": "ལྟ་བུ⟦B13⟧སེམས་འདུལ་བསྒོམ་པ་གང་ལ་བགྱི⟦B14⟧རླུང་ཞེས་བགྱི་བའི་དགོངས་པ་གང⟦B15⟧རྩ་ཡི་ཡོན་ཏན་ཅི་ཙམ་མཆིས⟦B16⟧དེ་བཞིན་ཐིག་ལེའི་རྣམ་པ་ཅི⟦B17⟧",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00214",
+              "fragment": "ལྟ་བུ",
+              "extent": "completion"
+            },
+            {
+              "anchor": "U00215",
+              "fragment": "སེམས་འདུལ་བསྒོམ་པ་གང་ལ་བགྱི"
+            },
+            {
+              "anchor": "U00216",
+              "fragment": "རླུང་ཞེས་བགྱི་བའི་དགོངས་པ་གང"
+            },
+            {
+              "anchor": "U00217",
+              "fragment": "རྩ་ཡི་ཡོན་ཏན་ཅི་ཙམ་མཆིས"
+            },
+            {
+              "anchor": "U00218",
+              "fragment": "དེ་བཞིན་ཐིག་ལེའི་རྣམ་པ་ཅི"
+            }
+          ],
+          "signs": [
+            "B13",
+            "B14",
+            "B15",
+            "B16",
+            "B17"
+          ],
+          "source_annotations": []
+        },
+        {
+          "row_id": "P11-R5",
+          "approximate_native_bounds": [
+            550,
+            730,
+            4900,
+            973
+          ],
+          "observed_sequence": "མཁའ་འགྲོ་མ་ཡི་ལས་མཐའ་གང⟦B18⟧འཕོ་བའི་རྣམ་པའི་ལས་གང་ལགས⟦B19⟧རྟེན་ཅིང་འབྲེལ་པ་ཅི་ཡི་རྒྱུ⟦B20⟧ནད་དང་སྡུག་བསྔལ་གང་གིས་གྲོལ⟦B21⟧འབྱུང⟦E5⟧",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00219",
+              "fragment": "མཁའ་འགྲོ་མ་ཡི་ལས་མཐའ་གང"
+            },
+            {
+              "anchor": "U00220",
+              "fragment": "འཕོ་བའི་རྣམ་པའི་ལས་གང་ལགས"
+            },
+            {
+              "anchor": "U00221",
+              "fragment": "རྟེན་ཅིང་འབྲེལ་པ་ཅི་ཡི་རྒྱུ"
+            },
+            {
+              "anchor": "U00222",
+              "fragment": "ནད་དང་སྡུག་བསྔལ་གང་གིས་གྲོལ"
+            },
+            {
+              "anchor": "U00223",
+              "fragment": "འབྱུང",
+              "extent": "opening"
+            }
+          ],
+          "signs": [
+            "B18",
+            "B19",
+            "B20",
+            "B21",
+            "E5"
+          ],
+          "source_annotations": []
+        },
+        {
+          "row_id": "P11-R6",
+          "approximate_native_bounds": [
+            550,
+            840,
+            4900,
+            1055
+          ],
+          "observed_sequence": "བའི་འཕོ་ལུགས་ཇི་ལྟར་ལགས⟦B22⟧གནད་ཀྱི་འབྱུང་བ་གང་དང་གང⟦B23⟧རྩིས་སྦྱོར་ལས་ཀྱི་ཡན་ལག་ཅི⟦B24⟧འབྱུང་བའི་བདེ་བ་གང་གིས་འགྲུབ⟦B25⟧སྤོ་བའི⟦E6⟧",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00223",
+              "fragment": "བའི་འཕོ་ལུགས་ཇི་ལྟར་ལགས",
+              "extent": "completion"
+            },
+            {
+              "anchor": "U00224",
+              "fragment": "གནད་ཀྱི་འབྱུང་བ་གང་དང་གང"
+            },
+            {
+              "anchor": "U00225",
+              "fragment": "རྩིས་སྦྱོར་ལས་ཀྱི་ཡན་ལག་ཅི"
+            },
+            {
+              "anchor": "U00226",
+              "fragment": "འབྱུང་བའི་བདེ་བ་གང་གིས་འགྲུབ"
+            },
+            {
+              "anchor": "U00227",
+              "fragment": "སྤོ་བའི",
+              "extent": "opening"
+            }
+          ],
+          "signs": [
+            "B22",
+            "B23",
+            "B24",
+            "B25",
+            "E6"
+          ],
+          "source_annotations": []
+        }
+      ],
+      "observations": [
+        {
+          "id": "B01",
+          "anchors": [
+            "U00202",
+            "U00203"
+          ],
+          "source_span": "ཅི⟦V,V⟧སེམས",
+          "base_span": "ཅི། །སེམས",
+          "category": "boundary_graphs",
+          "neighboring_context": "འདོད་པ་ཅི / སེམས་ཅན",
+          "approximate_native_bounds": [
+            1600,
+            300,
+            1830,
+            447
+          ],
+          "components": {
+            "uprights": 2
+          },
+          "confidence_by_dimension": {
+            "count": "high",
+            "ownership": "medium-high",
+            "anchor": "high"
+          },
+          "rationale": "Both tall boundary strokes are included. The སེ vowel and the descending stroke joined to the ས body remain lexical.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B02",
+          "anchors": [
+            "U00203",
+            "U00204"
+          ],
+          "source_span": "གང⟦T,V,J?⟧ཕྱི",
+          "base_span": "གང༌། །ཕྱི",
+          "category": "boundary_graphs_with_unresolved_letter_edge",
+          "neighboring_context": "རིམ་པ་གང / ཕྱི་རོལ",
+          "approximate_native_bounds": [
+            2550,
+            270,
+            2800,
+            426
+          ],
+          "components": {
+            "upright_candidates": 2,
+            "separate_upright": 1,
+            "unresolved_next_edge_upright": 1,
+            "small_terminal_wedge": 1
+          },
+          "confidence_by_dimension": {
+            "visible_count": "medium-high",
+            "next_letter_separation": "low-medium",
+            "small_wedge": "medium",
+            "anchor": "high"
+          },
+          "rationale": "The following ཕྱི has a descending compound body. The nearby tall edge is inventoried, but its attachment to that body is not securely resolved; it is not silently discarded as a letter limb.",
+          "coordinator_disposition": "Retain both recorded candidate components and the exact J? joining question. Do not count the uncertain following-letter-edge candidate as a certified shad, or silently discard it as a letter limb."
+        },
+        {
+          "id": "B03",
+          "anchors": [
+            "U00204",
+            "U00205"
+          ],
+          "source_span": "ཅི⟦V,V⟧དུས",
+          "base_span": "ཅི། །དུས",
+          "category": "boundary_graphs",
+          "neighboring_context": "དོན་ནི་ཅི / དུས་ཀྱི",
+          "approximate_native_bounds": [
+            3270,
+            253,
+            3500,
+            411
+          ],
+          "components": {
+            "uprights": 2
+          },
+          "confidence_by_dimension": {
+            "count": "high",
+            "ownership": "medium-high",
+            "anchor": "high"
+          },
+          "rationale": "Two tall markers occupy the whole interval. The lower vowel stroke attached to དུ is excluded from their count.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B04",
+          "anchors": [
+            "U00205",
+            "U00206"
+          ],
+          "source_span": "གང⟦T,V,V⟧ཞག",
+          "base_span": "གང༌། །ཞག",
+          "category": "boundary_graphs",
+          "neighboring_context": "གང་དང་གང / ཞག་དང",
+          "approximate_native_bounds": [
+            4110,
+            229,
+            4400,
+            400
+          ],
+          "components": {
+            "uprights": 2,
+            "small_terminal_wedge": 1
+          },
+          "confidence_by_dimension": {
+            "upright_count": "high",
+            "small_wedge": "medium",
+            "ownership": "medium",
+            "anchor": "high"
+          },
+          "rationale": "Includes the upright beside the following word. The tiered horizontal body of ཞ is retained as a letter rather than converted into punctuation.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B05",
+          "anchors": [
+            "U00206",
+            "U00207"
+          ],
+          "source_span": "ཅི⟦V,V⟧ཚེ",
+          "base_span": "ཅི། །ཚེ",
+          "category": "boundary_graphs",
+          "neighboring_context": "རྣམས་ཅི / ཚེ་དང",
+          "approximate_native_bounds": [
+            750,
+            425,
+            1030,
+            584
+          ],
+          "components": {
+            "uprights": 2
+          },
+          "confidence_by_dimension": {
+            "count": "high",
+            "ownership": "medium-high",
+            "anchor": "high"
+          },
+          "rationale": "Both boundary uprights are retained. The upper vowel and horizontal letter strokes of ཚེ do not add another marker.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B06",
+          "anchors": [
+            "U00207",
+            "U00208"
+          ],
+          "source_span": "གཟུངས⟦V,V⟧བྱེར",
+          "base_span": "གཟུངས། །བྱེར",
+          "category": "boundary_graphs",
+          "neighboring_context": "གང་གིས་གཟུངས / བྱེར་ཟུག",
+          "approximate_native_bounds": [
+            1890,
+            390,
+            2170,
+            564
+          ],
+          "components": {
+            "uprights": 2
+          },
+          "confidence_by_dimension": {
+            "count": "medium-high",
+            "ownership": "medium",
+            "anchor": "high"
+          },
+          "rationale": "The interval crosses the left/central crop overlap. The joined lower བྱ component is distinguished from the tall boundary graphs; the overlap is counted only once.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B07",
+          "anchors": [
+            "U00208",
+            "U00209"
+          ],
+          "source_span": "འགྱུར⟦V,V⟧འཁོར",
+          "base_span": "འགྱུར། །འཁོར",
+          "category": "boundary_graphs",
+          "neighboring_context": "ཅིར་འགྱུར / འཁོར་བའི",
+          "approximate_native_bounds": [
+            3100,
+            365,
+            3410,
+            550
+          ],
+          "components": {
+            "uprights": 2
+          },
+          "confidence_by_dimension": {
+            "count": "high",
+            "ownership": "medium-high",
+            "anchor": "high"
+          },
+          "rationale": "Counts the marker near འཁོར as well as the preceding one. Curved and angled strokes belonging to འཁོར remain within its lexical body.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B08",
+          "anchors": [
+            "U00209",
+            "U00210"
+          ],
+          "source_span": "བཅད⟦V,V⟧སྟོན",
+          "base_span": "བཅད། །སྟོན",
+          "category": "boundary_graphs",
+          "neighboring_context": "གང་གིས་བཅད / སྟོན་པའི",
+          "approximate_native_bounds": [
+            4330,
+            343,
+            4640,
+            511
+          ],
+          "components": {
+            "uprights": 2
+          },
+          "confidence_by_dimension": {
+            "count": "high",
+            "ownership": "medium",
+            "anchor": "high"
+          },
+          "rationale": "The following stacked letter has its own upper and lower strokes. Those joined strokes are not an additional boundary sign.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B09",
+          "anchors": [
+            "U00210",
+            "U00211"
+          ],
+          "source_span": "བསྒྲུབ⟦V,J?⟧སྐུ",
+          "base_span": "བསྒྲུབ། །སྐུ",
+          "category": "boundary_graphs_with_unresolved_letter_edge",
+          "neighboring_context": "གང་གིས་བསྒྲུབ / སྐུ་གསུམ",
+          "approximate_native_bounds": [
+            1050,
+            543,
+            1340,
+            713
+          ],
+          "components": {
+            "upright_candidates": 2,
+            "separate_upright": 1,
+            "unresolved_next_edge_upright": 1
+          },
+          "confidence_by_dimension": {
+            "visible_count": "medium-high",
+            "next_letter_separation": "low-medium",
+            "anchor": "high"
+          },
+          "rationale": "The tall edge beside སྐུ is included in the inventory. Its relationship to the stacked letter cannot be certified from this reading; the lower vowel is visibly lexical.",
+          "coordinator_disposition": "Retain both recorded candidate components and the exact J? joining question. Do not count the uncertain following-letter-edge candidate as a certified shad, or silently discard it as a letter limb."
+        },
+        {
+          "id": "B10",
+          "anchors": [
+            "U00211",
+            "U00212"
+          ],
+          "source_span": "བསླབ⟦V,V⟧ཐུན",
+          "base_span": "བསླབ། །ཐུན",
+          "category": "boundary_graphs",
+          "neighboring_context": "ཅི་ལྟར་བསླབ / ཐུན་མོང",
+          "approximate_native_bounds": [
+            1980,
+            520,
+            2280,
+            699
+          ],
+          "components": {
+            "uprights": 2
+          },
+          "confidence_by_dimension": {
+            "count": "medium-high",
+            "ownership": "medium",
+            "anchor": "high"
+          },
+          "rationale": "The full column view supplies both sides of this interval. The lower curved ུ and the horizontal body of ཐ are excluded from the upright count.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B11",
+          "anchors": [
+            "U00212",
+            "U00213"
+          ],
+          "source_span": "ལགས⟦V,V⟧བྱེ",
+          "base_span": "ལགས། །བྱེ",
+          "category": "boundary_graphs",
+          "neighboring_context": "གང་ལགས / བྱེ་བྲག",
+          "approximate_native_bounds": [
+            3120,
+            496,
+            3420,
+            674
+          ],
+          "components": {
+            "uprights": 2
+          },
+          "confidence_by_dimension": {
+            "count": "medium-high",
+            "ownership": "medium",
+            "anchor": "high"
+          },
+          "rationale": "The terminal ས has a descending lexical stroke. It is not added to the two boundary graphics; the joined lower portion of བྱེ also remains lexical.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B12",
+          "anchors": [
+            "U00213",
+            "U00214"
+          ],
+          "source_span": "འགྲུབ⟦V,V⟧གཉིད",
+          "base_span": "འགྲུབ། །གཉིད",
+          "category": "boundary_graphs",
+          "neighboring_context": "ཅི་ལྟར་འགྲུབ / གཉིད་དང",
+          "approximate_native_bounds": [
+            4110,
+            468,
+            4400,
+            649
+          ],
+          "components": {
+            "uprights": 2
+          },
+          "confidence_by_dimension": {
+            "count": "high",
+            "ownership": "medium",
+            "anchor": "high"
+          },
+          "rationale": "Includes the tall graphic near the initial ག. The latter's angular head and attached descent remain part of the word.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B13",
+          "anchors": [
+            "U00214",
+            "U00215"
+          ],
+          "source_span": "བུ⟦V,V⟧སེམས",
+          "base_span": "བུ། །སེམས",
+          "category": "boundary_graphs",
+          "neighboring_context": "ལྟ་བུ / སེམས་འདུལ",
+          "approximate_native_bounds": [
+            690,
+            678,
+            970,
+            838
+          ],
+          "components": {
+            "uprights": 2
+          },
+          "confidence_by_dimension": {
+            "count": "high",
+            "ownership": "medium-high",
+            "anchor": "high"
+          },
+          "rationale": "The lower vowel of བུ ends within the lexical cluster. Two further tall boundary strokes are counted before the following lexical body.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B14",
+          "anchors": [
+            "U00215",
+            "U00216"
+          ],
+          "source_span": "བགྱི⟦V,V⟧རླུང",
+          "base_span": "བགྱི། །རླུང",
+          "category": "boundary_graphs",
+          "neighboring_context": "གང་ལ་བགྱི / རླུང་ཞེས",
+          "approximate_native_bounds": [
+            1810,
+            647,
+            2100,
+            820
+          ],
+          "components": {
+            "uprights": 2
+          },
+          "confidence_by_dimension": {
+            "count": "medium-high",
+            "ownership": "medium",
+            "anchor": "high"
+          },
+          "rationale": "Read across the overlapping columns. The compound lower strokes in བགྱི and རླུང are lexical; neither crop edge supplies an additional mark.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B15",
+          "anchors": [
+            "U00216",
+            "U00217"
+          ],
+          "source_span": "གང⟦T,V,V⟧རྩ",
+          "base_span": "གང༌། །རྩ",
+          "category": "boundary_graphs",
+          "neighboring_context": "དགོངས་པ་གང / རྩ་ཡི",
+          "approximate_native_bounds": [
+            2860,
+            620,
+            3220,
+            807
+          ],
+          "components": {
+            "uprights": 2,
+            "small_terminal_wedge": 1
+          },
+          "confidence_by_dimension": {
+            "upright_count": "medium-high",
+            "small_wedge": "medium",
+            "ownership": "medium",
+            "anchor": "high"
+          },
+          "rationale": "The elevated small component and two tall graphs are inventoried separately. The tiered head of རྩ is not itself normalized to a shad.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B16",
+          "anchors": [
+            "U00217",
+            "U00218"
+          ],
+          "source_span": "མཆིས⟦V,V⟧དེ",
+          "base_span": "མཆིས། །དེ",
+          "category": "boundary_graphs",
+          "neighboring_context": "ཅི་ཙམ་མཆིས / དེ་བཞིན",
+          "approximate_native_bounds": [
+            3810,
+            594,
+            4120,
+            786
+          ],
+          "components": {
+            "uprights": 2
+          },
+          "confidence_by_dimension": {
+            "count": "high",
+            "ownership": "medium-high",
+            "anchor": "high"
+          },
+          "rationale": "The final letter descent and the following དེ vowel are lexical. Both intervening tall boundary graphics are counted.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B17",
+          "anchors": [
+            "U00218",
+            "U00219"
+          ],
+          "source_span": "ཅི⟦V,V; physical row break⟧མཁའ",
+          "base_span": "ཅི། །མཁའ",
+          "category": "boundary_across_physical_rows",
+          "neighboring_context": "རྣམ་པ་ཅི / མཁའ་འགྲོ",
+          "approximate_native_bounds": [
+            [
+              4750,
+              575,
+              4910,
+              764
+            ],
+            [
+              550,
+              801,
+              840,
+              973
+            ]
+          ],
+          "components": {
+            "uprights": 2,
+            "placement": "Both at the end of R4; none added at the beginning of R5."
+          },
+          "confidence_by_dimension": {
+            "count": "high",
+            "row_assignment": "high",
+            "anchor": "high"
+          },
+          "rationale": "The two narrow end strokes stand inside the right frame. The frame rule is a separate third vertical feature and is excluded.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B18",
+          "anchors": [
+            "U00219",
+            "U00220"
+          ],
+          "source_span": "གང⟦T,V,V⟧འཕོ",
+          "base_span": "གང༌། །འཕོ",
+          "category": "boundary_graphs",
+          "neighboring_context": "ལས་མཐའ་གང / འཕོ་བའི",
+          "approximate_native_bounds": [
+            1480,
+            787,
+            1800,
+            957
+          ],
+          "components": {
+            "uprights": 2,
+            "small_terminal_wedge": 1
+          },
+          "confidence_by_dimension": {
+            "upright_count": "medium-high",
+            "small_wedge": "medium",
+            "ownership": "medium",
+            "anchor": "high"
+          },
+          "rationale": "Includes the next-word-side upright. The upper ོ and the curved body of འཕོ remain lexical despite uneven ink.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B19",
+          "anchors": [
+            "U00220",
+            "U00221"
+          ],
+          "source_span": "ལགས⟦V,V⟧རྟེན",
+          "base_span": "ལགས། །རྟེན",
+          "category": "boundary_graphs",
+          "neighboring_context": "ལས་གང་ལགས / རྟེན་ཅིང",
+          "approximate_native_bounds": [
+            2580,
+            757,
+            2900,
+            943
+          ],
+          "components": {
+            "uprights": 2
+          },
+          "confidence_by_dimension": {
+            "count": "medium-high",
+            "ownership": "medium",
+            "anchor": "high"
+          },
+          "rationale": "The following stacked letter has horizontal and angled joined strokes. Those are distinguished from the two upright boundary graphics.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B20",
+          "anchors": [
+            "U00221",
+            "U00222"
+          ],
+          "source_span": "རྒྱུ⟦V,V⟧ནད",
+          "base_span": "རྒྱུ། །ནད",
+          "category": "boundary_graphs",
+          "neighboring_context": "ཅི་ཡི་རྒྱུ / ནད་དང",
+          "approximate_native_bounds": [
+            3440,
+            733,
+            3750,
+            921
+          ],
+          "components": {
+            "uprights": 2
+          },
+          "confidence_by_dimension": {
+            "count": "high",
+            "ownership": "medium-high",
+            "anchor": "high"
+          },
+          "rationale": "The substantial curved lower part of རྒྱུ belongs to the syllable. Both subsequent tall graphics are counted, including the one beside ནད.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B21",
+          "anchors": [
+            "U00222",
+            "U00223"
+          ],
+          "source_span": "གྲོལ⟦V,V⟧འབྱུང",
+          "base_span": "གྲོལ། །འབྱུང",
+          "category": "boundary_graphs",
+          "neighboring_context": "གང་གིས་གྲོལ / འབྱུང",
+          "approximate_native_bounds": [
+            4510,
+            710,
+            4820,
+            901
+          ],
+          "components": {
+            "uprights": 2
+          },
+          "confidence_by_dimension": {
+            "count": "high",
+            "ownership": "medium",
+            "anchor": "high"
+          },
+          "rationale": "The opening འ and descending བྱུ stack form the following lexical cluster. They are not used to absorb the nearby boundary upright.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B22",
+          "anchors": [
+            "U00223",
+            "U00224"
+          ],
+          "source_span": "ལགས⟦V,V⟧གནད",
+          "base_span": "ལགས། །གནད",
+          "category": "boundary_graphs",
+          "neighboring_context": "ཇི་ལྟར་ལགས / གནད་ཀྱི",
+          "approximate_native_bounds": [
+            1380,
+            921,
+            1770,
+            1055
+          ],
+          "components": {
+            "uprights": 2
+          },
+          "confidence_by_dimension": {
+            "count": "medium-high",
+            "ownership": "medium",
+            "anchor": "high"
+          },
+          "rationale": "The terminal ས descent is distinguished from the boundary graphics. The angular head and joined downstroke of initial ག remain lexical.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B23",
+          "anchors": [
+            "U00224",
+            "U00225"
+          ],
+          "source_span": "གང⟦T,V,J?⟧རྩིས",
+          "base_span": "གང༌། །རྩིས",
+          "category": "boundary_graphs_with_unresolved_letter_edge",
+          "neighboring_context": "གང་དང་གང / རྩིས་སྦྱོར",
+          "approximate_native_bounds": [
+            2400,
+            890,
+            2740,
+            1042
+          ],
+          "components": {
+            "upright_candidates": 2,
+            "separate_upright": 1,
+            "unresolved_next_edge_upright": 1,
+            "small_terminal_wedge": 1
+          },
+          "confidence_by_dimension": {
+            "visible_count": "medium-high",
+            "next_letter_separation": "low-medium",
+            "small_wedge": "medium",
+            "anchor": "high"
+          },
+          "rationale": "The upright beside the tiered རྩིས head is inventoried without deciding that it belongs to the letter. Its joining and cap structure require adjudication.",
+          "coordinator_disposition": "Retain both recorded candidate components and the exact J? joining question. Do not count the uncertain following-letter-edge candidate as a certified shad, or silently discard it as a letter limb."
+        },
+        {
+          "id": "B24",
+          "anchors": [
+            "U00225",
+            "U00226"
+          ],
+          "source_span": "ཅི⟦V,V⟧འབྱུང",
+          "base_span": "ཅི། །འབྱུང",
+          "category": "boundary_graphs",
+          "neighboring_context": "ཡན་ལག་ཅི / འབྱུང་བའི",
+          "approximate_native_bounds": [
+            3310,
+            863,
+            3660,
+            1022
+          ],
+          "components": {
+            "uprights": 2
+          },
+          "confidence_by_dimension": {
+            "count": "high",
+            "ownership": "medium",
+            "anchor": "high"
+          },
+          "rationale": "Both tall boundary graphics are included. The following compound's lower curves remain joined-letter material.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B25",
+          "anchors": [
+            "U00226",
+            "U00227"
+          ],
+          "source_span": "འགྲུབ⟦V,V⟧སྤོ",
+          "base_span": "འགྲུབ། །སྤོ",
+          "category": "boundary_graphs",
+          "neighboring_context": "གང་གིས་འགྲུབ / སྤོ་བའི",
+          "approximate_native_bounds": [
+            4370,
+            840,
+            4750,
+            993
+          ],
+          "components": {
+            "uprights": 2
+          },
+          "confidence_by_dimension": {
+            "count": "medium-high",
+            "ownership": "medium",
+            "anchor": "high"
+          },
+          "rationale": "Includes the tall graphic immediately before the following stack. The upper vowel and tiered body of སྤོ remain lexical rather than additional plain shads.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "LAY01",
+          "anchors": [
+            "U00202"
+          ],
+          "source_span": "PDF10 འབྱུང / PDF11 ⟦O1,H1⟧བ་རྣམས",
+          "base_span": "འབྱུང་བ་རྣམས",
+          "category": "page_continuation_and_unaligned_graphics",
+          "neighboring_context": "End of PDF10 R6 and beginning of PDF11 R1.",
+          "approximate_native_bounds": [
+            565,
+            300,
+            1430,
+            447
+          ],
+          "confidence_by_dimension": {
+            "continuation": "high",
+            "ornament_structure": "medium",
+            "horizontal_mark_function": "low"
+          },
+          "rationale": "The opening ornament and horizontal trace intervene physically at the page opening; they are not words supplied to complete U00202.",
+          "coordinator_disposition": "Preserve the actual incoming byung / ba-rnams continuation with the page-head ornament and horizontal trace separately inventoried, not inserted as lexical content."
+        },
+        {
+          "id": "LAY02",
+          "anchors": [
+            "U00206",
+            "U00210",
+            "U00214",
+            "U00223",
+            "U00227"
+          ],
+          "source_span": [
+            "ལོ⟦E1; R1/R2⟧རྣམས",
+            "ཡོན⟦E2; R2/R3⟧ཏན",
+            "ཅི⟦E3; R3/R4⟧ལྟ",
+            "འབྱུང⟦E5; R5/R6⟧བའི",
+            "བའི⟦E6; PDF11/PDF12⟧ལས"
+          ],
+          "base_span": [
+            "ལོ་རྣམས",
+            "ཡོན་ཏན",
+            "ཅི་ལྟ",
+            "འབྱུང་བའི",
+            "བའི་ལས"
+          ],
+          "category": "physical_wrap_graphics",
+          "neighboring_context": "These are continuations within the cited units, not five additional verse boundaries.",
+          "approximate_native_bounds": {
+            "E1": [
+              4760,
+              225,
+              4900,
+              350
+            ],
+            "E2": [
+              4770,
+              355,
+              4900,
+              495
+            ],
+            "E3": [
+              4760,
+              475,
+              4900,
+              615
+            ],
+            "E5": [
+              4720,
+              720,
+              4900,
+              870
+            ],
+            "E6": [
+              4750,
+              850,
+              4900,
+              970
+            ]
+          },
+          "components": {
+            "E1": 4,
+            "E2": 1,
+            "E3": 3,
+            "E5": 1,
+            "E6": 2
+          },
+          "confidence_by_dimension": {
+            "wrap_assignment": "high",
+            "E1_count": "high",
+            "E2_count": "medium",
+            "E3_count": "medium-high",
+            "E5_count": "medium",
+            "E6_count": "medium-high",
+            "tsheg_versus_filler_function": "unresolved"
+          },
+          "rationale": "Counts describe the complete visible elevated runs. No member is silently omitted as an ordinary tsheg, and no run is converted to an ellipsis or shad.",
+          "coordinator_disposition": "Preserve the five physical wraps and elevated-run counts with their stated confidence. Tsheg/filler functions remain unresolved; these are not five additional verse boundaries."
+        },
+        {
+          "id": "LAY03",
+          "anchors": [],
+          "source_span": "Six full-size main rows; no separately identifiable small-script insertion.",
+          "base_span": "The supplied SCAN-CH1-LAYER-00272 annotation is outside the established PDF11 text extent.",
+          "category": "source_layer_inventory",
+          "neighboring_context": "All inter-row gaps and both marginal strips inspected.",
+          "approximate_native_bounds": [
+            405,
+            190,
+            5040,
+            1070
+          ],
+          "confidence_by_dimension": {
+            "row_count": "high",
+            "absence_of_identified_annotation": "medium-high",
+            "page_alignment": "high"
+          },
+          "rationale": "The broad reference range does not place U00272 or its annotation on this page.",
+          "coordinator_disposition": "Retain the bounded six-row/interlinear survey. The U00272 note lies outside this page extent and is not an omitted verse or a note imported into PDF11."
+        }
+      ],
+      "canonical_record_ids": [],
+      "target_pages": [
+        11
+      ],
+      "source_layers_and_non_main_regions": [
+        {
+          "id": "NM01",
+          "region": "Opening graphic",
+          "inventory_id": "O1",
+          "approximate_native_bounds": [
+            565,
+            320,
+            735,
+            435
+          ],
+          "observed": "Two rounded upper lobes containing white spaces, lower curved/tiered strokes, and one separate tall upright to their right.",
+          "counts": {
+            "upper_lobes": 2,
+            "separate_right_uprights": 1,
+            "lower_tier_strokes": "Not securely separable into an exact count."
+          },
+          "disposition": "Preserve as a compound graphic plus its upright; neither the whole graphic nor its lower tiers are plain shads."
+        },
+        {
+          "id": "NM02",
+          "region": "Blank interval after opening graphic",
+          "inventory_id": "H1",
+          "approximate_native_bounds": [
+            790,
+            350,
+            995,
+            380
+          ],
+          "observed": "One thin, slightly interrupted horizontal mark with nearby small specks.",
+          "disposition": "Unaligned nonlexical mark; intentional ornament versus incidental trace unresolved."
+        },
+        {
+          "id": "NM03",
+          "region": "Left marginal strip",
+          "approximate_native_bounds": [
+            415,
+            285,
+            555,
+            1045
+          ],
+          "physical_order_read_in_rotated_view": "ཀ  ⟦སྒྲ?⟧  ⟦དྲུག?⟧  ཐལ་འགྱུར⟦terminal marks unresolved⟧",
+          "disposition": "Retain this physical order. Do not silently rearrange it into a title followed by a folio number.",
+          "confidence_by_dimension": {
+            "first_group": "medium",
+            "middle_groups": "low-medium",
+            "final_wording": "medium",
+            "terminal_marks": "low"
+          }
+        },
+        {
+          "id": "NM04",
+          "region": "Mechanical stamp outside left frame",
+          "approximate_native_bounds": [
+            70,
+            445,
+            195,
+            905
+          ],
+          "observed": "Two narrow 1-like components and four oval 0-like components; a faint separate open curved trace is also visible.",
+          "disposition": "Mechanical marginal marking, not Tibetan verse. Digit orientation and the curved trace are not normalized."
+        },
+        {
+          "id": "NM05",
+          "region": "Frame and blank right strip",
+          "approximate_native_bounds": [
+            405,
+            190,
+            5040,
+            1070
+          ],
+          "observed": "Sloping top and bottom rules, outer side rules, and inner rules separating the left wording strip and blank right strip from the main text.",
+          "disposition": "Frame strokes excluded from boundary-sign counts. No wording identified in the right strip."
+        },
+        {
+          "id": "NM06",
+          "region": "Inter-row spaces",
+          "observed": "Inspected across all three native columns. No separate small-script annotation identified on PDF11.",
+          "disposition": "No annotation imported from PDF10 or from the supplied U00272 reference."
+        },
+        {
+          "id": "NM07",
+          "region": "Exterior upper, lower and right margins",
+          "observed": "Irregular outer scan-edge lines, scattered specks, and broad faint horizontal or oblique traces below the framed text; no securely readable additional wording.",
+          "approximate_native_bounds": [
+            0,
+            0,
+            5696,
+            1344
+          ],
+          "disposition": "These traces remain nonlexical and unaligned; no letters supplied from them."
+        }
+      ],
+      "unread_or_uncertain_spans": [
+        {
+          "id": "Q01",
+          "scope": "B02: tall component immediately beside ཕྱི",
+          "approximate_native_bounds": [
+            2670,
+            270,
+            2800,
+            426
+          ],
+          "question": "Separate boundary graphic or joined edge of the compound letter? Upper-head structure also remains unresolved.",
+          "effect": "Retain J?; do not certify two plain shads."
+        },
+        {
+          "id": "Q02",
+          "scope": "B09: tall component immediately beside སྐུ",
+          "approximate_native_bounds": [
+            1200,
+            543,
+            1340,
+            713
+          ],
+          "question": "Independence from the following stacked letter is not securely established.",
+          "effect": "Retain J?; candidate remains inventoried."
+        },
+        {
+          "id": "Q03",
+          "scope": "B23: tall component beside རྩིས",
+          "approximate_native_bounds": [
+            2580,
+            890,
+            2740,
+            1042
+          ],
+          "question": "Exact joining and tiered cap construction are unresolved.",
+          "effect": "Retain J? rather than normalize it to a plain shad or discard it as a letter limb."
+        },
+        {
+          "id": "Q04",
+          "scope": "Left margin, second and third wording groups",
+          "approximate_native_bounds": [
+            415,
+            395,
+            555,
+            735
+          ],
+          "question": "Tentative readings སྒྲ and དྲུག require confirmation of the compressed stack strokes.",
+          "effect": "Question marks retained; physical order preserved."
+        },
+        {
+          "id": "Q05",
+          "scope": "Left margin after ཐལ་འགྱུར",
+          "approximate_native_bounds": [
+            415,
+            930,
+            555,
+            1045
+          ],
+          "question": "Exact number and character of the terminal small strokes are unresolved.",
+          "effect": "No terminal shad or tsheg count certified."
+        },
+        {
+          "id": "Q06",
+          "scope": "Lower tiers of O1",
+          "approximate_native_bounds": [
+            565,
+            360,
+            700,
+            435
+          ],
+          "question": "Exact separation and count of the curved lower strokes.",
+          "effect": "Compound ornament preserved descriptively; no plain-shad substitution."
+        },
+        {
+          "id": "Q07",
+          "scope": "Elevated runs E1, E2, E3, E5 and E6",
+          "question": "Which first components, if any, function as ordinary tshegs rather than row-end filling marks?",
+          "effect": "Physical run counts retained without assigning every component a punctuation function."
+        },
+        {
+          "id": "Q08",
+          "scope": "H1 and the mechanical stamp's faint curved trace",
+          "question": "Intentional graphic versus incidental impression; stamp orientation also unresolved.",
+          "effect": "Remain separately inventoried nonlexical material."
+        }
+      ],
+      "unexamined_spans": {
+        "within_target_page": [],
+        "outside_target_scope": [
+          "PDF10 was used only for the incoming boundary, not exhaustively collated.",
+          "PDF12 was used only for the outgoing boundary, not exhaustively collated."
+        ]
+      },
+      "next_physical_span": "Continue the saved PDF12 report. PDF11 retains three specific joining questions, marginal-word and terminal-mark questions, ornament topology and tsheg/filler roles; no lexical pass is restarted.",
+      "integration_20260929": {
+        "verified_inputs": {
+          "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B10-P0011-reader-reading.txt",
+          "sha256": "b3ea23b9a9a886f960e8d176bc43ea9ef2851d51fe627a1e35495707e905024e",
+          "images_hash_verified": 27,
+          "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B10-P0011-reader-execution.json"
+        },
+        "baseline_commit": "e2ac5f53c4d4fc91dd7b78f226bf4269f7ebd7b2",
+        "coordinator": {
+          "coordinator_scope": "Coordinator inspected the native overview and all three unscaled full-height columns of this target, and read the preserved source-ordered rows, boundaries and unresolved-component ledger. Source and reader-output hashes were verified. Informed image reading, not blind or credentialed human certification.",
+          "observation_dispositions": {
+            "B01": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B02": "Retain both recorded candidate components and the exact J? joining question. Do not count the uncertain following-letter-edge candidate as a certified shad, or silently discard it as a letter limb.",
+            "B03": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B04": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B05": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B06": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B07": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B08": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B09": "Retain both recorded candidate components and the exact J? joining question. Do not count the uncertain following-letter-edge candidate as a certified shad, or silently discard it as a letter limb.",
+            "B10": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B11": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B12": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B13": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B14": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B15": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B16": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B17": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B18": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B19": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B20": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B21": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B22": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B23": "Retain both recorded candidate components and the exact J? joining question. Do not count the uncertain following-letter-edge candidate as a certified shad, or silently discard it as a letter limb.",
+            "B24": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B25": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "LAY01": "Preserve the actual incoming byung / ba-rnams continuation with the page-head ornament and horizontal trace separately inventoried, not inserted as lexical content.",
+            "LAY02": "Preserve the five physical wraps and elevated-run counts with their stated confidence. Tsheg/filler functions remain unresolved; these are not five additional verse boundaries.",
+            "LAY03": "Retain the bounded six-row/interlinear survey. The U00272 note lies outside this page extent and is not an omitted verse or a note imported into PDF11."
+          },
+          "summary": "Adzom PDF11: all six physical rows, twenty-five interunit intervals and non-main regions integrated from the saved reading, U00202 continuation through U00227 opening.",
+          "detail": "Fifty upright candidates comprise forty-seven provisional boundary graphics and three unresolved following-letter-edge candidates, not fifty certified plain shads. Opening ornament, horizontal trace, row-end runs, physical marginal order and frame exclusions are retained.",
+          "next_step": "Continue the saved PDF12 report. PDF11 retains three specific joining questions, marginal-word and terminal-mark questions, ornament topology and tsheg/filler roles; no lexical pass is restarted."
+        },
+        "reader_claims_not_automatically_certified": true
+      },
+      "graphic_legend": {
+        "⟦Bnn⟧": "Editorial reference to the complete boundary inventory in observations; not source text.",
+        "V": "Visually separate tall upright graphic, including its visible head. This code does not certify equivalence to a plain Unicode shad.",
+        "J?": "Upright at the following word's edge whose independence from that letter remains unresolved.",
+        "T": "Small elevated wedge or dot; distinguished from a tall upright.",
+        "O1": "Opening graphic: two rounded upper lobes with internal white spaces and lower curved tiers; followed by a separate upright. Not normalized to plain shads.",
+        "H1": "Thin horizontal mark in the opening blank interval; no lexical reading assigned.",
+        "E1": "Four elevated wedge-like components after ལོ.",
+        "E2": "One elevated wedge-like component after ཡོན.",
+        "E3": "Three elevated wedge-like components after ཅི.",
+        "E5": "One elevated wedge-like component after འབྱུང.",
+        "E6": "Two elevated wedge-like components after བའི.",
+        "notation": "Tibetan strings give the inspected reading. Bracketed labels are editorial. Bounds are approximate native-coordinate envelopes, not measured pixel segmentation. Repeated references to a sign inventory do not count the sign again."
+      },
+      "independent_review": {
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B10-P0011-reader-reading.txt",
+        "sha256": "b3ea23b9a9a886f960e8d176bc43ea9ef2851d51fe627a1e35495707e905024e",
+        "images_hash_verified": 27,
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B10-P0011-reader-execution.json",
+        "scope": {
+          "inspection": "All six target rows and visible non-main regions inspected.",
+          "recorded_interunit_boundaries": 25,
+          "boundary_upright_inventory": "Fifty upright candidates recorded across the 25 intervals: 47 provisionally classified as boundary graphics and three retained as unresolved following-letter-edge candidates. This is not a certified count of 50 plain shads.",
+          "unaligned_material": "Opening compound graphic and its upright, horizontal trace, elevated row-end runs, marginal wording, mechanical stamp, frames and exterior traces are separately accounted for.",
+          "completion": "Inspection complete; graphic adjudication remains provisional at the explicitly bounded questions.",
+          "lexical_status": "Source-ordered readings support location and sign review; the existing lexical pass is not replaced.",
+          "review_status": "Informed independent agent reading of the supplied images; neither blind review nor human palaeographic certification.",
+          "certification_extent": "PDF11 only; no whole-chapter certification."
+        },
+        "proposals_adopted": false
+      }
     },
     {
       "batch_id": "B11-P0012",
-      "status": "claimed_prepared_not_read",
+      "status": "review_integrated_with_bounded_uncertainties",
       "owner": "reader-C1-BASE-PHYSICAL-B11-P0012-reader",
       "baseline_commit": "07f658e3c831f86f50841e4bb9587472eaa194a6",
       "scope": "Complete the physical sign/source-layer inventory of ADZOM PDF12 only. Every main row and non-main region must be inspected. Existing lexical pass remains; neighboring pages are boundary context only. Reference range is a broad locating aid, never a guessed page map. Record each complete two-word boundary interval, including uprights near the next word, without assuming those uprights are part of the next letter. Give physical component counts and joined-letter reasons; do not count only preceding-owned marks. Tiered source graphics are not plain shads merely because the base uses that encoding.",
       "target_page": 12,
       "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B11-P0012/manifest.json",
       "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B11-P0012-reader-spec.json",
-      "rows_actually_compared": [],
-      "observations": [],
-      "canonical_record_ids": []
+      "rows_actually_compared": [
+        {
+          "row": "R1",
+          "approximate_native_bounds": [
+            730,
+            330,
+            5025,
+            535
+          ],
+          "observed_sequence": "ལས་ནི་གང་གིས་བགྱིས⟦B01⟧ རིག་བཅས་བེམ་པོའི་བྱེ་བྲག་གང་⟦B02⟧ གནད་རྣམས་རང་བཟློག་ཐབས་གང་ལགས⟦B03⟧ གྲུབ་མཐའ་དགོངས་པ་གང་གིས་འགྲུབ⟦B04⟧",
+          "ordered_anchor_fragments": [
+            "U00227: ལས་ནི … བགྱིས",
+            "U00228: རིག་བཅས … གང",
+            "U00229: གནད་རྣམས … ལགས",
+            "U00230: གྲུབ་མཐའ … འགྲུབ"
+          ],
+          "signs": [
+            "B01",
+            "B02",
+            "B03",
+            "B04"
+          ],
+          "source_annotations": []
+        },
+        {
+          "row": "R2",
+          "approximate_native_bounds": [
+            710,
+            460,
+            5025,
+            670
+          ],
+          "observed_sequence": "མཐར་ཐུག་པ་ལ་དགོངས་པ་གང་⟦B05⟧ བསྒྲུབ་པའི་རིམ་པ་དུ་ཞིག་མཆིས⟦B06⟧ གནས་ལུགས་རྣམས་ཀྱི་འདུག་ཚུལ་ཅི⟦B07⟧ འཁྲུལ་པའི་རྩིས་རྣམས་ཅི་ལྟར་བཟུངས⟦B08⟧",
+          "ordered_anchor_fragments": [
+            "U00231: མཐར་ཐུག … གང",
+            "U00232: བསྒྲུབ་པའི … མཆིས",
+            "U00233: གནས་ལུགས … ཅི",
+            "U00234: འཁྲུལ་པའི … བཟུངས"
+          ],
+          "signs": [
+            "B05",
+            "B06",
+            "B07",
+            "B08"
+          ],
+          "source_annotations": []
+        },
+        {
+          "row": "R3",
+          "approximate_native_bounds": [
+            705,
+            575,
+            5030,
+            810
+          ],
+          "observed_sequence": "ཤེས་བྱའི་སྤྲོས་པ་གང་གིས་བཅད⟦B09⟧ བླ་མ་བསྟེན་པའི་ཐབས་གང་ལགས⟦B10⟧ ཕྱི་རོལ་འབྱུང་རྟགས་གང་གིས་འཛིན⟦B11⟧ དུས་དང་བསྟན་པའི་བབ་སོ་ཅི⟦B12⟧ དབང་བསྐུར⟦E3⟧",
+          "ordered_anchor_fragments": [
+            "U00235: ཤེས་བྱའི … བཅད",
+            "U00236: བླ་མ … ལགས",
+            "U00237: ཕྱི་རོལ … འཛིན",
+            "U00238: དུས་དང … ཅི",
+            "U00239: དབང་བསྐུར"
+          ],
+          "signs": [
+            "B09",
+            "B10",
+            "B11",
+            "B12",
+            "E3"
+          ],
+          "source_annotations": []
+        },
+        {
+          "row": "R4",
+          "approximate_native_bounds": [
+            700,
+            700,
+            5030,
+            940
+          ],
+          "observed_sequence": "བ་ཡི་ཆོ་ག་གང་⟦B13⟧ དམ་ཚིག་སྡོམ་པ་ཅི་ལྟ་བུ⟦B14⟧ བརྗོད་བྱ་ཚིག་གིས་བསྟན་པ་ཅི⟦B15⟧ ཚིག་འདས་སྤྲོས་པ་གང་གིས་བཅད⟦B16⟧ མངོན་སུམ་གནད་ལ་ཅི་ལྟར་བསྒྲེ⟦B17⟧",
+          "ordered_anchor_fragments": [
+            "U00239: བ་ཡི … གང",
+            "U00240: དམ་ཚིག … བུ",
+            "U00241: བརྗོད་བྱ … ཅི",
+            "U00242: ཚིག་འདས … བཅད",
+            "U00243: མངོན་སུམ … བསྒྲེ"
+          ],
+          "signs": [
+            "B13",
+            "B14",
+            "B15",
+            "B16",
+            "B17"
+          ],
+          "source_annotations": []
+        },
+        {
+          "row": "R5",
+          "approximate_native_bounds": [
+            690,
+            820,
+            5030,
+            1045
+          ],
+          "observed_sequence": "འཁོར་འདས་རུ་ཤན་གང་གིས་ཕྱེད⟦B18⟧ རླུང་འཛིན་སྤྱོད་པ་རྣམ་པ་དུ⟦B19⟧ སེམས་འཛིན་བསླབ་རིམ་གང་ཙམ་ཞིག⟦B20⟧ ཕྱི་ནང་གསང་བའི་འཆི་རྟགས་ཅི⟦B21⟧ བལྟ་བ⟦E5⟧",
+          "ordered_anchor_fragments": [
+            "U00244: འཁོར་འདས … ཕྱེད",
+            "U00245: རླུང་འཛིན … དུ",
+            "U00246: སེམས་འཛིན … ཞིག",
+            "U00247: ཕྱི་ནང … ཅི",
+            "U00248: བལྟ་བ"
+          ],
+          "signs": [
+            "B18",
+            "B19",
+            "B20",
+            "B21",
+            "E5"
+          ],
+          "source_annotations": []
+        },
+        {
+          "row": "R6",
+          "approximate_native_bounds": [
+            680,
+            940,
+            5035,
+            1135
+          ],
+          "observed_sequence": "མཐའ་ལ་གང་གིས་བསྐྱལ⟦B22⟧ བསྒོམ་པའི་སྲོག་ཤིང་གང་དང་གང་⟦B23⟧ སྤྱོད་པའི་སྦྱོར་བ་ཇི་ལྟ་བུ⟦B24⟧ འབྲས་བུའི་ཐོབ་ས་གང་ཙམ་ཞིག⟦B25⟧ འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡི⟦ས?⟧",
+          "ordered_anchor_fragments": [
+            "U00248: མཐའ་ལ … བསྐྱལ",
+            "U00249: བསྒོམ་པའི … གང",
+            "U00250: སྤྱོད་པའི … བུ",
+            "U00251: འབྲས་བུའི … ཞིག",
+            "U00252: འཁོར་བའི … ཅི་ཡི⟦ས?⟧"
+          ],
+          "signs": [
+            "B22",
+            "B23",
+            "B24",
+            "B25"
+          ],
+          "source_annotations": []
+        }
+      ],
+      "observations": [
+        {
+          "id": "B01",
+          "anchors": [
+            "U00227",
+            "U00228"
+          ],
+          "source_span": "བགྱིས ⟦V V⟧ རིག",
+          "base_span": "U00227 ending བགྱིས། །; U00228 opening རིག",
+          "category": "boundary_graphics",
+          "neighboring_context": "གང་གིས་བགྱིས → རིག་བཅས",
+          "approximate_native_bounds": [
+            1250,
+            340,
+            1680,
+            535
+          ],
+          "components": {
+            "long_upright_sign_candidates": 2,
+            "head_or_tier_components": null
+          },
+          "confidence": {
+            "shaft_count": "high",
+            "letter_separation": "high",
+            "head_topology": "unresolved"
+          },
+          "rationale": "The second upright lies before the body of རིག; it is included rather than absorbed into that letter.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B02",
+          "anchors": [
+            "U00228",
+            "U00229"
+          ],
+          "source_span": "གང་ ⟦V V⟧ གནད",
+          "base_span": "U00228 ending གང༌། །; U00229 opening གནད",
+          "category": "boundary_graphics",
+          "neighboring_context": "བྱེ་བྲག་གང → གནད་རྣམས",
+          "approximate_native_bounds": [
+            2250,
+            350,
+            2750,
+            540
+          ],
+          "components": {
+            "terminal_separator": 1,
+            "long_upright_sign_candidates": 2,
+            "head_or_tier_components": null
+          },
+          "confidence": {
+            "shaft_count": "medium",
+            "letter_separation": "medium",
+            "head_topology": "unresolved"
+          },
+          "rationale": "Both upright positions are counted across the interval; the near-གནད upright is left of the letter's angular body.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B03",
+          "anchors": [
+            "U00229",
+            "U00230"
+          ],
+          "source_span": "ལགས ⟦V V⟧ གྲུབ",
+          "base_span": "U00229 ending ལགས། །; U00230 opening གྲུབ",
+          "category": "boundary_graphics",
+          "neighboring_context": "གང་ལགས → གྲུབ་མཐའ",
+          "approximate_native_bounds": [
+            3540,
+            350,
+            4070,
+            550
+          ],
+          "components": {
+            "long_upright_sign_candidates": 2,
+            "head_or_tier_components": null
+          },
+          "confidence": {
+            "shaft_count": "high",
+            "letter_separation": "medium",
+            "head_topology": "unresolved"
+          },
+          "rationale": "A second upright precedes the distinct body and subscribed element of གྲུབ; those joined letter elements are not extra stops.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B04",
+          "anchors": [
+            "U00230",
+            "U00231"
+          ],
+          "source_span": "འགྲུབ ⟦V V⟧ [row break] མཐར",
+          "base_span": "U00230 ending འགྲུབ། །; U00231 opening མཐར",
+          "category": "boundary_at_row_end",
+          "neighboring_context": "གང་གིས་འགྲུབ → མཐར་ཐུག",
+          "approximate_native_bounds": [
+            [
+              4690,
+              350,
+              5030,
+              550
+            ],
+            [
+              715,
+              465,
+              1000,
+              660
+            ]
+          ],
+          "components": {
+            "long_upright_sign_candidates": 2,
+            "right_frame_lines_excluded": 2,
+            "head_or_tier_components": null
+          },
+          "confidence": {
+            "shaft_count": "high",
+            "letter_separation": "high",
+            "head_topology": "unresolved"
+          },
+          "rationale": "Both candidates precede the right compartment; the frame is separate. No additional leading stop is supplied at R2.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B05",
+          "anchors": [
+            "U00231",
+            "U00232"
+          ],
+          "source_span": "གང་ ⟦V V⟧ བསྒྲུབ",
+          "base_span": "U00231 ending གང༌། །; U00232 opening བསྒྲུབ",
+          "category": "boundary_graphics",
+          "neighboring_context": "དགོངས་པ་གང → བསྒྲུབ་པའི",
+          "approximate_native_bounds": [
+            1480,
+            460,
+            1910,
+            675
+          ],
+          "components": {
+            "terminal_separator": 1,
+            "long_upright_sign_candidates": 2,
+            "head_or_tier_components": null
+          },
+          "confidence": {
+            "shaft_count": "high",
+            "letter_separation": "medium",
+            "head_topology": "unresolved"
+          },
+          "rationale": "Includes the upright close to the next word; the ba body has its own angular head and descending side.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B06",
+          "anchors": [
+            "U00232",
+            "U00233"
+          ],
+          "source_span": "མཆིས ⟦V V⟧ གནས",
+          "base_span": "U00232 ending མཆིས། །; U00233 opening གནས",
+          "category": "boundary_graphics",
+          "neighboring_context": "དུ་ཞིག་མཆིས → གནས་ལུགས",
+          "approximate_native_bounds": [
+            2480,
+            470,
+            2940,
+            680
+          ],
+          "components": {
+            "long_upright_sign_candidates": 2,
+            "head_or_tier_components": null
+          },
+          "confidence": {
+            "shaft_count": "high",
+            "letter_separation": "medium",
+            "head_topology": "unresolved"
+          },
+          "rationale": "The interval contains a trailing upright and another before the angular ག body; the latter is not silently assigned to གནས.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B07",
+          "anchors": [
+            "U00233",
+            "U00234"
+          ],
+          "source_span": "ཅི ⟦V V⟧ འཁྲུལ",
+          "base_span": "U00233 ending ཅི། །; U00234 opening འཁྲུལ",
+          "category": "boundary_graphics",
+          "neighboring_context": "འདུག་ཚུལ་ཅི → འཁྲུལ་པའི",
+          "approximate_native_bounds": [
+            3620,
+            475,
+            4100,
+            685
+          ],
+          "components": {
+            "long_upright_sign_candidates": 2,
+            "head_or_tier_components": null
+          },
+          "confidence": {
+            "shaft_count": "high",
+            "letter_separation": "high",
+            "head_topology": "unresolved"
+          },
+          "rationale": "The second upright stands before the curved opening letter, with no need to borrow its limb.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B08",
+          "anchors": [
+            "U00234",
+            "U00235"
+          ],
+          "source_span": "བཟུངས ⟦V V⟧ [row break] ཤེས",
+          "base_span": "U00234 ending བཟུངས། །; U00235 opening ཤེས",
+          "category": "boundary_at_row_end",
+          "neighboring_context": "ཅི་ལྟར་བཟུངས → ཤེས་བྱའི",
+          "approximate_native_bounds": [
+            [
+              4650,
+              470,
+              5030,
+              690
+            ],
+            [
+              700,
+              575,
+              1020,
+              790
+            ]
+          ],
+          "components": {
+            "long_upright_sign_candidates": 2,
+            "head_or_tier_components": null
+          },
+          "confidence": {
+            "shaft_count": "high",
+            "letter_separation": "high",
+            "head_topology": "unresolved"
+          },
+          "rationale": "Two upright candidates remain inside the text compartment after the final syllable; the right frame is excluded.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B09",
+          "anchors": [
+            "U00235",
+            "U00236"
+          ],
+          "source_span": "བཅད ⟦V V⟧ བླ",
+          "base_span": "U00235 ending བཅད། །; U00236 opening བླ",
+          "category": "boundary_graphics",
+          "neighboring_context": "གང་གིས་བཅད → བླ་མ",
+          "approximate_native_bounds": [
+            1450,
+            580,
+            1890,
+            795
+          ],
+          "components": {
+            "long_upright_sign_candidates": 2,
+            "head_or_tier_components": null
+          },
+          "confidence": {
+            "shaft_count": "high",
+            "letter_separation": "medium",
+            "head_topology": "unresolved"
+          },
+          "rationale": "The near-word upright is distinguished from the angular ba head and the lower subscribed la.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B10",
+          "anchors": [
+            "U00236",
+            "U00237"
+          ],
+          "source_span": "ལགས ⟦V V⟧ ཕྱི",
+          "base_span": "U00236 ending ལགས། །; U00237 opening ཕྱི",
+          "category": "boundary_graphics",
+          "neighboring_context": "ཐབས་གང་ལགས → ཕྱི་རོལ",
+          "approximate_native_bounds": [
+            2470,
+            585,
+            2890,
+            805
+          ],
+          "components": {
+            "long_upright_sign_candidates": 2,
+            "head_or_tier_components": null
+          },
+          "confidence": {
+            "shaft_count": "high",
+            "letter_separation": "medium",
+            "head_topology": "unresolved"
+          },
+          "rationale": "The second upright is counted separately from the compound ཕྱི body; its subscribed sweep is a letter component.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B11",
+          "anchors": [
+            "U00237",
+            "U00238"
+          ],
+          "source_span": "འཛིན ⟦V V⟧ དུས",
+          "base_span": "U00237 ending འཛིན། །; U00238 opening དུས",
+          "category": "boundary_graphics",
+          "neighboring_context": "གང་གིས་འཛིན → དུས་དང",
+          "approximate_native_bounds": [
+            3500,
+            590,
+            4000,
+            810
+          ],
+          "components": {
+            "long_upright_sign_candidates": 2,
+            "head_or_tier_components": null
+          },
+          "confidence": {
+            "shaft_count": "high",
+            "letter_separation": "high",
+            "head_topology": "unresolved"
+          },
+          "rationale": "Both sides of the column-crop overlap were inspected; the next-word upright is not lost at the crop boundary.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B12",
+          "anchors": [
+            "U00238",
+            "U00239"
+          ],
+          "source_span": "ཅི ⟦V V⟧ དབང",
+          "base_span": "U00238 ending ཅི། །; U00239 opening དབང",
+          "category": "boundary_graphics",
+          "neighboring_context": "བབ་སོ་ཅི → དབང་བསྐུར",
+          "approximate_native_bounds": [
+            4320,
+            590,
+            4840,
+            815
+          ],
+          "components": {
+            "long_upright_sign_candidates": 2,
+            "head_or_tier_components": null
+          },
+          "confidence": {
+            "shaft_count": "high",
+            "letter_separation": "medium",
+            "head_topology": "unresolved"
+          },
+          "rationale": "The upright near དབང is included; the da's angled body and subsequent ba remain lexical components.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B13",
+          "anchors": [
+            "U00239",
+            "U00240"
+          ],
+          "source_span": "གང་ ⟦V V⟧ དམ",
+          "base_span": "U00239 ending གང༌། །; U00240 opening དམ",
+          "category": "boundary_graphics",
+          "neighboring_context": "བ་ཡི་ཆོ་ག་གང → དམ་ཚིག",
+          "approximate_native_bounds": [
+            1000,
+            700,
+            1410,
+            920
+          ],
+          "components": {
+            "terminal_separator": 1,
+            "long_upright_sign_candidates": 2,
+            "head_or_tier_components": null
+          },
+          "confidence": {
+            "shaft_count": "high",
+            "letter_separation": "high",
+            "head_topology": "unresolved"
+          },
+          "rationale": "This closes the unit begun at R3 right. Two boundary uprights are counted, including the one before དམ.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B14",
+          "anchors": [
+            "U00240",
+            "U00241"
+          ],
+          "source_span": "བུ ⟦V V⟧ བརྗོད",
+          "base_span": "U00240 ending བུ། །; U00241 opening བརྗོད",
+          "category": "boundary_graphics",
+          "neighboring_context": "ཅི་ལྟ་བུ → བརྗོད་བྱ",
+          "approximate_native_bounds": [
+            1780,
+            700,
+            2200,
+            925
+          ],
+          "components": {
+            "long_upright_sign_candidates": 2,
+            "head_or_tier_components": null
+          },
+          "confidence": {
+            "shaft_count": "medium",
+            "letter_separation": "medium",
+            "head_topology": "unresolved"
+          },
+          "rationale": "The boundary crosses the left/centre crop overlap; the leading upright is separate from the next ba's angular head.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B15",
+          "anchors": [
+            "U00241",
+            "U00242"
+          ],
+          "source_span": "ཅི ⟦V V⟧ ཚིག",
+          "base_span": "U00241 ending ཅི། །; U00242 opening ཚིག",
+          "category": "boundary_graphics",
+          "neighboring_context": "བསྟན་པ་ཅི → ཚིག་འདས",
+          "approximate_native_bounds": [
+            2630,
+            705,
+            3070,
+            930
+          ],
+          "components": {
+            "long_upright_sign_candidates": 2,
+            "head_or_tier_components": null
+          },
+          "confidence": {
+            "shaft_count": "high",
+            "letter_separation": "high",
+            "head_topology": "unresolved"
+          },
+          "rationale": "Both uprights are outside the following tsa body; its upper vowel and lower curves are not counted as signs.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B16",
+          "anchors": [
+            "U00242",
+            "U00243"
+          ],
+          "source_span": "བཅད ⟦V V⟧ མངོན",
+          "base_span": "U00242 ending བཅད། །; U00243 opening མངོན",
+          "category": "boundary_graphics",
+          "neighboring_context": "གང་གིས་བཅད → མངོན་སུམ",
+          "approximate_native_bounds": [
+            3590,
+            710,
+            4190,
+            940
+          ],
+          "components": {
+            "long_upright_sign_candidates": 2,
+            "head_or_tier_components": null
+          },
+          "confidence": {
+            "shaft_count": "high",
+            "letter_separation": "medium",
+            "head_topology": "unresolved"
+          },
+          "rationale": "The right-hand upright precedes the ma body; the following nga vowel is not a punctuation head.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B17",
+          "anchors": [
+            "U00243",
+            "U00244"
+          ],
+          "source_span": "བསྒྲེ ⟦V V⟧ [row break] འཁོར",
+          "base_span": "U00243 ending བསྒྲེ། །; U00244 opening འཁོར",
+          "category": "boundary_at_row_end",
+          "neighboring_context": "ཅི་ལྟར་བསྒྲེ → འཁོར་འདས",
+          "approximate_native_bounds": [
+            [
+              4630,
+              710,
+              5035,
+              945
+            ],
+            [
+              685,
+              825,
+              1030,
+              1030
+            ]
+          ],
+          "components": {
+            "long_upright_sign_candidates": 2,
+            "head_or_tier_components": null
+          },
+          "confidence": {
+            "shaft_count": "medium",
+            "letter_separation": "medium",
+            "head_topology": "unresolved"
+          },
+          "rationale": "The terminal compound letter has its own joined descending strokes; two further upright candidates occur before the frame.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B18",
+          "anchors": [
+            "U00244",
+            "U00245"
+          ],
+          "source_span": "ཕྱེད ⟦V V⟧ རླུང",
+          "base_span": "U00244 ending ཕྱེད། །; U00245 opening རླུང",
+          "category": "boundary_graphics",
+          "neighboring_context": "གང་གིས་ཕྱེད → རླུང་འཛིན",
+          "approximate_native_bounds": [
+            1470,
+            815,
+            1940,
+            1040
+          ],
+          "components": {
+            "long_upright_sign_candidates": 2,
+            "head_or_tier_components": null
+          },
+          "confidence": {
+            "shaft_count": "high",
+            "letter_separation": "medium",
+            "head_topology": "unresolved"
+          },
+          "rationale": "The next-word upright is included; the tiered and curved parts of རླུང remain joined lexical material.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B19",
+          "anchors": [
+            "U00245",
+            "U00246"
+          ],
+          "source_span": "དུ ⟦V V⟧ སེམས",
+          "base_span": "U00245 ending དུ། །; U00246 opening སེམས",
+          "category": "boundary_graphics",
+          "neighboring_context": "རྣམ་པ་དུ → སེམས་འཛིན",
+          "approximate_native_bounds": [
+            2360,
+            820,
+            2830,
+            1040
+          ],
+          "components": {
+            "long_upright_sign_candidates": 2,
+            "head_or_tier_components": null
+          },
+          "confidence": {
+            "shaft_count": "high",
+            "letter_separation": "high",
+            "head_topology": "unresolved"
+          },
+          "rationale": "The second upright lies before the sa body; the e-vowel belongs to སེམས.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B20",
+          "anchors": [
+            "U00246",
+            "U00247"
+          ],
+          "source_span": "ཞིག ⟦V⟧ ཕྱི",
+          "base_span": "U00246 ending ཞིག །; U00247 opening ཕྱི",
+          "category": "boundary_with_joined_letter_limb",
+          "neighboring_context": "གང་ཙམ་ཞིག → ཕྱི་ནང",
+          "approximate_native_bounds": [
+            3450,
+            820,
+            3990,
+            1045
+          ],
+          "components": {
+            "long_upright_sign_candidates": 1,
+            "terminal_ga_right_limb": 1,
+            "head_or_tier_components": null
+          },
+          "confidence": {
+            "shaft_count": "medium",
+            "letter_separation": "medium",
+            "head_topology": "unresolved"
+          },
+          "rationale": "The terminal ga's long right stroke joins its angular head and is retained as a letter limb. A separate upright occurs before ཕྱི; no second detached stop is supplied.",
+          "coordinator_disposition": "Keep the joined terminal-ga limb separate from the independently recorded upright. Do not promote a joined consonant shaft to an additional shad; exact head topology remains qualified."
+        },
+        {
+          "id": "B21",
+          "anchors": [
+            "U00247",
+            "U00248"
+          ],
+          "source_span": "ཅི ⟦V V⟧ བལྟ",
+          "base_span": "U00247 ending ཅི། །; U00248 opening བལྟ",
+          "category": "boundary_graphics",
+          "neighboring_context": "འཆི་རྟགས་ཅི → བལྟ་བ",
+          "approximate_native_bounds": [
+            4410,
+            835,
+            4960,
+            1050
+          ],
+          "components": {
+            "long_upright_sign_candidates": 2,
+            "head_or_tier_components": null
+          },
+          "confidence": {
+            "shaft_count": "medium",
+            "letter_separation": "medium",
+            "head_topology": "unresolved"
+          },
+          "rationale": "The upright before བལྟ is included; the stacked lower elements of the word are not reclassified as punctuation.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B22",
+          "anchors": [
+            "U00248",
+            "U00249"
+          ],
+          "source_span": "བསྐྱལ ⟦V V⟧ བསྒོམ",
+          "base_span": "U00248 ending བསྐྱལ། །; U00249 opening བསྒོམ",
+          "category": "boundary_graphics",
+          "neighboring_context": "གང་གིས་བསྐྱལ → བསྒོམ་པའི",
+          "approximate_native_bounds": [
+            1270,
+            930,
+            1700,
+            1135
+          ],
+          "components": {
+            "long_upright_sign_candidates": 2,
+            "head_or_tier_components": null
+          },
+          "confidence": {
+            "shaft_count": "high",
+            "letter_separation": "medium",
+            "head_topology": "unresolved"
+          },
+          "rationale": "The second upright is counted before the ba head of བསྒོམ; the final la in བསྐྱལ remains lexical.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B23",
+          "anchors": [
+            "U00249",
+            "U00250"
+          ],
+          "source_span": "གང་ ⟦V V⟧ སྤྱོད",
+          "base_span": "U00249 ending གང་། །; U00250 opening སྤྱོད",
+          "category": "boundary_graphics",
+          "neighboring_context": "གང་དང་གང → སྤྱོད་པའི",
+          "approximate_native_bounds": [
+            2350,
+            935,
+            2830,
+            1140
+          ],
+          "components": {
+            "terminal_separator": 1,
+            "long_upright_sign_candidates": 2,
+            "head_or_tier_components": null
+          },
+          "confidence": {
+            "shaft_count": "high",
+            "letter_separation": "medium",
+            "head_topology": "unresolved"
+          },
+          "rationale": "The second upright precedes the stacked སྤྱོད body. Its connected horizontal tiers and lower curve are letter components.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B24",
+          "anchors": [
+            "U00250",
+            "U00251"
+          ],
+          "source_span": "བུ ⟦V V⟧ འབྲས",
+          "base_span": "U00250 ending བུ། །; U00251 opening འབྲས",
+          "category": "boundary_graphics",
+          "neighboring_context": "ཇི་ལྟ་བུ → འབྲས་བུའི",
+          "approximate_native_bounds": [
+            3080,
+            940,
+            3530,
+            1140
+          ],
+          "components": {
+            "long_upright_sign_candidates": 2,
+            "head_or_tier_components": null
+          },
+          "confidence": {
+            "shaft_count": "high",
+            "letter_separation": "high",
+            "head_topology": "unresolved"
+          },
+          "rationale": "Both upright candidates are outside the following curved opening letter; the lower u-vowel remains part of བུ.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B25",
+          "anchors": [
+            "U00251",
+            "U00252"
+          ],
+          "source_span": "ཞིག ⟦V⟧ འཁོར",
+          "base_span": "U00251 ending ཞིག །; U00252 opening འཁོར",
+          "category": "boundary_with_joined_letter_limb",
+          "neighboring_context": "གང་ཙམ་ཞིག → འཁོར་བའི",
+          "approximate_native_bounds": [
+            4020,
+            940,
+            4550,
+            1140
+          ],
+          "components": {
+            "long_upright_sign_candidates": 1,
+            "terminal_ga_right_limb": 1,
+            "head_or_tier_components": null
+          },
+          "confidence": {
+            "shaft_count": "high",
+            "letter_separation": "high",
+            "head_topology": "unresolved"
+          },
+          "rationale": "The ga's right descending stroke is connected to its letter head. One further upright stands before འཁོར; the connected ga stroke is not counted as a detached stop.",
+          "coordinator_disposition": "Keep the joined terminal-ga limb separate from the independently recorded upright. Do not promote a joined consonant shaft to an additional shad; exact head topology remains qualified."
+        },
+        {
+          "id": "W01",
+          "anchors": [
+            "U00227"
+          ],
+          "source_span": "[PDF11] སྤོ་བའི → [PDF12 R1] ལས་ནི",
+          "base_span": "U00227 སྤོ་བའི་ལས་ནི",
+          "category": "page_wrap",
+          "neighboring_context": "The target begins within the unit.",
+          "approximate_native_bounds": [
+            730,
+            330,
+            1120,
+            525
+          ],
+          "confidence": {
+            "lexical": "high",
+            "target_entry_sign": "high"
+          },
+          "rationale": "No main-text opening ornament or leading detached stop is identified before target-page ལས.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "W02",
+          "anchors": [
+            "U00239"
+          ],
+          "source_span": "R3 དབང་བསྐུར⟦E3⟧ → R4 བ་ཡི་ཆོ་ག་གང",
+          "base_span": "U00239 དབང་བསྐུར་བ་ཡི་ཆོ་ག་གང",
+          "category": "row_wrap_with_unresolved_small_marks",
+          "neighboring_context": "Between B12 and B13.",
+          "approximate_native_bounds": [
+            [
+              4700,
+              600,
+              5030,
+              810
+            ],
+            [
+              700,
+              700,
+              1200,
+              920
+            ]
+          ],
+          "confidence": {
+            "lexical": "high",
+            "small_mark_count": "low"
+          },
+          "rationale": "No long terminal stop is securely distinguished at R3 end; E3 preserves the small-mark question without supplying a verse boundary.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "W03",
+          "anchors": [
+            "U00248"
+          ],
+          "source_span": "R5 བལྟ་བ⟦E5⟧ → R6 མཐའ་ལ་གང་གིས་བསྐྱལ",
+          "base_span": "U00248 བལྟ་བ་མཐའ་ལ་གང་གིས་བསྐྱལ",
+          "category": "row_wrap_with_unresolved_small_marks",
+          "neighboring_context": "Between B21 and B22.",
+          "approximate_native_bounds": [
+            [
+              4750,
+              835,
+              5030,
+              1050
+            ],
+            [
+              680,
+              940,
+              1510,
+              1135
+            ]
+          ],
+          "confidence": {
+            "lexical": "high",
+            "small_mark_count": "low"
+          },
+          "rationale": "The short upper marks at R5 right are not converted into shads or silently discarded.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "W04",
+          "anchors": [
+            "U00252"
+          ],
+          "source_span": "PDF12 R6 འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡི⟦ས?⟧ → PDF13 R1 གཅོད",
+          "base_span": "U00252 འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡིས་གཅོད",
+          "category": "page_wrap",
+          "neighboring_context": "After B25; continuation inspected in attachment 8.",
+          "approximate_native_bounds": [
+            4300,
+            940,
+            5035,
+            1135
+          ],
+          "confidence": {
+            "lexical_except_final_letter": "high",
+            "final_letter": "medium",
+            "terminal_punctuation": "medium"
+          },
+          "rationale": "No target-page terminal shad is securely identified after the crowded final letters. PDF13 punctuation and ornament are outside this inventory.",
+          "coordinator_disposition": "Preserve the observed page wrap into PDF13 gcod while keeping the final PDF12 sa and local terminal traces uncertain. Following-page context is not independent discrimination of the weak source letter."
+        }
+      ],
+      "canonical_record_ids": [],
+      "target_pages": [
+        12
+      ],
+      "source_layers_and_non_main_regions": [
+        {
+          "id": "M1",
+          "region": "Upper left internal strip",
+          "approximate_native_bounds": [
+            610,
+            310,
+            745,
+            465
+          ],
+          "observed": "One large hooked glyph with a curved upper extension, lower bowl, and right descending stroke.",
+          "reading": null,
+          "disposition": "Identity unresolved; not assigned a numeral or main-text value."
+        },
+        {
+          "id": "M2",
+          "region": "Left internal strip below M1",
+          "approximate_native_bounds": [
+            565,
+            470,
+            710,
+            935
+          ],
+          "observed": "བཅུ་དྲུག་རྒྱུད",
+          "confidence": "medium",
+          "disposition": "Marginal wording; inspected also in rotated attachment 27, which is the same source."
+        },
+        {
+          "id": "M3",
+          "region": "Exterior left margin",
+          "approximate_native_bounds": [
+            65,
+            420,
+            210,
+            890
+          ],
+          "observed": "000012",
+          "disposition": "Rotated Arabic-digit serial; not equated with the Tibetan folio glyph."
+        },
+        {
+          "id": "M4",
+          "region": "Internal right strip",
+          "approximate_native_bounds": [
+            5020,
+            345,
+            5160,
+            1120
+          ],
+          "observed": "No legible wording; bounded by two vertical frame lines."
+        },
+        {
+          "id": "M5",
+          "region": "Text frame",
+          "approximate_native_bounds": [
+            550,
+            295,
+            5160,
+            1130
+          ],
+          "observed": "Sloping upper and lower rules, narrow left title compartment, narrow empty right compartment; breaks and irregular ink along the rules.",
+          "disposition": "Frame strokes excluded from punctuation counts."
+        },
+        {
+          "id": "M6",
+          "region": "Exterior upper and lower margins and remaining outer space",
+          "approximate_native_bounds": [
+            0,
+            0,
+            5696,
+            1344
+          ],
+          "observed": "Long irregular edge lines, faint horizontal traces, scattered specks, and otherwise blank space outside the framed text; no additional legible textual annotation.",
+          "disposition": "No textual reading assigned to scratches or edge lines."
+        },
+        {
+          "id": "M7",
+          "region": "Main-text opening and interlinear space",
+          "observed": "No separate opening ornament or smaller interlinear annotation securely identified on the target page.",
+          "disposition": "The ornaments and smaller writing on neighboring pages are not transferred to PDF12."
+        }
+      ],
+      "unread_or_uncertain_spans": [
+        {
+          "id": "H01",
+          "scope": "The head portions of the upright candidates in B01–B25, each bounded by its listed interval rectangle.",
+          "question": "Exact number and connectivity of short cap/tier elements above each counted long shaft.",
+          "disposition": "V preserves shaft positions only. Neither a plain-shad classification nor normalization of a potentially tiered graphic is supported by this response."
+        },
+        {
+          "id": "E3",
+          "scope": "R3, rightmost end of བསྐུར, approximately [4910,600,5030,715].",
+          "question": "One or two small upper ticks are distinguishable as possible marks; their separation from the final letter and their tsheg/filler roles remain unresolved.",
+          "disposition": "No long stop added; no exact small-component count certified."
+        },
+        {
+          "id": "E5",
+          "scope": "R5, rightmost end of བལྟ་བ, approximately [4910,840,5030,935].",
+          "question": "Small upper ticks beside the final ba: exact component count and division between tsheg, filler, and letter feature remain unresolved.",
+          "disposition": "Preserved as an unresolved local graphic cluster."
+        },
+        {
+          "id": "L01",
+          "scope": "R6 final letter of ཡི⟦ས?⟧, approximately [4930,980,5035,1100].",
+          "question": "Final sa is probable, but its weakened, crowded strokes are not fully resolved.",
+          "disposition": "Tentative letter retained; following གཅོད is not supplied on PDF12."
+        },
+        {
+          "id": "M1",
+          "scope": "Single large glyph in the upper left internal strip, approximately [610,310,745,465].",
+          "question": "Glyph identity and folio/volume function.",
+          "disposition": "Graphic description retained without a guessed numeral."
+        }
+      ],
+      "unexamined_spans": [],
+      "next_physical_span": "Continue the saved PDF13 report. Retain PDF12 H01, E3, E5, L01 and M1; the PDF13 lexical join alone cannot settle the weak PDF12 final sa.",
+      "integration_20260929": {
+        "verified_inputs": {
+          "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B11-P0012-reader-reading.txt",
+          "sha256": "fb4a1451f8879db492f98866b08147863637323bdda0259b135bba87951b4df8",
+          "images_hash_verified": 27,
+          "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B11-P0012-reader-execution.json"
+        },
+        "baseline_commit": "e2ac5f53c4d4fc91dd7b78f226bf4269f7ebd7b2",
+        "coordinator": {
+          "coordinator_scope": "Coordinator inspected the native overview and all three unscaled full-height columns of this target, and read the preserved source-ordered rows, boundaries and unresolved-component ledger. Source and reader-output hashes were verified. Informed image reading, not blind or credentialed human certification.",
+          "observation_dispositions": {
+            "B01": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B02": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B03": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B04": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B05": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B06": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B07": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B08": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B09": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B10": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B11": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B12": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B13": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B14": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B15": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B16": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B17": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B18": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B19": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B20": "Keep the joined terminal-ga limb separate from the independently recorded upright. Do not promote a joined consonant shaft to an additional shad; exact head topology remains qualified.",
+            "B21": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B22": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B23": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B24": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B25": "Keep the joined terminal-ga limb separate from the independently recorded upright. Do not promote a joined consonant shaft to an additional shad; exact head topology remains qualified.",
+            "W01": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "W02": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "W03": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "W04": "Preserve the observed page wrap into PDF13 gcod while keeping the final PDF12 sa and local terminal traces uncertain. Following-page context is not independent discrimination of the weak source letter."
+          },
+          "summary": "Adzom PDF12: six source-ordered rows and twenty-five intervals integrated, U00227 continuation through the unfinished U00252 page-end phrase.",
+          "detail": "Forty-eight long upright candidates and two joined terminal-ga limbs are accounted for separately. Cap/tier topology, E3/E5 small-mark clusters, U00252 final sa and the large marginal glyph remain unresolved. The raw medium-confidence marginal reading is preserved, not normalized to an expected title or folio.",
+          "next_step": "Continue the saved PDF13 report. Retain PDF12 H01, E3, E5, L01 and M1; the PDF13 lexical join alone cannot settle the weak PDF12 final sa."
+        },
+        "reader_claims_not_automatically_certified": true
+      },
+      "independent_review": {
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B11-P0012-reader-reading.txt",
+        "sha256": "fb4a1451f8879db492f98866b08147863637323bdda0259b135bba87951b4df8",
+        "images_hash_verified": 27,
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B11-P0012-reader-execution.json",
+        "scope": {
+          "target_main_rows_inspected": 6,
+          "target_non_main_regions_inspected": true,
+          "complete_interunit_intervals_recorded": 25,
+          "long_upright_sign_candidates_counted": 48,
+          "joined_terminal_ga_limbs_separately_accounted_for": 2,
+          "small_row_end_clusters_unresolved": 2,
+          "source_annotation_result": "No separate structural note identified on PDF12; the supplied U00272 annotation is not target-page evidence.",
+          "unaligned_components": "M1–M7 and E3/E5 account for non-main and unresolved row-end material separately from verse alignment.",
+          "completion": "All target regions inspected; lexical row sequence and long-upright inventory supplied. Exact cap/tier topology, two small row-end clusters, one final letter, and the large marginal glyph remain unresolved; full physical-sign certification is incomplete.",
+          "review_status": "Informed independent agent reading; neither blind review nor human palaeographic certification. No whole-chapter claim."
+        },
+        "proposals_adopted": false
+      }
     },
     {
       "batch_id": "B12-P0013",
-      "status": "claimed_prepared_not_read",
+      "status": "review_integrated_with_bounded_uncertainties",
       "owner": "reader-C1-BASE-PHYSICAL-B12-P0013-reader",
       "baseline_commit": "07f658e3c831f86f50841e4bb9587472eaa194a6",
       "scope": "Complete the physical sign/source-layer inventory of ADZOM PDF13 only. Every main row and non-main region must be inspected. Existing lexical pass remains; neighboring pages are boundary context only. Reference range is a broad locating aid, never a guessed page map. Record each complete two-word boundary interval, including uprights near the next word, without assuming those uprights are part of the next letter. Give physical component counts and joined-letter reasons; do not count only preceding-owned marks. Tiered source graphics are not plain shads merely because the base uses that encoding.",
       "target_page": 13,
       "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B12-P0013/manifest.json",
       "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B12-P0013-reader-spec.json",
-      "rows_actually_compared": [],
-      "observations": [],
-      "canonical_record_ids": []
+      "rows_actually_compared": [
+        {
+          "row_id": "R1",
+          "approximate_native_bounds": [
+            645,
+            250,
+            4960,
+            475
+          ],
+          "observed_sequence": "⟨O1⟩ གཅོད⟨B252⟩བཅུད་ཀྱིས་ལེན་པ་ཇི་ལྟ་བུ⟨B253⟩གོས་ནི་གང་གིས་འགྲུབ་པ་ལགས⟨B254⟩འབྱུང་བའི་རྒྱུན་ནི་ཅི་ལྟར་གཅད⟨B255⟩བཞི་པོ་⟦Q1⟧་རྣམས་ཅི⟨F1⟩",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00252",
+              "fragment": "གཅོད",
+              "extent": "final word"
+            },
+            {
+              "anchor": "U00253",
+              "first": "བཅུད",
+              "last": "བུ"
+            },
+            {
+              "anchor": "U00254",
+              "first": "གོས",
+              "last": "ལགས"
+            },
+            {
+              "anchor": "U00255",
+              "first": "འབྱུང",
+              "last": "གཅད"
+            },
+            {
+              "anchor": "U00256",
+              "fragment": "བཞི་པོ་⟦Q1⟧་རྣམས་ཅི",
+              "extent": "continues in R2"
+            }
+          ],
+          "signs": [
+            "O1",
+            "B252",
+            "B253",
+            "B254",
+            "B255",
+            "F1"
+          ],
+          "source_annotations": []
+        },
+        {
+          "row_id": "R2",
+          "approximate_native_bounds": [
+            640,
+            390,
+            4960,
+            600
+          ],
+          "observed_sequence": "ཡིས་སྙོམས⟨B256⟩མཛོད་ལ་ཡོན་ཏན་ཅི་ལྟར་འབྱུང་⟨B257⟩འཕགས་པའི་རྫུ་འཕྲུལ་ཅི་ཡིས་འགྲུབ⟨B258⟩གཏེར་ལ་ལོངས་སྤྱོད་ཅི་ལྟར་བགྱི⟨B259⟩གཞི་ལྔ་དབང་དུ་གང་གིས⟨F2⟩",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00256",
+              "fragment": "ཡིས་སྙོམས",
+              "extent": "continuation"
+            },
+            {
+              "anchor": "U00257",
+              "first": "མཛོད",
+              "last": "འབྱུང"
+            },
+            {
+              "anchor": "U00258",
+              "first": "འཕགས",
+              "last": "འགྲུབ"
+            },
+            {
+              "anchor": "U00259",
+              "first": "གཏེར",
+              "last": "བགྱི"
+            },
+            {
+              "anchor": "U00260",
+              "fragment": "གཞི་ལྔ་དབང་དུ་གང་གིས",
+              "extent": "continues in R3"
+            }
+          ],
+          "signs": [
+            "B256",
+            "B257",
+            "B258",
+            "B259",
+            "F2"
+          ],
+          "source_annotations": []
+        },
+        {
+          "row_id": "R3",
+          "approximate_native_bounds": [
+            635,
+            520,
+            4960,
+            735
+          ],
+          "observed_sequence": "འདུས⟨B260⟩འདི་དག་བདག་གིས་སྔར་མ་འཚལ⟨B261⟩སྣང་བའི་བདག་པོས་བདག་ལ་གསུང་⟨B262⟩བདག་ལ་རིམ་པ་གསལ་ཕྱེ་བས⟨B263⟩མ་འོངས་པ་ཡི་དུས་རྣམས⟨F3⟩",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00260",
+              "fragment": "འདུས",
+              "extent": "final word"
+            },
+            {
+              "anchor": "U00261",
+              "first": "འདི",
+              "last": "འཚལ"
+            },
+            {
+              "anchor": "U00262",
+              "first": "སྣང",
+              "last": "གསུང"
+            },
+            {
+              "anchor": "U00263",
+              "first": "བདག",
+              "last": "བས"
+            },
+            {
+              "anchor": "U00264",
+              "fragment": "མ་འོངས་པ་ཡི་དུས་རྣམས",
+              "extent": "continues in R4"
+            }
+          ],
+          "signs": [
+            "B260",
+            "B261",
+            "B262",
+            "B263",
+            "F3"
+          ],
+          "source_annotations": []
+        },
+        {
+          "row_id": "R4",
+          "approximate_native_bounds": [
+            635,
+            650,
+            4960,
+            860
+          ],
+          "observed_sequence": "སུ⟨B264⟩འདི་ལ་དད་ཅིང་འདུན་པ་ཀུན⟨B265⟩རྫོགས་ཆེན་འདི་ལ་ཡིད་ཆེས་ནས⟨B266⟩བྱ་བྲལ་གླེན་པས་བདེ་ཆེན་རྙེད⟨B267⟩འཁོར་བའི་ཐ་མ་ཟད་ནས་ནི⟨B268⟩མྱ་ངན་འདས⟨F4⟩",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00264",
+              "fragment": "སུ",
+              "extent": "final word"
+            },
+            {
+              "anchor": "U00265",
+              "first": "འདི",
+              "last": "ཀུན"
+            },
+            {
+              "anchor": "U00266",
+              "first": "རྫོགས",
+              "last": "ནས"
+            },
+            {
+              "anchor": "U00267",
+              "first": "བྱ",
+              "last": "རྙེད"
+            },
+            {
+              "anchor": "U00268",
+              "first": "འཁོར",
+              "last": "ནི"
+            },
+            {
+              "anchor": "U00269",
+              "fragment": "མྱ་ངན་འདས",
+              "extent": "continues in R5"
+            }
+          ],
+          "signs": [
+            "B264",
+            "B265",
+            "B266",
+            "B267",
+            "B268",
+            "F4"
+          ],
+          "source_annotations": []
+        },
+        {
+          "row_id": "R5",
+          "approximate_native_bounds": [
+            635,
+            775,
+            4960,
+            990
+          ],
+          "observed_sequence": "པའི་ལམ་སྣ་ཟིན⟨B269⟩དེ་ཕྱིར་བདག་གིས་ཅི་ཞུས་པ⟨B270⟩རིམ་པ་གསལ་བར་ཕྱེས་ལ་གསུང་⟨B271⟩དེ་ནས་ཁྱབ་བདག་སེམས་དཔའ་ནི⟨B272⟩སྒྲ་ཚིག་མིང་དུ་མ་⟦Q2⟧⟨F5⟩",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00269",
+              "fragment": "པའི་ལམ་སྣ་ཟིན",
+              "extent": "continuation"
+            },
+            {
+              "anchor": "U00270",
+              "first": "དེ",
+              "last": "པ"
+            },
+            {
+              "anchor": "U00271",
+              "first": "རིམ",
+              "last": "གསུང"
+            },
+            {
+              "anchor": "U00272",
+              "fragment": "དེ་ནས་ཁྱབ་བདག་སེམས་དཔའ་ནི",
+              "extent": "main-sized wording only"
+            },
+            {
+              "anchor": "U00273",
+              "fragment": "སྒྲ་ཚིག་མིང་དུ་མ་⟦Q2⟧",
+              "extent": "continues in R6"
+            }
+          ],
+          "signs": [
+            "B269",
+            "B270",
+            "B271",
+            "B272",
+            "F5"
+          ],
+          "source_annotations": []
+        },
+        {
+          "row_id": "R6",
+          "approximate_native_bounds": [
+            635,
+            865,
+            4960,
+            1070
+          ],
+          "observed_sequence": "ཀྱང⟨B273⟩རང་བཞིན་བཅོས་མེད་ནམ་མཁའ་ལ⟨B274⟩བྲིས་ཞིང་བཀོད་པ་མ་ཡིན་པར⟨B275.a⟩⟦SMALL:N1 རྒྱུད་ཀྱི་ཆེ་བ་རྣམ་པར་⟦QN1⟧་བཀོད་པ⟨B275.b⟩⟧⟨B275.c⟩ཡན་ལག་དྲུག་ཅུའི་དབྱངས་ལྡན་ཏེ⟨B276⟩",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00273",
+              "fragment": "ཀྱང",
+              "extent": "final word"
+            },
+            {
+              "anchor": "U00274",
+              "first": "རང",
+              "last": "ལ"
+            },
+            {
+              "anchor": "U00275",
+              "first": "བྲིས",
+              "last": "པར"
+            },
+            {
+              "anchor": "SCAN-CH1-LAYER-00272",
+              "fragment": "རྒྱུད་ཀྱི་ཆེ་བ་རྣམ་པར་⟦QN1⟧་བཀོད་པ",
+              "extent": "smaller interleaved source annotation; alignment provisional at unresolved letters"
+            },
+            {
+              "anchor": "U00276",
+              "first": "ཡན",
+              "last": "ཏེ"
+            }
+          ],
+          "signs": [
+            "B273",
+            "B274",
+            "B275.a",
+            "B275.b",
+            "B275.c",
+            "B276"
+          ],
+          "source_annotations": [
+            {
+              "id": "N1",
+              "physical_position": "Between the end of U00275 and the beginning of U00276 in the sixth physical row; smaller than adjoining main text.",
+              "observed_sequence": "རྒྱུད་ཀྱི་ཆེ་བ་རྣམ་པར་⟦QN1⟧་བཀོད་པ",
+              "terminal_sign": "B275.b",
+              "approximate_native_bounds": [
+                2990,
+                870,
+                3840,
+                1020
+              ],
+              "alignment_note": "The supplied reference associates this wording with U00272. Its physical placement here is retained; it is not inserted into the main-sized R5 verse."
+            }
+          ]
+        }
+      ],
+      "observations": [
+        {
+          "id": "O1",
+          "anchors": [
+            "U00252"
+          ],
+          "source_span": "O V … V གཅོད",
+          "base_span": "No opening ornament supplied in U00252.",
+          "category": "opening_graphics",
+          "neighboring_context": "Page begins with the final word གཅོད following the ornament and intervening blank space.",
+          "approximate_native_bounds": [
+            650,
+            300,
+            1430,
+            475
+          ],
+          "physical_components": {
+            "complex_ornaments": 1,
+            "detached_tall_uprights": 2
+          },
+          "confidence_by_dimension": {
+            "ornament_presence": "high",
+            "upright_count": "medium-high",
+            "ornament_connectivity": "unresolved"
+          },
+          "rationale": "One upright follows the ornament; another stands near གཅོད. The latter is inventoried separately from the joined angular body of ག.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B252",
+          "anchors": [
+            "U00252",
+            "U00253"
+          ],
+          "source_span": "གཅོད T V བཅུད",
+          "base_span": "གཅོད། །བཅུད",
+          "category": "tiered_boundary",
+          "neighboring_context": "R1, continued question followed by བཅུད་ཀྱིས.",
+          "approximate_native_bounds": [
+            1160,
+            300,
+            1760,
+            475
+          ],
+          "physical_components": {
+            "tiered_graphics": 1,
+            "tiered_principal_components": 4,
+            "additional_detached_uprights": 1,
+            "total_boundary_components": 5
+          },
+          "confidence_by_dimension": {
+            "reading": "high",
+            "count": "medium",
+            "graphic_class": "high"
+          },
+          "rationale": "The upper wedges and middle bar above the lower upright must survive transcription. The further upright near བཅུད is separate from the letter's joined bowl/head.",
+          "coordinator_disposition": "Preserve the tiered source graphic and independently inventoried next-leading upright as separate components. No forced plain-shad encoding or deletion is adopted."
+        },
+        {
+          "id": "B253",
+          "anchors": [
+            "U00253",
+            "U00254"
+          ],
+          "source_span": "བུ V V གོས",
+          "base_span": "བུ། །གོས",
+          "category": "boundary_interval",
+          "neighboring_context": "R1, ཇི་ལྟ་བུ / གོས་ནི.",
+          "approximate_native_bounds": [
+            2010,
+            280,
+            2460,
+            460
+          ],
+          "physical_components": {
+            "detached_tall_uprights": 2
+          },
+          "confidence_by_dimension": {
+            "reading": "high",
+            "count": "high",
+            "ownership": "medium"
+          },
+          "rationale": "Both isolated uprights are counted. The angular head and attached descending limb of ག are letter-owned, not a third sign.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B254",
+          "anchors": [
+            "U00254",
+            "U00255"
+          ],
+          "source_span": "ལགས V V འབྱུང",
+          "base_span": "ལགས། །འབྱུང",
+          "category": "boundary_interval",
+          "neighboring_context": "R1, འགྲུབ་པ་ལགས / འབྱུང་བའི.",
+          "approximate_native_bounds": [
+            3060,
+            265,
+            3630,
+            445
+          ],
+          "physical_components": {
+            "detached_tall_uprights": 2
+          },
+          "confidence_by_dimension": {
+            "reading": "high",
+            "count": "high",
+            "ownership": "medium"
+          },
+          "rationale": "The second detached upright precedes the hooked initial letter; the hooked letter's own connected stroke is excluded.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B255",
+          "anchors": [
+            "U00255",
+            "U00256"
+          ],
+          "source_span": "གཅད V V བཞི",
+          "base_span": "གཅད། །བཞི",
+          "category": "boundary_interval",
+          "neighboring_context": "R1, ཅི་ལྟར་གཅད / བཞི་པོ.",
+          "approximate_native_bounds": [
+            3980,
+            245,
+            4610,
+            435
+          ],
+          "physical_components": {
+            "detached_tall_uprights": 2
+          },
+          "confidence_by_dimension": {
+            "reading": "high",
+            "count": "high",
+            "ownership": "medium"
+          },
+          "rationale": "The upright near བཞི remains detached from the initial བ body; both interval uprights are retained.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B256",
+          "anchors": [
+            "U00256",
+            "U00257"
+          ],
+          "source_span": "སྙོམས V V མཛོད",
+          "base_span": "སྙོམས། །མཛོད",
+          "category": "boundary_interval",
+          "neighboring_context": "R2, ཡིས་སྙོམས / མཛོད་ལ.",
+          "approximate_native_bounds": [
+            825,
+            420,
+            1390,
+            605
+          ],
+          "physical_components": {
+            "detached_tall_uprights": 2
+          },
+          "confidence_by_dimension": {
+            "reading": "high",
+            "count": "high",
+            "ownership": "medium"
+          },
+          "rationale": "The next-word-side upright is isolated; the following མ has its own joined head/body.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B257",
+          "anchors": [
+            "U00257",
+            "U00258"
+          ],
+          "source_span": "འབྱུང་ V V འཕགས",
+          "base_span": "འབྱུང༌། །འཕགས",
+          "category": "boundary_interval",
+          "neighboring_context": "R2, ཅི་ལྟར་འབྱུང / འཕགས་པའི.",
+          "approximate_native_bounds": [
+            1730,
+            410,
+            2400,
+            605
+          ],
+          "physical_components": {
+            "detached_tall_uprights": 2,
+            "preceding_terminal_point": 1
+          },
+          "confidence_by_dimension": {
+            "reading": "high",
+            "upright_count": "high",
+            "point": "medium"
+          },
+          "rationale": "The upper terminal point is not a tall shad. Two further uprights occupy the interval; the hooked initial འ is excluded.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B258",
+          "anchors": [
+            "U00258",
+            "U00259"
+          ],
+          "source_span": "འགྲུབ V V གཏེར",
+          "base_span": "འགྲུབ།།གཏེར",
+          "category": "boundary_interval",
+          "neighboring_context": "R2, ཅི་ཡིས་འགྲུབ / གཏེར་ལ.",
+          "approximate_native_bounds": [
+            2890,
+            385,
+            3520,
+            580
+          ],
+          "physical_components": {
+            "detached_tall_uprights": 2
+          },
+          "confidence_by_dimension": {
+            "reading": "high",
+            "count": "high",
+            "ownership": "medium"
+          },
+          "rationale": "The upright immediately before གཏེར is independent of ག's joined angular head and body.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B259",
+          "anchors": [
+            "U00259",
+            "U00260"
+          ],
+          "source_span": "བགྱི V V གཞི",
+          "base_span": "བགྱི། །གཞི",
+          "category": "boundary_interval",
+          "neighboring_context": "R2, ཅི་ལྟར་བགྱི / གཞི་ལྔ.",
+          "approximate_native_bounds": [
+            3910,
+            365,
+            4580,
+            560
+          ],
+          "physical_components": {
+            "detached_tall_uprights": 2
+          },
+          "confidence_by_dimension": {
+            "reading": "high",
+            "count": "medium-high",
+            "ownership": "medium"
+          },
+          "rationale": "Both separated uprights are included; the following ག has a connected angular letter body and is not counted as punctuation.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B260",
+          "anchors": [
+            "U00260",
+            "U00261"
+          ],
+          "source_span": "འདུས T V འདི",
+          "base_span": "འདུས། །འདི",
+          "category": "tiered_boundary",
+          "neighboring_context": "R3 opening, following R2 གང་གིས.",
+          "approximate_native_bounds": [
+            635,
+            550,
+            1270,
+            735
+          ],
+          "physical_components": {
+            "tiered_graphics": 1,
+            "tiered_principal_components": 4,
+            "additional_detached_uprights": 1,
+            "total_boundary_components": 5
+          },
+          "confidence_by_dimension": {
+            "reading": "high",
+            "count": "medium",
+            "graphic_class": "high"
+          },
+          "rationale": "The tiered sign is retained as T. The next-word-side upright is separate from the hooked body of འ.",
+          "coordinator_disposition": "Preserve the tiered source graphic and independently inventoried next-leading upright as separate components. No forced plain-shad encoding or deletion is adopted."
+        },
+        {
+          "id": "B261",
+          "anchors": [
+            "U00261",
+            "U00262"
+          ],
+          "source_span": "འཚལ V V སྣང",
+          "base_span": "འཚལ། །སྣང",
+          "category": "boundary_interval",
+          "neighboring_context": "R3, སྔར་མ་འཚལ / སྣང་བའི.",
+          "approximate_native_bounds": [
+            1730,
+            535,
+            2360,
+            730
+          ],
+          "physical_components": {
+            "detached_tall_uprights": 2
+          },
+          "confidence_by_dimension": {
+            "reading": "high",
+            "count": "medium-high",
+            "ownership": "medium"
+          },
+          "rationale": "The second interval upright is distinct from the following stacked letter, whose descending strokes join its head.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B262",
+          "anchors": [
+            "U00262",
+            "U00263"
+          ],
+          "source_span": "གསུང་ V V བདག",
+          "base_span": "གསུང་། །བདག",
+          "category": "boundary_interval",
+          "neighboring_context": "R3, བདག་ལ་གསུང / བདག་ལ་རིམ་པ.",
+          "approximate_native_bounds": [
+            2890,
+            515,
+            3580,
+            710
+          ],
+          "physical_components": {
+            "detached_tall_uprights": 2,
+            "preceding_terminal_point": 1
+          },
+          "confidence_by_dimension": {
+            "reading": "high",
+            "upright_count": "high",
+            "point": "medium"
+          },
+          "rationale": "The point after ང and two tall uprights are distinct. The joined initial བ bowl is excluded from the upright count.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B263",
+          "anchors": [
+            "U00263",
+            "U00264"
+          ],
+          "source_span": "བས V V མ",
+          "base_span": "བས། །མ",
+          "category": "boundary_interval",
+          "neighboring_context": "R3, གསལ་ཕྱེ་བས / མ་འོངས.",
+          "approximate_native_bounds": [
+            3940,
+            490,
+            4520,
+            695
+          ],
+          "physical_components": {
+            "detached_tall_uprights": 2
+          },
+          "confidence_by_dimension": {
+            "reading": "high",
+            "count": "high",
+            "ownership": "medium"
+          },
+          "rationale": "The upright before མ is detached; the letter's own descending strokes join its head.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B264",
+          "anchors": [
+            "U00264",
+            "U00265"
+          ],
+          "source_span": "སུ T V འདི",
+          "base_span": "སུ། །འདི",
+          "category": "tiered_boundary",
+          "neighboring_context": "R4 opening, after R3 དུས་རྣམས.",
+          "approximate_native_bounds": [
+            635,
+            690,
+            1100,
+            865
+          ],
+          "physical_components": {
+            "tiered_graphics": 1,
+            "tiered_principal_components": 4,
+            "additional_detached_uprights": 1,
+            "total_boundary_components": 5
+          },
+          "confidence_by_dimension": {
+            "reading": "high",
+            "count": "medium",
+            "graphic_class": "high"
+          },
+          "rationale": "Upper wedges and middle tier remain separate from the lower upright. The further upright before འདི is also counted.",
+          "coordinator_disposition": "Preserve the tiered source graphic and independently inventoried next-leading upright as separate components. No forced plain-shad encoding or deletion is adopted."
+        },
+        {
+          "id": "B265",
+          "anchors": [
+            "U00265",
+            "U00266"
+          ],
+          "source_span": "ཀུན V V རྫོགས",
+          "base_span": "ཀུན། །རྫོགས",
+          "category": "boundary_interval",
+          "neighboring_context": "R4, འདུན་པ་ཀུན / རྫོགས་ཆེན.",
+          "approximate_native_bounds": [
+            1540,
+            670,
+            2010,
+            855
+          ],
+          "physical_components": {
+            "detached_tall_uprights": 2
+          },
+          "confidence_by_dimension": {
+            "reading": "high",
+            "count": "medium",
+            "ownership": "medium"
+          },
+          "rationale": "The near-initial detached upright is included. Descenders joined into the རྫ stack are letter strokes, not additional boundary signs.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B266",
+          "anchors": [
+            "U00266",
+            "U00267"
+          ],
+          "source_span": "ནས V V བྱ",
+          "base_span": "ནས། །བྱ",
+          "category": "boundary_interval",
+          "neighboring_context": "R4, ཡིད་ཆེས་ནས / བྱ་བྲལ.",
+          "approximate_native_bounds": [
+            2430,
+            640,
+            3080,
+            835
+          ],
+          "physical_components": {
+            "detached_tall_uprights": 2
+          },
+          "confidence_by_dimension": {
+            "reading": "high",
+            "count": "high",
+            "ownership": "medium"
+          },
+          "rationale": "The second upright lies outside the joined བྱ letter and subjoined form.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B267",
+          "anchors": [
+            "U00267",
+            "U00268"
+          ],
+          "source_span": "རྙེད V V འཁོར",
+          "base_span": "རྙེད། །འཁོར",
+          "category": "boundary_interval",
+          "neighboring_context": "R4, བདེ་ཆེན་རྙེད / འཁོར་བའི.",
+          "approximate_native_bounds": [
+            3370,
+            630,
+            3940,
+            825
+          ],
+          "physical_components": {
+            "detached_tall_uprights": 2
+          },
+          "confidence_by_dimension": {
+            "reading": "high",
+            "count": "high",
+            "ownership": "medium"
+          },
+          "rationale": "Both isolated uprights precede the following word's independently hooked initial letter.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B268",
+          "anchors": [
+            "U00268",
+            "U00269"
+          ],
+          "source_span": "ནི V V མྱ",
+          "base_span": "ནི། །མྱ",
+          "category": "boundary_interval",
+          "neighboring_context": "R4, ཟད་ནས་ནི / མྱ་ངན.",
+          "approximate_native_bounds": [
+            4310,
+            605,
+            4790,
+            790
+          ],
+          "physical_components": {
+            "detached_tall_uprights": 2
+          },
+          "confidence_by_dimension": {
+            "reading": "high",
+            "count": "high",
+            "ownership": "medium"
+          },
+          "rationale": "The upright adjacent to མྱ is separate from its joined head and subjoined curve.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B269",
+          "anchors": [
+            "U00269",
+            "U00270"
+          ],
+          "source_span": "ཟིན V V དེ",
+          "base_span": "ཟིན། །དེ",
+          "category": "boundary_interval",
+          "neighboring_context": "R5, པའི་ལམ་སྣ་ཟིན / དེ་ཕྱིར.",
+          "approximate_native_bounds": [
+            990,
+            815,
+            1480,
+            990
+          ],
+          "physical_components": {
+            "detached_tall_uprights": 2
+          },
+          "confidence_by_dimension": {
+            "reading": "high",
+            "count": "high",
+            "ownership": "medium"
+          },
+          "rationale": "The initial ད body and vowel have joined letter structure; a separate preceding upright is counted alongside the earlier upright.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B270",
+          "anchors": [
+            "U00270",
+            "U00271"
+          ],
+          "source_span": "པ V V རིམ",
+          "base_span": "པ། །རིམ",
+          "category": "boundary_interval",
+          "neighboring_context": "R5, ཅི་ཞུས་པ / རིམ་པ་གསལ.",
+          "approximate_native_bounds": [
+            1850,
+            785,
+            2370,
+            975
+          ],
+          "physical_components": {
+            "detached_tall_uprights": 2
+          },
+          "confidence_by_dimension": {
+            "reading": "high",
+            "count": "medium-high",
+            "ownership": "medium"
+          },
+          "rationale": "The detached upright near རིམ is counted; the following letter's curved/head-connected stroke is excluded.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B271",
+          "anchors": [
+            "U00271",
+            "U00272"
+          ],
+          "source_span": "གསུང་ V V དེ",
+          "base_span": "གསུང་། །དེ",
+          "category": "boundary_interval",
+          "neighboring_context": "R5, ཕྱེས་ལ་གསུང / དེ་ནས་ཁྱབ.",
+          "approximate_native_bounds": [
+            2880,
+            765,
+            3450,
+            960
+          ],
+          "physical_components": {
+            "detached_tall_uprights": 2,
+            "preceding_terminal_point": 1
+          },
+          "confidence_by_dimension": {
+            "reading": "high",
+            "upright_count": "high",
+            "point": "medium"
+          },
+          "rationale": "The terminal point, earlier upright and next-word-side upright are separately inventoried. The ད body is joined lettering.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B272",
+          "anchors": [
+            "U00272",
+            "U00273"
+          ],
+          "source_span": "ནི V V སྒྲ",
+          "base_span": "ནི། །སྒྲ",
+          "category": "boundary_interval",
+          "neighboring_context": "R5, སེམས་དཔའ་ནི / སྒྲ་ཚིག.",
+          "approximate_native_bounds": [
+            4040,
+            740,
+            4580,
+            935
+          ],
+          "physical_components": {
+            "detached_tall_uprights": 2
+          },
+          "confidence_by_dimension": {
+            "reading": "high",
+            "count": "medium-high",
+            "ownership": "medium"
+          },
+          "rationale": "The next-word-side detached upright is included. Long limbs joined into the following སྒྲ stack do not add shads.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B273",
+          "anchors": [
+            "U00273",
+            "U00274"
+          ],
+          "source_span": "ཀྱང T V རང",
+          "base_span": "ཀྱང༌། །རང",
+          "category": "tiered_boundary",
+          "neighboring_context": "R6 opening; U00273 starts in R5.",
+          "approximate_native_bounds": [
+            635,
+            935,
+            1190,
+            1070
+          ],
+          "physical_components": {
+            "tiered_graphics": 1,
+            "tiered_principal_components": 4,
+            "additional_detached_uprights": 1,
+            "total_boundary_components": 5
+          },
+          "confidence_by_dimension": {
+            "reading": "medium-high",
+            "count": "medium",
+            "graphic_class": "high"
+          },
+          "rationale": "Despite weaker ink, the tiered design is visible. The further detached upright before རང is retained; the letter's connected stroke is excluded.",
+          "coordinator_disposition": "Preserve the tiered source graphic and independently inventoried next-leading upright as separate components. No forced plain-shad encoding or deletion is adopted."
+        },
+        {
+          "id": "B274",
+          "anchors": [
+            "U00274",
+            "U00275"
+          ],
+          "source_span": "ལ V V བྲིས",
+          "base_span": "ལ། །བྲིས",
+          "category": "boundary_interval",
+          "neighboring_context": "R6, ནམ་མཁའ་ལ / བྲིས་ཞིང.",
+          "approximate_native_bounds": [
+            1780,
+            905,
+            2260,
+            1060
+          ],
+          "physical_components": {
+            "detached_tall_uprights": 2
+          },
+          "confidence_by_dimension": {
+            "reading": "high",
+            "count": "high",
+            "ownership": "medium"
+          },
+          "rationale": "The initial བྲ stack has its own joined bowl and subjoined limb; the isolated upright to its left is a second interval sign.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "B275",
+          "anchors": [
+            "U00275",
+            "SCAN-CH1-LAYER-00272",
+            "U00276"
+          ],
+          "source_span": "པར V [smaller N1 ending བཀོད་པ V] V ཡན",
+          "base_span": "Main text: པར། །ཡན; separate reference annotation: རྒྱུད་ཀྱི་ཆེ་བ་རྣམ་པར་བཀོད་པའི་བཀོད་པ.",
+          "category": "interleaved_annotation_and_boundary",
+          "neighboring_context": "R6, མ་ཡིན་པར / smaller source note / ཡན་ལག.",
+          "approximate_native_bounds": [
+            2750,
+            865,
+            4190,
+            1040
+          ],
+          "physical_components": {
+            "B275.a": "One upright after པར.",
+            "B275.b": "One upright at the smaller note's right end.",
+            "B275.c": "One detached upright before ཡན.",
+            "total_detached_tall_uprights": 3
+          },
+          "confidence_by_dimension": {
+            "physical_interleaving": "high",
+            "upright_count": "medium-high",
+            "annotation_reading": "partial",
+            "annotation_alignment": "medium"
+          },
+          "rationale": "The complete interval contains three uprights and an intervening textual layer. The note-terminal upright must not disappear when the two main-text boundary uprights are assigned. The initial ཡ has a joined body and is not another sign.",
+          "coordinator_disposition": "Keep B275.a, the small-note terminal B275.b and next-leading B275.c separately inventoried once; main text and the interleaved note have distinct physical layers."
+        },
+        {
+          "id": "B276",
+          "anchors": [
+            "U00276",
+            "U00277"
+          ],
+          "source_span": "ཏེ V V [page turn] མ་བྲིས",
+          "base_span": "ཏེ། །མ་བྲིས",
+          "category": "page_end_boundary",
+          "neighboring_context": "R6 ends དབྱངས་ལྡན་ཏེ; PDF14 begins མ་བྲིས་རི་མོའི.",
+          "approximate_native_bounds": [
+            4680,
+            865,
+            4990,
+            1035
+          ],
+          "physical_components": {
+            "detached_tall_uprights": 2,
+            "excluded_frame_uprights": 1
+          },
+          "confidence_by_dimension": {
+            "reading": "high",
+            "count": "high",
+            "frame_separation": "high"
+          },
+          "rationale": "Two isolated text-height uprights precede the continuous right frame. The frame continues through the page and is not a third terminal sign.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "EDGE1",
+          "anchors": [
+            "U00256",
+            "U00260",
+            "U00264",
+            "U00269",
+            "U00273"
+          ],
+          "source_span": "R1 ཅི F1 / R2 གིས F2 / R3 རྣམས F3 / R4 འདས F4 / R5 ⟦Q2⟧ F5",
+          "base_span": "These units continue across physical rows; no corresponding verse-final boundary is supplied at these breaks.",
+          "category": "row_terminal_short_marks",
+          "neighboring_context": "All five loci lie immediately before the right frame, above or near letter-head level.",
+          "approximate_native_bounds": [
+            4780,
+            245,
+            4975,
+            945
+          ],
+          "physical_components": {
+            "F1": {
+              "clear_short_components": 3,
+              "description": "One dot-like mark followed by two short upright ticks; no full-height shad."
+            },
+            "F2": {
+              "clear_short_components": 1,
+              "possible_additional_components": 1,
+              "question": "QE2"
+            },
+            "F3": {
+              "clear_short_components": 1,
+              "description": "Short upper-level mark; its function is not assigned."
+            },
+            "F4": {
+              "clear_detached_components": 0,
+              "possible_terminal_point": 1,
+              "question": "QE4"
+            },
+            "F5": {
+              "clear_detached_full_height_uprights": 0,
+              "possible_terminal_point": 1,
+              "question": "Q2"
+            }
+          },
+          "confidence_by_dimension": {
+            "absence_of_full_height_row_end_shads": "medium-high",
+            "F1_count": "medium",
+            "F2_count": "unresolved",
+            "other_short_mark_function": "low"
+          },
+          "rationale": "Short points and ticks are not promoted to shads. These locations continue as ཡིས་སྙོམས, འདུས, སུ, པའི་ལམ and ཀྱང respectively.",
+          "coordinator_disposition": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted."
+        },
+        {
+          "id": "LAYER1",
+          "anchors": [
+            "U00272",
+            "SCAN-CH1-LAYER-00272"
+          ],
+          "source_span": "R5 main-sized དེ་ནས་ཁྱབ་བདག་སེམས་དཔའ་ནི; R6 smaller རྒྱུད་ཀྱི་ཆེ་བ་རྣམ་པར་⟦QN1⟧་བཀོད་པ.",
+          "base_span": "U00272 source_tibetan interposes the annotation after དེ་ནས; reading_tibetan and separate_annotations distinguish it.",
+          "category": "source_layer_separation",
+          "neighboring_context": "The small wording physically occupies the R6 interval after པར and before ཡན.",
+          "approximate_native_bounds": [
+            2990,
+            740,
+            4250,
+            1035
+          ],
+          "confidence_by_dimension": {
+            "size_difference": "high",
+            "physical_location": "high",
+            "full_note_reading": "partial",
+            "semantic_attachment": "not independently established"
+          },
+          "rationale": "The printed position and size support a separate layer. No visible connecting pointer is asserted, and the note is not silently moved into R5.",
+          "coordinator_disposition": "Preserve N1 at its actual row6 position between U00275 and U00276. Its logical association with U00272 remains explicitly interpreted; the unresolved QN1 words are not supplied from the base and no connector is invented."
+        },
+        {
+          "id": "CONTEXT1",
+          "anchors": [
+            "U00252",
+            "U00276",
+            "U00277"
+          ],
+          "source_span": "PDF12 final row: འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡིས; PDF13 opening: གཅོད. PDF13 ending: ཡན་ལག་དྲུག་ཅུའི་དབྱངས་ལྡན་ཏེ; PDF14 opening: མ་བྲིས་རི་མོའི་ཚུལ་ཙམ་དུ.",
+          "base_span": "U00252 and U00276–U00277.",
+          "category": "page_boundary_context",
+          "neighboring_context": "Only adjacent-page boundary wording is used.",
+          "approximate_native_bounds": {
+            "PDF13_opening": [
+              650,
+              300,
+              1450,
+              475
+            ],
+            "PDF13_ending": [
+              3900,
+              860,
+              4970,
+              1035
+            ]
+          },
+          "confidence_by_dimension": {
+            "page_continuity": "high",
+            "anchor_alignment": "high"
+          },
+          "rationale": "The page map follows visible continuations; it is not inferred from the broad supplied anchor range.",
+          "coordinator_disposition": "Accept the bounded incoming/outgoing lexical correspondence only. Keep the previous PDF12 L01 final-sa uncertainty visible; this contextual quotation is not a new certification of that weak letter."
+        }
+      ],
+      "canonical_record_ids": [],
+      "target_pages": [
+        13
+      ],
+      "source_layers_and_non_main_regions": [
+        {
+          "id": "NM1",
+          "region": "Opening ornament",
+          "approximate_native_bounds": [
+            650,
+            315,
+            830,
+            445
+          ],
+          "observed": "O: two curled heads above doubled sweeping strokes.",
+          "sign_inventory_reference": "O1",
+          "unresolved": "Exact connectivity of worn ornamental strokes is not certified."
+        },
+        {
+          "id": "NM2",
+          "region": "Left marginal compartment, read with the rotated view",
+          "approximate_native_bounds": [
+            505,
+            300,
+            630,
+            1050
+          ],
+          "observed_sequence": "ཀ ⟦QM1⟧ བདུན་ སྒྲ་⟦QM2⟧་འགྱུར",
+          "confidence": {
+            "ཀ": "high",
+            "བདུན": "medium",
+            "title_outer_fragments": "medium"
+          },
+          "note": "Detached marginal groups remain separate; their functions are not inferred from the PDF page number."
+        },
+        {
+          "id": "NM3",
+          "region": "Exterior left stamp",
+          "approximate_native_bounds": [
+            65,
+            450,
+            190,
+            930
+          ],
+          "observed_sequence": "000013",
+          "classification": "Mechanical page/image stamp; not Tibetan main text."
+        },
+        {
+          "id": "NM4",
+          "region": "Main frame and left divider",
+          "approximate_native_bounds": [
+            485,
+            210,
+            4990,
+            1080
+          ],
+          "observed": "Continuous skewed top and bottom rules, left frame and internal marginal divider. Their extended strokes are framing, not additional shads."
+        },
+        {
+          "id": "NM5",
+          "region": "Right framed strip",
+          "approximate_native_bounds": [
+            4960,
+            205,
+            5115,
+            1045
+          ],
+          "observed": "Narrow blank compartment between the text-side upright and outer rule; no legible wording."
+        },
+        {
+          "id": "NM6",
+          "region": "Upper, lower and exterior margins",
+          "approximate_native_bounds": [
+            0,
+            0,
+            5696,
+            1344
+          ],
+          "observed": "Outside the foregoing regions: irregular horizontal edge impressions, isolated specks and faint scratches; no additional legible textual annotation. The y=1150 bands contain exterior material, not another text row."
+        }
+      ],
+      "unread_or_uncertain_spans": [
+        {
+          "id": "Q1",
+          "location": "R1, between བཞི་པོ and རྣམས",
+          "approximate_native_bounds": [
+            4520,
+            260,
+            4700,
+            410
+          ],
+          "scope": "One faint syllabic group.",
+          "candidate": "རོ",
+          "remaining_question": "The small vowel/body strokes are insufficiently distinct for an unqualified reading."
+        },
+        {
+          "id": "Q2",
+          "location": "R5 right end, after མ and before R6 ཀྱང",
+          "approximate_native_bounds": [
+            4690,
+            750,
+            4965,
+            950
+          ],
+          "scope": "One worn stacked syllable and any following upper-level terminal point.",
+          "candidate": "བསྒྲགས",
+          "remaining_question": "Lower and final strokes, and the separation of a possible terminal point, remain unresolved."
+        },
+        {
+          "id": "QN1",
+          "location": "Smaller R6 annotation, after རྣམ་པར and before final བཀོད་པ",
+          "approximate_native_bounds": [
+            3410,
+            870,
+            3680,
+            1015
+          ],
+          "scope": "Approximately two small syllables.",
+          "candidate": "བཀོད་པའི",
+          "remaining_question": "The crowded small letter bodies and genitive marks are not securely separable."
+        },
+        {
+          "id": "QM1",
+          "location": "Left marginal compartment, between ཀ and བདུན",
+          "approximate_native_bounds": [
+            510,
+            425,
+            625,
+            550
+          ],
+          "scope": "One short marginal group, approximately one or two glyphs.",
+          "candidate": null,
+          "remaining_question": "Letter identity remains unresolved after the rotated view."
+        },
+        {
+          "id": "QM2",
+          "location": "Left marginal title, between སྒྲ and འགྱུར",
+          "approximate_native_bounds": [
+            505,
+            875,
+            625,
+            1005
+          ],
+          "scope": "One short syllabic group.",
+          "candidate": "ཐལ",
+          "remaining_question": "Medial letter strokes remain insufficiently clear for an unqualified title transcription."
+        },
+        {
+          "id": "QE2",
+          "location": "R2, immediately after གིས and before the right frame",
+          "approximate_native_bounds": [
+            4870,
+            390,
+            4975,
+            500
+          ],
+          "scope": "One clear short mark and a possible second faint component.",
+          "remaining_question": "Whether the faint component is a second designed tick or an ink/frame artifact."
+        },
+        {
+          "id": "QE4",
+          "location": "R4, immediately after འདས",
+          "approximate_native_bounds": [
+            4860,
+            650,
+            4975,
+            785
+          ],
+          "scope": "Possible terminal point only.",
+          "remaining_question": "No independent terminal point can be securely separated from neighboring ink."
+        }
+      ],
+      "unexamined_spans": {
+        "within_target_page": [],
+        "outside_target_scope": [
+          "PDF12 apart from overview and final boundary context was not collated.",
+          "PDF14 apart from overview and opening boundary context was not collated."
+        ]
+      },
+      "next_physical_span": "All six saved Adzom PDF8-13 reports are integrated. Next new base physical span is PDF14 from U00277, while title/portrait PDF1-2 and all exact prior component questions remain required. Continue other eligible witness gaps without recreating these reports.",
+      "integration_20260929": {
+        "verified_inputs": {
+          "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B12-P0013-reader-reading.txt",
+          "sha256": "7320f787bff822b23b3c5e15b0e67c3475638c4fb00b645ecf9aab8ba1812af4",
+          "images_hash_verified": 27,
+          "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B12-P0013-reader-execution.json"
+        },
+        "baseline_commit": "e2ac5f53c4d4fc91dd7b78f226bf4269f7ebd7b2",
+        "coordinator": {
+          "coordinator_scope": "Coordinator inspected the native overview and all three unscaled full-height columns of this target, and read the preserved source-ordered rows, boundaries and unresolved-component ledger. Source and reader-output hashes were verified. Informed image reading, not blind or credentialed human certification.",
+          "observation_dispositions": {
+            "O1": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B252": "Preserve the tiered source graphic and independently inventoried next-leading upright as separate components. No forced plain-shad encoding or deletion is adopted.",
+            "B253": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B254": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B255": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B256": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B257": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B258": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B259": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B260": "Preserve the tiered source graphic and independently inventoried next-leading upright as separate components. No forced plain-shad encoding or deletion is adopted.",
+            "B261": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B262": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B263": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B264": "Preserve the tiered source graphic and independently inventoried next-leading upright as separate components. No forced plain-shad encoding or deletion is adopted.",
+            "B265": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B266": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B267": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B268": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B269": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B270": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B271": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B272": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B273": "Preserve the tiered source graphic and independently inventoried next-leading upright as separate components. No forced plain-shad encoding or deletion is adopted.",
+            "B274": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "B275": "Keep B275.a, the small-note terminal B275.b and next-leading B275.c separately inventoried once; main text and the interleaved note have distinct physical layers.",
+            "B276": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "EDGE1": "Preserve this physical inventory and its original confidence within the stated interval. Counts, joining, exact cap topology, Unicode encoding and editorial ownership are distinct; no blanket punctuation deletion, lexical replacement, or unqualified glyph agreement is adopted.",
+            "LAYER1": "Preserve N1 at its actual row6 position between U00275 and U00276. Its logical association with U00272 remains explicitly interpreted; the unresolved QN1 words are not supplied from the base and no connector is invented.",
+            "CONTEXT1": "Accept the bounded incoming/outgoing lexical correspondence only. Keep the previous PDF12 L01 final-sa uncertainty visible; this contextual quotation is not a new certification of that weak letter."
+          },
+          "summary": "Adzom PDF13: six source-ordered rows, twenty-five main boundary intervals, row-terminal short marks and the separately interleaved N1 source note integrated, through U00276.",
+          "detail": "Tiered B252/B260/B264/B273 remain graphically distinct from plain-shad serialization. N1 physically occurs after U00275 and before U00276 in row6; the note-associated U00272 main verse is on row5. All three uprights at B275 retain separate identities. Q1/Q2/QN1, marginal groups and short-mark questions remain explicit.",
+          "next_step": "All six saved Adzom PDF8-13 reports are integrated. Next new base physical span is PDF14 from U00277, while title/portrait PDF1-2 and all exact prior component questions remain required. Continue other eligible witness gaps without recreating these reports."
+        },
+        "reader_claims_not_automatically_certified": true
+      },
+      "graphic_legend": {
+        "V": "One visually detached, tall, tapering upright; graphic description precedes assignment as punctuation.",
+        "T": "Tiered boundary graphic: two small upper wedges, one short middle bar, and one longer lower upright; four principal visible components. Not encoded here as a plain shad.",
+        "O": "Opening ornament with two curled heads and doubled sweeping lower strokes; retained as one complex ornament, without asserting connected-component segmentation.",
+        "F": "Short row-terminal marks, separately inventoried below; not automatically shads.",
+        "editorial_markers": "⟦Q…⟧ bounds inspected but unresolved lettering. ⟨B…⟩ and ⟨F…⟩ refer to the unique inventories below; these markers are not source characters.",
+        "counts": "Counts concern visually distinguishable designed components, excluding incidental ink fragmentation.",
+        "ownership": "Boundary signs are inventoried once for the complete interval, including detached uprights immediately before the following word. References elsewhere do not add occurrences."
+      },
+      "independent_review": {
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B12-P0013-reader-reading.txt",
+        "sha256": "7320f787bff822b23b3c5e15b0e67c3475638c4fb00b645ecf9aab8ba1812af4",
+        "images_hash_verified": 27,
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B12-P0013-reader-execution.json",
+        "scope": {
+          "target_inspection": "All six target rows and all visible non-main regions received direct visual inspection.",
+          "inventory_status": "Provisional source-ordered inventory; bounded unresolved lettering and short-mark counts remain listed above.",
+          "main_boundary_intervals_inventoried": 25,
+          "tiered_boundary_intervals": [
+            "B252",
+            "B260",
+            "B264",
+            "B273"
+          ],
+          "interleaved_source_layer": "N1 retained at its physical R6 location, with all three interval uprights inventoried.",
+          "unaligned_components": [
+            "Opening ornament and its two uprights",
+            "Tiered graphic components beyond plain base-shad encoding",
+            "Short row-terminal marks F1–F5",
+            "Marginal lettering and stamp",
+            "N1 physical placement and its separate terminal upright"
+          ],
+          "lexical_pass": "Existing lexical pass remains; unresolved readings here are not adopted corrections.",
+          "review_type": "Informed independent agent reading, not blind review or human palaeographic certification.",
+          "certification": "No whole-chapter or fully resolved glyph certification."
+        },
+        "proposals_adopted": false
+      }
     }
   ],
   "remaining_declared_scope": "All unlisted physical dimensions on PDF1-5, plus PDF6-102; existing lexical pass and verified local signs retained. Next sub-batches complete page3,4,5 separately, with the exact prior record references supplied.",
