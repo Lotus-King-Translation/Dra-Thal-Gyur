@@ -771,7 +771,7 @@
       "id": "C1-DEGE",
       "kind": "witness_coverage",
       "status": "in_progress",
-      "owner": "separate-page-readers-CONTINUE2-W03",
+      "owner": "ChatGPT-coordinator-20260929-integration",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -799,7 +799,7 @@
       "blocker": null,
       "dependency_policy": "preferred_order",
       "current_wave_id": "CONTINUE2-W03",
-      "current_batch_id": "B02-P0004",
+      "current_batch_id": "B01-P0003",
       "bounded_parallel_policy": "Each reader owns one target page and at most three source pages including context; coordinator alone publishes and no unfinished page is inferred complete from a neighbor."
     },
     {
