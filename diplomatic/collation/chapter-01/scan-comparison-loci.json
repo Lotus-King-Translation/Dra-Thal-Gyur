@@ -29192,5 +29192,2092 @@
       },
       "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged."
     }
+  },
+  {
+    "id": "TS-COV1-B10-O24-02",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00685"
+    ],
+    "base_snippet_at_review": "བཀོད་པ་ལ",
+    "comparison_reading": "བཀོད་པ་ལས",
+    "status": "localized_observation",
+    "confidence": "{\"reading\": \"high\", \"alignment\": \"high\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 24; source-member and native bounds in linked packet; bounds: [450, 328, 745, 425]",
+    "rationale": "The final ས is visible. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O24-02",
+        "pdf_page": 24,
+        "anchors": [
+          "U00685"
+        ],
+        "source_span": "བཀོད་པ་ལས",
+        "base_span": "བཀོད་པ་ལ",
+        "category": "suffix",
+        "neighboring_context": "Row 1 གསུམ་པ་ཡེ་ཤེས continues at row 2 left; སྒྲ follows the boundary.",
+        "approximate_native_bounds": [
+          450,
+          328,
+          745,
+          425
+        ],
+        "confidence": {
+          "reading": "high",
+          "alignment": "high",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The final ས is visible."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-O24-03",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00687"
+    ],
+    "base_snippet_at_review": "བཀོད་པ་ལ",
+    "comparison_reading": "བཀོད་པ་ལས",
+    "status": "localized_observation",
+    "confidence": "{\"reading\": \"high\", \"alignment\": \"high\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 24; source-member and native bounds in linked packet; bounds: [1830, 329, 2125, 432]",
+    "rationale": "The ending reads ལས, independently of the preceding occurrence. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O24-03",
+        "pdf_page": 24,
+        "anchors": [
+          "U00687"
+        ],
+        "source_span": "བཀོད་པ་ལས",
+        "base_span": "བཀོད་པ་ལ",
+        "category": "suffix",
+        "neighboring_context": "After བཞི་པ་ཆོས་ཉིད and before ཡོན་ཏན.",
+        "approximate_native_bounds": [
+          1830,
+          329,
+          2125,
+          432
+        ],
+        "confidence": {
+          "reading": "high",
+          "alignment": "high",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The ending reads ལས, independently of the preceding occurrence."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-O24-04",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00688"
+    ],
+    "base_snippet_at_review": "སེམས་ཉིད་ལུང",
+    "comparison_reading": "སེམས་ཀྱི་ལུང",
+    "status": "localized_observation",
+    "confidence": "{\"reading\": \"high\", \"alignment\": \"high\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 24; source-member and native bounds in linked packet; bounds: [2640, 330, 3020, 440]",
+    "rationale": "The intervening stack reads ཀྱི. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O24-04",
+        "pdf_page": 24,
+        "anchors": [
+          "U00688"
+        ],
+        "source_span": "སེམས་ཀྱི་ལུང",
+        "base_span": "སེམས་ཉིད་ལུང",
+        "category": "lexical",
+        "neighboring_context": "ཡོན་ཏན་རྫོགས་པའི precedes; ལྔ་པ follows the boundary.",
+        "approximate_native_bounds": [
+          2640,
+          330,
+          3020,
+          440
+        ],
+        "confidence": {
+          "reading": "high",
+          "alignment": "high",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The intervening stack reads ཀྱི."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-O24-05",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00689"
+    ],
+    "base_snippet_at_review": "བལྟ་བསྒོམ",
+    "comparison_reading": "བལྟ་སྒོམ",
+    "status": "provisional_visual_observation",
+    "confidence": "{\"reading\": \"medium\", \"alignment\": \"high\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 24; source-member and native bounds in linked packet; bounds: [3170, 325, 3440, 432]",
+    "rationale": "I read the second member without a separate prefixed བ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O24-05",
+        "pdf_page": 24,
+        "anchors": [
+          "U00689"
+        ],
+        "source_span": "བལྟ་སྒོམ",
+        "base_span": "བལྟ་བསྒོམ",
+        "category": "spelling",
+        "neighboring_context": "ལྔ་པ … བཀོད་པ་སྟེ.",
+        "approximate_native_bounds": [
+          3170,
+          325,
+          3440,
+          432
+        ],
+        "confidence": {
+          "reading": "medium",
+          "alignment": "high",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "I read the second member without a separate prefixed བ."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-O24-06",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00693"
+    ],
+    "base_snippet_at_review": "གསུམ་གྱི",
+    "comparison_reading": "གསུམ་གྱིས",
+    "status": "localized_observation",
+    "confidence": "{\"reading\": \"high\", \"alignment\": \"high\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 24; source-member and native bounds in linked packet; bounds: [3000, 423, 3260, 525]",
+    "rationale": "The terminal ས is visible before the boundary. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O24-06",
+        "pdf_page": 24,
+        "anchors": [
+          "U00693"
+        ],
+        "source_span": "གསུམ་གྱིས",
+        "base_span": "གསུམ་གྱི",
+        "category": "suffix",
+        "neighboring_context": "དེ་ལྟར་དྲུག་གིས་སྐུ precedes; འབྲས་བུ follows.",
+        "approximate_native_bounds": [
+          3000,
+          423,
+          3260,
+          525
+        ],
+        "confidence": {
+          "reading": "high",
+          "alignment": "high",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The terminal ས is visible before the boundary."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-O24-07",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00695"
+    ],
+    "base_snippet_at_review": "ལེའུ་གྱུར",
+    "comparison_reading": "ལེའུ་འགྱུར",
+    "status": "provisional_visual_observation",
+    "confidence": "{\"reading\": \"medium\", \"alignment\": \"high\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 24; source-member and native bounds in linked packet; bounds: [690, 520, 1015, 624]",
+    "rationale": "A prefixed འ is read in the source group. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O24-07",
+        "pdf_page": 24,
+        "anchors": [
+          "U00695"
+        ],
+        "source_span": "ལེའུ་འགྱུར",
+        "base_span": "ལེའུ་གྱུར",
+        "category": "prefix",
+        "neighboring_context": "ཚད་བསྟན … དག་ཤེས.",
+        "approximate_native_bounds": [
+          690,
+          520,
+          1015,
+          624
+        ],
+        "confidence": {
+          "reading": "medium",
+          "alignment": "high",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "A prefixed འ is read in the source group."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-O24-08",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00697"
+    ],
+    "base_snippet_at_review": "བདེ་བ་ཐབས",
+    "comparison_reading": "བདེ་བའི་ཐབས",
+    "status": "localized_observation",
+    "confidence": "{\"reading\": \"high\", \"alignment\": \"high\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 24; source-member and native bounds in linked packet; bounds: [2080, 520, 2440, 626]",
+    "rationale": "The vowel and appended component support བའི. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O24-08",
+        "pdf_page": 24,
+        "anchors": [
+          "U00697"
+        ],
+        "source_span": "བདེ་བའི་ཐབས",
+        "base_span": "བདེ་བ་ཐབས",
+        "category": "syllable_form",
+        "neighboring_context": "Between གཏེར and ཀྱི་སྐུ་ཉིད་ཀྱང.",
+        "approximate_native_bounds": [
+          2080,
+          520,
+          2440,
+          626
+        ],
+        "confidence": {
+          "reading": "high",
+          "alignment": "high",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The vowel and appended component support བའི."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-O24-09",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00698"
+    ],
+    "base_snippet_at_review": "སེམས་ཀྱི་གནད",
+    "comparison_reading": "སེམས་ཀྱི་གནས",
+    "status": "provisional_visual_observation",
+    "confidence": "{\"reading\": \"medium\", \"alignment\": \"high\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 24; source-member and native bounds in linked packet; bounds: [3250, 516, 3615, 624]",
+    "rationale": "I read the final consonant as ས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O24-09",
+        "pdf_page": 24,
+        "anchors": [
+          "U00698"
+        ],
+        "source_span": "སེམས་ཀྱི་གནས",
+        "base_span": "སེམས་ཀྱི་གནད",
+        "category": "final_consonant",
+        "neighboring_context": "ལུང་བསྟན་རྗེས་འཛིན precedes; འགྲོ follows.",
+        "approximate_native_bounds": [
+          3250,
+          516,
+          3615,
+          624
+        ],
+        "confidence": {
+          "reading": "medium",
+          "alignment": "high",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "I read the final consonant as ས."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-O24-10",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00699"
+    ],
+    "base_snippet_at_review": "འགྲོ་བ་བདག་སྐྱོབ་རླུང་གི་ལྷ",
+    "comparison_reading": "འགྲོ / བདག་སྐྱོབ་པས་རླུང་གི་ལྷ",
+    "status": "provisional_visual_observation",
+    "confidence": "{\"reading\": \"medium\", \"alignment\": \"high\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 24; source-member and native bounds in linked packet; bounds: [[3680, 516, 3820, 619], [450, 617, 980, 719]]",
+    "rationale": "No separate བ is read at the wrap; པས is present after སྐྱོབ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O24-10",
+        "pdf_page": 24,
+        "anchors": [
+          "U00699"
+        ],
+        "source_span": "འགྲོ / བདག་སྐྱོབ་པས་རླུང་གི་ལྷ",
+        "base_span": "འགྲོ་བ་བདག་སྐྱོབ་རླུང་གི་ལྷ",
+        "category": "wording_across_row_wrap",
+        "neighboring_context": "འགྲོ closes row 4; row 5 begins བདག; ལྷག་མ follows.",
+        "approximate_native_bounds": [
+          [
+            3680,
+            516,
+            3820,
+            619
+          ],
+          [
+            450,
+            617,
+            980,
+            719
+          ]
+        ],
+        "confidence": {
+          "reading": "medium",
+          "alignment": "high",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "No separate བ is read at the wrap; པས is present after སྐྱོབ."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-O24-11",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00700",
+      "U00701",
+      "U00702"
+    ],
+    "base_snippet_at_review": "དྲིས་ལན་བཅུ་པ",
+    "comparison_reading": "[Q24-N1]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"unresolved\", \"alignment\": \"high for surrounding anchors\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 24; source-member and native bounds in linked packet; bounds: [1788, 618, 1870, 683]",
+    "rationale": "An isolated small mark occupies this local interval. It is not read as the base's written heading or assigned a numeral value. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O24-11",
+        "pdf_page": 24,
+        "anchors": [
+          "U00700",
+          "U00701",
+          "U00702"
+        ],
+        "source_span": "[Q24-N1]",
+        "base_span": "དྲིས་ལན་བཅུ་པ",
+        "category": "non_main_mark",
+        "neighboring_context": "Broad gap after དེ་ཙམ་མོ and before རྫོགས་པ.",
+        "approximate_native_bounds": [
+          1788,
+          618,
+          1870,
+          683
+        ],
+        "confidence": {
+          "reading": "unresolved",
+          "alignment": "high for surrounding anchors",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "An isolated small mark occupies this local interval. It is not read as the base's written heading or assigned a numeral value."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-O24-12",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00702"
+    ],
+    "base_snippet_at_review": "བཤད་པ་ལ",
+    "comparison_reading": "བཤད་པ་ལས",
+    "status": "localized_observation",
+    "confidence": "{\"reading\": \"high\", \"alignment\": \"high\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 24; source-member and native bounds in linked packet; bounds: [2300, 616, 2580, 722]",
+    "rationale": "The final ས is visible. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O24-12",
+        "pdf_page": 24,
+        "anchors": [
+          "U00702"
+        ],
+        "source_span": "བཤད་པ་ལས",
+        "base_span": "བཤད་པ་ལ",
+        "category": "suffix",
+        "neighboring_context": "རྫོགས་པ་ཞེས་ནི …; ཞེན་པ follows.",
+        "approximate_native_bounds": [
+          2300,
+          616,
+          2580,
+          722
+        ],
+        "confidence": {
+          "reading": "high",
+          "alignment": "high",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The final ས is visible."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-O24-13",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00706"
+    ],
+    "base_snippet_at_review": "བཤད་པ་ཐ་སྙད",
+    "comparison_reading": "བཤད་པའི་ཐ་སྙད",
+    "status": "provisional_visual_observation",
+    "confidence": "{\"reading\": \"medium\", \"alignment\": \"high\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 24; source-member and native bounds in linked packet; bounds: [1410, 716, 1850, 820]",
+    "rationale": "The source has the visible འི component and vowel. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O24-13",
+        "pdf_page": 24,
+        "anchors": [
+          "U00706"
+        ],
+        "source_span": "བཤད་པའི་ཐ་སྙད",
+        "base_span": "བཤད་པ་ཐ་སྙད",
+        "category": "syllable_form",
+        "neighboring_context": "After the preceding རྫོགས boundary; before ཚིག་དང་བྲལ.",
+        "approximate_native_bounds": [
+          1410,
+          716,
+          1850,
+          820
+        ],
+        "confidence": {
+          "reading": "medium",
+          "alignment": "high",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The source has the visible འི component and vowel."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-O24-14",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00710"
+    ],
+    "base_snippet_at_review": "{\"main_reading\": \"སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང་། །\", \"separate_annotation\": \"Separate annotation: བུས་པ་སྦྱར་ཡང་འབྱུང\"}",
+    "comparison_reading": "སོ་སོའི་ནུས་པས་བསྒྱུར་[Q24-04]་གང",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"partial; Q24-04 retained\", \"alignment\": \"high\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 24; source-member and native bounds in linked packet; bounds: [875, 802, 1585, 918]",
+    "rationale": "The inspected locus carries one main-size sequence; I identify no separate small annotation matching the supplied base note here. This is a local observation. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O24-14",
+        "pdf_page": 24,
+        "anchors": [
+          "U00710"
+        ],
+        "source_span": "སོ་སོའི་ནུས་པས་བསྒྱུར་[Q24-04]་གང",
+        "base_span": {
+          "main_reading": "སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང་། །",
+          "separate_annotation": "Separate annotation: བུས་པ་སྦྱར་ཡང་འབྱུང"
+        },
+        "category": "local_layer_comparison",
+        "neighboring_context": "Row 7 between སྣང and རང་བཞིན.",
+        "approximate_native_bounds": [
+          875,
+          802,
+          1585,
+          918
+        ],
+        "confidence": {
+          "reading": "partial; Q24-04 retained",
+          "alignment": "high",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The inspected locus carries one main-size sequence; I identify no separate small annotation matching the supplied base note here. This is a local observation."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-O24-15",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00712"
+    ],
+    "base_snippet_at_review": "འབྱེད་པའི་རྫོགས",
+    "comparison_reading": "འབྱེད་པས་རྫོགས",
+    "status": "localized_observation",
+    "confidence": "{\"reading\": \"high\", \"alignment\": \"high\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 24; source-member and native bounds in linked packet; bounds: [2730, 803, 3065, 913]",
+    "rationale": "The source ending reads པས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O24-15",
+        "pdf_page": 24,
+        "anchors": [
+          "U00712"
+        ],
+        "source_span": "འབྱེད་པས་རྫོགས",
+        "base_span": "འབྱེད་པའི་རྫོགས",
+        "category": "syllable_form",
+        "neighboring_context": "སྣང་སྟོང … པ་ནི.",
+        "approximate_native_bounds": [
+          2730,
+          803,
+          3065,
+          913
+        ],
+        "confidence": {
+          "reading": "high",
+          "alignment": "high",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The source ending reads པས."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-O24-17",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00713"
+    ],
+    "base_snippet_at_review": "ནས། །",
+    "comparison_reading": "ནས[Q24-S1]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"high for ནས\", \"alignment\": \"high\", \"placement\": \"high\", \"graphics\": \"unresolved\"}",
+    "locator": "PDF 24; source-member and native bounds in linked packet; bounds: [3765, 798, 3850, 922]",
+    "rationale": "The narrow closing strokes are not silently converted to the base's double shads. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O24-17",
+        "pdf_page": 24,
+        "anchors": [
+          "U00713"
+        ],
+        "source_span": "ནས[Q24-S1]",
+        "base_span": "ནས། །",
+        "category": "unresolved_terminal_graphics",
+        "neighboring_context": "Final main-text word before the inner right rules.",
+        "approximate_native_bounds": [
+          3765,
+          798,
+          3850,
+          922
+        ],
+        "confidence": {
+          "reading": "high for ནས",
+          "alignment": "high",
+          "placement": "high",
+          "graphics": "unresolved"
+        },
+        "rationale": "The narrow closing strokes are not silently converted to the base's double shads."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-O25-01",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00718"
+    ],
+    "base_snippet_at_review": "བལྟ་བསྒོམ",
+    "comparison_reading": "བལྟ་སྒོམ",
+    "status": "provisional_visual_observation",
+    "confidence": "{\"reading\": \"medium\", \"alignment\": \"high\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 25; source-member and native bounds in linked packet; bounds: [3220, 187, 3490, 296]",
+    "rationale": "I read སྒོམ without a separate prefixed བ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O25-01",
+        "pdf_page": 25,
+        "anchors": [
+          "U00718"
+        ],
+        "source_span": "བལྟ་སྒོམ",
+        "base_span": "བལྟ་བསྒོམ",
+        "category": "spelling",
+        "neighboring_context": "Row 1 before བྱ་བྲལ་ཆེན་པོར.",
+        "approximate_native_bounds": [
+          3220,
+          187,
+          3490,
+          296
+        ],
+        "confidence": {
+          "reading": "medium",
+          "alignment": "high",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "I read སྒོམ without a separate prefixed བ."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-O25-02",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00720",
+      "U00721",
+      "U00722"
+    ],
+    "base_snippet_at_review": "དྲིས་ལན་བཅུ་གཅིག་པ",
+    "comparison_reading": "[Q25-N1]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"unresolved\", \"alignment\": \"high for surrounding anchors\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 25; source-member and native bounds in linked packet; bounds: [2105, 325, 2215, 386]",
+    "rationale": "The isolated curved sign is retained without deriving its value from reply order or expanding the base note. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O25-02",
+        "pdf_page": 25,
+        "anchors": [
+          "U00720",
+          "U00721",
+          "U00722"
+        ],
+        "source_span": "[Q25-N1]",
+        "base_span": "དྲིས་ལན་བཅུ་གཅིག་པ",
+        "category": "non_main_mark",
+        "neighboring_context": "Gap after རྫོགས་པའོ and before གླེང་གཞི.",
+        "approximate_native_bounds": [
+          2105,
+          325,
+          2215,
+          386
+        ],
+        "confidence": {
+          "reading": "unresolved",
+          "alignment": "high for surrounding anchors",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The isolated curved sign is retained without deriving its value from reply order or expanding the base note."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-O25-03",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00726"
+    ],
+    "base_snippet_at_review": "གླེང་བ་ཚིག་ལ་བརྗོད་པ་གསུངས",
+    "comparison_reading": "གླེང་ཚིག་ལ་བརྗོད་པ་གསུང",
+    "status": "provisional_visual_observation",
+    "confidence": "{\"reading\": \"medium\", \"alignment\": \"high\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 25; source-member and native bounds in linked packet; bounds: [1540, 378, 2120, 495]",
+    "rationale": "No separate བ is read after གླེང; the final group reads གསུང without ས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O25-03",
+        "pdf_page": 25,
+        "anchors": [
+          "U00726"
+        ],
+        "source_span": "གླེང་ཚིག་ལ་བརྗོད་པ་གསུང",
+        "base_span": "གླེང་བ་ཚིག་ལ་བརྗོད་པ་གསུངས",
+        "category": "wording_and_suffix",
+        "neighboring_context": "Between གླེང་གཞི་སྟེ and གཞི་ནི.",
+        "approximate_native_bounds": [
+          1540,
+          378,
+          2120,
+          495
+        ],
+        "confidence": {
+          "reading": "medium",
+          "alignment": "high",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "No separate བ is read after གླེང; the final group reads གསུང without ས."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-O25-04",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00731"
+    ],
+    "base_snippet_at_review": "ཚོགས་པ་ཡོན་ཏན",
+    "comparison_reading": "ཚོགས་པས་ཡོན་ཏན",
+    "status": "localized_observation",
+    "confidence": "{\"reading\": \"high\", \"alignment\": \"high\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 25; source-member and native bounds in linked packet; bounds: [1450, 472, 1840, 586]",
+    "rationale": "The syllable following ཚོགས is པས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O25-04",
+        "pdf_page": 25,
+        "anchors": [
+          "U00731"
+        ],
+        "source_span": "ཚོགས་པས་ཡོན་ཏན",
+        "base_span": "ཚོགས་པ་ཡོན་ཏན",
+        "category": "suffix",
+        "neighboring_context": "Row 4 after འཆར་བྱེད་དོ.",
+        "approximate_native_bounds": [
+          1450,
+          472,
+          1840,
+          586
+        ],
+        "confidence": {
+          "reading": "high",
+          "alignment": "high",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The syllable following ཚོགས is པས."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-O25-05",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00735"
+    ],
+    "base_snippet_at_review": "སྡུད་བྱེད་དོ",
+    "comparison_reading": "སྡུད་[Q25-02]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"partial\", \"alignment\": \"high\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 25; source-member and native bounds in linked packet; bounds: [1395, 567, 1660, 694]",
+    "rationale": "The terminal group is not secure enough to assert an exact replacement or restore the base wording. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O25-05",
+        "pdf_page": 25,
+        "anchors": [
+          "U00735"
+        ],
+        "source_span": "སྡུད་[Q25-02]",
+        "base_span": "སྡུད་བྱེད་དོ",
+        "category": "unresolved_clause_ending",
+        "neighboring_context": "ཚོགས་པས་འཁོར་རྣམས precedes; འཁོར་ཀྱང follows the boundary.",
+        "approximate_native_bounds": [
+          1395,
+          567,
+          1660,
+          694
+        ],
+        "confidence": {
+          "reading": "partial",
+          "alignment": "high",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The terminal group is not secure enough to assert an exact replacement or restore the base wording."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-O25-06",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00743"
+    ],
+    "base_snippet_at_review": "གྲོལ་བའོ",
+    "comparison_reading": "གྲོལ་པའོ",
+    "status": "provisional_visual_observation",
+    "confidence": "{\"reading\": \"medium\", \"alignment\": \"high\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 25; source-member and native bounds in linked packet; bounds: [402, 739, 625, 850]",
+    "rationale": "The post-verbal consonant is read as པ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O25-06",
+        "pdf_page": 25,
+        "anchors": [
+          "U00743"
+        ],
+        "source_span": "གྲོལ་པའོ",
+        "base_span": "གྲོལ་བའོ",
+        "category": "consonant",
+        "neighboring_context": "Row 6 ends ཚོགས་པས་གང་ཟག; row 7 opens with this tail.",
+        "approximate_native_bounds": [
+          402,
+          739,
+          625,
+          850
+        ],
+        "confidence": {
+          "reading": "medium",
+          "alignment": "high",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The post-verbal consonant is read as པ."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-O25-07",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00747"
+    ],
+    "base_snippet_at_review": "ཚོགས་པ་ངེས་པར",
+    "comparison_reading": "ཚོགས་པས་ངེས་པར",
+    "status": "localized_observation",
+    "confidence": "{\"reading\": \"high\", \"alignment\": \"high\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 25; source-member and native bounds in linked packet; bounds: [2740, 757, 3190, 872]",
+    "rationale": "The source syllable reads པས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O25-07",
+        "pdf_page": 25,
+        "anchors": [
+          "U00747"
+        ],
+        "source_span": "ཚོགས་པས་ངེས་པར",
+        "base_span": "ཚོགས་པ་ངེས་པར",
+        "category": "suffix",
+        "neighboring_context": "Row 7 between the U00746 ending and ཐུན་མོང་མིན.",
+        "approximate_native_bounds": [
+          2740,
+          757,
+          3190,
+          872
+        ],
+        "confidence": {
+          "reading": "high",
+          "alignment": "high",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The source syllable reads པས."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-O26-02",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00751"
+    ],
+    "base_snippet_at_review": "སྟོན་པས་གསུང",
+    "comparison_reading": "སྟོན་པའི་གསུང",
+    "status": "localized_observation",
+    "confidence": "{\"reading\": \"high\", \"alignment\": \"high\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 26; source-member and native bounds in linked packet; bounds: [2830, 219, 3190, 335]",
+    "rationale": "The visible form is པའི. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O26-02",
+        "pdf_page": 26,
+        "anchors": [
+          "U00751"
+        ],
+        "source_span": "སྟོན་པའི་གསུང",
+        "base_span": "སྟོན་པས་གསུང",
+        "category": "syllable_form",
+        "neighboring_context": "Row 1 after བསྡུས་པ་སྟེ and before གིས་འཁོར་ལ་བསྟན.",
+        "approximate_native_bounds": [
+          2830,
+          219,
+          3190,
+          335
+        ],
+        "confidence": {
+          "reading": "high",
+          "alignment": "high",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The visible form is པའི."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-O26-03",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00752"
+    ],
+    "base_snippet_at_review": "མཆོག་འདུས་བསྟན",
+    "comparison_reading": "མཆོག་འདུས་པ་བསྟན",
+    "status": "localized_observation",
+    "confidence": "{\"reading\": \"high\", \"alignment\": \"high\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 26; source-member and native bounds in linked packet; bounds: [443, 330, 895, 433]",
+    "rationale": "A separate པ occurs between འདུས and བསྟན; this does not resolve Q26-01. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O26-03",
+        "pdf_page": 26,
+        "anchors": [
+          "U00752"
+        ],
+        "source_span": "མཆོག་འདུས་པ་བསྟན",
+        "base_span": "མཆོག་འདུས་བསྟན",
+        "category": "additional_syllable",
+        "neighboring_context": "Row 2 opening; the preceding row ends with the unresolved final component of ངོ་མཚ[Q26-01].",
+        "approximate_native_bounds": [
+          443,
+          330,
+          895,
+          433
+        ],
+        "confidence": {
+          "reading": "high",
+          "alignment": "high",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "A separate པ occurs between འདུས and བསྟན; this does not resolve Q26-01."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-O26-04",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00754"
+    ],
+    "base_snippet_at_review": "གཞན་དང་ལུང",
+    "comparison_reading": "གཞན་ཡང་ལུང",
+    "status": "localized_observation",
+    "confidence": "{\"reading\": \"high\", \"alignment\": \"high\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 26; source-member and native bounds in linked packet; bounds: [1745, 329, 2120, 438]",
+    "rationale": "The intervening word reads ཡང. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O26-04",
+        "pdf_page": 26,
+        "anchors": [
+          "U00754"
+        ],
+        "source_span": "གཞན་ཡང་ལུང",
+        "base_span": "གཞན་དང་ལུང",
+        "category": "lexical",
+        "neighboring_context": "Between the U00753 ending རྐྱེན and ཙམ་སྒོ་མཐུན་ཕྱིར.",
+        "approximate_native_bounds": [
+          1745,
+          329,
+          2120,
+          438
+        ],
+        "confidence": {
+          "reading": "high",
+          "alignment": "high",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The intervening word reads ཡང."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-O26-05",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00755",
+      "U00756",
+      "U00757"
+    ],
+    "base_snippet_at_review": "དྲིས་ལན་བཅུ་གཉིས་པ",
+    "comparison_reading": "[Q26-N1]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"unresolved\", \"alignment\": \"high for surrounding anchors\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 26; source-member and native bounds in linked packet; bounds: [3225, 340, 3320, 391]",
+    "rationale": "The curved isolated mark is recorded without assigning an expected ordinal or treating the base source-note anchor as a missing main verse. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O26-05",
+        "pdf_page": 26,
+        "anchors": [
+          "U00755",
+          "U00756",
+          "U00757"
+        ],
+        "source_span": "[Q26-N1]",
+        "base_span": "དྲིས་ལན་བཅུ་གཉིས་པ",
+        "category": "non_main_mark",
+        "neighboring_context": "Gap after པའོ and before འདི་ལྟར་བསྟན་པ.",
+        "approximate_native_bounds": [
+          3225,
+          340,
+          3320,
+          391
+        ],
+        "confidence": {
+          "reading": "unresolved",
+          "alignment": "high for surrounding anchors",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The curved isolated mark is recorded without assigning an expected ordinal or treating the base source-note anchor as a missing main verse."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-O26-06",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00762"
+    ],
+    "base_snippet_at_review": "དེ་བཞིན་གསུམ་དང་གཉིས་ལྡན་དང",
+    "comparison_reading": "དེ་བཞིན་གཉིས་དང / གསུམ་ལྡན་པ",
+    "status": "provisional_visual_observation",
+    "confidence": "{\"reading\": \"medium\", \"alignment\": \"high\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 26; source-member and native bounds in linked packet; bounds: [[3370, 425, 3830, 542], [441, 522, 765, 625]]",
+    "rationale": "The source order is གཉིས then གསུམ; the row-4 terminal syllable reads པ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O26-06",
+        "pdf_page": 26,
+        "anchors": [
+          "U00762"
+        ],
+        "source_span": "དེ་བཞིན་གཉིས་དང / གསུམ་ལྡན་པ",
+        "base_span": "དེ་བཞིན་གསུམ་དང་གཉིས་ལྡན་དང",
+        "category": "order_and_ending",
+        "neighboring_context": "Wrap from row 3 right to row 4 left; followed by རྩོད་ལྡན.",
+        "approximate_native_bounds": [
+          [
+            3370,
+            425,
+            3830,
+            542
+          ],
+          [
+            441,
+            522,
+            765,
+            625
+          ]
+        ],
+        "confidence": {
+          "reading": "medium",
+          "alignment": "high",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The source order is གཉིས then གསུམ; the row-4 terminal syllable reads པ."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-O26-08",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00772"
+    ],
+    "base_snippet_at_review": "ཛི་ན་མི་ཏྲ་ཞེས་བྱ་ཡི། །",
+    "comparison_reading": "ཛི་[Q26-03]་ཞེས་བྱ་[Q26-04][Q26-S1]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"partial\", \"alignment\": \"high\", \"placement\": \"high\", \"graphics\": \"unresolved at closing interval\"}",
+    "locator": "PDF 26; source-member and native bounds in linked packet; bounds: [[3330, 616, 3545, 721], [3660, 617, 3795, 723], [3788, 608, 3850, 733]]",
+    "rationale": "Readable surrounding words do not resolve the internal name components, final syllables or adjacent closing strokes. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O26-08",
+        "pdf_page": 26,
+        "anchors": [
+          "U00772"
+        ],
+        "source_span": "ཛི་[Q26-03]་ཞེས་བྱ་[Q26-04][Q26-S1]",
+        "base_span": "ཛི་ན་མི་ཏྲ་ཞེས་བྱ་ཡི། །",
+        "category": "unresolved_name_ending_and_graphics",
+        "neighboring_context": "After རྒྱལ་པོ་ནི; before row 6 བསྟན་པ་གསོ་བའི.",
+        "approximate_native_bounds": [
+          [
+            3330,
+            616,
+            3545,
+            721
+          ],
+          [
+            3660,
+            617,
+            3795,
+            723
+          ],
+          [
+            3788,
+            608,
+            3850,
+            733
+          ]
+        ],
+        "confidence": {
+          "reading": "partial",
+          "alignment": "high",
+          "placement": "high",
+          "graphics": "unresolved at closing interval"
+        },
+        "rationale": "Readable surrounding words do not resolve the internal name components, final syllables or adjacent closing strokes."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-O26-09",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00777"
+    ],
+    "base_snippet_at_review": "སྐྱོབ། །",
+    "comparison_reading": "སྐྱོབ[Q26-S2]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"medium for སྐྱོབ\", \"alignment\": \"high\", \"placement\": \"high\", \"graphics\": \"unresolved\"}",
+    "locator": "PDF 26; source-member and native bounds in linked packet; bounds: [3770, 703, 3850, 819]",
+    "rationale": "The crowded terminal strokes remain graphically unresolved rather than normalized. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O26-09",
+        "pdf_page": 26,
+        "anchors": [
+          "U00777"
+        ],
+        "source_span": "སྐྱོབ[Q26-S2]",
+        "base_span": "སྐྱོབ། །",
+        "category": "unresolved_terminal_graphics",
+        "neighboring_context": "Row 6 right before the inner frame.",
+        "approximate_native_bounds": [
+          3770,
+          703,
+          3850,
+          819
+        ],
+        "confidence": {
+          "reading": "medium for སྐྱོབ",
+          "alignment": "high",
+          "placement": "high",
+          "graphics": "unresolved"
+        },
+        "rationale": "The crowded terminal strokes remain graphically unresolved rather than normalized."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-O26-10",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00779"
+    ],
+    "base_snippet_at_review": "དེར་བབས་ཤིང",
+    "comparison_reading": "དེར་བབས་ཏེ",
+    "status": "localized_observation",
+    "confidence": "{\"reading\": \"high\", \"alignment\": \"high\", \"placement\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 26; source-member and native bounds in linked packet; bounds: [1440, 791, 1790, 904]",
+    "rationale": "The final syllable has the form ཏེ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "O26-10",
+        "pdf_page": 26,
+        "anchors": [
+          "U00779"
+        ],
+        "source_span": "དེར་བབས་ཏེ",
+        "base_span": "དེར་བབས་ཤིང",
+        "category": "lexical_ending",
+        "neighboring_context": "བསྟན་པའི་སྲོག་ཤིང precedes; དགའ་བའི follows.",
+        "approximate_native_bounds": [
+          1440,
+          791,
+          1790,
+          904
+        ],
+        "confidence": {
+          "reading": "high",
+          "alignment": "high",
+          "placement": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The final syllable has the form ཏེ."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-Q24-01",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00686"
+    ],
+    "base_snippet_at_review": "སྒྲ་བརྡའ་མཚོན་པའི་གཞི་མ་སྟོན། །",
+    "comparison_reading": "[Q24-01] After the readable བརྡ and before མཚོན, is a final འ actually present, or does the syllable end at བརྡ?",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 24; source-member and native bounds in linked packet; bounds: [917, 328, 1040, 426]",
+    "rationale": "After the readable བརྡ and before མཚོན, is a final འ actually present, or does the syllable end at བརྡ? Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "Q24-01",
+        "pdf_page": 24,
+        "anchors": [
+          "U00686"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q24-01] After the readable བརྡ and before མཚོན, is a final འ actually present, or does the syllable end at བརྡ?",
+        "base_span": "སྒྲ་བརྡའ་མཚོན་པའི་གཞི་མ་སྟོན། །",
+        "approximate_native_bounds": [
+          917,
+          328,
+          1040,
+          426
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "After the readable བརྡ and before མཚོན, is a final འ actually present, or does the syllable end at བརྡ?"
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-Q24-02",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00707"
+    ],
+    "base_snippet_at_review": "རིགས་བྱེད་རྫོགས་པའི་རྣམ་པ་ལས། །",
+    "comparison_reading": "[Q24-02] Does རིག have an additional final ས before the separator and བྱེད?",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 24; source-member and native bounds in linked packet; bounds: [2140, 714, 2320, 817]",
+    "rationale": "Does རིག have an additional final ས before the separator and བྱེད? Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "Q24-02",
+        "pdf_page": 24,
+        "anchors": [
+          "U00707"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q24-02] Does རིག have an additional final ས before the separator and བྱེད?",
+        "base_span": "རིགས་བྱེད་རྫོགས་པའི་རྣམ་པ་ལས། །",
+        "approximate_native_bounds": [
+          2140,
+          714,
+          2320,
+          817
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Does རིག have an additional final ས before the separator and བྱེད?"
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-Q24-03",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00709"
+    ],
+    "base_snippet_at_review": "བརྡའ་ཡི་འཇུག་པ་ཐམས་ཅད་སྣང༌། །",
+    "comparison_reading": "[Q24-03] Does the row-final phrase begin བརྡ or བརྡའ before ཡི?",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 24; source-member and native bounds in linked packet; bounds: [3580, 716, 3725, 824]",
+    "rationale": "Does the row-final phrase begin བརྡ or བརྡའ before ཡི? Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p024-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "Q24-03",
+        "pdf_page": 24,
+        "anchors": [
+          "U00709"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q24-03] Does the row-final phrase begin བརྡ or བརྡའ before ཡི?",
+        "base_span": "བརྡའ་ཡི་འཇུག་པ་ཐམས་ཅད་སྣང༌། །",
+        "approximate_native_bounds": [
+          3580,
+          716,
+          3725,
+          824
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Does the row-final phrase begin བརྡ or བརྡའ before ཡི?"
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-Q25-01",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00746"
+    ],
+    "base_snippet_at_review": "གསུམ་ནི་འདས་དང་ད་ལྟ་ཕྱིས། །",
+    "comparison_reading": "[Q25-01] Does the readable ཕྱི carry a final ས before its boundary stroke?",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 25; source-member and native bounds in linked packet; bounds: [2600, 754, 2745, 872]",
+    "rationale": "Does the readable ཕྱི carry a final ས before its boundary stroke? Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p025-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "Q25-01",
+        "pdf_page": 25,
+        "anchors": [
+          "U00746"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q25-01] Does the readable ཕྱི carry a final ས before its boundary stroke?",
+        "base_span": "གསུམ་ནི་འདས་དང་ད་ལྟ་ཕྱིས། །",
+        "approximate_native_bounds": [
+          2600,
+          754,
+          2745,
+          872
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Does the readable ཕྱི carry a final ས before its boundary stroke?"
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-Q26-01",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00752"
+    ],
+    "base_snippet_at_review": "ངོ་མཚར་མཆོག་འདུས་བསྟན་པའི་གཙོ། །",
+    "comparison_reading": "[Q26-01] At the right end of row 1, does མཚ carry a separately readable final ར before the frame?",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 26; source-member and native bounds in linked packet; bounds: [3745, 217, 3845, 336]",
+    "rationale": "At the right end of row 1, does མཚ carry a separately readable final ར before the frame? Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "Q26-01",
+        "pdf_page": 26,
+        "anchors": [
+          "U00752"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q26-01] At the right end of row 1, does མཚ carry a separately readable final ར before the frame?",
+        "base_span": "ངོ་མཚར་མཆོག་འདུས་བསྟན་པའི་གཙོ། །",
+        "approximate_native_bounds": [
+          3745,
+          217,
+          3845,
+          336
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "At the right end of row 1, does མཚ carry a separately readable final ར before the frame?"
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-Q26-02",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00766"
+    ],
+    "base_snippet_at_review": "བསྟན་པའི་བཙས་ནི་གཞན་དུ་འགྱུར། །",
+    "comparison_reading": "[Q26-02] Read the complete syllable between བསྟན་པའི and ནི, distinguishing its initial component and tsa/tsha-shaped body; བཙས is not supplied from the base.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 26; source-member and native bounds in linked packet; bounds: [2800, 521, 2980, 638]",
+    "rationale": "Read the complete syllable between བསྟན་པའི and ནི, distinguishing its initial component and tsa/tsha-shaped body; བཙས is not supplied from the base. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "Q26-02",
+        "pdf_page": 26,
+        "anchors": [
+          "U00766"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q26-02] Read the complete syllable between བསྟན་པའི and ནི, distinguishing its initial component and tsa/tsha-shaped body; བཙས is not supplied from the base.",
+        "base_span": "བསྟན་པའི་བཙས་ནི་གཞན་དུ་འགྱུར། །",
+        "approximate_native_bounds": [
+          2800,
+          521,
+          2980,
+          638
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the complete syllable between བསྟན་པའི and ནི, distinguishing its initial component and tsa/tsha-shaped body; བཙས is not supplied from the base."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-Q26-05",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00777"
+    ],
+    "base_snippet_at_review": "དེ་ནས་ལྷོ་ཕྱོགས་ཚལ་བ་སྐྱོབ། །",
+    "comparison_reading": "[Q26-05] Read the syllable between ལྷོ་ཕྱོགས and བ, particularly whether the tshal-shaped group has an initial འ.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 26; source-member and native bounds in linked packet; bounds: [3470, 704, 3650, 814]",
+    "rationale": "Read the syllable between ལྷོ་ཕྱོགས and བ, particularly whether the tshal-shaped group has an initial འ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "Q26-05",
+        "pdf_page": 26,
+        "anchors": [
+          "U00777"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q26-05] Read the syllable between ལྷོ་ཕྱོགས and བ, particularly whether the tshal-shaped group has an initial འ.",
+        "base_span": "དེ་ནས་ལྷོ་ཕྱོགས་ཚལ་བ་སྐྱོབ། །",
+        "approximate_native_bounds": [
+          3470,
+          704,
+          3650,
+          814
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the syllable between ལྷོ་ཕྱོགས and བ, particularly whether the tshal-shaped group has an initial འ."
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
+  },
+  {
+    "id": "TS-COV1-B10-Q26-06",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00778"
+    ],
+    "base_snippet_at_review": "གླིང་ནི་ཡངས་ཤིང་མཛེས་པ་ནི། །",
+    "comparison_reading": "[Q26-06] Does ཡང carry a final ས before ཤིང?",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 26; source-member and native bounds in linked packet; bounds: [640, 788, 785, 901]",
+    "rationale": "Does ཡང carry a final ས before ཤིང? Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve the stated Tsamdrak reading or uncertainty without grammatical repair, ordinal expansion, global absence, or a reconstructed history.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/p026-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B10-P0024-0026",
+      "baseline_commit": "e7943c449d6d4f27810773da067d1427b66a6eed",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a"
+      },
+      "observation": {
+        "id": "Q26-06",
+        "pdf_page": 26,
+        "anchors": [
+          "U00778"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q26-06] Does ཡང carry a final ས before ཤིང?",
+        "base_span": "གླིང་ནི་ཡངས་ཤིང་མཛེས་པ་ནི། །",
+        "approximate_native_bounds": [
+          640,
+          788,
+          785,
+          901
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Does ཡང carry a final ས before ཤིང?"
+      },
+      "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
+    }
   }
 ]

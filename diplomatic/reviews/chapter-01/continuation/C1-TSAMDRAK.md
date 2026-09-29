@@ -200,3 +200,15 @@ The invalid original JSON remains untouched; a separately hash-verified sidecar 
 **Remaining:** Continue Tsamdrak PDF24 row1, U00682: གནད་འདུས་བཀོད་པ་སེམས་ཀྱི་རྟེན. Preserve Q01–Q16 and the component inventories of PDF21–23.
 
 The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.
+
+## B10-P0024-0026 — preserved review integrated
+
+Tsamdrak PDF24–26 integrated: twenty-one source-ordered rows, thirty selected observations and eight separately indexed lexical questions. All twenty-two original Q entries remain visible.
+
+[Unchanged raw report](C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt) · [Exact source and rows](C1-TSAMDRAK.json).
+
+The three reply-heading slots contain separate unresolved small marks, not missing main verses or supplied ordinal words. Whole-interval graphic codes remain distinct from base punctuation. The U00710 main/note comparison preserves both layers; the foreign name and terminal graphics at U00772 remain unresolved.
+
+**Remaining:** Reconcile the already launched B11/PDF27–29 results when the Mac is readable; do not relaunch blindly. Its entry is U00782 completion འགྱུར, then U00783 དེ་ཡི་ཡོན་བདག. Retain Q24-01 through Q26-M2 and their exact bounds.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.

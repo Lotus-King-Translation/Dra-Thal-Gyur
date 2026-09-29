@@ -4,7 +4,7 @@
   "canonical_branch": "main",
   "current_chapter": 1,
   "chapter_status": "in_progress_not_ready",
-  "next_task_id": "C1-TSAMDRAK",
+  "next_task_id": "C1-DEGE",
   "path_base": "repository root; JSON pointers identify records without changing their historical contents",
   "scope": "Continuation queue, not a whole-chapter collation claim. Thirty punctuation candidate identities remain tracked, including completed dispositions; unfinished items are hypotheses, not accepted readings. Existing Adzom and Dzongsar main lexical passes remain valid within their recorded scopes.",
   "reference_paths": [
@@ -802,7 +802,7 @@
       "id": "C1-TSAMDRAK",
       "kind": "witness_coverage",
       "status": "in_progress",
-      "owner": "coordinator-with-disjoint-bounded-readers",
+      "owner": "ChatGPT-coordinator-20260929-integration",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -829,7 +829,7 @@
       "checkpoint_commit": "b3b10d56c395bc0896463c5e66e2974e35db1df1",
       "blocker": null,
       "dependency_policy": "preferred_order",
-      "current_batch_id": "B10-P0024-0026",
+      "current_batch_id": null,
       "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate.",
       "current_batch_result": "Target test distinguishes U30 thos; U12 vowel remains unresolved and U148 rtog reading is qualified. Continue new comparison at PDF14 without repeating opening passes.",
       "prior_owner_at_reassignment": "reader-tsamdrak-B01-20260928",
@@ -837,8 +837,8 @@
       "next_physical_span": "PDF15 row1, expected following U00383 but exact source correspondence must be established; preserve PDF14 bounded questions.",
       "current_wave_id": "CONTINUE2-W03",
       "bounded_parallel_policy": "One distinct bounded task per reader; no more than five source pages including flanks. Only the coordinator publishes after readers pause; no automatic adoption.",
-      "next_step": "Continue Tsamdrak PDF24 row1, U00682: གནད་འདུས་བཀོད་པ་སེམས་ཀྱི་རྟེན. Preserve Q01–Q16 and the component inventories of PDF21–23.",
-      "last_integrated_batch_id": "B09-P0021-0023",
+      "next_step": "Reconcile the already launched B11/PDF27–29 results when the Mac is readable; do not relaunch blindly. Its entry is U00782 completion འགྱུར, then U00783 དེ་ཡི་ཡོན་བདག. Retain Q24-01 through Q26-M2 and their exact bounds.",
+      "last_integrated_batch_id": "B10-P0024-0026",
       "current_claims": [
         {
           "batch_id": "B10-P0024-0026",
