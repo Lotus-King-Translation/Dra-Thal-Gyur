@@ -1,0 +1,91 @@
+{
+  "baseline_commit": "24a8a6d1a311d007a4aa5659930fbacc83e74191",
+  "plans": [
+    {
+      "task": "C1-TINGKYE",
+      "batch": "B09-P0011-0013",
+      "edition": "tingkye-1973",
+      "target_page": 11,
+      "target_pages": [
+        11,
+        12,
+        13
+      ],
+      "pages": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "lo": 338,
+      "hi": 485,
+      "scope": "Continue the genuinely missing continuous Tingkye comparison through all seven main rows of PDF11,12,13. Start at PDF11 U00348 continuation པ་དང་གཞུང་གིས་ཀྱང. PDF10/14 are boundary context only. Do not repeat already integrated pages. Compare lexical text, all source layers and graphic punctuation; record exact unresolved components rather than omit rows."
+    },
+    {
+      "task": "C1-TSAMDRAK",
+      "batch": "B09-P0021-0023",
+      "edition": "tsamdrak-1982",
+      "target_page": 21,
+      "target_pages": [
+        21,
+        22,
+        23
+      ],
+      "pages": [
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "lo": 570,
+      "hi": 700,
+      "scope": "Continue genuinely missing Tsamdrak PDF21,22,23 through every main row and non-main region. Start with U00581 continuation པ་རྣམས་ཀྱིས་བསྐོར. PDF20/24 provide boundary context only. Preserve actual source repetitions, differing clause order, short marks and heading layers; no source normalization."
+    },
+    {
+      "task": "C1-DEGE",
+      "batch": "B07-P0009-0011",
+      "edition": "dege-W1ER7",
+      "target_page": 9,
+      "target_pages": [
+        9,
+        10,
+        11
+      ],
+      "pages": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "lo": 380,
+      "hi": 555,
+      "scope": "Continue genuinely missing Degé PDF9,10,11 through all seven main rows and all source layers. Start with U00390 continuation ཐབས་ལ་བསླབ་གྱུར་ནས. PDF8/12 are boundary context only. Faint exact glyphs remain bounded unresolved; do not label available source pages inaccessible or skip the next readable sequence."
+    },
+    {
+      "task": "C1-DZONGSAR",
+      "batch": "B01-U00440-U00534-U00710",
+      "edition": "dzongsar-manuscript",
+      "target_page": 22,
+      "target_pages": [
+        22,
+        27,
+        35
+      ],
+      "pages": [
+        22,
+        27,
+        35
+      ],
+      "lo": 425,
+      "hi": 725,
+      "scope": "Three targeted uncertainties only, not whole-page recollation: U00440/PDF22 abraded ba-rnams segment, U00534/PDF27 main rab-tu-rdzogs and small linked ljongs-bde-yang-byung with uncertain role of ljongs, U00710/PDF35 small linked annotation above/below nus-pas-bsgyur. Keep saved full main lexical passes. Establish actual neighbor context, glyph components and source-layer evidence; resolve only source-supported letters; physical smaller lettering does not alone settle semantic role."
+    }
+  ],
+  "maximum_parallel_readers": 4,
+  "status": "planned_not_prepared",
+  "chapter_complete": false,
+  "existing_base_report_read_request": "Adzom8-13 summary request remains paused after identical retries. This wave does not reread those reports or source targets."
+}

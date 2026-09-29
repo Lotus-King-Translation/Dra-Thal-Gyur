@@ -4,7 +4,7 @@
   "canonical_branch": "main",
   "current_chapter": 1,
   "chapter_status": "in_progress_not_ready",
-  "next_task_id": "C1-BASE-PHYSICAL",
+  "next_task_id": "C1-TINGKYE",
   "path_base": "repository root; JSON pointers identify records without changing their historical contents",
   "scope": "Continuation queue, not a whole-chapter collation claim. Thirty punctuation candidate identities remain tracked, including completed dispositions; unfinished items are hypotheses, not accepted readings. Existing Adzom and Dzongsar main lexical passes remain valid within their recorded scopes.",
   "reference_paths": [
@@ -623,8 +623,8 @@
     {
       "id": "C1-DZONGSAR",
       "kind": "witness_coverage",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "reader-C1-DZONGSAR-20260929-new",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -648,13 +648,15 @@
       "report_paths": [],
       "checkpoint_commit": null,
       "blocker": null,
-      "dependency_policy": "preferred_order"
+      "dependency_policy": "preferred_order",
+      "current_batch_id": "B01-U00440-U00534-U00710",
+      "bounded_parallel_policy": "One distinct bounded task per reader; no more than five source pages including flanks. Only the coordinator publishes after readers pause; no automatic adoption."
     },
     {
       "id": "C1-TINGKYE",
       "kind": "witness_coverage",
       "status": "in_progress",
-      "owner": "ChatGPT-coordinator-20260929-integration",
+      "owner": "reader-C1-TINGKYE-20260929-new",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -684,21 +686,21 @@
       "checkpoint_commit": "b3b10d56c395bc0896463c5e66e2974e35db1df1",
       "blocker": null,
       "dependency_policy": "preferred_order",
-      "current_batch_id": null,
+      "current_batch_id": "B09-P0011-0013",
       "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate.",
       "current_batch_result": "Partial continuous comparison through PDF4 row3, with an isolated PDF6 junction; next is PDF4 row4 U00106 continuation, not PDF8.",
       "prior_owner_at_reassignment": "reader-tingkye-B01-20260928",
       "reassignment_note": "Previous reader finished and was published at b3b10d5; its report remains unchanged. No orphan reader or unpublished inherited work was found.",
       "next_physical_span": "PDF5 row1, U00127 outgoing join and U00128 onward; PDF4 targeted glyph and marginal questions remain visible.",
       "current_wave_id": "CONTINUE2-W03",
-      "bounded_parallel_policy": "Each reader owns one target page and at most three source pages including context; coordinator alone publishes and no unfinished page is inferred complete from a neighbor.",
+      "bounded_parallel_policy": "One distinct bounded task per reader; no more than five source pages including flanks. Only the coordinator publishes after readers pause; no automatic adoption.",
       "next_step": "Next genuinely missing Tingkye page is PDF11, row1 U00348 continuation པ་དང་གཞུང་གིས་ཀྱང, then རིམ་དང་ཅིག་ཆར. Retain the page10 Q/QT and marginal questions."
     },
     {
       "id": "C1-TSAMDRAK",
       "kind": "witness_coverage",
       "status": "in_progress",
-      "owner": "ChatGPT-coordinator-20260929-integration",
+      "owner": "reader-C1-TSAMDRAK-20260929-new",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -725,14 +727,14 @@
       "checkpoint_commit": "b3b10d56c395bc0896463c5e66e2974e35db1df1",
       "blocker": null,
       "dependency_policy": "preferred_order",
-      "current_batch_id": null,
+      "current_batch_id": "B09-P0021-0023",
       "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate.",
       "current_batch_result": "Target test distinguishes U30 thos; U12 vowel remains unresolved and U148 rtog reading is qualified. Continue new comparison at PDF14 without repeating opening passes.",
       "prior_owner_at_reassignment": "reader-tsamdrak-B01-20260928",
       "reassignment_note": "Previous reader finished and was published at b3b10d5; its report remains unchanged. No orphan reader or unpublished inherited work was found.",
       "next_physical_span": "PDF15 row1, expected following U00383 but exact source correspondence must be established; preserve PDF14 bounded questions.",
       "current_wave_id": "CONTINUE2-W03",
-      "bounded_parallel_policy": "Each reader owns one target page and at most three source pages including context; coordinator alone publishes and no unfinished page is inferred complete from a neighbor.",
+      "bounded_parallel_policy": "One distinct bounded task per reader; no more than five source pages including flanks. Only the coordinator publishes after readers pause; no automatic adoption.",
       "next_step": "Next genuinely missing Tsamdrak page is PDF21 row1, U00581 continuation པ་རྣམས་ཀྱིས་བསྐོར. Keep PDF20 Q01–Q10, including final-letter/frame ambiguity."
     },
     {
@@ -771,7 +773,7 @@
       "id": "C1-DEGE",
       "kind": "witness_coverage",
       "status": "in_progress",
-      "owner": "ChatGPT-coordinator-20260929-integration",
+      "owner": "reader-C1-DEGE-20260929-new",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -799,8 +801,8 @@
       "blocker": null,
       "dependency_policy": "preferred_order",
       "current_wave_id": "CONTINUE2-W03",
-      "current_batch_id": null,
-      "bounded_parallel_policy": "Each reader owns one target page and at most three source pages including context; coordinator alone publishes and no unfinished page is inferred complete from a neighbor.",
+      "current_batch_id": "B07-P0009-0011",
+      "bounded_parallel_policy": "One distinct bounded task per reader; no more than five source pages including flanks. Only the coordinator publishes after readers pause; no automatic adoption.",
       "next_step": "Next genuinely missing Degé comparison page is PDF9, row1 U00390 continuation ཐབས་ལ་བསླབ་གྱུར་ནས. Retain all PDF8 Q01-Q12 and the previous page-specific unresolved letters, note remainders and graphic inventories."
     },
     {
