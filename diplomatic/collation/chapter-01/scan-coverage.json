@@ -9886,6 +9886,148 @@
       },
       "next_physical_span": "Continue Zhichen full reading at PDF4 row1, red སངས་རྒྱས་བཅོམ་ལྡན་འདས continuing the preceding red སྟོན་པ. Review the separate saved B02/PDF102–106 boundary search before any endpoint claim. Retain all opening Q01–Q16 and the still-unclosed chapter extent.",
       "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-ZHICHEN",
+      "batch_id": "B02-BOUNDARY-P0102-0106",
+      "target_pages": [
+        102,
+        103,
+        104,
+        105,
+        106
+      ],
+      "report": "reviews/chapter-01/continuation/C1-ZHICHEN.json",
+      "summary": "Zhichen PDF102–106 boundary-search report integrated: five candidate pages and thirty physical rows searched, without locating a securely read Chapter 1 colophon or following incipit. Zero new lexical-collation rows or apparatus variants are claimed.",
+      "rows_reported": 30,
+      "canonical_record_ids": [],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "image_access_failure": null,
+        "candidate_pages_inspected": 5,
+        "physical_main_rows_searched": 30,
+        "colophon_transcribed": null,
+        "following_incipit_transcribed": null,
+        "incoming_base_correspondence": "Not securely established.",
+        "outgoing_base_correspondence": "Not securely established.",
+        "boundary_status": "Unlocated in this batch; unresolved writing remains explicitly bounded.",
+        "review_status": "Informed independent model inspection; not blind review, credentialed human palaeography, complete lexical collation or chapter/witness certification."
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q01",
+          "pdf_page": 103,
+          "anchor": null,
+          "native_bounds": [
+            184,
+            181,
+            216,
+            237
+          ],
+          "exact_question": "What are the characters of the small vertical left-margin label?"
+        },
+        {
+          "id": "Q02",
+          "pdf_page": 104,
+          "anchor": null,
+          "native_bounds": [
+            1090,
+            55,
+            1285,
+            115
+          ],
+          "exact_question": "What is the complete reading of the small black inscription between the row-one black and red passages, including any final sign or numeral?"
+        },
+        {
+          "id": "Q03",
+          "pdf_page": 104,
+          "anchor": null,
+          "native_bounds": [
+            1315,
+            64,
+            1710,
+            119
+          ],
+          "exact_question": "What is the complete wording of the first red span? Its possible heading or boundary function is not securely resolved."
+        },
+        {
+          "id": "Q04",
+          "pdf_page": 104,
+          "anchor": null,
+          "native_bounds": [
+            825,
+            196,
+            1035,
+            247
+          ],
+          "exact_question": "What is the complete reading of the small black inscription preceding the row-four red span, including any numeral or closing sign?"
+        },
+        {
+          "id": "Q05",
+          "pdf_page": 104,
+          "anchor": null,
+          "native_bounds": [
+            1035,
+            201,
+            1520,
+            252
+          ],
+          "exact_question": "What is the complete wording of the second red span? No chapter designation is securely transcribed."
+        },
+        {
+          "id": "Q06",
+          "pdf_page": 105,
+          "anchor": null,
+          "native_bounds": [
+            164,
+            166,
+            200,
+            222
+          ],
+          "exact_question": "What are the characters of the small vertical left-margin label?"
+        },
+        {
+          "id": "Q07",
+          "pdf_page": 105,
+          "anchor": null,
+          "native_bounds": [
+            538,
+            235,
+            727,
+            290
+          ],
+          "exact_question": "What is the complete reading of the small black inscription preceding the row-five red span, including any numeral or final sign?"
+        },
+        {
+          "id": "Q08",
+          "pdf_page": 105,
+          "anchor": null,
+          "native_bounds": [
+            744,
+            245,
+            1195,
+            298
+          ],
+          "exact_question": "What is the complete wording of the red row-five span? Its function is not established by color or expected reply order."
+        }
+      ],
+      "unexamined_spans": {
+        "actual_target_physical_omissions": [],
+        "deliberately_excluded_flanks": [],
+        "outside_requested_scope": "Full transcription, lexical collation and exhaustive sign allocation of running text represented by E. These areas were visually inspected for the boundary search.",
+        "unresolved_target_readings": [
+          "Q01",
+          "Q02",
+          "Q03",
+          "Q04",
+          "Q05",
+          "Q06",
+          "Q07",
+          "Q08"
+        ]
+      },
+      "next_physical_span": "Keep Chapter 1 endpoint unlocated in Zhichen. Use a bounded actual-word alignment and the next candidate material from PDF107 onward only as a chronological continuation, not a predicted endpoint. Meanwhile full lexical reading resumes at PDF4 after the integrated opening; PDF102–106 have no continuous lexical-coverage credit.",
+      "reader_claims_require_coordinator_dispositions": true
     }
   ]
 }

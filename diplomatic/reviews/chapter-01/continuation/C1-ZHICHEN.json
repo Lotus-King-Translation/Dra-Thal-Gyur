@@ -1106,7 +1106,7 @@
     },
     {
       "batch_id": "B02-BOUNDARY-P0102-0106",
-      "status": "claimed_prepared_not_read",
+      "status": "review_integrated_with_bounded_uncertainties",
       "owner": "reader-C1-ZHICHEN-B02-BOUNDARY-P0102-0106",
       "baseline_commit": "01dc80b83303648317fd86853edb5c81b3a03970",
       "target_pages": [
@@ -1126,9 +1126,684 @@
       "scope": "CHAPTER-BOUNDARY SEARCH ONLY. These are candidate locator pages, not an established chapter boundary. Inspect every page for actual chapter-one closing formula and minimal following incipit; give short actual source locator phrases and exact row/bounds, without transcribing or collating Chapter2. Distinguish no colophon seen from inability to read it. Do not infer an endpoint from proportions or the supplied closing reference.",
       "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-ZHICHEN/B02-BOUNDARY-P0102-0106/manifest.json",
       "specification": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B02-BOUNDARY-P0102-0106-reader-spec.json",
-      "rows_actually_compared": [],
-      "observations": [],
-      "canonical_record_ids": []
+      "rows_actually_compared": [
+        {
+          "pdf_page": 102,
+          "physical_row": 1,
+          "observed_sequence": "[E]",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "C"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 102,
+          "physical_row": 2,
+          "observed_sequence": "མེད་དོ [C] དེ་ཕྱིར [E]",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "C"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 102,
+          "physical_row": 3,
+          "observed_sequence": "[E]",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "C"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 102,
+          "physical_row": 4,
+          "observed_sequence": "[E]",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "C"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 102,
+          "physical_row": 5,
+          "observed_sequence": "[E]",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "C"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 102,
+          "physical_row": 6,
+          "observed_sequence": "[E]",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "C"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 103,
+          "physical_row": 1,
+          "observed_sequence": "[O] [E]",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "O",
+            "C"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 103,
+          "physical_row": 2,
+          "observed_sequence": "[E]",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "C"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 103,
+          "physical_row": 3,
+          "observed_sequence": "[E] མེད་དོ [C] [E]",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "C"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 103,
+          "physical_row": 4,
+          "observed_sequence": "[E]",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "C"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 103,
+          "physical_row": 5,
+          "observed_sequence": "[E]",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "C"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 103,
+          "physical_row": 6,
+          "observed_sequence": "[E]",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "C"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 104,
+          "physical_row": 1,
+          "observed_sequence": "[E] [red:Q03] [E]",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "C"
+          ],
+          "source_annotations": [
+            "Q02"
+          ]
+        },
+        {
+          "pdf_page": 104,
+          "physical_row": 2,
+          "observed_sequence": "[E] རང་བཞིན [E]",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "C"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 104,
+          "physical_row": 3,
+          "observed_sequence": "[E]",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "C"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 104,
+          "physical_row": 4,
+          "observed_sequence": "[E] [red:Q05] [E]",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "C"
+          ],
+          "source_annotations": [
+            "Q04"
+          ]
+        },
+        {
+          "pdf_page": 104,
+          "physical_row": 5,
+          "observed_sequence": "[E]",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "C"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 104,
+          "physical_row": 6,
+          "observed_sequence": "[E]",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "C"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 105,
+          "physical_row": 1,
+          "observed_sequence": "[O] [E]",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "O",
+            "C"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 105,
+          "physical_row": 2,
+          "observed_sequence": "[E] ཡིན་ཏེ [C] [E]",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "C"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 105,
+          "physical_row": 3,
+          "observed_sequence": "[E]",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "C"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 105,
+          "physical_row": 4,
+          "observed_sequence": "[E]",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "C"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 105,
+          "physical_row": 5,
+          "observed_sequence": "[E] [red:Q08] [E]",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "C"
+          ],
+          "source_annotations": [
+            "Q07"
+          ]
+        },
+        {
+          "pdf_page": 105,
+          "physical_row": 6,
+          "observed_sequence": "[E]",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "C"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 106,
+          "physical_row": 1,
+          "observed_sequence": "[E]",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "C"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 106,
+          "physical_row": 2,
+          "observed_sequence": "[E] ཡོན་ཏན་ཐམས་ཅད",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "C"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 106,
+          "physical_row": 3,
+          "observed_sequence": "[E]",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "C"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 106,
+          "physical_row": 4,
+          "observed_sequence": "[E]",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "C"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 106,
+          "physical_row": 5,
+          "observed_sequence": "[E]",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "C"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 106,
+          "physical_row": 6,
+          "observed_sequence": "[E]",
+          "ordered_anchor_fragments": [],
+          "signs": [
+            "C"
+          ],
+          "source_annotations": []
+        }
+      ],
+      "observations": [
+        {
+          "id": "O102-01",
+          "pdf_page": 102,
+          "anchors": [],
+          "source_span": "མེད་དོ [C] དེ་ཕྱིར",
+          "base_span": null,
+          "category": "boundary_search_no_colophon_seen",
+          "neighboring_context": "Locator is at the left of physical row two. Running text occupies all six rows; no chapter-one closing formula was identified.",
+          "approximate_native_bounds": [
+            230,
+            120,
+            490,
+            173
+          ],
+          "confidence": {
+            "page_and_row": "high",
+            "locator_reading": "medium",
+            "negative_boundary_finding": "medium",
+            "base_alignment": "unestablished"
+          },
+          "rationale": "Actual source locator and full-page inspection supply no secure correspondence to the supplied closing anchors.",
+          "coordinator_disposition": "qualified_negative_boundary_search_only"
+        },
+        {
+          "id": "O103-01",
+          "pdf_page": 103,
+          "anchors": [],
+          "source_span": "མེད་དོ",
+          "base_span": null,
+          "category": "boundary_search_no_colophon_seen",
+          "neighboring_context": "Locator occurs in the leftmost clause of row three. The row-one ornament and left marginal writing are separate from the running text.",
+          "approximate_native_bounds": [
+            340,
+            166,
+            445,
+            212
+          ],
+          "confidence": {
+            "page_and_row": "high",
+            "locator_reading": "medium",
+            "negative_boundary_finding": "medium",
+            "marginal_reading": "unresolved"
+          },
+          "rationale": "Six rows were searched; no securely readable chapter-one colophon or following incipit was recognized. Q01 remains separate.",
+          "coordinator_disposition": "qualified_negative_boundary_search_only"
+        },
+        {
+          "id": "O104-01",
+          "pdf_page": 104,
+          "anchors": [],
+          "source_span": "རང་བཞིན",
+          "base_span": null,
+          "category": "boundary_search_with_unresolved_colored_material",
+          "neighboring_context": "Locator occurs toward the right of row two. Rows one and four contain red main-size writing, each preceded by smaller black writing; black running text follows both red spans.",
+          "approximate_native_bounds": [
+            1780,
+            113,
+            1965,
+            166
+          ],
+          "confidence": {
+            "page_and_row": "high",
+            "locator_reading": "medium",
+            "layer_separation": "high",
+            "negative_boundary_finding": "qualified",
+            "red_and_small_script_reading": "unresolved"
+          },
+          "rationale": "No chapter-one colophon was identified. Q02–Q05 prevent treating this as a fully resolved negative lexical finding; neither color nor placement establishes a chapter boundary.",
+          "coordinator_disposition": "qualified_negative_boundary_search_only"
+        },
+        {
+          "id": "O105-01",
+          "pdf_page": 105,
+          "anchors": [],
+          "source_span": "ཡིན་ཏེ",
+          "base_span": null,
+          "category": "boundary_search_with_unresolved_colored_material",
+          "neighboring_context": "Locator ends the leftmost clause of row two. Row five contains small black writing followed by a red span and further black text; row six continues below.",
+          "approximate_native_bounds": [
+            465,
+            120,
+            595,
+            171
+          ],
+          "confidence": {
+            "page_and_row": "high",
+            "locator_reading": "medium",
+            "layer_separation": "high",
+            "negative_boundary_finding": "qualified",
+            "red_and_small_script_reading": "unresolved"
+          },
+          "rationale": "No chapter-one colophon was identified. Q06–Q08 remain unresolved; no reply number, heading wording or chapter transition is supplied.",
+          "coordinator_disposition": "qualified_negative_boundary_search_only"
+        },
+        {
+          "id": "O106-01",
+          "pdf_page": 106,
+          "anchors": [],
+          "source_span": "ཡོན་ཏན་ཐམས་ཅད",
+          "base_span": null,
+          "category": "boundary_search_no_colophon_seen",
+          "neighboring_context": "Locator is at the right end of row two. Running text continues through row six without an identified chapter-one closing formula.",
+          "approximate_native_bounds": [
+            2100,
+            122,
+            2380,
+            179
+          ],
+          "confidence": {
+            "page_and_row": "high",
+            "locator_reading": "medium",
+            "negative_boundary_finding": "medium",
+            "base_alignment": "unestablished"
+          },
+          "rationale": "The locator alone does not establish correspondence with a base unit containing similar vocabulary. No outgoing chapter boundary is established.",
+          "coordinator_disposition": "qualified_negative_boundary_search_only"
+        }
+      ],
+      "canonical_record_ids": [],
+      "source_layers_and_non_main_regions": [
+        {
+          "pdf_page": 102,
+          "regions": [
+            {
+              "layer": "ruling",
+              "graphic": "F"
+            }
+          ],
+          "separate_lexical_annotation_seen": false
+        },
+        {
+          "pdf_page": 103,
+          "regions": [
+            {
+              "layer": "left marginal label",
+              "reading": "[Q01]"
+            },
+            {
+              "layer": "row-one opening ornament",
+              "graphic": "O"
+            },
+            {
+              "layer": "ruling",
+              "graphic": "F"
+            }
+          ]
+        },
+        {
+          "pdf_page": 104,
+          "regions": [
+            {
+              "layer": "small black writing embedded beside row one",
+              "reading": "[Q02]"
+            },
+            {
+              "layer": "small black writing embedded beside row four",
+              "reading": "[Q04]"
+            },
+            {
+              "layer": "ruling",
+              "graphic": "F"
+            }
+          ]
+        },
+        {
+          "pdf_page": 105,
+          "regions": [
+            {
+              "layer": "left marginal label",
+              "reading": "[Q06]"
+            },
+            {
+              "layer": "small black writing embedded beside row five",
+              "reading": "[Q07]"
+            },
+            {
+              "layer": "row-one opening ornament",
+              "graphic": "O"
+            },
+            {
+              "layer": "ruling",
+              "graphic": "F"
+            }
+          ]
+        },
+        {
+          "pdf_page": 106,
+          "regions": [
+            {
+              "layer": "ruling",
+              "graphic": "F"
+            }
+          ],
+          "separate_lexical_annotation_seen": false
+        }
+      ],
+      "unread_or_uncertain_spans": [
+        {
+          "id": "Q01",
+          "pdf_page": 103,
+          "anchor": null,
+          "native_bounds": [
+            184,
+            181,
+            216,
+            237
+          ],
+          "exact_question": "What are the characters of the small vertical left-margin label?"
+        },
+        {
+          "id": "Q02",
+          "pdf_page": 104,
+          "anchor": null,
+          "native_bounds": [
+            1090,
+            55,
+            1285,
+            115
+          ],
+          "exact_question": "What is the complete reading of the small black inscription between the row-one black and red passages, including any final sign or numeral?"
+        },
+        {
+          "id": "Q03",
+          "pdf_page": 104,
+          "anchor": null,
+          "native_bounds": [
+            1315,
+            64,
+            1710,
+            119
+          ],
+          "exact_question": "What is the complete wording of the first red span? Its possible heading or boundary function is not securely resolved."
+        },
+        {
+          "id": "Q04",
+          "pdf_page": 104,
+          "anchor": null,
+          "native_bounds": [
+            825,
+            196,
+            1035,
+            247
+          ],
+          "exact_question": "What is the complete reading of the small black inscription preceding the row-four red span, including any numeral or closing sign?"
+        },
+        {
+          "id": "Q05",
+          "pdf_page": 104,
+          "anchor": null,
+          "native_bounds": [
+            1035,
+            201,
+            1520,
+            252
+          ],
+          "exact_question": "What is the complete wording of the second red span? No chapter designation is securely transcribed."
+        },
+        {
+          "id": "Q06",
+          "pdf_page": 105,
+          "anchor": null,
+          "native_bounds": [
+            164,
+            166,
+            200,
+            222
+          ],
+          "exact_question": "What are the characters of the small vertical left-margin label?"
+        },
+        {
+          "id": "Q07",
+          "pdf_page": 105,
+          "anchor": null,
+          "native_bounds": [
+            538,
+            235,
+            727,
+            290
+          ],
+          "exact_question": "What is the complete reading of the small black inscription preceding the row-five red span, including any numeral or final sign?"
+        },
+        {
+          "id": "Q08",
+          "pdf_page": 105,
+          "anchor": null,
+          "native_bounds": [
+            744,
+            245,
+            1195,
+            298
+          ],
+          "exact_question": "What is the complete wording of the red row-five span? Its function is not established by color or expected reply order."
+        }
+      ],
+      "unexamined_spans": {
+        "actual_target_physical_omissions": [],
+        "deliberately_excluded_flanks": [],
+        "outside_requested_scope": "Full transcription, lexical collation and exhaustive sign allocation of running text represented by E. These areas were visually inspected for the boundary search.",
+        "unresolved_target_readings": [
+          "Q01",
+          "Q02",
+          "Q03",
+          "Q04",
+          "Q05",
+          "Q06",
+          "Q07",
+          "Q08"
+        ]
+      },
+      "next_physical_span": "Keep Chapter 1 endpoint unlocated in Zhichen. Use a bounded actual-word alignment and the next candidate material from PDF107 onward only as a chronological continuation, not a predicted endpoint. Meanwhile full lexical reading resumes at PDF4 after the integrated opening; PDF102–106 have no continuous lexical-coverage credit.",
+      "integration_20260929": {
+        "verified_inputs": {
+          "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B02-BOUNDARY-P0102-0106-reader-reading.txt",
+          "sha256": "345cfc5cbc0ab13c07f45b8ba560b3b0b286a48e8bfd6e09e7fc6f158b0b8996",
+          "images_hash_verified": 15,
+          "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B02-BOUNDARY-P0102-0106-reader-execution.json"
+        },
+        "baseline_commit": "4b82213d16965cd889fd03eced8abd8e0fe39711",
+        "coordinator": {
+          "summary": "Zhichen PDF102–106 boundary-search report integrated: five candidate pages and thirty physical rows searched, without locating a securely read Chapter 1 colophon or following incipit. Zero new lexical-collation rows or apparatus variants are claimed.",
+          "detail": "The report’s E spans were viewed only for boundary search, not transcribed or collated. All eight marginal, small-black and red-span questions remain unresolved. Color, running med-do/yin-te endings and general words such as rang-bzhin do not establish a chapter transition or base alignment.",
+          "coordinator_scope": "Viewed all five native layouts and both overlapping native columns per page. Checked the separately sized black inscriptions and red spans on PDF104/PDF105; no secure complete closing formula or next-chapter incipit was established. This is a qualified negative search, not verification of every letter on these leaves.",
+          "next_step": "Keep Chapter 1 endpoint unlocated in Zhichen. Use a bounded actual-word alignment and the next candidate material from PDF107 onward only as a chronological continuation, not a predicted endpoint. Meanwhile full lexical reading resumes at PDF4 after the integrated opening; PDF102–106 have no continuous lexical-coverage credit.",
+          "observation_dispositions": {
+            "O102-01": "qualified_negative_boundary_search_only",
+            "O103-01": "qualified_negative_boundary_search_only",
+            "O104-01": "qualified_negative_boundary_search_only",
+            "O105-01": "qualified_negative_boundary_search_only",
+            "O106-01": "qualified_negative_boundary_search_only"
+          },
+          "disposition_legend": {
+            "qualified_negative_boundary_search_only": "Retain the observed locator and exact unresolved span as search evidence. No canonical anchor, lexical agreement, missing text, or absence of the colophon is established."
+          },
+          "inspection_kind": "boundary_search_not_lexical_collation",
+          "physical_rows_searched": 30,
+          "lexical_rows_newly_collated": 0,
+          "chapter_endpoint": null
+        },
+        "reader_claims_not_automatically_certified": true
+      },
+      "graphic_legend": {
+        "E": "Running text visually searched for a boundary but deliberately not transcribed or lexically collated.",
+        "C": "Recurring compound separator: vertically disposed small loop/dot elements with an oblique middle stroke; not normalized to double shads.",
+        "O": "Sweeping hooked opening ornament with adjacent small stacked marks.",
+        "F": "Colored page or row ruling, separate from textual punctuation.",
+        "Q": "Unresolved bounded writing; exact question and bounds appear once in unread_after_inspection.",
+        "bounds": "Approximate native-pixel [left,top,right,bottom], origin upper left.",
+        "row_signs": "Search-level graphic description only; no exhaustive punctuation certification or allocation to base units."
+      },
+      "independent_review": {
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B02-BOUNDARY-P0102-0106-reader-reading.txt",
+        "sha256": "345cfc5cbc0ab13c07f45b8ba560b3b0b286a48e8bfd6e09e7fc6f158b0b8996",
+        "images_hash_verified": 15,
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B02-BOUNDARY-P0102-0106-reader-execution.json",
+        "scope": {
+          "image_access_failure": null,
+          "candidate_pages_inspected": 5,
+          "physical_main_rows_searched": 30,
+          "colophon_transcribed": null,
+          "following_incipit_transcribed": null,
+          "incoming_base_correspondence": "Not securely established.",
+          "outgoing_base_correspondence": "Not securely established.",
+          "boundary_status": "Unlocated in this batch; unresolved writing remains explicitly bounded.",
+          "review_status": "Informed independent model inspection; not blind review, credentialed human palaeography, complete lexical collation or chapter/witness certification."
+        },
+        "proposals_adopted": false
+      }
     }
   ],
   "current_batch_id": "B02-BOUNDARY-P0102-0106"

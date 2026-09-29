@@ -1,0 +1,31 @@
+{
+  "task_id": "C1-ZHICHEN",
+  "batch_id": "B02-BOUNDARY-P0102-0106",
+  "witness": "Zhichen",
+  "record_prefix": "ZH-BOUNDARY-B02",
+  "selected_observations": [],
+  "record_statuses": {},
+  "planned_new_records": 0,
+  "base_disposition": "No base change. An unsuccessful boundary search is not source collation, absence of a colophon, or proof of a chapter endpoint.",
+  "coordinator": {
+    "summary": "Zhichen PDF102–106 boundary-search report integrated: five candidate pages and thirty physical rows searched, without locating a securely read Chapter 1 colophon or following incipit. Zero new lexical-collation rows or apparatus variants are claimed.",
+    "detail": "The report’s E spans were viewed only for boundary search, not transcribed or collated. All eight marginal, small-black and red-span questions remain unresolved. Color, running med-do/yin-te endings and general words such as rang-bzhin do not establish a chapter transition or base alignment.",
+    "coordinator_scope": "Viewed all five native layouts and both overlapping native columns per page. Checked the separately sized black inscriptions and red spans on PDF104/PDF105; no secure complete closing formula or next-chapter incipit was established. This is a qualified negative search, not verification of every letter on these leaves.",
+    "next_step": "Keep Chapter 1 endpoint unlocated in Zhichen. Use a bounded actual-word alignment and the next candidate material from PDF107 onward only as a chronological continuation, not a predicted endpoint. Meanwhile full lexical reading resumes at PDF4 after the integrated opening; PDF102–106 have no continuous lexical-coverage credit.",
+    "observation_dispositions": {
+      "O102-01": "qualified_negative_boundary_search_only",
+      "O103-01": "qualified_negative_boundary_search_only",
+      "O104-01": "qualified_negative_boundary_search_only",
+      "O105-01": "qualified_negative_boundary_search_only",
+      "O106-01": "qualified_negative_boundary_search_only"
+    },
+    "disposition_legend": {
+      "qualified_negative_boundary_search_only": "Retain the observed locator and exact unresolved span as search evidence. No canonical anchor, lexical agreement, missing text, or absence of the colophon is established."
+    },
+    "inspection_kind": "boundary_search_not_lexical_collation",
+    "physical_rows_searched": 30,
+    "lexical_rows_newly_collated": 0,
+    "chapter_endpoint": null
+  },
+  "next_task_id": "C1-W1ER119"
+}
