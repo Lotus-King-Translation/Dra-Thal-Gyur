@@ -4,7 +4,7 @@
   "canonical_branch": "main",
   "current_chapter": 1,
   "chapter_status": "in_progress_not_ready",
-  "next_task_id": "C1-THARPALING",
+  "next_task_id": "C1-GADKAR",
   "path_base": "repository root; JSON pointers identify records without changing their historical contents",
   "scope": "Continuation queue, not a whole-chapter collation claim. Thirty punctuation candidate identities remain tracked, including completed dispositions; unfinished items are hypotheses, not accepted readings. Existing Adzom and Dzongsar main lexical passes remain valid within their recorded scopes.",
   "reference_paths": [
@@ -867,7 +867,7 @@
       "id": "C1-THARPALING",
       "kind": "witness_coverage",
       "status": "in_progress",
-      "owner": "bounded-source-reader-COVERAGE-W01",
+      "owner": "ChatGPT-coordinator-20260929-integration",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -909,7 +909,9 @@
           "status": "planned_not_read"
         }
       ],
-      "current_batch_id": "B01-P0004-0006"
+      "current_batch_id": null,
+      "next_step": "Inspect the actual PDF7 entry against bounded Q625/Q7E, and continue only from independently established words; its exact incoming anchor is unresolved. Preserve the PDF4–6 lexical, graphic and layer questions and distinguish an unread join from a missing leaf or witness omission. No wholesale repetition of the already recorded fragments is needed.",
+      "last_integrated_batch_id": "B01-P0004-0006"
     },
     {
       "id": "C1-DEGE",

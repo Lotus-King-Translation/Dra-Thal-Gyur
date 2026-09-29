@@ -8308,6 +8308,1015 @@
       },
       "next_physical_span": "Reconcile the already launched B09/PDF15–17 results after preserving any later Mac outputs. Entry is U00685 continuation ཤེས་བཀོད་པ་ལ. Retain Q12-01 through Q14-M01 and exact physical note/guide separations; do not relaunch blindly or certify unexamined pages.",
       "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-THARPALING",
+      "batch_id": "B01-P0004-0006",
+      "target_pages": [
+        4,
+        5,
+        6
+      ],
+      "report": "reviews/chapter-01/continuation/C1-THARPALING.json",
+      "summary": "Tharpaling PDF4–6 partial collation integrated: eighteen inspected main rows, ten bounded-fragment records and thirty-seven separately indexed lexical questions. All seventy-two raw questions and the unresolved PDF6–7 join remain preserved.",
+      "rows_reported": 18,
+      "canonical_record_ids": [
+        "TH-COV1-B01-O-4-ENTRY",
+        "TH-COV1-B01-O-4-ROW23",
+        "TH-COV1-B01-O-4-U80",
+        "TH-COV1-B01-O-4-U92-93",
+        "TH-COV1-B01-O-4-EXIT",
+        "TH-COV1-B01-O-5-U126",
+        "TH-COV1-B01-O-5-EXIT",
+        "TH-COV1-B01-O-6-ENTRY",
+        "TH-COV1-B01-O-6-LOWER-ROWS",
+        "TH-COV1-B01-O-6-EXIT",
+        "TH-COV1-B01-Q403",
+        "TH-COV1-B01-Q404",
+        "TH-COV1-B01-Q407",
+        "TH-COV1-B01-Q410",
+        "TH-COV1-B01-Q411",
+        "TH-COV1-B01-Q412",
+        "TH-COV1-B01-Q415",
+        "TH-COV1-B01-Q416",
+        "TH-COV1-B01-Q501",
+        "TH-COV1-B01-Q502",
+        "TH-COV1-B01-Q503",
+        "TH-COV1-B01-Q504",
+        "TH-COV1-B01-Q506",
+        "TH-COV1-B01-Q507",
+        "TH-COV1-B01-Q508",
+        "TH-COV1-B01-Q509",
+        "TH-COV1-B01-Q510",
+        "TH-COV1-B01-Q511",
+        "TH-COV1-B01-Q512",
+        "TH-COV1-B01-Q513",
+        "TH-COV1-B01-Q514",
+        "TH-COV1-B01-Q515",
+        "TH-COV1-B01-Q516",
+        "TH-COV1-B01-Q517",
+        "TH-COV1-B01-Q520",
+        "TH-COV1-B01-Q603",
+        "TH-COV1-B01-Q604",
+        "TH-COV1-B01-Q606",
+        "TH-COV1-B01-Q607",
+        "TH-COV1-B01-Q609",
+        "TH-COV1-B01-Q610",
+        "TH-COV1-B01-Q614",
+        "TH-COV1-B01-Q615",
+        "TH-COV1-B01-Q617",
+        "TH-COV1-B01-Q621",
+        "TH-COV1-B01-Q623",
+        "TH-COV1-B01-Q624"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "status": "partial collation, not a completed continuous ledger",
+        "target_pages_inspected": [
+          4,
+          5,
+          6
+        ],
+        "target_rows_represented": 18,
+        "lexical_extent": "Recognizable fragments run from U00061 on PDF4 to the beginning of U00167 on PDF6. Q-coded material is not certified.",
+        "incoming_correspondence": "Established at the U00060/U00061 transition through quoted source words.",
+        "internal_page_correspondences": "PDF4–5 is located in U00100; PDF5–6 is located around U00131–U00132, with exact splits unresolved.",
+        "outgoing_correspondence": "Not securely completed.",
+        "punctuation_and_layers": "Gross separator elements and non-main regions recorded; exhaustive fine graphic and small-note discrimination remains incomplete.",
+        "witness_count": 1,
+        "overlap_views": "Repeated views of the same source pixels, not corroborating witnesses.",
+        "certification": "No complete chapter, witness, lexical, punctuation or annotation certification."
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q401",
+          "pdf_page": 4,
+          "anchor": "U00061",
+          "native_bounds": [
+            264,
+            88,
+            343,
+            133
+          ],
+          "exact_question": "What is the complete syllable between the first དང and the following དང?"
+        },
+        {
+          "id": "Q402",
+          "pdf_page": 4,
+          "anchor": "U00062",
+          "native_bounds": [
+            522,
+            87,
+            624,
+            136
+          ],
+          "exact_question": "Read the stacked letters and ending between ཅིང and རྣམ་པ."
+        },
+        {
+          "id": "Q403",
+          "pdf_page": 4,
+          "anchor": "U00067",
+          "native_bounds": [
+            1770,
+            85,
+            1875,
+            132
+          ],
+          "exact_question": "Read all remaining letters after མཛེས་ཞིང at the row edge."
+        },
+        {
+          "id": "Q404",
+          "pdf_page": 4,
+          "anchor": "U00068",
+          "native_bounds": [
+            425,
+            130,
+            484,
+            177
+          ],
+          "exact_question": "Read the component between རྣམ་ཤེས and མེད་པར."
+        },
+        {
+          "id": "Q405",
+          "pdf_page": 4,
+          "anchor": "U00073",
+          "native_bounds": [
+            1750,
+            129,
+            1876,
+            180
+          ],
+          "exact_question": "Read the complete right-edge remainder, its boundary signs and any following main-text syllable."
+        },
+        {
+          "id": "Q406",
+          "pdf_page": 4,
+          "anchor": "U00074",
+          "native_bounds": [
+            298,
+            173,
+            414,
+            219
+          ],
+          "exact_question": "Read the fused components between རྩ་གཅིག and ནི."
+        },
+        {
+          "id": "Q407",
+          "pdf_page": 4,
+          "anchor": "U00076",
+          "native_bounds": [
+            859,
+            170,
+            1005,
+            220
+          ],
+          "exact_question": "Read the clause ending after རྣམས་ཀྱི and distinguish every following detached sign."
+        },
+        {
+          "id": "Q408",
+          "pdf_page": 4,
+          "anchor": "U00080",
+          "native_bounds": [
+            1730,
+            172,
+            1877,
+            221
+          ],
+          "exact_question": "Read the remaining fused letters after དབང་ཕྱུག; determine the exact word ending before next-row ནས."
+        },
+        {
+          "id": "Q409",
+          "pdf_page": 4,
+          "anchor": "U00081",
+          "native_bounds": [
+            360,
+            211,
+            562,
+            263
+          ],
+          "exact_question": "Read the remainder after གསུང་གི and its full separator interval; distinguish subsidiary strokes from main letters."
+        },
+        {
+          "id": "Q410",
+          "pdf_page": 4,
+          "anchor": "U00084",
+          "native_bounds": [
+            1085,
+            212,
+            1173,
+            259
+          ],
+          "exact_question": "Read the syllables between རྩ་བཞིའི and ནི."
+        },
+        {
+          "id": "Q411",
+          "pdf_page": 4,
+          "anchor": "U00087",
+          "native_bounds": [
+            184,
+            252,
+            258,
+            299
+          ],
+          "exact_question": "Read the row-initial syllable before བཅུ་བདུན; do not supply it from the base."
+        },
+        {
+          "id": "Q412",
+          "pdf_page": 4,
+          "anchor": "U00089",
+          "native_bounds": [
+            682,
+            251,
+            861,
+            302
+          ],
+          "exact_question": "Read the remainder after ཐུགས་ཀྱི and inventory the entire following interval."
+        },
+        {
+          "id": "Q413",
+          "pdf_page": 4,
+          "anchor": "U00092",
+          "native_bounds": [
+            1310,
+            251,
+            1534,
+            306
+          ],
+          "exact_question": "Read the complete sequence after ཡེ through its separator; distinguish possible small strokes from main-text letters."
+        },
+        {
+          "id": "Q414",
+          "pdf_page": 4,
+          "anchor": "U00093",
+          "native_bounds": [
+            1665,
+            253,
+            1795,
+            309
+          ],
+          "exact_question": "Read the remainder after ལས་དང and all signs before གསེར་གྱི."
+        },
+        {
+          "id": "Q415",
+          "pdf_page": 4,
+          "anchor": "U00094",
+          "native_bounds": [
+            254,
+            294,
+            314,
+            339
+          ],
+          "exact_question": "Read the components between སྙིང་པོ and སྣང."
+        },
+        {
+          "id": "Q416",
+          "pdf_page": 4,
+          "anchor": "U00097",
+          "native_bounds": [
+            995,
+            294,
+            1164,
+            345
+          ],
+          "exact_question": "Read the clause ending after མཆོག་རྣམས and its separator."
+        },
+        {
+          "id": "Q417",
+          "pdf_page": 4,
+          "anchor": "U00100",
+          "native_bounds": [
+            1770,
+            302,
+            1880,
+            356
+          ],
+          "exact_question": "Read every final component after རྫོགས་ཆེན and establish the exact division before PDF5."
+        },
+        {
+          "id": "Q4M",
+          "pdf_page": 4,
+          "anchor": null,
+          "native_bounds": [
+            143,
+            169,
+            182,
+            287
+          ],
+          "exact_question": "Read the vertical marginal label and distinguish letters, any numeral and the adjacent frame."
+        },
+        {
+          "id": "Q501",
+          "pdf_page": 5,
+          "anchor": "U00102",
+          "native_bounds": [
+            1023,
+            90,
+            1210,
+            149
+          ],
+          "exact_question": "Read the sequence between སངས་རྒྱས and the visible final ཡིས."
+        },
+        {
+          "id": "Q502",
+          "pdf_page": 5,
+          "anchor": "U00103",
+          "native_bounds": [
+            1390,
+            84,
+            1551,
+            145
+          ],
+          "exact_question": "Read the remainder after ནས་ནི and the complete boundary interval."
+        },
+        {
+          "id": "Q503",
+          "pdf_page": 5,
+          "anchor": "U00104",
+          "native_bounds": [
+            1665,
+            82,
+            1844,
+            143
+          ],
+          "exact_question": "Read the remainder after སྐུ་ལ and distinguish its separator from following letter limbs."
+        },
+        {
+          "id": "Q504",
+          "pdf_page": 5,
+          "anchor": "U00105",
+          "native_bounds": [
+            1890,
+            84,
+            1928,
+            141
+          ],
+          "exact_question": "Determine whether any letters follow ལས་ཅན before the row edge and read them."
+        },
+        {
+          "id": "Q505",
+          "pdf_page": 5,
+          "anchor": null,
+          "native_bounds": [
+            292,
+            145,
+            669,
+            207
+          ],
+          "exact_question": "Read the entire damaged opening before དེ་ལྟར, including all clause boundaries and the exact continuation from row 1."
+        },
+        {
+          "id": "Q506",
+          "pdf_page": 5,
+          "anchor": "U00108",
+          "native_bounds": [
+            1080,
+            139,
+            1270,
+            199
+          ],
+          "exact_question": "Read the remainder after གཟུགས་བརྙན and its full boundary interval."
+        },
+        {
+          "id": "Q507",
+          "pdf_page": 5,
+          "anchor": "U00110",
+          "native_bounds": [
+            1640,
+            134,
+            1860,
+            197
+          ],
+          "exact_question": "Read the remainder after ནམ་མཁའ and the separator before ཚིག་རྣམས."
+        },
+        {
+          "id": "Q508",
+          "pdf_page": 5,
+          "anchor": "U00111",
+          "native_bounds": [
+            1890,
+            136,
+            1928,
+            191
+          ],
+          "exact_question": "Read the exact final component at the row edge after ཚིག་རྣམས."
+        },
+        {
+          "id": "Q509",
+          "pdf_page": 5,
+          "anchor": "U00112",
+          "native_bounds": [
+            725,
+            187,
+            883,
+            247
+          ],
+          "exact_question": "Read the remainder after བཞི་ཡི and all signs before ཚངས་པ."
+        },
+        {
+          "id": "Q510",
+          "pdf_page": 5,
+          "anchor": "U00113",
+          "native_bounds": [
+            1045,
+            181,
+            1203,
+            242
+          ],
+          "exact_question": "Read the remainder after ཆེན་པོའི and its boundary signs."
+        },
+        {
+          "id": "Q511",
+          "pdf_page": 5,
+          "anchor": "U00115",
+          "native_bounds": [
+            1700,
+            174,
+            1928,
+            236
+          ],
+          "exact_question": "Read the entire remainder after ཁྱབ་འཇུག་ཆེན་པོའི up to the row edge."
+        },
+        {
+          "id": "Q512",
+          "pdf_page": 5,
+          "anchor": "U00116",
+          "native_bounds": [
+            430,
+            229,
+            692,
+            288
+          ],
+          "exact_question": "Read the remainder after བྱིན་གྱིས, preserving the actual particles, and inventory its separator."
+        },
+        {
+          "id": "Q513",
+          "pdf_page": 5,
+          "anchor": "U00118",
+          "native_bounds": [
+            1135,
+            221,
+            1297,
+            281
+          ],
+          "exact_question": "Read the remainder after ཀ་ལ་པིང་ཀའི and all intervening signs."
+        },
+        {
+          "id": "Q514",
+          "pdf_page": 5,
+          "anchor": "U00119",
+          "native_bounds": [
+            1480,
+            220,
+            1589,
+            278
+          ],
+          "exact_question": "Read the ending after བཅུད and the following boundary interval."
+        },
+        {
+          "id": "Q515",
+          "pdf_page": 5,
+          "anchor": "U00121",
+          "native_bounds": [
+            1875,
+            215,
+            1928,
+            273
+          ],
+          "exact_question": "Read the row-edge remainder after ཚིག་རྣམས; establish whether any further syllable is on this row."
+        },
+        {
+          "id": "Q516",
+          "pdf_page": 5,
+          "anchor": "U00121",
+          "native_bounds": [
+            325,
+            270,
+            470,
+            328
+          ],
+          "exact_question": "Read the sequence after row-initial ཀུན through its separator."
+        },
+        {
+          "id": "Q517",
+          "pdf_page": 5,
+          "anchor": "U00125",
+          "native_bounds": [
+            1480,
+            259,
+            1640,
+            316
+          ],
+          "exact_question": "Read the remainder after ཚ་དང and the entire interval before སོ་སོའི."
+        },
+        {
+          "id": "Q518",
+          "pdf_page": 5,
+          "anchor": "U00126",
+          "native_bounds": [
+            1720,
+            258,
+            1928,
+            316
+          ],
+          "exact_question": "Read the sequence after སོ་སོའི to the row edge without supplying the numerical wording from the base."
+        },
+        {
+          "id": "Q519",
+          "pdf_page": 5,
+          "anchor": null,
+          "native_bounds": [
+            292,
+            309,
+            430,
+            366
+          ],
+          "exact_question": "Read the complete row-initial continuation and all signs before སྟོན་པས."
+        },
+        {
+          "id": "Q520",
+          "pdf_page": 5,
+          "anchor": "U00127",
+          "native_bounds": [
+            580,
+            309,
+            766,
+            365
+          ],
+          "exact_question": "Read the remainder after བྱིན་གྱིས and the full separator interval."
+        },
+        {
+          "id": "Q521",
+          "pdf_page": 5,
+          "anchor": "U00130",
+          "native_bounds": [
+            1500,
+            300,
+            1646,
+            357
+          ],
+          "exact_question": "Read the remainder after དྲུག་ཅུར and its separator."
+        },
+        {
+          "id": "Q522",
+          "pdf_page": 5,
+          "anchor": "U00131",
+          "native_bounds": [
+            1780,
+            299,
+            1928,
+            357
+          ],
+          "exact_question": "Read the final source letters after འདུས་པའི and establish the exact split before PDF6."
+        },
+        {
+          "id": "Q5H",
+          "pdf_page": 5,
+          "anchor": null,
+          "native_bounds": [
+            425,
+            99,
+            487,
+            165
+          ],
+          "exact_question": "Inventory the isolated upper speck/stroke and lower H-like stroke: distinguish ornament, filler, damage and any written sign without assigning a numeral."
+        },
+        {
+          "id": "Q5M1",
+          "pdf_page": 5,
+          "anchor": null,
+          "native_bounds": [
+            250,
+            167,
+            286,
+            209
+          ],
+          "exact_question": "Read or graphically identify the upper left marginal mark without inferring its value."
+        },
+        {
+          "id": "Q5M2",
+          "pdf_page": 5,
+          "anchor": null,
+          "native_bounds": [
+            249,
+            222,
+            289,
+            279
+          ],
+          "exact_question": "Read or graphically identify the lower left marginal mark independently of expected folio order."
+        },
+        {
+          "id": "Q5R",
+          "pdf_page": 5,
+          "anchor": null,
+          "native_bounds": [
+            2060,
+            163,
+            2150,
+            366
+          ],
+          "exact_question": "Determine whether this exterior vertical band contains recoverable writing or only non-textual interference; no words recovered."
+        },
+        {
+          "id": "Q601",
+          "pdf_page": 6,
+          "anchor": null,
+          "native_bounds": [
+            333,
+            76,
+            497,
+            137
+          ],
+          "exact_question": "Read the entire fused opening before དེ་ཡང, including any final words and separator from the preceding page."
+        },
+        {
+          "id": "Q602",
+          "pdf_page": 6,
+          "anchor": "U00132",
+          "native_bounds": [
+            650,
+            76,
+            770,
+            138
+          ],
+          "exact_question": "Read the remainder after དགོངས་པ and its separator."
+        },
+        {
+          "id": "Q603",
+          "pdf_page": 6,
+          "anchor": "U00133",
+          "native_bounds": [
+            943,
+            78,
+            1093,
+            141
+          ],
+          "exact_question": "Read the remainder after གསུང་ཚུལ་དགོངས་པ and the complete following interval."
+        },
+        {
+          "id": "Q604",
+          "pdf_page": 6,
+          "anchor": "U00136",
+          "native_bounds": [
+            1805,
+            83,
+            2040,
+            145
+          ],
+          "exact_question": "Read all material after དེ་མ་ཡིན་པའི to the row edge, including any boundary and following clause beginning."
+        },
+        {
+          "id": "Q605",
+          "pdf_page": 6,
+          "anchor": null,
+          "native_bounds": [
+            333,
+            122,
+            547,
+            183
+          ],
+          "exact_question": "Read the whole row-initial continuation before སྒྲ་ཚིག and inventory its terminal signs."
+        },
+        {
+          "id": "Q606",
+          "pdf_page": 6,
+          "anchor": "U00138",
+          "native_bounds": [
+            650,
+            124,
+            832,
+            183
+          ],
+          "exact_question": "Read the remainder after མིང་ལ and its separator."
+        },
+        {
+          "id": "Q607",
+          "pdf_page": 6,
+          "anchor": "U00142",
+          "native_bounds": [
+            1780,
+            129,
+            2040,
+            191
+          ],
+          "exact_question": "Read all remaining row material after བརྗོད་ཚིག; identify whether another clause starts before the edge."
+        },
+        {
+          "id": "Q608",
+          "pdf_page": 6,
+          "anchor": null,
+          "native_bounds": [
+            333,
+            163,
+            601,
+            226
+          ],
+          "exact_question": "Read the complete opening before ཚངས་པའི and establish its clause boundary."
+        },
+        {
+          "id": "Q609",
+          "pdf_page": 6,
+          "anchor": "U00144",
+          "native_bounds": [
+            714,
+            166,
+            837,
+            226
+          ],
+          "exact_question": "Read the remainder after དབྱངས་ལ and its separator."
+        },
+        {
+          "id": "Q610",
+          "pdf_page": 6,
+          "anchor": "U00145",
+          "native_bounds": [
+            979,
+            168,
+            1095,
+            228
+          ],
+          "exact_question": "Read the clause ending after རྗོད་བྱེད and its separator."
+        },
+        {
+          "id": "Q611",
+          "pdf_page": 6,
+          "anchor": "U00148",
+          "native_bounds": [
+            1645,
+            170,
+            1717,
+            232
+          ],
+          "exact_question": "Read the syllable immediately after རྟོགས; do not resolve it from the base's wording."
+        },
+        {
+          "id": "Q612",
+          "pdf_page": 6,
+          "anchor": null,
+          "native_bounds": [
+            1875,
+            169,
+            2040,
+            234
+          ],
+          "exact_question": "Read the entire remaining row-edge sequence after the visible U00148 interval."
+        },
+        {
+          "id": "Q613",
+          "pdf_page": 6,
+          "anchor": null,
+          "native_bounds": [
+            333,
+            202,
+            503,
+            266
+          ],
+          "exact_question": "Read the complete row-initial material before ཁྱད་པར and distinguish all detached signs."
+        },
+        {
+          "id": "Q614",
+          "pdf_page": 6,
+          "anchor": "U00151",
+          "native_bounds": [
+            906,
+            207,
+            1058,
+            271
+          ],
+          "exact_question": "Read the ending after སྒྲ་དང་ཚིག་གི and its separator."
+        },
+        {
+          "id": "Q615",
+          "pdf_page": 6,
+          "anchor": "U00153",
+          "native_bounds": [
+            1455,
+            207,
+            1598,
+            272
+          ],
+          "exact_question": "Read the remainder after ལས་ཀྱི and its boundary signs."
+        },
+        {
+          "id": "Q616",
+          "pdf_page": 6,
+          "anchor": "U00154",
+          "native_bounds": [
+            1730,
+            209,
+            1865,
+            274
+          ],
+          "exact_question": "Read the wording after རྩ་བ and its separator without inferring a numerical expression."
+        },
+        {
+          "id": "Q617",
+          "pdf_page": 6,
+          "anchor": "U00155",
+          "native_bounds": [
+            1920,
+            211,
+            2040,
+            276
+          ],
+          "exact_question": "Read every row-edge component following རི་མོ."
+        },
+        {
+          "id": "Q618",
+          "pdf_page": 6,
+          "anchor": null,
+          "native_bounds": [
+            333,
+            244,
+            507,
+            307
+          ],
+          "exact_question": "Read the row-initial continuation before སྤྲུལ་པ and its boundary signs."
+        },
+        {
+          "id": "Q619",
+          "pdf_page": 6,
+          "anchor": "U00156",
+          "native_bounds": [
+            626,
+            244,
+            783,
+            307
+          ],
+          "exact_question": "Read the remainder after ལ་སོགས and its full separator interval."
+        },
+        {
+          "id": "Q620",
+          "pdf_page": 6,
+          "anchor": "U00160",
+          "native_bounds": [
+            1700,
+            250,
+            1849,
+            314
+          ],
+          "exact_question": "Read the remainder after རྩ་བའི་སྒྲ་ཚིག and its separator."
+        },
+        {
+          "id": "Q621",
+          "pdf_page": 6,
+          "anchor": "U00161",
+          "native_bounds": [
+            1920,
+            251,
+            2040,
+            315
+          ],
+          "exact_question": "Read the complete row-edge remainder after ཐམས་ཅད."
+        },
+        {
+          "id": "Q622",
+          "pdf_page": 6,
+          "anchor": null,
+          "native_bounds": [
+            333,
+            282,
+            480,
+            347
+          ],
+          "exact_question": "Read the complete row-initial continuation and all signs before བསྟན་པ."
+        },
+        {
+          "id": "Q623",
+          "pdf_page": 6,
+          "anchor": "U00162",
+          "native_bounds": [
+            616,
+            283,
+            758,
+            347
+          ],
+          "exact_question": "Read the remainder after དམ་པའི and its separator."
+        },
+        {
+          "id": "Q624",
+          "pdf_page": 6,
+          "anchor": "U00163",
+          "native_bounds": [
+            891,
+            285,
+            1013,
+            349
+          ],
+          "exact_question": "Read the remainder after འཁོར་བ and its full separator interval."
+        },
+        {
+          "id": "Q625",
+          "pdf_page": 6,
+          "anchor": "U00167",
+          "native_bounds": [
+            1870,
+            290,
+            2044,
+            355
+          ],
+          "exact_question": "Read the complete page-final continuation after ལུས་ཀུན and establish the exact division before PDF7."
+        },
+        {
+          "id": "Q6M",
+          "pdf_page": 6,
+          "anchor": null,
+          "native_bounds": [
+            300,
+            158,
+            334,
+            262
+          ],
+          "exact_question": "Read the vertical left marginal label and distinguish its components from the nearby frame; assign no expected numeral."
+        },
+        {
+          "id": "Q6R",
+          "pdf_page": 6,
+          "anchor": null,
+          "native_bounds": [
+            2090,
+            148,
+            2175,
+            356
+          ],
+          "exact_question": "Determine whether the right exterior vertical region preserves writing; no lexical sequence securely recovered."
+        },
+        {
+          "id": "Q7E",
+          "pdf_page": 7,
+          "anchor": null,
+          "native_bounds": [
+            530,
+            92,
+            680,
+            151
+          ],
+          "exact_question": "Read only the first lexical segment after the opening ornament to establish the outgoing join; do not complete it from expected anchor order."
+        }
+      ],
+      "unexamined_spans": [
+        {
+          "kind": "actual target row omissions",
+          "spans": [],
+          "explanation": "Every physical main row was visually inspected left to right. Unrecovered text is explicitly Q-coded rather than treated as absent."
+        },
+        {
+          "kind": "incomplete target graphic work",
+          "spans": [
+            {
+              "pdf_page": 4,
+              "physical_rows": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+              ],
+              "scope": "Fine morphology of V2 intervals, faint tshegs and definitive separation of any small-note strokes."
+            },
+            {
+              "pdf_page": 5,
+              "physical_rows": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+              ],
+              "scope": "Fine morphology of V2 intervals, faint tshegs and definitive separation of any small-note strokes."
+            },
+            {
+              "pdf_page": 6,
+              "physical_rows": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+              ],
+              "scope": "Fine morphology of V2 intervals, faint tshegs and definitive separation of any small-note strokes."
+            }
+          ],
+          "explanation": "These aspects were inspected but not resolved to the requested exhaustive sign-and-layer standard."
+        },
+        {
+          "kind": "deliberately excluded flanks",
+          "spans": [
+            {
+              "pdf_page": 3,
+              "scope": "All lexical collation except the terminal incoming locator."
+            },
+            {
+              "pdf_page": 7,
+              "scope": "All lexical collation beyond the opening segment examined for the outgoing join."
+            }
+          ]
+        }
+      ],
+      "next_physical_span": "Inspect the actual PDF7 entry against bounded Q625/Q7E, and continue only from independently established words; its exact incoming anchor is unresolved. Preserve the PDF4–6 lexical, graphic and layer questions and distinguish an unread join from a missing leaf or witness omission. No wholesale repetition of the already recorded fragments is needed.",
+      "reader_claims_require_coordinator_dispositions": true
     }
   ]
 }

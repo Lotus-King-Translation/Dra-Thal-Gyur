@@ -1,0 +1,195 @@
+{
+  "task_id": "C1-THARPALING",
+  "batch_id": "B01-P0004-0006",
+  "witness": "Tharpaling",
+  "record_prefix": "TH-COV1-B01",
+  "selected_observations": [
+    "O-4-ENTRY",
+    "O-4-ROW23",
+    "O-4-U80",
+    "O-4-U92-93",
+    "O-4-EXIT",
+    "O-5-U126",
+    "O-5-EXIT",
+    "O-6-ENTRY",
+    "O-6-LOWER-ROWS",
+    "O-6-EXIT"
+  ],
+  "record_statuses": {
+    "O-4-ENTRY": "bounded_uncertainty",
+    "O-4-ROW23": "bounded_uncertainty",
+    "O-4-U80": "bounded_uncertainty",
+    "O-4-U92-93": "bounded_uncertainty",
+    "O-4-EXIT": "bounded_uncertainty",
+    "O-5-U126": "bounded_uncertainty",
+    "O-5-EXIT": "bounded_uncertainty",
+    "O-6-ENTRY": "bounded_uncertainty",
+    "O-6-LOWER-ROWS": "bounded_uncertainty",
+    "O-6-EXIT": "bounded_uncertainty"
+  },
+  "observation_overrides": {
+    "O-4-ROW23": {
+      "approximate_native_bounds": [
+        [
+          1750,
+          129,
+          1876,
+          180
+        ],
+        [
+          298,
+          173,
+          414,
+          219
+        ]
+      ]
+    },
+    "O-4-U80": {
+      "approximate_native_bounds": [
+        [
+          1730,
+          172,
+          1877,
+          221
+        ],
+        [
+          360,
+          211,
+          562,
+          263
+        ]
+      ]
+    },
+    "O-4-U92-93": {
+      "approximate_native_bounds": [
+        [
+          1310,
+          251,
+          1534,
+          306
+        ],
+        [
+          1665,
+          253,
+          1795,
+          309
+        ]
+      ]
+    },
+    "O-5-U126": {
+      "approximate_native_bounds": [
+        [
+          1720,
+          258,
+          1928,
+          316
+        ],
+        [
+          292,
+          309,
+          430,
+          366
+        ]
+      ]
+    },
+    "O-6-LOWER-ROWS": {
+      "approximate_native_bounds": [
+        [
+          1645,
+          170,
+          1717,
+          232
+        ],
+        [
+          1730,
+          209,
+          1865,
+          274
+        ],
+        [
+          626,
+          244,
+          783,
+          307
+        ],
+        [
+          1700,
+          250,
+          1849,
+          314
+        ]
+      ]
+    }
+  },
+  "separate_unrepresented_lexical_questions": [
+    "Q403",
+    "Q404",
+    "Q407",
+    "Q410",
+    "Q411",
+    "Q412",
+    "Q415",
+    "Q416",
+    "Q501",
+    "Q502",
+    "Q503",
+    "Q504",
+    "Q506",
+    "Q507",
+    "Q508",
+    "Q509",
+    "Q510",
+    "Q511",
+    "Q512",
+    "Q513",
+    "Q514",
+    "Q515",
+    "Q516",
+    "Q517",
+    "Q520",
+    "Q603",
+    "Q604",
+    "Q606",
+    "Q607",
+    "Q609",
+    "Q610",
+    "Q614",
+    "Q615",
+    "Q617",
+    "Q621",
+    "Q623",
+    "Q624"
+  ],
+  "planned_new_records": 47,
+  "base_disposition": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+  "coordinator": {
+    "summary": "Tharpaling PDF4–6 partial collation integrated: eighteen inspected main rows, ten bounded-fragment records and thirty-seven separately indexed lexical questions. All seventy-two raw questions and the unresolved PDF6–7 join remain preserved.",
+    "detail": "This is not a completed continuous lexical ledger. The reproduction retains readable fragments alongside fused, broken or poorly discriminated regions. Positive/negative presentation is recorded as source appearance, not proof of a production history. Fine separator morphology, tshegs and small-note detection remain incomplete. Context-only PDF3/PDF7 observations are not target-page coverage.",
+    "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax.",
+    "next_step": "Inspect the actual PDF7 entry against bounded Q625/Q7E, and continue only from independently established words; its exact incoming anchor is unresolved. Preserve the PDF4–6 lexical, graphic and layer questions and distinguish an unread join from a missing leaf or witness omission. No wholesale repetition of the already recorded fragments is needed.",
+    "observation_dispositions": {
+      "O-3-ENTRY-CONTEXT": "scope_limited_ledger",
+      "O-4-ENTRY": "bounded_fragment",
+      "O-4-ROW23": "bounded_fragment",
+      "O-4-U80": "bounded_fragment",
+      "O-4-U92-93": "bounded_fragment",
+      "O-4-EXIT": "bounded_fragment",
+      "O-5-ENTRY": "scope_limited_ledger",
+      "O-5-U126": "bounded_fragment",
+      "O-5-EXIT": "bounded_fragment",
+      "O-6-ENTRY": "bounded_fragment",
+      "O-6-LOWER-ROWS": "bounded_fragment",
+      "O-6-EXIT": "bounded_fragment",
+      "O-7-CONTEXT": "unresolved_context_not_target_coverage",
+      "O-4-GRAPHICS": "scope_limited_ledger",
+      "O-5-GRAPHICS": "scope_limited_ledger",
+      "O-6-GRAPHICS": "scope_limited_ledger"
+    },
+    "disposition_legend": {
+      "bounded_fragment": "Integrate only the quoted fragment and its explicit Q-coded interval, not a complete reading or a confirmed variant. Matching flanks do not resolve internal letters.",
+      "scope_limited_ledger": "Retain the stated layout, graphic limitation or local continuity observation in the report. No new apparatus variant or enlarged coverage is inferred.",
+      "unresolved_context_not_target_coverage": "Keep the failed outgoing-context reading as a source-specific limitation. It establishes neither a secure next anchor nor collation of PDF7."
+    }
+  },
+  "next_task_id": "C1-GADKAR"
+}

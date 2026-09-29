@@ -265,11 +265,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00061"></a>
 
-**U00061** འགྲོ་དང་འགྲེང་དང་ཉལ་བ་དང་། །
+**U00061** འགྲོ་དང་འགྲེང་དང་ཉལ་བ་དང་། ། [TH-COV1-B01-O-4-ENTRY](#th-cov1-b01-o-4-entry)
 
 <a id="u00062"></a>
 
-**U00062** བསྐྱོད་ཅིང་རྒྱུག་པའི་རྣམ་པ་རྣམས། ། [TK-CONT-20260928-TK-B01-004](#tk-cont-20260928-tk-b01-004) [TK-CONT-20260928-TK-B01-005](#tk-cont-20260928-tk-b01-005)
+**U00062** བསྐྱོད་ཅིང་རྒྱུག་པའི་རྣམ་པ་རྣམས། ། [TK-CONT-20260928-TK-B01-004](#tk-cont-20260928-tk-b01-004) [TK-CONT-20260928-TK-B01-005](#tk-cont-20260928-tk-b01-005) [TH-COV1-B01-O-4-ENTRY](#th-cov1-b01-o-4-entry)
 
 <a id="u00063"></a>
 
@@ -289,11 +289,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00067"></a>
 
-**U00067** མཛེས་ཞིང་ལྡེམ་བག་ལྡན་པ་ལ། ། [W-C01-006](reviews/chapter-01/wikisource.md#w-c01-006)
+**U00067** མཛེས་ཞིང་ལྡེམ་བག་ལྡན་པ་ལ། ། [TH-COV1-B01-Q403](#th-cov1-b01-q403) [W-C01-006](reviews/chapter-01/wikisource.md#w-c01-006)
 
 <a id="u00068"></a>
 
-**U00068** བག་ཡངས་རྣམ་ཤེས་གུད་མེད་པར། །
+**U00068** བག་ཡངས་རྣམ་ཤེས་གུད་མེད་པར། ། [TH-COV1-B01-Q404](#th-cov1-b01-q404)
 
 <a id="u00069"></a>
 
@@ -313,11 +313,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00073"></a>
 
-**U00073** ཁྱད་པར་སྙིང་པོའི་པདྨ་ལས། ། [W-C01-007](reviews/chapter-01/wikisource.md#w-c01-007)
+**U00073** ཁྱད་པར་སྙིང་པོའི་པདྨ་ལས། ། [TH-COV1-B01-O-4-ROW23](#th-cov1-b01-o-4-row23) [W-C01-007](reviews/chapter-01/wikisource.md#w-c01-007)
 
 <a id="u00074"></a>
 
-**U00074** སྟོང་དང་རྩ་གཅིག་གཟུགས་རྣམས་ནི། །
+**U00074** སྟོང་དང་རྩ་གཅིག་གཟུགས་རྣམས་ནི། ། [TH-COV1-B01-O-4-ROW23](#th-cov1-b01-o-4-row23)
 
 <a id="u00075"></a>
 
@@ -325,7 +325,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00076"></a>
 
-**U00076** སངས་རྒྱས་རྣམས་ཀྱི་གཟུགས་སྐུའོ། །
+**U00076** སངས་རྒྱས་རྣམས་ཀྱི་གཟུགས་སྐུའོ། ། [TH-COV1-B01-Q407](#th-cov1-b01-q407)
 
 <a id="u00077"></a>
 
@@ -341,11 +341,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00080"></a>
 
-**U00080** དབང་ཕྱུག་རྫོགས་པའི་ལུས་བླངས་ནས། ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-PHYS-P006-007-UNCERTAINTIES](#scan-ch1-phys-p006-007-uncertainties)
+**U00080** དབང་ཕྱུག་རྫོགས་པའི་ལུས་བླངས་ནས། ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-PHYS-P006-007-UNCERTAINTIES](#scan-ch1-phys-p006-007-uncertainties) [TH-COV1-B01-O-4-U80](#th-cov1-b01-o-4-u80)
 
 <a id="u00081"></a>
 
-**U00081** སྟོན་པའི་གསུང་གི་འོད་ཟེར་ཁྱིམ། །
+**U00081** སྟོན་པའི་གསུང་གི་འོད་ཟེར་ཁྱིམ། ། [TH-COV1-B01-O-4-U80](#th-cov1-b01-o-4-u80)
 
 <a id="u00082"></a>
 
@@ -357,7 +357,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00084"></a>
 
-**U00084** དྲུག་ཅུ་རྩ་བཞིའི་འོད་སྐར་ནི། །
+**U00084** དྲུག་ཅུ་རྩ་བཞིའི་འོད་སྐར་ནི། ། [TH-COV1-B01-Q410](#th-cov1-b01-q410)
 
 <a id="u00085"></a>
 
@@ -369,7 +369,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00087"></a>
 
-**U00087** ཁྱད་པར་ཡང་ཞུན་བཅུ་བདུན་ནི། །
+**U00087** ཁྱད་པར་ཡང་ཞུན་བཅུ་བདུན་ནི། ། [TH-COV1-B01-Q411](#th-cov1-b01-q411)
 
 <a id="u00088"></a>
 
@@ -377,7 +377,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00089"></a>
 
-**U00089** སྐུ་གསུང་ཐུགས་ཀྱི་བསྟན་པ་དངོས། ། [TK-CONT-20260928-TK-B01-013](#tk-cont-20260928-tk-b01-013) [TK-CONT-20260928-TK-B01-015](#tk-cont-20260928-tk-b01-015)
+**U00089** སྐུ་གསུང་ཐུགས་ཀྱི་བསྟན་པ་དངོས། ། [TK-CONT-20260928-TK-B01-013](#tk-cont-20260928-tk-b01-013) [TK-CONT-20260928-TK-B01-015](#tk-cont-20260928-tk-b01-015) [TH-COV1-B01-Q412](#th-cov1-b01-q412)
 
 <a id="u00090"></a>
 
@@ -389,15 +389,15 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00092"></a>
 
-**U00092** ཡེ་ཐོག་ནས་ནི་རང་སྣང་བར། ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-PHYS-P006-007-UNCERTAINTIES](#scan-ch1-phys-p006-007-uncertainties) [TK-CONT-20260928-TK-B01-016](#tk-cont-20260928-tk-b01-016)
+**U00092** ཡེ་ཐོག་ནས་ནི་རང་སྣང་བར། ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-PHYS-P006-007-UNCERTAINTIES](#scan-ch1-phys-p006-007-uncertainties) [TK-CONT-20260928-TK-B01-016](#tk-cont-20260928-tk-b01-016) [TH-COV1-B01-O-4-U92-93](#th-cov1-b01-o-4-u92-93)
 
 <a id="u00093"></a>
 
-**U00093** སོ་སོའི་ལས་དང་སྐལ་མཐུན་པར། ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-PHYS-P006-007-UNCERTAINTIES](#scan-ch1-phys-p006-007-uncertainties)
+**U00093** སོ་སོའི་ལས་དང་སྐལ་མཐུན་པར། ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-PHYS-P006-007-UNCERTAINTIES](#scan-ch1-phys-p006-007-uncertainties) [TH-COV1-B01-O-4-U92-93](#th-cov1-b01-o-4-u92-93)
 
 <a id="u00094"></a>
 
-**U00094** གསེར་གྱི་སྙིང་པོ་ཉིད་ལ་སྣང་། །
+**U00094** གསེར་གྱི་སྙིང་པོ་ཉིད་ལ་སྣང་། ། [TH-COV1-B01-Q415](#th-cov1-b01-q415)
 
 <a id="u00095"></a>
 
@@ -409,7 +409,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00097"></a>
 
-**U00097** དངོས་གྲུབ་མཆོག་རྣམས་མཐར་ཐུག་པའི། ། [TK-CONT-20260928-TK-B01-017](#tk-cont-20260928-tk-b01-017)
+**U00097** དངོས་གྲུབ་མཆོག་རྣམས་མཐར་ཐུག་པའི། ། [TK-CONT-20260928-TK-B01-017](#tk-cont-20260928-tk-b01-017) [TH-COV1-B01-Q416](#th-cov1-b01-q416)
 
 <a id="u00098"></a>
 
@@ -417,11 +417,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00099"></a>
 
-**U00099** གང་སུ་འཕྲད་པ་གྲོལ་བར་ངེས། ། [TK-CONT-20260928-TK-B01-019](#tk-cont-20260928-tk-b01-019) [TK-CONT-20260928-TK-B01-020](#tk-cont-20260928-tk-b01-020)
+**U00099** གང་སུ་འཕྲད་པ་གྲོལ་བར་ངེས། ། [TK-CONT-20260928-TK-B01-019](#tk-cont-20260928-tk-b01-019) [TK-CONT-20260928-TK-B01-020](#tk-cont-20260928-tk-b01-020) [TH-COV1-B01-O-4-EXIT](#th-cov1-b01-o-4-exit)
 
 <a id="u00100"></a>
 
-**U00100** དེས་ན་རྫོགས་ཆེན་བྱ་རྩོལ་བྲལ། །
+**U00100** དེས་ན་རྫོགས་ཆེན་བྱ་རྩོལ་བྲལ། ། [TH-COV1-B01-O-4-EXIT](#th-cov1-b01-o-4-exit)
 
 <a id="u00101"></a>
 
@@ -429,19 +429,19 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00102"></a>
 
-**U00102** སངས་རྒྱས་བརྗོད་དུ་མེད་པ་ཡིས། ། [DG-CONT2-B01-Q01](#dg-cont2-b01-q01)
+**U00102** སངས་རྒྱས་བརྗོད་དུ་མེད་པ་ཡིས། ། [DG-CONT2-B01-Q01](#dg-cont2-b01-q01) [TH-COV1-B01-Q501](#th-cov1-b01-q501)
 
 <a id="u00103"></a>
 
-**U00103** ཡེ་ཐོག་ནས་ནི་ཕྱག་མཛད་པའི། །
+**U00103** ཡེ་ཐོག་ནས་ནི་ཕྱག་མཛད་པའི། ། [TH-COV1-B01-Q502](#th-cov1-b01-q502)
 
 <a id="u00104"></a>
 
-**U00104** ཆོས་ཀྱི་སྐུ་ལ་ངེས་བརྒྱུད་དེ། ། [TK-CONT-20260928-TK-B01-021](#tk-cont-20260928-tk-b01-021)
+**U00104** ཆོས་ཀྱི་སྐུ་ལ་ངེས་བརྒྱུད་དེ། ། [TK-CONT-20260928-TK-B01-021](#tk-cont-20260928-tk-b01-021) [TH-COV1-B01-Q503](#th-cov1-b01-q503)
 
 <a id="u00105"></a>
 
-**U00105** ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ། ། [SIGNS-VERIFIED-20260927-U00105](#signs-verified-20260927-u00105) [TK-CONT-20260928-TK-B01-022](#tk-cont-20260928-tk-b01-022)
+**U00105** ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ། ། [SIGNS-VERIFIED-20260927-U00105](#signs-verified-20260927-u00105) [TK-CONT-20260928-TK-B01-022](#tk-cont-20260928-tk-b01-022) [TH-COV1-B01-Q504](#th-cov1-b01-q504)
 
 <a id="u00106"></a>
 
@@ -453,7 +453,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00108"></a>
 
-**U00108** གཟུགས་བརྙན་ཆོ་འཕྲུལ་འདི་ལྟ་བུ། ། [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TK-CONT2-B02-Q02](#tk-cont2-b02-q02)
+**U00108** གཟུགས་བརྙན་ཆོ་འཕྲུལ་འདི་ལྟ་བུ། ། [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TK-CONT2-B02-Q02](#tk-cont2-b02-q02) [TH-COV1-B01-Q506](#th-cov1-b01-q506)
 
 <a id="u00109"></a>
 
@@ -461,19 +461,19 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00110"></a>
 
-**U00110** ནམ་མཁའ་མི་འབྱེད་བར་སྣང་ལས། ། [TK-CONT2-B02-O03](#tk-cont2-b02-o03) [TK-CONT2-B02-O11](#tk-cont2-b02-o11)
+**U00110** ནམ་མཁའ་མི་འབྱེད་བར་སྣང་ལས། ། [TK-CONT2-B02-O03](#tk-cont2-b02-o03) [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TH-COV1-B01-Q507](#th-cov1-b01-q507)
 
 <a id="u00111"></a>
 
-**U00111** ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང༌། ། [TK-CONT2-B02-O04](#tk-cont2-b02-o04) [TK-CONT2-B02-O11](#tk-cont2-b02-o11)
+**U00111** ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང༌། ། [TK-CONT2-B02-O04](#tk-cont2-b02-o04) [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TH-COV1-B01-Q508](#th-cov1-b01-q508)
 
 <a id="u00112"></a>
 
-**U00112** དགུ་གཉིས་བཞི་ཡི་ཡང་སྟེང་ནས། ། [TK-CONT2-B02-O05](#tk-cont2-b02-o05) [TK-CONT2-B02-O11](#tk-cont2-b02-o11)
+**U00112** དགུ་གཉིས་བཞི་ཡི་ཡང་སྟེང་ནས། ། [TK-CONT2-B02-O05](#tk-cont2-b02-o05) [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TH-COV1-B01-Q509](#th-cov1-b01-q509)
 
 <a id="u00113"></a>
 
-**U00113** ཚངས་པ་ཆེན་པོའི་དབྱངས་སུ་བསྒྲགས། ། [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TK-CONT2-B02-Q03](#tk-cont2-b02-q03)
+**U00113** ཚངས་པ་ཆེན་པོའི་དབྱངས་སུ་བསྒྲགས། ། [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TK-CONT2-B02-Q03](#tk-cont2-b02-q03) [TH-COV1-B01-Q510](#th-cov1-b01-q510)
 
 <a id="u00114"></a>
 
@@ -481,11 +481,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00115"></a>
 
-**U00115** ཁྱབ་འཇུག་ཆེན་པོའི་གསུང་གིས་ནི། ། [TK-CONT2-B02-O06](#tk-cont2-b02-o06) [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [DG-CONT2-B01-Q05](#dg-cont2-b01-q05)
+**U00115** ཁྱབ་འཇུག་ཆེན་པོའི་གསུང་གིས་ནི། ། [TK-CONT2-B02-O06](#tk-cont2-b02-o06) [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [DG-CONT2-B01-Q05](#dg-cont2-b01-q05) [TH-COV1-B01-Q511](#th-cov1-b01-q511)
 
 <a id="u00116"></a>
 
-**U00116** བྱིན་གྱིས་རླབས་ཀྱིས་རང་སྒྲར་སྟོན། ། [TK-CONT2-B02-O07](#tk-cont2-b02-o07) [TK-CONT2-B02-O11](#tk-cont2-b02-o11)
+**U00116** བྱིན་གྱིས་རླབས་ཀྱིས་རང་སྒྲར་སྟོན། ། [TK-CONT2-B02-O07](#tk-cont2-b02-o07) [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TH-COV1-B01-Q512](#th-cov1-b01-q512)
 
 <a id="u00117"></a>
 
@@ -493,11 +493,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00118"></a>
 
-**U00118** ཀ་ལ་པིང་ཀའི་སྒྲ་དབྱངས་ལས། ། [TK-CONT2-B02-O11](#tk-cont2-b02-o11)
+**U00118** ཀ་ལ་པིང་ཀའི་སྒྲ་དབྱངས་ལས། ། [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TH-COV1-B01-Q513](#th-cov1-b01-q513)
 
 <a id="u00119"></a>
 
-**U00119** བསྟན་པ་ཀུན་གྱི་བཅུད་བསྡུས་པའི། ། [TK-CONT2-B02-O04](#tk-cont2-b02-o04) [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TK-CONT2-B02-Q04](#tk-cont2-b02-q04)
+**U00119** བསྟན་པ་ཀུན་གྱི་བཅུད་བསྡུས་པའི། ། [TK-CONT2-B02-O04](#tk-cont2-b02-o04) [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TK-CONT2-B02-Q04](#tk-cont2-b02-q04) [TH-COV1-B01-Q514](#th-cov1-b01-q514)
 
 <a id="u00120"></a>
 
@@ -505,7 +505,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00121"></a>
 
-**U00121** ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང་། ། [TK-CONT2-B02-O04](#tk-cont2-b02-o04) [TK-CONT2-B02-O11](#tk-cont2-b02-o11)
+**U00121** ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང་། ། [TK-CONT2-B02-O04](#tk-cont2-b02-o04) [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TH-COV1-B01-Q515](#th-cov1-b01-q515) [TH-COV1-B01-Q516](#th-cov1-b01-q516)
 
 <a id="u00122"></a>
 
@@ -521,15 +521,15 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00125"></a>
 
-**U00125** བྱེད་རྒྱུ་ཚ་དང་གྲང་བ་ལས། ། [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TK-CONT2-B02-Q06](#tk-cont2-b02-q06)
+**U00125** བྱེད་རྒྱུ་ཚ་དང་གྲང་བ་ལས། ། [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TK-CONT2-B02-Q06](#tk-cont2-b02-q06) [TH-COV1-B01-Q517](#th-cov1-b01-q517)
 
 <a id="u00126"></a>
 
-**U00126** སོ་སོའི་སྒྲ་དབྱངས་སྟོང་ཕྲག་བརྒྱད། ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-PHYS-P006-007-UNCERTAINTIES](#scan-ch1-phys-p006-007-uncertainties) [TK-CONT2-B02-O11](#tk-cont2-b02-o11)
+**U00126** སོ་སོའི་སྒྲ་དབྱངས་སྟོང་ཕྲག་བརྒྱད། ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-PHYS-P006-007-UNCERTAINTIES](#scan-ch1-phys-p006-007-uncertainties) [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TH-COV1-B01-O-5-U126](#th-cov1-b01-o-5-u126)
 
 <a id="u00127"></a>
 
-**U00127** སྟོན་པས་བྱིན་གྱིས་བརླབས་པར་སྣང་། ། [TK-CONT2-B02-O10](#tk-cont2-b02-o10) [DG-CONT2-B01-Q07](#dg-cont2-b01-q07)
+**U00127** སྟོན་པས་བྱིན་གྱིས་བརླབས་པར་སྣང་། ། [TK-CONT2-B02-O10](#tk-cont2-b02-o10) [DG-CONT2-B01-Q07](#dg-cont2-b01-q07) [TH-COV1-B01-O-5-U126](#th-cov1-b01-o-5-u126) [TH-COV1-B01-Q520](#th-cov1-b01-q520)
 
 <a id="u00128"></a>
 
@@ -541,23 +541,23 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00130"></a>
 
-**U00130** ཡན་ལག་དྲུག་ཅུར་སྟོན་པས་ཀྱང༌། ། [TK-CONT2-B03-O04](#tk-cont2-b03-o04)
+**U00130** ཡན་ལག་དྲུག་ཅུར་སྟོན་པས་ཀྱང༌། ། [TK-CONT2-B03-O04](#tk-cont2-b03-o04) [TH-COV1-B01-O-5-EXIT](#th-cov1-b01-o-5-exit)
 
 <a id="u00131"></a>
 
-**U00131** རང་སྣང་འདུས་པའི་འཁོར་ལ་གསུངས། ། [DG-CONT2-B01-Q09](#dg-cont2-b01-q09)
+**U00131** རང་སྣང་འདུས་པའི་འཁོར་ལ་གསུངས། ། [DG-CONT2-B01-Q09](#dg-cont2-b01-q09) [TH-COV1-B01-O-5-EXIT](#th-cov1-b01-o-5-exit)
 
 <a id="u00132"></a>
 
-**U00132** དེ་ཡང་དགོངས་པ་ཅི་ཞེ་ན། ། [TK-CONT2-B03-O05](#tk-cont2-b03-o05)
+**U00132** དེ་ཡང་དགོངས་པ་ཅི་ཞེ་ན། ། [TK-CONT2-B03-O05](#tk-cont2-b03-o05) [TH-COV1-B01-O-6-ENTRY](#th-cov1-b01-o-6-entry)
 
 <a id="u00133"></a>
 
-**U00133** གསུང་ཚུལ་དགོངས་པ་གསུམ་དང་བཅས། །
+**U00133** གསུང་ཚུལ་དགོངས་པ་གསུམ་དང་བཅས། ། [TH-COV1-B01-O-6-ENTRY](#th-cov1-b01-o-6-entry) [TH-COV1-B01-Q603](#th-cov1-b01-q603)
 
 <a id="u00134"></a>
 
-**U00134** གཉེན་པོ་བསྡུས་དང་དབང་པོའི་དོན། ། [L1-0011](#l1-0011) [DG-CONT2-B01-Q10](#dg-cont2-b01-q10)
+**U00134** གཉེན་པོ་བསྡུས་དང་དབང་པོའི་དོན། ། [L1-0011](#l1-0011) [DG-CONT2-B01-Q10](#dg-cont2-b01-q10) [TH-COV1-B01-O-6-ENTRY](#th-cov1-b01-o-6-entry)
 
 <a id="u00135"></a>
 
@@ -565,7 +565,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00136"></a>
 
-**U00136** དེ་མ་ཡིན་པའི་བརྗོད་བྱའི་ཚིག ། [TK-CONT2-B03-O06](#tk-cont2-b03-o06)
+**U00136** དེ་མ་ཡིན་པའི་བརྗོད་བྱའི་ཚིག ། [TK-CONT2-B03-O06](#tk-cont2-b03-o06) [TH-COV1-B01-Q604](#th-cov1-b01-q604)
 
 <a id="u00137"></a>
 
@@ -573,7 +573,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00138"></a>
 
-**U00138** སྒྲ་ཚིག་མིང་ལ་ངེས་བསྡུས་པས། ། [TK-CONT2-B03-O07](#tk-cont2-b03-o07) [DG-CONT2-B01-Q12](#dg-cont2-b01-q12) [W-C01-010](reviews/chapter-01/wikisource.md#w-c01-010)
+**U00138** སྒྲ་ཚིག་མིང་ལ་ངེས་བསྡུས་པས། ། [TK-CONT2-B03-O07](#tk-cont2-b03-o07) [DG-CONT2-B01-Q12](#dg-cont2-b01-q12) [TH-COV1-B01-Q606](#th-cov1-b01-q606) [W-C01-010](reviews/chapter-01/wikisource.md#w-c01-010)
 
 <a id="u00139"></a>
 
@@ -589,7 +589,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00142"></a>
 
-**U00142** བརྗོད་ཚིག་བཞི་འམ་ལྔར་བསྡུས་སོ། ། [TK-CONT2-B03-O10](#tk-cont2-b03-o10) [TK-CONT2-B03-O13](#tk-cont2-b03-o13)
+**U00142** བརྗོད་ཚིག་བཞི་འམ་ལྔར་བསྡུས་སོ། ། [TK-CONT2-B03-O10](#tk-cont2-b03-o10) [TK-CONT2-B03-O13](#tk-cont2-b03-o13) [TH-COV1-B01-Q607](#th-cov1-b01-q607)
 
 <a id="u00143"></a>
 
@@ -597,11 +597,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00144"></a>
 
-**U00144** ཚངས་པའི་དབྱངས་ལ་སྟོང་དང་ལྔ། ། [TK-CONT2-B03-O13](#tk-cont2-b03-o13)
+**U00144** ཚངས་པའི་དབྱངས་ལ་སྟོང་དང་ལྔ། ། [TK-CONT2-B03-O13](#tk-cont2-b03-o13) [TH-COV1-B01-Q609](#th-cov1-b01-q609)
 
 <a id="u00145"></a>
 
-**U00145** ངེས་པའི་རྗོད་བྱེད་བརྒྱ་དང་གསུམ། ། [TK-CONT2-B03-O11](#tk-cont2-b03-o11) [TK-CONT2-B03-O13](#tk-cont2-b03-o13) [DG-CONT2-B01-Q14](#dg-cont2-b01-q14) [W-C01-011](reviews/chapter-01/wikisource.md#w-c01-011)
+**U00145** ངེས་པའི་རྗོད་བྱེད་བརྒྱ་དང་གསུམ། ། [TK-CONT2-B03-O11](#tk-cont2-b03-o11) [TK-CONT2-B03-O13](#tk-cont2-b03-o13) [DG-CONT2-B01-Q14](#dg-cont2-b01-q14) [TH-COV1-B01-Q610](#th-cov1-b01-q610) [W-C01-011](reviews/chapter-01/wikisource.md#w-c01-011)
 
 <a id="u00146"></a>
 
@@ -613,7 +613,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00148"></a>
 
-**U00148** རྟོགས་སངས་ཡན་ལག་དྲུག་ཅུ་གཉིས། ། [TS-CONT-20260928-U00148](#ts-cont-20260928-u00148) [TK-CONT2-B03-O13](#tk-cont2-b03-o13) [DG-CONT2-B01-Q15](#dg-cont2-b01-q15)
+**U00148** རྟོགས་སངས་ཡན་ལག་དྲུག་ཅུ་གཉིས། ། [TS-CONT-20260928-U00148](#ts-cont-20260928-u00148) [TK-CONT2-B03-O13](#tk-cont2-b03-o13) [DG-CONT2-B01-Q15](#dg-cont2-b01-q15) [TH-COV1-B01-O-6-LOWER-ROWS](#th-cov1-b01-o-6-lower-rows)
 
 <a id="u00149"></a>
 
@@ -625,7 +625,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00151"></a>
 
-**U00151** སྒྲ་དང་ཚིག་གི་གཞི་མའོ། །
+**U00151** སྒྲ་དང་ཚིག་གི་གཞི་མའོ། ། [TH-COV1-B01-Q614](#th-cov1-b01-q614)
 
 <a id="u00152"></a>
 
@@ -633,19 +633,19 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00153"></a>
 
-**U00153** སོ་སོའི་ལས་ཀྱི་འཕྲུལ་གྱིས་ཀྱང༌། ། [TK-CONT2-B03-O15](#tk-cont2-b03-o15)
+**U00153** སོ་སོའི་ལས་ཀྱི་འཕྲུལ་གྱིས་ཀྱང༌། ། [TK-CONT2-B03-O15](#tk-cont2-b03-o15) [TH-COV1-B01-Q615](#th-cov1-b01-q615)
 
 <a id="u00154"></a>
 
-**U00154** བསླབ་བྱའི་རྩ་བ་བཅུ་བཞི་གཉིས། །
+**U00154** བསླབ་བྱའི་རྩ་བ་བཅུ་བཞི་གཉིས། ། [TH-COV1-B01-O-6-LOWER-ROWS](#th-cov1-b01-o-6-lower-rows)
 
 <a id="u00155"></a>
 
-**U00155** རི་མོ་རྣམས་ལ་མཁས་པ་ཡིས། །
+**U00155** རི་མོ་རྣམས་ལ་མཁས་པ་ཡིས། ། [TH-COV1-B01-Q617](#th-cov1-b01-q617)
 
 <a id="u00156"></a>
 
-**U00156** སྤྲུལ་པ་ལ་སོགས་འབྱིན་པ་དང༌། །
+**U00156** སྤྲུལ་པ་ལ་སོགས་འབྱིན་པ་དང༌། ། [TH-COV1-B01-O-6-LOWER-ROWS](#th-cov1-b01-o-6-lower-rows)
 
 <a id="u00157"></a>
 
@@ -661,35 +661,35 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00160"></a>
 
-**U00160** རྩ་བའི་སྒྲ་ཚིག་ཐལ་འགྱུར་ལས། ། [TK-CONT2-B03-O18](#tk-cont2-b03-o18)
+**U00160** རྩ་བའི་སྒྲ་ཚིག་ཐལ་འགྱུར་ལས། ། [TK-CONT2-B03-O18](#tk-cont2-b03-o18) [TH-COV1-B01-O-6-LOWER-ROWS](#th-cov1-b01-o-6-lower-rows)
 
 <a id="u00161"></a>
 
-**U00161** ཐམས་ཅད་ངེས་འབྱུང་བསྟན་པར་འཕྲོས། ། [TS-CH1-V008](#ts-ch1-v008)
+**U00161** ཐམས་ཅད་ངེས་འབྱུང་བསྟན་པར་འཕྲོས། ། [TS-CH1-V008](#ts-ch1-v008) [TH-COV1-B01-Q621](#th-cov1-b01-q621)
 
 <a id="u00162"></a>
 
-**U00162** བསྟན་པ་དམ་པའི་འདུ་མཆེད་གྲུབ། ། [TK-CONT2-B03-O19](#tk-cont2-b03-o19)
+**U00162** བསྟན་པ་དམ་པའི་འདུ་མཆེད་གྲུབ། ། [TK-CONT2-B03-O19](#tk-cont2-b03-o19) [TH-COV1-B01-Q623](#th-cov1-b01-q623)
 
 <a id="u00163"></a>
 
-**U00163** གསུངས་པས་འཁོར་བ་ནུབ་པར་བྱེད། །
+**U00163** གསུངས་པས་འཁོར་བ་ནུབ་པར་བྱེད། ། [TH-COV1-B01-Q624](#th-cov1-b01-q624)
 
 <a id="u00164"></a>
 
-**U00164** འདི་ལ་ཡོན་ཏན་བསམ་འདས་སོ། ། [L1-0012](#l1-0012)
+**U00164** འདི་ལ་ཡོན་ཏན་བསམ་འདས་སོ། ། [L1-0012](#l1-0012) [TH-COV1-B01-O-6-EXIT](#th-cov1-b01-o-6-exit)
 
 <a id="u00165"></a>
 
-**U00165** སྤྲུལ་པའི་བསྟན་པ་ཐོག་མར་ནི། ། [L1-0012](#l1-0012)
+**U00165** སྤྲུལ་པའི་བསྟན་པ་ཐོག་མར་ནི། ། [L1-0012](#l1-0012) [TH-COV1-B01-O-6-EXIT](#th-cov1-b01-o-6-exit)
 
 <a id="u00166"></a>
 
-**U00166** འདི་འབྱུང་བས་ནི་འཕེལ་བའོ། ། [L1-0012](#l1-0012)
+**U00166** འདི་འབྱུང་བས་ནི་འཕེལ་བའོ། ། [L1-0012](#l1-0012) [TH-COV1-B01-O-6-EXIT](#th-cov1-b01-o-6-exit)
 
 <a id="u00167"></a>
 
-**U00167** ལུས་ཀུན་བརྫུས་པའི་ཐོག་མའི་ཚེ། ། [TK-CONT2-B04-O02](#tk-cont2-b04-o02)
+**U00167** ལུས་ཀུན་བརྫུས་པའི་ཐོག་མའི་ཚེ། ། [TK-CONT2-B04-O02](#tk-cont2-b04-o02) [TH-COV1-B01-O-6-EXIT](#th-cov1-b01-o-6-exit)
 
 <a id="u00168"></a>
 
@@ -24386,6 +24386,946 @@ Units: [U00674](#u00674).
 **Choice and reason:** Retain governing Adzom unchanged. Preserve local Degé readings, source layers and unresolved letters separately; do not reconstruct faint text, expand ordinals or infer global absence.
 
 **Evidence:** [p014-native.jpg](evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p014-native.jpg), [p014-x0000-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p014-x0000-y0000.png), [p014-x1491-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p014-x1491-y0000.png), [C1-DEGE-B08-P0012-0014-reader-reading.txt](reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-DEGE.md).
+
+<a id="th-cov1-b01-o-4-entry"></a>
+
+### TH-COV1-B01-O-4-ENTRY — Tharpaling
+
+Units: [U00061](#u00061), [U00062](#u00062).
+
+**Current Adzom main context:** འགྲོ་དང་འགྲེང་དང་ཉལ་བ་དང་། ། / བསྐྱོད་ཅིང་རྒྱུག་པའི་རྣམ་པ་རྣམས། །
+
+**Comparison reading/snippet:** འགྲོ་དང་[Q401]་དང་ཉལ་བ་དང་ … བསྐྱོད་ཅིང་
+
+**Status:** bounded_uncertainty. **Confidence:** {"reading": "moderate", "alignment": "high", "placement": "high", "punctuation": "moderate"}.
+
+**Locator:** PDF 4; source-member and native bounds in linked packet; bounds: [180, 88, 710, 137].
+
+**Observation:** The readable initial and following words locate entry at U00061; Q401 and Q402 remain unresolved. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0000-y0000.png), [p004-x0198-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0198-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-o-4-row23"></a>
+
+### TH-COV1-B01-O-4-ROW23 — Tharpaling
+
+Units: [U00073](#u00073), [U00074](#u00074).
+
+**Current Adzom main context:** ཁྱད་པར་སྙིང་པོའི་པདྨ་ལས། ། / སྟོང་དང་རྩ་གཅིག་གཟུགས་རྣམས་ནི། །
+
+**Comparison reading/snippet:** ཁྱད་པར་སྙིང་པོའི་[Q405] / དང་རྩ་གཅིག་[Q406]་ནི
+
+**Status:** bounded_uncertainty. **Confidence:** {"reading": "partial", "alignment": "high", "placement": "high", "punctuation": "low"}.
+
+**Locator:** PDF 4; source-member and native bounds in linked packet; bounds: [[1750, 129, 1876, 180], [298, 173, 414, 219]].
+
+**Observation:** The exact right-edge letters and boundary interval are not supplied from the base. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0000-y0000.png), [p004-x0198-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0198-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-o-4-u80"></a>
+
+### TH-COV1-B01-O-4-U80 — Tharpaling
+
+Units: [U00080](#u00080), [U00081](#u00081).
+
+**Current Adzom main context:** དབང་ཕྱུག་རྫོགས་པའི་ལུས་བླངས་ནས། ། / སྟོན་པའི་གསུང་གི་འོད་ཟེར་ཁྱིམ། །
+
+**Comparison reading/snippet:** དབང་ཕྱུག་[Q408] / ནས … སྟོན་པའི་གསུང་གི་[Q409]
+
+**Status:** bounded_uncertainty. **Confidence:** {"reading": "low within Q spans", "alignment": "high", "main_layer": "moderate", "small_layer": "unresolved"}.
+
+**Locator:** PDF 4; source-member and native bounds in linked packet; bounds: [[1730, 172, 1877, 221], [360, 211, 562, 263]].
+
+**Observation:** Neither the fused clause ending nor possible subsidiary strokes are resolved by the readable surrounding words. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0000-y0000.png), [p004-x0198-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0198-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-o-4-u92-93"></a>
+
+### TH-COV1-B01-O-4-U92-93 — Tharpaling
+
+Units: [U00092](#u00092), [U00093](#u00093).
+
+**Current Adzom main context:** ཡེ་ཐོག་ནས་ནི་རང་སྣང་བར། ། / སོ་སོའི་ལས་དང་སྐལ་མཐུན་པར། །
+
+**Comparison reading/snippet:** ཡེ་[Q413] … སོ་སོའི་ལས་དང་[Q414]
+
+**Status:** bounded_uncertainty. **Confidence:** {"reading": "partial", "alignment": "high", "placement": "high", "punctuation": "low"}.
+
+**Locator:** PDF 4; source-member and native bounds in linked packet; bounds: [[1310, 251, 1534, 306], [1665, 253, 1795, 309]].
+
+**Observation:** No agreement or variant is asserted for the unrecovered components. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0000-y0000.png), [p004-x0198-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0198-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-o-4-exit"></a>
+
+### TH-COV1-B01-O-4-EXIT — Tharpaling
+
+Units: [U00099](#u00099), [U00100](#u00100).
+
+**Current Adzom main context:** གང་སུ་འཕྲད་པ་གྲོལ་བར་ངེས། ། / དེས་ན་རྫོགས་ཆེན་བྱ་རྩོལ་བྲལ། །
+
+**Comparison reading/snippet:** གང་སུ་འཕྲད་པ་གྲོལ་བར་ངེས … དེས་ན་རྫོགས་ཆེན་[Q417]
+
+**Status:** bounded_uncertainty. **Confidence:** {"reading": "moderate", "alignment": "high", "placement": "high", "exact_split": "unresolved"}.
+
+**Locator:** PDF 4; source-member and native bounds in linked packet; bounds: [1390, 299, 1880, 355].
+
+**Observation:** The words establish continuity at U00100, while the exact final letters on PDF4 remain Q417. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0000-y0000.png), [p004-x0198-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0198-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-o-5-u126"></a>
+
+### TH-COV1-B01-O-5-U126 — Tharpaling
+
+Units: [U00126](#u00126), [U00127](#u00127).
+
+**Current Adzom main context:** སོ་སོའི་སྒྲ་དབྱངས་སྟོང་ཕྲག་བརྒྱད། ། / སྟོན་པས་བྱིན་གྱིས་བརླབས་པར་སྣང་། །
+
+**Comparison reading/snippet:** སོ་སོའི་[Q518] / [Q519] སྟོན་པས་བྱིན་གྱིས་
+
+**Status:** bounded_uncertainty. **Confidence:** {"reading": "low within Q spans", "alignment": "moderate", "placement": "high", "numerical_wording": "unresolved"}.
+
+**Locator:** PDF 5; source-member and native bounds in linked packet; bounds: [[1720, 258, 1928, 316], [292, 309, 430, 366]].
+
+**Observation:** The base's numerical wording is not substituted for the damaged source. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p005-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png), [p005-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png), [p005-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-o-5-exit"></a>
+
+### TH-COV1-B01-O-5-EXIT — Tharpaling
+
+Units: [U00130](#u00130), [U00131](#u00131).
+
+**Current Adzom main context:** ཡན་ལག་དྲུག་ཅུར་སྟོན་པས་ཀྱང༌། ། / རང་སྣང་འདུས་པའི་འཁོར་ལ་གསུངས། །
+
+**Comparison reading/snippet:** ཡན་ལག་དྲུག་ཅུར་[Q521] … རང་སྣང་འདུས་པའི་[Q522]
+
+**Status:** bounded_uncertainty. **Confidence:** {"reading": "partial", "alignment": "high for quoted fragments", "placement": "high", "exact_join": "unresolved"}.
+
+**Locator:** PDF 5; source-member and native bounds in linked packet; bounds: [1340, 303, 1925, 361].
+
+**Observation:** U00131 is reached on PDF5; the precise split is not reconstructed. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p005-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png), [p005-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png), [p005-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-o-6-entry"></a>
+
+### TH-COV1-B01-O-6-ENTRY — Tharpaling
+
+Units: [U00132](#u00132), [U00133](#u00133), [U00134](#u00134).
+
+**Current Adzom main context:** དེ་ཡང་དགོངས་པ་ཅི་ཞེ་ན། ། / གསུང་ཚུལ་དགོངས་པ་གསུམ་དང་བཅས། ། / གཉེན་པོ་བསྡུས་དང་དབང་པོའི་དོན། །
+
+**Comparison reading/snippet:** [Q601] དེ་ཡང་དགོངས་པ་[Q602] … གཉེན་པོ་བསྡུས་དང་དབང་པོའི་དོན
+
+**Status:** bounded_uncertainty. **Confidence:** {"reading": "partial", "alignment": "moderate", "placement": "high", "exact_entry": "unresolved"}.
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: [332, 77, 1415, 138].
+
+**Observation:** The initial fused material remains Q601; it is not completed from U00131. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png), [p006-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-o-6-lower-rows"></a>
+
+### TH-COV1-B01-O-6-LOWER-ROWS — Tharpaling
+
+Units: [U00148](#u00148), [U00154](#u00154), [U00156](#u00156), [U00160](#u00160).
+
+**Current Adzom main context:** རྟོགས་སངས་ཡན་ལག་དྲུག་ཅུ་གཉིས། ། / བསླབ་བྱའི་རྩ་བ་བཅུ་བཞི་གཉིས། ། / སྤྲུལ་པ་ལ་སོགས་འབྱིན་པ་དང༌། ། / རྩ་བའི་སྒྲ་ཚིག་ཐལ་འགྱུར་ལས། །
+
+**Comparison reading/snippet:** Q611; Q616; Q619; Q620
+
+**Status:** bounded_uncertainty. **Confidence:** {"reading": "low within Q spans", "alignment": "moderate", "placement": "high", "graphic_detail": "low"}.
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: [[1645, 170, 1717, 232], [1730, 209, 1865, 274], [626, 244, 783, 307], [1700, 250, 1849, 314]].
+
+**Observation:** The damaged words are not inferred from the surrounding repeated syntax. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png), [p006-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-o-6-exit"></a>
+
+### TH-COV1-B01-O-6-EXIT — Tharpaling
+
+Units: [U00164](#u00164), [U00165](#u00165), [U00166](#u00166), [U00167](#u00167).
+
+**Current Adzom main context:** འདི་ལ་ཡོན་ཏན་བསམ་འདས་སོ། ། / སྤྲུལ་པའི་བསྟན་པ་ཐོག་མར་ནི། ། / འདི་འབྱུང་བས་ནི་འཕེལ་བའོ། ། / ལུས་ཀུན་བརྫུས་པའི་ཐོག་མའི་ཚེ། །
+
+**Comparison reading/snippet:** འདི་ལ་ཡོན་ཏན་བསམ་འདས་སོ … འདི་འབྱུང་བས་ནི་འཕེལ་བའོ … ལུས་ཀུན་[Q625]
+
+**Status:** bounded_uncertainty. **Confidence:** {"reading": "moderate for quoted fragments", "alignment": "moderate", "placement": "high", "exact_exit": "unresolved"}.
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: [980, 284, 2040, 350].
+
+**Observation:** The last securely locatable fragment is the beginning of U00167. Q625 prevents certification of the exact exit. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png), [p006-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q403"></a>
+
+### TH-COV1-B01-Q403 — Tharpaling
+
+Units: [U00067](#u00067).
+
+**Current Adzom main context:** མཛེས་ཞིང་ལྡེམ་བག་ལྡན་པ་ལ། །
+
+**Comparison reading/snippet:** [Q403] Read all remaining letters after མཛེས་ཞིང at the row edge.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 4; source-member and native bounds in linked packet; bounds: [1770, 85, 1875, 132].
+
+**Observation:** Read all remaining letters after མཛེས་ཞིང at the row edge. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0000-y0000.png), [p004-x0198-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0198-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q404"></a>
+
+### TH-COV1-B01-Q404 — Tharpaling
+
+Units: [U00068](#u00068).
+
+**Current Adzom main context:** བག་ཡངས་རྣམ་ཤེས་གུད་མེད་པར། །
+
+**Comparison reading/snippet:** [Q404] Read the component between རྣམ་ཤེས and མེད་པར.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 4; source-member and native bounds in linked packet; bounds: [425, 130, 484, 177].
+
+**Observation:** Read the component between རྣམ་ཤེས and མེད་པར. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0000-y0000.png), [p004-x0198-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0198-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q407"></a>
+
+### TH-COV1-B01-Q407 — Tharpaling
+
+Units: [U00076](#u00076).
+
+**Current Adzom main context:** སངས་རྒྱས་རྣམས་ཀྱི་གཟུགས་སྐུའོ། །
+
+**Comparison reading/snippet:** [Q407] Read the clause ending after རྣམས་ཀྱི and distinguish every following detached sign.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 4; source-member and native bounds in linked packet; bounds: [859, 170, 1005, 220].
+
+**Observation:** Read the clause ending after རྣམས་ཀྱི and distinguish every following detached sign. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0000-y0000.png), [p004-x0198-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0198-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q410"></a>
+
+### TH-COV1-B01-Q410 — Tharpaling
+
+Units: [U00084](#u00084).
+
+**Current Adzom main context:** དྲུག་ཅུ་རྩ་བཞིའི་འོད་སྐར་ནི། །
+
+**Comparison reading/snippet:** [Q410] Read the syllables between རྩ་བཞིའི and ནི.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 4; source-member and native bounds in linked packet; bounds: [1085, 212, 1173, 259].
+
+**Observation:** Read the syllables between རྩ་བཞིའི and ནི. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0000-y0000.png), [p004-x0198-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0198-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q411"></a>
+
+### TH-COV1-B01-Q411 — Tharpaling
+
+Units: [U00087](#u00087).
+
+**Current Adzom main context:** ཁྱད་པར་ཡང་ཞུན་བཅུ་བདུན་ནི། །
+
+**Comparison reading/snippet:** [Q411] Read the row-initial syllable before བཅུ་བདུན; do not supply it from the base.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 4; source-member and native bounds in linked packet; bounds: [184, 252, 258, 299].
+
+**Observation:** Read the row-initial syllable before བཅུ་བདུན; do not supply it from the base. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0000-y0000.png), [p004-x0198-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0198-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q412"></a>
+
+### TH-COV1-B01-Q412 — Tharpaling
+
+Units: [U00089](#u00089).
+
+**Current Adzom main context:** སྐུ་གསུང་ཐུགས་ཀྱི་བསྟན་པ་དངོས། །
+
+**Comparison reading/snippet:** [Q412] Read the remainder after ཐུགས་ཀྱི and inventory the entire following interval.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 4; source-member and native bounds in linked packet; bounds: [682, 251, 861, 302].
+
+**Observation:** Read the remainder after ཐུགས་ཀྱི and inventory the entire following interval. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0000-y0000.png), [p004-x0198-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0198-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q415"></a>
+
+### TH-COV1-B01-Q415 — Tharpaling
+
+Units: [U00094](#u00094).
+
+**Current Adzom main context:** གསེར་གྱི་སྙིང་པོ་ཉིད་ལ་སྣང་། །
+
+**Comparison reading/snippet:** [Q415] Read the components between སྙིང་པོ and སྣང.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 4; source-member and native bounds in linked packet; bounds: [254, 294, 314, 339].
+
+**Observation:** Read the components between སྙིང་པོ and སྣང. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0000-y0000.png), [p004-x0198-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0198-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q416"></a>
+
+### TH-COV1-B01-Q416 — Tharpaling
+
+Units: [U00097](#u00097).
+
+**Current Adzom main context:** དངོས་གྲུབ་མཆོག་རྣམས་མཐར་ཐུག་པའི། །
+
+**Comparison reading/snippet:** [Q416] Read the clause ending after མཆོག་རྣམས and its separator.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 4; source-member and native bounds in linked packet; bounds: [995, 294, 1164, 345].
+
+**Observation:** Read the clause ending after མཆོག་རྣམས and its separator. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-native.png), [p004-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0000-y0000.png), [p004-x0198-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0198-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q501"></a>
+
+### TH-COV1-B01-Q501 — Tharpaling
+
+Units: [U00102](#u00102).
+
+**Current Adzom main context:** སངས་རྒྱས་བརྗོད་དུ་མེད་པ་ཡིས། །
+
+**Comparison reading/snippet:** [Q501] Read the sequence between སངས་རྒྱས and the visible final ཡིས.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 5; source-member and native bounds in linked packet; bounds: [1023, 90, 1210, 149].
+
+**Observation:** Read the sequence between སངས་རྒྱས and the visible final ཡིས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p005-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png), [p005-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png), [p005-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q502"></a>
+
+### TH-COV1-B01-Q502 — Tharpaling
+
+Units: [U00103](#u00103).
+
+**Current Adzom main context:** ཡེ་ཐོག་ནས་ནི་ཕྱག་མཛད་པའི། །
+
+**Comparison reading/snippet:** [Q502] Read the remainder after ནས་ནི and the complete boundary interval.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 5; source-member and native bounds in linked packet; bounds: [1390, 84, 1551, 145].
+
+**Observation:** Read the remainder after ནས་ནི and the complete boundary interval. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p005-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png), [p005-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png), [p005-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q503"></a>
+
+### TH-COV1-B01-Q503 — Tharpaling
+
+Units: [U00104](#u00104).
+
+**Current Adzom main context:** ཆོས་ཀྱི་སྐུ་ལ་ངེས་བརྒྱུད་དེ། །
+
+**Comparison reading/snippet:** [Q503] Read the remainder after སྐུ་ལ and distinguish its separator from following letter limbs.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 5; source-member and native bounds in linked packet; bounds: [1665, 82, 1844, 143].
+
+**Observation:** Read the remainder after སྐུ་ལ and distinguish its separator from following letter limbs. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p005-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png), [p005-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png), [p005-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q504"></a>
+
+### TH-COV1-B01-Q504 — Tharpaling
+
+Units: [U00105](#u00105).
+
+**Current Adzom main context:** ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ། །
+
+**Comparison reading/snippet:** [Q504] Determine whether any letters follow ལས་ཅན before the row edge and read them.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 5; source-member and native bounds in linked packet; bounds: [1890, 84, 1928, 141].
+
+**Observation:** Determine whether any letters follow ལས་ཅན before the row edge and read them. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p005-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png), [p005-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png), [p005-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q506"></a>
+
+### TH-COV1-B01-Q506 — Tharpaling
+
+Units: [U00108](#u00108).
+
+**Current Adzom main context:** གཟུགས་བརྙན་ཆོ་འཕྲུལ་འདི་ལྟ་བུ། །
+
+**Comparison reading/snippet:** [Q506] Read the remainder after གཟུགས་བརྙན and its full boundary interval.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 5; source-member and native bounds in linked packet; bounds: [1080, 139, 1270, 199].
+
+**Observation:** Read the remainder after གཟུགས་བརྙན and its full boundary interval. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p005-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png), [p005-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png), [p005-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q507"></a>
+
+### TH-COV1-B01-Q507 — Tharpaling
+
+Units: [U00110](#u00110).
+
+**Current Adzom main context:** ནམ་མཁའ་མི་འབྱེད་བར་སྣང་ལས། །
+
+**Comparison reading/snippet:** [Q507] Read the remainder after ནམ་མཁའ and the separator before ཚིག་རྣམས.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 5; source-member and native bounds in linked packet; bounds: [1640, 134, 1860, 197].
+
+**Observation:** Read the remainder after ནམ་མཁའ and the separator before ཚིག་རྣམས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p005-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png), [p005-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png), [p005-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q508"></a>
+
+### TH-COV1-B01-Q508 — Tharpaling
+
+Units: [U00111](#u00111).
+
+**Current Adzom main context:** ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང༌། །
+
+**Comparison reading/snippet:** [Q508] Read the exact final component at the row edge after ཚིག་རྣམས.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 5; source-member and native bounds in linked packet; bounds: [1890, 136, 1928, 191].
+
+**Observation:** Read the exact final component at the row edge after ཚིག་རྣམས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p005-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png), [p005-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png), [p005-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q509"></a>
+
+### TH-COV1-B01-Q509 — Tharpaling
+
+Units: [U00112](#u00112).
+
+**Current Adzom main context:** དགུ་གཉིས་བཞི་ཡི་ཡང་སྟེང་ནས། །
+
+**Comparison reading/snippet:** [Q509] Read the remainder after བཞི་ཡི and all signs before ཚངས་པ.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 5; source-member and native bounds in linked packet; bounds: [725, 187, 883, 247].
+
+**Observation:** Read the remainder after བཞི་ཡི and all signs before ཚངས་པ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p005-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png), [p005-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png), [p005-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q510"></a>
+
+### TH-COV1-B01-Q510 — Tharpaling
+
+Units: [U00113](#u00113).
+
+**Current Adzom main context:** ཚངས་པ་ཆེན་པོའི་དབྱངས་སུ་བསྒྲགས། །
+
+**Comparison reading/snippet:** [Q510] Read the remainder after ཆེན་པོའི and its boundary signs.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 5; source-member and native bounds in linked packet; bounds: [1045, 181, 1203, 242].
+
+**Observation:** Read the remainder after ཆེན་པོའི and its boundary signs. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p005-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png), [p005-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png), [p005-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q511"></a>
+
+### TH-COV1-B01-Q511 — Tharpaling
+
+Units: [U00115](#u00115).
+
+**Current Adzom main context:** ཁྱབ་འཇུག་ཆེན་པོའི་གསུང་གིས་ནི། །
+
+**Comparison reading/snippet:** [Q511] Read the entire remainder after ཁྱབ་འཇུག་ཆེན་པོའི up to the row edge.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 5; source-member and native bounds in linked packet; bounds: [1700, 174, 1928, 236].
+
+**Observation:** Read the entire remainder after ཁྱབ་འཇུག་ཆེན་པོའི up to the row edge. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p005-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png), [p005-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png), [p005-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q512"></a>
+
+### TH-COV1-B01-Q512 — Tharpaling
+
+Units: [U00116](#u00116).
+
+**Current Adzom main context:** བྱིན་གྱིས་རླབས་ཀྱིས་རང་སྒྲར་སྟོན། །
+
+**Comparison reading/snippet:** [Q512] Read the remainder after བྱིན་གྱིས, preserving the actual particles, and inventory its separator.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 5; source-member and native bounds in linked packet; bounds: [430, 229, 692, 288].
+
+**Observation:** Read the remainder after བྱིན་གྱིས, preserving the actual particles, and inventory its separator. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p005-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png), [p005-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png), [p005-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q513"></a>
+
+### TH-COV1-B01-Q513 — Tharpaling
+
+Units: [U00118](#u00118).
+
+**Current Adzom main context:** ཀ་ལ་པིང་ཀའི་སྒྲ་དབྱངས་ལས། །
+
+**Comparison reading/snippet:** [Q513] Read the remainder after ཀ་ལ་པིང་ཀའི and all intervening signs.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 5; source-member and native bounds in linked packet; bounds: [1135, 221, 1297, 281].
+
+**Observation:** Read the remainder after ཀ་ལ་པིང་ཀའི and all intervening signs. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p005-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png), [p005-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png), [p005-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q514"></a>
+
+### TH-COV1-B01-Q514 — Tharpaling
+
+Units: [U00119](#u00119).
+
+**Current Adzom main context:** བསྟན་པ་ཀུན་གྱི་བཅུད་བསྡུས་པའི། །
+
+**Comparison reading/snippet:** [Q514] Read the ending after བཅུད and the following boundary interval.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 5; source-member and native bounds in linked packet; bounds: [1480, 220, 1589, 278].
+
+**Observation:** Read the ending after བཅུད and the following boundary interval. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p005-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png), [p005-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png), [p005-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q515"></a>
+
+### TH-COV1-B01-Q515 — Tharpaling
+
+Units: [U00121](#u00121).
+
+**Current Adzom main context:** ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང་། །
+
+**Comparison reading/snippet:** [Q515] Read the row-edge remainder after ཚིག་རྣམས; establish whether any further syllable is on this row.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 5; source-member and native bounds in linked packet; bounds: [1875, 215, 1928, 273].
+
+**Observation:** Read the row-edge remainder after ཚིག་རྣམས; establish whether any further syllable is on this row. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p005-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png), [p005-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png), [p005-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q516"></a>
+
+### TH-COV1-B01-Q516 — Tharpaling
+
+Units: [U00121](#u00121).
+
+**Current Adzom main context:** ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང་། །
+
+**Comparison reading/snippet:** [Q516] Read the sequence after row-initial ཀུན through its separator.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 5; source-member and native bounds in linked packet; bounds: [325, 270, 470, 328].
+
+**Observation:** Read the sequence after row-initial ཀུན through its separator. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p005-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png), [p005-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png), [p005-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q517"></a>
+
+### TH-COV1-B01-Q517 — Tharpaling
+
+Units: [U00125](#u00125).
+
+**Current Adzom main context:** བྱེད་རྒྱུ་ཚ་དང་གྲང་བ་ལས། །
+
+**Comparison reading/snippet:** [Q517] Read the remainder after ཚ་དང and the entire interval before སོ་སོའི.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 5; source-member and native bounds in linked packet; bounds: [1480, 259, 1640, 316].
+
+**Observation:** Read the remainder after ཚ་དང and the entire interval before སོ་སོའི. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p005-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png), [p005-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png), [p005-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q520"></a>
+
+### TH-COV1-B01-Q520 — Tharpaling
+
+Units: [U00127](#u00127).
+
+**Current Adzom main context:** སྟོན་པས་བྱིན་གྱིས་བརླབས་པར་སྣང་། །
+
+**Comparison reading/snippet:** [Q520] Read the remainder after བྱིན་གྱིས and the full separator interval.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 5; source-member and native bounds in linked packet; bounds: [580, 309, 766, 365].
+
+**Observation:** Read the remainder after བྱིན་གྱིས and the full separator interval. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p005-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png), [p005-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png), [p005-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q603"></a>
+
+### TH-COV1-B01-Q603 — Tharpaling
+
+Units: [U00133](#u00133).
+
+**Current Adzom main context:** གསུང་ཚུལ་དགོངས་པ་གསུམ་དང་བཅས། །
+
+**Comparison reading/snippet:** [Q603] Read the remainder after གསུང་ཚུལ་དགོངས་པ and the complete following interval.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: [943, 78, 1093, 141].
+
+**Observation:** Read the remainder after གསུང་ཚུལ་དགོངས་པ and the complete following interval. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png), [p006-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q604"></a>
+
+### TH-COV1-B01-Q604 — Tharpaling
+
+Units: [U00136](#u00136).
+
+**Current Adzom main context:** དེ་མ་ཡིན་པའི་བརྗོད་བྱའི་ཚིག །
+
+**Comparison reading/snippet:** [Q604] Read all material after དེ་མ་ཡིན་པའི to the row edge, including any boundary and following clause beginning.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: [1805, 83, 2040, 145].
+
+**Observation:** Read all material after དེ་མ་ཡིན་པའི to the row edge, including any boundary and following clause beginning. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png), [p006-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q606"></a>
+
+### TH-COV1-B01-Q606 — Tharpaling
+
+Units: [U00138](#u00138).
+
+**Current Adzom main context:** སྒྲ་ཚིག་མིང་ལ་ངེས་བསྡུས་པས། །
+
+**Comparison reading/snippet:** [Q606] Read the remainder after མིང་ལ and its separator.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: [650, 124, 832, 183].
+
+**Observation:** Read the remainder after མིང་ལ and its separator. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png), [p006-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q607"></a>
+
+### TH-COV1-B01-Q607 — Tharpaling
+
+Units: [U00142](#u00142).
+
+**Current Adzom main context:** བརྗོད་ཚིག་བཞི་འམ་ལྔར་བསྡུས་སོ། །
+
+**Comparison reading/snippet:** [Q607] Read all remaining row material after བརྗོད་ཚིག; identify whether another clause starts before the edge.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: [1780, 129, 2040, 191].
+
+**Observation:** Read all remaining row material after བརྗོད་ཚིག; identify whether another clause starts before the edge. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png), [p006-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q609"></a>
+
+### TH-COV1-B01-Q609 — Tharpaling
+
+Units: [U00144](#u00144).
+
+**Current Adzom main context:** ཚངས་པའི་དབྱངས་ལ་སྟོང་དང་ལྔ། །
+
+**Comparison reading/snippet:** [Q609] Read the remainder after དབྱངས་ལ and its separator.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: [714, 166, 837, 226].
+
+**Observation:** Read the remainder after དབྱངས་ལ and its separator. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png), [p006-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q610"></a>
+
+### TH-COV1-B01-Q610 — Tharpaling
+
+Units: [U00145](#u00145).
+
+**Current Adzom main context:** ངེས་པའི་རྗོད་བྱེད་བརྒྱ་དང་གསུམ། །
+
+**Comparison reading/snippet:** [Q610] Read the clause ending after རྗོད་བྱེད and its separator.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: [979, 168, 1095, 228].
+
+**Observation:** Read the clause ending after རྗོད་བྱེད and its separator. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png), [p006-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q614"></a>
+
+### TH-COV1-B01-Q614 — Tharpaling
+
+Units: [U00151](#u00151).
+
+**Current Adzom main context:** སྒྲ་དང་ཚིག་གི་གཞི་མའོ། །
+
+**Comparison reading/snippet:** [Q614] Read the ending after སྒྲ་དང་ཚིག་གི and its separator.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: [906, 207, 1058, 271].
+
+**Observation:** Read the ending after སྒྲ་དང་ཚིག་གི and its separator. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png), [p006-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q615"></a>
+
+### TH-COV1-B01-Q615 — Tharpaling
+
+Units: [U00153](#u00153).
+
+**Current Adzom main context:** སོ་སོའི་ལས་ཀྱི་འཕྲུལ་གྱིས་ཀྱང༌། །
+
+**Comparison reading/snippet:** [Q615] Read the remainder after ལས་ཀྱི and its boundary signs.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: [1455, 207, 1598, 272].
+
+**Observation:** Read the remainder after ལས་ཀྱི and its boundary signs. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png), [p006-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q617"></a>
+
+### TH-COV1-B01-Q617 — Tharpaling
+
+Units: [U00155](#u00155).
+
+**Current Adzom main context:** རི་མོ་རྣམས་ལ་མཁས་པ་ཡིས། །
+
+**Comparison reading/snippet:** [Q617] Read every row-edge component following རི་མོ.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: [1920, 211, 2040, 276].
+
+**Observation:** Read every row-edge component following རི་མོ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png), [p006-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q621"></a>
+
+### TH-COV1-B01-Q621 — Tharpaling
+
+Units: [U00161](#u00161).
+
+**Current Adzom main context:** ཐམས་ཅད་ངེས་འབྱུང་བསྟན་པར་འཕྲོས། །
+
+**Comparison reading/snippet:** [Q621] Read the complete row-edge remainder after ཐམས་ཅད.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: [1920, 251, 2040, 315].
+
+**Observation:** Read the complete row-edge remainder after ཐམས་ཅད. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png), [p006-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q623"></a>
+
+### TH-COV1-B01-Q623 — Tharpaling
+
+Units: [U00162](#u00162).
+
+**Current Adzom main context:** བསྟན་པ་དམ་པའི་འདུ་མཆེད་གྲུབ། །
+
+**Comparison reading/snippet:** [Q623] Read the remainder after དམ་པའི and its separator.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: [616, 283, 758, 347].
+
+**Observation:** Read the remainder after དམ་པའི and its separator. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png), [p006-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="th-cov1-b01-q624"></a>
+
+### TH-COV1-B01-Q624 — Tharpaling
+
+Units: [U00163](#u00163).
+
+**Current Adzom main context:** གསུངས་པས་འཁོར་བ་ནུབ་པར་བྱེད། །
+
+**Comparison reading/snippet:** [Q624] Read the remainder after འཁོར་བ and its full separator interval.
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 6; source-member and native bounds in linked packet; bounds: [891, 285, 1013, 349].
+
+**Observation:** Read the remainder after འཁོར་བ and its full separator interval. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png), [p006-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
 
 ## A/B/S transcript apparatus
 

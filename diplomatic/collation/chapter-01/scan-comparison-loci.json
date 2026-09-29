@@ -32459,5 +32459,2403 @@
       },
       "coordinator_scope": "Viewed each native target overview and both overlapping full-height native columns from the hash-checked published export. Inspected the faint note regions, gray obscuration at U00668 and whole-interval boundary examples. The separate reader’s qualified transcription is retained; no unread component is adopted from the base."
     }
+  },
+  {
+    "id": "TH-COV1-B01-O-4-ENTRY",
+    "witness": "Tharpaling",
+    "units": [
+      "U00061",
+      "U00062"
+    ],
+    "base_snippet_at_review": "U00061–U00062",
+    "comparison_reading": "འགྲོ་དང་[Q401]་དང་ཉལ་བ་དང་ … བསྐྱོད་ཅིང་",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"moderate\", \"alignment\": \"high\", \"placement\": \"high\", \"punctuation\": \"moderate\"}",
+    "locator": "PDF 4; source-member and native bounds in linked packet; bounds: [180, 88, 710, 137]",
+    "rationale": "The readable initial and following words locate entry at U00061; Q401 and Q402 remain unresolved. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0198-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "O-4-ENTRY",
+        "pdf_page": 4,
+        "anchors": [
+          "U00061",
+          "U00062"
+        ],
+        "source_span": "འགྲོ་དང་[Q401]་དང་ཉལ་བ་དང་ … བསྐྱོད་ཅིང་",
+        "base_span": "U00061–U00062",
+        "category": "target entry",
+        "neighboring_context": "PDF3 terminal locator; PDF4 first physical row.",
+        "approximate_native_bounds": [
+          180,
+          88,
+          710,
+          137
+        ],
+        "confidence": {
+          "reading": "moderate",
+          "alignment": "high",
+          "placement": "high",
+          "punctuation": "moderate"
+        },
+        "rationale": "The readable initial and following words locate entry at U00061; Q401 and Q402 remain unresolved."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-O-4-ROW23",
+    "witness": "Tharpaling",
+    "units": [
+      "U00073",
+      "U00074"
+    ],
+    "base_snippet_at_review": "U00073–U00074",
+    "comparison_reading": "ཁྱད་པར་སྙིང་པོའི་[Q405] / དང་རྩ་གཅིག་[Q406]་ནི",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"partial\", \"alignment\": \"high\", \"placement\": \"high\", \"punctuation\": \"low\"}",
+    "locator": "PDF 4; source-member and native bounds in linked packet; bounds: [[1750, 129, 1876, 180], [298, 173, 414, 219]]",
+    "rationale": "The exact right-edge letters and boundary interval are not supplied from the base. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0198-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "O-4-ROW23",
+        "pdf_page": 4,
+        "anchors": [
+          "U00073",
+          "U00074"
+        ],
+        "source_span": "ཁྱད་པར་སྙིང་པོའི་[Q405] / དང་རྩ་གཅིག་[Q406]་ནི",
+        "base_span": "U00073–U00074",
+        "category": "unresolved row join",
+        "neighboring_context": "U00072 precedes; འཇའ་ཚོན follows.",
+        "approximate_native_bounds": [
+          [
+            1750,
+            129,
+            1876,
+            180
+          ],
+          [
+            298,
+            173,
+            414,
+            219
+          ]
+        ],
+        "confidence": {
+          "reading": "partial",
+          "alignment": "high",
+          "placement": "high",
+          "punctuation": "low"
+        },
+        "rationale": "The exact right-edge letters and boundary interval are not supplied from the base."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-O-4-U80",
+    "witness": "Tharpaling",
+    "units": [
+      "U00080",
+      "U00081"
+    ],
+    "base_snippet_at_review": "U00080–U00081",
+    "comparison_reading": "དབང་ཕྱུག་[Q408] / ནས … སྟོན་པའི་གསུང་གི་[Q409]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"low within Q spans\", \"alignment\": \"high\", \"main_layer\": \"moderate\", \"small_layer\": \"unresolved\"}",
+    "locator": "PDF 4; source-member and native bounds in linked packet; bounds: [[1730, 172, 1877, 221], [360, 211, 562, 263]]",
+    "rationale": "Neither the fused clause ending nor possible subsidiary strokes are resolved by the readable surrounding words. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0198-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "O-4-U80",
+        "pdf_page": 4,
+        "anchors": [
+          "U00080",
+          "U00081"
+        ],
+        "source_span": "དབང་ཕྱུག་[Q408] / ནས … སྟོན་པའི་གསུང་གི་[Q409]",
+        "base_span": "U00080–U00081",
+        "category": "unresolved lexical and layer detail",
+        "neighboring_context": "ང་ནི་ལྷ་བུ་དགའ་བྱེད་སྟེ precedes.",
+        "approximate_native_bounds": [
+          [
+            1730,
+            172,
+            1877,
+            221
+          ],
+          [
+            360,
+            211,
+            562,
+            263
+          ]
+        ],
+        "confidence": {
+          "reading": "low within Q spans",
+          "alignment": "high",
+          "main_layer": "moderate",
+          "small_layer": "unresolved"
+        },
+        "rationale": "Neither the fused clause ending nor possible subsidiary strokes are resolved by the readable surrounding words."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-O-4-U92-93",
+    "witness": "Tharpaling",
+    "units": [
+      "U00092",
+      "U00093"
+    ],
+    "base_snippet_at_review": "U00092–U00093",
+    "comparison_reading": "ཡེ་[Q413] … སོ་སོའི་ལས་དང་[Q414]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"partial\", \"alignment\": \"high\", \"placement\": \"high\", \"punctuation\": \"low\"}",
+    "locator": "PDF 4; source-member and native bounds in linked packet; bounds: [[1310, 251, 1534, 306], [1665, 253, 1795, 309]]",
+    "rationale": "No agreement or variant is asserted for the unrecovered components. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0198-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "O-4-U92-93",
+        "pdf_page": 4,
+        "anchors": [
+          "U00092",
+          "U00093"
+        ],
+        "source_span": "ཡེ་[Q413] … སོ་སོའི་ལས་དང་[Q414]",
+        "base_span": "U00092–U00093",
+        "category": "unresolved lexical reading",
+        "neighboring_context": "Between མ་ཡིན་པར and གསེར་གྱི་.",
+        "approximate_native_bounds": [
+          [
+            1310,
+            251,
+            1534,
+            306
+          ],
+          [
+            1665,
+            253,
+            1795,
+            309
+          ]
+        ],
+        "confidence": {
+          "reading": "partial",
+          "alignment": "high",
+          "placement": "high",
+          "punctuation": "low"
+        },
+        "rationale": "No agreement or variant is asserted for the unrecovered components."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-O-4-EXIT",
+    "witness": "Tharpaling",
+    "units": [
+      "U00099",
+      "U00100"
+    ],
+    "base_snippet_at_review": "U00099–U00100",
+    "comparison_reading": "གང་སུ་འཕྲད་པ་གྲོལ་བར་ངེས … དེས་ན་རྫོགས་ཆེན་[Q417]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"moderate\", \"alignment\": \"high\", \"placement\": \"high\", \"exact_split\": \"unresolved\"}",
+    "locator": "PDF 4; source-member and native bounds in linked packet; bounds: [1390, 299, 1880, 355]",
+    "rationale": "The words establish continuity at U00100, while the exact final letters on PDF4 remain Q417. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0198-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "O-4-EXIT",
+        "pdf_page": 4,
+        "anchors": [
+          "U00099",
+          "U00100"
+        ],
+        "source_span": "གང་སུ་འཕྲད་པ་གྲོལ་བར་ངེས … དེས་ན་རྫོགས་ཆེན་[Q417]",
+        "base_span": "U00099–U00100",
+        "category": "page exit",
+        "neighboring_context": "PDF5 begins with བྱ་རྩོལ་བྲལ.",
+        "approximate_native_bounds": [
+          1390,
+          299,
+          1880,
+          355
+        ],
+        "confidence": {
+          "reading": "moderate",
+          "alignment": "high",
+          "placement": "high",
+          "exact_split": "unresolved"
+        },
+        "rationale": "The words establish continuity at U00100, while the exact final letters on PDF4 remain Q417."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-O-5-U126",
+    "witness": "Tharpaling",
+    "units": [
+      "U00126",
+      "U00127"
+    ],
+    "base_snippet_at_review": "U00126–U00127",
+    "comparison_reading": "སོ་སོའི་[Q518] / [Q519] སྟོན་པས་བྱིན་གྱིས་",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"low within Q spans\", \"alignment\": \"moderate\", \"placement\": \"high\", \"numerical_wording\": \"unresolved\"}",
+    "locator": "PDF 5; source-member and native bounds in linked packet; bounds: [[1720, 258, 1928, 316], [292, 309, 430, 366]]",
+    "rationale": "The base's numerical wording is not substituted for the damaged source. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "O-5-U126",
+        "pdf_page": 5,
+        "anchors": [
+          "U00126",
+          "U00127"
+        ],
+        "source_span": "སོ་སོའི་[Q518] / [Q519] སྟོན་པས་བྱིན་གྱིས་",
+        "base_span": "U00126–U00127",
+        "category": "unresolved clause and row join",
+        "neighboring_context": "After the བྱེད་རྒྱུ་ཚ་དང་ clause; before ཁྱད་པར་འབྱེད་རྒྱུའི་.",
+        "approximate_native_bounds": [
+          [
+            1720,
+            258,
+            1928,
+            316
+          ],
+          [
+            292,
+            309,
+            430,
+            366
+          ]
+        ],
+        "confidence": {
+          "reading": "low within Q spans",
+          "alignment": "moderate",
+          "placement": "high",
+          "numerical_wording": "unresolved"
+        },
+        "rationale": "The base's numerical wording is not substituted for the damaged source."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-O-5-EXIT",
+    "witness": "Tharpaling",
+    "units": [
+      "U00130",
+      "U00131"
+    ],
+    "base_snippet_at_review": "U00130–U00131",
+    "comparison_reading": "ཡན་ལག་དྲུག་ཅུར་[Q521] … རང་སྣང་འདུས་པའི་[Q522]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"partial\", \"alignment\": \"high for quoted fragments\", \"placement\": \"high\", \"exact_join\": \"unresolved\"}",
+    "locator": "PDF 5; source-member and native bounds in linked packet; bounds: [1340, 303, 1925, 361]",
+    "rationale": "U00131 is reached on PDF5; the precise split is not reconstructed. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "O-5-EXIT",
+        "pdf_page": 5,
+        "anchors": [
+          "U00130",
+          "U00131"
+        ],
+        "source_span": "ཡན་ལག་དྲུག་ཅུར་[Q521] … རང་སྣང་འདུས་པའི་[Q522]",
+        "base_span": "U00130–U00131",
+        "category": "page exit",
+        "neighboring_context": "PDF6 has an unresolved opening before the recognizable U00132 phrase.",
+        "approximate_native_bounds": [
+          1340,
+          303,
+          1925,
+          361
+        ],
+        "confidence": {
+          "reading": "partial",
+          "alignment": "high for quoted fragments",
+          "placement": "high",
+          "exact_join": "unresolved"
+        },
+        "rationale": "U00131 is reached on PDF5; the precise split is not reconstructed."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-O-6-ENTRY",
+    "witness": "Tharpaling",
+    "units": [
+      "U00132",
+      "U00133",
+      "U00134"
+    ],
+    "base_snippet_at_review": "U00132–U00134; preceding fragment unresolved",
+    "comparison_reading": "[Q601] དེ་ཡང་དགོངས་པ་[Q602] … གཉེན་པོ་བསྡུས་དང་དབང་པོའི་དོན",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"partial\", \"alignment\": \"moderate\", \"placement\": \"high\", \"exact_entry\": \"unresolved\"}",
+    "locator": "PDF 6; source-member and native bounds in linked packet; bounds: [332, 77, 1415, 138]",
+    "rationale": "The initial fused material remains Q601; it is not completed from U00131. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "O-6-ENTRY",
+        "pdf_page": 6,
+        "anchors": [
+          "U00132",
+          "U00133",
+          "U00134"
+        ],
+        "source_span": "[Q601] དེ་ཡང་དགོངས་པ་[Q602] … གཉེན་པོ་བསྡུས་དང་དབང་པོའི་དོན",
+        "base_span": "U00132–U00134; preceding fragment unresolved",
+        "category": "partial incoming correspondence",
+        "neighboring_context": "PDF5 ends in the U00131 region.",
+        "approximate_native_bounds": [
+          332,
+          77,
+          1415,
+          138
+        ],
+        "confidence": {
+          "reading": "partial",
+          "alignment": "moderate",
+          "placement": "high",
+          "exact_entry": "unresolved"
+        },
+        "rationale": "The initial fused material remains Q601; it is not completed from U00131."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-O-6-LOWER-ROWS",
+    "witness": "Tharpaling",
+    "units": [
+      "U00148",
+      "U00154",
+      "U00156",
+      "U00160"
+    ],
+    "base_snippet_at_review": "Corresponding components of U00148, U00154, U00156 and U00160",
+    "comparison_reading": "Q611; Q616; Q619; Q620",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"low within Q spans\", \"alignment\": \"moderate\", \"placement\": \"high\", \"graphic_detail\": \"low\"}",
+    "locator": "PDF 6; source-member and native bounds in linked packet; bounds: [[1645, 170, 1717, 232], [1730, 209, 1865, 274], [626, 244, 783, 307], [1700, 250, 1849, 314]]",
+    "rationale": "The damaged words are not inferred from the surrounding repeated syntax. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "O-6-LOWER-ROWS",
+        "pdf_page": 6,
+        "anchors": [
+          "U00148",
+          "U00154",
+          "U00156",
+          "U00160"
+        ],
+        "source_span": "Q611; Q616; Q619; Q620",
+        "base_span": "Corresponding components of U00148, U00154, U00156 and U00160",
+        "category": "unresolved local components",
+        "neighboring_context": "Later readable clauses are retained independently in rows 3–5.",
+        "approximate_native_bounds": [
+          [
+            1645,
+            170,
+            1717,
+            232
+          ],
+          [
+            1730,
+            209,
+            1865,
+            274
+          ],
+          [
+            626,
+            244,
+            783,
+            307
+          ],
+          [
+            1700,
+            250,
+            1849,
+            314
+          ]
+        ],
+        "confidence": {
+          "reading": "low within Q spans",
+          "alignment": "moderate",
+          "placement": "high",
+          "graphic_detail": "low"
+        },
+        "rationale": "The damaged words are not inferred from the surrounding repeated syntax."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-O-6-EXIT",
+    "witness": "Tharpaling",
+    "units": [
+      "U00164",
+      "U00165",
+      "U00166",
+      "U00167"
+    ],
+    "base_snippet_at_review": "U00164–U00167 beginning",
+    "comparison_reading": "འདི་ལ་ཡོན་ཏན་བསམ་འདས་སོ … འདི་འབྱུང་བས་ནི་འཕེལ་བའོ … ལུས་ཀུན་[Q625]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"moderate for quoted fragments\", \"alignment\": \"moderate\", \"placement\": \"high\", \"exact_exit\": \"unresolved\"}",
+    "locator": "PDF 6; source-member and native bounds in linked packet; bounds: [980, 284, 2040, 350]",
+    "rationale": "The last securely locatable fragment is the beginning of U00167. Q625 prevents certification of the exact exit. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "O-6-EXIT",
+        "pdf_page": 6,
+        "anchors": [
+          "U00164",
+          "U00165",
+          "U00166",
+          "U00167"
+        ],
+        "source_span": "འདི་ལ་ཡོན་ཏན་བསམ་འདས་སོ … འདི་འབྱུང་བས་ནི་འཕེལ་བའོ … ལུས་ཀུན་[Q625]",
+        "base_span": "U00164–U00167 beginning",
+        "category": "partial outgoing correspondence",
+        "neighboring_context": "Final physical row; PDF7 opening examined only for continuation.",
+        "approximate_native_bounds": [
+          980,
+          284,
+          2040,
+          350
+        ],
+        "confidence": {
+          "reading": "moderate for quoted fragments",
+          "alignment": "moderate",
+          "placement": "high",
+          "exact_exit": "unresolved"
+        },
+        "rationale": "The last securely locatable fragment is the beginning of U00167. Q625 prevents certification of the exact exit."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q403",
+    "witness": "Tharpaling",
+    "units": [
+      "U00067"
+    ],
+    "base_snippet_at_review": "མཛེས་ཞིང་ལྡེམ་བག་ལྡན་པ་ལ། །",
+    "comparison_reading": "[Q403] Read all remaining letters after མཛེས་ཞིང at the row edge.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 4; source-member and native bounds in linked packet; bounds: [1770, 85, 1875, 132]",
+    "rationale": "Read all remaining letters after མཛེས་ཞིང at the row edge. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0198-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q403",
+        "pdf_page": 4,
+        "anchors": [
+          "U00067"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q403] Read all remaining letters after མཛེས་ཞིང at the row edge.",
+        "base_span": "མཛེས་ཞིང་ལྡེམ་བག་ལྡན་པ་ལ། །",
+        "approximate_native_bounds": [
+          1770,
+          85,
+          1875,
+          132
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read all remaining letters after མཛེས་ཞིང at the row edge."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q404",
+    "witness": "Tharpaling",
+    "units": [
+      "U00068"
+    ],
+    "base_snippet_at_review": "བག་ཡངས་རྣམ་ཤེས་གུད་མེད་པར། །",
+    "comparison_reading": "[Q404] Read the component between རྣམ་ཤེས and མེད་པར.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 4; source-member and native bounds in linked packet; bounds: [425, 130, 484, 177]",
+    "rationale": "Read the component between རྣམ་ཤེས and མེད་པར. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0198-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q404",
+        "pdf_page": 4,
+        "anchors": [
+          "U00068"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q404] Read the component between རྣམ་ཤེས and མེད་པར.",
+        "base_span": "བག་ཡངས་རྣམ་ཤེས་གུད་མེད་པར། །",
+        "approximate_native_bounds": [
+          425,
+          130,
+          484,
+          177
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the component between རྣམ་ཤེས and མེད་པར."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q407",
+    "witness": "Tharpaling",
+    "units": [
+      "U00076"
+    ],
+    "base_snippet_at_review": "སངས་རྒྱས་རྣམས་ཀྱི་གཟུགས་སྐུའོ། །",
+    "comparison_reading": "[Q407] Read the clause ending after རྣམས་ཀྱི and distinguish every following detached sign.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 4; source-member and native bounds in linked packet; bounds: [859, 170, 1005, 220]",
+    "rationale": "Read the clause ending after རྣམས་ཀྱི and distinguish every following detached sign. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0198-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q407",
+        "pdf_page": 4,
+        "anchors": [
+          "U00076"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q407] Read the clause ending after རྣམས་ཀྱི and distinguish every following detached sign.",
+        "base_span": "སངས་རྒྱས་རྣམས་ཀྱི་གཟུགས་སྐུའོ། །",
+        "approximate_native_bounds": [
+          859,
+          170,
+          1005,
+          220
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the clause ending after རྣམས་ཀྱི and distinguish every following detached sign."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q410",
+    "witness": "Tharpaling",
+    "units": [
+      "U00084"
+    ],
+    "base_snippet_at_review": "དྲུག་ཅུ་རྩ་བཞིའི་འོད་སྐར་ནི། །",
+    "comparison_reading": "[Q410] Read the syllables between རྩ་བཞིའི and ནི.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 4; source-member and native bounds in linked packet; bounds: [1085, 212, 1173, 259]",
+    "rationale": "Read the syllables between རྩ་བཞིའི and ནི. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0198-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q410",
+        "pdf_page": 4,
+        "anchors": [
+          "U00084"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q410] Read the syllables between རྩ་བཞིའི and ནི.",
+        "base_span": "དྲུག་ཅུ་རྩ་བཞིའི་འོད་སྐར་ནི། །",
+        "approximate_native_bounds": [
+          1085,
+          212,
+          1173,
+          259
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the syllables between རྩ་བཞིའི and ནི."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q411",
+    "witness": "Tharpaling",
+    "units": [
+      "U00087"
+    ],
+    "base_snippet_at_review": "ཁྱད་པར་ཡང་ཞུན་བཅུ་བདུན་ནི། །",
+    "comparison_reading": "[Q411] Read the row-initial syllable before བཅུ་བདུན; do not supply it from the base.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 4; source-member and native bounds in linked packet; bounds: [184, 252, 258, 299]",
+    "rationale": "Read the row-initial syllable before བཅུ་བདུན; do not supply it from the base. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0198-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q411",
+        "pdf_page": 4,
+        "anchors": [
+          "U00087"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q411] Read the row-initial syllable before བཅུ་བདུན; do not supply it from the base.",
+        "base_span": "ཁྱད་པར་ཡང་ཞུན་བཅུ་བདུན་ནི། །",
+        "approximate_native_bounds": [
+          184,
+          252,
+          258,
+          299
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the row-initial syllable before བཅུ་བདུན; do not supply it from the base."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q412",
+    "witness": "Tharpaling",
+    "units": [
+      "U00089"
+    ],
+    "base_snippet_at_review": "སྐུ་གསུང་ཐུགས་ཀྱི་བསྟན་པ་དངོས། །",
+    "comparison_reading": "[Q412] Read the remainder after ཐུགས་ཀྱི and inventory the entire following interval.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 4; source-member and native bounds in linked packet; bounds: [682, 251, 861, 302]",
+    "rationale": "Read the remainder after ཐུགས་ཀྱི and inventory the entire following interval. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0198-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q412",
+        "pdf_page": 4,
+        "anchors": [
+          "U00089"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q412] Read the remainder after ཐུགས་ཀྱི and inventory the entire following interval.",
+        "base_span": "སྐུ་གསུང་ཐུགས་ཀྱི་བསྟན་པ་དངོས། །",
+        "approximate_native_bounds": [
+          682,
+          251,
+          861,
+          302
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the remainder after ཐུགས་ཀྱི and inventory the entire following interval."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q415",
+    "witness": "Tharpaling",
+    "units": [
+      "U00094"
+    ],
+    "base_snippet_at_review": "གསེར་གྱི་སྙིང་པོ་ཉིད་ལ་སྣང་། །",
+    "comparison_reading": "[Q415] Read the components between སྙིང་པོ and སྣང.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 4; source-member and native bounds in linked packet; bounds: [254, 294, 314, 339]",
+    "rationale": "Read the components between སྙིང་པོ and སྣང. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0198-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q415",
+        "pdf_page": 4,
+        "anchors": [
+          "U00094"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q415] Read the components between སྙིང་པོ and སྣང.",
+        "base_span": "གསེར་གྱི་སྙིང་པོ་ཉིད་ལ་སྣང་། །",
+        "approximate_native_bounds": [
+          254,
+          294,
+          314,
+          339
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the components between སྙིང་པོ and སྣང."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q416",
+    "witness": "Tharpaling",
+    "units": [
+      "U00097"
+    ],
+    "base_snippet_at_review": "དངོས་གྲུབ་མཆོག་རྣམས་མཐར་ཐུག་པའི། །",
+    "comparison_reading": "[Q416] Read the clause ending after མཆོག་རྣམས and its separator.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 4; source-member and native bounds in linked packet; bounds: [995, 294, 1164, 345]",
+    "rationale": "Read the clause ending after མཆོག་རྣམས and its separator. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p004-x0198-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q416",
+        "pdf_page": 4,
+        "anchors": [
+          "U00097"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q416] Read the clause ending after མཆོག་རྣམས and its separator.",
+        "base_span": "དངོས་གྲུབ་མཆོག་རྣམས་མཐར་ཐུག་པའི། །",
+        "approximate_native_bounds": [
+          995,
+          294,
+          1164,
+          345
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the clause ending after མཆོག་རྣམས and its separator."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q501",
+    "witness": "Tharpaling",
+    "units": [
+      "U00102"
+    ],
+    "base_snippet_at_review": "སངས་རྒྱས་བརྗོད་དུ་མེད་པ་ཡིས། །",
+    "comparison_reading": "[Q501] Read the sequence between སངས་རྒྱས and the visible final ཡིས.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 5; source-member and native bounds in linked packet; bounds: [1023, 90, 1210, 149]",
+    "rationale": "Read the sequence between སངས་རྒྱས and the visible final ཡིས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q501",
+        "pdf_page": 5,
+        "anchors": [
+          "U00102"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q501] Read the sequence between སངས་རྒྱས and the visible final ཡིས.",
+        "base_span": "སངས་རྒྱས་བརྗོད་དུ་མེད་པ་ཡིས། །",
+        "approximate_native_bounds": [
+          1023,
+          90,
+          1210,
+          149
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the sequence between སངས་རྒྱས and the visible final ཡིས."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q502",
+    "witness": "Tharpaling",
+    "units": [
+      "U00103"
+    ],
+    "base_snippet_at_review": "ཡེ་ཐོག་ནས་ནི་ཕྱག་མཛད་པའི། །",
+    "comparison_reading": "[Q502] Read the remainder after ནས་ནི and the complete boundary interval.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 5; source-member and native bounds in linked packet; bounds: [1390, 84, 1551, 145]",
+    "rationale": "Read the remainder after ནས་ནི and the complete boundary interval. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q502",
+        "pdf_page": 5,
+        "anchors": [
+          "U00103"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q502] Read the remainder after ནས་ནི and the complete boundary interval.",
+        "base_span": "ཡེ་ཐོག་ནས་ནི་ཕྱག་མཛད་པའི། །",
+        "approximate_native_bounds": [
+          1390,
+          84,
+          1551,
+          145
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the remainder after ནས་ནི and the complete boundary interval."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q503",
+    "witness": "Tharpaling",
+    "units": [
+      "U00104"
+    ],
+    "base_snippet_at_review": "ཆོས་ཀྱི་སྐུ་ལ་ངེས་བརྒྱུད་དེ། །",
+    "comparison_reading": "[Q503] Read the remainder after སྐུ་ལ and distinguish its separator from following letter limbs.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 5; source-member and native bounds in linked packet; bounds: [1665, 82, 1844, 143]",
+    "rationale": "Read the remainder after སྐུ་ལ and distinguish its separator from following letter limbs. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q503",
+        "pdf_page": 5,
+        "anchors": [
+          "U00104"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q503] Read the remainder after སྐུ་ལ and distinguish its separator from following letter limbs.",
+        "base_span": "ཆོས་ཀྱི་སྐུ་ལ་ངེས་བརྒྱུད་དེ། །",
+        "approximate_native_bounds": [
+          1665,
+          82,
+          1844,
+          143
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the remainder after སྐུ་ལ and distinguish its separator from following letter limbs."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q504",
+    "witness": "Tharpaling",
+    "units": [
+      "U00105"
+    ],
+    "base_snippet_at_review": "ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ། །",
+    "comparison_reading": "[Q504] Determine whether any letters follow ལས་ཅན before the row edge and read them.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 5; source-member and native bounds in linked packet; bounds: [1890, 84, 1928, 141]",
+    "rationale": "Determine whether any letters follow ལས་ཅན before the row edge and read them. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q504",
+        "pdf_page": 5,
+        "anchors": [
+          "U00105"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q504] Determine whether any letters follow ལས་ཅན before the row edge and read them.",
+        "base_span": "ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ། །",
+        "approximate_native_bounds": [
+          1890,
+          84,
+          1928,
+          141
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Determine whether any letters follow ལས་ཅན before the row edge and read them."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q506",
+    "witness": "Tharpaling",
+    "units": [
+      "U00108"
+    ],
+    "base_snippet_at_review": "གཟུགས་བརྙན་ཆོ་འཕྲུལ་འདི་ལྟ་བུ། །",
+    "comparison_reading": "[Q506] Read the remainder after གཟུགས་བརྙན and its full boundary interval.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 5; source-member and native bounds in linked packet; bounds: [1080, 139, 1270, 199]",
+    "rationale": "Read the remainder after གཟུགས་བརྙན and its full boundary interval. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q506",
+        "pdf_page": 5,
+        "anchors": [
+          "U00108"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q506] Read the remainder after གཟུགས་བརྙན and its full boundary interval.",
+        "base_span": "གཟུགས་བརྙན་ཆོ་འཕྲུལ་འདི་ལྟ་བུ། །",
+        "approximate_native_bounds": [
+          1080,
+          139,
+          1270,
+          199
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the remainder after གཟུགས་བརྙན and its full boundary interval."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q507",
+    "witness": "Tharpaling",
+    "units": [
+      "U00110"
+    ],
+    "base_snippet_at_review": "ནམ་མཁའ་མི་འབྱེད་བར་སྣང་ལས། །",
+    "comparison_reading": "[Q507] Read the remainder after ནམ་མཁའ and the separator before ཚིག་རྣམས.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 5; source-member and native bounds in linked packet; bounds: [1640, 134, 1860, 197]",
+    "rationale": "Read the remainder after ནམ་མཁའ and the separator before ཚིག་རྣམས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q507",
+        "pdf_page": 5,
+        "anchors": [
+          "U00110"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q507] Read the remainder after ནམ་མཁའ and the separator before ཚིག་རྣམས.",
+        "base_span": "ནམ་མཁའ་མི་འབྱེད་བར་སྣང་ལས། །",
+        "approximate_native_bounds": [
+          1640,
+          134,
+          1860,
+          197
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the remainder after ནམ་མཁའ and the separator before ཚིག་རྣམས."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q508",
+    "witness": "Tharpaling",
+    "units": [
+      "U00111"
+    ],
+    "base_snippet_at_review": "ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང༌། །",
+    "comparison_reading": "[Q508] Read the exact final component at the row edge after ཚིག་རྣམས.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 5; source-member and native bounds in linked packet; bounds: [1890, 136, 1928, 191]",
+    "rationale": "Read the exact final component at the row edge after ཚིག་རྣམས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q508",
+        "pdf_page": 5,
+        "anchors": [
+          "U00111"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q508] Read the exact final component at the row edge after ཚིག་རྣམས.",
+        "base_span": "ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང༌། །",
+        "approximate_native_bounds": [
+          1890,
+          136,
+          1928,
+          191
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the exact final component at the row edge after ཚིག་རྣམས."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q509",
+    "witness": "Tharpaling",
+    "units": [
+      "U00112"
+    ],
+    "base_snippet_at_review": "དགུ་གཉིས་བཞི་ཡི་ཡང་སྟེང་ནས། །",
+    "comparison_reading": "[Q509] Read the remainder after བཞི་ཡི and all signs before ཚངས་པ.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 5; source-member and native bounds in linked packet; bounds: [725, 187, 883, 247]",
+    "rationale": "Read the remainder after བཞི་ཡི and all signs before ཚངས་པ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q509",
+        "pdf_page": 5,
+        "anchors": [
+          "U00112"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q509] Read the remainder after བཞི་ཡི and all signs before ཚངས་པ.",
+        "base_span": "དགུ་གཉིས་བཞི་ཡི་ཡང་སྟེང་ནས། །",
+        "approximate_native_bounds": [
+          725,
+          187,
+          883,
+          247
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the remainder after བཞི་ཡི and all signs before ཚངས་པ."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q510",
+    "witness": "Tharpaling",
+    "units": [
+      "U00113"
+    ],
+    "base_snippet_at_review": "ཚངས་པ་ཆེན་པོའི་དབྱངས་སུ་བསྒྲགས། །",
+    "comparison_reading": "[Q510] Read the remainder after ཆེན་པོའི and its boundary signs.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 5; source-member and native bounds in linked packet; bounds: [1045, 181, 1203, 242]",
+    "rationale": "Read the remainder after ཆེན་པོའི and its boundary signs. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q510",
+        "pdf_page": 5,
+        "anchors": [
+          "U00113"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q510] Read the remainder after ཆེན་པོའི and its boundary signs.",
+        "base_span": "ཚངས་པ་ཆེན་པོའི་དབྱངས་སུ་བསྒྲགས། །",
+        "approximate_native_bounds": [
+          1045,
+          181,
+          1203,
+          242
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the remainder after ཆེན་པོའི and its boundary signs."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q511",
+    "witness": "Tharpaling",
+    "units": [
+      "U00115"
+    ],
+    "base_snippet_at_review": "ཁྱབ་འཇུག་ཆེན་པོའི་གསུང་གིས་ནི། །",
+    "comparison_reading": "[Q511] Read the entire remainder after ཁྱབ་འཇུག་ཆེན་པོའི up to the row edge.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 5; source-member and native bounds in linked packet; bounds: [1700, 174, 1928, 236]",
+    "rationale": "Read the entire remainder after ཁྱབ་འཇུག་ཆེན་པོའི up to the row edge. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q511",
+        "pdf_page": 5,
+        "anchors": [
+          "U00115"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q511] Read the entire remainder after ཁྱབ་འཇུག་ཆེན་པོའི up to the row edge.",
+        "base_span": "ཁྱབ་འཇུག་ཆེན་པོའི་གསུང་གིས་ནི། །",
+        "approximate_native_bounds": [
+          1700,
+          174,
+          1928,
+          236
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the entire remainder after ཁྱབ་འཇུག་ཆེན་པོའི up to the row edge."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q512",
+    "witness": "Tharpaling",
+    "units": [
+      "U00116"
+    ],
+    "base_snippet_at_review": "བྱིན་གྱིས་རླབས་ཀྱིས་རང་སྒྲར་སྟོན། །",
+    "comparison_reading": "[Q512] Read the remainder after བྱིན་གྱིས, preserving the actual particles, and inventory its separator.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 5; source-member and native bounds in linked packet; bounds: [430, 229, 692, 288]",
+    "rationale": "Read the remainder after བྱིན་གྱིས, preserving the actual particles, and inventory its separator. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q512",
+        "pdf_page": 5,
+        "anchors": [
+          "U00116"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q512] Read the remainder after བྱིན་གྱིས, preserving the actual particles, and inventory its separator.",
+        "base_span": "བྱིན་གྱིས་རླབས་ཀྱིས་རང་སྒྲར་སྟོན། །",
+        "approximate_native_bounds": [
+          430,
+          229,
+          692,
+          288
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the remainder after བྱིན་གྱིས, preserving the actual particles, and inventory its separator."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q513",
+    "witness": "Tharpaling",
+    "units": [
+      "U00118"
+    ],
+    "base_snippet_at_review": "ཀ་ལ་པིང་ཀའི་སྒྲ་དབྱངས་ལས། །",
+    "comparison_reading": "[Q513] Read the remainder after ཀ་ལ་པིང་ཀའི and all intervening signs.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 5; source-member and native bounds in linked packet; bounds: [1135, 221, 1297, 281]",
+    "rationale": "Read the remainder after ཀ་ལ་པིང་ཀའི and all intervening signs. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q513",
+        "pdf_page": 5,
+        "anchors": [
+          "U00118"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q513] Read the remainder after ཀ་ལ་པིང་ཀའི and all intervening signs.",
+        "base_span": "ཀ་ལ་པིང་ཀའི་སྒྲ་དབྱངས་ལས། །",
+        "approximate_native_bounds": [
+          1135,
+          221,
+          1297,
+          281
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the remainder after ཀ་ལ་པིང་ཀའི and all intervening signs."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q514",
+    "witness": "Tharpaling",
+    "units": [
+      "U00119"
+    ],
+    "base_snippet_at_review": "བསྟན་པ་ཀུན་གྱི་བཅུད་བསྡུས་པའི། །",
+    "comparison_reading": "[Q514] Read the ending after བཅུད and the following boundary interval.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 5; source-member and native bounds in linked packet; bounds: [1480, 220, 1589, 278]",
+    "rationale": "Read the ending after བཅུད and the following boundary interval. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q514",
+        "pdf_page": 5,
+        "anchors": [
+          "U00119"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q514] Read the ending after བཅུད and the following boundary interval.",
+        "base_span": "བསྟན་པ་ཀུན་གྱི་བཅུད་བསྡུས་པའི། །",
+        "approximate_native_bounds": [
+          1480,
+          220,
+          1589,
+          278
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the ending after བཅུད and the following boundary interval."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q515",
+    "witness": "Tharpaling",
+    "units": [
+      "U00121"
+    ],
+    "base_snippet_at_review": "ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང་། །",
+    "comparison_reading": "[Q515] Read the row-edge remainder after ཚིག་རྣམས; establish whether any further syllable is on this row.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 5; source-member and native bounds in linked packet; bounds: [1875, 215, 1928, 273]",
+    "rationale": "Read the row-edge remainder after ཚིག་རྣམས; establish whether any further syllable is on this row. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q515",
+        "pdf_page": 5,
+        "anchors": [
+          "U00121"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q515] Read the row-edge remainder after ཚིག་རྣམས; establish whether any further syllable is on this row.",
+        "base_span": "ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང་། །",
+        "approximate_native_bounds": [
+          1875,
+          215,
+          1928,
+          273
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the row-edge remainder after ཚིག་རྣམས; establish whether any further syllable is on this row."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q516",
+    "witness": "Tharpaling",
+    "units": [
+      "U00121"
+    ],
+    "base_snippet_at_review": "ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང་། །",
+    "comparison_reading": "[Q516] Read the sequence after row-initial ཀུན through its separator.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 5; source-member and native bounds in linked packet; bounds: [325, 270, 470, 328]",
+    "rationale": "Read the sequence after row-initial ཀུན through its separator. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q516",
+        "pdf_page": 5,
+        "anchors": [
+          "U00121"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q516] Read the sequence after row-initial ཀུན through its separator.",
+        "base_span": "ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང་། །",
+        "approximate_native_bounds": [
+          325,
+          270,
+          470,
+          328
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the sequence after row-initial ཀུན through its separator."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q517",
+    "witness": "Tharpaling",
+    "units": [
+      "U00125"
+    ],
+    "base_snippet_at_review": "བྱེད་རྒྱུ་ཚ་དང་གྲང་བ་ལས། །",
+    "comparison_reading": "[Q517] Read the remainder after ཚ་དང and the entire interval before སོ་སོའི.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 5; source-member and native bounds in linked packet; bounds: [1480, 259, 1640, 316]",
+    "rationale": "Read the remainder after ཚ་དང and the entire interval before སོ་སོའི. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q517",
+        "pdf_page": 5,
+        "anchors": [
+          "U00125"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q517] Read the remainder after ཚ་དང and the entire interval before སོ་སོའི.",
+        "base_span": "བྱེད་རྒྱུ་ཚ་དང་གྲང་བ་ལས། །",
+        "approximate_native_bounds": [
+          1480,
+          259,
+          1640,
+          316
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the remainder after ཚ་དང and the entire interval before སོ་སོའི."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q520",
+    "witness": "Tharpaling",
+    "units": [
+      "U00127"
+    ],
+    "base_snippet_at_review": "སྟོན་པས་བྱིན་གྱིས་བརླབས་པར་སྣང་། །",
+    "comparison_reading": "[Q520] Read the remainder after བྱིན་གྱིས and the full separator interval.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 5; source-member and native bounds in linked packet; bounds: [580, 309, 766, 365]",
+    "rationale": "Read the remainder after བྱིན་གྱིས and the full separator interval. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p005-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q520",
+        "pdf_page": 5,
+        "anchors": [
+          "U00127"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q520] Read the remainder after བྱིན་གྱིས and the full separator interval.",
+        "base_span": "སྟོན་པས་བྱིན་གྱིས་བརླབས་པར་སྣང་། །",
+        "approximate_native_bounds": [
+          580,
+          309,
+          766,
+          365
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the remainder after བྱིན་གྱིས and the full separator interval."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q603",
+    "witness": "Tharpaling",
+    "units": [
+      "U00133"
+    ],
+    "base_snippet_at_review": "གསུང་ཚུལ་དགོངས་པ་གསུམ་དང་བཅས། །",
+    "comparison_reading": "[Q603] Read the remainder after གསུང་ཚུལ་དགོངས་པ and the complete following interval.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 6; source-member and native bounds in linked packet; bounds: [943, 78, 1093, 141]",
+    "rationale": "Read the remainder after གསུང་ཚུལ་དགོངས་པ and the complete following interval. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q603",
+        "pdf_page": 6,
+        "anchors": [
+          "U00133"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q603] Read the remainder after གསུང་ཚུལ་དགོངས་པ and the complete following interval.",
+        "base_span": "གསུང་ཚུལ་དགོངས་པ་གསུམ་དང་བཅས། །",
+        "approximate_native_bounds": [
+          943,
+          78,
+          1093,
+          141
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the remainder after གསུང་ཚུལ་དགོངས་པ and the complete following interval."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q604",
+    "witness": "Tharpaling",
+    "units": [
+      "U00136"
+    ],
+    "base_snippet_at_review": "དེ་མ་ཡིན་པའི་བརྗོད་བྱའི་ཚིག །",
+    "comparison_reading": "[Q604] Read all material after དེ་མ་ཡིན་པའི to the row edge, including any boundary and following clause beginning.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 6; source-member and native bounds in linked packet; bounds: [1805, 83, 2040, 145]",
+    "rationale": "Read all material after དེ་མ་ཡིན་པའི to the row edge, including any boundary and following clause beginning. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q604",
+        "pdf_page": 6,
+        "anchors": [
+          "U00136"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q604] Read all material after དེ་མ་ཡིན་པའི to the row edge, including any boundary and following clause beginning.",
+        "base_span": "དེ་མ་ཡིན་པའི་བརྗོད་བྱའི་ཚིག །",
+        "approximate_native_bounds": [
+          1805,
+          83,
+          2040,
+          145
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read all material after དེ་མ་ཡིན་པའི to the row edge, including any boundary and following clause beginning."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q606",
+    "witness": "Tharpaling",
+    "units": [
+      "U00138"
+    ],
+    "base_snippet_at_review": "སྒྲ་ཚིག་མིང་ལ་ངེས་བསྡུས་པས། །",
+    "comparison_reading": "[Q606] Read the remainder after མིང་ལ and its separator.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 6; source-member and native bounds in linked packet; bounds: [650, 124, 832, 183]",
+    "rationale": "Read the remainder after མིང་ལ and its separator. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q606",
+        "pdf_page": 6,
+        "anchors": [
+          "U00138"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q606] Read the remainder after མིང་ལ and its separator.",
+        "base_span": "སྒྲ་ཚིག་མིང་ལ་ངེས་བསྡུས་པས། །",
+        "approximate_native_bounds": [
+          650,
+          124,
+          832,
+          183
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the remainder after མིང་ལ and its separator."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q607",
+    "witness": "Tharpaling",
+    "units": [
+      "U00142"
+    ],
+    "base_snippet_at_review": "བརྗོད་ཚིག་བཞི་འམ་ལྔར་བསྡུས་སོ། །",
+    "comparison_reading": "[Q607] Read all remaining row material after བརྗོད་ཚིག; identify whether another clause starts before the edge.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 6; source-member and native bounds in linked packet; bounds: [1780, 129, 2040, 191]",
+    "rationale": "Read all remaining row material after བརྗོད་ཚིག; identify whether another clause starts before the edge. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q607",
+        "pdf_page": 6,
+        "anchors": [
+          "U00142"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q607] Read all remaining row material after བརྗོད་ཚིག; identify whether another clause starts before the edge.",
+        "base_span": "བརྗོད་ཚིག་བཞི་འམ་ལྔར་བསྡུས་སོ། །",
+        "approximate_native_bounds": [
+          1780,
+          129,
+          2040,
+          191
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read all remaining row material after བརྗོད་ཚིག; identify whether another clause starts before the edge."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q609",
+    "witness": "Tharpaling",
+    "units": [
+      "U00144"
+    ],
+    "base_snippet_at_review": "ཚངས་པའི་དབྱངས་ལ་སྟོང་དང་ལྔ། །",
+    "comparison_reading": "[Q609] Read the remainder after དབྱངས་ལ and its separator.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 6; source-member and native bounds in linked packet; bounds: [714, 166, 837, 226]",
+    "rationale": "Read the remainder after དབྱངས་ལ and its separator. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q609",
+        "pdf_page": 6,
+        "anchors": [
+          "U00144"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q609] Read the remainder after དབྱངས་ལ and its separator.",
+        "base_span": "ཚངས་པའི་དབྱངས་ལ་སྟོང་དང་ལྔ། །",
+        "approximate_native_bounds": [
+          714,
+          166,
+          837,
+          226
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the remainder after དབྱངས་ལ and its separator."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q610",
+    "witness": "Tharpaling",
+    "units": [
+      "U00145"
+    ],
+    "base_snippet_at_review": "ངེས་པའི་རྗོད་བྱེད་བརྒྱ་དང་གསུམ། །",
+    "comparison_reading": "[Q610] Read the clause ending after རྗོད་བྱེད and its separator.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 6; source-member and native bounds in linked packet; bounds: [979, 168, 1095, 228]",
+    "rationale": "Read the clause ending after རྗོད་བྱེད and its separator. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q610",
+        "pdf_page": 6,
+        "anchors": [
+          "U00145"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q610] Read the clause ending after རྗོད་བྱེད and its separator.",
+        "base_span": "ངེས་པའི་རྗོད་བྱེད་བརྒྱ་དང་གསུམ། །",
+        "approximate_native_bounds": [
+          979,
+          168,
+          1095,
+          228
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the clause ending after རྗོད་བྱེད and its separator."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q614",
+    "witness": "Tharpaling",
+    "units": [
+      "U00151"
+    ],
+    "base_snippet_at_review": "སྒྲ་དང་ཚིག་གི་གཞི་མའོ། །",
+    "comparison_reading": "[Q614] Read the ending after སྒྲ་དང་ཚིག་གི and its separator.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 6; source-member and native bounds in linked packet; bounds: [906, 207, 1058, 271]",
+    "rationale": "Read the ending after སྒྲ་དང་ཚིག་གི and its separator. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q614",
+        "pdf_page": 6,
+        "anchors": [
+          "U00151"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q614] Read the ending after སྒྲ་དང་ཚིག་གི and its separator.",
+        "base_span": "སྒྲ་དང་ཚིག་གི་གཞི་མའོ། །",
+        "approximate_native_bounds": [
+          906,
+          207,
+          1058,
+          271
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the ending after སྒྲ་དང་ཚིག་གི and its separator."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q615",
+    "witness": "Tharpaling",
+    "units": [
+      "U00153"
+    ],
+    "base_snippet_at_review": "སོ་སོའི་ལས་ཀྱི་འཕྲུལ་གྱིས་ཀྱང༌། །",
+    "comparison_reading": "[Q615] Read the remainder after ལས་ཀྱི and its boundary signs.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 6; source-member and native bounds in linked packet; bounds: [1455, 207, 1598, 272]",
+    "rationale": "Read the remainder after ལས་ཀྱི and its boundary signs. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q615",
+        "pdf_page": 6,
+        "anchors": [
+          "U00153"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q615] Read the remainder after ལས་ཀྱི and its boundary signs.",
+        "base_span": "སོ་སོའི་ལས་ཀྱི་འཕྲུལ་གྱིས་ཀྱང༌། །",
+        "approximate_native_bounds": [
+          1455,
+          207,
+          1598,
+          272
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the remainder after ལས་ཀྱི and its boundary signs."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q617",
+    "witness": "Tharpaling",
+    "units": [
+      "U00155"
+    ],
+    "base_snippet_at_review": "རི་མོ་རྣམས་ལ་མཁས་པ་ཡིས། །",
+    "comparison_reading": "[Q617] Read every row-edge component following རི་མོ.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 6; source-member and native bounds in linked packet; bounds: [1920, 211, 2040, 276]",
+    "rationale": "Read every row-edge component following རི་མོ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q617",
+        "pdf_page": 6,
+        "anchors": [
+          "U00155"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q617] Read every row-edge component following རི་མོ.",
+        "base_span": "རི་མོ་རྣམས་ལ་མཁས་པ་ཡིས། །",
+        "approximate_native_bounds": [
+          1920,
+          211,
+          2040,
+          276
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read every row-edge component following རི་མོ."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q621",
+    "witness": "Tharpaling",
+    "units": [
+      "U00161"
+    ],
+    "base_snippet_at_review": "ཐམས་ཅད་ངེས་འབྱུང་བསྟན་པར་འཕྲོས། །",
+    "comparison_reading": "[Q621] Read the complete row-edge remainder after ཐམས་ཅད.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 6; source-member and native bounds in linked packet; bounds: [1920, 251, 2040, 315]",
+    "rationale": "Read the complete row-edge remainder after ཐམས་ཅད. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q621",
+        "pdf_page": 6,
+        "anchors": [
+          "U00161"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q621] Read the complete row-edge remainder after ཐམས་ཅད.",
+        "base_span": "ཐམས་ཅད་ངེས་འབྱུང་བསྟན་པར་འཕྲོས། །",
+        "approximate_native_bounds": [
+          1920,
+          251,
+          2040,
+          315
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the complete row-edge remainder after ཐམས་ཅད."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q623",
+    "witness": "Tharpaling",
+    "units": [
+      "U00162"
+    ],
+    "base_snippet_at_review": "བསྟན་པ་དམ་པའི་འདུ་མཆེད་གྲུབ། །",
+    "comparison_reading": "[Q623] Read the remainder after དམ་པའི and its separator.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 6; source-member and native bounds in linked packet; bounds: [616, 283, 758, 347]",
+    "rationale": "Read the remainder after དམ་པའི and its separator. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q623",
+        "pdf_page": 6,
+        "anchors": [
+          "U00162"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q623] Read the remainder after དམ་པའི and its separator.",
+        "base_span": "བསྟན་པ་དམ་པའི་འདུ་མཆེད་གྲུབ། །",
+        "approximate_native_bounds": [
+          616,
+          283,
+          758,
+          347
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the remainder after དམ་པའི and its separator."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
+  },
+  {
+    "id": "TH-COV1-B01-Q624",
+    "witness": "Tharpaling",
+    "units": [
+      "U00163"
+    ],
+    "base_snippet_at_review": "གསུངས་པས་འཁོར་བ་ནུབ་པར་བྱེད། །",
+    "comparison_reading": "[Q624] Read the remainder after འཁོར་བ and its full separator interval.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 6; source-member and native bounds in linked packet; bounds: [891, 285, 1013, 349]",
+    "rationale": "Read the remainder after འཁོར་བ and its full separator interval. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png",
+      "reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-THARPALING.md",
+    "continuation_provenance": {
+      "batch_id": "B01-P0004-0006",
+      "baseline_commit": "3797b5426e9a988b0b6d71cee961858141ce8678",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt",
+        "sha256": "d70c9215ba346965994a7bf045afaff6a36347d72858debad8c97982c8b35245"
+      },
+      "observation": {
+        "id": "Q624",
+        "pdf_page": 6,
+        "anchors": [
+          "U00163"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q624] Read the remainder after འཁོར་བ and its full separator interval.",
+        "base_span": "གསུངས་པས་འཁོར་བ་ནུབ་པར་བྱེད། །",
+        "approximate_native_bounds": [
+          891,
+          285,
+          1013,
+          349
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the remainder after འཁོར་བ and its full separator interval."
+      },
+      "coordinator_scope": "Viewed all three target native overviews, both overlapping native columns for each and the PDF7 overview only for the outgoing context. The independent fragmentary source reading is retained at its stated limits. No full clause was completed from B, Adzom or expected syntax."
+    }
   }
 ]
