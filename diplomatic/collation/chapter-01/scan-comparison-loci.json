@@ -31279,5 +31279,1185 @@
       },
       "coordinator_scope": "Inspected the three hash-verified native overviews and each target left and overlapping middle/right native column from the published export. Source order and localized differences were checked without promoting medium-confidence glyphs or Q components to settled readings."
     }
+  },
+  {
+    "id": "DG-COV1-B08-O12-03",
+    "witness": "Degé",
+    "units": [
+      "U00540",
+      "U00541"
+    ],
+    "base_snippet_at_review": "ཞེས་བྱ་བ་ནི། ། མཆོད",
+    "comparison_reading": "ཞེས་⟦Q12-01⟧ ⟦G:Q12-S01⟧ མཆོད",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"lexical\": \"low at Q\", \"alignment\": \"high\", \"layer\": \"high\", \"graphics\": \"low at Q\"}",
+    "locator": "PDF 12; source-member and native bounds in linked packet; bounds: [695, 120, 1090, 205]",
+    "rationale": "The terminal letters and adjoining extended strokes cannot be independently resolved; neither is supplied from the base. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve local Degé readings, source layers and unresolved letters separately; do not reconstruct faint text, expand ordinals or infer global absence.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p012-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p012-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p012-x1494-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B08-P0012-0014",
+      "baseline_commit": "bf5cb489adbfc9556a4a337c21d973d3bfa52380",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt",
+        "sha256": "580b8191eab3dba635e7d7612fae80f728eb25e25f3a0878a8c418eee065f4c0"
+      },
+      "observation": {
+        "id": "O12-03",
+        "pdf_page": 12,
+        "anchors": [
+          "U00540",
+          "U00541"
+        ],
+        "source_span": "ཞེས་⟦Q12-01⟧ ⟦G:Q12-S01⟧ མཆོད",
+        "base_span": "ཞེས་བྱ་བ་ནི། ། མཆོད",
+        "category": "unresolved lexical and graphic components",
+        "neighboring_context": "Between ཐལ་བའི་རྒྱུན and མཆོད་རྟེན.",
+        "approximate_native_bounds": [
+          695,
+          120,
+          1090,
+          205
+        ],
+        "confidence": {
+          "lexical": "low at Q",
+          "alignment": "high",
+          "layer": "high",
+          "graphics": "low at Q"
+        },
+        "rationale": "The terminal letters and adjoining extended strokes cannot be independently resolved; neither is supplied from the base."
+      },
+      "coordinator_scope": "Viewed each native target overview and both overlapping full-height native columns from the hash-checked published export. Inspected the faint note regions, gray obscuration at U00668 and whole-interval boundary examples. The separate reader’s qualified transcription is retained; no unread component is adopted from the base."
+    }
+  },
+  {
+    "id": "DG-COV1-B08-O12-05",
+    "witness": "Degé",
+    "units": [
+      "U00577"
+    ],
+    "base_snippet_at_review": "མཆོད་པ་རྫོགས་པའི་ལྷ་མོར་བཅས",
+    "comparison_reading": "མཆོད་⟦Q12-04⟧ལྷ་མོར་བཅས",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"lexical\": \"low centrally; medium at flanks\", \"alignment\": \"high\", \"layer\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 12; source-member and native bounds in linked packet; bounds: [1060, 357, 1440, 430]",
+    "rationale": "A central faded interval remains unread while the adjoining main text and subsequent clauses remain readable. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve local Degé readings, source layers and unresolved letters separately; do not reconstruct faint text, expand ordinals or infer global absence.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p012-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p012-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p012-x1494-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B08-P0012-0014",
+      "baseline_commit": "bf5cb489adbfc9556a4a337c21d973d3bfa52380",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt",
+        "sha256": "580b8191eab3dba635e7d7612fae80f728eb25e25f3a0878a8c418eee065f4c0"
+      },
+      "observation": {
+        "id": "O12-05",
+        "pdf_page": 12,
+        "anchors": [
+          "U00577"
+        ],
+        "source_span": "མཆོད་⟦Q12-04⟧ལྷ་མོར་བཅས",
+        "base_span": "མཆོད་པ་རྫོགས་པའི་ལྷ་མོར་བཅས",
+        "category": "localized faint main text",
+        "neighboring_context": "Between འདུ་བའི་ཐལ་བ་ཞེས་བྱ་བ and འོད་ཀྱིས་ཁེངས.",
+        "approximate_native_bounds": [
+          1060,
+          357,
+          1440,
+          430
+        ],
+        "confidence": {
+          "lexical": "low centrally; medium at flanks",
+          "alignment": "high",
+          "layer": "high",
+          "graphics": "medium"
+        },
+        "rationale": "A central faded interval remains unread while the adjoining main text and subsequent clauses remain readable."
+      },
+      "coordinator_scope": "Viewed each native target overview and both overlapping full-height native columns from the hash-checked published export. Inspected the faint note regions, gray obscuration at U00668 and whole-interval boundary examples. The separate reader’s qualified transcription is retained; no unread component is adopted from the base."
+    }
+  },
+  {
+    "id": "DG-COV1-B08-O12-06",
+    "witness": "Degé",
+    "units": [
+      "U00578",
+      "U00579"
+    ],
+    "base_snippet_at_review": "{\"source_tibetan\": \"དྲི། སྟོན་པའི\", \"reading_tibetan\": \"དྲི། ། སྟོན་པའི\"}",
+    "comparison_reading": "དྲི ⟦P⟧ སྟོན་པའི",
+    "status": "provisional_visual_observation",
+    "confidence": "{\"lexical\": \"high for quoted flanks\", \"alignment\": \"high\", \"layer\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 12; source-member and native bounds in linked packet; bounds: [1680, 357, 1835, 423]",
+    "rationale": "The interval contains both a trailing upright and a detached next-leading upright; the neighboring lexical Q remains unresolved. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve local Degé readings, source layers and unresolved letters separately; do not reconstruct faint text, expand ordinals or infer global absence.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p012-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p012-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p012-x1494-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B08-P0012-0014",
+      "baseline_commit": "bf5cb489adbfc9556a4a337c21d973d3bfa52380",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt",
+        "sha256": "580b8191eab3dba635e7d7612fae80f728eb25e25f3a0878a8c418eee065f4c0"
+      },
+      "observation": {
+        "id": "O12-06",
+        "pdf_page": 12,
+        "anchors": [
+          "U00578",
+          "U00579"
+        ],
+        "source_span": "དྲི ⟦P⟧ སྟོན་པའི",
+        "base_span": {
+          "source_tibetan": "དྲི། སྟོན་པའི",
+          "reading_tibetan": "དྲི། ། སྟོན་པའི"
+        },
+        "category": "boundary inventory",
+        "neighboring_context": "U00578 ends before སྟོན་པའི་བསྟན་པ་ཆ་མཉམ་པ.",
+        "approximate_native_bounds": [
+          1680,
+          357,
+          1835,
+          423
+        ],
+        "confidence": {
+          "lexical": "high for quoted flanks",
+          "alignment": "high",
+          "layer": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The interval contains both a trailing upright and a detached next-leading upright; the neighboring lexical Q remains unresolved."
+      },
+      "coordinator_scope": "Viewed each native target overview and both overlapping full-height native columns from the hash-checked published export. Inspected the faint note regions, gray obscuration at U00668 and whole-interval boundary examples. The separate reader’s qualified transcription is retained; no unread component is adopted from the base."
+    }
+  },
+  {
+    "id": "DG-COV1-B08-O13-01",
+    "witness": "Degé",
+    "units": [
+      "U00594",
+      "U00595"
+    ],
+    "base_snippet_at_review": "{\"source_tibetan\": \"འབྱིན། སྟོན་པའི\", \"reading_tibetan\": \"འབྱིན། ། སྟོན་པའི\"}",
+    "comparison_reading": "འབྱིན ⟦P⟧ སྟོན་པའི",
+    "status": "provisional_visual_observation",
+    "confidence": "{\"lexical\": \"medium\", \"alignment\": \"high\", \"layer\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 13; source-member and native bounds in linked packet; bounds: [2510, 119, 2800, 180]",
+    "rationale": "Two separated upright bars are visible across this interval. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve local Degé readings, source layers and unresolved letters separately; do not reconstruct faint text, expand ordinals or infer global absence.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-x1476-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B08-P0012-0014",
+      "baseline_commit": "bf5cb489adbfc9556a4a337c21d973d3bfa52380",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt",
+        "sha256": "580b8191eab3dba635e7d7612fae80f728eb25e25f3a0878a8c418eee065f4c0"
+      },
+      "observation": {
+        "id": "O13-01",
+        "pdf_page": 13,
+        "anchors": [
+          "U00594",
+          "U00595"
+        ],
+        "source_span": "འབྱིན ⟦P⟧ སྟོན་པའི",
+        "base_span": {
+          "source_tibetan": "འབྱིན། སྟོན་པའི",
+          "reading_tibetan": "འབྱིན། ། སྟོན་པའི"
+        },
+        "category": "boundary inventory",
+        "neighboring_context": "After གློག་དམར་ལྕེ་རྣམས; before the faint end of U00595.",
+        "approximate_native_bounds": [
+          2510,
+          119,
+          2800,
+          180
+        ],
+        "confidence": {
+          "lexical": "medium",
+          "alignment": "high",
+          "layer": "high",
+          "graphics": "medium"
+        },
+        "rationale": "Two separated upright bars are visible across this interval."
+      },
+      "coordinator_scope": "Viewed each native target overview and both overlapping full-height native columns from the hash-checked published export. Inspected the faint note regions, gray obscuration at U00668 and whole-interval boundary examples. The separate reader’s qualified transcription is retained; no unread component is adopted from the base."
+    }
+  },
+  {
+    "id": "DG-COV1-B08-O13-02",
+    "witness": "Degé",
+    "units": [
+      "U00596"
+    ],
+    "base_snippet_at_review": "{\"main_reading\": \"ཀླུ་ཡི་གདོང\", \"separate_annotation\": \"གླུ་ཡང་གདུང་ཡང་བྱུང\"}",
+    "comparison_reading": "{\"main\": \"འོད་འབྱུང་ཕྲེང་བ་ཀླུ་ཡི་⟦Q13-02⟧\", \"small_note\": \"གླུ་ཡང་⟦Q13-N01⟧ཡང་བྱུང\"}",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"lexical\": \"medium at readable components; low at Q\", \"alignment\": \"high\", \"layer\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 13; source-member and native bounds in linked packet; bounds: [586, 153, 860, 262]",
+    "rationale": "The small text is visibly distinct from the main row. Its readable parts do not resolve the uncertain main ending or uncertain note component. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve local Degé readings, source layers and unresolved letters separately; do not reconstruct faint text, expand ordinals or infer global absence.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-x1476-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B08-P0012-0014",
+      "baseline_commit": "bf5cb489adbfc9556a4a337c21d973d3bfa52380",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt",
+        "sha256": "580b8191eab3dba635e7d7612fae80f728eb25e25f3a0878a8c418eee065f4c0"
+      },
+      "observation": {
+        "id": "O13-02",
+        "pdf_page": 13,
+        "anchors": [
+          "U00596"
+        ],
+        "source_span": {
+          "main": "འོད་འབྱུང་ཕྲེང་བ་ཀླུ་ཡི་⟦Q13-02⟧",
+          "small_note": "གླུ་ཡང་⟦Q13-N01⟧ཡང་བྱུང"
+        },
+        "base_span": {
+          "main_reading": "ཀླུ་ཡི་གདོང",
+          "separate_annotation": "གླུ་ཡང་གདུང་ཡང་བྱུང"
+        },
+        "category": "main versus displaced small-note layer",
+        "neighboring_context": "Main phrase precedes ཕྱོགས་དང་མཚམས; its small text occupies space in physical row 3.",
+        "approximate_native_bounds": [
+          586,
+          153,
+          860,
+          262
+        ],
+        "confidence": {
+          "lexical": "medium at readable components; low at Q",
+          "alignment": "high",
+          "layer": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The small text is visibly distinct from the main row. Its readable parts do not resolve the uncertain main ending or uncertain note component."
+      },
+      "coordinator_scope": "Viewed each native target overview and both overlapping full-height native columns from the hash-checked published export. Inspected the faint note regions, gray obscuration at U00668 and whole-interval boundary examples. The separate reader’s qualified transcription is retained; no unread component is adopted from the base."
+    }
+  },
+  {
+    "id": "DG-COV1-B08-O13-03",
+    "witness": "Degé",
+    "units": [
+      "U00598"
+    ],
+    "base_snippet_at_review": "དྲིས་ལན་དྲུག་པ།",
+    "comparison_reading": "དྲིས་ལན་⟦Q13-H01⟧",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"lexical\": \"medium for label; low for ending\", \"alignment\": \"high\", \"layer\": \"high\", \"graphics\": \"low for ending\"}",
+    "locator": "PDF 13; source-member and native bounds in linked packet; bounds: [1248, 158, 1380, 212]",
+    "rationale": "The label is readable; its terminal component is not assigned the expected reply number. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve local Degé readings, source layers and unresolved letters separately; do not reconstruct faint text, expand ordinals or infer global absence.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-x1476-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B08-P0012-0014",
+      "baseline_commit": "bf5cb489adbfc9556a4a337c21d973d3bfa52380",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt",
+        "sha256": "580b8191eab3dba635e7d7612fae80f728eb25e25f3a0878a8c418eee065f4c0"
+      },
+      "observation": {
+        "id": "O13-03",
+        "pdf_page": 13,
+        "anchors": [
+          "U00598"
+        ],
+        "source_span": "དྲིས་ལན་⟦Q13-H01⟧",
+        "base_span": "དྲིས་ལན་དྲུག་པ།",
+        "category": "small heading; value unresolved",
+        "neighboring_context": "Between ཀུན་གསལ་བའོ and རང་དང་གཞན.",
+        "approximate_native_bounds": [
+          1248,
+          158,
+          1380,
+          212
+        ],
+        "confidence": {
+          "lexical": "medium for label; low for ending",
+          "alignment": "high",
+          "layer": "high",
+          "graphics": "low for ending"
+        },
+        "rationale": "The label is readable; its terminal component is not assigned the expected reply number."
+      },
+      "coordinator_scope": "Viewed each native target overview and both overlapping full-height native columns from the hash-checked published export. Inspected the faint note regions, gray obscuration at U00668 and whole-interval boundary examples. The separate reader’s qualified transcription is retained; no unread component is adopted from the base."
+    }
+  },
+  {
+    "id": "DG-COV1-B08-O13-04",
+    "witness": "Degé",
+    "units": [
+      "U00619",
+      "U00620"
+    ],
+    "base_snippet_at_review": "ལ། ། དེ་ཡི་སྐྱོན",
+    "comparison_reading": "ལ ⟦G:Q13-S01⟧ དེ་ཡི་⟦Q13-04⟧",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"lexical\": \"low at Q\", \"alignment\": \"high\", \"layer\": \"high\", \"graphics\": \"low\"}",
+    "locator": "PDF 13; source-member and native bounds in linked packet; bounds: [1760, 307, 2060, 382]",
+    "rationale": "Short tiered strokes and an upright cannot confidently be allocated between detached signs and adjoining letter limbs. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve local Degé readings, source layers and unresolved letters separately; do not reconstruct faint text, expand ordinals or infer global absence.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-x1476-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B08-P0012-0014",
+      "baseline_commit": "bf5cb489adbfc9556a4a337c21d973d3bfa52380",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt",
+        "sha256": "580b8191eab3dba635e7d7612fae80f728eb25e25f3a0878a8c418eee065f4c0"
+      },
+      "observation": {
+        "id": "O13-04",
+        "pdf_page": 13,
+        "anchors": [
+          "U00619",
+          "U00620"
+        ],
+        "source_span": "ལ ⟦G:Q13-S01⟧ དེ་ཡི་⟦Q13-04⟧",
+        "base_span": "ལ། ། དེ་ཡི་སྐྱོན",
+        "category": "unresolved boundary and neighboring letters",
+        "neighboring_context": "After གཞན་གྱི་ཡོན་ཏན་ཤེས་བྱས; before རྣམས་མཁས་པས་བརྟགས.",
+        "approximate_native_bounds": [
+          1760,
+          307,
+          2060,
+          382
+        ],
+        "confidence": {
+          "lexical": "low at Q",
+          "alignment": "high",
+          "layer": "high",
+          "graphics": "low"
+        },
+        "rationale": "Short tiered strokes and an upright cannot confidently be allocated between detached signs and adjoining letter limbs."
+      },
+      "coordinator_scope": "Viewed each native target overview and both overlapping full-height native columns from the hash-checked published export. Inspected the faint note regions, gray obscuration at U00668 and whole-interval boundary examples. The separate reader’s qualified transcription is retained; no unread component is adopted from the base."
+    }
+  },
+  {
+    "id": "DG-COV1-B08-O13-05",
+    "witness": "Degé",
+    "units": [
+      "U00624"
+    ],
+    "base_snippet_at_review": "དྲིས་ལན་བདུན་པ།",
+    "comparison_reading": "དྲིས་ལན་⟦Q13-H02⟧",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"lexical\": \"medium for label; low for ending\", \"alignment\": \"high\", \"layer\": \"high\", \"graphics\": \"low for ending\"}",
+    "locator": "PDF 13; source-member and native bounds in linked packet; bounds: [996, 350, 1125, 410]",
+    "rationale": "The physical heading is retained separately without importing the base ordinal. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve local Degé readings, source layers and unresolved letters separately; do not reconstruct faint text, expand ordinals or infer global absence.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-x1476-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B08-P0012-0014",
+      "baseline_commit": "bf5cb489adbfc9556a4a337c21d973d3bfa52380",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt",
+        "sha256": "580b8191eab3dba635e7d7612fae80f728eb25e25f3a0878a8c418eee065f4c0"
+      },
+      "observation": {
+        "id": "O13-05",
+        "pdf_page": 13,
+        "anchors": [
+          "U00624"
+        ],
+        "source_span": "དྲིས་ལན་⟦Q13-H02⟧",
+        "base_span": "དྲིས་ལན་བདུན་པ།",
+        "category": "small heading; value unresolved",
+        "neighboring_context": "Between ཐལ་འགྱུར་བརྩིའོ and འཕེན་ལ་རླུང.",
+        "approximate_native_bounds": [
+          996,
+          350,
+          1125,
+          410
+        ],
+        "confidence": {
+          "lexical": "medium for label; low for ending",
+          "alignment": "high",
+          "layer": "high",
+          "graphics": "low for ending"
+        },
+        "rationale": "The physical heading is retained separately without importing the base ordinal."
+      },
+      "coordinator_scope": "Viewed each native target overview and both overlapping full-height native columns from the hash-checked published export. Inspected the faint note regions, gray obscuration at U00668 and whole-interval boundary examples. The separate reader’s qualified transcription is retained; no unread component is adopted from the base."
+    }
+  },
+  {
+    "id": "DG-COV1-B08-O13-06",
+    "witness": "Degé",
+    "units": [
+      "U00626"
+    ],
+    "base_snippet_at_review": "{\"reading_tibetan\": \"གཞོན་པ་དང\", \"separate_annotation\": \"གཞོག་ཀྱང\"}",
+    "comparison_reading": "{\"main\": \"ཚིག་དང་ཟུར་ལ་གཞོན་པ་དང\", \"small_note\": \"གཞོག་ཀྱང\"}",
+    "status": "provisional_visual_observation",
+    "confidence": "{\"lexical\": \"medium\", \"alignment\": \"high\", \"layer\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 13; source-member and native bounds in linked packet; bounds: [1465, 350, 1790, 463]",
+    "rationale": "The smaller གཞོག་ཀྱང is not inserted into the main lexical sequence. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve local Degé readings, source layers and unresolved letters separately; do not reconstruct faint text, expand ordinals or infer global absence.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-x1476-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B08-P0012-0014",
+      "baseline_commit": "bf5cb489adbfc9556a4a337c21d973d3bfa52380",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt",
+        "sha256": "580b8191eab3dba635e7d7612fae80f728eb25e25f3a0878a8c418eee065f4c0"
+      },
+      "observation": {
+        "id": "O13-06",
+        "pdf_page": 13,
+        "anchors": [
+          "U00626"
+        ],
+        "source_span": {
+          "main": "ཚིག་དང་ཟུར་ལ་གཞོན་པ་དང",
+          "small_note": "གཞོག་ཀྱང"
+        },
+        "base_span": {
+          "reading_tibetan": "གཞོན་པ་དང",
+          "separate_annotation": "གཞོག་ཀྱང"
+        },
+        "category": "displaced small-note layer",
+        "neighboring_context": "Main phrase occurs in row 6; note occurs beneath it in row 7, before སྦྱོར་བའི.",
+        "approximate_native_bounds": [
+          1465,
+          350,
+          1790,
+          463
+        ],
+        "confidence": {
+          "lexical": "medium",
+          "alignment": "high",
+          "layer": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The smaller གཞོག་ཀྱང is not inserted into the main lexical sequence."
+      },
+      "coordinator_scope": "Viewed each native target overview and both overlapping full-height native columns from the hash-checked published export. Inspected the faint note regions, gray obscuration at U00668 and whole-interval boundary examples. The separate reader’s qualified transcription is retained; no unread component is adopted from the base."
+    }
+  },
+  {
+    "id": "DG-COV1-B08-O13-07",
+    "witness": "Degé",
+    "units": [
+      "U00632"
+    ],
+    "base_snippet_at_review": "{\"reading_tibetan\": \"མ་དག་པ་ཡིས་ཡེ་ཤེས་སོ\", \"separate_annotation\": \"ནི་ཡང\"}",
+    "comparison_reading": "{\"main\": \"མ་དག་⟦Q13-06⟧ཡེ་ཤེས་སོ\", \"small_ink\": \"⟦Q13-N02⟧\", \"graphic\": \"D\"}",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"lexical\": \"low centrally; medium at flanks\", \"alignment\": \"high\", \"layer\": \"medium\", \"graphics\": \"medium\"}",
+    "locator": "PDF 13; source-member and native bounds in linked packet; bounds: [1130, 395, 1600, 465]",
+    "rationale": "Faint main letters, smaller ink and the dotted guide remain distinct uncertainties; the base note is not used to decipher them. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve local Degé readings, source layers and unresolved letters separately; do not reconstruct faint text, expand ordinals or infer global absence.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-x1476-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B08-P0012-0014",
+      "baseline_commit": "bf5cb489adbfc9556a4a337c21d973d3bfa52380",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt",
+        "sha256": "580b8191eab3dba635e7d7612fae80f728eb25e25f3a0878a8c418eee065f4c0"
+      },
+      "observation": {
+        "id": "O13-07",
+        "pdf_page": 13,
+        "anchors": [
+          "U00632"
+        ],
+        "source_span": {
+          "main": "མ་དག་⟦Q13-06⟧ཡེ་ཤེས་སོ",
+          "small_ink": "⟦Q13-N02⟧",
+          "graphic": "D"
+        },
+        "base_span": {
+          "reading_tibetan": "མ་དག་པ་ཡིས་ཡེ་ཤེས་སོ",
+          "separate_annotation": "ནི་ཡང"
+        },
+        "category": "unresolved layered passage",
+        "neighboring_context": "After ཉོན་མོངས་འཕེན; before N13b and སྦྱོར་བའི.",
+        "approximate_native_bounds": [
+          1130,
+          395,
+          1600,
+          465
+        ],
+        "confidence": {
+          "lexical": "low centrally; medium at flanks",
+          "alignment": "high",
+          "layer": "medium",
+          "graphics": "medium"
+        },
+        "rationale": "Faint main letters, smaller ink and the dotted guide remain distinct uncertainties; the base note is not used to decipher them."
+      },
+      "coordinator_scope": "Viewed each native target overview and both overlapping full-height native columns from the hash-checked published export. Inspected the faint note regions, gray obscuration at U00668 and whole-interval boundary examples. The separate reader’s qualified transcription is retained; no unread component is adopted from the base."
+    }
+  },
+  {
+    "id": "DG-COV1-B08-O14-02",
+    "witness": "Degé",
+    "units": [
+      "U00651"
+    ],
+    "base_snippet_at_review": "{\"reading_tibetan\": \"གནས་དང་བྱུང་དང་བྱེད་པ་དང\", \"separate_annotation\": \"བྱས་ཀྱང་འདུག\"}",
+    "comparison_reading": "{\"main\": \"གནས་དང་བྱུང་དང་བྱེད་པ་དང\", \"small_note\": \"བྱས་ཀྱང་⟦Q14-N01⟧\", \"graphic\": \"D\"}",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"lexical\": \"medium for main and note onset; low at Q\", \"alignment\": \"high\", \"layer\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 14; source-member and native bounds in linked packet; bounds: [600, 211, 1115, 326]",
+    "rationale": "The smaller lower text and dotted guide are recorded separately; its unread ending is not restored from the base. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve local Degé readings, source layers and unresolved letters separately; do not reconstruct faint text, expand ordinals or infer global absence.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p014-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p014-x1491-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B08-P0012-0014",
+      "baseline_commit": "bf5cb489adbfc9556a4a337c21d973d3bfa52380",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt",
+        "sha256": "580b8191eab3dba635e7d7612fae80f728eb25e25f3a0878a8c418eee065f4c0"
+      },
+      "observation": {
+        "id": "O14-02",
+        "pdf_page": 14,
+        "anchors": [
+          "U00651"
+        ],
+        "source_span": {
+          "main": "གནས་དང་བྱུང་དང་བྱེད་པ་དང",
+          "small_note": "བྱས་ཀྱང་⟦Q14-N01⟧",
+          "graphic": "D"
+        },
+        "base_span": {
+          "reading_tibetan": "གནས་དང་བྱུང་དང་བྱེད་པ་དང",
+          "separate_annotation": "བྱས་ཀྱང་འདུག"
+        },
+        "category": "displaced small-note layer",
+        "neighboring_context": "Main text in row 3 follows དངོས་པོ་མེད; note is physically in row 4 before ནམ་ཟླ.",
+        "approximate_native_bounds": [
+          600,
+          211,
+          1115,
+          326
+        ],
+        "confidence": {
+          "lexical": "medium for main and note onset; low at Q",
+          "alignment": "high",
+          "layer": "high",
+          "graphics": "medium"
+        },
+        "rationale": "The smaller lower text and dotted guide are recorded separately; its unread ending is not restored from the base."
+      },
+      "coordinator_scope": "Viewed each native target overview and both overlapping full-height native columns from the hash-checked published export. Inspected the faint note regions, gray obscuration at U00668 and whole-interval boundary examples. The separate reader’s qualified transcription is retained; no unread component is adopted from the base."
+    }
+  },
+  {
+    "id": "DG-COV1-B08-O14-03",
+    "witness": "Degé",
+    "units": [
+      "U00655"
+    ],
+    "base_snippet_at_review": "དྲིས་ལན་བརྒྱད་པ།",
+    "comparison_reading": "དྲིས་ལན་⟦Q14-H01⟧",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"lexical\": \"medium for label; low for ending\", \"alignment\": \"high\", \"layer\": \"high\", \"graphics\": \"low for ending\"}",
+    "locator": "PDF 14; source-member and native bounds in linked packet; bounds: [2155, 209, 2310, 262]",
+    "rationale": "Position establishes alignment; expected numbering does not establish the terminal glyph. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve local Degé readings, source layers and unresolved letters separately; do not reconstruct faint text, expand ordinals or infer global absence.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p014-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p014-x1491-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B08-P0012-0014",
+      "baseline_commit": "bf5cb489adbfc9556a4a337c21d973d3bfa52380",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt",
+        "sha256": "580b8191eab3dba635e7d7612fae80f728eb25e25f3a0878a8c418eee065f4c0"
+      },
+      "observation": {
+        "id": "O14-03",
+        "pdf_page": 14,
+        "anchors": [
+          "U00655"
+        ],
+        "source_span": "དྲིས་ལན་⟦Q14-H01⟧",
+        "base_span": "དྲིས་ལན་བརྒྱད་པ།",
+        "category": "small heading; value unresolved",
+        "neighboring_context": "Between དེ་དག་གོ and རྒྱུ་མཚན་ངེས་པའི.",
+        "approximate_native_bounds": [
+          2155,
+          209,
+          2310,
+          262
+        ],
+        "confidence": {
+          "lexical": "medium for label; low for ending",
+          "alignment": "high",
+          "layer": "high",
+          "graphics": "low for ending"
+        },
+        "rationale": "Position establishes alignment; expected numbering does not establish the terminal glyph."
+      },
+      "coordinator_scope": "Viewed each native target overview and both overlapping full-height native columns from the hash-checked published export. Inspected the faint note regions, gray obscuration at U00668 and whole-interval boundary examples. The separate reader’s qualified transcription is retained; no unread component is adopted from the base."
+    }
+  },
+  {
+    "id": "DG-COV1-B08-O14-04",
+    "witness": "Degé",
+    "units": [
+      "U00668"
+    ],
+    "base_snippet_at_review": "འཕྲོ་དང་འཁྱིལ་དང་མཆེད་པ་དང",
+    "comparison_reading": "འཕྲོ་⟦Q14-03⟧དང་མཆེད་པ་དང",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"lexical\": \"low at obscuration; medium elsewhere\", \"alignment\": \"high\", \"layer\": \"high\", \"graphics\": \"medium\"}",
+    "locator": "PDF 14; source-member and native bounds in linked packet; bounds: [1765, 301, 2150, 375]",
+    "rationale": "A gray patch crosses the lower letter area near the phrase's beginning; later words remain readable. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve local Degé readings, source layers and unresolved letters separately; do not reconstruct faint text, expand ordinals or infer global absence.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p014-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p014-x1491-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B08-P0012-0014",
+      "baseline_commit": "bf5cb489adbfc9556a4a337c21d973d3bfa52380",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt",
+        "sha256": "580b8191eab3dba635e7d7612fae80f728eb25e25f3a0878a8c418eee065f4c0"
+      },
+      "observation": {
+        "id": "O14-04",
+        "pdf_page": 14,
+        "anchors": [
+          "U00668"
+        ],
+        "source_span": "འཕྲོ་⟦Q14-03⟧དང་མཆེད་པ་དང",
+        "base_span": "འཕྲོ་དང་འཁྱིལ་དང་མཆེད་པ་དང",
+        "category": "localized obscuration",
+        "neighboring_context": "Between ཤེས་པའི་རྩལ and འདུས་དང་རྟགས.",
+        "approximate_native_bounds": [
+          1765,
+          301,
+          2150,
+          375
+        ],
+        "confidence": {
+          "lexical": "low at obscuration; medium elsewhere",
+          "alignment": "high",
+          "layer": "high",
+          "graphics": "medium"
+        },
+        "rationale": "A gray patch crosses the lower letter area near the phrase's beginning; later words remain readable."
+      },
+      "coordinator_scope": "Viewed each native target overview and both overlapping full-height native columns from the hash-checked published export. Inspected the faint note regions, gray obscuration at U00668 and whole-interval boundary examples. The separate reader’s qualified transcription is retained; no unread component is adopted from the base."
+    }
+  },
+  {
+    "id": "DG-COV1-B08-O14-05",
+    "witness": "Degé",
+    "units": [
+      "U00676"
+    ],
+    "base_snippet_at_review": "དྲིས་ལན་དགུ་པ།",
+    "comparison_reading": "དྲིས་ལན་⟦Q14-H02⟧",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"lexical\": \"medium for label; low for ending\", \"alignment\": \"high\", \"layer\": \"high\", \"graphics\": \"low for ending\"}",
+    "locator": "PDF 14; source-member and native bounds in linked packet; bounds: [2155, 350, 2300, 409]",
+    "rationale": "The heading is physically present; its number or ordinal is left unread. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve local Degé readings, source layers and unresolved letters separately; do not reconstruct faint text, expand ordinals or infer global absence.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p014-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p014-x1491-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B08-P0012-0014",
+      "baseline_commit": "bf5cb489adbfc9556a4a337c21d973d3bfa52380",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt",
+        "sha256": "580b8191eab3dba635e7d7612fae80f728eb25e25f3a0878a8c418eee065f4c0"
+      },
+      "observation": {
+        "id": "O14-05",
+        "pdf_page": 14,
+        "anchors": [
+          "U00676"
+        ],
+        "source_span": "དྲིས་ལན་⟦Q14-H02⟧",
+        "base_span": "དྲིས་ལན་དགུ་པ།",
+        "category": "small heading; value unresolved",
+        "neighboring_context": "Between འགྱུར་བྱེད་དོ and ལེའུ་བརྗོད.",
+        "approximate_native_bounds": [
+          2155,
+          350,
+          2300,
+          409
+        ],
+        "confidence": {
+          "lexical": "medium for label; low for ending",
+          "alignment": "high",
+          "layer": "high",
+          "graphics": "low for ending"
+        },
+        "rationale": "The heading is physically present; its number or ordinal is left unread."
+      },
+      "coordinator_scope": "Viewed each native target overview and both overlapping full-height native columns from the hash-checked published export. Inspected the faint note regions, gray obscuration at U00668 and whole-interval boundary examples. The separate reader’s qualified transcription is retained; no unread component is adopted from the base."
+    }
+  },
+  {
+    "id": "DG-COV1-B08-Q12-02",
+    "witness": "Degé",
+    "units": [
+      "U00554"
+    ],
+    "base_snippet_at_review": "སྐྱོད་བྱེད་འཕན་གྱིས་རབ་ཏུ་བཀླུབས། །",
+    "comparison_reading": "[Q12-02] Read the initial stacked syllable and its following separator before བྱེད་.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 12; source-member and native bounds in linked packet; bounds: [435, 237, 515, 294]",
+    "rationale": "Read the initial stacked syllable and its following separator before བྱེད་. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve local Degé readings, source layers and unresolved letters separately; do not reconstruct faint text, expand ordinals or infer global absence.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p012-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p012-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p012-x1494-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B08-P0012-0014",
+      "baseline_commit": "bf5cb489adbfc9556a4a337c21d973d3bfa52380",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt",
+        "sha256": "580b8191eab3dba635e7d7612fae80f728eb25e25f3a0878a8c418eee065f4c0"
+      },
+      "observation": {
+        "id": "Q12-02",
+        "pdf_page": 12,
+        "anchors": [
+          "U00554"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q12-02] Read the initial stacked syllable and its following separator before བྱེད་.",
+        "base_span": "སྐྱོད་བྱེད་འཕན་གྱིས་རབ་ཏུ་བཀླུབས། །",
+        "approximate_native_bounds": [
+          435,
+          237,
+          515,
+          294
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the initial stacked syllable and its following separator before བྱེད་."
+      },
+      "coordinator_scope": "Viewed each native target overview and both overlapping full-height native columns from the hash-checked published export. Inspected the faint note regions, gray obscuration at U00668 and whole-interval boundary examples. The separate reader’s qualified transcription is retained; no unread component is adopted from the base."
+    }
+  },
+  {
+    "id": "DG-COV1-B08-Q12-03",
+    "witness": "Degé",
+    "units": [
+      "U00568"
+    ],
+    "base_snippet_at_review": "རིན་ཆེན་ཐལ་བ་ཞེས་བྱ་ན། །",
+    "comparison_reading": "[Q12-03] Read the final component after ཞེས་བྱ་ before the upright boundary.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 12; source-member and native bounds in linked packet; bounds: [610, 337, 661, 394]",
+    "rationale": "Read the final component after ཞེས་བྱ་ before the upright boundary. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve local Degé readings, source layers and unresolved letters separately; do not reconstruct faint text, expand ordinals or infer global absence.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p012-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p012-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p012-x1494-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B08-P0012-0014",
+      "baseline_commit": "bf5cb489adbfc9556a4a337c21d973d3bfa52380",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt",
+        "sha256": "580b8191eab3dba635e7d7612fae80f728eb25e25f3a0878a8c418eee065f4c0"
+      },
+      "observation": {
+        "id": "Q12-03",
+        "pdf_page": 12,
+        "anchors": [
+          "U00568"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q12-03] Read the final component after ཞེས་བྱ་ before the upright boundary.",
+        "base_span": "རིན་ཆེན་ཐལ་བ་ཞེས་བྱ་ན། །",
+        "approximate_native_bounds": [
+          610,
+          337,
+          661,
+          394
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the final component after ཞེས་བྱ་ before the upright boundary."
+      },
+      "coordinator_scope": "Viewed each native target overview and both overlapping full-height native columns from the hash-checked published export. Inspected the faint note regions, gray obscuration at U00668 and whole-interval boundary examples. The separate reader’s qualified transcription is retained; no unread component is adopted from the base."
+    }
+  },
+  {
+    "id": "DG-COV1-B08-Q12-05",
+    "witness": "Degé",
+    "units": [
+      "U00578"
+    ],
+    "base_snippet_at_review": "འོད་ཀྱིས་ཁེངས་ཤིང་ཙནྡན་དྲི། །",
+    "comparison_reading": "[Q12-05] Read the exact letters, stacking and separators between ཤིང་ and དྲི.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 12; source-member and native bounds in linked packet; bounds: [1625, 360, 1715, 415]",
+    "rationale": "Read the exact letters, stacking and separators between ཤིང་ and དྲི. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve local Degé readings, source layers and unresolved letters separately; do not reconstruct faint text, expand ordinals or infer global absence.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p012-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p012-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p012-x1494-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B08-P0012-0014",
+      "baseline_commit": "bf5cb489adbfc9556a4a337c21d973d3bfa52380",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt",
+        "sha256": "580b8191eab3dba635e7d7612fae80f728eb25e25f3a0878a8c418eee065f4c0"
+      },
+      "observation": {
+        "id": "Q12-05",
+        "pdf_page": 12,
+        "anchors": [
+          "U00578"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q12-05] Read the exact letters, stacking and separators between ཤིང་ and དྲི.",
+        "base_span": "འོད་ཀྱིས་ཁེངས་ཤིང་ཙནྡན་དྲི། །",
+        "approximate_native_bounds": [
+          1625,
+          360,
+          1715,
+          415
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the exact letters, stacking and separators between ཤིང་ and དྲི."
+      },
+      "coordinator_scope": "Viewed each native target overview and both overlapping full-height native columns from the hash-checked published export. Inspected the faint note regions, gray obscuration at U00668 and whole-interval boundary examples. The separate reader’s qualified transcription is retained; no unread component is adopted from the base."
+    }
+  },
+  {
+    "id": "DG-COV1-B08-Q13-01",
+    "witness": "Degé",
+    "units": [
+      "U00595"
+    ],
+    "base_snippet_at_review": "སྟོན་པའི་བསྟན་པ་ལུང་གིས་བསྐོར། །",
+    "comparison_reading": "[Q13-01] Read the faint terminal row-1 syllables after སྟོན་པའི་བསྟན་པ་ and before row 2's བསྐོར.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 13; source-member and native bounds in linked packet; bounds: [2820, 122, 2990, 175]",
+    "rationale": "Read the faint terminal row-1 syllables after སྟོན་པའི་བསྟན་པ་ and before row 2's བསྐོར. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve local Degé readings, source layers and unresolved letters separately; do not reconstruct faint text, expand ordinals or infer global absence.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-x1476-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B08-P0012-0014",
+      "baseline_commit": "bf5cb489adbfc9556a4a337c21d973d3bfa52380",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt",
+        "sha256": "580b8191eab3dba635e7d7612fae80f728eb25e25f3a0878a8c418eee065f4c0"
+      },
+      "observation": {
+        "id": "Q13-01",
+        "pdf_page": 13,
+        "anchors": [
+          "U00595"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q13-01] Read the faint terminal row-1 syllables after སྟོན་པའི་བསྟན་པ་ and before row 2's བསྐོར.",
+        "base_span": "སྟོན་པའི་བསྟན་པ་ལུང་གིས་བསྐོར། །",
+        "approximate_native_bounds": [
+          2820,
+          122,
+          2990,
+          175
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the faint terminal row-1 syllables after སྟོན་པའི་བསྟན་པ་ and before row 2's བསྐོར."
+      },
+      "coordinator_scope": "Viewed each native target overview and both overlapping full-height native columns from the hash-checked published export. Inspected the faint note regions, gray obscuration at U00668 and whole-interval boundary examples. The separate reader’s qualified transcription is retained; no unread component is adopted from the base."
+    }
+  },
+  {
+    "id": "DG-COV1-B08-Q13-03",
+    "witness": "Degé",
+    "units": [
+      "U00603"
+    ],
+    "base_snippet_at_review": "སྐྱོན་བསལ་བསྒྲུབ་དང་འགལ་བ་སྤང་། །",
+    "comparison_reading": "[Q13-03] Read the final row-2 word after སྐྱོན་བསལ་ before the continuation དང་འགལ་བ་སྤང.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 13; source-member and native bounds in linked packet; bounds: [2890, 175, 2990, 224]",
+    "rationale": "Read the final row-2 word after སྐྱོན་བསལ་ before the continuation དང་འགལ་བ་སྤང. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve local Degé readings, source layers and unresolved letters separately; do not reconstruct faint text, expand ordinals or infer global absence.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-x1476-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B08-P0012-0014",
+      "baseline_commit": "bf5cb489adbfc9556a4a337c21d973d3bfa52380",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt",
+        "sha256": "580b8191eab3dba635e7d7612fae80f728eb25e25f3a0878a8c418eee065f4c0"
+      },
+      "observation": {
+        "id": "Q13-03",
+        "pdf_page": 13,
+        "anchors": [
+          "U00603"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q13-03] Read the final row-2 word after སྐྱོན་བསལ་ before the continuation དང་འགལ་བ་སྤང.",
+        "base_span": "སྐྱོན་བསལ་བསྒྲུབ་དང་འགལ་བ་སྤང་། །",
+        "approximate_native_bounds": [
+          2890,
+          175,
+          2990,
+          224
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the final row-2 word after སྐྱོན་བསལ་ before the continuation དང་འགལ་བ་སྤང."
+      },
+      "coordinator_scope": "Viewed each native target overview and both overlapping full-height native columns from the hash-checked published export. Inspected the faint note regions, gray obscuration at U00668 and whole-interval boundary examples. The separate reader’s qualified transcription is retained; no unread component is adopted from the base."
+    }
+  },
+  {
+    "id": "DG-COV1-B08-Q13-05",
+    "witness": "Degé",
+    "units": [
+      "U00627"
+    ],
+    "base_snippet_at_review": "གཏན་ཚིགས་འཁོར་ལོ་འོག་དང་སྟེང་། །",
+    "comparison_reading": "[Q13-05] Read the faint middle of the phrase after གཏན་ཚིགས་ and before དང་སྟེང.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 13; source-member and native bounds in linked packet; bounds: [1880, 365, 2080, 422]",
+    "rationale": "Read the faint middle of the phrase after གཏན་ཚིགས་ and before དང་སྟེང. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve local Degé readings, source layers and unresolved letters separately; do not reconstruct faint text, expand ordinals or infer global absence.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p013-x1476-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B08-P0012-0014",
+      "baseline_commit": "bf5cb489adbfc9556a4a337c21d973d3bfa52380",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt",
+        "sha256": "580b8191eab3dba635e7d7612fae80f728eb25e25f3a0878a8c418eee065f4c0"
+      },
+      "observation": {
+        "id": "Q13-05",
+        "pdf_page": 13,
+        "anchors": [
+          "U00627"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q13-05] Read the faint middle of the phrase after གཏན་ཚིགས་ and before དང་སྟེང.",
+        "base_span": "གཏན་ཚིགས་འཁོར་ལོ་འོག་དང་སྟེང་། །",
+        "approximate_native_bounds": [
+          1880,
+          365,
+          2080,
+          422
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the faint middle of the phrase after གཏན་ཚིགས་ and before དང་སྟེང."
+      },
+      "coordinator_scope": "Viewed each native target overview and both overlapping full-height native columns from the hash-checked published export. Inspected the faint note regions, gray obscuration at U00668 and whole-interval boundary examples. The separate reader’s qualified transcription is retained; no unread component is adopted from the base."
+    }
+  },
+  {
+    "id": "DG-COV1-B08-Q14-01",
+    "witness": "Degé",
+    "units": [
+      "U00660"
+    ],
+    "base_snippet_at_review": "འགྱུར་བའི་དུས་ཚོད་མཁས་པས་བཟུང་། །",
+    "comparison_reading": "[Q14-01] Read the terminal letters after མཁས་ before the boundary preceding རླུང་མེ་.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 14; source-member and native bounds in linked packet; bounds: [1740, 265, 1868, 319]",
+    "rationale": "Read the terminal letters after མཁས་ before the boundary preceding རླུང་མེ་. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve local Degé readings, source layers and unresolved letters separately; do not reconstruct faint text, expand ordinals or infer global absence.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p014-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p014-x1491-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B08-P0012-0014",
+      "baseline_commit": "bf5cb489adbfc9556a4a337c21d973d3bfa52380",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt",
+        "sha256": "580b8191eab3dba635e7d7612fae80f728eb25e25f3a0878a8c418eee065f4c0"
+      },
+      "observation": {
+        "id": "Q14-01",
+        "pdf_page": 14,
+        "anchors": [
+          "U00660"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q14-01] Read the terminal letters after མཁས་ before the boundary preceding རླུང་མེ་.",
+        "base_span": "འགྱུར་བའི་དུས་ཚོད་མཁས་པས་བཟུང་། །",
+        "approximate_native_bounds": [
+          1740,
+          265,
+          1868,
+          319
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the terminal letters after མཁས་ before the boundary preceding རླུང་མེ་."
+      },
+      "coordinator_scope": "Viewed each native target overview and both overlapping full-height native columns from the hash-checked published export. Inspected the faint note regions, gray obscuration at U00668 and whole-interval boundary examples. The separate reader’s qualified transcription is retained; no unread component is adopted from the base."
+    }
+  },
+  {
+    "id": "DG-COV1-B08-Q14-02",
+    "witness": "Degé",
+    "units": [
+      "U00674"
+    ],
+    "base_snippet_at_review": "ལུང་སྡེབ་ཡ་སྡེབ་སྡོམ་གཅིག་པ། །",
+    "comparison_reading": "[Q14-02] Read the initial syllable and separator before སྡེབ་ཡ་སྡེབ་.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 14; source-member and native bounds in linked packet; bounds: [1380, 360, 1460, 414]",
+    "rationale": "Read the initial syllable and separator before སྡེབ་ཡ་སྡེབ་. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve local Degé readings, source layers and unresolved letters separately; do not reconstruct faint text, expand ordinals or infer global absence.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p014-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p014-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/p014-x1491-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B08-P0012-0014",
+      "baseline_commit": "bf5cb489adbfc9556a4a337c21d973d3bfa52380",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt",
+        "sha256": "580b8191eab3dba635e7d7612fae80f728eb25e25f3a0878a8c418eee065f4c0"
+      },
+      "observation": {
+        "id": "Q14-02",
+        "pdf_page": 14,
+        "anchors": [
+          "U00674"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q14-02] Read the initial syllable and separator before སྡེབ་ཡ་སྡེབ་.",
+        "base_span": "ལུང་སྡེབ་ཡ་སྡེབ་སྡོམ་གཅིག་པ། །",
+        "approximate_native_bounds": [
+          1380,
+          360,
+          1460,
+          414
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the initial syllable and separator before སྡེབ་ཡ་སྡེབ་."
+      },
+      "coordinator_scope": "Viewed each native target overview and both overlapping full-height native columns from the hash-checked published export. Inspected the faint note regions, gray obscuration at U00668 and whole-interval boundary examples. The separate reader’s qualified transcription is retained; no unread component is adopted from the base."
+    }
   }
 ]

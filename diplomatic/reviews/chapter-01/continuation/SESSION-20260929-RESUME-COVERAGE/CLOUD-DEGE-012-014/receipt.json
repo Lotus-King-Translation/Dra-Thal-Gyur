@@ -1,0 +1,77 @@
+{
+  "baseline_commit": "bf5cb489adbfc9556a4a337c21d973d3bfa52380",
+  "request": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/CLOUD-RUN.json",
+  "request_sha256": "962f80f488d9610af93d62928dfdd751c6a51103f55de37116b1460657c9b363",
+  "status": "integrated_and_structurally_validated_publication_pending",
+  "chapter_complete": false,
+  "integration": {
+    "verified_reader": {
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt",
+      "sha256": "580b8191eab3dba635e7d7612fae80f728eb25e25f3a0878a8c418eee065f4c0",
+      "images_hash_verified": 13,
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-execution.json"
+    },
+    "new_record_ids": [
+      "DG-COV1-B08-O12-03",
+      "DG-COV1-B08-O12-05",
+      "DG-COV1-B08-O12-06",
+      "DG-COV1-B08-O13-01",
+      "DG-COV1-B08-O13-02",
+      "DG-COV1-B08-O13-03",
+      "DG-COV1-B08-O13-04",
+      "DG-COV1-B08-O13-05",
+      "DG-COV1-B08-O13-06",
+      "DG-COV1-B08-O13-07",
+      "DG-COV1-B08-O14-02",
+      "DG-COV1-B08-O14-03",
+      "DG-COV1-B08-O14-04",
+      "DG-COV1-B08-O14-05",
+      "DG-COV1-B08-Q12-02",
+      "DG-COV1-B08-Q12-03",
+      "DG-COV1-B08-Q12-05",
+      "DG-COV1-B08-Q13-01",
+      "DG-COV1-B08-Q13-03",
+      "DG-COV1-B08-Q13-05",
+      "DG-COV1-B08-Q14-01",
+      "DG-COV1-B08-Q14-02"
+    ],
+    "previous_records_unchanged": 570,
+    "all_2635_source_and_reading_strings_unchanged": true,
+    "all_insertions_and_interventions_unchanged": true,
+    "chapter_complete": false
+  },
+  "validation": {
+    "scope": "Chapter 1 structural and preservation checks; not a complete-witness certificate",
+    "source_hashes_unchanged": true,
+    "exact_reconstruction_checks": [
+      "minimal_B_exact",
+      "minimal_S_exact",
+      "whole_unit_B_exact",
+      "whole_unit_S_exact"
+    ],
+    "base_units_accounted_for": 2635,
+    "curated_replacement_anchors": 84,
+    "scan_intervention_records": 88,
+    "restored_main_verses": 13,
+    "abc_exact_conflicts": 359,
+    "abc_readable_loci": 183,
+    "local_comparison_findings_including_candidates": 592,
+    "archival_files_hash_checked": 669,
+    "original_manifest_files_hash_checked": 2,
+    "historical_markdown_files_integrity_checked_not_link_checked": 37,
+    "active_local_markdown_links_resolve": true,
+    "local_links_checked": 6949,
+    "evidence_references_checked": 3170,
+    "continuation_metadata_matches": true,
+    "chapter_complete": false,
+    "all_witnesses_collated": false,
+    "next_chapter_started": false,
+    "markdown_sha256": "82d2f49187c1cfe7313c83ebb0d0e52cfa650c3e1eb811d7d6822bf143850a54",
+    "work_queue": {
+      "tasks_checked": 22,
+      "punctuation_candidates_tracked": 30,
+      "punctuation_candidates_unfinished": 1,
+      "next_task_id": "C1-THARPALING"
+    }
+  }
+}

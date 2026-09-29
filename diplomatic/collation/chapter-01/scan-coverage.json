@@ -7902,6 +7902,412 @@
       },
       "next_physical_span": "Reconcile the already launched B11/PDF27–29 results when the Mac is readable; do not relaunch blindly. Its entry is U00782 completion འགྱུར, then U00783 དེ་ཡི་ཡོན་བདག. Retain Q24-01 through Q26-M2 and their exact bounds.",
       "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-DEGE",
+      "batch_id": "B08-P0012-0014",
+      "target_pages": [
+        12,
+        13,
+        14
+      ],
+      "report": "reviews/chapter-01/continuation/C1-DEGE.json",
+      "summary": "Degé PDF12–14 integrated: twenty-one source-ordered rows, fourteen scoped graphic/layer or uncertainty observations and eight separately indexed lexical questions. All twenty-eight Q entries remain explicit.",
+      "rows_reported": 21,
+      "canonical_record_ids": [
+        "DG-COV1-B08-O12-03",
+        "DG-COV1-B08-O12-05",
+        "DG-COV1-B08-O12-06",
+        "DG-COV1-B08-O13-01",
+        "DG-COV1-B08-O13-02",
+        "DG-COV1-B08-O13-03",
+        "DG-COV1-B08-O13-04",
+        "DG-COV1-B08-O13-05",
+        "DG-COV1-B08-O13-06",
+        "DG-COV1-B08-O13-07",
+        "DG-COV1-B08-O14-02",
+        "DG-COV1-B08-O14-03",
+        "DG-COV1-B08-O14-04",
+        "DG-COV1-B08-O14-05",
+        "DG-COV1-B08-Q12-02",
+        "DG-COV1-B08-Q12-03",
+        "DG-COV1-B08-Q12-05",
+        "DG-COV1-B08-Q13-01",
+        "DG-COV1-B08-Q13-03",
+        "DG-COV1-B08-Q13-05",
+        "DG-COV1-B08-Q14-01",
+        "DG-COV1-B08-Q14-02"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "target_pages_inspected": [
+          12,
+          13,
+          14
+        ],
+        "target_rows_inspected": 21,
+        "target_rows_recorded": 21,
+        "image_access_failure": null,
+        "completion": "Every target physical row traversed left to right; local unread components remain explicitly Q-coded.",
+        "certainty_limit": "Readable neighboring text does not certify Q-coded letters, heading values or graphic allocations.",
+        "review_status": "Informed independent model reading, not blind review or credentialed human palaeography.",
+        "prior_coverage": "No replacement or recertification of an earlier lexical pass.",
+        "certification": "No complete chapter or witness certification."
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q12-01",
+          "pdf_page": 12,
+          "anchor": "U00540",
+          "native_bounds": [
+            862,
+            123,
+            957,
+            191
+          ],
+          "exact_question": "What terminal letters occur after ཞེས་ and before the boundary ink?"
+        },
+        {
+          "id": "Q12-S01",
+          "pdf_page": 12,
+          "anchor": "U00540/U00541",
+          "native_bounds": [
+            943,
+            128,
+            998,
+            192
+          ],
+          "exact_question": "Which extended strokes are detached boundary components, and which belong to adjacent letters; how many independent bars or tiers are present?"
+        },
+        {
+          "id": "Q12-02",
+          "pdf_page": 12,
+          "anchor": "U00554",
+          "native_bounds": [
+            435,
+            237,
+            515,
+            294
+          ],
+          "exact_question": "Read the initial stacked syllable and its following separator before བྱེད་."
+        },
+        {
+          "id": "Q12-03",
+          "pdf_page": 12,
+          "anchor": "U00568",
+          "native_bounds": [
+            610,
+            337,
+            661,
+            394
+          ],
+          "exact_question": "Read the final component after ཞེས་བྱ་ before the upright boundary."
+        },
+        {
+          "id": "Q12-04",
+          "pdf_page": 12,
+          "anchor": "U00577",
+          "native_bounds": [
+            1140,
+            367,
+            1325,
+            428
+          ],
+          "exact_question": "Read the faint main-text interval between མཆོད་ and ལྷ་མོར་བཅས."
+        },
+        {
+          "id": "Q12-05",
+          "pdf_page": 12,
+          "anchor": "U00578",
+          "native_bounds": [
+            1625,
+            360,
+            1715,
+            415
+          ],
+          "exact_question": "Read the exact letters, stacking and separators between ཤིང་ and དྲི."
+        },
+        {
+          "id": "Q12-M01",
+          "pdf_page": 12,
+          "anchor": null,
+          "native_bounds": [
+            373,
+            269,
+            424,
+            336
+          ],
+          "exact_question": "Read the small left marginal label without deriving its value from the PDF page number."
+        },
+        {
+          "id": "Q13-01",
+          "pdf_page": 13,
+          "anchor": "U00595",
+          "native_bounds": [
+            2820,
+            122,
+            2990,
+            175
+          ],
+          "exact_question": "Read the faint terminal row-1 syllables after སྟོན་པའི་བསྟན་པ་ and before row 2's བསྐོར."
+        },
+        {
+          "id": "Q13-02",
+          "pdf_page": 13,
+          "anchor": "U00596",
+          "native_bounds": [
+            771,
+            158,
+            854,
+            217
+          ],
+          "exact_question": "Read the main-text ending after ཀླུ་ཡི་ independently of the smaller note beneath it."
+        },
+        {
+          "id": "Q13-03",
+          "pdf_page": 13,
+          "anchor": "U00603",
+          "native_bounds": [
+            2890,
+            175,
+            2990,
+            224
+          ],
+          "exact_question": "Read the final row-2 word after སྐྱོན་བསལ་ before the continuation དང་འགལ་བ་སྤང."
+        },
+        {
+          "id": "Q13-04",
+          "pdf_page": 13,
+          "anchor": "U00620",
+          "native_bounds": [
+            1930,
+            320,
+            2030,
+            373
+          ],
+          "exact_question": "Read the faint lexical component between དེ་ཡི་ and རྣམས་."
+        },
+        {
+          "id": "Q13-05",
+          "pdf_page": 13,
+          "anchor": "U00627",
+          "native_bounds": [
+            1880,
+            365,
+            2080,
+            422
+          ],
+          "exact_question": "Read the faint middle of the phrase after གཏན་ཚིགས་ and before དང་སྟེང."
+        },
+        {
+          "id": "Q13-06",
+          "pdf_page": 13,
+          "anchor": "U00632",
+          "native_bounds": [
+            1200,
+            405,
+            1400,
+            460
+          ],
+          "exact_question": "Read the main-size letters between མ་དག་ and ཡེ་ཤེས་སོ, excluding smaller interleaved ink and the dotted guide."
+        },
+        {
+          "id": "Q13-N01",
+          "pdf_page": 13,
+          "anchor": "U00596:note",
+          "native_bounds": [
+            674,
+            214,
+            748,
+            249
+          ],
+          "exact_question": "Read the small-note component between གླུ་ཡང་ and the following ཡང་བྱུང."
+        },
+        {
+          "id": "Q13-N02",
+          "pdf_page": 13,
+          "anchor": "U00632:note",
+          "native_bounds": [
+            1250,
+            402,
+            1405,
+            435
+          ],
+          "exact_question": "Which letters belong to the smaller interleaved note, and what do they read independently of the main-size line?"
+        },
+        {
+          "id": "Q13-H01",
+          "pdf_page": 13,
+          "anchor": "U00598",
+          "native_bounds": [
+            1305,
+            162,
+            1367,
+            206
+          ],
+          "exact_question": "Read the heading's component after དྲིས་ལན་ and its terminal sign without inferring the reply number."
+        },
+        {
+          "id": "Q13-H02",
+          "pdf_page": 13,
+          "anchor": "U00624",
+          "native_bounds": [
+            1045,
+            359,
+            1116,
+            402
+          ],
+          "exact_question": "Read the heading's component after དྲིས་ལན་ and its terminal sign without inferring the reply number."
+        },
+        {
+          "id": "Q13-S01",
+          "pdf_page": 13,
+          "anchor": "U00619/U00620",
+          "native_bounds": [
+            1835,
+            315,
+            1903,
+            379
+          ],
+          "exact_question": "Inventory all ink between final ལ and initial དེ་ཡི: distinguish detached uprights and tiered components from attached letter limbs."
+        },
+        {
+          "id": "Q13-M01",
+          "pdf_page": 13,
+          "anchor": null,
+          "native_bounds": [
+            410,
+            121,
+            460,
+            161
+          ],
+          "exact_question": "Read the isolated upper left marginal glyph; is it a letter, numeral or nonlexical sign?"
+        },
+        {
+          "id": "Q13-M02",
+          "pdf_page": 13,
+          "anchor": null,
+          "native_bounds": [
+            412,
+            218,
+            456,
+            287
+          ],
+          "exact_question": "Read the middle left marginal label in its physical orientation."
+        },
+        {
+          "id": "Q13-M03",
+          "pdf_page": 13,
+          "anchor": null,
+          "native_bounds": [
+            407,
+            319,
+            456,
+            387
+          ],
+          "exact_question": "Read the lower left marginal label without assigning an expected folio value."
+        },
+        {
+          "id": "Q14-01",
+          "pdf_page": 14,
+          "anchor": "U00660",
+          "native_bounds": [
+            1740,
+            265,
+            1868,
+            319
+          ],
+          "exact_question": "Read the terminal letters after མཁས་ before the boundary preceding རླུང་མེ་."
+        },
+        {
+          "id": "Q14-02",
+          "pdf_page": 14,
+          "anchor": "U00674",
+          "native_bounds": [
+            1380,
+            360,
+            1460,
+            414
+          ],
+          "exact_question": "Read the initial syllable and separator before སྡེབ་ཡ་སྡེབ་."
+        },
+        {
+          "id": "Q14-03",
+          "pdf_page": 14,
+          "anchor": "U00668",
+          "native_bounds": [
+            1808,
+            310,
+            1940,
+            365
+          ],
+          "exact_question": "Read the letters affected by the gray patch after འཕྲོ་ and before the clear དང་མཆེད་པ་དང."
+        },
+        {
+          "id": "Q14-N01",
+          "pdf_page": 14,
+          "anchor": "U00651:note",
+          "native_bounds": [
+            680,
+            277,
+            742,
+            307
+          ],
+          "exact_question": "Read the small-note ending after བྱས་ཀྱང་."
+        },
+        {
+          "id": "Q14-H01",
+          "pdf_page": 14,
+          "anchor": "U00655",
+          "native_bounds": [
+            2234,
+            218,
+            2285,
+            255
+          ],
+          "exact_question": "Read the heading's component after དྲིས་ལན་ and its terminal sign without deriving a numeral from reply order."
+        },
+        {
+          "id": "Q14-H02",
+          "pdf_page": 14,
+          "anchor": "U00676",
+          "native_bounds": [
+            2210,
+            367,
+            2263,
+            402
+          ],
+          "exact_question": "Read the heading's component after དྲིས་ལན་ and its terminal sign without deriving a numeral from reply order."
+        },
+        {
+          "id": "Q14-M01",
+          "pdf_page": 14,
+          "anchor": null,
+          "native_bounds": [
+            373,
+            270,
+            425,
+            338
+          ],
+          "exact_question": "Read the small left marginal label without assigning an expected folio value."
+        }
+      ],
+      "unexamined_spans": {
+        "actual_target_omissions": [],
+        "deliberately_excluded_flanks": [
+          {
+            "pdf_page": 11,
+            "scope": "Full lexical collation excluded; only the final incoming words and their position were used."
+          },
+          {
+            "pdf_page": 15,
+            "scope": "Full lexical collation excluded; only the initial continuation ཤེས་བཀོད་པ་ལ and its position were used."
+          }
+        ],
+        "inspected_but_unresolved": "The explicitly bounded Q components above; these are not unexamined rows."
+      },
+      "next_physical_span": "Reconcile the already launched B09/PDF15–17 results after preserving any later Mac outputs. Entry is U00685 continuation ཤེས་བཀོད་པ་ལ. Retain Q12-01 through Q14-M01 and exact physical note/guide separations; do not relaunch blindly or certify unexamined pages.",
+      "reader_claims_require_coordinator_dispositions": true
     }
   ]
 }

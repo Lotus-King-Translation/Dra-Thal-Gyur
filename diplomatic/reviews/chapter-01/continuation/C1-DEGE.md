@@ -85,3 +85,15 @@ Nine source-layer/graphic/uncertainty observations are indexed together with fou
 **Remaining:** Continue Degé PDF12 row1 at U00539 continuation རྟེན་བྱང་ཤར་མཚམས, following PDF11 འདི་ནས་འཇིག. Keep all Q9/Q10/Q11, filler and graphic limits visible.
 
 The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.
+
+## B08-P0012-0014 — preserved review integrated
+
+Degé PDF12–14 integrated: twenty-one source-ordered rows, fourteen scoped graphic/layer or uncertainty observations and eight separately indexed lexical questions. All twenty-eight Q entries remain explicit.
+
+[Unchanged raw report](C1-DEGE-B08-P0012-0014-reader-reading.txt) · [Exact source and rows](C1-DEGE.json).
+
+The smaller notes at U00596/U00626/U00632/U00651 retain their actual displaced positions. Four readable reply-heading labels retain unresolved endings, not expected ordinals. Filler trains inside U00560/U00650/U00678 are not verse punctuation. U00542 spras corresponds to the corrected base and is not counted again as a variant.
+
+**Remaining:** Reconcile the already launched B09/PDF15–17 results after preserving any later Mac outputs. Entry is U00685 continuation ཤེས་བཀོད་པ་ལ. Retain Q12-01 through Q14-M01 and exact physical note/guide separations; do not relaunch blindly or certify unexamined pages.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.

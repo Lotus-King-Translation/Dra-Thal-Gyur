@@ -4,7 +4,7 @@
   "canonical_branch": "main",
   "current_chapter": 1,
   "chapter_status": "in_progress_not_ready",
-  "next_task_id": "C1-DEGE",
+  "next_task_id": "C1-THARPALING",
   "path_base": "repository root; JSON pointers identify records without changing their historical contents",
   "scope": "Continuation queue, not a whole-chapter collation claim. Thirty punctuation candidate identities remain tracked, including completed dispositions; unfinished items are hypotheses, not accepted readings. Existing Adzom and Dzongsar main lexical passes remain valid within their recorded scopes.",
   "reference_paths": [
@@ -915,7 +915,7 @@
       "id": "C1-DEGE",
       "kind": "witness_coverage",
       "status": "in_progress",
-      "owner": "coordinator-with-disjoint-bounded-readers",
+      "owner": "ChatGPT-coordinator-20260929-integration",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -943,10 +943,10 @@
       "blocker": null,
       "dependency_policy": "preferred_order",
       "current_wave_id": "CONTINUE2-W03",
-      "current_batch_id": "B08-P0012-0014",
+      "current_batch_id": null,
       "bounded_parallel_policy": "One distinct bounded task per reader; no more than five source pages including flanks. Only the coordinator publishes after readers pause; no automatic adoption.",
-      "next_step": "Continue Degé PDF12 row1 at U00539 continuation རྟེན་བྱང་ཤར་མཚམས, following PDF11 འདི་ནས་འཇིག. Keep all Q9/Q10/Q11, filler and graphic limits visible.",
-      "last_integrated_batch_id": "B07-P0009-0011",
+      "next_step": "Reconcile the already launched B09/PDF15–17 results after preserving any later Mac outputs. Entry is U00685 continuation ཤེས་བཀོད་པ་ལ. Retain Q12-01 through Q14-M01 and exact physical note/guide separations; do not relaunch blindly or certify unexamined pages.",
+      "last_integrated_batch_id": "B08-P0012-0014",
       "current_claims": [
         {
           "batch_id": "B08-P0012-0014",
