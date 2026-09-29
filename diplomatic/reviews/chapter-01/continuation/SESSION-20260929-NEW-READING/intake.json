@@ -1,0 +1,433 @@
+{
+  "date": "2026-09-29T16:00:02.468446+03:00",
+  "source_packet_commit": "c04c61f396aba4c53418acb9e27bab9ea864a709",
+  "readers": [
+    {
+      "task_id": "C1-TINGKYE",
+      "batch_id": "B09-P0011-0013",
+      "target_pages": [
+        11,
+        12,
+        13
+      ],
+      "source_pages": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "verified_inputs": {
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+        "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba",
+        "images_hash_verified": 16,
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-execution.json"
+      },
+      "rows_reported_by_page": {
+        "11": 7,
+        "12": 7,
+        "13": 7
+      },
+      "observation_count": 43,
+      "coverage_assessment": {
+        "image_access_failure": null,
+        "target_pages_inspected": 3,
+        "target_main_rows_inspected": 21,
+        "row_traversal": "All seven physical rows on each target page inspected left to right; native layouts established before crop use.",
+        "result": "Continuous reading supplied through PDF13 row7, with local lexical and graphic uncertainties retained in position.",
+        "limitations": "An informed independent model reading with the base visible, not blind review or credentialed human palaeography. Medium-confidence readings and Q items require further checking; complete glyph-level resolution is not claimed.",
+        "provenance": "Attachment identifiers and coordinate dimensions are supplied metadata; hashes were not independently verified.",
+        "certification": "No complete chapter or witness certification."
+      },
+      "unexamined_spans": {
+        "actual_target_omissions": [],
+        "deliberately_excluded_flanks": [
+          {
+            "pdf_page": 10,
+            "scope": "All text except the immediate row7 incoming context ending མཚན་བསྟན; full-page view used for layout."
+          },
+          {
+            "pdf_page": 14,
+            "scope": "All text except the immediate row1 outgoing context beginning གནས་དང་འབྱེད་དང; full-page view used for layout."
+          }
+        ],
+        "distinction": "Q components were inspected and remain unresolved; they are not unexamined rows."
+      },
+      "coordinator_adopted": false,
+      "serialization_repair_receipt": null
+    },
+    {
+      "task_id": "C1-TSAMDRAK",
+      "batch_id": "B09-P0021-0023",
+      "target_pages": [
+        21,
+        22,
+        23
+      ],
+      "source_pages": [
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "verified_inputs": {
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4",
+        "images_hash_verified": 16,
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-execution.json"
+      },
+      "rows_reported_by_page": {
+        "21": 7,
+        "22": 7,
+        "23": 7
+      },
+      "observation_count": 19,
+      "coverage_assessment": {
+        "target_pages_inspected": [
+          21,
+          22,
+          23
+        ],
+        "main_rows_inspected": 21,
+        "main_rows_returned": 21,
+        "non_main_regions_inspected": true,
+        "unresolved_components": 16,
+        "source_order_findings": [
+          {
+            "pdf_page": 23,
+            "anchors": [
+              "U00649"
+            ],
+            "source_span": "ཚིག་ལ་འཇུག",
+            "base_span": "ཚིག་དང་འཇུག",
+            "category": "particle_difference",
+            "neighboring_context": "After ལམ་དང་གནས་ཏེ.",
+            "approximate_native_bounds": [
+              1400,
+              165,
+              1730,
+              305
+            ],
+            "confidence": {
+              "lexical": "medium-high",
+              "order": "high",
+              "layer": "high"
+            },
+            "rationale": "Read ལ directly; retain the source construction."
+          },
+          {
+            "pdf_page": 23,
+            "anchors": [
+              "U00651"
+            ],
+            "source_span": "བྱས་དང་བྱུང་དང་བྱེད་པ་དང",
+            "base_span": "གནས་དང་བྱུང་དང་བྱེད་པ་དང",
+            "category": "lexical_difference",
+            "neighboring_context": "Between U00650 and U00652.",
+            "approximate_native_bounds": [
+              2420,
+              175,
+              3150,
+              315
+            ],
+            "confidence": {
+              "lexical": "medium-high",
+              "order": "high",
+              "layer": "high"
+            },
+            "rationale": "The first word is read བྱས. The base's separate བྱས་ཀྱང་འདུག note is not inserted."
+          },
+          {
+            "pdf_page": 23,
+            "anchors": [
+              "U00654"
+            ],
+            "source_span": "བྱ་རྒྱུ་རྣམས",
+            "base_span": "བྱ་བྱེད་རྒྱུ་རྣམས",
+            "category": "local_shorter_sequence",
+            "neighboring_context": "After U00653; before དེ་དག་གོ and Q13.",
+            "approximate_native_bounds": [
+              1120,
+              275,
+              1490,
+              400
+            ],
+            "confidence": {
+              "lexical": "medium",
+              "order": "high",
+              "layer": "high"
+            },
+            "rationale": "No separate བྱེད is read in this interval; no global absence or historical cause is inferred."
+          },
+          {
+            "pdf_page": 23,
+            "anchors": [
+              "U00662"
+            ],
+            "source_span": "མེ་རླུང་ཆུ་ས",
+            "base_span": "མེ་རླུང་ས་ཆུ",
+            "category": "element_order_difference",
+            "neighboring_context": "Followed by བཞི་གཉིས་འཁོར; next clause starts with row-final ས.",
+            "approximate_native_bounds": [
+              3030,
+              385,
+              3430,
+              528
+            ],
+            "confidence": {
+              "lexical": "medium",
+              "order": "medium-high",
+              "layer": "high"
+            },
+            "rationale": "The source order is retained rather than rearranged to the base."
+          },
+          {
+            "pdf_page": 23,
+            "anchors": [
+              "U00666"
+            ],
+            "source_span": "སྟོངས་པའི",
+            "base_span": "སྟོང་པའི",
+            "category": "spelling_difference",
+            "neighboring_context": "Followed by གནས་ཏེ་བརྒྱད་ཡིན་ནོ.",
+            "approximate_native_bounds": [
+              2320,
+              465,
+              2620,
+              613
+            ],
+            "confidence": {
+              "lexical": "medium",
+              "order": "high",
+              "layer": "high"
+            },
+            "rationale": "An s-ending is read and preserved."
+          },
+          {
+            "pdf_page": 23,
+            "anchors": [
+              "U00669"
+            ],
+            "source_span": "འདུ་དང",
+            "base_span": "འདུས་དང",
+            "category": "spelling_difference",
+            "neighboring_context": "After U00668; followed by རྟགས་ཏེ་འདི་རྣམས་ལ.",
+            "approximate_native_bounds": [
+              1450,
+              550,
+              1720,
+              682
+            ],
+            "confidence": {
+              "lexical": "medium",
+              "order": "high",
+              "layer": "high"
+            },
+            "rationale": "The source opening is read without a final s."
+          },
+          {
+            "pdf_page": 23,
+            "anchors": [
+              "U00670"
+            ],
+            "source_span": "འགྱུར་བྱེད་ལས",
+            "base_span": "འགྱུར་བྱེད་ལ",
+            "category": "terminal_word_difference",
+            "neighboring_context": "After འདྲེན་ཅིང་གནས་པ; before U00671.",
+            "approximate_native_bounds": [
+              2380,
+              552,
+              2890,
+              714
+            ],
+            "confidence": {
+              "lexical": "medium-high",
+              "order": "high",
+              "layer": "high"
+            },
+            "rationale": "The source terminal word is read ལས."
+          },
+          {
+            "pdf_page": 23,
+            "anchors": [
+              "U00671"
+            ],
+            "source_span": "རླུང་རླུང་ས་ས་མེ་མེ་ཆུ",
+            "base_span": "Same repeated sequence.",
+            "category": "repetition_preserved",
+            "neighboring_context": "Between U00670 and U00672.",
+            "approximate_native_bounds": [
+              2990,
+              565,
+              3460,
+              735
+            ],
+            "confidence": {
+              "lexical": "high",
+              "order": "high",
+              "layer": "high"
+            },
+            "rationale": "Repeated element names are source text, not crop-overlap duplication."
+          },
+          {
+            "pdf_page": 23,
+            "anchors": [
+              "U00678"
+            ],
+            "source_span": "བཀོད་པའི་མན་ངག",
+            "base_span": "བཀོད་པ་མན་ངག",
+            "category": "additional_genitive_component",
+            "neighboring_context": "སྣ་ཚོགས precedes; གནས follows.",
+            "approximate_native_bounds": [
+              980,
+              727,
+              1430,
+              866
+            ],
+            "confidence": {
+              "lexical": "medium-high",
+              "order": "high",
+              "layer": "high"
+            },
+            "rationale": "The visible genitive is retained."
+          }
+        ],
+        "limitations": "Provisional model reading with the explicit local uncertainties above. Gross row coverage is complete; this is not complete chapter or witness certification. Overlapping crops are the same source pixels and supply no independent witness corroboration.",
+        "tools_used": false
+      },
+      "unexamined_spans": {
+        "actual_target_omissions": [],
+        "deliberately_excluded_flanks": [
+          {
+            "pdf_page": 20,
+            "scope": "Full-page collation excluded; inspected for layout and the row-7 incoming connection at U00581."
+          },
+          {
+            "pdf_page": 24,
+            "scope": "Full-page collation excluded; inspected for layout and the row-1 outgoing connection at U00682."
+          }
+        ],
+        "distinction": "Q entries are inspected but unresolved components, not skipped rows."
+      },
+      "coordinator_adopted": false,
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    },
+    {
+      "task_id": "C1-DEGE",
+      "batch_id": "B07-P0009-0011",
+      "target_pages": [
+        9,
+        10,
+        11
+      ],
+      "source_pages": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verified_inputs": {
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt",
+        "sha256": "9e522454ef593a157388facf6ca34ebb1ed6e0d3476eb50cbfaa7f91f87f1b1b",
+        "images_hash_verified": 13,
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-execution.json"
+      },
+      "rows_reported_by_page": {
+        "9": 7,
+        "10": 7,
+        "11": 7
+      },
+      "observation_count": 13,
+      "coverage_assessment": {
+        "target_pages_inspected": [
+          9,
+          10,
+          11
+        ],
+        "target_rows_inspected": 21,
+        "target_rows_supplied": 21,
+        "fully_resolved": false,
+        "alignment_extent": "U00390 continuation through U00539 opening; compact labels U00394 and U00492 retained as separate source layers.",
+        "limitations": "Provisional model transcription. Marked letters and marginal labels remain unresolved. Graphic classifications have moderate confidence; individual filler-tick counts and every minute tsheg attachment are not certified.",
+        "independence": "Informed independent image reading with the supplied base visible as an alignment aid; not blind review or credentialed human palaeography.",
+        "complete_chapter_or_witness_certification": false
+      },
+      "unexamined_spans": [
+        {
+          "kind": "actual target omissions",
+          "spans": [],
+          "qualification": "All 21 target rows were inspected and represented; unresolved components remain explicitly marked."
+        },
+        {
+          "kind": "deliberately excluded flanks",
+          "pdf_page": 8,
+          "scope": "Full collation excluded. Only the native layout and row-7 outgoing context around སྣ་ཚོགས were used."
+        },
+        {
+          "kind": "deliberately excluded flanks",
+          "pdf_page": 12,
+          "scope": "Full collation excluded. Only the native layout and row-1 incoming context རྟེན་བྱང་ཤར་མཚམས were used."
+        }
+      ],
+      "coordinator_adopted": false,
+      "serialization_repair_receipt": null
+    },
+    {
+      "task_id": "C1-DZONGSAR",
+      "batch_id": "B01-U00440-U00534-U00710",
+      "target_pages": [
+        22,
+        27,
+        35
+      ],
+      "source_pages": [
+        22,
+        27,
+        35
+      ],
+      "verified_inputs": {
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B01-U00440-U00534-U00710-reader-reading.txt",
+        "sha256": "71fc9c831baa01f5265e66d55378ea7d3b2aa8ffefbd687b9bdfc60a49b23821",
+        "images_hash_verified": 12,
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B01-U00440-U00534-U00710-reader-execution.json"
+      },
+      "rows_reported_by_page": {
+        "22": 1,
+        "27": 2,
+        "35": 2
+      },
+      "observation_count": 5,
+      "coverage_assessment": {
+        "named_loci_inspected": 3,
+        "named_loci_total": 3,
+        "result": "All three targeted loci and their local context inspected. U00440 remains internally abraded; U00534's main/small placement is established but the role of ལྗོངས remains unresolved; U00710's main reading is supported while its note retains a local glyph and attachment uncertainty.",
+        "qualification": "Informed independent model reading with the alignment aid visible; not blind review, credentialed human palaeography, or chapter/witness certification. No project files accessed or changed."
+      },
+      "unexamined_spans": {
+        "actual_target_omissions": [],
+        "deliberately_excluded": [
+          {
+            "pdf_page": 22,
+            "scope": "All text beyond the reported row-6 local context, including marginal writing."
+          },
+          {
+            "pdf_page": 27,
+            "scope": "Main text beyond the reported row-2 and row-3 spans, and marginal or ornamental regions."
+          },
+          {
+            "pdf_page": 35,
+            "scope": "Main text beyond the reported row-3 and row-4 spans, other small headings and marginal regions."
+          }
+        ],
+        "distinction": "Native pages were viewed for layout; this does not constitute lexical collation of excluded regions."
+      },
+      "coordinator_adopted": false,
+      "serialization_repair_receipt": null
+    }
+  ],
+  "all_writers_finished": true,
+  "all_original_reports_preserved": true,
+  "chapter_complete": false
+}

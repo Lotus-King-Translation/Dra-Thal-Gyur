@@ -1,0 +1,12 @@
+{
+  "scope": "Backward-compatible verification and explicit mechanical JSON repair",
+  "original_helper_sha256": "a44de046e2617979158f3cccb92aec86657b82e11f7b1365848bd2bed6a90870",
+  "new_helper_sha256": "94dc6b1b3cda51547d2a87da1422d6f25d5ecf925169f7e25dc7b3a7ba7306b3",
+  "old_valid_report_still_verifies": true,
+  "invalid_original_preserved": true,
+  "explicit_repair_matches_sidecar_exactly": true,
+  "all21_repaired_rows_preserved": true,
+  "multi_target_page_ids_retained": true,
+  "no_lexical_changes": true,
+  "prior_attempt": "A nested-quote syntax error failed before editing the helper. This parsed correction supersedes the failed command, not any source reading."
+}

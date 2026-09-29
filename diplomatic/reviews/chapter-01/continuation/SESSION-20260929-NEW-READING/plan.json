@@ -97,8 +97,9 @@
     }
   ],
   "maximum_parallel_readers": 4,
-  "status": "prepared_requests_pending_checkpoint",
+  "status": "four_reader_outputs_captured_not_adopted",
   "chapter_complete": false,
   "existing_base_report_read_request": "Adzom8-13 summary request remains paused after identical retries. This wave does not reread those reports or source targets.",
-  "prepared_at_commit": "372add7218ee390260d9884f66bc5a5f750e156d"
+  "prepared_at_commit": "372add7218ee390260d9884f66bc5a5f750e156d",
+  "raw_outputs_complete": true
 }

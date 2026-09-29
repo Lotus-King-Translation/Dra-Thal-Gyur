@@ -1,0 +1,15 @@
+{
+  "original_report": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+  "original_sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4",
+  "parsed_sidecar": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json",
+  "parsed_sha256": "9e70e05a137d49b9aeef5d0633818516f0c9a03f2525f48b6db6b8921c7391df",
+  "repair_kind": "Mechanical JSON container syntax only; preserve raw output unchanged",
+  "old_exact_fragment": "\n{\"unused\":null},\n",
+  "new_exact_fragment": "\n\"unused\":null,\n",
+  "occurrences": 1,
+  "characters_removed": "Two braces enclosing the root unused:null member; no lexical or other textual character changed",
+  "all21_rows_retained": true,
+  "observations_retained": 19,
+  "additional_page23_findings_retained_in_original_location": 9,
+  "original_report_unchanged": true
+}

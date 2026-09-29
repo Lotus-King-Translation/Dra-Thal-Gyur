@@ -1,5 +1,5 @@
 {
-  "status": "running_not_accepted",
+  "status": "captured_requires_coordinator_review",
   "specification": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-spec.json",
   "request_sha256": "01f2b3df119b8fc0c853da26a3ad7033a063fdb17d3a59cc01da7090df713b63",
   "images": [
@@ -233,5 +233,14 @@
     12
   ],
   "sandbox": "read-only",
-  "editorial_decisions_made_by_wrapper": false
+  "editorial_decisions_made_by_wrapper": false,
+  "returncode": 0,
+  "unexpected_tool_items": [],
+  "unparseable_event_lines": 0,
+  "finished_at": "2026-09-29T12:58:22.983782+00:00",
+  "output_hashes": {
+    "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt": "9e522454ef593a157388facf6ca34ebb1ed6e0d3476eb50cbfaa7f91f87f1b1b",
+    "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-session.jsonl": "b20bb756573b1de15f1f01877e71a56cd64ee89894255af424ca12dfbcbabaf4",
+    "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
 }

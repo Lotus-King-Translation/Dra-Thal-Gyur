@@ -34,7 +34,21 @@ def verify_report(repo, plan):
     for image in receipt['images']:
         assert sha(repo / image['path']) == image['sha256'], image['path']
     raw_path = Path(str(stem) + '-reading.txt')
-    raw = load(raw_path)
+    repair_path = plan.get('serialization_repair_receipt')
+    if repair_path:
+        repair = load(repo / repair_path)
+        assert repair['original_report'] == str(raw_path.relative_to(repo))
+        assert sha(raw_path) == repair['original_sha256']
+        sidecar = repo / repair['parsed_sidecar']
+        assert sha(sidecar) == repair['parsed_sha256']
+        original_text = raw_path.read_text(encoding='utf-8')
+        assert original_text.count(repair['old_exact_fragment']) == repair['occurrences']
+        expected = original_text.replace(repair['old_exact_fragment'],
+                                         repair['new_exact_fragment'], repair['occurrences'])
+        assert sidecar.read_text(encoding='utf-8') == expected
+        raw = load(sidecar)
+    else:
+        raw = load(raw_path)
     assert (raw['task_id'], raw['batch_id']) == (plan['task'], plan['batch'])
     return raw, {'raw_report': str(raw_path.relative_to(repo)),
                  'sha256': sha(raw_path), 'images_hash_verified': len(receipt['images']),
@@ -44,6 +58,8 @@ def verify_report(repo, plan):
 def integrate_page(repo, plan, coordinator, canonical_ids=()):
     """Integrate one inspected page with explicit limits, not a completion claim."""
     assert coordinator.get('summary') and coordinator.get('next_step')
+    target_pages = list(plan.get('target_pages', [plan['target_page']]))
+    assert 1 <= len(target_pages) <= 5 and len(set(target_pages)) == len(target_pages)
     assert 'observation_dispositions' in coordinator
     raw, verified = verify_report(repo, plan)
     dip = repo / 'diplomatic'
@@ -59,6 +75,7 @@ def integrate_page(repo, plan, coordinator, canonical_ids=()):
     for observation in observations:
         observation['coordinator_disposition'] = coordinator['observation_dispositions'][str(observation['id'])]
     batch.update({'status': 'review_integrated_with_bounded_uncertainties',
+                  'target_pages': target_pages,
                   'rows_actually_compared': copy.deepcopy(raw.get('rows', [])),
                   'observations': observations,
                   'source_layers_and_non_main_regions': copy.deepcopy(raw.get('non_main_regions', [])),
@@ -83,7 +100,7 @@ def integrate_page(repo, plan, coordinator, canonical_ids=()):
     entries = coverage.setdefault('continuation_bounded_reviews', [])
     assert not any(e['task_id'] == plan['task'] and e['batch_id'] == plan['batch'] for e in entries)
     entries.append({'task_id': plan['task'], 'batch_id': plan['batch'],
-                    'target_page': plan['target_page'],
+                    'target_pages': target_pages,
                     'report': str(review_path.relative_to(dip)),
                     'summary': coordinator['summary'],
                     'rows_reported': len(raw.get('rows', [])),
@@ -94,6 +111,10 @@ def integrate_page(repo, plan, coordinator, canonical_ids=()):
                     'unexamined_spans': copy.deepcopy(raw.get('unexamined_spans', [])),
                     'next_physical_span': coordinator['next_step'],
                     'reader_claims_require_coordinator_dispositions': True})
+    if len(target_pages) == 1:
+        entries[-1]['target_page'] = target_pages[0]
+    if plan.get('serialization_repair_receipt'):
+        batch['serialization_repair_receipt'] = plan['serialization_repair_receipt']
     markdown = review_path.with_suffix('.md')
     addition = '\n## ' + plan['batch'] + ' — preserved review integrated\n\n'
     addition += coordinator['summary'] + '\n\n'
