@@ -1,0 +1,71 @@
+name: Diplomatic recovery verification
+on:
+  push:
+    branches:
+      - recovery/20260929-connection-loss-pending-integration
+    paths:
+      - .github/workflows/diplomatic-recovery-verification.yml
+permissions:
+  contents: read
+jobs:
+  verify-and-export:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          persist-credentials: false
+          lfs: false
+      - name: Read-only structural verification
+        run: |
+          mkdir -p /tmp/diplomatic-verification
+          python3 diplomatic/tools/validate_chapter1.py --repo . --check > /tmp/diplomatic-verification/validation.json
+          python3 diplomatic/tools/build_chapter1.py --repo . --check > /tmp/diplomatic-verification/build.json
+          git diff --exit-code
+      - name: Export already published bounded evidence
+        if: always()
+        shell: python
+        run: |
+          import hashlib, json, pathlib, subprocess, tarfile
+          root = pathlib.Path.cwd().resolve()
+          tracked = set(subprocess.check_output(['git','ls-files'], text=True).splitlines())
+          chosen = set()
+          for name in tracked:
+              if name.startswith('diplomatic/collation/chapter-01/') or name.startswith('diplomatic/tools/'):
+                  chosen.add(name)
+              if name.startswith('diplomatic/reviews/chapter-01/continuation/'):
+                  chosen.add(name)
+              if name.startswith('diplomatic/') and name.count('/') == 1:
+                  chosen.add(name)
+          review = root / 'diplomatic/reviews/chapter-01/continuation'
+          for wave in ['SESSION-20260929-COVERAGE-W01','SESSION-20260929-COVERAGE-W02']:
+              plans = json.loads((review / wave / 'plan.json').read_text())['plans']
+              for plan in plans:
+                  chosen.add(plan['manifest'])
+                  spec = json.loads((root / plan['specification']).read_text())
+                  for image in spec['images']:
+                      chosen.add(image['path'])
+                  folder = pathlib.PurePosixPath(plan['manifest']).parent
+                  for name in tracked:
+                      if name.startswith(str(folder) + '/') and name.endswith('.json'):
+                          chosen.add(name)
+          assert chosen <= tracked, 'Only committed repository files may be exported'
+          manifest = []
+          output = pathlib.Path('/tmp/diplomatic-verification')
+          output.mkdir(exist_ok=True)
+          with tarfile.open(output / 'published-material.tar.gz', 'w:gz') as archive:
+              for name in sorted(chosen):
+                  path = root / name
+                  assert path.resolve().is_relative_to(root) and path.is_file() and not path.is_symlink()
+                  manifest.append({'path': name, 'bytes': path.stat().st_size, 'sha256': hashlib.sha256(path.read_bytes()).hexdigest()})
+                  archive.add(path, arcname=name, recursive=False)
+          record = {'commit': subprocess.check_output(['git','rev-parse','HEAD'],text=True).strip(), 'files': manifest, 'scope': 'Published repository files only. No source reading, editorial adoption or new chapter coverage.', 'chapter_complete': False}
+          (output / 'export-manifest.json').write_text(json.dumps(record,ensure_ascii=False,indent=2) + '\n')
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        if: always()
+        with:
+          name: diplomatic-published-material
+          path: /tmp/diplomatic-verification/
+          retention-days: 7
+          if-no-files-found: error
+          compression-level: 0
