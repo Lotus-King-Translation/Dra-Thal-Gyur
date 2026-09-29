@@ -1,0 +1,138 @@
+{
+  "baseline_commit": "5f274c943b9fe45077395c4f51f43a68f939f86f",
+  "remote_verified": "5f274c943b9fe45077395c4f51f43a68f939f86f",
+  "tracked_and_untracked_tree_clean_at_start": true,
+  "ignored_only_python_caches": true,
+  "last_interrupted_claim_verified": "5f274c943b9fe45077395c4f51f43a68f939f86f",
+  "four_completed_readers_verified": {
+    "C1-TINGKYE": {
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt",
+      "sha256": "8e39713220b465c4d28d5a5b8e891946e2b208595b2a2442ce458a60100658ba",
+      "images_hash_verified": 16,
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-execution.json"
+    },
+    "C1-TSAMDRAK": {
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4",
+      "images_hash_verified": 16,
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-execution.json"
+    },
+    "C1-DEGE": {
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt",
+      "sha256": "9e522454ef593a157388facf6ca34ebb1ed6e0d3476eb50cbfaa7f91f87f1b1b",
+      "images_hash_verified": 13,
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-execution.json"
+    },
+    "C1-DZONGSAR": {
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B01-U00440-U00534-U00710-reader-reading.txt",
+      "sha256": "71fc9c831baa01f5265e66d55378ea7d3b2aa8ffefbd687b9bdfc60a49b23821",
+      "images_hash_verified": 12,
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B01-U00440-U00534-U00710-reader-execution.json"
+    }
+  },
+  "physical_reports_to_integrate": [
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B07-P0008",
+      "edition": "adzom-2000",
+      "target_page": 8,
+      "pages": [
+        7,
+        8,
+        9
+      ],
+      "lo": 120,
+      "hi": 195,
+      "scope": "Complete the physical sign/source-layer inventory of ADZOM PDF8 only. Every main row and non-main region must be inspected. Existing lexical pass remains; neighboring pages are boundary context only. Reference range is a broad locating aid, never a guessed page map. Record each complete two-word boundary interval, including uprights near the next word, without assuming those uprights are part of the next letter. Give physical component counts and joined-letter reasons; do not count only preceding-owned marks. Tiered source graphics are not plain shads merely because the base uses that encoding.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B07-P0008/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B07-P0008-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B07-P0008-reader-spec.json"
+    },
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B08-P0009",
+      "edition": "adzom-2000",
+      "target_page": 9,
+      "pages": [
+        8,
+        9,
+        10
+      ],
+      "lo": 146,
+      "hi": 221,
+      "scope": "Complete the physical sign/source-layer inventory of ADZOM PDF9 only. Every main row and non-main region must be inspected. Existing lexical pass remains; neighboring pages are boundary context only. Reference range is a broad locating aid, never a guessed page map. Record each complete two-word boundary interval, including uprights near the next word, without assuming those uprights are part of the next letter. Give physical component counts and joined-letter reasons; do not count only preceding-owned marks. Tiered source graphics are not plain shads merely because the base uses that encoding.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B08-P0009/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B08-P0009-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B08-P0009-reader-spec.json"
+    },
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B09-P0010",
+      "edition": "adzom-2000",
+      "target_page": 10,
+      "pages": [
+        9,
+        10,
+        11
+      ],
+      "lo": 172,
+      "hi": 247,
+      "scope": "Complete the physical sign/source-layer inventory of ADZOM PDF10 only. Every main row and non-main region must be inspected. Existing lexical pass remains; neighboring pages are boundary context only. Reference range is a broad locating aid, never a guessed page map. Record each complete two-word boundary interval, including uprights near the next word, without assuming those uprights are part of the next letter. Give physical component counts and joined-letter reasons; do not count only preceding-owned marks. Tiered source graphics are not plain shads merely because the base uses that encoding.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B09-P0010/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B09-P0010-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B09-P0010-reader-spec.json"
+    },
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B10-P0011",
+      "edition": "adzom-2000",
+      "target_page": 11,
+      "pages": [
+        10,
+        11,
+        12
+      ],
+      "lo": 198,
+      "hi": 273,
+      "scope": "Complete the physical sign/source-layer inventory of ADZOM PDF11 only. Every main row and non-main region must be inspected. Existing lexical pass remains; neighboring pages are boundary context only. Reference range is a broad locating aid, never a guessed page map. Record each complete two-word boundary interval, including uprights near the next word, without assuming those uprights are part of the next letter. Give physical component counts and joined-letter reasons; do not count only preceding-owned marks. Tiered source graphics are not plain shads merely because the base uses that encoding.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B10-P0011/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B10-P0011-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B10-P0011-reader-spec.json"
+    },
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B11-P0012",
+      "edition": "adzom-2000",
+      "target_page": 12,
+      "pages": [
+        11,
+        12,
+        13
+      ],
+      "lo": 224,
+      "hi": 299,
+      "scope": "Complete the physical sign/source-layer inventory of ADZOM PDF12 only. Every main row and non-main region must be inspected. Existing lexical pass remains; neighboring pages are boundary context only. Reference range is a broad locating aid, never a guessed page map. Record each complete two-word boundary interval, including uprights near the next word, without assuming those uprights are part of the next letter. Give physical component counts and joined-letter reasons; do not count only preceding-owned marks. Tiered source graphics are not plain shads merely because the base uses that encoding.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B11-P0012/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B11-P0012-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B11-P0012-reader-spec.json"
+    },
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B12-P0013",
+      "edition": "adzom-2000",
+      "target_page": 13,
+      "pages": [
+        12,
+        13,
+        14
+      ],
+      "lo": 250,
+      "hi": 325,
+      "scope": "Complete the physical sign/source-layer inventory of ADZOM PDF13 only. Every main row and non-main region must be inspected. Existing lexical pass remains; neighboring pages are boundary context only. Reference range is a broad locating aid, never a guessed page map. Record each complete two-word boundary interval, including uprights near the next word, without assuming those uprights are part of the next letter. Give physical component counts and joined-letter reasons; do not count only preceding-owned marks. Tiered source graphics are not plain shads merely because the base uses that encoding.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B12-P0013/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B12-P0013-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B12-P0013-reader-spec.json"
+    }
+  ],
+  "chapter_complete": false
+}
