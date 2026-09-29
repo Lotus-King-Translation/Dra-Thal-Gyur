@@ -188,3 +188,15 @@ Full source traversal is distinguished from exact resolution. Ordinary boundarie
 **Remaining:** Next genuinely missing Tsamdrak page is PDF21 row1, U00581 continuation པ་རྣམས་ཀྱིས་བསྐོར. Keep PDF20 Q01–Q10, including final-letter/frame ambiguity.
 
 The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.
+
+## B09-P0021-0023 — preserved review integrated
+
+Tsamdrak PDF21–23: all 21 source rows integrated from U00581 continuation through U00681, with local differences, isolated heading-slot graphics and sixteen bounded unresolved components.
+
+[Unchanged raw report](C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt) · [Exact source and rows](C1-TSAMDRAK.json).
+
+The invalid original JSON remains untouched; a separately hash-verified sidecar removes only the stray unused object. Nine page23 findings nested in coverage_assessment are explicitly dispositioned, not discarded. Heading-slot graphics are not missing main verses or expanded numeral readings.
+
+**Remaining:** Continue Tsamdrak PDF24 row1, U00682: གནད་འདུས་བཀོད་པ་སེམས་ཀྱི་རྟེན. Preserve Q01–Q16 and the component inventories of PDF21–23.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.

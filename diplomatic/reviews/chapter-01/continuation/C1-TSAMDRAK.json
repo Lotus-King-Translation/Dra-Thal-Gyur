@@ -10753,7 +10753,7 @@
     },
     {
       "batch_id": "B09-P0021-0023",
-      "status": "claimed_prepared_not_read",
+      "status": "review_integrated_with_bounded_uncertainties",
       "owner": "reader-C1-TSAMDRAK-20260929-new",
       "baseline_commit": "372add7218ee390260d9884f66bc5a5f750e156d",
       "target_pages": [
@@ -10771,9 +10771,1852 @@
       "scope": "Continue genuinely missing Tsamdrak PDF21,22,23 through every main row and non-main region. Start with U00581 continuation པ་རྣམས་ཀྱིས་བསྐོར. PDF20/24 provide boundary context only. Preserve actual source repetitions, differing clause order, short marks and heading layers; no source normalization.",
       "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/manifest.json",
       "specification": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-spec.json",
-      "rows_actually_compared": [],
-      "observations": [],
-      "canonical_record_ids": []
+      "rows_actually_compared": [
+        {
+          "pdf_page": 21,
+          "physical_row": 1,
+          "observed_sequence": "པ་རྣམས་ཀྱིས་བསྐོར⟨1⟩ དེ་འོག་འཇིག་རྟེན་དགུ་པ་ན⟨2⟩ དུང་ལྡན་ཐལ་བའི་ལྷ་ཞེས་པ⟨3⟩ དད་ཅིང་བསུང་བའི་དྲི་ཡིས་མྱོས⟨4⟩ འཁྱུག་ཅིང་རབ་ཏུ་འབར་བའི་འོད⟨5⟩ རབ་ཏུ་མེར་མེར",
+          "ordered_anchor_fragments": [
+            "U00581:tail",
+            "U00582",
+            "U00583",
+            "U00584",
+            "U00585",
+            "U00586:head"
+          ],
+          "signs": [
+            "B D B",
+            "B B",
+            "B B",
+            "B B",
+            "B B"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 21,
+          "physical_row": 2,
+          "observed_sequence": "པོ་ཡིས་འཁྲིགས⟨1⟩ སྟོན་པ་ཉིད་དང་བསྟན་པ་དང་⟨2⟩ དེ་ཡི་འཁོར་དང་ལོངས་སྤྱོད་རྫོགས⟨3⟩ འདི་ནས་འཇིག་རྟེན་དྲུག་པ་ན⟨4⟩ སྐར་མའི་ཐལ་བ་ཞེས་བྱ་བ⟨5⟩ འཁོར་ལོ་བརྩེགས",
+          "ordered_anchor_fragments": [
+            "U00586:tail",
+            "U00587",
+            "U00588",
+            "U00589",
+            "U00590",
+            "U00591:head"
+          ],
+          "signs": [
+            "B B",
+            "B B",
+            "B D B",
+            "B B",
+            "B B"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 21,
+          "physical_row": 3,
+          "observed_sequence": "པའི་རྣམ་པ་ནི⟨1⟩ ལྔ་དང་དགུ་ཡིས་ཡོངས་སུ་བརྩེགས⟨2⟩ འཆར་ཁ་ཆུན་འཕྱང་རྣམས་ཀྱིས་བརྒྱན⟨3⟩ འབྲུག་[Q01]་དམར་ལྕེ་རྣམས་འབྱིན⟨4⟩ སྟོན་པའི་བསྟན་པ་ལུང་གིས་བསྐོར⟨5⟩",
+          "ordered_anchor_fragments": [
+            "U00591:tail",
+            "U00592",
+            "U00593",
+            "U00594",
+            "U00595"
+          ],
+          "signs": [
+            "B B",
+            "B B",
+            "B B",
+            "B B",
+            "B"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 21,
+          "physical_row": 4,
+          "observed_sequence": "འོད་འབྱུང་ཕྲེང་བ་ཀླུ་ཡི་གད[Q02]ང⟨1⟩ ཕྱོགས་དང་མཚམས་ཀུན་གསལ་བའོ⟨2⟩ རང་དང་གཞན་གྱི་དམ་བཅའི་ཚིག⟨3⟩ རང་གི་ཚིག་གིས་ངེས་[Q04]བསལ་ཏེ⟨4⟩ རང་འདོད་ངེས་པར་སྐྱོལ་བ་ནི⟨5⟩ ལུང",
+          "ordered_anchor_fragments": [
+            "U00596",
+            "U00597",
+            "U00599",
+            "U00600",
+            "U00601",
+            "U00602:head"
+          ],
+          "signs": [
+            "B B",
+            "B [Q03] B",
+            "B",
+            "B B",
+            "B B"
+          ],
+          "source_annotations": [
+            {
+              "region": "N21a",
+              "interval": 2
+            }
+          ]
+        },
+        {
+          "pdf_page": 21,
+          "physical_row": 5,
+          "observed_sequence": "དང་རིགས་པ་མན་ངག་གིས⟨1⟩ སྐྱོན་བསལ་བསྒྲུབ་དང་འགལ་བ་སྤང་⟨2⟩ སྐྱོན་གསུམ་སྤང་སྟེ་ཐེ་ཚོམ་བསལ⟨3⟩ གཏན་ཚིགས་བཞི་དང་དམ་བཅའ་བླང[Q05]⟨4⟩ གནས་པའི་མཁར་བཟུང་ཟུར",
+          "ordered_anchor_fragments": [
+            "U00602:tail",
+            "U00603",
+            "U00604",
+            "U00605",
+            "U00606:head"
+          ],
+          "signs": [
+            "B B",
+            "B B",
+            "B B",
+            "B B"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 21,
+          "physical_row": 6,
+          "observed_sequence": "ལ་བྲོས⟨1⟩ ཕྱོགས་བཞི་དབུས་སུ་འཁོར་ལོ་བྲི⟨2⟩ ཕྱོགས་བྲལ་གཏན་ཚིགས་བསྒྲུབ་བྱའོ⟨3⟩ གཞན་ལ་ཐལ་བའི་ངེས་འཇུག་རྩོད⟨4⟩ དམ་བཅས་བསྒྲུབ་བྱ་གཏན་ཚིགས་ལ⟨5⟩ གསུམ",
+          "ordered_anchor_fragments": [
+            "U00606:tail",
+            "U00607",
+            "U00608",
+            "U00609",
+            "U00610",
+            "U00611:head"
+          ],
+          "signs": [
+            "B B",
+            "B B",
+            "B B",
+            "B B",
+            "B B"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 21,
+          "physical_row": 7,
+          "observed_sequence": "གསུམ་དག་གི་འཕེན་པས་བསྐོར⟨1⟩ མཁས་པས་མཚན་ཉིད་རྫོགས་ཀྱིས་སྦྱར⟨2⟩ རང་གཞན་གྲུབ་པའི་བརྗོད་བྱའོ⟨3⟩ སྐྱོན་ནི་རང་དང་གཞན་གཉིས་ལས⟨4⟩ རང་སྐྱོན་རང་གིས་ཤེས",
+          "ordered_anchor_fragments": [
+            "U00611:tail",
+            "U00612",
+            "U00613",
+            "U00614",
+            "U00615:head"
+          ],
+          "signs": [
+            "B B",
+            "B B",
+            "B [Q06] B",
+            "B B"
+          ],
+          "source_annotations": [
+            {
+              "region": "N21b",
+              "interval": 3
+            }
+          ]
+        },
+        {
+          "pdf_page": 22,
+          "physical_row": 1,
+          "observed_sequence": "བྱས་ལ⟨1⟩ དམ་བཅའ་གཏན་ཚིགས་བསྒྲུབ་བྱ་ནི⟨2⟩ སོ་སོའི་སྐྱོན་རྣམས་ངོས་བཟུང་སྟེ⟨3⟩ ཡོན་ཏན་རྣམས་ནི་རྫོགས་པར་བྱའོ⟨4⟩ གཞན་གྱི་ཡོན",
+          "ordered_anchor_fragments": [
+            "U00615:tail",
+            "U00616",
+            "U00617",
+            "U00618",
+            "U00619:head"
+          ],
+          "signs": [
+            "B B",
+            "B B",
+            "B B",
+            "B B"
+          ],
+          "source_annotations": [
+            {
+              "region": "N22a",
+              "position": "far left, before the indented main text"
+            }
+          ]
+        },
+        {
+          "pdf_page": 22,
+          "physical_row": 2,
+          "observed_sequence": "ཏན་ཤེས་བྱས་ལ⟨1⟩ དེ་ཡི་སྐྱོན་རྣམས་མཁས་པས་བརྟགས⟨2⟩ སྒྲ་དོན་བརྗོད་བྱའི་ཚིག་ཙམ་ལས⟨3⟩ འབྲེལ་དང་འབྲེལ་མེད་མཚན་ཉིད་ཀྱིས⟨4⟩ ཁྱབ་བྱའི་དོན་རྣམས་ཐལ་འགྱུར",
+          "ordered_anchor_fragments": [
+            "U00619:tail",
+            "U00620",
+            "U00621",
+            "U00622",
+            "U00623:head"
+          ],
+          "signs": [
+            "B B",
+            "B B",
+            "B B",
+            "B B"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 22,
+          "physical_row": 3,
+          "observed_sequence": "[Q07]འོ⟨1⟩ འཕེན་ལ་རླུང་སྟེ་འཕོ་བའི་ལས⟨2⟩ ཚིག་དང་ཟུར་ལ་གཞོན་པ་དང་⟨3⟩ གཏན་ཚིགས་འཁོར་ལོ་འོག་དང་སྟེང་⟨4⟩ ལོགས་དང་ཟུར་ལ་འབིགས་པར་བྱེད⟨5⟩ ཆོས་ཅན",
+          "ordered_anchor_fragments": [
+            "U00623:tail",
+            "U00625",
+            "U00626",
+            "U00627",
+            "U00628",
+            "U00629:head"
+          ],
+          "signs": [
+            "B [Q08] B",
+            "B B",
+            "B B",
+            "B B",
+            "B B"
+          ],
+          "source_annotations": [
+            {
+              "region": "N22d",
+              "interval": 1
+            }
+          ]
+        },
+        {
+          "pdf_page": 22,
+          "physical_row": 4,
+          "observed_sequence": "ཆོས་ཉིད་ཚུལ་དག་གིས⟨1⟩ གཉིས་གཉིས་འཇུག་པས་འཕེན་པར་བྱེད⟨2⟩ རླུང་གིས་ཀྱང་ནི་ཉོན་མོངས་འཕེན⟨3⟩ མ་དག་པ་ཡི་ཡེ་ཤེས་སོ⟨4⟩ སྦྱོར་བའི་དམིགས་ཀྱིས་རང་འདོད",
+          "ordered_anchor_fragments": [
+            "U00629:tail",
+            "U00630",
+            "U00631",
+            "U00632",
+            "U00633:head"
+          ],
+          "signs": [
+            "B B",
+            "B B",
+            "B B",
+            "B H B"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 22,
+          "physical_row": 5,
+          "observed_sequence": "སྐྱོང་⟨1⟩ ཆོས་ཅན་དམ་བཅའ་གཏན་ཚིགས་དང་⟨2⟩ དཔེ་ཡིས་མཚོན་ཏེ་སྦྱོར་བ་གཅིག⟨3⟩ ཆོས་ཅན་འབྲེལ་པ་ཡུལ་གྱིས་ཤེས⟨4⟩ དམ་བཅའི་སྐྱོན་ནི་བརྟགས་ཏེ་བཅའ⟨5⟩ གཏན་ཚིགས",
+          "ordered_anchor_fragments": [
+            "U00633:tail",
+            "U00634",
+            "U00635",
+            "U00636",
+            "U00637",
+            "U00638:head"
+          ],
+          "signs": [
+            "B B",
+            "B B",
+            "B",
+            "B B",
+            "B B"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 22,
+          "physical_row": 6,
+          "observed_sequence": "དག་གིས་འབྲེལ་དོན་བརྩི⟨1⟩ དཔེས་ནི་སྣང་བའི་ཆོས་རྣམས་གྲུབ⟨2⟩ གྲུབ་མཐའ་བློ་[Q09]བརྟེན་པ་ཡིས⟨3⟩ རང་གཞན་ཤེས་པའི་རྩལ་གྱིས་སོ⟨4⟩ གྲགས་པ་དག་གིས་ཐལ་འགྱུར",
+          "ordered_anchor_fragments": [
+            "U00638:tail",
+            "U00639",
+            "U00640",
+            "U00641",
+            "U00642:head"
+          ],
+          "signs": [
+            "B B",
+            "B B",
+            "B B",
+            "B H B"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 22,
+          "physical_row": 7,
+          "observed_sequence": "ཏེ⟨1⟩ བྱ་བའི་ལས་དང་དཔྱད་རྣམས་དང་⟨2⟩ ཚིག་དང་རྟོགས་པ་ཐ་དད་དང་⟨3⟩ རྒྱུ་རྐྱེན་སྨིན་སོ་སྣ་ཚོགས་ཏེ⟨4⟩ འགྲོ་བར་འདོད་དང་སོང་བ་དང་⟨5⟩ བྱེ་བྲག་འབྲེལ་སོ་ཐ་དད་པའི⟨6⟩",
+          "ordered_anchor_fragments": [
+            "U00642:tail",
+            "U00643",
+            "U00644",
+            "U00645",
+            "U00646",
+            "U00647"
+          ],
+          "signs": [
+            "B B",
+            "B B",
+            "B B",
+            "B D B",
+            "B B",
+            "B"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 23,
+          "physical_row": 1,
+          "observed_sequence": "སོང་བ་ཞེས་བྱ་ཡུལ་རྣམས་དང་⟨1⟩ ལམ་དང་གནས་ཏེ་ཚིག་ལ་འཇུག⟨2⟩ དྲན་པ་དངོས་དང་དངོས་པོ་མེད⟨3⟩ བྱས་དང་བྱུང་དང་བྱེད་པ་དང་⟨4⟩ ལྡོག་བཅས་ལམ་དང་ལྡོག་མེད་ལམ⟨5⟩",
+          "ordered_anchor_fragments": [
+            "U00648",
+            "U00649",
+            "U00650",
+            "U00651",
+            "U00652"
+          ],
+          "signs": [
+            "B B",
+            "B",
+            "B B",
+            "B B",
+            "B"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 23,
+          "physical_row": 2,
+          "observed_sequence": "[Q12]་པ་རྣམས་དང་སྒྲུབ་པར་བྱེད⟨1⟩ བྱ་རྒྱུ་རྣམས་དེ་དག་གོ⟨2⟩ རྒྱུ་མཚན་ངེས་པའི་མཐར་སྡུད་ནི⟨3⟩ འགྱུར་ནི་འབྱུང་བའི་ཆོ་འཕྲུལ་གྱིས⟨4⟩ ནམ་ཟླ་དུས་ཀྱིས",
+          "ordered_anchor_fragments": [
+            "U00653",
+            "U00654",
+            "U00656",
+            "U00657",
+            "U00658:head"
+          ],
+          "signs": [
+            "B B",
+            "B [Q13] B",
+            "B B",
+            "B B"
+          ],
+          "source_annotations": [
+            {
+              "region": "N23a",
+              "interval": 2
+            }
+          ]
+        },
+        {
+          "pdf_page": 23,
+          "physical_row": 3,
+          "observed_sequence": "འགྱུར་བས་ན⟨1⟩ རྣལ་འབྱོར་ཉམས་དང་ཤེས་པ་ཡང་⟨2⟩ འགྱུར་བའི་དུས་ཚོད་མཁས་པས་བཟུང་⟨3⟩ རླུང་མེ་ས་ཆུའི་འགྲོས་ཀྱིས་ནི⟨4⟩ མེ་རླུང་ཆུ་ས་བཞི་གཉིས་འཁོར⟨5⟩ ས",
+          "ordered_anchor_fragments": [
+            "U00658:tail",
+            "U00659",
+            "U00660",
+            "U00661",
+            "U00662",
+            "U00663:head"
+          ],
+          "signs": [
+            "B B",
+            "B B",
+            "B B",
+            "B B",
+            "B B"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 23,
+          "physical_row": 4,
+          "observed_sequence": "རླུང་ཆུ་མེ་འགྱུར་བྱེད་གཉིས⟨1⟩ རླུང་ས་མེ་ཆུ་ཆ་ལྔ་ལས⟨2⟩ འགྱུར་ཞིང་བྱེད་པ་ལུས་ཀྱི་གཞི⟨3⟩ སྟོངས་པའི་གནས་ཏེ་བརྒྱད་ཡིན་ནོ⟨4⟩ འགྱུར་བར་བྱེད་པའི་ཤེས་པའི",
+          "ordered_anchor_fragments": [
+            "U00663:tail",
+            "U00664",
+            "U00665",
+            "U00666",
+            "U00667:head"
+          ],
+          "signs": [
+            "B B",
+            "B B",
+            "B B",
+            "B B"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 23,
+          "physical_row": 5,
+          "observed_sequence": "རྩལ⟨1⟩ འཕྲོ་དང་འཁྱིལ་དང་མཆེད་པ་དང་⟨2⟩ འདུ་དང་རྟགས་ཏེ་འདི་རྣམས་ལ⟨3⟩ འདྲེན་ཅིང་གནས་པ་འགྱུར་བྱེད་ལས⟨4⟩ རླུང་རླུང་ས་ས་མེ་མེ་ཆུ⟨5⟩ གཅིག་གི་བྱེད",
+          "ordered_anchor_fragments": [
+            "U00667:tail",
+            "U00668",
+            "U00669",
+            "U00670",
+            "U00671",
+            "U00672:head"
+          ],
+          "signs": [
+            "B B",
+            "B B",
+            "B B",
+            "B B",
+            "B B"
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 23,
+          "physical_row": 6,
+          "observed_sequence": "པ་བཅུ་དྲུག་ལས⟨1⟩ ཁྱབ་དང་འཇུག་དང་གནས་བྱེད་བསྲུང[Q14]⟨2⟩ ལུང་སྡེབ་ཡ་སྡེབ་སྡོམ་གཅིག་པ⟨3⟩ དཔའ་བར་བྱེད་པའི་འགྱུར་བྱེད་དོ⟨4⟩ ལེའུ་བརྗོད་གཉིས་ཀྱང",
+          "ordered_anchor_fragments": [
+            "U00672:tail",
+            "U00673",
+            "U00674",
+            "U00675",
+            "U00677:head"
+          ],
+          "signs": [
+            "B B",
+            "B B",
+            "B B",
+            "B [Q15] B"
+          ],
+          "source_annotations": [
+            {
+              "region": "N23b",
+              "interval": 4
+            }
+          ]
+        },
+        {
+          "pdf_page": 23,
+          "physical_row": 7,
+          "observed_sequence": "གསལ་ཕྱེ་ན⟨1⟩ སྣ་ཚོགས་བཀོད་པའི་མན་ངག་གནས⟨2⟩ ངེས་པར་འབྱུང་འགྱུར་དང་པོ་ལ⟨3⟩ གཞི་སྟེ་མ་འོངས་ངེས་པར་སྟོན⟨4⟩ གླེང་གཞིར་བཅས་པས་གཞི་བཟུང་སྟེ⟨5⟩",
+          "ordered_anchor_fragments": [
+            "U00677:tail",
+            "U00678",
+            "U00679",
+            "U00680",
+            "U00681"
+          ],
+          "signs": [
+            "B B",
+            "B B",
+            "B B",
+            "B B",
+            "B [Q16]"
+          ],
+          "source_annotations": []
+        }
+      ],
+      "observations": [
+        {
+          "id": "O21-01",
+          "pdf_page": 21,
+          "anchors": [
+            "U00581"
+          ],
+          "source_span": "པ་རྣམས་ཀྱིས་བསྐོར",
+          "base_span": "U00581 after རབ་ཏུ་གཞོན་",
+          "category": "incoming_correspondence",
+          "neighboring_context": "PDF20 row 7 ends with རབ་ཏུ་གཞོན; PDF21 row 1 continues with པ་རྣམས and then U00582.",
+          "approximate_native_bounds": [
+            440,
+            162,
+            920,
+            280
+          ],
+          "confidence": {
+            "lexical": "high",
+            "order": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "Correspondence established across the visible page boundary, without importing the preceding words into this row.",
+          "coordinator_disposition": "Keep incoming U00581 page continuation in the row ledger, without a duplicate variant record."
+        },
+        {
+          "id": "O21-02",
+          "pdf_page": 21,
+          "anchors": [
+            "U00581",
+            "U00582"
+          ],
+          "source_span": "བསྐོར ⟨B D B⟩ དེ་འོག",
+          "base_span": "U00581/U00582 punctuation boundary",
+          "category": "graphic_inventory",
+          "neighboring_context": "End of incoming continuation; beginning of the next world description.",
+          "approximate_native_bounds": [
+            805,
+            164,
+            1060,
+            295
+          ],
+          "confidence": {
+            "lexical": "high",
+            "order": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "Short paired ticks are retained separately from upright bars, including the next-leading bar.",
+          "coordinator_disposition": "Preserve the specified localized source observation with its original confidence. No Adzom text is changed and no unlisted glyph is certified."
+        },
+        {
+          "id": "O21-03",
+          "pdf_page": 21,
+          "anchors": [
+            "U00588",
+            "U00589"
+          ],
+          "source_span": "རྫོགས ⟨B D B⟩ འདི་ནས",
+          "base_span": "U00588/U00589 punctuation boundary",
+          "category": "graphic_inventory",
+          "neighboring_context": "ལོངས་སྤྱོད precedes; འཇིག་རྟེན follows.",
+          "approximate_native_bounds": [
+            1900,
+            273,
+            2255,
+            392
+          ],
+          "confidence": {
+            "lexical": "high",
+            "order": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "A second short-tick group is visible in this local interval; it is not normalized to the base punctuation.",
+          "coordinator_disposition": "Preserve the specified localized source observation with its original confidence. No Adzom text is changed and no unlisted glyph is certified."
+        },
+        {
+          "id": "O21-04",
+          "pdf_page": 21,
+          "anchors": [
+            "U00594"
+          ],
+          "source_span": "འབྲུག་[Q01]་དམར",
+          "base_span": "སྒྲོགས་གློག",
+          "category": "unresolved_letter_sequence",
+          "neighboring_context": "After U00593; followed by ལྕེ་རྣམས་འབྱིན.",
+          "approximate_native_bounds": {
+            "ledger_ref": "Q01"
+          },
+          "confidence": {
+            "lexical": "low within Q01",
+            "order": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The intervening stacks are not securely separated; neither the base's two words nor an omission is asserted.",
+          "coordinator_disposition": "Preserve the specified localized source observation with its original confidence. No Adzom text is changed and no unlisted glyph is certified."
+        },
+        {
+          "id": "O21-05",
+          "pdf_page": 21,
+          "anchors": [
+            "U00596"
+          ],
+          "source_span": "ཀླུ་ཡི་གད[Q02]ང",
+          "base_span": "ཀླུ་ཡི་གདོང; separate base annotation གླུ་ཡང་གདུང་ཡང་བྱུང",
+          "category": "main_text_and_annotation_layer",
+          "neighboring_context": "Between འོད་འབྱུང་ཕྲེང་བ and ཕྱོགས་དང་མཚམས.",
+          "approximate_native_bounds": [
+            435,
+            440,
+            1100,
+            590
+          ],
+          "confidence": {
+            "lexical": "medium; vowel unresolved",
+            "order": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The consonant frame is retained. The base's separate annotation is not inserted into the source main line.",
+          "coordinator_disposition": "Preserve the specified localized source observation with its original confidence. No Adzom text is changed and no unlisted glyph is certified."
+        },
+        {
+          "id": "O21-06",
+          "pdf_page": 21,
+          "anchors": [
+            "U00597",
+            "U00598",
+            "U00599"
+          ],
+          "source_span": "[Q03]",
+          "base_span": "དྲིས་ལན་དྲུག་པ",
+          "category": "isolated_sign_at_heading_slot",
+          "neighboring_context": "གསལ་བའོ precedes; རང་དང་གཞན follows.",
+          "approximate_native_bounds": {
+            "ledger_ref": "Q03"
+          },
+          "confidence": {
+            "lexical": "not applicable",
+            "order": "high",
+            "graphic": "low for identification",
+            "layer": "high"
+          },
+          "rationale": "A small isolated glyph is present; the base heading words are not visibly written in this interval. No numeral value is supplied.",
+          "coordinator_disposition": "Retain the isolated graphic at the U00598 heading position without inventing its numeral or expanding the base heading words."
+        },
+        {
+          "id": "O21-07",
+          "pdf_page": 21,
+          "anchors": [
+            "U00600"
+          ],
+          "source_span": "ངེས་[Q04]བསལ",
+          "base_span": "ངེས་བསལ",
+          "category": "possible_additional_component_unresolved",
+          "neighboring_context": "རང་གི་ཚིག་གིས precedes; ཏེ follows.",
+          "approximate_native_bounds": {
+            "ledger_ref": "Q04"
+          },
+          "confidence": {
+            "lexical": "low within Q04",
+            "order": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "A possible intervening component remains unresolved independently of the readable surrounding words.",
+          "coordinator_disposition": "Preserve the specified localized source observation with its original confidence. No Adzom text is changed and no unlisted glyph is certified."
+        },
+        {
+          "id": "O21-08",
+          "pdf_page": 21,
+          "anchors": [
+            "U00604"
+          ],
+          "source_span": "སྤང་སྟེ",
+          "base_span": "སྤངས་ཏེ",
+          "category": "spelling_and_particle_difference",
+          "neighboring_context": "སྐྱོན་གསུམ precedes; ཐེ་ཚོམ་བསལ follows.",
+          "approximate_native_bounds": [
+            1760,
+            550,
+            2245,
+            690
+          ],
+          "confidence": {
+            "lexical": "medium",
+            "order": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The visible sequence is read with སྟེ following སྤང; it is not regularized to the base.",
+          "coordinator_disposition": "Preserve the specified localized source observation with its original confidence. No Adzom text is changed and no unlisted glyph is certified."
+        },
+        {
+          "id": "O21-09",
+          "pdf_page": 21,
+          "anchors": [
+            "U00611"
+          ],
+          "source_span": "གསུམ | གསུམ་དག་གི",
+          "base_span": "གསུམ་གསུམ་དག་གི",
+          "category": "repetition_across_row_boundary",
+          "neighboring_context": "Row 6 ends after U00610 with the first གསུམ; row 7 begins with the second.",
+          "approximate_native_bounds": [
+            [
+              3640,
+              650,
+              3840,
+              800
+            ],
+            [
+              420,
+              735,
+              850,
+              865
+            ]
+          ],
+          "confidence": {
+            "lexical": "high",
+            "order": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "Both occurrences belong to the source main text and are preserved.",
+          "coordinator_disposition": "Retain both gsum occurrences in physical row order; repetition is not an additional variant or crop duplication."
+        },
+        {
+          "id": "O21-10",
+          "pdf_page": 21,
+          "anchors": [
+            "U00613",
+            "U00614"
+          ],
+          "source_span": "[Q06]",
+          "base_span": "No separate heading unit between these anchors in the supplied aid.",
+          "category": "isolated_small_sign",
+          "neighboring_context": "བརྗོད་བྱའོ precedes; སྐྱོན་ནི follows.",
+          "approximate_native_bounds": {
+            "ledger_ref": "Q06"
+          },
+          "confidence": {
+            "lexical": "not applicable",
+            "order": "high",
+            "graphic": "low for identification",
+            "layer": "high"
+          },
+          "rationale": "The sign is recorded without assigning a numerical value or expanding it into a heading.",
+          "coordinator_disposition": "Preserve the specified localized source observation with its original confidence. No Adzom text is changed and no unlisted glyph is certified."
+        },
+        {
+          "id": "O22-01",
+          "pdf_page": 22,
+          "anchors": [
+            "U00615",
+            "U00616"
+          ],
+          "source_span": "བྱས་ལ ⟨B B⟩ དམ་བཅའ",
+          "base_span": "U00615 tail; U00616 དམ་བཅས",
+          "category": "incoming_correspondence_and_spelling",
+          "neighboring_context": "PDF21 ends རང་སྐྱོན་རང་གིས་ཤེས; this page resumes བྱས་ལ.",
+          "approximate_native_bounds": [
+            890,
+            218,
+            1530,
+            332
+          ],
+          "confidence": {
+            "lexical": "medium-high",
+            "order": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The incoming continuation is secure; the next clause is read དམ་བཅའ rather than silently adopting དམ་བཅས.",
+          "coordinator_disposition": "Preserve the specified localized source observation with its original confidence. No Adzom text is changed and no unlisted glyph is certified."
+        },
+        {
+          "id": "O22-02",
+          "pdf_page": 22,
+          "anchors": [
+            "U00623",
+            "U00624",
+            "U00625"
+          ],
+          "source_span": "[Q07]འོ ⟨B [Q08] B⟩ འཕེན",
+          "base_span": "བརྩིའོ; དྲིས་ལན་བདུན་པ",
+          "category": "unresolved_conjunct_and_separate_sign",
+          "neighboring_context": "Previous row ends ཐལ་འགྱུར; the following clause begins འཕེན་ལ་རླུང.",
+          "approximate_native_bounds": [
+            445,
+            404,
+            910,
+            525
+          ],
+          "confidence": {
+            "lexical": "low for Q07",
+            "order": "high",
+            "graphic": "low for Q08 identification",
+            "layer": "high"
+          },
+          "rationale": "The conjunct and the separate small sign remain distinct uncertainties. Heading words and an expected numeral are not supplied.",
+          "coordinator_disposition": "Keep unresolved main conjunct Q07 distinct from separate small graphic Q08 at U00624. Neither is filled from expected text."
+        },
+        {
+          "id": "O22-03",
+          "pdf_page": 22,
+          "anchors": [
+            "U00626"
+          ],
+          "source_span": "གཞོན་པ་དང",
+          "base_span": "གཞོན་པ་དང; separate base annotation གཞོག་ཀྱང",
+          "category": "main_text_and_local_annotation_check",
+          "neighboring_context": "ཚིག་དང་ཟུར་ལ precedes; U00627 follows.",
+          "approximate_native_bounds": [
+            1330,
+            407,
+            1970,
+            525
+          ],
+          "confidence": {
+            "lexical": "medium-high",
+            "order": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The main sequence is readable here; the base annotation is not visibly present as a separate local note.",
+          "coordinator_disposition": "Preserve the specified localized source observation with its original confidence. No Adzom text is changed and no unlisted glyph is certified."
+        },
+        {
+          "id": "O22-04",
+          "pdf_page": 22,
+          "anchors": [
+            "U00628"
+          ],
+          "source_span": "ལོགས་དང",
+          "base_span": "ལོག་དང",
+          "category": "spelling_difference",
+          "neighboring_context": "After U00627; followed by ཟུར་ལ་འབིགས་པར་བྱེད.",
+          "approximate_native_bounds": [
+            2780,
+            393,
+            3060,
+            525
+          ],
+          "confidence": {
+            "lexical": "medium",
+            "order": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "An s-ending is read in the source opening word.",
+          "coordinator_disposition": "Preserve the specified localized source observation with its original confidence. No Adzom text is changed and no unlisted glyph is certified."
+        },
+        {
+          "id": "O22-05",
+          "pdf_page": 22,
+          "anchors": [
+            "U00632"
+          ],
+          "source_span": "མ་དག་པ་ཡི་ཡེ་ཤེས་སོ ⟨B H B⟩",
+          "base_span": "མ་དག་པ་ཡིས་ཡེ་ཤེས་སོ; separate base annotation ནི་ཡང",
+          "category": "lexical_and_graphic_difference",
+          "neighboring_context": "Between the ཉོན་མོངས clause and སྦྱོར་བའི་དམིགས.",
+          "approximate_native_bounds": [
+            2550,
+            488,
+            3200,
+            623
+          ],
+          "confidence": {
+            "lexical": "medium-high",
+            "order": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The source is read ཡི་ཡེ, with a raised hook in the following boundary. No separate ནི་ཡང note is discerned locally.",
+          "coordinator_disposition": "Retain yi/yi(s) comparison, the separate hook, and the local annotation check as different components; no global absence inference."
+        },
+        {
+          "id": "O22-06",
+          "pdf_page": 22,
+          "anchors": [
+            "U00633"
+          ],
+          "source_span": "སྐྱོང",
+          "base_span": "བསྐྱང",
+          "category": "spelling_difference",
+          "neighboring_context": "Continues the preceding row's རང་འདོད; U00634 follows.",
+          "approximate_native_bounds": [
+            446,
+            588,
+            612,
+            714
+          ],
+          "confidence": {
+            "lexical": "medium",
+            "order": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The standalone continuation is read with an o-vowel and without supplying the base's prefix.",
+          "coordinator_disposition": "Preserve the specified localized source observation with its original confidence. No Adzom text is changed and no unlisted glyph is certified."
+        },
+        {
+          "id": "O22-07",
+          "pdf_page": 22,
+          "anchors": [
+            "U00637"
+          ],
+          "source_span": "དམ་བཅའི་སྐྱོན",
+          "base_span": "དམ་བཅའ་སྐྱོན",
+          "category": "additional_genitive_component",
+          "neighboring_context": "After U00636; followed by ནི་བརྟགས་ཏེ་བཅའ.",
+          "approximate_native_bounds": [
+            2860,
+            575,
+            3240,
+            718
+          ],
+          "confidence": {
+            "lexical": "medium",
+            "order": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The source is read with འི; the grammar is preserved.",
+          "coordinator_disposition": "Preserve the specified localized source observation with its original confidence. No Adzom text is changed and no unlisted glyph is certified."
+        },
+        {
+          "id": "O22-08",
+          "pdf_page": 22,
+          "anchors": [
+            "U00638"
+          ],
+          "source_span": "བརྩི",
+          "base_span": "བརྩིས",
+          "category": "spelling_difference",
+          "neighboring_context": "དག་གིས་འབྲེལ་དོན precedes; U00639 follows.",
+          "approximate_native_bounds": [
+            840,
+            692,
+            1040,
+            796
+          ],
+          "confidence": {
+            "lexical": "medium",
+            "order": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "No final s is read before the following bar.",
+          "coordinator_disposition": "Preserve the specified localized source observation with its original confidence. No Adzom text is changed and no unlisted glyph is certified."
+        },
+        {
+          "id": "O22-09",
+          "pdf_page": 22,
+          "anchors": [
+            "U00640"
+          ],
+          "source_span": "བློ་[Q09]བརྟེན",
+          "base_span": "བློ་ལ་བརྟེན",
+          "category": "local_component_unresolved",
+          "neighboring_context": "གྲུབ་མཐའ precedes; པ་ཡིས follows.",
+          "approximate_native_bounds": {
+            "ledger_ref": "Q09"
+          },
+          "confidence": {
+            "lexical": "low within Q09",
+            "order": "high",
+            "graphic": "medium",
+            "layer": "high"
+          },
+          "rationale": "The possible intervening syllable is not supplied from the base or declared absent.",
+          "coordinator_disposition": "Preserve the specified localized source observation with its original confidence. No Adzom text is changed and no unlisted glyph is certified."
+        }
+      ],
+      "canonical_record_ids": [
+        "TS-CONT3-B09-O21-02",
+        "TS-CONT3-B09-O21-03",
+        "TS-CONT3-B09-O21-04",
+        "TS-CONT3-B09-O21-05",
+        "TS-CONT3-B09-O21-06",
+        "TS-CONT3-B09-O21-07",
+        "TS-CONT3-B09-O21-08",
+        "TS-CONT3-B09-O21-10",
+        "TS-CONT3-B09-O22-01",
+        "TS-CONT3-B09-O22-02",
+        "TS-CONT3-B09-O22-03",
+        "TS-CONT3-B09-O22-04",
+        "TS-CONT3-B09-O22-05",
+        "TS-CONT3-B09-O22-06",
+        "TS-CONT3-B09-O22-07",
+        "TS-CONT3-B09-O22-08",
+        "TS-CONT3-B09-O22-09",
+        "TS-CONT3-B09-O23-01",
+        "TS-CONT3-B09-O23-02",
+        "TS-CONT3-B09-O23-03",
+        "TS-CONT3-B09-O23-04",
+        "TS-CONT3-B09-O23-05",
+        "TS-CONT3-B09-O23-06",
+        "TS-CONT3-B09-O23-07",
+        "TS-CONT3-B09-O23-09",
+        "TS-CONT3-B09-SLOT-Q13",
+        "TS-CONT3-B09-SLOT-Q15",
+        "TS-CONT3-B09-Q05",
+        "TS-CONT3-B09-Q12",
+        "TS-CONT3-B09-Q14"
+      ],
+      "source_layers_and_non_main_regions": [
+        {
+          "pdf_page": 21,
+          "regions": [
+            {
+              "id": "N21a",
+              "content": "[Q03]",
+              "placement": "Small isolated glyph between U00597 and U00599; separate from main lettering.",
+              "bounds_ref": "Q03"
+            },
+            {
+              "id": "N21b",
+              "content": "[Q06]",
+              "placement": "Small isolated glyph between U00613 and U00614.",
+              "bounds_ref": "Q06"
+            },
+            {
+              "id": "N21c",
+              "content": "22",
+              "placement": "Right margin, rotated Arabic page label.",
+              "approximate_native_bounds": [
+                3840,
+                525,
+                3895,
+                590
+              ]
+            },
+            {
+              "id": "N21d",
+              "content": "F",
+              "placement": "Outer frame and continuous inner vertical rules; no separate left-margin lexical label discerned."
+            }
+          ],
+          "local_annotation_check": "No separate lexical annotation discerned around U00596; this does not establish absence elsewhere."
+        },
+        {
+          "pdf_page": 22,
+          "regions": [
+            {
+              "id": "N22a",
+              "content": "O B",
+              "placement": "Opening ornament and detached bar at far left of physical row 1, preceding a substantial blank.",
+              "approximate_native_bounds": [
+                448,
+                250,
+                604,
+                330
+              ]
+            },
+            {
+              "id": "N22b",
+              "content": "[Q10]",
+              "placement": "Short upper left marginal label.",
+              "bounds_ref": "Q10"
+            },
+            {
+              "id": "N22c",
+              "content": "[Q11]",
+              "placement": "Vertical lower left marginal inscription.",
+              "bounds_ref": "Q11"
+            },
+            {
+              "id": "N22d",
+              "content": "[Q08]",
+              "placement": "Small isolated glyph after U00623 and before U00625.",
+              "bounds_ref": "Q08"
+            },
+            {
+              "id": "N22e",
+              "content": "23",
+              "placement": "Right margin, rotated Arabic page label.",
+              "approximate_native_bounds": [
+                3855,
+                495,
+                3910,
+                570
+              ]
+            },
+            {
+              "id": "N22f",
+              "content": "F",
+              "placement": "Outer frame and continuous inner vertical rules."
+            }
+          ],
+          "local_annotation_check": "No separate lexical notes discerned at the inspected U00626 or U00632 loci."
+        },
+        {
+          "pdf_page": 23,
+          "regions": [
+            {
+              "id": "N23a",
+              "content": "[Q13]",
+              "placement": "Isolated small glyph in the space after U00654 and before U00656.",
+              "bounds_ref": "Q13"
+            },
+            {
+              "id": "N23b",
+              "content": "[Q15]",
+              "placement": "Isolated small glyph after U00675 and before U00677.",
+              "bounds_ref": "Q15"
+            },
+            {
+              "id": "N23c",
+              "content": "24",
+              "placement": "Right margin, rotated Arabic page label.",
+              "approximate_native_bounds": [
+                3805,
+                550,
+                3865,
+                620
+              ]
+            },
+            {
+              "id": "N23d",
+              "content": "F",
+              "placement": "Outer frame and continuous inner rules; no separate left-margin lexical label discerned."
+            }
+          ],
+          "local_annotation_check": "No separate lexical annotation discerned around U00651."
+        }
+      ],
+      "unread_or_uncertain_spans": [
+        {
+          "id": "Q01",
+          "pdf_page": 21,
+          "anchor": "U00594",
+          "native_bounds": [
+            2480,
+            387,
+            2685,
+            508
+          ],
+          "exact_question": "What exact letter stacks and syllable division occupy the interval after འབྲུག་ and before དམར་?"
+        },
+        {
+          "id": "Q02",
+          "pdf_page": 21,
+          "anchor": "U00596",
+          "native_bounds": [
+            920,
+            443,
+            997,
+            540
+          ],
+          "exact_question": "Which vowel mark belongs to the visible consonant frame གད…ང? The adjacent words do not resolve this vowel."
+        },
+        {
+          "id": "Q03",
+          "pdf_page": 21,
+          "anchor": "U00598:alignment slot only",
+          "native_bounds": [
+            1890,
+            459,
+            1940,
+            532
+          ],
+          "exact_question": "What is the exact identity of the small isolated hooked/angular glyph between གསལ་བའོ and རང་དང? No numeral value is assigned."
+        },
+        {
+          "id": "Q04",
+          "pdf_page": 21,
+          "anchor": "U00600",
+          "native_bounds": [
+            2820,
+            492,
+            2965,
+            596
+          ],
+          "exact_question": "Is there a separate syllable after ངེས་ and before བསལ་, and if so what letters constitute it?"
+        },
+        {
+          "id": "Q05",
+          "pdf_page": 21,
+          "anchor": "U00605",
+          "native_bounds": [
+            3160,
+            600,
+            3275,
+            704
+          ],
+          "exact_question": "Does the end of བླང contain an additional suffix ས before the boundary, or only the final letter and punctuation?"
+        },
+        {
+          "id": "Q06",
+          "pdf_page": 21,
+          "anchor": "between U00613 and U00614",
+          "native_bounds": [
+            2490,
+            758,
+            2550,
+            819
+          ],
+          "exact_question": "What is the identity of the small isolated two-level curved/angular glyph after བརྗོད་བྱའོ? Its numerical or sectional function is unresolved."
+        },
+        {
+          "id": "Q07",
+          "pdf_page": 22,
+          "anchor": "U00623:tail",
+          "native_bounds": [
+            450,
+            416,
+            587,
+            519
+          ],
+          "exact_question": "What is the complete opening conjunct before the readable འོ in the first word of row 3, including whether a prefixed བ is present?"
+        },
+        {
+          "id": "Q08",
+          "pdf_page": 22,
+          "anchor": "U00624:alignment slot only",
+          "native_bounds": [
+            643,
+            430,
+            688,
+            470
+          ],
+          "exact_question": "What is the exact identity of the short isolated bent glyph after the row-initial closure and before འཕེན? Do not infer a numeral from the base heading."
+        },
+        {
+          "id": "Q09",
+          "pdf_page": 22,
+          "anchor": "U00640",
+          "native_bounds": [
+            2050,
+            678,
+            2200,
+            790
+          ],
+          "exact_question": "Is a separate ལ present between བློ and བརྟེན, or does the visible stroke belong to an adjacent letter?"
+        },
+        {
+          "id": "Q10",
+          "pdf_page": 22,
+          "anchor": null,
+          "native_bounds": [
+            343,
+            338,
+            425,
+            387
+          ],
+          "exact_question": "What is the short upper left marginal glyph or label, including its loop and extended stroke?"
+        },
+        {
+          "id": "Q11",
+          "pdf_page": 22,
+          "anchor": null,
+          "native_bounds": [
+            346,
+            572,
+            432,
+            750
+          ],
+          "exact_question": "What is the complete vertical lower left marginal inscription? Its letter sequence is not securely resolved from this viewing."
+        },
+        {
+          "id": "Q12",
+          "pdf_page": 23,
+          "anchor": "U00653",
+          "native_bounds": [
+            447,
+            278,
+            587,
+            391
+          ],
+          "exact_question": "What is the complete first syllable of row 2, including any prefix and suffix around the visible སྒྲུབ-shaped core?"
+        },
+        {
+          "id": "Q13",
+          "pdf_page": 23,
+          "anchor": "U00655:alignment slot only",
+          "native_bounds": [
+            1769,
+            323,
+            1818,
+            380
+          ],
+          "exact_question": "What is the exact identity of the small isolated tiered glyph after དེ་དག་གོ and before རྒྱུ་མཚན? No expected reply numeral is supplied."
+        },
+        {
+          "id": "Q14",
+          "pdf_page": 23,
+          "anchor": "U00673",
+          "native_bounds": [
+            1450,
+            646,
+            1575,
+            761
+          ],
+          "exact_question": "Is there a final ས after the readable བསྲུང, distinct from the following boundary strokes?"
+        },
+        {
+          "id": "Q15",
+          "pdf_page": 23,
+          "anchor": "U00676:alignment slot only",
+          "native_bounds": [
+            3190,
+            656,
+            3280,
+            725
+          ],
+          "exact_question": "What is the exact identity of the small isolated hook/loop after འགྱུར་བྱེད་དོ and before ལེའུ? Its numerical value is unresolved."
+        },
+        {
+          "id": "Q16",
+          "pdf_page": 23,
+          "anchor": "U00681:terminal boundary",
+          "native_bounds": [
+            3730,
+            813,
+            3812,
+            910
+          ],
+          "exact_question": "Beyond the first detached terminal bar, is the next narrow stroke a second detached bar or part of the continuous inner frame?"
+        }
+      ],
+      "unexamined_spans": {
+        "actual_target_omissions": [],
+        "deliberately_excluded_flanks": [
+          {
+            "pdf_page": 20,
+            "scope": "Full-page collation excluded; inspected for layout and the row-7 incoming connection at U00581."
+          },
+          {
+            "pdf_page": 24,
+            "scope": "Full-page collation excluded; inspected for layout and the row-1 outgoing connection at U00682."
+          }
+        ],
+        "distinction": "Q entries are inspected but unresolved components, not skipped rows."
+      },
+      "next_physical_span": "Continue Tsamdrak PDF24 row1, U00682: གནད་འདུས་བཀོད་པ་སེམས་ཀྱི་རྟེན. Preserve Q01–Q16 and the component inventories of PDF21–23.",
+      "integration_20260929": {
+        "verified_inputs": {
+          "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+          "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4",
+          "images_hash_verified": 16,
+          "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-execution.json"
+        },
+        "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+        "coordinator": {
+          "summary": "Tsamdrak PDF21–23: all 21 source rows integrated from U00581 continuation through U00681, with local differences, isolated heading-slot graphics and sixteen bounded unresolved components.",
+          "next_step": "Continue Tsamdrak PDF24 row1, U00682: གནད་འདུས་བཀོད་པ་སེམས་ཀྱི་རྟེན. Preserve Q01–Q16 and the component inventories of PDF21–23.",
+          "detail": "The invalid original JSON remains untouched; a separately hash-verified sidecar removes only the stray unused object. Nine page23 findings nested in coverage_assessment are explicitly dispositioned, not discarded. Heading-slot graphics are not missing main verses or expanded numeral readings.",
+          "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+          "observation_dispositions": {
+            "O21-01": "Keep incoming U00581 page continuation in the row ledger, without a duplicate variant record.",
+            "O21-02": "Preserve the specified localized source observation with its original confidence. No Adzom text is changed and no unlisted glyph is certified.",
+            "O21-03": "Preserve the specified localized source observation with its original confidence. No Adzom text is changed and no unlisted glyph is certified.",
+            "O21-04": "Preserve the specified localized source observation with its original confidence. No Adzom text is changed and no unlisted glyph is certified.",
+            "O21-05": "Preserve the specified localized source observation with its original confidence. No Adzom text is changed and no unlisted glyph is certified.",
+            "O21-06": "Retain the isolated graphic at the U00598 heading position without inventing its numeral or expanding the base heading words.",
+            "O21-07": "Preserve the specified localized source observation with its original confidence. No Adzom text is changed and no unlisted glyph is certified.",
+            "O21-08": "Preserve the specified localized source observation with its original confidence. No Adzom text is changed and no unlisted glyph is certified.",
+            "O21-09": "Retain both gsum occurrences in physical row order; repetition is not an additional variant or crop duplication.",
+            "O21-10": "Preserve the specified localized source observation with its original confidence. No Adzom text is changed and no unlisted glyph is certified.",
+            "O22-01": "Preserve the specified localized source observation with its original confidence. No Adzom text is changed and no unlisted glyph is certified.",
+            "O22-02": "Keep unresolved main conjunct Q07 distinct from separate small graphic Q08 at U00624. Neither is filled from expected text.",
+            "O22-03": "Preserve the specified localized source observation with its original confidence. No Adzom text is changed and no unlisted glyph is certified.",
+            "O22-04": "Preserve the specified localized source observation with its original confidence. No Adzom text is changed and no unlisted glyph is certified.",
+            "O22-05": "Retain yi/yi(s) comparison, the separate hook, and the local annotation check as different components; no global absence inference.",
+            "O22-06": "Preserve the specified localized source observation with its original confidence. No Adzom text is changed and no unlisted glyph is certified.",
+            "O22-07": "Preserve the specified localized source observation with its original confidence. No Adzom text is changed and no unlisted glyph is certified.",
+            "O22-08": "Preserve the specified localized source observation with its original confidence. No Adzom text is changed and no unlisted glyph is certified.",
+            "O22-09": "Preserve the specified localized source observation with its original confidence. No Adzom text is changed and no unlisted glyph is certified."
+          }
+        },
+        "reader_claims_not_automatically_certified": true
+      },
+      "graphic_legend": {
+        "⟨n⟩": "Boundary interval indexed by the corresponding row's signs array, numbered from 1; inventories preserve physical order without assigning a next-leading sign to the preceding unit.",
+        "B": "Detached upright ordinary bar; attached letter limbs and page rules excluded.",
+        "D": "Pair of short raised oblique ticks; not expanded into two ordinary shads.",
+        "H": "Compact raised hooked mark with a short return; not expanded into ordinary shads.",
+        "O": "Opening ornament: paired upper curls above swept lower strokes.",
+        "F": "Page frame or continuous inner rule; not text punctuation.",
+        "[Qnn]": "Unresolved component at the indicated position; its bounds and question occur once in unread_after_inspection. A Q component can concern the presence of an additional letter or sign.",
+        "tsheg": "Visible intersyllabic dots represented by ་; no lexical expansion of graphic codes.",
+        "bounds": "Estimated native-pixel [x0,y0,x1,y1], not measurements made with tools.",
+        "anchor_fragments": "Anchor labels identify correspondence only; head and tail indicate physical-page or row fragments."
+      },
+      "independent_review": {
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4",
+        "images_hash_verified": 16,
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-execution.json",
+        "scope": {
+          "target_pages_inspected": [
+            21,
+            22,
+            23
+          ],
+          "main_rows_inspected": 21,
+          "main_rows_returned": 21,
+          "non_main_regions_inspected": true,
+          "unresolved_components": 16,
+          "source_order_findings": [
+            {
+              "pdf_page": 23,
+              "anchors": [
+                "U00649"
+              ],
+              "source_span": "ཚིག་ལ་འཇུག",
+              "base_span": "ཚིག་དང་འཇུག",
+              "category": "particle_difference",
+              "neighboring_context": "After ལམ་དང་གནས་ཏེ.",
+              "approximate_native_bounds": [
+                1400,
+                165,
+                1730,
+                305
+              ],
+              "confidence": {
+                "lexical": "medium-high",
+                "order": "high",
+                "layer": "high"
+              },
+              "rationale": "Read ལ directly; retain the source construction."
+            },
+            {
+              "pdf_page": 23,
+              "anchors": [
+                "U00651"
+              ],
+              "source_span": "བྱས་དང་བྱུང་དང་བྱེད་པ་དང",
+              "base_span": "གནས་དང་བྱུང་དང་བྱེད་པ་དང",
+              "category": "lexical_difference",
+              "neighboring_context": "Between U00650 and U00652.",
+              "approximate_native_bounds": [
+                2420,
+                175,
+                3150,
+                315
+              ],
+              "confidence": {
+                "lexical": "medium-high",
+                "order": "high",
+                "layer": "high"
+              },
+              "rationale": "The first word is read བྱས. The base's separate བྱས་ཀྱང་འདུག note is not inserted."
+            },
+            {
+              "pdf_page": 23,
+              "anchors": [
+                "U00654"
+              ],
+              "source_span": "བྱ་རྒྱུ་རྣམས",
+              "base_span": "བྱ་བྱེད་རྒྱུ་རྣམས",
+              "category": "local_shorter_sequence",
+              "neighboring_context": "After U00653; before དེ་དག་གོ and Q13.",
+              "approximate_native_bounds": [
+                1120,
+                275,
+                1490,
+                400
+              ],
+              "confidence": {
+                "lexical": "medium",
+                "order": "high",
+                "layer": "high"
+              },
+              "rationale": "No separate བྱེད is read in this interval; no global absence or historical cause is inferred."
+            },
+            {
+              "pdf_page": 23,
+              "anchors": [
+                "U00662"
+              ],
+              "source_span": "མེ་རླུང་ཆུ་ས",
+              "base_span": "མེ་རླུང་ས་ཆུ",
+              "category": "element_order_difference",
+              "neighboring_context": "Followed by བཞི་གཉིས་འཁོར; next clause starts with row-final ས.",
+              "approximate_native_bounds": [
+                3030,
+                385,
+                3430,
+                528
+              ],
+              "confidence": {
+                "lexical": "medium",
+                "order": "medium-high",
+                "layer": "high"
+              },
+              "rationale": "The source order is retained rather than rearranged to the base."
+            },
+            {
+              "pdf_page": 23,
+              "anchors": [
+                "U00666"
+              ],
+              "source_span": "སྟོངས་པའི",
+              "base_span": "སྟོང་པའི",
+              "category": "spelling_difference",
+              "neighboring_context": "Followed by གནས་ཏེ་བརྒྱད་ཡིན་ནོ.",
+              "approximate_native_bounds": [
+                2320,
+                465,
+                2620,
+                613
+              ],
+              "confidence": {
+                "lexical": "medium",
+                "order": "high",
+                "layer": "high"
+              },
+              "rationale": "An s-ending is read and preserved."
+            },
+            {
+              "pdf_page": 23,
+              "anchors": [
+                "U00669"
+              ],
+              "source_span": "འདུ་དང",
+              "base_span": "འདུས་དང",
+              "category": "spelling_difference",
+              "neighboring_context": "After U00668; followed by རྟགས་ཏེ་འདི་རྣམས་ལ.",
+              "approximate_native_bounds": [
+                1450,
+                550,
+                1720,
+                682
+              ],
+              "confidence": {
+                "lexical": "medium",
+                "order": "high",
+                "layer": "high"
+              },
+              "rationale": "The source opening is read without a final s."
+            },
+            {
+              "pdf_page": 23,
+              "anchors": [
+                "U00670"
+              ],
+              "source_span": "འགྱུར་བྱེད་ལས",
+              "base_span": "འགྱུར་བྱེད་ལ",
+              "category": "terminal_word_difference",
+              "neighboring_context": "After འདྲེན་ཅིང་གནས་པ; before U00671.",
+              "approximate_native_bounds": [
+                2380,
+                552,
+                2890,
+                714
+              ],
+              "confidence": {
+                "lexical": "medium-high",
+                "order": "high",
+                "layer": "high"
+              },
+              "rationale": "The source terminal word is read ལས."
+            },
+            {
+              "pdf_page": 23,
+              "anchors": [
+                "U00671"
+              ],
+              "source_span": "རླུང་རླུང་ས་ས་མེ་མེ་ཆུ",
+              "base_span": "Same repeated sequence.",
+              "category": "repetition_preserved",
+              "neighboring_context": "Between U00670 and U00672.",
+              "approximate_native_bounds": [
+                2990,
+                565,
+                3460,
+                735
+              ],
+              "confidence": {
+                "lexical": "high",
+                "order": "high",
+                "layer": "high"
+              },
+              "rationale": "Repeated element names are source text, not crop-overlap duplication."
+            },
+            {
+              "pdf_page": 23,
+              "anchors": [
+                "U00678"
+              ],
+              "source_span": "བཀོད་པའི་མན་ངག",
+              "base_span": "བཀོད་པ་མན་ངག",
+              "category": "additional_genitive_component",
+              "neighboring_context": "སྣ་ཚོགས precedes; གནས follows.",
+              "approximate_native_bounds": [
+                980,
+                727,
+                1430,
+                866
+              ],
+              "confidence": {
+                "lexical": "medium-high",
+                "order": "high",
+                "layer": "high"
+              },
+              "rationale": "The visible genitive is retained."
+            }
+          ],
+          "limitations": "Provisional model reading with the explicit local uncertainties above. Gross row coverage is complete; this is not complete chapter or witness certification. Overlapping crops are the same source pixels and supply no independent witness corroboration.",
+          "tools_used": false
+        },
+        "proposals_adopted": false
+      },
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "supplementary_observations": [
+        {
+          "pdf_page": 23,
+          "anchors": [
+            "U00649"
+          ],
+          "source_span": "ཚིག་ལ་འཇུག",
+          "base_span": "ཚིག་དང་འཇུག",
+          "category": "particle_difference",
+          "neighboring_context": "After ལམ་དང་གནས་ཏེ.",
+          "approximate_native_bounds": [
+            1400,
+            165,
+            1730,
+            305
+          ],
+          "confidence": {
+            "lexical": "medium-high",
+            "order": "high",
+            "layer": "high"
+          },
+          "rationale": "Read ལ directly; retain the source construction.",
+          "id": "O23-01",
+          "raw_location": "coverage_assessment.source_order_findings[0]"
+        },
+        {
+          "pdf_page": 23,
+          "anchors": [
+            "U00651"
+          ],
+          "source_span": "བྱས་དང་བྱུང་དང་བྱེད་པ་དང",
+          "base_span": "གནས་དང་བྱུང་དང་བྱེད་པ་དང",
+          "category": "lexical_difference",
+          "neighboring_context": "Between U00650 and U00652.",
+          "approximate_native_bounds": [
+            2420,
+            175,
+            3150,
+            315
+          ],
+          "confidence": {
+            "lexical": "medium-high",
+            "order": "high",
+            "layer": "high"
+          },
+          "rationale": "The first word is read བྱས. The base's separate བྱས་ཀྱང་འདུག note is not inserted.",
+          "id": "O23-02",
+          "raw_location": "coverage_assessment.source_order_findings[1]"
+        },
+        {
+          "pdf_page": 23,
+          "anchors": [
+            "U00654"
+          ],
+          "source_span": "བྱ་རྒྱུ་རྣམས",
+          "base_span": "བྱ་བྱེད་རྒྱུ་རྣམས",
+          "category": "local_shorter_sequence",
+          "neighboring_context": "After U00653; before དེ་དག་གོ and Q13.",
+          "approximate_native_bounds": [
+            1120,
+            275,
+            1490,
+            400
+          ],
+          "confidence": {
+            "lexical": "medium",
+            "order": "high",
+            "layer": "high"
+          },
+          "rationale": "No separate བྱེད is read in this interval; no global absence or historical cause is inferred.",
+          "id": "O23-03",
+          "raw_location": "coverage_assessment.source_order_findings[2]"
+        },
+        {
+          "pdf_page": 23,
+          "anchors": [
+            "U00662"
+          ],
+          "source_span": "མེ་རླུང་ཆུ་ས",
+          "base_span": "མེ་རླུང་ས་ཆུ",
+          "category": "element_order_difference",
+          "neighboring_context": "Followed by བཞི་གཉིས་འཁོར; next clause starts with row-final ས.",
+          "approximate_native_bounds": [
+            3030,
+            385,
+            3430,
+            528
+          ],
+          "confidence": {
+            "lexical": "medium",
+            "order": "medium-high",
+            "layer": "high"
+          },
+          "rationale": "The source order is retained rather than rearranged to the base.",
+          "id": "O23-04",
+          "raw_location": "coverage_assessment.source_order_findings[3]"
+        },
+        {
+          "pdf_page": 23,
+          "anchors": [
+            "U00666"
+          ],
+          "source_span": "སྟོངས་པའི",
+          "base_span": "སྟོང་པའི",
+          "category": "spelling_difference",
+          "neighboring_context": "Followed by གནས་ཏེ་བརྒྱད་ཡིན་ནོ.",
+          "approximate_native_bounds": [
+            2320,
+            465,
+            2620,
+            613
+          ],
+          "confidence": {
+            "lexical": "medium",
+            "order": "high",
+            "layer": "high"
+          },
+          "rationale": "An s-ending is read and preserved.",
+          "id": "O23-05",
+          "raw_location": "coverage_assessment.source_order_findings[4]"
+        },
+        {
+          "pdf_page": 23,
+          "anchors": [
+            "U00669"
+          ],
+          "source_span": "འདུ་དང",
+          "base_span": "འདུས་དང",
+          "category": "spelling_difference",
+          "neighboring_context": "After U00668; followed by རྟགས་ཏེ་འདི་རྣམས་ལ.",
+          "approximate_native_bounds": [
+            1450,
+            550,
+            1720,
+            682
+          ],
+          "confidence": {
+            "lexical": "medium",
+            "order": "high",
+            "layer": "high"
+          },
+          "rationale": "The source opening is read without a final s.",
+          "id": "O23-06",
+          "raw_location": "coverage_assessment.source_order_findings[5]"
+        },
+        {
+          "pdf_page": 23,
+          "anchors": [
+            "U00670"
+          ],
+          "source_span": "འགྱུར་བྱེད་ལས",
+          "base_span": "འགྱུར་བྱེད་ལ",
+          "category": "terminal_word_difference",
+          "neighboring_context": "After འདྲེན་ཅིང་གནས་པ; before U00671.",
+          "approximate_native_bounds": [
+            2380,
+            552,
+            2890,
+            714
+          ],
+          "confidence": {
+            "lexical": "medium-high",
+            "order": "high",
+            "layer": "high"
+          },
+          "rationale": "The source terminal word is read ལས.",
+          "id": "O23-07",
+          "raw_location": "coverage_assessment.source_order_findings[6]"
+        },
+        {
+          "pdf_page": 23,
+          "anchors": [
+            "U00671"
+          ],
+          "source_span": "རླུང་རླུང་ས་ས་མེ་མེ་ཆུ",
+          "base_span": "Same repeated sequence.",
+          "category": "repetition_preserved",
+          "neighboring_context": "Between U00670 and U00672.",
+          "approximate_native_bounds": [
+            2990,
+            565,
+            3460,
+            735
+          ],
+          "confidence": {
+            "lexical": "high",
+            "order": "high",
+            "layer": "high"
+          },
+          "rationale": "Repeated element names are source text, not crop-overlap duplication.",
+          "id": "O23-08",
+          "raw_location": "coverage_assessment.source_order_findings[7]"
+        },
+        {
+          "pdf_page": 23,
+          "anchors": [
+            "U00678"
+          ],
+          "source_span": "བཀོད་པའི་མན་ངག",
+          "base_span": "བཀོད་པ་མན་ངག",
+          "category": "additional_genitive_component",
+          "neighboring_context": "སྣ་ཚོགས precedes; གནས follows.",
+          "approximate_native_bounds": [
+            980,
+            727,
+            1430,
+            866
+          ],
+          "confidence": {
+            "lexical": "medium-high",
+            "order": "high",
+            "layer": "high"
+          },
+          "rationale": "The visible genitive is retained.",
+          "id": "O23-09",
+          "raw_location": "coverage_assessment.source_order_findings[8]"
+        },
+        {
+          "id": "SLOT-Q13",
+          "pdf_page": 23,
+          "anchors": [
+            "U00654",
+            "U00655",
+            "U00656"
+          ],
+          "source_span": "[Q13] Isolated small graphic; complete character identity unresolved.",
+          "base_span": "དྲིས་ལན་བརྒྱད་པ།",
+          "category": "source_heading_slot_graphic",
+          "neighboring_context": "What is the exact identity of the small isolated tiered glyph after དེ་དག་གོ and before རྒྱུ་མཚན? No expected reply numeral is supplied.",
+          "approximate_native_bounds": [
+            1769,
+            323,
+            1818,
+            380
+          ],
+          "confidence": {
+            "physical_position": "high",
+            "character_identity": "unresolved",
+            "heading_expansion": "not_adopted"
+          },
+          "rationale": "The source records a detached small glyph at this location, not the supplied full heading wording. No main-verse omission is inferred.",
+          "raw_location": "unread_after_inspection Q13 and corresponding row/non_main_regions"
+        },
+        {
+          "id": "SLOT-Q15",
+          "pdf_page": 23,
+          "anchors": [
+            "U00675",
+            "U00676",
+            "U00677"
+          ],
+          "source_span": "[Q15] Isolated small graphic; complete character identity unresolved.",
+          "base_span": "དྲིས་ལན་དགུ་པ།",
+          "category": "source_heading_slot_graphic",
+          "neighboring_context": "What is the exact identity of the small isolated hook/loop after འགྱུར་བྱེད་དོ and before ལེའུ? Its numerical value is unresolved.",
+          "approximate_native_bounds": [
+            3190,
+            656,
+            3280,
+            725
+          ],
+          "confidence": {
+            "physical_position": "high",
+            "character_identity": "unresolved",
+            "heading_expansion": "not_adopted"
+          },
+          "rationale": "The source records a detached small glyph at this location, not the supplied full heading wording. No main-verse omission is inferred.",
+          "raw_location": "unread_after_inspection Q15 and corresponding row/non_main_regions"
+        }
+      ],
+      "supplementary_dispositions": {
+        "O23-01": "Preserve the nested source finding or explicitly bounded heading-slot glyph without changing the original report or the Adzom reading.",
+        "O23-02": "Preserve the nested source finding or explicitly bounded heading-slot glyph without changing the original report or the Adzom reading.",
+        "O23-03": "Preserve the nested source finding or explicitly bounded heading-slot glyph without changing the original report or the Adzom reading.",
+        "O23-04": "Preserve the nested source finding or explicitly bounded heading-slot glyph without changing the original report or the Adzom reading.",
+        "O23-05": "Preserve the nested source finding or explicitly bounded heading-slot glyph without changing the original report or the Adzom reading.",
+        "O23-06": "Preserve the nested source finding or explicitly bounded heading-slot glyph without changing the original report or the Adzom reading.",
+        "O23-07": "Preserve the nested source finding or explicitly bounded heading-slot glyph without changing the original report or the Adzom reading.",
+        "O23-08": "Retain source repetition in row ledger only; no new variant.",
+        "O23-09": "Preserve the nested source finding or explicitly bounded heading-slot glyph without changing the original report or the Adzom reading.",
+        "SLOT-Q13": "Preserve the nested source finding or explicitly bounded heading-slot glyph without changing the original report or the Adzom reading.",
+        "SLOT-Q15": "Preserve the nested source finding or explicitly bounded heading-slot glyph without changing the original report or the Adzom reading."
+      }
     }
   ],
   "remaining_declared_scope": "Resolve recorded opening1–13 suffix/stack uncertainties; reliable continuous PDF14–83 through row6, including signs/source notes.",

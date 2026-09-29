@@ -24190,5 +24190,1736 @@
       },
       "coordinator_scope": "Native target overviews and all nine overlapping target columns were visually traversed before reading the independent report; actual row order and specified local source contrasts checked. Medium-confidence small glyphs and all Q spans remain qualified. Integration resumed from the remotely preserved prior-session visual review; source/report hashes and decisions rechecked in this session. No new universal glyph-certainty claim."
     }
+  },
+  {
+    "id": "TS-CONT3-B09-O21-02",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00581",
+      "U00582"
+    ],
+    "base_snippet_at_review": "U00581/U00582 punctuation boundary",
+    "comparison_reading": "བསྐོར ⟨B D B⟩ དེ་འོག",
+    "status": "qualified_local_observation",
+    "confidence": "{\"lexical\": \"high\", \"order\": \"high\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 21; source-member and native bounds in linked packet; bounds: [805, 164, 1060, 295]",
+    "rationale": "Short paired ticks are retained separately from upright bars, including the next-leading bar. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "id": "O21-02",
+        "pdf_page": 21,
+        "anchors": [
+          "U00581",
+          "U00582"
+        ],
+        "source_span": "བསྐོར ⟨B D B⟩ དེ་འོག",
+        "base_span": "U00581/U00582 punctuation boundary",
+        "category": "graphic_inventory",
+        "neighboring_context": "End of incoming continuation; beginning of the next world description.",
+        "approximate_native_bounds": [
+          805,
+          164,
+          1060,
+          295
+        ],
+        "confidence": {
+          "lexical": "high",
+          "order": "high",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "Short paired ticks are retained separately from upright bars, including the next-leading bar."
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
+  },
+  {
+    "id": "TS-CONT3-B09-O21-03",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00588",
+      "U00589"
+    ],
+    "base_snippet_at_review": "U00588/U00589 punctuation boundary",
+    "comparison_reading": "རྫོགས ⟨B D B⟩ འདི་ནས",
+    "status": "qualified_local_observation",
+    "confidence": "{\"lexical\": \"high\", \"order\": \"high\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 21; source-member and native bounds in linked packet; bounds: [1900, 273, 2255, 392]",
+    "rationale": "A second short-tick group is visible in this local interval; it is not normalized to the base punctuation. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "id": "O21-03",
+        "pdf_page": 21,
+        "anchors": [
+          "U00588",
+          "U00589"
+        ],
+        "source_span": "རྫོགས ⟨B D B⟩ འདི་ནས",
+        "base_span": "U00588/U00589 punctuation boundary",
+        "category": "graphic_inventory",
+        "neighboring_context": "ལོངས་སྤྱོད precedes; འཇིག་རྟེན follows.",
+        "approximate_native_bounds": [
+          1900,
+          273,
+          2255,
+          392
+        ],
+        "confidence": {
+          "lexical": "high",
+          "order": "high",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "A second short-tick group is visible in this local interval; it is not normalized to the base punctuation."
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
+  },
+  {
+    "id": "TS-CONT3-B09-O21-04",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00594"
+    ],
+    "base_snippet_at_review": "སྒྲོགས་གློག",
+    "comparison_reading": "འབྲུག་[Q01]་དམར",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"lexical\": \"low within Q01\", \"order\": \"high\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 21; source-member and native bounds in linked packet; bounds: {\"ledger_ref\": \"Q01\"}",
+    "rationale": "The intervening stacks are not securely separated; neither the base's two words nor an omission is asserted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "id": "O21-04",
+        "pdf_page": 21,
+        "anchors": [
+          "U00594"
+        ],
+        "source_span": "འབྲུག་[Q01]་དམར",
+        "base_span": "སྒྲོགས་གློག",
+        "category": "unresolved_letter_sequence",
+        "neighboring_context": "After U00593; followed by ལྕེ་རྣམས་འབྱིན.",
+        "approximate_native_bounds": {
+          "ledger_ref": "Q01"
+        },
+        "confidence": {
+          "lexical": "low within Q01",
+          "order": "high",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The intervening stacks are not securely separated; neither the base's two words nor an omission is asserted."
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
+  },
+  {
+    "id": "TS-CONT3-B09-O21-05",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00596"
+    ],
+    "base_snippet_at_review": "ཀླུ་ཡི་གདོང; separate base annotation གླུ་ཡང་གདུང་ཡང་བྱུང",
+    "comparison_reading": "ཀླུ་ཡི་གད[Q02]ང",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"lexical\": \"medium; vowel unresolved\", \"order\": \"high\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 21; source-member and native bounds in linked packet; bounds: [435, 440, 1100, 590]",
+    "rationale": "The consonant frame is retained. The base's separate annotation is not inserted into the source main line. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "id": "O21-05",
+        "pdf_page": 21,
+        "anchors": [
+          "U00596"
+        ],
+        "source_span": "ཀླུ་ཡི་གད[Q02]ང",
+        "base_span": "ཀླུ་ཡི་གདོང; separate base annotation གླུ་ཡང་གདུང་ཡང་བྱུང",
+        "category": "main_text_and_annotation_layer",
+        "neighboring_context": "Between འོད་འབྱུང་ཕྲེང་བ and ཕྱོགས་དང་མཚམས.",
+        "approximate_native_bounds": [
+          435,
+          440,
+          1100,
+          590
+        ],
+        "confidence": {
+          "lexical": "medium; vowel unresolved",
+          "order": "high",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The consonant frame is retained. The base's separate annotation is not inserted into the source main line."
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
+  },
+  {
+    "id": "TS-CONT3-B09-O21-06",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00597",
+      "U00598",
+      "U00599"
+    ],
+    "base_snippet_at_review": "དྲིས་ལན་དྲུག་པ",
+    "comparison_reading": "[Q03]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"lexical\": \"not applicable\", \"order\": \"high\", \"graphic\": \"low for identification\", \"layer\": \"high\"}",
+    "locator": "PDF 21; source-member and native bounds in linked packet; bounds: {\"ledger_ref\": \"Q03\"}",
+    "rationale": "A small isolated glyph is present; the base heading words are not visibly written in this interval. No numeral value is supplied. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "id": "O21-06",
+        "pdf_page": 21,
+        "anchors": [
+          "U00597",
+          "U00598",
+          "U00599"
+        ],
+        "source_span": "[Q03]",
+        "base_span": "དྲིས་ལན་དྲུག་པ",
+        "category": "isolated_sign_at_heading_slot",
+        "neighboring_context": "གསལ་བའོ precedes; རང་དང་གཞན follows.",
+        "approximate_native_bounds": {
+          "ledger_ref": "Q03"
+        },
+        "confidence": {
+          "lexical": "not applicable",
+          "order": "high",
+          "graphic": "low for identification",
+          "layer": "high"
+        },
+        "rationale": "A small isolated glyph is present; the base heading words are not visibly written in this interval. No numeral value is supplied."
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
+  },
+  {
+    "id": "TS-CONT3-B09-O21-07",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00600"
+    ],
+    "base_snippet_at_review": "ངེས་བསལ",
+    "comparison_reading": "ངེས་[Q04]བསལ",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"lexical\": \"low within Q04\", \"order\": \"high\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 21; source-member and native bounds in linked packet; bounds: {\"ledger_ref\": \"Q04\"}",
+    "rationale": "A possible intervening component remains unresolved independently of the readable surrounding words. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "id": "O21-07",
+        "pdf_page": 21,
+        "anchors": [
+          "U00600"
+        ],
+        "source_span": "ངེས་[Q04]བསལ",
+        "base_span": "ངེས་བསལ",
+        "category": "possible_additional_component_unresolved",
+        "neighboring_context": "རང་གི་ཚིག་གིས precedes; ཏེ follows.",
+        "approximate_native_bounds": {
+          "ledger_ref": "Q04"
+        },
+        "confidence": {
+          "lexical": "low within Q04",
+          "order": "high",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "A possible intervening component remains unresolved independently of the readable surrounding words."
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
+  },
+  {
+    "id": "TS-CONT3-B09-O21-08",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00604"
+    ],
+    "base_snippet_at_review": "སྤངས་ཏེ",
+    "comparison_reading": "སྤང་སྟེ",
+    "status": "qualified_local_observation",
+    "confidence": "{\"lexical\": \"medium\", \"order\": \"high\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 21; source-member and native bounds in linked packet; bounds: [1760, 550, 2245, 690]",
+    "rationale": "The visible sequence is read with སྟེ following སྤང; it is not regularized to the base. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "id": "O21-08",
+        "pdf_page": 21,
+        "anchors": [
+          "U00604"
+        ],
+        "source_span": "སྤང་སྟེ",
+        "base_span": "སྤངས་ཏེ",
+        "category": "spelling_and_particle_difference",
+        "neighboring_context": "སྐྱོན་གསུམ precedes; ཐེ་ཚོམ་བསལ follows.",
+        "approximate_native_bounds": [
+          1760,
+          550,
+          2245,
+          690
+        ],
+        "confidence": {
+          "lexical": "medium",
+          "order": "high",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The visible sequence is read with སྟེ following སྤང; it is not regularized to the base."
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
+  },
+  {
+    "id": "TS-CONT3-B09-O21-10",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00613",
+      "U00614"
+    ],
+    "base_snippet_at_review": "No separate heading unit between these anchors in the supplied aid.",
+    "comparison_reading": "[Q06]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"lexical\": \"not applicable\", \"order\": \"high\", \"graphic\": \"low for identification\", \"layer\": \"high\"}",
+    "locator": "PDF 21; source-member and native bounds in linked packet; bounds: {\"ledger_ref\": \"Q06\"}",
+    "rationale": "The sign is recorded without assigning a numerical value or expanding it into a heading. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "id": "O21-10",
+        "pdf_page": 21,
+        "anchors": [
+          "U00613",
+          "U00614"
+        ],
+        "source_span": "[Q06]",
+        "base_span": "No separate heading unit between these anchors in the supplied aid.",
+        "category": "isolated_small_sign",
+        "neighboring_context": "བརྗོད་བྱའོ precedes; སྐྱོན་ནི follows.",
+        "approximate_native_bounds": {
+          "ledger_ref": "Q06"
+        },
+        "confidence": {
+          "lexical": "not applicable",
+          "order": "high",
+          "graphic": "low for identification",
+          "layer": "high"
+        },
+        "rationale": "The sign is recorded without assigning a numerical value or expanding it into a heading."
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
+  },
+  {
+    "id": "TS-CONT3-B09-O22-01",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00615",
+      "U00616"
+    ],
+    "base_snippet_at_review": "U00615 tail; U00616 དམ་བཅས",
+    "comparison_reading": "བྱས་ལ ⟨B B⟩ དམ་བཅའ",
+    "status": "qualified_local_observation",
+    "confidence": "{\"lexical\": \"medium-high\", \"order\": \"high\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 22; source-member and native bounds in linked packet; bounds: [890, 218, 1530, 332]",
+    "rationale": "The incoming continuation is secure; the next clause is read དམ་བཅའ rather than silently adopting དམ་བཅས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x2352-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "id": "O22-01",
+        "pdf_page": 22,
+        "anchors": [
+          "U00615",
+          "U00616"
+        ],
+        "source_span": "བྱས་ལ ⟨B B⟩ དམ་བཅའ",
+        "base_span": "U00615 tail; U00616 དམ་བཅས",
+        "category": "incoming_correspondence_and_spelling",
+        "neighboring_context": "PDF21 ends རང་སྐྱོན་རང་གིས་ཤེས; this page resumes བྱས་ལ.",
+        "approximate_native_bounds": [
+          890,
+          218,
+          1530,
+          332
+        ],
+        "confidence": {
+          "lexical": "medium-high",
+          "order": "high",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The incoming continuation is secure; the next clause is read དམ་བཅའ rather than silently adopting དམ་བཅས."
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
+  },
+  {
+    "id": "TS-CONT3-B09-O22-02",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00623",
+      "U00624",
+      "U00625"
+    ],
+    "base_snippet_at_review": "བརྩིའོ; དྲིས་ལན་བདུན་པ",
+    "comparison_reading": "[Q07]འོ ⟨B [Q08] B⟩ འཕེན",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"lexical\": \"low for Q07\", \"order\": \"high\", \"graphic\": \"low for Q08 identification\", \"layer\": \"high\"}",
+    "locator": "PDF 22; source-member and native bounds in linked packet; bounds: [445, 404, 910, 525]",
+    "rationale": "The conjunct and the separate small sign remain distinct uncertainties. Heading words and an expected numeral are not supplied. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x2352-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "id": "O22-02",
+        "pdf_page": 22,
+        "anchors": [
+          "U00623",
+          "U00624",
+          "U00625"
+        ],
+        "source_span": "[Q07]འོ ⟨B [Q08] B⟩ འཕེན",
+        "base_span": "བརྩིའོ; དྲིས་ལན་བདུན་པ",
+        "category": "unresolved_conjunct_and_separate_sign",
+        "neighboring_context": "Previous row ends ཐལ་འགྱུར; the following clause begins འཕེན་ལ་རླུང.",
+        "approximate_native_bounds": [
+          445,
+          404,
+          910,
+          525
+        ],
+        "confidence": {
+          "lexical": "low for Q07",
+          "order": "high",
+          "graphic": "low for Q08 identification",
+          "layer": "high"
+        },
+        "rationale": "The conjunct and the separate small sign remain distinct uncertainties. Heading words and an expected numeral are not supplied."
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
+  },
+  {
+    "id": "TS-CONT3-B09-O22-03",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00626"
+    ],
+    "base_snippet_at_review": "གཞོན་པ་དང; separate base annotation གཞོག་ཀྱང",
+    "comparison_reading": "གཞོན་པ་དང",
+    "status": "qualified_local_observation",
+    "confidence": "{\"lexical\": \"medium-high\", \"order\": \"high\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 22; source-member and native bounds in linked packet; bounds: [1330, 407, 1970, 525]",
+    "rationale": "The main sequence is readable here; the base annotation is not visibly present as a separate local note. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x2352-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "id": "O22-03",
+        "pdf_page": 22,
+        "anchors": [
+          "U00626"
+        ],
+        "source_span": "གཞོན་པ་དང",
+        "base_span": "གཞོན་པ་དང; separate base annotation གཞོག་ཀྱང",
+        "category": "main_text_and_local_annotation_check",
+        "neighboring_context": "ཚིག་དང་ཟུར་ལ precedes; U00627 follows.",
+        "approximate_native_bounds": [
+          1330,
+          407,
+          1970,
+          525
+        ],
+        "confidence": {
+          "lexical": "medium-high",
+          "order": "high",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The main sequence is readable here; the base annotation is not visibly present as a separate local note."
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
+  },
+  {
+    "id": "TS-CONT3-B09-O22-04",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00628"
+    ],
+    "base_snippet_at_review": "ལོག་དང",
+    "comparison_reading": "ལོགས་དང",
+    "status": "qualified_local_observation",
+    "confidence": "{\"lexical\": \"medium\", \"order\": \"high\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 22; source-member and native bounds in linked packet; bounds: [2780, 393, 3060, 525]",
+    "rationale": "An s-ending is read in the source opening word. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x2352-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "id": "O22-04",
+        "pdf_page": 22,
+        "anchors": [
+          "U00628"
+        ],
+        "source_span": "ལོགས་དང",
+        "base_span": "ལོག་དང",
+        "category": "spelling_difference",
+        "neighboring_context": "After U00627; followed by ཟུར་ལ་འབིགས་པར་བྱེད.",
+        "approximate_native_bounds": [
+          2780,
+          393,
+          3060,
+          525
+        ],
+        "confidence": {
+          "lexical": "medium",
+          "order": "high",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "An s-ending is read in the source opening word."
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
+  },
+  {
+    "id": "TS-CONT3-B09-O22-05",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00632"
+    ],
+    "base_snippet_at_review": "མ་དག་པ་ཡིས་ཡེ་ཤེས་སོ; separate base annotation ནི་ཡང",
+    "comparison_reading": "མ་དག་པ་ཡི་ཡེ་ཤེས་སོ ⟨B H B⟩",
+    "status": "qualified_local_observation",
+    "confidence": "{\"lexical\": \"medium-high\", \"order\": \"high\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 22; source-member and native bounds in linked packet; bounds: [2550, 488, 3200, 623]",
+    "rationale": "The source is read ཡི་ཡེ, with a raised hook in the following boundary. No separate ནི་ཡང note is discerned locally. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x2352-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "id": "O22-05",
+        "pdf_page": 22,
+        "anchors": [
+          "U00632"
+        ],
+        "source_span": "མ་དག་པ་ཡི་ཡེ་ཤེས་སོ ⟨B H B⟩",
+        "base_span": "མ་དག་པ་ཡིས་ཡེ་ཤེས་སོ; separate base annotation ནི་ཡང",
+        "category": "lexical_and_graphic_difference",
+        "neighboring_context": "Between the ཉོན་མོངས clause and སྦྱོར་བའི་དམིགས.",
+        "approximate_native_bounds": [
+          2550,
+          488,
+          3200,
+          623
+        ],
+        "confidence": {
+          "lexical": "medium-high",
+          "order": "high",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The source is read ཡི་ཡེ, with a raised hook in the following boundary. No separate ནི་ཡང note is discerned locally."
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
+  },
+  {
+    "id": "TS-CONT3-B09-O22-06",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00633"
+    ],
+    "base_snippet_at_review": "བསྐྱང",
+    "comparison_reading": "སྐྱོང",
+    "status": "qualified_local_observation",
+    "confidence": "{\"lexical\": \"medium\", \"order\": \"high\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 22; source-member and native bounds in linked packet; bounds: [446, 588, 612, 714]",
+    "rationale": "The standalone continuation is read with an o-vowel and without supplying the base's prefix. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x2352-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "id": "O22-06",
+        "pdf_page": 22,
+        "anchors": [
+          "U00633"
+        ],
+        "source_span": "སྐྱོང",
+        "base_span": "བསྐྱང",
+        "category": "spelling_difference",
+        "neighboring_context": "Continues the preceding row's རང་འདོད; U00634 follows.",
+        "approximate_native_bounds": [
+          446,
+          588,
+          612,
+          714
+        ],
+        "confidence": {
+          "lexical": "medium",
+          "order": "high",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The standalone continuation is read with an o-vowel and without supplying the base's prefix."
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
+  },
+  {
+    "id": "TS-CONT3-B09-O22-07",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00637"
+    ],
+    "base_snippet_at_review": "དམ་བཅའ་སྐྱོན",
+    "comparison_reading": "དམ་བཅའི་སྐྱོན",
+    "status": "qualified_local_observation",
+    "confidence": "{\"lexical\": \"medium\", \"order\": \"high\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 22; source-member and native bounds in linked packet; bounds: [2860, 575, 3240, 718]",
+    "rationale": "The source is read with འི; the grammar is preserved. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x2352-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "id": "O22-07",
+        "pdf_page": 22,
+        "anchors": [
+          "U00637"
+        ],
+        "source_span": "དམ་བཅའི་སྐྱོན",
+        "base_span": "དམ་བཅའ་སྐྱོན",
+        "category": "additional_genitive_component",
+        "neighboring_context": "After U00636; followed by ནི་བརྟགས་ཏེ་བཅའ.",
+        "approximate_native_bounds": [
+          2860,
+          575,
+          3240,
+          718
+        ],
+        "confidence": {
+          "lexical": "medium",
+          "order": "high",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The source is read with འི; the grammar is preserved."
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
+  },
+  {
+    "id": "TS-CONT3-B09-O22-08",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00638"
+    ],
+    "base_snippet_at_review": "བརྩིས",
+    "comparison_reading": "བརྩི",
+    "status": "qualified_local_observation",
+    "confidence": "{\"lexical\": \"medium\", \"order\": \"high\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 22; source-member and native bounds in linked packet; bounds: [840, 692, 1040, 796]",
+    "rationale": "No final s is read before the following bar. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x2352-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "id": "O22-08",
+        "pdf_page": 22,
+        "anchors": [
+          "U00638"
+        ],
+        "source_span": "བརྩི",
+        "base_span": "བརྩིས",
+        "category": "spelling_difference",
+        "neighboring_context": "དག་གིས་འབྲེལ་དོན precedes; U00639 follows.",
+        "approximate_native_bounds": [
+          840,
+          692,
+          1040,
+          796
+        ],
+        "confidence": {
+          "lexical": "medium",
+          "order": "high",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "No final s is read before the following bar."
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
+  },
+  {
+    "id": "TS-CONT3-B09-O22-09",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00640"
+    ],
+    "base_snippet_at_review": "བློ་ལ་བརྟེན",
+    "comparison_reading": "བློ་[Q09]བརྟེན",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"lexical\": \"low within Q09\", \"order\": \"high\", \"graphic\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 22; source-member and native bounds in linked packet; bounds: {\"ledger_ref\": \"Q09\"}",
+    "rationale": "The possible intervening syllable is not supplied from the base or declared absent. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x2352-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "id": "O22-09",
+        "pdf_page": 22,
+        "anchors": [
+          "U00640"
+        ],
+        "source_span": "བློ་[Q09]བརྟེན",
+        "base_span": "བློ་ལ་བརྟེན",
+        "category": "local_component_unresolved",
+        "neighboring_context": "གྲུབ་མཐའ precedes; པ་ཡིས follows.",
+        "approximate_native_bounds": {
+          "ledger_ref": "Q09"
+        },
+        "confidence": {
+          "lexical": "low within Q09",
+          "order": "high",
+          "graphic": "medium",
+          "layer": "high"
+        },
+        "rationale": "The possible intervening syllable is not supplied from the base or declared absent."
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
+  },
+  {
+    "id": "TS-CONT3-B09-O23-01",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00649"
+    ],
+    "base_snippet_at_review": "ཚིག་དང་འཇུག",
+    "comparison_reading": "ཚིག་ལ་འཇུག",
+    "status": "qualified_local_observation",
+    "confidence": "{\"lexical\": \"medium-high\", \"order\": \"high\", \"layer\": \"high\"}",
+    "locator": "PDF 23; source-member and native bounds in linked packet; bounds: [1400, 165, 1730, 305]",
+    "rationale": "Read ལ directly; retain the source construction. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x2352-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "pdf_page": 23,
+        "anchors": [
+          "U00649"
+        ],
+        "source_span": "ཚིག་ལ་འཇུག",
+        "base_span": "ཚིག་དང་འཇུག",
+        "category": "particle_difference",
+        "neighboring_context": "After ལམ་དང་གནས་ཏེ.",
+        "approximate_native_bounds": [
+          1400,
+          165,
+          1730,
+          305
+        ],
+        "confidence": {
+          "lexical": "medium-high",
+          "order": "high",
+          "layer": "high"
+        },
+        "rationale": "Read ལ directly; retain the source construction.",
+        "id": "O23-01",
+        "raw_location": "coverage_assessment.source_order_findings[0]"
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
+  },
+  {
+    "id": "TS-CONT3-B09-O23-02",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00651"
+    ],
+    "base_snippet_at_review": "གནས་དང་བྱུང་དང་བྱེད་པ་དང",
+    "comparison_reading": "བྱས་དང་བྱུང་དང་བྱེད་པ་དང",
+    "status": "qualified_local_observation",
+    "confidence": "{\"lexical\": \"medium-high\", \"order\": \"high\", \"layer\": \"high\"}",
+    "locator": "PDF 23; source-member and native bounds in linked packet; bounds: [2420, 175, 3150, 315]",
+    "rationale": "The first word is read བྱས. The base's separate བྱས་ཀྱང་འདུག note is not inserted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x2352-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "pdf_page": 23,
+        "anchors": [
+          "U00651"
+        ],
+        "source_span": "བྱས་དང་བྱུང་དང་བྱེད་པ་དང",
+        "base_span": "གནས་དང་བྱུང་དང་བྱེད་པ་དང",
+        "category": "lexical_difference",
+        "neighboring_context": "Between U00650 and U00652.",
+        "approximate_native_bounds": [
+          2420,
+          175,
+          3150,
+          315
+        ],
+        "confidence": {
+          "lexical": "medium-high",
+          "order": "high",
+          "layer": "high"
+        },
+        "rationale": "The first word is read བྱས. The base's separate བྱས་ཀྱང་འདུག note is not inserted.",
+        "id": "O23-02",
+        "raw_location": "coverage_assessment.source_order_findings[1]"
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
+  },
+  {
+    "id": "TS-CONT3-B09-O23-03",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00654"
+    ],
+    "base_snippet_at_review": "བྱ་བྱེད་རྒྱུ་རྣམས",
+    "comparison_reading": "བྱ་རྒྱུ་རྣམས",
+    "status": "qualified_local_observation",
+    "confidence": "{\"lexical\": \"medium\", \"order\": \"high\", \"layer\": \"high\"}",
+    "locator": "PDF 23; source-member and native bounds in linked packet; bounds: [1120, 275, 1490, 400]",
+    "rationale": "No separate བྱེད is read in this interval; no global absence or historical cause is inferred. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x2352-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "pdf_page": 23,
+        "anchors": [
+          "U00654"
+        ],
+        "source_span": "བྱ་རྒྱུ་རྣམས",
+        "base_span": "བྱ་བྱེད་རྒྱུ་རྣམས",
+        "category": "local_shorter_sequence",
+        "neighboring_context": "After U00653; before དེ་དག་གོ and Q13.",
+        "approximate_native_bounds": [
+          1120,
+          275,
+          1490,
+          400
+        ],
+        "confidence": {
+          "lexical": "medium",
+          "order": "high",
+          "layer": "high"
+        },
+        "rationale": "No separate བྱེད is read in this interval; no global absence or historical cause is inferred.",
+        "id": "O23-03",
+        "raw_location": "coverage_assessment.source_order_findings[2]"
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
+  },
+  {
+    "id": "TS-CONT3-B09-O23-04",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00662"
+    ],
+    "base_snippet_at_review": "མེ་རླུང་ས་ཆུ",
+    "comparison_reading": "མེ་རླུང་ཆུ་ས",
+    "status": "qualified_local_observation",
+    "confidence": "{\"lexical\": \"medium\", \"order\": \"medium-high\", \"layer\": \"high\"}",
+    "locator": "PDF 23; source-member and native bounds in linked packet; bounds: [3030, 385, 3430, 528]",
+    "rationale": "The source order is retained rather than rearranged to the base. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x2352-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "pdf_page": 23,
+        "anchors": [
+          "U00662"
+        ],
+        "source_span": "མེ་རླུང་ཆུ་ས",
+        "base_span": "མེ་རླུང་ས་ཆུ",
+        "category": "element_order_difference",
+        "neighboring_context": "Followed by བཞི་གཉིས་འཁོར; next clause starts with row-final ས.",
+        "approximate_native_bounds": [
+          3030,
+          385,
+          3430,
+          528
+        ],
+        "confidence": {
+          "lexical": "medium",
+          "order": "medium-high",
+          "layer": "high"
+        },
+        "rationale": "The source order is retained rather than rearranged to the base.",
+        "id": "O23-04",
+        "raw_location": "coverage_assessment.source_order_findings[3]"
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
+  },
+  {
+    "id": "TS-CONT3-B09-O23-05",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00666"
+    ],
+    "base_snippet_at_review": "སྟོང་པའི",
+    "comparison_reading": "སྟོངས་པའི",
+    "status": "qualified_local_observation",
+    "confidence": "{\"lexical\": \"medium\", \"order\": \"high\", \"layer\": \"high\"}",
+    "locator": "PDF 23; source-member and native bounds in linked packet; bounds: [2320, 465, 2620, 613]",
+    "rationale": "An s-ending is read and preserved. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x2352-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "pdf_page": 23,
+        "anchors": [
+          "U00666"
+        ],
+        "source_span": "སྟོངས་པའི",
+        "base_span": "སྟོང་པའི",
+        "category": "spelling_difference",
+        "neighboring_context": "Followed by གནས་ཏེ་བརྒྱད་ཡིན་ནོ.",
+        "approximate_native_bounds": [
+          2320,
+          465,
+          2620,
+          613
+        ],
+        "confidence": {
+          "lexical": "medium",
+          "order": "high",
+          "layer": "high"
+        },
+        "rationale": "An s-ending is read and preserved.",
+        "id": "O23-05",
+        "raw_location": "coverage_assessment.source_order_findings[4]"
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
+  },
+  {
+    "id": "TS-CONT3-B09-O23-06",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00669"
+    ],
+    "base_snippet_at_review": "འདུས་དང",
+    "comparison_reading": "འདུ་དང",
+    "status": "qualified_local_observation",
+    "confidence": "{\"lexical\": \"medium\", \"order\": \"high\", \"layer\": \"high\"}",
+    "locator": "PDF 23; source-member and native bounds in linked packet; bounds: [1450, 550, 1720, 682]",
+    "rationale": "The source opening is read without a final s. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x2352-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "pdf_page": 23,
+        "anchors": [
+          "U00669"
+        ],
+        "source_span": "འདུ་དང",
+        "base_span": "འདུས་དང",
+        "category": "spelling_difference",
+        "neighboring_context": "After U00668; followed by རྟགས་ཏེ་འདི་རྣམས་ལ.",
+        "approximate_native_bounds": [
+          1450,
+          550,
+          1720,
+          682
+        ],
+        "confidence": {
+          "lexical": "medium",
+          "order": "high",
+          "layer": "high"
+        },
+        "rationale": "The source opening is read without a final s.",
+        "id": "O23-06",
+        "raw_location": "coverage_assessment.source_order_findings[5]"
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
+  },
+  {
+    "id": "TS-CONT3-B09-O23-07",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00670"
+    ],
+    "base_snippet_at_review": "འགྱུར་བྱེད་ལ",
+    "comparison_reading": "འགྱུར་བྱེད་ལས",
+    "status": "qualified_local_observation",
+    "confidence": "{\"lexical\": \"medium-high\", \"order\": \"high\", \"layer\": \"high\"}",
+    "locator": "PDF 23; source-member and native bounds in linked packet; bounds: [2380, 552, 2890, 714]",
+    "rationale": "The source terminal word is read ལས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x2352-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "pdf_page": 23,
+        "anchors": [
+          "U00670"
+        ],
+        "source_span": "འགྱུར་བྱེད་ལས",
+        "base_span": "འགྱུར་བྱེད་ལ",
+        "category": "terminal_word_difference",
+        "neighboring_context": "After འདྲེན་ཅིང་གནས་པ; before U00671.",
+        "approximate_native_bounds": [
+          2380,
+          552,
+          2890,
+          714
+        ],
+        "confidence": {
+          "lexical": "medium-high",
+          "order": "high",
+          "layer": "high"
+        },
+        "rationale": "The source terminal word is read ལས.",
+        "id": "O23-07",
+        "raw_location": "coverage_assessment.source_order_findings[6]"
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
+  },
+  {
+    "id": "TS-CONT3-B09-O23-09",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00678"
+    ],
+    "base_snippet_at_review": "བཀོད་པ་མན་ངག",
+    "comparison_reading": "བཀོད་པའི་མན་ངག",
+    "status": "qualified_local_observation",
+    "confidence": "{\"lexical\": \"medium-high\", \"order\": \"high\", \"layer\": \"high\"}",
+    "locator": "PDF 23; source-member and native bounds in linked packet; bounds: [980, 727, 1430, 866]",
+    "rationale": "The visible genitive is retained. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x2352-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "pdf_page": 23,
+        "anchors": [
+          "U00678"
+        ],
+        "source_span": "བཀོད་པའི་མན་ངག",
+        "base_span": "བཀོད་པ་མན་ངག",
+        "category": "additional_genitive_component",
+        "neighboring_context": "སྣ་ཚོགས precedes; གནས follows.",
+        "approximate_native_bounds": [
+          980,
+          727,
+          1430,
+          866
+        ],
+        "confidence": {
+          "lexical": "medium-high",
+          "order": "high",
+          "layer": "high"
+        },
+        "rationale": "The visible genitive is retained.",
+        "id": "O23-09",
+        "raw_location": "coverage_assessment.source_order_findings[8]"
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
+  },
+  {
+    "id": "TS-CONT3-B09-SLOT-Q13",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00654",
+      "U00655",
+      "U00656"
+    ],
+    "base_snippet_at_review": "དྲིས་ལན་བརྒྱད་པ།",
+    "comparison_reading": "[Q13] Isolated small graphic; complete character identity unresolved.",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"physical_position\": \"high\", \"character_identity\": \"unresolved\", \"heading_expansion\": \"not_adopted\"}",
+    "locator": "PDF 23; source-member and native bounds in linked packet; bounds: [1769, 323, 1818, 380]",
+    "rationale": "The source records a detached small glyph at this location, not the supplied full heading wording. No main-verse omission is inferred. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x2352-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "id": "SLOT-Q13",
+        "pdf_page": 23,
+        "anchors": [
+          "U00654",
+          "U00655",
+          "U00656"
+        ],
+        "source_span": "[Q13] Isolated small graphic; complete character identity unresolved.",
+        "base_span": "དྲིས་ལན་བརྒྱད་པ།",
+        "category": "source_heading_slot_graphic",
+        "neighboring_context": "What is the exact identity of the small isolated tiered glyph after དེ་དག་གོ and before རྒྱུ་མཚན? No expected reply numeral is supplied.",
+        "approximate_native_bounds": [
+          1769,
+          323,
+          1818,
+          380
+        ],
+        "confidence": {
+          "physical_position": "high",
+          "character_identity": "unresolved",
+          "heading_expansion": "not_adopted"
+        },
+        "rationale": "The source records a detached small glyph at this location, not the supplied full heading wording. No main-verse omission is inferred.",
+        "raw_location": "unread_after_inspection Q13 and corresponding row/non_main_regions"
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
+  },
+  {
+    "id": "TS-CONT3-B09-SLOT-Q15",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00675",
+      "U00676",
+      "U00677"
+    ],
+    "base_snippet_at_review": "དྲིས་ལན་དགུ་པ།",
+    "comparison_reading": "[Q15] Isolated small graphic; complete character identity unresolved.",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"physical_position\": \"high\", \"character_identity\": \"unresolved\", \"heading_expansion\": \"not_adopted\"}",
+    "locator": "PDF 23; source-member and native bounds in linked packet; bounds: [3190, 656, 3280, 725]",
+    "rationale": "The source records a detached small glyph at this location, not the supplied full heading wording. No main-verse omission is inferred. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x2352-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "id": "SLOT-Q15",
+        "pdf_page": 23,
+        "anchors": [
+          "U00675",
+          "U00676",
+          "U00677"
+        ],
+        "source_span": "[Q15] Isolated small graphic; complete character identity unresolved.",
+        "base_span": "དྲིས་ལན་དགུ་པ།",
+        "category": "source_heading_slot_graphic",
+        "neighboring_context": "What is the exact identity of the small isolated hook/loop after འགྱུར་བྱེད་དོ and before ལེའུ? Its numerical value is unresolved.",
+        "approximate_native_bounds": [
+          3190,
+          656,
+          3280,
+          725
+        ],
+        "confidence": {
+          "physical_position": "high",
+          "character_identity": "unresolved",
+          "heading_expansion": "not_adopted"
+        },
+        "rationale": "The source records a detached small glyph at this location, not the supplied full heading wording. No main-verse omission is inferred.",
+        "raw_location": "unread_after_inspection Q15 and corresponding row/non_main_regions"
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
+  },
+  {
+    "id": "TS-CONT3-B09-Q05",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00605"
+    ],
+    "base_snippet_at_review": "གཏན་ཚིགས་བཞི་དང་དམ་བཅའ་བླངས། །",
+    "comparison_reading": "[Q05] Does the end of བླང contain an additional suffix ས before the boundary, or only the final letter and punctuation?",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 21; source-member and native bounds in linked packet; bounds: [3160, 600, 3275, 704]",
+    "rationale": "Does the end of བླང contain an additional suffix ས before the boundary, or only the final letter and punctuation? Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x2344-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "id": "Q05",
+        "pdf_page": 21,
+        "anchors": [
+          "U00605"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q05] Does the end of བླང contain an additional suffix ས before the boundary, or only the final letter and punctuation?",
+        "base_span": "གཏན་ཚིགས་བཞི་དང་དམ་བཅའ་བླངས། །",
+        "approximate_native_bounds": [
+          3160,
+          600,
+          3275,
+          704
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Does the end of བླང contain an additional suffix ས before the boundary, or only the final letter and punctuation?"
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
+  },
+  {
+    "id": "TS-CONT3-B09-Q12",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00653"
+    ],
+    "base_snippet_at_review": "བསྒྲུབས་པ་རྣམས་དང་སྒྲུབ་པར་བྱེད། །",
+    "comparison_reading": "[Q12] What is the complete first syllable of row 2, including any prefix and suffix around the visible སྒྲུབ-shaped core?",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 23; source-member and native bounds in linked packet; bounds: [447, 278, 587, 391]",
+    "rationale": "What is the complete first syllable of row 2, including any prefix and suffix around the visible སྒྲུབ-shaped core? Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x2352-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "id": "Q12",
+        "pdf_page": 23,
+        "anchors": [
+          "U00653"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q12] What is the complete first syllable of row 2, including any prefix and suffix around the visible སྒྲུབ-shaped core?",
+        "base_span": "བསྒྲུབས་པ་རྣམས་དང་སྒྲུབ་པར་བྱེད། །",
+        "approximate_native_bounds": [
+          447,
+          278,
+          587,
+          391
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "What is the complete first syllable of row 2, including any prefix and suffix around the visible སྒྲུབ-shaped core?"
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
+  },
+  {
+    "id": "TS-CONT3-B09-Q14",
+    "witness": "Tsamdrak",
+    "units": [
+      "U00673"
+    ],
+    "base_snippet_at_review": "ཁྱབ་དང་འཇུག་དང་གནས་བྱེད་བསྲུངས། །",
+    "comparison_reading": "[Q14] Is there a final ས after the readable བསྲུང, distinct from the following boundary strokes?",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 23; source-member and native bounds in linked packet; bounds: [1450, 646, 1575, 761]",
+    "rationale": "Is there a final ས after the readable བསྲུང, distinct from the following boundary strokes? Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-native.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x1900-y0000.png",
+      "evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x2352-y0000.png",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json",
+      "reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-TSAMDRAK.md",
+    "continuation_provenance": {
+      "batch_id": "B09-P0021-0023",
+      "baseline_commit": "e10cfae350ed421c3f64f5d25dd7d4608e663d0c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt",
+        "sha256": "67cdd9c3d013f75283316f638a9d36f6b1d2bdfbaaf7b2650071747d8cff55c4"
+      },
+      "observation": {
+        "id": "Q14",
+        "pdf_page": 23,
+        "anchors": [
+          "U00673"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q14] Is there a final ས after the readable བསྲུང, distinct from the following boundary strokes?",
+        "base_span": "ཁྱབ་དང་འཇུག་དང་གནས་བྱེད་བསྲུངས། །",
+        "approximate_native_bounds": [
+          1450,
+          646,
+          1575,
+          761
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Is there a final ས after the readable བསྲུང, distinct from the following boundary strokes?"
+      },
+      "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
+      "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
+    }
   }
 ]

@@ -2345,11 +2345,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00581"></a>
 
-**U00581** རབ་ཏུ་གཞོན་པ་རྣམས་ཀྱིས་བསྐོར། ། [TS-CONT2-B08-P0020-O14](#ts-cont2-b08-p0020-o14) [W-C01-041](reviews/chapter-01/wikisource.md#w-c01-041)
+**U00581** རབ་ཏུ་གཞོན་པ་རྣམས་ཀྱིས་བསྐོར། ། [TS-CONT2-B08-P0020-O14](#ts-cont2-b08-p0020-o14) [TS-CONT3-B09-O21-02](#ts-cont3-b09-o21-02) [W-C01-041](reviews/chapter-01/wikisource.md#w-c01-041)
 
 <a id="u00582"></a>
 
-**U00582** དེ་འོག་འཇིག་རྟེན་དགུ་པ་ན། །
+**U00582** དེ་འོག་འཇིག་རྟེན་དགུ་པ་ན། ། [TS-CONT3-B09-O21-02](#ts-cont3-b09-o21-02)
 
 <a id="u00583"></a>
 
@@ -2373,11 +2373,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00588"></a>
 
-**U00588** དེ་ཡི་འཁོར་དང་ལོངས་སྤྱོད་རྫོགས། །
+**U00588** དེ་ཡི་འཁོར་དང་ལོངས་སྤྱོད་རྫོགས། ། [TS-CONT3-B09-O21-03](#ts-cont3-b09-o21-03)
 
 <a id="u00589"></a>
 
-**U00589** འདི་ནས་འཇིག་རྟེན་དྲུག་པ་ན། །
+**U00589** འདི་ནས་འཇིག་རྟེན་དྲུག་པ་ན། ། [TS-CONT3-B09-O21-03](#ts-cont3-b09-o21-03)
 
 <a id="u00590"></a>
 
@@ -2397,7 +2397,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00594"></a>
 
-**U00594** འབྲུག་སྒྲོགས་གློག་དམར་ལྕེ་རྣམས་འབྱིན། ། [SIGNS-VERIFIED-20260927-U00594](#signs-verified-20260927-u00594) [L1-0036](#l1-0036)
+**U00594** འབྲུག་སྒྲོགས་གློག་དམར་ལྕེ་རྣམས་འབྱིན། ། [SIGNS-VERIFIED-20260927-U00594](#signs-verified-20260927-u00594) [L1-0036](#l1-0036) [TS-CONT3-B09-O21-04](#ts-cont3-b09-o21-04)
 
 <a id="u00595"></a>
 
@@ -2405,23 +2405,23 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00596"></a>
 
-**U00596** འོད་འབྱུང་ཕྲེང་བ་ཀླུ་ཡི་གདོང། ། [SCAN-CH1-LAYER-00596](#scan-ch1-layer-00596) [L1-0037](#l1-0037) [W-C01-043](reviews/chapter-01/wikisource.md#w-c01-043)
+**U00596** འོད་འབྱུང་ཕྲེང་བ་ཀླུ་ཡི་གདོང། ། [SCAN-CH1-LAYER-00596](#scan-ch1-layer-00596) [L1-0037](#l1-0037) [TS-CONT3-B09-O21-05](#ts-cont3-b09-o21-05) [W-C01-043](reviews/chapter-01/wikisource.md#w-c01-043)
 
 <a id="u00597"></a>
 
-**U00597** ཕྱོགས་དང་མཚམས་ཀུན་གསལ་བའོ། །
+**U00597** ཕྱོགས་དང་མཚམས་ཀུན་གསལ་བའོ། ། [TS-CONT3-B09-O21-06](#ts-cont3-b09-o21-06)
 
 <a id="u00598"></a>
 
-**U00598** **[Source structural heading]** དྲིས་ལན་དྲུག་པ། [L1-0038](#l1-0038) [W-C01-044](reviews/chapter-01/wikisource.md#w-c01-044)
+**U00598** **[Source structural heading]** དྲིས་ལན་དྲུག་པ། [L1-0038](#l1-0038) [TS-CONT3-B09-O21-06](#ts-cont3-b09-o21-06) [W-C01-044](reviews/chapter-01/wikisource.md#w-c01-044)
 
 <a id="u00599"></a>
 
-**U00599** རང་དང་གཞན་གྱི་དམ་བཅའི་ཚིག ། [L1-0038](#l1-0038)
+**U00599** རང་དང་གཞན་གྱི་དམ་བཅའི་ཚིག ། [L1-0038](#l1-0038) [TS-CONT3-B09-O21-06](#ts-cont3-b09-o21-06)
 
 <a id="u00600"></a>
 
-**U00600** རང་གི་ཚིག་གིས་ངེས་བསལ་ཏེ། །
+**U00600** རང་གི་ཚིག་གིས་ངེས་བསལ་ཏེ། ། [TS-CONT3-B09-O21-07](#ts-cont3-b09-o21-07)
 
 <a id="u00601"></a>
 
@@ -2437,11 +2437,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00604"></a>
 
-**U00604** སྐྱོན་གསུམ་སྤངས་ཏེ་ཐེ་ཚོམ་བསལ། །
+**U00604** སྐྱོན་གསུམ་སྤངས་ཏེ་ཐེ་ཚོམ་བསལ། ། [TS-CONT3-B09-O21-08](#ts-cont3-b09-o21-08)
 
 <a id="u00605"></a>
 
-**U00605** གཏན་ཚིགས་བཞི་དང་དམ་བཅའ་བླངས། །
+**U00605** གཏན་ཚིགས་བཞི་དང་དམ་བཅའ་བླངས། ། [TS-CONT3-B09-Q05](#ts-cont3-b09-q05)
 
 <a id="u00606"></a>
 
@@ -2473,19 +2473,19 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00613"></a>
 
-**U00613** རང་གཞན་གྲུབ་པའི་བརྗོད་བྱའོ། །
+**U00613** རང་གཞན་གྲུབ་པའི་བརྗོད་བྱའོ། ། [TS-CONT3-B09-O21-10](#ts-cont3-b09-o21-10)
 
 <a id="u00614"></a>
 
-**U00614** སྐྱོན་ནི་རང་དང་གཞན་གཉིས་ལས། །
+**U00614** སྐྱོན་ནི་རང་དང་གཞན་གཉིས་ལས། ། [TS-CONT3-B09-O21-10](#ts-cont3-b09-o21-10)
 
 <a id="u00615"></a>
 
-**U00615** རང་སྐྱོན་རང་གིས་ཤེས་བྱས་ལ། །
+**U00615** རང་སྐྱོན་རང་གིས་ཤེས་བྱས་ལ། ། [TS-CONT3-B09-O22-01](#ts-cont3-b09-o22-01)
 
 <a id="u00616"></a>
 
-**U00616** དམ་བཅས་གཏན་ཚིགས་བསྒྲུབ་བྱ་ནི། །
+**U00616** དམ་བཅས་གཏན་ཚིགས་བསྒྲུབ་བྱ་ནི། ། [TS-CONT3-B09-O22-01](#ts-cont3-b09-o22-01)
 
 <a id="u00617"></a>
 
@@ -2513,19 +2513,19 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00623"></a>
 
-**U00623** ཁྱབ་བྱའི་དོན་རྣམས་ཐལ་འགྱུར་བརྩིའོ། །
+**U00623** ཁྱབ་བྱའི་དོན་རྣམས་ཐལ་འགྱུར་བརྩིའོ། ། [TS-CONT3-B09-O22-02](#ts-cont3-b09-o22-02)
 
 <a id="u00624"></a>
 
-**U00624** **[Source structural heading]** དྲིས་ལན་བདུན་པ། [L1-0039](#l1-0039) [W-C01-047](reviews/chapter-01/wikisource.md#w-c01-047)
+**U00624** **[Source structural heading]** དྲིས་ལན་བདུན་པ། [L1-0039](#l1-0039) [TS-CONT3-B09-O22-02](#ts-cont3-b09-o22-02) [W-C01-047](reviews/chapter-01/wikisource.md#w-c01-047)
 
 <a id="u00625"></a>
 
-**U00625** འཕེན་ལ་རླུང་སྟེ་འཕོ་བའི་ལས། ། [L1-0039](#l1-0039)
+**U00625** འཕེན་ལ་རླུང་སྟེ་འཕོ་བའི་ལས། ། [L1-0039](#l1-0039) [TS-CONT3-B09-O22-02](#ts-cont3-b09-o22-02)
 
 <a id="u00626"></a>
 
-**U00626** ཚིག་དང་ཟུར་ལ་གཞོན་པ་དང། ། [SCAN-CH1-LAYER-00626](#scan-ch1-layer-00626) [L1-0039](#l1-0039) [W-C01-048](reviews/chapter-01/wikisource.md#w-c01-048)
+**U00626** ཚིག་དང་ཟུར་ལ་གཞོན་པ་དང། ། [SCAN-CH1-LAYER-00626](#scan-ch1-layer-00626) [L1-0039](#l1-0039) [TS-CONT3-B09-O22-03](#ts-cont3-b09-o22-03) [W-C01-048](reviews/chapter-01/wikisource.md#w-c01-048)
 
 <a id="u00627"></a>
 
@@ -2533,7 +2533,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00628"></a>
 
-**U00628** ལོག་དང་ཟུར་ལ་འབིགས་པར་བྱེད། །
+**U00628** ལོག་དང་ཟུར་ལ་འབིགས་པར་བྱེད། ། [TS-CONT3-B09-O22-04](#ts-cont3-b09-o22-04)
 
 <a id="u00629"></a>
 
@@ -2549,11 +2549,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00632"></a>
 
-**U00632** མ་དག་པ་ཡིས་ཡེ་ཤེས་སོ། ། [SCAN-CH1-LAYER-00632](#scan-ch1-layer-00632) [L1-0040](#l1-0040) [W-C01-049](reviews/chapter-01/wikisource.md#w-c01-049)
+**U00632** མ་དག་པ་ཡིས་ཡེ་ཤེས་སོ། ། [SCAN-CH1-LAYER-00632](#scan-ch1-layer-00632) [L1-0040](#l1-0040) [TS-CONT3-B09-O22-05](#ts-cont3-b09-o22-05) [W-C01-049](reviews/chapter-01/wikisource.md#w-c01-049)
 
 <a id="u00633"></a>
 
-**U00633** སྦྱོར་བའི་དམིགས་ཀྱིས་རང་འདོད་བསྐྱང༌། ། [L1-0040](#l1-0040)
+**U00633** སྦྱོར་བའི་དམིགས་ཀྱིས་རང་འདོད་བསྐྱང༌། ། [L1-0040](#l1-0040) [TS-CONT3-B09-O22-06](#ts-cont3-b09-o22-06)
 
 <a id="u00634"></a>
 
@@ -2569,11 +2569,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00637"></a>
 
-**U00637** དམ་བཅའ་སྐྱོན་ནི་བརྟགས་ཏེ་བཅའ། །
+**U00637** དམ་བཅའ་སྐྱོན་ནི་བརྟགས་ཏེ་བཅའ། ། [TS-CONT3-B09-O22-07](#ts-cont3-b09-o22-07)
 
 <a id="u00638"></a>
 
-**U00638** གཏན་ཚིགས་དག་གིས་འབྲེལ་དོན་བརྩིས། །
+**U00638** གཏན་ཚིགས་དག་གིས་འབྲེལ་དོན་བརྩིས། ། [TS-CONT3-B09-O22-08](#ts-cont3-b09-o22-08)
 
 <a id="u00639"></a>
 
@@ -2581,7 +2581,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00640"></a>
 
-**U00640** གྲུབ་མཐའ་བློ་ལ་བརྟེན་པ་ཡིས། །
+**U00640** གྲུབ་མཐའ་བློ་ལ་བརྟེན་པ་ཡིས། ། [TS-CONT3-B09-O22-09](#ts-cont3-b09-o22-09)
 
 <a id="u00641"></a>
 
@@ -2617,7 +2617,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00649"></a>
 
-**U00649** ལམ་དང་གནས་ཏེ་ཚིག་དང་འཇུག །
+**U00649** ལམ་དང་གནས་ཏེ་ཚིག་དང་འཇུག ། [TS-CONT3-B09-O23-01](#ts-cont3-b09-o23-01)
 
 <a id="u00650"></a>
 
@@ -2625,7 +2625,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00651"></a>
 
-**U00651** གནས་དང་བྱུང་དང་བྱེད་པ་དང། ། [SCAN-CH1-LAYER-00651](#scan-ch1-layer-00651) [L1-0042](#l1-0042) [W-C01-051](reviews/chapter-01/wikisource.md#w-c01-051)
+**U00651** གནས་དང་བྱུང་དང་བྱེད་པ་དང། ། [SCAN-CH1-LAYER-00651](#scan-ch1-layer-00651) [L1-0042](#l1-0042) [TS-CONT3-B09-O23-02](#ts-cont3-b09-o23-02) [W-C01-051](reviews/chapter-01/wikisource.md#w-c01-051)
 
 <a id="u00652"></a>
 
@@ -2633,19 +2633,19 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00653"></a>
 
-**U00653** བསྒྲུབས་པ་རྣམས་དང་སྒྲུབ་པར་བྱེད། ། [W-C01-052](reviews/chapter-01/wikisource.md#w-c01-052)
+**U00653** བསྒྲུབས་པ་རྣམས་དང་སྒྲུབ་པར་བྱེད། ། [TS-CONT3-B09-Q12](#ts-cont3-b09-q12) [W-C01-052](reviews/chapter-01/wikisource.md#w-c01-052)
 
 <a id="u00654"></a>
 
-**U00654** བྱ་བྱེད་རྒྱུ་རྣམས་དེ་དག་གོ། །
+**U00654** བྱ་བྱེད་རྒྱུ་རྣམས་དེ་དག་གོ། ། [TS-CONT3-B09-O23-03](#ts-cont3-b09-o23-03) [TS-CONT3-B09-SLOT-Q13](#ts-cont3-b09-slot-q13)
 
 <a id="u00655"></a>
 
-**U00655** **[Source structural heading]** དྲིས་ལན་བརྒྱད་པ། [L1-0043](#l1-0043) [W-C01-053](reviews/chapter-01/wikisource.md#w-c01-053)
+**U00655** **[Source structural heading]** དྲིས་ལན་བརྒྱད་པ། [L1-0043](#l1-0043) [TS-CONT3-B09-SLOT-Q13](#ts-cont3-b09-slot-q13) [W-C01-053](reviews/chapter-01/wikisource.md#w-c01-053)
 
 <a id="u00656"></a>
 
-**U00656** རྒྱུ་མཚན་ངེས་པའི་མཐར་སྡུད་ནི། ། [L1-0043](#l1-0043)
+**U00656** རྒྱུ་མཚན་ངེས་པའི་མཐར་སྡུད་ནི། ། [L1-0043](#l1-0043) [TS-CONT3-B09-SLOT-Q13](#ts-cont3-b09-slot-q13)
 
 <a id="u00657"></a>
 
@@ -2669,7 +2669,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00662"></a>
 
-**U00662** མེ་རླུང་ས་ཆུ་བཞི་གཉིས་འཁོར། །
+**U00662** མེ་རླུང་ས་ཆུ་བཞི་གཉིས་འཁོར། ། [TS-CONT3-B09-O23-04](#ts-cont3-b09-o23-04)
 
 <a id="u00663"></a>
 
@@ -2685,7 +2685,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00666"></a>
 
-**U00666** སྟོང་པའི་གནས་ཏེ་བརྒྱད་ཡིན་ནོ། །
+**U00666** སྟོང་པའི་གནས་ཏེ་བརྒྱད་ཡིན་ནོ། ། [TS-CONT3-B09-O23-05](#ts-cont3-b09-o23-05)
 
 <a id="u00667"></a>
 
@@ -2697,11 +2697,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00669"></a>
 
-**U00669** འདུས་དང་རྟགས་ཏེ་འདི་རྣམས་ལ། །
+**U00669** འདུས་དང་རྟགས་ཏེ་འདི་རྣམས་ལ། ། [TS-CONT3-B09-O23-06](#ts-cont3-b09-o23-06)
 
 <a id="u00670"></a>
 
-**U00670** འདྲེན་ཅིང་གནས་པ་འགྱུར་བྱེད་ལ། །
+**U00670** འདྲེན་ཅིང་གནས་པ་འགྱུར་བྱེད་ལ། ། [TS-CONT3-B09-O23-07](#ts-cont3-b09-o23-07)
 
 <a id="u00671"></a>
 
@@ -2713,7 +2713,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00673"></a>
 
-**U00673** ཁྱབ་དང་འཇུག་དང་གནས་བྱེད་བསྲུངས། །
+**U00673** ཁྱབ་དང་འཇུག་དང་གནས་བྱེད་བསྲུངས། ། [TS-CONT3-B09-Q14](#ts-cont3-b09-q14)
 
 <a id="u00674"></a>
 
@@ -2721,19 +2721,19 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00675"></a>
 
-**U00675** དཔའ་བར་བྱེད་པའི་འགྱུར་བྱེད་དོ། །
+**U00675** དཔའ་བར་བྱེད་པའི་འགྱུར་བྱེད་དོ། ། [TS-CONT3-B09-SLOT-Q15](#ts-cont3-b09-slot-q15)
 
 <a id="u00676"></a>
 
-**U00676** **[Source structural heading]** དྲིས་ལན་དགུ་པ། [L1-0045](#l1-0045) [W-C01-054](reviews/chapter-01/wikisource.md#w-c01-054)
+**U00676** **[Source structural heading]** དྲིས་ལན་དགུ་པ། [L1-0045](#l1-0045) [TS-CONT3-B09-SLOT-Q15](#ts-cont3-b09-slot-q15) [W-C01-054](reviews/chapter-01/wikisource.md#w-c01-054)
 
 <a id="u00677"></a>
 
-**U00677** ལེའུ་བརྗོད་གཉིས་ཀྱང་གསལ་ཕྱེ་ན། ། [L1-0045](#l1-0045)
+**U00677** ལེའུ་བརྗོད་གཉིས་ཀྱང་གསལ་ཕྱེ་ན། ། [L1-0045](#l1-0045) [TS-CONT3-B09-SLOT-Q15](#ts-cont3-b09-slot-q15)
 
 <a id="u00678"></a>
 
-**U00678** སྣ་ཚོགས་བཀོད་པ་མན་ངག་གནས། །
+**U00678** སྣ་ཚོགས་བཀོད་པ་མན་ངག་གནས། ། [TS-CONT3-B09-O23-09](#ts-cont3-b09-o23-09)
 
 <a id="u00679"></a>
 
@@ -21506,6 +21506,606 @@ Units: [U00446](#u00446).
 **Choice and reason:** Retain the governing Adzom reading. Preserve this localized comparison and its stated uncertainty; do not infer missing main verses from different note or sign conventions.
 
 **Evidence:** [p013-native.png](evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-native.png), [p013-x0000-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x0000-y0000.png), [p013-x1900-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x1900-y0000.png), [p013-x2350-y0000.png](evidence/chapter-01/continuation/C1-TINGKYE/B09-P0011-0013/p013-x2350-y0000.png), [C1-TINGKYE-B09-P0011-0013-reader-reading.txt](reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-TINGKYE.md).
+
+<a id="ts-cont3-b09-o21-02"></a>
+
+### TS-CONT3-B09-O21-02 — Tsamdrak
+
+Units: [U00581](#u00581), [U00582](#u00582).
+
+**Current Adzom main context:** རབ་ཏུ་གཞོན་པ་རྣམས་ཀྱིས་བསྐོར། ། / དེ་འོག་འཇིག་རྟེན་དགུ་པ་ན། །
+
+**Comparison reading/snippet:** བསྐོར ⟨B D B⟩ དེ་འོག
+
+**Status:** qualified_local_observation. **Confidence:** {"lexical": "high", "order": "high", "graphic": "medium", "layer": "high"}.
+
+**Locator:** PDF 21; source-member and native bounds in linked packet; bounds: [805, 164, 1060, 295].
+
+**Observation:** Short paired ticks are retained separately from upright bars, including the next-leading bar. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p021-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-native.png), [p021-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x0000-y0000.png), [p021-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x1900-y0000.png), [p021-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x2344-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont3-b09-o21-03"></a>
+
+### TS-CONT3-B09-O21-03 — Tsamdrak
+
+Units: [U00588](#u00588), [U00589](#u00589).
+
+**Current Adzom main context:** དེ་ཡི་འཁོར་དང་ལོངས་སྤྱོད་རྫོགས། ། / འདི་ནས་འཇིག་རྟེན་དྲུག་པ་ན། །
+
+**Comparison reading/snippet:** རྫོགས ⟨B D B⟩ འདི་ནས
+
+**Status:** qualified_local_observation. **Confidence:** {"lexical": "high", "order": "high", "graphic": "medium", "layer": "high"}.
+
+**Locator:** PDF 21; source-member and native bounds in linked packet; bounds: [1900, 273, 2255, 392].
+
+**Observation:** A second short-tick group is visible in this local interval; it is not normalized to the base punctuation. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p021-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-native.png), [p021-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x0000-y0000.png), [p021-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x1900-y0000.png), [p021-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x2344-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont3-b09-o21-04"></a>
+
+### TS-CONT3-B09-O21-04 — Tsamdrak
+
+Units: [U00594](#u00594).
+
+**Current Adzom main context:** འབྲུག་སྒྲོགས་གློག་དམར་ལྕེ་རྣམས་འབྱིན། །
+
+**Comparison reading/snippet:** འབྲུག་[Q01]་དམར
+
+**Status:** bounded_uncertainty. **Confidence:** {"lexical": "low within Q01", "order": "high", "graphic": "medium", "layer": "high"}.
+
+**Locator:** PDF 21; source-member and native bounds in linked packet; bounds: {"ledger_ref": "Q01"}.
+
+**Observation:** The intervening stacks are not securely separated; neither the base's two words nor an omission is asserted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p021-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-native.png), [p021-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x0000-y0000.png), [p021-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x1900-y0000.png), [p021-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x2344-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont3-b09-o21-05"></a>
+
+### TS-CONT3-B09-O21-05 — Tsamdrak
+
+Units: [U00596](#u00596).
+
+**Current Adzom main context:** འོད་འབྱུང་ཕྲེང་བ་ཀླུ་ཡི་གདོང། །
+
+**Comparison reading/snippet:** ཀླུ་ཡི་གད[Q02]ང
+
+**Status:** bounded_uncertainty. **Confidence:** {"lexical": "medium; vowel unresolved", "order": "high", "graphic": "medium", "layer": "high"}.
+
+**Locator:** PDF 21; source-member and native bounds in linked packet; bounds: [435, 440, 1100, 590].
+
+**Observation:** The consonant frame is retained. The base's separate annotation is not inserted into the source main line. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p021-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-native.png), [p021-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x0000-y0000.png), [p021-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x1900-y0000.png), [p021-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x2344-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont3-b09-o21-06"></a>
+
+### TS-CONT3-B09-O21-06 — Tsamdrak
+
+Units: [U00597](#u00597), [U00598](#u00598), [U00599](#u00599).
+
+**Current Adzom main context:** ཕྱོགས་དང་མཚམས་ཀུན་གསལ་བའོ། ། / དྲིས་ལན་དྲུག་པ། / རང་དང་གཞན་གྱི་དམ་བཅའི་ཚིག །
+
+**Comparison reading/snippet:** [Q03]
+
+**Status:** bounded_uncertainty. **Confidence:** {"lexical": "not applicable", "order": "high", "graphic": "low for identification", "layer": "high"}.
+
+**Locator:** PDF 21; source-member and native bounds in linked packet; bounds: {"ledger_ref": "Q03"}.
+
+**Observation:** A small isolated glyph is present; the base heading words are not visibly written in this interval. No numeral value is supplied. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p021-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-native.png), [p021-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x0000-y0000.png), [p021-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x1900-y0000.png), [p021-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x2344-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont3-b09-o21-07"></a>
+
+### TS-CONT3-B09-O21-07 — Tsamdrak
+
+Units: [U00600](#u00600).
+
+**Current Adzom main context:** རང་གི་ཚིག་གིས་ངེས་བསལ་ཏེ། །
+
+**Comparison reading/snippet:** ངེས་[Q04]བསལ
+
+**Status:** bounded_uncertainty. **Confidence:** {"lexical": "low within Q04", "order": "high", "graphic": "medium", "layer": "high"}.
+
+**Locator:** PDF 21; source-member and native bounds in linked packet; bounds: {"ledger_ref": "Q04"}.
+
+**Observation:** A possible intervening component remains unresolved independently of the readable surrounding words. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p021-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-native.png), [p021-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x0000-y0000.png), [p021-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x1900-y0000.png), [p021-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x2344-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont3-b09-o21-08"></a>
+
+### TS-CONT3-B09-O21-08 — Tsamdrak
+
+Units: [U00604](#u00604).
+
+**Current Adzom main context:** སྐྱོན་གསུམ་སྤངས་ཏེ་ཐེ་ཚོམ་བསལ། །
+
+**Comparison reading/snippet:** སྤང་སྟེ
+
+**Status:** qualified_local_observation. **Confidence:** {"lexical": "medium", "order": "high", "graphic": "medium", "layer": "high"}.
+
+**Locator:** PDF 21; source-member and native bounds in linked packet; bounds: [1760, 550, 2245, 690].
+
+**Observation:** The visible sequence is read with སྟེ following སྤང; it is not regularized to the base. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p021-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-native.png), [p021-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x0000-y0000.png), [p021-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x1900-y0000.png), [p021-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x2344-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont3-b09-o21-10"></a>
+
+### TS-CONT3-B09-O21-10 — Tsamdrak
+
+Units: [U00613](#u00613), [U00614](#u00614).
+
+**Current Adzom main context:** རང་གཞན་གྲུབ་པའི་བརྗོད་བྱའོ། ། / སྐྱོན་ནི་རང་དང་གཞན་གཉིས་ལས། །
+
+**Comparison reading/snippet:** [Q06]
+
+**Status:** bounded_uncertainty. **Confidence:** {"lexical": "not applicable", "order": "high", "graphic": "low for identification", "layer": "high"}.
+
+**Locator:** PDF 21; source-member and native bounds in linked packet; bounds: {"ledger_ref": "Q06"}.
+
+**Observation:** The sign is recorded without assigning a numerical value or expanding it into a heading. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p021-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-native.png), [p021-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x0000-y0000.png), [p021-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x1900-y0000.png), [p021-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x2344-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont3-b09-o22-01"></a>
+
+### TS-CONT3-B09-O22-01 — Tsamdrak
+
+Units: [U00615](#u00615), [U00616](#u00616).
+
+**Current Adzom main context:** རང་སྐྱོན་རང་གིས་ཤེས་བྱས་ལ། ། / དམ་བཅས་གཏན་ཚིགས་བསྒྲུབ་བྱ་ནི། །
+
+**Comparison reading/snippet:** བྱས་ལ ⟨B B⟩ དམ་བཅའ
+
+**Status:** qualified_local_observation. **Confidence:** {"lexical": "medium-high", "order": "high", "graphic": "medium", "layer": "high"}.
+
+**Locator:** PDF 22; source-member and native bounds in linked packet; bounds: [890, 218, 1530, 332].
+
+**Observation:** The incoming continuation is secure; the next clause is read དམ་བཅའ rather than silently adopting དམ་བཅས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p022-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-native.png), [p022-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x0000-y0000.png), [p022-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x1900-y0000.png), [p022-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x2352-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont3-b09-o22-02"></a>
+
+### TS-CONT3-B09-O22-02 — Tsamdrak
+
+Units: [U00623](#u00623), [U00624](#u00624), [U00625](#u00625).
+
+**Current Adzom main context:** ཁྱབ་བྱའི་དོན་རྣམས་ཐལ་འགྱུར་བརྩིའོ། ། / དྲིས་ལན་བདུན་པ། / འཕེན་ལ་རླུང་སྟེ་འཕོ་བའི་ལས། །
+
+**Comparison reading/snippet:** [Q07]འོ ⟨B [Q08] B⟩ འཕེན
+
+**Status:** bounded_uncertainty. **Confidence:** {"lexical": "low for Q07", "order": "high", "graphic": "low for Q08 identification", "layer": "high"}.
+
+**Locator:** PDF 22; source-member and native bounds in linked packet; bounds: [445, 404, 910, 525].
+
+**Observation:** The conjunct and the separate small sign remain distinct uncertainties. Heading words and an expected numeral are not supplied. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p022-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-native.png), [p022-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x0000-y0000.png), [p022-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x1900-y0000.png), [p022-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x2352-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont3-b09-o22-03"></a>
+
+### TS-CONT3-B09-O22-03 — Tsamdrak
+
+Units: [U00626](#u00626).
+
+**Current Adzom main context:** ཚིག་དང་ཟུར་ལ་གཞོན་པ་དང། །
+
+**Comparison reading/snippet:** གཞོན་པ་དང
+
+**Status:** qualified_local_observation. **Confidence:** {"lexical": "medium-high", "order": "high", "graphic": "medium", "layer": "high"}.
+
+**Locator:** PDF 22; source-member and native bounds in linked packet; bounds: [1330, 407, 1970, 525].
+
+**Observation:** The main sequence is readable here; the base annotation is not visibly present as a separate local note. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p022-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-native.png), [p022-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x0000-y0000.png), [p022-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x1900-y0000.png), [p022-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x2352-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont3-b09-o22-04"></a>
+
+### TS-CONT3-B09-O22-04 — Tsamdrak
+
+Units: [U00628](#u00628).
+
+**Current Adzom main context:** ལོག་དང་ཟུར་ལ་འབིགས་པར་བྱེད། །
+
+**Comparison reading/snippet:** ལོགས་དང
+
+**Status:** qualified_local_observation. **Confidence:** {"lexical": "medium", "order": "high", "graphic": "medium", "layer": "high"}.
+
+**Locator:** PDF 22; source-member and native bounds in linked packet; bounds: [2780, 393, 3060, 525].
+
+**Observation:** An s-ending is read in the source opening word. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p022-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-native.png), [p022-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x0000-y0000.png), [p022-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x1900-y0000.png), [p022-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x2352-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont3-b09-o22-05"></a>
+
+### TS-CONT3-B09-O22-05 — Tsamdrak
+
+Units: [U00632](#u00632).
+
+**Current Adzom main context:** མ་དག་པ་ཡིས་ཡེ་ཤེས་སོ། །
+
+**Comparison reading/snippet:** མ་དག་པ་ཡི་ཡེ་ཤེས་སོ ⟨B H B⟩
+
+**Status:** qualified_local_observation. **Confidence:** {"lexical": "medium-high", "order": "high", "graphic": "medium", "layer": "high"}.
+
+**Locator:** PDF 22; source-member and native bounds in linked packet; bounds: [2550, 488, 3200, 623].
+
+**Observation:** The source is read ཡི་ཡེ, with a raised hook in the following boundary. No separate ནི་ཡང note is discerned locally. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p022-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-native.png), [p022-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x0000-y0000.png), [p022-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x1900-y0000.png), [p022-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x2352-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont3-b09-o22-06"></a>
+
+### TS-CONT3-B09-O22-06 — Tsamdrak
+
+Units: [U00633](#u00633).
+
+**Current Adzom main context:** སྦྱོར་བའི་དམིགས་ཀྱིས་རང་འདོད་བསྐྱང༌། །
+
+**Comparison reading/snippet:** སྐྱོང
+
+**Status:** qualified_local_observation. **Confidence:** {"lexical": "medium", "order": "high", "graphic": "medium", "layer": "high"}.
+
+**Locator:** PDF 22; source-member and native bounds in linked packet; bounds: [446, 588, 612, 714].
+
+**Observation:** The standalone continuation is read with an o-vowel and without supplying the base's prefix. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p022-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-native.png), [p022-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x0000-y0000.png), [p022-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x1900-y0000.png), [p022-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x2352-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont3-b09-o22-07"></a>
+
+### TS-CONT3-B09-O22-07 — Tsamdrak
+
+Units: [U00637](#u00637).
+
+**Current Adzom main context:** དམ་བཅའ་སྐྱོན་ནི་བརྟགས་ཏེ་བཅའ། །
+
+**Comparison reading/snippet:** དམ་བཅའི་སྐྱོན
+
+**Status:** qualified_local_observation. **Confidence:** {"lexical": "medium", "order": "high", "graphic": "medium", "layer": "high"}.
+
+**Locator:** PDF 22; source-member and native bounds in linked packet; bounds: [2860, 575, 3240, 718].
+
+**Observation:** The source is read with འི; the grammar is preserved. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p022-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-native.png), [p022-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x0000-y0000.png), [p022-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x1900-y0000.png), [p022-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x2352-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont3-b09-o22-08"></a>
+
+### TS-CONT3-B09-O22-08 — Tsamdrak
+
+Units: [U00638](#u00638).
+
+**Current Adzom main context:** གཏན་ཚིགས་དག་གིས་འབྲེལ་དོན་བརྩིས། །
+
+**Comparison reading/snippet:** བརྩི
+
+**Status:** qualified_local_observation. **Confidence:** {"lexical": "medium", "order": "high", "graphic": "medium", "layer": "high"}.
+
+**Locator:** PDF 22; source-member and native bounds in linked packet; bounds: [840, 692, 1040, 796].
+
+**Observation:** No final s is read before the following bar. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p022-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-native.png), [p022-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x0000-y0000.png), [p022-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x1900-y0000.png), [p022-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x2352-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont3-b09-o22-09"></a>
+
+### TS-CONT3-B09-O22-09 — Tsamdrak
+
+Units: [U00640](#u00640).
+
+**Current Adzom main context:** གྲུབ་མཐའ་བློ་ལ་བརྟེན་པ་ཡིས། །
+
+**Comparison reading/snippet:** བློ་[Q09]བརྟེན
+
+**Status:** bounded_uncertainty. **Confidence:** {"lexical": "low within Q09", "order": "high", "graphic": "medium", "layer": "high"}.
+
+**Locator:** PDF 22; source-member and native bounds in linked packet; bounds: {"ledger_ref": "Q09"}.
+
+**Observation:** The possible intervening syllable is not supplied from the base or declared absent. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p022-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-native.png), [p022-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x0000-y0000.png), [p022-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x1900-y0000.png), [p022-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p022-x2352-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont3-b09-o23-01"></a>
+
+### TS-CONT3-B09-O23-01 — Tsamdrak
+
+Units: [U00649](#u00649).
+
+**Current Adzom main context:** ལམ་དང་གནས་ཏེ་ཚིག་དང་འཇུག །
+
+**Comparison reading/snippet:** ཚིག་ལ་འཇུག
+
+**Status:** qualified_local_observation. **Confidence:** {"lexical": "medium-high", "order": "high", "layer": "high"}.
+
+**Locator:** PDF 23; source-member and native bounds in linked packet; bounds: [1400, 165, 1730, 305].
+
+**Observation:** Read ལ directly; retain the source construction. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p023-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-native.png), [p023-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x0000-y0000.png), [p023-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x1900-y0000.png), [p023-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x2352-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont3-b09-o23-02"></a>
+
+### TS-CONT3-B09-O23-02 — Tsamdrak
+
+Units: [U00651](#u00651).
+
+**Current Adzom main context:** གནས་དང་བྱུང་དང་བྱེད་པ་དང། །
+
+**Comparison reading/snippet:** བྱས་དང་བྱུང་དང་བྱེད་པ་དང
+
+**Status:** qualified_local_observation. **Confidence:** {"lexical": "medium-high", "order": "high", "layer": "high"}.
+
+**Locator:** PDF 23; source-member and native bounds in linked packet; bounds: [2420, 175, 3150, 315].
+
+**Observation:** The first word is read བྱས. The base's separate བྱས་ཀྱང་འདུག note is not inserted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p023-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-native.png), [p023-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x0000-y0000.png), [p023-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x1900-y0000.png), [p023-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x2352-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont3-b09-o23-03"></a>
+
+### TS-CONT3-B09-O23-03 — Tsamdrak
+
+Units: [U00654](#u00654).
+
+**Current Adzom main context:** བྱ་བྱེད་རྒྱུ་རྣམས་དེ་དག་གོ། །
+
+**Comparison reading/snippet:** བྱ་རྒྱུ་རྣམས
+
+**Status:** qualified_local_observation. **Confidence:** {"lexical": "medium", "order": "high", "layer": "high"}.
+
+**Locator:** PDF 23; source-member and native bounds in linked packet; bounds: [1120, 275, 1490, 400].
+
+**Observation:** No separate བྱེད is read in this interval; no global absence or historical cause is inferred. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p023-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-native.png), [p023-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x0000-y0000.png), [p023-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x1900-y0000.png), [p023-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x2352-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont3-b09-o23-04"></a>
+
+### TS-CONT3-B09-O23-04 — Tsamdrak
+
+Units: [U00662](#u00662).
+
+**Current Adzom main context:** མེ་རླུང་ས་ཆུ་བཞི་གཉིས་འཁོར། །
+
+**Comparison reading/snippet:** མེ་རླུང་ཆུ་ས
+
+**Status:** qualified_local_observation. **Confidence:** {"lexical": "medium", "order": "medium-high", "layer": "high"}.
+
+**Locator:** PDF 23; source-member and native bounds in linked packet; bounds: [3030, 385, 3430, 528].
+
+**Observation:** The source order is retained rather than rearranged to the base. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p023-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-native.png), [p023-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x0000-y0000.png), [p023-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x1900-y0000.png), [p023-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x2352-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont3-b09-o23-05"></a>
+
+### TS-CONT3-B09-O23-05 — Tsamdrak
+
+Units: [U00666](#u00666).
+
+**Current Adzom main context:** སྟོང་པའི་གནས་ཏེ་བརྒྱད་ཡིན་ནོ། །
+
+**Comparison reading/snippet:** སྟོངས་པའི
+
+**Status:** qualified_local_observation. **Confidence:** {"lexical": "medium", "order": "high", "layer": "high"}.
+
+**Locator:** PDF 23; source-member and native bounds in linked packet; bounds: [2320, 465, 2620, 613].
+
+**Observation:** An s-ending is read and preserved. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p023-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-native.png), [p023-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x0000-y0000.png), [p023-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x1900-y0000.png), [p023-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x2352-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont3-b09-o23-06"></a>
+
+### TS-CONT3-B09-O23-06 — Tsamdrak
+
+Units: [U00669](#u00669).
+
+**Current Adzom main context:** འདུས་དང་རྟགས་ཏེ་འདི་རྣམས་ལ། །
+
+**Comparison reading/snippet:** འདུ་དང
+
+**Status:** qualified_local_observation. **Confidence:** {"lexical": "medium", "order": "high", "layer": "high"}.
+
+**Locator:** PDF 23; source-member and native bounds in linked packet; bounds: [1450, 550, 1720, 682].
+
+**Observation:** The source opening is read without a final s. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p023-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-native.png), [p023-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x0000-y0000.png), [p023-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x1900-y0000.png), [p023-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x2352-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont3-b09-o23-07"></a>
+
+### TS-CONT3-B09-O23-07 — Tsamdrak
+
+Units: [U00670](#u00670).
+
+**Current Adzom main context:** འདྲེན་ཅིང་གནས་པ་འགྱུར་བྱེད་ལ། །
+
+**Comparison reading/snippet:** འགྱུར་བྱེད་ལས
+
+**Status:** qualified_local_observation. **Confidence:** {"lexical": "medium-high", "order": "high", "layer": "high"}.
+
+**Locator:** PDF 23; source-member and native bounds in linked packet; bounds: [2380, 552, 2890, 714].
+
+**Observation:** The source terminal word is read ལས. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p023-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-native.png), [p023-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x0000-y0000.png), [p023-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x1900-y0000.png), [p023-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x2352-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont3-b09-o23-09"></a>
+
+### TS-CONT3-B09-O23-09 — Tsamdrak
+
+Units: [U00678](#u00678).
+
+**Current Adzom main context:** སྣ་ཚོགས་བཀོད་པ་མན་ངག་གནས། །
+
+**Comparison reading/snippet:** བཀོད་པའི་མན་ངག
+
+**Status:** qualified_local_observation. **Confidence:** {"lexical": "medium-high", "order": "high", "layer": "high"}.
+
+**Locator:** PDF 23; source-member and native bounds in linked packet; bounds: [980, 727, 1430, 866].
+
+**Observation:** The visible genitive is retained. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p023-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-native.png), [p023-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x0000-y0000.png), [p023-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x1900-y0000.png), [p023-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x2352-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont3-b09-slot-q13"></a>
+
+### TS-CONT3-B09-SLOT-Q13 — Tsamdrak
+
+Units: [U00654](#u00654), [U00655](#u00655), [U00656](#u00656).
+
+**Current Adzom main context:** བྱ་བྱེད་རྒྱུ་རྣམས་དེ་དག་གོ། ། / དྲིས་ལན་བརྒྱད་པ། / རྒྱུ་མཚན་ངེས་པའི་མཐར་སྡུད་ནི། །
+
+**Comparison reading/snippet:** [Q13] Isolated small graphic; complete character identity unresolved.
+
+**Status:** bounded_uncertainty. **Confidence:** {"physical_position": "high", "character_identity": "unresolved", "heading_expansion": "not_adopted"}.
+
+**Locator:** PDF 23; source-member and native bounds in linked packet; bounds: [1769, 323, 1818, 380].
+
+**Observation:** The source records a detached small glyph at this location, not the supplied full heading wording. No main-verse omission is inferred. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p023-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-native.png), [p023-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x0000-y0000.png), [p023-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x1900-y0000.png), [p023-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x2352-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont3-b09-slot-q15"></a>
+
+### TS-CONT3-B09-SLOT-Q15 — Tsamdrak
+
+Units: [U00675](#u00675), [U00676](#u00676), [U00677](#u00677).
+
+**Current Adzom main context:** དཔའ་བར་བྱེད་པའི་འགྱུར་བྱེད་དོ། ། / དྲིས་ལན་དགུ་པ། / ལེའུ་བརྗོད་གཉིས་ཀྱང་གསལ་ཕྱེ་ན། །
+
+**Comparison reading/snippet:** [Q15] Isolated small graphic; complete character identity unresolved.
+
+**Status:** bounded_uncertainty. **Confidence:** {"physical_position": "high", "character_identity": "unresolved", "heading_expansion": "not_adopted"}.
+
+**Locator:** PDF 23; source-member and native bounds in linked packet; bounds: [3190, 656, 3280, 725].
+
+**Observation:** The source records a detached small glyph at this location, not the supplied full heading wording. No main-verse omission is inferred. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p023-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-native.png), [p023-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x0000-y0000.png), [p023-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x1900-y0000.png), [p023-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x2352-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont3-b09-q05"></a>
+
+### TS-CONT3-B09-Q05 — Tsamdrak
+
+Units: [U00605](#u00605).
+
+**Current Adzom main context:** གཏན་ཚིགས་བཞི་དང་དམ་བཅའ་བླངས། །
+
+**Comparison reading/snippet:** [Q05] Does the end of བླང contain an additional suffix ས before the boundary, or only the final letter and punctuation?
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 21; source-member and native bounds in linked packet; bounds: [3160, 600, 3275, 704].
+
+**Observation:** Does the end of བླང contain an additional suffix ས before the boundary, or only the final letter and punctuation? Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p021-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-native.png), [p021-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x0000-y0000.png), [p021-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x1900-y0000.png), [p021-x2344-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p021-x2344-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont3-b09-q12"></a>
+
+### TS-CONT3-B09-Q12 — Tsamdrak
+
+Units: [U00653](#u00653).
+
+**Current Adzom main context:** བསྒྲུབས་པ་རྣམས་དང་སྒྲུབ་པར་བྱེད། །
+
+**Comparison reading/snippet:** [Q12] What is the complete first syllable of row 2, including any prefix and suffix around the visible སྒྲུབ-shaped core?
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 23; source-member and native bounds in linked packet; bounds: [447, 278, 587, 391].
+
+**Observation:** What is the complete first syllable of row 2, including any prefix and suffix around the visible སྒྲུབ-shaped core? Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p023-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-native.png), [p023-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x0000-y0000.png), [p023-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x1900-y0000.png), [p023-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x2352-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
+
+<a id="ts-cont3-b09-q14"></a>
+
+### TS-CONT3-B09-Q14 — Tsamdrak
+
+Units: [U00673](#u00673).
+
+**Current Adzom main context:** ཁྱབ་དང་འཇུག་དང་གནས་བྱེད་བསྲུངས། །
+
+**Comparison reading/snippet:** [Q14] Is there a final ས after the readable བསྲུང, distinct from the following boundary strokes?
+
+**Status:** bounded_uncertainty. **Confidence:** Unresolved; base quotation is a locator, not supplied witness text..
+
+**Locator:** PDF 23; source-member and native bounds in linked packet; bounds: [1450, 646, 1575, 761].
+
+**Observation:** Is there a final ས after the readable བསྲུང, distinct from the following boundary strokes? Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Keep the governing Adzom reading and its annotations unchanged. This is localized Tsamdrak comparison with all source-layer and reading uncertainties retained.
+
+**Evidence:** [p023-native.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-native.png), [p023-x0000-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x0000-y0000.png), [p023-x1900-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x1900-y0000.png), [p023-x2352-y0000.png](evidence/chapter-01/continuation/C1-TSAMDRAK/B09-P0021-0023/p023-x2352-y0000.png), [C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading.txt), [tsamdrak-serialization-repair.json](reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json), [C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json](reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-reading-parsed.json). [Review and coverage](reviews/chapter-01/continuation/C1-TSAMDRAK.md).
 
 ## A/B/S transcript apparatus
 

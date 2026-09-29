@@ -5188,6 +5188,474 @@
       },
       "next_physical_span": "Continue genuinely missing Tingkye PDF14 row1 at U00464 གནས་དང་འབྱེད་དང་གནས་བཅུད་ཡུལ. Retain all Q11/Q12/Q13 questions and marginal labels.",
       "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-TSAMDRAK",
+      "batch_id": "B09-P0021-0023",
+      "target_pages": [
+        21,
+        22,
+        23
+      ],
+      "report": "reviews/chapter-01/continuation/C1-TSAMDRAK.json",
+      "summary": "Tsamdrak PDF21–23: all 21 source rows integrated from U00581 continuation through U00681, with local differences, isolated heading-slot graphics and sixteen bounded unresolved components.",
+      "rows_reported": 21,
+      "canonical_record_ids": [
+        "TS-CONT3-B09-O21-02",
+        "TS-CONT3-B09-O21-03",
+        "TS-CONT3-B09-O21-04",
+        "TS-CONT3-B09-O21-05",
+        "TS-CONT3-B09-O21-06",
+        "TS-CONT3-B09-O21-07",
+        "TS-CONT3-B09-O21-08",
+        "TS-CONT3-B09-O21-10",
+        "TS-CONT3-B09-O22-01",
+        "TS-CONT3-B09-O22-02",
+        "TS-CONT3-B09-O22-03",
+        "TS-CONT3-B09-O22-04",
+        "TS-CONT3-B09-O22-05",
+        "TS-CONT3-B09-O22-06",
+        "TS-CONT3-B09-O22-07",
+        "TS-CONT3-B09-O22-08",
+        "TS-CONT3-B09-O22-09",
+        "TS-CONT3-B09-O23-01",
+        "TS-CONT3-B09-O23-02",
+        "TS-CONT3-B09-O23-03",
+        "TS-CONT3-B09-O23-04",
+        "TS-CONT3-B09-O23-05",
+        "TS-CONT3-B09-O23-06",
+        "TS-CONT3-B09-O23-07",
+        "TS-CONT3-B09-O23-09",
+        "TS-CONT3-B09-SLOT-Q13",
+        "TS-CONT3-B09-SLOT-Q15",
+        "TS-CONT3-B09-Q05",
+        "TS-CONT3-B09-Q12",
+        "TS-CONT3-B09-Q14"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "target_pages_inspected": [
+          21,
+          22,
+          23
+        ],
+        "main_rows_inspected": 21,
+        "main_rows_returned": 21,
+        "non_main_regions_inspected": true,
+        "unresolved_components": 16,
+        "source_order_findings": [
+          {
+            "pdf_page": 23,
+            "anchors": [
+              "U00649"
+            ],
+            "source_span": "ཚིག་ལ་འཇུག",
+            "base_span": "ཚིག་དང་འཇུག",
+            "category": "particle_difference",
+            "neighboring_context": "After ལམ་དང་གནས་ཏེ.",
+            "approximate_native_bounds": [
+              1400,
+              165,
+              1730,
+              305
+            ],
+            "confidence": {
+              "lexical": "medium-high",
+              "order": "high",
+              "layer": "high"
+            },
+            "rationale": "Read ལ directly; retain the source construction."
+          },
+          {
+            "pdf_page": 23,
+            "anchors": [
+              "U00651"
+            ],
+            "source_span": "བྱས་དང་བྱུང་དང་བྱེད་པ་དང",
+            "base_span": "གནས་དང་བྱུང་དང་བྱེད་པ་དང",
+            "category": "lexical_difference",
+            "neighboring_context": "Between U00650 and U00652.",
+            "approximate_native_bounds": [
+              2420,
+              175,
+              3150,
+              315
+            ],
+            "confidence": {
+              "lexical": "medium-high",
+              "order": "high",
+              "layer": "high"
+            },
+            "rationale": "The first word is read བྱས. The base's separate བྱས་ཀྱང་འདུག note is not inserted."
+          },
+          {
+            "pdf_page": 23,
+            "anchors": [
+              "U00654"
+            ],
+            "source_span": "བྱ་རྒྱུ་རྣམས",
+            "base_span": "བྱ་བྱེད་རྒྱུ་རྣམས",
+            "category": "local_shorter_sequence",
+            "neighboring_context": "After U00653; before དེ་དག་གོ and Q13.",
+            "approximate_native_bounds": [
+              1120,
+              275,
+              1490,
+              400
+            ],
+            "confidence": {
+              "lexical": "medium",
+              "order": "high",
+              "layer": "high"
+            },
+            "rationale": "No separate བྱེད is read in this interval; no global absence or historical cause is inferred."
+          },
+          {
+            "pdf_page": 23,
+            "anchors": [
+              "U00662"
+            ],
+            "source_span": "མེ་རླུང་ཆུ་ས",
+            "base_span": "མེ་རླུང་ས་ཆུ",
+            "category": "element_order_difference",
+            "neighboring_context": "Followed by བཞི་གཉིས་འཁོར; next clause starts with row-final ས.",
+            "approximate_native_bounds": [
+              3030,
+              385,
+              3430,
+              528
+            ],
+            "confidence": {
+              "lexical": "medium",
+              "order": "medium-high",
+              "layer": "high"
+            },
+            "rationale": "The source order is retained rather than rearranged to the base."
+          },
+          {
+            "pdf_page": 23,
+            "anchors": [
+              "U00666"
+            ],
+            "source_span": "སྟོངས་པའི",
+            "base_span": "སྟོང་པའི",
+            "category": "spelling_difference",
+            "neighboring_context": "Followed by གནས་ཏེ་བརྒྱད་ཡིན་ནོ.",
+            "approximate_native_bounds": [
+              2320,
+              465,
+              2620,
+              613
+            ],
+            "confidence": {
+              "lexical": "medium",
+              "order": "high",
+              "layer": "high"
+            },
+            "rationale": "An s-ending is read and preserved."
+          },
+          {
+            "pdf_page": 23,
+            "anchors": [
+              "U00669"
+            ],
+            "source_span": "འདུ་དང",
+            "base_span": "འདུས་དང",
+            "category": "spelling_difference",
+            "neighboring_context": "After U00668; followed by རྟགས་ཏེ་འདི་རྣམས་ལ.",
+            "approximate_native_bounds": [
+              1450,
+              550,
+              1720,
+              682
+            ],
+            "confidence": {
+              "lexical": "medium",
+              "order": "high",
+              "layer": "high"
+            },
+            "rationale": "The source opening is read without a final s."
+          },
+          {
+            "pdf_page": 23,
+            "anchors": [
+              "U00670"
+            ],
+            "source_span": "འགྱུར་བྱེད་ལས",
+            "base_span": "འགྱུར་བྱེད་ལ",
+            "category": "terminal_word_difference",
+            "neighboring_context": "After འདྲེན་ཅིང་གནས་པ; before U00671.",
+            "approximate_native_bounds": [
+              2380,
+              552,
+              2890,
+              714
+            ],
+            "confidence": {
+              "lexical": "medium-high",
+              "order": "high",
+              "layer": "high"
+            },
+            "rationale": "The source terminal word is read ལས."
+          },
+          {
+            "pdf_page": 23,
+            "anchors": [
+              "U00671"
+            ],
+            "source_span": "རླུང་རླུང་ས་ས་མེ་མེ་ཆུ",
+            "base_span": "Same repeated sequence.",
+            "category": "repetition_preserved",
+            "neighboring_context": "Between U00670 and U00672.",
+            "approximate_native_bounds": [
+              2990,
+              565,
+              3460,
+              735
+            ],
+            "confidence": {
+              "lexical": "high",
+              "order": "high",
+              "layer": "high"
+            },
+            "rationale": "Repeated element names are source text, not crop-overlap duplication."
+          },
+          {
+            "pdf_page": 23,
+            "anchors": [
+              "U00678"
+            ],
+            "source_span": "བཀོད་པའི་མན་ངག",
+            "base_span": "བཀོད་པ་མན་ངག",
+            "category": "additional_genitive_component",
+            "neighboring_context": "སྣ་ཚོགས precedes; གནས follows.",
+            "approximate_native_bounds": [
+              980,
+              727,
+              1430,
+              866
+            ],
+            "confidence": {
+              "lexical": "medium-high",
+              "order": "high",
+              "layer": "high"
+            },
+            "rationale": "The visible genitive is retained."
+          }
+        ],
+        "limitations": "Provisional model reading with the explicit local uncertainties above. Gross row coverage is complete; this is not complete chapter or witness certification. Overlapping crops are the same source pixels and supply no independent witness corroboration.",
+        "tools_used": false
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q01",
+          "pdf_page": 21,
+          "anchor": "U00594",
+          "native_bounds": [
+            2480,
+            387,
+            2685,
+            508
+          ],
+          "exact_question": "What exact letter stacks and syllable division occupy the interval after འབྲུག་ and before དམར་?"
+        },
+        {
+          "id": "Q02",
+          "pdf_page": 21,
+          "anchor": "U00596",
+          "native_bounds": [
+            920,
+            443,
+            997,
+            540
+          ],
+          "exact_question": "Which vowel mark belongs to the visible consonant frame གད…ང? The adjacent words do not resolve this vowel."
+        },
+        {
+          "id": "Q03",
+          "pdf_page": 21,
+          "anchor": "U00598:alignment slot only",
+          "native_bounds": [
+            1890,
+            459,
+            1940,
+            532
+          ],
+          "exact_question": "What is the exact identity of the small isolated hooked/angular glyph between གསལ་བའོ and རང་དང? No numeral value is assigned."
+        },
+        {
+          "id": "Q04",
+          "pdf_page": 21,
+          "anchor": "U00600",
+          "native_bounds": [
+            2820,
+            492,
+            2965,
+            596
+          ],
+          "exact_question": "Is there a separate syllable after ངེས་ and before བསལ་, and if so what letters constitute it?"
+        },
+        {
+          "id": "Q05",
+          "pdf_page": 21,
+          "anchor": "U00605",
+          "native_bounds": [
+            3160,
+            600,
+            3275,
+            704
+          ],
+          "exact_question": "Does the end of བླང contain an additional suffix ས before the boundary, or only the final letter and punctuation?"
+        },
+        {
+          "id": "Q06",
+          "pdf_page": 21,
+          "anchor": "between U00613 and U00614",
+          "native_bounds": [
+            2490,
+            758,
+            2550,
+            819
+          ],
+          "exact_question": "What is the identity of the small isolated two-level curved/angular glyph after བརྗོད་བྱའོ? Its numerical or sectional function is unresolved."
+        },
+        {
+          "id": "Q07",
+          "pdf_page": 22,
+          "anchor": "U00623:tail",
+          "native_bounds": [
+            450,
+            416,
+            587,
+            519
+          ],
+          "exact_question": "What is the complete opening conjunct before the readable འོ in the first word of row 3, including whether a prefixed བ is present?"
+        },
+        {
+          "id": "Q08",
+          "pdf_page": 22,
+          "anchor": "U00624:alignment slot only",
+          "native_bounds": [
+            643,
+            430,
+            688,
+            470
+          ],
+          "exact_question": "What is the exact identity of the short isolated bent glyph after the row-initial closure and before འཕེན? Do not infer a numeral from the base heading."
+        },
+        {
+          "id": "Q09",
+          "pdf_page": 22,
+          "anchor": "U00640",
+          "native_bounds": [
+            2050,
+            678,
+            2200,
+            790
+          ],
+          "exact_question": "Is a separate ལ present between བློ and བརྟེན, or does the visible stroke belong to an adjacent letter?"
+        },
+        {
+          "id": "Q10",
+          "pdf_page": 22,
+          "anchor": null,
+          "native_bounds": [
+            343,
+            338,
+            425,
+            387
+          ],
+          "exact_question": "What is the short upper left marginal glyph or label, including its loop and extended stroke?"
+        },
+        {
+          "id": "Q11",
+          "pdf_page": 22,
+          "anchor": null,
+          "native_bounds": [
+            346,
+            572,
+            432,
+            750
+          ],
+          "exact_question": "What is the complete vertical lower left marginal inscription? Its letter sequence is not securely resolved from this viewing."
+        },
+        {
+          "id": "Q12",
+          "pdf_page": 23,
+          "anchor": "U00653",
+          "native_bounds": [
+            447,
+            278,
+            587,
+            391
+          ],
+          "exact_question": "What is the complete first syllable of row 2, including any prefix and suffix around the visible སྒྲུབ-shaped core?"
+        },
+        {
+          "id": "Q13",
+          "pdf_page": 23,
+          "anchor": "U00655:alignment slot only",
+          "native_bounds": [
+            1769,
+            323,
+            1818,
+            380
+          ],
+          "exact_question": "What is the exact identity of the small isolated tiered glyph after དེ་དག་གོ and before རྒྱུ་མཚན? No expected reply numeral is supplied."
+        },
+        {
+          "id": "Q14",
+          "pdf_page": 23,
+          "anchor": "U00673",
+          "native_bounds": [
+            1450,
+            646,
+            1575,
+            761
+          ],
+          "exact_question": "Is there a final ས after the readable བསྲུང, distinct from the following boundary strokes?"
+        },
+        {
+          "id": "Q15",
+          "pdf_page": 23,
+          "anchor": "U00676:alignment slot only",
+          "native_bounds": [
+            3190,
+            656,
+            3280,
+            725
+          ],
+          "exact_question": "What is the exact identity of the small isolated hook/loop after འགྱུར་བྱེད་དོ and before ལེའུ? Its numerical value is unresolved."
+        },
+        {
+          "id": "Q16",
+          "pdf_page": 23,
+          "anchor": "U00681:terminal boundary",
+          "native_bounds": [
+            3730,
+            813,
+            3812,
+            910
+          ],
+          "exact_question": "Beyond the first detached terminal bar, is the next narrow stroke a second detached bar or part of the continuous inner frame?"
+        }
+      ],
+      "unexamined_spans": {
+        "actual_target_omissions": [],
+        "deliberately_excluded_flanks": [
+          {
+            "pdf_page": 20,
+            "scope": "Full-page collation excluded; inspected for layout and the row-7 incoming connection at U00581."
+          },
+          {
+            "pdf_page": 24,
+            "scope": "Full-page collation excluded; inspected for layout and the row-1 outgoing connection at U00682."
+          }
+        ],
+        "distinction": "Q entries are inspected but unresolved components, not skipped rows."
+      },
+      "next_physical_span": "Continue Tsamdrak PDF24 row1, U00682: གནད་འདུས་བཀོད་པ་སེམས་ཀྱི་རྟེན. Preserve Q01–Q16 and the component inventories of PDF21–23.",
+      "reader_claims_require_coordinator_dispositions": true
     }
   ]
 }
