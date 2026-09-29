@@ -25921,5 +25921,723 @@
       "coordinator_scope": "The preceding session inspected the target native layouts and all target columns and saved its observations. This integration rereads the complete preserved source report, its nested page23 findings, and mechanical-repair receipt; source hashes and exact uncertainty scopes verified. No fresh independent human or blind certification.",
       "serialization_repair_receipt": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/tsamdrak-serialization-repair.json"
     }
+  },
+  {
+    "id": "DG-CONT3-B07-D9-02",
+    "witness": "Degé",
+    "units": [
+      "U00393",
+      "U00394",
+      "U00395"
+    ],
+    "base_snippet_at_review": "U00394: དྲིས་ལན་བཞི་པ།",
+    "comparison_reading": "བྱའོ ⟦B⟧ A9 ⟦B+B⟧ རྒྱུད་ཀྱི་",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"letters\": \"mixed; Q9.1 unresolved\", \"graphics\": \"medium\", \"layer\": \"medium-high\"}",
+    "locator": "PDF 9; source-member and native bounds in linked packet; bounds: [2210, 92, 2415, 161]",
+    "rationale": "The compact label is present. Its final component is not assigned a numeral from the expected reply sequence. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Record the localized Degé source-layer, graphic or unread component with exact evidence; uncertain letters do not establish agreement or omission.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p009-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p009-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p009-x1483-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B07-P0009-0011",
+      "baseline_commit": "fea8c52055c738d57e193bccb2d76dd5b8ac822c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt",
+        "sha256": "9e522454ef593a157388facf6ca34ebb1ed6e0d3476eb50cbfaa7f91f87f1b1b"
+      },
+      "observation": {
+        "id": "D9-02",
+        "pdf_page": 9,
+        "anchors": [
+          "U00393",
+          "U00394",
+          "U00395"
+        ],
+        "source_span": "བྱའོ ⟦B⟧ A9 ⟦B+B⟧ རྒྱུད་ཀྱི་",
+        "base_span": "U00394: དྲིས་ལན་བཞི་པ།",
+        "category": "separate reply label; unresolved ending",
+        "neighboring_context": "Between the conclusion ཤེས་པར་བྱའོ and the next main clause.",
+        "approximate_native_bounds": [
+          2210,
+          92,
+          2415,
+          161
+        ],
+        "confidence": {
+          "alignment": "high",
+          "letters": "mixed; Q9.1 unresolved",
+          "graphics": "medium",
+          "layer": "medium-high"
+        },
+        "rationale": "The compact label is present. Its final component is not assigned a numeral from the expected reply sequence."
+      },
+      "coordinator_scope": "Integration of the preserved informed reader report and preceding coordinator inspection of all target native overviews and native columns; this session checked the full observation/question ledger, attachment hashes and source correspondences without claiming a new independent reading of every faint glyph."
+    }
+  },
+  {
+    "id": "DG-CONT3-B07-D9-03",
+    "witness": "Degé",
+    "units": [
+      "U00390",
+      "U00391"
+    ],
+    "base_snippet_at_review": "ནས། ། དེས་ཀྱང་",
+    "comparison_reading": "ནས ⟦C+B⟧ དེས་ཀྱང་",
+    "status": "qualified_graphic_observation",
+    "confidence": "{\"alignment\": \"high\", \"letters\": \"high\", \"graphics\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 9; source-member and native bounds in linked packet; bounds: [1027, 88, 1112, 157]",
+    "rationale": "The terminal return and the further next-leading upright are retained as separate graphic components; neither the frame nor the following letter's limbs are counted as an additional bar. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Record the localized Degé source-layer, graphic or unread component with exact evidence; uncertain letters do not establish agreement or omission.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p009-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p009-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p009-x1483-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B07-P0009-0011",
+      "baseline_commit": "fea8c52055c738d57e193bccb2d76dd5b8ac822c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt",
+        "sha256": "9e522454ef593a157388facf6ca34ebb1ed6e0d3476eb50cbfaa7f91f87f1b1b"
+      },
+      "observation": {
+        "id": "D9-03",
+        "pdf_page": 9,
+        "anchors": [
+          "U00390",
+          "U00391"
+        ],
+        "source_span": "ནས ⟦C+B⟧ དེས་ཀྱང་",
+        "base_span": "ནས། ། དེས་ཀྱང་",
+        "category": "graphic interval",
+        "neighboring_context": "First main-text boundary of row 1.",
+        "approximate_native_bounds": [
+          1027,
+          88,
+          1112,
+          157
+        ],
+        "confidence": {
+          "alignment": "high",
+          "letters": "high",
+          "graphics": "medium",
+          "layer": "high"
+        },
+        "rationale": "The terminal return and the further next-leading upright are retained as separate graphic components; neither the frame nor the following letter's limbs are counted as an additional bar."
+      },
+      "coordinator_scope": "Integration of the preserved informed reader report and preceding coordinator inspection of all target native overviews and native columns; this session checked the full observation/question ledger, attachment hashes and source correspondences without claiming a new independent reading of every faint glyph."
+    }
+  },
+  {
+    "id": "DG-CONT3-B07-D9-04",
+    "witness": "Degé",
+    "units": [
+      "U00405"
+    ],
+    "base_snippet_at_review": "བབ་སོ",
+    "comparison_reading": "བབ⟦Q9.2⟧་སོ",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"letters\": \"unresolved at suffix\", \"graphics\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 9; source-member and native bounds in linked packet; bounds: [748, 194, 852, 251]",
+    "rationale": "A possible additional terminal component is not silently removed to agree with the base. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Record the localized Degé source-layer, graphic or unread component with exact evidence; uncertain letters do not establish agreement or omission.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p009-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p009-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p009-x1483-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B07-P0009-0011",
+      "baseline_commit": "fea8c52055c738d57e193bccb2d76dd5b8ac822c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt",
+        "sha256": "9e522454ef593a157388facf6ca34ebb1ed6e0d3476eb50cbfaa7f91f87f1b1b"
+      },
+      "observation": {
+        "id": "D9-04",
+        "pdf_page": 9,
+        "anchors": [
+          "U00405"
+        ],
+        "source_span": "བབ⟦Q9.2⟧་སོ",
+        "base_span": "བབ་སོ",
+        "category": "unresolved orthographic detail",
+        "neighboring_context": "སྒྲ་ཡི་ … རྣམ་པ་ལྔ",
+        "approximate_native_bounds": [
+          748,
+          194,
+          852,
+          251
+        ],
+        "confidence": {
+          "alignment": "high",
+          "letters": "unresolved at suffix",
+          "graphics": "medium",
+          "layer": "high"
+        },
+        "rationale": "A possible additional terminal component is not silently removed to agree with the base."
+      },
+      "coordinator_scope": "Integration of the preserved informed reader report and preceding coordinator inspection of all target native overviews and native columns; this session checked the full observation/question ledger, attachment hashes and source correspondences without claiming a new independent reading of every faint glyph."
+    }
+  },
+  {
+    "id": "DG-CONT3-B07-D9-05",
+    "witness": "Degé",
+    "units": [
+      "U00433"
+    ],
+    "base_snippet_at_review": "ངེས་སྤྱད་ན",
+    "comparison_reading": "ངེས་⟦Q9.4⟧ / སྤྱད⟦Q9.5⟧",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"letters\": \"mixed; two local components unresolved\", \"graphics\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 9; source-member and native bounds in linked packet; bounds: [[2870, 346, 3044, 410], [485, 393, 570, 456]]",
+    "rationale": "The readable verb does not settle either the preceding faint component or the material between its final letter and the bar. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Record the localized Degé source-layer, graphic or unread component with exact evidence; uncertain letters do not establish agreement or omission.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p009-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p009-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p009-x1483-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B07-P0009-0011",
+      "baseline_commit": "fea8c52055c738d57e193bccb2d76dd5b8ac822c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt",
+        "sha256": "9e522454ef593a157388facf6ca34ebb1ed6e0d3476eb50cbfaa7f91f87f1b1b"
+      },
+      "observation": {
+        "id": "D9-05",
+        "pdf_page": 9,
+        "anchors": [
+          "U00433"
+        ],
+        "source_span": "ངེས་⟦Q9.4⟧ / སྤྱད⟦Q9.5⟧",
+        "base_span": "ངེས་སྤྱད་ན",
+        "category": "unresolved wording at physical wrap",
+        "neighboring_context": "After མངོན་ཤེས་དྲུག་ལ་; the next complete clause begins བདེ་གཤེགས་.",
+        "approximate_native_bounds": [
+          [
+            2870,
+            346,
+            3044,
+            410
+          ],
+          [
+            485,
+            393,
+            570,
+            456
+          ]
+        ],
+        "confidence": {
+          "alignment": "high",
+          "letters": "mixed; two local components unresolved",
+          "graphics": "medium",
+          "layer": "high"
+        },
+        "rationale": "The readable verb does not settle either the preceding faint component or the material between its final letter and the bar."
+      },
+      "coordinator_scope": "Integration of the preserved informed reader report and preceding coordinator inspection of all target native overviews and native columns; this session checked the full observation/question ledger, attachment hashes and source correspondences without claiming a new independent reading of every faint glyph."
+    }
+  },
+  {
+    "id": "DG-CONT3-B07-D10-01",
+    "witness": "Degé",
+    "units": [
+      "U00448"
+    ],
+    "base_snippet_at_review": "བརྗོད་ཅིང་བརྟགས་པའི་སྒྲ་རྣམས་ནི",
+    "comparison_reading": "བརྗོད་ཅིང་⟦Q10.1⟧ / པའི་སྒྲ་རྣམས་ནི",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"letters\": \"mixed; Q10.1 unresolved\", \"graphics\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 10; source-member and native bounds in linked packet; bounds: [[2840, 103, 3034, 163], [452, 181, 632, 245]]",
+    "rationale": "The next row is readable and continues the clause, but does not establish the faint preceding word's exact letters. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Record the localized Degé source-layer, graphic or unread component with exact evidence; uncertain letters do not establish agreement or omission.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p010-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p010-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p010-x1485-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B07-P0009-0011",
+      "baseline_commit": "fea8c52055c738d57e193bccb2d76dd5b8ac822c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt",
+        "sha256": "9e522454ef593a157388facf6ca34ebb1ed6e0d3476eb50cbfaa7f91f87f1b1b"
+      },
+      "observation": {
+        "id": "D10-01",
+        "pdf_page": 10,
+        "anchors": [
+          "U00448"
+        ],
+        "source_span": "བརྗོད་ཅིང་⟦Q10.1⟧ / པའི་སྒྲ་རྣམས་ནི",
+        "base_span": "བརྗོད་ཅིང་བརྟགས་པའི་སྒྲ་རྣམས་ནི",
+        "category": "faint word before row break",
+        "neighboring_context": "After སྟོང་ཕྲག་…; before རྣལ་འབྱོར་པ་ཡིས་.",
+        "approximate_native_bounds": [
+          [
+            2840,
+            103,
+            3034,
+            163
+          ],
+          [
+            452,
+            181,
+            632,
+            245
+          ]
+        ],
+        "confidence": {
+          "alignment": "high",
+          "letters": "mixed; Q10.1 unresolved",
+          "graphics": "medium",
+          "layer": "high"
+        },
+        "rationale": "The next row is readable and continues the clause, but does not establish the faint preceding word's exact letters."
+      },
+      "coordinator_scope": "Integration of the preserved informed reader report and preceding coordinator inspection of all target native overviews and native columns; this session checked the full observation/question ledger, attachment hashes and source correspondences without claiming a new independent reading of every faint glyph."
+    }
+  },
+  {
+    "id": "DG-CONT3-B07-D10-02",
+    "witness": "Degé",
+    "units": [
+      "U00458"
+    ],
+    "base_snippet_at_review": "སྐལ་བ་ཅན",
+    "comparison_reading": "སྐལ་⟦Q10.3⟧་ཅན",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"letters\": \"unresolved for the marked syllable\", \"graphics\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 10; source-member and native bounds in linked packet; bounds: [1275, 228, 1420, 284]",
+    "rationale": "The pa/ba distinction is left open rather than normalized through the expected expression. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Record the localized Degé source-layer, graphic or unread component with exact evidence; uncertain letters do not establish agreement or omission.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p010-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p010-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p010-x1485-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B07-P0009-0011",
+      "baseline_commit": "fea8c52055c738d57e193bccb2d76dd5b8ac822c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt",
+        "sha256": "9e522454ef593a157388facf6ca34ebb1ed6e0d3476eb50cbfaa7f91f87f1b1b"
+      },
+      "observation": {
+        "id": "D10-02",
+        "pdf_page": 10,
+        "anchors": [
+          "U00458"
+        ],
+        "source_span": "སྐལ་⟦Q10.3⟧་ཅན",
+        "base_span": "སྐལ་བ་ཅན",
+        "category": "unresolved consonant",
+        "neighboring_context": "Between དཀྱིལ་འཁོར་དུ and དབང་པོ་དྲུག་.",
+        "approximate_native_bounds": [
+          1275,
+          228,
+          1420,
+          284
+        ],
+        "confidence": {
+          "alignment": "high",
+          "letters": "unresolved for the marked syllable",
+          "graphics": "medium",
+          "layer": "high"
+        },
+        "rationale": "The pa/ba distinction is left open rather than normalized through the expected expression."
+      },
+      "coordinator_scope": "Integration of the preserved informed reader report and preceding coordinator inspection of all target native overviews and native columns; this session checked the full observation/question ledger, attachment hashes and source correspondences without claiming a new independent reading of every faint glyph."
+    }
+  },
+  {
+    "id": "DG-CONT3-B07-D11-01",
+    "witness": "Degé",
+    "units": [
+      "U00491",
+      "U00492",
+      "U00493"
+    ],
+    "base_snippet_at_review": "U00492: དྲིས་ལན་ལྔ་པ།",
+    "comparison_reading": "ངེས་པའི་འཕྲུལ་འབྱེད་ཕྱེ ⟦B⟧ A11 ⟦B+B⟧ ཐལ་བའི་གནས་",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"letters\": \"mixed; label ending unresolved\", \"graphics\": \"medium\", \"layer\": \"medium-high\"}",
+    "locator": "PDF 11; source-member and native bounds in linked packet; bounds: [780, 98, 1370, 165]",
+    "rationale": "The compact label is recorded separately. No ordinal value is inferred from the preceding label. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Record the localized Degé source-layer, graphic or unread component with exact evidence; uncertain letters do not establish agreement or omission.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p011-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p011-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p011-x1496-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B07-P0009-0011",
+      "baseline_commit": "fea8c52055c738d57e193bccb2d76dd5b8ac822c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt",
+        "sha256": "9e522454ef593a157388facf6ca34ebb1ed6e0d3476eb50cbfaa7f91f87f1b1b"
+      },
+      "observation": {
+        "id": "D11-01",
+        "pdf_page": 11,
+        "anchors": [
+          "U00491",
+          "U00492",
+          "U00493"
+        ],
+        "source_span": "ངེས་པའི་འཕྲུལ་འབྱེད་ཕྱེ ⟦B⟧ A11 ⟦B+B⟧ ཐལ་བའི་གནས་",
+        "base_span": "U00492: དྲིས་ལན་ལྔ་པ།",
+        "category": "incoming continuation and separate reply label",
+        "neighboring_context": "PDF10 supplies རྒྱུད་ལ; the next main unit begins ཐལ་བའི་གནས་ནི་.",
+        "approximate_native_bounds": [
+          780,
+          98,
+          1370,
+          165
+        ],
+        "confidence": {
+          "alignment": "high",
+          "letters": "mixed; label ending unresolved",
+          "graphics": "medium",
+          "layer": "medium-high"
+        },
+        "rationale": "The compact label is recorded separately. No ordinal value is inferred from the preceding label."
+      },
+      "coordinator_scope": "Integration of the preserved informed reader report and preceding coordinator inspection of all target native overviews and native columns; this session checked the full observation/question ledger, attachment hashes and source correspondences without claiming a new independent reading of every faint glyph."
+    }
+  },
+  {
+    "id": "DG-CONT3-B07-D11-02",
+    "witness": "Degé",
+    "units": [
+      "U00511"
+    ],
+    "base_snippet_at_review": "དེ་ནས་འཇིག་རྟེན་དྲུག་འོག་ཏུ",
+    "comparison_reading": "དེ་ནས་འཇིག་རྟེན་⟦Q11.2⟧ / འོག་ཏུ",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"letters\": \"mixed; Q11.2 unresolved\", \"graphics\": \"medium\", \"layer\": \"high\"}",
+    "locator": "PDF 11; source-member and native bounds in linked packet; bounds: [[2760, 204, 3050, 269], [470, 253, 555, 316]]",
+    "rationale": "The continuation འོག་ཏུ is readable independently of the faint component at the preceding row's right edge. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Record the localized Degé source-layer, graphic or unread component with exact evidence; uncertain letters do not establish agreement or omission.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p011-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p011-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p011-x1496-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B07-P0009-0011",
+      "baseline_commit": "fea8c52055c738d57e193bccb2d76dd5b8ac822c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt",
+        "sha256": "9e522454ef593a157388facf6ca34ebb1ed6e0d3476eb50cbfaa7f91f87f1b1b"
+      },
+      "observation": {
+        "id": "D11-02",
+        "pdf_page": 11,
+        "anchors": [
+          "U00511"
+        ],
+        "source_span": "དེ་ནས་འཇིག་རྟེན་⟦Q11.2⟧ / འོག་ཏུ",
+        "base_span": "དེ་ནས་འཇིག་རྟེན་དྲུག་འོག་ཏུ",
+        "category": "unresolved row-final stack",
+        "neighboring_context": "After ཆུ་ཞེང་…; followed by ཐལ་བ་འཛིན་.",
+        "approximate_native_bounds": [
+          [
+            2760,
+            204,
+            3050,
+            269
+          ],
+          [
+            470,
+            253,
+            555,
+            316
+          ]
+        ],
+        "confidence": {
+          "alignment": "high",
+          "letters": "mixed; Q11.2 unresolved",
+          "graphics": "medium",
+          "layer": "high"
+        },
+        "rationale": "The continuation འོག་ཏུ is readable independently of the faint component at the preceding row's right edge."
+      },
+      "coordinator_scope": "Integration of the preserved informed reader report and preceding coordinator inspection of all target native overviews and native columns; this session checked the full observation/question ledger, attachment hashes and source correspondences without claiming a new independent reading of every faint glyph."
+    }
+  },
+  {
+    "id": "DG-CONT3-B07-D11-03",
+    "witness": "Degé",
+    "units": [
+      "U00534"
+    ],
+    "base_snippet_at_review": "{\"reading\": \"ལྗོངས་རབ་ཏུ་རྫོགས་ཏེ་ཉམས་དགའ་བར\", \"separate_annotation\": \"བདེ་ཡང་བྱུང\"}",
+    "comparison_reading": "{\"main\": \"ལྗོངས་རབ་ཏུ་རྫོགས་ཏེ་ཉམས་དགའ་བར\", \"smaller_lettering\": \"A11n / Q11.3\"}",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"main_letters\": \"medium\", \"annotation_letters\": \"unresolved\", \"layer\": \"medium\"}",
+    "locator": "PDF 11; source-member and native bounds in linked packet; bounds: [915, 377, 1380, 458]",
+    "rationale": "Smaller strokes are kept out of the main sequence. Their wording is not borrowed from the supplied annotation record. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Record the localized Degé source-layer, graphic or unread component with exact evidence; uncertain letters do not establish agreement or omission.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p011-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p011-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p011-x1496-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B07-P0009-0011",
+      "baseline_commit": "fea8c52055c738d57e193bccb2d76dd5b8ac822c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt",
+        "sha256": "9e522454ef593a157388facf6ca34ebb1ed6e0d3476eb50cbfaa7f91f87f1b1b"
+      },
+      "observation": {
+        "id": "D11-03",
+        "pdf_page": 11,
+        "anchors": [
+          "U00534"
+        ],
+        "source_span": {
+          "main": "ལྗོངས་རབ་ཏུ་རྫོགས་ཏེ་ཉམས་དགའ་བར",
+          "smaller_lettering": "A11n / Q11.3"
+        },
+        "base_span": {
+          "reading": "ལྗོངས་རབ་ཏུ་རྫོགས་ཏེ་ཉམས་དགའ་བར",
+          "separate_annotation": "བདེ་ཡང་བྱུང"
+        },
+        "category": "main versus smaller lettering",
+        "neighboring_context": "Between ཐལ་བའི་བེ་ཅོན་ཞེས་བྱ་བ and རིན་ཆེན་སིལ་མ་.",
+        "approximate_native_bounds": [
+          915,
+          377,
+          1380,
+          458
+        ],
+        "confidence": {
+          "alignment": "high",
+          "main_letters": "medium",
+          "annotation_letters": "unresolved",
+          "layer": "medium"
+        },
+        "rationale": "Smaller strokes are kept out of the main sequence. Their wording is not borrowed from the supplied annotation record."
+      },
+      "coordinator_scope": "Integration of the preserved informed reader report and preceding coordinator inspection of all target native overviews and native columns; this session checked the full observation/question ledger, attachment hashes and source correspondences without claiming a new independent reading of every faint glyph."
+    }
+  },
+  {
+    "id": "DG-CONT3-B07-Q9.3",
+    "witness": "Degé",
+    "units": [
+      "U00411"
+    ],
+    "base_snippet_at_review": "རེ་རེ་དག་ལ་བརྒྱ་ཕྲག་གཉིས། །",
+    "comparison_reading": "[Q9.3] What are the exact final letters after བརྒྱ་ཕྲག་ and before the terminal bar?",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 9; source-member and native bounds in linked packet; bounds: [2940, 206, 3044, 265]",
+    "rationale": "What are the exact final letters after བརྒྱ་ཕྲག་ and before the terminal bar? Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Record the localized Degé source-layer, graphic or unread component with exact evidence; uncertain letters do not establish agreement or omission.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p009-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p009-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p009-x1483-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B07-P0009-0011",
+      "baseline_commit": "fea8c52055c738d57e193bccb2d76dd5b8ac822c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt",
+        "sha256": "9e522454ef593a157388facf6ca34ebb1ed6e0d3476eb50cbfaa7f91f87f1b1b"
+      },
+      "observation": {
+        "id": "Q9.3",
+        "pdf_page": 9,
+        "anchors": [
+          "U00411"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q9.3] What are the exact final letters after བརྒྱ་ཕྲག་ and before the terminal bar?",
+        "base_span": "རེ་རེ་དག་ལ་བརྒྱ་ཕྲག་གཉིས། །",
+        "approximate_native_bounds": [
+          2940,
+          206,
+          3044,
+          265
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "What are the exact final letters after བརྒྱ་ཕྲག་ and before the terminal bar?"
+      },
+      "coordinator_scope": "Integration of the preserved informed reader report and preceding coordinator inspection of all target native overviews and native columns; this session checked the full observation/question ledger, attachment hashes and source correspondences without claiming a new independent reading of every faint glyph."
+    }
+  },
+  {
+    "id": "DG-CONT3-B07-Q10.2",
+    "witness": "Degé",
+    "units": [
+      "U00455"
+    ],
+    "base_snippet_at_review": "འདས་དང་མ་འོངས་ད་ལྟར་གྱི། །",
+    "comparison_reading": "[Q10.2] What is the exact final particle after ད་ལྟར་ before the row-final bar?",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 10; source-member and native bounds in linked packet; bounds: [2970, 166, 3035, 217]",
+    "rationale": "What is the exact final particle after ད་ལྟར་ before the row-final bar? Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Record the localized Degé source-layer, graphic or unread component with exact evidence; uncertain letters do not establish agreement or omission.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p010-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p010-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p010-x1485-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B07-P0009-0011",
+      "baseline_commit": "fea8c52055c738d57e193bccb2d76dd5b8ac822c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt",
+        "sha256": "9e522454ef593a157388facf6ca34ebb1ed6e0d3476eb50cbfaa7f91f87f1b1b"
+      },
+      "observation": {
+        "id": "Q10.2",
+        "pdf_page": 10,
+        "anchors": [
+          "U00455"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q10.2] What is the exact final particle after ད་ལྟར་ before the row-final bar?",
+        "base_span": "འདས་དང་མ་འོངས་ད་ལྟར་གྱི། །",
+        "approximate_native_bounds": [
+          2970,
+          166,
+          3035,
+          217
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "What is the exact final particle after ད་ལྟར་ before the row-final bar?"
+      },
+      "coordinator_scope": "Integration of the preserved informed reader report and preceding coordinator inspection of all target native overviews and native columns; this session checked the full observation/question ledger, attachment hashes and source correspondences without claiming a new independent reading of every faint glyph."
+    }
+  },
+  {
+    "id": "DG-CONT3-B07-Q10.4",
+    "witness": "Degé",
+    "units": [
+      "U00469"
+    ],
+    "base_snippet_at_review": "ལས་ཅན་སོ་སོའི་ངེས་འབྱེད་འཕྲུལ། །",
+    "comparison_reading": "[Q10.4] Read the final word after ངེས་འབྱེད་, distinguishing its stacked letters from the adjacent bar.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 10; source-member and native bounds in linked packet; bounds: [2880, 258, 3025, 321]",
+    "rationale": "Read the final word after ངེས་འབྱེད་, distinguishing its stacked letters from the adjacent bar. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Record the localized Degé source-layer, graphic or unread component with exact evidence; uncertain letters do not establish agreement or omission.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p010-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p010-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p010-x1485-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B07-P0009-0011",
+      "baseline_commit": "fea8c52055c738d57e193bccb2d76dd5b8ac822c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt",
+        "sha256": "9e522454ef593a157388facf6ca34ebb1ed6e0d3476eb50cbfaa7f91f87f1b1b"
+      },
+      "observation": {
+        "id": "Q10.4",
+        "pdf_page": 10,
+        "anchors": [
+          "U00469"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q10.4] Read the final word after ངེས་འབྱེད་, distinguishing its stacked letters from the adjacent bar.",
+        "base_span": "ལས་ཅན་སོ་སོའི་ངེས་འབྱེད་འཕྲུལ། །",
+        "approximate_native_bounds": [
+          2880,
+          258,
+          3025,
+          321
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the final word after ངེས་འབྱེད་, distinguishing its stacked letters from the adjacent bar."
+      },
+      "coordinator_scope": "Integration of the preserved informed reader report and preceding coordinator inspection of all target native overviews and native columns; this session checked the full observation/question ledger, attachment hashes and source correspondences without claiming a new independent reading of every faint glyph."
+    }
+  },
+  {
+    "id": "DG-CONT3-B07-Q11.4",
+    "witness": "Degé",
+    "units": [
+      "U00538"
+    ],
+    "base_snippet_at_review": "ཐོད་པའི་ཕྲེང་བ་བཀོད་པ་འོ། །",
+    "comparison_reading": "[Q11.4] Read the ending after བཀོད་, including whether the source has joined པའོ or separately dotted པ་འོ.",
+    "status": "bounded_uncertainty",
+    "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+    "locator": "PDF 11; source-member and native bounds in linked packet; bounds: [2765, 400, 2870, 462]",
+    "rationale": "Read the ending after བཀོད་, including whether the source has joined པའོ or separately dotted པ་འོ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the governing Adzom reading. Record the localized Degé source-layer, graphic or unread component with exact evidence; uncertain letters do not establish agreement or omission.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p011-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p011-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p011-x1496-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B07-P0009-0011",
+      "baseline_commit": "fea8c52055c738d57e193bccb2d76dd5b8ac822c",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt",
+        "sha256": "9e522454ef593a157388facf6ca34ebb1ed6e0d3476eb50cbfaa7f91f87f1b1b"
+      },
+      "observation": {
+        "id": "Q11.4",
+        "pdf_page": 11,
+        "anchors": [
+          "U00538"
+        ],
+        "category": "bounded_unresolved_component",
+        "source_span": "[Q11.4] Read the ending after བཀོད་, including whether the source has joined པའོ or separately dotted པ་འོ.",
+        "base_span": "ཐོད་པའི་ཕྲེང་བ་བཀོད་པ་འོ། །",
+        "approximate_native_bounds": [
+          2765,
+          400,
+          2870,
+          462
+        ],
+        "confidence": "Unresolved; base quotation is a locator, not supplied witness text.",
+        "rationale": "Read the ending after བཀོད་, including whether the source has joined པའོ or separately dotted པ་འོ."
+      },
+      "coordinator_scope": "Integration of the preserved informed reader report and preceding coordinator inspection of all target native overviews and native columns; this session checked the full observation/question ledger, attachment hashes and source correspondences without claiming a new independent reading of every faint glyph."
+    }
   }
 ]

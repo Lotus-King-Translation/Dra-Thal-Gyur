@@ -1,0 +1,59 @@
+{
+  "task_id": "C1-DEGE",
+  "batch_id": "B07-P0009-0011",
+  "baseline_commit": "fea8c52055c738d57e193bccb2d76dd5b8ac822c",
+  "witness": "Degé",
+  "record_prefix": "DG-CONT3-B07",
+  "selected_observations": [
+    "D9-02",
+    "D9-03",
+    "D9-04",
+    "D9-05",
+    "D10-01",
+    "D10-02",
+    "D11-01",
+    "D11-02",
+    "D11-03"
+  ],
+  "record_statuses": {
+    "D9-02": "bounded_uncertainty",
+    "D9-03": "qualified_graphic_observation",
+    "D9-04": "bounded_uncertainty",
+    "D9-05": "bounded_uncertainty",
+    "D10-01": "bounded_uncertainty",
+    "D10-02": "bounded_uncertainty",
+    "D11-01": "bounded_uncertainty",
+    "D11-02": "bounded_uncertainty",
+    "D11-03": "bounded_uncertainty"
+  },
+  "separate_unrepresented_lexical_questions": [
+    "Q9.3",
+    "Q10.2",
+    "Q10.4",
+    "Q11.4"
+  ],
+  "planned_new_records": 13,
+  "base_disposition": "Retain the governing Adzom reading. Record the localized Degé source-layer, graphic or unread component with exact evidence; uncertain letters do not establish agreement or omission.",
+  "next_task_id": "C1-DZONGSAR",
+  "coordinator": {
+    "summary": "Degé PDF9–11: all 21 target rows integrated from U00390 continuation through U00539 opening, with compact reply labels kept separate and eighteen bounded glyph or marginal questions preserved. Thirteen selected apparatus entries are observations or uncertainties, not thirteen confirmed variants.",
+    "next_step": "Continue Degé PDF12 row1 at U00539 continuation རྟེན་བྱང་ཤར་མཚམས, following PDF11 འདི་ནས་འཇིག. Keep all Q9/Q10/Q11, filler and graphic limits visible.",
+    "detail": "Nine source-layer/graphic/uncertainty observations are indexed together with four otherwise unrepresented lexical questions. Four pure page joins remain in the row ledger. No expected heading ordinal or smaller-note wording is reconstructed from the base.",
+    "coordinator_scope": "Integration of the preserved informed reader report and preceding coordinator inspection of all target native overviews and native columns; this session checked the full observation/question ledger, attachment hashes and source correspondences without claiming a new independent reading of every faint glyph.",
+    "observation_dispositions": {
+      "D9-01": "Keep the actual page continuation in the source-ordered row ledger; no duplicate lexical variant and no omission inferred from a page break.",
+      "D9-02": "Preserve the stated graphic or unresolved reading and its exact physical bounds. No wording supplied from Adzom, no ordinal inferred, and no complete glyph certification.",
+      "D9-03": "Retain the capped/returned terminal component and the next-leading upright as distinct source graphics, without normalizing their combined form to two ordinary shads.",
+      "D9-04": "Preserve the stated graphic or unresolved reading and its exact physical bounds. No wording supplied from Adzom, no ordinal inferred, and no complete glyph certification.",
+      "D9-05": "Preserve the stated graphic or unresolved reading and its exact physical bounds. No wording supplied from Adzom, no ordinal inferred, and no complete glyph certification.",
+      "D9-06": "Keep the actual page continuation in the source-ordered row ledger; no duplicate lexical variant and no omission inferred from a page break.",
+      "D10-01": "Preserve the stated graphic or unresolved reading and its exact physical bounds. No wording supplied from Adzom, no ordinal inferred, and no complete glyph certification.",
+      "D10-02": "Preserve the stated graphic or unresolved reading and its exact physical bounds. No wording supplied from Adzom, no ordinal inferred, and no complete glyph certification.",
+      "D10-03": "Keep the actual page continuation in the source-ordered row ledger; no duplicate lexical variant and no omission inferred from a page break.",
+      "D11-01": "Preserve the stated graphic or unresolved reading and its exact physical bounds. No wording supplied from Adzom, no ordinal inferred, and no complete glyph certification.",
+      "D11-02": "Preserve the stated graphic or unresolved reading and its exact physical bounds. No wording supplied from Adzom, no ordinal inferred, and no complete glyph certification.",
+      "D11-03": "Keep the readable main sequence separate from the smaller unresolved A11n/Q11.3 strokes; do not borrow the Adzom bde-yang-byung note into the unread source layer.",
+      "D11-04": "Keep the actual page continuation in the source-ordered row ledger; no duplicate lexical variant and no omission inferred from a page break."
+    }
+  }
+}

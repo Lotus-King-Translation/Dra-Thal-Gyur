@@ -73,3 +73,15 @@ Faint or darkened source components stay visibly unresolved. No exact Unicode-eq
 **Remaining:** Next genuinely missing Degé comparison page is PDF9, row1 U00390 continuation ཐབས་ལ་བསླབ་གྱུར་ནས. Retain all PDF8 Q01-Q12 and the previous page-specific unresolved letters, note remainders and graphic inventories.
 
 The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.
+
+## B07-P0009-0011 — preserved review integrated
+
+Degé PDF9–11: all 21 target rows integrated from U00390 continuation through U00539 opening, with compact reply labels kept separate and eighteen bounded glyph or marginal questions preserved. Thirteen selected apparatus entries are observations or uncertainties, not thirteen confirmed variants.
+
+[Unchanged raw report](C1-DEGE-B07-P0009-0011-reader-reading.txt) · [Exact source and rows](C1-DEGE.json).
+
+Nine source-layer/graphic/uncertainty observations are indexed together with four otherwise unrepresented lexical questions. Four pure page joins remain in the row ledger. No expected heading ordinal or smaller-note wording is reconstructed from the base.
+
+**Remaining:** Continue Degé PDF12 row1 at U00539 continuation རྟེན་བྱང་ཤར་མཚམས, following PDF11 འདི་ནས་འཇིག. Keep all Q9/Q10/Q11, filler and graphic limits visible.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.

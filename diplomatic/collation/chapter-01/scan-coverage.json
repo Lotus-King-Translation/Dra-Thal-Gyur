@@ -5656,6 +5656,285 @@
       },
       "next_physical_span": "Continue Tsamdrak PDF24 row1, U00682: གནད་འདུས་བཀོད་པ་སེམས་ཀྱི་རྟེན. Preserve Q01–Q16 and the component inventories of PDF21–23.",
       "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-DEGE",
+      "batch_id": "B07-P0009-0011",
+      "target_pages": [
+        9,
+        10,
+        11
+      ],
+      "report": "reviews/chapter-01/continuation/C1-DEGE.json",
+      "summary": "Degé PDF9–11: all 21 target rows integrated from U00390 continuation through U00539 opening, with compact reply labels kept separate and eighteen bounded glyph or marginal questions preserved. Thirteen selected apparatus entries are observations or uncertainties, not thirteen confirmed variants.",
+      "rows_reported": 21,
+      "canonical_record_ids": [
+        "DG-CONT3-B07-D9-02",
+        "DG-CONT3-B07-D9-03",
+        "DG-CONT3-B07-D9-04",
+        "DG-CONT3-B07-D9-05",
+        "DG-CONT3-B07-D10-01",
+        "DG-CONT3-B07-D10-02",
+        "DG-CONT3-B07-D11-01",
+        "DG-CONT3-B07-D11-02",
+        "DG-CONT3-B07-D11-03",
+        "DG-CONT3-B07-Q9.3",
+        "DG-CONT3-B07-Q10.2",
+        "DG-CONT3-B07-Q10.4",
+        "DG-CONT3-B07-Q11.4"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "target_pages_inspected": [
+          9,
+          10,
+          11
+        ],
+        "target_rows_inspected": 21,
+        "target_rows_supplied": 21,
+        "fully_resolved": false,
+        "alignment_extent": "U00390 continuation through U00539 opening; compact labels U00394 and U00492 retained as separate source layers.",
+        "limitations": "Provisional model transcription. Marked letters and marginal labels remain unresolved. Graphic classifications have moderate confidence; individual filler-tick counts and every minute tsheg attachment are not certified.",
+        "independence": "Informed independent image reading with the supplied base visible as an alignment aid; not blind review or credentialed human palaeography.",
+        "complete_chapter_or_witness_certification": false
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q9.1",
+          "pdf_page": 9,
+          "anchor": "U00394",
+          "native_bounds": [
+            2250,
+            96,
+            2360,
+            158
+          ],
+          "exact_question": "What is the final component after དྲིས་ལན་, including any numeral or ordinal syllable and any following པ?"
+        },
+        {
+          "id": "Q9.2",
+          "pdf_page": 9,
+          "anchor": "U00405",
+          "native_bounds": [
+            765,
+            198,
+            827,
+            248
+          ],
+          "exact_question": "Is a final ས present after བབ before the following tsheg and སོ, or is the apparent additional stroke part of the existing letter?"
+        },
+        {
+          "id": "Q9.3",
+          "pdf_page": 9,
+          "anchor": "U00411",
+          "native_bounds": [
+            2940,
+            206,
+            3044,
+            265
+          ],
+          "exact_question": "What are the exact final letters after བརྒྱ་ཕྲག་ and before the terminal bar?"
+        },
+        {
+          "id": "Q9.4",
+          "pdf_page": 9,
+          "anchor": "U00433",
+          "native_bounds": [
+            2960,
+            348,
+            3044,
+            410
+          ],
+          "exact_question": "What lexical component, if any, follows ངེས་ before the row-end filler train?"
+        },
+        {
+          "id": "Q9.5",
+          "pdf_page": 9,
+          "anchor": "U00433",
+          "native_bounds": [
+            522,
+            394,
+            571,
+            456
+          ],
+          "exact_question": "Is any syllable or syllable fragment present between the readable སྤྱད and its closing bar? The base's ན is not supplied."
+        },
+        {
+          "id": "Q9.6",
+          "pdf_page": 9,
+          "anchor": null,
+          "native_bounds": [
+            420,
+            202,
+            474,
+            288
+          ],
+          "exact_question": "Read the vertically oriented middle marginal lettering; its lexical identity is unresolved."
+        },
+        {
+          "id": "Q9.7",
+          "pdf_page": 9,
+          "anchor": null,
+          "native_bounds": [
+            416,
+            307,
+            475,
+            391
+          ],
+          "exact_question": "Read the lower marginal label without inferring a folio numeral from the PDF sequence."
+        },
+        {
+          "id": "Q10.1",
+          "pdf_page": 10,
+          "anchor": "U00448",
+          "native_bounds": [
+            2880,
+            103,
+            3034,
+            166
+          ],
+          "exact_question": "Read the faint word after བརྗོད་ཅིང་ at the right end of row 1, before row 2's པའི་."
+        },
+        {
+          "id": "Q10.2",
+          "pdf_page": 10,
+          "anchor": "U00455",
+          "native_bounds": [
+            2970,
+            166,
+            3035,
+            217
+          ],
+          "exact_question": "What is the exact final particle after ད་ལྟར་ before the row-final bar?"
+        },
+        {
+          "id": "Q10.3",
+          "pdf_page": 10,
+          "anchor": "U00458",
+          "native_bounds": [
+            1290,
+            231,
+            1382,
+            284
+          ],
+          "exact_question": "Is the syllable between སྐལ་ and ཅན པ or བ?"
+        },
+        {
+          "id": "Q10.4",
+          "pdf_page": 10,
+          "anchor": "U00469",
+          "native_bounds": [
+            2880,
+            258,
+            3025,
+            321
+          ],
+          "exact_question": "Read the final word after ངེས་འབྱེད་, distinguishing its stacked letters from the adjacent bar."
+        },
+        {
+          "id": "Q10.5",
+          "pdf_page": 10,
+          "anchor": null,
+          "native_bounds": [
+            382,
+            270,
+            443,
+            349
+          ],
+          "exact_question": "Read the left marginal lettering without assigning its value from the expected leaf order."
+        },
+        {
+          "id": "Q11.1",
+          "pdf_page": 11,
+          "anchor": "U00492",
+          "native_bounds": [
+            1085,
+            98,
+            1184,
+            159
+          ],
+          "exact_question": "Read the compact label's ending after དྲིས་ལན་, including whether a separate པ is present; no reply numeral is assumed."
+        },
+        {
+          "id": "Q11.2",
+          "pdf_page": 11,
+          "anchor": "U00511",
+          "native_bounds": [
+            2960,
+            206,
+            3050,
+            270
+          ],
+          "exact_question": "Read the final lexical stack after འཇིག་རྟེན་ and before the filler ticks; do not supply it from the following འོག་ཏུ."
+        },
+        {
+          "id": "Q11.3",
+          "pdf_page": 11,
+          "anchor": "U00534",
+          "native_bounds": [
+            915,
+            377,
+            1135,
+            427
+          ],
+          "exact_question": "What exact smaller letters occur at/above the opening of U00534, and which strokes belong to that smaller layer rather than the main letters below?"
+        },
+        {
+          "id": "Q11.4",
+          "pdf_page": 11,
+          "anchor": "U00538",
+          "native_bounds": [
+            2765,
+            400,
+            2870,
+            462
+          ],
+          "exact_question": "Read the ending after བཀོད་, including whether the source has joined པའོ or separately dotted པ་འོ."
+        },
+        {
+          "id": "Q11.5",
+          "pdf_page": 11,
+          "anchor": null,
+          "native_bounds": [
+            414,
+            210,
+            466,
+            296
+          ],
+          "exact_question": "Read the vertically oriented middle marginal lettering."
+        },
+        {
+          "id": "Q11.6",
+          "pdf_page": 11,
+          "anchor": null,
+          "native_bounds": [
+            410,
+            305,
+            464,
+            390
+          ],
+          "exact_question": "Read the lower marginal label without inferring its numeral value from neighboring leaves."
+        }
+      ],
+      "unexamined_spans": [
+        {
+          "kind": "actual target omissions",
+          "spans": [],
+          "qualification": "All 21 target rows were inspected and represented; unresolved components remain explicitly marked."
+        },
+        {
+          "kind": "deliberately excluded flanks",
+          "pdf_page": 8,
+          "scope": "Full collation excluded. Only the native layout and row-7 outgoing context around སྣ་ཚོགས were used."
+        },
+        {
+          "kind": "deliberately excluded flanks",
+          "pdf_page": 12,
+          "scope": "Full collation excluded. Only the native layout and row-1 incoming context རྟེན་བྱང་ཤར་མཚམས were used."
+        }
+      ],
+      "next_physical_span": "Continue Degé PDF12 row1 at U00539 continuation རྟེན་བྱང་ཤར་མཚམས, following PDF11 འདི་ནས་འཇིག. Keep all Q9/Q10/Q11, filler and graphic limits visible.",
+      "reader_claims_require_coordinator_dispositions": true
     }
   ]
 }
