@@ -1,0 +1,72 @@
+{
+  "verified_source_packet_commit": "c04c61f396aba4c53418acb9e27bab9ea864a709",
+  "started_at": "2026-09-29T15:33:43.007760+03:00",
+  "readers": [
+    {
+      "task_id": "C1-TINGKYE",
+      "batch_id": "B09-P0011-0013",
+      "pid": 2222,
+      "command": [
+        "python3",
+        "diplomatic/tools/reading_batch.py",
+        "--repo",
+        ".",
+        "capture",
+        "--specification",
+        "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B09-P0011-0013-reader-spec.json"
+      ],
+      "capture_log": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/C1-TINGKYE-B09-P0011-0013-capture.log",
+      "editorial_adoption": false
+    },
+    {
+      "task_id": "C1-TSAMDRAK",
+      "batch_id": "B09-P0021-0023",
+      "pid": 2223,
+      "command": [
+        "python3",
+        "diplomatic/tools/reading_batch.py",
+        "--repo",
+        ".",
+        "capture",
+        "--specification",
+        "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B09-P0021-0023-reader-spec.json"
+      ],
+      "capture_log": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/C1-TSAMDRAK-B09-P0021-0023-capture.log",
+      "editorial_adoption": false
+    },
+    {
+      "task_id": "C1-DEGE",
+      "batch_id": "B07-P0009-0011",
+      "pid": 2224,
+      "command": [
+        "python3",
+        "diplomatic/tools/reading_batch.py",
+        "--repo",
+        ".",
+        "capture",
+        "--specification",
+        "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-spec.json"
+      ],
+      "capture_log": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/C1-DEGE-B07-P0009-0011-capture.log",
+      "editorial_adoption": false
+    },
+    {
+      "task_id": "C1-DZONGSAR",
+      "batch_id": "B01-U00440-U00534-U00710",
+      "pid": 2225,
+      "command": [
+        "python3",
+        "diplomatic/tools/reading_batch.py",
+        "--repo",
+        ".",
+        "capture",
+        "--specification",
+        "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B01-U00440-U00534-U00710-reader-spec.json"
+      ],
+      "capture_log": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-NEW-READING/C1-DZONGSAR-B01-U00440-U00534-U00710-capture.log",
+      "editorial_adoption": false
+    }
+  ],
+  "all_writer_outputs_under_repo": true,
+  "coordinator_only_publishes": true
+}

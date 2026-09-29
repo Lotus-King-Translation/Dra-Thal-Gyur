@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-29T15:55:20.210763+03:00",
+  "scope": "Preservation checkpoint only; reader outputs are not adopted",
+  "reader_returncodes_at_pause": {
+    "C1-TINGKYE": 0,
+    "C1-TSAMDRAK": 0,
+    "C1-DEGE": null,
+    "C1-DZONGSAR": 0
+  },
+  "paused_own_child_pids": [
+    2224,
+    2228,
+    2232,
+    2706,
+    2708,
+    2732,
+    2788,
+    3052
+  ],
+  "partial_reports_remain_in_progress": true,
+  "resume_policy": "Resume the same reader processes immediately after verified checkpoint; no duplicate requests."
+}
