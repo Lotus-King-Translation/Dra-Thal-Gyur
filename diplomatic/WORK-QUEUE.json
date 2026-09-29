@@ -698,7 +698,7 @@
       "id": "C1-TSAMDRAK",
       "kind": "witness_coverage",
       "status": "in_progress",
-      "owner": "separate-page-readers-CONTINUE2-W03",
+      "owner": "ChatGPT-coordinator-20260929-integration",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -725,7 +725,7 @@
       "checkpoint_commit": "b3b10d56c395bc0896463c5e66e2974e35db1df1",
       "blocker": null,
       "dependency_policy": "preferred_order",
-      "current_batch_id": "B04-P0016",
+      "current_batch_id": "B03-P0015",
       "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate.",
       "current_batch_result": "Target test distinguishes U30 thos; U12 vowel remains unresolved and U148 rtog reading is qualified. Continue new comparison at PDF14 without repeating opening passes.",
       "prior_owner_at_reassignment": "reader-tsamdrak-B01-20260928",
