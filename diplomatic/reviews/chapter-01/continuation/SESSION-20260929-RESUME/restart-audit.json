@@ -1,0 +1,440 @@
+{
+  "date": "2026-09-29T10:35:05.982496+03:00",
+  "baseline_commit": "3ebd89387b46fbebbd80fce3946b3956fb89d5c9",
+  "preserved_commit": "f0f8241aa3d1ad52b245e8f4098834a472c6399c",
+  "recovery_branch": "recovery/20260929-interrupted-page-reports-103138",
+  "main_fast_forward_verified": true,
+  "untracked_files_preserved_unchanged": [
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B07-P0008-reader-execution.json",
+      "sha256": "3131e5a93ac00137ee2816a378259f036bb185b738b43c4c5449f49315b8434b"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B07-P0008-reader-reading.txt",
+      "sha256": "0463ddf9c1b1d16c3d86749862c2c8abbd8d3386a08aff2f6311ad8cf9cdfd3c"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B07-P0008-reader-session.jsonl",
+      "sha256": "1939ae3d51ec6332f30c380fb47743bad129a8bcb1001ced8957c304a2d31b46"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B07-P0008-reader-stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B08-P0009-reader-execution.json",
+      "sha256": "d4513e2295b8ceb6247bffb8603fd60ef5f336ebfc107cd589c25f0b651db109"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B08-P0009-reader-reading.txt",
+      "sha256": "2103886475087c54aca2cf725194a7a5f829acf95c2d73924d954eea72b7bc3e"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B08-P0009-reader-session.jsonl",
+      "sha256": "4e2be65b85533b701b404af8fd1e72a09b4dac7801785e116cd01b20864d0b6a"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B08-P0009-reader-stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B09-P0010-reader-execution.json",
+      "sha256": "ff2c65da4a4f017e4cf652b8c9a3107c5b85b5a8308bfd0a54d121cfe6919fa9"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B09-P0010-reader-reading.txt",
+      "sha256": "4e292573e4062c532b3d4a1508bd3283c95500adfd0046d3ce2cb88bcec9309b"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B09-P0010-reader-session.jsonl",
+      "sha256": "7b0131ff473bc76a0a90e63e03cc61375f24f0ec8e6941c380d62c45d37aa23d"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B09-P0010-reader-stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B10-P0011-reader-execution.json",
+      "sha256": "8a20afa1a4057bfea9fdb60ec8b8abe4213dbe8fcb2293e76c96afab0d6acadd"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B10-P0011-reader-reading.txt",
+      "sha256": "b3ea23b9a9a886f960e8d176bc43ea9ef2851d51fe627a1e35495707e905024e"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B10-P0011-reader-session.jsonl",
+      "sha256": "3570d724eecc8eb2c8754e90318c25e676f5a78d5b38b2227dc65bb4fa20438f"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B10-P0011-reader-stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B11-P0012-reader-execution.json",
+      "sha256": "1be95055c413e2a7792d604d01978fc4e22eb8031b5a05f8b995b3c5465f225e"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B11-P0012-reader-reading.txt",
+      "sha256": "fb4a1451f8879db492f98866b08147863637323bdda0259b135bba87951b4df8"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B11-P0012-reader-session.jsonl",
+      "sha256": "6790ee563fc937857f2d5dbe149197fa021cd10783248ed256d8e2a1dad09e21"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B11-P0012-reader-stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B12-P0013-reader-execution.json",
+      "sha256": "438470540bc43cf13ddc1795e1d8c480f95723535357d4572371bd0f6dd61a6c"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B12-P0013-reader-reading.txt",
+      "sha256": "7320f787bff822b23b3c5e15b0e67c3475638c4fb00b645ecf9aab8ba1812af4"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B12-P0013-reader-session.jsonl",
+      "sha256": "9e4e5b79deaa92dc04881b5cabc3b4460a017fe8ff4adc7b0edd16b6db210dcc"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B12-P0013-reader-stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B02-P0004-reader-execution.json",
+      "sha256": "fceb0807e1a3c04edeef868dfd6dd106d31ee6170a3f917a19951ede8dc0f8d6"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B02-P0004-reader-reading.txt",
+      "sha256": "7d4479beb8e225c6cefe847b2d13faf8d5109a40d8408aab31cd11848b2825a0"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B02-P0004-reader-session.jsonl",
+      "sha256": "7436111794661b722406284debc41c64214bc50d37aaa532b2e6de89f6dacbf6"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B02-P0004-reader-stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B03-P0005-reader-execution.json",
+      "sha256": "df19c4dea8faa1d7f146e9e17cac1de007ef14460a4a9212be106274f0867baf"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B03-P0005-reader-reading.txt",
+      "sha256": "3b6601633d2eed8e345879ec328bdc6936c85ce8eec3499a376a7bf7bf89e096"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B03-P0005-reader-session.jsonl",
+      "sha256": "d217410466dc3ea89c7a7ef23b67fc07ecacffc9673d57d48eef3b6e6431bf4e"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B03-P0005-reader-stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B04-P0006-reader-execution.json",
+      "sha256": "c9e968dd33f5461338df37b634033dddee8f5ffc891015c5568351ac8dae8f93"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B04-P0006-reader-reading.txt",
+      "sha256": "b42db558d0b02e24befa8e8a833f8c9782e2c2297e935f593a866e672f988821"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B04-P0006-reader-session.jsonl",
+      "sha256": "cd4aea9befb6b4da88be92c36dd75d16fc6745f68582edb766cc2d34c89568e5"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B04-P0006-reader-stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B05-P0007-reader-execution.json",
+      "sha256": "c65213b527b7027ef0cca27c40d1dd5b8b2083b1af4ba9f97f4fbb86022892dd"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B05-P0007-reader-reading.txt",
+      "sha256": "eccb0d3683d884a60de9a341375766c183f458c32177e3a3e4b3e8e164cf95f1"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B05-P0007-reader-session.jsonl",
+      "sha256": "b7fab35fdce235d149860e1293631574644146c282efe7dcb9495c7eda106f4d"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B05-P0007-reader-stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B06-P0008-reader-execution.json",
+      "sha256": "bd15efb99ce8e76b01c157f1e3da07a2b4aa342fbc1ce8eab8e35eefea862ad8"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B06-P0008-reader-reading.txt",
+      "sha256": "6de25a98b1419368445351f9e183b42496c97b073512fd6aa8c98bdc53893025"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B06-P0008-reader-session.jsonl",
+      "sha256": "25ea65f1122d7e32c414ccc72a79c81e71774bb7b593c498150cf5de0e976593"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B06-P0008-reader-stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B04-P0006-reader-execution.json",
+      "sha256": "7c20ebca40a4aa749fbd59e5f2ccd651706c33d26cab1e0f25fb6e857b1f63e9"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B04-P0006-reader-reading.txt",
+      "sha256": "0d1c93bcf0c6fca3599a4f78abdae34216a7e34a0daa6838ccdb47c58295b153"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B04-P0006-reader-session.jsonl",
+      "sha256": "d5f5c4aeafb18b577776b1b37b5cbfc160ebdb310570faae4d6ade9f3ae28eac"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B04-P0006-reader-stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B05-P0007-reader-execution.json",
+      "sha256": "cf0480d36287bd441347b81b43a8a3de903c058b4562bfaa15e017aaf38f2f95"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B05-P0007-reader-reading.txt",
+      "sha256": "f26fad445aeda475105a273efbeead715c461988774b26f3e3d6fc4a9e046730"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B05-P0007-reader-session.jsonl",
+      "sha256": "dc5984fb79b5edefbf307285a62e6dd0f0e61216f70908d0a618e7f42f8e538f"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B05-P0007-reader-stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B06-P0008-reader-execution.json",
+      "sha256": "32c8a17fb3dfd9c813f1ca9eb3a24e4ebcfd6ea7144b8c9b906f1ed7ae37bf5c"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B06-P0008-reader-reading.txt",
+      "sha256": "93cdec9a11c7ef77605566d30bbf3a5dd15e3026313fe13c95743f06820587ce"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B06-P0008-reader-session.jsonl",
+      "sha256": "60e46bdb5da7b93f5fd2fa7f4e9273ff0c0a5a3ebe18350006ca426cbc5cd507"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B06-P0008-reader-stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B07-P0009-reader-execution.json",
+      "sha256": "e39e6d2fb9fdfaf6012035f1f45fd8c36dc08828ca2e4215aac6b73d51d5fb9d"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B07-P0009-reader-reading.txt",
+      "sha256": "dffe0338426648f2b800a629e20c84884647831d1753288385e7d51e38f5538f"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B07-P0009-reader-session.jsonl",
+      "sha256": "578816a881b2c29ea66820234102294d563adaa88fe188e2bcd59b860473407d"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B07-P0009-reader-stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B08-P0010-reader-execution.json",
+      "sha256": "1f97e1a322ee08b299a5620cd0971ed1f2170a973bbe86a88ea65bca6df2a465"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B08-P0010-reader-reading.txt",
+      "sha256": "a875ebe3b4b76574b342586012a36eee1ec68f7f4b9a9d7ca82b93266827f07a"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B08-P0010-reader-session.jsonl",
+      "sha256": "b08883542108b204e46e615e92f9f1c4fd2175eacd9194ee5bdab2f997fc756f"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B08-P0010-reader-stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B04-P0016-reader-execution.json",
+      "sha256": "7d0dde20bc5e7ebdfe75e072ac4acf9b5fcb51dece2dd517eafa5466df5d3dbf"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B04-P0016-reader-reading.txt",
+      "sha256": "392db4fb0ebb9f20327e9a208b01ed07631d514dd71a395c9a3fb9e08ea2324a"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B04-P0016-reader-session.jsonl",
+      "sha256": "9aa6a7ce6773bef3171978af68da740fde75805618f950555c2b559f2fa5794e"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B04-P0016-reader-stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B05-P0017-reader-execution.json",
+      "sha256": "b4687f945e1fc52c7af164c8609e86f430fb3b1ca0e1a2c5b63ff602bb6fd925"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B05-P0017-reader-reading.txt",
+      "sha256": "d596394ffdfeda32558576f06ad487a031a0095e5e1b569e54461cdb6b1caf41"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B05-P0017-reader-session.jsonl",
+      "sha256": "68d9a8a0e702c3688f2be042c9eecd555122ec9cc6bcaecdb94bc96174f58123"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B05-P0017-reader-stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B06-P0018-reader-execution.json",
+      "sha256": "03a309d0e9d1ff538be59a2d6ffb31e35a5fbaea864e444dab5e2d9fc9bd4f0e"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B06-P0018-reader-reading.txt",
+      "sha256": "4ab3d98cc95ab9a265568f3c47085326a5790b1780ac2f51d4d889a44e91e682"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B06-P0018-reader-session.jsonl",
+      "sha256": "5f1c1d43827bfb69b6abea4e3e11a35d3e98a7027e9fd26e45b0024f5c6b2447"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B06-P0018-reader-stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B07-P0019-reader-execution.json",
+      "sha256": "79c8b977140431bdb349624e143302d138feb23eb324df1d5eb979f522c103f5"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B07-P0019-reader-reading.txt",
+      "sha256": "2b2f5591dd6de6f61334a44749a09ebf17392ac36089c70591ba5145d4d65b7c"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B07-P0019-reader-session.jsonl",
+      "sha256": "c3e622cbfd42f8c48df67e3e1df7d5befacedde910cc5d12d137b1802da20ccd"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B07-P0019-reader-stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B08-P0020-reader-execution.json",
+      "sha256": "e9c68bb8b6f694376af595ec835be2233272000bc2227656c5815b78ece2c29e"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B08-P0020-reader-reading.txt",
+      "sha256": "69a6234649fa983f2e6e0e82914ad1dddbb2ea865d92c4601fc4cb87c4113fbe"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B08-P0020-reader-session.jsonl",
+      "sha256": "747a0b6585e8210ae627e9064153784a9fc5bded523c050fe79810a04ce6bcbd"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B08-P0020-reader-stderr.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260928-CONTINUE2/integrate_wave02.py",
+      "sha256": "8b7e52a5ab5738fd7da65610cde96a55f7b98e7a6219bad804839e3b6ab1dde9"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260928-CONTINUE2/wave03-C1-BASE-PHYSICAL-B07-P0008-capture.log",
+      "sha256": "bd7818303c8c1f722810db4c71a008631bf72999dccc0395a924a71c8d19eb05"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260928-CONTINUE2/wave03-C1-BASE-PHYSICAL-B08-P0009-capture.log",
+      "sha256": "8e16500c99ca4e9e463f988b891e91337e0082be0da526c95e6f4722b0438555"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260928-CONTINUE2/wave03-C1-BASE-PHYSICAL-B09-P0010-capture.log",
+      "sha256": "b42a5977d9a281de24d587399bff7e87d3c13e1cee7c4da75f27f559cf76413d"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260928-CONTINUE2/wave03-C1-BASE-PHYSICAL-B10-P0011-capture.log",
+      "sha256": "d099e7ca9ed61a212d20524ae9dfdb9dbe0ac40faf85cbab7bd413a04d08d90e"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260928-CONTINUE2/wave03-C1-BASE-PHYSICAL-B11-P0012-capture.log",
+      "sha256": "4af6031b6f4a73033bcb7e0dd08be85a1e3c98b4e8cbe65ac239bd08f8324838"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260928-CONTINUE2/wave03-C1-BASE-PHYSICAL-B12-P0013-capture.log",
+      "sha256": "8973cfece9e590f0a346685db4f2c84b74de682f27eb46e3145683a40443bbd3"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260928-CONTINUE2/wave03-C1-DEGE-B02-P0004-capture.log",
+      "sha256": "bcfb40c6994ada57c8361a31f6e6175fa455b4af33fac759634ac60519703987"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260928-CONTINUE2/wave03-C1-DEGE-B03-P0005-capture.log",
+      "sha256": "149634d713fc17a93455bddd3f373b39cfdcf6e476ea89779499b640a48018ab"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260928-CONTINUE2/wave03-C1-DEGE-B04-P0006-capture.log",
+      "sha256": "805906ebc645275ac1c8786fd355a43607640aa7d738feb583c59d61116e7bb3"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260928-CONTINUE2/wave03-C1-DEGE-B05-P0007-capture.log",
+      "sha256": "990fb9caf3df6c6fde4da18ac329f84bcca3e0c2cd5345758482a386f2bd7e13"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260928-CONTINUE2/wave03-C1-DEGE-B06-P0008-capture.log",
+      "sha256": "57b8834430aea3f9fc3fd9c3dc46b8b34a72f6e117f923e26ff64e42d47a70a2"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260928-CONTINUE2/wave03-C1-TINGKYE-B04-P0006-capture.log",
+      "sha256": "1d24c1a3001031e3cd02eb72e2c5931f0e9cd4d7dc2b697e0f072b58b18f33fb"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260928-CONTINUE2/wave03-C1-TINGKYE-B05-P0007-capture.log",
+      "sha256": "894235b9abfc7382714d7bdae9a0d074c174a1143f17509e5b252c7bac0d01b1"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260928-CONTINUE2/wave03-C1-TINGKYE-B06-P0008-capture.log",
+      "sha256": "0d277753c78bf600ad608e234c08f7d3d0f01cee2fe8601f19b91f7ebb6f2a43"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260928-CONTINUE2/wave03-C1-TINGKYE-B07-P0009-capture.log",
+      "sha256": "d63e2083dd193f86c416096fd90ca8be1e3e2910da4e74af74eb60a5c2d2a3a3"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260928-CONTINUE2/wave03-C1-TINGKYE-B08-P0010-capture.log",
+      "sha256": "02c6379d66630734f6ec0c80fdff29ee580cda1cd16c6b28aa5e3c26055db611"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260928-CONTINUE2/wave03-C1-TSAMDRAK-B04-P0016-capture.log",
+      "sha256": "7a86746876a620bf4c5b25b8dbd97521af415c47fb019e2c963c559b68aefce9"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260928-CONTINUE2/wave03-C1-TSAMDRAK-B05-P0017-capture.log",
+      "sha256": "ff4a78c4ce28a21b3d2bff24ed1379db3e26a204d128771daa58b8c16c0b94d1"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260928-CONTINUE2/wave03-C1-TSAMDRAK-B06-P0018-capture.log",
+      "sha256": "a01f1b8a01044edd6141b28444e525c7681b7c301df62c76f6ac4a4c6f996a46"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260928-CONTINUE2/wave03-C1-TSAMDRAK-B07-P0019-capture.log",
+      "sha256": "caf3aedc877cdf841bbee38a543dfd6384f097eebf061b67919853f203be18b7"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260928-CONTINUE2/wave03-C1-TSAMDRAK-B08-P0020-capture.log",
+      "sha256": "f15b3efdef03b1074dd113663514410e9b9dd20f30ed528f51efaee8bef2846c"
+    }
+  ],
+  "original_file_count": 106,
+  "completed_readers": 21,
+  "captured_reports_not_yet_scholarly_adoptions": true,
+  "in_memory_snapshot": "interrupted-coordinator-snapshot.json",
+  "in_memory_snapshot_note": "Older 80-entry additional ledger and 150-entry comparison ledger differ from current 81/180-entry authored inputs; preserved only, not restored over newer current files.",
+  "read_only_startup_checks_passed": true,
+  "chapter_complete": false
+}
