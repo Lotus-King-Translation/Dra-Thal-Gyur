@@ -4154,6 +4154,710 @@
       "unexamined_spans": [],
       "next_physical_span": "Next genuinely missing Tsamdrak page is PDF21 row1, U00581 continuation པ་རྣམས་ཀྱིས་བསྐོར. Keep PDF20 Q01–Q10, including final-letter/frame ambiguity.",
       "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-DEGE",
+      "batch_id": "B02-P0004",
+      "target_page": 4,
+      "report": "reviews/chapter-01/continuation/C1-DEGE.json",
+      "summary": "Degé PDF4: U00148 ending through U00195 opening, with distinct U00187 and U00191/192 compact notes. Their full wording and four annotation-boundary counts remain unresolved.",
+      "rows_reported": 7,
+      "canonical_record_ids": [
+        "DG-CONT2-P004-O02",
+        "DG-CONT2-P004-O03",
+        "DG-CONT2-P004-O04",
+        "DG-CONT2-P004-O05",
+        "DG-CONT2-P004-O06"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "visual_traversal": "All seven target rows followed left to right; target margins, frame, compact writing and supplied lower-margin views inspected.",
+        "anchor_coverage": "U00148 ending fragment through U00195 opening fragment.",
+        "unresolved_material": "Explicitly bounded above; no whole row was abandoned.",
+        "completeness": "Provisional source-ordered reading, not a complete glyph-level or punctuation-certified transcription.",
+        "adoption_limits": "No lexical addition, annotation deletion or exact equivalence of compound signs should be adopted from the unresolved loci.",
+        "chapter_certification": false
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q6-A1",
+          "location": "P004-N01, final glyph after བྱུ",
+          "approximate_native_bounds": [
+            2045,
+            346,
+            2105,
+            398
+          ],
+          "question": "Terminal consonant shape; not completed from the base annotation."
+        },
+        {
+          "id": "Q7-A1",
+          "location": "P004-N02, ending of བཅའ before ཞེས",
+          "approximate_native_bounds": [
+            1290,
+            382,
+            1335,
+            433
+          ],
+          "question": "Small terminal or vowel mark; the base's ending is not certified."
+        },
+        {
+          "id": "Q7-A2",
+          "location": "P004-N02, one word between ཞེས་པ་དང and པ་རླུང་སྟེ",
+          "approximate_native_bounds": [
+            1380,
+            382,
+            1435,
+            435
+          ],
+          "question": "Internal letters of this compact word."
+        },
+        {
+          "id": "Q7-M1",
+          "location": "P004-R7, internal component between འགྱུར་དང and འགྱུར་བྱེད",
+          "approximate_native_bounds": [
+            1835,
+            392,
+            1940,
+            445
+          ],
+          "question": "Glyph sequence and whether it is an independent written insertion, annotation or missegmented adjoining strokes."
+        },
+        {
+          "id": "Q-R5-S04",
+          "location": "R5-S04",
+          "approximate_native_bounds": [
+            1690,
+            302,
+            1760,
+            374
+          ],
+          "question": "Separate delimiter strokes versus hooked limb of the preceding writing."
+        },
+        {
+          "id": "Q-R6-S04",
+          "location": "R6-S04",
+          "approximate_native_bounds": [
+            1555,
+            344,
+            1640,
+            415
+          ],
+          "question": "Separate delimiter strokes versus curved adjoining letter component."
+        },
+        {
+          "id": "Q-R7-S02",
+          "location": "R7-S02",
+          "approximate_native_bounds": [
+            1020,
+            382,
+            1080,
+            448
+          ],
+          "question": "Delimiter count at the transition from main text to compact note."
+        },
+        {
+          "id": "Q-R7-S03",
+          "location": "R7-S03",
+          "approximate_native_bounds": [
+            1645,
+            389,
+            1720,
+            450
+          ],
+          "question": "Delimiter count at the transition from compact note to main text."
+        },
+        {
+          "id": "Q-R1-END",
+          "location": "After row 1 terminal ལ",
+          "approximate_native_bounds": [
+            2970,
+            97,
+            3025,
+            166
+          ],
+          "question": "Fine terminal tsheg or filler detail; no exact count recovered."
+        },
+        {
+          "id": "Q-R2-END",
+          "location": "After row 2 terminal བསྟན",
+          "approximate_native_bounds": [
+            2970,
+            149,
+            3025,
+            218
+          ],
+          "question": "Fine terminal marks; lexical strokes, tsheg and filler not fully separated."
+        },
+        {
+          "id": "Q-R3-END",
+          "location": "After row 3 terminal ནས",
+          "approximate_native_bounds": [
+            2970,
+            201,
+            3025,
+            271
+          ],
+          "question": "Fine terminal marks and any filler count."
+        },
+        {
+          "id": "Q-M01",
+          "location": "P004-M01",
+          "approximate_native_bounds": [
+            409,
+            214,
+            480,
+            287
+          ],
+          "question": "Entire bounded marginal cluster: wording and graphic function."
+        }
+      ],
+      "unexamined_spans": [],
+      "next_physical_span": "Integrate the saved PDF5 reading; preserve every present-page unresolved component.",
+      "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-DEGE",
+      "batch_id": "B03-P0005",
+      "target_page": 5,
+      "report": "reviews/chapter-01/continuation/C1-DEGE.json",
+      "summary": "Degé PDF5: U00195 final don through U00243 ending, with four bounded lexical questions indexed. All48VS boundary loci and remaining marginal/filler questions stay in the page ledger; fine counts are not certified.",
+      "rows_reported": 7,
+      "canonical_record_ids": [
+        "DG-CONT2-B03-O02",
+        "DG-CONT2-B03-O03",
+        "DG-CONT2-B03-O04",
+        "DG-CONT2-B03-O05"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "spatial_inspection": "All seven main rows followed left to right; target margins, ornament, interlinear spaces and row ends inspected.",
+        "transcription": "Actual source sequences supplied throughout, with bounded unresolved components.",
+        "annotations": "No independent small-text note identified on this target page; no base-reference annotation inserted into its main text.",
+        "additions_or_local_absences": "None securely established; unresolved letters are not recorded as omissions.",
+        "completion": "Spatial traversal complete; lexical and graphic resolution incomplete as itemized.",
+        "review_status": "Informed independent agent reading with the base reference available; neither blind review nor human palaeographic certification. No whole-chapter certification."
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q1",
+          "scope": "Row 2, U00208: possible suffix immediately after བྱེ and before the tsheg preceding ཟུག.",
+          "question": "Is a separate ར present?"
+        },
+        {
+          "id": "Q2",
+          "scope": "Row 2, U00207: prefix of the final syllable ending ཟུངས.",
+          "question": "Exact prefix letter; ག versus བ not securely distinguished."
+        },
+        {
+          "id": "Q3",
+          "scope": "Row 3, U00216: single syllabic group between ཞེས and བའི.",
+          "question": "Exact stack and vowel; no reading supplied from the base."
+        },
+        {
+          "id": "Q4",
+          "scope": "Row 7, U00243: final syllable after ཅི་ལྟར.",
+          "question": "Exact final stack/vowel, separately from R7E."
+        },
+        {
+          "id": "Q5",
+          "scope": "M2, approximately [466,175,514,263].",
+          "question": "Both neighboring marginal written groups remain unresolved."
+        },
+        {
+          "id": "Q6",
+          "scope": "M3, approximately [463,278,514,342].",
+          "question": "Exact marginal word and folio value remain unresolved."
+        },
+        {
+          "id": "Q7",
+          "scope": "L1, approximately [815,75,851,140].",
+          "question": "Detached leading sign versus limb of initial ད."
+        },
+        {
+          "id": "Q8",
+          "scope": "R1S1–R1S7, R2S1–R2S7, R3S1–R3S7, R4S1–R4S7, R5S1–R5S7, R6S1–R6S6, R7S1–R7S7.",
+          "question": "Exact fine-stroke decomposition of each inventoried VS complex; location is established, shad count is not certified."
+        },
+        {
+          "id": "Q9",
+          "scope": "R1F, R2F, R4F, R5F, R6F at their recorded bounds.",
+          "question": "Exact number and attachment of the short row-end ticks."
+        },
+        {
+          "id": "Q10",
+          "scope": "R3E and R7E at their recorded bounds.",
+          "question": "Which terminal strokes belong to lettering, an independent sign or the frame?"
+        }
+      ],
+      "unexamined_spans": {
+        "target_page": [],
+        "context_pages": "PDF4 and PDF6 were inspected only for boundary context; their remaining text is outside this packet's completed inspection."
+      },
+      "next_physical_span": "Integrate the saved PDF6 reading; preserve every present-page unresolved component.",
+      "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-DEGE",
+      "batch_id": "B04-P0006",
+      "target_page": 6,
+      "report": "reviews/chapter-01/continuation/C1-DEGE.json",
+      "summary": "Degé PDF6: U00244 through U00292 opening. The smaller N1 prefix rgyud-kyi-che-ba is physically interleaved at U00278; its remaining wording and logical attachment to the U00272 note remain qualified.",
+      "rows_reported": 7,
+      "canonical_record_ids": [
+        "DG-CONT2-B04-O02",
+        "DG-CONT2-B04-O03",
+        "DG-CONT2-B04-O04",
+        "DG-CONT2-B04-O06",
+        "DG-CONT2-B04-O08"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "target_rows_followed_left_to_right": 7,
+        "target_main_row_paths_unexamined": [],
+        "observed_alignment": "U00244 through the opening fragment of U00292; 49 base anchors touched, with row continuations explicitly retained.",
+        "unresolved_material": "Seven bounded questions, including the two halves of one row-boundary question, two suffixes, the small annotation's remainder, the marginal label and one boundary-sign region.",
+        "unaligned_written_components": [
+          "N1 remainder",
+          "M1"
+        ],
+        "additions_or_absences": "No lexical addition or local absence is adopted from the uncertain spans. N1 is inventoried as separate writing, not as an addition to a main verse.",
+        "punctuation_status": "Boundary regions inventoried once using graphic codes; this is not a complete palaeographic certification of terminal curvature or tsheg microforms.",
+        "completion": "Full target-page inspection with a provisional transcription and bounded unresolved readings; not a fully resolved diplomatic collation.",
+        "review_status": "Informed independent agent reading with the base reference visible; neither blind review nor human palaeographic certification. No whole-chapter certification."
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q01a",
+          "row": 2,
+          "scope": "The final written portion after འཕགས at the right end of row 2.",
+          "approximate_native_bounds": [
+            2970,
+            163,
+            3023,
+            219
+          ],
+          "question": "Exact remaining letters and whether they include པ."
+        },
+        {
+          "id": "Q01b",
+          "row": 3,
+          "scope": "The initial written portion before the readable རྫུ་འཕྲུལ.",
+          "approximate_native_bounds": [
+            487,
+            237,
+            551,
+            290
+          ],
+          "question": "Exact initial letters and their allocation relative to Q01a; do not reconstruct the cross-row spelling from the base."
+        },
+        {
+          "id": "Q02",
+          "row": 2,
+          "scope": "Possible final ས after ཀྱི in བཅུད་ཀྱི…་ལེན་པ.",
+          "approximate_native_bounds": [
+            1233,
+            177,
+            1298,
+            232
+          ],
+          "question": "Suffix presence; the marker may represent one letter or no letter."
+        },
+        {
+          "id": "Q03",
+          "row": 5,
+          "component": "N1",
+          "scope": "Small writing after the readable prefix རྒྱུད་ཀྱི་ཆེ་བ, through its rightmost small strokes, including any terminal punctuation.",
+          "approximate_native_bounds": [
+            2740,
+            305,
+            2950,
+            350
+          ],
+          "question": "Remaining wording and terminal sign. The base annotation is not adopted as its transcription."
+        },
+        {
+          "id": "Q04",
+          "row": 7,
+          "scope": "Possible final ས after ཀྱི, between རྣམས and མ་གསུངས་པ.",
+          "approximate_native_bounds": [
+            1080,
+            417,
+            1170,
+            475
+          ],
+          "question": "Suffix presence; the marker may represent one letter or no letter."
+        },
+        {
+          "id": "Q05",
+          "component": "M1",
+          "scope": "The complete compact sideways label outside the left text frame.",
+          "approximate_native_bounds": [
+            405,
+            264,
+            478,
+            332
+          ],
+          "question": "Exact marginal wording; inspected also in the rotation, but not securely transcribed."
+        },
+        {
+          "id": "Q06",
+          "row": 3,
+          "component": "R3-S7",
+          "scope": "Boundary marks following དུས་རྣམས་སུ, immediately before the right frame.",
+          "approximate_native_bounds": [
+            2968,
+            226,
+            3028,
+            279
+          ],
+          "question": "Number and separation of freestanding strokes versus nearby letter and frame strokes."
+        }
+      ],
+      "unexamined_spans": [
+        {
+          "location": "PDF5 except the boundary context at its lower right",
+          "status": "Outside target; not systematically transcribed."
+        },
+        {
+          "location": "PDF7 except the opening boundary context",
+          "status": "Outside target; not systematically transcribed."
+        }
+      ],
+      "next_physical_span": "Integrate the saved PDF7 reading; preserve every present-page unresolved component.",
+      "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-DEGE",
+      "batch_id": "B05-P0007",
+      "target_page": 7,
+      "report": "reviews/chapter-01/continuation/C1-DEGE.json",
+      "summary": "Degé PDF7: U00292 continuation through U00340 prefix, preserving N1/N2 at U00317/318 and N3 within U00334. Q-296/Q-320/Q-328/Q-331 and note remainders remain unresolved.",
+      "rows_reported": 7,
+      "canonical_record_ids": [
+        "DG-CONT2-B05-O02",
+        "DG-CONT2-B05-O03",
+        "DG-CONT2-B05-O04",
+        "DG-CONT2-B05-O05",
+        "DG-CONT2-B05-O07",
+        "DG-CONT2-B05-O08",
+        "DG-CONT2-B05-O09",
+        "DG-CONT2-B05-O11"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "target_visual_traversal": "All seven main rows followed left to right; small components and exterior regions inspected.",
+        "transcription_status": "Provisional source-ordered reading with explicit unresolved spans; not every glyph or punctuation stroke is certified.",
+        "comparison_status": "No lexical addition or local absence is securely established by this reading. Unresolved differences are not treated as agreement.",
+        "independence": "Informed independent agent reading with the base reference visible; not blind review or human palaeographic certification.",
+        "witness_count": 1,
+        "whole_chapter_certification": false
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q-296",
+          "scope": "R1, consonant form of the ti syllable between གི and ཀ",
+          "approximate_native_bounds": [
+            1955,
+            92,
+            2018,
+            153
+          ],
+          "question": "ཏི versus ཊི; vowel and surrounding sequence are more secure than the root form."
+        },
+        {
+          "id": "Q-N1",
+          "scope": "R4 small note N1, middle after བདུན་ཅུ and before དྲུག་པར་ཡོད",
+          "approximate_native_bounds": [
+            1840,
+            249,
+            1985,
+            309
+          ],
+          "question": "Exact intervening syllables; the supplied base wording is not adopted as observed text."
+        },
+        {
+          "id": "Q-320",
+          "scope": "R4 word between ནི and མ in U00320",
+          "approximate_native_bounds": [
+            2610,
+            266,
+            2693,
+            324
+          ],
+          "question": "Presence and form of subscribed wa; དངས/དྭངས unresolved."
+        },
+        {
+          "id": "Q-328",
+          "scope": "R6 verb between འབྱུང་བ and བ་དང",
+          "approximate_native_bounds": [
+            475,
+            341,
+            560,
+            400
+          ],
+          "question": "Consonant stack, particularly whether a subscribed element is present; no choice between སེལ and སྤེལ adopted."
+        },
+        {
+          "id": "Q-331",
+          "scope": "R6 syllable between ཤེས and བྱེད",
+          "approximate_native_bounds": [
+            1717,
+            347,
+            1830,
+            413
+          ],
+          "question": "Full syllable and suffix; base པར is not supplied into the faint span."
+        },
+        {
+          "id": "Q-N3",
+          "scope": "R7 remainder of small component after the apparent སྤེལ",
+          "approximate_native_bounds": [
+            480,
+            393,
+            551,
+            432
+          ],
+          "question": "Exact remaining wording and syllable count; cannot certify the base annotation's ཡང་བྱུང."
+        },
+        {
+          "id": "Q-M1",
+          "scope": "Entire upper marginal character/sign M1",
+          "approximate_native_bounds": [
+            316,
+            115,
+            367,
+            161
+          ],
+          "question": "Character identity; possible ཀ remains provisional."
+        },
+        {
+          "id": "Q-M3",
+          "scope": "Entire lower marginal component M3",
+          "approximate_native_bounds": [
+            307,
+            309,
+            369,
+            392
+          ],
+          "question": "Full spelling; possible རྒྱུད remains provisional."
+        },
+        {
+          "id": "Q-M2-detail",
+          "scope": "Fine terminal detail of marginal བཞི",
+          "approximate_native_bounds": [
+            312,
+            204,
+            369,
+            282
+          ],
+          "question": "Any terminal small stroke or punctuation beyond the readable word."
+        },
+        {
+          "id": "Q-signs",
+          "scope": "S05, S07, S08, S14, S21, S26 and S27 at their individually recorded bounds",
+          "question": "Exact division between terminal letter limbs and separate strokes, or exact number of separate uprights. These remain graphic uncertainties, not certified punctuation variants."
+        },
+        {
+          "id": "Q-exterior",
+          "scope": "F2 and F3 at their recorded bounds",
+          "question": "Whether any patterned exterior red impressions contain recoverable writing; no lexical transcription established."
+        }
+      ],
+      "unexamined_spans": {
+        "within_declared_target": [],
+        "outside_declared_target": "Neighboring PDF6 and PDF8 were inspected for page-boundary context only; their remaining text was not collated."
+      },
+      "next_physical_span": "Integrate the saved PDF8 reading; preserve every present-page unresolved component.",
+      "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-DEGE",
+      "batch_id": "B06-P0008",
+      "target_page": 8,
+      "report": "reviews/chapter-01/continuation/C1-DEGE.json",
+      "summary": "Degé PDF8: U00340 suffix through U00390 opening, with smaller U00344/U00373 headings separated from main verse. Darkened U00372 opening and U00379 ending, U00350 middle and U00387 suffix stay explicitly uncertain.",
+      "rows_reported": 7,
+      "canonical_record_ids": [
+        "DG-CONT2-B06-O02",
+        "DG-CONT2-B06-O03",
+        "DG-CONT2-B06-O04",
+        "DG-CONT2-B06-O05",
+        "DG-CONT2-B06-O06",
+        "DG-CONT2-B06-O07"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "target_rows_visually_traversed": 7,
+        "target_rows_transcribed_with_bounded_questions": 7,
+        "target_unexamined_main_spans": [],
+        "smaller_inline_components_recorded": [
+          "A01",
+          "A02"
+        ],
+        "unaligned_non_main_components_recorded": [
+          "M01",
+          "M03"
+        ],
+        "lexical_additions_or_absences": "No certain lexical addition or local absence adopted. Q01 and Q06 remain unresolved comparisons with observed flanks.",
+        "punctuation_status": "Boundary packets are inventoried independently of the base; filler counts and the darkened S40 boundary remain unresolved. This is not a complete punctuation or tsheg-level certification.",
+        "completion_status": "Partial diplomatic reading after full-page visual traversal; bounded lexical and graphic questions remain.",
+        "review_character": "Informed independent agent reading with the base reference available; neither blind review nor human palaeographic certification.",
+        "chapter_certification": false
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q01",
+          "row": "R2",
+          "anchor": "U00350",
+          "scope": "Graph group between readable རྣམ་ and བཤད་; whether a distinct པར་ occurs is unresolved.",
+          "approximate_native_bounds": [
+            1270,
+            172,
+            1410,
+            236
+          ]
+        },
+        {
+          "id": "Q02",
+          "row": "R2",
+          "anchor": "U00350",
+          "scope": "Terminal marks after པ and before S11; exact ending not secured.",
+          "approximate_native_bounds": [
+            1410,
+            175,
+            1470,
+            236
+          ]
+        },
+        {
+          "id": "Q03",
+          "row": "R5",
+          "anchor": "U00372",
+          "scope": "Opening group before སྤྲོས་པ, corresponding to the base's two opening syllables; dark ink prevents a secure complete reading.",
+          "approximate_native_bounds": [
+            1705,
+            315,
+            1810,
+            388
+          ]
+        },
+        {
+          "id": "Q04",
+          "row": "R5",
+          "anchor": "U00373",
+          "scope": "Small component's ending after པ, including any final vowel/suffix and its possible short terminal stroke.",
+          "approximate_native_bounds": [
+            2100,
+            310,
+            2160,
+            360
+          ]
+        },
+        {
+          "id": "Q05",
+          "row": "R6",
+          "anchor": "U00379",
+          "scope": "Single terminal syllable after ལམ་བྱས་; neighboring delimiter inventoried separately as S40.",
+          "approximate_native_bounds": [
+            1650,
+            365,
+            1720,
+            432
+          ]
+        },
+        {
+          "id": "Q06",
+          "row": "R7",
+          "anchor": "U00387",
+          "scope": "Possible ར suffix after པ in མེད་པ, before ཡོངས.",
+          "approximate_native_bounds": [
+            1860,
+            417,
+            1965,
+            480
+          ]
+        },
+        {
+          "id": "Q07",
+          "region": "M01",
+          "scope": "Entire short marginal lexical label; tentative candidate བཞི. Its separate upright stroke is M01-S.",
+          "approximate_native_bounds": [
+            328,
+            269,
+            383,
+            339
+          ]
+        },
+        {
+          "id": "Q08",
+          "region": "M03",
+          "scope": "Faint red vertical impressions outside the right frame; whether any component is writing is unresolved.",
+          "approximate_native_bounds": [
+            3030,
+            45,
+            3088,
+            507
+          ]
+        },
+        {
+          "id": "Q09",
+          "row": "R2",
+          "sign": "F01",
+          "scope": "Exact number and shapes of short right-edge ticks after རྣམ་.",
+          "approximate_native_bounds": [
+            2845,
+            159,
+            2950,
+            213
+          ]
+        },
+        {
+          "id": "Q10",
+          "row": "R4",
+          "sign": "F02",
+          "scope": "Short terminal marks after ལ་; filler count and individual shapes unresolved.",
+          "approximate_native_bounds": [
+            2900,
+            265,
+            2950,
+            321
+          ]
+        },
+        {
+          "id": "Q11",
+          "row": "R7",
+          "sign": "F03",
+          "scope": "Exact number and shapes of short right-edge ticks after སྣ་ཚོགས་.",
+          "approximate_native_bounds": [
+            2870,
+            409,
+            2950,
+            461
+          ]
+        },
+        {
+          "id": "Q12",
+          "row": "R6",
+          "sign": "S40",
+          "scope": "Boundary after the darkened terminal syllable: a clear upright is visible, but the possible companion stroke cannot be securely separated from the inked cluster.",
+          "approximate_native_bounds": [
+            1700,
+            365,
+            1790,
+            438
+          ]
+        }
+      ],
+      "unexamined_spans": [
+        {
+          "scope": "Neighboring PDF7 apart from its final rightmost text, and PDF9 apart from its opening boundary text",
+          "inside_target_scope": false,
+          "reason": "Only boundary context was examined for reading; no collation coverage of their remaining text is claimed."
+        }
+      ],
+      "next_physical_span": "Next genuinely missing Degé comparison page is PDF9, row1 U00390 continuation ཐབས་ལ་བསླབ་གྱུར་ནས. Retain all PDF8 Q01-Q12 and the previous page-specific unresolved letters, note remainders and graphic inventories.",
+      "reader_claims_require_coordinator_dispositions": true
     }
   ]
 }

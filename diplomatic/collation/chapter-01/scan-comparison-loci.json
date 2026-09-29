@@ -19221,5 +19221,2407 @@
       "coordinator_scope": "Native overview and all three full-height overlapping source columns inspected for page and row order, local witness readings and separate main/non-main structures. Difficult letters and subtle suffixes retain the original scoped uncertainty.",
       "coordinator_disposition": "Preserve this scoped reading or explicit uncertainty in apparatus; no base change."
     }
+  },
+  {
+    "id": "DG-CONT2-P004-O02",
+    "witness": "Degé",
+    "units": [
+      "U00180"
+    ],
+    "base_snippet_at_review": "Main reading དེ་ནས་གཅིག་དང་ཐ་མི་དད; separate annotation སྡུད་པ་པོ་ཞུ་བ་རང་བྱུང་གི་བཀོད་པ.",
+    "comparison_reading": "དེ་ནས་གཅིག་དང་ཐ་མི་དད",
+    "status": "bounded_component_uncertainty",
+    "confidence": "{\"main_word_alignment\": \"medium to high\", \"separate_annotation_reading\": \"not established\", \"annotation_absence\": \"insufficient for adoption\"}",
+    "locator": "PDF 4; source-member and native bounds in linked packet; bounds: [1735, 289, 2075, 365]",
+    "rationale": "The main run is identifiable. I cannot independently transcribe the supplied annotation from separate writing here; I therefore make no deletion finding. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This is a scoped Degé source-layer, physical-graphic or inspected-uncertainty observation, not automatic witness agreement or a reconstructed missing word.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B02-P0004/p004-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B02-P0004/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B02-P0004/p004-x1491-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B02-P0004-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0004",
+      "baseline_commit": "4ab9731cb10075c22ffc809ca7a5398b65bed764",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B02-P0004-reader-reading.txt",
+        "sha256": "7d4479beb8e225c6cefe847b2d13faf8d5109a40d8408aab31cd11848b2825a0"
+      },
+      "observation": {
+        "id": "P004-O02",
+        "anchors": [
+          "U00180"
+        ],
+        "source_span": "དེ་ནས་གཅིག་དང་ཐ་མི་དད",
+        "base_span": "Main reading དེ་ནས་གཅིག་དང་ཐ་མི་དད; separate annotation སྡུད་པ་པོ་ཞུ་བ་རང་བྱུང་གི་བཀོད་པ.",
+        "category": "base_annotation_not_independently_corroborated",
+        "neighboring_context": [
+          "དེ་ལྟར་ངང་གཅིག་དབྱེར་མེད་དོ",
+          "རང་བཞིན་དག་པའི་འཁོར་རྣམས་ལས"
+        ],
+        "approximate_native_bounds": [
+          1735,
+          289,
+          2075,
+          365
+        ],
+        "confidence_by_dimension": {
+          "main_word_alignment": "medium to high",
+          "separate_annotation_reading": "not established",
+          "annotation_absence": "insufficient for adoption"
+        },
+        "rationale": "The main run is identifiable. I cannot independently transcribe the supplied annotation from separate writing here; I therefore make no deletion finding."
+      },
+      "coordinator_scope": "The coordinator inspected the target native color overview and both overlapping native columns for all seven rows, source correspondence, compact source layers and named ink/contrast limitations. The independent readings are kept within their stated component-level confidence; no all-letter agreement is implied.",
+      "original_observation": {
+        "id": "P004-O02",
+        "anchors": [
+          "U00180",
+          "SCAN-CH1-LAYER-00180"
+        ],
+        "source_span": "དེ་ནས་གཅིག་དང་ཐ་མི་དད",
+        "base_span": "Main reading དེ་ནས་གཅིག་དང་ཐ་མི་དད; separate annotation སྡུད་པ་པོ་ཞུ་བ་རང་བྱུང་གི་བཀོད་པ.",
+        "category": "base_annotation_not_independently_corroborated",
+        "neighboring_context": [
+          "དེ་ལྟར་ངང་གཅིག་དབྱེར་མེད་དོ",
+          "རང་བཞིན་དག་པའི་འཁོར་རྣམས་ལས"
+        ],
+        "approximate_native_bounds": [
+          1735,
+          289,
+          2075,
+          365
+        ],
+        "confidence_by_dimension": {
+          "main_word_alignment": "medium to high",
+          "separate_annotation_reading": "not established",
+          "annotation_absence": "insufficient for adoption"
+        },
+        "rationale": "The main run is identifiable. I cannot independently transcribe the supplied annotation from separate writing here; I therefore make no deletion finding."
+      },
+      "coordinator_disposition": "No independently readable U00180 separate note was established; do not convert this non-identification into a note-absence or deletion claim."
+    },
+    "source_layer_reference_ids": [
+      "SCAN-CH1-LAYER-00180"
+    ]
+  },
+  {
+    "id": "DG-CONT2-P004-O03",
+    "witness": "Degé",
+    "units": [
+      "U00187"
+    ],
+    "base_snippet_at_review": "Main འབྱུང་བཞིའི་དགོངས་པ་ཇི་ལྟ་བུ; annotation དགོས་པ་ཡང་བྱུང.",
+    "comparison_reading": "འབྱུང་བཞིའི་དགོངས [དགོས་པ་ཡང་བྱུ⟦Q6-A1⟧] པ་ཇི་ལྟ་བུ",
+    "status": "qualified_source_layer_or_graphic_observation",
+    "confidence": "{\"physical_order\": \"high\", \"annotation_classification\": \"medium\", \"read_words\": \"medium\", \"final_suffix\": \"unresolved\"}",
+    "locator": "PDF 4; source-member and native bounds in linked packet; bounds: [1620, 335, 2245, 410]",
+    "rationale": "The compact run is retained between its observed main-text flanks. Its final glyph is not supplied from the base. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This is a scoped Degé source-layer, physical-graphic or inspected-uncertainty observation, not automatic witness agreement or a reconstructed missing word.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B02-P0004/p004-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B02-P0004/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B02-P0004/p004-x1491-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B02-P0004-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0004",
+      "baseline_commit": "4ab9731cb10075c22ffc809ca7a5398b65bed764",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B02-P0004-reader-reading.txt",
+        "sha256": "7d4479beb8e225c6cefe847b2d13faf8d5109a40d8408aab31cd11848b2825a0"
+      },
+      "observation": {
+        "id": "P004-O03",
+        "anchors": [
+          "U00187"
+        ],
+        "source_span": "འབྱུང་བཞིའི་དགོངས [དགོས་པ་ཡང་བྱུ⟦Q6-A1⟧] པ་ཇི་ལྟ་བུ",
+        "base_span": "Main འབྱུང་བཞིའི་དགོངས་པ་ཇི་ལྟ་བུ; annotation དགོས་པ་ཡང་བྱུང.",
+        "category": "physically_interleaved_annotation",
+        "neighboring_context": [
+          "ཚིག་གི་རང་བཞིན་འདི་ལྟ་སྟེ",
+          "ཡན་ལག་དོན་ཀུན་ཅི་ལྟར་གཉེར"
+        ],
+        "approximate_native_bounds": [
+          1620,
+          335,
+          2245,
+          410
+        ],
+        "confidence_by_dimension": {
+          "physical_order": "high",
+          "annotation_classification": "medium",
+          "read_words": "medium",
+          "final_suffix": "unresolved"
+        },
+        "rationale": "The compact run is retained between its observed main-text flanks. Its final glyph is not supplied from the base."
+      },
+      "coordinator_scope": "The coordinator inspected the target native color overview and both overlapping native columns for all seven rows, source correspondence, compact source layers and named ink/contrast limitations. The independent readings are kept within their stated component-level confidence; no all-letter agreement is implied.",
+      "original_observation": {
+        "id": "P004-O03",
+        "anchors": [
+          "U00187",
+          "SCAN-CH1-LAYER-00187"
+        ],
+        "source_span": "འབྱུང་བཞིའི་དགོངས [དགོས་པ་ཡང་བྱུ⟦Q6-A1⟧] པ་ཇི་ལྟ་བུ",
+        "base_span": "Main འབྱུང་བཞིའི་དགོངས་པ་ཇི་ལྟ་བུ; annotation དགོས་པ་ཡང་བྱུང.",
+        "category": "physically_interleaved_annotation",
+        "neighboring_context": [
+          "ཚིག་གི་རང་བཞིན་འདི་ལྟ་སྟེ",
+          "ཡན་ལག་དོན་ཀུན་ཅི་ལྟར་གཉེར"
+        ],
+        "approximate_native_bounds": [
+          1620,
+          335,
+          2245,
+          410
+        ],
+        "confidence_by_dimension": {
+          "physical_order": "high",
+          "annotation_classification": "medium",
+          "read_words": "medium",
+          "final_suffix": "unresolved"
+        },
+        "rationale": "The compact run is retained between its observed main-text flanks. Its final glyph is not supplied from the base."
+      },
+      "coordinator_disposition": "Preserve main dgongs and separately interleaved dgos-pa note prefix; the final byu suffix is unconfirmed, not filled from Adzom."
+    },
+    "source_layer_reference_ids": [
+      "SCAN-CH1-LAYER-00187"
+    ]
+  },
+  {
+    "id": "DG-CONT2-P004-O04",
+    "witness": "Degé",
+    "units": [
+      "U00191",
+      "U00192"
+    ],
+    "base_snippet_at_review": "SCAN-CH1-LAYER-00192, beginning འདི་མཚམས་འོག་གི and ending དྲི་བ་མ་བྱུང.",
+    "comparison_reading": "P004-R7 sequence index 2, including Q7-A1 and Q7-A2.",
+    "status": "qualified_source_layer_or_graphic_observation",
+    "confidence": "{\"presence\": \"high\", \"physical_position\": \"high\", \"annotation_classification\": \"high\", \"complete_lexical_identity_with_base\": \"not established\"}",
+    "locator": "PDF 4; source-member and native bounds in linked packet; bounds: [1055, 382, 1670, 443]",
+    "rationale": "A long compact written run is visible before the next main-sized verse. Two bounded readings remain open; the rest is transcribed rather than replaced by an agreement assertion. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This is a scoped Degé source-layer, physical-graphic or inspected-uncertainty observation, not automatic witness agreement or a reconstructed missing word.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B02-P0004/p004-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B02-P0004/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B02-P0004/p004-x1491-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B02-P0004-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0004",
+      "baseline_commit": "4ab9731cb10075c22ffc809ca7a5398b65bed764",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B02-P0004-reader-reading.txt",
+        "sha256": "7d4479beb8e225c6cefe847b2d13faf8d5109a40d8408aab31cd11848b2825a0"
+      },
+      "observation": {
+        "id": "P004-O04",
+        "anchors": [
+          "U00191",
+          "U00192"
+        ],
+        "source_span": "P004-R7 sequence index 2, including Q7-A1 and Q7-A2.",
+        "base_span": "SCAN-CH1-LAYER-00192, beginning འདི་མཚམས་འོག་གི and ending དྲི་བ་མ་བྱུང.",
+        "category": "separate_note_partially_read",
+        "neighboring_context": [
+          "ཐལ་བའི་གནས་ནི་དུ་ཙམ་མཆིས",
+          "འགྱུར་དང"
+        ],
+        "approximate_native_bounds": [
+          1055,
+          382,
+          1670,
+          443
+        ],
+        "confidence_by_dimension": {
+          "presence": "high",
+          "physical_position": "high",
+          "annotation_classification": "high",
+          "complete_lexical_identity_with_base": "not established"
+        },
+        "rationale": "A long compact written run is visible before the next main-sized verse. Two bounded readings remain open; the rest is transcribed rather than replaced by an agreement assertion."
+      },
+      "coordinator_scope": "The coordinator inspected the target native color overview and both overlapping native columns for all seven rows, source correspondence, compact source layers and named ink/contrast limitations. The independent readings are kept within their stated component-level confidence; no all-letter agreement is implied.",
+      "original_observation": {
+        "id": "P004-O04",
+        "anchors": [
+          "U00191",
+          "U00192",
+          "SCAN-CH1-LAYER-00192"
+        ],
+        "source_span": "P004-R7 sequence index 2, including Q7-A1 and Q7-A2.",
+        "base_span": "SCAN-CH1-LAYER-00192, beginning འདི་མཚམས་འོག་གི and ending དྲི་བ་མ་བྱུང.",
+        "category": "separate_note_partially_read",
+        "neighboring_context": [
+          "ཐལ་བའི་གནས་ནི་དུ་ཙམ་མཆིས",
+          "འགྱུར་དང"
+        ],
+        "approximate_native_bounds": [
+          1055,
+          382,
+          1670,
+          443
+        ],
+        "confidence_by_dimension": {
+          "presence": "high",
+          "physical_position": "high",
+          "annotation_classification": "high",
+          "complete_lexical_identity_with_base": "not established"
+        },
+        "rationale": "A long compact written run is visible before the next main-sized verse. Two bounded readings remain open; the rest is transcribed rather than replaced by an agreement assertion."
+      },
+      "coordinator_disposition": "Preserve as a scoped source-layer, graphic or inspected-uncertainty apparatus record, not automatically a confirmed lexical variant."
+    },
+    "source_layer_reference_ids": [
+      "SCAN-CH1-LAYER-00192"
+    ]
+  },
+  {
+    "id": "DG-CONT2-P004-O05",
+    "witness": "Degé",
+    "units": [
+      "U00192"
+    ],
+    "base_snippet_at_review": "འགྱུར་དང་འགྱུར་བྱེད",
+    "comparison_reading": "འགྱུར་དང་⟦Q7-M1⟧འགྱུར་བྱེད",
+    "status": "bounded_component_uncertainty",
+    "confidence": "{\"written_component_presence\": \"medium\", \"glyph_reading\": \"low\", \"segmentation\": \"low\", \"lexical_addition\": \"not established\"}",
+    "locator": "PDF 4; source-member and native bounds in linked packet; bounds: [1835, 392, 1940, 445]",
+    "rationale": "The intervening ink cannot safely be reduced to the base's sequence or expanded into a proposed word. It remains explicitly unaligned. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This is a scoped Degé source-layer, physical-graphic or inspected-uncertainty observation, not automatic witness agreement or a reconstructed missing word.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B02-P0004/p004-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B02-P0004/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B02-P0004/p004-x1491-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B02-P0004-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0004",
+      "baseline_commit": "4ab9731cb10075c22ffc809ca7a5398b65bed764",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B02-P0004-reader-reading.txt",
+        "sha256": "7d4479beb8e225c6cefe847b2d13faf8d5109a40d8408aab31cd11848b2825a0"
+      },
+      "observation": {
+        "id": "P004-O05",
+        "anchors": [
+          "U00192"
+        ],
+        "source_span": "འགྱུར་དང་⟦Q7-M1⟧འགྱུར་བྱེད",
+        "base_span": "འགྱུར་དང་འགྱུར་བྱེད",
+        "category": "unresolved_internal_component",
+        "neighboring_context": [
+          "དང",
+          "འགྱུར་བྱེད་གང་དང་གང"
+        ],
+        "approximate_native_bounds": [
+          1835,
+          392,
+          1940,
+          445
+        ],
+        "confidence_by_dimension": {
+          "written_component_presence": "medium",
+          "glyph_reading": "low",
+          "segmentation": "low",
+          "lexical_addition": "not established"
+        },
+        "rationale": "The intervening ink cannot safely be reduced to the base's sequence or expanded into a proposed word. It remains explicitly unaligned."
+      },
+      "coordinator_scope": "The coordinator inspected the target native color overview and both overlapping native columns for all seven rows, source correspondence, compact source layers and named ink/contrast limitations. The independent readings are kept within their stated component-level confidence; no all-letter agreement is implied.",
+      "original_observation": {
+        "id": "P004-O05",
+        "anchors": [
+          "U00192"
+        ],
+        "source_span": "འགྱུར་དང་⟦Q7-M1⟧འགྱུར་བྱེད",
+        "base_span": "འགྱུར་དང་འགྱུར་བྱེད",
+        "category": "unresolved_internal_component",
+        "neighboring_context": [
+          "དང",
+          "འགྱུར་བྱེད་གང་དང་གང"
+        ],
+        "approximate_native_bounds": [
+          1835,
+          392,
+          1940,
+          445
+        ],
+        "confidence_by_dimension": {
+          "written_component_presence": "medium",
+          "glyph_reading": "low",
+          "segmentation": "low",
+          "lexical_addition": "not established"
+        },
+        "rationale": "The intervening ink cannot safely be reduced to the base's sequence or expanded into a proposed word. It remains explicitly unaligned."
+      },
+      "coordinator_disposition": "Unaligned internal ink between dang and gyur-byed remains unresolved; no added word or removed base component asserted."
+    },
+    "source_layer_reference_ids": []
+  },
+  {
+    "id": "DG-CONT2-P004-O06",
+    "witness": "Degé",
+    "units": [
+      "U00179",
+      "U00180",
+      "U00186",
+      "U00187",
+      "U00191",
+      "U00192"
+    ],
+    "base_snippet_at_review": "Base punctuation and annotation boundaries at these loci.",
+    "comparison_reading": "R5-S04, R6-S04, R7-S02 and R7-S03.",
+    "status": "bounded_component_uncertainty",
+    "confidence": "{\"boundary_location\": \"high\", \"independent_stroke_count\": \"unresolved\", \"unicode_punctuation_equivalence\": \"not asserted\"}",
+    "locator": "PDF 4; source-member and native bounds in linked packet; bounds: [[1690, 302, 1760, 374], [1555, 344, 1640, 415], [1020, 382, 1080, 448], [1645, 389, 1720, 450]]",
+    "rationale": "Each region is inventoried once. Curved letter limbs and adjacent compact writing prevent a secure separator count. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This is a scoped Degé source-layer, physical-graphic or inspected-uncertainty observation, not automatic witness agreement or a reconstructed missing word.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B02-P0004/p004-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B02-P0004/p004-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B02-P0004/p004-x1491-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B02-P0004-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B02-P0004",
+      "baseline_commit": "4ab9731cb10075c22ffc809ca7a5398b65bed764",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B02-P0004-reader-reading.txt",
+        "sha256": "7d4479beb8e225c6cefe847b2d13faf8d5109a40d8408aab31cd11848b2825a0"
+      },
+      "observation": {
+        "id": "P004-O06",
+        "anchors": [
+          "U00179",
+          "U00180",
+          "U00186",
+          "U00187",
+          "U00191",
+          "U00192"
+        ],
+        "source_span": "R5-S04, R6-S04, R7-S02 and R7-S03.",
+        "base_span": "Base punctuation and annotation boundaries at these loci.",
+        "category": "boundary_sign_segmentation_unresolved",
+        "neighboring_context": "Respectively: མེད་དོ / དེ་ནས; ལྟ་སྟེ / འབྱུང; མཆིས / note opening; note ending / འགྱུར.",
+        "approximate_native_bounds": [
+          [
+            1690,
+            302,
+            1760,
+            374
+          ],
+          [
+            1555,
+            344,
+            1640,
+            415
+          ],
+          [
+            1020,
+            382,
+            1080,
+            448
+          ],
+          [
+            1645,
+            389,
+            1720,
+            450
+          ]
+        ],
+        "confidence_by_dimension": {
+          "boundary_location": "high",
+          "independent_stroke_count": "unresolved",
+          "unicode_punctuation_equivalence": "not asserted"
+        },
+        "rationale": "Each region is inventoried once. Curved letter limbs and adjacent compact writing prevent a secure separator count."
+      },
+      "coordinator_scope": "The coordinator inspected the target native color overview and both overlapping native columns for all seven rows, source correspondence, compact source layers and named ink/contrast limitations. The independent readings are kept within their stated component-level confidence; no all-letter agreement is implied.",
+      "original_observation": {
+        "id": "P004-O06",
+        "anchors": [
+          "U00179",
+          "U00180",
+          "U00186",
+          "U00187",
+          "U00191",
+          "U00192"
+        ],
+        "source_span": "R5-S04, R6-S04, R7-S02 and R7-S03.",
+        "base_span": "Base punctuation and annotation boundaries at these loci.",
+        "category": "boundary_sign_segmentation_unresolved",
+        "neighboring_context": "Respectively: མེད་དོ / དེ་ནས; ལྟ་སྟེ / འབྱུང; མཆིས / note opening; note ending / འགྱུར.",
+        "approximate_native_bounds": [
+          [
+            1690,
+            302,
+            1760,
+            374
+          ],
+          [
+            1555,
+            344,
+            1640,
+            415
+          ],
+          [
+            1020,
+            382,
+            1080,
+            448
+          ],
+          [
+            1645,
+            389,
+            1720,
+            450
+          ]
+        ],
+        "confidence_by_dimension": {
+          "boundary_location": "high",
+          "independent_stroke_count": "unresolved",
+          "unicode_punctuation_equivalence": "not asserted"
+        },
+        "rationale": "Each region is inventoried once. Curved letter limbs and adjacent compact writing prevent a secure separator count."
+      },
+      "coordinator_disposition": "Preserve as a scoped source-layer, graphic or inspected-uncertainty apparatus record, not automatically a confirmed lexical variant."
+    },
+    "source_layer_reference_ids": []
+  },
+  {
+    "id": "DG-CONT2-B03-O02",
+    "witness": "Degé",
+    "units": [
+      "U00207"
+    ],
+    "base_snippet_at_review": "གང་གིས་གཟུངས",
+    "comparison_reading": "གང་གིས་⟦Q2⟧ཟུངས",
+    "status": "bounded_component_uncertainty",
+    "confidence": "{\"lexical\": \"medium for flanks; low for prefix\", \"alignment\": \"high\", \"graphic\": \"low for questioned letter\"}",
+    "locator": "PDF 5; source-member and native bounds in linked packet; bounds: [2130, 145, 2290, 215]",
+    "rationale": "The final syllable's prefix is not securely distinguished; neither agreement nor substitution is adopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This is a scoped Degé source-layer, physical-graphic or inspected-uncertainty observation, not automatic witness agreement or a reconstructed missing word.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B03-P0005/p005-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B03-P0005/p005-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B03-P0005/p005-x1486-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B03-P0005-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B03-P0005",
+      "baseline_commit": "4ab9731cb10075c22ffc809ca7a5398b65bed764",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B03-P0005-reader-reading.txt",
+        "sha256": "3b6601633d2eed8e345879ec328bdc6936c85ce8eec3499a376a7bf7bf89e096"
+      },
+      "observation": {
+        "id": "B03-O02",
+        "anchors": [
+          "U00207"
+        ],
+        "source_span": "གང་གིས་⟦Q2⟧ཟུངས",
+        "base_span": "གང་གིས་གཟུངས",
+        "category": "unresolved prefix",
+        "neighboring_context": "Preceded by ཚེ་དང་དབང་ཐང; followed by the boundary before བྱེ⟦Q1⟧་ཟུག.",
+        "approximate_native_bounds": [
+          2130,
+          145,
+          2290,
+          215
+        ],
+        "confidence": {
+          "lexical": "medium for flanks; low for prefix",
+          "alignment": "high",
+          "graphic": "low for questioned letter"
+        },
+        "rationale": "The final syllable's prefix is not securely distinguished; neither agreement nor substitution is adopted."
+      },
+      "coordinator_scope": "The coordinator inspected the target native color overview and both overlapping native columns for all seven rows, source correspondence, compact source layers and named ink/contrast limitations. The independent readings are kept within their stated component-level confidence; no all-letter agreement is implied.",
+      "original_observation": {
+        "id": "B03-O02",
+        "anchors": [
+          "U00207"
+        ],
+        "source_span": "གང་གིས་⟦Q2⟧ཟུངས",
+        "base_span": "གང་གིས་གཟུངས",
+        "category": "unresolved prefix",
+        "neighboring_context": "Preceded by ཚེ་དང་དབང་ཐང; followed by the boundary before བྱེ⟦Q1⟧་ཟུག.",
+        "approximate_native_bounds": [
+          2130,
+          145,
+          2290,
+          215
+        ],
+        "confidence": {
+          "lexical": "medium for flanks; low for prefix",
+          "alignment": "high",
+          "graphic": "low for questioned letter"
+        },
+        "rationale": "The final syllable's prefix is not securely distinguished; neither agreement nor substitution is adopted."
+      },
+      "coordinator_disposition": "Preserve as a scoped source-layer, graphic or inspected-uncertainty apparatus record, not automatically a confirmed lexical variant."
+    },
+    "source_layer_reference_ids": []
+  },
+  {
+    "id": "DG-CONT2-B03-O03",
+    "witness": "Degé",
+    "units": [
+      "U00208"
+    ],
+    "base_snippet_at_review": "བྱེར་ཟུག",
+    "comparison_reading": "བྱེ⟦Q1⟧་ཟུག",
+    "status": "bounded_component_uncertainty",
+    "confidence": "{\"lexical\": \"medium for བྱེ and ཟུག; low for intervening suffix\", \"alignment\": \"high\", \"graphic\": \"low\"}",
+    "locator": "PDF 5; source-member and native bounds in linked packet; bounds: [2270, 145, 2410, 215]",
+    "rationale": "A suffix ར is not securely resolved. Its absence is not asserted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This is a scoped Degé source-layer, physical-graphic or inspected-uncertainty observation, not automatic witness agreement or a reconstructed missing word.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B03-P0005/p005-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B03-P0005/p005-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B03-P0005/p005-x1486-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B03-P0005-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B03-P0005",
+      "baseline_commit": "4ab9731cb10075c22ffc809ca7a5398b65bed764",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B03-P0005-reader-reading.txt",
+        "sha256": "3b6601633d2eed8e345879ec328bdc6936c85ce8eec3499a376a7bf7bf89e096"
+      },
+      "observation": {
+        "id": "B03-O03",
+        "anchors": [
+          "U00208"
+        ],
+        "source_span": "བྱེ⟦Q1⟧་ཟུག",
+        "base_span": "བྱེར་ཟུག",
+        "category": "unresolved suffix",
+        "neighboring_context": "Between R2S6 and སྙོམས་པའི་མཐའ་ཅིར་འགྱུར.",
+        "approximate_native_bounds": [
+          2270,
+          145,
+          2410,
+          215
+        ],
+        "confidence": {
+          "lexical": "medium for བྱེ and ཟུག; low for intervening suffix",
+          "alignment": "high",
+          "graphic": "low"
+        },
+        "rationale": "A suffix ར is not securely resolved. Its absence is not asserted."
+      },
+      "coordinator_scope": "The coordinator inspected the target native color overview and both overlapping native columns for all seven rows, source correspondence, compact source layers and named ink/contrast limitations. The independent readings are kept within their stated component-level confidence; no all-letter agreement is implied.",
+      "original_observation": {
+        "id": "B03-O03",
+        "anchors": [
+          "U00208"
+        ],
+        "source_span": "བྱེ⟦Q1⟧་ཟུག",
+        "base_span": "བྱེར་ཟུག",
+        "category": "unresolved suffix",
+        "neighboring_context": "Between R2S6 and སྙོམས་པའི་མཐའ་ཅིར་འགྱུར.",
+        "approximate_native_bounds": [
+          2270,
+          145,
+          2410,
+          215
+        ],
+        "confidence": {
+          "lexical": "medium for བྱེ and ཟུག; low for intervening suffix",
+          "alignment": "high",
+          "graphic": "low"
+        },
+        "rationale": "A suffix ར is not securely resolved. Its absence is not asserted."
+      },
+      "coordinator_disposition": "Preserve as a scoped source-layer, graphic or inspected-uncertainty apparatus record, not automatically a confirmed lexical variant."
+    },
+    "source_layer_reference_ids": []
+  },
+  {
+    "id": "DG-CONT2-B03-O04",
+    "witness": "Degé",
+    "units": [
+      "U00216"
+    ],
+    "base_snippet_at_review": "རླུང་ཞེས་བགྱི་བའི་དགོངས་པ་གང",
+    "comparison_reading": "རླུང་ཞེས་⟦Q3⟧་བའི་དགོངས་ / པ་གང",
+    "status": "bounded_component_uncertainty",
+    "confidence": "{\"lexical\": \"medium for flanks; low for Q3\", \"alignment\": \"high\", \"row_continuation\": \"high\"}",
+    "locator": "PDF 5; source-member and native bounds in linked packet; bounds: [2730, 205, 3045, 270]",
+    "rationale": "The syllable between ཞེས and བའི remains unresolved; the rest of the unit continues into row 4. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This is a scoped Degé source-layer, physical-graphic or inspected-uncertainty observation, not automatic witness agreement or a reconstructed missing word.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B03-P0005/p005-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B03-P0005/p005-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B03-P0005/p005-x1486-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B03-P0005-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B03-P0005",
+      "baseline_commit": "4ab9731cb10075c22ffc809ca7a5398b65bed764",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B03-P0005-reader-reading.txt",
+        "sha256": "3b6601633d2eed8e345879ec328bdc6936c85ce8eec3499a376a7bf7bf89e096"
+      },
+      "observation": {
+        "id": "B03-O04",
+        "anchors": [
+          "U00216"
+        ],
+        "source_span": "རླུང་ཞེས་⟦Q3⟧་བའི་དགོངས་ / པ་གང",
+        "base_span": "རླུང་ཞེས་བགྱི་བའི་དགོངས་པ་གང",
+        "category": "unresolved syllable and physical continuation",
+        "neighboring_context": "After སེམས་འདུལ་བསྒོམ་པ་གང་ལ་བགྱི; next unit begins རྩ་ཡི་ཡོན་ཏན.",
+        "approximate_native_bounds": [
+          2730,
+          205,
+          3045,
+          270
+        ],
+        "confidence": {
+          "lexical": "medium for flanks; low for Q3",
+          "alignment": "high",
+          "row_continuation": "high"
+        },
+        "rationale": "The syllable between ཞེས and བའི remains unresolved; the rest of the unit continues into row 4."
+      },
+      "coordinator_scope": "The coordinator inspected the target native color overview and both overlapping native columns for all seven rows, source correspondence, compact source layers and named ink/contrast limitations. The independent readings are kept within their stated component-level confidence; no all-letter agreement is implied.",
+      "original_observation": {
+        "id": "B03-O04",
+        "anchors": [
+          "U00216"
+        ],
+        "source_span": "རླུང་ཞེས་⟦Q3⟧་བའི་དགོངས་ / པ་གང",
+        "base_span": "རླུང་ཞེས་བགྱི་བའི་དགོངས་པ་གང",
+        "category": "unresolved syllable and physical continuation",
+        "neighboring_context": "After སེམས་འདུལ་བསྒོམ་པ་གང་ལ་བགྱི; next unit begins རྩ་ཡི་ཡོན་ཏན.",
+        "approximate_native_bounds": [
+          2730,
+          205,
+          3045,
+          270
+        ],
+        "confidence": {
+          "lexical": "medium for flanks; low for Q3",
+          "alignment": "high",
+          "row_continuation": "high"
+        },
+        "rationale": "The syllable between ཞེས and བའི remains unresolved; the rest of the unit continues into row 4."
+      },
+      "coordinator_disposition": "Preserve as a scoped source-layer, graphic or inspected-uncertainty apparatus record, not automatically a confirmed lexical variant."
+    },
+    "source_layer_reference_ids": []
+  },
+  {
+    "id": "DG-CONT2-B03-O05",
+    "witness": "Degé",
+    "units": [
+      "U00243",
+      "U00244"
+    ],
+    "base_snippet_at_review": "མངོན་སུམ་གནད་ལ་ཅི་ལྟར་བསྒྲེ",
+    "comparison_reading": "མངོན་སུམ་གནད་ལ་ཅི་ལྟར་⟦Q4⟧",
+    "status": "bounded_component_uncertainty",
+    "confidence": "{\"lexical\": \"medium for flanks; low for final stack\", \"alignment\": \"high\", \"terminal_sign\": \"low\"}",
+    "locator": "PDF 5; source-member and native bounds in linked packet; bounds: [2700, 385, 3050, 460]",
+    "rationale": "The final stack and adjacent terminal graphic are retained as separate unresolved components. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This is a scoped Degé source-layer, physical-graphic or inspected-uncertainty observation, not automatic witness agreement or a reconstructed missing word.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B03-P0005/p005-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B03-P0005/p005-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B03-P0005/p005-x1486-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B03-P0005-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B03-P0005",
+      "baseline_commit": "4ab9731cb10075c22ffc809ca7a5398b65bed764",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B03-P0005-reader-reading.txt",
+        "sha256": "3b6601633d2eed8e345879ec328bdc6936c85ce8eec3499a376a7bf7bf89e096"
+      },
+      "observation": {
+        "id": "B03-O05",
+        "anchors": [
+          "U00243",
+          "U00244"
+        ],
+        "source_span": "མངོན་སུམ་གནད་ལ་ཅི་ལྟར་⟦Q4⟧",
+        "base_span": "མངོན་སུམ་གནད་ལ་ཅི་ལྟར་བསྒྲེ",
+        "category": "unresolved final syllable and page boundary",
+        "neighboring_context": "Preceded by ཚིག་འདས་སྤྲོས་པ་གང་གིས་བཅད; PDF6 opens with འཁོར་འདས་རུ་ཤན་གང་གིས་ཕྱེད.",
+        "approximate_native_bounds": [
+          2700,
+          385,
+          3050,
+          460
+        ],
+        "confidence": {
+          "lexical": "medium for flanks; low for final stack",
+          "alignment": "high",
+          "terminal_sign": "low"
+        },
+        "rationale": "The final stack and adjacent terminal graphic are retained as separate unresolved components."
+      },
+      "coordinator_scope": "The coordinator inspected the target native color overview and both overlapping native columns for all seven rows, source correspondence, compact source layers and named ink/contrast limitations. The independent readings are kept within their stated component-level confidence; no all-letter agreement is implied.",
+      "original_observation": {
+        "id": "B03-O05",
+        "anchors": [
+          "U00243",
+          "U00244"
+        ],
+        "source_span": "མངོན་སུམ་གནད་ལ་ཅི་ལྟར་⟦Q4⟧",
+        "base_span": "མངོན་སུམ་གནད་ལ་ཅི་ལྟར་བསྒྲེ",
+        "category": "unresolved final syllable and page boundary",
+        "neighboring_context": "Preceded by ཚིག་འདས་སྤྲོས་པ་གང་གིས་བཅད; PDF6 opens with འཁོར་འདས་རུ་ཤན་གང་གིས་ཕྱེད.",
+        "approximate_native_bounds": [
+          2700,
+          385,
+          3050,
+          460
+        ],
+        "confidence": {
+          "lexical": "medium for flanks; low for final stack",
+          "alignment": "high",
+          "terminal_sign": "low"
+        },
+        "rationale": "The final stack and adjacent terminal graphic are retained as separate unresolved components."
+      },
+      "coordinator_disposition": "Preserve as a scoped source-layer, graphic or inspected-uncertainty apparatus record, not automatically a confirmed lexical variant."
+    },
+    "source_layer_reference_ids": []
+  },
+  {
+    "id": "DG-CONT2-B04-O02",
+    "witness": "Degé",
+    "units": [
+      "U00258"
+    ],
+    "base_snippet_at_review": "འཕགས་པའི་རྫུ་འཕྲུལ་ཅི་ཡིས་འགྲུབ",
+    "comparison_reading": "R2: འཕགས་⟦Q01a⟧; R3: ⟦Q01b⟧རྫུ་འཕྲུལ་ཅི་ཡིས་འགྲུབ",
+    "status": "bounded_component_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"physical_row_break\": \"high\", \"boundary_letters\": \"low\"}",
+    "locator": "PDF 6; source-member and native bounds in linked packet; bounds: [[2915, 163, 3023, 219], [487, 237, 571, 290]]",
+    "rationale": "The flanking text is readable, but I cannot securely distribute the intervening letters between the two physical rows. No repaired པའི is supplied. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This is a scoped Degé source-layer, physical-graphic or inspected-uncertainty observation, not automatic witness agreement or a reconstructed missing word.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B04-P0006/p006-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B04-P0006/p006-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B04-P0006/p006-x1480-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B04-P0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B04-P0006",
+      "baseline_commit": "4ab9731cb10075c22ffc809ca7a5398b65bed764",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B04-P0006-reader-reading.txt",
+        "sha256": "b42db558d0b02e24befa8e8a833f8c9782e2c2297e935f593a866e672f988821"
+      },
+      "observation": {
+        "id": "B04-O02",
+        "anchors": [
+          "U00258"
+        ],
+        "source_span": "R2: འཕགས་⟦Q01a⟧; R3: ⟦Q01b⟧རྫུ་འཕྲུལ་ཅི་ཡིས་འགྲུབ",
+        "base_span": "འཕགས་པའི་རྫུ་འཕྲུལ་ཅི་ཡིས་འགྲུབ",
+        "category": "Row-boundary glyph allocation unresolved",
+        "neighboring_context": {
+          "before": "མཛོད་ལ་ཡོན་ཏན་ཅི་ལྟར་འབྱུང",
+          "after": "གཏེར་ལ་ལོངས་སྤྱོད་ཅི་ལྟར་བགྱི"
+        },
+        "approximate_native_bounds": [
+          [
+            2915,
+            163,
+            3023,
+            219
+          ],
+          [
+            487,
+            237,
+            571,
+            290
+          ]
+        ],
+        "confidence": {
+          "alignment": "high",
+          "physical_row_break": "high",
+          "boundary_letters": "low"
+        },
+        "rationale": "The flanking text is readable, but I cannot securely distribute the intervening letters between the two physical rows. No repaired པའི is supplied."
+      },
+      "coordinator_scope": "The coordinator inspected the target native color overview and both overlapping native columns for all seven rows, source correspondence, compact source layers and named ink/contrast limitations. The independent readings are kept within their stated component-level confidence; no all-letter agreement is implied.",
+      "original_observation": {
+        "id": "B04-O02",
+        "anchors": [
+          "U00258"
+        ],
+        "source_span": "R2: འཕགས་⟦Q01a⟧; R3: ⟦Q01b⟧རྫུ་འཕྲུལ་ཅི་ཡིས་འགྲུབ",
+        "base_span": "འཕགས་པའི་རྫུ་འཕྲུལ་ཅི་ཡིས་འགྲུབ",
+        "category": "Row-boundary glyph allocation unresolved",
+        "neighboring_context": {
+          "before": "མཛོད་ལ་ཡོན་ཏན་ཅི་ལྟར་འབྱུང",
+          "after": "གཏེར་ལ་ལོངས་སྤྱོད་ཅི་ལྟར་བགྱི"
+        },
+        "approximate_native_bounds": [
+          [
+            2915,
+            163,
+            3023,
+            219
+          ],
+          [
+            487,
+            237,
+            571,
+            290
+          ]
+        ],
+        "confidence": {
+          "alignment": "high",
+          "physical_row_break": "high",
+          "boundary_letters": "low"
+        },
+        "rationale": "The flanking text is readable, but I cannot securely distribute the intervening letters between the two physical rows. No repaired པའི is supplied."
+      },
+      "coordinator_disposition": "Preserve as a scoped source-layer, graphic or inspected-uncertainty apparatus record, not automatically a confirmed lexical variant."
+    },
+    "source_layer_reference_ids": []
+  },
+  {
+    "id": "DG-CONT2-B04-O03",
+    "witness": "Degé",
+    "units": [
+      "U00246",
+      "U00251"
+    ],
+    "base_snippet_at_review": "[\"U00246 terminal ཞིག །\", \"U00251 terminal ཞིག །\"]",
+    "comparison_reading": "[\"གང་ཙམ་ཞིག\", \"གང་ཙམ་ཞིག\"]",
+    "status": "qualified_source_layer_or_graphic_observation",
+    "confidence": "{\"lexical_anchor\": \"high\", \"stroke_classification\": \"medium\"}",
+    "locator": "PDF 6; source-member and native bounds in linked packet; bounds: [[1490, 115, 1578, 208], [741, 193, 846, 258]]",
+    "rationale": "R1-S3 and R2-S1 record one freestanding boundary stroke; the final ག limb is not counted as an additional shad. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This is a scoped Degé source-layer, physical-graphic or inspected-uncertainty observation, not automatic witness agreement or a reconstructed missing word.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B04-P0006/p006-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B04-P0006/p006-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B04-P0006/p006-x1480-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B04-P0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B04-P0006",
+      "baseline_commit": "4ab9731cb10075c22ffc809ca7a5398b65bed764",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B04-P0006-reader-reading.txt",
+        "sha256": "b42db558d0b02e24befa8e8a833f8c9782e2c2297e935f593a866e672f988821"
+      },
+      "observation": {
+        "id": "B04-O03",
+        "anchors": [
+          "U00246",
+          "U00251"
+        ],
+        "source_span": [
+          "གང་ཙམ་ཞིག",
+          "གང་ཙམ་ཞིག"
+        ],
+        "base_span": [
+          "U00246 terminal ཞིག །",
+          "U00251 terminal ཞིག །"
+        ],
+        "category": "Graphic boundary inventory",
+        "neighboring_context": [
+          "R1: followed by ཕྱི་ནང",
+          "R2: followed by འཁོར་བའི"
+        ],
+        "approximate_native_bounds": [
+          [
+            1490,
+            115,
+            1578,
+            208
+          ],
+          [
+            741,
+            193,
+            846,
+            258
+          ]
+        ],
+        "confidence": {
+          "lexical_anchor": "high",
+          "stroke_classification": "medium"
+        },
+        "rationale": "R1-S3 and R2-S1 record one freestanding boundary stroke; the final ག limb is not counted as an additional shad."
+      },
+      "coordinator_scope": "The coordinator inspected the target native color overview and both overlapping native columns for all seven rows, source correspondence, compact source layers and named ink/contrast limitations. The independent readings are kept within their stated component-level confidence; no all-letter agreement is implied.",
+      "original_observation": {
+        "id": "B04-O03",
+        "anchors": [
+          "U00246",
+          "U00251"
+        ],
+        "source_span": [
+          "གང་ཙམ་ཞིག",
+          "གང་ཙམ་ཞིག"
+        ],
+        "base_span": [
+          "U00246 terminal ཞིག །",
+          "U00251 terminal ཞིག །"
+        ],
+        "category": "Graphic boundary inventory",
+        "neighboring_context": [
+          "R1: followed by ཕྱི་ནང",
+          "R2: followed by འཁོར་བའི"
+        ],
+        "approximate_native_bounds": [
+          [
+            1490,
+            115,
+            1578,
+            208
+          ],
+          [
+            741,
+            193,
+            846,
+            258
+          ]
+        ],
+        "confidence": {
+          "lexical_anchor": "high",
+          "stroke_classification": "medium"
+        },
+        "rationale": "R1-S3 and R2-S1 record one freestanding boundary stroke; the final ག limb is not counted as an additional shad."
+      },
+      "coordinator_disposition": "Preserve as a scoped source-layer, graphic or inspected-uncertainty apparatus record, not automatically a confirmed lexical variant."
+    },
+    "source_layer_reference_ids": []
+  },
+  {
+    "id": "DG-CONT2-B04-O04",
+    "witness": "Degé",
+    "units": [
+      "U00250"
+    ],
+    "base_snippet_at_review": "ཇི་ལྟ་བུ། །",
+    "comparison_reading": "ཇི་ལྟ་བུ followed by R1-S7",
+    "status": "qualified_source_layer_or_graphic_observation",
+    "confidence": "{\"detached_stroke_presence\": \"high\", \"association_with_preceding_unit\": \"medium\", \"graphic_detail\": \"medium\"}",
+    "locator": "PDF 6; source-member and native bounds in linked packet; bounds: [2890, 108, 3027, 176]",
+    "rationale": "The upright near the right frame is counted once within R1-S7. It is not counted again as an opening sign of row 2. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This is a scoped Degé source-layer, physical-graphic or inspected-uncertainty observation, not automatic witness agreement or a reconstructed missing word.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B04-P0006/p006-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B04-P0006/p006-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B04-P0006/p006-x1480-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B04-P0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B04-P0006",
+      "baseline_commit": "4ab9731cb10075c22ffc809ca7a5398b65bed764",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B04-P0006-reader-reading.txt",
+        "sha256": "b42db558d0b02e24befa8e8a833f8c9782e2c2297e935f593a866e672f988821"
+      },
+      "observation": {
+        "id": "B04-O04",
+        "anchors": [
+          "U00250"
+        ],
+        "source_span": "ཇི་ལྟ་བུ followed by R1-S7",
+        "base_span": "ཇི་ལྟ་བུ། །",
+        "category": "Detached boundary-sign inventory",
+        "neighboring_context": {
+          "next_physical_row": "འབྲས་བུའི་ཐོབ་ས"
+        },
+        "approximate_native_bounds": [
+          2890,
+          108,
+          3027,
+          176
+        ],
+        "confidence": {
+          "detached_stroke_presence": "high",
+          "association_with_preceding_unit": "medium",
+          "graphic_detail": "medium"
+        },
+        "rationale": "The upright near the right frame is counted once within R1-S7. It is not counted again as an opening sign of row 2."
+      },
+      "coordinator_scope": "The coordinator inspected the target native color overview and both overlapping native columns for all seven rows, source correspondence, compact source layers and named ink/contrast limitations. The independent readings are kept within their stated component-level confidence; no all-letter agreement is implied.",
+      "original_observation": {
+        "id": "B04-O04",
+        "anchors": [
+          "U00250"
+        ],
+        "source_span": "ཇི་ལྟ་བུ followed by R1-S7",
+        "base_span": "ཇི་ལྟ་བུ། །",
+        "category": "Detached boundary-sign inventory",
+        "neighboring_context": {
+          "next_physical_row": "འབྲས་བུའི་ཐོབ་ས"
+        },
+        "approximate_native_bounds": [
+          2890,
+          108,
+          3027,
+          176
+        ],
+        "confidence": {
+          "detached_stroke_presence": "high",
+          "association_with_preceding_unit": "medium",
+          "graphic_detail": "medium"
+        },
+        "rationale": "The upright near the right frame is counted once within R1-S7. It is not counted again as an opening sign of row 2."
+      },
+      "coordinator_disposition": "Preserve as a scoped source-layer, graphic or inspected-uncertainty apparatus record, not automatically a confirmed lexical variant."
+    },
+    "source_layer_reference_ids": []
+  },
+  {
+    "id": "DG-CONT2-B04-O06",
+    "witness": "Degé",
+    "units": [
+      "U00272",
+      "U00278"
+    ],
+    "base_snippet_at_review": "{\"main\": \"མདངས་དང་ལྡན་པའི་དབང་པོ་ལ\", \"separate_annotation\": \"རྒྱུད་ཀྱི་ཆེ་བ་རྣམ་པར་བཀོད་པའི་བཀོད་པ\"}",
+    "comparison_reading": "མདངས་དང་ལྡན [N1: རྒྱུད་ཀྱི་ཆེ་བ་⟦Q03⟧] པའི / དབང་པོ་ལ",
+    "status": "qualified_source_layer_or_graphic_observation",
+    "confidence": "{\"physical_interleaving\": \"high\", \"main_text_alignment\": \"high\", \"annotation_prefix\": \"medium\", \"full_annotation_identity\": \"unresolved\", \"logical_attachment\": \"low\"}",
+    "locator": "PDF 6; source-member and native bounds in linked packet; bounds: [[2480, 303, 3020, 359], [487, 391, 619, 439]]",
+    "rationale": "The small component is visibly distinct and occurs between two main-text fragments. Its prefix suggests correspondence with the supplied annotation, but its unread remainder and logical attachment remain open. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This is a scoped Degé source-layer, physical-graphic or inspected-uncertainty observation, not automatic witness agreement or a reconstructed missing word.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B04-P0006/p006-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B04-P0006/p006-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B04-P0006/p006-x1480-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B04-P0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B04-P0006",
+      "baseline_commit": "4ab9731cb10075c22ffc809ca7a5398b65bed764",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B04-P0006-reader-reading.txt",
+        "sha256": "b42db558d0b02e24befa8e8a833f8c9782e2c2297e935f593a866e672f988821"
+      },
+      "observation": {
+        "id": "B04-O06",
+        "anchors": [
+          "U00272",
+          "U00278"
+        ],
+        "source_span": "མདངས་དང་ལྡན [N1: རྒྱུད་ཀྱི་ཆེ་བ་⟦Q03⟧] པའི / དབང་པོ་ལ",
+        "base_span": {
+          "main": "མདངས་དང་ལྡན་པའི་དབང་པོ་ལ",
+          "separate_annotation": "རྒྱུད་ཀྱི་ཆེ་བ་རྣམ་པར་བཀོད་པའི་བཀོད་པ"
+        },
+        "category": "Physical interleaving of separate small writing",
+        "neighboring_context": {
+          "before": "མ་བྲིས་རི་མོའི་ཚུལ་ཙམ་དུ",
+          "after": "ངེས་པར་སྣང་སྟེ་མངོན་སུམ་པའོ"
+        },
+        "approximate_native_bounds": [
+          [
+            2480,
+            303,
+            3020,
+            359
+          ],
+          [
+            487,
+            391,
+            619,
+            439
+          ]
+        ],
+        "confidence": {
+          "physical_interleaving": "high",
+          "main_text_alignment": "high",
+          "annotation_prefix": "medium",
+          "full_annotation_identity": "unresolved",
+          "logical_attachment": "low"
+        },
+        "rationale": "The small component is visibly distinct and occurs between two main-text fragments. Its prefix suggests correspondence with the supplied annotation, but its unread remainder and logical attachment remain open."
+      },
+      "coordinator_scope": "The coordinator inspected the target native color overview and both overlapping native columns for all seven rows, source correspondence, compact source layers and named ink/contrast limitations. The independent readings are kept within their stated component-level confidence; no all-letter agreement is implied.",
+      "original_observation": {
+        "id": "B04-O06",
+        "anchors": [
+          "U00272",
+          "U00278"
+        ],
+        "source_span": "མདངས་དང་ལྡན [N1: རྒྱུད་ཀྱི་ཆེ་བ་⟦Q03⟧] པའི / དབང་པོ་ལ",
+        "base_span": {
+          "main": "མདངས་དང་ལྡན་པའི་དབང་པོ་ལ",
+          "separate_annotation": "རྒྱུད་ཀྱི་ཆེ་བ་རྣམ་པར་བཀོད་པའི་བཀོད་པ"
+        },
+        "category": "Physical interleaving of separate small writing",
+        "neighboring_context": {
+          "before": "མ་བྲིས་རི་མོའི་ཚུལ་ཙམ་དུ",
+          "after": "ངེས་པར་སྣང་སྟེ་མངོན་སུམ་པའོ"
+        },
+        "approximate_native_bounds": [
+          [
+            2480,
+            303,
+            3020,
+            359
+          ],
+          [
+            487,
+            391,
+            619,
+            439
+          ]
+        ],
+        "confidence": {
+          "physical_interleaving": "high",
+          "main_text_alignment": "high",
+          "annotation_prefix": "medium",
+          "full_annotation_identity": "unresolved",
+          "logical_attachment": "low"
+        },
+        "rationale": "The small component is visibly distinct and occurs between two main-text fragments. Its prefix suggests correspondence with the supplied annotation, but its unread remainder and logical attachment remain open."
+      },
+      "coordinator_disposition": "Record actual physical N1 position between ldan and pai/dbang-po-la, with prefix only. No full annotation is supplied and no silent relocation to U00272."
+    },
+    "source_layer_reference_ids": []
+  },
+  {
+    "id": "DG-CONT2-B04-O08",
+    "witness": "Degé",
+    "units": [
+      "U00253",
+      "U00287"
+    ],
+    "base_snippet_at_review": "[\"བཅུད་ཀྱིས་ལེན་པ\", \"རྣམས་ཀྱིས་མ་གསུངས་པ\"]",
+    "comparison_reading": "[\"བཅུད་ཀྱི⟦Q02⟧་ལེན་པ\", \"རྣམས་ཀྱི⟦Q04⟧་མ་གསུངས་པ\"]",
+    "status": "bounded_component_uncertainty",
+    "confidence": "{\"anchor_alignment\": \"high\", \"suffix_presence\": \"low\"}",
+    "locator": "PDF 6; source-member and native bounds in linked packet; bounds: [[1210, 177, 1298, 232], [1040, 417, 1170, 475]]",
+    "rationale": "I cannot securely certify the final ས at these two positions. This is not evidence that the suffix is absent. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This is a scoped Degé source-layer, physical-graphic or inspected-uncertainty observation, not automatic witness agreement or a reconstructed missing word.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B04-P0006/p006-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B04-P0006/p006-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B04-P0006/p006-x1480-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B04-P0006-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B04-P0006",
+      "baseline_commit": "4ab9731cb10075c22ffc809ca7a5398b65bed764",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B04-P0006-reader-reading.txt",
+        "sha256": "b42db558d0b02e24befa8e8a833f8c9782e2c2297e935f593a866e672f988821"
+      },
+      "observation": {
+        "id": "B04-O08",
+        "anchors": [
+          "U00253",
+          "U00287"
+        ],
+        "source_span": [
+          "བཅུད་ཀྱི⟦Q02⟧་ལེན་པ",
+          "རྣམས་ཀྱི⟦Q04⟧་མ་གསུངས་པ"
+        ],
+        "base_span": [
+          "བཅུད་ཀྱིས་ལེན་པ",
+          "རྣམས་ཀྱིས་མ་གསུངས་པ"
+        ],
+        "category": "Suffix uncertainty after inspection",
+        "neighboring_context": [
+          "U00253: between བཅུད and ལེན་པ",
+          "U00287: between རྣམས and མ་གསུངས་པ"
+        ],
+        "approximate_native_bounds": [
+          [
+            1210,
+            177,
+            1298,
+            232
+          ],
+          [
+            1040,
+            417,
+            1170,
+            475
+          ]
+        ],
+        "confidence": {
+          "anchor_alignment": "high",
+          "suffix_presence": "low"
+        },
+        "rationale": "I cannot securely certify the final ས at these two positions. This is not evidence that the suffix is absent."
+      },
+      "coordinator_scope": "The coordinator inspected the target native color overview and both overlapping native columns for all seven rows, source correspondence, compact source layers and named ink/contrast limitations. The independent readings are kept within their stated component-level confidence; no all-letter agreement is implied.",
+      "original_observation": {
+        "id": "B04-O08",
+        "anchors": [
+          "U00253",
+          "U00287"
+        ],
+        "source_span": [
+          "བཅུད་ཀྱི⟦Q02⟧་ལེན་པ",
+          "རྣམས་ཀྱི⟦Q04⟧་མ་གསུངས་པ"
+        ],
+        "base_span": [
+          "བཅུད་ཀྱིས་ལེན་པ",
+          "རྣམས་ཀྱིས་མ་གསུངས་པ"
+        ],
+        "category": "Suffix uncertainty after inspection",
+        "neighboring_context": [
+          "U00253: between བཅུད and ལེན་པ",
+          "U00287: between རྣམས and མ་གསུངས་པ"
+        ],
+        "approximate_native_bounds": [
+          [
+            1210,
+            177,
+            1298,
+            232
+          ],
+          [
+            1040,
+            417,
+            1170,
+            475
+          ]
+        ],
+        "confidence": {
+          "anchor_alignment": "high",
+          "suffix_presence": "low"
+        },
+        "rationale": "I cannot securely certify the final ས at these two positions. This is not evidence that the suffix is absent."
+      },
+      "coordinator_disposition": "Preserve as a scoped source-layer, graphic or inspected-uncertainty apparatus record, not automatically a confirmed lexical variant."
+    },
+    "source_layer_reference_ids": []
+  },
+  {
+    "id": "DG-CONT2-B05-O02",
+    "witness": "Degé",
+    "units": [
+      "U00296"
+    ],
+    "base_snippet_at_review": "སྙིང་གི་ཏི་ཀ་ལུང་གི་མིག",
+    "comparison_reading": "སྙིང་གི་⟦Q-296⟧་ཀ་ལུང་གི་མིག",
+    "status": "bounded_component_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"surrounding_words\": \"medium\", \"root_letter_distinction\": \"low\"}",
+    "locator": "PDF 7; source-member and native bounds in linked packet; bounds: [1955, 92, 2018, 153]",
+    "rationale": "The ti syllable's consonant form is not securely distinguished as ཏ versus ཊ; no variant is adopted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This is a scoped Degé source-layer, physical-graphic or inspected-uncertainty observation, not automatic witness agreement or a reconstructed missing word.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B05-P0007/p007-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B05-P0007/p007-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B05-P0007/p007-x1479-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B05-P0007-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B05-P0007",
+      "baseline_commit": "4ab9731cb10075c22ffc809ca7a5398b65bed764",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B05-P0007-reader-reading.txt",
+        "sha256": "eccb0d3683d884a60de9a341375766c183f458c32177e3a3e4b3e8e164cf95f1"
+      },
+      "observation": {
+        "id": "B05-O02",
+        "anchors": [
+          "U00296"
+        ],
+        "source_span": "སྙིང་གི་⟦Q-296⟧་ཀ་ལུང་གི་མིག",
+        "base_span": "སྙིང་གི་ཏི་ཀ་ལུང་གི་མིག",
+        "category": "bounded_graphic_uncertainty",
+        "neighboring_context": "Between གི and ཀ; the surrounding words remain readable.",
+        "approximate_native_bounds": [
+          1955,
+          92,
+          2018,
+          153
+        ],
+        "confidence": {
+          "alignment": "high",
+          "surrounding_words": "medium",
+          "root_letter_distinction": "low"
+        },
+        "rationale": "The ti syllable's consonant form is not securely distinguished as ཏ versus ཊ; no variant is adopted."
+      },
+      "coordinator_scope": "The coordinator inspected the target native color overview and both overlapping native columns for all seven rows, source correspondence, compact source layers and named ink/contrast limitations. The independent readings are kept within their stated component-level confidence; no all-letter agreement is implied.",
+      "original_observation": {
+        "id": "B05-O02",
+        "anchors": [
+          "U00296"
+        ],
+        "source_span": "སྙིང་གི་⟦Q-296⟧་ཀ་ལུང་གི་མིག",
+        "base_span": "སྙིང་གི་ཏི་ཀ་ལུང་གི་མིག",
+        "category": "bounded_graphic_uncertainty",
+        "neighboring_context": "Between གི and ཀ; the surrounding words remain readable.",
+        "approximate_native_bounds": [
+          1955,
+          92,
+          2018,
+          153
+        ],
+        "confidence": {
+          "alignment": "high",
+          "surrounding_words": "medium",
+          "root_letter_distinction": "low"
+        },
+        "rationale": "The ti syllable's consonant form is not securely distinguished as ཏ versus ཊ; no variant is adopted."
+      },
+      "coordinator_disposition": "Preserve as a scoped source-layer, graphic or inspected-uncertainty apparatus record, not automatically a confirmed lexical variant."
+    },
+    "source_layer_reference_ids": []
+  },
+  {
+    "id": "DG-CONT2-B05-O03",
+    "witness": "Degé",
+    "units": [
+      "U00299"
+    ],
+    "base_snippet_at_review": "མངལ་གྱི་རྒྱུན་གཅོད་ངན་སོང་ཕྱག",
+    "comparison_reading": "མངལ་གྱི་རྒྱུན་གཅོད་ངན་སོང་ཕྱག",
+    "status": "qualified_local_retention_not_new_variant",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"terminal_sign\": \"low\"}",
+    "locator": "PDF 7; source-member and native bounds in linked packet; bounds: [382, 139, 711, 217]",
+    "rationale": "Retains the observed ཕྱག without changing it to a more expected word; the terminal graphic is separately unresolved as S08. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This is a scoped Degé source-layer, physical-graphic or inspected-uncertainty observation, not automatic witness agreement or a reconstructed missing word.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B05-P0007/p007-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B05-P0007/p007-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B05-P0007/p007-x1479-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B05-P0007-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B05-P0007",
+      "baseline_commit": "4ab9731cb10075c22ffc809ca7a5398b65bed764",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B05-P0007-reader-reading.txt",
+        "sha256": "eccb0d3683d884a60de9a341375766c183f458c32177e3a3e4b3e8e164cf95f1"
+      },
+      "observation": {
+        "id": "B05-O03",
+        "anchors": [
+          "U00299"
+        ],
+        "source_span": "མངལ་གྱི་རྒྱུན་གཅོད་ངན་སོང་ཕྱག",
+        "base_span": "མངལ་གྱི་རྒྱུན་གཅོད་ངན་སོང་ཕྱག",
+        "category": "local_lexical_reading",
+        "neighboring_context": "Followed by གསང་བ་མཆོག་གི.",
+        "approximate_native_bounds": [
+          382,
+          139,
+          711,
+          217
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "terminal_sign": "low"
+        },
+        "rationale": "Retains the observed ཕྱག without changing it to a more expected word; the terminal graphic is separately unresolved as S08."
+      },
+      "coordinator_scope": "The coordinator inspected the target native color overview and both overlapping native columns for all seven rows, source correspondence, compact source layers and named ink/contrast limitations. The independent readings are kept within their stated component-level confidence; no all-letter agreement is implied.",
+      "original_observation": {
+        "id": "B05-O03",
+        "anchors": [
+          "U00299"
+        ],
+        "source_span": "མངལ་གྱི་རྒྱུན་གཅོད་ངན་སོང་ཕྱག",
+        "base_span": "མངལ་གྱི་རྒྱུན་གཅོད་ངན་སོང་ཕྱག",
+        "category": "local_lexical_reading",
+        "neighboring_context": "Followed by གསང་བ་མཆོག་གི.",
+        "approximate_native_bounds": [
+          382,
+          139,
+          711,
+          217
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "terminal_sign": "low"
+        },
+        "rationale": "Retains the observed ཕྱག without changing it to a more expected word; the terminal graphic is separately unresolved as S08."
+      },
+      "coordinator_disposition": "Retain the local phyag reading without emending to a more expected word; this is scoped lexical retention, not a new variant. Its terminal graphic S08 remains uncertain."
+    },
+    "source_layer_reference_ids": []
+  },
+  {
+    "id": "DG-CONT2-B05-O04",
+    "witness": "Degé",
+    "units": [
+      "U00316",
+      "U00317",
+      "U00318",
+      "U00319"
+    ],
+    "base_snippet_at_review": "U00317 annotation: དྲི་བ་བདུན་ཅུ་ཟེར་ཀྱང་དོན་དྲུག་པར་ཡོད།; U00318 heading: དྲིས་ལན་དང་པོ།",
+    "comparison_reading": "ཚིག་བྱུང་གཞི་ལ་འདི་ལྟར་སྣང / N1 / དྲིས་ལན་དང་པོ / འབྱུང་བའི་དགོས་པ",
+    "status": "qualified_source_layer_or_graphic_observation",
+    "confidence": "{\"component_presence\": \"high\", \"physical_order\": \"high\", \"N1_full_wording\": \"low\", \"N2_wording\": \"medium\"}",
+    "locator": "PDF 7; source-member and native bounds in linked packet; bounds: [1410, 241, 2554, 329]",
+    "rationale": "Both components are retained separately. The base's complete N1 wording is not substituted for its unresolved middle. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This is a scoped Degé source-layer, physical-graphic or inspected-uncertainty observation, not automatic witness agreement or a reconstructed missing word.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B05-P0007/p007-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B05-P0007/p007-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B05-P0007/p007-x1479-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B05-P0007-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B05-P0007",
+      "baseline_commit": "4ab9731cb10075c22ffc809ca7a5398b65bed764",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B05-P0007-reader-reading.txt",
+        "sha256": "eccb0d3683d884a60de9a341375766c183f458c32177e3a3e4b3e8e164cf95f1"
+      },
+      "observation": {
+        "id": "B05-O04",
+        "anchors": [
+          "U00316",
+          "U00317",
+          "U00318",
+          "U00319"
+        ],
+        "source_span": "ཚིག་བྱུང་གཞི་ལ་འདི་ལྟར་སྣང / N1 / དྲིས་ལན་དང་པོ / འབྱུང་བའི་དགོས་པ",
+        "base_span": "U00317 annotation: དྲི་བ་བདུན་ཅུ་ཟེར་ཀྱང་དོན་དྲུག་པར་ཡོད།; U00318 heading: དྲིས་ལན་དང་པོ།",
+        "category": "separate_written_components",
+        "neighboring_context": "N1 precedes N2 between the U00316 and U00319 main sequences.",
+        "approximate_native_bounds": [
+          1410,
+          241,
+          2554,
+          329
+        ],
+        "confidence": {
+          "component_presence": "high",
+          "physical_order": "high",
+          "N1_full_wording": "low",
+          "N2_wording": "medium"
+        },
+        "rationale": "Both components are retained separately. The base's complete N1 wording is not substituted for its unresolved middle."
+      },
+      "coordinator_scope": "The coordinator inspected the target native color overview and both overlapping native columns for all seven rows, source correspondence, compact source layers and named ink/contrast limitations. The independent readings are kept within their stated component-level confidence; no all-letter agreement is implied.",
+      "original_observation": {
+        "id": "B05-O04",
+        "anchors": [
+          "U00316",
+          "U00317",
+          "U00318",
+          "U00319"
+        ],
+        "source_span": "ཚིག་བྱུང་གཞི་ལ་འདི་ལྟར་སྣང / N1 / དྲིས་ལན་དང་པོ / འབྱུང་བའི་དགོས་པ",
+        "base_span": "U00317 annotation: དྲི་བ་བདུན་ཅུ་ཟེར་ཀྱང་དོན་དྲུག་པར་ཡོད།; U00318 heading: དྲིས་ལན་དང་པོ།",
+        "category": "separate_written_components",
+        "neighboring_context": "N1 precedes N2 between the U00316 and U00319 main sequences.",
+        "approximate_native_bounds": [
+          1410,
+          241,
+          2554,
+          329
+        ],
+        "confidence": {
+          "component_presence": "high",
+          "physical_order": "high",
+          "N1_full_wording": "low",
+          "N2_wording": "medium"
+        },
+        "rationale": "Both components are retained separately. The base's complete N1 wording is not substituted for its unresolved middle."
+      },
+      "coordinator_disposition": "Preserve as a scoped source-layer, graphic or inspected-uncertainty apparatus record, not automatically a confirmed lexical variant."
+    },
+    "source_layer_reference_ids": []
+  },
+  {
+    "id": "DG-CONT2-B05-O05",
+    "witness": "Degé",
+    "units": [
+      "U00320"
+    ],
+    "base_snippet_at_review": "ཆུ་ནི་དྭངས་མ་སྡུད་པ་དང",
+    "comparison_reading": "ཆུ་ནི་⟦Q-320⟧་མ་སྡུད་པ་དང",
+    "status": "bounded_component_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"word_outline\": \"medium\", \"subscript_wa\": \"low\"}",
+    "locator": "PDF 7; source-member and native bounds in linked packet; bounds: [2610, 266, 2693, 324]",
+    "rationale": "The distinction between དངས and དྭངས is not secure; no omission of wa is claimed. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This is a scoped Degé source-layer, physical-graphic or inspected-uncertainty observation, not automatic witness agreement or a reconstructed missing word.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B05-P0007/p007-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B05-P0007/p007-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B05-P0007/p007-x1479-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B05-P0007-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B05-P0007",
+      "baseline_commit": "4ab9731cb10075c22ffc809ca7a5398b65bed764",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B05-P0007-reader-reading.txt",
+        "sha256": "eccb0d3683d884a60de9a341375766c183f458c32177e3a3e4b3e8e164cf95f1"
+      },
+      "observation": {
+        "id": "B05-O05",
+        "anchors": [
+          "U00320"
+        ],
+        "source_span": "ཆུ་ནི་⟦Q-320⟧་མ་སྡུད་པ་དང",
+        "base_span": "ཆུ་ནི་དྭངས་མ་སྡུད་པ་དང",
+        "category": "bounded_graphic_uncertainty",
+        "neighboring_context": "Question concerns the word between ནི and མ.",
+        "approximate_native_bounds": [
+          2610,
+          266,
+          2693,
+          324
+        ],
+        "confidence": {
+          "alignment": "high",
+          "word_outline": "medium",
+          "subscript_wa": "low"
+        },
+        "rationale": "The distinction between དངས and དྭངས is not secure; no omission of wa is claimed."
+      },
+      "coordinator_scope": "The coordinator inspected the target native color overview and both overlapping native columns for all seven rows, source correspondence, compact source layers and named ink/contrast limitations. The independent readings are kept within their stated component-level confidence; no all-letter agreement is implied.",
+      "original_observation": {
+        "id": "B05-O05",
+        "anchors": [
+          "U00320"
+        ],
+        "source_span": "ཆུ་ནི་⟦Q-320⟧་མ་སྡུད་པ་དང",
+        "base_span": "ཆུ་ནི་དྭངས་མ་སྡུད་པ་དང",
+        "category": "bounded_graphic_uncertainty",
+        "neighboring_context": "Question concerns the word between ནི and མ.",
+        "approximate_native_bounds": [
+          2610,
+          266,
+          2693,
+          324
+        ],
+        "confidence": {
+          "alignment": "high",
+          "word_outline": "medium",
+          "subscript_wa": "low"
+        },
+        "rationale": "The distinction between དངས and དྭངས is not secure; no omission of wa is claimed."
+      },
+      "coordinator_disposition": "Preserve as a scoped source-layer, graphic or inspected-uncertainty apparatus record, not automatically a confirmed lexical variant."
+    },
+    "source_layer_reference_ids": []
+  },
+  {
+    "id": "DG-CONT2-B05-O07",
+    "witness": "Degé",
+    "units": [
+      "U00328"
+    ],
+    "base_snippet_at_review": "Main reading: མེས་ནི་འབྱུང་བ་སེལ་བ་དང; separate annotation: སྤེལ་ཡང་བྱུང",
+    "comparison_reading": "R5: མེས / R6: ནི་འབྱུང་བ་⟦Q-328⟧་བ་དང",
+    "status": "bounded_component_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"row_wrap\": \"high\", \"Q-328_stack\": \"low\"}",
+    "locator": "PDF 7; source-member and native bounds in linked packet; bounds: [380, 320, 2935, 412]",
+    "rationale": "The main verb's consonant stack remains unresolved locally. The small N3 component is inventoried at its actual position on R7. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This is a scoped Degé source-layer, physical-graphic or inspected-uncertainty observation, not automatic witness agreement or a reconstructed missing word.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B05-P0007/p007-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B05-P0007/p007-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B05-P0007/p007-x1479-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B05-P0007-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B05-P0007",
+      "baseline_commit": "4ab9731cb10075c22ffc809ca7a5398b65bed764",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B05-P0007-reader-reading.txt",
+        "sha256": "eccb0d3683d884a60de9a341375766c183f458c32177e3a3e4b3e8e164cf95f1"
+      },
+      "observation": {
+        "id": "B05-O07",
+        "anchors": [
+          "U00328"
+        ],
+        "source_span": "R5: མེས / R6: ནི་འབྱུང་བ་⟦Q-328⟧་བ་དང",
+        "base_span": "Main reading: མེས་ནི་འབྱུང་བ་སེལ་བ་དང; separate annotation: སྤེལ་ཡང་བྱུང",
+        "category": "physical_row_wrap_and_unresolved_stack",
+        "neighboring_context": "After དགོས་པ་ཀུན་རྫོབ་ཐིག་ལེར་ཤེས and before སྨིན་ཅིང་གསལ་བའི.",
+        "approximate_native_bounds": [
+          380,
+          320,
+          2935,
+          412
+        ],
+        "confidence": {
+          "alignment": "high",
+          "row_wrap": "high",
+          "Q-328_stack": "low"
+        },
+        "rationale": "The main verb's consonant stack remains unresolved locally. The small N3 component is inventoried at its actual position on R7."
+      },
+      "coordinator_scope": "The coordinator inspected the target native color overview and both overlapping native columns for all seven rows, source correspondence, compact source layers and named ink/contrast limitations. The independent readings are kept within their stated component-level confidence; no all-letter agreement is implied.",
+      "original_observation": {
+        "id": "B05-O07",
+        "anchors": [
+          "U00328"
+        ],
+        "source_span": "R5: མེས / R6: ནི་འབྱུང་བ་⟦Q-328⟧་བ་དང",
+        "base_span": "Main reading: མེས་ནི་འབྱུང་བ་སེལ་བ་དང; separate annotation: སྤེལ་ཡང་བྱུང",
+        "category": "physical_row_wrap_and_unresolved_stack",
+        "neighboring_context": "After དགོས་པ་ཀུན་རྫོབ་ཐིག་ལེར་ཤེས and before སྨིན་ཅིང་གསལ་བའི.",
+        "approximate_native_bounds": [
+          380,
+          320,
+          2935,
+          412
+        ],
+        "confidence": {
+          "alignment": "high",
+          "row_wrap": "high",
+          "Q-328_stack": "low"
+        },
+        "rationale": "The main verb's consonant stack remains unresolved locally. The small N3 component is inventoried at its actual position on R7."
+      },
+      "coordinator_disposition": "Preserve as a scoped source-layer, graphic or inspected-uncertainty apparatus record, not automatically a confirmed lexical variant."
+    },
+    "source_layer_reference_ids": []
+  },
+  {
+    "id": "DG-CONT2-B05-O08",
+    "witness": "Degé",
+    "units": [
+      "U00331"
+    ],
+    "base_snippet_at_review": "དགོས་པ་དྲོད་རྣམས་ཤེས་པར་བྱེད",
+    "comparison_reading": "དགོས་པ་དྲོད་རྣམས་ཤེས་⟦Q-331⟧་བྱེད",
+    "status": "bounded_component_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"flanks\": \"medium\", \"intervening_syllable\": \"low\"}",
+    "locator": "PDF 7; source-member and native bounds in linked packet; bounds: [1717, 347, 1830, 413]",
+    "rationale": "Faint printing prevents a secure full reading of the intervening syllable; the remaining row was followed onward. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This is a scoped Degé source-layer, physical-graphic or inspected-uncertainty observation, not automatic witness agreement or a reconstructed missing word.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B05-P0007/p007-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B05-P0007/p007-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B05-P0007/p007-x1479-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B05-P0007-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B05-P0007",
+      "baseline_commit": "4ab9731cb10075c22ffc809ca7a5398b65bed764",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B05-P0007-reader-reading.txt",
+        "sha256": "eccb0d3683d884a60de9a341375766c183f458c32177e3a3e4b3e8e164cf95f1"
+      },
+      "observation": {
+        "id": "B05-O08",
+        "anchors": [
+          "U00331"
+        ],
+        "source_span": "དགོས་པ་དྲོད་རྣམས་ཤེས་⟦Q-331⟧་བྱེད",
+        "base_span": "དགོས་པ་དྲོད་རྣམས་ཤེས་པར་བྱེད",
+        "category": "faint_bounded_reading",
+        "neighboring_context": "Unresolved syllable between ཤེས and བྱེད.",
+        "approximate_native_bounds": [
+          1717,
+          347,
+          1830,
+          413
+        ],
+        "confidence": {
+          "alignment": "high",
+          "flanks": "medium",
+          "intervening_syllable": "low"
+        },
+        "rationale": "Faint printing prevents a secure full reading of the intervening syllable; the remaining row was followed onward."
+      },
+      "coordinator_scope": "The coordinator inspected the target native color overview and both overlapping native columns for all seven rows, source correspondence, compact source layers and named ink/contrast limitations. The independent readings are kept within their stated component-level confidence; no all-letter agreement is implied.",
+      "original_observation": {
+        "id": "B05-O08",
+        "anchors": [
+          "U00331"
+        ],
+        "source_span": "དགོས་པ་དྲོད་རྣམས་ཤེས་⟦Q-331⟧་བྱེད",
+        "base_span": "དགོས་པ་དྲོད་རྣམས་ཤེས་པར་བྱེད",
+        "category": "faint_bounded_reading",
+        "neighboring_context": "Unresolved syllable between ཤེས and བྱེད.",
+        "approximate_native_bounds": [
+          1717,
+          347,
+          1830,
+          413
+        ],
+        "confidence": {
+          "alignment": "high",
+          "flanks": "medium",
+          "intervening_syllable": "low"
+        },
+        "rationale": "Faint printing prevents a secure full reading of the intervening syllable; the remaining row was followed onward."
+      },
+      "coordinator_disposition": "Preserve as a scoped source-layer, graphic or inspected-uncertainty apparatus record, not automatically a confirmed lexical variant."
+    },
+    "source_layer_reference_ids": []
+  },
+  {
+    "id": "DG-CONT2-B05-O09",
+    "witness": "Degé",
+    "units": [
+      "U00328",
+      "U00334"
+    ],
+    "base_snippet_at_review": "U00334: འགུལ་ཞིང་འཕྲིག་པས་ལུས་འཛིན་ཅིང; U00328 separate annotation: སྤེལ་ཡང་བྱུང",
+    "comparison_reading": "འགུལ་ཞིང་འཕྲིག / པས [N3: སྤེལ་⟦Q-N3⟧] ལུས་འཛིན་ཅིང",
+    "status": "qualified_source_layer_or_graphic_observation",
+    "confidence": "{\"physical_placement\": \"high\", \"main_flanks\": \"medium\", \"N3_complete_wording\": \"low\", \"annotation_association\": \"medium\"}",
+    "locator": "PDF 7; source-member and native bounds in linked packet; bounds: [380, 389, 734, 459]",
+    "rationale": "The small writing is not silently absorbed into U00334 or relocated into U00328. Its unresolved remainder remains an unaligned component. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This is a scoped Degé source-layer, physical-graphic or inspected-uncertainty observation, not automatic witness agreement or a reconstructed missing word.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B05-P0007/p007-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B05-P0007/p007-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B05-P0007/p007-x1479-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B05-P0007-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B05-P0007",
+      "baseline_commit": "4ab9731cb10075c22ffc809ca7a5398b65bed764",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B05-P0007-reader-reading.txt",
+        "sha256": "eccb0d3683d884a60de9a341375766c183f458c32177e3a3e4b3e8e164cf95f1"
+      },
+      "observation": {
+        "id": "B05-O09",
+        "anchors": [
+          "U00328",
+          "U00334"
+        ],
+        "source_span": "འགུལ་ཞིང་འཕྲིག / པས [N3: སྤེལ་⟦Q-N3⟧] ལུས་འཛིན་ཅིང",
+        "base_span": "U00334: འགུལ་ཞིང་འཕྲིག་པས་ལུས་འཛིན་ཅིང; U00328 separate annotation: སྤེལ་ཡང་བྱུང",
+        "category": "physical_interleaving",
+        "neighboring_context": "N3 lies between main-size པས and ལུས, beneath the left portion of R6.",
+        "approximate_native_bounds": [
+          380,
+          389,
+          734,
+          459
+        ],
+        "confidence": {
+          "physical_placement": "high",
+          "main_flanks": "medium",
+          "N3_complete_wording": "low",
+          "annotation_association": "medium"
+        },
+        "rationale": "The small writing is not silently absorbed into U00334 or relocated into U00328. Its unresolved remainder remains an unaligned component."
+      },
+      "coordinator_scope": "The coordinator inspected the target native color overview and both overlapping native columns for all seven rows, source correspondence, compact source layers and named ink/contrast limitations. The independent readings are kept within their stated component-level confidence; no all-letter agreement is implied.",
+      "original_observation": {
+        "id": "B05-O09",
+        "anchors": [
+          "U00328",
+          "U00334"
+        ],
+        "source_span": "འགུལ་ཞིང་འཕྲིག / པས [N3: སྤེལ་⟦Q-N3⟧] ལུས་འཛིན་ཅིང",
+        "base_span": "U00334: འགུལ་ཞིང་འཕྲིག་པས་ལུས་འཛིན་ཅིང; U00328 separate annotation: སྤེལ་ཡང་བྱུང",
+        "category": "physical_interleaving",
+        "neighboring_context": "N3 lies between main-size པས and ལུས, beneath the left portion of R6.",
+        "approximate_native_bounds": [
+          380,
+          389,
+          734,
+          459
+        ],
+        "confidence": {
+          "physical_placement": "high",
+          "main_flanks": "medium",
+          "N3_complete_wording": "low",
+          "annotation_association": "medium"
+        },
+        "rationale": "The small writing is not silently absorbed into U00334 or relocated into U00328. Its unresolved remainder remains an unaligned component."
+      },
+      "coordinator_disposition": "Record physical N3 after pas and before lus within U00334; association with U00328 annotation remains qualified and its full wording is not adopted."
+    },
+    "source_layer_reference_ids": []
+  },
+  {
+    "id": "DG-CONT2-B05-O11",
+    "witness": "Degé",
+    "units": [
+      "U00300",
+      "U00301"
+    ],
+    "base_snippet_at_review": "བཤད་ཀྱིས། ། རྡོ་རྗེ",
+    "comparison_reading": "བཤད་ཀྱིས ⟦S09:V⟧ རྡོ་རྗེ",
+    "status": "qualified_source_layer_or_graphic_observation",
+    "confidence": "{\"boundary_location\": \"high\", \"separate_upright_presence\": \"medium\", \"equivalence_to_base_punctuation\": \"not_asserted\"}",
+    "locator": "PDF 7; source-member and native bounds in linked packet; bounds: [1030, 145, 1190, 223]",
+    "rationale": "The observed graphic is retained under its own code. Letter limbs, frame strokes and the opening ornament are not automatically counted as shads. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This is a scoped Degé source-layer, physical-graphic or inspected-uncertainty observation, not automatic witness agreement or a reconstructed missing word.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B05-P0007/p007-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B05-P0007/p007-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B05-P0007/p007-x1479-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B05-P0007-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B05-P0007",
+      "baseline_commit": "4ab9731cb10075c22ffc809ca7a5398b65bed764",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B05-P0007-reader-reading.txt",
+        "sha256": "eccb0d3683d884a60de9a341375766c183f458c32177e3a3e4b3e8e164cf95f1"
+      },
+      "observation": {
+        "id": "B05-O11",
+        "anchors": [
+          "U00300",
+          "U00301"
+        ],
+        "source_span": "བཤད་ཀྱིས ⟦S09:V⟧ རྡོ་རྗེ",
+        "base_span": "བཤད་ཀྱིས། ། རྡོ་རྗེ",
+        "category": "graphic_punctuation_record",
+        "neighboring_context": "Representative interior boundary; other boundaries are individually inventoried in rows.",
+        "approximate_native_bounds": [
+          1030,
+          145,
+          1190,
+          223
+        ],
+        "confidence": {
+          "boundary_location": "high",
+          "separate_upright_presence": "medium",
+          "equivalence_to_base_punctuation": "not_asserted"
+        },
+        "rationale": "The observed graphic is retained under its own code. Letter limbs, frame strokes and the opening ornament are not automatically counted as shads."
+      },
+      "coordinator_scope": "The coordinator inspected the target native color overview and both overlapping native columns for all seven rows, source correspondence, compact source layers and named ink/contrast limitations. The independent readings are kept within their stated component-level confidence; no all-letter agreement is implied.",
+      "original_observation": {
+        "id": "B05-O11",
+        "anchors": [
+          "U00300",
+          "U00301"
+        ],
+        "source_span": "བཤད་ཀྱིས ⟦S09:V⟧ རྡོ་རྗེ",
+        "base_span": "བཤད་ཀྱིས། ། རྡོ་རྗེ",
+        "category": "graphic_punctuation_record",
+        "neighboring_context": "Representative interior boundary; other boundaries are individually inventoried in rows.",
+        "approximate_native_bounds": [
+          1030,
+          145,
+          1190,
+          223
+        ],
+        "confidence": {
+          "boundary_location": "high",
+          "separate_upright_presence": "medium",
+          "equivalence_to_base_punctuation": "not_asserted"
+        },
+        "rationale": "The observed graphic is retained under its own code. Letter limbs, frame strokes and the opening ornament are not automatically counted as shads."
+      },
+      "coordinator_disposition": "Preserve as a scoped source-layer, graphic or inspected-uncertainty apparatus record, not automatically a confirmed lexical variant."
+    },
+    "source_layer_reference_ids": []
+  },
+  {
+    "id": "DG-CONT2-B06-O02",
+    "witness": "Degé",
+    "units": [
+      "U00343",
+      "U00344",
+      "U00345"
+    ],
+    "base_snippet_at_review": "U00344: དྲིས་ལན་གཉིས་པ།",
+    "comparison_reading": "མཁས ⟦S04⟧ དྲིས་ལན་གཉིས་པ ⟦S05⟧ ཡན་ལག",
+    "status": "qualified_source_layer_or_graphic_observation",
+    "confidence": "{\"location\": \"high\", \"lexical\": \"medium\", \"layer\": \"high\", \"punctuation\": \"medium\"}",
+    "locator": "PDF 8; source-member and native bounds in linked packet; bounds: [1580, 110, 1840, 184]",
+    "rationale": "Its smaller lettering is physically interleaved with the row; it is recorded separately from the main-sized verses. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This is a scoped Degé source-layer, physical-graphic or inspected-uncertainty observation, not automatic witness agreement or a reconstructed missing word.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B06-P0008/p008-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B06-P0008/p008-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B06-P0008/p008-x1479-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B06-P0008-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B06-P0008",
+      "baseline_commit": "4ab9731cb10075c22ffc809ca7a5398b65bed764",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B06-P0008-reader-reading.txt",
+        "sha256": "6de25a98b1419368445351f9e183b42496c97b073512fd6aa8c98bdc53893025"
+      },
+      "observation": {
+        "id": "B06-O02",
+        "anchors": [
+          "U00343",
+          "U00344",
+          "U00345"
+        ],
+        "source_span": "མཁས ⟦S04⟧ དྲིས་ལན་གཉིས་པ ⟦S05⟧ ཡན་ལག",
+        "base_span": "U00344: དྲིས་ལན་གཉིས་པ།",
+        "category": "Smaller inline component",
+        "neighboring_context": "Between the conclusion of U00343 and the opening of U00345.",
+        "approximate_native_bounds": [
+          1580,
+          110,
+          1840,
+          184
+        ],
+        "confidence": {
+          "location": "high",
+          "lexical": "medium",
+          "layer": "high",
+          "punctuation": "medium"
+        },
+        "rationale": "Its smaller lettering is physically interleaved with the row; it is recorded separately from the main-sized verses."
+      },
+      "coordinator_scope": "The coordinator inspected the target native color overview and both overlapping native columns for all seven rows, source correspondence, compact source layers and named ink/contrast limitations. The independent readings are kept within their stated component-level confidence; no all-letter agreement is implied.",
+      "original_observation": {
+        "id": "B06-O02",
+        "anchors": [
+          "U00343",
+          "U00344",
+          "U00345"
+        ],
+        "source_span": "མཁས ⟦S04⟧ དྲིས་ལན་གཉིས་པ ⟦S05⟧ ཡན་ལག",
+        "base_span": "U00344: དྲིས་ལན་གཉིས་པ།",
+        "category": "Smaller inline component",
+        "neighboring_context": "Between the conclusion of U00343 and the opening of U00345.",
+        "approximate_native_bounds": [
+          1580,
+          110,
+          1840,
+          184
+        ],
+        "confidence": {
+          "location": "high",
+          "lexical": "medium",
+          "layer": "high",
+          "punctuation": "medium"
+        },
+        "rationale": "Its smaller lettering is physically interleaved with the row; it is recorded separately from the main-sized verses."
+      },
+      "coordinator_disposition": "Preserve as a scoped source-layer, graphic or inspected-uncertainty apparatus record, not automatically a confirmed lexical variant."
+    },
+    "source_layer_reference_ids": []
+  },
+  {
+    "id": "DG-CONT2-B06-O03",
+    "witness": "Degé",
+    "units": [
+      "U00350"
+    ],
+    "base_snippet_at_review": "རྟོགས་པར་བྱ་ཕྱིར་རྣམ་བཤད་པའོ",
+    "comparison_reading": "རྟོགས་པར་བྱ་ཕྱིར་རྣམ་⟦Q01⟧བཤད་པ⟦Q02⟧",
+    "status": "bounded_component_uncertainty",
+    "confidence": "{\"location\": \"high\", \"lexical_flanks\": \"medium\", \"questioned_glyphs\": \"low\"}",
+    "locator": "PDF 8; source-member and native bounds in linked packet; bounds: [1090, 168, 1480, 245]",
+    "rationale": "The visible middle cannot safely be reduced to the base wording or asserted to contain an additional པར་; the terminal marks after པ also remain unresolved. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This is a scoped Degé source-layer, physical-graphic or inspected-uncertainty observation, not automatic witness agreement or a reconstructed missing word.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B06-P0008/p008-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B06-P0008/p008-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B06-P0008/p008-x1479-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B06-P0008-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B06-P0008",
+      "baseline_commit": "4ab9731cb10075c22ffc809ca7a5398b65bed764",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B06-P0008-reader-reading.txt",
+        "sha256": "6de25a98b1419368445351f9e183b42496c97b073512fd6aa8c98bdc53893025"
+      },
+      "observation": {
+        "id": "B06-O03",
+        "anchors": [
+          "U00350"
+        ],
+        "source_span": "རྟོགས་པར་བྱ་ཕྱིར་རྣམ་⟦Q01⟧བཤད་པ⟦Q02⟧",
+        "base_span": "རྟོགས་པར་བྱ་ཕྱིར་རྣམ་བཤད་པའོ",
+        "category": "Unresolved internal group and ending; no addition adopted",
+        "neighboring_context": "Left unit ends བློ་རྣམས་ཀྱི; right unit begins གཞུང་ལ་རྣམ་པ.",
+        "approximate_native_bounds": [
+          1090,
+          168,
+          1480,
+          245
+        ],
+        "confidence": {
+          "location": "high",
+          "lexical_flanks": "medium",
+          "questioned_glyphs": "low"
+        },
+        "rationale": "The visible middle cannot safely be reduced to the base wording or asserted to contain an additional པར་; the terminal marks after པ also remain unresolved."
+      },
+      "coordinator_scope": "The coordinator inspected the target native color overview and both overlapping native columns for all seven rows, source correspondence, compact source layers and named ink/contrast limitations. The independent readings are kept within their stated component-level confidence; no all-letter agreement is implied.",
+      "original_observation": {
+        "id": "B06-O03",
+        "anchors": [
+          "U00350"
+        ],
+        "source_span": "རྟོགས་པར་བྱ་ཕྱིར་རྣམ་⟦Q01⟧བཤད་པ⟦Q02⟧",
+        "base_span": "རྟོགས་པར་བྱ་ཕྱིར་རྣམ་བཤད་པའོ",
+        "category": "Unresolved internal group and ending; no addition adopted",
+        "neighboring_context": "Left unit ends བློ་རྣམས་ཀྱི; right unit begins གཞུང་ལ་རྣམ་པ.",
+        "approximate_native_bounds": [
+          1090,
+          168,
+          1480,
+          245
+        ],
+        "confidence": {
+          "location": "high",
+          "lexical_flanks": "medium",
+          "questioned_glyphs": "low"
+        },
+        "rationale": "The visible middle cannot safely be reduced to the base wording or asserted to contain an additional པར་; the terminal marks after པ also remain unresolved."
+      },
+      "coordinator_disposition": "Do not infer extra par at U00350 or complete its terminal suffix from the base; both questioned components remain unresolved."
+    },
+    "source_layer_reference_ids": []
+  },
+  {
+    "id": "DG-CONT2-B06-O04",
+    "witness": "Degé",
+    "units": [
+      "U00371",
+      "U00372"
+    ],
+    "base_snippet_at_review": "U00372: སྣ་ཚོགས་སྤྲོས་པ་དོན་ཡིན་ནོ",
+    "comparison_reading": "མོས་དོན་དུ ⟦S32⟧ ⟦Q03⟧སྤྲོས་པ་དོན་ཡིན་ནོ",
+    "status": "bounded_component_uncertainty",
+    "confidence": "{\"location\": \"high\", \"readable_remainder\": \"medium\", \"obscured_opening\": \"low\"}",
+    "locator": "PDF 8; source-member and native bounds in linked packet; bounds: [1700, 312, 1995, 393]",
+    "rationale": "Dark ink affects the opening group. The base's སྣ་ཚོགས is not supplied as an observed reading. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This is a scoped Degé source-layer, physical-graphic or inspected-uncertainty observation, not automatic witness agreement or a reconstructed missing word.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B06-P0008/p008-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B06-P0008/p008-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B06-P0008/p008-x1479-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B06-P0008-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B06-P0008",
+      "baseline_commit": "4ab9731cb10075c22ffc809ca7a5398b65bed764",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B06-P0008-reader-reading.txt",
+        "sha256": "6de25a98b1419368445351f9e183b42496c97b073512fd6aa8c98bdc53893025"
+      },
+      "observation": {
+        "id": "B06-O04",
+        "anchors": [
+          "U00371",
+          "U00372"
+        ],
+        "source_span": "མོས་དོན་དུ ⟦S32⟧ ⟦Q03⟧སྤྲོས་པ་དོན་ཡིན་ནོ",
+        "base_span": "U00372: སྣ་ཚོགས་སྤྲོས་པ་དོན་ཡིན་ནོ",
+        "category": "Ink-obscured opening",
+        "neighboring_context": "The preceding unit and the remainder beginning སྤྲོས་པ remain readable.",
+        "approximate_native_bounds": [
+          1700,
+          312,
+          1995,
+          393
+        ],
+        "confidence": {
+          "location": "high",
+          "readable_remainder": "medium",
+          "obscured_opening": "low"
+        },
+        "rationale": "Dark ink affects the opening group. The base's སྣ་ཚོགས is not supplied as an observed reading."
+      },
+      "coordinator_scope": "The coordinator inspected the target native color overview and both overlapping native columns for all seven rows, source correspondence, compact source layers and named ink/contrast limitations. The independent readings are kept within their stated component-level confidence; no all-letter agreement is implied.",
+      "original_observation": {
+        "id": "B06-O04",
+        "anchors": [
+          "U00371",
+          "U00372"
+        ],
+        "source_span": "མོས་དོན་དུ ⟦S32⟧ ⟦Q03⟧སྤྲོས་པ་དོན་ཡིན་ནོ",
+        "base_span": "U00372: སྣ་ཚོགས་སྤྲོས་པ་དོན་ཡིན་ནོ",
+        "category": "Ink-obscured opening",
+        "neighboring_context": "The preceding unit and the remainder beginning སྤྲོས་པ remain readable.",
+        "approximate_native_bounds": [
+          1700,
+          312,
+          1995,
+          393
+        ],
+        "confidence": {
+          "location": "high",
+          "readable_remainder": "medium",
+          "obscured_opening": "low"
+        },
+        "rationale": "Dark ink affects the opening group. The base's སྣ་ཚོགས is not supplied as an observed reading."
+      },
+      "coordinator_disposition": "Preserve as a scoped source-layer, graphic or inspected-uncertainty apparatus record, not automatically a confirmed lexical variant."
+    },
+    "source_layer_reference_ids": []
+  },
+  {
+    "id": "DG-CONT2-B06-O05",
+    "witness": "Degé",
+    "units": [
+      "U00372",
+      "U00373",
+      "U00374"
+    ],
+    "base_snippet_at_review": "U00373: དྲིས་ལན་གསུམ་པའོ། །",
+    "comparison_reading": "ཡིན་ནོ ⟦S33⟧ དྲིས་ལན་གསུམ་པ⟦Q04⟧ ⟦S34⟧ ཨེ་མ",
+    "status": "bounded_component_uncertainty",
+    "confidence": "{\"location\": \"high\", \"readable_words\": \"medium\", \"ending\": \"low\", \"layer\": \"high\"}",
+    "locator": "PDF 8; source-member and native bounds in linked packet; bounds: [1960, 306, 2225, 378]",
+    "rationale": "Small writing is visibly present; its final suffix and possible small terminal stroke are not borrowed from the base. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This is a scoped Degé source-layer, physical-graphic or inspected-uncertainty observation, not automatic witness agreement or a reconstructed missing word.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B06-P0008/p008-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B06-P0008/p008-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B06-P0008/p008-x1479-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B06-P0008-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B06-P0008",
+      "baseline_commit": "4ab9731cb10075c22ffc809ca7a5398b65bed764",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B06-P0008-reader-reading.txt",
+        "sha256": "6de25a98b1419368445351f9e183b42496c97b073512fd6aa8c98bdc53893025"
+      },
+      "observation": {
+        "id": "B06-O05",
+        "anchors": [
+          "U00372",
+          "U00373",
+          "U00374"
+        ],
+        "source_span": "ཡིན་ནོ ⟦S33⟧ དྲིས་ལན་གསུམ་པ⟦Q04⟧ ⟦S34⟧ ཨེ་མ",
+        "base_span": "U00373: དྲིས་ལན་གསུམ་པའོ། །",
+        "category": "Smaller inline component with unresolved ending",
+        "neighboring_context": "Between U00372 and U00374.",
+        "approximate_native_bounds": [
+          1960,
+          306,
+          2225,
+          378
+        ],
+        "confidence": {
+          "location": "high",
+          "readable_words": "medium",
+          "ending": "low",
+          "layer": "high"
+        },
+        "rationale": "Small writing is visibly present; its final suffix and possible small terminal stroke are not borrowed from the base."
+      },
+      "coordinator_scope": "The coordinator inspected the target native color overview and both overlapping native columns for all seven rows, source correspondence, compact source layers and named ink/contrast limitations. The independent readings are kept within their stated component-level confidence; no all-letter agreement is implied.",
+      "original_observation": {
+        "id": "B06-O05",
+        "anchors": [
+          "U00372",
+          "U00373",
+          "U00374"
+        ],
+        "source_span": "ཡིན་ནོ ⟦S33⟧ དྲིས་ལན་གསུམ་པ⟦Q04⟧ ⟦S34⟧ ཨེ་མ",
+        "base_span": "U00373: དྲིས་ལན་གསུམ་པའོ། །",
+        "category": "Smaller inline component with unresolved ending",
+        "neighboring_context": "Between U00372 and U00374.",
+        "approximate_native_bounds": [
+          1960,
+          306,
+          2225,
+          378
+        ],
+        "confidence": {
+          "location": "high",
+          "readable_words": "medium",
+          "ending": "low",
+          "layer": "high"
+        },
+        "rationale": "Small writing is visibly present; its final suffix and possible small terminal stroke are not borrowed from the base."
+      },
+      "coordinator_disposition": "Preserve as a scoped source-layer, graphic or inspected-uncertainty apparatus record, not automatically a confirmed lexical variant."
+    },
+    "source_layer_reference_ids": []
+  },
+  {
+    "id": "DG-CONT2-B06-O06",
+    "witness": "Degé",
+    "units": [
+      "U00379",
+      "U00380"
+    ],
+    "base_snippet_at_review": "U00379 ends ལམ་བྱས་ཏེ། །; U00380 begins ཁམས་གསུམ.",
+    "comparison_reading": "ཆོས་ཉིད་མངོན་སུམ་ལམ་བྱས་⟦Q05⟧⟦S40⟧ཁམས་གསུམ",
+    "status": "bounded_component_uncertainty",
+    "confidence": "{\"location\": \"high\", \"flanks\": \"medium\", \"terminal_syllable\": \"low\", \"sign_count\": \"low\"}",
+    "locator": "PDF 8; source-member and native bounds in linked packet; bounds: [1625, 359, 1795, 437]",
+    "rationale": "The darkened cluster does not support a secure reading of the final syllable or a complete separation of the neighboring strokes. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This is a scoped Degé source-layer, physical-graphic or inspected-uncertainty observation, not automatic witness agreement or a reconstructed missing word.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B06-P0008/p008-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B06-P0008/p008-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B06-P0008/p008-x1479-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B06-P0008-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B06-P0008",
+      "baseline_commit": "4ab9731cb10075c22ffc809ca7a5398b65bed764",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B06-P0008-reader-reading.txt",
+        "sha256": "6de25a98b1419368445351f9e183b42496c97b073512fd6aa8c98bdc53893025"
+      },
+      "observation": {
+        "id": "B06-O06",
+        "anchors": [
+          "U00379",
+          "U00380"
+        ],
+        "source_span": "ཆོས་ཉིད་མངོན་སུམ་ལམ་བྱས་⟦Q05⟧⟦S40⟧ཁམས་གསུམ",
+        "base_span": "U00379 ends ལམ་བྱས་ཏེ། །; U00380 begins ཁམས་གསུམ.",
+        "category": "Dark-ink obstruction affecting a terminal syllable and boundary",
+        "neighboring_context": "Readable left flank ལམ་བྱས་; readable right flank ཁམས་གསུམ.",
+        "approximate_native_bounds": [
+          1625,
+          359,
+          1795,
+          437
+        ],
+        "confidence": {
+          "location": "high",
+          "flanks": "medium",
+          "terminal_syllable": "low",
+          "sign_count": "low"
+        },
+        "rationale": "The darkened cluster does not support a secure reading of the final syllable or a complete separation of the neighboring strokes."
+      },
+      "coordinator_scope": "The coordinator inspected the target native color overview and both overlapping native columns for all seven rows, source correspondence, compact source layers and named ink/contrast limitations. The independent readings are kept within their stated component-level confidence; no all-letter agreement is implied.",
+      "original_observation": {
+        "id": "B06-O06",
+        "anchors": [
+          "U00379",
+          "U00380"
+        ],
+        "source_span": "ཆོས་ཉིད་མངོན་སུམ་ལམ་བྱས་⟦Q05⟧⟦S40⟧ཁམས་གསུམ",
+        "base_span": "U00379 ends ལམ་བྱས་ཏེ། །; U00380 begins ཁམས་གསུམ.",
+        "category": "Dark-ink obstruction affecting a terminal syllable and boundary",
+        "neighboring_context": "Readable left flank ལམ་བྱས་; readable right flank ཁམས་གསུམ.",
+        "approximate_native_bounds": [
+          1625,
+          359,
+          1795,
+          437
+        ],
+        "confidence": {
+          "location": "high",
+          "flanks": "medium",
+          "terminal_syllable": "low",
+          "sign_count": "low"
+        },
+        "rationale": "The darkened cluster does not support a secure reading of the final syllable or a complete separation of the neighboring strokes."
+      },
+      "coordinator_disposition": "Preserve as a scoped source-layer, graphic or inspected-uncertainty apparatus record, not automatically a confirmed lexical variant."
+    },
+    "source_layer_reference_ids": []
+  },
+  {
+    "id": "DG-CONT2-B06-O07",
+    "witness": "Degé",
+    "units": [
+      "U00387"
+    ],
+    "base_snippet_at_review": "འབྲལ་བ་མེད་པར་ཡོངས་རྟོགས་ན",
+    "comparison_reading": "འབྲལ་བ་མེད་པ⟦Q06⟧་ཡོངས་རྟོགས་ན",
+    "status": "bounded_component_uncertainty",
+    "confidence": "{\"location\": \"high\", \"flanks\": \"medium\", \"suffix\": \"low\"}",
+    "locator": "PDF 8; source-member and native bounds in linked packet; bounds: [1710, 414, 2090, 480]",
+    "rationale": "I cannot securely distinguish a final ར from the faint adjacent strokes; neither its presence nor its absence is established. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. This is a scoped Degé source-layer, physical-graphic or inspected-uncertainty observation, not automatic witness agreement or a reconstructed missing word.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DEGE/B06-P0008/p008-native.jpg",
+      "evidence/chapter-01/continuation/C1-DEGE/B06-P0008/p008-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DEGE/B06-P0008/p008-x1479-y0000.png",
+      "reviews/chapter-01/continuation/C1-DEGE-B06-P0008-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DEGE.md",
+    "continuation_provenance": {
+      "batch_id": "B06-P0008",
+      "baseline_commit": "4ab9731cb10075c22ffc809ca7a5398b65bed764",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B06-P0008-reader-reading.txt",
+        "sha256": "6de25a98b1419368445351f9e183b42496c97b073512fd6aa8c98bdc53893025"
+      },
+      "observation": {
+        "id": "B06-O07",
+        "anchors": [
+          "U00387"
+        ],
+        "source_span": "འབྲལ་བ་མེད་པ⟦Q06⟧་ཡོངས་རྟོགས་ན",
+        "base_span": "འབྲལ་བ་མེད་པར་ཡོངས་རྟོགས་ན",
+        "category": "Unresolved suffix; no local absence adopted",
+        "neighboring_context": "Between readable མེད་པ and ཡོངས་རྟོགས་ན.",
+        "approximate_native_bounds": [
+          1710,
+          414,
+          2090,
+          480
+        ],
+        "confidence": {
+          "location": "high",
+          "flanks": "medium",
+          "suffix": "low"
+        },
+        "rationale": "I cannot securely distinguish a final ར from the faint adjacent strokes; neither its presence nor its absence is established."
+      },
+      "coordinator_scope": "The coordinator inspected the target native color overview and both overlapping native columns for all seven rows, source correspondence, compact source layers and named ink/contrast limitations. The independent readings are kept within their stated component-level confidence; no all-letter agreement is implied.",
+      "original_observation": {
+        "id": "B06-O07",
+        "anchors": [
+          "U00387"
+        ],
+        "source_span": "འབྲལ་བ་མེད་པ⟦Q06⟧་ཡོངས་རྟོགས་ན",
+        "base_span": "འབྲལ་བ་མེད་པར་ཡོངས་རྟོགས་ན",
+        "category": "Unresolved suffix; no local absence adopted",
+        "neighboring_context": "Between readable མེད་པ and ཡོངས་རྟོགས་ན.",
+        "approximate_native_bounds": [
+          1710,
+          414,
+          2090,
+          480
+        ],
+        "confidence": {
+          "location": "high",
+          "flanks": "medium",
+          "suffix": "low"
+        },
+        "rationale": "I cannot securely distinguish a final ར from the faint adjacent strokes; neither its presence nor its absence is established."
+      },
+      "coordinator_disposition": "Preserve as a scoped source-layer, graphic or inspected-uncertainty apparatus record, not automatically a confirmed lexical variant."
+    },
+    "source_layer_reference_ids": []
   }
 ]
