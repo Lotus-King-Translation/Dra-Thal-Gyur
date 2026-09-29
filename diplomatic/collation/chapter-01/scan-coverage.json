@@ -6033,6 +6033,289 @@
       },
       "next_physical_span": "Finish the remaining Dzongsar physical signs, annotation, title and foreign-script scopes in bounded source-page batches. Retain Q22-L, Q27-R, Q35-L and Q35-R instead of repeating these same crops without new evidence.",
       "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-BASE-PHYSICAL",
+      "batch_id": "B07-P0008",
+      "target_pages": [
+        8
+      ],
+      "report": "reviews/chapter-01/continuation/C1-BASE-PHYSICAL.json",
+      "summary": "Adzom PDF8: six main rows and all non-main regions integrated, from U00128 through U00153 opening. Existing U00136 single-shad reading retained; source order and marginal material recorded, with exact header/terminal uncertainties preserved.",
+      "rows_reported": 6,
+      "canonical_record_ids": [],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "target_overview_inspected_before_crops": true,
+        "target_physical_rows_inspected": 6,
+        "target_physical_rows_total": 6,
+        "all_target_non_main_regions_inspected": true,
+        "unexamined_target_spans": 0,
+        "complete_boundary_intervals_inventoried": 25,
+        "provisional_free_delimiter_body_count": 49,
+        "special_joined_component": "Terminal ག upright in ཚིག at B136: one joined letter limb plus one free delimiter body.",
+        "separate_source_annotations_identified": 0,
+        "unaligned_material": "Marginal title and folio graphic, marginal separators, mechanical stamp, frame and exterior traces; unresolved row-end clusters remain separately inventoried.",
+        "completion": "Full-page inspection completed; exact graphic segmentation remains provisional at the listed bounded loci. The 49-body count is not a certified total of punctuation components.",
+        "lexical_pass": "No replacement of the existing lexical pass is proposed. Transcriptions provide physical alignment and retain the explicitly uncertain final suffix.",
+        "certification": "No whole-chapter, blind-review or human palaeographic certification."
+      },
+      "unread_after_inspection": [
+        {
+          "id": "P8-Q-FOLIO",
+          "region": "P8-NM01",
+          "scope": "Single angular hooked folio glyph, approximately [550,335,625,425].",
+          "question": "Its numeral value is not securely identified."
+        },
+        {
+          "id": "P8-Q-E1",
+          "region": "E1",
+          "scope": "Immediately after row-1 དེ.",
+          "question": "Whether a separate terminal syllable dot is present."
+        },
+        {
+          "id": "P8-Q-E2",
+          "region": "E2",
+          "scope": "Final ན roof and adjacent short upper marks after ཡིན.",
+          "question": "Exact separation of letter-head strokes, tsheg and any extra filler marks."
+        },
+        {
+          "id": "P8-Q-E3",
+          "region": "E3",
+          "scope": "Final ང roof and adjacent short upper marks after དང.",
+          "question": "One versus two short graphic components and their ownership."
+        },
+        {
+          "id": "P8-Q-E4",
+          "region": "E4",
+          "scope": "Final portion of དབྱངས and immediately adjoining upper ticks.",
+          "question": "Exact detached-mark count versus letter components."
+        },
+        {
+          "id": "P8-Q-E5",
+          "region": "E5",
+          "scope": "Terminal ག roof/shaft in དྲུག and adjacent upper ticks.",
+          "question": "Exact detached-mark count; roof-connected parts must not become extra punctuation."
+        },
+        {
+          "id": "P8-Q-E6",
+          "region": "E6",
+          "scope": "Final row's སོ་སོ and faint following suffix at the right frame.",
+          "question": "The འི suffix is tentative; presence of a following separate dot remains unresolved."
+        },
+        {
+          "id": "P8-Q-H151",
+          "region": "P8-B151",
+          "scope": "Upper portions of TU.a and TU.b between མའོ and དེ.",
+          "question": "Exact tier-component counts and intentional compound design versus interrupted printing."
+        },
+        {
+          "id": "P8-Q-H152",
+          "region": "P8-B152",
+          "scope": "Upper portions of TU.a and TU.b between ན and སོ.",
+          "question": "Exact tier-component counts and intentional compound design versus interrupted printing."
+        }
+      ],
+      "unexamined_spans": [],
+      "next_physical_span": "Proceed to the saved PDF9 review; retain PDF8 folio glyph, terminal heads and row-end separator questions. No lexical pass is restarted.",
+      "reader_claims_require_coordinator_dispositions": true,
+      "target_page": 8
+    },
+    {
+      "task_id": "C1-BASE-PHYSICAL",
+      "batch_id": "B08-P0009",
+      "target_pages": [
+        9
+      ],
+      "report": "reviews/chapter-01/continuation/C1-BASE-PHYSICAL.json",
+      "summary": "Adzom PDF9: all six rows, twenty-five verse-boundary intervals, opening ornament and marginal/filler regions integrated. U00156 terminal-count conflict and the named lexical/graphic questions remain visible.",
+      "rows_reported": 6,
+      "canonical_record_ids": [],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "target_rows_inspected": 6,
+        "target_rows_total": 6,
+        "non_main_regions_inspected": true,
+        "verse_boundary_intervals_inventoried": 25,
+        "row_and_page_continuations_explicit": true,
+        "source_annotations_identified_on_target": 0,
+        "unaligned_components": "Opening ornament/uprights, marginal labels, serial stamp, frame rules and terminal filler group are retained separately.",
+        "completion": "Full target-page visual traversal completed; exact-resolution inventory remains provisional at Q01–Q07 and at interval counts explicitly rated medium.",
+        "lexical_pass": "Existing lexical pass is not replaced; tentative source readings are not adopted corrections.",
+        "review_character": "Informed independent agent reading with the supplied base reference visible; neither blind review nor human palaeographic certification.",
+        "certification_scope": "No whole-chapter certification."
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q01",
+          "location": "R5, U00171 final syllable before B19",
+          "approx_native_bounds": [
+            2900,
+            780,
+            3035,
+            920
+          ],
+          "question": "Whether the final syllable includes a fully recoverable ར after པ; tentative པར retained without proposing a lexical correction."
+        },
+        {
+          "id": "Q02",
+          "location": "R6, U00174, second visible syllable after སྐུ",
+          "approx_native_bounds": [
+            820,
+            875,
+            1050,
+            1005
+          ],
+          "question": "Weak impression prevents confident resolution of every internal stroke of tentative བརྡལ, particularly the stacked component."
+        },
+        {
+          "id": "Q03",
+          "location": "B24, mark immediately after ཏེ",
+          "approx_native_bounds": [
+            3510,
+            885,
+            3585,
+            1015
+          ],
+          "question": "Exact number and connectivity of the short lateral tiers; T1 is visibly more complex than a plain upright."
+        },
+        {
+          "id": "Q04",
+          "location": "N02, first two marginal groups",
+          "approx_native_bounds": [
+            585,
+            235,
+            690,
+            595
+          ],
+          "question": "Tentative ཀ and ལྔ remain unconfirmed; no folio number is certified from them."
+        },
+        {
+          "id": "Q05",
+          "location": "C01, R2 far-right terminal separator",
+          "approx_native_bounds": [
+            4960,
+            390,
+            5035,
+            480
+          ],
+          "question": "Presence and independence of a terminal upper dot."
+        },
+        {
+          "id": "Q06",
+          "location": "C03, R4 far-right three-mark group",
+          "approx_native_bounds": [
+            4900,
+            685,
+            5035,
+            755
+          ],
+          "question": "Which of the three small marks is an ordinary syllable separator and which are spacing fillers."
+        },
+        {
+          "id": "Q07",
+          "location": "C04, R5 far-right terminal separator",
+          "approx_native_bounds": [
+            4970,
+            775,
+            5035,
+            855
+          ],
+          "question": "Whether the small terminal upper mark can be isolated confidently from the letter and adjacent frame."
+        }
+      ],
+      "unexamined_spans": [],
+      "next_physical_span": "Integrate the saved PDF10 review; then adjudicate the bounded U00156 terminal conflict without repeating the other PDF9 intervals.",
+      "reader_claims_require_coordinator_dispositions": true,
+      "target_page": 9
+    },
+    {
+      "task_id": "C1-BASE-PHYSICAL",
+      "batch_id": "B09-P0010",
+      "target_pages": [
+        10
+      ],
+      "report": "reviews/chapter-01/continuation/C1-BASE-PHYSICAL.json",
+      "summary": "Adzom PDF10: all six rows, twenty-four main intervals, three smaller annotations and one dotted guide integrated with their exact physical order. The main lexical pass is retained but named local reading conflicts remain explicit.",
+      "rows_reported": 6,
+      "canonical_record_ids": [],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "target_overview_read_before_crops": true,
+        "all_six_main_rows_followed_left_to_right": true,
+        "all_target_non_main_regions_inspected": true,
+        "main_boundary_intervals_inventoried": 24,
+        "smaller_text_annotations_inventoried": 3,
+        "dotted_guides_inventoried": 1,
+        "inspection_scope_complete": true,
+        "fully_resolved_physical_component_inventory": false,
+        "remaining_limits": "Near-da joining, exact capped-sign tier counts, dotted-guide count, specified dot ownership and bounded glyph questions remain unresolved. The provisional counts should not be promoted to certified punctuation.",
+        "existing_lexical_pass_replaced": false,
+        "review_character": "Informed independent agent reading of the supplied images; neither blind review nor human palaeographic certification.",
+        "whole_chapter_certification": false
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q01",
+          "location": "B01/B02/B11",
+          "question": "Does each near-initial-དེ upright remain detached, or join the da head/body?",
+          "bounded_scope": "One upright at each of three explicitly inventoried intervals.",
+          "effect": "Two candidates recorded at each; detached total remains one or two."
+        },
+        {
+          "id": "Q02",
+          "location": "All K-coded graphs",
+          "question": "Exact upper-tier and ink-component counts.",
+          "bounded_scope": "The capped near-next upright in each listed boundary, excluding letter-owned J.",
+          "effect": "Substantial graph counts are reported; a finished component-level classification of every cap is not claimed."
+        },
+        {
+          "id": "Q03",
+          "location": "N1 and P10-O26",
+          "question": "Reading of the small ཞུ candidate and localization of any separate main-size པ.",
+          "bounded_scope": "N1's small word after སྡུད་པ་པོ and the དམ–ཉིད junction.",
+          "effect": "No unseen main པ supplied."
+        },
+        {
+          "id": "Q04",
+          "location": "D1",
+          "question": "Exact individual block/dot count and intended attachment.",
+          "bounded_scope": "The vertical dotted column and its leftward elbow, approximately [1200,695,1510,880].",
+          "effect": "One guide path recorded; no invented exact dot total."
+        },
+        {
+          "id": "Q05",
+          "location": "F3/F5",
+          "question": "Dot segmentation and lexical-tsheg versus continuation-filler ownership.",
+          "bounded_scope": "Immediately after R3 བའི and R5 ནི.",
+          "effect": "Candidate physical counts retained without semantic normalization."
+        },
+        {
+          "id": "Q06",
+          "location": "P10-M1",
+          "question": "Exact folio-like angular glyph and first stacked syllable of the short title.",
+          "bounded_scope": "Left marginal strip only.",
+          "effect": "Tentative ༥ and སྒྲ retained as readings, not certified identifiers."
+        },
+        {
+          "id": "Q07",
+          "location": "P10-M3",
+          "question": "Whether faint traces in the upper-right compartment contain any lettering.",
+          "bounded_scope": "Small upper-right frame compartment.",
+          "effect": "No lexical transcription asserted."
+        },
+        {
+          "id": "Q08",
+          "location": "P10-O29",
+          "question": "Possible ས after འཇིག.",
+          "bounded_scope": "One candidate suffix in R5.",
+          "effect": "Existing lexical reading is not changed."
+        }
+      ],
+      "unexamined_spans": [],
+      "next_physical_span": "Continue saved Adzom PDF11–13 reports. Adjudicate U00156/PDF9 and U00179/U00184/U00197/PDF10 in one bounded packet; retain N1-letter, capped-sign and dotted-guide questions.",
+      "reader_claims_require_coordinator_dispositions": true,
+      "target_page": 10
     }
   ]
 }

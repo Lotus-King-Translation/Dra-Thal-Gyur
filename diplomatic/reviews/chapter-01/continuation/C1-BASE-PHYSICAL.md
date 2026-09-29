@@ -134,3 +134,39 @@ The [targeted reader](C1-BASE-PHYSICAL-B03-P0004-target-adjudication-20260929-re
 At U00045 the existing spelling is retained without inserting an internal tsheg. The source crop and targeted component description show no distinct dot in the prefix/root gap. The supplemental reader's literal `གཅིག་` label is rejected: it is not an accepted replacement of the intended gzigs context. The component observation and erroneous lexical label are not conflated.
 
 The chapter now visibly links the three PDF4 questions and the named PDF6–7 graphic/damaged-stack questions. This is two uncertainty records, not two adopted corrections. All Tibetan reading strings remain unchanged by this group. The page7 rejection of all 22 proposed shad deletions remains governing.
+
+## B07-P0008 — preserved review integrated
+
+Adzom PDF8: six main rows and all non-main regions integrated, from U00128 through U00153 opening. Existing U00136 single-shad reading retained; source order and marginal material recorded, with exact header/terminal uncertainties preserved.
+
+[Unchanged raw report](C1-BASE-PHYSICAL-B07-P0008-reader-reading.txt) · [Exact source and rows](C1-BASE-PHYSICAL.json).
+
+Twenty-five intervals inventoried; the reported49 free bodies are provisional, not a punctuation-certification total. U00151/U00152 tiered terminal heads and U00153 faint suffix remain qualified. The coordinator also inspected the rotated marginal label: bcu-bdun-rgyud is compatible with the visible letters; the separate angular folio glyph is not assigned a numeral. Integration-stage clarification: no new reading-text patch or uncertainty intervention is made here. All candidates remain explicitly pending in this active physical ledger, including the draft proposals; the draft promise of a later visible marker is not treated as an already executed change.
+
+**Remaining:** Proceed to the saved PDF9 review; retain PDF8 folio glyph, terminal heads and row-end separator questions. No lexical pass is restarted.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.
+
+## B08-P0009 — preserved review integrated
+
+Adzom PDF9: all six rows, twenty-five verse-boundary intervals, opening ornament and marginal/filler regions integrated. U00156 terminal-count conflict and the named lexical/graphic questions remain visible.
+
+[Unchanged raw report](C1-BASE-PHYSICAL-B08-P0009-reader-reading.txt) · [Exact source and rows](C1-BASE-PHYSICAL.json).
+
+Twenty-five verse intervals are retained. B04 is explicitly carried as a supported one-versus-two scaffold conflict, not silently marked agreement. U00171 terminal ra, U00174 stack and U00176 tiered sign remain bounded. Fillers and lexical tshegs are inventoried separately. Integration-stage clarification: no new reading-text patch or uncertainty intervention is made here. All candidates remain explicitly pending in this active physical ledger, including the draft proposals; the draft promise of a later visible marker is not treated as an already executed change.
+
+**Remaining:** Integrate the saved PDF10 review; then adjudicate the bounded U00156 terminal conflict without repeating the other PDF9 intervals.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.
+
+## B09-P0010 — preserved review integrated
+
+Adzom PDF10: all six rows, twenty-four main intervals, three smaller annotations and one dotted guide integrated with their exact physical order. The main lexical pass is retained but named local reading conflicts remain explicit.
+
+[Unchanged raw report](C1-BASE-PHYSICAL-B09-P0010-reader-reading.txt) · [Exact source and rows](C1-BASE-PHYSICAL.json).
+
+The three smaller notes are recorded at their physical positions, not relocated into main verses. B13 preserves one free upright plus final-ga letter structure. U00179 do-presence, U00184 main pa allocation, N1 small zhu and U00197 suffix require their specific next check. The rebuilt edition will visibly flag these unchanged scaffold readings. Integration-stage clarification: no new reading-text patch or uncertainty intervention is made here. All candidates remain explicitly pending in this active physical ledger, including the draft proposals; the draft promise of a later visible marker is not treated as an already executed change.
+
+**Remaining:** Continue saved Adzom PDF11–13 reports. Adjudicate U00156/PDF9 and U00179/U00184/U00197/PDF10 in one bounded packet; retain N1-letter, capped-sign and dotted-guide questions.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.

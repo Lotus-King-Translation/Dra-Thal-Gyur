@@ -1,0 +1,30 @@
+{
+  "reports": {
+    "8": {
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B07-P0008-reader-reading.txt",
+      "sha256": "0463ddf9c1b1d16c3d86749862c2c8abbd8d3386a08aff2f6311ad8cf9cdfd3c",
+      "images_hash_verified": 27,
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B07-P0008-reader-execution.json"
+    },
+    "9": {
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B08-P0009-reader-reading.txt",
+      "sha256": "2103886475087c54aca2cf725194a7a5f829acf95c2d73924d954eea72b7bc3e",
+      "images_hash_verified": 27,
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B08-P0009-reader-execution.json"
+    },
+    "10": {
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B09-P0010-reader-reading.txt",
+      "sha256": "4e292573e4062c532b3d4a1508bd3283c95500adfd0046d3ce2cb88bcec9309b",
+      "images_hash_verified": 27,
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B09-P0010-reader-execution.json"
+    }
+  },
+  "protected_authored_and_reading_hashes": {
+    "reading-units.json": "368cca89dd722a7e20ab464ffe8e726dc9926bb3a846f5b2651e80e20bcf24f7",
+    "ch1-scan-insertions.json": "cbcacb9197db0a4848879468875a70f5bc13dfe8c53bc60313e5b40dd73a53df",
+    "additional-interventions.json": "36bf99726d824040b9bd55a8247672f0bf957ce1f86a25e9a7e050235753c108",
+    "scan-comparison-loci.json": "8971477ad966e175496d5d9cae551f25b047a96c16cf05e5ea181fec4a346066"
+  },
+  "canonical_changes": [],
+  "chapter_complete": false
+}

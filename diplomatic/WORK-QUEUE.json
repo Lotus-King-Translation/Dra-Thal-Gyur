@@ -610,7 +610,7 @@
           "canonical_uncertainty_note": "SIGNS-VERIFIED-20260928-U01557"
         }
       ],
-      "current_batch_id": "B07-P0008",
+      "current_batch_id": "B10-P0011",
       "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate.",
       "current_batch_result": "Partial PDF1-5 physical ledger:13 specific boundary assessments, no newly completed full pages. Complete missing boundaries in one-page sub-batches.",
       "prior_owner_at_reassignment": "reader-base-physical-B01-20260928",
@@ -618,7 +618,7 @@
       "next_physical_span": "PDF4 full physical inventory and remaining page1/2/5 scopes; PDF3 has explicitly bounded remaining graphic questions, not unread whole rows.",
       "current_wave_id": "CONTINUE2-W03",
       "bounded_parallel_policy": "Each reader owns one target page and at most three source pages including context; coordinator alone publishes and no unfinished page is inferred complete from a neighbor.",
-      "next_step": "Integrate preserved PDF8-13 outputs in bounded groups; do not rerun completed PDF4-7 inspections. Retain their exact remaining glyph and encoding questions.",
+      "next_step": "Integrate the three preserved Adzom PDF11-13 reports; PDF8-10 physical ledgers are now integrated with their exact unresolved readings and unadopted scaffold conflicts. No fresh canonical punctuation or lexical substitution was made.",
       "integration_claim": {
         "pages": [
           8,
@@ -632,6 +632,17 @@
         ],
         "recovered_dispositions": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-CLOSE-INTEGRATION/adzom-008-010-decisions.json",
         "disposition": "Reuse preserved reports, retain exact local conflicts; no automatic correction or completion."
+      },
+      "last_integrated_batch_id": "B09-P0010",
+      "pending_canonical_questions_from_saved_draft": {
+        "report": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-CLOSE-INTEGRATION/adzom-008-010-decisions.json",
+        "anchors": [
+          "U00156",
+          "U00179",
+          "U00184",
+          "U00197"
+        ],
+        "disposition": "Explicit pending candidates; report integration does not change the reading text."
       }
     },
     {
