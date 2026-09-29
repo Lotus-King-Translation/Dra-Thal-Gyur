@@ -35,11 +35,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00005"></a>
 
-**U00005** གཾགརྦམཏགཱ རྒྱ་གར་སྐད་དུ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-TITLE-UNCERTAINTY](#scan-ch1-title-uncertainty) [L1-0001](#l1-0001) [DZ-OPEN-02](#dz-open-02) [GAD-COV1-B01-P2-O02](#gad-cov1-b01-p2-o02) [W-C01-002](reviews/chapter-01/wikisource.md#w-c01-002)
+**U00005** གཾགརྦམཏགཱ རྒྱ་གར་སྐད་དུ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-TITLE-UNCERTAINTY](#scan-ch1-title-uncertainty) [L1-0001](#l1-0001) [DZ-OPEN-02](#dz-open-02) [GAD-COV1-B01-P2-O02](#gad-cov1-b01-p2-o02) [ZH-COV1-B01-O01](#zh-cov1-b01-o01) [W-C01-002](reviews/chapter-01/wikisource.md#w-c01-002)
 
 <a id="u00006"></a>
 
-**U00006** རཏྣ་ཀ་ར་ཤབྡ་མ་ཧཱ་པྲ་སཾ་ག་ཏནྟྲ་ནཱ་མ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-TITLE-UNCERTAINTY](#scan-ch1-title-uncertainty) [L1-0001](#l1-0001) [DZ-OPEN-02](#dz-open-02) [GAD-COV1-B01-P2-O03](#gad-cov1-b01-p2-o03) [W-C01-002](reviews/chapter-01/wikisource.md#w-c01-002)
+**U00006** རཏྣ་ཀ་ར་ཤབྡ་མ་ཧཱ་པྲ་སཾ་ག་ཏནྟྲ་ནཱ་མ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-TITLE-UNCERTAINTY](#scan-ch1-title-uncertainty) [L1-0001](#l1-0001) [DZ-OPEN-02](#dz-open-02) [GAD-COV1-B01-P2-O03](#gad-cov1-b01-p2-o03) [ZH-COV1-B01-O02](#zh-cov1-b01-o02) [W-C01-002](reviews/chapter-01/wikisource.md#w-c01-002)
 
 <a id="u00007"></a>
 
@@ -65,7 +65,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00011"></a>
 
-**U00011** **[Source structural heading]** ཐུན་མོང་མ་ཡིན་པའི་གླེང་གཞི་བཀོད་པ། [L1-0002](#l1-0002) [TS-CH1-V001](#ts-ch1-v001) [TH-C1-0003](#th-c1-0003) [DZ-OPEN-03](#dz-open-03) [GAD-CH1-002](#gad-ch1-002) [W-C01-003](reviews/chapter-01/wikisource.md#w-c01-003)
+**U00011** **[Source structural heading]** ཐུན་མོང་མ་ཡིན་པའི་གླེང་གཞི་བཀོད་པ། [L1-0002](#l1-0002) [TS-CH1-V001](#ts-ch1-v001) [TH-C1-0003](#th-c1-0003) [DZ-OPEN-03](#dz-open-03) [GAD-CH1-002](#gad-ch1-002) [ZH-COV1-B01-O05](#zh-cov1-b01-o05) [W-C01-003](reviews/chapter-01/wikisource.md#w-c01-003)
 
 <a id="u00012"></a>
 
@@ -73,15 +73,15 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00013"></a>
 
-**U00013** འཁོར་དང་འདས་པའི་ཐོག་མར་ནི། ། [TK-001](#tk-001) [GAD-COV1-B01-SIGN-Q09](#gad-cov1-b01-sign-q09) [Tingkye/Degé scan variant](reviews/chapter-01/independent-openings.md#conflicts-that-can-be-reported-conservatively)
+**U00013** འཁོར་དང་འདས་པའི་ཐོག་མར་ནི། ། [TK-001](#tk-001) [GAD-COV1-B01-SIGN-Q09](#gad-cov1-b01-sign-q09) [ZH-COV1-B01-O04](#zh-cov1-b01-o04) [Tingkye/Degé scan variant](reviews/chapter-01/independent-openings.md#conflicts-that-can-be-reported-conservatively)
 
 <a id="u00014"></a>
 
-**U00014** རང་བྱུང་བྱས་པ་མེད་པ་ལས། ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-SIGN-00014-UNCERTAIN](#scan-ch1-sign-00014-uncertain) [TK-002](#tk-002) [GAD-COV1-B01-P2-O05](#gad-cov1-b01-p2-o05) [GAD-COV1-B01-SIGN-Q09](#gad-cov1-b01-sign-q09) [Tingkye/Degé scan variant](reviews/chapter-01/independent-openings.md#conflicts-that-can-be-reported-conservatively)
+**U00014** རང་བྱུང་བྱས་པ་མེད་པ་ལས། ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-SIGN-00014-UNCERTAIN](#scan-ch1-sign-00014-uncertain) [TK-002](#tk-002) [GAD-COV1-B01-P2-O05](#gad-cov1-b01-p2-o05) [GAD-COV1-B01-SIGN-Q09](#gad-cov1-b01-sign-q09) [ZH-COV1-B01-O04](#zh-cov1-b01-o04) [Tingkye/Degé scan variant](reviews/chapter-01/independent-openings.md#conflicts-that-can-be-reported-conservatively)
 
 <a id="u00015"></a>
 
-**U00015** འབྱུང་བ་འདུས་པའི་ཕུང་པོར་ཤར། །
+**U00015** འབྱུང་བ་འདུས་པའི་ཕུང་པོར་ཤར། ། [ZH-COV1-B01-O05](#zh-cov1-b01-o05)
 
 <a id="u00016"></a>
 
@@ -93,11 +93,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00018"></a>
 
-**U00018** འདུས་ཤིང་བསྐྱེད་པའི་གཞལ་མེད་ཁང་། ། [GAD-COV1-B01-SIGN-Q10](#gad-cov1-b01-sign-q10) [Comparison-scan second reading](reviews/chapter-01/second-dege-tingkye.md)
+**U00018** འདུས་ཤིང་བསྐྱེད་པའི་གཞལ་མེད་ཁང་། ། [GAD-COV1-B01-SIGN-Q10](#gad-cov1-b01-sign-q10) [ZH-COV1-B01-O08](#zh-cov1-b01-o08) [Comparison-scan second reading](reviews/chapter-01/second-dege-tingkye.md)
 
 <a id="u00019"></a>
 
-**U00019** རང་བྱུང་རིག་པས་བཅོས་པ་མེད། ། [TK-003](#tk-003) [GAD-CH1-004](#gad-ch1-004) [Comparison-scan second reading](reviews/chapter-01/second-dege-tingkye.md)
+**U00019** རང་བྱུང་རིག་པས་བཅོས་པ་མེད། ། [TK-003](#tk-003) [GAD-CH1-004](#gad-ch1-004) [ZH-COV1-B01-O08](#zh-cov1-b01-o08) [ZH-COV1-B01-O09](#zh-cov1-b01-o09) [Comparison-scan second reading](reviews/chapter-01/second-dege-tingkye.md)
 
 <a id="u00020"></a>
 
@@ -113,7 +113,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00023"></a>
 
-**U00023** མི་ཕྱེད་སྣ་ཚོགས་དམིགས་མེད་པས། ། [TK-005](#tk-005) [Tingkye/Degé scan variant](reviews/chapter-01/independent-openings.md#conflicts-that-can-be-reported-conservatively)
+**U00023** མི་ཕྱེད་སྣ་ཚོགས་དམིགས་མེད་པས། ། [TK-005](#tk-005) [ZH-COV1-B01-O10](#zh-cov1-b01-o10) [Tingkye/Degé scan variant](reviews/chapter-01/independent-openings.md#conflicts-that-can-be-reported-conservatively)
 
 <a id="u00024"></a>
 
@@ -125,27 +125,27 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00026"></a>
 
-**U00026** འདས་དང་མ་འོངས་ད་ལྟར་མེད། ། [Comparison-scan second reading](reviews/chapter-01/second-dege-tingkye.md)
+**U00026** འདས་དང་མ་འོངས་ད་ལྟར་མེད། ། [ZH-COV1-B01-O11](#zh-cov1-b01-o11) [Comparison-scan second reading](reviews/chapter-01/second-dege-tingkye.md)
 
 <a id="u00027"></a>
 
-**U00027** མི་ཕྱེད་འབྱེད་པ་ཡོངས་སུ་མེད། ། [TK-006](#tk-006) [Tingkye/Degé scan variant](reviews/chapter-01/independent-openings.md#conflicts-that-can-be-reported-conservatively)
+**U00027** མི་ཕྱེད་འབྱེད་པ་ཡོངས་སུ་མེད། ། [TK-006](#tk-006) [ZH-COV1-B01-O12](#zh-cov1-b01-o12) [ZH-COV1-B01-O13](#zh-cov1-b01-o13) [Tingkye/Degé scan variant](reviews/chapter-01/independent-openings.md#conflicts-that-can-be-reported-conservatively)
 
 <a id="u00028"></a>
 
-**U00028** ཐམས་ཅད་རང་བྱུང་ཡེ་ཤེས་སོ། །
+**U00028** ཐམས་ཅད་རང་བྱུང་ཡེ་ཤེས་སོ། ། [ZH-COV1-B01-O13](#zh-cov1-b01-o13)
 
 <a id="u00029"></a>
 
-**U00029** **[Source structural heading]** ཐུན་མོང་གི་གླེང་གཞི་བཀོད་པ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-PHYS-P004-UNCERTAINTIES](#scan-ch1-phys-p004-uncertainties) [L1-0005](#l1-0005) [TS-CH1-V002](#ts-ch1-v002) [DZ-OPEN-04](#dz-open-04) [GAD-CH1-003](#gad-ch1-003) [W-C01-004](reviews/chapter-01/wikisource.md#w-c01-004)
+**U00029** **[Source structural heading]** ཐུན་མོང་གི་གླེང་གཞི་བཀོད་པ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-PHYS-P004-UNCERTAINTIES](#scan-ch1-phys-p004-uncertainties) [L1-0005](#l1-0005) [TS-CH1-V002](#ts-ch1-v002) [DZ-OPEN-04](#dz-open-04) [GAD-CH1-003](#gad-ch1-003) [ZH-COV1-B01-O15](#zh-cov1-b01-o15) [W-C01-004](reviews/chapter-01/wikisource.md#w-c01-004)
 
 <a id="u00030"></a>
 
-**U00030** འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན། ། [SIGNS-VERIFIED-20260927-U00030](#signs-verified-20260927-u00030) [GAD-COV1-B01-SIGN-Q19](#gad-cov1-b01-sign-q19)
+**U00030** འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན། ། [SIGNS-VERIFIED-20260927-U00030](#signs-verified-20260927-u00030) [GAD-COV1-B01-SIGN-Q19](#gad-cov1-b01-sign-q19) [ZH-COV1-B01-O13](#zh-cov1-b01-o13)
 
 <a id="u00031"></a>
 
-**U00031** དགའ་དང་ལྡན་པ་བསོད་ནམས་བརྩེགས། ། [TK-007](#tk-007) [GAD-COV1-B01-P3-O03](#gad-cov1-b01-p3-o03) [GAD-COV1-B01-SIGN-Q19](#gad-cov1-b01-sign-q19)
+**U00031** དགའ་དང་ལྡན་པ་བསོད་ནམས་བརྩེགས། ། [TK-007](#tk-007) [GAD-COV1-B01-P3-O03](#gad-cov1-b01-p3-o03) [GAD-COV1-B01-SIGN-Q19](#gad-cov1-b01-sign-q19) [ZH-COV1-B01-O14](#zh-cov1-b01-o14)
 
 <a id="u00032"></a>
 
@@ -153,19 +153,19 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00033"></a>
 
-**U00033** ས་དང་ཆུ་དང་མེ་རླུང་གི། ། [GAD-COV1-B01-P3-O04](#gad-cov1-b01-p3-o04)
+**U00033** ས་དང་ཆུ་དང་མེ་རླུང་གི། ། [GAD-COV1-B01-P3-O04](#gad-cov1-b01-p3-o04) [ZH-COV1-B01-O15](#zh-cov1-b01-o15)
 
 <a id="u00034"></a>
 
-**U00034** འབྱུང་བ་ཆེན་པོ་བཞི་མི་སྣང་། །
+**U00034** འབྱུང་བ་ཆེན་པོ་བཞི་མི་སྣང་། ། [ZH-COV1-B01-O15](#zh-cov1-b01-o15)
 
 <a id="u00035"></a>
 
-**U00035** ཤ་ཁྲག་བཀོད་པའི་གཟུགས་མེད་པའི། ། [SIGNS-VERIFIED-20260927-U00035](#signs-verified-20260927-u00035) [L1-0006](#l1-0006)
+**U00035** ཤ་ཁྲག་བཀོད་པའི་གཟུགས་མེད་པའི། ། [SIGNS-VERIFIED-20260927-U00035](#signs-verified-20260927-u00035) [L1-0006](#l1-0006) [ZH-COV1-B01-O16](#zh-cov1-b01-o16)
 
 <a id="u00036"></a>
 
-**U00036** རང་སྣང་དག་པ་ཆེན་པོའི་ཡུལ། །
+**U00036** རང་སྣང་དག་པ་ཆེན་པོའི་ཡུལ། ། [ZH-COV1-B01-O16](#zh-cov1-b01-o16)
 
 <a id="u00037"></a>
 
@@ -173,15 +173,15 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00038"></a>
 
-**U00038** པདྨའི་ཟེའུ་འབྲུ་རྫོགས་པའི་གྲངས། ། [W-C01-005](reviews/chapter-01/wikisource.md#w-c01-005)
+**U00038** པདྨའི་ཟེའུ་འབྲུ་རྫོགས་པའི་གྲངས། ། [ZH-COV1-B01-O17](#zh-cov1-b01-o17) [W-C01-005](reviews/chapter-01/wikisource.md#w-c01-005)
 
 <a id="u00039"></a>
 
-**U00039** སྟོང་དང་ལྡན་པ་དབུས་མའི་གནས། ། [A2000-C01-C01](#a2000-c01-c01) [L1-0007](#l1-0007) [DZ-P004-01](#dz-p004-01) [W-C01-005](reviews/chapter-01/wikisource.md#w-c01-005)
+**U00039** སྟོང་དང་ལྡན་པ་དབུས་མའི་གནས། ། [A2000-C01-C01](#a2000-c01-c01) [L1-0007](#l1-0007) [DZ-P004-01](#dz-p004-01) [ZH-COV1-B01-O18](#zh-cov1-b01-o18) [W-C01-005](reviews/chapter-01/wikisource.md#w-c01-005)
 
 <a id="u00040"></a>
 
-**U00040** ཡོན་ཏན་ཐམས་ཅད་རྫོགས་པ་ཡི། ། [TS-CH1-V003](#ts-ch1-v003)
+**U00040** ཡོན་ཏན་ཐམས་ཅད་རྫོགས་པ་ཡི། ། [TS-CH1-V003](#ts-ch1-v003) [ZH-COV1-B01-O19](#zh-cov1-b01-o19)
 
 <a id="u00041"></a>
 
@@ -25566,6 +25566,326 @@ Units: [U00009](#u00009), [U00010](#u00010).
 **Choice and reason:** Retain governing Adzom unchanged. Preserve the Gadkar component reading or question at its stated confidence. Local heading nonobservation does not prove whole-witness omission; cursive strokes do not certify a suffix, repetition or punctuation by resemblance alone.
 
 **Evidence:** [p002-native.jpg](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p002-native.jpg), [p002-x0000-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p002-x0000-y0000.png), [p002-x1900-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p002-x1900-y0000.png), [p002-x2000-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p002-x2000-y0000.png), [C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-GADKAR.md).
+
+<a id="zh-cov1-b01-o01"></a>
+
+### ZH-COV1-B01-O01 — Zhichen
+
+Units: [U00005](#u00005).
+
+**Current Adzom main context:** གཾགརྦམཏགཱ རྒྱ་གར་སྐད་དུ།
+
+**Comparison reading/snippet:** N2a: ན་མོ་གུ་རུ
+
+**Status:** provisional_visual_observation. **Confidence:** {"reading": "M", "alignment": "H", "graphics": "M", "layer": "H"}.
+
+**Locator:** PDF 2; source-member and native bounds in linked packet; bounds: [745, 126, 920, 170].
+
+**Observation:** A distinct small black invocation is visible; it is not silently replaced with the base's pre-language string. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.
+
+**Evidence:** [p002-native.jpg](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p002-native.jpg), [p002-x0000-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p002-x0000-y0000.png), [p002-x0509-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p002-x0509-y0000.png), [C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-ZHICHEN.md).
+
+<a id="zh-cov1-b01-o02"></a>
+
+### ZH-COV1-B01-O02 — Zhichen
+
+Units: [U00006](#u00006).
+
+**Current Adzom main context:** རཏྣ་ཀ་ར་ཤབྡ་མ་ཧཱ་པྲ་སཾ་ག་ཏནྟྲ་ནཱ་མ།
+
+**Comparison reading/snippet:** ⟦O2⟧⟦C⟧ @N2a རྒྱ་གར་སྐད་དུ⟦C⟧ R{རཏྣ⟦Q01⟧ཤབྡ⟦Q02⟧པྲ་ས⟦Q03⟧ག⟦C⟧ ཏནྟྲ་ནཱ་མ⟦C⟧} བོད་སྐད་དུ⟦C⟧ རིན་པོ་ཆེ
+
+**Status:** bounded_uncertainty. **Confidence:** {"reading": "U", "alignment": "H", "graphics": "M", "layer": "H"}.
+
+**Locator:** PDF 2; source-member and native bounds in linked packet; bounds: [1240, 111, 1855, 171].
+
+**Observation:** Readable components and the intervening tiered mark are retained; unresolved letters, vowel lengths and segmentation are not supplied from the base. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.
+
+**Evidence:** [p002-native.jpg](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p002-native.jpg), [p002-x0000-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p002-x0000-y0000.png), [p002-x0509-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p002-x0509-y0000.png), [C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-ZHICHEN.md).
+
+<a id="zh-cov1-b01-o04"></a>
+
+### ZH-COV1-B01-O04 — Zhichen
+
+Units: [U00013](#u00013), [U00014](#u00014).
+
+**Current Adzom main context:** འཁོར་དང་འདས་པའི་ཐོག་མར་ནི། ། / རང་བྱུང་བྱས་པ་མེད་པ་ལས། །
+
+**Comparison reading/snippet:** ནི⟦C⟧⟦Q05⟧རང
+
+**Status:** bounded_uncertainty. **Confidence:** {"reading": "H", "alignment": "H", "graphics": "U", "layer": "H"}.
+
+**Locator:** PDF 2; source-member and native bounds in linked packet; bounds: [1785, 207, 1880, 256].
+
+**Observation:** The next-leading stroke remains explicitly represented instead of being lost through punctuation allocation. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.
+
+**Evidence:** [p002-native.jpg](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p002-native.jpg), [p002-x0000-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p002-x0000-y0000.png), [p002-x0509-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p002-x0509-y0000.png), [C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-ZHICHEN.md).
+
+<a id="zh-cov1-b01-o05"></a>
+
+### ZH-COV1-B01-O05 — Zhichen
+
+Units: [U00011](#u00011), [U00015](#u00015).
+
+**Current Adzom main context:** ཐུན་མོང་མ་ཡིན་པའི་གླེང་གཞི་བཀོད་པ། / འབྱུང་བ་འདུས་པའི་ཕུང་པོར་ཤར། །
+
+**Comparison reading/snippet:** {"main_flanks": "ཕུང་པོར … ཤར", "small_red_heading": "ཐུན་མོང་མ་ཡིན་པའི་གླེང་གཞི་བཀོད་པ⟦Q04⟧", "physical_placement": "Physically between black ཕུང་པོར and black ཤར; not relocated before U00012."}
+
+**Status:** bounded_uncertainty. **Confidence:** {"reading": "M", "alignment": "H", "graphics": "U", "layer": "H"}.
+
+**Locator:** PDF 2; source-member and native bounds in linked packet; bounds: [690, 244, 1207, 307].
+
+**Observation:** The red heading occupies a small-writing layer in row 4. Its physical position and unresolved terminal sweep are preserved. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.
+
+**Evidence:** [p002-native.jpg](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p002-native.jpg), [p002-x0000-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p002-x0000-y0000.png), [p002-x0509-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p002-x0509-y0000.png), [C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-ZHICHEN.md).
+
+<a id="zh-cov1-b01-o08"></a>
+
+### ZH-COV1-B01-O08 — Zhichen
+
+Units: [U00018](#u00018), [U00019](#u00019).
+
+**Current Adzom main context:** འདུས་ཤིང་བསྐྱེད་པའི་གཞལ་མེད་ཁང་། ། / རང་བྱུང་རིག་པས་བཅོས་པ་མེད། །
+
+**Comparison reading/snippet:** ཁང་⟦C⟧⟦Q06⟧རང
+
+**Status:** bounded_uncertainty. **Confidence:** {"reading": "H", "alignment": "H", "graphics": "U", "layer": "H"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [922, 78, 1020, 130].
+
+**Observation:** A potential detached leading stroke is retained without deciding its attachment. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0000-y0000.png), [p003-x0504-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0504-y0000.png), [C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-ZHICHEN.md).
+
+<a id="zh-cov1-b01-o09"></a>
+
+### ZH-COV1-B01-O09 — Zhichen
+
+Units: [U00019](#u00019).
+
+**Current Adzom main context:** རང་བྱུང་རིག་པས་བཅོས་པ་མེད། །
+
+**Comparison reading/snippet:** རིག་པ⟦Q07⟧བཅོས
+
+**Status:** bounded_uncertainty. **Confidence:** {"reading": "U", "alignment": "H", "graphics": "U", "layer": "H"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [1090, 76, 1210, 130].
+
+**Observation:** The surrounding clause does not establish the doubtful suffix; U00019 remains open at this exact component. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0000-y0000.png), [p003-x0504-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0504-y0000.png), [C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-ZHICHEN.md).
+
+<a id="zh-cov1-b01-o10"></a>
+
+### ZH-COV1-B01-O10 — Zhichen
+
+Units: [U00023](#u00023).
+
+**Current Adzom main context:** མི་ཕྱེད་སྣ་ཚོགས་དམིགས་མེད་པས། །
+
+**Comparison reading/snippet:** ⟦Q08⟧སྣ་ཚོགས
+
+**Status:** bounded_uncertainty. **Confidence:** {"reading": "U", "alignment": "H", "graphics": "M", "layer": "H"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [861, 115, 1020, 168].
+
+**Observation:** The opening cannot be securely equated with the base; the readable continuation is retained. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0000-y0000.png), [p003-x0504-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0504-y0000.png), [C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-ZHICHEN.md).
+
+<a id="zh-cov1-b01-o11"></a>
+
+### ZH-COV1-B01-O11 — Zhichen
+
+Units: [U00026](#u00026).
+
+**Current Adzom main context:** འདས་དང་མ་འོངས་ད་ལྟར་མེད། །
+
+**Comparison reading/snippet:** ⟦Q09⟧ད་ལྟར་མེད
+
+**Status:** bounded_uncertainty. **Confidence:** {"reading": "U", "alignment": "M", "graphics": "M", "layer": "H"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [275, 164, 648, 215].
+
+**Observation:** The unresolved prefix is not completed with the base's past/future wording. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0000-y0000.png), [p003-x0504-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0504-y0000.png), [C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-ZHICHEN.md).
+
+<a id="zh-cov1-b01-o12"></a>
+
+### ZH-COV1-B01-O12 — Zhichen
+
+Units: [U00027](#u00027).
+
+**Current Adzom main context:** མི་ཕྱེད་འབྱེད་པ་ཡོངས་སུ་མེད། །
+
+**Comparison reading/snippet:** མི་⟦Q10⟧ཡོངས་སུ་མེད
+
+**Status:** bounded_uncertainty. **Confidence:** {"reading": "U", "alignment": "M", "graphics": "M", "layer": "H"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [675, 164, 1046, 216].
+
+**Observation:** The medial stacks are not securely deciphered; neither their letters nor their repetition is reconstructed. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0000-y0000.png), [p003-x0504-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0504-y0000.png), [C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-ZHICHEN.md).
+
+<a id="zh-cov1-b01-o13"></a>
+
+### ZH-COV1-B01-O13 — Zhichen
+
+Units: [U00027](#u00027), [U00028](#u00028), [U00030](#u00030).
+
+**Current Adzom main context:** མི་ཕྱེད་འབྱེད་པ་ཡོངས་སུ་མེད། ། / ཐམས་ཅད་རང་བྱུང་ཡེ་ཤེས་སོ། ། / འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན། །
+
+**Comparison reading/snippet:** ཕྱི་ནང་འགྱུར་མེད་⟦Q11⟧
+
+**Status:** bounded_uncertainty. **Confidence:** {"reading": "M", "alignment": "M", "graphics": "M", "layer": "H"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [1068, 163, 1350, 217].
+
+**Observation:** The visible short sequence does not support copying U00028. Its final component and precise correspondence remain unresolved. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0000-y0000.png), [p003-x0504-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0504-y0000.png), [C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-ZHICHEN.md).
+
+<a id="zh-cov1-b01-o14"></a>
+
+### ZH-COV1-B01-O14 — Zhichen
+
+Units: [U00031](#u00031).
+
+**Current Adzom main context:** དགའ་དང་ལྡན་པ་བསོད་ནམས་བརྩེགས། །
+
+**Comparison reading/snippet:** Row 3 དགའ་དང་ལྡན / row 4 པ⟦Q12⟧བསོད་ནམས་བརྩེགས
+
+**Status:** bounded_uncertainty. **Confidence:** {"reading": "M", "alignment": "H", "graphics": "U", "layer": "H"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [[2018, 165, 2230, 216], [273, 209, 566, 258]].
+
+**Observation:** The material immediately following the row-initial པ is retained as uncertain, without grammatical normalization. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0000-y0000.png), [p003-x0504-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0504-y0000.png), [C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-ZHICHEN.md).
+
+<a id="zh-cov1-b01-o15"></a>
+
+### ZH-COV1-B01-O15 — Zhichen
+
+Units: [U00029](#u00029), [U00033](#u00033), [U00034](#u00034).
+
+**Current Adzom main context:** ཐུན་མོང་གི་གླེང་གཞི་བཀོད་པ། / ས་དང་ཆུ་དང་མེ་རླུང་གི། ། / འབྱུང་བ་ཆེན་པོ་བཞི་མི་སྣང་། །
+
+**Comparison reading/snippet:** {"main_flanks": "གི⟦C⟧ … འབྱུང་བ", "small_red_heading": "ཐུན་མོང་གི་གླེང་གཞི་བཀོད་པ⟦Q13⟧", "physical_placement": "Between U00033 and U00034, below the preceding main row; not moved before U00030."}
+
+**Status:** bounded_uncertainty. **Confidence:** {"reading": "M", "alignment": "H", "graphics": "U", "layer": "H"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [1388, 194, 1788, 257].
+
+**Observation:** The red heading is a separate small layer in row 4; its trailing sweep is not silently made into a shad. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0000-y0000.png), [p003-x0504-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0504-y0000.png), [C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-ZHICHEN.md).
+
+<a id="zh-cov1-b01-o16"></a>
+
+### ZH-COV1-B01-O16 — Zhichen
+
+Units: [U00035](#u00035), [U00036](#u00036).
+
+**Current Adzom main context:** ཤ་ཁྲག་བཀོད་པའི་གཟུགས་མེད་པའི། ། / རང་སྣང་དག་པ་ཆེན་པོའི་ཡུལ། །
+
+**Comparison reading/snippet:** པའི⟦C⟧⟦Q14⟧རང
+
+**Status:** bounded_uncertainty. **Confidence:** {"reading": "H", "alignment": "H", "graphics": "U", "layer": "H"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [742, 244, 838, 295].
+
+**Observation:** The next-leading stroke is preserved as an unresolved interval component. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0000-y0000.png), [p003-x0504-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0504-y0000.png), [C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-ZHICHEN.md).
+
+<a id="zh-cov1-b01-o17"></a>
+
+### ZH-COV1-B01-O17 — Zhichen
+
+Units: [U00038](#u00038).
+
+**Current Adzom main context:** པདྨའི་ཟེའུ་འབྲུ་རྫོགས་པའི་གྲངས། །
+
+**Comparison reading/snippet:** པདྨའི་ཟེ⟦Q15⟧འབྲུ
+
+**Status:** bounded_uncertainty. **Confidence:** {"reading": "U", "alignment": "H", "graphics": "U", "layer": "H"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [1710, 245, 1852, 295].
+
+**Observation:** The small medial material is not expanded to the base spelling. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0000-y0000.png), [p003-x0504-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0504-y0000.png), [C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-ZHICHEN.md).
+
+<a id="zh-cov1-b01-o18"></a>
+
+### ZH-COV1-B01-O18 — Zhichen
+
+Units: [U00039](#u00039).
+
+**Current Adzom main context:** སྟོང་དང་ལྡན་པ་དབུས་མའི་གནས། །
+
+**Comparison reading/snippet:** སྟོ⟦Q16⟧ / དང་ལྡན་པ་དབུས་མའི་གནས
+
+**Status:** bounded_uncertainty. **Confidence:** {"reading": "U", "alignment": "H", "graphics": "M", "layer": "H"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [2160, 244, 2228, 296].
+
+**Observation:** Neither the base source form nor its editorial reading resolves the source's final component here. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0000-y0000.png), [p003-x0504-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0504-y0000.png), [C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-ZHICHEN.md).
+
+<a id="zh-cov1-b01-o19"></a>
+
+### ZH-COV1-B01-O19 — Zhichen
+
+Units: [U00040](#u00040).
+
+**Current Adzom main context:** ཡོན་ཏན་ཐམས་ཅད་རྫོགས་པ་ཡི། །
+
+**Comparison reading/snippet:** ཡོན་ཏན་རྫོགས་པ་ཡི
+
+**Status:** provisional_visual_observation. **Confidence:** {"reading": "M", "alignment": "H", "graphics": "M", "layer": "H"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [690, 288, 988, 343].
+
+**Observation:** The bounded source clause reads directly from ཡོན་ཏན to རྫོགས; ཐམས་ཅད is not supplied. This is a local reading, not an explanation of historical omission. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0000-y0000.png), [p003-x0504-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0504-y0000.png), [C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-ZHICHEN.md).
 
 ## A/B/S transcript apparatus
 

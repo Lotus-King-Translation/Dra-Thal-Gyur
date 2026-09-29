@@ -1022,7 +1022,7 @@
       "id": "C1-ZHICHEN",
       "kind": "witness_coverage",
       "status": "in_progress",
-      "owner": "bounded-source-reader-COVERAGE-W01",
+      "owner": "ChatGPT-coordinator-20260929-integration",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -1071,7 +1071,9 @@
           "status": "planned_not_read"
         }
       ],
-      "current_batch_id": "B01-OPENING-P0002-0003"
+      "current_batch_id": null,
+      "next_step": "Continue Zhichen full reading at PDF4 row1, red སངས་རྒྱས་བཅོམ་ལྡན་འདས continuing the preceding red སྟོན་པ. Review the separate saved B02/PDF102–106 boundary search before any endpoint claim. Retain all opening Q01–Q16 and the still-unclosed chapter extent.",
+      "last_integrated_batch_id": "B01-OPENING-P0002-0003"
     },
     {
       "id": "C1-W1ER119",

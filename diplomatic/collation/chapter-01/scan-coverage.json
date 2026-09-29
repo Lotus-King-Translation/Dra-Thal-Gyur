@@ -9621,6 +9621,271 @@
       ],
       "next_physical_span": "Continue a full Gadkar reading at PDF4 row1, U00033 continuation མེ་རླུང་གི, while retaining Q14 at the preceding edge. Older PDF4–11 locator findings do not replace full comparison. Keep all twenty-one opening questions and the independent cover/title-page limits.",
       "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-ZHICHEN",
+      "batch_id": "B01-OPENING-P0002-0003",
+      "target_pages": [
+        2,
+        3
+      ],
+      "report": "reviews/chapter-01/continuation/C1-ZHICHEN.json",
+      "summary": "Zhichen PDF2–3 opening integrated: ten source-ordered rows and sixteen bounded or provisional observations, with all sixteen original Q entries retained.",
+      "rows_reported": 10,
+      "canonical_record_ids": [
+        "ZH-COV1-B01-O01",
+        "ZH-COV1-B01-O02",
+        "ZH-COV1-B01-O04",
+        "ZH-COV1-B01-O05",
+        "ZH-COV1-B01-O08",
+        "ZH-COV1-B01-O09",
+        "ZH-COV1-B01-O10",
+        "ZH-COV1-B01-O11",
+        "ZH-COV1-B01-O12",
+        "ZH-COV1-B01-O13",
+        "ZH-COV1-B01-O14",
+        "ZH-COV1-B01-O15",
+        "ZH-COV1-B01-O16",
+        "ZH-COV1-B01-O17",
+        "ZH-COV1-B01-O18",
+        "ZH-COV1-B01-O19"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "image_access_failure": null,
+        "target_rows_inspected": {
+          "2": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "3": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        "reading_type": "Informed independent model reading with the alignment aid visible; neither blind review nor credentialed human palaeography.",
+        "result": "All ten target physical rows traversed. Decipherment remains partial at the explicitly bounded questions; this is not a fully settled continuous transcription.",
+        "preservation": "Earlier lexical-pass coverage is neither replaced nor recertified. Source spelling and graphic disagreements remain local records.",
+        "certification": "No complete chapter or witness certification.",
+        "tools_network_files_ocr_used": false
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q01",
+          "pdf_page": 2,
+          "anchor": "U00006",
+          "native_bounds": [
+            1290,
+            112,
+            1370,
+            170
+          ],
+          "exact_question": "What letters, vowel-length marks and separators intervene between readable རཏྣ and ཤབྡ?"
+        },
+        {
+          "id": "Q02",
+          "pdf_page": 2,
+          "anchor": "U00006",
+          "native_bounds": [
+            1420,
+            112,
+            1504,
+            170
+          ],
+          "exact_question": "What stacks, vowel marks and separators intervene between ཤབྡ and པྲ?"
+        },
+        {
+          "id": "Q03",
+          "pdf_page": 2,
+          "anchor": "U00006",
+          "native_bounds": [
+            1512,
+            112,
+            1582,
+            170
+          ],
+          "exact_question": "What nasal or stacked material and separation occur between the readable ས and following ག?"
+        },
+        {
+          "id": "Q04",
+          "pdf_page": 2,
+          "anchor": "U00011",
+          "native_bounds": [
+            1120,
+            246,
+            1175,
+            307
+          ],
+          "exact_question": "Is the red terminal sweep after the heading's པ an attached limb, an independent bar, or a compound of both?"
+        },
+        {
+          "id": "Q05",
+          "pdf_page": 2,
+          "anchor": "U00013/U00014",
+          "native_bounds": [
+            1810,
+            207,
+            1867,
+            258
+          ],
+          "exact_question": "Does the next-leading near-vertical stroke belong to the preceding boundary interval or to the initial letter of རང?"
+        },
+        {
+          "id": "Q06",
+          "pdf_page": 3,
+          "anchor": "U00018/U00019",
+          "native_bounds": [
+            963,
+            78,
+            1016,
+            132
+          ],
+          "exact_question": "Is the stroke immediately before རང an independent bar or an attached initial-letter limb?"
+        },
+        {
+          "id": "Q07",
+          "pdf_page": 3,
+          "anchor": "U00019",
+          "native_bounds": [
+            1100,
+            76,
+            1210,
+            132
+          ],
+          "exact_question": "What suffix or additional material, if any, follows པ in རིག་པ before བཅོས, and where is its separating tsheg?"
+        },
+        {
+          "id": "Q08",
+          "pdf_page": 3,
+          "anchor": "U00023",
+          "native_bounds": [
+            861,
+            115,
+            1000,
+            170
+          ],
+          "exact_question": "What are the opening components immediately before སྣ་ཚོགས, including their final separator?"
+        },
+        {
+          "id": "Q09",
+          "pdf_page": 3,
+          "anchor": null,
+          "native_bounds": [
+            275,
+            164,
+            520,
+            216
+          ],
+          "exact_question": "What is the row-initial sequence before readable ད་ལྟར་མེད, provisionally corresponding to the opening of U00026?"
+        },
+        {
+          "id": "Q10",
+          "pdf_page": 3,
+          "anchor": null,
+          "native_bounds": [
+            716,
+            164,
+            906,
+            217
+          ],
+          "exact_question": "What medial syllables occur between མི and ཡོངས་སུ་མེད in the next clause?"
+        },
+        {
+          "id": "Q11",
+          "pdf_page": 3,
+          "anchor": null,
+          "native_bounds": [
+            1260,
+            164,
+            1341,
+            219
+          ],
+          "exact_question": "What final syllable follows ཕྱི་ནང་འགྱུར་མེད before its terminal C?"
+        },
+        {
+          "id": "Q12",
+          "pdf_page": 3,
+          "anchor": "U00031",
+          "native_bounds": [
+            273,
+            207,
+            338,
+            260
+          ],
+          "exact_question": "What small material follows row-initial པ before བསོད: only a separator, or additional letter/vowel material?"
+        },
+        {
+          "id": "Q13",
+          "pdf_page": 3,
+          "anchor": "U00029",
+          "native_bounds": [
+            1718,
+            197,
+            1790,
+            260
+          ],
+          "exact_question": "How should the long red sweep after the small heading's final པ be divided between attached letter limb and independent sign?"
+        },
+        {
+          "id": "Q14",
+          "pdf_page": 3,
+          "anchor": "U00035/U00036",
+          "native_bounds": [
+            778,
+            244,
+            834,
+            298
+          ],
+          "exact_question": "Is the next-leading stroke before རང་སྣང detached punctuation or part of the initial letter?"
+        },
+        {
+          "id": "Q15",
+          "pdf_page": 3,
+          "anchor": "U00038",
+          "native_bounds": [
+            1730,
+            245,
+            1842,
+            297
+          ],
+          "exact_question": "What exact letters, vowel signs and separator occur between ཟེ and འབྲུ?"
+        },
+        {
+          "id": "Q16",
+          "pdf_page": 3,
+          "anchor": "U00039",
+          "native_bounds": [
+            2165,
+            244,
+            2228,
+            299
+          ],
+          "exact_question": "What is the final consonantal component of the row-ending syllable beginning སྟོ?"
+        }
+      ],
+      "unexamined_spans": {
+        "actual_target_omissions": [],
+        "inspected_but_unresolved": "Q01–Q16; these are not completed readings.",
+        "deliberately_excluded_flanks": [
+          {
+            "pdf_page": 1,
+            "scope": "Full lexical/graphic collation beyond the title locator and isolated hooked marks."
+          },
+          {
+            "pdf_page": 4,
+            "scope": "Everything beyond the minimal initial red continuation used to establish the PDF3 outgoing correspondence."
+          }
+        ],
+        "duplicate_views": "Overlapping crop pixels were not counted twice."
+      },
+      "next_physical_span": "Continue Zhichen full reading at PDF4 row1, red སངས་རྒྱས་བཅོམ་ལྡན་འདས continuing the preceding red སྟོན་པ. Review the separate saved B02/PDF102–106 boundary search before any endpoint claim. Retain all opening Q01–Q16 and the still-unclosed chapter extent.",
+      "reader_claims_require_coordinator_dispositions": true
     }
   ]
 }

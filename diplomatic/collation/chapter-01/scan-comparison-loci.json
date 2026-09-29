@@ -35519,5 +35519,901 @@
       },
       "coordinator_scope": "Viewed both native page layouts and the left and overlapping middle/right native columns. Checked the four-row layout, colored rubrics versus continuing main text, foreign-title region and local uncertain stack/boundary positions. No script normalization or expected ordinal/name was supplied."
     }
+  },
+  {
+    "id": "ZH-COV1-B01-O01",
+    "witness": "Zhichen",
+    "units": [
+      "U00005"
+    ],
+    "base_snippet_at_review": "Material preceding རྒྱ་གར་སྐད་དུ in U00005",
+    "comparison_reading": "N2a: ན་མོ་གུ་རུ",
+    "status": "provisional_visual_observation",
+    "confidence": "{\"reading\": \"M\", \"alignment\": \"H\", \"graphics\": \"M\", \"layer\": \"H\"}",
+    "locator": "PDF 2; source-member and native bounds in linked packet; bounds: [745, 126, 920, 170]",
+    "rationale": "A distinct small black invocation is visible; it is not silently replaced with the base's pre-language string. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p002-native.jpg",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p002-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p002-x0509-y0000.png",
+      "reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-ZHICHEN.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "baseline_commit": "719a5c14ac5f8d939e18c174b7d7c5d0aa05523a",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "2f2639bc7a83d6973eebd673fa8ba1457e02d84ff9a4d8fa6329fca9acb40728"
+      },
+      "observation": {
+        "id": "O01",
+        "pdf_page": 2,
+        "anchors": [
+          "U00005"
+        ],
+        "source_span": "N2a: ན་མོ་གུ་རུ",
+        "base_span": "Material preceding རྒྱ་གར་སྐད་དུ in U00005",
+        "category": "additional_invocation_and_layer",
+        "neighboring_context": "Opening ornament — small invocation — language designation.",
+        "approximate_native_bounds": [
+          745,
+          126,
+          920,
+          170
+        ],
+        "confidence": {
+          "reading": "M",
+          "alignment": "H",
+          "graphics": "M",
+          "layer": "H"
+        },
+        "rationale": "A distinct small black invocation is visible; it is not silently replaced with the base's pre-language string."
+      },
+      "coordinator_scope": "Inspected both native overviews and the two overlapping native columns for each page. The black/red layers, four/six-row layout and bounded reading questions were checked against the original source. No title normalization, formulaic ending or conjectural U00026–U00028 correspondence is adopted."
+    }
+  },
+  {
+    "id": "ZH-COV1-B01-O02",
+    "witness": "Zhichen",
+    "units": [
+      "U00006"
+    ],
+    "base_snippet_at_review": "U00006 foreign-script title; the quoted source row also includes explicitly identified flanking language designations and invocation, not additional U00006 text.",
+    "comparison_reading": "⟦O2⟧⟦C⟧ @N2a རྒྱ་གར་སྐད་དུ⟦C⟧ R{རཏྣ⟦Q01⟧ཤབྡ⟦Q02⟧པྲ་ས⟦Q03⟧ག⟦C⟧ ཏནྟྲ་ནཱ་མ⟦C⟧} བོད་སྐད་དུ⟦C⟧ རིན་པོ་ཆེ",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"U\", \"alignment\": \"H\", \"graphics\": \"M\", \"layer\": \"H\"}",
+    "locator": "PDF 2; source-member and native bounds in linked packet; bounds: [1240, 111, 1855, 171]",
+    "rationale": "Readable components and the intervening tiered mark are retained; unresolved letters, vowel lengths and segmentation are not supplied from the base. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p002-native.jpg",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p002-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p002-x0509-y0000.png",
+      "reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-ZHICHEN.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "baseline_commit": "719a5c14ac5f8d939e18c174b7d7c5d0aa05523a",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "2f2639bc7a83d6973eebd673fa8ba1457e02d84ff9a4d8fa6329fca9acb40728"
+      },
+      "observation": {
+        "id": "O02",
+        "pdf_page": 2,
+        "anchors": [
+          "U00006"
+        ],
+        "source_span": "⟦O2⟧⟦C⟧ @N2a རྒྱ་གར་སྐད་དུ⟦C⟧ R{རཏྣ⟦Q01⟧ཤབྡ⟦Q02⟧པྲ་ས⟦Q03⟧ག⟦C⟧ ཏནྟྲ་ནཱ་མ⟦C⟧} བོད་སྐད་དུ⟦C⟧ རིན་པོ་ཆེ",
+        "base_span": "U00006 foreign-script title; the quoted source row also includes explicitly identified flanking language designations and invocation, not additional U00006 text.",
+        "category": "partial_reading_and_graphic_segmentation",
+        "neighboring_context": "Between རྒྱ་གར་སྐད་དུ and བོད་སྐད་དུ.",
+        "approximate_native_bounds": [
+          1240,
+          111,
+          1855,
+          171
+        ],
+        "confidence": {
+          "reading": "U",
+          "alignment": "H",
+          "graphics": "M",
+          "layer": "H"
+        },
+        "rationale": "Readable components and the intervening tiered mark are retained; unresolved letters, vowel lengths and segmentation are not supplied from the base."
+      },
+      "coordinator_scope": "Inspected both native overviews and the two overlapping native columns for each page. The black/red layers, four/six-row layout and bounded reading questions were checked against the original source. No title normalization, formulaic ending or conjectural U00026–U00028 correspondence is adopted."
+    }
+  },
+  {
+    "id": "ZH-COV1-B01-O04",
+    "witness": "Zhichen",
+    "units": [
+      "U00013",
+      "U00014"
+    ],
+    "base_snippet_at_review": "U00013/U00014 boundary",
+    "comparison_reading": "ནི⟦C⟧⟦Q05⟧རང",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"H\", \"alignment\": \"H\", \"graphics\": \"U\", \"layer\": \"H\"}",
+    "locator": "PDF 2; source-member and native bounds in linked packet; bounds: [1785, 207, 1880, 256]",
+    "rationale": "The next-leading stroke remains explicitly represented instead of being lost through punctuation allocation. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p002-native.jpg",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p002-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p002-x0509-y0000.png",
+      "reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-ZHICHEN.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "baseline_commit": "719a5c14ac5f8d939e18c174b7d7c5d0aa05523a",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "2f2639bc7a83d6973eebd673fa8ba1457e02d84ff9a4d8fa6329fca9acb40728"
+      },
+      "observation": {
+        "id": "O04",
+        "pdf_page": 2,
+        "anchors": [
+          "U00013",
+          "U00014"
+        ],
+        "source_span": "ནི⟦C⟧⟦Q05⟧རང",
+        "base_span": "U00013/U00014 boundary",
+        "category": "boundary_graphics_unresolved",
+        "neighboring_context": "ཐོག་མར་ནི — རང་བྱུང.",
+        "approximate_native_bounds": [
+          1785,
+          207,
+          1880,
+          256
+        ],
+        "confidence": {
+          "reading": "H",
+          "alignment": "H",
+          "graphics": "U",
+          "layer": "H"
+        },
+        "rationale": "The next-leading stroke remains explicitly represented instead of being lost through punctuation allocation."
+      },
+      "coordinator_scope": "Inspected both native overviews and the two overlapping native columns for each page. The black/red layers, four/six-row layout and bounded reading questions were checked against the original source. No title normalization, formulaic ending or conjectural U00026–U00028 correspondence is adopted."
+    }
+  },
+  {
+    "id": "ZH-COV1-B01-O05",
+    "witness": "Zhichen",
+    "units": [
+      "U00011",
+      "U00015"
+    ],
+    "base_snippet_at_review": "U00011 precedes U00012 in the alignment aid",
+    "comparison_reading": "{\"main_flanks\": \"ཕུང་པོར … ཤར\", \"small_red_heading\": \"ཐུན་མོང་མ་ཡིན་པའི་གླེང་གཞི་བཀོད་པ⟦Q04⟧\", \"physical_placement\": \"Physically between black ཕུང་པོར and black ཤར; not relocated before U00012.\"}",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"M\", \"alignment\": \"H\", \"graphics\": \"U\", \"layer\": \"H\"}",
+    "locator": "PDF 2; source-member and native bounds in linked packet; bounds: [690, 244, 1207, 307]",
+    "rationale": "The red heading occupies a small-writing layer in row 4. Its physical position and unresolved terminal sweep are preserved. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p002-native.jpg",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p002-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p002-x0509-y0000.png",
+      "reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-ZHICHEN.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "baseline_commit": "719a5c14ac5f8d939e18c174b7d7c5d0aa05523a",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "2f2639bc7a83d6973eebd673fa8ba1457e02d84ff9a4d8fa6329fca9acb40728"
+      },
+      "observation": {
+        "id": "O05",
+        "pdf_page": 2,
+        "anchors": [
+          "U00011",
+          "U00015"
+        ],
+        "source_span": {
+          "main_flanks": "ཕུང་པོར … ཤར",
+          "small_red_heading": "ཐུན་མོང་མ་ཡིན་པའི་གླེང་གཞི་བཀོད་པ⟦Q04⟧",
+          "physical_placement": "Physically between black ཕུང་པོར and black ཤར; not relocated before U00012."
+        },
+        "base_span": "U00011 precedes U00012 in the alignment aid",
+        "category": "small_heading_physical_order",
+        "neighboring_context": "Within the physical interval between the two black portions of U00015.",
+        "approximate_native_bounds": [
+          690,
+          244,
+          1207,
+          307
+        ],
+        "confidence": {
+          "reading": "M",
+          "alignment": "H",
+          "graphics": "U",
+          "layer": "H"
+        },
+        "rationale": "The red heading occupies a small-writing layer in row 4. Its physical position and unresolved terminal sweep are preserved."
+      },
+      "coordinator_scope": "Inspected both native overviews and the two overlapping native columns for each page. The black/red layers, four/six-row layout and bounded reading questions were checked against the original source. No title normalization, formulaic ending or conjectural U00026–U00028 correspondence is adopted."
+    }
+  },
+  {
+    "id": "ZH-COV1-B01-O08",
+    "witness": "Zhichen",
+    "units": [
+      "U00018",
+      "U00019"
+    ],
+    "base_snippet_at_review": "U00018/U00019 boundary",
+    "comparison_reading": "ཁང་⟦C⟧⟦Q06⟧རང",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"H\", \"alignment\": \"H\", \"graphics\": \"U\", \"layer\": \"H\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [922, 78, 1020, 130]",
+    "rationale": "A potential detached leading stroke is retained without deciding its attachment. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0504-y0000.png",
+      "reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-ZHICHEN.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "baseline_commit": "719a5c14ac5f8d939e18c174b7d7c5d0aa05523a",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "2f2639bc7a83d6973eebd673fa8ba1457e02d84ff9a4d8fa6329fca9acb40728"
+      },
+      "observation": {
+        "id": "O08",
+        "pdf_page": 3,
+        "anchors": [
+          "U00018",
+          "U00019"
+        ],
+        "source_span": "ཁང་⟦C⟧⟦Q06⟧རང",
+        "base_span": "U00018/U00019 boundary",
+        "category": "boundary_graphics_unresolved",
+        "neighboring_context": "གཞལ་མེད་ཁང — རང་བྱུང.",
+        "approximate_native_bounds": [
+          922,
+          78,
+          1020,
+          130
+        ],
+        "confidence": {
+          "reading": "H",
+          "alignment": "H",
+          "graphics": "U",
+          "layer": "H"
+        },
+        "rationale": "A potential detached leading stroke is retained without deciding its attachment."
+      },
+      "coordinator_scope": "Inspected both native overviews and the two overlapping native columns for each page. The black/red layers, four/six-row layout and bounded reading questions were checked against the original source. No title normalization, formulaic ending or conjectural U00026–U00028 correspondence is adopted."
+    }
+  },
+  {
+    "id": "ZH-COV1-B01-O09",
+    "witness": "Zhichen",
+    "units": [
+      "U00019"
+    ],
+    "base_snippet_at_review": "རིག་པས་བཅོས",
+    "comparison_reading": "རིག་པ⟦Q07⟧བཅོས",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"U\", \"alignment\": \"H\", \"graphics\": \"U\", \"layer\": \"H\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [1090, 76, 1210, 130]",
+    "rationale": "The surrounding clause does not establish the doubtful suffix; U00019 remains open at this exact component. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0504-y0000.png",
+      "reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-ZHICHEN.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "baseline_commit": "719a5c14ac5f8d939e18c174b7d7c5d0aa05523a",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "2f2639bc7a83d6973eebd673fa8ba1457e02d84ff9a4d8fa6329fca9acb40728"
+      },
+      "observation": {
+        "id": "O09",
+        "pdf_page": 3,
+        "anchors": [
+          "U00019"
+        ],
+        "source_span": "རིག་པ⟦Q07⟧བཅོས",
+        "base_span": "རིག་པས་བཅོས",
+        "category": "suffix_unresolved",
+        "neighboring_context": "རང་བྱུང — རིག་པ — བཅོས་པ་མེད.",
+        "approximate_native_bounds": [
+          1090,
+          76,
+          1210,
+          130
+        ],
+        "confidence": {
+          "reading": "U",
+          "alignment": "H",
+          "graphics": "U",
+          "layer": "H"
+        },
+        "rationale": "The surrounding clause does not establish the doubtful suffix; U00019 remains open at this exact component."
+      },
+      "coordinator_scope": "Inspected both native overviews and the two overlapping native columns for each page. The black/red layers, four/six-row layout and bounded reading questions were checked against the original source. No title normalization, formulaic ending or conjectural U00026–U00028 correspondence is adopted."
+    }
+  },
+  {
+    "id": "ZH-COV1-B01-O10",
+    "witness": "Zhichen",
+    "units": [
+      "U00023"
+    ],
+    "base_snippet_at_review": "མི་ཕྱེད་སྣ་ཚོགས",
+    "comparison_reading": "⟦Q08⟧སྣ་ཚོགས",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"U\", \"alignment\": \"H\", \"graphics\": \"M\", \"layer\": \"H\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [861, 115, 1020, 168]",
+    "rationale": "The opening cannot be securely equated with the base; the readable continuation is retained. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0504-y0000.png",
+      "reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-ZHICHEN.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "baseline_commit": "719a5c14ac5f8d939e18c174b7d7c5d0aa05523a",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "2f2639bc7a83d6973eebd673fa8ba1457e02d84ff9a4d8fa6329fca9acb40728"
+      },
+      "observation": {
+        "id": "O10",
+        "pdf_page": 3,
+        "anchors": [
+          "U00023"
+        ],
+        "source_span": "⟦Q08⟧སྣ་ཚོགས",
+        "base_span": "མི་ཕྱེད་སྣ་ཚོགས",
+        "category": "opening_components_unresolved",
+        "neighboring_context": "After U00022; followed by དམིགས་མེད་པས.",
+        "approximate_native_bounds": [
+          861,
+          115,
+          1020,
+          168
+        ],
+        "confidence": {
+          "reading": "U",
+          "alignment": "H",
+          "graphics": "M",
+          "layer": "H"
+        },
+        "rationale": "The opening cannot be securely equated with the base; the readable continuation is retained."
+      },
+      "coordinator_scope": "Inspected both native overviews and the two overlapping native columns for each page. The black/red layers, four/six-row layout and bounded reading questions were checked against the original source. No title normalization, formulaic ending or conjectural U00026–U00028 correspondence is adopted."
+    }
+  },
+  {
+    "id": "ZH-COV1-B01-O11",
+    "witness": "Zhichen",
+    "units": [
+      "U00026"
+    ],
+    "base_snippet_at_review": "Opening of U00026",
+    "comparison_reading": "⟦Q09⟧ད་ལྟར་མེད",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"U\", \"alignment\": \"M\", \"graphics\": \"M\", \"layer\": \"H\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [275, 164, 648, 215]",
+    "rationale": "The unresolved prefix is not completed with the base's past/future wording. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0504-y0000.png",
+      "reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-ZHICHEN.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "baseline_commit": "719a5c14ac5f8d939e18c174b7d7c5d0aa05523a",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "2f2639bc7a83d6973eebd673fa8ba1457e02d84ff9a4d8fa6329fca9acb40728"
+      },
+      "observation": {
+        "id": "O11",
+        "pdf_page": 3,
+        "anchors": [
+          "U00026"
+        ],
+        "source_span": "⟦Q09⟧ད་ལྟར་མེད",
+        "base_span": "Opening of U00026",
+        "category": "partial_reading",
+        "neighboring_context": "After བཤད⟦C⟧ on row 2; before the clause beginning མི.",
+        "approximate_native_bounds": [
+          275,
+          164,
+          648,
+          215
+        ],
+        "confidence": {
+          "reading": "U",
+          "alignment": "M",
+          "graphics": "M",
+          "layer": "H"
+        },
+        "rationale": "The unresolved prefix is not completed with the base's past/future wording."
+      },
+      "coordinator_scope": "Inspected both native overviews and the two overlapping native columns for each page. The black/red layers, four/six-row layout and bounded reading questions were checked against the original source. No title normalization, formulaic ending or conjectural U00026–U00028 correspondence is adopted."
+    }
+  },
+  {
+    "id": "ZH-COV1-B01-O12",
+    "witness": "Zhichen",
+    "units": [
+      "U00027"
+    ],
+    "base_snippet_at_review": "U00027 medial wording",
+    "comparison_reading": "མི་⟦Q10⟧ཡོངས་སུ་མེད",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"U\", \"alignment\": \"M\", \"graphics\": \"M\", \"layer\": \"H\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [675, 164, 1046, 216]",
+    "rationale": "The medial stacks are not securely deciphered; neither their letters nor their repetition is reconstructed. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0504-y0000.png",
+      "reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-ZHICHEN.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "baseline_commit": "719a5c14ac5f8d939e18c174b7d7c5d0aa05523a",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "2f2639bc7a83d6973eebd673fa8ba1457e02d84ff9a4d8fa6329fca9acb40728"
+      },
+      "observation": {
+        "id": "O12",
+        "pdf_page": 3,
+        "anchors": [
+          "U00027"
+        ],
+        "source_span": "མི་⟦Q10⟧ཡོངས་སུ་མེད",
+        "base_span": "U00027 medial wording",
+        "category": "partial_reading",
+        "neighboring_context": "Between the preceding མེད clause and ཕྱི་ནང.",
+        "approximate_native_bounds": [
+          675,
+          164,
+          1046,
+          216
+        ],
+        "confidence": {
+          "reading": "U",
+          "alignment": "M",
+          "graphics": "M",
+          "layer": "H"
+        },
+        "rationale": "The medial stacks are not securely deciphered; neither their letters nor their repetition is reconstructed."
+      },
+      "coordinator_scope": "Inspected both native overviews and the two overlapping native columns for each page. The black/red layers, four/six-row layout and bounded reading questions were checked against the original source. No title normalization, formulaic ending or conjectural U00026–U00028 correspondence is adopted."
+    }
+  },
+  {
+    "id": "ZH-COV1-B01-O13",
+    "witness": "Zhichen",
+    "units": [
+      "U00027",
+      "U00028",
+      "U00030"
+    ],
+    "base_snippet_at_review": "U00028: ཐམས་ཅད་རང་བྱུང་ཡེ་ཤེས་སོ",
+    "comparison_reading": "ཕྱི་ནང་འགྱུར་མེད་⟦Q11⟧",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"M\", \"alignment\": \"M\", \"graphics\": \"M\", \"layer\": \"H\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [1068, 163, 1350, 217]",
+    "rationale": "The visible short sequence does not support copying U00028. Its final component and precise correspondence remain unresolved. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0504-y0000.png",
+      "reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-ZHICHEN.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "baseline_commit": "719a5c14ac5f8d939e18c174b7d7c5d0aa05523a",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "2f2639bc7a83d6973eebd673fa8ba1457e02d84ff9a4d8fa6329fca9acb40728"
+      },
+      "observation": {
+        "id": "O13",
+        "pdf_page": 3,
+        "anchors": [
+          "U00027",
+          "U00028",
+          "U00030"
+        ],
+        "source_span": "ཕྱི་ནང་འགྱུར་མེད་⟦Q11⟧",
+        "base_span": "U00028: ཐམས་ཅད་རང་བྱུང་ཡེ་ཤེས་སོ",
+        "category": "provisional_local_alternative",
+        "neighboring_context": "After the second ཡོངས་སུ་མེད clause; immediately before repeated འདི་སྐད.",
+        "approximate_native_bounds": [
+          1068,
+          163,
+          1350,
+          217
+        ],
+        "confidence": {
+          "reading": "M",
+          "alignment": "M",
+          "graphics": "M",
+          "layer": "H"
+        },
+        "rationale": "The visible short sequence does not support copying U00028. Its final component and precise correspondence remain unresolved."
+      },
+      "coordinator_scope": "Inspected both native overviews and the two overlapping native columns for each page. The black/red layers, four/six-row layout and bounded reading questions were checked against the original source. No title normalization, formulaic ending or conjectural U00026–U00028 correspondence is adopted."
+    }
+  },
+  {
+    "id": "ZH-COV1-B01-O14",
+    "witness": "Zhichen",
+    "units": [
+      "U00031"
+    ],
+    "base_snippet_at_review": "དགའ་དང་ལྡན་པ་བསོད་ནམས་བརྩེགས",
+    "comparison_reading": "Row 3 དགའ་དང་ལྡན / row 4 པ⟦Q12⟧བསོད་ནམས་བརྩེགས",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"M\", \"alignment\": \"H\", \"graphics\": \"U\", \"layer\": \"H\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [[2018, 165, 2230, 216], [273, 209, 566, 258]]",
+    "rationale": "The material immediately following the row-initial པ is retained as uncertain, without grammatical normalization. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0504-y0000.png",
+      "reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-ZHICHEN.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "baseline_commit": "719a5c14ac5f8d939e18c174b7d7c5d0aa05523a",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "2f2639bc7a83d6973eebd673fa8ba1457e02d84ff9a4d8fa6329fca9acb40728"
+      },
+      "observation": {
+        "id": "O14",
+        "pdf_page": 3,
+        "anchors": [
+          "U00031"
+        ],
+        "source_span": "Row 3 དགའ་དང་ལྡན / row 4 པ⟦Q12⟧བསོད་ནམས་བརྩེགས",
+        "base_span": "དགའ་དང་ལྡན་པ་བསོད་ནམས་བརྩེགས",
+        "category": "row_crossing_and_local_uncertainty",
+        "neighboring_context": "After U00030; before འགྲོ་བ་རྣམས.",
+        "approximate_native_bounds": [
+          [
+            2018,
+            165,
+            2230,
+            216
+          ],
+          [
+            273,
+            209,
+            566,
+            258
+          ]
+        ],
+        "confidence": {
+          "reading": "M",
+          "alignment": "H",
+          "graphics": "U",
+          "layer": "H"
+        },
+        "rationale": "The material immediately following the row-initial པ is retained as uncertain, without grammatical normalization."
+      },
+      "coordinator_scope": "Inspected both native overviews and the two overlapping native columns for each page. The black/red layers, four/six-row layout and bounded reading questions were checked against the original source. No title normalization, formulaic ending or conjectural U00026–U00028 correspondence is adopted."
+    }
+  },
+  {
+    "id": "ZH-COV1-B01-O15",
+    "witness": "Zhichen",
+    "units": [
+      "U00029",
+      "U00033",
+      "U00034"
+    ],
+    "base_snippet_at_review": "U00029 precedes U00030 in the alignment aid",
+    "comparison_reading": "{\"main_flanks\": \"གི⟦C⟧ … འབྱུང་བ\", \"small_red_heading\": \"ཐུན་མོང་གི་གླེང་གཞི་བཀོད་པ⟦Q13⟧\", \"physical_placement\": \"Between U00033 and U00034, below the preceding main row; not moved before U00030.\"}",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"M\", \"alignment\": \"H\", \"graphics\": \"U\", \"layer\": \"H\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [1388, 194, 1788, 257]",
+    "rationale": "The red heading is a separate small layer in row 4; its trailing sweep is not silently made into a shad. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0504-y0000.png",
+      "reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-ZHICHEN.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "baseline_commit": "719a5c14ac5f8d939e18c174b7d7c5d0aa05523a",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "2f2639bc7a83d6973eebd673fa8ba1457e02d84ff9a4d8fa6329fca9acb40728"
+      },
+      "observation": {
+        "id": "O15",
+        "pdf_page": 3,
+        "anchors": [
+          "U00029",
+          "U00033",
+          "U00034"
+        ],
+        "source_span": {
+          "main_flanks": "གི⟦C⟧ … འབྱུང་བ",
+          "small_red_heading": "ཐུན་མོང་གི་གླེང་གཞི་བཀོད་པ⟦Q13⟧",
+          "physical_placement": "Between U00033 and U00034, below the preceding main row; not moved before U00030."
+        },
+        "base_span": "U00029 precedes U00030 in the alignment aid",
+        "category": "small_heading_physical_order",
+        "neighboring_context": "Between main U00033 and U00034.",
+        "approximate_native_bounds": [
+          1388,
+          194,
+          1788,
+          257
+        ],
+        "confidence": {
+          "reading": "M",
+          "alignment": "H",
+          "graphics": "U",
+          "layer": "H"
+        },
+        "rationale": "The red heading is a separate small layer in row 4; its trailing sweep is not silently made into a shad."
+      },
+      "coordinator_scope": "Inspected both native overviews and the two overlapping native columns for each page. The black/red layers, four/six-row layout and bounded reading questions were checked against the original source. No title normalization, formulaic ending or conjectural U00026–U00028 correspondence is adopted."
+    }
+  },
+  {
+    "id": "ZH-COV1-B01-O16",
+    "witness": "Zhichen",
+    "units": [
+      "U00035",
+      "U00036"
+    ],
+    "base_snippet_at_review": "U00035/U00036 boundary",
+    "comparison_reading": "པའི⟦C⟧⟦Q14⟧རང",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"H\", \"alignment\": \"H\", \"graphics\": \"U\", \"layer\": \"H\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [742, 244, 838, 295]",
+    "rationale": "The next-leading stroke is preserved as an unresolved interval component. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0504-y0000.png",
+      "reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-ZHICHEN.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "baseline_commit": "719a5c14ac5f8d939e18c174b7d7c5d0aa05523a",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "2f2639bc7a83d6973eebd673fa8ba1457e02d84ff9a4d8fa6329fca9acb40728"
+      },
+      "observation": {
+        "id": "O16",
+        "pdf_page": 3,
+        "anchors": [
+          "U00035",
+          "U00036"
+        ],
+        "source_span": "པའི⟦C⟧⟦Q14⟧རང",
+        "base_span": "U00035/U00036 boundary",
+        "category": "boundary_graphics_unresolved",
+        "neighboring_context": "གཟུགས་མེད་པའི — རང་སྣང.",
+        "approximate_native_bounds": [
+          742,
+          244,
+          838,
+          295
+        ],
+        "confidence": {
+          "reading": "H",
+          "alignment": "H",
+          "graphics": "U",
+          "layer": "H"
+        },
+        "rationale": "The next-leading stroke is preserved as an unresolved interval component."
+      },
+      "coordinator_scope": "Inspected both native overviews and the two overlapping native columns for each page. The black/red layers, four/six-row layout and bounded reading questions were checked against the original source. No title normalization, formulaic ending or conjectural U00026–U00028 correspondence is adopted."
+    }
+  },
+  {
+    "id": "ZH-COV1-B01-O17",
+    "witness": "Zhichen",
+    "units": [
+      "U00038"
+    ],
+    "base_snippet_at_review": "པདྨའི་ཟེའུ་འབྲུ",
+    "comparison_reading": "པདྨའི་ཟེ⟦Q15⟧འབྲུ",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"U\", \"alignment\": \"H\", \"graphics\": \"U\", \"layer\": \"H\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [1710, 245, 1852, 295]",
+    "rationale": "The small medial material is not expanded to the base spelling. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0504-y0000.png",
+      "reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-ZHICHEN.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "baseline_commit": "719a5c14ac5f8d939e18c174b7d7c5d0aa05523a",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "2f2639bc7a83d6973eebd673fa8ba1457e02d84ff9a4d8fa6329fca9acb40728"
+      },
+      "observation": {
+        "id": "O17",
+        "pdf_page": 3,
+        "anchors": [
+          "U00038"
+        ],
+        "source_span": "པདྨའི་ཟེ⟦Q15⟧འབྲུ",
+        "base_span": "པདྨའི་ཟེའུ་འབྲུ",
+        "category": "medial_spelling_unresolved",
+        "neighboring_context": "Followed by རྫོགས་པའི་གྲངས.",
+        "approximate_native_bounds": [
+          1710,
+          245,
+          1852,
+          295
+        ],
+        "confidence": {
+          "reading": "U",
+          "alignment": "H",
+          "graphics": "U",
+          "layer": "H"
+        },
+        "rationale": "The small medial material is not expanded to the base spelling."
+      },
+      "coordinator_scope": "Inspected both native overviews and the two overlapping native columns for each page. The black/red layers, four/six-row layout and bounded reading questions were checked against the original source. No title normalization, formulaic ending or conjectural U00026–U00028 correspondence is adopted."
+    }
+  },
+  {
+    "id": "ZH-COV1-B01-O18",
+    "witness": "Zhichen",
+    "units": [
+      "U00039"
+    ],
+    "base_snippet_at_review": "source_tibetan སྟོད; reading_tibetan སྟོང",
+    "comparison_reading": "སྟོ⟦Q16⟧ / དང་ལྡན་པ་དབུས་མའི་གནས",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"reading\": \"U\", \"alignment\": \"H\", \"graphics\": \"M\", \"layer\": \"H\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [2160, 244, 2228, 296]",
+    "rationale": "Neither the base source form nor its editorial reading resolves the source's final component here. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0504-y0000.png",
+      "reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-ZHICHEN.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "baseline_commit": "719a5c14ac5f8d939e18c174b7d7c5d0aa05523a",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "2f2639bc7a83d6973eebd673fa8ba1457e02d84ff9a4d8fa6329fca9acb40728"
+      },
+      "observation": {
+        "id": "O18",
+        "pdf_page": 3,
+        "anchors": [
+          "U00039"
+        ],
+        "source_span": "སྟོ⟦Q16⟧ / དང་ལྡན་པ་དབུས་མའི་གནས",
+        "base_span": "source_tibetan སྟོད; reading_tibetan སྟོང",
+        "category": "final_component_unresolved",
+        "neighboring_context": "After གྲངས⟦C⟧; continued at row 6 left.",
+        "approximate_native_bounds": [
+          2160,
+          244,
+          2228,
+          296
+        ],
+        "confidence": {
+          "reading": "U",
+          "alignment": "H",
+          "graphics": "M",
+          "layer": "H"
+        },
+        "rationale": "Neither the base source form nor its editorial reading resolves the source's final component here."
+      },
+      "coordinator_scope": "Inspected both native overviews and the two overlapping native columns for each page. The black/red layers, four/six-row layout and bounded reading questions were checked against the original source. No title normalization, formulaic ending or conjectural U00026–U00028 correspondence is adopted."
+    }
+  },
+  {
+    "id": "ZH-COV1-B01-O19",
+    "witness": "Zhichen",
+    "units": [
+      "U00040"
+    ],
+    "base_snippet_at_review": "ཡོན་ཏན་ཐམས་ཅད་རྫོགས་པ་ཡི",
+    "comparison_reading": "ཡོན་ཏན་རྫོགས་པ་ཡི",
+    "status": "provisional_visual_observation",
+    "confidence": "{\"reading\": \"M\", \"alignment\": \"H\", \"graphics\": \"M\", \"layer\": \"H\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [690, 288, 988, 343]",
+    "rationale": "The bounded source clause reads directly from ཡོན་ཏན to རྫོགས; ཐམས་ཅད is not supplied. This is a local reading, not an explanation of historical omission. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0504-y0000.png",
+      "reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-ZHICHEN.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "baseline_commit": "719a5c14ac5f8d939e18c174b7d7c5d0aa05523a",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "2f2639bc7a83d6973eebd673fa8ba1457e02d84ff9a4d8fa6329fca9acb40728"
+      },
+      "observation": {
+        "id": "O19",
+        "pdf_page": 3,
+        "anchors": [
+          "U00040"
+        ],
+        "source_span": "ཡོན་ཏན་རྫོགས་པ་ཡི",
+        "base_span": "ཡོན་ཏན་ཐམས་ཅད་རྫོགས་པ་ཡི",
+        "category": "local_shorter_reading",
+        "neighboring_context": "Between གནས⟦C⟧ and རྐྱེན་བཞིས.",
+        "approximate_native_bounds": [
+          690,
+          288,
+          988,
+          343
+        ],
+        "confidence": {
+          "reading": "M",
+          "alignment": "H",
+          "graphics": "M",
+          "layer": "H"
+        },
+        "rationale": "The bounded source clause reads directly from ཡོན་ཏན to རྫོགས; ཐམས་ཅད is not supplied. This is a local reading, not an explanation of historical omission."
+      },
+      "coordinator_scope": "Inspected both native overviews and the two overlapping native columns for each page. The black/red layers, four/six-row layout and bounded reading questions were checked against the original source. No title normalization, formulaic ending or conjectural U00026–U00028 correspondence is adopted."
+    }
   }
 ]
