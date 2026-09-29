@@ -1,0 +1,59 @@
+{
+  "task_id": "C1-ZHICHEN",
+  "status": "in_progress",
+  "baseline_commit": "01dc80b83303648317fd86853edb5c81b3a03970",
+  "declared_scope": "Establish Chapter1 endpoint, then reliable continuous reading and all source layers/signs. No certified main lexical range survives.",
+  "chapter_complete": false,
+  "coverage_complete": false,
+  "batches": [
+    {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-ZHICHEN-B01-OPENING-P0002-0003",
+      "baseline_commit": "01dc80b83303648317fd86853edb5c81b3a03970",
+      "target_pages": [
+        2,
+        3
+      ],
+      "source_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "scope": "Bounded full opening comparison/readability test on Zhichen PDF2–3. Previous locator views did not yield a continuous reading. Preserve black/red writing, additional invocation, red small heading, U00019 suffix question and exact original order; no expected-text completion.",
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
+    },
+    {
+      "batch_id": "B02-BOUNDARY-P0102-0106",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-ZHICHEN-B02-BOUNDARY-P0102-0106",
+      "baseline_commit": "01dc80b83303648317fd86853edb5c81b3a03970",
+      "target_pages": [
+        102,
+        103,
+        104,
+        105,
+        106
+      ],
+      "source_pages": [
+        102,
+        103,
+        104,
+        105,
+        106
+      ],
+      "scope": "CHAPTER-BOUNDARY SEARCH ONLY. These are candidate locator pages, not an established chapter boundary. Inspect every page for actual chapter-one closing formula and minimal following incipit; give short actual source locator phrases and exact row/bounds, without transcribing or collating Chapter2. Distinguish no colophon seen from inability to read it. Do not infer an endpoint from proportions or the supplied closing reference.",
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-ZHICHEN/B02-BOUNDARY-P0102-0106/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B02-BOUNDARY-P0102-0106-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
+    }
+  ],
+  "current_batch_id": "B02-BOUNDARY-P0102-0106"
+}

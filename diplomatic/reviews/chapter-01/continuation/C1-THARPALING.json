@@ -1,0 +1,35 @@
+{
+  "task_id": "C1-THARPALING",
+  "status": "in_progress",
+  "baseline_commit": "01dc80b83303648317fd86853edb5c81b3a03970",
+  "declared_scope": "Missing PDF4–43 ledger; verify retained44–51; complete52–71 through row5. Previous57–71 traversal collated zero full pages. Withdrawn omission claims stay withdrawn; PDF56 ends U02100.",
+  "chapter_complete": false,
+  "coverage_complete": false,
+  "batches": [
+    {
+      "batch_id": "B01-P0004-0006",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-THARPALING-B01-P0004-0006",
+      "baseline_commit": "01dc80b83303648317fd86853edb5c81b3a03970",
+      "target_pages": [
+        4,
+        5,
+        6
+      ],
+      "source_pages": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "scope": "First missing continuous Tharpaling PDF4–6 ledger. Establish actual entry/exit from source words, not page proportions. Existing PDF1–3 attempt and later44–71 fragments remain preserved. Main text, small notes, signs, faint/ink-fused components and every actual unread span require separate accounting.",
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
+    }
+  ],
+  "current_batch_id": "B01-P0004-0006"
+}

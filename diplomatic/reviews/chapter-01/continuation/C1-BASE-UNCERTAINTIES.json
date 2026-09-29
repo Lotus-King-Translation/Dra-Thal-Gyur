@@ -1481,11 +1481,32 @@
         "next_step": "Script-level discrimination of S09 remains open. Continue title/portrait base-uncertainty scope rather than repeating the same unresolved transcription."
       },
       "next_physical_span": "Title and portrait scope on Adzom PDF1-2. Retain S09, U02635 dot count and marginal uncertainty."
+    },
+    {
+      "batch_id": "B04-TITLE-P0001-0002",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-BASE-UNCERTAINTIES-B04-TITLE-P0001-0002",
+      "baseline_commit": "01dc80b83303648317fd86853edb5c81b3a03970",
+      "target_pages": [
+        1,
+        2
+      ],
+      "source_pages": [
+        1,
+        2,
+        3
+      ],
+      "scope": "Complete the physical title and illustrated-opening inventory on PDF1–2: every title/language-label line, foreign-script run, main row, source heading, caption, ornament and boundary. Do not fill damaged or foreign letters from a conventional Sanskrit title. Name and bound unresolved glyph groups; inherited partial reports are not a full title transcription. PDF3 is only outgoing context.",
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B04-TITLE-P0001-0002/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B04-TITLE-P0001-0002-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
     }
   ],
   "remaining_declared_scope": "U01522 bounded unresolved; PDF101 annotations, PDF102 inscription, and title/portrait/foreign-script questions still require their planned reviews.",
   "protocol": "coverage_review",
-  "current_batch_id": "B03-P0102-S09",
+  "current_batch_id": "B04-TITLE-P0001-0002",
   "next_physical_span": "PDF102 S09 boundary inscription, then title/portrait scopes; preserve the unresolved PDF60/PDF101 findings without endlessly repeating identical evidence.",
   "current_wave_id": "CONTINUE2-W02"
 }

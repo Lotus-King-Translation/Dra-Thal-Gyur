@@ -9039,8 +9039,32 @@
         },
         "proposals_adopted": false
       }
+    },
+    {
+      "batch_id": "B08-P0012-0014",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-DEGE-B08-P0012-0014",
+      "baseline_commit": "01dc80b83303648317fd86853edb5c81b3a03970",
+      "target_pages": [
+        12,
+        13,
+        14
+      ],
+      "source_pages": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "scope": "Continuous Degé PDF12–14. Entry is U00539 continuation following PDF11 ending འདི་ནས་འཇིག. Inspect faint main text, physically interleaved notes, margins and signs; readable later rows must not be abandoned because one span is faint.",
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
     }
   ],
   "current_wave_id": "CONTINUE2-W03",
-  "current_batch_id": "B07-P0009-0011"
+  "current_batch_id": "B08-P0012-0014"
 }

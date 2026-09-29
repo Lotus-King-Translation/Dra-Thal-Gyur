@@ -1,0 +1,33 @@
+{
+  "task_id": "C1-GADKAR",
+  "status": "in_progress",
+  "baseline_commit": "01dc80b83303648317fd86853edb5c81b3a03970",
+  "declared_scope": "Reliable exact discrimination in opening PDF1–11, then continuous12–91 through row4, signs and below-line annotations. Existing locator sequence is not lexical agreement.",
+  "chapter_complete": false,
+  "coverage_complete": false,
+  "batches": [
+    {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-GADKAR-B01-OPENING-P0002-0003",
+      "baseline_commit": "01dc80b83303648317fd86853edb5c81b3a03970",
+      "target_pages": [
+        2,
+        3
+      ],
+      "source_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "scope": "Bounded opening reading-capability and comparison test, Gadkar PDF2–3. Previous work located U00005–U00035 but did not certify suffixes/stacks. Read actual rows, including U00019 rig pa(s), all source layers, foreign title, headings and signs. Do not classify sharp cursive as globally illegible; state precisely what you can and cannot read.",
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
+    }
+  ],
+  "current_batch_id": "B01-OPENING-P0002-0003"
+}

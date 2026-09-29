@@ -12617,6 +12617,30 @@
         "SLOT-Q13": "Preserve the nested source finding or explicitly bounded heading-slot glyph without changing the original report or the Adzom reading.",
         "SLOT-Q15": "Preserve the nested source finding or explicitly bounded heading-slot glyph without changing the original report or the Adzom reading."
       }
+    },
+    {
+      "batch_id": "B10-P0024-0026",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-TSAMDRAK-B10-P0024-0026",
+      "baseline_commit": "01dc80b83303648317fd86853edb5c81b3a03970",
+      "target_pages": [
+        24,
+        25,
+        26
+      ],
+      "source_pages": [
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "scope": "Continuous Tsamdrak PDF24–26, entry U00682. All target rows and non-main material. Exact suffix/stack uncertainty and isolated numeral-like signs must remain explicit.",
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
     }
   ],
   "remaining_declared_scope": "Resolve recorded opening1–13 suffix/stack uncertainties; reliable continuous PDF14–83 through row6, including signs/source notes.",
@@ -12639,7 +12663,7 @@
     }
   ],
   "reliability_assessment": "Visual reading occurred. The inspection distinguishes the two opening constructions and supports a specific final-sa omission at U00148. It does not resolve the lower component distinguishing bstan from bstun at U00012; a claim that all three questions are settled would exceed this reading.",
-  "current_batch_id": "B09-P0021-0023",
+  "current_batch_id": "B10-P0024-0026",
   "next_physical_span": "PDF15 row1, expected following U00383 but exact source correspondence must be established; preserve PDF14 bounded questions.",
   "current_wave_id": "CONTINUE2-W03"
 }

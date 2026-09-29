@@ -484,7 +484,30 @@
         },
         "proposals_adopted": false
       }
+    },
+    {
+      "batch_id": "B02-PHYSICAL-P0001-0003",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-DZONGSAR-B02-PHYSICAL-P0001-0003",
+      "baseline_commit": "01dc80b83303648317fd86853edb5c81b3a03970",
+      "target_pages": [
+        1,
+        2,
+        3
+      ],
+      "source_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "scope": "Dzongsar opening physical completion: PDF1–3 title/illustrated opening, foreign script, source headings/notes, every row and boundary, non-main regions. Preserve the existing continuous main lexical pass, without recertifying it wholesale. Three later local rechecks are already integrated and must not be repeated.",
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-DZONGSAR/B02-PHYSICAL-P0001-0003/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
     }
   ],
-  "current_batch_id": "B01-U00440-U00534-U00710"
+  "current_batch_id": "B02-PHYSICAL-P0001-0003"
 }

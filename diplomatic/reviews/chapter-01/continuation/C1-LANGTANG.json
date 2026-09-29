@@ -1,0 +1,37 @@
+{
+  "task_id": "C1-LANGTANG",
+  "status": "in_progress",
+  "baseline_commit": "01dc80b83303648317fd86853edb5c81b3a03970",
+  "declared_scope": "Recheck historical PDF104 endpoint; continuous Chapter1 comparison and all later gap effects. Opening provider images3→6 continuity is already recorded.",
+  "chapter_complete": false,
+  "coverage_complete": false,
+  "batches": [
+    {
+      "batch_id": "B01-BOUNDARY-P0102-0106",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-LANGTANG-B01-BOUNDARY-P0102-0106",
+      "baseline_commit": "01dc80b83303648317fd86853edb5c81b3a03970",
+      "target_pages": [
+        102,
+        103,
+        104,
+        105,
+        106
+      ],
+      "source_pages": [
+        102,
+        103,
+        104,
+        105,
+        106
+      ],
+      "scope": "CHAPTER-BOUNDARY SEARCH ONLY. Historical PDF104 endpoint is only a locator. Inspect these five pages to establish or reject the actual Chapter1 closing and minimal following incipit; quote short source locators with row/bounds, not a Chapter2 transcription. Do not infer provider index or missing leaves from PDF numbering.",
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-LANGTANG/B01-BOUNDARY-P0102-0106/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-LANGTANG-B01-BOUNDARY-P0102-0106-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
+    }
+  ],
+  "current_batch_id": "B01-BOUNDARY-P0102-0106"
+}

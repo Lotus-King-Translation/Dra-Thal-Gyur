@@ -1,0 +1,33 @@
+{
+  "task_id": "C1-W1ER119",
+  "status": "in_progress",
+  "baseline_commit": "01dc80b83303648317fd86853edb5c81b3a03970",
+  "declared_scope": "Establish opening alignment and Chapter1 endpoint; determine both text edges and chapter membership of16 manifest discontinuities; complete continuous comparison.",
+  "chapter_complete": false,
+  "coverage_complete": false,
+  "batches": [
+    {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-W1ER119-B01-OPENING-P0002-0003",
+      "baseline_commit": "01dc80b83303648317fd86853edb5c81b3a03970",
+      "target_pages": [
+        2,
+        3
+      ],
+      "source_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "scope": "Bounded opening comparison/readability test, W1ER119 PDF2–3. Earlier17 inspection records established neither reliable text nor endpoint. Read directly in the supplied original orientation; do not invent mirror/rotation history, genealogy, missing verses or expected wording. Bound unread headless clusters exactly and continue later rows.",
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
+    }
+  ],
+  "current_batch_id": "B01-OPENING-P0002-0003"
+}
