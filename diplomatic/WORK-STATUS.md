@@ -2,12 +2,12 @@
 
 Updated 2026-09-28. **Chapter 1 is unfinished; Chapters 2–6 and the final colophon have not started.** Start at [HANDOFF.md](HANDOFF.md) for operational instructions and [WORK-QUEUE.json](WORK-QUEUE.json) for the next bounded task. This ledger records supported scholarly coverage and explicitly retained uncertainty; a saved inspection is not a whole-page collation.
 
-Preserved pre-continuation edition baseline: `afb5c5133357942267dc55fc60a1d22704d5ef08`. Current [Chapter 1](chapter-01.md) SHA-256: `a4d18b1c21b8774cd0c1532793d6fbfae5bc594da94be8ea3d6d9bb1f2ba7a72`. See [C1-SIGNS-01](reviews/chapter-01/continuation/C1-SIGNS-01.md) and the [C1-SIGNS-02 review](reviews/chapter-01/continuation/C1-SIGNS-02.md); these local punctuation changes do not complete the edition.
+Preserved pre-continuation edition baseline: `afb5c5133357942267dc55fc60a1d22704d5ef08`. Current [Chapter 1](chapter-01.md) SHA-256: `8bdec2334a96a314ef0e0e9e63db1a958dd1e2f29a56cef2c0ebd38b6c52fefa`. See [C1-SIGNS-01](reviews/chapter-01/continuation/C1-SIGNS-01.md) and the [C1-SIGNS-02 review](reviews/chapter-01/continuation/C1-SIGNS-02.md); these local punctuation changes do not complete the edition.
 
 ## What is already saved and integrated
 
 - **2,635 base anchors**, **359 exact supplied-transcript differences in 183 loci**, and **273 Wikisource lexical comparison blocks**.
-- **86 scan correction/source-layer/uncertainty records**, plus **13 restored main verses and one reply heading**.
+- **88 scan correction/source-layer/uncertainty records**, plus **13 restored main verses and one reply heading**.
 - **180 comparison records**, including candidates and uncertainty: Dzongsar 49, Tingkye 71, Tsamdrak 38, Tharpaling 16, Gadkar 6. These are observations, not 180 confirmed variants or a coverage percentage.
 - Adzom's continuous **main lexical** pass, its targeted annotation audit, and Dzongsar's continuous **main lexical** comparison survive. They should not be discarded or repeated wholesale.
 
@@ -82,3 +82,5 @@ Adzom PDF3 now has a source-ordered four-row physical inventory, all twelve boun
 ### Reconnected integration — 29 September 2026
 
 The saved S09 boundary review is integrated with its erroneous raw following-incipit identification rejected. S09 remains unread, and no Tibetan wording or source string changed. Continue its exact unresolved questions alongside title/portrait work. The earlier eight and later twenty-one saved page reports remain the integration priority; do not commission duplicate replacement readings.
+
+Adzom PDF4–7 preserved physical reviews are integrated with their exact remaining questions. Page7 retains all existing shads: the rejected raw proposal would have removed22 detached components. Two new uncertainty-only records visibly qualify seven anchors; no Tibetan reading string changed. U00045 retains its no-added-dot spelling; an erroneous supplemental gcig label is not adopted. Earlier pending comparison reports at Tingkye5, Tsamdrak15 and Dege3 remain the next integration priority.

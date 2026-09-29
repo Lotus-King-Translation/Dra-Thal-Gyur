@@ -4338,16 +4338,746 @@
     },
     {
       "batch_id": "B03-P0004",
-      "status": "reading_captured_pending_coordinator_review",
+      "status": "review_integrated_with_bounded_uncertainties",
       "owner": "reader-C1-BASE-PHYSICAL-B03-P0004-reader",
       "baseline_commit": "d5a05bc3c9c6abee18459895c4fec8aa6e093548",
       "scope": "Complete physical inventory of ADZOM PDF4 only, all main rows, source layers, ornaments, filler signs and marginal inscriptions. Adjacent pages are boundary context only. Existing main lexical pass is retained; record every boundary and any newly observed mismatch without grammatical normalization.",
       "target_page": 4,
       "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B03-P0004/manifest.json",
       "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B03-P0004-reader-spec.json",
-      "rows_actually_compared": [],
-      "observations": [],
-      "canonical_record_ids": [],
+      "rows_actually_compared": [
+        {
+          "physical_row": 1,
+          "approximate_native_bounds": [
+            725,
+            290,
+            5075,
+            485
+          ],
+          "observed_sequence": "མ་འོངས་ད་ལྟར་མེད[S01] མི་ཕྱེད་འབྱེད་པ་ཡོངས་སུ་མེད[S02] ཐམས་ཅད་རང་བྱུང་ཡེ་ཤེས་སོ[S03] འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན[S04] དགའ་དང་ལྡན་པ་",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00026",
+              "text": "མ་འོངས་ད་ལྟར་མེད",
+              "extent": "continuation"
+            },
+            {
+              "anchor": "U00027",
+              "text": "མི་ཕྱེད་འབྱེད་པ་ཡོངས་སུ་མེད"
+            },
+            {
+              "anchor": "U00028",
+              "text": "ཐམས་ཅད་རང་བྱུང་ཡེ་ཤེས་སོ"
+            },
+            {
+              "anchor": "U00030",
+              "text": "འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན"
+            },
+            {
+              "anchor": "U00031",
+              "text": "དགའ་དང་ལྡན་པ་",
+              "extent": "opening"
+            }
+          ],
+          "signs": [
+            {
+              "id": "S01",
+              "graphic": "2S",
+              "between": [
+                "U00026",
+                "U00027"
+              ]
+            },
+            {
+              "id": "S02",
+              "graphic": "2S",
+              "between": [
+                "U00027",
+                "U00028"
+              ]
+            },
+            {
+              "id": "S03",
+              "graphic": "2S",
+              "between": [
+                "U00028",
+                "U00030"
+              ]
+            },
+            {
+              "id": "S04",
+              "graphic": "2S",
+              "between": [
+                "U00030",
+                "U00031"
+              ]
+            }
+          ],
+          "source_annotations": []
+        },
+        {
+          "physical_row": 2,
+          "approximate_native_bounds": [
+            725,
+            405,
+            5075,
+            605
+          ],
+          "observed_sequence": "བསོད་ནམས་བརྩེགས[S05] འགྲོ་བ་རྣམས་ཀྱི་ཐོག་མའི་ཡུལ[S06] ས་དང་ཆུ་དང་མེ་རླུང་གི[S07] [D01] ⟦A01⟧[S08] འབྱུང་བ་ཆེན་པོ་བཞི་མི་སྣང་[S09] ཤ་ཁྲག་",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00031",
+              "text": "བསོད་ནམས་བརྩེགས",
+              "extent": "completion"
+            },
+            {
+              "anchor": "U00032",
+              "text": "འགྲོ་བ་རྣམས་ཀྱི་ཐོག་མའི་ཡུལ"
+            },
+            {
+              "anchor": "U00033",
+              "text": "ས་དང་ཆུ་དང་མེ་རླུང་གི"
+            },
+            {
+              "anchor": "U00029",
+              "source_layer": "A01",
+              "text": "ཐུན་མོང་གི་གླེང་གཞི་བཀོད⟦Q01⟧"
+            },
+            {
+              "anchor": "U00034",
+              "text": "འབྱུང་བ་ཆེན་པོ་བཞི་མི་སྣང་"
+            },
+            {
+              "anchor": "U00035",
+              "text": "ཤ་ཁྲག་",
+              "extent": "opening"
+            }
+          ],
+          "signs": [
+            {
+              "id": "S05",
+              "graphic": "2S",
+              "between": [
+                "U00031",
+                "U00032"
+              ]
+            },
+            {
+              "id": "S06",
+              "graphic": "2S",
+              "between": [
+                "U00032",
+                "U00033"
+              ]
+            },
+            {
+              "id": "S07",
+              "graphic": "1S",
+              "position": "Immediately after གི, before the horizontal stroke and small script.",
+              "allocation": "U00033 terminal stroke."
+            },
+            {
+              "id": "D01",
+              "graphic": "One short horizontal stroke",
+              "position": "Between S07 and A01.",
+              "allocation": "Unaligned source mark; possible annotation lead-in, not a shad."
+            },
+            {
+              "id": "S08",
+              "graphic": "2S",
+              "position": "After the small-script wording and before འབྱུང་བ.",
+              "allocation": "Provisionally first stroke terminates A01; second resumes the main-text boundary. Neither is counted again under A01.",
+              "allocation_confidence": "medium"
+            },
+            {
+              "id": "S09",
+              "graphic": "2S",
+              "between": [
+                "U00034",
+                "U00035"
+              ]
+            }
+          ],
+          "source_annotations": [
+            {
+              "id": "A01",
+              "observed_sequence": "ཐུན་མོང་གི་གླེང་གཞི་བཀོད⟦Q01⟧",
+              "approximate_native_bounds": [
+                3240,
+                430,
+                3870,
+                595
+              ],
+              "appearance": "Smaller, crowded writing occupying the physical row after U00033; it is not inserted into the main verse transcription as a normal-sized verse.",
+              "terminal_sign": "Inventoried within S08."
+            }
+          ]
+        },
+        {
+          "physical_row": 3,
+          "approximate_native_bounds": [
+            725,
+            525,
+            5075,
+            730
+          ],
+          "observed_sequence": "བཀོད་པའི་གཟུགས་མེད་པའི[S10] རང་སྣང་དག་པ་ཆེན་པོའི་ཡུལ[S11] རབ་ཏུ་མཛེས་ཤིང་རྒྱས་པ་ཡི[S12] པདྨའི་ཟེའུ་འབྲུ་རྫོགས་པའི་གྲངས[S13] སྟོང་དང་ལྡན་",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00035",
+              "text": "བཀོད་པའི་གཟུགས་མེད་པའི",
+              "extent": "completion"
+            },
+            {
+              "anchor": "U00036",
+              "text": "རང་སྣང་དག་པ་ཆེན་པོའི་ཡུལ"
+            },
+            {
+              "anchor": "U00037",
+              "text": "རབ་ཏུ་མཛེས་ཤིང་རྒྱས་པ་ཡི"
+            },
+            {
+              "anchor": "U00038",
+              "text": "པདྨའི་ཟེའུ་འབྲུ་རྫོགས་པའི་གྲངས"
+            },
+            {
+              "anchor": "U00039",
+              "text": "སྟོང་དང་ལྡན་",
+              "extent": "opening",
+              "glyph_confidence": "medium"
+            }
+          ],
+          "signs": [
+            {
+              "id": "S10",
+              "graphic": "2S",
+              "between": [
+                "U00035",
+                "U00036"
+              ]
+            },
+            {
+              "id": "S11",
+              "graphic": "2S",
+              "between": [
+                "U00036",
+                "U00037"
+              ]
+            },
+            {
+              "id": "S12",
+              "graphic": "2S",
+              "between": [
+                "U00037",
+                "U00038"
+              ]
+            },
+            {
+              "id": "S13",
+              "graphic": "2S",
+              "between": [
+                "U00038",
+                "U00039"
+              ]
+            }
+          ],
+          "source_annotations": []
+        },
+        {
+          "physical_row": 4,
+          "approximate_native_bounds": [
+            725,
+            642,
+            5075,
+            850
+          ],
+          "observed_sequence": "པ་དབུས་མའི་གནས[S14] ཡོན་ཏན་ཐམས་ཅད་རྫོགས་པ་ཡི[S15] རྐྱེན་བཞིས་སྨིན་པའི་གཟུགས་ཀྱི་སྐུ[S16] བརྫུས་ནས་སྐྱེས་པའི་ལུས་བླངས་ཏེ[S17] སྟོན་པ་[F01]",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00039",
+              "text": "པ་དབུས་མའི་གནས",
+              "extent": "completion"
+            },
+            {
+              "anchor": "U00040",
+              "text": "ཡོན་ཏན་ཐམས་ཅད་རྫོགས་པ་ཡི"
+            },
+            {
+              "anchor": "U00041",
+              "text": "རྐྱེན་བཞིས་སྨིན་པའི་གཟུགས་ཀྱི་སྐུ"
+            },
+            {
+              "anchor": "U00042",
+              "text": "བརྫུས་ནས་སྐྱེས་པའི་ལུས་བླངས་ཏེ"
+            },
+            {
+              "anchor": "U00043",
+              "text": "སྟོན་པ་",
+              "extent": "opening"
+            }
+          ],
+          "signs": [
+            {
+              "id": "S14",
+              "graphic": "2S",
+              "between": [
+                "U00039",
+                "U00040"
+              ]
+            },
+            {
+              "id": "S15",
+              "graphic": "2S",
+              "between": [
+                "U00040",
+                "U00041"
+              ]
+            },
+            {
+              "id": "S16",
+              "graphic": "2S",
+              "between": [
+                "U00041",
+                "U00042"
+              ]
+            },
+            {
+              "id": "S17",
+              "graphic": "2S",
+              "between": [
+                "U00042",
+                "U00043"
+              ]
+            },
+            {
+              "id": "F01",
+              "graphic": "Three short descending, wedge-like upper-register strokes",
+              "position": "After སྟོན་པ་ at the right end.",
+              "allocation": "Row-end filler group; no long terminal shad here.",
+              "count_confidence": "medium"
+            }
+          ],
+          "source_annotations": []
+        },
+        {
+          "physical_row": 5,
+          "approximate_native_bounds": [
+            725,
+            768,
+            5075,
+            975
+          ],
+          "observed_sequence": "སངས་རྒྱས་བཅོམ་ལྡན་འདས[S18] ལོ་བརྒྱད་མཛེས་པའི་གཟུགས་སུ་སྤྲུལ[S19] ག⟦Q02⟧ཟིགས་སྟངས་གསུམ་ལས་སྟོན་པའི་སྐུ[S20] སྣང་བའི་འོད་ནི་བསམ་མི་[F02]",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00043",
+              "text": "སངས་རྒྱས་བཅོམ་ལྡན་འདས",
+              "extent": "completion"
+            },
+            {
+              "anchor": "U00044",
+              "text": "ལོ་བརྒྱད་མཛེས་པའི་གཟུགས་སུ་སྤྲུལ"
+            },
+            {
+              "anchor": "U00045",
+              "text": "ག⟦Q02⟧ཟིགས་སྟངས་གསུམ་ལས་སྟོན་པའི་སྐུ"
+            },
+            {
+              "anchor": "U00046",
+              "text": "སྣང་བའི་འོད་ནི་བསམ་མི་",
+              "extent": "opening"
+            }
+          ],
+          "signs": [
+            {
+              "id": "S18",
+              "graphic": "2S",
+              "between": [
+                "U00043",
+                "U00044"
+              ]
+            },
+            {
+              "id": "S19",
+              "graphic": "2S",
+              "between": [
+                "U00044",
+                "U00045"
+              ]
+            },
+            {
+              "id": "S20",
+              "graphic": "2S",
+              "between": [
+                "U00045",
+                "U00046"
+              ]
+            },
+            {
+              "id": "F02",
+              "graphic": "Three short descending, wedge-like upper-register strokes",
+              "position": "After མི་ at the right end.",
+              "allocation": "Row-end filler group; ཁྱབ begins the next physical row.",
+              "count_confidence": "medium"
+            }
+          ],
+          "source_annotations": []
+        },
+        {
+          "physical_row": 6,
+          "approximate_native_bounds": [
+            725,
+            887,
+            5075,
+            1080
+          ],
+          "observed_sequence": "ཁྱབ[S21] སྤྲུལ་པ་མཛད་པ་དང་པོར་བྱུང་[S22] རྒྱུད་འབྱུང་གླེང་⟦Q03⟧ཞི་དང་པོ་ལ[S23] ལྔ་པོ་རྣམས་⟦Q04⟧འཛིན[S24] གདུལ་བྱ་བརྫུས་ནས་སྐྱེས་པ་ལ[S25] ཁ་དོག་",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00046",
+              "text": "ཁྱབ",
+              "extent": "completion"
+            },
+            {
+              "anchor": "U00047",
+              "text": "སྤྲུལ་པ་མཛད་པ་དང་པོར་བྱུང་"
+            },
+            {
+              "anchor": "U00048",
+              "text": "རྒྱུད་འབྱུང་གླེང་⟦Q03⟧ཞི་དང་པོ་ལ"
+            },
+            {
+              "anchor": "U00049",
+              "text": "ལྔ་པོ་རྣམས་⟦Q04⟧འཛིན"
+            },
+            {
+              "anchor": "U00050",
+              "text": "གདུལ་བྱ་བརྫུས་ནས་སྐྱེས་པ་ལ"
+            },
+            {
+              "anchor": "U00051",
+              "text": "ཁ་དོག་",
+              "extent": "opening"
+            }
+          ],
+          "signs": [
+            {
+              "id": "S21",
+              "graphic": "2S",
+              "between": [
+                "U00046",
+                "U00047"
+              ]
+            },
+            {
+              "id": "S22",
+              "graphic": "2S",
+              "between": [
+                "U00047",
+                "U00048"
+              ]
+            },
+            {
+              "id": "S23",
+              "graphic": "2S",
+              "between": [
+                "U00048",
+                "U00049"
+              ]
+            },
+            {
+              "id": "S24",
+              "graphic": "2S",
+              "between": [
+                "U00049",
+                "U00050"
+              ]
+            },
+            {
+              "id": "S25",
+              "graphic": "2S",
+              "between": [
+                "U00050",
+                "U00051"
+              ],
+              "qualification": "The following ཁ has its own upright limb; that limb is not an additional shad."
+            }
+          ],
+          "source_annotations": []
+        }
+      ],
+      "observations": [
+        {
+          "id": "B03-P0004-O01",
+          "anchors": [
+            "U00026"
+          ],
+          "source_span": "PDF3 final row ends འདས་དང་; PDF4 row 1 begins མ་འོངས་ད་ལྟར་མེད.",
+          "base_span": "འདས་དང་མ་འོངས་ད་ལྟར་མེད། །",
+          "category": "page_boundary",
+          "neighboring_context": "Incoming fragment precedes U00027.",
+          "approximate_native_bounds": [
+            725,
+            325,
+            1460,
+            485
+          ],
+          "confidence": {
+            "glyphs": "high",
+            "placement": "high",
+            "punctuation": "high"
+          },
+          "rationale": "The preceding-page tail and target opening are visible; no opening shad or ornament precedes the target fragment.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        },
+        {
+          "id": "B03-P0004-O02",
+          "anchors": [
+            "U00029",
+            "U00033",
+            "U00034"
+          ],
+          "source_span": "གི[S07] [D01] ཐུན་མོང་གི་གླེང་གཞི་བཀོད⟦Q01⟧[S08] འབྱུང་བ",
+          "base_span": "U00029: ཐུན་མོང་གི་གླེང་གཞི་བཀོད་པ།; base orders it before U00030.",
+          "category": "physical_interleaving_and_source_layer",
+          "neighboring_context": "Row 2, after the elements phrase and before འབྱུང་བ་ཆེན་པོ.",
+          "approximate_native_bounds": [
+            3050,
+            425,
+            3950,
+            605
+          ],
+          "confidence": {
+            "placement": "high",
+            "initial_wording": "high",
+            "terminal_wording": "low",
+            "boundary_allocation": "medium"
+          },
+          "rationale": "The small script occupies this physical position. Its final material is not supplied from the base. S07 and the second stroke of S08 provisionally delimit the main-text boundary around the inserted layer.",
+          "coordinator_disposition": "Source-heading physical placement accepted; final lexical segmentation left open pending targeted adjudication."
+        },
+        {
+          "id": "B03-P0004-O03",
+          "anchors": [
+            "U00030",
+            "U00031"
+          ],
+          "source_span": "ན[S04] དགའ",
+          "base_span": {
+            "source": "ན།",
+            "reading": "ན། །"
+          },
+          "category": "punctuation_confirmation",
+          "neighboring_context": "Row 1 after དུས་གཅིག་ན and before དགའ་དང.",
+          "approximate_native_bounds": [
+            4420,
+            290,
+            4680,
+            475
+          ],
+          "confidence": {
+            "glyphs": "high",
+            "stroke_count": "high",
+            "alignment": "high"
+          },
+          "rationale": "Two separated long strokes are visible; this supports the supplied reading punctuation.",
+          "coordinator_disposition": "Reconfirms an existing two-shad correction within this boundary; no new change."
+        },
+        {
+          "id": "B03-P0004-O04",
+          "anchors": [
+            "U00035",
+            "U00036"
+          ],
+          "source_span": "མེད་པའི[S10] རང་སྣང",
+          "base_span": {
+            "source": "མེད་པའི།",
+            "reading": "མེད་པའི། །"
+          },
+          "category": "punctuation_confirmation",
+          "neighboring_context": "Row 3, completion of the phrase begun by ཤ་ཁྲག on row 2.",
+          "approximate_native_bounds": [
+            1370,
+            565,
+            1840,
+            730
+          ],
+          "confidence": {
+            "glyphs": "high",
+            "stroke_count": "high",
+            "alignment": "high"
+          },
+          "rationale": "The two boundary strokes are distinct from the final syllable and following ར.",
+          "coordinator_disposition": "Reconfirms an existing two-shad correction within this boundary; no new change."
+        },
+        {
+          "id": "B03-P0004-O05",
+          "anchors": [
+            "U00039"
+          ],
+          "source_span": "སྟོང་དང་ལྡན་ / པ་དབུས་མའི་གནས",
+          "base_span": {
+            "source": "སྟོད་དང་ལྡན་པ་དབུས་མའི་གནས",
+            "reading": "སྟོང་དང་ལྡན་པ་དབུས་མའི་གནས"
+          },
+          "category": "glyph_reading_support",
+          "neighboring_context": "Right end of row 3 continuing at the left of row 4.",
+          "approximate_native_bounds": [
+            4580,
+            535,
+            5075,
+            730
+          ],
+          "confidence": {
+            "final_consonant": "medium",
+            "row_join": "high",
+            "alignment": "high"
+          },
+          "rationale": "The observed final consonant favours ང. This supports, without newly certifying, the existing intervention.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        },
+        {
+          "id": "B03-P0004-O06",
+          "anchors": [
+            "U00043"
+          ],
+          "source_span": "སྟོན་པ་[F01] / སངས་རྒྱས་བཅོམ་ལྡན་འདས",
+          "base_span": "སྟོན་པ་སངས་རྒྱས་བཅོམ་ལྡན་འདས། །",
+          "category": "row_end_filler",
+          "neighboring_context": "Row 4 right end to row 5 left beginning.",
+          "approximate_native_bounds": [
+            4740,
+            630,
+            5075,
+            830
+          ],
+          "confidence": {
+            "lexical_join": "high",
+            "short_mark_count": "medium",
+            "distinction_from_long_shad": "high"
+          },
+          "rationale": "The short upper-register marks occupy remaining row space; the unit continues on the next row.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        },
+        {
+          "id": "B03-P0004-O07",
+          "anchors": [
+            "U00046"
+          ],
+          "source_span": "བསམ་མི་[F02] / ཁྱབ[S21]",
+          "base_span": "བསམ་མི་ཁྱབ། །",
+          "category": "row_end_filler",
+          "neighboring_context": "Row 5 right end to row 6 left beginning.",
+          "approximate_native_bounds": [
+            4660,
+            755,
+            5075,
+            960
+          ],
+          "confidence": {
+            "lexical_join": "high",
+            "short_mark_count": "medium",
+            "distinction_from_long_shad": "high"
+          },
+          "rationale": "The terminal syllable ཁྱབ is printed at the next row's beginning; the short marks are retained separately.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        },
+        {
+          "id": "B03-P0004-O08",
+          "anchors": [
+            "U00045"
+          ],
+          "source_span": "ག⟦Q02⟧ཟིགས",
+          "base_span": "གཟིགས",
+          "category": "unresolved_internal_separator",
+          "neighboring_context": "After U00044's boundary, before སྟངས་གསུམ.",
+          "approximate_native_bounds": [
+            2960,
+            800,
+            3250,
+            965
+          ],
+          "confidence": {
+            "letter_sequence": "high",
+            "possible_point": "low",
+            "alignment": "high"
+          },
+          "rationale": "The separated prefix-like ག is visible, but a printed point between it and ཟིགས is not securely distinguished. No extra syllable is adopted.",
+          "coordinator_disposition": "Retain the existing no-added-internal-tsheg encoding. Both native inspection and target report find no distinct intervening dot; this resolves only the proposed extra-separator question. Supplemental literal gcig reading rejected."
+        },
+        {
+          "id": "B03-P0004-O09",
+          "anchors": [
+            "U00048"
+          ],
+          "source_span": "གླེང་⟦Q03⟧ཞི་དང",
+          "base_span": "གླེང་གཞི་དང",
+          "category": "unresolved_glyph_segmentation",
+          "neighboring_context": "Row 6, following རྒྱུད་འབྱུང and preceding དང་པོ་ལ.",
+          "approximate_native_bounds": [
+            2300,
+            900,
+            2700,
+            1060
+          ],
+          "confidence": {
+            "surrounding_glyphs": "high",
+            "prefix_component": "low",
+            "alignment": "high"
+          },
+          "rationale": "The component immediately before ཞི remains uncertain; neither an additional པ syllable nor the base prefix is silently supplied.",
+          "coordinator_disposition": "Specific provisional glyph or separator question, not accepted mismatch. See separate 20260929 targeted adjudication."
+        },
+        {
+          "id": "B03-P0004-O10",
+          "anchors": [
+            "U00049"
+          ],
+          "source_span": "ལྔ་པོ་རྣམས་⟦Q04⟧འཛིན",
+          "base_span": "ལྔ་པོ་རྣམས་ཀྱི་ས་བོན་འཛིན",
+          "category": "possible_lexical_or_segmentation_mismatch_unresolved",
+          "neighboring_context": "Row 6 between U00048 and གདུལ་བྱ.",
+          "approximate_native_bounds": [
+            3270,
+            885,
+            3760,
+            1045
+          ],
+          "confidence": {
+            "surrounding_glyphs": "high",
+            "candidate_reading": "low",
+            "alignment": "high"
+          },
+          "rationale": "The inspected middle span suggests ཀྱིས་དོན་, but its consonants and separators are insufficiently secure for adoption. The base's ཀྱི་ས་བོན is not treated as visual evidence.",
+          "coordinator_disposition": "Specific provisional glyph or separator question, not accepted mismatch. See separate 20260929 targeted adjudication."
+        },
+        {
+          "id": "B03-P0004-O11",
+          "anchors": [
+            "U00051"
+          ],
+          "source_span": "PDF4 row 6 ends ཁ་དོག་; PDF5 row 1 contains continuation དཀར་ཞིང་ཤ་གཟུགས་བྲལ.",
+          "base_span": "ཁ་དོག་དཀར་ཞིང་ཤ་གཟུགས་བྲལ། །",
+          "category": "page_boundary",
+          "neighboring_context": "After U00050's two-stroke boundary.",
+          "approximate_native_bounds": [
+            4800,
+            875,
+            5075,
+            1035
+          ],
+          "confidence": {
+            "target_fragment": "high",
+            "boundary_join": "high",
+            "target_terminal_punctuation": "high"
+          },
+          "rationale": "No terminal shad follows ཁ་དོག on PDF4. The following-page opening ornament and other opening marks belong to PDF5 and are not counted in this target inventory.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        }
+      ],
+      "canonical_record_ids": [
+        "SCAN-CH1-PHYS-P004-UNCERTAINTIES"
+      ],
       "independent_review": {
         "task_id": "C1-BASE-PHYSICAL",
         "batch_id": "B03-P0004",
@@ -4364,20 +5094,996 @@
           "certification_scope": "PDF4 only; no whole-chapter certification.",
           "tools_or_external_actions": "None."
         },
-        "proposals_adopted": false
+        "proposals_adopted": false,
+        "images_hash_verified": 27
+      },
+      "source_layers_and_non_main_regions": [
+        {
+          "id": "N01",
+          "region": "Left framed gutter inscription",
+          "approximate_native_bounds": [
+            603,
+            620,
+            715,
+            950
+          ],
+          "observed_sequence": "⟦Q05a⟧ཐལ་⟦Q05b⟧[M01]",
+          "tentative_whole_reading": "སྒྲ་ཐལ་འགྱུར།",
+          "confidence": "medium-low for the complete wording; medium for ཐལ",
+          "signs": [
+            {
+              "id": "M01",
+              "graphic": "One short upright terminal stroke",
+              "interpretation": "Probable shad; kept separate from the frame.",
+              "confidence": "medium"
+            }
+          ],
+          "qualification": "Inspected in the native left column and rotated view. No secure Tibetan folio numeral identified."
+        },
+        {
+          "id": "N02",
+          "region": "External mechanical numbering",
+          "approximate_native_bounds": [
+            95,
+            620,
+            195,
+            990
+          ],
+          "observed_sequence": "000004",
+          "description": "Six-digit stamp: five zeros and a 4; differently oriented from the Tibetan marginal inscription.",
+          "classification": "External numbering, not main text or a Tibetan folio designation."
+        },
+        {
+          "id": "N03",
+          "region": "Frame and gutters",
+          "approximate_native_bounds": [
+            580,
+            250,
+            5225,
+            1085
+          ],
+          "description": "Sloping rectangular outer frame, inner left and right vertical separators, narrow inscribed left gutter and blank right gutter. Thickened corners and frame strokes are not punctuation.",
+          "ornaments": "No separate opening ornament observed on PDF4."
+        },
+        {
+          "id": "N04",
+          "region": "Outside-frame faint mark",
+          "approximate_native_bounds": [
+            40,
+            430,
+            125,
+            535
+          ],
+          "description": "Faint open curved impression; no defensible Tibetan reading or punctuation assignment.",
+          "alignment": null
+        },
+        {
+          "id": "N05",
+          "region": "Upper and lower exterior margins",
+          "approximate_native_bounds": [
+            0,
+            0,
+            5696,
+            1344
+          ],
+          "description": "Otherwise blank margins with scattered specks. Bands 24 and 25 contain no legible writing; band 26 contains faint marks near the far lower right, without a recoverable textual sequence.",
+          "alignment": null
+        }
+      ],
+      "unread_or_uncertain_spans": [
+        {
+          "id": "Q01",
+          "location": "A01, after བཀོད and before S08",
+          "approximate_native_bounds": [
+            3660,
+            425,
+            3870,
+            595
+          ],
+          "question": "Final small-script glyph material and its separation; presence of the base's final པ is not certified.",
+          "status": "Inspected, unresolved."
+        },
+        {
+          "id": "Q02",
+          "location": "Row 5, between ག and ཟིགས",
+          "approximate_native_bounds": [
+            3050,
+            810,
+            3150,
+            920
+          ],
+          "question": "Is there a printed tsheg, or only separation between the prefix and root?",
+          "status": "Inspected, unresolved."
+        },
+        {
+          "id": "Q03",
+          "location": "Row 6, after གླེང་ and immediately before ཞི",
+          "approximate_native_bounds": [
+            2410,
+            915,
+            2600,
+            1040
+          ],
+          "question": "Identity and segmentation of the upright prefix-like material; do not infer an extra པ or restore ག from the base.",
+          "status": "Inspected, unresolved."
+        },
+        {
+          "id": "Q04",
+          "location": "Row 6, between རྣམས་ and འཛིན",
+          "approximate_native_bounds": [
+            3290,
+            895,
+            3670,
+            1040
+          ],
+          "question": "Consonants and syllable boundaries in the span tentatively resembling ཀྱིས་དོན་.",
+          "status": "Inspected, unresolved; no lexical intervention proposed for adoption."
+        },
+        {
+          "id": "Q05a",
+          "location": "Initial cluster of N01 marginal inscription",
+          "approximate_native_bounds": [
+            603,
+            620,
+            715,
+            725
+          ],
+          "question": "Stack tentatively read སྒྲ་; lower components are not securely resolved.",
+          "status": "Inspected in native and rotated views."
+        },
+        {
+          "id": "Q05b",
+          "location": "Final lexical cluster of N01, before M01",
+          "approximate_native_bounds": [
+            603,
+            780,
+            715,
+            950
+          ],
+          "question": "Cluster tentatively read འགྱུར; complete stack and vowel detail remain uncertain.",
+          "status": "Inspected in native and rotated views."
+        },
+        {
+          "id": "Q06",
+          "location": "F01 and F02",
+          "approximate_native_bounds": [
+            4950,
+            630,
+            5075,
+            845
+          ],
+          "question": "Three short filler strokes are the present count for each group; distinction of the immediately preceding terminal point from the group remains less secure than the distinction from long shads.",
+          "status": "Inspected; retain graphic groups pending finer adjudication."
+        }
+      ],
+      "unexamined_spans": [
+        {
+          "source": "PDF3",
+          "span": "Interior text except the outgoing final-row boundary fragment",
+          "reason": "Outside the declared target."
+        },
+        {
+          "source": "PDF5",
+          "span": "Interior text after the opening continuation of U00051",
+          "reason": "Outside the declared target."
+        }
+      ],
+      "next_physical_span": "Retain every bounded question in this page ledger; integrate saved next-page report rather than repeat the main lexical pass.",
+      "integration_20260929": {
+        "verified_inputs": {
+          "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B03-P0004-reader-reading.txt",
+          "sha256": "bde1f4498648b4281a8424051ec23973369ce53ebe9c801902bcfe9bc499be22",
+          "images_hash_verified": 27,
+          "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B03-P0004-reader-execution.json"
+        },
+        "baseline_commit": "d0a6fd1114d3dfeb40ec79a5c928dc2a07e1e3b4",
+        "coordinator": {
+          "summary": "Adzom PDF4: six-row physical ledger integrated, with source-heading placement and retained U00030/U00035 double-shad corrections; targeted lexical/separator questions remain separately adjudicated.",
+          "next_step": "Retain every bounded question in this page ledger; integrate saved next-page report rather than repeat the main lexical pass.",
+          "detail": "All decisions are scoped to the reported component or placement. Graphic inventory is not automatic Unicode adoption; raw reports remain unchanged.",
+          "observation_dispositions": {
+            "B03-P0004-O01": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption.",
+            "B03-P0004-O02": "Source-heading physical placement accepted; final lexical segmentation left open pending targeted adjudication.",
+            "B03-P0004-O03": "Reconfirms an existing two-shad correction within this boundary; no new change.",
+            "B03-P0004-O04": "Reconfirms an existing two-shad correction within this boundary; no new change.",
+            "B03-P0004-O05": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption.",
+            "B03-P0004-O06": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption.",
+            "B03-P0004-O07": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption.",
+            "B03-P0004-O08": "Specific provisional glyph or separator question, not accepted mismatch. See separate 20260929 targeted adjudication.",
+            "B03-P0004-O09": "Specific provisional glyph or separator question, not accepted mismatch. See separate 20260929 targeted adjudication.",
+            "B03-P0004-O10": "Specific provisional glyph or separator question, not accepted mismatch. See separate 20260929 targeted adjudication.",
+            "B03-P0004-O11": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+          }
+        },
+        "reader_claims_not_automatically_certified": true
+      },
+      "graphic_legend": {
+        "[Snn]": "Reference to one inventoried boundary group; 2S means two distinct, separated long shad strokes, not a compound Unicode sign.",
+        "[D01]": "Isolated short horizontal stroke.",
+        "[Fnn]": "Three short upper-register strokes following the transcribed terminal tsheg; not expanded into shads.",
+        "⟦A01⟧": "Physically interleaved small-script source text, transcribed separately.",
+        "⟦Qnn⟧": "Editorial marker for the bounded uncertainty specified below; not source writing.",
+        "spaces": "Editorial spacing; not a measurement of source gaps.",
+        "bounds": "Approximate coordinates in the supplied 5696 × 1344 target image."
+      },
+      "targeted_adjudication_20260929": {
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B03-P0004-target-adjudication-20260929-reading.txt",
+        "sha256": "d62f38978eb4523e5bc02e3973c607e16403524d6404ffa341d48c1c29094071",
+        "scope": "Four targeted component questions, no new lexical reading adopted",
+        "dispositions": {
+          "U00029": "Heading-final letters still unresolved; no pa deletion or reconstruction.",
+          "U00045": "Retain the existing no-added-internal-tsheg encoding. Both native inspection and target report find no distinct intervening dot; this resolves only the proposed extra-separator question.",
+          "U00048": "Retain supplied wording with prefix/letter segmentation qualified; no extra pa or reconstructed ga adopted.",
+          "U00049": "Retain supplied wording with the rnams-to-dzin cluster qualified; neither kyis-don nor any other alternative is accepted."
+        },
+        "rejected_lexical_label": {
+          "anchor": "U00045",
+          "raw": "གཅིག་",
+          "disposition": "Not adopted: the intended context is the gzigs phrase; the supplemental moderate-confidence gcig quotation is not a source correction. Accept only the separately corroborated absence of a distinct internal dot."
+        },
+        "coordinator_native_views": {
+          "task_id": "C1-BASE-PHYSICAL",
+          "target_overviews_reinspected": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "coordinator": "ChatGPT",
+          "scope": "Native page orientation; specific row6 and small-heading snippets on PDF4; tiered-sign and ordinary-shad component checks on PDF6 and7",
+          "base_wording_changes_adopted": false,
+          "page4": "The close crop keeps final heading-letter segmentation, gleng-prefix segmentation, and the rnams-to-dzin wording bounded pending targeted review. U00045 shows an open prefix/root gap without a clearly isolated full dot; not yet accepted as a new encoding decision.",
+          "page6": "Tiered sign plus separate upright occurs at row2/row5 left. Preserve shape distinction, no new lexical reading.",
+          "page7": "Two independent boundary uprights are distinguishable in inspected intervals; reuse preserved full-page adjudication rejecting the 22 deletions, not the raw one-bar claim.",
+          "adjudication_packet": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B03-P0004-target-adjudication-20260929-spec.json"
+        },
+        "next_step": "Use a genuinely discriminating source reading for remaining glyph questions; do not multiply identical unresolved attempts."
       }
     },
     {
       "batch_id": "B04-P0005",
-      "status": "reading_captured_pending_coordinator_review",
+      "status": "review_integrated_with_bounded_uncertainties",
       "owner": "reader-C1-BASE-PHYSICAL-B04-P0005-reader",
       "baseline_commit": "d5a05bc3c9c6abee18459895c4fec8aa6e093548",
       "scope": "Complete physical inventory of ADZOM PDF5 only, all main rows, source layers, ornaments, filler signs and marginal inscriptions. Adjacent pages are boundary context only. Existing main lexical pass is retained; record every boundary and any newly observed mismatch without grammatical normalization.",
       "target_page": 5,
       "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B04-P0005/manifest.json",
       "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B04-P0005-reader-spec.json",
-      "rows_actually_compared": [],
-      "observations": [],
+      "rows_actually_compared": [
+        {
+          "row_id": "P005-R1",
+          "approximate_native_bounds": [
+            700,
+            305,
+            5060,
+            465
+          ],
+          "observed_sequence": "[O01][S01] [H01] [S02]དཀར་ཞིང་ཤ་གཟུགས་བྲལ[S03] [S04]ཟང་ཐལ་དྲི་མ་མེད་པའི་སྐུ[S05] [S06]ཉོན་མོངས་རགས་པ་རང་དག་སྟེ[S07] [S08]བག་ལ་ཉལ་བ་མ་ཡིན་པས[S09] [S10]མངོན་པར་རྒྱུ[Q01]",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00051",
+              "text": "དཀར་ཞིང་ཤ་གཟུགས་བྲལ",
+              "extent": "Continues previous page."
+            },
+            {
+              "anchor": "U00052",
+              "text": "ཟང་ཐལ་དྲི་མ་མེད་པའི་སྐུ"
+            },
+            {
+              "anchor": "U00053",
+              "text": "ཉོན་མོངས་རགས་པ་རང་དག་སྟེ"
+            },
+            {
+              "anchor": "U00054",
+              "text": "བག་ལ་ཉལ་བ་མ་ཡིན་པས"
+            },
+            {
+              "anchor": "U00055",
+              "text": "མངོན་པར་རྒྱུ",
+              "extent": "Continues on R2."
+            }
+          ],
+          "signs": [
+            {
+              "ids": [
+                "S01"
+              ],
+              "graphic": "V",
+              "position": "After O01, before H01."
+            },
+            {
+              "ids": [
+                "S02"
+              ],
+              "graphic": "V",
+              "position": "After H01, before དཀར."
+            },
+            {
+              "ids": [
+                "S03",
+                "S04"
+              ],
+              "graphic_each": "V",
+              "position": "Between བྲལ and ཟང."
+            },
+            {
+              "ids": [
+                "S05",
+                "S06"
+              ],
+              "graphic_each": "V",
+              "position": "Between སྐུ and ཉོན."
+            },
+            {
+              "ids": [
+                "S07",
+                "S08"
+              ],
+              "graphic_each": "V",
+              "position": "Between སྟེ and བག."
+            },
+            {
+              "ids": [
+                "S09",
+                "S10"
+              ],
+              "graphic_each": "V",
+              "position": "Between པས and མངོན."
+            }
+          ],
+          "source_annotations": []
+        },
+        {
+          "row_id": "P005-R2",
+          "approximate_native_bounds": [
+            700,
+            430,
+            5060,
+            605
+          ],
+          "observed_sequence": "བ་རྣམ་གཉིས་བྲལ[S11] [S12]དབང་པོ་ལྔ་ནི་རང་གསལ་ལ[S13] [S14]མཚན་མ་རྣམས་ནི་སྦུབས་སུ་ནུབ[S15] [S16]དབུགས་ལ་བརྟེན་པའི་འགྲོ་འོང་ཟད[S17] [S18]བར་སྣང་དག་ལ་གནས[Q02]",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00055",
+              "text": "བ་རྣམ་གཉིས་བྲལ",
+              "extent": "Continues R1."
+            },
+            {
+              "anchor": "U00056",
+              "text": "དབང་པོ་ལྔ་ནི་རང་གསལ་ལ"
+            },
+            {
+              "anchor": "U00057",
+              "text": "མཚན་མ་རྣམས་ནི་སྦུབས་སུ་ནུབ"
+            },
+            {
+              "anchor": "U00058",
+              "text": "དབུགས་ལ་བརྟེན་པའི་འགྲོ་འོང་ཟད"
+            },
+            {
+              "anchor": "U00059",
+              "text": "བར་སྣང་དག་ལ་གནས",
+              "extent": "Continues on R3."
+            }
+          ],
+          "signs": [
+            {
+              "ids": [
+                "S11",
+                "S12"
+              ],
+              "graphic_each": "V",
+              "position": "Between བྲལ and དབང."
+            },
+            {
+              "ids": [
+                "S13",
+                "S14"
+              ],
+              "graphic_each": "V",
+              "position": "Between ལ and མཚན."
+            },
+            {
+              "ids": [
+                "S15",
+                "S16"
+              ],
+              "graphic_each": "V",
+              "position": "Between ནུབ and དབུགས."
+            },
+            {
+              "ids": [
+                "S17",
+                "S18"
+              ],
+              "graphic_each": "V",
+              "position": "Between ཟད and བར."
+            }
+          ],
+          "source_annotations": []
+        },
+        {
+          "row_id": "P005-R3",
+          "approximate_native_bounds": [
+            700,
+            550,
+            5060,
+            735
+          ],
+          "observed_sequence": "བཅས་ནས[S19] [S20]ཕན་ཚུན་འཁོར་དང་ལངས་པར་བྱེད[S21] [S22]འགྲོ་དང་འགྲེང་དང་ཉལ་བ་དང་[S23] [S24]བསྐྱོད་ཅིང་རྒྱུག་པའི་རྣམ་པ་རྣམས[S25] [S26]བར་སྣང་ཉིད་ལས་གཞན[Q03]",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00059",
+              "text": "བཅས་ནས",
+              "extent": "Continues R2."
+            },
+            {
+              "anchor": "U00060",
+              "text": "ཕན་ཚུན་འཁོར་དང་ལངས་པར་བྱེད"
+            },
+            {
+              "anchor": "U00061",
+              "text": "འགྲོ་དང་འགྲེང་དང་ཉལ་བ་དང་"
+            },
+            {
+              "anchor": "U00062",
+              "text": "བསྐྱོད་ཅིང་རྒྱུག་པའི་རྣམ་པ་རྣམས"
+            },
+            {
+              "anchor": "U00063",
+              "text": "བར་སྣང་ཉིད་ལས་གཞན",
+              "extent": "Continues on R4."
+            }
+          ],
+          "signs": [
+            {
+              "ids": [
+                "S19",
+                "S20"
+              ],
+              "graphic_each": "V",
+              "position": "Between ནས and ཕན."
+            },
+            {
+              "ids": [
+                "S21",
+                "S22"
+              ],
+              "graphic_each": "V",
+              "position": "Between བྱེད and འགྲོ."
+            },
+            {
+              "ids": [
+                "S23",
+                "S24"
+              ],
+              "graphic_each": "V",
+              "position": "After དང་, before བསྐྱོད."
+            },
+            {
+              "ids": [
+                "S25",
+                "S26"
+              ],
+              "graphic_each": "V",
+              "position": "Between རྣམས and བར."
+            }
+          ],
+          "source_annotations": []
+        },
+        {
+          "row_id": "P005-R4",
+          "approximate_native_bounds": [
+            700,
+            665,
+            5060,
+            850
+          ],
+          "observed_sequence": "ཅི་མིན[S27] [S28]རང་ལས་འོད་བྱུང་སྣང་བ་ལས[S29] [S30]ཉི་ཟླ་ལ་སོགས་འོད་མི་སྣང་[S31] [S32]གོས་མེད་འཇམ་པའི་ངང་ཚུལ་ཅན[S33] [S34]མཛེས་ཞིང་ལྡེམ་བག་ལྡན་པ་ལ[S35][S36]",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00063",
+              "text": "ཅི་མིན",
+              "extent": "Continues R3."
+            },
+            {
+              "anchor": "U00064",
+              "text": "རང་ལས་འོད་བྱུང་སྣང་བ་ལས"
+            },
+            {
+              "anchor": "U00065",
+              "text": "ཉི་ཟླ་ལ་སོགས་འོད་མི་སྣང་"
+            },
+            {
+              "anchor": "U00066",
+              "text": "གོས་མེད་འཇམ་པའི་ངང་ཚུལ་ཅན"
+            },
+            {
+              "anchor": "U00067",
+              "text": "མཛེས་ཞིང་ལྡེམ་བག་ལྡན་པ་ལ"
+            }
+          ],
+          "signs": [
+            {
+              "ids": [
+                "S27",
+                "S28"
+              ],
+              "graphic_each": "V",
+              "position": "Between མིན and རང."
+            },
+            {
+              "ids": [
+                "S29",
+                "S30"
+              ],
+              "graphic_each": "V",
+              "position": "Between ལས and ཉི."
+            },
+            {
+              "ids": [
+                "S31",
+                "S32"
+              ],
+              "graphic_each": "V",
+              "position": "After སྣང་, before གོས."
+            },
+            {
+              "ids": [
+                "S33",
+                "S34"
+              ],
+              "graphic_each": "V",
+              "position": "Between ཅན and མཛེས."
+            },
+            {
+              "ids": [
+                "S35",
+                "S36"
+              ],
+              "graphic_each": "V",
+              "position": "After final ལ, before the right frame."
+            }
+          ],
+          "source_annotations": []
+        },
+        {
+          "row_id": "P005-R5",
+          "approximate_native_bounds": [
+            700,
+            785,
+            5060,
+            965
+          ],
+          "observed_sequence": "བག་ཡངས་རྣམ་ཤེས་གུད་མེད་པར[S37] [S38]བསམ་གཏན་དང་པོར་གནས་པ་བཞིན[S39] [S40]མངོན་དུ་བྱ་དང་བྱེད་པ་བྲལ[S41] [S42]གཟུགས་མེད་ལས་ཀྱི་འགྱུར་བྱེད་ལྟར[S43][S44]",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00068",
+              "text": "བག་ཡངས་རྣམ་ཤེས་གུད་མེད་པར"
+            },
+            {
+              "anchor": "U00069",
+              "text": "བསམ་གཏན་དང་པོར་གནས་པ་བཞིན"
+            },
+            {
+              "anchor": "U00070",
+              "text": "མངོན་དུ་བྱ་དང་བྱེད་པ་བྲལ"
+            },
+            {
+              "anchor": "U00071",
+              "text": "གཟུགས་མེད་ལས་ཀྱི་འགྱུར་བྱེད་ལྟར"
+            }
+          ],
+          "signs": [
+            {
+              "ids": [
+                "S37",
+                "S38"
+              ],
+              "graphic_each": "V",
+              "position": "Between པར and བསམ."
+            },
+            {
+              "ids": [
+                "S39",
+                "S40"
+              ],
+              "graphic_each": "V",
+              "position": "Between བཞིན and མངོན."
+            },
+            {
+              "ids": [
+                "S41",
+                "S42"
+              ],
+              "graphic_each": "V",
+              "position": "Between བྲལ and གཟུགས."
+            },
+            {
+              "ids": [
+                "S43",
+                "S44"
+              ],
+              "graphic_each": "V",
+              "position": "After ལྟར, before the right frame."
+            }
+          ],
+          "source_annotations": []
+        },
+        {
+          "row_id": "P005-R6",
+          "approximate_native_bounds": [
+            700,
+            905,
+            5060,
+            1055
+          ],
+          "observed_sequence": "ཁམས་དང་གུད་བཅས་ལས་མི་སྣང་[S45] [S46]ཁྱད་པར་སྙིང་པོའི་པདྨ་ལས[S47] [S48]སྟོང་དང་རྩ་གཅིག་གཟུགས་རྣམས་ནི[S49] [S50]འཇའ་ཚོན་སྒྱུ་མ་ཇི་བཞིན་དུ[S51] [S52]སངས[F01]",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00072",
+              "text": "ཁམས་དང་གུད་བཅས་ལས་མི་སྣང་"
+            },
+            {
+              "anchor": "U00073",
+              "text": "ཁྱད་པར་སྙིང་པོའི་པདྨ་ལས"
+            },
+            {
+              "anchor": "U00074",
+              "text": "སྟོང་དང་རྩ་གཅིག་གཟུགས་རྣམས་ནི"
+            },
+            {
+              "anchor": "U00075",
+              "text": "འཇའ་ཚོན་སྒྱུ་མ་ཇི་བཞིན་དུ"
+            },
+            {
+              "anchor": "U00076",
+              "text": "སངས",
+              "extent": "Continues on PDF6."
+            }
+          ],
+          "signs": [
+            {
+              "ids": [
+                "S45",
+                "S46"
+              ],
+              "graphic_each": "V",
+              "position": "After སྣང་, before ཁྱད."
+            },
+            {
+              "ids": [
+                "S47",
+                "S48"
+              ],
+              "graphic_each": "V",
+              "position": "Between ལས and སྟོང."
+            },
+            {
+              "ids": [
+                "S49",
+                "S50"
+              ],
+              "graphic_each": "V",
+              "position": "Between ནི and འཇའ."
+            },
+            {
+              "ids": [
+                "S51",
+                "S52"
+              ],
+              "graphic_each": "V",
+              "position": "Between དུ and སངས."
+            }
+          ],
+          "source_annotations": []
+        }
+      ],
+      "observations": [
+        {
+          "id": "B04-O01",
+          "anchors": [
+            "U00051",
+            "U00076"
+          ],
+          "source_span": "Six physical main rows, transcribed above.",
+          "base_span": "U00051–U00076, partial at both page boundaries.",
+          "category": "physical_structure",
+          "neighboring_context": "PDF4 ending and PDF6 opening are context only.",
+          "approximate_native_bounds": [
+            700,
+            305,
+            5060,
+            1055
+          ],
+          "confidence": {
+            "row_count": "high",
+            "row_order": "high",
+            "bounds": "approximate"
+          },
+          "rationale": "The overview establishes six baselines; overlapping bands do not define additional rows.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        },
+        {
+          "id": "B04-O02",
+          "anchors": [
+            "U00051"
+          ],
+          "source_span": "PDF4: ཁ་དོག | PDF5: [O01][S01] [H01] [S02]དཀར་ཞིང་ཤ་གཟུགས་བྲལ",
+          "base_span": "ཁ་དོག་དཀར་ཞིང་ཤ་གཟུགས་བྲལ། །",
+          "category": "page_boundary_and_opening_signs",
+          "neighboring_context": "PDF5 first ordinary lettering is དཀར, not ཁ་དོག.",
+          "approximate_native_bounds": [
+            700,
+            305,
+            1990,
+            465
+          ],
+          "confidence": {
+            "lexical_boundary": "high",
+            "vertical_sign_presence": "high",
+            "ornament_identity": "medium",
+            "horizontal_stroke_function": "low"
+          },
+          "rationale": "The ornament, its following vertical, horizontal stroke and pre-text vertical are distinct physical components; none supplies missing lexical material.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        },
+        {
+          "id": "B04-O03",
+          "anchors": [
+            "U00055"
+          ],
+          "source_span": "R1 མངོན་པར་རྒྱུ[Q01] | R2 བ་རྣམ་གཉིས་བྲལ",
+          "base_span": "མངོན་པར་རྒྱུ་བ་རྣམ་གཉིས་བྲལ། །",
+          "category": "physical_row_break",
+          "neighboring_context": "R1 follows མ་ཡིན་པས; R2 continues to དབང་པོ.",
+          "approximate_native_bounds": [
+            [
+              4630,
+              305,
+              5060,
+              465
+            ],
+            [
+              700,
+              430,
+              1280,
+              605
+            ]
+          ],
+          "confidence": {
+            "letters": "medium-high",
+            "alignment": "high",
+            "terminal_separator": "low"
+          },
+          "rationale": "The word sequence crosses the row boundary; the terminal small mark is not supplied from the base.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        },
+        {
+          "id": "B04-O04",
+          "anchors": [
+            "U00059"
+          ],
+          "source_span": "R2 བར་སྣང་དག་ལ་གནས[Q02] | R3 བཅས་ནས",
+          "base_span": "བར་སྣང་དག་ལ་གནས་བཅས་ནས། །",
+          "category": "physical_row_break",
+          "neighboring_context": "After འགྲོ་འོང་ཟད; before ཕན་ཚུན.",
+          "approximate_native_bounds": [
+            [
+              4320,
+              430,
+              5060,
+              605
+            ],
+            [
+              700,
+              550,
+              1120,
+              735
+            ]
+          ],
+          "confidence": {
+            "letters": "high",
+            "alignment": "high",
+            "terminal_separator": "low"
+          },
+          "rationale": "བཅས་ནས is the beginning of the following physical row, not an inserted annotation.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        },
+        {
+          "id": "B04-O05",
+          "anchors": [
+            "U00063"
+          ],
+          "source_span": "R3 བར་སྣང་ཉིད་ལས་གཞན[Q03] | R4 ཅི་མིན",
+          "base_span": "བར་སྣང་ཉིད་ལས་གཞན་ཅི་མིན། །",
+          "category": "physical_row_break",
+          "neighboring_context": "After རྣམ་པ་རྣམས; before རང་ལས.",
+          "approximate_native_bounds": [
+            [
+              4300,
+              550,
+              5060,
+              735
+            ],
+            [
+              700,
+              665,
+              1010,
+              850
+            ]
+          ],
+          "confidence": {
+            "letters": "high",
+            "alignment": "high",
+            "terminal_separator": "low"
+          },
+          "rationale": "The continuation is visible at the next row's left edge.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        },
+        {
+          "id": "B04-O06",
+          "anchors": [
+            "U00067",
+            "U00068",
+            "U00071",
+            "U00072"
+          ],
+          "source_span": "R4 ལ[S35][S36] | R5 བག་ཡངས; R5 ལྟར[S43][S44] | R6 ཁམས་དང",
+          "base_span": "U00067 and U00071 each end with two base-reference shads.",
+          "category": "row_terminal_verticals",
+          "neighboring_context": "R5 and R6 begin directly with lettering, without an additional opening full-height vertical.",
+          "approximate_native_bounds": [
+            [
+              4890,
+              665,
+              5060,
+              850
+            ],
+            [
+              4890,
+              785,
+              5060,
+              965
+            ],
+            [
+              700,
+              785,
+              1150,
+              1055
+            ]
+          ],
+          "confidence": {
+            "stroke_count": "high",
+            "physical_placement": "high",
+            "editorial_unit_assignment": "unassigned"
+          },
+          "rationale": "Both terminal strokes are inventoried at the preceding row's right edge, once each.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        },
+        {
+          "id": "B04-O07",
+          "anchors": [
+            "U00076"
+          ],
+          "source_span": "PDF5 སངས[F01] | PDF6 རྒྱས་རྣམས་ཀྱི་གཟུགས་སྐུའོ",
+          "base_span": "སངས་རྒྱས་རྣམས་ཀྱི་གཟུགས་སྐུའོ། །",
+          "category": "page_boundary_and_terminal_marks",
+          "neighboring_context": "PDF5 preceding phrase is འཇའ་ཚོན་སྒྱུ་མ་ཇི་བཞིན་དུ.",
+          "approximate_native_bounds": [
+            4780,
+            895,
+            5060,
+            1055
+          ],
+          "confidence": {
+            "letters": "high",
+            "boundary_alignment": "high",
+            "short_mark_count": "medium",
+            "short_mark_function": "low"
+          },
+          "rationale": "Only སངས belongs to the target page's final lexical fragment. The short terminal marks are not expanded into base punctuation.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        },
+        {
+          "id": "B04-O08",
+          "anchors": [],
+          "source_span": "ཀ [Q04] གསུམ ཐལ་འགྱུར",
+          "base_span": null,
+          "category": "unaligned_marginal_inscription",
+          "neighboring_context": "Within the narrow strip left of the main text; separate from the external numerical stamp.",
+          "approximate_native_bounds": [
+            575,
+            295,
+            695,
+            1065
+          ],
+          "confidence": {
+            "physical_order": "high",
+            "ཀ": "high",
+            "tentative_སྒྲ": "medium-low",
+            "གསུམ": "high",
+            "ཐལ་འགྱུར": "medium-high",
+            "marginal_punctuation": "low"
+          },
+          "rationale": "The rotated edge clarifies the inscription's orientation but remains the same witness. Its components are retained in physical order.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        },
+        {
+          "id": "B04-O09",
+          "anchors": [
+            "U00061",
+            "U00065",
+            "U00072"
+          ],
+          "source_span": [
+            "དང་[S23]",
+            "སྣང་[S31]",
+            "སྣང་[S45]"
+          ],
+          "base_span": [
+            "དང་། །",
+            "སྣང༌། །",
+            "སྣང་། །"
+          ],
+          "category": "terminal_tshegs",
+          "neighboring_context": [
+            "Before བསྐྱོད",
+            "Before གོས",
+            "Before ཁྱད"
+          ],
+          "approximate_native_bounds": [
+            [
+              2970,
+              550,
+              3280,
+              735
+            ],
+            [
+              2650,
+              665,
+              2940,
+              850
+            ],
+            [
+              1590,
+              905,
+              1910,
+              1055
+            ]
+          ],
+          "confidence": {
+            "separator_presence": "medium-high",
+            "unicode_identity": "not_inferable"
+          },
+          "rationale": "The small terminal separators are distinguished from the following full-height verticals. The base's alternate tsheg code at U00065 is not a visually demonstrable spelling difference.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        },
+        {
+          "id": "B04-O10",
+          "anchors": [
+            "U00051",
+            "U00076"
+          ],
+          "source_span": "P005-R1–P005-R6 and inventories O01, H01, F01, M01, M02, FR01.",
+          "base_span": "Supplied lexical reference U00051–U00076.",
+          "category": "alignment_and_source_layers",
+          "neighboring_context": "The supplied U00049–U00050 and U00077–U00080 are outside the target-page main-text coverage.",
+          "approximate_native_bounds": [
+            550,
+            240,
+            5190,
+            1085
+          ],
+          "confidence": {
+            "main_sequence_alignment": "high",
+            "absence_of_separate_readable_notes": "medium-high",
+            "unresolved_details": "explicitly_bounded"
+          },
+          "rationale": "No newly supported main lexical mismatch was identified. No separate interlinear wording was identified; visible deep stacks and vowel limbs remain attached to main lettering. All identified unaligned components are recorded separately. This supplements the retained lexical pass rather than replacing it.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        }
+      ],
       "canonical_record_ids": [],
       "independent_review": {
         "task_id": "C1-BASE-PHYSICAL",
@@ -4401,21 +6107,1372 @@
           "review_status": "Informed independent agent reading, not blind review or human palaeographic certification.",
           "certification_scope": "This page only; neither complete resolution of every mark nor whole-chapter certification is claimed."
         },
-        "proposals_adopted": false
+        "proposals_adopted": false,
+        "images_hash_verified": 27
+      },
+      "source_layers_and_non_main_regions": [
+        {
+          "id": "O01",
+          "region": "R1 opening",
+          "approximate_native_bounds": [
+            700,
+            345,
+            840,
+            435
+          ],
+          "observed": "Ornamental group with two upper curls and paired sweeping lower strokes.",
+          "status": "Visible ornament; exact Unicode equivalence not assigned. Following vertical is separately inventoried as S01."
+        },
+        {
+          "id": "H01",
+          "region": "R1 opening gap",
+          "approximate_native_bounds": [
+            970,
+            370,
+            1110,
+            400
+          ],
+          "observed": "One detached fine, approximately horizontal stroke.",
+          "status": "Not a full-height shad; filler versus incidental mark unresolved."
+        },
+        {
+          "id": "M01",
+          "region": "Left inscription strip",
+          "approximate_native_bounds": [
+            580,
+            295,
+            695,
+            1065
+          ],
+          "physical_order": "ཀ [Q04] གསུམ ཐལ་འགྱུར",
+          "orientation": "Native top-to-bottom order; read horizontally in attachment 27.",
+          "components": [
+            {
+              "text": "ཀ",
+              "approximate_native_bounds": [
+                585,
+                295,
+                690,
+                380
+              ]
+            },
+            {
+              "text": "[Q04]",
+              "tentative_reading": "སྒྲ",
+              "approximate_native_bounds": [
+                590,
+                405,
+                695,
+                535
+              ]
+            },
+            {
+              "text": "གསུམ",
+              "approximate_native_bounds": [
+                585,
+                570,
+                695,
+                750
+              ]
+            },
+            {
+              "text": "ཐལ་འགྱུར",
+              "approximate_native_bounds": [
+                575,
+                785,
+                695,
+                1065
+              ]
+            }
+          ],
+          "status": "The folio wording physically intervenes between the tentative first title component and ཐལ་འགྱུར. No continuous title has been substituted for this order. No independent marginal shad is securely distinguished from terminal letter limbs."
+        },
+        {
+          "id": "M02",
+          "region": "External numerical stamp",
+          "approximate_native_bounds": [
+            90,
+            590,
+            195,
+            990
+          ],
+          "observed": "000005",
+          "status": "External stamp, read in its numeral orientation; native top-to-bottom order is reversed. Not Tibetan verse or a source annotation."
+        },
+        {
+          "id": "F01",
+          "region": "R6 right end after སངས",
+          "approximate_native_bounds": [
+            4990,
+            895,
+            5060,
+            945
+          ],
+          "observed": "Two short elevated, downward-pointing strokes near the inner right frame.",
+          "status": "Neither is a full-height vertical. Separation into terminal tsheg and filler, or a compound filler, remains unresolved; see Q05."
+        },
+        {
+          "id": "FR01",
+          "region": "Page frame",
+          "approximate_native_bounds": [
+            550,
+            240,
+            5190,
+            1085
+          ],
+          "observed": "Upper and lower horizontal rules; outer side rules; inner left rule separating the inscription strip; inner right rule separating a narrow blank panel.",
+          "status": "Frame lines are excluded from S01–S52."
+        },
+        {
+          "id": "BL01",
+          "region": "Right panel and external margins",
+          "approximate_native_bounds": [
+            0,
+            0,
+            5696,
+            1344
+          ],
+          "observed": "No further legible inscription found outside the recorded left strip and stamp. Lower-margin bands 24–26 contain no text; bands 21–23 show the lower rule, clipped preceding text and scattered speckling.",
+          "status": "No additional intentional ornament or annotation identified."
+        }
+      ],
+      "unread_or_uncertain_spans": [
+        {
+          "id": "Q01",
+          "row": "P005-R1",
+          "anchor": "U00055",
+          "approximate_native_bounds": [
+            4980,
+            305,
+            5060,
+            465
+          ],
+          "question": "Terminal small separator after རྒྱུ: presence and shape are not securely distinguished from worn upper strokes near the frame.",
+          "retained_reading": "རྒྱུ",
+          "extent": "Terminal separator only; not the rest of the row."
+        },
+        {
+          "id": "Q02",
+          "row": "P005-R2",
+          "anchor": "U00059",
+          "approximate_native_bounds": [
+            4990,
+            435,
+            5060,
+            565
+          ],
+          "question": "Whether the short raised trace after གནས is a complete tsheg or a fragment associated with the terminal lettering.",
+          "retained_reading": "གནས",
+          "extent": "Terminal small mark only."
+        },
+        {
+          "id": "Q03",
+          "row": "P005-R3",
+          "anchor": "U00063",
+          "approximate_native_bounds": [
+            4990,
+            550,
+            5060,
+            700
+          ],
+          "question": "Exact terminal separator after གཞན beside the inner frame.",
+          "retained_reading": "གཞན",
+          "extent": "Terminal small mark only."
+        },
+        {
+          "id": "Q04",
+          "region": "M01 second component",
+          "approximate_native_bounds": [
+            590,
+            405,
+            695,
+            535
+          ],
+          "question": "Compact stack tentatively read སྒྲ; its upper and lower components and any following separator are not secure enough for an unqualified transcription.",
+          "tentative_reading": "སྒྲ",
+          "extent": "One compact marginal group between ཀ and གསུམ."
+        },
+        {
+          "id": "Q05",
+          "region": "F01",
+          "approximate_native_bounds": [
+            4990,
+            895,
+            5060,
+            945
+          ],
+          "question": "Two short elevated strokes after སངས: terminal tsheg plus filler versus compound filler remains unresolved.",
+          "extent": "Short terminal marks only; no full-height closing shad identified."
+        },
+        {
+          "id": "Q06",
+          "region": "H01",
+          "approximate_native_bounds": [
+            970,
+            370,
+            1110,
+            400
+          ],
+          "question": "The horizontal stroke is visible, but intentional filler versus incidental mark cannot be established from this packet.",
+          "extent": "One detached horizontal stroke."
+        }
+      ],
+      "unexamined_spans": {
+        "within_target_page": [],
+        "outside_target_scope": [
+          {
+            "pdf_page": 4,
+            "span": "All wording except the final-row boundary fragment ཁ་དོག was not exhaustively collated."
+          },
+          {
+            "pdf_page": 6,
+            "span": "All wording except the opening continuation རྒྱས་རྣམས་ཀྱི་གཟུགས་སྐུའོ was not exhaustively collated."
+          }
+        ]
+      },
+      "next_physical_span": "Retain every bounded question in this page ledger; integrate saved next-page report rather than repeat the main lexical pass.",
+      "integration_20260929": {
+        "verified_inputs": {
+          "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B04-P0005-reader-reading.txt",
+          "sha256": "b977107f84e3b248cea857bd6d937c84b0fe60f2818b8dea852a7fffdc07f62f",
+          "images_hash_verified": 27,
+          "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B04-P0005-reader-execution.json"
+        },
+        "baseline_commit": "d0a6fd1114d3dfeb40ec79a5c928dc2a07e1e3b4",
+        "coordinator": {
+          "summary": "Adzom PDF5: six-row physical inventory, 52 individually inventoried full-height verticals including opening marks, preserved with six bounded small-mark or marginal questions. This count is not 52 newly corrected signs.",
+          "next_step": "Retain every bounded question in this page ledger; integrate saved next-page report rather than repeat the main lexical pass.",
+          "detail": "All decisions are scoped to the reported component or placement. Graphic inventory is not automatic Unicode adoption; raw reports remain unchanged.",
+          "observation_dispositions": {
+            "B04-O01": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption.",
+            "B04-O02": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption.",
+            "B04-O03": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption.",
+            "B04-O04": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption.",
+            "B04-O05": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption.",
+            "B04-O06": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption.",
+            "B04-O07": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption.",
+            "B04-O08": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption.",
+            "B04-O09": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption.",
+            "B04-O10": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+          }
+        },
+        "reader_claims_not_automatically_certified": true
+      },
+      "graphic_legend": {
+        "[Snn]": "Reference to one individually inventoried full-height vertical sign. Two references mean two separate strokes. Their physical positions are recorded without assigning either stroke to a neighboring verse.",
+        "[O01]": "Opening ornamental group, described in non_main_regions; not normalized to a Unicode ornament.",
+        "[H01]": "Detached fine horizontal stroke; function unresolved.",
+        "[F01]": "Short elevated terminal strokes; not normalized to shads.",
+        "[Qnn]": "Editorial reference to a bounded uncertainty after inspection; not source wording.",
+        "spaces": "Editorial spacing separates components; it does not measure source gaps.",
+        "tshegs": "Visible syllable separators are represented by ་; the image cannot establish a Unicode distinction between ་ and ༌."
       }
     },
     {
       "batch_id": "B05-P0006",
-      "status": "reading_captured_pending_coordinator_review",
+      "status": "review_integrated_with_bounded_uncertainties",
       "owner": "reader-C1-BASE-PHYSICAL-B05-P0006-reader",
       "baseline_commit": "d5a05bc3c9c6abee18459895c4fec8aa6e093548",
       "scope": "Complete physical inventory of ADZOM PDF6 only, all main rows, source layers, ornaments, filler signs and marginal inscriptions. Adjacent pages are boundary context only. Existing main lexical pass is retained; record every boundary and any newly observed mismatch without grammatical normalization.",
       "target_page": 6,
       "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B05-P0006/manifest.json",
       "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B05-P0006-reader-spec.json",
-      "rows_actually_compared": [],
-      "observations": [],
-      "canonical_record_ids": [],
+      "rows_actually_compared": [
+        {
+          "physical_row": 1,
+          "approximate_native_bounds": [
+            685,
+            345,
+            5010,
+            515
+          ],
+          "observed_sequence": "རྒྱས་རྣམས་ཀྱི་གཟུགས་སྐུའོ⟦B076⟧ དེ་ཡི་ཁྱད་པར་སྟོན་པའི་གཟུགས⟦B077⟧ རིས་ཅན་འོད་ཟེར་དཔག་ཏུ་མེད⟦B078⟧ ང་ནི་ལྷ་བུ་དགའ་བྱེད་སྟེ⟦B079⟧ དབང་ཕྱུག་རྫོགས་པའི་ལུས་བླངས⟦E1⟧",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00076",
+              "part": "tail",
+              "opening": "རྒྱས",
+              "closing": "སྐུའོ"
+            },
+            {
+              "anchor": "U00077",
+              "part": "complete",
+              "opening": "དེ་ཡི",
+              "closing": "གཟུགས"
+            },
+            {
+              "anchor": "U00078",
+              "part": "complete",
+              "opening": "རིས་ཅན",
+              "closing": "མེད"
+            },
+            {
+              "anchor": "U00079",
+              "part": "complete",
+              "opening": "ང་ནི",
+              "closing": "སྟེ"
+            },
+            {
+              "anchor": "U00080",
+              "part": "head",
+              "opening": "དབང་ཕྱུག",
+              "closing": "བླངས"
+            }
+          ],
+          "signs": [
+            {
+              "id": "B076",
+              "components": [
+                "B076a:S",
+                "B076b:S"
+              ],
+              "neighbors": [
+                "U00076",
+                "U00077"
+              ],
+              "bounds": [
+                1450,
+                350,
+                1620,
+                515
+              ]
+            },
+            {
+              "id": "B077",
+              "components": [
+                "B077a:S",
+                "B077b:S"
+              ],
+              "neighbors": [
+                "U00077",
+                "U00078"
+              ],
+              "bounds": [
+                2420,
+                350,
+                2570,
+                515
+              ]
+            },
+            {
+              "id": "B078",
+              "components": [
+                "B078a:S",
+                "B078b:S"
+              ],
+              "neighbors": [
+                "U00078",
+                "U00079"
+              ],
+              "bounds": [
+                3320,
+                350,
+                3450,
+                515
+              ]
+            },
+            {
+              "id": "B079",
+              "components": [
+                "B079a:S",
+                "B079b:S"
+              ],
+              "neighbors": [
+                "U00079",
+                "U00080"
+              ],
+              "bounds": [
+                4010,
+                350,
+                4160,
+                515
+              ]
+            },
+            {
+              "id": "E1",
+              "code": "unresolved_terminal_traces",
+              "bounds": [
+                4880,
+                350,
+                5010,
+                510
+              ]
+            }
+          ],
+          "source_annotations": []
+        },
+        {
+          "physical_row": 2,
+          "approximate_native_bounds": [
+            685,
+            475,
+            5010,
+            655
+          ],
+          "observed_sequence": "ནས⟦B080⟧ སྟོན་པའི་གསུང་གི་འོད་ཟེར་ཁྱིམ⟦B081⟧ རང་བཞིན་གྱིས་ནི་བདེ་བ་རྙེད⟦B082⟧ དེ་ཚེ་མཛད་པའི་བྱིན་རླབས་ལས⟦B083⟧ དྲུག་ཅུ་རྩ་བཞིའི་འོད་སྐར་ནི⟦B084⟧ བར་སྣང⟦E2⟧",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00080",
+              "part": "tail",
+              "text": "ནས"
+            },
+            {
+              "anchor": "U00081",
+              "part": "complete",
+              "opening": "སྟོན་པའི",
+              "closing": "ཁྱིམ"
+            },
+            {
+              "anchor": "U00082",
+              "part": "complete",
+              "opening": "རང་བཞིན",
+              "closing": "རྙེད"
+            },
+            {
+              "anchor": "U00083",
+              "part": "complete",
+              "opening": "དེ་ཚེ",
+              "closing": "ལས"
+            },
+            {
+              "anchor": "U00084",
+              "part": "complete",
+              "opening": "དྲུག་ཅུ",
+              "closing": "ནི"
+            },
+            {
+              "anchor": "U00085",
+              "part": "head",
+              "text": "བར་སྣང"
+            }
+          ],
+          "signs": [
+            {
+              "id": "B080",
+              "components": [
+                "B080a:C",
+                "B080b:S"
+              ],
+              "neighbors": [
+                "U00080",
+                "U00081"
+              ],
+              "bounds": [
+                805,
+                480,
+                960,
+                640
+              ]
+            },
+            {
+              "id": "B081",
+              "components": [
+                "B081a:S",
+                "B081b:S"
+              ],
+              "neighbors": [
+                "U00081",
+                "U00082"
+              ],
+              "bounds": [
+                1790,
+                480,
+                1960,
+                645
+              ]
+            },
+            {
+              "id": "B082",
+              "components": [
+                "B082a:S",
+                "B082b:S"
+              ],
+              "neighbors": [
+                "U00082",
+                "U00083"
+              ],
+              "bounds": [
+                2690,
+                480,
+                2840,
+                645
+              ]
+            },
+            {
+              "id": "B083",
+              "components": [
+                "B083a:S",
+                "B083b:S"
+              ],
+              "neighbors": [
+                "U00083",
+                "U00084"
+              ],
+              "bounds": [
+                3680,
+                480,
+                3840,
+                645
+              ]
+            },
+            {
+              "id": "B084",
+              "components": [
+                "B084a:S",
+                "B084b:S"
+              ],
+              "neighbors": [
+                "U00084",
+                "U00085"
+              ],
+              "bounds": [
+                4520,
+                480,
+                4700,
+                645
+              ]
+            },
+            {
+              "id": "E2",
+              "code": "unresolved_terminal_traces",
+              "bounds": [
+                4820,
+                480,
+                5010,
+                645
+              ]
+            }
+          ],
+          "source_annotations": []
+        },
+        {
+          "physical_row": 3,
+          "approximate_native_bounds": [
+            685,
+            595,
+            5010,
+            790
+          ],
+          "observed_sequence": "ཉིད་ལས་གཟུགས་བཀོད་པར⟦B085⟧ སུས་ཀྱང་བྱས་པ་མེད་པར་སྣང་⟦B086⟧ ཁྱད་པར་ཡང་ཞུན་བཅུ་བདུན་ནི⟦B087⟧ བསྟན་པ་དམ་པ་རྫོགས་པའི་ཕྱིར⟦B088⟧ སྐུ་གསུང⟦F3⟧",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00085",
+              "part": "tail",
+              "opening": "ཉིད་ལས",
+              "closing": "པར"
+            },
+            {
+              "anchor": "U00086",
+              "part": "complete",
+              "opening": "སུས་ཀྱང",
+              "closing": "སྣང"
+            },
+            {
+              "anchor": "U00087",
+              "part": "complete",
+              "opening": "ཁྱད་པར",
+              "closing": "ནི"
+            },
+            {
+              "anchor": "U00088",
+              "part": "complete",
+              "opening": "བསྟན་པ",
+              "closing": "ཕྱིར"
+            },
+            {
+              "anchor": "U00089",
+              "part": "head",
+              "text": "སྐུ་གསུང"
+            }
+          ],
+          "signs": [
+            {
+              "id": "B085",
+              "components": [
+                "B085a:S",
+                "B085b:S"
+              ],
+              "neighbors": [
+                "U00085",
+                "U00086"
+              ],
+              "bounds": [
+                1560,
+                600,
+                1700,
+                790
+              ]
+            },
+            {
+              "id": "B086",
+              "components": [
+                "B086a:S",
+                "B086b:S"
+              ],
+              "neighbors": [
+                "U00086",
+                "U00087"
+              ],
+              "bounds": [
+                2500,
+                600,
+                2670,
+                790
+              ]
+            },
+            {
+              "id": "B087",
+              "components": [
+                "B087a:S",
+                "B087b:S"
+              ],
+              "neighbors": [
+                "U00087",
+                "U00088"
+              ],
+              "bounds": [
+                3540,
+                600,
+                3730,
+                790
+              ]
+            },
+            {
+              "id": "B088",
+              "components": [
+                "B088a:S",
+                "B088b:S"
+              ],
+              "neighbors": [
+                "U00088",
+                "U00089"
+              ],
+              "bounds": [
+                4470,
+                600,
+                4650,
+                790
+              ]
+            },
+            {
+              "id": "F3",
+              "code": "three_short_head_height_strokes",
+              "bounds": [
+                4850,
+                610,
+                5005,
+                745
+              ],
+              "assignment": "Unassigned between terminal tsheg and line filling; not counted as shads."
+            }
+          ],
+          "source_annotations": []
+        },
+        {
+          "physical_row": 4,
+          "approximate_native_bounds": [
+            685,
+            720,
+            5010,
+            920
+          ],
+          "observed_sequence": "ཐུགས་ཀྱི་བསྟན་པ་དངོས⟦B089⟧ རྡོ་རྗེ་བཅས་དང་སྐུ་གཟུགས་ནི⟦B090⟧ སུས་ཀྱང་བྱས་པ་མ་ཡིན་པར⟦B091⟧ ཡེ་ཐོག་ནས་⟦Q1⟧སྣང་བར⟦B092⟧ སོ་སོའི་ལས་དང་སྐལ་མཐུན⟦E4⟧",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00089",
+              "part": "tail",
+              "opening": "ཐུགས་ཀྱི",
+              "closing": "དངོས"
+            },
+            {
+              "anchor": "U00090",
+              "part": "complete",
+              "opening": "རྡོ་རྗེ",
+              "closing": "ནི"
+            },
+            {
+              "anchor": "U00091",
+              "part": "complete",
+              "opening": "སུས་ཀྱང",
+              "closing": "པར"
+            },
+            {
+              "anchor": "U00092",
+              "part": "inspected_with_bounded_gap",
+              "opening": "ཡེ་ཐོག་ནས",
+              "closing": "སྣང་བར",
+              "gap": "Q1"
+            },
+            {
+              "anchor": "U00093",
+              "part": "head",
+              "opening": "སོ་སོའི",
+              "closing": "མཐུན"
+            }
+          ],
+          "signs": [
+            {
+              "id": "B089",
+              "components": [
+                "B089a:S",
+                "B089b:S"
+              ],
+              "neighbors": [
+                "U00089",
+                "U00090"
+              ],
+              "bounds": [
+                1360,
+                725,
+                1520,
+                910
+              ]
+            },
+            {
+              "id": "B090",
+              "components": [
+                "B090a:S",
+                "B090b:S"
+              ],
+              "neighbors": [
+                "U00090",
+                "U00091"
+              ],
+              "bounds": [
+                2330,
+                725,
+                2500,
+                910
+              ]
+            },
+            {
+              "id": "B091",
+              "components": [
+                "B091a:S",
+                "B091b:S"
+              ],
+              "neighbors": [
+                "U00091",
+                "U00092"
+              ],
+              "bounds": [
+                3260,
+                725,
+                3440,
+                910
+              ]
+            },
+            {
+              "id": "B092",
+              "components": [
+                "B092a:S",
+                "B092b:S"
+              ],
+              "neighbors": [
+                "U00092",
+                "U00093"
+              ],
+              "bounds": [
+                4100,
+                725,
+                4310,
+                910
+              ]
+            },
+            {
+              "id": "E4",
+              "code": "unresolved_terminal_traces",
+              "bounds": [
+                4880,
+                725,
+                5010,
+                910
+              ]
+            }
+          ],
+          "source_annotations": []
+        },
+        {
+          "physical_row": 5,
+          "approximate_native_bounds": [
+            685,
+            840,
+            5010,
+            1035
+          ],
+          "observed_sequence": "པར⟦B093⟧ གསེར་གྱི་སྙིང་པོ་ཉིད་ལ་སྣང་⟦B094⟧ ཀུན་དང་ལྷན་ཅིག་མ་ཡིན་ནོ⟦B095⟧ དེས་ན་སྙིང་དང་འདྲ་བས་གསང་⟦B096⟧ དངོས་གྲུབ་མཆོག་རྣམས་མཐར་ཐུག་པའི⟦B097⟧",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00093",
+              "part": "tail",
+              "text": "པར"
+            },
+            {
+              "anchor": "U00094",
+              "part": "complete",
+              "opening": "གསེར་གྱི",
+              "closing": "སྣང"
+            },
+            {
+              "anchor": "U00095",
+              "part": "complete",
+              "opening": "ཀུན་དང",
+              "closing": "ནོ"
+            },
+            {
+              "anchor": "U00096",
+              "part": "complete",
+              "opening": "དེས་ན",
+              "closing": "གསང"
+            },
+            {
+              "anchor": "U00097",
+              "part": "complete",
+              "opening": "དངོས་གྲུབ",
+              "closing": "པའི"
+            }
+          ],
+          "signs": [
+            {
+              "id": "B093",
+              "components": [
+                "B093a:C",
+                "B093b:S"
+              ],
+              "neighbors": [
+                "U00093",
+                "U00094"
+              ],
+              "bounds": [
+                805,
+                845,
+                1010,
+                1030
+              ]
+            },
+            {
+              "id": "B094",
+              "components": [
+                "B094a:S",
+                "B094b:S"
+              ],
+              "neighbors": [
+                "U00094",
+                "U00095"
+              ],
+              "bounds": [
+                1850,
+                845,
+                2020,
+                1030
+              ]
+            },
+            {
+              "id": "B095",
+              "components": [
+                "B095a:S",
+                "B095b:S"
+              ],
+              "neighbors": [
+                "U00095",
+                "U00096"
+              ],
+              "bounds": [
+                2640,
+                845,
+                2800,
+                1030
+              ]
+            },
+            {
+              "id": "B096",
+              "components": [
+                "B096a:S",
+                "B096b:S"
+              ],
+              "neighbors": [
+                "U00096",
+                "U00097"
+              ],
+              "bounds": [
+                3610,
+                845,
+                3820,
+                1030
+              ]
+            },
+            {
+              "id": "B097",
+              "components": [
+                "B097a:S",
+                "B097b:S"
+              ],
+              "neighbors": [
+                "U00097",
+                "U00098"
+              ],
+              "bounds": [
+                4900,
+                845,
+                5010,
+                1030
+              ],
+              "placement": "Both components at the right end of row 5; U00098 begins row 6."
+            }
+          ],
+          "source_annotations": []
+        },
+        {
+          "physical_row": 6,
+          "approximate_native_bounds": [
+            685,
+            950,
+            5010,
+            1120
+          ],
+          "observed_sequence": "འབད་ཅིང་རྩོལ་བ་མ་ཡིན་པས⟦B098⟧ གང་སུ་འཕྲད་པ་གྲོལ་བར་ངེས⟦B099⟧ དེས་ན་རྫོགས་ཆེན་བྱ་རྩོལ་བྲལ⟦B100⟧ གཞན་འབད་པ་ལས་བྱུང་བ་མིན⟦B101⟧ སངས་རྒྱས་བརྗོད⟦E6⟧",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00098",
+              "part": "complete",
+              "opening": "འབད་ཅིང",
+              "closing": "པས"
+            },
+            {
+              "anchor": "U00099",
+              "part": "complete",
+              "opening": "གང་སུ",
+              "closing": "ངེས"
+            },
+            {
+              "anchor": "U00100",
+              "part": "complete",
+              "opening": "དེས་ན",
+              "closing": "བྲལ"
+            },
+            {
+              "anchor": "U00101",
+              "part": "complete",
+              "opening": "གཞན་འབད",
+              "closing": "མིན"
+            },
+            {
+              "anchor": "U00102",
+              "part": "head",
+              "text": "སངས་རྒྱས་བརྗོད"
+            }
+          ],
+          "signs": [
+            {
+              "id": "B098",
+              "components": [
+                "B098a:S",
+                "B098b:S"
+              ],
+              "neighbors": [
+                "U00098",
+                "U00099"
+              ],
+              "bounds": [
+                1480,
+                955,
+                1670,
+                1120
+              ]
+            },
+            {
+              "id": "B099",
+              "components": [
+                "B099a:S",
+                "B099b:S"
+              ],
+              "neighbors": [
+                "U00099",
+                "U00100"
+              ],
+              "bounds": [
+                2430,
+                955,
+                2610,
+                1120
+              ]
+            },
+            {
+              "id": "B100",
+              "components": [
+                "B100a:S",
+                "B100b:S"
+              ],
+              "neighbors": [
+                "U00100",
+                "U00101"
+              ],
+              "bounds": [
+                3350,
+                955,
+                3620,
+                1120
+              ]
+            },
+            {
+              "id": "B101",
+              "components": [
+                "B101a:S",
+                "B101b:S"
+              ],
+              "neighbors": [
+                "U00101",
+                "U00102"
+              ],
+              "bounds": [
+                4350,
+                955,
+                4570,
+                1120
+              ]
+            },
+            {
+              "id": "E6",
+              "code": "unresolved_terminal_traces",
+              "bounds": [
+                4850,
+                955,
+                5010,
+                1110
+              ]
+            }
+          ],
+          "source_annotations": []
+        }
+      ],
+      "observations": [
+        {
+          "id": "O01",
+          "anchors": [
+            "U00076",
+            "U00102"
+          ],
+          "source_spans": [
+            {
+              "page": 5,
+              "text": "སངས",
+              "position": "End of preceding page"
+            },
+            {
+              "page": 6,
+              "text": "རྒྱས་རྣམས་ཀྱི་གཟུགས་སྐུའོ",
+              "position": "Row 1 opening"
+            },
+            {
+              "page": 6,
+              "text": "སངས་རྒྱས་བརྗོད",
+              "position": "Row 6 ending"
+            },
+            {
+              "page": 7,
+              "text": "དུ་མེད་པ་ཡིས",
+              "position": "Following page's opening lexical continuation"
+            }
+          ],
+          "base_spans": [
+            "སངས་རྒྱས་རྣམས་ཀྱི་གཟུགས་སྐུའོ། །",
+            "སངས་རྒྱས་བརྗོད་དུ་མེད་པ་ཡིས། །"
+          ],
+          "category": "Physical page continuation",
+          "neighboring_context": "The preceding སངས and following དུ་མེད་པ་ཡིས are outside the target page. Following-page opening ornamentation is likewise outside this inventory.",
+          "approximate_native_bounds": [
+            [
+              685,
+              345,
+              1550,
+              515
+            ],
+            [
+              4500,
+              955,
+              5010,
+              1120
+            ]
+          ],
+          "confidence": {
+            "lexical_continuity": "high",
+            "page_assignment": "high",
+            "coordinates": "medium"
+          },
+          "rationale": "Adjacent-page views establish carry-in and carry-out without inserting their letters or ornaments into PDF6.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        },
+        {
+          "id": "O02",
+          "anchors": [
+            "U00076–U00101"
+          ],
+          "source_spans": {
+            "ordinary_boundary_ids": [
+              "B076",
+              "B077",
+              "B078",
+              "B079",
+              "B081",
+              "B082",
+              "B083",
+              "B084",
+              "B085",
+              "B086",
+              "B087",
+              "B088",
+              "B089",
+              "B090",
+              "B091",
+              "B092",
+              "B094",
+              "B095",
+              "B096",
+              "B097",
+              "B098",
+              "B099",
+              "B100",
+              "B101"
+            ],
+            "graphic_sequence": "S followed by S, with variable intervening space"
+          },
+          "base_span": "Each corresponding base unit ends ། །.",
+          "category": "Boundary-sign inventory",
+          "neighboring_context": "Each group's exact neighboring anchors and approximate position are recorded in rows.signs. B097 is wholly on row 5 before the row-6 opening འབད་ཅིང.",
+          "approximate_native_bounds": [
+            685,
+            345,
+            5010,
+            1120
+          ],
+          "confidence": {
+            "detached_stroke_identification": "high",
+            "pair_grouping": "high",
+            "editorial_unit_assignment": "unassigned",
+            "coordinates": "medium"
+          },
+          "rationale": "Components are counted once under stable IDs. Variable spacing and row placement are retained; neither frames nor consonant shafts supply an extra shad.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        },
+        {
+          "id": "O03",
+          "anchors": [
+            "U00080",
+            "U00093"
+          ],
+          "source_spans": [
+            "ནས⟦B080a:C⟧ ⟦B080b:S⟧སྟོན་པའི",
+            "པར⟦B093a:C⟧ ⟦B093b:S⟧གསེར་གྱི"
+          ],
+          "base_spans": [
+            "ནས། །",
+            "པར། །"
+          ],
+          "category": "Compound terminal graphic",
+          "neighboring_context": "Both compounds follow a short continuation fragment at the left of a physical row.",
+          "approximate_native_bounds": [
+            [
+              805,
+              480,
+              960,
+              640
+            ],
+            [
+              805,
+              845,
+              1010,
+              1030
+            ]
+          ],
+          "confidence": {
+            "compound_shape": "high",
+            "same_graphic_class": "high",
+            "exact_Unicode_identity": "unresolved",
+            "coordinates": "medium"
+          },
+          "rationale": "The tiered upper marks and descending shaft distinguish the first component from an ordinary S. They are not transcribed as separate lexical annotations or normalized to a plain shad.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        },
+        {
+          "id": "O04",
+          "anchors": [
+            "U00089"
+          ],
+          "source_span": "སྐུ་གསུང⟦F3⟧ / ཐུགས་ཀྱི་བསྟན་པ་དངོས",
+          "base_span": "སྐུ་གསུང་ཐུགས་ཀྱི་བསྟན་པ་དངོས། །",
+          "category": "Row-end short-stroke cluster",
+          "neighboring_context": "Right end of row 3; the same unit resumes with ཐུགས on row 4.",
+          "approximate_native_bounds": [
+            4850,
+            610,
+            5005,
+            745
+          ],
+          "confidence": {
+            "cluster_presence": "high",
+            "three_stroke_count": "medium",
+            "tsheg_filler_partition": "unresolved",
+            "not_full_height_shads": "high"
+          },
+          "rationale": "Short upper strokes are visible, but their division into a terminal tsheg and additional filling marks is not securely resolved. No verse boundary is supplied here.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        },
+        {
+          "id": "O05",
+          "anchors": [
+            "U00092"
+          ],
+          "source_span": "ཡེ་ཐོག་ནས་⟦Q1⟧སྣང་བར",
+          "base_span": "ཡེ་ཐོག་ནས་ནི་རང་སྣང་བར། །",
+          "category": "Inspected damaged lexical span",
+          "neighboring_context": "After ནས and before the legible སྣང་བར, across the overlap of the middle and right native columns.",
+          "approximate_native_bounds": [
+            3690,
+            735,
+            4010,
+            885
+          ],
+          "confidence": {
+            "damage_localization": "high",
+            "surrounding_text": "high",
+            "intervening_letters": "low",
+            "coordinates": "medium"
+          },
+          "rationale": "Separated upper traces survive over approximately two syllabic positions; the complete consonant bodies are not secure. The base's ནི་རང is recorded only as comparison text, not restored into the observed sequence.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        },
+        {
+          "id": "O06",
+          "anchors": [],
+          "source_spans": [
+            "༣",
+            "གསུམ་རྒྱབ",
+            "000006"
+          ],
+          "base_span": null,
+          "category": "Unaligned marginal components",
+          "neighboring_context": "Folio numeral and Tibetan inscription occupy the framed left panel; the numerical stamp lies outside it.",
+          "approximate_native_bounds": [
+            95,
+            350,
+            685,
+            960
+          ],
+          "confidence": {
+            "Tibetan_inscription": "medium",
+            "numerical_stamp": "high",
+            "separate_component_assignment": "high"
+          },
+          "rationale": "These components belong to the page's physical inventory and have no main-verse anchor. The rotated edge is a second view of the same inscription, not another witness.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        },
+        {
+          "id": "O07",
+          "anchors": [
+            "U00080",
+            "U00085",
+            "U00093",
+            "U00102"
+          ],
+          "source_spans": [
+            "བླངས⟦E1⟧",
+            "སྣང⟦E2⟧",
+            "མཐུན⟦E4⟧",
+            "བརྗོད⟦E6⟧"
+          ],
+          "base_spans": [
+            "བླངས་ནས",
+            "སྣང་ཉིད",
+            "མཐུན་པར",
+            "བརྗོད་དུ"
+          ],
+          "category": "Unresolved terminal-mark separation",
+          "neighboring_context": "Rightmost lexical endings of rows 1, 2, 4 and 6, immediately before the main-text frame.",
+          "approximate_native_bounds": [
+            [
+              4880,
+              350,
+              5010,
+              510
+            ],
+            [
+              4820,
+              480,
+              5010,
+              645
+            ],
+            [
+              4880,
+              725,
+              5010,
+              910
+            ],
+            [
+              4850,
+              955,
+              5010,
+              1110
+            ]
+          ],
+          "confidence": {
+            "lexical_endings": "medium_to_high",
+            "separate_terminal_mark_count": "low",
+            "coordinates": "medium"
+          },
+          "rationale": "The terminal lexical sequences can be followed, but faint adjacent traces cannot all be securely partitioned into tshegs, fillers and letter limbs. No extra shad or filler count is asserted at these four positions.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        },
+        {
+          "id": "O08",
+          "anchors": [
+            "U00087",
+            "U00090",
+            "U00100"
+          ],
+          "source_spans": [
+            "ཁྱད་པར་ཡང་ཞུན་བཅུ་བདུན་ནི",
+            "རྡོ་རྗེ་བཅས་དང་སྐུ་གཟུགས་ནི",
+            "དེས་ན་རྫོགས་ཆེན་བྱ་རྩོལ་བྲལ"
+          ],
+          "base_spans": [
+            "ཁྱད་པར་ཡང་ཞུན་བཅུ་བདུན་ནི། །",
+            "རྡོ་རྗེ་བཅས་དང་སྐུ་གཟུགས་ནི། །",
+            "དེས་ན་རྫོགས་ཆེན་བྱ་རྩོལ་བྲལ། །"
+          ],
+          "category": "Retained source wording",
+          "neighboring_context": "Respectively row 3 middle, row 4 left-middle and row 6 middle.",
+          "approximate_native_bounds": [
+            [
+              2630,
+              595,
+              3630,
+              790
+            ],
+            [
+              1490,
+              720,
+              2420,
+              920
+            ],
+            [
+              2570,
+              950,
+              3470,
+              1120
+            ]
+          ],
+          "confidence": {
+            "lexical_reading": "medium_to_high",
+            "physical_row_assignment": "high",
+            "coordinates": "medium"
+          },
+          "rationale": "These sequences are retained as inspected, without grammatical substitution. No secure new lexical mismatch is proposed from the readable target text; Q1 remains unresolved rather than certified as agreement.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        }
+      ],
+      "canonical_record_ids": [
+        "SCAN-CH1-PHYS-P006-007-UNCERTAINTIES"
+      ],
       "independent_review": {
         "task_id": "C1-BASE-PHYSICAL",
         "batch_id": "B05-P0006",
@@ -4440,21 +7497,858 @@
           "review_status": "Informed independent agent reading with base reference supplied; neither blind review nor human palaeographic certification.",
           "certification_scope": "PDF6 only; no whole-chapter certification."
         },
-        "proposals_adopted": false
+        "proposals_adopted": false,
+        "images_hash_verified": 27
+      },
+      "source_layers_and_non_main_regions": [
+        {
+          "id": "N01",
+          "region": "Upper left framed marginal panel",
+          "observed_sequence": "༣",
+          "interpretation": "Folio numeral, separate from main text.",
+          "approximate_native_bounds": [
+            560,
+            360,
+            680,
+            480
+          ],
+          "confidence": {
+            "reading": "medium",
+            "non_main_assignment": "high"
+          }
+        },
+        {
+          "id": "N02",
+          "region": "Rotated inscription within left marginal panel",
+          "observed_sequence": "གསུམ་རྒྱབ",
+          "approximate_native_bounds": [
+            560,
+            530,
+            680,
+            950
+          ],
+          "confidence": {
+            "reading": "medium",
+            "orientation": "high"
+          },
+          "evidence_images": [
+            4,
+            27
+          ],
+          "alignment": "No base main-unit counterpart."
+        },
+        {
+          "id": "N03",
+          "region": "External vertical numerical stamp",
+          "observed_sequence_in_image27": "900000",
+          "upright_identifier_reading": "000006",
+          "description": "One stamp, inverted relative to the Tibetan inscription in the supplied rotated view; these are two orientations of the same component.",
+          "approximate_native_bounds": [
+            95,
+            550,
+            245,
+            945
+          ],
+          "confidence": {
+            "digits": "high",
+            "orientation": "medium"
+          }
+        },
+        {
+          "id": "N04",
+          "region": "Text frame and marginal compartments",
+          "description": "Horizontal upper and lower text-frame rules; left outer rule and main-text divider; right main-text rule and outer rule enclosing a narrow blank panel. No frame segment counted as punctuation.",
+          "approximate_native_bounds": [
+            540,
+            305,
+            5140,
+            1130
+          ]
+        },
+        {
+          "id": "N05",
+          "region": "Target-page opening",
+          "description": "Main row 1 begins directly with རྒྱས. No opening yig-mgo ornament identified on this target page.",
+          "approximate_native_bounds": [
+            680,
+            345,
+            1100,
+            515
+          ]
+        },
+        {
+          "id": "N06",
+          "region": "Upper exterior margin",
+          "description": "Dark irregular ink patch left of center, with thinner horizontal smears and scattered marks; no legible inscription identified.",
+          "approximate_native_bounds": [
+            0,
+            20,
+            5696,
+            310
+          ]
+        },
+        {
+          "id": "N07",
+          "region": "Lower exterior margin and outer image-edge rules",
+          "description": "Blank lower margin with scattered specks and interrupted horizontal edge marks. The bottom bands contain no additional text. Strong irregular rules occur at the upper and lower image edges.",
+          "approximate_native_bounds": [
+            0,
+            1120,
+            5696,
+            1344
+          ]
+        },
+        {
+          "id": "N08",
+          "region": "Interlinear spaces and remaining side margins",
+          "description": "No independent interlinear gloss, insertion, reference number or marginal source note identified. Small lexical diacritics, tshegs, the two C groups and F3 remain in their respective row inventories."
+        }
+      ],
+      "unread_or_uncertain_spans": [
+        {
+          "id": "Q1",
+          "type": "Lexical glyph question",
+          "scope": "Approximately two damaged syllabic positions after ཡེ་ཐོག་ནས་ and before སྣང་བར, row 4.",
+          "question": "Which consonant bodies and intervening tshegs are actually preserved?",
+          "evidence_images": [
+            1,
+            5,
+            6,
+            16,
+            17,
+            19,
+            20
+          ]
+        },
+        {
+          "id": "F3-partition",
+          "type": "Graphic-function question",
+          "scope": "The three short strokes after གསུང at the right end of row 3.",
+          "question": "Which stroke, if any, is the lexical terminal tsheg, and which are filling marks?",
+          "evidence_images": [
+            1,
+            6,
+            17
+          ]
+        },
+        {
+          "id": "E1",
+          "type": "Terminal-trace question",
+          "scope": "Immediately after row-1 བླངས, adjoining the right frame.",
+          "question": "Is a separate terminal tsheg or filler distinguishable from the final letter and frame-adjacent traces?",
+          "evidence_images": [
+            1,
+            6,
+            11,
+            14
+          ]
+        },
+        {
+          "id": "E2",
+          "type": "Terminal-trace question",
+          "scope": "Immediately after row-2 སྣང.",
+          "question": "Exact separation and count of terminal marks versus the final letter's upper strokes.",
+          "evidence_images": [
+            1,
+            6,
+            14
+          ]
+        },
+        {
+          "id": "E4",
+          "type": "Terminal-trace question",
+          "scope": "Immediately after row-4 མཐུན.",
+          "question": "Whether the small frame-adjacent trace is a distinct terminal tsheg.",
+          "evidence_images": [
+            1,
+            6,
+            17,
+            20
+          ]
+        },
+        {
+          "id": "E6",
+          "type": "Terminal-trace question",
+          "scope": "Immediately after row-6 བརྗོད.",
+          "question": "Whether faint terminal traces include a separate tsheg; no shad is asserted.",
+          "evidence_images": [
+            1,
+            6,
+            20,
+            23
+          ]
+        }
+      ],
+      "unexamined_spans": [
+        {
+          "source_location": "PDF5",
+          "scope": "Text other than the closing page-boundary context.",
+          "outside_target_scope": true
+        },
+        {
+          "source_location": "PDF7",
+          "scope": "Text other than the opening page-boundary context.",
+          "outside_target_scope": true
+        }
+      ],
+      "next_physical_span": "Retain every bounded question in this page ledger; integrate saved next-page report rather than repeat the main lexical pass.",
+      "integration_20260929": {
+        "verified_inputs": {
+          "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B05-P0006-reader-reading.txt",
+          "sha256": "e8128aa5f828aa5ef192c9fa638a937ab3f97ac4c5ca4674c664620a47ba4cd9",
+          "images_hash_verified": 27,
+          "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B05-P0006-reader-execution.json"
+        },
+        "baseline_commit": "d0a6fd1114d3dfeb40ec79a5c928dc2a07e1e3b4",
+        "coordinator": {
+          "summary": "Adzom PDF6: six-row ledger and 26 boundary groups integrated. Fifty ordinary upright components and two tiered components remain distinct; no tiered sign is silently normalized. The damaged U00092 span and terminal-mark uncertainties stay open.",
+          "next_step": "Retain every bounded question in this page ledger; integrate saved next-page report rather than repeat the main lexical pass.",
+          "detail": "All decisions are scoped to the reported component or placement. Graphic inventory is not automatic Unicode adoption; raw reports remain unchanged.",
+          "observation_dispositions": {
+            "O01": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption.",
+            "O02": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption.",
+            "O03": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption.",
+            "O04": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption.",
+            "O05": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption.",
+            "O06": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption.",
+            "O07": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption.",
+            "O08": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+          }
+        },
+        "reader_claims_not_automatically_certified": true
+      },
+      "graphic_legend": {
+        "editorial_markers": "Everything enclosed in ⟦ ⟧ is editorial, not Tibetan source text.",
+        "Bnnn": "One inventoried boundary group, positioned between the neighboring units without assigning its detached components to either unit.",
+        "S": "One detached, tall, headed, tapering shad-shaped stroke.",
+        "C": "One compound terminal group: small upper wedges above a broader transverse head and descending shaft. No Unicode punctuation identity assigned.",
+        "F3": "Three short head-height strokes following གསུང; separation of terminal tsheg from filler remains uncertain.",
+        "Q1": "Bounded damaged lexical span inspected but not securely read.",
+        "E1_E2_E4_E6": "Bounded uncertainty concerning terminal traces, tsheg or letter-limb separation; these markers do not assert additional glyphs.",
+        "bounds": "Approximate native [left,top,right,bottom] coordinates estimated from the supplied views, not measured. Row envelopes overlap where glyphs project vertically."
       }
     },
     {
       "batch_id": "B06-P0007",
-      "status": "reading_captured_pending_coordinator_review",
+      "status": "review_integrated_with_bounded_uncertainties",
       "owner": "reader-C1-BASE-PHYSICAL-B06-P0007-reader",
       "baseline_commit": "d5a05bc3c9c6abee18459895c4fec8aa6e093548",
       "scope": "Complete physical inventory of ADZOM PDF7 only, all main rows, source layers, ornaments, filler signs and marginal inscriptions. Adjacent pages are boundary context only. Existing main lexical pass is retained; record every boundary and any newly observed mismatch without grammatical normalization.",
       "target_page": 7,
       "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B06-P0007/manifest.json",
       "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B06-P0007-reader-spec.json",
-      "rows_actually_compared": [],
-      "observations": [],
-      "canonical_record_ids": [],
+      "rows_actually_compared": [
+        {
+          "physical_row": "R1",
+          "approx_native_bounds": [
+            705,
+            235,
+            5030,
+            405
+          ],
+          "observed_sequence": "⟦O1⟧⟦S00⟧ ⟦H1⟧ དུ་མེད་པ་ཡིས⟦S01⟧ ཡེ་ཐོག་ནས་ནི་ཕྱག་མཛད་པའི⟦S02⟧ ཆོས་ཀྱི་སྐུ་ལ་ངེས་བརྒྱུད་དེ⟦S03⟧ ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ⟦S04⟧ སྤྲུལ་པའི་ས་བོན་ལྡང⟦T01?⟧",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00102",
+              "portion": "end",
+              "text": "དུ་མེད་པ་ཡིས"
+            },
+            {
+              "anchor": "U00103",
+              "text": "ཡེ་ཐོག་ནས་ནི་ཕྱག་མཛད་པའི"
+            },
+            {
+              "anchor": "U00104",
+              "text": "ཆོས་ཀྱི་སྐུ་ལ་ངེས་བརྒྱུད་དེ"
+            },
+            {
+              "anchor": "U00105",
+              "text": "ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ"
+            },
+            {
+              "anchor": "U00106",
+              "portion": "beginning",
+              "text": "སྤྲུལ་པའི་ས་བོན་ལྡང"
+            }
+          ],
+          "signs": [
+            {
+              "id": "O1",
+              "graphic": "O",
+              "position": "row opening",
+              "approx_native_bounds": [
+                725,
+                255,
+                855,
+                360
+              ],
+              "assignment": "ornament"
+            },
+            {
+              "id": "S00",
+              "graphic": "V",
+              "position": "immediately right of O1",
+              "assignment": "ornamental boundary; not assigned to U00102"
+            },
+            {
+              "id": "H1",
+              "graphic": "H",
+              "approx_native_bounds": [
+                940,
+                300,
+                1185,
+                330
+              ],
+              "assignment": "opening horizontal filler"
+            },
+            {
+              "id": "S01",
+              "graphic": "V",
+              "after": "U00102"
+            },
+            {
+              "id": "S02",
+              "graphic": "V",
+              "after": "U00103"
+            },
+            {
+              "id": "S03",
+              "graphic": "V",
+              "after": "U00104"
+            },
+            {
+              "id": "S04",
+              "graphic": "V",
+              "after": "U00105"
+            },
+            {
+              "id": "T01",
+              "graphic": "possible tsheg",
+              "after": "ལྡང",
+              "assignment": "unresolved; no row-terminal shad supplied"
+            }
+          ],
+          "source_annotations": []
+        },
+        {
+          "physical_row": "R2",
+          "approx_native_bounds": [
+            700,
+            350,
+            5030,
+            520
+          ],
+          "observed_sequence": "བའོ⟦S05⟧ དེ་ལྟར་དངོས་ཀྱི་བསྟན་པ་ལས⟦S06⟧ གཟུགས་བརྙན་ཆོ་འཕྲུལ་འདི་ལྟ་བུ⟦S07⟧ སུས་ཀྱང་བརྗོད་དུ་མེད་པར་ནི⟦S08⟧ ནམ་མཁའ་མི་འབྱེད་བར་སྣང་ལས⟦S09⟧ ⟦S10⟧",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00106",
+              "portion": "end",
+              "text": "བའོ"
+            },
+            {
+              "anchor": "U00107",
+              "text": "དེ་ལྟར་དངོས་ཀྱི་བསྟན་པ་ལས"
+            },
+            {
+              "anchor": "U00108",
+              "text": "གཟུགས་བརྙན་ཆོ་འཕྲུལ་འདི་ལྟ་བུ"
+            },
+            {
+              "anchor": "U00109",
+              "text": "སུས་ཀྱང་བརྗོད་དུ་མེད་པར་ནི"
+            },
+            {
+              "anchor": "U00110",
+              "text": "ནམ་མཁའ་མི་འབྱེད་བར་སྣང་ལས"
+            }
+          ],
+          "signs": [
+            {
+              "id": "S05",
+              "graphic": "V",
+              "after": "U00106"
+            },
+            {
+              "id": "S06",
+              "graphic": "V",
+              "after": "U00107"
+            },
+            {
+              "id": "S07",
+              "graphic": "V",
+              "after": "U00108"
+            },
+            {
+              "id": "S08",
+              "graphic": "V",
+              "after": "U00109"
+            },
+            {
+              "id": "S09",
+              "graphic": "V",
+              "after": "U00110"
+            },
+            {
+              "id": "S10",
+              "graphic": "E",
+              "position": "right of S09, before frame",
+              "assignment": "right-edge closure; lexical attachment left open"
+            }
+          ],
+          "source_annotations": []
+        },
+        {
+          "physical_row": "R3",
+          "approx_native_bounds": [
+            700,
+            470,
+            5030,
+            650
+          ],
+          "observed_sequence": "ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང་⟦S11⟧ དགུ་གཉིས་བཞི་ཡི་ཡང་སྟེང་ནས⟦S12⟧ ཚངས་པ་ཆེན་པོའི་དབྱངས་སུ་བསྒྲགས⟦S13⟧ དེ་ནས་ཆོས་ཉིད་ནམ་མཁའ་ལས⟦S14⟧ ⟦S15⟧",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00111",
+              "text": "ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང་"
+            },
+            {
+              "anchor": "U00112",
+              "text": "དགུ་གཉིས་བཞི་ཡི་ཡང་སྟེང་ནས"
+            },
+            {
+              "anchor": "U00113",
+              "text": "ཚངས་པ་ཆེན་པོའི་དབྱངས་སུ་བསྒྲགས"
+            },
+            {
+              "anchor": "U00114",
+              "text": "དེ་ནས་ཆོས་ཉིད་ནམ་མཁའ་ལས"
+            }
+          ],
+          "signs": [
+            {
+              "id": "S11",
+              "graphic": "V",
+              "after": "U00111"
+            },
+            {
+              "id": "S12",
+              "graphic": "V",
+              "after": "U00112"
+            },
+            {
+              "id": "S13",
+              "graphic": "V",
+              "after": "U00113"
+            },
+            {
+              "id": "S14",
+              "graphic": "V",
+              "after": "U00114"
+            },
+            {
+              "id": "S15",
+              "graphic": "E",
+              "position": "right of S14, before frame",
+              "assignment": "right-edge closure; lexical attachment left open"
+            }
+          ],
+          "source_annotations": []
+        },
+        {
+          "physical_row": "R4",
+          "approx_native_bounds": [
+            700,
+            585,
+            5030,
+            770
+          ],
+          "observed_sequence": "ཁྱབ་འཇུག་ཆེན་པོའི་གསུང་གིས་ནི⟦S16⟧ བྱིན་གྱིས་རླབས་ཀྱིས་རང་སྒྲར་སྟོན⟦S17⟧ དེ་ནས་ཕྱོགས་བྲལ་ནམ་མཁའ་ལས⟦S18⟧ ཀ་ལ་པིང་ཀའི་སྒྲ་དབྱངས་ལས⟦S19⟧ ⟦S20⟧",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00115",
+              "text": "ཁྱབ་འཇུག་ཆེན་པོའི་གསུང་གིས་ནི"
+            },
+            {
+              "anchor": "U00116",
+              "text": "བྱིན་གྱིས་རླབས་ཀྱིས་རང་སྒྲར་སྟོན"
+            },
+            {
+              "anchor": "U00117",
+              "text": "དེ་ནས་ཕྱོགས་བྲལ་ནམ་མཁའ་ལས"
+            },
+            {
+              "anchor": "U00118",
+              "text": "ཀ་ལ་པིང་ཀའི་སྒྲ་དབྱངས་ལས"
+            }
+          ],
+          "signs": [
+            {
+              "id": "S16",
+              "graphic": "V",
+              "after": "U00115"
+            },
+            {
+              "id": "S17",
+              "graphic": "V",
+              "after": "U00116"
+            },
+            {
+              "id": "S18",
+              "graphic": "V",
+              "after": "U00117"
+            },
+            {
+              "id": "S19",
+              "graphic": "V",
+              "after": "U00118"
+            },
+            {
+              "id": "S20",
+              "graphic": "E",
+              "position": "right of S19, before frame",
+              "assignment": "right-edge closure; lexical attachment left open"
+            }
+          ],
+          "source_annotations": []
+        },
+        {
+          "physical_row": "R5",
+          "approx_native_bounds": [
+            700,
+            695,
+            5030,
+            895
+          ],
+          "observed_sequence": "བསྟན་པ་ཀུན་གྱི་བཅུད་བསྡུས་པའི⟦S21⟧ རྒྱུད་ཀྱི་རྒྱལ་པོ་འདི་ཉིད་ནི⟦S22⟧ ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང་⟦S23⟧ བརྒྱ་ཕྲག་གསུམ་དང་དྲུག་ཅུ་ཡི⟦S24⟧ སྒྲ་ལས་དྲངས་ཏེ་",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00119",
+              "text": "བསྟན་པ་ཀུན་གྱི་བཅུད་བསྡུས་པའི"
+            },
+            {
+              "anchor": "U00120",
+              "text": "རྒྱུད་ཀྱི་རྒྱལ་པོ་འདི་ཉིད་ནི"
+            },
+            {
+              "anchor": "U00121",
+              "text": "ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང་"
+            },
+            {
+              "anchor": "U00122",
+              "text": "བརྒྱ་ཕྲག་གསུམ་དང་དྲུག་ཅུ་ཡི"
+            },
+            {
+              "anchor": "U00123",
+              "portion": "beginning",
+              "text": "སྒྲ་ལས་དྲངས་ཏེ་"
+            }
+          ],
+          "signs": [
+            {
+              "id": "S21",
+              "graphic": "V",
+              "after": "U00119"
+            },
+            {
+              "id": "S22",
+              "graphic": "V",
+              "after": "U00120"
+            },
+            {
+              "id": "S23",
+              "graphic": "V",
+              "after": "U00121"
+            },
+            {
+              "id": "S24",
+              "graphic": "V",
+              "after": "U00122"
+            }
+          ],
+          "source_annotations": []
+        },
+        {
+          "physical_row": "R6",
+          "approx_native_bounds": [
+            700,
+            810,
+            5030,
+            1000
+          ],
+          "observed_sequence": "སྟོན་པས་གསུངས⟦S25⟧ དེ་ནས་འབྱུང་བ་སོ་སོའི་སྒྲ⟦S26⟧ བྱེད་རྒྱུ་ཚ་དང་གྲང་བ་ལས⟦S27⟧ སོ་སོའི་⟦སྒྲ?⟧་དབྱངས་སྟོང་ཕྲག་བརྒྱད⟦S28⟧ སྟོན་པས་བྱིན་གྱིས་བརླབས་པར་སྣང་⟦S29⟧ ⟦S30⟧",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00123",
+              "portion": "end",
+              "text": "སྟོན་པས་གསུངས"
+            },
+            {
+              "anchor": "U00124",
+              "text": "དེ་ནས་འབྱུང་བ་སོ་སོའི་སྒྲ"
+            },
+            {
+              "anchor": "U00125",
+              "text": "བྱེད་རྒྱུ་ཚ་དང་གྲང་བ་ལས"
+            },
+            {
+              "anchor": "U00126",
+              "text": "སོ་སོའི་⟦སྒྲ?⟧་དབྱངས་སྟོང་ཕྲག་བརྒྱད"
+            },
+            {
+              "anchor": "U00127",
+              "text": "སྟོན་པས་བྱིན་གྱིས་བརླབས་པར་སྣང་"
+            }
+          ],
+          "signs": [
+            {
+              "id": "S25",
+              "graphic": "V",
+              "after": "U00123"
+            },
+            {
+              "id": "S26",
+              "graphic": "V",
+              "after": "U00124"
+            },
+            {
+              "id": "S27",
+              "graphic": "V",
+              "after": "U00125"
+            },
+            {
+              "id": "S28",
+              "graphic": "V",
+              "after": "U00126"
+            },
+            {
+              "id": "S29",
+              "graphic": "V",
+              "after": "U00127"
+            },
+            {
+              "id": "S30",
+              "graphic": "E",
+              "position": "right of S29, before frame",
+              "assignment": "right-edge closure; lexical attachment left open"
+            }
+          ],
+          "source_annotations": []
+        }
+      ],
+      "observations": [
+        {
+          "id": "B06-O01",
+          "anchors": [
+            "U00102"
+          ],
+          "source_span": "PDF6 final-row སངས་རྒྱས་བརྗོད … PDF7 R1 དུ་མེད་པ་ཡིས",
+          "base_span": "སངས་རྒྱས་བརྗོད་དུ་མེད་པ་ཡིས། །",
+          "category": "page_boundary_and_nonlexical_opening",
+          "neighboring_context": "O1, S00 and H1 precede the target-page continuation; ཡེ་ཐོག follows S01.",
+          "approx_native_bounds": [
+            705,
+            235,
+            1715,
+            405
+          ],
+          "confidence": {
+            "layout": "high",
+            "lexical_reading": "high",
+            "ornament_encoding": "unassigned"
+          },
+          "rationale": "The target begins within U00102. Its ornament, following upright and horizontal filler are separate graphics, not supplied syllables or verse punctuation inherited from PDF6.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        },
+        {
+          "id": "B06-O02",
+          "anchors": [
+            "U00106"
+          ],
+          "source_span": "R1 སྤྲུལ་པའི་ས་བོན་ལྡང⟦T01?⟧ / R2 བའོ⟦S05⟧",
+          "base_span": "སྤྲུལ་པའི་ས་བོན་ལྡང་བའོ། །",
+          "category": "physical_row_continuation",
+          "neighboring_context": "U00105 precedes the first portion; U00107 follows the second.",
+          "approx_native_bounds": [
+            4420,
+            235,
+            5030,
+            510
+          ],
+          "confidence": {
+            "row_assignment": "high",
+            "letters": "high",
+            "row_edge_tsheg": "low"
+          },
+          "rationale": "བའོ occupies the beginning of R2 as main text. No shad is supplied at the intervening row break.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        },
+        {
+          "id": "B06-O03",
+          "anchors": [
+            "U00123"
+          ],
+          "source_span": "R5 སྒྲ་ལས་དྲངས་ཏེ་ / R6 སྟོན་པས་གསུངས⟦S25⟧",
+          "base_span": "སྒྲ་ལས་དྲངས་ཏེ་སྟོན་པས་གསུངས། །",
+          "category": "physical_row_continuation",
+          "neighboring_context": "U00122 precedes; U00124 follows.",
+          "approx_native_bounds": [
+            700,
+            695,
+            5030,
+            1000
+          ],
+          "confidence": {
+            "row_assignment": "high",
+            "lexical_reading": "high",
+            "layer_assignment": "high"
+          },
+          "rationale": "The lighter opening of R6 continues the main unit; it is not a detached source annotation.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        },
+        {
+          "id": "B06-O04",
+          "anchors": [
+            "U00102",
+            "U00103",
+            "U00104",
+            "U00105",
+            "U00106",
+            "U00107",
+            "U00108",
+            "U00109",
+            "U00111",
+            "U00112",
+            "U00113",
+            "U00115",
+            "U00116",
+            "U00117",
+            "U00119",
+            "U00120",
+            "U00121",
+            "U00122",
+            "U00123",
+            "U00124",
+            "U00125",
+            "U00126"
+          ],
+          "source_span": "S01–S04; S05–S08; S11–S13; S16–S18; S21–S24; S25–S28: one detached vertical at each listed internal unit boundary.",
+          "base_span": "The listed base units generally end ། །. U00105 source_tibetan ends །, while reading_tibetan ends ། །.",
+          "category": "punctuation_count_difference",
+          "neighboring_context": "Each listed boundary is followed by the next lexical fragment on the same physical row.",
+          "approx_native_bounds": [
+            700,
+            235,
+            5030,
+            1000
+          ],
+          "confidence": {
+            "detached_stroke_count": "high",
+            "boundary_alignment": "high",
+            "punctuation_function": "high"
+          },
+          "rationale": "Twenty-two internal boundaries show one detached stroke each. Uprights belonging to following letters are not additional shads. The supplied double-shad serialization is therefore not supported at these positions; U00105's source field already records a single stroke.",
+          "coordinator_disposition": "REJECTED: blanket one-shad inventory omits detached next-leading bars. Separate preserved adjudication and coordinator native inspection support two components at each of the 22 intervals; no deletion adopted."
+        },
+        {
+          "id": "B06-O05",
+          "anchors": [
+            "U00110",
+            "U00114",
+            "U00118",
+            "U00127"
+          ],
+          "source_span": "S09+S10; S14+S15; S19+S20; S29+S30",
+          "base_span": "Each corresponding unit ends ། །.",
+          "category": "right_edge_double_stroke_inventory",
+          "neighboring_context": "Terminal ལས in R2–R4; terminal སྣང་ in R6; blank right compartment beyond the frame.",
+          "approx_native_bounds": [
+            4870,
+            355,
+            5040,
+            1000
+          ],
+          "confidence": {
+            "two_separate_graphics": "high",
+            "separation_from_frame": "high",
+            "second_stroke_lexical_attachment": "medium"
+          },
+          "rationale": "Each position has a terminal stroke and another isolated upright nearer the frame. Both are inventoried once. Their appearance supports two graphics; whether the outer stroke is encoded as unit punctuation or line closure remains an editorial assignment.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        },
+        {
+          "id": "B06-O06",
+          "anchors": [
+            "U00111",
+            "U00121",
+            "U00127"
+          ],
+          "source_span": "ཡང་⟦S11⟧; ཡང་⟦S23⟧; སྣང་⟦S29⟧",
+          "base_span": "U00111 uses ཡང༌; U00121 uses ཡང་; U00127 uses སྣང་.",
+          "category": "visible_terminal_tshegs",
+          "neighboring_context": "Dots occur between final ང and the detached terminal stroke.",
+          "approx_native_bounds": [
+            1600,
+            470,
+            4930,
+            1000
+          ],
+          "confidence": {
+            "visible_dot": "high",
+            "unicode_distinction": "not_determinable"
+          },
+          "rationale": "The dots are retained graphically; differing Unicode tsheg choices cannot be certified from their printed appearance.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        },
+        {
+          "id": "B06-O07",
+          "anchors": [
+            "U00126"
+          ],
+          "source_span": "སོ་སོའི་⟦སྒྲ?⟧་དབྱངས",
+          "base_span": "སོ་སོའི་སྒྲ་དབྱངས",
+          "category": "bounded_glyph_uncertainty",
+          "neighboring_context": "After སོ་སོའི་, before དབྱངས་; the remainder through བརྒྱད is inspected.",
+          "approx_native_bounds": [
+            3050,
+            815,
+            3250,
+            960
+          ],
+          "confidence": {
+            "position": "high",
+            "whole_stack_reading": "medium",
+            "lower_stack_detail": "low"
+          },
+          "rationale": "The impression is mottled around the stack. སྒྲ is the provisional visible reading, not a newly established lexical mismatch.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        },
+        {
+          "id": "B06-O08",
+          "anchors": [],
+          "source_span": "N01–N05",
+          "base_span": null,
+          "category": "unaligned_marginal_material",
+          "neighboring_context": "All lie left of the main-text compartment.",
+          "approx_native_bounds": [
+            55,
+            205,
+            700,
+            980
+          ],
+          "confidence": {
+            "layer_separation": "high",
+            "ཀ": "high",
+            "བཞི": "medium",
+            "title_final_syllable": "low",
+            "trace_function": "low"
+          },
+          "rationale": "Marginal letters, folio wording, title, isolated trace and scan stamp have no main-verse alignment. The rotation supplies another orientation of the same ink, not corroboration from another witness.",
+          "coordinator_disposition": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+        }
+      ],
+      "canonical_record_ids": [
+        "SCAN-CH1-PHYS-P006-007-UNCERTAINTIES"
+      ],
       "independent_review": {
         "task_id": "C1-BASE-PHYSICAL",
         "batch_id": "B06-P0007",
@@ -4478,8 +8372,741 @@
           "completion_limit": "Physical traversal is complete for this target page, with three bounded reading questions and unresolved functions of the marginal trace and outer closure strokes.",
           "review_status": "Informed independent agent reading from supplied images; not blind review, human palaeographic certification or whole-chapter certification."
         },
-        "proposals_adopted": false
-      }
+        "proposals_adopted": false,
+        "images_hash_verified": 27
+      },
+      "source_layers_and_non_main_regions": [
+        {
+          "id": "N01",
+          "region": "upper left marginal compartment",
+          "approx_native_bounds": [
+            575,
+            205,
+            675,
+            315
+          ],
+          "observed_sequence": "ཀ",
+          "assessment": "Marginal letter; not main text."
+        },
+        {
+          "id": "N02",
+          "region": "left marginal folio inscription",
+          "approx_native_bounds": [
+            570,
+            330,
+            675,
+            410
+          ],
+          "observed_sequence": "བཞི",
+          "assessment": "Read in the rotated edge view; medium confidence."
+        },
+        {
+          "id": "N03",
+          "region": "left marginal title",
+          "approx_native_bounds": [
+            565,
+            465,
+            685,
+            940
+          ],
+          "observed_sequence": "སྒྲ་ཐལ་⟦འགྱུར?⟧",
+          "assessment": "Last syllable and its terminal dot remain provisional; no unseen terminal punctuation supplied."
+        },
+        {
+          "id": "N04",
+          "region": "gap between folio inscription and title",
+          "approx_native_bounds": [
+            580,
+            420,
+            665,
+            475
+          ],
+          "observed_sequence": "Short, fine horizontal trace in the original orientation.",
+          "assessment": "Unaligned trace retained; its status as intentional separator versus incidental mark is unresolved."
+        },
+        {
+          "id": "N05",
+          "region": "outer left scan margin",
+          "approx_native_bounds": [
+            55,
+            585,
+            160,
+            980
+          ],
+          "observed_sequence": "000007",
+          "assessment": "Rotated Arabic-digit scan stamp, separate from the Tibetan marginal inscriptions."
+        },
+        {
+          "id": "N06",
+          "region": "main-text opening",
+          "inventory_references": [
+            "O1",
+            "S00",
+            "H1"
+          ],
+          "assessment": "Already inventoried in R1; not counted again."
+        },
+        {
+          "id": "N07",
+          "region": "page frame",
+          "approx_native_bounds": [
+            540,
+            180,
+            5170,
+            1025
+          ],
+          "observed_sequence": null,
+          "assessment": "Heavy enclosing rules, left inscription compartment and narrow blank right compartment. Vertical frame rules are not punctuation. The upper rule has a local break/light patch toward the right."
+        },
+        {
+          "id": "N08",
+          "region": "upper and lower outer margins and scan perimeter",
+          "approx_native_bounds": [
+            0,
+            0,
+            5696,
+            1344
+          ],
+          "observed_sequence": null,
+          "assessment": "Irregular perimeter lines, scattered specks, faint horizontal smears below the text and a thin oblique trace near the left edge. No additional legible wording identified. Bands 21–26 contain border remnants and background traces, not additional main rows."
+        }
+      ],
+      "unread_or_uncertain_spans": [
+        {
+          "id": "B06-Q01",
+          "anchor": "U00106",
+          "row": "R1",
+          "scope": "Only the possible tsheg immediately after final ལྡང at the right frame.",
+          "approx_native_bounds": [
+            4950,
+            265,
+            5030,
+            390
+          ],
+          "question": "Is a distinct terminal dot recoverable apart from the adjacent ink and frame?",
+          "provisional_reading": "ལྡང⟦T01?⟧"
+        },
+        {
+          "id": "B06-Q02",
+          "anchor": "U00126",
+          "row": "R6",
+          "scope": "Lower detail of the single stack provisionally read སྒྲ after སོ་སོའི་.",
+          "approx_native_bounds": [
+            3050,
+            815,
+            3250,
+            960
+          ],
+          "question": "Can the lower component be read independently through the mottled impression?",
+          "provisional_reading": "སྒྲ"
+        },
+        {
+          "id": "B06-Q03",
+          "anchor": null,
+          "region": "N03",
+          "scope": "Final syllable of the marginal title and any immediately following terminal dot.",
+          "approx_native_bounds": [
+            565,
+            775,
+            685,
+            940
+          ],
+          "question": "Complete graphic reading of the worn final group.",
+          "provisional_reading": "འགྱུར"
+        }
+      ],
+      "unexamined_spans": {
+        "target_page": [],
+        "outside_target_scope": [
+          "PDF6 except its overview and final boundary context.",
+          "PDF8 except its overview and opening boundary context."
+        ]
+      },
+      "next_physical_span": "Retain every bounded question in this page ledger; integrate saved next-page report rather than repeat the main lexical pass.",
+      "integration_20260929": {
+        "verified_inputs": {
+          "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B06-P0007-reader-reading.txt",
+          "sha256": "c4d5563a7c16df9e2a8069952df68c249dd729cba53685c7ef38694d9978653d",
+          "images_hash_verified": 27,
+          "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B06-P0007-reader-execution.json"
+        },
+        "baseline_commit": "d0a6fd1114d3dfeb40ec79a5c928dc2a07e1e3b4",
+        "coordinator": {
+          "summary": "Adzom PDF7: preserved component-level adjudication rejects all 22 proposed shad deletions. Existing two-shad readings retained. All six rows, marginal material and named small-mark questions are recorded.",
+          "next_step": "Retain every bounded question in this page ledger; integrate saved next-page report rather than repeat the main lexical pass.",
+          "detail": "The effective inventory has 44 detached components at 22 same-row boundaries plus eight at four row-right endings (52 total), with zero at the two internal row turns. The initial disagreement remains archived. Mistaken lexical labels in the sign-only addendum do not replace Tibetan text. Electronic allocation of an outer mark is editorial.",
+          "observation_dispositions": {
+            "B06-O01": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption.",
+            "B06-O02": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption.",
+            "B06-O03": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption.",
+            "B06-O04": "REJECTED: blanket one-shad inventory omits detached next-leading bars. Separate preserved adjudication and coordinator native inspection support two components at each of the 22 intervals; no deletion adopted.",
+            "B06-O05": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption.",
+            "B06-O06": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption.",
+            "B06-O07": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption.",
+            "B06-O08": "Retain as scoped physical observation or explicit uncertainty, without new lexical or punctuation adoption."
+          },
+          "adjudication": {
+            "report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B06-P0007-boundary-adjudication-reading.txt",
+            "sha256": "9aefaad4681b87ffe612224fe6550b56e56f1a205176d8eef334fc8d63a1fe89",
+            "totals": {
+              "unit_ending_positions_inspected": 26,
+              "internal_same_row_boundaries": 22,
+              "detached_punctuation_at_internal_same_row_boundaries": 44,
+              "row_right_ending_positions": 4,
+              "detached_punctuation_at_row_right_endings": 8,
+              "internal_row_turns_checked": 2,
+              "detached_punctuation_at_internal_row_turns": 0,
+              "total_detached_punctuation_components": 52,
+              "components_by_physical_row": {
+                "1": 8,
+                "2": 10,
+                "3": 8,
+                "4": 8,
+                "5": 8,
+                "6": 10
+              },
+              "frame_strokes_counted_as_punctuation": 0
+            },
+            "lexical_label_scope": "Not authoritative for lexical replacements; preserved coordinator note identifies mistaken labels."
+          }
+        },
+        "reader_claims_not_automatically_certified": true
+      },
+      "effective_boundary_inventory": [
+        {
+          "anchor": "U00102/U00103",
+          "physical_row": 1,
+          "detached_component_bounds": [
+            [
+              1660,
+              1683
+            ],
+            [
+              1757,
+              1780
+            ]
+          ],
+          "count": 2,
+          "excluded_letter_components": [
+            "The initial ཡེ has its own connected head and descending limb to the right of the second upright."
+          ],
+          "confidence": "high for count; approximate coordinates"
+        },
+        {
+          "anchor": "U00103/U00104",
+          "physical_row": 1,
+          "detached_component_bounds": [
+            [
+              2605,
+              2630
+            ],
+            [
+              2682,
+              2706
+            ]
+          ],
+          "count": 2,
+          "excluded_letter_components": [
+            "The final འི letterwork remains connected within the preceding syllable.",
+            "The first ཆ has a separate connected head and body beyond the right-hand upright."
+          ],
+          "confidence": "high for count; approximate coordinates"
+        },
+        {
+          "anchor": "U00104/U00105",
+          "physical_row": 1,
+          "detached_component_bounds": [
+            [
+              3408,
+              3433
+            ],
+            [
+              3512,
+              3536
+            ]
+          ],
+          "count": 2,
+          "excluded_letter_components": [
+            "The initial ལ has its own shaped upper body and connected limb after the second bar."
+          ],
+          "confidence": "high for count; approximate coordinates"
+        },
+        {
+          "anchor": "U00105/U00106",
+          "physical_row": 1,
+          "detached_component_bounds": [
+            [
+              4338,
+              4362
+            ],
+            [
+              4428,
+              4453
+            ]
+          ],
+          "count": 2,
+          "excluded_letter_components": [
+            "The lower vowel stroke of དུ belongs to its syllable.",
+            "The opening stacked letter of སྤྲུལ has connected internal descending strokes beyond the second upright."
+          ],
+          "confidence": "high for count; approximate coordinates"
+        },
+        {
+          "anchor": "U00106:internal-row-turn",
+          "physical_row": 1,
+          "detached_component_bounds": [],
+          "count": 0,
+          "excluded_letter_components": [
+            "The right-edge letterwork remains part of U00106.",
+            "The page frame is not punctuation."
+          ],
+          "confidence": "high"
+        },
+        {
+          "anchor": "U00106/U00107",
+          "physical_row": 2,
+          "detached_component_bounds": [
+            [
+              855,
+              880
+            ],
+            [
+              961,
+              986
+            ]
+          ],
+          "count": 2,
+          "excluded_letter_components": [
+            "The preceding vowel and letter head remain within བའོ.",
+            "The actual དེ begins with its own connected head to the right of the next-leading bar."
+          ],
+          "confidence": "high for count; approximate coordinates"
+        },
+        {
+          "anchor": "U00107/U00108",
+          "physical_row": 2,
+          "detached_component_bounds": [
+            [
+              1788,
+              1812
+            ],
+            [
+              1901,
+              1927
+            ]
+          ],
+          "count": 2,
+          "excluded_letter_components": [
+            "The first ག has a connected upper bend and descending body beyond the next-leading upright."
+          ],
+          "confidence": "high for count; approximate coordinates"
+        },
+        {
+          "anchor": "U00108/U00109",
+          "physical_row": 2,
+          "detached_component_bounds": [
+            [
+              2900,
+              2926
+            ],
+            [
+              3004,
+              3030
+            ]
+          ],
+          "count": 2,
+          "excluded_letter_components": [
+            "The lower curve of བུ is syllabic letterwork.",
+            "The first སུས letter and its vowel are connected separately to the right."
+          ],
+          "confidence": "high for count; approximate coordinates"
+        },
+        {
+          "anchor": "U00109/U00110",
+          "physical_row": 2,
+          "detached_component_bounds": [
+            [
+              3789,
+              3815
+            ],
+            [
+              3910,
+              3936
+            ]
+          ],
+          "count": 2,
+          "excluded_letter_components": [
+            "The initial ན has a distinct connected top and sloping body after the next-leading bar."
+          ],
+          "confidence": "high for count; approximate coordinates"
+        },
+        {
+          "anchor": "U00110:row-right",
+          "physical_row": 2,
+          "detached_component_bounds": [
+            [
+              4896,
+              4921
+            ],
+            [
+              4980,
+              5005
+            ]
+          ],
+          "count": 2,
+          "excluded_letter_components": [
+            "The final ས has its own connected sloping limbs.",
+            "The right frame is a separate continuous boundary line."
+          ],
+          "confidence": "high for count; approximate coordinates"
+        },
+        {
+          "anchor": "U00111/U00112",
+          "physical_row": 3,
+          "detached_component_bounds": [
+            [
+              1666,
+              1691
+            ],
+            [
+              1771,
+              1797
+            ]
+          ],
+          "count": 2,
+          "excluded_letter_components": [
+            "The opening ད letterwork has a connected head and body to the right of the next-leading upright."
+          ],
+          "confidence": "high for count; approximate coordinates"
+        },
+        {
+          "anchor": "U00112/U00113",
+          "physical_row": 3,
+          "detached_component_bounds": [
+            [
+              2696,
+              2721
+            ],
+            [
+              2790,
+              2816
+            ]
+          ],
+          "count": 2,
+          "excluded_letter_components": [
+            "The following ཆ has a separate connected roof and body."
+          ],
+          "confidence": "high for count; approximate coordinates"
+        },
+        {
+          "anchor": "U00113/U00114",
+          "physical_row": 3,
+          "detached_component_bounds": [
+            [
+              3907,
+              3932
+            ],
+            [
+              3983,
+              4009
+            ]
+          ],
+          "count": 2,
+          "excluded_letter_components": [
+            "The terminal letter's angled strokes remain joined within the preceding fragment.",
+            "The following དེ has its own connected upper bend."
+          ],
+          "confidence": "high for count; approximate coordinates"
+        },
+        {
+          "anchor": "U00114:row-right",
+          "physical_row": 3,
+          "detached_component_bounds": [
+            [
+              4905,
+              4930
+            ],
+            [
+              4980,
+              5004
+            ]
+          ],
+          "count": 2,
+          "excluded_letter_components": [
+            "The terminal ས limbs are connected letterwork.",
+            "The right frame continues independently beside the two bars."
+          ],
+          "confidence": "high for count; approximate coordinates"
+        },
+        {
+          "anchor": "U00115/U00116",
+          "physical_row": 4,
+          "detached_component_bounds": [
+            [
+              1680,
+              1707
+            ],
+            [
+              1800,
+              1827
+            ]
+          ],
+          "count": 2,
+          "excluded_letter_components": [
+            "The opening stack has its own connected head and lower letterwork beyond the next-leading bar."
+          ],
+          "confidence": "high for count; approximate coordinates"
+        },
+        {
+          "anchor": "U00116/U00117",
+          "physical_row": 4,
+          "detached_component_bounds": [
+            [
+              2716,
+              2742
+            ],
+            [
+              2807,
+              2834
+            ]
+          ],
+          "count": 2,
+          "excluded_letter_components": [
+            "The final letter body stays connected to its head.",
+            "The initial དེ has a separate upper bend and descending body."
+          ],
+          "confidence": "high for count; approximate coordinates"
+        },
+        {
+          "anchor": "U00117/U00118",
+          "physical_row": 4,
+          "detached_component_bounds": [
+            [
+              3920,
+              3945
+            ],
+            [
+              4000,
+              4026
+            ]
+          ],
+          "count": 2,
+          "excluded_letter_components": [
+            "The actual ཀ begins farther right; its descending limb is joined to its upper structure."
+          ],
+          "confidence": "high for count; approximate coordinates"
+        },
+        {
+          "anchor": "U00118:row-right",
+          "physical_row": 4,
+          "detached_component_bounds": [
+            [
+              4900,
+              4926
+            ],
+            [
+              4971,
+              4997
+            ]
+          ],
+          "count": 2,
+          "excluded_letter_components": [
+            "The final ས has connected angled limbs.",
+            "The continuous right frame is excluded."
+          ],
+          "confidence": "high for count; approximate coordinates"
+        },
+        {
+          "anchor": "U00119/U00120",
+          "physical_row": 5,
+          "detached_component_bounds": [
+            [
+              1651,
+              1679
+            ],
+            [
+              1731,
+              1759
+            ]
+          ],
+          "count": 2,
+          "excluded_letter_components": [
+            "The preceding vowel-bearing letterwork remains joined.",
+            "The following stack's horizontal and lower curved strokes form its own connected structure."
+          ],
+          "confidence": "high for count; approximate coordinates"
+        },
+        {
+          "anchor": "U00120/U00121",
+          "physical_row": 5,
+          "detached_component_bounds": [
+            [
+              2440,
+              2467
+            ],
+            [
+              2516,
+              2544
+            ]
+          ],
+          "count": 2,
+          "excluded_letter_components": [
+            "The initial ཆ has a connected head and curved body after the right-hand bar."
+          ],
+          "confidence": "high for count; approximate coordinates"
+        },
+        {
+          "anchor": "U00121/U00122",
+          "physical_row": 5,
+          "detached_component_bounds": [
+            [
+              3466,
+              3492
+            ],
+            [
+              3566,
+              3593
+            ]
+          ],
+          "count": 2,
+          "excluded_letter_components": [
+            "The first ར has its own upper and sloping strokes beyond the next-leading upright."
+          ],
+          "confidence": "high for count; approximate coordinates"
+        },
+        {
+          "anchor": "U00122/U00123",
+          "physical_row": 5,
+          "detached_component_bounds": [
+            [
+              4466,
+              4494
+            ],
+            [
+              4566,
+              4595
+            ]
+          ],
+          "count": 2,
+          "excluded_letter_components": [
+            "The preceding subjoined and vowel strokes stay within its letter group.",
+            "The next stack has connected upper and descending elements to the right of the isolated bar."
+          ],
+          "confidence": "high for count; approximate coordinates"
+        },
+        {
+          "anchor": "U00123:internal-row-turn",
+          "physical_row": 5,
+          "detached_component_bounds": [],
+          "count": 0,
+          "excluded_letter_components": [
+            "The final visible strokes before the turn belong to the continuing letterwork.",
+            "The right frame is excluded."
+          ],
+          "confidence": "high"
+        },
+        {
+          "anchor": "U00123/U00124",
+          "physical_row": 6,
+          "detached_component_bounds": [
+            [
+              1161,
+              1191
+            ],
+            [
+              1248,
+              1278
+            ]
+          ],
+          "count": 2,
+          "excluded_letter_components": [
+            "The terminal letter's angled strokes remain connected.",
+            "The initial དེ has its own connected head beyond the next-leading upright."
+          ],
+          "confidence": "high for count; approximate coordinates"
+        },
+        {
+          "anchor": "U00124/U00125",
+          "physical_row": 6,
+          "detached_component_bounds": [
+            [
+              1964,
+              1993
+            ],
+            [
+              2051,
+              2080
+            ]
+          ],
+          "count": 2,
+          "excluded_letter_components": [
+            "The preceding stack has connected descending and lower strokes.",
+            "The initial བྱ has its own connected body and subjoined form after the second bar."
+          ],
+          "confidence": "high for count; approximate coordinates"
+        },
+        {
+          "anchor": "U00125/U00126",
+          "physical_row": 6,
+          "detached_component_bounds": [
+            [
+              2726,
+              2752
+            ],
+            [
+              2840,
+              2867
+            ]
+          ],
+          "count": 2,
+          "excluded_letter_components": [
+            "The initial སོ has connected upper and sloping strokes beyond the right-hand upright."
+          ],
+          "confidence": "high for count; approximate coordinates"
+        },
+        {
+          "anchor": "U00126/U00127",
+          "physical_row": 6,
+          "detached_component_bounds": [
+            [
+              3773,
+              3803
+            ],
+            [
+              3866,
+              3895
+            ]
+          ],
+          "count": 2,
+          "excluded_letter_components": [
+            "The preceding lower curve is joined within its syllable.",
+            "The following stack has its own connected head and descending body beyond the next-leading upright."
+          ],
+          "confidence": "high for count; approximate coordinates"
+        },
+        {
+          "anchor": "U00127:row-right",
+          "physical_row": 6,
+          "detached_component_bounds": [
+            [
+              4855,
+              4882
+            ],
+            [
+              4942,
+              4970
+            ]
+          ],
+          "count": 2,
+          "excluded_letter_components": [
+            "The final syllable's lower and angled strokes remain joined to its letters.",
+            "The continuous right frame is excluded."
+          ],
+          "confidence": "high for count; approximate coordinates"
+        }
+      ],
+      "effective_boundary_inventory_scope": "Component-level sign adjudication only. Do not reuse its mistaken lexical labels as transcriptions; retained raw one-shad counts are rejected.",
+      "raw_row_sign_counts_superseded": true
     },
     {
       "batch_id": "B07-P0008",

@@ -1,0 +1,33 @@
+{
+  "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B03-P0004-target-adjudication-20260929-reading.txt",
+  "sha256": "d62f38978eb4523e5bc02e3973c607e16403524d6404ffa341d48c1c29094071",
+  "scope": "Four targeted component questions, no new lexical reading adopted",
+  "dispositions": {
+    "U00029": "Heading-final letters still unresolved; no pa deletion or reconstruction.",
+    "U00045": "Retain the existing no-added-internal-tsheg encoding. Both native inspection and target report find no distinct intervening dot; this resolves only the proposed extra-separator question.",
+    "U00048": "Retain supplied wording with prefix/letter segmentation qualified; no extra pa or reconstructed ga adopted.",
+    "U00049": "Retain supplied wording with the rnams-to-dzin cluster qualified; neither kyis-don nor any other alternative is accepted."
+  },
+  "rejected_lexical_label": {
+    "anchor": "U00045",
+    "raw": "གཅིག་",
+    "disposition": "Not adopted: the intended context is the gzigs phrase; the supplemental moderate-confidence gcig quotation is not a source correction. Accept only the separately corroborated absence of a distinct internal dot."
+  },
+  "coordinator_native_views": {
+    "task_id": "C1-BASE-PHYSICAL",
+    "target_overviews_reinspected": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "coordinator": "ChatGPT",
+    "scope": "Native page orientation; specific row6 and small-heading snippets on PDF4; tiered-sign and ordinary-shad component checks on PDF6 and7",
+    "base_wording_changes_adopted": false,
+    "page4": "The close crop keeps final heading-letter segmentation, gleng-prefix segmentation, and the rnams-to-dzin wording bounded pending targeted review. U00045 shows an open prefix/root gap without a clearly isolated full dot; not yet accepted as a new encoding decision.",
+    "page6": "Tiered sign plus separate upright occurs at row2/row5 left. Preserve shape distinction, no new lexical reading.",
+    "page7": "Two independent boundary uprights are distinguishable in inspected intervals; reuse preserved full-page adjudication rejecting the 22 deletions, not the raw one-bar claim.",
+    "adjudication_packet": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B03-P0004-target-adjudication-20260929-spec.json"
+  },
+  "next_step": "Use a genuinely discriminating source reading for remaining glyph questions; do not multiply identical unresolved attempts."
+}

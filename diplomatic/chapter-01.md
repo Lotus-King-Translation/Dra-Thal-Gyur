@@ -137,7 +137,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00029"></a>
 
-**U00029** **[Source structural heading]** ཐུན་མོང་གི་གླེང་གཞི་བཀོད་པ། [L1-0005](#l1-0005) [TS-CH1-V002](#ts-ch1-v002) [DZ-OPEN-04](#dz-open-04) [GAD-CH1-003](#gad-ch1-003) [W-C01-004](reviews/chapter-01/wikisource.md#w-c01-004)
+**U00029** **[Source structural heading]** ཐུན་མོང་གི་གླེང་གཞི་བཀོད་པ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-PHYS-P004-UNCERTAINTIES](#scan-ch1-phys-p004-uncertainties) [L1-0005](#l1-0005) [TS-CH1-V002](#ts-ch1-v002) [DZ-OPEN-04](#dz-open-04) [GAD-CH1-003](#gad-ch1-003) [W-C01-004](reviews/chapter-01/wikisource.md#w-c01-004)
 
 <a id="u00030"></a>
 
@@ -213,11 +213,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00048"></a>
 
-**U00048** རྒྱུད་འབྱུང་གླེང་གཞི་དང་པོ་ལ། ། [L1-0008](#l1-0008)
+**U00048** རྒྱུད་འབྱུང་གླེང་གཞི་དང་པོ་ལ། ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-PHYS-P004-UNCERTAINTIES](#scan-ch1-phys-p004-uncertainties) [L1-0008](#l1-0008)
 
 <a id="u00049"></a>
 
-**U00049** ལྔ་པོ་རྣམས་ཀྱི་ས་བོན་འཛིན། །
+**U00049** ལྔ་པོ་རྣམས་ཀྱི་ས་བོན་འཛིན། ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-PHYS-P004-UNCERTAINTIES](#scan-ch1-phys-p004-uncertainties)
 
 <a id="u00050"></a>
 
@@ -341,7 +341,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00080"></a>
 
-**U00080** དབང་ཕྱུག་རྫོགས་པའི་ལུས་བླངས་ནས། །
+**U00080** དབང་ཕྱུག་རྫོགས་པའི་ལུས་བླངས་ནས། ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-PHYS-P006-007-UNCERTAINTIES](#scan-ch1-phys-p006-007-uncertainties)
 
 <a id="u00081"></a>
 
@@ -389,11 +389,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00092"></a>
 
-**U00092** ཡེ་ཐོག་ནས་ནི་རང་སྣང་བར། ། [TK-CONT-20260928-TK-B01-016](#tk-cont-20260928-tk-b01-016)
+**U00092** ཡེ་ཐོག་ནས་ནི་རང་སྣང་བར། ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-PHYS-P006-007-UNCERTAINTIES](#scan-ch1-phys-p006-007-uncertainties) [TK-CONT-20260928-TK-B01-016](#tk-cont-20260928-tk-b01-016)
 
 <a id="u00093"></a>
 
-**U00093** སོ་སོའི་ལས་དང་སྐལ་མཐུན་པར། །
+**U00093** སོ་སོའི་ལས་དང་སྐལ་མཐུན་པར། ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-PHYS-P006-007-UNCERTAINTIES](#scan-ch1-phys-p006-007-uncertainties)
 
 <a id="u00094"></a>
 
@@ -525,7 +525,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00126"></a>
 
-**U00126** སོ་སོའི་སྒྲ་དབྱངས་སྟོང་ཕྲག་བརྒྱད། ། [TK-CONT2-B02-O11](#tk-cont2-b02-o11)
+**U00126** སོ་སོའི་སྒྲ་དབྱངས་སྟོང་ཕྲག་བརྒྱད། ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-PHYS-P006-007-UNCERTAINTIES](#scan-ch1-phys-p006-007-uncertainties) [TK-CONT2-B02-O11](#tk-cont2-b02-o11)
 
 <a id="u00127"></a>
 
@@ -12345,6 +12345,42 @@ Units: [U00014](#u00014).
 
 **Evidence:** [p003-native.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/p003-native.png), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/p003-x0000-y0000.png), [p003-x1900-y0000.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/p003-x1900-y0000.png), [p003-x3696-y0000.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/p003-x3696-y0000.png), [row1-left.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row1-left.png), [row1-right.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row1-right.png), [row2-left.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row2-left.png), [row2-right.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row2-right.png), [row3-left.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row3-left.png), [row3-right.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row3-right.png), [row4-left.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row4-left.png), [row4-right.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/row4-right.png), [U00014-incoming-boundary-detail.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/U00014-incoming-boundary-detail.png), [margin-inscription-extended-rotated90.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B02-P0003/margin-inscription-extended-rotated90.png), [C1-BASE-PHYSICAL-B02-P0003-detail-adjudication-reading.txt](reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B02-P0003-detail-adjudication-reading.txt)
 
+<a id="scan-ch1-phys-p006-007-uncertainties"></a>
+
+### SCAN-CH1-PHYS-P006-007-UNCERTAINTIES
+
+Units: [U00080](#u00080), [U00092](#u00092), [U00093](#u00093), [U00126](#u00126).
+
+**A transcript:** U00080: དབང་ཕྱུག་རྫོགས་པའི་ལུས་བླངས་ནས། ། / U00092: ཡེ་ཐོག་ནས་ནི་རང་སྣང་བར། ། / U00093: སོ་སོའི་ལས་དང་སྐལ་མཐུན་པར། ། / U00126: སོ་སོའི་སྒྲ་དབྱངས་སྟོང་ཕྲག་བརྒྱད། །
+
+**Unchanged provisional readings:** All four supplied readings retained unchanged; exact inspected components remain qualified.
+
+**Scan locator:** Adzom PDF6/BDRC8: U00080 row2 left, U00093 row5 left, U00092 row4; PDF7/BDRC9: U00126 row6. Exact question bounds are in the linked source-page reports..
+
+**Decision and reason:** The saved physical review distinguishes a tiered terminal component from the adjacent ordinary shad at U00080 and U00093; exact graphic encoding is not adopted. A small damaged span after ye-thog-nas at U00092 and the lower stack detail in U00126 remain unresolved in these targeted readings. Preserve the earlier main lexical pass within its stated scope without calling these particular fine components newly certified. No lexical correction, source omission, or punctuation deletion is asserted.
+
+**Confidence and limits:** {"tiered_graphic_presence": "high in the scoped source review and coordinator native-column inspection", "exact_graphic_encoding": "unresolved", "U00092_damaged_span": "unresolved after targeted reading", "U00126_lower_stack": "qualified existing reading, no substitute adopted"}
+
+**Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B05-P0006/p006-native.png), [C1-BASE-PHYSICAL-B05-P0006-reader-reading.txt](reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B05-P0006-reader-reading.txt), [p007-native.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B06-P0007/p007-native.png), [C1-BASE-PHYSICAL-B06-P0007-reader-reading.txt](reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B06-P0007-reader-reading.txt), [C1-BASE-PHYSICAL.md](reviews/chapter-01/continuation/C1-BASE-PHYSICAL.md)
+
+<a id="scan-ch1-phys-p004-uncertainties"></a>
+
+### SCAN-CH1-PHYS-P004-UNCERTAINTIES
+
+Units: [U00029](#u00029), [U00048](#u00048), [U00049](#u00049).
+
+**A transcript:** U00029: ཐུན་མོང་གི་གླེང་གཞི་བཀོད་པ། / U00048: རྒྱུད་འབྱུང་གླེང་གཞི་དང་པོ་ལ། ། / U00049: ལྔ་པོ་རྣམས་ཀྱི་ས་བོན་འཛིན། །
+
+**Unchanged provisional readings:** Existing wording retained; the specifically linked heading-final, prefix and medial glyph questions remain unresolved.
+
+**Scan locator:** Adzom PDF4 / BDRC6 / member0006.png: U00029 small heading row2; U00048 and U00049 row6. Exact native question crops and bounds are in the linked manifest..
+
+**Decision and reason:** The preserved full-page review and a targeted component reinspection do not resolve U00029 heading-final segmentation, U00048 prefix/letter allocation, or the rnams-to-dzin middle of U00049. Their proposed alternative readings are not adopted, and no omission is inferred. This records exact local uncertainty without replacing or restarting the surviving main lexical pass. The separate U00045 extra-dot proposal is disposed by retaining its existing spelling; the supplemental gcig literal label is rejected, not a correction.
+
+**Confidence and limits:** High for physical placement; the named letter-level questions remain unresolved. No alternative lexical reading adopted.
+
+**Evidence:** [p004-native.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B03-P0004/p004-native.png), [C1-BASE-PHYSICAL-B03-P0004-target-adjudication-20260929-reading.txt](reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B03-P0004-target-adjudication-20260929-reading.txt), [base-physical-004-007-adjudication-disposition.json](reviews/chapter-01/continuation/SESSION-20260929-INTEGRATION/base-physical-004-007-adjudication-disposition.json), [U00029-heading-context.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B03-P0004/adjudication-20260929/U00029-heading-context.png), [U00045-separator-context.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B03-P0004/adjudication-20260929/U00045-separator-context.png), [U00048-prefix-context.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B03-P0004/adjudication-20260929/U00048-prefix-context.png), [U00049-middle-context.png](evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B03-P0004/adjudication-20260929/U00049-middle-context.png)
+
 <a id="a2000-c01-s01"></a>
 
 ### A2000-C01-S01
@@ -16256,7 +16292,7 @@ Exact differences: C1-0013.
 ཐུན་མོང་གི་གླེང་གཞི་བཀོད་པ་
 ```
 
-**Disposition and reason:** Retain A provisionally because the selected diplomatic base is Adzom. B/S disagreement is preserved, but unverified transcripts, majority agreement, grammatical preference, and doctrinal expectations do not authorize changing the base witness. This is a pending scan decision, not a finding that A is the original or superior reading.
+**Disposition and reason:** Retain A as an explicitly uncertain transcript scaffold at [SCAN-CH1-PHYS-P004-UNCERTAINTIES](#scan-ch1-phys-p004-uncertainties). These notes document unresolved print readings; they do not adopt a replacement spelling or certify the supplied punctuation. The raw A/B/S quotations remain unchanged.
 
 <a id="l1-0006"></a>
 
@@ -16340,7 +16376,7 @@ Exact differences: C1-0017, C1-0018, C1-0019.
 སྣང་བའི་འོད་ནི་བསམ་མི་ཁྱབ། །སྤྲུལ་པ་མཛད་པ་དང་པོར་བྱུང་། །རྒྱུད་འབྱུང་གླེང་གཞི་དང་པོ་ལ། །
 ```
 
-**Disposition and reason:** Retain A provisionally because the selected diplomatic base is Adzom. B/S disagreement is preserved, but unverified transcripts, majority agreement, grammatical preference, and doctrinal expectations do not authorize changing the base witness. This is a pending scan decision, not a finding that A is the original or superior reading.
+**Disposition and reason:** Retain A as an explicitly uncertain transcript scaffold at [SCAN-CH1-PHYS-P004-UNCERTAINTIES](#scan-ch1-phys-p004-uncertainties). These notes document unresolved print readings; they do not adopt a replacement spelling or certify the supplied punctuation. The raw A/B/S quotations remain unchanged.
 
 <a id="l1-0009"></a>
 

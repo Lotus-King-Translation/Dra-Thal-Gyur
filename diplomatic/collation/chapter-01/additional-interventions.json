@@ -3822,5 +3822,70 @@
         "next_step": "Retain the tiered graphic without forced Unicode normalization. Record the marginal components separately from the root main text, preserving their physical order."
       }
     }
+  },
+  {
+    "id": "SCAN-CH1-PHYS-P006-007-UNCERTAINTIES",
+    "units": [
+      "U00080",
+      "U00092",
+      "U00093",
+      "U00126"
+    ],
+    "original_units": {
+      "U00080": "དབང་ཕྱུག་རྫོགས་པའི་ལུས་བླངས་ནས། །",
+      "U00092": "ཡེ་ཐོག་ནས་ནི་རང་སྣང་བར། །",
+      "U00093": "སོ་སོའི་ལས་དང་སྐལ་མཐུན་པར། །",
+      "U00126": "སོ་སོའི་སྒྲ་དབྱངས་སྟོང་ཕྲག་བརྒྱད། །"
+    },
+    "replacement_units": {},
+    "old": "U00080: དབང་ཕྱུག་རྫོགས་པའི་ལུས་བླངས་ནས། ། / U00092: ཡེ་ཐོག་ནས་ནི་རང་སྣང་བར། ། / U00093: སོ་སོའི་ལས་དང་སྐལ་མཐུན་པར། ། / U00126: སོ་སོའི་སྒྲ་དབྱངས་སྟོང་ཕྲག་བརྒྱད། །",
+    "new": "All four supplied readings retained unchanged; exact inspected components remain qualified.",
+    "reading_label": "Unchanged provisional readings",
+    "reading_uncertainty": true,
+    "rationale": "The saved physical review distinguishes a tiered terminal component from the adjacent ordinary shad at U00080 and U00093; exact graphic encoding is not adopted. A small damaged span after ye-thog-nas at U00092 and the lower stack detail in U00126 remain unresolved in these targeted readings. Preserve the earlier main lexical pass within its stated scope without calling these particular fine components newly certified. No lexical correction, source omission, or punctuation deletion is asserted.",
+    "locator": "Adzom PDF6/BDRC8: U00080 row2 left, U00093 row5 left, U00092 row4; PDF7/BDRC9: U00126 row6. Exact question bounds are in the linked source-page reports.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B05-P0006/p006-native.png",
+      "reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B05-P0006-reader-reading.txt",
+      "evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B06-P0007/p007-native.png",
+      "reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B06-P0007-reader-reading.txt",
+      "reviews/chapter-01/continuation/C1-BASE-PHYSICAL.md"
+    ],
+    "confidence": {
+      "tiered_graphic_presence": "high in the scoped source review and coordinator native-column inspection",
+      "exact_graphic_encoding": "unresolved",
+      "U00092_damaged_span": "unresolved after targeted reading",
+      "U00126_lower_stack": "qualified existing reading, no substitute adopted"
+    }
+  },
+  {
+    "id": "SCAN-CH1-PHYS-P004-UNCERTAINTIES",
+    "units": [
+      "U00029",
+      "U00048",
+      "U00049"
+    ],
+    "original_units": {
+      "U00029": "ཐུན་མོང་གི་གླེང་གཞི་བཀོད་པ།",
+      "U00048": "རྒྱུད་འབྱུང་གླེང་གཞི་དང་པོ་ལ། །",
+      "U00049": "ལྔ་པོ་རྣམས་ཀྱི་ས་བོན་འཛིན། །"
+    },
+    "replacement_units": {},
+    "old": "U00029: ཐུན་མོང་གི་གླེང་གཞི་བཀོད་པ། / U00048: རྒྱུད་འབྱུང་གླེང་གཞི་དང་པོ་ལ། ། / U00049: ལྔ་པོ་རྣམས་ཀྱི་ས་བོན་འཛིན། །",
+    "new": "Existing wording retained; the specifically linked heading-final, prefix and medial glyph questions remain unresolved.",
+    "reading_label": "Unchanged provisional readings",
+    "reading_uncertainty": true,
+    "rationale": "The preserved full-page review and a targeted component reinspection do not resolve U00029 heading-final segmentation, U00048 prefix/letter allocation, or the rnams-to-dzin middle of U00049. Their proposed alternative readings are not adopted, and no omission is inferred. This records exact local uncertainty without replacing or restarting the surviving main lexical pass. The separate U00045 extra-dot proposal is disposed by retaining its existing spelling; the supplemental gcig literal label is rejected, not a correction.",
+    "locator": "Adzom PDF4 / BDRC6 / member0006.png: U00029 small heading row2; U00048 and U00049 row6. Exact native question crops and bounds are in the linked manifest.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B03-P0004/p004-native.png",
+      "reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B03-P0004-target-adjudication-20260929-reading.txt",
+      "reviews/chapter-01/continuation/SESSION-20260929-INTEGRATION/base-physical-004-007-adjudication-disposition.json",
+      "evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B03-P0004/adjudication-20260929/U00029-heading-context.png",
+      "evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B03-P0004/adjudication-20260929/U00045-separator-context.png",
+      "evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B03-P0004/adjudication-20260929/U00048-prefix-context.png",
+      "evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B03-P0004/adjudication-20260929/U00049-middle-context.png"
+    ],
+    "confidence": "High for physical placement; the named letter-level questions remain unresolved. No alternative lexical reading adopted."
   }
 ]

@@ -78,3 +78,59 @@ The subsequent [detail reading](C1-BASE-PHYSICAL-B02-P0003-detail-adjudication-r
 Next: PDF4 full physical inventory and remaining page1/2/5 scopes; PDF3 has explicitly bounded remaining graphic questions, not unread whole rows.
 
 This completed bounded inspection does not certify unexamined portions of the chapter. Unresolved glyphs are not agreement, missing text, or source unavailability.
+
+## B03-P0004 — preserved review integrated
+
+Adzom PDF4: six-row physical ledger integrated, with source-heading placement and retained U00030/U00035 double-shad corrections; targeted lexical/separator questions remain separately adjudicated.
+
+[Unchanged raw report](C1-BASE-PHYSICAL-B03-P0004-reader-reading.txt) · [Exact source and rows](C1-BASE-PHYSICAL.json).
+
+All decisions are scoped to the reported component or placement. Graphic inventory is not automatic Unicode adoption; raw reports remain unchanged.
+
+**Remaining:** Retain every bounded question in this page ledger; integrate saved next-page report rather than repeat the main lexical pass.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.
+
+## B04-P0005 — preserved review integrated
+
+Adzom PDF5: six-row physical inventory, 52 individually inventoried full-height verticals including opening marks, preserved with six bounded small-mark or marginal questions. This count is not 52 newly corrected signs.
+
+[Unchanged raw report](C1-BASE-PHYSICAL-B04-P0005-reader-reading.txt) · [Exact source and rows](C1-BASE-PHYSICAL.json).
+
+All decisions are scoped to the reported component or placement. Graphic inventory is not automatic Unicode adoption; raw reports remain unchanged.
+
+**Remaining:** Retain every bounded question in this page ledger; integrate saved next-page report rather than repeat the main lexical pass.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.
+
+## B05-P0006 — preserved review integrated
+
+Adzom PDF6: six-row ledger and 26 boundary groups integrated. Fifty ordinary upright components and two tiered components remain distinct; no tiered sign is silently normalized. The damaged U00092 span and terminal-mark uncertainties stay open.
+
+[Unchanged raw report](C1-BASE-PHYSICAL-B05-P0006-reader-reading.txt) · [Exact source and rows](C1-BASE-PHYSICAL.json).
+
+All decisions are scoped to the reported component or placement. Graphic inventory is not automatic Unicode adoption; raw reports remain unchanged.
+
+**Remaining:** Retain every bounded question in this page ledger; integrate saved next-page report rather than repeat the main lexical pass.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.
+
+## B06-P0007 — preserved review integrated
+
+Adzom PDF7: preserved component-level adjudication rejects all 22 proposed shad deletions. Existing two-shad readings retained. All six rows, marginal material and named small-mark questions are recorded.
+
+[Unchanged raw report](C1-BASE-PHYSICAL-B06-P0007-reader-reading.txt) · [Exact source and rows](C1-BASE-PHYSICAL.json).
+
+The effective inventory has 44 detached components at 22 same-row boundaries plus eight at four row-right endings (52 total), with zero at the two internal row turns. The initial disagreement remains archived. Mistaken lexical labels in the sign-only addendum do not replace Tibetan text. Electronic allocation of an outer mark is editorial.
+
+**Remaining:** Retain every bounded question in this page ledger; integrate saved next-page report rather than repeat the main lexical pass.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.
+
+### PDF4 targeted adjudication and retained readings
+
+The [targeted reader](C1-BASE-PHYSICAL-B03-P0004-target-adjudication-20260929-reading.txt) and [coordinator disposition](SESSION-20260929-INTEGRATION/base-physical-004-007-adjudication-disposition.json) preserve three unresolved letter-level questions at U00029, U00048 and U00049. No guessed ending, added syllable, or alternative middle wording is adopted.
+
+At U00045 the existing spelling is retained without inserting an internal tsheg. The source crop and targeted component description show no distinct dot in the prefix/root gap. The supplemental reader's literal `གཅིག་` label is rejected: it is not an accepted replacement of the intended gzigs context. The component observation and erroneous lexical label are not conflated.
+
+The chapter now visibly links the three PDF4 questions and the named PDF6–7 graphic/damaged-stack questions. This is two uncertainty records, not two adopted corrections. All Tibetan reading strings remain unchanged by this group. The page7 rejection of all 22 proposed shad deletions remains governing.

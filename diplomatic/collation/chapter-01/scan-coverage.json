@@ -1260,6 +1260,474 @@
       "whole_pages_newly_certified": [],
       "coverage_assessment": "Target inspection only; no adopted glyph transcription",
       "next_physical_span": "Title and portrait scope on Adzom PDF1-2. Retain S09, U02635 dot count and marginal uncertainty."
+    },
+    {
+      "task_id": "C1-BASE-PHYSICAL",
+      "batch_id": "B03-P0004",
+      "target_page": 4,
+      "report": "reviews/chapter-01/continuation/C1-BASE-PHYSICAL.json",
+      "summary": "Adzom PDF4: six-row physical ledger integrated, with source-heading placement and retained U00030/U00035 double-shad corrections; targeted lexical/separator questions remain separately adjudicated.",
+      "rows_reported": 6,
+      "canonical_record_ids": [
+        "SCAN-CH1-PHYS-P004-UNCERTAINTIES"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "target_spatial_inspection": "All six physical main rows followed left to right; both gutters, frame, external numbering, exterior margins and small-script layer inspected.",
+        "target_unexamined_spans": [],
+        "transcription_status": "Provisional and explicitly incomplete at bounded inspected uncertainties; not a fully resolved glyph inventory.",
+        "punctuation_status": "Boundary groups inventoried in source order. Source-layer allocation at S08 and fine accounting of filler groups remain provisional.",
+        "new_mismatch_status": "U00049 is a possible mismatch requiring adjudication, not an adopted correction. Other uncertain components do not authorize changing the retained lexical pass.",
+        "provenance": "Informed independent agent reading of supplied images and base reference; not blind review or human palaeographic certification.",
+        "certification_scope": "PDF4 only; no whole-chapter certification.",
+        "tools_or_external_actions": "None."
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q01",
+          "location": "A01, after བཀོད and before S08",
+          "approximate_native_bounds": [
+            3660,
+            425,
+            3870,
+            595
+          ],
+          "question": "Final small-script glyph material and its separation; presence of the base's final པ is not certified.",
+          "status": "Inspected, unresolved."
+        },
+        {
+          "id": "Q02",
+          "location": "Row 5, between ག and ཟིགས",
+          "approximate_native_bounds": [
+            3050,
+            810,
+            3150,
+            920
+          ],
+          "question": "Is there a printed tsheg, or only separation between the prefix and root?",
+          "status": "Inspected, unresolved."
+        },
+        {
+          "id": "Q03",
+          "location": "Row 6, after གླེང་ and immediately before ཞི",
+          "approximate_native_bounds": [
+            2410,
+            915,
+            2600,
+            1040
+          ],
+          "question": "Identity and segmentation of the upright prefix-like material; do not infer an extra པ or restore ག from the base.",
+          "status": "Inspected, unresolved."
+        },
+        {
+          "id": "Q04",
+          "location": "Row 6, between རྣམས་ and འཛིན",
+          "approximate_native_bounds": [
+            3290,
+            895,
+            3670,
+            1040
+          ],
+          "question": "Consonants and syllable boundaries in the span tentatively resembling ཀྱིས་དོན་.",
+          "status": "Inspected, unresolved; no lexical intervention proposed for adoption."
+        },
+        {
+          "id": "Q05a",
+          "location": "Initial cluster of N01 marginal inscription",
+          "approximate_native_bounds": [
+            603,
+            620,
+            715,
+            725
+          ],
+          "question": "Stack tentatively read སྒྲ་; lower components are not securely resolved.",
+          "status": "Inspected in native and rotated views."
+        },
+        {
+          "id": "Q05b",
+          "location": "Final lexical cluster of N01, before M01",
+          "approximate_native_bounds": [
+            603,
+            780,
+            715,
+            950
+          ],
+          "question": "Cluster tentatively read འགྱུར; complete stack and vowel detail remain uncertain.",
+          "status": "Inspected in native and rotated views."
+        },
+        {
+          "id": "Q06",
+          "location": "F01 and F02",
+          "approximate_native_bounds": [
+            4950,
+            630,
+            5075,
+            845
+          ],
+          "question": "Three short filler strokes are the present count for each group; distinction of the immediately preceding terminal point from the group remains less secure than the distinction from long shads.",
+          "status": "Inspected; retain graphic groups pending finer adjudication."
+        }
+      ],
+      "unexamined_spans": [
+        {
+          "source": "PDF3",
+          "span": "Interior text except the outgoing final-row boundary fragment",
+          "reason": "Outside the declared target."
+        },
+        {
+          "source": "PDF5",
+          "span": "Interior text after the opening continuation of U00051",
+          "reason": "Outside the declared target."
+        }
+      ],
+      "next_physical_span": "Retain every bounded question in this page ledger; integrate saved next-page report rather than repeat the main lexical pass.",
+      "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-BASE-PHYSICAL",
+      "batch_id": "B04-P0005",
+      "target_page": 5,
+      "report": "reviews/chapter-01/continuation/C1-BASE-PHYSICAL.json",
+      "summary": "Adzom PDF5: six-row physical inventory, 52 individually inventoried full-height verticals including opening marks, preserved with six bounded small-mark or marginal questions. This count is not 52 newly corrected signs.",
+      "rows_reported": 6,
+      "canonical_record_ids": [],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "target_inspection": "All six target main rows followed left to right; marginal, ornamental, frame and blank-margin regions inspected.",
+        "resolution": "Main lexical sequence transcribed; six bounded questions remain concerning small marks, one marginal group and the horizontal stroke's function.",
+        "individual_full_height_verticals_inventoried": 52,
+        "count_excludes": [
+          "frame rules",
+          "letter limbs",
+          "tshegs",
+          "opening ornament",
+          "horizontal stroke",
+          "short terminal strokes"
+        ],
+        "independent_source_count": 1,
+        "review_status": "Informed independent agent reading, not blind review or human palaeographic certification.",
+        "certification_scope": "This page only; neither complete resolution of every mark nor whole-chapter certification is claimed."
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q01",
+          "row": "P005-R1",
+          "anchor": "U00055",
+          "approximate_native_bounds": [
+            4980,
+            305,
+            5060,
+            465
+          ],
+          "question": "Terminal small separator after རྒྱུ: presence and shape are not securely distinguished from worn upper strokes near the frame.",
+          "retained_reading": "རྒྱུ",
+          "extent": "Terminal separator only; not the rest of the row."
+        },
+        {
+          "id": "Q02",
+          "row": "P005-R2",
+          "anchor": "U00059",
+          "approximate_native_bounds": [
+            4990,
+            435,
+            5060,
+            565
+          ],
+          "question": "Whether the short raised trace after གནས is a complete tsheg or a fragment associated with the terminal lettering.",
+          "retained_reading": "གནས",
+          "extent": "Terminal small mark only."
+        },
+        {
+          "id": "Q03",
+          "row": "P005-R3",
+          "anchor": "U00063",
+          "approximate_native_bounds": [
+            4990,
+            550,
+            5060,
+            700
+          ],
+          "question": "Exact terminal separator after གཞན beside the inner frame.",
+          "retained_reading": "གཞན",
+          "extent": "Terminal small mark only."
+        },
+        {
+          "id": "Q04",
+          "region": "M01 second component",
+          "approximate_native_bounds": [
+            590,
+            405,
+            695,
+            535
+          ],
+          "question": "Compact stack tentatively read སྒྲ; its upper and lower components and any following separator are not secure enough for an unqualified transcription.",
+          "tentative_reading": "སྒྲ",
+          "extent": "One compact marginal group between ཀ and གསུམ."
+        },
+        {
+          "id": "Q05",
+          "region": "F01",
+          "approximate_native_bounds": [
+            4990,
+            895,
+            5060,
+            945
+          ],
+          "question": "Two short elevated strokes after སངས: terminal tsheg plus filler versus compound filler remains unresolved.",
+          "extent": "Short terminal marks only; no full-height closing shad identified."
+        },
+        {
+          "id": "Q06",
+          "region": "H01",
+          "approximate_native_bounds": [
+            970,
+            370,
+            1110,
+            400
+          ],
+          "question": "The horizontal stroke is visible, but intentional filler versus incidental mark cannot be established from this packet.",
+          "extent": "One detached horizontal stroke."
+        }
+      ],
+      "unexamined_spans": {
+        "within_target_page": [],
+        "outside_target_scope": [
+          {
+            "pdf_page": 4,
+            "span": "All wording except the final-row boundary fragment ཁ་དོག was not exhaustively collated."
+          },
+          {
+            "pdf_page": 6,
+            "span": "All wording except the opening continuation རྒྱས་རྣམས་ཀྱི་གཟུགས་སྐུའོ was not exhaustively collated."
+          }
+        ]
+      },
+      "next_physical_span": "Retain every bounded question in this page ledger; integrate saved next-page report rather than repeat the main lexical pass.",
+      "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-BASE-PHYSICAL",
+      "batch_id": "B05-P0006",
+      "target_page": 6,
+      "report": "reviews/chapter-01/continuation/C1-BASE-PHYSICAL.json",
+      "summary": "Adzom PDF6: six-row ledger and 26 boundary groups integrated. Fifty ordinary upright components and two tiered components remain distinct; no tiered sign is silently normalized. The damaged U00092 span and terminal-mark uncertainties stay open.",
+      "rows_reported": 6,
+      "canonical_record_ids": [
+        "SCAN-CH1-PHYS-P006-007-UNCERTAINTIES"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "target_rows_inspected": 6,
+        "target_rows_with_source_ordered_transcription": 6,
+        "ordered_anchor_fragments": 31,
+        "boundary_groups_inventoried": 26,
+        "inventoried_boundary_components": {
+          "S": 50,
+          "C": 2
+        },
+        "additional_short_stroke_cluster": "F3",
+        "target_unexamined_spans": [],
+        "resolution_status": "Full target-page inspection pass with one bounded unresolved lexical span, one unresolved tsheg/filler partition and four unresolved terminal-mark positions. Not a fully resolved glyph-by-glyph certification.",
+        "source_layers": "Main text, marginal folio material, numerical stamp, frames and exterior marks inspected; no independent source annotation identified.",
+        "lexical_disposition": "Existing lexical pass retained. No secure new lexical correction proposed.",
+        "provenance": "Direct inspection of supplied attachments. Target crops and rotation are views of one source page, not independent witnesses.",
+        "review_status": "Informed independent agent reading with base reference supplied; neither blind review nor human palaeographic certification.",
+        "certification_scope": "PDF6 only; no whole-chapter certification."
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q1",
+          "type": "Lexical glyph question",
+          "scope": "Approximately two damaged syllabic positions after ཡེ་ཐོག་ནས་ and before སྣང་བར, row 4.",
+          "question": "Which consonant bodies and intervening tshegs are actually preserved?",
+          "evidence_images": [
+            1,
+            5,
+            6,
+            16,
+            17,
+            19,
+            20
+          ]
+        },
+        {
+          "id": "F3-partition",
+          "type": "Graphic-function question",
+          "scope": "The three short strokes after གསུང at the right end of row 3.",
+          "question": "Which stroke, if any, is the lexical terminal tsheg, and which are filling marks?",
+          "evidence_images": [
+            1,
+            6,
+            17
+          ]
+        },
+        {
+          "id": "E1",
+          "type": "Terminal-trace question",
+          "scope": "Immediately after row-1 བླངས, adjoining the right frame.",
+          "question": "Is a separate terminal tsheg or filler distinguishable from the final letter and frame-adjacent traces?",
+          "evidence_images": [
+            1,
+            6,
+            11,
+            14
+          ]
+        },
+        {
+          "id": "E2",
+          "type": "Terminal-trace question",
+          "scope": "Immediately after row-2 སྣང.",
+          "question": "Exact separation and count of terminal marks versus the final letter's upper strokes.",
+          "evidence_images": [
+            1,
+            6,
+            14
+          ]
+        },
+        {
+          "id": "E4",
+          "type": "Terminal-trace question",
+          "scope": "Immediately after row-4 མཐུན.",
+          "question": "Whether the small frame-adjacent trace is a distinct terminal tsheg.",
+          "evidence_images": [
+            1,
+            6,
+            17,
+            20
+          ]
+        },
+        {
+          "id": "E6",
+          "type": "Terminal-trace question",
+          "scope": "Immediately after row-6 བརྗོད.",
+          "question": "Whether faint terminal traces include a separate tsheg; no shad is asserted.",
+          "evidence_images": [
+            1,
+            6,
+            20,
+            23
+          ]
+        }
+      ],
+      "unexamined_spans": [
+        {
+          "source_location": "PDF5",
+          "scope": "Text other than the closing page-boundary context.",
+          "outside_target_scope": true
+        },
+        {
+          "source_location": "PDF7",
+          "scope": "Text other than the opening page-boundary context.",
+          "outside_target_scope": true
+        }
+      ],
+      "next_physical_span": "Retain every bounded question in this page ledger; integrate saved next-page report rather than repeat the main lexical pass.",
+      "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-BASE-PHYSICAL",
+      "batch_id": "B06-P0007",
+      "target_page": 7,
+      "report": "reviews/chapter-01/continuation/C1-BASE-PHYSICAL.json",
+      "summary": "Adzom PDF7: preserved component-level adjudication rejects all 22 proposed shad deletions. Existing two-shad readings retained. All six rows, marginal material and named small-mark questions are recorded.",
+      "rows_reported": 6,
+      "canonical_record_ids": [
+        "SCAN-CH1-PHYS-P006-007-UNCERTAINTIES"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "coordinator_status": "Preserved full-page component adjudication supersedes initial internal counts; no shad deletion accepted.",
+        "effective_totals": {
+          "unit_ending_positions_inspected": 26,
+          "internal_same_row_boundaries": 22,
+          "detached_punctuation_at_internal_same_row_boundaries": 44,
+          "row_right_ending_positions": 4,
+          "detached_punctuation_at_row_right_endings": 8,
+          "internal_row_turns_checked": 2,
+          "detached_punctuation_at_internal_row_turns": 0,
+          "total_detached_punctuation_components": 52,
+          "components_by_physical_row": {
+            "1": 8,
+            "2": 10,
+            "3": 8,
+            "4": 8,
+            "5": 8,
+            "6": 10
+          },
+          "frame_strokes_counted_as_punctuation": 0
+        },
+        "remaining": "Complete tsheg/ornament encoding and bounded lexical/marginal questions remain unresolved."
+      },
+      "unread_after_inspection": [
+        {
+          "id": "B06-Q01",
+          "anchor": "U00106",
+          "row": "R1",
+          "scope": "Only the possible tsheg immediately after final ལྡང at the right frame.",
+          "approx_native_bounds": [
+            4950,
+            265,
+            5030,
+            390
+          ],
+          "question": "Is a distinct terminal dot recoverable apart from the adjacent ink and frame?",
+          "provisional_reading": "ལྡང⟦T01?⟧"
+        },
+        {
+          "id": "B06-Q02",
+          "anchor": "U00126",
+          "row": "R6",
+          "scope": "Lower detail of the single stack provisionally read སྒྲ after སོ་སོའི་.",
+          "approx_native_bounds": [
+            3050,
+            815,
+            3250,
+            960
+          ],
+          "question": "Can the lower component be read independently through the mottled impression?",
+          "provisional_reading": "སྒྲ"
+        },
+        {
+          "id": "B06-Q03",
+          "anchor": null,
+          "region": "N03",
+          "scope": "Final syllable of the marginal title and any immediately following terminal dot.",
+          "approx_native_bounds": [
+            565,
+            775,
+            685,
+            940
+          ],
+          "question": "Complete graphic reading of the worn final group.",
+          "provisional_reading": "འགྱུར"
+        }
+      ],
+      "unexamined_spans": {
+        "target_page": [],
+        "outside_target_scope": [
+          "PDF6 except its overview and final boundary context.",
+          "PDF8 except its overview and opening boundary context."
+        ]
+      },
+      "next_physical_span": "Retain every bounded question in this page ledger; integrate saved next-page report rather than repeat the main lexical pass.",
+      "reader_claims_require_coordinator_dispositions": true,
+      "original_reader_coverage_assessment": {
+        "target_rows_traversed": 6,
+        "target_rows_total": 6,
+        "main_text_extent": "U00102 final portion through U00127; every physical row followed left to right.",
+        "inventory_totals": {
+          "internal_unit_boundary_strokes": 22,
+          "terminal_strokes_before_right_edge_strokes": 4,
+          "additional_right_edge_strokes": 4,
+          "opening_ornamental_boundary_stroke": 1,
+          "opening_ornamental_complexes": 1,
+          "horizontal_opening_fillers": 1
+        },
+        "source_layers": "Six main rows and the separately recorded marginal material; no detached interlinear textual annotation identified.",
+        "lexical_disposition": "Existing lexical pass retained. No definite new lexical mismatch established; one main-text stack remains provisional.",
+        "completion_limit": "Physical traversal is complete for this target page, with three bounded reading questions and unresolved functions of the marginal trace and outer closure strokes.",
+        "review_status": "Informed independent agent reading from supplied images; not blind review, human palaeographic certification or whole-chapter certification."
+      }
     }
   ]
 }

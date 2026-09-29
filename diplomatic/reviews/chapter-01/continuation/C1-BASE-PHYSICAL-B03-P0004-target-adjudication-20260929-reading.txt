@@ -1,0 +1,23 @@
+{
+  "source": "PDF4 / BDRC6 / source0006.png; all six attachments depict the same source",
+  "row_correspondence": {"U00029": "row2, smaller heading", "U00045": "row5", "U00048": "row6", "U00049": "row6", "basis": "Full page and middle column establish six text rows; both row6 crops lie immediately above the bottom rule.", "confidence": "high"},
+  "scope": "Four bounded targets only. Null means I cannot secure the reading; it does not mean source characters are missing. All proposals remain unadopted.",
+  "observations": [
+    {"anchor_id": "U00029", "observed": {"before": null, "target": null, "after": "།"}, "proposed_literal_transcription": null,
+     "remaining_component_ambiguity": "I cannot securely decompose the heading's stacks or identify its final consonant body. An independent shad is distinguishable at the right; a preceding independent syllable or tsheg is not securely established. No formulaic ending is supplied.",
+     "approximate_native_bounds": [3240, 430, 3835, 565], "detached_mark_inventory": {"secure": ["Right-hand shad", "Short horizontal ink fragment left of the heading, unclassified"], "unresolved": ["Internal tshegs and vowel/stack marks"], "complete": false},
+     "confidence": {"row": "high", "heading_transcription": "low", "final_consonant": "low", "terminal_shad": "high"}, "disposition": "retain_bounded_uncertainty"},
+    {"anchor_id": "U00045", "observed": {"before": "།", "target": "གཅིག་", "after": null}, "proposed_literal_transcription": "གཅིག་",
+     "remaining_component_ambiguity": "No distinct inked tsheg is visible in the open space between initial ག and ensuing ཅི. The first letter's descending right limb and the ensuing letter's upper strokes do not constitute a detached dot. Minute speck-level absence is not established.",
+     "approximate_native_bounds": [2990, 785, 3220, 925], "detached_mark_inventory": {"interletter_gap": "No separable tsheg observed", "other": ["Curved vowel mark above ཅ", "Tsheg following final ག", "Preceding shad outside the target"], "letter_limbs_excluded": true},
+     "confidence": {"row": "high", "letter_reading": "moderate", "absence_of_distinct_gap_tsheg": "high", "following_tsheg": "moderate"}, "disposition": "propose_no_interletter_tsheg; transcription remains a proposal"},
+    {"anchor_id": "U00048", "observed": {"before": "གླེང", "target": null, "after": "ཞི"}, "proposed_literal_transcription": null,
+     "remaining_component_ambiguity": "I cannot securely partition the intervening angular ink and upright strokes into the preceding syllable's ending, an additional consonant, or a prefix attached to ཞི. Consequently I cannot establish the intervening letter count or tsheg placement.",
+     "approximate_native_bounds": [2290, 900, 2635, 1050], "detached_mark_inventory": {"secure": ["Vowel mark above ཞ"], "intervening_tshegs": null, "complete": false, "letter_limbs": "Not counted as detached punctuation"},
+     "confidence": {"row": "high", "flanking_readings": "moderate", "intervening_letters": "low", "syllable_boundaries": "low"}, "disposition": "retain_bounded_uncertainty"},
+    {"anchor_id": "U00049", "observed": {"before": "རྣམས་", "target": null, "after": "འཛིན།"}, "proposed_literal_transcription": null,
+     "remaining_component_ambiguity": "The intervening stacked syllable, suffix-versus-independent-body division, and བ-versus-ད identities remain unsecured. I cannot confidently trace the relevant angular outlines as closed བ bodies or open ད bodies. Horizontal spacing alone does not establish syllable boundaries.",
+     "approximate_native_bounds": [3270, 885, 3775, 1040], "detached_mark_inventory": {"secure": ["Terminal shad after the right-hand context"], "target_tshegs": null, "complete": false, "letter_limbs": "Angular body strokes and upper vowel marks are not counted as tshegs"},
+     "confidence": {"row": "high", "flanking_readings": "moderate", "target_letters": "low", "suffix_attachment": "low", "syllable_boundaries": "low"}, "disposition": "retain_bounded_uncertainty"}
+  ]
+}
