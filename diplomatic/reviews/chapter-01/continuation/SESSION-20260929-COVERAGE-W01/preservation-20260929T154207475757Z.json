@@ -1,0 +1,104 @@
+{
+  "baseline_commit": "0a6c911c973d39427c415c8cac26998b597597d6",
+  "captured_at": "20260929T154207475757Z",
+  "paused_owned_reader_groups": [],
+  "files": [
+    {
+      "path": "diplomatic/STATUS.json",
+      "bytes": 267047,
+      "sha256": "571acf1ed30ef5ed1589273263cae6f507bc4fc34bb2cad54c7b5553f90ea087"
+    },
+    {
+      "path": "diplomatic/VALIDATION.json",
+      "bytes": 1193,
+      "sha256": "24cd3e9f5d1b6971acb2f6d50ecd41cd185b4970febcca1811134560b3175879"
+    },
+    {
+      "path": "diplomatic/WORK-QUEUE.json",
+      "bytes": 108518,
+      "sha256": "d0bf9c10945708772f898d7b6a012ab6969f628392b566686a439722898fcb81"
+    },
+    {
+      "path": "diplomatic/WORK-STATUS.md",
+      "bytes": 20797,
+      "sha256": "b5b8fe23dbb61f07b4322d3006fdfe673b5e5bd60022ec742439e0857ea5a319"
+    },
+    {
+      "path": "diplomatic/chapter-01.md",
+      "bytes": 1468897,
+      "sha256": "7579a1b5cdbfd4cf242db3ab50c351e556f29570d09f93a5d8f2c58f99f09356"
+    },
+    {
+      "path": "diplomatic/collation/chapter-01/scan-comparison-loci.json",
+      "bytes": 1431861,
+      "sha256": "4f925938d3b5f13024def85963adb65f671f157d0ceca74587ff1713c37200c6"
+    },
+    {
+      "path": "diplomatic/collation/chapter-01/scan-coverage.json",
+      "bytes": 251019,
+      "sha256": "4fab8c84167d87546e862b48499e4e32411c153209767abd3ed001c81d192399"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-execution.json",
+      "bytes": 8282,
+      "sha256": "0bf99f5edb62c93191f9965264d8ed19d3abcb61298e99bf25fc64c2a0766b7b"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-session.jsonl",
+      "bytes": 48412,
+      "sha256": "16cce7402df36ea6273ca9a52453888c956dc04d5f6714906180991c7072d0a0"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-LANGTANG.json",
+      "bytes": 38744,
+      "sha256": "1f0df6216638cb5fd16b1f5ac6f5f0c3c9ecf21d33ff5ecd5c0f2a541383740b"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-LANGTANG.md",
+      "bytes": 1457,
+      "sha256": "0df561e4f7b4e61b16f034a2a6c505274a3f0235c293a439aac1c192ae180d01"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-COVERAGE-W01/C1-DEGE-B08-P0012-0014-capture.log",
+      "bytes": 139,
+      "sha256": "3953e0f61e41bfd86cf82f623c2e7abf7dc6c1597b648e9c6ece694377450516"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-INTEGRATION/integration_helpers.py",
+      "bytes": 9639,
+      "sha256": "9559df1af859e7959e55f8b1e075f6ff7a7022877d1f19fa2812bc5a965d8f10"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-reading.txt",
+      "bytes": 43639,
+      "sha256": "580b8191eab3dba635e7d7612fae80f728eb25e25f3a0878a8c418eee065f4c0"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-COVERAGE-W01/integration-helper-default-fix.json",
+      "bytes": 956,
+      "sha256": "ce025eba0c0cc1fb2bb4b7e9e2ee734ee892e036c89be2dcce034f0428a007f1"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-COVERAGE-W01/langtang-boundary-integration.json",
+      "bytes": 3298,
+      "sha256": "0c51812ff28106acaa3d336135a64ce5d5df479cc9212e450584ac6eb5ed3c0d"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-COVERAGE-W01/langtang-build.json",
+      "bytes": 267047,
+      "sha256": "571acf1ed30ef5ed1589273263cae6f507bc4fc34bb2cad54c7b5553f90ea087"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-COVERAGE-W01/langtang-validation.json",
+      "bytes": 1193,
+      "sha256": "24cd3e9f5d1b6971acb2f6d50ecd41cd185b4970febcca1811134560b3175879"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-COVERAGE-W02/tool-access-limit.md",
+      "bytes": 787,
+      "sha256": "2d453d712a5ecd81ea833f7f29de29b01dd38e1906832d4fec00bb0b4e3745a7"
+    }
+  ],
+  "message": "Establish Langtang chapter1 physical endpoint and preserve all current source reading results",
+  "scope": "Reviewed project preservation snapshot; unfinished reader outputs are not accepted readings."
+}

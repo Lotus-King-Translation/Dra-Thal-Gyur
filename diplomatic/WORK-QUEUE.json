@@ -1116,7 +1116,7 @@
       "id": "C1-LANGTANG",
       "kind": "witness_coverage",
       "status": "in_progress",
-      "owner": "bounded-source-reader-COVERAGE-W01",
+      "owner": "ChatGPT-coordinator-COVERAGE-W01",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -1155,10 +1155,21 @@
             106
           ],
           "scope": "CHAPTER-BOUNDARY SEARCH ONLY. Historical PDF104 endpoint is only a locator. Inspect these five pages to establish or reject the actual Chapter1 closing and minimal following incipit; quote short source locators with row/bounds, not a Chapter2 transcription. Do not infer provider index or missing leaves from PDF numbering.",
-          "status": "planned_not_read"
+          "status": "integrated_boundary_only"
         }
       ],
-      "current_batch_id": "B01-BOUNDARY-P0102-0106"
+      "current_batch_id": null,
+      "chapter_boundary": {
+        "pdf_page": 104,
+        "provider_image": 111,
+        "source_member": "0111.jpg",
+        "row": 2,
+        "boundary_status": "observed_colophon_endpoint_with_medial_Q01_unresolved",
+        "after_boundary": "minimal following incipit across rows2–3 only",
+        "report": "diplomatic/reviews/chapter-01/continuation/C1-LANGTANG.json"
+      },
+      "last_integrated_batch_id": "B01-BOUNDARY-P0102-0106",
+      "next_step": "Begin the missing Chapter1 opening/continuous comparison and inspect the actual provider37→42 numerical-gap flanks after checking the manifest. Do not follow the raw next_physical_span into Chapter2. Retain Q01 and all uncollated main/annotation regions on PDFs1–104."
     },
     {
       "id": "C1-ADZOM1973",

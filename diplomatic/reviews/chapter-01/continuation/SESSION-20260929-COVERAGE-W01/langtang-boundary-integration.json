@@ -1,0 +1,28 @@
+{
+  "coordinator": {
+    "summary": "Langtang Chapter1 endpoint re-established at PDF104 / provider image111 / physical row2, ending at the colophon-terminal separator after ལེའུ་སྟེ་དང་པོའོ. The colophon retains bounded Q01; preceding PDF102–103 locators are not full-page collation.",
+    "next_step": "Begin the missing Chapter1 opening/continuous comparison and inspect the actual provider37→42 numerical-gap flanks after checking the manifest. Do not follow the raw next_physical_span into Chapter2. Retain Q01 and all uncollated main/annotation regions on PDFs1–104.",
+    "detail": "The coordinator independently saw the native104 overview before the reader output, then checked both complete native columns, the work/chapter closing, three downward triangular signs and the following de-nas/lha-dbang/rtog-pa-med incipit crossing rows2–3. Post-incipit text was not transcribed or collated. Source104 is a reliable boundary locator, not full lexical certification of its unresolved medial colophon wording or all prior pages.",
+    "coordinator_scope": "Native104 overview and both unscaled source columns at the closing/incipit, plus PDF102–103 overviews for prior context. Raw report, source-member and attachment hashes checked. Independent informed model reading, not blind or human certification.",
+    "observation_dispositions": {
+      "O102-01": "Preserve as boundary-search evidence only, with the explicitly excluded running-text and non-main spans retained. No full-page lexical agreement or source-completion claim.",
+      "O103-01": "Preserve as boundary-search evidence only, with the explicitly excluded running-text and non-main spans retained. No full-page lexical agreement or source-completion claim.",
+      "O104-01": "Accept the actual Chapter1 physical endpoint at PDF104 row2 while retaining Q01 as unresolved inside its colophon. Historical104 locator is corroborated by the printed closing, not by page arithmetic.",
+      "O104-02": "Accept the local physical order: closing separator, blank, three downward triangles, blank, separate leading separator and following incipit. Do not equate the triangles with Adzom S09 or infer inscription omission elsewhere.",
+      "O104-03": "Accept only the minimal subsequent incipit across rows2–3 as boundary evidence. Its raw next-span instruction is not permission to begin Chapter2.",
+      "O105-01": "Preserve as boundary-search evidence only, with the explicitly excluded running-text and non-main spans retained. No full-page lexical agreement or source-completion claim.",
+      "O106-01": "Preserve as boundary-search evidence only, with the explicitly excluded running-text and non-main spans retained. No full-page lexical agreement or source-completion claim."
+    }
+  },
+  "canonical_record_ids": [
+    "LT-COV1-O104-01",
+    "LT-COV1-O104-02"
+  ],
+  "raw_receipt": {
+    "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-LANGTANG-B01-BOUNDARY-P0102-0106-reader-reading.txt",
+    "sha256": "81ddc6a3e7f52497172029eb3160b3e394de348459001a3acbff47f7c68f4ec1",
+    "images_hash_verified": 15,
+    "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-LANGTANG-B01-BOUNDARY-P0102-0106-reader-execution.json"
+  },
+  "chapter_complete": false
+}

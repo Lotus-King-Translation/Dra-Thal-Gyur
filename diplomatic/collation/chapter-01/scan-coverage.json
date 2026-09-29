@@ -6629,6 +6629,148 @@
       "next_physical_span": "All six saved Adzom PDF8-13 reports are integrated. Next new base physical span is PDF14 from U00277, while title/portrait PDF1-2 and all exact prior component questions remain required. Continue other eligible witness gaps without recreating these reports.",
       "reader_claims_require_coordinator_dispositions": true,
       "target_page": 13
+    },
+    {
+      "task_id": "C1-LANGTANG",
+      "batch_id": "B01-BOUNDARY-P0102-0106",
+      "target_pages": [
+        102,
+        103,
+        104,
+        105,
+        106
+      ],
+      "report": "reviews/chapter-01/continuation/C1-LANGTANG.json",
+      "summary": "Langtang Chapter1 endpoint re-established at PDF104 / provider image111 / physical row2, ending at the colophon-terminal separator after ལེའུ་སྟེ་དང་པོའོ. The colophon retains bounded Q01; preceding PDF102–103 locators are not full-page collation.",
+      "rows_reported": 35,
+      "canonical_record_ids": [
+        "LT-COV1-O104-01",
+        "LT-COV1-O104-02"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "boundary_search": "Completed for all five candidate pages and all 35 physical rows.",
+        "result_observations": [
+          "O104-01",
+          "O104-02",
+          "O104-03"
+        ],
+        "full_colophon_lexical_resolution": false,
+        "remaining_colophon_question": "Q01",
+        "existing_lexical_pass": "Neither replaced nor recertified.",
+        "witness_count": 1,
+        "crop_relationship": "Overlapping views of the same source pixels, not independent witnesses.",
+        "method": "Informed independent model reading of the attachments; not blind review or credentialed human palaeography. No tools, OCR, network or files used.",
+        "certification": "No complete chapter or witness certification claimed."
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q01",
+          "pdf_page": 104,
+          "anchor": "U02635",
+          "native_bounds": [
+            790,
+            210,
+            1135,
+            315
+          ],
+          "exact_question": "What is the exact main-text sequence after རྩ and before འབྱུང in the colophon, including the intervening syllable dots? I do not securely resolve that local sequence and have not supplied it from the base."
+        },
+        {
+          "id": "Q02",
+          "pdf_page": 102,
+          "anchor": null,
+          "native_bounds": [
+            1660,
+            60,
+            1930,
+            125
+          ],
+          "exact_question": "What is the complete small-note wording after the legible དྲིས་ལན prefix above row 1? No reply-number value is assigned."
+        },
+        {
+          "id": "Q03",
+          "pdf_page": 102,
+          "anchor": null,
+          "native_bounds": [
+            600,
+            615,
+            865,
+            705
+          ],
+          "exact_question": "What is the complete small-note wording after དྲིས་ལན in the row-7 interval? No reply-number value is assigned."
+        },
+        {
+          "id": "Q04",
+          "pdf_page": 103,
+          "anchor": null,
+          "native_bounds": [
+            1590,
+            285,
+            1875,
+            360
+          ],
+          "exact_question": "What is the exact remainder of the small note beginning དྲིས་ལན in row 3? Its identity is not established by the base's source-note anchor."
+        },
+        {
+          "id": "Q05",
+          "pdf_page": 103,
+          "anchor": null,
+          "native_bounds": [
+            1750,
+            465,
+            2295,
+            550
+          ],
+          "exact_question": "What is the complete small-script sequence occupying the interval after the row-5 main-text clause and before the main-text continuation at the right? Its letters and any numbering remain unresolved."
+        },
+        {
+          "id": "Q06",
+          "pdf_page": 103,
+          "anchor": null,
+          "native_bounds": [
+            145,
+            245,
+            225,
+            535
+          ],
+          "exact_question": "What is the complete left marginal label, keeping its vertically arranged components separate from the main rows?"
+        },
+        {
+          "id": "Q07",
+          "pdf_page": 103,
+          "anchor": "near U02630; attachment unestablished",
+          "native_bounds": [
+            1460,
+            690,
+            1570,
+            765
+          ],
+          "exact_question": "What is the identity and attachment of the isolated small written component below row 7? It is not incorporated into the main-text locator."
+        }
+      ],
+      "unexamined_spans": {
+        "actual_boundary_search_omissions": [],
+        "unresolved_boundary_text": [
+          "Q01"
+        ],
+        "deliberately_excluded": [
+          {
+            "span": "Unquoted portions of pages 102–103 and page 104 row 1",
+            "scope": "Full lexical and punctuation collation; rows were screened and short locators read."
+          },
+          {
+            "span": "Page 104 row 3 after མེད through page 106 row 7, including subsequent-chapter notes and marginal labels",
+            "scope": "Visually screened as boundary context; subsequent-chapter transcription and detailed physical inventory deliberately excluded."
+          },
+          {
+            "span": "Pages outside the five supplied native pages",
+            "scope": "Not available in this batch and not inspected."
+          }
+        ]
+      },
+      "next_physical_span": "Begin the missing Chapter1 opening/continuous comparison and inspect the actual provider37→42 numerical-gap flanks after checking the manifest. Do not follow the raw next_physical_span into Chapter2. Retain Q01 and all uncollated main/annotation regions on PDFs1–104.",
+      "reader_claims_require_coordinator_dispositions": true
     }
   ]
 }

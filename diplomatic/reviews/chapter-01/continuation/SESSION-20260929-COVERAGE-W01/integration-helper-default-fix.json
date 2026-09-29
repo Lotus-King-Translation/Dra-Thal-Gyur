@@ -1,0 +1,17 @@
+{
+  "error": "KeyError target_page from eager evaluation of dict.get default when a valid target_pages list existed",
+  "old": "target_pages = list(plan.get('target_pages', [plan['target_page']]))",
+  "new": "target_pages = list(plan['target_pages']) if 'target_pages' in plan else [plan['target_page']]",
+  "initial_attempt_did_not_change_report_or_coverage": true,
+  "comparison_records_already_created_were_not_duplicated": [
+    "LT-COV1-O104-01",
+    "LT-COV1-O104-02"
+  ],
+  "subsequent_actual_report_integration_receipt": {
+    "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-LANGTANG-B01-BOUNDARY-P0102-0106-reader-reading.txt",
+    "sha256": "81ddc6a3e7f52497172029eb3160b3e394de348459001a3acbff47f7c68f4ec1",
+    "images_hash_verified": 15,
+    "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-LANGTANG-B01-BOUNDARY-P0102-0106-reader-execution.json"
+  },
+  "prior_console_completion_message_was_premature": true
+}

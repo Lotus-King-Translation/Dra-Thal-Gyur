@@ -26885,5 +26885,128 @@
       },
       "coordinator_scope": "Integration of the preserved informed reader report and preceding coordinator inspection of all target native overviews and native columns; this session checked the full observation/question ledger, attachment hashes and source correspondences without claiming a new independent reading of every faint glyph."
     }
+  },
+  {
+    "id": "LT-COV1-O104-01",
+    "witness": "Langtang",
+    "units": [
+      "U02633",
+      "U02634",
+      "U02635"
+    ],
+    "base_snippet_at_review": "U02634–U02635; preceding closing verse corresponds to U02633.",
+    "comparison_reading": "{\"colophon\": \"Quoted across rows 1–2, beginning ཞེས་སྒྲ་ཐལ་འགྱུར and ending ལེའུ་སྟེ་དང་པོའོ.\", \"unresolved_component\": \"Q01\"}",
+    "status": "boundary_located_colophon_locally_unresolved",
+    "confidence": "{\"chapter_identification\": \"high\", \"physical_endpoint\": \"high\", \"colophon_reading\": \"high outside Q01; unresolved at Q01\", \"alignment\": \"high\"}",
+    "locator": "PDF 104; source-member and native bounds in linked packet; bounds: [[1340, 105, 2680, 215], [245, 210, 1505, 315]]",
+    "rationale": "The source itself names the work and explicitly closes ལེའུ་སྟེ་དང་པོའོ. Chapter 1 therefore ends on PDF page 104, physical row 2, at the colophon-terminal separator; the historical page locator is independently supported. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged; record only this Langtang boundary observation and exact unresolved component.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-LANGTANG/B01-BOUNDARY-P0102-0106/p104-native.jpg",
+      "evidence/chapter-01/continuation/C1-LANGTANG/B01-BOUNDARY-P0102-0106/p104-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-LANGTANG/B01-BOUNDARY-P0102-0106/p104-x0900-y0000.png",
+      "reviews/chapter-01/continuation/C1-LANGTANG-B01-BOUNDARY-P0102-0106-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-LANGTANG.md",
+    "continuation_provenance": {
+      "batch_id": "B01-BOUNDARY-P0102-0106",
+      "baseline_commit": "0a6c911c973d39427c415c8cac26998b597597d6",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-LANGTANG-B01-BOUNDARY-P0102-0106-reader-reading.txt",
+        "sha256": "81ddc6a3e7f52497172029eb3160b3e394de348459001a3acbff47f7c68f4ec1"
+      },
+      "observation": {
+        "id": "O104-01",
+        "pdf_page": 104,
+        "anchors": [
+          "U02633",
+          "U02634",
+          "U02635"
+        ],
+        "source_span": {
+          "colophon": "Quoted across rows 1–2, beginning ཞེས་སྒྲ་ཐལ་འགྱུར and ending ལེའུ་སྟེ་དང་པོའོ.",
+          "unresolved_component": "Q01"
+        },
+        "base_span": "U02634–U02635; preceding closing verse corresponds to U02633.",
+        "category": "chapter_one_closing_located",
+        "neighboring_context": "Closing verse precedes the colophon; T3 and a separately introduced དེ་ནས… incipit follow it in row 2.",
+        "approximate_native_bounds": [
+          [
+            1340,
+            105,
+            2680,
+            215
+          ],
+          [
+            245,
+            210,
+            1505,
+            315
+          ]
+        ],
+        "confidence": {
+          "chapter_identification": "high",
+          "physical_endpoint": "high",
+          "colophon_reading": "high outside Q01; unresolved at Q01",
+          "alignment": "high"
+        },
+        "rationale": "The source itself names the work and explicitly closes ལེའུ་སྟེ་དང་པོའོ. Chapter 1 therefore ends on PDF page 104, physical row 2, at the colophon-terminal separator; the historical page locator is independently supported."
+      },
+      "coordinator_scope": "Native104 overview and both unscaled source columns at the closing/incipit, plus PDF102–103 overviews for prior context. Raw report, source-member and attachment hashes checked. Independent informed model reading, not blind or human certification."
+    }
+  },
+  {
+    "id": "LT-COV1-O104-02",
+    "witness": "Langtang",
+    "units": [
+      "U02635"
+    ],
+    "base_snippet_at_review": "Boundary after U02635; supplied insertion A2000-C01-S09 belongs to the base evidence.",
+    "comparison_reading": "Colophon-terminal V → blank interval → T3 → blank interval → separate next-leading V → དེ་ནས.",
+    "status": "localized_graphic_observation",
+    "confidence": "{\"arrangement\": \"high\", \"triangle_count\": \"high\", \"separator_fine_structure\": \"medium\", \"cross_witness_equivalence\": \"unestablished\"}",
+    "locator": "PDF 104; source-member and native bounds in linked packet; bounds: [1430, 210, 2190, 315]",
+    "rationale": "The conspicuous intervening material is three downward triangular marks. No separate compact lexical inscription is positively identified in this local interval. The following leading separator is retained separately; neither it nor T3 is silently converted into the base's punctuation or inscription. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain governing Adzom unchanged; record only this Langtang boundary observation and exact unresolved component.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-LANGTANG/B01-BOUNDARY-P0102-0106/p104-native.jpg",
+      "evidence/chapter-01/continuation/C1-LANGTANG/B01-BOUNDARY-P0102-0106/p104-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-LANGTANG/B01-BOUNDARY-P0102-0106/p104-x0900-y0000.png",
+      "reviews/chapter-01/continuation/C1-LANGTANG-B01-BOUNDARY-P0102-0106-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-LANGTANG.md",
+    "continuation_provenance": {
+      "batch_id": "B01-BOUNDARY-P0102-0106",
+      "baseline_commit": "0a6c911c973d39427c415c8cac26998b597597d6",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-LANGTANG-B01-BOUNDARY-P0102-0106-reader-reading.txt",
+        "sha256": "81ddc6a3e7f52497172029eb3160b3e394de348459001a3acbff47f7c68f4ec1"
+      },
+      "observation": {
+        "id": "O104-02",
+        "pdf_page": 104,
+        "anchors": [
+          "U02635"
+        ],
+        "source_span": "Colophon-terminal V → blank interval → T3 → blank interval → separate next-leading V → དེ་ནས.",
+        "base_span": "Boundary after U02635; supplied insertion A2000-C01-S09 belongs to the base evidence.",
+        "category": "boundary_interval_graphics",
+        "neighboring_context": "Between དང་པོའོ and དེ་ནས in row 2.",
+        "approximate_native_bounds": [
+          1430,
+          210,
+          2190,
+          315
+        ],
+        "confidence": {
+          "arrangement": "high",
+          "triangle_count": "high",
+          "separator_fine_structure": "medium",
+          "cross_witness_equivalence": "unestablished"
+        },
+        "rationale": "The conspicuous intervening material is three downward triangular marks. No separate compact lexical inscription is positively identified in this local interval. The following leading separator is retained separately; neither it nor T3 is silently converted into the base's punctuation or inscription."
+      },
+      "coordinator_scope": "Native104 overview and both unscaled source columns at the closing/incipit, plus PDF102–103 overviews for prior context. Raw report, source-member and attachment hashes checked. Independent informed model reading, not blind or human certification."
+    }
   }
 ]

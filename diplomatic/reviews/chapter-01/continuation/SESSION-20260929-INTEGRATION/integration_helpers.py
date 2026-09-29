@@ -58,7 +58,7 @@ def verify_report(repo, plan):
 def integrate_page(repo, plan, coordinator, canonical_ids=()):
     """Integrate one inspected page with explicit limits, not a completion claim."""
     assert coordinator.get('summary') and coordinator.get('next_step')
-    target_pages = list(plan.get('target_pages', [plan['target_page']]))
+    target_pages = list(plan['target_pages']) if 'target_pages' in plan else [plan['target_page']]
     assert 1 <= len(target_pages) <= 5 and len(set(target_pages)) == len(target_pages)
     assert 'observation_dispositions' in coordinator
     raw, verified = verify_report(repo, plan)

@@ -10595,15 +10595,15 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u02633"></a>
 
-**U02633** ཆོས་ཉིད་དབྱིངས་ལས་དབྱེར་མེད་པའོ། ། [TK-010](#tk-010)
+**U02633** ཆོས་ཉིད་དབྱིངས་ལས་དབྱེར་མེད་པའོ། ། [TK-010](#tk-010) [LT-COV1-O104-01](#lt-cov1-o104-01)
 
 <a id="u02634"></a>
 
-**U02634** ཞེས་སྒྲ་ཐལ་འགྱུར་ཆེན་པོ་ཆོས་རྣམས་ཀུན་གྱི་རྩ་བ་ལས།
+**U02634** ཞེས་སྒྲ་ཐལ་འགྱུར་ཆེན་པོ་ཆོས་རྣམས་ཀུན་གྱི་རྩ་བ་ལས། [LT-COV1-O104-01](#lt-cov1-o104-01)
 
 <a id="u02635"></a>
 
-**U02635** སྣ་ཚོགས་བཀོད་པ་རང་བྱུང་མན་ངག་གི་རྩ་་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་དང་པོའོ།། [A2000-C01-S09](#a2000-c01-s09) [L1-0183](#l1-0183) [TS-CH1-B001](#ts-ch1-b001) [DZ-LATE-29](#dz-late-29) [TH-CONT-20260927-CHAPTER-END](#th-cont-20260927-chapter-end)
+**U02635** སྣ་ཚོགས་བཀོད་པ་རང་བྱུང་མན་ངག་གི་རྩ་་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་དང་པོའོ།། [A2000-C01-S09](#a2000-c01-s09) [L1-0183](#l1-0183) [TS-CH1-B001](#ts-ch1-b001) [DZ-LATE-29](#dz-late-29) [TH-CONT-20260927-CHAPTER-END](#th-cont-20260927-chapter-end) [LT-COV1-O104-01](#lt-cov1-o104-01) [LT-COV1-O104-02](#lt-cov1-o104-02)
 
 **Scan-only inscription — unread — [A2000-C01-S09](#a2000-c01-s09)**
 
@@ -22366,6 +22366,46 @@ Units: [U00538](#u00538).
 **Choice and reason:** Retain the governing Adzom reading. Record the localized Degé source-layer, graphic or unread component with exact evidence; uncertain letters do not establish agreement or omission.
 
 **Evidence:** [p011-native.jpg](evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p011-native.jpg), [p011-x0000-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p011-x0000-y0000.png), [p011-x1496-y0000.png](evidence/chapter-01/continuation/C1-DEGE/B07-P0009-0011/p011-x1496-y0000.png), [C1-DEGE-B07-P0009-0011-reader-reading.txt](reviews/chapter-01/continuation/C1-DEGE-B07-P0009-0011-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-DEGE.md).
+
+<a id="lt-cov1-o104-01"></a>
+
+### LT-COV1-O104-01 — Langtang
+
+Units: [U02633](#u02633), [U02634](#u02634), [U02635](#u02635).
+
+**Current Adzom main context:** ཆོས་ཉིད་དབྱིངས་ལས་དབྱེར་མེད་པའོ། ། / ཞེས་སྒྲ་ཐལ་འགྱུར་ཆེན་པོ་ཆོས་རྣམས་ཀུན་གྱི་རྩ་བ་ལས། / སྣ་ཚོགས་བཀོད་པ་རང་བྱུང་མན་ངག་གི་རྩ་་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་དང་པོའོ།།
+
+**Comparison reading/snippet:** {"colophon": "Quoted across rows 1–2, beginning ཞེས་སྒྲ་ཐལ་འགྱུར and ending ལེའུ་སྟེ་དང་པོའོ.", "unresolved_component": "Q01"}
+
+**Status:** boundary_located_colophon_locally_unresolved. **Confidence:** {"chapter_identification": "high", "physical_endpoint": "high", "colophon_reading": "high outside Q01; unresolved at Q01", "alignment": "high"}.
+
+**Locator:** PDF 104; source-member and native bounds in linked packet; bounds: [[1340, 105, 2680, 215], [245, 210, 1505, 315]].
+
+**Observation:** The source itself names the work and explicitly closes ལེའུ་སྟེ་དང་པོའོ. Chapter 1 therefore ends on PDF page 104, physical row 2, at the colophon-terminal separator; the historical page locator is independently supported. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged; record only this Langtang boundary observation and exact unresolved component.
+
+**Evidence:** [p104-native.jpg](evidence/chapter-01/continuation/C1-LANGTANG/B01-BOUNDARY-P0102-0106/p104-native.jpg), [p104-x0000-y0000.png](evidence/chapter-01/continuation/C1-LANGTANG/B01-BOUNDARY-P0102-0106/p104-x0000-y0000.png), [p104-x0900-y0000.png](evidence/chapter-01/continuation/C1-LANGTANG/B01-BOUNDARY-P0102-0106/p104-x0900-y0000.png), [C1-LANGTANG-B01-BOUNDARY-P0102-0106-reader-reading.txt](reviews/chapter-01/continuation/C1-LANGTANG-B01-BOUNDARY-P0102-0106-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-LANGTANG.md).
+
+<a id="lt-cov1-o104-02"></a>
+
+### LT-COV1-O104-02 — Langtang
+
+Units: [U02635](#u02635).
+
+**Current Adzom main context:** སྣ་ཚོགས་བཀོད་པ་རང་བྱུང་མན་ངག་གི་རྩ་་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་དང་པོའོ།།
+
+**Comparison reading/snippet:** Colophon-terminal V → blank interval → T3 → blank interval → separate next-leading V → དེ་ནས.
+
+**Status:** localized_graphic_observation. **Confidence:** {"arrangement": "high", "triangle_count": "high", "separator_fine_structure": "medium", "cross_witness_equivalence": "unestablished"}.
+
+**Locator:** PDF 104; source-member and native bounds in linked packet; bounds: [1430, 210, 2190, 315].
+
+**Observation:** The conspicuous intervening material is three downward triangular marks. No separate compact lexical inscription is positively identified in this local interval. The following leading separator is retained separately; neither it nor T3 is silently converted into the base's punctuation or inscription. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged; record only this Langtang boundary observation and exact unresolved component.
+
+**Evidence:** [p104-native.jpg](evidence/chapter-01/continuation/C1-LANGTANG/B01-BOUNDARY-P0102-0106/p104-native.jpg), [p104-x0000-y0000.png](evidence/chapter-01/continuation/C1-LANGTANG/B01-BOUNDARY-P0102-0106/p104-x0000-y0000.png), [p104-x0900-y0000.png](evidence/chapter-01/continuation/C1-LANGTANG/B01-BOUNDARY-P0102-0106/p104-x0900-y0000.png), [C1-LANGTANG-B01-BOUNDARY-P0102-0106-reader-reading.txt](reviews/chapter-01/continuation/C1-LANGTANG-B01-BOUNDARY-P0102-0106-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-LANGTANG.md).
 
 ## A/B/S transcript apparatus
 
