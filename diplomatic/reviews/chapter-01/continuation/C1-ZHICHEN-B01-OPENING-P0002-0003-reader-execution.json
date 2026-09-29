@@ -1,0 +1,184 @@
+{
+  "status": "running_not_accepted",
+  "specification": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-spec.json",
+  "request_sha256": "d09637c6b47c21e89cf49d2211be972bd9be20c88de07d36d2ac93bc8f887a98",
+  "images": [
+    {
+      "pdf_page": 2,
+      "bdrc_image": 32,
+      "source_member": "0032.jpg",
+      "source_member_sha256": "d8268060a474e100b88eb0101ae5f8e724e7bca67713302df19c01826e98353d",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p002-native.jpg",
+      "sha256": "d8268060a474e100b88eb0101ae5f8e724e7bca67713302df19c01826e98353d",
+      "dimensions": [
+        2509,
+        436
+      ]
+    },
+    {
+      "pdf_page": 3,
+      "bdrc_image": 33,
+      "source_member": "0033.jpg",
+      "source_member_sha256": "6e75fdc14e89a900df932e268434631cbf06642147c12059cf166f6978e2091b",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-native.jpg",
+      "sha256": "6e75fdc14e89a900df932e268434631cbf06642147c12059cf166f6978e2091b",
+      "dimensions": [
+        2504,
+        417
+      ]
+    },
+    {
+      "pdf_page": 1,
+      "bdrc_image": 31,
+      "source_member": "0031.jpg",
+      "source_member_sha256": "488b8ee19c0eca7048bf23ee9e1cac957de861a655a20f512e6c3aa9aeb23cda",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p001-native.jpg",
+      "sha256": "488b8ee19c0eca7048bf23ee9e1cac957de861a655a20f512e6c3aa9aeb23cda",
+      "dimensions": [
+        2512,
+        438
+      ]
+    },
+    {
+      "pdf_page": 4,
+      "bdrc_image": 34,
+      "source_member": "0034.jpg",
+      "source_member_sha256": "ef5bd25d758418576fa75a1aeaf09f398fd1d0901ed59a2482924b64aeb9010c",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p004-native.jpg",
+      "sha256": "ef5bd25d758418576fa75a1aeaf09f398fd1d0901ed59a2482924b64aeb9010c",
+      "dimensions": [
+        2503,
+        415
+      ]
+    },
+    {
+      "pdf_page": 2,
+      "bdrc_image": 32,
+      "source_member": "0032.jpg",
+      "source_member_sha256": "d8268060a474e100b88eb0101ae5f8e724e7bca67713302df19c01826e98353d",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p002-x0000-y0000.png",
+      "sha256": "83df162cb152ebf3db10bd931d5572648c76c9f38add80df389075c3106573c5",
+      "native_bounds": [
+        0,
+        0,
+        2000,
+        436
+      ],
+      "dimensions": [
+        2000,
+        436
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 2,
+      "bdrc_image": 32,
+      "source_member": "0032.jpg",
+      "source_member_sha256": "d8268060a474e100b88eb0101ae5f8e724e7bca67713302df19c01826e98353d",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p002-x0509-y0000.png",
+      "sha256": "3be810c30b489033afcdf1008aada28aa5c350dfc7b6287a476ae42c043e177b",
+      "native_bounds": [
+        509,
+        0,
+        2509,
+        436
+      ],
+      "dimensions": [
+        2000,
+        436
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 3,
+      "bdrc_image": 33,
+      "source_member": "0033.jpg",
+      "source_member_sha256": "6e75fdc14e89a900df932e268434631cbf06642147c12059cf166f6978e2091b",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0000-y0000.png",
+      "sha256": "e5d1fd46f0c50de8ec93ed54f61c246d27e112ce10bd044f4a96fc1eecb13b88",
+      "native_bounds": [
+        0,
+        0,
+        2000,
+        417
+      ],
+      "dimensions": [
+        2000,
+        417
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 3,
+      "bdrc_image": 33,
+      "source_member": "0033.jpg",
+      "source_member_sha256": "6e75fdc14e89a900df932e268434631cbf06642147c12059cf166f6978e2091b",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0504-y0000.png",
+      "sha256": "dd60d568e8b558d866f666ddafb7890acab7d54a0dd56e35c59fe903027b49fc",
+      "native_bounds": [
+        504,
+        0,
+        2504,
+        417
+      ],
+      "dimensions": [
+        2000,
+        417
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 1,
+      "bdrc_image": 31,
+      "source_member": "0031.jpg",
+      "source_member_sha256": "488b8ee19c0eca7048bf23ee9e1cac957de861a655a20f512e6c3aa9aeb23cda",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p001-x0512-y0000.png",
+      "sha256": "9f33b4e8872b607300b74ebb99d190349b3c1dba91013c0efdcd49bacda3d1ea",
+      "native_bounds": [
+        512,
+        0,
+        2512,
+        438
+      ],
+      "dimensions": [
+        2000,
+        438
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 4,
+      "bdrc_image": 34,
+      "source_member": "0034.jpg",
+      "source_member_sha256": "ef5bd25d758418576fa75a1aeaf09f398fd1d0901ed59a2482924b64aeb9010c",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p004-x0000-y0000.png",
+      "sha256": "45f3f5121e7be3493da67f2254f5ede7cbf36e35fa47258d2ed35e371c3fc653",
+      "native_bounds": [
+        0,
+        0,
+        2000,
+        415
+      ],
+      "dimensions": [
+        2000,
+        415
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    }
+  ],
+  "started_at": "2026-09-29T15:06:58.855305+00:00",
+  "source_pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "sandbox": "read-only",
+  "editorial_decisions_made_by_wrapper": false
+}

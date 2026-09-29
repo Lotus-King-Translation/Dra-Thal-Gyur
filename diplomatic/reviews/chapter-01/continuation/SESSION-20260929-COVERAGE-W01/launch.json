@@ -1,0 +1,445 @@
+{
+  "source_packet_commit": "aeaf7ff0a62c002ab3ecf22c45cdfa145a2f29ef",
+  "started_at": "2026-09-29T15:06:58.772085+00:00",
+  "readers": [
+    {
+      "plan": {
+        "task": "C1-BASE-PHYSICAL",
+        "batch": "B13-P0014-0016",
+        "edition": "adzom-2000",
+        "target_pages": [
+          14,
+          15,
+          16
+        ],
+        "pages": [
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "lo": 270,
+        "hi": 385,
+        "scope": "Adzom PDF14–16 full physical signs, main-versus-small source layers, marginal text, frames and row-end fillers. Preserve the existing main lexical pass; record any actual new conflict rather than silently replacing it. Entry PDF14 U00277. Flanks are context only.",
+        "kind": "continuous",
+        "manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B13-P0014-0016/manifest.json",
+        "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B13-P0014-0016-reader",
+        "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B13-P0014-0016-reader-spec.json"
+      },
+      "pid": 49508,
+      "log": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-COVERAGE-W01/C1-BASE-PHYSICAL-B13-P0014-0016-capture.log",
+      "command": [
+        "python3",
+        "diplomatic/tools/reading_batch.py",
+        "--repo",
+        ".",
+        "capture",
+        "--specification",
+        "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B13-P0014-0016-reader-spec.json"
+      ]
+    },
+    {
+      "plan": {
+        "task": "C1-BASE-UNCERTAINTIES",
+        "batch": "B04-TITLE-P0001-0002",
+        "edition": "adzom-2000",
+        "target_pages": [
+          1,
+          2
+        ],
+        "pages": [
+          1,
+          2,
+          3
+        ],
+        "lo": 1,
+        "hi": 25,
+        "scope": "Complete the physical title and illustrated-opening inventory on PDF1–2: every title/language-label line, foreign-script run, main row, source heading, caption, ornament and boundary. Do not fill damaged or foreign letters from a conventional Sanskrit title. Name and bound unresolved glyph groups; inherited partial reports are not a full title transcription. PDF3 is only outgoing context.",
+        "kind": "opening",
+        "manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B04-TITLE-P0001-0002/manifest.json",
+        "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B04-TITLE-P0001-0002-reader",
+        "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B04-TITLE-P0001-0002-reader-spec.json"
+      },
+      "pid": 49509,
+      "log": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-COVERAGE-W01/C1-BASE-UNCERTAINTIES-B04-TITLE-P0001-0002-capture.log",
+      "command": [
+        "python3",
+        "diplomatic/tools/reading_batch.py",
+        "--repo",
+        ".",
+        "capture",
+        "--specification",
+        "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B04-TITLE-P0001-0002-reader-spec.json"
+      ]
+    },
+    {
+      "plan": {
+        "task": "C1-TINGKYE",
+        "batch": "B10-P0014-0016",
+        "edition": "tingkye-1973",
+        "target_pages": [
+          14,
+          15,
+          16
+        ],
+        "pages": [
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "lo": 450,
+        "hi": 615,
+        "scope": "Continuous Tingkye PDF14–16, entry U00464. All target rows and non-main material, source order and signs; previous PDF11–13 already integrated. Do not repeat earlier work except the immediate joins.",
+        "kind": "continuous",
+        "manifest": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B10-P0014-0016/manifest.json",
+        "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader",
+        "specification": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-spec.json"
+      },
+      "pid": 49510,
+      "log": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-COVERAGE-W01/C1-TINGKYE-B10-P0014-0016-capture.log",
+      "command": [
+        "python3",
+        "diplomatic/tools/reading_batch.py",
+        "--repo",
+        ".",
+        "capture",
+        "--specification",
+        "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-spec.json"
+      ]
+    },
+    {
+      "plan": {
+        "task": "C1-TSAMDRAK",
+        "batch": "B10-P0024-0026",
+        "edition": "tsamdrak-1982",
+        "target_pages": [
+          24,
+          25,
+          26
+        ],
+        "pages": [
+          23,
+          24,
+          25,
+          26,
+          27
+        ],
+        "lo": 670,
+        "hi": 825,
+        "scope": "Continuous Tsamdrak PDF24–26, entry U00682. All target rows and non-main material. Exact suffix/stack uncertainty and isolated numeral-like signs must remain explicit.",
+        "kind": "continuous",
+        "manifest": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B10-P0024-0026/manifest.json",
+        "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader",
+        "specification": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-spec.json"
+      },
+      "pid": 49511,
+      "log": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-COVERAGE-W01/C1-TSAMDRAK-B10-P0024-0026-capture.log",
+      "command": [
+        "python3",
+        "diplomatic/tools/reading_batch.py",
+        "--repo",
+        ".",
+        "capture",
+        "--specification",
+        "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-spec.json"
+      ]
+    },
+    {
+      "plan": {
+        "task": "C1-DEGE",
+        "batch": "B08-P0012-0014",
+        "edition": "dege-W1ER7",
+        "target_pages": [
+          12,
+          13,
+          14
+        ],
+        "pages": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "lo": 525,
+        "hi": 730,
+        "scope": "Continuous Degé PDF12–14. Entry is U00539 continuation following PDF11 ending འདི་ནས་འཇིག. Inspect faint main text, physically interleaved notes, margins and signs; readable later rows must not be abandoned because one span is faint.",
+        "kind": "continuous",
+        "manifest": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B08-P0012-0014/manifest.json",
+        "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader",
+        "specification": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-spec.json"
+      },
+      "pid": 49512,
+      "log": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-COVERAGE-W01/C1-DEGE-B08-P0012-0014-capture.log",
+      "command": [
+        "python3",
+        "diplomatic/tools/reading_batch.py",
+        "--repo",
+        ".",
+        "capture",
+        "--specification",
+        "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B08-P0012-0014-reader-spec.json"
+      ]
+    },
+    {
+      "plan": {
+        "task": "C1-THARPALING",
+        "batch": "B01-P0004-0006",
+        "edition": "tharpaling-1983",
+        "target_pages": [
+          4,
+          5,
+          6
+        ],
+        "pages": [
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "lo": 50,
+        "hi": 255,
+        "scope": "First missing continuous Tharpaling PDF4–6 ledger. Establish actual entry/exit from source words, not page proportions. Existing PDF1–3 attempt and later44–71 fragments remain preserved. Main text, small notes, signs, faint/ink-fused components and every actual unread span require separate accounting.",
+        "kind": "continuous",
+        "manifest": "diplomatic/evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/manifest.json",
+        "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader",
+        "specification": "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-spec.json"
+      },
+      "pid": 49513,
+      "log": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-COVERAGE-W01/C1-THARPALING-B01-P0004-0006-capture.log",
+      "command": [
+        "python3",
+        "diplomatic/tools/reading_batch.py",
+        "--repo",
+        ".",
+        "capture",
+        "--specification",
+        "diplomatic/reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-spec.json"
+      ]
+    },
+    {
+      "plan": {
+        "task": "C1-GADKAR",
+        "batch": "B01-OPENING-P0002-0003",
+        "edition": "gadkar-manuscript",
+        "target_pages": [
+          2,
+          3
+        ],
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "lo": 1,
+        "hi": 65,
+        "scope": "Bounded opening reading-capability and comparison test, Gadkar PDF2–3. Previous work located U00005–U00035 but did not certify suffixes/stacks. Read actual rows, including U00019 rig pa(s), all source layers, foreign title, headings and signs. Do not classify sharp cursive as globally illegible; state precisely what you can and cannot read.",
+        "kind": "opening_test",
+        "manifest": "diplomatic/evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/manifest.json",
+        "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader",
+        "specification": "diplomatic/reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader-spec.json"
+      },
+      "pid": 49514,
+      "log": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-COVERAGE-W01/C1-GADKAR-B01-OPENING-P0002-0003-capture.log",
+      "command": [
+        "python3",
+        "diplomatic/tools/reading_batch.py",
+        "--repo",
+        ".",
+        "capture",
+        "--specification",
+        "diplomatic/reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader-spec.json"
+      ]
+    },
+    {
+      "plan": {
+        "task": "C1-ZHICHEN",
+        "batch": "B01-OPENING-P0002-0003",
+        "edition": "khams-zhichen-manuscript",
+        "target_pages": [
+          2,
+          3
+        ],
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "lo": 1,
+        "hi": 80,
+        "scope": "Bounded full opening comparison/readability test on Zhichen PDF2–3. Previous locator views did not yield a continuous reading. Preserve black/red writing, additional invocation, red small heading, U00019 suffix question and exact original order; no expected-text completion.",
+        "kind": "opening_test",
+        "manifest": "diplomatic/evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/manifest.json",
+        "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader",
+        "specification": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-spec.json"
+      },
+      "pid": 49515,
+      "log": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-COVERAGE-W01/C1-ZHICHEN-B01-OPENING-P0002-0003-capture.log",
+      "command": [
+        "python3",
+        "diplomatic/tools/reading_batch.py",
+        "--repo",
+        ".",
+        "capture",
+        "--specification",
+        "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-spec.json"
+      ]
+    },
+    {
+      "plan": {
+        "task": "C1-ZHICHEN",
+        "batch": "B02-BOUNDARY-P0102-0106",
+        "edition": "khams-zhichen-manuscript",
+        "target_pages": [
+          102,
+          103,
+          104,
+          105,
+          106
+        ],
+        "pages": [
+          102,
+          103,
+          104,
+          105,
+          106
+        ],
+        "lo": 2500,
+        "hi": 2635,
+        "scope": "CHAPTER-BOUNDARY SEARCH ONLY. These are candidate locator pages, not an established chapter boundary. Inspect every page for actual chapter-one closing formula and minimal following incipit; give short actual source locator phrases and exact row/bounds, without transcribing or collating Chapter2. Distinguish no colophon seen from inability to read it. Do not infer an endpoint from proportions or the supplied closing reference.",
+        "kind": "boundary_search",
+        "manifest": "diplomatic/evidence/chapter-01/continuation/C1-ZHICHEN/B02-BOUNDARY-P0102-0106/manifest.json",
+        "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B02-BOUNDARY-P0102-0106-reader",
+        "specification": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B02-BOUNDARY-P0102-0106-reader-spec.json"
+      },
+      "pid": 49516,
+      "log": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-COVERAGE-W01/C1-ZHICHEN-B02-BOUNDARY-P0102-0106-capture.log",
+      "command": [
+        "python3",
+        "diplomatic/tools/reading_batch.py",
+        "--repo",
+        ".",
+        "capture",
+        "--specification",
+        "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B02-BOUNDARY-P0102-0106-reader-spec.json"
+      ]
+    },
+    {
+      "plan": {
+        "task": "C1-W1ER119",
+        "batch": "B01-OPENING-P0002-0003",
+        "edition": "seventeen-tantras-W1ER119",
+        "target_pages": [
+          2,
+          3
+        ],
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "lo": 1,
+        "hi": 130,
+        "scope": "Bounded opening comparison/readability test, W1ER119 PDF2–3. Earlier17 inspection records established neither reliable text nor endpoint. Read directly in the supplied original orientation; do not invent mirror/rotation history, genealogy, missing verses or expected wording. Bound unread headless clusters exactly and continue later rows.",
+        "kind": "opening_test",
+        "manifest": "diplomatic/evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/manifest.json",
+        "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader",
+        "specification": "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-spec.json"
+      },
+      "pid": 49517,
+      "log": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-COVERAGE-W01/C1-W1ER119-B01-OPENING-P0002-0003-capture.log",
+      "command": [
+        "python3",
+        "diplomatic/tools/reading_batch.py",
+        "--repo",
+        ".",
+        "capture",
+        "--specification",
+        "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-spec.json"
+      ]
+    },
+    {
+      "plan": {
+        "task": "C1-LANGTANG",
+        "batch": "B01-BOUNDARY-P0102-0106",
+        "edition": "langtang-manuscript",
+        "target_pages": [
+          102,
+          103,
+          104,
+          105,
+          106
+        ],
+        "pages": [
+          102,
+          103,
+          104,
+          105,
+          106
+        ],
+        "lo": 2500,
+        "hi": 2635,
+        "scope": "CHAPTER-BOUNDARY SEARCH ONLY. Historical PDF104 endpoint is only a locator. Inspect these five pages to establish or reject the actual Chapter1 closing and minimal following incipit; quote short source locators with row/bounds, not a Chapter2 transcription. Do not infer provider index or missing leaves from PDF numbering.",
+        "kind": "boundary_search",
+        "manifest": "diplomatic/evidence/chapter-01/continuation/C1-LANGTANG/B01-BOUNDARY-P0102-0106/manifest.json",
+        "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-LANGTANG-B01-BOUNDARY-P0102-0106-reader",
+        "specification": "diplomatic/reviews/chapter-01/continuation/C1-LANGTANG-B01-BOUNDARY-P0102-0106-reader-spec.json"
+      },
+      "pid": 49518,
+      "log": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-COVERAGE-W01/C1-LANGTANG-B01-BOUNDARY-P0102-0106-capture.log",
+      "command": [
+        "python3",
+        "diplomatic/tools/reading_batch.py",
+        "--repo",
+        ".",
+        "capture",
+        "--specification",
+        "diplomatic/reviews/chapter-01/continuation/C1-LANGTANG-B01-BOUNDARY-P0102-0106-reader-spec.json"
+      ]
+    },
+    {
+      "plan": {
+        "task": "C1-DZONGSAR",
+        "batch": "B02-PHYSICAL-P0001-0003",
+        "edition": "dzongsar-manuscript",
+        "target_pages": [
+          1,
+          2,
+          3
+        ],
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "lo": 1,
+        "hi": 70,
+        "scope": "Dzongsar opening physical completion: PDF1–3 title/illustrated opening, foreign script, source headings/notes, every row and boundary, non-main regions. Preserve the existing continuous main lexical pass, without recertifying it wholesale. Three later local rechecks are already integrated and must not be repeated.",
+        "kind": "physical",
+        "manifest": "diplomatic/evidence/chapter-01/continuation/C1-DZONGSAR/B02-PHYSICAL-P0001-0003/manifest.json",
+        "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader",
+        "specification": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-spec.json"
+      },
+      "pid": 49519,
+      "log": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-COVERAGE-W01/C1-DZONGSAR-B02-PHYSICAL-P0001-0003-capture.log",
+      "command": [
+        "python3",
+        "diplomatic/tools/reading_batch.py",
+        "--repo",
+        ".",
+        "capture",
+        "--specification",
+        "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-spec.json"
+      ]
+    }
+  ],
+  "no_canonical_adoption": true
+}
