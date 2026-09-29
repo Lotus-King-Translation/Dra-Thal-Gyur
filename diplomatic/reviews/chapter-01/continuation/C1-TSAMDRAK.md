@@ -116,3 +116,15 @@ PDF14 all seven rows followed from incoming U00350 to U00383, with source additi
 Next: PDF15 row1, expected following U00383 but exact source correspondence must be established; preserve PDF14 bounded questions.
 
 This completed bounded inspection does not certify unexamined portions of the chapter. Unresolved glyphs are not agreement, missing text, or source unavailability.
+
+## B03-P0015 — preserved review integrated
+
+Tsamdrak PDF15: seven source rows U00384-U00418 integrated, with thirteen local differences/source-layer observations or bounded glyph questions. The Adzom heading U00394 is not attested at its local junction; this is not a missing main verse.
+
+[Unchanged raw report](C1-TSAMDRAK-B03-P0015-reader-reading.txt) · [Exact source and rows](C1-TSAMDRAK.json).
+
+The small N01 mark between U00400 and U00401 is recorded without inventing a number or function. Medium-confidence endings and all open components stay qualified. Physical row wraps and boundary graphs remain separate from electronic verse order.
+
+**Remaining:** Integrate saved PDF16/B04-P0016. Retain PDF15 questions Q01-Q09, including the small numeral-like mark and tiny row-end separators.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.

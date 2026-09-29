@@ -1895,6 +1895,185 @@
       ],
       "next_physical_span": "Integrate the saved PDF6/B04-P0006 report, preserving the PDF5 Q01-Q08 and M01 details. The continuous page traversal now reaches the PDF5 exit within U00162, not beyond it.",
       "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-TSAMDRAK",
+      "batch_id": "B03-P0015",
+      "target_page": 15,
+      "report": "reviews/chapter-01/continuation/C1-TSAMDRAK.json",
+      "summary": "Tsamdrak PDF15: seven source rows U00384-U00418 integrated, with thirteen local differences/source-layer observations or bounded glyph questions. The Adzom heading U00394 is not attested at its local junction; this is not a missing main verse.",
+      "rows_reported": 7,
+      "canonical_record_ids": [
+        "TS-CONT2-B03-O02",
+        "TS-CONT2-B03-O03",
+        "TS-CONT2-B03-O04",
+        "TS-CONT2-B03-O05",
+        "TS-CONT2-B03-O06",
+        "TS-CONT2-B03-O07",
+        "TS-CONT2-B03-O08",
+        "TS-CONT2-B03-O09",
+        "TS-CONT2-B03-O10",
+        "TS-CONT2-B03-O11",
+        "TS-CONT2-B03-O12",
+        "TS-CONT2-B03-O13",
+        "TS-CONT2-B03-O14"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "target_physical_rows_inspected": 7,
+        "unexamined_target_spans": [],
+        "main_text_alignment": "U00384 through U00418, excluding U00394 as a locally unattested base heading rather than a missing main verse.",
+        "unaligned_components": [
+          "N01",
+          "M01",
+          "F01",
+          "F02",
+          "F03"
+        ],
+        "result": "All target rows followed left to right. Six lexical questions, one small-mark identity, one boundary-component question and terminal-tsheg questions remain explicitly bounded after inspection.",
+        "punctuation_status": "Physical configurations inventoried provisionally; exhaustive glyph-level punctuation certification is not claimed.",
+        "review_type": "Informed independent reading of supplied images with the base reference available; not blind review or human palaeographic certification.",
+        "scope_limit": "One target page only; no whole-chapter certification."
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q01",
+          "anchor": "U00390",
+          "row": "R02",
+          "approximate_native_bounds": [
+            1900,
+            315,
+            2005,
+            409
+          ],
+          "bounded_scope": "Final syllable after གྱུར.",
+          "visible_reading": "ན is the leading reading; presence or absence of final ས is unresolved.",
+          "candidates": [
+            "ན",
+            "ནས"
+          ]
+        },
+        {
+          "id": "Q02",
+          "anchor": "U00391",
+          "row": "R02",
+          "approximate_native_bounds": [
+            2380,
+            310,
+            2550,
+            431
+          ],
+          "bounded_scope": "The stack-bearing syllable between སོ་སོའི and པ.",
+          "visible_reading": "སྒྲུབ core is recognizable; an initial བ is not securely distinguished.",
+          "candidates": [
+            "སྒྲུབ",
+            "བསྒྲུབ"
+          ]
+        },
+        {
+          "id": "Q03",
+          "anchor": "U00392",
+          "row": "R02",
+          "approximate_native_bounds": [
+            3020,
+            325,
+            3200,
+            440
+          ],
+          "bounded_scope": "One syllable between པའི and དོན.",
+          "visible_reading": "གནས is the leading reading; final ས versus ད remains unresolved.",
+          "candidates": [
+            "གནས",
+            "གནད"
+          ]
+        },
+        {
+          "id": "Q04",
+          "anchor": "U00400",
+          "row": "R04",
+          "approximate_native_bounds": [
+            1320,
+            450,
+            1510,
+            590
+          ],
+          "bounded_scope": "Final stacked syllable after ལྟར.",
+          "visible_reading": "A སྐྱལ-like core is visible; possible prefixed བ and the vowel detail are not securely resolved.",
+          "candidates": [],
+          "restriction": "Do not restore the base's སྐྱེལ automatically."
+        },
+        {
+          "id": "Q05",
+          "anchor": "U00401",
+          "row": "R04",
+          "approximate_native_bounds": [
+            2040,
+            465,
+            2240,
+            607
+          ],
+          "bounded_scope": "The short sequence after བརྗོད and before ལྟ་བུ.",
+          "visible_reading": "པའི is the leading compact reading; whether the trace instead separates into པ་འདི is unresolved.",
+          "candidates": [
+            "པའི",
+            "པ་འདི"
+          ]
+        },
+        {
+          "id": "Q06",
+          "anchor": "U00418",
+          "row": "R07",
+          "approximate_native_bounds": [
+            3410,
+            775,
+            3550,
+            900
+          ],
+          "bounded_scope": "The syllable immediately after ཕུད.",
+          "visible_reading": "བྱེད is the leading reading; initial བ versus ཕ remains unresolved.",
+          "candidates": [
+            "བྱེད",
+            "ཕྱེད"
+          ]
+        },
+        {
+          "id": "Q07",
+          "ref": "N01",
+          "bounded_scope": "Identity of the single small numeral-like mark; no securely read numeral supplied."
+        },
+        {
+          "id": "Q08",
+          "ref": "S05",
+          "bounded_scope": "Ownership of the short terminal-area stroke following མིན, within the inventoried CS1 configuration."
+        },
+        {
+          "id": "Q09",
+          "anchors": [
+            "U00388",
+            "U00393",
+            "U00399",
+            "U00404",
+            "U00409",
+            "U00414"
+          ],
+          "bounded_scope": "Tiny terminal tsheg traces at the six incomplete right-edge row endings.",
+          "visible_reading": "No terminal shad is identified at these wraps. Presence or absence of every terminal tsheg is not securely established; no extra tshegs have been inserted there."
+        }
+      ],
+      "unexamined_spans": [
+        {
+          "outside_target": true,
+          "pdf_page": 14,
+          "scope": "Main text other than the final U00383 boundary passage; not collated in this batch."
+        },
+        {
+          "outside_target": true,
+          "pdf_page": 16,
+          "scope": "Main text after the opening U00419 boundary passage; not collated in this batch."
+        }
+      ],
+      "next_physical_span": "Integrate saved PDF16/B04-P0016. Retain PDF15 questions Q01-Q09, including the small numeral-like mark and tiny row-end separators.",
+      "reader_claims_require_coordinator_dispositions": true
     }
   ]
 }

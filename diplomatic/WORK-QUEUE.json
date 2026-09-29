@@ -4,7 +4,7 @@
   "canonical_branch": "main",
   "current_chapter": 1,
   "chapter_status": "in_progress_not_ready",
-  "next_task_id": "C1-TSAMDRAK",
+  "next_task_id": "C1-DEGE",
   "path_base": "repository root; JSON pointers identify records without changing their historical contents",
   "scope": "Continuation queue, not a whole-chapter collation claim. Thirty punctuation candidate identities remain tracked, including completed dispositions; unfinished items are hypotheses, not accepted readings. Existing Adzom and Dzongsar main lexical passes remain valid within their recorded scopes.",
   "reference_paths": [
@@ -725,14 +725,15 @@
       "checkpoint_commit": "b3b10d56c395bc0896463c5e66e2974e35db1df1",
       "blocker": null,
       "dependency_policy": "preferred_order",
-      "current_batch_id": "B03-P0015",
+      "current_batch_id": "B04-P0016",
       "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate.",
       "current_batch_result": "Target test distinguishes U30 thos; U12 vowel remains unresolved and U148 rtog reading is qualified. Continue new comparison at PDF14 without repeating opening passes.",
       "prior_owner_at_reassignment": "reader-tsamdrak-B01-20260928",
       "reassignment_note": "Previous reader finished and was published at b3b10d5; its report remains unchanged. No orphan reader or unpublished inherited work was found.",
       "next_physical_span": "PDF15 row1, expected following U00383 but exact source correspondence must be established; preserve PDF14 bounded questions.",
       "current_wave_id": "CONTINUE2-W03",
-      "bounded_parallel_policy": "Each reader owns one target page and at most three source pages including context; coordinator alone publishes and no unfinished page is inferred complete from a neighbor."
+      "bounded_parallel_policy": "Each reader owns one target page and at most three source pages including context; coordinator alone publishes and no unfinished page is inferred complete from a neighbor.",
+      "next_step": "Integrate saved PDF16/B04-P0016. Retain PDF15 questions Q01-Q09, including the small numeral-like mark and tiny row-end separators."
     },
     {
       "id": "C1-THARPALING",
