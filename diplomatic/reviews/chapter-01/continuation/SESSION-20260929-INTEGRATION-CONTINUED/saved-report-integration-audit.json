@@ -1,6 +1,278 @@
 {
-  "batches": [],
-  "qualification": "Status inspected as well as integration metadata; a report integration is not a source-completion certificate.",
-  "all_source_strings_unchanged": true,
+  "batches": [
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B03-P0004",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B04-P0005",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B05-P0006",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B06-P0007",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-BASE-UNCERTAINTIES",
+      "batch": "B03-P0102-S09",
+      "status": "target_review_integrated_unresolved",
+      "integration_keys": [
+        "coordinator_review"
+      ]
+    },
+    {
+      "task": "C1-TINGKYE",
+      "batch": "B03-P0005",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-TSAMDRAK",
+      "batch": "B03-P0015",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-DEGE",
+      "batch": "B01-P0003",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B07-P0008",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B08-P0009",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B09-P0010",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B10-P0011",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B11-P0012",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B12-P0013",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-TINGKYE",
+      "batch": "B04-P0006",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-TINGKYE",
+      "batch": "B05-P0007",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-TINGKYE",
+      "batch": "B06-P0008",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-TINGKYE",
+      "batch": "B07-P0009",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-TINGKYE",
+      "batch": "B08-P0010",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-TSAMDRAK",
+      "batch": "B04-P0016",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-TSAMDRAK",
+      "batch": "B05-P0017",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-TSAMDRAK",
+      "batch": "B06-P0018",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-TSAMDRAK",
+      "batch": "B07-P0019",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-TSAMDRAK",
+      "batch": "B08-P0020",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-DEGE",
+      "batch": "B02-P0004",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-DEGE",
+      "batch": "B03-P0005",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-DEGE",
+      "batch": "B04-P0006",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-DEGE",
+      "batch": "B05-P0007",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-DEGE",
+      "batch": "B06-P0008",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-TINGKYE",
+      "batch": "B09-P0011-0013",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-TSAMDRAK",
+      "batch": "B09-P0021-0023",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-DEGE",
+      "batch": "B07-P0009-0011",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    },
+    {
+      "task": "C1-DZONGSAR",
+      "batch": "B01-U00440-U00534-U00710",
+      "status": "review_integrated_with_bounded_uncertainties",
+      "integration_keys": [
+        "integration_20260929"
+      ]
+    }
+  ],
+  "count": 33,
+  "previous_empty_draft": {
+    "batches": [],
+    "qualification": "Status inspected as well as integration metadata; a report integration is not a source-completion certificate.",
+    "all_source_strings_unchanged": true,
+    "chapter_complete": false
+  },
+  "previous_empty_draft_disposition": "The list-building REPL command had a syntax error; its empty list was not evidence of an audit. This corrected list is derived from all three plan files and actual current task batches.",
+  "qualification": "Integrated reports are not equivalent to completed source coverage.",
   "chapter_complete": false
 }

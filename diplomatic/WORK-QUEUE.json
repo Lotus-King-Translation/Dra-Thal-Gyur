@@ -427,7 +427,7 @@
       "id": "C1-BASE-UNCERTAINTIES",
       "kind": "base_uncertainties",
       "status": "in_progress",
-      "owner": "ChatGPT-coordinator-20260929-integration",
+      "owner": "bounded-source-reader-COVERAGE-W01",
       "depends_on": [
         "C1-BASE-LAYERS"
       ],
@@ -463,7 +463,7 @@
       "checkpoint_commit": "b3b10d56c395bc0896463c5e66e2974e35db1df1",
       "blocker": null,
       "dependency_policy": "preferred_order",
-      "current_batch_id": "B03-P0102-S09",
+      "current_batch_id": "B04-TITLE-P0001-0002",
       "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate.",
       "current_batch_result": "U01522 component inventory extended without an adopted reading; next independent source question PDF101 U02615/U02620, while U01522 stays explicitly unresolved.",
       "prior_owner_at_reassignment": "reader-base-uncertainties-B01-20260928",
@@ -471,13 +471,24 @@
       "next_physical_span": "PDF102 S09 boundary inscription, then title/portrait scopes; preserve the unresolved PDF60/PDF101 findings without endlessly repeating identical evidence.",
       "current_wave_id": "CONTINUE2-W02",
       "bounded_parallel_policy": "Each reader owns one target page and at most three source pages including context; coordinator alone publishes and no unfinished page is inferred complete from a neighbor.",
-      "next_step": "Title and portrait scope on Adzom PDF1-2. Retain S09, U02635 dot count and marginal uncertainty."
+      "next_step": "Title and portrait scope on Adzom PDF1-2. Retain S09, U02635 dot count and marginal uncertainty.",
+      "current_claims": [
+        {
+          "batch_id": "B04-TITLE-P0001-0002",
+          "target_pages": [
+            1,
+            2
+          ],
+          "scope": "Complete the physical title and illustrated-opening inventory on PDF1–2: every title/language-label line, foreign-script run, main row, source heading, caption, ornament and boundary. Do not fill damaged or foreign letters from a conventional Sanskrit title. Name and bound unresolved glyph groups; inherited partial reports are not a full title transcription. PDF3 is only outgoing context.",
+          "status": "planned_not_read"
+        }
+      ]
     },
     {
       "id": "C1-BASE-PHYSICAL",
       "kind": "base_signs_and_layers",
       "status": "in_progress",
-      "owner": "ChatGPT-coordinator-20260929-continued",
+      "owner": "bounded-source-reader-COVERAGE-W01",
       "depends_on": [
         "C1-BASE-UNCERTAINTIES"
       ],
@@ -610,7 +621,7 @@
           "canonical_uncertainty_note": "SIGNS-VERIFIED-20260928-U01557"
         }
       ],
-      "current_batch_id": null,
+      "current_batch_id": "B13-P0014-0016",
       "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate.",
       "current_batch_result": "Partial PDF1-5 physical ledger:13 specific boundary assessments, no newly completed full pages. Complete missing boundaries in one-page sub-batches.",
       "prior_owner_at_reassignment": "reader-base-physical-B01-20260928",
@@ -644,13 +655,25 @@
           "U00197"
         ],
         "disposition": "Explicit pending candidates; report integration does not change the reading text."
-      }
+      },
+      "current_claims": [
+        {
+          "batch_id": "B13-P0014-0016",
+          "target_pages": [
+            14,
+            15,
+            16
+          ],
+          "scope": "Adzom PDF14–16 full physical signs, main-versus-small source layers, marginal text, frames and row-end fillers. Preserve the existing main lexical pass; record any actual new conflict rather than silently replacing it. Entry PDF14 U00277. Flanks are context only.",
+          "status": "planned_not_read"
+        }
+      ]
     },
     {
       "id": "C1-DZONGSAR",
       "kind": "witness_coverage",
       "status": "in_progress",
-      "owner": "ChatGPT-coordinator-20260929-integration",
+      "owner": "bounded-source-reader-COVERAGE-W01",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -678,16 +701,28 @@
       "checkpoint_commit": null,
       "blocker": null,
       "dependency_policy": "preferred_order",
-      "current_batch_id": null,
+      "current_batch_id": "B02-PHYSICAL-P0001-0003",
       "bounded_parallel_policy": "One distinct bounded task per reader; no more than five source pages including flanks. Only the coordinator publishes after readers pause; no automatic adoption.",
       "last_integrated_batch_id": "B01-U00440-U00534-U00710",
-      "next_step": "Finish the remaining Dzongsar physical signs, annotation, title and foreign-script scopes in bounded source-page batches. Retain Q22-L, Q27-R, Q35-L and Q35-R instead of repeating these same crops without new evidence."
+      "next_step": "Finish the remaining Dzongsar physical signs, annotation, title and foreign-script scopes in bounded source-page batches. Retain Q22-L, Q27-R, Q35-L and Q35-R instead of repeating these same crops without new evidence.",
+      "current_claims": [
+        {
+          "batch_id": "B02-PHYSICAL-P0001-0003",
+          "target_pages": [
+            1,
+            2,
+            3
+          ],
+          "scope": "Dzongsar opening physical completion: PDF1–3 title/illustrated opening, foreign script, source headings/notes, every row and boundary, non-main regions. Preserve the existing continuous main lexical pass, without recertifying it wholesale. Three later local rechecks are already integrated and must not be repeated.",
+          "status": "planned_not_read"
+        }
+      ]
     },
     {
       "id": "C1-TINGKYE",
       "kind": "witness_coverage",
       "status": "in_progress",
-      "owner": "ChatGPT-coordinator-20260929-integration",
+      "owner": "bounded-source-reader-COVERAGE-W01",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -717,7 +752,7 @@
       "checkpoint_commit": "b3b10d56c395bc0896463c5e66e2974e35db1df1",
       "blocker": null,
       "dependency_policy": "preferred_order",
-      "current_batch_id": null,
+      "current_batch_id": "B10-P0014-0016",
       "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate.",
       "current_batch_result": "Partial continuous comparison through PDF4 row3, with an isolated PDF6 junction; next is PDF4 row4 U00106 continuation, not PDF8.",
       "prior_owner_at_reassignment": "reader-tingkye-B01-20260928",
@@ -726,13 +761,25 @@
       "current_wave_id": "CONTINUE2-W03",
       "bounded_parallel_policy": "One distinct bounded task per reader; no more than five source pages including flanks. Only the coordinator publishes after readers pause; no automatic adoption.",
       "next_step": "Continue genuinely missing Tingkye PDF14 row1 at U00464 གནས་དང་འབྱེད་དང་གནས་བཅུད་ཡུལ. Retain all Q11/Q12/Q13 questions and marginal labels.",
-      "last_integrated_batch_id": "B09-P0011-0013"
+      "last_integrated_batch_id": "B09-P0011-0013",
+      "current_claims": [
+        {
+          "batch_id": "B10-P0014-0016",
+          "target_pages": [
+            14,
+            15,
+            16
+          ],
+          "scope": "Continuous Tingkye PDF14–16, entry U00464. All target rows and non-main material, source order and signs; previous PDF11–13 already integrated. Do not repeat earlier work except the immediate joins.",
+          "status": "planned_not_read"
+        }
+      ]
     },
     {
       "id": "C1-TSAMDRAK",
       "kind": "witness_coverage",
       "status": "in_progress",
-      "owner": "ChatGPT-coordinator-20260929-integration",
+      "owner": "bounded-source-reader-COVERAGE-W01",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -759,7 +806,7 @@
       "checkpoint_commit": "b3b10d56c395bc0896463c5e66e2974e35db1df1",
       "blocker": null,
       "dependency_policy": "preferred_order",
-      "current_batch_id": null,
+      "current_batch_id": "B10-P0024-0026",
       "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate.",
       "current_batch_result": "Target test distinguishes U30 thos; U12 vowel remains unresolved and U148 rtog reading is qualified. Continue new comparison at PDF14 without repeating opening passes.",
       "prior_owner_at_reassignment": "reader-tsamdrak-B01-20260928",
@@ -768,13 +815,25 @@
       "current_wave_id": "CONTINUE2-W03",
       "bounded_parallel_policy": "One distinct bounded task per reader; no more than five source pages including flanks. Only the coordinator publishes after readers pause; no automatic adoption.",
       "next_step": "Continue Tsamdrak PDF24 row1, U00682: གནད་འདུས་བཀོད་པ་སེམས་ཀྱི་རྟེན. Preserve Q01–Q16 and the component inventories of PDF21–23.",
-      "last_integrated_batch_id": "B09-P0021-0023"
+      "last_integrated_batch_id": "B09-P0021-0023",
+      "current_claims": [
+        {
+          "batch_id": "B10-P0024-0026",
+          "target_pages": [
+            24,
+            25,
+            26
+          ],
+          "scope": "Continuous Tsamdrak PDF24–26, entry U00682. All target rows and non-main material. Exact suffix/stack uncertainty and isolated numeral-like signs must remain explicit.",
+          "status": "planned_not_read"
+        }
+      ]
     },
     {
       "id": "C1-THARPALING",
       "kind": "witness_coverage",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "bounded-source-reader-COVERAGE-W01",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -800,13 +859,26 @@
       "report_paths": [],
       "checkpoint_commit": null,
       "blocker": null,
-      "dependency_policy": "preferred_order"
+      "dependency_policy": "preferred_order",
+      "current_claims": [
+        {
+          "batch_id": "B01-P0004-0006",
+          "target_pages": [
+            4,
+            5,
+            6
+          ],
+          "scope": "First missing continuous Tharpaling PDF4–6 ledger. Establish actual entry/exit from source words, not page proportions. Existing PDF1–3 attempt and later44–71 fragments remain preserved. Main text, small notes, signs, faint/ink-fused components and every actual unread span require separate accounting.",
+          "status": "planned_not_read"
+        }
+      ],
+      "current_batch_id": "B01-P0004-0006"
     },
     {
       "id": "C1-DEGE",
       "kind": "witness_coverage",
       "status": "in_progress",
-      "owner": "ChatGPT-coordinator-20260929-integration",
+      "owner": "bounded-source-reader-COVERAGE-W01",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -834,16 +906,28 @@
       "blocker": null,
       "dependency_policy": "preferred_order",
       "current_wave_id": "CONTINUE2-W03",
-      "current_batch_id": null,
+      "current_batch_id": "B08-P0012-0014",
       "bounded_parallel_policy": "One distinct bounded task per reader; no more than five source pages including flanks. Only the coordinator publishes after readers pause; no automatic adoption.",
       "next_step": "Continue Degé PDF12 row1 at U00539 continuation རྟེན་བྱང་ཤར་མཚམས, following PDF11 འདི་ནས་འཇིག. Keep all Q9/Q10/Q11, filler and graphic limits visible.",
-      "last_integrated_batch_id": "B07-P0009-0011"
+      "last_integrated_batch_id": "B07-P0009-0011",
+      "current_claims": [
+        {
+          "batch_id": "B08-P0012-0014",
+          "target_pages": [
+            12,
+            13,
+            14
+          ],
+          "scope": "Continuous Degé PDF12–14. Entry is U00539 continuation following PDF11 ending འདི་ནས་འཇིག. Inspect faint main text, physically interleaved notes, margins and signs; readable later rows must not be abandoned because one span is faint.",
+          "status": "planned_not_read"
+        }
+      ]
     },
     {
       "id": "C1-GADKAR",
       "kind": "witness_coverage",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "bounded-source-reader-COVERAGE-W01",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -865,13 +949,25 @@
       "report_paths": [],
       "checkpoint_commit": null,
       "blocker": null,
-      "dependency_policy": "preferred_order"
+      "dependency_policy": "preferred_order",
+      "current_claims": [
+        {
+          "batch_id": "B01-OPENING-P0002-0003",
+          "target_pages": [
+            2,
+            3
+          ],
+          "scope": "Bounded opening reading-capability and comparison test, Gadkar PDF2–3. Previous work located U00005–U00035 but did not certify suffixes/stacks. Read actual rows, including U00019 rig pa(s), all source layers, foreign title, headings and signs. Do not classify sharp cursive as globally illegible; state precisely what you can and cannot read.",
+          "status": "planned_not_read"
+        }
+      ],
+      "current_batch_id": "B01-OPENING-P0002-0003"
     },
     {
       "id": "C1-ZHICHEN",
       "kind": "witness_coverage",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "bounded-source-reader-COVERAGE-W01",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -893,13 +989,37 @@
       "report_paths": [],
       "checkpoint_commit": null,
       "blocker": null,
-      "dependency_policy": "preferred_order"
+      "dependency_policy": "preferred_order",
+      "current_claims": [
+        {
+          "batch_id": "B01-OPENING-P0002-0003",
+          "target_pages": [
+            2,
+            3
+          ],
+          "scope": "Bounded full opening comparison/readability test on Zhichen PDF2–3. Previous locator views did not yield a continuous reading. Preserve black/red writing, additional invocation, red small heading, U00019 suffix question and exact original order; no expected-text completion.",
+          "status": "planned_not_read"
+        },
+        {
+          "batch_id": "B02-BOUNDARY-P0102-0106",
+          "target_pages": [
+            102,
+            103,
+            104,
+            105,
+            106
+          ],
+          "scope": "CHAPTER-BOUNDARY SEARCH ONLY. These are candidate locator pages, not an established chapter boundary. Inspect every page for actual chapter-one closing formula and minimal following incipit; give short actual source locator phrases and exact row/bounds, without transcribing or collating Chapter2. Distinguish no colophon seen from inability to read it. Do not infer an endpoint from proportions or the supplied closing reference.",
+          "status": "planned_not_read"
+        }
+      ],
+      "current_batch_id": "B01-OPENING-P0002-0003"
     },
     {
       "id": "C1-W1ER119",
       "kind": "witness_coverage",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "bounded-source-reader-COVERAGE-W01",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -922,13 +1042,25 @@
       "report_paths": [],
       "checkpoint_commit": null,
       "blocker": null,
-      "dependency_policy": "preferred_order"
+      "dependency_policy": "preferred_order",
+      "current_claims": [
+        {
+          "batch_id": "B01-OPENING-P0002-0003",
+          "target_pages": [
+            2,
+            3
+          ],
+          "scope": "Bounded opening comparison/readability test, W1ER119 PDF2–3. Earlier17 inspection records established neither reliable text nor endpoint. Read directly in the supplied original orientation; do not invent mirror/rotation history, genealogy, missing verses or expected wording. Bound unread headless clusters exactly and continue later rows.",
+          "status": "planned_not_read"
+        }
+      ],
+      "current_batch_id": "B01-OPENING-P0002-0003"
     },
     {
       "id": "C1-LANGTANG",
       "kind": "witness_coverage",
-      "status": "pending",
-      "owner": null,
+      "status": "in_progress",
+      "owner": "bounded-source-reader-COVERAGE-W01",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -952,7 +1084,22 @@
       "report_paths": [],
       "checkpoint_commit": null,
       "blocker": null,
-      "dependency_policy": "preferred_order"
+      "dependency_policy": "preferred_order",
+      "current_claims": [
+        {
+          "batch_id": "B01-BOUNDARY-P0102-0106",
+          "target_pages": [
+            102,
+            103,
+            104,
+            105,
+            106
+          ],
+          "scope": "CHAPTER-BOUNDARY SEARCH ONLY. Historical PDF104 endpoint is only a locator. Inspect these five pages to establish or reject the actual Chapter1 closing and minimal following incipit; quote short source locators with row/bounds, not a Chapter2 transcription. Do not infer provider index or missing leaves from PDF numbering.",
+          "status": "planned_not_read"
+        }
+      ],
+      "current_batch_id": "B01-BOUNDARY-P0102-0106"
     },
     {
       "id": "C1-ADZOM1973",
