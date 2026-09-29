@@ -1,0 +1,38 @@
+{
+  "status": "reviewed_decisions_preserved_execution_and_publication_unverified",
+  "task_id": "C1-TINGKYE",
+  "batch_id": "B10-P0014-0016",
+  "last_verified_main": "90de8464328fbffac9f67f38ae4bf3df53f7644f",
+  "interrupted_process": 64431,
+  "execution_limit": "The integration, validation and checkpoint request timed out without a device response. It may or may not have executed. Inspect the live checkout and batch integration marker before retrying; do not run it twice.",
+  "selected_observations": ["O14-03","O14-04","O14-05","O14-06","O14-07","O14-08","O14-09","O14-10","O14-11","O14-12","O14-13","O14-14","O14-15","O15-02","O15-03","O15-04","O15-05","O15-06","O15-07","O15-08","O15-09","O15-10","O15-11","O15-12","O15-13","O15-14","O15-15","O15-16","O15-17","O15-18","O16-02","O16-04","O16-05","O16-06","O16-07","O16-08","O16-09","O16-10","O16-11"],
+  "bounded_uncertainty": ["O14-04","O14-07","O14-10","O14-12","O14-14","O14-15","O15-04","O15-10","O15-14","O15-15","O16-04","O16-08","O16-11"],
+  "localized_observation": ["O14-03","O14-05","O14-13","O15-02","O15-03","O15-05","O15-06","O15-11","O15-12","O15-17","O16-02","O16-05","O16-09","O16-10"],
+  "other_selected_status": "provisional_visual_observation",
+  "planned_new_records": 39,
+  "record_prefix": "TK-COV1-B10",
+  "witness": "Tingkye",
+  "duplicate_check": "No existing Tingkye apparatus record overlapped the selected anchors in the last successfully completed read of the current 493-record apparatus.",
+  "base_disposition": "Retain the governing Adzom reading unchanged. Preserve the comparison witness as observed, without grammatical repair, global absence or historical inference.",
+  "default_selected_disposition": "Integrate a scoped comparison observation with its original confidence; governing Adzom unchanged.",
+  "uncertain_disposition": "Integrate the bounded unresolved component, not an accepted reading, omission or agreement.",
+  "unselected_disposition": "Retain physical correspondence, graphic inventory or marginal uncertainty in the source-ordered report; not a new apparatus variant or extra coverage beyond this target.",
+  "special_dispositions": {
+    "O14-13": "Integrate only local absence of the reply-heading words between observed main flanks. Unread margins preclude global absence; not a missing main verse.",
+    "O15-02": "Record the directly read twelve against base thirteen; do not reconcile arithmetic or change Adzom.",
+    "O15-09": "Record written segmentation across a physical row break; not a missing syllable or source gap.",
+    "O15-16": "Record only the local main-layer start rab-tu and locally unobserved smaller note; no global absence or historical cause.",
+    "O16-03": "Retain source spras correspondence to the corrected base in the row ledger; no duplicate variant against the already corrected base.",
+    "O16-10": "Record the source word order yi-ge then ri-mo, not a reordered base text."
+  },
+  "bounds_expansion": "For a selected observation whose approximate_native_bounds is a question_ref, copy that exact question's native_bounds from the unchanged raw question ledger into its apparatus metadata. No Tibetan or question text is changed.",
+  "coordinator": {
+    "summary": "Tingkye PDF14–16 reviewed: twenty-one source-ordered rows and thirty-nine selected localized or provisional comparison observations; all twenty bounded questions remain traceable. Integration/publication is not yet verified.",
+    "detail": "Every raw observation has a disposition. General graphic inventories and margins stay in the physical ledger; no compound mark is normalized to Adzom punctuation. The source twelve/thirteen numeral difference and yi-ge/ri-mo order are retained as witness observations, while the spras correspondence is not counted as another variant against the corrected base.",
+    "coordinator_scope": "Viewed all three native overviews and their left and overlapping middle/right columns. Checked source order, local numeral and lexical differences against the preserved report; original medium confidence and all Q-coded component uncertainties remain unchanged.",
+    "next_step": "After verifying this integration, integrate the already launched B11/PDF17–19 packet after capture, beginning U00575 completion དྲུག་པ་ན. Retain Q14-01 through Q16-M3, including all marginal labels; this does not certify unexamined pages."
+  },
+  "next_task_id": "C1-TSAMDRAK",
+  "running_reader_preservation": "Six W02 readers were launched in isolated process groups from process64431. The last successful status check showed Adzom1973 exited0 and the other five still running. Their completed or partial output state must be inspected and preserved before synchronization. launch.json records their PIDs and specifications. The last verified checkpoint includes only the output bytes present at that earlier snapshot, not unobserved later results.",
+  "chapter_complete": false
+}
