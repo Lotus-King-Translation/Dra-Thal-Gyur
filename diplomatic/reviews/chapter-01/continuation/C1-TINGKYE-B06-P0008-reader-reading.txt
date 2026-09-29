@@ -1,0 +1,570 @@
+{
+  "task_id": "C1-TINGKYE",
+  "batch_id": "B06-P0008",
+  "images_actually_inspected": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27],
+  "source_location": {
+    "witness": "TINGKYE",
+    "pdf_page": 8,
+    "bdrc_image": 401,
+    "source_member": "0401.png",
+    "printed_page": "393",
+    "native_dimensions": [4350, 1100],
+    "manifest_identifiers_independently_verified": false,
+    "target_overview_inspected_before_crops": true,
+    "method": "Direct visual inspection of supplied attachments. Crops, bands and rotated edge were treated as views of one witness."
+  },
+  "target_scope": {
+    "physical_rows": 7,
+    "observed_alignment": "U00236 continuation through the initial syllable of U00273",
+    "included": ["main text", "compound terminal signs", "opening ornament and detached signs", "small raised text", "pagination", "marginal inscriptions", "frames"],
+    "adjacent_pages": "Boundary context only.",
+    "legend": {
+      "Q-markers": "Editorial unresolved readings; not source characters. Tibetan candidates inside question records are provisional.",
+      "P236–P272": "Individually inventoried occurrences of TK-C1, indexed by the associated reference anchor.",
+      "TK-C1": "Compact vertical compound terminal cluster, with upper oblique or curled strokes and a lower small rounded element. Stroke-level identity is not fully resolved; this code does not normalize the cluster to one or two shads.",
+      "O1": "Opening paired curl ornament with lower sweeping strokes.",
+      "P00": "TK-C1-like cluster immediately following O1; inventoried separately from main-text terminals.",
+      "I01": "Detached vertically arranged dark marks immediately before the first lexical fragment; function unresolved.",
+      "A1": "Small raised source text beside the final word of row 5; preserved separately from the main baseline."
+    },
+    "bounds_convention": "Approximate native-pixel envelopes. Adjacent envelopes can overlap because vowels and descending limbs cross between rows."
+  },
+  "rows": [
+    {
+      "row": 1,
+      "approximate_native_bounds": [580, 255, 3745, 350],
+      "observed_sequence": "⟦O1⟧⟦P00⟧ ⟦I01⟧ མ་བསྟེན་པའི་ཐབས་གང་ལགས⟦P236⟧ ཕྱི་རོལ་འབྱུང་རྟགས་གང་གིས་འཛིན⟦P237⟧ དུས་དང་བསྟན་པའི་བབས་སོ་ཅི⟦P238⟧ དབང་བསྐུར་བ་ཡི་ཆོ་ག་གང⟦P239⟧ དམ་ཚིག་སྡོམ་པ་ཅི་ལྟ་བུ⟦P240⟧",
+      "ordered_anchor_fragments": [
+        {"anchor": "U00236", "fragment": "མ་བསྟེན་པའི་ཐབས་གང་ལགས", "part": "continuation from preceding page"},
+        {"anchor": "U00237", "fragment": "ཕྱི་རོལ་འབྱུང་རྟགས་གང་གིས་འཛིན"},
+        {"anchor": "U00238", "fragment": "དུས་དང་བསྟན་པའི་བབས་སོ་ཅི"},
+        {"anchor": "U00239", "fragment": "དབང་བསྐུར་བ་ཡི་ཆོ་ག་གང"},
+        {"anchor": "U00240", "fragment": "དམ་ཚིག་སྡོམ་པ་ཅི་ལྟ་བུ"}
+      ],
+      "signs": [
+        {"id": "O1", "code": "O1", "position": "opening, before P00", "bounds": [580, 280, 658, 335]},
+        {"id": "P00", "code": "TK-C1-like", "position": "after O1", "bounds": [663, 278, 696, 335], "assignment": "ornamental opening; not assigned to U00235"},
+        {"id": "I01", "code": "I01", "position": "before མ", "bounds": [908, 277, 937, 340], "assignment": "unresolved opening function"},
+        {"id": "P236", "code": "TK-C1", "after": "ལགས"},
+        {"id": "P237", "code": "TK-C1", "after": "འཛིན"},
+        {"id": "P238", "code": "TK-C1", "after": "ཅི"},
+        {"id": "P239", "code": "TK-C1", "after": "གང"},
+        {"id": "P240", "code": "TK-C1", "after": "བུ"}
+      ],
+      "source_annotations": []
+    },
+    {
+      "row": 2,
+      "approximate_native_bounds": [580, 335, 3745, 445],
+      "observed_sequence": "བརྗོད་བྱ་ཚིག་གིས་བསྟན་པ་ཅི⟦P241⟧ ཚིག་འདས་སྤྲོས་པ་གང་གིས་བཅད⟦P242⟧ མངོན་སུམ་གནད་ལ་ཅི་ལྟར་⟦Q243⟧⟦P243⟧ འཁོར་འདས་རུ་ཤན་གང་གིས་ཕྱེད⟦P244⟧ རླུང་འཛིན་སྤྱོད་པ་རྣམ་པ་དུ⟦P245⟧ སེམས་འཛིན",
+      "ordered_anchor_fragments": [
+        {"anchor": "U00241", "fragment": "བརྗོད་བྱ་ཚིག་གིས་བསྟན་པ་ཅི"},
+        {"anchor": "U00242", "fragment": "ཚིག་འདས་སྤྲོས་པ་གང་གིས་བཅད"},
+        {"anchor": "U00243", "fragment": "མངོན་སུམ་གནད་ལ་ཅི་ལྟར་⟦Q243⟧"},
+        {"anchor": "U00244", "fragment": "འཁོར་འདས་རུ་ཤན་གང་གིས་ཕྱེད"},
+        {"anchor": "U00245", "fragment": "རླུང་འཛིན་སྤྱོད་པ་རྣམ་པ་དུ"},
+        {"anchor": "U00246", "fragment": "སེམས་འཛིན", "part": "begins here; continues in row 3"}
+      ],
+      "signs": [
+        {"id": "P241", "code": "TK-C1", "after": "ཅི"},
+        {"id": "P242", "code": "TK-C1", "after": "བཅད"},
+        {"id": "P243", "code": "TK-C1", "after": "Q243"},
+        {"id": "P244", "code": "TK-C1", "after": "ཕྱེད"},
+        {"id": "P245", "code": "TK-C1", "after": "དུ"}
+      ],
+      "source_annotations": []
+    },
+    {
+      "row": 3,
+      "approximate_native_bounds": [580, 420, 3745, 535],
+      "observed_sequence": "བསླབ་རིམ་གང་ཙམ་ཞིག⟦P246⟧ ཕྱི་ནང་གསང་བའི་འཆི་རྟགས་ཅི⟦P247⟧ ལྟ་བ་མཐའ་ལ་གང་གིས་བསྐྱལ⟦P248⟧ སྒོམ་པའི་སྲོག་ཤིང་གང་དང་གང⟦P249⟧ སྤྱོད་པའི་⟦Q250⟧་བ་ཇི་ལྟ་བུ⟦P250⟧ འབྲས་བུ་ཐོབ་པ་གང",
+      "ordered_anchor_fragments": [
+        {"anchor": "U00246", "fragment": "བསླབ་རིམ་གང་ཙམ་ཞིག", "part": "continuation"},
+        {"anchor": "U00247", "fragment": "ཕྱི་ནང་གསང་བའི་འཆི་རྟགས་ཅི"},
+        {"anchor": "U00248", "fragment": "ལྟ་བ་མཐའ་ལ་གང་གིས་བསྐྱལ"},
+        {"anchor": "U00249", "fragment": "སྒོམ་པའི་སྲོག་ཤིང་གང་དང་གང"},
+        {"anchor": "U00250", "fragment": "སྤྱོད་པའི་⟦Q250⟧་བ་ཇི་ལྟ་བུ"},
+        {"anchor": "U00251", "fragment": "འབྲས་བུ་ཐོབ་པ་གང", "part": "continues in row 4"}
+      ],
+      "signs": [
+        {"id": "P246", "code": "TK-C1", "after": "ཞིག"},
+        {"id": "P247", "code": "TK-C1", "after": "ཅི"},
+        {"id": "P248", "code": "TK-C1", "after": "བསྐྱལ"},
+        {"id": "P249", "code": "TK-C1", "after": "གང"},
+        {"id": "P250", "code": "TK-C1", "after": "བུ"}
+      ],
+      "source_annotations": []
+    },
+    {
+      "row": 4,
+      "approximate_native_bounds": [580, 490, 3745, 615],
+      "observed_sequence": "ཙམ་ཞིག⟦P251⟧ འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡིས་གཅོད⟦P252⟧ བཅུད་ཀྱི་ལེན་པ་ཇི་ལྟ་བུ⟦P253⟧ གོས་ནི་གང་གིས་འགྲུབ་པ་ལགས⟦P254⟧ འབྱུང་བའི་རྒྱུན་ནི་ཅི་ལྟར་བཅད⟦P255⟧ བཞི་པོའི་རོ་རྣམས་ཅི་ཡིས་⟦Q256⟧⟦P256⟧ མཛོད",
+      "ordered_anchor_fragments": [
+        {"anchor": "U00251", "fragment": "ཙམ་ཞིག", "part": "continuation"},
+        {"anchor": "U00252", "fragment": "འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡིས་གཅོད"},
+        {"anchor": "U00253", "fragment": "བཅུད་ཀྱི་ལེན་པ་ཇི་ལྟ་བུ"},
+        {"anchor": "U00254", "fragment": "གོས་ནི་གང་གིས་འགྲུབ་པ་ལགས"},
+        {"anchor": "U00255", "fragment": "འབྱུང་བའི་རྒྱུན་ནི་ཅི་ལྟར་བཅད"},
+        {"anchor": "U00256", "fragment": "བཞི་པོའི་རོ་རྣམས་ཅི་ཡིས་⟦Q256⟧"},
+        {"anchor": "U00257", "fragment": "མཛོད", "part": "continues in row 5"}
+      ],
+      "signs": [
+        {"id": "P251", "code": "TK-C1", "after": "ཞིག"},
+        {"id": "P252", "code": "TK-C1", "after": "གཅོད"},
+        {"id": "P253", "code": "TK-C1", "after": "བུ"},
+        {"id": "P254", "code": "TK-C1", "after": "ལགས"},
+        {"id": "P255", "code": "TK-C1", "after": "བཅད"},
+        {"id": "P256", "code": "TK-C1", "after": "Q256"}
+      ],
+      "source_annotations": []
+    },
+    {
+      "row": 5,
+      "approximate_native_bounds": [580, 575, 3745, 695],
+      "observed_sequence": "ལ་ཡོན་ཏན་ཅི་ལྟར་འབྱུང⟦P257⟧ འཕགས་པའི་རྫུ་འཕྲུལ་ཅི་ཡིས་བསྒྲུབ⟦P258⟧ གཏེར་ལ་ལོངས་སྤྱོད་ཅི་ལྟར་བགྱི⟦P259⟧ གཞི་ལྔ་དབང་དུ་གང་གིས་འདུས⟦P260⟧ འདི་དག་བདག་གིས་སྔར་མ་འཚལ⟦P261⟧ སྣང⟦A1⟧",
+      "ordered_anchor_fragments": [
+        {"anchor": "U00257", "fragment": "ལ་ཡོན་ཏན་ཅི་ལྟར་འབྱུང", "part": "continuation"},
+        {"anchor": "U00258", "fragment": "འཕགས་པའི་རྫུ་འཕྲུལ་ཅི་ཡིས་བསྒྲུབ"},
+        {"anchor": "U00259", "fragment": "གཏེར་ལ་ལོངས་སྤྱོད་ཅི་ལྟར་བགྱི"},
+        {"anchor": "U00260", "fragment": "གཞི་ལྔ་དབང་དུ་གང་གིས་འདུས"},
+        {"anchor": "U00261", "fragment": "འདི་དག་བདག་གིས་སྔར་མ་འཚལ"},
+        {"anchor": "U00262", "fragment": "སྣང", "part": "continues in row 6; small raised component separately recorded"}
+      ],
+      "signs": [
+        {"id": "P257", "code": "TK-C1", "after": "འབྱུང"},
+        {"id": "P258", "code": "TK-C1", "after": "བསྒྲུབ"},
+        {"id": "P259", "code": "TK-C1", "after": "བགྱི"},
+        {"id": "P260", "code": "TK-C1", "after": "འདུས"},
+        {"id": "P261", "code": "TK-C1", "after": "འཚལ"}
+      ],
+      "source_annotations": [
+        {
+          "id": "A1",
+          "position": "Small raised characters immediately to the upper right of སྣང.",
+          "approximate_native_bounds": [3665, 580, 3740, 625],
+          "observed_text": "⟦QA1⟧",
+          "tentative_reading": "བའི",
+          "confidence": {"presence": "high", "reading": "low-to-moderate", "attachment_to_U00262": "moderate"},
+          "treatment": "Not silently incorporated into the main-baseline transcription; purpose and exact lettering remain unresolved."
+        }
+      ]
+    },
+    {
+      "row": 6,
+      "approximate_native_bounds": [580, 655, 3745, 780],
+      "observed_sequence": "བདག་པོས་བདག་ལ་གསུངས⟦P262⟧ བདག་ལ་རིམ་པ་གསལ་ཕྱེ་བས⟦P263⟧ མ་འོངས་པའི་དུས་རྣམས་སུ⟦P264⟧ འདི་ལ་དད་ཅིང་འདུན་པ་ཀུན⟦P265⟧ རྫོགས་ཆེན་འདི་ལ་ཡིད་ཆེས་ནས⟦P266⟧ བྱ་བྲལ་གླེན་⟦Q267⟧་བདེ",
+      "ordered_anchor_fragments": [
+        {"anchor": "U00262", "fragment": "བདག་པོས་བདག་ལ་གསུངས", "part": "continuation"},
+        {"anchor": "U00263", "fragment": "བདག་ལ་རིམ་པ་གསལ་ཕྱེ་བས"},
+        {"anchor": "U00264", "fragment": "མ་འོངས་པའི་དུས་རྣམས་སུ"},
+        {"anchor": "U00265", "fragment": "འདི་ལ་དད་ཅིང་འདུན་པ་ཀུན"},
+        {"anchor": "U00266", "fragment": "རྫོགས་ཆེན་འདི་ལ་ཡིད་ཆེས་ནས"},
+        {"anchor": "U00267", "fragment": "བྱ་བྲལ་གླེན་⟦Q267⟧་བདེ", "part": "continues in row 7"}
+      ],
+      "signs": [
+        {"id": "P262", "code": "TK-C1", "after": "གསུངས"},
+        {"id": "P263", "code": "TK-C1", "after": "བས"},
+        {"id": "P264", "code": "TK-C1", "after": "སུ"},
+        {"id": "P265", "code": "TK-C1", "after": "ཀུན"},
+        {"id": "P266", "code": "TK-C1", "after": "ནས"}
+      ],
+      "source_annotations": []
+    },
+    {
+      "row": 7,
+      "approximate_native_bounds": [580, 735, 3745, 855],
+      "observed_sequence": "ཆེན་རྙེད⟦P267⟧ འཁོར་བའི་ཐ་མ་ཟད་ནས་ནི⟦P268⟧ མྱ་ངན་འདས་པའི་ལམ་སྣ་ཟིན⟦P269⟧ དེ་ཕྱིར་བདག་གིས་ཅི་ཞུས་པ⟦P270⟧ རིམ་པ་གསལ་བར་ཕྱེ་ལ་གསུངས⟦P271⟧ དེ་ནས་ཁྱབ་བདག་སེམས་དཔའ་ནི⟦P272⟧ སྒྲ",
+      "ordered_anchor_fragments": [
+        {"anchor": "U00267", "fragment": "ཆེན་རྙེད", "part": "continuation"},
+        {"anchor": "U00268", "fragment": "འཁོར་བའི་ཐ་མ་ཟད་ནས་ནི"},
+        {"anchor": "U00269", "fragment": "མྱ་ངན་འདས་པའི་ལམ་སྣ་ཟིན"},
+        {"anchor": "U00270", "fragment": "དེ་ཕྱིར་བདག་གིས་ཅི་ཞུས་པ"},
+        {"anchor": "U00271", "fragment": "རིམ་པ་གསལ་བར་ཕྱེ་ལ་གསུངས"},
+        {"anchor": "U00272", "fragment": "དེ་ནས་ཁྱབ་བདག་སེམས་དཔའ་ནི"},
+        {"anchor": "U00273", "fragment": "སྒྲ", "part": "continues on PDF9"}
+      ],
+      "signs": [
+        {"id": "P267", "code": "TK-C1", "after": "རྙེད"},
+        {"id": "P268", "code": "TK-C1", "after": "ནི"},
+        {"id": "P269", "code": "TK-C1", "after": "ཟིན"},
+        {"id": "P270", "code": "TK-C1", "after": "པ"},
+        {"id": "P271", "code": "TK-C1", "after": "གསུངས"},
+        {"id": "P272", "code": "TK-C1", "after": "ནི"}
+      ],
+      "source_annotations": []
+    }
+  ],
+  "non_main_regions": [
+    {
+      "id": "N01",
+      "region": "Upper left pagination compartment",
+      "approximate_native_bounds": [480, 277, 565, 330],
+      "observed_text": "393",
+      "confidence": "high"
+    },
+    {
+      "id": "N02",
+      "region": "Upper vertical marginal inscription",
+      "approximate_native_bounds": [492, 410, 564, 493],
+      "observed_text": "⟦QM1⟧",
+      "tentative_reading": "སྒྲ",
+      "confidence": "low",
+      "note": "Inspected also in attachment 27; not completed from the work's title."
+    },
+    {
+      "id": "N03",
+      "region": "Isolated middle marginal character",
+      "approximate_native_bounds": [495, 525, 565, 575],
+      "observed_text": "པ",
+      "confidence": "moderate",
+      "note": "Its bibliographic function is not inferred."
+    },
+    {
+      "id": "N04",
+      "region": "Lower compact vertical marginal inscription",
+      "approximate_native_bounds": [492, 660, 573, 830],
+      "observed_text": "⟦QM3⟧",
+      "confidence": "unresolved",
+      "note": "Entire bounded inscription inspected, including the rotated view, but not securely transcribed. No folio wording supplied from pagination."
+    },
+    {
+      "id": "N05",
+      "region": "Opening ornament and detached signs",
+      "inventory_references": ["O1", "P00", "I01"],
+      "note": "These are the same occurrences inventoried in row 1, not additional signs."
+    },
+    {
+      "id": "N06",
+      "region": "Frames and paper",
+      "approximate_native_bounds": [425, 210, 3925, 900],
+      "observed_description": "Rectangular frame, left marginal divider and narrow right compartment; uneven or broken lower rule. The rule and letter descenders are not counted as punctuation.",
+      "lower_blank_bands": "Attachments 24–26 show the blank lower paper area; no additional textual row was found."
+    }
+  ],
+  "observations": [
+    {
+      "id": "B06-O01",
+      "anchors": ["U00235", "U00236"],
+      "source_span": "PDF7 row 7: ཤེས་བྱའི་སྤྲོས་པ་གང་གིས་བཅད [compound terminal] བླ | PDF8 row 1: མ་བསྟེན་པའི་ཐབས་གང་ལགས",
+      "base_span": "U00236: བླ་མ་བསྟེན་པའི་ཐབས་གང་ལགས། །",
+      "category": "incoming_page_boundary",
+      "neighboring_context": {"left": "ཤེས་བྱའི་སྤྲོས་པ་གང་གིས་བཅད", "right": "ཕྱི་རོལ་འབྱུང་རྟགས"},
+      "approximate_native_bounds": [{"pdf_page": 7, "bounds": [2970, 735, 3735, 855]}, {"pdf_page": 8, "bounds": [935, 255, 1510, 350]}],
+      "confidence": {"glyphs": "high", "alignment": "high", "boundary": "high"},
+      "rationale": "The preceding page supplies actual བླ, and the target begins with actual མ. Opening marks are retained separately."
+    },
+    {
+      "id": "B06-O02",
+      "anchors": ["U00238"],
+      "source_span": "བབས་སོ",
+      "base_span": "བབ་སོ",
+      "category": "suffix_variant",
+      "neighboring_context": {"left": "དུས་དང་བསྟན་པའི", "right": "སོ་ཅི"},
+      "approximate_native_bounds": [2180, 255, 2760, 350],
+      "confidence": {"glyphs": "moderate", "alignment": "high", "layer": "high"},
+      "rationale": "I read a final ས in the source syllable བབས. This is a provisional local reading."
+    },
+    {
+      "id": "B06-O03",
+      "anchors": ["U00243"],
+      "source_span": "ཅི་ལྟར་⟦Q243⟧",
+      "base_span": "ཅི་ལྟར་བསྒྲེ",
+      "category": "bounded_unresolved_reading",
+      "neighboring_context": {"left": "མངོན་སུམ་གནད་ལ", "right": "⟦P243⟧ འཁོར་འདས"},
+      "approximate_native_bounds": [2140, 340, 2350, 445],
+      "confidence": {"glyphs": "low for final syllable", "alignment": "high", "layer": "high"},
+      "rationale": "The final syllable's stacked body is visible, but I cannot securely resolve its vowel and ending. The reference reading is not inserted."
+    },
+    {
+      "id": "B06-O04",
+      "anchors": ["U00248"],
+      "source_span": "ལྟ་བ་མཐའ་ལ",
+      "base_span": "བལྟ་བ་མཐའ་ལ",
+      "category": "prefix_variant",
+      "neighboring_context": {"left": "འཆི་རྟགས་ཅི⟦P247⟧", "right": "བ་མཐའ་ལ་གང་གིས"},
+      "approximate_native_bounds": [1640, 420, 2210, 535],
+      "confidence": {"glyphs": "moderate", "alignment": "high", "absence_of_prefix": "moderate"},
+      "rationale": "I read the source onset as ལྟ, without a separate preceding བ; both neighboring stretches are visible."
+    },
+    {
+      "id": "B06-O05",
+      "anchors": ["U00249"],
+      "source_span": "སྒོམ་པའི",
+      "base_span": "བསྒོམ་པའི",
+      "category": "prefix_variant",
+      "neighboring_context": {"left": "གང་གིས་བསྐྱལ⟦P248⟧", "right": "པའི་སྲོག་ཤིང"},
+      "approximate_native_bounds": [2205, 420, 2835, 535],
+      "confidence": {"glyphs": "moderate", "alignment": "high", "absence_of_prefix": "moderate"},
+      "rationale": "The initial visible group reads སྒོམ; I do not resolve a separate prefixed བ."
+    },
+    {
+      "id": "B06-O06",
+      "anchors": ["U00250"],
+      "source_span": "སྤྱོད་པའི་⟦Q250⟧་བ་ཇི་ལྟ་བུ",
+      "base_span": "སྤྱོད་པའི་སྦྱོར་བ་ཇི་ལྟ་བུ",
+      "category": "bounded_unresolved_reading",
+      "neighboring_context": {"left": "སྤྱོད་པའི", "right": "བ་ཇི་ལྟ་བུ"},
+      "approximate_native_bounds": [3000, 420, 3190, 530],
+      "confidence": {"glyphs": "low for medial stack", "alignment": "high", "layer": "high"},
+      "rationale": "The medial syllable has a visible stack and upper vowel, but its consonant composition is not securely distinguished. No lexical difference is adopted here."
+    },
+    {
+      "id": "B06-O07",
+      "anchors": ["U00251"],
+      "source_span": "འབྲས་བུ་ཐོབ་པ་གང | ཙམ་ཞིག",
+      "base_span": "འབྲས་བུའི་ཐོབ་ས་གང་ཙམ་ཞིག",
+      "category": "particle_and_lexical_variants",
+      "neighboring_context": {"left": "འབྲས", "right": "ཐོབ་པ་གང; row 4 ཙམ་ཞིག"},
+      "approximate_native_bounds": [[3335, 420, 3745, 535], [580, 490, 805, 615]],
+      "confidence": {"glyphs": "moderate", "alignment": "high", "row_join": "high"},
+      "rationale": "I read བུ rather than བུའི, followed by ཐོབ་པ rather than ཐོབ་ས. The following row supplies the actual continuation."
+    },
+    {
+      "id": "B06-O08",
+      "anchors": ["U00253"],
+      "source_span": "བཅུད་ཀྱི་ལེན་པ",
+      "base_span": "བཅུད་ཀྱིས་ལེན་པ",
+      "category": "suffix_variant",
+      "neighboring_context": {"left": "བཅུད", "right": "ལེན་པ་ཇི་ལྟ་བུ"},
+      "approximate_native_bounds": [1415, 490, 1870, 615],
+      "confidence": {"glyphs": "moderate", "alignment": "high", "absence_of_suffix": "moderate"},
+      "rationale": "My provisional reading is ཀྱི immediately before ལེན, without resolving the reference's final ས."
+    },
+    {
+      "id": "B06-O09",
+      "anchors": ["U00255"],
+      "source_span": "ཅི་ལྟར་བཅད",
+      "base_span": "ཅི་ལྟར་གཅད",
+      "category": "prefix_variant",
+      "neighboring_context": {"left": "འབྱུང་བའི་རྒྱུན་ནི", "right": "⟦P255⟧ བཞི་པོའི"},
+      "approximate_native_bounds": [2490, 490, 3050, 615],
+      "confidence": {"glyphs": "moderate", "alignment": "high", "layer": "high"},
+      "rationale": "The final word provisionally reads བཅད; the prefix is not silently conformed to the reference."
+    },
+    {
+      "id": "B06-O10",
+      "anchors": ["U00256"],
+      "source_span": "བཞི་པོའི་རོ་རྣམས",
+      "base_span": "བཞི་པོ་རོ་རྣམས",
+      "category": "particle_variant",
+      "neighboring_context": {"left": "བཞི", "right": "རོ་རྣམས་ཅི་ཡིས"},
+      "approximate_native_bounds": [3070, 490, 3430, 615],
+      "confidence": {"glyphs": "moderate", "alignment": "high", "layer": "high"},
+      "rationale": "I read an attached འི after པོ. The terminal syllable is a separate unresolved question."
+    },
+    {
+      "id": "B06-O11",
+      "anchors": ["U00256"],
+      "source_span": "ཅི་ཡིས་⟦Q256⟧",
+      "base_span": "ཅི་ཡིས་སྙོམས",
+      "category": "bounded_unresolved_reading",
+      "neighboring_context": {"left": "རོ་རྣམས་ཅི་ཡིས", "right": "⟦P256⟧ མཛོད"},
+      "approximate_native_bounds": [3410, 490, 3620, 615],
+      "confidence": {"glyphs": "low for terminal syllable", "alignment": "high", "layer": "high"},
+      "rationale": "The visible group suggests མཉམས, but I cannot securely establish the stack, vowel and final consonants. Neither that candidate nor སྙོམས is adopted."
+    },
+    {
+      "id": "B06-O12",
+      "anchors": ["U00258"],
+      "source_span": "ཅི་ཡིས་བསྒྲུབ",
+      "base_span": "ཅི་ཡིས་འགྲུབ",
+      "category": "consonant_cluster_variant",
+      "neighboring_context": {"left": "འཕགས་པའི་རྫུ་འཕྲུལ", "right": "⟦P258⟧ གཏེར་ལ"},
+      "approximate_native_bounds": [1055, 575, 1760, 695],
+      "confidence": {"glyphs": "moderate", "alignment": "high", "layer": "high"},
+      "rationale": "I read a prefixed and superscribed cluster བསྒྲུབ, rather than the reference's འགྲུབ."
+    },
+    {
+      "id": "B06-O13",
+      "anchors": ["U00262"],
+      "source_span": "སྣང with raised ⟦QA1⟧",
+      "base_span": "སྣང་བའི",
+      "category": "source_layer_and_bounded_uncertainty",
+      "neighboring_context": {"left": "འཚལ⟦P261⟧ སྣང", "right": "row 6 བདག་པོས"},
+      "approximate_native_bounds": [3610, 575, 3745, 690],
+      "confidence": {"small_text_presence": "high", "small_text_reading": "low-to-moderate", "functional_assignment": "low"},
+      "rationale": "Small raised characters are present; བའི is a tentative reading. Their smaller physical layer must remain visible in the record."
+    },
+    {
+      "id": "B06-O14",
+      "anchors": ["U00262"],
+      "source_span": "བདག་ལ་གསུངས",
+      "base_span": "བདག་ལ་གསུང",
+      "category": "suffix_variant",
+      "neighboring_context": {"left": "བདག་པོས", "right": "⟦P262⟧ བདག་ལ་རིམ་པ"},
+      "approximate_native_bounds": [580, 655, 1070, 780],
+      "confidence": {"glyphs": "moderate", "alignment": "high", "layer": "high"},
+      "rationale": "The terminal word provisionally reads གསུངས with final ས."
+    },
+    {
+      "id": "B06-O15",
+      "anchors": ["U00264"],
+      "source_span": "མ་འོངས་པའི་དུས",
+      "base_span": "མ་འོངས་པ་ཡི་དུས",
+      "category": "particle_form_variant",
+      "neighboring_context": {"left": "མ་འོངས", "right": "དུས་རྣམས་སུ"},
+      "approximate_native_bounds": [1670, 655, 2130, 780],
+      "confidence": {"glyphs": "moderate", "alignment": "high", "segmentation": "moderate"},
+      "rationale": "I read the contracted written form པའི, not a separate པ་ཡི."
+    },
+    {
+      "id": "B06-O16",
+      "anchors": ["U00267"],
+      "source_span": "གླེན་⟦Q267⟧་བདེ",
+      "base_span": "གླེན་པས་བདེ",
+      "category": "bounded_unresolved_reading",
+      "neighboring_context": {"left": "བྱ་བྲལ་གླེན", "right": "བདེ | row 7 ཆེན་རྙེད"},
+      "approximate_native_bounds": [3490, 655, 3745, 780],
+      "confidence": {"glyphs": "low for particle ending", "alignment": "high", "row_join": "high"},
+      "rationale": "The པ-body is visible, but the following marks do not support a secure choice between a bare or extended particle. No missing suffix is asserted."
+    },
+    {
+      "id": "B06-O17",
+      "anchors": ["U00271"],
+      "source_span": "ཕྱེ་ལ་གསུངས",
+      "base_span": "ཕྱེས་ལ་གསུང",
+      "category": "two_suffix_variants",
+      "neighboring_context": {"left": "རིམ་པ་གསལ་བར", "right": "⟦P271⟧ དེ་ནས"},
+      "visible_flanks_for_absence": {"left": "གསལ་བར་ཕྱེ", "right": "ལ་གསུངས"},
+      "approximate_native_bounds": [2380, 735, 3010, 855],
+      "confidence": {"glyphs": "moderate", "alignment": "high", "absence_of_suffix_after_phye": "moderate"},
+      "rationale": "I provisionally read ཕྱེ directly followed by ལ, and a final ས in གསུངས."
+    },
+    {
+      "id": "B06-O18",
+      "anchors": ["U00272", "SCAN-CH1-LAYER-00272"],
+      "source_span": "དེ་ནས་ཁྱབ་བདག་སེམས་དཔའ་ནི",
+      "base_span": {
+        "main_reading": "དེ་ནས་ཁྱབ་བདག་སེམས་དཔའ་ནི",
+        "separate_annotation": "རྒྱུད་ཀྱི་ཆེ་བ་རྣམ་པར་བཀོད་པའི་བཀོད་པ"
+      },
+      "category": "separate_annotation_not_observed_locally",
+      "neighboring_context": {"left": "གསུངས⟦P271⟧ དེ་ནས", "right": "ཁྱབ་བདག་སེམས་དཔའ་ནི⟦P272⟧ སྒྲ"},
+      "approximate_native_bounds": [3010, 725, 3745, 860],
+      "confidence": {"main_glyphs": "high", "alignment": "high", "local_annotation_absence": "high"},
+      "rationale": "The visible main sequence passes directly from དེ་ནས to ཁྱབ་བདག. No corresponding small heading is seen in this bounded area. This is not evidence of a missing main verse."
+    },
+    {
+      "id": "B06-O19",
+      "anchors": ["U00273"],
+      "source_span": "PDF8 row 7: སྒྲ | PDF9 row 1: ཚིག་མིང་དུ་མ་བསྒྲགས་ཀྱང",
+      "base_span": "སྒྲ་ཚིག་མིང་དུ་མ་བསྒྲགས་ཀྱང༌། །",
+      "category": "outgoing_page_boundary",
+      "neighboring_context": {"left": "ཁྱབ་བདག་སེམས་དཔའ་ནི⟦P272⟧", "right": "PDF9 རང་བཞིན"},
+      "approximate_native_bounds": [{"pdf_page": 8, "bounds": [3650, 735, 3745, 855]}, {"pdf_page": 9, "bounds": [590, 250, 1105, 365]}],
+      "confidence": {"glyphs": "high", "alignment": "high", "boundary": "high"},
+      "rationale": "Both sides of the page break are actually visible. The target's final སྒྲ is lexical text, not a terminal ornament."
+    },
+    {
+      "id": "B06-O20",
+      "anchors": ["U00236–U00272"],
+      "source_span": "P236–P272: 37 separately inventoried TK-C1 terminal clusters.",
+      "base_span": "The reference uses ། ། or །། at most corresponding boundaries; U00252 source_tibetan has one ། and its reading_tibetan has ། །.",
+      "category": "punctuation_system",
+      "neighboring_context": "Each occurrence is attached to its visible preceding fragment in the row inventory.",
+      "approximate_native_bounds": [580, 255, 3745, 855],
+      "confidence": {"cluster_presence": "high", "boundary_assignment": "high", "exact_microstroke_composition": "moderate"},
+      "rationale": "The source's compact compound clusters are preserved through a graphic code. No source cluster is expanded into the reference's shad count. P00 and I01 remain separately inventoried."
+    }
+  ],
+  "unread_after_inspection": [
+    {
+      "id": "Q243",
+      "row": 2,
+      "anchor": "U00243",
+      "scope": "One terminal syllable following ཅི་ལྟར and preceding P243.",
+      "approximate_native_bounds": [2140, 340, 2350, 445],
+      "question": "Vowel and ending of the visible stacked syllable remain unresolved.",
+      "inspected_images": [1, 4, 5, 12, 13]
+    },
+    {
+      "id": "Q250",
+      "row": 3,
+      "anchor": "U00250",
+      "scope": "One medial stacked syllable between པའི and བ་ཇི་ལྟ་བུ.",
+      "approximate_native_bounds": [3000, 420, 3190, 530],
+      "question": "Consonant composition of the stack; no reading supplied from སྦྱོར in the reference.",
+      "inspected_images": [1, 5, 6, 13, 14]
+    },
+    {
+      "id": "Q256",
+      "row": 4,
+      "anchor": "U00256",
+      "scope": "One terminal syllable between ཅི་ཡིས and P256.",
+      "approximate_native_bounds": [3410, 490, 3620, 615],
+      "question": "Tentative visual candidate མཉམས; stack, vowel and final consonants are not secure.",
+      "inspected_images": [1, 5, 6, 16, 17]
+    },
+    {
+      "id": "QA1",
+      "row": 5,
+      "anchor": "U00262",
+      "scope": "Small raised component immediately upper-right of སྣང.",
+      "approximate_native_bounds": [3665, 580, 3740, 625],
+      "question": "Tentatively བའི; exact lettering and function remain unresolved.",
+      "inspected_images": [1, 5, 6, 16, 17, 19, 20]
+    },
+    {
+      "id": "Q267",
+      "row": 6,
+      "anchor": "U00267",
+      "scope": "Particle after གླེན and before བདེ.",
+      "approximate_native_bounds": [3490, 655, 3745, 780],
+      "question": "The པ-body is visible; its ending is unresolved.",
+      "inspected_images": [1, 5, 6, 19, 20]
+    },
+    {
+      "id": "QM1",
+      "scope": "Upper marginal inscription only.",
+      "approximate_native_bounds": [492, 410, 564, 493],
+      "question": "Tentative སྒྲ is not secure.",
+      "inspected_images": [1, 4, 27]
+    },
+    {
+      "id": "QM3",
+      "scope": "Entire lower compact marginal inscription within the stated rectangle.",
+      "approximate_native_bounds": [492, 660, 573, 830],
+      "question": "Inspected but not securely transcribed; no completion from an inferred folio number.",
+      "inspected_images": [1, 4, 18, 21, 27]
+    },
+    {
+      "id": "Q-SIGNS",
+      "scope": "Fine stroke composition within TK-C1, P00 and I01; occurrence locations and counts are inventoried.",
+      "question": "Exact component-level graphic equivalence remains unresolved; no normalized shad count is asserted."
+    }
+  ],
+  "unexamined_spans": [
+    {
+      "pdf_page": 7,
+      "scope": "All text other than the final-row incoming boundary passage recorded in B06-O01.",
+      "status": "Overview viewed; these surrounding passages were not diplomatically transcribed or collated.",
+      "within_target_scope": false
+    },
+    {
+      "pdf_page": 9,
+      "scope": "Text beyond the opening continuation of U00273 and its immediately following རང་བཞིན flank.",
+      "status": "Overview viewed; these surrounding passages were not diplomatically transcribed or collated.",
+      "within_target_scope": false
+    }
+  ],
+  "next_physical_span": {
+    "pdf_page": 9,
+    "printed_page": "394",
+    "row": 1,
+    "anchor": "U00273 continuation",
+    "observed_opening": "ཚིག་མིང་དུ་མ་བསྒྲགས་ཀྱང",
+    "status": "Opening used as boundary context only; full PDF9 collation remains to be performed."
+  },
+  "coverage_assessment": {
+    "target_main_rows_inspected_left_to_right": 7,
+    "target_main_rows_unexamined": 0,
+    "target_alignment": "Continuous source order from U00236 continuation to U00273 initial syllable.",
+    "unresolved_main_text_locations": ["Q243", "Q250", "Q256", "Q267"],
+    "unresolved_other_locations": ["QA1", "QM1", "QM3", "Q-SIGNS"],
+    "unaligned_components": ["O1", "P00", "I01", "marginal inscriptions", "pagination", "frames"],
+    "candidate_variants": "Moderate-confidence readings in the observation list remain provisional; they are not palaeographic certification.",
+    "missing_main_verse_claim": false,
+    "review_type": "Informed independent agent reading; not blind review or human palaeographic certification.",
+    "completion_limit": "All seven target rows received inspection, but unresolved glyphs and provisional readings prevent a fully resolved diplomatic transcription. No whole-chapter certification."
+  }
+}

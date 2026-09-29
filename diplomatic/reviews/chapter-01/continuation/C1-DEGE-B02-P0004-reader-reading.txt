@@ -1,0 +1,547 @@
+{
+  "task_id": "C1-DEGE",
+  "batch_id": "B02-P0004",
+  "images_actually_inspected": {
+    "target_overview_first": [1],
+    "target_native_columns": [4, 5],
+    "target_overlapping_bands": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21],
+    "target_rotated_edge": [22],
+    "neighboring_page_boundary_context": [2, 3, 6, 7]
+  },
+  "source_location": {
+    "witness": "DEGE",
+    "pdf_page": 4,
+    "bdrc_image": 650,
+    "source_member": "0650.jpg",
+    "native_dimensions": [3491, 566],
+    "identification_basis": "Supplied packet metadata; no files or hashes independently checked.",
+    "observed_anchor_extent": "U00148, ending fragment, through U00195, opening fragment."
+  },
+  "target_scope": {
+    "physical_rows": 7,
+    "included": "All seven main rows, compact inline writing, boundary signs, frame and margins.",
+    "method": "Direct inspection of the attached color images. Derivative views are repeated views of one page, not independent witnesses.",
+    "reading_status": "Informed independent agent reading with the base reference available; neither blind review nor human palaeographic certification.",
+    "encoding": {
+      "observed_sequence": "Arrays give written runs in physical left-to-right order. Array divisions are editorial. Source annotations are identified separately by sequence index.",
+      "ordered_anchor_fragments": "Each entry gives anchor, zero-based sequence index or indices, and extent.",
+      "signs": "Each entry inventories one boundary region: ID, preceding sequence index, following sequence index, graphic code. These are boundary inventories, not assignments of punctuation to either neighboring verse.",
+      "V2": "Two separated upright delimiter strokes read provisionally as a graphic pair; not normalized to the base's punctuation.",
+      "VC": "Boundary with upright ink and a curved or hooked component whose separation from the neighboring letter remains unresolved.",
+      "VU": "Boundary ink inspected, but the number of independent delimiter strokes remains unresolved.",
+      "Q": "Bracketed Q identifiers are editorial unresolved-glyph markers, not source characters.",
+      "bounds": "Approximate native-pixel rectangles [left, top, right, bottom]; adjacent row envelopes overlap because of letter limbs."
+    }
+  },
+  "rows": [
+    {
+      "row_id": "P004-R1",
+      "approximate_native_bounds": [476, 88, 3020, 163],
+      "observed_sequence": [
+        "ཡན་ལག་དྲུག་ཅུ་གཉིས",
+        "སྤྲོས་མེད་ཡན་ལག་བཞི་བཅུ་གཉིས",
+        "ཁྱད་པར་བསྡུས་པའི་རིགས་གཉིས་ནི",
+        "སྒྲ་དང་ཚིག་གི་གཞི་མའོ",
+        "དེ་ཡི་དགོངས་པ་ཅི་ཞེ་ན",
+        "སོ་སོའི་ལས་ཀྱི་འཕྲུལ་གྱིས་ཀྱང",
+        "བསླབ་བྱའི་རྩ་བ་བཅུ་བཞི་གཉིས",
+        "རི་མོ་རྣམས་ལ"
+      ],
+      "ordered_anchor_fragments": [
+        ["U00148", [0], "ending fragment"],
+        ["U00149", [1], "whole lexical run"],
+        ["U00150", [2], "whole lexical run"],
+        ["U00151", [3], "whole lexical run"],
+        ["U00152", [4], "whole lexical run"],
+        ["U00153", [5], "whole lexical run"],
+        ["U00154", [6], "whole lexical run"],
+        ["U00155", [7], "opening fragment"]
+      ],
+      "signs": [
+        ["R1-S01", 0, 1, "V2"],
+        ["R1-S02", 1, 2, "V2"],
+        ["R1-S03", 2, 3, "V2"],
+        ["R1-S04", 3, 4, "V2"],
+        ["R1-S05", 4, 5, "V2"],
+        ["R1-S06", 5, 6, "V2"],
+        ["R1-S07", 6, 7, "V2"]
+      ],
+      "source_annotations": [],
+      "terminal_detail": "Q-R1-END: terminal tsheg or small filler detail after ལ remains unresolved; no additional shad asserted."
+    },
+    {
+      "row_id": "P004-R2",
+      "approximate_native_bounds": [476, 141, 3020, 215],
+      "observed_sequence": [
+        "མཁས་པ་ཡིས",
+        "སྤྲུལ་པ་ལ་སོགས་འབྱིན་པ་དང",
+        "རྟག་ཏུ་དགོད་པའི་དོན་རྣམས་ཤེས",
+        "དེ་ལྟར་གསུངས་པའི་ཆོ་འཕྲུལ་དུ",
+        "རྒྱུད་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང",
+        "རྩ་བའི་སྒྲ་ཚིག་ཐལ་འགྱུར་ལས",
+        "ཐམས་ཅད་ངེས་འབྱུང་བསྟན་པར་འཕྲོས",
+        "བསྟན"
+      ],
+      "ordered_anchor_fragments": [
+        ["U00155", [0], "ending fragment"],
+        ["U00156", [1], "whole lexical run"],
+        ["U00157", [2], "whole lexical run"],
+        ["U00158", [3], "whole lexical run"],
+        ["U00159", [4], "whole lexical run"],
+        ["U00160", [5], "whole lexical run"],
+        ["U00161", [6], "whole lexical run"],
+        ["U00162", [7], "opening fragment"]
+      ],
+      "signs": [
+        ["R2-S01", 0, 1, "V2"],
+        ["R2-S02", 1, 2, "V2"],
+        ["R2-S03", 2, 3, "V2"],
+        ["R2-S04", 3, 4, "V2"],
+        ["R2-S05", 4, 5, "V2"],
+        ["R2-S06", 5, 6, "V2"],
+        ["R2-S07", 6, 7, "V2"]
+      ],
+      "source_annotations": [],
+      "terminal_detail": "Q-R2-END: fine marks following བསྟན remain unresolved; they are not counted as shads."
+    },
+    {
+      "row_id": "P004-R3",
+      "approximate_native_bounds": [476, 194, 3020, 269],
+      "observed_sequence": [
+        "པ་དམ་པའི་འདུ་མཆེད་གྲུབ",
+        "གསུངས་པས་འཁོར་བ་ནུབ་པར་བྱེད",
+        "འདི་ལ་ཡོན་ཏན་བསམ་འདས་སོ",
+        "སྤྲུལ་པའི་བསྟན་པ་ཐོག་མར་ནི",
+        "འདི་འབྱུང་བས་ནི་འཕེལ་བའོ",
+        "ལུས་ཀུན་བརྫུས་པའི་ཐོག་མའི་ཚེ",
+        "ཚེ་ལོ་དཔག་ཏུ་མེད་དུས་སུ",
+        "བརྫུས་ནས"
+      ],
+      "ordered_anchor_fragments": [
+        ["U00162", [0], "ending fragment"],
+        ["U00163", [1], "whole lexical run"],
+        ["U00164", [2], "whole lexical run"],
+        ["U00165", [3], "whole lexical run"],
+        ["U00166", [4], "whole lexical run"],
+        ["U00167", [5], "whole lexical run"],
+        ["U00168", [6], "whole lexical run"],
+        ["U00169", [7], "opening fragment"]
+      ],
+      "signs": [
+        ["R3-S01", 0, 1, "V2"],
+        ["R3-S02", 1, 2, "V2"],
+        ["R3-S03", 2, 3, "V2"],
+        ["R3-S04", 3, 4, "V2"],
+        ["R3-S05", 4, 5, "V2"],
+        ["R3-S06", 5, 6, "V2"],
+        ["R3-S07", 6, 7, "V2"]
+      ],
+      "source_annotations": [],
+      "terminal_detail": "Q-R3-END: fine terminal marks after ནས remain unresolved; no filler count or additional shad asserted."
+    },
+    {
+      "row_id": "P004-R4",
+      "approximate_native_bounds": [476, 241, 3020, 319],
+      "observed_sequence": [
+        "སྐྱེས་པའི་འགྲོ་བ་ལ",
+        "མི་འབྱེད་རང་བཞིན་རྣམ་དག་པ",
+        "ཐམས་ཅད་ངོ་བོ་དབྱེར་མེད་པར",
+        "བརྗོད་ཅིང་སྒྲ་ཚིག་བདེ་རིག་སྟེ",
+        "ཆོས་ཀྱི་སྐུ་ཡང་རྒྱུ་མེད་པ",
+        "ལོངས་སྐུ་བརྡལ་བ་ཀུན་ཁྱབ་པར",
+        "སྤྲུལ་སྐུ་སྤྲོས་གཞི་རྫོགས་པ་ལས",
+        "དབྱེར་མི་ཕྱེད་པས་སྙོམས"
+      ],
+      "ordered_anchor_fragments": [
+        ["U00169", [0], "ending fragment"],
+        ["U00170", [1], "whole lexical run"],
+        ["U00171", [2], "whole lexical run"],
+        ["U00172", [3], "whole lexical run"],
+        ["U00173", [4], "whole lexical run"],
+        ["U00174", [5], "whole lexical run"],
+        ["U00175", [6], "whole lexical run"],
+        ["U00176", [7], "opening fragment"]
+      ],
+      "signs": [
+        ["R4-S01", 0, 1, "V2"],
+        ["R4-S02", 1, 2, "V2"],
+        ["R4-S03", 2, 3, "V2"],
+        ["R4-S04", 3, 4, "V2"],
+        ["R4-S05", 4, 5, "V2"],
+        ["R4-S06", 5, 6, "V2"],
+        ["R4-S07", 6, 7, "V2"]
+      ],
+      "source_annotations": []
+    },
+    {
+      "row_id": "P004-R5",
+      "approximate_native_bounds": [476, 289, 3020, 368],
+      "observed_sequence": [
+        "ཞུགས་ཏེ",
+        "རང་བཞིན་རྫོགས་པ་ཆེན་པོ་ཡི",
+        "དཀྱིལ་འཁོར་གཅིག་ཏུ་ཐབས་ཅིག་འཁོད",
+        "དེ་ལྟར་ངང་གཅིག་དབྱེར་མེད་དོ",
+        "དེ་ནས་གཅིག་དང་ཐ་མི་དད",
+        "རང་བཞིན་དག་པའི་འཁོར་རྣམས་ལས",
+        "ལྷ་དབང་གིས་ནི་འདི་སྐད་གསོལ",
+        "ཨེ་མ་ཀྱེ་ཀྱེ་བཅོམ"
+      ],
+      "ordered_anchor_fragments": [
+        ["U00176", [0], "ending fragment"],
+        ["U00177", [1], "whole lexical run"],
+        ["U00178", [2], "whole lexical run"],
+        ["U00179", [3], "whole lexical run"],
+        ["U00180", [4], "main lexical run"],
+        ["U00181", [5], "whole lexical run"],
+        ["U00182", [6], "whole lexical run"],
+        ["U00183", [7], "opening fragment"]
+      ],
+      "signs": [
+        ["R5-S01", 0, 1, "V2"],
+        ["R5-S02", 1, 2, "V2"],
+        ["R5-S03", 2, 3, "V2"],
+        ["R5-S04", 3, 4, "VC"],
+        ["R5-S05", 4, 5, "V2"],
+        ["R5-S06", 5, 6, "V2"],
+        ["R5-S07", 6, 7, "V2"]
+      ],
+      "source_annotations": [],
+      "annotation_check": "The base annotation attached to U00180 is not independently corroborated by legible separate wording in this inspected interval. This is not an adopted absence finding."
+    },
+    {
+      "row_id": "P004-R6",
+      "approximate_native_bounds": [476, 335, 3020, 414],
+      "observed_sequence": [
+        "ལྡན་འདས",
+        "འདི་ལྟར་སྣང་བ་དམ་པ་ཉིད",
+        "བསམ་གྱིས་མི་ཁྱབ་འདུས་པ་ཡི",
+        "ཚིག་གི་རང་བཞིན་འདི་ལྟ་སྟེ",
+        "འབྱུང་བཞིའི་དགོངས",
+        "དགོས་པ་ཡང་བྱུ⟦Q6-A1⟧",
+        "པ་ཇི་ལྟ་བུ",
+        "ཡན་ལག་དོན་ཀུན་ཅི་ལྟར་གཉེར",
+        "དེ་ཡི་དགོངས་དོན་ཅི་ལྟ་བུ",
+        "སྒྲ་ཡི"
+      ],
+      "ordered_anchor_fragments": [
+        ["U00183", [0], "ending fragment"],
+        ["U00184", [1], "whole lexical run"],
+        ["U00185", [2], "whole lexical run"],
+        ["U00186", [3], "whole lexical run"],
+        ["U00187", [4, 6], "main run interrupted by compact writing"],
+        ["SCAN-CH1-LAYER-00187", [5], "partially read annotation correspondence"],
+        ["U00188", [7], "whole lexical run"],
+        ["U00189", [8], "whole lexical run"],
+        ["U00190", [9], "opening fragment"]
+      ],
+      "signs": [
+        ["R6-S01", 0, 1, "V2"],
+        ["R6-S02", 1, 2, "V2"],
+        ["R6-S03", 2, 3, "V2"],
+        ["R6-S04", 3, 4, "VC"],
+        ["R6-S05", 6, 7, "V2"],
+        ["R6-S06", 7, 8, "V2"],
+        ["R6-S07", 8, 9, "V2"]
+      ],
+      "source_annotations": [
+        {
+          "id": "P004-N01",
+          "sequence_index": 5,
+          "type": "compact inline annotation candidate",
+          "approximate_native_bounds": [1820, 339, 2105, 396],
+          "physical_flanks": ["འབྱུང་བཞིའི་དགོངས", "པ་ཇི་ལྟ་བུ"],
+          "disposition": "Preserve at this physical position, separate from the main verse. Final glyph remains unresolved."
+        }
+      ]
+    },
+    {
+      "row_id": "P004-R7",
+      "approximate_native_bounds": [476, 382, 3020, 461],
+      "observed_sequence": [
+        "བརྗོད་པ་ཅི་ཙམ་ཞིག",
+        "ཐལ་བའི་གནས་ནི་དུ་ཙམ་མཆིས",
+        "འདི་མཚམས་འོག་གི་རང་དང་གཞན་གྱི་དམ་བཅའ⟦Q7-A1⟧་ཞེས་པ་དང་⟦Q7-A2⟧་པ་རླུང་སྟེ་ཞེས་པ་གཉིས་ཀྱི་དྲི་བ་མ་བྱུང",
+        "འགྱུར་དང་⟦Q7-M1⟧འགྱུར་བྱེད་གང་དང་གང",
+        "ལེའུ་རྗོད་བྱེད་གསལ་བ་ཅི",
+        "རྫོགས་པ་འདི་ལ་འདོད་པ་སུ",
+        "གླེང་གཞི་འབྱུང་བ་ཅི་ཡི"
+      ],
+      "ordered_anchor_fragments": [
+        ["U00190", [0], "ending fragment"],
+        ["U00191", [1], "whole lexical run"],
+        ["SCAN-CH1-LAYER-00192", [2], "partially read separate annotation"],
+        ["U00192", [3], "main run with unresolved internal component"],
+        ["U00193", [4], "whole lexical run"],
+        ["U00194", [5], "whole lexical run"],
+        ["U00195", [6], "opening fragment"]
+      ],
+      "signs": [
+        ["R7-S01", 0, 1, "V2"],
+        ["R7-S02", 1, 2, "VU"],
+        ["R7-S03", 2, 3, "VU"],
+        ["R7-S04", 3, 4, "V2"],
+        ["R7-S05", 4, 5, "V2"],
+        ["R7-S06", 5, 6, "V2"]
+      ],
+      "source_annotations": [
+        {
+          "id": "P004-N02",
+          "sequence_index": 2,
+          "type": "compact inline note",
+          "approximate_native_bounds": [1055, 382, 1670, 443],
+          "physical_flanks": ["མཆིས", "འགྱུར་དང"],
+          "disposition": "Preserve separately and in this position; do not concatenate into U00192's main verse."
+        },
+        {
+          "id": "P004-X01",
+          "sequence_index": 3,
+          "marker": "Q7-M1",
+          "type": "unresolved written component; main-text versus annotation status undetermined",
+          "approximate_native_bounds": [1835, 392, 1940, 445],
+          "physical_flanks": ["འགྱུར་དང", "འགྱུར་བྱེད"],
+          "disposition": "Do not suppress the component or adopt a lexical addition from this reading."
+        }
+      ]
+    }
+  ],
+  "non_main_regions": [
+    {
+      "id": "P004-M01",
+      "region": "Left margin immediately outside the text frame",
+      "approximate_native_bounds": [409, 214, 480, 287],
+      "observed": "One compact, compound red-ink cluster with curved and descending strokes.",
+      "unresolved_scope": "Entire cluster: lexical wording, folio-label status and ornamental status remain unresolved after inspection, including the rotated view.",
+      "disposition": "Inventory once; do not assign a guessed Tibetan folio word or treat its strokes as verse punctuation."
+    },
+    {
+      "id": "P004-F01",
+      "region": "Text frame",
+      "approximate_native_bounds": [465, 74, 3030, 469],
+      "observed": "Thin red rectangular frame, slightly sloping; main-letter limbs approach or overlap its lower and lateral boundaries.",
+      "disposition": "Frame strokes excluded from delimiter inventory."
+    },
+    {
+      "id": "P004-M02",
+      "region": "Outer left and lower margins",
+      "approximate_native_bounds": [20, 0, 3030, 566],
+      "observed": "Faint outer ruling, paper discoloration and red edge coloration. No additional wording securely identified outside P004-M01.",
+      "disposition": "Lower bands 18–21 do not constitute additional text rows."
+    },
+    {
+      "id": "P004-M03",
+      "region": "Right margin",
+      "approximate_native_bounds": [3030, 70, 3470, 540],
+      "observed": "Faint vertical red ruling or impression and a dark approximately round defect near [3140, 438]. No legible marginal wording identified.",
+      "disposition": "Dark defect is not counted as a textual dot."
+    }
+  ],
+  "observations": [
+    {
+      "id": "P004-O01",
+      "anchors": ["U00148", "U00155", "U00162", "U00169", "U00176", "U00183", "U00190", "U00195"],
+      "source_span": "Row openings: ཡན་ལག་ / མཁས་པ་ཡིས་ / པ་དམ་པའི་ / སྐྱེས་པའི་ / ཞུགས་ཏེ་ / ལྡན་འདས་ / བརྗོད་པ་.",
+      "base_span": "Corresponding portions of U00148–U00195.",
+      "category": "physical_row_and_anchor_alignment",
+      "neighboring_context": "The preceding page's terminal རྟོགས་སངས་ context and the following page's opening དོན་ context support the two page joins; neither is inserted into the target transcription.",
+      "approximate_native_bounds": [476, 88, 3020, 461],
+      "confidence_by_dimension": {
+        "seven_row_structure": "high",
+        "anchor_identification": "high",
+        "individual_lexical_readings": "medium to high",
+        "complete_punctuation_recovery": "not established"
+      },
+      "rationale": "Alignment follows the observed words and physical row continuations, not a page-number estimate."
+    },
+    {
+      "id": "P004-O02",
+      "anchors": ["U00180", "SCAN-CH1-LAYER-00180"],
+      "source_span": "དེ་ནས་གཅིག་དང་ཐ་མི་དད",
+      "base_span": "Main reading དེ་ནས་གཅིག་དང་ཐ་མི་དད; separate annotation སྡུད་པ་པོ་ཞུ་བ་རང་བྱུང་གི་བཀོད་པ.",
+      "category": "base_annotation_not_independently_corroborated",
+      "neighboring_context": ["དེ་ལྟར་ངང་གཅིག་དབྱེར་མེད་དོ", "རང་བཞིན་དག་པའི་འཁོར་རྣམས་ལས"],
+      "approximate_native_bounds": [1735, 289, 2075, 365],
+      "confidence_by_dimension": {
+        "main_word_alignment": "medium to high",
+        "separate_annotation_reading": "not established",
+        "annotation_absence": "insufficient for adoption"
+      },
+      "rationale": "The main run is identifiable. I cannot independently transcribe the supplied annotation from separate writing here; I therefore make no deletion finding."
+    },
+    {
+      "id": "P004-O03",
+      "anchors": ["U00187", "SCAN-CH1-LAYER-00187"],
+      "source_span": "འབྱུང་བཞིའི་དགོངས [དགོས་པ་ཡང་བྱུ⟦Q6-A1⟧] པ་ཇི་ལྟ་བུ",
+      "base_span": "Main འབྱུང་བཞིའི་དགོངས་པ་ཇི་ལྟ་བུ; annotation དགོས་པ་ཡང་བྱུང.",
+      "category": "physically_interleaved_annotation",
+      "neighboring_context": ["ཚིག་གི་རང་བཞིན་འདི་ལྟ་སྟེ", "ཡན་ལག་དོན་ཀུན་ཅི་ལྟར་གཉེར"],
+      "approximate_native_bounds": [1620, 335, 2245, 410],
+      "confidence_by_dimension": {
+        "physical_order": "high",
+        "annotation_classification": "medium",
+        "read_words": "medium",
+        "final_suffix": "unresolved"
+      },
+      "rationale": "The compact run is retained between its observed main-text flanks. Its final glyph is not supplied from the base."
+    },
+    {
+      "id": "P004-O04",
+      "anchors": ["U00191", "U00192", "SCAN-CH1-LAYER-00192"],
+      "source_span": "P004-R7 sequence index 2, including Q7-A1 and Q7-A2.",
+      "base_span": "SCAN-CH1-LAYER-00192, beginning འདི་མཚམས་འོག་གི and ending དྲི་བ་མ་བྱུང.",
+      "category": "separate_note_partially_read",
+      "neighboring_context": ["ཐལ་བའི་གནས་ནི་དུ་ཙམ་མཆིས", "འགྱུར་དང"],
+      "approximate_native_bounds": [1055, 382, 1670, 443],
+      "confidence_by_dimension": {
+        "presence": "high",
+        "physical_position": "high",
+        "annotation_classification": "high",
+        "complete_lexical_identity_with_base": "not established"
+      },
+      "rationale": "A long compact written run is visible before the next main-sized verse. Two bounded readings remain open; the rest is transcribed rather than replaced by an agreement assertion."
+    },
+    {
+      "id": "P004-O05",
+      "anchors": ["U00192"],
+      "source_span": "འགྱུར་དང་⟦Q7-M1⟧འགྱུར་བྱེད",
+      "base_span": "འགྱུར་དང་འགྱུར་བྱེད",
+      "category": "unresolved_internal_component",
+      "neighboring_context": ["དང", "འགྱུར་བྱེད་གང་དང་གང"],
+      "approximate_native_bounds": [1835, 392, 1940, 445],
+      "confidence_by_dimension": {
+        "written_component_presence": "medium",
+        "glyph_reading": "low",
+        "segmentation": "low",
+        "lexical_addition": "not established"
+      },
+      "rationale": "The intervening ink cannot safely be reduced to the base's sequence or expanded into a proposed word. It remains explicitly unaligned."
+    },
+    {
+      "id": "P004-O06",
+      "anchors": ["U00179", "U00180", "U00186", "U00187", "U00191", "U00192"],
+      "source_span": "R5-S04, R6-S04, R7-S02 and R7-S03.",
+      "base_span": "Base punctuation and annotation boundaries at these loci.",
+      "category": "boundary_sign_segmentation_unresolved",
+      "neighboring_context": "Respectively: མེད་དོ / དེ་ནས; ལྟ་སྟེ / འབྱུང; མཆིས / note opening; note ending / འགྱུར.",
+      "approximate_native_bounds": [
+        [1690, 302, 1760, 374],
+        [1555, 344, 1640, 415],
+        [1020, 382, 1080, 448],
+        [1645, 389, 1720, 450]
+      ],
+      "confidence_by_dimension": {
+        "boundary_location": "high",
+        "independent_stroke_count": "unresolved",
+        "unicode_punctuation_equivalence": "not asserted"
+      },
+      "rationale": "Each region is inventoried once. Curved letter limbs and adjacent compact writing prevent a secure separator count."
+    },
+    {
+      "id": "P004-O07",
+      "anchors": [],
+      "source_span": "P004-M01",
+      "base_span": null,
+      "category": "unresolved_marginal_component",
+      "neighboring_context": "Outside the left frame beside the third-to-fourth-row area.",
+      "approximate_native_bounds": [409, 214, 480, 287],
+      "confidence_by_dimension": {
+        "presence": "high",
+        "wording": "unresolved",
+        "function": "unresolved"
+      },
+      "rationale": "The rotated attachment supplies another orientation of the same cluster, not independent support for a guessed folio label."
+    }
+  ],
+  "unread_after_inspection": [
+    {
+      "id": "Q6-A1",
+      "location": "P004-N01, final glyph after བྱུ",
+      "approximate_native_bounds": [2045, 346, 2105, 398],
+      "question": "Terminal consonant shape; not completed from the base annotation."
+    },
+    {
+      "id": "Q7-A1",
+      "location": "P004-N02, ending of བཅའ before ཞེས",
+      "approximate_native_bounds": [1290, 382, 1335, 433],
+      "question": "Small terminal or vowel mark; the base's ending is not certified."
+    },
+    {
+      "id": "Q7-A2",
+      "location": "P004-N02, one word between ཞེས་པ་དང and པ་རླུང་སྟེ",
+      "approximate_native_bounds": [1380, 382, 1435, 435],
+      "question": "Internal letters of this compact word."
+    },
+    {
+      "id": "Q7-M1",
+      "location": "P004-R7, internal component between འགྱུར་དང and འགྱུར་བྱེད",
+      "approximate_native_bounds": [1835, 392, 1940, 445],
+      "question": "Glyph sequence and whether it is an independent written insertion, annotation or missegmented adjoining strokes."
+    },
+    {
+      "id": "Q-R5-S04",
+      "location": "R5-S04",
+      "approximate_native_bounds": [1690, 302, 1760, 374],
+      "question": "Separate delimiter strokes versus hooked limb of the preceding writing."
+    },
+    {
+      "id": "Q-R6-S04",
+      "location": "R6-S04",
+      "approximate_native_bounds": [1555, 344, 1640, 415],
+      "question": "Separate delimiter strokes versus curved adjoining letter component."
+    },
+    {
+      "id": "Q-R7-S02",
+      "location": "R7-S02",
+      "approximate_native_bounds": [1020, 382, 1080, 448],
+      "question": "Delimiter count at the transition from main text to compact note."
+    },
+    {
+      "id": "Q-R7-S03",
+      "location": "R7-S03",
+      "approximate_native_bounds": [1645, 389, 1720, 450],
+      "question": "Delimiter count at the transition from compact note to main text."
+    },
+    {
+      "id": "Q-R1-END",
+      "location": "After row 1 terminal ལ",
+      "approximate_native_bounds": [2970, 97, 3025, 166],
+      "question": "Fine terminal tsheg or filler detail; no exact count recovered."
+    },
+    {
+      "id": "Q-R2-END",
+      "location": "After row 2 terminal བསྟན",
+      "approximate_native_bounds": [2970, 149, 3025, 218],
+      "question": "Fine terminal marks; lexical strokes, tsheg and filler not fully separated."
+    },
+    {
+      "id": "Q-R3-END",
+      "location": "After row 3 terminal ནས",
+      "approximate_native_bounds": [2970, 201, 3025, 271],
+      "question": "Fine terminal marks and any filler count."
+    },
+    {
+      "id": "Q-M01",
+      "location": "P004-M01",
+      "approximate_native_bounds": [409, 214, 480, 287],
+      "question": "Entire bounded marginal cluster: wording and graphic function."
+    }
+  ],
+  "unexamined_spans": [],
+  "next_physical_span": {
+    "priority": "Resolve the bounded questions on PDF4 before treating this packet as a completed diplomatic transcription.",
+    "first_reread": "P004-R7, [1835, 392, 1940, 445], between དང and the following འགྱུར.",
+    "subsequent_page_continuation": {
+      "pdf_page": 5,
+      "physical_position": "First main row, opening དོན",
+      "anchor": "U00195, continuation",
+      "status": "Boundary context inspected only; PDF5 is not collated here."
+    }
+  },
+  "coverage_assessment": {
+    "visual_traversal": "All seven target rows followed left to right; target margins, frame, compact writing and supplied lower-margin views inspected.",
+    "anchor_coverage": "U00148 ending fragment through U00195 opening fragment.",
+    "unresolved_material": "Explicitly bounded above; no whole row was abandoned.",
+    "completeness": "Provisional source-ordered reading, not a complete glyph-level or punctuation-certified transcription.",
+    "adoption_limits": "No lexical addition, annotation deletion or exact equivalence of compound signs should be adopted from the unresolved loci.",
+    "chapter_certification": false
+  }
+}

@@ -1,0 +1,533 @@
+{
+  "status": "captured_requires_coordinator_review",
+  "specification": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B08-P0020-reader-spec.json",
+  "request_sha256": "341099a413127efc8dfcc056bf53fb750bfa0409d71b83144bdd560d34722c67",
+  "images": [
+    {
+      "pdf_page": 20,
+      "bdrc_image": 23,
+      "source_member": "0023.png",
+      "source_member_sha256": "491911eb01b15dd15a598fd4343a761bef89e440b1cb5ef7921d11a919b6d0fe",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-native.png",
+      "sha256": "491911eb01b15dd15a598fd4343a761bef89e440b1cb5ef7921d11a919b6d0fe",
+      "dimensions": [
+        4344,
+        1041
+      ]
+    },
+    {
+      "pdf_page": 19,
+      "bdrc_image": 22,
+      "source_member": "0022.png",
+      "source_member_sha256": "ed822822f1dc6ec1add5dd42fa1d911b543b0c424784fb8f3c76b4b0176e9901",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p019-native.png",
+      "sha256": "ed822822f1dc6ec1add5dd42fa1d911b543b0c424784fb8f3c76b4b0176e9901",
+      "dimensions": [
+        4344,
+        1040
+      ]
+    },
+    {
+      "pdf_page": 21,
+      "bdrc_image": 24,
+      "source_member": "0024.png",
+      "source_member_sha256": "846288f6cab081afb840100e03611f72ef1bc34bded8c22b94f80b5b9a99a396",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p021-native.png",
+      "sha256": "846288f6cab081afb840100e03611f72ef1bc34bded8c22b94f80b5b9a99a396",
+      "dimensions": [
+        4344,
+        1041
+      ]
+    },
+    {
+      "pdf_page": 20,
+      "bdrc_image": 23,
+      "source_member": "0023.png",
+      "source_member_sha256": "491911eb01b15dd15a598fd4343a761bef89e440b1cb5ef7921d11a919b6d0fe",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x0000-y0000.png",
+      "sha256": "158a9869e5c2409a627497423e44a973b6b9df44a3d878c9a1c45c3b1c344b74",
+      "native_bounds": [
+        0,
+        0,
+        2000,
+        1041
+      ],
+      "dimensions": [
+        2000,
+        1041
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 20,
+      "bdrc_image": 23,
+      "source_member": "0023.png",
+      "source_member_sha256": "491911eb01b15dd15a598fd4343a761bef89e440b1cb5ef7921d11a919b6d0fe",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x1900-y0000.png",
+      "sha256": "b2144b18911e660b53fe9dc1cd8b46d7e91db279b15f9b582da189b0ab878ca1",
+      "native_bounds": [
+        1900,
+        0,
+        3900,
+        1041
+      ],
+      "dimensions": [
+        2000,
+        1041
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 20,
+      "bdrc_image": 23,
+      "source_member": "0023.png",
+      "source_member_sha256": "491911eb01b15dd15a598fd4343a761bef89e440b1cb5ef7921d11a919b6d0fe",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p020-x2344-y0000.png",
+      "sha256": "bd918ecb4d07bc8714ed40fa0d97ab146c26c6caceb8b4acf92c8fc2758dfc5e",
+      "native_bounds": [
+        2344,
+        0,
+        4344,
+        1041
+      ],
+      "dimensions": [
+        2000,
+        1041
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 19,
+      "bdrc_image": 22,
+      "source_member": "0022.png",
+      "source_member_sha256": "ed822822f1dc6ec1add5dd42fa1d911b543b0c424784fb8f3c76b4b0176e9901",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p019-x2344-y0000.png",
+      "sha256": "fd44af9ce2375978b5d4581542a25591b6d279a4197a7feedb5b51a00429e13e",
+      "native_bounds": [
+        2344,
+        0,
+        4344,
+        1040
+      ],
+      "dimensions": [
+        2000,
+        1040
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "pdf_page": 21,
+      "bdrc_image": 24,
+      "source_member": "0024.png",
+      "source_member_sha256": "846288f6cab081afb840100e03611f72ef1bc34bded8c22b94f80b5b9a99a396",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/p021-x0000-y0000.png",
+      "sha256": "16b22d6f13395d6c0e1bb098097b2dde39ea01048e8f3648eea601c80d4e52e8",
+      "native_bounds": [
+        0,
+        0,
+        2000,
+        1041
+      ],
+      "dimensions": [
+        2000,
+        1041
+      ],
+      "derivation": "Unscaled native crop; no enhancement or OCR",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/band-x0000-y0150.png",
+      "sha256": "edb47f9a6e442b0a12619632bb06d4c2cc86ee6b2c1f8fabb5c02efb35658b72",
+      "pdf_page": 20,
+      "bdrc_image": 23,
+      "source_member": "0023.png",
+      "source_member_sha256": "491911eb01b15dd15a598fd4343a761bef89e440b1cb5ef7921d11a919b6d0fe",
+      "native_bounds": [
+        0,
+        150,
+        2000,
+        400
+      ],
+      "dimensions": [
+        2000,
+        250
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/band-x1900-y0150.png",
+      "sha256": "995b04258db9ee681e63e32d6779f0e720eee32d97079ba166e021b5649c1303",
+      "pdf_page": 20,
+      "bdrc_image": 23,
+      "source_member": "0023.png",
+      "source_member_sha256": "491911eb01b15dd15a598fd4343a761bef89e440b1cb5ef7921d11a919b6d0fe",
+      "native_bounds": [
+        1900,
+        150,
+        3900,
+        400
+      ],
+      "dimensions": [
+        2000,
+        250
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/band-x2344-y0150.png",
+      "sha256": "5d62857aed26117783247344164579cad9da02d3c8a714975bd0c101f1d35499",
+      "pdf_page": 20,
+      "bdrc_image": 23,
+      "source_member": "0023.png",
+      "source_member_sha256": "491911eb01b15dd15a598fd4343a761bef89e440b1cb5ef7921d11a919b6d0fe",
+      "native_bounds": [
+        2344,
+        150,
+        4344,
+        400
+      ],
+      "dimensions": [
+        2000,
+        250
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/band-x0000-y0300.png",
+      "sha256": "05d82f6273404ff890e6b20bf7451308fc2cbf1aa0ed5478ea2f143ac061bcd6",
+      "pdf_page": 20,
+      "bdrc_image": 23,
+      "source_member": "0023.png",
+      "source_member_sha256": "491911eb01b15dd15a598fd4343a761bef89e440b1cb5ef7921d11a919b6d0fe",
+      "native_bounds": [
+        0,
+        300,
+        2000,
+        550
+      ],
+      "dimensions": [
+        2000,
+        250
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/band-x1900-y0300.png",
+      "sha256": "911cabeb0fb3eb98360eb164b12161eb7db0db7c4b0594d109552e03c73ebb7b",
+      "pdf_page": 20,
+      "bdrc_image": 23,
+      "source_member": "0023.png",
+      "source_member_sha256": "491911eb01b15dd15a598fd4343a761bef89e440b1cb5ef7921d11a919b6d0fe",
+      "native_bounds": [
+        1900,
+        300,
+        3900,
+        550
+      ],
+      "dimensions": [
+        2000,
+        250
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/band-x2344-y0300.png",
+      "sha256": "8f2a18f06161c300484ec23b326b0075a34cc4a1e0869f2485c5f405a8e47dbd",
+      "pdf_page": 20,
+      "bdrc_image": 23,
+      "source_member": "0023.png",
+      "source_member_sha256": "491911eb01b15dd15a598fd4343a761bef89e440b1cb5ef7921d11a919b6d0fe",
+      "native_bounds": [
+        2344,
+        300,
+        4344,
+        550
+      ],
+      "dimensions": [
+        2000,
+        250
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/band-x0000-y0450.png",
+      "sha256": "cb9ae31ab51663e252d539d0fd0767cffc501341d31812bead2fbc08c1d08f6c",
+      "pdf_page": 20,
+      "bdrc_image": 23,
+      "source_member": "0023.png",
+      "source_member_sha256": "491911eb01b15dd15a598fd4343a761bef89e440b1cb5ef7921d11a919b6d0fe",
+      "native_bounds": [
+        0,
+        450,
+        2000,
+        700
+      ],
+      "dimensions": [
+        2000,
+        250
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/band-x1900-y0450.png",
+      "sha256": "a32fd09f72caaa24d8f6ea92a605ad5a809b6181d93d34376a6ea3c74606a4ef",
+      "pdf_page": 20,
+      "bdrc_image": 23,
+      "source_member": "0023.png",
+      "source_member_sha256": "491911eb01b15dd15a598fd4343a761bef89e440b1cb5ef7921d11a919b6d0fe",
+      "native_bounds": [
+        1900,
+        450,
+        3900,
+        700
+      ],
+      "dimensions": [
+        2000,
+        250
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/band-x2344-y0450.png",
+      "sha256": "c18611a0987f71f35c35bae57afc37f708930563260f7c51f15b747f2956cd24",
+      "pdf_page": 20,
+      "bdrc_image": 23,
+      "source_member": "0023.png",
+      "source_member_sha256": "491911eb01b15dd15a598fd4343a761bef89e440b1cb5ef7921d11a919b6d0fe",
+      "native_bounds": [
+        2344,
+        450,
+        4344,
+        700
+      ],
+      "dimensions": [
+        2000,
+        250
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/band-x0000-y0600.png",
+      "sha256": "15eb7eb1e57c33cb0bf1e26b328e5eab75a2bc6876712a3b6283b724117111a8",
+      "pdf_page": 20,
+      "bdrc_image": 23,
+      "source_member": "0023.png",
+      "source_member_sha256": "491911eb01b15dd15a598fd4343a761bef89e440b1cb5ef7921d11a919b6d0fe",
+      "native_bounds": [
+        0,
+        600,
+        2000,
+        850
+      ],
+      "dimensions": [
+        2000,
+        250
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/band-x1900-y0600.png",
+      "sha256": "ae77f3ec7ae27c9da9cff6ea3e4e288823eaa7018bb2194756c5ac637b5172f4",
+      "pdf_page": 20,
+      "bdrc_image": 23,
+      "source_member": "0023.png",
+      "source_member_sha256": "491911eb01b15dd15a598fd4343a761bef89e440b1cb5ef7921d11a919b6d0fe",
+      "native_bounds": [
+        1900,
+        600,
+        3900,
+        850
+      ],
+      "dimensions": [
+        2000,
+        250
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/band-x2344-y0600.png",
+      "sha256": "5e04e6de3e3a4e6f1efe06064f5fd332a98db41a5f23391ae555e2669725dbd9",
+      "pdf_page": 20,
+      "bdrc_image": 23,
+      "source_member": "0023.png",
+      "source_member_sha256": "491911eb01b15dd15a598fd4343a761bef89e440b1cb5ef7921d11a919b6d0fe",
+      "native_bounds": [
+        2344,
+        600,
+        4344,
+        850
+      ],
+      "dimensions": [
+        2000,
+        250
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/band-x0000-y0750.png",
+      "sha256": "8548cc83ef2b2b3cbaf8863921e99a1e7c1ffb5695e085471250302b46a08114",
+      "pdf_page": 20,
+      "bdrc_image": 23,
+      "source_member": "0023.png",
+      "source_member_sha256": "491911eb01b15dd15a598fd4343a761bef89e440b1cb5ef7921d11a919b6d0fe",
+      "native_bounds": [
+        0,
+        750,
+        2000,
+        1000
+      ],
+      "dimensions": [
+        2000,
+        250
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/band-x1900-y0750.png",
+      "sha256": "533ee4c41ebe68120433ab1b4b5ffcf32390f5bc591542732da153cdc90c5314",
+      "pdf_page": 20,
+      "bdrc_image": 23,
+      "source_member": "0023.png",
+      "source_member_sha256": "491911eb01b15dd15a598fd4343a761bef89e440b1cb5ef7921d11a919b6d0fe",
+      "native_bounds": [
+        1900,
+        750,
+        3900,
+        1000
+      ],
+      "dimensions": [
+        2000,
+        250
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/band-x2344-y0750.png",
+      "sha256": "80f04cceb1b5b99440a4277da00c89fd5b7cb0a52d8edd7b0ca0902273e54d80",
+      "pdf_page": 20,
+      "bdrc_image": 23,
+      "source_member": "0023.png",
+      "source_member_sha256": "491911eb01b15dd15a598fd4343a761bef89e440b1cb5ef7921d11a919b6d0fe",
+      "native_bounds": [
+        2344,
+        750,
+        4344,
+        1000
+      ],
+      "dimensions": [
+        2000,
+        250
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/band-x0000-y0900.png",
+      "sha256": "7cd4528ea776f566fc0c3e061386c92f439f84a83a52a73d58345c891f5e232a",
+      "pdf_page": 20,
+      "bdrc_image": 23,
+      "source_member": "0023.png",
+      "source_member_sha256": "491911eb01b15dd15a598fd4343a761bef89e440b1cb5ef7921d11a919b6d0fe",
+      "native_bounds": [
+        0,
+        900,
+        2000,
+        1041
+      ],
+      "dimensions": [
+        2000,
+        141
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/band-x1900-y0900.png",
+      "sha256": "90090544c26aab8c055e5b03a1a96258909340b43d1eed5371c67f5bf4d6cf6c",
+      "pdf_page": 20,
+      "bdrc_image": 23,
+      "source_member": "0023.png",
+      "source_member_sha256": "491911eb01b15dd15a598fd4343a761bef89e440b1cb5ef7921d11a919b6d0fe",
+      "native_bounds": [
+        1900,
+        900,
+        3900,
+        1041
+      ],
+      "dimensions": [
+        2000,
+        141
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/band-x2344-y0900.png",
+      "sha256": "a2bd767d1c95eceed4f600900af39a89fa47e524d9cecacdce74ca3cab9a93dd",
+      "pdf_page": 20,
+      "bdrc_image": 23,
+      "source_member": "0023.png",
+      "source_member_sha256": "491911eb01b15dd15a598fd4343a761bef89e440b1cb5ef7921d11a919b6d0fe",
+      "native_bounds": [
+        2344,
+        900,
+        4344,
+        1041
+      ],
+      "dimensions": [
+        2000,
+        141
+      ],
+      "derivation": "Exact unscaled overlapping native band; its label is not a physical-row assignment",
+      "pixel_identity_verified": true
+    },
+    {
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B08-P0020/left-edge-rotated90.png",
+      "sha256": "63bef8ff50acf4249211abd81b0b1549bab45b28c6f7fa5c53ea975e2b63d15c",
+      "pdf_page": 20,
+      "source_member": "0023.png",
+      "native_bounds": [
+        0,
+        0,
+        900,
+        1041
+      ],
+      "derivation": "Lossless 90-degree counterclockwise rotation of native left edge; not automatically all marginal text"
+    }
+  ],
+  "started_at": "2026-09-28T16:48:02.578540+00:00",
+  "source_pages": [
+    19,
+    20,
+    21
+  ],
+  "sandbox": "read-only",
+  "editorial_decisions_made_by_wrapper": false,
+  "returncode": 0,
+  "unexpected_tool_items": [],
+  "unparseable_event_lines": 0,
+  "finished_at": "2026-09-28T17:03:35.737687+00:00",
+  "output_hashes": {
+    "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B08-P0020-reader-reading.txt": "69a6234649fa983f2e6e0e82914ad1dddbb2ea865d92c4601fc4cb87c4113fbe",
+    "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B08-P0020-reader-session.jsonl": "747a0b6585e8210ae627e9064153784a9fc5bded523c050fe79810a04ce6bcbd",
+    "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B08-P0020-reader-stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}
