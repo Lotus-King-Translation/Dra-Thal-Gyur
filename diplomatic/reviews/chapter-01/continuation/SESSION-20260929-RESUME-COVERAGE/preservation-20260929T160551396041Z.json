@@ -1,0 +1,146 @@
+{
+  "baseline_commit": "6c640b05858d5da5a3fcf6efed5716cc72f9719a",
+  "captured_at": "20260929T160551396041Z",
+  "paused_owned_reader_groups": [
+    65501,
+    65503,
+    65506,
+    65509,
+    65514,
+    65518
+  ],
+  "files": [
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-ADZOM1973-B01-P0011-0013-reader-execution.json",
+      "bytes": 15685,
+      "sha256": "baffa59768756a32de13f01138ac600588c386b117b3f78137051af9f1780a27"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-ADZOM1973-B01-P0011-0013-reader-session.jsonl",
+      "bytes": 401,
+      "sha256": "d91f4f33bcb15cb3f2407ee6b301fe78a8b2a6afc810317399c27b84d29c869c"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-ADZOM1973-B01-P0011-0013-reader-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B14-P0017-0019-reader-execution.json",
+      "bytes": 9676,
+      "sha256": "50217beecfff8670050f62b0a685622bfeb3019bbd65a80f44e5263c68380f20"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B14-P0017-0019-reader-session.jsonl",
+      "bytes": 1190,
+      "sha256": "844a1e39dfd01b1fdc14832bec39972d8655c2412ff84420a83c3d777068c3d7"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B14-P0017-0019-reader-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B09-P0015-0017-reader-execution.json",
+      "bytes": 7625,
+      "sha256": "e5f84331a92824a1bc527530d440ade4d284a4615e325e83ad28d112ea650b28"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B09-P0015-0017-reader-session.jsonl",
+      "bytes": 1190,
+      "sha256": "bce11576e22e2e41a644ff8cc37944c0334b38e3ec4f11cc28334233335ea2ba"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B09-P0015-0017-reader-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-GCN-B01-P0407-0409-reader-execution.json",
+      "bytes": 13062,
+      "sha256": "ca4b58143a92ff5903112f7cf0de2b7fb438741b6bf4b18c808c09a6050fa161"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-GCN-B01-P0407-0409-reader-session.jsonl",
+      "bytes": 401,
+      "sha256": "5d4cd98b4cd0b0935d9a03527abf05345104a2e0cbbc94952fc1a0bc4c28bd23"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-GCN-B01-P0407-0409-reader-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B11-P0017-0019-reader-execution.json",
+      "bytes": 9590,
+      "sha256": "bd1c1071c3be49d2e9183107bc15d9b0489d45592d49256103719e20f67884cb"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B11-P0017-0019-reader-session.jsonl",
+      "bytes": 401,
+      "sha256": "65ba40204f42ea3ddb1f4029aaa991d71936f8563004ae9965cc57e60c12a95b"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B11-P0017-0019-reader-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B11-P0027-0029-reader-execution.json",
+      "bytes": 9591,
+      "sha256": "523d4f687e885ea1ebc64addc398cfe6b5a62145cfcdc7ae00d01b10ec522808"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B11-P0027-0029-reader-session.jsonl",
+      "bytes": 401,
+      "sha256": "f942a6a23209f522a1d42124edd27d6921f17857764d22dfe492c4cf09bae8d1"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B11-P0027-0029-reader-stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/C1-ADZOM1973-B01-P0011-0013-capture.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/C1-BASE-PHYSICAL-B14-P0017-0019-capture.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/C1-DEGE-B09-P0015-0017-capture.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/C1-GCN-B01-P0407-0409-capture.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/C1-TINGKYE-B11-P0017-0019-capture.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/C1-TSAMDRAK-B11-P0027-0029-capture.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/launch.json",
+      "bytes": 669,
+      "sha256": "130aac05134039ccf1dc08faf74e0d4d3c15ac1fcd98bd125024fb14b9d6679b"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/resume_helpers.py",
+      "bytes": 2763,
+      "sha256": "1eb899bf3c7d8e3d9da03f9312f883cc312e405ab65ccaeb1293452cc8d3056f"
+    }
+  ],
+  "message": "Preserve active prepared readings and reviewed integration helper before applying base physical ledger",
+  "scope": "Reviewed project preservation snapshot; unfinished reader outputs are not accepted readings."
+}
