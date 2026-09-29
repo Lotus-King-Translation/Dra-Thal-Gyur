@@ -1,5 +1,5 @@
 {
-  "status": "running_not_accepted",
+  "status": "captured_requires_coordinator_review",
   "specification": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-spec.json",
   "request_sha256": "1243eda02af12f4dcbc7aa16ac9966c863bb94c8c21e4986ec9a271514f3cf46",
   "images": [
@@ -293,5 +293,14 @@
     17
   ],
   "sandbox": "read-only",
-  "editorial_decisions_made_by_wrapper": false
+  "editorial_decisions_made_by_wrapper": false,
+  "returncode": 0,
+  "unexpected_tool_items": [],
+  "unparseable_event_lines": 0,
+  "finished_at": "2026-09-29T15:28:55.014676+00:00",
+  "output_hashes": {
+    "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-reading.txt": "5e0d483a2288cc78a9cfa14fb3edd6c76325a8d3209380625d2bbca4f04bdbcd",
+    "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-session.jsonl": "766bb5c6dd0d6bf311e9a8e0ffa15512c01c2a994c63b334e09a445d03937507",
+    "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B10-P0014-0016-reader-stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
 }

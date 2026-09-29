@@ -9063,8 +9063,32 @@
       "rows_actually_compared": [],
       "observations": [],
       "canonical_record_ids": []
+    },
+    {
+      "batch_id": "B09-P0015-0017",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-DEGE-B09-P0015-0017",
+      "baseline_commit": "fd80ddca46c1f01b50761d9488426fc8390a4b4f",
+      "target_pages": [
+        15,
+        16,
+        17
+      ],
+      "source_pages": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "scope": "Read these three disjoint target pages in full, preserving exact source order, headings/notes, signs, margins and every bounded unresolved glyph. Neighboring pages are only joins. Earlier independently assigned target pages are not part of this coverage. The base is only a broad alignment aid, never source testimony.",
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B09-P0015-0017/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B09-P0015-0017-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
     }
   ],
   "current_wave_id": "CONTINUE2-W03",
-  "current_batch_id": "B08-P0012-0014"
+  "current_batch_id": "B09-P0015-0017"
 }

@@ -1,0 +1,530 @@
+{
+  "schema_version": 1,
+  "task_id": "C1-GCN",
+  "batch_id": "B01-P0407-0409",
+  "baseline_commit": "fd80ddca46c1f01b50761d9488426fc8390a4b4f",
+  "status": "ready_for_visual_review_not_collated",
+  "source_assets": [
+    {
+      "path": "editions/gcn-manuscript/bdrc-W1ER128.pdf",
+      "sha256": "0e32b67b69e6bc57059993c511981154c15f5eeacad2217003f03bae124f0501"
+    }
+  ],
+  "generator": {
+    "path": "diplomatic/tools/prepare_composite_packet.py",
+    "sha256": "4820a4c702baf64b26e594c04e03119f9619a8711d736359916e3471c63e5bd9",
+    "pymupdf": "1.28.2",
+    "pillow": "12.3.0"
+  },
+  "coordinates": "Half-open full-composite raster pixel bounds at the recorded matrix",
+  "pages": [
+    {
+      "pdf_page": 407,
+      "bdrc_image": null,
+      "source_member": "provider-PDF-page-407-full-composite",
+      "source_pdf_sha256": "0e32b67b69e6bc57059993c511981154c15f5eeacad2217003f03bae124f0501",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-GCN/B01-P0407-0409/p407-composite.png",
+      "sha256": "145c45e4a77c714f4958f50a9b849f14c35729e0753e8aa2d125fcb09286510b",
+      "dimensions": [
+        3000,
+        806
+      ],
+      "page_rect_points": [
+        0.0,
+        0.0,
+        3000.0,
+        806.0
+      ],
+      "page_rotation": 0,
+      "render_matrix": [
+        1.0000000757260061,
+        0,
+        0,
+        1.0000000757260061,
+        0,
+        0
+      ],
+      "displayed_raster_components": [
+        {
+          "number": 4,
+          "bbox": [
+            0.0,
+            0.19439697265625,
+            3000.0,
+            805.8056030273438
+          ],
+          "width": 998,
+          "height": 268,
+          "bpc": 8,
+          "xref": 5230
+        },
+        {
+          "number": 5,
+          "bbox": [
+            0.0,
+            6.103515625e-05,
+            3000.0,
+            806.0
+          ],
+          "width": 3000,
+          "height": 806,
+          "bpc": 8,
+          "xref": 5232
+        }
+      ],
+      "referenced_image_resources": [
+        [
+          5230,
+          0,
+          998,
+          268,
+          8,
+          "DeviceRGB",
+          "",
+          "fzImg0",
+          "JPXDecode",
+          0
+        ],
+        [
+          5232,
+          5233,
+          3000,
+          806,
+          8,
+          "DeviceRGB",
+          "",
+          "fzImg1",
+          "JPXDecode",
+          0
+        ]
+      ],
+      "derivation": "Complete page rendering, including all visible composited layers and annotations",
+      "exposure_count": "Requires visual inventory; image-resource count is not exposure count"
+    },
+    {
+      "pdf_page": 408,
+      "bdrc_image": null,
+      "source_member": "provider-PDF-page-408-full-composite",
+      "source_pdf_sha256": "0e32b67b69e6bc57059993c511981154c15f5eeacad2217003f03bae124f0501",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-GCN/B01-P0407-0409/p408-composite.png",
+      "sha256": "76e3e6484459b034f0f62d90e7160441e65f6f37055c2d072a145e881d89be27",
+      "dimensions": [
+        3000,
+        803
+      ],
+      "page_rect_points": [
+        0.0,
+        0.0,
+        3000.0,
+        803.0
+      ],
+      "page_rotation": 0,
+      "render_matrix": [
+        1.0,
+        0,
+        0,
+        1.0,
+        0,
+        0
+      ],
+      "displayed_raster_components": [
+        {
+          "number": 6,
+          "bbox": [
+            0.0,
+            0.19744873046875,
+            3000.0,
+            802.8026123046875
+          ],
+          "width": 998,
+          "height": 267,
+          "bpc": 8,
+          "xref": 5235
+        },
+        {
+          "number": 7,
+          "bbox": [
+            0.0,
+            0.0,
+            3000.0,
+            803.0
+          ],
+          "width": 3000,
+          "height": 803,
+          "bpc": 8,
+          "xref": 5237
+        }
+      ],
+      "referenced_image_resources": [
+        [
+          5235,
+          0,
+          998,
+          267,
+          8,
+          "DeviceRGB",
+          "",
+          "fzImg0",
+          "JPXDecode",
+          0
+        ],
+        [
+          5237,
+          5238,
+          3000,
+          803,
+          8,
+          "DeviceRGB",
+          "",
+          "fzImg1",
+          "JPXDecode",
+          0
+        ]
+      ],
+      "derivation": "Complete page rendering, including all visible composited layers and annotations",
+      "exposure_count": "Requires visual inventory; image-resource count is not exposure count"
+    },
+    {
+      "pdf_page": 409,
+      "bdrc_image": null,
+      "source_member": "provider-PDF-page-409-full-composite",
+      "source_pdf_sha256": "0e32b67b69e6bc57059993c511981154c15f5eeacad2217003f03bae124f0501",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-GCN/B01-P0407-0409/p409-composite.png",
+      "sha256": "7a85f5c932f9eaf07eb1658736d22fe8d6cc3f9eb57d6eec052d40cc32b2f925",
+      "dimensions": [
+        3000,
+        813
+      ],
+      "page_rect_points": [
+        0.0,
+        0.0,
+        3000.0,
+        813.0
+      ],
+      "page_rotation": 0,
+      "render_matrix": [
+        1.0,
+        0,
+        0,
+        1.0,
+        0,
+        0
+      ],
+      "displayed_raster_components": [
+        {
+          "number": 3,
+          "bbox": [
+            0.0,
+            0.0,
+            3000.0,
+            813.0
+          ],
+          "width": 1000,
+          "height": 271,
+          "bpc": 8,
+          "xref": 5240
+        },
+        {
+          "number": 4,
+          "bbox": [
+            0.0,
+            0.0,
+            3000.0,
+            813.0
+          ],
+          "width": 3000,
+          "height": 813,
+          "bpc": 8,
+          "xref": 5242
+        }
+      ],
+      "referenced_image_resources": [
+        [
+          5240,
+          0,
+          1000,
+          271,
+          8,
+          "DeviceRGB",
+          "",
+          "fzImg0",
+          "JPXDecode",
+          0
+        ],
+        [
+          5242,
+          5243,
+          3000,
+          813,
+          8,
+          "DeviceRGB",
+          "",
+          "fzImg1",
+          "JPXDecode",
+          0
+        ]
+      ],
+      "derivation": "Complete page rendering, including all visible composited layers and annotations",
+      "exposure_count": "Requires visual inventory; image-resource count is not exposure count"
+    },
+    {
+      "pdf_page": 410,
+      "bdrc_image": null,
+      "source_member": "provider-PDF-page-410-full-composite",
+      "source_pdf_sha256": "0e32b67b69e6bc57059993c511981154c15f5eeacad2217003f03bae124f0501",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-GCN/B01-P0407-0409/p410-composite.png",
+      "sha256": "72961757276f716906eeb88e49aaea4c2ee32a2ddfb49b607fc9bca69a031df8",
+      "dimensions": [
+        3000,
+        808
+      ],
+      "page_rect_points": [
+        0.0,
+        0.0,
+        3000.0,
+        808.0
+      ],
+      "page_rotation": 0,
+      "render_matrix": [
+        1.0,
+        0,
+        0,
+        1.0,
+        0,
+        0
+      ],
+      "displayed_raster_components": [
+        {
+          "number": 1,
+          "bbox": [
+            0.0,
+            0.09613037109375,
+            3000.0,
+            807.9039306640625
+          ],
+          "width": 999,
+          "height": 269,
+          "bpc": 8,
+          "xref": 5245
+        },
+        {
+          "number": 2,
+          "bbox": [
+            0.0,
+            0.0,
+            3000.0,
+            808.0
+          ],
+          "width": 3000,
+          "height": 808,
+          "bpc": 8,
+          "xref": 5247
+        }
+      ],
+      "referenced_image_resources": [
+        [
+          5245,
+          0,
+          999,
+          269,
+          8,
+          "DeviceRGB",
+          "",
+          "fzImg0",
+          "JPXDecode",
+          0
+        ],
+        [
+          5247,
+          5248,
+          3000,
+          808,
+          8,
+          "DeviceRGB",
+          "",
+          "fzImg1",
+          "JPXDecode",
+          0
+        ]
+      ],
+      "derivation": "Complete page rendering, including all visible composited layers and annotations",
+      "exposure_count": "Requires visual inventory; image-resource count is not exposure count"
+    }
+  ],
+  "views": [
+    {
+      "pdf_page": 407,
+      "bdrc_image": null,
+      "source_member": "provider-PDF-page-407-full-composite",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-GCN/B01-P0407-0409/p407-x0000-y0000.png",
+      "sha256": "7efca32633f749a8ca675d9336e1fb2416f862e11549e020e6e3cf7cb1b22b71",
+      "native_bounds": [
+        0,
+        0,
+        2000,
+        806
+      ],
+      "coordinate_space": "composite raster",
+      "dimensions": [
+        2000,
+        806
+      ],
+      "parent_composite_sha256": "145c45e4a77c714f4958f50a9b849f14c35729e0753e8aa2d125fcb09286510b",
+      "derivation": "Unscaled lossless crop of the complete composite rendering",
+      "pixel_identity_verified_against_composite": true
+    },
+    {
+      "pdf_page": 407,
+      "bdrc_image": null,
+      "source_member": "provider-PDF-page-407-full-composite",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-GCN/B01-P0407-0409/p407-x1000-y0000.png",
+      "sha256": "9559b99271b5c5843db665d367590928c708c6e1eca21adb4ac671b4a209e8c5",
+      "native_bounds": [
+        1000,
+        0,
+        3000,
+        806
+      ],
+      "coordinate_space": "composite raster",
+      "dimensions": [
+        2000,
+        806
+      ],
+      "parent_composite_sha256": "145c45e4a77c714f4958f50a9b849f14c35729e0753e8aa2d125fcb09286510b",
+      "derivation": "Unscaled lossless crop of the complete composite rendering",
+      "pixel_identity_verified_against_composite": true
+    },
+    {
+      "pdf_page": 408,
+      "bdrc_image": null,
+      "source_member": "provider-PDF-page-408-full-composite",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-GCN/B01-P0407-0409/p408-x0000-y0000.png",
+      "sha256": "52af16d0476ca2201c27e93cbbdb17ec77b03dd64700220cadcb8a4acf79d30c",
+      "native_bounds": [
+        0,
+        0,
+        2000,
+        803
+      ],
+      "coordinate_space": "composite raster",
+      "dimensions": [
+        2000,
+        803
+      ],
+      "parent_composite_sha256": "76e3e6484459b034f0f62d90e7160441e65f6f37055c2d072a145e881d89be27",
+      "derivation": "Unscaled lossless crop of the complete composite rendering",
+      "pixel_identity_verified_against_composite": true
+    },
+    {
+      "pdf_page": 408,
+      "bdrc_image": null,
+      "source_member": "provider-PDF-page-408-full-composite",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-GCN/B01-P0407-0409/p408-x1000-y0000.png",
+      "sha256": "afe61dc0b09ac8fae38dd12799ee5089f433baca11def4a77e63dfef380c5048",
+      "native_bounds": [
+        1000,
+        0,
+        3000,
+        803
+      ],
+      "coordinate_space": "composite raster",
+      "dimensions": [
+        2000,
+        803
+      ],
+      "parent_composite_sha256": "76e3e6484459b034f0f62d90e7160441e65f6f37055c2d072a145e881d89be27",
+      "derivation": "Unscaled lossless crop of the complete composite rendering",
+      "pixel_identity_verified_against_composite": true
+    },
+    {
+      "pdf_page": 409,
+      "bdrc_image": null,
+      "source_member": "provider-PDF-page-409-full-composite",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-GCN/B01-P0407-0409/p409-x0000-y0000.png",
+      "sha256": "7c70fd44a1ceb6a3e07cb6230d9bc7698cb0f1a13d328c3c190ce89f049c94ca",
+      "native_bounds": [
+        0,
+        0,
+        2000,
+        813
+      ],
+      "coordinate_space": "composite raster",
+      "dimensions": [
+        2000,
+        813
+      ],
+      "parent_composite_sha256": "7a85f5c932f9eaf07eb1658736d22fe8d6cc3f9eb57d6eec052d40cc32b2f925",
+      "derivation": "Unscaled lossless crop of the complete composite rendering",
+      "pixel_identity_verified_against_composite": true
+    },
+    {
+      "pdf_page": 409,
+      "bdrc_image": null,
+      "source_member": "provider-PDF-page-409-full-composite",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-GCN/B01-P0407-0409/p409-x1000-y0000.png",
+      "sha256": "a7b88543d9355b07a85ce8edea05418e70c27618e74b2f2b869e62f27aa3c032",
+      "native_bounds": [
+        1000,
+        0,
+        3000,
+        813
+      ],
+      "coordinate_space": "composite raster",
+      "dimensions": [
+        2000,
+        813
+      ],
+      "parent_composite_sha256": "7a85f5c932f9eaf07eb1658736d22fe8d6cc3f9eb57d6eec052d40cc32b2f925",
+      "derivation": "Unscaled lossless crop of the complete composite rendering",
+      "pixel_identity_verified_against_composite": true
+    },
+    {
+      "pdf_page": 410,
+      "bdrc_image": null,
+      "source_member": "provider-PDF-page-410-full-composite",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-GCN/B01-P0407-0409/p410-x0000-y0000.png",
+      "sha256": "f92292598df972d1e52204578dd6d6b17194e77590945faa08af9b710cda9ba4",
+      "native_bounds": [
+        0,
+        0,
+        2000,
+        808
+      ],
+      "coordinate_space": "composite raster",
+      "dimensions": [
+        2000,
+        808
+      ],
+      "parent_composite_sha256": "72961757276f716906eeb88e49aaea4c2ee32a2ddfb49b607fc9bca69a031df8",
+      "derivation": "Unscaled lossless crop of the complete composite rendering",
+      "pixel_identity_verified_against_composite": true
+    },
+    {
+      "pdf_page": 410,
+      "bdrc_image": null,
+      "source_member": "provider-PDF-page-410-full-composite",
+      "path": "diplomatic/evidence/chapter-01/continuation/C1-GCN/B01-P0407-0409/p410-x1000-y0000.png",
+      "sha256": "0840084874bcc3a70c2e273a33bbdc904c407bf666f8334e927a085f325cff92",
+      "native_bounds": [
+        1000,
+        0,
+        3000,
+        808
+      ],
+      "coordinate_space": "composite raster",
+      "dimensions": [
+        2000,
+        808
+      ],
+      "parent_composite_sha256": "72961757276f716906eeb88e49aaea4c2ee32a2ddfb49b607fc9bca69a031df8",
+      "derivation": "Unscaled lossless crop of the complete composite rendering",
+      "pixel_identity_verified_against_composite": true
+    }
+  ],
+  "reading_claim": "None: rendering does not establish glyph readings",
+  "provider_container_page_count": 1595,
+  "base_reference": {
+    "path": "diplomatic/evidence/chapter-01/continuation/C1-GCN/B01-P0407-0409/base-reference.json",
+    "sha256": "8845f57af10f2b6de491ed9f6ddf0fe4d8332841440ab54bb6121862a387f940"
+  }
+}

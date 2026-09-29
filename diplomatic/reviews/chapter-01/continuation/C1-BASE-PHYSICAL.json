@@ -17323,11 +17323,35 @@
       "rows_actually_compared": [],
       "observations": [],
       "canonical_record_ids": []
+    },
+    {
+      "batch_id": "B14-P0017-0019",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-BASE-PHYSICAL-B14-P0017-0019",
+      "baseline_commit": "fd80ddca46c1f01b50761d9488426fc8390a4b4f",
+      "target_pages": [
+        17,
+        18,
+        19
+      ],
+      "source_pages": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "scope": "Read these three disjoint target pages in full, preserving exact source order, headings/notes, signs, margins and every bounded unresolved glyph. Neighboring pages are only joins. Earlier independently assigned target pages are not part of this coverage. Preserve the saved main lexical pass and finish physical accounting.",
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B14-P0017-0019/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B14-P0017-0019-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
     }
   ],
   "remaining_declared_scope": "All unlisted physical dimensions on PDF1-5, plus PDF6-102; existing lexical pass and verified local signs retained. Next sub-batches complete page3,4,5 separately, with the exact prior record references supplied.",
   "protocol": "coverage_review",
-  "current_batch_id": "B13-P0014-0016",
+  "current_batch_id": "B14-P0017-0019",
   "next_physical_span": "PDF4 full physical inventory and remaining page1/2/5 scopes; PDF3 has explicitly bounded remaining graphic questions, not unread whole rows.",
   "current_wave_id": "CONTINUE2-W03"
 }

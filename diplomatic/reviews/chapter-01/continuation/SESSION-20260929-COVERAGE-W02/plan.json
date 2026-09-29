@@ -20,7 +20,10 @@
       "lo": 340,
       "hi": 450,
       "kind": "physical",
-      "scope": "Read these three disjoint target pages in full, preserving exact source order, headings/notes, signs, margins and every bounded unresolved glyph. Neighboring pages are only joins. Earlier independently assigned target pages are not part of this coverage. Preserve the saved main lexical pass and finish physical accounting."
+      "scope": "Read these three disjoint target pages in full, preserving exact source order, headings/notes, signs, margins and every bounded unresolved glyph. Neighboring pages are only joins. Earlier independently assigned target pages are not part of this coverage. Preserve the saved main lexical pass and finish physical accounting.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B14-P0017-0019/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B14-P0017-0019-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B14-P0017-0019-reader-spec.json"
     },
     {
       "task": "C1-TINGKYE",
@@ -41,7 +44,10 @@
       "lo": 550,
       "hi": 770,
       "kind": "continuous",
-      "scope": "Read these three disjoint target pages in full, preserving exact source order, headings/notes, signs, margins and every bounded unresolved glyph. Neighboring pages are only joins. Earlier independently assigned target pages are not part of this coverage. The base is only a broad alignment aid, never source testimony."
+      "scope": "Read these three disjoint target pages in full, preserving exact source order, headings/notes, signs, margins and every bounded unresolved glyph. Neighboring pages are only joins. Earlier independently assigned target pages are not part of this coverage. The base is only a broad alignment aid, never source testimony.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B11-P0017-0019/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B11-P0017-0019-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B11-P0017-0019-reader-spec.json"
     },
     {
       "task": "C1-TSAMDRAK",
@@ -62,7 +68,10 @@
       "lo": 760,
       "hi": 975,
       "kind": "continuous",
-      "scope": "Read these three disjoint target pages in full, preserving exact source order, headings/notes, signs, margins and every bounded unresolved glyph. Neighboring pages are only joins. Earlier independently assigned target pages are not part of this coverage. The base is only a broad alignment aid, never source testimony."
+      "scope": "Read these three disjoint target pages in full, preserving exact source order, headings/notes, signs, margins and every bounded unresolved glyph. Neighboring pages are only joins. Earlier independently assigned target pages are not part of this coverage. The base is only a broad alignment aid, never source testimony.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B11-P0027-0029/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B11-P0027-0029-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B11-P0027-0029-reader-spec.json"
     },
     {
       "task": "C1-DEGE",
@@ -83,7 +92,10 @@
       "lo": 650,
       "hi": 870,
       "kind": "continuous",
-      "scope": "Read these three disjoint target pages in full, preserving exact source order, headings/notes, signs, margins and every bounded unresolved glyph. Neighboring pages are only joins. Earlier independently assigned target pages are not part of this coverage. The base is only a broad alignment aid, never source testimony."
+      "scope": "Read these three disjoint target pages in full, preserving exact source order, headings/notes, signs, margins and every bounded unresolved glyph. Neighboring pages are only joins. Earlier independently assigned target pages are not part of this coverage. The base is only a broad alignment aid, never source testimony.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B09-P0015-0017/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B09-P0015-0017-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B09-P0015-0017-reader-spec.json"
     },
     {
       "task": "C1-ADZOM1973",
@@ -105,7 +117,10 @@
       "lo": 1,
       "hi": 65,
       "kind": "composite",
-      "scope": "Full-composite provider PDF11–13, root title and opening. These are printed1–3 by the saved boundary mapping, not three separate witnesses. Inventory actual exposed frames/leaves, title and foreign text, caption/illustration and source notes plus every main row and boundary. Reference is Adzom2000, not proof of this related manifestation. PDF14 is outgoing context only."
+      "scope": "Full-composite provider PDF11–13, root title and opening. These are printed1–3 by the saved boundary mapping, not three separate witnesses. Inventory actual exposed frames/leaves, title and foreign text, caption/illustration and source notes plus every main row and boundary. Reference is Adzom2000, not proof of this related manifestation. PDF14 is outgoing context only.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-ADZOM1973/B01-P0011-0013/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-ADZOM1973-B01-P0011-0013-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-ADZOM1973-B01-P0011-0013-reader-spec.json"
     },
     {
       "task": "C1-GCN",
@@ -127,10 +142,14 @@
       "lo": 1,
       "hi": 110,
       "kind": "composite",
-      "scope": "Full-composite provider PDF407–409, title, illustrated opening and first continuation. Provider numbers are not BDRC preview-image indices. Inventory actual exposed leaves/frames and composite layers, title, foreign text, captions, each main row, smaller notes, margins and punctuation. The first embedded image alone is not the source page. PDF410 is context only. Retain exact cursive-reading limits."
+      "scope": "Full-composite provider PDF407–409, title, illustrated opening and first continuation. Provider numbers are not BDRC preview-image indices. Inventory actual exposed leaves/frames and composite layers, title, foreign text, captions, each main row, smaller notes, margins and punctuation. The first embedded image alone is not the source page. PDF410 is context only. Retain exact cursive-reading limits.",
+      "manifest": "diplomatic/evidence/chapter-01/continuation/C1-GCN/B01-P0407-0409/manifest.json",
+      "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-GCN-B01-P0407-0409-reader",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-GCN-B01-P0407-0409-reader-spec.json"
     }
   ],
-  "status": "planned_not_read",
+  "status": "prepared_requests_pending_checkpoint",
   "maximum_parallel_readers": 6,
-  "chapter_complete": false
+  "chapter_complete": false,
+  "prepared_at_commit": "fd80ddca46c1f01b50761d9488426fc8390a4b4f"
 }

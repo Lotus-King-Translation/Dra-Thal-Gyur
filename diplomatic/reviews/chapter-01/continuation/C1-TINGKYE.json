@@ -15710,6 +15710,30 @@
       "rows_actually_compared": [],
       "observations": [],
       "canonical_record_ids": []
+    },
+    {
+      "batch_id": "B11-P0017-0019",
+      "status": "claimed_prepared_not_read",
+      "owner": "reader-C1-TINGKYE-B11-P0017-0019",
+      "baseline_commit": "fd80ddca46c1f01b50761d9488426fc8390a4b4f",
+      "target_pages": [
+        17,
+        18,
+        19
+      ],
+      "source_pages": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "scope": "Read these three disjoint target pages in full, preserving exact source order, headings/notes, signs, margins and every bounded unresolved glyph. Neighboring pages are only joins. Earlier independently assigned target pages are not part of this coverage. The base is only a broad alignment aid, never source testimony.",
+      "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B11-P0017-0019/manifest.json",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B11-P0017-0019-reader-spec.json",
+      "rows_actually_compared": [],
+      "observations": [],
+      "canonical_record_ids": []
     }
   ],
   "remaining_declared_scope": "PDF3 local uncertainties/signs/margins; PDF4 rows4-7 and listed questions; PDF5 all; PDF6 outside U180-184 junction; PDF7 all; remainder of declared witness coverage unchanged.",
@@ -15765,7 +15789,7 @@
     }
   ],
   "prior_material_limits": "Archived61-69 commands and the retained 176-finding summary are hypotheses/provenance, not a recovered continuous body or new scan agreement. No archived script was executed. Current PDF6 junction review supersedes the old U183/U184 absence and U182 nas-addition claims. Earlier opening and boundary records remain partial.",
-  "current_batch_id": "B10-P0014-0016",
+  "current_batch_id": "B11-P0017-0019",
   "next_physical_span": "PDF5 row1, U00127 outgoing join and U00128 onward; PDF4 targeted glyph and marginal questions remain visible.",
   "current_wave_id": "CONTINUE2-W03"
 }

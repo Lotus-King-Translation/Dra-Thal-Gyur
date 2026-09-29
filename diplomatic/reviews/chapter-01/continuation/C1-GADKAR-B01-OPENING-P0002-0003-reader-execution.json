@@ -1,5 +1,5 @@
 {
-  "status": "running_not_accepted",
+  "status": "captured_requires_coordinator_review",
   "specification": "diplomatic/reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader-spec.json",
   "request_sha256": "803cf02f5fe2b7743d54f385489f7bb53a9526f495ab14805bad7eb4cfff94f8",
   "images": [
@@ -220,5 +220,14 @@
     4
   ],
   "sandbox": "read-only",
-  "editorial_decisions_made_by_wrapper": false
+  "editorial_decisions_made_by_wrapper": false,
+  "returncode": 0,
+  "unexpected_tool_items": [],
+  "unparseable_event_lines": 0,
+  "finished_at": "2026-09-29T15:33:07.175291+00:00",
+  "output_hashes": {
+    "diplomatic/reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt": "965421634abc8d5c0814cfd65aa596865284703493c7bea74e3a5b4aa62a2dce",
+    "diplomatic/reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader-session.jsonl": "bd7254f3ba23641365776fd1159381eb82f954d89c7c9254602b659d2a7f938f",
+    "diplomatic/reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader-stderr.txt": "3b41baeaf92f7b4f6a17c77a818f44126a3a69067e42749b76909bd5b7d9b88a"
+  }
 }

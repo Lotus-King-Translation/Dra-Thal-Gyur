@@ -1,0 +1,529 @@
+{
+  "task_id": "C1-THARPALING",
+  "batch_id": "B01-P0004-0006",
+  "images_actually_inspected": {
+    "native_target_views": [1, 2, 3],
+    "overlapping_target_views": [6, 7, 8, 9, 10, 11],
+    "boundary_context_views": [4, 5, 12, 13],
+    "native_pages_inspected_before_overlaps": true,
+    "image_access_failure": null,
+    "method": "Direct inspection of the supplied images. No tools or OCR. This is an informed independent model reading; not blind review or credentialed human palaeography.",
+    "limitation": "Image access succeeded. Lexical recovery and fine graphic discrimination remain incomplete at the explicitly identified spans."
+  },
+  "source_location": [
+    {"pdf_page": 4, "bdrc_image": 8, "source_member": "0008.png", "role": "target"},
+    {"pdf_page": 5, "bdrc_image": 9, "source_member": "0009.png", "role": "target"},
+    {"pdf_page": 6, "bdrc_image": 10, "source_member": "0010.png", "role": "target"},
+    {"pdf_page": 3, "bdrc_image": 7, "source_member": "0007.png", "role": "incoming context"},
+    {"pdf_page": 7, "bdrc_image": 11, "source_member": "0011.png", "role": "outgoing context"}
+  ],
+  "target_scope": {
+    "pdf_pages": [4, 5, 6],
+    "physical_rows_per_page": 6,
+    "physical_rows_inspected": 18,
+    "task_type": "source collation",
+    "earlier_coverage": "The PDF1–3 attempt and PDF44–71 fragments are neither replaced nor recertified.",
+    "bounds_convention": "Approximate native-pixel rectangles [left,top,right,bottom], estimated visually; not measured coordinates. Q bounds and their questions occur once in the question ledger.",
+    "alignment_convention": "Anchor identifiers locate recognizable fragments, not agreement of every component within an anchor."
+  },
+  "legend": {
+    "[Q…]": "Unrecovered material at the stated position. No omitted letters are supplied by this token.",
+    "[V2]": "Two distinguishable detached upright elements in the complete inter-word interval. This records their gross appearance, not an equivalence to the base's double shad; fine heads, tiers and attached subsidiary strokes are not certified.",
+    "[V1]": "One distinguishable detached upright element.",
+    "་": "A syllable-separating dot where distinguishable; the transcription does not certify every faint dot.",
+    "O": "Curved opening ornament, separate from the lexical row.",
+    "H": "Detached short horizontal stroke, without a lexical or numerical interpretation.",
+    "F": "Continuous ruled frame or internal frame division, excluded from textual punctuation."
+  },
+  "rows": [
+    {
+      "pdf_page": 4,
+      "physical_row": 1,
+      "observed_sequence": "འགྲོ་དང་[Q401]་དང་ཉལ་བ་དང་[V2] བསྐྱོད་ཅིང་[Q402]་རྣམ་པ་རྣམས[V2] བར་སྣང་ཉིད་ལས་གཞན་ཅི་མིན[V2] རང་ལས་འོད་བྱུང་སྣང་བ་ལས[V2] ཉི་ཟླ་ལ་སོགས་འོད་མི་སྣང་[V2] གོས་མེད་འཇམ་པའི་ངང་ཚུལ་ཅན[V2] མཛེས་ཞིང་[Q403]",
+      "ordered_anchor_fragments": ["U00061", "U00062", "U00063", "U00064", "U00065", "U00066", "U00067: beginning"],
+      "signs": {"ordered_intervals": ["61/62:V2", "62/63:V2", "63/64:V2", "64/65:V2", "65/66:V2", "66/67:V2"], "fine_morphology": "uncertified"},
+      "source_annotations": []
+    },
+    {
+      "pdf_page": 4,
+      "physical_row": 2,
+      "observed_sequence": "ལྡན་པ་ལ[V2] བག་ཡངས་རྣམ་ཤེས་[Q404]་མེད་པར[V2] བསམ་གཏན་དང་པོར་གནས་པ་བཞིན[V2] མངོན་དུ་བྱ་དང་བྱེད་པ་བྲལ[V2] གཟུགས་མེད་ལས་ཀྱི་འགྱུར་བྱེད་ལྟར[V2] ཁམས་དང་གུད་བཅས་ལས་མི་སྣང་[V2] ཁྱད་པར་སྙིང་པོའི་[Q405]",
+      "ordered_anchor_fragments": ["U00067: ending", "U00068", "U00069", "U00070", "U00071", "U00072", "U00073: beginning"],
+      "signs": {"ordered_intervals": ["67/68:V2", "68/69:V2", "69/70:V2", "70/71:V2", "71/72:V2", "72/73:V2"], "right_edge_interval": "Q405"},
+      "source_annotations": []
+    },
+    {
+      "pdf_page": 4,
+      "physical_row": 3,
+      "observed_sequence": "དང་རྩ་གཅིག་[Q406]་ནི[V2] འཇའ་ཚོན་སྒྱུ་མ་ཇི་བཞིན་དུ[V2] སངས་རྒྱས་རྣམས་ཀྱི་[Q407] དེ་ཡི་ཁྱད་པར་སྟོན་པའི་གཟུགས[V2] རིས་ཅན་འོད་ཟེར་དཔག་ཏུ་མེད[V2] ང་ནི་ལྷ་བུ་དགའ་བྱེད་སྟེ[V2] དབང་ཕྱུག་[Q408]",
+      "ordered_anchor_fragments": ["U00074: continuation", "U00075", "U00076", "U00077", "U00078", "U00079", "U00080: beginning"],
+      "signs": {"ordered_intervals": ["74/75:V2", "75/76:V2", "76/77:Q407", "77/78:V2", "78/79:V2", "79/80:V2"], "right_edge": "Q408"},
+      "source_annotations": []
+    },
+    {
+      "pdf_page": 4,
+      "physical_row": 4,
+      "observed_sequence": "ནས[V2] སྟོན་པའི་གསུང་གི་[Q409] རང་བཞིན་གྱིས་ནི་བདེ་བ་རྙེད[V2] དེ་ཚེ་མཛད་པའི་བྱིན་རླབས་ལས[V2] དྲུག་ཅུ་རྩ་བཞིའི་[Q410]་ནི[V2] བར་སྣང་ཉིད་ལས་གཟུགས་བཀོད་པར[V2] སུས་ཀྱང་བྱས་པ་མེད་པར་སྣང་[V2] ཁྱད་པར་ཡང་",
+      "ordered_anchor_fragments": ["U00080: ending", "U00081", "U00082", "U00083", "U00084", "U00085", "U00086", "U00087: beginning"],
+      "signs": {"ordered_intervals": ["80/81:V2", "81/82:Q409", "82/83:V2", "83/84:V2", "84/85:V2", "85/86:V2", "86/87:V2"]},
+      "source_annotations": []
+    },
+    {
+      "pdf_page": 4,
+      "physical_row": 5,
+      "observed_sequence": "[Q411]་བཅུ་བདུན་ནི[V2] བསྟན་པ་དམ་པ་རྫོགས་པའི་ཕྱིར[V2] སྐུ་གསུང་ཐུགས་ཀྱི་[Q412] རྡོ་རྗེ་བཅས་དང་སྐུ་གཟུགས་ནི[V2] སུས་ཀྱང་བྱས་པ་མ་ཡིན་པར[V2] ཡེ་[Q413] སོ་སོའི་ལས་དང་[Q414] གསེར་གྱི་",
+      "ordered_anchor_fragments": ["U00087: continuation", "U00088", "U00089", "U00090", "U00091", "U00092: partial", "U00093: partial", "U00094: beginning"],
+      "signs": {"ordered_intervals": ["87/88:V2", "88/89:V2", "89/90:Q412", "90/91:V2", "91/92:V2", "92/93:Q413", "93/94:Q414"]},
+      "source_annotations": []
+    },
+    {
+      "pdf_page": 4,
+      "physical_row": 6,
+      "observed_sequence": "སྙིང་པོ་[Q415]་སྣང་[V2] ཀུན་དང་ལྷན་ཅིག་མ་ཡིན་ནོ[V2] དེས་ན་སྙིང་དང་འདྲ་བས་གསང་[V2] དངོས་གྲུབ་མཆོག་རྣམས་[Q416] འབད་ཅིང་རྩོལ་བ་མ་ཡིན་པས[V2] གང་སུ་འཕྲད་པ་གྲོལ་བར་ངེས[V2] དེས་ན་རྫོགས་ཆེན་[Q417]",
+      "ordered_anchor_fragments": ["U00094: continuation", "U00095", "U00096", "U00097: partial", "U00098", "U00099", "U00100: beginning"],
+      "signs": {"ordered_intervals": ["94/95:V2", "95/96:V2", "96/97:V2", "97/98:Q416", "98/99:V2", "99/100:V2"], "page_exit": "Q417"},
+      "source_annotations": []
+    },
+    {
+      "pdf_page": 5,
+      "physical_row": 1,
+      "observed_sequence": "བྱ་རྩོལ་བྲལ[V2] གཞན་འབད་པ་ལས་བྱུང་བ་མིན[V2] སངས་རྒྱས་[Q501]་ཡིས[V2] ཡེ་ཐོག་ནས་ནི་[Q502] ཆོས་ཀྱི་སྐུ་ལ་[Q503] ལས་ཅན་[Q504]",
+      "ordered_anchor_fragments": ["U00100: ending", "U00101", "U00102: partial", "U00103: partial", "U00104: partial", "U00105: beginning"],
+      "signs": {"ordered_intervals": ["100/101:V2", "101/102:V2", "102/103:V2", "103/104:Q502", "104/105:Q503"], "opening_ornament": "listed separately"},
+      "source_annotations": []
+    },
+    {
+      "pdf_page": 5,
+      "physical_row": 2,
+      "observed_sequence": "[Q505] དེ་ལྟར་དངོས་ཀྱི་བསྟན་པ་ལས[V2] གཟུགས་བརྙན་[Q506] སུས་ཀྱང་བརྗོད་དུ་མེད་པར་ནི[V2] ནམ་མཁའ་[Q507] ཚིག་རྣམས་[Q508]",
+      "ordered_anchor_fragments": ["U00107", "U00108: partial", "U00109", "U00110: partial", "U00111: beginning"],
+      "signs": {"ordered_intervals": ["initial intervals:Q505", "107/108:V2", "108/109:Q506", "109/110:V2", "110/111:Q507"], "row_exit": "Q508"},
+      "source_annotations": []
+    },
+    {
+      "pdf_page": 5,
+      "physical_row": 3,
+      "observed_sequence": "གྱི་ཐོག་མར་ཡང་[V2] དགུ་གཉིས་བཞི་ཡི་[Q509] ཚངས་པ་ཆེན་པོའི་[Q510] དེ་ནས་ཆོས་ཉིད་ནམ་མཁའ་ལས[V2] ཁྱབ་འཇུག་ཆེན་པོའི་[Q511]",
+      "ordered_anchor_fragments": ["U00111: ending", "U00112: partial", "U00113: partial", "U00114", "U00115: beginning"],
+      "signs": {"ordered_intervals": ["111/112:V2", "112/113:Q509", "113/114:Q510", "114/115:V2"], "row_exit": "Q511"},
+      "source_annotations": []
+    },
+    {
+      "pdf_page": 5,
+      "physical_row": 4,
+      "observed_sequence": "ནི[V2] བྱིན་གྱིས་[Q512] དེ་ནས་ཕྱོགས་བྲལ་ནམ་མཁའ་ལས[V2] ཀ་ལ་པིང་ཀའི་[Q513] བསྟན་པ་ཀུན་གྱི་བཅུད་[Q514] རྒྱུད་ཀྱི་རྒྱལ་པོ་འདི་ཉིད་ནི[V2] ཚིག་རྣམས་[Q515]",
+      "ordered_anchor_fragments": ["U00115: ending", "U00116: partial", "U00117", "U00118: partial", "U00119: partial", "U00120", "U00121: beginning"],
+      "signs": {"ordered_intervals": ["115/116:V2", "116/117:Q512", "117/118:V2", "118/119:Q513", "119/120:Q514", "120/121:V2"], "row_exit": "Q515"},
+      "source_annotations": []
+    },
+    {
+      "pdf_page": 5,
+      "physical_row": 5,
+      "observed_sequence": "ཀུན་[Q516] བརྒྱ་ཕྲག་གསུམ་དང་དྲུག་ཅུ་ཡི[V2] སྒྲ་ལས་དྲངས་ཏེ་སྟོན་པས་གསུངས[V2] དེ་ནས་འབྱུང་བ་སོ་སོའི་སྒྲ[V2] བྱེད་རྒྱུ་ཚ་དང་[Q517] སོ་སོའི་[Q518]",
+      "ordered_anchor_fragments": ["U00121: continuation", "U00122", "U00123", "U00124", "U00125: partial", "U00126: beginning"],
+      "signs": {"ordered_intervals": ["121/122:Q516", "122/123:V2", "123/124:V2", "124/125:V2", "125/126:Q517"], "row_exit": "Q518"},
+      "source_annotations": []
+    },
+    {
+      "pdf_page": 5,
+      "physical_row": 6,
+      "observed_sequence": "[Q519] སྟོན་པས་བྱིན་གྱིས་[Q520] ཁྱད་པར་འབྱེད་རྒྱུའི་གསུང་ལ་ཡང་[V2] སྒྲ་ཚིག་རྣམས་ནི་འབྱུང་བའི་གཞི[V2] ཡན་ལག་དྲུག་ཅུར་[Q521] རང་སྣང་འདུས་པའི་[Q522]",
+      "ordered_anchor_fragments": ["U00127: partial", "U00128", "U00129", "U00130: partial", "U00131: beginning"],
+      "signs": {"ordered_intervals": ["initial interval:Q519", "127/128:Q520", "128/129:V2", "129/130:V2", "130/131:Q521"], "page_exit": "Q522"},
+      "source_annotations": []
+    },
+    {
+      "pdf_page": 6,
+      "physical_row": 1,
+      "observed_sequence": "[Q601] དེ་ཡང་དགོངས་པ་[Q602] གསུང་ཚུལ་དགོངས་པ་[Q603] གཉེན་པོ་བསྡུས་དང་དབང་པོའི་དོན[V2] ཚིག་རྣམས་བསྡུས་ཏེ་སྣང་བར་བྱས[V2] དེ་མ་ཡིན་པའི་[Q604]",
+      "ordered_anchor_fragments": ["U00132: partial", "U00133: partial", "U00134", "U00135", "U00136: beginning"],
+      "signs": {"ordered_intervals": ["initial interval:Q601", "132/133:Q602", "133/134:Q603", "134/135:V2", "135/136:V2"], "row_exit": "Q604"},
+      "source_annotations": []
+    },
+    {
+      "pdf_page": 6,
+      "physical_row": 2,
+      "observed_sequence": "[Q605] སྒྲ་ཚིག་མིང་ལ་[Q606] ཀ་ལ་པིང་ཀའི་སྒྲ་རྣམས་ཀྱང་[V2] འདྲེན་དང་འཇུག་དང་སྙན་པའི་ཕྱིར[V2] གསལ་བྱེད་སྒྲ་དོན་བཅུ་གཉིས་ལས[V2] བརྗོད་ཚིག་[Q607]",
+      "ordered_anchor_fragments": ["U00138: partial", "U00139", "U00140", "U00141", "U00142: beginning"],
+      "signs": {"ordered_intervals": ["initial interval:Q605", "138/139:Q606", "139/140:V2", "140/141:V2", "141/142:V2"], "row_exit": "Q607"},
+      "source_annotations": []
+    },
+    {
+      "pdf_page": 6,
+      "physical_row": 3,
+      "observed_sequence": "[Q608] ཚངས་པའི་དབྱངས་ལ་[Q609] ངེས་པའི་རྗོད་བྱེད་[Q610] རིང་བྱེད་སུམ་ཅུར་ངེས་པར་བསྡུས[V2] དེ་ལ་གསལ་བྱེད་བཅུ་དྲུག་གོ[V2] རྟོགས་[Q611]་ཡན་ལག་དྲུག་ཅུ་གཉིས[V2] [Q612]",
+      "ordered_anchor_fragments": ["U00144: partial", "U00145: partial", "U00146", "U00147", "U00148: partial"],
+      "signs": {"ordered_intervals": ["initial interval:Q608", "144/145:Q609", "145/146:Q610", "146/147:V2", "147/148:V2", "after148:V2"], "row_exit": "Q612"},
+      "source_annotations": []
+    },
+    {
+      "pdf_page": 6,
+      "physical_row": 4,
+      "observed_sequence": "[Q613] ཁྱད་པར་བསྡུས་པའི་རིགས་གཉིས་ནི[V2] སྒྲ་དང་ཚིག་གི་[Q614] དེ་ཡི་དགོངས་པ་ཅི་ཞེ་ན[V2] སོ་སོའི་ལས་ཀྱི་[Q615] བསླབ་བྱའི་རྩ་བ་[Q616] རི་མོ་[Q617]",
+      "ordered_anchor_fragments": ["U00150", "U00151: partial", "U00152", "U00153: partial", "U00154: partial", "U00155: beginning"],
+      "signs": {"ordered_intervals": ["initial interval:Q613", "150/151:V2", "151/152:Q614", "152/153:V2", "153/154:Q615", "154/155:Q616"], "row_exit": "Q617"},
+      "source_annotations": []
+    },
+    {
+      "pdf_page": 6,
+      "physical_row": 5,
+      "observed_sequence": "[Q618] སྤྲུལ་པ་ལ་སོགས་[Q619] རྟག་ཏུ་དགོད་པའི་དོན་རྣམས་ཤེས[V2] དེ་ལྟར་གསུངས་པའི་ཆོ་འཕྲུལ་དུ[V2] རྒྱུད་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང་[V2] རྩ་བའི་སྒྲ་ཚིག་[Q620] ཐམས་ཅད་[Q621]",
+      "ordered_anchor_fragments": ["U00156: partial", "U00157", "U00158", "U00159", "U00160: partial", "U00161: beginning"],
+      "signs": {"ordered_intervals": ["initial interval:Q618", "156/157:Q619", "157/158:V2", "158/159:V2", "159/160:V2", "160/161:Q620"], "row_exit": "Q621"},
+      "source_annotations": []
+    },
+    {
+      "pdf_page": 6,
+      "physical_row": 6,
+      "observed_sequence": "[Q622] བསྟན་པ་དམ་པའི་[Q623] གསུངས་པས་འཁོར་བ་[Q624] འདི་ལ་ཡོན་ཏན་བསམ་འདས་སོ[V2] སྤྲུལ་པའི་བསྟན་པ་ཐོག་མར་ནི[V2] འདི་འབྱུང་བས་ནི་འཕེལ་བའོ[V2] ལུས་ཀུན་[Q625]",
+      "ordered_anchor_fragments": ["U00162: partial", "U00163: partial", "U00164", "U00165", "U00166", "U00167: beginning"],
+      "signs": {"ordered_intervals": ["initial interval:Q622", "162/163:Q623", "163/164:Q624", "164/165:V2", "165/166:V2", "166/167:V2"], "page_exit": "Q625"},
+      "source_annotations": []
+    }
+  ],
+  "non_main_regions": [
+    {
+      "pdf_page": 4,
+      "regions": [
+        {"kind": "frame", "code": "F", "approximate_native_bounds": [120, 68, 1885, 367], "description": "Outer rectangular rules and left internal division; not textual bars."},
+        {"kind": "left marginal label", "observed_sequence": "[Q4M]"},
+        {"kind": "small-text layer", "observed_sequence": null, "status": "No separate wording confidently isolated; unresolved fused strokes are retained within their main-row Q spans."}
+      ]
+    },
+    {
+      "pdf_page": 5,
+      "regions": [
+        {"kind": "frame", "code": "F", "approximate_native_bounds": [228, 71, 1968, 374], "description": "Outer rules and internal left/right divisions."},
+        {"kind": "opening ornament", "code": "O", "approximate_native_bounds": [294, 111, 345, 151], "description": "Curved white ornament with a detached upright element at its right; separated from the indented lexical beginning."},
+        {"kind": "isolated marks before main incipit", "observed_sequence": "[Q5H]"},
+        {"kind": "upper left marginal mark", "observed_sequence": "[Q5M1]"},
+        {"kind": "lower left marginal mark", "observed_sequence": "[Q5M2]"},
+        {"kind": "right exterior region", "observed_sequence": "[Q5R]"},
+        {"kind": "small-text layer", "observed_sequence": null, "status": "No independently readable small annotation isolated."}
+      ]
+    },
+    {
+      "pdf_page": 6,
+      "regions": [
+        {"kind": "frame", "code": "F", "approximate_native_bounds": [284, 67, 2088, 361], "description": "Outer rectangle and internal divisions, with pronounced white interference near some rules."},
+        {"kind": "left marginal label", "observed_sequence": "[Q6M]"},
+        {"kind": "right exterior region", "observed_sequence": "[Q6R]"},
+        {"kind": "small-text layer", "observed_sequence": null, "status": "Heavy merged and broken strokes prevent reliable isolation of any small-text layer in the questioned regions."}
+      ]
+    }
+  ],
+  "observations": [
+    {
+      "id": "O-3-ENTRY-CONTEXT",
+      "pdf_page": 3,
+      "anchors": ["U00060"],
+      "source_span": "ཕན་ཚུན་འཁོར་དང་ལངས་པར་བྱེད",
+      "base_span": "U00060",
+      "category": "incoming locator",
+      "neighboring_context": "Right end of the last physical row, preceding the target page's འགྲོ་དང་.",
+      "approximate_native_bounds": [1560, 308, 1845, 358],
+      "confidence": {"reading": "moderate", "alignment": "high", "placement": "high", "punctuation": "low"},
+      "rationale": "The terminal wording supplies an incoming correspondence; page proportions were not used as evidence."
+    },
+    {
+      "id": "O-4-ENTRY",
+      "pdf_page": 4,
+      "anchors": ["U00061", "U00062"],
+      "source_span": "འགྲོ་དང་[Q401]་དང་ཉལ་བ་དང་ … བསྐྱོད་ཅིང་",
+      "base_span": "U00061–U00062",
+      "category": "target entry",
+      "neighboring_context": "PDF3 terminal locator; PDF4 first physical row.",
+      "approximate_native_bounds": [180, 88, 710, 137],
+      "confidence": {"reading": "moderate", "alignment": "high", "placement": "high", "punctuation": "moderate"},
+      "rationale": "The readable initial and following words locate entry at U00061; Q401 and Q402 remain unresolved."
+    },
+    {
+      "id": "O-4-ROW23",
+      "pdf_page": 4,
+      "anchors": ["U00073", "U00074"],
+      "source_span": "ཁྱད་པར་སྙིང་པོའི་[Q405] / དང་རྩ་གཅིག་[Q406]་ནི",
+      "base_span": "U00073–U00074",
+      "category": "unresolved row join",
+      "neighboring_context": "U00072 precedes; འཇའ་ཚོན follows.",
+      "approximate_native_bounds": {"references": ["Q405", "Q406"]},
+      "confidence": {"reading": "partial", "alignment": "high", "placement": "high", "punctuation": "low"},
+      "rationale": "The exact right-edge letters and boundary interval are not supplied from the base."
+    },
+    {
+      "id": "O-4-U80",
+      "pdf_page": 4,
+      "anchors": ["U00080", "U00081"],
+      "source_span": "དབང་ཕྱུག་[Q408] / ནས … སྟོན་པའི་གསུང་གི་[Q409]",
+      "base_span": "U00080–U00081",
+      "category": "unresolved lexical and layer detail",
+      "neighboring_context": "ང་ནི་ལྷ་བུ་དགའ་བྱེད་སྟེ precedes.",
+      "approximate_native_bounds": {"references": ["Q408", "Q409"]},
+      "confidence": {"reading": "low within Q spans", "alignment": "high", "main_layer": "moderate", "small_layer": "unresolved"},
+      "rationale": "Neither the fused clause ending nor possible subsidiary strokes are resolved by the readable surrounding words."
+    },
+    {
+      "id": "O-4-U92-93",
+      "pdf_page": 4,
+      "anchors": ["U00092", "U00093"],
+      "source_span": "ཡེ་[Q413] … སོ་སོའི་ལས་དང་[Q414]",
+      "base_span": "U00092–U00093",
+      "category": "unresolved lexical reading",
+      "neighboring_context": "Between མ་ཡིན་པར and གསེར་གྱི་.",
+      "approximate_native_bounds": {"references": ["Q413", "Q414"]},
+      "confidence": {"reading": "partial", "alignment": "high", "placement": "high", "punctuation": "low"},
+      "rationale": "No agreement or variant is asserted for the unrecovered components."
+    },
+    {
+      "id": "O-4-EXIT",
+      "pdf_page": 4,
+      "anchors": ["U00099", "U00100"],
+      "source_span": "གང་སུ་འཕྲད་པ་གྲོལ་བར་ངེས … དེས་ན་རྫོགས་ཆེན་[Q417]",
+      "base_span": "U00099–U00100",
+      "category": "page exit",
+      "neighboring_context": "PDF5 begins with བྱ་རྩོལ་བྲལ.",
+      "approximate_native_bounds": [1390, 299, 1880, 355],
+      "confidence": {"reading": "moderate", "alignment": "high", "placement": "high", "exact_split": "unresolved"},
+      "rationale": "The words establish continuity at U00100, while the exact final letters on PDF4 remain Q417."
+    },
+    {
+      "id": "O-5-ENTRY",
+      "pdf_page": 5,
+      "anchors": ["U00100", "U00101"],
+      "source_span": "བྱ་རྩོལ་བྲལ … གཞན་འབད་པ་ལས་བྱུང་བ་མིན",
+      "base_span": "U00100 ending–U00101",
+      "category": "page entry",
+      "neighboring_context": "Indented main text after ornament and detached marks.",
+      "approximate_native_bounds": [492, 91, 950, 155],
+      "confidence": {"reading": "moderate", "alignment": "high", "placement": "high", "punctuation": "moderate"},
+      "rationale": "The opening ornament and detached marks are not incorporated into the lexical sequence."
+    },
+    {
+      "id": "O-5-U126",
+      "pdf_page": 5,
+      "anchors": ["U00126", "U00127"],
+      "source_span": "སོ་སོའི་[Q518] / [Q519] སྟོན་པས་བྱིན་གྱིས་",
+      "base_span": "U00126–U00127",
+      "category": "unresolved clause and row join",
+      "neighboring_context": "After the བྱེད་རྒྱུ་ཚ་དང་ clause; before ཁྱད་པར་འབྱེད་རྒྱུའི་.",
+      "approximate_native_bounds": {"references": ["Q518", "Q519"]},
+      "confidence": {"reading": "low within Q spans", "alignment": "moderate", "placement": "high", "numerical_wording": "unresolved"},
+      "rationale": "The base's numerical wording is not substituted for the damaged source."
+    },
+    {
+      "id": "O-5-EXIT",
+      "pdf_page": 5,
+      "anchors": ["U00130", "U00131"],
+      "source_span": "ཡན་ལག་དྲུག་ཅུར་[Q521] … རང་སྣང་འདུས་པའི་[Q522]",
+      "base_span": "U00130–U00131",
+      "category": "page exit",
+      "neighboring_context": "PDF6 has an unresolved opening before the recognizable U00132 phrase.",
+      "approximate_native_bounds": [1340, 303, 1925, 361],
+      "confidence": {"reading": "partial", "alignment": "high for quoted fragments", "placement": "high", "exact_join": "unresolved"},
+      "rationale": "U00131 is reached on PDF5; the precise split is not reconstructed."
+    },
+    {
+      "id": "O-6-ENTRY",
+      "pdf_page": 6,
+      "anchors": ["U00132", "U00133", "U00134"],
+      "source_span": "[Q601] དེ་ཡང་དགོངས་པ་[Q602] … གཉེན་པོ་བསྡུས་དང་དབང་པོའི་དོན",
+      "base_span": "U00132–U00134; preceding fragment unresolved",
+      "category": "partial incoming correspondence",
+      "neighboring_context": "PDF5 ends in the U00131 region.",
+      "approximate_native_bounds": [332, 77, 1415, 138],
+      "confidence": {"reading": "partial", "alignment": "moderate", "placement": "high", "exact_entry": "unresolved"},
+      "rationale": "The initial fused material remains Q601; it is not completed from U00131."
+    },
+    {
+      "id": "O-6-LOWER-ROWS",
+      "pdf_page": 6,
+      "anchors": ["U00148", "U00154", "U00156", "U00160"],
+      "source_span": "Q611; Q616; Q619; Q620",
+      "base_span": "Corresponding components of U00148, U00154, U00156 and U00160",
+      "category": "unresolved local components",
+      "neighboring_context": "Later readable clauses are retained independently in rows 3–5.",
+      "approximate_native_bounds": {"references": ["Q611", "Q616", "Q619", "Q620"]},
+      "confidence": {"reading": "low within Q spans", "alignment": "moderate", "placement": "high", "graphic_detail": "low"},
+      "rationale": "The damaged words are not inferred from the surrounding repeated syntax."
+    },
+    {
+      "id": "O-6-EXIT",
+      "pdf_page": 6,
+      "anchors": ["U00164", "U00165", "U00166", "U00167"],
+      "source_span": "འདི་ལ་ཡོན་ཏན་བསམ་འདས་སོ … འདི་འབྱུང་བས་ནི་འཕེལ་བའོ … ལུས་ཀུན་[Q625]",
+      "base_span": "U00164–U00167 beginning",
+      "category": "partial outgoing correspondence",
+      "neighboring_context": "Final physical row; PDF7 opening examined only for continuation.",
+      "approximate_native_bounds": [980, 284, 2040, 350],
+      "confidence": {"reading": "moderate for quoted fragments", "alignment": "moderate", "placement": "high", "exact_exit": "unresolved"},
+      "rationale": "The last securely locatable fragment is the beginning of U00167. Q625 prevents certification of the exact exit."
+    },
+    {
+      "id": "O-7-CONTEXT",
+      "pdf_page": 7,
+      "anchors": [],
+      "source_span": "[Q7E]",
+      "base_span": null,
+      "category": "unresolved outgoing flank",
+      "neighboring_context": "First lexical segment after the opening ornament.",
+      "approximate_native_bounds": {"reference": "Q7E"},
+      "confidence": {"reading": "insufficient", "alignment": "unresolved", "placement": "high", "punctuation": "low"},
+      "rationale": "I cannot securely transcribe the short opening segment; no exit correspondence is claimed from expected sequence alone."
+    },
+    {
+      "id": "O-4-GRAPHICS",
+      "pdf_page": 4,
+      "anchors": [],
+      "source_span": "Six main rows; left marginal label; frame.",
+      "base_span": null,
+      "category": "physical inventory limitation",
+      "neighboring_context": "Whole target page.",
+      "approximate_native_bounds": [120, 68, 1885, 367],
+      "confidence": {"row_count": "high", "main_vs_frame": "high", "separator_element_count": "moderate", "compound_mark_classification": "incomplete", "small_text_detection": "incomplete"},
+      "rationale": "V2 retains both detached upright elements, including next-leading elements. It does not certify simple versus compound forms."
+    },
+    {
+      "id": "O-5-GRAPHICS",
+      "pdf_page": 5,
+      "anchors": [],
+      "source_span": "Six main rows; indented opening; ornament; detached opening marks; margins.",
+      "base_span": null,
+      "category": "physical inventory limitation",
+      "neighboring_context": "Whole target page.",
+      "approximate_native_bounds": [228, 71, 2160, 374],
+      "confidence": {"row_count": "high", "main_vs_ornament": "high", "separator_element_count": "moderate", "compound_mark_classification": "incomplete", "small_text_detection": "incomplete"},
+      "rationale": "White-on-black presentation and broken strokes leave the listed lexical and non-main questions unresolved."
+    },
+    {
+      "id": "O-6-GRAPHICS",
+      "pdf_page": 6,
+      "anchors": [],
+      "source_span": "Six main rows; frame; marginal regions.",
+      "base_span": null,
+      "category": "physical inventory limitation",
+      "neighboring_context": "Whole target page.",
+      "approximate_native_bounds": [284, 67, 2170, 361],
+      "confidence": {"row_count": "high", "main_vs_frame": "high", "separator_element_count": "moderate", "compound_mark_classification": "incomplete", "small_text_detection": "incomplete"},
+      "rationale": "Fused and broken components are especially substantial at row beginnings. Readable later fragments do not resolve them."
+    }
+  ],
+  "unread_after_inspection": [
+    {"id": "Q401", "pdf_page": 4, "anchor": "U00061", "native_bounds": [264, 88, 343, 133], "exact_question": "What is the complete syllable between the first དང and the following དང?"},
+    {"id": "Q402", "pdf_page": 4, "anchor": "U00062", "native_bounds": [522, 87, 624, 136], "exact_question": "Read the stacked letters and ending between ཅིང and རྣམ་པ."},
+    {"id": "Q403", "pdf_page": 4, "anchor": "U00067", "native_bounds": [1770, 85, 1875, 132], "exact_question": "Read all remaining letters after མཛེས་ཞིང at the row edge."},
+    {"id": "Q404", "pdf_page": 4, "anchor": "U00068", "native_bounds": [425, 130, 484, 177], "exact_question": "Read the component between རྣམ་ཤེས and མེད་པར."},
+    {"id": "Q405", "pdf_page": 4, "anchor": "U00073", "native_bounds": [1750, 129, 1876, 180], "exact_question": "Read the complete right-edge remainder, its boundary signs and any following main-text syllable."},
+    {"id": "Q406", "pdf_page": 4, "anchor": "U00074", "native_bounds": [298, 173, 414, 219], "exact_question": "Read the fused components between རྩ་གཅིག and ནི."},
+    {"id": "Q407", "pdf_page": 4, "anchor": "U00076", "native_bounds": [859, 170, 1005, 220], "exact_question": "Read the clause ending after རྣམས་ཀྱི and distinguish every following detached sign."},
+    {"id": "Q408", "pdf_page": 4, "anchor": "U00080", "native_bounds": [1730, 172, 1877, 221], "exact_question": "Read the remaining fused letters after དབང་ཕྱུག; determine the exact word ending before next-row ནས."},
+    {"id": "Q409", "pdf_page": 4, "anchor": "U00081", "native_bounds": [360, 211, 562, 263], "exact_question": "Read the remainder after གསུང་གི and its full separator interval; distinguish subsidiary strokes from main letters."},
+    {"id": "Q410", "pdf_page": 4, "anchor": "U00084", "native_bounds": [1085, 212, 1173, 259], "exact_question": "Read the syllables between རྩ་བཞིའི and ནི."},
+    {"id": "Q411", "pdf_page": 4, "anchor": "U00087", "native_bounds": [184, 252, 258, 299], "exact_question": "Read the row-initial syllable before བཅུ་བདུན; do not supply it from the base."},
+    {"id": "Q412", "pdf_page": 4, "anchor": "U00089", "native_bounds": [682, 251, 861, 302], "exact_question": "Read the remainder after ཐུགས་ཀྱི and inventory the entire following interval."},
+    {"id": "Q413", "pdf_page": 4, "anchor": "U00092", "native_bounds": [1310, 251, 1534, 306], "exact_question": "Read the complete sequence after ཡེ through its separator; distinguish possible small strokes from main-text letters."},
+    {"id": "Q414", "pdf_page": 4, "anchor": "U00093", "native_bounds": [1665, 253, 1795, 309], "exact_question": "Read the remainder after ལས་དང and all signs before གསེར་གྱི."},
+    {"id": "Q415", "pdf_page": 4, "anchor": "U00094", "native_bounds": [254, 294, 314, 339], "exact_question": "Read the components between སྙིང་པོ and སྣང."},
+    {"id": "Q416", "pdf_page": 4, "anchor": "U00097", "native_bounds": [995, 294, 1164, 345], "exact_question": "Read the clause ending after མཆོག་རྣམས and its separator."},
+    {"id": "Q417", "pdf_page": 4, "anchor": "U00100", "native_bounds": [1770, 302, 1880, 356], "exact_question": "Read every final component after རྫོགས་ཆེན and establish the exact division before PDF5."},
+    {"id": "Q4M", "pdf_page": 4, "anchor": null, "native_bounds": [143, 169, 182, 287], "exact_question": "Read the vertical marginal label and distinguish letters, any numeral and the adjacent frame."},
+
+    {"id": "Q501", "pdf_page": 5, "anchor": "U00102", "native_bounds": [1023, 90, 1210, 149], "exact_question": "Read the sequence between སངས་རྒྱས and the visible final ཡིས."},
+    {"id": "Q502", "pdf_page": 5, "anchor": "U00103", "native_bounds": [1390, 84, 1551, 145], "exact_question": "Read the remainder after ནས་ནི and the complete boundary interval."},
+    {"id": "Q503", "pdf_page": 5, "anchor": "U00104", "native_bounds": [1665, 82, 1844, 143], "exact_question": "Read the remainder after སྐུ་ལ and distinguish its separator from following letter limbs."},
+    {"id": "Q504", "pdf_page": 5, "anchor": "U00105", "native_bounds": [1890, 84, 1928, 141], "exact_question": "Determine whether any letters follow ལས་ཅན before the row edge and read them."},
+    {"id": "Q505", "pdf_page": 5, "anchor": null, "native_bounds": [292, 145, 669, 207], "exact_question": "Read the entire damaged opening before དེ་ལྟར, including all clause boundaries and the exact continuation from row 1."},
+    {"id": "Q506", "pdf_page": 5, "anchor": "U00108", "native_bounds": [1080, 139, 1270, 199], "exact_question": "Read the remainder after གཟུགས་བརྙན and its full boundary interval."},
+    {"id": "Q507", "pdf_page": 5, "anchor": "U00110", "native_bounds": [1640, 134, 1860, 197], "exact_question": "Read the remainder after ནམ་མཁའ and the separator before ཚིག་རྣམས."},
+    {"id": "Q508", "pdf_page": 5, "anchor": "U00111", "native_bounds": [1890, 136, 1928, 191], "exact_question": "Read the exact final component at the row edge after ཚིག་རྣམས."},
+    {"id": "Q509", "pdf_page": 5, "anchor": "U00112", "native_bounds": [725, 187, 883, 247], "exact_question": "Read the remainder after བཞི་ཡི and all signs before ཚངས་པ."},
+    {"id": "Q510", "pdf_page": 5, "anchor": "U00113", "native_bounds": [1045, 181, 1203, 242], "exact_question": "Read the remainder after ཆེན་པོའི and its boundary signs."},
+    {"id": "Q511", "pdf_page": 5, "anchor": "U00115", "native_bounds": [1700, 174, 1928, 236], "exact_question": "Read the entire remainder after ཁྱབ་འཇུག་ཆེན་པོའི up to the row edge."},
+    {"id": "Q512", "pdf_page": 5, "anchor": "U00116", "native_bounds": [430, 229, 692, 288], "exact_question": "Read the remainder after བྱིན་གྱིས, preserving the actual particles, and inventory its separator."},
+    {"id": "Q513", "pdf_page": 5, "anchor": "U00118", "native_bounds": [1135, 221, 1297, 281], "exact_question": "Read the remainder after ཀ་ལ་པིང་ཀའི and all intervening signs."},
+    {"id": "Q514", "pdf_page": 5, "anchor": "U00119", "native_bounds": [1480, 220, 1589, 278], "exact_question": "Read the ending after བཅུད and the following boundary interval."},
+    {"id": "Q515", "pdf_page": 5, "anchor": "U00121", "native_bounds": [1875, 215, 1928, 273], "exact_question": "Read the row-edge remainder after ཚིག་རྣམས; establish whether any further syllable is on this row."},
+    {"id": "Q516", "pdf_page": 5, "anchor": "U00121", "native_bounds": [325, 270, 470, 328], "exact_question": "Read the sequence after row-initial ཀུན through its separator."},
+    {"id": "Q517", "pdf_page": 5, "anchor": "U00125", "native_bounds": [1480, 259, 1640, 316], "exact_question": "Read the remainder after ཚ་དང and the entire interval before སོ་སོའི."},
+    {"id": "Q518", "pdf_page": 5, "anchor": "U00126", "native_bounds": [1720, 258, 1928, 316], "exact_question": "Read the sequence after སོ་སོའི to the row edge without supplying the numerical wording from the base."},
+    {"id": "Q519", "pdf_page": 5, "anchor": null, "native_bounds": [292, 309, 430, 366], "exact_question": "Read the complete row-initial continuation and all signs before སྟོན་པས."},
+    {"id": "Q520", "pdf_page": 5, "anchor": "U00127", "native_bounds": [580, 309, 766, 365], "exact_question": "Read the remainder after བྱིན་གྱིས and the full separator interval."},
+    {"id": "Q521", "pdf_page": 5, "anchor": "U00130", "native_bounds": [1500, 300, 1646, 357], "exact_question": "Read the remainder after དྲུག་ཅུར and its separator."},
+    {"id": "Q522", "pdf_page": 5, "anchor": "U00131", "native_bounds": [1780, 299, 1928, 357], "exact_question": "Read the final source letters after འདུས་པའི and establish the exact split before PDF6."},
+    {"id": "Q5H", "pdf_page": 5, "anchor": null, "native_bounds": [425, 99, 487, 165], "exact_question": "Inventory the isolated upper speck/stroke and lower H-like stroke: distinguish ornament, filler, damage and any written sign without assigning a numeral."},
+    {"id": "Q5M1", "pdf_page": 5, "anchor": null, "native_bounds": [250, 167, 286, 209], "exact_question": "Read or graphically identify the upper left marginal mark without inferring its value."},
+    {"id": "Q5M2", "pdf_page": 5, "anchor": null, "native_bounds": [249, 222, 289, 279], "exact_question": "Read or graphically identify the lower left marginal mark independently of expected folio order."},
+    {"id": "Q5R", "pdf_page": 5, "anchor": null, "native_bounds": [2060, 163, 2150, 366], "exact_question": "Determine whether this exterior vertical band contains recoverable writing or only non-textual interference; no words recovered."},
+
+    {"id": "Q601", "pdf_page": 6, "anchor": null, "native_bounds": [333, 76, 497, 137], "exact_question": "Read the entire fused opening before དེ་ཡང, including any final words and separator from the preceding page."},
+    {"id": "Q602", "pdf_page": 6, "anchor": "U00132", "native_bounds": [650, 76, 770, 138], "exact_question": "Read the remainder after དགོངས་པ and its separator."},
+    {"id": "Q603", "pdf_page": 6, "anchor": "U00133", "native_bounds": [943, 78, 1093, 141], "exact_question": "Read the remainder after གསུང་ཚུལ་དགོངས་པ and the complete following interval."},
+    {"id": "Q604", "pdf_page": 6, "anchor": "U00136", "native_bounds": [1805, 83, 2040, 145], "exact_question": "Read all material after དེ་མ་ཡིན་པའི to the row edge, including any boundary and following clause beginning."},
+    {"id": "Q605", "pdf_page": 6, "anchor": null, "native_bounds": [333, 122, 547, 183], "exact_question": "Read the whole row-initial continuation before སྒྲ་ཚིག and inventory its terminal signs."},
+    {"id": "Q606", "pdf_page": 6, "anchor": "U00138", "native_bounds": [650, 124, 832, 183], "exact_question": "Read the remainder after མིང་ལ and its separator."},
+    {"id": "Q607", "pdf_page": 6, "anchor": "U00142", "native_bounds": [1780, 129, 2040, 191], "exact_question": "Read all remaining row material after བརྗོད་ཚིག; identify whether another clause starts before the edge."},
+    {"id": "Q608", "pdf_page": 6, "anchor": null, "native_bounds": [333, 163, 601, 226], "exact_question": "Read the complete opening before ཚངས་པའི and establish its clause boundary."},
+    {"id": "Q609", "pdf_page": 6, "anchor": "U00144", "native_bounds": [714, 166, 837, 226], "exact_question": "Read the remainder after དབྱངས་ལ and its separator."},
+    {"id": "Q610", "pdf_page": 6, "anchor": "U00145", "native_bounds": [979, 168, 1095, 228], "exact_question": "Read the clause ending after རྗོད་བྱེད and its separator."},
+    {"id": "Q611", "pdf_page": 6, "anchor": "U00148", "native_bounds": [1645, 170, 1717, 232], "exact_question": "Read the syllable immediately after རྟོགས; do not resolve it from the base's wording."},
+    {"id": "Q612", "pdf_page": 6, "anchor": null, "native_bounds": [1875, 169, 2040, 234], "exact_question": "Read the entire remaining row-edge sequence after the visible U00148 interval."},
+    {"id": "Q613", "pdf_page": 6, "anchor": null, "native_bounds": [333, 202, 503, 266], "exact_question": "Read the complete row-initial material before ཁྱད་པར and distinguish all detached signs."},
+    {"id": "Q614", "pdf_page": 6, "anchor": "U00151", "native_bounds": [906, 207, 1058, 271], "exact_question": "Read the ending after སྒྲ་དང་ཚིག་གི and its separator."},
+    {"id": "Q615", "pdf_page": 6, "anchor": "U00153", "native_bounds": [1455, 207, 1598, 272], "exact_question": "Read the remainder after ལས་ཀྱི and its boundary signs."},
+    {"id": "Q616", "pdf_page": 6, "anchor": "U00154", "native_bounds": [1730, 209, 1865, 274], "exact_question": "Read the wording after རྩ་བ and its separator without inferring a numerical expression."},
+    {"id": "Q617", "pdf_page": 6, "anchor": "U00155", "native_bounds": [1920, 211, 2040, 276], "exact_question": "Read every row-edge component following རི་མོ."},
+    {"id": "Q618", "pdf_page": 6, "anchor": null, "native_bounds": [333, 244, 507, 307], "exact_question": "Read the row-initial continuation before སྤྲུལ་པ and its boundary signs."},
+    {"id": "Q619", "pdf_page": 6, "anchor": "U00156", "native_bounds": [626, 244, 783, 307], "exact_question": "Read the remainder after ལ་སོགས and its full separator interval."},
+    {"id": "Q620", "pdf_page": 6, "anchor": "U00160", "native_bounds": [1700, 250, 1849, 314], "exact_question": "Read the remainder after རྩ་བའི་སྒྲ་ཚིག and its separator."},
+    {"id": "Q621", "pdf_page": 6, "anchor": "U00161", "native_bounds": [1920, 251, 2040, 315], "exact_question": "Read the complete row-edge remainder after ཐམས་ཅད."},
+    {"id": "Q622", "pdf_page": 6, "anchor": null, "native_bounds": [333, 282, 480, 347], "exact_question": "Read the complete row-initial continuation and all signs before བསྟན་པ."},
+    {"id": "Q623", "pdf_page": 6, "anchor": "U00162", "native_bounds": [616, 283, 758, 347], "exact_question": "Read the remainder after དམ་པའི and its separator."},
+    {"id": "Q624", "pdf_page": 6, "anchor": "U00163", "native_bounds": [891, 285, 1013, 349], "exact_question": "Read the remainder after འཁོར་བ and its full separator interval."},
+    {"id": "Q625", "pdf_page": 6, "anchor": "U00167", "native_bounds": [1870, 290, 2044, 355], "exact_question": "Read the complete page-final continuation after ལུས་ཀུན and establish the exact division before PDF7."},
+    {"id": "Q6M", "pdf_page": 6, "anchor": null, "native_bounds": [300, 158, 334, 262], "exact_question": "Read the vertical left marginal label and distinguish its components from the nearby frame; assign no expected numeral."},
+    {"id": "Q6R", "pdf_page": 6, "anchor": null, "native_bounds": [2090, 148, 2175, 356], "exact_question": "Determine whether the right exterior vertical region preserves writing; no lexical sequence securely recovered."},
+    {"id": "Q7E", "pdf_page": 7, "anchor": null, "native_bounds": [530, 92, 680, 151], "exact_question": "Read only the first lexical segment after the opening ornament to establish the outgoing join; do not complete it from expected anchor order."}
+  ],
+  "unexamined_spans": [
+    {
+      "kind": "actual target row omissions",
+      "spans": [],
+      "explanation": "Every physical main row was visually inspected left to right. Unrecovered text is explicitly Q-coded rather than treated as absent."
+    },
+    {
+      "kind": "incomplete target graphic work",
+      "spans": [
+        {"pdf_page": 4, "physical_rows": [1, 2, 3, 4, 5, 6], "scope": "Fine morphology of V2 intervals, faint tshegs and definitive separation of any small-note strokes."},
+        {"pdf_page": 5, "physical_rows": [1, 2, 3, 4, 5, 6], "scope": "Fine morphology of V2 intervals, faint tshegs and definitive separation of any small-note strokes."},
+        {"pdf_page": 6, "physical_rows": [1, 2, 3, 4, 5, 6], "scope": "Fine morphology of V2 intervals, faint tshegs and definitive separation of any small-note strokes."}
+      ],
+      "explanation": "These aspects were inspected but not resolved to the requested exhaustive sign-and-layer standard."
+    },
+    {
+      "kind": "deliberately excluded flanks",
+      "spans": [
+        {"pdf_page": 3, "scope": "All lexical collation except the terminal incoming locator."},
+        {"pdf_page": 7, "scope": "All lexical collation beyond the opening segment examined for the outgoing join."}
+      ]
+    }
+  ],
+  "next_physical_span": {
+    "pdf_page": 7,
+    "physical_row": 1,
+    "position": "First lexical segment after the opening ornament.",
+    "locator": "[Q7E]",
+    "secure_next_anchor": null,
+    "required_before_extending": "Resolve Q625 against Q7E; the exact PDF6–7 join remains open."
+  },
+  "coverage_assessment": {
+    "status": "partial collation, not a completed continuous ledger",
+    "target_pages_inspected": [4, 5, 6],
+    "target_rows_represented": 18,
+    "lexical_extent": "Recognizable fragments run from U00061 on PDF4 to the beginning of U00167 on PDF6. Q-coded material is not certified.",
+    "incoming_correspondence": "Established at the U00060/U00061 transition through quoted source words.",
+    "internal_page_correspondences": "PDF4–5 is located in U00100; PDF5–6 is located around U00131–U00132, with exact splits unresolved.",
+    "outgoing_correspondence": "Not securely completed.",
+    "punctuation_and_layers": "Gross separator elements and non-main regions recorded; exhaustive fine graphic and small-note discrimination remains incomplete.",
+    "witness_count": 1,
+    "overlap_views": "Repeated views of the same source pixels, not corroborating witnesses.",
+    "certification": "No complete chapter, witness, lexical, punctuation or annotation certification."
+  }
+}

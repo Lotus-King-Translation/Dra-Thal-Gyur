@@ -1,5 +1,5 @@
 {
-  "status": "running_not_accepted",
+  "status": "captured_requires_coordinator_review",
   "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B13-P0014-0016-reader-spec.json",
   "request_sha256": "e7d8c23b2d3cf6426b1cfe18229d944ce567a27e377faa32ebf94bec8d9a431b",
   "images": [
@@ -293,5 +293,14 @@
     17
   ],
   "sandbox": "read-only",
-  "editorial_decisions_made_by_wrapper": false
+  "editorial_decisions_made_by_wrapper": false,
+  "returncode": 0,
+  "unexpected_tool_items": [],
+  "unparseable_event_lines": 0,
+  "finished_at": "2026-09-29T15:33:11.251255+00:00",
+  "output_hashes": {
+    "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B13-P0014-0016-reader-reading.txt": "e02c7ff4fa937c94c8859233497fd126ebcfe250c715d0d79e6919d5f640d22b",
+    "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B13-P0014-0016-reader-session.jsonl": "71d6cc33633c15a06314b03e26d0992b156ff63616d474c5876f91ba18dd1bba",
+    "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B13-P0014-0016-reader-stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
 }

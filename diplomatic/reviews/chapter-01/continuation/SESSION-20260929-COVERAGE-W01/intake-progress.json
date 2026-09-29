@@ -1,0 +1,307 @@
+{
+  "captured": [
+    {
+      "task": "C1-BASE-UNCERTAINTIES",
+      "batch": "B04-TITLE-P0001-0002",
+      "receipt": {
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B04-TITLE-P0001-0002-reader-reading.txt",
+        "sha256": "ab9b11551a32f612b03ebccec2089ba6785bab2c3ca89a9c3320c2754332ee3d",
+        "images_hash_verified": 10,
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B04-TITLE-P0001-0002-reader-execution.json"
+      },
+      "rows": 8,
+      "observations": 18,
+      "questions": 18,
+      "coverage": {
+        "image_access_failure": null,
+        "method": "Direct reading of the supplied images; no tools, files, network or OCR used. Full-page layouts established physical rows; overlapping crops are views of the same pixels.",
+        "physical_coverage": "Both target pages represented throughout, including all seven principal physical rows, the caption, small heading, margins, illustration and frame boundaries.",
+        "lexical_completeness": "Partial: Q01–Q18 remain unresolved. In particular, this is not a complete decipherment of the foreign-script title or invocation.",
+        "review_status": "Informed independent model reading, not blind review or credentialed human palaeography; no chapter or witness certification."
+      },
+      "unexamined": {
+        "actual_target_omissions": [],
+        "deliberately_excluded_flanks": [
+          {
+            "pdf_page": 3,
+            "scope": "All lexical collation beyond the minimal outgoing locator ལས … འབྱུང་བ; remaining rows and marginal material are outside this batch."
+          }
+        ],
+        "qualification": "Q-coded spans were inspected but remain unread or graphically unresolved; they are not unexamined omissions."
+      },
+      "next": {
+        "pdf_page": 3,
+        "physical_row": 1,
+        "observed_locator": "ལས ⟦B⟧ ⟦B⟧ འབྱུང་བ",
+        "correspondence": "U00014 ends here; U00015 begins here. Further PDF3 transcription is excluded."
+      }
+    },
+    {
+      "task": "C1-TSAMDRAK",
+      "batch": "B10-P0024-0026",
+      "receipt": {
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-reading.txt",
+        "sha256": "637e7705c957bef6a9e24268ca89677fcb4e9a3c88545dc39ac32f45049afb3a",
+        "images_hash_verified": 16,
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B10-P0024-0026-reader-execution.json"
+      },
+      "rows": 21,
+      "observations": 36,
+      "questions": 22,
+      "coverage": {
+        "target_pages_examined": [
+          24,
+          25,
+          26
+        ],
+        "target_rows_examined": 21,
+        "target_rows_represented": 21,
+        "target_non_main_regions": "Inventoried, with unread marginal labels and isolated signs explicitly Q-coded.",
+        "exact_reading_status": "Incomplete only at the listed local Q components; subsequent readable text is retained throughout.",
+        "punctuation_status": "Whole boundary intervals represented by graphic codes; three crowded terminal intervals remain unresolved.",
+        "prior_coverage": "This response neither changes project records nor replaces or certifies an earlier lexical pass.",
+        "certification": "No complete chapter or witness certification."
+      },
+      "unexamined": {
+        "actual_target_omissions": [],
+        "examined_but_not_fully_deciphered": "The 22 Q-coded local components above; these are not skipped rows.",
+        "deliberately_excluded_flanks": [
+          {
+            "pdf_page": 23,
+            "scope": "Viewed for layout and incoming boundary context; no full lexical collation of rows 1–6 or the remainder of row 7."
+          },
+          {
+            "pdf_page": 27,
+            "scope": "Viewed for layout and outgoing boundary context; lexical collation beyond initial འགྱུར and the following short locator དེ་ཡི་ཡོན་བདག is excluded."
+          }
+        ]
+      },
+      "next": {
+        "pdf_page": 27,
+        "physical_row": 1,
+        "entry": "འགྱུར",
+        "alignment": "Completes U00782 after target-page འཛིན་པར.",
+        "following_locator": "དེ་ཡི་ཡོན་བདག",
+        "following_anchor": "U00783"
+      }
+    },
+    {
+      "task": "C1-ZHICHEN",
+      "batch": "B01-OPENING-P0002-0003",
+      "status": "captured_but_parse_or_verification_failed",
+      "error": "Expecting value: line 13 column 3272 (char 11126)"
+    },
+    {
+      "task": "C1-ZHICHEN",
+      "batch": "B02-BOUNDARY-P0102-0106",
+      "receipt": {
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B02-BOUNDARY-P0102-0106-reader-reading.txt",
+        "sha256": "345cfc5cbc0ab13c07f45b8ba560b3b0b286a48e8bfd6e09e7fc6f158b0b8996",
+        "images_hash_verified": 15,
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-ZHICHEN-B02-BOUNDARY-P0102-0106-reader-execution.json"
+      },
+      "rows": 30,
+      "observations": 5,
+      "questions": 8,
+      "coverage": {
+        "image_access_failure": null,
+        "candidate_pages_inspected": 5,
+        "physical_main_rows_searched": 30,
+        "colophon_transcribed": null,
+        "following_incipit_transcribed": null,
+        "incoming_base_correspondence": "Not securely established.",
+        "outgoing_base_correspondence": "Not securely established.",
+        "boundary_status": "Unlocated in this batch; unresolved writing remains explicitly bounded.",
+        "review_status": "Informed independent model inspection; not blind review, credentialed human palaeography, complete lexical collation or chapter/witness certification."
+      },
+      "unexamined": {
+        "actual_target_physical_omissions": [],
+        "deliberately_excluded_flanks": [],
+        "outside_requested_scope": "Full transcription, lexical collation and exhaustive sign allocation of running text represented by E. These areas were visually inspected for the boundary search.",
+        "unresolved_target_readings": [
+          "Q01",
+          "Q02",
+          "Q03",
+          "Q04",
+          "Q05",
+          "Q06",
+          "Q07",
+          "Q08"
+        ]
+      },
+      "next": {
+        "pdf_page": 107,
+        "physical_row": 1,
+        "status": "Not supplied or inspected; chronological continuation only, not a predicted boundary location."
+      }
+    },
+    {
+      "task": "C1-W1ER119",
+      "batch": "B01-OPENING-P0002-0003",
+      "receipt": {
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "6b90812b3088eb0ba30cfa23c63a085b9a781c6a5cfe20864c947ff8b2579bce",
+        "images_hash_verified": 10,
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-execution.json"
+      },
+      "rows": 16,
+      "observations": 16,
+      "questions": 25,
+      "coverage": {
+        "image_access_failure": null,
+        "method": "Informed independent model reading of the supplied images; not blind review or credentialed human palaeography.",
+        "target_pages_inspected": [
+          2,
+          3
+        ],
+        "physical_rows_inspected": 16,
+        "physical_rows_represented": 16,
+        "target_rows_skipped": 0,
+        "lexical_and_graphic_completion": "Incomplete at the 25 explicitly bounded Q items; subsequent readable rows were retained.",
+        "confidence_limit": "Uncoded readings and bar inventories remain provisional model readings, not pixel-level certification.",
+        "certification": "No complete chapter or witness certification; no earlier lexical-pass record is replaced."
+      },
+      "unexamined": {
+        "actual_target_omissions": [],
+        "deliberately_excluded_flanks": [
+          {
+            "pdf_page": 1,
+            "scope": "Full title and marginal-label transcription; inspected only as preceding context."
+          },
+          {
+            "pdf_page": 4,
+            "scope": "Full lexical collation beyond the brief first-row locator; inspected only as following context."
+          }
+        ]
+      },
+      "next": {
+        "pdf_page": 4,
+        "physical_row": 1,
+        "approximate_native_bounds": [
+          215,
+          85,
+          800,
+          173
+        ],
+        "observed_locator": "བརྒྱ་ཕྲག་",
+        "tentative_anchor": "U00122",
+        "status": "Context locator only; next full collation remains outstanding."
+      }
+    },
+    {
+      "task": "C1-LANGTANG",
+      "batch": "B01-BOUNDARY-P0102-0106",
+      "receipt": {
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-LANGTANG-B01-BOUNDARY-P0102-0106-reader-reading.txt",
+        "sha256": "81ddc6a3e7f52497172029eb3160b3e394de348459001a3acbff47f7c68f4ec1",
+        "images_hash_verified": 15,
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-LANGTANG-B01-BOUNDARY-P0102-0106-reader-execution.json"
+      },
+      "rows": 35,
+      "observations": 7,
+      "questions": 7,
+      "coverage": {
+        "boundary_search": "Completed for all five candidate pages and all 35 physical rows.",
+        "result_observations": [
+          "O104-01",
+          "O104-02",
+          "O104-03"
+        ],
+        "full_colophon_lexical_resolution": false,
+        "remaining_colophon_question": "Q01",
+        "existing_lexical_pass": "Neither replaced nor recertified.",
+        "witness_count": 1,
+        "crop_relationship": "Overlapping views of the same source pixels, not independent witnesses.",
+        "method": "Informed independent model reading of the attachments; not blind review or credentialed human palaeography. No tools, OCR, network or files used.",
+        "certification": "No complete chapter or witness certification claimed."
+      },
+      "unexamined": {
+        "actual_boundary_search_omissions": [],
+        "unresolved_boundary_text": [
+          "Q01"
+        ],
+        "deliberately_excluded": [
+          {
+            "span": "Unquoted portions of pages 102–103 and page 104 row 1",
+            "scope": "Full lexical and punctuation collation; rows were screened and short locators read."
+          },
+          {
+            "span": "Page 104 row 3 after མེད through page 106 row 7, including subsequent-chapter notes and marginal labels",
+            "scope": "Visually screened as boundary context; subsequent-chapter transcription and detailed physical inventory deliberately excluded."
+          },
+          {
+            "span": "Pages outside the five supplied native pages",
+            "scope": "Not available in this batch and not inspected."
+          }
+        ]
+      },
+      "next": {
+        "pdf_page": 104,
+        "physical_row": 3,
+        "position": "Immediately after the separator following incipit-final མེད.",
+        "status": "Beginning of deliberately untranscribed following-chapter material; further transcription requires a separate scope."
+      }
+    },
+    {
+      "task": "C1-DZONGSAR",
+      "batch": "B02-PHYSICAL-P0001-0003",
+      "receipt": {
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-reading.txt",
+        "sha256": "c29918ed1a1995dd827acb519c0ad7bd287d044bc9de81f5177eaf5e367b12f5",
+        "images_hash_verified": 11,
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-execution.json"
+      },
+      "rows": 9,
+      "observations": 14,
+      "questions": 14,
+      "coverage": {
+        "image_access_failure": null,
+        "method": "Direct inspection of attached images only; no tools, files, network or OCR used. Informed independent model reading, not blind review or credentialed human palaeography.",
+        "physical_inspection": "All three target page surfaces inspected; page 1 central row count is unrecoverable, and pages 2 and 3 each have four identifiable central text rows.",
+        "decoding_status": "Partial: all identifiable main rows are represented, with local uncertainty retained; foreign script, the page-1 field and label, and portions of the four captions remain Q-coded.",
+        "witness_independence": "Native views and overlapping crops are the same source pixels, not independent witnesses.",
+        "lexical_pass": "Existing continuous lexical-pass coverage preserved without wholesale recertification. No chapter or witness certification is claimed."
+      },
+      "unexamined": {
+        "actual_target_omissions": [],
+        "deliberately_excluded_flanks": [
+          {
+            "pdf_page": 4,
+            "scope": "All lexical collation beyond the initial continuation པས་བཅོས་པ་མེད; remaining rows, notes and margins are outside this batch."
+          }
+        ],
+        "distinction": "Q-coded target material was visually inspected but remains unread; it is not an unexamined omission."
+      },
+      "next": {
+        "pdf_page": 4,
+        "physical_row": 1,
+        "incoming_locator": "པས་བཅོས་པ་མེད",
+        "correspondence": "Continues page 3 row 4 རང་བྱུང་རིག་ at U00019.",
+        "status": "Boundary established only; no further page-4 recheck performed."
+      }
+    }
+  ],
+  "remaining_readers": [
+    [
+      "C1-BASE-PHYSICAL",
+      "B13-P0014-0016"
+    ],
+    [
+      "C1-TINGKYE",
+      "B10-P0014-0016"
+    ],
+    [
+      "C1-DEGE",
+      "B08-P0012-0014"
+    ],
+    [
+      "C1-THARPALING",
+      "B01-P0004-0006"
+    ],
+    [
+      "C1-GADKAR",
+      "B01-OPENING-P0002-0003"
+    ]
+  ],
+  "no_adoption": true
+}

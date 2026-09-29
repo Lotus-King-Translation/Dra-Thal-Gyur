@@ -1183,7 +1183,10 @@
       "completion_criteria": [
         "Apply every coverage_review criterion to the full stated scope; retain exact remaining spans until completed."
       ],
-      "report_paths": [],
+      "report_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-ADZOM1973.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-ADZOM1973.md"
+      ],
       "checkpoint_commit": null,
       "blocker": null,
       "dependency_policy": "preferred_order",
@@ -1227,7 +1230,10 @@
       "completion_criteria": [
         "Apply every coverage_review criterion to the full stated scope; retain exact remaining spans until completed."
       ],
-      "report_paths": [],
+      "report_paths": [
+        "diplomatic/reviews/chapter-01/continuation/C1-GCN.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-GCN.md"
+      ],
       "checkpoint_commit": null,
       "blocker": null,
       "dependency_policy": "preferred_order",
