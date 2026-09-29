@@ -57,6 +57,38 @@ def main() -> None:
         (output/'receipt.json').write_text(json.dumps(audit,ensure_ascii=False,indent=2)+'\n')
     save()
     try:
+        repair_ref = request.get('serialization_repair_receipt')
+        if repair_ref:
+            repair_path = inside(repair_ref)
+            assert repair_path.is_relative_to(review)
+            assert digest(repair_path) == request['serialization_repair_sha256']
+            repair = load(repair_path)
+            assert repair['original_report'] == plan['output_stem'] + '-reading.txt'
+            original_path = inside(repair['original_report'])
+            sidecar_path = inside(repair['parsed_sidecar'])
+            assert original_path.is_relative_to(review) and sidecar_path.is_relative_to(review)
+            assert original_path != sidecar_path and sidecar_path.suffix == '.json'
+            original = original_path.read_text(encoding='utf-8')
+            assert digest(original_path) == repair['original_sha256']
+            count = repair['occurrences']
+            assert type(count) is int and count > 0
+            assert original.count(repair['old_exact_fragment']) == count
+            expected = original.replace(repair['old_exact_fragment'], repair['new_exact_fragment'], count)
+            assert re.findall(r'[\u0f00-\u0fff]+', original) == re.findall(r'[\u0f00-\u0fff]+', expected)
+            payload = expected.encode('utf-8')
+            assert hashlib.sha256(payload).hexdigest() == repair['parsed_sha256']
+            parsed = json.loads(expected)
+            assert (parsed['task_id'], parsed['batch_id']) == (plan['task'], plan['batch'])
+            if sidecar_path.exists():
+                assert sidecar_path.read_bytes() == payload
+            else:
+                with sidecar_path.open('xb') as handle:
+                    handle.write(payload)
+            plan['serialization_repair_receipt'] = repair_ref
+            audit['serialization_repair'] = {'receipt': repair_ref,
+                'receipt_sha256': digest(repair_path), 'original_unchanged': True,
+                'sidecar': repair['parsed_sidecar'], 'sidecar_sha256': digest(sidecar_path)}
+            save()
         sys.path.insert(0,str(review/'SESSION-20260929-INTEGRATION'))
         sys.path.insert(0,str(review/'SESSION-20260929-CLOSE-INTEGRATION'))
         module = importlib.import_module('integrate_reviewed_batch')
