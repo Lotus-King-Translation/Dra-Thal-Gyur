@@ -4,7 +4,7 @@
   "canonical_branch": "main",
   "current_chapter": 1,
   "chapter_status": "in_progress_not_ready",
-  "next_task_id": "C1-BASE-UNCERTAINTIES",
+  "next_task_id": "C1-TINGKYE",
   "path_base": "repository root; JSON pointers identify records without changing their historical contents",
   "scope": "Continuation queue, not a whole-chapter collation claim. Thirty punctuation candidate identities remain tracked, including completed dispositions; unfinished items are hypotheses, not accepted readings. Existing Adzom and Dzongsar main lexical passes remain valid within their recorded scopes.",
   "reference_paths": [
@@ -427,7 +427,7 @@
       "id": "C1-BASE-UNCERTAINTIES",
       "kind": "base_uncertainties",
       "status": "in_progress",
-      "owner": "bounded-source-reader-COVERAGE-W01",
+      "owner": "ChatGPT-coordinator-20260929-integration",
       "depends_on": [
         "C1-BASE-LAYERS"
       ],
@@ -463,7 +463,7 @@
       "checkpoint_commit": "b3b10d56c395bc0896463c5e66e2974e35db1df1",
       "blocker": null,
       "dependency_policy": "preferred_order",
-      "current_batch_id": "B04-TITLE-P0001-0002",
+      "current_batch_id": null,
       "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate.",
       "current_batch_result": "U01522 component inventory extended without an adopted reading; next independent source question PDF101 U02615/U02620, while U01522 stays explicitly unresolved.",
       "prior_owner_at_reassignment": "reader-base-uncertainties-B01-20260928",
@@ -471,7 +471,7 @@
       "next_physical_span": "PDF102 S09 boundary inscription, then title/portrait scopes; preserve the unresolved PDF60/PDF101 findings without endlessly repeating identical evidence.",
       "current_wave_id": "CONTINUE2-W02",
       "bounded_parallel_policy": "Each reader owns one target page and at most three source pages including context; coordinator alone publishes and no unfinished page is inferred complete from a neighbor.",
-      "next_step": "Title and portrait scope on Adzom PDF1-2. Retain S09, U02635 dot count and marginal uncertainty.",
+      "next_step": "Retain Q01–Q18 and continue the remaining base physical coverage; do not restart PDF3. Obtain stronger source/independent evidence for foreign-script title, invocation and heading junction. The caption has only a partial reading, not full lexical or sign certification.",
       "current_claims": [
         {
           "batch_id": "B04-TITLE-P0001-0002",
@@ -482,7 +482,8 @@
           "scope": "Complete the physical title and illustrated-opening inventory on PDF1–2: every title/language-label line, foreign-script run, main row, source heading, caption, ornament and boundary. Do not fill damaged or foreign letters from a conventional Sanskrit title. Name and bound unresolved glyph groups; inherited partial reports are not a full title transcription. PDF3 is only outgoing context.",
           "status": "planned_not_read"
         }
-      ]
+      ],
+      "last_integrated_batch_id": "B04-TITLE-P0001-0002"
     },
     {
       "id": "C1-BASE-PHYSICAL",

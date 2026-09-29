@@ -2,7 +2,7 @@
 
 Updated 2026-09-29. **Chapter 1 is unfinished; Chapters 2–6 and the final colophon have not started.** Start at [HANDOFF.md](HANDOFF.md) for operational instructions and [WORK-QUEUE.json](WORK-QUEUE.json) for the next bounded task. This ledger records supported scholarly coverage and explicitly retained uncertainty; a saved inspection is not a whole-page collation.
 
-Preserved pre-continuation edition baseline: `afb5c5133357942267dc55fc60a1d22704d5ef08`. Current [Chapter 1](chapter-01.md) SHA-256: `7579a1b5cdbfd4cf242db3ab50c351e556f29570d09f93a5d8f2c58f99f09356`. See [C1-SIGNS-01](reviews/chapter-01/continuation/C1-SIGNS-01.md) and the [C1-SIGNS-02 review](reviews/chapter-01/continuation/C1-SIGNS-02.md); these local punctuation changes do not complete the edition.
+Preserved pre-continuation edition baseline: `afb5c5133357942267dc55fc60a1d22704d5ef08`. Current [Chapter 1](chapter-01.md) SHA-256: `5539f66992dfed5bffe5d5d1ed68821eda207408627c9e2320d2c1d2fe11fa88`. See [C1-SIGNS-01](reviews/chapter-01/continuation/C1-SIGNS-01.md) and the [C1-SIGNS-02 review](reviews/chapter-01/continuation/C1-SIGNS-02.md); these local punctuation changes do not complete the edition.
 
 ## What is already saved and integrated
 
@@ -112,3 +112,5 @@ Adzom PDF11–13 is now integrated: eighteen physical rows, seventy-five boundar
 Langtang Chapter1 endpoint is now freshly established at PDF104/provider111 row2, with its medial colophon Q01 unresolved. The three-triangle boundary graphic and following incipit crossing rows2–3 are recorded separately. This does not supply the missing continuous collation; subsequent-chapter content remains excluded. See [Langtang continuation](reviews/chapter-01/continuation/C1-LANGTANG.md).
 
 Adzom PDF14–16: eighteen source-ordered physical rows, margins, fillers and interleaved notes integrated from the preserved report; fourteen bounded questions remain. O15-3/O16-3 remain pending sign-adoption candidates; no canonical text changed.
+
+Adzom PDF1–2 title/illustrated-opening report integrated: title lines, four interrupted main rows, small source heading, margins and one physical caption row accounted for, with Q01–Q18 retained. S08 now displays a source-supported partial caption; the old proposal is retained in history. All 2,635 source anchors and thirteen restored main verses are unchanged.

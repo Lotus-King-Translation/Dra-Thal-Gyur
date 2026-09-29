@@ -6983,6 +6983,256 @@
       },
       "next_physical_span": "Integrate the already prepared B14/PDF17–19 reading when captured; incoming U00355 continuation དུ. Retain Q14P–Q16R and the two pending sign-adoption observations; no repeat of these three pages wholesale.",
       "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-BASE-UNCERTAINTIES",
+      "batch_id": "B04-TITLE-P0001-0002",
+      "target_pages": [
+        1,
+        2
+      ],
+      "report": "reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES.json",
+      "summary": "Adzom PDF1–2 title/illustrated-opening report integrated: title lines, four interrupted main rows, small source heading, margins and one physical caption row accounted for, with Q01–Q18 retained.",
+      "rows_reported": 8,
+      "canonical_record_ids": [],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "image_access_failure": null,
+        "method": "Direct reading of the supplied images; no tools, files, network or OCR used. Full-page layouts established physical rows; overlapping crops are views of the same pixels.",
+        "physical_coverage": "Both target pages represented throughout, including all seven principal physical rows, the caption, small heading, margins, illustration and frame boundaries.",
+        "lexical_completeness": "Partial: Q01–Q18 remain unresolved. In particular, this is not a complete decipherment of the foreign-script title or invocation.",
+        "review_status": "Informed independent model reading, not blind review or credentialed human palaeography; no chapter or witness certification."
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q01",
+          "pdf_page": 1,
+          "anchor": null,
+          "native_bounds": [
+            1780,
+            435,
+            1955,
+            600
+          ],
+          "exact_question": "What are the isolated ornate components at the far left of the upper title row, and are both lexical glyphs?"
+        },
+        {
+          "id": "Q02",
+          "pdf_page": 1,
+          "anchor": null,
+          "native_bounds": [
+            2080,
+            420,
+            3740,
+            620
+          ],
+          "exact_question": "What is the complete central foreign-script run, including its attached vowel and other subsidiary marks? No letters are supplied."
+        },
+        {
+          "id": "Q03",
+          "pdf_page": 1,
+          "anchor": null,
+          "native_bounds": [
+            3830,
+            465,
+            3990,
+            615
+          ],
+          "exact_question": "What is the isolated angular terminal component to the right of the foreign-script run: a lexical glyph or a nonlexical sign?"
+        },
+        {
+          "id": "Q04",
+          "pdf_page": 1,
+          "anchor": "U00002",
+          "native_bounds": [
+            2140,
+            585,
+            2325,
+            750
+          ],
+          "exact_question": "Which stacked consonants and vowel-length marks occur between the initial ར and the following རཤབྡ?"
+        },
+        {
+          "id": "Q05",
+          "pdf_page": 1,
+          "anchor": "U00002",
+          "native_bounds": [
+            2760,
+            565,
+            3230,
+            755
+          ],
+          "exact_question": "What are the exact stacked letters and subsidiary signs between མཧཱ and ནཱམ? Internal segmentation is unresolved."
+        },
+        {
+          "id": "Q06",
+          "pdf_page": 1,
+          "anchor": null,
+          "native_bounds": [
+            1165,
+            365,
+            1275,
+            455
+          ],
+          "exact_question": "What is the short upper component in the left margin, separate from the longer sideways label?"
+        },
+        {
+          "id": "Q07",
+          "pdf_page": 1,
+          "anchor": null,
+          "native_bounds": [
+            1165,
+            500,
+            1285,
+            965
+          ],
+          "exact_question": "What is the complete sideways marginal label, including its abraded lower end and any terminal sign?"
+        },
+        {
+          "id": "Q08",
+          "pdf_page": 2,
+          "anchor": "U00005",
+          "native_bounds": [
+            1400,
+            345,
+            1740,
+            495
+          ],
+          "exact_question": "What are the letters and subsidiary marks of the invocation between its separate bounding uprights? Internal word division is not securely read."
+        },
+        {
+          "id": "Q09",
+          "pdf_page": 2,
+          "anchor": "U00006",
+          "native_bounds": [
+            3225,
+            310,
+            3400,
+            495
+          ],
+          "exact_question": "Which stacked consonants and vowel-length marks lie between the initial ར and following རཤབྡ in this occurrence?"
+        },
+        {
+          "id": "Q10",
+          "pdf_page": 2,
+          "anchor": "U00006",
+          "native_bounds": [
+            3620,
+            285,
+            4050,
+            505
+          ],
+          "exact_question": "What is the exact middle sequence between མཧཱ and ནཱམ, including the elevated circular mark and underlying consonant stacks?"
+        },
+        {
+          "id": "Q11",
+          "pdf_page": 2,
+          "anchor": null,
+          "native_bounds": [
+            520,
+            500,
+            620,
+            835
+          ],
+          "exact_question": "What is the complete short sideways label in the left margin? No folio value is inferred."
+        },
+        {
+          "id": "Q12",
+          "pdf_page": 2,
+          "anchor": "U00012/U00013 boundary",
+          "native_bounds": [
+            1250,
+            775,
+            1325,
+            950
+          ],
+          "exact_question": "After the clear bar following གཅིག་ན, is the upright near the onset of འཁོར an additional detached bar or an attached letter limb?"
+        },
+        {
+          "id": "Q13",
+          "pdf_page": 2,
+          "anchor": "U00013/U00014 boundary",
+          "native_bounds": [
+            3150,
+            760,
+            3220,
+            925
+          ],
+          "exact_question": "At the onset of རང in the right panel, is there an independent next-leading upright beyond the panel rule, or only the initial letter's limb?"
+        },
+        {
+          "id": "Q14",
+          "pdf_page": 2,
+          "anchor": "U00014",
+          "native_bounds": [
+            3510,
+            760,
+            3620,
+            940
+          ],
+          "exact_question": "How is the ink immediately after བྱས allocated among the final letter's limbs, a separator and the adjoining small heading?"
+        },
+        {
+          "id": "Q15",
+          "pdf_page": 2,
+          "anchor": "U00011/U00014 physical junction",
+          "native_bounds": [
+            4275,
+            750,
+            4445,
+            925
+          ],
+          "exact_question": "Which final glyph or glyphs belong to the small heading after བཀོད, and which belong to the main text before མེད་པ? Is there an independent heading-final bar?"
+        },
+        {
+          "id": "Q16",
+          "pdf_page": 2,
+          "anchor": "A2000-C01-S08",
+          "native_bounds": [
+            2320,
+            925,
+            2545,
+            1050
+          ],
+          "exact_question": "What is the exact caption sequence after བརྒྱུད་གསུམ and before ཐོག, including consonant stacks and tshegs?"
+        },
+        {
+          "id": "Q17",
+          "pdf_page": 2,
+          "anchor": "A2000-C01-S08",
+          "native_bounds": [
+            2590,
+            930,
+            2650,
+            1050
+          ],
+          "exact_question": "What letters and vowel signs complete the first caption clause after ཐོག་མ? The base's ending is not supplied."
+        },
+        {
+          "id": "Q18",
+          "pdf_page": 2,
+          "anchor": "A2000-C01-S08",
+          "native_bounds": [
+            2640,
+            925,
+            2700,
+            1050
+          ],
+          "exact_question": "How many detached uprights occupy the complete interval between the first caption clause and སྟོན་པ, after excluding adjacent letter limbs?"
+        }
+      ],
+      "unexamined_spans": {
+        "actual_target_omissions": [],
+        "deliberately_excluded_flanks": [
+          {
+            "pdf_page": 3,
+            "scope": "All lexical collation beyond the minimal outgoing locator ལས … འབྱུང་བ; remaining rows and marginal material are outside this batch."
+          }
+        ],
+        "qualification": "Q-coded spans were inspected but remain unread or graphically unresolved; they are not unexamined omissions."
+      },
+      "next_physical_span": "Retain Q01–Q18 and continue the remaining base physical coverage; do not restart PDF3. Obtain stronger source/independent evidence for foreign-script title, invocation and heading junction. The caption has only a partial reading, not full lexical or sign certification.",
+      "reader_claims_require_coordinator_dispositions": true
     }
   ]
 }

@@ -1,0 +1,106 @@
+{
+  "baseline_commit": "32c837e0d48681805753d11a8fe08d32eb9bb63b",
+  "captured_at": "20260929T160902693373Z",
+  "paused_owned_reader_groups": [
+    65501,
+    65503,
+    65506,
+    65509,
+    65514,
+    65518
+  ],
+  "files": [
+    {
+      "path": "diplomatic/STATUS.json",
+      "bytes": 284170,
+      "sha256": "0de81500ccd5097d1564848ddea4fa2a15d42760cabb72df58973f0db1fa02b8"
+    },
+    {
+      "path": "diplomatic/VALIDATION.json",
+      "bytes": 1187,
+      "sha256": "f63911f50018ad6db5ad7aba6bbbf6948ae43febf5ffdc7c0eb65206c0bbfbf0"
+    },
+    {
+      "path": "diplomatic/WORK-QUEUE.json",
+      "bytes": 108682,
+      "sha256": "7ff93b7e635ad9c08b3d80ab6db8eef7b446709a225f38b262aa75481014db2c"
+    },
+    {
+      "path": "diplomatic/WORK-STATUS.md",
+      "bytes": 21428,
+      "sha256": "00ef88172d18ff24b66ce983ed1bd1fc72bf2eda0e604b0807fe0ddc94a2f2af"
+    },
+    {
+      "path": "diplomatic/chapter-01.md",
+      "bytes": 1469631,
+      "sha256": "5539f66992dfed5bffe5d5d1ed68821eda207408627c9e2320d2c1d2fe11fa88"
+    },
+    {
+      "path": "diplomatic/collation/chapter-01/ch1-scan-insertions.json",
+      "bytes": 58985,
+      "sha256": "097ad658ea3b73294f1738a7bf083cc24887b2d87b550426ed3af38663a8993a"
+    },
+    {
+      "path": "diplomatic/collation/chapter-01/scan-coverage.json",
+      "bytes": 267218,
+      "sha256": "53b36d010d83136c1ccaf7f5bd3d6bc9e3d1b998e0ee63b381b877ceccc638da"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES.json",
+      "bytes": 114008,
+      "sha256": "cf7e6462eddc1bc6f70747f50dde0ac513d4241d7c655c07277e0aa3158604ec"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES.md",
+      "bytes": 7240,
+      "sha256": "769fada3b72d0050ba95c5cff23e5f9fa765de0a60c298b180d6dc3d99b8d82a"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/C1-BASE-UNCERTAINTIES-B04-TITLE-P0001-0002-decisions.json",
+      "bytes": 4235,
+      "sha256": "78d99d1d5e40d05858280eb6be9605a9afcd7c2f68aa0df64833295a782f856d"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/C1-BASE-UNCERTAINTIES-B04-TITLE-P0001-0002-integration.json",
+      "bytes": 607,
+      "sha256": "ea6aa5a8bfd1b37945cc9048768bae87f79f0872c7762c6e8829a64cc0bbf042"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/caption-S08-adoption.json",
+      "bytes": 7311,
+      "sha256": "574ada0210377358cb3a19c963a09b5995102379d93d14e969d34d58e6410f5a"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/title-001-002-build.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/title-001-002-build.stdout",
+      "bytes": 284170,
+      "sha256": "0de81500ccd5097d1564848ddea4fa2a15d42760cabb72df58973f0db1fa02b8"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/title-001-002-reproducibility.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/title-001-002-reproducibility.stdout",
+      "bytes": 159,
+      "sha256": "dfdcfe28b6f2e8a726a86088aa8c99cbe3dbacdb6536958dd1315f72b7d54815"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/title-001-002-validation.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/title-001-002-validation.stdout",
+      "bytes": 1187,
+      "sha256": "f63911f50018ad6db5ad7aba6bbbf6948ae43febf5ffdc7c0eb65206c0bbfbf0"
+    }
+  ],
+  "message": "Integrate base title and portrait-caption evidence with explicit partial reading and preserved superseded caption",
+  "scope": "Reviewed project preservation snapshot; unfinished reader outputs are not accepted readings."
+}

@@ -90,3 +90,15 @@ The preserved independent report and the coordinator's native-page/context reins
 The colophon-closing pair, separated pre-inscription pair, compact inscription and subsequent upright remain distinct in the physical inventory. No new Unicode punctuation allocation is adopted. Exact dot multiplicity in U02635's `རྩ་་བ`, the small marginal label and S09's character identities remain open.
 
 S09's existing unresolved insertion has been enriched with this evidence and disposition. No Tibetan reading, source string, insertion identity, or order has changed. Continue the title/portrait uncertainty scope on PDF1–2; retain the named unresolved S09 questions without treating them as source absence or agreement.
+
+## B04-TITLE-P0001-0002 — preserved review integrated
+
+Adzom PDF1–2 title/illustrated-opening report integrated: title lines, four interrupted main rows, small source heading, margins and one physical caption row accounted for, with Q01–Q18 retained.
+
+[Unchanged raw report](C1-BASE-UNCERTAINTIES-B04-TITLE-P0001-0002-reader-reading.txt) · [Exact source and rows](C1-BASE-UNCERTAINTIES.json).
+
+The earlier provisional S08 caption is superseded by a supported partial transcription, not a reconstructed complete caption. Its historical wording remains verbatim in the insertion history. Title-script and invocation questions remain open. Caption line breaks are editorial clause divisions, not physical rows.
+
+**Remaining:** Retain Q01–Q18 and continue the remaining base physical coverage; do not restart PDF3. Obtain stronger source/independent evidence for foreign-script title, invocation and heading junction. The caption has only a partial reading, not full lexical or sign certification.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.

@@ -59,9 +59,9 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 **Portrait caption — provisional reading; editorial placement — [A2000-C01-S08](#a2000-c01-s08)**
 
-བརྒྱུད་པ་ཀུན་གྱི་ཐོག་མའི་གཞི།
+བརྒྱུད་གསུམ་⟦Q16⟧ཐོག་མ⟦Q17⟧ ⟦Q18⟧
 
-སྟོན་པ་ཀུན་ཏུ་བཟང་པོ་ལ་འདུད།།
+སྟོན་པ་ཀུན་བཟང་ཡབ་ཡུམ་ལ་འདུད ⟦D D⟧
 
 <a id="u00011"></a>
 
@@ -12513,17 +12513,17 @@ After [U02308](#u02308); before U02309. **main_text_restoration**.
 
 After [U00010](#u00010); before U00011. **source_caption_provisional**.
 
-**Reading:** བརྒྱུད་པ་ཀུན་གྱི་ཐོག་མའི་གཞི། / སྟོན་པ་ཀུན་ཏུ་བཟང་པོ་ལ་འདུད།།
+**Reading:** བརྒྱུད་གསུམ་⟦Q16⟧ཐོག་མ⟦Q17⟧ ⟦Q18⟧ / སྟོན་པ་ཀུན་བཟང་ཡབ་ཡུམ་ལ་འདུད ⟦D D⟧
 
 **Locator:** PDF 2; BDRC image 4; Caption below central portrait, outside the root-text frame. Anchor is editorial placement next to the opening homage, not the physical scan reading sequence.
 
-**Decision and reason:** Account for scan-only paratext separately; do not silently treat the portrait caption as root-text verse.
+**Decision and reason:** Correct the provisional caption against native PDF2 evidence. It is one physical row outside the root frame, displayed as two editorial clauses; no main verse is added. Preserve the previous proposal in history instead of silently normalizing the source caption.
 
-**Confidence:** medium. **Remaining uncertainty:** The caption is visibly present and absent from e-text. This reading agrees with the earlier provisional record and the current image, but small/abraded glyphs make it unsuitable to label fully settled; retain the facsimile and explicit provisional status.
+**Confidence:** Partial source reading: medium for first-clause fragments; stronger second-clause correspondence from the saved reader and coordinator. Remaining glyphs and inter-clause signs unresolved.. **Remaining uncertainty:** Q16 is the first-clause run after brgyud gsum and before thog; Q17 is its ending after thog ma; Q18 is the inter-clause sign interval. D denotes one detached pair of uprights, so D D records two spatially separated pairs without assigning ownership from spacing. All bracketed material is editorial, not printed lettering. The earlier full provisional caption is superseded, not retained as an alternate source reading.
 
 **Punctuation:** Tibetan tsheg/shad rendered as readable Unicode; this is a lexical reading transcription, not pixel-exact reproduction of space widths or line-fill marks.
 
-**Evidence:** [adzom-002-bottom.png](evidence/chapter-01/adzom-002-bottom.png)
+**Evidence:** [adzom-002-bottom.png](evidence/chapter-01/adzom-002-bottom.png), [p002-native.png](evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B04-TITLE-P0001-0002/p002-native.png), [p002-x1900-y0000.png](evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B04-TITLE-P0001-0002/p002-x1900-y0000.png)
 
 <a id="a2000-c01-s09"></a>
 
