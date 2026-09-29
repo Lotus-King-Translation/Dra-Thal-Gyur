@@ -206,3 +206,15 @@ Tiered B252/B260/B264/B273 remain graphically distinct from plain-shad serializa
 **Remaining:** All six saved Adzom PDF8-13 reports are integrated. Next new base physical span is PDF14 from U00277, while title/portrait PDF1-2 and all exact prior component questions remain required. Continue other eligible witness gaps without recreating these reports.
 
 The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.
+
+## B13-P0014-0016 — preserved review integrated
+
+Adzom PDF14–16: eighteen source-ordered physical rows, margins, fillers and interleaved notes integrated from the preserved report; fourteen bounded questions remain.
+
+[Unchanged raw report](C1-BASE-PHYSICAL-B13-P0014-0016-reader-reading.txt) · [Exact source and rows](C1-BASE-PHYSICAL.json).
+
+The main lexical pass is retained. O15-3 and O16-3 are explicitly pending punctuation-adoption candidates, not accepted edits. All raw source strings, heading strings and restored verses remain unchanged.
+
+**Remaining:** Integrate the already prepared B14/PDF17–19 reading when captured; incoming U00355 continuation དུ. Retain Q14P–Q16R and the two pending sign-adoption observations; no repeat of these three pages wholesale.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.

@@ -1,0 +1,91 @@
+{
+  "baseline_commit": "087b7eb288d03965a6a94cd537ad74c37f547da9",
+  "captured_at": "20260929T160558613548Z",
+  "paused_owned_reader_groups": [
+    65501,
+    65503,
+    65506,
+    65509,
+    65514,
+    65518
+  ],
+  "files": [
+    {
+      "path": "diplomatic/STATUS.json",
+      "bytes": 274760,
+      "sha256": "63a0a1d248972f944a4a00196ace37c9d5aa02bfb96c54999777f2e02256b637"
+    },
+    {
+      "path": "diplomatic/VALIDATION.json",
+      "bytes": 1198,
+      "sha256": "e0e1bdccd27df2f1977bd9103afec4fbe4b87f7d481443f686e36d7e363c7dd0"
+    },
+    {
+      "path": "diplomatic/WORK-QUEUE.json",
+      "bytes": 108472,
+      "sha256": "b99d185c5aeb019bcca252ada02ff7182f05ed2f5e48c15bd7f5f5f1c03f5858"
+    },
+    {
+      "path": "diplomatic/WORK-STATUS.md",
+      "bytes": 21059,
+      "sha256": "053105f1cc68f985e4632c940a2ad54d586bdaae6c8585e0092098158c30abee"
+    },
+    {
+      "path": "diplomatic/collation/chapter-01/scan-coverage.json",
+      "bytes": 258308,
+      "sha256": "3c7761b9bcc5a7e9a1834165baf74c326e96c24e92f876437a828892108c7ea5"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL.json",
+      "bytes": 798479,
+      "sha256": "add10f0e2a302dd37797395598501a74ce09b1c85e648f666afe97ba46ef3ce9"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL.md",
+      "bytes": 17601,
+      "sha256": "3e0ed706c067d4738e5d024a8cd42fe37a52b67703b29a079a822f8153c9573e"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/C1-BASE-PHYSICAL-B13-P0014-0016-decisions.json",
+      "bytes": 4015,
+      "sha256": "6d106eddda73b1cf3b97373eade1c582627a81b403a81af97284a0150edb885c"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/C1-BASE-PHYSICAL-B13-P0014-0016-integration.json",
+      "bytes": 585,
+      "sha256": "e45c5ad67e26f99ba9b0a0f4fdeb69ff95d8eff63421b810dc971e5abedf3c3c"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/base-014-016-build.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/base-014-016-build.stdout",
+      "bytes": 274760,
+      "sha256": "63a0a1d248972f944a4a00196ace37c9d5aa02bfb96c54999777f2e02256b637"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/base-014-016-reproducibility.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/base-014-016-reproducibility.stdout",
+      "bytes": 159,
+      "sha256": "990b206ad47a4fcc306556fd3adefe139636d869e78e6657df572b8ae907d1d3"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/base-014-016-validation.stderr",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/base-014-016-validation.stdout",
+      "bytes": 1198,
+      "sha256": "e0e1bdccd27df2f1977bd9103afec4fbe4b87f7d481443f686e36d7e363c7dd0"
+    }
+  ],
+  "message": "Integrate Adzom physical pages14-16 with explicit unresolved components and pending sign candidates",
+  "scope": "Reviewed project preservation snapshot; unfinished reader outputs are not accepted readings."
+}

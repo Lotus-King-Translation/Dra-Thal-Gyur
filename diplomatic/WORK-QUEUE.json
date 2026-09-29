@@ -4,7 +4,7 @@
   "canonical_branch": "main",
   "current_chapter": 1,
   "chapter_status": "in_progress_not_ready",
-  "next_task_id": "C1-BASE-PHYSICAL",
+  "next_task_id": "C1-BASE-UNCERTAINTIES",
   "path_base": "repository root; JSON pointers identify records without changing their historical contents",
   "scope": "Continuation queue, not a whole-chapter collation claim. Thirty punctuation candidate identities remain tracked, including completed dispositions; unfinished items are hypotheses, not accepted readings. Existing Adzom and Dzongsar main lexical passes remain valid within their recorded scopes.",
   "reference_paths": [
@@ -488,7 +488,7 @@
       "id": "C1-BASE-PHYSICAL",
       "kind": "base_signs_and_layers",
       "status": "in_progress",
-      "owner": "coordinator-with-disjoint-bounded-readers",
+      "owner": "ChatGPT-coordinator-20260929-integration",
       "depends_on": [
         "C1-BASE-UNCERTAINTIES"
       ],
@@ -621,7 +621,7 @@
           "canonical_uncertainty_note": "SIGNS-VERIFIED-20260928-U01557"
         }
       ],
-      "current_batch_id": "B13-P0014-0016",
+      "current_batch_id": null,
       "parallel_dispatch_note": "One bounded packet per distinct reader; at most five source pages each. The coordinator alone integrates and publishes after all writing agents finish. Preferred dependencies are not waived at the completion gate.",
       "current_batch_result": "Partial PDF1-5 physical ledger:13 specific boundary assessments, no newly completed full pages. Complete missing boundaries in one-page sub-batches.",
       "prior_owner_at_reassignment": "reader-base-physical-B01-20260928",
@@ -629,7 +629,7 @@
       "next_physical_span": "Adzom PDF14, U00277 opening. Remaining title/portrait PDF1-2 and exact per-page component questions are separately retained.",
       "current_wave_id": "CONTINUE2-W03",
       "bounded_parallel_policy": "Each reader owns one target page and at most three source pages including context; coordinator alone publishes and no unfinished page is inferred complete from a neighbor.",
-      "next_step": "All six saved Adzom PDF8-13 reports are integrated. Next new base physical span is PDF14 from U00277, while title/portrait PDF1-2 and all exact prior component questions remain required. Continue other eligible witness gaps without recreating these reports.",
+      "next_step": "Integrate the already prepared B14/PDF17–19 reading when captured; incoming U00355 continuation དུ. Retain Q14P–Q16R and the two pending sign-adoption observations; no repeat of these three pages wholesale.",
       "integration_claim": {
         "pages": [
           8,
@@ -645,7 +645,7 @@
         "disposition": "Reuse preserved reports, retain exact local conflicts; no automatic correction or completion.",
         "status": "all_six_preserved_reports_integrated_with_explicit_limits"
       },
-      "last_integrated_batch_id": "B12-P0013",
+      "last_integrated_batch_id": "B13-P0014-0016",
       "pending_canonical_questions_from_saved_draft": {
         "report": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-CLOSE-INTEGRATION/adzom-008-010-decisions.json",
         "anchors": [

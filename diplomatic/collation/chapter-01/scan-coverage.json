@@ -6771,6 +6771,218 @@
       },
       "next_physical_span": "Begin the missing Chapter1 opening/continuous comparison and inspect the actual provider37→42 numerical-gap flanks after checking the manifest. Do not follow the raw next_physical_span into Chapter2. Retain Q01 and all uncollated main/annotation regions on PDFs1–104.",
       "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-BASE-PHYSICAL",
+      "batch_id": "B13-P0014-0016",
+      "target_pages": [
+        14,
+        15,
+        16
+      ],
+      "report": "reviews/chapter-01/continuation/C1-BASE-PHYSICAL.json",
+      "summary": "Adzom PDF14–16: eighteen source-ordered physical rows, margins, fillers and interleaved notes integrated from the preserved report; fourteen bounded questions remain.",
+      "rows_reported": 18,
+      "canonical_record_ids": [],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "target_pages_inspected": [
+          14,
+          15,
+          16
+        ],
+        "target_rows_inspected": 18,
+        "target_rows_omitted": 0,
+        "coverage": "Every target row was inspected left to right; local unresolved components are retained in the question ledger.",
+        "lexical_pass": "Existing lexical-pass coverage is preserved. No wholesale lexical replacement or fresh lexical certification is asserted.",
+        "physical_status": "Complete row traversal with bounded unresolved letters and graphics; not complete physical certification.",
+        "certification_limit": "No complete chapter or witness certification."
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q14P",
+          "pdf_page": 14,
+          "anchor": null,
+          "native_bounds": [
+            690,
+            315,
+            760,
+            405
+          ],
+          "exact_question": "What is the exact printed upper-left folio glyph? Its hooked angular form is visible, but no numeral value is assigned."
+        },
+        {
+          "id": "Q14M",
+          "pdf_page": 14,
+          "anchor": null,
+          "native_bounds": [
+            650,
+            555,
+            770,
+            905
+          ],
+          "exact_question": "What are the remaining letters and terminal punctuation of the vertical marginal title after the retained སྒྲ prefix?"
+        },
+        {
+          "id": "Q14F",
+          "pdf_page": 14,
+          "anchor": "U00298",
+          "native_bounds": [
+            4910,
+            805,
+            5055,
+            865
+          ],
+          "exact_question": "What is the exact count of short raised marks after row-final སྦྱང་ས, and can an initial terminal tsheg be distinguished from the filler train?"
+        },
+        {
+          "id": "Q15P",
+          "pdf_page": 15,
+          "anchor": null,
+          "native_bounds": [
+            475,
+            265,
+            590,
+            495
+          ],
+          "exact_question": "What is the exact two-level upper-left folio label? Do not infer its wording or value from the page sequence."
+        },
+        {
+          "id": "Q15M",
+          "pdf_page": 15,
+          "anchor": null,
+          "native_bounds": [
+            475,
+            575,
+            605,
+            1010
+          ],
+          "exact_question": "What are the remaining letters and terminal punctuation of this page's vertical marginal title after the retained སྒྲ prefix?"
+        },
+        {
+          "id": "Q15N1",
+          "pdf_page": 15,
+          "anchor": "U00317",
+          "native_bounds": [
+            2380,
+            650,
+            2605,
+            770
+          ],
+          "exact_question": "What is the exact compact letter sequence between དྲི་བ་ and ཟེར in N15a?"
+        },
+        {
+          "id": "Q15N2",
+          "pdf_page": 15,
+          "anchor": "U00317",
+          "native_bounds": [
+            2870,
+            650,
+            3065,
+            775
+          ],
+          "exact_question": "What is the exact compact syllable between དོན་ and པར་ཡོད in N15a?"
+        },
+        {
+          "id": "Q15W",
+          "pdf_page": 15,
+          "anchor": "U00320",
+          "native_bounds": [
+            4720,
+            650,
+            4850,
+            775
+          ],
+          "exact_question": "In the syllable transcribed ད[Q15W]ངས, is a subjoined wa actually printed beneath ད, or is the letter unmodified? Only that component is unresolved."
+        },
+        {
+          "id": "Q15F",
+          "pdf_page": 15,
+          "anchor": "U00320",
+          "native_bounds": [
+            4855,
+            630,
+            4970,
+            705
+          ],
+          "exact_question": "What is the exact inventory of the raised marks after row-final མ, including any distinction between a terminal tsheg and filler marks?"
+        },
+        {
+          "id": "Q15K",
+          "pdf_page": 15,
+          "anchor": "U00328",
+          "native_bounds": [
+            3990,
+            875,
+            4190,
+            1025
+          ],
+          "exact_question": "How many upper short strokes and lower downward strokes accompany the སེལ་བ / small-note junction, and are the two levels linked annotation signs or separate graphic groups?"
+        },
+        {
+          "id": "Q16P",
+          "pdf_page": 16,
+          "anchor": null,
+          "native_bounds": [
+            605,
+            335,
+            690,
+            435
+          ],
+          "exact_question": "What is the exact upper-left folio glyph? The angular two-legged form is visible, but no numeral value is assigned."
+        },
+        {
+          "id": "Q16M",
+          "pdf_page": 16,
+          "anchor": null,
+          "native_bounds": [
+            585,
+            625,
+            705,
+            910
+          ],
+          "exact_question": "What are the remaining letters and terminal punctuation of this page's vertical marginal title after the retained སྒྲ prefix?"
+        },
+        {
+          "id": "Q16H",
+          "pdf_page": 16,
+          "anchor": "U00344",
+          "native_bounds": [
+            2670,
+            675,
+            2840,
+            815
+          ],
+          "exact_question": "What is the exact ordinal stem between དྲིས་ལན་ and པ in N16a? No value is inferred from the order of replies."
+        },
+        {
+          "id": "Q16R",
+          "pdf_page": 16,
+          "anchor": null,
+          "native_bounds": [
+            5010,
+            280,
+            5120,
+            365
+          ],
+          "exact_question": "What is the precise inventory of the two small horizontal-stroke groups in the upper-right gutter, and are they deliberate marginal signs or irregularities adjoining the rule?"
+        }
+      ],
+      "unexamined_spans": {
+        "target_omissions": [],
+        "deliberately_excluded_flanks": [
+          {
+            "pdf_page": 13,
+            "scope": "Full lexical and physical collation excluded; only the incoming final-row context was read for correspondence."
+          },
+          {
+            "pdf_page": 17,
+            "scope": "Full lexical and physical collation excluded; only the opening continuation and minimal following phrase were read for correspondence."
+          }
+        ]
+      },
+      "next_physical_span": "Integrate the already prepared B14/PDF17–19 reading when captured; incoming U00355 continuation དུ. Retain Q14P–Q16R and the two pending sign-adoption observations; no repeat of these three pages wholesale.",
+      "reader_claims_require_coordinator_dispositions": true
     }
   ]
 }
