@@ -1,0 +1,206 @@
+{
+  "task_id": "C1-GADKAR",
+  "batch_id": "B01-OPENING-P0002-0003",
+  "witness": "Gadkar",
+  "record_prefix": "GAD-COV1-B01",
+  "selected_observations": [
+    "P2-O02",
+    "P2-O03",
+    "P2-O04",
+    "P2-O05",
+    "P3-O02",
+    "P3-O03",
+    "P3-O04",
+    "SIGN-Q09",
+    "SIGN-Q10",
+    "SIGN-Q19",
+    "SIGN-Q20",
+    "SIGN-Q21"
+  ],
+  "record_statuses": {
+    "P2-O02": "provisional_visual_observation",
+    "P2-O03": "bounded_uncertainty",
+    "P2-O04": "bounded_uncertainty",
+    "P2-O05": "bounded_uncertainty",
+    "P3-O02": "bounded_uncertainty",
+    "P3-O03": "bounded_uncertainty",
+    "P3-O04": "bounded_uncertainty",
+    "SIGN-Q09": "bounded_uncertainty",
+    "SIGN-Q10": "bounded_uncertainty",
+    "SIGN-Q19": "bounded_uncertainty",
+    "SIGN-Q20": "bounded_uncertainty",
+    "SIGN-Q21": "bounded_uncertainty"
+  },
+  "supplementary_observations": [
+    {
+      "id": "SIGN-Q09",
+      "pdf_page": 2,
+      "anchors": [
+        "U00013",
+        "U00014"
+      ],
+      "source_span": "[Q09] Inventory the entire interval after ནི and its C compound through the onset of རང: is the additional narrow stroke detached punctuation or part of the initial letter?",
+      "base_span": {
+        "U00013": "འཁོར་དང་འདས་པའི་ཐོག་མར་ནི། །",
+        "U00014": "རང་བྱུང་བྱས་པ་མེད་པ་ལས། །"
+      },
+      "category": "bounded_graphic_allocation_uncertainty",
+      "approximate_native_bounds": [
+        1100,
+        395,
+        1265,
+        493
+      ],
+      "confidence": {
+        "source_position": "high",
+        "graphic_allocation": "unresolved"
+      },
+      "rationale": "Explicitly project the original graphic question without resolving it; all actual component and neighboring-letter testimony remains in the unchanged raw row inventory."
+    },
+    {
+      "id": "SIGN-Q10",
+      "pdf_page": 3,
+      "anchors": [
+        "U00017",
+        "U00018"
+      ],
+      "source_span": "[Q10] Resolve the boundary between རྐྱེན and འདུས, including whether a separate bar or compound is present.",
+      "base_span": {
+        "U00017": "དབུས་སུ་རླུང་སེམས་རྒྱུ་དང་རྐྱེན། །",
+        "U00018": "འདུས་ཤིང་བསྐྱེད་པའི་གཞལ་མེད་ཁང་། །"
+      },
+      "category": "bounded_graphic_allocation_uncertainty",
+      "approximate_native_bounds": [
+        1235,
+        165,
+        1470,
+        265
+      ],
+      "confidence": {
+        "source_position": "high",
+        "graphic_allocation": "unresolved"
+      },
+      "rationale": "Explicitly project the original graphic question without resolving it; all actual component and neighboring-letter testimony remains in the unchanged raw row inventory."
+    },
+    {
+      "id": "SIGN-Q19",
+      "pdf_page": 3,
+      "anchors": [
+        "U00030",
+        "U00031"
+      ],
+      "source_span": "[Q19] After the C following ན, is the next leading narrow stroke an independent bar or part of དགའ?",
+      "base_span": {
+        "U00030": "འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན། །",
+        "U00031": " དགའ་དང་ལྡན་པ་བསོད་ནམས་བརྩེགས། །"
+      },
+      "category": "bounded_graphic_allocation_uncertainty",
+      "approximate_native_bounds": [
+        1300,
+        395,
+        1470,
+        495
+      ],
+      "confidence": {
+        "source_position": "high",
+        "graphic_allocation": "unresolved"
+      },
+      "rationale": "Explicitly project the original graphic question without resolving it; all actual component and neighboring-letter testimony remains in the unchanged raw row inventory."
+    },
+    {
+      "id": "SIGN-Q20",
+      "pdf_page": 3,
+      "anchors": [
+        "U00025"
+      ],
+      "source_span": "[Q20] At the beginning of row 3, is the leftmost short stroke separate punctuation or an attached component of ཉམས?",
+      "base_span": {
+        "U00025": "སོ་སོའི་ཉམས་དང་མཐུན་པར་བཤད། །"
+      },
+      "category": "bounded_graphic_allocation_uncertainty",
+      "approximate_native_bounds": [
+        730,
+        320,
+        825,
+        410
+      ],
+      "confidence": {
+        "source_position": "high",
+        "graphic_allocation": "unresolved"
+      },
+      "rationale": "Explicitly project the original graphic question without resolving it; all actual component and neighboring-letter testimony remains in the unchanged raw row inventory."
+    },
+    {
+      "id": "SIGN-Q21",
+      "pdf_page": 2,
+      "anchors": [
+        "U00009",
+        "U00010"
+      ],
+      "source_span": "[Q21] Following the discernible dark bar after སྟོན་པ, does the leading red stroke constitute another bar or belong to the initial red དཔལ?",
+      "base_span": {
+        "U00009": " བཅོམ་ལྡན་འདས་རང་བྱུང་ཆེན་པོ་མཆོག་གི་སྟོན་པ།",
+        "U00010": " དཔལ་ཀུན་ཏུ་བཟང་པོ་ལ་ཕྱག་འཚལ་ལོ། །"
+      },
+      "category": "bounded_graphic_allocation_uncertainty",
+      "approximate_native_bounds": [
+        940,
+        325,
+        1040,
+        407
+      ],
+      "confidence": {
+        "source_position": "high",
+        "graphic_allocation": "unresolved"
+      },
+      "rationale": "Explicitly project the original graphic question without resolving it; all actual component and neighboring-letter testimony remains in the unchanged raw row inventory."
+    }
+  ],
+  "supplementary_dispositions": {
+    "SIGN-Q09": "Original Q-ledger component projected once as an explicit unresolved graphic record; no punctuation adoption.",
+    "SIGN-Q10": "Original Q-ledger component projected once as an explicit unresolved graphic record; no punctuation adoption.",
+    "SIGN-Q19": "Original Q-ledger component projected once as an explicit unresolved graphic record; no punctuation adoption.",
+    "SIGN-Q20": "Original Q-ledger component projected once as an explicit unresolved graphic record; no punctuation adoption.",
+    "SIGN-Q21": "Original Q-ledger component projected once as an explicit unresolved graphic record; no punctuation adoption."
+  },
+  "planned_new_records": 12,
+  "base_disposition": "Retain governing Adzom unchanged. Preserve the Gadkar component reading or question at its stated confidence. Local heading nonobservation does not prove whole-witness omission; cursive strokes do not certify a suffix, repetition or punctuation by resemblance alone.",
+  "coordinator": {
+    "summary": "Gadkar PDF2–3 opening integrated: eight source-ordered physical rows, twelve new bounded or provisional records, and three explicit rechecks of existing observations without duplicate entries.",
+    "detail": "The earlier U00011/U00029 local heading nonobservations and U00019 suffix uncertainty remain under GAD-CH1-002/003/004. The new reader does not resolve the suffix or establish global heading absence. The foreign-title clusters, U00022 repetition, title genitive and five separately indexed graphic intervals remain uncertain. Red main-text lettering is not converted into a heading.",
+    "coordinator_scope": "Viewed both native page layouts and the left and overlapping middle/right native columns. Checked the four-row layout, colored rubrics versus continuing main text, foreign-title region and local uncertain stack/boundary positions. No script normalization or expected ordinal/name was supplied.",
+    "next_step": "Continue a full Gadkar reading at PDF4 row1, U00033 continuation མེ་རླུང་གི, while retaining Q14 at the preceding edge. Older PDF4–11 locator findings do not replace full comparison. Keep all twenty-one opening questions and the independent cover/title-page limits.",
+    "observation_dispositions": {
+      "P2-O01": "ledger_only",
+      "P2-O02": "local_noncorrespondence_only",
+      "P2-O03": "bounded_comparison",
+      "P2-O04": "bounded_comparison",
+      "P2-O05": "bounded_comparison",
+      "P2-O06": "ledger_only",
+      "P2-O07": "recheck_GAD-CH1-002",
+      "P2-O08": "ledger_only",
+      "P2-O09": "ledger_only",
+      "P3-O01": "recheck_GAD-CH1-004",
+      "P3-O02": "bounded_comparison",
+      "P3-O03": "bounded_comparison",
+      "P3-O04": "bounded_comparison",
+      "P3-O05": "recheck_GAD-CH1-003",
+      "P3-O06": "ledger_only",
+      "P3-O07": "ledger_only"
+    },
+    "existing_record_rechecks": {
+      "P2-O07": "GAD-CH1-002",
+      "P3-O05": "GAD-CH1-003",
+      "P3-O01": "GAD-CH1-004"
+    },
+    "disposition_legend": {
+      "ledger_only": "Retain layout, graphic inventory, margin or page-join evidence in the report. Do not create a duplicate variant or enlarge declared coverage.",
+      "bounded_comparison": "Preserve the bounded unresolved source component; no accepted missing letter, repetition count or completed foreign name is asserted.",
+      "local_noncorrespondence_only": "Record only the inspected prefatory interval, with moderate confidence; do not infer absence elsewhere.",
+      "recheck_GAD-CH1-002": "Reaffirm only the previously recorded local heading nonobservation at the electronic junction. Preserve the known difference from Adzom physical placement; no duplicate apparatus record.",
+      "recheck_GAD-CH1-003": "Reaffirm only the previously recorded local heading nonobservation. No whole-witness omission or historical explanation is inferred; no duplicate.",
+      "recheck_GAD-CH1-004": "A separate reader again leaves rig pa(s) unresolved. Preserve the existing candidate and the new precise bounds rather than adopt the suffix or duplicate the record."
+    }
+  },
+  "next_task_id": "C1-ZHICHEN"
+}

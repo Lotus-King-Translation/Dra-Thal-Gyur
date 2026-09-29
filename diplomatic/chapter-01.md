@@ -35,11 +35,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00005"></a>
 
-**U00005** གཾགརྦམཏགཱ རྒྱ་གར་སྐད་དུ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-TITLE-UNCERTAINTY](#scan-ch1-title-uncertainty) [L1-0001](#l1-0001) [DZ-OPEN-02](#dz-open-02) [W-C01-002](reviews/chapter-01/wikisource.md#w-c01-002)
+**U00005** གཾགརྦམཏགཱ རྒྱ་གར་སྐད་དུ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-TITLE-UNCERTAINTY](#scan-ch1-title-uncertainty) [L1-0001](#l1-0001) [DZ-OPEN-02](#dz-open-02) [GAD-COV1-B01-P2-O02](#gad-cov1-b01-p2-o02) [W-C01-002](reviews/chapter-01/wikisource.md#w-c01-002)
 
 <a id="u00006"></a>
 
-**U00006** རཏྣ་ཀ་ར་ཤབྡ་མ་ཧཱ་པྲ་སཾ་ག་ཏནྟྲ་ནཱ་མ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-TITLE-UNCERTAINTY](#scan-ch1-title-uncertainty) [L1-0001](#l1-0001) [DZ-OPEN-02](#dz-open-02) [W-C01-002](reviews/chapter-01/wikisource.md#w-c01-002)
+**U00006** རཏྣ་ཀ་ར་ཤབྡ་མ་ཧཱ་པྲ་སཾ་ག་ཏནྟྲ་ནཱ་མ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-TITLE-UNCERTAINTY](#scan-ch1-title-uncertainty) [L1-0001](#l1-0001) [DZ-OPEN-02](#dz-open-02) [GAD-COV1-B01-P2-O03](#gad-cov1-b01-p2-o03) [W-C01-002](reviews/chapter-01/wikisource.md#w-c01-002)
 
 <a id="u00007"></a>
 
@@ -47,15 +47,15 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00008"></a>
 
-**U00008** རིན་པོ་ཆེ་འབྱུང་བར་བྱེད་པ་སྒྲ་ཐལ་འགྱུར་ཆེན་པོའི་རྒྱུད་ཅེས་བྱ་བ།
+**U00008** རིན་པོ་ཆེ་འབྱུང་བར་བྱེད་པ་སྒྲ་ཐལ་འགྱུར་ཆེན་པོའི་རྒྱུད་ཅེས་བྱ་བ། [GAD-COV1-B01-P2-O04](#gad-cov1-b01-p2-o04)
 
 <a id="u00009"></a>
 
-**U00009** བཅོམ་ལྡན་འདས་རང་བྱུང་ཆེན་པོ་མཆོག་གི་སྟོན་པ།
+**U00009** བཅོམ་ལྡན་འདས་རང་བྱུང་ཆེན་པོ་མཆོག་གི་སྟོན་པ། [GAD-COV1-B01-SIGN-Q21](#gad-cov1-b01-sign-q21)
 
 <a id="u00010"></a>
 
-**U00010** དཔལ་ཀུན་ཏུ་བཟང་པོ་ལ་ཕྱག་འཚལ་ལོ། ། [A2000-C01-S08](#a2000-c01-s08) [L1-0002](#l1-0002)
+**U00010** དཔལ་ཀུན་ཏུ་བཟང་པོ་ལ་ཕྱག་འཚལ་ལོ། ། [A2000-C01-S08](#a2000-c01-s08) [L1-0002](#l1-0002) [GAD-COV1-B01-SIGN-Q21](#gad-cov1-b01-sign-q21)
 
 **Portrait caption — provisional reading; editorial placement — [A2000-C01-S08](#a2000-c01-s08)**
 
@@ -73,11 +73,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00013"></a>
 
-**U00013** འཁོར་དང་འདས་པའི་ཐོག་མར་ནི། ། [TK-001](#tk-001) [Tingkye/Degé scan variant](reviews/chapter-01/independent-openings.md#conflicts-that-can-be-reported-conservatively)
+**U00013** འཁོར་དང་འདས་པའི་ཐོག་མར་ནི། ། [TK-001](#tk-001) [GAD-COV1-B01-SIGN-Q09](#gad-cov1-b01-sign-q09) [Tingkye/Degé scan variant](reviews/chapter-01/independent-openings.md#conflicts-that-can-be-reported-conservatively)
 
 <a id="u00014"></a>
 
-**U00014** རང་བྱུང་བྱས་པ་མེད་པ་ལས། ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-SIGN-00014-UNCERTAIN](#scan-ch1-sign-00014-uncertain) [TK-002](#tk-002) [Tingkye/Degé scan variant](reviews/chapter-01/independent-openings.md#conflicts-that-can-be-reported-conservatively)
+**U00014** རང་བྱུང་བྱས་པ་མེད་པ་ལས། ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-SIGN-00014-UNCERTAIN](#scan-ch1-sign-00014-uncertain) [TK-002](#tk-002) [GAD-COV1-B01-P2-O05](#gad-cov1-b01-p2-o05) [GAD-COV1-B01-SIGN-Q09](#gad-cov1-b01-sign-q09) [Tingkye/Degé scan variant](reviews/chapter-01/independent-openings.md#conflicts-that-can-be-reported-conservatively)
 
 <a id="u00015"></a>
 
@@ -89,11 +89,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00017"></a>
 
-**U00017** དབུས་སུ་རླུང་སེམས་རྒྱུ་དང་རྐྱེན། ། [L1-0003](#l1-0003) [TH-C1-0003](#th-c1-0003)
+**U00017** དབུས་སུ་རླུང་སེམས་རྒྱུ་དང་རྐྱེན། ། [L1-0003](#l1-0003) [TH-C1-0003](#th-c1-0003) [GAD-COV1-B01-SIGN-Q10](#gad-cov1-b01-sign-q10)
 
 <a id="u00018"></a>
 
-**U00018** འདུས་ཤིང་བསྐྱེད་པའི་གཞལ་མེད་ཁང་། ། [Comparison-scan second reading](reviews/chapter-01/second-dege-tingkye.md)
+**U00018** འདུས་ཤིང་བསྐྱེད་པའི་གཞལ་མེད་ཁང་། ། [GAD-COV1-B01-SIGN-Q10](#gad-cov1-b01-sign-q10) [Comparison-scan second reading](reviews/chapter-01/second-dege-tingkye.md)
 
 <a id="u00019"></a>
 
@@ -109,7 +109,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00022"></a>
 
-**U00022** སྐུ་དང་ཡེ་ཤེས་ཤེས་རབ་རླུང་། ། [L1-0004](#l1-0004) [TK-004](#tk-004) [TH-C1-0004](#th-c1-0004) [Tingkye/Degé scan variant](reviews/chapter-01/independent-openings.md#conflicts-that-can-be-reported-conservatively)
+**U00022** སྐུ་དང་ཡེ་ཤེས་ཤེས་རབ་རླུང་། ། [L1-0004](#l1-0004) [TK-004](#tk-004) [TH-C1-0004](#th-c1-0004) [GAD-COV1-B01-P3-O02](#gad-cov1-b01-p3-o02) [Tingkye/Degé scan variant](reviews/chapter-01/independent-openings.md#conflicts-that-can-be-reported-conservatively)
 
 <a id="u00023"></a>
 
@@ -121,7 +121,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00025"></a>
 
-**U00025** སོ་སོའི་ཉམས་དང་མཐུན་པར་བཤད། །
+**U00025** སོ་སོའི་ཉམས་དང་མཐུན་པར་བཤད། ། [GAD-COV1-B01-SIGN-Q20](#gad-cov1-b01-sign-q20)
 
 <a id="u00026"></a>
 
@@ -141,11 +141,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00030"></a>
 
-**U00030** འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན། ། [SIGNS-VERIFIED-20260927-U00030](#signs-verified-20260927-u00030)
+**U00030** འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན། ། [SIGNS-VERIFIED-20260927-U00030](#signs-verified-20260927-u00030) [GAD-COV1-B01-SIGN-Q19](#gad-cov1-b01-sign-q19)
 
 <a id="u00031"></a>
 
-**U00031** དགའ་དང་ལྡན་པ་བསོད་ནམས་བརྩེགས། ། [TK-007](#tk-007)
+**U00031** དགའ་དང་ལྡན་པ་བསོད་ནམས་བརྩེགས། ། [TK-007](#tk-007) [GAD-COV1-B01-P3-O03](#gad-cov1-b01-p3-o03) [GAD-COV1-B01-SIGN-Q19](#gad-cov1-b01-sign-q19)
 
 <a id="u00032"></a>
 
@@ -153,7 +153,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00033"></a>
 
-**U00033** ས་དང་ཆུ་དང་མེ་རླུང་གི། །
+**U00033** ས་དང་ཆུ་དང་མེ་རླུང་གི། ། [GAD-COV1-B01-P3-O04](#gad-cov1-b01-p3-o04)
 
 <a id="u00034"></a>
 
@@ -25326,6 +25326,246 @@ Units: [U00163](#u00163).
 **Choice and reason:** Retain governing Adzom unchanged. These source-fragment records document unresolved Tharpaling components, not confirmed variants, source omissions or agreement. The supplied B transcript does not complete unread printed letters.
 
 **Evidence:** [p006-native.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-native.png), [p006-x0000-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0000-y0000.png), [p006-x0211-y0000.png](evidence/chapter-01/continuation/C1-THARPALING/B01-P0004-0006/p006-x0211-y0000.png), [C1-THARPALING-B01-P0004-0006-reader-reading.txt](reviews/chapter-01/continuation/C1-THARPALING-B01-P0004-0006-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-THARPALING.md).
+
+<a id="gad-cov1-b01-p2-o02"></a>
+
+### GAD-COV1-B01-P2-O02 — Gadkar
+
+Units: [U00005](#u00005).
+
+**Current Adzom main context:** གཾགརྦམཏགཱ རྒྱ་གར་སྐད་དུ།
+
+**Comparison reading/snippet:** [O][K], open interval, [C:r], རྒྱ་གར་སྐད་དུ.
+
+**Status:** provisional_visual_observation. **Confidence:** {"layout": "high", "local_noncorrespondence": "moderate", "alignment": "high"}.
+
+**Locator:** PDF 2; source-member and native bounds in linked packet; bounds: [860, 185, 1840, 280].
+
+**Observation:** I do not identify that prefatory lexical component in this inspected interval. This does not establish its absence elsewhere. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve the Gadkar component reading or question at its stated confidence. Local heading nonobservation does not prove whole-witness omission; cursive strokes do not certify a suffix, repetition or punctuation by resemblance alone.
+
+**Evidence:** [p002-native.jpg](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p002-native.jpg), [p002-x0000-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p002-x0000-y0000.png), [p002-x1900-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p002-x1900-y0000.png), [p002-x2000-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p002-x2000-y0000.png), [C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-GADKAR.md).
+
+<a id="gad-cov1-b01-p2-o03"></a>
+
+### GAD-COV1-B01-P2-O03 — Gadkar
+
+Units: [U00006](#u00006).
+
+**Current Adzom main context:** རཏྣ་ཀ་ར་ཤབྡ་མ་ཧཱ་པྲ་སཾ་ག་ཏནྟྲ་ནཱ་མ།
+
+**Comparison reading/snippet:** Foreign-title reading islands separated by Q01–Q06.
+
+**Status:** bounded_uncertainty. **Confidence:** {"reading": "partial", "stacks": "low", "alignment": "high", "placement": "high"}.
+
+**Locator:** PDF 2; source-member and native bounds in linked packet; bounds: [1870, 170, 2830, 275].
+
+**Observation:** Several consonant bodies are distinguishable, but Sanskrit stack components and vowel-length or upper marks are not independently settled. The base has not been used to complete them. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve the Gadkar component reading or question at its stated confidence. Local heading nonobservation does not prove whole-witness omission; cursive strokes do not certify a suffix, repetition or punctuation by resemblance alone.
+
+**Evidence:** [p002-native.jpg](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p002-native.jpg), [p002-x0000-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p002-x0000-y0000.png), [p002-x1900-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p002-x1900-y0000.png), [p002-x2000-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p002-x2000-y0000.png), [C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-GADKAR.md).
+
+<a id="gad-cov1-b01-p2-o04"></a>
+
+### GAD-COV1-B01-P2-O04 — Gadkar
+
+Units: [U00008](#u00008).
+
+**Current Adzom main context:** རིན་པོ་ཆེ་འབྱུང་བར་བྱེད་པ་སྒྲ་ཐལ་འགྱུར་ཆེན་པོའི་རྒྱུད་ཅེས་བྱ་བ།
+
+**Comparison reading/snippet:** ཆེན་པོ[Q07]་རྒྱུད
+
+**Status:** bounded_uncertainty. **Confidence:** {"lexical_context": "moderate", "genitive_component": "unresolved", "alignment": "high"}.
+
+**Locator:** PDF 2; source-member and native bounds in linked packet; bounds: [1710, 250, 2040, 345].
+
+**Observation:** The neighboring title words do not independently settle the compressed component after པོ. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve the Gadkar component reading or question at its stated confidence. Local heading nonobservation does not prove whole-witness omission; cursive strokes do not certify a suffix, repetition or punctuation by resemblance alone.
+
+**Evidence:** [p002-native.jpg](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p002-native.jpg), [p002-x0000-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p002-x0000-y0000.png), [p002-x1900-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p002-x1900-y0000.png), [p002-x2000-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p002-x2000-y0000.png), [C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-GADKAR.md).
+
+<a id="gad-cov1-b01-p2-o05"></a>
+
+### GAD-COV1-B01-P2-O05 — Gadkar
+
+Units: [U00014](#u00014).
+
+**Current Adzom main context:** རང་བྱུང་བྱས་པ་མེད་པ་ལས། །
+
+**Comparison reading/snippet:** རང་བྱུང་བྱ[Q08]་པ་མེད་པ་ལས
+
+**Status:** bounded_uncertainty. **Confidence:** {"surrounding_reading": "moderate", "suffix": "unresolved", "alignment": "high"}.
+
+**Locator:** PDF 2; source-member and native bounds in linked packet; bounds: [1190, 395, 1750, 493].
+
+**Observation:** The potential suffix is not certified merely by the readable clause around it. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve the Gadkar component reading or question at its stated confidence. Local heading nonobservation does not prove whole-witness omission; cursive strokes do not certify a suffix, repetition or punctuation by resemblance alone.
+
+**Evidence:** [p002-native.jpg](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p002-native.jpg), [p002-x0000-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p002-x0000-y0000.png), [p002-x1900-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p002-x1900-y0000.png), [p002-x2000-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p002-x2000-y0000.png), [C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-GADKAR.md).
+
+<a id="gad-cov1-b01-p3-o02"></a>
+
+### GAD-COV1-B01-P3-O02 — Gadkar
+
+Units: [U00022](#u00022).
+
+**Current Adzom main context:** སྐུ་དང་ཡེ་ཤེས་ཤེས་རབ་རླུང་། །
+
+**Comparison reading/snippet:** ཡེ་ཤེས་[Q12]རབ་རླུང
+
+**Status:** bounded_uncertainty. **Confidence:** {"outer_words": "moderate", "repetition_count": "unresolved", "alignment": "high"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [1370, 245, 1850, 338].
+
+**Observation:** The count of ཤེས components cannot be certified from my reading of the compressed middle group; neither repetition nor omission is asserted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve the Gadkar component reading or question at its stated confidence. Local heading nonobservation does not prove whole-witness omission; cursive strokes do not certify a suffix, repetition or punctuation by resemblance alone.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p003-x0000-y0000.png), [p003-x1900-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p003-x1900-y0000.png), [p003-x2000-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p003-x2000-y0000.png), [C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-GADKAR.md).
+
+<a id="gad-cov1-b01-p3-o03"></a>
+
+### GAD-COV1-B01-P3-O03 — Gadkar
+
+Units: [U00031](#u00031).
+
+**Current Adzom main context:** དགའ་དང་ལྡན་པ་བསོད་ནམས་བརྩེགས། །
+
+**Comparison reading/snippet:** བསོད་ནམས་[Q13][C]
+
+**Status:** bounded_uncertainty. **Confidence:** {"context": "moderate", "final_component": "unresolved", "surface_interference": "high", "alignment": "high"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [1830, 390, 2190, 491].
+
+**Observation:** A small interruption crosses the upper strokes; the expected final word is not supplied from the base. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve the Gadkar component reading or question at its stated confidence. Local heading nonobservation does not prove whole-witness omission; cursive strokes do not certify a suffix, repetition or punctuation by resemblance alone.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p003-x0000-y0000.png), [p003-x1900-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p003-x1900-y0000.png), [p003-x2000-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p003-x2000-y0000.png), [C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-GADKAR.md).
+
+<a id="gad-cov1-b01-p3-o04"></a>
+
+### GAD-COV1-B01-P3-O04 — Gadkar
+
+Units: [U00033](#u00033).
+
+**Current Adzom main context:** ས་དང་ཆུ་དང་མེ་རླུང་གི། །
+
+**Comparison reading/snippet:** ས་དང་ཆུ་[Q14]
+
+**Status:** bounded_uncertainty. **Confidence:** {"readable_prefix": "moderate", "terminal_component": "unresolved", "continuation_alignment": "high"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [2940, 405, 3190, 493].
+
+**Observation:** The neighboring source incipit supports continuation within U00033, but does not resolve the preceding final letters or their distinction from bars. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve the Gadkar component reading or question at its stated confidence. Local heading nonobservation does not prove whole-witness omission; cursive strokes do not certify a suffix, repetition or punctuation by resemblance alone.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p003-x0000-y0000.png), [p003-x1900-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p003-x1900-y0000.png), [p003-x2000-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p003-x2000-y0000.png), [C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-GADKAR.md).
+
+<a id="gad-cov1-b01-sign-q09"></a>
+
+### GAD-COV1-B01-SIGN-Q09 — Gadkar
+
+Units: [U00013](#u00013), [U00014](#u00014).
+
+**Current Adzom main context:** འཁོར་དང་འདས་པའི་ཐོག་མར་ནི། ། / རང་བྱུང་བྱས་པ་མེད་པ་ལས། །
+
+**Comparison reading/snippet:** [Q09] Inventory the entire interval after ནི and its C compound through the onset of རང: is the additional narrow stroke detached punctuation or part of the initial letter?
+
+**Status:** bounded_uncertainty. **Confidence:** {"source_position": "high", "graphic_allocation": "unresolved"}.
+
+**Locator:** PDF 2; source-member and native bounds in linked packet; bounds: [1100, 395, 1265, 493].
+
+**Observation:** Explicitly project the original graphic question without resolving it; all actual component and neighboring-letter testimony remains in the unchanged raw row inventory. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve the Gadkar component reading or question at its stated confidence. Local heading nonobservation does not prove whole-witness omission; cursive strokes do not certify a suffix, repetition or punctuation by resemblance alone.
+
+**Evidence:** [p002-native.jpg](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p002-native.jpg), [p002-x0000-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p002-x0000-y0000.png), [p002-x1900-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p002-x1900-y0000.png), [p002-x2000-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p002-x2000-y0000.png), [C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-GADKAR.md).
+
+<a id="gad-cov1-b01-sign-q10"></a>
+
+### GAD-COV1-B01-SIGN-Q10 — Gadkar
+
+Units: [U00017](#u00017), [U00018](#u00018).
+
+**Current Adzom main context:** དབུས་སུ་རླུང་སེམས་རྒྱུ་དང་རྐྱེན། ། / འདུས་ཤིང་བསྐྱེད་པའི་གཞལ་མེད་ཁང་། །
+
+**Comparison reading/snippet:** [Q10] Resolve the boundary between རྐྱེན and འདུས, including whether a separate bar or compound is present.
+
+**Status:** bounded_uncertainty. **Confidence:** {"source_position": "high", "graphic_allocation": "unresolved"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [1235, 165, 1470, 265].
+
+**Observation:** Explicitly project the original graphic question without resolving it; all actual component and neighboring-letter testimony remains in the unchanged raw row inventory. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve the Gadkar component reading or question at its stated confidence. Local heading nonobservation does not prove whole-witness omission; cursive strokes do not certify a suffix, repetition or punctuation by resemblance alone.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p003-x0000-y0000.png), [p003-x1900-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p003-x1900-y0000.png), [p003-x2000-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p003-x2000-y0000.png), [C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-GADKAR.md).
+
+<a id="gad-cov1-b01-sign-q19"></a>
+
+### GAD-COV1-B01-SIGN-Q19 — Gadkar
+
+Units: [U00030](#u00030), [U00031](#u00031).
+
+**Current Adzom main context:** འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན། ། / དགའ་དང་ལྡན་པ་བསོད་ནམས་བརྩེགས། །
+
+**Comparison reading/snippet:** [Q19] After the C following ན, is the next leading narrow stroke an independent bar or part of དགའ?
+
+**Status:** bounded_uncertainty. **Confidence:** {"source_position": "high", "graphic_allocation": "unresolved"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [1300, 395, 1470, 495].
+
+**Observation:** Explicitly project the original graphic question without resolving it; all actual component and neighboring-letter testimony remains in the unchanged raw row inventory. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve the Gadkar component reading or question at its stated confidence. Local heading nonobservation does not prove whole-witness omission; cursive strokes do not certify a suffix, repetition or punctuation by resemblance alone.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p003-x0000-y0000.png), [p003-x1900-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p003-x1900-y0000.png), [p003-x2000-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p003-x2000-y0000.png), [C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-GADKAR.md).
+
+<a id="gad-cov1-b01-sign-q20"></a>
+
+### GAD-COV1-B01-SIGN-Q20 — Gadkar
+
+Units: [U00025](#u00025).
+
+**Current Adzom main context:** སོ་སོའི་ཉམས་དང་མཐུན་པར་བཤད། །
+
+**Comparison reading/snippet:** [Q20] At the beginning of row 3, is the leftmost short stroke separate punctuation or an attached component of ཉམས?
+
+**Status:** bounded_uncertainty. **Confidence:** {"source_position": "high", "graphic_allocation": "unresolved"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [730, 320, 825, 410].
+
+**Observation:** Explicitly project the original graphic question without resolving it; all actual component and neighboring-letter testimony remains in the unchanged raw row inventory. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve the Gadkar component reading or question at its stated confidence. Local heading nonobservation does not prove whole-witness omission; cursive strokes do not certify a suffix, repetition or punctuation by resemblance alone.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p003-x0000-y0000.png), [p003-x1900-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p003-x1900-y0000.png), [p003-x2000-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p003-x2000-y0000.png), [C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-GADKAR.md).
+
+<a id="gad-cov1-b01-sign-q21"></a>
+
+### GAD-COV1-B01-SIGN-Q21 — Gadkar
+
+Units: [U00009](#u00009), [U00010](#u00010).
+
+**Current Adzom main context:** བཅོམ་ལྡན་འདས་རང་བྱུང་ཆེན་པོ་མཆོག་གི་སྟོན་པ། / དཔལ་ཀུན་ཏུ་བཟང་པོ་ལ་ཕྱག་འཚལ་ལོ། །
+
+**Comparison reading/snippet:** [Q21] Following the discernible dark bar after སྟོན་པ, does the leading red stroke constitute another bar or belong to the initial red དཔལ?
+
+**Status:** bounded_uncertainty. **Confidence:** {"source_position": "high", "graphic_allocation": "unresolved"}.
+
+**Locator:** PDF 2; source-member and native bounds in linked packet; bounds: [940, 325, 1040, 407].
+
+**Observation:** Explicitly project the original graphic question without resolving it; all actual component and neighboring-letter testimony remains in the unchanged raw row inventory. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain governing Adzom unchanged. Preserve the Gadkar component reading or question at its stated confidence. Local heading nonobservation does not prove whole-witness omission; cursive strokes do not certify a suffix, repetition or punctuation by resemblance alone.
+
+**Evidence:** [p002-native.jpg](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p002-native.jpg), [p002-x0000-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p002-x0000-y0000.png), [p002-x1900-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p002-x1900-y0000.png), [p002-x2000-y0000.png](evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/p002-x2000-y0000.png), [C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-GADKAR.md).
 
 ## A/B/S transcript apparatus
 

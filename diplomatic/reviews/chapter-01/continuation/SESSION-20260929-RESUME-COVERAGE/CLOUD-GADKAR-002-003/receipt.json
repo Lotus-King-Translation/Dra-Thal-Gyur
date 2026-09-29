@@ -1,0 +1,67 @@
+{
+  "baseline_commit": "d84fd5a3bdb2757a525925476a85ae983c59e9a1",
+  "request": "diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/CLOUD-RUN.json",
+  "request_sha256": "732ee246bc3dd6fa385b1862096befc7c88e98b3eab90e495b6b61d075020b5e",
+  "status": "integrated_and_structurally_validated_publication_pending",
+  "chapter_complete": false,
+  "integration": {
+    "verified_reader": {
+      "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt",
+      "sha256": "965421634abc8d5c0814cfd65aa596865284703493c7bea74e3a5b4aa62a2dce",
+      "images_hash_verified": 12,
+      "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader-execution.json"
+    },
+    "new_record_ids": [
+      "GAD-COV1-B01-P2-O02",
+      "GAD-COV1-B01-P2-O03",
+      "GAD-COV1-B01-P2-O04",
+      "GAD-COV1-B01-P2-O05",
+      "GAD-COV1-B01-P3-O02",
+      "GAD-COV1-B01-P3-O03",
+      "GAD-COV1-B01-P3-O04",
+      "GAD-COV1-B01-SIGN-Q09",
+      "GAD-COV1-B01-SIGN-Q10",
+      "GAD-COV1-B01-SIGN-Q19",
+      "GAD-COV1-B01-SIGN-Q20",
+      "GAD-COV1-B01-SIGN-Q21"
+    ],
+    "previous_records_unchanged": 639,
+    "all_2635_source_and_reading_strings_unchanged": true,
+    "all_insertions_and_interventions_unchanged": true,
+    "chapter_complete": false
+  },
+  "validation": {
+    "scope": "Chapter 1 structural and preservation checks; not a complete-witness certificate",
+    "source_hashes_unchanged": true,
+    "exact_reconstruction_checks": [
+      "minimal_B_exact",
+      "minimal_S_exact",
+      "whole_unit_B_exact",
+      "whole_unit_S_exact"
+    ],
+    "base_units_accounted_for": 2635,
+    "curated_replacement_anchors": 84,
+    "scan_intervention_records": 88,
+    "restored_main_verses": 13,
+    "abc_exact_conflicts": 359,
+    "abc_readable_loci": 183,
+    "local_comparison_findings_including_candidates": 651,
+    "archival_files_hash_checked": 669,
+    "original_manifest_files_hash_checked": 2,
+    "historical_markdown_files_integrity_checked_not_link_checked": 37,
+    "active_local_markdown_links_resolve": true,
+    "local_links_checked": 7416,
+    "evidence_references_checked": 3359,
+    "continuation_metadata_matches": true,
+    "chapter_complete": false,
+    "all_witnesses_collated": false,
+    "next_chapter_started": false,
+    "markdown_sha256": "869c3ebf629e298eb5e3911a3c0b93e7fab8c635f632170d11fd5bb1d4ab4a2e",
+    "work_queue": {
+      "tasks_checked": 22,
+      "punctuation_candidates_tracked": 30,
+      "punctuation_candidates_unfinished": 1,
+      "next_task_id": "C1-ZHICHEN"
+    }
+  }
+}

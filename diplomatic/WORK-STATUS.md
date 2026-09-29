@@ -2,13 +2,13 @@
 
 Updated 2026-09-29. **Chapter 1 is unfinished; Chapters 2–6 and the final colophon have not started.** Start at [HANDOFF.md](HANDOFF.md) for operational instructions and [WORK-QUEUE.json](WORK-QUEUE.json) for the next bounded task. This ledger records supported scholarly coverage and explicitly retained uncertainty; a saved inspection is not a whole-page collation.
 
-Preserved pre-continuation edition baseline: `afb5c5133357942267dc55fc60a1d22704d5ef08`. Current [Chapter 1](chapter-01.md) SHA-256: `a2e8b42b9986e091168398f8578cab0992cef08f7b49fcc41cb29413762c61c3`. See [C1-SIGNS-01](reviews/chapter-01/continuation/C1-SIGNS-01.md) and the [C1-SIGNS-02 review](reviews/chapter-01/continuation/C1-SIGNS-02.md); these local punctuation changes do not complete the edition.
+Preserved pre-continuation edition baseline: `afb5c5133357942267dc55fc60a1d22704d5ef08`. Current [Chapter 1](chapter-01.md) SHA-256: `869c3ebf629e298eb5e3911a3c0b93e7fab8c635f632170d11fd5bb1d4ab4a2e`. See [C1-SIGNS-01](reviews/chapter-01/continuation/C1-SIGNS-01.md) and the [C1-SIGNS-02 review](reviews/chapter-01/continuation/C1-SIGNS-02.md); these local punctuation changes do not complete the edition.
 
 ## What is already saved and integrated
 
 - **2,635 base anchors**, **359 exact supplied-transcript differences in 183 loci**, and **273 Wikisource lexical comparison blocks**.
 - **88 scan correction/source-layer/uncertainty records**, plus **13 restored main verses and one reply heading**.
-- **639 comparison records**, including qualified observations and uncertainty: Degé 78, Dzongsar 49, Gadkar 6, Langtang 2, Tharpaling 51, Tharpaling 1983 W27491 12, Tingkye 254, Tsamdrak 187. Not a confirmed-variant count or a coverage percentage.
+- **651 comparison records**, including qualified observations and uncertainty: Degé 78, Dzongsar 49, Gadkar 18, Langtang 2, Tharpaling 51, Tharpaling 1983 W27491 12, Tingkye 254, Tsamdrak 187. Not a confirmed-variant count or a coverage percentage.
 - Adzom's continuous **main lexical** pass, its targeted annotation audit, and Dzongsar's continuous **main lexical** comparison survive. They should not be discarded or repeated wholesale.
 
 Sources: [status](STATUS.json), [interventions](chapter-01.md#scan-interventions), [comparison records](collation/chapter-01/scan-comparison-loci.json), [base coverage](collation/chapter-01/scan-coverage.json).
@@ -122,3 +122,5 @@ Tsamdrak PDF24–26 integrated: twenty-one source-ordered rows, thirty selected 
 Degé PDF12–14 integrated: twenty-one source-ordered rows, fourteen scoped graphic/layer or uncertainty observations and eight separately indexed lexical questions. All twenty-eight Q entries remain explicit. Reconcile the already launched B09/PDF15–17 results after preserving any later Mac outputs. Entry is U00685 continuation ཤེས་བཀོད་པ་ལ. Retain Q12-01 through Q14-M01 and exact physical note/guide separations; do not relaunch blindly or certify unexamined pages.
 
 Tharpaling PDF4–6 partial collation integrated: eighteen inspected main rows, ten bounded-fragment records and thirty-seven separately indexed lexical questions. All seventy-two raw questions and the unresolved PDF6–7 join remain preserved. Inspect the actual PDF7 entry against bounded Q625/Q7E, and continue only from independently established words; its exact incoming anchor is unresolved. Preserve the PDF4–6 lexical, graphic and layer questions and distinguish an unread join from a missing leaf or witness omission. No wholesale repetition of the already recorded fragments is needed.
+
+Gadkar PDF2–3 opening integrated: eight source-ordered physical rows, twelve new bounded or provisional records, and three explicit rechecks of existing observations without duplicate entries. Continue a full Gadkar reading at PDF4 row1, U00033 continuation མེ་རླུང་གི, while retaining Q14 at the preceding edge. Older PDF4–11 locator findings do not replace full comparison. Keep all twenty-one opening questions and the independent cover/title-page limits.

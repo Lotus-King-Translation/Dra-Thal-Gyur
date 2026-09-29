@@ -8,7 +8,7 @@
   "batches": [
     {
       "batch_id": "B01-OPENING-P0002-0003",
-      "status": "claimed_prepared_not_read",
+      "status": "review_integrated_with_bounded_uncertainties",
       "owner": "reader-C1-GADKAR-B01-OPENING-P0002-0003",
       "baseline_commit": "01dc80b83303648317fd86853edb5c81b3a03970",
       "target_pages": [
@@ -24,9 +24,1489 @@
       "scope": "Bounded opening reading-capability and comparison test, Gadkar PDF2–3. Previous work located U00005–U00035 but did not certify suffixes/stacks. Read actual rows, including U00019 rig pa(s), all source layers, foreign title, headings and signs. Do not classify sharp cursive as globally illegible; state precisely what you can and cannot read.",
       "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-GADKAR/B01-OPENING-P0002-0003/manifest.json",
       "specification": "diplomatic/reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader-spec.json",
-      "rows_actually_compared": [],
-      "observations": [],
-      "canonical_record_ids": []
+      "rows_actually_compared": [
+        {
+          "pdf_page": 2,
+          "physical_row": 1,
+          "observed_sequence": "[O][K] [C:r][H2a][C:r] ར[Q01]་ཀ་ར་ཤ[Q02]་མ་ཧ[Q03]་པྲ་ས[Q04]་ག་ཏ[Q05]་ན[Q06]་མ[C] [H2b][C:r]",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00005",
+              "fragment": "language rubric; prefatory base component not established"
+            },
+            {
+              "anchor": "U00006",
+              "fragment": "partially deciphered foreign title"
+            },
+            {
+              "anchor": "U00007",
+              "fragment": "language rubric"
+            }
+          ],
+          "signs": [
+            {
+              "interval": "left opening",
+              "inventory": [
+                "O",
+                "K"
+              ]
+            },
+            {
+              "interval": "opening ornament to H2a",
+              "inventory": [
+                "open space",
+                "C:r"
+              ]
+            },
+            {
+              "interval": "H2a to foreign title",
+              "inventory": [
+                "C:r"
+              ]
+            },
+            {
+              "interval": "foreign title to H2b",
+              "inventory": [
+                "C"
+              ]
+            },
+            {
+              "interval": "after H2b",
+              "inventory": [
+                "C:r"
+              ],
+              "unallocated_upper_stroke": "Q18"
+            }
+          ],
+          "source_annotations": [
+            {
+              "layer": "rubric",
+              "references": [
+                "H2a",
+                "H2b"
+              ]
+            },
+            {
+              "layer": "unallocated upper stroke",
+              "reference": "Q18"
+            }
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "physical_row": 2,
+          "observed_sequence": "རིན་པོ་ཆེ་འབྱུང་བར་བྱེད་པ་སྒྲ་ཐལ་འགྱུར་ཆེན་པོ[Q07]་རྒྱུད་ཅེས་བྱ་བ[C] བཅོམ་ལྡན་འདས་རང་བྱུང་ཆེན་པོ་མཆོག་གི་",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00008",
+              "fragment": "title, with Q07"
+            },
+            {
+              "anchor": "U00009",
+              "fragment": "བཅོམ through གི"
+            }
+          ],
+          "signs": [
+            {
+              "interval": "བྱ་བ / བཅོམ",
+              "inventory": [
+                "C"
+              ]
+            },
+            {
+              "interval": "row ending after གི",
+              "inventory": [
+                "no separate terminal compound securely identified"
+              ]
+            }
+          ],
+          "source_annotations": [
+            {
+              "layer": "red main-text lettering",
+              "span": "བཅོམ་ལྡན་འདས",
+              "placement": "inline; not a separate small note"
+            }
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "physical_row": 3,
+          "observed_sequence": "སྟོན་པ[B][Q21] དཔལ་ཀུན་ཏུ་བཟང་པོ་ལ་ཕྱག་འཚལ་ལོ[C] འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན[C] འཁོར་དང་འདས་",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00009",
+              "fragment": "སྟོན་པ"
+            },
+            {
+              "anchor": "U00010",
+              "fragment": "homage"
+            },
+            {
+              "anchor": "U00012",
+              "fragment": "complete clause"
+            },
+            {
+              "anchor": "U00013",
+              "fragment": "འཁོར་དང་འདས"
+            }
+          ],
+          "signs": [
+            {
+              "interval": "སྟོན་པ / དཔལ",
+              "inventory": [
+                "B",
+                "Q21"
+              ]
+            },
+            {
+              "interval": "ལོ / འདི",
+              "inventory": [
+                "C"
+              ]
+            },
+            {
+              "interval": "ན / འཁོར",
+              "inventory": [
+                "C"
+              ]
+            }
+          ],
+          "source_annotations": [
+            {
+              "layer": "red main-text lettering",
+              "span": "དཔལ་ཀུན་ཏུ་བཟང་པོ་ལ",
+              "placement": "inline"
+            },
+            {
+              "layer": "small-note inspection",
+              "result": "No separate heading securely identified between the homage and འདི་སྐད."
+            }
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "physical_row": 4,
+          "observed_sequence": "པའི་ཐོག་མར་ནི[C][Q09] རང་བྱུང་བྱ[Q08]་པ་མེད་པ་ལས[C] འབྱུང་བ་འདུས་པའི་ཕུང་པོར་ཤར[C] ས་ཆུ་མེ་རླུང་འབྱུང་བ་བཞི[C] དབུས་སུ་རླུང་",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00013",
+              "fragment": "པའི through ནི"
+            },
+            {
+              "anchor": "U00014",
+              "fragment": "clause with unresolved suffix Q08"
+            },
+            {
+              "anchor": "U00015",
+              "fragment": "complete clause"
+            },
+            {
+              "anchor": "U00016",
+              "fragment": "complete clause"
+            },
+            {
+              "anchor": "U00017",
+              "fragment": "དབུས་སུ་རླུང"
+            }
+          ],
+          "signs": [
+            {
+              "interval": "ནི / རང",
+              "inventory": [
+                "C",
+                "Q09"
+              ]
+            },
+            {
+              "interval": "ལས / འབྱུང",
+              "inventory": [
+                "C"
+              ]
+            },
+            {
+              "interval": "ཤར / ས",
+              "inventory": [
+                "C"
+              ]
+            },
+            {
+              "interval": "བཞི / དབུས",
+              "inventory": [
+                "C"
+              ]
+            },
+            {
+              "interval": "right text edge",
+              "inventory": [
+                "letter extension near F; not counted as a terminal shad"
+              ]
+            }
+          ],
+          "source_annotations": []
+        },
+        {
+          "pdf_page": 3,
+          "physical_row": 1,
+          "observed_sequence": "[O][K] སེམས་རྒྱུ་དང་རྐྱེན[Q10] འདུས་ཤིང་བསྐྱེད་པའི་གཞལ་མེད་ཁང[C] རང་བྱུང་རིག་པ[Q11]་བཅོས་པ་མེད[C] འཁྲུལ་པ་ཡོངས་སུ་དག་པ་ལ[C] བདེ་",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00017",
+              "fragment": "སེམས through རྐྱེན"
+            },
+            {
+              "anchor": "U00018",
+              "fragment": "complete lexical clause"
+            },
+            {
+              "anchor": "U00019",
+              "fragment": "clause with unresolved པ/པས component Q11"
+            },
+            {
+              "anchor": "U00020",
+              "fragment": "complete clause"
+            },
+            {
+              "anchor": "U00021",
+              "fragment": "བདེ"
+            }
+          ],
+          "signs": [
+            {
+              "interval": "left opening",
+              "inventory": [
+                "O",
+                "K"
+              ]
+            },
+            {
+              "interval": "རྐྱེན / འདུས",
+              "inventory": [
+                "Q10"
+              ]
+            },
+            {
+              "interval": "ཁང / རང",
+              "inventory": [
+                "C"
+              ]
+            },
+            {
+              "interval": "མེད / འཁྲུལ",
+              "inventory": [
+                "C"
+              ]
+            },
+            {
+              "interval": "ལ / བདེ",
+              "inventory": [
+                "C"
+              ]
+            }
+          ],
+          "source_annotations": [
+            {
+              "layer": "red main-text lettering",
+              "span": "བདེ",
+              "placement": "right end; continues in the next physical row"
+            }
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "physical_row": 2,
+          "observed_sequence": "ཆེན་འདུས་པའི་ཐབས་ཀྱི་འཁོར[C] སྐུ་དང་ཡེ་ཤེས་[Q12]རབ་རླུང[C] མི་ཕྱེད་སྣ་ཚོགས་དམིགས་མེད་པས[C] རྩ་རླུང་ཐབས་ཀྱི་བདེ་ཆེན་ཆོས[C] སོ་སོའི་",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00021",
+              "fragment": "ཆེན through འཁོར"
+            },
+            {
+              "anchor": "U00022",
+              "fragment": "clause with unresolved repetition interval Q12"
+            },
+            {
+              "anchor": "U00023",
+              "fragment": "complete clause"
+            },
+            {
+              "anchor": "U00024",
+              "fragment": "complete clause"
+            },
+            {
+              "anchor": "U00025",
+              "fragment": "སོ་སོའི"
+            }
+          ],
+          "signs": [
+            {
+              "interval": "འཁོར / སྐུ",
+              "inventory": [
+                "C"
+              ]
+            },
+            {
+              "interval": "རླུང / མི",
+              "inventory": [
+                "C"
+              ]
+            },
+            {
+              "interval": "པས / རྩ",
+              "inventory": [
+                "C"
+              ]
+            },
+            {
+              "interval": "ཆོས / སོ",
+              "inventory": [
+                "C"
+              ]
+            }
+          ],
+          "source_annotations": [
+            {
+              "layer": "red main-text lettering",
+              "span": "ཆེན་འདུས་པའི",
+              "placement": "row beginning; continuation of red བདེ above"
+            }
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "physical_row": 3,
+          "observed_sequence": "[Q20]ཉམས་དང་མཐུན་པར་བཤད[C] འདས་དང་མ་འོངས་ད་ལྟར་མེད[C] མི་ཕྱེད་འབྱེད་པ་ཡོངས་སུ་མེད[C] ཐམས་ཅད་རང་བྱུང་ཡེ་ཤེས་སོ[C] འདི་སྐད་བདག་",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00025",
+              "fragment": "ཉམས through བཤད"
+            },
+            {
+              "anchor": "U00026",
+              "fragment": "complete clause"
+            },
+            {
+              "anchor": "U00027",
+              "fragment": "complete clause"
+            },
+            {
+              "anchor": "U00028",
+              "fragment": "complete clause"
+            },
+            {
+              "anchor": "U00030",
+              "fragment": "འདི་སྐད་བདག"
+            }
+          ],
+          "signs": [
+            {
+              "interval": "left text edge before ཉམས",
+              "inventory": [
+                "Q20"
+              ]
+            },
+            {
+              "interval": "བཤད / འདས",
+              "inventory": [
+                "C"
+              ]
+            },
+            {
+              "interval": "མེད / མི",
+              "inventory": [
+                "C"
+              ]
+            },
+            {
+              "interval": "མེད / ཐམས",
+              "inventory": [
+                "C"
+              ]
+            },
+            {
+              "interval": "སོ / འདི",
+              "inventory": [
+                "C"
+              ]
+            }
+          ],
+          "source_annotations": [
+            {
+              "layer": "small-note inspection",
+              "result": "No separate heading securely identified between སོ and འདི་སྐད."
+            }
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "physical_row": 4,
+          "observed_sequence": "གིས་ཐོས་པའི་དུས་གཅིག་ན[C][Q19] དགའ་དང་ལྡན་པ་བསོད་ནམས་[Q13][C] འགྲོ་བ་རྣམས་ཀྱི་ཐོག་མའི་ཡུལ[C] ས་དང་ཆུ་[Q14]",
+          "ordered_anchor_fragments": [
+            {
+              "anchor": "U00030",
+              "fragment": "གིས through ན"
+            },
+            {
+              "anchor": "U00031",
+              "fragment": "clause with final component Q13"
+            },
+            {
+              "anchor": "U00032",
+              "fragment": "complete clause"
+            },
+            {
+              "anchor": "U00033",
+              "fragment": "ས་དང་ཆུ followed by Q14; continues on page 4"
+            }
+          ],
+          "signs": [
+            {
+              "interval": "ན / དགའ",
+              "inventory": [
+                "C",
+                "Q19"
+              ]
+            },
+            {
+              "interval": "Q13 / འགྲོ",
+              "inventory": [
+                "C"
+              ]
+            },
+            {
+              "interval": "ཡུལ / ས",
+              "inventory": [
+                "C"
+              ]
+            },
+            {
+              "interval": "ཆུ through right text edge",
+              "inventory": [
+                "Q14"
+              ],
+              "allocation": "Final letter strokes versus independent bars remain unresolved; no filler train asserted."
+            }
+          ],
+          "source_annotations": [
+            {
+              "layer": "surface interference",
+              "reference": "Q13",
+              "placement": "small grey-dark interruption at the upper part of the final component of U00031"
+            }
+          ]
+        }
+      ],
+      "observations": [
+        {
+          "id": "P2-O01",
+          "pdf_page": 2,
+          "anchors": [
+            "U00005",
+            "U00006",
+            "U00007"
+          ],
+          "source_span": "Opening ornament, red language rubrics and intervening black foreign title in physical row 1.",
+          "base_span": "Opening apparatus and title anchors.",
+          "category": "physical_layers",
+          "neighboring_context": "Tibetan title begins in row 2.",
+          "approximate_native_bounds": [
+            850,
+            170,
+            3200,
+            285
+          ],
+          "confidence": {
+            "layout": "high",
+            "rubric_reading": "moderate",
+            "foreign_title": "partial"
+          },
+          "rationale": "Four physical rows are visible. Rubrics, ornament and main title occupy distinct components of the first row; overlapping crops do not create additional rows.",
+          "coordinator_disposition": "ledger_only"
+        },
+        {
+          "id": "P2-O02",
+          "pdf_page": 2,
+          "anchors": [
+            "U00005"
+          ],
+          "source_span": "[O][K], open interval, [C:r], རྒྱ་གར་སྐད་དུ.",
+          "base_span": "གཾགརྦམཏགཱ before the language rubric.",
+          "category": "local_noncorrespondence",
+          "neighboring_context": "Foreign title follows the rubric.",
+          "approximate_native_bounds": [
+            860,
+            185,
+            1840,
+            280
+          ],
+          "confidence": {
+            "layout": "high",
+            "local_noncorrespondence": "moderate",
+            "alignment": "high"
+          },
+          "rationale": "I do not identify that prefatory lexical component in this inspected interval. This does not establish its absence elsewhere.",
+          "coordinator_disposition": "local_noncorrespondence_only"
+        },
+        {
+          "id": "P2-O03",
+          "pdf_page": 2,
+          "anchors": [
+            "U00006"
+          ],
+          "source_span": "Foreign-title reading islands separated by Q01–Q06.",
+          "base_span": "Foreign-title compound.",
+          "category": "unresolved_stacks_and_vowels",
+          "neighboring_context": "Between H2a and H2b.",
+          "approximate_native_bounds": [
+            1870,
+            170,
+            2830,
+            275
+          ],
+          "confidence": {
+            "reading": "partial",
+            "stacks": "low",
+            "alignment": "high",
+            "placement": "high"
+          },
+          "rationale": "Several consonant bodies are distinguishable, but Sanskrit stack components and vowel-length or upper marks are not independently settled. The base has not been used to complete them.",
+          "coordinator_disposition": "bounded_comparison"
+        },
+        {
+          "id": "P2-O04",
+          "pdf_page": 2,
+          "anchors": [
+            "U00008"
+          ],
+          "source_span": "ཆེན་པོ[Q07]་རྒྱུད",
+          "base_span": "ཆེན་པོའི་རྒྱུད",
+          "category": "unresolved_component",
+          "neighboring_context": "ཐལ་འགྱུར before; ཅེས་བྱ་བ after.",
+          "approximate_native_bounds": [
+            1710,
+            250,
+            2040,
+            345
+          ],
+          "confidence": {
+            "lexical_context": "moderate",
+            "genitive_component": "unresolved",
+            "alignment": "high"
+          },
+          "rationale": "The neighboring title words do not independently settle the compressed component after པོ.",
+          "coordinator_disposition": "bounded_comparison"
+        },
+        {
+          "id": "P2-O05",
+          "pdf_page": 2,
+          "anchors": [
+            "U00014"
+          ],
+          "source_span": "རང་བྱུང་བྱ[Q08]་པ་མེད་པ་ལས",
+          "base_span": "བྱས་པ",
+          "category": "unresolved_suffix",
+          "neighboring_context": "After the conclusion of U00013; before འབྱུང་བ.",
+          "approximate_native_bounds": [
+            1190,
+            395,
+            1750,
+            493
+          ],
+          "confidence": {
+            "surrounding_reading": "moderate",
+            "suffix": "unresolved",
+            "alignment": "high"
+          },
+          "rationale": "The potential suffix is not certified merely by the readable clause around it.",
+          "coordinator_disposition": "bounded_comparison"
+        },
+        {
+          "id": "P2-O06",
+          "pdf_page": 2,
+          "anchors": [
+            "U00008",
+            "U00009",
+            "U00010",
+            "U00012",
+            "U00013",
+            "U00014",
+            "U00015",
+            "U00016"
+          ],
+          "source_span": "C compounds at the recorded clause boundaries; B and Q21 at སྟོན་པ / དཔལ; Q09 before རང.",
+          "base_span": "Ordinary and paired shads in the alignment aid.",
+          "category": "graphic_punctuation",
+          "neighboring_context": "Boundary inventories appear in their physical rows.",
+          "approximate_native_bounds": [
+            805,
+            250,
+            3200,
+            500
+          ],
+          "confidence": {
+            "compound_shape": "high",
+            "bar_allocation": "partial",
+            "alignment": "high"
+          },
+          "rationale": "The repeated looped compounds are retained graphically. Potential next-leading strokes are included in the interval inventories rather than discarded or silently attached to the preceding clause.",
+          "coordinator_disposition": "ledger_only"
+        },
+        {
+          "id": "P2-O07",
+          "pdf_page": 2,
+          "anchors": [
+            "U00010",
+            "U00011",
+            "U00012"
+          ],
+          "source_span": "ཕྱག་འཚལ་ལོ[C] འདི་སྐད",
+          "base_span": "U00011: ཐུན་མོང་མ་ཡིན་པའི་གླེང་གཞི་བཀོད་པ",
+          "category": "local_heading_noncorrespondence",
+          "neighboring_context": "Homage proceeds into the opening narrative clause.",
+          "approximate_native_bounds": [
+            1520,
+            315,
+            2180,
+            420
+          ],
+          "confidence": {
+            "main_sequence": "moderate",
+            "placement": "high",
+            "local_heading_inspection": "moderate"
+          },
+          "rationale": "No separate small heading is securely identified here. This is a comparison of local source layers, not a claim that a main verse is missing.",
+          "coordinator_disposition": "recheck_GAD-CH1-002"
+        },
+        {
+          "id": "P2-O08",
+          "pdf_page": 2,
+          "anchors": [],
+          "source_span": "Faint upper-margin I; upper-right Q18; red framing F.",
+          "base_span": null,
+          "category": "non_main_graphics",
+          "neighboring_context": "I lies above the text frame; Q18 lies near H2b and the right end of row 2.",
+          "approximate_native_bounds": [
+            [
+              1305,
+              25,
+              1345,
+              88
+            ],
+            [
+              3075,
+              170,
+              3190,
+              250
+            ]
+          ],
+          "confidence": {
+            "presence": "moderate",
+            "numeral_identification": "not_assigned",
+            "upper_stroke_allocation": "unresolved"
+          },
+          "rationale": "Neither the faint upright nor the upper-right stroke is promoted to a numeral or independent annotation without a secure reading.",
+          "coordinator_disposition": "ledger_only"
+        },
+        {
+          "id": "P2-O09",
+          "pdf_page": 2,
+          "anchors": [
+            "U00017"
+          ],
+          "source_span": "དབུས་སུ་རླུང",
+          "base_span": "Beginning of U00017.",
+          "category": "outgoing_correspondence",
+          "neighboring_context": "Page 3 row 1 begins སེམས་རྒྱུ་དང་རྐྱེན.",
+          "approximate_native_bounds": [
+            2920,
+            395,
+            3200,
+            497
+          ],
+          "confidence": {
+            "reading": "moderate",
+            "alignment": "high",
+            "page_boundary": "high"
+          },
+          "rationale": "The page transition is established from adjoining source words, not the broad anchor range.",
+          "coordinator_disposition": "ledger_only"
+        },
+        {
+          "id": "P3-O01",
+          "pdf_page": 3,
+          "anchors": [
+            "U00019"
+          ],
+          "source_span": "རང་བྱུང་རིག་པ[Q11]་བཅོས་པ་མེད",
+          "base_span": "རིག་པས",
+          "category": "unresolved_suffix",
+          "neighboring_context": "After གཞལ་མེད་ཁང[C]; before འཁྲུལ་པ.",
+          "approximate_native_bounds": [
+            2010,
+            165,
+            2540,
+            263
+          ],
+          "confidence": {
+            "རིག་པ": "moderate",
+            "suffix_s": "unresolved",
+            "neighboring_words": "moderate",
+            "alignment": "high"
+          },
+          "rationale": "I cannot independently distinguish the proposed final ས from the neighboring cursive strokes. Neither པ nor པས is certified as the complete syllable.",
+          "coordinator_disposition": "recheck_GAD-CH1-004"
+        },
+        {
+          "id": "P3-O02",
+          "pdf_page": 3,
+          "anchors": [
+            "U00022"
+          ],
+          "source_span": "ཡེ་ཤེས་[Q12]རབ་རླུང",
+          "base_span": "ཡེ་ཤེས་ཤེས་རབ་རླུང",
+          "category": "unresolved_repetition",
+          "neighboring_context": "སྐུ་དང before; C and མི་ཕྱེད after.",
+          "approximate_native_bounds": [
+            1370,
+            245,
+            1850,
+            338
+          ],
+          "confidence": {
+            "outer_words": "moderate",
+            "repetition_count": "unresolved",
+            "alignment": "high"
+          },
+          "rationale": "The count of ཤེས components cannot be certified from my reading of the compressed middle group; neither repetition nor omission is asserted.",
+          "coordinator_disposition": "bounded_comparison"
+        },
+        {
+          "id": "P3-O03",
+          "pdf_page": 3,
+          "anchors": [
+            "U00031"
+          ],
+          "source_span": "བསོད་ནམས་[Q13][C]",
+          "base_span": "བསོད་ནམས་བརྩེགས",
+          "category": "unresolved_stack_with_surface_interference",
+          "neighboring_context": "དགའ་དང་ལྡན་པ before; འགྲོ་བ after.",
+          "approximate_native_bounds": [
+            1830,
+            390,
+            2190,
+            491
+          ],
+          "confidence": {
+            "context": "moderate",
+            "final_component": "unresolved",
+            "surface_interference": "high",
+            "alignment": "high"
+          },
+          "rationale": "A small interruption crosses the upper strokes; the expected final word is not supplied from the base.",
+          "coordinator_disposition": "bounded_comparison"
+        },
+        {
+          "id": "P3-O04",
+          "pdf_page": 3,
+          "anchors": [
+            "U00033"
+          ],
+          "source_span": "ས་དང་ཆུ་[Q14]",
+          "base_span": "Opening portion of U00033.",
+          "category": "outgoing_correspondence_and_terminal_uncertainty",
+          "neighboring_context": "The adjacent page 4 begins མེ་རླུང་གི[C].",
+          "approximate_native_bounds": [
+            2940,
+            405,
+            3190,
+            493
+          ],
+          "confidence": {
+            "readable_prefix": "moderate",
+            "terminal_component": "unresolved",
+            "continuation_alignment": "high"
+          },
+          "rationale": "The neighboring source incipit supports continuation within U00033, but does not resolve the preceding final letters or their distinction from bars.",
+          "coordinator_disposition": "bounded_comparison"
+        },
+        {
+          "id": "P3-O05",
+          "pdf_page": 3,
+          "anchors": [
+            "U00028",
+            "U00029",
+            "U00030"
+          ],
+          "source_span": "ཡེ་ཤེས་སོ[C] འདི་སྐད་བདག",
+          "base_span": "U00029: ཐུན་མོང་གི་གླེང་གཞི་བཀོད་པ",
+          "category": "local_heading_noncorrespondence",
+          "neighboring_context": "The narrative clause continues at the beginning of row 4.",
+          "approximate_native_bounds": [
+            2660,
+            315,
+            3200,
+            414
+          ],
+          "confidence": {
+            "main_sequence": "moderate",
+            "placement": "high",
+            "local_heading_inspection": "moderate"
+          },
+          "rationale": "No separate heading is securely read in this local interval. No global absence or historical explanation is inferred.",
+          "coordinator_disposition": "recheck_GAD-CH1-003"
+        },
+        {
+          "id": "P3-O06",
+          "pdf_page": 3,
+          "anchors": [
+            "U00017",
+            "U00018",
+            "U00019",
+            "U00020",
+            "U00021",
+            "U00022",
+            "U00023",
+            "U00024",
+            "U00025",
+            "U00026",
+            "U00027",
+            "U00028",
+            "U00030",
+            "U00031",
+            "U00032",
+            "U00033"
+          ],
+          "source_span": "Four rows with C boundary compounds; Q10, Q19 and Q20 preserve unresolved intervals.",
+          "base_span": "Verse punctuation in the alignment aid.",
+          "category": "physical_rows_and_graphic_punctuation",
+          "neighboring_context": "Opening O/K is separate; red བདེ continues as red ཆེན་འདུས་པའི on row 2.",
+          "approximate_native_bounds": [
+            730,
+            165,
+            3200,
+            495
+          ],
+          "confidence": {
+            "row_count": "high",
+            "compound_shape": "high",
+            "boundary_allocation": "partial",
+            "red_layer": "moderate"
+          },
+          "rationale": "Red main-text lettering does not by itself constitute a separate heading. Ordinary letter limbs, detached strokes and compounds remain distinct; doubtful allocations are explicitly retained.",
+          "coordinator_disposition": "ledger_only"
+        },
+        {
+          "id": "P3-O07",
+          "pdf_page": 3,
+          "anchors": [],
+          "source_span": "Q15 red marginal glyph; Q16 upper black group; Q17 lower black label.",
+          "base_span": null,
+          "category": "unresolved_marginal_labels",
+          "neighboring_context": "Outside the left main-text frame.",
+          "approximate_native_bounds": [
+            175,
+            135,
+            285,
+            590
+          ],
+          "confidence": {
+            "presence_and_separation": "high",
+            "lexical_reading": "unresolved",
+            "numeral_value": "not_assigned"
+          },
+          "rationale": "The three marginal components are kept separate. Their identities are not inferred from page order or the expected title.",
+          "coordinator_disposition": "ledger_only"
+        }
+      ],
+      "canonical_record_ids": [
+        "GAD-COV1-B01-P2-O02",
+        "GAD-COV1-B01-P2-O03",
+        "GAD-COV1-B01-P2-O04",
+        "GAD-COV1-B01-P2-O05",
+        "GAD-COV1-B01-P3-O02",
+        "GAD-COV1-B01-P3-O03",
+        "GAD-COV1-B01-P3-O04",
+        "GAD-COV1-B01-SIGN-Q09",
+        "GAD-COV1-B01-SIGN-Q10",
+        "GAD-COV1-B01-SIGN-Q19",
+        "GAD-COV1-B01-SIGN-Q20",
+        "GAD-COV1-B01-SIGN-Q21"
+      ],
+      "source_layers_and_non_main_regions": [
+        {
+          "pdf_page": 2,
+          "regions": [
+            {
+              "id": "P2-OPEN",
+              "kind": "opening ornament",
+              "observed_sequence": "[O][K]",
+              "approximate_native_bounds": [
+                860,
+                190,
+                1135,
+                268
+              ]
+            },
+            {
+              "id": "H2a",
+              "kind": "language rubric",
+              "observed_sequence": "རྒྱ་གར་སྐད་དུ",
+              "ink": "red",
+              "approximate_native_bounds": [
+                1450,
+                195,
+                1830,
+                280
+              ]
+            },
+            {
+              "id": "H2b",
+              "kind": "language rubric",
+              "observed_sequence": "བོད་སྐད་དུ",
+              "ink": "predominantly red; dark upper strokes nearby",
+              "approximate_native_bounds": [
+                2850,
+                170,
+                3130,
+                270
+              ]
+            },
+            {
+              "id": "P2-UPPER-RIGHT",
+              "kind": "unallocated upper stroke",
+              "observed_sequence": "[Q18]"
+            },
+            {
+              "id": "P2-UPPER-MARGIN",
+              "kind": "isolated graphic mark",
+              "observed_sequence": "[I]",
+              "approximate_native_bounds": [
+                1305,
+                25,
+                1345,
+                88
+              ]
+            },
+            {
+              "id": "P2-FRAME",
+              "kind": "ruling",
+              "observed_sequence": "[F]",
+              "description": "Nested red horizontal and vertical rulings; excluded from textual signs."
+            }
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "regions": [
+            {
+              "id": "P3-OPEN",
+              "kind": "opening ornament",
+              "observed_sequence": "[O][K]",
+              "approximate_native_bounds": [
+                735,
+                170,
+                950,
+                245
+              ]
+            },
+            {
+              "id": "P3-RED-MARGIN",
+              "kind": "isolated red marginal glyph",
+              "observed_sequence": "[Q15]"
+            },
+            {
+              "id": "P3-BLACK-MARGIN-UPPER",
+              "kind": "upper black marginal group",
+              "observed_sequence": "[Q16]"
+            },
+            {
+              "id": "P3-BLACK-MARGIN-LOWER",
+              "kind": "lower black marginal label",
+              "observed_sequence": "[Q17]"
+            },
+            {
+              "id": "P3-FRAME",
+              "kind": "ruling",
+              "observed_sequence": "[F]",
+              "description": "Red frame and outer margin divisions; not textual bars."
+            }
+          ]
+        }
+      ],
+      "unread_or_uncertain_spans": [
+        {
+          "id": "Q01",
+          "pdf_page": 2,
+          "anchor": "U00006",
+          "native_bounds": [
+            1890,
+            175,
+            2065,
+            270
+          ],
+          "exact_question": "What consonant/subjoined material completes the first foreign-title group after the visible ར?"
+        },
+        {
+          "id": "Q02",
+          "pdf_page": 2,
+          "anchor": "U00006",
+          "native_bounds": [
+            2120,
+            175,
+            2330,
+            272
+          ],
+          "exact_question": "What components complete the foreign-title group beginning ཤ? The apparent stack and final consonants are not settled."
+        },
+        {
+          "id": "Q03",
+          "pdf_page": 2,
+          "anchor": "U00006",
+          "native_bounds": [
+            2320,
+            175,
+            2460,
+            270
+          ],
+          "exact_question": "What vowel-length or additional material belongs to the group read provisionally as ཧ after མ?"
+        },
+        {
+          "id": "Q04",
+          "pdf_page": 2,
+          "anchor": "U00006",
+          "native_bounds": [
+            2450,
+            175,
+            2610,
+            270
+          ],
+          "exact_question": "What upper or following material belongs to ས after the apparent པྲ group?"
+        },
+        {
+          "id": "Q05",
+          "pdf_page": 2,
+          "anchor": "U00006",
+          "native_bounds": [
+            2590,
+            175,
+            2760,
+            272
+          ],
+          "exact_question": "What consonant stack completes the group beginning ཏ after ག?"
+        },
+        {
+          "id": "Q06",
+          "pdf_page": 2,
+          "anchor": "U00006",
+          "native_bounds": [
+            2730,
+            175,
+            2835,
+            270
+          ],
+          "exact_question": "What vowel-length or other component accompanies the penultimate ན before the final མ?"
+        },
+        {
+          "id": "Q07",
+          "pdf_page": 2,
+          "anchor": "U00008",
+          "native_bounds": [
+            1740,
+            250,
+            2010,
+            345
+          ],
+          "exact_question": "Resolve the compressed material after ཆེན་པོ and before རྒྱུད; is an independently legible genitive component present?"
+        },
+        {
+          "id": "Q08",
+          "pdf_page": 2,
+          "anchor": "U00014",
+          "native_bounds": [
+            1395,
+            395,
+            1565,
+            493
+          ],
+          "exact_question": "Is a final ས actually present after བྱ before པ? Identify it independently of the base."
+        },
+        {
+          "id": "Q09",
+          "pdf_page": 2,
+          "anchor": "U00013/U00014",
+          "native_bounds": [
+            1100,
+            395,
+            1265,
+            493
+          ],
+          "exact_question": "Inventory the entire interval after ནི and its C compound through the onset of རང: is the additional narrow stroke detached punctuation or part of the initial letter?"
+        },
+        {
+          "id": "Q10",
+          "pdf_page": 3,
+          "anchor": "U00017/U00018",
+          "native_bounds": [
+            1235,
+            165,
+            1470,
+            265
+          ],
+          "exact_question": "Resolve the boundary between རྐྱེན and འདུས, including whether a separate bar or compound is present."
+        },
+        {
+          "id": "Q11",
+          "pdf_page": 3,
+          "anchor": "U00019",
+          "native_bounds": [
+            2230,
+            165,
+            2380,
+            263
+          ],
+          "exact_question": "Does རིག་པ carry a final ས before བཅོས, or do the intervening strokes belong to the following group? No suffix is supplied."
+        },
+        {
+          "id": "Q12",
+          "pdf_page": 3,
+          "anchor": "U00022",
+          "native_bounds": [
+            1510,
+            245,
+            1740,
+            338
+          ],
+          "exact_question": "Between the first readable ཤེས and རབ, is another ཤེས present? Resolve the compressed group and its separators without assuming the base repetition."
+        },
+        {
+          "id": "Q13",
+          "pdf_page": 3,
+          "anchor": "U00031",
+          "native_bounds": [
+            1980,
+            390,
+            2170,
+            493
+          ],
+          "exact_question": "Read the final component after བསོད་ནམས and before C, including the upper stack crossed by the small surface interruption."
+        },
+        {
+          "id": "Q14",
+          "pdf_page": 3,
+          "anchor": "U00033",
+          "native_bounds": [
+            3070,
+            405,
+            3195,
+            495
+          ],
+          "exact_question": "Resolve all strokes following ཆུ to the row edge: which constitute a lexical continuation, and are any independent bars or filler marks?"
+        },
+        {
+          "id": "Q15",
+          "pdf_page": 3,
+          "anchor": null,
+          "native_bounds": [
+            175,
+            135,
+            240,
+            210
+          ],
+          "exact_question": "Identify the isolated red angular marginal glyph without assigning a value from expected folio or volume order."
+        },
+        {
+          "id": "Q16",
+          "pdf_page": 3,
+          "anchor": null,
+          "native_bounds": [
+            195,
+            248,
+            272,
+            344
+          ],
+          "exact_question": "Read the upper black marginal group, including any numeral or terminal sign; its value is not inferred."
+        },
+        {
+          "id": "Q17",
+          "pdf_page": 3,
+          "anchor": null,
+          "native_bounds": [
+            175,
+            355,
+            285,
+            590
+          ],
+          "exact_question": "Read the lower rotated black marginal label in its actual order; its words are not supplied from the work's title."
+        },
+        {
+          "id": "Q18",
+          "pdf_page": 2,
+          "anchor": null,
+          "native_bounds": [
+            3075,
+            170,
+            3190,
+            250
+          ],
+          "exact_question": "Is the small upper-right dark curved stroke independent, part of the red rubric's mixed-ink lettering, or an upper component of the row below?"
+        },
+        {
+          "id": "Q19",
+          "pdf_page": 3,
+          "anchor": "U00030/U00031",
+          "native_bounds": [
+            1300,
+            395,
+            1470,
+            495
+          ],
+          "exact_question": "After the C following ན, is the next leading narrow stroke an independent bar or part of དགའ?"
+        },
+        {
+          "id": "Q20",
+          "pdf_page": 3,
+          "anchor": "U00025",
+          "native_bounds": [
+            730,
+            320,
+            825,
+            410
+          ],
+          "exact_question": "At the beginning of row 3, is the leftmost short stroke separate punctuation or an attached component of ཉམས?"
+        },
+        {
+          "id": "Q21",
+          "pdf_page": 2,
+          "anchor": "U00009/U00010",
+          "native_bounds": [
+            940,
+            325,
+            1040,
+            407
+          ],
+          "exact_question": "Following the discernible dark bar after སྟོན་པ, does the leading red stroke constitute another bar or belong to the initial red དཔལ?"
+        }
+      ],
+      "unexamined_spans": [
+        {
+          "pdf_page": 1,
+          "kind": "deliberately_excluded_flank",
+          "span": "Title-page context was viewed; exhaustive lexical, marginal and sign collation was not undertaken."
+        },
+        {
+          "pdf_page": 4,
+          "kind": "deliberately_excluded_flank",
+          "span": "Layout and opening continuation were viewed; the remaining page was not lexically collated."
+        }
+      ],
+      "next_physical_span": "Continue a full Gadkar reading at PDF4 row1, U00033 continuation མེ་རླུང་གི, while retaining Q14 at the preceding edge. Older PDF4–11 locator findings do not replace full comparison. Keep all twenty-one opening questions and the independent cover/title-page limits.",
+      "integration_20260929": {
+        "verified_inputs": {
+          "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt",
+          "sha256": "965421634abc8d5c0814cfd65aa596865284703493c7bea74e3a5b4aa62a2dce",
+          "images_hash_verified": 12,
+          "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader-execution.json"
+        },
+        "baseline_commit": "d84fd5a3bdb2757a525925476a85ae983c59e9a1",
+        "coordinator": {
+          "summary": "Gadkar PDF2–3 opening integrated: eight source-ordered physical rows, twelve new bounded or provisional records, and three explicit rechecks of existing observations without duplicate entries.",
+          "detail": "The earlier U00011/U00029 local heading nonobservations and U00019 suffix uncertainty remain under GAD-CH1-002/003/004. The new reader does not resolve the suffix or establish global heading absence. The foreign-title clusters, U00022 repetition, title genitive and five separately indexed graphic intervals remain uncertain. Red main-text lettering is not converted into a heading.",
+          "coordinator_scope": "Viewed both native page layouts and the left and overlapping middle/right native columns. Checked the four-row layout, colored rubrics versus continuing main text, foreign-title region and local uncertain stack/boundary positions. No script normalization or expected ordinal/name was supplied.",
+          "next_step": "Continue a full Gadkar reading at PDF4 row1, U00033 continuation མེ་རླུང་གི, while retaining Q14 at the preceding edge. Older PDF4–11 locator findings do not replace full comparison. Keep all twenty-one opening questions and the independent cover/title-page limits.",
+          "observation_dispositions": {
+            "P2-O01": "ledger_only",
+            "P2-O02": "local_noncorrespondence_only",
+            "P2-O03": "bounded_comparison",
+            "P2-O04": "bounded_comparison",
+            "P2-O05": "bounded_comparison",
+            "P2-O06": "ledger_only",
+            "P2-O07": "recheck_GAD-CH1-002",
+            "P2-O08": "ledger_only",
+            "P2-O09": "ledger_only",
+            "P3-O01": "recheck_GAD-CH1-004",
+            "P3-O02": "bounded_comparison",
+            "P3-O03": "bounded_comparison",
+            "P3-O04": "bounded_comparison",
+            "P3-O05": "recheck_GAD-CH1-003",
+            "P3-O06": "ledger_only",
+            "P3-O07": "ledger_only"
+          },
+          "existing_record_rechecks": {
+            "P2-O07": "GAD-CH1-002",
+            "P3-O05": "GAD-CH1-003",
+            "P3-O01": "GAD-CH1-004"
+          },
+          "disposition_legend": {
+            "ledger_only": "Retain layout, graphic inventory, margin or page-join evidence in the report. Do not create a duplicate variant or enlarge declared coverage.",
+            "bounded_comparison": "Preserve the bounded unresolved source component; no accepted missing letter, repetition count or completed foreign name is asserted.",
+            "local_noncorrespondence_only": "Record only the inspected prefatory interval, with moderate confidence; do not infer absence elsewhere.",
+            "recheck_GAD-CH1-002": "Reaffirm only the previously recorded local heading nonobservation at the electronic junction. Preserve the known difference from Adzom physical placement; no duplicate apparatus record.",
+            "recheck_GAD-CH1-003": "Reaffirm only the previously recorded local heading nonobservation. No whole-witness omission or historical explanation is inferred; no duplicate.",
+            "recheck_GAD-CH1-004": "A separate reader again leaves rig pa(s) unresolved. Preserve the existing candidate and the new precise bounds rather than adopt the suffix or duplicate the record."
+          }
+        },
+        "reader_claims_not_automatically_certified": true
+      },
+      "graphic_legend": {
+        "[C]": "Two vertically arranged small loop/dot elements; retained as a graphic compound, not converted to double shads.",
+        "[C:r]": "The same general compound in red.",
+        "[B]": "A detached short bar.",
+        "[O]": "Opening swash with successive black, red and black lobes.",
+        "[K]": "Following vertical ornamental stack: upper dark element, short intervening strokes, lower loop.",
+        "[F]": "Red ruling or frame, excluded from textual punctuation.",
+        "[I]": "Faint isolated upright stroke; no numeral value assigned.",
+        "[H2a] and [H2b]": "Language rubrics transcribed separately in non_main_regions.",
+        "[Qnn]": "Unresolved component or boundary interval; its exact question is stated once in unread_after_inspection.",
+        "interval_policy": "Signs inventories cover the whole interval between their named neighbors. A Q at an interval does not assert an additional character. Spaces between reading blocks are editorial."
+      },
+      "independent_review": {
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "965421634abc8d5c0814cfd65aa596865284703493c7bea74e3a5b4aa62a2dce",
+        "images_hash_verified": 12,
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-GADKAR-B01-OPENING-P0002-0003-reader-execution.json",
+        "scope": {
+          "target_rows_inspected": 8,
+          "target_rows_omitted": [],
+          "target_pages_finished_for_inspection": [
+            2,
+            3
+          ],
+          "decipherment": "Partial: every target row is represented, with unresolved components and sign intervals explicitly Q-coded.",
+          "certification": "The suffix at U00019, foreign-title stacks, repetition at U00022, marginal readings and other listed questions remain uncertified. This does not replace earlier saved coverage or certify a chapter or witness."
+        },
+        "proposals_adopted": false
+      },
+      "supplementary_observations": [
+        {
+          "id": "SIGN-Q09",
+          "pdf_page": 2,
+          "anchors": [
+            "U00013",
+            "U00014"
+          ],
+          "source_span": "[Q09] Inventory the entire interval after ནི and its C compound through the onset of རང: is the additional narrow stroke detached punctuation or part of the initial letter?",
+          "base_span": {
+            "U00013": "འཁོར་དང་འདས་པའི་ཐོག་མར་ནི། །",
+            "U00014": "རང་བྱུང་བྱས་པ་མེད་པ་ལས། །"
+          },
+          "category": "bounded_graphic_allocation_uncertainty",
+          "approximate_native_bounds": [
+            1100,
+            395,
+            1265,
+            493
+          ],
+          "confidence": {
+            "source_position": "high",
+            "graphic_allocation": "unresolved"
+          },
+          "rationale": "Explicitly project the original graphic question without resolving it; all actual component and neighboring-letter testimony remains in the unchanged raw row inventory."
+        },
+        {
+          "id": "SIGN-Q10",
+          "pdf_page": 3,
+          "anchors": [
+            "U00017",
+            "U00018"
+          ],
+          "source_span": "[Q10] Resolve the boundary between རྐྱེན and འདུས, including whether a separate bar or compound is present.",
+          "base_span": {
+            "U00017": "དབུས་སུ་རླུང་སེམས་རྒྱུ་དང་རྐྱེན། །",
+            "U00018": "འདུས་ཤིང་བསྐྱེད་པའི་གཞལ་མེད་ཁང་། །"
+          },
+          "category": "bounded_graphic_allocation_uncertainty",
+          "approximate_native_bounds": [
+            1235,
+            165,
+            1470,
+            265
+          ],
+          "confidence": {
+            "source_position": "high",
+            "graphic_allocation": "unresolved"
+          },
+          "rationale": "Explicitly project the original graphic question without resolving it; all actual component and neighboring-letter testimony remains in the unchanged raw row inventory."
+        },
+        {
+          "id": "SIGN-Q19",
+          "pdf_page": 3,
+          "anchors": [
+            "U00030",
+            "U00031"
+          ],
+          "source_span": "[Q19] After the C following ན, is the next leading narrow stroke an independent bar or part of དགའ?",
+          "base_span": {
+            "U00030": "འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན། །",
+            "U00031": " དགའ་དང་ལྡན་པ་བསོད་ནམས་བརྩེགས། །"
+          },
+          "category": "bounded_graphic_allocation_uncertainty",
+          "approximate_native_bounds": [
+            1300,
+            395,
+            1470,
+            495
+          ],
+          "confidence": {
+            "source_position": "high",
+            "graphic_allocation": "unresolved"
+          },
+          "rationale": "Explicitly project the original graphic question without resolving it; all actual component and neighboring-letter testimony remains in the unchanged raw row inventory."
+        },
+        {
+          "id": "SIGN-Q20",
+          "pdf_page": 3,
+          "anchors": [
+            "U00025"
+          ],
+          "source_span": "[Q20] At the beginning of row 3, is the leftmost short stroke separate punctuation or an attached component of ཉམས?",
+          "base_span": {
+            "U00025": "སོ་སོའི་ཉམས་དང་མཐུན་པར་བཤད། །"
+          },
+          "category": "bounded_graphic_allocation_uncertainty",
+          "approximate_native_bounds": [
+            730,
+            320,
+            825,
+            410
+          ],
+          "confidence": {
+            "source_position": "high",
+            "graphic_allocation": "unresolved"
+          },
+          "rationale": "Explicitly project the original graphic question without resolving it; all actual component and neighboring-letter testimony remains in the unchanged raw row inventory."
+        },
+        {
+          "id": "SIGN-Q21",
+          "pdf_page": 2,
+          "anchors": [
+            "U00009",
+            "U00010"
+          ],
+          "source_span": "[Q21] Following the discernible dark bar after སྟོན་པ, does the leading red stroke constitute another bar or belong to the initial red དཔལ?",
+          "base_span": {
+            "U00009": " བཅོམ་ལྡན་འདས་རང་བྱུང་ཆེན་པོ་མཆོག་གི་སྟོན་པ།",
+            "U00010": " དཔལ་ཀུན་ཏུ་བཟང་པོ་ལ་ཕྱག་འཚལ་ལོ། །"
+          },
+          "category": "bounded_graphic_allocation_uncertainty",
+          "approximate_native_bounds": [
+            940,
+            325,
+            1040,
+            407
+          ],
+          "confidence": {
+            "source_position": "high",
+            "graphic_allocation": "unresolved"
+          },
+          "rationale": "Explicitly project the original graphic question without resolving it; all actual component and neighboring-letter testimony remains in the unchanged raw row inventory."
+        }
+      ],
+      "supplementary_dispositions": {
+        "SIGN-Q09": "Original Q-ledger component projected once as an explicit unresolved graphic record; no punctuation adoption.",
+        "SIGN-Q10": "Original Q-ledger component projected once as an explicit unresolved graphic record; no punctuation adoption.",
+        "SIGN-Q19": "Original Q-ledger component projected once as an explicit unresolved graphic record; no punctuation adoption.",
+        "SIGN-Q20": "Original Q-ledger component projected once as an explicit unresolved graphic record; no punctuation adoption.",
+        "SIGN-Q21": "Original Q-ledger component projected once as an explicit unresolved graphic record; no punctuation adoption."
+      }
     }
   ],
   "current_batch_id": "B01-OPENING-P0002-0003"

@@ -9317,6 +9317,310 @@
       ],
       "next_physical_span": "Inspect the actual PDF7 entry against bounded Q625/Q7E, and continue only from independently established words; its exact incoming anchor is unresolved. Preserve the PDF4–6 lexical, graphic and layer questions and distinguish an unread join from a missing leaf or witness omission. No wholesale repetition of the already recorded fragments is needed.",
       "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-GADKAR",
+      "batch_id": "B01-OPENING-P0002-0003",
+      "target_pages": [
+        2,
+        3
+      ],
+      "report": "reviews/chapter-01/continuation/C1-GADKAR.json",
+      "summary": "Gadkar PDF2–3 opening integrated: eight source-ordered physical rows, twelve new bounded or provisional records, and three explicit rechecks of existing observations without duplicate entries.",
+      "rows_reported": 8,
+      "canonical_record_ids": [
+        "GAD-COV1-B01-P2-O02",
+        "GAD-COV1-B01-P2-O03",
+        "GAD-COV1-B01-P2-O04",
+        "GAD-COV1-B01-P2-O05",
+        "GAD-COV1-B01-P3-O02",
+        "GAD-COV1-B01-P3-O03",
+        "GAD-COV1-B01-P3-O04",
+        "GAD-COV1-B01-SIGN-Q09",
+        "GAD-COV1-B01-SIGN-Q10",
+        "GAD-COV1-B01-SIGN-Q19",
+        "GAD-COV1-B01-SIGN-Q20",
+        "GAD-COV1-B01-SIGN-Q21"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "target_rows_inspected": 8,
+        "target_rows_omitted": [],
+        "target_pages_finished_for_inspection": [
+          2,
+          3
+        ],
+        "decipherment": "Partial: every target row is represented, with unresolved components and sign intervals explicitly Q-coded.",
+        "certification": "The suffix at U00019, foreign-title stacks, repetition at U00022, marginal readings and other listed questions remain uncertified. This does not replace earlier saved coverage or certify a chapter or witness."
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q01",
+          "pdf_page": 2,
+          "anchor": "U00006",
+          "native_bounds": [
+            1890,
+            175,
+            2065,
+            270
+          ],
+          "exact_question": "What consonant/subjoined material completes the first foreign-title group after the visible ར?"
+        },
+        {
+          "id": "Q02",
+          "pdf_page": 2,
+          "anchor": "U00006",
+          "native_bounds": [
+            2120,
+            175,
+            2330,
+            272
+          ],
+          "exact_question": "What components complete the foreign-title group beginning ཤ? The apparent stack and final consonants are not settled."
+        },
+        {
+          "id": "Q03",
+          "pdf_page": 2,
+          "anchor": "U00006",
+          "native_bounds": [
+            2320,
+            175,
+            2460,
+            270
+          ],
+          "exact_question": "What vowel-length or additional material belongs to the group read provisionally as ཧ after མ?"
+        },
+        {
+          "id": "Q04",
+          "pdf_page": 2,
+          "anchor": "U00006",
+          "native_bounds": [
+            2450,
+            175,
+            2610,
+            270
+          ],
+          "exact_question": "What upper or following material belongs to ས after the apparent པྲ group?"
+        },
+        {
+          "id": "Q05",
+          "pdf_page": 2,
+          "anchor": "U00006",
+          "native_bounds": [
+            2590,
+            175,
+            2760,
+            272
+          ],
+          "exact_question": "What consonant stack completes the group beginning ཏ after ག?"
+        },
+        {
+          "id": "Q06",
+          "pdf_page": 2,
+          "anchor": "U00006",
+          "native_bounds": [
+            2730,
+            175,
+            2835,
+            270
+          ],
+          "exact_question": "What vowel-length or other component accompanies the penultimate ན before the final མ?"
+        },
+        {
+          "id": "Q07",
+          "pdf_page": 2,
+          "anchor": "U00008",
+          "native_bounds": [
+            1740,
+            250,
+            2010,
+            345
+          ],
+          "exact_question": "Resolve the compressed material after ཆེན་པོ and before རྒྱུད; is an independently legible genitive component present?"
+        },
+        {
+          "id": "Q08",
+          "pdf_page": 2,
+          "anchor": "U00014",
+          "native_bounds": [
+            1395,
+            395,
+            1565,
+            493
+          ],
+          "exact_question": "Is a final ས actually present after བྱ before པ? Identify it independently of the base."
+        },
+        {
+          "id": "Q09",
+          "pdf_page": 2,
+          "anchor": "U00013/U00014",
+          "native_bounds": [
+            1100,
+            395,
+            1265,
+            493
+          ],
+          "exact_question": "Inventory the entire interval after ནི and its C compound through the onset of རང: is the additional narrow stroke detached punctuation or part of the initial letter?"
+        },
+        {
+          "id": "Q10",
+          "pdf_page": 3,
+          "anchor": "U00017/U00018",
+          "native_bounds": [
+            1235,
+            165,
+            1470,
+            265
+          ],
+          "exact_question": "Resolve the boundary between རྐྱེན and འདུས, including whether a separate bar or compound is present."
+        },
+        {
+          "id": "Q11",
+          "pdf_page": 3,
+          "anchor": "U00019",
+          "native_bounds": [
+            2230,
+            165,
+            2380,
+            263
+          ],
+          "exact_question": "Does རིག་པ carry a final ས before བཅོས, or do the intervening strokes belong to the following group? No suffix is supplied."
+        },
+        {
+          "id": "Q12",
+          "pdf_page": 3,
+          "anchor": "U00022",
+          "native_bounds": [
+            1510,
+            245,
+            1740,
+            338
+          ],
+          "exact_question": "Between the first readable ཤེས and རབ, is another ཤེས present? Resolve the compressed group and its separators without assuming the base repetition."
+        },
+        {
+          "id": "Q13",
+          "pdf_page": 3,
+          "anchor": "U00031",
+          "native_bounds": [
+            1980,
+            390,
+            2170,
+            493
+          ],
+          "exact_question": "Read the final component after བསོད་ནམས and before C, including the upper stack crossed by the small surface interruption."
+        },
+        {
+          "id": "Q14",
+          "pdf_page": 3,
+          "anchor": "U00033",
+          "native_bounds": [
+            3070,
+            405,
+            3195,
+            495
+          ],
+          "exact_question": "Resolve all strokes following ཆུ to the row edge: which constitute a lexical continuation, and are any independent bars or filler marks?"
+        },
+        {
+          "id": "Q15",
+          "pdf_page": 3,
+          "anchor": null,
+          "native_bounds": [
+            175,
+            135,
+            240,
+            210
+          ],
+          "exact_question": "Identify the isolated red angular marginal glyph without assigning a value from expected folio or volume order."
+        },
+        {
+          "id": "Q16",
+          "pdf_page": 3,
+          "anchor": null,
+          "native_bounds": [
+            195,
+            248,
+            272,
+            344
+          ],
+          "exact_question": "Read the upper black marginal group, including any numeral or terminal sign; its value is not inferred."
+        },
+        {
+          "id": "Q17",
+          "pdf_page": 3,
+          "anchor": null,
+          "native_bounds": [
+            175,
+            355,
+            285,
+            590
+          ],
+          "exact_question": "Read the lower rotated black marginal label in its actual order; its words are not supplied from the work's title."
+        },
+        {
+          "id": "Q18",
+          "pdf_page": 2,
+          "anchor": null,
+          "native_bounds": [
+            3075,
+            170,
+            3190,
+            250
+          ],
+          "exact_question": "Is the small upper-right dark curved stroke independent, part of the red rubric's mixed-ink lettering, or an upper component of the row below?"
+        },
+        {
+          "id": "Q19",
+          "pdf_page": 3,
+          "anchor": "U00030/U00031",
+          "native_bounds": [
+            1300,
+            395,
+            1470,
+            495
+          ],
+          "exact_question": "After the C following ན, is the next leading narrow stroke an independent bar or part of དགའ?"
+        },
+        {
+          "id": "Q20",
+          "pdf_page": 3,
+          "anchor": "U00025",
+          "native_bounds": [
+            730,
+            320,
+            825,
+            410
+          ],
+          "exact_question": "At the beginning of row 3, is the leftmost short stroke separate punctuation or an attached component of ཉམས?"
+        },
+        {
+          "id": "Q21",
+          "pdf_page": 2,
+          "anchor": "U00009/U00010",
+          "native_bounds": [
+            940,
+            325,
+            1040,
+            407
+          ],
+          "exact_question": "Following the discernible dark bar after སྟོན་པ, does the leading red stroke constitute another bar or belong to the initial red དཔལ?"
+        }
+      ],
+      "unexamined_spans": [
+        {
+          "pdf_page": 1,
+          "kind": "deliberately_excluded_flank",
+          "span": "Title-page context was viewed; exhaustive lexical, marginal and sign collation was not undertaken."
+        },
+        {
+          "pdf_page": 4,
+          "kind": "deliberately_excluded_flank",
+          "span": "Layout and opening continuation were viewed; the remaining page was not lexically collated."
+        }
+      ],
+      "next_physical_span": "Continue a full Gadkar reading at PDF4 row1, U00033 continuation མེ་རླུང་གི, while retaining Q14 at the preceding edge. Older PDF4–11 locator findings do not replace full comparison. Keep all twenty-one opening questions and the independent cover/title-page limits.",
+      "reader_claims_require_coordinator_dispositions": true
     }
   ]
 }
