@@ -1,0 +1,58 @@
+name: Diplomatic reviewed integration
+on:
+  push:
+    branches:
+      - recovery/20260929-connection-loss-pending-integration
+    paths:
+      - diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/CLOUD-RUN.json
+      - .github/workflows/diplomatic-reviewed-integration.yml
+permissions:
+  contents: write
+concurrency:
+  group: diplomatic-reviewed-integration-recovery-20260929
+  cancel-in-progress: false
+jobs:
+  integrate:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: recovery/20260929-connection-loss-pending-integration
+          lfs: false
+      - name: Apply only the reviewed request
+        run: |
+          python3 diplomatic/tools/cloud_integrate.py --repo . --request diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/CLOUD-RUN.json
+      - name: Preserve the bounded result without forcing the remote
+        if: always()
+        shell: bash
+        run: |
+          set -euo pipefail
+          branch='recovery/20260929-connection-loss-pending-integration'
+          python3 - <<'PY'
+          import subprocess
+          entries = subprocess.check_output(['git','status','--porcelain=v1','-z']).decode().split('\0')
+          for entry in filter(None, entries):
+              assert entry[3:].startswith('diplomatic/'), entry
+              assert 'D' not in entry[:2] and 'R' not in entry[:2], entry
+          PY
+          git add -- diplomatic
+          git diff --cached --check
+          if ! git diff --cached --quiet; then
+            git config user.name 'Diplomatic integration coordinator'
+            git config user.email 'diplomatic-coordinator@users.noreply.github.com'
+            git commit -m 'Checkpoint explicitly reviewed Chapter 1 batch and its validation receipt'
+            git push origin "HEAD:refs/heads/$branch"
+          fi
+          local_sha=$(git rev-parse HEAD)
+          remote_sha=$(git ls-remote origin "refs/heads/$branch" | cut -f1)
+          test "$local_sha" = "$remote_sha"
+          echo "VERIFIED $branch $remote_sha"
+      - name: Preserve inspection and validation receipts as an additional artifact
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: diplomatic-reviewed-integration-receipts
+          path: diplomatic/reviews/chapter-01/continuation/SESSION-20260929-RESUME-COVERAGE/
+          retention-days: 7
+          if-no-files-found: error
