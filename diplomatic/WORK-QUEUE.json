@@ -801,7 +801,14 @@
       "current_wave_id": "CONTINUE2-W03",
       "current_batch_id": "B02-P0004",
       "bounded_parallel_policy": "Each reader owns one target page and at most three source pages including context; coordinator alone publishes and no unfinished page is inferred complete from a neighbor.",
-      "next_step": "Integrate saved PDF4/B02-P0004. Retain all PDF3 Q01-Q15 and non-main/graphic questions M01Q-M03Q and SG01-SG03."
+      "next_step": "Integrate saved PDF4/B02-P0004. Retain all PDF3 Q01-Q15 and non-main/graphic questions M01Q-M03Q and SG01-SG03.",
+      "integration_group": [
+        "B02-P0004",
+        "B03-P0005",
+        "B04-P0006",
+        "B05-P0007",
+        "B06-P0008"
+      ]
     },
     {
       "id": "C1-GADKAR",
