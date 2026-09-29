@@ -5935,6 +5935,104 @@
       ],
       "next_physical_span": "Continue Degé PDF12 row1 at U00539 continuation རྟེན་བྱང་ཤར་མཚམས, following PDF11 འདི་ནས་འཇིག. Keep all Q9/Q10/Q11, filler and graphic limits visible.",
       "reader_claims_require_coordinator_dispositions": true
+    },
+    {
+      "task_id": "C1-DZONGSAR",
+      "batch_id": "B01-U00440-U00534-U00710",
+      "target_pages": [
+        22,
+        27,
+        35
+      ],
+      "report": "reviews/chapter-01/continuation/C1-DZONGSAR.json",
+      "summary": "Three named Dzongsar loci integrated as rechecks of existing records, not new variants: U00440 abrasion remains unread; U00534 main/small placement is recorded with the role of small ljongs unresolved; U00710 main wording is retained with the first small syllable and substitution scope unresolved.",
+      "rows_reported": 5,
+      "canonical_record_ids": [
+        "DZ-MID-022-U440",
+        "DZ-MID-027-U534",
+        "DZ-MID-035-U710"
+      ],
+      "whole_pages_newly_certified": [],
+      "coverage_assessment": {
+        "named_loci_inspected": 3,
+        "named_loci_total": 3,
+        "result": "All three targeted loci and their local context inspected. U00440 remains internally abraded; U00534's main/small placement is established but the role of ལྗོངས remains unresolved; U00710's main reading is supported while its note retains a local glyph and attachment uncertainty.",
+        "qualification": "Informed independent model reading with the alignment aid visible; not blind review, credentialed human palaeography, or chapter/witness certification. No project files accessed or changed."
+      },
+      "unread_after_inspection": [
+        {
+          "id": "Q22-L",
+          "pdf_page": 22,
+          "anchor": "U00440",
+          "native_bounds": [
+            1420,
+            475,
+            1545,
+            545
+          ],
+          "type": "letters_and_separators",
+          "exact_question": "Which letters and tshegs survive between the readable འབྱུང་ and ཀྱི? The abraded traces do not independently establish the complete proposed བ་རྣམས་; syllable count is not supplied from the base."
+        },
+        {
+          "id": "Q27-R",
+          "pdf_page": 27,
+          "anchor": "U00534",
+          "native_bounds": [
+            1380,
+            215,
+            1650,
+            325
+          ],
+          "type": "linkage_and_role",
+          "exact_question": "Does small ལྗོངས identify a lemma, supply main text, or belong to the alternative with བདེ? The descending strokes near main ཏུ／རྫོགས do not yield a securely isolated connector and endpoint in this inspection."
+        },
+        {
+          "id": "Q35-L",
+          "pdf_page": 35,
+          "anchor": "U00710",
+          "native_bounds": [
+            1810,
+            350,
+            1880,
+            392
+          ],
+          "type": "first_small_syllable",
+          "exact_question": "What is the root consonant of the first small syllable? A lower u-sign and final s-like component are discernible, but བུས versus ནུས is not securely resolved; the base's བུས is not adopted."
+        },
+        {
+          "id": "Q35-R",
+          "pdf_page": 35,
+          "anchor": "U00710",
+          "native_bounds": [
+            1760,
+            290,
+            2090,
+            400
+          ],
+          "type": "annotation_attachment",
+          "exact_question": "Which exact main-text span does N35 replace or qualify: ནུས་པས, བསྒྱུར, or a combined boundary-spanning expression? Proximity and possible linking strokes do not securely delimit the substitution."
+        }
+      ],
+      "unexamined_spans": {
+        "actual_target_omissions": [],
+        "deliberately_excluded": [
+          {
+            "pdf_page": 22,
+            "scope": "All text beyond the reported row-6 local context, including marginal writing."
+          },
+          {
+            "pdf_page": 27,
+            "scope": "Main text beyond the reported row-2 and row-3 spans, and marginal or ornamental regions."
+          },
+          {
+            "pdf_page": 35,
+            "scope": "Main text beyond the reported row-3 and row-4 spans, other small headings and marginal regions."
+          }
+        ],
+        "distinction": "Native pages were viewed for layout; this does not constitute lexical collation of excluded regions."
+      },
+      "next_physical_span": "Finish the remaining Dzongsar physical signs, annotation, title and foreign-script scopes in bounded source-page batches. Retain Q22-L, Q27-R, Q35-L and Q35-R instead of repeating these same crops without new evidence.",
+      "reader_claims_require_coordinator_dispositions": true
     }
   ]
 }

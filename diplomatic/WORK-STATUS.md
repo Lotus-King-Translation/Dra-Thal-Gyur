@@ -2,7 +2,7 @@
 
 Updated 2026-09-29. **Chapter 1 is unfinished; Chapters 2–6 and the final colophon have not started.** Start at [HANDOFF.md](HANDOFF.md) for operational instructions and [WORK-QUEUE.json](WORK-QUEUE.json) for the next bounded task. This ledger records supported scholarly coverage and explicitly retained uncertainty; a saved inspection is not a whole-page collation.
 
-Preserved pre-continuation edition baseline: `afb5c5133357942267dc55fc60a1d22704d5ef08`. Current [Chapter 1](chapter-01.md) SHA-256: `6194bc6e463e3effbfd54c579a205d9381d4eef902295f6c88e5947425160c3b`. See [C1-SIGNS-01](reviews/chapter-01/continuation/C1-SIGNS-01.md) and the [C1-SIGNS-02 review](reviews/chapter-01/continuation/C1-SIGNS-02.md); these local punctuation changes do not complete the edition.
+Preserved pre-continuation edition baseline: `afb5c5133357942267dc55fc60a1d22704d5ef08`. Current [Chapter 1](chapter-01.md) SHA-256: `3996ea6f5086fce068e12db54b56c19890e3cd2775f0934315c6d9858de29883`. See [C1-SIGNS-01](reviews/chapter-01/continuation/C1-SIGNS-01.md) and the [C1-SIGNS-02 review](reviews/chapter-01/continuation/C1-SIGNS-02.md); these local punctuation changes do not complete the edition.
 
 ## What is already saved and integrated
 
@@ -102,3 +102,5 @@ Tingkye PDF11–13 is now integrated: 21 target rows, 41 selected local observat
 Tsamdrak PDF21–23 is integrated through U00681: 21 source rows, 27 selected localized observations and three separately indexed lexical questions. All nine nested page23 findings are preserved, including the unchanged repetition. The original malformed JSON remains intact alongside its exact mechanical sidecar. Next is PDF24/U00682; no Adzom reading or insertion changed.
 
 Degé PDF9–11 is integrated: 21 target rows from U00390 continuation through U00539 opening, with thirteen source-layer/graphic/uncertainty records and all eighteen bounded questions retained. The next continuous reading is PDF12/U00539 continuation. Reply-label ordinals and small-note wording are not supplied from Adzom; all base reading strings and restored material remain unchanged.
+
+The three targeted Dzongsar reviews are integrated as extensions of existing U00440/U00534/U00710 records, with no duplicate apparatus entries. Exact abrasion, first small syllable and annotation-role uncertainties remain visible; the prior record text is retained in history. All four completed new-reading reports are now integrated. The six saved Adzom physical reports PDF8–13 are next.

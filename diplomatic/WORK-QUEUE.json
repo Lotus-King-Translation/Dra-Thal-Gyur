@@ -4,7 +4,7 @@
   "canonical_branch": "main",
   "current_chapter": 1,
   "chapter_status": "in_progress_not_ready",
-  "next_task_id": "C1-DZONGSAR",
+  "next_task_id": "C1-BASE-PHYSICAL",
   "path_base": "repository root; JSON pointers identify records without changing their historical contents",
   "scope": "Continuation queue, not a whole-chapter collation claim. Thirty punctuation candidate identities remain tracked, including completed dispositions; unfinished items are hypotheses, not accepted readings. Existing Adzom and Dzongsar main lexical passes remain valid within their recorded scopes.",
   "reference_paths": [
@@ -624,7 +624,7 @@
       "id": "C1-DZONGSAR",
       "kind": "witness_coverage",
       "status": "in_progress",
-      "owner": "reader-C1-DZONGSAR-20260929-new",
+      "owner": "ChatGPT-coordinator-20260929-integration",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -652,8 +652,10 @@
       "checkpoint_commit": null,
       "blocker": null,
       "dependency_policy": "preferred_order",
-      "current_batch_id": "B01-U00440-U00534-U00710",
-      "bounded_parallel_policy": "One distinct bounded task per reader; no more than five source pages including flanks. Only the coordinator publishes after readers pause; no automatic adoption."
+      "current_batch_id": null,
+      "bounded_parallel_policy": "One distinct bounded task per reader; no more than five source pages including flanks. Only the coordinator publishes after readers pause; no automatic adoption.",
+      "last_integrated_batch_id": "B01-U00440-U00534-U00710",
+      "next_step": "Finish the remaining Dzongsar physical signs, annotation, title and foreign-script scopes in bounded source-page batches. Retain Q22-L, Q27-R, Q35-L and Q35-R instead of repeating these same crops without new evidence."
     },
     {
       "id": "C1-TINGKYE",

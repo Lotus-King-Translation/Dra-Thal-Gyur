@@ -14195,17 +14195,17 @@ Units: [U00440](#u00440).
 
 **Current Adzom main context:** འབྱུང་བ་རྣམས་ཀྱི་སྒྲ་དོན་ནི། །
 
-**Comparison reading/snippet:** [Unresolved; no complete reading adopted.]
+**Comparison reading/snippet:** འབྱུང་⟦Q22-L⟧ཀྱི་སྒྲ་དོན་ནི
 
-**Status:** obscured-reading. **Confidence:** unresolved.
+**Status:** bounded_abrasion_uncertainty. **Confidence:** High for alignment and intact flanks; abraded interior remains unresolved..
 
 **Locator:** PDF 22; BDRC image 26; crop bounds in structured report.
 
-**Observation:** Surface abrasion crossing the beginning of this line segment prevents exact independent discrimination. Adjacent kyi sgra don ni readable; no absence inferred.
+**Observation:** Horizontal head fragments and lower oblique or curved traces survive in the damaged interval, but their joins cannot be followed securely. They do not warrant printing the complete base segment. Readable text resumes at ཀྱི. Recheck extends the prior record without creating a second locus; older wording remains explicitly preserved in prior_dispositions.
 
 **Choice and reason:** Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.
 
-**Evidence:** [p022-u440.jpg](evidence/chapter-01/extension/dzongsar-middle/p022-u440.jpg). [Review and coverage](reviews/chapter-01/dzongsar-middle.md).
+**Evidence:** [p022-u440.jpg](evidence/chapter-01/extension/dzongsar-middle/p022-u440.jpg), [p022-native.jpg](evidence/chapter-01/continuation/C1-DZONGSAR/B01-U00440-U00534-U00710/p022-native.jpg), [p022-x0000-y0000.png](evidence/chapter-01/continuation/C1-DZONGSAR/B01-U00440-U00534-U00710/p022-x0000-y0000.png), [p022-x0519-y0000.png](evidence/chapter-01/continuation/C1-DZONGSAR/B01-U00440-U00534-U00710/p022-x0519-y0000.png), [C1-DZONGSAR-B01-U00440-U00534-U00710-reader-reading.txt](reviews/chapter-01/continuation/C1-DZONGSAR-B01-U00440-U00534-U00710-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-DZONGSAR.md).
 
 <a id="dz-mid-024-u483"></a>
 
@@ -14235,17 +14235,17 @@ Units: [U00534](#u00534).
 
 **Current Adzom main context:** ལྗོངས་རབ་ཏུ་རྫོགས་ཏེ་ཉམས་དགའ་བར། །
 
-**Comparison reading/snippet:** Main row2 rab tu rdzogs te nyams dga bar. Small linked text row3 ljongs bde yang byung.
+**Comparison reading/snippet:** Main row2: རབ་ཏུ་རྫོགས་ཏེ་ཉམས་དགའ་བར; smaller row3: N27: ལྗོངས་བདེ་ཡང་བྱུང; role of small ljongs and exact connector endpoint unresolved.
 
-**Status:** uncertain-layer-placement. **Confidence:** high for visible words; unresolved disposition of first ljongs.
+**Status:** bounded_source_layer_uncertainty. **Confidence:** High for main physical sequence, medium-high for small wording; semantic allocation and connector endpoint unresolved..
 
 **Locator:** PDF 27; BDRC image 31; crop bounds in structured report.
 
-**Observation:** Base initial ljongs appears only in the smaller linked annotation here, not before large rab. Do not silently flatten or count main-text agreement. A supplied-small correction or lemma-plus-variant is possible.
+**Observation:** The large-letter sequence begins with རབ after the boundary interval. No large-letter ལྗོངས is visible there. This establishes physical placement only, not whether an edited reading should incorporate the smaller ལྗོངས. The opening stacked glyph with o-vowel and following ངས supports ལྗོངས; the following small words are readable. The wording ཡང་བྱུང supports an alternative-reading function, but neither size nor proximity determines whether ལྗོངས is a lemma, supplement or part of that alternative. Recheck extends the prior record without creating a second locus; older wording remains explicitly preserved in prior_dispositions.
 
 **Choice and reason:** Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.
 
-**Evidence:** [p027-u534-note.jpg](evidence/chapter-01/extension/dzongsar-middle/p027-u534-note.jpg). [Review and coverage](reviews/chapter-01/dzongsar-middle.md).
+**Evidence:** [p027-u534-note.jpg](evidence/chapter-01/extension/dzongsar-middle/p027-u534-note.jpg), [p027-native.jpg](evidence/chapter-01/continuation/C1-DZONGSAR/B01-U00440-U00534-U00710/p027-native.jpg), [p027-x0000-y0000.png](evidence/chapter-01/continuation/C1-DZONGSAR/B01-U00440-U00534-U00710/p027-x0000-y0000.png), [p027-x0519-y0000.png](evidence/chapter-01/continuation/C1-DZONGSAR/B01-U00440-U00534-U00710/p027-x0519-y0000.png), [C1-DZONGSAR-B01-U00440-U00534-U00710-reader-reading.txt](reviews/chapter-01/continuation/C1-DZONGSAR-B01-U00440-U00534-U00710-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-DZONGSAR.md).
 
 <a id="dz-mid-028-u559-rejected"></a>
 
@@ -14275,17 +14275,17 @@ Units: [U00710](#u00710).
 
 **Current Adzom main context:** སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང་། །
 
-**Comparison reading/snippet:** so so i nus pas bsgyur ba gang
+**Comparison reading/snippet:** Main row3: སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང; smaller row4: N35: ⟦Q35-L⟧་པ་སྦྱར་ཡང་འབྱུང
 
-**Status:** layer-observation. **Confidence:** high for main; small wording unresolved.
+**Status:** main_reading_with_bounded_annotation_uncertainty. **Confidence:** High for local main wording; first small syllable and exact annotation substitution scope unresolved..
 
 **Locator:** PDF 35; BDRC image 39; crop bounds in structured report.
 
-**Observation:** Focused crop supports main nus pas bsgyur. Linked smaller note on row4 has sbyar yang byung; complete initial note phrase not certified.
+**Observation:** The large-letter ནུས་པས and following བསྒྱུར are readable independently of the smaller note. Their reading does not settle the note's first syllable. The small line is below U00710, not an additional main verse. Its readable ཡང་འབྱུང supports an alternative-reading annotation. The first syllable and precise replacement boundary remain separate uncertainties; no insertion into U00714 is justified. Recheck extends the prior record without creating a second locus; older wording remains explicitly preserved in prior_dispositions.
 
 **Choice and reason:** Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.
 
-**Evidence:** [p035-u710.jpg](evidence/chapter-01/extension/dzongsar-middle/p035-u710.jpg). [Review and coverage](reviews/chapter-01/dzongsar-middle.md).
+**Evidence:** [p035-u710.jpg](evidence/chapter-01/extension/dzongsar-middle/p035-u710.jpg), [p035-native.jpg](evidence/chapter-01/continuation/C1-DZONGSAR/B01-U00440-U00534-U00710/p035-native.jpg), [p035-x0000-y0000.png](evidence/chapter-01/continuation/C1-DZONGSAR/B01-U00440-U00534-U00710/p035-x0000-y0000.png), [p035-x0519-y0000.png](evidence/chapter-01/continuation/C1-DZONGSAR/B01-U00440-U00534-U00710/p035-x0519-y0000.png), [C1-DZONGSAR-B01-U00440-U00534-U00710-reader-reading.txt](reviews/chapter-01/continuation/C1-DZONGSAR-B01-U00440-U00534-U00710-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-DZONGSAR.md).
 
 <a id="dz-mid-051-u1083"></a>
 

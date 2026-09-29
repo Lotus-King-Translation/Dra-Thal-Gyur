@@ -1540,16 +1540,81 @@
     "units": [
       "U00440"
     ],
-    "comparison_reading": null,
-    "status": "obscured-reading",
-    "confidence": "unresolved",
+    "comparison_reading": "འབྱུང་⟦Q22-L⟧ཀྱི་སྒྲ་དོན་ནི",
+    "status": "bounded_abrasion_uncertainty",
+    "confidence": "High for alignment and intact flanks; abraded interior remains unresolved.",
     "locator": "PDF 22; BDRC image 26; crop bounds in structured report",
-    "rationale": "Surface abrasion crossing the beginning of this line segment prevents exact independent discrimination. Adjacent kyi sgra don ni readable; no absence inferred.",
+    "rationale": "Horizontal head fragments and lower oblique or curved traces survive in the damaged interval, but their joins cannot be followed securely. They do not warrant printing the complete base segment. Readable text resumes at ཀྱི. Recheck extends the prior record without creating a second locus; older wording remains explicitly preserved in prior_dispositions.",
     "decision": "Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.",
     "evidence": [
-      "evidence/chapter-01/extension/dzongsar-middle/p022-u440.jpg"
+      "evidence/chapter-01/extension/dzongsar-middle/p022-u440.jpg",
+      "evidence/chapter-01/continuation/C1-DZONGSAR/B01-U00440-U00534-U00710/p022-native.jpg",
+      "evidence/chapter-01/continuation/C1-DZONGSAR/B01-U00440-U00534-U00710/p022-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DZONGSAR/B01-U00440-U00534-U00710/p022-x0519-y0000.png",
+      "reviews/chapter-01/continuation/C1-DZONGSAR-B01-U00440-U00534-U00710-reader-reading.txt"
     ],
-    "review": "reviews/chapter-01/dzongsar-middle.md"
+    "review": "reviews/chapter-01/continuation/C1-DZONGSAR.md",
+    "prior_dispositions": [
+      {
+        "baseline_commit": "03a708ce1cd5d374793670c40481936fcd114980",
+        "record_before_recheck": {
+          "id": "DZ-MID-022-U440",
+          "witness": "Dzongsar",
+          "units": [
+            "U00440"
+          ],
+          "comparison_reading": null,
+          "status": "obscured-reading",
+          "confidence": "unresolved",
+          "locator": "PDF 22; BDRC image 26; crop bounds in structured report",
+          "rationale": "Surface abrasion crossing the beginning of this line segment prevents exact independent discrimination. Adjacent kyi sgra don ni readable; no absence inferred.",
+          "decision": "Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.",
+          "evidence": [
+            "evidence/chapter-01/extension/dzongsar-middle/p022-u440.jpg"
+          ],
+          "review": "reviews/chapter-01/dzongsar-middle.md"
+        }
+      }
+    ],
+    "recheck_20260929": {
+      "batch_id": "B01-U00440-U00534-U00710",
+      "verified_reader": {
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B01-U00440-U00534-U00710-reader-reading.txt",
+        "sha256": "71fc9c831baa01f5265e66d55378ea7d3b2aa8ffefbd687b9bdfc60a49b23821",
+        "images_hash_verified": 12,
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B01-U00440-U00534-U00710-reader-execution.json"
+      },
+      "observations": [
+        {
+          "id": "O22-1",
+          "pdf_page": 22,
+          "anchors": [
+            "U00439",
+            "U00440",
+            "U00441"
+          ],
+          "source_span": "འབྱུང་⟦Q22-L⟧ཀྱི་སྒྲ་དོན་ནི",
+          "base_span": "འབྱུང་བ་རྣམས་ཀྱི་སྒྲ་དོན་ནི",
+          "category": "abraded_internal_reading",
+          "neighboring_context": "Between རྫོགས་པའོ and དཔའ་དང.",
+          "approximate_native_bounds": [
+            1300,
+            465,
+            1740,
+            550
+          ],
+          "confidence": {
+            "alignment": "high",
+            "intact_letters": "high",
+            "abraded_letters": "low",
+            "layer": "high",
+            "boundary_signs": "medium"
+          },
+          "rationale": "Horizontal head fragments and lower oblique or curved traces survive in the damaged interval, but their joins cannot be followed securely. They do not warrant printing the complete base segment. Readable text resumes at ཀྱི."
+        }
+      ],
+      "coordinator_scope": "The previous session directly viewed all three native overviews and three exact context crops, then examined the independent report. This integration verifies original report, exact attachment hashes, source-layer distinctions and existing canonical identities. No entire Dzongsar page is newly certified."
+    }
   },
   {
     "id": "DZ-MID-024-U483",
@@ -1574,16 +1639,107 @@
     "units": [
       "U00534"
     ],
-    "comparison_reading": "Main row2 rab tu rdzogs te nyams dga bar. Small linked text row3 ljongs bde yang byung.",
-    "status": "uncertain-layer-placement",
-    "confidence": "high for visible words; unresolved disposition of first ljongs",
+    "comparison_reading": "Main row2: རབ་ཏུ་རྫོགས་ཏེ་ཉམས་དགའ་བར; smaller row3: N27: ལྗོངས་བདེ་ཡང་བྱུང; role of small ljongs and exact connector endpoint unresolved.",
+    "status": "bounded_source_layer_uncertainty",
+    "confidence": "High for main physical sequence, medium-high for small wording; semantic allocation and connector endpoint unresolved.",
     "locator": "PDF 27; BDRC image 31; crop bounds in structured report",
-    "rationale": "Base initial ljongs appears only in the smaller linked annotation here, not before large rab. Do not silently flatten or count main-text agreement. A supplied-small correction or lemma-plus-variant is possible.",
+    "rationale": "The large-letter sequence begins with རབ after the boundary interval. No large-letter ལྗོངས is visible there. This establishes physical placement only, not whether an edited reading should incorporate the smaller ལྗོངས. The opening stacked glyph with o-vowel and following ངས supports ལྗོངས; the following small words are readable. The wording ཡང་བྱུང supports an alternative-reading function, but neither size nor proximity determines whether ལྗོངས is a lemma, supplement or part of that alternative. Recheck extends the prior record without creating a second locus; older wording remains explicitly preserved in prior_dispositions.",
     "decision": "Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.",
     "evidence": [
-      "evidence/chapter-01/extension/dzongsar-middle/p027-u534-note.jpg"
+      "evidence/chapter-01/extension/dzongsar-middle/p027-u534-note.jpg",
+      "evidence/chapter-01/continuation/C1-DZONGSAR/B01-U00440-U00534-U00710/p027-native.jpg",
+      "evidence/chapter-01/continuation/C1-DZONGSAR/B01-U00440-U00534-U00710/p027-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DZONGSAR/B01-U00440-U00534-U00710/p027-x0519-y0000.png",
+      "reviews/chapter-01/continuation/C1-DZONGSAR-B01-U00440-U00534-U00710-reader-reading.txt"
     ],
-    "review": "reviews/chapter-01/dzongsar-middle.md"
+    "review": "reviews/chapter-01/continuation/C1-DZONGSAR.md",
+    "prior_dispositions": [
+      {
+        "baseline_commit": "03a708ce1cd5d374793670c40481936fcd114980",
+        "record_before_recheck": {
+          "id": "DZ-MID-027-U534",
+          "witness": "Dzongsar",
+          "units": [
+            "U00534"
+          ],
+          "comparison_reading": "Main row2 rab tu rdzogs te nyams dga bar. Small linked text row3 ljongs bde yang byung.",
+          "status": "uncertain-layer-placement",
+          "confidence": "high for visible words; unresolved disposition of first ljongs",
+          "locator": "PDF 27; BDRC image 31; crop bounds in structured report",
+          "rationale": "Base initial ljongs appears only in the smaller linked annotation here, not before large rab. Do not silently flatten or count main-text agreement. A supplied-small correction or lemma-plus-variant is possible.",
+          "decision": "Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.",
+          "evidence": [
+            "evidence/chapter-01/extension/dzongsar-middle/p027-u534-note.jpg"
+          ],
+          "review": "reviews/chapter-01/dzongsar-middle.md"
+        }
+      }
+    ],
+    "recheck_20260929": {
+      "batch_id": "B01-U00440-U00534-U00710",
+      "verified_reader": {
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B01-U00440-U00534-U00710-reader-reading.txt",
+        "sha256": "71fc9c831baa01f5265e66d55378ea7d3b2aa8ffefbd687b9bdfc60a49b23821",
+        "images_hash_verified": 12,
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B01-U00440-U00534-U00710-reader-execution.json"
+      },
+      "observations": [
+        {
+          "id": "O27-1",
+          "pdf_page": 27,
+          "anchors": [
+            "U00533",
+            "U00534",
+            "U00535"
+          ],
+          "source_span": "རབ་ཏུ་རྫོགས་ཏེ་ཉམས་དགའ་བར",
+          "base_span": "ལྗོངས་རབ་ཏུ་རྫོགས་ཏེ་ཉམས་དགའ་བར",
+          "category": "main_layer_boundary",
+          "neighboring_context": "After ཞེས་བྱ་བ; before རིན་ཆེན་སིལ་མ.",
+          "approximate_native_bounds": [
+            1350,
+            205,
+            1950,
+            285
+          ],
+          "confidence": {
+            "alignment": "high",
+            "letters": "high",
+            "layer": "high",
+            "boundary_signs": "medium",
+            "editorial_integration": "unresolved"
+          },
+          "rationale": "The large-letter sequence begins with རབ after the boundary interval. No large-letter ལྗོངས is visible there. This establishes physical placement only, not whether an edited reading should incorporate the smaller ལྗོངས."
+        },
+        {
+          "id": "O27-2",
+          "pdf_page": 27,
+          "anchors": [
+            "U00534",
+            "U00537"
+          ],
+          "source_span": "N27: ལྗོངས་བདེ་ཡང་བྱུང",
+          "base_span": "U00534 retains ལྗོངས in its reading; separate annotation records བདེ་ཡང་བྱུང.",
+          "category": "annotation_extent_and_role",
+          "neighboring_context": "Physically between row 3's རྫོགས and གཉིས་ལྡན, below the row 2 target.",
+          "approximate_native_bounds": [
+            1370,
+            230,
+            1840,
+            345
+          ],
+          "confidence": {
+            "alignment": "high for physical context",
+            "letters": "medium-high",
+            "small_layer": "high",
+            "link_endpoint": "low",
+            "semantic_role": "unresolved"
+          },
+          "rationale": "The opening stacked glyph with o-vowel and following ངས supports ལྗོངས; the following small words are readable. The wording ཡང་བྱུང supports an alternative-reading function, but neither size nor proximity determines whether ལྗོངས is a lemma, supplement or part of that alternative."
+        }
+      ],
+      "coordinator_scope": "The previous session directly viewed all three native overviews and three exact context crops, then examined the independent report. This integration verifies original report, exact attachment hashes, source-layer distinctions and existing canonical identities. No entire Dzongsar page is newly certified."
+    }
   },
   {
     "id": "DZ-MID-028-U559-REJECTED",
@@ -1608,16 +1764,106 @@
     "units": [
       "U00710"
     ],
-    "comparison_reading": "so so i nus pas bsgyur ba gang",
-    "status": "layer-observation",
-    "confidence": "high for main; small wording unresolved",
+    "comparison_reading": "Main row3: སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང; smaller row4: N35: ⟦Q35-L⟧་པ་སྦྱར་ཡང་འབྱུང",
+    "status": "main_reading_with_bounded_annotation_uncertainty",
+    "confidence": "High for local main wording; first small syllable and exact annotation substitution scope unresolved.",
     "locator": "PDF 35; BDRC image 39; crop bounds in structured report",
-    "rationale": "Focused crop supports main nus pas bsgyur. Linked smaller note on row4 has sbyar yang byung; complete initial note phrase not certified.",
+    "rationale": "The large-letter ནུས་པས and following བསྒྱུར are readable independently of the smaller note. Their reading does not settle the note's first syllable. The small line is below U00710, not an additional main verse. Its readable ཡང་འབྱུང supports an alternative-reading annotation. The first syllable and precise replacement boundary remain separate uncertainties; no insertion into U00714 is justified. Recheck extends the prior record without creating a second locus; older wording remains explicitly preserved in prior_dispositions.",
     "decision": "Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.",
     "evidence": [
-      "evidence/chapter-01/extension/dzongsar-middle/p035-u710.jpg"
+      "evidence/chapter-01/extension/dzongsar-middle/p035-u710.jpg",
+      "evidence/chapter-01/continuation/C1-DZONGSAR/B01-U00440-U00534-U00710/p035-native.jpg",
+      "evidence/chapter-01/continuation/C1-DZONGSAR/B01-U00440-U00534-U00710/p035-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DZONGSAR/B01-U00440-U00534-U00710/p035-x0519-y0000.png",
+      "reviews/chapter-01/continuation/C1-DZONGSAR-B01-U00440-U00534-U00710-reader-reading.txt"
     ],
-    "review": "reviews/chapter-01/dzongsar-middle.md"
+    "review": "reviews/chapter-01/continuation/C1-DZONGSAR.md",
+    "prior_dispositions": [
+      {
+        "baseline_commit": "03a708ce1cd5d374793670c40481936fcd114980",
+        "record_before_recheck": {
+          "id": "DZ-MID-035-U710",
+          "witness": "Dzongsar",
+          "units": [
+            "U00710"
+          ],
+          "comparison_reading": "so so i nus pas bsgyur ba gang",
+          "status": "layer-observation",
+          "confidence": "high for main; small wording unresolved",
+          "locator": "PDF 35; BDRC image 39; crop bounds in structured report",
+          "rationale": "Focused crop supports main nus pas bsgyur. Linked smaller note on row4 has sbyar yang byung; complete initial note phrase not certified.",
+          "decision": "Retain the governing Adzom scan reading. Record this local comparison without silently combining source layers or using an uncertain comparison to emend the base.",
+          "evidence": [
+            "evidence/chapter-01/extension/dzongsar-middle/p035-u710.jpg"
+          ],
+          "review": "reviews/chapter-01/dzongsar-middle.md"
+        }
+      }
+    ],
+    "recheck_20260929": {
+      "batch_id": "B01-U00440-U00534-U00710",
+      "verified_reader": {
+        "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B01-U00440-U00534-U00710-reader-reading.txt",
+        "sha256": "71fc9c831baa01f5265e66d55378ea7d3b2aa8ffefbd687b9bdfc60a49b23821",
+        "images_hash_verified": 12,
+        "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B01-U00440-U00534-U00710-reader-execution.json"
+      },
+      "observations": [
+        {
+          "id": "O35-1",
+          "pdf_page": 35,
+          "anchors": [
+            "U00709",
+            "U00710",
+            "U00711"
+          ],
+          "source_span": "སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང",
+          "base_span": "སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང",
+          "category": "main_layer_reading",
+          "neighboring_context": "After ཐམས་ཅད་སྣང; before row-final རང.",
+          "approximate_native_bounds": [
+            1550,
+            270,
+            2220,
+            357
+          ],
+          "confidence": {
+            "alignment": "high",
+            "letters": "high",
+            "layer": "high",
+            "boundary_signs": "medium"
+          },
+          "rationale": "The large-letter ནུས་པས and following བསྒྱུར are readable independently of the smaller note. Their reading does not settle the note's first syllable."
+        },
+        {
+          "id": "O35-2",
+          "pdf_page": 35,
+          "anchors": [
+            "U00710",
+            "U00714"
+          ],
+          "source_span": "N35: ⟦Q35-L⟧་པ་སྦྱར་ཡང་འབྱུང",
+          "base_span": "བུས་པ་སྦྱར་ཡང་འབྱུང",
+          "category": "annotation_partial_reading_and_attachment",
+          "neighboring_context": "Below the U00710 main phrase; horizontally between large ལྷག and མ་མེད of U00714.",
+          "approximate_native_bounds": [
+            1730,
+            310,
+            2220,
+            420
+          ],
+          "confidence": {
+            "physical_location": "high",
+            "first_small_syllable": "low",
+            "remaining_small_words": "medium-high",
+            "small_layer": "high",
+            "precise_substitution_scope": "unresolved"
+          },
+          "rationale": "The small line is below U00710, not an additional main verse. Its readable ཡང་འབྱུང supports an alternative-reading annotation. The first syllable and precise replacement boundary remain separate uncertainties; no insertion into U00714 is justified."
+        }
+      ],
+      "coordinator_scope": "The previous session directly viewed all three native overviews and three exact context crops, then examined the independent report. This integration verifies original report, exact attachment hashes, source-layer distinctions and existing canonical identities. No entire Dzongsar page is newly certified."
+    }
   },
   {
     "id": "DZ-MID-051-U1083",
