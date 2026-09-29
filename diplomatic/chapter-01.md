@@ -12501,11 +12501,11 @@ After [U02635](#u02635); before U02636. **scan_only_unresolved**.
 
 **Decision and reason:** Visible scan-only material must be represented by an explicit unresolved marker and linked image, without guessed wording.
 
-**Confidence:** high for presence; unresolved for reading. **Remaining uncertainty:** I cannot reliably distinguish a complete Tibetan word sequence. No proposed transcription is safe enough to adopt; possible script/ornamental letter forms must not be normalized into a plausible chapter heading.
+**Confidence:** high for presence; unresolved for reading. **Remaining uncertainty:** Character identities, joins and script remain unresolved after native-context inspection. Six reported zones are not six certified characters. Distinct punctuation groups are inventoried separately; no lexical expansion or new sign ownership is adopted.
 
 **Punctuation:** Tibetan tsheg/shad rendered as readable Unicode; this is a lexical reading transcription, not pixel-exact reproduction of space widths or line-fill marks.
 
-**Evidence:** [adzom-102-annotation.png](evidence/chapter-01/adzom-102-annotation.png)
+**Evidence:** [adzom-102-annotation.png](evidence/chapter-01/adzom-102-annotation.png), [p102-native.png](evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B03-P0102-S09/p102-native.png), [S09-context.png](evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B03-P0102-S09/S09-context.png), [S09-native-detail.png](evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B03-P0102-S09/S09-native-detail.png)
 
 ## Local comparison-scan findings
 

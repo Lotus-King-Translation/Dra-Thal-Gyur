@@ -78,3 +78,15 @@ PDF101 all six rows searched; U02615 wording not identified and U02620 candidate
 Next: PDF102 S09 boundary inscription, then title/portrait scopes; preserve the unresolved PDF60/PDF101 findings without endlessly repeating identical evidence.
 
 This completed bounded inspection does not certify unexamined portions of the chapter. Unresolved glyphs are not agreement, missing text, or source unavailability.
+
+## B03-P0102-S09 — recovered boundary review integrated
+
+The preserved independent report and the coordinator's native-page/context reinspection establish S09's position after the Chapter 1 colophon. Its lettering remains unresolved. Six graphic zones are inspection partitions, not six certified characters or syllables.
+
+[Raw reading](C1-BASE-UNCERTAINTIES-B03-P0102-S09-reader-reading.txt) · [Integration disposition](SESSION-20260929-INTEGRATION/S09-integration.json) · [Native page](../../../evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B03-P0102-S09/p102-native.png) · [Boundary context](../../../evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B03-P0102-S09/S09-context.png).
+
+**Rejected raw identification:** the following incipit is `དེ་ནས་ལྷ་དབང་རྟོག་པ་མེད`, not the raw report's `དེ་ནས་སྟོན་པ་`. This correction concerns the minimal chapter-boundary locator only; Chapter 2 was not collated. The mistaken original report remains unchanged.
+
+The colophon-closing pair, separated pre-inscription pair, compact inscription and subsequent upright remain distinct in the physical inventory. No new Unicode punctuation allocation is adopted. Exact dot multiplicity in U02635's `རྩ་་བ`, the small marginal label and S09's character identities remain open.
+
+S09's existing unresolved insertion has been enriched with this evidence and disposition. No Tibetan reading, source string, insertion identity, or order has changed. Continue the title/portrait uncertainty scope on PDF1–2; retain the named unresolved S09 questions without treating them as source absence or agreement.

@@ -1260,16 +1260,160 @@
     },
     {
       "batch_id": "B03-P0102-S09",
-      "status": "reading_captured_pending_coordinator_review",
-      "owner": "reader-C1-BASE-UNCERTAINTIES-B03-P0102-S09-reader",
+      "status": "target_review_integrated_unresolved",
+      "owner": "ChatGPT-coordinator-20260929-integration",
       "baseline_commit": "d5a05bc3c9c6abee18459895c4fec8aa6e093548",
       "scope": "Adzom PDF102 chapter1 boundary and S09 compact inscription only. Locate the actual U02635 closing and subsequent next-chapter incipit to delimit S09. Transcribe the inscription only as far as individual shapes support; distinguish its script, source layer, signs and exact remaining components. PDF101 is incoming context. Do not transcribe or collate Chapter2 beyond the minimal boundary incipit. Prior S09 remains explicitly unresolved, not a guessed heading.",
       "target_page": 102,
       "source_manifest": "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B03-P0102-S09/manifest.json",
       "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES-B03-P0102-S09-reader-spec.json",
-      "rows_actually_compared": [],
-      "observations": [],
-      "canonical_record_ids": [],
+      "rows_actually_compared": [
+        {
+          "pdf_page": 102,
+          "row": 1,
+          "span": "U02634 tail and U02635 opening, context only"
+        },
+        {
+          "pdf_page": 102,
+          "row": 2,
+          "span": "U02635 ending, S09 and minimal following incipit; no Chapter2 collation"
+        }
+      ],
+      "observations": [
+        {
+          "id": "O01",
+          "anchors": [
+            "U02635",
+            "A2000-C01-S09"
+          ],
+          "source_span": "མན at row-1 end continues as ངག at row-2 start; the colophon closes at དང་པོའོ[B02].",
+          "base_span": "U02635 ending and S09 placement after U02635",
+          "category": "physical_boundary",
+          "neighboring_context": "Closing double shad, blank, separate pair, S09, upright, then དེ་ནས་ལྷ་དབང་རྟོག་པ་མེད; raw ston-pa identification rejected.",
+          "approximate_native_bounds": [
+            710,
+            280,
+            5180,
+            665
+          ],
+          "confidence": {
+            "row_assignment": "high",
+            "lexical_boundary": "high",
+            "sign_association": "qualified"
+          },
+          "rationale": "The full page and native columns establish the row break. B02 and B03 are distinct pairs separated by blank space; they must not be merged or counted twice."
+        },
+        {
+          "id": "O02",
+          "anchors": [
+            "A2000-C01-S09"
+          ],
+          "source_span": "[G01][G02][G03][G04][G05][G06]",
+          "base_span": "Explicitly unresolved scan-only insertion; no base wording",
+          "category": "unaligned_graphic_components",
+          "neighboring_context": "B03 immediately left; B04 and Tibetan incipit right.",
+          "approximate_native_bounds": [
+            2305,
+            470,
+            2675,
+            585
+          ],
+          "components": [
+            {
+              "id": "G01",
+              "bounds": [
+                2305,
+                475,
+                2350,
+                550
+              ],
+              "description": "Leftmost figure with two superposed hollow lobes."
+            },
+            {
+              "id": "G02",
+              "bounds": [
+                2345,
+                475,
+                2418,
+                578
+              ],
+              "description": "Detached upper oval-like element above a broader curved body and descending angular foot."
+            },
+            {
+              "id": "G03",
+              "bounds": [
+                2413,
+                473,
+                2487,
+                560
+              ],
+              "description": "Broad headed angular form with internal light openings and a lower hooked contour."
+            },
+            {
+              "id": "G04",
+              "bounds": [
+                2482,
+                472,
+                2585,
+                585
+              ],
+              "description": "Angular central-right complex with conspicuous closely spaced descending vertical strokes."
+            },
+            {
+              "id": "G05",
+              "bounds": [
+                2580,
+                470,
+                2636,
+                565
+              ],
+              "description": "Short headed, bent/open form preceding the terminal lobed figure."
+            },
+            {
+              "id": "G06",
+              "bounds": [
+                2630,
+                470,
+                2675,
+                550
+              ],
+              "description": "Rightmost figure with two hollow lobes and an angular lower extension."
+            }
+          ],
+          "confidence": {
+            "presence": "high",
+            "graphic_order": "high",
+            "character_segmentation": "low",
+            "script_identification": "low",
+            "lexical_reading": "unresolved"
+          },
+          "rationale": "Shapes can be inventoried, but secure character boundaries and a complete Tibetan or Indic reading cannot be established. The outer lobed figures may be signs or letters; neither is assigned a punctuation value."
+        },
+        {
+          "id": "O03",
+          "anchors": [
+            "U02635"
+          ],
+          "source_span": "རྩ[TS01]བ",
+          "base_span": "རྩ་་བ",
+          "category": "bounded_punctuation_uncertainty",
+          "neighboring_context": "ངག་གི་ … ངེས་པར་",
+          "approximate_native_bounds": [
+            890,
+            475,
+            1130,
+            650
+          ],
+          "confidence": {
+            "lexical_reading": "high",
+            "separator_multiplicity": "unresolved"
+          },
+          "rationale": "The letters support རྩ and བ; this inspection does not establish the base reference's doubled tsheg."
+        }
+      ],
+      "canonical_record_ids": [
+        "A2000-C01-S09"
+      ],
       "independent_review": {
         "task_id": "C1-BASE-UNCERTAINTIES",
         "batch_id": "B03-P0102-S09",
@@ -1283,12 +1427,65 @@
         "date": "2026-09-29T14:07:00.767096+03:00",
         "new_owner": "ChatGPT-coordinator-20260929-integration",
         "reason": "Prior raw report and coordinator rejection preserved. Resume integration without rerunning the interrupted draft."
-      }
+      },
+      "unread_or_uncertain_spans": [
+        {
+          "id": "Q01",
+          "scope": "G01–G06",
+          "remaining": "Character identities, joins, script and reading remain unresolved. G01/G06 sign-versus-letter status also remains unresolved; all six zones were inspected."
+        },
+        {
+          "id": "Q02",
+          "scope": "TS01",
+          "remaining": "One versus two intersyllabic dots."
+        },
+        {
+          "id": "Q03",
+          "scope": "M01",
+          "remaining": "Entire short marginal label, bounded separately from the main text and S09."
+        }
+      ],
+      "coordinator_review": {
+        "review_date": "2026-09-29T14:09:21.921742+03:00",
+        "baseline_commit": "1c8ae52a8e716139b440137bcfa0f55368d492cf",
+        "mode": "Integration of preserved independent reading plus coordinator native-page and context reinspection",
+        "views_actually_reinspected": [
+          "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B03-P0102-S09/p102-native.png",
+          "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B03-P0102-S09/S09-context.png"
+        ],
+        "accepted_scope": "S09 is physically separate compact material after Chapter1 colophon, before the ordinary Tibetan next-chapter incipit; no complete transcription adopted. Six zones are inspection partitions, not established character count.",
+        "raw_error_rejected": {
+          "field": "following incipit",
+          "raw": "དེ་ནས་སྟོན་པ་",
+          "corrected_minimal_context": "དེ་ནས་ལྷ་དབང་རྟོག་པ་མེད",
+          "reason": "Native context visibly contains lha dbang; preserve the raw error without certifying its quotation. Only minimal next-chapter boundary context inspected."
+        },
+        "punctuation_policy": "Preserve the distinct closing pair, separated pre-inscription pair and post-inscription upright as inventory. No new Unicode sign allocation or replacement at U02635 is adopted from this limited review.",
+        "unresolved": [
+          {
+            "id": "Q01",
+            "scope": "G01–G06",
+            "remaining": "Character identities, joins, script and reading remain unresolved. G01/G06 sign-versus-letter status also remains unresolved; all six zones were inspected."
+          },
+          {
+            "id": "Q02",
+            "scope": "TS01",
+            "remaining": "One versus two intersyllabic dots."
+          },
+          {
+            "id": "Q03",
+            "scope": "M01",
+            "remaining": "Entire short marginal label, bounded separately from the main text and S09."
+          }
+        ],
+        "next_step": "Script-level discrimination of S09 remains open. Continue title/portrait base-uncertainty scope rather than repeating the same unresolved transcription."
+      },
+      "next_physical_span": "Title and portrait scope on Adzom PDF1-2. Retain S09, U02635 dot count and marginal uncertainty."
     }
   ],
   "remaining_declared_scope": "U01522 bounded unresolved; PDF101 annotations, PDF102 inscription, and title/portrait/foreign-script questions still require their planned reviews.",
   "protocol": "coverage_review",
-  "current_batch_id": "B02-P0101",
+  "current_batch_id": "B03-P0102-S09",
   "next_physical_span": "PDF102 S09 boundary inscription, then title/portrait scopes; preserve the unresolved PDF60/PDF101 findings without endlessly repeating identical evidence.",
   "current_wave_id": "CONTINUE2-W02"
 }
