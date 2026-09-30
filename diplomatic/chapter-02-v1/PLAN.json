@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "chapter": 2,
+  "status": "approved_in_progress",
+  "baseline_commit": "fe5eccbeef01b2000c7383d120af472400f2c7cf",
+  "approval": "User requested the next chapter under the approved bounded process, with status report after every verified commit.",
+  "title": "Chapter 2 v1 — corrected Adzom-based reading with scoped comparative apparatus",
+  "scope": "Exact A/B/S chapter comparison, defined W reference comparison, targeted Adzom source checks for known note layers and materially significant candidates, explicit release decisions and five deliverable groups. No exhaustive all-witness collation or silent normalization.",
+  "original_anchor_range": [
+    "U02636",
+    "U03622"
+  ],
+  "original_anchor_count": 987,
+  "sources": {
+    "A": {
+      "path": "editions/adzom-2000/W1KG11703_7.txt",
+      "full_sha256": "18bd9ce65311e2d6d7c703f053a5c0aac347e899a75f8749a8f9afd891452edc",
+      "start": 76376,
+      "end": 104719,
+      "chapter_sha256": "935ae880e4c5545419a2b74307d2d8920cf7bfe946bdae469f18bb4925c34c68",
+      "before": "ོ་ཆོས་རྣམས་ཀུན་གྱི་རྩ་བ་ལས།སྣ་ཚོགས་བཀོད་པ་རང་བྱུང་མན་ངག་གི་རྩ་་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་དང་པོའོ།།",
+      "opening": "དེ་ནས་ལྷ་དབང་རྟོག་པ་མེད།།ཆོས་ཀྱི་དབྱིངས་དང་དབྱེར་མེད་ཀྱང་། །མ་འོངས་དུས་ཀྱི་སེམས་ཅན་ལ། །རྟོགས་པས་ངེས་པར་འཁོར་བ་ལས། །བསྒྲལ",
+      "closing": "ྲིད་གསུམ་གདར་ཤ་ཆོད་པའོ། །ཞེས་སྒྲ་ཐལ་འགྱུར་ཆེན་པོ་ཆོས་རྣམས་ཀུན་གྱི་རྩ་བ་ལས། གནད་འདུས་བཀོད་པ་རིག་པའི་རྩ་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་གཉིས་པའོ།།",
+      "following": " དེ་ནས་ལྷ་དབང་དགའ་བྱེད་ཀྱིས། །ཡེ་ཤེས་བཀོད་པ་ཞེས་བྱ་བའི། །སངས་རྒྱས་བཅོམ་ལྡན་འདས་ལ་ཞུས། །ཆོས་ཉིད་གནས་པ་ཇི་ལྟར་ལགས། །དེ་ལས་"
+    },
+    "B": {
+      "path": "editions/tharpaling-1983/W27491_7.txt",
+      "full_sha256": "df05454b1ca21d893188b30e00b7b463abe369afc6ec26d917354a7d6de464c3",
+      "start": 76794,
+      "end": 105153,
+      "chapter_sha256": "f3407524f8fe1629cafcbc05a1ed8b119fd389581db981639e0e8d49f1d205ec",
+      "before": "་ལས། །སྣ་ཚོགས་བཀོད་པ་རང་བྱུང་མན་ངག་གི་རྩ་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་དང་པོའོ།།བྷྲམྱ་ཏྲ་ཧྲ་ཏྱ། །ཉྲཿ །",
+      "opening": "དེ་ནས་ལྷ་དབང་རྟོག་པ་མེད།།ཆོས་ཀྱི་དབྱིངས་དང་དབྱེར་མེད་ཀྱང་། །མ་འོངས་དུས་ཀྱི་སེམས་ཅན་ལ། །རྟོགས་པས་ངེས་པར་འཁོར་བ་ལས། །བསྒྲལ",
+      "closing": "་གསུམ་གདར་ཤ་ཆོད་པའོ། །ཞེས་སྒྲ་ཐལ་འགྱུར་ཆེན་པོ་ཆོས་རྣམས་ཀུན་གྱི་རྩ་བ་ལས། གནད་འདུས་བཀོད་པ་རིག་པའི་རྩ་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་གཉིས་པའོ།། །།",
+      "following": "དེ་ནས་ལྷ་དབང་དགའ་བྱེད་ཀྱིས། །ཡེ་ཤེས་བཀོད་པ་ཞེས་བྱ་བའི། །སངས་རྒྱས་བཅོམ་ལྡན་འདས་ལ་ཞུས། །ཆོས་ཉིད་གནས་པ་ཇི་ལྟར་ལགས། །དེ་ལས་འ"
+    },
+    "S": {
+      "path": "editions/sichuan-2016/W3CN7084_7.txt",
+      "full_sha256": "2cf6b52889211579dff68f2e064032f40926de266242f111b3c94bb4efa47c57",
+      "start": 76999,
+      "end": 105423,
+      "chapter_sha256": "b4317c052c91291a6730681c57e4547cc2d979a4c1887e39d8ff0aab2c09bb75",
+      "before": "ོས་རྣམས་ཀུན་གྱི་རྩ་བ་ལས།སྣ་ཚོགས་བཀོད་པ་རང་བྱུང་མན་ངག་གི་རྩ་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་དང་པོའོ།།  །།",
+      "opening": "དེ་ནས་ལྷ་དབང་རྟོག་པ་མེད།།ཆོས་ཀྱི་དབྱིངས་དང་དབྱེར་མེད་ཀྱང་། །མ་འོངས་དུས་ཀྱི་སེམས་ཅན་ལ། །རྟོགས་པས་ངེས་པར་འཁོར་བ་ལས། །བསྒྲལ",
+      "closing": "ད་གསུམ་གདར་ཤ་ཆོད་པའོ། །ཞེས་སྒྲ་ཐལ་འགྱུར་ཆེན་པོ་ཆོས་རྣམས་ཀུན་གྱི་རྩ་བ་ལས།གནད་འདུས་བཀོད་པ་རིག་པའི་རྩ་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་གཉིས་པའོ།། །།",
+      "following": "དེ་ནས་ལྷ་དབང་དགའ་བྱེད་ཀྱིས། །ཡེ་ཤེས་བཀོད་པ་ཞེས་བྱ་བའི། །སངས་རྒྱས་བཅོམ་ལྡན་འདས་ལ་ཞུས། །ཆོས་ཉིད་གནས་པ་ཇི་ལྟར་ལགས། །དེ་ལས་འ"
+    }
+  },
+  "W": {
+    "path": "editions/adzom-wikisource/source.wikitext",
+    "sha256": "d2a6e95e8c65d28d7812efa79d65bd397a0796a9e00621430a86b5713b70ede8",
+    "lines_inclusive": [
+      2665,
+      3658
+    ],
+    "provenance": "editions/adzom-wikisource/PROVENANCE.json"
+  },
+  "boundary_policy": "A follows exact existing U anchors [76376,104719), retaining the following leading space for Chapter3. B/S include all text from the same Chapter2 incipit up to but excluding the Chapter3 lexical incipit, including their intervening punctuation. This allocation is editorial, not a claim about printed sign ownership. W includes @2 and excludes @3.",
+  "workstreams": {
+    "source_intake": {
+      "total": 4,
+      "complete": 4
+    },
+    "electronic_loci": {
+      "total": null,
+      "complete": 0,
+      "note": "Denominator set once from exact collation before editorial acceptance."
+    },
+    "W_comparison": {
+      "total": null,
+      "complete": 0
+    },
+    "targeted_source_checks": {
+      "total": null,
+      "complete": 0,
+      "note": "Freeze exact loci from existing source-layer notes and structural comparison findings; no speculative all-witness expansion."
+    },
+    "deliverables": {
+      "total": 5,
+      "complete": 0
+    },
+    "final_gate": {
+      "total": 1,
+      "complete": 0
+    }
+  },
+  "prior_scan_consultation": "Translations scan-review.json is consultation only, not inherited Chapter2 diplomatic proofreading. Its notes identify candidates to examine; they do not authorize automatic correction.",
+  "chapter1_tag_unchanged": true,
+  "next_step": "Generate lossless A/B/S and exact-source W comparison; freeze candidate and decision denominators.",
+  "no_general_comparison_witness_reading": true,
+  "exhaustive_witness_collation": false
+}

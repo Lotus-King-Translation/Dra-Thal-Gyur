@@ -1,5 +1,7 @@
 # Continue the diplomatic edition
 
+> **Active chapter: Chapter 2 bounded v1 (authorized 2026-09-30).** Continue at [chapter-02-v1/README.md](chapter-02-v1/README.md) and its fixed source plan. Report status with every verified commit. Do not modify the tagged Chapter 1 release or reopen its completed checklist.
+
 > **Chapter 1 bounded v1 is complete for the user-approved scope (2026-09-30).** Start with the [released edition](release-v1/README.md), [final validation](release-v1/VALIDATION.json), and [status report](release-v1-proposal/PROGRESS.json). All 183 release choices are recorded; the eight frozen packets are dispositioned as two integrations and six explicit deferrals without collation credit; all five deliverable groups are present. Exhaustive witness collation remains unfinished. Run `python3 diplomatic/tools/release_progress.py --repo .` and report status with every verified commit. Do not reopen the completed v1 checklist or commission general reading under its name.
 
 **Start here on `main`. The approved Chapter 1 v1 is released; the exhaustive research dossier remains unfinished.** Its Markdown edition, integrated apparatus, surviving review ledgers and recovery archives are preserved together. Historical recovery branches remain available; they are not separate active work queues. Finish and remotely commit Chapter 1 before starting Chapter 2, then continue chapter by chapter.
