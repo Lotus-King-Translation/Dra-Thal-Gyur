@@ -1,0 +1,6 @@
+{
+  "stage": "Positive validator mutation-test fixture",
+  "result": "AttributeError from a null annotation field in a valid intervention record.",
+  "resolution": "Treat null annotation as absent when identifying headings. No editorial data changed.",
+  "status": "validator_corrected_pending_rerun"
+}

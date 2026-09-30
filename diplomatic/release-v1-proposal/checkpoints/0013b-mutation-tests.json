@@ -1,0 +1,62 @@
+{
+  "positive_case_passed": true,
+  "negative_cases_rejected": 11,
+  "cases": [
+    {
+      "case": "lost_original_anchor",
+      "rejected": true,
+      "reason": "Anchor loss or duplication"
+    },
+    {
+      "case": "invented_sequence_segment",
+      "rejected": true,
+      "reason": "Unexpected or missing reading-sequence content"
+    },
+    {
+      "case": "lost_restoration",
+      "rejected": true,
+      "reason": "'A2000-C01-S01'"
+    },
+    {
+      "case": "changed_restored_word",
+      "rejected": true,
+      "reason": "Restored sequence text changed"
+    },
+    {
+      "case": "caption_moved_into_main",
+      "rejected": true,
+      "reason": "Caption in main text"
+    },
+    {
+      "case": "annotation_moved_into_main",
+      "rejected": true,
+      "reason": "Selected reading changed: U01286"
+    },
+    {
+      "case": "duplicate_joined_text",
+      "rejected": true,
+      "reason": "Selected reading changed: U01812"
+    },
+    {
+      "case": "root_misclassified_as_caption",
+      "rejected": true,
+      "reason": "Original reading layer changed: U00542"
+    },
+    {
+      "case": "altered_transcript_quotation",
+      "rejected": true,
+      "reason": "A/B/S source data altered"
+    },
+    {
+      "case": "lost_comparison_observation",
+      "rejected": true,
+      "reason": "Comparison records altered or lost"
+    },
+    {
+      "case": "invented_inscription_reading",
+      "rejected": true,
+      "reason": "Restored sequence text changed"
+    }
+  ],
+  "editorial_files_modified": false
+}
