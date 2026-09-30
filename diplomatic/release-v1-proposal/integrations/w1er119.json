@@ -1,0 +1,75 @@
+{
+  "parent_commit": "654d0954fdab872ae75603b7af97178408431279",
+  "plan": {
+    "task": "C1-W1ER119",
+    "batch": "B01-OPENING-P0002-0003",
+    "target_page": 2,
+    "target_pages": [
+      2,
+      3
+    ],
+    "manifest": "diplomatic/evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/manifest.json",
+    "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader"
+  },
+  "decisions": {
+    "selected_observations": [
+      "O2-01",
+      "O2-02",
+      "O2-03",
+      "O2-04",
+      "O2-05",
+      "O2-06",
+      "O2-07",
+      "O3-02",
+      "O3-03",
+      "O3-04",
+      "O3-05",
+      "O3-06",
+      "O3-08"
+    ],
+    "record_statuses": {
+      "O2-01": "provisional_visual_observation",
+      "O2-02": "bounded_uncertainty",
+      "O2-03": "bounded_uncertainty",
+      "O2-04": "bounded_uncertainty",
+      "O2-05": "bounded_uncertainty",
+      "O2-06": "bounded_uncertainty",
+      "O2-07": "bounded_uncertainty",
+      "O3-02": "bounded_uncertainty",
+      "O3-03": "bounded_uncertainty",
+      "O3-04": "bounded_uncertainty",
+      "O3-05": "bounded_uncertainty",
+      "O3-06": "bounded_uncertainty",
+      "O3-08": "provisional_visual_observation"
+    },
+    "record_prefix": "ER119-V1-20260930",
+    "witness": "W1ER119",
+    "base_disposition": "Retain corrected Adzom unchanged. Record this W1ER119 observation within its stated uncertainty; neither agreement, a lost verse, nor a preferred replacement follows from this unresolved reading.",
+    "planned_new_records": 13,
+    "next_task_id": "C1-ADZOM1973",
+    "coordinator": {
+      "summary": "W1ER119 PDF2–3 saved opening attempt integrated: sixteen physical rows represented, sixteen observation dispositions, thirteen new bounded/provisional apparatus entries and all twenty-five questions retained. Local correspondence runs from U00061 to U00121; this is not a fully deciphered range or evidence that earlier units are omitted.",
+      "next_step": "No new general W1ER119 reading is required for v1. Preserve the exact Q01–Q25 and the unlocated chapter endpoint; further continuous reading and actual gap effects remain outside the approved release scope.",
+      "detail": "Coordinator inspected both native pages, both overlapping columns per target and the PDF4 opening flank. The eight-row layouts and separate non-main regions are retained. Headless glyph readings remain qualified; the raw record does not become a blanket statement of agreement.",
+      "coordinator_scope": "Physical layout and bounded source-report review from the displayed native evidence. Correspondence and non-Q transcriptions remain provisional model readings, not independent all-glyph certification.",
+      "observation_dispositions": {
+        "O2-01": "Retain local U00061–U00064 correspondence as provisional alignment evidence. It does not establish omission of the preceding anchors or a chapter opening.",
+        "O2-02": "Publish Q01/Q02 lexical and Q03 graphic uncertainties separately; do not supply the aid words or normalize the final cluster.",
+        "O2-03": "Publish Q04/Q05 bounded uncertainties. The par continuation is physical context, not proof of the undeciphered preceding letters.",
+        "O2-04": "Retain the U00072 row join and publish Q06/Q07 as unresolved. Crop divisions are not source line breaks.",
+        "O2-05": "Publish Q08/Q09/Q25 as separate boundary, lexical-ending and filler questions; no ste or count is reconstructed.",
+        "O2-06": "Publish Q10/Q11/Q24 as distinct stack, inter-clause and frame-junction uncertainties; do not equate a long rule with a shad.",
+        "O2-07": "Publish Q12/Q13 without importing od skar or bcas from Adzom. Readable context alone is not agreement.",
+        "O2-08": "Keep the page2 exit and page3 entry in the continuity ledger only; no duplicate apparatus entry for the same page join.",
+        "O3-01": "Keep the incoming and intra-row wrap in the continuity ledger; source-order fragments remain provisional, not a complete-witness certificate.",
+        "O3-02": "Publish Q14/Q15/Q16 as suffix, boundary and initial-cluster questions. No absence or replacement reading is established.",
+        "O3-03": "Publish the main/small-layer Q17/Q18 uncertainty. Do not merge the small pale-region writing into the root or assign a correction function.",
+        "O3-04": "Publish Q19/Q20 bounded lexical questions without supplying du or byed from the alignment aid.",
+        "O3-05": "Preserve the whole bar interval and Q21. The numerical expression is not repaired from expected arithmetic.",
+        "O3-06": "Retain the physical ka la ping / kai wrap and publish Q22 particle uncertainty; no grammatical regularization.",
+        "O3-07": "Keep the ornament and Q23 marginal mark in the non-main ledger only; no numeral interpretation.",
+        "O3-08": "Retain the U00121 exit and PDF4 brgya phrag locator as provisional local correspondence. No chapter endpoint or PDF4 full collation is claimed."
+      }
+    }
+  }
+}

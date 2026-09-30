@@ -1,0 +1,30 @@
+{
+  "verified_reader": {
+    "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt",
+    "sha256": "6b90812b3088eb0ba30cfa23c63a085b9a781c6a5cfe20864c947ff8b2579bce",
+    "images_hash_verified": 10,
+    "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-execution.json"
+  },
+  "new_record_ids": [
+    "ER119-V1-20260930-O2-01",
+    "ER119-V1-20260930-O2-02",
+    "ER119-V1-20260930-O2-03",
+    "ER119-V1-20260930-O2-04",
+    "ER119-V1-20260930-O2-05",
+    "ER119-V1-20260930-O2-06",
+    "ER119-V1-20260930-O2-07",
+    "ER119-V1-20260930-O3-02",
+    "ER119-V1-20260930-O3-03",
+    "ER119-V1-20260930-O3-04",
+    "ER119-V1-20260930-O3-05",
+    "ER119-V1-20260930-O3-06",
+    "ER119-V1-20260930-O3-08"
+  ],
+  "previous_records_unchanged": 669,
+  "all_2635_source_and_reading_strings_unchanged": true,
+  "all_insertions_and_interventions_unchanged": true,
+  "chapter_complete": false,
+  "request": "diplomatic/release-v1-proposal/integrations/w1er119.json",
+  "parent_commit": "654d0954fdab872ae75603b7af97178408431279",
+  "scope": "Bounded v1 integration; existing exhaustive gate remains unfinished."
+}

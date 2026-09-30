@@ -265,19 +265,19 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00061"></a>
 
-**U00061** འགྲོ་དང་འགྲེང་དང་ཉལ་བ་དང་། ། [TH-COV1-B01-O-4-ENTRY](#th-cov1-b01-o-4-entry)
+**U00061** འགྲོ་དང་འགྲེང་དང་ཉལ་བ་དང་། ། [TH-COV1-B01-O-4-ENTRY](#th-cov1-b01-o-4-entry) [ER119-V1-20260930-O2-01](#er119-v1-20260930-o2-01) [ER119-V1-20260930-O2-02](#er119-v1-20260930-o2-02)
 
 <a id="u00062"></a>
 
-**U00062** བསྐྱོད་ཅིང་རྒྱུག་པའི་རྣམ་པ་རྣམས། ། [TK-CONT-20260928-TK-B01-004](#tk-cont-20260928-tk-b01-004) [TK-CONT-20260928-TK-B01-005](#tk-cont-20260928-tk-b01-005) [TH-COV1-B01-O-4-ENTRY](#th-cov1-b01-o-4-entry)
+**U00062** བསྐྱོད་ཅིང་རྒྱུག་པའི་རྣམ་པ་རྣམས། ། [TK-CONT-20260928-TK-B01-004](#tk-cont-20260928-tk-b01-004) [TK-CONT-20260928-TK-B01-005](#tk-cont-20260928-tk-b01-005) [TH-COV1-B01-O-4-ENTRY](#th-cov1-b01-o-4-entry) [ER119-V1-20260930-O2-01](#er119-v1-20260930-o2-01) [ER119-V1-20260930-O2-02](#er119-v1-20260930-o2-02)
 
 <a id="u00063"></a>
 
-**U00063** བར་སྣང་ཉིད་ལས་གཞན་ཅི་མིན། ། [TS-CH1-V004](#ts-ch1-v004) [TK-CONT-20260928-TK-B01-006](#tk-cont-20260928-tk-b01-006)
+**U00063** བར་སྣང་ཉིད་ལས་གཞན་ཅི་མིན། ། [TS-CH1-V004](#ts-ch1-v004) [TK-CONT-20260928-TK-B01-006](#tk-cont-20260928-tk-b01-006) [ER119-V1-20260930-O2-01](#er119-v1-20260930-o2-01)
 
 <a id="u00064"></a>
 
-**U00064** རང་ལས་འོད་བྱུང་སྣང་བ་ལས། །
+**U00064** རང་ལས་འོད་བྱུང་སྣང་བ་ལས། ། [ER119-V1-20260930-O2-01](#er119-v1-20260930-o2-01) [ER119-V1-20260930-O2-02](#er119-v1-20260930-o2-02)
 
 <a id="u00065"></a>
 
@@ -289,11 +289,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00067"></a>
 
-**U00067** མཛེས་ཞིང་ལྡེམ་བག་ལྡན་པ་ལ། ། [TH-COV1-B01-Q403](#th-cov1-b01-q403) [W-C01-006](reviews/chapter-01/wikisource.md#w-c01-006)
+**U00067** མཛེས་ཞིང་ལྡེམ་བག་ལྡན་པ་ལ། ། [TH-COV1-B01-Q403](#th-cov1-b01-q403) [ER119-V1-20260930-O2-03](#er119-v1-20260930-o2-03) [W-C01-006](reviews/chapter-01/wikisource.md#w-c01-006)
 
 <a id="u00068"></a>
 
-**U00068** བག་ཡངས་རྣམ་ཤེས་གུད་མེད་པར། ། [TH-COV1-B01-Q404](#th-cov1-b01-q404)
+**U00068** བག་ཡངས་རྣམ་ཤེས་གུད་མེད་པར། ། [TH-COV1-B01-Q404](#th-cov1-b01-q404) [ER119-V1-20260930-O2-03](#er119-v1-20260930-o2-03)
 
 <a id="u00069"></a>
 
@@ -301,7 +301,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00070"></a>
 
-**U00070** མངོན་དུ་བྱ་དང་བྱེད་པ་བྲལ། ། [TK-CONT-20260928-TK-B01-007](#tk-cont-20260928-tk-b01-007)
+**U00070** མངོན་དུ་བྱ་དང་བྱེད་པ་བྲལ། ། [TK-CONT-20260928-TK-B01-007](#tk-cont-20260928-tk-b01-007) [ER119-V1-20260930-O2-04](#er119-v1-20260930-o2-04)
 
 <a id="u00071"></a>
 
@@ -309,11 +309,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00072"></a>
 
-**U00072** ཁམས་དང་གུད་བཅས་ལས་མི་སྣང་། །
+**U00072** ཁམས་དང་གུད་བཅས་ལས་མི་སྣང་། ། [ER119-V1-20260930-O2-04](#er119-v1-20260930-o2-04)
 
 <a id="u00073"></a>
 
-**U00073** ཁྱད་པར་སྙིང་པོའི་པདྨ་ལས། ། [TH-COV1-B01-O-4-ROW23](#th-cov1-b01-o-4-row23) [W-C01-007](reviews/chapter-01/wikisource.md#w-c01-007)
+**U00073** ཁྱད་པར་སྙིང་པོའི་པདྨ་ལས། ། [TH-COV1-B01-O-4-ROW23](#th-cov1-b01-o-4-row23) [ER119-V1-20260930-O2-04](#er119-v1-20260930-o2-04) [W-C01-007](reviews/chapter-01/wikisource.md#w-c01-007)
 
 <a id="u00074"></a>
 
@@ -333,15 +333,15 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00078"></a>
 
-**U00078** རིས་ཅན་འོད་ཟེར་དཔག་ཏུ་མེད། །
+**U00078** རིས་ཅན་འོད་ཟེར་དཔག་ཏུ་མེད། ། [ER119-V1-20260930-O2-05](#er119-v1-20260930-o2-05)
 
 <a id="u00079"></a>
 
-**U00079** ང་ནི་ལྷ་བུ་དགའ་བྱེད་སྟེ། ། [TK-CONT-20260928-TK-B01-009](#tk-cont-20260928-tk-b01-009) [W-C01-008](reviews/chapter-01/wikisource.md#w-c01-008)
+**U00079** ང་ནི་ལྷ་བུ་དགའ་བྱེད་སྟེ། ། [TK-CONT-20260928-TK-B01-009](#tk-cont-20260928-tk-b01-009) [ER119-V1-20260930-O2-05](#er119-v1-20260930-o2-05) [W-C01-008](reviews/chapter-01/wikisource.md#w-c01-008)
 
 <a id="u00080"></a>
 
-**U00080** དབང་ཕྱུག་རྫོགས་པའི་ལུས་བླངས་ནས། ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-PHYS-P006-007-UNCERTAINTIES](#scan-ch1-phys-p006-007-uncertainties) [TH-COV1-B01-O-4-U80](#th-cov1-b01-o-4-u80)
+**U00080** དབང་ཕྱུག་རྫོགས་པའི་ལུས་བླངས་ནས། ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-PHYS-P006-007-UNCERTAINTIES](#scan-ch1-phys-p006-007-uncertainties) [TH-COV1-B01-O-4-U80](#th-cov1-b01-o-4-u80) [ER119-V1-20260930-O2-06](#er119-v1-20260930-o2-06)
 
 <a id="u00081"></a>
 
@@ -349,15 +349,15 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00082"></a>
 
-**U00082** རང་བཞིན་གྱིས་ནི་བདེ་བ་རྙེད། ། [W-C01-009](reviews/chapter-01/wikisource.md#w-c01-009)
+**U00082** རང་བཞིན་གྱིས་ནི་བདེ་བ་རྙེད། ། [ER119-V1-20260930-O2-06](#er119-v1-20260930-o2-06) [W-C01-009](reviews/chapter-01/wikisource.md#w-c01-009)
 
 <a id="u00083"></a>
 
-**U00083** དེ་ཚེ་མཛད་པའི་བྱིན་རླབས་ལས། །
+**U00083** དེ་ཚེ་མཛད་པའི་བྱིན་རླབས་ལས། ། [ER119-V1-20260930-O2-06](#er119-v1-20260930-o2-06)
 
 <a id="u00084"></a>
 
-**U00084** དྲུག་ཅུ་རྩ་བཞིའི་འོད་སྐར་ནི། ། [TH-COV1-B01-Q410](#th-cov1-b01-q410)
+**U00084** དྲུག་ཅུ་རྩ་བཞིའི་འོད་སྐར་ནི། ། [TH-COV1-B01-Q410](#th-cov1-b01-q410) [ER119-V1-20260930-O2-07](#er119-v1-20260930-o2-07)
 
 <a id="u00085"></a>
 
@@ -381,7 +381,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00090"></a>
 
-**U00090** རྡོ་རྗེ་བཅས་དང་སྐུ་གཟུགས་ནི། ། [TK-CONT-20260928-TK-B01-015](#tk-cont-20260928-tk-b01-015)
+**U00090** རྡོ་རྗེ་བཅས་དང་སྐུ་གཟུགས་ནི། ། [TK-CONT-20260928-TK-B01-015](#tk-cont-20260928-tk-b01-015) [ER119-V1-20260930-O2-07](#er119-v1-20260930-o2-07)
 
 <a id="u00091"></a>
 
@@ -393,7 +393,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00093"></a>
 
-**U00093** སོ་སོའི་ལས་དང་སྐལ་མཐུན་པར། ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-PHYS-P006-007-UNCERTAINTIES](#scan-ch1-phys-p006-007-uncertainties) [TH-COV1-B01-O-4-U92-93](#th-cov1-b01-o-4-u92-93)
+**U00093** སོ་སོའི་ལས་དང་སྐལ་མཐུན་པར། ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-PHYS-P006-007-UNCERTAINTIES](#scan-ch1-phys-p006-007-uncertainties) [TH-COV1-B01-O-4-U92-93](#th-cov1-b01-o-4-u92-93) [ER119-V1-20260930-O3-02](#er119-v1-20260930-o3-02)
 
 <a id="u00094"></a>
 
@@ -405,11 +405,11 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00096"></a>
 
-**U00096** དེས་ན་སྙིང་དང་འདྲ་བས་གསང་། །
+**U00096** དེས་ན་སྙིང་དང་འདྲ་བས་གསང་། ། [ER119-V1-20260930-O3-02](#er119-v1-20260930-o3-02)
 
 <a id="u00097"></a>
 
-**U00097** དངོས་གྲུབ་མཆོག་རྣམས་མཐར་ཐུག་པའི། ། [TK-CONT-20260928-TK-B01-017](#tk-cont-20260928-tk-b01-017) [TH-COV1-B01-Q416](#th-cov1-b01-q416)
+**U00097** དངོས་གྲུབ་མཆོག་རྣམས་མཐར་ཐུག་པའི། ། [TK-CONT-20260928-TK-B01-017](#tk-cont-20260928-tk-b01-017) [TH-COV1-B01-Q416](#th-cov1-b01-q416) [ER119-V1-20260930-O3-02](#er119-v1-20260930-o3-02)
 
 <a id="u00098"></a>
 
@@ -417,7 +417,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00099"></a>
 
-**U00099** གང་སུ་འཕྲད་པ་གྲོལ་བར་ངེས། ། [TK-CONT-20260928-TK-B01-019](#tk-cont-20260928-tk-b01-019) [TK-CONT-20260928-TK-B01-020](#tk-cont-20260928-tk-b01-020) [TH-COV1-B01-O-4-EXIT](#th-cov1-b01-o-4-exit)
+**U00099** གང་སུ་འཕྲད་པ་གྲོལ་བར་ངེས། ། [TK-CONT-20260928-TK-B01-019](#tk-cont-20260928-tk-b01-019) [TK-CONT-20260928-TK-B01-020](#tk-cont-20260928-tk-b01-020) [TH-COV1-B01-O-4-EXIT](#th-cov1-b01-o-4-exit) [ER119-V1-20260930-O3-02](#er119-v1-20260930-o3-02)
 
 <a id="u00100"></a>
 
@@ -437,7 +437,7 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00104"></a>
 
-**U00104** ཆོས་ཀྱི་སྐུ་ལ་ངེས་བརྒྱུད་དེ། ། [TK-CONT-20260928-TK-B01-021](#tk-cont-20260928-tk-b01-021) [TH-COV1-B01-Q503](#th-cov1-b01-q503)
+**U00104** ཆོས་ཀྱི་སྐུ་ལ་ངེས་བརྒྱུད་དེ། ། [TK-CONT-20260928-TK-B01-021](#tk-cont-20260928-tk-b01-021) [TH-COV1-B01-Q503](#th-cov1-b01-q503) [ER119-V1-20260930-O3-03](#er119-v1-20260930-o3-03)
 
 <a id="u00105"></a>
 
@@ -457,19 +457,19 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00109"></a>
 
-**U00109** སུས་ཀྱང་བརྗོད་དུ་མེད་པར་ནི། ། [TK-CONT2-B02-O02](#tk-cont2-b02-o02) [TK-CONT2-B02-O11](#tk-cont2-b02-o11)
+**U00109** སུས་ཀྱང་བརྗོད་དུ་མེད་པར་ནི། ། [TK-CONT2-B02-O02](#tk-cont2-b02-o02) [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [ER119-V1-20260930-O3-04](#er119-v1-20260930-o3-04)
 
 <a id="u00110"></a>
 
-**U00110** ནམ་མཁའ་མི་འབྱེད་བར་སྣང་ལས། ། [TK-CONT2-B02-O03](#tk-cont2-b02-o03) [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TH-COV1-B01-Q507](#th-cov1-b01-q507)
+**U00110** ནམ་མཁའ་མི་འབྱེད་བར་སྣང་ལས། ། [TK-CONT2-B02-O03](#tk-cont2-b02-o03) [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TH-COV1-B01-Q507](#th-cov1-b01-q507) [ER119-V1-20260930-O3-04](#er119-v1-20260930-o3-04)
 
 <a id="u00111"></a>
 
-**U00111** ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང༌། ། [TK-CONT2-B02-O04](#tk-cont2-b02-o04) [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TH-COV1-B01-Q508](#th-cov1-b01-q508)
+**U00111** ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང༌། ། [TK-CONT2-B02-O04](#tk-cont2-b02-o04) [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TH-COV1-B01-Q508](#th-cov1-b01-q508) [ER119-V1-20260930-O3-05](#er119-v1-20260930-o3-05)
 
 <a id="u00112"></a>
 
-**U00112** དགུ་གཉིས་བཞི་ཡི་ཡང་སྟེང་ནས། ། [TK-CONT2-B02-O05](#tk-cont2-b02-o05) [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TH-COV1-B01-Q509](#th-cov1-b01-q509)
+**U00112** དགུ་གཉིས་བཞི་ཡི་ཡང་སྟེང་ནས། ། [TK-CONT2-B02-O05](#tk-cont2-b02-o05) [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TH-COV1-B01-Q509](#th-cov1-b01-q509) [ER119-V1-20260930-O3-05](#er119-v1-20260930-o3-05)
 
 <a id="u00113"></a>
 
@@ -493,19 +493,19 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00118"></a>
 
-**U00118** ཀ་ལ་པིང་ཀའི་སྒྲ་དབྱངས་ལས། ། [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TH-COV1-B01-Q513](#th-cov1-b01-q513)
+**U00118** ཀ་ལ་པིང་ཀའི་སྒྲ་དབྱངས་ལས། ། [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TH-COV1-B01-Q513](#th-cov1-b01-q513) [ER119-V1-20260930-O3-06](#er119-v1-20260930-o3-06)
 
 <a id="u00119"></a>
 
-**U00119** བསྟན་པ་ཀུན་གྱི་བཅུད་བསྡུས་པའི། ། [TK-CONT2-B02-O04](#tk-cont2-b02-o04) [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TK-CONT2-B02-Q04](#tk-cont2-b02-q04) [TH-COV1-B01-Q514](#th-cov1-b01-q514)
+**U00119** བསྟན་པ་ཀུན་གྱི་བཅུད་བསྡུས་པའི། ། [TK-CONT2-B02-O04](#tk-cont2-b02-o04) [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TK-CONT2-B02-Q04](#tk-cont2-b02-q04) [TH-COV1-B01-Q514](#th-cov1-b01-q514) [ER119-V1-20260930-O3-06](#er119-v1-20260930-o3-06)
 
 <a id="u00120"></a>
 
-**U00120** རྒྱུད་ཀྱི་རྒྱལ་པོ་འདི་ཉིད་ནི། ། [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [DG-CONT2-B01-Q06](#dg-cont2-b01-q06)
+**U00120** རྒྱུད་ཀྱི་རྒྱལ་པོ་འདི་ཉིད་ནི། ། [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [DG-CONT2-B01-Q06](#dg-cont2-b01-q06) [ER119-V1-20260930-O3-08](#er119-v1-20260930-o3-08)
 
 <a id="u00121"></a>
 
-**U00121** ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང་། ། [TK-CONT2-B02-O04](#tk-cont2-b02-o04) [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TH-COV1-B01-Q515](#th-cov1-b01-q515) [TH-COV1-B01-Q516](#th-cov1-b01-q516)
+**U00121** ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང་། ། [TK-CONT2-B02-O04](#tk-cont2-b02-o04) [TK-CONT2-B02-O11](#tk-cont2-b02-o11) [TH-COV1-B01-Q515](#th-cov1-b01-q515) [TH-COV1-B01-Q516](#th-cov1-b01-q516) [ER119-V1-20260930-O3-08](#er119-v1-20260930-o3-08)
 
 <a id="u00122"></a>
 
@@ -25926,6 +25926,266 @@ Units: [U00012](#u00012), [U00013](#u00013), [U00014](#u00014), [U00015](#u00015
 **Choice and reason:** Retain the corrected Adzom reading unchanged. This is bounded Dzongsar physical evidence with explicitly retained questions, not a new preferred root reading.
 
 **Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-DZONGSAR/B02-PHYSICAL-P0001-0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-DZONGSAR/B02-PHYSICAL-P0001-0003/p003-x0000-y0000.png), [p003-x0519-y0000.png](evidence/chapter-01/continuation/C1-DZONGSAR/B02-PHYSICAL-P0001-0003/p003-x0519-y0000.png), [C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-DZONGSAR.md).
+
+<a id="er119-v1-20260930-o2-01"></a>
+
+### ER119-V1-20260930-O2-01 — W1ER119
+
+Units: [U00061](#u00061), [U00062](#u00062), [U00063](#u00063), [U00064](#u00064).
+
+**Current Adzom main context:** འགྲོ་དང་འགྲེང་དང་ཉལ་བ་དང་། ། / བསྐྱོད་ཅིང་རྒྱུག་པའི་རྣམ་པ་རྣམས། ། / བར་སྣང་ཉིད་ལས་གཞན་ཅི་མིན། ། / རང་ལས་འོད་བྱུང་སྣང་བ་ལས། །
+
+**Comparison reading/snippet:** Row 1, from འགྲོ་དང་ through རང་ལས་འོད་བྱུང་སྣང་བ་ལས
+
+**Status:** provisional_visual_observation. **Confidence:** {"alignment": "high", "lexical": "medium", "layout": "high"}.
+
+**Locator:** PDF 2; source-member and native bounds in linked packet; bounds: [220, 80, 2840, 173].
+
+**Observation:** The successive visible clauses establish this local correspondence. This is not evidence that preceding base units are globally absent. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain corrected Adzom unchanged. Record this W1ER119 observation within its stated uncertainty; neither agreement, a lost verse, nor a preferred replacement follows from this unresolved reading.
+
+**Evidence:** [p002-native.jpg](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-native.jpg), [p002-x0000-y0000.png](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x0000-y0000.png), [p002-x1000-y0000.png](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x1000-y0000.png), [C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-W1ER119.md).
+
+<a id="er119-v1-20260930-o2-02"></a>
+
+### ER119-V1-20260930-O2-02 — W1ER119
+
+Units: [U00061](#u00061), [U00062](#u00062), [U00064](#u00064).
+
+**Current Adzom main context:** འགྲོ་དང་འགྲེང་དང་ཉལ་བ་དང་། ། / བསྐྱོད་ཅིང་རྒྱུག་པའི་རྣམ་པ་རྣམས། ། / རང་ལས་འོད་བྱུང་སྣང་བ་ལས། །
+
+**Comparison reading/snippet:** ["Q01", "Q02", "Q03"]
+
+**Status:** bounded_uncertainty. **Confidence:** {"alignment": "high", "unread_letters": "low", "terminal_graphic": "low"}.
+
+**Locator:** PDF 2; source-member and native bounds in linked packet; bounds: [320, 80, 2845, 173].
+
+**Observation:** The neighboring readings do not settle these clusters or the tiered terminal mark. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain corrected Adzom unchanged. Record this W1ER119 observation within its stated uncertainty; neither agreement, a lost verse, nor a preferred replacement follows from this unresolved reading.
+
+**Evidence:** [p002-native.jpg](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-native.jpg), [p002-x0000-y0000.png](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x0000-y0000.png), [p002-x1000-y0000.png](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x1000-y0000.png), [C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-W1ER119.md).
+
+<a id="er119-v1-20260930-o2-03"></a>
+
+### ER119-V1-20260930-O2-03 — W1ER119
+
+Units: [U00067](#u00067), [U00068](#u00068).
+
+**Current Adzom main context:** མཛེས་ཞིང་ལྡེམ་བག་ལྡན་པ་ལ། ། / བག་ཡངས་རྣམ་ཤེས་གུད་མེད་པར། །
+
+**Comparison reading/snippet:** ["Q04", "Q05"]
+
+**Status:** bounded_uncertainty. **Confidence:** {"alignment": "high", "unread_letters": "low", "row_continuity": "high"}.
+
+**Locator:** PDF 2; source-member and native bounds in linked packet; bounds: [1510, 167, 2820, 310].
+
+**Observation:** The row-end phrase continues with པར at the next row's left edge; the intervening letters remain unaccepted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain corrected Adzom unchanged. Record this W1ER119 observation within its stated uncertainty; neither agreement, a lost verse, nor a preferred replacement follows from this unresolved reading.
+
+**Evidence:** [p002-native.jpg](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-native.jpg), [p002-x0000-y0000.png](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x0000-y0000.png), [p002-x1000-y0000.png](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x1000-y0000.png), [C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-W1ER119.md).
+
+<a id="er119-v1-20260930-o2-04"></a>
+
+### ER119-V1-20260930-O2-04 — W1ER119
+
+Units: [U00070](#u00070), [U00072](#u00072), [U00073](#u00073).
+
+**Current Adzom main context:** མངོན་དུ་བྱ་དང་བྱེད་པ་བྲལ། ། / ཁམས་དང་གུད་བཅས་ལས་མི་སྣང་། ། / ཁྱད་པར་སྙིང་པོའི་པདྨ་ལས། །
+
+**Comparison reading/snippet:** ["Q06", "ཁམས་དང་ / གུད་བཅས་ལས་མི་སྣང", "Q07"]
+
+**Status:** bounded_uncertainty. **Confidence:** {"alignment": "high", "unread_letters": "low", "row_continuity": "high"}.
+
+**Locator:** PDF 2; source-member and native bounds in linked packet; bounds: [215, 238, 2820, 375].
+
+**Observation:** Physical rows, rather than crop divisions, govern the sequence. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain corrected Adzom unchanged. Record this W1ER119 observation within its stated uncertainty; neither agreement, a lost verse, nor a preferred replacement follows from this unresolved reading.
+
+**Evidence:** [p002-native.jpg](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-native.jpg), [p002-x0000-y0000.png](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x0000-y0000.png), [p002-x1000-y0000.png](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x1000-y0000.png), [C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-W1ER119.md).
+
+<a id="er119-v1-20260930-o2-05"></a>
+
+### ER119-V1-20260930-O2-05 — W1ER119
+
+Units: [U00078](#u00078), [U00079](#u00079).
+
+**Current Adzom main context:** རིས་ཅན་འོད་ཟེར་དཔག་ཏུ་མེད། ། / ང་ནི་ལྷ་བུ་དགའ་བྱེད་སྟེ། །
+
+**Comparison reading/snippet:** ["Q08", "ང་ནི་ལྷ་བུ་དགའ་བྱེད་[Q09]", "B F/Q25"]
+
+**Status:** bounded_uncertainty. **Confidence:** {"alignment": "high", "ending_letters": "low", "graphic_segmentation": "low", "separate_train_presence": "high"}.
+
+**Locator:** PDF 2; source-member and native bounds in linked packet; bounds: [1930, 365, 2820, 438].
+
+**Observation:** The clause ending and farther-right graphic train are separate. Neither the base's སྟེ nor its punctuation resolves them. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain corrected Adzom unchanged. Record this W1ER119 observation within its stated uncertainty; neither agreement, a lost verse, nor a preferred replacement follows from this unresolved reading.
+
+**Evidence:** [p002-native.jpg](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-native.jpg), [p002-x0000-y0000.png](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x0000-y0000.png), [p002-x1000-y0000.png](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x1000-y0000.png), [C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-W1ER119.md).
+
+<a id="er119-v1-20260930-o2-06"></a>
+
+### ER119-V1-20260930-O2-06 — W1ER119
+
+Units: [U00080](#u00080), [U00082](#u00082), [U00083](#u00083).
+
+**Current Adzom main context:** དབང་ཕྱུག་རྫོགས་པའི་ལུས་བླངས་ནས། ། / རང་བཞིན་གྱིས་ནི་བདེ་བ་རྙེད། ། / དེ་ཚེ་མཛད་པའི་བྱིན་རླབས་ལས། །
+
+**Comparison reading/snippet:** ["Q10", "Q11", "Q24"]
+
+**Status:** bounded_uncertainty. **Confidence:** {"alignment": "high", "unread_letters": "low", "graphic_segmentation": "low"}.
+
+**Locator:** PDF 2; source-member and native bounds in linked packet; bounds: [220, 429, 2820, 509].
+
+**Observation:** Uncertain letter stacks, inter-clause bars and the frame-adjacent ending are retained separately. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain corrected Adzom unchanged. Record this W1ER119 observation within its stated uncertainty; neither agreement, a lost verse, nor a preferred replacement follows from this unresolved reading.
+
+**Evidence:** [p002-native.jpg](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-native.jpg), [p002-x0000-y0000.png](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x0000-y0000.png), [p002-x1000-y0000.png](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x1000-y0000.png), [C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-W1ER119.md).
+
+<a id="er119-v1-20260930-o2-07"></a>
+
+### ER119-V1-20260930-O2-07 — W1ER119
+
+Units: [U00084](#u00084), [U00090](#u00090).
+
+**Current Adzom main context:** དྲུག་ཅུ་རྩ་བཞིའི་འོད་སྐར་ནི། ། / རྡོ་རྗེ་བཅས་དང་སྐུ་གཟུགས་ནི། །
+
+**Comparison reading/snippet:** ["Q12", "Q13"]
+
+**Status:** bounded_uncertainty. **Confidence:** {"alignment": "high", "unread_letters": "low"}.
+
+**Locator:** PDF 2; source-member and native bounds in linked packet; bounds: [220, 501, 2050, 636].
+
+**Observation:** Neither component is accepted merely because the surrounding clause aligns. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain corrected Adzom unchanged. Record this W1ER119 observation within its stated uncertainty; neither agreement, a lost verse, nor a preferred replacement follows from this unresolved reading.
+
+**Evidence:** [p002-native.jpg](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-native.jpg), [p002-x0000-y0000.png](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x0000-y0000.png), [p002-x1000-y0000.png](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x1000-y0000.png), [C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-W1ER119.md).
+
+<a id="er119-v1-20260930-o3-02"></a>
+
+### ER119-V1-20260930-O3-02 — W1ER119
+
+Units: [U00093](#u00093), [U00096](#u00096), [U00097](#u00097), [U00099](#u00099).
+
+**Current Adzom main context:** སོ་སོའི་ལས་དང་སྐལ་མཐུན་པར། ། / དེས་ན་སྙིང་དང་འདྲ་བས་གསང་། ། / དངོས་གྲུབ་མཆོག་རྣམས་མཐར་ཐུག་པའི། ། / གང་སུ་འཕྲད་པ་གྲོལ་བར་ངེས། །
+
+**Comparison reading/snippet:** ["Q14", "Q15", "Q16"]
+
+**Status:** bounded_uncertainty. **Confidence:** {"alignment": "high", "unread_letters": "low", "boundary_graphics": "low", "wrap": "high"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [225, 84, 1430, 311].
+
+**Observation:** A suffix, a whole punctuation interval and the next-row opening cluster remain separately unresolved. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain corrected Adzom unchanged. Record this W1ER119 observation within its stated uncertainty; neither agreement, a lost verse, nor a preferred replacement follows from this unresolved reading.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-x0000-y0000.png), [p003-x1000-y0000.png](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-x1000-y0000.png), [C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-W1ER119.md).
+
+<a id="er119-v1-20260930-o3-03"></a>
+
+### ER119-V1-20260930-O3-03 — W1ER119
+
+Units: [U00104](#u00104).
+
+**Current Adzom main context:** ཆོས་ཀྱི་སྐུ་ལ་ངེས་བརྒྱུད་དེ། །
+
+**Comparison reading/snippet:** ["ཆོས་ཀྱི་སྐུ་ལ་ངེས་[Q17]", "small-layer Q18"]
+
+**Status:** bounded_uncertainty. **Confidence:** {"alignment": "high", "main_ending": "low", "small_letters": "low", "layer_distinction": "medium", "annotation_function": "low"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [935, 300, 1450, 375].
+
+**Observation:** Small strokes in the pale rounded area cannot safely supply the doubtful main ending or be classified as a correction. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain corrected Adzom unchanged. Record this W1ER119 observation within its stated uncertainty; neither agreement, a lost verse, nor a preferred replacement follows from this unresolved reading.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-x0000-y0000.png), [p003-x1000-y0000.png](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-x1000-y0000.png), [C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-W1ER119.md).
+
+<a id="er119-v1-20260930-o3-04"></a>
+
+### ER119-V1-20260930-O3-04 — W1ER119
+
+Units: [U00109](#u00109), [U00110](#u00110).
+
+**Current Adzom main context:** སུས་ཀྱང་བརྗོད་དུ་མེད་པར་ནི། ། / ནམ་མཁའ་མི་འབྱེད་བར་སྣང་ལས། །
+
+**Comparison reading/snippet:** ["Q19", "Q20"]
+
+**Status:** bounded_uncertainty. **Confidence:** {"alignment": "high", "unread_letters": "low"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [1530, 363, 2810, 437].
+
+**Observation:** The visible surroundings do not settle either intervening component. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain corrected Adzom unchanged. Record this W1ER119 observation within its stated uncertainty; neither agreement, a lost verse, nor a preferred replacement follows from this unresolved reading.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-x0000-y0000.png), [p003-x1000-y0000.png](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-x1000-y0000.png), [C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-W1ER119.md).
+
+<a id="er119-v1-20260930-o3-05"></a>
+
+### ER119-V1-20260930-O3-05 — W1ER119
+
+Units: [U00111](#u00111), [U00112](#u00112).
+
+**Current Adzom main context:** ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང༌། ། / དགུ་གཉིས་བཞི་ཡི་ཡང་སྟེང་ནས། །
+
+**Comparison reading/snippet:** ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང[B] [B B]དགུ་[Q21]་ཡི་ཡང་སྟེང་ནས
+
+**Status:** bounded_uncertainty. **Confidence:** {"alignment": "high", "unread_letters": "low", "bar_count": "medium"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [220, 436, 1540, 507].
+
+**Observation:** The next-leading strokes are included in the whole interval. No numerical interpretation is used to restore Q21. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain corrected Adzom unchanged. Record this W1ER119 observation within its stated uncertainty; neither agreement, a lost verse, nor a preferred replacement follows from this unresolved reading.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-x0000-y0000.png), [p003-x1000-y0000.png](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-x1000-y0000.png), [C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-W1ER119.md).
+
+<a id="er119-v1-20260930-o3-06"></a>
+
+### ER119-V1-20260930-O3-06 — W1ER119
+
+Units: [U00118](#u00118), [U00119](#u00119).
+
+**Current Adzom main context:** ཀ་ལ་པིང་ཀའི་སྒྲ་དབྱངས་ལས། ། / བསྟན་པ་ཀུན་གྱི་བཅུད་བསྡུས་པའི། །
+
+**Comparison reading/snippet:** ཀ་ལ་པིང་ / ཀའི་སྒྲ་དབྱངས་ལས; བསྟན་པ་ཀུན་[Q22]་བཅུད་བསྡུས་པའི
+
+**Status:** bounded_uncertainty. **Confidence:** {"alignment": "high", "wrap": "high", "suffix": "low"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [220, 499, 2810, 645].
+
+**Observation:** The name crosses the physical row boundary; the later grammatical particle remains unresolved independently. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain corrected Adzom unchanged. Record this W1ER119 observation within its stated uncertainty; neither agreement, a lost verse, nor a preferred replacement follows from this unresolved reading.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-x0000-y0000.png), [p003-x1000-y0000.png](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-x1000-y0000.png), [C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-W1ER119.md).
+
+<a id="er119-v1-20260930-o3-08"></a>
+
+### ER119-V1-20260930-O3-08 — W1ER119
+
+Units: [U00120](#u00120), [U00121](#u00121).
+
+**Current Adzom main context:** རྒྱུད་ཀྱི་རྒྱལ་པོ་འདི་ཉིད་ནི། ། / ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང་། །
+
+**Comparison reading/snippet:** Last row ends ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང.
+
+**Status:** provisional_visual_observation. **Confidence:** {"alignment": "high", "lexical": "medium", "following_locator": "medium"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [2070, 558, 2815, 646].
+
+**Observation:** The endpoint follows the actual final clause and the adjacent-page locator; no later chapter content is transcribed. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain corrected Adzom unchanged. Record this W1ER119 observation within its stated uncertainty; neither agreement, a lost verse, nor a preferred replacement follows from this unresolved reading.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-x0000-y0000.png), [p003-x1000-y0000.png](evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-x1000-y0000.png), [C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-W1ER119.md).
 
 ## A/B/S transcript apparatus
 

@@ -4,7 +4,7 @@
   "canonical_branch": "main",
   "current_chapter": 1,
   "chapter_status": "in_progress_not_ready",
-  "next_task_id": "C1-W1ER119",
+  "next_task_id": "C1-ADZOM1973",
   "path_base": "repository root; JSON pointers identify records without changing their historical contents",
   "scope": "Continuation queue, not a whole-chapter collation claim. Thirty punctuation candidate identities remain tracked, including completed dispositions; unfinished items are hypotheses, not accepted readings. Existing Adzom and Dzongsar main lexical passes remain valid within their recorded scopes.",
   "reference_paths": [
@@ -1079,7 +1079,7 @@
       "id": "C1-W1ER119",
       "kind": "witness_coverage",
       "status": "in_progress",
-      "owner": "bounded-source-reader-COVERAGE-W01",
+      "owner": "ChatGPT-coordinator-20260929-integration",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -1117,7 +1117,9 @@
           "status": "planned_not_read"
         }
       ],
-      "current_batch_id": "B01-OPENING-P0002-0003"
+      "current_batch_id": null,
+      "next_step": "No new general W1ER119 reading is required for v1. Preserve the exact Q01–Q25 and the unlocated chapter endpoint; further continuous reading and actual gap effects remain outside the approved release scope.",
+      "last_integrated_batch_id": "B01-OPENING-P0002-0003"
     },
     {
       "id": "C1-LANGTANG",

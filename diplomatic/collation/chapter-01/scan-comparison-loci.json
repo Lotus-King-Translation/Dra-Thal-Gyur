@@ -36537,5 +36537,800 @@
       },
       "coordinator_scope": "Bounded physical-layout and uncertainty review of the inspected native views; no new secure foreign-script/title or caption completion, and no wholesale lexical-pass certification."
     }
+  },
+  {
+    "id": "ER119-V1-20260930-O2-01",
+    "witness": "W1ER119",
+    "units": [
+      "U00061",
+      "U00062",
+      "U00063",
+      "U00064"
+    ],
+    "base_snippet_at_review": "U00061–U00064",
+    "comparison_reading": "Row 1, from འགྲོ་དང་ through རང་ལས་འོད་བྱུང་སྣང་བ་ལས",
+    "status": "provisional_visual_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"layout\": \"high\"}",
+    "locator": "PDF 2; source-member and native bounds in linked packet; bounds: [220, 80, 2840, 173]",
+    "rationale": "The successive visible clauses establish this local correspondence. This is not evidence that preceding base units are globally absent. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain corrected Adzom unchanged. Record this W1ER119 observation within its stated uncertainty; neither agreement, a lost verse, nor a preferred replacement follows from this unresolved reading.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-native.jpg",
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x1000-y0000.png",
+      "reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-W1ER119.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "baseline_commit": "654d0954fdab872ae75603b7af97178408431279",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "6b90812b3088eb0ba30cfa23c63a085b9a781c6a5cfe20864c947ff8b2579bce"
+      },
+      "observation": {
+        "id": "O2-01",
+        "pdf_page": 2,
+        "anchors": [
+          "U00061",
+          "U00062",
+          "U00063",
+          "U00064"
+        ],
+        "source_span": "Row 1, from འགྲོ་དང་ through རང་ལས་འོད་བྱུང་སྣང་བ་ལས",
+        "base_span": "U00061–U00064",
+        "category": "incoming_alignment",
+        "neighboring_context": "The following row begins ཉི་ཟླ་ལ་སོགས་.",
+        "approximate_native_bounds": [
+          220,
+          80,
+          2840,
+          173
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "layout": "high"
+        },
+        "rationale": "The successive visible clauses establish this local correspondence. This is not evidence that preceding base units are globally absent."
+      },
+      "coordinator_scope": "Physical layout and bounded source-report review from the displayed native evidence. Correspondence and non-Q transcriptions remain provisional model readings, not independent all-glyph certification."
+    }
+  },
+  {
+    "id": "ER119-V1-20260930-O2-02",
+    "witness": "W1ER119",
+    "units": [
+      "U00061",
+      "U00062",
+      "U00064"
+    ],
+    "base_snippet_at_review": "{\"U00061\": \"འགྲེང\", \"U00062\": \"བསྐྱོད\", \"U00064\": \"terminal punctuation\"}",
+    "comparison_reading": "[\"Q01\", \"Q02\", \"Q03\"]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"unread_letters\": \"low\", \"terminal_graphic\": \"low\"}",
+    "locator": "PDF 2; source-member and native bounds in linked packet; bounds: [320, 80, 2845, 173]",
+    "rationale": "The neighboring readings do not settle these clusters or the tiered terminal mark. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain corrected Adzom unchanged. Record this W1ER119 observation within its stated uncertainty; neither agreement, a lost verse, nor a preferred replacement follows from this unresolved reading.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-native.jpg",
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x1000-y0000.png",
+      "reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-W1ER119.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "baseline_commit": "654d0954fdab872ae75603b7af97178408431279",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "6b90812b3088eb0ba30cfa23c63a085b9a781c6a5cfe20864c947ff8b2579bce"
+      },
+      "observation": {
+        "id": "O2-02",
+        "pdf_page": 2,
+        "anchors": [
+          "U00061",
+          "U00062",
+          "U00064"
+        ],
+        "source_span": [
+          "Q01",
+          "Q02",
+          "Q03"
+        ],
+        "base_span": {
+          "U00061": "འགྲེང",
+          "U00062": "བསྐྱོད",
+          "U00064": "terminal punctuation"
+        },
+        "category": "unresolved_components",
+        "neighboring_context": "Q01 lies between དང and དང; Q02 precedes ཅིང་རྒྱུག; Q03 follows ལས.",
+        "approximate_native_bounds": [
+          320,
+          80,
+          2845,
+          173
+        ],
+        "confidence": {
+          "alignment": "high",
+          "unread_letters": "low",
+          "terminal_graphic": "low"
+        },
+        "rationale": "The neighboring readings do not settle these clusters or the tiered terminal mark."
+      },
+      "coordinator_scope": "Physical layout and bounded source-report review from the displayed native evidence. Correspondence and non-Q transcriptions remain provisional model readings, not independent all-glyph certification."
+    }
+  },
+  {
+    "id": "ER119-V1-20260930-O2-03",
+    "witness": "W1ER119",
+    "units": [
+      "U00067",
+      "U00068"
+    ],
+    "base_snippet_at_review": "{\"U00067\": \"ལྡེམ་བག\", \"U00068\": \"གུད་མེད\"}",
+    "comparison_reading": "[\"Q04\", \"Q05\"]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"unread_letters\": \"low\", \"row_continuity\": \"high\"}",
+    "locator": "PDF 2; source-member and native bounds in linked packet; bounds: [1510, 167, 2820, 310]",
+    "rationale": "The row-end phrase continues with པར at the next row's left edge; the intervening letters remain unaccepted. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain corrected Adzom unchanged. Record this W1ER119 observation within its stated uncertainty; neither agreement, a lost verse, nor a preferred replacement follows from this unresolved reading.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-native.jpg",
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x1000-y0000.png",
+      "reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-W1ER119.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "baseline_commit": "654d0954fdab872ae75603b7af97178408431279",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "6b90812b3088eb0ba30cfa23c63a085b9a781c6a5cfe20864c947ff8b2579bce"
+      },
+      "observation": {
+        "id": "O2-03",
+        "pdf_page": 2,
+        "anchors": [
+          "U00067",
+          "U00068"
+        ],
+        "source_span": [
+          "Q04",
+          "Q05"
+        ],
+        "base_span": {
+          "U00067": "ལྡེམ་བག",
+          "U00068": "གུད་མེད"
+        },
+        "category": "unresolved_lexical_comparison",
+        "neighboring_context": "མཛེས་ཞིང་…ལྡན་པ་ལ; བག་ཡངས་རྣམ་ཤེས་… / པར.",
+        "approximate_native_bounds": [
+          1510,
+          167,
+          2820,
+          310
+        ],
+        "confidence": {
+          "alignment": "high",
+          "unread_letters": "low",
+          "row_continuity": "high"
+        },
+        "rationale": "The row-end phrase continues with པར at the next row's left edge; the intervening letters remain unaccepted."
+      },
+      "coordinator_scope": "Physical layout and bounded source-report review from the displayed native evidence. Correspondence and non-Q transcriptions remain provisional model readings, not independent all-glyph certification."
+    }
+  },
+  {
+    "id": "ER119-V1-20260930-O2-04",
+    "witness": "W1ER119",
+    "units": [
+      "U00070",
+      "U00072",
+      "U00073"
+    ],
+    "base_snippet_at_review": "{\"U00070\": \"བྱེད\", \"U00072\": \"ཁམས་དང་གུད་བཅས་ལས་མི་སྣང\", \"U00073\": \"སྙིང་པོའི\"}",
+    "comparison_reading": "[\"Q06\", \"ཁམས་དང་ / གུད་བཅས་ལས་མི་སྣང\", \"Q07\"]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"unread_letters\": \"low\", \"row_continuity\": \"high\"}",
+    "locator": "PDF 2; source-member and native bounds in linked packet; bounds: [215, 238, 2820, 375]",
+    "rationale": "Physical rows, rather than crop divisions, govern the sequence. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain corrected Adzom unchanged. Record this W1ER119 observation within its stated uncertainty; neither agreement, a lost verse, nor a preferred replacement follows from this unresolved reading.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-native.jpg",
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x1000-y0000.png",
+      "reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-W1ER119.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "baseline_commit": "654d0954fdab872ae75603b7af97178408431279",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "6b90812b3088eb0ba30cfa23c63a085b9a781c6a5cfe20864c947ff8b2579bce"
+      },
+      "observation": {
+        "id": "O2-04",
+        "pdf_page": 2,
+        "anchors": [
+          "U00070",
+          "U00072",
+          "U00073"
+        ],
+        "source_span": [
+          "Q06",
+          "ཁམས་དང་ / གུད་བཅས་ལས་མི་སྣང",
+          "Q07"
+        ],
+        "base_span": {
+          "U00070": "བྱེད",
+          "U00072": "ཁམས་དང་གུད་བཅས་ལས་མི་སྣང",
+          "U00073": "སྙིང་པོའི"
+        },
+        "category": "row_continuity_and_unresolved_components",
+        "neighboring_context": "The rightmost fragment of row 3 continues at row 4 left; Q07 precedes པདྨ་ལས.",
+        "approximate_native_bounds": [
+          215,
+          238,
+          2820,
+          375
+        ],
+        "confidence": {
+          "alignment": "high",
+          "unread_letters": "low",
+          "row_continuity": "high"
+        },
+        "rationale": "Physical rows, rather than crop divisions, govern the sequence."
+      },
+      "coordinator_scope": "Physical layout and bounded source-report review from the displayed native evidence. Correspondence and non-Q transcriptions remain provisional model readings, not independent all-glyph certification."
+    }
+  },
+  {
+    "id": "ER119-V1-20260930-O2-05",
+    "witness": "W1ER119",
+    "units": [
+      "U00078",
+      "U00079"
+    ],
+    "base_snippet_at_review": "{\"U00078\": \"terminal punctuation\", \"U00079\": \"ང་ནི་ལྷ་བུ་དགའ་བྱེད་སྟེ\"}",
+    "comparison_reading": "[\"Q08\", \"ང་ནི་ལྷ་བུ་དགའ་བྱེད་[Q09]\", \"B F/Q25\"]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"ending_letters\": \"low\", \"graphic_segmentation\": \"low\", \"separate_train_presence\": \"high\"}",
+    "locator": "PDF 2; source-member and native bounds in linked packet; bounds: [1930, 365, 2820, 438]",
+    "rationale": "The clause ending and farther-right graphic train are separate. Neither the base's སྟེ nor its punctuation resolves them. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain corrected Adzom unchanged. Record this W1ER119 observation within its stated uncertainty; neither agreement, a lost verse, nor a preferred replacement follows from this unresolved reading.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-native.jpg",
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x1000-y0000.png",
+      "reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-W1ER119.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "baseline_commit": "654d0954fdab872ae75603b7af97178408431279",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "6b90812b3088eb0ba30cfa23c63a085b9a781c6a5cfe20864c947ff8b2579bce"
+      },
+      "observation": {
+        "id": "O2-05",
+        "pdf_page": 2,
+        "anchors": [
+          "U00078",
+          "U00079"
+        ],
+        "source_span": [
+          "Q08",
+          "ང་ནི་ལྷ་བུ་དགའ་བྱེད་[Q09]",
+          "B F/Q25"
+        ],
+        "base_span": {
+          "U00078": "terminal punctuation",
+          "U00079": "ང་ནི་ལྷ་བུ་དགའ་བྱེད་སྟེ"
+        },
+        "category": "unresolved_boundary_and_ending",
+        "neighboring_context": "After དཔག་ཏུ་མེད; before the next row's དབང་ཕྱུག.",
+        "approximate_native_bounds": [
+          1930,
+          365,
+          2820,
+          438
+        ],
+        "confidence": {
+          "alignment": "high",
+          "ending_letters": "low",
+          "graphic_segmentation": "low",
+          "separate_train_presence": "high"
+        },
+        "rationale": "The clause ending and farther-right graphic train are separate. Neither the base's སྟེ nor its punctuation resolves them."
+      },
+      "coordinator_scope": "Physical layout and bounded source-report review from the displayed native evidence. Correspondence and non-Q transcriptions remain provisional model readings, not independent all-glyph certification."
+    }
+  },
+  {
+    "id": "ER119-V1-20260930-O2-06",
+    "witness": "W1ER119",
+    "units": [
+      "U00080",
+      "U00082",
+      "U00083"
+    ],
+    "base_snippet_at_review": "{\"U00080\": \"རྫོགས་པའི\", \"U00082\": \"terminal punctuation\", \"U00083\": \"terminal punctuation\"}",
+    "comparison_reading": "[\"Q10\", \"Q11\", \"Q24\"]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"unread_letters\": \"low\", \"graphic_segmentation\": \"low\"}",
+    "locator": "PDF 2; source-member and native bounds in linked packet; bounds: [220, 429, 2820, 509]",
+    "rationale": "Uncertain letter stacks, inter-clause bars and the frame-adjacent ending are retained separately. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain corrected Adzom unchanged. Record this W1ER119 observation within its stated uncertainty; neither agreement, a lost verse, nor a preferred replacement follows from this unresolved reading.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-native.jpg",
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x1000-y0000.png",
+      "reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-W1ER119.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "baseline_commit": "654d0954fdab872ae75603b7af97178408431279",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "6b90812b3088eb0ba30cfa23c63a085b9a781c6a5cfe20864c947ff8b2579bce"
+      },
+      "observation": {
+        "id": "O2-06",
+        "pdf_page": 2,
+        "anchors": [
+          "U00080",
+          "U00082",
+          "U00083"
+        ],
+        "source_span": [
+          "Q10",
+          "Q11",
+          "Q24"
+        ],
+        "base_span": {
+          "U00080": "རྫོགས་པའི",
+          "U00082": "terminal punctuation",
+          "U00083": "terminal punctuation"
+        },
+        "category": "unresolved_components",
+        "neighboring_context": "དབང་ཕྱུག་…ལུས; རྙེད་…དེ་ཚེ; row-end ལས.",
+        "approximate_native_bounds": [
+          220,
+          429,
+          2820,
+          509
+        ],
+        "confidence": {
+          "alignment": "high",
+          "unread_letters": "low",
+          "graphic_segmentation": "low"
+        },
+        "rationale": "Uncertain letter stacks, inter-clause bars and the frame-adjacent ending are retained separately."
+      },
+      "coordinator_scope": "Physical layout and bounded source-report review from the displayed native evidence. Correspondence and non-Q transcriptions remain provisional model readings, not independent all-glyph certification."
+    }
+  },
+  {
+    "id": "ER119-V1-20260930-O2-07",
+    "witness": "W1ER119",
+    "units": [
+      "U00084",
+      "U00090"
+    ],
+    "base_snippet_at_review": "{\"U00084\": \"འོད་སྐར\", \"U00090\": \"བཅས\"}",
+    "comparison_reading": "[\"Q12\", \"Q13\"]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"unread_letters\": \"low\"}",
+    "locator": "PDF 2; source-member and native bounds in linked packet; bounds: [220, 501, 2050, 636]",
+    "rationale": "Neither component is accepted merely because the surrounding clause aligns. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain corrected Adzom unchanged. Record this W1ER119 observation within its stated uncertainty; neither agreement, a lost verse, nor a preferred replacement follows from this unresolved reading.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-native.jpg",
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x1000-y0000.png",
+      "reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-W1ER119.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "baseline_commit": "654d0954fdab872ae75603b7af97178408431279",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "6b90812b3088eb0ba30cfa23c63a085b9a781c6a5cfe20864c947ff8b2579bce"
+      },
+      "observation": {
+        "id": "O2-07",
+        "pdf_page": 2,
+        "anchors": [
+          "U00084",
+          "U00090"
+        ],
+        "source_span": [
+          "Q12",
+          "Q13"
+        ],
+        "base_span": {
+          "U00084": "འོད་སྐར",
+          "U00090": "བཅས"
+        },
+        "category": "unresolved_lexical_comparison",
+        "neighboring_context": "རྩ་བཞིའི་…ནི; རྡོ་རྗེ་…དང་སྐུ་གཟུགས.",
+        "approximate_native_bounds": [
+          220,
+          501,
+          2050,
+          636
+        ],
+        "confidence": {
+          "alignment": "high",
+          "unread_letters": "low"
+        },
+        "rationale": "Neither component is accepted merely because the surrounding clause aligns."
+      },
+      "coordinator_scope": "Physical layout and bounded source-report review from the displayed native evidence. Correspondence and non-Q transcriptions remain provisional model readings, not independent all-glyph certification."
+    }
+  },
+  {
+    "id": "ER119-V1-20260930-O3-02",
+    "witness": "W1ER119",
+    "units": [
+      "U00093",
+      "U00096",
+      "U00097",
+      "U00099"
+    ],
+    "base_snippet_at_review": "{\"U00093\": \"སོ་སོའི\", \"U00096–U00097\": \"boundary punctuation\", \"U00099\": \"འཕྲད\"}",
+    "comparison_reading": "[\"Q14\", \"Q15\", \"Q16\"]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"unread_letters\": \"low\", \"boundary_graphics\": \"low\", \"wrap\": \"high\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [225, 84, 1430, 311]",
+    "rationale": "A suffix, a whole punctuation interval and the next-row opening cluster remain separately unresolved. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain corrected Adzom unchanged. Record this W1ER119 observation within its stated uncertainty; neither agreement, a lost verse, nor a preferred replacement follows from this unresolved reading.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-x1000-y0000.png",
+      "reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-W1ER119.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "baseline_commit": "654d0954fdab872ae75603b7af97178408431279",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "6b90812b3088eb0ba30cfa23c63a085b9a781c6a5cfe20864c947ff8b2579bce"
+      },
+      "observation": {
+        "id": "O3-02",
+        "pdf_page": 3,
+        "anchors": [
+          "U00093",
+          "U00096",
+          "U00097",
+          "U00099"
+        ],
+        "source_span": [
+          "Q14",
+          "Q15",
+          "Q16"
+        ],
+        "base_span": {
+          "U00093": "སོ་སོའི",
+          "U00096–U00097": "boundary punctuation",
+          "U00099": "འཕྲད"
+        },
+        "category": "unresolved_components",
+        "neighboring_context": "སོ་སོ…ལས; གསང…དངོས་གྲུབ; preceding row ends གང་སུ and row 3 continues …པ་གྲོལ་བར་ངེས.",
+        "approximate_native_bounds": [
+          225,
+          84,
+          1430,
+          311
+        ],
+        "confidence": {
+          "alignment": "high",
+          "unread_letters": "low",
+          "boundary_graphics": "low",
+          "wrap": "high"
+        },
+        "rationale": "A suffix, a whole punctuation interval and the next-row opening cluster remain separately unresolved."
+      },
+      "coordinator_scope": "Physical layout and bounded source-report review from the displayed native evidence. Correspondence and non-Q transcriptions remain provisional model readings, not independent all-glyph certification."
+    }
+  },
+  {
+    "id": "ER119-V1-20260930-O3-03",
+    "witness": "W1ER119",
+    "units": [
+      "U00104"
+    ],
+    "base_snippet_at_review": "ཆོས་ཀྱི་སྐུ་ལ་ངེས་བརྒྱུད་དེ",
+    "comparison_reading": "[\"ཆོས་ཀྱི་སྐུ་ལ་ངེས་[Q17]\", \"small-layer Q18\"]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"main_ending\": \"low\", \"small_letters\": \"low\", \"layer_distinction\": \"medium\", \"annotation_function\": \"low\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [935, 300, 1450, 375]",
+    "rationale": "Small strokes in the pale rounded area cannot safely supply the doubtful main ending or be classified as a correction. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain corrected Adzom unchanged. Record this W1ER119 observation within its stated uncertainty; neither agreement, a lost verse, nor a preferred replacement follows from this unresolved reading.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-x1000-y0000.png",
+      "reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-W1ER119.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "baseline_commit": "654d0954fdab872ae75603b7af97178408431279",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "6b90812b3088eb0ba30cfa23c63a085b9a781c6a5cfe20864c947ff8b2579bce"
+      },
+      "observation": {
+        "id": "O3-03",
+        "pdf_page": 3,
+        "anchors": [
+          "U00104"
+        ],
+        "source_span": [
+          "ཆོས་ཀྱི་སྐུ་ལ་ངེས་[Q17]",
+          "small-layer Q18"
+        ],
+        "base_span": "ཆོས་ཀྱི་སྐུ་ལ་ངེས་བརྒྱུད་དེ",
+        "category": "main_and_small_layer_uncertainty",
+        "neighboring_context": "Between ཕྱག་མཛད་པའི and ལས་ཅན་སྣང་བར.",
+        "approximate_native_bounds": [
+          935,
+          300,
+          1450,
+          375
+        ],
+        "confidence": {
+          "alignment": "high",
+          "main_ending": "low",
+          "small_letters": "low",
+          "layer_distinction": "medium",
+          "annotation_function": "low"
+        },
+        "rationale": "Small strokes in the pale rounded area cannot safely supply the doubtful main ending or be classified as a correction."
+      },
+      "coordinator_scope": "Physical layout and bounded source-report review from the displayed native evidence. Correspondence and non-Q transcriptions remain provisional model readings, not independent all-glyph certification."
+    }
+  },
+  {
+    "id": "ER119-V1-20260930-O3-04",
+    "witness": "W1ER119",
+    "units": [
+      "U00109",
+      "U00110"
+    ],
+    "base_snippet_at_review": "{\"U00109\": \"དུ\", \"U00110\": \"འབྱེད\"}",
+    "comparison_reading": "[\"Q19\", \"Q20\"]",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"unread_letters\": \"low\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [1530, 363, 2810, 437]",
+    "rationale": "The visible surroundings do not settle either intervening component. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain corrected Adzom unchanged. Record this W1ER119 observation within its stated uncertainty; neither agreement, a lost verse, nor a preferred replacement follows from this unresolved reading.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-x1000-y0000.png",
+      "reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-W1ER119.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "baseline_commit": "654d0954fdab872ae75603b7af97178408431279",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "6b90812b3088eb0ba30cfa23c63a085b9a781c6a5cfe20864c947ff8b2579bce"
+      },
+      "observation": {
+        "id": "O3-04",
+        "pdf_page": 3,
+        "anchors": [
+          "U00109",
+          "U00110"
+        ],
+        "source_span": [
+          "Q19",
+          "Q20"
+        ],
+        "base_span": {
+          "U00109": "དུ",
+          "U00110": "འབྱེད"
+        },
+        "category": "unresolved_lexical_comparison",
+        "neighboring_context": "བརྗོད་…མེད་པར་ནི; ནམ་མཁའ་མི་…བར་སྣང་ལས.",
+        "approximate_native_bounds": [
+          1530,
+          363,
+          2810,
+          437
+        ],
+        "confidence": {
+          "alignment": "high",
+          "unread_letters": "low"
+        },
+        "rationale": "The visible surroundings do not settle either intervening component."
+      },
+      "coordinator_scope": "Physical layout and bounded source-report review from the displayed native evidence. Correspondence and non-Q transcriptions remain provisional model readings, not independent all-glyph certification."
+    }
+  },
+  {
+    "id": "ER119-V1-20260930-O3-05",
+    "witness": "W1ER119",
+    "units": [
+      "U00111",
+      "U00112"
+    ],
+    "base_snippet_at_review": "{\"U00111–U00112\": \"boundary punctuation\", \"U00112\": \"གཉིས་བཞི\"}",
+    "comparison_reading": "ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང[B] [B B]དགུ་[Q21]་ཡི་ཡང་སྟེང་ནས",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"unread_letters\": \"low\", \"bar_count\": \"medium\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [220, 436, 1540, 507]",
+    "rationale": "The next-leading strokes are included in the whole interval. No numerical interpretation is used to restore Q21. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain corrected Adzom unchanged. Record this W1ER119 observation within its stated uncertainty; neither agreement, a lost verse, nor a preferred replacement follows from this unresolved reading.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-x1000-y0000.png",
+      "reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-W1ER119.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "baseline_commit": "654d0954fdab872ae75603b7af97178408431279",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "6b90812b3088eb0ba30cfa23c63a085b9a781c6a5cfe20864c947ff8b2579bce"
+      },
+      "observation": {
+        "id": "O3-05",
+        "pdf_page": 3,
+        "anchors": [
+          "U00111",
+          "U00112"
+        ],
+        "source_span": "ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང[B] [B B]དགུ་[Q21]་ཡི་ཡང་སྟེང་ནས",
+        "base_span": {
+          "U00111–U00112": "boundary punctuation",
+          "U00112": "གཉིས་བཞི"
+        },
+        "category": "boundary_inventory_and_unresolved_letters",
+        "neighboring_context": "Followed by ཚངས་པ་ཆེན་པོའི་.",
+        "approximate_native_bounds": [
+          220,
+          436,
+          1540,
+          507
+        ],
+        "confidence": {
+          "alignment": "high",
+          "unread_letters": "low",
+          "bar_count": "medium"
+        },
+        "rationale": "The next-leading strokes are included in the whole interval. No numerical interpretation is used to restore Q21."
+      },
+      "coordinator_scope": "Physical layout and bounded source-report review from the displayed native evidence. Correspondence and non-Q transcriptions remain provisional model readings, not independent all-glyph certification."
+    }
+  },
+  {
+    "id": "ER119-V1-20260930-O3-06",
+    "witness": "W1ER119",
+    "units": [
+      "U00118",
+      "U00119"
+    ],
+    "base_snippet_at_review": "{\"U00118\": \"ཀ་ལ་པིང་ཀའི་སྒྲ་དབྱངས་ལས\", \"U00119\": \"གྱི\"}",
+    "comparison_reading": "ཀ་ལ་པིང་ / ཀའི་སྒྲ་དབྱངས་ལས; བསྟན་པ་ཀུན་[Q22]་བཅུད་བསྡུས་པའི",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"alignment\": \"high\", \"wrap\": \"high\", \"suffix\": \"low\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [220, 499, 2810, 645]",
+    "rationale": "The name crosses the physical row boundary; the later grammatical particle remains unresolved independently. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain corrected Adzom unchanged. Record this W1ER119 observation within its stated uncertainty; neither agreement, a lost verse, nor a preferred replacement follows from this unresolved reading.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-x1000-y0000.png",
+      "reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-W1ER119.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "baseline_commit": "654d0954fdab872ae75603b7af97178408431279",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "6b90812b3088eb0ba30cfa23c63a085b9a781c6a5cfe20864c947ff8b2579bce"
+      },
+      "observation": {
+        "id": "O3-06",
+        "pdf_page": 3,
+        "anchors": [
+          "U00118",
+          "U00119"
+        ],
+        "source_span": "ཀ་ལ་པིང་ / ཀའི་སྒྲ་དབྱངས་ལས; བསྟན་པ་ཀུན་[Q22]་བཅུད་བསྡུས་པའི",
+        "base_span": {
+          "U00118": "ཀ་ལ་པིང་ཀའི་སྒྲ་དབྱངས་ལས",
+          "U00119": "གྱི"
+        },
+        "category": "row_wrap_and_unresolved_suffix",
+        "neighboring_context": "The last row continues to རྒྱུད་ཀྱི་རྒྱལ་པོ་.",
+        "approximate_native_bounds": [
+          220,
+          499,
+          2810,
+          645
+        ],
+        "confidence": {
+          "alignment": "high",
+          "wrap": "high",
+          "suffix": "low"
+        },
+        "rationale": "The name crosses the physical row boundary; the later grammatical particle remains unresolved independently."
+      },
+      "coordinator_scope": "Physical layout and bounded source-report review from the displayed native evidence. Correspondence and non-Q transcriptions remain provisional model readings, not independent all-glyph certification."
+    }
+  },
+  {
+    "id": "ER119-V1-20260930-O3-08",
+    "witness": "W1ER119",
+    "units": [
+      "U00120",
+      "U00121"
+    ],
+    "base_snippet_at_review": "U00121",
+    "comparison_reading": "Last row ends ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང.",
+    "status": "provisional_visual_observation",
+    "confidence": "{\"alignment\": \"high\", \"lexical\": \"medium\", \"following_locator\": \"medium\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [2070, 558, 2815, 646]",
+    "rationale": "The endpoint follows the actual final clause and the adjacent-page locator; no later chapter content is transcribed. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain corrected Adzom unchanged. Record this W1ER119 observation within its stated uncertainty; neither agreement, a lost verse, nor a preferred replacement follows from this unresolved reading.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-x1000-y0000.png",
+      "reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-W1ER119.md",
+    "continuation_provenance": {
+      "batch_id": "B01-OPENING-P0002-0003",
+      "baseline_commit": "654d0954fdab872ae75603b7af97178408431279",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt",
+        "sha256": "6b90812b3088eb0ba30cfa23c63a085b9a781c6a5cfe20864c947ff8b2579bce"
+      },
+      "observation": {
+        "id": "O3-08",
+        "pdf_page": 3,
+        "anchors": [
+          "U00120",
+          "U00121"
+        ],
+        "source_span": "Last row ends ཚིག་རྣམས་ཀུན་གྱི་ཐོག་མར་ཡང.",
+        "base_span": "U00121",
+        "category": "outgoing_alignment",
+        "neighboring_context": "Following contextual page begins with the locator བརྒྱ་ཕྲག་, consistent with U00122.",
+        "approximate_native_bounds": [
+          2070,
+          558,
+          2815,
+          646
+        ],
+        "confidence": {
+          "alignment": "high",
+          "lexical": "medium",
+          "following_locator": "medium"
+        },
+        "rationale": "The endpoint follows the actual final clause and the adjacent-page locator; no later chapter content is transcribed."
+      },
+      "coordinator_scope": "Physical layout and bounded source-report review from the displayed native evidence. Correspondence and non-Q transcriptions remain provisional model readings, not independent all-glyph certification."
+    }
   }
 ]

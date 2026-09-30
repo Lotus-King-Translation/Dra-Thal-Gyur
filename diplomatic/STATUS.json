@@ -11,7 +11,7 @@
   "scan_restored_main_verse_lines": 13,
   "scan_restored_source_headings": 1,
   "scan_correction_or_layer_separation_records": 88,
-  "local_comparison_scan_findings_including_candidates": 669,
+  "local_comparison_scan_findings_including_candidates": 682,
   "base_scan_fully_proofread": false,
   "all_acquired_witnesses_fully_collated": false,
   "complete_every_conflict_claim": false,
@@ -10252,6 +10252,364 @@
         },
         "next_physical_span": "No further general Dzongsar reading is required for the approved v1. Retain Q01–Q14 and the existing later-locus questions in the release uncertainty register. Remaining continuous physical review belongs to the separately unfinished exhaustive edition.",
         "reader_claims_require_coordinator_dispositions": true
+      },
+      {
+        "task_id": "C1-W1ER119",
+        "batch_id": "B01-OPENING-P0002-0003",
+        "target_pages": [
+          2,
+          3
+        ],
+        "report": "reviews/chapter-01/continuation/C1-W1ER119.json",
+        "summary": "W1ER119 PDF2–3 saved opening attempt integrated: sixteen physical rows represented, sixteen observation dispositions, thirteen new bounded/provisional apparatus entries and all twenty-five questions retained. Local correspondence runs from U00061 to U00121; this is not a fully deciphered range or evidence that earlier units are omitted.",
+        "rows_reported": 16,
+        "canonical_record_ids": [
+          "ER119-V1-20260930-O2-01",
+          "ER119-V1-20260930-O2-02",
+          "ER119-V1-20260930-O2-03",
+          "ER119-V1-20260930-O2-04",
+          "ER119-V1-20260930-O2-05",
+          "ER119-V1-20260930-O2-06",
+          "ER119-V1-20260930-O2-07",
+          "ER119-V1-20260930-O3-02",
+          "ER119-V1-20260930-O3-03",
+          "ER119-V1-20260930-O3-04",
+          "ER119-V1-20260930-O3-05",
+          "ER119-V1-20260930-O3-06",
+          "ER119-V1-20260930-O3-08"
+        ],
+        "whole_pages_newly_certified": [],
+        "coverage_assessment": {
+          "image_access_failure": null,
+          "method": "Informed independent model reading of the supplied images; not blind review or credentialed human palaeography.",
+          "target_pages_inspected": [
+            2,
+            3
+          ],
+          "physical_rows_inspected": 16,
+          "physical_rows_represented": 16,
+          "target_rows_skipped": 0,
+          "lexical_and_graphic_completion": "Incomplete at the 25 explicitly bounded Q items; subsequent readable rows were retained.",
+          "confidence_limit": "Uncoded readings and bar inventories remain provisional model readings, not pixel-level certification.",
+          "certification": "No complete chapter or witness certification; no earlier lexical-pass record is replaced."
+        },
+        "unread_after_inspection": [
+          {
+            "id": "Q01",
+            "pdf_page": 2,
+            "anchor": "U00061",
+            "native_bounds": [
+              330,
+              83,
+              505,
+              166
+            ],
+            "exact_question": "What letters form the cluster between the first readable དང and the following དང in row 1?"
+          },
+          {
+            "id": "Q02",
+            "pdf_page": 2,
+            "anchor": "U00062",
+            "native_bounds": [
+              873,
+              80,
+              1025,
+              168
+            ],
+            "exact_question": "What is the complete initial stack immediately before ཅིང་རྒྱུག in row 1?"
+          },
+          {
+            "id": "Q03",
+            "pdf_page": 2,
+            "anchor": "U00064",
+            "native_bounds": [
+              2770,
+              82,
+              2855,
+              176
+            ],
+            "exact_question": "After final ལས, how many short tiered strokes accompany the upright, and which strokes are independent of the word and right rule?"
+          },
+          {
+            "id": "Q04",
+            "pdf_page": 2,
+            "anchor": "U00067",
+            "native_bounds": [
+              1725,
+              165,
+              1950,
+              242
+            ],
+            "exact_question": "What letters occupy the interval between མཛེས་ཞིང and ལྡན་པ་ལ?"
+          },
+          {
+            "id": "Q05",
+            "pdf_page": 2,
+            "anchor": "U00068",
+            "native_bounds": [
+              2580,
+              165,
+              2815,
+              243
+            ],
+            "exact_question": "What is the complete row-end text after བག་ཡངས་རྣམ་ཤེས, before the next row's པར?"
+          },
+          {
+            "id": "Q06",
+            "pdf_page": 2,
+            "anchor": "U00070",
+            "native_bounds": [
+              1460,
+              235,
+              1605,
+              307
+            ],
+            "exact_question": "What is the stack between བྱ་དང and པ་བྲལ?"
+          },
+          {
+            "id": "Q07",
+            "pdf_page": 2,
+            "anchor": "U00073",
+            "native_bounds": [
+              945,
+              300,
+              1190,
+              378
+            ],
+            "exact_question": "What letters and suffix occur after ཁྱད་པར and before པདྨ་ལས?"
+          },
+          {
+            "id": "Q08",
+            "pdf_page": 2,
+            "anchor": "U00078→U00079",
+            "native_bounds": [
+              1990,
+              365,
+              2215,
+              440
+            ],
+            "exact_question": "Inventory the entire interval after མེད and before ང་ནི: which uprights are detached bars, and which belong to adjacent letters?"
+          },
+          {
+            "id": "Q09",
+            "pdf_page": 2,
+            "anchor": "U00079",
+            "native_bounds": [
+              2495,
+              365,
+              2625,
+              438
+            ],
+            "exact_question": "What, if any, lexical ending follows དགའ་བྱེད before the closing bar?"
+          },
+          {
+            "id": "Q10",
+            "pdf_page": 2,
+            "anchor": "U00080",
+            "native_bounds": [
+              395,
+              427,
+              590,
+              509
+            ],
+            "exact_question": "What is the complete cluster after དབང་ཕྱུག and before ལུས?"
+          },
+          {
+            "id": "Q11",
+            "pdf_page": 2,
+            "anchor": "U00082→U00083",
+            "native_bounds": [
+              1980,
+              425,
+              2240,
+              510
+            ],
+            "exact_question": "How many detached bars occur in the whole interval between རྙེད and དེ་ཚེ, excluding their attached limbs?"
+          },
+          {
+            "id": "Q12",
+            "pdf_page": 2,
+            "anchor": "U00084",
+            "native_bounds": [
+              475,
+              495,
+              680,
+              578
+            ],
+            "exact_question": "What are the letters between རྩ་བཞིའི and ནི?"
+          },
+          {
+            "id": "Q13",
+            "pdf_page": 2,
+            "anchor": "U00090",
+            "native_bounds": [
+              1690,
+              556,
+              1800,
+              634
+            ],
+            "exact_question": "What is the syllable between རྡོ་རྗེ and དང?"
+          },
+          {
+            "id": "Q14",
+            "pdf_page": 3,
+            "anchor": "U00093",
+            "native_bounds": [
+              1275,
+              82,
+              1380,
+              162
+            ],
+            "exact_question": "What attached ending, if any, follows the second སོ before ལས?"
+          },
+          {
+            "id": "Q15",
+            "pdf_page": 3,
+            "anchor": "U00096→U00097",
+            "native_bounds": [
+              1000,
+              161,
+              1210,
+              244
+            ],
+            "exact_question": "How many detached upright strokes occupy the complete interval from གསང to དངོས་གྲུབ, after separating letter limbs?"
+          },
+          {
+            "id": "Q16",
+            "pdf_page": 3,
+            "anchor": "U00099",
+            "native_bounds": [
+              225,
+              233,
+              430,
+              311
+            ],
+            "exact_question": "What is the initial row-3 cluster before པ་གྲོལ་བར་ངེས, continuing the preceding གང་སུ?"
+          },
+          {
+            "id": "Q17",
+            "pdf_page": 3,
+            "anchor": "U00104",
+            "native_bounds": [
+              1200,
+              296,
+              1335,
+              375
+            ],
+            "exact_question": "What main-sized letters follow ངེས, excluding the adjacent smaller strokes?"
+          },
+          {
+            "id": "Q18",
+            "pdf_page": 3,
+            "anchor": "U00104, adjacent layer only",
+            "native_bounds": [
+              1320,
+              300,
+              1400,
+              366
+            ],
+            "exact_question": "What are the small strokes within the pale rounded area, and is their attachment to the main sequence recoverable?"
+          },
+          {
+            "id": "Q19",
+            "pdf_page": 3,
+            "anchor": "U00109",
+            "native_bounds": [
+              1700,
+              363,
+              1820,
+              440
+            ],
+            "exact_question": "What syllable follows བརྗོད and precedes མེད?"
+          },
+          {
+            "id": "Q20",
+            "pdf_page": 3,
+            "anchor": "U00110",
+            "native_bounds": [
+              2410,
+              363,
+              2550,
+              440
+            ],
+            "exact_question": "What complete cluster follows ནམ་མཁའ་མི and precedes བར་སྣང་ལས?"
+          },
+          {
+            "id": "Q21",
+            "pdf_page": 3,
+            "anchor": "U00112",
+            "native_bounds": [
+              1080,
+              432,
+              1265,
+              507
+            ],
+            "exact_question": "What letters stand between དགུ and ཡི་ཡང་སྟེང་ནས?"
+          },
+          {
+            "id": "Q22",
+            "pdf_page": 3,
+            "anchor": "U00119",
+            "native_bounds": [
+              1040,
+              556,
+              1170,
+              642
+            ],
+            "exact_question": "What is the complete particle after ཀུན and before བཅུད, including any final consonant?"
+          },
+          {
+            "id": "Q23",
+            "pdf_page": 3,
+            "anchor": null,
+            "native_bounds": [
+              135,
+              268,
+              205,
+              362
+            ],
+            "exact_question": "What is the left marginal mark's actual graph or text? No numeral or lexical value is assumed."
+          },
+          {
+            "id": "Q24",
+            "pdf_page": 2,
+            "anchor": "U00083",
+            "native_bounds": [
+              2760,
+              426,
+              2825,
+              510
+            ],
+            "exact_question": "Is there a detached terminal bar after ལས distinguishable from the final letter and nearby right frame?"
+          },
+          {
+            "id": "Q25",
+            "pdf_page": 2,
+            "anchor": "after U00079, nonlexical region",
+            "native_bounds": [
+              2660,
+              365,
+              2820,
+              441
+            ],
+            "exact_question": "How many rounded/downturned components form the isolated train after its leading bar, and are any joined?"
+          }
+        ],
+        "unexamined_spans": {
+          "actual_target_omissions": [],
+          "deliberately_excluded_flanks": [
+            {
+              "pdf_page": 1,
+              "scope": "Full title and marginal-label transcription; inspected only as preceding context."
+            },
+            {
+              "pdf_page": 4,
+              "scope": "Full lexical collation beyond the brief first-row locator; inspected only as following context."
+            }
+          ]
+        },
+        "next_physical_span": "No new general W1ER119 reading is required for v1. Preserve the exact Q01–Q25 and the unlocated chapter endpoint; further continuous reading and actual gap effects remain outside the approved release scope.",
+        "reader_claims_require_coordinator_dispositions": true
       }
     ]
   },
@@ -10265,7 +10623,7 @@
     "Continuous collation and internal-exposure accounting for mapped Adzom1973 and Gcn ranges",
     "Sichuan full scan unavailable"
   ],
-  "chapter_markdown_sha256": "1232ad8bc69bad44fe1c5e6cad5a62a1931d0ebef975c4fba5093af4d085c7f9",
+  "chapter_markdown_sha256": "80da9ac06069b827cf829fff4318713b26e6f21a54158f62a3c47e05a73e5fab",
   "recovery_checkpoint": "recovery/2026-09-27-local/recovery-audit.json",
   "current_handoff": "HANDOFF.md",
   "sign_review_adoption_audit": "reviews/chapter-01/sign-adoption-audit-20260927.md",
