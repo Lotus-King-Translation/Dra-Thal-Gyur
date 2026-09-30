@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "scope": "Chapter 1 v1: corrected Adzom-based reading with a scoped comparative apparatus",
+  "proposal_approved": false,
+  "audited_baseline": "55d6b61225dc9ef3d7b32ed2e905fce4ef89d5cf",
+  "packets": {
+    "total": 8,
+    "integrated": 0,
+    "deferred_not_collated": 0,
+    "remaining": 8,
+    "items": [
+      {
+        "task": "C1-BASE-PHYSICAL",
+        "batch": "B14-P0017-0019",
+        "scope": "Adzom physical PDF17-19",
+        "recorded_status": "claimed_prepared_not_read",
+        "integrated": false,
+        "explicitly_deferred_not_collated": false,
+        "remaining": true
+      },
+      {
+        "task": "C1-DZONGSAR",
+        "batch": "B02-PHYSICAL-P0001-0003",
+        "scope": "Dzongsar physical PDF1-3",
+        "recorded_status": "claimed_prepared_not_read",
+        "integrated": false,
+        "explicitly_deferred_not_collated": false,
+        "remaining": true
+      },
+      {
+        "task": "C1-TINGKYE",
+        "batch": "B11-P0017-0019",
+        "scope": "Tingkye PDF17-19",
+        "recorded_status": "claimed_prepared_not_read",
+        "integrated": false,
+        "explicitly_deferred_not_collated": false,
+        "remaining": true
+      },
+      {
+        "task": "C1-TSAMDRAK",
+        "batch": "B11-P0027-0029",
+        "scope": "Tsamdrak PDF27-29",
+        "recorded_status": "claimed_prepared_not_read",
+        "integrated": false,
+        "explicitly_deferred_not_collated": false,
+        "remaining": true
+      },
+      {
+        "task": "C1-DEGE",
+        "batch": "B09-P0015-0017",
+        "scope": "Dege PDF15-17",
+        "recorded_status": "claimed_prepared_not_read",
+        "integrated": false,
+        "explicitly_deferred_not_collated": false,
+        "remaining": true
+      },
+      {
+        "task": "C1-W1ER119",
+        "batch": "B01-OPENING-P0002-0003",
+        "scope": "W1ER119 opening PDF2-3",
+        "recorded_status": "claimed_prepared_not_read",
+        "integrated": false,
+        "explicitly_deferred_not_collated": false,
+        "remaining": true
+      },
+      {
+        "task": "C1-ADZOM1973",
+        "batch": "B01-P0011-0013",
+        "scope": "Adzom1973 provider PDF11-13",
+        "recorded_status": "claimed_prepared_not_read",
+        "integrated": false,
+        "explicitly_deferred_not_collated": false,
+        "remaining": true
+      },
+      {
+        "task": "C1-GCN",
+        "batch": "B01-P0407-0409",
+        "scope": "Gcn provider PDF407-409",
+        "recorded_status": "claimed_prepared_not_read",
+        "integrated": false,
+        "explicitly_deferred_not_collated": false,
+        "remaining": true
+      }
+    ]
+  },
+  "release_locus_acceptance": {
+    "total": 183,
+    "documented": 0,
+    "remaining": 183,
+    "invalid_entry_ids": [],
+    "not_a_count_of_unread_source_passages": true
+  },
+  "release_artifacts": {
+    "total": 5,
+    "present": 0,
+    "items": {
+      "reading": false,
+      "apparatus": false,
+      "machine_reading": false,
+      "changes": false,
+      "coverage_and_uncertainties": false
+    }
+  },
+  "preserved_baseline_counts": {
+    "source_anchors": 2635,
+    "transcript_loci": 183,
+    "exact_transcript_differences": 359,
+    "intervention_records": 88,
+    "curated_replacement_anchors": 84,
+    "restored_main_verses": 13,
+    "comparison_observations_including_uncertainty": 667
+  },
+  "final_editorial_signoff_recorded": false,
+  "accuracy_score": null,
+  "aggregate_completion_percentage": null,
+  "time_estimate": null,
+  "certifies_release_or_scholarship": false,
+  "caveat": "The 183 acceptance entries below are a new release checklist, not 183 wholly unreviewed scholarly loci. Workload denominators remain separate; no aggregate percentage or claimed accuracy is computed."
+}

@@ -78,3 +78,17 @@ Never combine file counts, page inspections, decisions, and corrections into one
 Expected operation: one coordinator, at most one integration batch in flight, persistent input/output manifests, no speculative reader backlog, no new dependency migration before release. Technical failure produces a preserved failure record and no coverage credit. A source-reading job must finish or have its partial state preserved before another is commissioned.
 
 A clock-time forecast is not defensible from the available logs. Establish an end-to-end observed throughput for this frozen checklist before giving a date. Do not repeat unsupported assurances that another session will finish the exhaustive edition.
+
+## Read-only progress meter
+
+Run from the repository root:
+
+```bash
+python3 diplomatic/tools/release_progress.py --repo .
+```
+
+The meter reads only identifiers and acceptance metadata. It freezes the 183-locus denominator at the audited commit, checks the eight current batch states, requires rationale plus existing evidence references for acceptance entries, and lists the five proposed deliverables. Its saved initial output is [PROGRESS.json](PROGRESS.json). The five deliverables being absent does not mean their source data are absent: the current edition and apparatus already exist outside the proposed release directory.
+
+Initial state: eight pending packet records; zero of 183 **new release-acceptance entries** recorded; five release deliverable groups not yet packaged. These are separate counters, not an assertion of zero prior research. The scope is not yet approved. The meter deliberately does not certify scholarship, infer accuracy, estimate hours, or replace the final editorial review and real validation runs.
+
+To accept a locus, add its existing ID under `DECISIONS.json:loci`, with `status` chosen from the plan, a locus-specific `rationale`, and an `evidence` list of repository-relative files. A packet deferral requires its exact `TASK/BATCH` key, rationale and evidence; it is reported separately and never counted as collation. Keep pre-existing scholarly ledgers as the authorities for readings.
