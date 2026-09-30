@@ -1,0 +1,304 @@
+{
+  "schema_version": 1,
+  "chapter": 3,
+  "status": "approved_in_progress",
+  "baseline_commit": "b758a52ae6b2f550edfa54c3fe6da51f14e20c49",
+  "approval": "User: move to chapter 3 then. Continue the approved bounded release method and status report with every verified commit.",
+  "title": "Chapter 3 v1 — corrected Adzom-based reading with scoped comparative apparatus",
+  "scope": "Exact A/B/S and defined related W reference comparisons; targeted Adzom checks of boundaries, known source layers and material candidates; explicit decisions and five deliverables. No full scan proofread, exhaustive all-witness collation, unmarked normalization or reconstruction of an original.",
+  "original_anchor_range": [
+    "U03623",
+    "U04305"
+  ],
+  "original_anchor_count": 683,
+  "sources": {
+    "A": {
+      "path": "editions/adzom-2000/W1KG11703_7.txt",
+      "full_sha256": "18bd9ce65311e2d6d7c703f053a5c0aac347e899a75f8749a8f9afd891452edc",
+      "start": 104719,
+      "end": 124275,
+      "chapter_sha256": "5d2834eb909db79a795aee383d3071549a536a1f6e1445e0709147611c07b916",
+      "before": "འོ། །ཞེས་སྒྲ་ཐལ་འགྱུར་ཆེན་པོ་ཆོས་རྣམས་ཀུན་གྱི་རྩ་བ་ལས། གནད་འདུས་བཀོད་པ་རིག་པའི་རྩ་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་གཉིས་པའོ།།",
+      "opening": " དེ་ནས་ལྷ་དབང་དགའ་བྱེད་ཀྱིས། །ཡེ་ཤེས་བཀོད་པ་ཞེས་བྱ་བའི། །སངས་རྒྱས་བཅོམ་ལྡན་འདས་ལ་ཞུས། །ཆོས་ཉིད་གནས་པ་ཇི་ལྟར་ལགས། །དེ་ལས་",
+      "closing": "བ་པར་སྟོང་། །རང་བཞིན་དག་པས་སྐུ་གསུམ་བཞིའོ། །ཞེས་སྒྲ་ཐལ་འགྱུར་ཆེན་པོ་ཆོས་རྣམས་ཀུན་གྱི་རྩ་བ་ལས། ཡེ་ཤེས་བཀོད་པ་སྣང་བའི་རྩ་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་གསུམ་པའོ།། །།",
+      "following": "དེ་ནས་ལྷ་དབང་དགའ་བྱེད་ཀྱིས། །སྟོན་པ་ཁྱབ་བདག་ཆེན་པོ་ལ། །ཆོས་ཉིད་བཀོད་པའི་རང་བཞིན་ཞུས། །ཀྱེ་ཀྱེ་ཡང་དག་རྫོགས་སངས་རྒྱས། །བདག"
+    },
+    "B": {
+      "path": "editions/tharpaling-1983/W27491_7.txt",
+      "full_sha256": "df05454b1ca21d893188b30e00b7b463abe369afc6ec26d917354a7d6de464c3",
+      "start": 105153,
+      "end": 124817,
+      "chapter_sha256": "4de5a1c26f3cd7ad5724d22e88b2b6891968622e62c1fe5e0040a53893f77997",
+      "before": " །ཞེས་སྒྲ་ཐལ་འགྱུར་ཆེན་པོ་ཆོས་རྣམས་ཀུན་གྱི་རྩ་བ་ལས། གནད་འདུས་བཀོད་པ་རིག་པའི་རྩ་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་གཉིས་པའོ།། །།",
+      "opening": "དེ་ནས་ལྷ་དབང་དགའ་བྱེད་ཀྱིས། །ཡེ་ཤེས་བཀོད་པ་ཞེས་བྱ་བའི། །སངས་རྒྱས་བཅོམ་ལྡན་འདས་ལ་ཞུས། །ཆོས་ཉིད་གནས་པ་ཇི་ལྟར་ལགས། །དེ་ལས་འ",
+      "closing": "ང་བཞིན་དག་པས་སྐུ་གསུམ་བཞིའོ། །ཞེས་སྒྲ་ཐལ་འགྱུར་ཆེན་པོ་ཆོས་རྣམས་ཀུན་གྱི་རྩ་བ་ལས། ཡེ་ཤེས་བཀོད་པ་སྣང་བའི་རྩ་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་གསུམ་པའོ།། །།ཿགཙར་འཉྲ་ཨཱཿ།།",
+      "following": "དེ་ནས་ལྷ་དབང་དགའ་བྱེད་ཀྱིས། །སྟོན་པ་ཁྱབ་བདག་ཆེན་པོ་ལ། །ཆོས་ཉིད་བཀོད་པའི་རང་བཞིན་ཞུས། །ཀྱེ་ཀྱེ་ཡང་དག་རྫོགས་སངས་རྒྱས། །བདག"
+    },
+    "S": {
+      "path": "editions/sichuan-2016/W3CN7084_7.txt",
+      "full_sha256": "2cf6b52889211579dff68f2e064032f40926de266242f111b3c94bb4efa47c57",
+      "start": 105423,
+      "end": 125127,
+      "chapter_sha256": "85adcad86b34fb68203770f32f8fb265bc37439e89e6af5df9451d2813af593d",
+      "before": "། །ཞེས་སྒྲ་ཐལ་འགྱུར་ཆེན་པོ་ཆོས་རྣམས་ཀུན་གྱི་རྩ་བ་ལས།གནད་འདུས་བཀོད་པ་རིག་པའི་རྩ་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་གཉིས་པའོ།། །།",
+      "opening": "དེ་ནས་ལྷ་དབང་དགའ་བྱེད་ཀྱིས། །ཡེ་ཤེས་བཀོད་པ་ཞེས་བྱ་བའི། །སངས་རྒྱས་བཅོམ་ལྡན་འདས་ལ་ཞུས། །ཆོས་ཉིད་གནས་པ་ཇི་ལྟར་ལགས། །དེ་ལས་འ",
+      "closing": "ྱབ་པར་སྟོང་། །རང་བཞིན་དག་པས་སྐུ་གསུམ་བཞིའོ། །ཞེས་སྒྲ་ཐལ་འགྱུར་ཆེན་པོ་ཆོས་རྣམས་ཀུན་གྱི་རྩ་བ་ལས།ཡེ་ཤེས་བཀོད་པ་སྣང་བའི་རྩ་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་གསུམ་པའོ།། །།",
+      "following": "དེ་ནས་ལྷ་དབང་དགའ་བྱེད་ཀྱིས། །སྟོན་པ་ཁྱབ་བདག་ཆེན་པོ་ལ། །ཆོས་ཉིད་བཀོད་པའི་རང་བཞིན་ཞུས། །ཀྱེ་ཀྱེ་ཡང་དག་རྫོགས་སངས་རྒྱས། །བདག"
+    }
+  },
+  "W": {
+    "path": "editions/adzom-wikisource/source.wikitext",
+    "sha256": "d2a6e95e8c65d28d7812efa79d65bd397a0796a9e00621430a86b5713b70ede8",
+    "lines_inclusive": [
+      3659,
+      4348
+    ],
+    "provenance": "editions/adzom-wikisource/PROVENANCE.json"
+  },
+  "boundary_policy": "A follows existing anchors [104719,124275), including its initial space and closing punctuation. B/S begin exactly where the released Chapter2 slices end and finish before the next occurrence of the lexical incipit, distinguished by its following ston pa khyab bdag clause and the preceding third-chapter colophon. B foreign-script closing material is retained in B. W includes @3 and excludes @4. Allocation does not certify physical sign ownership.",
+  "prior_scan_consultation": "Translation notes provide candidate locations only, not inherited complete diplomatic proofreading.",
+  "prior_releases_unchanged": true,
+  "frozen_locus_ids": [
+    "L3-0001",
+    "L3-0002",
+    "L3-0003",
+    "L3-0004",
+    "L3-0005",
+    "L3-0006",
+    "L3-0007",
+    "L3-0008",
+    "L3-0009",
+    "L3-0010",
+    "L3-0011",
+    "L3-0012",
+    "L3-0013",
+    "L3-0014",
+    "L3-0015",
+    "L3-0016",
+    "L3-0017",
+    "L3-0018",
+    "L3-0019",
+    "L3-0020",
+    "L3-0021",
+    "L3-0022",
+    "L3-0023",
+    "L3-0024",
+    "L3-0025",
+    "L3-0026",
+    "L3-0027",
+    "L3-0028",
+    "L3-0029",
+    "L3-0030",
+    "L3-0031",
+    "L3-0032",
+    "L3-0033",
+    "L3-0034",
+    "L3-0035",
+    "L3-0036",
+    "L3-0037",
+    "L3-0038",
+    "L3-0039",
+    "L3-0040",
+    "L3-0041"
+  ],
+  "frozen_W_ids": [
+    "W-C03-001",
+    "W-C03-002",
+    "W-C03-003",
+    "W-C03-004",
+    "W-C03-005",
+    "W-C03-006",
+    "W-C03-007",
+    "W-C03-008",
+    "W-C03-009",
+    "W-C03-010",
+    "W-C03-011",
+    "W-C03-012",
+    "W-C03-013",
+    "W-C03-014",
+    "W-C03-015",
+    "W-C03-016",
+    "W-C03-017",
+    "W-C03-018",
+    "W-C03-019",
+    "W-C03-020",
+    "W-C03-021",
+    "W-C03-022",
+    "W-C03-023",
+    "W-C03-024",
+    "W-C03-025",
+    "W-C03-026",
+    "W-C03-027",
+    "W-C03-028",
+    "W-C03-029",
+    "W-C03-030",
+    "W-C03-031",
+    "W-C03-032",
+    "W-C03-033",
+    "W-C03-034",
+    "W-C03-035",
+    "W-C03-036",
+    "W-C03-037",
+    "W-C03-038",
+    "W-C03-039",
+    "W-C03-040",
+    "W-C03-041",
+    "W-C03-042",
+    "W-C03-043",
+    "W-C03-044",
+    "W-C03-045",
+    "W-C03-046",
+    "W-C03-047",
+    "W-C03-048",
+    "W-C03-049",
+    "W-C03-050",
+    "W-C03-051",
+    "W-C03-052",
+    "W-C03-053",
+    "W-C03-054",
+    "W-C03-055",
+    "W-C03-056",
+    "W-C03-057",
+    "W-C03-058",
+    "W-C03-059",
+    "W-C03-060",
+    "W-C03-061",
+    "W-C03-062",
+    "W-C03-063",
+    "W-C03-064",
+    "W-C03-065",
+    "W-C03-066",
+    "W-C03-067",
+    "W-C03-068",
+    "W-C03-069",
+    "W-C03-070",
+    "W-C03-071",
+    "W-C03-072",
+    "W-C03-073",
+    "W-C03-074",
+    "W-C03-075",
+    "W-C03-076"
+  ],
+  "source_check_targets": [
+    {
+      "id": "C3-START",
+      "units": [
+        "U03623"
+      ],
+      "pages": [
+        138
+      ],
+      "question": "Establish the actual opening after the separately preserved Chapter2 boundary graphic."
+    },
+    {
+      "id": "C3-END",
+      "units": [
+        "U04304",
+        "U04305"
+      ],
+      "pages": [
+        163
+      ],
+      "question": "Establish the third-chapter colophon and following boundary; do not import the B closing formula."
+    },
+    {
+      "id": "C3-LAYER-03657",
+      "units": [
+        "U03657"
+      ],
+      "pages": [
+        139
+      ],
+      "question": "Check the first reply/subdivision heading layer without recasting the stated number."
+    },
+    {
+      "id": "C3-LAYER-03673",
+      "units": [
+        "U03673"
+      ],
+      "pages": [
+        140
+      ],
+      "question": "Distinguish main sbyang from the smaller sbyar yang byung note."
+    },
+    {
+      "id": "C3-RESTORE-03715",
+      "units": [
+        "U03715",
+        "U03716"
+      ],
+      "pages": [
+        141,
+        142
+      ],
+      "question": "Check the three full lines present in B/S but absent from A; restore only if physically present in governing Adzom."
+    },
+    {
+      "id": "C3-LAYER-03802",
+      "units": [
+        "U03802",
+        "U03803"
+      ],
+      "pages": [
+        145,
+        146
+      ],
+      "question": "Check S-bracketed gnyis and drug cu against actual main/smaller print layers."
+    },
+    {
+      "id": "C3-READING-03851",
+      "units": [
+        "U03851"
+      ],
+      "pages": [
+        146,
+        147
+      ],
+      "question": "Inspect rdzo gas versus rdzogs; the earlier translation note is a candidate, not automatic authority."
+    },
+    {
+      "id": "C3-LAYER-03945",
+      "units": [
+        "U03945",
+        "U03946"
+      ],
+      "pages": [
+        150,
+        151
+      ],
+      "question": "Distinguish the main numerical clauses from sum cu yang byung and brgya bzhi yang."
+    },
+    {
+      "id": "C3-LAYER-03952",
+      "units": [
+        "U03952",
+        "U03953",
+        "U03954",
+        "U03955"
+      ],
+      "pages": [
+        151,
+        152
+      ],
+      "question": "Separate four potential interleaved numeric/variant notes; keep unresolved note wording explicitly qualified."
+    },
+    {
+      "id": "C3-LAYER-03976",
+      "units": [
+        "U03976"
+      ],
+      "pages": [
+        152,
+        153
+      ],
+      "question": "Check smaller khams gsum yang and main shes gsum byung at the actual source location."
+    }
+  ],
+  "collation_hashes": {
+    "collation.json": "cff5fd72ec24c94865c3665a559f1f7ce470f33b15163cdbdf5775d7b36d2a0d",
+    "wikisource.json": "7183567aad0a96bf9dace3ea823a2f008dae91968a17fb0e9ce3debde61c0190"
+  },
+  "no_general_comparison_witness_reading": true,
+  "exhaustive_witness_collation": false,
+  "next_step": "Complete 10 targeted source dispositions, 41 A/B/S choices and 76 W choices, then five deliverables and final gate; no new all-witness queue."
+}

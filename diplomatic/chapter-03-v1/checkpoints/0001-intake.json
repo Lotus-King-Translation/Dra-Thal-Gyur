@@ -1,0 +1,86 @@
+{
+  "parent_commit": "b758a52ae6b2f550edfa54c3fe6da51f14e20c49",
+  "prior_release_final_checks": {
+    "chapter1": true,
+    "chapter2": true
+  },
+  "no_inherited_unpublished_project_files": true,
+  "original_source_hashes_match_preceding_release": true,
+  "prior_transcripts_not_changed": true,
+  "collation": {
+    "source_units": 683,
+    "exact_differences": 84,
+    "readable_loci": 41,
+    "difference_classes": {
+      "presentation": 76,
+      "textual": 8
+    },
+    "structural_candidates": [
+      "C3-0009"
+    ],
+    "pairwise_alignment": {
+      "B": {
+        "exact_alignment_anchors": 603,
+        "operations": {
+          "delete": 6,
+          "equal": 15,
+          "insert": 9,
+          "replace": 1
+        }
+      },
+      "S": {
+        "exact_alignment_anchors": 574,
+        "operations": {
+          "delete": 7,
+          "equal": 78,
+          "insert": 67,
+          "replace": 4
+        }
+      }
+    },
+    "minimal_and_whole_locus_reconstruction_passed": true,
+    "W_lines_accounted": 690,
+    "W_reference_lines": 664,
+    "W_conflict_blocks": 76,
+    "W_equal_normalized_units": 598,
+    "caveat": "Exact data coverage and monotonic alignment are not source-glyph verification or automatic variant decisions."
+  },
+  "progress": {
+    "chapter": 3,
+    "state": "approved_in_progress",
+    "source_anchors": 683,
+    "source_families_verified": 4,
+    "transcript_loci": {
+      "total": 41,
+      "documented": 0,
+      "remaining": 41,
+      "invalid": []
+    },
+    "W_blocks": {
+      "total": 76,
+      "documented": 0,
+      "remaining": 76,
+      "invalid": []
+    },
+    "source_checks": {
+      "total": 10,
+      "documented": 0,
+      "remaining": 10,
+      "invalid": []
+    },
+    "interventions": 0,
+    "deliverables": {
+      "total": 5,
+      "present": 0
+    },
+    "final_signoff": false,
+    "exhaustive_witness_collation": false,
+    "accuracy_score": null,
+    "time_estimate": null
+  },
+  "adapted_code": {
+    "from": "diplomatic/chapter-02-v1/collate.py",
+    "sha256": "a4a92540fe079980ec09799a2768fe5b4a6fe8622657c5b7c3a60017bc7adcc9",
+    "scope": "Only chapter paths, source unit count and IDs/marker checks changed; uses the preserved exact alignment functions."
+  }
+}

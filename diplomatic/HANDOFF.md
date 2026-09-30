@@ -1,5 +1,7 @@
 # Continue the diplomatic edition
 
+> **Active work: Chapter 3 bounded v1.** Continue at [chapter-03-v1/README.md](chapter-03-v1/README.md). Use its frozen 41 A/B/S loci, 76 W blocks and 10 source targets, not the historical exhaustive queue. Report status with every verified commit. Preserve Chapters 1 and 2 unchanged.
+
 > **Chapters 1 and 2 bounded v1 are released (2026-09-30).** Chapter2 is at [chapter-02-v1/release/README.md](chapter-02-v1/release/README.md), with [final validation](chapter-02-v1/release/VALIDATION.json) and [status](chapter-02-v1/PROGRESS.json): 56/56 transcript decisions, 105/105 W decisions, 10/10 targeted source dispositions and 5/5 deliverables. The release is not complete scan proofreading. Chapter3 has not started. Preserve both version tags and report status with every verified commit.
 
 > **Chapter 1 bounded v1 is complete for the user-approved scope (2026-09-30).** Start with the [released edition](release-v1/README.md), [final validation](release-v1/VALIDATION.json), and [status report](release-v1-proposal/PROGRESS.json). All 183 release choices are recorded; the eight frozen packets are dispositioned as two integrations and six explicit deferrals without collation credit; all five deliverable groups are present. Exhaustive witness collation remains unfinished. Run `python3 diplomatic/tools/release_progress.py --repo .` and report status with every verified commit. Do not reopen the completed v1 checklist or commission general reading under its name.
