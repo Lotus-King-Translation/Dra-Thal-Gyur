@@ -84,6 +84,118 @@
       "insertion_ids": [
         "A2000-C03-S01"
       ]
+    },
+    "L3-0011": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Separate the physically smaller gnyis and drug cu fragments from U03802 and U03803, retaining the large-letter four and twelve clauses. The complete tiny note lettering remains qualified, so the annotation quotations are not a new full transcription; no arithmetic reconstruction is adopted.",
+      "source_units": [
+        "U03802",
+        "U03803"
+      ],
+      "exact_conflicts": [
+        "C3-0018",
+        "C3-0019",
+        "C3-0020",
+        "C3-0021"
+      ],
+      "release_reading": {
+        "U03802": "བྱེད་པའི་ལས་ནི་བཞི་དག་ལས། །",
+        "U03803": "བརྟགས་པས་བཅུ་གཉིས་དག་ཏུ་འགྱུར། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-03-v1/INTERVENTIONS.json"
+      ],
+      "uncertain_units": [
+        "U03802",
+        "U03803"
+      ],
+      "insertion_ids": []
+    },
+    "L3-0018": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Retain the observed main gsum gnyis and bdun bzhio. Move sum cu yang byung and brgya bzhi yang to separate source notes under their linked native-image records; neither thirty nor four hundred is added to the main enumeration.",
+      "source_units": [
+        "U03945",
+        "U03946"
+      ],
+      "exact_conflicts": [
+        "C3-0034",
+        "C3-0035",
+        "C3-0036",
+        "C3-0037"
+      ],
+      "release_reading": {
+        "U03945": "དྲག་པོས་འཇུག་པ་གསུམ་གཉིས་ལ། །",
+        "U03946": "རྟགས་བཀོད་ལས་ཀྱི་བདུན་བཞིའོ། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-03-v1/INTERVENTIONS.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0019": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Separate the four guided numerical/variant notes under the continuous main row5 clauses at PDF150. Preserve the supplied note quotations, including uncertain brtse ba bzhi yang, and all original repetitions in the apparatus. The main text does not repeat spros pas or combine alternate numbers as a new total.",
+      "source_units": [
+        "U03952",
+        "U03953",
+        "U03954",
+        "U03955"
+      ],
+      "exact_conflicts": [
+        "C3-0038",
+        "C3-0039",
+        "C3-0040",
+        "C3-0041",
+        "C3-0042",
+        "C3-0043",
+        "C3-0044",
+        "C3-0045"
+      ],
+      "release_reading": {
+        "U03952": "གནས་གཞན་རྩ་བ་གཞི་དག་ལས། །",
+        "U03953": "ཚིག་ལ་རྟོག་པས་གནས་བརྒྱ་གཉིས། །",
+        "U03954": "དེ་ལས་སྤྲོས་པས་བཞི་བརྒྱ་བཞི། །",
+        "U03955": "ཁྱད་པར་ངེས་པའི་རྩིས་བཅུར་འགྱུར། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-03-v1/INTERVENTIONS.json"
+      ],
+      "uncertain_units": [
+        "U03952",
+        "U03953",
+        "U03954",
+        "U03955"
+      ],
+      "insertion_ids": []
+    },
+    "L3-0023": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Keep larger shes gsum byung and preserve smaller khams gsum yang as its separate guided note. The actual locator is PDF151, not the unverified 152–153 inherited hint. This is a layer correction, not a doctrinal substitution.",
+      "source_units": [
+        "U03976"
+      ],
+      "exact_conflicts": [
+        "C3-0050",
+        "C3-0051"
+      ],
+      "release_reading": {
+        "U03976": "གཉིས་འདུས་པ་ལས་ཤེས་གསུམ་འབྱུང༌། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-03-v1/INTERVENTIONS.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
     }
   },
   "W": {},
@@ -142,6 +254,74 @@
       "units": [
         "U03715",
         "U03716"
+      ]
+    },
+    "C3-LAYER-03802": {
+      "status": "reviewed_with_stated_limits",
+      "rationale": "The two larger numerical clauses on row2 are continuous without the smaller numerical material on row3. Dotted guides and relative letter size distinguish the interleaved notes; S braces alone are not used as proof. Separate the supplied gnyis and drug cu fragments without recalculating the main four or twelve.",
+      "evidence": [
+        "diplomatic/chapter-03-v1/evidence/E02/p145-native.png",
+        "diplomatic/chapter-03-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-03-v1/evidence/focused/U03802-main-notes.png",
+        "diplomatic/chapter-03-v1/evidence/focused/U03803-main-note.png"
+      ],
+      "units": [
+        "U03802",
+        "U03803"
+      ]
+    },
+    "C3-READING-03851": {
+      "status": "reviewed_with_stated_limits",
+      "rationale": "The native larger phrase has the continuous rdzogs syllable before pai gnad. Correct the supplied internal rdzo gas division to rdzogs locally; no global segmentation normalization is performed.",
+      "evidence": [
+        "diplomatic/chapter-03-v1/evidence/E02/p147-native.png",
+        "diplomatic/chapter-03-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-03-v1/evidence/focused/U03851-full-context.png"
+      ],
+      "units": [
+        "U03851"
+      ]
+    },
+    "C3-LAYER-03945": {
+      "status": "reviewed_with_stated_limits",
+      "rationale": "The two main clauses give gsum gnyis and bdun bzhio in larger letters. The thirty and four-hundred alternatives are smaller, guided notes below. Preserve their supplied wording separately instead of adding those numbers into the main sequence.",
+      "evidence": [
+        "diplomatic/chapter-03-v1/evidence/E02/p150-native.png",
+        "diplomatic/chapter-03-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-03-v1/evidence/focused/U03945-03946-main-notes.png"
+      ],
+      "units": [
+        "U03945",
+        "U03946"
+      ]
+    },
+    "C3-LAYER-03952": {
+      "status": "reviewed_with_stated_limits",
+      "rationale": "The four main clauses on row5 are continuous; four smaller guided notes occupy row6 among subsequent larger main wording. Separate the interleaved material while preserving both source transcripts and annotations. In particular do not duplicate spros pas in the main verse or replace its four-hundred-four with the smaller numerical alternative.",
+      "evidence": [
+        "diplomatic/chapter-03-v1/evidence/E02/p150-native.png",
+        "diplomatic/chapter-03-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-03-v1/evidence/focused/U03952-note.png",
+        "diplomatic/chapter-03-v1/evidence/focused/U03953-03954-notes.png",
+        "diplomatic/chapter-03-v1/evidence/focused/U03955-note.png"
+      ],
+      "units": [
+        "U03952",
+        "U03953",
+        "U03954",
+        "U03955"
+      ]
+    },
+    "C3-LAYER-03976": {
+      "status": "reviewed_with_stated_limits",
+      "rationale": "The larger phrase reads shes gsum byung. The smaller khams gsum yang is a guided note below shes, not part of that larger clause. Separate it without replacing knowing by realms on contextual grounds.",
+      "evidence": [
+        "diplomatic/chapter-03-v1/evidence/E02/p151-native.png",
+        "diplomatic/chapter-03-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-03-v1/evidence/focused/U03976-main-note.png"
+      ],
+      "units": [
+        "U03976"
       ]
     }
   },

@@ -1,0 +1,82 @@
+{
+  "parent_commit": "be45aa03eb6755f22be49e3d311d9e6d0bb249e7",
+  "changes": "Five further targeted source dispositions; nine further source-note separations and one local rdzogs transcription correction. Three restored verses retained. Four related A/B/S decisions completed.",
+  "progress": {
+    "chapter": 3,
+    "state": "approved_in_progress",
+    "source_anchors": 683,
+    "source_families_verified": 4,
+    "transcript_loci": {
+      "total": 41,
+      "documented": 8,
+      "remaining": 33,
+      "invalid": []
+    },
+    "W_blocks": {
+      "total": 76,
+      "documented": 0,
+      "remaining": 76,
+      "invalid": []
+    },
+    "source_checks": {
+      "total": 10,
+      "documented": 9,
+      "remaining": 1,
+      "invalid": []
+    },
+    "interventions": 11,
+    "restored_main_verses": 3,
+    "deliverables": {
+      "total": 5,
+      "present": 0
+    },
+    "final_signoff": false,
+    "exhaustive_witness_collation": false,
+    "accuracy_score": null,
+    "time_estimate": null
+  },
+  "all_original_source_files_unchanged": true,
+  "actual_location_corrections": {
+    "C3-LAYER-03952": "PDF150, not the inherited candidate hint PDF151–152",
+    "C3-LAYER-03976": "PDF151, not the inherited candidate hint PDF152–153"
+  },
+  "collation_check": {
+    "reproducible": true,
+    "source_units": 683,
+    "exact_differences": 84,
+    "readable_loci": 41,
+    "difference_classes": {
+      "presentation": 76,
+      "textual": 8
+    },
+    "structural_candidates": [
+      "C3-0009"
+    ],
+    "pairwise_alignment": {
+      "B": {
+        "exact_alignment_anchors": 603,
+        "operations": {
+          "delete": 6,
+          "equal": 15,
+          "insert": 9,
+          "replace": 1
+        }
+      },
+      "S": {
+        "exact_alignment_anchors": 574,
+        "operations": {
+          "delete": 7,
+          "equal": 78,
+          "insert": 67,
+          "replace": 4
+        }
+      }
+    },
+    "minimal_and_whole_locus_reconstruction_passed": true,
+    "W_lines_accounted": 690,
+    "W_reference_lines": 664,
+    "W_conflict_blocks": 76,
+    "W_equal_normalized_units": 598,
+    "caveat": "Exact data coverage and monotonic alignment are not source-glyph verification or automatic variant decisions."
+  }
+}

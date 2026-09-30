@@ -116,6 +116,185 @@
         "diplomatic/chapter-03-v1/evidence/focused/S01-outgoing-row.png"
       ],
       "reader": "ChatGPT coordinator; candidate text known before direct native-image inspection; not independent human certification"
+    },
+    {
+      "id": "C3-LAYER-03802",
+      "units": [
+        "U03802",
+        "U03803"
+      ],
+      "pdf_page": 145,
+      "physical_row": "2–3",
+      "approx_native_bounds": [
+        [
+          1030,
+          380,
+          2960,
+          680
+        ],
+        [
+          2690,
+          390,
+          4400,
+          685
+        ]
+      ],
+      "observed_sequence": {
+        "main": [
+          "བྱེད་པའི་ལས་ནི་བཞི་དག་ལས",
+          "བརྟགས་པས་བཅུ་གཉིས་དག་ཏུ་འགྱུར"
+        ],
+        "smaller_supplied_fragments": [
+          "གཉིས",
+          "དྲུག་ཅུ"
+        ]
+      },
+      "rationale": "The two larger numerical clauses on row2 are continuous without the smaller numerical material on row3. Dotted guides and relative letter size distinguish the interleaved notes; S braces alone are not used as proof. Separate the supplied gnyis and drug cu fragments without recalculating the main four or twelve.",
+      "remaining_uncertainty": "The compact notes have additional or compressed small strokes; their complete print lettering and terminal particles are not independently settled. The retained annotation strings quote supplied fragments, not a claim of fully transcribing every small character. Main terminal delimiters remain supplied.",
+      "evidence": [
+        "diplomatic/chapter-03-v1/evidence/E02/p145-native.png",
+        "diplomatic/chapter-03-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-03-v1/evidence/focused/U03802-main-notes.png",
+        "diplomatic/chapter-03-v1/evidence/focused/U03803-main-note.png"
+      ],
+      "reader": "ChatGPT coordinator; candidate text known before direct native-image inspection; not independent human certification"
+    },
+    {
+      "id": "C3-READING-03851",
+      "units": [
+        "U03851"
+      ],
+      "pdf_page": 147,
+      "physical_row": 2,
+      "approx_native_bounds": [
+        1020,
+        365,
+        2780,
+        600
+      ],
+      "observed_sequence": "དེ་ཡང་གཞི་ལ་རྫོགས་པའི་གནད",
+      "rationale": "The native larger phrase has the continuous rdzogs syllable before pai gnad. Correct the supplied internal rdzo gas division to rdzogs locally; no global segmentation normalization is performed.",
+      "remaining_uncertainty": "This supports the local word and its segmentation, not a complete proofread of the surrounding page or a new physical-sign inventory.",
+      "evidence": [
+        "diplomatic/chapter-03-v1/evidence/E02/p147-native.png",
+        "diplomatic/chapter-03-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-03-v1/evidence/focused/U03851-full-context.png"
+      ],
+      "reader": "ChatGPT coordinator; candidate text known before direct native-image inspection; not independent human certification"
+    },
+    {
+      "id": "C3-LAYER-03945",
+      "units": [
+        "U03945",
+        "U03946"
+      ],
+      "pdf_page": 150,
+      "physical_row": "2–4",
+      "approx_native_bounds": [
+        2040,
+        455,
+        3880,
+        835
+      ],
+      "observed_sequence": {
+        "main": [
+          "དྲག་པོས་འཇུག་པ་གསུམ་གཉིས་ལ",
+          "རྟགས་བཀོད་ལས་ཀྱི་བདུན་བཞིའོ"
+        ],
+        "smaller_notes": [
+          "སུམ་ཅུ་ཡང་བྱུང",
+          "བརྒྱ་བཞི་ཡང"
+        ]
+      },
+      "rationale": "The two main clauses give gsum gnyis and bdun bzhio in larger letters. The thirty and four-hundred alternatives are smaller, guided notes below. Preserve their supplied wording separately instead of adding those numbers into the main sequence.",
+      "remaining_uncertainty": "The exact operation or replacement scope of each numerical alternative is not inferred; tiny note delimiters remain unexpanded.",
+      "evidence": [
+        "diplomatic/chapter-03-v1/evidence/E02/p150-native.png",
+        "diplomatic/chapter-03-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-03-v1/evidence/focused/U03945-03946-main-notes.png"
+      ],
+      "reader": "ChatGPT coordinator; candidate text known before direct native-image inspection; not independent human certification"
+    },
+    {
+      "id": "C3-LAYER-03952",
+      "units": [
+        "U03952",
+        "U03953",
+        "U03954",
+        "U03955"
+      ],
+      "pdf_page": 150,
+      "physical_row": "5–6",
+      "approx_native_bounds": [
+        [
+          630,
+          800,
+          2380,
+          1080
+        ],
+        [
+          2100,
+          815,
+          3890,
+          1080
+        ],
+        [
+          3520,
+          815,
+          5220,
+          1080
+        ]
+      ],
+      "observed_sequence": {
+        "main": [
+          "གནས་གཞན་རྩ་བ་གཞི་དག་ལས",
+          "ཚིག་ལ་རྟོག་པས་གནས་བརྒྱ་གཉིས",
+          "དེ་ལས་སྤྲོས་པས་བཞི་བརྒྱ་བཞི",
+          "ཁྱད་པར་ངེས་པའི་རྩིས་བཅུར་འགྱུར"
+        ],
+        "smaller_supplied_fragments": [
+          "བརྩེ་བ་བཞི་ཡང",
+          "བརྒྱད་ཀྱང",
+          "སྤྲོས་པས་བརྒྱ་གྱ་བཞི་ཡང",
+          "ངེས་པར་དེ་བཅུར་ཡང"
+        ]
+      },
+      "rationale": "The four main clauses on row5 are continuous; four smaller guided notes occupy row6 among subsequent larger main wording. Separate the interleaved material while preserving both source transcripts and annotations. In particular do not duplicate spros pas in the main verse or replace its four-hundred-four with the smaller numerical alternative.",
+      "remaining_uncertainty": "The faint brtse ba bzhi yang note and several compact note letters are retained as supplied quotations, not completely resolved print text. Numerical scope and semantic attachment remain qualified. The inherited target hint PDF151–152 was inaccurate: neighboring words establish the actual location as PDF150.",
+      "evidence": [
+        "diplomatic/chapter-03-v1/evidence/E02/p150-native.png",
+        "diplomatic/chapter-03-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-03-v1/evidence/focused/U03952-note.png",
+        "diplomatic/chapter-03-v1/evidence/focused/U03953-03954-notes.png",
+        "diplomatic/chapter-03-v1/evidence/focused/U03955-note.png"
+      ],
+      "reader": "ChatGPT coordinator; candidate text known before direct native-image inspection; not independent human certification"
+    },
+    {
+      "id": "C3-LAYER-03976",
+      "units": [
+        "U03976"
+      ],
+      "pdf_page": 151,
+      "physical_row": "4–5",
+      "approx_native_bounds": [
+        1630,
+        675,
+        3570,
+        910
+      ],
+      "observed_sequence": {
+        "main": "གཉིས་འདུས་པ་ལས་ཤེས་གསུམ་འབྱུང",
+        "smaller": "ཁམས་གསུམ་ཡང"
+      },
+      "rationale": "The larger phrase reads shes gsum byung. The smaller khams gsum yang is a guided note below shes, not part of that larger clause. Separate it without replacing knowing by realms on contextual grounds.",
+      "remaining_uncertainty": "Fine punctuation and the full semantic replacement relation are not inferred. The inherited PDF152–153 hint was inaccurate; actual source location is PDF151.",
+      "evidence": [
+        "diplomatic/chapter-03-v1/evidence/E02/p151-native.png",
+        "diplomatic/chapter-03-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-03-v1/evidence/focused/U03976-main-note.png"
+      ],
+      "reader": "ChatGPT coordinator; candidate text known before direct native-image inspection; not independent human certification"
     }
   ]
 }

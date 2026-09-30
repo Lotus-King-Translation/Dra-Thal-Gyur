@@ -25,5 +25,307 @@
     ],
     "remaining_uncertainty": "Semantic target is not expanded beyond the visible guide; supplied main delimiters are retained rather than globally normalized.",
     "source_check": "C3-LAYER-03673"
+  },
+  {
+    "id": "C3-I-U03802",
+    "units": [
+      "U03802"
+    ],
+    "original_units": {
+      "U03802": "བྱེད་པའི་ལས་ནི་བཞི་གཉིས་དག་ལས། །"
+    },
+    "replacement_units": {
+      "U03802": "བྱེད་པའི་ལས་ནི་བཞི་དག་ལས། །"
+    },
+    "annotations": [
+      {
+        "text": "གཉིས",
+        "role": "source_variant_note",
+        "status": "Separate physical source layer; supplied fragment retained with the stated reading limits."
+      }
+    ],
+    "rationale": "The two larger numerical clauses on row2 are continuous without the smaller numerical material on row3. Dotted guides and relative letter size distinguish the interleaved notes; S braces alone are not used as proof. Separate the supplied gnyis and drug cu fragments without recalculating the main four or twelve.",
+    "evidence": [
+      "diplomatic/chapter-03-v1/evidence/E02/p145-native.png",
+      "diplomatic/chapter-03-v1/evidence/E02/manifest.json",
+      "diplomatic/chapter-03-v1/evidence/focused/U03802-main-notes.png",
+      "diplomatic/chapter-03-v1/evidence/focused/U03803-main-note.png"
+    ],
+    "remaining_uncertainty": "The compact notes have additional or compressed small strokes; their complete print lettering and terminal particles are not independently settled. The retained annotation strings quote supplied fragments, not a claim of fully transcribing every small character. Main terminal delimiters remain supplied.",
+    "source_check": "C3-LAYER-03802",
+    "kind": "source_layer_separation",
+    "uncertain_units": [
+      "U03802"
+    ]
+  },
+  {
+    "id": "C3-I-U03803",
+    "units": [
+      "U03803"
+    ],
+    "original_units": {
+      "U03803": "བརྟགས་པས་བཅུ་གཉིས་དྲུག་ཅུ་དག་ཏུ་འགྱུར། །"
+    },
+    "replacement_units": {
+      "U03803": "བརྟགས་པས་བཅུ་གཉིས་དག་ཏུ་འགྱུར། །"
+    },
+    "annotations": [
+      {
+        "text": "དྲུག་ཅུ",
+        "role": "source_variant_note",
+        "status": "Separate physical source layer; supplied fragment retained with the stated reading limits."
+      }
+    ],
+    "rationale": "The two larger numerical clauses on row2 are continuous without the smaller numerical material on row3. Dotted guides and relative letter size distinguish the interleaved notes; S braces alone are not used as proof. Separate the supplied gnyis and drug cu fragments without recalculating the main four or twelve.",
+    "evidence": [
+      "diplomatic/chapter-03-v1/evidence/E02/p145-native.png",
+      "diplomatic/chapter-03-v1/evidence/E02/manifest.json",
+      "diplomatic/chapter-03-v1/evidence/focused/U03802-main-notes.png",
+      "diplomatic/chapter-03-v1/evidence/focused/U03803-main-note.png"
+    ],
+    "remaining_uncertainty": "The compact notes have additional or compressed small strokes; their complete print lettering and terminal particles are not independently settled. The retained annotation strings quote supplied fragments, not a claim of fully transcribing every small character. Main terminal delimiters remain supplied.",
+    "source_check": "C3-LAYER-03802",
+    "kind": "source_layer_separation",
+    "uncertain_units": [
+      "U03803"
+    ]
+  },
+  {
+    "id": "C3-I-U03851",
+    "units": [
+      "U03851"
+    ],
+    "original_units": {
+      "U03851": "དེ་ཡང་གཞི་ལ་རྫོ་གས་པའི་གནད། །"
+    },
+    "replacement_units": {
+      "U03851": "དེ་ཡང་གཞི་ལ་རྫོགས་པའི་གནད། །"
+    },
+    "annotations": [],
+    "rationale": "The native larger phrase has the continuous rdzogs syllable before pai gnad. Correct the supplied internal rdzo gas division to rdzogs locally; no global segmentation normalization is performed.",
+    "evidence": [
+      "diplomatic/chapter-03-v1/evidence/E02/p147-native.png",
+      "diplomatic/chapter-03-v1/evidence/E02/manifest.json",
+      "diplomatic/chapter-03-v1/evidence/focused/U03851-full-context.png"
+    ],
+    "remaining_uncertainty": "This supports the local word and its segmentation, not a complete proofread of the surrounding page or a new physical-sign inventory.",
+    "source_check": "C3-READING-03851",
+    "kind": "local_transcription_correction"
+  },
+  {
+    "id": "C3-I-U03945",
+    "units": [
+      "U03945"
+    ],
+    "original_units": {
+      "U03945": "དྲག་པོས་འཇུག་པ་གསུམ་སུམ་ཅུ་ཡང་བྱུང་གཉིས་ལ། །"
+    },
+    "replacement_units": {
+      "U03945": "དྲག་པོས་འཇུག་པ་གསུམ་གཉིས་ལ། །"
+    },
+    "annotations": [
+      {
+        "text": "སུམ་ཅུ་ཡང་བྱུང",
+        "role": "source_variant_note",
+        "status": "Separate physical source layer; supplied fragment retained with the stated reading limits."
+      }
+    ],
+    "rationale": "The two main clauses give gsum gnyis and bdun bzhio in larger letters. The thirty and four-hundred alternatives are smaller, guided notes below. Preserve their supplied wording separately instead of adding those numbers into the main sequence.",
+    "evidence": [
+      "diplomatic/chapter-03-v1/evidence/E02/p150-native.png",
+      "diplomatic/chapter-03-v1/evidence/E02/manifest.json",
+      "diplomatic/chapter-03-v1/evidence/focused/U03945-03946-main-notes.png"
+    ],
+    "remaining_uncertainty": "The exact operation or replacement scope of each numerical alternative is not inferred; tiny note delimiters remain unexpanded.",
+    "source_check": "C3-LAYER-03945",
+    "kind": "source_layer_separation"
+  },
+  {
+    "id": "C3-I-U03946",
+    "units": [
+      "U03946"
+    ],
+    "original_units": {
+      "U03946": "རྟགས་བཀོད་ལས་ཀྱི་བདུན་བརྒྱ་བཞི་ཡང་བཞིའོ། །"
+    },
+    "replacement_units": {
+      "U03946": "རྟགས་བཀོད་ལས་ཀྱི་བདུན་བཞིའོ། །"
+    },
+    "annotations": [
+      {
+        "text": "བརྒྱ་བཞི་ཡང",
+        "role": "source_variant_note",
+        "status": "Separate physical source layer; supplied fragment retained with the stated reading limits."
+      }
+    ],
+    "rationale": "The two main clauses give gsum gnyis and bdun bzhio in larger letters. The thirty and four-hundred alternatives are smaller, guided notes below. Preserve their supplied wording separately instead of adding those numbers into the main sequence.",
+    "evidence": [
+      "diplomatic/chapter-03-v1/evidence/E02/p150-native.png",
+      "diplomatic/chapter-03-v1/evidence/E02/manifest.json",
+      "diplomatic/chapter-03-v1/evidence/focused/U03945-03946-main-notes.png"
+    ],
+    "remaining_uncertainty": "The exact operation or replacement scope of each numerical alternative is not inferred; tiny note delimiters remain unexpanded.",
+    "source_check": "C3-LAYER-03945",
+    "kind": "source_layer_separation"
+  },
+  {
+    "id": "C3-I-U03952",
+    "units": [
+      "U03952"
+    ],
+    "original_units": {
+      "U03952": "གནས་གཞན་རྩ་བ་བརྩེ་བ་བཞི་ཡང་གཞི་དག་ལས། །"
+    },
+    "replacement_units": {
+      "U03952": "གནས་གཞན་རྩ་བ་གཞི་དག་ལས། །"
+    },
+    "annotations": [
+      {
+        "text": "བརྩེ་བ་བཞི་ཡང",
+        "role": "source_variant_note",
+        "status": "Separate physical source layer; supplied fragment retained with the stated reading limits."
+      }
+    ],
+    "rationale": "The four main clauses on row5 are continuous; four smaller guided notes occupy row6 among subsequent larger main wording. Separate the interleaved material while preserving both source transcripts and annotations. In particular do not duplicate spros pas in the main verse or replace its four-hundred-four with the smaller numerical alternative.",
+    "evidence": [
+      "diplomatic/chapter-03-v1/evidence/E02/p150-native.png",
+      "diplomatic/chapter-03-v1/evidence/E02/manifest.json",
+      "diplomatic/chapter-03-v1/evidence/focused/U03952-note.png",
+      "diplomatic/chapter-03-v1/evidence/focused/U03953-03954-notes.png",
+      "diplomatic/chapter-03-v1/evidence/focused/U03955-note.png"
+    ],
+    "remaining_uncertainty": "The faint brtse ba bzhi yang note and several compact note letters are retained as supplied quotations, not completely resolved print text. Numerical scope and semantic attachment remain qualified. The inherited target hint PDF151–152 was inaccurate: neighboring words establish the actual location as PDF150.",
+    "source_check": "C3-LAYER-03952",
+    "kind": "source_layer_separation",
+    "uncertain_units": [
+      "U03952"
+    ]
+  },
+  {
+    "id": "C3-I-U03953",
+    "units": [
+      "U03953"
+    ],
+    "original_units": {
+      "U03953": "ཚིག་ལ་རྟོག་པས་གནས་བརྒྱ་བརྒྱད་ཀྱང་གཉིས། །"
+    },
+    "replacement_units": {
+      "U03953": "ཚིག་ལ་རྟོག་པས་གནས་བརྒྱ་གཉིས། །"
+    },
+    "annotations": [
+      {
+        "text": "བརྒྱད་ཀྱང",
+        "role": "source_variant_note",
+        "status": "Separate physical source layer; supplied fragment retained with the stated reading limits."
+      }
+    ],
+    "rationale": "The four main clauses on row5 are continuous; four smaller guided notes occupy row6 among subsequent larger main wording. Separate the interleaved material while preserving both source transcripts and annotations. In particular do not duplicate spros pas in the main verse or replace its four-hundred-four with the smaller numerical alternative.",
+    "evidence": [
+      "diplomatic/chapter-03-v1/evidence/E02/p150-native.png",
+      "diplomatic/chapter-03-v1/evidence/E02/manifest.json",
+      "diplomatic/chapter-03-v1/evidence/focused/U03952-note.png",
+      "diplomatic/chapter-03-v1/evidence/focused/U03953-03954-notes.png",
+      "diplomatic/chapter-03-v1/evidence/focused/U03955-note.png"
+    ],
+    "remaining_uncertainty": "The faint brtse ba bzhi yang note and several compact note letters are retained as supplied quotations, not completely resolved print text. Numerical scope and semantic attachment remain qualified. The inherited target hint PDF151–152 was inaccurate: neighboring words establish the actual location as PDF150.",
+    "source_check": "C3-LAYER-03952",
+    "kind": "source_layer_separation",
+    "uncertain_units": [
+      "U03953"
+    ]
+  },
+  {
+    "id": "C3-I-U03954",
+    "units": [
+      "U03954"
+    ],
+    "original_units": {
+      "U03954": "དེ་ལས་སྤྲོས་པས་སྤྲོས་པས་བརྒྱ་གྱ་བཞི་ཡང་བཞི་བརྒྱ་བཞི། །"
+    },
+    "replacement_units": {
+      "U03954": "དེ་ལས་སྤྲོས་པས་བཞི་བརྒྱ་བཞི། །"
+    },
+    "annotations": [
+      {
+        "text": "སྤྲོས་པས་བརྒྱ་གྱ་བཞི་ཡང",
+        "role": "source_variant_note",
+        "status": "Separate physical source layer; supplied fragment retained with the stated reading limits."
+      }
+    ],
+    "rationale": "The four main clauses on row5 are continuous; four smaller guided notes occupy row6 among subsequent larger main wording. Separate the interleaved material while preserving both source transcripts and annotations. In particular do not duplicate spros pas in the main verse or replace its four-hundred-four with the smaller numerical alternative.",
+    "evidence": [
+      "diplomatic/chapter-03-v1/evidence/E02/p150-native.png",
+      "diplomatic/chapter-03-v1/evidence/E02/manifest.json",
+      "diplomatic/chapter-03-v1/evidence/focused/U03952-note.png",
+      "diplomatic/chapter-03-v1/evidence/focused/U03953-03954-notes.png",
+      "diplomatic/chapter-03-v1/evidence/focused/U03955-note.png"
+    ],
+    "remaining_uncertainty": "The faint brtse ba bzhi yang note and several compact note letters are retained as supplied quotations, not completely resolved print text. Numerical scope and semantic attachment remain qualified. The inherited target hint PDF151–152 was inaccurate: neighboring words establish the actual location as PDF150.",
+    "source_check": "C3-LAYER-03952",
+    "kind": "source_layer_separation",
+    "uncertain_units": [
+      "U03954"
+    ]
+  },
+  {
+    "id": "C3-I-U03955",
+    "units": [
+      "U03955"
+    ],
+    "original_units": {
+      "U03955": "ཁྱད་པར་ངེས་པའི་ངེས་པར་དེ་བཅུར་ཡང་རྩིས་བཅུར་འགྱུར། །"
+    },
+    "replacement_units": {
+      "U03955": "ཁྱད་པར་ངེས་པའི་རྩིས་བཅུར་འགྱུར། །"
+    },
+    "annotations": [
+      {
+        "text": "ངེས་པར་དེ་བཅུར་ཡང",
+        "role": "source_variant_note",
+        "status": "Separate physical source layer; supplied fragment retained with the stated reading limits."
+      }
+    ],
+    "rationale": "The four main clauses on row5 are continuous; four smaller guided notes occupy row6 among subsequent larger main wording. Separate the interleaved material while preserving both source transcripts and annotations. In particular do not duplicate spros pas in the main verse or replace its four-hundred-four with the smaller numerical alternative.",
+    "evidence": [
+      "diplomatic/chapter-03-v1/evidence/E02/p150-native.png",
+      "diplomatic/chapter-03-v1/evidence/E02/manifest.json",
+      "diplomatic/chapter-03-v1/evidence/focused/U03952-note.png",
+      "diplomatic/chapter-03-v1/evidence/focused/U03953-03954-notes.png",
+      "diplomatic/chapter-03-v1/evidence/focused/U03955-note.png"
+    ],
+    "remaining_uncertainty": "The faint brtse ba bzhi yang note and several compact note letters are retained as supplied quotations, not completely resolved print text. Numerical scope and semantic attachment remain qualified. The inherited target hint PDF151–152 was inaccurate: neighboring words establish the actual location as PDF150.",
+    "source_check": "C3-LAYER-03952",
+    "kind": "source_layer_separation",
+    "uncertain_units": [
+      "U03955"
+    ]
+  },
+  {
+    "id": "C3-I-U03976",
+    "units": [
+      "U03976"
+    ],
+    "original_units": {
+      "U03976": "གཉིས་འདུས་པ་ལས་ཤེས་ཁམས་གསུམ་ཡང་གསུམ་འབྱུང༌། །"
+    },
+    "replacement_units": {
+      "U03976": "གཉིས་འདུས་པ་ལས་ཤེས་གསུམ་འབྱུང༌། །"
+    },
+    "annotations": [
+      {
+        "text": "ཁམས་གསུམ་ཡང",
+        "role": "source_variant_note",
+        "status": "Separate physical source layer; supplied fragment retained with the stated reading limits."
+      }
+    ],
+    "rationale": "The larger phrase reads shes gsum byung. The smaller khams gsum yang is a guided note below shes, not part of that larger clause. Separate it without replacing knowing by realms on contextual grounds.",
+    "evidence": [
+      "diplomatic/chapter-03-v1/evidence/E02/p151-native.png",
+      "diplomatic/chapter-03-v1/evidence/E02/manifest.json",
+      "diplomatic/chapter-03-v1/evidence/focused/U03976-main-note.png"
+    ],
+    "remaining_uncertainty": "Fine punctuation and the full semantic replacement relation are not inferred. The inherited PDF152–153 hint was inaccurate; actual source location is PDF151.",
+    "source_check": "C3-LAYER-03976",
+    "kind": "source_layer_separation"
   }
 ]
