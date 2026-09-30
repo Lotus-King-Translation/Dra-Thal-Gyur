@@ -1,0 +1,292 @@
+{
+  "schema_version": 1,
+  "inventory_checks_passed": true,
+  "editorial_completion": false,
+  "original_anchor_count": 5466,
+  "unallocated_original_anchors": 0,
+  "source_gaps_or_overlaps": 0,
+  "source_characters": {
+    "A": 157288,
+    "B": 158030,
+    "S": 158418
+  },
+  "source_spans": {
+    "A": [
+      {
+        "chapter": 1,
+        "start": 0,
+        "end": 76376,
+        "path": "editions/adzom-2000/W1KG11703_7.txt"
+      },
+      {
+        "chapter": 2,
+        "start": 76376,
+        "end": 104719,
+        "path": "editions/adzom-2000/W1KG11703_7.txt"
+      },
+      {
+        "chapter": 3,
+        "start": 104719,
+        "end": 124275,
+        "path": "editions/adzom-2000/W1KG11703_7.txt"
+      },
+      {
+        "chapter": 4,
+        "start": 124275,
+        "end": 137182,
+        "path": "editions/adzom-2000/W1KG11703_7.txt"
+      },
+      {
+        "chapter": 5,
+        "start": 137182,
+        "end": 149604,
+        "path": "editions/adzom-2000/W1KG11703_7.txt"
+      },
+      {
+        "chapter": 6,
+        "start": 149604,
+        "end": 157288,
+        "path": "editions/adzom-2000/W1KG11703_7.txt"
+      }
+    ],
+    "B": [
+      {
+        "chapter": 1,
+        "start": 0,
+        "end": 76794,
+        "path": "editions/tharpaling-1983/W27491_7.txt"
+      },
+      {
+        "chapter": 2,
+        "start": 76794,
+        "end": 105153,
+        "path": "editions/tharpaling-1983/W27491_7.txt"
+      },
+      {
+        "chapter": 3,
+        "start": 105153,
+        "end": 124817,
+        "path": "editions/tharpaling-1983/W27491_7.txt"
+      },
+      {
+        "chapter": 4,
+        "start": 124817,
+        "end": 137817,
+        "path": "editions/tharpaling-1983/W27491_7.txt"
+      },
+      {
+        "chapter": 5,
+        "start": 137817,
+        "end": 150310,
+        "path": "editions/tharpaling-1983/W27491_7.txt"
+      },
+      {
+        "chapter": 6,
+        "start": 150310,
+        "end": 158030,
+        "path": "editions/tharpaling-1983/W27491_7.txt"
+      }
+    ],
+    "S": [
+      {
+        "chapter": 1,
+        "start": 0,
+        "end": 76999,
+        "path": "editions/sichuan-2016/W3CN7084_7.txt"
+      },
+      {
+        "chapter": 2,
+        "start": 76999,
+        "end": 105423,
+        "path": "editions/sichuan-2016/W3CN7084_7.txt"
+      },
+      {
+        "chapter": 3,
+        "start": 105423,
+        "end": 125127,
+        "path": "editions/sichuan-2016/W3CN7084_7.txt"
+      },
+      {
+        "chapter": 4,
+        "start": 125127,
+        "end": 138163,
+        "path": "editions/sichuan-2016/W3CN7084_7.txt"
+      },
+      {
+        "chapter": 5,
+        "start": 138163,
+        "end": 150681,
+        "path": "editions/sichuan-2016/W3CN7084_7.txt"
+      },
+      {
+        "chapter": 6,
+        "start": 150681,
+        "end": 158418,
+        "path": "editions/sichuan-2016/W3CN7084_7.txt"
+      }
+    ]
+  },
+  "parts": [
+    {
+      "chapter": 1,
+      "first_anchor": "U00001",
+      "last_anchor": "U02635",
+      "original_anchors": 2635,
+      "released": true,
+      "tag": "chapter-01-v1.0.0",
+      "release_commit": "cf8430ce08240f179fa1cadefebedb3ec2cc6f4c",
+      "closing_anchors_included": 0
+    },
+    {
+      "chapter": 2,
+      "first_anchor": "U02636",
+      "last_anchor": "U03622",
+      "original_anchors": 987,
+      "released": true,
+      "tag": "chapter-02-v1.0.0",
+      "release_commit": "6e9b4ed977103b6151bbd75784852a4a17865c90",
+      "closing_anchors_included": 0
+    },
+    {
+      "chapter": 3,
+      "first_anchor": "U03623",
+      "last_anchor": "U04305",
+      "original_anchors": 683,
+      "released": true,
+      "tag": "chapter-03-v1.0.0",
+      "release_commit": "17abe1f0e68069406f782a77e93dab10841b81fb",
+      "closing_anchors_included": 0
+    },
+    {
+      "chapter": 4,
+      "first_anchor": "U04306",
+      "last_anchor": "U04763",
+      "original_anchors": 458,
+      "released": true,
+      "tag": "chapter-04-v1.0.0",
+      "release_commit": "5abb397ab77a32b6e360d0a269ed92bf71b855e1",
+      "closing_anchors_included": 0
+    },
+    {
+      "chapter": 5,
+      "first_anchor": "U04764",
+      "last_anchor": "U05197",
+      "original_anchors": 434,
+      "released": true,
+      "tag": "chapter-05-v1.0.0",
+      "release_commit": "c4e03593e52939c52f989c6611e2ea4df967afb2",
+      "closing_anchors_included": 0
+    },
+    {
+      "chapter": 6,
+      "first_anchor": "U05198",
+      "last_anchor": "U05466",
+      "original_anchors": 269,
+      "released": false,
+      "tag": null,
+      "release_commit": null,
+      "closing_anchors_included": 18
+    }
+  ],
+  "opening_title_or_sign_anchors": [
+    "U00001",
+    "U00002",
+    "U00003",
+    "U00004",
+    "U00005",
+    "U00006"
+  ],
+  "closing_anchor_count": 18,
+  "restored_main_verses": 23,
+  "restorations": [
+    {
+      "chapter": 1,
+      "id": "A2000-C01-S01",
+      "verses": 3,
+      "after": "U01274",
+      "before": "U01275",
+      "assembled": true
+    },
+    {
+      "chapter": 1,
+      "id": "A2000-C01-S02",
+      "verses": 3,
+      "after": "U01882",
+      "before": "U01883",
+      "assembled": true
+    },
+    {
+      "chapter": 1,
+      "id": "A2000-C01-S03",
+      "verses": 3,
+      "after": "U02005",
+      "before": "U02006",
+      "assembled": true
+    },
+    {
+      "chapter": 1,
+      "id": "A2000-C01-S04",
+      "verses": 2,
+      "after": "U02187",
+      "before": "U02188",
+      "assembled": true
+    },
+    {
+      "chapter": 1,
+      "id": "A2000-C01-S05",
+      "verses": 1,
+      "after": "U02308",
+      "before": "U02309",
+      "assembled": true
+    },
+    {
+      "chapter": 1,
+      "id": "A2000-C01-S07",
+      "verses": 1,
+      "after": "U02308",
+      "before": "U02309",
+      "assembled": true
+    },
+    {
+      "chapter": 3,
+      "id": "A2000-C03-S01",
+      "verses": 3,
+      "after": "U03715",
+      "before": "U03716",
+      "assembled": true
+    },
+    {
+      "chapter": 4,
+      "id": "A2000-C04-S01",
+      "verses": 3,
+      "after": "U04328",
+      "before": "U04329",
+      "assembled": true
+    },
+    {
+      "chapter": 5,
+      "id": "A2000-C05-S01",
+      "verses": 2,
+      "after": "U05079",
+      "before": "U05080",
+      "assembled": true
+    },
+    {
+      "chapter": 6,
+      "id": "A2000-C06-S01",
+      "verses": 2,
+      "after": "U05382",
+      "before": "U05383",
+      "assembled": false
+    }
+  ],
+  "verified_unchanged_release_files": {
+    "diplomatic/release-v1/reading.json": "9568750ca9634ca9c5d55e4186b3b88d17550f81d51acd156ffc79dddd798cb6",
+    "diplomatic/chapter-02-v1/release/reading.json": "a7cfe92fb9bbb7015e3753c3b2db889e07d67c33a7b44a1990d5776a12595354",
+    "diplomatic/chapter-03-v1/release/reading.json": "ed7b329fb24e3f0a1bb3247d3bc8d1f7779741ba66638208edeb1b699fe02c77",
+    "diplomatic/chapter-04-v1/release/reading.json": "eba4d4e53693c4f3a0a5a8bea4c50113677fa625c0826c99c473d6da7fbf0b05",
+    "diplomatic/chapter-05-v1/release/reading.json": "ea1e4e129c0a525b9b8ba9d856ea6265199a41398d0f87068d8d9b0bec59e572"
+  },
+  "missing_additional_chapter": false,
+  "limits": "Inventory proves source-span and anchor accounting, not exhaustive scan proofreading or correctness of every glyph. Unreleased part and unassembled restorations remain explicitly identified."
+}
