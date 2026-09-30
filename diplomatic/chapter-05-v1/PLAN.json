@@ -1,0 +1,265 @@
+{
+  "schema_version": 1,
+  "chapter": 5,
+  "status": "approved_in_progress",
+  "baseline_commit": "8b90fe5f66feb7531301214991e881a41e816ab4",
+  "approval": "User: excellent, chapter 5 then. next. Continue bounded v1, with actual status report after every verified remote commit.",
+  "title": "Chapter 5 v1 — corrected Adzom-based reading with scoped comparative apparatus",
+  "scope": "Exact A/B/S and defined related W reference comparisons; targeted Adzom checks of boundaries, known source layers and material candidates; explicit decisions and five deliverables. No full scan proofread, exhaustive all-witness collation, unmarked normalization or reconstruction of an original.",
+  "original_anchor_range": [
+    "U04764",
+    "U05197"
+  ],
+  "original_anchor_count": 434,
+  "sources": {
+    "A": {
+      "path": "editions/adzom-2000/W1KG11703_7.txt",
+      "full_sha256": "18bd9ce65311e2d6d7c703f053a5c0aac347e899a75f8749a8f9afd891452edc",
+      "start": 137182,
+      "end": 149604,
+      "chapter_sha256": "a2027212d5e8f1fa89a69e6e85dbb8b98226237b4f5aee229b4b9591500b55eb",
+      "opening": "དེ་ནས་རང་བཞིན་རྣམ་དག་པས། །ཆོས་སྐུ་བརྗོད་པ་མེད་པ་ལས། །ཆོས་ཉིད་སྤྲོས་བྲལ་ནམ་མཁའ་ལས། །བརྗོད་དུ་མེད་པའི་གཞི་མ་ལས། །རང་བྱུང་བ",
+      "closing": "་ཚོམ་མེད། །སོ་སོའི་རྟགས་དང་ངེས་སྦྱོར་བའོ། །ཞེས་སྒྲ་ཐལ་འགྱུར་ཆེན་པོ་ཆོས་རྣམས་ཀུན་གྱི་རྩ་བ་ལས། ལྟ་སྒོམ་བཀོད་པ་གནས་པའི་རྩ་བ་བསྟན་པའི་ལེའུ་སྟེ་ལྔ་པའོ།། །།",
+      "following": "དེ་ནས་ཆོས་ཀུན་བརྗོད་མེད་ཀྱང༌། །སེམས་ཅན་འཁྲུལ་རྟོག་དུ་མ་ལས། །སྒྲ་ཚིག་ཐ་སྙད་གཞི་མར་ཡང་། །བཅོས་པ་མེད་པའ"
+    },
+    "B": {
+      "path": "editions/tharpaling-1983/W27491_7.txt",
+      "full_sha256": "df05454b1ca21d893188b30e00b7b463abe369afc6ec26d917354a7d6de464c3",
+      "start": 137817,
+      "end": 150310,
+      "chapter_sha256": "7c996e78cd6c31a958cc51c37f6fd590ed3e63409052bd4f421ee23fb4eaf58d",
+      "opening": "དེ་ནས་རང་བཞིན་རྣམ་དག་པས། །ཆོས་སྐུ་བརྗོད་པ་མེད་པ་ལས། །ཆོས་ཉིད་སྤྲོས་བྲལ་ནམ་མཁའ་ལས། །བརྗོད་དུ་མེད་པའི་གཞི་མ་ལས། །རང་བྱུང་བ",
+      "closing": " །སོ་སོའི་རྟགས་དང་ངེས་སྦྱོར་བའོ། །ཞེས་སྒྲ་ཐལ་འགྱུར་ཆེན་པོ་ཆོས་རྣམས་ཀུན་གྱི་རྩ་བ་ལས། ལྟ་སྒོམ་བཀོད་པ་གནས་པའི་རྩ་བ་བསྟན་པའི་ལེའུ་སྟེ་ལྔ་པའོ།། །།ཿམཐ་ཕགཿ །",
+      "following": "དེ་ནས་ཆོས་ཀུན་བརྗོད་མེད་ཀྱང༌། །སེམས་ཅན་འཁྲུལ་རྟོག་དུ་མ་ལས། །སྒྲ་ཚིག་ཐ་སྙད་གཞི་མར་ཡང་། །བཅོས་པ་མེད་པའ"
+    },
+    "S": {
+      "path": "editions/sichuan-2016/W3CN7084_7.txt",
+      "full_sha256": "2cf6b52889211579dff68f2e064032f40926de266242f111b3c94bb4efa47c57",
+      "start": 138163,
+      "end": 150681,
+      "chapter_sha256": "12dc880894dfc4b0ff5c153a22e064bbcd4e8310907d9d06c6d6b43c52b41481",
+      "opening": "དེ་ནས་རང་བཞིན་རྣམ་དག་པས། །ཆོས་སྐུ་བརྗོད་པ་མེད་པ་ལས། །ཆོས་ཉིད་སྤྲོས་བྲལ་ནམ་མཁའ་ལས། །བརྗོད་དུ་མེད་པའི་གཞི་མ་ལས། །རང་བྱུང་བ",
+      "closing": "་ཚོམ་མེད། །སོ་སོའི་རྟགས་དང་ངེས་སྦྱོར་བའོ། །ཞེས་སྒྲ་ཐལ་འགྱུར་ཆེན་པོ་ཆོས་རྣམས་ཀུན་གྱི་རྩ་བ་ལས། ལྟ་སྒོམ་བཀོད་པ་གནས་པའི་རྩ་བ་བསྟན་པའི་ལེའུ་སྟེ་ལྔ་པའོ།། །།",
+      "following": "དེ་ནས་ཆོས་ཀུན་བརྗོད་མེད་ཀྱང༌། །སེམས་ཅན་འཁྲུལ་རྟོག་དུ་མ་ལས། །སྒྲ་ཚིག་ཐ་སྙད་གཞི་མར་ཡང་། །བཅོས་པ་མེད་པའ"
+    }
+  },
+  "W": {
+    "path": "editions/adzom-wikisource/source.wikitext",
+    "sha256": "d2a6e95e8c65d28d7812efa79d65bd397a0796a9e00621430a86b5713b70ede8",
+    "lines_inclusive": [
+      4808,
+      5247
+    ],
+    "provenance": "editions/adzom-wikisource/PROVENANCE.json"
+  },
+  "boundary_policy": "A follows immutable anchors [137182,149604). B/S begin at the published Chapter4 endpoints and stop immediately before the Chapter6 incipit de nas chos kun brjod med kyang. All intervening witness-specific signs and text remain in their own quotations. W includes @5 and excludes @6. This allocation is not physical punctuation certification.",
+  "no_general_comparison_witness_reading": true,
+  "exhaustive_witness_collation": false,
+  "prior_scan_consultation": "Translation notes provide locator leads and hypotheses, not inherited complete source proofreading.",
+  "frozen_locus_ids": [
+    "L5-0001",
+    "L5-0002",
+    "L5-0003",
+    "L5-0004",
+    "L5-0005",
+    "L5-0006",
+    "L5-0007",
+    "L5-0008",
+    "L5-0009",
+    "L5-0010",
+    "L5-0011",
+    "L5-0012",
+    "L5-0013",
+    "L5-0014",
+    "L5-0015",
+    "L5-0016",
+    "L5-0017",
+    "L5-0018",
+    "L5-0019",
+    "L5-0020",
+    "L5-0021",
+    "L5-0022",
+    "L5-0023",
+    "L5-0024",
+    "L5-0025",
+    "L5-0026",
+    "L5-0027"
+  ],
+  "frozen_W_ids": [
+    "W-C05-001",
+    "W-C05-002",
+    "W-C05-003",
+    "W-C05-004",
+    "W-C05-005",
+    "W-C05-006",
+    "W-C05-007",
+    "W-C05-008",
+    "W-C05-009",
+    "W-C05-010",
+    "W-C05-011",
+    "W-C05-012",
+    "W-C05-013",
+    "W-C05-014",
+    "W-C05-015",
+    "W-C05-016",
+    "W-C05-017",
+    "W-C05-018",
+    "W-C05-019",
+    "W-C05-020",
+    "W-C05-021",
+    "W-C05-022",
+    "W-C05-023",
+    "W-C05-024",
+    "W-C05-025",
+    "W-C05-026",
+    "W-C05-027",
+    "W-C05-028",
+    "W-C05-029",
+    "W-C05-030",
+    "W-C05-031",
+    "W-C05-032",
+    "W-C05-033",
+    "W-C05-034",
+    "W-C05-035",
+    "W-C05-036",
+    "W-C05-037",
+    "W-C05-038",
+    "W-C05-039",
+    "W-C05-040"
+  ],
+  "source_check_targets": [
+    {
+      "id": "C5-START",
+      "units": [
+        "U04764",
+        "U04765"
+      ],
+      "candidate_pages": [
+        179
+      ],
+      "question": "Confirm the new opening after Chapter4 colophon without reallocating its compact graphic."
+    },
+    {
+      "id": "C5-END",
+      "units": [
+        "U05196",
+        "U05197"
+      ],
+      "candidate_pages": [
+        195
+      ],
+      "question": "Confirm the fifth colophon and boundary with Chapter6; preserve undecoded graphic as non-main."
+    },
+    {
+      "id": "C5-HEADING-04793",
+      "units": [
+        "U04793"
+      ],
+      "candidate_pages": [
+        180
+      ],
+      "question": "Distinguish the first reply heading from the adjoining main verse."
+    },
+    {
+      "id": "C5-READING-04801",
+      "units": [
+        "U04801"
+      ],
+      "candidate_pages": [
+        180,
+        181
+      ],
+      "question": "Check rtogs versus rtog lettering; do not normalize to an expected characterization."
+    },
+    {
+      "id": "C5-READING-04822",
+      "units": [
+        "U04822"
+      ],
+      "candidate_pages": [
+        181,
+        182
+      ],
+      "question": "Check the markedly different B clause against actual Adzom, without copying a transcript majority."
+    },
+    {
+      "id": "C5-READING-04892",
+      "units": [
+        "U04892"
+      ],
+      "candidate_pages": [
+        183,
+        184
+      ],
+      "question": "Check mig versus B/S mgo in the main-text list."
+    },
+    {
+      "id": "C5-READING-04923",
+      "units": [
+        "U04923"
+      ],
+      "candidate_pages": [
+        184
+      ],
+      "question": "Check skyur versus S sgyur without grammatical emendation."
+    },
+    {
+      "id": "C5-LAYER-04951",
+      "units": [
+        "U04951"
+      ],
+      "candidate_pages": [
+        185
+      ],
+      "question": "Determine the physical role of the summary-section notice."
+    },
+    {
+      "id": "C5-RESTORE-05079",
+      "units": [
+        "U05079",
+        "U05080"
+      ],
+      "candidate_pages": [
+        190
+      ],
+      "question": "Check two B/S/W additional verses against Adzom and preserve source order."
+    },
+    {
+      "id": "C5-LAYER-05094",
+      "units": [
+        "U05094"
+      ],
+      "candidate_pages": [
+        190,
+        191
+      ],
+      "question": "Separate mtshan ma bzo yi yang byung only if source typography supports it."
+    },
+    {
+      "id": "C5-LAYER-05106",
+      "units": [
+        "U05106"
+      ],
+      "candidate_pages": [
+        191
+      ],
+      "question": "Distinguish the ye gzhi yang note from main yas gzhi."
+    },
+    {
+      "id": "C5-LAYER-05132",
+      "units": [
+        "U05132"
+      ],
+      "candidate_pages": [
+        191,
+        192
+      ],
+      "question": "Separate the reported brten pai gzhi ma dang yang byung reading from the main clause."
+    }
+  ],
+  "collation_hashes": {
+    "collation.json": "2ff44e13658741d01b7af3515a279e615fe66094b27ac032501c5ee6695933e2",
+    "wikisource.json": "b0177c7e4df9b06adfa850a74ed1c035899f1d7021f923372e3df160bf497cb5"
+  },
+  "next_step": "Inspect the 12 fixed source targets, document all 27 passage and 40 W decisions, assemble five deliverables and pass final tests/signoff/publication. No new general witness queue."
+}
