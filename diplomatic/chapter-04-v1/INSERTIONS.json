@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": "A2000-C04-S01",
+    "kind": "main_text_restoration",
+    "after_unit": "U04328",
+    "before_unit": "U04329",
+    "anchor_sequence": 1,
+    "tibetan_lines": [
+      "ཚད་ཕེབས་ལུས་ནི་ཅི་ལྟར་འགྱུར།",
+      "སེམས་ནི་གང་དང་གང་ལྟ་བུ།",
+      "འབྲེལ་པ་ཆོད་པའི་ཆོས་ཉིད་གང།"
+    ],
+    "rationale": "Three larger main-text question verses follow U04328 and precede U04329. They are present in the governing Adzom print, not merely in B/S/W.",
+    "evidence": [
+      "diplomatic/chapter-04-v1/evidence/E01/manifest.json",
+      "diplomatic/chapter-04-v1/evidence/E01/p164-native.png",
+      "diplomatic/chapter-04-v1/evidence/focused/S01-row3-left.png",
+      "diplomatic/chapter-04-v1/evidence/focused/S01-row3-right.png"
+    ],
+    "source_check": "C4-RESTORE-04328",
+    "remaining_uncertainty": "Restored lineation and single shads are editorial readable delimiters; complete physical punctuation is not certified.",
+    "punctuation_policy": "Single editorial shad per restored verse; exact B/S punctuation remains in the apparatus, not normalized into the source quotation."
+  }
+]

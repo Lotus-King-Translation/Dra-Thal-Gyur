@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "id": "C4-I-U04312",
+    "units": [
+      "U04312"
+    ],
+    "original_units": {
+      "U04312": "མྱང་འདས་ལམ་ལ་གཟེངས་ཀྱང་བསྟོད། །"
+    },
+    "replacement_units": {
+      "U04312": "མྱང་འདས་ལམ་ལ་བསྟོད། །"
+    },
+    "annotations": [
+      {
+        "text": "གཟེངས་ཀྱང",
+        "role": "source_variant_note",
+        "status": "compact in-row alternate; precise attachment qualified"
+      }
+    ],
+    "rationale": "The compact intervening gzengs kyang is treated as a reported alternate rather than a second main predicate. It remains preserved as a separate source note; the main reading joins lam la to bstod.",
+    "evidence": [
+      "diplomatic/chapter-04-v1/evidence/E01/manifest.json",
+      "diplomatic/chapter-04-v1/evidence/E01/p163-native.png",
+      "diplomatic/chapter-04-v1/evidence/focused/U04312-full-height.png"
+    ],
+    "source_check": "C4-LAYER-04312",
+    "remaining_uncertainty": "The in-row compact wording is not as sharply separated as an interlinear note. Its exact physical/functional attachment remains qualified in v1, so the affected anchor is explicitly flagged. No claim that the alternative was never intended as a correction.",
+    "uncertain_units": [
+      "U04312"
+    ]
+  }
+]

@@ -1,4 +1,126 @@
 {
   "scope": "Bounded source checks, not whole-page collation",
-  "items": []
+  "items": [
+    {
+      "id": "C4-START",
+      "units": [
+        "U04306",
+        "U04307"
+      ],
+      "pdf_page": 163,
+      "physical_row": "3–4",
+      "approx_native_bounds": [
+        3260,
+        490,
+        5310,
+        755
+      ],
+      "observed_sequence": "དེ་ནས་ལྷ་དབང་དགའ་བྱེད་ཀྱིས ... སྟོན་པ་ཁྱབ་བདག་ཆེན་པོ་ལ",
+      "rationale": "The opening follows the third-chapter colophon and compact boundary graphic; the next clause identifies this as Chapter4 rather than the similar Chapter3 opening.",
+      "remaining_uncertainty": "The preceding compact graphic remains recorded with Chapter3; it is not a new root verse or a newly deciphered title here.",
+      "evidence": [
+        "diplomatic/chapter-04-v1/evidence/E01/manifest.json",
+        "diplomatic/chapter-04-v1/evidence/E01/p163-native.png"
+      ],
+      "review_method": "Direct coordinator reading of displayed native context and lossless crops; known candidates visible; not an independent human certification."
+    },
+    {
+      "id": "C4-RESTORE-04328",
+      "units": [
+        "U04328",
+        "U04329"
+      ],
+      "pdf_page": 164,
+      "physical_row": 3,
+      "approx_native_bounds": [
+        620,
+        525,
+        4580,
+        775
+      ],
+      "observed_sequence": [
+        "ཚད་ཕེབས་ལུས་ནི་ཅི་ལྟར་འགྱུར",
+        "སེམས་ནི་གང་དང་གང་ལྟ་བུ",
+        "འབྲེལ་པ་ཆོད་པའི་ཆོས་ཉིད་གང"
+      ],
+      "rationale": "Three larger main-text question verses follow U04328 and precede U04329. They are present in the governing Adzom print, not merely in B/S/W.",
+      "remaining_uncertainty": "Restored lineation and single shads are editorial readable delimiters; complete physical punctuation is not certified.",
+      "evidence": [
+        "diplomatic/chapter-04-v1/evidence/E01/manifest.json",
+        "diplomatic/chapter-04-v1/evidence/E01/p164-native.png",
+        "diplomatic/chapter-04-v1/evidence/focused/S01-row3-left.png",
+        "diplomatic/chapter-04-v1/evidence/focused/S01-row3-right.png"
+      ],
+      "review_method": "Direct coordinator reading of displayed native context and lossless crops; known candidates visible; not an independent human certification."
+    },
+    {
+      "id": "C4-LAYER-04312",
+      "units": [
+        "U04312"
+      ],
+      "pdf_page": 163,
+      "physical_row": 5,
+      "approx_native_bounds": [
+        920,
+        675,
+        2320,
+        975
+      ],
+      "observed_sequence": "མྱང་འདས་ལམ་ལ ... བསྟོད; compact གཟེངས་ཀྱང between la and bstod",
+      "rationale": "The compact intervening gzengs kyang is treated as a reported alternate rather than a second main predicate. It remains preserved as a separate source note; the main reading joins lam la to bstod.",
+      "remaining_uncertainty": "The in-row compact wording is not as sharply separated as an interlinear note. Its exact physical/functional attachment remains qualified in v1, so the affected anchor is explicitly flagged. No claim that the alternative was never intended as a correction.",
+      "evidence": [
+        "diplomatic/chapter-04-v1/evidence/E01/manifest.json",
+        "diplomatic/chapter-04-v1/evidence/E01/p163-native.png",
+        "diplomatic/chapter-04-v1/evidence/focused/U04312-full-height.png"
+      ],
+      "review_method": "Direct coordinator reading of displayed native context and lossless crops; known candidates visible; not an independent human certification."
+    },
+    {
+      "id": "C4-HEADING-04344",
+      "units": [
+        "U04344"
+      ],
+      "pdf_page": 164,
+      "physical_row": 6,
+      "approx_native_bounds": [
+        3650,
+        850,
+        5200,
+        1130
+      ],
+      "observed_sequence": "... འགྱུ་བ་མེད ... ཞུས་དོན་དང་པོ ... གནས་པའི་ཆོས་ཉིད",
+      "rationale": "The compact first-reply label separates the introductory speech from the following gnas pai chos nyid clause. Display it as a heading without adding it as a root verse.",
+      "remaining_uncertainty": "Retain the supplied heading letters and delimiter. This local inspection does not certify the glyphs or punctuation of all other headings.",
+      "evidence": [
+        "diplomatic/chapter-04-v1/evidence/E01/manifest.json",
+        "diplomatic/chapter-04-v1/evidence/E01/p164-native.png",
+        "diplomatic/chapter-04-v1/evidence/focused/U04344-full-height.png"
+      ],
+      "review_method": "Direct coordinator reading of displayed native context and lossless crops; known candidates visible; not an independent human certification."
+    },
+    {
+      "id": "C4-READING-04394",
+      "units": [
+        "U04394"
+      ],
+      "pdf_page": 166,
+      "physical_row": 4,
+      "approx_native_bounds": [
+        1760,
+        650,
+        3620,
+        840
+      ],
+      "observed_sequence": "རྣལ་མ་སོ་མ་ལྷུག་པ་སྟེ ... གྱི་ནར་གནས་པ་ཁོ་ན་དང",
+      "rationale": "Retain the printed gyi nar sequence. The unfamiliar expression is not replaced with a more expected idiom; neighboring rnal ma and kho na dang establish the locus.",
+      "remaining_uncertainty": "The expression remains semantically unresolved here. This does not itself establish that its clearly preserved transcript letters are erroneous. Fine sign inventory is outside this check.",
+      "evidence": [
+        "diplomatic/chapter-04-v1/evidence/E01/manifest.json",
+        "diplomatic/chapter-04-v1/evidence/E01/p166-native.png",
+        "diplomatic/chapter-04-v1/evidence/focused/U04394-gyi-nar.png"
+      ],
+      "review_method": "Direct coordinator reading of displayed native context and lossless crops; known candidates visible; not an independent human certification."
+    }
+  ]
 }
