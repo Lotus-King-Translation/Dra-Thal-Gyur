@@ -1353,6 +1353,532 @@
         "diplomatic/chapter-04-v1/INSERTIONS.json"
       ],
       "new_scan_claim": false
+    },
+    "W-C04-029": {
+      "status": "retain_selected_base_and_record_reference",
+      "rationale": "Retain U04503 khril pa rather than W khrul ba. Both the vowel and pa/ba difference remain explicit, without selecting a more familiar expression.",
+      "source_units": [
+        "U04503"
+      ],
+      "source_before": "U04502",
+      "source_after": "U04504",
+      "W_lines": [
+        4546
+      ],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/wikisource.json",
+        "diplomatic/chapter-04-v1/W-REVIEW.md",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C04-030": {
+      "status": "retain_selected_base_and_record_reference",
+      "rationale": "Keep U04509 as the twelfth reply heading; its absence in W does not warrant omitting the Adzom label.",
+      "source_units": [
+        "U04509"
+      ],
+      "source_before": "U04508",
+      "source_after": "U04510",
+      "W_lines": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/wikisource.json",
+        "diplomatic/chapter-04-v1/W-REVIEW.md",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C04-031": {
+      "status": "retain_selected_base_and_record_reference",
+      "rationale": "Retain U04514 khril pas and U04515 rdos pa rather than the W bas/ba forms. These are preserved orthographic differences, not authority for global normalization.",
+      "source_units": [
+        "U04514",
+        "U04515"
+      ],
+      "source_before": "U04513",
+      "source_after": "U04516",
+      "W_lines": [
+        4556,
+        4557
+      ],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/wikisource.json",
+        "diplomatic/chapter-04-v1/W-REVIEW.md",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C04-032": {
+      "status": "retain_selected_base_and_record_reference",
+      "rationale": "Accept the scan-supported main ageg par snang at U04519 while keeping adegs kyang byung as the separately preserved smaller note. W omits that note; the role decision rests on native layout, and the note-letter uncertainty remains.",
+      "source_units": [
+        "U04519"
+      ],
+      "source_before": "U04518",
+      "source_after": "U04520",
+      "W_lines": [
+        4562
+      ],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/wikisource.json",
+        "diplomatic/chapter-04-v1/W-REVIEW.md",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C04-033": {
+      "status": "retain_selected_base_and_record_reference",
+      "rationale": "Retain U04521 phreng ba rather than W phreng bar. The W suffix remains quoted without being imported into the base.",
+      "source_units": [
+        "U04521"
+      ],
+      "source_before": "U04520",
+      "source_after": "U04522",
+      "W_lines": [
+        4564
+      ],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/wikisource.json",
+        "diplomatic/chapter-04-v1/W-REVIEW.md",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C04-034": {
+      "status": "retain_selected_base_and_record_reference",
+      "rationale": "Retain U04525 rang lus and phabs, against W rang las and phebs. The latter shares its vowel with B/S, but transcript agreement is not a source correction.",
+      "source_units": [
+        "U04525"
+      ],
+      "source_before": "U04524",
+      "source_after": "U04526",
+      "W_lines": [
+        4568
+      ],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/wikisource.json",
+        "diplomatic/chapter-04-v1/W-REVIEW.md",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C04-035": {
+      "status": "retain_selected_base_and_record_reference",
+      "rationale": "Keep the thirteenth source heading U04527 although W has no label. Do not count its absence as a missing root clause.",
+      "source_units": [
+        "U04527"
+      ],
+      "source_before": "U04526",
+      "source_after": "U04528",
+      "W_lines": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/wikisource.json",
+        "diplomatic/chapter-04-v1/W-REVIEW.md",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C04-036": {
+      "status": "retain_selected_base_and_record_reference",
+      "rationale": "Retain U04529 mngon par and U04530 ring. W mngon pa and rang remain exact reference readings; neither lost suffix nor changed vowel is adopted.",
+      "source_units": [
+        "U04529",
+        "U04530"
+      ],
+      "source_before": "U04528",
+      "source_after": "U04531",
+      "W_lines": [
+        4571,
+        4572
+      ],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/wikisource.json",
+        "diplomatic/chapter-04-v1/W-REVIEW.md",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C04-037": {
+      "status": "retain_selected_base_and_record_reference",
+      "rationale": "Keep U04539 as the fourteenth heading, without importing its absence in the website into the base.",
+      "source_units": [
+        "U04539"
+      ],
+      "source_before": "U04538",
+      "source_after": "U04540",
+      "W_lines": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/wikisource.json",
+        "diplomatic/chapter-04-v1/W-REVIEW.md",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C04-038": {
+      "status": "retain_selected_base_and_record_reference",
+      "rationale": "Keep the fifteenth heading U04557 and its exact source wording. W omission does not prove a printed omission.",
+      "source_units": [
+        "U04557"
+      ],
+      "source_before": "U04556",
+      "source_after": "U04558",
+      "W_lines": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/wikisource.json",
+        "diplomatic/chapter-04-v1/W-REVIEW.md",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C04-039": {
+      "status": "retain_selected_base_and_record_reference",
+      "rationale": "Retain U04562 rlu with its explicit source-reading uncertainty. W supplies rlung, but the bounded native inspection did not securely establish adding nga. Do not convert that reference suggestion into a resolved correction.",
+      "source_units": [
+        "U04562"
+      ],
+      "source_before": "U04561",
+      "source_after": "U04563",
+      "W_lines": [
+        4603
+      ],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/wikisource.json",
+        "diplomatic/chapter-04-v1/W-REVIEW.md",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C04-040": {
+      "status": "retain_selected_base_and_record_reference",
+      "rationale": "Retain U04564 grangs rather than W gangs. Preserve the missing W ra as a reference difference, not a silent change to the number clause.",
+      "source_units": [
+        "U04564"
+      ],
+      "source_before": "U04563",
+      "source_after": "U04565",
+      "W_lines": [
+        4605
+      ],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/wikisource.json",
+        "diplomatic/chapter-04-v1/W-REVIEW.md",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C04-041": {
+      "status": "retain_selected_base_and_record_reference",
+      "rationale": "Keep the sixteenth heading U04568. It remains a distinct heading despite its absence in the related W transcription.",
+      "source_units": [
+        "U04568"
+      ],
+      "source_before": "U04567",
+      "source_after": "U04569",
+      "W_lines": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/wikisource.json",
+        "diplomatic/chapter-04-v1/W-REVIEW.md",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C04-042": {
+      "status": "retain_selected_base_and_record_reference",
+      "rationale": "Retain final dengs in U04573 rather than W dwangs or B dangs. Keep all three source-specific forms visible without selecting a more expected predicate.",
+      "source_units": [
+        "U04573"
+      ],
+      "source_before": "U04572",
+      "source_after": "U04574",
+      "W_lines": [
+        4613
+      ],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/wikisource.json",
+        "diplomatic/chapter-04-v1/W-REVIEW.md",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C04-043": {
+      "status": "retain_selected_base_and_record_reference",
+      "rationale": "Retain U04579 zad, not W brang. Do not rewrite the exhausted-body clause from the unrelated-looking reference word or silently repair that quotation.",
+      "source_units": [
+        "U04579"
+      ],
+      "source_before": "U04578",
+      "source_after": "U04580",
+      "W_lines": [
+        4620
+      ],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/wikisource.json",
+        "diplomatic/chapter-04-v1/W-REVIEW.md",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C04-044": {
+      "status": "retain_selected_base_and_record_reference",
+      "rationale": "Keep the seventeenth heading U04584. The absence in W changes neither its source role nor its position.",
+      "source_units": [
+        "U04584"
+      ],
+      "source_before": "U04583",
+      "source_after": "U04585",
+      "W_lines": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/wikisource.json",
+        "diplomatic/chapter-04-v1/W-REVIEW.md",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C04-045": {
+      "status": "retain_selected_base_and_record_reference",
+      "rationale": "Keep the eighteenth heading U04594 despite the heading omission in W. The root clause remains separate from the label.",
+      "source_units": [
+        "U04594"
+      ],
+      "source_before": "U04593",
+      "source_after": "U04595",
+      "W_lines": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/wikisource.json",
+        "diplomatic/chapter-04-v1/W-REVIEW.md",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C04-046": {
+      "status": "retain_selected_base_and_record_reference",
+      "rationale": "Retain U04601 bsgyur rather than W sbyar. Both readings are recorded, without deciding the source from an interpretive preference for transformation or joining.",
+      "source_units": [
+        "U04601"
+      ],
+      "source_before": "U04600",
+      "source_after": "U04602",
+      "W_lines": [
+        4640
+      ],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/wikisource.json",
+        "diplomatic/chapter-04-v1/W-REVIEW.md",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C04-047": {
+      "status": "retain_selected_base_and_record_reference",
+      "rationale": "Keep the nineteenth heading U04608. The missing website label is not evidence for removing the printed-source heading.",
+      "source_units": [
+        "U04608"
+      ],
+      "source_before": "U04607",
+      "source_after": "U04609",
+      "W_lines": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/wikisource.json",
+        "diplomatic/chapter-04-v1/W-REVIEW.md",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C04-048": {
+      "status": "retain_selected_base_and_record_reference",
+      "rationale": "Preserve the full twentieth heading nyi shu tham pa at U04620. Do not abbreviate it or drop it to match W.",
+      "source_units": [
+        "U04620"
+      ],
+      "source_before": "U04619",
+      "source_after": "U04621",
+      "W_lines": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/wikisource.json",
+        "diplomatic/chapter-04-v1/W-REVIEW.md",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C04-049": {
+      "status": "retain_selected_base_and_record_reference",
+      "rationale": "Keep the twenty-first heading U04645 as source structure. W omission is explicitly reference-level evidence, not manuscript collation credit.",
+      "source_units": [
+        "U04645"
+      ],
+      "source_before": "U04644",
+      "source_after": "U04646",
+      "W_lines": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/wikisource.json",
+        "diplomatic/chapter-04-v1/W-REVIEW.md",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C04-050": {
+      "status": "retain_selected_base_and_record_reference",
+      "rationale": "Retain U04669 gdeng against W gding, without normalizing its vowel to a preferred terminology spelling.",
+      "source_units": [
+        "U04669"
+      ],
+      "source_before": "U04668",
+      "source_after": "U04670",
+      "W_lines": [
+        4708
+      ],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/wikisource.json",
+        "diplomatic/chapter-04-v1/W-REVIEW.md",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C04-051": {
+      "status": "retain_selected_base_and_record_reference",
+      "rationale": "Retain U04694 dzin pa med pai rather than W dzin pai med pai. The extra W genitive remains quoted; it does not authorize a change to the source syntax.",
+      "source_units": [
+        "U04694"
+      ],
+      "source_before": "U04693",
+      "source_after": "U04695",
+      "W_lines": [
+        4734
+      ],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/wikisource.json",
+        "diplomatic/chapter-04-v1/W-REVIEW.md",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C04-052": {
+      "status": "retain_selected_base_and_record_reference",
+      "rationale": "Retain U04703 nam mkhar and its explicitly qualified supplied punctuation. W has nam mkha and an isolated following line chos. Preserve that W line and its position; do not insert chos as root text or claim it is a source omission without a corresponding scan finding.",
+      "source_units": [
+        "U04703"
+      ],
+      "source_before": "U04702",
+      "source_after": "U04704",
+      "W_lines": [
+        4743,
+        4744
+      ],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/wikisource.json",
+        "diplomatic/chapter-04-v1/W-REVIEW.md",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C04-053": {
+      "status": "retain_selected_base_and_record_reference",
+      "rationale": "Retain U04706 khrul par and zad rather than W khrul pa and thad. Preserve both reference changes without semantic or orthographic repair.",
+      "source_units": [
+        "U04706"
+      ],
+      "source_before": "U04705",
+      "source_after": "U04707",
+      "W_lines": [
+        4747
+      ],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/wikisource.json",
+        "diplomatic/chapter-04-v1/W-REVIEW.md",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C04-054": {
+      "status": "retain_selected_base_and_record_reference",
+      "rationale": "Retain U04709 ngo bo, not W ro bo. The reference spelling stays exact and is not used to replace the Adzom initial syllable.",
+      "source_units": [
+        "U04709"
+      ],
+      "source_before": "U04708",
+      "source_after": "U04710",
+      "W_lines": [
+        4750
+      ],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/wikisource.json",
+        "diplomatic/chapter-04-v1/W-REVIEW.md",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C04-055": {
+      "status": "retain_selected_base_and_record_reference",
+      "rationale": "Keep the Chapter4 colophon and its qualified closing signs. W divides the same normalized wording over two lines; that lineation is not a lexical variant or evidence that all physical punctuation agrees.",
+      "source_units": [
+        "U04763"
+      ],
+      "source_before": "U04762",
+      "source_after": null,
+      "W_lines": [
+        4806,
+        4807
+      ],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/wikisource.json",
+        "diplomatic/chapter-04-v1/W-REVIEW.md",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "new_scan_claim": false
     }
   },
   "source_checks": {
