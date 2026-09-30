@@ -1,0 +1,295 @@
+{
+  "schema_version": 1,
+  "chapter": 6,
+  "status": "approved_in_progress",
+  "baseline_commit": "5357a9a47c211c94dac6003196afc605d36e61f8",
+  "approval": "User authorized Chapter six, colophon and remaining parts, using the bounded v1 process and status with every verified commit.",
+  "title": "Chapter 6 and closing material — corrected Adzom-based bounded v1",
+  "scope": "Exact A/B/S and defined related W reference comparisons; targeted Adzom checks of boundaries, known source layers and material candidates; explicit decisions and five deliverables. No full scan proofread, exhaustive all-witness collation, unmarked normalization or reconstruction of an original.",
+  "original_anchor_range": [
+    "U05198",
+    "U05466"
+  ],
+  "original_anchor_count": 269,
+  "sources": {
+    "A": {
+      "path": "editions/adzom-2000/W1KG11703_7.txt",
+      "full_sha256": "18bd9ce65311e2d6d7c703f053a5c0aac347e899a75f8749a8f9afd891452edc",
+      "start": 149604,
+      "end": 157288,
+      "chapter_sha256": "c80cfd72097d4078f2a6936fdbe120f0819c237cdda913b8bc9b15cf5c3f7dcf",
+      "opening": "དེ་ནས་ཆོས་ཀུན་བརྗོད་མེད་ཀྱང༌། །སེམས་ཅན་འཁྲུལ་རྟོག་དུ་མ་ལས། །སྒྲ་ཚིག་ཐ་སྙད་གཞི་མར་ཡང་། །བཅོས་པ་མེད་པའི་ནམ་མཁའ་ལས། །ཚིག་འབྱུང་སྟོན་པའི་ཁྱད་པར་",
+      "closing": "ས་སྲུངས་ཤིག །ས་མ་ཡ། སོ་ཕག །ཨག་ཐམ། དཔལ་ལྡན་མགོན་པོ་ནག་པོ་ཁྱོད་ལ་གཏད། སྣོད་མེད་པ་ལ་བྱིན་ན་དམ་ཚིག་གི་ཆད་པ་ཆོད་ཅིག །ས་མ་ཡ། རྒྱ་རྒྱ་རྒྱ། ཐལ་འགྱུར་རྒྱུད་ལ་མ་བུ་བདུན།། དགེའོ་དགེའོ་དགེའོ།།",
+      "following": ""
+    },
+    "B": {
+      "path": "editions/tharpaling-1983/W27491_7.txt",
+      "full_sha256": "df05454b1ca21d893188b30e00b7b463abe369afc6ec26d917354a7d6de464c3",
+      "start": 150310,
+      "end": 158030,
+      "chapter_sha256": "81d94d23b001187341e65f4ee6c123c186f8ae4318358d60a6172fb3b2b8b952",
+      "opening": "དེ་ནས་ཆོས་ཀུན་བརྗོད་མེད་ཀྱང༌། །སེམས་ཅན་འཁྲུལ་རྟོག་དུ་མ་ལས། །སྒྲ་ཚིག་ཐ་སྙད་གཞི་མར་ཡང་། །བཅོས་པ་མེད་པའི་ནམ་མཁའ་ལས། །ཚིག་འབྱུང་སྟོན་པའི་ཁྱད་པར་",
+      "closing": "རྒྱལ་མོ་རག་གདོང་མས་སྲུངས་ཤིག །ས་མ་ཡ། སོ་ཕག །ཨག་ཐམ། དཔལ་ལྡན་མགོན་པོ་ནག་པོ་ཁྱོད་ལ་གཏད། སྣོད་མེད་པ་ལ་བྱིན་ན་དམ་ཚིག་གི་ཆད་པ་ཆོད་ཅིག །ས་མ་ཡ། རྒྱ་རྒྱ་རྒྱ། ཐལ་འགྱུར་རྒྱུད་ལ་མ་བུ་བདུན།། །།",
+      "following": ""
+    },
+    "S": {
+      "path": "editions/sichuan-2016/W3CN7084_7.txt",
+      "full_sha256": "2cf6b52889211579dff68f2e064032f40926de266242f111b3c94bb4efa47c57",
+      "start": 150681,
+      "end": 158418,
+      "chapter_sha256": "73d29aa49bf5e376bb1d7a9fb0c561e7e93ba47297e0b9cde69435e351108e42",
+      "opening": "དེ་ནས་ཆོས་ཀུན་བརྗོད་མེད་ཀྱང༌། །སེམས་ཅན་འཁྲུལ་རྟོག་དུ་མ་ལས། །སྒྲ་ཚིག་ཐ་སྙད་གཞི་མར་ཡང་། །བཅོས་པ་མེད་པའི་ནམ་མཁའ་ལས། །ཚིག་འབྱུང་སྟོན་པའི་ཁྱད་པར་",
+      "closing": "རྒྱལ་མོ་རག་གདོང་མས་སྲུངས་ཤིག །ས་མ་ཡ། སོ་ཕག །ཨག་ཐམ། དཔལ་ལྡན་མགོན་པོ་ནག་པོ་ཁྱོད་ལ་གཏད། སྣོད་མེད་པ་ལ་བྱིན་ན་དམ་ཚིག་གི་ཆད་པ་ཆོད་ཅིག །ས་མ་ཡ། རྒྱ་རྒྱ་རྒྱ། ཐལ་འགྱུར་རྒྱུད་ལ་མ་བུ་བདུན།། །།",
+      "following": ""
+    }
+  },
+  "W": {
+    "path": "editions/adzom-wikisource/source.wikitext",
+    "sha256": "d2a6e95e8c65d28d7812efa79d65bd397a0796a9e00621430a86b5713b70ede8",
+    "lines_inclusive": [
+      5248,
+      5526
+    ],
+    "provenance": "editions/adzom-wikisource/PROVENANCE.json"
+  },
+  "boundary_policy": "Begin at the exact released Chapter5 endpoints. Include all remaining A/B/S characters through EOF. Chapter6 ends at U05448; all eighteen closing-material anchors remain explicitly separate. W includes @6 through EOF; non-text wrappers/categories remain in its line ledger.",
+  "no_general_comparison_witness_reading": true,
+  "exhaustive_witness_collation": false,
+  "prior_scan_consultation": "Translation notes provide locator leads and hypotheses, not inherited complete source proofreading.",
+  "next_step": "Freeze comparison and source targets; complete decisions, closing coverage, five deliverables and final gate, then full-root inventory.",
+  "parts": [
+    {
+      "id": "chapter-06",
+      "first": "U05198",
+      "last": "U05448",
+      "count": 251
+    },
+    {
+      "id": "closing-material",
+      "first": "U05449",
+      "last": "U05466",
+      "count": 18
+    }
+  ],
+  "source_check_targets": [
+    {
+      "id": "C6-START",
+      "units": [
+        "U05198",
+        "U05199"
+      ],
+      "candidate_pages": [
+        195
+      ],
+      "question": "Confirm opening after Chapter5 colophon."
+    },
+    {
+      "id": "C6-HEADING-05225",
+      "units": [
+        "U05225"
+      ],
+      "candidate_pages": [
+        196
+      ],
+      "question": "First reply heading, distinguished from main text."
+    },
+    {
+      "id": "C6-READING-05248",
+      "units": [
+        "U05248"
+      ],
+      "candidate_pages": [
+        197
+      ],
+      "question": "Inspect rtsa la / rtsal division without importing a title."
+    },
+    {
+      "id": "C6-HEADING-05260",
+      "units": [
+        "U05260",
+        "U05261"
+      ],
+      "candidate_pages": [
+        197,
+        198
+      ],
+      "question": "Check apparently missing third-reply heading."
+    },
+    {
+      "id": "C6-READING-05309",
+      "units": [
+        "U05309"
+      ],
+      "candidate_pages": [
+        199
+      ],
+      "question": "Inspect phyed / byed difference."
+    },
+    {
+      "id": "C6-RESTORE-05382",
+      "units": [
+        "U05382",
+        "U05383"
+      ],
+      "candidate_pages": [
+        202
+      ],
+      "question": "Check two B/S/W verses absent in A against governing scan."
+    },
+    {
+      "id": "C6-READING-05398",
+      "units": [
+        "U05398"
+      ],
+      "candidate_pages": [
+        202
+      ],
+      "question": "Check incomplete result clause against W ngag gis."
+    },
+    {
+      "id": "C6-READING-05411",
+      "units": [
+        "U05411"
+      ],
+      "candidate_pages": [
+        203
+      ],
+      "question": "Inspect unresolved dang before shes pas."
+    },
+    {
+      "id": "C6-END",
+      "units": [
+        "U05447",
+        "U05448"
+      ],
+      "candidate_pages": [
+        204
+      ],
+      "question": "Chapter colophon and start of full-text closing title."
+    },
+    {
+      "id": "C6-CLOSING-TITLE",
+      "units": [
+        "U05449",
+        "U05450",
+        "U05451"
+      ],
+      "candidate_pages": [
+        204
+      ],
+      "question": "Full-text title and source verse-count statement, preserving wording."
+    },
+    {
+      "id": "C6-CLOSING-SEALS",
+      "units": [
+        "U05452",
+        "U05453",
+        "U05454",
+        "U05455",
+        "U05456"
+      ],
+      "candidate_pages": [
+        204,
+        205
+      ],
+      "question": "Repeated seals and recipient restriction."
+    },
+    {
+      "id": "C6-CLOSING-INVOCATION",
+      "units": [
+        "U05457",
+        "U05458",
+        "U05459",
+        "U05460",
+        "U05461",
+        "U05462",
+        "U05463",
+        "U05464"
+      ],
+      "candidate_pages": [
+        205
+      ],
+      "question": "Invocations and ritual strings; do not conjecturally Sanskritize."
+    },
+    {
+      "id": "C6-CLOSING-TAIL",
+      "units": [
+        "U05465",
+        "U05466"
+      ],
+      "candidate_pages": [
+        205
+      ],
+      "question": "Final family notice, virtue formula and physical end of source."
+    }
+  ],
+  "frozen_locus_ids": [
+    "L6-0001",
+    "L6-0002",
+    "L6-0003",
+    "L6-0004",
+    "L6-0005",
+    "L6-0006",
+    "L6-0007",
+    "L6-0008",
+    "L6-0009",
+    "L6-0010",
+    "L6-0011",
+    "L6-0012",
+    "L6-0013"
+  ],
+  "frozen_W_ids": [
+    "W-C06-001",
+    "W-C06-002",
+    "W-C06-003",
+    "W-C06-004",
+    "W-C06-005",
+    "W-C06-006",
+    "W-C06-007",
+    "W-C06-008",
+    "W-C06-009",
+    "W-C06-010",
+    "W-C06-011",
+    "W-C06-012",
+    "W-C06-013",
+    "W-C06-014",
+    "W-C06-015",
+    "W-C06-016",
+    "W-C06-017",
+    "W-C06-018",
+    "W-C06-019",
+    "W-C06-020",
+    "W-C06-021",
+    "W-C06-022",
+    "W-C06-023",
+    "W-C06-024",
+    "W-C06-025",
+    "W-C06-026",
+    "W-C06-027",
+    "W-C06-028"
+  ],
+  "closing_ids": [
+    "U05449",
+    "U05450",
+    "U05451",
+    "U05452",
+    "U05453",
+    "U05454",
+    "U05455",
+    "U05456",
+    "U05457",
+    "U05458",
+    "U05459",
+    "U05460",
+    "U05461",
+    "U05462",
+    "U05463",
+    "U05464",
+    "U05465",
+    "U05466"
+  ],
+  "collation_hashes": {
+    "collation.json": "0d428ae1145570b95e8d90738754a21164d52aa00c9d895ad60254738ba5e770",
+    "wikisource.json": "da08d77830cd7f5a9acc31bb65af77f422bc169a6e23ddb24d2c59e9651cf196"
+  }
+}

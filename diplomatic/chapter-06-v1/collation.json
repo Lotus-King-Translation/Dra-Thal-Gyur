@@ -1,0 +1,1941 @@
+{
+  "summary": {
+    "source_units": 269,
+    "exact_differences": 21,
+    "readable_loci": 13,
+    "difference_classes": {
+      "presentation": 15,
+      "textual": 6
+    },
+    "structural_candidates": [
+      "C6-0018",
+      "C6-0019"
+    ],
+    "pairwise_alignment": {
+      "B": {
+        "exact_alignment_anchors": 235,
+        "operations": {
+          "equal": 7,
+          "delete": 4,
+          "replace": 1,
+          "insert": 1
+        }
+      },
+      "S": {
+        "exact_alignment_anchors": 232,
+        "operations": {
+          "equal": 19,
+          "insert": 15,
+          "delete": 2,
+          "replace": 1
+        }
+      }
+    },
+    "minimal_and_whole_locus_reconstruction_passed": true,
+    "W_lines_accounted": 279,
+    "W_reference_lines": 266,
+    "W_conflict_blocks": 28,
+    "W_equal_normalized_units": 238,
+    "caveat": "Exact data coverage and monotonic alignment are not source-glyph verification or automatic variant decisions."
+  },
+  "loci": [
+    {
+      "id": "L6-0001",
+      "source_units": [
+        "U05225",
+        "U05226"
+      ],
+      "chapter_offsets": {
+        "A": [
+          784,
+          826
+        ],
+        "B": [
+          784,
+          826
+        ],
+        "S": [
+          784,
+          828
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          150388,
+          150430
+        ],
+        "B": [
+          151094,
+          151136
+        ],
+        "S": [
+          151465,
+          151509
+        ]
+      },
+      "readings": {
+        "A": "ཞུས་ལན་དང་པོ།ཀྱེ་ཀྱེ་ལྷ་ཡི་དབང་ཕྱུག་ཉོན། །",
+        "B": "ཞུས་ལན་དང་པོ།ཀྱེ་ཀྱེ་ལྷ་ཡི་དབང་ཕྱུག་ཉོན། །",
+        "S": "{ཞུས་ལན་དང་པོ།}ཀྱེ་ཀྱེ་ལྷ་ཡི་དབང་ཕྱུག་ཉོན། །"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "exact_conflicts": [
+        "C6-0001",
+        "C6-0002"
+      ]
+    },
+    {
+      "id": "L6-0002",
+      "source_units": [
+        "U05245",
+        "U05246"
+      ],
+      "chapter_offsets": {
+        "A": [
+          1351,
+          1395
+        ],
+        "B": [
+          1351,
+          1395
+        ],
+        "S": [
+          1353,
+          1399
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          150955,
+          150999
+        ],
+        "B": [
+          151661,
+          151705
+        ],
+        "S": [
+          152034,
+          152080
+        ]
+      },
+      "readings": {
+        "A": "ཞུས་ལན་གཉིས་པ།འོད་ཀྱི་ཡང་ཞུན་བཅུ་བདུན་བཤད། །",
+        "B": "ཞུས་ལན་གཉིས་པ།འོད་ཀྱི་ཡང་ཞུན་བཅུ་བདུན་བཤད། །",
+        "S": "{ཞུས་ལན་གཉིས་པ།}འོད་ཀྱི་ཡང་ཞུན་བཅུ་བདུན་བཤད། །"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "exact_conflicts": [
+        "C6-0003",
+        "C6-0004"
+      ]
+    },
+    {
+      "id": "L6-0003",
+      "source_units": [
+        "U05248"
+      ],
+      "chapter_offsets": {
+        "A": [
+          1420,
+          1452
+        ],
+        "B": [
+          1420,
+          1452
+        ],
+        "S": [
+          1424,
+          1455
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          151024,
+          151056
+        ],
+        "B": [
+          151730,
+          151762
+        ],
+        "S": [
+          152105,
+          152136
+        ]
+      },
+      "readings": {
+        "A": "རང་བྱུང་ཉིད་དང་རྩ་ལ་རྫོགས་དང་། །",
+        "B": "རང་བྱུང་ཉིད་དང་རྩ་ལ་རྫོགས་དང་། །",
+        "S": "རང་བྱུང་ཉིད་དང་རྩལ་རྫོགས་དང་། །"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "exact_conflicts": [
+        "C6-0005"
+      ]
+    },
+    {
+      "id": "L6-0004",
+      "source_units": [
+        "U05275",
+        "U05276"
+      ],
+      "chapter_offsets": {
+        "A": [
+          2215,
+          2262
+        ],
+        "B": [
+          2215,
+          2262
+        ],
+        "S": [
+          2218,
+          2267
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          151819,
+          151866
+        ],
+        "B": [
+          152525,
+          152572
+        ],
+        "S": [
+          152899,
+          152948
+        ]
+      },
+      "readings": {
+        "A": "ཞུས་ལན་བཞི་པ།ལོངས་སྤྱོད་སྐུ་ཡང་སྐུ་གསུང་ཐུགས། །",
+        "B": "ཞུས་ལན་བཞི་པ།ལོངས་སྤྱོད་སྐུ་ཡང་སྐུ་གསུང་ཐུགས། །",
+        "S": "{ཞུས་ལན་བཞི་པ།}ལོངས་སྤྱོད་སྐུ་ཡང་སྐུ་གསུང་ཐུགས། །"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "exact_conflicts": [
+        "C6-0006",
+        "C6-0007"
+      ]
+    },
+    {
+      "id": "L6-0005",
+      "source_units": [
+        "U05292",
+        "U05293"
+      ],
+      "chapter_offsets": {
+        "A": [
+          2706,
+          2751
+        ],
+        "B": [
+          2706,
+          2751
+        ],
+        "S": [
+          2711,
+          2758
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          152310,
+          152355
+        ],
+        "B": [
+          153016,
+          153061
+        ],
+        "S": [
+          153392,
+          153439
+        ]
+      },
+      "readings": {
+        "A": "ཞུས་ལན་ལྔ་པ།སྤྲུལ་པའི་སྐུ་ཡང་སྐུ་གསུང་ཐུགས། །",
+        "B": "ཞུས་ལན་ལྔ་པ།སྤྲུལ་པའི་སྐུ་ཡང་སྐུ་གསུང་ཐུགས། །",
+        "S": "{ཞུས་ལན་ལྔ་པ།}སྤྲུལ་པའི་སྐུ་ཡང་སྐུ་གསུང་ཐུགས། །"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "exact_conflicts": [
+        "C6-0008",
+        "C6-0009"
+      ]
+    },
+    {
+      "id": "L6-0006",
+      "source_units": [
+        "U05303"
+      ],
+      "chapter_offsets": {
+        "A": [
+          3007,
+          3033
+        ],
+        "B": [
+          3007,
+          3031
+        ],
+        "S": [
+          3014,
+          3040
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          152611,
+          152637
+        ],
+        "B": [
+          153317,
+          153341
+        ],
+        "S": [
+          153695,
+          153721
+        ]
+      },
+      "readings": {
+        "A": "མཛད་པ་མ་ལུས་རྫོགས་པ་དང་། །",
+        "B": "མཛད་པ་ལུས་རྫོགས་པ་དང་། །",
+        "S": "མཛད་པ་མ་ལུས་རྫོགས་པ་དང་། །"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "exact_conflicts": [
+        "C6-0010"
+      ]
+    },
+    {
+      "id": "L6-0007",
+      "source_units": [
+        "U05305",
+        "U05306"
+      ],
+      "chapter_offsets": {
+        "A": [
+          3062,
+          3104
+        ],
+        "B": [
+          3060,
+          3102
+        ],
+        "S": [
+          3069,
+          3113
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          152666,
+          152708
+        ],
+        "B": [
+          153370,
+          153412
+        ],
+        "S": [
+          153750,
+          153794
+        ]
+      },
+      "readings": {
+        "A": " ཞུས་ལན་དྲུག་པ།སྐུ་ཡི་མཚན་ཉིད་ངོ་བོ་དང་། །",
+        "B": " ཞུས་ལན་དྲུག་པ།སྐུ་ཡི་མཚན་ཉིད་ངོ་བོ་དང་། །",
+        "S": " {ཞུས་ལན་དྲུག་པ།}སྐུ་ཡི་མཚན་ཉིད་ངོ་བོ་དང་། །"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "exact_conflicts": [
+        "C6-0011",
+        "C6-0012"
+      ]
+    },
+    {
+      "id": "L6-0008",
+      "source_units": [
+        "U05309"
+      ],
+      "chapter_offsets": {
+        "A": [
+          3162,
+          3189
+        ],
+        "B": [
+          3160,
+          3187
+        ],
+        "S": [
+          3171,
+          3198
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          152766,
+          152793
+        ],
+        "B": [
+          153470,
+          153497
+        ],
+        "S": [
+          153852,
+          153879
+        ]
+      },
+      "readings": {
+        "A": "ཕྱེད་པའི་ལས་དང་ལྡང་ཚད་དོ། །",
+        "B": "བྱེད་པའི་ལས་དང་ལྡང་ཚད་དོ། །",
+        "S": "བྱེད་པའི་ལས་དང་ལྡང་ཚད་དོ། །"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "exact_conflicts": [
+        "C6-0013"
+      ]
+    },
+    {
+      "id": "L6-0009",
+      "source_units": [
+        "U05317",
+        "U05318"
+      ],
+      "chapter_offsets": {
+        "A": [
+          3386,
+          3431
+        ],
+        "B": [
+          3384,
+          3429
+        ],
+        "S": [
+          3395,
+          3442
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          152990,
+          153035
+        ],
+        "B": [
+          153694,
+          153739
+        ],
+        "S": [
+          154076,
+          154123
+        ]
+      },
+      "readings": {
+        "A": " ཞུས་ལན་བདུན་པ།སྐུ་ཡི་བཞུགས་ཚུལ་རྣམ་པ་གསུམ། །",
+        "B": " ཞུས་ལན་བདུན་པ།སྐུ་ཡི་བཞུགས་ཚུལ་རྣམ་པ་གསུམ། །",
+        "S": " {ཞུས་ལན་བདུན་པ།}སྐུ་ཡི་བཞུགས་ཚུལ་རྣམ་པ་གསུམ། །"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "exact_conflicts": [
+        "C6-0014",
+        "C6-0015"
+      ]
+    },
+    {
+      "id": "L6-0010",
+      "source_units": [
+        "U05328",
+        "U05329"
+      ],
+      "chapter_offsets": {
+        "A": [
+          3704,
+          3748
+        ],
+        "B": [
+          3702,
+          3745
+        ],
+        "S": [
+          3715,
+          3761
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          153308,
+          153352
+        ],
+        "B": [
+          154012,
+          154055
+        ],
+        "S": [
+          154396,
+          154442
+        ]
+      },
+      "readings": {
+        "A": " ཞུས་ལན་བརྒྱད་པ།སྐུ་ཡི་རང་བཞིན་ཆོས་ཉིད་ནི། །",
+        "B": "ཞུས་ལན་བརྒྱད་པ།སྐུ་ཡི་རང་བཞིན་ཆོས་ཉིད་ནི། །",
+        "S": " {ཞུས་ལན་བརྒྱད་པ།}སྐུ་ཡི་རང་བཞིན་ཆོས་ཉིད་ནི། །"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "exact_conflicts": [
+        "C6-0016",
+        "C6-0017"
+      ]
+    },
+    {
+      "id": "L6-0011",
+      "source_units": [
+        "U05382"
+      ],
+      "chapter_offsets": {
+        "A": [
+          5231,
+          5257
+        ],
+        "B": [
+          5228,
+          5311
+        ],
+        "S": [
+          5244,
+          5327
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          154835,
+          154861
+        ],
+        "B": [
+          155538,
+          155621
+        ],
+        "S": [
+          155925,
+          156008
+        ]
+      },
+      "readings": {
+        "A": "སྒྲ་ནི་ཤག་དང་སྡིག་པ་དང༌། །",
+        "B": "སྒྲ་ནི་ཤག་དང་སྡིག་པ་དང༌། །ཏོག་དང་སིང་བས་སྣ་ཚོགས་ལས། །འུར་ཞིང་སིང་བས་མཆོག་ཐོབ་པའོ། །",
+        "S": "སྒྲ་ནི་ཤག་དང་སྡིག་པ་དང༌། །ཏོག་དང་སིང་བས་སྣ་ཚོགས་ལས། །འུར་ཞིང་སིང་བས་མཆོག་ཐོབ་པའོ། །"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "exact_conflicts": [
+        "C6-0018",
+        "C6-0019"
+      ]
+    },
+    {
+      "id": "L6-0012",
+      "source_units": [
+        "U05436"
+      ],
+      "chapter_offsets": {
+        "A": [
+          6775,
+          6800
+        ],
+        "B": [
+          6829,
+          6853
+        ],
+        "S": [
+          6845,
+          6870
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          156379,
+          156404
+        ],
+        "B": [
+          157139,
+          157163
+        ],
+        "S": [
+          157526,
+          157551
+        ]
+      },
+      "readings": {
+        "A": "ནམ་མཁའ་རང་དག་གསལ་བ་དང་། །",
+        "B": "ནམ་མཁའ་ང་དག་གསལ་བ་དང་། །",
+        "S": "ནམ་མཁའ་རང་དག་གསལ་བ་དང་། །"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "exact_conflicts": [
+        "C6-0020"
+      ]
+    },
+    {
+      "id": "L6-0013",
+      "source_units": [
+        "U05466"
+      ],
+      "chapter_offsets": {
+        "A": [
+          7664,
+          7684
+        ],
+        "B": [
+          7717,
+          7720
+        ],
+        "S": [
+          7734,
+          7737
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          157268,
+          157288
+        ],
+        "B": [
+          158027,
+          158030
+        ],
+        "S": [
+          158415,
+          158418
+        ]
+      },
+      "readings": {
+        "A": " དགེའོ་དགེའོ་དགེའོ།།",
+        "B": " །།",
+        "S": " །།"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "exact_conflicts": [
+        "C6-0021"
+      ]
+    }
+  ],
+  "differences": [
+    {
+      "id": "C6-0001",
+      "source_units": [
+        "U05225"
+      ],
+      "chapter_offsets": {
+        "A": [
+          784,
+          784
+        ],
+        "B": [
+          784,
+          784
+        ],
+        "S": [
+          784,
+          785
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          150388,
+          150388
+        ],
+        "B": [
+          151094,
+          151094
+        ],
+        "S": [
+          151465,
+          151466
+        ]
+      },
+      "readings": {
+        "A": "",
+        "B": "",
+        "S": "{"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "classification": "presentation",
+      "structural_candidate": false,
+      "A_context": [
+        "ི་སྐད་དུ། །རང་བྱུང་བྱས་པ་མེད་པར་བྱུང༌། །",
+        "ཞུས་ལན་དང་པོ།ཀྱེ་ཀྱེ་ལྷ་ཡི་དབང་ཕྱུག་ཉོན།"
+      ]
+    },
+    {
+      "id": "C6-0002",
+      "source_units": [
+        "U05226"
+      ],
+      "chapter_offsets": {
+        "A": [
+          797,
+          797
+        ],
+        "B": [
+          797,
+          797
+        ],
+        "S": [
+          798,
+          799
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          150401,
+          150401
+        ],
+        "B": [
+          151107,
+          151107
+        ],
+        "S": [
+          151479,
+          151480
+        ]
+      },
+      "readings": {
+        "A": "",
+        "B": "",
+        "S": "}"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "classification": "presentation",
+      "structural_candidate": false,
+      "A_context": [
+        "་བྱུང་བྱས་པ་མེད་པར་བྱུང༌། །ཞུས་ལན་དང་པོ།",
+        "ཀྱེ་ཀྱེ་ལྷ་ཡི་དབང་ཕྱུག་ཉོན། །འོད་དཀར་འབུ"
+      ]
+    },
+    {
+      "id": "C6-0003",
+      "source_units": [
+        "U05245"
+      ],
+      "chapter_offsets": {
+        "A": [
+          1351,
+          1351
+        ],
+        "B": [
+          1351,
+          1351
+        ],
+        "S": [
+          1353,
+          1354
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          150955,
+          150955
+        ],
+        "B": [
+          151661,
+          151661
+        ],
+        "S": [
+          152034,
+          152035
+        ]
+      },
+      "readings": {
+        "A": "",
+        "B": "",
+        "S": "{"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "classification": "presentation",
+      "structural_candidate": false,
+      "A_context": [
+        "ྲག་གཉིས། །ཚིག་བརྗོད་རིམ་པ་གསལ་བཀོད་དོ། །",
+        "ཞུས་ལན་གཉིས་པ།འོད་ཀྱི་ཡང་ཞུན་བཅུ་བདུན་བཤ"
+      ]
+    },
+    {
+      "id": "C6-0004",
+      "source_units": [
+        "U05246"
+      ],
+      "chapter_offsets": {
+        "A": [
+          1365,
+          1365
+        ],
+        "B": [
+          1365,
+          1365
+        ],
+        "S": [
+          1368,
+          1369
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          150969,
+          150969
+        ],
+        "B": [
+          151675,
+          151675
+        ],
+        "S": [
+          152049,
+          152050
+        ]
+      },
+      "readings": {
+        "A": "",
+        "B": "",
+        "S": "}"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "classification": "presentation",
+      "structural_candidate": false,
+      "A_context": [
+        "བརྗོད་རིམ་པ་གསལ་བཀོད་དོ། །ཞུས་ལན་གཉིས་པ།",
+        "འོད་ཀྱི་ཡང་ཞུན་བཅུ་བདུན་བཤད། །རང་ཤར་བ་དང"
+      ]
+    },
+    {
+      "id": "C6-0005",
+      "source_units": [
+        "U05248"
+      ],
+      "chapter_offsets": {
+        "A": [
+          1437,
+          1438
+        ],
+        "B": [
+          1437,
+          1438
+        ],
+        "S": [
+          1441,
+          1441
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          151041,
+          151042
+        ],
+        "B": [
+          151747,
+          151748
+        ],
+        "S": [
+          152122,
+          152122
+        ]
+      },
+      "readings": {
+        "A": "་",
+        "B": "་",
+        "S": ""
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "classification": "presentation",
+      "structural_candidate": false,
+      "A_context": [
+        "་ཤར་བ་དང་རང་གྲོལ་དང་། །རང་བྱུང་ཉིད་དང་རྩ",
+        "ལ་རྫོགས་དང་། །མཛེས་ལྡན་དག་དང་ཕྲ་བཀོད་དང་"
+      ]
+    },
+    {
+      "id": "C6-0006",
+      "source_units": [
+        "U05275"
+      ],
+      "chapter_offsets": {
+        "A": [
+          2215,
+          2215
+        ],
+        "B": [
+          2215,
+          2215
+        ],
+        "S": [
+          2218,
+          2219
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          151819,
+          151819
+        ],
+        "B": [
+          152525,
+          152525
+        ],
+        "S": [
+          152899,
+          152900
+        ]
+      },
+      "readings": {
+        "A": "",
+        "B": "",
+        "S": "{"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "classification": "presentation",
+      "structural_candidate": false,
+      "A_context": [
+        "་བ་དང་འགག་པ་མེད། །མ་བྱས་བྱས་པ་མེད་པའོ། །",
+        "ཞུས་ལན་བཞི་པ།ལོངས་སྤྱོད་སྐུ་ཡང་སྐུ་གསུང་"
+      ]
+    },
+    {
+      "id": "C6-0007",
+      "source_units": [
+        "U05276"
+      ],
+      "chapter_offsets": {
+        "A": [
+          2228,
+          2228
+        ],
+        "B": [
+          2228,
+          2228
+        ],
+        "S": [
+          2232,
+          2233
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          151832,
+          151832
+        ],
+        "B": [
+          152538,
+          152538
+        ],
+        "S": [
+          152913,
+          152914
+        ]
+      },
+      "readings": {
+        "A": "",
+        "B": "",
+        "S": "}"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "classification": "presentation",
+      "structural_candidate": false,
+      "A_context": [
+        "ེད། །མ་བྱས་བྱས་པ་མེད་པའོ། །ཞུས་ལན་བཞི་པ།",
+        "ལོངས་སྤྱོད་སྐུ་ཡང་སྐུ་གསུང་ཐུགས། །ཡོན་ཏན"
+      ]
+    },
+    {
+      "id": "C6-0008",
+      "source_units": [
+        "U05292"
+      ],
+      "chapter_offsets": {
+        "A": [
+          2706,
+          2706
+        ],
+        "B": [
+          2706,
+          2706
+        ],
+        "S": [
+          2711,
+          2712
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          152310,
+          152310
+        ],
+        "B": [
+          153016,
+          153016
+        ],
+        "S": [
+          153392,
+          153393
+        ]
+      },
+      "readings": {
+        "A": "",
+        "B": "",
+        "S": "{"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "classification": "presentation",
+      "structural_candidate": false,
+      "A_context": [
+        "མ་སྤྲོས་ཏེ། །འཁོར་ལ་རང་གི་ངོ་བོས་སྟོན། །",
+        "ཞུས་ལན་ལྔ་པ།སྤྲུལ་པའི་སྐུ་ཡང་སྐུ་གསུང་ཐུ"
+      ]
+    },
+    {
+      "id": "C6-0009",
+      "source_units": [
+        "U05293"
+      ],
+      "chapter_offsets": {
+        "A": [
+          2718,
+          2718
+        ],
+        "B": [
+          2718,
+          2718
+        ],
+        "S": [
+          2724,
+          2725
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          152322,
+          152322
+        ],
+        "B": [
+          153028,
+          153028
+        ],
+        "S": [
+          153405,
+          153406
+        ]
+      },
+      "readings": {
+        "A": "",
+        "B": "",
+        "S": "}"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "classification": "presentation",
+      "structural_candidate": false,
+      "A_context": [
+        "།འཁོར་ལ་རང་གི་ངོ་བོས་སྟོན། །ཞུས་ལན་ལྔ་པ།",
+        "སྤྲུལ་པའི་སྐུ་ཡང་སྐུ་གསུང་ཐུགས། །ཡོན་ཏན་"
+      ]
+    },
+    {
+      "id": "C6-0010",
+      "source_units": [
+        "U05303"
+      ],
+      "chapter_offsets": {
+        "A": [
+          3012,
+          3014
+        ],
+        "B": [
+          3012,
+          3012
+        ],
+        "S": [
+          3019,
+          3021
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          152616,
+          152618
+        ],
+        "B": [
+          153322,
+          153322
+        ],
+        "S": [
+          153700,
+          153702
+        ]
+      },
+      "readings": {
+        "A": "་མ",
+        "B": "",
+        "S": "་མ"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "classification": "textual",
+      "structural_candidate": false,
+      "A_context": [
+        "་པ་དང༌། །ཕྲིན་ལས་ཕྱི་ནང་གསང་བ་ཡི། །མཛད་པ",
+        "་ལུས་རྫོགས་པ་དང་། །ཕུན་སུམ་ཚོགས་པ་ལྔར་གན"
+      ]
+    },
+    {
+      "id": "C6-0011",
+      "source_units": [
+        "U05305"
+      ],
+      "chapter_offsets": {
+        "A": [
+          3063,
+          3063
+        ],
+        "B": [
+          3061,
+          3061
+        ],
+        "S": [
+          3070,
+          3071
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          152667,
+          152667
+        ],
+        "B": [
+          153371,
+          153371
+        ],
+        "S": [
+          153751,
+          153752
+        ]
+      },
+      "readings": {
+        "A": "",
+        "B": "",
+        "S": "{"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "classification": "presentation",
+      "structural_candidate": false,
+      "A_context": [
+        "ས་པ་དང་། །ཕུན་སུམ་ཚོགས་པ་ལྔར་གནས་པའོ། ། ",
+        "ཞུས་ལན་དྲུག་པ།སྐུ་ཡི་མཚན་ཉིད་ངོ་བོ་དང་། "
+      ]
+    },
+    {
+      "id": "C6-0012",
+      "source_units": [
+        "U05306"
+      ],
+      "chapter_offsets": {
+        "A": [
+          3077,
+          3077
+        ],
+        "B": [
+          3075,
+          3075
+        ],
+        "S": [
+          3085,
+          3086
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          152681,
+          152681
+        ],
+        "B": [
+          153385,
+          153385
+        ],
+        "S": [
+          153766,
+          153767
+        ]
+      },
+      "readings": {
+        "A": "",
+        "B": "",
+        "S": "}"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "classification": "presentation",
+      "structural_candidate": false,
+      "A_context": [
+        "སུམ་ཚོགས་པ་ལྔར་གནས་པའོ། ། ཞུས་ལན་དྲུག་པ།",
+        "སྐུ་ཡི་མཚན་ཉིད་ངོ་བོ་དང་། །ངེས་ཚིག་དབྱེ་"
+      ]
+    },
+    {
+      "id": "C6-0013",
+      "source_units": [
+        "U05309"
+      ],
+      "chapter_offsets": {
+        "A": [
+          3162,
+          3163
+        ],
+        "B": [
+          3160,
+          3161
+        ],
+        "S": [
+          3171,
+          3172
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          152766,
+          152767
+        ],
+        "B": [
+          153470,
+          153471
+        ],
+        "S": [
+          153852,
+          153853
+        ]
+      },
+      "readings": {
+        "A": "ཕ",
+        "B": "བ",
+        "S": "བ"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "classification": "textual",
+      "structural_candidate": false,
+      "A_context": [
+        "ས་དང་ནི། །སོ་སོའི་ཞིང་ཁམས་གདུལ་བྱ་དང་། །",
+        "ྱེད་པའི་ལས་དང་ལྡང་ཚད་དོ། །མཚན་ཉིད་གོ་བའི"
+      ]
+    },
+    {
+      "id": "C6-0014",
+      "source_units": [
+        "U05317"
+      ],
+      "chapter_offsets": {
+        "A": [
+          3387,
+          3387
+        ],
+        "B": [
+          3385,
+          3385
+        ],
+        "S": [
+          3396,
+          3397
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          152991,
+          152991
+        ],
+        "B": [
+          153695,
+          153695
+        ],
+        "S": [
+          154077,
+          154078
+        ]
+      },
+      "readings": {
+        "A": "",
+        "B": "",
+        "S": "{"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "classification": "presentation",
+      "structural_candidate": false,
+      "A_context": [
+        "ན་པ་དང་། །གཟུགས་ལྡན་དབང་པོ་རྫོགས་པའོ། ། ",
+        "ཞུས་ལན་བདུན་པ།སྐུ་ཡི་བཞུགས་ཚུལ་རྣམ་པ་གསུ"
+      ]
+    },
+    {
+      "id": "C6-0015",
+      "source_units": [
+        "U05318"
+      ],
+      "chapter_offsets": {
+        "A": [
+          3401,
+          3401
+        ],
+        "B": [
+          3399,
+          3399
+        ],
+        "S": [
+          3411,
+          3412
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          153005,
+          153005
+        ],
+        "B": [
+          153709,
+          153709
+        ],
+        "S": [
+          154092,
+          154093
+        ]
+      },
+      "readings": {
+        "A": "",
+        "B": "",
+        "S": "}"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "classification": "presentation",
+      "structural_candidate": false,
+      "A_context": [
+        "ས་ལྡན་དབང་པོ་རྫོགས་པའོ། ། ཞུས་ལན་བདུན་པ།",
+        "སྐུ་ཡི་བཞུགས་ཚུལ་རྣམ་པ་གསུམ། །མཚན་མའི་ཆོ"
+      ]
+    },
+    {
+      "id": "C6-0016",
+      "source_units": [
+        "U05328"
+      ],
+      "chapter_offsets": {
+        "A": [
+          3704,
+          3705
+        ],
+        "B": [
+          3702,
+          3702
+        ],
+        "S": [
+          3715,
+          3717
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          153308,
+          153309
+        ],
+        "B": [
+          154012,
+          154012
+        ],
+        "S": [
+          154396,
+          154398
+        ]
+      },
+      "readings": {
+        "A": " ",
+        "B": "",
+        "S": " {"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "classification": "presentation",
+      "structural_candidate": false,
+      "A_context": [
+        "ང་དང་། །མཉམ་དང་ཕྱོགས་མེད་མི་འབྱེད་པའོ། །",
+        "ཞུས་ལན་བརྒྱད་པ།སྐུ་ཡི་རང་བཞིན་ཆོས་ཉིད་ནི"
+      ]
+    },
+    {
+      "id": "C6-0017",
+      "source_units": [
+        "U05329"
+      ],
+      "chapter_offsets": {
+        "A": [
+          3720,
+          3720
+        ],
+        "B": [
+          3717,
+          3717
+        ],
+        "S": [
+          3732,
+          3733
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          153324,
+          153324
+        ],
+        "B": [
+          154027,
+          154027
+        ],
+        "S": [
+          154413,
+          154414
+        ]
+      },
+      "readings": {
+        "A": "",
+        "B": "",
+        "S": "}"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "classification": "presentation",
+      "structural_candidate": false,
+      "A_context": [
+        "ྱོགས་མེད་མི་འབྱེད་པའོ། ། ཞུས་ལན་བརྒྱད་པ།",
+        "སྐུ་ཡི་རང་བཞིན་ཆོས་ཉིད་ནི། །རང་བཞིན་སྟོང"
+      ]
+    },
+    {
+      "id": "C6-0018",
+      "source_units": [
+        "U05382"
+      ],
+      "chapter_offsets": {
+        "A": [
+          5254,
+          5254
+        ],
+        "B": [
+          5251,
+          5308
+        ],
+        "S": [
+          5267,
+          5267
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          154858,
+          154858
+        ],
+        "B": [
+          155561,
+          155618
+        ],
+        "S": [
+          155948,
+          155948
+        ]
+      },
+      "readings": {
+        "A": "",
+        "B": "། །ཏོག་དང་སིང་བས་སྣ་ཚོགས་ལས། །འུར་ཞིང་སིང་བས་མཆོག་ཐོབ་པའོ",
+        "S": ""
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "classification": "textual",
+      "structural_candidate": true,
+      "A_context": [
+        "མཆོག་འགྲུབ་པའོ། །སྒྲ་ནི་ཤག་དང་སྡིག་པ་དང༌",
+        "། །གཞན་ཡང་རླུང་གི་ལས་མཐའ་བཤད། །ཁ་དོག་དཀར"
+      ]
+    },
+    {
+      "id": "C6-0019",
+      "source_units": [
+        "U05382"
+      ],
+      "chapter_offsets": {
+        "A": [
+          5256,
+          5256
+        ],
+        "B": [
+          5310,
+          5310
+        ],
+        "S": [
+          5269,
+          5326
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          154860,
+          154860
+        ],
+        "B": [
+          155620,
+          155620
+        ],
+        "S": [
+          155950,
+          156007
+        ]
+      },
+      "readings": {
+        "A": "",
+        "B": "",
+        "S": "།ཏོག་དང་སིང་བས་སྣ་ཚོགས་ལས། །འུར་ཞིང་སིང་བས་མཆོག་ཐོབ་པའོ། "
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "classification": "textual",
+      "structural_candidate": true,
+      "A_context": [
+        "ོག་འགྲུབ་པའོ། །སྒྲ་ནི་ཤག་དང་སྡིག་པ་དང༌། ",
+        "།གཞན་ཡང་རླུང་གི་ལས་མཐའ་བཤད། །ཁ་དོག་དཀར་ད"
+      ]
+    },
+    {
+      "id": "C6-0020",
+      "source_units": [
+        "U05436"
+      ],
+      "chapter_offsets": {
+        "A": [
+          6782,
+          6783
+        ],
+        "B": [
+          6836,
+          6836
+        ],
+        "S": [
+          6852,
+          6853
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          156386,
+          156387
+        ],
+        "B": [
+          157146,
+          157146
+        ],
+        "S": [
+          157533,
+          157534
+        ]
+      },
+      "readings": {
+        "A": "ར",
+        "B": "",
+        "S": "ར"
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "classification": "textual",
+      "structural_candidate": false,
+      "A_context": [
+        " །དགའ་མགུ་རང་བའི་སེམས་སྐྱེས་ནས། །ནམ་མཁའ་",
+        "ང་དག་གསལ་བ་དང་། །བརྗོད་མེད་ཚིག་རྣམས་རང་ཤ"
+      ]
+    },
+    {
+      "id": "C6-0021",
+      "source_units": [
+        "U05466"
+      ],
+      "chapter_offsets": {
+        "A": [
+          7665,
+          7682
+        ],
+        "B": [
+          7718,
+          7718
+        ],
+        "S": [
+          7735,
+          7735
+        ]
+      },
+      "full_source_offsets": {
+        "A": [
+          157269,
+          157286
+        ],
+        "B": [
+          158028,
+          158028
+        ],
+        "S": [
+          158416,
+          158416
+        ]
+      },
+      "readings": {
+        "A": "དགེའོ་དགེའོ་དགེའོ",
+        "B": "",
+        "S": ""
+      },
+      "evidence_scope": "Exact supplied transcripts, not verified print variants.",
+      "classification": "textual",
+      "structural_candidate": false,
+      "A_context": [
+        "ྱ་རྒྱ་རྒྱ། ཐལ་འགྱུར་རྒྱུད་ལ་མ་བུ་བདུན།། ",
+        "།།"
+      ]
+    }
+  ],
+  "pairwise": {
+    "B": [
+      [
+        "equal",
+        0,
+        3012,
+        0,
+        3012
+      ],
+      [
+        "delete",
+        3012,
+        3014,
+        3012,
+        3012
+      ],
+      [
+        "equal",
+        3014,
+        3162,
+        3012,
+        3160
+      ],
+      [
+        "replace",
+        3162,
+        3163,
+        3160,
+        3161
+      ],
+      [
+        "equal",
+        3163,
+        3704,
+        3161,
+        3702
+      ],
+      [
+        "delete",
+        3704,
+        3705,
+        3702,
+        3702
+      ],
+      [
+        "equal",
+        3705,
+        5254,
+        3702,
+        5251
+      ],
+      [
+        "insert",
+        5254,
+        5254,
+        5251,
+        5308
+      ],
+      [
+        "equal",
+        5254,
+        6782,
+        5308,
+        6836
+      ],
+      [
+        "delete",
+        6782,
+        6783,
+        6836,
+        6836
+      ],
+      [
+        "equal",
+        6783,
+        7665,
+        6836,
+        7718
+      ],
+      [
+        "delete",
+        7665,
+        7682,
+        7718,
+        7718
+      ],
+      [
+        "equal",
+        7682,
+        7684,
+        7718,
+        7720
+      ]
+    ],
+    "S": [
+      [
+        "equal",
+        0,
+        784,
+        0,
+        784
+      ],
+      [
+        "insert",
+        784,
+        784,
+        784,
+        785
+      ],
+      [
+        "equal",
+        784,
+        797,
+        785,
+        798
+      ],
+      [
+        "insert",
+        797,
+        797,
+        798,
+        799
+      ],
+      [
+        "equal",
+        797,
+        1351,
+        799,
+        1353
+      ],
+      [
+        "insert",
+        1351,
+        1351,
+        1353,
+        1354
+      ],
+      [
+        "equal",
+        1351,
+        1365,
+        1354,
+        1368
+      ],
+      [
+        "insert",
+        1365,
+        1365,
+        1368,
+        1369
+      ],
+      [
+        "equal",
+        1365,
+        1437,
+        1369,
+        1441
+      ],
+      [
+        "delete",
+        1437,
+        1438,
+        1441,
+        1441
+      ],
+      [
+        "equal",
+        1438,
+        2215,
+        1441,
+        2218
+      ],
+      [
+        "insert",
+        2215,
+        2215,
+        2218,
+        2219
+      ],
+      [
+        "equal",
+        2215,
+        2228,
+        2219,
+        2232
+      ],
+      [
+        "insert",
+        2228,
+        2228,
+        2232,
+        2233
+      ],
+      [
+        "equal",
+        2228,
+        2706,
+        2233,
+        2711
+      ],
+      [
+        "insert",
+        2706,
+        2706,
+        2711,
+        2712
+      ],
+      [
+        "equal",
+        2706,
+        2718,
+        2712,
+        2724
+      ],
+      [
+        "insert",
+        2718,
+        2718,
+        2724,
+        2725
+      ],
+      [
+        "equal",
+        2718,
+        3063,
+        2725,
+        3070
+      ],
+      [
+        "insert",
+        3063,
+        3063,
+        3070,
+        3071
+      ],
+      [
+        "equal",
+        3063,
+        3077,
+        3071,
+        3085
+      ],
+      [
+        "insert",
+        3077,
+        3077,
+        3085,
+        3086
+      ],
+      [
+        "equal",
+        3077,
+        3162,
+        3086,
+        3171
+      ],
+      [
+        "replace",
+        3162,
+        3163,
+        3171,
+        3172
+      ],
+      [
+        "equal",
+        3163,
+        3387,
+        3172,
+        3396
+      ],
+      [
+        "insert",
+        3387,
+        3387,
+        3396,
+        3397
+      ],
+      [
+        "equal",
+        3387,
+        3401,
+        3397,
+        3411
+      ],
+      [
+        "insert",
+        3401,
+        3401,
+        3411,
+        3412
+      ],
+      [
+        "equal",
+        3401,
+        3705,
+        3412,
+        3716
+      ],
+      [
+        "insert",
+        3705,
+        3705,
+        3716,
+        3717
+      ],
+      [
+        "equal",
+        3705,
+        3720,
+        3717,
+        3732
+      ],
+      [
+        "insert",
+        3720,
+        3720,
+        3732,
+        3733
+      ],
+      [
+        "equal",
+        3720,
+        5256,
+        3733,
+        5269
+      ],
+      [
+        "insert",
+        5256,
+        5256,
+        5269,
+        5326
+      ],
+      [
+        "equal",
+        5256,
+        7665,
+        5326,
+        7735
+      ],
+      [
+        "delete",
+        7665,
+        7682,
+        7735,
+        7735
+      ],
+      [
+        "equal",
+        7682,
+        7684,
+        7735,
+        7737
+      ]
+    ]
+  }
+}

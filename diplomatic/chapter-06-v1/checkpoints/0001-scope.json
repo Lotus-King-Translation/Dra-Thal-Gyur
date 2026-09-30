@@ -1,0 +1,83 @@
+{
+  "baseline": "5357a9a47c211c94dac6003196afc605d36e61f8",
+  "progress": {
+    "chapter": 6,
+    "state": "approved_in_progress",
+    "source_anchors": 269,
+    "electronic_representations_verified": 4,
+    "transcript_loci": {
+      "total": 13,
+      "documented": 0,
+      "remaining": 13,
+      "invalid": []
+    },
+    "W_blocks": {
+      "total": 28,
+      "documented": 0,
+      "remaining": 28,
+      "invalid": []
+    },
+    "source_checks": {
+      "total": 13,
+      "documented": 0,
+      "remaining": 13,
+      "invalid": []
+    },
+    "closing_units": {
+      "total": 18,
+      "documented": 0,
+      "remaining": 18,
+      "invalid": []
+    },
+    "interventions": 0,
+    "restored_main_verses": 0,
+    "deliverables": {
+      "total": 5,
+      "present": 0
+    },
+    "final_signoff": false,
+    "exhaustive_witness_collation": false,
+    "accuracy_score": null,
+    "time_estimate": null
+  },
+  "source_accounting": {
+    "source_units": 269,
+    "exact_differences": 21,
+    "readable_loci": 13,
+    "difference_classes": {
+      "presentation": 15,
+      "textual": 6
+    },
+    "structural_candidates": [
+      "C6-0018",
+      "C6-0019"
+    ],
+    "pairwise_alignment": {
+      "B": {
+        "exact_alignment_anchors": 235,
+        "operations": {
+          "equal": 7,
+          "delete": 4,
+          "replace": 1,
+          "insert": 1
+        }
+      },
+      "S": {
+        "exact_alignment_anchors": 232,
+        "operations": {
+          "equal": 19,
+          "insert": 15,
+          "delete": 2,
+          "replace": 1
+        }
+      }
+    },
+    "minimal_and_whole_locus_reconstruction_passed": true,
+    "W_lines_accounted": 279,
+    "W_reference_lines": 266,
+    "W_conflict_blocks": 28,
+    "W_equal_normalized_units": 238,
+    "caveat": "Exact data coverage and monotonic alignment are not source-glyph verification or automatic variant decisions."
+  },
+  "scope_note": "Covers all remaining original characters including colophon and seals; whole-root assembly follows release."
+}
