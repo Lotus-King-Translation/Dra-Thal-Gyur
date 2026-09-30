@@ -1,6 +1,6 @@
 # Chapter 4 — related Wikisource reference comparison
 
-**Release candidate — final gate pending**
+**Released bounded v1**
 
 W is the stored related Wylie transcription, not an independent printing. All 55 non-equal alignment blocks have explicit decisions. Exact original W lines and source Wylie remain quoted; stripped signs and collapsed spaces were used for alignment only.
 

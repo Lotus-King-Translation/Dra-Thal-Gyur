@@ -14149,7 +14149,38 @@
         ]
       }
     },
-    "final_signoff": null
+    "final_signoff": {
+      "scope": "bounded_chapter_4_v1",
+      "reviewer": "ChatGPT editorial coordinator; not credentialed human palaeographic certification",
+      "recorded_at": "2026-09-30T19:23:18.052364+00:00",
+      "decision_payload_sha256": "99d36714dcc6b24f7f75d3327cf97b5baeb45257097413ae70cf551a45ab9127",
+      "input_hashes": {
+        "diplomatic/chapter-04-v1/PLAN.json": "4dec9983467c23ece873bbdef7c1844024616c09550c45817ef3e447568bae40",
+        "diplomatic/chapter-04-v1/STATE.json": "66bd4ae92ebfc740077ef789f21219832cee63f207ad9322fe0187f99a1a2667",
+        "diplomatic/chapter-04-v1/source-units.json": "e3fe3acaa017dd85b8d801e0ca8e5d4a112063d49fe90e3aece1b15fc10eaba1",
+        "diplomatic/chapter-04-v1/collation.json": "4683f1b098bdce5470720b7c57f1fc9f5c496f25d46e5534b0eb94b208216b6a",
+        "diplomatic/chapter-04-v1/wikisource.json": "b94be826e9186dd8bd25ead946bf47e5296915bf354575eb91ba93eed03cd9b0",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json": "ed00de6b1e9003905e1615482293f3acecb17a37bcb05ea27cca49b1e23669bf",
+        "diplomatic/chapter-04-v1/INSERTIONS.json": "1b19409a039abb459526a410f0c6f01f0e1064db5c7ef17da989e0c7287147c6",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json": "09ae0788baf4b696e0d0d25a56ca4e971c6a6d4dc2ffb2d0f221cdc5e1113e9d",
+        "diplomatic/chapter-04-v1/FINAL-REVIEW.md": "f6b5d0abf82aaa33de1afd4f95e25c3d73605c451d0fcc6795d77f707871e0b7",
+        "diplomatic/chapter-04-v1/build_release.py": "f069fb42dfb73dacf700477404227d1bcf1151207592fa0e9acc6d0231359e56",
+        "diplomatic/chapter-04-v1/validate_release.py": "90e6da300dae0337c7ba59cffa584e94d391487905f7956b8eac0e271778e156",
+        "diplomatic/chapter-04-v1/test_release.py": "2a8e4ec4ffbe622cd75088379921dc3a4d651725efe805abe8fdfb35d11b4c79",
+        "diplomatic/chapter-04-v1/checkpoints/0007-corruption-tests.json": "dd806146ab5ef77167cba9db636d9e3444284fbf7d97c7a5941004fe590756ff",
+        "diplomatic/chapter-04-v1/checkpoints/0007-unsigned-gate.json": "944e4208343d390646c4b8739fa819053e1dfdb75c08678b3f56e3c9a26ee28b",
+        "editions/adzom-2000/W1KG11703_7.txt": "18bd9ce65311e2d6d7c703f053a5c0aac347e899a75f8749a8f9afd891452edc",
+        "editions/tharpaling-1983/W27491_7.txt": "df05454b1ca21d893188b30e00b7b463abe369afc6ec26d917354a7d6de464c3",
+        "editions/sichuan-2016/W3CN7084_7.txt": "2cf6b52889211579dff68f2e064032f40926de266242f111b3c94bb4efa47c57",
+        "editions/adzom-wikisource/source.wikitext": "d2a6e95e8c65d28d7812efa79d65bd397a0796a9e00621430a86b5713b70ede8",
+        "diplomatic/chapter-04-v1/evidence/E01/manifest.json": "192f638962176cbba332a6f5685597444ff5f2c4230506ae427c82915e6a0d60",
+        "diplomatic/chapter-04-v1/evidence/E02/manifest.json": "2aecc88f85ff16830a8e62150d8ae353d75c20d7977cad642b0ba1f969cd3296",
+        "diplomatic/chapter-04-v1/evidence/focused/manifest.json": "ac0bcabe9e0b966ce026ce79784ce71e82ad3a70f7342ce3c2c02d08b7bf2dcc"
+      },
+      "review": "diplomatic/chapter-04-v1/FINAL-REVIEW.md",
+      "negative_tests_passed": 29,
+      "exhaustive_witness_collation": false
+    }
   },
   "interventions": [
     {

@@ -1,6 +1,6 @@
 # Chapter 4 — comparative apparatus
 
-**Release candidate — final gate pending**
+**Released bounded v1**
 
 A/B/S quote the exact supplied Adzom, Tharpaling and Sichuan transcripts, not automatically certified print variants. All 61 differences appear in 33 readable loci with explicit release decisions. The corrected Adzom reading is distinct from the unchanged A quotation.
 

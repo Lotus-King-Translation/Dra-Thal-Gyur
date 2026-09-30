@@ -1,15 +1,23 @@
-# Chapter 4 — bounded v1 work
+# Chapter 4 — bounded v1
 
-Chapter 4 starts only after the remotely verified Chapter 3 release, `chapter-03-v1.0.0` at `17abe1f0e68069406f782a77e93dab10841b81fb`.
+**Completed for the bounded release scope: chapter-04-v1.0.0.**
 
-The fixed scope preserves 458 original anchors U04306–U04763. Exact A/B/S comparison produces 61 differences in 33 readable loci. The related W reference has 55 non-equal blocks. Eight targeted source checks cover chapter boundaries, possible missing question verses, source-note layers, the first reply heading, and two local word questions. Candidate page numbers are locators, not claims of completed inspection.
+[Reading](release/reading.md) · [Apparatus](release/apparatus.md) · [Machine edition](release/reading.json) · [Changes](release/CHANGES.md) · [Coverage](release/COVERAGE.md)
 
-[Plan](PLAN.json) · [Progress](PROGRESS.json) · [Exact comparison](collation.json) · [W ledger](wikisource.json)
+| Fixed workstream | Complete | Remaining |
+|---|---:|---:|
+| A/B/S passage decisions | 33/33 | 0 |
+| W reference-block decisions | 55/55 | 0 |
+| Targeted source dispositions | 8/8 | 0 |
+| Deliverable groups | 5/5 | 0 |
+| Final tests and scoped signoff | Passed | 0 |
 
-The release gate is 33 passage decisions, 55 W decisions, eight source dispositions, five deliverable groups, final tests, source-bound signoff and verified commit/tag publication. Uncertainty can remain explicitly recorded. Whole-witness collation, a full physical proofread and reconstruction of an original text are not hidden prerequisites.
+All 458 original anchors U04306–U04763 are preserved. Three main question verses are restored after U04328. Two source-note components are separately preserved at U04312 and U04519, with their qualifications visible; U04562 remains explicitly uncertain without a conjectural word repair. All earlier released chapters remain unchanged.
 
-Run `python3 diplomatic/chapter-04-v1/progress.py --repo .` after each batch and publish its report with every verified remote commit. Preserve all earlier releases. Original source strings are never overwritten; corrections and insertions go into separate authored records.
+[Plan](PLAN.json) · [Progress](PROGRESS.json) · [Final review](FINAL-REVIEW.md) · [Validation](release/VALIDATION.json) · [29 corruption tests](checkpoints/0007-corruption-tests.json)
 
-Two initial combined terminal-read requests failed a platform safety-status check before execution. Standard file reading and shorter terminal reads then succeeded. The [access record](checkpoints/0000-tool-access.json) remains; no failed attempt receives reading credit.
+Exact fine-grained and whole-passage comparisons reconstruct B and S. The 55 W decisions preserve the related reference without treating it as an independent printing. Final signoff is bound to the actual source inputs and review. Remote commit/tag verification is a separate publication step; the version tag stays on released content rather than a later receipt.
 
-Next: inspect the frozen source targets, then record passage-specific decisions. The completed electronic alignment is not itself scan verification.
+Run `python3 diplomatic/chapter-04-v1/validate_release.py --repo . --require-final` to verify. Run `python3 diplomatic/chapter-04-v1/progress.py --repo .` for the fixed counters. Report status with every verified commit.
+
+Untargeted text remains the supplied Adzom transcript. Complete physical proofreading, exhaustive witness comparison and reconstruction of an original remain outside this v1 release. Chapter 5 has not been started.
