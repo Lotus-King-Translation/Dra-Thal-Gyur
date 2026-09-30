@@ -69,35 +69,35 @@ The reading text represents all 2,635 supplied Adzom e-text units, with individu
 
 <a id="u00012"></a>
 
-**U00012** འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན། ། [L1-0002](#l1-0002) [TH-C1-0002](#th-c1-0002) [DZ-OPEN-03](#dz-open-03) [TS-CONT-20260928-U00012](#ts-cont-20260928-u00012) [Comparison-scan second reading](reviews/chapter-01/second-dege-tingkye.md)
+**U00012** འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན། ། [L1-0002](#l1-0002) [TH-C1-0002](#th-c1-0002) [DZ-OPEN-03](#dz-open-03) [TS-CONT-20260928-U00012](#ts-cont-20260928-u00012) [DZ-V1-20260930-P03-O01](#dz-v1-20260930-p03-o01) [DZ-V1-20260930-P03-O02](#dz-v1-20260930-p03-o02) [Comparison-scan second reading](reviews/chapter-01/second-dege-tingkye.md)
 
 <a id="u00013"></a>
 
-**U00013** འཁོར་དང་འདས་པའི་ཐོག་མར་ནི། ། [TK-001](#tk-001) [GAD-COV1-B01-SIGN-Q09](#gad-cov1-b01-sign-q09) [ZH-COV1-B01-O04](#zh-cov1-b01-o04) [Tingkye/Degé scan variant](reviews/chapter-01/independent-openings.md#conflicts-that-can-be-reported-conservatively)
+**U00013** འཁོར་དང་འདས་པའི་ཐོག་མར་ནི། ། [TK-001](#tk-001) [GAD-COV1-B01-SIGN-Q09](#gad-cov1-b01-sign-q09) [ZH-COV1-B01-O04](#zh-cov1-b01-o04) [DZ-V1-20260930-P03-O02](#dz-v1-20260930-p03-o02) [Tingkye/Degé scan variant](reviews/chapter-01/independent-openings.md#conflicts-that-can-be-reported-conservatively)
 
 <a id="u00014"></a>
 
-**U00014** རང་བྱུང་བྱས་པ་མེད་པ་ལས། ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-SIGN-00014-UNCERTAIN](#scan-ch1-sign-00014-uncertain) [TK-002](#tk-002) [GAD-COV1-B01-P2-O05](#gad-cov1-b01-p2-o05) [GAD-COV1-B01-SIGN-Q09](#gad-cov1-b01-sign-q09) [ZH-COV1-B01-O04](#zh-cov1-b01-o04) [Tingkye/Degé scan variant](reviews/chapter-01/independent-openings.md#conflicts-that-can-be-reported-conservatively)
+**U00014** རང་བྱུང་བྱས་པ་མེད་པ་ལས། ། **[Print reading uncertain at this locus; see the linked evidence.]** [SCAN-CH1-SIGN-00014-UNCERTAIN](#scan-ch1-sign-00014-uncertain) [TK-002](#tk-002) [GAD-COV1-B01-P2-O05](#gad-cov1-b01-p2-o05) [GAD-COV1-B01-SIGN-Q09](#gad-cov1-b01-sign-q09) [ZH-COV1-B01-O04](#zh-cov1-b01-o04) [DZ-V1-20260930-P03-O02](#dz-v1-20260930-p03-o02) [Tingkye/Degé scan variant](reviews/chapter-01/independent-openings.md#conflicts-that-can-be-reported-conservatively)
 
 <a id="u00015"></a>
 
-**U00015** འབྱུང་བ་འདུས་པའི་ཕུང་པོར་ཤར། ། [ZH-COV1-B01-O05](#zh-cov1-b01-o05)
+**U00015** འབྱུང་བ་འདུས་པའི་ཕུང་པོར་ཤར། ། [ZH-COV1-B01-O05](#zh-cov1-b01-o05) [DZ-V1-20260930-P03-O02](#dz-v1-20260930-p03-o02)
 
 <a id="u00016"></a>
 
-**U00016** ས་ཆུ་མེ་རླུང་འབྱུང་བ་བཞི། །
+**U00016** ས་ཆུ་མེ་རླུང་འབྱུང་བ་བཞི། ། [DZ-V1-20260930-P03-O02](#dz-v1-20260930-p03-o02)
 
 <a id="u00017"></a>
 
-**U00017** དབུས་སུ་རླུང་སེམས་རྒྱུ་དང་རྐྱེན། ། [L1-0003](#l1-0003) [TH-C1-0003](#th-c1-0003) [GAD-COV1-B01-SIGN-Q10](#gad-cov1-b01-sign-q10)
+**U00017** དབུས་སུ་རླུང་སེམས་རྒྱུ་དང་རྐྱེན། ། [L1-0003](#l1-0003) [TH-C1-0003](#th-c1-0003) [GAD-COV1-B01-SIGN-Q10](#gad-cov1-b01-sign-q10) [DZ-V1-20260930-P03-O02](#dz-v1-20260930-p03-o02)
 
 <a id="u00018"></a>
 
-**U00018** འདུས་ཤིང་བསྐྱེད་པའི་གཞལ་མེད་ཁང་། ། [GAD-COV1-B01-SIGN-Q10](#gad-cov1-b01-sign-q10) [ZH-COV1-B01-O08](#zh-cov1-b01-o08) [Comparison-scan second reading](reviews/chapter-01/second-dege-tingkye.md)
+**U00018** འདུས་ཤིང་བསྐྱེད་པའི་གཞལ་མེད་ཁང་། ། [GAD-COV1-B01-SIGN-Q10](#gad-cov1-b01-sign-q10) [ZH-COV1-B01-O08](#zh-cov1-b01-o08) [DZ-V1-20260930-P03-O02](#dz-v1-20260930-p03-o02) [Comparison-scan second reading](reviews/chapter-01/second-dege-tingkye.md)
 
 <a id="u00019"></a>
 
-**U00019** རང་བྱུང་རིག་པས་བཅོས་པ་མེད། ། [TK-003](#tk-003) [GAD-CH1-004](#gad-ch1-004) [ZH-COV1-B01-O08](#zh-cov1-b01-o08) [ZH-COV1-B01-O09](#zh-cov1-b01-o09) [Comparison-scan second reading](reviews/chapter-01/second-dege-tingkye.md)
+**U00019** རང་བྱུང་རིག་པས་བཅོས་པ་མེད། ། [TK-003](#tk-003) [GAD-CH1-004](#gad-ch1-004) [ZH-COV1-B01-O08](#zh-cov1-b01-o08) [ZH-COV1-B01-O09](#zh-cov1-b01-o09) [DZ-V1-20260930-P03-O02](#dz-v1-20260930-p03-o02) [Comparison-scan second reading](reviews/chapter-01/second-dege-tingkye.md)
 
 <a id="u00020"></a>
 
@@ -25886,6 +25886,46 @@ Units: [U00040](#u00040).
 **Choice and reason:** Retain governing Adzom unchanged. Preserve each partial Zhichen reading at its stated confidence, with source notes physically separate and correspondence doubts visible. Do not expand unknown Sanskrit, infer a missing main verse, or supply an expected suffix.
 
 **Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0000-y0000.png), [p003-x0504-y0000.png](evidence/chapter-01/continuation/C1-ZHICHEN/B01-OPENING-P0002-0003/p003-x0504-y0000.png), [C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-ZHICHEN-B01-OPENING-P0002-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-ZHICHEN.md).
+
+<a id="dz-v1-20260930-p03-o01"></a>
+
+### DZ-V1-20260930-P03-O01 — Dzongsar
+
+Units: [U00012](#u00012).
+
+**Current Adzom main context:** འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན། །
+
+**Comparison reading/snippet:** སྐད་བདག་གིས་[Q09]པའི་དུས་གཅིག་ན
+
+**Status:** bounded_uncertainty. **Confidence:** {"location": "high", "alignment": "high", "Q09_letters": "unresolved", "surrounding_letters": "medium-high"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [974, 199, 1574, 277].
+
+**Observation:** The contour between གིས་ and པའི་ is not independently resolved. This is a local reading question, not a proposed replacement of the preserved lexical pass. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain the corrected Adzom reading unchanged. This is bounded Dzongsar physical evidence with explicitly retained questions, not a new preferred root reading.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-DZONGSAR/B02-PHYSICAL-P0001-0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-DZONGSAR/B02-PHYSICAL-P0001-0003/p003-x0000-y0000.png), [p003-x0519-y0000.png](evidence/chapter-01/continuation/C1-DZONGSAR/B02-PHYSICAL-P0001-0003/p003-x0519-y0000.png), [C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-DZONGSAR.md).
+
+<a id="dz-v1-20260930-p03-o02"></a>
+
+### DZ-V1-20260930-P03-O02 — Dzongsar
+
+Units: [U00012](#u00012), [U00013](#u00013), [U00014](#u00014), [U00015](#u00015), [U00016](#u00016), [U00017](#u00017), [U00018](#u00018), [U00019](#u00019).
+
+**Current Adzom main context:** འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན། ། / འཁོར་དང་འདས་པའི་ཐོག་མར་ནི། ། / རང་བྱུང་བྱས་པ་མེད་པ་ལས། ། / འབྱུང་བ་འདུས་པའི་ཕུང་པོར་ཤར། ། / ས་ཆུ་མེ་རླུང་འབྱུང་བ་བཞི། ། / དབུས་སུ་རླུང་སེམས་རྒྱུ་དང་རྐྱེན། ། / འདུས་ཤིང་བསྐྱེད་པའི་གཞལ་མེད་ཁང་། ། / རང་བྱུང་རིག་པས་བཅོས་པ་མེད། །
+
+**Comparison reading/snippet:** four central rows; O3 and recorded boundary strokes
+
+**Status:** localized_observation. **Confidence:** {"row_count": "high", "alignment": "high", "ordinary_bar_pairs": "medium-high", "U00012_boundary": "partial"}.
+
+**Locator:** PDF 3; source-member and native bounds in linked packet; bounds: [732, 195, 1781, 477].
+
+**Observation:** The opening ornament, its adjoining bar and the detached upright before སྐད are recorded separately. Six subsequent complete clause intervals show two distinct uprights each. The interval after ན retains one clear upright plus Q10; it is not silently normalized to the base's double shad. Frame rules are excluded. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.
+
+**Choice and reason:** Retain the corrected Adzom reading unchanged. This is bounded Dzongsar physical evidence with explicitly retained questions, not a new preferred root reading.
+
+**Evidence:** [p003-native.jpg](evidence/chapter-01/continuation/C1-DZONGSAR/B02-PHYSICAL-P0001-0003/p003-native.jpg), [p003-x0000-y0000.png](evidence/chapter-01/continuation/C1-DZONGSAR/B02-PHYSICAL-P0001-0003/p003-x0000-y0000.png), [p003-x0519-y0000.png](evidence/chapter-01/continuation/C1-DZONGSAR/B02-PHYSICAL-P0001-0003/p003-x0519-y0000.png), [C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-reading.txt](reviews/chapter-01/continuation/C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-reading.txt). [Review and coverage](reviews/chapter-01/continuation/C1-DZONGSAR.md).
 
 ## A/B/S transcript apparatus
 

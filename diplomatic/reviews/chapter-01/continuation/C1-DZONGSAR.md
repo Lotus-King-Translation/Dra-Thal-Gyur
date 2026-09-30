@@ -13,3 +13,15 @@ All five observations extend three existing apparatus identities. The older word
 **Remaining:** Finish the remaining Dzongsar physical signs, annotation, title and foreign-script scopes in bounded source-page batches. Retain Q22-L, Q27-R, Q35-L and Q35-R instead of repeating these same crops without new evidence.
 
 The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.
+
+## B02-PHYSICAL-P0001-0003 — preserved review integrated
+
+Dzongsar PDF1–3 physical report integrated: one undeciphered framed field, eight identified central text rows, four separate caption regions, fourteen observation dispositions and fourteen retained questions. Two bounded apparatus entries are added; earlier title and heading entries are rechecked without duplication.
+
+[Unchanged raw report](C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-reading.txt) · [Exact source and rows](C1-DZONGSAR.json).
+
+Native pages1–3, page1 left crop, pages2–3 central/right native columns and PDF4 opening context inspected. Existing DZ-OPEN-02 and DZ-OPEN-03 are not duplicated. Partial foreign-script and caption readings remain qualified. No Adzom reading is changed.
+
+**Remaining:** No further general Dzongsar reading is required for the approved v1. Retain Q01–Q14 and the existing later-locus questions in the release uncertainty register. Remaining continuous physical review belongs to the separately unfinished exhaustive edition.
+
+The full unresolved-component list and unexamined spans remain in the structured batch. This integration does not certify every glyph or the whole chapter.

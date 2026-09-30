@@ -36415,5 +36415,127 @@
       },
       "coordinator_scope": "Inspected both native overviews and the two overlapping native columns for each page. The black/red layers, four/six-row layout and bounded reading questions were checked against the original source. No title normalization, formulaic ending or conjectural U00026–U00028 correspondence is adopted."
     }
+  },
+  {
+    "id": "DZ-V1-20260930-P03-O01",
+    "witness": "Dzongsar",
+    "units": [
+      "U00012"
+    ],
+    "base_snippet_at_review": "U00012, especially གིས་ཐོས་པའི",
+    "comparison_reading": "སྐད་བདག་གིས་[Q09]པའི་དུས་གཅིག་ན",
+    "status": "bounded_uncertainty",
+    "confidence": "{\"location\": \"high\", \"alignment\": \"high\", \"Q09_letters\": \"unresolved\", \"surrounding_letters\": \"medium-high\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [974, 199, 1574, 277]",
+    "rationale": "The contour between གིས་ and པའི་ is not independently resolved. This is a local reading question, not a proposed replacement of the preserved lexical pass. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the corrected Adzom reading unchanged. This is bounded Dzongsar physical evidence with explicitly retained questions, not a new preferred root reading.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DZONGSAR/B02-PHYSICAL-P0001-0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-DZONGSAR/B02-PHYSICAL-P0001-0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DZONGSAR/B02-PHYSICAL-P0001-0003/p003-x0519-y0000.png",
+      "reviews/chapter-01/continuation/C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DZONGSAR.md",
+    "continuation_provenance": {
+      "batch_id": "B02-PHYSICAL-P0001-0003",
+      "baseline_commit": "581a4718aeac984d901d7a83017fac0c303c15f8",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-reading.txt",
+        "sha256": "c29918ed1a1995dd827acb519c0ad7bd287d044bc9de81f5177eaf5e367b12f5"
+      },
+      "observation": {
+        "id": "P03-O01",
+        "pdf_page": 3,
+        "anchors": [
+          "U00012"
+        ],
+        "source_span": "སྐད་བདག་གིས་[Q09]པའི་དུས་གཅིག་ན",
+        "base_span": "U00012, especially གིས་ཐོས་པའི",
+        "category": "unresolved_local_reading",
+        "neighboring_context": "Incoming large འདི་ on page 2; following འཁོར་དང་ on this row.",
+        "approximate_native_bounds": [
+          974,
+          199,
+          1574,
+          277
+        ],
+        "confidence": {
+          "location": "high",
+          "alignment": "high",
+          "Q09_letters": "unresolved",
+          "surrounding_letters": "medium-high"
+        },
+        "rationale": "The contour between གིས་ and པའི་ is not independently resolved. This is a local reading question, not a proposed replacement of the preserved lexical pass."
+      },
+      "coordinator_scope": "Bounded physical-layout and uncertainty review of the inspected native views; no new secure foreign-script/title or caption completion, and no wholesale lexical-pass certification."
+    }
+  },
+  {
+    "id": "DZ-V1-20260930-P03-O02",
+    "witness": "Dzongsar",
+    "units": [
+      "U00012",
+      "U00013",
+      "U00014",
+      "U00015",
+      "U00016",
+      "U00017",
+      "U00018",
+      "U00019"
+    ],
+    "base_snippet_at_review": "U00012–U00019 fragments",
+    "comparison_reading": "four central rows; O3 and recorded boundary strokes",
+    "status": "localized_observation",
+    "confidence": "{\"row_count\": \"high\", \"alignment\": \"high\", \"ordinary_bar_pairs\": \"medium-high\", \"U00012_boundary\": \"partial\"}",
+    "locator": "PDF 3; source-member and native bounds in linked packet; bounds: [732, 195, 1781, 477]",
+    "rationale": "The opening ornament, its adjoining bar and the detached upright before སྐད are recorded separately. Six subsequent complete clause intervals show two distinct uprights each. The interval after ན retains one clear upright plus Q10; it is not silently normalized to the base's double shad. Frame rules are excluded. Reading scope and uncertainty are confined to the stated component; graphic/Q codes are defined in the linked raw report.",
+    "decision": "Retain the corrected Adzom reading unchanged. This is bounded Dzongsar physical evidence with explicitly retained questions, not a new preferred root reading.",
+    "evidence": [
+      "evidence/chapter-01/continuation/C1-DZONGSAR/B02-PHYSICAL-P0001-0003/p003-native.jpg",
+      "evidence/chapter-01/continuation/C1-DZONGSAR/B02-PHYSICAL-P0001-0003/p003-x0000-y0000.png",
+      "evidence/chapter-01/continuation/C1-DZONGSAR/B02-PHYSICAL-P0001-0003/p003-x0519-y0000.png",
+      "reviews/chapter-01/continuation/C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-reading.txt"
+    ],
+    "review": "reviews/chapter-01/continuation/C1-DZONGSAR.md",
+    "continuation_provenance": {
+      "batch_id": "B02-PHYSICAL-P0001-0003",
+      "baseline_commit": "581a4718aeac984d901d7a83017fac0c303c15f8",
+      "raw_report": {
+        "path": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-reading.txt",
+        "sha256": "c29918ed1a1995dd827acb519c0ad7bd287d044bc9de81f5177eaf5e367b12f5"
+      },
+      "observation": {
+        "id": "P03-O02",
+        "pdf_page": 3,
+        "anchors": [
+          "U00012",
+          "U00013",
+          "U00014",
+          "U00015",
+          "U00016",
+          "U00017",
+          "U00018",
+          "U00019"
+        ],
+        "source_span": "four central rows; O3 and recorded boundary strokes",
+        "base_span": "U00012–U00019 fragments",
+        "category": "physical_rows_and_sign_inventory",
+        "neighboring_context": "Page begins mid-U00012 and ends mid-U00019.",
+        "approximate_native_bounds": [
+          732,
+          195,
+          1781,
+          477
+        ],
+        "confidence": {
+          "row_count": "high",
+          "alignment": "high",
+          "ordinary_bar_pairs": "medium-high",
+          "U00012_boundary": "partial"
+        },
+        "rationale": "The opening ornament, its adjoining bar and the detached upright before སྐད are recorded separately. Six subsequent complete clause intervals show two distinct uprights each. The interval after ན retains one clear upright plus Q10; it is not silently normalized to the base's double shad. Frame rules are excluded."
+      },
+      "coordinator_scope": "Bounded physical-layout and uncertainty review of the inspected native views; no new secure foreign-script/title or caption completion, and no wholesale lexical-pass certification."
+    }
   }
 ]

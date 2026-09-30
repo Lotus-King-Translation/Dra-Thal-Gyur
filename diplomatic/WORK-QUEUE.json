@@ -685,7 +685,7 @@
       "id": "C1-DZONGSAR",
       "kind": "witness_coverage",
       "status": "in_progress",
-      "owner": "bounded-source-reader-COVERAGE-W01",
+      "owner": "ChatGPT-coordinator-20260929-integration",
       "depends_on": [
         "C1-BASE-PHYSICAL"
       ],
@@ -713,10 +713,10 @@
       "checkpoint_commit": null,
       "blocker": null,
       "dependency_policy": "preferred_order",
-      "current_batch_id": "B02-PHYSICAL-P0001-0003",
+      "current_batch_id": null,
       "bounded_parallel_policy": "One distinct bounded task per reader; no more than five source pages including flanks. Only the coordinator publishes after readers pause; no automatic adoption.",
-      "last_integrated_batch_id": "B01-U00440-U00534-U00710",
-      "next_step": "Finish the remaining Dzongsar physical signs, annotation, title and foreign-script scopes in bounded source-page batches. Retain Q22-L, Q27-R, Q35-L and Q35-R instead of repeating these same crops without new evidence.",
+      "last_integrated_batch_id": "B02-PHYSICAL-P0001-0003",
+      "next_step": "No further general Dzongsar reading is required for the approved v1. Retain Q01–Q14 and the existing later-locus questions in the release uncertainty register. Remaining continuous physical review belongs to the separately unfinished exhaustive edition.",
       "current_claims": [
         {
           "batch_id": "B02-PHYSICAL-P0001-0003",

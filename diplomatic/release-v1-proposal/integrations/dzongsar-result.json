@@ -1,0 +1,19 @@
+{
+  "verified_reader": {
+    "raw_report": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-reading.txt",
+    "sha256": "c29918ed1a1995dd827acb519c0ad7bd287d044bc9de81f5177eaf5e367b12f5",
+    "images_hash_verified": 11,
+    "execution_receipt": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-execution.json"
+  },
+  "new_record_ids": [
+    "DZ-V1-20260930-P03-O01",
+    "DZ-V1-20260930-P03-O02"
+  ],
+  "previous_records_unchanged": 667,
+  "all_2635_source_and_reading_strings_unchanged": true,
+  "all_insertions_and_interventions_unchanged": true,
+  "chapter_complete": false,
+  "request": "diplomatic/release-v1-proposal/integrations/dzongsar.json",
+  "parent_commit": "581a4718aeac984d901d7a83017fac0c303c15f8",
+  "scope": "Bounded v1 integration; existing exhaustive gate remains unfinished."
+}

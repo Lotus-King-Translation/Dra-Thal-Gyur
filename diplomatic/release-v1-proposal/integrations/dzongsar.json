@@ -1,0 +1,58 @@
+{
+  "parent_commit": "581a4718aeac984d901d7a83017fac0c303c15f8",
+  "plan": {
+    "task": "C1-DZONGSAR",
+    "batch": "B02-PHYSICAL-P0001-0003",
+    "target_page": 1,
+    "target_pages": [
+      1,
+      2,
+      3
+    ],
+    "manifest": "diplomatic/evidence/chapter-01/continuation/C1-DZONGSAR/B02-PHYSICAL-P0001-0003/manifest.json",
+    "output_stem": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader"
+  },
+  "decisions": {
+    "task_id": "C1-DZONGSAR",
+    "batch_id": "B02-PHYSICAL-P0001-0003",
+    "selected_observations": [
+      "P03-O01",
+      "P03-O02"
+    ],
+    "record_statuses": {
+      "P03-O01": "bounded_uncertainty",
+      "P03-O02": "localized_observation"
+    },
+    "record_prefix": "DZ-V1-20260930",
+    "witness": "Dzongsar",
+    "base_disposition": "Retain the corrected Adzom reading unchanged. This is bounded Dzongsar physical evidence with explicitly retained questions, not a new preferred root reading.",
+    "planned_new_records": 2,
+    "next_task_id": "C1-W1ER119",
+    "coordinator": {
+      "summary": "Dzongsar PDF1–3 physical report integrated: one undeciphered framed field, eight identified central text rows, four separate caption regions, fourteen observation dispositions and fourteen retained questions. Two bounded apparatus entries are added; earlier title and heading entries are rechecked without duplication.",
+      "next_step": "No further general Dzongsar reading is required for the approved v1. Retain Q01–Q14 and the existing later-locus questions in the release uncertainty register. Remaining continuous physical review belongs to the separately unfinished exhaustive edition.",
+      "detail": "Native pages1–3, page1 left crop, pages2–3 central/right native columns and PDF4 opening context inspected. Existing DZ-OPEN-02 and DZ-OPEN-03 are not duplicated. Partial foreign-script and caption readings remain qualified. No Adzom reading is changed.",
+      "coordinator_scope": "Bounded physical-layout and uncertainty review of the inspected native views; no new secure foreign-script/title or caption completion, and no wholesale lexical-pass certification.",
+      "observation_dispositions": {
+        "P01-O01": "Retain the bounded central-field nonreading Q01. The inspected faint field does not establish title absence or an exact line count.",
+        "P01-O02": "Preserve Q02 as a visible but undeciphered marginal label; no expected foliation/title is supplied.",
+        "P01-O03": "Retain the frame/mark inventory and tentative ka identification in the physical ledger only; do not infer numeral values.",
+        "P02-O01": "Extend the evidence for existing DZ-OPEN-02 through this linked ledger. Foreign cluster Q04 remains unresolved; no duplicate title variant or normalized Sanskrit is created.",
+        "P02-O02": "Retain the reader partial title and row break as qualified evidence alongside DZ-OPEN-02. Q05 and exact title microforms remain open, not a source replacement.",
+        "P02-O03": "Accept four central-row layout and observed joins as physical context. No wholesale recertification of the existing lexical pass or every punctuation stroke.",
+        "P02-O04": "Reaffirm the physical relation already described by DZ-OPEN-03: large di precedes the smaller heading on row4. Keep the note separate; do not duplicate that apparatus record.",
+        "P02-O05": "Preserve the separate caption region and partial reading; Q06/Q07 remain unresolved and excluded from root verse.",
+        "P02-O06": "Preserve the separate right caption and Q08, without restoration from portrait identity or familiar formulas.",
+        "P03-O01": "Publish a bounded U00012 verb-cluster uncertainty, not a contrary established reading or an Adzom correction. This reinspection does not overwrite the surviving lexical-pass evidence.",
+        "P03-O02": "Publish the bounded four-row/opening-sign inventory; retain Q10 at the U00012/U00013 boundary. This is physical evidence, not exact all-glyph certification.",
+        "P03-O03": "Keep the left portrait-caption fragments separate and Q11/Q12 visibly unresolved; no personal-name completion.",
+        "P03-O04": "Keep the right portrait-caption fragments separate and Q13/Q14 unresolved; no inferred identity.",
+        "P03-O05": "Accept the local rig / pas page join as boundary context. PDF4 is not newly collated by this packet."
+      },
+      "rechecks_existing_record_ids": [
+        "DZ-OPEN-02",
+        "DZ-OPEN-03"
+      ]
+    }
+  }
+}

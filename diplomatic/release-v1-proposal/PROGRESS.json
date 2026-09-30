@@ -5,9 +5,9 @@
   "audited_baseline": "55d6b61225dc9ef3d7b32ed2e905fce4ef89d5cf",
   "packets": {
     "total": 8,
-    "integrated": 0,
+    "integrated": 1,
     "deferred_not_collated": 5,
-    "remaining": 3,
+    "remaining": 2,
     "items": [
       {
         "task": "C1-BASE-PHYSICAL",
@@ -22,10 +22,10 @@
         "task": "C1-DZONGSAR",
         "batch": "B02-PHYSICAL-P0001-0003",
         "scope": "Dzongsar physical PDF1-3",
-        "recorded_status": "claimed_prepared_not_read",
-        "integrated": false,
+        "recorded_status": "review_integrated_with_bounded_uncertainties",
+        "integrated": true,
         "explicitly_deferred_not_collated": false,
-        "remaining": true
+        "remaining": false
       },
       {
         "task": "C1-TINGKYE",

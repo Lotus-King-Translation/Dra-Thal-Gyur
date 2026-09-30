@@ -11,7 +11,7 @@
   "scan_restored_main_verse_lines": 13,
   "scan_restored_source_headings": 1,
   "scan_correction_or_layer_separation_records": 88,
-  "local_comparison_scan_findings_including_candidates": 667,
+  "local_comparison_scan_findings_including_candidates": 669,
   "base_scan_fully_proofread": false,
   "all_acquired_witnesses_fully_collated": false,
   "complete_every_conflict_claim": false,
@@ -10045,6 +10045,213 @@
         },
         "next_physical_span": "Keep Chapter 1 endpoint unlocated in Zhichen. Use a bounded actual-word alignment and the next candidate material from PDF107 onward only as a chronological continuation, not a predicted endpoint. Meanwhile full lexical reading resumes at PDF4 after the integrated opening; PDF102–106 have no continuous lexical-coverage credit.",
         "reader_claims_require_coordinator_dispositions": true
+      },
+      {
+        "task_id": "C1-DZONGSAR",
+        "batch_id": "B02-PHYSICAL-P0001-0003",
+        "target_pages": [
+          1,
+          2,
+          3
+        ],
+        "report": "reviews/chapter-01/continuation/C1-DZONGSAR.json",
+        "summary": "Dzongsar PDF1–3 physical report integrated: one undeciphered framed field, eight identified central text rows, four separate caption regions, fourteen observation dispositions and fourteen retained questions. Two bounded apparatus entries are added; earlier title and heading entries are rechecked without duplication.",
+        "rows_reported": 9,
+        "canonical_record_ids": [
+          "DZ-V1-20260930-P03-O01",
+          "DZ-V1-20260930-P03-O02"
+        ],
+        "whole_pages_newly_certified": [],
+        "coverage_assessment": {
+          "image_access_failure": null,
+          "method": "Direct inspection of attached images only; no tools, files, network or OCR used. Informed independent model reading, not blind review or credentialed human palaeography.",
+          "physical_inspection": "All three target page surfaces inspected; page 1 central row count is unrecoverable, and pages 2 and 3 each have four identifiable central text rows.",
+          "decoding_status": "Partial: all identifiable main rows are represented, with local uncertainty retained; foreign script, the page-1 field and label, and portions of the four captions remain Q-coded.",
+          "witness_independence": "Native views and overlapping crops are the same source pixels, not independent witnesses.",
+          "lexical_pass": "Existing continuous lexical-pass coverage preserved without wholesale recertification. No chapter or witness certification is claimed."
+        },
+        "unread_after_inspection": [
+          {
+            "id": "Q01",
+            "pdf_page": 1,
+            "anchor": null,
+            "native_bounds": [
+              312,
+              220,
+              2212,
+              449
+            ],
+            "exact_question": "Do the faint interior traces preserve any recoverable lettering, and, if so, what sequence and physical baselines? No central letters are supplied."
+          },
+          {
+            "id": "Q02",
+            "pdf_page": 1,
+            "anchor": null,
+            "native_bounds": [
+              255,
+              219,
+              300,
+              410
+            ],
+            "exact_question": "What is the complete gold vertical marginal label, including its initial and final signs?"
+          },
+          {
+            "id": "Q03",
+            "pdf_page": 1,
+            "anchor": null,
+            "native_bounds": [
+              95,
+              40,
+              195,
+              200
+            ],
+            "exact_question": "Are the upper-left dark and reddish strokes lexical or numerical marks, and what are their forms? No numeral value is assigned."
+          },
+          {
+            "id": "Q04",
+            "pdf_page": 2,
+            "anchor": null,
+            "native_bounds": [
+              973,
+              205,
+              1144,
+              276
+            ],
+            "exact_question": "What is the compact foreign-looking cluster before རྒྱ་གར་སྐད་དུ, including whether its outer upright strokes are script components or detached boundary marks?"
+          },
+          {
+            "id": "Q05",
+            "pdf_page": 2,
+            "anchor": "U00006",
+            "native_bounds": [
+              1556,
+              207,
+              1608,
+              275
+            ],
+            "exact_question": "What consonantal/subjoined components follow the visible ཤ and precede མ in the Sanskrit title, and is any separator present within that interval?"
+          },
+          {
+            "id": "Q06",
+            "pdf_page": 2,
+            "anchor": null,
+            "native_bounds": [
+              454,
+              477,
+              665,
+              515
+            ],
+            "exact_question": "What are the small caption letters between དངོས་པོ་ and the final visible སྐུ of the first part?"
+          },
+          {
+            "id": "Q07",
+            "pdf_page": 2,
+            "anchor": null,
+            "native_bounds": [
+              704,
+              477,
+              806,
+              515
+            ],
+            "exact_question": "What begins the second left-caption part before the readable ཆོས་སྐུ་ལ་ཕྱག་འཚལ?"
+          },
+          {
+            "id": "Q08",
+            "pdf_page": 2,
+            "anchor": null,
+            "native_bounds": [
+              1664,
+              477,
+              1810,
+              516
+            ],
+            "exact_question": "What follows ཡན་ལག་བདུན་ up to the first-part closing upright in the right caption?"
+          },
+          {
+            "id": "Q09",
+            "pdf_page": 3,
+            "anchor": "U00012",
+            "native_bounds": [
+              1214,
+              199,
+              1332,
+              278
+            ],
+            "exact_question": "What exact cluster and separator occur between གིས་ and པའི་? The base's ཐོས་ is not adopted as evidence."
+          },
+          {
+            "id": "Q10",
+            "pdf_page": 3,
+            "anchor": "U00012/U00013 boundary",
+            "native_bounds": [
+              1552,
+              199,
+              1633,
+              279
+            ],
+            "exact_question": "Beyond the clear upright after ན, is there another detached bar before འཁོར, or is the relevant stroke attached to the following letter?"
+          },
+          {
+            "id": "Q11",
+            "pdf_page": 3,
+            "anchor": null,
+            "native_bounds": [
+              440,
+              480,
+              622,
+              518
+            ],
+            "exact_question": "What completes the first left-caption part after སྤྲུལ་པ་ and before its closing upright?"
+          },
+          {
+            "id": "Q12",
+            "pdf_page": 3,
+            "anchor": null,
+            "native_bounds": [
+              631,
+              480,
+              864,
+              518
+            ],
+            "exact_question": "What is the second left-caption part after its leading upright, including its terminal letters and punctuation?"
+          },
+          {
+            "id": "Q13",
+            "pdf_page": 3,
+            "anchor": null,
+            "native_bounds": [
+              1675,
+              480,
+              1818,
+              521
+            ],
+            "exact_question": "What completes the first right-caption part after གསང་ཆེན་ and before its closing upright?"
+          },
+          {
+            "id": "Q14",
+            "pdf_page": 3,
+            "anchor": null,
+            "native_bounds": [
+              1821,
+              480,
+              2100,
+              521
+            ],
+            "exact_question": "What is the second right-caption part after its leading upright, including its terminal letters and punctuation?"
+          }
+        ],
+        "unexamined_spans": {
+          "actual_target_omissions": [],
+          "deliberately_excluded_flanks": [
+            {
+              "pdf_page": 4,
+              "scope": "All lexical collation beyond the initial continuation པས་བཅོས་པ་མེད; remaining rows, notes and margins are outside this batch."
+            }
+          ],
+          "distinction": "Q-coded target material was visually inspected but remains unread; it is not an unexamined omission."
+        },
+        "next_physical_span": "No further general Dzongsar reading is required for the approved v1. Retain Q01–Q14 and the existing later-locus questions in the release uncertainty register. Remaining continuous physical review belongs to the separately unfinished exhaustive edition.",
+        "reader_claims_require_coordinator_dispositions": true
       }
     ]
   },
@@ -10058,7 +10265,7 @@
     "Continuous collation and internal-exposure accounting for mapped Adzom1973 and Gcn ranges",
     "Sichuan full scan unavailable"
   ],
-  "chapter_markdown_sha256": "2ba8e18dc0ece53fd06551c2baf6c467075e99c2f2999f91e6666a183a126efa",
+  "chapter_markdown_sha256": "1232ad8bc69bad44fe1c5e6cad5a62a1931d0ebef975c4fba5093af4d085c7f9",
   "recovery_checkpoint": "recovery/2026-09-27-local/recovery-audit.json",
   "current_handoff": "HANDOFF.md",
   "sign_review_adoption_audit": "reviews/chapter-01/sign-adoption-audit-20260927.md",
