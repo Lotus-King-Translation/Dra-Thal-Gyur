@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "checks_passed": true,
+  "counts": {
+    "original_anchors": 434,
+    "reading_sequence_items": 436,
+    "source_annotations": 3,
+    "restored_main_verses": 2,
+    "choices_cross_checked": 27,
+    "exact_reconstruction_paths": 4,
+    "W_raw_lines_checked": 440,
+    "local_release_links_checked": 838,
+    "exact_displayed_transcript_quotes": 81,
+    "W_display_blocks_checked": 40,
+    "accepted_matched_focused_contexts": 12,
+    "evidence_image_hashes_checked": 89
+  },
+  "transcript_loci": 27,
+  "W_blocks": 40,
+  "source_checks": 12,
+  "deliverable_groups": 5,
+  "original_source_preservation": true,
+  "prior_releases_unchanged": true,
+  "build_checks": [
+    {
+      "reproducible": true,
+      "source_units": 434,
+      "exact_differences": 48,
+      "readable_loci": 27,
+      "difference_classes": {
+        "presentation": 36,
+        "textual": 12
+      },
+      "structural_candidates": [
+        "C5-0037"
+      ],
+      "pairwise_alignment": {
+        "B": {
+          "exact_alignment_anchors": 384,
+          "operations": {
+            "equal": 14,
+            "replace": 5,
+            "insert": 6,
+            "delete": 3
+          }
+        },
+        "S": {
+          "exact_alignment_anchors": 370,
+          "operations": {
+            "equal": 41,
+            "insert": 36,
+            "delete": 2,
+            "replace": 2
+          }
+        }
+      },
+      "minimal_and_whole_locus_reconstruction_passed": true,
+      "W_lines_accounted": 440,
+      "W_reference_lines": 423,
+      "W_conflict_blocks": 40,
+      "W_equal_normalized_units": 388,
+      "caveat": "Exact data coverage and monotonic alignment are not source-glyph verification or automatic variant decisions."
+    },
+    {
+      "reproducible": true,
+      "files": 9,
+      "state": "release_candidate",
+      "counts": {
+        "source_anchors": 434,
+        "transcript_loci": 27,
+        "exact_differences": 48,
+        "W_blocks": 40,
+        "source_checks": 12,
+        "interventions": 4,
+        "changed_anchor_strings": 3,
+        "source_annotations": 3,
+        "restored_main_verses": 2,
+        "reading_sequence_items": 436
+      }
+    }
+  ],
+  "completed_for_approved_scope": false,
+  "full_base_scan_proofread": false,
+  "exhaustive_witness_collation": false,
+  "limits": "Checks source preservation, reconstruction, explicit decisions, annotation/restoration assembly and display. Not a character-accuracy estimate or independent human manuscript certification."
+}

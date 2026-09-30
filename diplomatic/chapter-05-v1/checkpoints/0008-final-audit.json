@@ -1,0 +1,140 @@
+{
+  "previous_remote_commit": "65b0a9694930cf6cb90f0bdb9d7e3bce9a168c1b",
+  "progress": {
+    "chapter": 5,
+    "state": "approved_in_progress",
+    "source_anchors": 434,
+    "electronic_representations_verified": 4,
+    "transcript_loci": {
+      "total": 27,
+      "documented": 27,
+      "remaining": 0,
+      "invalid": []
+    },
+    "W_blocks": {
+      "total": 40,
+      "documented": 40,
+      "remaining": 0,
+      "invalid": []
+    },
+    "source_checks": {
+      "total": 12,
+      "documented": 12,
+      "remaining": 0,
+      "invalid": []
+    },
+    "interventions": 4,
+    "restored_main_verses": 2,
+    "deliverables": {
+      "total": 5,
+      "present": 5
+    },
+    "final_signoff": false,
+    "exhaustive_witness_collation": false,
+    "accuracy_score": null,
+    "time_estimate": null
+  },
+  "positive_validation": {
+    "schema_version": 1,
+    "checks_passed": true,
+    "counts": {
+      "original_anchors": 434,
+      "reading_sequence_items": 436,
+      "source_annotations": 3,
+      "restored_main_verses": 2,
+      "choices_cross_checked": 27,
+      "exact_reconstruction_paths": 4,
+      "W_raw_lines_checked": 440,
+      "local_release_links_checked": 838,
+      "exact_displayed_transcript_quotes": 81,
+      "W_display_blocks_checked": 40,
+      "accepted_matched_focused_contexts": 12,
+      "evidence_image_hashes_checked": 89
+    },
+    "transcript_loci": 27,
+    "W_blocks": 40,
+    "source_checks": 12,
+    "deliverable_groups": 5,
+    "original_source_preservation": true,
+    "prior_releases_unchanged": true,
+    "build_checks": [
+      {
+        "reproducible": true,
+        "source_units": 434,
+        "exact_differences": 48,
+        "readable_loci": 27,
+        "difference_classes": {
+          "presentation": 36,
+          "textual": 12
+        },
+        "structural_candidates": [
+          "C5-0037"
+        ],
+        "pairwise_alignment": {
+          "B": {
+            "exact_alignment_anchors": 384,
+            "operations": {
+              "equal": 14,
+              "replace": 5,
+              "insert": 6,
+              "delete": 3
+            }
+          },
+          "S": {
+            "exact_alignment_anchors": 370,
+            "operations": {
+              "equal": 41,
+              "insert": 36,
+              "delete": 2,
+              "replace": 2
+            }
+          }
+        },
+        "minimal_and_whole_locus_reconstruction_passed": true,
+        "W_lines_accounted": 440,
+        "W_reference_lines": 423,
+        "W_conflict_blocks": 40,
+        "W_equal_normalized_units": 388,
+        "caveat": "Exact data coverage and monotonic alignment are not source-glyph verification or automatic variant decisions."
+      },
+      {
+        "reproducible": true,
+        "files": 9,
+        "state": "release_candidate",
+        "counts": {
+          "source_anchors": 434,
+          "transcript_loci": 27,
+          "exact_differences": 48,
+          "W_blocks": 40,
+          "source_checks": 12,
+          "interventions": 4,
+          "changed_anchor_strings": 3,
+          "source_annotations": 3,
+          "restored_main_verses": 2,
+          "reading_sequence_items": 436
+        }
+      }
+    ],
+    "completed_for_approved_scope": false,
+    "full_base_scan_proofread": false,
+    "exhaustive_witness_collation": false,
+    "limits": "Checks source preservation, reconstruction, explicit decisions, annotation/restoration assembly and display. Not a character-accuracy estimate or independent human manuscript certification."
+  },
+  "corruption_cases_rejected": 32,
+  "unsigned_final_gate_rejected": true,
+  "display_reviewed": [
+    "U04764",
+    "U04793",
+    "U04923",
+    "U04951",
+    "U05079",
+    "A2000-C05-S01",
+    "U05094",
+    "U05106",
+    "U05132",
+    "U05197",
+    "C5-TRANSITION"
+  ],
+  "final_signoff": false,
+  "next": "Record source-bound signoff, fresh final validation and remotely verified release tag."
+}

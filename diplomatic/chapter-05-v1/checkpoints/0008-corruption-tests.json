@@ -1,0 +1,172 @@
+{
+  "returncode": 0,
+  "result": {
+    "positive_case_passed": true,
+    "negative_cases_rejected": 32,
+    "cases": [
+      {
+        "case": "lost_original_anchor",
+        "rejected": true,
+        "reason": "Original anchors lost, duplicated or reordered"
+      },
+      {
+        "case": "altered_original_source",
+        "rejected": true,
+        "reason": "Original source units altered"
+      },
+      {
+        "case": "changed_selected_word",
+        "rejected": true,
+        "reason": "Selected text or layer altered"
+      },
+      {
+        "case": "root_moved_to_heading",
+        "rejected": true,
+        "reason": "Selected text or layer altered"
+      },
+      {
+        "case": "lost_source_note",
+        "rejected": true,
+        "reason": "Separate source annotation altered, lost or duplicated"
+      },
+      {
+        "case": "duplicated_source_note",
+        "rejected": true,
+        "reason": "Separate source annotation altered, lost or duplicated"
+      },
+      {
+        "case": "changed_source_note",
+        "rejected": true,
+        "reason": "Separate source annotation altered, lost or duplicated"
+      },
+      {
+        "case": "lost_restoration",
+        "rejected": true,
+        "reason": "Reading sequence, insertion order or undecoded boundary changed"
+      },
+      {
+        "case": "changed_restored_word",
+        "rejected": true,
+        "reason": "Reading sequence, insertion order or undecoded boundary changed"
+      },
+      {
+        "case": "changed_restored_lines",
+        "rejected": true,
+        "reason": "Reading sequence, insertion order or undecoded boundary changed"
+      },
+      {
+        "case": "restoration_moved_to_note",
+        "rejected": true,
+        "reason": "Reading sequence, insertion order or undecoded boundary changed"
+      },
+      {
+        "case": "duplicated_restoration",
+        "rejected": true,
+        "reason": "Reading sequence, insertion order or undecoded boundary changed"
+      },
+      {
+        "case": "restoration_reordered",
+        "rejected": true,
+        "reason": "Reading sequence, insertion order or undecoded boundary changed"
+      },
+      {
+        "case": "restoration_metadata_lost",
+        "rejected": true,
+        "reason": "Restoration metadata changed"
+      },
+      {
+        "case": "invented_extra_segment",
+        "rejected": true,
+        "reason": "Reading sequence, insertion order or undecoded boundary changed"
+      },
+      {
+        "case": "invented_boundary_text",
+        "rejected": true,
+        "reason": "Reading sequence, insertion order or undecoded boundary changed"
+      },
+      {
+        "case": "boundary_counted_as_root",
+        "rejected": true,
+        "reason": "Reading sequence, insertion order or undecoded boundary changed"
+      },
+      {
+        "case": "lost_uncertainty",
+        "rejected": true,
+        "reason": "Reading uncertainty concealed or inflated"
+      },
+      {
+        "case": "changed_combined_reading",
+        "rejected": true,
+        "reason": "Combined text is inconsistent"
+      },
+      {
+        "case": "false_full_proofread",
+        "rejected": true,
+        "reason": "Inflated coverage claim"
+      },
+      {
+        "case": "false_all_witnesses",
+        "rejected": true,
+        "reason": "Inflated coverage claim"
+      },
+      {
+        "case": "changed_transcript_quote",
+        "rejected": true,
+        "reason": "Apparatus or decision export changed"
+      },
+      {
+        "case": "lost_W_record",
+        "rejected": true,
+        "reason": "Apparatus or decision export changed"
+      },
+      {
+        "case": "lost_intervention",
+        "rejected": true,
+        "reason": "Source apparatus evidence lost"
+      },
+      {
+        "case": "wrong_release_choice",
+        "rejected": true,
+        "reason": "Choice reading drift"
+      },
+      {
+        "case": "wrong_choice_anchor",
+        "rejected": true,
+        "reason": "Choice mapped to wrong passage"
+      },
+      {
+        "case": "invalid_choice_status",
+        "rejected": true,
+        "reason": "Invalid choice status"
+      },
+      {
+        "case": "missing_restoration_link",
+        "rejected": true,
+        "reason": "A/B/S restoration link absent"
+      },
+      {
+        "case": "summary_notice_moved_to_root",
+        "rejected": true,
+        "reason": "Selected text or layer altered"
+      },
+      {
+        "case": "changed_summary_notice",
+        "rejected": true,
+        "reason": "Selected text or layer altered"
+      },
+      {
+        "case": "lost_W_restoration_link",
+        "rejected": true,
+        "reason": "W restoration link absent"
+      },
+      {
+        "case": "wrong_W_line",
+        "rejected": true,
+        "reason": "W decision mapping drift"
+      }
+    ],
+    "editorial_originals_modified": false
+  },
+  "stdout": null,
+  "stderr": ""
+}

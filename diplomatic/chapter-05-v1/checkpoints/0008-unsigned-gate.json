@@ -1,0 +1,6 @@
+{
+  "expected_failure": true,
+  "returncode": 1,
+  "stdout": "",
+  "stderr": "Traceback (most recent call last):\n  File \"/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/chapter-05-v1/validate_release.py\", line 215, in <module>\n    if __name__=='__main__': main()\n                             ~~~~^^\n  File \"/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/chapter-05-v1/validate_release.py\", line 202, in main\n    require(state['status']=='released_bounded_v1' and bool(d.get('final_signoff')),'Final scoped signoff absent')\n    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/chapter-05-v1/validate_release.py\", line 10, in require\n    if not test: raise ValueError(message)\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: Final scoped signoff absent\n"
+}
