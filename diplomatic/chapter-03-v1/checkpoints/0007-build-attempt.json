@@ -1,0 +1,5 @@
+{
+  "result": "KeyError in new serializer count field; no release files had been written.",
+  "stderr": "Traceback (most recent call last):\n  File \"/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/chapter-03-v1/build_release.py\", line 232, in <module>\n    if __name__=='__main__': main()\n                             ~~~~^^\n  File \"/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/chapter-03-v1/build_release.py\", line 223, in main\n    outputs,manifest=make(root); dest=root/'diplomatic/chapter-03-v1/release'\n                     ~~~~^^^^^^\n  File \"/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/chapter-03-v1/build_release.py\", line 208, in make\n    counts={'source_anchors':len(units),'transcript_loci':len(col['loci']),'exact_differences':len(col['conflicts']),\n                                                                                                   ~~~^^^^^^^^^^^^^\nKeyError: 'conflicts'\n",
+  "resolution": "Use the actual frozen collation key differences rather than conflicts. No editorial data or source files changed."
+}

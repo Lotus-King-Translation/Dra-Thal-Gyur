@@ -1,0 +1,56 @@
+{
+  "parent_commit": "0780c9ef4aa74a2dd9560ea530724b163b95c23d",
+  "changes": "Packaged the five deliverable groups plus complete W and structured apparatus; all accepted originals, restorations and source notes serialized without new Tibetan edits.",
+  "progress": {
+    "chapter": 3,
+    "state": "approved_in_progress",
+    "source_anchors": 683,
+    "source_families_verified": 4,
+    "transcript_loci": {
+      "total": 41,
+      "documented": 41,
+      "remaining": 0,
+      "invalid": []
+    },
+    "W_blocks": {
+      "total": 76,
+      "documented": 76,
+      "remaining": 0,
+      "invalid": []
+    },
+    "source_checks": {
+      "total": 10,
+      "documented": 10,
+      "remaining": 0,
+      "invalid": []
+    },
+    "interventions": 11,
+    "restored_main_verses": 3,
+    "deliverables": {
+      "total": 5,
+      "present": 5
+    },
+    "final_signoff": false,
+    "exhaustive_witness_collation": false,
+    "accuracy_score": null,
+    "time_estimate": null
+  },
+  "build_check": {
+    "reproducible": true,
+    "files": 9,
+    "state": "release_candidate",
+    "counts": {
+      "source_anchors": 683,
+      "transcript_loci": 41,
+      "exact_differences": 84,
+      "W_blocks": 76,
+      "source_checks": 10,
+      "interventions": 11,
+      "changed_anchor_strings": 11,
+      "source_annotations": 10,
+      "restored_main_verses": 3,
+      "reading_sequence_items": 685
+    }
+  },
+  "still_requires": "Independent assembly/reconstruction/link tests, final editorial review, signoff and verified publication."
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "chapter": 3,
+  "state": "release_candidate",
+  "baseline_commit": "b758a52ae6b2f550edfa54c3fe6da51f14e20c49",
+  "input_hashes": {
+    "diplomatic/chapter-03-v1/PLAN.json": "b2dd1d075860b24efcbebe76d49513df3d2c3a7c6c1d5b6256ba9f5e93ef86ad",
+    "diplomatic/chapter-03-v1/DECISIONS.json": "5a204b1b1c8a346295c33a830dcd47d7fc701bc537c27359a99d4ff4f0f9fea9",
+    "diplomatic/chapter-03-v1/source-units.json": "4e1ddad9b12ed75d97002ff46ad5cb0781341e88e81f7f04874517d657732ff6",
+    "diplomatic/chapter-03-v1/collation.json": "cff5fd72ec24c94865c3665a559f1f7ce470f33b15163cdbdf5775d7b36d2a0d",
+    "diplomatic/chapter-03-v1/wikisource.json": "7183567aad0a96bf9dace3ea823a2f008dae91968a17fb0e9ce3debde61c0190",
+    "diplomatic/chapter-03-v1/INTERVENTIONS.json": "554d70cd455fca5ce67e2c14749197e3c4a0ba322aa42ac4e20169d5e24abf4e",
+    "diplomatic/chapter-03-v1/INSERTIONS.json": "15f7115d1969ef8f5ef4ffa81de8fdb804d7a9effe8fe9dcc2f60e967b05544b",
+    "diplomatic/chapter-03-v1/SOURCE-REVIEW.json": "9c2c4105194c32127a510318ab803ebde427436d52ed2cd0fe103ec0ebcaa6ed",
+    "diplomatic/chapter-03-v1/STATE.json": "43a1ed332d7532856d218922d3f977c2e588aa2ea3a01c13d8b1b01c2aee3866",
+    "diplomatic/chapter-03-v1/W-REVIEW.md": "aac4735f49fcf461ce7a3dcb0e42905231cba59433365cef375c484ce216a579",
+    "editions/adzom-2000/W1KG11703_7.txt": "18bd9ce65311e2d6d7c703f053a5c0aac347e899a75f8749a8f9afd891452edc",
+    "editions/tharpaling-1983/W27491_7.txt": "df05454b1ca21d893188b30e00b7b463abe369afc6ec26d917354a7d6de464c3",
+    "editions/sichuan-2016/W3CN7084_7.txt": "2cf6b52889211579dff68f2e064032f40926de266242f111b3c94bb4efa47c57",
+    "editions/adzom-wikisource/source.wikitext": "d2a6e95e8c65d28d7812efa79d65bd397a0796a9e00621430a86b5713b70ede8",
+    "translations/2026-09-26-full-draft/data/source-units.json": "c8f1f0f8b91217a929cb82b0a5bb4544f8d29edddb145687f47218f05f0ceb5b",
+    "diplomatic/chapter-03-v1/evidence/E01/manifest.json": "9c862209b7394ea7147179c93c458ccf4ce9abf033d4657751e9e638e35fcae0",
+    "diplomatic/chapter-03-v1/evidence/E02/manifest.json": "1471e7b3de215da3b2f000ddf76d89c0a78b3f82967e07b2a7db54e88bfce785",
+    "diplomatic/chapter-03-v1/evidence/E03/manifest.json": "1e62d73ab1e658d39cff1f57aaa092bbf37ee8ce0edacd3cf31f716cd5d91b62",
+    "diplomatic/chapter-03-v1/evidence/focused/manifest.json": "079ce245b16ac01e69ee41598a76ce8935bd198ea07bc7272ef1b5ee9d6330d7"
+  },
+  "output_hashes": {
+    "reading.md": "33d237be0c178d1388f5747b5d90e816fc99d5d7c225ab3f1ee9ff0a327e048c",
+    "apparatus.md": "640eddc96fcc1aabc890429f7a4aedd46dcec4bc618bd8a662749341aa366289",
+    "wikisource.md": "16ccd9805c9bf7a81a58872b90d1557a177f59097cba46f88acff8455bfe467c",
+    "reading.json": "75344fb629a08c3825a82bee5fa937ee52dbae9a0d9bdf37d01c4ab47f88c7b1",
+    "apparatus.json": "6684b1e1c890b74ccbc5bcad4b1fe430194e207f5f2ac2a49b2e609b0834e039",
+    "CHANGES.md": "7c0920c4fdb822353f28bfbaa37db35cd92f1029a01d573a6b08c3bd13badf09",
+    "COVERAGE.md": "208af58f3b77233556b699821c566640f06dca5a564055478e877038aab7ab0a",
+    "README.md": "a6a8a46d3da0814ac476f3b8c8231f7c02a071234dc6871fc24e62fba5c2d3ee"
+  },
+  "generator_sha256": "0c6377a7a5a8e08ccdc968bac524c40d0bffc013669e102a59093dd38d18494e",
+  "counts": {
+    "source_anchors": 683,
+    "transcript_loci": 41,
+    "exact_differences": 84,
+    "W_blocks": 76,
+    "source_checks": 10,
+    "interventions": 11,
+    "changed_anchor_strings": 11,
+    "source_annotations": 10,
+    "restored_main_verses": 3,
+    "reading_sequence_items": 685
+  },
+  "full_base_scan_proofread": false,
+  "exhaustive_witness_collation": false,
+  "final_signoff_recorded": false
+}
