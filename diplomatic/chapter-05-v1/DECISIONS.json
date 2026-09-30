@@ -1,6 +1,98 @@
 {
-  "loci": {},
+  "loci": {
+    "L5-0001": {
+      "status": "retain_base",
+      "rationale": "Retain zhus lan dang po as a distinct source heading and the following main verse, as observed at PDF180 row6. S braces identify an electronic presentation difference; do not add them to A.",
+      "source_units": [
+        "U04793",
+        "U04794"
+      ],
+      "exact_conflicts": [
+        "C5-0001",
+        "C5-0002"
+      ],
+      "release_reading": {
+        "U04793": "ཞུས་ལན་དང་པོ།",
+        "U04794": "བལྟ་བ་བསྒོམ་པ་འཛིན་པ་ནི། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-05-v1/collation.json",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ]
+    },
+    "L5-0003": {
+      "status": "retain_base",
+      "rationale": "Retain A stong pai mtha las adas: PDF181 row6 supports it. B sngags rig mdzod las is preserved exactly in the apparatus but is not adopted; its printing was not inspected.",
+      "source_units": [
+        "U04822"
+      ],
+      "exact_conflicts": [
+        "C5-0005",
+        "C5-0006",
+        "C5-0007",
+        "C5-0008",
+        "C5-0009"
+      ],
+      "release_reading": {
+        "U04822": "ཡོད་མེད་སྟོང་པའི་མཐའ་ལས་འདས། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-05-v1/collation.json",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ]
+    }
+  },
   "W": {},
-  "source_checks": {},
+  "source_checks": {
+    "C5-START": {
+      "status": "bounded_disposition_complete",
+      "rationale": "The new opening is in row6 after the preceding colophon and compact graphic. The following chos sku clause distinguishes its sequence. Preserve the previously allocated Chapter4 graphic, rather than counting it again. Opening identity established; faint strokes and exact boundary punctuation are not fully certified.",
+      "evidence": [
+        "diplomatic/chapter-05-v1/evidence/E01/p179-native.png",
+        "diplomatic/chapter-05-v1/evidence/E01/manifest.json",
+        "diplomatic/chapter-05-v1/evidence/focused/C5-opening.png"
+      ],
+      "source_units": [
+        "U04764",
+        "U04765"
+      ]
+    },
+    "C5-HEADING-04793": {
+      "status": "bounded_disposition_complete",
+      "rationale": "The first-reply label is visually distinct from the following main clause. Retain its exact supplied wording as a source heading, not a main verse. S braces are transcript presentation, not literal base characters. No global heading-glyph or punctuation certification; other reply headings use their explicit transcript labels.",
+      "evidence": [
+        "diplomatic/chapter-05-v1/evidence/E01/p180-native.png",
+        "diplomatic/chapter-05-v1/evidence/E01/manifest.json",
+        "diplomatic/chapter-05-v1/evidence/focused/U04793-heading.png"
+      ],
+      "source_units": [
+        "U04793"
+      ]
+    },
+    "C5-READING-04801": {
+      "status": "bounded_disposition_complete",
+      "rationale": "The inspected clause supports the supplied rtogs spelling, including its final s, between the recipient description and lus ngag. Retain it without converting realization to conceptual thought for interpretive convenience. This spelling check does not resolve the intended force of the recipient description or certify all surrounding signs.",
+      "evidence": [
+        "diplomatic/chapter-05-v1/evidence/E01/p181-native.png",
+        "diplomatic/chapter-05-v1/evidence/E01/manifest.json",
+        "diplomatic/chapter-05-v1/evidence/focused/U04801-rtogs.png"
+      ],
+      "source_units": [
+        "U04801"
+      ]
+    },
+    "C5-READING-04822": {
+      "status": "bounded_disposition_complete",
+      "rationale": "The Adzom clause has stong pai mtha las adas, supporting the supplied A reading over the radically different B sngags rig mdzod las. Record B exactly as a transcript difference, without claiming its printing was inspected. No inference that B is an independent textual interpolation; no doctrinal harmonization of the surrounding ethical rhetoric.",
+      "evidence": [
+        "diplomatic/chapter-05-v1/evidence/E01/p181-native.png",
+        "diplomatic/chapter-05-v1/evidence/E01/manifest.json",
+        "diplomatic/chapter-05-v1/evidence/focused/U04822-clause.png"
+      ],
+      "source_units": [
+        "U04822"
+      ]
+    }
+  },
   "final_signoff": null
 }

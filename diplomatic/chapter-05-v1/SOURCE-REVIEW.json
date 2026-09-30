@@ -1,3 +1,97 @@
 {
-  "items": []
+  "items": [
+    {
+      "id": "C5-START",
+      "units": [
+        "U04764",
+        "U04765"
+      ],
+      "pdf_page": 179,
+      "physical_row": 6,
+      "approx_native_bounds": [
+        2050,
+        940,
+        3800,
+        1110
+      ],
+      "observed_sequence": "དེ་ནས་རང་བཞིན་རྣམ་དག་པས ... ཆོས་སྐུ་བརྗོད་པ་མེད་པ་ལས",
+      "rationale": "The new opening is in row6 after the preceding colophon and compact graphic. The following chos sku clause distinguishes its sequence. Preserve the previously allocated Chapter4 graphic, rather than counting it again.",
+      "remaining_uncertainty": "Opening identity established; faint strokes and exact boundary punctuation are not fully certified.",
+      "evidence": [
+        "diplomatic/chapter-05-v1/evidence/E01/p179-native.png",
+        "diplomatic/chapter-05-v1/evidence/E01/manifest.json",
+        "diplomatic/chapter-05-v1/evidence/focused/C5-opening.png"
+      ],
+      "review_method": "Direct coordinator inspection of native images and lossless crops; candidate wording known before reading. Not credentialed human palaeography or whole-page proofreading."
+    },
+    {
+      "id": "C5-HEADING-04793",
+      "units": [
+        "U04793"
+      ],
+      "pdf_page": 180,
+      "physical_row": 6,
+      "approx_native_bounds": [
+        3150,
+        910,
+        5050,
+        1080
+      ],
+      "observed_sequence": "ཞུས་ལན་དང་པོ ... བལྟ་བ་བསྒོམ་པ་འཛིན་པ་ནི",
+      "rationale": "The first-reply label is visually distinct from the following main clause. Retain its exact supplied wording as a source heading, not a main verse. S braces are transcript presentation, not literal base characters.",
+      "remaining_uncertainty": "No global heading-glyph or punctuation certification; other reply headings use their explicit transcript labels.",
+      "evidence": [
+        "diplomatic/chapter-05-v1/evidence/E01/p180-native.png",
+        "diplomatic/chapter-05-v1/evidence/E01/manifest.json",
+        "diplomatic/chapter-05-v1/evidence/focused/U04793-heading.png"
+      ],
+      "review_method": "Direct coordinator inspection of native images and lossless crops; candidate wording known before reading. Not credentialed human palaeography or whole-page proofreading."
+    },
+    {
+      "id": "C5-READING-04801",
+      "units": [
+        "U04801"
+      ],
+      "pdf_page": 181,
+      "physical_row": 2,
+      "approx_native_bounds": [
+        1950,
+        400,
+        3150,
+        575
+      ],
+      "observed_sequence": "རྟོགས་པ་ཆུང་ཞིང་རང་བཞིན་དལ",
+      "rationale": "The inspected clause supports the supplied rtogs spelling, including its final s, between the recipient description and lus ngag. Retain it without converting realization to conceptual thought for interpretive convenience.",
+      "remaining_uncertainty": "This spelling check does not resolve the intended force of the recipient description or certify all surrounding signs.",
+      "evidence": [
+        "diplomatic/chapter-05-v1/evidence/E01/p181-native.png",
+        "diplomatic/chapter-05-v1/evidence/E01/manifest.json",
+        "diplomatic/chapter-05-v1/evidence/focused/U04801-rtogs.png"
+      ],
+      "review_method": "Direct coordinator inspection of native images and lossless crops; candidate wording known before reading. Not credentialed human palaeography or whole-page proofreading."
+    },
+    {
+      "id": "C5-READING-04822",
+      "units": [
+        "U04822"
+      ],
+      "pdf_page": 181,
+      "physical_row": 6,
+      "approx_native_bounds": [
+        3090,
+        850,
+        5200,
+        1060
+      ],
+      "observed_sequence": "ཡོད་མེད་སྟོང་པའི་མཐའ་ལས་འདས",
+      "rationale": "The Adzom clause has stong pai mtha las adas, supporting the supplied A reading over the radically different B sngags rig mdzod las. Record B exactly as a transcript difference, without claiming its printing was inspected.",
+      "remaining_uncertainty": "No inference that B is an independent textual interpolation; no doctrinal harmonization of the surrounding ethical rhetoric.",
+      "evidence": [
+        "diplomatic/chapter-05-v1/evidence/E01/p181-native.png",
+        "diplomatic/chapter-05-v1/evidence/E01/manifest.json",
+        "diplomatic/chapter-05-v1/evidence/focused/U04822-clause.png"
+      ],
+      "review_method": "Direct coordinator inspection of native images and lossless crops; candidate wording known before reading. Not credentialed human palaeography or whole-page proofreading."
+    }
+  ]
 }
