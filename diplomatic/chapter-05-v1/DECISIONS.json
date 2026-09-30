@@ -528,7 +528,328 @@
       ]
     }
   },
-  "W": {},
+  "W": {
+    "W-C05-001": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain ma gol in the question; W mgo la is a differently segmented lexical reading, not a reason to turn non-straying into a head-location instruction.",
+      "source_units": [
+        "U04782"
+      ],
+      "source_before": "U04781",
+      "source_after": "U04783",
+      "W_lines": [
+        4828
+      ],
+      "evidence": [
+        "diplomatic/chapter-05-v1/wikisource.json",
+        "diplomatic/chapter-05-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C05-002": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the first reply heading as a separate source heading. Its absence in the related website is not absence from Adzom; the native first-heading check supports its source role.",
+      "source_units": [
+        "U04793"
+      ],
+      "source_before": "U04792",
+      "source_after": "U04794",
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-05-v1/wikisource.json",
+        "diplomatic/chapter-05-v1/W-REVIEW.md",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C05-003": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Keep bla ma gus; do not silently supply W final r merely to make a preferred grammatical attachment.",
+      "source_units": [
+        "U04796"
+      ],
+      "source_before": "U04795",
+      "source_after": "U04797",
+      "W_lines": [
+        4842
+      ],
+      "evidence": [
+        "diplomatic/chapter-05-v1/wikisource.json",
+        "diplomatic/chapter-05-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C05-004": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain ngag in lus ngag bya ba. W dag remains a quoted reference difference, not a certified print correction.",
+      "source_units": [
+        "U04802"
+      ],
+      "source_before": "U04801",
+      "source_after": "U04803",
+      "W_lines": [
+        4848
+      ],
+      "evidence": [
+        "diplomatic/chapter-05-v1/wikisource.json",
+        "diplomatic/chapter-05-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C05-005": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Preserve the second reply heading, omitted in the website representation. No main-verse omission is inferred.",
+      "source_units": [
+        "U04804"
+      ],
+      "source_before": "U04803",
+      "source_after": "U04805",
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-05-v1/wikisource.json",
+        "diplomatic/chapter-05-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C05-006": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Preserve the third reply label before its main paragraph; W omits that heading rather than supplying a replacement verse.",
+      "source_units": [
+        "U04824"
+      ],
+      "source_before": "U04823",
+      "source_after": "U04825",
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-05-v1/wikisource.json",
+        "diplomatic/chapter-05-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C05-007": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain stong pa ris med as supplied. W pai changes the particle and is not adopted without source evidence.",
+      "source_units": [
+        "U04844"
+      ],
+      "source_before": "U04843",
+      "source_after": "U04845",
+      "W_lines": [
+        4889
+      ],
+      "evidence": [
+        "diplomatic/chapter-05-v1/wikisource.json",
+        "diplomatic/chapter-05-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C05-008": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Keep the fourth reply heading in its declared source-heading layer; its website absence does not delete it from the edition.",
+      "source_units": [
+        "U04850"
+      ],
+      "source_before": "U04849",
+      "source_after": "U04851",
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-05-v1/wikisource.json",
+        "diplomatic/chapter-05-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C05-009": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Keep la in lu gu rgyud la mngon du spyod. Do not fuse it with an m from W lam or change the source clause to an inferred path term.",
+      "source_units": [
+        "U04857"
+      ],
+      "source_before": "U04856",
+      "source_after": "U04858",
+      "W_lines": [
+        4902
+      ],
+      "evidence": [
+        "diplomatic/chapter-05-v1/wikisource.json",
+        "diplomatic/chapter-05-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C05-010": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Preserve the fifth reply heading and exact original outer space; W heading omission does not alter source content.",
+      "source_units": [
+        "U04860"
+      ],
+      "source_before": "U04859",
+      "source_after": "U04861",
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-05-v1/wikisource.json",
+        "diplomatic/chapter-05-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C05-011": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Keep the sixth reply label separate from root text; no witness-omission claim follows from W omission.",
+      "source_units": [
+        "U04865"
+      ],
+      "source_before": "U04864",
+      "source_after": "U04866",
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-05-v1/wikisource.json",
+        "diplomatic/chapter-05-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C05-012": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Keep the seventh reply heading, including its exact original string in machine data. W has no equivalent heading line.",
+      "source_units": [
+        "U04873"
+      ],
+      "source_before": "U04872",
+      "source_after": "U04874",
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-05-v1/wikisource.json",
+        "diplomatic/chapter-05-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C05-013": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Preserve the eighth heading before the meditation paragraph, not as a newly supplied verse.",
+      "source_units": [
+        "U04885"
+      ],
+      "source_before": "U04884",
+      "source_after": "U04886",
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-05-v1/wikisource.json",
+        "diplomatic/chapter-05-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C05-014": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the ninth heading and its base spelling. Website omission is a presentation difference in this comparison.",
+      "source_units": [
+        "U04900"
+      ],
+      "source_before": "U04899",
+      "source_after": "U04901",
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-05-v1/wikisource.json",
+        "diplomatic/chapter-05-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C05-015": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the tenth reply heading before ma gol gnas pai bsgom pa ni; W does not govern heading removal.",
+      "source_units": [
+        "U04909"
+      ],
+      "source_before": "U04908",
+      "source_after": "U04910",
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-05-v1/wikisource.json",
+        "diplomatic/chapter-05-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C05-016": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain A skyur with the explicit unresolved reading recorded at L5-0015. W agrees with S sgyur but is related transcript evidence, not an additional independent scan vote.",
+      "source_units": [
+        "U04923"
+      ],
+      "source_before": "U04922",
+      "source_after": "U04924",
+      "W_lines": [
+        4964
+      ],
+      "evidence": [
+        "diplomatic/chapter-05-v1/wikisource.json",
+        "diplomatic/chapter-05-v1/W-REVIEW.md",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C05-017": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain ma gol rather than the W segmentation mgo la, and preserve the eleventh heading omitted by W. Keep those two observations distinct.",
+      "source_units": [
+        "U04925",
+        "U04926"
+      ],
+      "source_before": "U04924",
+      "source_after": "U04927",
+      "W_lines": [
+        4966
+      ],
+      "evidence": [
+        "diplomatic/chapter-05-v1/wikisource.json",
+        "diplomatic/chapter-05-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C05-018": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Preserve the twelfth reply heading, which the website leaves out; no wording is inferred from the absence.",
+      "source_units": [
+        "U04939"
+      ],
+      "source_before": "U04938",
+      "source_after": "U04940",
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-05-v1/wikisource.json",
+        "diplomatic/chapter-05-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C05-019": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Keep the physically distinct summary notice at U04951 as a source-section heading. Native PDF186 supports that role; W omission is not permission to lose the notice.",
+      "source_units": [
+        "U04951"
+      ],
+      "source_before": "U04950",
+      "source_after": "U04952",
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-05-v1/wikisource.json",
+        "diplomatic/chapter-05-v1/W-REVIEW.md",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C05-020": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Keep the explicit lta bas sequence. W ltabs fuses characters into a different segmentation; record it rather than alter the main clause.",
+      "source_units": [
+        "U04953"
+      ],
+      "source_before": "U04952",
+      "source_after": "U04954",
+      "W_lines": [
+        4992
+      ],
+      "evidence": [
+        "diplomatic/chapter-05-v1/wikisource.json",
+        "diplomatic/chapter-05-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    }
+  },
   "source_checks": {
     "C5-START": {
       "status": "bounded_disposition_complete",
