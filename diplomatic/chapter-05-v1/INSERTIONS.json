@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": "A2000-C05-S01",
+    "kind": "main_text_restoration",
+    "after_unit": "U05079",
+    "before_unit": "U05080",
+    "anchor_sequence": 1,
+    "tibetan_lines": [
+      "བལྟ་བ་བསྟེན་པས་ཁམས་གསུམ་ཆད།",
+      "བསྒོམ་པ་བསྟེན་པས་འཁྲུལ་རྒྱུན་འགགས།"
+    ],
+    "rationale": "The two absent electronic verses are present in larger main lettering after U05079 and before U05080 on PDF191 row2. Restore them from the matched native context; the B/S and W differences were locators, not sole authority.",
+    "evidence": [
+      "diplomatic/chapter-05-v1/evidence/E02/p191-native.png",
+      "diplomatic/chapter-05-v1/evidence/E02/manifest.json",
+      "diplomatic/chapter-05-v1/evidence/focused/S01-actual-p191.png",
+      "diplomatic/chapter-05-v1/evidence/focused/S01-restored-lines-actual.png",
+      "diplomatic/chapter-05-v1/evidence/E02/p191-x3696.png"
+    ],
+    "remaining_uncertainty": "Restored line breaks and single-shad delimiters are editorial, not a facsimile sign inventory. Keep U05079 original three supplied shads flagged; do not silently allocate or delete its extra delimiter.",
+    "source_check": "C5-RESTORE-05079",
+    "punctuation_policy": "One editorial shad per restored verse and editorial reading line breaks. Original B/S delimiters remain quoted. No exact physical-sign replication is claimed."
+  }
+]

@@ -1,1 +1,114 @@
-[]
+[
+  {
+    "id": "C5-I-U04951",
+    "units": [
+      "U04951"
+    ],
+    "original_units": {
+      "U04951": "འདི་མན་ཆད་བསྡུས་དོན་བཤད།"
+    },
+    "replacement_units": {},
+    "annotations": [],
+    "rationale": "Keep the summary notice in its original anchor and wording, but classify it as a source-section heading rather than main root verse.",
+    "evidence": [
+      "diplomatic/chapter-05-v1/evidence/E03/p186-native.png",
+      "diplomatic/chapter-05-v1/evidence/E03/manifest.json",
+      "diplomatic/chapter-05-v1/evidence/focused/U04951-actual-p186.png"
+    ],
+    "source_check": "C5-LAYER-04951",
+    "remaining_uncertainty": "Exact small terminal mark detail is not certified. Candidate page185 was a locator lead, not the actual notice; actual location is PDF186.",
+    "roles": {
+      "U04951": "source_heading"
+    }
+  },
+  {
+    "id": "C5-I-U05094",
+    "units": [
+      "U05094"
+    ],
+    "original_units": {
+      "U05094": "མཚན་མ་མཚན་མ་བཟོ་ཡི་ཡང་བྱུང་ཐབས་བཟོའི་སྦྱོར་བ་ཡི། །"
+    },
+    "replacement_units": {
+      "U05094": "མཚན་མ་ཐབས་བཟོའི་སྦྱོར་བ་ཡི། །"
+    },
+    "annotations": [
+      {
+        "text": "མཚན་མ་བཟོ་ཡི་ཡང་བྱུང",
+        "role": "source_variant_note",
+        "status": "separate layer established; supplied note wording preserved with compact-letter uncertainty"
+      }
+    ],
+    "rationale": "Separate the smaller guided alternate from the visibly continuous main mtshan ma thabs bzoi clause. No normalization of the remaining main text or inferred practice instruction.",
+    "evidence": [
+      "diplomatic/chapter-05-v1/evidence/E02/p191-native.png",
+      "diplomatic/chapter-05-v1/evidence/E02/manifest.json",
+      "diplomatic/chapter-05-v1/evidence/focused/U05094-actual-p191.png"
+    ],
+    "source_check": "C5-LAYER-05094",
+    "remaining_uncertainty": "The compact note quotation retains source-transcript spelling and no claim of full independent glyph resolution; its exact substitution scope remains unexpanded.",
+    "uncertain_units": [
+      "U05094"
+    ]
+  },
+  {
+    "id": "C5-I-U05106",
+    "units": [
+      "U05106"
+    ],
+    "original_units": {
+      "U05106": "ཆོས་ཀྱི་འཁྲུལ་པས་ ཡེ་གཞི་ཡང་ཡས་གཞི་བྱས། །"
+    },
+    "replacement_units": {
+      "U05106": "ཆོས་ཀྱི་འཁྲུལ་པས་ཡས་གཞི་བྱས། །"
+    },
+    "annotations": [
+      {
+        "text": "ཡེ་གཞི་ཡང",
+        "role": "source_variant_note",
+        "status": "separate layer established; supplied note wording preserved with compact-letter uncertainty"
+      }
+    ],
+    "rationale": "Preserve yas gzhi in the main text and ye gzhi yang separately. The intervening source-transcript space belongs to the flattened annotation boundary and is removed with that interleaving.",
+    "evidence": [
+      "diplomatic/chapter-05-v1/evidence/E02/p192-native.png",
+      "diplomatic/chapter-05-v1/evidence/E02/manifest.json",
+      "diplomatic/chapter-05-v1/evidence/focused/U05106-actual-p192.png"
+    ],
+    "source_check": "C5-LAYER-05106",
+    "remaining_uncertainty": "Small note quotation preserved as supplied; fine note signs and exact replacement instruction remain qualified. Actual source is PDF192, not the initial page191 hint.",
+    "uncertain_units": [
+      "U05106"
+    ]
+  },
+  {
+    "id": "C5-I-U05132",
+    "units": [
+      "U05132"
+    ],
+    "original_units": {
+      "U05132": "འཁོར་དང་འདྲེས་པའི་གཞི་མ་བརྟེན་པའི་གཞི་མ་དང་ཡང་བྱུང་དག །"
+    },
+    "replacement_units": {
+      "U05132": "འཁོར་དང་འདྲེས་པའི་གཞི་མ་དག །"
+    },
+    "annotations": [
+      {
+        "text": "བརྟེན་པའི་གཞི་མ་དང་ཡང་བྱུང",
+        "role": "source_variant_note",
+        "status": "separate layer established; supplied note wording preserved with compact-letter uncertainty"
+      }
+    ],
+    "rationale": "Retain the large-letter gzhi ma dag clause. Keep the smaller reported brten pai alternative once in its source-note layer; do not merge it into the main wording.",
+    "evidence": [
+      "diplomatic/chapter-05-v1/evidence/E03/p193-native.png",
+      "diplomatic/chapter-05-v1/evidence/E03/manifest.json",
+      "diplomatic/chapter-05-v1/evidence/focused/U05132-actual-p193.png"
+    ],
+    "source_check": "C5-LAYER-05132",
+    "remaining_uncertainty": "Exact compact note lettering and semantic substitution scope remain qualified. Preserve its complete supplied string, without treating the locator transcription as a fully deciphered note. Actual page193.",
+    "uncertain_units": [
+      "U05132"
+    ]
+  }
+]

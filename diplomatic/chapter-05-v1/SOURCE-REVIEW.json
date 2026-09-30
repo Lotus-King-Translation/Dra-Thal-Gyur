@@ -92,6 +92,206 @@
         "diplomatic/chapter-05-v1/evidence/focused/U04822-clause.png"
       ],
       "review_method": "Direct coordinator inspection of native images and lossless crops; candidate wording known before reading. Not credentialed human palaeography or whole-page proofreading."
+    },
+    {
+      "id": "C5-READING-04892",
+      "units": [
+        "U04892"
+      ],
+      "pdf_page": 184,
+      "physical_row": 1,
+      "approx_native_bounds": [
+        780,
+        270,
+        1740,
+        500
+      ],
+      "observed_sequence": "Page-opening continuation: གནད་མིག་དང་སྟོང་པ་ནི",
+      "rationale": "The main-type continuation has mig, supporting retained A rather than B/S mgo. The preceding source page ends the incoming sequence; the earlier file labelled U04892-mig on PDF183 was mislocated and is not evidence for this choice.",
+      "remaining_uncertainty": "Only the targeted mig/mgo contrast is resolved. No complete body-instruction interpretation or full punctuation inventory.",
+      "evidence": [
+        "diplomatic/chapter-05-v1/evidence/E02/p184-native.png",
+        "diplomatic/chapter-05-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-05-v1/evidence/focused/U04892-actual-p184.png"
+      ],
+      "review_method": "Direct coordinator inspection of native images and lossless crops; candidate wording known before reading. Not credentialed human palaeography or whole-page proofreading."
+    },
+    {
+      "id": "C5-READING-04923",
+      "units": [
+        "U04923"
+      ],
+      "pdf_page": 185,
+      "physical_row": "upper main-text region; exact root discrimination unresolved",
+      "approx_native_bounds": [
+        700,
+        250,
+        5300,
+        680
+      ],
+      "observed_sequence": "Candidate A wording: ཁ་དོག་ཡིག་འབྲུ་སྐྱུར་བྱེད་རྣམས། །; S has སྒྱུར",
+      "rationale": "Retain the supplied A skyur with explicit uncertainty. The viewed native context does not provide a sufficiently secure consonant discrimination to adopt S sgyur, and several exploratory crops were mislocated. Do not report them as verified readings of this word.",
+      "remaining_uncertainty": "The candidate quotation is from the supplied transcript, not a fresh secure glyph transcription. This closes a retain-with-uncertainty decision, not decipherment.",
+      "evidence": [
+        "diplomatic/chapter-05-v1/evidence/E02/p185-native.png",
+        "diplomatic/chapter-05-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-05-v1/evidence/E02/p185-x0000.png",
+        "diplomatic/chapter-05-v1/evidence/E02/p185-x1848.png",
+        "diplomatic/chapter-05-v1/evidence/E02/p185-x3696.png"
+      ],
+      "review_method": "Direct coordinator inspection of native images and lossless crops; candidate wording known before reading. Not credentialed human palaeography or whole-page proofreading."
+    },
+    {
+      "id": "C5-LAYER-04951",
+      "units": [
+        "U04951"
+      ],
+      "pdf_page": 186,
+      "physical_row": 2,
+      "approx_native_bounds": [
+        3900,
+        390,
+        5140,
+        620
+      ],
+      "observed_sequence": "འདི་མན་ཆད་བསྡུས་དོན་བཤད",
+      "rationale": "The compact summary-section notice follows the end of U04950 and precedes the next main sequence beginning gzhan yang chos nyid. Preserve the exact string as an explicit source-section heading, not another root verse.",
+      "remaining_uncertainty": "Exact small terminal mark detail is not certified. Candidate page185 was a locator lead, not the actual notice; actual location is PDF186.",
+      "evidence": [
+        "diplomatic/chapter-05-v1/evidence/E03/p186-native.png",
+        "diplomatic/chapter-05-v1/evidence/E03/manifest.json",
+        "diplomatic/chapter-05-v1/evidence/focused/U04951-actual-p186.png"
+      ],
+      "review_method": "Direct coordinator inspection of native images and lossless crops; candidate wording known before reading. Not credentialed human palaeography or whole-page proofreading."
+    },
+    {
+      "id": "C5-RESTORE-05079",
+      "units": [
+        "U05079",
+        "U05080"
+      ],
+      "pdf_page": 191,
+      "physical_row": "1–2",
+      "approx_native_bounds": [
+        670,
+        250,
+        5280,
+        600
+      ],
+      "observed_sequence": "དམ་ཚིག་བསྟེན་པས་དངོས་གྲུབ་འབྱུང ... བལྟ་བ་བསྟེན་པས་ཁམས་གསུམ་ཆད ... བསྒོམ་པ་བསྟེན་པས་འཁྲུལ་རྒྱུན་འགགས ... སྤྱོད་པ་བསྟེན་པས",
+      "rationale": "The two absent electronic verses are present in larger main lettering after U05079 and before U05080 on PDF191 row2. Restore them from the matched native context; the B/S and W differences were locators, not sole authority.",
+      "remaining_uncertainty": "Restored line breaks and single-shad delimiters are editorial, not a facsimile sign inventory. Keep U05079 original three supplied shads flagged; do not silently allocate or delete its extra delimiter.",
+      "evidence": [
+        "diplomatic/chapter-05-v1/evidence/E02/p191-native.png",
+        "diplomatic/chapter-05-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-05-v1/evidence/focused/S01-actual-p191.png",
+        "diplomatic/chapter-05-v1/evidence/focused/S01-restored-lines-actual.png"
+      ],
+      "review_method": "Direct coordinator inspection of native images and lossless crops; candidate wording known before reading. Not credentialed human palaeography or whole-page proofreading."
+    },
+    {
+      "id": "C5-LAYER-05094",
+      "units": [
+        "U05094"
+      ],
+      "pdf_page": 191,
+      "physical_row": "5–6",
+      "approx_native_bounds": [
+        2950,
+        710,
+        5080,
+        1060
+      ],
+      "observed_sequence": "Main: མཚན་མ་ཐབས་བཟོའི་སྦྱོར་བ་ཡི; compact alternate beneath with dotted guide",
+      "rationale": "The main clause runs from mtshan ma to thabs bzoi sbyor ba yi. The smaller guided alternate below is not part of the main line. Separate it while preserving the exact supplied alternate string.",
+      "remaining_uncertainty": "The compact note quotation retains source-transcript spelling and no claim of full independent glyph resolution; its exact substitution scope remains unexpanded.",
+      "evidence": [
+        "diplomatic/chapter-05-v1/evidence/E02/p191-native.png",
+        "diplomatic/chapter-05-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-05-v1/evidence/focused/U05094-actual-p191.png"
+      ],
+      "review_method": "Direct coordinator inspection of native images and lossless crops; candidate wording known before reading. Not credentialed human palaeography or whole-page proofreading."
+    },
+    {
+      "id": "C5-LAYER-05106",
+      "units": [
+        "U05106"
+      ],
+      "pdf_page": 192,
+      "physical_row": "2–3",
+      "approx_native_bounds": [
+        2410,
+        345,
+        4040,
+        695
+      ],
+      "observed_sequence": "Main: ཆོས་ཀྱི་འཁྲུལ་པས་ཡས་གཞི་བྱས; smaller ཡེ་གཞི་ཡང beneath",
+      "rationale": "The main large lettering has yas gzhi, with the smaller ye gzhi yang note beneath and a dotted guide. Separate the alternate instead of concatenating both into one root clause.",
+      "remaining_uncertainty": "Small note quotation preserved as supplied; fine note signs and exact replacement instruction remain qualified. Actual source is PDF192, not the initial page191 hint.",
+      "evidence": [
+        "diplomatic/chapter-05-v1/evidence/E02/p192-native.png",
+        "diplomatic/chapter-05-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-05-v1/evidence/focused/U05106-actual-p192.png"
+      ],
+      "review_method": "Direct coordinator inspection of native images and lossless crops; candidate wording known before reading. Not credentialed human palaeography or whole-page proofreading."
+    },
+    {
+      "id": "C5-LAYER-05132",
+      "units": [
+        "U05132"
+      ],
+      "pdf_page": 193,
+      "physical_row": "2–3",
+      "approx_native_bounds": [
+        1670,
+        400,
+        3480,
+        750
+      ],
+      "observed_sequence": "Main: འཁོར་དང་འདྲེས་པའི་གཞི་མ་དག; smaller guided source alternate beneath",
+      "rationale": "The large main clause is continuous through gzhi ma dag. The longer compact brten pai gzhi ma dang yang byung alternate is guided from below and must remain a separate source note rather than doubled main wording.",
+      "remaining_uncertainty": "Exact compact note lettering and semantic substitution scope remain qualified. Preserve its complete supplied string, without treating the locator transcription as a fully deciphered note. Actual page193.",
+      "evidence": [
+        "diplomatic/chapter-05-v1/evidence/E03/p193-native.png",
+        "diplomatic/chapter-05-v1/evidence/E03/manifest.json",
+        "diplomatic/chapter-05-v1/evidence/focused/U05132-actual-p193.png"
+      ],
+      "review_method": "Direct coordinator inspection of native images and lossless crops; candidate wording known before reading. Not credentialed human palaeography or whole-page proofreading."
+    },
+    {
+      "id": "C5-END",
+      "units": [
+        "U05196",
+        "U05197"
+      ],
+      "pdf_page": 195,
+      "physical_row": "3–4",
+      "approx_native_bounds": [
+        640,
+        500,
+        5280,
+        860
+      ],
+      "observed_sequence": "ཞེས་སྒྲ་ཐལ་འགྱུར ... ལྟ་སྒོམ་བཀོད་པ ... ལེའུ་སྟེ་ལྔ་པའོ; compact graphic; then དེ་ནས་ཆོས་ཀུན་བརྗོད་མེད་ཀྱང",
+      "rationale": "The fifth-chapter colophon is followed by a distinct compact graphic and the sixth incipit. Keep the colophon title as supplied and preserve the graphic by evidence without converting the B-only closing form into Adzom text.",
+      "remaining_uncertainty": "Colophon physical punctuation and compact graphic remain unresolved. The graphic is not a restored root verse, and this boundary check does not start editorial work on Chapter6.",
+      "evidence": [
+        "diplomatic/chapter-05-v1/evidence/E03/p195-native.png",
+        "diplomatic/chapter-05-v1/evidence/E03/manifest.json",
+        "diplomatic/chapter-05-v1/evidence/focused/C5-closing-and-graphic.png"
+      ],
+      "review_method": "Direct coordinator inspection of native images and lossless crops; candidate wording known before reading. Not credentialed human palaeography or whole-page proofreading.",
+      "transition_graphic": {
+        "id": "C5-TRANSITION",
+        "reading": null,
+        "not_main_verse": true,
+        "evidence": [
+          "diplomatic/chapter-05-v1/evidence/E03/p195-native.png",
+          "diplomatic/chapter-05-v1/evidence/E03/manifest.json",
+          "diplomatic/chapter-05-v1/evidence/focused/C5-closing-and-graphic.png"
+        ],
+        "status": "compact source graphic preserved by image; no decoded string supplied"
+      }
     }
   ]
 }

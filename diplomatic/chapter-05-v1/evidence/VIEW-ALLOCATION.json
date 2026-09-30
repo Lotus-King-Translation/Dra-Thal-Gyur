@@ -1,6 +1,413 @@
 {
-  "U04892-mig.png": "Mislocated exploratory crop: actually U04889 on PDF183. Not evidence for U04892. Retained unchanged for traceability.",
-  "p183-lower-left.png": "Exploratory clipped lower strip; not a complete reading.",
-  "p183-lower-middle.png": "Exploratory clipped lower strip; not a complete reading.",
-  "p183-lower-right.png": "Page ends with U04891 rlung dang rtsa dang thig le dang. Inspect PDF184 for U04892; this strip is not U04892 evidence."
+  "policy": "A filename is not evidence of an anchor match. Only explicitly accepted matched views below are used for source decisions. All exploratory or mislocated crops are preserved without reading credit. Raw full pages remain authoritative context.",
+  "views": [
+    {
+      "label": "C5-opening",
+      "source": "E01/p179-native.png",
+      "bounds": [
+        2050,
+        940,
+        3800,
+        1110
+      ],
+      "status": "accepted_matched_context"
+    },
+    {
+      "label": "U04793-heading",
+      "source": "E01/p180-native.png",
+      "bounds": [
+        3150,
+        910,
+        5050,
+        1080
+      ],
+      "status": "accepted_matched_context"
+    },
+    {
+      "label": "U04801-rtogs",
+      "source": "E01/p181-native.png",
+      "bounds": [
+        1950,
+        400,
+        3150,
+        575
+      ],
+      "status": "accepted_matched_context"
+    },
+    {
+      "label": "U04822-clause",
+      "source": "E01/p181-native.png",
+      "bounds": [
+        3090,
+        850,
+        5200,
+        1060
+      ],
+      "status": "accepted_matched_context"
+    },
+    {
+      "label": "U04892-mig",
+      "source": "E01/p183-native.png",
+      "bounds": [
+        2370,
+        790,
+        3530,
+        990
+      ],
+      "status": "exploratory_not_accepted_as_named_anchor_evidence"
+    },
+    {
+      "label": "p183-lower-left",
+      "source": "E01/p183-native.png",
+      "bounds": [
+        600,
+        920,
+        2500,
+        1110
+      ],
+      "status": "exploratory_not_accepted_as_named_anchor_evidence"
+    },
+    {
+      "label": "p183-lower-middle",
+      "source": "E01/p183-native.png",
+      "bounds": [
+        2400,
+        920,
+        4300,
+        1110
+      ],
+      "status": "exploratory_not_accepted_as_named_anchor_evidence"
+    },
+    {
+      "label": "p183-lower-right",
+      "source": "E01/p183-native.png",
+      "bounds": [
+        4200,
+        920,
+        5330,
+        1110
+      ],
+      "status": "exploratory_not_accepted_as_named_anchor_evidence"
+    },
+    {
+      "label": "U04892-actual-p184",
+      "source": "E02/p184-native.png",
+      "bounds": [
+        780,
+        270,
+        1740,
+        500
+      ],
+      "status": "accepted_matched_context"
+    },
+    {
+      "label": "U04923-skyur",
+      "source": "E02/p184-native.png",
+      "bounds": [
+        2150,
+        770,
+        3880,
+        970
+      ],
+      "status": "exploratory_not_accepted_as_named_anchor_evidence"
+    },
+    {
+      "label": "U04951-section-notice",
+      "source": "E02/p185-native.png",
+      "bounds": [
+        1700,
+        490,
+        3700,
+        690
+      ],
+      "status": "exploratory_not_accepted_as_named_anchor_evidence"
+    },
+    {
+      "label": "S01-restoration-context",
+      "source": "E02/p190-native.png",
+      "bounds": [
+        700,
+        550,
+        3470,
+        760
+      ],
+      "status": "exploratory_not_accepted_as_named_anchor_evidence"
+    },
+    {
+      "label": "U05094-main-context",
+      "source": "E02/p190-native.png",
+      "bounds": [
+        2480,
+        750,
+        3880,
+        930
+      ],
+      "status": "exploratory_not_accepted_as_named_anchor_evidence"
+    },
+    {
+      "label": "U05094-note-context",
+      "source": "E02/p190-native.png",
+      "bounds": [
+        3500,
+        890,
+        5190,
+        1090
+      ],
+      "status": "exploratory_not_accepted_as_named_anchor_evidence"
+    },
+    {
+      "label": "U05106-main-note-context",
+      "source": "E02/p191-native.png",
+      "bounds": [
+        2100,
+        490,
+        3850,
+        800
+      ],
+      "status": "exploratory_not_accepted_as_named_anchor_evidence"
+    },
+    {
+      "label": "U04951-upper-context",
+      "source": "E02/p185-native.png",
+      "bounds": [
+        2000,
+        310,
+        3480,
+        510
+      ],
+      "status": "exploratory_not_accepted_as_named_anchor_evidence"
+    },
+    {
+      "label": "S01-main-row3",
+      "source": "E02/p190-native.png",
+      "bounds": [
+        1400,
+        570,
+        3770,
+        770
+      ],
+      "status": "exploratory_not_accepted_as_named_anchor_evidence"
+    },
+    {
+      "label": "U05106-upper-context",
+      "source": "E02/p191-native.png",
+      "bounds": [
+        1470,
+        340,
+        3460,
+        690
+      ],
+      "status": "exploratory_not_accepted_as_named_anchor_evidence"
+    },
+    {
+      "label": "U05132-context",
+      "source": "E02/p192-native.png",
+      "bounds": [
+        2700,
+        310,
+        4870,
+        660
+      ],
+      "status": "exploratory_not_accepted_as_named_anchor_evidence"
+    },
+    {
+      "label": "U04951-detail",
+      "source": "E02/p185-native.png",
+      "bounds": [
+        2960,
+        500,
+        3890,
+        650
+      ],
+      "status": "exploratory_not_accepted_as_named_anchor_evidence"
+    },
+    {
+      "label": "S01-verse1",
+      "source": "E02/p190-native.png",
+      "bounds": [
+        1400,
+        510,
+        2600,
+        710
+      ],
+      "status": "exploratory_not_accepted_as_named_anchor_evidence"
+    },
+    {
+      "label": "S01-verse2",
+      "source": "E02/p190-native.png",
+      "bounds": [
+        2580,
+        510,
+        3880,
+        710
+      ],
+      "status": "exploratory_not_accepted_as_named_anchor_evidence"
+    },
+    {
+      "label": "U05106-main-top",
+      "source": "E02/p191-native.png",
+      "bounds": [
+        2550,
+        210,
+        4410,
+        610
+      ],
+      "status": "exploratory_not_accepted_as_named_anchor_evidence"
+    },
+    {
+      "label": "U05132-main-top",
+      "source": "E02/p192-native.png",
+      "bounds": [
+        1900,
+        270,
+        3430,
+        460
+      ],
+      "status": "exploratory_not_accepted_as_named_anchor_evidence"
+    },
+    {
+      "label": "U05132-note-detail",
+      "source": "E02/p192-native.png",
+      "bounds": [
+        2800,
+        420,
+        4040,
+        630
+      ],
+      "status": "exploratory_not_accepted_as_named_anchor_evidence"
+    },
+    {
+      "label": "p190-lower-left-context",
+      "source": "E02/p190-native.png",
+      "bounds": [
+        600,
+        670,
+        2400,
+        1050
+      ],
+      "status": "exploratory_not_accepted_as_named_anchor_evidence"
+    },
+    {
+      "label": "p190-lower-middle-context",
+      "source": "E02/p190-native.png",
+      "bounds": [
+        2400,
+        670,
+        4300,
+        1050
+      ],
+      "status": "exploratory_not_accepted_as_named_anchor_evidence"
+    },
+    {
+      "label": "p190-lower-right-context",
+      "source": "E02/p190-native.png",
+      "bounds": [
+        4100,
+        670,
+        5270,
+        1050
+      ],
+      "status": "exploratory_not_accepted_as_named_anchor_evidence"
+    },
+    {
+      "label": "p185-lower-right-context",
+      "source": "E02/p185-native.png",
+      "bounds": [
+        3400,
+        690,
+        5140,
+        990
+      ],
+      "status": "exploratory_not_accepted_as_named_anchor_evidence"
+    },
+    {
+      "label": "S01-actual-p191",
+      "source": "E02/p191-native.png",
+      "bounds": [
+        670,
+        250,
+        3440,
+        570
+      ],
+      "status": "accepted_matched_context"
+    },
+    {
+      "label": "U05094-actual-p191",
+      "source": "E02/p191-native.png",
+      "bounds": [
+        3240,
+        710,
+        5080,
+        1060
+      ],
+      "status": "accepted_matched_context"
+    },
+    {
+      "label": "U05106-actual-p192",
+      "source": "E02/p192-native.png",
+      "bounds": [
+        2410,
+        345,
+        4040,
+        695
+      ],
+      "status": "accepted_matched_context"
+    },
+    {
+      "label": "U04923-actual-p185",
+      "source": "E02/p185-native.png",
+      "bounds": [
+        3890,
+        430,
+        5130,
+        715
+      ],
+      "status": "exploratory_not_accepted_as_named_anchor_evidence"
+    },
+    {
+      "label": "U04951-actual-p186",
+      "source": "E03/p186-native.png",
+      "bounds": [
+        3900,
+        390,
+        5140,
+        620
+      ],
+      "status": "accepted_matched_context"
+    },
+    {
+      "label": "U05132-actual-p193",
+      "source": "E03/p193-native.png",
+      "bounds": [
+        1670,
+        400,
+        3480,
+        750
+      ],
+      "status": "accepted_matched_context"
+    },
+    {
+      "label": "C5-closing-and-graphic",
+      "source": "E03/p195-native.png",
+      "bounds": [
+        640,
+        630,
+        3680,
+        860
+      ],
+      "status": "accepted_matched_context"
+    },
+    {
+      "label": "S01-restored-lines-actual",
+      "source": "E02/p191-native.png",
+      "bounds": [
+        980,
+        410,
+        3760,
+        560
+      ],
+      "status": "accepted_matched_context"
+    }
+  ],
+  "corrections": "Actual locations: U04923 unresolved on185; U04951 on186; missing verses and U05094 on191; U05106 on192; U05132 on193. Original candidate-page hints and mislabelled crops were not accepted as testimony."
 }

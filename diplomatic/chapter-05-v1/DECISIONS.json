@@ -40,6 +40,170 @@
         "diplomatic/chapter-05-v1/collation.json",
         "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
       ]
+    },
+    "L5-0011": {
+      "status": "retain_base",
+      "rationale": "Retain mig in A: the actual PDF184 page-opening continuation supports it. B/S mgo remains quoted as electronic evidence, not an adopted print reading.",
+      "source_units": [
+        "U04892"
+      ],
+      "exact_conflicts": [
+        "C5-0023",
+        "C5-0024"
+      ],
+      "release_reading": {
+        "U04892": "ལུས་གནད་མིག་དང་སྟོང་པ་ནི། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-05-v1/collation.json",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ]
+    },
+    "L5-0015": {
+      "status": "retain_with_explicit_uncertainty",
+      "rationale": "Retain A/B skyur with explicit uncertainty. W/S alternatives and an expected linguistic reading do not justify replacing a main word whose source consonant has not been securely discriminated. Exploratory mislocated crops are excluded.",
+      "source_units": [
+        "U04923"
+      ],
+      "exact_conflicts": [
+        "C5-0030"
+      ],
+      "release_reading": {
+        "U04923": "ཁ་དོག་ཡིག་འབྲུ་སྐྱུར་བྱེད་རྣམས། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-05-v1/collation.json",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ],
+      "uncertain_units": [
+        "U04923"
+      ]
+    },
+    "L5-0018": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Retain the exact summary notice as an explicitly separated source-section heading, not a root verse. Actual PDF186 distinguishes it from the next larger gzhan yang clause; S braces are not added to A.",
+      "source_units": [
+        "U04951",
+        "U04952"
+      ],
+      "exact_conflicts": [
+        "C5-0035",
+        "C5-0036"
+      ],
+      "release_reading": {
+        "U04951": "འདི་མན་ཆད་བསྡུས་དོན་བཤད།",
+        "U04952": "གཞན་ཡང་ཆོས་ཉིད་འཁོར་ལོ་བཤད། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-05-v1/collation.json",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ]
+    },
+    "L5-0019": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Include the two scan-attested larger-type verses after U05079 via A2000-C05-S01. Keep the supplied U05079 anchor unchanged, flagging its triple-shad allocation rather than silently moving or deleting a delimiter. Actual source is PDF191.",
+      "source_units": [
+        "U05079"
+      ],
+      "exact_conflicts": [
+        "C5-0037"
+      ],
+      "release_reading": {
+        "U05079": "དམ་ཚིག་བསྟེན་པས་དངོས་གྲུབ་འབྱུང༌། ། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-05-v1/collation.json",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ],
+      "uncertain_units": [
+        "U05079"
+      ],
+      "insertion_ids": [
+        "A2000-C05-S01"
+      ]
+    },
+    "L5-0021": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Adopt the physical main/note separation at PDF191: retain mtshan ma thabs bzoi sbyor ba yi, preserving the entire smaller alternate in the note layer with compact-letter limits.",
+      "source_units": [
+        "U05094"
+      ],
+      "exact_conflicts": [
+        "C5-0039",
+        "C5-0040"
+      ],
+      "release_reading": {
+        "U05094": "མཚན་མ་ཐབས་བཟོའི་སྦྱོར་བ་ཡི། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-05-v1/collation.json",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ],
+      "uncertain_units": [
+        "U05094"
+      ]
+    },
+    "L5-0022": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Adopt the physical separation observed on PDF192: main yas gzhi, separate ye gzhi yang; preserve the note without treating the alternate as a second consecutive main phrase.",
+      "source_units": [
+        "U05106"
+      ],
+      "exact_conflicts": [
+        "C5-0041",
+        "C5-0042"
+      ],
+      "release_reading": {
+        "U05106": "ཆོས་ཀྱི་འཁྲུལ་པས་ཡས་གཞི་བྱས། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-05-v1/collation.json",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ],
+      "uncertain_units": [
+        "U05106"
+      ]
+    },
+    "L5-0024": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Adopt main gzhi ma dag as the continuous larger type on PDF193; preserve the complete reported brten pai gzhi ma dang yang byung as a separate qualified note.",
+      "source_units": [
+        "U05132"
+      ],
+      "exact_conflicts": [
+        "C5-0044",
+        "C5-0045"
+      ],
+      "release_reading": {
+        "U05132": "འཁོར་དང་འདྲེས་པའི་གཞི་མ་དག །"
+      },
+      "evidence": [
+        "diplomatic/chapter-05-v1/collation.json",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ],
+      "uncertain_units": [
+        "U05132"
+      ]
+    },
+    "L5-0027": {
+      "status": "retain_with_explicit_uncertainty",
+      "rationale": "Retain the supplied fifth-chapter title. The native colophon/next-incpit boundary is established, but its exact physical delimiters and the following graphic remain unresolved. Preserve B closing material only as its exact transcript reading.",
+      "source_units": [
+        "U05197"
+      ],
+      "exact_conflicts": [
+        "C5-0048"
+      ],
+      "release_reading": {
+        "U05197": " ལྟ་སྒོམ་བཀོད་པ་གནས་པའི་རྩ་བ་བསྟན་པའི་ལེའུ་སྟེ་ལྔ་པའོ།། །།"
+      },
+      "evidence": [
+        "diplomatic/chapter-05-v1/collation.json",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ],
+      "uncertain_units": [
+        "U05197"
+      ]
     }
   },
   "W": {},
@@ -91,6 +255,107 @@
       ],
       "source_units": [
         "U04822"
+      ]
+    },
+    "C5-READING-04892": {
+      "status": "bounded_disposition_complete",
+      "rationale": "The main-type continuation has mig, supporting retained A rather than B/S mgo. The preceding source page ends the incoming sequence; the earlier file labelled U04892-mig on PDF183 was mislocated and is not evidence for this choice. Only the targeted mig/mgo contrast is resolved. No complete body-instruction interpretation or full punctuation inventory.",
+      "evidence": [
+        "diplomatic/chapter-05-v1/evidence/E02/p184-native.png",
+        "diplomatic/chapter-05-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-05-v1/evidence/focused/U04892-actual-p184.png"
+      ],
+      "source_units": [
+        "U04892"
+      ]
+    },
+    "C5-READING-04923": {
+      "status": "bounded_disposition_complete",
+      "rationale": "Retain the supplied A skyur with explicit uncertainty. The viewed native context does not provide a sufficiently secure consonant discrimination to adopt S sgyur, and several exploratory crops were mislocated. Do not report them as verified readings of this word. The candidate quotation is from the supplied transcript, not a fresh secure glyph transcription. This closes a retain-with-uncertainty decision, not decipherment.",
+      "evidence": [
+        "diplomatic/chapter-05-v1/evidence/E02/p185-native.png",
+        "diplomatic/chapter-05-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-05-v1/evidence/E02/p185-x0000.png",
+        "diplomatic/chapter-05-v1/evidence/E02/p185-x1848.png",
+        "diplomatic/chapter-05-v1/evidence/E02/p185-x3696.png"
+      ],
+      "source_units": [
+        "U04923"
+      ]
+    },
+    "C5-LAYER-04951": {
+      "status": "bounded_disposition_complete",
+      "rationale": "The compact summary-section notice follows the end of U04950 and precedes the next main sequence beginning gzhan yang chos nyid. Preserve the exact string as an explicit source-section heading, not another root verse. Exact small terminal mark detail is not certified. Candidate page185 was a locator lead, not the actual notice; actual location is PDF186.",
+      "evidence": [
+        "diplomatic/chapter-05-v1/evidence/E03/p186-native.png",
+        "diplomatic/chapter-05-v1/evidence/E03/manifest.json",
+        "diplomatic/chapter-05-v1/evidence/focused/U04951-actual-p186.png"
+      ],
+      "source_units": [
+        "U04951"
+      ]
+    },
+    "C5-RESTORE-05079": {
+      "status": "bounded_disposition_complete",
+      "rationale": "The two absent electronic verses are present in larger main lettering after U05079 and before U05080 on PDF191 row2. Restore them from the matched native context; the B/S and W differences were locators, not sole authority. Restored line breaks and single-shad delimiters are editorial, not a facsimile sign inventory. Keep U05079 original three supplied shads flagged; do not silently allocate or delete its extra delimiter.",
+      "evidence": [
+        "diplomatic/chapter-05-v1/evidence/E02/p191-native.png",
+        "diplomatic/chapter-05-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-05-v1/evidence/focused/S01-actual-p191.png",
+        "diplomatic/chapter-05-v1/evidence/focused/S01-restored-lines-actual.png"
+      ],
+      "source_units": [
+        "U05079",
+        "U05080"
+      ]
+    },
+    "C5-LAYER-05094": {
+      "status": "bounded_disposition_complete",
+      "rationale": "The main clause runs from mtshan ma to thabs bzoi sbyor ba yi. The smaller guided alternate below is not part of the main line. Separate it while preserving the exact supplied alternate string. The compact note quotation retains source-transcript spelling and no claim of full independent glyph resolution; its exact substitution scope remains unexpanded.",
+      "evidence": [
+        "diplomatic/chapter-05-v1/evidence/E02/p191-native.png",
+        "diplomatic/chapter-05-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-05-v1/evidence/focused/U05094-actual-p191.png"
+      ],
+      "source_units": [
+        "U05094"
+      ]
+    },
+    "C5-LAYER-05106": {
+      "status": "bounded_disposition_complete",
+      "rationale": "The main large lettering has yas gzhi, with the smaller ye gzhi yang note beneath and a dotted guide. Separate the alternate instead of concatenating both into one root clause. Small note quotation preserved as supplied; fine note signs and exact replacement instruction remain qualified. Actual source is PDF192, not the initial page191 hint.",
+      "evidence": [
+        "diplomatic/chapter-05-v1/evidence/E02/p192-native.png",
+        "diplomatic/chapter-05-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-05-v1/evidence/focused/U05106-actual-p192.png"
+      ],
+      "source_units": [
+        "U05106"
+      ]
+    },
+    "C5-LAYER-05132": {
+      "status": "bounded_disposition_complete",
+      "rationale": "The large main clause is continuous through gzhi ma dag. The longer compact brten pai gzhi ma dang yang byung alternate is guided from below and must remain a separate source note rather than doubled main wording. Exact compact note lettering and semantic substitution scope remain qualified. Preserve its complete supplied string, without treating the locator transcription as a fully deciphered note. Actual page193.",
+      "evidence": [
+        "diplomatic/chapter-05-v1/evidence/E03/p193-native.png",
+        "diplomatic/chapter-05-v1/evidence/E03/manifest.json",
+        "diplomatic/chapter-05-v1/evidence/focused/U05132-actual-p193.png"
+      ],
+      "source_units": [
+        "U05132"
+      ]
+    },
+    "C5-END": {
+      "status": "bounded_disposition_complete",
+      "rationale": "The fifth-chapter colophon is followed by a distinct compact graphic and the sixth incipit. Keep the colophon title as supplied and preserve the graphic by evidence without converting the B-only closing form into Adzom text. Colophon physical punctuation and compact graphic remain unresolved. The graphic is not a restored root verse, and this boundary check does not start editorial work on Chapter6.",
+      "evidence": [
+        "diplomatic/chapter-05-v1/evidence/E03/p195-native.png",
+        "diplomatic/chapter-05-v1/evidence/E03/manifest.json",
+        "diplomatic/chapter-05-v1/evidence/focused/C5-closing-and-graphic.png"
+      ],
+      "source_units": [
+        "U05196",
+        "U05197"
       ]
     }
   },
