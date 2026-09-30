@@ -1,0 +1,169 @@
+{
+  "parent_commit": "0c106c8de81db627ffb476971acd3eeeade1b017",
+  "review_method": "Coordinator inspected full A/B/S locus quotations 61–100 using read_file, the four key scan-decision records and applicable authored source-layer/uncertainty records. Existing sign decisions and restorations are retained, not reread or newly normalized.",
+  "choices": {
+    "L1-0061": {
+      "status": "retain_base",
+      "rationale": "At U01063 retain stong phrag brgya ni dus pa las. B inserts brgyad and S presents brgyad kyang byung as an alternate note; neither is inserted into the base or used to repair its arithmetic."
+    },
+    "L1-0062": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept SCAN-CH1-01067: main thams cad tshe gcig bras bu thob excludes the smaller brgya yang byung note. The later broader scan review found that note and supersedes earlier local non-observation. Do not import the B dot train and brgyad khyud into U01068."
+    },
+    "L1-0063": {
+      "status": "retain_base",
+      "rationale": "Keep U01083 as the seventeenth reply heading, then U01084. S braces are editorial presentation, not an additional root component; the existing terminal spelling is retained."
+    },
+    "L1-0064": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept SCAN-CH1-01090 main yan lag bkod pa brgya gcig go, with bcu gcig kyang byung preserved separately. The recorded broader inspection establishes the displaced note; B extra gcig/bcug forms are retained as its transcript differences rather than merged into the numerical main clause."
+    },
+    "L1-0065": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Retain the verified second shad after U01094 pao under the existing native-boundary review. B/S agreement is not the basis of correction; the one-shad supplied A remains unchanged in the quotation."
+    },
+    "L1-0066": {
+      "status": "retain_base",
+      "rationale": "Keep U01122 as the eighteenth reply heading and retain U01123 with its current terminal marks. Preserve B spacing and its shorter terminal punctuation, and S braces, without normalizing them into the base."
+    },
+    "L1-0067": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept U01144 tshig chad song as the printed smaller omission query, not root verse. Preserve the complete note and proceed to U01145 rtsi ni. Its statement that text is missing does not supply words to restore."
+    },
+    "L1-0068": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Keep the nineteenth reply heading U01147 and its independently verified second shad before U01148. The S braces are only transcript markup, not a substitute for the existing boundary evidence."
+    },
+    "L1-0069": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Keep the twentieth reply label U01186 with the accepted two-shad boundary, followed by U01187. Preserve S bracketing in its quotation and retain the following special tsheg form without global normalization."
+    },
+    "L1-0070": {
+      "status": "retain_base",
+      "rationale": "Keep U01219 as the twenty-first reply heading before U01220. The only recorded comparison difference here is S bracketing; neither a new main verse nor a corrected count follows."
+    },
+    "L1-0071": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept the U01233 main clause without chags jig stongs pa. The shared LAYER-01233 record finds one smaller printed gloss within the physical U01238 span; preserve it once, not twice from flattened transcript repetitions. Its exact semantic attachment remains open."
+    },
+    "L1-0072": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept U01237 de ltar sbrags pa de tsam las under the same LAYER-01233 record. Remove no source evidence: both original flattened occurrences remain quoted, while the one observed chags jig stongs pa gloss is stored once at its physical location."
+    },
+    "L1-0073": {
+      "status": "retain_with_explicit_uncertainty",
+      "rationale": "Retain U01239 as an explicitly uncertain twenty-second-heading scaffold; its final angular letters are not settled by the readable neighboring verses. The two detached boundary marks are known but do not resolve the letters. Do not import B-only chags jig pa yang into U01241."
+    },
+    "L1-0074": {
+      "status": "retain_base",
+      "rationale": "At U01246 retain the uninterrupted zhag ni sum brgya drug cur dod. B interposes a long collection/title-like statement within drug ... cur; preserve that exact transcript text in B without importing it into the root or deriving a historical explanation."
+    },
+    "L1-0075": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Keep the twenty-third reply heading U01257 and the recorded second-shad correction before U01258. S braces and boundary-space differences remain apparatus presentation only."
+    },
+    "L1-0076": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept U01265 main rnal byor pa yis bkug shes na and preserve dkrug kyang separately as the smaller annotation. Do not read the alternate as a second main verb merely because A/B flattened it into the clause."
+    },
+    "L1-0077": {
+      "status": "retain_base",
+      "rationale": "Keep U01271 as the twenty-fourth reply heading before U01272. S has a leading shad and braces; the preceding U01270 already has its recorded boundary correction, so no duplicate mark is inserted at this quotation start."
+    },
+    "L1-0078": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept all three S01 restored main verses after U01274: chu yi zug pas..., byer ba yis..., and snyoms pa yis.... They are present in the accepted Adzom scan restoration as well as B/S transcripts. They must appear in the release and combined machine reading, not merely in the apparatus.",
+      "evidence": [
+        "diplomatic/collation/chapter-01/ch1-scan-insertions.json"
+      ]
+    },
+    "L1-0079": {
+      "status": "retain_with_explicit_uncertainty",
+      "rationale": "Accept the established smaller-note status of U01286, keeping its exact supplied wording outside the main-verse sequence. Its printed medial/final letters and terminal signs remain unresolved. Preserve the repeated zug pa zug pa in U01287; the note is not permission to invent further water verses."
+    },
+    "L1-0080": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Keep the twenty-fifth reply heading U01308 with its verified second boundary shad, then U01309. S braces are preserved separately; no lexical changes are adopted."
+    },
+    "L1-0081": {
+      "status": "retain_base",
+      "rationale": "At U01319 retain the current two-shad Adzom ending. B has a single separated shad in the exact transcript. Quote that difference without claiming fresh physical punctuation certification."
+    },
+    "L1-0082": {
+      "status": "retain_base",
+      "rationale": "At U01330 retain lhug mar byung bas skye ba med. B/S add lugs ma yang byung, bracketed in S; preserve it as comparison text rather than silently adding an unobserved Adzom annotation or changing lhug mar."
+    },
+    "L1-0083": {
+      "status": "retain_base",
+      "rationale": "Keep U01335 as the twenty-sixth reply heading and retain U01336. S braces identify presentation only, not a separate root verse or evidence of full printed agreement."
+    },
+    "L1-0084": {
+      "status": "retain_base",
+      "rationale": "At U01350 retain sngar rather than B bsngar. The extra B prefix remains quoted, and the unusual spelling is not silently corrected inside the source quotation."
+    },
+    "L1-0085": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Keep the twenty-seventh reply heading U01353 with the accepted second shad before U01354. The existing native-sign decision governs, not S bracketing or a universal punctuation rule."
+    },
+    "L1-0086": {
+      "status": "retain_base",
+      "rationale": "Keep U01381 as the twenty-eighth reply heading preceding U01382. Preserve the exact S brace convention only in its witness quotation; the base heading remains visible as a heading."
+    },
+    "L1-0087": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept U01414 main sa pa la ser poi sbyor ba yi, retaining se yi yang byung separately. The S braces encompass a wider apparent span, but the accepted physical layer record—not brace matching—governs what remains in main text."
+    },
+    "L1-0088": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept the verified U01416 second shad and the independent U01417 separation of bsdebs kyang byung. Main rab bstims nas remains continuous. Record B/S punctuation and S note bracketing without mixing those two adoption grounds."
+    },
+    "L1-0089": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Retain U01420 sdud pai mis and U01421 phyin nas rather than the shorter B readings. Accept U01422 main rin po che yi sbyor ba dag with rin chen bsei yang byung separate. Preserve the uncertain ingredient wording without identifying or normalizing it from context."
+    },
+    "L1-0090": {
+      "status": "retain_base",
+      "rationale": "At U01429 retain the seed-syllable graph ཡཾ rather than B ཡི. Do not replace its anusvara with a vowel sign on grammatical grounds; preserve the exact alternative in the apparatus."
+    },
+    "L1-0091": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept main a yis bskor in U01439 and preserve a lis kyang byung separately as the recorded smaller note. The repeated a in flattened A/B is not duplicated in the main sequence."
+    },
+    "L1-0092": {
+      "status": "retain_base",
+      "rationale": "Keep U01454 as the twenty-ninth reply heading preceding U01455. Only S bracketing differs in this locus; no further word or punctuation correction is adopted."
+    },
+    "L1-0093": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Keep the thirtieth reply heading U01476 with its existing two-shad boundary correction. S brace/space presentation stays in the transcript apparatus; the following U01477 wording is unchanged."
+    },
+    "L1-0094": {
+      "status": "retain_base",
+      "rationale": "Keep U01514 as the thirty-first reply heading followed by U01515. Preserve S braces as presentation and retain the negative ma thul ba clause without editorial improvement."
+    },
+    "L1-0095": {
+      "status": "retain_base",
+      "rationale": "At U01517 retain rang gio. B inserts bao yang byung between rang and gio; do not absorb that alternative-reading formula into the Adzom clause or remove it from the B quotation."
+    },
+    "L1-0096": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept U01534 with its already verified two terminal shads, preserving the tsheg before the first. S also doubles the shad, but the accepted source-boundary record supplies the justification."
+    },
+    "L1-0097": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Keep the thirty-second reply heading U01540 with the existing second-shad correction before U01541. S bracketing is not root text and is not independently counted as a textual correction."
+    },
+    "L1-0098": {
+      "status": "retain_base",
+      "rationale": "At U01543 preserve the A/S special tsheg codepoint before the shad, against B ordinary tsheg. This exact encoding difference is retained, not normalized away or interpreted as a new lexical reading."
+    },
+    "L1-0099": {
+      "status": "retain_with_explicit_uncertainty",
+      "rationale": "Retain the accepted U01557 second terminal shad while keeping its faint heading initials explicitly uncertain. The thirty-third reply number in the transcripts does not decipher those initials. U01558 remains main text; S braces remain transcript markup."
+    },
+    "L1-0100": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept U01567 main bsdams pas gags la btsir bas ching with gtems kyang byung separately preserved. The alternate is physically smaller and displaced, not an additional verb in the root; S braces alone are not the grounds of separation."
+    }
+  }
+}
