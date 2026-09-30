@@ -58,6 +58,17 @@
       "status": "deferred_not_collated",
       "approved_scope_reference": "diplomatic/release-v1-proposal/PLAN.json",
       "reading_not_relaunched": true
+    },
+    "C1-ADZOM1973/B01-P0011-0013": {
+      "status": "deferred_not_collated",
+      "rationale": "The captured Adzom1973 report exists and its recorded outputs and attachment hashes passed intake. Its twelve observations, nineteen listed questions, and the displayed composite/column images were inspected. A subsequent supplemental request to inspect the manifest fields, full row sequences and non-main inventory was blocked because tool safety status could not be determined; it was not retried or routed through another tool. Preserve the complete raw report and all images. Defer final report integration and any proposed punctuation/source-layer adoption from v1; do not count the packet as collated or its letters as resolved. This is a review-access limitation, not absence of the source or loss of the saved work.",
+      "evidence": [
+        "diplomatic/release-v1-proposal/PACKET-INTAKE.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-ADZOM1973-B01-P0011-0013-reader-reading.txt",
+        "diplomatic/reviews/chapter-01/continuation/C1-ADZOM1973-B01-P0011-0013-reader-execution.json"
+      ],
+      "source_still_preserved": true,
+      "new_reading_launched": false
     }
   },
   "final_editorial_signoff": null,
