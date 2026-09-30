@@ -1991,6 +1991,835 @@
         "diplomatic/chapter-02-v1/W-REVIEW.md"
       ],
       "new_scan_claim": false
+    },
+    "W-C02-051": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the eleventh-reply heading U03093, absent from W, as a heading rather than a missing main verse.",
+      "source_units": [
+        "U03093"
+      ],
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-052": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03106 bar snang against W par snang. The initial consonant difference is preserved without grammatical normalization.",
+      "source_units": [
+        "U03106"
+      ],
+      "W_lines": [
+        3140
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-053": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03114 gyis against W kyis. Record both particles without selecting by grammatical expectation.",
+      "source_units": [
+        "U03114"
+      ],
+      "W_lines": [
+        3148
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-054": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03130 pa'i against W ba'i; no source correction is adopted from this related transcription.",
+      "source_units": [
+        "U03130"
+      ],
+      "W_lines": [
+        3165
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-055": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the twelfth-reply heading U03134, which W omits. Its absence does not erase the Adzom structural label.",
+      "source_units": [
+        "U03134"
+      ],
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-056": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03142 mched rather than W mchod. A more familiar verb is not an independent basis for emendation.",
+      "source_units": [
+        "U03142"
+      ],
+      "W_lines": [
+        3177
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-057": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03144 skyen brjed against W skyin brjod. Both vowel differences are quoted in their water-fire context, without turning the passage into practical advice or imposing a meaning.",
+      "source_units": [
+        "U03144"
+      ],
+      "W_lines": [
+        3179
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-058": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Separate U03147 as the printed repetition comment, which W omits. Retain main U03148 yangs rather than W yas; removing a source comment does not authorize a second lexical alteration.",
+      "source_units": [
+        "U03147",
+        "U03148"
+      ],
+      "W_lines": [
+        3182
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md",
+        "diplomatic/chapter-02-v1/SOURCE-REVIEW.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-059": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain sa in U03159 and U03160 against W sas at both positions. Preserve the repeated case-pattern difference without rewriting the elemental enumeration.",
+      "source_units": [
+        "U03159",
+        "U03160"
+      ],
+      "W_lines": [
+        3193,
+        3194
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-060": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03167 dpyod rather than W spyod; no contextual reinterpretation is used to change the consonant.",
+      "source_units": [
+        "U03167"
+      ],
+      "W_lines": [
+        3201
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-061": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03186 dge ba spyod against W dge bskyod. The fused/different W form is retained literally, not silently divided or repaired in the quotation.",
+      "source_units": [
+        "U03186"
+      ],
+      "W_lines": [
+        3221
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-062": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the thirteenth-reply heading U03192 which W lacks, explicitly separate from the following main text.",
+      "source_units": [
+        "U03192"
+      ],
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-063": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03200 ldir against W lngir. The difference in the sound-description spelling remains unadopted and exact.",
+      "source_units": [
+        "U03200"
+      ],
+      "W_lines": [
+        3235
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-064": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03203 ngad rather than W dad. The choice is base retention, not proof that the more familiar semantic reading is original.",
+      "source_units": [
+        "U03203"
+      ],
+      "W_lines": [
+        3238
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-065": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the fourteenth-reply heading U03217, absent from W, without counting it as a newly restored verse.",
+      "source_units": [
+        "U03217"
+      ],
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-066": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03225 zad and U03226 zad against W brang and zang, and retain the fifteenth-reply heading U03227. Different endings and heading omission are not combined into a fabricated missing verse.",
+      "source_units": [
+        "U03225",
+        "U03226",
+        "U03227"
+      ],
+      "W_lines": [
+        3260,
+        3261
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-067": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03239 yid kyi lus rather than W yid kyis las. Both the particle and final word remain source-specific; neither W nor doctrinal expectation changes the base.",
+      "source_units": [
+        "U03239"
+      ],
+      "W_lines": [
+        3273
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-068": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the sixteenth-reply heading U03242 which W omits. The nearby uncertain U03240 form remains separately flagged, not solved by the heading count.",
+      "source_units": [
+        "U03242"
+      ],
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-069": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain gdeng at U03253/U03254 and bskyar at U03255 against W gding and bskyal. Repeated spelling variation is recorded at each occurrence and not normalized globally.",
+      "source_units": [
+        "U03253",
+        "U03254",
+        "U03255"
+      ],
+      "W_lines": [
+        3287,
+        3288,
+        3289
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-070": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the seventeenth-reply heading U03259 absent from W, preserving the root/heading distinction.",
+      "source_units": [
+        "U03259"
+      ],
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-071": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03263 chang against W char, keeping the exact prefixed spellings in their quotations; no new source-letter reading is claimed.",
+      "source_units": [
+        "U03263"
+      ],
+      "W_lines": [
+        3296
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-072": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03270 pa'i against W pas. The particle difference is recorded without grammatical emendation.",
+      "source_units": [
+        "U03270"
+      ],
+      "W_lines": [
+        3303
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-073": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03287 pa against W la. No alternative instruction is adopted merely because it makes sense in context.",
+      "source_units": [
+        "U03287"
+      ],
+      "W_lines": [
+        3321
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-074": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03290 dul as one written syllable rather than W du la, and keep the eighteenth-reply heading U03291. The W segmentation is not silently converted into a new root word.",
+      "source_units": [
+        "U03290",
+        "U03291"
+      ],
+      "W_lines": [
+        3324
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-075": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain Tibetan citta at U03298 and quote stored tsit+ta versus W tsit ta exactly. Romanization formatting is not a certified Tibetan spelling variant.",
+      "source_units": [
+        "U03298"
+      ],
+      "W_lines": [
+        3331
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-076": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03305 ka ti and sbu gu against W ka te and spu gu. Vowel and initial-consonant differences stay in the apparatus; no anatomical interpretation determines the spelling.",
+      "source_units": [
+        "U03305"
+      ],
+      "W_lines": [
+        3338
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-077": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03309 rtsa la and U03310 dwangs against W rtsal and dangs. Word-boundary variation and romanization are distinct and neither is silently normalized.",
+      "source_units": [
+        "U03309",
+        "U03310"
+      ],
+      "W_lines": [
+        3343,
+        3344
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-078": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03313 mar against W ma; no final-ra deletion is adopted.",
+      "source_units": [
+        "U03313"
+      ],
+      "W_lines": [
+        3347
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-079": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the nineteenth-reply heading U03319 which W does not transcribe; no source verse is lost.",
+      "source_units": [
+        "U03319"
+      ],
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-080": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the prefixed dra spelling at U03335 against W dra without its initial apostrophe. The exact strings remain available; no claim of print equivalence is made.",
+      "source_units": [
+        "U03335"
+      ],
+      "W_lines": [
+        3369
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-081": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the twentieth-reply heading and U03340 pa rather than W ba. The W heading omission does not license any change to the main sentence.",
+      "source_units": [
+        "U03339",
+        "U03340"
+      ],
+      "W_lines": [
+        3373
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-082": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the twenty-first-reply heading U03353 absent from W as a structural heading, not an interpolated main verse.",
+      "source_units": [
+        "U03353"
+      ],
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-083": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03361 la against W las; the website suffix is not adopted without source evidence.",
+      "source_units": [
+        "U03361"
+      ],
+      "W_lines": [
+        3393
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-084": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03372 tshad against W tshid and retain the twenty-second-reply heading U03373. The vowel difference and omitted heading are recorded separately.",
+      "source_units": [
+        "U03372",
+        "U03373"
+      ],
+      "W_lines": [
+        3405
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-085": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03377 pa'o against W ma'o; the main clause is not reinterpreted by changing the terminal consonant.",
+      "source_units": [
+        "U03377"
+      ],
+      "W_lines": [
+        3409
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-086": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the twenty-third-reply heading U03395 and prefixed byed in U03396 against W byed without the apostrophe. Keep the exact source spellings rather than normalizing them to each other.",
+      "source_units": [
+        "U03395",
+        "U03396"
+      ],
+      "W_lines": [
+        3428
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-087": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03402 nad and U03403 dwangs against W nang and dangs. The fact that the token diff crosses a line does not merge the two clauses or create a new medical claim.",
+      "source_units": [
+        "U03402",
+        "U03403"
+      ],
+      "W_lines": [
+        3434,
+        3435
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-088": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03408 nad rather than W nang. The written health-related noun is recorded as text, not endorsed as medical advice or altered by interpretation.",
+      "source_units": [
+        "U03408"
+      ],
+      "W_lines": [
+        3440
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-089": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03413 kyis rather than W gyis; no grammatical normalization is adopted.",
+      "source_units": [
+        "U03413"
+      ],
+      "W_lines": [
+        3445
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-090": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03415 rdul, U03416 nad and U03417 dwangs against W rngul, nang and dangs. Preserve the unusual source formulations, with no attempt to repair physiology or historical theory.",
+      "source_units": [
+        "U03415",
+        "U03416",
+        "U03417"
+      ],
+      "W_lines": [
+        3447,
+        3448,
+        3450
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-091": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03422 rdul and U03423 nad against W rngul and nang. These repeated differences are documented, not converted into a universal substitution rule.",
+      "source_units": [
+        "U03422",
+        "U03423"
+      ],
+      "W_lines": [
+        3455,
+        3456
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-092": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the twenty-fourth-reply heading U03432 absent from W; it remains separate from the following main verse.",
+      "source_units": [
+        "U03432"
+      ],
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-093": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03436 brel rather than W bral, with the exact prefixed forms quoted. No semantic preference decides the vowel.",
+      "source_units": [
+        "U03436"
+      ],
+      "W_lines": [
+        3468
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-094": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the twenty-fifth-reply heading U03454 which W omits; no root clause is supplied or removed.",
+      "source_units": [
+        "U03454"
+      ],
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-095": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03469 lde against W lnge. The uncommon written group remains unchanged rather than being guessed from context.",
+      "source_units": [
+        "U03469"
+      ],
+      "W_lines": [
+        3501
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-096": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the twenty-sixth-reply heading U03487 absent from W, including its source-specific numbering.",
+      "source_units": [
+        "U03487"
+      ],
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-097": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "W omits bzhi yang byung from U03494 and agrees with the separated main reading. Native PDF133, not website omission, governs preservation of that phrase as a smaller variant note.",
+      "source_units": [
+        "U03494"
+      ],
+      "W_lines": [
+        3526
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md",
+        "diplomatic/chapter-02-v1/SOURCE-REVIEW.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-098": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03505 par and U03506 rlung against W pa and lung. The suffix and subscribed-letter differences remain separate unadopted observations.",
+      "source_units": [
+        "U03505",
+        "U03506"
+      ],
+      "W_lines": [
+        3538,
+        3539
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-099": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the twenty-seventh-reply heading U03511 absent from W as a heading, not a lost main verse.",
+      "source_units": [
+        "U03511"
+      ],
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-100": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03519 rdul rather than W rngul, without imposing the repeated W spelling on the root.",
+      "source_units": [
+        "U03519"
+      ],
+      "W_lines": [
+        3551
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-101": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03521 pa'i and du against W pas and tu. Preserve both exact particle differences without using grammar as authority to alter the base.",
+      "source_units": [
+        "U03521"
+      ],
+      "W_lines": [
+        3553
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-102": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the twenty-eighth-reply heading U03529 absent from W. Its terminal spelling and punctuation are preserved, not inferred from ordinal sequence.",
+      "source_units": [
+        "U03529"
+      ],
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-103": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03555 rang rather than W ngang. No contextual preference authorizes changing the initial consonant.",
+      "source_units": [
+        "U03555"
+      ],
+      "W_lines": [
+        3588
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-104": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain U03577 las rather than W la; the source-specific case ending stays explicit.",
+      "source_units": [
+        "U03577"
+      ],
+      "W_lines": [
+        3610
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C02-105": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "The colophon is split over two W lines but has no remaining normalized lexical-token difference. Record the physical website lineation and exact signs separately; retain U03622 and the source-boundary uncertainty without counting this as a lexical correction.",
+      "source_units": [
+        "U03622"
+      ],
+      "W_lines": [
+        3657,
+        3658
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/wikisource.json",
+        "diplomatic/chapter-02-v1/W-REVIEW.md",
+        "diplomatic/chapter-02-v1/SOURCE-REVIEW.json"
+      ],
+      "new_scan_claim": false
     }
   },
   "source_checks": {

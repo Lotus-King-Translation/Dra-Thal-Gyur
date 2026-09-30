@@ -1,0 +1,37 @@
+{
+  "reproducible": true,
+  "source_units": 987,
+  "exact_differences": 116,
+  "readable_loci": 56,
+  "difference_classes": {
+    "presentation": 104,
+    "textual": 12
+  },
+  "structural_candidates": [],
+  "pairwise_alignment": {
+    "B": {
+      "exact_alignment_anchors": 868,
+      "operations": {
+        "equal": 33,
+        "delete": 11,
+        "replace": 6,
+        "insert": 16
+      }
+    },
+    "S": {
+      "exact_alignment_anchors": 829,
+      "operations": {
+        "equal": 111,
+        "insert": 86,
+        "delete": 15,
+        "replace": 10
+      }
+    }
+  },
+  "minimal_and_whole_locus_reconstruction_passed": true,
+  "W_lines_accounted": 994,
+  "W_reference_lines": 957,
+  "W_conflict_blocks": 105,
+  "W_equal_normalized_units": 855,
+  "caveat": "Exact data coverage and monotonic alignment are not source-glyph verification or automatic variant decisions."
+}
