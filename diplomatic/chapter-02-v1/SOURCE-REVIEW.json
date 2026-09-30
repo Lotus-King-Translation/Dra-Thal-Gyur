@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "scope": "Targeted native-image review under bounded Chapter2 v1; not full-page lexical or punctuation certification.",
+  "reader": "ChatGPT coordinator direct visual inspection; informed by existing transcripts and notes, not blind or credentialed human review.",
+  "items": [
+    {
+      "id": "C2-START",
+      "units": [
+        "U02636"
+      ],
+      "pdf_page": 102,
+      "physical_row": 2,
+      "approx_native_bounds": [
+        2650,
+        420,
+        3450,
+        620
+      ],
+      "native_member": "0104.png",
+      "source_sha256": "eb9e2e0e98df65ec94303d7b50e277b422685f940a26ba7ec00dbfade54dce91",
+      "observed_sequence": "དེ་ནས་ལྷ་དབང་རྟོག་པ་མེད; next main phrase ཆོས་ཀྱི་དབྱིངས",
+      "rationale": "The readable main incipit follows the compact separate transition inscription in row2. The stored U02636 opening is established without expanding the inscription or treating it as Chapter2 main verse.",
+      "remaining_uncertainty": "The preceding inscription remains the already preserved unresolved Chapter1 S09. This check does not certify every delimiter or the rest of PDF102.",
+      "evidence": [
+        "diplomatic/chapter-02-v1/evidence/E01/p102-native.png",
+        "diplomatic/chapter-02-v1/evidence/E01/manifest.json",
+        "diplomatic/chapter-02-v1/evidence/focused/U02636-boundary.png"
+      ],
+      "status": "target_inspected_bounded_disposition",
+      "full_page_collated": false
+    },
+    {
+      "id": "C2-LAYER-02680",
+      "units": [
+        "U02680"
+      ],
+      "pdf_page": 103,
+      "physical_row": 6,
+      "approx_native_bounds": [
+        940,
+        925,
+        1850,
+        1090
+      ],
+      "native_member": "0105.png",
+      "source_sha256": "2d5026ebef23594fbd34cf8307dcebda28ead59cb7d895541427c45eb45e9d65",
+      "observed_sequence": "དང་པོ་ལ་ནང་གསེས་བཅུ་བདུན; flanked by question ending གསུངས and larger དེ་ནས་སྟོན་པ",
+      "rationale": "The subdivision statement is a compact, smaller section note between the question sequence and the next larger statement. Keep it separately instead of treating its count as root verse.",
+      "remaining_uncertainty": "Exact tiny terminal stroke decomposition is not certified; retain the supplied note string without inventing a heading number.",
+      "evidence": [
+        "diplomatic/chapter-02-v1/evidence/E01/p103-native.png",
+        "diplomatic/chapter-02-v1/evidence/E01/manifest.json",
+        "diplomatic/chapter-02-v1/evidence/focused/U02680-layer.png"
+      ],
+      "status": "target_inspected_bounded_disposition",
+      "full_page_collated": false
+    },
+    {
+      "id": "C2-LAYER-02714",
+      "units": [
+        "U02714"
+      ],
+      "pdf_page": 105,
+      "physical_row": [
+        1,
+        2
+      ],
+      "approx_native_bounds": [
+        3780,
+        305,
+        4550,
+        610
+      ],
+      "native_member": "0107.png",
+      "source_sha256": "6c0f208742081564d80d8e1ec91c5afbd4a9ed92aac5a85a9b13d09dd213ed56",
+      "observed_sequence": "Main: འདུ་བ་བརྒྱ་ལ་བྱེད་པ་གཅིག; smaller next-row note: བརྒྱད་ཀྱང",
+      "rationale": "The main row is continuous from བརྒྱ་ལ to བྱེད་པ་གཅིག. The smaller བརྒྱད་ཀྱང is printed separately below, not within that main clause. Preserve the numerical alternative without replacing the main hundred reading.",
+      "remaining_uncertainty": "The precise target of the numerical alternate and tiny punctuation remain unexpanded; no arithmetic repair.",
+      "evidence": [
+        "diplomatic/chapter-02-v1/evidence/E01/p105-native.png",
+        "diplomatic/chapter-02-v1/evidence/E01/manifest.json",
+        "diplomatic/chapter-02-v1/evidence/focused/U02714-main-note.png"
+      ],
+      "status": "target_inspected_bounded_disposition",
+      "full_page_collated": false
+    },
+    {
+      "id": "C2-LAYER-02740",
+      "units": [
+        "U02740"
+      ],
+      "pdf_page": 106,
+      "physical_row": [
+        1,
+        2
+      ],
+      "approx_native_bounds": [
+        4300,
+        300,
+        5010,
+        600
+      ],
+      "native_member": "0108.png",
+      "source_sha256": "0412079f8252ab0ec48fc1f4e288107cc8f16c27fa0d9e8b0ac0132e97fee27c",
+      "observed_sequence": "Main: བྱས་ཚེ་གྲངས་ནི་དྲུག་ཅུ; continuation སྟེ on next row left; smaller ཚོགས་ཀྱང below main བྱས",
+      "rationale": "The large main lettering joins བྱས to ཚེ; the compact alternate ཚོགས་ཀྱང sits lower between lines. Separate it from the root clause, retaining the original transcript and the note.",
+      "remaining_uncertainty": "The alternate spelling is preserved without asserting a complete substitution rule; supplied main delimiters retained, not newly normalized.",
+      "evidence": [
+        "diplomatic/chapter-02-v1/evidence/E01/p106-native.png",
+        "diplomatic/chapter-02-v1/evidence/E01/manifest.json",
+        "diplomatic/chapter-02-v1/evidence/focused/U02740-main-note.png"
+      ],
+      "status": "target_inspected_bounded_disposition",
+      "full_page_collated": false
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "source_manifest_sha256": "0627280756a05102331dd6db70e09adb26609713c170d10f8601adddb945d436",
+  "zip_sha256": "516e772e5130538d09fa315582cfc2b3c8dd6e0023b4745410084108bfe71ccb",
+  "status": "prepared_not_read",
+  "coordinate_convention": "Native half-open x0,y0,x1,y1",
+  "pages": [
+    {
+      "pdf_page": 111,
+      "bdrc_image": 113,
+      "member": "0113.png",
+      "sha256": "971ae4b2e9ccfaf0181003dc691d8045b4a8a8de9072a635bd51c803508136ac",
+      "dimensions": [
+        5696,
+        1344
+      ],
+      "path": "diplomatic/chapter-02-v1/evidence/E02/p111-native.png"
+    },
+    {
+      "pdf_page": 113,
+      "bdrc_image": 115,
+      "member": "0115.png",
+      "sha256": "38f72b84ccaf2eee65520db074141bffd75b97cf2a36c8ea8af1bbd769a032d2",
+      "dimensions": [
+        5696,
+        1344
+      ],
+      "path": "diplomatic/chapter-02-v1/evidence/E02/p113-native.png"
+    },
+    {
+      "pdf_page": 120,
+      "bdrc_image": 122,
+      "member": "0122.png",
+      "sha256": "f4b652ce2175b4cf5720e9952b6e972490cb382e1cba6de4c226a2e5629804c8",
+      "dimensions": [
+        5696,
+        1344
+      ],
+      "path": "diplomatic/chapter-02-v1/evidence/E02/p120-native.png"
+    },
+    {
+      "pdf_page": 121,
+      "bdrc_image": 123,
+      "member": "0123.png",
+      "sha256": "0d5cae538b5ecf0fc159e8194e8629ee2394810f9de3bbcfbd5df4585ebccdc9",
+      "dimensions": [
+        5696,
+        1344
+      ],
+      "path": "diplomatic/chapter-02-v1/evidence/E02/p121-native.png"
+    },
+    {
+      "pdf_page": 124,
+      "bdrc_image": 126,
+      "member": "0126.png",
+      "sha256": "1bcf58ae5b667b5fc1da0deaf26b93a0d4a91381a3b127ad0300318a07240f0f",
+      "dimensions": [
+        5696,
+        1344
+      ],
+      "path": "diplomatic/chapter-02-v1/evidence/E02/p124-native.png"
+    }
+  ],
+  "views": [
+    {
+      "pdf_page": 111,
+      "path": "diplomatic/chapter-02-v1/evidence/E02/p111-x0000.png",
+      "bounds": [
+        0,
+        0,
+        2000,
+        1344
+      ],
+      "sha256": "5b15ed353de649e210b90bfa411ede4ab846438a26f3d073aabb940ef5d4e669",
+      "derivation": "Unscaled lossless native crop; not another witness"
+    },
+    {
+      "pdf_page": 111,
+      "path": "diplomatic/chapter-02-v1/evidence/E02/p111-x1848.png",
+      "bounds": [
+        1848,
+        0,
+        3848,
+        1344
+      ],
+      "sha256": "03c91c476b58a5fa1ca8787d70658c96866c035cab064c1b6448031daa63866e",
+      "derivation": "Unscaled lossless native crop; not another witness"
+    },
+    {
+      "pdf_page": 111,
+      "path": "diplomatic/chapter-02-v1/evidence/E02/p111-x3696.png",
+      "bounds": [
+        3696,
+        0,
+        5696,
+        1344
+      ],
+      "sha256": "940a1f8dc6efa7b38ba3111898c5b23434fa7e7f31be0312476d6f3b21bf05a5",
+      "derivation": "Unscaled lossless native crop; not another witness"
+    },
+    {
+      "pdf_page": 113,
+      "path": "diplomatic/chapter-02-v1/evidence/E02/p113-x0000.png",
+      "bounds": [
+        0,
+        0,
+        2000,
+        1344
+      ],
+      "sha256": "77f0f02ed37f3237ff69320217b565f5899079ba1bf910c94d74b6f6f12ab7b6",
+      "derivation": "Unscaled lossless native crop; not another witness"
+    },
+    {
+      "pdf_page": 113,
+      "path": "diplomatic/chapter-02-v1/evidence/E02/p113-x1848.png",
+      "bounds": [
+        1848,
+        0,
+        3848,
+        1344
+      ],
+      "sha256": "2ef7e4195a77c2340b384964651a1046ae0d744836f27dc495a6e937b3f1cec8",
+      "derivation": "Unscaled lossless native crop; not another witness"
+    },
+    {
+      "pdf_page": 113,
+      "path": "diplomatic/chapter-02-v1/evidence/E02/p113-x3696.png",
+      "bounds": [
+        3696,
+        0,
+        5696,
+        1344
+      ],
+      "sha256": "a58d36563c24901a23de092127ec296e6622f2918cd38e56d1969c76bd33f55a",
+      "derivation": "Unscaled lossless native crop; not another witness"
+    },
+    {
+      "pdf_page": 120,
+      "path": "diplomatic/chapter-02-v1/evidence/E02/p120-x0000.png",
+      "bounds": [
+        0,
+        0,
+        2000,
+        1344
+      ],
+      "sha256": "c8845e761c590b5e90afdd865a4738538bdedc7fd24a6771e8998f59d7efa0d5",
+      "derivation": "Unscaled lossless native crop; not another witness"
+    },
+    {
+      "pdf_page": 120,
+      "path": "diplomatic/chapter-02-v1/evidence/E02/p120-x1848.png",
+      "bounds": [
+        1848,
+        0,
+        3848,
+        1344
+      ],
+      "sha256": "adf22d2e89f23976867fd9b0a9c12a2f4d5a577dc25f800c9d87ba3353d6a10d",
+      "derivation": "Unscaled lossless native crop; not another witness"
+    },
+    {
+      "pdf_page": 120,
+      "path": "diplomatic/chapter-02-v1/evidence/E02/p120-x3696.png",
+      "bounds": [
+        3696,
+        0,
+        5696,
+        1344
+      ],
+      "sha256": "0a52f3ebf47f075e921a5c31d67b26b95e155b579e18fc6f509be01b867add1e",
+      "derivation": "Unscaled lossless native crop; not another witness"
+    },
+    {
+      "pdf_page": 121,
+      "path": "diplomatic/chapter-02-v1/evidence/E02/p121-x0000.png",
+      "bounds": [
+        0,
+        0,
+        2000,
+        1344
+      ],
+      "sha256": "11e93279ffe0c63691d25d8bc4345fedb8bf798741a5106a3a928c9234041513",
+      "derivation": "Unscaled lossless native crop; not another witness"
+    },
+    {
+      "pdf_page": 121,
+      "path": "diplomatic/chapter-02-v1/evidence/E02/p121-x1848.png",
+      "bounds": [
+        1848,
+        0,
+        3848,
+        1344
+      ],
+      "sha256": "5282379d307244bf0a20d817cd2dfebfba4359d793a5d08238a4916ba9d6510c",
+      "derivation": "Unscaled lossless native crop; not another witness"
+    },
+    {
+      "pdf_page": 121,
+      "path": "diplomatic/chapter-02-v1/evidence/E02/p121-x3696.png",
+      "bounds": [
+        3696,
+        0,
+        5696,
+        1344
+      ],
+      "sha256": "558133535515972f176fca2deac582b9eb010c0a49345a6d026a2b11a7df714b",
+      "derivation": "Unscaled lossless native crop; not another witness"
+    },
+    {
+      "pdf_page": 124,
+      "path": "diplomatic/chapter-02-v1/evidence/E02/p124-x0000.png",
+      "bounds": [
+        0,
+        0,
+        2000,
+        1344
+      ],
+      "sha256": "bf0a72004af63095013288c8fc21bc030410aedf76e3354656efa673869781bc",
+      "derivation": "Unscaled lossless native crop; not another witness"
+    },
+    {
+      "pdf_page": 124,
+      "path": "diplomatic/chapter-02-v1/evidence/E02/p124-x1848.png",
+      "bounds": [
+        1848,
+        0,
+        3848,
+        1344
+      ],
+      "sha256": "db7cc60e91d365106e4c1a0edbca0089d5a775abdedeb90dab84c2bd1f8d275d",
+      "derivation": "Unscaled lossless native crop; not another witness"
+    },
+    {
+      "pdf_page": 124,
+      "path": "diplomatic/chapter-02-v1/evidence/E02/p124-x3696.png",
+      "bounds": [
+        3696,
+        0,
+        5696,
+        1344
+      ],
+      "sha256": "570613d05b308c7927e394bc365257b828384c0af99a0353466f71ef7f63427e",
+      "derivation": "Unscaled lossless native crop; not another witness"
+    }
+  ]
+}

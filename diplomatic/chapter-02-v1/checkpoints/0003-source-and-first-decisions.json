@@ -1,0 +1,19 @@
+{
+  "parent_commit": "cda72a3116250796ab7050afb6470bdbd1e5292e",
+  "source_checks_completed": 4,
+  "source_checks_remaining": 6,
+  "locus_decisions_completed": 17,
+  "locus_decisions_remaining": 39,
+  "new_interventions": [
+    "C2-I-U02680",
+    "C2-I-U02714",
+    "C2-I-U02740"
+  ],
+  "unchanged_source_hashes": {
+    "A": "18bd9ce65311e2d6d7c703f053a5c0aac347e899a75f8749a8f9afd891452edc",
+    "B": "df05454b1ca21d893188b30e00b7b463abe369afc6ec26d917354a7d6de464c3",
+    "S": "2cf6b52889211579dff68f2e064032f40926de266242f111b3c94bb4efa47c57"
+  },
+  "view_dependency": "Default Python lacked Pillow; no image preparation occurred in those failed attempts. Pinned Pillow11.3.0 via uv succeeded without changing the project environment.",
+  "full_page_collation_claim": false
+}

@@ -1,1 +1,83 @@
-[]
+[
+  {
+    "id": "C2-I-U02680",
+    "units": [
+      "U02680"
+    ],
+    "original_units": {
+      "U02680": "དང་པོ་ལ་ནང་གསེས་བཅུ་བདུན།"
+    },
+    "replacement_units": {
+      "U02680": ""
+    },
+    "annotations": [
+      {
+        "text": "དང་པོ་ལ་ནང་གསེས་བཅུ་བདུན།",
+        "role": "source_section_note",
+        "placement": "PDF103 row6 after question closing and before U02681"
+      }
+    ],
+    "rationale": "The subdivision statement is a compact, smaller section note between the question sequence and the next larger statement. Keep it separately instead of treating its count as root verse.",
+    "evidence": [
+      "diplomatic/chapter-02-v1/evidence/E01/p103-native.png",
+      "diplomatic/chapter-02-v1/evidence/E01/manifest.json",
+      "diplomatic/chapter-02-v1/evidence/focused/U02680-layer.png"
+    ],
+    "source_check": "C2-LAYER-02680",
+    "remaining_uncertainty": "Exact tiny terminal stroke decomposition is not certified; retain the supplied note string without inventing a heading number."
+  },
+  {
+    "id": "C2-I-U02714",
+    "units": [
+      "U02714"
+    ],
+    "original_units": {
+      "U02714": "འདུ་བ་བརྒྱ་ལ་བརྒྱད་ཀྱང་བྱེད་པ་གཅིག །"
+    },
+    "replacement_units": {
+      "U02714": "འདུ་བ་བརྒྱ་ལ་བྱེད་པ་གཅིག །"
+    },
+    "annotations": [
+      {
+        "text": "བརྒྱད་ཀྱང",
+        "role": "source_variant_note",
+        "placement": "PDF105 row2 below main row1 clause"
+      }
+    ],
+    "rationale": "The main row is continuous from བརྒྱ་ལ to བྱེད་པ་གཅིག. The smaller བརྒྱད་ཀྱང is printed separately below, not within that main clause. Preserve the numerical alternative without replacing the main hundred reading.",
+    "evidence": [
+      "diplomatic/chapter-02-v1/evidence/E01/p105-native.png",
+      "diplomatic/chapter-02-v1/evidence/E01/manifest.json",
+      "diplomatic/chapter-02-v1/evidence/focused/U02714-main-note.png"
+    ],
+    "source_check": "C2-LAYER-02714",
+    "remaining_uncertainty": "The precise target of the numerical alternate and tiny punctuation remain unexpanded; no arithmetic repair."
+  },
+  {
+    "id": "C2-I-U02740",
+    "units": [
+      "U02740"
+    ],
+    "original_units": {
+      "U02740": "བྱས་ཚོགས་ཀྱང་ཚེ་གྲངས་ནི་དྲུག་ཅུ་སྟེ། །"
+    },
+    "replacement_units": {
+      "U02740": "བྱས་ཚེ་གྲངས་ནི་དྲུག་ཅུ་སྟེ། །"
+    },
+    "annotations": [
+      {
+        "text": "ཚོགས་ཀྱང",
+        "role": "source_variant_note",
+        "placement": "PDF106 lower than main row1, near row2"
+      }
+    ],
+    "rationale": "The large main lettering joins བྱས to ཚེ; the compact alternate ཚོགས་ཀྱང sits lower between lines. Separate it from the root clause, retaining the original transcript and the note.",
+    "evidence": [
+      "diplomatic/chapter-02-v1/evidence/E01/p106-native.png",
+      "diplomatic/chapter-02-v1/evidence/E01/manifest.json",
+      "diplomatic/chapter-02-v1/evidence/focused/U02740-main-note.png"
+    ],
+    "source_check": "C2-LAYER-02740",
+    "remaining_uncertainty": "The alternate spelling is preserved without asserting a complete substitution rule; supplied main delimiters retained, not newly normalized."
+  }
+]

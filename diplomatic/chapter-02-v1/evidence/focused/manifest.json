@@ -1,0 +1,58 @@
+[
+  {
+    "label": "U02636-boundary",
+    "source": "E01/p102-native.png",
+    "bounds": [
+      2150,
+      420,
+      4000,
+      640
+    ],
+    "path": "evidence/focused/U02636-boundary.png",
+    "source_sha256": "eb9e2e0e98df65ec94303d7b50e277b422685f940a26ba7ec00dbfade54dce91",
+    "sha256": "45131a8659a9a581222918d272f892a51832e4070ac7c90df6003c31560fb78d",
+    "derivation": "Exact unscaled native pixel crop; same source, not independent evidence"
+  },
+  {
+    "label": "U02680-layer",
+    "source": "E01/p103-native.png",
+    "bounds": [
+      650,
+      905,
+      2850,
+      1120
+    ],
+    "path": "evidence/focused/U02680-layer.png",
+    "source_sha256": "2d5026ebef23594fbd34cf8307dcebda28ead59cb7d895541427c45eb45e9d65",
+    "sha256": "a5f3d4d891d8a2304b6c7f54e2832f2e9c48e7e8aa4e057e135f957f1314cf51",
+    "derivation": "Exact unscaled native pixel crop; same source, not independent evidence"
+  },
+  {
+    "label": "U02714-main-note",
+    "source": "E01/p105-native.png",
+    "bounds": [
+      3600,
+      260,
+      4600,
+      620
+    ],
+    "path": "evidence/focused/U02714-main-note.png",
+    "source_sha256": "6c0f208742081564d80d8e1ec91c5afbd4a9ed92aac5a85a9b13d09dd213ed56",
+    "sha256": "d1aac7bd6366ef7a580b06b023d5928221ab0625f89a266dfed4e7a0f3b6c405",
+    "derivation": "Exact unscaled native pixel crop; same source, not independent evidence"
+  },
+  {
+    "label": "U02740-main-note",
+    "source": "E01/p106-native.png",
+    "bounds": [
+      3700,
+      260,
+      5100,
+      630
+    ],
+    "path": "evidence/focused/U02740-main-note.png",
+    "source_sha256": "0412079f8252ab0ec48fc1f4e288107cc8f16c27fa0d9e8b0ac0132e97fee27c",
+    "sha256": "8bae180b101d1ac59f48f46c1cd1e3b28d62b8582c2efac86f1c28d578539c7f",
+    "derivation": "Exact unscaled native pixel crop; same source, not independent evidence"
+  }
+]
