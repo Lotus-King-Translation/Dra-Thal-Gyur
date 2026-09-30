@@ -28,5 +28,58 @@
     "uncertain_units": [
       "U04312"
     ]
+  },
+  {
+    "id": "C4-I-U04519",
+    "units": [
+      "U04519"
+    ],
+    "original_units": {
+      "U04519": "ཐོར་ཚུགས་རླུང་གིས་འགེག་འདེགས་ཀྱང་བྱུང་པར་སྣང༌། །"
+    },
+    "replacement_units": {
+      "U04519": "ཐོར་ཚུགས་རླུང་གིས་འགེག་པར་སྣང༌། །"
+    },
+    "annotations": [
+      {
+        "text": "འདེགས་ཀྱང་བྱུང",
+        "role": "source_variant_note",
+        "status": "layer supported; supplied note quotation retained with inked-letter uncertainty"
+      }
+    ],
+    "rationale": "Separate the smaller displaced alternative from the row1 main clause. The larger lettering continues from ageg to par snang; the compact alternate survives at row3 left, rather than forming another main predicate.",
+    "evidence": [
+      "diplomatic/chapter-04-v1/evidence/E02/manifest.json",
+      "diplomatic/chapter-04-v1/evidence/E02/p171-native.png",
+      "diplomatic/chapter-04-v1/evidence/focused/U04519-main-context.png",
+      "diplomatic/chapter-04-v1/evidence/focused/U04519-note-context.png"
+    ],
+    "source_check": "C4-LAYER-04519",
+    "remaining_uncertainty": "The beginning of the compact note is heavily inked. Preserve its exact supplied adegs kyang byung quotation with local letter uncertainty; do not substitute it for ageg or certify every sign.",
+    "uncertain_units": [
+      "U04519"
+    ]
+  },
+  {
+    "id": "C4-I-U04562-UNCERTAIN",
+    "units": [
+      "U04562"
+    ],
+    "original_units": {
+      "U04562": "རླུ་ལས་བྱུང་བའི་ཆོས་ཉིད་དོ། །"
+    },
+    "replacement_units": {},
+    "annotations": [],
+    "rationale": "Retain the supplied incomplete-looking rlu rather than insert final nga merely because the preceding verse has rlung. The displayed local cluster does not give this review a sufficiently secure basis for adding a letter.",
+    "evidence": [
+      "diplomatic/chapter-04-v1/evidence/E02/manifest.json",
+      "diplomatic/chapter-04-v1/evidence/E02/p172-native.png",
+      "diplomatic/chapter-04-v1/evidence/focused/U04562-reading-context.png"
+    ],
+    "source_check": "C4-READING-04562",
+    "remaining_uncertainty": "The initial rlu cluster remains explicitly questioned. No lexical correction or complete physical-sign certification is claimed.",
+    "uncertain_units": [
+      "U04562"
+    ]
   }
 ]

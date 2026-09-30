@@ -121,6 +121,90 @@
         "diplomatic/chapter-04-v1/evidence/focused/U04394-gyi-nar.png"
       ],
       "review_method": "Direct coordinator reading of displayed native context and lossless crops; known candidates visible; not an independent human certification."
+    },
+    {
+      "id": "C4-LAYER-04519",
+      "units": [
+        "U04519"
+      ],
+      "pdf_page": 171,
+      "physical_row": "1 main; 3 small note",
+      "approx_native_bounds": [
+        580,
+        265,
+        3960,
+        670
+      ],
+      "observed_sequence": "Main: ཐོར་ཚུགས་རླུང་གིས་འགེག་པར་སྣང; compact note at left of row3",
+      "rationale": "Separate the smaller displaced alternative from the row1 main clause. The larger lettering continues from ageg to par snang; the compact alternate survives at row3 left, rather than forming another main predicate.",
+      "remaining_uncertainty": "The beginning of the compact note is heavily inked. Preserve its exact supplied adegs kyang byung quotation with local letter uncertainty; do not substitute it for ageg or certify every sign.",
+      "evidence": [
+        "diplomatic/chapter-04-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-04-v1/evidence/E02/p171-native.png",
+        "diplomatic/chapter-04-v1/evidence/focused/U04519-main-context.png",
+        "diplomatic/chapter-04-v1/evidence/focused/U04519-note-context.png"
+      ],
+      "review_method": "Direct coordinator inspection of native images and lossless crops with known candidate context; not credentialed human palaeographic certification."
+    },
+    {
+      "id": "C4-READING-04562",
+      "units": [
+        "U04562"
+      ],
+      "pdf_page": 172,
+      "physical_row": 4,
+      "approx_native_bounds": [
+        3060,
+        640,
+        4680,
+        870
+      ],
+      "observed_sequence": "...རྟེན་འབྲེལ་རླུང་ཉིད་རྣམ་དག་པ ... རླུ་ལས་བྱུང་བའི་ཆོས་ཉིད་དོ ... ཀ་ནས་དག་པའི",
+      "rationale": "Retain the supplied incomplete-looking rlu rather than insert final nga merely because the preceding verse has rlung. The displayed local cluster does not give this review a sufficiently secure basis for adding a letter.",
+      "remaining_uncertainty": "The initial rlu cluster remains explicitly questioned. No lexical correction or complete physical-sign certification is claimed.",
+      "evidence": [
+        "diplomatic/chapter-04-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-04-v1/evidence/E02/p172-native.png",
+        "diplomatic/chapter-04-v1/evidence/focused/U04562-reading-context.png"
+      ],
+      "review_method": "Direct coordinator inspection of native images and lossless crops with known candidate context; not credentialed human palaeographic certification."
+    },
+    {
+      "id": "C4-END",
+      "units": [
+        "U04762",
+        "U04763"
+      ],
+      "pdf_page": 179,
+      "physical_row": "5–6",
+      "approx_native_bounds": [
+        600,
+        740,
+        5270,
+        1160
+      ],
+      "observed_sequence": "...ཆོས་ཉིད་བཀོད་པ་སེམས་སྣང་གི་རྩ ... བསྟན་པའི་ལེའུ་སྟེ་བཞི་པའོ ... compact graphic ... དེ་ནས་རང་བཞིན་རྣམ་དག་པས",
+      "rationale": "The fourth-chapter colophon continues from row5 into row6 and includes sems in its title. After the compact boundary graphic, the Chapter5 incipit begins. Preserve the base title rather than omit sems from the B transcript or supply the graphic from B foreign-form wording.",
+      "remaining_uncertainty": "Faint final lettering and terminal punctuation remain qualified; the compact graphic is undecoded. The boundary is established without claiming that every closing mark is read.",
+      "evidence": [
+        "diplomatic/chapter-04-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-04-v1/evidence/E02/p179-native.png",
+        "diplomatic/chapter-04-v1/evidence/focused/C4-colophon-title.png",
+        "diplomatic/chapter-04-v1/evidence/focused/C4-ending-and-transition.png"
+      ],
+      "review_method": "Direct coordinator inspection of native images and lossless crops with known candidate context; not credentialed human palaeographic certification.",
+      "transition_graphic": {
+        "id": "C4-TRANSITION",
+        "reading": null,
+        "not_main_verse": true,
+        "location": "Adzom PDF179 row6 after the fourth-chapter colophon and before Chapter5",
+        "evidence": [
+          "diplomatic/chapter-04-v1/evidence/E02/manifest.json",
+          "diplomatic/chapter-04-v1/evidence/E02/p179-native.png",
+          "diplomatic/chapter-04-v1/evidence/focused/C4-colophon-title.png",
+          "diplomatic/chapter-04-v1/evidence/focused/C4-ending-and-transition.png"
+        ]
+      }
     }
   ]
 }

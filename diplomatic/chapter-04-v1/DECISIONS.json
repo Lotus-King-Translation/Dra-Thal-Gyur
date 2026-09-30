@@ -1,5 +1,818 @@
 {
-  "loci": {},
+  "loci": {
+    "L4-0001": {
+      "status": "retain_base",
+      "rationale": "Retain bkod pa at U04310 rather than B bkod ma. The shorter B letter difference is preserved exactly in its transcript quotation; it does not replace the governing base.",
+      "source_units": [
+        "U04310"
+      ],
+      "exact_conflicts": [
+        "C4-0001"
+      ],
+      "release_reading": {
+        "U04310": "བདག་ནི་ཡེ་ཤེས་བཀོད་པ་ལས། །"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0002": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Include the three Adzom scan-attested question verses after U04328 and before U04329 under A2000-C04-S01. Retain both original anchor strings. This is restoration of text absent from the digital base, not conjecture from B/S agreement.",
+      "source_units": [
+        "U04328",
+        "U04329"
+      ],
+      "exact_conflicts": [
+        "C4-0002",
+        "C4-0003"
+      ],
+      "release_reading": {
+        "U04328": "ཕེབས་ནས་རྫོགས་པའི་ཚད་གང་ལགས། །",
+        "U04329": "རྒྱུ་འབྲས་ཆོས་ཉིད་ཅི་ཡིས་བསྒྲུབ། །"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [
+        "A2000-C04-S01"
+      ],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0003": {
+      "status": "retain_base",
+      "rationale": "Preserve U04344 zhus don dang po as the source heading distinct from U04345. The native PDF164 boundary supports the role; the supplied initial space and S braces stay in their respective source quotations.",
+      "source_units": [
+        "U04344",
+        "U04345"
+      ],
+      "exact_conflicts": [
+        "C4-0004",
+        "C4-0005"
+      ],
+      "release_reading": {
+        "U04344": " ཞུས་དོན་དང་པོ།",
+        "U04345": "གནས་པའི་ཆོས་ཉིད་འདི་ལྟ་སྟེ། །"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0004": {
+      "status": "retain_base",
+      "rationale": "Keep the second zhus don heading U04350 before U04351. S brace markup is not root wording and supplies no extra main verse or newly certified shad.",
+      "source_units": [
+        "U04350",
+        "U04351"
+      ],
+      "exact_conflicts": [
+        "C4-0006",
+        "C4-0007"
+      ],
+      "release_reading": {
+        "U04350": "ཞུས་དོན་གཉིས་པ།",
+        "U04351": "འགྱུ་མཚམས་ཆོས་ཉིད་འདི་ལྟ་བུ། །"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0005": {
+      "status": "retain_base",
+      "rationale": "Retain the current single terminal shad at U04360; the S double mark remains a transcript difference. Do not normalize the governing base punctuation from S alone.",
+      "source_units": [
+        "U04360"
+      ],
+      "exact_conflicts": [
+        "C4-0008"
+      ],
+      "release_reading": {
+        "U04360": "འབྱུང་བ་སྣོད་ཀྱི་ལས་ཀྱིས་སོ།"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0006": {
+      "status": "retain_base",
+      "rationale": "Keep U04368 as the third zhus don heading, followed by the time-related main clause. S braces distinguish its transcript presentation, not a new reading to adopt.",
+      "source_units": [
+        "U04368",
+        "U04369"
+      ],
+      "exact_conflicts": [
+        "C4-0009",
+        "C4-0010"
+      ],
+      "release_reading": {
+        "U04368": "ཞུས་དོན་གསུམ་པ།",
+        "U04369": "དུས་ཀྱི་ཆོས་ཉིད་འདི་ལྟ་སྟེ། །"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0007": {
+      "status": "retain_base",
+      "rationale": "Preserve the fourth heading U04378 separately from U04379. Do not insert S brace characters into the selected Tibetan or use them to claim physical agreement.",
+      "source_units": [
+        "U04378",
+        "U04379"
+      ],
+      "exact_conflicts": [
+        "C4-0011",
+        "C4-0012"
+      ],
+      "release_reading": {
+        "U04378": "ཞུས་དོན་བཞི་པ།",
+        "U04379": "སངས་རྒྱས་རྣམས་ཀྱི་ཆོས་ཉིད་ནི། །"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0008": {
+      "status": "retain_base",
+      "rationale": "Keep the fifth zhus don label U04390 before the conditional main verse U04391. Its S bracketing is retained only in the apparatus.",
+      "source_units": [
+        "U04390",
+        "U04391"
+      ],
+      "exact_conflicts": [
+        "C4-0013",
+        "C4-0014"
+      ],
+      "release_reading": {
+        "U04390": "ཞུས་དོན་ལྔ་པ།",
+        "U04391": "གལ་ཏེ་འཁྲུལ་པའི་སེམས་ཅན་ལ། །"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0009": {
+      "status": "retain_base",
+      "rationale": "Retain U04403 grol bar with final la, not the shorter B/S gro bar. Two related transcripts agreeing does not by itself establish a correction to the Adzom reading.",
+      "source_units": [
+        "U04403"
+      ],
+      "exact_conflicts": [
+        "C4-0015"
+      ],
+      "release_reading": {
+        "U04403": "གཅིག་ཤེས་པ་ཡིས་གྲོལ་བར་གནས། །"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0010": {
+      "status": "retain_base",
+      "rationale": "Preserve U04406 as the sixth zhus don heading before the body-related reply U04407. S braces are presentation rather than root text.",
+      "source_units": [
+        "U04406",
+        "U04407"
+      ],
+      "exact_conflicts": [
+        "C4-0016",
+        "C4-0017"
+      ],
+      "release_reading": {
+        "U04406": "ཞུས་དོན་དྲུག་པ།",
+        "U04407": "ལུས་ཀྱི་གནད་ནི་འདི་ལྟ་སྟེ། །"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0011": {
+      "status": "retain_base",
+      "rationale": "Keep the source label zhus lan bdun pa at U04433, not regularized to the earlier zhus don wording. The following gate-related verse remains separate; S braces do not change either string.",
+      "source_units": [
+        "U04433",
+        "U04434"
+      ],
+      "exact_conflicts": [
+        "C4-0018",
+        "C4-0019"
+      ],
+      "release_reading": {
+        "U04433": "ཞུས་ལན་བདུན་པ།",
+        "U04434": "སྒོ་ནས་ཅི་ལྟར་འབྱུང་བ་ནི། །"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0012": {
+      "status": "retain_base",
+      "rationale": "Retain the single-shad U04440 ending rather than adopt the S double mark without a corresponding source-boundary decision. The five-and-five wording stays unchanged.",
+      "source_units": [
+        "U04440"
+      ],
+      "exact_conflicts": [
+        "C4-0020"
+      ],
+      "release_reading": {
+        "U04440": "ལྔ་ལྔ་ཟུང་ལ་སྐུར་སྣང་བའོ།"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0013": {
+      "status": "retain_base",
+      "rationale": "Keep the eighth zhus lan heading U04451 before U04452, preserving the original boundary space in source data. S-only braces do not enter the main reading.",
+      "source_units": [
+        "U04451",
+        "U04452"
+      ],
+      "exact_conflicts": [
+        "C4-0021",
+        "C4-0022"
+      ],
+      "release_reading": {
+        "U04451": " ཞུས་ལན་བརྒྱད་པ།",
+        "U04452": "ཡུལ་ལ་སྣང་བའི་མཚན་ཉིད་ནི། །"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0014": {
+      "status": "retain_base",
+      "rationale": "Retain U04461 with its supplied single ending, then the ninth heading U04462 and U04463. B/S double the preceding shad and shift boundary spacing; preserve that evidence without a uniform punctuation rule.",
+      "source_units": [
+        "U04461",
+        "U04462",
+        "U04463"
+      ],
+      "exact_conflicts": [
+        "C4-0023",
+        "C4-0024",
+        "C4-0025"
+      ],
+      "release_reading": {
+        "U04461": "བྱ་བྲལ་ནམ་མཁའ་ཅི་བཞིན་ནོ།",
+        "U04462": "ཞུས་ལན་དགུ་པ།",
+        "U04463": " དེ་ལ་ཅི་ཡིས་མཐོང་བ་ནི། །"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0015": {
+      "status": "retain_base",
+      "rationale": "Keep U04484 as the tenth reply heading and leave U04485 unchanged. S bracketing is electronic presentation, not a new Tibetan main-text element.",
+      "source_units": [
+        "U04484",
+        "U04485"
+      ],
+      "exact_conflicts": [
+        "C4-0026",
+        "C4-0027"
+      ],
+      "release_reading": {
+        "U04484": "ཞུས་ལན་བཅུ་པ།",
+        "U04485": "མཐོང་ནས་གནད་ལ་དབབ་པ་སྟེ། །"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0016": {
+      "status": "retain_base",
+      "rationale": "Keep U04494 as the eleventh reply label before U04495. S braces do not certify all source heading signs and are not copied into the base.",
+      "source_units": [
+        "U04494",
+        "U04495"
+      ],
+      "exact_conflicts": [
+        "C4-0028",
+        "C4-0029"
+      ],
+      "release_reading": {
+        "U04494": "ཞུས་ལན་བཅུ་གཅིག་པ།",
+        "U04495": "དེ་ལྟར་ཕེབས་ནས་རྫོགས་པའི་ཚད། །"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0017": {
+      "status": "retain_base",
+      "rationale": "Preserve the twelfth heading U04509 and the following tshad phebs lugs clause U04510. Do not alter lugs or the heading merely from S brace markup.",
+      "source_units": [
+        "U04509",
+        "U04510"
+      ],
+      "exact_conflicts": [
+        "C4-0030",
+        "C4-0031"
+      ],
+      "release_reading": {
+        "U04509": "ཞུས་ལན་བཅུ་གཉིས་པ།",
+        "U04510": "ཚད་ཕེབས་ལུགས་ཀྱང་འདི་ལྟར་འགྱུར། །"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0018": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept separation of the displaced smaller adegs kyang byung note from the larger ageg par snang clause at U04519. The note remains fully preserved, with its inked initial letters explicitly qualified; no alternative verb is substituted into the main text.",
+      "source_units": [
+        "U04519"
+      ],
+      "exact_conflicts": [
+        "C4-0032",
+        "C4-0033"
+      ],
+      "release_reading": {
+        "U04519": "ཐོར་ཚུགས་རླུང་གིས་འགེག་པར་སྣང༌། །"
+      },
+      "uncertain_units": [
+        "U04519"
+      ],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0019": {
+      "status": "retain_base",
+      "rationale": "Retain U04525 phabs rather than B/S phebs. Contextual expectation does not license a vowel replacement; the full source-specific difference remains quoted.",
+      "source_units": [
+        "U04525"
+      ],
+      "exact_conflicts": [
+        "C4-0034"
+      ],
+      "release_reading": {
+        "U04525": "འདི་དུས་རང་ལུས་ཚད་ལ་ཕབས། །"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0020": {
+      "status": "retain_base",
+      "rationale": "Preserve the thirteenth heading U04527 and both main verses. B duplicates pa in U04529 shes pa pa; quote that exact supplied sequence without copying it into the Adzom reading or silently repairing B.",
+      "source_units": [
+        "U04527",
+        "U04528",
+        "U04529"
+      ],
+      "exact_conflicts": [
+        "C4-0035",
+        "C4-0036",
+        "C4-0037"
+      ],
+      "release_reading": {
+        "U04527": "ཞུས་ལན་བཅུ་གསུམ་པ།",
+        "U04528": "འདི་དུས་སེམས་ནི་གསལ་བ་དང༌། །",
+        "U04529": "མངོན་པར་ཤེས་པ་དྲུག་རྣམས་དང༌། །"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0021": {
+      "status": "retain_base",
+      "rationale": "Keep the fourteenth heading U04539 before U04540. The only difference here is S heading bracketing; no new lexical or physical-sign correction follows.",
+      "source_units": [
+        "U04539",
+        "U04540"
+      ],
+      "exact_conflicts": [
+        "C4-0038",
+        "C4-0039"
+      ],
+      "release_reading": {
+        "U04539": "ཞུས་ལན་བཅུ་བཞི་པ།",
+        "U04540": "དེ་ལྟར་སྣང་བའི་དུས་རྣམས་སུ། །"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0022": {
+      "status": "retain_base",
+      "rationale": "Keep the fifteenth heading U04557 and U04558 in order. Exact boundary whitespace and S braces remain separately represented rather than normalized across transcripts.",
+      "source_units": [
+        "U04557",
+        "U04558"
+      ],
+      "exact_conflicts": [
+        "C4-0040",
+        "C4-0041"
+      ],
+      "release_reading": {
+        "U04557": " ཞུས་ལན་བཅོ་ལྔ་པ།",
+        "U04558": "རྒྱུ་དང་འབྲས་བུའི་ཆོས་ཉིད་ནི། །"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0023": {
+      "status": "retain_base",
+      "rationale": "Keep the sixteenth heading U04568 and retain U04570 rdos pa dag, not B rdos pa dang. Preserve B terminal spacing and S brackets exactly without changing the base suffix or conjunction.",
+      "source_units": [
+        "U04568",
+        "U04569",
+        "U04570"
+      ],
+      "exact_conflicts": [
+        "C4-0042",
+        "C4-0043",
+        "C4-0044"
+      ],
+      "release_reading": {
+        "U04568": " ཞུས་ལན་བཅུ་དྲུག་པ།",
+        "U04569": "རང་སར་དེངས་པའི་ཆོས་ཉིད་ནི། །",
+        "U04570": "འབྱུང་བ་དེངས་པས་རྡོས་པ་དག །"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0024": {
+      "status": "retain_base",
+      "rationale": "Retain the repeated dengs in U04573 rather than B dangs. Repetition is source evidence, not a reason to choose a smoother spelling.",
+      "source_units": [
+        "U04573"
+      ],
+      "exact_conflicts": [
+        "C4-0045"
+      ],
+      "release_reading": {
+        "U04573": "ཉོན་མོངས་དེངས་པས་འཁྲུལ་པ་དེངས། །"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0025": {
+      "status": "retain_base",
+      "rationale": "Keep the seventeenth heading U04584 before the main nges pai tshig clause. S brace presentation is preserved separately and does not change the root wording.",
+      "source_units": [
+        "U04584",
+        "U04585"
+      ],
+      "exact_conflicts": [
+        "C4-0046",
+        "C4-0047"
+      ],
+      "release_reading": {
+        "U04584": "ཞུས་ལན་བཅུ་བདུན་པ།",
+        "U04585": "དེ་ལྟར་ཆོས་ཉིད་ངེས་པའི་ཚིག །"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0026": {
+      "status": "retain_base",
+      "rationale": "Keep U04594 as the eighteenth reply heading before U04595. S braces are not additional root characters or source-glyph verification.",
+      "source_units": [
+        "U04594",
+        "U04595"
+      ],
+      "exact_conflicts": [
+        "C4-0048",
+        "C4-0049"
+      ],
+      "release_reading": {
+        "U04594": "ཞུས་ལན་བཅོ་བརྒྱད་པ།",
+        "U04595": "གནད་ཀྱི་ཆོས་ཉིད་འདི་ལྟ་སྟེ། །"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0027": {
+      "status": "retain_base",
+      "rationale": "Keep the nineteenth heading U04608 followed by U04609. No sign count or lexical normalization is adopted from the S bracket convention.",
+      "source_units": [
+        "U04608",
+        "U04609"
+      ],
+      "exact_conflicts": [
+        "C4-0050",
+        "C4-0051"
+      ],
+      "release_reading": {
+        "U04608": "ཞུས་ལན་བཅུ་དགུ་པ།",
+        "U04609": "འབྱུང་དུས་གནད་ནི་འདི་ལྟ་བུ། །"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0028": {
+      "status": "retain_base",
+      "rationale": "Preserve the complete nyi shu tham pa label at U04620 rather than shorten it to match the style of other reply numbers. The main U04621 and S braces remain distinct.",
+      "source_units": [
+        "U04620",
+        "U04621"
+      ],
+      "exact_conflicts": [
+        "C4-0052",
+        "C4-0053"
+      ],
+      "release_reading": {
+        "U04620": "ཞུས་ལན་ཉི་ཤུ་ཐམ་པ།",
+        "U04621": "བར་དོའི་ཆོས་ཉིད་འདི་ལྟ་བུ། །"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0029": {
+      "status": "retain_base",
+      "rationale": "Keep the twenty-first heading U04645 before U04646. Its absence of braces in A/B versus S bracketing does not delete the heading or make it a newly restored verse.",
+      "source_units": [
+        "U04645",
+        "U04646"
+      ],
+      "exact_conflicts": [
+        "C4-0054",
+        "C4-0055"
+      ],
+      "release_reading": {
+        "U04645": "ཞུས་ལན་ཉེར་གཅིག་པ།",
+        "U04646": "དེ་ཡི་མཚན་ཉིད་འདི་ལྟ་བུ། །"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0030": {
+      "status": "retain_base",
+      "rationale": "Retain de at the end of U04685, rather than the B sentence-ending do. The source particle is not replaced to improve English or Tibetan syntax.",
+      "source_units": [
+        "U04685"
+      ],
+      "exact_conflicts": [
+        "C4-0056"
+      ],
+      "release_reading": {
+        "U04685": "འཁོར་འདས་རྟོག་པ་ཐ་དད་དེ། །"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0031": {
+      "status": "retain_with_explicit_uncertainty",
+      "rationale": "Retain all three supplied shads at U04703 while explicitly qualifying their unverified physical allocation. B/S supply two. No fresh source-boundary inspection establishes permission to delete the third; preserve both representations.",
+      "source_units": [
+        "U04703"
+      ],
+      "exact_conflicts": [
+        "C4-0057"
+      ],
+      "release_reading": {
+        "U04703": "བྱ་ལམ་ནམ་མཁར་འགྲོ་བ་བཞིན། ། །"
+      },
+      "uncertain_units": [
+        "U04703"
+      ],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0032": {
+      "status": "retain_base",
+      "rationale": "Retain single pa in U04761 brjod pa. B duplicates the letter as pa pa; quote B exactly and do not introduce that duplicated transcript form into the base.",
+      "source_units": [
+        "U04761"
+      ],
+      "exact_conflicts": [
+        "C4-0058"
+      ],
+      "release_reading": {
+        "U04761": "སྨྲ་བསམ་བརྗོད་པ་ཀུན་འདས་པའོ། །"
+      },
+      "uncertain_units": [],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    },
+    "L4-0033": {
+      "status": "retain_with_explicit_uncertainty",
+      "rationale": "Retain sems snang in the Chapter4 title, locally supported on PDF179, rather than omit sems as B does. Keep the supplied closing punctuation qualified and the compact graphic undecoded. Do not transcribe that graphic from the B-only foreign-form ending.",
+      "source_units": [
+        "U04763"
+      ],
+      "exact_conflicts": [
+        "C4-0059",
+        "C4-0060",
+        "C4-0061"
+      ],
+      "release_reading": {
+        "U04763": " ཆོས་ཉིད་བཀོད་པ་སེམས་སྣང་གི་རྩ་བ་བསྟན་པའི་ལེའུ་སྟེ་བཞི་པའོ།། །།"
+      },
+      "uncertain_units": [
+        "U04763"
+      ],
+      "insertion_ids": [],
+      "evidence": [
+        "diplomatic/chapter-04-v1/collation.json",
+        "diplomatic/chapter-04-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-04-v1/INTERVENTIONS.json",
+        "diplomatic/chapter-04-v1/INSERTIONS.json"
+      ],
+      "acceptance_scope": "Bounded v1 editorial choice, not complete manuscript proofread or reconstructed original."
+    }
+  },
   "W": {},
   "source_checks": {
     "C4-START": {
@@ -45,6 +858,35 @@
         "diplomatic/chapter-04-v1/evidence/E01/manifest.json",
         "diplomatic/chapter-04-v1/evidence/E01/p166-native.png",
         "diplomatic/chapter-04-v1/evidence/focused/U04394-gyi-nar.png"
+      ]
+    },
+    "C4-LAYER-04519": {
+      "status": "reviewed_with_explicit_limits",
+      "rationale": "Separate the smaller displaced alternative from the row1 main clause. The larger lettering continues from ageg to par snang; the compact alternate survives at row3 left, rather than forming another main predicate.",
+      "evidence": [
+        "diplomatic/chapter-04-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-04-v1/evidence/E02/p171-native.png",
+        "diplomatic/chapter-04-v1/evidence/focused/U04519-main-context.png",
+        "diplomatic/chapter-04-v1/evidence/focused/U04519-note-context.png"
+      ]
+    },
+    "C4-READING-04562": {
+      "status": "reviewed_with_explicit_limits",
+      "rationale": "Retain the supplied incomplete-looking rlu rather than insert final nga merely because the preceding verse has rlung. The displayed local cluster does not give this review a sufficiently secure basis for adding a letter.",
+      "evidence": [
+        "diplomatic/chapter-04-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-04-v1/evidence/E02/p172-native.png",
+        "diplomatic/chapter-04-v1/evidence/focused/U04562-reading-context.png"
+      ]
+    },
+    "C4-END": {
+      "status": "reviewed_with_explicit_limits",
+      "rationale": "The fourth-chapter colophon continues from row5 into row6 and includes sems in its title. After the compact boundary graphic, the Chapter5 incipit begins. Preserve the base title rather than omit sems from the B transcript or supply the graphic from B foreign-form wording.",
+      "evidence": [
+        "diplomatic/chapter-04-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-04-v1/evidence/E02/p179-native.png",
+        "diplomatic/chapter-04-v1/evidence/focused/C4-colophon-title.png",
+        "diplomatic/chapter-04-v1/evidence/focused/C4-ending-and-transition.png"
       ]
     }
   },
