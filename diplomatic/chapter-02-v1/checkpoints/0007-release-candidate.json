@@ -1,0 +1,30 @@
+{
+  "parent_commit": "c2fd684497062856c6ac72194eaf75efe9aecc28",
+  "release_files": [
+    "CHANGES.md",
+    "COVERAGE.md",
+    "MANIFEST.json",
+    "README.md",
+    "apparatus.json",
+    "apparatus.md",
+    "reading.json",
+    "reading.md",
+    "wikisource.md"
+  ],
+  "counts": {
+    "source_anchors": 987,
+    "exact_differences": 116,
+    "transcript_loci": 56,
+    "W_blocks": 105,
+    "fixed_source_checks": 10,
+    "intervention_records": 9,
+    "changed_anchor_strings": 10,
+    "source_annotations": 9,
+    "new_main_verses": 0,
+    "source_layer_corrections": 8
+  },
+  "build_reproducible": true,
+  "final_gate_passed": false,
+  "remaining": "Independent assembly/quotation/link validation, final editorial review and verified tagged publication.",
+  "scope_caveat": "No full Chapter2 Adzom scan proofread is claimed; targeted image decisions and supplied-transcript scaffolding are explicitly distinguished."
+}

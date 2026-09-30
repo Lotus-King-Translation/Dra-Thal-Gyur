@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "chapter": 2,
+  "release_state": "release_candidate",
+  "counts": {
+    "source_anchors": 987,
+    "exact_differences": 116,
+    "transcript_loci": 56,
+    "W_blocks": 105,
+    "fixed_source_checks": 10,
+    "intervention_records": 9,
+    "changed_anchor_strings": 10,
+    "source_annotations": 9,
+    "new_main_verses": 0,
+    "source_layer_corrections": 8
+  },
+  "input_hashes": {
+    "diplomatic/chapter-02-v1/PLAN.json": "b75dc98c2be29c995fe5066468e9380159b31986362505aac046275c3c290845",
+    "diplomatic/chapter-02-v1/DECISIONS.json": "b9808dbe295ae525bee39ac16154e9bb269dee9e6cb0f591e7edaa5a09ad9f9e",
+    "diplomatic/chapter-02-v1/STATE.json": "2f6fbef8092918bb3d4c52c0f135b68af47ee1b43294969e558795ef88c90ac5",
+    "diplomatic/chapter-02-v1/INTERVENTIONS.json": "47cf8e3cdb60695f28195a7ba7d89cf8cc875d5c05494e53049af50a8c6a9ee5",
+    "diplomatic/chapter-02-v1/SOURCE-REVIEW.json": "5584798b19e296da71bbe0a544e391a1ddf3e931cd884e7040c0dbfc1b4fa1a1",
+    "diplomatic/chapter-02-v1/source-units.json": "0727208c4c433cf5e750cc6f9e3d85bfd7c420f1b9f48a0feeeebfe5f594f070",
+    "diplomatic/chapter-02-v1/collation.json": "7482051b758932ecd852937c295ae03866cddc16d2fb7bab2891088c264ca652",
+    "diplomatic/chapter-02-v1/wikisource.json": "7e295a7f144459ab1afc115040a84d639d537bec10d96c6f820c724803ac72dc",
+    "editions/adzom-2000/W1KG11703_7.txt": "18bd9ce65311e2d6d7c703f053a5c0aac347e899a75f8749a8f9afd891452edc",
+    "editions/tharpaling-1983/W27491_7.txt": "df05454b1ca21d893188b30e00b7b463abe369afc6ec26d917354a7d6de464c3",
+    "editions/sichuan-2016/W3CN7084_7.txt": "2cf6b52889211579dff68f2e064032f40926de266242f111b3c94bb4efa47c57",
+    "editions/adzom-wikisource/source.wikitext": "d2a6e95e8c65d28d7812efa79d65bd397a0796a9e00621430a86b5713b70ede8"
+  },
+  "generator": {
+    "path": "diplomatic/chapter-02-v1/build_release.py",
+    "sha256": "c9a4b79cf59e035f3c7cdca609f1e4db117605ef2b032bff26adff3018f99941"
+  },
+  "output_hashes": {
+    "reading.md": "0ec23b0fcdfcc9d80f5abf54a7a2438894b6eb59d4660049a7dbe5b8cb028314",
+    "apparatus.md": "76dac27d5a55f02e1d36cf702d60ce6b458a0093d2ab0fb49b7d7a4d446804e1",
+    "wikisource.md": "068d84bd0600eac7f24d5400a18815111499ace407b8ef23f65c1c4a75d16feb",
+    "reading.json": "5dcd6034a3e71e414cfa846206dd81f36258c999fec4974d2b3fc5dc32e02684",
+    "apparatus.json": "e7d3aa06b25389d35c5d1075660c11c699e8621eb43330f6066a95521f62711f",
+    "CHANGES.md": "23e67f5c15212ce4b21bf4e4766b588afaf935b2f9766badf3706196f74ccf53",
+    "COVERAGE.md": "406613388b23a8edfa3099047ba2b68f07121c5c37655d1b05227ae9b1c5fc78",
+    "README.md": "57f87d7a02b0ed8796a261132e8d9089c8d0df260827d03dbc3b8bb4e353fc34"
+  },
+  "full_base_scan_proofread": false,
+  "exhaustive_witness_collation": false
+}
