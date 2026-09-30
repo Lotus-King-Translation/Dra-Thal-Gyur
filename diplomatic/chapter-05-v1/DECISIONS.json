@@ -204,6 +204,328 @@
       "uncertain_units": [
         "U05197"
       ]
+    },
+    "L5-0002": {
+      "status": "retain_base",
+      "rationale": "Retain the second reply label zhus lan gnyis pa as a heading, followed by bab las grub pai gnas lugs ni. S adds braces only; no lexical change is warranted.",
+      "source_units": [
+        "U04804",
+        "U04805"
+      ],
+      "exact_conflicts": [
+        "C5-0003",
+        "C5-0004"
+      ],
+      "release_reading": {
+        "U04804": "ཞུས་ལན་གཉིས་པ།",
+        "U04805": "བབ་ལས་གྲུབ་པའི་གནས་ལུགས་ནི། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-05-v1/collation.json",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ]
+    },
+    "L5-0004": {
+      "status": "retain_base",
+      "rationale": "Keep the third reply label separate from de la blta ba rnam pa gnyis. The explicit S brace layer adds no main words and is not copied into the base.",
+      "source_units": [
+        "U04824",
+        "U04825"
+      ],
+      "exact_conflicts": [
+        "C5-0010",
+        "C5-0011"
+      ],
+      "release_reading": {
+        "U04824": "ཞུས་ལན་གསུམ་པ།",
+        "U04825": "དེ་ལ་བལྟ་བ་རྣམ་པ་གཉིས། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-05-v1/collation.json",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ]
+    },
+    "L5-0005": {
+      "status": "retain_base",
+      "rationale": "Preserve the fourth heading and tshig don blta bai sa mtshams ni. S distinguishes the label with braces; this is not a newly attested main-text variant.",
+      "source_units": [
+        "U04850",
+        "U04851"
+      ],
+      "exact_conflicts": [
+        "C5-0012",
+        "C5-0013"
+      ],
+      "release_reading": {
+        "U04850": "ཞུས་ལན་བཞི་པ།",
+        "U04851": "ཚིག་དོན་བལྟ་བའི་ས་མཚམས་ནི། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-05-v1/collation.json",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ]
+    },
+    "L5-0006": {
+      "status": "retain_base",
+      "rationale": "Retain the fifth heading and blta bai ngo bo mthong ba la. Preserve its original leading space in data, trimming only for display; do not import S braces.",
+      "source_units": [
+        "U04860",
+        "U04861"
+      ],
+      "exact_conflicts": [
+        "C5-0014",
+        "C5-0015"
+      ],
+      "release_reading": {
+        "U04860": " ཞུས་ལན་ལྔ་པ།",
+        "U04861": "བལྟ་བའི་ངོ་བོ་མཐོང་བ་ལ། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-05-v1/collation.json",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ]
+    },
+    "L5-0007": {
+      "status": "retain_base",
+      "rationale": "Keep the sixth reply label and lta bai rang bzhin snod bcud la unchanged. No cross-locus lta/blta standardization is authorized by a heading-brace difference.",
+      "source_units": [
+        "U04865",
+        "U04866"
+      ],
+      "exact_conflicts": [
+        "C5-0016",
+        "C5-0017"
+      ],
+      "release_reading": {
+        "U04865": "ཞུས་ལན་དྲུག་པ།",
+        "U04866": "ལྟ་བའི་རང་བཞིན་སྣོད་བཅུད་ལ། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-05-v1/collation.json",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ]
+    },
+    "L5-0008": {
+      "status": "retain_base",
+      "rationale": "Retain the seventh heading before brjod tshig ming gi rnam grangs ni, with its exact boundary space retained in the source layer. S braces do not amend Tibetan wording.",
+      "source_units": [
+        "U04873",
+        "U04874"
+      ],
+      "exact_conflicts": [
+        "C5-0018",
+        "C5-0019"
+      ],
+      "release_reading": {
+        "U04873": " ཞུས་ལན་བདུན་པ།",
+        "U04874": "བརྗོད་ཚིག་མིང་གི་རྣམ་གྲངས་ནི། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-05-v1/collation.json",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ]
+    },
+    "L5-0009": {
+      "status": "retain_base",
+      "rationale": "Retain the eighth heading and bsgom pa zhes ni sems gnas la; the heading boundary is displayed explicitly without adopting S punctuation conventions.",
+      "source_units": [
+        "U04885",
+        "U04886"
+      ],
+      "exact_conflicts": [
+        "C5-0020",
+        "C5-0021"
+      ],
+      "release_reading": {
+        "U04885": "ཞུས་ལན་བརྒྱད་པ།",
+        "U04886": "བསྒོམ་པ་ཞེས་ནི་སེམས་གནས་ལ། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-05-v1/collation.json",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ]
+    },
+    "L5-0010": {
+      "status": "retain_base",
+      "rationale": "Retain the base final ni in rang bzhin bab las byung ba ni. B yi is recorded exactly as a supplied-transcript difference; it does not warrant a grammatical rewrite of Adzom.",
+      "source_units": [
+        "U04889"
+      ],
+      "exact_conflicts": [
+        "C5-0022"
+      ],
+      "release_reading": {
+        "U04889": "རང་བཞིན་བབ་ལས་བྱུང་བ་ནི། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-05-v1/collation.json",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ]
+    },
+    "L5-0012": {
+      "status": "retain_base",
+      "rationale": "Keep the ninth heading before de yi las dang go ba ni. Retain exact whitespace in the machine source and treat S braces as presentation.",
+      "source_units": [
+        "U04900",
+        "U04901"
+      ],
+      "exact_conflicts": [
+        "C5-0025",
+        "C5-0026"
+      ],
+      "release_reading": {
+        "U04900": " ཞུས་ལན་དགུ་པ།",
+        "U04901": "དེ་ཡི་ལས་དང་གོ་བ་ནི། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-05-v1/collation.json",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ]
+    },
+    "L5-0013": {
+      "status": "retain_base",
+      "rationale": "Keep the tenth heading before ma gol gnas pai bsgom pa ni. S brace annotation changes neither its ordinal nor the main clause.",
+      "source_units": [
+        "U04909",
+        "U04910"
+      ],
+      "exact_conflicts": [
+        "C5-0027",
+        "C5-0028"
+      ],
+      "release_reading": {
+        "U04909": " ཞུས་ལན་བཅུ་པ།",
+        "U04910": "མ་གོལ་གནས་པའི་བསྒོམ་པ་ནི། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-05-v1/collation.json",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ]
+    },
+    "L5-0014": {
+      "status": "retain_base",
+      "rationale": "Retain the supplied single final shad at U04920. S doubles it, but this bounded release does not silently regularize physical punctuation from a transcript comparison.",
+      "source_units": [
+        "U04920"
+      ],
+      "exact_conflicts": [
+        "C5-0029"
+      ],
+      "release_reading": {
+        "U04920": "སྦྱངས་པ་ལོག་ཆ་ལམ་སོང་དང་།"
+      },
+      "evidence": [
+        "diplomatic/chapter-05-v1/collation.json",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ]
+    },
+    "L5-0016": {
+      "status": "retain_base",
+      "rationale": "Retain the eleventh heading and bsgom pai mtshan nyid snang tshul ni. Only S brace presentation differs; no root wording is changed.",
+      "source_units": [
+        "U04926",
+        "U04927"
+      ],
+      "exact_conflicts": [
+        "C5-0031",
+        "C5-0032"
+      ],
+      "release_reading": {
+        "U04926": "ཞུས་ལན་བཅུ་གཅིག་པ།",
+        "U04927": "བསྒོམ་པའི་མཚན་ཉིད་སྣང་ཚུལ་ནི། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-05-v1/collation.json",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ]
+    },
+    "L5-0017": {
+      "status": "retain_base",
+      "rationale": "Keep the twelfth heading before ma bsgoms pa yi skyon nyid ni. Preserve the negative verb as supplied, without doctrinal smoothing; S braces remain in its quotation.",
+      "source_units": [
+        "U04939",
+        "U04940"
+      ],
+      "exact_conflicts": [
+        "C5-0033",
+        "C5-0034"
+      ],
+      "release_reading": {
+        "U04939": " ཞུས་ལན་བཅུ་གཉིས་པ།",
+        "U04940": "མ་བསྒོམས་པ་ཡི་སྐྱོན་ཉིད་ནི། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-05-v1/collation.json",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ]
+    },
+    "L5-0020": {
+      "status": "retain_base",
+      "rationale": "Retain the supplied single shad after mnyes at U05092. B/S have double-shad presentations; exact glyph allocation is unverified, not resolved by majority.",
+      "source_units": [
+        "U05092"
+      ],
+      "exact_conflicts": [
+        "C5-0038"
+      ],
+      "release_reading": {
+        "U05092": "གསུམ་གྱི་སྦྱོར་བས་རྩ་རྣམས་མཉེས།"
+      },
+      "evidence": [
+        "diplomatic/chapter-05-v1/collation.json",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ]
+    },
+    "L5-0025": {
+      "status": "retain_base",
+      "rationale": "Retain A sgra in me yi sgra ni atsheg pa dang. B sbra is recorded as electronic evidence only; no source-backed reason has been established to replace the governing text.",
+      "source_units": [
+        "U05163"
+      ],
+      "exact_conflicts": [
+        "C5-0046"
+      ],
+      "release_reading": {
+        "U05163": "མེ་ཡི་སྒྲ་ནི་འཚེག་པ་དང༌། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-05-v1/collation.json",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ]
+    },
+    "L5-0026": {
+      "status": "retain_base",
+      "rationale": "Retain the exact source string at U05176; B/S omit only the leading space. Outer trimming in the readable display is declared and does not modify the stored text.",
+      "source_units": [
+        "U05176"
+      ],
+      "exact_conflicts": [
+        "C5-0047"
+      ],
+      "release_reading": {
+        "U05176": " དམར་གསལ་དྭངས་པའི་ཟེར་འཕྲོ་ལ། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-05-v1/collation.json",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ]
+    },
+    "L5-0023": {
+      "status": "retain_base",
+      "rationale": "Retain the A boundary before gzhan yang chos sku ro gcig bshad. The extra leading shad in B/S is preserved in their quotations; its source ownership is not established.",
+      "source_units": [
+        "U05116"
+      ],
+      "exact_conflicts": [
+        "C5-0043"
+      ],
+      "release_reading": {
+        "U05116": " གཞན་ཡང་ཆོས་སྐུ་རོ་གཅིག་བཤད། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-05-v1/collation.json",
+        "diplomatic/chapter-05-v1/SOURCE-REVIEW.json"
+      ]
     }
   },
   "W": {},
