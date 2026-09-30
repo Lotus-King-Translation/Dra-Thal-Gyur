@@ -1,0 +1,273 @@
+{
+  "validation": {
+    "schema_version": 1,
+    "checks_passed": true,
+    "counts": {
+      "original_anchors": 683,
+      "reading_sequence_items": 685,
+      "source_annotations": 10,
+      "restored_main_verses": 3,
+      "choices_cross_checked": 41,
+      "exact_reconstruction_paths": 4,
+      "W_raw_lines_checked": 690,
+      "local_release_links_checked": 1375,
+      "exact_displayed_transcript_quotes": 123,
+      "W_display_blocks_checked": 76,
+      "evidence_image_hashes_checked": 58
+    },
+    "transcript_loci": 41,
+    "W_blocks": 76,
+    "source_checks": 10,
+    "deliverable_groups": 5,
+    "original_source_preservation": true,
+    "prior_releases_unchanged": true,
+    "build_checks": [
+      {
+        "reproducible": true,
+        "source_units": 683,
+        "exact_differences": 84,
+        "readable_loci": 41,
+        "difference_classes": {
+          "presentation": 76,
+          "textual": 8
+        },
+        "structural_candidates": [
+          "C3-0009"
+        ],
+        "pairwise_alignment": {
+          "B": {
+            "exact_alignment_anchors": 603,
+            "operations": {
+              "delete": 6,
+              "equal": 15,
+              "insert": 9,
+              "replace": 1
+            }
+          },
+          "S": {
+            "exact_alignment_anchors": 574,
+            "operations": {
+              "delete": 7,
+              "equal": 78,
+              "insert": 67,
+              "replace": 4
+            }
+          }
+        },
+        "minimal_and_whole_locus_reconstruction_passed": true,
+        "W_lines_accounted": 690,
+        "W_reference_lines": 664,
+        "W_conflict_blocks": 76,
+        "W_equal_normalized_units": 598,
+        "caveat": "Exact data coverage and monotonic alignment are not source-glyph verification or automatic variant decisions."
+      },
+      {
+        "reproducible": true,
+        "files": 9,
+        "state": "released_bounded_v1",
+        "counts": {
+          "source_anchors": 683,
+          "transcript_loci": 41,
+          "exact_differences": 84,
+          "W_blocks": 76,
+          "source_checks": 10,
+          "interventions": 11,
+          "changed_anchor_strings": 11,
+          "source_annotations": 10,
+          "restored_main_verses": 3,
+          "reading_sequence_items": 685
+        }
+      }
+    ],
+    "completed_for_approved_scope": true,
+    "full_base_scan_proofread": false,
+    "exhaustive_witness_collation": false,
+    "limits": "Checks source preservation, reconstruction, explicit decisions, annotation/restoration assembly and display. Not a character-accuracy estimate or independent human manuscript certification."
+  },
+  "tests": {
+    "positive_case_passed": true,
+    "negative_cases_rejected": 29,
+    "cases": [
+      {
+        "case": "lost_original_anchor",
+        "rejected": true,
+        "reason": "Original anchors lost, duplicated or reordered"
+      },
+      {
+        "case": "altered_original_source",
+        "rejected": true,
+        "reason": "Original source units altered"
+      },
+      {
+        "case": "changed_selected_word",
+        "rejected": true,
+        "reason": "Selected text or layer altered"
+      },
+      {
+        "case": "root_moved_to_heading",
+        "rejected": true,
+        "reason": "Selected text or layer altered"
+      },
+      {
+        "case": "lost_source_note",
+        "rejected": true,
+        "reason": "Separate source annotation altered, lost or duplicated"
+      },
+      {
+        "case": "duplicated_source_note",
+        "rejected": true,
+        "reason": "Separate source annotation altered, lost or duplicated"
+      },
+      {
+        "case": "changed_source_note",
+        "rejected": true,
+        "reason": "Separate source annotation altered, lost or duplicated"
+      },
+      {
+        "case": "lost_restoration",
+        "rejected": true,
+        "reason": "Reading sequence, insertion order or undecoded boundary changed"
+      },
+      {
+        "case": "changed_restored_word",
+        "rejected": true,
+        "reason": "Reading sequence, insertion order or undecoded boundary changed"
+      },
+      {
+        "case": "changed_restored_lines",
+        "rejected": true,
+        "reason": "Reading sequence, insertion order or undecoded boundary changed"
+      },
+      {
+        "case": "restoration_moved_to_note",
+        "rejected": true,
+        "reason": "Reading sequence, insertion order or undecoded boundary changed"
+      },
+      {
+        "case": "duplicated_restoration",
+        "rejected": true,
+        "reason": "Reading sequence, insertion order or undecoded boundary changed"
+      },
+      {
+        "case": "restoration_reordered",
+        "rejected": true,
+        "reason": "Reading sequence, insertion order or undecoded boundary changed"
+      },
+      {
+        "case": "restoration_metadata_lost",
+        "rejected": true,
+        "reason": "Restoration metadata changed"
+      },
+      {
+        "case": "invented_extra_segment",
+        "rejected": true,
+        "reason": "Reading sequence, insertion order or undecoded boundary changed"
+      },
+      {
+        "case": "invented_boundary_text",
+        "rejected": true,
+        "reason": "Reading sequence, insertion order or undecoded boundary changed"
+      },
+      {
+        "case": "boundary_counted_as_root",
+        "rejected": true,
+        "reason": "Reading sequence, insertion order or undecoded boundary changed"
+      },
+      {
+        "case": "lost_uncertainty",
+        "rejected": true,
+        "reason": "Reading uncertainty concealed or inflated"
+      },
+      {
+        "case": "changed_combined_reading",
+        "rejected": true,
+        "reason": "Combined text is inconsistent"
+      },
+      {
+        "case": "false_full_proofread",
+        "rejected": true,
+        "reason": "Inflated coverage claim"
+      },
+      {
+        "case": "false_all_witnesses",
+        "rejected": true,
+        "reason": "Inflated coverage claim"
+      },
+      {
+        "case": "changed_transcript_quote",
+        "rejected": true,
+        "reason": "Apparatus or decision export changed"
+      },
+      {
+        "case": "lost_W_record",
+        "rejected": true,
+        "reason": "Apparatus or decision export changed"
+      },
+      {
+        "case": "lost_intervention",
+        "rejected": true,
+        "reason": "Source apparatus evidence lost"
+      },
+      {
+        "case": "wrong_release_choice",
+        "rejected": true,
+        "reason": "Choice reading drift"
+      },
+      {
+        "case": "wrong_choice_anchor",
+        "rejected": true,
+        "reason": "Choice mapped to wrong passage"
+      },
+      {
+        "case": "invalid_choice_status",
+        "rejected": true,
+        "reason": "Invalid choice status"
+      },
+      {
+        "case": "missing_restoration_link",
+        "rejected": true,
+        "reason": "A/B/S restoration link absent"
+      },
+      {
+        "case": "wrong_W_line",
+        "rejected": true,
+        "reason": "W decision mapping drift"
+      }
+    ],
+    "editorial_originals_modified": false
+  },
+  "progress": {
+    "chapter": 3,
+    "state": "released_bounded_v1",
+    "source_anchors": 683,
+    "electronic_representations_verified": 4,
+    "transcript_loci": {
+      "total": 41,
+      "documented": 41,
+      "remaining": 0,
+      "invalid": []
+    },
+    "W_blocks": {
+      "total": 76,
+      "documented": 76,
+      "remaining": 0,
+      "invalid": []
+    },
+    "source_checks": {
+      "total": 10,
+      "documented": 10,
+      "remaining": 0,
+      "invalid": []
+    },
+    "interventions": 11,
+    "restored_main_verses": 3,
+    "deliverables": {
+      "total": 5,
+      "present": 5
+    },
+    "final_signoff": true,
+    "exhaustive_witness_collation": false,
+    "accuracy_score": null,
+    "time_estimate": null
+  }
+}

@@ -9,7 +9,7 @@
     "choices_cross_checked": 41,
     "exact_reconstruction_paths": 4,
     "W_raw_lines_checked": 690,
-    "local_release_links_checked": 1374,
+    "local_release_links_checked": 1375,
     "exact_displayed_transcript_quotes": 123,
     "W_display_blocks_checked": 76,
     "evidence_image_hashes_checked": 58
@@ -63,7 +63,7 @@
     {
       "reproducible": true,
       "files": 9,
-      "state": "release_candidate",
+      "state": "released_bounded_v1",
       "counts": {
         "source_anchors": 683,
         "transcript_loci": 41,
@@ -78,7 +78,7 @@
       }
     }
   ],
-  "completed_for_approved_scope": false,
+  "completed_for_approved_scope": true,
   "full_base_scan_proofread": false,
   "exhaustive_witness_collation": false,
   "limits": "Checks source preservation, reconstruction, explicit decisions, annotation/restoration assembly and display. Not a character-accuracy estimate or independent human manuscript certification."

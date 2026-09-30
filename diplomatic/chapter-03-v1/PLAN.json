@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "chapter": 3,
-  "status": "approved_in_progress",
+  "status": "released_bounded_v1",
   "baseline_commit": "b758a52ae6b2f550edfa54c3fe6da51f14e20c49",
   "approval": "User: move to chapter 3 then. Continue the approved bounded release method and status report with every verified commit.",
   "title": "Chapter 3 v1 — corrected Adzom-based reading with scoped comparative apparatus",
@@ -300,5 +300,6 @@
   },
   "no_general_comparison_witness_reading": true,
   "exhaustive_witness_collation": false,
-  "next_step": "Complete 10 targeted source dispositions, 41 A/B/S choices and 76 W choices, then five deliverables and final gate; no new all-witness queue."
+  "next_step": "No remaining bounded-v1 editorial work after final validation and verified publication. Chapter4 is separately authorized after publication; exhaustive research remains outside v1.",
+  "release_id": "chapter-03-v1.0.0"
 }

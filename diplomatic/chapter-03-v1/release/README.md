@@ -1,6 +1,6 @@
 # Chapter 3 — bounded v1
 
-**Release candidate — final gate pending**
+**Released bounded v1**
 
 Chapter 3 v1 — corrected Adzom-based reading with scoped comparative apparatus
 
@@ -17,3 +17,5 @@ Chapter 3 v1 — corrected Adzom-based reading with scoped comparative apparatus
 This is a corrected Adzom-based reading, not a complete scan proofread or reconstructed original. Images remain linked in the repository; this directory alone is not a standalone evidence archive.
 
 Reproduce with `python3 diplomatic/chapter-03-v1/build_release.py --repo . --check`.
+
+Version: **chapter-03-v1.0.0**. [Final validation](VALIDATION.json) records the scoped checks.

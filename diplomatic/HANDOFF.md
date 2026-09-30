@@ -1,6 +1,6 @@
 # Continue the diplomatic edition
 
-> **Active work: Chapter 3 bounded v1.** Continue at [chapter-03-v1/README.md](chapter-03-v1/README.md). Use its frozen 41 A/B/S loci, 76 W blocks and 10 source targets, not the historical exhaustive queue. Report status with every verified commit. Preserve Chapters 1 and 2 unchanged.
+> **Chapter 3 bounded v1: final signoff and tests complete.** See [the edition](chapter-03-v1/release/README.md) and [final validation](chapter-03-v1/release/VALIDATION.json). The user authorized Chapter 4 immediately after verified Chapter 3 publication. Preserve all earlier releases and report status after every verified commit.
 
 > **Chapters 1 and 2 bounded v1 are released (2026-09-30).** Chapter2 is at [chapter-02-v1/release/README.md](chapter-02-v1/release/README.md), with [final validation](chapter-02-v1/release/VALIDATION.json) and [status](chapter-02-v1/PROGRESS.json): 56/56 transcript decisions, 105/105 W decisions, 10/10 targeted source dispositions and 5/5 deliverables. The release is not complete scan proofreading. Chapter3 has not started. Preserve both version tags and report status with every verified commit.
 
