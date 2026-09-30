@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "chapter": 2,
-  "release_state": "release_candidate",
+  "release_state": "released_bounded_v1",
   "counts": {
     "source_anchors": 987,
     "exact_differences": 116,
@@ -15,9 +15,9 @@
     "source_layer_corrections": 8
   },
   "input_hashes": {
-    "diplomatic/chapter-02-v1/PLAN.json": "b75dc98c2be29c995fe5066468e9380159b31986362505aac046275c3c290845",
-    "diplomatic/chapter-02-v1/DECISIONS.json": "b9808dbe295ae525bee39ac16154e9bb269dee9e6cb0f591e7edaa5a09ad9f9e",
-    "diplomatic/chapter-02-v1/STATE.json": "2f6fbef8092918bb3d4c52c0f135b68af47ee1b43294969e558795ef88c90ac5",
+    "diplomatic/chapter-02-v1/PLAN.json": "45cf630c872d5744e90de8bac94f6bf096afcf41a56979d6ac16e97eb4a3eabd",
+    "diplomatic/chapter-02-v1/DECISIONS.json": "d287ca3d94d2ee4ee7384ece14fbcb153bf2272571b7c33144b52d0a270ab55c",
+    "diplomatic/chapter-02-v1/STATE.json": "84c581ce52bfb2af87ba050bd93d75a2adec990d9d1444f53b22ee7298bf7216",
     "diplomatic/chapter-02-v1/INTERVENTIONS.json": "47cf8e3cdb60695f28195a7ba7d89cf8cc875d5c05494e53049af50a8c6a9ee5",
     "diplomatic/chapter-02-v1/SOURCE-REVIEW.json": "5584798b19e296da71bbe0a544e391a1ddf3e931cd884e7040c0dbfc1b4fa1a1",
     "diplomatic/chapter-02-v1/source-units.json": "0727208c4c433cf5e750cc6f9e3d85bfd7c420f1b9f48a0feeeebfe5f594f070",
@@ -31,17 +31,17 @@
   },
   "generator": {
     "path": "diplomatic/chapter-02-v1/build_release.py",
-    "sha256": "c9a4b79cf59e035f3c7cdca609f1e4db117605ef2b032bff26adff3018f99941"
+    "sha256": "354d9cc7593fedb107bd22d87b6b6c345ae727fad5551ded86eb3bfd55f6a4fe"
   },
   "output_hashes": {
-    "reading.md": "0ec23b0fcdfcc9d80f5abf54a7a2438894b6eb59d4660049a7dbe5b8cb028314",
-    "apparatus.md": "76dac27d5a55f02e1d36cf702d60ce6b458a0093d2ab0fb49b7d7a4d446804e1",
-    "wikisource.md": "068d84bd0600eac7f24d5400a18815111499ace407b8ef23f65c1c4a75d16feb",
-    "reading.json": "5dcd6034a3e71e414cfa846206dd81f36258c999fec4974d2b3fc5dc32e02684",
+    "reading.md": "a9a31b81f7dda7ee738f49c6953720ce0ec8b2de2da962cc3119a47cc960fa18",
+    "apparatus.md": "ca4a3eea78385fcb6ade8e8edd7adde6dcadf5a54dee18172cff82b3de5391b1",
+    "wikisource.md": "d98fec2dbff16f2c0886ecc3e9179e6f97955fb2e2914c652ff3f7fbc65cf5cb",
+    "reading.json": "a7cfe92fb9bbb7015e3753c3b2db889e07d67c33a7b44a1990d5776a12595354",
     "apparatus.json": "e7d3aa06b25389d35c5d1075660c11c699e8621eb43330f6066a95521f62711f",
     "CHANGES.md": "23e67f5c15212ce4b21bf4e4766b588afaf935b2f9766badf3706196f74ccf53",
-    "COVERAGE.md": "406613388b23a8edfa3099047ba2b68f07121c5c37655d1b05227ae9b1c5fc78",
-    "README.md": "57f87d7a02b0ed8796a261132e8d9089c8d0df260827d03dbc3b8bb4e353fc34"
+    "COVERAGE.md": "8b57d4c419503b01258af8121cbfddf34eefa79f9b82b75dfe668ff0038d9ed9",
+    "README.md": "778c5f2cf49585c7c7bd1f6cb900ade27001ff5fb67db512822797ef61af575b"
   },
   "full_base_scan_proofread": false,
   "exhaustive_witness_collation": false

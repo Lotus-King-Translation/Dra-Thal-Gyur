@@ -1,6 +1,6 @@
 # Chapter 2 - bounded v1
 
-**Release candidate - final gate pending**
+**Released bounded v1**
 
 Chapter 2 v1 — corrected Adzom-based reading with scoped comparative apparatus
 
@@ -17,3 +17,5 @@ The [W reference comparison](wikisource.md) and [structured apparatus](apparatus
 This is a source-controlled bounded reading, not a complete scan proofread or exhaustive critical edition. Evidence links require the repository; this directory alone is not a scan archive.
 
 Reproduce with `python3 diplomatic/chapter-02-v1/build_release.py --repo . --check`.
+
+Version: **chapter-02-v1.0.0**. [Final validation](VALIDATION.json) records the scoped publication checks.

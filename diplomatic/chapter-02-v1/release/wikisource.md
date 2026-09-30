@@ -1,6 +1,6 @@
 # Chapter 2 - Wikisource reference comparison
 
-**Release candidate - final gate pending**
+**Released bounded v1**
 
 105 blocks compare stored Adzom EWTS with the exact related Wylie reference. This is not a further independent printing. Normalization is for alignment only; the raw lines and all source positions remain preserved.
 

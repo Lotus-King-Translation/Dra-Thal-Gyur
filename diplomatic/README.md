@@ -1,5 +1,7 @@
 # Dra Thal Gyur — Chapter 1 bounded v1
 
+**Chapter2 bounded v1 is also released:** [reading and deliverables](chapter-02-v1/release/README.md), [progress](chapter-02-v1/PROGRESS.json), and [validation](chapter-02-v1/release/VALIDATION.json). Its explicit scope is targeted source corrections and exact electronic comparison, not complete scan proofreading.
+
 **Read the completed Chapter 1 v1:** [Release overview](release-v1/README.md) · [Reading text](release-v1/reading.md) · [Apparatus](release-v1/apparatus.md) · [Changes](release-v1/CHANGES.md) · [Coverage and uncertainty](release-v1/COVERAGE.md).
 
 **Preservation and continuation:** [HANDOFF.md](HANDOFF.md) gives the restart checks, next task and verified checkpoint procedure. `main` contains the edition and all preserved recovery archives. The [work ledger](WORK-STATUS.md) records saved coverage; the [work queue](WORK-QUEUE.json) records what to do next; the [recovery index](recovery/README.md) explains historical evidence and missing records.

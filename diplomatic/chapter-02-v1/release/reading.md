@@ -1,6 +1,6 @@
 # Chapter 2 - corrected Adzom-based reading
 
-**Release candidate - final gate pending**
+**Released bounded v1**
 
 The supplied Adzom text is preserved except for documented targeted source-layer corrections. This is not a complete scan proofread or a reconstructed original.
 

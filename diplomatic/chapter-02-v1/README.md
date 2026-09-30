@@ -1,19 +1,27 @@
-# Chapter 2 — bounded v1 workbench
+# Chapter 2 — bounded v1
 
-**In progress.** Chapter 1's immutable `chapter-01-v1.0.0` release remains unchanged.
+**Completed for the approved bounded release scope.** Version: `chapter-02-v1.0.0`.
 
-The user authorized continuing with the same bounded publication process and a visible status report after every verified commit.
+Start with the [released reading and deliverables](release/README.md), [validation](release/VALIDATION.json), and [progress report](PROGRESS.json). The [final editorial review](FINAL-REVIEW.md) records what was accepted and what remains uncertain.
 
-## Fixed source scope
+| Release workstream | Completed | Remaining |
+|---|---:|---:|
+| Exact A/B/S passage decisions | 56 / 56 | 0 |
+| Related Wikisource block decisions | 105 / 105 | 0 |
+| Fixed targeted source-check dispositions | 10 / 10 | 0 |
+| Deliverable groups | 5 / 5 | 0 |
 
-The supplied Adzom text has **987 anchors, U02636–U03622**, at original character offsets **[76376,104719)**. Exact Tharpaling and Sichuan counterparts and the preserved Wikisource Chapter 2 reference are identified in [PLAN.json](PLAN.json). No original source file is edited. The Wikisource reference is related transcription, not an additional independent print witness.
+All **987 original anchors**, U02636–U03622, remain preserved. Eight source-layer corrections affect ten anchor strings and preserve nine separate annotation components. One additional record retains a difficult reading unchanged with an uncertainty flag. No main verse is supplied conjecturally.
 
-The previous translation's source consultations are useful leads, not a completed Chapter 2 diplomatic proofread. New accepted corrections require source evidence. Uncertain or unexamined material stays explicitly qualified.
+This release is not a complete Adzom scan proofread. Untargeted text remains the supplied Adzom scaffold; other printed witnesses have not received continuous Chapter2 collation. Exact electronic comparison, source-linked local corrections, explicit editorial decisions and uncertainty disclosures define this bounded release. The smaller rig pa at PDF111 remains a qualified gloss-or-addition rather than silently certified main wording.
 
-## Publication gate
+## Reproduce and verify
 
-Complete exact A/B/S collation and the defined W comparison; freeze their passage/candidate IDs; record passage-specific editorial choices; resolve or explicitly qualify targeted base-source questions; produce the reading, apparatus, machine reading, change ledger and coverage statement; validate and publish a versioned release. Full all-witness comparison and decipherment of every physical mark are not prerequisites.
+```bash
+python3 diplomatic/chapter-02-v1/collate.py --repo . --check
+python3 diplomatic/chapter-02-v1/build_release.py --repo . --check
+python3 diplomatic/chapter-02-v1/validate_release.py --repo . --require-final
+python3 diplomatic/chapter-02-v1/progress.py --repo .
+```
 
-Current status: four electronic source identities verified; 987 exact original anchors preserved; **0 new Tibetan edits**. Comparison and target denominators will be frozen after mechanical alignment, before editorial acceptance. They are not yet estimated.
-
-Next: build lossless comparisons and identify the finite source-layer/correction queue. [Startup receipt](checkpoints/0001-intake.json) distinguishes source accounting from source reading.
+The sources, frozen comparison IDs, evidence locations, decisions and checkpoint receipts remain in this directory. Record a visible status report after every verified commit. Chapter1's tagged release is unchanged. Chapter3 has not been started.

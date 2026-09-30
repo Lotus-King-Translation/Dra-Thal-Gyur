@@ -1,6 +1,6 @@
 # Chapter 2 - comparative apparatus
 
-**Release candidate - final gate pending**
+**Released bounded v1**
 
 A, B, S identify supplied Adzom, Tharpaling and Sichuan transcripts. Exact differences do not automatically establish printed-witness variants. [Reading](reading.md) - [Coverage](COVERAGE.md)
 

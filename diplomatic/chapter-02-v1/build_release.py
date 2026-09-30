@@ -53,6 +53,7 @@ def assemble(root):
         assert sig['decision_payload_sha256']==digest(payload)
         assert sig['interventions_sha256']==sha(c/'INTERVENTIONS.json')
         assert sig['review_sha256']==sha(c/'FINAL-REVIEW.md')
+        for path,h in sig['source_input_hashes'].items(): assert sha(root/path)==h, 'Signoff input changed: '+path
     def link(p,title=None):
         return '['+(title or Path(p).name)+']('+os.path.relpath(root/p,out).replace(os.sep,'/')+')'
     def ev(paths): return ', '.join(link(p) for p in paths)

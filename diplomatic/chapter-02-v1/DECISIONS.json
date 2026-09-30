@@ -2963,5 +2963,31 @@
       "remaining_uncertainty": "The compact transition graphic between colophon and following incipit is not decoded. The B/S extra shads do not themselves establish a change to Adzom punctuation."
     }
   },
-  "final_signoff": null
+  "final_signoff": {
+    "scope": "bounded_chapter_2_v1",
+    "reviewer": "ChatGPT editorial coordinator under user-approved bounded process",
+    "accepted_at": "2026-09-30T18:09:42.878212+00:00",
+    "reviewed_candidate_commit": "f6e6582130f54b78194712b0cbb60c796b363fae",
+    "decision_payload_sha256": "e9688682491165e4fe722e640f6113b45f97777c07509c98b9a3734155f722e0",
+    "interventions_sha256": "47cf8e3cdb60695f28195a7ba7d89cf8cc875d5c05494e53049af50a8c6a9ee5",
+    "review_sha256": "d2379e6aaeab1f72a1f12651c0101a2879dbac34a40256408ce2a600762d494b",
+    "source_input_hashes": {
+      "diplomatic/chapter-02-v1/source-units.json": "0727208c4c433cf5e750cc6f9e3d85bfd7c420f1b9f48a0feeeebfe5f594f070",
+      "diplomatic/chapter-02-v1/collation.json": "7482051b758932ecd852937c295ae03866cddc16d2fb7bab2891088c264ca652",
+      "diplomatic/chapter-02-v1/wikisource.json": "7e295a7f144459ab1afc115040a84d639d537bec10d96c6f820c724803ac72dc",
+      "diplomatic/chapter-02-v1/INTERVENTIONS.json": "47cf8e3cdb60695f28195a7ba7d89cf8cc875d5c05494e53049af50a8c6a9ee5",
+      "diplomatic/chapter-02-v1/SOURCE-REVIEW.json": "5584798b19e296da71bbe0a544e391a1ddf3e931cd884e7040c0dbfc1b4fa1a1",
+      "diplomatic/chapter-02-v1/validate_release.py": "3c0280917f162f570f4294b8ff1bba6bd093b3d765072723ae730fb34b439222",
+      "diplomatic/chapter-02-v1/test_release.py": "02fe06dd227772e961bb92a3ed084c65b2bb8444f45168696c2bc1fef2c3fd97",
+      "editions/adzom-2000/W1KG11703_7.txt": "18bd9ce65311e2d6d7c703f053a5c0aac347e899a75f8749a8f9afd891452edc",
+      "editions/tharpaling-1983/W27491_7.txt": "df05454b1ca21d893188b30e00b7b463abe369afc6ec26d917354a7d6de464c3",
+      "editions/sichuan-2016/W3CN7084_7.txt": "2cf6b52889211579dff68f2e064032f40926de266242f111b3c94bb4efa47c57",
+      "editions/adzom-wikisource/source.wikitext": "d2a6e95e8c65d28d7812efa79d65bd397a0796a9e00621430a86b5713b70ede8"
+    },
+    "acceptance": "Publish the selected Adzom-based reading, exact electronic apparatus, nine annotation components and all explicit uncertainties. Untargeted print remains unverified supplied scaffold.",
+    "proofread_all_source_glyphs": false,
+    "exhaustive_witness_collation": false,
+    "chapter3_started": false,
+    "validation_receipt": "diplomatic/chapter-02-v1/checkpoints/0008-final-review-checks.json"
+  }
 }

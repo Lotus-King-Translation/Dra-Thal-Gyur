@@ -1,6 +1,6 @@
 # Chapter 2 - coverage and retained uncertainty
 
-**Release candidate - final gate pending**
+**Released bounded v1**
 
 **Complete for the bounded release scope is not complete manuscript proofreading.** The chapter has 987 original anchors, 56 A/B/S locus decisions covering 116 exact differences, 105 W reference decisions, and ten fixed source-check dispositions.
 

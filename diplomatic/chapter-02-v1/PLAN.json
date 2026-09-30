@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "chapter": 2,
-  "status": "approved_in_progress",
+  "status": "released_bounded_v1",
   "baseline_commit": "fe5eccbeef01b2000c7383d120af472400f2c7cf",
   "approval": "User requested the next chapter under the approved bounded process, with status report after every verified commit.",
   "title": "Chapter 2 v1 — corrected Adzom-based reading with scoped comparative apparatus",
@@ -63,28 +63,28 @@
     },
     "electronic_loci": {
       "total": 56,
-      "complete": 0
+      "complete": 56
     },
     "W_comparison": {
       "total": 105,
-      "complete": 0
+      "complete": 105
     },
     "targeted_source_checks": {
       "total": 10,
-      "complete": 0
+      "complete": 10
     },
     "deliverables": {
       "total": 5,
-      "complete": 0
+      "complete": 5
     },
     "final_gate": {
       "total": 1,
-      "complete": 0
+      "complete": 1
     }
   },
   "prior_scan_consultation": "Translations scan-review.json is consultation only, not inherited Chapter2 diplomatic proofreading. Its notes identify candidates to examine; they do not authorize automatic correction.",
   "chapter1_tag_unchanged": true,
-  "next_step": "Review the 56 A/B/S loci and 105 W blocks; inspect the ten specified source questions, reusing original images. Record decisions immediately and publish each bounded batch.",
+  "next_step": "No remaining work in the approved Chapter2 v1 gate after final checks and verified publication. Chapter3 has not started; exhaustive proofreading is outside this bounded release.",
   "no_general_comparison_witness_reading": true,
   "exhaustive_witness_collation": false,
   "frozen_locus_ids": [
@@ -363,5 +363,6 @@
   "collation_hashes": {
     "collation.json": "7482051b758932ecd852937c295ae03866cddc16d2fb7bab2891088c264ca652",
     "wikisource.json": "7e295a7f144459ab1afc115040a84d639d537bec10d96c6f820c724803ac72dc"
-  }
+  },
+  "release_id": "chapter-02-v1.0.0"
 }
