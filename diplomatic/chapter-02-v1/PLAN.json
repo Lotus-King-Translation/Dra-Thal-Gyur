@@ -62,18 +62,16 @@
       "complete": 4
     },
     "electronic_loci": {
-      "total": null,
-      "complete": 0,
-      "note": "Denominator set once from exact collation before editorial acceptance."
+      "total": 56,
+      "complete": 0
     },
     "W_comparison": {
-      "total": null,
+      "total": 105,
       "complete": 0
     },
     "targeted_source_checks": {
-      "total": null,
-      "complete": 0,
-      "note": "Freeze exact loci from existing source-layer notes and structural comparison findings; no speculative all-witness expansion."
+      "total": 10,
+      "complete": 0
     },
     "deliverables": {
       "total": 5,
@@ -86,7 +84,284 @@
   },
   "prior_scan_consultation": "Translations scan-review.json is consultation only, not inherited Chapter2 diplomatic proofreading. Its notes identify candidates to examine; they do not authorize automatic correction.",
   "chapter1_tag_unchanged": true,
-  "next_step": "Generate lossless A/B/S and exact-source W comparison; freeze candidate and decision denominators.",
+  "next_step": "Review the 56 A/B/S loci and 105 W blocks; inspect the ten specified source questions, reusing original images. Record decisions immediately and publish each bounded batch.",
   "no_general_comparison_witness_reading": true,
-  "exhaustive_witness_collation": false
+  "exhaustive_witness_collation": false,
+  "frozen_locus_ids": [
+    "L2-0001",
+    "L2-0002",
+    "L2-0003",
+    "L2-0004",
+    "L2-0005",
+    "L2-0006",
+    "L2-0007",
+    "L2-0008",
+    "L2-0009",
+    "L2-0010",
+    "L2-0011",
+    "L2-0012",
+    "L2-0013",
+    "L2-0014",
+    "L2-0015",
+    "L2-0016",
+    "L2-0017",
+    "L2-0018",
+    "L2-0019",
+    "L2-0020",
+    "L2-0021",
+    "L2-0022",
+    "L2-0023",
+    "L2-0024",
+    "L2-0025",
+    "L2-0026",
+    "L2-0027",
+    "L2-0028",
+    "L2-0029",
+    "L2-0030",
+    "L2-0031",
+    "L2-0032",
+    "L2-0033",
+    "L2-0034",
+    "L2-0035",
+    "L2-0036",
+    "L2-0037",
+    "L2-0038",
+    "L2-0039",
+    "L2-0040",
+    "L2-0041",
+    "L2-0042",
+    "L2-0043",
+    "L2-0044",
+    "L2-0045",
+    "L2-0046",
+    "L2-0047",
+    "L2-0048",
+    "L2-0049",
+    "L2-0050",
+    "L2-0051",
+    "L2-0052",
+    "L2-0053",
+    "L2-0054",
+    "L2-0055",
+    "L2-0056"
+  ],
+  "frozen_W_ids": [
+    "W-C02-001",
+    "W-C02-002",
+    "W-C02-003",
+    "W-C02-004",
+    "W-C02-005",
+    "W-C02-006",
+    "W-C02-007",
+    "W-C02-008",
+    "W-C02-009",
+    "W-C02-010",
+    "W-C02-011",
+    "W-C02-012",
+    "W-C02-013",
+    "W-C02-014",
+    "W-C02-015",
+    "W-C02-016",
+    "W-C02-017",
+    "W-C02-018",
+    "W-C02-019",
+    "W-C02-020",
+    "W-C02-021",
+    "W-C02-022",
+    "W-C02-023",
+    "W-C02-024",
+    "W-C02-025",
+    "W-C02-026",
+    "W-C02-027",
+    "W-C02-028",
+    "W-C02-029",
+    "W-C02-030",
+    "W-C02-031",
+    "W-C02-032",
+    "W-C02-033",
+    "W-C02-034",
+    "W-C02-035",
+    "W-C02-036",
+    "W-C02-037",
+    "W-C02-038",
+    "W-C02-039",
+    "W-C02-040",
+    "W-C02-041",
+    "W-C02-042",
+    "W-C02-043",
+    "W-C02-044",
+    "W-C02-045",
+    "W-C02-046",
+    "W-C02-047",
+    "W-C02-048",
+    "W-C02-049",
+    "W-C02-050",
+    "W-C02-051",
+    "W-C02-052",
+    "W-C02-053",
+    "W-C02-054",
+    "W-C02-055",
+    "W-C02-056",
+    "W-C02-057",
+    "W-C02-058",
+    "W-C02-059",
+    "W-C02-060",
+    "W-C02-061",
+    "W-C02-062",
+    "W-C02-063",
+    "W-C02-064",
+    "W-C02-065",
+    "W-C02-066",
+    "W-C02-067",
+    "W-C02-068",
+    "W-C02-069",
+    "W-C02-070",
+    "W-C02-071",
+    "W-C02-072",
+    "W-C02-073",
+    "W-C02-074",
+    "W-C02-075",
+    "W-C02-076",
+    "W-C02-077",
+    "W-C02-078",
+    "W-C02-079",
+    "W-C02-080",
+    "W-C02-081",
+    "W-C02-082",
+    "W-C02-083",
+    "W-C02-084",
+    "W-C02-085",
+    "W-C02-086",
+    "W-C02-087",
+    "W-C02-088",
+    "W-C02-089",
+    "W-C02-090",
+    "W-C02-091",
+    "W-C02-092",
+    "W-C02-093",
+    "W-C02-094",
+    "W-C02-095",
+    "W-C02-096",
+    "W-C02-097",
+    "W-C02-098",
+    "W-C02-099",
+    "W-C02-100",
+    "W-C02-101",
+    "W-C02-102",
+    "W-C02-103",
+    "W-C02-104",
+    "W-C02-105"
+  ],
+  "source_check_targets": [
+    {
+      "id": "C2-START",
+      "units": [
+        "U02636"
+      ],
+      "pages": [
+        102
+      ],
+      "question": "Establish actual Chapter2 opening after the separately preserved Chapter1 boundary inscription."
+    },
+    {
+      "id": "C2-END",
+      "units": [
+        "U03621",
+        "U03622"
+      ],
+      "pages": [
+        138
+      ],
+      "question": "Establish Chapter2 colophon and next chapter boundary."
+    },
+    {
+      "id": "C2-LAYER-02680",
+      "units": [
+        "U02680"
+      ],
+      "pages": [
+        103,
+        104
+      ],
+      "question": "Seventeen-subdivision heading/note status; do not turn its enumeration into a root verse."
+    },
+    {
+      "id": "C2-LAYER-02714",
+      "units": [
+        "U02714"
+      ],
+      "pages": [
+        105
+      ],
+      "question": "Separate small brgyad kyang from the main verse if the scan supports it."
+    },
+    {
+      "id": "C2-LAYER-02740",
+      "units": [
+        "U02740"
+      ],
+      "pages": [
+        106
+      ],
+      "question": "Separate small tshogs kyang from byas tshe if the scan supports it."
+    },
+    {
+      "id": "C2-LAYER-02885",
+      "units": [
+        "U02885"
+      ],
+      "pages": [
+        111
+      ],
+      "question": "Long smaller explanatory gloss versus main verse."
+    },
+    {
+      "id": "C2-LAYER-02887",
+      "units": [
+        "U02887",
+        "U02888",
+        "U02889"
+      ],
+      "pages": [
+        111
+      ],
+      "question": "Recover continuous main verse and separate interleaved wind-related source note without adding interpretation."
+    },
+    {
+      "id": "C2-LAYER-03147",
+      "units": [
+        "U03147"
+      ],
+      "pages": [
+        120,
+        121
+      ],
+      "question": "Source remark about repeated water-wind phrase; keep both main occurrences and separate the remark."
+    },
+    {
+      "id": "C2-READING-03240",
+      "units": [
+        "U03240"
+      ],
+      "pages": [
+        124
+      ],
+      "question": "Retain exact uncertainty in dkar gleg unless visible lettering supports a correction."
+    },
+    {
+      "id": "C2-LAYER-03494",
+      "units": [
+        "U03494"
+      ],
+      "pages": [
+        133,
+        134
+      ],
+      "question": "Separate bzhi yang byung from main gzhi yis if source supports it."
+    }
+  ],
+  "collation_hashes": {
+    "collation.json": "7482051b758932ecd852937c295ae03866cddc16d2fb7bab2891088c264ca652",
+    "wikisource.json": "7e295a7f144459ab1afc115040a84d639d537bec10d96c6f820c724803ac72dc"
+  }
 }
