@@ -1,0 +1,140 @@
+{
+  "parent_commit": "7d9164d989ea6d721e51a19b86ae478a1c7deefb",
+  "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+  "choices": {
+    "L1-0001": {
+      "status": "retain_with_explicit_uncertainty",
+      "rationale": "Retain the source-specific Adzom opening, title and invocation scaffold, including the title material not present in the shorter B/S transcript openings. The divergent foreign-script stacks and the invocation are not regularized to either comparison transcript or to reconstructed Sanskrit. Existing title uncertainties remain visible; v1 does not certify those letters.",
+      "evidence": [
+        "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES.json"
+      ]
+    },
+    "L1-0002": {
+      "status": "retain_base",
+      "rationale": "Retain Adzom thos in U00012 rather than substituting the B/S bstan reading. Keep U00011 as a structural heading, not a newly added verse. The B transcript lacks that heading and S changes its boundary presentation; those facts do not authorize deleting the source heading or merging it into the root. Caption S08 remains separate and provisional.",
+      "evidence": [
+        "diplomatic/collation/chapter-01/opening-boundary-review.json"
+      ]
+    },
+    "L1-0031": {
+      "status": "retain_base",
+      "rationale": "At U00518 the recorded difference is a B-only tsheg. Retain the current Adzom terminal representation; the lexical phrase is not changed. The extra dot is quoted as transcript punctuation, not evidence of a missing Adzom syllable."
+    },
+    "L1-0032": {
+      "status": "retain_base",
+      "rationale": "Retain U00520 with dul bai zhing. B inserts mdo before zhing, whereas A/S do not. No adopted Adzom scan correction supplies that extra syllable, so it stays a B transcript addition in the apparatus rather than entering the root."
+    },
+    "L1-0033": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept the already recorded U00534 source-layer separation: main ljongs rab tu rdzogs te nyams dga bar remains, and bde yang byung is preserved as a smaller linked annotation. S braces do not change that physical disposition. The later Dzongsar role question is witness-specific and does not replace the Adzom decision."
+    },
+    "L1-0034": {
+      "status": "retain_base",
+      "rationale": "At U00538 retain the Adzom written pa o division. S omits the recorded intervening tsheg; this is not a reason to conflate the source spelling in the diplomatic reading. No lexical emendation is accepted."
+    },
+    "L1-0035": {
+      "status": "retain_base",
+      "rationale": "At U00579 retain the current reading and distinguish its initial spacing from the B/S shad in the exact difference layer. Do not add a detached mark by counting transcript votes; unverified physical punctuation stays qualified."
+    },
+    "L1-0036": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept the existing U00594 two-shad boundary correction supported by its independent native-context review. The S transcript also supplies a shad, but the adoption rests on the scan record, not S agreement. The root wording is unchanged."
+    },
+    "L1-0037": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "At U00596 retain main klu yi gdong and preserve glu yang gdung yang byung separately under the accepted smaller-note record. S braces identify a transcript presentation difference; neither alternate word is silently substituted into the main verse."
+    },
+    "L1-0038": {
+      "status": "retain_base",
+      "rationale": "Keep U00598 as the sixth reply heading, followed by U00599. The S-only braces are not root characters and do not justify deleting the heading or joining its wording to the following verse; current boundary transcription remains qualified."
+    },
+    "L1-0039": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Retain the seventh reply heading U00624 and the accepted U00626 main gzhon pa dang. Keep gzhog kyang in the separate annotation, not in the verse. B lacks that note and S brackets it; these witness presentations do not erase the Adzom source-layer evidence."
+    },
+    "L1-0040": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept separation of ni yang from U00632 while retaining the main negative ma dag pa yis ye shes so. Do not import B-only gnod kyang into U00633. The two comparison phenomena are distinct: an accepted Adzom note separation and an unadopted B transcript addition."
+    },
+    "L1-0041": {
+      "status": "retain_base",
+      "rationale": "The U00635 difference is an internal space retained in A but absent from B/S. Preserve the exact ledger space and the current single-shad boundary after gcig; do not change letters or infer a new sign from the gap."
+    },
+    "L1-0042": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept the U00651 main gnas dang byung dang byed pa dang and retain byas kyang dug as the displaced small annotation. B omits that annotation and S brackets it. The alternative byas does not replace gnas in the Adzom main text."
+    },
+    "L1-0043": {
+      "status": "retain_base",
+      "rationale": "Keep U00655 as the eighth reply heading preceding U00656. The recorded S braces are presentation evidence only; the heading remains explicitly distinguished from root verse."
+    },
+    "L1-0044": {
+      "status": "retain_base",
+      "rationale": "At U00658 do not import B-only skyan kyang dug ahead of the nam zla clause. Preserve that addition exactly in B, with no claim that its exemplar has a new main verse. Current Adzom wording remains the v1 reading."
+    },
+    "L1-0045": {
+      "status": "retain_base",
+      "rationale": "Keep the ninth reply label U00676 separate from the leu clause U00677. S braces are not transcribed as Adzom text; no new punctuation or lexical correction follows from them."
+    },
+    "L1-0046": {
+      "status": "retain_base",
+      "rationale": "At U00694 retain the current Adzom terminal shads. B lacks the recorded shad present in A/S; this is preserved as a transcript-level difference and does not establish that the printed B witness has the same omission."
+    },
+    "L1-0047": {
+      "status": "retain_base",
+      "rationale": "Keep U00701 as the tenth reply heading, followed by U00702. The S-only bracketing changes presentation, not the adopted words or their heading role."
+    },
+    "L1-0048": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept the recorded U00710 main nus pas bsgyur ba gang and the separate bus pa sbyar yang byung annotation. B leaves byung before bsgyur, but that residual interleaving is not adopted. Retain the independently supported tsheg after gang and its two shads; later Dzongsar note-letter uncertainty does not negate the Adzom layer decision."
+    },
+    "L1-0049": {
+      "status": "retain_base",
+      "rationale": "Keep U00721 as the eleventh reply heading preceding U00722. Record S braces without introducing them into the selected Adzom text or treating the heading as a newly restored main verse."
+    },
+    "L1-0050": {
+      "status": "retain_base",
+      "rationale": "At U00742 retain sde with its single e-vowel mark. B has a duplicated combining e in the exact supplied string. The duplicate is preserved in the apparatus, not copied into the release reading or claimed to be a printed-witness error."
+    },
+    "L1-0051": {
+      "status": "retain_base",
+      "rationale": "Retain the U00754–U00757 sequence and distinguish the twelfth reply label U00756 as a heading. The differing spaces and S braces are recorded exactly; they do not justify changing the surrounding main wording or normalizing all shad spacing."
+    },
+    "L1-0052": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "At U00800 accept the existing main bha ra bha ti sa li sequence and separate sa yi yang byung as the linked smaller annotation. B/S add an i-vowel to ra; do not regularize this Sanskrit-like source spelling to ri merely because two transcripts agree."
+    },
+    "L1-0053": {
+      "status": "retain_base",
+      "rationale": "At U00806 retain lo stong bar. B additionally writes stong lo before lo stong and changes bar to par. Preserve both B differences in full; do not expand Adzom or explain the repetition as a historical copying error without evidence."
+    },
+    "L1-0054": {
+      "status": "retain_base",
+      "rationale": "Keep U00822 as the thirteenth reply heading followed by the main U00823 clause. The S-only braces are a transcript editorial convention and do not alter the v1 reading."
+    },
+    "L1-0055": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept the verified two detached shads at the U00910 heading/main boundary, excluding the pa limb. Preserve the fourteenth reply heading and record S bracketing separately; no generic double-shad normalization is performed."
+    },
+    "L1-0056": {
+      "status": "retain_base",
+      "rationale": "At U00940 retain Adzom sku r thim nas rather than B kun du gnas. This is a genuine wording divergence in the transcripts, not just spacing. The diplomatic base policy retains the recorded Adzom wording without declaring it the reconstructed original or rewriting it from doctrinal expectations."
+    },
+    "L1-0057": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept the existing two-mark U00948 boundary correction, retaining the fifteenth reply heading. S braces remain apparatus presentation; the final letter limb is not counted as a third sign."
+    },
+    "L1-0058": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept the U00995 two-shad correction after the earlier three-mark overcount was rejected. Retain so at the opening of U00996: B lacks that syllable but no Adzom correction removes it. Boundary-sign adoption and the following lexical difference are not conflated."
+    },
+    "L1-0059": {
+      "status": "retain_base",
+      "rationale": "At U01001 retain khyim bdag rigs with its current closing marks. B lacks rigs and differs in terminal spacing/punctuation. Preserve the shorter B transcript but do not remove the Adzom word or infer manuscript omission from that transcript alone."
+    },
+    "L1-0060": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept the verified U01023 two-shad boundary and keep the sixteenth reply heading before U01024. Retain S braces and spacing as apparatus differences, without replacing the existing U01024 punctuation by a normalized style."
+    }
+  }
+}

@@ -2,7 +2,996 @@
   "schema_version": 1,
   "notice": "New proposed v1 acceptance checklist; empty entries do not erase or invalidate existing scholarly work.",
   "scope_approved": true,
-  "loci": {},
+  "loci": {
+    "L1-0001": {
+      "status": "retain_with_explicit_uncertainty",
+      "rationale": "Retain the source-specific Adzom opening, title and invocation scaffold, including the title material not present in the shorter B/S transcript openings. The divergent foreign-script stacks and the invocation are not regularized to either comparison transcript or to reconstructed Sanskrit. Existing title uncertainties remain visible; v1 does not certify those letters.",
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0001",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/evidence/chapter-01/opening-review/p001-full.png",
+        "diplomatic/evidence/chapter-01/opening-review/p002-full.png",
+        "diplomatic/evidence/chapter-01/opening-review/title-left-detail.png",
+        "diplomatic/evidence/chapter-01/opening-review/title-right-detail.png"
+      ],
+      "source_units": [
+        "U00001",
+        "U00002",
+        "U00003",
+        "U00004",
+        "U00005",
+        "U00006"
+      ],
+      "exact_conflicts": [
+        "C1-0001",
+        "C1-0002",
+        "C1-0003",
+        "C1-0004",
+        "C1-0005",
+        "C1-0006"
+      ],
+      "release_reading": {
+        "U00001": "༅།",
+        "U00002": "རཏྞཱཀཱརཤབྡམཧཱཔྲསཾགཏནྟྲནཱམབིཧརཏིསྨ།།",
+        "U00003": "༄༅།",
+        "U00004": " རིན་པོ་ཆེ་འབྱུང་བར་བྱེད་པ་སྒྲ་ཐལ་འགྱུར་ཆེན་པོའི་རྒྱུད་ཅེས་བྱ་བ་བཞུགས།",
+        "U00005": "གཾགརྦམཏགཱ རྒྱ་གར་སྐད་དུ།",
+        "U00006": " རཏྣ་ཀ་ར་ཤབྡ་མ་ཧཱ་པྲ་སཾ་ག་ཏནྟྲ་ནཱ་མ།"
+      },
+      "unit_reading_statuses": {
+        "U00001": "unverified_transcription_scaffold",
+        "U00002": "uncertain_print_reading_or_annotation",
+        "U00003": "unverified_transcription_scaffold",
+        "U00004": "uncertain_print_reading_or_annotation",
+        "U00005": "uncertain_print_reading_or_annotation",
+        "U00006": "uncertain_print_reading_or_annotation"
+      },
+      "retained_intervention_ids": [
+        "SCAN-CH1-TITLE-UNCERTAINTY"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0002": {
+      "status": "retain_base",
+      "rationale": "Retain Adzom thos in U00012 rather than substituting the B/S bstan reading. Keep U00011 as a structural heading, not a newly added verse. The B transcript lacks that heading and S changes its boundary presentation; those facts do not authorize deleting the source heading or merging it into the root. Caption S08 remains separate and provisional.",
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0002",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/opening-boundary-review.json"
+      ],
+      "source_units": [
+        "U00010",
+        "U00011",
+        "U00012"
+      ],
+      "exact_conflicts": [
+        "C1-0007",
+        "C1-0008",
+        "C1-0009",
+        "C1-0010"
+      ],
+      "release_reading": {
+        "U00010": " དཔལ་ཀུན་ཏུ་བཟང་པོ་ལ་ཕྱག་འཚལ་ལོ། །",
+        "U00011": "ཐུན་མོང་མ་ཡིན་པའི་གླེང་གཞི་བཀོད་པ།",
+        "U00012": "འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན། །"
+      },
+      "unit_reading_statuses": {
+        "U00010": "lexically_compared_punctuation_not_certified",
+        "U00011": "lexically_compared_punctuation_not_certified",
+        "U00012": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0031": {
+      "status": "retain_base",
+      "rationale": "At U00518 the recorded difference is a B-only tsheg. Retain the current Adzom terminal representation; the lexical phrase is not changed. The extra dot is quoted as transcript punctuation, not evidence of a missing Adzom syllable.",
+      "source_units": [
+        "U00518"
+      ],
+      "exact_conflicts": [
+        "C1-0058"
+      ],
+      "release_reading": {
+        "U00518": "མརྒད་དག་གིས་ཡོངས་སྤྲས་པ། །"
+      },
+      "unit_reading_statuses": {
+        "U00518": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0031",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0032": {
+      "status": "retain_base",
+      "rationale": "Retain U00520 with dul bai zhing. B inserts mdo before zhing, whereas A/S do not. No adopted Adzom scan correction supplies that extra syllable, so it stays a B transcript addition in the apparatus rather than entering the root.",
+      "source_units": [
+        "U00520"
+      ],
+      "exact_conflicts": [
+        "C1-0059"
+      ],
+      "release_reading": {
+        "U00520": "སྟོན་པའི་བསྟན་པ་འདུལ་བའི་ཞིང་། །"
+      },
+      "unit_reading_statuses": {
+        "U00520": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0032",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0033": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept the already recorded U00534 source-layer separation: main ljongs rab tu rdzogs te nyams dga bar remains, and bde yang byung is preserved as a smaller linked annotation. S braces do not change that physical disposition. The later Dzongsar role question is witness-specific and does not replace the Adzom decision.",
+      "source_units": [
+        "U00534"
+      ],
+      "exact_conflicts": [
+        "C1-0060",
+        "C1-0061"
+      ],
+      "release_reading": {
+        "U00534": "ལྗོངས་རབ་ཏུ་རྫོགས་ཏེ་ཉམས་དགའ་བར། །"
+      },
+      "unit_reading_statuses": {
+        "U00534": "scan_intervention"
+      },
+      "retained_intervention_ids": [
+        "SCAN-CH1-LAYER-00534"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0033",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/evidence/chapter-01/annotation-audit/p023-left.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/p023-right.png"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0034": {
+      "status": "retain_base",
+      "rationale": "At U00538 retain the Adzom written pa o division. S omits the recorded intervening tsheg; this is not a reason to conflate the source spelling in the diplomatic reading. No lexical emendation is accepted.",
+      "source_units": [
+        "U00538"
+      ],
+      "exact_conflicts": [
+        "C1-0062"
+      ],
+      "release_reading": {
+        "U00538": "ཐོད་པའི་ཕྲེང་བ་བཀོད་པ་འོ། །"
+      },
+      "unit_reading_statuses": {
+        "U00538": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0034",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0035": {
+      "status": "retain_base",
+      "rationale": "At U00579 retain the current reading and distinguish its initial spacing from the B/S shad in the exact difference layer. Do not add a detached mark by counting transcript votes; unverified physical punctuation stays qualified.",
+      "source_units": [
+        "U00579"
+      ],
+      "exact_conflicts": [
+        "C1-0063"
+      ],
+      "release_reading": {
+        "U00579": " སྟོན་པའི་བསྟན་པ་ཆ་མཉམ་པ། །"
+      },
+      "unit_reading_statuses": {
+        "U00579": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0035",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0036": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept the existing U00594 two-shad boundary correction supported by its independent native-context review. The S transcript also supplies a shad, but the adoption rests on the scan record, not S agreement. The root wording is unchanged.",
+      "source_units": [
+        "U00594"
+      ],
+      "exact_conflicts": [
+        "C1-0064"
+      ],
+      "release_reading": {
+        "U00594": "འབྲུག་སྒྲོགས་གློག་དམར་ལྕེ་རྣམས་འབྱིན། །"
+      },
+      "unit_reading_statuses": {
+        "U00594": "scan_intervention"
+      },
+      "retained_intervention_ids": [
+        "SIGNS-VERIFIED-20260927-U00594"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0036",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/evidence/chapter-01/independent-signs-late-20260927/p025.png",
+        "diplomatic/evidence/chapter-01/independent-signs-late-20260927/p025-opening-sequence.png",
+        "diplomatic/evidence/chapter-01/independent-signs-late-20260927/p025-targetrow-0.png",
+        "diplomatic/evidence/chapter-01/independent-signs-late-20260927/p025-targetrow-1.png",
+        "diplomatic/evidence/chapter-01/independent-signs-late-20260927/p025-targetrow-2.png",
+        "diplomatic/evidence/chapter-01/signs-recovery-review-20260927/U00594.png"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0037": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "At U00596 retain main klu yi gdong and preserve glu yang gdung yang byung separately under the accepted smaller-note record. S braces identify a transcript presentation difference; neither alternate word is silently substituted into the main verse.",
+      "source_units": [
+        "U00596"
+      ],
+      "exact_conflicts": [
+        "C1-0065",
+        "C1-0066"
+      ],
+      "release_reading": {
+        "U00596": "འོད་འབྱུང་ཕྲེང་བ་ཀླུ་ཡི་གདོང། །"
+      },
+      "unit_reading_statuses": {
+        "U00596": "scan_intervention"
+      },
+      "retained_intervention_ids": [
+        "SCAN-CH1-LAYER-00596"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0037",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/evidence/chapter-01/annotation-audit/p026-left.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/p026-right.png"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0038": {
+      "status": "retain_base",
+      "rationale": "Keep U00598 as the sixth reply heading, followed by U00599. The S-only braces are not root characters and do not justify deleting the heading or joining its wording to the following verse; current boundary transcription remains qualified.",
+      "source_units": [
+        "U00598",
+        "U00599"
+      ],
+      "exact_conflicts": [
+        "C1-0067",
+        "C1-0068"
+      ],
+      "release_reading": {
+        "U00598": "དྲིས་ལན་དྲུག་པ།",
+        "U00599": "རང་དང་གཞན་གྱི་དམ་བཅའི་ཚིག །"
+      },
+      "unit_reading_statuses": {
+        "U00598": "lexically_compared_punctuation_not_certified",
+        "U00599": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0038",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0039": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Retain the seventh reply heading U00624 and the accepted U00626 main gzhon pa dang. Keep gzhog kyang in the separate annotation, not in the verse. B lacks that note and S brackets it; these witness presentations do not erase the Adzom source-layer evidence.",
+      "source_units": [
+        "U00624",
+        "U00625",
+        "U00626"
+      ],
+      "exact_conflicts": [
+        "C1-0069",
+        "C1-0070",
+        "C1-0071"
+      ],
+      "release_reading": {
+        "U00624": "དྲིས་ལན་བདུན་པ།",
+        "U00625": "འཕེན་ལ་རླུང་སྟེ་འཕོ་བའི་ལས། །",
+        "U00626": "ཚིག་དང་ཟུར་ལ་གཞོན་པ་དང། །"
+      },
+      "unit_reading_statuses": {
+        "U00624": "lexically_compared_punctuation_not_certified",
+        "U00625": "lexically_compared_punctuation_not_certified",
+        "U00626": "scan_intervention"
+      },
+      "retained_intervention_ids": [
+        "SCAN-CH1-LAYER-00626"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0039",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/evidence/chapter-01/annotation-audit/p027-left.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/p027-right.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/U626-detail.png"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0040": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept separation of ni yang from U00632 while retaining the main negative ma dag pa yis ye shes so. Do not import B-only gnod kyang into U00633. The two comparison phenomena are distinct: an accepted Adzom note separation and an unadopted B transcript addition.",
+      "source_units": [
+        "U00632",
+        "U00633"
+      ],
+      "exact_conflicts": [
+        "C1-0072",
+        "C1-0073",
+        "C1-0074"
+      ],
+      "release_reading": {
+        "U00632": "མ་དག་པ་ཡིས་ཡེ་ཤེས་སོ། །",
+        "U00633": "སྦྱོར་བའི་དམིགས་ཀྱིས་རང་འདོད་བསྐྱང༌། །"
+      },
+      "unit_reading_statuses": {
+        "U00632": "scan_intervention",
+        "U00633": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [
+        "SCAN-CH1-LAYER-00632"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0040",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/evidence/chapter-01/annotation-audit/p027-left.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/p027-right.png"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0041": {
+      "status": "retain_base",
+      "rationale": "The U00635 difference is an internal space retained in A but absent from B/S. Preserve the exact ledger space and the current single-shad boundary after gcig; do not change letters or infer a new sign from the gap.",
+      "source_units": [
+        "U00635"
+      ],
+      "exact_conflicts": [
+        "C1-0075"
+      ],
+      "release_reading": {
+        "U00635": "དཔེ་ཡིས་ མཚོན་ཏེ་སྦྱོར་བ་གཅིག །"
+      },
+      "unit_reading_statuses": {
+        "U00635": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0041",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0042": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept the U00651 main gnas dang byung dang byed pa dang and retain byas kyang dug as the displaced small annotation. B omits that annotation and S brackets it. The alternative byas does not replace gnas in the Adzom main text.",
+      "source_units": [
+        "U00651"
+      ],
+      "exact_conflicts": [
+        "C1-0076"
+      ],
+      "release_reading": {
+        "U00651": "གནས་དང་བྱུང་དང་བྱེད་པ་དང། །"
+      },
+      "unit_reading_statuses": {
+        "U00651": "scan_intervention"
+      },
+      "retained_intervention_ids": [
+        "SCAN-CH1-LAYER-00651"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0042",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/evidence/chapter-01/annotation-audit/p028-left.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/p028-right.png"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0043": {
+      "status": "retain_base",
+      "rationale": "Keep U00655 as the eighth reply heading preceding U00656. The recorded S braces are presentation evidence only; the heading remains explicitly distinguished from root verse.",
+      "source_units": [
+        "U00655",
+        "U00656"
+      ],
+      "exact_conflicts": [
+        "C1-0077",
+        "C1-0078"
+      ],
+      "release_reading": {
+        "U00655": "དྲིས་ལན་བརྒྱད་པ།",
+        "U00656": "རྒྱུ་མཚན་ངེས་པའི་མཐར་སྡུད་ནི། །"
+      },
+      "unit_reading_statuses": {
+        "U00655": "lexically_compared_punctuation_not_certified",
+        "U00656": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0043",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0044": {
+      "status": "retain_base",
+      "rationale": "At U00658 do not import B-only skyan kyang dug ahead of the nam zla clause. Preserve that addition exactly in B, with no claim that its exemplar has a new main verse. Current Adzom wording remains the v1 reading.",
+      "source_units": [
+        "U00658"
+      ],
+      "exact_conflicts": [
+        "C1-0079"
+      ],
+      "release_reading": {
+        "U00658": "ནམ་ཟླ་དུས་ཀྱིས་འགྱུར་བས་ན། །"
+      },
+      "unit_reading_statuses": {
+        "U00658": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0044",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0045": {
+      "status": "retain_base",
+      "rationale": "Keep the ninth reply label U00676 separate from the leu clause U00677. S braces are not transcribed as Adzom text; no new punctuation or lexical correction follows from them.",
+      "source_units": [
+        "U00676",
+        "U00677"
+      ],
+      "exact_conflicts": [
+        "C1-0080",
+        "C1-0081"
+      ],
+      "release_reading": {
+        "U00676": "དྲིས་ལན་དགུ་པ།",
+        "U00677": "ལེའུ་བརྗོད་གཉིས་ཀྱང་གསལ་ཕྱེ་ན། །"
+      },
+      "unit_reading_statuses": {
+        "U00676": "lexically_compared_punctuation_not_certified",
+        "U00677": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0045",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0046": {
+      "status": "retain_base",
+      "rationale": "At U00694 retain the current Adzom terminal shads. B lacks the recorded shad present in A/S; this is preserved as a transcript-level difference and does not establish that the printed B witness has the same omission.",
+      "source_units": [
+        "U00694"
+      ],
+      "exact_conflicts": [
+        "C1-0082"
+      ],
+      "release_reading": {
+        "U00694": "འབྲས་བུ་ཐོབ་པ་དེ་དག་གོ། །"
+      },
+      "unit_reading_statuses": {
+        "U00694": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0046",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0047": {
+      "status": "retain_base",
+      "rationale": "Keep U00701 as the tenth reply heading, followed by U00702. The S-only bracketing changes presentation, not the adopted words or their heading role.",
+      "source_units": [
+        "U00701",
+        "U00702"
+      ],
+      "exact_conflicts": [
+        "C1-0083",
+        "C1-0084"
+      ],
+      "release_reading": {
+        "U00701": "དྲིས་ལན་བཅུ་པ།",
+        "U00702": "རྫོགས་པ་ཞེས་ནི་བཤད་པ་ལ། །"
+      },
+      "unit_reading_statuses": {
+        "U00701": "lexically_compared_punctuation_not_certified",
+        "U00702": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0047",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0048": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept the recorded U00710 main nus pas bsgyur ba gang and the separate bus pa sbyar yang byung annotation. B leaves byung before bsgyur, but that residual interleaving is not adopted. Retain the independently supported tsheg after gang and its two shads; later Dzongsar note-letter uncertainty does not negate the Adzom layer decision.",
+      "source_units": [
+        "U00710"
+      ],
+      "exact_conflicts": [
+        "C1-0085",
+        "C1-0086"
+      ],
+      "release_reading": {
+        "U00710": "སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང་། །"
+      },
+      "unit_reading_statuses": {
+        "U00710": "scan_intervention"
+      },
+      "retained_intervention_ids": [
+        "SCAN-CH1-LAYER-00710"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0048",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/evidence/chapter-01/annotation-audit/p030-left.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/p030-right.png",
+        "diplomatic/evidence/chapter-01/independent-signs-late-20260927/p030.png",
+        "diplomatic/evidence/chapter-01/independent-signs-late-20260927/p030-opening-corrected.png",
+        "diplomatic/evidence/chapter-01/independent-signs-late-20260927/p030-targetrow-0.png",
+        "diplomatic/evidence/chapter-01/independent-signs-late-20260927/p030-targetrow-1.png",
+        "diplomatic/evidence/chapter-01/independent-signs-late-20260927/p030-targetrow-2.png",
+        "diplomatic/evidence/chapter-01/signs-recovery-review-20260927/U00710.png",
+        "diplomatic/evidence/chapter-01/independent-signs-late-20260927/p030-gang-terminal.png"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0049": {
+      "status": "retain_base",
+      "rationale": "Keep U00721 as the eleventh reply heading preceding U00722. Record S braces without introducing them into the selected Adzom text or treating the heading as a newly restored main verse.",
+      "source_units": [
+        "U00721",
+        "U00722"
+      ],
+      "exact_conflicts": [
+        "C1-0087",
+        "C1-0088"
+      ],
+      "release_reading": {
+        "U00721": "དྲིས་ལན་བཅུ་གཅིག་པ།",
+        "U00722": "གླེང་གཞི་དག་ལ་ཡང་དག་ཚིག །"
+      },
+      "unit_reading_statuses": {
+        "U00721": "lexically_compared_punctuation_not_certified",
+        "U00722": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0049",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0050": {
+      "status": "retain_base",
+      "rationale": "At U00742 retain sde with its single e-vowel mark. B has a duplicated combining e in the exact supplied string. The duplicate is preserved in the apparatus, not copied into the release reading or claimed to be a printed-witness error.",
+      "source_units": [
+        "U00742"
+      ],
+      "exact_conflicts": [
+        "C1-0089"
+      ],
+      "release_reading": {
+        "U00742": "གསུམ་ནི་སྡེ་སྣོད་རིན་པོ་ཆེ། །"
+      },
+      "unit_reading_statuses": {
+        "U00742": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0050",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0051": {
+      "status": "retain_base",
+      "rationale": "Retain the U00754–U00757 sequence and distinguish the twelfth reply label U00756 as a heading. The differing spaces and S braces are recorded exactly; they do not justify changing the surrounding main wording or normalizing all shad spacing.",
+      "source_units": [
+        "U00754",
+        "U00755",
+        "U00756",
+        "U00757"
+      ],
+      "exact_conflicts": [
+        "C1-0090",
+        "C1-0091",
+        "C1-0092",
+        "C1-0093"
+      ],
+      "release_reading": {
+        "U00754": "གཞན་དང་ ལུང་ཙམ་སྒོ་མཐུན་ཕྱིར། །",
+        "U00755": "ཐུན་མོང་པ་ཞེས་གྲགས་པའོ།།",
+        "U00756": "དྲིས་ལན་བཅུ་གཉིས་པ།",
+        "U00757": "འདི་ལྟར་བསྟན་པ་འདི་ཉིད་ལ། །"
+      },
+      "unit_reading_statuses": {
+        "U00754": "lexically_compared_punctuation_not_certified",
+        "U00755": "lexically_compared_punctuation_not_certified",
+        "U00756": "lexically_compared_punctuation_not_certified",
+        "U00757": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0051",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0052": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "At U00800 accept the existing main bha ra bha ti sa li sequence and separate sa yi yang byung as the linked smaller annotation. B/S add an i-vowel to ra; do not regularize this Sanskrit-like source spelling to ri merely because two transcripts agree.",
+      "source_units": [
+        "U00800"
+      ],
+      "exact_conflicts": [
+        "C1-0094",
+        "C1-0095",
+        "C1-0096"
+      ],
+      "release_reading": {
+        "U00800": "བྷ་ར་བྷ་ཏི་ས་ལི་ཞེས་བྱ་བར། །"
+      },
+      "unit_reading_statuses": {
+        "U00800": "scan_intervention"
+      },
+      "retained_intervention_ids": [
+        "SCAN-CH1-LAYER-00800"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0052",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/evidence/chapter-01/annotation-audit/p033-left.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/p033-right.png"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0053": {
+      "status": "retain_base",
+      "rationale": "At U00806 retain lo stong bar. B additionally writes stong lo before lo stong and changes bar to par. Preserve both B differences in full; do not expand Adzom or explain the repetition as a historical copying error without evidence.",
+      "source_units": [
+        "U00806"
+      ],
+      "exact_conflicts": [
+        "C1-0097",
+        "C1-0098"
+      ],
+      "release_reading": {
+        "U00806": "གདོལ་པའི་རིགས་ཀྱིས་ལོ་སྟོང་བར། །"
+      },
+      "unit_reading_statuses": {
+        "U00806": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0053",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0054": {
+      "status": "retain_base",
+      "rationale": "Keep U00822 as the thirteenth reply heading followed by the main U00823 clause. The S-only braces are a transcript editorial convention and do not alter the v1 reading.",
+      "source_units": [
+        "U00822",
+        "U00823"
+      ],
+      "exact_conflicts": [
+        "C1-0099",
+        "C1-0100"
+      ],
+      "release_reading": {
+        "U00822": "དྲིས་ལན་བཅུ་གསུམ་པ།",
+        "U00823": "བསྟན་པ་འཇིག་པའི་ཉེ་རྒྱུ་ནི། །"
+      },
+      "unit_reading_statuses": {
+        "U00822": "lexically_compared_punctuation_not_certified",
+        "U00823": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0054",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0055": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept the verified two detached shads at the U00910 heading/main boundary, excluding the pa limb. Preserve the fourteenth reply heading and record S bracketing separately; no generic double-shad normalization is performed.",
+      "source_units": [
+        "U00910",
+        "U00911"
+      ],
+      "exact_conflicts": [
+        "C1-0101",
+        "C1-0102"
+      ],
+      "release_reading": {
+        "U00910": "དྲིས་ལན་བཅུ་བཞི་པ། །",
+        "U00911": "དེ་ལྟར་དར་འགྲིབ་རྫོགས་ནས་ནི། །"
+      },
+      "unit_reading_statuses": {
+        "U00910": "scan_intervention",
+        "U00911": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [
+        "SIGNS-VERIFIED-20260928-U00910"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0055",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p037-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p037-row4-middle.png"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0056": {
+      "status": "retain_base",
+      "rationale": "At U00940 retain Adzom sku r thim nas rather than B kun du gnas. This is a genuine wording divergence in the transcripts, not just spacing. The diplomatic base policy retains the recorded Adzom wording without declaring it the reconstructed original or rewriting it from doctrinal expectations.",
+      "source_units": [
+        "U00940"
+      ],
+      "exact_conflicts": [
+        "C1-0103",
+        "C1-0104",
+        "C1-0105",
+        "C1-0106"
+      ],
+      "release_reading": {
+        "U00940": "ཆོས་རྣམས་སངས་རྒྱས་སྐུར་ཐིམ་ ནས། །"
+      },
+      "unit_reading_statuses": {
+        "U00940": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0056",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0057": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept the existing two-mark U00948 boundary correction, retaining the fifteenth reply heading. S braces remain apparatus presentation; the final letter limb is not counted as a third sign.",
+      "source_units": [
+        "U00948",
+        "U00949"
+      ],
+      "exact_conflicts": [
+        "C1-0107",
+        "C1-0108"
+      ],
+      "release_reading": {
+        "U00948": "དྲིས་ལན་བཅོ་ལྔ་པ། །",
+        "U00949": "རྫོགས་སངས་རྒྱས་ཀྱི་བསྟན་པ་ནི། །"
+      },
+      "unit_reading_statuses": {
+        "U00948": "scan_intervention",
+        "U00949": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [
+        "SIGNS-VERIFIED-20260928-U00948"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0057",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p039-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p039-row1-context.png"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0058": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept the U00995 two-shad correction after the earlier three-mark overcount was rejected. Retain so at the opening of U00996: B lacks that syllable but no Adzom correction removes it. Boundary-sign adoption and the following lexical difference are not conflated.",
+      "source_units": [
+        "U00995",
+        "U00996"
+      ],
+      "exact_conflicts": [
+        "C1-0109",
+        "C1-0110"
+      ],
+      "release_reading": {
+        "U00995": "དེ་ཡི་རྗེས་སུ་སྐལ་ལྡན་པ། །",
+        "U00996": "སོ་ཤའི་གླིང་ཞེས་བྱ་བ་ཡི། །"
+      },
+      "unit_reading_statuses": {
+        "U00995": "scan_intervention",
+        "U00996": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [
+        "SIGNS-VERIFIED-20260928-U00995"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0058",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p040-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/p040-row5-context.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/U00995-terminal.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-02/U00995-wide-terminal-context.png"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0059": {
+      "status": "retain_base",
+      "rationale": "At U01001 retain khyim bdag rigs with its current closing marks. B lacks rigs and differs in terminal spacing/punctuation. Preserve the shorter B transcript but do not remove the Adzom word or infer manuscript omission from that transcript alone.",
+      "source_units": [
+        "U01001"
+      ],
+      "exact_conflicts": [
+        "C1-0111",
+        "C1-0112"
+      ],
+      "release_reading": {
+        "U01001": "དེ་རྗེས་འཛིན་པ་ཁྱིམ་བདག་རིགས། །"
+      },
+      "unit_reading_statuses": {
+        "U01001": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0059",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0060": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept the verified U01023 two-shad boundary and keep the sixteenth reply heading before U01024. Retain S braces and spacing as apparatus differences, without replacing the existing U01024 punctuation by a normalized style.",
+      "source_units": [
+        "U01023",
+        "U01024"
+      ],
+      "exact_conflicts": [
+        "C1-0113",
+        "C1-0114",
+        "C1-0115"
+      ],
+      "release_reading": {
+        "U01023": "དྲིས་ལན་བཅུ་དྲུག་པ། །",
+        "U01024": "བསྟན་པའི་སྙིང་ཐིག་གསང་བ་འདི།།"
+      },
+      "unit_reading_statuses": {
+        "U01023": "scan_intervention",
+        "U01024": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [
+        "SIGNS-VERIFIED-20260928-U01023"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0060",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p041-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p041-row5-middle.png"
+      ],
+      "review_method": "Coordinator read the exact A/B/S differences, current readings and existing intervention rationales for L1-0031–0060. L1-0001–0002 use the two locus bodies already inspected before the blocked batch request. No new source-image decipherment performed. The blocked L1-0003–0030 review is not credited.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    }
+  },
   "packet_deferrals": {
     "C1-BASE-PHYSICAL/B14-P0017-0019": {
       "rationale": "No saved reading body, no final agent-message body in the preserved event stream, and no tracked reading-file history were found. No project reading process remains active. A return code or captured receipt without a reading body is not editorial evidence. Source images remain available; this is a failed/interrupted capture, not an illegible or unavailable witness. Defer this packet from v1 without collation credit and preserve its existing source packet, request and event log.",
