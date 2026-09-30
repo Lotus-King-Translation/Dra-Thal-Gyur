@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "release_id": "chapter-03-v1.0.0",
+  "release_commit": "17abe1f0e68069406f782a77e93dab10841b81fb",
+  "verified_remote_tag_object": "79d19d71df1369288ff11ebdfb9306cdea9f9edf",
+  "verified_remote_tag_commit": "17abe1f0e68069406f782a77e93dab10841b81fb",
+  "verified_at": "2026-09-30T19:00:07.215499+00:00",
+  "release_manifest_sha256": "806990eb4e2cdb101e48f7773c83064b26abf05a38a047b11c1114c88e320b49",
+  "deliverable_sha256": {
+    "reading.md": "5a294cbd9590f9d92087a218f80ffa682fd1e3d0c7ff63a7cbba6980bbcb5149",
+    "apparatus.md": "ee31ddd74c06d9008506e688ed181be67da8559c1ba170d2ec68e73885079f82",
+    "wikisource.md": "1a5fb66378b3eaaf9155d4d2eaf4dcaafc0c492382469fad8b3b304e3497d5c6",
+    "reading.json": "ed7b329fb24e3f0a1bb3247d3bc8d1f7779741ba66638208edeb1b699fe02c77",
+    "apparatus.json": "653b58ef127e3dd0ec8adf5733822b82cf579a8463d1896f2829c34c3bed0afe",
+    "CHANGES.md": "7c0920c4fdb822353f28bfbaa37db35cd92f1029a01d573a6b08c3bd13badf09",
+    "COVERAGE.md": "7e1f06664f271935e393a9af99a15e3733292189f805904cf52173f353b62fc0",
+    "README.md": "96c367c2101fd8c17c7cced87fef7b3dd70ff130979394ffb48932d20c6b811a"
+  },
+  "completed_for_approved_scope": true,
+  "remaining_transcript_decisions": 0,
+  "remaining_W_decisions": 0,
+  "remaining_source_check_dispositions": 0,
+  "deliverable_groups": 5,
+  "negative_tests_passed": 29,
+  "full_base_scan_proofread": false,
+  "exhaustive_witness_collation": false,
+  "prior_releases_unchanged": true,
+  "chapter4_started": false,
+  "postpublication_validation_passed": true,
+  "receipt_note": "Committed after release; version tag remains on released content, not the later receipt."
+}
