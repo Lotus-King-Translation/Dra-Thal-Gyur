@@ -1,0 +1,132 @@
+{
+  "validation": {
+    "schema_version": 1,
+    "checks_passed": true,
+    "counts": {
+      "original_anchors": 458,
+      "reading_sequence_items": 460,
+      "source_annotations": 2,
+      "restored_main_verses": 3,
+      "choices_cross_checked": 33,
+      "exact_reconstruction_paths": 4,
+      "W_raw_lines_checked": 459,
+      "local_release_links_checked": 1101,
+      "exact_displayed_transcript_quotes": 99,
+      "W_display_blocks_checked": 55,
+      "evidence_image_hashes_checked": 50
+    },
+    "transcript_loci": 33,
+    "W_blocks": 55,
+    "source_checks": 8,
+    "deliverable_groups": 5,
+    "original_source_preservation": true,
+    "prior_releases_unchanged": true,
+    "build_checks": [
+      {
+        "reproducible": true,
+        "source_units": 458,
+        "exact_differences": 61,
+        "readable_loci": 33,
+        "difference_classes": {
+          "textual": 12,
+          "presentation": 49
+        },
+        "structural_candidates": [
+          "C4-0002",
+          "C4-0003"
+        ],
+        "pairwise_alignment": {
+          "B": {
+            "exact_alignment_anchors": 397,
+            "operations": {
+              "equal": 14,
+              "replace": 3,
+              "insert": 6,
+              "delete": 5
+            }
+          },
+          "S": {
+            "exact_alignment_anchors": 377,
+            "operations": {
+              "equal": 52,
+              "insert": 46,
+              "delete": 3,
+              "replace": 2
+            }
+          }
+        },
+        "minimal_and_whole_locus_reconstruction_passed": true,
+        "W_lines_accounted": 459,
+        "W_reference_lines": 442,
+        "W_conflict_blocks": 55,
+        "W_equal_normalized_units": 402,
+        "caveat": "Exact data coverage and monotonic alignment are not source-glyph verification or automatic variant decisions."
+      },
+      {
+        "reproducible": true,
+        "files": 9,
+        "state": "release_candidate",
+        "counts": {
+          "source_anchors": 458,
+          "transcript_loci": 33,
+          "exact_differences": 61,
+          "W_blocks": 55,
+          "source_checks": 8,
+          "interventions": 3,
+          "changed_anchor_strings": 2,
+          "source_annotations": 2,
+          "restored_main_verses": 3,
+          "reading_sequence_items": 460
+        }
+      }
+    ],
+    "completed_for_approved_scope": false,
+    "full_base_scan_proofread": false,
+    "exhaustive_witness_collation": false,
+    "limits": "Checks source preservation, reconstruction, explicit decisions, annotation/restoration assembly and display. Not a character-accuracy estimate or independent human manuscript certification."
+  },
+  "negative_cases_rejected": 29,
+  "unsigned_final_rejected": true,
+  "visible_uncertainty_anchors": [
+    "U04312",
+    "U04519",
+    "U04562",
+    "U04703",
+    "U04763"
+  ],
+  "no_new_Tibetan_changes_during_audit": true,
+  "progress": {
+    "chapter": 4,
+    "state": "approved_in_progress",
+    "source_anchors": 458,
+    "electronic_representations_verified": 4,
+    "transcript_loci": {
+      "total": 33,
+      "documented": 33,
+      "remaining": 0,
+      "invalid": []
+    },
+    "W_blocks": {
+      "total": 55,
+      "documented": 55,
+      "remaining": 0,
+      "invalid": []
+    },
+    "source_checks": {
+      "total": 8,
+      "documented": 8,
+      "remaining": 0,
+      "invalid": []
+    },
+    "interventions": 3,
+    "restored_main_verses": 3,
+    "deliverables": {
+      "total": 5,
+      "present": 5
+    },
+    "final_signoff": false,
+    "exhaustive_witness_collation": false,
+    "accuracy_score": null,
+    "time_estimate": null
+  }
+}
