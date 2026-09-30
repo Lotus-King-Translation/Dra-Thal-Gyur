@@ -21,6 +21,8 @@ decisions = read(folder/'DECISIONS.json'); assert decisions['scope_approved']
 loci = {x['id']:x for x in read(col/'chapter1-loci.json')}
 units = {x['id']:x for x in read(col/'reading-units.json')}
 notes = read(col/'additional-interventions.json')
+notes += [{**n, 'units':[n['unit']], 'evidence':n['evidence_images']} for n in read(col/'ch1-opening-corrections.json')]
+notes += [{**n, 'evidence':n['evidence_crop']} for n in read(col/'ch1-key-scan-checks.json')['items']]
 assert set(request['choices']).isdisjoint(decisions['loci']), 'Do not overwrite earlier release choices'
 assert set(request['choices']) <= loci.keys()
 accepted = []
@@ -33,7 +35,9 @@ for ident, choice in request['choices'].items():
                 'diplomatic/collation/chapter-01/reading-units.json']
     evidence += choice.get('evidence', [])
     if linked:
-        evidence += ['diplomatic/collation/chapter-01/additional-interventions.json']
+        evidence += ['diplomatic/collation/chapter-01/additional-interventions.json',
+                     'diplomatic/collation/chapter-01/ch1-opening-corrections.json',
+                     'diplomatic/collation/chapter-01/ch1-key-scan-checks.json']
         evidence += ['diplomatic/'+p for n in linked for p in n.get('evidence', [])]
     evidence = list(dict.fromkeys(evidence))
     assert all((root/p.split('#')[0]).is_file() for p in evidence)
