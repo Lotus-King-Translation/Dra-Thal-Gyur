@@ -4403,6 +4403,1310 @@
       "fresh_scan_reading_performed": false,
       "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
       "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0141": {
+      "status": "retain_base",
+      "rationale": "Keep U02162 as the fiftieth reply heading before U02163. The S-only braces are transcript presentation, not additional root characters or grounds for a new punctuation correction.",
+      "source_units": [
+        "U02162",
+        "U02163"
+      ],
+      "exact_conflicts": [
+        "C1-0280",
+        "C1-0281"
+      ],
+      "release_reading": {
+        "U02162": "དྲིས་ལན་ལྔ་བཅུ་པ།",
+        "U02163": "འདི་ལྟར་གཞན་དུ་མ་བཤད་པའི། །"
+      },
+      "unit_reading_statuses": {
+        "U02162": "lexically_compared_punctuation_not_certified",
+        "U02163": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0141",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0142": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept the existing U02172 two-shad correction after dus. Preserve the nearby curved ink as an unresolved graphic detail rather than an extra delimiter; the A/B one-shad quotations remain unchanged.",
+      "source_units": [
+        "U02172"
+      ],
+      "exact_conflicts": [
+        "C1-0282"
+      ],
+      "release_reading": {
+        "U02172": "འཁྲུལ་དུས་གནས་དུས་བཟློག་པའི་དུས། །"
+      },
+      "unit_reading_statuses": {
+        "U02172": "scan_intervention"
+      },
+      "retained_intervention_ids": [
+        "SIGNS-VERIFIED-20260928-U02172"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0142",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/collation/chapter-01/ch1-opening-corrections.json",
+        "diplomatic/collation/chapter-01/ch1-key-scan-checks.json",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p085-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p085-row1-context.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/U02172-terminal-detail.png",
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01.md",
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md",
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-boundary-addendum.md"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0143": {
+      "status": "retain_base",
+      "rationale": "Keep U02180 as the fifty-first reply heading before U02181. S braces are retained only in the comparative quotation; no new root wording or sign count is adopted.",
+      "source_units": [
+        "U02180",
+        "U02181"
+      ],
+      "exact_conflicts": [
+        "C1-0283",
+        "C1-0284"
+      ],
+      "release_reading": {
+        "U02180": "དྲིས་ལན་ང་གཅིག་པ།",
+        "U02181": "ཤེས་བྱ་རང་གི་མཚན་ཉིད་ལ། །"
+      },
+      "unit_reading_statuses": {
+        "U02180": "lexically_compared_punctuation_not_certified",
+        "U02181": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0143",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0144": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept the independently reviewed U02183 two-shad boundary while preserving the terminal tsheg after kyang. Neither the dot nor an adjoining letter limb is counted as another shad.",
+      "source_units": [
+        "U02183"
+      ],
+      "exact_conflicts": [
+        "C1-0285"
+      ],
+      "release_reading": {
+        "U02183": "སོ་སོའི་འདོད་པ་ཐ་དད་ཀྱང་། །"
+      },
+      "unit_reading_statuses": {
+        "U02183": "scan_intervention"
+      },
+      "retained_intervention_ids": [
+        "SIGNS-VERIFIED-20260928-U02183"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0144",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/collation/chapter-01/ch1-opening-corrections.json",
+        "diplomatic/collation/chapter-01/ch1-key-scan-checks.json",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p085-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p085-row3-context-left.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p085-row3-context-right.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/U02183-terminal-detail.png",
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01.md",
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md",
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-boundary-addendum.md"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0145": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept the two S04 restored main verses after U02187, preserving their source-specific punctuation: du shes can dag mtha la jog and mngon sum gnad kyi man ngag gis. They are included in the base reading from the accepted scan restoration, not merely offered as B/S additions.",
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0145",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/ch1-scan-insertions.json"
+      ],
+      "source_units": [
+        "U02187"
+      ],
+      "exact_conflicts": [
+        "C1-0286",
+        "C1-0287"
+      ],
+      "release_reading": {
+        "U02187": "ལུགས་སུ་ཁྱད་པར་སྡེབས་གཉིས་ཀྱི། །"
+      },
+      "unit_reading_statuses": {
+        "U02187": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0146": {
+      "status": "retain_base",
+      "rationale": "Keep U02193 as the fifty-second reply heading, followed by U02194. The S brace convention is recorded without altering the heading words or the following bla ma clause.",
+      "source_units": [
+        "U02193",
+        "U02194"
+      ],
+      "exact_conflicts": [
+        "C1-0288",
+        "C1-0289"
+      ],
+      "release_reading": {
+        "U02193": "དྲིས་ལན་ང་གཉིས་པ།",
+        "U02194": "བླ་མ་རྡོ་རྗེ་འཆང་ཆེན་གྱིས། །"
+      },
+      "unit_reading_statuses": {
+        "U02193": "lexically_compared_punctuation_not_certified",
+        "U02194": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0146",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0147": {
+      "status": "retain_base",
+      "rationale": "At U02204 retain the exact A/B leading-space record against S without that space. The readable display may trim boundary whitespace under its stated convention; the source ledger and machine reading preserve it.",
+      "source_units": [
+        "U02204"
+      ],
+      "exact_conflicts": [
+        "C1-0290"
+      ],
+      "release_reading": {
+        "U02204": " བླ་མ་སངས་རྒྱས་མཉམ་སྦྱོར་བསྟེན། །"
+      },
+      "unit_reading_statuses": {
+        "U02204": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0147",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0148": {
+      "status": "retain_base",
+      "rationale": "Keep the fifty-third reply heading U02215 before U02216. S braces are not evidence for adding a main verse, changing sra ba, or normalizing the special terminal tsheg.",
+      "source_units": [
+        "U02215",
+        "U02216"
+      ],
+      "exact_conflicts": [
+        "C1-0291",
+        "C1-0292"
+      ],
+      "release_reading": {
+        "U02215": "དྲིས་ལན་ང་གསུམ་པ།",
+        "U02216": "ཕྱི་རོལ་འབྱུང་རྟགས་སྲ་བ་དང༌། །"
+      },
+      "unit_reading_statuses": {
+        "U02215": "lexically_compared_punctuation_not_certified",
+        "U02216": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0148",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0149": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept U02225 main sgra dang gdams ngag la sogs te and preserve the complete smra dang gtam ngan yang byung annotation separately. The corrected source-layer record explicitly removes smra dang from the main text; do not revive the earlier incomplete separation.",
+      "source_units": [
+        "U02225"
+      ],
+      "exact_conflicts": [
+        "C1-0293",
+        "C1-0294"
+      ],
+      "release_reading": {
+        "U02225": "སྒྲ་དང་གདམས་ངག་ལ་སོགས་ཏེ། །"
+      },
+      "unit_reading_statuses": {
+        "U02225": "scan_intervention"
+      },
+      "retained_intervention_ids": [
+        "SCAN-CH1-LAYER-02225"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0149",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/collation/chapter-01/ch1-opening-corrections.json",
+        "diplomatic/collation/chapter-01/ch1-key-scan-checks.json",
+        "diplomatic/evidence/chapter-01/annotation-audit/p087-left.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/p087-right.png"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0150": {
+      "status": "retain_base",
+      "rationale": "At U02233 retain rang sai as separately marked syllables rather than B rangsai without the intervening tsheg. This is internal segmentation, not terminal punctuation; no new source inspection is asserted.",
+      "source_units": [
+        "U02233"
+      ],
+      "exact_conflicts": [
+        "C1-0295"
+      ],
+      "release_reading": {
+        "U02233": "འཛམ་གླིང་རང་སའི་ཕྱོགས་བཟུང་སྟེ། །"
+      },
+      "unit_reading_statuses": {
+        "U02233": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0150",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0151": {
+      "status": "retain_base",
+      "rationale": "Keep U02241 as the fifty-fourth reply heading before U02242 with the current accepted punctuation. B supplies an extra shad and S braces; absent a linked adopted Adzom correction, do not change the base sign inventory from those transcripts.",
+      "source_units": [
+        "U02241",
+        "U02242"
+      ],
+      "exact_conflicts": [
+        "C1-0296",
+        "C1-0297",
+        "C1-0298"
+      ],
+      "release_reading": {
+        "U02241": "དྲིས་ལན་ང་བཞི་པ།",
+        "U02242": "དུས་ནི་ལས་འཕྲོ་སད་པ་དང༌། །"
+      },
+      "unit_reading_statuses": {
+        "U02241": "lexically_compared_punctuation_not_certified",
+        "U02242": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0151",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0152": {
+      "status": "retain_base",
+      "rationale": "Keep the fifty-fifth reply heading U02250 and its current ending before U02251. Preserve the B double-shad presentation and S braces without treating them as an adopted scan correction.",
+      "source_units": [
+        "U02250",
+        "U02251"
+      ],
+      "exact_conflicts": [
+        "C1-0299",
+        "C1-0300",
+        "C1-0301"
+      ],
+      "release_reading": {
+        "U02250": "དྲིས་ལན་ང་ལྔ་པ།",
+        "U02251": "ཨེ་མ་ལྷ་བདག་དབང་ཕྱུག་ཉིད། །"
+      },
+      "unit_reading_statuses": {
+        "U02250": "lexically_compared_punctuation_not_certified",
+        "U02251": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0152",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0153": {
+      "status": "retain_base",
+      "rationale": "At U02253 retain dag tu in rgyud gzhan dag tu sbas pa yi. B omits the two syllables; the shorter comparison remains quoted and is not silently substituted into the selected Adzom reading.",
+      "source_units": [
+        "U02253"
+      ],
+      "exact_conflicts": [
+        "C1-0302"
+      ],
+      "release_reading": {
+        "U02253": "རྒྱུད་གཞན་དག་ཏུ་སྦས་པ་ཡི། །"
+      },
+      "unit_reading_statuses": {
+        "U02253": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0153",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0154": {
+      "status": "retain_base",
+      "rationale": "Keep U02299 as the fifty-sixth reply heading before U02300. B adds a second shad and S brackets the heading; retain current Adzom punctuation rather than applying a uniform doubled-heading rule.",
+      "source_units": [
+        "U02299",
+        "U02300"
+      ],
+      "exact_conflicts": [
+        "C1-0303",
+        "C1-0304",
+        "C1-0305"
+      ],
+      "release_reading": {
+        "U02299": "དྲིས་ལན་ང་དྲུག་པ།",
+        "U02300": "རྟོག་མེད་སེམས་དཔའ་ལྷ་ཡི་བུ། །"
+      },
+      "unit_reading_statuses": {
+        "U02299": "lexically_compared_punctuation_not_certified",
+        "U02300": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0154",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0155": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept S05, S06 and S07 after U02308 in that order: one restored rdo rje verse, the fifty-seventh reply heading, then the restored yang ni lha dbang verse. These are two main verses plus one heading, not three main verses. Preserve all accepted boundary corrections.",
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0155",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/ch1-scan-insertions.json"
+      ],
+      "source_units": [
+        "U02308"
+      ],
+      "exact_conflicts": [
+        "C1-0306"
+      ],
+      "release_reading": {
+        "U02308": "སྡོམ་པ་ལུས་དང་ངག་ཏུ་འདུས། །"
+      },
+      "unit_reading_statuses": {
+        "U02308": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0156": {
+      "status": "retain_base",
+      "rationale": "Keep U02318 as the fifty-eighth reply heading before U02319. B doubles its shad and S brackets the heading; the release retains the currently adopted Adzom boundary without inferring physical agreement.",
+      "source_units": [
+        "U02318",
+        "U02319"
+      ],
+      "exact_conflicts": [
+        "C1-0307",
+        "C1-0308"
+      ],
+      "release_reading": {
+        "U02318": "དྲིས་ལན་ང་བརྒྱད་པ།",
+        "U02319": "ཚིག་འདས་སྤྲོས་པ་ཡོངས་རྫོགས་ཆེ། །"
+      },
+      "unit_reading_statuses": {
+        "U02318": "lexically_compared_punctuation_not_certified",
+        "U02319": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0156",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0157": {
+      "status": "retain_base",
+      "rationale": "Keep U02327 as the fifty-ninth reply heading before U02328. Record B punctuation and S brace differences exactly; no unsupported second shad is added to the selected base.",
+      "source_units": [
+        "U02327",
+        "U02328"
+      ],
+      "exact_conflicts": [
+        "C1-0309",
+        "C1-0310",
+        "C1-0311"
+      ],
+      "release_reading": {
+        "U02327": "དྲིས་ལན་ང་དགུ་པ།",
+        "U02328": "མངོན་སུམ་གནད་ནི་ལུས་ངག་སེམས། །"
+      },
+      "unit_reading_statuses": {
+        "U02327": "lexically_compared_punctuation_not_certified",
+        "U02328": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0157",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0158": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept U02332 main ngag ni bslab dang gnas pa dang, with rlab kyang separately preserved as the smaller alternative. The shared flattened wording in A/B does not turn that annotation into an additional root verb.",
+      "source_units": [
+        "U02332"
+      ],
+      "exact_conflicts": [
+        "C1-0312",
+        "C1-0313"
+      ],
+      "release_reading": {
+        "U02332": "ངག་ནི་བསླབ་དང་གནས་པ་དང། །"
+      },
+      "unit_reading_statuses": {
+        "U02332": "scan_intervention"
+      },
+      "retained_intervention_ids": [
+        "SCAN-CH1-LAYER-02332"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0158",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/collation/chapter-01/ch1-opening-corrections.json",
+        "diplomatic/collation/chapter-01/ch1-key-scan-checks.json",
+        "diplomatic/evidence/chapter-01/annotation-audit/p091-left.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/p091-right.png"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0159": {
+      "status": "retain_base",
+      "rationale": "Keep U02358 as the sixtieth reply heading before U02359. S braces are presentation evidence; the current heading ending and main wording remain unchanged.",
+      "source_units": [
+        "U02358",
+        "U02359"
+      ],
+      "exact_conflicts": [
+        "C1-0314",
+        "C1-0315"
+      ],
+      "release_reading": {
+        "U02358": "དྲིས་ལན་དྲུག་ཅུ་པའོ། །",
+        "U02359": "ཨེ་མ་ངོ་མཚར་ཆེ་བ་ཡི། །"
+      },
+      "unit_reading_statuses": {
+        "U02358": "lexically_compared_punctuation_not_certified",
+        "U02359": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0159",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0160": {
+      "status": "retain_base",
+      "rationale": "At U02371 preserve the A leading-space difference against B/S in the exact source data. No lexical disagreement or newly corrected Tibetan character is claimed for this locus.",
+      "source_units": [
+        "U02371"
+      ],
+      "exact_conflicts": [
+        "C1-0316"
+      ],
+      "release_reading": {
+        "U02371": " སེམས་ཀྱིས་བླངས་ཏེ་ལུས་ཀྱིས་བྱའོ། །"
+      },
+      "unit_reading_statuses": {
+        "U02371": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0160",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0161": {
+      "status": "retain_base",
+      "rationale": "Keep the sixty-first reply heading U02402 followed by U02403. Preserve S brace markup in its own quotation and retain the current Adzom ending rather than inferring an unrecorded punctuation correction.",
+      "source_units": [
+        "U02402",
+        "U02403"
+      ],
+      "exact_conflicts": [
+        "C1-0317",
+        "C1-0318"
+      ],
+      "release_reading": {
+        "U02402": "དྲིས་ལན་རེ་གཅིག་པ།",
+        "U02403": "གལ་ཏེ་ལུས་ཀྱི་སྤྱོད་པ་ལ། །"
+      },
+      "unit_reading_statuses": {
+        "U02402": "lexically_compared_punctuation_not_certified",
+        "U02403": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0161",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0162": {
+      "status": "retain_base",
+      "rationale": "Keep U02413 as the sixty-second reply heading preceding U02414. S braces do not add a root clause, remove a heading, or establish the exact printed shad count.",
+      "source_units": [
+        "U02413",
+        "U02414"
+      ],
+      "exact_conflicts": [
+        "C1-0319",
+        "C1-0320"
+      ],
+      "release_reading": {
+        "U02413": "དྲིས་ལན་རེ་གཉིས་པ།",
+        "U02414": "སེམས་འཛིན་བསླབ་པ་ཉེར་གཅིག་གིས། །"
+      },
+      "unit_reading_statuses": {
+        "U02413": "lexically_compared_punctuation_not_certified",
+        "U02414": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0162",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0163": {
+      "status": "retain_base",
+      "rationale": "Keep the sixty-third reply heading U02424 and preserve U02425 ending gcig with its recorded single shad. S braces are distinct from punctuation and the final ga limb must not be treated as a second shad by a normalization rule.",
+      "source_units": [
+        "U02424",
+        "U02425"
+      ],
+      "exact_conflicts": [
+        "C1-0321",
+        "C1-0322"
+      ],
+      "release_reading": {
+        "U02424": "དྲིས་ལན་རེ་གསུམ་པ།",
+        "U02425": "འཆི་བའི་རྟགས་ཀྱང་ཉི་ཤུ་གཅིག །"
+      },
+      "unit_reading_statuses": {
+        "U02424": "lexically_compared_punctuation_not_certified",
+        "U02425": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0163",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0164": {
+      "status": "retain_base",
+      "rationale": "Keep U02434 as the sixty-fourth reply heading before U02435. S bracketing is preserved without adopting a new boundary mark or changing the address to lha dbang.",
+      "source_units": [
+        "U02434",
+        "U02435"
+      ],
+      "exact_conflicts": [
+        "C1-0323",
+        "C1-0324"
+      ],
+      "release_reading": {
+        "U02434": "དྲིས་ལན་རེ་བཞི་པ།",
+        "U02435": "སེམས་ཅན་དོན་ཕྱིར་ལྷ་དབང་ཁྱོད། །"
+      },
+      "unit_reading_statuses": {
+        "U02434": "lexically_compared_punctuation_not_certified",
+        "U02435": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0164",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0165": {
+      "status": "retain_base",
+      "rationale": "Keep the sixty-fifth reply heading U02463, followed by U02464. S braces and the boundary space remain transcript presentation distinctions, not an accepted Adzom sign correction.",
+      "source_units": [
+        "U02463",
+        "U02464"
+      ],
+      "exact_conflicts": [
+        "C1-0325",
+        "C1-0326"
+      ],
+      "release_reading": {
+        "U02463": "དྲིས་ལན་རེ་ལྔ་པ།",
+        "U02464": " ཡང་ནི་བསྒོམ་པའི་སྲོག་ཤིང་བཤད། །"
+      },
+      "unit_reading_statuses": {
+        "U02463": "lexically_compared_punctuation_not_certified",
+        "U02464": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0165",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0166": {
+      "status": "retain_base",
+      "rationale": "At U02473 retain phros khung rather than B/S bros khung. Two transcripts agreeing does not authorize replacing the governing Adzom letter or choosing the more expected meaning; both readings remain explicit.",
+      "source_units": [
+        "U02473"
+      ],
+      "exact_conflicts": [
+        "C1-0327"
+      ],
+      "release_reading": {
+        "U02473": "ཁམས་གསུམ་འཕྲོས་ཁུང་བཅད་པའི་ཕྱིར། །"
+      },
+      "unit_reading_statuses": {
+        "U02473": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0166",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0167": {
+      "status": "retain_base",
+      "rationale": "Keep U02481 as the sixty-sixth reply heading before U02482. Preserve S braces separately and retain the existing punctuation and dbyings rig wording.",
+      "source_units": [
+        "U02481",
+        "U02482"
+      ],
+      "exact_conflicts": [
+        "C1-0328",
+        "C1-0329"
+      ],
+      "release_reading": {
+        "U02481": "དྲིས་ལན་རེ་དྲུག་པ།",
+        "U02482": "སྤྱོད་པའི་སྦྱོར་བ་དབྱིངས་རིག་ལ། །"
+      },
+      "unit_reading_statuses": {
+        "U02481": "lexically_compared_punctuation_not_certified",
+        "U02482": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0167",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0168": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept the already verified U02484 two-shad boundary after bde. The final vowel/letter strokes and neighboring-row material are not counted as extra punctuation; retain the original A/B one-shad quotations.",
+      "source_units": [
+        "U02484"
+      ],
+      "exact_conflicts": [
+        "C1-0330"
+      ],
+      "release_reading": {
+        "U02484": "རྟག་ཏུ་འདྲིས་ན་སྤྱོད་པ་བདེ། །"
+      },
+      "unit_reading_statuses": {
+        "U02484": "scan_intervention"
+      },
+      "retained_intervention_ids": [
+        "SIGNS-VERIFIED-20260928-U02484"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0168",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/collation/chapter-01/ch1-opening-corrections.json",
+        "diplomatic/collation/chapter-01/ch1-key-scan-checks.json",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p096-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p096-row5-context.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/U02484-terminal-detail.png",
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01.md",
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md",
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-boundary-addendum.md"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0169": {
+      "status": "retain_with_explicit_uncertainty",
+      "rationale": "Retain U02489 main spyod pai, not B/S spyod pao, with its two verified main-terminal shads. Preserve the sixty-seventh reply heading separately across the page turn. The smaller heading terminal at PDF97 remains unresolved; the verified main ending does not certify it.",
+      "source_units": [
+        "U02489",
+        "U02490"
+      ],
+      "exact_conflicts": [
+        "C1-0331",
+        "C1-0332"
+      ],
+      "release_reading": {
+        "U02489": "རྣལ་འབྱོར་ཆེན་པོའི་སྤྱོད་པའི། །",
+        "U02490": "འབྲས་བུ་བརྗོད་པར་མི་ནུས་ཀྱང་། །"
+      },
+      "unit_reading_statuses": {
+        "U02489": "scan_intervention",
+        "U02490": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [
+        "SCAN-CH1-LAYER-02489"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0169",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/collation/chapter-01/ch1-opening-corrections.json",
+        "diplomatic/collation/chapter-01/ch1-key-scan-checks.json",
+        "diplomatic/evidence/chapter-01/annotation-audit/p096-left.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/p096-right.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/p097-full.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p096-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p097-row1-context.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/p096-row6-context-tall.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/U02489-terminal-detail.png",
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01.md",
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-attached.md",
+        "diplomatic/reviews/chapter-01/continuation/C1-SIGNS-01-independent-boundary-addendum.md",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-01/U02489-heading-terminal-uncertain.png"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0170": {
+      "status": "retain_base",
+      "rationale": "Keep U02500 as the sixty-eighth reply heading before U02501. B has a boundary space and S brackets the heading; neither changes the selected root clause or warrants new punctuation.",
+      "source_units": [
+        "U02500",
+        "U02501"
+      ],
+      "exact_conflicts": [
+        "C1-0333",
+        "C1-0334"
+      ],
+      "release_reading": {
+        "U02500": "དྲིས་ལན་རེ་བརྒྱད་པ།",
+        "U02501": "འཁོར་བའི་རྒྱུན་ཐག་གཅད་འདོད་པས། །"
+      },
+      "unit_reading_statuses": {
+        "U02500": "lexically_compared_punctuation_not_certified",
+        "U02501": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0170",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0171": {
+      "status": "retain_base",
+      "rationale": "Keep the sixty-ninth reply heading U02510 and preserve U02511 bcud kyis len pa. S-only bracketing stays in the apparatus; no grammatical change from kyis to kyi is made.",
+      "source_units": [
+        "U02510",
+        "U02511"
+      ],
+      "exact_conflicts": [
+        "C1-0335",
+        "C1-0336"
+      ],
+      "release_reading": {
+        "U02510": "དྲིས་ལན་རེ་དགུ་པ།",
+        "U02511": "བཅུད་ཀྱིས་ལེན་པ་འདི་ལྟ་བུ། །"
+      },
+      "unit_reading_statuses": {
+        "U02510": "lexically_compared_punctuation_not_certified",
+        "U02511": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0171",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0172": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept SCAN-CH1-CONT-02522: gzhon par gyur, restoring the visible final ra and syllable boundary absent from the supplied A string. B has pa without ra and S has par; adoption rests on the existing native-detail finding, not a grammatical conjecture.",
+      "source_units": [
+        "U02522"
+      ],
+      "exact_conflicts": [
+        "C1-0337"
+      ],
+      "release_reading": {
+        "U02522": "གཟི་བརྗིད་ལྡན་ཞིང་གཞོན་པར་འགྱུར། །"
+      },
+      "unit_reading_statuses": {
+        "U02522": "scan_intervention"
+      },
+      "retained_intervention_ids": [
+        "SCAN-CH1-CONT-02522"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0172",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/collation/chapter-01/ch1-opening-corrections.json",
+        "diplomatic/collation/chapter-01/ch1-key-scan-checks.json",
+        "diplomatic/evidence/chapter-01/continuous/098-u2522.png"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0173": {
+      "status": "retain_base",
+      "rationale": "At U02529 retain sla rather than S sba. The source-specific stacked letter is not replaced because an alternative meaning appears attractive; the S graph remains quoted without claiming its printed exemplar has been verified.",
+      "source_units": [
+        "U02529"
+      ],
+      "exact_conflicts": [
+        "C1-0338"
+      ],
+      "release_reading": {
+        "U02529": "མཁས་པས་རླུང་ནི་གནས་སུ་སླ། །"
+      },
+      "unit_reading_statuses": {
+        "U02529": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0173",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0174": {
+      "status": "retain_base",
+      "rationale": "Keep U02536 as the seventieth reply heading before U02537. B spacing and S braces are preserved separately; the gos kyi clause remains unchanged.",
+      "source_units": [
+        "U02536",
+        "U02537"
+      ],
+      "exact_conflicts": [
+        "C1-0339",
+        "C1-0340"
+      ],
+      "release_reading": {
+        "U02536": "དྲིས་ལན་བདུན་ཅུ་པ།",
+        "U02537": "གོས་ཀྱི་རྣལ་འབྱོར་འདི་ལྟ་སྟེ། །"
+      },
+      "unit_reading_statuses": {
+        "U02536": "lexically_compared_punctuation_not_certified",
+        "U02537": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0174",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0175": {
+      "status": "retain_base",
+      "rationale": "Keep the seventy-first reply heading U02547 before U02548. S braces are not part of the root reading, and the heading number is not used to reconstruct other unclear source numerals.",
+      "source_units": [
+        "U02547",
+        "U02548"
+      ],
+      "exact_conflicts": [
+        "C1-0341",
+        "C1-0342"
+      ],
+      "release_reading": {
+        "U02547": "དྲིས་ལན་དོན་གཅིག་པ།",
+        "U02548": "ཡང་ནི་ལུས་འབྱུང་རྒྱུན་གཅོད་པའི། །"
+      },
+      "unit_reading_statuses": {
+        "U02547": "lexically_compared_punctuation_not_certified",
+        "U02548": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0175",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0176": {
+      "status": "retain_base",
+      "rationale": "Keep U02563 as the seventy-second reply heading followed by U02564. B adds spacing and S braces; no new lexical or physical-sign decision follows from these presentation differences.",
+      "source_units": [
+        "U02563",
+        "U02564"
+      ],
+      "exact_conflicts": [
+        "C1-0343",
+        "C1-0344"
+      ],
+      "release_reading": {
+        "U02563": "དྲིས་ལན་དོན་གཉིས་པ།",
+        "U02564": "གལ་ཏེ་འབྱུང་བ་བཞི་པོ་ལ། །"
+      },
+      "unit_reading_statuses": {
+        "U02563": "lexically_compared_punctuation_not_certified",
+        "U02564": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0176",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0177": {
+      "status": "retain_base",
+      "rationale": "Keep the seventy-third reply heading U02576 before U02577. Preserve S braces only in the transcript quotation and retain the current main mdzod kyi yon tan sequence.",
+      "source_units": [
+        "U02576",
+        "U02577"
+      ],
+      "exact_conflicts": [
+        "C1-0345",
+        "C1-0346"
+      ],
+      "release_reading": {
+        "U02576": "དྲིས་ལན་དོན་གསུམ་པའོ། །",
+        "U02577": "མཛོད་ཀྱི་ཡོན་ཏན་འདི་ལྟ་སྟེ། །"
+      },
+      "unit_reading_statuses": {
+        "U02576": "lexically_compared_punctuation_not_certified",
+        "U02577": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0177",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0178": {
+      "status": "retain_base",
+      "rationale": "Keep U02584 as the seventy-fourth reply heading followed by U02585. S brace markup does not justify deleting the heading or changing rdzu phrul in the root.",
+      "source_units": [
+        "U02584",
+        "U02585"
+      ],
+      "exact_conflicts": [
+        "C1-0347",
+        "C1-0348"
+      ],
+      "release_reading": {
+        "U02584": "དྲིས་ལན་དོན་བཞི་པ།",
+        "U02585": "འཕགས་པའི་རྫུ་འཕྲུལ་བསྒྲུབ་འདོད་པས། །"
+      },
+      "unit_reading_statuses": {
+        "U02584": "lexically_compared_punctuation_not_certified",
+        "U02585": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0178",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0179": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept the existing U02597 restoration of dris at the beginning of dris lan don lnga pa. The smaller source heading supplies the syllable independently of expected numbering. B dri and S dris are retained as their own forms; do not import their leading punctuation wholesale.",
+      "source_units": [
+        "U02597",
+        "U02598"
+      ],
+      "exact_conflicts": [
+        "C1-0349",
+        "C1-0350"
+      ],
+      "release_reading": {
+        "U02597": "དྲིས་ལན་དོན་ལྔ་པ།",
+        "U02598": "མི་འཛད་གཏེར་ལ་སྤྱོད་འདོད་པས། །"
+      },
+      "unit_reading_statuses": {
+        "U02597": "scan_intervention",
+        "U02598": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [
+        "SCAN-CH1-CONT-02597"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0179",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/collation/chapter-01/ch1-opening-corrections.json",
+        "diplomatic/collation/chapter-01/ch1-key-scan-checks.json",
+        "diplomatic/evidence/chapter-01/continuous/100-u2597.png"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0180": {
+      "status": "retain_base",
+      "rationale": "At U02611 retain bzhi lnga dbang du byed pa yis and the source boundary-space record. The S leading closing brace is transcript markup, not a root symbol or evidence for missing Adzom text.",
+      "source_units": [
+        "U02611"
+      ],
+      "exact_conflicts": [
+        "C1-0351"
+      ],
+      "release_reading": {
+        "U02611": " བཞི་ལྔ་དབང་དུ་བྱེད་པ་ཡིས། །"
+      },
+      "unit_reading_statuses": {
+        "U02611": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0180",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0181": {
+      "status": "retain_with_explicit_uncertainty",
+      "rationale": "Keep U02615 mdog gi yang byung as a separately preserved, unconfirmed transcript annotation, not certified print lettering. Retain the current U02616 sequence without B/S added dang. The heavily inked note allocation remains unresolved and is not made certain by agreement of transcripts.",
+      "source_units": [
+        "U02615",
+        "U02616"
+      ],
+      "exact_conflicts": [
+        "C1-0352",
+        "C1-0353",
+        "C1-0354"
+      ],
+      "release_reading": {
+        "U02615": "",
+        "U02616": "སྤྲོ་བསྡུ་བསྟིམ་འཁྱིལ་པས་བྱའོ། །"
+      },
+      "unit_reading_statuses": {
+        "U02615": "uncertain_print_reading_or_annotation",
+        "U02616": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [
+        "SCAN-CH1-LAYER-02615"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0181",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/collation/chapter-01/ch1-opening-corrections.json",
+        "diplomatic/collation/chapter-01/ch1-key-scan-checks.json",
+        "diplomatic/evidence/chapter-01/annotation-audit/p101-left.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/p101-right.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/p101-summary.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/p101-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/p101-x0000-y0000.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/p101-x1900-y0000.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/p101-x3696-y0000.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/U02615-row3-context.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/U02620-note-context.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/row4-left-context.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/row4-right-context.png"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0182": {
+      "status": "retain_with_explicit_uncertainty",
+      "rationale": "Keep U02620 de dag gi zhabs sdud pao separately and explicitly uncertain; retain U02621 as main text. The dense source locus is not counted twice to manufacture independent attestations for U02615 and U02620. S braces do not decipher the inked cluster.",
+      "source_units": [
+        "U02620",
+        "U02621"
+      ],
+      "exact_conflicts": [
+        "C1-0355",
+        "C1-0356"
+      ],
+      "release_reading": {
+        "U02620": "",
+        "U02621": "སྟོན་པ་སངས་རྒྱས་བཅོམ་ལྡན་འདས། །"
+      },
+      "unit_reading_statuses": {
+        "U02620": "uncertain_print_reading_or_annotation",
+        "U02621": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [
+        "SCAN-CH1-LAYER-02620"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0182",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/collation/chapter-01/ch1-opening-corrections.json",
+        "diplomatic/collation/chapter-01/ch1-key-scan-checks.json",
+        "diplomatic/evidence/chapter-01/annotation-audit/p101-left.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/p101-right.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/p101-summary.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/p101-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/p101-x0000-y0000.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/p101-x1900-y0000.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/p101-x3696-y0000.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/U02615-row3-context.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/U02620-note-context.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/row4-left-context.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-BASE-UNCERTAINTIES/B02-P0101/row4-right-context.png"
+      ],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0183": {
+      "status": "retain_with_explicit_uncertainty",
+      "rationale": "Retain U02635 as the Chapter 1 colophon with its exact current rtsa double-tsheg scaffold and punctuation qualified. Do not import the B foreign-script ending or S extra terminal marks. Preserve the separate unread S09 inscription with its own evidence and no conjectural transcription; the known chapter boundary is not a claim that every closing sign is resolved.",
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0183",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/ch1-scan-insertions.json"
+      ],
+      "source_units": [
+        "U02635"
+      ],
+      "exact_conflicts": [
+        "C1-0357",
+        "C1-0358",
+        "C1-0359"
+      ],
+      "release_reading": {
+        "U02635": "སྣ་ཚོགས་བཀོད་པ་རང་བྱུང་མན་ངག་གི་རྩ་་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་དང་པོའོ།།"
+      },
+      "unit_reading_statuses": {
+        "U02635": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "review_method": "Coordinator inspected all remaining full A/B/S locus quotations and the applicable late source-layer, lexical correction and sign records. All choices preserve the current adopted Adzom reading and restorations; uncertain colophon and note components remain qualified. No new scan reading.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
     }
   },
   "packet_deferrals": {
