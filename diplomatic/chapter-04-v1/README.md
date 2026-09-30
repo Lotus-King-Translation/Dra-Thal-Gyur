@@ -21,3 +21,5 @@ Exact fine-grained and whole-passage comparisons reconstruct B and S. The 55 W d
 Run `python3 diplomatic/chapter-04-v1/validate_release.py --repo . --require-final` to verify. Run `python3 diplomatic/chapter-04-v1/progress.py --repo .` for the fixed counters. Report status with every verified commit.
 
 Untargeted text remains the supplied Adzom transcript. Complete physical proofreading, exhaustive witness comparison and reconstruction of an original remain outside this v1 release. Chapter 5 has not been started.
+
+[Verified remote publication receipt](PUBLICATION.json) records the fixed version tag and postpublication validation.

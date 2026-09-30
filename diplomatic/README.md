@@ -1,5 +1,7 @@
 # Dra Thal Gyur — Chapter 1 bounded v1
 
+> **Current bounded publication state:** Chapters 1–4 are released. Read [Chapter 4](chapter-04-v1/release/README.md) and its [verified receipt](chapter-04-v1/PUBLICATION.json), or [Chapter 3](chapter-03-v1/release/README.md) and its [receipt](chapter-03-v1/PUBLICATION.json). Chapter 5 has not started. Historical exhaustive-work statuses below do not reopen these completed v1 checklists.
+
 **Chapter2 bounded v1 is also released:** [reading and deliverables](chapter-02-v1/release/README.md), [progress](chapter-02-v1/PROGRESS.json), and [validation](chapter-02-v1/release/VALIDATION.json). Its explicit scope is targeted source corrections and exact electronic comparison, not complete scan proofreading.
 
 **Read the completed Chapter 1 v1:** [Release overview](release-v1/README.md) · [Reading text](release-v1/reading.md) · [Apparatus](release-v1/apparatus.md) · [Changes](release-v1/CHANGES.md) · [Coverage and uncertainty](release-v1/COVERAGE.md).

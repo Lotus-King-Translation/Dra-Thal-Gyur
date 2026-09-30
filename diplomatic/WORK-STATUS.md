@@ -1,5 +1,7 @@
 # Diplomatic edition — current work status
 
+> **Current bounded publication state:** Chapters 1–4 are released. Read [Chapter 4](chapter-04-v1/release/README.md) and its [verified receipt](chapter-04-v1/PUBLICATION.json), or [Chapter 3](chapter-03-v1/release/README.md) and its [receipt](chapter-03-v1/PUBLICATION.json). Chapter 5 has not started. Historical exhaustive-work statuses below do not reopen these completed v1 checklists.
+
 > **Current bounded release status, 2026-09-30:** Chapter2 v1 is complete for its approved scope: [release](chapter-02-v1/release/README.md), [validation](chapter-02-v1/release/VALIDATION.json), [progress](chapter-02-v1/PROGRESS.json). Chapter1 remains unchanged. All Chapter2 decision counters are closed; complete scan proofreading is not claimed. Chapter3 has not started. The Chapter1 research history below remains a separate record.
 
 > **Chapter 1 bounded v1 is complete for the user-approved scope (2026-09-30).** Start with the [released edition](release-v1/README.md), [final validation](release-v1/VALIDATION.json), and [status report](release-v1-proposal/PROGRESS.json). All 183 release choices are recorded; the eight frozen packets are dispositioned as two integrations and six explicit deferrals without collation credit; all five deliverable groups are present. Exhaustive witness collation remains unfinished. Run `python3 diplomatic/tools/release_progress.py --repo .` and report status with every verified commit. Do not reopen the completed v1 checklist or commission general reading under its name.

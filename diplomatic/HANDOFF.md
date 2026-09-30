@@ -1,14 +1,10 @@
 # Continue the diplomatic edition
 
-> **Active work: Chapter 4 bounded v1.** Start at [chapter-04-v1/README.md](chapter-04-v1/README.md): 33 fixed A/B/S loci, 55 W blocks, eight targeted source checks and five deliverables. Chapter 3 is published as `chapter-03-v1.0.0`; preserve Chapters 1–3 unchanged. Report status after every verified commit.
+> **Chapters 1–4 have published bounded v1 editions.** Latest: [Chapter 4](chapter-04-v1/release/README.md), [publication receipt](chapter-04-v1/PUBLICATION.json), [validation](chapter-04-v1/release/VALIDATION.json) and [status](chapter-04-v1/PROGRESS.json). Its 33/33 passage decisions, 55/55 W decisions, 8/8 source checks and 5/5 deliverables are complete. All 29 corruption tests passed. No bounded-v1 task remains.
 
-> **Chapter 3 bounded v1: final signoff and tests complete.** See [the edition](chapter-03-v1/release/README.md) and [final validation](chapter-03-v1/release/VALIDATION.json). The user authorized Chapter 4 immediately after verified Chapter 3 publication. Preserve all earlier releases and report status after every verified commit.
+[Chapter 3](chapter-03-v1/release/README.md) is also versioned and [remotely verified](chapter-03-v1/PUBLICATION.json). [Chapter 2](chapter-02-v1/release/README.md) and [Chapter 1](release-v1/README.md) remain unchanged. Preserve all fixed version tags. **Chapter 5 has not been started.** Do not reopen a completed bounded checklist as exhaustive research.
 
-> **Chapters 1 and 2 bounded v1 are released (2026-09-30).** Chapter2 is at [chapter-02-v1/release/README.md](chapter-02-v1/release/README.md), with [final validation](chapter-02-v1/release/VALIDATION.json) and [status](chapter-02-v1/PROGRESS.json): 56/56 transcript decisions, 105/105 W decisions, 10/10 targeted source dispositions and 5/5 deliverables. The release is not complete scan proofreading. Chapter3 has not started. Preserve both version tags and report status with every verified commit.
-
-> **Chapter 1 bounded v1 is complete for the user-approved scope (2026-09-30).** Start with the [released edition](release-v1/README.md), [final validation](release-v1/VALIDATION.json), and [status report](release-v1-proposal/PROGRESS.json). All 183 release choices are recorded; the eight frozen packets are dispositioned as two integrations and six explicit deferrals without collation credit; all five deliverable groups are present. Exhaustive witness collation remains unfinished. Run `python3 diplomatic/tools/release_progress.py --repo .` and report status with every verified commit. Do not reopen the completed v1 checklist or commission general reading under its name.
-
-**Start here on `main`. The approved Chapter 1 v1 is released; the exhaustive research dossier remains unfinished.** Its Markdown edition, integrated apparatus, surviving review ledgers and recovery archives are preserved together. Historical recovery branches remain available; they are not separate active work queues. The original chapter-by-chapter rule now has completed bounded releases for Chapters1 and2; do not reopen them under the historical exhaustive queue.
+Report actual changes, fixed completed/remaining counts, validation and the verified remote SHA after every commit. Use each chapter’s own plan, progress meter and final validator. Original strings and historical evidence must remain preserved.
 
 ## Preservation checks and historical exhaustive workflow
 
