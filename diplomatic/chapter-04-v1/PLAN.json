@@ -1,0 +1,246 @@
+{
+  "schema_version": 1,
+  "chapter": 4,
+  "status": "approved_in_progress",
+  "baseline_commit": "f3e558092a2d23c7eef789acfe8bb5238738e97e",
+  "approval": "User requested Chapter4 immediately after Chapter3 final tests, signoff and publication, continuing the bounded process and status with every verified commit.",
+  "title": "Chapter 4 v1 — corrected Adzom-based reading with scoped comparative apparatus",
+  "scope": "Exact A/B/S and defined related W reference comparisons; targeted Adzom checks of boundaries, known source layers and material candidates; explicit decisions and five deliverables. No full scan proofread, exhaustive all-witness collation, unmarked normalization or reconstruction of an original.",
+  "original_anchor_range": [
+    "U04306",
+    "U04763"
+  ],
+  "original_anchor_count": 458,
+  "sources": {
+    "A": {
+      "path": "editions/adzom-2000/W1KG11703_7.txt",
+      "full_sha256": "18bd9ce65311e2d6d7c703f053a5c0aac347e899a75f8749a8f9afd891452edc",
+      "start": 124275,
+      "end": 137182,
+      "chapter_sha256": "1890d0cee236ee397433f93a0a89c1cc5eb4bc96c40648e2f5c5da938d68079e",
+      "opening": "དེ་ནས་ལྷ་དབང་དགའ་བྱེད་ཀྱིས། །སྟོན་པ་ཁྱབ་བདག་ཆེན་པོ་ལ། །ཆོས་ཉིད་བཀོད་པའི་རང་བཞིན་ཞུས། །ཀྱེ་ཀྱེ་ཡང་དག་རྫོགས་སངས་རྒྱས། །བདག",
+      "closing": "་བུ་བློ་བྲལ་ཉིད། །སྨྲ་བསམ་བརྗོད་པ་ཀུན་འདས་པའོ། །ཞེས་སྒྲ་ཐལ་འགྱུར་ཆེན་པོ་ཆོས་རྣམས་ཀུན་གྱི་རྩ་བ་ལས། ཆོས་ཉིད་བཀོད་པ་སེམས་སྣང་གི་རྩ་བ་བསྟན་པའི་ལེའུ་སྟེ་བཞི་པའོ།། །།",
+      "following": "དེ་ནས་རང་བཞིན་རྣམ་དག་པས། །ཆོས་སྐུ་བརྗོད་པ་མེད་པ་ལས། །ཆོས་ཉིད་སྤྲོས་བྲལ་ནམ་མཁའ་ལས། །བརྗོད་དུ་མེད་པའི་"
+    },
+    "B": {
+      "path": "editions/tharpaling-1983/W27491_7.txt",
+      "full_sha256": "df05454b1ca21d893188b30e00b7b463abe369afc6ec26d917354a7d6de464c3",
+      "start": 124817,
+      "end": 137817,
+      "chapter_sha256": "54a3791740e0496acc188b1955a3f78a2414cbd2133104b4f2b097e065d1c637",
+      "opening": "དེ་ནས་ལྷ་དབང་དགའ་བྱེད་ཀྱིས། །སྟོན་པ་ཁྱབ་བདག་ཆེན་པོ་ལ། །ཆོས་ཉིད་བཀོད་པའི་རང་བཞིན་ཞུས། །ཀྱེ་ཀྱེ་ཡང་དག་རྫོགས་སངས་རྒྱས། །བདག",
+      "closing": "བྲལ་ཉིད། །སྨྲ་བསམ་བརྗོད་པཔ་ཀུན་འདས་པའོ། །ཞེས་སྒྲ་ཐལ་འགྱུར་ཆེན་པོ་ཆོས་རྣམས་ཀུན་གྱི་རྩ་བ་ལས། ཆོས་ཉིད་བཀོད་པ་སྣང་གི་རྩ་བ་བསྟན་པའི་ལེའུ་སྟེ་བཞི་པའོ།། །།ཐའཐང་རྦགཿ། །",
+      "following": "དེ་ནས་རང་བཞིན་རྣམ་དག་པས། །ཆོས་སྐུ་བརྗོད་པ་མེད་པ་ལས། །ཆོས་ཉིད་སྤྲོས་བྲལ་ནམ་མཁའ་ལས། །བརྗོད་དུ་མེད་པའི་"
+    },
+    "S": {
+      "path": "editions/sichuan-2016/W3CN7084_7.txt",
+      "full_sha256": "2cf6b52889211579dff68f2e064032f40926de266242f111b3c94bb4efa47c57",
+      "start": 125127,
+      "end": 138163,
+      "chapter_sha256": "91b4959df7f87e5baf26083fe417c11195fa800cc67bc12e06e122cc852202dd",
+      "opening": "དེ་ནས་ལྷ་དབང་དགའ་བྱེད་ཀྱིས། །སྟོན་པ་ཁྱབ་བདག་ཆེན་པོ་ལ། །ཆོས་ཉིད་བཀོད་པའི་རང་བཞིན་ཞུས། །ཀྱེ་ཀྱེ་ཡང་དག་རྫོགས་སངས་རྒྱས། །བདག",
+      "closing": "ས་བུ་བློ་བྲལ་ཉིད། །སྨྲ་བསམ་བརྗོད་པ་ཀུན་འདས་པའོ། །ཞེས་སྒྲ་ཐལ་འགྱུར་ཆེན་པོ་ཆོས་རྣམས་ཀུན་གྱི་རྩ་བ་ལས།ཆོས་ཉིད་བཀོད་པ་སེམས་སྣང་གི་རྩ་བ་བསྟན་པའི་ལེའུ་སྟེ་བཞི་པའོ།། །།",
+      "following": "དེ་ནས་རང་བཞིན་རྣམ་དག་པས། །ཆོས་སྐུ་བརྗོད་པ་མེད་པ་ལས། །ཆོས་ཉིད་སྤྲོས་བྲལ་ནམ་མཁའ་ལས། །བརྗོད་དུ་མེད་པའི་"
+    }
+  },
+  "W": {
+    "path": "editions/adzom-wikisource/source.wikitext",
+    "sha256": "d2a6e95e8c65d28d7812efa79d65bd397a0796a9e00621430a86b5713b70ede8",
+    "lines_inclusive": [
+      4349,
+      4807
+    ],
+    "provenance": "editions/adzom-wikisource/PROVENANCE.json"
+  },
+  "boundary_policy": "A uses unchanged anchors [124275,137182). B/S begin at the prior released Chapter3 endpoints and end immediately before the Chapter5 incipit de nas rang bzhin rnam dag pas. All witness-specific closing signs and B foreign-form text stay within their exact quotations. W includes @4 and excludes @5.",
+  "no_general_comparison_witness_reading": true,
+  "exhaustive_witness_collation": false,
+  "prior_scan_consultation": "Historical translation consultation is a locator lead, not inherited complete proofreading.",
+  "frozen_locus_ids": [
+    "L4-0001",
+    "L4-0002",
+    "L4-0003",
+    "L4-0004",
+    "L4-0005",
+    "L4-0006",
+    "L4-0007",
+    "L4-0008",
+    "L4-0009",
+    "L4-0010",
+    "L4-0011",
+    "L4-0012",
+    "L4-0013",
+    "L4-0014",
+    "L4-0015",
+    "L4-0016",
+    "L4-0017",
+    "L4-0018",
+    "L4-0019",
+    "L4-0020",
+    "L4-0021",
+    "L4-0022",
+    "L4-0023",
+    "L4-0024",
+    "L4-0025",
+    "L4-0026",
+    "L4-0027",
+    "L4-0028",
+    "L4-0029",
+    "L4-0030",
+    "L4-0031",
+    "L4-0032",
+    "L4-0033"
+  ],
+  "frozen_W_ids": [
+    "W-C04-001",
+    "W-C04-002",
+    "W-C04-003",
+    "W-C04-004",
+    "W-C04-005",
+    "W-C04-006",
+    "W-C04-007",
+    "W-C04-008",
+    "W-C04-009",
+    "W-C04-010",
+    "W-C04-011",
+    "W-C04-012",
+    "W-C04-013",
+    "W-C04-014",
+    "W-C04-015",
+    "W-C04-016",
+    "W-C04-017",
+    "W-C04-018",
+    "W-C04-019",
+    "W-C04-020",
+    "W-C04-021",
+    "W-C04-022",
+    "W-C04-023",
+    "W-C04-024",
+    "W-C04-025",
+    "W-C04-026",
+    "W-C04-027",
+    "W-C04-028",
+    "W-C04-029",
+    "W-C04-030",
+    "W-C04-031",
+    "W-C04-032",
+    "W-C04-033",
+    "W-C04-034",
+    "W-C04-035",
+    "W-C04-036",
+    "W-C04-037",
+    "W-C04-038",
+    "W-C04-039",
+    "W-C04-040",
+    "W-C04-041",
+    "W-C04-042",
+    "W-C04-043",
+    "W-C04-044",
+    "W-C04-045",
+    "W-C04-046",
+    "W-C04-047",
+    "W-C04-048",
+    "W-C04-049",
+    "W-C04-050",
+    "W-C04-051",
+    "W-C04-052",
+    "W-C04-053",
+    "W-C04-054",
+    "W-C04-055"
+  ],
+  "source_check_targets": [
+    {
+      "id": "C4-START",
+      "units": [
+        "U04306",
+        "U04307"
+      ],
+      "candidate_pages": [
+        163
+      ],
+      "question": "Confirm Chapter4 opening after Chapter3 colophon and boundary graphic."
+    },
+    {
+      "id": "C4-END",
+      "units": [
+        "U04762",
+        "U04763"
+      ],
+      "candidate_pages": [
+        179,
+        180
+      ],
+      "question": "Confirm Chapter4 colophon, sems in its title, and following Chapter5 boundary."
+    },
+    {
+      "id": "C4-RESTORE-04328",
+      "units": [
+        "U04328",
+        "U04329"
+      ],
+      "candidate_pages": [
+        164
+      ],
+      "question": "Check three additional B/S/W question verses against Adzom main text."
+    },
+    {
+      "id": "C4-LAYER-04312",
+      "units": [
+        "U04312"
+      ],
+      "candidate_pages": [
+        163,
+        164
+      ],
+      "question": "Determine whether gzengs kyang is a smaller alternative note, not part of the main bstod clause."
+    },
+    {
+      "id": "C4-HEADING-04344",
+      "units": [
+        "U04344"
+      ],
+      "candidate_pages": [
+        164,
+        165
+      ],
+      "question": "Confirm the zhus don heading and preserve its wording separately from main verse."
+    },
+    {
+      "id": "C4-READING-04394",
+      "units": [
+        "U04394"
+      ],
+      "candidate_pages": [
+        166
+      ],
+      "question": "Inspect supplied gyi nar lettering without guessing a more familiar expression."
+    },
+    {
+      "id": "C4-LAYER-04519",
+      "units": [
+        "U04519"
+      ],
+      "candidate_pages": [
+        170,
+        171
+      ],
+      "question": "Separate small adegs kyang byung from main ageg if physically supported."
+    },
+    {
+      "id": "C4-READING-04562",
+      "units": [
+        "U04562"
+      ],
+      "candidate_pages": [
+        172,
+        173
+      ],
+      "question": "Check the incomplete-looking rlu against actual print, not context alone."
+    }
+  ],
+  "collation_hashes": {
+    "collation.json": "4683f1b098bdce5470720b7c57f1fc9f5c496f25d46e5534b0eb94b208216b6a",
+    "wikisource.json": "b94be826e9186dd8bd25ead946bf47e5296915bf354575eb91ba93eed03cd9b0"
+  },
+  "next_step": "Eight targeted source dispositions, 33 transcript-locus choices, 55 W-reference choices, five deliverables and final gate; no broad all-witness queue."
+}
