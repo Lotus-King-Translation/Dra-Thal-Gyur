@@ -196,6 +196,709 @@
       ],
       "uncertain_units": [],
       "insertion_ids": []
+    },
+    "L3-0041": {
+      "status": "retain_with_explicit_uncertainty",
+      "rationale": "Retain the third-chapter colophon at U04305 with its exact supplied closing punctuation explicitly qualified. Keep the B-only foreign-form ending in the B quotation rather than adding it to Adzom or deciphering the compact Adzom graphic from it. The next identical first verse belongs to Chapter4 because its following clause is ston pa khyab bdag.",
+      "source_units": [
+        "U04305"
+      ],
+      "exact_conflicts": [
+        "C3-0083",
+        "C3-0084"
+      ],
+      "release_reading": {
+        "U04305": " ཡེ་ཤེས་བཀོད་པ་སྣང་བའི་རྩ་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་གསུམ་པའོ།། །།"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/SOURCE-REVIEW.json"
+      ],
+      "uncertain_units": [
+        "U04305"
+      ],
+      "insertion_ids": []
+    },
+    "L3-0004": {
+      "status": "retain_base",
+      "rationale": "Keep U03710 as the second-reply/eight-point heading before U03711. Preserve B spacing and S braces as transcript presentation, not main words or grounds to change the count.",
+      "source_units": [
+        "U03710",
+        "U03711"
+      ],
+      "exact_conflicts": [
+        "C3-0007",
+        "C3-0008"
+      ],
+      "release_reading": {
+        "U03710": "དྲིས་ལན་གཉིས་པ་དོན་བརྒྱད་བསྟན་པ།",
+        "U03711": "དེ་ལས་འཁྲུལ་པ་རྒྱུ་དང་རྐྱེན། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0006": {
+      "status": "retain_base",
+      "rationale": "Keep the third-reply/nine-point label U03736 separate from the ensuing ma rig pa clause. The S brackets do not create a root verse or certify printed agreement.",
+      "source_units": [
+        "U03736",
+        "U03737"
+      ],
+      "exact_conflicts": [
+        "C3-0010",
+        "C3-0011"
+      ],
+      "release_reading": {
+        "U03736": "དྲིས་ལན་གསུམ་པ་དོན་དགུ་བསྟན་པ།",
+        "U03737": "འཁྲུལ་པའི་རྒྱུ་ནི་མ་རིག་པ། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0007": {
+      "status": "retain_base",
+      "rationale": "Preserve the A internal space between byed and pa at U03741 in the exact machine record; B/S omit that gap. Do not turn a spacing difference into a word correction.",
+      "source_units": [
+        "U03741"
+      ],
+      "exact_conflicts": [
+        "C3-0012"
+      ],
+      "release_reading": {
+        "U03741": "མཐའ་དང་མཐའ་ཡི་བྱེད་ པ་དང་། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0008": {
+      "status": "retain_base",
+      "rationale": "Retain the fourth-reply/eight-point heading U03763 and its following verse. S braces mark transcript presentation; neither the announced count nor a later list authorizes an arithmetic correction.",
+      "source_units": [
+        "U03763",
+        "U03764"
+      ],
+      "exact_conflicts": [
+        "C3-0013",
+        "C3-0014"
+      ],
+      "release_reading": {
+        "U03763": "དྲིས་ལན་བཞི་པ་དོན་བརྒྱད་བསྟན་པ།",
+        "U03764": "མཚན་ཉིད་རྟོགས་པའི་བྱེ་བྲག་ནི། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0009": {
+      "status": "retain_base",
+      "rationale": "At U03780 retain Adzom gdangs rather than S gnas. Record the lexical difference without treating agreement of A/B as proof of an original or silently changing the source to a more expected word.",
+      "source_units": [
+        "U03780"
+      ],
+      "exact_conflicts": [
+        "C3-0015"
+      ],
+      "release_reading": {
+        "U03780": "གདངས་དང་མཐའ་དབུས་མེད་པར་སྟོན། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0010": {
+      "status": "retain_base",
+      "rationale": "Retain the fifth-reply/eight-point heading U03793 before U03794. S bracketing stays in its quotation, with the current heading wording and boundary unchanged.",
+      "source_units": [
+        "U03793",
+        "U03794"
+      ],
+      "exact_conflicts": [
+        "C3-0016",
+        "C3-0017"
+      ],
+      "release_reading": {
+        "U03793": "དྲིས་ལན་ལྔ་པ་དོན་བརྒྱད་བསྟན་པ།",
+        "U03794": "སེམས་ཅན་ཀུན་གྱི་ཐ་དད་རྒྱུ། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0012": {
+      "status": "retain_base",
+      "rationale": "Keep the sixth-reply/eight-point heading U03827 before the main rang bzhin rdzogs pai sequence. Its S braces are not part of the selected Tibetan reading.",
+      "source_units": [
+        "U03827",
+        "U03828"
+      ],
+      "exact_conflicts": [
+        "C3-0022",
+        "C3-0023"
+      ],
+      "release_reading": {
+        "U03827": "དྲིས་ལན་དྲུག་པ་དོན་བརྒྱད་བསྟན་པ།",
+        "U03828": "རང་བཞིན་རྫོགས་པའི་གནས་སྐབས་ནི། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0013": {
+      "status": "retain_base",
+      "rationale": "Keep the seventh-reply/eight-point heading U03859 followed by U03860. Preserve the S bracket convention without merging the label into the following root clause.",
+      "source_units": [
+        "U03859",
+        "U03860"
+      ],
+      "exact_conflicts": [
+        "C3-0024",
+        "C3-0025"
+      ],
+      "release_reading": {
+        "U03859": "དྲིས་ལན་བདུན་པ་དོན་བརྒྱད་བསྟན་པ།",
+        "U03860": "མིང་གི་མཚན་ཉིད་བྱེད་པ་ནི། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0014": {
+      "status": "retain_base",
+      "rationale": "At U03864 retain brda without the B-only final a-chung. The exact B brda-a form remains quoted; no cross-witness spelling normalization is made.",
+      "source_units": [
+        "U03864"
+      ],
+      "exact_conflicts": [
+        "C3-0026"
+      ],
+      "release_reading": {
+        "U03864": "མིང་གི་རྒྱུ་ནི་ཚིག་གི་བརྡ། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0015": {
+      "status": "retain_base",
+      "rationale": "Keep the eighth-reply/seven-point heading U03898 and retain rlung in U03900 rather than the B/S rlu. The shortened comparison form and S braces are recorded without deleting the base final nga.",
+      "source_units": [
+        "U03898",
+        "U03899",
+        "U03900"
+      ],
+      "exact_conflicts": [
+        "C3-0027",
+        "C3-0028",
+        "C3-0029"
+      ],
+      "release_reading": {
+        "U03898": "དྲིས་ལན་བརྒྱད་པ་དོན་བདུན་བསྟན་པ།",
+        "U03899": "སེམས་ཅན་ལས་དང་དབང་པོ་ནི། །",
+        "U03900": "རླུང་དང་ཤེས་པ་ཕྱི་སྣོད་དང་། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0016": {
+      "status": "retain_base",
+      "rationale": "At U03923 retain the exact A leading whitespace and the gsum gsum clause. B/S add a leading shad in this aligned quotation; do not add a base mark by transcript majority without physical-boundary evidence.",
+      "source_units": [
+        "U03923"
+      ],
+      "exact_conflicts": [
+        "C3-0030"
+      ],
+      "release_reading": {
+        "U03923": " དེ་ལས་གསུམ་གསུམ་རབ་ཕྱེ་བས། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0017": {
+      "status": "retain_base",
+      "rationale": "Retain U03929 as the ninth-reply/six-point heading, followed by the U03930 tshig gi jug pa clause. Keep S braces and its additional final shad out of the selected Adzom string.",
+      "source_units": [
+        "U03929",
+        "U03930"
+      ],
+      "exact_conflicts": [
+        "C3-0031",
+        "C3-0032",
+        "C3-0033"
+      ],
+      "release_reading": {
+        "U03929": "དྲིས་ལན་དགུ་པ་ནང་དོན་དྲུག་བསྟན་པ།",
+        "U03930": " ཚིག་གི་འཇུག་པ་འདི་ལྟ་སྟེ།"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0020": {
+      "status": "retain_base",
+      "rationale": "At U03957 retain Adzom tshigs rather than B/S tshig. The final sa is a recorded source distinction, not a spelling to regularize from the surrounding discussion of words.",
+      "source_units": [
+        "U03957"
+      ],
+      "exact_conflicts": [
+        "C3-0046"
+      ],
+      "release_reading": {
+        "U03957": "ཚིགས་ལས་དབང་སྟེ་སྨྲ་བའི་རྒྱལ། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0021": {
+      "status": "retain_base",
+      "rationale": "Keep U03959 as the tenth-reply/nine-point heading, separate from blo dang shes pa in U03960. S bracketing supplies no new lexical correction.",
+      "source_units": [
+        "U03959",
+        "U03960"
+      ],
+      "exact_conflicts": [
+        "C3-0047",
+        "C3-0048"
+      ],
+      "release_reading": {
+        "U03959": "དྲིས་ལན་བཅུ་པ་ནང་དོན་དགུ་བསྟན་པའོ། །",
+        "U03960": "བློ་དང་ཤེས་པ་ཞེས་བྱ་བ། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0022": {
+      "status": "retain_base",
+      "rationale": "At U03966 retain the inherited single ending shad. B doubles it but A/S do not; this unverified physical boundary is not normalized from the B transcript.",
+      "source_units": [
+        "U03966"
+      ],
+      "exact_conflicts": [
+        "C3-0049"
+      ],
+      "release_reading": {
+        "U03966": "ཡིད་ནི་ངོ་བོ་ངེས་ཚིག་དང་།"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0024": {
+      "status": "retain_base",
+      "rationale": "Retain the eleventh-reply heading U03984 followed by U03985. S braces remain comparison markup, not root Tibetan or a new source annotation to insert.",
+      "source_units": [
+        "U03984",
+        "U03985"
+      ],
+      "exact_conflicts": [
+        "C3-0052",
+        "C3-0053"
+      ],
+      "release_reading": {
+        "U03984": "དྲིས་ལན་བཅུ་གཅིག་པ།",
+        "U03985": "དེ་ལྟར་སྣང་ཆའི་བྱེད་པ་ལས། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0025": {
+      "status": "retain_base",
+      "rationale": "Keep the twelfth-reply heading U03997 separate from the ngo bo ka dag ye shes clause. The S bracket pair does not alter the negative and affirmative wording of the ensuing reply.",
+      "source_units": [
+        "U03997",
+        "U03998"
+      ],
+      "exact_conflicts": [
+        "C3-0054",
+        "C3-0055"
+      ],
+      "release_reading": {
+        "U03997": "དྲིས་ལན་བཅུ་གཉིས་པ།",
+        "U03998": "ངོ་བོ་ཀ་དག་ཡེ་ཤེས་ལས། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0026": {
+      "status": "retain_base",
+      "rationale": "At U04010 retain the single rags form; B additionally repeats rag before it. Quote B exactly without adding the repetition or asserting how its printed exemplar arose.",
+      "source_units": [
+        "U04010"
+      ],
+      "exact_conflicts": [
+        "C3-0056"
+      ],
+      "release_reading": {
+        "U04010": "ཡུལ་རྐྱེན་རགས་པ་རང་ཟད་པའོ། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0027": {
+      "status": "retain_base",
+      "rationale": "Retain U04014 as the thirteenth-reply heading followed by U04015. The S-only braces neither add a word nor authorize a change to the spontaneous-presence phrase.",
+      "source_units": [
+        "U04014",
+        "U04015"
+      ],
+      "exact_conflicts": [
+        "C3-0057",
+        "C3-0058"
+      ],
+      "release_reading": {
+        "U04014": "དྲིས་ལན་བཅུ་གསུམ་པ།",
+        "U04015": "རང་བཞིན་ལྷུན་གྲུབ་ཡེ་ཤེས་ཞེས། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0028": {
+      "status": "retain_base",
+      "rationale": "Keep the fourteenth-reply heading U04030 preceding U04031. S bracketing is a presentation distinction, not another verse or evidence of physical punctuation agreement.",
+      "source_units": [
+        "U04030",
+        "U04031"
+      ],
+      "exact_conflicts": [
+        "C3-0059",
+        "C3-0060"
+      ],
+      "release_reading": {
+        "U04030": "དྲིས་ལན་བཅུ་བཞི་པ།",
+        "U04031": "ཐུགས་རྗེ་ཀུན་ཁྱབ་ཡེ་ཤེས་ལས། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0029": {
+      "status": "retain_base",
+      "rationale": "At U04036 retain thugs rather than B shugs. Preserve the letter difference explicitly; neither semantic preference nor A/S agreement is used to reconstruct an authorial original.",
+      "source_units": [
+        "U04036"
+      ],
+      "exact_conflicts": [
+        "C3-0061"
+      ],
+      "release_reading": {
+        "U04036": "ཐུགས་ཀྱིས་སེམས་ཅན་རྣམས་ལ་འཆར། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0030": {
+      "status": "retain_base",
+      "rationale": "Preserve the U04038 initial A space in the source and machine records. B/S start directly with mkhyen; the visible reading may trim only outer whitespace under the declared display convention.",
+      "source_units": [
+        "U04038"
+      ],
+      "exact_conflicts": [
+        "C3-0062"
+      ],
+      "release_reading": {
+        "U04038": " མཁྱེན་པས་རིག་ཅིང་གསལ་བའོ། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0031": {
+      "status": "retain_base",
+      "rationale": "Keep U04046 as the fifteenth-reply heading, then U04047. S braces do not supply a new base sign, verse or correction.",
+      "source_units": [
+        "U04046",
+        "U04047"
+      ],
+      "exact_conflicts": [
+        "C3-0063",
+        "C3-0064"
+      ],
+      "release_reading": {
+        "U04046": "དྲིས་ལན་བཅོ་ལྔ་པ།",
+        "U04047": "དེ་ལས་མཚན་ཉིད་འཛིན་པ་ཡི། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0032": {
+      "status": "retain_base",
+      "rationale": "Keep U04058 as the sixteenth-reply heading before U04059. Preserve the exact S heading markup only in the apparatus.",
+      "source_units": [
+        "U04058",
+        "U04059"
+      ],
+      "exact_conflicts": [
+        "C3-0065",
+        "C3-0066"
+      ],
+      "release_reading": {
+        "U04058": "དྲིས་ལན་བཅུ་དྲུག་པ།",
+        "U04059": "མཉམ་པ་ཉིད་ཅེས་བྱ་བ་ནི། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0033": {
+      "status": "retain_base",
+      "rationale": "Retain U04072 as the seventeenth-reply heading and retain so sor rtogs in U04073 as supplied. S braces do not justify regularizing the named expression or altering its final letters.",
+      "source_units": [
+        "U04072",
+        "U04073"
+      ],
+      "exact_conflicts": [
+        "C3-0067",
+        "C3-0068"
+      ],
+      "release_reading": {
+        "U04072": "དྲིས་ལན་བཅུ་བདུན་པ།",
+        "U04073": "སོ་སོར་རྟོགས་པ་དབང་པོའི་རིགས། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0034": {
+      "status": "retain_base",
+      "rationale": "Keep U04084 as the eighteenth-reply heading before U04085. The common heading words are preserved without asserting that every physical witness was inspected.",
+      "source_units": [
+        "U04084",
+        "U04085"
+      ],
+      "exact_conflicts": [
+        "C3-0069",
+        "C3-0070"
+      ],
+      "release_reading": {
+        "U04084": "དྲིས་ལན་བཅོ་བརྒྱད་པ།",
+        "U04085": "བྱ་བ་གྲུབ་པ་ཞེས་བྱ་བ། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0035": {
+      "status": "retain_base",
+      "rationale": "Retain the nineteenth-reply heading U04099 and all following wording. Preserve the internal A space after dbus su at U04101 and the S bracket convention separately; no main lexical change is adopted.",
+      "source_units": [
+        "U04099",
+        "U04100",
+        "U04101"
+      ],
+      "exact_conflicts": [
+        "C3-0071",
+        "C3-0072",
+        "C3-0073"
+      ],
+      "release_reading": {
+        "U04099": "དྲིས་ལན་བཅུ་དགུ་པ།",
+        "U04100": " ཆོས་ཀྱི་དབྱིངས་ནི་ཡངས་པ་ལ། །",
+        "U04101": "མཐའ་དང་དབུས་སུ་ མི་དམིགས་པས། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0036": {
+      "status": "retain_base",
+      "rationale": "Keep U04112 as the twentieth-reply heading before shes pas bsdus pai ye shes. S braces are only transcript presentation and do not change the subject of the main clause.",
+      "source_units": [
+        "U04112",
+        "U04113"
+      ],
+      "exact_conflicts": [
+        "C3-0074",
+        "C3-0075"
+      ],
+      "release_reading": {
+        "U04112": "དྲིས་ལན་ཉི་ཤུ་པ།",
+        "U04113": "ཤེས་པས་བསྡུས་པའི་ཡེ་ཤེས་ནི། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0037": {
+      "status": "retain_base",
+      "rationale": "Keep the full twenty-first-reply label U04130 and the ensuing shes byas bsdus pai clause. Do not simplify the number or alter the spelling because of S markup.",
+      "source_units": [
+        "U04130",
+        "U04131"
+      ],
+      "exact_conflicts": [
+        "C3-0076",
+        "C3-0077"
+      ],
+      "release_reading": {
+        "U04130": "དྲིས་ལན་ཉི་ཤུ་རྩ་གཅིག་པ།",
+        "U04131": " ཤེས་བྱས་བསྡུས་པའི་ཡེ་ཤེས་ནི། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0038": {
+      "status": "retain_base",
+      "rationale": "Retain U04143 as the twenty-second-reply heading, followed by ji lta mkhyen pai ye shes bshad. The S braces remain absent from the selected base.",
+      "source_units": [
+        "U04143",
+        "U04144"
+      ],
+      "exact_conflicts": [
+        "C3-0078",
+        "C3-0079"
+      ],
+      "release_reading": {
+        "U04143": "དྲིས་ལན་ཉེར་གཉིས་པ།",
+        "U04144": "ཇི་ལྟ་མཁྱེན་པའི་ཡེ་ཤེས་བཤད། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0039": {
+      "status": "retain_base",
+      "rationale": "Keep U04156 as the twenty-third-reply heading before the ye shes rnams kyi bsdom pa clause. S braces do not change the heading/main distinction.",
+      "source_units": [
+        "U04156",
+        "U04157"
+      ],
+      "exact_conflicts": [
+        "C3-0080",
+        "C3-0081"
+      ],
+      "release_reading": {
+        "U04156": "དྲིས་ལན་ཉེར་གསུམ་པ།",
+        "U04157": "ཡེ་ཤེས་རྣམས་ཀྱི་བསྡོམ་པ་ནི། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0040": {
+      "status": "retain_base",
+      "rationale": "At U04163 retain the Adzom leading-space representation rather than importing the B/S initial shad. Preserve gzhi dang snying po me tog gis with no speculative punctuation or semantic rewriting.",
+      "source_units": [
+        "U04163"
+      ],
+      "exact_conflicts": [
+        "C3-0082"
+      ],
+      "release_reading": {
+        "U04163": " གཞི་དང་སྙིང་པོ་མེ་ཏོག་གིས། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/source-units.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
     }
   },
   "W": {},
@@ -322,6 +1025,21 @@
       ],
       "units": [
         "U03976"
+      ]
+    },
+    "C3-END": {
+      "status": "reviewed_with_stated_limits",
+      "rationale": "The chapter-closing ye shes bkod pa snang bai rtsa ba ... gsum pao follows the general tantra colophon and is followed by a compact graphic and the next larger de nas lha dbang clause. The following ston pa khyab bdag wording distinguishes the Chapter4 opening. Preserve the Chapter3 ending without importing the B transcript foreign-form formula.",
+      "evidence": [
+        "diplomatic/chapter-03-v1/evidence/E03/p163-native.png",
+        "diplomatic/chapter-03-v1/evidence/E03/manifest.json",
+        "diplomatic/chapter-03-v1/evidence/E03/p163-x0000.png",
+        "diplomatic/chapter-03-v1/evidence/E03/p163-x1848.png",
+        "diplomatic/chapter-03-v1/evidence/E03/p163-x3696.png"
+      ],
+      "units": [
+        "U04304",
+        "U04305"
       ]
     }
   },

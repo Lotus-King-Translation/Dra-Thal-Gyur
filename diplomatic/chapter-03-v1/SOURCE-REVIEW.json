@@ -295,6 +295,66 @@
         "diplomatic/chapter-03-v1/evidence/focused/U03976-main-note.png"
       ],
       "reader": "ChatGPT coordinator; candidate text known before direct native-image inspection; not independent human certification"
+    },
+    {
+      "id": "C3-END",
+      "units": [
+        "U04304",
+        "U04305"
+      ],
+      "pdf_page": 163,
+      "physical_row": "2–3",
+      "approx_native_bounds": [
+        [
+          4130,
+          405,
+          5140,
+          565
+        ],
+        [
+          700,
+          520,
+          4530,
+          670
+        ]
+      ],
+      "observed_sequence": {
+        "colophon": " ཡེ་ཤེས་བཀོད་པ་སྣང་བའི་རྩ་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་གསུམ་པའོ།། །།",
+        "following_context": "དེ་ནས་ལྷ་དབང་དགའ་བྱེད་ཀྱིས / སྟོན་པ་ཁྱབ་བདག"
+      },
+      "rationale": "The chapter-closing ye shes bkod pa snang bai rtsa ba ... gsum pao follows the general tantra colophon and is followed by a compact graphic and the next larger de nas lha dbang clause. The following ston pa khyab bdag wording distinguishes the Chapter4 opening. Preserve the Chapter3 ending without importing the B transcript foreign-form formula.",
+      "remaining_uncertainty": "The compact boundary graphic is not fully deciphered, and the exact physical allocation of closing shads is not certified. Retain the supplied colophon punctuation with a visible qualification; record the graphic separately without conjectural wording.",
+      "evidence": [
+        "diplomatic/chapter-03-v1/evidence/E03/p163-native.png",
+        "diplomatic/chapter-03-v1/evidence/E03/manifest.json",
+        "diplomatic/chapter-03-v1/evidence/E03/p163-x0000.png",
+        "diplomatic/chapter-03-v1/evidence/E03/p163-x1848.png",
+        "diplomatic/chapter-03-v1/evidence/E03/p163-x3696.png"
+      ],
+      "reader": "ChatGPT coordinator; candidate text known before direct native-image inspection; not independent human certification",
+      "transition_graphic": {
+        "id": "C3-TRANSITION",
+        "reading": null,
+        "not_main_verse": true,
+        "after_unit": "U04305",
+        "before_unit": "U04306",
+        "pdf_page": 163,
+        "physical_row": 3,
+        "approx_native_bounds": [
+          3250,
+          530,
+          3690,
+          675
+        ],
+        "evidence": [
+          "diplomatic/chapter-03-v1/evidence/E03/p163-native.png",
+          "diplomatic/chapter-03-v1/evidence/E03/manifest.json",
+          "diplomatic/chapter-03-v1/evidence/E03/p163-x0000.png",
+          "diplomatic/chapter-03-v1/evidence/E03/p163-x1848.png",
+          "diplomatic/chapter-03-v1/evidence/E03/p163-x3696.png"
+        ],
+        "status": "Compact source graphic retained as unresolved; not supplied from B."
+      }
     }
   ]
 }
