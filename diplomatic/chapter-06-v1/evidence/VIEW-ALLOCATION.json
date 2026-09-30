@@ -1,0 +1,15 @@
+{
+  "accepted": [
+    "evidence/focused/U05248-rtsa-la-context.png",
+    "evidence/focused/C6-opening-context.png",
+    "evidence/focused/U05225-heading-context.png",
+    "evidence/focused/S01-two-verses.png",
+    "evidence/focused/U05411-dang-context.png",
+    "evidence/focused/U05398-full-height.png"
+  ],
+  "excluded": {
+    "evidence/focused/U05398-result-clause.png": "Clipped target line; use full-height crop.",
+    "evidence/focused/U05260-junction-context.png": "Partial junction context only; use native full-page and tiles for disposition."
+  },
+  "rule": "Excluded focused files remain preserved but must not support an accepted correction or source disposition."
+}

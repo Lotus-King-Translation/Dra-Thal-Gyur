@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "A2000-C06-S01",
+    "kind": "main_text_restoration",
+    "after_unit": "U05382",
+    "before_unit": "U05383",
+    "anchor_sequence": 1,
+    "tibetan_lines": [
+      "ཏོག་དང་སིང་བས་སྣ་ཚོགས་ལས།",
+      "འུར་ཞིང་སིང་བས་མཆོག་ཐོབ་པའོ།"
+    ],
+    "rationale": "Native PDF202 row1 contains both main verses between the exact surviving flanks. B/S/W also record the material; adoption rests on the governing scan.",
+    "remaining_uncertainty": "Sound-word meanings and physical punctuation are not normalized.",
+    "punctuation_policy": "Editorial single shad per restored verse and editorial reading line breaks.",
+    "source_check": "C6-RESTORE-05382",
+    "evidence": [
+      "diplomatic/chapter-06-v1/evidence/E02/p202-native.png",
+      "diplomatic/chapter-06-v1/evidence/E02/p202-x1848.png",
+      "diplomatic/chapter-06-v1/evidence/E02/p202-x3696.png",
+      "diplomatic/chapter-06-v1/evidence/focused/S01-two-verses.png"
+    ]
+  }
+]

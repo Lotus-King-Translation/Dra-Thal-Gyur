@@ -83,6 +83,161 @@
         "diplomatic/chapter-06-v1/evidence/E01/p199-x0000.png"
       ],
       "review_method": "Direct coordinator inspection of native page context and unscaled crops; candidates known. Not an independent human palaeographic certification."
+    },
+    {
+      "id": "C6-RESTORE-05382",
+      "units": [
+        "U05382",
+        "U05383"
+      ],
+      "pdf_page": 202,
+      "physical_row": 1,
+      "observed_sequence": "ཏོག་དང་སིང་བས་སྣ་ཚོགས་ལས ... འུར་ཞིང་སིང་བས་མཆོག་ཐོབ་པའོ",
+      "rationale": "Two larger-letter main verses follow the shag/sdig line before the next wind paragraph. Restore them after U05382 and before U05383.",
+      "remaining_uncertainty": "Single-shad verse delimiters and line breaks in the restoration are editorial, not an exact physical sign inventory. Acoustic meanings remain uninterpreted.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p202-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p202-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p202-x3696.png",
+        "diplomatic/chapter-06-v1/evidence/focused/S01-two-verses.png"
+      ],
+      "review_method": "Direct coordinator inspection of native page context and unscaled crops; candidates known. Not an independent human palaeographic certification."
+    },
+    {
+      "id": "C6-READING-05398",
+      "units": [
+        "U05398"
+      ],
+      "pdf_page": 202,
+      "physical_row": 5,
+      "observed_sequence": "ལོངས་སྐུ་དག་གིས་རྣམ་པར་ཐོབ། །",
+      "rationale": "Inspect the result clause in its physical row. Retain supplied dag gis rather than silently filling W ngag gis by parallelism.",
+      "remaining_uncertainty": "The compact dag/ngag group remains qualified; no inferred voice term is inserted.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p202-native.png",
+        "diplomatic/chapter-06-v1/evidence/focused/U05398-full-height.png"
+      ],
+      "review_method": "Direct coordinator inspection of native page context and unscaled crops; candidates known. Not an independent human palaeographic certification."
+    },
+    {
+      "id": "C6-READING-05411",
+      "units": [
+        "U05411"
+      ],
+      "pdf_page": 203,
+      "physical_row": 2,
+      "observed_sequence": "དང་ཤེས་པས་ནི་མི་རྟོག་སྐྱེ། །",
+      "rationale": "The target clause is located after ngo bo shes pas stong par dag and before bdag nyid chen po. Preserve dang and the negative mi rtog.",
+      "remaining_uncertainty": "Heavy ink and the function of dang remain qualified; no clarity/radiance wording is conjectured.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p203-native.png",
+        "diplomatic/chapter-06-v1/evidence/focused/U05411-dang-context.png"
+      ],
+      "review_method": "Direct coordinator inspection of native page context and unscaled crops; candidates known. Not an independent human palaeographic certification."
+    },
+    {
+      "id": "C6-END",
+      "units": [
+        "U05447",
+        "U05448"
+      ],
+      "pdf_page": 204,
+      "physical_row": 4,
+      "observed_sequence": "སྐུ་རྣམ་པར་བཀོད་པ ... ལེའུ་དྲུག་པའོ ... རིན་པོ་ཆེ་འབྱུང་བར",
+      "rationale": "The sixth-chapter colophon precedes a distinct full-work closing title. Separate the chapter and closing material without renumbering anchors.",
+      "remaining_uncertainty": "Retain supplied colophon delimiters with explicit uncertainty about exact physical spacing and sign allocation. No additional undecoded transition object is invented here.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p204-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x3696.png"
+      ],
+      "review_method": "Direct coordinator inspection of native page context and unscaled crops; candidates known. Not an independent human palaeographic certification."
+    },
+    {
+      "id": "C6-CLOSING-TITLE",
+      "units": [
+        "U05449",
+        "U05450",
+        "U05451"
+      ],
+      "pdf_page": 204,
+      "physical_row": "4–6",
+      "observed_sequence": "རིན་པོ་ཆེ་འབྱུང་བར་བྱེད་པ ... ཤོ་ལོ་ཀ་འབུམ་ཕྲག་དྲུག་ཅུ་རྩ་བཞི ... རྫོགས་སོ",
+      "rationale": "Preserve the full title and its concluding count statement as work-colophon text, distinct from root verses.",
+      "remaining_uncertainty": "The count is a claim within the source, not a measured size of this edition. Physical signs are not globally certified.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p204-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x0000.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x3696.png"
+      ],
+      "review_method": "Direct coordinator inspection of native page context and unscaled crops; candidates known. Not an independent human palaeographic certification."
+    },
+    {
+      "id": "C6-CLOSING-SEALS",
+      "units": [
+        "U05452",
+        "U05453",
+        "U05454",
+        "U05455",
+        "U05456"
+      ],
+      "pdf_page": 204,
+      "physical_row": "6; continuation PDF205 row1",
+      "observed_sequence": "རྒྱ་རྒྱ་རྒྱ ... རྒྱ་རྒྱ་རྒྱ ... རྒྱ་རྒྱ་རྒྱ ... རྒྱུད་ཀྱི་རྒྱལ་པོ་འདི་ནི ... མ་ཡིན་ནོ",
+      "rationale": "Keep all three triple-seal groups, then the recipient restriction. U05456 crosses the page turn and finishes yin no on PDF205.",
+      "remaining_uncertainty": "Repeated seals are not collapsed. Their ornamental glyph shapes and precise spacing are represented by images rather than claimed facsimile Unicode.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p204-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x3696.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x0000.png"
+      ],
+      "review_method": "Direct coordinator inspection of native page context and unscaled crops; candidates known. Not an independent human palaeographic certification."
+    },
+    {
+      "id": "C6-CLOSING-INVOCATION",
+      "units": [
+        "U05457",
+        "U05458",
+        "U05459",
+        "U05460",
+        "U05461",
+        "U05462",
+        "U05463",
+        "U05464"
+      ],
+      "pdf_page": 205,
+      "physical_row": "1–2",
+      "observed_sequence": "དཔལ་སྔགས་སྲུང ... སྲུངས་ཤིག ... ས་མ་ཡ ... སོ་ཕག ... ཨག་ཐམ ... ས་མ་ཡ ... རྒྱ་རྒྱ་རྒྱ",
+      "rationale": "Preserve the queen/protector invocations, recipient warning and ritual syllables as closing material, not new root verses or an editorial instruction to the reader.",
+      "remaining_uncertainty": "The so phag / ag tham ritual strings retain transcription and segmentation uncertainty. No Sanskrit reconstruction or additional deity identification is supplied.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p205-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x0000.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x3696.png"
+      ],
+      "review_method": "Direct coordinator inspection of native page context and unscaled crops; candidates known. Not an independent human palaeographic certification."
+    },
+    {
+      "id": "C6-CLOSING-TAIL",
+      "units": [
+        "U05465",
+        "U05466"
+      ],
+      "pdf_page": 205,
+      "physical_row": "2–3",
+      "observed_sequence": "ཐལ་འགྱུར་རྒྱུད་ལ་མ་བུ་བདུན ... དགེའོ ... དགེའོ ... དགེའོ",
+      "rationale": "The family notice is followed by three virtue formulas, the third at the short third row. Preserve all three; the rest of the text panel is blank and this is the last manifest page.",
+      "remaining_uncertainty": "The seven mother-and-child referents are not identified conjecturally. B/S absence of the virtue words is an electronic difference, not a reason to delete Adzom text.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p205-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x0000.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x3696.png"
+      ],
+      "review_method": "Direct coordinator inspection of native page context and unscaled crops; candidates known. Not an independent human palaeographic certification."
     }
   ]
 }

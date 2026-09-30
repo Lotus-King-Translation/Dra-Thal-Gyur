@@ -60,6 +60,46 @@
       "uncertain_units": [
         "U05309"
       ]
+    },
+    "L6-0011": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Restore both scan-attested main verses after U05382 and before U05383. B/S retain their own exact punctuation in the apparatus.",
+      "source_units": [
+        "U05382"
+      ],
+      "exact_conflicts": [
+        "C6-0018",
+        "C6-0019"
+      ],
+      "release_reading": {
+        "U05382": "སྒྲ་ནི་ཤག་དང་སྡིག་པ་དང༌། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-06-v1/collation.json",
+        "diplomatic/chapter-06-v1/SOURCE-REVIEW.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": [
+        "A2000-C06-S01"
+      ]
+    },
+    "L6-0013": {
+      "status": "retain_base",
+      "rationale": "Retain all three Adzom virtue formulas. They are visible in PDF205 rows2–3; B/S give only closing signs here, not an authoritative deletion.",
+      "source_units": [
+        "U05466"
+      ],
+      "exact_conflicts": [
+        "C6-0021"
+      ],
+      "release_reading": {
+        "U05466": " དགེའོ་དགེའོ་དགེའོ།།"
+      },
+      "evidence": [
+        "diplomatic/chapter-06-v1/collation.json",
+        "diplomatic/chapter-06-v1/SOURCE-REVIEW.json"
+      ],
+      "uncertain_units": []
     }
   },
   "W": {},
@@ -105,8 +145,318 @@
         "diplomatic/chapter-06-v1/evidence/E01/p199-x3696.png",
         "diplomatic/chapter-06-v1/evidence/E01/p199-x0000.png"
       ]
+    },
+    "C6-RESTORE-05382": {
+      "status": "dispositioned_for_bounded_v1",
+      "rationale": "Two larger-letter main verses follow the shag/sdig line before the next wind paragraph. Restore them after U05382 and before U05383. Single-shad verse delimiters and line breaks in the restoration are editorial, not an exact physical sign inventory. Acoustic meanings remain uninterpreted.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p202-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p202-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p202-x3696.png",
+        "diplomatic/chapter-06-v1/evidence/focused/S01-two-verses.png"
+      ]
+    },
+    "C6-READING-05398": {
+      "status": "dispositioned_for_bounded_v1",
+      "rationale": "Inspect the result clause in its physical row. Retain supplied dag gis rather than silently filling W ngag gis by parallelism. The compact dag/ngag group remains qualified; no inferred voice term is inserted.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p202-native.png",
+        "diplomatic/chapter-06-v1/evidence/focused/U05398-full-height.png"
+      ]
+    },
+    "C6-READING-05411": {
+      "status": "dispositioned_for_bounded_v1",
+      "rationale": "The target clause is located after ngo bo shes pas stong par dag and before bdag nyid chen po. Preserve dang and the negative mi rtog. Heavy ink and the function of dang remain qualified; no clarity/radiance wording is conjectured.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p203-native.png",
+        "diplomatic/chapter-06-v1/evidence/focused/U05411-dang-context.png"
+      ]
+    },
+    "C6-END": {
+      "status": "dispositioned_for_bounded_v1",
+      "rationale": "The sixth-chapter colophon precedes a distinct full-work closing title. Separate the chapter and closing material without renumbering anchors. Retain supplied colophon delimiters with explicit uncertainty about exact physical spacing and sign allocation. No additional undecoded transition object is invented here.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p204-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x3696.png"
+      ]
+    },
+    "C6-CLOSING-TITLE": {
+      "status": "dispositioned_for_bounded_v1",
+      "rationale": "Preserve the full title and its concluding count statement as work-colophon text, distinct from root verses. The count is a claim within the source, not a measured size of this edition. Physical signs are not globally certified.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p204-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x0000.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x3696.png"
+      ]
+    },
+    "C6-CLOSING-SEALS": {
+      "status": "dispositioned_for_bounded_v1",
+      "rationale": "Keep all three triple-seal groups, then the recipient restriction. U05456 crosses the page turn and finishes yin no on PDF205. Repeated seals are not collapsed. Their ornamental glyph shapes and precise spacing are represented by images rather than claimed facsimile Unicode.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p204-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x3696.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x0000.png"
+      ]
+    },
+    "C6-CLOSING-INVOCATION": {
+      "status": "dispositioned_for_bounded_v1",
+      "rationale": "Preserve the queen/protector invocations, recipient warning and ritual syllables as closing material, not new root verses or an editorial instruction to the reader. The so phag / ag tham ritual strings retain transcription and segmentation uncertainty. No Sanskrit reconstruction or additional deity identification is supplied.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p205-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x0000.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x3696.png"
+      ]
+    },
+    "C6-CLOSING-TAIL": {
+      "status": "dispositioned_for_bounded_v1",
+      "rationale": "The family notice is followed by three virtue formulas, the third at the short third row. Preserve all three; the rest of the text panel is blank and this is the last manifest page. The seven mother-and-child referents are not identified conjecturally. B/S absence of the virtue words is an electronic difference, not a reason to delete Adzom text.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p205-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x0000.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x3696.png"
+      ]
     }
   },
-  "closing_units": {},
+  "closing_units": {
+    "U05449": {
+      "status": "retain_source",
+      "role": "work_colophon",
+      "source_tibetan": "རིན་པོ་ཆེ་འབྱུང་བར་བྱེད་པ།",
+      "selected_tibetan": "རིན་པོ་ཆེ་འབྱུང་བར་བྱེད་པ།",
+      "rationale": "Retain rin po che opening as part of the work colophon, not a seventh chapter.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p204-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x0000.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x3696.png"
+      ]
+    },
+    "U05450": {
+      "status": "retain_source",
+      "role": "work_colophon",
+      "source_tibetan": " སྒྲ་ཐལ་འགྱུར་ཆེན་པོ་ཆོས་རྣམས་ཀུན་གྱི་རྩ་བར་བསྟན་པའི་རྒྱུད་ཅེས་བྱ་བ།",
+      "selected_tibetan": " སྒྲ་ཐལ་འགྱུར་ཆེན་པོ་ཆོས་རྣམས་ཀུན་གྱི་རྩ་བར་བསྟན་པའི་རྒྱུད་ཅེས་བྱ་བ།",
+      "rationale": "Retain the complete closing work title, including rtsa bar bstan pa.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p204-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x0000.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x3696.png"
+      ]
+    },
+    "U05451": {
+      "status": "retain_source",
+      "role": "work_colophon",
+      "source_tibetan": " རང་བཞིན་རྫོགས་པ་ཆེན་པོ་ཤོ་ལོ་ཀ་འབུམ་ཕྲག་དྲུག་ཅུ་རྩ་བཞི་ལས་ཁྱད་པར་དུ་བཀོད་པ་རྫོགས་སོ།། །།",
+      "selected_tibetan": " རང་བཞིན་རྫོགས་པ་ཆེན་པོ་ཤོ་ལོ་ཀ་འབུམ་ཕྲག་དྲུག་ཅུ་རྩ་བཞི་ལས་ཁྱད་པར་དུ་བཀོད་པ་རྫོགས་སོ།། །།",
+      "rationale": "Retain all words of the concluding count statement and rdzogs so; do not turn the count into a modern catalogue assertion.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p204-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x0000.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x3696.png"
+      ]
+    },
+    "U05452": {
+      "status": "retain_source",
+      "role": "seal",
+      "source_tibetan": "རྒྱ་རྒྱ་རྒྱ།",
+      "selected_tibetan": "རྒྱ་རྒྱ་རྒྱ།",
+      "rationale": "Retain the first triple rgya seal group.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p204-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x3696.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x0000.png"
+      ]
+    },
+    "U05453": {
+      "status": "retain_source",
+      "role": "seal",
+      "source_tibetan": " རྒྱ་རྒྱ་རྒྱ།",
+      "selected_tibetan": " རྒྱ་རྒྱ་རྒྱ།",
+      "rationale": "Retain the second triple rgya seal group without deduplication.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p204-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x3696.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x0000.png"
+      ]
+    },
+    "U05454": {
+      "status": "retain_source",
+      "role": "seal",
+      "source_tibetan": " རྒྱ་རྒྱ་རྒྱ།",
+      "selected_tibetan": " རྒྱ་རྒྱ་རྒྱ།",
+      "rationale": "Retain the third triple rgya seal group without deduplication.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p204-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x3696.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x0000.png"
+      ]
+    },
+    "U05455": {
+      "status": "retain_source",
+      "role": "transmission_restriction",
+      "source_tibetan": " རྒྱུད་ཀྱི་རྒྱལ་པོ་འདི་ནི།",
+      "selected_tibetan": " རྒྱུད་ཀྱི་རྒྱལ་པོ་འདི་ནི།",
+      "rationale": "Retain the introductory phrase of the recipient restriction.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p204-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x3696.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x0000.png"
+      ]
+    },
+    "U05456": {
+      "status": "retain_source",
+      "role": "transmission_restriction",
+      "source_tibetan": " འགྲོ་བ་ཁྱད་པར་ཅན་ལ་མ་གཏོགས་པ་སུ་དགའ་དགའ་ལ་ཡོད་པ་མ་ཡིན་ནོ། །",
+      "selected_tibetan": " འགྲོ་བ་ཁྱད་པར་ཅན་ལ་མ་གཏོགས་པ་སུ་དགའ་དགའ་ལ་ཡོད་པ་མ་ཡིན་ནོ། །",
+      "rationale": "Retain the full recipient restriction across the PDF204/205 page turn.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p204-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p204-x3696.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x0000.png"
+      ]
+    },
+    "U05457": {
+      "status": "retain_source",
+      "role": "protector_invocation",
+      "source_tibetan": "དཔལ་སྔགས་སྲུང་གི་རྒྱལ་མོ་སྨུག་ནག་ཁྲོས་མའི་རྒྱལ་མོ་རག་གདོང་མས་སྲུངས་ཤིག །",
+      "selected_tibetan": "དཔལ་སྔགས་སྲུང་གི་རྒྱལ་མོ་སྨུག་ནག་ཁྲོས་མའི་རྒྱལ་མོ་རག་གདོང་མས་སྲུངས་ཤིག །",
+      "rationale": "Retain the invocation and its printed epithets without importing deity names.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p205-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x0000.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x3696.png"
+      ]
+    },
+    "U05458": {
+      "status": "retain_source",
+      "role": "ritual_formula",
+      "source_tibetan": "ས་མ་ཡ།",
+      "selected_tibetan": "ས་མ་ཡ།",
+      "rationale": "Retain the first sa ma ya formula as separate ritual text.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p205-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x0000.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x3696.png"
+      ]
+    },
+    "U05459": {
+      "status": "retain_with_explicit_uncertainty",
+      "role": "ritual_formula",
+      "source_tibetan": " སོ་ཕག །",
+      "selected_tibetan": " སོ་ཕག །",
+      "rationale": "Retain so phag with a visible reading/interpretation qualification.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p205-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x0000.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x3696.png"
+      ]
+    },
+    "U05460": {
+      "status": "retain_with_explicit_uncertainty",
+      "role": "ritual_formula",
+      "source_tibetan": "ཨག་ཐམ།",
+      "selected_tibetan": "ཨག་ཐམ།",
+      "rationale": "Retain ag tham with a visible segmentation qualification; W a ga tha ma is separately recorded.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p205-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x0000.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x3696.png"
+      ]
+    },
+    "U05461": {
+      "status": "retain_source",
+      "role": "protector_invocation",
+      "source_tibetan": " དཔལ་ལྡན་མགོན་པོ་ནག་པོ་ཁྱོད་ལ་གཏད།",
+      "selected_tibetan": " དཔལ་ལྡན་མགོན་པོ་ནག་པོ་ཁྱོད་ལ་གཏད།",
+      "rationale": "Retain the address to the black protector as source invocation text.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p205-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x0000.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x3696.png"
+      ]
+    },
+    "U05462": {
+      "status": "retain_source",
+      "role": "protector_invocation",
+      "source_tibetan": " སྣོད་མེད་པ་ལ་བྱིན་ན་དམ་ཚིག་གི་ཆད་པ་ཆོད་ཅིག །",
+      "selected_tibetan": " སྣོད་མེད་པ་ལ་བྱིན་ན་དམ་ཚིག་གི་ཆད་པ་ཆོད་ཅིག །",
+      "rationale": "Retain the recipient-warning clause as historical source text, not an editorial threat.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p205-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x0000.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x3696.png"
+      ]
+    },
+    "U05463": {
+      "status": "retain_source",
+      "role": "ritual_formula",
+      "source_tibetan": "ས་མ་ཡ།",
+      "selected_tibetan": "ས་མ་ཡ།",
+      "rationale": "Retain the second sa ma ya formula without merging it with U05458.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p205-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x0000.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x3696.png"
+      ]
+    },
+    "U05464": {
+      "status": "retain_source",
+      "role": "seal",
+      "source_tibetan": " རྒྱ་རྒྱ་རྒྱ།",
+      "selected_tibetan": " རྒྱ་རྒྱ་རྒྱ།",
+      "rationale": "Retain the final triple rgya seal group.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p205-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x0000.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x3696.png"
+      ]
+    },
+    "U05465": {
+      "status": "retain_source",
+      "role": "concluding_note",
+      "source_tibetan": " ཐལ་འགྱུར་རྒྱུད་ལ་མ་བུ་བདུན།།",
+      "selected_tibetan": " ཐལ་འགྱུར་རྒྱུད་ལ་མ་བུ་བདུན།།",
+      "rationale": "Retain the seven mother-and-child notice without inventing the seven titles.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p205-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x0000.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x3696.png"
+      ]
+    },
+    "U05466": {
+      "status": "retain_source",
+      "role": "closing_auspicious_formula",
+      "source_tibetan": " དགེའོ་དགེའོ་དགེའོ།།",
+      "selected_tibetan": " དགེའོ་དགེའོ་དགེའོ།།",
+      "rationale": "Retain all three dge-o formulas, visible across rows2–3 despite absence of their words in B/S.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E02/p205-native.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x0000.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E02/p205-x3696.png"
+      ]
+    }
+  },
   "final_signoff": null
 }
