@@ -1,0 +1,38 @@
+{
+  "release_commit": "6e9b4ed977103b6151bbd75784852a4a17865c90",
+  "remote_refs": {
+    "refs/heads/main": "6e9b4ed977103b6151bbd75784852a4a17865c90",
+    "refs/tags/chapter-01-v1.0.0^{}": "cf8430ce08240f179fa1cadefebedb3ec2cc6f4c",
+    "refs/tags/chapter-02-v1.0.0": "303899657ec087447f3c679208ae43992f530f0d",
+    "refs/tags/chapter-02-v1.0.0^{}": "6e9b4ed977103b6151bbd75784852a4a17865c90"
+  },
+  "verification_time": "2026-09-30T18:14:14.209093+00:00",
+  "validation": {
+    "schema_version": 1,
+    "checks_passed": true,
+    "counts": {
+      "source_anchors": 987,
+      "changed_anchors": 10,
+      "source_annotations": 9,
+      "uncertain_anchor_flags": 7,
+      "reconstruction_paths": 4,
+      "W_source_lines_checked": 994,
+      "evidence_image_hashes_checked": 60,
+      "release_links_checked": 2675,
+      "exact_displayed_transcript_quotes": 168,
+      "W_display_blocks_checked": 105
+    },
+    "transcript_loci": 56,
+    "W_blocks": 105,
+    "source_checks": 10,
+    "deliverable_groups": 5,
+    "source_data_and_reconstruction_passed": true,
+    "build_reproducible": true,
+    "chapter1_release_unchanged": true,
+    "completed_for_approved_scope": true,
+    "full_base_scan_proofread": false,
+    "exhaustive_witness_collation": false,
+    "limits": "Exact data, decisions, layer assembly, display and link checks; not an accuracy measurement or complete manuscript proofread."
+  },
+  "working_tree_clean_before_receipt": true
+}
