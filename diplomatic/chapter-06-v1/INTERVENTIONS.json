@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "C6-U05248-UNCERTAIN",
+    "kind": "retained_uncertainty",
+    "units": [
+      "U05248"
+    ],
+    "original_units": {
+      "U05248": "རང་བྱུང་ཉིད་དང་རྩ་ལ་རྫོགས་དང་། །"
+    },
+    "replacement_units": {},
+    "annotations": [],
+    "uncertain_units": [
+      "U05248"
+    ],
+    "rationale": "Supplied rtsa la retained; compact segmentation versus rtsal remains unresolved.",
+    "remaining_uncertainty": "Supplied rtsa la retained; compact segmentation versus rtsal remains unresolved.",
+    "evidence": [
+      "diplomatic/chapter-06-v1/evidence/E01/p197-native.png",
+      "diplomatic/chapter-06-v1/evidence/focused/U05248-rtsa-la-context.png"
+    ]
+  },
+  {
+    "id": "C6-U05309-UNCERTAIN",
+    "kind": "retained_uncertainty",
+    "units": [
+      "U05309"
+    ],
+    "original_units": {
+      "U05309": "ཕྱེད་པའི་ལས་དང་ལྡང་ཚད་དོ། །"
+    },
+    "replacement_units": {},
+    "annotations": [],
+    "uncertain_units": [
+      "U05309"
+    ],
+    "rationale": "Supplied phyed retained rather than conjecturally replacing it with B/S byed.",
+    "remaining_uncertainty": "Supplied phyed retained rather than conjecturally replacing it with B/S byed.",
+    "evidence": [
+      "diplomatic/chapter-06-v1/evidence/E01/p199-native.png",
+      "diplomatic/chapter-06-v1/evidence/E01/p199-x3696.png"
+    ]
+  }
+]

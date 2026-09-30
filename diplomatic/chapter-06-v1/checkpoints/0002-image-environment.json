@@ -1,0 +1,5 @@
+{
+  "initial_attempt": "python3 prepare_images.py",
+  "initial_error": "ModuleNotFoundError: No module named PIL; no source images prepared or read in that attempt.",
+  "resolution": "Isolated /tmp/dtg-c6-images-venv with Pillow==11.3.0. No project source or previous release modified."
+}

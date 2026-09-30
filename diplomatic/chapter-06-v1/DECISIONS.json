@@ -1,7 +1,112 @@
 {
-  "loci": {},
+  "loci": {
+    "L6-0001": {
+      "status": "retain_base",
+      "rationale": "Retain the first-reply heading separately from the main kye kye clause. S braces are editorial annotation markup, not Tibetan words.",
+      "source_units": [
+        "U05225",
+        "U05226"
+      ],
+      "exact_conflicts": [
+        "C6-0001",
+        "C6-0002"
+      ],
+      "release_reading": {
+        "U05225": "ཞུས་ལན་དང་པོ།",
+        "U05226": "ཀྱེ་ཀྱེ་ལྷ་ཡི་དབང་ཕྱུག་ཉོན། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-06-v1/collation.json",
+        "diplomatic/chapter-06-v1/SOURCE-REVIEW.json"
+      ],
+      "uncertain_units": []
+    },
+    "L6-0003": {
+      "status": "retain_with_explicit_uncertainty",
+      "rationale": "Retain the supplied rtsa la division with the source-reading uncertainty explicitly visible; S rtsal is preserved in the apparatus.",
+      "source_units": [
+        "U05248"
+      ],
+      "exact_conflicts": [
+        "C6-0005"
+      ],
+      "release_reading": {
+        "U05248": "རང་བྱུང་ཉིད་དང་རྩ་ལ་རྫོགས་དང་། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-06-v1/collation.json",
+        "diplomatic/chapter-06-v1/SOURCE-REVIEW.json"
+      ],
+      "uncertain_units": [
+        "U05248"
+      ]
+    },
+    "L6-0008": {
+      "status": "retain_with_explicit_uncertainty",
+      "rationale": "Retain phyed with explicit uncertainty after inspecting the row-end group; B/S byed alone does not authorize replacement.",
+      "source_units": [
+        "U05309"
+      ],
+      "exact_conflicts": [
+        "C6-0013"
+      ],
+      "release_reading": {
+        "U05309": "ཕྱེད་པའི་ལས་དང་ལྡང་ཚད་དོ། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-06-v1/collation.json",
+        "diplomatic/chapter-06-v1/SOURCE-REVIEW.json"
+      ],
+      "uncertain_units": [
+        "U05309"
+      ]
+    }
+  },
   "W": {},
-  "source_checks": {},
+  "source_checks": {
+    "C6-START": {
+      "status": "dispositioned_for_bounded_v1",
+      "rationale": "The opening follows the fifth-chapter colophon and its compact graphic; the continuation distinguishes the chapter boundary. No new reading of the preceding graphic; exact physical delimiter allocation is not certified.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E01/p195-native.png",
+        "diplomatic/chapter-06-v1/evidence/focused/C6-opening-context.png"
+      ]
+    },
+    "C6-HEADING-05225": {
+      "status": "dispositioned_for_bounded_v1",
+      "rationale": "The smaller first-reply label precedes the larger kye kye main clause. Retain its supplied string as a separate heading. No normalization of heading punctuation.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E01/p196-native.png",
+        "diplomatic/chapter-06-v1/evidence/focused/U05225-heading-context.png"
+      ]
+    },
+    "C6-READING-05248": {
+      "status": "dispositioned_for_bounded_v1",
+      "rationale": "The matching main-text clause was inspected; the compact rtsa/la group does not justify a confident change of the supplied division. Retain rtsa la with explicit uncertainty; S rtsal and W are comparison evidence, not a correction by majority.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E01/p197-native.png",
+        "diplomatic/chapter-06-v1/evidence/focused/U05248-rtsa-la-context.png"
+      ]
+    },
+    "C6-HEADING-05260": {
+      "status": "dispositioned_for_bounded_v1",
+      "rationale": "The title-list conclusion and next main clause were located in order. No third-reply label is securely identified at this junction, so none is supplied. This is a local non-insertion decision, not proof of absence from every witness or decipherment of every small mark.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E01/p197-native.png",
+        "diplomatic/chapter-06-v1/evidence/E01/p197-x1848.png",
+        "diplomatic/chapter-06-v1/evidence/E01/p197-x3696.png"
+      ]
+    },
+    "C6-READING-05309": {
+      "status": "dispositioned_for_bounded_v1",
+      "rationale": "The target spans the right edge of row3 and beginning of row4. Retain the supplied phyed while explicitly recording B/S byed. The initial compact consonant is not securely discriminated; no lexical correction is adopted.",
+      "evidence": [
+        "diplomatic/chapter-06-v1/evidence/E01/p199-native.png",
+        "diplomatic/chapter-06-v1/evidence/E01/p199-x3696.png",
+        "diplomatic/chapter-06-v1/evidence/E01/p199-x0000.png"
+      ]
+    }
+  },
   "closing_units": {},
   "final_signoff": null
 }
