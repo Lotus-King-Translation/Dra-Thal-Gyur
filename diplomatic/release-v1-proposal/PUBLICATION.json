@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "release_id": "chapter-01-v1.0.0",
+  "release_commit": "cf8430ce08240f179fa1cadefebedb3ec2cc6f4c",
+  "verified_remote_tag_object": "7f74249c6378dd9f5b6733456bf4cec5a79af0b8",
+  "verified_remote_tag_commit": "cf8430ce08240f179fa1cadefebedb3ec2cc6f4c",
+  "verified_at": "2026-09-30T16:53:09.379154+00:00",
+  "repository": "Lotus-King-Translation/Dra-Thal-Gyur",
+  "release_overview": "diplomatic/release-v1/README.md",
+  "release_manifest_sha256": "27793ab68171d6d7d7ae56a319a2e830f3642c6182d762f1bc82812e211bcbc3",
+  "deliverable_sha256": {
+    "reading.md": "e0ba8c6c073ac74670be710ff227024935e987db650b724cc09b112248fdf5cd",
+    "apparatus.md": "effbd68cc629817ae5ca327fb534044d47e3e0b131753d671a9d72390056fe6f",
+    "reading.json": "9568750ca9634ca9c5d55e4186b3b88d17550f81d51acd156ffc79dddd798cb6",
+    "CHANGES.md": "6ff6925cb4714f04c4022c5e624587ff76bf890b91ee9fafeb6e9e8382e9ec4a",
+    "COVERAGE.md": "af05cd19be87a810a2ab1d0a857e4772a5112451fa8217b619f91a528c0ee767",
+    "comparison-scans.md": "cee541aa943e6114f2afe5b4f5bd871c079752e9c1e77aaa3fb62d95f4c4b4ac",
+    "apparatus.json": "a93ac89f7f81107c7ec9fba7defb9bac17ffe56df8ebbe46e1a9e3327e00a50a",
+    "coverage.json": "d7a8e95f0307b5142de2c1c8cba1c966d0034c046d985611ccbe1f0d4410d107",
+    "README.md": "a5978efebce5eea746f6003acffaea9e1cde4b125c87d084bc64296bcfc0a210"
+  },
+  "completed_for_approved_scope": true,
+  "exhaustive_witness_collation_complete": false,
+  "chapter_2_started": false,
+  "remaining_v1_packets": 0,
+  "remaining_v1_locus_decisions": 0,
+  "packet_integrations": 2,
+  "packet_deferrals_without_collation_credit": 6,
+  "locus_decisions": 183,
+  "deliverable_groups": 5,
+  "preserved_counts": {
+    "source_anchors": 2635,
+    "accepted_interventions": 88,
+    "restored_main_verses": 13,
+    "restored_source_headings": 1,
+    "release_loci": 183,
+    "exact_transcript_differences": 359,
+    "comparison_observations_including_uncertainty": 682,
+    "changed_anchor_strings": 84,
+    "mechanical_string_effects": {
+      "punctuation_or_spacing_only": 37,
+      "letter_or_source_layer_change": 47
+    }
+  },
+  "postpublication_final_validation_passed": true,
+  "postpublication_final_validation": "diplomatic/release-v1-proposal/checkpoints/0016-publication-verification.json",
+  "working_tree_clean_at_release_verification": true,
+  "receipt_note": "This receipt is committed after the verified release. The annotated tag stays on the released content commit; it is not moved to this later receipt commit."
+}
