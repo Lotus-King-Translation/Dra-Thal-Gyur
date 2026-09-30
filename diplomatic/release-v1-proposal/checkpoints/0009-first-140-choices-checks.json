@@ -1,0 +1,165 @@
+{
+  "parent_commit": "1a25df9ec223b64e54b46986f8659d5403997e1b",
+  "checks": {
+    "validation": {
+      "scope": "Chapter 1 structural and preservation checks; not a complete-witness certificate",
+      "source_hashes_unchanged": true,
+      "exact_reconstruction_checks": [
+        "minimal_B_exact",
+        "minimal_S_exact",
+        "whole_unit_B_exact",
+        "whole_unit_S_exact"
+      ],
+      "base_units_accounted_for": 2635,
+      "curated_replacement_anchors": 84,
+      "scan_intervention_records": 88,
+      "restored_main_verses": 13,
+      "abc_exact_conflicts": 359,
+      "abc_readable_loci": 183,
+      "local_comparison_findings_including_candidates": 682,
+      "archival_files_hash_checked": 669,
+      "original_manifest_files_hash_checked": 2,
+      "historical_markdown_files_integrity_checked_not_link_checked": 37,
+      "active_local_markdown_links_resolve": true,
+      "local_links_checked": 7714,
+      "evidence_references_checked": 3452,
+      "continuation_metadata_matches": true,
+      "chapter_complete": false,
+      "all_witnesses_collated": false,
+      "next_chapter_started": false,
+      "markdown_sha256": "80da9ac06069b827cf829fff4318713b26e6f21a54158f62a3c47e05a73e5fab",
+      "work_queue": {
+        "tasks_checked": 22,
+        "punctuation_candidates_tracked": 30,
+        "punctuation_candidates_unfinished": 1,
+        "next_task_id": "C1-ADZOM1973"
+      }
+    },
+    "reproducibility": {
+      "generated_outputs_match": true,
+      "outputs_checked": 4,
+      "chapter_markdown_sha256": "80da9ac06069b827cf829fff4318713b26e6f21a54158f62a3c47e05a73e5fab"
+    }
+  },
+  "progress": {
+    "schema_version": 1,
+    "scope": "Chapter 1 v1: corrected Adzom-based reading with a scoped comparative apparatus",
+    "proposal_approved": true,
+    "audited_baseline": "55d6b61225dc9ef3d7b32ed2e905fce4ef89d5cf",
+    "packets": {
+      "total": 8,
+      "integrated": 2,
+      "deferred_not_collated": 6,
+      "remaining": 0,
+      "items": [
+        {
+          "task": "C1-BASE-PHYSICAL",
+          "batch": "B14-P0017-0019",
+          "scope": "Adzom physical PDF17-19",
+          "recorded_status": "claimed_prepared_not_read",
+          "integrated": false,
+          "explicitly_deferred_not_collated": true,
+          "remaining": false
+        },
+        {
+          "task": "C1-DZONGSAR",
+          "batch": "B02-PHYSICAL-P0001-0003",
+          "scope": "Dzongsar physical PDF1-3",
+          "recorded_status": "review_integrated_with_bounded_uncertainties",
+          "integrated": true,
+          "explicitly_deferred_not_collated": false,
+          "remaining": false
+        },
+        {
+          "task": "C1-TINGKYE",
+          "batch": "B11-P0017-0019",
+          "scope": "Tingkye PDF17-19",
+          "recorded_status": "claimed_prepared_not_read",
+          "integrated": false,
+          "explicitly_deferred_not_collated": true,
+          "remaining": false
+        },
+        {
+          "task": "C1-TSAMDRAK",
+          "batch": "B11-P0027-0029",
+          "scope": "Tsamdrak PDF27-29",
+          "recorded_status": "claimed_prepared_not_read",
+          "integrated": false,
+          "explicitly_deferred_not_collated": true,
+          "remaining": false
+        },
+        {
+          "task": "C1-DEGE",
+          "batch": "B09-P0015-0017",
+          "scope": "Dege PDF15-17",
+          "recorded_status": "claimed_prepared_not_read",
+          "integrated": false,
+          "explicitly_deferred_not_collated": true,
+          "remaining": false
+        },
+        {
+          "task": "C1-W1ER119",
+          "batch": "B01-OPENING-P0002-0003",
+          "scope": "W1ER119 opening PDF2-3",
+          "recorded_status": "review_integrated_with_bounded_uncertainties",
+          "integrated": true,
+          "explicitly_deferred_not_collated": false,
+          "remaining": false
+        },
+        {
+          "task": "C1-ADZOM1973",
+          "batch": "B01-P0011-0013",
+          "scope": "Adzom1973 provider PDF11-13",
+          "recorded_status": "claimed_prepared_not_read",
+          "integrated": false,
+          "explicitly_deferred_not_collated": true,
+          "remaining": false
+        },
+        {
+          "task": "C1-GCN",
+          "batch": "B01-P0407-0409",
+          "scope": "Gcn provider PDF407-409",
+          "recorded_status": "claimed_prepared_not_read",
+          "integrated": false,
+          "explicitly_deferred_not_collated": true,
+          "remaining": false
+        }
+      ]
+    },
+    "release_locus_acceptance": {
+      "total": 183,
+      "documented": 140,
+      "remaining": 43,
+      "invalid_entry_ids": [],
+      "not_a_count_of_unread_source_passages": true
+    },
+    "release_artifacts": {
+      "total": 5,
+      "present": 0,
+      "items": {
+        "reading": false,
+        "apparatus": false,
+        "machine_reading": false,
+        "changes": false,
+        "coverage_and_uncertainties": false
+      }
+    },
+    "preserved_baseline_counts": {
+      "source_anchors": 2635,
+      "transcript_loci": 183,
+      "exact_transcript_differences": 359,
+      "intervention_records": 88,
+      "curated_replacement_anchors": 84,
+      "restored_main_verses": 13,
+      "comparison_observations_including_uncertainty": 667
+    },
+    "final_editorial_signoff_recorded": false,
+    "accuracy_score": null,
+    "aggregate_completion_percentage": null,
+    "time_estimate": null,
+    "certifies_release_or_scholarship": false,
+    "caveat": "The 183 acceptance entries below are a new release checklist, not 183 wholly unreviewed scholarly loci. Workload denominators remain separate; no aggregate percentage or claimed accuracy is computed."
+  },
+  "accepted_readings_and_insertions_preserved_from_audited_baseline": true,
+  "validation_is_not_exhaustive_scholarly_certification": true
+}

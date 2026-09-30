@@ -3142,6 +3142,1267 @@
       "fresh_scan_reading_performed": false,
       "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
       "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0101": {
+      "status": "retain_base",
+      "rationale": "Keep U01596 as the thirty-fourth reply heading before U01597. The S-only brace convention stays in its quotation; the preceding U01595 boundary correction is not duplicated at this locus.",
+      "source_units": [
+        "U01596",
+        "U01597"
+      ],
+      "exact_conflicts": [
+        "C1-0197",
+        "C1-0198"
+      ],
+      "release_reading": {
+        "U01596": "དྲིས་ལན་སོ་བཞི་པའོ། །",
+        "U01597": "ཐིག་ལེའི་ཆོས་ཉིད་བརྟན་འདོད་པས། །"
+      },
+      "unit_reading_statuses": {
+        "U01596": "lexically_compared_punctuation_not_certified",
+        "U01597": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0101",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0102": {
+      "status": "retain_base",
+      "rationale": "At U01604 retain the recorded Adzom leading-space presentation rather than importing the S leading shad. B begins directly with mtshan nyid. The lexical clause is unchanged and this transcript boundary does not establish a missing printed sign.",
+      "source_units": [
+        "U01604"
+      ],
+      "exact_conflicts": [
+        "C1-0199"
+      ],
+      "release_reading": {
+        "U01604": " མཚན་ཉིད་རྫོགས་པ་དག་མཐོང་ན། །"
+      },
+      "unit_reading_statuses": {
+        "U01604": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0102",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0103": {
+      "status": "retain_base",
+      "rationale": "Keep U01620 as the thirty-fifth reply heading followed by U01621. S braces do not alter the main mkha gro ma yi las kyi mtha wording or certify independent print agreement.",
+      "source_units": [
+        "U01620",
+        "U01621"
+      ],
+      "exact_conflicts": [
+        "C1-0200",
+        "C1-0201"
+      ],
+      "release_reading": {
+        "U01620": "དྲིས་ལན་སོ་ལྔ་པའོ། །",
+        "U01621": "མཁའ་འགྲོ་མ་ཡི་ལས་ཀྱི་མཐའ། །"
+      },
+      "unit_reading_statuses": {
+        "U01620": "lexically_compared_punctuation_not_certified",
+        "U01621": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0103",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0104": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept the existing U01627 second-shad correction after gyur. B/S display the two marks with different spacing; source evidence governs the correction and spacing is not normalized globally.",
+      "source_units": [
+        "U01627"
+      ],
+      "exact_conflicts": [
+        "C1-0202"
+      ],
+      "release_reading": {
+        "U01627": "འབྱུང་བཞི་དག་ལ་དབང་སྒྱུར་འགྱུར། །"
+      },
+      "unit_reading_statuses": {
+        "U01627": "scan_intervention"
+      },
+      "retained_intervention_ids": [
+        "SIGNS-VERIFIED-20260928-U01627"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0104",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/collation/chapter-01/ch1-opening-corrections.json",
+        "diplomatic/collation/chapter-01/ch1-key-scan-checks.json",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-row3-right.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-row4-left.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-row5-right.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-row6-left.png"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0105": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept both recorded boundary corrections: the U01634 thirty-sixth-heading ending and the U01635 gsum ending each retain two detached shads. S brackets the heading and B doubles the latter ending; keep those quotations distinct from the scan-based adoption.",
+      "source_units": [
+        "U01634",
+        "U01635"
+      ],
+      "exact_conflicts": [
+        "C1-0203",
+        "C1-0204",
+        "C1-0205"
+      ],
+      "release_reading": {
+        "U01634": "དྲིས་ལན་སོ་དྲུག་པ། །",
+        "U01635": "འཕོ་བའི་བྱེ་བྲག་རྣམ་པ་གསུམ། །"
+      },
+      "unit_reading_statuses": {
+        "U01634": "scan_intervention",
+        "U01635": "scan_intervention"
+      },
+      "retained_intervention_ids": [
+        "SIGNS-VERIFIED-20260928-U01635",
+        "SIGNS-VERIFIED-20260928-U01634"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0105",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/collation/chapter-01/ch1-opening-corrections.json",
+        "diplomatic/collation/chapter-01/ch1-key-scan-checks.json",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-row3-right.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-row4-left.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-row5-right.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-03/p064-row6-left.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/p064-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-05/p064-row5-context.png"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0106": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept U01657 main di yi lus kyang gsum yin te and preserve lugs kyang as the smaller alternate note. The similar lus/lugs spellings are not merged or treated as a grammatical correction.",
+      "source_units": [
+        "U01657"
+      ],
+      "exact_conflicts": [
+        "C1-0206",
+        "C1-0207"
+      ],
+      "release_reading": {
+        "U01657": "འདི་ཡི་ལུས་ཀྱང་གསུམ་ཡིན་ཏེ། །"
+      },
+      "unit_reading_statuses": {
+        "U01657": "scan_intervention"
+      },
+      "retained_intervention_ids": [
+        "SCAN-CH1-LAYER-01657"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0106",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/collation/chapter-01/ch1-opening-corrections.json",
+        "diplomatic/collation/chapter-01/ch1-key-scan-checks.json",
+        "diplomatic/evidence/chapter-01/annotation-audit/p065-left.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/p065-right.png"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0107": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Keep the thirty-seventh reply heading U01661 with its verified second shad. Retain rdzu in U01663 rdzu phrul although B omits it; the heading punctuation decision does not authorize a lexical omission in the following verse.",
+      "source_units": [
+        "U01661",
+        "U01662",
+        "U01663"
+      ],
+      "exact_conflicts": [
+        "C1-0208",
+        "C1-0209",
+        "C1-0210",
+        "C1-0211"
+      ],
+      "release_reading": {
+        "U01661": "དྲིས་ལན་སོ་བདུན་པ། །",
+        "U01662": "རྟེན་འབྲེལ་སྦྱོར་བ་རྣམ་པ་གཉིས། །",
+        "U01663": "སྣ་ཚོགས་རྫུ་འཕྲུལ་བསྒྲུབ་པ་དང་། །"
+      },
+      "unit_reading_statuses": {
+        "U01661": "scan_intervention",
+        "U01662": "lexically_compared_punctuation_not_certified",
+        "U01663": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [
+        "SIGNS-VERIFIED-20260928-U01661"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0107",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/collation/chapter-01/ch1-opening-corrections.json",
+        "diplomatic/collation/chapter-01/ch1-key-scan-checks.json",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-06/p065-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-06/p065-row5-context.png"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0108": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept U01668 bkang yang byung as a separate smaller annotation, not a standalone main verse or an insertion before U01669. Preserve the exact A/B/S flattened/bracketed presentations without losing the note.",
+      "source_units": [
+        "U01668",
+        "U01669"
+      ],
+      "exact_conflicts": [
+        "C1-0212",
+        "C1-0213"
+      ],
+      "release_reading": {
+        "U01668": "",
+        "U01669": " ལུས་དང་དབང་པོ་བསྒྲུབ་པས་དབྱེ། །"
+      },
+      "unit_reading_statuses": {
+        "U01668": "scan_intervention",
+        "U01669": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [
+        "SCAN-CH1-LAYER-01668"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0108",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/collation/chapter-01/ch1-opening-corrections.json",
+        "diplomatic/collation/chapter-01/ch1-key-scan-checks.json",
+        "diplomatic/evidence/chapter-01/annotation-audit/p066-left.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/p066-right.png"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0109": {
+      "status": "retain_base",
+      "rationale": "Keep the thirty-eighth reply heading U01689 before U01690. S braces do not change its words; the separately corrected preceding U01688 boundary is not counted twice.",
+      "source_units": [
+        "U01689",
+        "U01690"
+      ],
+      "exact_conflicts": [
+        "C1-0214",
+        "C1-0215"
+      ],
+      "release_reading": {
+        "U01689": "དྲིས་ལན་སོ་བརྒྱད་པའོ། །",
+        "U01690": "ནད་དང་སྡུག་བསྔལ་གྲོལ་འདོད་པས། །"
+      },
+      "unit_reading_statuses": {
+        "U01689": "lexically_compared_punctuation_not_certified",
+        "U01690": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0109",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0110": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept U01711 main yi ge bzlog tshul drug gis kyang and keep brjod kyang separately. The alternative verb remains visible in the annotation rather than replacing bzlog or forming a second main verb.",
+      "source_units": [
+        "U01711"
+      ],
+      "exact_conflicts": [
+        "C1-0216",
+        "C1-0217"
+      ],
+      "release_reading": {
+        "U01711": "ཡི་གེ་བཟློག་ཚུལ་དྲུག་གིས་ཀྱང། །"
+      },
+      "unit_reading_statuses": {
+        "U01711": "scan_intervention"
+      },
+      "retained_intervention_ids": [
+        "SCAN-CH1-LAYER-01711"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0110",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/collation/chapter-01/ch1-opening-corrections.json",
+        "diplomatic/collation/chapter-01/ch1-key-scan-checks.json",
+        "diplomatic/evidence/chapter-01/annotation-audit/p067-left.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/p067-right.png"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0111": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept U01716 main dre dang rlung lha dag gi skad and preserve dag pai skad kyang byung separately. Do not substitute the alternate phrase for dag gi skad or flatten the duplicated skad into main text.",
+      "source_units": [
+        "U01716"
+      ],
+      "exact_conflicts": [
+        "C1-0218",
+        "C1-0219"
+      ],
+      "release_reading": {
+        "U01716": "འདྲེ་དང་རླུང་ལྷ་དག་གི་སྐད། །"
+      },
+      "unit_reading_statuses": {
+        "U01716": "scan_intervention"
+      },
+      "retained_intervention_ids": [
+        "SCAN-CH1-LAYER-01716"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0111",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/collation/chapter-01/ch1-opening-corrections.json",
+        "diplomatic/collation/chapter-01/ch1-key-scan-checks.json",
+        "diplomatic/evidence/chapter-01/annotation-audit/p067-left.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/p067-right.png"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0112": {
+      "status": "retain_base",
+      "rationale": "At U01724 retain yang na sems kyi bya bai las. B instead reads yang mdo sngags rig mdzod las. Record the full wording divergence without importing collection-title-like wording into Adzom or assuming its origin from that resemblance.",
+      "source_units": [
+        "U01724"
+      ],
+      "exact_conflicts": [
+        "C1-0220",
+        "C1-0221",
+        "C1-0222",
+        "C1-0223",
+        "C1-0224"
+      ],
+      "release_reading": {
+        "U01724": "ཡང་ན་སེམས་ཀྱི་བྱ་བའི་ལས། །"
+      },
+      "unit_reading_statuses": {
+        "U01724": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0112",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0113": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Keep the thirty-ninth reply heading U01727 with the documented second shad. B also supplies a second mark and S braces; the accepted native-boundary review, not transcript majority, governs the release.",
+      "source_units": [
+        "U01727",
+        "U01728"
+      ],
+      "exact_conflicts": [
+        "C1-0225",
+        "C1-0226",
+        "C1-0227"
+      ],
+      "release_reading": {
+        "U01727": "དྲིས་ལན་སོ་དགུ་པ། །",
+        "U01728": "འབྱུང་བའི་འཕོ་བ་འདི་ལྟ་བུ། །"
+      },
+      "unit_reading_statuses": {
+        "U01727": "scan_intervention",
+        "U01728": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [
+        "SIGNS-VERIFIED-20260928-U01727"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0113",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/collation/chapter-01/ch1-opening-corrections.json",
+        "diplomatic/collation/chapter-01/ch1-key-scan-checks.json",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-06/p068-native.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-06/p068-row1-right-context.png",
+        "diplomatic/evidence/chapter-01/continuation/C1-SIGNS-06/p068-row2-left-context.png"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0114": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept U01734 main zla ba lo yi khrul lugs kyis and preserve khrugs lugs kyang separately as the smaller report. Similar-looking verbs and repeated lugs are not silently conflated.",
+      "source_units": [
+        "U01734"
+      ],
+      "exact_conflicts": [
+        "C1-0228",
+        "C1-0229"
+      ],
+      "release_reading": {
+        "U01734": "ཟླ་བ་ལོ་ཡི་འཁྲུལ་ལུགས་ཀྱིས། །"
+      },
+      "unit_reading_statuses": {
+        "U01734": "scan_intervention"
+      },
+      "retained_intervention_ids": [
+        "SCAN-CH1-LAYER-01734"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0114",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/collation/chapter-01/ch1-opening-corrections.json",
+        "diplomatic/collation/chapter-01/ch1-key-scan-checks.json",
+        "diplomatic/evidence/chapter-01/annotation-audit/p068-left.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/p068-right.png"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0115": {
+      "status": "retain_base",
+      "rationale": "At U01745 retain zla bao against B/S zla ba lo. The comparison readings suggest a different enumeration, but v1 does not repair time arithmetic or replace a source form merely because two transcripts agree.",
+      "source_units": [
+        "U01745"
+      ],
+      "exact_conflicts": [
+        "C1-0230"
+      ],
+      "release_reading": {
+        "U01745": "ཉིན་མཚན་ཞག་དང་ཟླ་བའོ། །"
+      },
+      "unit_reading_statuses": {
+        "U01745": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0115",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0116": {
+      "status": "retain_base",
+      "rationale": "Keep U01751 as the fortieth reply heading followed by U01752. Record the S leading shad and braces as its own presentation; no unverified additional base mark is adopted.",
+      "source_units": [
+        "U01751",
+        "U01752"
+      ],
+      "exact_conflicts": [
+        "C1-0231",
+        "C1-0232"
+      ],
+      "release_reading": {
+        "U01751": "དྲིས་ལན་བཞི་བཅུ་པ།",
+        "U01752": "གནད་ཀྱི་འབྱུང་བ་རྣམ་ཕྱེ་ན། །"
+      },
+      "unit_reading_statuses": {
+        "U01751": "lexically_compared_punctuation_not_certified",
+        "U01752": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0116",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0117": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept the existing U01757 second-shad correction after gyur, retaining all lexical spelling. The S double mark is corroborative transcript evidence, not the governing scan evidence.",
+      "source_units": [
+        "U01757"
+      ],
+      "exact_conflicts": [
+        "C1-0233"
+      ],
+      "release_reading": {
+        "U01757": "ཕོ་མོའི་སྡེབས་ཀྱིས་བརྒྱད་དུ་འགྱུར། །"
+      },
+      "unit_reading_statuses": {
+        "U01757": "scan_intervention"
+      },
+      "retained_intervention_ids": [
+        "SIGNS-VERIFIED-20260927-U01757"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0117",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/collation/chapter-01/ch1-opening-corrections.json",
+        "diplomatic/collation/chapter-01/ch1-key-scan-checks.json",
+        "diplomatic/evidence/chapter-01/independent-signs-late-20260927/p069.png",
+        "diplomatic/evidence/chapter-01/independent-signs-late-20260927/p069-opening.png",
+        "diplomatic/evidence/chapter-01/independent-signs-late-20260927/p069-targetrow-0.png",
+        "diplomatic/evidence/chapter-01/independent-signs-late-20260927/p069-targetrow-1.png",
+        "diplomatic/evidence/chapter-01/independent-signs-late-20260927/p069-targetrow-2.png",
+        "diplomatic/evidence/chapter-01/signs-recovery-review-20260927/U01757.png"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0118": {
+      "status": "retain_base",
+      "rationale": "Keep the forty-first reply heading U01764 before U01765. S brace and spacing choices do not alter the heading role or the following main wording.",
+      "source_units": [
+        "U01764",
+        "U01765"
+      ],
+      "exact_conflicts": [
+        "C1-0234",
+        "C1-0235"
+      ],
+      "release_reading": {
+        "U01764": "དྲིས་ལན་ཞེ་གཅིག་པ།",
+        "U01765": " དེ་ལྟར་གནད་ལ་བརྟེན་ནས་ནི། །"
+      },
+      "unit_reading_statuses": {
+        "U01764": "lexically_compared_punctuation_not_certified",
+        "U01765": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0118",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0119": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept U01776 min kyang as the smaller alternative note following the affirmative main yin. Do not let the separated negative reverse the root statement or become the opening of U01777; preserve all three source presentations.",
+      "source_units": [
+        "U01776",
+        "U01777"
+      ],
+      "exact_conflicts": [
+        "C1-0236",
+        "C1-0237"
+      ],
+      "release_reading": {
+        "U01776": "",
+        "U01777": " ཟུག་དང་བྱེར་དང་སྙོམས་པའི་ལས། །"
+      },
+      "unit_reading_statuses": {
+        "U01776": "scan_intervention",
+        "U01777": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [
+        "SCAN-CH1-LAYER-01776"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0119",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/collation/chapter-01/ch1-opening-corrections.json",
+        "diplomatic/collation/chapter-01/ch1-key-scan-checks.json",
+        "diplomatic/evidence/chapter-01/annotation-audit/p069-left.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/p069-right.png"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0120": {
+      "status": "retain_base",
+      "rationale": "At U01782 retain za ma rather than S khra ma. B agrees with A, but that numerical agreement is not invoked as textual authority; the unadopted S spelling remains explicit.",
+      "source_units": [
+        "U01782"
+      ],
+      "exact_conflicts": [
+        "C1-0238"
+      ],
+      "release_reading": {
+        "U01782": "ཟ་མ་ཞག་དང་ཟླ་བ་ལོ། །"
+      },
+      "unit_reading_statuses": {
+        "U01782": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0120",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0121": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept U01803 main ya bzhi bzung ste rang rang bstun, with the whole sa gzhi yang byung annotation separate. The earlier attempt to create familiar sa ya was retracted in the source record. Do not reintroduce it or move the B later lteb/btugs annotation into U01804 main text.",
+      "source_units": [
+        "U01803",
+        "U01804"
+      ],
+      "exact_conflicts": [
+        "C1-0239",
+        "C1-0240",
+        "C1-0241"
+      ],
+      "release_reading": {
+        "U01803": "ཡ་བཞི་བཟུང་སྟེ་རང་རང་བསྟུན། །",
+        "U01804": "རང་རང་འབྱུང་བའི་བསྡེབ་ཀ་ཡིས། །"
+      },
+      "unit_reading_statuses": {
+        "U01803": "scan_intervention",
+        "U01804": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [
+        "SCAN-CH1-LAYER-01803"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0121",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/collation/chapter-01/ch1-opening-corrections.json",
+        "diplomatic/collation/chapter-01/ch1-key-scan-checks.json",
+        "diplomatic/evidence/chapter-01/annotation-audit/p070-left.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/p070-right.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/p071-full.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/root-u1803-70.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/root-u1803-71.png"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0122": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept U01806 lteb dang gtugs kyang byung as the separate marginal annotation, preserving its uncertain precise target. B places a related btugs form at the preceding locus; this displacement is not an omitted main verse and does not justify changing the annotation spelling.",
+      "source_units": [
+        "U01806",
+        "U01807"
+      ],
+      "exact_conflicts": [
+        "C1-0242"
+      ],
+      "release_reading": {
+        "U01806": "",
+        "U01807": "  སྐྱེས་དང་ན་དང་འཆི་བ་ནི། །"
+      },
+      "unit_reading_statuses": {
+        "U01806": "scan_intervention",
+        "U01807": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [
+        "SCAN-CH1-LAYER-01806"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0122",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/collation/chapter-01/ch1-opening-corrections.json",
+        "diplomatic/collation/chapter-01/ch1-key-scan-checks.json",
+        "diplomatic/evidence/chapter-01/annotation-audit/p070-left.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/p070-right.png"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0123": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept the scan-supported joined main lo stong zhag kyang bum phrag gsum under U01811, with U01812 retained as an accounted-for consumed anchor. Preserve the original flattened annotations and the separately observed note lacking kyang after zhag. B repeats a different bcu phrag gsum sequence; do not repair the arithmetic or duplicate it in main text.",
+      "source_units": [
+        "U01811",
+        "U01812"
+      ],
+      "exact_conflicts": [
+        "C1-0243",
+        "C1-0244",
+        "C1-0245",
+        "C1-0246",
+        "C1-0247",
+        "C1-0248",
+        "C1-0249"
+      ],
+      "release_reading": {
+        "U01811": "ལོ་སྟོང་ཞག་ཀྱང་འབུམ་ཕྲག་གསུམ། །",
+        "U01812": ""
+      },
+      "unit_reading_statuses": {
+        "U01811": "scan_intervention",
+        "U01812": "scan_intervention"
+      },
+      "retained_intervention_ids": [
+        "SCAN-CH1-01811-01812"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0123",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/collation/chapter-01/ch1-opening-corrections.json",
+        "diplomatic/collation/chapter-01/ch1-key-scan-checks.json",
+        "diplomatic/evidence/chapter-01/check-p71-main-reading-start.png",
+        "diplomatic/evidence/chapter-01/check-p71-main-reading-end.png",
+        "diplomatic/evidence/chapter-01/check-p71-line2-end.png",
+        "diplomatic/evidence/chapter-01/check-p71-line3-start.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/p071-left.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/p071-right.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/U1811-detail.png"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0124": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept U01829 as the smaller numerical alternative crossing the page break, not a second root enumeration. Preserve U01830 rten brel dus te bcu gnyis sbyar as main text, with exact A/B/S delimiter placement separately quoted.",
+      "source_units": [
+        "U01829",
+        "U01830"
+      ],
+      "exact_conflicts": [
+        "C1-0250",
+        "C1-0251",
+        "C1-0252"
+      ],
+      "release_reading": {
+        "U01829": "",
+        "U01830": " རྟེན་འབྲེལ་དུས་ཏེ་བཅུ་གཉིས་སྦྱར། །"
+      },
+      "unit_reading_statuses": {
+        "U01829": "scan_intervention",
+        "U01830": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [
+        "SCAN-CH1-LAYER-01829"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0124",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/collation/chapter-01/ch1-opening-corrections.json",
+        "diplomatic/collation/chapter-01/ch1-key-scan-checks.json",
+        "diplomatic/evidence/chapter-01/annotation-audit/p071-left.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/p071-right.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/p072-full.png"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0125": {
+      "status": "retain_base",
+      "rationale": "At U01843 preserve the recorded space after mu ge and the special tsheg before the ending shad. B/S remove the internal space and B uses an ordinary tsheg; none is a new lexical correction.",
+      "source_units": [
+        "U01843"
+      ],
+      "exact_conflicts": [
+        "C1-0253",
+        "C1-0254"
+      ],
+      "release_reading": {
+        "U01843": "མུ་གེ་ ནད་དང་གདོན་རིགས་དང༌། །"
+      },
+      "unit_reading_statuses": {
+        "U01843": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0125",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0126": {
+      "status": "retain_base",
+      "rationale": "Keep U01854 as the forty-second reply heading before U01855. The S-only braces are not root characters, and the existing rmad byung bai ending is not grammatically regularized.",
+      "source_units": [
+        "U01854",
+        "U01855"
+      ],
+      "exact_conflicts": [
+        "C1-0255",
+        "C1-0256"
+      ],
+      "release_reading": {
+        "U01854": "དྲིས་ལན་ཞེ་གཉིས་པ།",
+        "U01855": "ཨེ་མ་ངོ་མཚར་རྨད་བྱུང་བའི། །"
+      },
+      "unit_reading_statuses": {
+        "U01854": "lexically_compared_punctuation_not_certified",
+        "U01855": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0126",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0127": {
+      "status": "retain_base",
+      "rationale": "At U01859 retain lta bu rather than B lha bu. This is an explicit root-letter difference in the transcripts; no conjectural deification or semantic repair is adopted.",
+      "source_units": [
+        "U01859"
+      ],
+      "exact_conflicts": [
+        "C1-0257"
+      ],
+      "release_reading": {
+        "U01859": "ལྟ་བུ་སྐལ་ལྡན་ངོ་ཆེ་བས། །"
+      },
+      "unit_reading_statuses": {
+        "U01859": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0127",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0128": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept the three S02 restored main verses after U01882 and their already reviewed terminal shads. Preserve the qualified terminal-dot detail of the third restored verse. Their presence in B/S does not replace the Adzom scan evidence; all three must be included in both release reading formats.",
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0128",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/ch1-scan-insertions.json"
+      ],
+      "source_units": [
+        "U01882"
+      ],
+      "exact_conflicts": [
+        "C1-0258"
+      ],
+      "release_reading": {
+        "U01882": "ཞག་དང་ཟླ་བ་ལོ་རྣམས་ཀྱིས། །"
+      },
+      "unit_reading_statuses": {
+        "U01882": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0129": {
+      "status": "retain_base",
+      "rationale": "At U01901 retain the exact A internal space after la in the machine ledger. B/S join that spacing; no letter, syllable or clause-order difference is adopted, and the readable display follows established boundary conventions.",
+      "source_units": [
+        "U01901"
+      ],
+      "exact_conflicts": [
+        "C1-0259"
+      ],
+      "release_reading": {
+        "U01901": "མི་རྟོག་བསམ་གཏན་ལ་ བརྟེན་ནས། །"
+      },
+      "unit_reading_statuses": {
+        "U01901": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0129",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0130": {
+      "status": "retain_base",
+      "rationale": "Keep the forty-third reply heading U01906 before U01907. S bracketing is recorded without changing the main spo bai las phrase or normalizing spo to a different verb.",
+      "source_units": [
+        "U01906",
+        "U01907"
+      ],
+      "exact_conflicts": [
+        "C1-0260",
+        "C1-0261"
+      ],
+      "release_reading": {
+        "U01906": "དྲིས་ལན་ཞེ་གསུམ་པ།",
+        "U01907": "སྤོ་བའི་ལས་ནི་རྣམ་པ་གཉིས། །"
+      },
+      "unit_reading_statuses": {
+        "U01906": "lexically_compared_punctuation_not_certified",
+        "U01907": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0130",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0131": {
+      "status": "retain_base",
+      "rationale": "Keep the forty-fourth reply heading U01937 followed by U01938. The comparison here is S heading markup; it supplies no new main-text correction.",
+      "source_units": [
+        "U01937",
+        "U01938"
+      ],
+      "exact_conflicts": [
+        "C1-0262",
+        "C1-0263"
+      ],
+      "release_reading": {
+        "U01937": "དྲིས་ལན་ཞེ་བཞི་པ།",
+        "U01938": "སྤོ་འདོད་རྣལ་འབྱོར་སྐལ་ཆེ་བས། །"
+      },
+      "unit_reading_statuses": {
+        "U01937": "lexically_compared_punctuation_not_certified",
+        "U01938": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0131",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0132": {
+      "status": "retain_base",
+      "rationale": "Keep U01968 as the forty-fifth reply heading and preserve U01969 rgyud gzhan kun las ma bshad pai. S braces do not alter that negative claim or close its larger syntax editorially.",
+      "source_units": [
+        "U01968",
+        "U01969"
+      ],
+      "exact_conflicts": [
+        "C1-0264",
+        "C1-0265"
+      ],
+      "release_reading": {
+        "U01968": "དྲིས་ལན་ཞེ་ལྔ་པ།",
+        "U01969": "རྒྱུད་གཞན་ཀུན་ལས་མ་བཤད་པའི། །"
+      },
+      "unit_reading_statuses": {
+        "U01968": "lexically_compared_punctuation_not_certified",
+        "U01969": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0132",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0133": {
+      "status": "retain_base",
+      "rationale": "Keep the forty-sixth reply heading U01999 preceding U02000. S braces are presentation evidence only, while the twofold grub mtha discussion remains in its inherited sequence.",
+      "source_units": [
+        "U01999",
+        "U02000"
+      ],
+      "exact_conflicts": [
+        "C1-0266",
+        "C1-0267"
+      ],
+      "release_reading": {
+        "U01999": "དྲིས་ལན་ཞེ་དྲུག་པའོ། །",
+        "U02000": "གྲུབ་མཐའི་དགོངས་པ་རྣམ་གཉིས་ཏེ། །"
+      },
+      "unit_reading_statuses": {
+        "U01999": "lexically_compared_punctuation_not_certified",
+        "U02000": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0133",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0134": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept all three S03 restored main verses after U02005, including the reviewed second shads. Preserve their actual wording and order: gzhi ni jig rten pa..., di las dod pa gnyis..., das pa rgyu dang bras bu las. Do not count these merely as B/S variants while omitting them from the released base.",
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0134",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/ch1-scan-insertions.json"
+      ],
+      "source_units": [
+        "U02005"
+      ],
+      "exact_conflicts": [
+        "C1-0268",
+        "C1-0269"
+      ],
+      "release_reading": {
+        "U02005": "ཐེག་པ་དག་ནི་གཉིས་སུ་འདོད། །"
+      },
+      "unit_reading_statuses": {
+        "U02005": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0135": {
+      "status": "retain_base",
+      "rationale": "Keep U02021 as the forty-seventh reply heading before U02022. The S-only brace convention does not create or remove a main verse.",
+      "source_units": [
+        "U02021",
+        "U02022"
+      ],
+      "exact_conflicts": [
+        "C1-0270",
+        "C1-0271"
+      ],
+      "release_reading": {
+        "U02021": "དྲིས་ལན་ཞེ་བདུན་པ།",
+        "U02022": "མཐར་ཐུག་པ་ཡི་དགོངས་པ་ནི། །"
+      },
+      "unit_reading_statuses": {
+        "U02021": "lexically_compared_punctuation_not_certified",
+        "U02022": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0135",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0136": {
+      "status": "retain_base",
+      "rationale": "Keep the forty-eighth reply heading U02046 with the currently recorded punctuation. B has an extra shad and S braces; without an adopted source correction at this boundary, do not automatically double the Adzom mark.",
+      "source_units": [
+        "U02046",
+        "U02047"
+      ],
+      "exact_conflicts": [
+        "C1-0272",
+        "C1-0273"
+      ],
+      "release_reading": {
+        "U02046": "དྲིས་ལན་ཞེ་བརྒྱད་པ།",
+        "U02047": " ཨེ་མ་གསང་སྔགས་མཐར་ཐུག་པའི། །"
+      },
+      "unit_reading_statuses": {
+        "U02046": "lexically_compared_punctuation_not_certified",
+        "U02047": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0136",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0137": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept the existing U02080 second-shad correction after ni. B includes that mark while A/S transcripts do not, but the source-context verification—not B preference—governs the adopted punctuation.",
+      "source_units": [
+        "U02080"
+      ],
+      "exact_conflicts": [
+        "C1-0274"
+      ],
+      "release_reading": {
+        "U02080": "ལྷ་མོའི་མདོག་དང་ཞལ་ཕྱག་ནི། །"
+      },
+      "unit_reading_statuses": {
+        "U02080": "scan_intervention"
+      },
+      "retained_intervention_ids": [
+        "SIGNS-VERIFIED-20260927-U02080"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0137",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/collation/chapter-01/ch1-opening-corrections.json",
+        "diplomatic/collation/chapter-01/ch1-key-scan-checks.json",
+        "diplomatic/evidence/chapter-01/independent-signs-late-20260927/p081.png",
+        "diplomatic/evidence/chapter-01/independent-signs-late-20260927/p081-opening.png",
+        "diplomatic/evidence/chapter-01/independent-signs-late-20260927/p081-targetrow-0.png",
+        "diplomatic/evidence/chapter-01/independent-signs-late-20260927/p081-targetrow-1.png",
+        "diplomatic/evidence/chapter-01/independent-signs-late-20260927/p081-targetrow-2.png",
+        "diplomatic/evidence/chapter-01/signs-recovery-review-20260927/U02080.png",
+        "diplomatic/evidence/chapter-01/independent-signs-late-20260927/p081-next-anchor-continuation.png"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0138": {
+      "status": "retain_base",
+      "rationale": "At U02091 retain sgrub pa gsum rather than B sgrub ngagsum. Preserve the anomalous B cluster exactly without repairing it in the source quotation or replacing the base pa.",
+      "source_units": [
+        "U02091"
+      ],
+      "exact_conflicts": [
+        "C1-0275"
+      ],
+      "release_reading": {
+        "U02091": "འདི་ཉིད་ལ་ཡང་སྒྲུབ་པ་གསུམ། །"
+      },
+      "unit_reading_statuses": {
+        "U02091": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0138",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0139": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Accept U02129 main dgug dang bsad dang bcings pai las, preserving bskrad kyang as the smaller alternative. Do not flatten that reported action into a longer main enumeration.",
+      "source_units": [
+        "U02129"
+      ],
+      "exact_conflicts": [
+        "C1-0276",
+        "C1-0277"
+      ],
+      "release_reading": {
+        "U02129": "དགུག་དང་བསད་དང་བཅིངས་པའི་ལས། །"
+      },
+      "unit_reading_statuses": {
+        "U02129": "scan_intervention"
+      },
+      "retained_intervention_ids": [
+        "SCAN-CH1-LAYER-02129"
+      ],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0139",
+        "diplomatic/collation/chapter-01/reading-units.json",
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/collation/chapter-01/ch1-opening-corrections.json",
+        "diplomatic/collation/chapter-01/ch1-key-scan-checks.json",
+        "diplomatic/evidence/chapter-01/annotation-audit/p083-left.png",
+        "diplomatic/evidence/chapter-01/annotation-audit/p083-right.png"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
+    },
+    "L1-0140": {
+      "status": "retain_base",
+      "rationale": "Keep U02142 as the forty-ninth reply heading followed by U02143. S braces distinguish its presentation; no lexical or punctuation correction is inferred from them.",
+      "source_units": [
+        "U02142",
+        "U02143"
+      ],
+      "exact_conflicts": [
+        "C1-0278",
+        "C1-0279"
+      ],
+      "release_reading": {
+        "U02142": "དྲིས་ལན་ཞེ་དགུ་པ།",
+        "U02143": "གནས་ལུགས་འདུག་ཚུལ་འདི་ལྟ་བུ། །"
+      },
+      "unit_reading_statuses": {
+        "U02142": "lexically_compared_punctuation_not_certified",
+        "U02143": "lexically_compared_punctuation_not_certified"
+      },
+      "retained_intervention_ids": [],
+      "evidence": [
+        "diplomatic/collation/chapter-01/chapter1-loci.json#L1-0140",
+        "diplomatic/collation/chapter-01/reading-units.json"
+      ],
+      "review_method": "Coordinator inspected the full A/B/S quotations for loci101–140, applicable authored source-layer rationales and the previously inspected key numerical correction record. Choices preserve existing scan interventions/restorations; no new scan decipherment or arithmetic normalization.",
+      "fresh_scan_reading_performed": false,
+      "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
+      "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821"
     }
   },
   "packet_deferrals": {
