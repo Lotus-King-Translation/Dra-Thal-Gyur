@@ -49,3 +49,9 @@ The method does not impose an English translation or change the project's establ
 The continuous Adzom pass compares lexical main text, with source annotations reviewed separately; it does not certify exact physical punctuation or every ornate title glyph. Interventions retain existing e-text terminal delimiters where applicable until that review is complete. Thus the current product is a provisional diplomatic reading, not a completed strict facsimile transcription. Source-heading display order can be semantic/editorial: a comparison against U ordering alone does not establish a difference in the physical Adzom layout.
 
 Independent-agent image inspection is not independently credentialed human palaeography. The reports state when candidates were known before inspection and where reliable discrimination failed. Neither expected-text recognition nor an OCR locator constitutes evidence of agreement. The candidate findings and uncollated ranges remain explicit.
+
+## Approved Chapter 1 v1 release contract — 30 September 2026
+
+The user approved [the bounded v1 plan](release-v1-proposal/PLAN.json). For this release, preserve the corrected Adzom-based reading, accepted restorations, exact A/B/S comparison, defined W comparison and scoped scan apparatus. Localized uncertainty and explicitly uncollated comparison spans may remain. This release does not require new general scan reading, a normalized eclectic master, or decipherment of every physical sign.
+
+The finite gate is the eight frozen packet dispositions, 183 locus-specific release choices using existing research, reconciliation of the 88 baseline intervention records and 13 restored verses, five deliverable groups, reproducibility, exact reconstruction, evidence links, editorial acceptance and verified remote publication. Exhaustive-witness completion remains a separate unfinished research goal. Record and display a status report with every verified commit.

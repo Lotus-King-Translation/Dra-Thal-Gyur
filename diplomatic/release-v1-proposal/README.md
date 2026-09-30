@@ -1,7 +1,7 @@
 # Chapter 1: release-scope audit and proposed finite v1
 
 Audit date: 2026-09-30. Audited content: `55d6b61225dc9ef3d7b32ed2e905fce4ef89d5cf`.
-**This is a proposal, not a completed edition, approval, or change to METHOD.md.**
+**Approved by the user on 2026-09-30. Bounded v1 execution is active; the historical audit below is preserved. This does not certify exhaustive collation.**
 
 ## Findings
 

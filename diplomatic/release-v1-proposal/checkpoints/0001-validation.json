@@ -1,0 +1,34 @@
+{
+  "scope": "Chapter 1 structural and preservation checks; not a complete-witness certificate",
+  "source_hashes_unchanged": true,
+  "exact_reconstruction_checks": [
+    "minimal_B_exact",
+    "minimal_S_exact",
+    "whole_unit_B_exact",
+    "whole_unit_S_exact"
+  ],
+  "base_units_accounted_for": 2635,
+  "curated_replacement_anchors": 84,
+  "scan_intervention_records": 88,
+  "restored_main_verses": 13,
+  "abc_exact_conflicts": 359,
+  "abc_readable_loci": 183,
+  "local_comparison_findings_including_candidates": 667,
+  "archival_files_hash_checked": 669,
+  "original_manifest_files_hash_checked": 2,
+  "historical_markdown_files_integrity_checked_not_link_checked": 37,
+  "active_local_markdown_links_resolve": true,
+  "local_links_checked": 7552,
+  "evidence_references_checked": 3407,
+  "continuation_metadata_matches": true,
+  "chapter_complete": false,
+  "all_witnesses_collated": false,
+  "next_chapter_started": false,
+  "markdown_sha256": "2ba8e18dc0ece53fd06551c2baf6c467075e99c2f2999f91e6666a183a126efa",
+  "work_queue": {
+    "tasks_checked": 22,
+    "punctuation_candidates_tracked": 30,
+    "punctuation_candidates_unfinished": 1,
+    "next_task_id": "C1-W1ER119"
+  }
+}

@@ -1,5 +1,7 @@
 # Continue the diplomatic edition
 
+> **Active instruction, 2026-09-30:** The user approved the finite [Chapter 1 v1 release contract](release-v1-proposal/PLAN.json). Use its eight frozen packet records and 183 release-disposition IDs, not the historical exhaustive queue, as the publication gate. Run `python3 diplomatic/tools/release_progress.py --repo .` and report status with every verified commit. Earlier coverage and uncertainty records below remain evidence; they do not add new v1 prerequisites.
+
 **Start here on `main`. Chapter 1 is unfinished.** Its Markdown edition, integrated apparatus, surviving review ledgers and recovery archives are preserved together. Historical recovery branches remain available; they are not separate active work queues. Finish and remotely commit Chapter 1 before starting Chapter 2, then continue chapter by chapter.
 
 ## Start a session

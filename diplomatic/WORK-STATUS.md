@@ -1,5 +1,7 @@
 # Diplomatic edition — current work status
 
+> **Active instruction, 2026-09-30:** The user approved the finite [Chapter 1 v1 release contract](release-v1-proposal/PLAN.json). Use its eight frozen packet records and 183 release-disposition IDs, not the historical exhaustive queue, as the publication gate. Run `python3 diplomatic/tools/release_progress.py --repo .` and report status with every verified commit. Earlier coverage and uncertainty records below remain evidence; they do not add new v1 prerequisites.
+
 Updated 2026-09-29. **Chapter 1 is unfinished; Chapters 2–6 and the final colophon have not started.** Start at [HANDOFF.md](HANDOFF.md) for operational instructions and [WORK-QUEUE.json](WORK-QUEUE.json) for the next bounded task. This ledger records supported scholarly coverage and explicitly retained uncertainty; a saved inspection is not a whole-page collation.
 
 Preserved pre-continuation edition baseline: `afb5c5133357942267dc55fc60a1d22704d5ef08`. Current [Chapter 1](chapter-01.md) SHA-256: `2ba8e18dc0ece53fd06551c2baf6c467075e99c2f2999f91e6666a183a126efa`. See [C1-SIGNS-01](reviews/chapter-01/continuation/C1-SIGNS-01.md) and the [C1-SIGNS-02 review](reviews/chapter-01/continuation/C1-SIGNS-02.md); these local punctuation changes do not complete the edition.

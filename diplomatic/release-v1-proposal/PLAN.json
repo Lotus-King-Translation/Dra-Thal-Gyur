@@ -1,23 +1,63 @@
 {
   "schema_version": 1,
-  "status": "proposal_not_approved",
+  "status": "approved_in_progress",
   "audited_commit": "55d6b61225dc9ef3d7b32ed2e905fce4ef89d5cf",
   "title": "Chapter 1 v1: corrected Adzom-based reading with a scoped comparative apparatus",
   "scope": "Preserve the Adzom diplomatic reading and all accepted restorations; distinguish main text, source annotations and editorial notes. Use existing A/B/S/W comparison and already integrated scan evidence. No claim of exhaustive witness collation or reconstructed original.",
   "new_general_scan_reading_required": false,
   "scope_change_requires_approval": true,
   "unresolved_readings_allowed": "Yes, when localized, visibly qualified and linked to the evidence. An unexamined span must not be called unreadable or collated.",
-  "baseline_counts": {"source_anchors": 2635, "transcript_loci": 183, "exact_transcript_differences": 359, "intervention_records": 88, "curated_replacement_anchors": 84, "restored_main_verses": 13, "comparison_observations_including_uncertainty": 667},
+  "baseline_counts": {
+    "source_anchors": 2635,
+    "transcript_loci": 183,
+    "exact_transcript_differences": 359,
+    "intervention_records": 88,
+    "curated_replacement_anchors": 84,
+    "restored_main_verses": 13,
+    "comparison_observations_including_uncertainty": 667
+  },
   "locus_source": "diplomatic/collation/chapter-01/chapter1-loci.json",
   "pending_packets": [
-    {"task": "C1-BASE-PHYSICAL", "batch": "B14-P0017-0019", "scope": "Adzom physical PDF17-19"},
-    {"task": "C1-DZONGSAR", "batch": "B02-PHYSICAL-P0001-0003", "scope": "Dzongsar physical PDF1-3"},
-    {"task": "C1-TINGKYE", "batch": "B11-P0017-0019", "scope": "Tingkye PDF17-19"},
-    {"task": "C1-TSAMDRAK", "batch": "B11-P0027-0029", "scope": "Tsamdrak PDF27-29"},
-    {"task": "C1-DEGE", "batch": "B09-P0015-0017", "scope": "Dege PDF15-17"},
-    {"task": "C1-W1ER119", "batch": "B01-OPENING-P0002-0003", "scope": "W1ER119 opening PDF2-3"},
-    {"task": "C1-ADZOM1973", "batch": "B01-P0011-0013", "scope": "Adzom1973 provider PDF11-13"},
-    {"task": "C1-GCN", "batch": "B01-P0407-0409", "scope": "Gcn provider PDF407-409"}
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B14-P0017-0019",
+      "scope": "Adzom physical PDF17-19"
+    },
+    {
+      "task": "C1-DZONGSAR",
+      "batch": "B02-PHYSICAL-P0001-0003",
+      "scope": "Dzongsar physical PDF1-3"
+    },
+    {
+      "task": "C1-TINGKYE",
+      "batch": "B11-P0017-0019",
+      "scope": "Tingkye PDF17-19"
+    },
+    {
+      "task": "C1-TSAMDRAK",
+      "batch": "B11-P0027-0029",
+      "scope": "Tsamdrak PDF27-29"
+    },
+    {
+      "task": "C1-DEGE",
+      "batch": "B09-P0015-0017",
+      "scope": "Dege PDF15-17"
+    },
+    {
+      "task": "C1-W1ER119",
+      "batch": "B01-OPENING-P0002-0003",
+      "scope": "W1ER119 opening PDF2-3"
+    },
+    {
+      "task": "C1-ADZOM1973",
+      "batch": "B01-P0011-0013",
+      "scope": "Adzom1973 provider PDF11-13"
+    },
+    {
+      "task": "C1-GCN",
+      "batch": "B01-P0407-0409",
+      "scope": "Gcn provider PDF407-409"
+    }
   ],
   "packet_note": "These eight batch records await integration/disposition at the audited commit. Prepared labels can lag completed reader output. Output existence, hashes and parse status must be checked before integration; this count is not eight certified readings.",
   "release_artifacts": {
@@ -27,12 +67,28 @@
     "changes": "diplomatic/release-v1/CHANGES.md",
     "coverage_and_uncertainties": "diplomatic/release-v1/COVERAGE.md"
   },
-  "release_locus_dispositions": ["retain_base", "adopt_evidenced_correction", "retain_with_explicit_uncertainty"],
+  "release_locus_dispositions": [
+    "retain_base",
+    "adopt_evidenced_correction",
+    "retain_with_explicit_uncertainty"
+  ],
   "definition_of_release_disposition": "A locus-specific choice, rationale and existing evidence references. Previously completed research is reused. A generated generic provisional paragraph is not automatically a final-release acceptance entry.",
-  "deferred_work": ["Exhaustive physical-sign and ornament transcription", "Continuous comparison of all acquired scan witnesses", "Common-spell normalization or an eclectic reconstructed master", "Deciphering every title, caption and foreign-script glyph", "Rebuilding missing historical reports without new evidence"],
+  "deferred_work": [
+    "Exhaustive physical-sign and ornament transcription",
+    "Continuous comparison of all acquired scan witnesses",
+    "Common-spell normalization or an eclectic reconstructed master",
+    "Deciphering every title, caption and foreign-script glyph",
+    "Rebuilding missing historical reports without new evidence"
+  ],
   "historical_gate_unchanged": true,
   "counts_are_not_accuracy_scores": true,
   "time_estimate": null,
-  "next_step": "Approve or amend this bounded release scope, then close the eight frozen packet records without commissioning replacement readings. Populate final-release dispositions from existing evidence and reconcile the 88 interventions and 13 restorations. Publish the five deliverables after validation.",
-  "metric_caveat": "The 183 acceptance entries below are a new release checklist, not 183 wholly unreviewed scholarly loci. Workload denominators remain separate; no aggregate percentage or claimed accuracy is computed."
+  "next_step": "Close the eight frozen packet records, then release dispositions, accepted-content reconciliation, five deliverables, and the scoped final gate. No new general scan-reading prerequisite.",
+  "metric_caveat": "The 183 acceptance entries below are a new release checklist, not 183 wholly unreviewed scholarly loci. Workload denominators remain separate; no aggregate percentage or claimed accuracy is computed.",
+  "approval": {
+    "recorded_at": "2026-09-30T13:17:25.269484+00:00",
+    "user_instruction": "ok cool, you can go with it, but every step of the way together with commit I want to see the status report.",
+    "scope": "The bounded Chapter 1 v1 plan proposed immediately before this approval.",
+    "checkpoint_reporting": "After every verified commit: actual changes, closed/remaining packets out of 8, release decisions out of 183, packaged outputs out of 5, validation, preserved restorations, verified remote SHA."
+  }
 }

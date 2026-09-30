@@ -1,11 +1,16 @@
 {
-  "schema_version": 1,
-  "notice": "New proposed v1 acceptance checklist; empty entries do not erase or invalidate existing scholarly work.",
-  "scope_approved": true,
-  "loci": {},
-  "packet_deferrals": {},
-  "final_editorial_signoff": null,
-  "scope_approval": {
+  "step": 1,
+  "parent_commit": "04b0df3d357f5d926cf1adf46134f43303b0ceca",
+  "change": "User approved bounded v1; no Tibetan or apparatus reading changed.",
+  "expected_counters": {
+    "packets_closed": 0,
+    "packets_remaining": 8,
+    "loci_accepted": 0,
+    "loci_remaining": 183,
+    "artifacts_present": 0,
+    "artifacts_total": 5
+  },
+  "approval": {
     "recorded_at": "2026-09-30T13:17:25.269484+00:00",
     "user_instruction": "ok cool, you can go with it, but every step of the way together with commit I want to see the status report.",
     "scope": "The bounded Chapter 1 v1 plan proposed immediately before this approval.",
