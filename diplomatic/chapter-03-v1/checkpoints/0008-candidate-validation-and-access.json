@@ -1,0 +1,25 @@
+{
+  "parent_commit": "ea9d23f38ef5d00c076fc6fc9afbf747ad3d26e0",
+  "changes": "Preserve the completed positive release validator, successful candidate validation, unrun corruption-test script, editorial review and explicit blocked-request record. No Tibetan or source-image changes.",
+  "status": {
+    "transcript_loci": {"completed": 41, "total": 41, "remaining": 0},
+    "W_blocks": {"completed": 76, "total": 76, "remaining": 0},
+    "source_checks": {"completed": 10, "total": 10, "remaining": 0},
+    "deliverable_groups": {"present": 5, "total": 5},
+    "original_anchors_preserved": 683,
+    "restored_main_verses": 3,
+    "separate_source_note_components": 10,
+    "local_word_corrections": 1,
+    "positive_validation_passed": true,
+    "mutation_tests_run": false,
+    "final_signoff_recorded": false,
+    "release_tag_published": false,
+    "remaining_stage": "Final release gate"
+  },
+  "validation": "diplomatic/chapter-03-v1/release/VALIDATION.json",
+  "access_record": "diplomatic/chapter-03-v1/checkpoints/0008-test-access.json",
+  "editorial_review": "diplomatic/chapter-03-v1/EDITORIAL-REVIEW.md",
+  "prior_releases_unchanged_in_successful_validation": true,
+  "exhaustive_witness_collation": false,
+  "new_general_source_reading_required": false
+}
