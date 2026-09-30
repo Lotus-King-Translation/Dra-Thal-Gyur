@@ -1,5 +1,5 @@
 {
-  "status": "running_not_accepted",
+  "status": "captured_requires_coordinator_review",
   "specification": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B11-P0027-0029-reader-spec.json",
   "request_sha256": "6be4502cd8493503b09be2dc763de0f81ab96552c5e5d701e1e3b756cb1fb683",
   "images": [
@@ -293,5 +293,13 @@
     30
   ],
   "sandbox": "read-only",
-  "editorial_decisions_made_by_wrapper": false
+  "editorial_decisions_made_by_wrapper": false,
+  "returncode": 0,
+  "unexpected_tool_items": [],
+  "unparseable_event_lines": 0,
+  "finished_at": "2026-09-29T16:15:25.784895+00:00",
+  "output_hashes": {
+    "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B11-P0027-0029-reader-session.jsonl": "f942a6a23209f522a1d42124edd27d6921f17857764d22dfe492c4cf09bae8d1",
+    "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B11-P0027-0029-reader-stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "status": "running_not_accepted",
+  "status": "captured_requires_coordinator_review",
   "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B14-P0017-0019-reader-spec.json",
   "request_sha256": "d81d77a9091fb2bb1fc543d5866e7e7a32efbd5365520c10049edab3956e826f",
   "images": [
@@ -293,5 +293,13 @@
     20
   ],
   "sandbox": "read-only",
-  "editorial_decisions_made_by_wrapper": false
+  "editorial_decisions_made_by_wrapper": false,
+  "returncode": 0,
+  "unexpected_tool_items": [],
+  "unparseable_event_lines": 0,
+  "finished_at": "2026-09-29T16:15:25.782281+00:00",
+  "output_hashes": {
+    "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B14-P0017-0019-reader-session.jsonl": "844a1e39dfd01b1fdc14832bec39972d8655c2412ff84420a83c3d777068c3d7",
+    "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B14-P0017-0019-reader-stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
 }
