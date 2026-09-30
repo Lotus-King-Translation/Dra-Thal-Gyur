@@ -18,7 +18,7 @@ def report(root):
         assert hashlib.sha256((c/name).read_bytes()).hexdigest()==h, 'Frozen comparison changed'
     paths=['reading.md','apparatus.md','reading.json','CHANGES.md','COVERAGE.md']
     return {'chapter':3,'state':p['status'],'source_anchors':p['original_anchor_count'],
-        'source_families_verified':4,'transcript_loci':count('loci',p['frozen_locus_ids']),
+        'electronic_representations_verified':4,'transcript_loci':count('loci',p['frozen_locus_ids']),
         'W_blocks':count('W',p['frozen_W_ids']),
         'source_checks':count('source_checks',[x['id'] for x in p['source_check_targets']]),
         'interventions':len(load(c/'INTERVENTIONS.json')),
