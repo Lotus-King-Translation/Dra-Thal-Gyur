@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "chapter": 5,
-  "status": "approved_in_progress",
+  "status": "released_bounded_v1",
   "baseline_commit": "8b90fe5f66feb7531301214991e881a41e816ab4",
   "approval": "User: excellent, chapter 5 then. next. Continue bounded v1, with actual status report after every verified remote commit.",
   "title": "Chapter 5 v1 — corrected Adzom-based reading with scoped comparative apparatus",
@@ -261,5 +261,6 @@
     "collation.json": "2ff44e13658741d01b7af3515a279e615fe66094b27ac032501c5ee6695933e2",
     "wikisource.json": "b0177c7e4df9b06adfa850a74ed1c035899f1d7021f923372e3df160bf497cb5"
   },
-  "next_step": "Inspect the 12 fixed source targets, document all 27 passage and 40 W decisions, assemble five deliverables and pass final tests/signoff/publication. No new general witness queue."
+  "next_step": "No remaining editorial work in the approved Chapter5 bounded v1 gate after final checks and verified publication. Chapter6 has not started. Exhaustive proofreading remains separate.",
+  "release_id": "chapter-05-v1.0.0"
 }

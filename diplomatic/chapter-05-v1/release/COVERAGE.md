@@ -1,6 +1,6 @@
 # Chapter 5 v1 — coverage and retained uncertainty
 
-**Release candidate — final gate pending**
+**Released bounded v1**
 
 The bounded scope contains 434 original anchors, all 48 A/B/S differences in 27 loci, all 40 related W comparison blocks, and twelve targeted Adzom source-check dispositions. It does not claim a continuous scan proofread or exhaustive comparison of acquired witnesses.
 

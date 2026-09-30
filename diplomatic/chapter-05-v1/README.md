@@ -1,9 +1,23 @@
-# Chapter 5 — bounded v1 in progress
+# Chapter 5 — bounded v1
 
-Fixed scope: 434 original anchors U04764–U05197; 27 A/B/S passage decisions covering 48 exact differences; 40 W reference-block decisions; 12 targeted source checks; five release groups and final publication gate.
+Version: **chapter-05-v1.0.0**. Corrected Adzom-based reading with scoped comparative apparatus.
 
-Original source strings remain immutable. Do not treat electronic equality as printed agreement, or adopt majority readings without source evidence. Historic locator notes are not complete proofreading.
+[Reading](release/reading.md) · [Apparatus](release/apparatus.md) · [Machine edition](release/reading.json) · [Changes](release/CHANGES.md) · [Coverage](release/COVERAGE.md)
 
-[Plan](PLAN.json) · [Progress](PROGRESS.json) · [Locator notes](INTAKE-NOTES.md)
+| Fixed workstream | Complete | Remaining |
+|---|---:|---:|
+| A/B/S passage decisions | 27/27 | 0 |
+| Related W reference decisions | 40/40 | 0 |
+| Targeted source dispositions | 12/12 | 0 |
+| Deliverable groups | 5/5 | 0 |
+| Source-bound signoff and final tests | Passed | 0 |
 
-Run `python3 diplomatic/chapter-05-v1/progress.py --repo .`. Save a status checkpoint, commit and verify remote main after every bounded batch, and display the completed/remaining counts to the user. Chapters1–4 must remain unchanged.
+The edition preserves all 434 original anchors U04764–U05197. It restores two main verses, separates three source-note components, and identifies a section heading without changing its string. Three original-anchor reading strings change; the complete original strings remain immutable.
+
+[Final review](FINAL-REVIEW.md) · [Validation](release/VALIDATION.json) · [Progress](PROGRESS.json) · [Plan](PLAN.json)
+
+All 32 deliberately corrupted in-memory fixtures were rejected. Final-mode validation, lossless source reconstruction and reproducibility passed. The view-allocation ledger prevents exploratory or mislocated crops from being silently counted as accepted anchor evidence.
+
+The source consonant at U04923, compact note details, U05079 punctuation, closing delimiters and the boundary graphic remain explicitly qualified. Untargeted wording remains supplied Adzom. This release is not complete scan proofreading, exhaustive witness collation or an independently measured accuracy claim.
+
+Run `python3 diplomatic/chapter-05-v1/validate_release.py --repo . --require-final` and `python3 diplomatic/chapter-05-v1/progress.py --repo .`. Preserve Chapters 1–4 unchanged. Chapter 6 has not started.

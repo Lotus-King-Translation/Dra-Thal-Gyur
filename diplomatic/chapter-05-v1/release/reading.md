@@ -1,6 +1,6 @@
 # Chapter 5 — corrected Adzom-based reading
 
-**Release candidate — final gate pending**
+**Released bounded v1**
 
 All 434 original anchors are retained, with two scan-attested main verses restored and source notes separated. This is not a complete scan proofread: untargeted wording remains the supplied Adzom transcript. A heading role does not certify every printed heading glyph.
 
