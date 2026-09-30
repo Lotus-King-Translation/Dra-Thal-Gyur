@@ -1,0 +1,289 @@
+{
+  "scope": "Release-only qualification of existing readings; no Tibetan edits and no new collation credit.",
+  "exceptions": [
+    {
+      "id": "V1-RETAIN-B08-P0009-B04",
+      "units": [
+        "U00156"
+      ],
+      "status": "retain_current_with_explicit_uncertainty",
+      "rationale": "Retain the existing adopted reading for v1. The saved physical review raises this bounded counter-reading or sign-allocation question but explicitly withholds canonical adoption. No additional reading is commissioned for the bounded release. Preserve the exact proposal and flag the affected reading, without accepting a deletion, replacement or new sign count.",
+      "evidence": [
+        "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL.json"
+      ],
+      "batch_id": "B08-P0009",
+      "observation": {
+        "id": "B04",
+        "anchors": [
+          "U00156",
+          "U00157"
+        ],
+        "source_span": "དང [upper dot; V] [physical row break] རྟག",
+        "base_span": "དང༌། ། རྟག",
+        "category": "boundary_across_row",
+        "neighboring_context": "པ་དང / རྟག་ཏུ",
+        "approx_native_bounds": [
+          [
+            4820,
+            270,
+            5040,
+            420
+          ],
+          [
+            700,
+            390,
+            960,
+            550
+          ]
+        ],
+        "physical_components": {
+          "detached_uprights": 1,
+          "upper_dots": 1,
+          "additional_detached_upright_at_R2_start": 0
+        },
+        "confidence": {
+          "count": "medium",
+          "dot": "medium",
+          "alignment": "high"
+        },
+        "rationale": "One terminal upright is distinguishable from the right frame. R2 begins with the connected རྟག stack; I do not identify an additional detached leading upright there.",
+        "coordinator_disposition": "The saved reader and coordinator native columns support one detached terminal upright after U00156 dang, with no independent leading bar at row2 rtag. Preserve this candidate disagreement with the double-shad scaffold for a bounded terminal adjudication; do not yet delete punctuation."
+      }
+    },
+    {
+      "id": "V1-RETAIN-B09-P0010-P10-O25",
+      "units": [
+        "U00179"
+      ],
+      "status": "retain_current_with_explicit_uncertainty",
+      "rationale": "Retain the existing adopted reading for v1. The saved physical review raises this bounded counter-reading or sign-allocation question but explicitly withholds canonical adoption. No additional reading is commissioned for the bounded release. Preserve the exact proposal and flag the affected reading, without accepting a deletion, replacement or new sign count.",
+      "evidence": [
+        "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL.json"
+      ],
+      "batch_id": "B09-P0010",
+      "observation": {
+        "id": "P10-O25",
+        "anchors": [
+          "U00179"
+        ],
+        "source_span": "དབྱེར་མེད⟦B02⟧",
+        "base_span": "དབྱེར་མེད་དོ། །",
+        "category": "unmatched_base_material",
+        "neighboring_context": "R1 before དེ་ནས",
+        "approximate_native_bounds": [
+          2040,
+          320,
+          2450,
+          490
+        ],
+        "confidence_by_dimension": {
+          "visible_sequence": "medium-high",
+          "absence_of_separate_do": "medium"
+        },
+        "rationale": "The inspected sequence reads མེད followed by the boundary. I do not identify a separate དོ here. This is a local recheck flag, not an authorized replacement of the lexical pass.",
+        "coordinator_disposition": "The raw reader finds med directly before the boundary and no separate do; the coordinator sees the same shorter sequence in the native row1 context. Preserve the exact U00179 med/do scaffold conflict for a bounded adjudication, without silently deleting a syllable now."
+      }
+    },
+    {
+      "id": "V1-RETAIN-B09-P0010-P10-O26",
+      "units": [
+        "U00184"
+      ],
+      "status": "retain_current_with_explicit_uncertainty",
+      "rationale": "Retain the existing adopted reading for v1. The saved physical review raises this bounded counter-reading or sign-allocation question but explicitly withholds canonical adoption. No additional reading is commissioned for the bounded release. Preserve the exact proposal and flag the affected reading, without accepting a deletion, replacement or new sign count.",
+      "evidence": [
+        "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL.json"
+      ],
+      "batch_id": "B09-P0010",
+      "observation": {
+        "id": "P10-O26",
+        "anchors": [
+          "U00180",
+          "U00184"
+        ],
+        "source_span": "དམ་⟦N1⟧ཉིད",
+        "base_span": "U00184 དམ་པ་ཉིད; SCAN-CH1-LAYER-00180",
+        "category": "physical_interleaving",
+        "neighboring_context": "R2, སྣང་བ་དམ and large ཉིད",
+        "approximate_native_bounds": [
+          2640,
+          440,
+          3660,
+          625
+        ],
+        "confidence_by_dimension": {
+          "smaller_text_layer": "high",
+          "main_pa_localization": "low",
+          "annotation_association": "medium"
+        },
+        "rationale": "The smaller passage is visibly interposed here although associated with U00180. Its terminal པ cannot automatically supply a main-text པ. Exact main-letter allocation at this junction remains unresolved.",
+        "coordinator_disposition": "N1 is physically smaller and interposed between main dam and nyid on row2. Its final small pa must not be counted as a main pa; the main-letter allocation and small zhu reading remain explicitly unresolved."
+      }
+    },
+    {
+      "id": "V1-RETAIN-B09-P0010-P10-O29",
+      "units": [
+        "U00197"
+      ],
+      "status": "retain_current_with_explicit_uncertainty",
+      "rationale": "Retain the existing adopted reading for v1. The saved physical review raises this bounded counter-reading or sign-allocation question but explicitly withholds canonical adoption. No additional reading is commissioned for the bounded release. Preserve the exact proposal and flag the affected reading, without accepting a deletion, replacement or new sign count.",
+      "evidence": [
+        "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL.json"
+      ],
+      "batch_id": "B09-P0010",
+      "observation": {
+        "id": "P10-O29",
+        "anchors": [
+          "U00197"
+        ],
+        "source_span": "འཇིག⟦ས?⟧་པའི",
+        "base_span": "འཇིག་པའི",
+        "category": "bounded_lexical_question",
+        "neighboring_context": "R5 after B19, before རྒྱུ་ནི",
+        "approximate_native_bounds": [
+          4390,
+          780,
+          4760,
+          980
+        ],
+        "confidence_by_dimension": {
+          "location": "high",
+          "possible_suffix": "low"
+        },
+        "rationale": "There appears to be material compatible with ས after ག. I leave that glyph question explicit rather than silently following either the base or the candidate spelling.",
+        "coordinator_disposition": "Keep the possible final sa after jig as an unresolved lexical candidate; the current lexical reading is not silently changed."
+      }
+    },
+    {
+      "id": "V1-RETAIN-B13-P0014-0016-O15-3",
+      "units": [
+        "U00316",
+        "U00317",
+        "U00318",
+        "U00319"
+      ],
+      "status": "retain_current_with_explicit_uncertainty",
+      "rationale": "Retain the existing adopted reading for v1. The saved physical review raises this bounded counter-reading or sign-allocation question but explicitly withholds canonical adoption. No additional reading is commissioned for the bounded release. Preserve the exact proposal and flag the affected reading, without accepting a deletion, replacement or new sign count.",
+      "evidence": [
+        "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL.json"
+      ],
+      "batch_id": "B13-P0014-0016",
+      "observation": {
+        "id": "O15-3",
+        "pdf_page": 15,
+        "anchors": [
+          "U00316",
+          "U00317",
+          "U00318",
+          "U00319"
+        ],
+        "source_span": "སྣང་ [B2] [N15a] [B1] དྲིས་ལན་དང་པོ [B2] འབྱུང་བའི",
+        "base_span": "U00316 has one encoded final shad; U00317 and U00318 each have one encoded final shad.",
+        "category": "physical_punctuation_difference",
+        "neighboring_context": "PDF15 row 4, the transition from the main statement through the source note and reply heading into U00319.",
+        "approximate_native_bounds": [
+          2070,
+          650,
+          3630,
+          820
+        ],
+        "confidence": {
+          "sign_count": "medium",
+          "alignment": "high",
+          "layer_separation": "high"
+        },
+        "rationale": "The complete visible intervals, including next-leading bars, read B2/B1/B2. This records physical punctuation without changing the earlier lexical pass.",
+        "coordinator_disposition": "Pending sign-adoption review: B2/B1/B2 across U00316–U00319. Preserve every observed component without changing source-note punctuation from this medium-confidence inventory alone."
+      }
+    },
+    {
+      "id": "V1-RETAIN-B13-P0014-0016-O16-3",
+      "units": [
+        "U00343",
+        "U00344",
+        "U00345"
+      ],
+      "status": "retain_current_with_explicit_uncertainty",
+      "rationale": "Retain the existing adopted reading for v1. The saved physical review raises this bounded counter-reading or sign-allocation question but explicitly withholds canonical adoption. No additional reading is commissioned for the bounded release. Preserve the exact proposal and flag the affected reading, without accepting a deletion, replacement or new sign count.",
+      "evidence": [
+        "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL.json"
+      ],
+      "batch_id": "B13-P0014-0016",
+      "observation": {
+        "id": "O16-3",
+        "pdf_page": 16,
+        "anchors": [
+          "U00343",
+          "U00344",
+          "U00345"
+        ],
+        "source_span": "མཁས [B1] དྲིས་ལན་[Q16H]་པ [B2] ཡན་ལག",
+        "base_span": "U00343 ends ། །; U00344 is དྲིས་ལན་གཉིས་པ།.",
+        "category": "heading_and_physical_punctuation_difference",
+        "neighboring_context": "Middle of PDF16 row 4, after the completed phrase བྱ་བ་རྫོགས་པའི་དོན་ལ་མཁས.",
+        "approximate_native_bounds": [
+          2290,
+          680,
+          3160,
+          845
+        ],
+        "confidence": {
+          "heading_placement": "high",
+          "sign_count": "medium",
+          "alignment": "high",
+          "ordinal_letters": "low"
+        },
+        "rationale": "The interval before the heading has one detached bar; the following interval has two. The heading's ordinal component remains unresolved rather than inferred from reply order.",
+        "coordinator_disposition": "Pending sign-adoption review: reported B1 before U00344 and B2 after it. Preserve the unresolved ordinal Q16H and do not transfer or delete shads without separate corroboration."
+      }
+    },
+    {
+      "id": "V1-HEADING-U02489",
+      "units": [
+        "U02489"
+      ],
+      "status": "retain_current_with_explicit_uncertainty",
+      "rationale": "The two main-terminal shads are adopted; the separate small heading terminal on PDF97 is not independently resolved. Keep its lettering and source-layer distinction, without converting the main-terminal verification into heading certification.",
+      "evidence": [
+        "diplomatic/collation/chapter-01/additional-interventions.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL.json"
+      ]
+    }
+  ],
+  "existing_canonical_uncertainties_retained": [
+    "U00002",
+    "U00004",
+    "U00005",
+    "U00006",
+    "U00014",
+    "U00029",
+    "U00048",
+    "U00049",
+    "U00080",
+    "U00092",
+    "U00093",
+    "U00126",
+    "U01239",
+    "U01286",
+    "U01522",
+    "U01557",
+    "U02615",
+    "U02620"
+  ],
+  "unverified_opening_scaffold_retained": [
+    "U00001",
+    "U00003"
+  ],
+  "rejected_hypotheses_retained": [
+    {
+      "hypothesis": "Delete22 shads on Adzom PDF7",
+      "disposition": "rejected, not revived",
+      "evidence": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL.json"
+    },
+    {
+      "hypothesis": "Use the rejected S09 raw following-incipit identification to expand its reading",
+      "disposition": "rejected, not revived",
+      "evidence": "diplomatic/reviews/chapter-01/continuation/C1-BASE-UNCERTAINTIES.json"
+    }
+  ]
+}

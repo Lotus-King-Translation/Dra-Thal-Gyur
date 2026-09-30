@@ -1,0 +1,1037 @@
+{
+  "baseline_commit": "55d6b61225dc9ef3d7b32ed2e905fce4ef89d5cf",
+  "input_files": [
+    {
+      "path": "diplomatic/collation/chapter-01/reading-units.json",
+      "sha256": "368cca89dd722a7e20ab464ffe8e726dc9926bb3a846f5b2651e80e20bcf24f7",
+      "identical_to_baseline": true
+    },
+    {
+      "path": "diplomatic/collation/chapter-01/ch1-scan-insertions.json",
+      "sha256": "097ad658ea3b73294f1738a7bf083cc24887b2d87b550426ed3af38663a8993a",
+      "identical_to_baseline": true
+    },
+    {
+      "path": "diplomatic/collation/chapter-01/additional-interventions.json",
+      "sha256": "36bf99726d824040b9bd55a8247672f0bf957ce1f86a25e9a7e050235753c108",
+      "identical_to_baseline": true
+    },
+    {
+      "path": "diplomatic/collation/chapter-01/ch1-opening-corrections.json",
+      "sha256": "266004690ee18afd8ea66a80ddf875ef55bc4cfea6204f857ebd9ab1cce3d542",
+      "identical_to_baseline": true
+    },
+    {
+      "path": "diplomatic/collation/chapter-01/ch1-key-scan-checks.json",
+      "sha256": "1201d9de9b37e34d4190a9244da31a91e03b1747ee855d1df2be563f7a0fc382",
+      "identical_to_baseline": true
+    }
+  ],
+  "accepted_interventions": [
+    {
+      "id": "SCAN-CH1-LAYER-00180",
+      "units": [
+        "U00180"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-00187",
+      "units": [
+        "U00187"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-00192",
+      "units": [
+        "U00192"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-00272",
+      "units": [
+        "U00272"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 3,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-00317",
+      "units": [
+        "U00317"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-00318",
+      "units": [
+        "U00318"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-00328",
+      "units": [
+        "U00328"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-00534",
+      "units": [
+        "U00534"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-00596",
+      "units": [
+        "U00596"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-00626",
+      "units": [
+        "U00626"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 3,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-00632",
+      "units": [
+        "U00632"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-00651",
+      "units": [
+        "U00651"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-00710",
+      "units": [
+        "U00710"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 9,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-00800",
+      "units": [
+        "U00800"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-01144",
+      "units": [
+        "U01144"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 3,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-01233",
+      "units": [
+        "U01233",
+        "U01237",
+        "U01238"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-01265",
+      "units": [
+        "U01265"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-01414",
+      "units": [
+        "U01414"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-01417",
+      "units": [
+        "U01417"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-01422",
+      "units": [
+        "U01422"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-01439",
+      "units": [
+        "U01439"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-01567",
+      "units": [
+        "U01567"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-01657",
+      "units": [
+        "U01657"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-01668",
+      "units": [
+        "U01668"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-01711",
+      "units": [
+        "U01711"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-01716",
+      "units": [
+        "U01716"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-01734",
+      "units": [
+        "U01734"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-01776",
+      "units": [
+        "U01776"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-01803",
+      "units": [
+        "U01803"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 5,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-01806",
+      "units": [
+        "U01806"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-01829",
+      "units": [
+        "U01829"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 3,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-02129",
+      "units": [
+        "U02129"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-02225",
+      "units": [
+        "U02225"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-02332",
+      "units": [
+        "U02332"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-02489",
+      "units": [
+        "U02489"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 11,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-02615",
+      "units": [
+        "U02615"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 11,
+      "reading_uncertainty_retained": true,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-02620",
+      "units": [
+        "U02620"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 11,
+      "reading_uncertainty_retained": true,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-CONT-01598",
+      "units": [
+        "U01598"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 1,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-CONT-01522",
+      "units": [
+        "U01522"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 8,
+      "reading_uncertainty_retained": true,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-TITLE-UNCERTAINTY",
+      "units": [
+        "U00002",
+        "U00004",
+        "U00005",
+        "U00006"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 4,
+      "reading_uncertainty_retained": true,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-CONT-02522",
+      "units": [
+        "U02522"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 1,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-CONT-02597",
+      "units": [
+        "U02597"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 1,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260927-U00030",
+      "units": [
+        "U00030"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260927-U00035",
+      "units": [
+        "U00035"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260927-U00105",
+      "units": [
+        "U00105"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 1,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260927-U00252",
+      "units": [
+        "U00252"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260927-U00372",
+      "units": [
+        "U00372"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 1,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260927-U00578",
+      "units": [
+        "U00578"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260927-U00594",
+      "units": [
+        "U00594"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 6,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260927-U01757",
+      "units": [
+        "U01757"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 6,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260927-U02080",
+      "units": [
+        "U02080"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 7,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260928-U02172",
+      "units": [
+        "U02172"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 6,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260928-U02183",
+      "units": [
+        "U02183"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 7,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260928-U02484",
+      "units": [
+        "U02484"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 6,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260928-U01094",
+      "units": [
+        "U01094"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 5,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260928-U01270",
+      "units": [
+        "U01270"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 4,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260928-U01416",
+      "units": [
+        "U01416"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 4,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260928-U01534",
+      "units": [
+        "U01534"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 5,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260928-U00995",
+      "units": [
+        "U00995"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 4,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260928-U01627",
+      "units": [
+        "U01627"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 5,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260928-U01635",
+      "units": [
+        "U01635"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 5,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260928-U00910",
+      "units": [
+        "U00910"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260928-U00948",
+      "units": [
+        "U00948"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260928-U01023",
+      "units": [
+        "U01023"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260928-U01147",
+      "units": [
+        "U01147"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260928-U01186",
+      "units": [
+        "U01186"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 3,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260928-U01257",
+      "units": [
+        "U01257"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260928-U01308",
+      "units": [
+        "U01308"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 3,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260928-U01353",
+      "units": [
+        "U01353"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260928-U01476",
+      "units": [
+        "U01476"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 3,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260928-U01540",
+      "units": [
+        "U01540"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 5,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260928-U01634",
+      "units": [
+        "U01634"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260928-U01661",
+      "units": [
+        "U01661"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260928-U01727",
+      "units": [
+        "U01727"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 3,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260928-U01539",
+      "units": [
+        "U01539"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 3,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260928-U01595",
+      "units": [
+        "U01595"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260928-U01688",
+      "units": [
+        "U01688"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-UNCERTAIN-U01239",
+      "units": [
+        "U01239"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 6,
+      "reading_uncertainty_retained": true,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SIGNS-VERIFIED-20260928-U01557",
+      "units": [
+        "U01557"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 7,
+      "reading_uncertainty_retained": true,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-LAYER-01286",
+      "units": [
+        "U01286"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 7,
+      "reading_uncertainty_retained": true,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-SIGN-00014-UNCERTAIN",
+      "units": [
+        "U00014"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 15,
+      "reading_uncertainty_retained": true,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-PHYS-P006-007-UNCERTAINTIES",
+      "units": [
+        "U00080",
+        "U00092",
+        "U00093",
+        "U00126"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 5,
+      "reading_uncertainty_retained": true,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-PHYS-P004-UNCERTAINTIES",
+      "units": [
+        "U00029",
+        "U00048",
+        "U00049"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 7,
+      "reading_uncertainty_retained": true,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "A2000-C01-C01",
+      "units": [
+        "U00039"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-00542",
+      "units": [
+        "U00542"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 2,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-01067",
+      "units": [
+        "U01067"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 4,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-01090",
+      "units": [
+        "U01090"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 5,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    },
+    {
+      "id": "SCAN-CH1-01811-01812",
+      "units": [
+        "U01811",
+        "U01812"
+      ],
+      "preserved": true,
+      "evidence_refs_checked": 7,
+      "reading_uncertainty_retained": false,
+      "disposition": "Retain the adopted record, its exact scope and all qualifications for v1."
+    }
+  ],
+  "restorations": [
+    {
+      "id": "A2000-C01-S01",
+      "kind": "main_text_restoration",
+      "after_unit": "U01274",
+      "before_unit": "U01275",
+      "anchor_sequence": 1,
+      "lines": [
+        "ཆུ་ཡི་ཟུག་པས་དབང་པོ་སྡུད།",
+        "བྱེར་བ་ཡིས་ནི་འཁྲུགས་པར་བྱེད།",
+        "སྙོམས་པ་ཡིས་ནི་འབྲས་བུ་འབྱིན།"
+      ],
+      "disposition": "Include all accepted lines in their recorded layer/order; keep source caption and unresolved inscription distinct from main verse."
+    },
+    {
+      "id": "A2000-C01-S02",
+      "kind": "main_text_restoration",
+      "after_unit": "U01882",
+      "before_unit": "U01883",
+      "anchor_sequence": 1,
+      "lines": [
+        "སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ། །",
+        "འདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ། །",
+        "སྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང་། །"
+      ],
+      "disposition": "Include all accepted lines in their recorded layer/order; keep source caption and unresolved inscription distinct from main verse."
+    },
+    {
+      "id": "A2000-C01-S03",
+      "kind": "main_text_restoration",
+      "after_unit": "U02005",
+      "before_unit": "U02006",
+      "anchor_sequence": 1,
+      "lines": [
+        "གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ། །",
+        "འདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ། །",
+        "འདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས། །"
+      ],
+      "disposition": "Include all accepted lines in their recorded layer/order; keep source caption and unresolved inscription distinct from main verse."
+    },
+    {
+      "id": "A2000-C01-S04",
+      "kind": "main_text_restoration",
+      "after_unit": "U02187",
+      "before_unit": "U02188",
+      "anchor_sequence": 1,
+      "lines": [
+        "འདུ་ཤེས་ཅན་དག་མཐའ་ལ་འཇོག།",
+        "མངོན་སུམ་གནད་ཀྱི་མན་ངག་གིས། །"
+      ],
+      "disposition": "Include all accepted lines in their recorded layer/order; keep source caption and unresolved inscription distinct from main verse."
+    },
+    {
+      "id": "A2000-C01-S05",
+      "kind": "main_text_restoration",
+      "after_unit": "U02308",
+      "before_unit": "U02309",
+      "anchor_sequence": 1,
+      "lines": [
+        "རྡོ་རྗེ་གསང་བའི་གནས་གཟུང་བྱའོ། །"
+      ],
+      "disposition": "Include all accepted lines in their recorded layer/order; keep source caption and unresolved inscription distinct from main verse."
+    },
+    {
+      "id": "A2000-C01-S06",
+      "kind": "source_heading_restoration",
+      "after_unit": "U02308",
+      "before_unit": "U02309",
+      "anchor_sequence": 2,
+      "lines": [
+        "དྲིས་ལན་ང་བདུན་པ། །"
+      ],
+      "disposition": "Include all accepted lines in their recorded layer/order; keep source caption and unresolved inscription distinct from main verse."
+    },
+    {
+      "id": "A2000-C01-S07",
+      "kind": "main_text_restoration",
+      "after_unit": "U02308",
+      "before_unit": "U02309",
+      "anchor_sequence": 3,
+      "lines": [
+        "ཡང་ནི་ལྷ་དབང་དགའ་བྱེད་ཉོན། །"
+      ],
+      "disposition": "Include all accepted lines in their recorded layer/order; keep source caption and unresolved inscription distinct from main verse."
+    },
+    {
+      "id": "A2000-C01-S08",
+      "kind": "source_caption_provisional",
+      "after_unit": "U00010",
+      "before_unit": "U00011",
+      "anchor_sequence": 1,
+      "lines": [
+        "བརྒྱུད་གསུམ་⟦Q16⟧ཐོག་མ⟦Q17⟧ ⟦Q18⟧",
+        "སྟོན་པ་ཀུན་བཟང་ཡབ་ཡུམ་ལ་འདུད ⟦D D⟧"
+      ],
+      "disposition": "Include all accepted lines in their recorded layer/order; keep source caption and unresolved inscription distinct from main verse."
+    },
+    {
+      "id": "A2000-C01-S09",
+      "kind": "scan_only_unresolved",
+      "after_unit": "U02635",
+      "before_unit": "U02636",
+      "anchor_sequence": 1,
+      "lines": [],
+      "disposition": "Include all accepted lines in their recorded layer/order; keep source caption and unresolved inscription distinct from main verse."
+    }
+  ],
+  "root_reading_changed_since_baseline": false,
+  "note": "Mechanical preservation and explicit acceptance reconciliation, not a new palaeographic certification.",
+  "release_loci_checked": 183,
+  "all_correction_choices_have_a_retained_intervention_or_restoration": true,
+  "all_chosen_readings_equal_current_canonical_reading": true,
+  "release_exception_record": "diplomatic/release-v1-proposal/RELEASE-EXCEPTIONS.json",
+  "all_checks_passed": true
+}
