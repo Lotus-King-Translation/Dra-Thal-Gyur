@@ -1,23 +1,25 @@
-# Whole root tantra — bounded v1 assembly
+# Whole root tantra — bounded v1 assembly preview
 
-**Source inventory complete; final whole-work publication pending.**
+**[Read the complete text preview](preview/reading.md)** · [Chapter 6](preview/chapter-06.md) · [Colophon and closing](preview/closing-material.md) · [Machine-readable text](preview/reading.json) · [Source annotations](preview/annotations.json) · [Change index](preview/changes.json) · [Preserved uncertainties](preview/UNCERTAINTIES.md)
 
-[Inventory](INVENTORY.json) accounts for all 5,466 original anchors from the opening signs and title through the final virtue formulas. The A/B/S chapter slices cover each complete supplied source file without gaps or overlaps. Opening material is already preserved in Chapter 1; no additional seventh chapter is inferred from the closing material.
+**This is a preview, not a final whole-work release.** Chapters 1–5 retain their fixed released readings. Chapter 6 and closing material are assembled from the saved working records, with eight passage decisions and 28 W reference decisions still pending because their integration request was blocked before execution.
 
-| Part | Original anchors | Current release state |
+| Part | Original anchors | State |
 |---|---:|---|
-| Chapter 1, including opening material | 2,635 | Released |
-| Chapter 2 | 987 | Released |
-| Chapter 3 | 683 | Released |
-| Chapter 4 | 458 | Released |
-| Chapter 5 | 434 | Released |
-| Chapter 6 | 251 | Editorial decisions/publication pending |
-| Closing colophon, seals, invocations and final notices | 18 | Source dispositions saved; included in Chapter 6 release scope |
+| Chapter 1, including opening title/signs | 2,635 | Released; preserved unchanged |
+| Chapter 2 | 987 | Released; preserved unchanged |
+| Chapter 3 | 683 | Released; preserved unchanged |
+| Chapter 4 | 458 | Released; preserved unchanged |
+| Chapter 5 | 434 | Released; preserved unchanged |
+| Chapter 6 | 251 | Source checks saved; editorial release gate pending |
+| Full-work colophon and closing material | 18 | All source dispositions saved; included in the preview |
 
-There are 23 accepted scan-restored main verses across the saved chapter dossiers: 21 in already published Chapters 1–5 and two newly saved in Chapter 6. Restored headings, provisional captions, unresolved inscriptions and boundary graphics are not counted as main verses.
+The [inventory](INVENTORY.json) accounts for all 5,466 original anchors and every character of the supplied A/B/S files, with zero gaps or overlaps between chapter slices. There are 23 scan-restored main verses: 21 in the fixed earlier releases and two newly saved in Chapter 6. Restored headings, captions and unresolved inscriptions are not counted as main verses.
 
-The inventory is not a claim of full scan proofreading or exhaustive witness collation. Those remain outside the approved bounded release. Chapter 6's unexecuted decision batch is explicitly recorded in [its access receipt](../chapter-06-v1/checkpoints/0004-blocked-decision-batch.json).
+The preview contains 5,484 sequence objects and preserves 110 previously changed original-anchor strings. These 110 changes are inherited from Chapters 1–5, not new corrections in this run. All original strings, annotations, empty joined/annotation anchors and uncertainty references remain represented. The colophon, seals, invocations and final virtue formulas are not dropped or mislabelled as a seventh chapter.
 
-The remaining whole-work stage is to finish Chapter 6's decision/publication gate, assemble all reading and annotation layers without altering the fixed earlier releases, validate the combined outputs, and publish a fixed whole-work tag.
+[Positive preservation validation](PREVIEW-VALIDATION.json) passed, and the build is reproducible. Additional negative-test runner creation was blocked and those tests are not claimed as run. Final Chapter 6 decisions, deliverable acceptance, signoff and tag publication remain pending, followed by final whole-work acceptance and publication.
 
-Reproduce the inventory with `python3 diplomatic/root-tantra-v1/inventory.py --repo . --check`.
+Rebuild with `python3 diplomatic/root-tantra-v1/build_preview.py --repo .`; add `--check` for reproducibility. Reproduce the inventory with `python3 diplomatic/root-tantra-v1/inventory.py --repo . --check`.
+
+This inventory and assembly do not claim full scan proofreading, exhaustive witness comparison or reconstruction of an original text. Those remain outside the approved bounded v1. Exact continuation is in [Chapter 6](../chapter-06-v1/README.md).

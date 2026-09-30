@@ -1,6 +1,6 @@
 # Continue the diplomatic edition
 
-> **Active: Chapter 6 and closing material.** Start at [chapter-06-v1/README.md](chapter-06-v1/README.md). Complete its frozen 13/28/13/18 queues, five deliverables and final gate, then whole-root inventory. Prior release notices below are historical snapshots.
+> **Active: Chapter 6 final decisions and whole-root preview.** [Current Chapter 6 status](chapter-06-v1/README.md): 5/13 passage decisions, 0/28 W decisions, 13/13 source checks, 18/18 closing dispositions; two restored verses. The blocked batch is archived without acceptance credit. [Whole-text preview](root-tantra-v1/README.md) accounts for all 5,466 original anchors and 23 saved restored main verses, but has no final release tag. Preserve all earlier released chapters unchanged.
 
 > **Chapters 1–5 bounded v1 are released.** Chapter5 is at [chapter-05-v1/release/README.md](chapter-05-v1/release/README.md), with [publication receipt](chapter-05-v1/PUBLICATION.json) and [status](chapter-05-v1/PROGRESS.json): 27/27 passage choices, 40/40 W decisions, 12/12 source dispositions and 5/5 deliverable groups. No v1 tasks remain. Chapter6 has not started; preserve all five tags and show status with every verified commit.
 

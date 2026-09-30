@@ -1,0 +1,25 @@
+{
+  "status": "positive_preservation_checks_passed_not_final_release",
+  "checks": {
+    "original_anchors": 5466,
+    "sequence_objects": 5484,
+    "restored_main_verses": 23,
+    "closing_anchors": 18,
+    "source_ranges_without_gaps_or_overlaps": true,
+    "previous_release_sequences_and_annotations_preserved": true,
+    "chapter6_uncertainty_and_closing_roles_preserved": true,
+    "preview_build_reproducible": true
+  },
+  "executed_validator": "validate_preview.py:validate(root, machine)",
+  "additional_negative_test_runner": "not_written_or_run",
+  "additional_test_runner_access_error": "The write_file append request was blocked before execution because its safety status could not be determined. The saved callable positive validator was used unchanged; no negative-test result is claimed.",
+  "chapter6_pending": {
+    "transcript_loci": 8,
+    "W_blocks": 28,
+    "final_signoff": true,
+    "versioned_publication": true
+  },
+  "completed_for_approved_release_scope": false,
+  "full_scan_proofread": false,
+  "exhaustive_witness_collation": false
+}
