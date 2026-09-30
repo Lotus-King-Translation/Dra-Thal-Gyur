@@ -357,6 +357,880 @@
         "diplomatic/chapter-02-v1/source-units.json"
       ],
       "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0015": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Separate the long U02885 gloss and rejoin the larger U02887–U02888 main clause on PDF111. Keep the wind-related note and the physically smaller rig pa separately. Its dotted attachment could represent gloss or intended addition; preserve that uncertainty visibly rather than pretending rig pa has main-sized lettering. All original fragments remain accounted for.",
+      "source_units": [
+        "U02884",
+        "U02885",
+        "U02886",
+        "U02887",
+        "U02888",
+        "U02889",
+        "U02890"
+      ],
+      "exact_conflicts": [
+        "C2-0023",
+        "C2-0024",
+        "C2-0025",
+        "C2-0026",
+        "C2-0027",
+        "C2-0028",
+        "C2-0029",
+        "C2-0030",
+        "C2-0031",
+        "C2-0032"
+      ],
+      "release_reading": {
+        "U02884": "འཁྲུལ་པའི་སྡེབས་དང་སྦྱར་བའོ།",
+        "U02885": "",
+        "U02886": "རིག་པའི་གནད་ནི་བྱུང་བ་དང་། །",
+        "U02887": "བསྐྱིལ་ཞིང་མཁའ་ལ་གཏད་པའོ། །",
+        "U02888": "",
+        "U02889": "",
+        "U02890": "དབྱིངས་ཀྱི་གནད་ནི་བསྡུ་བ་དང༌། །"
+      },
+      "intervention_ids": [
+        "C2-I-U02885",
+        "C2-I-U02887-02889"
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json",
+        "diplomatic/chapter-02-v1/SOURCE-REVIEW.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0018": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Remove only the smaller chu yang from U02927 main dam tshig gis ni rab brtag go, retaining it as a source note. The native PDF113 placement, not S braces alone, supports separation. Its precise semantic target remains uncertain.",
+      "source_units": [
+        "U02927"
+      ],
+      "exact_conflicts": [
+        "C2-0036",
+        "C2-0037"
+      ],
+      "release_reading": {
+        "U02927": " དམ་ཚིག་གིས་ནི་རབ་བརྟག་གོ། །"
+      },
+      "intervention_ids": [
+        "C2-I-U02927"
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json",
+        "diplomatic/chapter-02-v1/SOURCE-REVIEW.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0019": {
+      "status": "retain_base",
+      "rationale": "Retain U02932 yon tan no without inserting B chu yang. The same small source note is preserved once with U02927 in the layer record; its displaced B location is recorded rather than duplicated into a second root clause.",
+      "source_units": [
+        "U02932"
+      ],
+      "exact_conflicts": [
+        "C2-0038"
+      ],
+      "release_reading": {
+        "U02932": "འདར་བས་ལོངས་སྐུའི་ཡོན་ཏན་ནོ། །"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0021": {
+      "status": "retain_base",
+      "rationale": "Retain U02954 ba min rwa drai against B/S ba men ras dra. These differences in vowel, subscript and ending are preserved verbatim; the release does not choose a more plausible animal or object by interpretation.",
+      "source_units": [
+        "U02954"
+      ],
+      "exact_conflicts": [
+        "C2-0041",
+        "C2-0042",
+        "C2-0043"
+      ],
+      "release_reading": {
+        "U02954": "བ་མིན་རྭ་འདྲའི་འཁྱིལ་པ་ལས། །"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0022": {
+      "status": "retain_base",
+      "rationale": "Retain U02963 without copying the B/S leading shad. All punctuation and whitespace are preserved in the exact apparatus; the leading mark is not treated as new source evidence or silently merged with the preceding verse boundary.",
+      "source_units": [
+        "U02963"
+      ],
+      "exact_conflicts": [
+        "C2-0044"
+      ],
+      "release_reading": {
+        "U02963": " དོན་དམ་ཆོས་ཉིད་འབྱུང་བ་ལས། །"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0023": {
+      "status": "retain_base",
+      "rationale": "Keep U02986 as the eighth-reply heading before U02987 sgron mai gnad. S braces distinguish electronic presentation only; they do not add or remove Tibetan wording.",
+      "source_units": [
+        "U02986",
+        "U02987"
+      ],
+      "exact_conflicts": [
+        "C2-0045",
+        "C2-0046"
+      ],
+      "release_reading": {
+        "U02986": "དྲིས་ལན་བརྒྱད་པ།",
+        "U02987": "སྒྲོན་མའི་གནད་ནི་ངས་བཤད་ཀྱིས། །"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0024": {
+      "status": "retain_base",
+      "rationale": "Keep U03018 dris lan dgu pa as the ninth-reply heading. S omits the final sa of dris and adds braces; preserve both differences without regularizing the comparison quotation or inferring print error.",
+      "source_units": [
+        "U03018",
+        "U03019"
+      ],
+      "exact_conflicts": [
+        "C2-0047",
+        "C2-0048",
+        "C2-0049"
+      ],
+      "release_reading": {
+        "U03018": "དྲིས་ལན་དགུ་པ།",
+        "U03019": "སྒྲོན་མའི་མཚན་ཉིད་འདི་ལྟ་སྟེ། །"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0025": {
+      "status": "retain_base",
+      "rationale": "Keep the tenth-reply heading U03056 before U03057 di nyid yul gnad. S brace markup stays outside the reading text, and the recorded heading ending is not normalized.",
+      "source_units": [
+        "U03056",
+        "U03057"
+      ],
+      "exact_conflicts": [
+        "C2-0050",
+        "C2-0051"
+      ],
+      "release_reading": {
+        "U03056": "དྲིས་ལན་བཅུ་པ།",
+        "U03057": "འདི་ཉིད་ཡུལ་གནད་འདི་ལྟ་སྟེ། །"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0026": {
+      "status": "retain_base",
+      "rationale": "Keep U03093 as the eleventh-reply heading before U03094. Retain the Adzom wording and quote the S bracketing separately; this does not certify physical punctuation.",
+      "source_units": [
+        "U03093",
+        "U03094"
+      ],
+      "exact_conflicts": [
+        "C2-0052",
+        "C2-0053"
+      ],
+      "release_reading": {
+        "U03093": "དྲིས་ལན་བཅུ་གཅིག་པ།",
+        "U03094": "ཡེ་ཤེས་དག་པའི་སྒྲོན་མའི་རྟེན། །"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0027": {
+      "status": "retain_base",
+      "rationale": "Keep U03134 as the twelfth-reply heading before U03135 blo rim gnad. The S braces are not part of the selected root text or evidence for a new source layer at the following verse.",
+      "source_units": [
+        "U03134",
+        "U03135"
+      ],
+      "exact_conflicts": [
+        "C2-0054",
+        "C2-0055"
+      ],
+      "release_reading": {
+        "U03134": "དྲིས་ལན་བཅུ་གཉིས་པ།",
+        "U03135": "བློ་རིམ་གནད་ནི་འདི་ལྟ་སྟེ། །"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0028": {
+      "status": "retain_base",
+      "rationale": "Retain U03141 chu yis sa ni rather than B/S chu yi sas ni. The placement of the final sa changes the written grammatical construction; do not repair the elemental pairing to a preferred case pattern.",
+      "source_units": [
+        "U03141"
+      ],
+      "exact_conflicts": [
+        "C2-0056",
+        "C2-0057"
+      ],
+      "release_reading": {
+        "U03141": "ཆུ་ཡིས་ས་ནི་ལས་དག་པས། །"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0029": {
+      "status": "retain_base",
+      "rationale": "Keep U03145 and its first water-wind clause unchanged. A/B have an initial space absent from S; it is retained in exact data and does not justify changing the repeated elemental wording.",
+      "source_units": [
+        "U03145"
+      ],
+      "exact_conflicts": [
+        "C2-0058"
+      ],
+      "release_reading": {
+        "U03145": " ཆུ་ཡི་རླུང་གིས་བློ་བསྒྱུར་ཅིང༌། །"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0030": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Separate U03147 as the smaller printed comment about the two water-wind occurrences, while retaining both main phrases at U03145 and U03148. Native PDF121 supports the layer distinction. The source comment is not permission to delete one occurrence or invent a missing element.",
+      "source_units": [
+        "U03147",
+        "U03148"
+      ],
+      "exact_conflicts": [
+        "C2-0059",
+        "C2-0060"
+      ],
+      "release_reading": {
+        "U03147": "",
+        "U03148": "ཆུ་ཡི་རླུང་གིས་ཡངས་པ་དང༌། །"
+      },
+      "intervention_ids": [
+        "C2-I-U03147"
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json",
+        "diplomatic/chapter-02-v1/SOURCE-REVIEW.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0031": {
+      "status": "retain_base",
+      "rationale": "Retain U03160 me yis sa ni against B/S me yi sas ni. Preserve the exact particle allocation in each transcript rather than imposing parallel grammar on this enumeration.",
+      "source_units": [
+        "U03160"
+      ],
+      "exact_conflicts": [
+        "C2-0061",
+        "C2-0062"
+      ],
+      "release_reading": {
+        "U03160": "མེ་ཡིས་ས་ནི་དབང་པོ་རྒྱས། །"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0032": {
+      "status": "retain_base",
+      "rationale": "Retain U03164 rlung gis sa ni against B/S rlung gi sas ni. The different suffix position is recorded as source-specific wording, not silently regularized to neighboring pairings.",
+      "source_units": [
+        "U03164"
+      ],
+      "exact_conflicts": [
+        "C2-0063",
+        "C2-0064"
+      ],
+      "release_reading": {
+        "U03164": "རླུང་གིས་ས་ནི་དོན་སྤྱོད་ཆེ། །"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0033": {
+      "status": "retain_base",
+      "rationale": "Keep U03192 as the thirteenth-reply heading before U03193 nyams su len pai gnad. S braces remain quotation markup; no extra root wording is adopted.",
+      "source_units": [
+        "U03192",
+        "U03193"
+      ],
+      "exact_conflicts": [
+        "C2-0065",
+        "C2-0066"
+      ],
+      "release_reading": {
+        "U03192": "དྲིས་ལན་བཅུ་གསུམ་པ།",
+        "U03193": "ཉམས་སུ་ལེན་པའི་གནད་འདིའོ། །"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0034": {
+      "status": "retain_base",
+      "rationale": "Keep U03217 as the fourteenth-reply heading before U03218 de ltar nyams su blangs. The S brace convention does not establish a new printed shad count.",
+      "source_units": [
+        "U03217",
+        "U03218"
+      ],
+      "exact_conflicts": [
+        "C2-0067",
+        "C2-0068"
+      ],
+      "release_reading": {
+        "U03217": "དྲིས་ལན་བཅུ་བཞི་པ།",
+        "U03218": "དེ་ལྟར་ཉམས་སུ་བླངས་པ་ལས། །"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0035": {
+      "status": "retain_base",
+      "rationale": "Retain U03227 bco lnga pa as written for the fifteenth-reply heading. S brackets it; no normalization to a preferred ordinal spelling or deletion of the heading is made.",
+      "source_units": [
+        "U03227",
+        "U03228"
+      ],
+      "exact_conflicts": [
+        "C2-0069",
+        "C2-0070"
+      ],
+      "release_reading": {
+        "U03227": "དྲིས་ལན་བཅོ་ལྔ་པ།",
+        "U03228": "བར་མ་དོ་ཡི་སྣང་བ་ནི། །"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0036": {
+      "status": "retain_base",
+      "rationale": "Retain U03241 without the additional B/S yul before snang. Keep the following sixteenth-reply heading U03242 distinct from U03243. The adjacent U03240 difficult reading is separately flagged; it does not justify importing another transcript word here.",
+      "source_units": [
+        "U03241",
+        "U03242",
+        "U03243"
+      ],
+      "exact_conflicts": [
+        "C2-0071",
+        "C2-0072",
+        "C2-0073",
+        "C2-0074"
+      ],
+      "release_reading": {
+        "U03241": "སོ་སོའི་དམིགས་པའི་སྣང་བའོ། །",
+        "U03242": "དྲིས་ལན་བཅུ་དྲུག་པ།",
+        "U03243": "རང་སེམས་གྲོལ་བ་ཞེས་བྱ་བ། །"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0037": {
+      "status": "retain_base",
+      "rationale": "Keep U03259 as the seventeenth-reply heading before U03260 de ltar grol bai sems. Record S braces only as its presentation difference.",
+      "source_units": [
+        "U03259",
+        "U03260"
+      ],
+      "exact_conflicts": [
+        "C2-0075",
+        "C2-0076"
+      ],
+      "release_reading": {
+        "U03259": "དྲིས་ལན་བཅུ་བདུན་པ།",
+        "U03260": "དེ་ལྟར་གྲོལ་བའི་སེམས་ཉིད་ལ། །"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0038": {
+      "status": "retain_base",
+      "rationale": "Retain the written bco brgyad ordinal in U03291, the eighteenth-reply heading, before U03292. S braces do not license silently changing its spelling or the following instruction.",
+      "source_units": [
+        "U03291",
+        "U03292"
+      ],
+      "exact_conflicts": [
+        "C2-0077",
+        "C2-0078"
+      ],
+      "release_reading": {
+        "U03291": "དྲིས་ལན་བཅོ་བརྒྱད་པ།",
+        "U03292": "དེ་ཉིད་ཡེ་ཤེས་གནད་བསྟན་པས། །"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0039": {
+      "status": "retain_base",
+      "rationale": "Retain U03304 ro ma rkyang ma kun dar ma with the supplied single shad. S supplies a second, but no fresh physical-boundary evidence in this release authorizes that punctuation addition.",
+      "source_units": [
+        "U03304"
+      ],
+      "exact_conflicts": [
+        "C2-0079"
+      ],
+      "release_reading": {
+        "U03304": "རོ་མ་རྐྱང་མ་ཀུན་འདར་མ།"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0040": {
+      "status": "retain_base",
+      "rationale": "Retain U03309 rang rtsa la rather than S rang rtsal. This is a syllable/word-segmentation difference, not merely decorative spacing. Preserve both strings without conflating the channel construction with a different lexical form.",
+      "source_units": [
+        "U03309"
+      ],
+      "exact_conflicts": [
+        "C2-0080"
+      ],
+      "release_reading": {
+        "U03309": "རང་རྩ་ལ་རྫོགས་པའི་རྟེན་དུ་གནས། །"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0041": {
+      "status": "retain_base",
+      "rationale": "Keep U03319 as the nineteenth-reply heading before U03320 bzhugs tshul. S braces remain distinct from Tibetan reading text.",
+      "source_units": [
+        "U03319",
+        "U03320"
+      ],
+      "exact_conflicts": [
+        "C2-0081",
+        "C2-0082"
+      ],
+      "release_reading": {
+        "U03319": "དྲིས་ལན་བཅུ་དགུ་པ།",
+        "U03320": "བཞུགས་ཚུལ་གནས་ལུགས་རྣམ་པ་གཉིས། །"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0042": {
+      "status": "retain_base",
+      "rationale": "Keep the twentieth-reply heading U03339 and the U03340 clause in the supplied order. Retain exact boundary whitespace in data while keeping S braces out of the readable root.",
+      "source_units": [
+        "U03339",
+        "U03340"
+      ],
+      "exact_conflicts": [
+        "C2-0083",
+        "C2-0084"
+      ],
+      "release_reading": {
+        "U03339": "དྲིས་ལན་ཉི་ཤུ་པ།",
+        "U03340": " དགོངས་པ་གཅིག་ལས་གཡོས་པ་མེད། །"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0043": {
+      "status": "retain_base",
+      "rationale": "Keep the twenty-first-reply heading U03353 before U03354 kun gzhi dang ni chos skui gnad. The S leading shad and braces remain quoted; they do not establish another Adzom delimiter or resolve the text doctrinally.",
+      "source_units": [
+        "U03353",
+        "U03354"
+      ],
+      "exact_conflicts": [
+        "C2-0085",
+        "C2-0086"
+      ],
+      "release_reading": {
+        "U03353": "དྲིས་ལན་ཉེར་གཅིག་པ།",
+        "U03354": " ཀུན་གཞི་དང་ནི་ཆོས་སྐུའི་གནད། །"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0044": {
+      "status": "retain_base",
+      "rationale": "Keep U03373 as the twenty-second-reply heading before U03374 sems dang ye shes. Preserve the S bracketing without altering the distinction stated by the root.",
+      "source_units": [
+        "U03373",
+        "U03374"
+      ],
+      "exact_conflicts": [
+        "C2-0087",
+        "C2-0088"
+      ],
+      "release_reading": {
+        "U03373": "དྲིས་ལན་ཉེར་གཉིས་པ།",
+        "U03374": "སེམས་དང་ཡེ་ཤེས་གནད་ཉིད་ནི། །"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0045": {
+      "status": "retain_base",
+      "rationale": "Keep U03395 as the twenty-third-reply heading before the dwangs snyigs phrase U03396. Braces in S are presentation evidence only; neither spelling nor punctuation is normalized.",
+      "source_units": [
+        "U03395",
+        "U03396"
+      ],
+      "exact_conflicts": [
+        "C2-0089",
+        "C2-0090"
+      ],
+      "release_reading": {
+        "U03395": "དྲིས་ལན་ཉེར་གསུམ་པ།",
+        "U03396": "འབྱུང་བ་དྭངས་སྙིགས་འབྱེད་འདོད་པས། །"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0046": {
+      "status": "retain_base",
+      "rationale": "Retain U03424 with the supplied special tsheg and single shad. S has an additional shad. The release preserves both encodings and does not infer a universal double-shad rule.",
+      "source_units": [
+        "U03424"
+      ],
+      "exact_conflicts": [
+        "C2-0091"
+      ],
+      "release_reading": {
+        "U03424": "དྭངས་མས་སེམས་བདེ་ནུས་པ་དང༌།"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0047": {
+      "status": "retain_base",
+      "rationale": "Keep U03432 as the twenty-fourth-reply heading before U03433 sgron ma gtems pa. S braces do not change the root wording or constitute scan verification of physical practice details.",
+      "source_units": [
+        "U03432",
+        "U03433"
+      ],
+      "exact_conflicts": [
+        "C2-0092",
+        "C2-0093"
+      ],
+      "release_reading": {
+        "U03432": "དྲིས་ལན་ཉེར་བཞི་པ།",
+        "U03433": "སྒྲོན་མ་གཏེམས་པ་འདི་ལྟ་སྟེ། །"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0048": {
+      "status": "retain_base",
+      "rationale": "Keep the twenty-fifth-reply heading U03454 before U03455 de ltar gtems pai snang ba. Preserve A/B boundary spacing and S braces in their respective quotations.",
+      "source_units": [
+        "U03454",
+        "U03455"
+      ],
+      "exact_conflicts": [
+        "C2-0094",
+        "C2-0095"
+      ],
+      "release_reading": {
+        "U03454": "དྲིས་ལན་ཉེར་ལྔ་པ།",
+        "U03455": " དེ་ལྟར་གཏེམས་པའི་སྣང་བ་ནི། །"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0049": {
+      "status": "retain_base",
+      "rationale": "Keep U03487 as the twenty-sixth-reply heading before the two-hundred channel statement U03488. S braces do not authorize arithmetic expansion or a new root verse.",
+      "source_units": [
+        "U03487",
+        "U03488"
+      ],
+      "exact_conflicts": [
+        "C2-0096",
+        "C2-0097"
+      ],
+      "release_reading": {
+        "U03487": "དྲིས་ལན་ཉེར་དྲུག་པ།",
+        "U03488": "རྩ་ཡི་གནད་ནི་བརྒྱ་ཕྲག་གཉིས། །"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0050": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Separate the small bzhi yang byung from main gzhi yis gro bai snang ba ston. PDF133 shows main gzhi yis across the row join and the small note separately at the lower right. Preserve B bzho as its exact transcript reading; do not substitute the alternative numeral into the main clause.",
+      "source_units": [
+        "U03494"
+      ],
+      "exact_conflicts": [
+        "C2-0098",
+        "C2-0099",
+        "C2-0100"
+      ],
+      "release_reading": {
+        "U03494": "གཞི་ཡིས་འགྲོ་བའི་སྣང་བ་སྟོན། །"
+      },
+      "intervention_ids": [
+        "C2-I-U03494"
+      ],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json",
+        "diplomatic/chapter-02-v1/SOURCE-REVIEW.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0051": {
+      "status": "retain_base",
+      "rationale": "Preserve U03510 and its initial A/B space, then the twenty-seventh-reply heading U03511 and U03512. S omits that space and brackets the heading; these are not lexical emendations.",
+      "source_units": [
+        "U03510",
+        "U03511",
+        "U03512"
+      ],
+      "exact_conflicts": [
+        "C2-0101",
+        "C2-0102",
+        "C2-0103"
+      ],
+      "release_reading": {
+        "U03510": " སོ་སོའི་དུས་ལ་བབ་པས་སོ། །",
+        "U03511": "དྲིས་ལན་ཉེར་བདུན་པ།",
+        "U03512": "སེམས་ཀྱི་སྦྱངས་པ་འདི་ལྟ་སྟེ། །"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0052": {
+      "status": "retain_base",
+      "rationale": "Retain the supplied single shad after U03522 gis. S doubles it; physical sign uncertainty is disclosed globally rather than resolved by a comparison transcript.",
+      "source_units": [
+        "U03522"
+      ],
+      "exact_conflicts": [
+        "C2-0104"
+      ],
+      "release_reading": {
+        "U03522": "ངག་གི་བརྗོད་པ་བྱེ་བྲག་གིས།"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0053": {
+      "status": "retain_base",
+      "rationale": "Keep U03529 as the twenty-eighth-reply heading, separate from U03530 and U03531. B/S have extra or differently spaced terminal shads at these boundaries. Preserve each exact form and retain Adzom punctuation without a new source-level adoption.",
+      "source_units": [
+        "U03529",
+        "U03530",
+        "U03531"
+      ],
+      "exact_conflicts": [
+        "C2-0105",
+        "C2-0106",
+        "C2-0107",
+        "C2-0108"
+      ],
+      "release_reading": {
+        "U03529": "དྲིས་ལན་ཉེར་བརྒྱད་པའོ།",
+        "U03530": " ཉོན་མོངས་པ་ནི་རང་རྐྱེན་ལས།",
+        "U03531": "རང་གི་གྲིབ་མས་འཇིགས་པ་བཞིན།།"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0054": {
+      "status": "retain_base",
+      "rationale": "Retain U03546 with the single terminal shad after rtogs. S adds another; the assertion about kun gzhi and chos sku is not rewritten or interpreted away.",
+      "source_units": [
+        "U03546"
+      ],
+      "exact_conflicts": [
+        "C2-0109"
+      ],
+      "release_reading": {
+        "U03546": "ཀུན་གཞི་ཆོས་སྐུ་ཆེན་པོར་རྟོགས།"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0055": {
+      "status": "retain_base",
+      "rationale": "Retain the exact original spaces and adjacent double shads across U03592–U03594 in machine data. B/S use a more regular separated-shad presentation. Reader-facing outer whitespace trimming is editorial display, not a source correction.",
+      "source_units": [
+        "U03592",
+        "U03593",
+        "U03594"
+      ],
+      "exact_conflicts": [
+        "C2-0110",
+        "C2-0111",
+        "C2-0112",
+        "C2-0113",
+        "C2-0114"
+      ],
+      "release_reading": {
+        "U03592": " ས་བོན་ལས་ནི་འབྲས་བུ་བཞིན།།",
+        "U03593": " རང་གི་རང་བཞིན་གཤིས་ཀྱི་གནད།།",
+        "U03594": "  བརྗོད་པའི་ཚིག་གིས་མ་ཡིན་པར། །"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification."
+    },
+    "L2-0056": {
+      "status": "retain_with_explicit_uncertainty",
+      "rationale": "Retain the U03622 second-chapter colophon and exact A delimiter allocation. Native PDF138 confirms the chapter turn, but the intervening compact graphic remains undecoded. B/S extra boundary shads and S absent leading space are quoted, not used to fill the graphic or expand Adzom punctuation.",
+      "source_units": [
+        "U03622"
+      ],
+      "exact_conflicts": [
+        "C2-0115",
+        "C2-0116"
+      ],
+      "release_reading": {
+        "U03622": " གནད་འདུས་བཀོད་པ་རིག་པའི་རྩ་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་གཉིས་པའོ།།"
+      },
+      "intervention_ids": [],
+      "evidence": [
+        "diplomatic/chapter-02-v1/collation.json",
+        "diplomatic/chapter-02-v1/source-units.json",
+        "diplomatic/chapter-02-v1/SOURCE-REVIEW.json"
+      ],
+      "claim_scope": "Bounded release disposition, not complete print verification.",
+      "uncertain_units": [
+        "U03622"
+      ]
     }
   },
   "W": {},
@@ -412,6 +1286,93 @@
         "U02740"
       ],
       "remaining_uncertainty": "The alternate spelling is preserved without asserting a complete substitution rule; supplied main delimiters retained, not newly normalized."
+    },
+    "C2-LAYER-02885": {
+      "status": "target_inspected_bounded_disposition",
+      "rationale": "The long explanatory passage is a smaller row5 source annotation linked to the larger row4 sequence. Preserve its exact supplied quotation separately, not as a root verse.",
+      "evidence": [
+        "diplomatic/chapter-02-v1/evidence/E02/p111-native.png",
+        "diplomatic/chapter-02-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-02-v1/evidence/focused/U02885-note-left.png"
+      ],
+      "units": [
+        "U02885"
+      ],
+      "remaining_uncertainty": "The middle compact letters and exact note-terminal signs have not all been independently resolved. The note quotation is retained source-transcript wording, not a fresh fully certified transcription."
+    },
+    "C2-LAYER-02887": {
+      "status": "target_inspected_bounded_disposition",
+      "rationale": "Join the visibly continuous large-letter clause under U02887. U02888 becomes an accounted-for joined anchor and U02889 a source-note anchor. Preserve the wind-related note and the smaller rig pa independently. Unlike the older flattened transcript and translation assumption, rig pa is physically smaller here; its precise role as gloss or supplied addition is unresolved, so it is not silently represented as a large-letter main reading.",
+      "evidence": [
+        "diplomatic/chapter-02-v1/evidence/E02/p111-native.png",
+        "diplomatic/chapter-02-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-02-v1/evidence/focused/U02887-main-note.png"
+      ],
+      "units": [
+        "U02887",
+        "U02888",
+        "U02889"
+      ],
+      "remaining_uncertainty": "The functional attachment of small rig pa remains unresolved. This is a physical-layer reading, not a claim that the smaller words were never intended as a correction. All are preserved in the apparatus; the source-image punctuation is not globally re-encoded."
+    },
+    "C2-LAYER-03147": {
+      "status": "target_inspected_bounded_disposition",
+      "rationale": "Separate the compact source comment about two occurrences from root verse. Do not delete either of the two main water-wind phrases or treat the comment as an instruction authorizing a conjectural correction.",
+      "evidence": [
+        "diplomatic/chapter-02-v1/evidence/E02/p121-native.png",
+        "diplomatic/chapter-02-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-02-v1/evidence/focused/U03147-note.png"
+      ],
+      "units": [
+        "U03147"
+      ],
+      "remaining_uncertainty": "Retain the exact note quotation; fine terminal-stroke details are not independently certified."
+    },
+    "C2-READING-03240": {
+      "status": "target_inspected_bounded_disposition",
+      "rationale": "Retain U03240 exactly but flag the medial word. The sequence is localized between U03239 yid kyi lus and U03241 so soi dmigs; the consulted print does not justify silently replacing the unusual gleg with an expected color.",
+      "evidence": [
+        "diplomatic/chapter-02-v1/evidence/E02/p124-native.png",
+        "diplomatic/chapter-02-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-02-v1/evidence/E02/p124-x0000.png",
+        "diplomatic/chapter-02-v1/evidence/E02/p124-x1848.png",
+        "diplomatic/chapter-02-v1/evidence/E02/p124-x3696.png"
+      ],
+      "units": [
+        "U03240"
+      ],
+      "remaining_uncertainty": "Exact internal root/subscript distinction of the supplied gleg remains uncertain; this is a completed bounded retain-with-uncertainty decision, not successful decipherment."
+    },
+    "C2-LAYER-03494": {
+      "status": "target_inspected_bounded_disposition",
+      "rationale": "Keep gzhi yis and its next-row main continuation together. The smaller bzhi yang byung is separately printed below the main opening at the right edge; preserve the variant without substituting four for the main gzhi.",
+      "evidence": [
+        "diplomatic/chapter-02-v1/evidence/E03/p133-native.png",
+        "diplomatic/chapter-02-v1/evidence/E03/manifest.json",
+        "diplomatic/chapter-02-v1/evidence/E03/p133-x0000.png",
+        "diplomatic/chapter-02-v1/evidence/E03/p133-x1848.png",
+        "diplomatic/chapter-02-v1/evidence/E03/p133-x3696.png"
+      ],
+      "units": [
+        "U03494"
+      ],
+      "remaining_uncertainty": "The exact semantic replacement scope and minor edge printing remain qualified; B bzho is retained only as its electronic variant."
+    },
+    "C2-END": {
+      "status": "target_inspected_bounded_disposition",
+      "rationale": "The second-chapter colophon crosses rows4–5 and precedes the distinct next-chapter incipit in row5. It supports the frozen electronic boundary. Preserve the intervening compact graphic separately, without guessing Tibetan or foreign-script wording from it.",
+      "evidence": [
+        "diplomatic/chapter-02-v1/evidence/E03/p138-native.png",
+        "diplomatic/chapter-02-v1/evidence/E03/manifest.json",
+        "diplomatic/chapter-02-v1/evidence/E03/p138-x0000.png",
+        "diplomatic/chapter-02-v1/evidence/E03/p138-x1848.png",
+        "diplomatic/chapter-02-v1/evidence/E03/p138-x3696.png"
+      ],
+      "units": [
+        "U03621",
+        "U03622"
+      ],
+      "remaining_uncertainty": "The compact transition graphic between colophon and following incipit is not decoded. The B/S extra shads do not themselves establish a change to Adzom punctuation."
     }
   },
   "final_signoff": null

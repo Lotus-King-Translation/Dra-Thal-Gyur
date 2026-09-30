@@ -112,6 +112,243 @@
       ],
       "status": "target_inspected_bounded_disposition",
       "full_page_collated": false
+    },
+    {
+      "id": "C2-LAYER-02885",
+      "units": [
+        "U02885"
+      ],
+      "pdf_page": 111,
+      "physical_row": 5,
+      "approx_native_bounds": [
+        1770,
+        800,
+        3410,
+        960
+      ],
+      "native_member": "0113.png",
+      "source_sha256": "971ae4b2e9ccfaf0181003dc691d8045b4a8a8de9072a635bd51c803508136ac",
+      "observed_sequence": "Smaller run: རྡོ་རྗེ་ལུ་གུ་རྒྱུད་གནས་ཙིཏྟ་ནས ... ཡེ་ཤེས་དངོས་སུ་འཆར་རོ; above, main U02884 ends སྦྱར་བའོ and U02886 begins རིག་པའི་གནད",
+      "rationale": "The long explanatory passage is a smaller row5 source annotation linked to the larger row4 sequence. Preserve its exact supplied quotation separately, not as a root verse.",
+      "remaining_uncertainty": "The middle compact letters and exact note-terminal signs have not all been independently resolved. The note quotation is retained source-transcript wording, not a fresh fully certified transcription.",
+      "evidence": [
+        "diplomatic/chapter-02-v1/evidence/E02/p111-native.png",
+        "diplomatic/chapter-02-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-02-v1/evidence/focused/U02885-note-left.png"
+      ],
+      "status": "target_inspected_bounded_disposition",
+      "full_page_collated": false
+    },
+    {
+      "id": "C2-LAYER-02887",
+      "units": [
+        "U02887",
+        "U02888",
+        "U02889"
+      ],
+      "pdf_page": 111,
+      "physical_row": [
+        4,
+        5
+      ],
+      "approx_native_bounds": [
+        3280,
+        660,
+        4340,
+        970
+      ],
+      "native_member": "0113.png",
+      "source_sha256": "971ae4b2e9ccfaf0181003dc691d8045b4a8a8de9072a635bd51c803508136ac",
+      "observed_sequence": "Large main: བསྐྱིལ་ཞིང་མཁའ་ལ་གཏད་པའོ. Smaller below: འདིའི་དུས་ན་རླུང་འདྲེན་པ; separate རིག་པ; གནད་ཡིན་ནོ. Dotted connectors link the smaller row to the main row.",
+      "rationale": "Join the visibly continuous large-letter clause under U02887. U02888 becomes an accounted-for joined anchor and U02889 a source-note anchor. Preserve the wind-related note and the smaller rig pa independently. Unlike the older flattened transcript and translation assumption, rig pa is physically smaller here; its precise role as gloss or supplied addition is unresolved, so it is not silently represented as a large-letter main reading.",
+      "remaining_uncertainty": "The functional attachment of small rig pa remains unresolved. This is a physical-layer reading, not a claim that the smaller words were never intended as a correction. All are preserved in the apparatus; the source-image punctuation is not globally re-encoded.",
+      "evidence": [
+        "diplomatic/chapter-02-v1/evidence/E02/p111-native.png",
+        "diplomatic/chapter-02-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-02-v1/evidence/focused/U02887-main-note.png"
+      ],
+      "status": "target_inspected_bounded_disposition",
+      "full_page_collated": false
+    },
+    {
+      "id": "L2-0018-SOURCE",
+      "units": [
+        "U02927",
+        "U02932"
+      ],
+      "pdf_page": 113,
+      "physical_row": [
+        1,
+        2
+      ],
+      "approx_native_bounds": [
+        1200,
+        280,
+        3330,
+        650
+      ],
+      "native_member": "0115.png",
+      "source_sha256": "38f72b84ccaf2eee65520db074141bffd75b97cf2a36c8ea8af1bbd769a032d2",
+      "observed_sequence": "Main U02927: དམ་ཚིག་གིས་ནི་རབ་བརྟག་གོ. Smaller ཆུ་ཡང below it, interposed physically near U02932 main ཡོན་ཏན ... ནོ.",
+      "rationale": "L2-0018/0019 expose a displaced small chu yang annotation. Native layout distinguishes it from the larger dam tshig clause and from the larger yon tan ... no sequence below. Preserve it once as a separate variant note; do not duplicate it in U02932 from the B transcript. This focused check is part of the already frozen transcript-locus decision, not an expansion to general witness reading.",
+      "remaining_uncertainty": "Precise semantic substitution target of chu yang and tiny boundary details remain unspecified.",
+      "evidence": [
+        "diplomatic/chapter-02-v1/evidence/E02/p113-native.png",
+        "diplomatic/chapter-02-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-02-v1/evidence/focused/U02927-main-note.png"
+      ],
+      "status": "target_inspected_bounded_disposition",
+      "full_page_collated": false
+    },
+    {
+      "id": "C2-LAYER-03147",
+      "units": [
+        "U03147"
+      ],
+      "pdf_page": 121,
+      "physical_row": 2,
+      "approx_native_bounds": [
+        1900,
+        430,
+        2650,
+        620
+      ],
+      "native_member": "0123.png",
+      "source_sha256": "0d5cae538b5ecf0fc159e8194e8629ee2394810f9de3bbcfbd5df4585ebccdc9",
+      "observed_sequence": "Smaller ཆུའི་རླུང་ལན་གཉིས་བྱུང་བ་དཔྱད between larger clauses. Earlier main ཆུ་ཡི་རླུང་གིས་བློ་བསྒྱུར and following ཆུ་ཡི་རླུང་གིས་ཡངས་པ are retained.",
+      "rationale": "Separate the compact source comment about two occurrences from root verse. Do not delete either of the two main water-wind phrases or treat the comment as an instruction authorizing a conjectural correction.",
+      "remaining_uncertainty": "Retain the exact note quotation; fine terminal-stroke details are not independently certified.",
+      "evidence": [
+        "diplomatic/chapter-02-v1/evidence/E02/p121-native.png",
+        "diplomatic/chapter-02-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-02-v1/evidence/focused/U03147-note.png"
+      ],
+      "status": "target_inspected_bounded_disposition",
+      "full_page_collated": false
+    },
+    {
+      "id": "C2-READING-03240",
+      "units": [
+        "U03240"
+      ],
+      "pdf_page": 124,
+      "physical_row": 4,
+      "approx_native_bounds": [
+        3420,
+        680,
+        4480,
+        850
+      ],
+      "native_member": "0126.png",
+      "source_sha256": "1bcf58ae5b667b5fc1da0deaf26b93a0d4a91381a3b127ad0300318a07240f0f",
+      "observed_sequence": "དཀར་⟦uncertain medial cluster corresponding to supplied གླེག⟧་ལ་སོགས་རིགས་དྲུག་འོད",
+      "rationale": "Retain U03240 exactly but flag the medial word. The sequence is localized between U03239 yid kyi lus and U03241 so soi dmigs; the consulted print does not justify silently replacing the unusual gleg with an expected color.",
+      "remaining_uncertainty": "Exact internal root/subscript distinction of the supplied gleg remains uncertain; this is a completed bounded retain-with-uncertainty decision, not successful decipherment.",
+      "evidence": [
+        "diplomatic/chapter-02-v1/evidence/E02/p124-native.png",
+        "diplomatic/chapter-02-v1/evidence/E02/manifest.json",
+        "diplomatic/chapter-02-v1/evidence/E02/p124-x0000.png",
+        "diplomatic/chapter-02-v1/evidence/E02/p124-x1848.png",
+        "diplomatic/chapter-02-v1/evidence/E02/p124-x3696.png"
+      ],
+      "status": "target_inspected_bounded_disposition",
+      "full_page_collated": false
+    },
+    {
+      "id": "C2-LAYER-03494",
+      "units": [
+        "U03494"
+      ],
+      "pdf_page": 133,
+      "physical_row": [
+        5,
+        6
+      ],
+      "approx_native_bounds": [
+        [
+          4820,
+          795,
+          5100,
+          960
+        ],
+        [
+          760,
+          945,
+          1340,
+          1110
+        ],
+        [
+          4800,
+          930,
+          5120,
+          1100
+        ]
+      ],
+      "native_member": "0135.png",
+      "source_sha256": "acd10f2f4ed30311abd622d7f82503ac205816918157ec439b730a7383ec9f32",
+      "observed_sequence": "Main row5 end གཞི་ཡིས / row6 left འགྲོ་བའི་སྣང་བ་སྟོན. Smaller lower-right note བཞི་ཡང་བྱུང.",
+      "rationale": "Keep gzhi yis and its next-row main continuation together. The smaller bzhi yang byung is separately printed below the main opening at the right edge; preserve the variant without substituting four for the main gzhi.",
+      "remaining_uncertainty": "The exact semantic replacement scope and minor edge printing remain qualified; B bzho is retained only as its electronic variant.",
+      "evidence": [
+        "diplomatic/chapter-02-v1/evidence/E03/p133-native.png",
+        "diplomatic/chapter-02-v1/evidence/E03/manifest.json",
+        "diplomatic/chapter-02-v1/evidence/E03/p133-x0000.png",
+        "diplomatic/chapter-02-v1/evidence/E03/p133-x1848.png",
+        "diplomatic/chapter-02-v1/evidence/E03/p133-x3696.png"
+      ],
+      "status": "target_inspected_bounded_disposition",
+      "full_page_collated": false
+    },
+    {
+      "id": "C2-END",
+      "units": [
+        "U03621",
+        "U03622"
+      ],
+      "pdf_page": 138,
+      "physical_row": [
+        4,
+        5
+      ],
+      "approx_native_bounds": [
+        [
+          2020,
+          650,
+          5030,
+          840
+        ],
+        [
+          690,
+          810,
+          1360,
+          965
+        ]
+      ],
+      "native_member": "0140.png",
+      "source_sha256": "51d8fd8b50aee405a6aaf79367358ead91fdc3d923315438a19b84887ed49347",
+      "observed_sequence": "ཞེས་སྒྲ་ཐལ་འགྱུར ... གནད་འདུས་བཀོད་པ་རིག་པའི་རྩ་བ ... ལེའུ་སྟེ་གཉིས་པའོ; next main དེ་ནས་ལྷ་དབང་དགའ་བྱེད་ཀྱིས",
+      "rationale": "The second-chapter colophon crosses rows4–5 and precedes the distinct next-chapter incipit in row5. It supports the frozen electronic boundary. Preserve the intervening compact graphic separately, without guessing Tibetan or foreign-script wording from it.",
+      "remaining_uncertainty": "The compact transition graphic between colophon and following incipit is not decoded. The B/S extra shads do not themselves establish a change to Adzom punctuation.",
+      "evidence": [
+        "diplomatic/chapter-02-v1/evidence/E03/p138-native.png",
+        "diplomatic/chapter-02-v1/evidence/E03/manifest.json",
+        "diplomatic/chapter-02-v1/evidence/E03/p138-x0000.png",
+        "diplomatic/chapter-02-v1/evidence/E03/p138-x1848.png",
+        "diplomatic/chapter-02-v1/evidence/E03/p138-x3696.png"
+      ],
+      "status": "target_inspected_bounded_disposition",
+      "full_page_collated": false,
+      "transition_graphic": {
+        "approx_native_bounds": [
+          1410,
+          805,
+          1850,
+          945
+        ],
+        "reading": null,
+        "role": "unresolved_boundary_graphic",
+        "not_main_verse": true
+      }
     }
   ]
 }

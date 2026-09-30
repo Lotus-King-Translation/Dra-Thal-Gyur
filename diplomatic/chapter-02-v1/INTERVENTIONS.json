@@ -79,5 +79,194 @@
     ],
     "source_check": "C2-LAYER-02740",
     "remaining_uncertainty": "The alternate spelling is preserved without asserting a complete substitution rule; supplied main delimiters retained, not newly normalized."
+  },
+  {
+    "id": "C2-I-U02885",
+    "units": [
+      "U02885"
+    ],
+    "original_units": {
+      "U02885": "རྡོ་རྗེ་ལུ་གུ་རྒྱུད་གནས་ཙིཏྟ་ནས་སྒོ་མིག་ནས་ཡུལ་ནམ་མཁའ་ལ་ཡེ་ཤེས་དངོས་སུ་འཆར་རོ །"
+    },
+    "replacement_units": {
+      "U02885": ""
+    },
+    "annotations": [
+      {
+        "text": "རྡོ་རྗེ་ལུ་གུ་རྒྱུད་གནས་ཙིཏྟ་ནས་སྒོ་མིག་ནས་ཡུལ་ནམ་མཁའ་ལ་ཡེ་ཤེས་དངོས་སུ་འཆར་རོ །",
+        "role": "source_explanatory_note",
+        "status": "layer established; exact supplied note retained with local printed-letter uncertainty",
+        "placement": "PDF111 row5, below the main transition U02884/U02886"
+      }
+    ],
+    "rationale": "The long explanatory passage is a smaller row5 source annotation linked to the larger row4 sequence. Preserve its exact supplied quotation separately, not as a root verse.",
+    "evidence": [
+      "diplomatic/chapter-02-v1/evidence/E02/p111-native.png",
+      "diplomatic/chapter-02-v1/evidence/E02/manifest.json",
+      "diplomatic/chapter-02-v1/evidence/focused/U02885-note-left.png"
+    ],
+    "source_check": "C2-LAYER-02885",
+    "remaining_uncertainty": "The middle compact letters and exact note-terminal signs have not all been independently resolved. The note quotation is retained source-transcript wording, not a fresh fully certified transcription.",
+    "uncertain_units": [
+      "U02885"
+    ]
+  },
+  {
+    "id": "C2-I-U02887-02889",
+    "units": [
+      "U02887",
+      "U02888",
+      "U02889"
+    ],
+    "original_units": {
+      "U02887": "བསྐྱིལ་འདིའི་དུས་ན་རླུང་འདྲེན་པ།",
+      "U02888": "ཞིང་མཁའ་རིག་པ་ལ་གཏད་པའོ། །",
+      "U02889": "གནད་ཡིན་ནོ། །"
+    },
+    "replacement_units": {
+      "U02887": "བསྐྱིལ་ཞིང་མཁའ་ལ་གཏད་པའོ། །",
+      "U02888": "",
+      "U02889": ""
+    },
+    "annotations": [
+      {
+        "text": "འདིའི་དུས་ན་རླུང་འདྲེན་པ། གནད་ཡིན་ནོ། །",
+        "role": "source_explanatory_note",
+        "status": "main/non-main distinction established; note sequence assembled from original fragments, with editorial separating space"
+      },
+      {
+        "text": "རིག་པ",
+        "role": "interlinear_gloss_or_addition",
+        "status": "physically smaller wording retained; whether gloss or intended main addition unresolved"
+      }
+    ],
+    "rationale": "Join the visibly continuous large-letter clause under U02887. U02888 becomes an accounted-for joined anchor and U02889 a source-note anchor. Preserve the wind-related note and the smaller rig pa independently. Unlike the older flattened transcript and translation assumption, rig pa is physically smaller here; its precise role as gloss or supplied addition is unresolved, so it is not silently represented as a large-letter main reading.",
+    "evidence": [
+      "diplomatic/chapter-02-v1/evidence/E02/p111-native.png",
+      "diplomatic/chapter-02-v1/evidence/E02/manifest.json",
+      "diplomatic/chapter-02-v1/evidence/focused/U02887-main-note.png"
+    ],
+    "source_check": "C2-LAYER-02887",
+    "remaining_uncertainty": "The functional attachment of small rig pa remains unresolved. This is a physical-layer reading, not a claim that the smaller words were never intended as a correction. All are preserved in the apparatus; the source-image punctuation is not globally re-encoded.",
+    "uncertain_units": [
+      "U02887",
+      "U02888",
+      "U02889"
+    ],
+    "roles": {
+      "U02888": "joined_anchor",
+      "U02889": "source_annotation_anchor"
+    }
+  },
+  {
+    "id": "C2-I-U02927",
+    "units": [
+      "U02927"
+    ],
+    "original_units": {
+      "U02927": " ཆུ་ཡང་དམ་ཚིག་གིས་ནི་རབ་བརྟག་གོ། །"
+    },
+    "replacement_units": {
+      "U02927": " དམ་ཚིག་གིས་ནི་རབ་བརྟག་གོ། །"
+    },
+    "annotations": [
+      {
+        "text": "ཆུ་ཡང",
+        "role": "source_variant_note",
+        "placement": "PDF113 row2 below main U02927, near U02932",
+        "status": "separate layer established; semantic attachment retained as uncertain"
+      }
+    ],
+    "rationale": "L2-0018/0019 expose a displaced small chu yang annotation. Native layout distinguishes it from the larger dam tshig clause and from the larger yon tan ... no sequence below. Preserve it once as a separate variant note; do not duplicate it in U02932 from the B transcript. This focused check is part of the already frozen transcript-locus decision, not an expansion to general witness reading.",
+    "evidence": [
+      "diplomatic/chapter-02-v1/evidence/E02/p113-native.png",
+      "diplomatic/chapter-02-v1/evidence/E02/manifest.json",
+      "diplomatic/chapter-02-v1/evidence/focused/U02927-main-note.png"
+    ],
+    "source_check": "L2-0018-SOURCE",
+    "remaining_uncertainty": "Precise semantic substitution target of chu yang and tiny boundary details remain unspecified.",
+    "uncertain_units": [
+      "U02927"
+    ]
+  },
+  {
+    "id": "C2-I-U03147",
+    "units": [
+      "U03147"
+    ],
+    "original_units": {
+      "U03147": "ཆུའི་རླུང་ལན་གཉིས་བྱུང་བ་དཔྱད།"
+    },
+    "replacement_units": {
+      "U03147": ""
+    },
+    "annotations": [
+      {
+        "text": "ཆུའི་རླུང་ལན་གཉིས་བྱུང་བ་དཔྱད།",
+        "role": "source_repetition_comment",
+        "placement": "PDF121 row2, smaller than the neighboring main phrases"
+      }
+    ],
+    "rationale": "Separate the compact source comment about two occurrences from root verse. Do not delete either of the two main water-wind phrases or treat the comment as an instruction authorizing a conjectural correction.",
+    "evidence": [
+      "diplomatic/chapter-02-v1/evidence/E02/p121-native.png",
+      "diplomatic/chapter-02-v1/evidence/E02/manifest.json",
+      "diplomatic/chapter-02-v1/evidence/focused/U03147-note.png"
+    ],
+    "source_check": "C2-LAYER-03147",
+    "remaining_uncertainty": "Retain the exact note quotation; fine terminal-stroke details are not independently certified."
+  },
+  {
+    "id": "C2-I-U03240-UNCERTAIN",
+    "units": [
+      "U03240"
+    ],
+    "original_units": {
+      "U03240": "དཀར་གླེག་ལ་སོགས་རིགས་དྲུག་འོད། །"
+    },
+    "replacement_units": {},
+    "annotations": [],
+    "rationale": "Retain U03240 exactly but flag the medial word. The sequence is localized between U03239 yid kyi lus and U03241 so soi dmigs; the consulted print does not justify silently replacing the unusual gleg with an expected color.",
+    "evidence": [
+      "diplomatic/chapter-02-v1/evidence/E02/p124-native.png",
+      "diplomatic/chapter-02-v1/evidence/E02/manifest.json",
+      "diplomatic/chapter-02-v1/evidence/E02/p124-x0000.png",
+      "diplomatic/chapter-02-v1/evidence/E02/p124-x1848.png",
+      "diplomatic/chapter-02-v1/evidence/E02/p124-x3696.png"
+    ],
+    "source_check": "C2-READING-03240",
+    "remaining_uncertainty": "Exact internal root/subscript distinction of the supplied gleg remains uncertain; this is a completed bounded retain-with-uncertainty decision, not successful decipherment.",
+    "uncertain_units": [
+      "U03240"
+    ]
+  },
+  {
+    "id": "C2-I-U03494",
+    "units": [
+      "U03494"
+    ],
+    "original_units": {
+      "U03494": "གཞི་ཡིས་བཞི་ཡང་བྱུང་འགྲོ་བའི་སྣང་བ་སྟོན། །"
+    },
+    "replacement_units": {
+      "U03494": "གཞི་ཡིས་འགྲོ་བའི་སྣང་བ་སྟོན། །"
+    },
+    "annotations": [
+      {
+        "text": "བཞི་ཡང་བྱུང",
+        "role": "source_variant_note",
+        "placement": "PDF133 row6 right, under row5 main gzhi yis"
+      }
+    ],
+    "rationale": "Keep gzhi yis and its next-row main continuation together. The smaller bzhi yang byung is separately printed below the main opening at the right edge; preserve the variant without substituting four for the main gzhi.",
+    "evidence": [
+      "diplomatic/chapter-02-v1/evidence/E03/p133-native.png",
+      "diplomatic/chapter-02-v1/evidence/E03/manifest.json",
+      "diplomatic/chapter-02-v1/evidence/E03/p133-x0000.png",
+      "diplomatic/chapter-02-v1/evidence/E03/p133-x1848.png",
+      "diplomatic/chapter-02-v1/evidence/E03/p133-x3696.png"
+    ],
+    "source_check": "C2-LAYER-03494",
+    "remaining_uncertainty": "The exact semantic replacement scope and minor edge printing remain qualified; B bzho is retained only as its electronic variant."
   }
 ]
