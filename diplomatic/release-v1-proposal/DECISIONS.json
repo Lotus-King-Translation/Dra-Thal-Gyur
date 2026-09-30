@@ -3,7 +3,63 @@
   "notice": "New proposed v1 acceptance checklist; empty entries do not erase or invalidate existing scholarly work.",
   "scope_approved": true,
   "loci": {},
-  "packet_deferrals": {},
+  "packet_deferrals": {
+    "C1-BASE-PHYSICAL/B14-P0017-0019": {
+      "rationale": "No saved reading body, no final agent-message body in the preserved event stream, and no tracked reading-file history were found. No project reading process remains active. A return code or captured receipt without a reading body is not editorial evidence. Source images remain available; this is a failed/interrupted capture, not an illegible or unavailable witness. Defer this packet from v1 without collation credit and preserve its existing source packet, request and event log.",
+      "evidence": [
+        "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B14-P0017-0019-reader-spec.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B14-P0017-0019-reader-execution.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B14-P0017-0019-reader-session.jsonl"
+      ],
+      "status": "deferred_not_collated",
+      "approved_scope_reference": "diplomatic/release-v1-proposal/PLAN.json",
+      "reading_not_relaunched": true
+    },
+    "C1-TINGKYE/B11-P0017-0019": {
+      "rationale": "No saved reading body, no final agent-message body in the preserved event stream, and no tracked reading-file history were found. No project reading process remains active. A return code or captured receipt without a reading body is not editorial evidence. Source images remain available; this is a failed/interrupted capture, not an illegible or unavailable witness. Defer this packet from v1 without collation credit and preserve its existing source packet, request and event log.",
+      "evidence": [
+        "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B11-P0017-0019-reader-spec.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B11-P0017-0019-reader-execution.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B11-P0017-0019-reader-session.jsonl"
+      ],
+      "status": "deferred_not_collated",
+      "approved_scope_reference": "diplomatic/release-v1-proposal/PLAN.json",
+      "reading_not_relaunched": true
+    },
+    "C1-TSAMDRAK/B11-P0027-0029": {
+      "rationale": "No saved reading body, no final agent-message body in the preserved event stream, and no tracked reading-file history were found. No project reading process remains active. A return code or captured receipt without a reading body is not editorial evidence. Source images remain available; this is a failed/interrupted capture, not an illegible or unavailable witness. Defer this packet from v1 without collation credit and preserve its existing source packet, request and event log.",
+      "evidence": [
+        "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B11-P0027-0029-reader-spec.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B11-P0027-0029-reader-execution.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B11-P0027-0029-reader-session.jsonl"
+      ],
+      "status": "deferred_not_collated",
+      "approved_scope_reference": "diplomatic/release-v1-proposal/PLAN.json",
+      "reading_not_relaunched": true
+    },
+    "C1-DEGE/B09-P0015-0017": {
+      "rationale": "No saved reading body, no final agent-message body in the preserved event stream, and no tracked reading-file history were found. No project reading process remains active. A return code or captured receipt without a reading body is not editorial evidence. Source images remain available; this is a failed/interrupted capture, not an illegible or unavailable witness. Defer this packet from v1 without collation credit and preserve its existing source packet, request and event log.",
+      "evidence": [
+        "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B09-P0015-0017-reader-spec.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B09-P0015-0017-reader-execution.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B09-P0015-0017-reader-session.jsonl"
+      ],
+      "status": "deferred_not_collated",
+      "approved_scope_reference": "diplomatic/release-v1-proposal/PLAN.json",
+      "reading_not_relaunched": true
+    },
+    "C1-GCN/B01-P0407-0409": {
+      "rationale": "No saved reading body, no final agent-message body in the preserved event stream, and no tracked reading-file history were found. No project reading process remains active. A return code or captured receipt without a reading body is not editorial evidence. Source images remain available; this is a failed/interrupted capture, not an illegible or unavailable witness. Defer this packet from v1 without collation credit and preserve its existing source packet, request and event log.",
+      "evidence": [
+        "diplomatic/reviews/chapter-01/continuation/C1-GCN-B01-P0407-0409-reader-spec.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-GCN-B01-P0407-0409-reader-execution.json",
+        "diplomatic/reviews/chapter-01/continuation/C1-GCN-B01-P0407-0409-reader-session.jsonl"
+      ],
+      "status": "deferred_not_collated",
+      "approved_scope_reference": "diplomatic/release-v1-proposal/PLAN.json",
+      "reading_not_relaunched": true
+    }
+  },
   "final_editorial_signoff": null,
   "scope_approval": {
     "recorded_at": "2026-09-30T13:17:25.269484+00:00",

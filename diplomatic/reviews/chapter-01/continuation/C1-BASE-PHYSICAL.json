@@ -18645,7 +18645,17 @@
       "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B14-P0017-0019-reader-spec.json",
       "rows_actually_compared": [],
       "observations": [],
-      "canonical_record_ids": []
+      "canonical_record_ids": [],
+      "release_v1_disposition": {
+        "status": "deferred_not_collated",
+        "reason": "No saved reading body, no final agent-message body in the preserved event stream, and no tracked reading-file history were found. No project reading process remains active. A return code or captured receipt without a reading body is not editorial evidence. Source images remain available; this is a failed/interrupted capture, not an illegible or unavailable witness. Defer this packet from v1 without collation credit and preserve its existing source packet, request and event log.",
+        "evidence": [
+          "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B14-P0017-0019-reader-spec.json",
+          "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B14-P0017-0019-reader-execution.json",
+          "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B14-P0017-0019-reader-session.jsonl"
+        ],
+        "original_status_retained": "claimed_prepared_not_read"
+      }
     }
   ],
   "remaining_declared_scope": "All unlisted physical dimensions on PDF1-5, plus PDF6-102; existing lexical pass and verified local signs retained. Next sub-batches complete page3,4,5 separately, with the exact prior record references supplied.",

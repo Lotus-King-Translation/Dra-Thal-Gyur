@@ -6,8 +6,8 @@
   "packets": {
     "total": 8,
     "integrated": 0,
-    "deferred_not_collated": 0,
-    "remaining": 8,
+    "deferred_not_collated": 5,
+    "remaining": 3,
     "items": [
       {
         "task": "C1-BASE-PHYSICAL",
@@ -15,8 +15,8 @@
         "scope": "Adzom physical PDF17-19",
         "recorded_status": "claimed_prepared_not_read",
         "integrated": false,
-        "explicitly_deferred_not_collated": false,
-        "remaining": true
+        "explicitly_deferred_not_collated": true,
+        "remaining": false
       },
       {
         "task": "C1-DZONGSAR",
@@ -33,8 +33,8 @@
         "scope": "Tingkye PDF17-19",
         "recorded_status": "claimed_prepared_not_read",
         "integrated": false,
-        "explicitly_deferred_not_collated": false,
-        "remaining": true
+        "explicitly_deferred_not_collated": true,
+        "remaining": false
       },
       {
         "task": "C1-TSAMDRAK",
@@ -42,8 +42,8 @@
         "scope": "Tsamdrak PDF27-29",
         "recorded_status": "claimed_prepared_not_read",
         "integrated": false,
-        "explicitly_deferred_not_collated": false,
-        "remaining": true
+        "explicitly_deferred_not_collated": true,
+        "remaining": false
       },
       {
         "task": "C1-DEGE",
@@ -51,8 +51,8 @@
         "scope": "Dege PDF15-17",
         "recorded_status": "claimed_prepared_not_read",
         "integrated": false,
-        "explicitly_deferred_not_collated": false,
-        "remaining": true
+        "explicitly_deferred_not_collated": true,
+        "remaining": false
       },
       {
         "task": "C1-W1ER119",
@@ -78,8 +78,8 @@
         "scope": "Gcn provider PDF407-409",
         "recorded_status": "claimed_prepared_not_read",
         "integrated": false,
-        "explicitly_deferred_not_collated": false,
-        "remaining": true
+        "explicitly_deferred_not_collated": true,
+        "remaining": false
       }
     ]
   },

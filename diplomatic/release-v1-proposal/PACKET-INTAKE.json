@@ -1,0 +1,654 @@
+{
+  "parent_commit": "0c49a53abcc5823fe9e79aee6cec8093123dd79b",
+  "rows": [
+    {
+      "task": "C1-BASE-PHYSICAL",
+      "batch": "B14-P0017-0019",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B14-P0017-0019-reader-spec.json",
+      "receipt": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B14-P0017-0019-reader-execution.json",
+      "reading_path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B14-P0017-0019-reader-reading.txt",
+      "reading_present": false,
+      "final_agent_messages": 0,
+      "receipt_status": "captured_requires_coordinator_review",
+      "returncode": 0,
+      "output_hash_checks": [
+        {
+          "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B14-P0017-0019-reader-session.jsonl",
+          "expected_sha256": "844a1e39dfd01b1fdc14832bec39972d8655c2412ff84420a83c3d777068c3d7",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL-B14-P0017-0019-reader-stderr.txt",
+          "expected_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "matches": true
+        }
+      ],
+      "attachment_hash_checks": [
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B14-P0017-0019/p017-native.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B14-P0017-0019/p018-native.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B14-P0017-0019/p019-native.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B14-P0017-0019/p016-native.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B14-P0017-0019/p020-native.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B14-P0017-0019/p017-x0000-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B14-P0017-0019/p017-x1900-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B14-P0017-0019/p017-x3696-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B14-P0017-0019/p018-x0000-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B14-P0017-0019/p018-x1900-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B14-P0017-0019/p018-x3696-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B14-P0017-0019/p019-x0000-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B14-P0017-0019/p019-x1900-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B14-P0017-0019/p019-x3696-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B14-P0017-0019/p016-x3696-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-BASE-PHYSICAL/B14-P0017-0019/p020-x0000-y0000.png",
+          "matches": true
+        }
+      ],
+      "disposition": "deferred_not_collated",
+      "rationale": "No saved reading body, no final agent-message body in the preserved event stream, and no tracked reading-file history were found. No project reading process remains active. A return code or captured receipt without a reading body is not editorial evidence. Source images remain available; this is a failed/interrupted capture, not an illegible or unavailable witness. Defer this packet from v1 without collation credit and preserve its existing source packet, request and event log."
+    },
+    {
+      "task": "C1-DZONGSAR",
+      "batch": "B02-PHYSICAL-P0001-0003",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-spec.json",
+      "receipt": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-execution.json",
+      "reading_path": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-reading.txt",
+      "reading_present": true,
+      "final_agent_messages": 1,
+      "receipt_status": "captured_requires_coordinator_review",
+      "returncode": 0,
+      "output_hash_checks": [
+        {
+          "path": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-reading.txt",
+          "expected_sha256": "c29918ed1a1995dd827acb519c0ad7bd287d044bc9de81f5177eaf5e367b12f5",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-session.jsonl",
+          "expected_sha256": "36b878c35e493e57fdc66f3ee30ed6360cd6f1d17a4889af74bf2fafdfe7c899",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/reviews/chapter-01/continuation/C1-DZONGSAR-B02-PHYSICAL-P0001-0003-reader-stderr.txt",
+          "expected_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "matches": true
+        }
+      ],
+      "attachment_hash_checks": [
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-DZONGSAR/B02-PHYSICAL-P0001-0003/p001-native.jpg",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-DZONGSAR/B02-PHYSICAL-P0001-0003/p002-native.jpg",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-DZONGSAR/B02-PHYSICAL-P0001-0003/p003-native.jpg",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-DZONGSAR/B02-PHYSICAL-P0001-0003/p004-native.jpg",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-DZONGSAR/B02-PHYSICAL-P0001-0003/p001-x0000-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-DZONGSAR/B02-PHYSICAL-P0001-0003/p001-x0519-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-DZONGSAR/B02-PHYSICAL-P0001-0003/p002-x0000-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-DZONGSAR/B02-PHYSICAL-P0001-0003/p002-x0519-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-DZONGSAR/B02-PHYSICAL-P0001-0003/p003-x0000-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-DZONGSAR/B02-PHYSICAL-P0001-0003/p003-x0519-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-DZONGSAR/B02-PHYSICAL-P0001-0003/p004-x0000-y0000.png",
+          "matches": true
+        }
+      ],
+      "reading_sha256": "c29918ed1a1995dd827acb519c0ad7bd287d044bc9de81f5177eaf5e367b12f5",
+      "rows": 9,
+      "observations": 14,
+      "questions": 14,
+      "disposition": "captured_pending_editorial_integration"
+    },
+    {
+      "task": "C1-TINGKYE",
+      "batch": "B11-P0017-0019",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B11-P0017-0019-reader-spec.json",
+      "receipt": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B11-P0017-0019-reader-execution.json",
+      "reading_path": "diplomatic/reviews/chapter-01/continuation/C1-TINGKYE-B11-P0017-0019-reader-reading.txt",
+      "reading_present": false,
+      "final_agent_messages": 0,
+      "receipt_status": "running_not_accepted",
+      "returncode": null,
+      "output_hash_checks": [],
+      "attachment_hash_checks": [
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B11-P0017-0019/p017-native.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B11-P0017-0019/p018-native.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B11-P0017-0019/p019-native.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B11-P0017-0019/p016-native.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B11-P0017-0019/p020-native.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B11-P0017-0019/p017-x0000-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B11-P0017-0019/p017-x1900-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B11-P0017-0019/p017-x2350-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B11-P0017-0019/p018-x0000-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B11-P0017-0019/p018-x1900-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B11-P0017-0019/p018-x2350-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B11-P0017-0019/p019-x0000-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B11-P0017-0019/p019-x1900-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B11-P0017-0019/p019-x2350-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B11-P0017-0019/p016-x2350-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TINGKYE/B11-P0017-0019/p020-x0000-y0000.png",
+          "matches": true
+        }
+      ],
+      "disposition": "deferred_not_collated",
+      "rationale": "No saved reading body, no final agent-message body in the preserved event stream, and no tracked reading-file history were found. No project reading process remains active. A return code or captured receipt without a reading body is not editorial evidence. Source images remain available; this is a failed/interrupted capture, not an illegible or unavailable witness. Defer this packet from v1 without collation credit and preserve its existing source packet, request and event log."
+    },
+    {
+      "task": "C1-TSAMDRAK",
+      "batch": "B11-P0027-0029",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B11-P0027-0029-reader-spec.json",
+      "receipt": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B11-P0027-0029-reader-execution.json",
+      "reading_path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B11-P0027-0029-reader-reading.txt",
+      "reading_present": false,
+      "final_agent_messages": 0,
+      "receipt_status": "captured_requires_coordinator_review",
+      "returncode": 0,
+      "output_hash_checks": [
+        {
+          "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B11-P0027-0029-reader-session.jsonl",
+          "expected_sha256": "f942a6a23209f522a1d42124edd27d6921f17857764d22dfe492c4cf09bae8d1",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/reviews/chapter-01/continuation/C1-TSAMDRAK-B11-P0027-0029-reader-stderr.txt",
+          "expected_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "matches": true
+        }
+      ],
+      "attachment_hash_checks": [
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B11-P0027-0029/p027-native.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B11-P0027-0029/p028-native.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B11-P0027-0029/p029-native.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B11-P0027-0029/p026-native.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B11-P0027-0029/p030-native.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B11-P0027-0029/p027-x0000-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B11-P0027-0029/p027-x1900-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B11-P0027-0029/p027-x2344-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B11-P0027-0029/p028-x0000-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B11-P0027-0029/p028-x1900-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B11-P0027-0029/p028-x2336-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B11-P0027-0029/p029-x0000-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B11-P0027-0029/p029-x1900-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B11-P0027-0029/p029-x2336-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B11-P0027-0029/p026-x2344-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-TSAMDRAK/B11-P0027-0029/p030-x0000-y0000.png",
+          "matches": true
+        }
+      ],
+      "disposition": "deferred_not_collated",
+      "rationale": "No saved reading body, no final agent-message body in the preserved event stream, and no tracked reading-file history were found. No project reading process remains active. A return code or captured receipt without a reading body is not editorial evidence. Source images remain available; this is a failed/interrupted capture, not an illegible or unavailable witness. Defer this packet from v1 without collation credit and preserve its existing source packet, request and event log."
+    },
+    {
+      "task": "C1-DEGE",
+      "batch": "B09-P0015-0017",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B09-P0015-0017-reader-spec.json",
+      "receipt": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B09-P0015-0017-reader-execution.json",
+      "reading_path": "diplomatic/reviews/chapter-01/continuation/C1-DEGE-B09-P0015-0017-reader-reading.txt",
+      "reading_present": false,
+      "final_agent_messages": 0,
+      "receipt_status": "running_not_accepted",
+      "returncode": null,
+      "output_hash_checks": [],
+      "attachment_hash_checks": [
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B09-P0015-0017/p015-native.jpg",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B09-P0015-0017/p016-native.jpg",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B09-P0015-0017/p017-native.jpg",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B09-P0015-0017/p014-native.jpg",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B09-P0015-0017/p018-native.jpg",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B09-P0015-0017/p015-x0000-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B09-P0015-0017/p015-x1457-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B09-P0015-0017/p016-x0000-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B09-P0015-0017/p016-x1481-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B09-P0015-0017/p017-x0000-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B09-P0015-0017/p017-x1459-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B09-P0015-0017/p014-x1491-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-DEGE/B09-P0015-0017/p018-x0000-y0000.png",
+          "matches": true
+        }
+      ],
+      "disposition": "deferred_not_collated",
+      "rationale": "No saved reading body, no final agent-message body in the preserved event stream, and no tracked reading-file history were found. No project reading process remains active. A return code or captured receipt without a reading body is not editorial evidence. Source images remain available; this is a failed/interrupted capture, not an illegible or unavailable witness. Defer this packet from v1 without collation credit and preserve its existing source packet, request and event log."
+    },
+    {
+      "task": "C1-W1ER119",
+      "batch": "B01-OPENING-P0002-0003",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-spec.json",
+      "receipt": "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-execution.json",
+      "reading_path": "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt",
+      "reading_present": true,
+      "final_agent_messages": 1,
+      "receipt_status": "captured_requires_coordinator_review",
+      "returncode": 0,
+      "output_hash_checks": [
+        {
+          "path": "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-reading.txt",
+          "expected_sha256": "6b90812b3088eb0ba30cfa23c63a085b9a781c6a5cfe20864c947ff8b2579bce",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-session.jsonl",
+          "expected_sha256": "e6f62fb46e07186a193f261d3daf0d2eeb43e14074d90ed01f056908b92f0434",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/reviews/chapter-01/continuation/C1-W1ER119-B01-OPENING-P0002-0003-reader-stderr.txt",
+          "expected_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "matches": true
+        }
+      ],
+      "attachment_hash_checks": [
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-native.jpg",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-native.jpg",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p001-native.jpg",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p004-native.jpg",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x0000-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p002-x1000-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-x0000-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p003-x1000-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p001-x1000-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-W1ER119/B01-OPENING-P0002-0003/p004-x0000-y0000.png",
+          "matches": true
+        }
+      ],
+      "reading_sha256": "6b90812b3088eb0ba30cfa23c63a085b9a781c6a5cfe20864c947ff8b2579bce",
+      "rows": 16,
+      "observations": 16,
+      "questions": 25,
+      "disposition": "captured_pending_editorial_integration"
+    },
+    {
+      "task": "C1-ADZOM1973",
+      "batch": "B01-P0011-0013",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-ADZOM1973-B01-P0011-0013-reader-spec.json",
+      "receipt": "diplomatic/reviews/chapter-01/continuation/C1-ADZOM1973-B01-P0011-0013-reader-execution.json",
+      "reading_path": "diplomatic/reviews/chapter-01/continuation/C1-ADZOM1973-B01-P0011-0013-reader-reading.txt",
+      "reading_present": true,
+      "final_agent_messages": 1,
+      "receipt_status": "captured_requires_coordinator_review",
+      "returncode": 0,
+      "output_hash_checks": [
+        {
+          "path": "diplomatic/reviews/chapter-01/continuation/C1-ADZOM1973-B01-P0011-0013-reader-reading.txt",
+          "expected_sha256": "e9db16a4f7a139911b178f4dceff320ba642cc73f6b84e65c4a283300d1b294f",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/reviews/chapter-01/continuation/C1-ADZOM1973-B01-P0011-0013-reader-session.jsonl",
+          "expected_sha256": "24311ba0099bc1ee10569831a2a5ef6f85a9d3aa83a22a3ceee425e8532ff6db",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/reviews/chapter-01/continuation/C1-ADZOM1973-B01-P0011-0013-reader-stderr.txt",
+          "expected_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "matches": true
+        }
+      ],
+      "attachment_hash_checks": [
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-ADZOM1973/B01-P0011-0013/p011-composite.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-ADZOM1973/B01-P0011-0013/p012-composite.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-ADZOM1973/B01-P0011-0013/p013-composite.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-ADZOM1973/B01-P0011-0013/p014-composite.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-ADZOM1973/B01-P0011-0013/p011-x0000-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-ADZOM1973/B01-P0011-0013/p011-x1900-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-ADZOM1973/B01-P0011-0013/p011-x2004-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-ADZOM1973/B01-P0011-0013/p012-x0000-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-ADZOM1973/B01-P0011-0013/p012-x1900-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-ADZOM1973/B01-P0011-0013/p012-x2004-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-ADZOM1973/B01-P0011-0013/p013-x0000-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-ADZOM1973/B01-P0011-0013/p013-x1900-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-ADZOM1973/B01-P0011-0013/p013-x2004-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-ADZOM1973/B01-P0011-0013/p014-x0000-y0000.png",
+          "matches": true
+        }
+      ],
+      "reading_sha256": "e9db16a4f7a139911b178f4dceff320ba642cc73f6b84e65c4a283300d1b294f",
+      "rows": 11,
+      "observations": 12,
+      "questions": 19,
+      "disposition": "captured_pending_editorial_integration"
+    },
+    {
+      "task": "C1-GCN",
+      "batch": "B01-P0407-0409",
+      "specification": "diplomatic/reviews/chapter-01/continuation/C1-GCN-B01-P0407-0409-reader-spec.json",
+      "receipt": "diplomatic/reviews/chapter-01/continuation/C1-GCN-B01-P0407-0409-reader-execution.json",
+      "reading_path": "diplomatic/reviews/chapter-01/continuation/C1-GCN-B01-P0407-0409-reader-reading.txt",
+      "reading_present": false,
+      "final_agent_messages": 0,
+      "receipt_status": "captured_requires_coordinator_review",
+      "returncode": 0,
+      "output_hash_checks": [
+        {
+          "path": "diplomatic/reviews/chapter-01/continuation/C1-GCN-B01-P0407-0409-reader-session.jsonl",
+          "expected_sha256": "5d4cd98b4cd0b0935d9a03527abf05345104a2e0cbbc94952fc1a0bc4c28bd23",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/reviews/chapter-01/continuation/C1-GCN-B01-P0407-0409-reader-stderr.txt",
+          "expected_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "matches": true
+        }
+      ],
+      "attachment_hash_checks": [
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-GCN/B01-P0407-0409/p407-composite.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-GCN/B01-P0407-0409/p408-composite.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-GCN/B01-P0407-0409/p409-composite.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-GCN/B01-P0407-0409/p410-composite.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-GCN/B01-P0407-0409/p407-x0000-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-GCN/B01-P0407-0409/p407-x1000-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-GCN/B01-P0407-0409/p408-x0000-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-GCN/B01-P0407-0409/p408-x1000-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-GCN/B01-P0407-0409/p409-x0000-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-GCN/B01-P0407-0409/p409-x1000-y0000.png",
+          "matches": true
+        },
+        {
+          "path": "diplomatic/evidence/chapter-01/continuation/C1-GCN/B01-P0407-0409/p410-x0000-y0000.png",
+          "matches": true
+        }
+      ],
+      "disposition": "deferred_not_collated",
+      "rationale": "No saved reading body, no final agent-message body in the preserved event stream, and no tracked reading-file history were found. No project reading process remains active. A return code or captured receipt without a reading body is not editorial evidence. Source images remain available; this is a failed/interrupted capture, not an illegible or unavailable witness. Defer this packet from v1 without collation credit and preserve its existing source packet, request and event log."
+    }
+  ],
+  "captured_reports": 3,
+  "missing_captures": 5,
+  "source_readings_or_coverage_automatically_adopted": false
+}

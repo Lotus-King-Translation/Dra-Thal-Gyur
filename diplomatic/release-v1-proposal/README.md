@@ -92,3 +92,7 @@ The meter reads only identifiers and acceptance metadata. It freezes the 183-loc
 Initial state: eight pending packet records; zero of 183 **new release-acceptance entries** recorded; five release deliverable groups not yet packaged. These are separate counters, not an assertion of zero prior research. The scope is not yet approved. The meter deliberately does not certify scholarship, infer accuracy, estimate hours, or replace the final editorial review and real validation runs.
 
 To accept a locus, add its existing ID under `DECISIONS.json:loci`, with `status` chosen from the plan, a locus-specific `rationale`, and an `evidence` list of repository-relative files. A packet deferral requires its exact `TASK/BATCH` key, rationale and evidence; it is reported separately and never counted as collation. Keep pre-existing scholarly ledgers as the authorities for readings.
+
+## Approved execution: verified packet intake
+
+The current eight-record backlog contains three real captured reports (Dzongsar, W1ER119, Adzom1973) and five jobs with no saved reading body or final agent message. The latter are explicitly deferred from v1 without collation credit. Source images and all original failure/event records remain preserved. Do not interpret an exit code of zero as a completed reading. See [intake evidence](PACKET-INTAKE.json). Three actual report integrations remain; no new general reading job is required by the approved v1 scope.

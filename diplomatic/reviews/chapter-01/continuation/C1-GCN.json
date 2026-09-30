@@ -27,7 +27,17 @@
       "specification": "diplomatic/reviews/chapter-01/continuation/C1-GCN-B01-P0407-0409-reader-spec.json",
       "rows_actually_compared": [],
       "observations": [],
-      "canonical_record_ids": []
+      "canonical_record_ids": [],
+      "release_v1_disposition": {
+        "status": "deferred_not_collated",
+        "reason": "No saved reading body, no final agent-message body in the preserved event stream, and no tracked reading-file history were found. No project reading process remains active. A return code or captured receipt without a reading body is not editorial evidence. Source images remain available; this is a failed/interrupted capture, not an illegible or unavailable witness. Defer this packet from v1 without collation credit and preserve its existing source packet, request and event log.",
+        "evidence": [
+          "diplomatic/reviews/chapter-01/continuation/C1-GCN-B01-P0407-0409-reader-spec.json",
+          "diplomatic/reviews/chapter-01/continuation/C1-GCN-B01-P0407-0409-reader-execution.json",
+          "diplomatic/reviews/chapter-01/continuation/C1-GCN-B01-P0407-0409-reader-session.jsonl"
+        ],
+        "original_status_retained": "claimed_prepared_not_read"
+      }
     }
   ],
   "current_batch_id": "B01-P0407-0409"
