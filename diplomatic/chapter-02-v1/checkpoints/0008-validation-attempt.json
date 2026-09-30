@@ -1,0 +1,7 @@
+{
+  "stage": "Independent release validation",
+  "result": "False positive in Chapter1 preservation check: two post-tag publication receipts were incorrectly compared against the earlier content tag.",
+  "evidence": "git diff identifies only pre-existing Chapter1 PUBLICATION.json and checkpoints/0016-publication-verification.json; comparison against Chapter2 intake baseline is empty.",
+  "correction": "Compare Chapter1 released deliverables against chapter-01-v1.0.0 and Chapter1 working records against the Chapter2 intake commit, preserving both invariants. No Chapter1 file is changed or removed.",
+  "status": "validator corrected, rerun pending"
+}

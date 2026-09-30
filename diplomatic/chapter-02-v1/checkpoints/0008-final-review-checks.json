@@ -1,0 +1,131 @@
+{
+  "parent_commit": "1eb654e4894a603901f551b4ea232cbfa6f610cd",
+  "candidate_validation": {
+    "schema_version": 1,
+    "checks_passed": true,
+    "counts": {
+      "source_anchors": 987,
+      "changed_anchors": 10,
+      "source_annotations": 9,
+      "uncertain_anchor_flags": 7,
+      "reconstruction_paths": 4,
+      "W_source_lines_checked": 994,
+      "evidence_image_hashes_checked": 60,
+      "release_links_checked": 2674,
+      "exact_displayed_transcript_quotes": 168,
+      "W_display_blocks_checked": 105
+    },
+    "transcript_loci": 56,
+    "W_blocks": 105,
+    "source_checks": 10,
+    "deliverable_groups": 5,
+    "source_data_and_reconstruction_passed": true,
+    "build_reproducible": true,
+    "chapter1_release_unchanged": true,
+    "completed_for_approved_scope": false,
+    "full_base_scan_proofread": false,
+    "exhaustive_witness_collation": false,
+    "limits": "Exact data, decisions, layer assembly, display and link checks; not an accuracy measurement or complete manuscript proofread."
+  },
+  "mutation_tests": {
+    "positive_case_passed": true,
+    "negative_cases_rejected": 17,
+    "cases": [
+      {
+        "case": "lost_original_anchor",
+        "rejected": true,
+        "reason": "Original source units changed"
+      },
+      {
+        "case": "reordered_sequence",
+        "rejected": true,
+        "reason": "Original anchor loss/order change"
+      },
+      {
+        "case": "changed_original_text",
+        "rejected": true,
+        "reason": "Original source units changed"
+      },
+      {
+        "case": "changed_selected_text",
+        "rejected": true,
+        "reason": "Selected text changed: U02714"
+      },
+      {
+        "case": "section_note_in_main",
+        "rejected": true,
+        "reason": "Wrong source layer: U02680"
+      },
+      {
+        "case": "joined_anchor_duplicated",
+        "rejected": true,
+        "reason": "Selected text changed: U02888"
+      },
+      {
+        "case": "lost_annotation_component",
+        "rejected": true,
+        "reason": "Source annotation lost or altered"
+      },
+      {
+        "case": "changed_note_wording",
+        "rejected": true,
+        "reason": "Source annotation lost or altered"
+      },
+      {
+        "case": "lost_uncertainty_flag",
+        "rejected": true,
+        "reason": "Uncertainty flag lost/added: U03240"
+      },
+      {
+        "case": "invented_boundary_reading",
+        "rejected": true,
+        "reason": "Invented graphic reading"
+      },
+      {
+        "case": "false_full_proofread",
+        "rejected": true,
+        "reason": "Inflated coverage claim"
+      },
+      {
+        "case": "false_exhaustive_collation",
+        "rejected": true,
+        "reason": "Inflated coverage claim"
+      },
+      {
+        "case": "invented_restored_verse",
+        "rejected": true,
+        "reason": "Invented main verse"
+      },
+      {
+        "case": "inconsistent_combined_text",
+        "rejected": true,
+        "reason": "Combined reading inconsistent"
+      },
+      {
+        "case": "lost_intervention",
+        "rejected": true,
+        "reason": "Interventions lost or altered"
+      },
+      {
+        "case": "altered_release_rationale",
+        "rejected": true,
+        "reason": "Decisions changed on export"
+      },
+      {
+        "case": "altered_W_decision",
+        "rejected": true,
+        "reason": "Decisions changed on export"
+      }
+    ],
+    "editorial_files_modified": false
+  },
+  "unsigned_final_release_rejected": true,
+  "decision_counts": {
+    "retain_base": 48,
+    "adopt_evidenced_correction": 7,
+    "retain_with_explicit_uncertainty": 1
+  },
+  "remaining": "Source-bound final signoff and verified remote publication.",
+  "all_five_deliverables_present": true,
+  "chapter1_deliverables_unchanged": true
+}
