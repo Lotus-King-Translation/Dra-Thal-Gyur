@@ -1,0 +1,6 @@
+{
+  "operation": "Candidate checkpoint",
+  "result": "Rejected before commit by the whitespace check because two exact source quotations contain trailing spaces.",
+  "resolution": "Render affected strings as JSON-quoted literals, preserving the exact source characters and whitespace on decoding. Do not strip or normalize their content.",
+  "source_text_changed": false
+}

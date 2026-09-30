@@ -92,13 +92,13 @@
   },
   "release_artifacts": {
     "total": 5,
-    "present": 0,
+    "present": 5,
     "items": {
-      "reading": false,
-      "apparatus": false,
-      "machine_reading": false,
-      "changes": false,
-      "coverage_and_uncertainties": false
+      "reading": true,
+      "apparatus": true,
+      "machine_reading": true,
+      "changes": true,
+      "coverage_and_uncertainties": true
     }
   },
   "preserved_baseline_counts": {
