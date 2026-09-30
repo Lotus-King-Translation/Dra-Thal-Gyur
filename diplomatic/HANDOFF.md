@@ -1,6 +1,6 @@
 # Continue the diplomatic edition
 
-> **Active work: Chapter 5 bounded v1.** Use [chapter-05-v1/README.md](chapter-05-v1/README.md) and the fixed 27/40/12 decision queues. Report actual changes and remaining counts with each verified commit. Preserve all four released chapters.
+> **Chapters 1–5 bounded v1 are released.** Chapter5 is at [chapter-05-v1/release/README.md](chapter-05-v1/release/README.md), with [publication receipt](chapter-05-v1/PUBLICATION.json) and [status](chapter-05-v1/PROGRESS.json): 27/27 passage choices, 40/40 W decisions, 12/12 source dispositions and 5/5 deliverable groups. No v1 tasks remain. Chapter6 has not started; preserve all five tags and show status with every verified commit.
 
 > **Chapters 1–4 have published bounded v1 editions.** Latest: [Chapter 4](chapter-04-v1/release/README.md), [publication receipt](chapter-04-v1/PUBLICATION.json), [validation](chapter-04-v1/release/VALIDATION.json) and [status](chapter-04-v1/PROGRESS.json). Its 33/33 passage decisions, 55/55 W decisions, 8/8 source checks and 5/5 deliverables are complete. All 29 corruption tests passed. No bounded-v1 task remains.
 

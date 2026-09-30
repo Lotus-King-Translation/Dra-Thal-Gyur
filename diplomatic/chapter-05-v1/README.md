@@ -21,3 +21,5 @@ All 32 deliberately corrupted in-memory fixtures were rejected. Final-mode valid
 The source consonant at U04923, compact note details, U05079 punctuation, closing delimiters and the boundary graphic remain explicitly qualified. Untargeted wording remains supplied Adzom. This release is not complete scan proofreading, exhaustive witness collation or an independently measured accuracy claim.
 
 Run `python3 diplomatic/chapter-05-v1/validate_release.py --repo . --require-final` and `python3 diplomatic/chapter-05-v1/progress.py --repo .`. Preserve Chapters 1–4 unchanged. Chapter 6 has not started.
+
+[Verified publication receipt](PUBLICATION.json). The fixed version tag points to the released content, not later administrative receipts.

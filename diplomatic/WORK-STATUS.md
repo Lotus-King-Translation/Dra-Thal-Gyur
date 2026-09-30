@@ -1,5 +1,7 @@
 # Diplomatic edition — current work status
 
+> **Current bounded publication: Chapters 1–5 released.** Chapter5 preserves434 original anchors and restores2 verses; all27/40/12 decisions and five deliverable groups are complete. See [Chapter5 receipt](chapter-05-v1/PUBLICATION.json). Chapter6 has not started. Historical exhaustive-work counts below are not unfinished Chapter5 v1 tasks.
+
 > **Current bounded publication state:** Chapters 1–4 are released. Read [Chapter 4](chapter-04-v1/release/README.md) and its [verified receipt](chapter-04-v1/PUBLICATION.json), or [Chapter 3](chapter-03-v1/release/README.md) and its [receipt](chapter-03-v1/PUBLICATION.json). Chapter 5 has not started. Historical exhaustive-work statuses below do not reopen these completed v1 checklists.
 
 > **Current bounded release status, 2026-09-30:** Chapter2 v1 is complete for its approved scope: [release](chapter-02-v1/release/README.md), [validation](chapter-02-v1/release/VALIDATION.json), [progress](chapter-02-v1/PROGRESS.json). Chapter1 remains unchanged. All Chapter2 decision counters are closed; complete scan proofreading is not claimed. Chapter3 has not started. The Chapter1 research history below remains a separate record.
