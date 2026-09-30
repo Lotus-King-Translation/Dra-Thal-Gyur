@@ -67,19 +67,19 @@ Eight records were closed for v1: **two integrated and six explicitly deferred**
 <a id="reading-questions"></a>
 ## Reading questions
 
-The reading flags canonical uncertainties and seven release-only qualifications. A flag does not replace the Tibetan string with a conjecture. Fine physical-sign questions may also remain in the page ledgers even where no inline lexical flag is shown.
+The reading flags canonical uncertainties, the exact affected anchors of ten explicit-uncertainty release choices, and seven release-only qualifications. A flag does not replace the Tibetan string with a conjecture. Fine physical-sign questions may also remain in the page ledgers even where no inline lexical flag is shown.
 
-Named base concerns include the title/invocation, U00014 graphics, U01239, U01286, U01522, U01557 initials, the small U02489 heading terminal, U02615/U02620 note allocation, the provisional S08 caption, and the unread S09 inscription. Unread or partial source wording is not an omitted passage.
+Named base concerns include the title/invocation, U00014 graphics, U01239, U01286, U01522, U01557 initials, the small U02489 heading terminal, U02615/U02620 note allocation, the U02635 double-tsheg and closing-sign scaffold, the provisional S08 caption, and the unread S09 inscription. Unread or partial source wording is not an omitted passage.
 
-- [U00001](reading.md#u00001): canonical:unverified_transcription_scaffold
-- [U00002](reading.md#u00002): canonical:uncertain_print_reading_or_annotation
-- [U00003](reading.md#u00003): canonical:unverified_transcription_scaffold
-- [U00004](reading.md#u00004): canonical:uncertain_print_reading_or_annotation
-- [U00005](reading.md#u00005): canonical:uncertain_print_reading_or_annotation
-- [U00006](reading.md#u00006): canonical:uncertain_print_reading_or_annotation
+- [U00001](reading.md#u00001): canonical:unverified_transcription_scaffold, release-choice:L1-0001
+- [U00002](reading.md#u00002): canonical:uncertain_print_reading_or_annotation, release-choice:L1-0001
+- [U00003](reading.md#u00003): canonical:unverified_transcription_scaffold, release-choice:L1-0001
+- [U00004](reading.md#u00004): canonical:uncertain_print_reading_or_annotation, release-choice:L1-0001
+- [U00005](reading.md#u00005): canonical:uncertain_print_reading_or_annotation, release-choice:L1-0001
+- [U00006](reading.md#u00006): canonical:uncertain_print_reading_or_annotation, release-choice:L1-0001
 - [U00014](reading.md#u00014): canonical:uncertain_print_reading_or_annotation
-- [U00029](reading.md#u00029): canonical:uncertain_print_reading_or_annotation
-- [U00048](reading.md#u00048): canonical:uncertain_print_reading_or_annotation
+- [U00029](reading.md#u00029): canonical:uncertain_print_reading_or_annotation, release-choice:L1-0005
+- [U00048](reading.md#u00048): canonical:uncertain_print_reading_or_annotation, release-choice:L1-0008
 - [U00049](reading.md#u00049): canonical:uncertain_print_reading_or_annotation
 - [U00080](reading.md#u00080): canonical:uncertain_print_reading_or_annotation
 - [U00092](reading.md#u00092): canonical:uncertain_print_reading_or_annotation
@@ -96,13 +96,14 @@ Named base concerns include the title/invocation, U00014 graphics, U01239, U0128
 - [U00343](reading.md#u00343): V1-RETAIN-B13-P0014-0016-O16-3
 - [U00344](reading.md#u00344): V1-RETAIN-B13-P0014-0016-O16-3
 - [U00345](reading.md#u00345): V1-RETAIN-B13-P0014-0016-O16-3
-- [U01239](reading.md#u01239): canonical:uncertain_print_reading_or_annotation
-- [U01286](reading.md#u01286): canonical:uncertain_print_reading_or_annotation
+- [U01239](reading.md#u01239): canonical:uncertain_print_reading_or_annotation, release-choice:L1-0073
+- [U01286](reading.md#u01286): canonical:uncertain_print_reading_or_annotation, release-choice:L1-0079
 - [U01522](reading.md#u01522): canonical:uncertain_print_reading_or_annotation
-- [U01557](reading.md#u01557): canonical:uncertain_print_reading_or_annotation
-- [U02489](reading.md#u02489): V1-HEADING-U02489
-- [U02615](reading.md#u02615): canonical:uncertain_print_reading_or_annotation
-- [U02620](reading.md#u02620): canonical:uncertain_print_reading_or_annotation
+- [U01557](reading.md#u01557): canonical:uncertain_print_reading_or_annotation, release-choice:L1-0099
+- [U02489](reading.md#u02489): V1-HEADING-U02489, release-choice:L1-0169
+- [U02615](reading.md#u02615): canonical:uncertain_print_reading_or_annotation, release-choice:L1-0181
+- [U02620](reading.md#u02620): canonical:uncertain_print_reading_or_annotation, release-choice:L1-0182
+- [U02635](reading.md#u02635): release-choice:L1-0183
 
 ### Pending proposals retained without adoption
 

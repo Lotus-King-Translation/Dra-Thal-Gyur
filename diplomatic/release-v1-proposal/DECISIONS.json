@@ -55,7 +55,15 @@
       "fresh_scan_reading_performed": false,
       "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
       "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821",
-      "retained_insertion_ids": []
+      "retained_insertion_ids": [],
+      "uncertain_source_units": [
+        "U00001",
+        "U00002",
+        "U00003",
+        "U00004",
+        "U00005",
+        "U00006"
+      ]
     },
     "L1-0002": {
       "status": "retain_base",
@@ -1119,7 +1127,10 @@
       "fresh_scan_reading_performed": false,
       "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
       "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821",
-      "retained_insertion_ids": []
+      "retained_insertion_ids": [],
+      "uncertain_source_units": [
+        "U00029"
+      ]
     },
     "L1-0006": {
       "status": "adopt_evidenced_correction",
@@ -1232,7 +1243,10 @@
       "fresh_scan_reading_performed": false,
       "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
       "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821",
-      "retained_insertion_ids": []
+      "retained_insertion_ids": [],
+      "uncertain_source_units": [
+        "U00048"
+      ]
     },
     "L1-0009": {
       "status": "retain_base",
@@ -2349,7 +2363,10 @@
       "fresh_scan_reading_performed": false,
       "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
       "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821",
-      "retained_insertion_ids": []
+      "retained_insertion_ids": [],
+      "uncertain_source_units": [
+        "U01239"
+      ]
     },
     "L1-0074": {
       "status": "retain_base",
@@ -2549,7 +2566,10 @@
       "fresh_scan_reading_performed": false,
       "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
       "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821",
-      "retained_insertion_ids": []
+      "retained_insertion_ids": [],
+      "uncertain_source_units": [
+        "U01286"
+      ]
     },
     "L1-0080": {
       "status": "adopt_evidenced_correction",
@@ -3211,7 +3231,10 @@
       "fresh_scan_reading_performed": false,
       "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
       "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821",
-      "retained_insertion_ids": []
+      "retained_insertion_ids": [],
+      "uncertain_source_units": [
+        "U01557"
+      ]
     },
     "L1-0100": {
       "status": "adopt_evidenced_correction",
@@ -5451,7 +5474,10 @@
       "fresh_scan_reading_performed": false,
       "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
       "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821",
-      "retained_insertion_ids": []
+      "retained_insertion_ids": [],
+      "uncertain_source_units": [
+        "U02489"
+      ]
     },
     "L1-0170": {
       "status": "retain_base",
@@ -5828,7 +5854,10 @@
       "fresh_scan_reading_performed": false,
       "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
       "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821",
-      "retained_insertion_ids": []
+      "retained_insertion_ids": [],
+      "uncertain_source_units": [
+        "U02615"
+      ]
     },
     "L1-0182": {
       "status": "retain_with_explicit_uncertainty",
@@ -5874,7 +5903,10 @@
       "fresh_scan_reading_performed": false,
       "acceptance_scope": "Release choice only; neither original-text reconstruction nor exhaustive witness agreement.",
       "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821",
-      "retained_insertion_ids": []
+      "retained_insertion_ids": [],
+      "uncertain_source_units": [
+        "U02620"
+      ]
     },
     "L1-0183": {
       "status": "retain_with_explicit_uncertainty",
@@ -5905,6 +5937,9 @@
       "canonical_source_sha256": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821",
       "retained_insertion_ids": [
         "A2000-C01-S09"
+      ],
+      "uncertain_source_units": [
+        "U02635"
       ]
     }
   },

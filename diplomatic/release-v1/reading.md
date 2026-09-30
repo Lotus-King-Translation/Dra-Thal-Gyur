@@ -10754,7 +10754,7 @@ Stable U labels refer to the supplied e-text, not manuscript verse numbers. Para
 
 <a id="u02635"></a>
 
-སྣ་ཚོགས་བཀོད་པ་རང་བྱུང་མན་ངག་གི་རྩ་་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་དང་པོའོ།། [†](apparatus.md#u02635)
+སྣ་ཚོགས་བཀོད་པ་རང་བྱུང་མན་ངག་གི་རྩ་་བ་ངེས་པར་འབྱུང་བའི་ལེའུ་སྟེ་དང་པོའོ།། [†](apparatus.md#u02635) **[uncertain](COVERAGE.md#reading-questions)**
 
 <a id="a2000-c01-s09"></a>
 

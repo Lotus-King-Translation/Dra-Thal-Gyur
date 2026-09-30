@@ -7913,7 +7913,7 @@ U02633: [reading](reading.md#u02633) · [TK-010](comparison-scans.md#tk-010) · 
 U02634: [reading](reading.md#u02634) · [LT-COV1-O104-01](comparison-scans.md#lt-cov1-o104-01)
 
 <a id="u02635"></a>
-U02635: [reading](reading.md#u02635) · [L1-0183](#l1-0183) · [A2000-C01-S09](#a2000-c01-s09) · [TS-CH1-B001](comparison-scans.md#ts-ch1-b001) · [DZ-LATE-29](comparison-scans.md#dz-late-29) · [TH-CONT-20260927-CHAPTER-END](comparison-scans.md#th-cont-20260927-chapter-end) · [LT-COV1-O104-01](comparison-scans.md#lt-cov1-o104-01) · [LT-COV1-O104-02](comparison-scans.md#lt-cov1-o104-02)
+U02635: [reading](reading.md#u02635) · [L1-0183](#l1-0183) · [A2000-C01-S09](#a2000-c01-s09) · [TS-CH1-B001](comparison-scans.md#ts-ch1-b001) · [DZ-LATE-29](comparison-scans.md#dz-late-29) · [TH-CONT-20260927-CHAPTER-END](comparison-scans.md#th-cont-20260927-chapter-end) · [LT-COV1-O104-01](comparison-scans.md#lt-cov1-o104-01) · [LT-COV1-O104-02](comparison-scans.md#lt-cov1-o104-02) — **reading question retained**
 
 ## Accepted scan interventions and source layers
 

@@ -23,6 +23,15 @@ def make(root):
     state=load(work/'RELEASE-STATE.json'); recon=load(work/'RECONCILIATION.json')
     extra=load(work/'RELEASE-EXCEPTIONS.json')
     assert choices['scope_approved'] and recon['all_checks_passed']
+    assert state['status'] in {'release_candidate','released_bounded_v1'}
+    if state['status'] == 'released_bounded_v1':
+        signoff=choices.get('final_editorial_signoff')
+        assert isinstance(signoff,dict) and signoff.get('scope')=='bounded_chapter_1_v1'
+        assert signoff.get('source_input_hashes'), 'Release signoff must bind the accepted source inputs'
+        for rel,digest in signoff['source_input_hashes'].items():
+            assert sha(root/rel)==digest, 'Signed source changed: '+rel
+        review=signoff['editorial_review']
+        assert sha(root/review['path'])==review['sha256'], 'Editorial review changed'
     units=load(col/'reading-units.json'); loci=load(col/'chapter1-loci.json')
     insertions=load(col/'ch1-scan-insertions.json')
     scans=load(col/'scan-comparison-loci.json'); web=load(col/'wikisource-diffs.json')
@@ -58,6 +67,11 @@ def make(root):
             flags[u['id']].append('canonical:'+u['status'])
     for e in extra['exceptions']:
         for uid in e['units']: flags[uid].append(e['id'])
+    for ident, choice in choices['loci'].items():
+        if choice['status'] == 'retain_with_explicit_uncertainty':
+            scope = choice.get('uncertain_source_units', [])
+            assert scope and set(scope) <= set(choice['source_units']), ident
+            for uid in scope: flags[uid].append('release-choice:' + ident)
     def link(path, label=None):
         file, sep, fragment=path.partition('#')
         return '['+(label or Path(file).name)+']('+os.path.relpath(root/file,dest).replace(os.sep,'/')+(sep+fragment if sep else '')+')'
@@ -219,8 +233,8 @@ def make(root):
         cov += ['### '+packet['scope'],'', ('**Deferred, not collated.** '+defer['rationale']) if defer else '**Integrated within the report’s explicit limits.**', '',
                 link('diplomatic/reviews/chapter-01/continuation/'+packet['task']+'.json','Preserved report and batch status'),'']
     cov += [anchor('reading-questions'),'## Reading questions','',
-        'The reading flags canonical uncertainties and seven release-only qualifications. A flag does not replace the Tibetan string with a conjecture. Fine physical-sign questions may also remain in the page ledgers even where no inline lexical flag is shown.','',
-        'Named base concerns include the title/invocation, U00014 graphics, U01239, U01286, U01522, U01557 initials, the small U02489 heading terminal, U02615/U02620 note allocation, the provisional S08 caption, and the unread S09 inscription. Unread or partial source wording is not an omitted passage.','']
+        'The reading flags canonical uncertainties, the exact affected anchors of ten explicit-uncertainty release choices, and seven release-only qualifications. A flag does not replace the Tibetan string with a conjecture. Fine physical-sign questions may also remain in the page ledgers even where no inline lexical flag is shown.','',
+        'Named base concerns include the title/invocation, U00014 graphics, U01239, U01286, U01522, U01557 initials, the small U02489 heading terminal, U02615/U02620 note allocation, the U02635 double-tsheg and closing-sign scaffold, the provisional S08 caption, and the unread S09 inscription. Unread or partial source wording is not an omitted passage.','']
     for q in qdata['base_reading_questions']:
         cov += ['- ['+q['anchor']+'](reading.md#'+q['anchor'].lower()+'): '+', '.join(q['release_flags'])]
     cov += ['', '### Pending proposals retained without adoption','']
@@ -261,6 +275,7 @@ def make(root):
     inputs=[col/n for n in ['reading-units.json','chapter1-loci.json','chapter1-conflicts.json',
         'ch1-scan-insertions.json','ch1-opening-corrections.json','ch1-key-scan-checks.json',
         'additional-interventions.json','scan-comparison-loci.json','scan-coverage.json','wikisource-diffs.json','chapter1-summary.json']]
+    inputs += [dip/'WORK-QUEUE.json']
     inputs += [work/n for n in ['PLAN.json','DECISIONS.json','RECONCILIATION.json','RELEASE-EXCEPTIONS.json','RELEASE-STATE.json']]
     inputs += [root/r['path'] for r in qdata['continuation_reports']]
     manifest={'schema_version':1,'release_state':state['status'],'scope':plan['title'],

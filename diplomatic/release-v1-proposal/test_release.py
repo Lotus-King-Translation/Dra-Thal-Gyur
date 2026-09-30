@@ -29,4 +29,21 @@ for name,mutate in cases.items():
     try: validate_data(x,y,*args)
     except (ValueError,KeyError) as err: results.append({'case':name,'rejected':True,'reason':str(err)})
     else: raise RuntimeError('Validator accepted mutation: '+name)
+coherent_cases={
+ 'wrong_recorded_release_reading':lambda x,y:y['release_choices']['L1-0002']['release_reading'].update(U00012='invented'),
+ 'wrong_choice_anchor_mapping':lambda x,y:y['release_choices']['L1-0002']['source_units'].pop(),
+ 'wrong_choice_difference_mapping':lambda x,y:y['release_choices']['L1-0002']['exact_conflicts'].pop(),
+ 'lost_intervention_reference':lambda x,y:y['release_choices']['L1-0007'].update(retained_intervention_ids=[]),
+ 'lost_restoration_reference':lambda x,y:y['release_choices']['L1-0078'].update(retained_insertion_ids=[]),
+ 'lost_uncertainty_scope':lambda x,y:y['release_choices']['L1-0183'].update(uncertain_source_units=[]),
+ 'unflagged_colophon':lambda x,y:(segment(x,'U02635').update(uncertainty_refs=[]),next(u for u in x['source_anchors'] if u['id']=='U02635').update(uncertainty_refs=[])),
+ 'inflated_canonical_reading_status':lambda x,y:y['release_choices']['L1-0002']['unit_reading_statuses'].update(U00012='fully_verified'),
+ 'invalid_release_choice_status':lambda x,y:y['release_choices']['L1-0002'].update(status='fully_verified')}
+for name,mutate in coherent_cases.items():
+    x=copy.deepcopy(m); y=copy.deepcopy(app); local_args=copy.deepcopy(args)
+    mutate(x,y)
+    local_args[4]['loci']=copy.deepcopy(y['release_choices'])
+    try: validate_data(x,y,*local_args)
+    except (ValueError,KeyError) as err: results.append({'case':name,'rejected':True,'reason':str(err)})
+    else: raise RuntimeError('Validator accepted coherent mutation: '+name)
 print(json.dumps({'positive_case_passed':True,'negative_cases_rejected':len(results),'cases':results,'editorial_files_modified':False},indent=2))

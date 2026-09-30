@@ -16,8 +16,9 @@
     "diplomatic/collation/chapter-01/scan-coverage.json": "e1e4e60b14432cfa15d4516c9bce69b46f5af0726a7f6c2e981bc07a50093817",
     "diplomatic/collation/chapter-01/wikisource-diffs.json": "986e70654e3be68733243ca03ec3c86e088238d6d470112d5962817aec1defbd",
     "diplomatic/collation/chapter-01/chapter1-summary.json": "cd7045f0c0a01a0862261aaf2fa09227760cc987be8b34ac22c181cc3baac6f5",
+    "diplomatic/WORK-QUEUE.json": "b13ca13eb9ded956b7273b84b034b720e04073bbb51f6c949a0b5371d384de05",
     "diplomatic/release-v1-proposal/PLAN.json": "4818a3f5c05b47ffbe30e6502db0eb777d7bbbd1ae35660bc22161c36790bca1",
-    "diplomatic/release-v1-proposal/DECISIONS.json": "f9e484fbd350bfb57add39bee2b098615ff72addee2468c1a831922161aadbc6",
+    "diplomatic/release-v1-proposal/DECISIONS.json": "26c7c60d7a833b27db6b2320a8261a806bd4150bb7ffcc4d9466b296d743358e",
     "diplomatic/release-v1-proposal/RECONCILIATION.json": "23cc6067c6cb2be9c6821e2cf909834af5896f02456cc832e8a4ebda22839ca7",
     "diplomatic/release-v1-proposal/RELEASE-EXCEPTIONS.json": "9c3920616fd365a61d4ea26b69acc5ca56e98d2735c3d075152d150e9a6a9ce5",
     "diplomatic/release-v1-proposal/RELEASE-STATE.json": "9a6d6c562b4dcde09c60c0d4e1c45f2a087c2bf98cfc93216cf70b867a0d34a4",
@@ -45,17 +46,17 @@
   },
   "generator": {
     "path": "diplomatic/release-v1-proposal/build_release.py",
-    "sha256": "1615aa7c4664a4f691786702502cc5a42523fb0fdb78ad03e1caf9cfc9b2c197"
+    "sha256": "a3a67d7f8f6638656e159ecbb5fc6e50418fef213ae30dc641f60fec793a3405"
   },
   "output_hashes": {
-    "reading.md": "496ebca27f72a2777ac3454fa73894f757ae546df010cf67139a16635dd7496d",
-    "apparatus.md": "70991d145b26414b97ae845cb8353b2a30c619844b8c534a32c02be003f0fa31",
-    "reading.json": "05b8df6d8bd6bee6ff6be732d52d179a2074ba30ced8ae22e52c10e0cb9793dc",
+    "reading.md": "152283d853d4613efbd3a8a719a43b3886fee1aba1315c512d20ad09729b9a75",
+    "apparatus.md": "7f0c13d270910d43e85b3f0e9c9bad7e675345ce0fc6d727c73dbc13a262467e",
+    "reading.json": "48cc4bd1073c53aed407d3de571edf4af003c932207aa40c32b02707e7f60f34",
     "CHANGES.md": "6ff6925cb4714f04c4022c5e624587ff76bf890b91ee9fafeb6e9e8382e9ec4a",
-    "COVERAGE.md": "825264811e2cf6feed681722c4b9cf4175fa1f5d3f119b0d317653cd916b3a7a",
+    "COVERAGE.md": "fd5d08ba34dd393ce69154b8263e68b7c6984a7eadcaa64cb2da04066180c288",
     "comparison-scans.md": "cee541aa943e6114f2afe5b4f5bd871c079752e9c1e77aaa3fb62d95f4c4b4ac",
-    "apparatus.json": "8447321ad5d434e0c49302bc7e2e1ccd4bd5d019e35fce3badbad36366eb2d34",
-    "coverage.json": "5b812ea5f240947a2bfad14d7471a57937547c645f4fed2e070dab406456099b",
+    "apparatus.json": "a93ac89f7f81107c7ec9fba7defb9bac17ffe56df8ebbe46e1a9e3327e00a50a",
+    "coverage.json": "d7a8e95f0307b5142de2c1c8cba1c966d0034c046d985611ccbe1f0d4410d107",
     "README.md": "56a46086504f6f88236a1aef06cfa73b57b76e1f115d060b2e4828b9da1469fd"
   },
   "counts": {

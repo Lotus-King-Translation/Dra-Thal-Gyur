@@ -5,6 +5,7 @@ from pathlib import Path
 import argparse, collections, hashlib, json, re, subprocess, sys
 from urllib.parse import unquote
 sys.dont_write_bytecode=True
+from release_choice_checks import validate_choices
 
 def load(p): return json.loads(p.read_text(encoding='utf-8'))
 def sha(p): return hashlib.sha256(p.read_bytes()).hexdigest()
@@ -68,7 +69,8 @@ def validate_data(machine, app, units, insertions, loci, diffs, choices, scans):
     expected='\n'.join(s['text'] for s in sequence if s['text'] and s['role'] in body_roles)
     require(expected==machine['main_and_headings_tibetan'],'Combined machine reading is inconsistent')
     require(not machine['exhaustive_witness_collation'],'False exhaustive witness certification')
-    return {'source_anchors':2635,'restored_main_verses':13,'loci':183,'exact_differences':359,
+    choice_checks=validate_choices(machine, app, units, insertions, loci, choices)
+    return {**choice_checks, 'source_anchors':2635,'restored_main_verses':13,'loci':183,'exact_differences':359,
             'interventions':88,'comparison_observations':len(scans),'sequence_items':len(sequence)}
 def check_markdown(root,dest,machine):
     paths=list(dest.glob('*.md')); contents={p:p.read_text(encoding='utf-8') for p in paths}
@@ -108,6 +110,8 @@ def main():
     machine=load(dest/'reading.json'); app=load(dest/'apparatus.json'); manifest=load(dest/'release-manifest.json')
     choices=load(work/'DECISIONS.json'); state=load(work/'RELEASE-STATE.json')
     units=load(col/'reading-units.json'); insertions=load(col/'ch1-scan-insertions.json')
+    require(machine['release_state']==state['status']==manifest['release_state'], 'Release state disagreement')
+    require(sha(root/manifest['generator']['path'])==manifest['generator']['sha256'], 'Generator hash changed')
     for path,digest in manifest['input_hashes'].items(): require(sha(root/path)==digest,'Input hash mismatch: '+path)
     for path,digest in manifest['output_hashes'].items(): require(sha(dest/path)==digest,'Output hash mismatch: '+path)
     checks=validate_data(machine,app,units,insertions,load(col/'chapter1-loci.json'),
@@ -131,7 +135,7 @@ def main():
     coverage=load(dest/'coverage.json')
     require(coverage['packet_deferrals']==choices['packet_deferrals'],'Deferrals concealed or changed')
     require(coverage['release_exceptions']==load(work/'RELEASE-EXCEPTIONS.json'),'Retained proposals absent')
-    for name in ['U01239','U01286','U01522','U01557','U02489','U02615','U02620']:
+    for name in ['U01239','U01286','U01522','U01557','U02489','U02615','U02620','U02635']:
         require(any(q['anchor']==name for q in coverage['base_reading_questions']),'Named uncertainty omitted: '+name)
     results=[]
     for script,extra in [('diplomatic/tools/validate_chapter1.py',['--check']),
