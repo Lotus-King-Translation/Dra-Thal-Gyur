@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "id": "C3-I-U03673",
+    "units": [
+      "U03673"
+    ],
+    "original_units": {
+      "U03673": "འདི་དུས་ཆོས་ཉིད་སྦྱང་སྦྱར་ཡང་བྱུང་བར་བྱའོ། །"
+    },
+    "replacement_units": {
+      "U03673": "འདི་དུས་ཆོས་ཉིད་སྦྱང་བར་བྱའོ། །"
+    },
+    "annotations": [
+      {
+        "text": "སྦྱར་ཡང་བྱུང",
+        "role": "source_variant_note",
+        "placement": "PDF140 row4 under main row3"
+      }
+    ],
+    "rationale": "The larger clause joins sbyang to bar byao; the smaller sbyar yang byung sits below with a dotted guide. Preserve the alternate separately without changing the main sbyang to sbyar.",
+    "evidence": [
+      "diplomatic/chapter-03-v1/evidence/E01/p140-native.png",
+      "diplomatic/chapter-03-v1/evidence/E01/manifest.json",
+      "diplomatic/chapter-03-v1/evidence/focused/U03673-main-note.png"
+    ],
+    "remaining_uncertainty": "Semantic target is not expanded beyond the visible guide; supplied main delimiters are retained rather than globally normalized.",
+    "source_check": "C3-LAYER-03673"
+  }
+]

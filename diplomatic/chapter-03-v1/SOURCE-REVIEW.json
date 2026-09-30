@@ -1,4 +1,121 @@
 {
   "scope": "Bounded native image inspections only; no complete pages credited.",
-  "items": []
+  "items": [
+    {
+      "id": "C3-START",
+      "units": [
+        "U03623"
+      ],
+      "pdf_page": 138,
+      "physical_row": 5,
+      "approx_native_bounds": [
+        1950,
+        780,
+        3870,
+        950
+      ],
+      "observed_sequence": "དེ་ནས་ལྷ་དབང་དགའ་བྱེད་ཀྱིས། ཡེ་ཤེས་བཀོད་པ་ཞེས་བྱ་བའི",
+      "rationale": "The larger opening follows the separately preserved Chapter2 graphic and continues to the ye shes bkod pa clause; this distinguishes it from the later similar Chapter4 incipit.",
+      "remaining_uncertainty": "Opening boundary located; no new decipherment of the preceding compact graphic and no whole-page punctuation certification.",
+      "evidence": [
+        "diplomatic/chapter-03-v1/evidence/E01/p138-native.png",
+        "diplomatic/chapter-03-v1/evidence/E01/p138-x1848.png",
+        "diplomatic/chapter-03-v1/evidence/E01/manifest.json",
+        "diplomatic/chapter-03-v1/evidence/focused/C3-opening.png"
+      ],
+      "reader": "ChatGPT coordinator; candidate text known before direct native-image inspection; not independent human certification"
+    },
+    {
+      "id": "C3-LAYER-03657",
+      "units": [
+        "U03657"
+      ],
+      "pdf_page": 139,
+      "physical_row": 6,
+      "approx_native_bounds": [
+        2590,
+        925,
+        4280,
+        1090
+      ],
+      "observed_sequence": "དྲིས་ལན་དང་པོ་ལ་ནང་གསེས་བཅུས་བསྟན།",
+      "rationale": "The compact first-reply/subdivision label lies between U03656 and the larger chos nyid gnas pa clause. Retain its full supplied string as a source heading, not a verse or a normalized count.",
+      "remaining_uncertainty": "The heading role and location are established; tiny terminal-sign decomposition is not a new physical-sign certificate.",
+      "evidence": [
+        "diplomatic/chapter-03-v1/evidence/E01/p139-native.png",
+        "diplomatic/chapter-03-v1/evidence/E01/manifest.json",
+        "diplomatic/chapter-03-v1/evidence/focused/U03657-heading.png"
+      ],
+      "reader": "ChatGPT coordinator; candidate text known before direct native-image inspection; not independent human certification"
+    },
+    {
+      "id": "C3-LAYER-03673",
+      "units": [
+        "U03673"
+      ],
+      "pdf_page": 140,
+      "physical_row": "3–4",
+      "approx_native_bounds": [
+        3370,
+        535,
+        4870,
+        795
+      ],
+      "observed_sequence": "འདི་དུས་ཆོས་ཉིད་སྦྱང་བར་བྱའོ། | smaller སྦྱར་ཡང་བྱུང",
+      "rationale": "The larger clause joins sbyang to bar byao; the smaller sbyar yang byung sits below with a dotted guide. Preserve the alternate separately without changing the main sbyang to sbyar.",
+      "remaining_uncertainty": "Semantic target is not expanded beyond the visible guide; supplied main delimiters are retained rather than globally normalized.",
+      "evidence": [
+        "diplomatic/chapter-03-v1/evidence/E01/p140-native.png",
+        "diplomatic/chapter-03-v1/evidence/E01/manifest.json",
+        "diplomatic/chapter-03-v1/evidence/focused/U03673-main-note.png"
+      ],
+      "reader": "ChatGPT coordinator; candidate text known before direct native-image inspection; not independent human certification"
+    },
+    {
+      "id": "C3-RESTORE-03715",
+      "units": [
+        "U03715",
+        "U03716"
+      ],
+      "pdf_page": 141,
+      "physical_row": "PDF141 row6 → PDF142 row1",
+      "approx_native_bounds": [
+        [
+          3190,
+          850,
+          5190,
+          1060
+        ],
+        [
+          610,
+          300,
+          3980,
+          470
+        ]
+      ],
+      "observed_sequence": {
+        "before": "བདག་ཉིད་གཅིག་པས་འཁྲུལ་རྩ་བྱས། །",
+        "restored_main_lines": [
+          "ལྷན་ཅིག་སྐྱེས་པས་རྟོག་པ་གཉིས།",
+          "ཀུན་ཏུ་བརྟགས་པས་ཡུལ་དུ་གྱུར།",
+          "རྐྱེན་ནི་རྣམ་པ་བཞི་དག་གིས།"
+        ],
+        "after": "འདུས་ཤིང་བཟུང་བས་འཁྲུལ་ཞེས་བྱ། །"
+      },
+      "rationale": "All three absent digital lines are present in larger main type across the page turn: lhan cig begins at PDF141 row6, gnyis continues at PDF142 row1, followed by kun tu brtags... and rkyen ni.... U03716 then resumes. Restore the observed Adzom text, not merely a B/S majority reading.",
+      "remaining_uncertainty": "Lexical sequence and main-layer status are supported by the displayed native context. Restoration line breaks and one shad per verse are editorial readable delimiters; filler marks, spaces and exact physical shad allocation are not reproduced.",
+      "evidence": [
+        "diplomatic/chapter-03-v1/evidence/E01/p141-native.png",
+        "diplomatic/chapter-03-v1/evidence/E01/p142-native.png",
+        "diplomatic/chapter-03-v1/evidence/E01/p141-x1848.png",
+        "diplomatic/chapter-03-v1/evidence/E01/p141-x3696.png",
+        "diplomatic/chapter-03-v1/evidence/E01/p142-x0000.png",
+        "diplomatic/chapter-03-v1/evidence/E01/p142-x1848.png",
+        "diplomatic/chapter-03-v1/evidence/E01/manifest.json",
+        "diplomatic/chapter-03-v1/evidence/focused/S01-incoming-row.png",
+        "diplomatic/chapter-03-v1/evidence/focused/S01-outgoing-row.png"
+      ],
+      "reader": "ChatGPT coordinator; candidate text known before direct native-image inspection; not independent human certification"
+    }
+  ]
 }

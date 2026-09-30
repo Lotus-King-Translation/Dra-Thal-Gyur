@@ -1,6 +1,149 @@
 {
-  "loci": {},
+  "loci": {
+    "L3-0001": {
+      "status": "retain_base",
+      "rationale": "Retain the initial Adzom space in the exact record and the same lexical opening. The native PDF138 sequence establishes Chapter3; its opening is not confused with the later identical first verse of Chapter4.",
+      "source_units": [
+        "U03623"
+      ],
+      "exact_conflicts": [
+        "C3-0001"
+      ],
+      "release_reading": {
+        "U03623": " དེ་ནས་ལྷ་དབང་དགའ་བྱེད་ཀྱིས། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/SOURCE-REVIEW.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0002": {
+      "status": "retain_base",
+      "rationale": "Keep the complete U03657 first-reply/ten-subdivision label as a separate source heading. Neither the B extra shad nor S braces enters the Adzom reading, and the heading count is not rewritten.",
+      "source_units": [
+        "U03657",
+        "U03658"
+      ],
+      "exact_conflicts": [
+        "C3-0002",
+        "C3-0003",
+        "C3-0004"
+      ],
+      "release_reading": {
+        "U03657": "དྲིས་ལན་དང་པོ་ལ་ནང་གསེས་བཅུས་བསྟན།",
+        "U03658": "ཆོས་ཉིད་གནས་པ་ཞེས་བྱ་བ། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/SOURCE-REVIEW.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0003": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Separate the smaller sbyar yang byung note at U03673 from the continuous main sbyang bar byao. The observed printed layers, rather than S braces alone, justify the change.",
+      "source_units": [
+        "U03673"
+      ],
+      "exact_conflicts": [
+        "C3-0005",
+        "C3-0006"
+      ],
+      "release_reading": {
+        "U03673": "འདི་དུས་ཆོས་ཉིད་སྦྱང་བར་བྱའོ། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-03-v1/INTERVENTIONS.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": []
+    },
+    "L3-0005": {
+      "status": "adopt_evidenced_correction",
+      "rationale": "Restore all three larger-letter verses after U03715 as A2000-C03-S01, before U03716. They are visible across PDF141–142 and absent only from the supplied Adzom digital slice. Keep the original empty A span and exact B/S strings in the apparatus; the restored display uses its expressly stated delimiter convention.",
+      "source_units": [
+        "U03715"
+      ],
+      "exact_conflicts": [
+        "C3-0009"
+      ],
+      "release_reading": {
+        "U03715": "བདག་ཉིད་གཅིག་པས་འཁྲུལ་རྩ་བྱས། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-03-v1/collation.json",
+        "diplomatic/chapter-03-v1/SOURCE-REVIEW.json",
+        "diplomatic/chapter-03-v1/INSERTIONS.json"
+      ],
+      "uncertain_units": [],
+      "insertion_ids": [
+        "A2000-C03-S01"
+      ]
+    }
+  },
   "W": {},
-  "source_checks": {},
+  "source_checks": {
+    "C3-START": {
+      "status": "reviewed_with_stated_limits",
+      "rationale": "The larger opening follows the separately preserved Chapter2 graphic and continues to the ye shes bkod pa clause; this distinguishes it from the later similar Chapter4 incipit.",
+      "evidence": [
+        "diplomatic/chapter-03-v1/evidence/E01/p138-native.png",
+        "diplomatic/chapter-03-v1/evidence/E01/p138-x1848.png",
+        "diplomatic/chapter-03-v1/evidence/E01/manifest.json",
+        "diplomatic/chapter-03-v1/evidence/focused/C3-opening.png"
+      ],
+      "units": [
+        "U03623"
+      ]
+    },
+    "C3-LAYER-03657": {
+      "status": "reviewed_with_stated_limits",
+      "rationale": "The compact first-reply/subdivision label lies between U03656 and the larger chos nyid gnas pa clause. Retain its full supplied string as a source heading, not a verse or a normalized count.",
+      "evidence": [
+        "diplomatic/chapter-03-v1/evidence/E01/p139-native.png",
+        "diplomatic/chapter-03-v1/evidence/E01/manifest.json",
+        "diplomatic/chapter-03-v1/evidence/focused/U03657-heading.png"
+      ],
+      "units": [
+        "U03657"
+      ]
+    },
+    "C3-LAYER-03673": {
+      "status": "reviewed_with_stated_limits",
+      "rationale": "The larger clause joins sbyang to bar byao; the smaller sbyar yang byung sits below with a dotted guide. Preserve the alternate separately without changing the main sbyang to sbyar.",
+      "evidence": [
+        "diplomatic/chapter-03-v1/evidence/E01/p140-native.png",
+        "diplomatic/chapter-03-v1/evidence/E01/manifest.json",
+        "diplomatic/chapter-03-v1/evidence/focused/U03673-main-note.png"
+      ],
+      "units": [
+        "U03673"
+      ]
+    },
+    "C3-RESTORE-03715": {
+      "status": "reviewed_with_stated_limits",
+      "rationale": "All three absent digital lines are present in larger main type across the page turn: lhan cig begins at PDF141 row6, gnyis continues at PDF142 row1, followed by kun tu brtags... and rkyen ni.... U03716 then resumes. Restore the observed Adzom text, not merely a B/S majority reading.",
+      "evidence": [
+        "diplomatic/chapter-03-v1/evidence/E01/p141-native.png",
+        "diplomatic/chapter-03-v1/evidence/E01/p142-native.png",
+        "diplomatic/chapter-03-v1/evidence/E01/p141-x1848.png",
+        "diplomatic/chapter-03-v1/evidence/E01/p141-x3696.png",
+        "diplomatic/chapter-03-v1/evidence/E01/p142-x0000.png",
+        "diplomatic/chapter-03-v1/evidence/E01/p142-x1848.png",
+        "diplomatic/chapter-03-v1/evidence/E01/manifest.json",
+        "diplomatic/chapter-03-v1/evidence/focused/S01-incoming-row.png",
+        "diplomatic/chapter-03-v1/evidence/focused/S01-outgoing-row.png"
+      ],
+      "units": [
+        "U03715",
+        "U03716"
+      ]
+    }
+  },
   "final_signoff": null
 }

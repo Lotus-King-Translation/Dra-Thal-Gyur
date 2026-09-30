@@ -22,6 +22,7 @@ def report(root):
         'W_blocks':count('W',p['frozen_W_ids']),
         'source_checks':count('source_checks',[x['id'] for x in p['source_check_targets']]),
         'interventions':len(load(c/'INTERVENTIONS.json')),
+        'restored_main_verses':sum(len(i['tibetan_lines']) for i in load(c/'INSERTIONS.json')),
         'deliverables':{'total':5,'present':sum((c/'release'/s).is_file() for s in paths)},
         'final_signoff':bool(d.get('final_signoff')),'exhaustive_witness_collation':False,
         'accuracy_score':None,'time_estimate':None}

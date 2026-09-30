@@ -1,0 +1,29 @@
+[
+  {
+    "id": "A2000-C03-S01",
+    "kind": "main_text_restoration",
+    "after_unit": "U03715",
+    "before_unit": "U03716",
+    "anchor_sequence": 1,
+    "tibetan_lines": [
+      "ལྷན་ཅིག་སྐྱེས་པས་རྟོག་པ་གཉིས།",
+      "ཀུན་ཏུ་བརྟགས་པས་ཡུལ་དུ་གྱུར།",
+      "རྐྱེན་ནི་རྣམ་པ་བཞི་དག་གིས།"
+    ],
+    "rationale": "All three absent digital lines are present in larger main type across the page turn: lhan cig begins at PDF141 row6, gnyis continues at PDF142 row1, followed by kun tu brtags... and rkyen ni.... U03716 then resumes. Restore the observed Adzom text, not merely a B/S majority reading.",
+    "evidence": [
+      "diplomatic/chapter-03-v1/evidence/E01/p141-native.png",
+      "diplomatic/chapter-03-v1/evidence/E01/p142-native.png",
+      "diplomatic/chapter-03-v1/evidence/E01/p141-x1848.png",
+      "diplomatic/chapter-03-v1/evidence/E01/p141-x3696.png",
+      "diplomatic/chapter-03-v1/evidence/E01/p142-x0000.png",
+      "diplomatic/chapter-03-v1/evidence/E01/p142-x1848.png",
+      "diplomatic/chapter-03-v1/evidence/E01/manifest.json",
+      "diplomatic/chapter-03-v1/evidence/focused/S01-incoming-row.png",
+      "diplomatic/chapter-03-v1/evidence/focused/S01-outgoing-row.png"
+    ],
+    "remaining_uncertainty": "Lexical sequence and main-layer status are supported by the displayed native context. Restoration line breaks and one shad per verse are editorial readable delimiters; filler marks, spaces and exact physical shad allocation are not reproduced.",
+    "source_check": "C3-RESTORE-03715",
+    "punctuation_policy": "One editorial shad per restored verse; exact B/S double-shad forms remain in the apparatus. No claim of exact physical punctuation replication."
+  }
+]
