@@ -1,7 +1,11 @@
 {
-  "status": "release_candidate",
+  "status": "released_bounded_v1",
   "source_snapshot_commit": "e5bbb820cd3438bf6be5aab74e106728cc62be38",
   "scope": "Approved bounded Chapter 1 v1, not exhaustive collation.",
   "release_date": "2026-09-30",
-  "requires_final_editorial_signoff": true
+  "requires_final_editorial_signoff": false,
+  "release_id": "chapter-01-v1.0.0",
+  "version": "1.0.0",
+  "editorial_signoff_path": "diplomatic/release-v1-proposal/DECISIONS.json#final_editorial_signoff",
+  "exhaustive_witness_collation_complete": false
 }

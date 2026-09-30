@@ -1,6 +1,6 @@
 # Chapter 1 — bounded v1
 
-**Release candidate — final gate pending**
+**Released bounded v1**
 
 A corrected Adzom-based reading with a scoped comparative apparatus. This release preserves uncertainty and does not claim exhaustive manuscript collation or reconstruction of an original text.
 
@@ -14,4 +14,6 @@ A corrected Adzom-based reading with a scoped comparative apparatus. This releas
 
 The [comparison-scan supplement](comparison-scans.md), [structured apparatus](apparatus.json) and [structured coverage](coverage.json) preserve the full supporting records. Evidence images and historical reports remain linked in the repository. These files are not a standalone scan archive.
 
-Rebuild or verify from the repository root with `python3 diplomatic/release-v1-proposal/build_release.py --repo . --check`. Run the release validator before recording final signoff.
+Release: **chapter-01-v1.0.0**. The [validation report](VALIDATION.json) records the scoped final checks. The [editorial review](../release-v1-proposal/FINAL-REVIEW.md) explains the acceptance limits.
+
+Verify from the repository root with `python3 diplomatic/release-v1-proposal/validate_release.py --repo . --require-final`. The reproducibility check is `python3 diplomatic/release-v1-proposal/build_release.py --repo . --check`.

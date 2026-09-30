@@ -1,8 +1,12 @@
 # Continue the diplomatic edition
 
-> **Active instruction, 2026-09-30:** The user approved the finite [Chapter 1 v1 release contract](release-v1-proposal/PLAN.json). Use its eight frozen packet records and 183 release-disposition IDs, not the historical exhaustive queue, as the publication gate. Run `python3 diplomatic/tools/release_progress.py --repo .` and report status with every verified commit. Earlier coverage and uncertainty records below remain evidence; they do not add new v1 prerequisites.
+> **Chapter 1 bounded v1 is complete for the user-approved scope (2026-09-30).** Start with the [released edition](release-v1/README.md), [final validation](release-v1/VALIDATION.json), and [status report](release-v1-proposal/PROGRESS.json). All 183 release choices are recorded; the eight frozen packets are dispositioned as two integrations and six explicit deferrals without collation credit; all five deliverable groups are present. Exhaustive witness collation remains unfinished. Run `python3 diplomatic/tools/release_progress.py --repo .` and report status with every verified commit. Do not reopen the completed v1 checklist or commission general reading under its name.
 
-**Start here on `main`. Chapter 1 is unfinished.** Its Markdown edition, integrated apparatus, surviving review ledgers and recovery archives are preserved together. Historical recovery branches remain available; they are not separate active work queues. Finish and remotely commit Chapter 1 before starting Chapter 2, then continue chapter by chapter.
+**Start here on `main`. The approved Chapter 1 v1 is released; the exhaustive research dossier remains unfinished.** Its Markdown edition, integrated apparatus, surviving review ledgers and recovery archives are preserved together. Historical recovery branches remain available; they are not separate active work queues. Finish and remotely commit Chapter 1 before starting Chapter 2, then continue chapter by chapter.
+
+## Preservation checks and historical exhaustive workflow
+
+The v1 build and final gate are in `release-v1-proposal/build_release.py` and `validate_release.py --require-final`. Instructions below preserve the earlier exhaustive project and its exact uncertainties; they are not additional prerequisites for the released v1. Chapter 2 has not been started.
 
 ## Start a session
 
@@ -71,7 +75,7 @@ Recovery still has **54 original report identities: four complete transcript-rep
 
 The final queue task, `C1-COMPLETION-GATE`, applies the method's full chapter criteria. Passing software checks alone does not close it. All observed conflicts need traceable dispositions, all declared physical spans need evidence or a precise source/access limitation, and unresolved readings must stay visible. Only then mark Chapter 1 complete, commit and verify that state remotely, and begin Chapter 2.
 
-## Current preserved-report integration
+## Historical preserved-report integration snapshot
 
 All previously captured page reports are integrated. [Adzom physical](reviews/chapter-01/continuation/C1-BASE-PHYSICAL.md) reaches the PDF13 inspection; [Tingkye](reviews/chapter-01/continuation/C1-TINGKYE.md) reaches PDF13; [Tsamdrak](reviews/chapter-01/continuation/C1-TSAMDRAK.md) reaches PDF23; [Degé](reviews/chapter-01/continuation/C1-DEGE.md) reaches PDF11. These are inspection/comparison frontiers with exact unresolved components, not claims that every glyph has been resolved. Earlier target/flank distinctions remain in each batch.
 

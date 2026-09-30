@@ -1,6 +1,6 @@
 # Chapter 1 — corrected Adzom-based reading
 
-**Release candidate — final gate pending**
+**Released bounded v1**
 
 The text includes the 13 accepted scan restorations. Source headings are set apart; smaller variant notes are in the apparatus. “Uncertain” marks retained reading questions, not proposed replacements. Caption and inscription material is explicitly non-main.
 

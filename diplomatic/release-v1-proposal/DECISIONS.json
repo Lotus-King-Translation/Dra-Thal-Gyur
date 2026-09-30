@@ -6011,7 +6011,44 @@
       "new_reading_launched": false
     }
   },
-  "final_editorial_signoff": null,
+  "final_editorial_signoff": {
+    "scope": "bounded_chapter_1_v1",
+    "release_id": "chapter-01-v1.0.0",
+    "reviewer": "ChatGPT editorial coordinator; not credentialed human palaeography",
+    "recorded_at": "2026-09-30T16:45:09.819515+00:00",
+    "accepted_decisions_sha256": "5b8f5d317860b33c91a2382bcfd69a4c2ac6daa42da1302c2fbfb538c7a6675e",
+    "source_input_hashes": {
+      "diplomatic/collation/chapter-01/additional-interventions.json": "36bf99726d824040b9bd55a8247672f0bf957ce1f86a25e9a7e050235753c108",
+      "diplomatic/collation/chapter-01/ch1-key-scan-checks.json": "1201d9de9b37e34d4190a9244da31a91e03b1747ee855d1df2be563f7a0fc382",
+      "diplomatic/collation/chapter-01/ch1-opening-corrections.json": "266004690ee18afd8ea66a80ddf875ef55bc4cfea6204f857ebd9ab1cce3d542",
+      "diplomatic/collation/chapter-01/ch1-scan-insertions.json": "097ad658ea3b73294f1738a7bf083cc24887b2d87b550426ed3af38663a8993a",
+      "diplomatic/collation/chapter-01/chapter1-conflicts.json": "ffcb314536d457a6c068c3d773147e3b0292e0643a8379b9abd50104ca045ec1",
+      "diplomatic/collation/chapter-01/chapter1-loci.json": "b0694c26fa6904c98b7d9a32e089596c30e3489f6915d2df615cf67b51174821",
+      "diplomatic/collation/chapter-01/chapter1-summary.json": "cd7045f0c0a01a0862261aaf2fa09227760cc987be8b34ac22c181cc3baac6f5",
+      "diplomatic/collation/chapter-01/reading-units.json": "368cca89dd722a7e20ab464ffe8e726dc9926bb3a846f5b2651e80e20bcf24f7",
+      "diplomatic/collation/chapter-01/scan-comparison-loci.json": "e525e12f2cb2d9e8ba07c1b093d7c0e3897b61da166cffc0efb7435300338856",
+      "diplomatic/collation/chapter-01/scan-coverage.json": "e1e4e60b14432cfa15d4516c9bce69b46f5af0726a7f6c2e981bc07a50093817",
+      "diplomatic/collation/chapter-01/wikisource-diffs.json": "986e70654e3be68733243ca03ec3c86e088238d6d470112d5962817aec1defbd",
+      "diplomatic/release-v1-proposal/RELEASE-EXCEPTIONS.json": "9c3920616fd365a61d4ea26b69acc5ca56e98d2735c3d075152d150e9a6a9ce5"
+    },
+    "editorial_review": {
+      "path": "diplomatic/release-v1-proposal/FINAL-REVIEW.md",
+      "sha256": "bc29da12355c02287fec340e878dc22092719f4b0568efce08fd05eeac93842a"
+    },
+    "prepublication_audit_commit": "7440a2aae43647329097e80e4f3cf38439e8bcbd",
+    "prepublication_checks": "diplomatic/release-v1-proposal/checkpoints/0014-final-audit-tests.json",
+    "decision": "Accept the corrected Adzom-based reading and scoped apparatus under the user-approved finite v1 contract. All 183 choices are explicit; eight packets are dispositioned as two integrations and six uncollated deferrals; the five deliverable groups preserve the accepted text, restorations, annotations and uncertainty. Final validation and non-forced remote publication are required.",
+    "counts": {
+      "loci": 183,
+      "packets_integrated": 2,
+      "packets_deferred_not_collated": 6,
+      "restored_main_verses": 13,
+      "intervention_records": 88
+    },
+    "exhaustive_witness_collation_complete": false,
+    "new_tibetan_reading_adopted_in_final_audit": false,
+    "chapter_2_started": false
+  },
   "scope_approval": {
     "recorded_at": "2026-09-30T13:17:25.269484+00:00",
     "user_instruction": "ok cool, you can go with it, but every step of the way together with commit I want to see the status report.",

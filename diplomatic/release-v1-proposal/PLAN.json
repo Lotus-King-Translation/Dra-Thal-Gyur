@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "status": "approved_in_progress",
+  "status": "released_bounded_v1",
   "audited_commit": "55d6b61225dc9ef3d7b32ed2e905fce4ef89d5cf",
   "title": "Chapter 1 v1: corrected Adzom-based reading with a scoped comparative apparatus",
   "scope": "Preserve the Adzom diplomatic reading and all accepted restorations; distinguish main text, source annotations and editorial notes. Use existing A/B/S/W comparison and already integrated scan evidence. No claim of exhaustive witness collation or reconstructed original.",
@@ -83,12 +83,13 @@
   "historical_gate_unchanged": true,
   "counts_are_not_accuracy_scores": true,
   "time_estimate": null,
-  "next_step": "Close the eight frozen packet records, then release dispositions, accepted-content reconciliation, five deliverables, and the scoped final gate. No new general scan-reading prerequisite.",
+  "next_step": "No remaining work in the approved v1 gate after final validation and verified publication. Deferred exhaustive collation is not a v1 prerequisite; Chapter 2 has not been started.",
   "metric_caveat": "The 183 acceptance entries below are a new release checklist, not 183 wholly unreviewed scholarly loci. Workload denominators remain separate; no aggregate percentage or claimed accuracy is computed.",
   "approval": {
     "recorded_at": "2026-09-30T13:17:25.269484+00:00",
     "user_instruction": "ok cool, you can go with it, but every step of the way together with commit I want to see the status report.",
     "scope": "The bounded Chapter 1 v1 plan proposed immediately before this approval.",
     "checkpoint_reporting": "After every verified commit: actual changes, closed/remaining packets out of 8, release decisions out of 183, packaged outputs out of 5, validation, preserved restorations, verified remote SHA."
-  }
+  },
+  "release_id": "chapter-01-v1.0.0"
 }

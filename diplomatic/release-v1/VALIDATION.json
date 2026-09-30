@@ -11,7 +11,7 @@
     "interventions": 88,
     "comparison_observations": 682,
     "sequence_items": 2646,
-    "local_links_checked": 9978,
+    "local_links_checked": 9980,
     "release_fragments_checked": 4843,
     "reading_segments_checked": 2646,
     "exact_rendered_source_quotations_checked": 549
@@ -41,7 +41,7 @@
         "original_manifest_files_hash_checked": 2,
         "historical_markdown_files_integrity_checked_not_link_checked": 37,
         "active_local_markdown_links_resolve": true,
-        "local_links_checked": 17692,
+        "local_links_checked": 17711,
         "evidence_references_checked": 3452,
         "continuation_metadata_matches": true,
         "chapter_complete": false,
@@ -83,13 +83,28 @@
             "letter_or_source_layer_change": 47
           }
         },
-        "release_state": "release_candidate",
+        "release_state": "released_bounded_v1",
         "exhaustive_witness_collation": false
       }
     }
   ],
   "progress": {
     "schema_version": 1,
+    "bounded_release_state": "released_bounded_v1",
+    "current_release_counts": {
+      "source_anchors": 2635,
+      "accepted_interventions": 88,
+      "restored_main_verses": 13,
+      "restored_source_headings": 1,
+      "release_loci": 183,
+      "exact_transcript_differences": 359,
+      "comparison_observations_including_uncertainty": 682,
+      "changed_anchor_strings": 84,
+      "mechanical_string_effects": {
+        "punctuation_or_spacing_only": 37,
+        "letter_or_source_layer_change": 47
+      }
+    },
     "scope": "Chapter 1 v1: corrected Adzom-based reading with a scoped comparative apparatus",
     "proposal_approved": true,
     "audited_baseline": "55d6b61225dc9ef3d7b32ed2e905fce4ef89d5cf",
@@ -200,14 +215,14 @@
       "restored_main_verses": 13,
       "comparison_observations_including_uncertainty": 667
     },
-    "final_editorial_signoff_recorded": false,
+    "final_editorial_signoff_recorded": true,
     "accuracy_score": null,
     "aggregate_completion_percentage": null,
     "time_estimate": null,
     "certifies_release_or_scholarship": false,
     "caveat": "The 183 acceptance entries below are a new release checklist, not 183 wholly unreviewed scholarly loci. Workload denominators remain separate; no aggregate percentage or claimed accuracy is computed."
   },
-  "completed_for_approved_scope": false,
+  "completed_for_approved_scope": true,
   "exhaustive_witness_collation_complete": false,
   "accuracy_claim": null,
   "limits": "Validates exact data preservation, explicit release choices, layer assembly, links and reproducibility. Does not certify every manuscript reading or independently measure character accuracy."

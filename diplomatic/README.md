@@ -1,14 +1,17 @@
-# Dra Thal Gyur — diplomatic edition in progress
+# Dra Thal Gyur — Chapter 1 bounded v1
 
-**Start here:** [HANDOFF.md](HANDOFF.md) gives the restart checks, next task and verified checkpoint procedure. `main` contains the edition and all preserved recovery archives. The [work ledger](WORK-STATUS.md) records saved coverage; the [work queue](WORK-QUEUE.json) records what to do next; the [recovery index](recovery/README.md) explains historical evidence and missing records.
+**Read the completed Chapter 1 v1:** [Release overview](release-v1/README.md) · [Reading text](release-v1/reading.md) · [Apparatus](release-v1/apparatus.md) · [Changes](release-v1/CHANGES.md) · [Coverage and uncertainty](release-v1/COVERAGE.md).
 
-**Chapter 1 is under collation. No chapter is yet certified complete.** This directory is the working dossier for the requested single annotated diplomatic edition, not a completed golden text. Chapters 2–6 and the final colophon have not been started here. The original editions, source files, glossary, and translation are unchanged.
+**Preservation and continuation:** [HANDOFF.md](HANDOFF.md) gives the restart checks, next task and verified checkpoint procedure. `main` contains the edition and all preserved recovery archives. The [work ledger](WORK-STATUS.md) records saved coverage; the [work queue](WORK-QUEUE.json) records what to do next; the [recovery index](recovery/README.md) explains historical evidence and missing records.
 
-The second reading has checked the continuous Adzom main-Tibetan sequence and audited interleaved annotations. The comparison extension now covers Dzongsar’s complete Chapter1 main sequence with local uncertainty flags and records further witness attempts. It has also documented a concrete limit: the current readings cannot certify continuous all-variant collation of several comparison witnesses. This remains a research checkpoint; it does not pass the completed-chapter gate below.
+**Chapter 1 v1 is complete for the user-approved bounded scope.** The release contains 183 explicit passage decisions, all 13 restored main verses, 88 intervention/source-layer/uncertainty records and 682 scoped comparison observations. Two frozen packets were integrated; six were explicitly deferred without collation credit. This does not certify exhaustive witness collation or a reconstructed original. The older working dossier remains available separately. Chapters 2–6 and the final colophon have not been started here. The original editions, source files, glossary, and translation are unchanged.
+
+The second reading has checked the continuous Adzom main-Tibetan sequence and audited interleaved annotations. The comparison extension now covers Dzongsar’s complete Chapter1 main sequence with local uncertainty flags and records further witness attempts. It has also documented a concrete limit: the current readings cannot certify continuous all-variant collation of several comparison witnesses. Those exhaustive research limits remain explicit; they do not reopen the separately approved and completed v1 release gate.
 
 ## Read the current work
 
-- [Chapter 1: Tibetan reading text and apparatus](chapter-01.md)
+- [Chapter 1 v1: released reading and apparatus](release-v1/README.md)
+- [Historical working dossier and exhaustive apparatus](chapter-01.md)
 - [Source inventory and coverage limitations](SOURCES.md)
 - [Editorial method](METHOD.md)
 - [Machine-readable chapter status](STATUS.json)
@@ -26,7 +29,11 @@ The repository already selects **Adzom W1KG11703, volume 1** as its base, with t
 
 The working text preserves supplied readings pending verification and explicitly inserts individually verified scan-only material. Its unverified title/sign portions and expressly uncertain readings remain provisional. A lexical comparison is not a certification of every physical punctuation sign. The prose reasons in the apparatus are editorial dispositions, not assertions that every printed witness has been read or that the retained reading is the author's original.
 
-## Iteration gate
+## Release and research gates
+
+The approved bounded v1 gate is documented in [PLAN.json](release-v1-proposal/PLAN.json) and checked by [the release validator](release-v1-proposal/validate_release.py). Its final acceptance is distinct from the historical exhaustive gate below. All named uncertainties remain visible; no general manuscript comparison is newly claimed.
+
+### Historical exhaustive gate
 
 Complete and validate Chapter 1 before starting Chapter 2. Repeat this gate for each subsequent chapter. A chapter can be marked complete only after its declared witness coverage has been checked, its base transcription has been proofread throughout, all observed differences have apparatus entries, and all outstanding unreadable or unavailable spans are precisely recorded. A mechanical round-trip check establishes transcript coverage, not philological completeness.
 

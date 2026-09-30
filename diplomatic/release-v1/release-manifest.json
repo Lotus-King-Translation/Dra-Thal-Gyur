@@ -1,7 +1,9 @@
 {
   "schema_version": 1,
-  "release_state": "release_candidate",
+  "release_state": "released_bounded_v1",
   "scope": "Chapter 1 v1: corrected Adzom-based reading with a scoped comparative apparatus",
+  "release_id": "chapter-01-v1.0.0",
+  "release_date": "2026-09-30",
   "source_snapshot_commit": "e5bbb820cd3438bf6be5aab74e106728cc62be38",
   "audited_baseline": "55d6b61225dc9ef3d7b32ed2e905fce4ef89d5cf",
   "input_hashes": {
@@ -16,12 +18,12 @@
     "diplomatic/collation/chapter-01/scan-coverage.json": "e1e4e60b14432cfa15d4516c9bce69b46f5af0726a7f6c2e981bc07a50093817",
     "diplomatic/collation/chapter-01/wikisource-diffs.json": "986e70654e3be68733243ca03ec3c86e088238d6d470112d5962817aec1defbd",
     "diplomatic/collation/chapter-01/chapter1-summary.json": "cd7045f0c0a01a0862261aaf2fa09227760cc987be8b34ac22c181cc3baac6f5",
-    "diplomatic/WORK-QUEUE.json": "b13ca13eb9ded956b7273b84b034b720e04073bbb51f6c949a0b5371d384de05",
-    "diplomatic/release-v1-proposal/PLAN.json": "4818a3f5c05b47ffbe30e6502db0eb777d7bbbd1ae35660bc22161c36790bca1",
-    "diplomatic/release-v1-proposal/DECISIONS.json": "26c7c60d7a833b27db6b2320a8261a806bd4150bb7ffcc4d9466b296d743358e",
+    "diplomatic/WORK-QUEUE.json": "918830d6d42e25a65b60986068e715cefdbd80a7d608044a8b3b20b36913a78d",
+    "diplomatic/release-v1-proposal/PLAN.json": "36514955716a3c6434690d51b31722954e7691559391e736666d0d08e1c3ca0f",
+    "diplomatic/release-v1-proposal/DECISIONS.json": "94aef2e5f8790fde3821b7eb9b72d1f46be01802f5002ea3700f21e438543ef8",
     "diplomatic/release-v1-proposal/RECONCILIATION.json": "23cc6067c6cb2be9c6821e2cf909834af5896f02456cc832e8a4ebda22839ca7",
     "diplomatic/release-v1-proposal/RELEASE-EXCEPTIONS.json": "9c3920616fd365a61d4ea26b69acc5ca56e98d2735c3d075152d150e9a6a9ce5",
-    "diplomatic/release-v1-proposal/RELEASE-STATE.json": "9a6d6c562b4dcde09c60c0d4e1c45f2a087c2bf98cfc93216cf70b867a0d34a4",
+    "diplomatic/release-v1-proposal/RELEASE-STATE.json": "fcb84f2bbba1c722de2151bc976749e4c0c3bdc511b2cd9c4249ca6430540a6e",
     "diplomatic/reviews/chapter-01/continuation/C1-ADZOM1973.json": "deb06d59529f8d5638122d8e67fb3f98250f5cdea00b9e1e28457f1711659a44",
     "diplomatic/reviews/chapter-01/continuation/C1-BASE-LAYERS.json": "9fda5f29625eb388f05488b4ba6b4806a212d52f848dde052b8af90092857519",
     "diplomatic/reviews/chapter-01/continuation/C1-BASE-PHYSICAL.json": "e7331bce49dc98c3ef01cabd86963ddb60a542f6ded3dec349fd5cc25d7b1ad8",
@@ -46,18 +48,18 @@
   },
   "generator": {
     "path": "diplomatic/release-v1-proposal/build_release.py",
-    "sha256": "a3a67d7f8f6638656e159ecbb5fc6e50418fef213ae30dc641f60fec793a3405"
+    "sha256": "069da45c480c251eeb9f91eeba6a91a8e9b30bb96a5ee105f57734e542655e7b"
   },
   "output_hashes": {
-    "reading.md": "152283d853d4613efbd3a8a719a43b3886fee1aba1315c512d20ad09729b9a75",
-    "apparatus.md": "7f0c13d270910d43e85b3f0e9c9bad7e675345ce0fc6d727c73dbc13a262467e",
-    "reading.json": "48cc4bd1073c53aed407d3de571edf4af003c932207aa40c32b02707e7f60f34",
+    "reading.md": "e0ba8c6c073ac74670be710ff227024935e987db650b724cc09b112248fdf5cd",
+    "apparatus.md": "effbd68cc629817ae5ca327fb534044d47e3e0b131753d671a9d72390056fe6f",
+    "reading.json": "9568750ca9634ca9c5d55e4186b3b88d17550f81d51acd156ffc79dddd798cb6",
     "CHANGES.md": "6ff6925cb4714f04c4022c5e624587ff76bf890b91ee9fafeb6e9e8382e9ec4a",
-    "COVERAGE.md": "fd5d08ba34dd393ce69154b8263e68b7c6984a7eadcaa64cb2da04066180c288",
+    "COVERAGE.md": "af05cd19be87a810a2ab1d0a857e4772a5112451fa8217b619f91a528c0ee767",
     "comparison-scans.md": "cee541aa943e6114f2afe5b4f5bd871c079752e9c1e77aaa3fb62d95f4c4b4ac",
     "apparatus.json": "a93ac89f7f81107c7ec9fba7defb9bac17ffe56df8ebbe46e1a9e3327e00a50a",
     "coverage.json": "d7a8e95f0307b5142de2c1c8cba1c966d0034c046d985611ccbe1f0d4410d107",
-    "README.md": "56a46086504f6f88236a1aef06cfa73b57b76e1f115d060b2e4828b9da1469fd"
+    "README.md": "a5978efebce5eea746f6003acffaea9e1cde4b125c87d084bc64296bcfc0a210"
   },
   "counts": {
     "source_anchors": 2635,
@@ -75,5 +77,5 @@
   },
   "exhaustive_witness_collation": false,
   "new_canonical_reading_changes_since_audited_baseline": false,
-  "final_editorial_signoff_recorded": false
+  "final_editorial_signoff_recorded": true
 }

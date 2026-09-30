@@ -1,21 +1,23 @@
 # Diplomatic edition — current work status
 
-> **Active instruction, 2026-09-30:** The user approved the finite [Chapter 1 v1 release contract](release-v1-proposal/PLAN.json). Use its eight frozen packet records and 183 release-disposition IDs, not the historical exhaustive queue, as the publication gate. Run `python3 diplomatic/tools/release_progress.py --repo .` and report status with every verified commit. Earlier coverage and uncertainty records below remain evidence; they do not add new v1 prerequisites.
+> **Chapter 1 bounded v1 is complete for the user-approved scope (2026-09-30).** Start with the [released edition](release-v1/README.md), [final validation](release-v1/VALIDATION.json), and [status report](release-v1-proposal/PROGRESS.json). All 183 release choices are recorded; the eight frozen packets are dispositioned as two integrations and six explicit deferrals without collation credit; all five deliverable groups are present. Exhaustive witness collation remains unfinished. Run `python3 diplomatic/tools/release_progress.py --repo .` and report status with every verified commit. Do not reopen the completed v1 checklist or commission general reading under its name.
 
-Updated 2026-09-29. **Chapter 1 is unfinished; Chapters 2–6 and the final colophon have not started.** Start at [HANDOFF.md](HANDOFF.md) for operational instructions and [WORK-QUEUE.json](WORK-QUEUE.json) for the next bounded task. This ledger records supported scholarly coverage and explicitly retained uncertainty; a saved inspection is not a whole-page collation.
+Updated 2026-09-30. **Chapter 1 bounded v1 is complete for its approved scope. Exhaustive witness collation is unfinished; Chapters 2–6 and the final colophon have not started.** Start at [HANDOFF.md](HANDOFF.md) for operational instructions and [WORK-QUEUE.json](WORK-QUEUE.json) for the next bounded task. This ledger records supported scholarly coverage and explicitly retained uncertainty; a saved inspection is not a whole-page collation.
 
-Preserved pre-continuation edition baseline: `afb5c5133357942267dc55fc60a1d22704d5ef08`. Current [Chapter 1](chapter-01.md) SHA-256: `2ba8e18dc0ece53fd06551c2baf6c467075e99c2f2999f91e6666a183a126efa`. See [C1-SIGNS-01](reviews/chapter-01/continuation/C1-SIGNS-01.md) and the [C1-SIGNS-02 review](reviews/chapter-01/continuation/C1-SIGNS-02.md); these local punctuation changes do not complete the edition.
+Preserved pre-continuation edition baseline: `afb5c5133357942267dc55fc60a1d22704d5ef08`. Legacy [Chapter 1 research dossier](chapter-01.md) SHA-256: `80da9ac06069b827cf829fff4318713b26e6f21a54158f62a3c47e05a73e5fab`. See [C1-SIGNS-01](reviews/chapter-01/continuation/C1-SIGNS-01.md) and the [C1-SIGNS-02 review](reviews/chapter-01/continuation/C1-SIGNS-02.md); these local punctuation changes do not complete the edition.
 
 ## What is already saved and integrated
 
 - **2,635 base anchors**, **359 exact supplied-transcript differences in 183 loci**, and **273 Wikisource lexical comparison blocks**.
 - **88 scan correction/source-layer/uncertainty records**, plus **13 restored main verses and one reply heading**.
-- **667 comparison records**, including qualified observations and uncertainty: Degé 78, Dzongsar 49, Gadkar 18, Langtang 2, Tharpaling 51, Tharpaling 1983 W27491 12, Tingkye 254, Tsamdrak 187, Zhichen 16. Not a confirmed-variant count or a coverage percentage.
+- **682 comparison records**, including qualified observations and uncertainty: Degé 78, Dzongsar 51, Gadkar 18, Langtang 2, Tharpaling 51, Tharpaling 1983 W27491 12, Tingkye 254, Tsamdrak 187, W1ER119 13, Zhichen 16. Not a confirmed-variant count or a coverage percentage.
 - Adzom's continuous **main lexical** pass, its targeted annotation audit, and Dzongsar's continuous **main lexical** comparison survive. They should not be discarded or repeated wholesale.
 
 Sources: [status](STATUS.json), [interventions](chapter-01.md#scan-interventions), [comparison records](collation/chapter-01/scan-comparison-loci.json), [base coverage](collation/chapter-01/scan-coverage.json).
 
-## Saved coverage and unfinished work
+## Historical and deferred exhaustive coverage
+
+The following source-specific requirements remain research work, not unfinished v1 release tasks. Current bounded-release counts and signoff are in [PROGRESS.json](release-v1-proposal/PROGRESS.json); exact release coverage and all deferrals are in [COVERAGE.md](release-v1/COVERAGE.md).
 
 PDF numbers refer to the named witness; provider-container numbers apply to Adzom1973 and Gcn. An inspected page is not automatically a collated page.
 

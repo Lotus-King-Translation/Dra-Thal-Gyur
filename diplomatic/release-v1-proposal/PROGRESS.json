@@ -1,5 +1,20 @@
 {
   "schema_version": 1,
+  "bounded_release_state": "released_bounded_v1",
+  "current_release_counts": {
+    "source_anchors": 2635,
+    "accepted_interventions": 88,
+    "restored_main_verses": 13,
+    "restored_source_headings": 1,
+    "release_loci": 183,
+    "exact_transcript_differences": 359,
+    "comparison_observations_including_uncertainty": 682,
+    "changed_anchor_strings": 84,
+    "mechanical_string_effects": {
+      "punctuation_or_spacing_only": 37,
+      "letter_or_source_layer_change": 47
+    }
+  },
   "scope": "Chapter 1 v1: corrected Adzom-based reading with a scoped comparative apparatus",
   "proposal_approved": true,
   "audited_baseline": "55d6b61225dc9ef3d7b32ed2e905fce4ef89d5cf",
@@ -110,7 +125,7 @@
     "restored_main_verses": 13,
     "comparison_observations_including_uncertainty": 667
   },
-  "final_editorial_signoff_recorded": false,
+  "final_editorial_signoff_recorded": true,
   "accuracy_score": null,
   "aggregate_completion_percentage": null,
   "time_estimate": null,

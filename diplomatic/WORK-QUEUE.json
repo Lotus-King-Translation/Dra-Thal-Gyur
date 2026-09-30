@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-09-28",
+  "updated": "2026-09-30",
   "canonical_branch": "main",
   "current_chapter": 1,
   "chapter_status": "in_progress_not_ready",
@@ -2123,5 +2123,18 @@
     ],
     "final_colophon": "not_started",
     "start_condition": "Chapter1 completion gate has passed and its completed-chapter commit is verified remotely."
+  },
+  "chapter_status_scope": "Historical exhaustive-witness project; not the completed bounded v1 release.",
+  "approved_bounded_release": {
+    "release_id": "chapter-01-v1.0.0",
+    "status": "released_bounded_v1",
+    "pending_v1_packets": 0,
+    "pending_v1_locus_decisions": 0,
+    "deliverable_groups_present": 5,
+    "release_overview": "diplomatic/release-v1/README.md",
+    "final_validation": "diplomatic/release-v1/VALIDATION.json",
+    "status_report": "diplomatic/release-v1-proposal/PROGRESS.json",
+    "historical_next_task_id_is_not_v1_work": true,
+    "chapter_2_started": false
   }
 }

@@ -28,6 +28,8 @@ def make(root):
         signoff=choices.get('final_editorial_signoff')
         assert isinstance(signoff,dict) and signoff.get('scope')=='bounded_chapter_1_v1'
         assert signoff.get('source_input_hashes'), 'Release signoff must bind the accepted source inputs'
+        decision_bytes=json.dumps({k:choices[k] for k in ('loci','packet_deferrals')}, ensure_ascii=False, sort_keys=True, separators=(',',':')).encode()
+        assert hashlib.sha256(decision_bytes).hexdigest()==signoff['accepted_decisions_sha256'], 'Signed release choices changed'
         for rel,digest in signoff['source_input_hashes'].items():
             assert sha(root/rel)==digest, 'Signed source changed: '+rel
         review=signoff['editorial_review']
@@ -267,7 +269,8 @@ def make(root):
         '| [Changes](CHANGES.md) | Restorations and exact changed-anchor ledger |',
         '| [Coverage](COVERAGE.md) | What was compared, deferred and left uncertain |','',
         'The [comparison-scan supplement](comparison-scans.md), [structured apparatus](apparatus.json) and [structured coverage](coverage.json) preserve the full supporting records. Evidence images and historical reports remain linked in the repository. These files are not a standalone scan archive.','',
-        'Rebuild or verify from the repository root with `python3 diplomatic/release-v1-proposal/build_release.py --repo . --check`. Run the release validator before recording final signoff.','']
+        'Release: **'+state.get('release_id','candidate')+'**. The [validation report](VALIDATION.json) records the scoped final checks. The [editorial review](../release-v1-proposal/FINAL-REVIEW.md) explains the acceptance limits.','',
+        'Verify from the repository root with `python3 diplomatic/release-v1-proposal/validate_release.py --repo . --require-final`. The reproducibility check is `python3 diplomatic/release-v1-proposal/build_release.py --repo . --check`.','']
     outputs={'reading.md':'\n'.join(reading),'apparatus.md':'\n'.join(app),
         'reading.json':js(machine),'CHANGES.md':'\n'.join(changemd),'COVERAGE.md':'\n'.join(cov),
         'comparison-scans.md':'\n'.join(scanmd),'apparatus.json':js(structured_app),
@@ -279,6 +282,7 @@ def make(root):
     inputs += [work/n for n in ['PLAN.json','DECISIONS.json','RECONCILIATION.json','RELEASE-EXCEPTIONS.json','RELEASE-STATE.json']]
     inputs += [root/r['path'] for r in qdata['continuation_reports']]
     manifest={'schema_version':1,'release_state':state['status'],'scope':plan['title'],
+        'release_id':state.get('release_id'),'release_date':state['release_date'],
         'source_snapshot_commit':state['source_snapshot_commit'],'audited_baseline':plan['audited_commit'],
         'input_hashes':{str(p.relative_to(root)):sha(p) for p in inputs},
         'generator':{'path':str(Path(__file__).resolve().relative_to(root)),'sha256':sha(Path(__file__))},

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Read-only meter for the proposed Chapter 1 v1 release; not a quality certificate.
+"""Read-only meter for the approved Chapter 1 v1 release; not a quality certificate.
 
 Reports frozen packet and locus denominators separately. Reads identifiers and
 acceptance metadata, not source glyphs. It never adopts readings or edits files.
@@ -68,8 +68,14 @@ def report(repo: Path) -> dict:
                         'remaining': not (integrated or deferred)})
     artifacts = {key: inside(repo, value).is_file()
                  for key, value in plan['release_artifacts'].items()}
+    state_path=folder / 'RELEASE-STATE.json'
+    release_state=load(state_path).get('status') if state_path.is_file() else 'not_packaged'
+    manifest_path=repo / 'diplomatic/release-v1/release-manifest.json'
+    current_counts=load(manifest_path).get('counts') if manifest_path.is_file() else None
     return {
         'schema_version': 1,
+        'bounded_release_state': release_state,
+        'current_release_counts': current_counts,
         'scope': plan['title'],
         'proposal_approved': decisions.get('scope_approved', False),
         'audited_baseline': plan['audited_commit'],

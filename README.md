@@ -8,7 +8,7 @@ Working repository for a Tibetan–English translation of the **Dra Thal Gyur ro
 
 | Location | Contents |
 | --- | --- |
-| [diplomatic/](diplomatic/README.md) | Chapter 1 reading and apparatus; provisional, with recovery records and explicit remaining collation gaps |
+| [diplomatic/](diplomatic/README.md) | Released Chapter 1 bounded v1: corrected Adzom reading, restorations, apparatus and explicit coverage limits |
 | [source/](source/README.md) | Only the selected Adzom root-tantra facsimile and its e-text |
 | [editions/](editions/README.md) | Acquired reference editions, image archives, e-texts, metadata, and unresolved acquisition leads |
 | [AGENTS.md](AGENTS.md) | Copied project instructions plus user-required remote preservation directives; revision recorded in GUIDANCE-PROVENANCE.json |
@@ -16,7 +16,7 @@ Working repository for a Tibetan–English translation of the **Dra Thal Gyur ro
 | [glossary/](glossary/expanded_tibetan_english_glossary.csv) | The original eight-column glossary, unchanged |
 | [GUIDANCE-PROVENANCE.json](GUIDANCE-PROVENANCE.json) | Source commit and checksums for the copied instructions, guidelines, and glossary |
 
-**Diplomatic Chapter 1 remains in progress.** Continue from [diplomatic/HANDOFF.md](diplomatic/HANDOFF.md) on `main`. It provides restart checks, an exact work queue and remote checkpoint instructions. The edition and all preserved recovery archives are together on this branch.
+**Chapter 1 bounded v1 is released.** Read [the edition](diplomatic/release-v1/README.md). Exhaustive witness collation remains unfinished. Preservation and later work begin at [diplomatic/HANDOFF.md](diplomatic/HANDOFF.md) on `main`. It provides restart checks, an exact work queue and remote checkpoint instructions. The edition and all preserved recovery archives are together on this branch.
 
 ## Reading the source
 

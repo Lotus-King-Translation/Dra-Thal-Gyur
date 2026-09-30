@@ -1,4 +1,7 @@
-# Chapter 1: release-scope audit and proposed finite v1
+# Chapter 1 v1 — approved release contract and audit history
+
+> **Released for the approved bounded scope on 2026-09-30.** See [the edition](../release-v1/README.md), [current status](PROGRESS.json), and [final editorial review](FINAL-REVIEW.md). All 183 release choices and eight packet dispositions are complete; all five deliverable groups are packaged. The proposal and audit text below are retained as history, not current unfinished tasks.
+
 
 Audit date: 2026-09-30. Audited content: `55d6b61225dc9ef3d7b32ed2e905fce4ef89d5cf`.
 **Approved by the user on 2026-09-30. Bounded v1 execution is active; the historical audit below is preserved. This does not certify exhaustive collation.**

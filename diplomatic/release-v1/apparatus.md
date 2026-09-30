@@ -1,6 +1,6 @@
 # Chapter 1 — comparative apparatus
 
-**Release candidate — final gate pending**
+**Released bounded v1**
 
 A, B and S are the exact supplied Adzom, Tharpaling and Sichuan transcripts. Their differences are not automatically verified readings of the corresponding print. The chosen reading is Adzom-based; every retained or adopted choice below is a bounded v1 decision, not a reconstructed original.
 

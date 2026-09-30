@@ -1,6 +1,6 @@
 # Chapter 1 v1 — coverage and retained uncertainty
 
-**Release candidate — final gate pending**
+**Released bounded v1**
 
 **This is a completed-deliverable scope, not an exhaustive-witness claim.** The governing base remains Adzom. All 183 supplied-transcript loci have explicit release choices; unresolved letters and uncollated witnesses have not been turned into agreement.
 
