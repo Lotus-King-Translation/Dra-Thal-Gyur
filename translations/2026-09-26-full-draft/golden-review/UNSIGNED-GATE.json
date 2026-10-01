@@ -1,0 +1,6 @@
+{
+  "exit_code": 1,
+  "rejected_unsigned": true,
+  "stdout": "",
+  "stderr": "Traceback (most recent call last):\n  File \"/Users/mikkokotila/dev/Dra-Thal-Gyur/translations/2026-09-26-full-draft/golden-review/validate_translation.py\", line 176, in <module>\n    if __name__=='__main__': main()\n                             ~~~~^^\n  File \"/Users/mikkokotila/dev/Dra-Thal-Gyur/translations/2026-09-26-full-draft/golden-review/validate_translation.py\", line 169, in main\n    if args.require_final: final_gate()\n                           ~~~~~~~~~~^^\n  File \"/Users/mikkokotila/dev/Dra-Thal-Gyur/translations/2026-09-26-full-draft/golden-review/validate_translation.py\", line 146, in final_gate\n    path=R/'SIGNOFF.json'; require(path.is_file(),'Final editorial signoff absent')\n                           ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/mikkokotila/dev/Dra-Thal-Gyur/translations/2026-09-26-full-draft/golden-review/validate_translation.py\", line 11, in require\n    if not x: raise ValueError(message)\n              ^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: Final editorial signoff absent\n"
+}

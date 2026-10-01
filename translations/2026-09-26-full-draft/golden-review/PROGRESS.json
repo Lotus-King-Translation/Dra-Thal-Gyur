@@ -1,5 +1,5 @@
 {
-  "state": "annotated_translation_candidate",
+  "state": "validated_candidate_signoff_pending",
   "counts": {
     "original_anchors_compared": 5466,
     "changed_anchors_reviewed": 110,
@@ -28,7 +28,9 @@
   "remaining_uncertainty_carryovers": 0,
   "endnotes_rendered": true,
   "translation_rendered": true,
-  "validation_passed": false,
+  "validation_passed": true,
   "publication_verified": false,
-  "rendered_output_files": 25
+  "rendered_output_files": 25,
+  "negative_tests_rejected": 36,
+  "final_signoff": false
 }

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "checks_passed": true,
+  "final_gate_passed": false,
+  "counts": {
+    "original_anchors": 5466,
+    "reading_objects": 5484,
+    "changed_Tibetan_anchors_endnoted": 110,
+    "extra_golden_objects": 18,
+    "restored_English_verses": 23,
+    "source_annotations": 65,
+    "golden_uncertainty_objects": 72,
+    "new_endnotes": 173,
+    "English_anchor_strings_changed_including_layer_moves": 71,
+    "non_main_or_joined_anchors": 16,
+    "closing_anchors": 18,
+    "reader_footnote_definitions_checked": 346,
+    "reader_objects_checked": 10968,
+    "exact_endnote_records_checked": 173,
+    "local_links_checked": 4094,
+    "protected_input_hashes": 91
+  },
+  "source_comparison_complete": true,
+  "all_changed_source_anchors_endnoted": true,
+  "original_English_preserved": true,
+  "golden_edition_and_glossary_unchanged": true,
+  "reproducible": true,
+  "unchanged_passages_fresh_semantic_qc": false,
+  "limits": "Coverage, exact preservation, display, references and source-impact reconciliation; not an independent human translation-accuracy certification."
+}
