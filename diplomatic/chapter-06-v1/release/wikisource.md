@@ -1,6 +1,6 @@
 # Chapter 6 — related Wikisource reference comparison
 
-**Release candidate — final gate pending**
+**Released bounded v1**
 
 All 28 non-equal alignment blocks have explicit decisions. Exact A Wylie and W lines are preserved; W does not override the governing Adzom scan.
 

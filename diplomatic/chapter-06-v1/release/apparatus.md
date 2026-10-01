@@ -1,6 +1,6 @@
 # Chapter 6 — comparative apparatus and closing record
 
-**Release candidate — final gate pending**
+**Released bounded v1**
 
 A/B/S quote exact supplied transcripts. All 21 exact differences are represented in 13 readable loci. W is a related reference transcript, not an independent printing.
 

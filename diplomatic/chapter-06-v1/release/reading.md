@@ -1,6 +1,6 @@
 # Chapter 6 and full-work closing material
 
-**Release candidate — final gate pending**
+**Released bounded v1**
 
 All 269 original anchors U05198–U05466 are retained. Two scan-attested main verses are restored after U05382. The 18 closing anchors remain distinct from Chapter 6 root text.
 

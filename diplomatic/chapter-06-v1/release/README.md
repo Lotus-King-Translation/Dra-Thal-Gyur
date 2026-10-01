@@ -1,6 +1,6 @@
 # Chapter 6 and closing material — bounded v1
 
-**Release candidate — final gate pending**
+**Released bounded v1**
 
 Chapter 6 and closing material — corrected Adzom-based bounded v1
 
@@ -15,3 +15,5 @@ Chapter 6 and closing material — corrected Adzom-based bounded v1
 [W reference](wikisource.md) · [Structured apparatus](apparatus.json)
 
 This is a corrected Adzom-based bounded v1, not a complete scan proofread or reconstructed original.
+
+Version: **chapter-06-v1.0.0**. [Final validation](VALIDATION.json) records the scoped checks.

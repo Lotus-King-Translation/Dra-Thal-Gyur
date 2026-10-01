@@ -1,6 +1,6 @@
 # Chapter 6 v1 — coverage and retained uncertainty
 
-**Release candidate — final gate pending**
+**Released bounded v1**
 
 Bounded scope: 269 original anchors, 21 A/B/S differences in 13 loci, 28 W reference blocks, 13 targeted Adzom source checks and 18 closing-material dispositions.
 

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "chapter": 6,
-  "status": "approved_in_progress",
+  "status": "released_bounded_v1",
   "baseline_commit": "5357a9a47c211c94dac6003196afc605d36e61f8",
   "approval": "User authorized Chapter six, colophon and remaining parts, using the bounded v1 process and status with every verified commit.",
   "title": "Chapter 6 and closing material — corrected Adzom-based bounded v1",
@@ -56,7 +56,7 @@
   "no_general_comparison_witness_reading": true,
   "exhaustive_witness_collation": false,
   "prior_scan_consultation": "Translation notes provide locator leads and hypotheses, not inherited complete source proofreading.",
-  "next_step": "Freeze comparison and source targets; complete decisions, closing coverage, five deliverables and final gate, then full-root inventory.",
+  "next_step": "No remaining bounded-v1 tasks after final validation and verified publication. Whole-work root-tantra release is the next packaging step.",
   "parts": [
     {
       "id": "chapter-06",
@@ -291,5 +291,6 @@
   "collation_hashes": {
     "collation.json": "0d428ae1145570b95e8d90738754a21164d52aa00c9d895ad60254738ba5e770",
     "wikisource.json": "da08d77830cd7f5a9acc31bb65af77f422bc169a6e23ddb24d2c59e9651cf196"
-  }
+  },
+  "release_id": "chapter-06-v1.0.0"
 }
