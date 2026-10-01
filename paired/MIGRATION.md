@@ -29,3 +29,14 @@ uncertainty is to change. Preserve all 5,484 golden objects (5,466 original
 anchors and 18 additions), 23 restored verses, 173 reconciliation endnotes,
 six chapters, and 18 full-work closing anchors. Historical scan-only records
 remain linked to their golden occurrences, never duplicated as fresh text.
+
+## Initial import checkpoint
+
+The two canonical files now contain 2,659 shared pairs, covering all 5,484
+objects once and in release order; all 173 reconciliation footnotes are carried.
+All 340 distinct earlier-note IDs remain linked, including 83 absent from the
+inline English. Released input hashes still match. Negative/adversarial validation
+and the generated manifest remain pending at this provisional checkpoint.
+The independent segmentation audit identified the documented transparent
+heading exception and five trailing-notice false sentence endings; neither
+source nor English wording was changed to address them.
