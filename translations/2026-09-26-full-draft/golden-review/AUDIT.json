@@ -1,0 +1,1687 @@
+{
+  "schema_version": 1,
+  "scope": "Full comparison of the working English translation source layer against root-tantra-v1.0.0. Every original-anchor string difference and every extra golden reading object is enumerated.",
+  "golden_release": "root-tantra-v1.0.0",
+  "original_anchor_count": 5466,
+  "changed_original_anchors": 110,
+  "extra_golden_objects": 18,
+  "classification_counts": {
+    "punctuation-spacing": 38,
+    "substantive-or-layer": 56,
+    "source-layer-removed": 16
+  },
+  "chapter_changed_counts": {
+    "1": 84,
+    "2": 10,
+    "3": 11,
+    "4": 2,
+    "5": 3
+  },
+  "chapter_extra_counts": {
+    "1": 11,
+    "3": 2,
+    "4": 2,
+    "5": 2,
+    "6": 1
+  },
+  "records": [
+    {
+      "chapter": 1,
+      "id": "U00030",
+      "classification": "punctuation-spacing",
+      "golden_role": "main_text",
+      "adzom_tibetan": "འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན།",
+      "golden_tibetan": "འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན། །",
+      "english_current": "Thus did I hear at one time:",
+      "english_provenance": [
+        "data/english-00001-00250.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U00035",
+      "classification": "punctuation-spacing",
+      "golden_role": "main_text",
+      "adzom_tibetan": "ཤ་ཁྲག་བཀོད་པའི་གཟུགས་མེད་པའི།",
+      "golden_tibetan": "ཤ་ཁྲག་བཀོད་པའི་གཟུགས་མེད་པའི། །",
+      "english_current": "There was no form assembled from flesh and blood",
+      "english_provenance": [
+        "data/english-00001-00250.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U00039",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "སྟོད་དང་ལྡན་པ་དབུས་མའི་གནས། །",
+      "golden_tibetan": "སྟོང་དང་ལྡན་པ་དབུས་མའི་གནས། །",
+      "english_current": "at the central site endowed with an upper part, [N-004]",
+      "english_provenance": [
+        "data/english-00001-00250.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U00105",
+      "classification": "punctuation-spacing",
+      "golden_role": "main_text",
+      "adzom_tibetan": "ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ།",
+      "golden_tibetan": "ལས་ཅན་སྣང་བར་བྱེད་དོན་དུ། །",
+      "english_current": "To make it appear to those with the appropriate karma,",
+      "english_provenance": [
+        "data/english-00001-00250.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U00180",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "དེ་ནས་གཅིག་དང་ཐ་མི་སྡུད་པ་པོ་ཞུ་བ་རང་བྱུང་གི་བཀོད་པ་དད། །",
+      "golden_tibetan": "དེ་ནས་གཅིག་དང་ཐ་མི་དད། །",
+      "english_current": "Then, one with this and not separate, [Small-print source gloss: ‘Compiler/questioner; the naturally arisen array.’] [N-012]",
+      "english_provenance": [
+        "data/english-00001-00250.jsonl",
+        "notes/scan-decisions.jsonl:record 1"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U00187",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "འབྱུང་བཞིའི་དགོངས་དགོས་པ་ཡང་བྱུང་པ་ཇི་ལྟ་བུ། །",
+      "golden_tibetan": "འབྱུང་བཞིའི་དགོངས་པ་ཇི་ལྟ་བུ། །",
+      "english_current": "What are the enlightened intent, purpose, and arising of the four elements? [N-013]",
+      "english_provenance": [
+        "data/english-00001-00250.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U00192",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "འདི་མཚམས་འོག་གི་རང་དང་གཞན་གྱི་དམ་བཅའི་ཞེས་པ་དང་འཕེན་པ་རླུང་སྟེ་ཞེས་པ་གཉིས་ཀྱི་དྲི་བ་མ་བྱུང་འགྱུར་དང་འགྱུར་བྱེད་གང་དང་གང་། །",
+      "golden_tibetan": "འགྱུར་དང་འགྱུར་བྱེད་གང་དང་གང། །",
+      "english_current": "[Source insertion: At this point, the questions corresponding to the two passages below, beginning ‘one's own and others' assertions’ and ‘the projecting is wind,’ have not occurred.] What are transformation and its agents? [N-013] [N-T20]",
+      "english_provenance": [
+        "data/english-00001-00250.jsonl",
+        "notes/translation-decisions.jsonl:record 1"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U00252",
+      "classification": "punctuation-spacing",
+      "golden_role": "main_text",
+      "adzom_tibetan": "འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡིས་གཅོད།",
+      "golden_tibetan": "འཁོར་བའི་ཆུ་རྒྱུན་ཅི་ཡིས་གཅོད། །",
+      "english_current": "By what is samsara's flowing stream cut?",
+      "english_provenance": [
+        "data/english-00251-00500.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U00272",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "དེ་ནས་རྒྱུད་ཀྱི་ཆེ་བ་རྣམ་པར་བཀོད་པའི་བཀོད་པ་ཁྱབ་བདག་སེམས་དཔའ་ནི། །",
+      "golden_tibetan": "དེ་ནས་ཁྱབ་བདག་སེམས་དཔའ་ནི། །",
+      "english_current": "Then—[Source heading: The array setting out the greatness of the continuum]—the all-pervading lord, the hero, [N-020]",
+      "english_provenance": [
+        "data/english-00251-00500.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U00317",
+      "classification": "source-layer-removed",
+      "golden_role": "source_annotation_anchor",
+      "adzom_tibetan": "དྲི་བ་བདུན་ཅུ་ཟེར་ཀྱང་དོན་དྲུག་པར་ཡོད།",
+      "golden_tibetan": "",
+      "english_current": "[Source note: Though the questions are said to number seventy, there are sixty-six.] [N-024]",
+      "english_provenance": [
+        "data/english-00251-00500.jsonl"
+      ],
+      "golden_uncertainty_refs": [
+        "V1-RETAIN-B13-P0014-0016-O15-3"
+      ]
+    },
+    {
+      "chapter": 1,
+      "id": "U00318",
+      "classification": "source-layer-removed",
+      "golden_role": "source_annotation_anchor",
+      "adzom_tibetan": " དྲིས་ལན་དང་པོ།",
+      "golden_tibetan": "",
+      "english_current": "[Source heading: First reply.]",
+      "english_provenance": [
+        "data/english-00251-00500.jsonl"
+      ],
+      "golden_uncertainty_refs": [
+        "V1-RETAIN-B13-P0014-0016-O15-3"
+      ]
+    },
+    {
+      "chapter": 1,
+      "id": "U00328",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "མེས་ནི་འབྱུང་བ་སེལ་བ་སྤེལ་ཡང་བྱུང་དང་། །",
+      "golden_tibetan": "མེས་ནི་འབྱུང་བ་སེལ་བ་དང། །",
+      "english_current": "Fire clears away the elements [Source variant note: ‘increases’ also occurs], [N-025]",
+      "english_provenance": [
+        "data/english-00251-00500.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U00372",
+      "classification": "punctuation-spacing",
+      "golden_role": "main_text",
+      "adzom_tibetan": "སྣ་ཚོགས་སྤྲོས་པ་དོན་ཡིན་ནོ། །",
+      "golden_tibetan": "སྣ་ཚོགས་སྤྲོས་པ་དོན་ཡིན་ནོ།",
+      "english_current": "diverse elaborations are the meaning.",
+      "english_provenance": [
+        "data/english-00251-00500.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U00534",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "ལྗོངས་བདེ་ཡང་བྱུང་རབ་ཏུ་རྫོགས་ཏེ་ཉམས་དགའ་བར། །",
+      "golden_tibetan": "ལྗོངས་རབ་ཏུ་རྫོགས་ཏེ་ཉམས་དགའ་བར། །",
+      "english_current": "Its region is utterly complete and delightful [Source variant note: ‘pleasant’ also occurs]. [N-033]",
+      "english_provenance": [
+        "data/english-00501-00750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U00542",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "བཀོད་པ་ལྔ་ཡིས་ཡོངས་སུ་སྨྲས། །",
+      "golden_tibetan": "བཀོད་པ་ལྔ་ཡིས་ཡོངས་སུ་སྤྲས། །",
+      "english_current": "entirely adorned with five arrays. [N-033]",
+      "english_provenance": [
+        "data/english-00501-00750.jsonl",
+        "notes/scan-decisions.jsonl:record 2"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U00578",
+      "classification": "punctuation-spacing",
+      "golden_role": "main_text",
+      "adzom_tibetan": "འོད་ཀྱིས་ཁེངས་ཤིང་ཙནྡན་དྲི།",
+      "golden_tibetan": "འོད་ཀྱིས་ཁེངས་ཤིང་ཙནྡན་དྲི། །",
+      "english_current": "filled with light and the fragrance of sandalwood.",
+      "english_provenance": [
+        "data/english-00501-00750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U00594",
+      "classification": "punctuation-spacing",
+      "golden_role": "main_text",
+      "adzom_tibetan": "འབྲུག་སྒྲོགས་གློག་དམར་ལྕེ་རྣམས་འབྱིན།",
+      "golden_tibetan": "འབྲུག་སྒྲོགས་གློག་དམར་ལྕེ་རྣམས་འབྱིན། །",
+      "english_current": "Thunder roars and red tongues of lightning issue forth.",
+      "english_provenance": [
+        "data/english-00501-00750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U00596",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "འོད་འབྱུང་ཕྲེང་བ་ཀླུ་ཡི་གླུ་ཡང་གདུང་ཡང་བྱུང་གདོང་། །",
+      "golden_tibetan": "འོད་འབྱུང་ཕྲེང་བ་ཀླུ་ཡི་གདོང། །",
+      "english_current": "Garlands of arising light and the faces of nāgas [Source variant notes: glu and gdung also occur] [N-035]",
+      "english_provenance": [
+        "data/english-00501-00750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U00626",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "ཚིག་དང་ཟུར་ལ་གཞོན་གཞོག་ཀྱང་པ་དང༌། །",
+      "golden_tibetan": "ཚིག་དང་ཟུར་ལ་གཞོན་པ་དང། །",
+      "english_current": "It mounts phrases and angles [Source variant note: gzhog also occurs]. [N-037]",
+      "english_provenance": [
+        "data/english-00501-00750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U00632",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "མ་དག་པ་ཡིས་ནི་ཡང་ཡེ་ཤེས་སོ། །",
+      "golden_tibetan": "མ་དག་པ་ཡིས་ཡེ་ཤེས་སོ། །",
+      "english_current": "Through the impure [wind]—primordial knowing. [Source variant note: ni also occurs.] [N-038]",
+      "english_provenance": [
+        "data/english-00501-00750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U00651",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "བྱས་ཀྱང་འདུག་གནས་དང་བྱུང་དང་བྱེད་པ་དང་། །",
+      "golden_tibetan": "གནས་དང་བྱུང་དང་བྱེད་པ་དང། །",
+      "english_current": "abiding, arising, and acting [Source variant note: ‘done’ also occurs], [N-039]",
+      "english_provenance": [
+        "data/english-00501-00750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U00710",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "སོ་སོའི་ནུས་པས་བུས་པ་སྦྱར་ཡང་འབྱུང་བསྒྱུར་བ་གང་། །",
+      "golden_tibetan": "སོ་སོའི་ནུས་པས་བསྒྱུར་བ་གང་། །",
+      "english_current": "Whatever is transformed by each one's capacity [Source variant note: ‘applied by capacity’ also occurs; N-042],",
+      "english_provenance": [
+        "data/english-00501-00750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U00800",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "བྷ་ར་བྷ་ཏི་ས་ཡི་ཡང་བྱུང་ས་ལི་ཞེས་བྱ་བར། །",
+      "golden_tibetan": "བྷ་ར་བྷ་ཏི་ས་ལི་ཞེས་བྱ་བར། །",
+      "english_current": "at a place called Bharabhati Sāli [Source variant note: sa yi also occurs], [N-045]",
+      "english_provenance": [
+        "data/english-00751-01000.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U00910",
+      "classification": "punctuation-spacing",
+      "golden_role": "source_heading",
+      "adzom_tibetan": "དྲིས་ལན་བཅུ་བཞི་པ།",
+      "golden_tibetan": "དྲིས་ལན་བཅུ་བཞི་པ། །",
+      "english_current": "[Source heading: Fourteenth reply.]",
+      "english_provenance": [
+        "data/english-00751-01000.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U00948",
+      "classification": "punctuation-spacing",
+      "golden_role": "source_heading",
+      "adzom_tibetan": "དྲིས་ལན་བཅོ་ལྔ་པ།",
+      "golden_tibetan": "དྲིས་ལན་བཅོ་ལྔ་པ། །",
+      "english_current": "[Source heading: Fifteenth reply.]",
+      "english_provenance": [
+        "data/english-00751-01000.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U00995",
+      "classification": "punctuation-spacing",
+      "golden_role": "main_text",
+      "adzom_tibetan": "དེ་ཡི་རྗེས་སུ་སྐལ་ལྡན་པ།",
+      "golden_tibetan": "དེ་ཡི་རྗེས་སུ་སྐལ་ལྡན་པ། །",
+      "english_current": "After him, a fortunate one,",
+      "english_provenance": [
+        "data/english-00751-01000.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01023",
+      "classification": "punctuation-spacing",
+      "golden_role": "source_heading",
+      "adzom_tibetan": "དྲིས་ལན་བཅུ་དྲུག་པ།",
+      "golden_tibetan": "དྲིས་ལན་བཅུ་དྲུག་པ། །",
+      "english_current": "[Source heading: Sixteenth reply.]",
+      "english_provenance": [
+        "data/english-01001-01250.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01067",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "བརྒྱ་ཡང་བྱུང་ཐམས་ཅད་ཚེ་གཅིག་འབྲས་བུ་ཐོབ། །",
+      "golden_tibetan": "ཐམས་ཅད་ཚེ་གཅིག་འབྲས་བུ་ཐོབ། །",
+      "english_current": "all will attain the result in one lifetime. [Source variant: ‘A hundred also occurs.’] [N-053]",
+      "english_provenance": [
+        "data/english-01001-01250.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01090",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "ཡན་ལག་བཀོད་པ་བརྒྱ་བཅུ་གཅིག་ཀྱང་བྱུང་གཅིག་གོ། །",
+      "golden_tibetan": "ཡན་ལག་བཀོད་པ་བརྒྱ་གཅིག་གོ། །",
+      "english_current": "the arrays of the branches number one hundred and one. [Source variant: ‘Eleven also occurs.’] [N-054]",
+      "english_provenance": [
+        "data/english-01001-01250.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01094",
+      "classification": "punctuation-spacing",
+      "golden_role": "main_text",
+      "adzom_tibetan": "ལུས་རྫོགས་ཡན་ལག་གསང་འབྱེད་པའོ།",
+      "golden_tibetan": "ལུས་རྫོགས་ཡན་ལག་གསང་འབྱེད་པའོ། །",
+      "english_current": "The body is complete; the branches disclose the secret. [N-054]",
+      "english_provenance": [
+        "data/english-01001-01250.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01144",
+      "classification": "source-layer-removed",
+      "golden_role": "source_annotation_anchor",
+      "adzom_tibetan": "ཚིག་ཆད་སོང་།",
+      "golden_tibetan": "",
+      "english_current": "[Source note: Words have been lost.] [N-056]",
+      "english_provenance": [
+        "data/english-01001-01250.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01147",
+      "classification": "punctuation-spacing",
+      "golden_role": "source_heading",
+      "adzom_tibetan": "དྲིས་ལན་བཅུ་དགུ་པ།",
+      "golden_tibetan": "དྲིས་ལན་བཅུ་དགུ་པ། །",
+      "english_current": "[Source heading: Nineteenth reply.]",
+      "english_provenance": [
+        "data/english-01001-01250.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01186",
+      "classification": "punctuation-spacing",
+      "golden_role": "source_heading",
+      "adzom_tibetan": "དྲིས་ལན་ཉི་ཤུ་པ།",
+      "golden_tibetan": "དྲིས་ལན་ཉི་ཤུ་པ། །",
+      "english_current": "[Source heading: Twentieth reply.]",
+      "english_provenance": [
+        "data/english-01001-01250.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01233",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "དེ་ལྟར་བརྒྱ་དང་བརྒྱད་ཅུ་ཆགས་འཇིག་སྟོངས་པ་ལས། །",
+      "golden_tibetan": "དེ་ལྟར་བརྒྱ་དང་བརྒྱད་ཅུ་ལས། །",
+      "english_current": "Thus, from one hundred and eighty [periods]—[Source gloss: ‘Formation, destruction, emptiness.’] [N-059]",
+      "english_provenance": [
+        "data/english-01001-01250.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01237",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "དེ་ལྟར་སྦྲགས་ཆགས་འཇིག་སྟོངས་པ་པ་དེ་ཙམ་ལས། །",
+      "golden_tibetan": "དེ་ལྟར་སྦྲགས་པ་དེ་ཙམ་ལས། །",
+      "english_current": "Through that many such repetitions—[Source gloss: ‘Formation, destruction, emptiness.’] [N-059]",
+      "english_provenance": [
+        "data/english-01001-01250.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01257",
+      "classification": "punctuation-spacing",
+      "golden_role": "source_heading",
+      "adzom_tibetan": "དྲིས་ལན་ཉེར་གསུམ་པ།",
+      "golden_tibetan": "དྲིས་ལན་ཉེར་གསུམ་པ། །",
+      "english_current": "[Source heading: Twenty-third reply.]",
+      "english_provenance": [
+        "data/english-01251-01500.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01265",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "རྣལ་འབྱོར་པ་ཡིས་བཀུག་དཀྲུག་ཀྱང་ ཤེས་ན། །",
+      "golden_tibetan": "རྣལ་འབྱོར་པ་ཡིས་བཀུག་ཤེས་ན། །",
+      "english_current": "When a yogin knows how to summon, [Source variant: ‘Stir also.’] [N-062]",
+      "english_provenance": [
+        "data/english-01251-01500.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01270",
+      "classification": "punctuation-spacing",
+      "golden_role": "main_text",
+      "adzom_tibetan": "རྣལ་འབྱོར་པ་ཡིས་བརྩམ་པར་བྱའོ།",
+      "golden_tibetan": "རྣལ་འབྱོར་པ་ཡིས་བརྩམ་པར་བྱའོ། །",
+      "english_current": "these a yogin should undertake. [N-062]",
+      "english_provenance": [
+        "data/english-01251-01500.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01286",
+      "classification": "source-layer-removed",
+      "golden_role": "source_annotation_anchor",
+      "adzom_tibetan": "ཆུའི་བྱེར་སྙོམས་གཉིས་ཆད།",
+      "golden_tibetan": "",
+      "english_current": "[Source note: The two—water's dispersal and equalizing—are missing.] [N-063]",
+      "english_provenance": [
+        "data/english-01251-01500.jsonl"
+      ],
+      "golden_uncertainty_refs": [
+        "canonical:uncertain_print_reading_or_annotation",
+        "release-choice:L1-0079"
+      ]
+    },
+    {
+      "chapter": 1,
+      "id": "U01308",
+      "classification": "punctuation-spacing",
+      "golden_role": "source_heading",
+      "adzom_tibetan": "དྲིས་ལན་ཉེར་ལྔ་པ།",
+      "golden_tibetan": "དྲིས་ལན་ཉེར་ལྔ་པ། །",
+      "english_current": "[Source heading: Twenty-fifth reply.]",
+      "english_provenance": [
+        "data/english-01251-01500.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01353",
+      "classification": "punctuation-spacing",
+      "golden_role": "source_heading",
+      "adzom_tibetan": "དྲིས་ལན་ཉེར་བདུན་པ།",
+      "golden_tibetan": "དྲིས་ལན་ཉེར་བདུན་པ། །",
+      "english_current": "[Source heading: Twenty-seventh reply.]",
+      "english_provenance": [
+        "data/english-01251-01500.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01414",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "ས་པ་ལ་སེ་ཡི་ཡང་བྱུང་ལ་སེར་པོའི་སྦྱོར་བ་ཡི། །",
+      "golden_tibetan": "ས་པ་ལ་སེར་པོའི་སྦྱོར་བ་ཡི། །",
+      "english_current": "with a preparation of yellow sa-pa-la, [Source variant: ‘se yi also occurs.’] [N-068]",
+      "english_provenance": [
+        "data/english-01251-01500.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01416",
+      "classification": "punctuation-spacing",
+      "golden_role": "main_text",
+      "adzom_tibetan": "ལུས་ཀྱི་གནས་ལྔར་ལེགས་སྤྱོད་ན།",
+      "golden_tibetan": "ལུས་ཀྱི་གནས་ལྔར་ལེགས་སྤྱོད་ན། །",
+      "english_current": "When [these] are properly applied at the body's five places,",
+      "english_provenance": [
+        "data/english-01251-01500.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01417",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "འབྱུང་བའི་དུས་ཉིད་རབ་བསྟིམས་ བསྡེབས་ཀྱང་བྱུང་ནས། །",
+      "golden_tibetan": "འབྱུང་བའི་དུས་ཉིད་རབ་བསྟིམས་ནས། །",
+      "english_current": "and the time of the elements is thoroughly absorbed, [Source variant: ‘Combined also occurs.’] [N-068]",
+      "english_provenance": [
+        "data/english-01251-01500.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01422",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "རིན་པོ་ཆེ་ཡི་རིན་ཆེན་བསེའི་ཡང་བྱུང་སྦྱོར་བ་དག །",
+      "golden_tibetan": "རིན་པོ་ཆེ་ཡི་སྦྱོར་བ་དག །",
+      "english_current": "a preparation of precious substances—[Source variant: ‘rin chen bse'i also occurs.’] [N-068]",
+      "english_provenance": [
+        "data/english-01251-01500.jsonl",
+        "notes/translation-decisions.jsonl:record 5"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01439",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "ལེགས་པར་སྦྱར་ཏེ་ཨ་ ཨ་ལིས་ཀྱང་བྱུང་ཡིས་བསྐོར། །",
+      "golden_tibetan": "ལེགས་པར་སྦྱར་ཏེ་ཨ་ཡིས་བསྐོར། །",
+      "english_current": "and surrounds it with A. [Source variant: ‘With āli also occurs.’] [N-068]",
+      "english_provenance": [
+        "data/english-01251-01500.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01476",
+      "classification": "punctuation-spacing",
+      "golden_role": "source_heading",
+      "adzom_tibetan": "དྲིས་ལན་སུམ་ཅུ་པ།",
+      "golden_tibetan": "དྲིས་ལན་སུམ་ཅུ་པ། །",
+      "english_current": "[Source heading: Thirtieth reply.]",
+      "english_provenance": [
+        "data/english-01251-01500.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01534",
+      "classification": "punctuation-spacing",
+      "golden_role": "main_text",
+      "adzom_tibetan": "ལུས་ཀྱི་གནད་དང་ངག་དང་ཡང་།",
+      "golden_tibetan": "ལུས་ཀྱི་གནད་དང་ངག་དང་ཡང་། །",
+      "english_current": "depends on the crucial points of body and speech",
+      "english_provenance": [
+        "data/english-01501-01750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01539",
+      "classification": "punctuation-spacing",
+      "golden_role": "main_text",
+      "adzom_tibetan": "ཁམས་གསུམ་དུ་ཡང་ལྡོག་པ་མིན། །",
+      "golden_tibetan": "ཁམས་གསུམ་དུ་ཡང་ལྡོག་པ་མིན།",
+      "english_current": "there is no turning back into the three realms.",
+      "english_provenance": [
+        "data/english-01501-01750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01540",
+      "classification": "punctuation-spacing",
+      "golden_role": "source_heading",
+      "adzom_tibetan": "དྲིས་ལན་སོ་གཉིས་པ།",
+      "golden_tibetan": "དྲིས་ལན་སོ་གཉིས་པ། །",
+      "english_current": "[Source heading: Thirty-second reply.]",
+      "english_provenance": [
+        "data/english-01501-01750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01557",
+      "classification": "punctuation-spacing",
+      "golden_role": "source_heading",
+      "adzom_tibetan": "དྲིས་ལན་སོ་གསུམ་པ།",
+      "golden_tibetan": "དྲིས་ལན་སོ་གསུམ་པ། །",
+      "english_current": "[Source heading: Thirty-third reply.]",
+      "english_provenance": [
+        "data/english-01501-01750.jsonl"
+      ],
+      "golden_uncertainty_refs": [
+        "canonical:uncertain_print_reading_or_annotation",
+        "release-choice:L1-0099"
+      ]
+    },
+    {
+      "chapter": 1,
+      "id": "U01567",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "བསྡམས་པས་གཏེམས་ཀྱང་བྱུང་འགགས་ལ་བཙིར་བས་འཆིང༌། །",
+      "golden_tibetan": "བསྡམས་པས་འགགས་ལ་བཙིར་བས་འཆིང། །",
+      "english_current": "Constricting stops; wringing binds. [Source variant: ‘Packing also occurs.’] [N-075]",
+      "english_provenance": [
+        "data/english-01501-01750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01595",
+      "classification": "punctuation-spacing",
+      "golden_role": "main_text",
+      "adzom_tibetan": "དེས་ནི་སོ་སོའི་རླུང་ཚད་ཟིན། །",
+      "golden_tibetan": "དེས་ནི་སོ་སོའི་རླུང་ཚད་ཟིན།",
+      "english_current": "through this the measures of the respective winds are grasped.",
+      "english_provenance": [
+        "data/english-01501-01750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01598",
+      "classification": "punctuation-spacing",
+      "golden_role": "main_text",
+      "adzom_tibetan": "དོན་དམ་དང་ནི་ཀུན་རྫོ་བ་ལས། །",
+      "golden_tibetan": "དོན་དམ་དང་ནི་ཀུན་རྫོབ་ལས། །",
+      "english_current": "there are the ultimate and the relative.",
+      "english_provenance": [
+        "data/english-01501-01750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01627",
+      "classification": "punctuation-spacing",
+      "golden_role": "main_text",
+      "adzom_tibetan": "འབྱུང་བཞི་དག་ལ་དབང་སྒྱུར་འགྱུར།",
+      "golden_tibetan": "འབྱུང་བཞི་དག་ལ་དབང་སྒྱུར་འགྱུར། །",
+      "english_current": "and gains mastery over the four elements. [N-077]",
+      "english_provenance": [
+        "data/english-01501-01750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01634",
+      "classification": "punctuation-spacing",
+      "golden_role": "source_heading",
+      "adzom_tibetan": "དྲིས་ལན་སོ་དྲུག་པ།",
+      "golden_tibetan": "དྲིས་ལན་སོ་དྲུག་པ། །",
+      "english_current": "[Source heading: Thirty-sixth reply.]",
+      "english_provenance": [
+        "data/english-01501-01750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01635",
+      "classification": "punctuation-spacing",
+      "golden_role": "main_text",
+      "adzom_tibetan": "འཕོ་བའི་བྱེ་བྲག་རྣམ་པ་གསུམ།",
+      "golden_tibetan": "འཕོ་བའི་བྱེ་བྲག་རྣམ་པ་གསུམ། །",
+      "english_current": "There are three particular kinds of transference, [N-T32]",
+      "english_provenance": [
+        "data/english-01501-01750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01657",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "འདི་ཡི་ལུས་ཀྱང་ལུགས་ཀྱང་གསུམ་ཡིན་ཏེ། །",
+      "golden_tibetan": "འདི་ཡི་ལུས་ཀྱང་གསུམ་ཡིན་ཏེ། །",
+      "english_current": "Its body, too, is threefold. [Source variant: ‘Manner also.’] [N-077]",
+      "english_provenance": [
+        "data/english-01501-01750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01661",
+      "classification": "punctuation-spacing",
+      "golden_role": "source_heading",
+      "adzom_tibetan": "དྲིས་ལན་སོ་བདུན་པ།",
+      "golden_tibetan": "དྲིས་ལན་སོ་བདུན་པ། །",
+      "english_current": "[Source heading: Thirty-seventh reply.]",
+      "english_provenance": [
+        "data/english-01501-01750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01668",
+      "classification": "source-layer-removed",
+      "golden_role": "source_annotation_anchor",
+      "adzom_tibetan": "བཀང་ཡང་བྱུང་།",
+      "golden_tibetan": "",
+      "english_current": "[Source variant: ‘Filled also occurs.’] [N-078]",
+      "english_provenance": [
+        "data/english-01501-01750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01688",
+      "classification": "punctuation-spacing",
+      "golden_role": "main_text",
+      "adzom_tibetan": "འདིས་ཀྱང་ཕན་དང་གནོད་པ་འགྲུབ། །",
+      "golden_tibetan": "འདིས་ཀྱང་ཕན་དང་གནོད་པ་འགྲུབ།",
+      "english_current": "through this, too, benefit and harm are accomplished.",
+      "english_provenance": [
+        "data/english-01501-01750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01711",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "ཡི་གེ་བཟློག་བརྗོད་ཀྱང་ཚུལ་དྲུག་གིས་ཀྱང༌། །",
+      "golden_tibetan": "ཡི་གེ་བཟློག་ཚུལ་དྲུག་གིས་ཀྱང། །",
+      "english_current": "through the six ways of reversing [them], [Source variant: ‘Pronouncing also.’] [N-079]",
+      "english_provenance": [
+        "data/english-01501-01750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01716",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "འདྲེ་དང་རླུང་ལྷ་དག་གི་དག་པའི་སྐད་ཀྱང་བྱུང་སྐད། །",
+      "golden_tibetan": "འདྲེ་དང་རླུང་ལྷ་དག་གི་སྐད། །",
+      "english_current": "spirits and wind gods; [Source variant: ‘Pure voice also occurs.’] [N-079]",
+      "english_provenance": [
+        "data/english-01501-01750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01727",
+      "classification": "punctuation-spacing",
+      "golden_role": "source_heading",
+      "adzom_tibetan": "དྲིས་ལན་སོ་དགུ་པ།",
+      "golden_tibetan": "དྲིས་ལན་སོ་དགུ་པ། །",
+      "english_current": "[Source heading: Thirty-ninth reply.]",
+      "english_provenance": [
+        "data/english-01501-01750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01734",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "ཟླ་བ་ལོ་ཡི་འཁྲུལ་འཁྲུགས་ལུགས་ཀྱང་ལུགས་ཀྱིས། །",
+      "golden_tibetan": "ཟླ་བ་ལོ་ཡི་འཁྲུལ་ལུགས་ཀྱིས། །",
+      "english_current": "months and years, through the manner of error—[Source variant: ‘Manner of confusion also.’] [N-080]",
+      "english_provenance": [
+        "data/english-01501-01750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01757",
+      "classification": "punctuation-spacing",
+      "golden_role": "main_text",
+      "adzom_tibetan": "ཕོ་མོའི་སྡེབས་ཀྱིས་བརྒྱད་དུ་འགྱུར།",
+      "golden_tibetan": "ཕོ་མོའི་སྡེབས་ཀྱིས་བརྒྱད་དུ་འགྱུར། །",
+      "english_current": "through male–female pairing, they become eight.",
+      "english_provenance": [
+        "data/english-01751-02000.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01776",
+      "classification": "source-layer-removed",
+      "golden_role": "source_annotation_anchor",
+      "adzom_tibetan": "མིན་ཀྱང་།",
+      "golden_tibetan": "",
+      "english_current": "[Source variant: ‘Is not, also.’] [N-082]",
+      "english_provenance": [
+        "data/english-01751-02000.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01803",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "ས་གཞི་ཡང་བྱུང་ཡ་བཞི་བཟུང་སྟེ་རང་རང་བསྟུན། །",
+      "golden_tibetan": "ཡ་བཞི་བཟུང་སྟེ་རང་རང་བསྟུན། །",
+      "english_current": "taking four million, bring each into accord. [Source variant: ‘gzhi also occurs.’] [N-083]",
+      "english_provenance": [
+        "data/english-01751-02000.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01806",
+      "classification": "source-layer-removed",
+      "golden_role": "source_annotation_anchor",
+      "adzom_tibetan": "ལྟེབ་དང་གཏུགས་ཀྱང་བྱུང་།",
+      "golden_tibetan": "",
+      "english_current": "[Source variant: ‘Folding and bringing into contact also occur.’] [N-083]",
+      "english_provenance": [
+        "data/english-01751-02000.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01811",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "ལོ་སྟོང་ཞག་ལོ་སྟེ་ཞག་ཀྱང་བཅུ་ཕྲག་གསུམ། །",
+      "golden_tibetan": "ལོ་སྟོང་ཞག་ཀྱང་འབུམ་ཕྲག་གསུམ། །",
+      "english_current": "The days of a thousand years, too,",
+      "english_provenance": [
+        "data/english-01751-02000.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01812",
+      "classification": "source-layer-removed",
+      "golden_role": "joined_anchor",
+      "adzom_tibetan": "ཡང་བྱུང་ཀྱང་འབུམ་ཕྲག་གསུམ། །",
+      "golden_tibetan": "",
+      "english_current": "number three hundred thousand. [Source variant spanning U01811–U01812: ‘A year; the days, too, [are] three tens.’] [N-083]",
+      "english_provenance": [
+        "data/english-01751-02000.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U01829",
+      "classification": "source-layer-removed",
+      "golden_role": "source_annotation_anchor",
+      "adzom_tibetan": "གསུམ་སྟེ་དུས་ནི་བཅུ་གཉིས་སྦྱར་ཡང་བྱུང།",
+      "golden_tibetan": "",
+      "english_current": "[Source variant: ‘Three—the times are joined as twelve.’] [N-083]",
+      "english_provenance": [
+        "data/english-01751-02000.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U02080",
+      "classification": "punctuation-spacing",
+      "golden_role": "main_text",
+      "adzom_tibetan": "ལྷ་མོའི་མདོག་དང་ཞལ་ཕྱག་ནི།",
+      "golden_tibetan": "ལྷ་མོའི་མདོག་དང་ཞལ་ཕྱག་ནི། །",
+      "english_current": "the goddess's color, faces, and hands—",
+      "english_provenance": [
+        "data/english-02001-02250.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U02129",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "དགུག་དང་བསད་དང་བསྐྲད་ཀྱང་བཅིངས་པའི་ལས། །",
+      "golden_tibetan": "དགུག་དང་བསད་དང་བཅིངས་པའི་ལས། །",
+      "english_current": "proliferate the activities of summoning, killing, and binding, [Source variant: ‘Expelling also.’] [N-093]",
+      "english_provenance": [
+        "data/english-02001-02250.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U02172",
+      "classification": "punctuation-spacing",
+      "golden_role": "main_text",
+      "adzom_tibetan": "འཁྲུལ་དུས་གནས་དུས་བཟློག་པའི་དུས།",
+      "golden_tibetan": "འཁྲུལ་དུས་གནས་དུས་བཟློག་པའི་དུས། །",
+      "english_current": "The time of delusion, time of abiding, and time of reversal:",
+      "english_provenance": [
+        "data/english-02001-02250.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U02183",
+      "classification": "punctuation-spacing",
+      "golden_role": "main_text",
+      "adzom_tibetan": "སོ་སོའི་འདོད་པ་ཐ་དད་ཀྱང་།",
+      "golden_tibetan": "སོ་སོའི་འདོད་པ་ཐ་དད་ཀྱང་། །",
+      "english_current": "although the respective assertions differ,",
+      "english_provenance": [
+        "data/english-02001-02250.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U02225",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "སྒྲ་དང་གདམས་ངག་སྨྲ་དང་གཏམ་ངན་ཡང་བྱུང་ལ་སོགས་ཏེ། །",
+      "golden_tibetan": "སྒྲ་དང་གདམས་ངག་ལ་སོགས་ཏེ། །",
+      "english_current": "sound, instructions, speech, and so forth—[Source variant: ‘Bad news also occurs.’] [N-098]",
+      "english_provenance": [
+        "data/english-02001-02250.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U02332",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "ངག་ནི་བསླབ་རླབ་ཀྱང་དང་གནས་པ་དང༌། །",
+      "golden_tibetan": "ངག་ནི་བསླབ་དང་གནས་པ་དང། །",
+      "english_current": "For speech, training and abiding, [Source variant: ‘Waves also.’] [N-103]",
+      "english_provenance": [
+        "data/english-02251-02500.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U02484",
+      "classification": "punctuation-spacing",
+      "golden_role": "main_text",
+      "adzom_tibetan": "རྟག་ཏུ་འདྲིས་ན་སྤྱོད་པ་བདེ།",
+      "golden_tibetan": "རྟག་ཏུ་འདྲིས་ན་སྤྱོད་པ་བདེ། །",
+      "english_current": "continual familiarity makes activity easeful.",
+      "english_provenance": [
+        "data/english-02251-02500.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U02489",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "རྣལ་འབྱོར་ཆེན་པོའི་སྤྱོད་པའི་དྲིས་ལན་རེ་བདུན་པ།",
+      "golden_tibetan": "རྣལ་འབྱོར་ཆེན་པོའི་སྤྱོད་པའི། །",
+      "english_current": "of the great yogin's activity—[Source heading: Sixty-seventh reply.] [N-108]",
+      "english_provenance": [
+        "data/english-02251-02500.jsonl"
+      ],
+      "golden_uncertainty_refs": [
+        "V1-HEADING-U02489",
+        "release-choice:L1-0169"
+      ]
+    },
+    {
+      "chapter": 1,
+      "id": "U02522",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "གཟི་བརྗིད་ལྡན་ཞིང་གཞོན་པའགྱུར། །",
+      "golden_tibetan": "གཟི་བརྗིད་ལྡན་ཞིང་གཞོན་པར་འགྱུར། །",
+      "english_current": "one becomes endowed with splendor and youthful.",
+      "english_provenance": [
+        "data/english-02501-02750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U02597",
+      "classification": "substantive-or-layer",
+      "golden_role": "source_heading",
+      "adzom_tibetan": "ལན་དོན་ལྔ་པ།",
+      "golden_tibetan": "དྲིས་ལན་དོན་ལྔ་པ།",
+      "english_current": "[Source heading: Seventy-fifth reply.]",
+      "english_provenance": [
+        "data/english-02501-02750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "U02615",
+      "classification": "source-layer-removed",
+      "golden_role": "source_annotation_anchor",
+      "adzom_tibetan": "མདོག་གི་ཡང་བྱུང་།",
+      "golden_tibetan": "",
+      "english_current": "[Source variant: ‘Of color also occurs.’] [N-115]",
+      "english_provenance": [
+        "data/english-02501-02750.jsonl"
+      ],
+      "golden_uncertainty_refs": [
+        "canonical:uncertain_print_reading_or_annotation",
+        "release-choice:L1-0181"
+      ]
+    },
+    {
+      "chapter": 1,
+      "id": "U02620",
+      "classification": "source-layer-removed",
+      "golden_role": "source_annotation_anchor",
+      "adzom_tibetan": "དེ་དག་གི་ཞབས་སྡུད་པའོ། །",
+      "golden_tibetan": "",
+      "english_current": "[Source annotation: This is their concluding summary.]",
+      "english_provenance": [
+        "data/english-02501-02750.jsonl"
+      ],
+      "golden_uncertainty_refs": [
+        "canonical:uncertain_print_reading_or_annotation",
+        "release-choice:L1-0182"
+      ]
+    },
+    {
+      "chapter": 2,
+      "id": "U02680",
+      "classification": "source-layer-removed",
+      "golden_role": "source_annotation_anchor",
+      "adzom_tibetan": "དང་པོ་ལ་ནང་གསེས་བཅུ་བདུན།",
+      "golden_tibetan": "",
+      "english_current": "[Source annotation: The first [reply] has seventeen subdivisions.]",
+      "english_provenance": [
+        "data/english-02501-02750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 2,
+      "id": "U02714",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "འདུ་བ་བརྒྱ་ལ་བརྒྱད་ཀྱང་བྱེད་པ་གཅིག །",
+      "golden_tibetan": "འདུ་བ་བརྒྱ་ལ་བྱེད་པ་གཅིག །",
+      "english_current": "for a hundred gatherings, one agent. [Source variant: ‘Eight also.’] [N-119]",
+      "english_provenance": [
+        "data/english-02501-02750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 2,
+      "id": "U02740",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "བྱས་ཚོགས་ཀྱང་ཚེ་གྲངས་ནི་དྲུག་ཅུ་སྟེ། །",
+      "golden_tibetan": "བྱས་ཚེ་གྲངས་ནི་དྲུག་ཅུ་སྟེ། །",
+      "english_current": "when enacted, the number is sixty. [Source variant: ‘Accumulation also.’] [N-120]",
+      "english_provenance": [
+        "data/english-02501-02750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 2,
+      "id": "U02885",
+      "classification": "source-layer-removed",
+      "golden_role": "source_annotation_anchor",
+      "adzom_tibetan": "རྡོ་རྗེ་ལུ་གུ་རྒྱུད་གནས་ཙིཏྟ་ནས་སྒོ་མིག་ནས་ཡུལ་ནམ་མཁའ་ལ་ཡེ་ཤེས་དངོས་སུ་འཆར་རོ །",
+      "golden_tibetan": "",
+      "english_current": "[Source gloss: From their abode, the heart (citta), through the door of the eyes, primordial knowing actually arises as vajra chains in the object, space.] [N-125] [N-126]",
+      "english_provenance": [
+        "data/english-02751-03000.jsonl",
+        "notes/translation-decisions.jsonl:record 38"
+      ],
+      "golden_uncertainty_refs": [
+        "C2-I-U02885"
+      ]
+    },
+    {
+      "chapter": 2,
+      "id": "U02887",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "བསྐྱིལ་འདིའི་དུས་ན་རླུང་འདྲེན་པ།",
+      "golden_tibetan": "བསྐྱིལ་ཞིང་མཁའ་ལ་གཏད་པའོ། །",
+      "english_current": "retaining,",
+      "english_provenance": [
+        "data/english-02751-03000.jsonl"
+      ],
+      "golden_uncertainty_refs": [
+        "C2-I-U02887-02889"
+      ]
+    },
+    {
+      "chapter": 2,
+      "id": "U02888",
+      "classification": "source-layer-removed",
+      "golden_role": "joined_anchor",
+      "adzom_tibetan": "ཞིང་མཁའ་རིག་པ་ལ་གཏད་པའོ། །",
+      "golden_tibetan": "",
+      "english_current": "and directing space toward awareness. [N-126]",
+      "english_provenance": [
+        "data/english-02751-03000.jsonl"
+      ],
+      "golden_uncertainty_refs": [
+        "C2-I-U02887-02889"
+      ]
+    },
+    {
+      "chapter": 2,
+      "id": "U02889",
+      "classification": "source-layer-removed",
+      "golden_role": "source_annotation_anchor",
+      "adzom_tibetan": "གནད་ཡིན་ནོ། །",
+      "golden_tibetan": "",
+      "english_current": "[Source gloss interleaved in U02887–U02889: At this time, drawing the wind is the crucial point.] [N-126]",
+      "english_provenance": [
+        "data/english-02751-03000.jsonl"
+      ],
+      "golden_uncertainty_refs": [
+        "C2-I-U02887-02889"
+      ]
+    },
+    {
+      "chapter": 2,
+      "id": "U02927",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": " ཆུ་ཡང་དམ་ཚིག་གིས་ནི་རབ་བརྟག་གོ། །",
+      "golden_tibetan": " དམ་ཚིག་གིས་ནི་རབ་བརྟག་གོ། །",
+      "english_current": "Water, too, is to be thoroughly examined through the pledge. [N-127]",
+      "english_provenance": [
+        "data/english-02751-03000.jsonl"
+      ],
+      "golden_uncertainty_refs": [
+        "C2-I-U02927"
+      ]
+    },
+    {
+      "chapter": 2,
+      "id": "U03147",
+      "classification": "source-layer-removed",
+      "golden_role": "source_annotation_anchor",
+      "adzom_tibetan": "ཆུའི་རླུང་ལན་གཉིས་བྱུང་བ་དཔྱད།",
+      "golden_tibetan": "",
+      "english_current": "[Source query: Water's wind occurs twice; examine this.] [N-136]",
+      "english_provenance": [
+        "data/english-03001-03250.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 2,
+      "id": "U03494",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "གཞི་ཡིས་བཞི་ཡང་བྱུང་འགྲོ་བའི་སྣང་བ་སྟོན། །",
+      "golden_tibetan": "གཞི་ཡིས་འགྲོ་བའི་སྣང་བ་སྟོན། །",
+      "english_current": "through the Ground, reveal the appearances of beings. [Source variant: ‘Four also occurs.’] [N-152]",
+      "english_provenance": [
+        "data/english-03251-03500.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 3,
+      "id": "U03673",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "འདི་དུས་ཆོས་ཉིད་སྦྱང་སྦྱར་ཡང་བྱུང་བར་བྱའོ། །",
+      "golden_tibetan": "འདི་དུས་ཆོས་ཉིད་སྦྱང་བར་བྱའོ། །",
+      "english_current": "At this time, train in the nature of phenomena. [Source variant: ‘Apply also occurs.’] [N-160]",
+      "english_provenance": [
+        "data/english-03501-03750.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 3,
+      "id": "U03802",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "བྱེད་པའི་ལས་ནི་བཞི་གཉིས་དག་ལས། །",
+      "golden_tibetan": "བྱེད་པའི་ལས་ནི་བཞི་དག་ལས། །",
+      "english_current": "The activities of agency, from four and two,",
+      "english_provenance": [
+        "data/english-03751-04000.jsonl"
+      ],
+      "golden_uncertainty_refs": [
+        "C3-I-U03802",
+        "L3-0011"
+      ]
+    },
+    {
+      "chapter": 3,
+      "id": "U03803",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "བརྟགས་པས་བཅུ་གཉིས་དྲུག་ཅུ་དག་ཏུ་འགྱུར། །",
+      "golden_tibetan": "བརྟགས་པས་བཅུ་གཉིས་དག་ཏུ་འགྱུར། །",
+      "english_current": "when examined, become twelve and sixty.",
+      "english_provenance": [
+        "data/english-03751-04000.jsonl"
+      ],
+      "golden_uncertainty_refs": [
+        "C3-I-U03803",
+        "L3-0011"
+      ]
+    },
+    {
+      "chapter": 3,
+      "id": "U03851",
+      "classification": "punctuation-spacing",
+      "golden_role": "main_text",
+      "adzom_tibetan": "དེ་ཡང་གཞི་ལ་རྫོ་གས་པའི་གནད། །",
+      "golden_tibetan": "དེ་ཡང་གཞི་ལ་རྫོགས་པའི་གནད། །",
+      "english_current": "This, too, is the crucial point of completion in the Ground. [N-167]",
+      "english_provenance": [
+        "data/english-03751-04000.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 3,
+      "id": "U03945",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "དྲག་པོས་འཇུག་པ་གསུམ་སུམ་ཅུ་ཡང་བྱུང་གཉིས་ལ། །",
+      "golden_tibetan": "དྲག་པོས་འཇུག་པ་གསུམ་གཉིས་ལ། །",
+      "english_current": "For the Fierce One, entry is in three and two. [Source variant: ‘Thirty also occurs.’] [N-170]",
+      "english_provenance": [
+        "data/english-03751-04000.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 3,
+      "id": "U03946",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "རྟགས་བཀོད་ལས་ཀྱི་བདུན་བརྒྱ་བཞི་ཡང་བཞིའོ། །",
+      "golden_tibetan": "རྟགས་བཀོད་ལས་ཀྱི་བདུན་བཞིའོ། །",
+      "english_current": "The activity of arranging signs: seven and four. [Source variant: ‘Four hundred also.’] [N-170]",
+      "english_provenance": [
+        "data/english-03751-04000.jsonl"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 3,
+      "id": "U03952",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "གནས་གཞན་རྩ་བ་བརྩེ་བ་བཞི་ཡང་གཞི་དག་ལས། །",
+      "golden_tibetan": "གནས་གཞན་རྩ་བ་གཞི་དག་ལས། །",
+      "english_current": "From the root foundation of other places—[Source variant: ‘brtse ba bzhi also’; wording unresolved.] [N-170]",
+      "english_provenance": [
+        "data/english-03751-04000.jsonl"
+      ],
+      "golden_uncertainty_refs": [
+        "C3-I-U03952",
+        "L3-0019"
+      ]
+    },
+    {
+      "chapter": 3,
+      "id": "U03953",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "ཚིག་ལ་རྟོག་པས་གནས་བརྒྱ་བརྒྱད་ཀྱང་གཉིས། །",
+      "golden_tibetan": "ཚིག་ལ་རྟོག་པས་གནས་བརྒྱ་གཉིས། །",
+      "english_current": "examining words: one hundred and two places. [Source variant: ‘Eight also.’] [N-170]",
+      "english_provenance": [
+        "data/english-03751-04000.jsonl"
+      ],
+      "golden_uncertainty_refs": [
+        "C3-I-U03953",
+        "L3-0019"
+      ]
+    },
+    {
+      "chapter": 3,
+      "id": "U03954",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "དེ་ལས་སྤྲོས་པས་སྤྲོས་པས་བརྒྱ་གྱ་བཞི་ཡང་བཞི་བརྒྱ་བཞི། །",
+      "golden_tibetan": "དེ་ལས་སྤྲོས་པས་བཞི་བརྒྱ་བཞི། །",
+      "english_current": "Extending from that: four hundred and four. [Source variant: ‘Extending: one hundred and eighty-four also.’] [N-170]",
+      "english_provenance": [
+        "data/english-03751-04000.jsonl"
+      ],
+      "golden_uncertainty_refs": [
+        "C3-I-U03954",
+        "L3-0019"
+      ]
+    },
+    {
+      "chapter": 3,
+      "id": "U03955",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "ཁྱད་པར་ངེས་པའི་ངེས་པར་དེ་བཅུར་ཡང་རྩིས་བཅུར་འགྱུར། །",
+      "golden_tibetan": "ཁྱད་པར་ངེས་པའི་རྩིས་བཅུར་འགྱུར། །",
+      "english_current": "The calculation of definite particulars becomes ten. [Source variant: ‘Definitely, that becomes ten also.’] [N-170]",
+      "english_provenance": [
+        "data/english-03751-04000.jsonl"
+      ],
+      "golden_uncertainty_refs": [
+        "C3-I-U03955",
+        "L3-0019"
+      ]
+    },
+    {
+      "chapter": 3,
+      "id": "U03976",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "གཉིས་འདུས་པ་ལས་ཤེས་ཁམས་གསུམ་ཡང་གསུམ་འབྱུང༌། །",
+      "golden_tibetan": "གཉིས་འདུས་པ་ལས་ཤེས་གསུམ་འབྱུང༌། །",
+      "english_current": "From the two gathering, three [kinds of] knowing arise. [Source variant: ‘Three realms also.’] [N-171]",
+      "english_provenance": [
+        "data/english-03751-04000.jsonl",
+        "notes/translation-decisions.jsonl:record 46"
+      ],
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 4,
+      "id": "U04312",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "མྱང་འདས་ལམ་ལ་གཟེངས་ཀྱང་བསྟོད། །",
+      "golden_tibetan": "མྱང་འདས་ལམ་ལ་བསྟོད། །",
+      "english_current": "and been uplifted on the path of passing beyond sorrow. [Source variant: gzengs.] [N-186]",
+      "english_provenance": [
+        "data/english-04251-04500.jsonl"
+      ],
+      "golden_uncertainty_refs": [
+        "C4-I-U04312"
+      ]
+    },
+    {
+      "chapter": 4,
+      "id": "U04519",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "ཐོར་ཚུགས་རླུང་གིས་འགེག་འདེགས་ཀྱང་བྱུང་པར་སྣང༌། །",
+      "golden_tibetan": "ཐོར་ཚུགས་རླུང་གིས་འགེག་པར་སྣང༌། །",
+      "english_current": "The topknot appears held back by wind. [Source variant: ‘lifted.’] [N-194]",
+      "english_provenance": [
+        "data/english-04501-04750.jsonl"
+      ],
+      "golden_uncertainty_refs": [
+        "C4-I-U04519",
+        "L4-0018"
+      ]
+    },
+    {
+      "chapter": 5,
+      "id": "U05094",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "མཚན་མ་མཚན་མ་བཟོ་ཡི་ཡང་བྱུང་ཐབས་བཟོའི་སྦྱོར་བ་ཡི། །",
+      "golden_tibetan": "མཚན་མ་ཐབས་བཟོའི་སྦྱོར་བ་ཡི། །",
+      "english_current": "Through applications of signs and skillful craft—[Source variant: ‘craft of signs.’]",
+      "english_provenance": [
+        "data/english-05001-05250.jsonl"
+      ],
+      "golden_uncertainty_refs": [
+        "C5-I-U05094",
+        "L5-0021"
+      ]
+    },
+    {
+      "chapter": 5,
+      "id": "U05106",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "ཆོས་ཀྱི་འཁྲུལ་པས་ ཡེ་གཞི་ཡང་ཡས་གཞི་བྱས། །",
+      "golden_tibetan": "ཆོས་ཀྱི་འཁྲུལ་པས་ཡས་གཞི་བྱས། །",
+      "english_current": "Delusion concerning phenomena makes a primordial basis. [Source variant: ‘upper basis.’] [N-221]",
+      "english_provenance": [
+        "data/english-05001-05250.jsonl"
+      ],
+      "golden_uncertainty_refs": [
+        "C5-I-U05106",
+        "L5-0022"
+      ]
+    },
+    {
+      "chapter": 5,
+      "id": "U05132",
+      "classification": "substantive-or-layer",
+      "golden_role": "main_text",
+      "adzom_tibetan": "འཁོར་དང་འདྲེས་པའི་གཞི་མ་བརྟེན་པའི་གཞི་མ་དང་ཡང་བྱུང་དག །",
+      "golden_tibetan": "འཁོར་དང་འདྲེས་པའི་གཞི་མ་དག །",
+      "english_current": "and the foundation mixed with samsara—[Source variant: ‘foundation of reliance.’]",
+      "english_provenance": [
+        "data/english-05001-05250.jsonl"
+      ],
+      "golden_uncertainty_refs": [
+        "C5-I-U05132",
+        "L5-0024"
+      ]
+    }
+  ],
+  "extra_objects": [
+    {
+      "chapter": 1,
+      "id": "A2000-C01-S08",
+      "after_unit": "U00010",
+      "role": "provisional_caption",
+      "golden_tibetan": "བརྒྱུད་གསུམ་⟦Q16⟧ཐོག་མ⟦Q17⟧ ⟦Q18⟧\nསྟོན་པ་ཀུན་བཟང་ཡབ་ཡུམ་ལ་འདུད ⟦D D⟧",
+      "golden_uncertainty_refs": [
+        "A2000-C01-S08"
+      ]
+    },
+    {
+      "chapter": 1,
+      "id": "SCAN-CH1-LAYER-00318",
+      "after_unit": "U00318",
+      "role": "source_heading",
+      "golden_tibetan": "དྲིས་ལན་དང་པོ།",
+      "golden_uncertainty_refs": [
+        "V1-RETAIN-B13-P0014-0016-O15-3"
+      ]
+    },
+    {
+      "chapter": 1,
+      "id": "A2000-C01-S01",
+      "after_unit": "U01274",
+      "role": "restored_main_text",
+      "golden_tibetan": "ཆུ་ཡི་ཟུག་པས་དབང་པོ་སྡུད།\nབྱེར་བ་ཡིས་ནི་འཁྲུགས་པར་བྱེད།\nསྙོམས་པ་ཡིས་ནི་འབྲས་བུ་འབྱིན།",
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "A2000-C01-S02",
+      "after_unit": "U01882",
+      "role": "restored_main_text",
+      "golden_tibetan": "སོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ། །\nའདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ། །\nསྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང་། །",
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "A2000-C01-S03",
+      "after_unit": "U02005",
+      "role": "restored_main_text",
+      "golden_tibetan": "གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ། །\nའདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ། །\nའདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས། །",
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "A2000-C01-S04",
+      "after_unit": "U02187",
+      "role": "restored_main_text",
+      "golden_tibetan": "འདུ་ཤེས་ཅན་དག་མཐའ་ལ་འཇོག།\nམངོན་སུམ་གནད་ཀྱི་མན་ངག་གིས། །",
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "A2000-C01-S05",
+      "after_unit": "U02308",
+      "role": "restored_main_text",
+      "golden_tibetan": "རྡོ་རྗེ་གསང་བའི་གནས་གཟུང་བྱའོ། །",
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "A2000-C01-S06",
+      "after_unit": "U02308",
+      "role": "source_heading",
+      "golden_tibetan": "དྲིས་ལན་ང་བདུན་པ། །",
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "A2000-C01-S07",
+      "after_unit": "U02308",
+      "role": "restored_main_text",
+      "golden_tibetan": "ཡང་ནི་ལྷ་དབང་དགའ་བྱེད་ཉོན། །",
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 1,
+      "id": "SCAN-CH1-LAYER-02489",
+      "after_unit": "U02489",
+      "role": "source_heading",
+      "golden_tibetan": "དྲིས་ལན་རེ་བདུན་པ",
+      "golden_uncertainty_refs": [
+        "V1-HEADING-U02489",
+        "release-choice:L1-0169"
+      ]
+    },
+    {
+      "chapter": 1,
+      "id": "A2000-C01-S09",
+      "after_unit": "U02635",
+      "role": "unresolved_inscription",
+      "golden_tibetan": "",
+      "golden_uncertainty_refs": [
+        "A2000-C01-S09"
+      ]
+    },
+    {
+      "chapter": 3,
+      "id": "A2000-C03-S01",
+      "after_unit": "U03715",
+      "role": "restored_main_text",
+      "golden_tibetan": "ལྷན་ཅིག་སྐྱེས་པས་རྟོག་པ་གཉིས།\nཀུན་ཏུ་བརྟགས་པས་ཡུལ་དུ་གྱུར།\nརྐྱེན་ནི་རྣམ་པ་བཞི་དག་གིས།",
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 3,
+      "id": "C3-TRANSITION",
+      "after_unit": "U04305",
+      "role": "unresolved_source_graphic",
+      "golden_tibetan": "",
+      "golden_uncertainty_refs": [
+        "C3-END"
+      ]
+    },
+    {
+      "chapter": 4,
+      "id": "A2000-C04-S01",
+      "after_unit": "U04328",
+      "role": "restored_main_text",
+      "golden_tibetan": "ཚད་ཕེབས་ལུས་ནི་ཅི་ལྟར་འགྱུར།\nསེམས་ནི་གང་དང་གང་ལྟ་བུ།\nའབྲེལ་པ་ཆོད་པའི་ཆོས་ཉིད་གང།",
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 4,
+      "id": "C4-TRANSITION",
+      "after_unit": "U04763",
+      "role": "unresolved_source_graphic",
+      "golden_tibetan": "",
+      "golden_uncertainty_refs": [
+        "C4-END"
+      ]
+    },
+    {
+      "chapter": 5,
+      "id": "A2000-C05-S01",
+      "after_unit": "U05079",
+      "role": "restored_main_text",
+      "golden_tibetan": "བལྟ་བ་བསྟེན་པས་ཁམས་གསུམ་ཆད།\nབསྒོམ་པ་བསྟེན་པས་འཁྲུལ་རྒྱུན་འགགས།",
+      "golden_uncertainty_refs": []
+    },
+    {
+      "chapter": 5,
+      "id": "C5-TRANSITION",
+      "after_unit": "U05197",
+      "role": "unresolved_source_graphic",
+      "golden_tibetan": "",
+      "golden_uncertainty_refs": [
+        "C5-END"
+      ]
+    },
+    {
+      "chapter": 6,
+      "id": "A2000-C06-S01",
+      "after_unit": "U05382",
+      "role": "restored_main_text",
+      "golden_tibetan": "ཏོག་དང་སིང་བས་སྣ་ཚོགས་ལས།\nའུར་ཞིང་སིང་བས་མཆོག་ཐོབ་པའོ།",
+      "golden_uncertainty_refs": []
+    }
+  ]
+}
