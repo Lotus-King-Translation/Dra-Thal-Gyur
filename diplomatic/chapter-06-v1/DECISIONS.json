@@ -100,9 +100,610 @@
         "diplomatic/chapter-06-v1/SOURCE-REVIEW.json"
       ],
       "uncertain_units": []
+    },
+    "L6-0002": {
+      "status": "retain_base",
+      "rationale": "Retain the second-reply heading separately from the following main clause. S braces are presentation markup and do not change the Tibetan heading or root wording.",
+      "source_units": [
+        "U05245",
+        "U05246"
+      ],
+      "exact_conflicts": [
+        "C6-0003",
+        "C6-0004"
+      ],
+      "release_reading": {
+        "U05245": "ཞུས་ལན་གཉིས་པ།",
+        "U05246": "འོད་ཀྱི་ཡང་ཞུན་བཅུ་བདུན་བཤད། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-06-v1/collation.json"
+      ]
+    },
+    "L6-0004": {
+      "status": "retain_base",
+      "rationale": "Retain the fourth-reply heading and following phrase exactly from Adzom; S brace presentation does not authorize normalization.",
+      "source_units": [
+        "U05275",
+        "U05276"
+      ],
+      "exact_conflicts": [
+        "C6-0006",
+        "C6-0007"
+      ],
+      "release_reading": {
+        "U05275": "ཞུས་ལན་བཞི་པ།",
+        "U05276": "ལོངས་སྤྱོད་སྐུ་ཡང་སྐུ་གསུང་ཐུགས། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-06-v1/collation.json"
+      ]
+    },
+    "L6-0005": {
+      "status": "retain_base",
+      "rationale": "Retain the fifth-reply heading and the complete-enjoyment clause. S braces mark editorial presentation only.",
+      "source_units": [
+        "U05292",
+        "U05293"
+      ],
+      "exact_conflicts": [
+        "C6-0008",
+        "C6-0009"
+      ],
+      "release_reading": {
+        "U05292": "ཞུས་ལན་ལྔ་པ།",
+        "U05293": "སྤྲུལ་པའི་སྐུ་ཡང་སྐུ་གསུང་ཐུགས། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-06-v1/collation.json"
+      ]
+    },
+    "L6-0006": {
+      "status": "retain_base",
+      "rationale": "Retain Adzom ma lus in mdzad pa ma lus rdzogs pa dang. S agrees with A; B omission of ma is recorded but does not justify changing the governing witness.",
+      "source_units": [
+        "U05303"
+      ],
+      "exact_conflicts": [
+        "C6-0010"
+      ],
+      "release_reading": {
+        "U05303": "མཛད་པ་མ་ལུས་རྫོགས་པ་དང་། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-06-v1/collation.json"
+      ]
+    },
+    "L6-0007": {
+      "status": "retain_base",
+      "rationale": "Retain the sixth-reply heading and sku yi mtshan nyid ngo bo dang. The S brace convention is presentation, not source wording.",
+      "source_units": [
+        "U05305",
+        "U05306"
+      ],
+      "exact_conflicts": [
+        "C6-0011",
+        "C6-0012"
+      ],
+      "release_reading": {
+        "U05305": " ཞུས་ལན་དྲུག་པ།",
+        "U05306": "སྐུ་ཡི་མཚན་ཉིད་ངོ་བོ་དང་། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-06-v1/collation.json"
+      ]
+    },
+    "L6-0009": {
+      "status": "retain_base",
+      "rationale": "Retain the seventh-reply heading and the three-modes clause. The transcript difference is heading presentation only.",
+      "source_units": [
+        "U05317",
+        "U05318"
+      ],
+      "exact_conflicts": [
+        "C6-0014",
+        "C6-0015"
+      ],
+      "release_reading": {
+        "U05317": " ཞུས་ལན་བདུན་པ།",
+        "U05318": "སྐུ་ཡི་བཞུགས་ཚུལ་རྣམ་པ་གསུམ། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-06-v1/collation.json"
+      ]
+    },
+    "L6-0010": {
+      "status": "retain_base",
+      "rationale": "Retain the eighth-reply heading and sku yi rang bzhin chos nyid ni. Leading-space and brace differences are presentation only.",
+      "source_units": [
+        "U05328",
+        "U05329"
+      ],
+      "exact_conflicts": [
+        "C6-0016",
+        "C6-0017"
+      ],
+      "release_reading": {
+        "U05328": " ཞུས་ལན་བརྒྱད་པ།",
+        "U05329": "སྐུ་ཡི་རང་བཞིན་ཆོས་ཉིད་ནི། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-06-v1/collation.json"
+      ]
+    },
+    "L6-0012": {
+      "status": "retain_base",
+      "rationale": "Retain Adzom rang dag in nam mkha rang dag gsal ba dang. S agrees with A; B nga dag is preserved as a transcript difference without replacing the base.",
+      "source_units": [
+        "U05436"
+      ],
+      "exact_conflicts": [
+        "C6-0020"
+      ],
+      "release_reading": {
+        "U05436": "ནམ་མཁའ་རང་དག་གསལ་བ་དང་། །"
+      },
+      "evidence": [
+        "diplomatic/chapter-06-v1/collation.json"
+      ]
     }
   },
-  "W": {},
+  "W": {
+    "W-C06-001": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain Adzom 'khrul. W 'phrul is a related-reference lexical difference and is not source verification.",
+      "source_units": [
+        "U05199"
+      ],
+      "source_before": "U05198",
+      "source_after": "U05200",
+      "W_lines": [
+        5250
+      ],
+      "evidence": [
+        "diplomatic/chapter-06-v1/wikisource.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C06-002": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the supplied pad+ma transliteration convention; W pad ma is presentation, not a source correction.",
+      "source_units": [
+        "U05203"
+      ],
+      "source_before": "U05202",
+      "source_after": "U05204",
+      "W_lines": [
+        5254
+      ],
+      "evidence": [
+        "diplomatic/chapter-06-v1/wikisource.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C06-003": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the supplied pad+ma form and nam mkha’i wording. W spacing and particle differences are recorded without normalizing the base.",
+      "source_units": [
+        "U05205",
+        "U05206"
+      ],
+      "source_before": "U05204",
+      "source_after": "U05207",
+      "W_lines": [
+        5256,
+        5257
+      ],
+      "evidence": [
+        "diplomatic/chapter-06-v1/wikisource.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C06-004": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain Adzom gang tsam. W gad tsam is a lexical reference difference without source evidence sufficient to replace the governing witness.",
+      "source_units": [
+        "U05212"
+      ],
+      "source_before": "U05211",
+      "source_after": "U05213",
+      "W_lines": [
+        5264
+      ],
+      "evidence": [
+        "diplomatic/chapter-06-v1/wikisource.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C06-005": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain pad+ma source transliteration; W pad ma is a reference presentation difference.",
+      "source_units": [
+        "U05218"
+      ],
+      "source_before": "U05217",
+      "source_after": "U05219",
+      "W_lines": [
+        5270
+      ],
+      "evidence": [
+        "diplomatic/chapter-06-v1/wikisource.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C06-006": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the first-reply heading. Its absence in the related website does not establish absence from Adzom; the native source check supports the separate heading role.",
+      "source_units": [
+        "U05225"
+      ],
+      "source_before": "U05224",
+      "source_after": "U05226",
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-06-v1/wikisource.json",
+        "diplomatic/chapter-06-v1/SOURCE-REVIEW.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C06-007": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain supplied sh+lo ka exactly in the source layer; W sho la ka is a related-reference spelling or segmentation and is not adopted here.",
+      "source_units": [
+        "U05232"
+      ],
+      "source_before": "U05231",
+      "source_after": "U05233",
+      "W_lines": [
+        5283
+      ],
+      "evidence": [
+        "diplomatic/chapter-06-v1/wikisource.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C06-008": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain Adzom stong phrag. W sdong phrag is recorded as a lexical reference difference; no correction is inferred.",
+      "source_units": [
+        "U05234"
+      ],
+      "source_before": "U05233",
+      "source_after": "U05235",
+      "W_lines": [
+        5285
+      ],
+      "evidence": [
+        "diplomatic/chapter-06-v1/wikisource.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C06-009": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the second-reply heading. W omits the heading, but the Adzom-based edition preserves the source heading rather than adopting website layout.",
+      "source_units": [
+        "U05245"
+      ],
+      "source_before": "U05244",
+      "source_after": "U05246",
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-06-v1/wikisource.json",
+        "diplomatic/chapter-06-v1/SOURCE-REVIEW.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C06-010": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the source-qualified rtsa la reading with explicit uncertainty. W rtsal is recorded as reference evidence, but the native check did not justify replacing the governing base.",
+      "source_units": [
+        "U05247",
+        "U05248"
+      ],
+      "source_before": "U05246",
+      "source_after": "U05249",
+      "W_lines": [
+        5298,
+        5299
+      ],
+      "evidence": [
+        "diplomatic/chapter-06-v1/wikisource.json",
+        "diplomatic/chapter-06-v1/SOURCE-REVIEW.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C06-011": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain gleng ba. W gleng pa is a reference spelling difference and does not warrant changing the base.",
+      "source_units": [
+        "U05266"
+      ],
+      "source_before": "U05265",
+      "source_after": "U05267",
+      "W_lines": [
+        5317
+      ],
+      "evidence": [
+        "diplomatic/chapter-06-v1/wikisource.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C06-012": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the fourth-reply heading. Its absence in W is a reference-layout difference, not evidence for deletion from Adzom.",
+      "source_units": [
+        "U05275"
+      ],
+      "source_before": "U05274",
+      "source_after": "U05276",
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-06-v1/wikisource.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C06-013": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain mtshan dpe rdzogs pa las. W la las is recorded but not adopted absent source evidence.",
+      "source_units": [
+        "U05284"
+      ],
+      "source_before": "U05283",
+      "source_after": "U05285",
+      "W_lines": [
+        5335
+      ],
+      "evidence": [
+        "diplomatic/chapter-06-v1/wikisource.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C06-014": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the fifth-reply heading. Its absence in W is recorded without deleting the Adzom heading.",
+      "source_units": [
+        "U05292"
+      ],
+      "source_before": "U05291",
+      "source_after": "U05293",
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-06-v1/wikisource.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C06-015": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the sixth-reply heading. W omission is a reference difference, not a source correction.",
+      "source_units": [
+        "U05305"
+      ],
+      "source_before": "U05304",
+      "source_after": "U05306",
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-06-v1/wikisource.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C06-016": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the seventh-reply heading. W omission does not override the Adzom heading.",
+      "source_units": [
+        "U05317"
+      ],
+      "source_before": "U05316",
+      "source_after": "U05318",
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-06-v1/wikisource.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C06-017": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the eighth-reply heading. W omission is preserved as a reference-layout difference.",
+      "source_units": [
+        "U05328"
+      ],
+      "source_before": "U05327",
+      "source_after": "U05329",
+      "W_lines": [],
+      "evidence": [
+        "diplomatic/chapter-06-v1/wikisource.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C06-018": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain 'gro 'ong med. W 'gro 'ang med is a related-reference difference without source verification.",
+      "source_units": [
+        "U05333"
+      ],
+      "source_before": "U05332",
+      "source_after": "U05334",
+      "W_lines": [
+        5382
+      ],
+      "evidence": [
+        "diplomatic/chapter-06-v1/wikisource.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C06-019": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain Adzom dwangs and thung forms. W dangs and thub are exact reference differences, not automatic corrections.",
+      "source_units": [
+        "U05351",
+        "U05352"
+      ],
+      "source_before": "U05350",
+      "source_after": "U05353",
+      "W_lines": [
+        5400,
+        5401
+      ],
+      "evidence": [
+        "diplomatic/chapter-06-v1/wikisource.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C06-020": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the onomatopoeic source form spar spar with its unresolved acoustic value. W sbar sbar is recorded, not normalized into the base.",
+      "source_units": [
+        "U05360"
+      ],
+      "source_before": "U05359",
+      "source_after": "U05361",
+      "W_lines": [
+        5410
+      ],
+      "evidence": [
+        "diplomatic/chapter-06-v1/wikisource.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C06-021": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain Adzom shag/sdig and include the two scan-restored main verses after U05382. W contains the two lines and differs at sdig/sdid; restoration is adopted from the governing scan, not from W authority.",
+      "source_units": [
+        "U05382"
+      ],
+      "source_before": "U05381",
+      "source_after": "U05383",
+      "W_lines": [
+        5433,
+        5434,
+        5435
+      ],
+      "evidence": [
+        "diplomatic/chapter-06-v1/wikisource.json",
+        "diplomatic/chapter-06-v1/SOURCE-REVIEW.json"
+      ],
+      "new_scan_claim": false,
+      "insertion_ids": [
+        "A2000-C06-S01"
+      ]
+    },
+    "W-C06-022": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain zla gsum. W zla sum is a reference spelling form and does not change the base.",
+      "source_units": [
+        "U05391"
+      ],
+      "source_before": "U05390",
+      "source_after": "U05392",
+      "W_lines": [
+        5444
+      ],
+      "evidence": [
+        "diplomatic/chapter-06-v1/wikisource.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C06-023": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain supplied dag gis with explicit uncertainty. W ngag gis fits a possible parallel reading, but the native check did not justify silently supplying ngag.",
+      "source_units": [
+        "U05398"
+      ],
+      "source_before": "U05397",
+      "source_after": "U05399",
+      "W_lines": [
+        5451
+      ],
+      "evidence": [
+        "diplomatic/chapter-06-v1/wikisource.json",
+        "diplomatic/chapter-06-v1/SOURCE-REVIEW.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C06-024": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the supplied ngag gi A li ka lIr wording and source transliteration. W ni, a, and lir differences remain reference evidence only.",
+      "source_units": [
+        "U05402"
+      ],
+      "source_before": "U05401",
+      "source_after": "U05403",
+      "W_lines": [
+        5455
+      ],
+      "evidence": [
+        "diplomatic/chapter-06-v1/wikisource.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C06-025": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain gdeng. W gding is recorded as a related-reference spelling difference.",
+      "source_units": [
+        "U05414"
+      ],
+      "source_before": "U05413",
+      "source_after": "U05415",
+      "W_lines": [
+        5468
+      ],
+      "evidence": [
+        "diplomatic/chapter-06-v1/wikisource.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C06-026": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain pad+ma source transliteration; W pad ma is presentation only.",
+      "source_units": [
+        "U05443"
+      ],
+      "source_before": "U05442",
+      "source_after": "U05444",
+      "W_lines": [
+        5498
+      ],
+      "evidence": [
+        "diplomatic/chapter-06-v1/wikisource.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C06-027": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain the Adzom ritual string ag tham with explicit segmentation uncertainty. W a ga tha ma is preserved as a related-reference form, not silently substituted.",
+      "source_units": [
+        "U05460"
+      ],
+      "source_before": "U05459",
+      "source_after": "U05461",
+      "W_lines": [
+        5516
+      ],
+      "evidence": [
+        "diplomatic/chapter-06-v1/wikisource.json",
+        "diplomatic/chapter-06-v1/SOURCE-REVIEW.json"
+      ],
+      "new_scan_claim": false
+    },
+    "W-C06-028": {
+      "status": "retain_corrected_base_and_record_reference",
+      "rationale": "Retain all three final dge’o formulas. W has the same lexical sequence on three lines; lineation and punctuation differences do not alter the Adzom closing.",
+      "source_units": [
+        "U05466"
+      ],
+      "source_before": "U05465",
+      "source_after": null,
+      "W_lines": [
+        5522,
+        5523,
+        5524
+      ],
+      "evidence": [
+        "diplomatic/chapter-06-v1/wikisource.json",
+        "diplomatic/chapter-06-v1/SOURCE-REVIEW.json"
+      ],
+      "new_scan_claim": false
+    }
+  },
   "source_checks": {
     "C6-START": {
       "status": "dispositioned_for_bounded_v1",
