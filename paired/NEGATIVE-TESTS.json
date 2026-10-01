@@ -1,0 +1,228 @@
+{
+  "schema": "paired-negative-tests/1",
+  "status": "pass",
+  "tests_run": 44,
+  "positive_tests": 3,
+  "negative_tests": 41,
+  "failures": 0,
+  "errors": 0,
+  "checks": [
+    {
+      "name": "positive_false_terminal_notices",
+      "status": "pass"
+    },
+    {
+      "name": "positive_grouping_examples",
+      "status": "pass"
+    },
+    {
+      "name": "positive_released_corpus",
+      "status": "pass"
+    },
+    {
+      "name": "reject_changed_protected_file",
+      "status": "pass",
+      "rejection": "Protected input changed or missing: protected.txt"
+    },
+    {
+      "name": "reject_closing_as_seventh_chapter",
+      "status": "pass",
+      "rejection": "Source structure/heading/anchor or extra unaccounted text differs"
+    },
+    {
+      "name": "reject_closing_role_changed",
+      "status": "pass",
+      "rejection": "Golden role changed: DTG-002646"
+    },
+    {
+      "name": "reject_dropped_restored_object",
+      "status": "pass",
+      "rejection": "Missing, reordered or renamed stable pair ID"
+    },
+    {
+      "name": "reject_dropped_restored_verse_line",
+      "status": "pass",
+      "rejection": "Selected Tibetan text/join differs: DTG-000578"
+    },
+    {
+      "name": "reject_duplicate_both_pairs",
+      "status": "pass",
+      "rejection": "Duplicate pair ID on bo side"
+    },
+    {
+      "name": "reject_duplicate_golden_reference",
+      "status": "pass",
+      "rejection": "Golden object covered more than once"
+    },
+    {
+      "name": "reject_duplicate_source_pair",
+      "status": "pass",
+      "rejection": "Duplicate pair ID on bo side"
+    },
+    {
+      "name": "reject_duplicate_translation_pair",
+      "status": "pass",
+      "rejection": "Duplicate pair ID on en side"
+    },
+    {
+      "name": "reject_empty_annotation_marker_lost",
+      "status": "pass",
+      "rejection": "Released English/notes/markers differ: DTG-001185"
+    },
+    {
+      "name": "reject_endnote_definition_changed",
+      "status": "pass",
+      "rejection": "Translation structure/endnote text/backlink or extra unaccounted text differs"
+    },
+    {
+      "name": "reject_endnote_definition_lost",
+      "status": "pass",
+      "rejection": "Lost, orphaned or unknown reconciliation endnote/reference"
+    },
+    {
+      "name": "reject_endnote_reference_lost",
+      "status": "pass",
+      "rejection": "Released English/notes/markers differ: DTG-000001"
+    },
+    {
+      "name": "reject_endnote_reference_misplaced",
+      "status": "pass",
+      "rejection": "Released English/notes/markers differ: DTG-000001"
+    },
+    {
+      "name": "reject_endnote_reference_wrong",
+      "status": "pass",
+      "rejection": "Released English/notes/markers differ: DTG-000001"
+    },
+    {
+      "name": "reject_english_word_mutated",
+      "status": "pass",
+      "rejection": "Released English/notes/markers differ: DTG-000006"
+    },
+    {
+      "name": "reject_extraneous_source_text",
+      "status": "pass",
+      "rejection": "Source structure/heading/anchor or extra unaccounted text differs"
+    },
+    {
+      "name": "reject_extraneous_translation_text",
+      "status": "pass",
+      "rejection": "Translation structure/endnote text/backlink or extra unaccounted text differs"
+    },
+    {
+      "name": "reject_inline_legacy_note_lost",
+      "status": "pass",
+      "rejection": "Released English/notes/markers differ: DTG-000002"
+    },
+    {
+      "name": "reject_joined_marker_as_annotation",
+      "status": "pass",
+      "rejection": "Released English/notes/markers differ: DTG-000813"
+    },
+    {
+      "name": "reject_lost_closing_material",
+      "status": "pass",
+      "rejection": "Golden object omitted (including restored/closing material)"
+    },
+    {
+      "name": "reject_missing_both_pairs",
+      "status": "pass",
+      "rejection": "Missing, reordered or renamed stable pair ID"
+    },
+    {
+      "name": "reject_missing_protected_file",
+      "status": "pass",
+      "rejection": "Protected input changed or missing: protected.txt"
+    },
+    {
+      "name": "reject_missing_source_pair",
+      "status": "pass",
+      "rejection": "Source/translation pair set or order mismatch"
+    },
+    {
+      "name": "reject_missing_translation_pair",
+      "status": "pass",
+      "rejection": "Source/translation pair set or order mismatch"
+    },
+    {
+      "name": "reject_noninline_legacy_note_lost",
+      "status": "pass",
+      "rejection": "Released English/notes/markers differ: DTG-000006"
+    },
+    {
+      "name": "reject_omitted_golden_reference",
+      "status": "pass",
+      "rejection": "Golden object omitted (including restored/closing material)"
+    },
+    {
+      "name": "reject_reordered_both_pairs",
+      "status": "pass",
+      "rejection": "Missing, reordered or renamed stable pair ID"
+    },
+    {
+      "name": "reject_reordered_golden_references",
+      "status": "pass",
+      "rejection": "Golden object order changed"
+    },
+    {
+      "name": "reject_reordered_source_pairs",
+      "status": "pass",
+      "rejection": "Source/translation pair set or order mismatch"
+    },
+    {
+      "name": "reject_reordered_translation_pairs",
+      "status": "pass",
+      "rejection": "Source/translation pair set or order mismatch"
+    },
+    {
+      "name": "reject_resegmentation_with_all_source_intact",
+      "status": "pass",
+      "rejection": "Published pair membership changed; new edition and explicit lineage required"
+    },
+    {
+      "name": "reject_source_heading_hidden",
+      "status": "pass",
+      "rejection": "Golden role changed: DTG-000009"
+    },
+    {
+      "name": "reject_tibetan_join_newline_changed",
+      "status": "pass",
+      "rejection": "Selected Tibetan text/join differs: DTG-000006"
+    },
+    {
+      "name": "reject_tibetan_whitespace_trimmed",
+      "status": "pass",
+      "rejection": "Selected Tibetan text/join differs: DTG-000004"
+    },
+    {
+      "name": "reject_tibetan_word_mutated",
+      "status": "pass",
+      "rejection": "Selected Tibetan text/join differs: DTG-000004"
+    },
+    {
+      "name": "reject_unknown_golden_reference",
+      "status": "pass",
+      "rejection": "Unknown golden object reference"
+    },
+    {
+      "name": "reject_wrong_paired_edition",
+      "status": "pass",
+      "rejection": "Wrong or malformed pinned bo front matter"
+    },
+    {
+      "name": "reject_wrong_source_pin",
+      "status": "pass",
+      "rejection": "Wrong or malformed pinned bo front matter"
+    },
+    {
+      "name": "reject_wrong_translation_pin",
+      "status": "pass",
+      "rejection": "Wrong or malformed pinned en front matter"
+    },
+    {
+      "name": "reject_wrong_translation_source_pin",
+      "status": "pass",
+      "rejection": "Wrong or malformed pinned en front matter"
+    }
+  ]
+}

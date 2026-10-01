@@ -1,0 +1,1822 @@
+{
+  "schema": "paired-text-manifest/1",
+  "generated": true,
+  "canonical_content": [
+    "paired/source.md",
+    "paired/translation.md"
+  ],
+  "paired_edition": "dra-thal-gyur-paired-v1.0.0",
+  "checks_passed": true,
+  "pins": {
+    "root-tantra-v1.0.0": {
+      "tag_object": "97379615d268149eee768c9c1ec99b7be2f993b4",
+      "commit": "b83051912977268b97615bd382d82e51c3406d61"
+    },
+    "translation-golden-aligned-v1.0.0": {
+      "tag_object": "ed0783c6a394d4ace736a09d812f0666c6743848",
+      "commit": "e24e97ddad9cefa339b5583a38389179dba7a365"
+    }
+  },
+  "canonical_sha256": {
+    "source.md": "ec14d6a45a2316c9806e4f7ebcf72581dead8bf5b6e5df7accb41d363e0a510c",
+    "translation.md": "d684be3fc29e2dd89101ade08efe8df0481910b52bc76a28d6d297c8447e1d08"
+  },
+  "identity_sha256": "44a3c8c5b50e932ec08e40d72a4075889521a189aaf40245e815e6a2f024fc0f",
+  "projection_sha256": {
+    "golden_ordered_id_text_records": "5dfb78028b704ad16d8bfbf25964cf436b7469fd1862868556e9f65be753a8d8",
+    "english_ordered_id_text_records": "8aafd84e0c2dd7cbe64e391a7fe284c912f8a7ca91c51fb3b39c76a95512b8da"
+  },
+  "counts": {
+    "total_pairs": 2660,
+    "expected_pairs": 2660,
+    "original_source_anchors": 5466,
+    "golden_objects_covered": 5484,
+    "golden_objects_expected": 5484,
+    "added_golden_objects": 18,
+    "restored_objects": 10,
+    "restored_verses_retained": 23,
+    "reconciliation_endnotes_retained": 173,
+    "legacy_note_ids_retained": 340,
+    "legacy_object_note_associations_retained": 4932,
+    "source_annotation_components_retained_in_notes": 65,
+    "closing_anchors_retained": 18,
+    "chapters": 6,
+    "closing_material_parts": 1,
+    "unmatched_source_pairs": 0,
+    "unmatched_translation_pairs": 0,
+    "duplicated_golden_objects": 0,
+    "omitted_golden_objects": 0,
+    "split_golden_objects": 0,
+    "grouped_pairs": 1532,
+    "largest_pair_objects": 12
+  },
+  "parts": [
+    {
+      "part": "chapter-01",
+      "pairs": 1192,
+      "golden_objects": 2646,
+      "first_pair": "DTG-000001",
+      "last_pair": "DTG-001192"
+    },
+    {
+      "part": "chapter-02",
+      "pairs": 543,
+      "golden_objects": 987,
+      "first_pair": "DTG-001193",
+      "last_pair": "DTG-001735"
+    },
+    {
+      "part": "chapter-03",
+      "pairs": 354,
+      "golden_objects": 685,
+      "first_pair": "DTG-001736",
+      "last_pair": "DTG-002089"
+    },
+    {
+      "part": "chapter-04",
+      "pairs": 237,
+      "golden_objects": 460,
+      "first_pair": "DTG-002090",
+      "last_pair": "DTG-002326"
+    },
+    {
+      "part": "chapter-05",
+      "pairs": 211,
+      "golden_objects": 436,
+      "first_pair": "DTG-002327",
+      "last_pair": "DTG-002537"
+    },
+    {
+      "part": "chapter-06",
+      "pairs": 108,
+      "golden_objects": 252,
+      "first_pair": "DTG-002538",
+      "last_pair": "DTG-002645"
+    },
+    {
+      "part": "closing-material",
+      "pairs": 15,
+      "golden_objects": 18,
+      "first_pair": "DTG-002646",
+      "last_pair": "DTG-002660"
+    }
+  ],
+  "roles": {
+    "chapter_colophon": 11,
+    "closing_auspicious_formula": 1,
+    "concluding_note": 1,
+    "joined_anchor": 2,
+    "main_text": 5249,
+    "opening_title_or_sign": 6,
+    "protector_invocation": 3,
+    "provisional_caption": 1,
+    "restored_main_text": 10,
+    "ritual_formula": 4,
+    "seal": 4,
+    "source_annotation_anchor": 14,
+    "source_heading": 169,
+    "transmission_restriction": 2,
+    "unresolved_inscription": 1,
+    "unresolved_source_graphic": 3,
+    "work_colophon": 3
+  },
+  "restored": [
+    {
+      "golden": "A2000-C01-S01",
+      "pair": "DTG-000578",
+      "verses": 3
+    },
+    {
+      "golden": "A2000-C01-S02",
+      "pair": "DTG-000839",
+      "verses": 3
+    },
+    {
+      "golden": "A2000-C01-S03",
+      "pair": "DTG-000893",
+      "verses": 3
+    },
+    {
+      "golden": "A2000-C01-S04",
+      "pair": "DTG-000976",
+      "verses": 2
+    },
+    {
+      "golden": "A2000-C01-S05",
+      "pair": "DTG-001026",
+      "verses": 1
+    },
+    {
+      "golden": "A2000-C01-S07",
+      "pair": "DTG-001028",
+      "verses": 1
+    },
+    {
+      "golden": "A2000-C03-S01",
+      "pair": "DTG-001788",
+      "verses": 3
+    },
+    {
+      "golden": "A2000-C04-S01",
+      "pair": "DTG-002105",
+      "verses": 3
+    },
+    {
+      "golden": "A2000-C05-S01",
+      "pair": "DTG-002480",
+      "verses": 2
+    },
+    {
+      "golden": "A2000-C06-S01",
+      "pair": "DTG-002615",
+      "verses": 2
+    }
+  ],
+  "closing": [
+    {
+      "golden": "U05449",
+      "pair": "DTG-002646"
+    },
+    {
+      "golden": "U05450",
+      "pair": "DTG-002646"
+    },
+    {
+      "golden": "U05451",
+      "pair": "DTG-002646"
+    },
+    {
+      "golden": "U05452",
+      "pair": "DTG-002647"
+    },
+    {
+      "golden": "U05453",
+      "pair": "DTG-002648"
+    },
+    {
+      "golden": "U05454",
+      "pair": "DTG-002649"
+    },
+    {
+      "golden": "U05455",
+      "pair": "DTG-002650"
+    },
+    {
+      "golden": "U05456",
+      "pair": "DTG-002650"
+    },
+    {
+      "golden": "U05457",
+      "pair": "DTG-002651"
+    },
+    {
+      "golden": "U05458",
+      "pair": "DTG-002652"
+    },
+    {
+      "golden": "U05459",
+      "pair": "DTG-002653"
+    },
+    {
+      "golden": "U05460",
+      "pair": "DTG-002654"
+    },
+    {
+      "golden": "U05461",
+      "pair": "DTG-002655"
+    },
+    {
+      "golden": "U05462",
+      "pair": "DTG-002656"
+    },
+    {
+      "golden": "U05463",
+      "pair": "DTG-002657"
+    },
+    {
+      "golden": "U05464",
+      "pair": "DTG-002658"
+    },
+    {
+      "golden": "U05465",
+      "pair": "DTG-002659"
+    },
+    {
+      "golden": "U05466",
+      "pair": "DTG-002660"
+    }
+  ],
+  "endnotes": [
+    {
+      "note": "G-U00001",
+      "pairs": [
+        "DTG-000001"
+      ],
+      "golden": [
+        "U00001"
+      ]
+    },
+    {
+      "note": "G-U00002",
+      "pairs": [
+        "DTG-000002"
+      ],
+      "golden": [
+        "U00002"
+      ]
+    },
+    {
+      "note": "G-U00003",
+      "pairs": [
+        "DTG-000003"
+      ],
+      "golden": [
+        "U00003"
+      ]
+    },
+    {
+      "note": "G-U00004",
+      "pairs": [
+        "DTG-000004"
+      ],
+      "golden": [
+        "U00004"
+      ]
+    },
+    {
+      "note": "G-U00005",
+      "pairs": [
+        "DTG-000005"
+      ],
+      "golden": [
+        "U00005"
+      ]
+    },
+    {
+      "note": "G-U00006",
+      "pairs": [
+        "DTG-000005"
+      ],
+      "golden": [
+        "U00006"
+      ]
+    },
+    {
+      "note": "G-A2000-C01-S08",
+      "pairs": [
+        "DTG-000008"
+      ],
+      "golden": [
+        "A2000-C01-S08"
+      ]
+    },
+    {
+      "note": "G-U00014",
+      "pairs": [
+        "DTG-000010"
+      ],
+      "golden": [
+        "U00014"
+      ]
+    },
+    {
+      "note": "G-U00029",
+      "pairs": [
+        "DTG-000016"
+      ],
+      "golden": [
+        "U00029"
+      ]
+    },
+    {
+      "note": "G-U00030",
+      "pairs": [
+        "DTG-000017"
+      ],
+      "golden": [
+        "U00030"
+      ]
+    },
+    {
+      "note": "G-U00035",
+      "pairs": [
+        "DTG-000019"
+      ],
+      "golden": [
+        "U00035"
+      ]
+    },
+    {
+      "note": "G-U00039",
+      "pairs": [
+        "DTG-000020"
+      ],
+      "golden": [
+        "U00039"
+      ]
+    },
+    {
+      "note": "G-U00048",
+      "pairs": [
+        "DTG-000023"
+      ],
+      "golden": [
+        "U00048"
+      ]
+    },
+    {
+      "note": "G-U00049",
+      "pairs": [
+        "DTG-000023"
+      ],
+      "golden": [
+        "U00049"
+      ]
+    },
+    {
+      "note": "G-U00080",
+      "pairs": [
+        "DTG-000034"
+      ],
+      "golden": [
+        "U00080"
+      ]
+    },
+    {
+      "note": "G-U00092",
+      "pairs": [
+        "DTG-000038"
+      ],
+      "golden": [
+        "U00092"
+      ]
+    },
+    {
+      "note": "G-U00093",
+      "pairs": [
+        "DTG-000038"
+      ],
+      "golden": [
+        "U00093"
+      ]
+    },
+    {
+      "note": "G-U00105",
+      "pairs": [
+        "DTG-000044"
+      ],
+      "golden": [
+        "U00105"
+      ]
+    },
+    {
+      "note": "G-U00126",
+      "pairs": [
+        "DTG-000048"
+      ],
+      "golden": [
+        "U00126"
+      ]
+    },
+    {
+      "note": "G-U00156",
+      "pairs": [
+        "DTG-000059"
+      ],
+      "golden": [
+        "U00156"
+      ]
+    },
+    {
+      "note": "G-U00179",
+      "pairs": [
+        "DTG-000068"
+      ],
+      "golden": [
+        "U00179"
+      ]
+    },
+    {
+      "note": "G-U00180",
+      "pairs": [
+        "DTG-000069"
+      ],
+      "golden": [
+        "U00180"
+      ]
+    },
+    {
+      "note": "G-U00184",
+      "pairs": [
+        "DTG-000070"
+      ],
+      "golden": [
+        "U00184"
+      ]
+    },
+    {
+      "note": "G-U00187",
+      "pairs": [
+        "DTG-000070"
+      ],
+      "golden": [
+        "U00187"
+      ]
+    },
+    {
+      "note": "G-U00192",
+      "pairs": [
+        "DTG-000075"
+      ],
+      "golden": [
+        "U00192"
+      ]
+    },
+    {
+      "note": "G-U00197",
+      "pairs": [
+        "DTG-000080"
+      ],
+      "golden": [
+        "U00197"
+      ]
+    },
+    {
+      "note": "G-U00252",
+      "pairs": [
+        "DTG-000135"
+      ],
+      "golden": [
+        "U00252"
+      ]
+    },
+    {
+      "note": "G-U00272",
+      "pairs": [
+        "DTG-000150"
+      ],
+      "golden": [
+        "U00272"
+      ]
+    },
+    {
+      "note": "G-U00316",
+      "pairs": [
+        "DTG-000165"
+      ],
+      "golden": [
+        "U00316"
+      ]
+    },
+    {
+      "note": "G-U00317",
+      "pairs": [
+        "DTG-000165"
+      ],
+      "golden": [
+        "U00317"
+      ]
+    },
+    {
+      "note": "G-U00318",
+      "pairs": [
+        "DTG-000165"
+      ],
+      "golden": [
+        "U00318"
+      ]
+    },
+    {
+      "note": "G-SCAN-CH1-LAYER-00318",
+      "pairs": [
+        "DTG-000166"
+      ],
+      "golden": [
+        "SCAN-CH1-LAYER-00318"
+      ]
+    },
+    {
+      "note": "G-U00319",
+      "pairs": [
+        "DTG-000167"
+      ],
+      "golden": [
+        "U00319"
+      ]
+    },
+    {
+      "note": "G-U00328",
+      "pairs": [
+        "DTG-000172"
+      ],
+      "golden": [
+        "U00328"
+      ]
+    },
+    {
+      "note": "G-U00343",
+      "pairs": [
+        "DTG-000181"
+      ],
+      "golden": [
+        "U00343"
+      ]
+    },
+    {
+      "note": "G-U00344",
+      "pairs": [
+        "DTG-000182"
+      ],
+      "golden": [
+        "U00344"
+      ]
+    },
+    {
+      "note": "G-U00345",
+      "pairs": [
+        "DTG-000183"
+      ],
+      "golden": [
+        "U00345"
+      ]
+    },
+    {
+      "note": "G-U00372",
+      "pairs": [
+        "DTG-000193"
+      ],
+      "golden": [
+        "U00372"
+      ]
+    },
+    {
+      "note": "G-U00534",
+      "pairs": [
+        "DTG-000254"
+      ],
+      "golden": [
+        "U00534"
+      ]
+    },
+    {
+      "note": "G-U00542",
+      "pairs": [
+        "DTG-000257"
+      ],
+      "golden": [
+        "U00542"
+      ]
+    },
+    {
+      "note": "G-U00578",
+      "pairs": [
+        "DTG-000273"
+      ],
+      "golden": [
+        "U00578"
+      ]
+    },
+    {
+      "note": "G-U00594",
+      "pairs": [
+        "DTG-000280"
+      ],
+      "golden": [
+        "U00594"
+      ]
+    },
+    {
+      "note": "G-U00596",
+      "pairs": [
+        "DTG-000282"
+      ],
+      "golden": [
+        "U00596"
+      ]
+    },
+    {
+      "note": "G-U00626",
+      "pairs": [
+        "DTG-000302"
+      ],
+      "golden": [
+        "U00626"
+      ]
+    },
+    {
+      "note": "G-U00632",
+      "pairs": [
+        "DTG-000306"
+      ],
+      "golden": [
+        "U00632"
+      ]
+    },
+    {
+      "note": "G-U00651",
+      "pairs": [
+        "DTG-000315"
+      ],
+      "golden": [
+        "U00651"
+      ]
+    },
+    {
+      "note": "G-U00710",
+      "pairs": [
+        "DTG-000342"
+      ],
+      "golden": [
+        "U00710"
+      ]
+    },
+    {
+      "note": "G-U00800",
+      "pairs": [
+        "DTG-000379"
+      ],
+      "golden": [
+        "U00800"
+      ]
+    },
+    {
+      "note": "G-U00910",
+      "pairs": [
+        "DTG-000423"
+      ],
+      "golden": [
+        "U00910"
+      ]
+    },
+    {
+      "note": "G-U00948",
+      "pairs": [
+        "DTG-000437"
+      ],
+      "golden": [
+        "U00948"
+      ]
+    },
+    {
+      "note": "G-U00995",
+      "pairs": [
+        "DTG-000453"
+      ],
+      "golden": [
+        "U00995"
+      ]
+    },
+    {
+      "note": "G-U01023",
+      "pairs": [
+        "DTG-000468"
+      ],
+      "golden": [
+        "U01023"
+      ]
+    },
+    {
+      "note": "G-U01067",
+      "pairs": [
+        "DTG-000484"
+      ],
+      "golden": [
+        "U01067"
+      ]
+    },
+    {
+      "note": "G-U01090",
+      "pairs": [
+        "DTG-000492"
+      ],
+      "golden": [
+        "U01090"
+      ]
+    },
+    {
+      "note": "G-U01094",
+      "pairs": [
+        "DTG-000496"
+      ],
+      "golden": [
+        "U01094"
+      ]
+    },
+    {
+      "note": "G-U01144",
+      "pairs": [
+        "DTG-000521"
+      ],
+      "golden": [
+        "U01144"
+      ]
+    },
+    {
+      "note": "G-U01147",
+      "pairs": [
+        "DTG-000523"
+      ],
+      "golden": [
+        "U01147"
+      ]
+    },
+    {
+      "note": "G-U01186",
+      "pairs": [
+        "DTG-000541"
+      ],
+      "golden": [
+        "U01186"
+      ]
+    },
+    {
+      "note": "G-U01233",
+      "pairs": [
+        "DTG-000560",
+        "DTG-000562"
+      ],
+      "golden": [
+        "U01233",
+        "U01237",
+        "U01238"
+      ]
+    },
+    {
+      "note": "G-U01237",
+      "pairs": [
+        "DTG-000562"
+      ],
+      "golden": [
+        "U01237"
+      ]
+    },
+    {
+      "note": "G-U01239",
+      "pairs": [
+        "DTG-000563"
+      ],
+      "golden": [
+        "U01239"
+      ]
+    },
+    {
+      "note": "G-U01257",
+      "pairs": [
+        "DTG-000571"
+      ],
+      "golden": [
+        "U01257"
+      ]
+    },
+    {
+      "note": "G-U01265",
+      "pairs": [
+        "DTG-000574"
+      ],
+      "golden": [
+        "U01265"
+      ]
+    },
+    {
+      "note": "G-U01270",
+      "pairs": [
+        "DTG-000575"
+      ],
+      "golden": [
+        "U01270"
+      ]
+    },
+    {
+      "note": "G-A2000-C01-S01",
+      "pairs": [
+        "DTG-000578"
+      ],
+      "golden": [
+        "A2000-C01-S01"
+      ]
+    },
+    {
+      "note": "G-U01286",
+      "pairs": [
+        "DTG-000584"
+      ],
+      "golden": [
+        "U01286"
+      ]
+    },
+    {
+      "note": "G-U01308",
+      "pairs": [
+        "DTG-000593"
+      ],
+      "golden": [
+        "U01308"
+      ]
+    },
+    {
+      "note": "G-U01353",
+      "pairs": [
+        "DTG-000626"
+      ],
+      "golden": [
+        "U01353"
+      ]
+    },
+    {
+      "note": "G-U01414",
+      "pairs": [
+        "DTG-000652"
+      ],
+      "golden": [
+        "U01414"
+      ]
+    },
+    {
+      "note": "G-U01416",
+      "pairs": [
+        "DTG-000653"
+      ],
+      "golden": [
+        "U01416"
+      ]
+    },
+    {
+      "note": "G-U01417",
+      "pairs": [
+        "DTG-000653"
+      ],
+      "golden": [
+        "U01417"
+      ]
+    },
+    {
+      "note": "G-U01422",
+      "pairs": [
+        "DTG-000654"
+      ],
+      "golden": [
+        "U01422"
+      ]
+    },
+    {
+      "note": "G-U01439",
+      "pairs": [
+        "DTG-000659"
+      ],
+      "golden": [
+        "U01439"
+      ]
+    },
+    {
+      "note": "G-U01476",
+      "pairs": [
+        "DTG-000675"
+      ],
+      "golden": [
+        "U01476"
+      ]
+    },
+    {
+      "note": "G-U01522",
+      "pairs": [
+        "DTG-000696"
+      ],
+      "golden": [
+        "U01522"
+      ]
+    },
+    {
+      "note": "G-U01534",
+      "pairs": [
+        "DTG-000700"
+      ],
+      "golden": [
+        "U01534"
+      ]
+    },
+    {
+      "note": "G-U01539",
+      "pairs": [
+        "DTG-000702"
+      ],
+      "golden": [
+        "U01539"
+      ]
+    },
+    {
+      "note": "G-U01540",
+      "pairs": [
+        "DTG-000703"
+      ],
+      "golden": [
+        "U01540"
+      ]
+    },
+    {
+      "note": "G-U01557",
+      "pairs": [
+        "DTG-000709"
+      ],
+      "golden": [
+        "U01557"
+      ]
+    },
+    {
+      "note": "G-U01567",
+      "pairs": [
+        "DTG-000711"
+      ],
+      "golden": [
+        "U01567"
+      ]
+    },
+    {
+      "note": "G-U01595",
+      "pairs": [
+        "DTG-000725"
+      ],
+      "golden": [
+        "U01595"
+      ]
+    },
+    {
+      "note": "G-U01598",
+      "pairs": [
+        "DTG-000727"
+      ],
+      "golden": [
+        "U01598"
+      ]
+    },
+    {
+      "note": "G-U01627",
+      "pairs": [
+        "DTG-000739"
+      ],
+      "golden": [
+        "U01627"
+      ]
+    },
+    {
+      "note": "G-U01634",
+      "pairs": [
+        "DTG-000741"
+      ],
+      "golden": [
+        "U01634"
+      ]
+    },
+    {
+      "note": "G-U01635",
+      "pairs": [
+        "DTG-000742"
+      ],
+      "golden": [
+        "U01635"
+      ]
+    },
+    {
+      "note": "G-U01657",
+      "pairs": [
+        "DTG-000751"
+      ],
+      "golden": [
+        "U01657"
+      ]
+    },
+    {
+      "note": "G-U01661",
+      "pairs": [
+        "DTG-000753"
+      ],
+      "golden": [
+        "U01661"
+      ]
+    },
+    {
+      "note": "G-U01668",
+      "pairs": [
+        "DTG-000758"
+      ],
+      "golden": [
+        "U01668"
+      ]
+    },
+    {
+      "note": "G-U01688",
+      "pairs": [
+        "DTG-000766"
+      ],
+      "golden": [
+        "U01688"
+      ]
+    },
+    {
+      "note": "G-U01711",
+      "pairs": [
+        "DTG-000773"
+      ],
+      "golden": [
+        "U01711"
+      ]
+    },
+    {
+      "note": "G-U01716",
+      "pairs": [
+        "DTG-000774"
+      ],
+      "golden": [
+        "U01716"
+      ]
+    },
+    {
+      "note": "G-U01727",
+      "pairs": [
+        "DTG-000778"
+      ],
+      "golden": [
+        "U01727"
+      ]
+    },
+    {
+      "note": "G-U01734",
+      "pairs": [
+        "DTG-000781"
+      ],
+      "golden": [
+        "U01734"
+      ]
+    },
+    {
+      "note": "G-U01757",
+      "pairs": [
+        "DTG-000787"
+      ],
+      "golden": [
+        "U01757"
+      ]
+    },
+    {
+      "note": "G-U01776",
+      "pairs": [
+        "DTG-000797"
+      ],
+      "golden": [
+        "U01776"
+      ]
+    },
+    {
+      "note": "G-U01803",
+      "pairs": [
+        "DTG-000807"
+      ],
+      "golden": [
+        "U01803"
+      ]
+    },
+    {
+      "note": "G-U01806",
+      "pairs": [
+        "DTG-000809"
+      ],
+      "golden": [
+        "U01806"
+      ]
+    },
+    {
+      "note": "G-U01811",
+      "pairs": [
+        "DTG-000812",
+        "DTG-000813"
+      ],
+      "golden": [
+        "U01811",
+        "U01812"
+      ]
+    },
+    {
+      "note": "G-U01812",
+      "pairs": [
+        "DTG-000813"
+      ],
+      "golden": [
+        "U01812"
+      ]
+    },
+    {
+      "note": "G-U01829",
+      "pairs": [
+        "DTG-000821"
+      ],
+      "golden": [
+        "U01829"
+      ]
+    },
+    {
+      "note": "G-A2000-C01-S02",
+      "pairs": [
+        "DTG-000839"
+      ],
+      "golden": [
+        "A2000-C01-S02"
+      ]
+    },
+    {
+      "note": "G-U01883",
+      "pairs": [
+        "DTG-000839"
+      ],
+      "golden": [
+        "U01883"
+      ]
+    },
+    {
+      "note": "G-U01884",
+      "pairs": [
+        "DTG-000839"
+      ],
+      "golden": [
+        "U01884"
+      ]
+    },
+    {
+      "note": "G-A2000-C01-S03",
+      "pairs": [
+        "DTG-000893"
+      ],
+      "golden": [
+        "A2000-C01-S03"
+      ]
+    },
+    {
+      "note": "G-U02080",
+      "pairs": [
+        "DTG-000926"
+      ],
+      "golden": [
+        "U02080"
+      ]
+    },
+    {
+      "note": "G-U02129",
+      "pairs": [
+        "DTG-000949"
+      ],
+      "golden": [
+        "U02129"
+      ]
+    },
+    {
+      "note": "G-U02172",
+      "pairs": [
+        "DTG-000970"
+      ],
+      "golden": [
+        "U02172"
+      ]
+    },
+    {
+      "note": "G-U02183",
+      "pairs": [
+        "DTG-000975"
+      ],
+      "golden": [
+        "U02183"
+      ]
+    },
+    {
+      "note": "G-A2000-C01-S04",
+      "pairs": [
+        "DTG-000976"
+      ],
+      "golden": [
+        "A2000-C01-S04"
+      ]
+    },
+    {
+      "note": "G-U02225",
+      "pairs": [
+        "DTG-000991"
+      ],
+      "golden": [
+        "U02225"
+      ]
+    },
+    {
+      "note": "G-A2000-C01-S05",
+      "pairs": [
+        "DTG-001026"
+      ],
+      "golden": [
+        "A2000-C01-S05"
+      ]
+    },
+    {
+      "note": "G-A2000-C01-S06",
+      "pairs": [
+        "DTG-001027"
+      ],
+      "golden": [
+        "A2000-C01-S06"
+      ]
+    },
+    {
+      "note": "G-A2000-C01-S07",
+      "pairs": [
+        "DTG-001028"
+      ],
+      "golden": [
+        "A2000-C01-S07"
+      ]
+    },
+    {
+      "note": "G-U02332",
+      "pairs": [
+        "DTG-001042"
+      ],
+      "golden": [
+        "U02332"
+      ]
+    },
+    {
+      "note": "G-U02484",
+      "pairs": [
+        "DTG-001122"
+      ],
+      "golden": [
+        "U02484"
+      ]
+    },
+    {
+      "note": "G-U02489",
+      "pairs": [
+        "DTG-001124"
+      ],
+      "golden": [
+        "U02489"
+      ]
+    },
+    {
+      "note": "G-SCAN-CH1-LAYER-02489",
+      "pairs": [
+        "DTG-001124"
+      ],
+      "golden": [
+        "SCAN-CH1-LAYER-02489"
+      ]
+    },
+    {
+      "note": "G-U02522",
+      "pairs": [
+        "DTG-001141"
+      ],
+      "golden": [
+        "U02522"
+      ]
+    },
+    {
+      "note": "G-U02597",
+      "pairs": [
+        "DTG-001176"
+      ],
+      "golden": [
+        "U02597"
+      ]
+    },
+    {
+      "note": "G-U02615",
+      "pairs": [
+        "DTG-001185"
+      ],
+      "golden": [
+        "U02615"
+      ]
+    },
+    {
+      "note": "G-U02620",
+      "pairs": [
+        "DTG-001187"
+      ],
+      "golden": [
+        "U02620"
+      ]
+    },
+    {
+      "note": "G-U02635",
+      "pairs": [
+        "DTG-001191"
+      ],
+      "golden": [
+        "U02635"
+      ]
+    },
+    {
+      "note": "G-A2000-C01-S09",
+      "pairs": [
+        "DTG-001192"
+      ],
+      "golden": [
+        "A2000-C01-S09"
+      ]
+    },
+    {
+      "note": "G-U02680",
+      "pairs": [
+        "DTG-001225"
+      ],
+      "golden": [
+        "U02680"
+      ]
+    },
+    {
+      "note": "G-U02714",
+      "pairs": [
+        "DTG-001238"
+      ],
+      "golden": [
+        "U02714"
+      ]
+    },
+    {
+      "note": "G-U02740",
+      "pairs": [
+        "DTG-001255"
+      ],
+      "golden": [
+        "U02740"
+      ]
+    },
+    {
+      "note": "G-U02885",
+      "pairs": [
+        "DTG-001331"
+      ],
+      "golden": [
+        "U02885"
+      ]
+    },
+    {
+      "note": "G-U02887",
+      "pairs": [
+        "DTG-001332",
+        "DTG-001333",
+        "DTG-001334"
+      ],
+      "golden": [
+        "U02887",
+        "U02888",
+        "U02889"
+      ]
+    },
+    {
+      "note": "G-U02888",
+      "pairs": [
+        "DTG-001333"
+      ],
+      "golden": [
+        "U02888"
+      ]
+    },
+    {
+      "note": "G-U02889",
+      "pairs": [
+        "DTG-001334"
+      ],
+      "golden": [
+        "U02889"
+      ]
+    },
+    {
+      "note": "G-U02927",
+      "pairs": [
+        "DTG-001354"
+      ],
+      "golden": [
+        "U02927"
+      ]
+    },
+    {
+      "note": "G-U03147",
+      "pairs": [
+        "DTG-001465"
+      ],
+      "golden": [
+        "U03147"
+      ]
+    },
+    {
+      "note": "G-U03240",
+      "pairs": [
+        "DTG-001519"
+      ],
+      "golden": [
+        "U03240"
+      ]
+    },
+    {
+      "note": "G-U03494",
+      "pairs": [
+        "DTG-001669"
+      ],
+      "golden": [
+        "U03494"
+      ]
+    },
+    {
+      "note": "G-C2-BOUNDARY-METADATA",
+      "pairs": [
+        "DTG-001735"
+      ],
+      "golden": [
+        "U03622"
+      ]
+    },
+    {
+      "note": "G-U03622",
+      "pairs": [
+        "DTG-001735"
+      ],
+      "golden": [
+        "U03622"
+      ]
+    },
+    {
+      "note": "G-U03673",
+      "pairs": [
+        "DTG-001767"
+      ],
+      "golden": [
+        "U03673"
+      ]
+    },
+    {
+      "note": "G-A2000-C03-S01",
+      "pairs": [
+        "DTG-001788"
+      ],
+      "golden": [
+        "A2000-C03-S01"
+      ]
+    },
+    {
+      "note": "G-U03802",
+      "pairs": [
+        "DTG-001826"
+      ],
+      "golden": [
+        "U03802"
+      ]
+    },
+    {
+      "note": "G-U03803",
+      "pairs": [
+        "DTG-001826"
+      ],
+      "golden": [
+        "U03803"
+      ]
+    },
+    {
+      "note": "G-U03851",
+      "pairs": [
+        "DTG-001850"
+      ],
+      "golden": [
+        "U03851"
+      ]
+    },
+    {
+      "note": "G-U03945",
+      "pairs": [
+        "DTG-001899"
+      ],
+      "golden": [
+        "U03945"
+      ]
+    },
+    {
+      "note": "G-U03946",
+      "pairs": [
+        "DTG-001900"
+      ],
+      "golden": [
+        "U03946"
+      ]
+    },
+    {
+      "note": "G-U03952",
+      "pairs": [
+        "DTG-001904"
+      ],
+      "golden": [
+        "U03952"
+      ]
+    },
+    {
+      "note": "G-U03953",
+      "pairs": [
+        "DTG-001904"
+      ],
+      "golden": [
+        "U03953"
+      ]
+    },
+    {
+      "note": "G-U03954",
+      "pairs": [
+        "DTG-001905"
+      ],
+      "golden": [
+        "U03954"
+      ]
+    },
+    {
+      "note": "G-U03955",
+      "pairs": [
+        "DTG-001906"
+      ],
+      "golden": [
+        "U03955"
+      ]
+    },
+    {
+      "note": "G-U03976",
+      "pairs": [
+        "DTG-001917"
+      ],
+      "golden": [
+        "U03976"
+      ]
+    },
+    {
+      "note": "G-U04305",
+      "pairs": [
+        "DTG-002088"
+      ],
+      "golden": [
+        "U04305"
+      ]
+    },
+    {
+      "note": "G-C3-TRANSITION",
+      "pairs": [
+        "DTG-002089"
+      ],
+      "golden": [
+        "C3-TRANSITION"
+      ]
+    },
+    {
+      "note": "G-U04312",
+      "pairs": [
+        "DTG-002091"
+      ],
+      "golden": [
+        "U04312"
+      ]
+    },
+    {
+      "note": "G-A2000-C04-S01",
+      "pairs": [
+        "DTG-002105"
+      ],
+      "golden": [
+        "A2000-C04-S01"
+      ]
+    },
+    {
+      "note": "G-U04519",
+      "pairs": [
+        "DTG-002195"
+      ],
+      "golden": [
+        "U04519"
+      ]
+    },
+    {
+      "note": "G-U04562",
+      "pairs": [
+        "DTG-002218"
+      ],
+      "golden": [
+        "U04562"
+      ]
+    },
+    {
+      "note": "G-U04703",
+      "pairs": [
+        "DTG-002284"
+      ],
+      "golden": [
+        "U04703"
+      ]
+    },
+    {
+      "note": "G-U04763",
+      "pairs": [
+        "DTG-002325"
+      ],
+      "golden": [
+        "U04763"
+      ]
+    },
+    {
+      "note": "G-C4-TRANSITION",
+      "pairs": [
+        "DTG-002326"
+      ],
+      "golden": [
+        "C4-TRANSITION"
+      ]
+    },
+    {
+      "note": "G-U04923",
+      "pairs": [
+        "DTG-002396"
+      ],
+      "golden": [
+        "U04923"
+      ]
+    },
+    {
+      "note": "G-U05079",
+      "pairs": [
+        "DTG-002480"
+      ],
+      "golden": [
+        "U05079"
+      ]
+    },
+    {
+      "note": "G-A2000-C05-S01",
+      "pairs": [
+        "DTG-002480"
+      ],
+      "golden": [
+        "A2000-C05-S01"
+      ]
+    },
+    {
+      "note": "G-U05094",
+      "pairs": [
+        "DTG-002486"
+      ],
+      "golden": [
+        "U05094"
+      ]
+    },
+    {
+      "note": "G-U05106",
+      "pairs": [
+        "DTG-002495"
+      ],
+      "golden": [
+        "U05106"
+      ]
+    },
+    {
+      "note": "G-U05132",
+      "pairs": [
+        "DTG-002514"
+      ],
+      "golden": [
+        "U05132"
+      ]
+    },
+    {
+      "note": "G-U05197",
+      "pairs": [
+        "DTG-002536"
+      ],
+      "golden": [
+        "U05197"
+      ]
+    },
+    {
+      "note": "G-C5-TRANSITION",
+      "pairs": [
+        "DTG-002537"
+      ],
+      "golden": [
+        "C5-TRANSITION"
+      ]
+    },
+    {
+      "note": "G-U05248",
+      "pairs": [
+        "DTG-002559"
+      ],
+      "golden": [
+        "U05248"
+      ]
+    },
+    {
+      "note": "G-U05309",
+      "pairs": [
+        "DTG-002585"
+      ],
+      "golden": [
+        "U05309"
+      ]
+    },
+    {
+      "note": "G-A2000-C06-S01",
+      "pairs": [
+        "DTG-002615"
+      ],
+      "golden": [
+        "A2000-C06-S01"
+      ]
+    },
+    {
+      "note": "G-U05398",
+      "pairs": [
+        "DTG-002624"
+      ],
+      "golden": [
+        "U05398"
+      ]
+    },
+    {
+      "note": "G-U05411",
+      "pairs": [
+        "DTG-002633"
+      ],
+      "golden": [
+        "U05411"
+      ]
+    },
+    {
+      "note": "G-U05448",
+      "pairs": [
+        "DTG-002645"
+      ],
+      "golden": [
+        "U05448"
+      ]
+    },
+    {
+      "note": "G-U05459",
+      "pairs": [
+        "DTG-002653"
+      ],
+      "golden": [
+        "U05459"
+      ]
+    },
+    {
+      "note": "G-U05460",
+      "pairs": [
+        "DTG-002654"
+      ],
+      "golden": [
+        "U05460"
+      ]
+    }
+  ],
+  "protected_input_files": 128,
+  "english_preservation": "Exact released strings; only documented regrouping/markup/editorial empty-layer markers.",
+  "semantic_retranslation": false,
+  "fresh_semantic_qc": false,
+  "local_links_checked": 681
+}
