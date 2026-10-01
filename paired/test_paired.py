@@ -2,6 +2,7 @@
 """Deterministic stdlib acceptance/corruption checks; never mutate the corpus."""
 from __future__ import annotations
 
+from collections import Counter
 import dataclasses
 import io
 import json
@@ -10,8 +11,11 @@ import re
 import sys
 import tempfile
 import unittest
+from unittest.mock import Mock, patch
 
 import core
+import structure
+import validate
 from validate import validate_texts
 
 
@@ -54,6 +58,13 @@ def swap(text, first, second):
     return text.replace(one, '\0PAIR-SWAP\0', 1).replace(two, one, 1).replace('\0PAIR-SWAP\0', two, 1)
 
 
+def source_comment(ident, rows, format):
+    """Construct corruption fixtures independently of the production renderer."""
+    return (f"<!-- pair: {ident} | golden: {' '.join(row['id'] for row in rows)}"
+            f" | roles: {' '.join(row['golden_role'] for row in rows)}"
+            f" | part: {core.part(rows[0])} | format: {format} -->")
+
+
 class PairedTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
@@ -82,7 +93,7 @@ class PairedTests(unittest.TestCase):
         source_ids = [segment.ident for segment in self.segments]
         target_ids = [segment.ident for segment in core.parse(self.translation, 'en')]
         self.assertEqual(source_ids, target_ids)
-        self.assertEqual(len(source_ids), 2660)
+        self.assertEqual(len(source_ids), 2667)
         golden = [golden for segment in self.segments for golden in segment.golden]
         self.assertEqual(golden, [row['id'] for row in self.authorities.golden['reading_sequence']])
         self.assertEqual(len(golden), 5484)
@@ -91,12 +102,17 @@ class PairedTests(unittest.TestCase):
     def test_positive_grouping_examples(self):
         # Independent, reviewed examples, not expectations rerendered by grouping().
         expected = [
-            ['U00315', 'U00316', 'U00317', 'U00318'],
+            ['U00315', 'U00316'],
+            ['U00317', 'U00318'],
             ['U01191', 'U01192'],
             ['U01193', 'U01194', 'U01195', 'U01196'],
             ['U01880', 'U01881', 'U01882', 'A2000-C01-S02', 'U01883', 'U01884'],
-            ['U02488', 'U02489', 'SCAN-CH1-LAYER-02489', 'U02490', 'U02491', 'U02492'],
-            ['U02613', 'U02614', 'U02615', 'U02616'],
+            ['U02488', 'U02489'],
+            ['SCAN-CH1-LAYER-02489'],
+            ['U02490', 'U02491', 'U02492'],
+            ['U02613', 'U02614'],
+            ['U02615'],
+            ['U02616'],
             ['A2000-C03-S01', 'U03716'],
             ['U01449', 'U01450', 'U01451', 'U01452', 'U01453'],
             ['U01899', 'U01900'],
@@ -110,7 +126,7 @@ class PairedTests(unittest.TestCase):
         self.assertEqual(self.owners['U02743'].golden, ['U02743'])
         self.assertEqual(self.owners['U00317'].roles[-2:],
                          ['source_annotation_anchor', 'source_annotation_anchor'])
-        self.assertEqual(self.owners['U02488'].roles[2], 'source_heading')
+        self.assertEqual(self.owners['SCAN-CH1-LAYER-02489'].roles[0], 'source_heading')
         self.assertEqual(self.owners['U01880'].roles[3], 'restored_main_text')
 
     def test_positive_false_terminal_notices(self):
@@ -120,6 +136,128 @@ class PairedTests(unittest.TestCase):
                 self.assertFalse(core.ends_sentence(row['english']))
         row = next(row for row in self.authorities.english['reading_sequence'] if row['id'] == 'U02743')
         self.assertTrue(core.ends_sentence(row['english']))
+
+    def test_positive_structural_formats(self):
+        examples = {'U00005': 'prose', 'U00013': 'verse', 'U00004': 'h1', 'U00011': 'h3'}
+        for golden, expected in examples.items():
+            with self.subTest(golden=golden):
+                self.assertEqual(self.owners[golden].format, expected)
+        counts = Counter(segment.format for segment in self.segments)
+        self.assertEqual({name: counts[name] for name in ('prose', 'verse', 'h1', 'h2', 'h3')},
+                         {'prose': 48, 'verse': 2448, 'h1': 2, 'h2': 0, 'h3': 169})
+        manifest = validate_texts(self.source, self.translation, self.authorities)
+        for name in ('prose', 'verse', 'h1', 'h2', 'h3'):
+            self.assertEqual(manifest['counts'][name + '_pairs'], counts[name])
+        self.assertEqual(structure.KANAVA, {
+            'prose': {'type': 'prose', 'initial_formatting': 'body'},
+            'verse': {'type': 'verse', 'initial_formatting': 'body'},
+            'h1': {'type': 'prose', 'initial_formatting': 'h1'},
+            'h2': {'type': 'prose', 'initial_formatting': 'h2'},
+            'h3': {'type': 'prose', 'initial_formatting': 'h3'},
+        })
+
+    def test_positive_translation_inherits_formats(self):
+        for match in core.PAIR_RE.finditer(self.translation):
+            self.assertEqual(match[2], '', match[1])
+        self.assertEqual([segment.ident for segment in core.parse(self.translation, 'en')],
+                         [segment.ident for segment in self.segments])
+
+    def test_positive_complete_v1_v2_lineage(self):
+        audit = json.loads((core.HERE / 'v2/PAIR-AUDIT.json').read_text(encoding='utf-8'))
+        lineage = audit['lineage']
+        baseline = structure.baseline_pairs()
+        self.assertEqual(len(lineage), 2660)
+        self.assertEqual([entry['v1'] for entry in lineage], [row['id'] for row in baseline])
+        self.assertEqual([entry['v1_golden'] for entry in lineage], [row['golden'] for row in baseline])
+        children = [child for entry in lineage for child in entry['v2']]
+        self.assertEqual([(row['id'], row['golden'], row['format']) for row in children],
+                         [(segment.ident, segment.golden, segment.format) for segment in self.segments])
+        changed = {entry['v1']: [(child['id'], child['format'], child['golden'])
+                               for child in entry['v2']]
+                   for entry in lineage if entry['membership_changed']}
+        self.assertEqual(changed, {
+            'DTG-000010': [('DTG-002661', 'prose', ['U00012']),
+                           ('DTG-002662', 'verse', ['U00013', 'U00014', 'U00015', 'U00016', 'U00017'])],
+            'DTG-000017': [('DTG-002663', 'prose', ['U00030']),
+                           ('DTG-002664', 'verse', ['U00031', 'U00032'])],
+            'DTG-000165': [('DTG-002665', 'verse', ['U00315', 'U00316']),
+                           ('DTG-002666', 'prose', ['U00317', 'U00318'])],
+            'DTG-001124': [('DTG-002667', 'verse', ['U02488', 'U02489']),
+                           ('DTG-002668', 'h3', ['SCAN-CH1-LAYER-02489']),
+                           ('DTG-002669', 'verse', ['U02490', 'U02491', 'U02492'])],
+            'DTG-001185': [('DTG-002670', 'verse', ['U02613', 'U02614']),
+                           ('DTG-002671', 'prose', ['U02615']),
+                           ('DTG-002672', 'verse', ['U02616'])],
+        })
+        current_ids = {segment.ident for segment in self.segments}
+        self.assertTrue(set(changed).isdisjoint(current_ids))
+        unchanged = [entry for entry in lineage if not entry['membership_changed']]
+        self.assertEqual(len(unchanged), 2655)
+        for entry in unchanged:
+            self.assertEqual(len(entry['v2']), 1)
+            self.assertEqual(entry['v2'][0]['id'], entry['v1'])
+            self.assertEqual(entry['v2'][0]['golden'], entry['v1_golden'])
+        self.assertEqual([child['id'] for entry in lineage if entry['membership_changed']
+                          for child in entry['v2']], [f'DTG-{number:06d}' for number in range(2661, 2673)])
+        self.assertNotEqual([segment.ident for segment in self.segments], sorted(current_ids))
+
+    def test_reject_missing_format(self):
+        self.reject(source=self.source_change('U00005', ' | format: prose', ''),
+                    reason=r'(?i)format|metadata')
+
+    def test_reject_unsupported_format(self):
+        self.reject(source=self.source_change('U00005', 'format: prose', 'format: stanza'),
+                    reason=r'(?i)format')
+
+    def test_reject_duplicate_source_format(self):
+        self.reject(source=self.source_change('U00005', 'format: prose', 'format: prose | format: verse'),
+                    reason=r'(?i)format|metadata')
+
+    def test_reject_format_only_on_english(self):
+        ident = self.owners['U00005'].ident
+        source = self.source_change('U00005', ' | format: prose', '')
+        translation = replace_block(self.translation, ident,
+                                    lambda text: text.replace(' -->', ' | format: prose -->', 1))
+        self.reject(source, translation, reason=r'(?i)format|metadata')
+
+    def test_reject_format_duplicated_on_english(self):
+        ident = self.owners['U00005'].ident
+        translation = replace_block(self.translation, ident,
+                                    lambda text: text.replace(' -->', ' | format: prose -->', 1))
+        self.reject(translation=translation, reason=r'(?i)format|metadata')
+
+    def test_reject_multiple_english_format_fields(self):
+        ident = self.owners['U00005'].ident
+        translation = replace_block(self.translation, ident,
+                    lambda text: text.replace(' -->', ' | format: prose | format: prose -->', 1))
+        self.reject(translation=translation, reason=r'(?i)format|metadata')
+
+    def test_reject_all_format_metadata_lost(self):
+        self.reject(source=re.sub(r' \| format: (?:prose|verse|h1|h2|h3)', '', self.source),
+                    reason=r'(?i)format|metadata')
+
+    def test_reject_format_changed(self):
+        self.reject(source=self.source_change('U00013', 'format: verse', 'format: prose'),
+                    reason=r'(?i)format')
+
+    def test_reject_heading_rank_changed(self):
+        self.reject(source=self.source_change('U00011', 'format: h3', 'format: h2'),
+                    reason=r'(?i)format')
+
+    def test_reject_rejoined_mixed_format_pair(self):
+        # Restore the former prose+verse pair without losing or changing source words.
+        rows = {row['id']: row for row in self.authorities.english['reading_sequence']}
+        first, second = self.owners['U00012'].ident, self.owners['U00013'].ident
+        membership = self.owners['U00012'].golden + self.owners['U00013'].golden
+        selected = [rows[golden] for golden in membership]
+        source = replace_block(self.source, first, lambda _:
+                               source_comment(first, selected, 'prose') + '\n' +
+                               core.source_payload(selected) + '\n<!-- /pair -->')
+        translation = replace_payload(self.translation, first, lambda _: core.english_payload(selected))
+        source, translation = drop(source, second), drop(translation, second)
+        self.assertEqual([golden for segment in core.parse(source, 'bo') for golden in segment.golden],
+                         [golden for segment in self.segments for golden in segment.golden])
+        self.reject(source, translation, reason=r'(?i)format boundary')
 
     def test_reject_missing_source_pair(self):
         self.reject(source=drop(self.source, 'DTG-000002'), reason=r'(?i)pair')
@@ -200,7 +338,7 @@ class PairedTests(unittest.TestCase):
                     'translation-edition: translation-golden-aligned-v2.0.0', 1), reason=r'(?i)front matter|edition|pin')
 
     def test_reject_wrong_paired_edition(self):
-        self.reject(source=self.source.replace(core.EDITION, 'dra-thal-gyur-paired-v2.0.0', 1),
+        self.reject(source=self.source.replace(core.EDITION, 'dra-thal-gyur-paired-v3.0.0', 1),
                     reason=r'(?i)front matter|edition|pin')
 
     def test_reject_dropped_restored_object(self):
@@ -300,13 +438,73 @@ class PairedTests(unittest.TestCase):
         for ident, membership in [(before, ['U00007']), (after, ['U00008', 'U00009', 'U00010'])]:
             selected = [rows[golden] for golden in membership]
             source = replace_block(source, ident, lambda _, selected=selected, ident=ident:
-                                   core.pair_comment(ident, selected, 'bo') + '\n' +
+                                   source_comment(ident, selected, self.owners[selected[0]['id']].format) + '\n' +
                                    core.source_payload(selected) + '\n<!-- /pair -->')
             translation = replace_payload(translation, ident, lambda _, selected=selected:
                                           core.english_payload(selected))
         self.assertEqual([golden for segment in core.parse(source, 'bo') for golden in segment.golden],
                          [golden for segment in self.segments for golden in segment.golden])
         self.reject(source, translation, reason=r'(?i)identity|membership|segment|stable')
+
+    def test_positive_accepted_final_signoff(self):
+        binding = {'edition': core.EDITION, 'input_sha256': {'fixture.txt': core.sha(b'fixture')}}
+        record = {'status': 'accepted', 'binding': binding, 'blocking_findings': 0,
+                  'fresh_semantic_qc': False}
+        with patch.object(validate, 'signoff_binding', return_value=binding):
+            self.assertIsNone(validate.validate_signoff({}, record))
+
+    def test_reject_missing_final_signoff_file(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            (root / 'paired').mkdir()
+            (root / 'paired/source.md').write_text(self.source, encoding='utf-8')
+            (root / 'paired/translation.md').write_text(self.translation, encoding='utf-8')
+            # Isolate the filesystem gate from Git and linked-evidence setup;
+            # real pair/content validation still runs against the pinned corpus.
+            with patch.multiple(validate, check_tags=Mock(), check_protected=Mock(),
+                                check_links=Mock(return_value=0),
+                                load_authorities=Mock(return_value=self.authorities)):
+                with self.assertRaisesRegex(ValueError, 'requires saved signoff') as caught:
+                    validate.validate_repo(root=root, require_final=True)
+            REJECTIONS[self._testMethodName] = str(caught.exception)
+
+    def test_reject_unaccepted_final_signoff(self):
+        with self.assertRaisesRegex(ValueError, 'requires accepted signoff') as caught:
+            validate.validate_signoff({}, {'status': 'pending'})
+        REJECTIONS[self._testMethodName] = str(caught.exception)
+
+    def test_reject_stale_final_signoff(self):
+        report = {'counts': {'total_pairs': 2667}, 'pins': core.PINS,
+                  'identity_sha256': 'fixture-identity', 'format_sha256': 'fixture-format'}
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            (root / 'fixture.txt').write_bytes(b'reviewed content')
+            with patch.object(validate, 'SIGNOFF_FILES', ['fixture.txt']):
+                record = {'status': 'accepted', 'binding': validate.signoff_binding(report, root),
+                          'blocking_findings': 0, 'fresh_semantic_qc': False}
+                validate.validate_signoff(report, record, root)
+                (root / 'fixture.txt').write_bytes(b'changed after review')
+                with self.assertRaisesRegex(ValueError, 'signoff is stale') as caught:
+                    validate.validate_signoff(report, record, root)
+            REJECTIONS[self._testMethodName] = str(caught.exception)
+
+    def test_reject_blocking_final_review(self):
+        binding = {'edition': core.EDITION}
+        record = {'status': 'accepted', 'binding': binding, 'blocking_findings': 1,
+                  'fresh_semantic_qc': False}
+        with patch.object(validate, 'signoff_binding', return_value=binding):
+            with self.assertRaisesRegex(ValueError, 'Blocking final-review findings') as caught:
+                validate.validate_signoff({}, record)
+        REJECTIONS[self._testMethodName] = str(caught.exception)
+
+    def test_reject_semantic_qc_claim_in_signoff(self):
+        binding = {'edition': core.EDITION}
+        record = {'status': 'accepted', 'binding': binding, 'blocking_findings': 0,
+                  'fresh_semantic_qc': True}
+        with patch.object(validate, 'signoff_binding', return_value=binding):
+            with self.assertRaisesRegex(ValueError, 'Unsupported semantic QC claim') as caught:
+                validate.validate_signoff({}, record)
+        REJECTIONS[self._testMethodName] = str(caught.exception)
 
     def test_reject_changed_protected_file(self):
         with tempfile.TemporaryDirectory() as temporary:
@@ -330,10 +528,14 @@ def main():
     names = [test._testMethodName for test in suite]
     stream = io.StringIO()
     result = unittest.TextTestRunner(stream=stream, verbosity=2).run(suite)
-    failed = {test._testMethodName: detail for test, detail in result.failures + result.errors
-              if hasattr(test, '_testMethodName')}
+    failed = {}
+    for test, detail in result.failures + result.errors:
+        parent = getattr(test, 'test_case', test)
+        if hasattr(parent, '_testMethodName'):
+            failed[parent._testMethodName] = detail
     report = {
-        'schema': 'paired-negative-tests/1',
+        'schema': 'paired-negative-tests/2',
+        'paired_edition': core.EDITION,
         'status': 'pass' if result.wasSuccessful() else 'fail',
         'tests_run': result.testsRun,
         'positive_tests': sum(name.startswith('test_positive_') for name in names),
@@ -341,7 +543,7 @@ def main():
         'failures': len(result.failures),
         'errors': len(result.errors),
         'checks': [{'name': name.removeprefix('test_'),
-                    'status': 'fail' if name in failed else 'pass',
+                    'status': 'not-run' if result.testsRun == 0 else 'fail' if name in failed else 'pass',
                     **({'rejection': REJECTIONS[name]} if name in REJECTIONS else {}),
                     **({'detail': failed[name]} if name in failed else {})} for name in names],
     }

@@ -1,4 +1,50 @@
-# Paired-text migration — issue #2
+# Paired-text/2 migration — issue #4
+
+V2 adds one required source-only `format` field and releases the distinct edition
+`dra-thal-gyur-paired-v2.0.0`. English inherits the format through the shared ID.
+The source words, English words, golden roles and release pins are unchanged.
+
+All 2,660 baseline pairs at `aae8883b13ff0f23da2603aecc12a64a15ffe25b` were
+audited before canonical changes. Source-based decisions and their integration
+rationale are in [STRUCTURE-DECISIONS.json](v2/STRUCTURE-DECISIONS.json); the
+complete v1 → v2 record, including all unchanged pairs, is the generated
+[PAIR-AUDIT.json](v2/PAIR-AUDIT.json). It is supporting lineage, not a third
+canonical content/alignment authority.
+
+| Retired v1 ID | New v2 IDs in source order | Structural boundary |
+| --- | --- | --- |
+| DTG-000010 | DTG-002661, DTG-002662 | prose hearing formula / verse |
+| DTG-000017 | DTG-002663, DTG-002664 | prose hearing formula / verse |
+| DTG-000165 | DTG-002665, DTG-002666 | verse / empty source-annotation carriers |
+| DTG-001124 | DTG-002667, DTG-002668, DTG-002669 | verse / h3 heading / verse |
+| DTG-001185 | DTG-002670, DTG-002671, DTG-002672 | verse / empty source-annotation carrier / verse |
+
+All 2,655 other pair IDs retain their exact memberships. No old changed identity
+is reused, no golden object is split and no pair crosses a format boundary.
+The 2,667 resulting pairs are 48 prose, 2,448 verse, 2 h1, 0 h2 and 169 h3.
+Existing chapter wrappers remain h2 outside the pairs; closing is not chapter 7.
+
+Structural form is determined from Tibetan and editorial source structure,
+never English punctuation. The two title-leaf headings differ from embedded
+opening naming formulas. Each source-heading class was reviewed before retaining
+its common chapter-internal h3 rank; different words do not invent another level.
+The moderate-confidence narrative-formula and closing-paratext dispositions are
+explicit presentation decisions, not claims of settled historical poetic genre.
+
+The exact-source join and English markup conventions below remain unchanged.
+All 173 reconciliation footnotes retain their bodies; only pair backlinks change
+where a containing v1 pair split. All 340 legacy IDs/4,932 object-note relations,
+65 annotations, 23 restored verses and 18 closing anchors survive. There is no
+fresh semantic QC claim. The v1 account below remains historical provenance.
+
+Audit checkpoints on remote main: `43825d4` (scope/template), `a3181ae`
+(heading and Chapter 1 evidence), `e9ebdd6` (complete audit/decisions/lineage).
+The final review and hash-bound signoff precede the annotated tag; its verified
+object/peeled commit are recorded afterward in v2/PUBLICATION.json on main.
+
+---
+
+# Historical paired-text/1 migration — issue #2
 
 Status: implementation complete; branch publication and pull-request verification
 are recorded below. No new Git release tag is created by this migration.

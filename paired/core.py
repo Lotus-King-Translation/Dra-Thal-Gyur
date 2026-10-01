@@ -1,4 +1,4 @@
-"""paired-text/1 grammar and pinned, read-only migration support (stdlib only)."""
+"""paired-text/2 grammar and pinned, read-only migration support (stdlib only)."""
 from __future__ import annotations
 
 import hashlib
@@ -8,6 +8,7 @@ import re
 import subprocess
 from dataclasses import dataclass
 from pathlib import Path
+from structure import FORMATS, decisions, derive_pairs
 
 ROOT = Path(__file__).resolve().parents[1]
 HERE = ROOT / 'paired'
@@ -16,7 +17,7 @@ ENGLISH = 'translations/2026-10-01-golden-aligned'
 REVIEW = 'translations/2026-09-26-full-draft/golden-review'
 SOURCE_TAG = 'root-tantra-v1.0.0'
 TRANSLATION_TAG = 'translation-golden-aligned-v1.0.0'
-EDITION = 'dra-thal-gyur-paired-v1.0.0'
+EDITION = 'dra-thal-gyur-paired-v2.0.0'
 PINS = {
     SOURCE_TAG: ('97379615d268149eee768c9c1ec99b7be2f993b4',
                  'b83051912977268b97615bd382d82e51c3406d61'),
@@ -122,36 +123,26 @@ def ends_sentence(english):
 
 
 def grouping(authorities):
-    """Initial migration only: contiguous sentence blocks, with explicit layers."""
-    rows = authorities.english['reading_sequence']
-    groups, current = [], []
+    """Split the pinned v1 pairs only at audited Tibetan structural boundaries."""
+    specs, _ = derive_pairs(authorities.golden['reading_sequence'])
+    by_id = {row['id']: row for row in authorities.english['reading_sequence']}
+    return [[by_id[ident] for ident in spec['golden']] for spec in specs]
 
-    def flush():
-        if current:
-            groups.append(current.copy())
-            current.clear()
 
-    for row in rows:
-        role = row['golden_role']
-        if current and part(current[-1]) != part(row):
-            flush()
-        # This heading interrupts an inherited sentence; keep its role visible.
-        barrier = role in BARRIERS and row['id'] != 'SCAN-CH1-LAYER-02489'
-        if barrier or row['id'] in {'U00001', 'U00003'}:
-            flush()
-            groups.append([row])
-            continue
-        if role in EMPTY_ROLES:
-            if current:
-                current.append(row)
-            else:
-                groups.append([row])
-            continue
-        current.append(row)
-        if ends_sentence(row['english']):
-            flush()
-    flush()
-    return groups
+def group_specs(authorities):
+    specs, _ = derive_pairs(authorities.golden['reading_sequence'])
+    return {tuple(spec['golden']): spec for spec in specs}
+
+
+def group_spec(rows, specs):
+    key = tuple(row['id'] for row in rows)
+    require(key in specs, 'Unrecorded v2 pair membership')
+    return specs[key]
+
+
+def row_format(row, data):
+    override = data['object_overrides'].get(row['id'])
+    return override['format'] if override else data['role_formats'][row['golden_role']]
 
 
 def rebase_links(text, from_file):
@@ -199,20 +190,27 @@ def english_payload(rows):
 
 
 def frontmatter(language):
-    common = {'schema': 'paired-text/1', 'text-id': 'dra-thal-gyur',
+    common = {'schema': 'paired-text/2', 'text-id': 'dra-thal-gyur',
               'paired-edition': EDITION, 'source-edition': SOURCE_TAG}
+    if language == 'bo':
+        common['edition'] = SOURCE_TAG
     if language == 'en':
         common['translation-edition'] = TRANSLATION_TAG
     common['language'] = language
     return '---\n' + ''.join(f'{k}: {v}\n' for k, v in common.items()) + '---\n'
 
 
-def pair_comment(ident, rows, language):
+def pair_comment(ident, rows, language, format_value=None):
     if language == 'en':
         return f'<!-- pair: {ident} -->'
     ids = ' '.join(row['id'] for row in rows)
     roles = ' '.join(row['golden_role'] for row in rows)
-    return f'<!-- pair: {ident} | golden: {ids} | roles: {roles} | part: {part(rows[0])} -->'
+    if format_value is None:
+        data = decisions()
+        formats = {row_format(row, data) for row in rows}
+        require(len(formats) == 1, 'Pair crosses a format boundary')
+        format_value = formats.pop()
+    return f'<!-- pair: {ident} | golden: {ids} | roles: {roles} | part: {part(rows[0])} | format: {format_value} -->'
 
 
 def preamble(language):
@@ -221,10 +219,12 @@ def preamble(language):
 
 def note_footer(authorities, groups):
     owners = {}
-    for index, rows in enumerate(groups, 1):
+    specs = group_specs(authorities)
+    for rows in groups:
+        ident = group_spec(rows, specs)['id']
         for row in rows:
             for note in row['endnote_ids']:
-                owners.setdefault(note, {}).setdefault(f'DTG-{index:06d}', []).append(row['id'])
+                owners.setdefault(note, {}).setdefault(ident, []).append(row['id'])
     notes = rebase_links(authorities.footnotes, ENGLISH + '/Dra-Thal-Gyur-English.md').rstrip('\n')
     blocks = re.split(r'(?=^\[\^G-[^\]]+\]: )', notes, flags=re.M)
     out = []
@@ -241,15 +241,17 @@ def note_footer(authorities, groups):
 def render(authorities, groups, language):
     out = preamble(language)
     current = None
-    for index, rows in enumerate(groups, 1):
+    specs = group_specs(authorities)
+    for rows in groups:
         this_part = part(rows[0])
         if this_part != current:
             current = this_part
             out += '\n## ' + TITLES[PARTS.index(current)] + '\n'
-        ident = f'DTG-{index:06d}'
+        spec = group_spec(rows, specs)
+        ident = spec['id']
         out += f'\n<a id="{ident.lower()}"></a>\n\n'
         payload = source_payload(rows) if language == 'bo' else english_payload(rows)
-        out += pair_comment(ident, rows, language) + '\n' + payload + '\n<!-- /pair -->\n'
+        out += pair_comment(ident, rows, language, spec['format']) + '\n' + payload + '\n<!-- /pair -->\n'
     if language == 'en':
         out += note_footer(authorities, groups)
     return out
@@ -262,6 +264,7 @@ class Segment:
     roles: list[str]
     part: str
     text: str
+    format: str = ''
 
 
 def parse(text, language):
@@ -274,10 +277,10 @@ def parse(text, language):
     for match in matches:
         ident, metadata, payload = match.groups()
         if language == 'bo':
-            m = re.fullmatch(r' \| golden: ([A-Za-z0-9 -]+) \| roles: ([a-z_ ]+) \| part: ([a-z0-9-]+)', metadata)
-            require(m is not None, 'Malformed source metadata: ' + ident)
-            golden, roles, section = m.groups()
-            result.append(Segment(ident, golden.split(), roles.split(), section, payload))
+            m = re.fullmatch(r' \| golden: ([A-Za-z0-9 -]+) \| roles: ([a-z_ ]+) \| part: ([a-z0-9-]+) \| format: (prose|verse|h1|h2|h3)', metadata)
+            require(m is not None, 'Missing, duplicated, unsupported or malformed source format/metadata: ' + ident)
+            golden, roles, section, format_value = m.groups()
+            result.append(Segment(ident, golden.split(), roles.split(), section, payload, format_value))
         else:
             require(metadata == '', 'Unexpected translation metadata: ' + ident)
             result.append(Segment(ident, [], [], '', payload))

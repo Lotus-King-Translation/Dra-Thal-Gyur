@@ -77,3 +77,24 @@ Treat preserved originals, transcript-derived replays, partial templates, and ne
 Authored continuation metadata belongs in `diplomatic/CONTINUATION.json`; `STATUS.json`, the chapter Markdown, and generated collation outputs are rebuilt from curated inputs. Do not hand-edit generated output or execute archived recovery scripts. Run read-only validation before regeneration. Never treat a mechanical pass as a completed chapter.
 
 The coordinator records each task's exact page/anchor coverage, dispositions, remaining uncertainties and evidence paths, then commits and verifies the remote checkpoint before the next substantial batch. Use `diplomatic/tools/checkpoint.py` after reviewing and staging all pending project work; follow the connector fallback in HANDOFF if shell authentication fails. A local commit, task message, or uploaded blob is not remote preservation. Do not end a turn with unpublished project changes.
+
+
+## Paired-text publication and continuation
+
+The paired publication uses `paired-text/2`; begin at [paired/HANDOFF.md](paired/HANDOFF.md)
+and read its README, migration, source-based structural decisions, full v1-to-v2
+lineage, final signoff and publication receipt. Exactly two files are canonical
+paired content: `paired/source.md` and `paired/translation.md`.
+
+Every source pair declares one `format: prose|verse|h1|h2|h3`; English inherits
+it by shared ID. Preserve source order, exact golden strings, inherited English
+and all notes. Never classify structure from English punctuation or silently
+cross format boundaries. Tagged formats and membership are immutable; later
+membership changes require a new paired edition with explicit lineage.
+
+Run the paired validator, corruption tests and reproducibility checks before
+publication. A release requires hash-bound final signoff, a new annotated tag,
+verified remote tag object and peeled commit, then a receipt committed on main.
+Do not move the tag after the receipt. Fixed source/translation releases remain
+unchanged; this workflow does not reopen diplomatic research or claim fresh
+semantic QC.

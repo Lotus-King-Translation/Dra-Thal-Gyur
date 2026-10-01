@@ -3,7 +3,8 @@
 import argparse
 import sys
 sys.dont_write_bytecode = True
-from core import HERE, js, require
+from core import HERE, js, require, load_authorities
+from structure import audit_report
 from validate import validate_repo
 
 
@@ -12,7 +13,8 @@ def main():
     parser.add_argument('--check', action='store_true')
     args = parser.parse_args()
     report = validate_repo()
-    outputs = {'MANIFEST.json': js(report)}
+    outputs = {'MANIFEST.json': js(report),
+               'v2/PAIR-AUDIT.json': js(audit_report(load_authorities().golden['reading_sequence']))}
     for name, text in outputs.items():
         path = HERE / name
         if args.check:

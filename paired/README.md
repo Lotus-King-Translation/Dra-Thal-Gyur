@@ -1,82 +1,93 @@
-# Paired Tibetan and English — paired-text/1
+# Paired Tibetan and English — paired-text/2
 
-[Source](source.md) · [Translation](translation.md) · [Provenance](MIGRATION.md)
+[Source](source.md) · [Translation](translation.md) · [Manifest](MANIFEST.json)
+· [Migration and lineage](MIGRATION.md) · [Handoff](HANDOFF.md)
 
-2,660 pairs cover all 5,484 golden objects, with 23 restored verses,
-173 reconciliation endnotes and 18 closing anchors. [Coverage](MANIFEST.json).
+**Edition:** `dra-thal-gyur-paired-v2.0.0`. Exactly two canonical content files:
+`source.md` and `translation.md`. Code, decisions, audits and JSON reports are
+supporting material. The immutable source/English releases govern wording.
 
-`source.md` and `translation.md` are the only canonical paired content files.
-Python helpers and generated reports support them; they are not editorial authorities.
-The immutable input editions remain authoritative for this migration's wording.
+| Pairs | prose | verse | h1 | h2 | h3 | Golden objects |
+| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| 2,667 | 48 | 2,448 | 2 | 0 | 169 | 5,484 |
 
-## Format
+All 23 restored verses, 173 reconciliation endnotes, 340 earlier-note IDs,
+65 source-annotation components and 18 closing anchors remain represented.
 
-UTF-8, LF, minimal `key: value` front matter, followed by ordinary Markdown.
-Both files declare `schema: paired-text/1`, `text-id: dra-thal-gyur`,
-`paired-edition: dra-thal-gyur-paired-v1.0.0`, and
-`source-edition: root-tantra-v1.0.0`. The English file also declares
-`translation-edition: translation-golden-aligned-v1.0.0`; languages are `bo`/`en`.
+## Format and rendering
+
+UTF-8, LF, `schema: paired-text/2`, `text-id: dra-thal-gyur`, and
+`paired-edition: dra-thal-gyur-paired-v2.0.0` occur in both front matters.
+The source declares `edition: root-tantra-v1.0.0`; both files also declare
+`source-edition: root-tantra-v1.0.0`. English declares
+`translation-edition: translation-golden-aligned-v1.0.0`. Languages are `bo`/`en`.
 
 ```markdown
-<!-- pair: DTG-000001 | golden: U00001 | roles: opening_title_or_sign | part: chapter-01 -->
-༅།
+<!-- pair: DTG-000839 | golden: U01880 U01881 U01882 A2000-C01-S02 U01883 U01884 | roles: main_text main_text main_text restored_main_text main_text main_text | part: chapter-01 | format: verse -->
+[exact Tibetan payload]
 <!-- /pair -->
 ```
 
-The English opening comment is simply `<!-- pair: DTG-000001 -->`.
-Each shared pair ID is defined once per side, in the same order; note links
-may reference it repeatedly.
-`golden` and `roles` are space-separated, positionally aligned lists; `part`
-is `chapter-01` through `chapter-06` or `closing-material`. Roles retain the
-released values, including mixed-role pairs. IDs do not depend on headings.
-Explicit lowercase HTML anchors make pair links work in rendered Markdown.
+The English opening comment is only `<!-- pair: DTG-000839 -->`.
+Each pair is defined once per file, in identical source order. Note links may
+reference it repeatedly. Source `golden` and `roles` lists align positionally;
+`part` is `chapter-01` through `chapter-06`, or `closing-material`.
+Exactly one **source-only** `format` is required; English inherits it by ID.
+
+| format | Kanava type | initial_formatting |
+| --- | --- | --- |
+| prose | prose | body |
+| verse | verse | body |
+| h1 | prose | h1 |
+| h2 | prose | h2 |
+| h3 | prose | h3 |
+
+The two title-leaf headings are h1; all 169 individually audited chapter-internal
+rubrics are h3. The existing six chapter wrappers and separate closing wrapper
+remain Markdown h2 outside pairs; no h2 golden object is invented. Naming formulas
+inside the opening are prose, not repeated section headings. Neutral prose
+carries empty/graphic editorial objects without claiming their unknown genre.
+[The structural decisions](v2/STRUCTURE-DECISIONS.json) retain the evidence and
+confidence limits for narrative formulas, captions and closing paratext.
 
 Payload is everything after the opening comment's LF and before the LF
-preceding `<!-- /pair -->`. The source payload is the exact selected strings
-joined by **one LF**, including original whitespace, internal LFs and empty
-strings. Do not trim, normalize Unicode, or add hard-break spaces to it.
-Empty source strings are represented by their golden ID and explicit role.
-English empty annotation/joined strings receive disclosed editorial markers;
-no additional translated root text is invented.
+preceding `<!-- /pair -->`. Tibetan payloads are the exact selected strings
+joined by one LF, including original whitespace, internal LFs and empty strings.
+Do not trim, normalize Unicode or insert display markup into them. A renderer
+uses `format` to choose body/verse/heading presentation, preserving verse line
+breaks. Neither golden objects nor restored blocks are subdivided.
 
-English words, punctuation and order remain unchanged. `[N-*]` tokens become
-links to preserved earlier notes; paragraph separators, explicit empty-layer
-markers and attached note references are presentation additions. Every pair
-also links the union of its machine-recorded earlier-note IDs. Reconciliation
-footnotes are carried in full in `translation.md`, with rebased relative links
-and pair backlinks that retain the underlying golden IDs. Source annotations,
-uncertainties, prior scan records and boundary metadata remain in those notes
-and their preserved linked evidence.
+English words, punctuation and order remain unchanged. Presentation adds legacy
+note links, explicit empty-layer markers, attached reconciliation references and
+pair backlinks. Full endnotes remain in `translation.md`; underlying golden IDs,
+annotations, uncertainties and earlier records stay reachable.
 
-## Segmentation and identity
+## Identity and lineage
 
-Initial migration groups adjacent objects through the inherited English's
-sentence-ending punctuation; semicolons, colons, dashes and comma continuations
-stay together. Trailing note tokens and the known bracketed editorial/number
-notices do not manufacture sentence endings. Restored blocks are never split.
-Source headings, graphics, captions and ornamental signs normally form separate
-pairs. Empty source layers inside a sentence remain within its mixed-role pair.
-The heading `SCAN-CH1-LAYER-02489` interrupts a sentence and remains inside that
-pair; `U00315–U00318` is an introduction ending in a colon before “First reply”.
-No group crosses a chapter/closing boundary.
+V1 is pinned at `aae8883b13ff0f23da2603aecc12a64a15ffe25b`. Its complete
+2,660-pair audit and v1-to-v2 lineage are in [PAIR-AUDIT.json](v2/PAIR-AUDIT.json).
+Five pairs split at source-based format changes. Their old IDs retire; twelve
+new children use DTG-002661–DTG-002672. All 2,655 unaffected IDs/memberships
+remain unchanged. Numeric ID order is not source order; file order is authoritative.
+A sentence may continue across structural boundaries. Do not move a heading
+or combine prose/verse to conceal that continuation.
 
-These are translation units derived from existing syntax, not new semantic QC.
-The published ID-to-object membership is fixed. Changed segmentation requires
-a new paired edition with explicit old/new ID lineage; never rerun numbering
-silently. A later translation revision must identify its pinned source edition.
+Tagged membership and formats are immutable. Later changes require a new paired
+edition, explicit lineage where membership changes, and a new final gate.
+No source or translation accuracy certification follows from these checks.
 
-## Commands
-
-Run from the repository root with Python 3.11+ and the fixed Git tags available:
+## Validation and publication
 
 ```sh
-python3 -B paired/validate.py
+python3 -B paired/validate.py --require-final
 python3 -B paired/test_paired.py
 python3 -B paired/migrate.py --check
 python3 -B paired/project.py --check
 ```
 
-`migrate.py --initialize` is the one-time importer and refuses to overwrite
-existing canonical files. `project.py` reads the canonical Markdown, validates
-it, and writes only generated coverage/provenance reports. No third content
-file or source/target alignment table is required to edit or consume a pair.
+`migrate.py --upgrade-v2` accepts only the exact v1 canonical baseline;
+`--initialize` refuses existing canonical files. Neither silently overwrites
+edits. `project.py` validates canonical Markdown before generating the manifest
+and full audit/lineage. `--require-final` demands saved hash-bound signoff.
+The annotated tag is fixed before its verified publication receipt is committed
+on main; the receipt must never move that tag. See [handoff](HANDOFF.md).

@@ -1,7 +1,7 @@
 ---
-schema: paired-text/1
+schema: paired-text/2
 text-id: dra-thal-gyur
-paired-edition: dra-thal-gyur-paired-v1.0.0
+paired-edition: dra-thal-gyur-paired-v2.0.0
 source-edition: root-tantra-v1.0.0
 translation-edition: translation-golden-aligned-v1.0.0
 language: en
@@ -90,10 +90,15 @@ glorious Samantabhadra, I pay homage.
 Earlier notes: [N-016](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-016).
 <!-- /pair -->
 
-<a id="dtg-000010"></a>
+<a id="dtg-002661"></a>
 
-<!-- pair: DTG-000010 -->
+<!-- pair: DTG-002661 -->
 Thus did I hear at one time:
+<!-- /pair -->
+
+<a id="dtg-002662"></a>
+
+<!-- pair: DTG-002662 -->
 At the beginning of samsara and what is beyond it,
 from the naturally arisen and unmade,
 there appeared an aggregate of gathered elements:
@@ -157,14 +162,19 @@ All is naturally arising primordial knowing.
 Earlier notes: [N-016](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-016).
 <!-- /pair -->
 
-<a id="dtg-000017"></a>
+<a id="dtg-002663"></a>
 
-<!-- pair: DTG-000017 -->
+<!-- pair: DTG-002663 -->
 Thus did I hear at one time:
-Endowed with Joy, Heaped with Merit—
-the earliest realm of beings. [N-004](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-004)
 
 [^G-U00030]
+<!-- /pair -->
+
+<a id="dtg-002664"></a>
+
+<!-- pair: DTG-002664 -->
+Endowed with Joy, Heaped with Merit—
+the earliest realm of beings. [N-004](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-004)
 
 Earlier notes: [N-004](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-004).
 <!-- /pair -->
@@ -1308,17 +1318,26 @@ unarranged phrases, naturally arisen,
 appeared in the manner of questions and replies.
 <!-- /pair -->
 
-<a id="dtg-000165"></a>
+<a id="dtg-002665"></a>
 
-<!-- pair: DTG-000165 -->
+<!-- pair: DTG-002665 -->
 Accomplished through the settling of the basic condition, [N-023](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-023)
 they appeared thus in the Ground from which phrases arise:
+
+[^G-U00316]
+
+Earlier notes: [N-023](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-023), [N-T09](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t09).
+<!-- /pair -->
+
+<a id="dtg-002666"></a>
+
+<!-- pair: DTG-002666 -->
 [Source annotation at U00317; no additional root text. See attached endnotes.]
 [Source annotation at U00318; no additional root text. See attached endnotes.]
 
-[^G-U00316][^G-U00317][^G-U00318]
+[^G-U00317][^G-U00318]
 
-Earlier notes: [N-023](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-023), [N-T09](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t09), [N-024](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-024).
+Earlier notes: [N-024](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-024).
 <!-- /pair -->
 
 <a id="dtg-000166"></a>
@@ -10079,17 +10098,31 @@ delusion with conceptual thought is stopped.
 Earlier notes: [N-108](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-108).
 <!-- /pair -->
 
-<a id="dtg-001124"></a>
+<a id="dtg-002667"></a>
 
-<!-- pair: DTG-001124 -->
+<!-- pair: DTG-002667 -->
 By cutting the flow of samsara's precipice,
 of the great yogin's activity—[N-108](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-108)
+
+[^G-U02489]
+
+Earlier notes: [N-108](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-108).
+<!-- /pair -->
+
+<a id="dtg-002668"></a>
+
+<!-- pair: DTG-002668 -->
 [Source heading: Sixty-seventh reply.]
+
+[^G-SCAN-CH1-LAYER-02489]
+<!-- /pair -->
+
+<a id="dtg-002669"></a>
+
+<!-- pair: DTG-002669 -->
 although the result cannot be expressed,
 one reaches the exhaustion of phenomena,
 and the limits of one's own tenet system, too, collapse.
-
-[^G-U02489][^G-SCAN-CH1-LAYER-02489]
 
 Earlier notes: [N-108](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-108).
 <!-- /pair -->
@@ -10620,15 +10653,29 @@ the master of ordinary mind holds the body.
 Earlier notes: [N-115](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-115).
 <!-- /pair -->
 
-<a id="dtg-001185"></a>
+<a id="dtg-002670"></a>
 
-<!-- pair: DTG-001185 -->
+<!-- pair: DTG-002670 -->
 Within the wheels of the three places, too,
 with four and five syllables, and the assignment of forms, [N-115](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-115)
+
+Earlier notes: [N-115](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-115).
+<!-- /pair -->
+
+<a id="dtg-002671"></a>
+
+<!-- pair: DTG-002671 -->
 [Source annotation at U02615; no additional root text. See attached endnotes.]
-perform proliferating, gathering, absorbing, and coiling.
 
 [^G-U02615]
+
+Earlier notes: [N-115](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-115).
+<!-- /pair -->
+
+<a id="dtg-002672"></a>
+
+<!-- pair: DTG-002672 -->
+perform proliferating, gathering, absorbing, and coiling.
 
 Earlier notes: [N-115](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-115).
 <!-- /pair -->
@@ -23709,7 +23756,7 @@ Earlier notes: [N-238](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
     **Review boundary:** No new scan reading or change to the golden Tibetan/glossary is made. Interpretive supplies and unresolved components remain open where stated.
 
-    **Paired locations:** [DTG-000010](#dtg-000010) (golden: U00014)
+    **Paired locations:** [DTG-002662](#dtg-002662) (golden: U00014)
 
 [^G-U00029]: **G-U00029 — U00029**
 
@@ -23753,7 +23800,7 @@ Earlier notes: [N-238](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
     **Review boundary:** No new scan reading or change to the golden Tibetan/glossary is made. Interpretive supplies and unresolved components remain open where stated.
 
-    **Paired locations:** [DTG-000017](#dtg-000017) (golden: U00030)
+    **Paired locations:** [DTG-002663](#dtg-002663) (golden: U00030)
 
 [^G-U00035]: **G-U00035 — U00035**
 
@@ -24207,7 +24254,7 @@ Earlier notes: [N-238](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
     **Review boundary:** No new scan reading or change to the golden Tibetan/glossary is made. Interpretive supplies and unresolved components remain open where stated.
 
-    **Paired locations:** [DTG-000165](#dtg-000165) (golden: U00316)
+    **Paired locations:** [DTG-002665](#dtg-002665) (golden: U00316)
 
 [^G-U00317]: **G-U00317 — U00317**
 
@@ -24239,7 +24286,7 @@ Earlier notes: [N-238](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
     **Review boundary:** No new scan reading or change to the golden Tibetan/glossary is made. Interpretive supplies and unresolved components remain open where stated.
 
-    **Paired locations:** [DTG-000165](#dtg-000165) (golden: U00317)
+    **Paired locations:** [DTG-002666](#dtg-002666) (golden: U00317)
 
 [^G-U00318]: **G-U00318 — U00318**
 
@@ -24269,7 +24316,7 @@ Earlier notes: [N-238](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
     **Review boundary:** No new scan reading or change to the golden Tibetan/glossary is made. Interpretive supplies and unresolved components remain open where stated.
 
-    **Paired locations:** [DTG-000165](#dtg-000165) (golden: U00318)
+    **Paired locations:** [DTG-002666](#dtg-002666) (golden: U00318)
 
 [^G-SCAN-CH1-LAYER-00318]: **G-SCAN-CH1-LAYER-00318 — SCAN-CH1-LAYER-00318**
 
@@ -26343,7 +26390,7 @@ Earlier notes: [N-238](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
     **Review boundary:** No new scan reading or change to the golden Tibetan/glossary is made. Interpretive supplies and unresolved components remain open where stated.
 
-    **Paired locations:** [DTG-001124](#dtg-001124) (golden: U02489)
+    **Paired locations:** [DTG-002667](#dtg-002667) (golden: U02489)
 
 [^G-SCAN-CH1-LAYER-02489]: **G-SCAN-CH1-LAYER-02489 — SCAN-CH1-LAYER-02489**
 
@@ -26361,7 +26408,7 @@ Earlier notes: [N-238](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
     **Review boundary:** No new scan reading or change to the golden Tibetan/glossary is made. Interpretive supplies and unresolved components remain open where stated.
 
-    **Paired locations:** [DTG-001124](#dtg-001124) (golden: SCAN-CH1-LAYER-02489)
+    **Paired locations:** [DTG-002668](#dtg-002668) (golden: SCAN-CH1-LAYER-02489)
 
 [^G-U02522]: **G-U02522 — U02522**
 
@@ -26435,7 +26482,7 @@ Earlier notes: [N-238](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
     **Review boundary:** No new scan reading or change to the golden Tibetan/glossary is made. Interpretive supplies and unresolved components remain open where stated.
 
-    **Paired locations:** [DTG-001185](#dtg-001185) (golden: U02615)
+    **Paired locations:** [DTG-002671](#dtg-002671) (golden: U02615)
 
 [^G-U02620]: **G-U02620 — U02620**
 

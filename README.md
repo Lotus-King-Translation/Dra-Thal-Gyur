@@ -4,6 +4,19 @@ Working repository for a Tibetan–English translation of the **Dra Thal Gyur ro
 
 **Active source: Adzom, BDRC W1KG11703, volume 1.** The scan governs readings; the cleaned Adzom e-text is an aid awaiting project proofreading. The working translation and its current coverage are recorded in [translations/](translations/README.md).
 
+## Paired reading edition
+
+[Read Tibetan](paired/source.md) · [Read English](paired/translation.md) ·
+[Format and validation](paired/README.md) · [Continuation](paired/HANDOFF.md)
+
+The paired-text/2 edition preserves the fixed `root-tantra-v1.0.0` Tibetan and
+`translation-golden-aligned-v1.0.0` English. Its 2,667 shared pairs declare source
+presentation explicitly: 48 prose, 2,448 verse, 2 h1 and 169 h3; no paired h2 is
+invented. Six chapter wrappers and the distinct closing material are preserved.
+Five v1 pair memberships changed with [complete lineage](paired/v2/PAIR-AUDIT.json).
+The exact two-file corpus, notes and source coverage are checked mechanically;
+this is not a new semantic review of inherited English.
+
 ## Layout
 
 | Location | Contents |

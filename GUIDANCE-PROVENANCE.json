@@ -7,15 +7,23 @@
       "path": "AGENTS.md",
       "sha256": "c66fbfc2448cf0a5ea6ca8e52136128f7e9e18023a07b721bcecbb7451533e88",
       "local_revision": {
-        "sha256": "789cd93f6329738351c9eeef25103097bf0b0bd707509bb9cae8fcae1d93bd39",
-        "reason": "User-required remote preservation directives and single-branch diplomatic restart workflow. Original copied SHA remains unchanged in sha256; subsequent revisions are recorded in git history.",
-        "commits": [
-          "70b5171",
-          "bb51187",
-          "5dd4e25"
-        ],
-        "date": "2026-09-28"
-      }
+        "sha256": "7f9d860334f27d55104dd0db0e4caac0873bd7ed20f9e63c3c5c15405e8cff11",
+        "reason": "Issue #4 requires root agent guidance for paired-text/2 structure, immutable identity, validation and release. Original copied SHA and prior local-revision record are preserved.",
+        "request": "https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/issues/4",
+        "date": "2026-10-01"
+      },
+      "local_revision_history": [
+        {
+          "sha256": "789cd93f6329738351c9eeef25103097bf0b0bd707509bb9cae8fcae1d93bd39",
+          "reason": "User-required remote preservation directives and single-branch diplomatic restart workflow. Original copied SHA remains unchanged in sha256; subsequent revisions are recorded in git history.",
+          "commits": [
+            "70b5171",
+            "bb51187",
+            "5dd4e25"
+          ],
+          "date": "2026-09-28"
+        }
+      ]
     },
     {
       "path": "glossary/expanded_tibetan_english_glossary.csv",

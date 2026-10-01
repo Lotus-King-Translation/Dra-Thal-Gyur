@@ -1,12 +1,21 @@
 {
-  "schema": "paired-negative-tests/1",
+  "schema": "paired-negative-tests/2",
+  "paired_edition": "dra-thal-gyur-paired-v2.0.0",
   "status": "pass",
-  "tests_run": 44,
-  "positive_tests": 3,
-  "negative_tests": 41,
+  "tests_run": 63,
+  "positive_tests": 7,
+  "negative_tests": 56,
   "failures": 0,
   "errors": 0,
   "checks": [
+    {
+      "name": "positive_accepted_final_signoff",
+      "status": "pass"
+    },
+    {
+      "name": "positive_complete_v1_v2_lineage",
+      "status": "pass"
+    },
     {
       "name": "positive_false_terminal_notices",
       "status": "pass"
@@ -18,6 +27,24 @@
     {
       "name": "positive_released_corpus",
       "status": "pass"
+    },
+    {
+      "name": "positive_structural_formats",
+      "status": "pass"
+    },
+    {
+      "name": "positive_translation_inherits_formats",
+      "status": "pass"
+    },
+    {
+      "name": "reject_all_format_metadata_lost",
+      "status": "pass",
+      "rejection": "Missing, duplicated, unsupported or malformed source format/metadata: DTG-000001"
+    },
+    {
+      "name": "reject_blocking_final_review",
+      "status": "pass",
+      "rejection": "Blocking final-review findings"
     },
     {
       "name": "reject_changed_protected_file",
@@ -37,7 +64,7 @@
     {
       "name": "reject_dropped_restored_object",
       "status": "pass",
-      "rejection": "Missing, reordered or renamed stable pair ID"
+      "rejection": "Golden object omitted (including restored/closing material)"
     },
     {
       "name": "reject_dropped_restored_verse_line",
@@ -55,6 +82,11 @@
       "rejection": "Golden object covered more than once"
     },
     {
+      "name": "reject_duplicate_source_format",
+      "status": "pass",
+      "rejection": "Missing, duplicated, unsupported or malformed source format/metadata: DTG-000005"
+    },
+    {
       "name": "reject_duplicate_source_pair",
       "status": "pass",
       "rejection": "Duplicate pair ID on bo side"
@@ -67,7 +99,7 @@
     {
       "name": "reject_empty_annotation_marker_lost",
       "status": "pass",
-      "rejection": "Released English/notes/markers differ: DTG-001185"
+      "rejection": "Released English/notes/markers differ: DTG-002671"
     },
     {
       "name": "reject_endnote_definition_changed",
@@ -110,6 +142,26 @@
       "rejection": "Translation structure/endnote text/backlink or extra unaccounted text differs"
     },
     {
+      "name": "reject_format_changed",
+      "status": "pass",
+      "rejection": "Source format differs from reviewed structure: DTG-002662"
+    },
+    {
+      "name": "reject_format_duplicated_on_english",
+      "status": "pass",
+      "rejection": "Unexpected translation metadata: DTG-000005"
+    },
+    {
+      "name": "reject_format_only_on_english",
+      "status": "pass",
+      "rejection": "Missing, duplicated, unsupported or malformed source format/metadata: DTG-000005"
+    },
+    {
+      "name": "reject_heading_rank_changed",
+      "status": "pass",
+      "rejection": "Source format differs from reviewed structure: DTG-000009"
+    },
+    {
       "name": "reject_inline_legacy_note_lost",
       "status": "pass",
       "rejection": "Released English/notes/markers differ: DTG-000002"
@@ -127,7 +179,17 @@
     {
       "name": "reject_missing_both_pairs",
       "status": "pass",
-      "rejection": "Missing, reordered or renamed stable pair ID"
+      "rejection": "Golden object omitted (including restored/closing material)"
+    },
+    {
+      "name": "reject_missing_final_signoff_file",
+      "status": "pass",
+      "rejection": "Final gate requires saved signoff"
+    },
+    {
+      "name": "reject_missing_format",
+      "status": "pass",
+      "rejection": "Missing, duplicated, unsupported or malformed source format/metadata: DTG-000005"
     },
     {
       "name": "reject_missing_protected_file",
@@ -145,6 +207,11 @@
       "rejection": "Source/translation pair set or order mismatch"
     },
     {
+      "name": "reject_multiple_english_format_fields",
+      "status": "pass",
+      "rejection": "Unexpected translation metadata: DTG-000005"
+    },
+    {
       "name": "reject_noninline_legacy_note_lost",
       "status": "pass",
       "rejection": "Released English/notes/markers differ: DTG-000006"
@@ -155,9 +222,14 @@
       "rejection": "Golden object omitted (including restored/closing material)"
     },
     {
+      "name": "reject_rejoined_mixed_format_pair",
+      "status": "pass",
+      "rejection": "Pair crosses a source format boundary: DTG-002661"
+    },
+    {
       "name": "reject_reordered_both_pairs",
       "status": "pass",
-      "rejection": "Missing, reordered or renamed stable pair ID"
+      "rejection": "Golden object order changed"
     },
     {
       "name": "reject_reordered_golden_references",
@@ -180,9 +252,19 @@
       "rejection": "Published pair membership changed; new edition and explicit lineage required"
     },
     {
+      "name": "reject_semantic_qc_claim_in_signoff",
+      "status": "pass",
+      "rejection": "Unsupported semantic QC claim in signoff"
+    },
+    {
       "name": "reject_source_heading_hidden",
       "status": "pass",
       "rejection": "Golden role changed: DTG-000009"
+    },
+    {
+      "name": "reject_stale_final_signoff",
+      "status": "pass",
+      "rejection": "Final signoff is stale or does not bind this edition"
     },
     {
       "name": "reject_tibetan_join_newline_changed",
@@ -200,9 +282,19 @@
       "rejection": "Selected Tibetan text/join differs: DTG-000004"
     },
     {
+      "name": "reject_unaccepted_final_signoff",
+      "status": "pass",
+      "rejection": "Final gate requires accepted signoff"
+    },
+    {
       "name": "reject_unknown_golden_reference",
       "status": "pass",
       "rejection": "Unknown golden object reference"
+    },
+    {
+      "name": "reject_unsupported_format",
+      "status": "pass",
+      "rejection": "Missing, duplicated, unsupported or malformed source format/metadata: DTG-000005"
     },
     {
       "name": "reject_wrong_paired_edition",

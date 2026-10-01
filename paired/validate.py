@@ -6,9 +6,11 @@ import argparse
 from collections import Counter
 from pathlib import Path
 import re
+import json
 import sys
 from urllib.parse import unquote
 sys.dont_write_bytecode = True
+from structure import BASELINE, FORMATS, KANAVA, audit_report, derive_pairs, formats_for
 from core import (ENGLISH, HERE, PARTS, PINS, ROOT, EDITION, SOURCE_TAG,
                   TRANSLATION_TAG, LINK_RE, check_protected, check_tags,
                   english_payload, js, load_authorities, parse, part,
@@ -16,7 +18,8 @@ from core import (ENGLISH, HERE, PARTS, PINS, ROOT, EDITION, SOURCE_TAG,
 
 # Published edition identity lock, independent of the migration grouping code.
 # A changed segmentation needs a new edition with explicit old/new ID lineage.
-IDENTITY_SHA256 = '44a3c8c5b50e932ec08e40d72a4075889521a189aaf40245e815e6a2f024fc0f'
+IDENTITY_SHA256 = '3ab98c3d178723be3c1a96f41b74c2e11a3f20535c4acab89fc4b9ac85e765a4'
+FORMAT_SHA256 = '090be4ccf930782c207007e56db8d0f3b2c02838c1e7833cc837489fb33ac218'
 
 
 def check_links(source, translation, root=ROOT):
@@ -45,8 +48,6 @@ def validate_texts(source: str, translation: str, authorities):
     source_ids = [s.ident for s in sources]
     translation_ids = [s.ident for s in translations]
     require(source_ids == translation_ids, 'Source/translation pair set or order mismatch')
-    require(source_ids == [f'DTG-{i:06d}' for i in range(1, len(sources) + 1)],
-            'Missing, reordered or renamed stable pair ID')
     gold = authorities.golden['reading_sequence']
     english = authorities.english['reading_sequence']
     golden_ids = [r['id'] for r in gold]
@@ -59,9 +60,19 @@ def validate_texts(source: str, translation: str, authorities):
     require(set(flat) == set(golden_ids), 'Golden object omitted (including restored/closing material)')
     require(flat == golden_ids, 'Golden object order changed')
     require(len(flat) == 5484, 'Golden object count is not 5484')
+    source_formats = formats_for(gold)
+    expected_pairs, lineage = derive_pairs(gold)
+    for segment in sources:
+        formats = {source_formats[i] for i in segment.golden}
+        require(len(formats) == 1, 'Pair crosses a source format boundary: ' + segment.ident)
+        require(segment.format == next(iter(formats)), 'Source format differs from reviewed structure: ' + segment.ident)
+    require(source_ids == [p['id'] for p in expected_pairs],
+            'Missing, reordered or renamed stable v2 pair ID; explicit lineage required')
     identity = sha(js([[s.ident, s.golden] for s in sources]).encode())
     require(identity == IDENTITY_SHA256,
             'Published pair membership changed; new edition and explicit lineage required')
+    format_identity = sha(js([[s.ident, s.format] for s in sources]).encode())
+    require(format_identity == FORMAT_SHA256, 'Published structural formats changed')
     groups = []
     for s, t in zip(sources, translations):
         rows = [by_english[i] for i in s.golden]
@@ -100,18 +111,28 @@ def validate_texts(source: str, translation: str, authorities):
         anchors = [row['id'] for row in english if note in row['endnote_ids']]
         endnotes.append({'note': note, 'pairs': unique(lookup[i] for i in anchors), 'golden': anchors})
     return {
-        'schema': 'paired-text-manifest/1', 'generated': True,
+        'schema': 'paired-text-manifest/2', 'generated': True,
         'canonical_content': ['paired/source.md', 'paired/translation.md'],
         'paired_edition': EDITION, 'checks_passed': True,
         'pins': {tag: {'tag_object': v[0], 'commit': v[1]} for tag, v in PINS.items()},
         'canonical_sha256': {'source.md': sha(source.encode()), 'translation.md': sha(translation.encode())},
-        'identity_sha256': identity,
+        'identity_sha256': identity, 'format_sha256': format_identity,
+        'format_authority': 'paired/source.md',
+        'kanava_format_mapping': KANAVA,
+        'pair_formats': [{'id': segment.ident, 'format': segment.format} for segment in sources],
+        'v1_baseline_commit': BASELINE,
+        'complete_lineage': 'paired/v2/PAIR-AUDIT.json',
+        'changed_v1_pairs': [entry for entry in lineage if entry['membership_changed']],
         'projection_sha256': {
             'golden_ordered_id_text_records': sha(js([[g['id'], g['text']] for g in gold]).encode()),
             'english_ordered_id_text_records': sha(js([[r['id'], r['english']] for r in english]).encode()),
         },
         'counts': {
-            'total_pairs': len(sources), 'expected_pairs': 2660,
+            'total_pairs': len(sources), 'expected_pairs': 2667,
+            **{name + '_pairs': sum(s.format == name for s in sources) for name in FORMATS},
+            'v1_pairs_audited': len(lineage),
+            'v1_memberships_changed': sum(entry['membership_changed'] for entry in lineage),
+            'v1_memberships_preserved': sum(not entry['membership_changed'] for entry in lineage),
             'original_source_anchors': sum(bool(re.fullmatch(r'U\d{5}', i)) for i in flat),
             'golden_objects_covered': len(flat), 'golden_objects_expected': 5484,
             'added_golden_objects': sum(not bool(re.fullmatch(r'U\d{5}', i)) for i in flat),
@@ -140,7 +161,7 @@ def validate_texts(source: str, translation: str, authorities):
     }
 
 
-def validate_repo(root=ROOT):
+def validate_repo(root=ROOT, require_final=False):
     root = Path(root)
     check_tags(root)
     authorities = load_authorities()
@@ -149,16 +170,54 @@ def validate_repo(root=ROOT):
     translation = (root / 'paired/translation.md').read_bytes().decode('utf-8')
     result = validate_texts(source, translation, authorities)
     result['local_links_checked'] = check_links(source, translation, root)
+    if require_final:
+        path = root / 'paired/v2/SIGNOFF.json'
+        require(path.is_file(), 'Final gate requires saved signoff')
+        validate_signoff(result, json.loads(path.read_text(encoding='utf-8')), root)
     return result
+
+
+# Publication.json is intentionally excluded: its verified tag receipt is
+# committed AFTER the immutable release tag and must not require moving it.
+SIGNOFF_FILES = [
+    'AGENTS.md', 'README.md', 'GUIDANCE-PROVENANCE.json', 'paired/HANDOFF.md',
+    'paired/source.md', 'paired/translation.md', 'paired/MANIFEST.json',
+    'paired/NEGATIVE-TESTS.json', 'paired/core.py', 'paired/structure.py',
+    'paired/validate.py', 'paired/migrate.py', 'paired/project.py',
+    'paired/test_paired.py', 'paired/README.md', 'paired/MIGRATION.md',
+    'paired/v2/STRUCTURE-DECISIONS.json', 'paired/v2/PAIR-AUDIT.json',
+    'paired/v2/HEADING-AUDIT.md', 'paired/v2/CH01-STRUCTURE-AUDIT.md',
+    'paired/v2/CH02-06-STRUCTURE-AUDIT.md', 'paired/v2/FINAL-REVIEW.md',
+    'paired/v2/reference/template-FORMAT.md', 'paired/v2/reference/template-AGENTS.md',
+    '.github/workflows/paired-text-validation.yml',
+]
+
+
+def signoff_binding(report, root=ROOT):
+    return {'edition': EDITION, 'schema': 'paired-text/2',
+            'counts': report['counts'], 'pins': report['pins'],
+            'identity_sha256': report['identity_sha256'],
+            'format_sha256': report['format_sha256'],
+            'input_sha256': {path: sha((Path(root) / path).read_bytes()) for path in SIGNOFF_FILES}}
+
+
+def validate_signoff(report, record, root=ROOT):
+    require(isinstance(record, dict) and record.get('status') == 'accepted',
+            'Final gate requires accepted signoff')
+    require(record.get('binding') == signoff_binding(report, root),
+            'Final signoff is stale or does not bind this edition')
+    require(record.get('blocking_findings') == 0, 'Blocking final-review findings')
+    require(record.get('fresh_semantic_qc') is False, 'Unsupported semantic QC claim in signoff')
 
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--repo', type=Path, default=ROOT)
+    parser.add_argument('--require-final', action='store_true', help='Require an accepted hash-bound final signoff')
     parser.add_argument('--full', action='store_true', help='Print the complete generated manifest')
     args = parser.parse_args()
-    report = validate_repo(args.repo)
-    print(js(report if args.full else {'checks_passed': True, 'counts': report['counts'],
+    report = validate_repo(args.repo, args.require_final)
+    print(js(report if args.full else {'checks_passed': True, 'final_gate_passed': args.require_final, 'counts': report['counts'],
           'protected_input_files': report['protected_input_files'],
           'local_links_checked': report['local_links_checked']}), end='')
 
