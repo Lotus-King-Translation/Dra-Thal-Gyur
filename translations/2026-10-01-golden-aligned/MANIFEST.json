@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "version": "translation-golden-aligned-v1.0.0",
+  "golden_tag": "root-tantra-v1.0.0",
+  "builder_sha256": "f3cbf7ef2c98071c00bfc903d4c3dd6fe1d022c42ab247c9f438b1a0e9b9f8b2",
+  "review_inputs": {
+    "translations/2026-09-26-full-draft/golden-review/INPUTS.json": "5fdc1168f20cb936c480e8e2718646a882fa4fe509e19c120409833214f08c18",
+    "translations/2026-09-26-full-draft/golden-review/PLAN.json": "a3002b3b25af5f30521e4f3d9c94943687046b6497433e4988a90f6c36bedb36",
+    "translations/2026-09-26-full-draft/golden-review/AUDIT.json": "40a3b5ab7b968e8917163a321c4b10229ada33d360e6801fa7028f515598d3b6",
+    "translations/2026-09-26-full-draft/golden-review/DECISIONS.json": "18c2fca36f81dd69a8059e7c6f0b86a5785b93172f5f819867a477699f3012ef",
+    "translations/2026-09-26-full-draft/golden-review/authored.py": "07a37b3703a053b90cef477628c5d92ee16bd86813836be7bd47923faac09126"
+  },
+  "output_hashes": {
+    "edition.json": "9ca19104ca938208969be38ec6456c5bea186b717a462efa3f8ae6791b040c5d",
+    "Dra-Thal-Gyur-English.md": "8ce4d393a5d15a4719b4612ea449ee384ea829c7c91354f6b1462495f876a8ef",
+    "chapters/chapter-01.md": "7dd2e807b1851ff600184d77bbffbd748a746e9e70fde32cc0043f7933a52ad9",
+    "chapters/chapter-02.md": "2f2ef22adc56a92b4afd1272be228996ffb5ff644bcd4fd871dbed87768223de",
+    "chapters/chapter-03.md": "fee4393bf679dd6ed43a35d05e73d83c241ec98b3a6a5e80462b4b4176bd8324",
+    "chapters/chapter-04.md": "31c5584731e7be2856145e4b3a924c31881a124b58941215a84bad30b01fbc48",
+    "chapters/chapter-05.md": "aff3c9bc2e311981dd6866e5b8cd7158dfa1cd91fb8b1e894e586c8eec008059",
+    "chapters/chapter-06.md": "a4f16e25a44c6789dbbc94b10d13401a010e5a387af9156ce5d89bfde8513d60",
+    "chapters/closing-material.md": "22d3a322ffc1057020e03d67b0ce895e79f9e0204381ed8b783ce76eb9490747",
+    "ENDNOTES.md": "e368fe0f2fd5bc5238a472e79cc4fd26de8b75e6048baf06fe17a79390336395",
+    "alignment/chapter-01.md": "04e24bfb1ed4945abac94cf82a567880ba5149b1e0e7cf1b3c706a5e004e6a0c",
+    "alignment/chapter-02.md": "eea7847ab4b44c591daff745a4b3bfd01263a9db3cb01b4eb60cdcb7c34f5c87",
+    "alignment/chapter-03.md": "1337eb08df36611b28377758598f4025302696f86ebccdba79dfcdc82670c268",
+    "alignment/chapter-04.md": "983090d7d3d86934516f7ae425278ea9bba00cd5642f474d8f4a6baf2ed069d2",
+    "alignment/chapter-05.md": "f41affbced3030713de93665a444ae9cc498ed9a26abfd02bb4df8e93a21b26f",
+    "alignment/chapter-06.md": "7dd14372517b19a0ae7bc80a5049fd56b0a521c8a9cfb98c4104ec383a27ec2a",
+    "alignment/closing-material.md": "e748abdc740fabc8657a5eb19d68c34c33e4193828167b423e9770fcc118a397",
+    "SOURCE-ANNOTATIONS.md": "1145047003f9a207aabc9bc553fe991dd3f96cb47f28c913f3d3fe2db5288752",
+    "SOURCE-ANNOTATIONS.json": "36ac2d93f3d73b2c1d494c6f75544eac7b10c6ed8fa61af631e6be673b46567b",
+    "COVERAGE.json": "a51d0ee96d465250d89203fad76baff9f7a1617c4a1a9e30308abafed76d291c",
+    "USAGES.json": "3233afe2a8d1727d97b5b21a9d79e92b0f68e8f4b8c2e9894ef661fe745ac47c",
+    "LEGACY-NOTES.md": "c35bb88044e342a639cf16e255cd9d190dca195016ee0ff5ac0134455a27e6b6",
+    "REVIEW.md": "e727eced469cd6e4e1b94801e9d3e2accb2b703cc039d716f7da520be4364c4a",
+    "README.md": "464d64bbf001421def3d761fa312bd0ed244c7ee3032830516ae26146724a278"
+  },
+  "counts": {
+    "original_anchors_compared": 5466,
+    "changed_anchors_reviewed": 110,
+    "extra_objects_reviewed": 18,
+    "restored_main_verses": 23,
+    "uncertainty_only_notes": 42,
+    "adjacent_context_revisions": 2,
+    "boundary_metadata_notes": 1,
+    "source_annotations_accounted": 65,
+    "distinct_new_endnotes": 173,
+    "classification_counts": {
+      "punctuation-spacing": 36,
+      "substantive-or-layer": 56,
+      "source-layer-removed": 16,
+      "word-division-correction": 2
+    },
+    "action_counts": {
+      "retain_english_and_annotate": 41,
+      "semantic_or_context_revision": 10,
+      "source_note_relocated": 43,
+      "non_main_or_joined_anchor": 16
+    }
+  }
+}

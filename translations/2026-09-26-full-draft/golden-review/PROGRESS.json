@@ -1,5 +1,5 @@
 {
-  "state": "editorial_records_complete_rendering_pending",
+  "state": "annotated_translation_candidate",
   "counts": {
     "original_anchors_compared": 5466,
     "changed_anchors_reviewed": 110,
@@ -26,8 +26,9 @@
   "remaining_changed_anchor_reviews": 0,
   "remaining_extra_object_reviews": 0,
   "remaining_uncertainty_carryovers": 0,
-  "endnotes_rendered": false,
-  "translation_rendered": false,
+  "endnotes_rendered": true,
+  "translation_rendered": true,
   "validation_passed": false,
-  "publication_verified": false
+  "publication_verified": false,
+  "rendered_output_files": 25
 }
