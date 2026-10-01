@@ -1,0 +1,47 @@
+{
+  "positive_case_passed": true,
+  "negative_cases_rejected": 10,
+  "cases": [
+    {
+      "case": "lost_anchor",
+      "rejected": true
+    },
+    {
+      "case": "duplicated_id",
+      "rejected": true
+    },
+    {
+      "case": "reordered",
+      "rejected": true
+    },
+    {
+      "case": "wrong_restored_count",
+      "rejected": true
+    },
+    {
+      "case": "wrong_closing_count",
+      "rejected": true
+    },
+    {
+      "case": "false_proofread",
+      "rejected": true
+    },
+    {
+      "case": "false_exhaustive",
+      "rejected": true
+    },
+    {
+      "case": "lost_closing",
+      "rejected": true
+    },
+    {
+      "case": "invented_anchor",
+      "rejected": true
+    },
+    {
+      "case": "wrong_original_order",
+      "rejected": true
+    }
+  ],
+  "editorial_originals_modified": false
+}

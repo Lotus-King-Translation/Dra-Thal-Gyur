@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "status": "whole_work_preview_not_released",
+  "status": "released_bounded_v1",
   "original_units": [
     {
       "id": "U00001",
@@ -90013,11 +90013,14 @@
     },
     {
       "chapter": 6,
-      "release_tag": null,
+      "release_tag": "chapter-06-v1.0.0",
       "source_review": "diplomatic/chapter-06-v1/SOURCE-REVIEW.json",
       "decisions": "diplomatic/chapter-06-v1/DECISIONS.json",
       "exact_collation": "diplomatic/chapter-06-v1/collation.json",
-      "stored_W_comparison": "diplomatic/chapter-06-v1/wikisource.json"
+      "stored_W_comparison": "diplomatic/chapter-06-v1/wikisource.json",
+      "reading": "diplomatic/chapter-06-v1/release/reading.md",
+      "apparatus": "diplomatic/chapter-06-v1/release/apparatus.md",
+      "coverage": "diplomatic/chapter-06-v1/release/COVERAGE.md"
     }
   ],
   "counts": {
@@ -90164,5 +90167,6 @@
   },
   "full_base_scan_proofread": false,
   "exhaustive_witness_collation": false,
-  "scope": "All saved root-text parts assembled, but Chapter6 editorial decisions and versioned publication remain pending."
+  "scope": "Whole root tantra assembled from six fixed bounded-v1 chapter releases, including full closing material.",
+  "release_id": "root-tantra-v1.0.0"
 }

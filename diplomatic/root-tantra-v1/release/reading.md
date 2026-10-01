@@ -1,6 +1,6 @@
-# Dra Thal Gyur — whole-text reading preview
+# Dra Thal Gyur — whole-root-tantra bounded v1 reading
 
-**NOT A FINAL RELEASE.** Chapters 1–5 are fixed released editions; Chapter 6 and closing material are saved working readings. 0 passage decisions and 0 reference decisions remain open.
+**RELEASED BOUNDED V1 — `root-tantra-v1.0.0`.** Chapters 1–6 and the full closing material are fixed released readings.
 
 All 5,466 original anchors are represented, with 23 scan-restored main verses. Root text, headings, source notes, captions, ritual formulas and unresolved signs retain their distinctions.
 
