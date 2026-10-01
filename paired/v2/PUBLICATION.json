@@ -1,0 +1,145 @@
+{
+  "schema": "paired-publication-receipt/2",
+  "paired_edition": "dra-thal-gyur-paired-v2.0.0",
+  "paired_schema": "paired-text/2",
+  "status": "published",
+  "verified_at_utc": "2026-10-01T14:33:34.896309+00:00",
+  "repository": "https://github.com/Lotus-King-Translation/Dra-Thal-Gyur",
+  "issue": 4,
+  "canonical_content": [
+    "paired/source.md",
+    "paired/translation.md"
+  ],
+  "release": {
+    "tag": "dra-thal-gyur-paired-v2.0.0",
+    "annotated": true,
+    "tag_object": "449483c4003479803f8ee19fd965cd8be1183953",
+    "commit": "d2285b8fe09e2a27be7aab5bcfb7a87806e949c5",
+    "remote_tag_object_verified": true,
+    "remote_peeled_commit_verified": true
+  },
+  "receipt_sequence": {
+    "committed_after_release_tag": true,
+    "branch": "main",
+    "verified_remote_main_before_receipt": "d2285b8fe09e2a27be7aab5bcfb7a87806e949c5",
+    "tag_must_not_move": true,
+    "receipt_commit_lookup": "git log -1 --format=%H -- paired/v2/PUBLICATION.json"
+  },
+  "counts": {
+    "total_pairs": 2667,
+    "expected_pairs": 2667,
+    "prose_pairs": 48,
+    "verse_pairs": 2448,
+    "h1_pairs": 2,
+    "h2_pairs": 0,
+    "h3_pairs": 169,
+    "v1_pairs_audited": 2660,
+    "v1_memberships_changed": 5,
+    "v1_memberships_preserved": 2655,
+    "original_source_anchors": 5466,
+    "golden_objects_covered": 5484,
+    "golden_objects_expected": 5484,
+    "added_golden_objects": 18,
+    "restored_objects": 10,
+    "restored_verses_retained": 23,
+    "reconciliation_endnotes_retained": 173,
+    "legacy_note_ids_retained": 340,
+    "legacy_object_note_associations_retained": 4932,
+    "source_annotation_components_retained_in_notes": 65,
+    "closing_anchors_retained": 18,
+    "chapters": 6,
+    "closing_material_parts": 1,
+    "unmatched_source_pairs": 0,
+    "unmatched_translation_pairs": 0,
+    "duplicated_golden_objects": 0,
+    "omitted_golden_objects": 0,
+    "split_golden_objects": 0,
+    "grouped_pairs": 1534,
+    "largest_pair_objects": 12
+  },
+  "v1_baseline_commit": "aae8883b13ff0f23da2603aecc12a64a15ffe25b",
+  "v1_membership_changed": true,
+  "complete_v1_to_v2_lineage": "paired/v2/PAIR-AUDIT.json",
+  "retired_v1_pair_ids": [
+    "DTG-000010",
+    "DTG-000017",
+    "DTG-000165",
+    "DTG-001124",
+    "DTG-001185"
+  ],
+  "format_authority": "paired/source.md",
+  "kanava_format_mapping": {
+    "prose": {
+      "type": "prose",
+      "initial_formatting": "body"
+    },
+    "verse": {
+      "type": "verse",
+      "initial_formatting": "body"
+    },
+    "h1": {
+      "type": "prose",
+      "initial_formatting": "h1"
+    },
+    "h2": {
+      "type": "prose",
+      "initial_formatting": "h2"
+    },
+    "h3": {
+      "type": "prose",
+      "initial_formatting": "h3"
+    }
+  },
+  "source_release_pins": {
+    "root-tantra-v1.0.0": {
+      "tag_object": "97379615d268149eee768c9c1ec99b7be2f993b4",
+      "commit": "b83051912977268b97615bd382d82e51c3406d61"
+    },
+    "translation-golden-aligned-v1.0.0": {
+      "tag_object": "ed0783c6a394d4ace736a09d812f0666c6743848",
+      "commit": "e24e97ddad9cefa339b5583a38389179dba7a365"
+    }
+  },
+  "source_release_pins_remote_verified_unchanged": true,
+  "protected_input_files": 128,
+  "local_links_checked": 683,
+  "identity_sha256": "3ab98c3d178723be3c1a96f41b74c2e11a3f20535c4acab89fc4b9ac85e765a4",
+  "format_sha256": "090be4ccf930782c207007e56db8d0f3b2c02838c1e7833cc837489fb33ac218",
+  "artifact_sha256": {
+    "paired/source.md": "f25ec78468cc5120426ad59e689d8708159a42fa16d5aa3869a990b53f31cc4c",
+    "paired/translation.md": "06dfdd15d37c504f644a2d76583236eff15cc28bf19417c1b6ddedd89af8d1e8",
+    "paired/MANIFEST.json": "554b8082aa743b7aacad5069b7b4eeafafe6bdb293257cbf19427284065a207b",
+    "paired/NEGATIVE-TESTS.json": "69c1c6ada242be188001238940e9e66f1ea9c101cb4ad75f8a6645b6bf29823f",
+    "paired/v2/PAIR-AUDIT.json": "27285d659160afeced6022d4801f301e365404e8d7ad312d1117ec12787d1efc",
+    "paired/v2/STRUCTURE-DECISIONS.json": "b5b2241b9214cfa0c468341f5b6e25bf08084cf021389595260d60266899fda0",
+    "paired/v2/FINAL-REVIEW.md": "406a26b8ddee2138acf840651c5bc228d2731acd2868982e2a2679df25245c59",
+    "paired/v2/SIGNOFF.json": "87d0559a69bbfcbb05b464aa415552012668e445939bdd4eb40dd73367ad7768"
+  },
+  "acceptance": {
+    "final_gate_passed": true,
+    "tests_passed": 64,
+    "positive_tests_passed": 7,
+    "negative_tests_rejected": 57,
+    "canonical_files_reproduce_exactly": true,
+    "manifest_and_lineage_reproduce_exactly": true,
+    "independent_structural_review": "accepted",
+    "independent_engineering_review": "accepted",
+    "final_root_constraint_recheck": "accepted at d2285b8",
+    "blocking_findings": 0,
+    "release_commit_ci": {
+      "conclusion": "success",
+      "headSha": "d2285b8fe09e2a27be7aab5bcfb7a87806e949c5",
+      "status": "completed",
+      "url": "https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/actions/runs/36876886702"
+    },
+    "annotated_tag_ci": {
+      "conclusion": "success",
+      "headSha": "d2285b8fe09e2a27be7aab5bcfb7a87806e949c5",
+      "status": "completed",
+      "url": "https://github.com/Lotus-King-Translation/Dra-Thal-Gyur/actions/runs/36877129949"
+    }
+  },
+  "semantic_retranslation": false,
+  "fresh_semantic_qc": false,
+  "editorial_limits": "Opening hearing-formula and closing-paratext prose are documented rendering dispositions; inherited textual and historical genre uncertainties remain unchanged."
+}
