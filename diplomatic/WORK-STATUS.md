@@ -1,3 +1,5 @@
+> **Current bounded publication: complete root tantra released as `root-tantra-v1.0.0`.** All six chapter releases and the full closing material are published. Remaining work, if pursued, is separate exhaustive scan/witness research, not unfinished bounded-v1 publication work.
+
 # Diplomatic edition — current work status
 
 > **Current bounded publication: Chapters 1–5 released.** Chapter5 preserves434 original anchors and restores2 verses; all27/40/12 decisions and five deliverable groups are complete. See [Chapter5 receipt](chapter-05-v1/PUBLICATION.json). Chapter6 has not started. Historical exhaustive-work counts below are not unfinished Chapter5 v1 tasks.

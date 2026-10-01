@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "release_id": "root-tantra-v1.0.0",
+  "release_commit": "b83051912977268b97615bd382d82e51c3406d61",
+  "verified_remote_tag_object": "97379615d268149eee768c9c1ec99b7be2f993b4",
+  "verified_remote_tag_commit": "b83051912977268b97615bd382d82e51c3406d61",
+  "verified_at": "2026-10-01T06:41:23.998453+00:00",
+  "completed_for_approved_scope": true,
+  "remaining_bounded_v1_tasks": 0,
+  "negative_tests_passed": 10,
+  "counts": {
+    "original_anchors": 5466,
+    "sequence_objects": 5484,
+    "restored_main_verses": 23,
+    "closing_anchors": 18,
+    "changed_original_anchor_strings": 110,
+    "uncertainty_bearing_objects": 72
+  },
+  "component_tags": [
+    "chapter-01-v1.0.0",
+    "chapter-02-v1.0.0",
+    "chapter-03-v1.0.0",
+    "chapter-04-v1.0.0",
+    "chapter-05-v1.0.0",
+    "chapter-06-v1.0.0"
+  ],
+  "full_base_scan_proofread": false,
+  "exhaustive_witness_collation": false,
+  "receipt_note": "Receipt committed after fixed release content; version tag remains on release commit."
+}

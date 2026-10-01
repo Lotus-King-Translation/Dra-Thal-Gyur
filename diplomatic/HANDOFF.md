@@ -1,3 +1,5 @@
+> **Bounded v1 publication complete for the whole root tantra.** Chapters 1–6 are fixed, and the combined release is `root-tantra-v1.0.0`. See [whole-work release](root-tantra-v1/release/README.md), [publication receipt](root-tantra-v1/PUBLICATION.json), and [Chapter 6 receipt](chapter-06-v1/PUBLICATION.json). All finite bounded-v1 queues are closed. Do not reopen them as exhaustive research.
+
 # Continue the diplomatic edition
 
 > **Active: Chapter 6 final decisions and whole-root preview.** [Current Chapter 6 status](chapter-06-v1/README.md): 5/13 passage decisions, 0/28 W decisions, 13/13 source checks, 18/18 closing dispositions; two restored verses. The blocked batch is archived without acceptance credit. [Whole-text preview](root-tantra-v1/README.md) accounts for all 5,466 original anchors and 23 saved restored main verses, but has no final release tag. Preserve all earlier released chapters unchanged.
