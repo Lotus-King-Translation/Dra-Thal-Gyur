@@ -1,13 +1,33 @@
 {
-  "schema_version": 1,
-  "golden_release": "root-tantra-v1.0.0",
-  "total_original_anchors": 5466,
-  "unchanged_original_anchors": 5356,
-  "changed_original_anchors": 110,
-  "extra_golden_objects": 18,
-  "difference_records_reviewed": 0,
-  "extra_objects_reviewed": 0,
-  "translation_changes_accepted": 0,
-  "endnote_records_created": 0,
-  "status": "audit_inventory_created_review_pending"
+  "state": "editorial_records_complete_rendering_pending",
+  "counts": {
+    "original_anchors_compared": 5466,
+    "changed_anchors_reviewed": 110,
+    "extra_objects_reviewed": 18,
+    "restored_main_verses": 23,
+    "uncertainty_only_notes": 42,
+    "adjacent_context_revisions": 2,
+    "boundary_metadata_notes": 1,
+    "source_annotations_accounted": 65,
+    "distinct_new_endnotes": 173,
+    "classification_counts": {
+      "punctuation-spacing": 36,
+      "substantive-or-layer": 56,
+      "source-layer-removed": 16,
+      "word-division-correction": 2
+    },
+    "action_counts": {
+      "retain_english_and_annotate": 41,
+      "semantic_or_context_revision": 10,
+      "source_note_relocated": 43,
+      "non_main_or_joined_anchor": 16
+    }
+  },
+  "remaining_changed_anchor_reviews": 0,
+  "remaining_extra_object_reviews": 0,
+  "remaining_uncertainty_carryovers": 0,
+  "endnotes_rendered": false,
+  "translation_rendered": false,
+  "validation_passed": false,
+  "publication_verified": false
 }
