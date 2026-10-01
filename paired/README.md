@@ -21,7 +21,8 @@ Both files declare `schema: paired-text/1`, `text-id: dra-thal-gyur`,
 ```
 
 The English opening comment is simply `<!-- pair: DTG-000001 -->`.
-There is one shared pair ID, exactly once on each side, in the same order.
+Each shared pair ID is defined once per side, in the same order; note links
+may reference it repeatedly.
 `golden` and `roles` are space-separated, positionally aligned lists; `part`
 is `chapter-01` through `chapter-06` or `closing-material`. Roles retain the
 released values, including mixed-role pairs. IDs do not depend on headings.

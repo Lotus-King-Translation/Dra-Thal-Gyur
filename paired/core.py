@@ -111,7 +111,7 @@ def boundary_text(english):
     # These trailing notices carry their own periods, not the verse's predicate.
     text = NOTE_RE.sub('', english).rstrip()
     while True:
-        shorter = re.sub(r'\s*\[(?:Editorial|Numerical grouping unresolved)[^\]]*\]\s*$', '', text)
+        shorter = re.sub(r'\s*\[(?:Editorial|Numerical (?:grouping|construction) unresolved)[^\]]*\]\s*$', '', text)
         if shorter == text:
             return text.rstrip(' \t\n”’"\')')
         text = shorter.rstrip()
