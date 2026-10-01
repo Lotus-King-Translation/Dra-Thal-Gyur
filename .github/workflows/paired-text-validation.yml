@@ -1,7 +1,8 @@
-name: Paired text validation
+name: Paired text v2 validation
 on:
   push:
-    branches: [main, codex/paired-text-issue-2]
+    branches: [main]
+    tags: [dra-thal-gyur-paired-v*]
   pull_request:
 permissions:
   contents: read
@@ -15,13 +16,13 @@ jobs:
           fetch-depth: 0
           persist-credentials: false
           lfs: false
-      - name: Validate canonical pairs against immutable releases
-        run: python3 -B paired/validate.py
+      - name: Validate source-only formats, exact releases and final signoff
+        run: python3 -B paired/validate.py --require-final
       - name: Reject corrupted fixtures and reproduce the test receipt
         run: |
           python3 -B paired/test_paired.py > /tmp/paired-negative-tests.json
           cmp /tmp/paired-negative-tests.json paired/NEGATIVE-TESTS.json
-      - name: Check migration and generated manifest reproducibility
+      - name: Check migration, complete lineage and manifest reproducibility
         run: |
           python3 -B paired/migrate.py --check
           python3 -B paired/project.py --check

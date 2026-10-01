@@ -2,9 +2,9 @@
   "schema": "paired-negative-tests/2",
   "paired_edition": "dra-thal-gyur-paired-v2.0.0",
   "status": "pass",
-  "tests_run": 63,
+  "tests_run": 64,
   "positive_tests": 7,
-  "negative_tests": 56,
+  "negative_tests": 57,
   "failures": 0,
   "errors": 0,
   "checks": [
@@ -40,6 +40,11 @@
       "name": "reject_all_format_metadata_lost",
       "status": "pass",
       "rejection": "Missing, duplicated, unsupported or malformed source format/metadata: DTG-000001"
+    },
+    {
+      "name": "reject_alternate_repository_root",
+      "status": "pass",
+      "rejection": "Alternate repository root is unsupported; run its own paired/validate.py"
     },
     {
       "name": "reject_blocking_final_review",

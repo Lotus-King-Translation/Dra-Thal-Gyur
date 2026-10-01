@@ -38,7 +38,8 @@ where a containing v1 pair split. All 340 legacy IDs/4,932 object-note relations
 fresh semantic QC claim. The v1 account below remains historical provenance.
 
 Audit checkpoints on remote main: `43825d4` (scope/template), `a3181ae`
-(heading and Chapter 1 evidence), `e9ebdd6` (complete audit/decisions/lineage).
+(heading and Chapter 1 evidence), `e9ebdd6` (complete audit/decisions/lineage),
+`d49388b` (canonical v2 implementation and preservation tests).
 The final review and hash-bound signoff precede the annotated tag; its verified
 object/peeled commit are recorded afterward in v2/PUBLICATION.json on main.
 

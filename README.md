@@ -21,7 +21,7 @@ this is not a new semantic review of inherited English.
 
 | Location | Contents |
 | --- | --- |
-| [diplomatic/](diplomatic/README.md) | Released Chapter 1 bounded v1: corrected Adzom reading, restorations, apparatus and explicit coverage limits |
+| [diplomatic/](diplomatic/README.md) | Released six-chapter golden edition: corrected Adzom reading, restorations, apparatus and explicit coverage limits |
 | [source/](source/README.md) | Only the selected Adzom root-tantra facsimile and its e-text |
 | [editions/](editions/README.md) | Acquired reference editions, image archives, e-texts, metadata, and unresolved acquisition leads |
 | [AGENTS.md](AGENTS.md) | Copied project instructions plus user-required remote preservation directives; revision recorded in GUIDANCE-PROVENANCE.json |
@@ -29,7 +29,7 @@ this is not a new semantic review of inherited English.
 | [glossary/](glossary/expanded_tibetan_english_glossary.csv) | The original eight-column glossary, unchanged |
 | [GUIDANCE-PROVENANCE.json](GUIDANCE-PROVENANCE.json) | Source commit and checksums for the copied instructions, guidelines, and glossary |
 
-**Chapter 1 bounded v1 is released.** Read [the edition](diplomatic/release-v1/README.md). Exhaustive witness collation remains unfinished. Preservation and later work begin at [diplomatic/HANDOFF.md](diplomatic/HANDOFF.md) on `main`. It provides restart checks, an exact work queue and remote checkpoint instructions. The edition and all preserved recovery archives are together on this branch.
+**The whole root tantra bounded v1 is released.** Read [the fixed edition](diplomatic/root-tantra-v1/release/README.md), tagged `root-tantra-v1.0.0`. Exhaustive witness collation remains unfinished. Preservation and later work begin at [diplomatic/HANDOFF.md](diplomatic/HANDOFF.md) on `main`. It provides restart checks, an exact work queue and remote checkpoint instructions. The edition and all preserved recovery archives are together on this branch.
 
 ## Reading the source
 

@@ -162,7 +162,9 @@ def validate_texts(source: str, translation: str, authorities):
 
 
 def validate_repo(root=ROOT, require_final=False):
-    root = Path(root)
+    root = Path(root).resolve()
+    require(root == ROOT.resolve(),
+            'Alternate repository root is unsupported; run its own paired/validate.py')
     check_tags(root)
     authorities = load_authorities()
     check_protected(authorities, root)
@@ -188,6 +190,7 @@ SIGNOFF_FILES = [
     'paired/v2/STRUCTURE-DECISIONS.json', 'paired/v2/PAIR-AUDIT.json',
     'paired/v2/HEADING-AUDIT.md', 'paired/v2/CH01-STRUCTURE-AUDIT.md',
     'paired/v2/CH02-06-STRUCTURE-AUDIT.md', 'paired/v2/FINAL-REVIEW.md',
+    'paired/v2/PLAN.md',
     'paired/v2/reference/template-FORMAT.md', 'paired/v2/reference/template-AGENTS.md',
     '.github/workflows/paired-text-validation.yml',
 ]
@@ -212,7 +215,8 @@ def validate_signoff(report, record, root=ROOT):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--repo', type=Path, default=ROOT)
+    parser.add_argument('--repo', type=Path, default=ROOT,
+                        help='Must resolve to this validator checkout; alternate roots are rejected')
     parser.add_argument('--require-final', action='store_true', help='Require an accepted hash-bound final signoff')
     parser.add_argument('--full', action='store_true', help='Print the complete generated manifest')
     args = parser.parse_args()

@@ -1,6 +1,7 @@
 # paired-text/2 structural migration — issue #4
 
-Status: audit in progress. Publication is not yet authorized by a passed gate.
+Status: audit, implementation and independent review complete. Publication
+requires the saved final gate; remote completion is evidenced by PUBLICATION.json.
 The user-requested scope includes final signoff, annotated immutable v2 tag,
 remote verification, and a later publication receipt committed on main.
 

@@ -91,3 +91,7 @@ edits. `project.py` validates canonical Markdown before generating the manifest
 and full audit/lineage. `--require-final` demands saved hash-bound signoff.
 The annotated tag is fixed before its verified publication receipt is committed
 on main; the receipt must never move that tag. See [handoff](HANDOFF.md).
+
+Run the validator belonging to the checkout being validated. `--repo` accepts
+only that same resolved checkout; alternate roots are rejected so a corpus
+cannot accidentally use another checkout’s structural decisions.

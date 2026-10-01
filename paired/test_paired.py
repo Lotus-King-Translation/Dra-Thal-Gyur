@@ -453,6 +453,12 @@ class PairedTests(unittest.TestCase):
         with patch.object(validate, 'signoff_binding', return_value=binding):
             self.assertIsNone(validate.validate_signoff({}, record))
 
+    def test_reject_alternate_repository_root(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            with self.assertRaisesRegex(ValueError, 'Alternate repository root is unsupported') as caught:
+                validate.validate_repo(Path(temporary))
+            REJECTIONS[self._testMethodName] = str(caught.exception)
+
     def test_reject_missing_final_signoff_file(self):
         with tempfile.TemporaryDirectory() as temporary:
             root = Path(temporary)
@@ -461,7 +467,7 @@ class PairedTests(unittest.TestCase):
             (root / 'paired/translation.md').write_text(self.translation, encoding='utf-8')
             # Isolate the filesystem gate from Git and linked-evidence setup;
             # real pair/content validation still runs against the pinned corpus.
-            with patch.multiple(validate, check_tags=Mock(), check_protected=Mock(),
+            with patch.multiple(validate, ROOT=root, check_tags=Mock(), check_protected=Mock(),
                                 check_links=Mock(return_value=0),
                                 load_authorities=Mock(return_value=self.authorities)):
                 with self.assertRaisesRegex(ValueError, 'requires saved signoff') as caught:
