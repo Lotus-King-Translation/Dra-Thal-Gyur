@@ -1,5 +1,5 @@
 {
-  "state": "validated_candidate_signoff_pending",
+  "state": "final_validation_passed_publication_pending",
   "counts": {
     "original_anchors_compared": 5466,
     "changed_anchors_reviewed": 110,
@@ -32,5 +32,7 @@
   "publication_verified": false,
   "rendered_output_files": 25,
   "negative_tests_rejected": 36,
-  "final_signoff": false
+  "final_signoff": true,
+  "final_validation_passed": true,
+  "remaining_source_reconciliation_tasks": 0
 }
