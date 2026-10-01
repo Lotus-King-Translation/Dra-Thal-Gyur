@@ -1,5 +1,5 @@
 {
-  "state": "final_validation_passed_publication_pending",
+  "state": "published_golden_aligned_translation",
   "counts": {
     "original_anchors_compared": 5466,
     "changed_anchors_reviewed": 110,
@@ -29,10 +29,14 @@
   "endnotes_rendered": true,
   "translation_rendered": true,
   "validation_passed": true,
-  "publication_verified": false,
+  "publication_verified": true,
   "rendered_output_files": 25,
   "negative_tests_rejected": 36,
   "final_signoff": true,
   "final_validation_passed": true,
-  "remaining_source_reconciliation_tasks": 0
+  "remaining_source_reconciliation_tasks": 0,
+  "release_id": "translation-golden-aligned-v1.0.0",
+  "release_commit": "e24e97ddad9cefa339b5583a38389179dba7a365",
+  "publication_receipt": "translations/2026-10-01-golden-aligned/PUBLICATION.json",
+  "remaining_publication_tasks": 0
 }
