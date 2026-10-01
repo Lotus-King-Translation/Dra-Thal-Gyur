@@ -1,8 +1,9 @@
 # Paired-text migration — issue #2
 
-Status: provisional implementation; no paired edition published yet.
+Status: implementation complete; branch publication and pull-request verification
+are recorded below. No new Git release tag is created by this migration.
 
-The only new canonical paired content will be `source.md` and `translation.md`.
+The only new canonical paired content is `source.md` and `translation.md`.
 This is a presentation/segmentation migration, without new translation or semantic QC.
 
 ## Immutable authorities
@@ -68,3 +69,26 @@ The counts are 5,466 original anchors plus 18 additions, 23 restored verses in
 18 closing anchors. Unmatched pairs, duplicated objects and omitted objects
 are all zero. Exact preservation checks do not certify the inherited translation
 or resolve its uncertainties.
+
+
+## Final review and continuation
+
+The independent review found no blocking acceptance gap after the U01192
+correction. It checked reverse projection, note/evidence reachability and
+rejected additional in-memory envelope, Unicode, role, hidden-note, backlink,
+closing-structure and historical-scan corruption probes. This is implementation
+review, not fresh semantic QC of the inherited translation.
+
+Verified remote checkpoints on `codex/paired-text-issue-2`:
+
+- Scope and immutable authorities: `687801cb862050b43dd08721e39734e3107f507d`.
+- Provisional 2,659-pair import: `616175172f8ed09bbfd8a63ecb7e2f8dada431c6`.
+- Final 2,660-pair identity, validator and 41 corruption rejections:
+  `07e6e57e67a7f00eb9470a388d0baf3327f3d26e`.
+
+The current branch ref is the authority for the newest checkpoint. CI runs the
+validator, corruption suite, exact test-receipt comparison, migration check and
+manifest check. Future editing starts from the two canonical Markdown files.
+For changed membership, create a new paired edition and explicitly record
+old/new pair lineage; the validator's membership lock must never be silently
+updated under this edition's identity. Never mutate the two input release tags.

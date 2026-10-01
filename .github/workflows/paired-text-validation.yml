@@ -1,0 +1,28 @@
+name: Paired text validation
+on:
+  push:
+    branches: [main, codex/paired-text-issue-2]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+          lfs: false
+      - name: Validate canonical pairs against immutable releases
+        run: python3 -B paired/validate.py
+      - name: Reject corrupted fixtures and reproduce the test receipt
+        run: |
+          python3 -B paired/test_paired.py > /tmp/paired-negative-tests.json
+          cmp /tmp/paired-negative-tests.json paired/NEGATIVE-TESTS.json
+      - name: Check migration and generated manifest reproducibility
+        run: |
+          python3 -B paired/migrate.py --check
+          python3 -B paired/project.py --check
+          git diff --exit-code

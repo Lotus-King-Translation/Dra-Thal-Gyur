@@ -2,6 +2,9 @@
 
 [Source](source.md) · [Translation](translation.md) · [Provenance](MIGRATION.md)
 
+2,660 pairs cover all 5,484 golden objects, with 23 restored verses,
+173 reconciliation endnotes and 18 closing anchors. [Coverage](MANIFEST.json).
+
 `source.md` and `translation.md` are the only canonical paired content files.
 Python helpers and generated reports support them; they are not editorial authorities.
 The immutable input editions remain authoritative for this migration's wording.
