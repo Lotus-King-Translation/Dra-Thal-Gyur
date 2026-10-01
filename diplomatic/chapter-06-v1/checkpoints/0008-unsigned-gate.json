@@ -1,0 +1,6 @@
+{
+  "exit_code": 1,
+  "rejected": true,
+  "stdout": "",
+  "stderr": "Traceback (most recent call last):\n  File \"/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/chapter-06-v1/validate_release.py\", line 121, in <module>\n    if __name__=='__main__': main()\n                             ~~~~^^\n  File \"/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/chapter-06-v1/validate_release.py\", line 112, in main\n    req(state['status']=='released_bounded_v1' and bool(d['final_signoff']),'Final signoff absent')\n    ~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/mikkokotila/dev/Dra-Thal-Gyur/diplomatic/chapter-06-v1/validate_release.py\", line 9, in req\n    if not x: raise ValueError(m)\n              ^^^^^^^^^^^^^^^^^^^\nValueError: Final signoff absent\n"
+}

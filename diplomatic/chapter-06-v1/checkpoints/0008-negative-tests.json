@@ -1,0 +1,137 @@
+{
+  "positive_case_passed": true,
+  "negative_cases_rejected": 26,
+  "cases": [
+    {
+      "case": "lost_anchor",
+      "rejected": true,
+      "reason": "Anchor loss/order"
+    },
+    {
+      "case": "changed_source_unit",
+      "rejected": true,
+      "reason": "Original source units altered"
+    },
+    {
+      "case": "changed_selected",
+      "rejected": true,
+      "reason": "Anchor string changed"
+    },
+    {
+      "case": "changed_role",
+      "rejected": true,
+      "reason": "Role/source Wylie drift"
+    },
+    {
+      "case": "lost_uncertainty",
+      "rejected": true,
+      "reason": "Uncertainty hidden/inflated"
+    },
+    {
+      "case": "lost_intervention_link",
+      "rejected": true,
+      "reason": "Anchor links drift"
+    },
+    {
+      "case": "lost_locus_link",
+      "rejected": true,
+      "reason": "Anchor links drift"
+    },
+    {
+      "case": "lost_W_link",
+      "rejected": true,
+      "reason": "Anchor links drift"
+    },
+    {
+      "case": "invented_annotation",
+      "rejected": true,
+      "reason": "Invented source annotations"
+    },
+    {
+      "case": "lost_restoration",
+      "rejected": true,
+      "reason": "Sequence/restoration order drift"
+    },
+    {
+      "case": "changed_restoration",
+      "rejected": true,
+      "reason": "Sequence/restoration order drift"
+    },
+    {
+      "case": "reordered_sequence",
+      "rejected": true,
+      "reason": "Sequence/restoration order drift"
+    },
+    {
+      "case": "lost_insertion_metadata",
+      "rejected": true,
+      "reason": "Restoration metadata drift"
+    },
+    {
+      "case": "changed_combined",
+      "rejected": true,
+      "reason": "Combined reading drift"
+    },
+    {
+      "case": "false_full_proofread",
+      "rejected": true,
+      "reason": "Inflated coverage"
+    },
+    {
+      "case": "false_exhaustive",
+      "rejected": true,
+      "reason": "Inflated coverage"
+    },
+    {
+      "case": "lost_locus_decision",
+      "rejected": true,
+      "reason": "Missing/invented A/B/S decision"
+    },
+    {
+      "case": "wrong_locus_reading",
+      "rejected": true,
+      "reason": "Release reading drift"
+    },
+    {
+      "case": "lost_W_decision",
+      "rejected": true,
+      "reason": "Missing/invented W decision"
+    },
+    {
+      "case": "wrong_W_line",
+      "rejected": true,
+      "reason": "W line mapping drift"
+    },
+    {
+      "case": "missing_ABS_restoration_link",
+      "rejected": true,
+      "reason": "A/B/S restoration link absent"
+    },
+    {
+      "case": "missing_W_restoration_link",
+      "rejected": true,
+      "reason": "W restoration link absent"
+    },
+    {
+      "case": "lost_closing_unit",
+      "rejected": true,
+      "reason": "Role/source Wylie drift"
+    },
+    {
+      "case": "changed_closing_selected",
+      "rejected": true,
+      "reason": "Apparatus/decision export drift"
+    },
+    {
+      "case": "changed_closing_role",
+      "rejected": true,
+      "reason": "Role/source Wylie drift"
+    },
+    {
+      "case": "lost_intervention",
+      "rejected": true,
+      "reason": "Uncertainty hidden/inflated"
+    }
+  ],
+  "editorial_originals_modified": false
+}
