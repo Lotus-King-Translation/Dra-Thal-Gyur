@@ -37,3 +37,19 @@ No new translation, source correction, glossary assignment or semantic QC.
 The 23 restored verses, 173 reconciliation endnotes, 340 earlier-note IDs,
 65 source-annotation components and 18 closing anchors must survive.
 Every substantive batch is committed/pushed and its remote SHA verified.
+
+## Audit completion
+
+All 2,660 v1 pairs and 5,484 golden objects are classified in PAIR-AUDIT.json.
+STRUCTURE-DECISIONS.json records the integrated rendering decisions and why
+its title dispositions supersede the preliminary Chapter 1 title candidates.
+Five v1 pairs contain multiple formats. The target is 2,667 pairs: 48 prose,
+2,448 verse, 2 h1, 0 h2 and 169 h3. The 2,655 unaffected pairs retain their
+IDs and complete membership. The five old IDs retire; their twelve children
+receive DTG-002661–DTG-002672, preserving source order without renumbering
+unaffected pairs. No golden object is split. Full 2,660-row lineage is already
+saved before any canonical schema/segmentation change.
+
+The hearing-formula and closing-paratext decisions retain their stated
+confidence limits. They are explicit rendering dispositions, not claims that
+all historical genre questions or inherited readings have been settled.

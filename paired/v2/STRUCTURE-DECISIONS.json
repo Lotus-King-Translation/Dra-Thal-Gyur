@@ -1,0 +1,88 @@
+{
+  "schema": "paired-structure-decisions/1",
+  "status": "accepted-for-rendering",
+  "baseline_commit": "aae8883b13ff0f23da2603aecc12a64a15ffe25b",
+  "source_release": "root-tantra-v1.0.0",
+  "template_commit": "f6431c25c7c9fa852c404b8cd3e0e3cdeae1178f",
+  "basis": "Tibetan/editorial structure and preserved title-leaf/body distinction, never English punctuation.",
+  "heading_policy": {
+    "work_titles": "h1",
+    "external_chapter_wrappers": "h2",
+    "within_chapter_sibling_sections": "h3",
+    "h2_pairs": 0,
+    "reason": "Preserve existing work/chapter/section hierarchy. Individually reviewed setting, numbered-reply and summary rubrics are sibling chapter-internal sections; no unsupported rank is invented."
+  },
+  "role_formats": {
+    "chapter_colophon": "prose",
+    "closing_auspicious_formula": "prose",
+    "concluding_note": "prose",
+    "joined_anchor": "prose",
+    "main_text": "verse",
+    "opening_title_or_sign": "prose",
+    "protector_invocation": "prose",
+    "provisional_caption": "prose",
+    "restored_main_text": "verse",
+    "ritual_formula": "prose",
+    "seal": "prose",
+    "source_annotation_anchor": "prose",
+    "source_heading": "h3",
+    "transmission_restriction": "prose",
+    "unresolved_inscription": "prose",
+    "unresolved_source_graphic": "prose",
+    "work_colophon": "prose"
+  },
+  "object_overrides": {
+    "U00002": {
+      "format": "h1",
+      "reason": "Work-level foreign-title heading on the title leaf; lettering uncertainty retained."
+    },
+    "U00004": {
+      "format": "h1",
+      "reason": "Work-level Tibetan-title heading on the title leaf."
+    },
+    "U00007": {
+      "format": "prose",
+      "reason": "Embedded language announcement in the continuous opening naming formula."
+    },
+    "U00008": {
+      "format": "prose",
+      "reason": "Embedded Tibetan name, completing the language/title formula; not a new section."
+    },
+    "U00009": {
+      "format": "prose",
+      "reason": "Extended object of the continuous homage construction, completed by U00010."
+    },
+    "U00010": {
+      "format": "prose",
+      "reason": "Predicate of the preceding extended homage construction; unequal invocation units precede the metrical body."
+    },
+    "U00012": {
+      "format": "prose",
+      "reason": "Narrative hearing formula before the sustained seven-syllable setting; explicitly adopted prose presentation despite its nine-syllable shape.",
+      "confidence": "moderate; display disposition, not a historical genre certification"
+    },
+    "U00030": {
+      "format": "prose",
+      "reason": "Repeated narrative hearing formula before the sustained seven-syllable common setting; same disposition as U00012.",
+      "confidence": "moderate; display disposition, not a historical genre certification"
+    },
+    "U02634": {
+      "format": "prose",
+      "reason": "Attribution clause completing the Chapter 1 prose colophon at U02635, despite its inherited main_text role."
+    }
+  },
+  "evidence": [
+    "paired/v2/HEADING-AUDIT.md",
+    "paired/v2/CH01-STRUCTURE-AUDIT.md",
+    "paired/v2/CH02-06-STRUCTURE-AUDIT.md"
+  ],
+  "integration_decisions": [
+    "Adopt heading audit over the Chapter 1 preliminary title candidates: U00006/U00008 are embedded naming formulas, not title-leaf headings. Do not split v1 DTG-000005/DTG-000006.",
+    "Adopt prose for U00012/U00030 narrative formulas as an explicit rendering disposition; retain the audit confidence qualification, source strings and notes. This does not certify historical poetic genre.",
+    "Neutral prose format carries empty source-layer/graphic objects and the provisional caption. It neither creates root words nor resolves unread text.",
+    "Closing material is prose, including short metrical-looking invocation U05461 and family notice U05465; function and source context govern rather than isolated syllable totals."
+  ],
+  "unresolved_structural_decisions": [],
+  "remaining_textual_uncertainties": "All inherited source and translation uncertainties remain; format disposition does not resolve their wording.",
+  "fresh_semantic_qc": false
+}
