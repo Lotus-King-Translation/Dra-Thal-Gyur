@@ -1,3 +1,30 @@
+# Whole-work review handoff — 2026-10-05
+
+Reviewer/session **DTG-PD-20261005-Astra-05**, GPT-6 Astra Pro. Review branch `review/post-translation-20261005`; final English repair commit `df858d3f86c1894b1eccb2a0571d360db1d3d6d4`. English SHA-256 `aaab16250bfb25a835a32e3ffb79ba8d946e07b2aa3b1ba251b1c1b62f68ae79`. Original input, adopted 2.1.0/P1/P2/P3 policy, 283 × 8 glossary and fixed golden source remain bound in the existing report. No later owner-approved local policy override was found.
+
+**Review coverage complete; text readiness provisional.** All **2,667 / 2,667 pairs** were read in source order, including opening/closing material, with **513 first-encountered note records**. **Zero unreviewed pairs remain.** Across the complete review, **585 English operations in 519 pairs**, plus **21 review-link operations**, produce **531 changed pairs** in total (12 note-only pairs). The 585 operations include one explicitly recorded repair of this reviewer’s own earlier preposition change; they are not 585 independently confirmed original defects. Three source-annotation repairs and two active quotation repairs recorded in the earlier batches also remain. No accuracy percentage is derived.
+
+**Remaining work is not unread coverage:** 18 escalated construction question/groups and other linked provisional interpretations; 15 explicitly unresolved pair payloads; 72 source-qualified objects in 66 pairs. These overlapping units are not an accuracy score or an exhaustive total of individual ambiguities. Highest-priority decisions concern negation/means scope at DTG-001817, DTG-002369 and DTG-002567, and the final speaker/quotation boundary. Complete the bounded working-output integration described in the report without changing historical release contracts or editing an alternative English master.
+
+**Actual final checks:** fixed bytes, source/format identity, complete lineage, exact 606-operation replay, inherited notes/usages and 700 paired links pass. The paired suite runs 64 tests: 53 pass, 9 fail, 2 error at the historical exact-English gate. Paired final validation/migration/project checks and the golden-reader validator/build check fail at the pre-existing protected-glossary gate. Historical golden-aligned fixtures pass their positive case and 36 negative cases; fixed golden-root fixtures pass their positive case and 10 negative cases. These passes are not semantic certification of revised English. The 63 documented semantic regression specifications were not executed. No successful reading-edition regeneration is claimed.
+
+[Review package, exact counts, source-linked questions and command receipts](2026-10-01-golden-aligned/REVIEW.md#phase-d-final). Shared reconciliation remains bounded to unapproved whole expressions/names and construction families; matter, karmic being, bearer of phenomena, mindfulness and thinking, and projecting and gathering are already adopted, not new proposals. Other worktrees, unpublished recovery work, historical readers and all release tags were preserved. No release, final acceptance, independent second review or four-work harmonization is claimed. Earlier checkpoints below are historical.
+
+---
+
+# Active post-translation review — 2026-10-05
+
+Session **DTG-PD-20261005-Astra-02**, reviewer GPT-6 Astra Pro, independent of the input authoring/source-reconciliation runs. Owner explicitly assigned review-and-revise; no source/segmentation/glossary/release edits. Working branch `review/post-translation-20261005` starts at verified merged main `fc3a443ba5987efb0b132990bf131a236fa57320`.
+
+The [single current review package](2026-10-01-golden-aligned/REVIEW.md#phase-d-review) contains frozen hashes, complete finite inventory, executed baseline tests and coverage. **300/2,667 pairs semantically reviewed (ordinals 1–300); 62 scoped English repairs in 57 pairs, one source-annotation repair and 11 new review links applied (65 changed pairs including note-only changes). Batch 03 repairs are self-checked. Continue source ordinal 301, DTG-000298; the five queued legacy-status dispositions are integrated.** Review both directions under Q1–Q9, I §8.1 and III, with the full adopted 283 × 8 glossary. Read active source notes before treating any historical example as a defect.
+
+Canonical current English is `paired/translation.md`; tagged dated readers are history. Existing build/release checks bind the old glossary/standard and exact released English, so their baseline failure is not concealed by changing historical contracts. All tags, recovery branches and the clean detached recovery worktree remain preserved. The prior handoff below is retained as history; adoption merge is now verified and edit authority is now explicit.
+
+
+The interrupted prior session was first preserved and remote-verified at `ced6486c83555d236e7e41ac1e854044f79ab738`. The review retains its first 200-pair coverage as the original session record; continuation 02 begins its new source-order reading at ordinal 201.
+
+---
+
 # Dra Thal Gyur — translation handoff
 
 ## Template policy baseline — P3
