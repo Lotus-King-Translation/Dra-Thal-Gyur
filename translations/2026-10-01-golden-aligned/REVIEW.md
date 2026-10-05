@@ -5,6 +5,8 @@
 
 **Authority:** the owner's explicit October 5, 2026 assignment authorizes the smallest supported English and translation-note repairs in this repository only. No fresh translation, stylistic rewrite, Tibetan emendation, segmentation change, new shared glossary assignment, release or tag movement is authorized.
 
+**Current result:** whole-work coverage complete; working text provisional. [Final counts, remaining questions and actual validation](#phase-d-final).
+
 ## Frozen inputs and adopted policy
 
 English input commit: `fc3a443ba5987efb0b132990bf131a236fa57320` (current remote main at freeze). Canonical authored working English: `paired/translation.md`; fixed paired source: `paired/source.md`. Inherited translation edition: `translation-golden-aligned-v1.0.0` (`e24e97ddad9cefa339b5583a38389179dba7a365`). Paired identity/format edition: `dra-thal-gyur-paired-v2.0.0` (`d2285b8fe09e2a27be7aab5bcfb7a87806e949c5`). Golden Tibetan: `root-tantra-v1.0.0` (`b83051912977268b97615bd382d82e51c3406d61`). These are inherited edition identifiers, not a new release or a certification of revised text.
@@ -15508,7 +15510,7 @@ Actual checks pass: 569-operation exact replay from the original input; 502 cumu
 
 Reviewer/session **DTG-PD-20261005-Astra-05**, post-pass reconciliation of the fixed whole-work inventory. Coverage of source ordinals 1–2,667 was completed in Batches 01–15. This batch rechecks the actual candidate and repair contexts in both directions against the full glossary rows; it does not claim another source-order read of every pair, another 513 first encounters, or a second independent review. Evidence below is recorded before English application.
 
-Batch input **5e228e278c80397f5c366ca96a445f1e3c96f82b0**, remote-verified. The complete 283-row, eight-column glossary was checked against the actual whole-work source/English, in both directions. Exact-head concordances are candidate generators, not proof of identity, inflection coverage or accuracy: they produce false positives inside gnyis ka dag (both ... pure), chos kun gzhi med (all phenomena without a Ground), gzhi gnas (not zhi gnas), g.yul (not yul), complete Mahamudra, nominal/finite variants and plurals such as entities/identities. These were examined as constructions, not mechanically corrected. The inflected mtshan ma’i occurrence was separately included. All findings below were checked in their actual pair/context, not inferred from the historical issue examples.
+Batch input **c6a51e729d119e92a36296ffee6dc6ab2212b16f**, remote-verified (clerical hash correction recorded in the final disposition). The complete 283-row, eight-column glossary was checked against the actual whole-work source/English, in both directions. Exact-head concordances are candidate generators, not proof of identity, inflection coverage or accuracy: they produce false positives inside gnyis ka dag (both ... pure), chos kun gzhi med (all phenomena without a Ground), gzhi gnas (not zhi gnas), g.yul (not yul), complete Mahamudra, nominal/finite variants and plurals such as entities/identities. These were examined as constructions, not mechanically corrected. The inflected mtshan ma’i occurrence was separately included. All findings below were checked in their actual pair/context, not inferred from the historical issue examples.
 
 **Important no-change cases:** subject remains the supported logical exception at DTG-000304/000308/000309, but this does not license property for chos nyid. Naturally arisen is a grammatical aspect form of naturally arising; discerning-knowing and basic-space-of-phenomena preserve complete modifiers; adorned is the verb, not an omission of adornment. Sku ’khrungs is the complete honorific birth construction at DTG-000482, not an omitted embodiment noun. Sgyu rtsal means the contextual magical-skills expression at DTG-000233/000402, not automatically the Dzogchen expressiveness head. The greater Mahamudra phrase remains unchanged. DTG-002371 explicitly says snod bcud, environment and inhabitants: it is not a quintessence defect. Geographic yul, vessel/inhabitant bcud, physical rgyan cha and related possessive/adjectival forms retain their scoped readings. Short-form names and the unexplained three/four number are not reconstructed to fit a dictionary phrase. The raw English substring subject matter at DTG-002556 does not attest physical matter.
 
@@ -16765,7 +16767,175 @@ Actual final integrity checks pass: exact replay of 606 pair operations from the
 <!-- phase-d-findings -->
 
 <a id="phase-d-verification"></a>
-## Actual validation and repair verification
+
+<a id="phase-d-final"></a>
+## Final working-text disposition — 2026-10-05
+
+**Review coverage complete; text readiness provisional.** All **2,667 / 2,667 pairs** were read in source order, including opening/closing material, with **513 first-encountered note records**. **Zero unreviewed pairs remain.** Across the complete review, **585 English operations in 519 pairs**, plus **21 review-link operations**, produce **531 changed pairs** in total (12 note-only pairs). The 585 operations include one explicitly recorded repair of this reviewer’s own earlier preposition change; they are not 585 independently confirmed original defects. Three source-annotation repairs and two active quotation repairs recorded in the earlier batches also remain. No accuracy percentage is derived.
+
+The original-input review is independent of the September authoring and October source-reconciliation runs. Batches 01–15 record the source-order pass; Batch 16 records whole-work bidirectional terminology reconciliation. Rechecking this review’s repairs is self-check, not another independent review. The corrected canonical English is `paired/translation.md`; it is **not accepted for a new release or represented as human-certified**.
+
+| Part | Expected / reviewed pairs | Source ordinals | Changed pairs, including note-only |
+|---|---:|---|---:|
+| chapter-01 | 1199 / 1199 | 1–1199 | 231 |
+| chapter-02 | 543 / 543 | 1200–1742 | 140 |
+| chapter-03 | 354 / 354 | 1743–2096 | 58 |
+| chapter-04 | 237 / 237 | 2097–2333 | 40 |
+| chapter-05 | 211 / 211 | 2334–2544 | 34 |
+| chapter-06 | 108 / 108 | 2545–2652 | 24 |
+| closing-material | 15 / 15 | 2653–2667 | 4 |
+
+English repair head: `df858d3f86c1894b1eccb2a0571d360db1d3d6d4`. Canonical English SHA-256: `aaab16250bfb25a835a32e3ffb79ba8d946e07b2aa3b1ba251b1c1b62f68ae79`. A subsequent documentation-only commit saves this disposition without further English changes. Fixed golden/source/policy hashes and all inherited edition identifiers remain those recorded above. **Provenance correction:** the Batch 16 input commit was `c6a51e729d119e92a36296ffee6dc6ab2212b16f`; an earlier mistyped hash in that batch’s prose is corrected here and at the occurrence after checking the parent graph, reflog and remote. Its English hash `01804fb253da717d7e3795d0e27f65f975c74f957d616a15389465f0f72423b8` was correct; no alternate English input or policy was used.
+
+### Remaining questions: counts and limits
+
+The following **18 escalated construction questions/groups** remain open. These are a navigation summary of existing findings, not a new parallel ledger and **not an exhaustive count of every philological ambiguity**. Additional numerical, lexical, instructional and name questions remain precisely linked in the batch dispositions and inherited notes. Corrections to an approved label do not close the rest of a note. Each retained construction has its alternatives and settling evidence in those records: an attested parallel, explicit referent or authorized explanation, not a glossary substring or an inferred doctrine.
+
+| Existing question / note | DTG pair suffixes | Remaining question and detailed evidence |
+|---|---|---|
+| PD-Q03-01 | 000199 | [Audience, focusing and object/conceptual-mind attachment](#pd-q03-01) |
+| PD-Q03-02 | 000227 | [gnas bcud yul: referent and quintessence/contents relation](#pd-q03-02) |
+| PD-Q03-03 | 000238 | [Literary tantra versus personal continuum in the magic clause](#pd-q03-03) |
+| PD-Q03-04 | 000248 | [Training field, implied beings, agency and possession](#pd-q03-04) |
+| PD-Q03-05 | 000252 | [Exact ’du mched construction; do not silently substitute another spelling](#pd-q03-05) |
+| PD-Q03-06 | 000258 | [Technical Ground versus an ordinary support/origin](#pd-q03-06) |
+| PD-Q03-07 | 000244, 000276 | [Antecedent and possessor of de yi ’khor](#pd-q03-07) |
+| PD-Q04-01 | 000313 | [Tenets/system and the two instrumental continuations](#pd-q04-01) |
+| PD-Q04-02 | 000446 | [Recipient/result of maturation into/as the five families](#pd-q04-02) |
+| PD-Q05-01 | 000492 | [brgya gcig main count, separately from its variant](#pd-q05-01) |
+| PD-Q06-01 | 000706 | [Merit and karma versus meritorious karma](#pd-q06-01) |
+| PD-Q06-02 | 000740 | [Nominal objects examined versus actuality construction](#pd-q06-02) |
+| N-165 | 001817 | [Potentially major: med may negate radiance as well as limits/center](#phase-d-notes-12) |
+| N-208 | 002369 | [Potentially major: transmission/pith instructions as excluded means versus the exception introduced by las](#phase-d-notes-14) |
+| N-229 | 002567 | [Potentially major: med may negate arising of its own force as well as cessation](#phase-d-notes-15) |
+| N-235 | 002638–002644 | [Final subject/speaker versus supplied recipient and the unlocated quotation boundary](#phase-d-notes-15) |
+| N-104 / N-114 / N-221 | 001063, 001174, 002501 | [bya byed: action/agent versus two actions; inherited actions not cleared as a collapsed label](#phase-d-notes-16) |
+| N-103 | 001042 | [Speech la bzla: passing beyond versus decisive resolution in the complete construction](#phase-d-batch-16) |
+
+The three potentially major negation/means questions are not resolved merely because the English contains a negative. The final speaker/quotation question is also not cleared. Confidence is moderate that these alternatives need adjudication; neither competing interpretation is certified. The action/agent questions are retained with explicit local limits rather than assigning a new book-wide default.
+
+Separately, **15 pair payloads explicitly retain bracketed unresolved/unreadable material**: `DTG-000008`, `DTG-000545`, `DTG-000807`, `DTG-001192`, `DTG-001233`, `DTG-001244`, `DTG-001257`, `DTG-001519`, `DTG-001831`, `DTG-002089`, `DTG-002144`, `DTG-002326`, `DTG-002432`, `DTG-002537`, `DTG-002633`. This is a literal marker inventory, not the count of all uncertain translations. The fixed source carries **72 uncertainty-qualified golden objects across 66 pairs**; their exact pair inventory is above. Source flags include punctuation, graphics and layering qualifications, not only unreadable words. These counts overlap and must not be added together as a defect total.
+
+### Cross-work reconciliation still needed
+
+No shared glossary assignment was changed. Pending families retained in existing notes include the named Great Perfection/short-form identification and descriptive scripture titles (N-T08, N-227); the attested knowing-category forms and final-s distinctions (N-T87); `bsam gtan` / meditative stabilization versus deep absorption, equipoise and cultivation (N-T33); `rengs pa` / rigidity (N-T89); the `nyer len` and `rtog bral` constructions and their established neighboring families (N-T90); `’dus ma byas` / unconditioned (N-T100); `sku gdung` / embodiment-relics (N-T102); and the textual-unit terms `bam po`, `gzer bu`, `’gag` (N-T108). Their scopes and alternative readings remain in the linked records; these are not fresh approvals or a declaration that other books use them incorrectly. `bya byed`, exact title/name identification and the isolated phonetic/graphic forms likewise need construction-level reconciliation, not a component-built global label.
+
+**Already settled by adopted policy, not new proposals:** matter, karmic being, bearer of phenomena, mindfulness and thinking, projecting and gathering, and the other approved P1/P2 labels. Batch 16 explicitly supersedes old proposed-status claims for the latter three, including mistaken status wording in this reviewer’s earlier dispositions. Historical approvals/proposals remain visible; no closed template ticket was reopened. Ordinary material-weight expressions, genuinely acoustic sound, logical subject, contextual heart, permitted grammatical forms and complete larger expressions retain their justified scope. Reviewing this repository does not establish harmony or correctness across all four works.
+
+### Actual final validation and output disposition
+
+The following commands were executed against the final English hash above, not merely read from regression documentation.
+
+| Check | Actual result |
+|---|---|
+| Fixed Tibetan/golden/policy; ordered 5,484 golden objects; 2,667 IDs/formats; 2,660 lineage records; 283 × 8 glossary | PASS |
+| Exact replay of all 606 recorded pair operations from frozen original English | PASS; 531 changed pairs |
+| Inherited note references/footer and original usage/history preservation | PASS; all 513 N/G note IDs remain |
+| Current paired-file local links | PASS; 700 targets |
+| Existing usage disposition links / unique report and legacy-index anchors | PASS; 252 disposition links checked |
+| Paired validation, including `--require-final` | FAIL; historical protected-glossary gate |
+| Paired test suite | 64 run: 53 pass, 9 fail, 2 error; historical exact-English gate preempts affected checks |
+| `paired/migrate.py --check` and `paired/project.py --check` | FAIL; historical protected-glossary gate |
+| Golden-aligned final validator and reader build `--check` | FAIL; historical protected-glossary gate |
+| Golden-aligned in-memory preservation suite | PASS; positive case and 36 corrupted fixtures rejected |
+| Fixed golden-root preservation suite | PASS; positive case and 10 corrupted fixtures rejected |
+| `git diff --check` | PASS |
+
+The glossary gate already failed at the original review input after policy propagation. The additional exact-English failures occur once authorized repairs differ from the immutable released English; that 53/9/2 state was already present at continuation 05 entry. They are not silently reclassified as successful validation or semantic test results. The passing golden-aligned fixture suite tests the unchanged historical machine edition, **not the revised English**. The standard’s **63 semantic regression specifications were read but were not executed as a regression suite**; no execution claim is derived from reading them. Reproducible command receipts, including the failed/errored test names, are retained below.
+
+```json
+[
+  {
+    "command": "python3 -B paired/validate.py",
+    "exit_code": 1,
+    "output_sha256": "041bb6c8f716f044b37576dbf2dcdda4b81995f162472d278b883f34fedee4ba",
+    "blocking_result": "Historical protected glossary hash differs from adopted P2 glossary."
+  },
+  {
+    "command": "python3 -B paired/validate.py --require-final",
+    "exit_code": 1,
+    "output_sha256": "041bb6c8f716f044b37576dbf2dcdda4b81995f162472d278b883f34fedee4ba",
+    "blocking_result": "Historical protected glossary hash differs from adopted P2 glossary."
+  },
+  {
+    "command": "python3 -B paired/test_paired.py",
+    "exit_code": 1,
+    "output_sha256": "a5a9b648cb2ec758656badb3645b1d778eafd573fe037bd943b42a7010947e83",
+    "tests_run": 64,
+    "tests_passed": 53,
+    "failures": 9,
+    "errors": 2,
+    "failed_or_errored_cases": [
+      "test_positive_released_corpus (__main__.PairedTests.test_positive_released_corpus)",
+      "test_positive_structural_formats (__main__.PairedTests.test_positive_structural_formats)",
+      "test_reject_closing_as_seventh_chapter (__main__.PairedTests.test_reject_closing_as_seventh_chapter)",
+      "test_reject_closing_role_changed (__main__.PairedTests.test_reject_closing_role_changed)",
+      "test_reject_dropped_restored_verse_line (__main__.PairedTests.test_reject_dropped_restored_verse_line)",
+      "test_reject_extraneous_source_text (__main__.PairedTests.test_reject_extraneous_source_text)",
+      "test_reject_missing_final_signoff_file (__main__.PairedTests.test_reject_missing_final_signoff_file)",
+      "test_reject_source_heading_hidden (__main__.PairedTests.test_reject_source_heading_hidden)",
+      "test_reject_tibetan_join_newline_changed (__main__.PairedTests.test_reject_tibetan_join_newline_changed)",
+      "test_reject_tibetan_whitespace_trimmed (__main__.PairedTests.test_reject_tibetan_whitespace_trimmed)",
+      "test_reject_tibetan_word_mutated (__main__.PairedTests.test_reject_tibetan_word_mutated)"
+    ],
+    "limit": "Historical exact-English gate preempts affected assertions; not semantic regression execution."
+  },
+  {
+    "command": "python3 -B paired/migrate.py --check",
+    "exit_code": 1,
+    "output_sha256": "e0c669091db764ad28b2023dfedc89bf42b119c3ce121062a94b84a9237b1af7",
+    "blocking_result": "Historical protected glossary hash differs from adopted P2 glossary."
+  },
+  {
+    "command": "python3 -B paired/project.py --check",
+    "exit_code": 1,
+    "output_sha256": "e0c669091db764ad28b2023dfedc89bf42b119c3ce121062a94b84a9237b1af7",
+    "blocking_result": "Historical protected glossary hash differs from adopted P2 glossary."
+  },
+  {
+    "command": "python3 -B translations/2026-09-26-full-draft/golden-review/validate_translation.py --require-final",
+    "exit_code": 1,
+    "output_sha256": "f52a5d40d77d5a8128fc56c0e21e0c7603ebbe7cbea9c8169e2c5e5209db4e75",
+    "blocking_result": "Historical protected glossary hash differs from adopted P2 glossary."
+  },
+  {
+    "command": "python3 -B translations/2026-09-26-full-draft/golden-review/test_translation.py",
+    "exit_code": 0,
+    "output_sha256": "4422002d11007b318e6ff66cda3c87f6c4ccad38732960676a90e939dd05cc13",
+    "positive_case_passed": true,
+    "negative_cases_rejected": 36,
+    "scope": "Frozen historical golden-aligned machine edition, not revised paired English."
+  },
+  {
+    "command": "python3 -B translations/2026-09-26-full-draft/golden-review/build_translation.py --check",
+    "exit_code": 1,
+    "output_sha256": "d51af685fa951c7a859c50641dcc9b790836ad98c0dce73a278bfc489e3eafbd",
+    "blocking_result": "Historical protected glossary hash differs from adopted P2 glossary."
+  },
+  {
+    "command": "python3 -B diplomatic/root-tantra-v1/test_release.py",
+    "exit_code": 0,
+    "output_sha256": "f37e33dc8481b3aeba1c03aa23a7c296a4e16f11b9385a105ec1fb5e9987a8c6",
+    "positive_case_passed": true,
+    "negative_cases_rejected": 10,
+    "scope": "Fixed golden Tibetan assembly/preservation, not semantic English accuracy."
+  },
+  {
+    "command": "git diff --check",
+    "exit_code": 0,
+    "output_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "result": "PASS"
+  }
+]
+```
+
+**Dependent reading outputs were not regenerated successfully.** The existing paired projector validates the old release before producing its manifest/lineage; the golden-reader builder consumes the dated source-reconciliation authoring data, not the revised paired Markdown, and would write dated reader/report/usage outputs. Neither process currently provides a supported reviewed-working-text path. Read-only checks were attempted and failed before output writing. Initializing/migrating over authored English, changing protected hashes or signatures, rerunning the obsolete writer over current review records, or retagging a release would not be an acceptable repair. No separate hand-edited competing English edition was created.
+
+The bounded integration task is to provide an owner-approved working-output path that reads the sole canonical paired English, binds the adopted policy and this review evidence, preserves source roles/IDs and historical releases, and regenerates/checks only its actual dependent working views. Root FORMAT.md remains absent; operative format instructions are identified in the input freeze. Existing release contracts and old readers remain explicitly historical, not current readiness evidence.
+
+Only the six English/review/status paths listed in this package differ from the original input; no code, shared policy, source edition, original authoring record, historical generated reader, signature, source format or release tag was changed. All 18 frozen remote tag object/peeled-commit refs match. Local and remote review commits are verified after each push; no force push is used. The review package is handed off for the recorded bounded questions and output integration, **not final text acceptance**.
+
+## Historical baseline and earlier validation records
 
 Baseline execution in this session, before any English or report edit:
 
@@ -16798,11 +16968,11 @@ The actual read-only integrity check passes: replay of all **73 pair operations*
 
 ## Coverage versus text disposition
 
-**Current coverage:** 2667/2,667 semantic pairs reviewed, ordinals 1–2667 through DTG-002660; 0 remain unreviewed. **513 first-encountered note records** read cumulatively. **Applied changes:** 585 English operations, 21 earlier review-link operations; **531 changed pairs including note-only changes**. The previously recorded 3 source-annotation and 2 active Current English quote repairs remain preserved. Repair verification is self-check, not another independent review. **Text disposition:** reviewed portions retain linked unresolved questions; no text acceptance, human certification, formal release or cross-work harmonization is claimed. Existing released readers remain historical; their builders reject the changed policy/English, and no successful regeneration is claimed.
+**Review coverage complete; text readiness provisional.** All **2,667 / 2,667 pairs** were read in source order, including opening/closing material, with **513 first-encountered note records**. **Zero unreviewed pairs remain.** Across the complete review, **585 English operations in 519 pairs**, plus **21 review-link operations**, produce **531 changed pairs** in total (12 note-only pairs). The 585 operations include one explicitly recorded repair of this reviewer’s own earlier preposition change; they are not 585 independently confirmed original defects. Three source-annotation repairs and two active quotation repairs recorded in the earlier batches also remain. No accuracy percentage is derived.
 
 ## Continuation
 
-All expected source ranges have been read; no unreviewed pairs remain. Retained semantic questions and working-output integration are separate readiness limits. Complete final reconciliation and validation before describing the package as ready for handoff.
+No unreviewed source range remains. Continue only with the [bounded questions and dependent-output integration](#phase-d-final); the existing reading/build limitations prevent acceptance as a newly validated reading edition. Preserve canonical English, source bytes, roles/IDs/formats, historical releases and previous approvals. This review is not human certification or four-work harmonization.
 
 ---
 
