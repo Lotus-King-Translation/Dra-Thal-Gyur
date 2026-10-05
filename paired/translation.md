@@ -228,7 +228,7 @@ The activity of emanation first arose.
 <a id="dtg-000023"></a>
 
 <!-- pair: DTG-000023 -->
-In the initial setting for the arising of the continuum,
+In the initial setting for the arising of the tantra,
 the seeds of the five were held. [N-005](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-005)
 
 [^G-U00048][^G-U00049]
@@ -900,7 +900,7 @@ What is the manner of the elements' transference?
 <a id="dtg-000107"></a>
 
 <!-- pair: DTG-000107 -->
-Which elements belong to the crucial points?
+Which elements belong to the key points?
 <!-- /pair -->
 
 <a id="dtg-000108"></a>
@@ -924,19 +924,19 @@ By what is the activity of relocation carried out?
 <a id="dtg-000111"></a>
 
 <!-- pair: DTG-000111 -->
-What distinguishes the aware from the insentient?
+What distinguishes the aware from matter?
 <!-- /pair -->
 
 <a id="dtg-000112"></a>
 
 <!-- pair: DTG-000112 -->
-What method reverses the crucial points themselves?
+What method reverses the key points themselves?
 <!-- /pair -->
 
 <a id="dtg-000113"></a>
 
 <!-- pair: DTG-000113 -->
-By what is the enlightened intent of the tenets established?
+By what is the enlightened intent of the tenet system established?
 <!-- /pair -->
 
 <a id="dtg-000114"></a>
@@ -998,7 +998,7 @@ What is the rite of conferring empowerment?
 <a id="dtg-000123"></a>
 
 <!-- pair: DTG-000123 -->
-What are the pledges and vows like?
+What are the sacred pledges and vows like?
 
 Earlier notes: [N-T50](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t50), [N-T51](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t51).
 <!-- /pair -->
@@ -1018,13 +1018,13 @@ Beyond phrases, by what are elaborations cut?
 <a id="dtg-000126"></a>
 
 <!-- pair: DTG-000126 -->
-How is this applied to the crucial point of direct perception?
+How is this applied to the key point of direct perception?
 <!-- /pair -->
 
 <a id="dtg-000127"></a>
 
 <!-- pair: DTG-000127 -->
-By what are samsara and nirvana separated? [N-T11](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t11)
+By what are cyclic existence and transcendence of sorrow separated in the secret preliminary? [N-T11](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t11)
 
 Earlier notes: [N-T11](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t11).
 <!-- /pair -->
@@ -1078,7 +1078,7 @@ How extensive is the site of attaining the result?
 <a id="dtg-000135"></a>
 
 <!-- pair: DTG-000135 -->
-By what is samsara's flowing stream cut?
+By what is the flowing stream of cyclic existence cut?
 
 [^G-U00252]
 
@@ -1088,7 +1088,7 @@ Earlier notes: [N-T17](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000136"></a>
 
 <!-- pair: DTG-000136 -->
-What is the taking of nourishment from vital essences? [N-T16](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t16)
+What is the taking of nourishment from quintessence? [N-T16](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t16)
 
 Earlier notes: [N-T16](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t16).
 <!-- /pair -->
@@ -1157,7 +1157,7 @@ Lord of appearance, speak to me!
 By clearly distinguishing their sequence for me,
 in the times to come,
 all who have faith in and aspire to this
-will come to trust this Great Perfection.
+will come to have conviction in this Great Perfection.
 
 Earlier notes: [N-T08](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t08).
 <!-- /pair -->
@@ -1173,8 +1173,8 @@ Earlier notes: [N-019](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000148"></a>
 
 <!-- pair: DTG-000148 -->
-When samsara is exhausted to its very end,
-they will find the entrance to the path beyond sorrow.
+When cyclic existence is exhausted to its very end,
+they will find the entrance to the path of transcendence of sorrow.
 <!-- /pair -->
 
 <a id="dtg-000149"></a>
@@ -1245,7 +1245,7 @@ Ema! How wonderful and astonishing!
 
 <!-- pair: DTG-000156 -->
 This, not spoken by the buddhas,
-surpasses other continua.
+surpasses other tantras.
 <!-- /pair -->
 
 <a id="dtg-000157"></a>
@@ -1253,7 +1253,7 @@ surpasses other continua.
 <!-- pair: DTG-000157 -->
 So that there may be no return to abiding in the three realms,
 this most secret, definitive command,
-for increasing the quintessence of the teaching,
+for increasing the core of the teaching,
 is the very highest summit of the vehicles.
 <!-- /pair -->
 
@@ -1263,9 +1263,9 @@ is the very highest summit of the vehicles.
 It gathers, through meaning, the mirror of the teachings;
 it is the commentary on the command, the heart of the pith instructions,
 the great perfection whose intrinsic nature is secret,
-the heart-commentary, the eye of authoritative transmission,
+the heart-commentary, the eye of transmission,
 the most secret key, the inner depth of the view,
-the training ground of activity, the crucial point of cultivation,
+the training ground of activity, the key point of cultivation,
 the cutter of the succession of wombs, the sweeper of the lower destinies. [N-022](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-022)
 
 Earlier notes: [N-022](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-022), [N-T49](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t49), [N-T23](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t23), [N-T17](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t17).
@@ -1274,7 +1274,7 @@ Earlier notes: [N-022](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000159"></a>
 
 <!-- pair: DTG-000159 -->
-I will explain the supreme secret continuum;
+I will explain the supreme secret tantra;
 retinue who also hold the vajra, listen!
 
 Earlier notes: [N-022](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-022).
@@ -1298,13 +1298,13 @@ without doubt they yield the result.
 <a id="dtg-000162"></a>
 
 <!-- pair: DTG-000162 -->
-Therefore I teach the quintessence of the teaching.
+Therefore I teach the core of the teaching.
 <!-- /pair -->
 
 <a id="dtg-000163"></a>
 
 <!-- pair: DTG-000163 -->
-Listen, listen, Joy-Maker—take hold of this!’
+O, O, Joy-Maker—take hold of this!’
 <!-- /pair -->
 
 <a id="dtg-000164"></a>
@@ -1352,8 +1352,8 @@ Earlier notes: [N-024](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000167 -->
 The purposes of the elements are as follows:
-Water gathers the refined part
-and performs the activity of separating the dregs
+Water gathers the pure extract
+and performs the activity of separating the residue
 in each individual body.
 
 [^G-U00319]
@@ -1435,7 +1435,7 @@ Know its purpose in the abiding of ordinary mind.
 <a id="dtg-000178"></a>
 
 <!-- pair: DTG-000178 -->
-The great maṇḍala of these four elements
+The great mandala of these four elements
 acts as the cause of the formation of the body and so forth.
 <!-- /pair -->
 
@@ -1513,7 +1513,7 @@ it is applied to the uncommon body.
 <!-- pair: DTG-000187 -->
 In order to accord in approach with other vehicles,
 the common introductory setting
-is taught to inspire trust
+is taught to inspire conviction
 in the compiler's own retinue.
 <!-- /pair -->
 
@@ -1572,7 +1572,7 @@ diverse elaborations are the meaning.
 <a id="dtg-000195"></a>
 
 <!-- pair: DTG-000195 -->
-Ema! In the definite arising of the continua,
+Ema! In the definite arising of the tantras,
 there are two aspects of enlightened intent.
 <!-- /pair -->
 
@@ -1580,7 +1580,7 @@ there are two aspects of enlightened intent.
 
 <!-- pair: DTG-000196 -->
 For those whose conceptual mind concerns awareness as self-appearance, [N-026](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-026)
-the meaning of the continuum's title is distinguished.
+the meaning of the tantra's title is distinguished.
 
 Earlier notes: [N-026](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-026).
 <!-- /pair -->
@@ -24220,7 +24220,9 @@ These source-reconciliation notes preserve the October 1 decision evidence. Each
 
     annotation: `"རྒྱུད་ཀྱི་ཆེ་བ་རྣམ་པར་བཀོད་པའི་བཀོད་པ"`
 
-    English: The array setting out the greatness of the continuum. This is a separate structural note, not words inside the main subject phrase.
+    English at the October 1 checkpoint (historical): The array setting out the greatness of the continuum. This is a separate structural note, not words inside the main subject phrase.
+
+    **Current source-annotation English (Phase D):** The array setting out the greatness of the tantra. This remains a separate structural note, not part of the main subject phrase. [Review evidence](../translations/2026-10-01-golden-aligned/REVIEW.md#phase-d-batch-02).
 
     Source qualification: printed_separate_structural_note; high for the stated local observation; no claim about other loci
 
