@@ -8563,7 +8563,7 @@ Earlier notes: [N-093](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000948 -->
 The embodiment of the wrathful king, the Unmoving Protector—
-with faith, definitely imagine one's own body [as this].
+with faith, definitely imagine your own body [as this].
 
 Earlier notes: [N-093](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-093).
 <!-- /pair -->
@@ -8573,7 +8573,7 @@ Earlier notes: [N-093](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-000949 -->
 Through rays of light in the form of hooks,
 proliferate the activities of summoning, killing, and binding, [N-093](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-093)
-in whatever way one desires.
+in whatever way you desire.
 
 [^G-U02129]
 
@@ -8713,7 +8713,7 @@ Earlier notes: [N-094](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000965"></a>
 
 <!-- pair: DTG-000965 -->
-Because samsara and nirvana do not abide,
+Because cyclic existence and transcendence of sorrow do not abide,
 and the empty nature of phenomena pervades all,
 primordial knowing abides in its own identity;
 in the manner of three, [they are] indivisible. [N-094](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-094)
@@ -8789,7 +8789,7 @@ Earlier notes: [N-095](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000973"></a>
 
 <!-- pair: DTG-000973 -->
-Through the crucial point that reverses, too,
+Through the key point that reverses, too,
 reverse the delusion of the respective embodied beings.
 
 Earlier notes: [N-095](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-095).
@@ -8821,8 +8821,8 @@ Earlier notes: [N-096](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-000976 -->
 In the tradition, through two particular combinations,
 place those with perception at the limit.
-Through pith instructions on the crucial point of direct perception,
-cut the elaborations that distinguish samsara and nirvana.
+Through pith instructions on the key point of direct perception,
+cut the elaborations that distinguish cyclic existence and transcendence of sorrow.
 
 [^G-A2000-C01-S04]
 
@@ -8832,7 +8832,7 @@ Earlier notes: [N-096](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000977"></a>
 
 <!-- pair: DTG-000977 -->
-Through the wheel of the crucial points of cultivation,
+Through the wheel of the key points of cultivation,
 cut the elaborations of the connection of wind-mind.
 
 Earlier notes: [N-096](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-096).
@@ -8884,7 +8884,7 @@ Earlier notes: [N-097](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000983 -->
 For those whose respective characteristics are complete,
-with sovereignty and one's own body,
+with sovereignty and your own body,
 retinue, and enjoyments, rely on [them].
 
 Earlier notes: [N-097](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-097).
@@ -8925,7 +8925,7 @@ Earlier notes: [N-097](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000987 -->
 Focusing on that, rely on the guru,
-for it turns one back from the battlefield of samsara. [N-097](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-097)
+for it turns one back from the battlefield of cyclic existence. [N-097](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-097)
 
 Earlier notes: [N-097](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-097), [N-T43](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t43).
 <!-- /pair -->
@@ -9022,7 +9022,7 @@ Earlier notes: [N-098](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000997 -->
 The time is when the continuation of karma awakens,
-when the elements transform, and at the crucial point of ordinary mind.
+when the elements transform, and at the key point of ordinary mind.
 
 Earlier notes: [N-099](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-099), [N-T44](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t44).
 <!-- /pair -->
@@ -9079,7 +9079,7 @@ Earlier notes: [N-100](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001004"></a>
 
 <!-- pair: DTG-001004 -->
-Hidden in other continua,
+Hidden in other tantras,
 known by no one,
 the rite of conferring empowerment will be explained.
 
@@ -9107,7 +9107,7 @@ With elaborations, without elaborations,
 utterly without elaborations,
 and, likewise, completely without elaborations:
 through these four distinctions,
-the faithful mature their own continua.
+the faithful's own continua are matured.
 
 Earlier notes: [N-100](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-100).
 <!-- /pair -->
@@ -9127,7 +9127,7 @@ Earlier notes: [N-100](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-001008 -->
 Furthermore, with the earth rite,
 preparations, lines, and spreading colors,
-construct the maṇḍala that occurs in the continuum.
+construct the mandala that occurs in the tantra.
 
 Earlier notes: [N-100](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-100).
 <!-- /pair -->
@@ -9157,7 +9157,7 @@ Earlier notes: [N-100](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-001011 -->
 To mature the faithful who enter without elaborations,
 for the supreme empowerment without elaborations,
-relying on a maṇḍala and vase,
+relying on a mandala and vase,
 give empowerment in verses.
 
 Earlier notes: [N-100](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-100).
@@ -9167,7 +9167,7 @@ Earlier notes: [N-100](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001012 -->
 For [empowerment] utterly without elaborations,
-distinguish samsara and nirvana through the secret preliminary, as below. [N-100](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-100)
+distinguish cyclic existence and transcendence of sorrow through the secret preliminary, as below. [N-100](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-100)
 
 Earlier notes: [N-100](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-100), [N-T47](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t47).
 <!-- /pair -->
@@ -9219,7 +9219,7 @@ Earlier notes: [N-100](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001018 -->
 For [empowerment] completely without elaborations,
-open the gate of the maṇḍala of ordinary mind,
+open the gate of the mandala of ordinary mind,
 and definitely undertake the bodily posture.
 
 Earlier notes: [N-100](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-100).
@@ -9236,7 +9236,7 @@ Earlier notes: [N-100](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001020"></a>
 
 <!-- pair: DTG-001020 -->
-Directly perceived awareness is the sign of authoritative transmission. [N-100](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-100)
+Directly perceived awareness is the sign of transmission. [N-100](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-100)
 
 Earlier notes: [N-100](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-100).
 <!-- /pair -->
@@ -9251,8 +9251,8 @@ Earlier notes: [N-100](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001022 -->
 Hero Free from Conceptualization, son of the gods,
-to satisfy the sovereign Delight-Maker,
-the pledges depending on empowerment will be explained.
+to satisfy the sovereign Joy-Maker,
+the sacred pledges depending on empowerment will be explained.
 
 Earlier notes: [N-101](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-101), [N-T50](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t50).
 <!-- /pair -->
@@ -9320,9 +9320,9 @@ Earlier notes: [N-101](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001030"></a>
 
 <!-- pair: DTG-001030 -->
-Separated from the crucial point of direct perception,
-future sentient beings to be trained
-will place their trust in words.
+Separated from the key point of direct perception,
+future karmic beings to be trained
+will have conviction in words.
 
 Earlier notes: [N-101](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-101).
 <!-- /pair -->
@@ -9330,7 +9330,7 @@ Earlier notes: [N-101](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001031"></a>
 
 <!-- pair: DTG-001031 -->
-Sentient beings with coarse conceptual thought,
+Karmic beings with coarse conceptual thought,
 because they engage in words, are not mature.
 
 Earlier notes: [N-101](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-101).
@@ -9364,7 +9364,7 @@ Earlier notes: [N-102](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001035"></a>
 
 <!-- pair: DTG-001035 -->
-This continuum of definite secrecy,
+This tantra of definite secrecy,
 relying on the path of direct perception,
 gathers one's own knowing into awareness.
 
@@ -9398,7 +9398,7 @@ Earlier notes: [N-102](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001039"></a>
 
 <!-- pair: DTG-001039 -->
-The crucial point of direct perception: body, speech, and ordinary mind.
+The key point of direct perception: body, speech, and ordinary mind.
 
 Earlier notes: [N-103](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-103).
 <!-- /pair -->
@@ -9406,7 +9406,7 @@ Earlier notes: [N-103](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001040"></a>
 
 <!-- pair: DTG-001040 -->
-Definitely bring their respective crucial points into accord.
+Definitely bring their respective key points into accord.
 
 Earlier notes: [N-103](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-103).
 <!-- /pair -->
@@ -9442,7 +9442,7 @@ Earlier notes: [N-103](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001044"></a>
 
 <!-- pair: DTG-001044 -->
-Do not separate from the pith instructions on the three crucial points.
+Do not separate from the pith instructions on the three key points.
 
 Earlier notes: [N-103](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-103), [N-T49](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t49).
 <!-- /pair -->
@@ -9450,7 +9450,7 @@ Earlier notes: [N-103](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001045"></a>
 
 <!-- pair: DTG-001045 -->
-Furthermore, rely on the crucial points of the door, object,
+Furthermore, rely on the key points of the door, object,
 wind, and awareness.
 
 Earlier notes: [N-103](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-103).
@@ -9519,7 +9519,7 @@ Earlier notes: [N-103](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001053 -->
 Through the vision of the exhaustion of nature of phenomena,
-one cuts the flow of samsara of the three realms.
+one cuts the flow of cyclic existence of the three realms.
 
 Earlier notes: [N-103](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-103).
 <!-- /pair -->
@@ -9535,8 +9535,8 @@ Earlier notes: [N-103](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001055"></a>
 
 <!-- pair: DTG-001055 -->
-With a Ground in the three nonmovements,
-one arrives at the crucial point of wind-mind.
+With a basis in the three nonmovements,
+one arrives at the key point of wind-mind.
 
 Earlier notes: [N-103](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-103).
 <!-- /pair -->
@@ -9544,7 +9544,7 @@ Earlier notes: [N-103](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001056"></a>
 
 <!-- pair: DTG-001056 -->
-Taking the measure through three ways of remaining,
+By taking the measure through three ways of remaining,
 dreams are reversed; for body, speech, and mental faculty,
 signs and measures are definitely grasped.
 
@@ -9554,7 +9554,7 @@ Earlier notes: [N-103](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001057"></a>
 
 <!-- pair: DTG-001057 -->
-Fixing [this] with the three attainments,
+By fixing [this] with the three attainments,
 contaminated aggregates do not appear. [N-103](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-103)
 
 Earlier notes: [N-103](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-103).
@@ -9577,7 +9577,7 @@ Earlier notes: [N-104](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001060"></a>
 
 <!-- pair: DTG-001060 -->
-Unless samsara and nirvana are distinguished through the secret preliminary,
+Unless cyclic existence and transcendence of sorrow are distinguished through the secret preliminary,
 the connection of the three realms with body, speech,
 and mental faculty will not be cut.
 
@@ -9587,7 +9587,7 @@ Earlier notes: [N-104](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001061"></a>
 
 <!-- pair: DTG-001061 -->
-Therefore, I explain distinguishing samsara and nirvana through the secret preliminary.
+Therefore, I explain distinguishing cyclic existence and transcendence of sorrow through the secret preliminary.
 
 Earlier notes: [N-104](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-104), [N-T47](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t47).
 <!-- /pair -->
@@ -9735,7 +9735,7 @@ Earlier notes: [N-104](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001077 -->
 When activity has been completed in this way,
-continually apply [it] to the crucial point of direct perception.
+continually apply [it] to the key point of direct perception.
 
 Earlier notes: [N-104](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-104).
 <!-- /pair -->
@@ -9827,7 +9827,7 @@ Earlier notes: [N-105](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001088"></a>
 
 <!-- pair: DTG-001088 -->
-At this time, the crucial points of body, speech, and ordinary mind
+At this time, the key points of body, speech, and ordinary mind
 are to be allowed to settle by one endowed with yoga.
 
 Earlier notes: [N-105](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-105).
@@ -9838,7 +9838,7 @@ Earlier notes: [N-105](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-001089 -->
 Also with the signs of the wind that causes movement,
 mixing, projecting, and gathering—
-when the skilled person relies on these crucial points,
+when the skilled person relies on these key points,
 the flow of ordinary mind's conceptual thought is cut. [N-105](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-105)
 
 Earlier notes: [N-105](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-105).
@@ -9903,7 +9903,7 @@ Earlier notes: [N-105](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001097"></a>
 
 <!-- pair: DTG-001097 -->
-Lord of the gods, for the sake of sentient beings,
+Lord of the gods, for the sake of karmic beings,
 the answer to that compassionate question you asked—
 I teach it; grasp it without delusion.
 
@@ -9923,7 +9923,7 @@ Earlier notes: [N-106](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001099"></a>
 
 <!-- pair: DTG-001099 -->
-Through the crucial point of directly perceiving the nature of phenomena, too,
+Through the key point of directly perceiving the nature of phenomena, too,
 one realizes that activities have neither favorable nor unfavorable [status].
 
 Earlier notes: [N-106](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-106).
@@ -9986,8 +9986,8 @@ Earlier notes: [N-106](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001106"></a>
 
 <!-- pair: DTG-001106 -->
-Through confidence in liberation at the four crucial points,
-samsara and passing beyond sorrow do not abide.
+Through confidence in liberation at the four key points,
+cyclic existence and transcendence of sorrow do not abide.
 
 Earlier notes: [N-106](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-106).
 <!-- /pair -->
@@ -10004,7 +10004,7 @@ Earlier notes: [N-106](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001108"></a>
 
 <!-- pair: DTG-001108 -->
-The crucial points of liberation through hearing and seeing
+The key points of liberation through hearing and seeing
 are realized through two, five, and eight. [N-106](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-106)
 
 Earlier notes: [N-106](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-106).
@@ -10043,7 +10043,7 @@ Earlier notes: [N-107](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001113"></a>
 
 <!-- pair: DTG-001113 -->
-Definitely relate [this] through the authoritative transmission of ordinary mind.
+Definitely relate [this] through the transmission of ordinary mind.
 
 Earlier notes: [N-107](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-107).
 <!-- /pair -->
@@ -10051,7 +10051,7 @@ Earlier notes: [N-107](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001114"></a>
 
 <!-- pair: DTG-001114 -->
-Furthermore, concerning the crucial points of cultivation,
+Furthermore, concerning the key points of cultivation,
 preliminary practice, main practice,
 and subsequent practice are held to be three.
 
@@ -10061,9 +10061,9 @@ Earlier notes: [N-107](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001115"></a>
 
 <!-- pair: DTG-001115 -->
-Training the body, taming the nature of ordinary mind,
+By training the body, taming ordinary mind itself,
 and completing the activities of speech,
-the nature of ordinary mind enters the path.
+ordinary mind itself enters the path.
 
 Earlier notes: [N-107](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-107).
 <!-- /pair -->
@@ -10089,7 +10089,7 @@ Earlier notes: [N-107](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001118 -->
 Because the precipices of the six destinies are equal,
-press the crucial points of body, speech, and mental faculty. [N-107](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-107)
+press the key points of body, speech, and mental faculty. [N-107](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-107)
 
 Earlier notes: [N-107](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-107).
 <!-- /pair -->
@@ -10097,7 +10097,7 @@ Earlier notes: [N-107](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001119"></a>
 
 <!-- pair: DTG-001119 -->
-In order to mix the nature of ordinary mind with phenomena,
+In order to mix ordinary mind itself with phenomena,
 draw wind and knowing upward.
 
 Earlier notes: [N-107](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-107).
@@ -10123,7 +10123,7 @@ Earlier notes: [N-107](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-001122 -->
 For the application of activity, in basic space and awareness,
 endowed with three fixings, without separation,
-continual familiarity makes activity easeful.
+when there is continual familiarity, activity is easeful.
 
 [^G-U02484]
 
@@ -10134,7 +10134,7 @@ Earlier notes: [N-108](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001123 -->
 When all phenomena are free from doing,
-and the connection of samsara and nirvana is cut,
+and the connection of cyclic existence and transcendence of sorrow is cut,
 delusion with conceptual thought is stopped.
 
 Earlier notes: [N-108](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-108).
@@ -10143,7 +10143,7 @@ Earlier notes: [N-108](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002667"></a>
 
 <!-- pair: DTG-002667 -->
-By cutting the flow of samsara's precipice,
+By cutting the flow of cyclic existence's precipice,
 of the great yogin's activity—[N-108](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-108)
 
 [^G-U02489]
@@ -10190,7 +10190,7 @@ Earlier notes: [N-108](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001127 -->
 Because the flow of embodiments and primordial knowing is cut,
-there are neither buddhas nor sentient beings.
+there are neither buddhas nor karmic beings.
 
 Earlier notes: [N-108](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-108).
 <!-- /pair -->
@@ -10220,9 +10220,9 @@ Earlier notes: [N-108](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001131"></a>
 
 <!-- pair: DTG-001131 -->
-One wishing to cut the flow of samsara,
+One wishing to cut the flow of cyclic existence,
 having reversed attachment to body and speech,
-should press the crucial point of direct perception.
+should press the key point of direct perception.
 
 Earlier notes: [N-109](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-109).
 <!-- /pair -->
@@ -10231,8 +10231,8 @@ Earlier notes: [N-109](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001132 -->
 Through the application of calculating delusion,
-grasp the measures of the times of samsara and nirvana,
-and become skilled in the crucial point of reversal.
+grasp the measures of the times of cyclic existence and transcendence of sorrow,
+and become skilled in the key point of reversal.
 
 Earlier notes: [N-109](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-109).
 <!-- /pair -->
@@ -10249,7 +10249,7 @@ Earlier notes: [N-109](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001134"></a>
 
 <!-- pair: DTG-001134 -->
-This cuts the flow of samsara. [N-109](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-109)
+This cuts the flow of cyclic existence. [N-109](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-109)
 
 Earlier notes: [N-109](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-109).
 <!-- /pair -->
@@ -10263,8 +10263,8 @@ Earlier notes: [N-109](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001136"></a>
 
 <!-- pair: DTG-001136 -->
-Taking nourishment from vital essences is like this:
-not taught in any other continuum,
+Taking nourishment from quintessence is like this:
+not taught in any other tantra,
 Ema! It is explained as greatly wondrous.
 
 Earlier notes: [N-110](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-110).
@@ -10308,7 +10308,7 @@ Earlier notes: [N-110](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001141"></a>
 
 <!-- pair: DTG-001141 -->
-Through taking nourishment from vital essences of medicinal preparations,
+Through taking nourishment from quintessence of medicinal preparations,
 one becomes endowed with splendor and youthful.
 
 [^G-U02522]
@@ -10329,7 +10329,7 @@ Earlier notes: [N-110](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001143 -->
 Furthermore, relying on wind,
-greatly wondrous taking of nourishment from vital essences is explained.
+greatly wondrous taking of nourishment from quintessence is explained.
 
 Earlier notes: [N-110](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-110).
 <!-- /pair -->
