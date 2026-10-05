@@ -84,7 +84,7 @@ File/source order, not numerical ID order, governs. Chapter 1 includes the title
 | chapter-01 | 1199 | DTG-000001 → DTG-001192 | 1199 (ordinals 1–1199; through DTG-001192) | Covered; linked questions remain |
 | chapter-02 | 543 | DTG-001193 → DTG-001735 | 543 (ordinals 1200–1742; through DTG-001735) | Covered; linked questions remain |
 | chapter-03 | 354 | DTG-001736 → DTG-002089 | 354 (ordinals 1743–2096; through DTG-002089) | Covered; linked questions remain |
-| chapter-04 | 237 | DTG-002090 → DTG-002326 | 0 | Not started |
+| chapter-04 | 237 | DTG-002090 → DTG-002326 | 237 (ordinals 2097–2333; through DTG-002326) | Covered; linked questions remain |
 | chapter-05 | 211 | DTG-002327 → DTG-002537 | 0 | Not started |
 | chapter-06 | 108 | DTG-002538 → DTG-002645 | 0 | Not started |
 | closing-material | 15 | DTG-002646 → DTG-002660 | 0 | Not started |
@@ -11993,6 +11993,1240 @@ Actual checks pass: 469-operation exact replay, 412 cumulatively changed pairs, 
 
 <!-- pd05-batch-12-verification -->
 
+
+<a id="phase-d-batch-13"></a>
+## Batch 13 — source ordinals 2097–2333
+
+Reviewer/session **DTG-PD-20261005-Astra-05**, review-and-revise. Read every source/English pair in order, **DTG-002090–DTG-002326**, including source headings, across-pair continuations and source layers. 32 newly encountered note records were read with their current dispositions: G-A2000-C04-S01, G-C4-TRANSITION, G-U04312, G-U04519, G-U04562, G-U04703, G-U04763, N-186, N-187, N-188, N-189, N-190, N-191, N-192, N-193, N-194, N-195, N-196, N-197, N-198, N-199, N-200, N-201, N-202, N-203, N-T100, N-T101, N-T102, N-T95, N-T96, N-T98, N-T99. Q1–Q9, I §8.1 and Part III were applied by reading; subsequent searches test the observed terminology patterns, not replace the reading. The following evidence is recorded before English application.
+
+Batch input: **8637559bd2e7fde13d46d4353d7ccb3db6d6e12c**, remote-verified. All 237 chapter pairs were read, including the restored questions, all twenty-one numbered explanations, subsequent continuum/liberation sections, prose colophon and unresolved boundary graphic. Important no-change cases include permitted possessive/verbal rang shes and adjectival rang rig, scoped heart/citta, genuine acoustic sound, material weight from rdos rather than bem po, written negative predicates, and already separated source variants. These require source relations and full rows, not substring verdicts. Newly clarified omissions/rhetorical grammar and the missing quotation close are recorded below; remaining construction questions are explicitly retained with alternatives and evidence needed.
+
+### Recorded scoped corrections
+
+```json
+[
+  {
+    "finding": "PD-B13-001",
+    "pair": "DTG-002093",
+    "golden": [
+      "U04314",
+      "U04315",
+      "U04316",
+      "U04317"
+    ],
+    "tibetan": "སངས་རྒྱས་དགོངས་པའི་གདེང་རྙེད་ཀྱང༌། །\nམ་འོངས་འཇུག་པའི་སེམས་ཅན་རྣམས། །\nརྟོག་བྲལ་ཡེ་ཤེས་རྫོགས་དོན་དུ། །\nཆོས་ཉིད་བཀོད་པ་མཉམ་པར་འཚལ། །",
+    "before": "sentient beings",
+    "after": "karmic beings",
+    "rationale": "P2 sems can requires the complete karmic-being label; preserve the grammatical plural and the existing body/knowing distinctions.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-002",
+    "pair": "DTG-002095",
+    "golden": [
+      "U04319"
+    ],
+    "tibetan": "འགྱུ་མཚམས་ཉིད་ཀྱི་གནད་དེ་གང༌། །",
+    "before": "crucial point",
+    "after": "key point",
+    "rationale": "P2 gnad requires key point(s). The actual source here names the explanatory or contemplative key point; keep the source count, modifiers and each repetition.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-003",
+    "pair": "DTG-002098",
+    "golden": [
+      "U04322"
+    ],
+    "tibetan": "སེམས་ཅན་དུས་ན་ཅི་ལྟར་གནས། །",
+    "before": "sentient beings",
+    "after": "karmic beings",
+    "rationale": "P2 sems can requires the complete karmic-being label; preserve the grammatical plural and the existing body/knowing distinctions.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-004",
+    "pair": "DTG-002099",
+    "golden": [
+      "U04323"
+    ],
+    "tibetan": "ལུས་ཀྱི་གནད་ནི་གང་དང་གང་། །",
+    "before": "crucial point",
+    "after": "key point",
+    "rationale": "P2 gnad requires key point(s). The actual source here names the explanatory or contemplative key point; keep the source count, modifiers and each repetition.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-005",
+    "pair": "DTG-002110",
+    "golden": [
+      "U04333"
+    ],
+    "tibetan": "འབྱུང་དུས་གནད་འདི་ཅི་ཡིས་བཟུང་། །",
+    "before": "crucial point",
+    "after": "key point",
+    "rationale": "P2 gnad requires key point(s). The actual source here names the explanatory or contemplative key point; keep the source count, modifiers and each repetition.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-006",
+    "pair": "DTG-002113",
+    "golden": [
+      "U04336"
+    ],
+    "tibetan": "འདི་དག་སེམས་ཅན་དོན་དུ་གསུང་། །",
+    "before": "sentient beings",
+    "after": "karmic beings",
+    "rationale": "P2 sems can requires the complete karmic-being label; preserve the grammatical plural and the existing body/knowing distinctions.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-007",
+    "pair": "DTG-002138",
+    "golden": [
+      "U04383"
+    ],
+    "tibetan": "འཁོར་འདས་མིང་དུ་མ་གྲགས་སོ། །",
+    "before": "samsara and nirvana",
+    "after": "cyclic existence and transcendence of sorrow",
+    "rationale": "The established complete khor ’das compound preserves both approved members; do not omit sorrow or reinterpret either member as a death event.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-008",
+    "pair": "DTG-002142",
+    "golden": [
+      "U04387",
+      "U04388",
+      "U04389"
+    ],
+    "tibetan": "རྒྱུ་རྐྱེན་བྲལ་བའི་སྐད་ཅིག་ལས། །\nསངས་རྒྱས་སེམས་ཅན་གཞི་མར་སྣང༌། །\nདུ་མ་ཆ་ཤས་ཀུན་བྲལ་བའོ། །",
+    "before": "sentient beings",
+    "after": "karmic beings",
+    "rationale": "P2 sems can requires the complete karmic-being label; preserve the grammatical plural and the existing body/knowing distinctions.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-009",
+    "pair": "DTG-002144",
+    "golden": [
+      "U04391",
+      "U04392",
+      "U04393",
+      "U04394",
+      "U04395"
+    ],
+    "tibetan": "གལ་ཏེ་འཁྲུལ་པའི་སེམས་ཅན་ལ། །\nསྐུ་དང་ཡེ་ཤེས་རང་ལུགས་ཏེ། །\nརྣལ་མ་སོ་མ་ལྷུག་པ་སྟེ། །\nགྱི་ནར་གནས་པ་ཁོ་ན་དང་། །\nདབང་པོ་ཡུལ་ལ་རང་བཞིན་ནོ། །",
+    "before": "sentient beings",
+    "after": "karmic beings",
+    "rationale": "P2 sems can requires the complete karmic-being label; preserve the grammatical plural and the existing body/knowing distinctions.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-010",
+    "pair": "DTG-002147",
+    "golden": [
+      "U04402",
+      "U04403"
+    ],
+    "tibetan": "སྣ་ཚོགས་འགྱུ་བ་སོ་སོའི་གནད། །\nགཅིག་ཤེས་པ་ཡིས་གྲོལ་བར་གནས། །",
+    "before": "crucial point",
+    "after": "key point",
+    "rationale": "P2 gnad requires key point(s). The actual source here names the explanatory or contemplative key point; keep the source count, modifiers and each repetition.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-011",
+    "pair": "DTG-002150",
+    "golden": [
+      "U04407",
+      "U04408",
+      "U04409"
+    ],
+    "tibetan": "ལུས་ཀྱི་གནད་ནི་འདི་ལྟ་སྟེ། །\nསྤྱི་དང་ཙིཏྟ་རྩ་ཡི་གནད། །\nམ་བཅོས་དག་པའི་ཆོས་ཉིད་གནས། །",
+    "before": "crucial point",
+    "after": "key point",
+    "rationale": "P2 gnad requires key point(s). The actual source here names the explanatory or contemplative key point; keep the source count, modifiers and each repetition.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-012",
+    "pair": "DTG-002151",
+    "golden": [
+      "U04410",
+      "U04411"
+    ],
+    "tibetan": "སེམས་ཅན་ཀུན་གྱི་ལུས་སྤྱི་ལ། །\nཆོས་ཉིད་རླུང་གི་ཚུལ་དུ་ཁྱབ། །",
+    "before": "sentient beings",
+    "after": "karmic beings",
+    "rationale": "P2 sems can requires the complete karmic-being label; preserve the grammatical plural and the existing body/knowing distinctions.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-013",
+    "pair": "DTG-002159",
+    "golden": [
+      "U04425",
+      "U04426"
+    ],
+    "tibetan": "འཇུག་པའི་ཐིག་ལེ་རྣམ་གསུམ་གྱིས། །\nའཁོར་འདས་འབྲེལ་པའི་ས་བོན་འདེབས། །",
+    "before": "samsara and nirvana",
+    "after": "cyclic existence and transcendence of sorrow",
+    "rationale": "The established complete khor ’das compound preserves both approved members; do not omit sorrow or reinterpret either member as a death event.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-014",
+    "pair": "DTG-002175",
+    "golden": [
+      "U04463",
+      "U04464"
+    ],
+    "tibetan": " དེ་ལ་ཅི་ཡིས་མཐོང་བ་ནི། །\nགོམས་དང་གནད་ཀྱིས་མཐོང་བ་སྟེ། །",
+    "before": "crucial point",
+    "after": "key point",
+    "rationale": "P2 gnad requires key point(s). The actual source here names the explanatory or contemplative key point; keep the source count, modifiers and each repetition.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-015",
+    "pair": "DTG-002176",
+    "golden": [
+      "U04465",
+      "U04466",
+      "U04467",
+      "U04468"
+    ],
+    "tibetan": "གོམས་པ་སྔོན་དུ་འགྲོ་བ་ནས། །\nབརྩམས་ཏེ་ལུས་ངག་གནད་གཟིར་བས། །\nརང་སྣང་དག་པའི་གཟུགས་མཐོང་ནས། །\nའཁྲུལ་པ་ཐམས་ཅད་ནུབ་པའོ། །",
+    "before": "crucial point",
+    "after": "key point",
+    "rationale": "P2 gnad requires key point(s). The actual source here names the explanatory or contemplative key point; keep the source count, modifiers and each repetition.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-016",
+    "pair": "DTG-002177",
+    "golden": [
+      "U04469"
+    ],
+    "tibetan": "གནད་ཀྱི་ལུས་ཀྱིས་མཐོང་བར་བྱེད། །",
+    "before": "crucial point",
+    "after": "key point",
+    "rationale": "P2 gnad requires key point(s). The actual source here names the explanatory or contemplative key point; keep the source count, modifiers and each repetition.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-017",
+    "pair": "DTG-002183",
+    "golden": [
+      "U04485"
+    ],
+    "tibetan": "མཐོང་ནས་གནད་ལ་དབབ་པ་སྟེ། །",
+    "before": "crucial point",
+    "after": "key point",
+    "rationale": "P2 gnad requires key point(s). The actual source here names the explanatory or contemplative key point; keep the source count, modifiers and each repetition.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-018",
+    "pair": "DTG-002184",
+    "golden": [
+      "U04486",
+      "U04487"
+    ],
+    "tibetan": "སྣང་བ་འཁྲིད་པའི་ཐབས་ཀྱིས་ཀྱང་། །\nའབྱུང་བཞིའི་སྣང་བ་གནད་ལ་ཕེབས། །",
+    "before": "crucial point",
+    "after": "key point",
+    "rationale": "P2 gnad requires key point(s). The actual source here names the explanatory or contemplative key point; keep the source count, modifiers and each repetition.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-019",
+    "pair": "DTG-002185",
+    "golden": [
+      "U04488",
+      "U04489"
+    ],
+    "tibetan": "རླུང་བརྒྱད་ལས་ཀྱི་འབྲེལ་བརྩིས་པས། །\nརྣམ་རྟོག་དུ་མ་གནད་ལ་ཕེབས། །",
+    "before": "crucial point",
+    "after": "key point",
+    "rationale": "P2 gnad requires key point(s). The actual source here names the explanatory or contemplative key point; keep the source count, modifiers and each repetition.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-020",
+    "pair": "DTG-002186",
+    "golden": [
+      "U04490",
+      "U04491",
+      "U04492",
+      "U04493"
+    ],
+    "tibetan": "ལུས་ནི་གཅུད་དང་རྩལ་སྤྲུག་དང་། །\nཡན་ལག་བརྡབ་འཕེན་སྡུད་པའི་གནད། །\nཕྲ་ཞིང་དྲང་ལ་མཉེ་བ་ཡིས། །\nཤ་དང་ཁྲག་སྟེ་རུས་པ་ལའོ། །",
+    "before": "crucial point",
+    "after": "key point",
+    "rationale": "P2 gnad requires key point(s). The actual source here names the explanatory or contemplative key point; keep the source count, modifiers and each repetition.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-021",
+    "pair": "DTG-002234",
+    "golden": [
+      "U04595",
+      "U04596",
+      "U04597",
+      "U04598",
+      "U04599"
+    ],
+    "tibetan": "གནད་ཀྱི་ཆོས་ཉིད་འདི་ལྟ་སྟེ། །\nའབྱུང་བའི་གནས་དང་རང་ལུས་དང་། །\nཡུལ་དང་སྒོ་དང་ཤེས་པ་རླུང༌། །\nརྩ་དང་ཐིག་ལེ་ཡན་ལག་གིས། །\nསོ་སོའི་འཇུག་པ་ཁྱབ་པར་གནས། །",
+    "before": "crucial point",
+    "after": "key point",
+    "rationale": "P2 gnad requires key point(s). The actual source here names the explanatory or contemplative key point; keep the source count, modifiers and each repetition.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-022",
+    "pair": "DTG-002237",
+    "golden": [
+      "U04607"
+    ],
+    "tibetan": "འདིས་ནི་གནད་ཀྱི་འཚང་རྒྱའོ། །",
+    "before": "crucial point",
+    "after": "key point",
+    "rationale": "P2 gnad requires key point(s). The actual source here names the explanatory or contemplative key point; keep the source count, modifiers and each repetition.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-023",
+    "pair": "DTG-002239",
+    "golden": [
+      "U04609",
+      "U04610"
+    ],
+    "tibetan": "འབྱུང་དུས་གནད་ནི་འདི་ལྟ་བུ། །\nཨེ་མ་ངོ་མཚར་ཆེ་བ་བཤད། །",
+    "before": "crucial point",
+    "after": "key point",
+    "rationale": "P2 gnad requires key point(s). The actual source here names the explanatory or contemplative key point; keep the source count, modifiers and each repetition.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-024",
+    "pair": "DTG-002242",
+    "golden": [
+      "U04616",
+      "U04617"
+    ],
+    "tibetan": "རང་བཞིན་དག་པའི་གནད་ཤེས་ནས། །\nབྱས་པ་མེད་པར་ཆོས་རྣམས་ཤེས། །",
+    "before": "crucial point",
+    "after": "key point",
+    "rationale": "P2 gnad requires key point(s). The actual source here names the explanatory or contemplative key point; keep the source count, modifiers and each repetition.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-025",
+    "pair": "DTG-002275",
+    "golden": [
+      "U04684",
+      "U04685"
+    ],
+    "tibetan": "རིགས་དང་དབང་པོའི་རྣམ་འཕྲུལ་ལས། །\nའཁོར་འདས་རྟོག་པ་ཐ་དད་དེ། །",
+    "before": "samsara and nirvana",
+    "after": "cyclic existence and transcendence of sorrow",
+    "rationale": "The established complete khor ’das compound preserves both approved members; do not omit sorrow or reinterpret either member as a death event.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-026",
+    "pair": "DTG-002278",
+    "golden": [
+      "U04689",
+      "U04690",
+      "U04691",
+      "U04692"
+    ],
+    "tibetan": "མ་དག་པ་ཡི་འཁྲུལ་པ་ལ། །\nདབང་པོའི་སྒོ་རྣམས་མ་བཅོས་པས། །\nཅོག་གེ་བཞག་པ་གནད་ཡིན་ལ། །\nདེ་ལས་མ་བསྒྱུར་མན་ངག་གོ། །",
+    "before": "crucial point",
+    "after": "key point",
+    "rationale": "P2 gnad requires key point(s). The actual source here names the explanatory or contemplative key point; keep the source count, modifiers and each repetition.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-027",
+    "pair": "DTG-002307",
+    "golden": [
+      "U04741"
+    ],
+    "tibetan": "གནད་ཀྱིས་གྲོལ་བས་འབད་རྩོལ་ཟད། །",
+    "before": "crucial point",
+    "after": "key point",
+    "rationale": "P2 gnad requires key point(s). The actual source here names the explanatory or contemplative key point; keep the source count, modifiers and each repetition.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-028",
+    "pair": "DTG-002090",
+    "golden": [
+      "U04306",
+      "U04307",
+      "U04308"
+    ],
+    "tibetan": "དེ་ནས་ལྷ་དབང་དགའ་བྱེད་ཀྱིས། །\nསྟོན་པ་ཁྱབ་བདག་ཆེན་པོ་ལ། །\nཆོས་ཉིད་བཀོད་པའི་རང་བཞིན་ཞུས། །",
+    "before": "Maker of Joy",
+    "after": "Joy-Maker",
+    "rationale": "The same lha dbang dga byed is the recurring interlocutor already named Joy-Maker in Chapters 2–3. Preserve the Lord of Gods honorific. This is within-work identity consistency, not a new shared name assignment.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-029",
+    "pair": "DTG-002091",
+    "golden": [
+      "U04309",
+      "U04310",
+      "U04311",
+      "U04312"
+    ],
+    "tibetan": "ཀྱེ་ཀྱེ་ཡང་དག་རྫོགས་སངས་རྒྱས། །\nབདག་ནི་ཡེ་ཤེས་བཀོད་པ་ལས། །\nའཁོར་བའི་ལས་ལས་དབུགས་ཕྱུང་སྟེ། །\nམྱང་འདས་ལམ་ལ་བསྟོད། །",
+    "before": "samsara",
+    "after": "cyclic existence",
+    "rationale": "The actual khor ba noun has the approved cyclic-existence equivalent. Retain the activities and respite construction.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-030",
+    "pair": "DTG-002091",
+    "golden": [
+      "U04309",
+      "U04310",
+      "U04311",
+      "U04312"
+    ],
+    "tibetan": "ཀྱེ་ཀྱེ་ཡང་དག་རྫོགས་སངས་རྒྱས། །\nབདག་ནི་ཡེ་ཤེས་བཀོད་པ་ལས། །\nའཁོར་བའི་ལས་ལས་དབུགས་ཕྱུང་སྟེ། །\nམྱང་འདས་ལམ་ལ་བསྟོད། །",
+    "before": "passing beyond sorrow",
+    "after": "transcendence of sorrow",
+    "rationale": "The explicitly attested myang ’das / mya ngan ’das noun is governed by path of or characteristics of, not a finite passing predicate; use the approved technical noun. The bstod uplifted/praise question remains unresolved at DTG-002091.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-031",
+    "pair": "DTG-002156",
+    "golden": [
+      "U04420",
+      "U04421"
+    ],
+    "tibetan": "དག་པའི་སྐུ་ནི་རྣམ་གསུམ་གྱིས། །\nམྱ་ངན་འདས་པའི་མཚན་ཉིད་འཛིན། །",
+    "before": "passing beyond sorrow",
+    "after": "transcendence of sorrow",
+    "rationale": "The explicitly attested myang ’das / mya ngan ’das noun is governed by path of or characteristics of, not a finite passing predicate; use the approved technical noun. The bstod uplifted/praise question remains unresolved at DTG-002091.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-032",
+    "pair": "DTG-002109",
+    "golden": [
+      "U04332"
+    ],
+    "tibetan": "གནད་ཀྱི་ཆོས་ཉིད་གང་དང་གང༌། །",
+    "before": "What are its crucial points?",
+    "after": "What is the nature of phenomena of the various key points?",
+    "rationale": "U04332 explicitly has gnad kyi chos nyid. The old pronoun paraphrase loses the nature-of-phenomena head and reverses the genitive relation. The corresponding reply DTG-002234 repeats this same head and confirms the inquiry. Restore it with the approved key-point label and distributed plurality.",
+    "severity": "moderate omission and relation",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-033",
+    "pair": "DTG-002188",
+    "golden": [
+      "U04495",
+      "U04496",
+      "U04497",
+      "U04498",
+      "U04499",
+      "U04500",
+      "U04501",
+      "U04502",
+      "U04503",
+      "U04504",
+      "U04505"
+    ],
+    "tibetan": "དེ་ལྟར་ཕེབས་ནས་རྫོགས་པའི་ཚད། །\nཐད་ཀའི་ངོས་སྣང་འགགས་པ་དང་། །\nས་རྡོར་སྣང་བ་གཞུག་པ་དང༌། །\nརང་ཤེས་ཅི་ལའང་ཚུད་པ་དང༌། །\nདེ་བཙུད་བེམ་པོ་འགུལ་བ་དང་། །\nརླུང་གི་འགྱུ་བའི་ཚད་ཟིན་དང༌། །\nལུས་ཀྱི་རྡུལ་ཕྲན་མཐོང་བ་འབྱུང༌། །\nཅིར་སྣང་གཟུགས་སྐུར་རྫོགས་པ་དང༌། །\nདེ་ལ་ཡབ་ཡུམ་འཁྲིལ་པ་དང་། །\nལྔ་ལྔ་ཡབ་དང་ཡུམ་སྦྱོར་དང༌། །\nཀུན་ཀྱང་མུ་ཁྱུད་ཟླུམ་པོ་ལ། །",
+    "before": "moving insentient things",
+    "after": "moving matter",
+    "rationale": "Actual bem po under ’gul ba uses the approved mass-noun matter. Preserve moving: the policy specifically does not assert immobility. Explain the non-knowing side in the linked note rather than replacing matter with insentient matter.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-034",
+    "pair": "DTG-002191",
+    "golden": [
+      "U04510",
+      "U04511",
+      "U04512"
+    ],
+    "tibetan": "ཚད་ཕེབས་ལུགས་ཀྱང་འདི་ལྟར་འགྱུར། །\nསོ་སོའི་ལུས་ཀྱི་རྡུལ་བྲལ་ནས། །\nབར་སྣང་འོད་ཀྱི་སྐར་ཁུང་སྣང་། །",
+    "before": "intervening space",
+    "after": "open sky",
+    "rationale": "Actual bar snang describes where windows of light appear, with no stated pair of endpoints or emphatic interval. Use the approved open-sky default while retaining the windows and body-particle qualification.",
+    "severity": "minor terminology",
+    "confidence": "high"
+  },
+  {
+    "finding": "PD-B13-035",
+    "pair": "DTG-002236",
+    "golden": [
+      "U04604",
+      "U04605",
+      "U04606"
+    ],
+    "tibetan": "ཟད་སྣང་གཉིས་མེད་ཡུལ་ལས་ནི། །\nརང་བཞིན་གནས་དང་བཅོས་མ་ལས། །\nཆོས་ཀྱི་དབྱིངས་ཀྱང་དག་པས་སྣང་། །",
+    "before": "intrinsic abiding",
+    "after": "intrinsic nature’s abiding",
+    "rationale": "The Tibetan rang bzhin gnas must preserve intrinsic nature, even in this abbreviated/adverbial construction. Do not use the correction to resolve the still-provisional attachment to bcos ma [practice].",
+    "severity": "minor terminology",
+    "confidence": "moderate-high"
+  },
+  {
+    "finding": "PD-B13-036",
+    "pair": "DTG-002316",
+    "golden": [
+      "U04750"
+    ],
+    "tibetan": "དེ་ལ་གྲོལ་ཞེས་སུ་ལ་དམིགས། །",
+    "before": "For whom there is ‘liberated,’ what is the object of focus?",
+    "after": "There, in saying ‘liberated,’ who is the object of focus?",
+    "rationale": "The source de la grol zhes su la dmigs contains one referential question, su la, about whom the designation liberated concerns. The old English adds a second what question and breaks the grammar. Read the adjacent whose-realization / for-whom-entry questions continuously; preserve the single human referent and question rather than answer it.",
+    "severity": "moderate syntax and rhetorical function",
+    "confidence": "moderate-high"
+  },
+  {
+    "finding": "PD-B13-037",
+    "pair": "DTG-002324",
+    "golden": [
+      "U04760",
+      "U04761"
+    ],
+    "tibetan": "ཡེ་ནས་འབྲས་བུ་བློ་བྲལ་ཉིད། །\nསྨྲ་བསམ་བརྗོད་པ་ཀུན་འདས་པའོ། །",
+    "before": "beyond all speaking, thinking, and expression.",
+    "after": "beyond all speaking, thinking, and expression.’",
+    "rationale": "The teacher’s direct speech opens with ‘Ema at DTG-002115 and continues through this final verse. The next pair is the narrative chapter colophon introduced by zhes. Close the English quotation at this boundary, without adding speech to the colophon.",
+    "severity": "minor quotation boundary",
+    "confidence": "high"
+  }
+]
+```
+
+<a id="phase-d-notes-13"></a>
+### Active note/usage dispositions
+
+The following dated dispositions are appended to the existing usage record and linked from the existing legacy index; original approvals/proposals and source notes remain historical. A retained provisional construction is not an approved new shared equivalent.
+
+```json
+[
+  {
+    "session": "DTG-PD-20261005-Astra-05",
+    "legacy_note": "N-186",
+    "pairs": [
+      "DTG-002090",
+      "DTG-002091",
+      "DTG-002093",
+      "DTG-002102",
+      "DTG-002109",
+      "DTG-002114",
+      "DTG-002175"
+    ],
+    "ids": [
+      "U04306",
+      "U04307",
+      "U04308",
+      "U04309",
+      "U04310",
+      "U04311",
+      "U04312",
+      "U04314",
+      "U04315",
+      "U04316",
+      "U04317",
+      "U04326",
+      "U04332",
+      "U04337",
+      "U04338",
+      "U04339",
+      "U04340",
+      "U04463",
+      "U04464"
+    ],
+    "realization": "Then the Lord of Gods, Joy-Maker,\nasked the teacher, the great all-pervading lord,\nabout the intrinsic nature of the Array of the Nature of Phenomena.; ‘Kye kye! Truly complete buddha,\nthrough the Array of Primordial Knowing,\nI have gained respite from the activities of cyclic existence,\nand been uplifted on the path of transcendence of sorrow. [N-186](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-186); Although I have gained confidence in the buddhas' enlightened intent,\nfor karmic beings who will enter in the future,\nso that primordial knowing free from conceptual thought may be complete,\nI seek the Array of the Nature of Phenomena in evenness. [N-186](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-186); As what does it appear there? [N-186](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-186); What is the nature of phenomena of the various key points?; Then, [the words of] the teacher Vajradhara,\nfrom the space of pure intrinsic nature—\nthese elaborations of words and phrases—\narose in the Ground free from expression. [N-186](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-186); As for by what it is seen:\nit is seen through familiarity and the key points.",
+    "status": "Approved labels and omitted question head corrected; construction limits retained",
+    "reason": "Joy-Maker consistently names the recurring interlocutor; karmic beings and the transcendence/cyclic-existence nouns are adopted. The gnad kyi chos nyid question is repaired by comparison with its actual reply. G-U04312 already separates gzengs; bstod still leaves uplifted versus praise unresolved. Keep the source difference between as-what appearance in the question and by-what seeing in the ninth reply. The mnyam par attachment and bracketed words of the teacher remain provisional, not a new speaker or independently approved supply.",
+    "review": "REVIEW.md#phase-d-notes-13"
+  },
+  {
+    "session": "DTG-PD-20261005-Astra-05",
+    "legacy_note": "N-187",
+    "pairs": [
+      "DTG-002118",
+      "DTG-002140",
+      "DTG-002141",
+      "DTG-002142"
+    ],
+    "ids": [
+      "U04345",
+      "U04346",
+      "U04347",
+      "U04348",
+      "U04349",
+      "U04385",
+      "U04386",
+      "U04387",
+      "U04388",
+      "U04389"
+    ],
+    "realization": "The nature of phenomena of abiding is as follows:\nabiding in its fundamental disposition, it is free from virtue and wrongdoing;\nabiding as cause and result, it is free from dependence;\nabiding through conditions, the elements are pure—\nit does not shift or change. [N-187](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-187); All-arising primordial knowing is not any [thing]. [N-187](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-187); There is no taking and no liberation.; In a moment free from causes and conditions,\nbuddhas and karmic beings appear as a foundation,\nfree from all multiplicity and parts. [N-187](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-187)",
+    "status": "Karmic-being label adopted; negative and foundation questions retained",
+    "reason": "The three modes of abiding and their absence of change were read with the buddha explanation. gang ma yin still admits a negation of any particular item or a denial of the described all-arising primordial knowing; the bracketed generic [thing] is not dngos po and must not be changed to entity by substring search. Foundation for gzhi ma remains a construction question, not a global Ground exception; len pa taking stays distinct from nyer len appropriation.",
+    "review": "REVIEW.md#phase-d-notes-13"
+  },
+  {
+    "session": "DTG-PD-20261005-Astra-05",
+    "legacy_note": "N-188",
+    "pairs": [
+      "DTG-002121",
+      "DTG-002122",
+      "DTG-002124",
+      "DTG-002125",
+      "DTG-002126",
+      "DTG-002129",
+      "DTG-002130",
+      "DTG-002133"
+    ],
+    "ids": [
+      "U04353",
+      "U04354",
+      "U04355",
+      "U04356",
+      "U04357",
+      "U04358",
+      "U04359",
+      "U04361",
+      "U04362",
+      "U04363",
+      "U04364",
+      "U04365",
+      "U04369",
+      "U04370",
+      "U04371",
+      "U04372",
+      "U04373",
+      "U04376"
+    ],
+    "realization": "Wind, according to the sequence of a day,\nis reckoned as twenty thousand, one thousand,\nand six hundred;\nthe winds of one day are thereby complete.; According to the particular distinctions,\nfor the young there are sixty extra;\nfor the old there is a shortfall.; Among sixty movements of wind,\nthe subtle movement of the nature of phenomena is held through reckoning.; From two such groups it is coarse;\nwhen these are gathered as three, it is gross.; Subtract three from that: it is even. [N-188](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-188); The nature of phenomena of time is as follows:\nouter, inner, secret,\nand suchness—four.; The outer is the second [month] of autumn,\nshowing the abiding of the nature of phenomena of time.; Suchness is held through wind.",
+    "status": "No change; numerical and time grouping remains provisional",
+    "reason": "Every written count and the omission of a definite shortfall for the old are preserved. The two/three grouping and subtract-three operation are not silently converted into a modern breath schedule. [Month] remains a marked supply. khon na nyid suchness remains a whole-expression proposal, not a component-derived canonical entry or a new default.",
+    "review": "REVIEW.md#phase-d-notes-13"
+  },
+  {
+    "session": "DTG-PD-20261005-Astra-05",
+    "legacy_note": "N-189",
+    "pairs": [
+      "DTG-002144",
+      "DTG-002145",
+      "DTG-002147"
+    ],
+    "ids": [
+      "U04391",
+      "U04392",
+      "U04393",
+      "U04394",
+      "U04395",
+      "U04396",
+      "U04397",
+      "U04398",
+      "U04399",
+      "U04400",
+      "U04402",
+      "U04403"
+    ],
+    "realization": "As for deluded karmic beings:\nembodiments and primordial knowing are in their own manner,\ngenuine, fresh, and letting be—\nabiding solely in ‘gyi nar’ [unresolved expression],\nintrinsic nature at the faculties' objects. [N-189](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-189); Here their own object is shown;\nwithout entering into surrounding conditions,\nin unobstructedness and penetration,\nfrom the appearance aspects of object and knowing,\neach is directly liberated from its own Ground. [N-189](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-189); In the respective key points of diverse movement,\nknowing one, one abides liberated.",
+    "status": "Key-point and karmic-being labels adopted; unresolved expressions retained",
+    "reason": "gyi nar remains an exact unresolved span. The preceding gal te topical introduction remains bounded as for, not a claim about an actual hypothetical event; its relation to the following sentence remains provisional. zang ma nyid dang thal byung is not the exact zang thal compound: keep the separate provisional wording and do not collapse the two members. khor rkyen surrounding conditions is not an automatic khor ba cyclic-existence hit.",
+    "review": "REVIEW.md#phase-d-notes-13"
+  },
+  {
+    "session": "DTG-PD-20261005-Astra-05",
+    "legacy_note": "N-190",
+    "pairs": [
+      "DTG-002150",
+      "DTG-002151",
+      "DTG-002153",
+      "DTG-002154",
+      "DTG-002155",
+      "DTG-002156",
+      "DTG-002157",
+      "DTG-002158",
+      "DTG-002159",
+      "DTG-002160",
+      "DTG-002161"
+    ],
+    "ids": [
+      "U04407",
+      "U04408",
+      "U04409",
+      "U04410",
+      "U04411",
+      "U04415",
+      "U04416",
+      "U04417",
+      "U04418",
+      "U04419",
+      "U04420",
+      "U04421",
+      "U04422",
+      "U04423",
+      "U04424",
+      "U04425",
+      "U04426",
+      "U04427",
+      "U04428",
+      "U04429",
+      "U04430"
+    ],
+    "realization": "The key points of the body are as follows:\nthe general [body], the heart, and the channels—\nthe pure, uncontrived nature of phenomena abides there. [N-190](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-190); Throughout the bodies of all karmic beings,\nthe nature of phenomena pervades in the manner of wind.; Within the heart it abides as embodiment.; The embodiments of radiance have five aspects;\nthey hold the characteristics of their respective families.; The six embodiments of rays\ngather the phenomena of intrinsic nature's appearance.; Through the three aspects of pure embodiment,\nthe characteristics of transcendence of sorrow are held.; Through the eight aspect-embodiments,\nthe doing of completing grounds and paths is done. [N-190](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-190); Within the channels are spheres.; Through three aspects of entering spheres,\nthe seeds connecting cyclic existence and transcendence of sorrow are planted.; Through the five arising spheres,\nthe mandala of yogic experience is established.; Through the six arraying spheres,\nthe manifold nature of phenomena is gathered into one.",
+    "status": "Approved labels adopted; locally justified heart retained",
+    "reason": "The full citta row permits heart only with established referent and an explanatory note. Here the body’s general/heart/channel sequence, citta’s interior containing embodiments, and the contrasted channels containing spheres support the contextual heart use at DTG-002150/002153. This is a scoped interpretation, not a change from canonical citta or a modern anatomical identification. General [body] is supported by the immediately following lus spyi, unlike the explicit crown later. The key-point list attachment and six short class-label proposals remain provisional; preserve every five/six/three/eight and three/five/six count without invented class members.",
+    "review": "REVIEW.md#phase-d-notes-13"
+  },
+  {
+    "session": "DTG-PD-20261005-Astra-05",
+    "legacy_note": "N-191",
+    "pairs": [
+      "DTG-002165",
+      "DTG-002166",
+      "DTG-002167",
+      "DTG-002168",
+      "DTG-002169",
+      "DTG-002171",
+      "DTG-002172"
+    ],
+    "ids": [
+      "U04437",
+      "U04438",
+      "U04439",
+      "U04440",
+      "U04441",
+      "U04442",
+      "U04443",
+      "U04444",
+      "U04445",
+      "U04446",
+      "U04447",
+      "U04448",
+      "U04449",
+      "U04450",
+      "U04452",
+      "U04453",
+      "U04454",
+      "U04455",
+      "U04456",
+      "U04457",
+      "U04458",
+      "U04459"
+    ],
+    "realization": "Moved by pervading wind,\nvajra chains [arise] from awareness itself.; Gathered by ripening wind,\nthey appear as embodiments in fivefold pairs. [N-191](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-191); From the eyes, the two winds of apprehended object and apprehending subject:\nthrough the right, the apprehended aspect, appearance increases;\nthrough the left, the apprehending aspect, colors are complete. [N-191](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-191); At the ears, from pervading and entering winds,\nthe right, through pervasion, displays sounds;\nthe left, through the activity of entering wind,\nholds each respective [sound].; The wind of complete pervasion at the crown,\nsubtle and without generation,\nalso holds the embodiments of awareness. [N-191](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-191); The characteristics of appearing in the object:\nfrom space, clear blue and unstirred,\nlight, colors, and shapes\ndisplay the self-appearance of the five primordial knowings.; From the lamp of pure basic space,\nspheres, embodiments, and purified delusory appearance—\nintrinsic nature itself and essence itself—\nappear nondually, without joining or separating. [N-191](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-191)",
+    "status": "No change; gate roles and modifier scope remain qualified",
+    "reason": "The whole gate/object account keeps right/left and apprehended/apprehending roles, distinct pervading/entering ear functions and acoustic sounds. The nominal role treatment of bzung/’dzin at U04442–43 versus verbal holding is still a construction question, not settled by the glossary alone. Keep fivefold pairs without inventing a figure count; dag at U04457 may qualify only delusory appearance or the entire list. Vajra chains is supported by the visionary context. No posture or bodily procedure is added.",
+    "review": "REVIEW.md#phase-d-notes-13"
+  },
+  {
+    "session": "DTG-PD-20261005-Astra-05",
+    "legacy_note": "N-192",
+    "pairs": [
+      "DTG-002175",
+      "DTG-002176",
+      "DTG-002177",
+      "DTG-002178",
+      "DTG-002179",
+      "DTG-002180",
+      "DTG-002181",
+      "DTG-002186"
+    ],
+    "ids": [
+      "U04463",
+      "U04464",
+      "U04465",
+      "U04466",
+      "U04467",
+      "U04468",
+      "U04469",
+      "U04470",
+      "U04471",
+      "U04472",
+      "U04473",
+      "U04474",
+      "U04475",
+      "U04476",
+      "U04477",
+      "U04478",
+      "U04479",
+      "U04480",
+      "U04481",
+      "U04482",
+      "U04483",
+      "U04490",
+      "U04491",
+      "U04492",
+      "U04493"
+    ],
+    "realization": "As for by what it is seen:\nit is seen through familiarity and the key points.; Familiarity starts with the preliminaries;\napplying the key points of body and voice,\none sees the forms of pure self-appearance,\nand all delusion subsides.; Through the body at the key point, seeing occurs.; Through the lion posture of the dharma embodiment,\nfree from all fear of delusion,\none sees with the vajra eye.; Through the posture of the complete enjoyment embodiment,\nrelying on the reclining elephant,\none fully enjoys the nature of phenomena\nand sees with the lotus eye.; Through the posture of the emanation embodiment,\nrelying on the crouching sage,\nthe nature of phenomena emanates of itself,\nand one sees with the dharma eye. [N-192](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-192); Furthermore, through channels and bodily exercises,\none sees the five primordial knowings of intrinsic nature's appearance\nwith the water-bubble eyes. [N-192](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-192); For the body: compressing, shaking out expressiveness,\nand the key points of striking, extending, and gathering the limbs;\nthrough subtlety, straightening, and massage—\nin flesh, blood, and bone. [N-192](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-192)",
+    "status": "Key points corrected; posture and exercise proposals remain bounded",
+    "reason": "Keep the actual lion, reclining elephant, crouching sage and four eye designations. Familiarity is an allowed goms state form, not a forbidden synonym for cultivation; the preliminaries attachment remains provisional. Bodily exercises for this ’khrul ’khor occurrence remains a local contextual proposal, not a global replacement for machinery of delusion. rtsal sprug and flesh/blood/bone attachment are unresolved complete constructions; do not guess physical techniques from components.",
+    "review": "REVIEW.md#phase-d-notes-13"
+  },
+  {
+    "session": "DTG-PD-20261005-Astra-05",
+    "legacy_note": "N-193",
+    "pairs": [
+      "DTG-002188",
+      "DTG-002189"
+    ],
+    "ids": [
+      "U04495",
+      "U04496",
+      "U04497",
+      "U04498",
+      "U04499",
+      "U04500",
+      "U04501",
+      "U04502",
+      "U04503",
+      "U04504",
+      "U04505",
+      "U04506",
+      "U04507",
+      "U04508"
+    ],
+    "realization": "Having thus arrived, the measures of completeness are:\ncessation of what appears directly before one;\nintroducing appearance into earth and stone;\none's own knowing entering anything;\nthrough that entry, moving matter;\ntaking the measure of wind's movement; [N-193](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-193)\nseeing the body's minute particles arises;\nwhatever appears is complete as form embodiment;\nthere, father and mother embrace;\nfivefold fathers and mothers join;\nall are within a round encircling band.; The yogin's body too is clear light;\ngoing, coming, and abiding—\nall are awareness reaching its measure. [N-194](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-194)",
+    "status": "Matter adopted; complete sign list read",
+    "reason": "The entire attainment-sign list through the next heading was read, not just its historical split. Matter preserves the bem po non-knowing side while explicitly allowing its stated movement. The possessive one’s own knowing at rang shes remains a permitted construction-level realization; entering objects does not by itself establish a reflexive self-cognition theory. Keep both the entering knowing and moving matter without conflating their agents. thad ka’i ngos snang and the five/five grouping remain provisional; the source’s stated signs are not empirically certified.",
+    "review": "REVIEW.md#phase-d-notes-13"
+  },
+  {
+    "session": "DTG-PD-20261005-Astra-05",
+    "legacy_note": "N-194",
+    "pairs": [
+      "DTG-002188",
+      "DTG-002191",
+      "DTG-002193",
+      "DTG-002194",
+      "DTG-002195",
+      "DTG-002197",
+      "DTG-002199"
+    ],
+    "ids": [
+      "U04495",
+      "U04496",
+      "U04497",
+      "U04498",
+      "U04499",
+      "U04500",
+      "U04501",
+      "U04502",
+      "U04503",
+      "U04504",
+      "U04505",
+      "U04510",
+      "U04511",
+      "U04512",
+      "U04515",
+      "U04516",
+      "U04517",
+      "U04518",
+      "U04519",
+      "U04522",
+      "U04525",
+      "U04526"
+    ],
+    "realization": "Having thus arrived, the measures of completeness are:\ncessation of what appears directly before one;\nintroducing appearance into earth and stone;\none's own knowing entering anything;\nthrough that entry, moving matter;\ntaking the measure of wind's movement; [N-193](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-193)\nseeing the body's minute particles arises;\nwhatever appears is complete as form embodiment;\nthere, father and mother embrace;\nfivefold fathers and mothers join;\nall are within a round encircling band.; The manner of reaching the measure also becomes like this:\nfree from the particles of each body,\nwindows of light appear in the open sky.; The body's material weight self-ceases:\na stainless body of light with unimpeded penetration.; At its center is the sign of A,\nand rays from the brow curl measure one armspan.; The topknot appears held back by wind. [N-194](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-194); There is activity of ordinary mind without sound.; At this time one's body is brought to its measure:\nthe three embodiments, with unimpeded penetration, gathered into one. [N-194](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-194)",
+    "status": "Open-sky label adopted; current variant handling preserved",
+    "reason": "The already separated held-back/lifted source variant is not a current defect. Retain the A sign, armspan, hooked rays, father/mother imagery and the one-fold gathering without an iconographic rewrite. rdos pa material weight is distinct from bem po matter. The soundless ordinary-mind clause preserves acoustic silence as a qualified local reading, with wordless as the alternative if the intended nonverbal cognition sense is established. Window qualification and final gathering syntax remain provisional.",
+    "review": "REVIEW.md#phase-d-notes-13"
+  },
+  {
+    "session": "DTG-PD-20261005-Astra-05",
+    "legacy_note": "N-195",
+    "pairs": [
+      "DTG-002201",
+      "DTG-002209",
+      "DTG-002210",
+      "DTG-002211",
+      "DTG-002212",
+      "DTG-002213",
+      "DTG-002215"
+    ],
+    "ids": [
+      "U04528",
+      "U04529",
+      "U04530",
+      "U04531",
+      "U04540",
+      "U04541",
+      "U04542",
+      "U04543",
+      "U04544",
+      "U04545",
+      "U04546",
+      "U04547",
+      "U04548",
+      "U04549",
+      "U04550",
+      "U04551",
+      "U04552",
+      "U04553",
+      "U04555",
+      "U04556"
+    ],
+    "realization": "At this time ordinary mind is clear;\nthrough the six higher knowings,\nphenomena that are far away or measurable\nare known in an instant.; At the times of such appearances,\nthe connection between body and ordinary mind is severed.; Even in the body whose contaminated [elements] are exhausted,\nordinary mind, characterized by clarity, emerges outward.; In the manner of a shooting star passing across,\nit is clearly seen in the element of space. [N-195](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-195); At the initial times of this,\neven in separation from wind,\nthrough effort and the activity of pure wind,\nit arises from being projected outside the body.; Through the two aspects of what sees,\nthe body is pure clear light;\nordinary mind is like proliferating sparks,\nnot abiding in one place, a Ground of its own clarity.; Through this, the connection between body and ordinary mind is severed,\nand one does not return to the three realms. [N-195](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-195)",
+    "status": "No change; whole separation sequence read",
+    "reason": "Read the sequence across U04540–56. Preserve all body/ordinary-mind terms, the shooting-star simile and both separation-from-wind and pure-wind predicates. The scope of [elements], two seeing aspects, and rang gsal gzhi remains provisional. dpag at U04530 may concern measurability or inferability; there is no printed med to justify an immeasurable emendation. Neither the knowledge claims nor bodily separation are independently certified.",
+    "review": "REVIEW.md#phase-d-notes-13"
+  },
+  {
+    "session": "DTG-PD-20261005-Astra-05",
+    "legacy_note": "N-196",
+    "pairs": [
+      "DTG-002217",
+      "DTG-002218",
+      "DTG-002220",
+      "DTG-002222",
+      "DTG-002224",
+      "DTG-002226",
+      "DTG-002227"
+    ],
+    "ids": [
+      "U04558",
+      "U04559",
+      "U04560",
+      "U04561",
+      "U04562",
+      "U04565",
+      "U04566",
+      "U04567",
+      "U04569",
+      "U04570",
+      "U04571",
+      "U04572",
+      "U04574",
+      "U04575",
+      "U04576",
+      "U04579",
+      "U04580",
+      "U04581"
+    ],
+    "realization": "The nature of phenomena of cause and result:\nwhen the source of coarse conceptual thought has ceased,\nin the continuum of self-purified mindfulness,\ndependent connections and wind itself are completely pure.; It is the nature of phenomena arising from wind. [N-196](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-196); There are no embodiments or primordial knowing;\nhaving reached the limit where phenomena are exhausted,\nthis is held to be the nature of phenomena of the result. [N-196](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-196); The nature of phenomena that clears in its own place:\nwhen the elements clear, material weight is purified;\nparticles, subtle and coarse, cease at their limit,\nand not even a mere part abides.; Free from conceptual thought, clinging does not abide;\nneither dormancy nor manifest arising—\nnot even a particle's portion abides.; When the body of the four elements is exhausted,\nall is embodiment complete in primordial knowing.; Deep absorption free from conceptualization abides of itself.",
+    "status": "No change; existing source qualification and distinct negatives retained",
+    "reason": "G-U04562 already explicitly marks rlu as incomplete-looking; wind remains provisional, not a new Tibetan reading or glossary fuzzy-match license. No-embodiment/no-primordial-knowing at DTG-002220 and complete primordial-knowing embodiment at DTG-002226 are both written; do not harmonize them. rdos material weight differs from matter, dormancy differs from manifest arising, and canonical rtog med free from conceptualization differs from separately provisional rtog bral free from conceptual thought.",
+    "review": "REVIEW.md#phase-d-notes-13"
+  },
+  {
+    "session": "DTG-PD-20261005-Astra-05",
+    "legacy_note": "N-197",
+    "pairs": [
+      "DTG-002230",
+      "DTG-002231",
+      "DTG-002232",
+      "DTG-002234",
+      "DTG-002235",
+      "DTG-002236",
+      "DTG-002237",
+      "DTG-002239",
+      "DTG-002240",
+      "DTG-002241",
+      "DTG-002242"
+    ],
+    "ids": [
+      "U04585",
+      "U04586",
+      "U04587",
+      "U04588",
+      "U04589",
+      "U04590",
+      "U04591",
+      "U04592",
+      "U04593",
+      "U04595",
+      "U04596",
+      "U04597",
+      "U04598",
+      "U04599",
+      "U04600",
+      "U04601",
+      "U04602",
+      "U04603",
+      "U04604",
+      "U04605",
+      "U04606",
+      "U04607",
+      "U04609",
+      "U04610",
+      "U04611",
+      "U04612",
+      "U04613",
+      "U04614",
+      "U04615",
+      "U04616",
+      "U04617"
+    ],
+    "realization": "The definitive phrase ‘nature of phenomena’ is thus:\n‘phenomena’ means gathering and assembling,\ndoing doings and holding characteristics,\nshowing self-appearance\nand holding the respective classes.; ‘Nature’ means no contrivance;\nabiding in letting be, it genuinely pervades.; Fresh, genuine, and in its original course,\nthe number of words, phrases, and names is exhausted. [N-197](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-197); The nature of phenomena of the key points is as follows:\nthe elements' abodes, one's body,\nobjects, gates, knowing, wind,\nchannels, spheres, and subsidiary aspects—\neach respective entry abides pervasively.; Through transforming their respective preliminaries\nand the abiding of the main practice,\nin the nature of phenomena free from conceptual thought,\nintrinsic nature abides and movement is exhausted.; From the object in which exhaustion and appearance are nondual,\nthrough intrinsic nature’s abiding and contrived [practice],\nthe basic space of phenomena also appears through purity.; Through this, buddhahood comes through the key points. [N-197](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-197); The key point of the time of arising is like this:\nEma! I shall explain a great wonder.; This nature of phenomena has eight times of arising,\nand just as many times of abiding.; Also at four distinctive times,\nwhen the yogin's ordinary mind abides,\nthere is evenness without joining or separating.; Knowing the key point of pure intrinsic nature,\none knows phenomena without anything being done.",
+    "status": "Approved components restored; wordplay and practice grouping retained",
+    "reason": "Preserve separate chos/nyid explanations and the complete nature-of-phenomena phrase. Intrinsic nature is restored inside its abiding construction; this does not resolve the gnas la bsgyur attachment or contrived [practice] supply. gnyug ma genuine and dkyus ma original course remain local standalone-family proposals rather than deductions from the genuine-intrinsic-nature compound. Main practice is a complete dngos gzhi expression, not an entity/Ground composition. Retain eight arising/eight abiding/four distinctive times without inventing their members.",
+    "review": "REVIEW.md#phase-d-notes-13"
+  },
+  {
+    "session": "DTG-PD-20261005-Astra-05",
+    "legacy_note": "N-198",
+    "pairs": [
+      "DTG-002246",
+      "DTG-002249",
+      "DTG-002255",
+      "DTG-002258",
+      "DTG-002259",
+      "DTG-002260",
+      "DTG-002261"
+    ],
+    "ids": [
+      "U04623",
+      "U04624",
+      "U04629",
+      "U04630",
+      "U04642",
+      "U04643",
+      "U04644",
+      "U04649",
+      "U04650",
+      "U04651",
+      "U04652",
+      "U04653",
+      "U04654",
+      "U04655",
+      "U04656",
+      "U04657",
+      "U04658"
+    ],
+    "realization": "Distinguished, there are four aspects;\nhere I shall explain the intermediate state of the nature of phenomena.; A body of light endowed with all faculties\nbecomes like a shadow from the body. [N-198](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-198); Knowing how to spread and hold them,\none completes the buddhas' qualities\nand does not enter the three realms. [N-198](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-198); Five connected spheres are single embodiments;\nfrom half-embodiments, forms become complete.; From embodiments with half-forms, there are fivefold pairs.; As each cluster becomes complete,\nthere are groups of five, ten, and a hundred;\nclusters of a thousand and a hundred thousand\nappear pure in the intrinsic nature of what is envisaged. [N-198](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-198); Innumerable, beyond what expression can encompass—\nwhen one oneself knows their intrinsic nature,\none attains the three embodiments gathered into one.",
+    "status": "No change; complete intermediate-state progression and conditioned scope read",
+    "reason": "Retain the sequence, five-color order, half-form/pair progression and every cluster count. bsam ngo at U04655 remains what is envisaged provisionally; its relation to intrinsic nature is unresolved. At DTG-002261 rang shes is a verbal one oneself knows construction with intrinsic nature as object: preserve that permitted grammatical realization rather than inserting a self-awareness noun. The preceding knowing-how-to-spread/hold clause is conditional in context, not an unconditional guarantee. No external intermediate-state taxonomy is supplied.",
+    "review": "REVIEW.md#phase-d-notes-13"
+  },
+  {
+    "session": "DTG-PD-20261005-Astra-05",
+    "legacy_note": "N-199",
+    "pairs": [
+      "DTG-002263",
+      "DTG-002264",
+      "DTG-002266",
+      "DTG-002267",
+      "DTG-002269",
+      "DTG-002270",
+      "DTG-002272"
+    ],
+    "ids": [
+      "U04660",
+      "U04661",
+      "U04662",
+      "U04665",
+      "U04666",
+      "U04667",
+      "U04668",
+      "U04669",
+      "U04670",
+      "U04671",
+      "U04673",
+      "U04674",
+      "U04675",
+      "U04676",
+      "U04679",
+      "U04680"
+    ],
+    "realization": "It comes from making this clear. [N-199](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-199); Furthermore, the essence of the nature of phenomena\nis established as essence from intrinsic nature itself.; Through identity, knowing, and seeing liberation,\nthrough entering, seeing, and familiarity—\nfrom recognition, there is one's own identity;\nthrough trust, one reaches it;\nthrough decision, one enters confidence.; Through these three certainties,\nessence being complete, the continuum ceases. [N-199](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-199); Not fixed as one thing of this kind,\nit appears however it is designated.; From the basis for assigning diverse names,\nit appears as elaborations of many words and phrases.; Since emptiness is not established as anything,\nits intrinsic nature appears pure. [N-199](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-199)",
+    "status": "No change; corrected alignment checked and constructions retained",
+    "reason": "The current U04661–4720 sequence aligns with the source: the historical shifted-alignment error is not re-reported. Preserve the ngo/shes/grol/mthong sequence, three certainties, and explicit continuum-ceases predicate. Making clear/reminder and identity/recognition grouping remain alternatives needing a parallel or commentary. Basis for assigning names is not automatically technical Ground; generic one thing does not attest dngos po.",
+    "review": "REVIEW.md#phase-d-notes-13"
+  },
+  {
+    "session": "DTG-PD-20261005-Astra-05",
+    "legacy_note": "N-200",
+    "pairs": [
+      "DTG-002278",
+      "DTG-002279",
+      "DTG-002280",
+      "DTG-002283",
+      "DTG-002284",
+      "DTG-002285",
+      "DTG-002286",
+      "DTG-002287",
+      "DTG-002288"
+    ],
+    "ids": [
+      "U04689",
+      "U04690",
+      "U04691",
+      "U04692",
+      "U04693",
+      "U04694",
+      "U04695",
+      "U04696",
+      "U04697",
+      "U04698",
+      "U04701",
+      "U04702",
+      "U04703",
+      "U04704",
+      "U04705",
+      "U04706",
+      "U04707",
+      "U04708",
+      "U04709",
+      "U04710",
+      "U04711",
+      "U04712",
+      "U04713"
+    ],
+    "realization": "In impure delusion,\nwithout contriving the gates of the faculties,\nthe key point is leaving [them] as they are;\nnot altering that is the pith instruction. [N-200](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-200); In appearance without an apprehended object,\nordinary mind arises without an apprehending subject.; It is seen by eyes without activity;\ndrawn along a path without a nature of phenomena;\ncarried to a Ground without view and cultivation;\ngathered into a result with nothing to do, free from effort.; Through naked seeing in vajra chains,\nthe mindfulness of moving differentiating conceptualization ceases.; Like going in space along the birds' path,\nthere is nowhere to go from the basic space of phenomena.; With no other, awareness-appearance being completely pure,\nthe causes and conditions of delusive appearance are exhausted.; Since basic space and awareness are inseparable,\nthe connected appearance of vajra chains is shown.; The essence of awareness is vajra chains:\nin past, future, or present,\nno one has made them.; Thus being unconditioned\nis the intrinsic nature of vajra chains.",
+    "status": "Key points corrected; negative family and visionary scope retained",
+    "reason": "Keep the entire negative path sequence, including without a nature of phenomena, and the explicit equation of awareness’s essence with vajra chains. cog ge bzhag preserves the approved leaving-as-it-is family with a locally plural object, not a new synonym. ’dus ma byas unconditioned remains an unapproved complete-expression proposal distinct from uncontrived or not done. The empty/odd source punctuation at U04703 is already qualified; no unsupported isolated line is inserted.",
+    "review": "REVIEW.md#phase-d-notes-13"
+  },
+  {
+    "session": "DTG-PD-20261005-Astra-05",
+    "legacy_note": "N-201",
+    "pairs": [
+      "DTG-002290",
+      "DTG-002292",
+      "DTG-002294",
+      "DTG-002297",
+      "DTG-002298",
+      "DTG-002301",
+      "DTG-002303"
+    ],
+    "ids": [
+      "U04716",
+      "U04719",
+      "U04721",
+      "U04722",
+      "U04723",
+      "U04724",
+      "U04725",
+      "U04726",
+      "U04729",
+      "U04730",
+      "U04733",
+      "U04735",
+      "U04736"
+    ],
+    "realization": "Furthermore, I shall explain the nature of phenomena of the continuum.; The lamp-light of self-aware primordial knowing blazes.; The view, free from fear, completes the lion's expressiveness;\nwith self-awareness ripened, completeness arises naturally;\nvajra chains connect, a garland of pearls;\nappearances of experience form an array of jeweled inlay;\nself-abiding emptiness is the mirror of the core;\ndeviations are cut of themselves: the mirror of awakened mind.; One in basic space, there are also six expanses.; With qualities complete, precious things are heaped.; Because awareness ripens, embodiment-relics blaze.; Thus, because the nature of phenomena is inexpressible,\nit arises as the foundation of conventional phrases.",
+    "status": "Awakened-mind status reconciled; possible allusions remain provisional",
+    "reason": "Awakened mind for thugs is adopted P2, superseding the note’s old proposed-status description, not a new translation change. Self-aware is an explicitly allowed adjectival form of rang rig; do not replace it with self-knowing. Keep the metaphors, six expanses, precious things, and full clauses instead of inventing a bibliographic list. sku gdung embodiment-relics and title identifications remain unapproved proposals; gzhi ma in the conventional-phrases construction remains provisional.",
+    "review": "REVIEW.md#phase-d-notes-13"
+  },
+  {
+    "session": "DTG-PD-20261005-Astra-05",
+    "legacy_note": "N-202",
+    "pairs": [
+      "DTG-002307",
+      "DTG-002312",
+      "DTG-002315",
+      "DTG-002316",
+      "DTG-002317"
+    ],
+    "ids": [
+      "U04741",
+      "U04746",
+      "U04749",
+      "U04750",
+      "U04751"
+    ],
+    "realization": "Liberated through the key points, striving and effort are exhausted.; Liberated through time, there is no need for familiarity.; Whose phenomena are realization and non-realization?; There, in saying ‘liberated,’ who is the object of focus? [N-202](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-202); For whom could entry into the three realms occur?",
+    "status": "Key point and rhetorical-question repairs; taxonomic limits retained",
+    "reason": "The final questions were read with the chapter ending, not left at the old batch boundary. DTG-002316 now has the one who-question actually present in su la dmigs, without the unsupported second what-question or a doctrinal answer. Familiarity remains the allowed goms state form; the time-based liberation relation is still unresolved. Preserve every distinct liberation description without assigning an unprinted taxonomy.",
+    "review": "REVIEW.md#phase-d-notes-13"
+  },
+  {
+    "session": "DTG-PD-20261005-Astra-05",
+    "legacy_note": "N-203",
+    "pairs": [
+      "DTG-002317",
+      "DTG-002318",
+      "DTG-002319",
+      "DTG-002320",
+      "DTG-002321",
+      "DTG-002322",
+      "DTG-002323",
+      "DTG-002324",
+      "DTG-002325",
+      "DTG-002326"
+    ],
+    "ids": [
+      "U04751",
+      "U04752",
+      "U04753",
+      "U04754",
+      "U04755",
+      "U04756",
+      "U04757",
+      "U04758",
+      "U04759",
+      "U04760",
+      "U04761",
+      "U04762",
+      "U04763",
+      "C4-TRANSITION"
+    ],
+    "realization": "For whom could entry into the three realms occur?; This is the nature of phenomena liberated from the limits of existence.; Furthermore, the nature of phenomena free from doing:\nwith no doing, there is liberation;\nwith no arising, there is no abiding.; With no going, coming and circling are exhausted.; There is neither one nor two of what is done or arisen.; There is not even mere conventional delusion.; It is empty of entry into activities of existence and nonexistence.; From the beginning, the result is free from the conceptual mind,\nbeyond all speaking, thinking, and expression.’ [N-203](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-203); Thus, from the Great All-Penetrating Word, Root of All Phenomena:\nthe fourth chapter, the Array of the Nature of Phenomena, teaching the root of ordinary mind's appearance.; [Unresolved source graphic at the Chapter 4/5 boundary; no transcription supplied.]",
+    "status": "Quotation boundary repaired; final syntax and source limits retained",
+    "reason": "Close the teacher’s quotation before the narrative colophon introduced by zhes. All final questions and negatives remain; yod med las kyi ’jug pas stong still admits alternative attachment of activities/existence/nonexistence. The title retains ordinary mind in sems snang, while colophon signs and the boundary graphic remain unresolved, not deciphered or added to root verse.",
+    "review": "REVIEW.md#phase-d-notes-13"
+  }
+]
+```
+
+### Changed-clause self-check and actual tests
+
+All 36 changed pairs were reread in full against their Tibetan and applicable complete glossary rows. The revised 237-pair English chapter was then read continuously through the colophon and boundary graphic, including the across-pair questions and quotation close. No further repair was required. The open-sky and intrinsic-nature repairs retain the original window/practice attachment questions. This verification is this reviewer’s self-check, not another independent review.
+
+Actual checks pass: exact 506-operation replay from the frozen original English, 448 cumulatively changed pairs; fixed source/golden/policy/manifest/lineage bytes; all 2,667 IDs/order and English envelopes; unchanged inherited note associations and source-note footer; preserved original usage records and previous dispositions; 700 English local links. The paired suite was not rerun in this batch; the actual most recent Batch 12 result remains 64 tests, 53 pass, 9 fail, 2 error. Historical release-output gates remain blockers, not passed tests; full final validation is still due.
+
+<!-- pd05-batch-13-verification -->
+
 <!-- phase-d-findings -->
 
 <a id="phase-d-verification"></a>
@@ -12029,11 +13263,11 @@ The actual read-only integrity check passes: replay of all **73 pair operations*
 
 ## Coverage versus text disposition
 
-**Current coverage:** 2096/2,667 semantic pairs reviewed, ordinals 1–2096 through DTG-002089; 571 remain unreviewed. **421 first-encountered note records** read cumulatively. **Applied changes:** 448 English operations, 21 earlier review-link operations; **412 changed pairs including note-only changes**. The previously recorded 3 source-annotation and 2 active Current English quote repairs remain preserved. Repair verification is self-check, not another independent review. **Text disposition:** reviewed portions retain linked unresolved questions; no text acceptance, human certification, formal release or cross-work harmonization is claimed. Existing released readers remain historical; their builders reject the changed policy/English, and no successful regeneration is claimed.
+**Current coverage:** 2333/2,667 semantic pairs reviewed, ordinals 1–2333 through DTG-002326; 334 remain unreviewed. **453 first-encountered note records** read cumulatively. **Applied changes:** 485 English operations, 21 earlier review-link operations; **448 changed pairs including note-only changes**. The previously recorded 3 source-annotation and 2 active Current English quote repairs remain preserved. Repair verification is self-check, not another independent review. **Text disposition:** reviewed portions retain linked unresolved questions; no text acceptance, human certification, formal release or cross-work harmonization is claimed. Existing released readers remain historical; their builders reject the changed policy/English, and no successful regeneration is claimed.
 
 ## Continuation
 
-Continue at **ordinal 2097, DTG-002090**, after Batch 12. Exact unreviewed ranges: chapter-04 **2097–2333**, chapter-05 **2334–2544**, chapter-06 **2545–2652**, closing-material **2653–2667**. Preserve fixed source bytes, all IDs/order/source roles/formats, annotations, historical approvals/readers/releases and other worktrees. Context beyond this checkpoint is not advance coverage.
+Continue at **ordinal 2334, DTG-002327**, after Batch 13. Exact unreviewed ranges: chapter-05 **2334–2544**, chapter-06 **2545–2652**, closing-material **2653–2667**. Preserve fixed source bytes, all IDs/order/source roles/formats, annotations, historical approvals/readers/releases and other worktrees. Context beyond this checkpoint is not advance coverage.
 
 ---
 

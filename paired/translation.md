@@ -18651,7 +18651,7 @@ Earlier notes: [N-185](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002090"></a>
 
 <!-- pair: DTG-002090 -->
-Then the Lord of Gods, Maker of Joy,
+Then the Lord of Gods, Joy-Maker,
 asked the teacher, the great all-pervading lord,
 about the intrinsic nature of the Array of the Nature of Phenomena.
 
@@ -18663,8 +18663,8 @@ Earlier notes: [N-186](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-002091 -->
 ‘Kye kye! Truly complete buddha,
 through the Array of Primordial Knowing,
-I have gained respite from the activities of samsara,
-and been uplifted on the path of passing beyond sorrow. [N-186](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-186)
+I have gained respite from the activities of cyclic existence,
+and been uplifted on the path of transcendence of sorrow. [N-186](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-186)
 
 [^G-U04312]
 
@@ -18683,7 +18683,7 @@ Earlier notes: [N-186](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002093 -->
 Although I have gained confidence in the buddhas' enlightened intent,
-for sentient beings who will enter in the future,
+for karmic beings who will enter in the future,
 so that primordial knowing free from conceptual thought may be complete,
 I seek the Array of the Nature of Phenomena in evenness. [N-186](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-186)
 
@@ -18699,7 +18699,7 @@ Where is the nature of phenomena of abiding to be applied?
 <a id="dtg-002095"></a>
 
 <!-- pair: DTG-002095 -->
-What is the crucial point of the intervals of movement?
+What is the key point of the intervals of movement?
 <!-- /pair -->
 
 <a id="dtg-002096"></a>
@@ -18717,13 +18717,13 @@ What is the nature of phenomena of buddhas like?
 <a id="dtg-002098"></a>
 
 <!-- pair: DTG-002098 -->
-How does it abide at the time of sentient beings?
+How does it abide at the time of karmic beings?
 <!-- /pair -->
 
 <a id="dtg-002099"></a>
 
 <!-- pair: DTG-002099 -->
-What are the crucial points of the body?
+What are the key points of the body?
 <!-- /pair -->
 
 <a id="dtg-002100"></a>
@@ -18789,13 +18789,13 @@ What are the definitive phrases of the nature of phenomena?
 <a id="dtg-002109"></a>
 
 <!-- pair: DTG-002109 -->
-What are its crucial points?
+What is the nature of phenomena of the various key points?
 <!-- /pair -->
 
 <a id="dtg-002110"></a>
 
 <!-- pair: DTG-002110 -->
-How is this crucial point of the time of arising held?
+How is this key point of the time of arising held?
 <!-- /pair -->
 
 <a id="dtg-002111"></a>
@@ -18813,7 +18813,7 @@ How do its characteristics appear?
 <a id="dtg-002113"></a>
 
 <!-- pair: DTG-002113 -->
-Speak of these for the benefit of sentient beings.’
+Speak of these for the benefit of karmic beings.’
 <!-- /pair -->
 
 <a id="dtg-002114"></a>
@@ -19019,7 +19019,7 @@ Earlier notes: [N-187](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002138"></a>
 
 <!-- pair: DTG-002138 -->
-It is not known by the names samsara and nirvana.
+It is not known by the names cyclic existence and transcendence of sorrow.
 
 Earlier notes: [N-187](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-187).
 <!-- /pair -->
@@ -19052,7 +19052,7 @@ Earlier notes: [N-187](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002142 -->
 In a moment free from causes and conditions,
-buddhas and sentient beings appear as a foundation,
+buddhas and karmic beings appear as a foundation,
 free from all multiplicity and parts. [N-187](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-187)
 
 Earlier notes: [N-187](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-187).
@@ -19067,7 +19067,7 @@ Earlier notes: [N-187](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002144"></a>
 
 <!-- pair: DTG-002144 -->
-As for deluded sentient beings:
+As for deluded karmic beings:
 embodiments and primordial knowing are in their own manner,
 genuine, fresh, and letting be—
 abiding solely in ‘gyi nar’ [unresolved expression],
@@ -19099,7 +19099,7 @@ Earlier notes: [N-189](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002147"></a>
 
 <!-- pair: DTG-002147 -->
-In the respective crucial points of diverse movement,
+In the respective key points of diverse movement,
 knowing one, one abides liberated.
 
 Earlier notes: [N-189](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-189).
@@ -19123,7 +19123,7 @@ Earlier notes: [N-189](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002150"></a>
 
 <!-- pair: DTG-002150 -->
-The crucial points of the body are as follows:
+The key points of the body are as follows:
 the general [body], the heart, and the channels—
 the pure, uncontrived nature of phenomena abides there. [N-190](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-190)
 
@@ -19133,7 +19133,7 @@ Earlier notes: [N-190](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002151"></a>
 
 <!-- pair: DTG-002151 -->
-Throughout the bodies of all sentient beings,
+Throughout the bodies of all karmic beings,
 the nature of phenomena pervades in the manner of wind.
 
 Earlier notes: [N-190](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-190).
@@ -19179,7 +19179,7 @@ Earlier notes: [N-190](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002156 -->
 Through the three aspects of pure embodiment,
-the characteristics of passing beyond sorrow are held.
+the characteristics of transcendence of sorrow are held.
 
 Earlier notes: [N-190](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-190).
 <!-- /pair -->
@@ -19205,7 +19205,7 @@ Earlier notes: [N-190](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002159 -->
 Through three aspects of entering spheres,
-the seeds connecting samsara and nirvana are planted.
+the seeds connecting cyclic existence and transcendence of sorrow are planted.
 
 Earlier notes: [N-190](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-190), [N-T98](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t98).
 <!-- /pair -->
@@ -19349,14 +19349,14 @@ Earlier notes: [N-191](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002175 -->
 As for by what it is seen:
-it is seen through familiarity and the crucial points.
+it is seen through familiarity and the key points.
 <!-- /pair -->
 
 <a id="dtg-002176"></a>
 
 <!-- pair: DTG-002176 -->
 Familiarity starts with the preliminaries;
-applying the crucial points of body and voice,
+applying the key points of body and voice,
 one sees the forms of pure self-appearance,
 and all delusion subsides.
 
@@ -19366,7 +19366,7 @@ Earlier notes: [N-192](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002177"></a>
 
 <!-- pair: DTG-002177 -->
-Through the body at the crucial point, seeing occurs.
+Through the body at the key point, seeing occurs.
 
 Earlier notes: [N-192](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-192).
 <!-- /pair -->
@@ -19422,7 +19422,7 @@ Earlier notes: [N-192](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002183"></a>
 
 <!-- pair: DTG-002183 -->
-Having seen, one applies the crucial point.
+Having seen, one applies the key point.
 
 Earlier notes: [N-192](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-192).
 <!-- /pair -->
@@ -19431,7 +19431,7 @@ Earlier notes: [N-192](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002184 -->
 Through methods of guiding appearance,
-the appearances of the four elements reach the crucial point.
+the appearances of the four elements reach the key point.
 
 Earlier notes: [N-192](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-192).
 <!-- /pair -->
@@ -19440,7 +19440,7 @@ Earlier notes: [N-192](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002185 -->
 By reckoning the connections of the eight winds' activities,
-manifold differentiating conceptualization reaches the crucial point.
+manifold differentiating conceptualization reaches the key point.
 
 Earlier notes: [N-192](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-192).
 <!-- /pair -->
@@ -19449,7 +19449,7 @@ Earlier notes: [N-192](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002186 -->
 For the body: compressing, shaking out expressiveness,
-and the crucial points of striking, extending, and gathering the limbs;
+and the key points of striking, extending, and gathering the limbs;
 through subtlety, straightening, and massage—
 in flesh, blood, and bone. [N-192](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-192)
 
@@ -19469,7 +19469,7 @@ Having thus arrived, the measures of completeness are:
 cessation of what appears directly before one;
 introducing appearance into earth and stone;
 one's own knowing entering anything;
-through that entry, moving insentient things;
+through that entry, moving matter;
 taking the measure of wind's movement; [N-193](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-193)
 seeing the body's minute particles arises;
 whatever appears is complete as form embodiment;
@@ -19501,7 +19501,7 @@ Earlier notes: [N-194](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-002191 -->
 The manner of reaching the measure also becomes like this:
 free from the particles of each body,
-windows of light appear in the intervening space.
+windows of light appear in the open sky.
 
 Earlier notes: [N-194](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-194).
 <!-- /pair -->
@@ -19877,7 +19877,7 @@ Earlier notes: [N-197](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002234"></a>
 
 <!-- pair: DTG-002234 -->
-The nature of phenomena of the crucial points is as follows:
+The nature of phenomena of the key points is as follows:
 the elements' abodes, one's body,
 objects, gates, knowing, wind,
 channels, spheres, and subsidiary aspects—
@@ -19901,7 +19901,7 @@ Earlier notes: [N-197](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002236 -->
 From the object in which exhaustion and appearance are nondual,
-through intrinsic abiding and contrived [practice],
+through intrinsic nature’s abiding and contrived [practice],
 the basic space of phenomena also appears through purity.
 
 Earlier notes: [N-197](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-197).
@@ -19910,7 +19910,7 @@ Earlier notes: [N-197](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002237"></a>
 
 <!-- pair: DTG-002237 -->
-Through this, buddhahood comes through the crucial points. [N-197](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-197)
+Through this, buddhahood comes through the key points. [N-197](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-197)
 
 Earlier notes: [N-197](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-197).
 <!-- /pair -->
@@ -19924,7 +19924,7 @@ Earlier notes: [N-197](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002239"></a>
 
 <!-- pair: DTG-002239 -->
-The crucial point of the time of arising is like this:
+The key point of the time of arising is like this:
 Ema! I shall explain a great wonder.
 <!-- /pair -->
 
@@ -19950,7 +19950,7 @@ Earlier notes: [N-197](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002242"></a>
 
 <!-- pair: DTG-002242 -->
-Knowing the crucial point of pure intrinsic nature,
+Knowing the key point of pure intrinsic nature,
 one knows phenomena without anything being done.
 
 Earlier notes: [N-197](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-197).
@@ -20240,7 +20240,7 @@ the embodiments that train them are likewise.
 
 <!-- pair: DTG-002275 -->
 Through the transformations of classes and faculties,
-conceptual thoughts of samsara and nirvana differ.
+conceptual thoughts of cyclic existence and transcendence of sorrow differ.
 <!-- /pair -->
 
 <a id="dtg-002276"></a>
@@ -20261,7 +20261,7 @@ Furthermore, I shall explain the appearance of the nature of phenomena.
 <!-- pair: DTG-002278 -->
 In impure delusion,
 without contriving the gates of the faculties,
-the crucial point is leaving [them] as they are;
+the key point is leaving [them] as they are;
 not altering that is the pith instruction. [N-200](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-200)
 
 Earlier notes: [N-200](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-200), [N-T101](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t101).
@@ -20516,7 +20516,7 @@ Earlier notes: [N-202](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002307"></a>
 
 <!-- pair: DTG-002307 -->
-Liberated through the crucial points, striving and effort are exhausted.
+Liberated through the key points, striving and effort are exhausted.
 
 Earlier notes: [N-202](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-202).
 <!-- /pair -->
@@ -20588,7 +20588,7 @@ Earlier notes: [N-202](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002316"></a>
 
 <!-- pair: DTG-002316 -->
-For whom there is ‘liberated,’ what is the object of focus? [N-202](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-202)
+There, in saying ‘liberated,’ who is the object of focus? [N-202](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-202)
 
 Earlier notes: [N-202](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-202).
 <!-- /pair -->
@@ -20655,7 +20655,7 @@ Earlier notes: [N-203](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002324 -->
 From the beginning, the result is free from the conceptual mind,
-beyond all speaking, thinking, and expression. [N-203](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-203)
+beyond all speaking, thinking, and expression.’ [N-203](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-203)
 
 Earlier notes: [N-203](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-203).
 <!-- /pair -->
