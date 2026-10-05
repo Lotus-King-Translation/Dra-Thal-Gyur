@@ -12136,7 +12136,7 @@ Earlier notes: [N-127](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001344"></a>
 
 <!-- pair: DTG-001344 -->
-Here, retaining and packing are the crucial point.
+Here, retaining and packing are the key point.
 
 Earlier notes: [N-127](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-127).
 <!-- /pair -->
@@ -12153,7 +12153,7 @@ Earlier notes: [N-127](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001346"></a>
 
 <!-- pair: DTG-001346 -->
-To attain warmth, massage is the crucial point.
+To attain warmth, massage is the key point.
 
 Earlier notes: [N-127](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-127).
 <!-- /pair -->
@@ -12187,7 +12187,7 @@ Earlier notes: [N-127](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001350"></a>
 
 <!-- pair: DTG-001350 -->
-Ma [‘mother’] clears away the turbid parts
+Ma [‘mother’] clears away the residue
 and generates the splendor of essence.
 
 Earlier notes: [N-127](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-127), [N-T65](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t65).
@@ -12196,7 +12196,7 @@ Earlier notes: [N-127](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001351"></a>
 
 <!-- pair: DTG-001351 -->
-Here, loosening and massage are the crucial point.
+Here, loosening and massage are the key point.
 
 Earlier notes: [N-127](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-127).
 <!-- /pair -->
@@ -12222,7 +12222,7 @@ Earlier notes: [N-127](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001354"></a>
 
 <!-- pair: DTG-001354 -->
-[This] is to be thoroughly examined through the pledge. [N-127](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-127)
+[This] is to be thoroughly examined through the sacred pledge. [N-127](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-127)
 
 [^G-U02927]
 
@@ -12274,7 +12274,7 @@ Earlier notes: [N-127](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001360 -->
 For its twelve branches,
-loosening and rolling are the crucial point.
+loosening and rolling are the key point.
 
 Earlier notes: [N-127](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-127).
 <!-- /pair -->
@@ -12331,8 +12331,8 @@ Earlier notes: [N-127](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001367 -->
 The door through which primordial knowing arises:
-the gathering of all refined bodily vital essence
-emerges through the door called cakṣu (‘eye’). [N-128](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-128)
+[primordial knowing] emerges through the door called cakṣu (‘eye’),
+where all the pure extract of the body’s quintessence is gathered. [N-128](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-128)
 
 Earlier notes: [N-128](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-128), [N-T65](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t65), [N-T62](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t62).
 <!-- /pair -->
@@ -12387,7 +12387,7 @@ Earlier notes: [N-128](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001373"></a>
 
 <!-- pair: DTG-001373 -->
-Through direct perception and its own crucial point,
+Through direct perception and its own key point,
 in the self-appearing object of the pure nature of phenomena,
 what is accompanied by conceptual thought abides in cessation. [N-128](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-128)
 
@@ -12456,7 +12456,7 @@ Earlier notes: [N-129](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001381"></a>
 
 <!-- pair: DTG-001381 -->
-Taking the lead on the path of transcendence,
+Taking the lead on the path of transcendence [of sorrow],
 through wind it generates luster and splendor;
 transforming [them], it reveals appearances of primordial knowing.
 
@@ -12484,10 +12484,10 @@ Earlier notes: [N-129](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001384"></a>
 
 <!-- pair: DTG-001384 -->
-Gathering the refined part of basic space,
+Gathering the pure extract of basic space,
 and retaining the embodiments of awareness,
-through maturing the three crucial points into vital essence,
-it causes samsara itself to be abandoned. [N-129](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-129)
+through maturing the three key points into quintessence,
+it causes cyclic existence itself to be abandoned. [N-129](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-129)
 
 Earlier notes: [N-129](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-129), [N-T65](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t65).
 <!-- /pair -->
@@ -12496,7 +12496,7 @@ Earlier notes: [N-129](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001385 -->
 Thus, because the lamps arise through the eyes,
-with the crucial points of the buddhas' enlightened intent gathered,
+with the key points of the buddhas' enlightened intent gathered,
 the objects of self-appearance are held. [N-129](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-129)
 
 Earlier notes: [N-129](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-129).
@@ -12511,7 +12511,7 @@ Earlier notes: [N-129](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001387"></a>
 
 <!-- pair: DTG-001387 -->
-I will explain the crucial point of the lamps.
+I will explain the key point of the lamps.
 
 Earlier notes: [N-130](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-130).
 <!-- /pair -->
@@ -12530,7 +12530,7 @@ Earlier notes: [N-130](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 Through the object, awareness, and wind,
 because the nature of phenomena is taken as the path,
 the nature of phenomena in which primordial knowing is complete—
-this, too, is the crucial point of the lamps.
+this, too, is the key point of the lamps.
 
 Earlier notes: [N-130](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-130).
 <!-- /pair -->
@@ -12538,7 +12538,7 @@ Earlier notes: [N-130](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001390"></a>
 
 <!-- pair: DTG-001390 -->
-The crucial point of the water lamp of the far-reaching lasso is nonmovement. [N-T64](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t64)
+The key point of the water lamp of the far-reaching lasso is nonmovement. [N-T64](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t64)
 
 Earlier notes: [N-130](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-130), [N-T64](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t64).
 <!-- /pair -->
@@ -12554,7 +12554,7 @@ Earlier notes: [N-130](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001392"></a>
 
 <!-- pair: DTG-001392 -->
-The crucial point of the discerning-knowing lamp is training.
+The key point of training the discerning-knowing lamp:
 
 Earlier notes: [N-130](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-130), [N-T64](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t64).
 <!-- /pair -->
@@ -12563,7 +12563,7 @@ Earlier notes: [N-130](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001393 -->
 Through three rites, increase [it],
-and through the crucial point of accomplishment, expand its extent.
+and through the key point of accomplishment, expand its extent.
 
 Earlier notes: [N-130](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-130).
 <!-- /pair -->
@@ -12571,7 +12571,7 @@ Earlier notes: [N-130](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001394"></a>
 
 <!-- pair: DTG-001394 -->
-The crucial point of the sphere lamp is packing.
+The key point of the sphere lamp is packing.
 
 Earlier notes: [N-130](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-130), [N-T64](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t64).
 <!-- /pair -->
@@ -12588,7 +12588,7 @@ Earlier notes: [N-130](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001396"></a>
 
 <!-- pair: DTG-001396 -->
-The crucial point of basic space is guiding.
+The key point of basic space is guiding.
 
 Earlier notes: [N-131](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-131), [N-T71](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t71).
 <!-- /pair -->
@@ -12625,7 +12625,7 @@ Earlier notes: [N-131](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 The pure light of the five primordial knowings—
 earth, stones, mountains, and crags emptied of their traces—
 in isolated patches and mere portions of a region,
-appears to one skilled in guiding. [N-131](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-131)
+appears through skill in guiding. [N-131](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-131)
 
 Earlier notes: [N-131](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-131), [N-T71](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t71).
 <!-- /pair -->
@@ -12633,7 +12633,7 @@ Earlier notes: [N-131](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001401"></a>
 
 <!-- pair: DTG-001401 -->
-At this time, adjustment through methods is the crucial point.
+At this time, adjustment through methods is the key point.
 
 Earlier notes: [N-131](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-131).
 <!-- /pair -->
@@ -12677,7 +12677,7 @@ Earlier notes: [N-131](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 The characteristics of the lamps are like this:
 in general, they reveal appearances,
 join primordial knowing as mother and child,
-and connect the boundary of samsara and nirvana.
+and connect the boundary of cyclic existence and transcendence of sorrow.
 
 Earlier notes: [N-132](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-132).
 <!-- /pair -->
@@ -12731,7 +12731,7 @@ Earlier notes: [N-132](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 The characteristics of discerning knowing:
 entering clear words, it gathers the foundation;
 it burns afflictions, karma, and habitual tendencies;
-it matures and cuts the life-force of samsara and nirvana. [N-132](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-132)
+it matures and cuts the life-force of cyclic existence and transcendence of sorrow. [N-132](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-132)
 
 Earlier notes: [N-132](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-132), [N-T77](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t77).
 <!-- /pair -->
@@ -12759,7 +12759,7 @@ Earlier notes: [N-132](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001415"></a>
 
 <!-- pair: DTG-001415 -->
-Through methods and discerning knowing being complete,
+Through means and discerning knowing being complete,
 from the two paired portions, it holds two embodiments
 and makes appearances spread abundantly.
 
@@ -12769,7 +12769,7 @@ Earlier notes: [N-133](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001416"></a>
 
 <!-- pair: DTG-001416 -->
-These, too, complete one's own knowing.
+These, too, complete self-knowing.
 
 Earlier notes: [N-133](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-133).
 <!-- /pair -->
@@ -12793,7 +12793,7 @@ Earlier notes: [N-133](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001419"></a>
 
 <!-- pair: DTG-001419 -->
-Like the form of a complete maṇḍala,
+Like the form of a complete mandala,
 they reveal the splendor of the primordial knowings,
 and also reveal the deep splendor and luster of light.
 
@@ -12829,7 +12829,7 @@ Earlier notes: [N-133](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001423 -->
 Crossing the precipice of apprehended object and apprehending subject,
-the tether of samsara and nirvana is cut. [N-133](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-133)
+the tether of cyclic existence and transcendence of sorrow is cut. [N-133](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-133)
 
 Earlier notes: [N-133](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-133).
 <!-- /pair -->
@@ -12843,7 +12843,7 @@ Earlier notes: [N-133](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001425"></a>
 
 <!-- pair: DTG-001425 -->
-Its crucial point of the object is like this:
+Its key point of the object is like this:
 in the empty outer object, free from clouds,
 yoga abides in the birds' path through the sky.
 
@@ -12895,7 +12895,7 @@ Earlier notes: [N-134](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001431"></a>
 
 <!-- pair: DTG-001431 -->
-Because the limit of conceptual thought is exhausted, one is liberated from samsara.
+Because the limit of conceptual thought is exhausted, one is liberated from cyclic existence.
 
 Earlier notes: [N-134](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-134).
 <!-- /pair -->
@@ -12919,7 +12919,7 @@ Earlier notes: [N-134](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001434"></a>
 
 <!-- pair: DTG-001434 -->
-Through the crucial point, bind and place [them],
+Through the key point, bind and place [them],
 transform entities and cut the root;
 draw [them] forth, and train with form. [N-134](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-134)
 
@@ -12992,7 +12992,7 @@ Earlier notes: [N-134](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001442 -->
 Basic space's object is empty,
-clear, free from obscuration, and emitting splendor;
+clear, free from obscuration, and emitting luster;
 pervading and vast, gathered into one.
 
 Earlier notes: [N-134](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-134).
@@ -13027,7 +13027,7 @@ Earlier notes: [N-134](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-001446 -->
 The supports of the lamps of pure primordial knowing:
 in general, through support and what relies upon it,
-the seeds of samsara and nirvana increase.
+the seeds of cyclic existence and transcendence of sorrow increase.
 
 Earlier notes: [N-135](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-135).
 <!-- /pair -->
@@ -13096,7 +13096,7 @@ Earlier notes: [N-135](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001453 -->
 By relying on the far-reaching lasso itself,
-free from faults, having abandoned action and agency,
+free from faults, having abandoned doing and doers,
 one engages in the mother nature of phenomena.
 
 Earlier notes: [N-135](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-135).
@@ -13107,7 +13107,7 @@ Earlier notes: [N-135](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-001454 -->
 Through purifying karma and habitual tendencies,
 relying on the vision of the direct perception of the nature of phenomena,
-one empties samsara from its depths,
+one empties cyclic existence from its depths,
 and can touch the boundary of passing beyond sorrow.
 
 Earlier notes: [N-135](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-135).
@@ -13116,8 +13116,8 @@ Earlier notes: [N-135](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001455"></a>
 
 <!-- pair: DTG-001455 -->
-Through the nature of ordinary mind in which conceptual thought and examination are exhausted,
-samsara is cast far away.
+Through ordinary mind itself in which conceptual thought and examination are exhausted,
+cyclic existence is cast far away.
 
 Earlier notes: [N-135](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-135).
 <!-- /pair -->
@@ -13126,7 +13126,7 @@ Earlier notes: [N-135](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001456 -->
 Having seen the embodiment of pure primordial knowing,
-the point of aim of samsara and nirvana, the two, is destroyed. [N-135](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-135)
+the point of aim of cyclic existence and transcendence of sorrow, the two, is destroyed. [N-135](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-135)
 
 Earlier notes: [N-135](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-135), [N-T72](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t72).
 <!-- /pair -->
@@ -13169,7 +13169,7 @@ Earlier notes: [N-135](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001461"></a>
 
 <!-- pair: DTG-001461 -->
-The crucial point of the stages of conceptual mind is like this:
+The key point of the stages of conceptual mind is like this:
 through distinctions in the vessel of the elements,
 through distinctions in the elements' junctures of maturation,
 and through differences in beings' conceptual minds,
@@ -13313,7 +13313,7 @@ Earlier notes: [N-136](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001477"></a>
 
 <!-- pair: DTG-001477 -->
-[Wind's] water makes the object of deep absorption clear.
+[Wind's] water makes deep absorption’s object of focus clear.
 
 Earlier notes: [N-136](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-136).
 <!-- /pair -->
@@ -13384,8 +13384,8 @@ Then, having entered the mother's womb,
 through the calculation of years, months, and days,
 and the respective elements' own times,
 having definitely grasped the measures of time,
-through restoring each respective element,
-the mantra practitioner should diligently rely on dependent connections.
+the mantra practitioner should diligently rely on dependent connections
+for restoring each respective element.
 
 Earlier notes: [N-137](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-137).
 <!-- /pair -->
@@ -13419,7 +13419,7 @@ Earlier notes: [N-137](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001489"></a>
 
 <!-- pair: DTG-001489 -->
-Thus, the elements protect the vital essence.
+Thus, the elements protect the quintessence.
 
 Earlier notes: [N-137](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-137).
 <!-- /pair -->
@@ -13444,7 +13444,7 @@ Earlier notes: [N-137](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001492"></a>
 
 <!-- pair: DTG-001492 -->
-This is the crucial point of taking [the teaching] up in experience:
+This is the key point of taking [the teaching] up in experience:
 the support of focus and the abiding of reflection.
 
 Earlier notes: [N-138](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-138).
@@ -13592,8 +13592,8 @@ Earlier notes: [N-139](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001509"></a>
 
 <!-- pair: DTG-001509 -->
-Eye, ear, nose, tongue,
-and all bodily faculties are exhausted.
+The faculties of eye, ear, nose, tongue,
+and body are all exhausted.
 
 Earlier notes: [N-139](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-139).
 <!-- /pair -->
@@ -13735,7 +13735,7 @@ Earlier notes: [N-141](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001526 -->
 That ordinary mind, abiding in its own clarity,
-liberated through the crucial point, is not partial to any side. [N-141](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-141)
+liberated through the key point, is not partial to any side. [N-141](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-141)
 
 Earlier notes: [N-141](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-141), [N-T76](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t76).
 <!-- /pair -->
@@ -13813,7 +13813,7 @@ Earlier notes: [N-142](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001536"></a>
 
 <!-- pair: DTG-001536 -->
-In the nature of ordinary mind liberated in this way,
+In ordinary mind itself, liberated in this way,
 it is not that compassionate responsiveness is absent.
 
 Earlier notes: [N-143](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-143).
@@ -13841,7 +13841,7 @@ Earlier notes: [N-143](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001539 -->
 Through primordial knowing of knowing and what is to be known,
-accomplishments are granted to those with aspiration and devotion.
+spiritual accomplishments are granted to those with confident devotion.
 
 Earlier notes: [N-143](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-143).
 <!-- /pair -->
@@ -13849,7 +13849,7 @@ Earlier notes: [N-143](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001540"></a>
 
 <!-- pair: DTG-001540 -->
-Furthermore, when the nature of ordinary mind matures,
+Furthermore, when ordinary mind itself matures,
 the Ground abides in the dharma embodiment.
 
 Earlier notes: [N-143](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-143).
@@ -26830,7 +26830,7 @@ These source-reconciliation notes preserve the October 1 decision evidence. Each
 
     **Previous English, preserved:** `"Water, too, is to be thoroughly examined through the pledge. [N-127]"`
 
-    **Current English:** `"[This] is to be thoroughly examined through the pledge. [N-127]"`
+    **Current English:** `"[This] is to be thoroughly examined through the sacred pledge. [N-127]"`
 
     **Inherited golden qualifications:** C2-I-U02927
 

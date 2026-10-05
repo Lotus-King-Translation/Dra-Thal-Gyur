@@ -969,12 +969,16 @@ Current golden-source updates: [G-U02885](ENDNOTES.md#g-u02885), [G-U02887](ENDN
 
 Current golden-source updates: [G-U02927](ENDNOTES.md#g-u02927)
 
+**Phase D disposition, 2026-10-05 (continuation 04):** Approved labels; wordplay and source correction preserved. The full channel continuation was read, including the distinct ma syllabic explanations and generative/summit predicates. The extract/residue link locally identifies snyigs ma, while splendor is not silently made radiance. The conditional/purpose force in the bloodletting, warmth and lifespan clauses is already conveyed by their restricted English constructions; no new physiological method or efficacy is asserted. The water alternative at U02927 is already properly layered, and the bracketed subject stays provisional. Karmic wind remains the recognized las rlung short form, not a new compound built from components. [Current review and scope](REVIEW.md#phase-d-notes-10).
+
 <a id="n-128"></a>
 ## N-128 — Eye-door description / lexical proposals / unidentified a-bras
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-128)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+**Phase D disposition, 2026-10-05 (continuation 04):** Supported genitive repair; anatomical details still provisional. The door is modified by where all ... is gathered; the gathered extract is not independently asserted to emerge. Primordial knowing is visibly supplied from U02944, and the eye identification is locally supported by U02983. Pure extract and quintessence both remain. Their detailed bodily relationship, the two/five branching, faults/actions attachment, ba-min and a-bras are not certified anatomical identities. A source-supported account of those referents, not a modern eye diagram, would settle them. [Current review and scope](REVIEW.md#phase-d-notes-10).
 
 <a id="n-129"></a>
 ## N-129 — Four lamps / short forms / subject continuation
@@ -983,6 +987,8 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+**Phase D disposition, 2026-10-05 (continuation 04):** Approved labels and local short form; inherited attachment open. The complete four-lamp account and following replies were read, including the pure-basic-space characteristics/supports. The U02972 short das is locally a release-path term, with sorrow bracketed. Pervading-emptiness, the subject of U02979–82 and the identities of the three key points remain qualified; no missing fourth name is imported into this earlier stanza. [Current review and scope](REVIEW.md#phase-d-notes-10).
+
 <a id="n-130"></a>
 ## N-130 — Lamp crucial points / abbreviated names / incomplete bodily instruction
 
@@ -990,12 +996,16 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+**Phase D disposition, 2026-10-05 (continuation 04):** Genitive and cross-pair continuation repaired. The training genitive introduces the following instructions rather than predicating training as the key point. The three rites, three gazes and channel/thumb/finger relationship remain unspecified or provisional; the correction supplies no pressure, placement, target or duration. [Current review and scope](REVIEW.md#phase-d-notes-10).
+
 <a id="n-131"></a>
 ## N-131 — Guiding basic space / sun and moon / spatial description / cessation
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-131)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+**Phase D disposition, 2026-10-05 (continuation 04):** Instrumental force repaired; spatial/power attachments retained provisionally. The written mkhas pas supports through skill rather than a new dative experiencer. The existing bag stongs/gru chad/yul gru tsam and elemental-completion qualifications remain; direct sun-gazing or a practical eye/breath method is not inferred. Procedural methods remains distinct from the abstract means pairing in U03041. [Current review and scope](REVIEW.md#phase-d-notes-10).
 
 <a id="n-132"></a>
 ## N-132 — Lamp characteristics / mother-child relation / foundation usage / pure-space designation
@@ -1011,12 +1021,16 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+**Phase D disposition, 2026-10-05 (continuation 04):** Local polarity and approved labels; implicit completion/subject questions retained. The two paired portions support abstract means/discerning knowing rather than procedures, and technical rang shes supports self-knowing without positing a reflexive theory. The completion predicate and implied agents remain qualified with the sequence. Two embodiments are not normalized to three; the later three-embodiment exhaustion and full apprehended/apprehending distinction remain. Hero identity, balance and aspiration/convergence are unresolved. [Current review and scope](REVIEW.md#phase-d-notes-10).
+
 <a id="n-134"></a>
 ## N-134 — Lamp objects / source query / indication and expression / elemental counts
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-134)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+**Phase D disposition, 2026-10-05 (continuation 04):** Local U12/U13 controls applied; source query and counts preserved. Bare mdangs is luminous luster here, not gdangs radiance. Generic words in word/meaning and indication clauses does not erase an explicit sgra/tshig/ming contrast; no arbitrary phrase rotation is imposed. Gnang grants, all five/ six/three/two/six numbers, entities and the elements/arising ambiguity remain source-linked. No snang emendation or color chart is supplied. [Current review and scope](REVIEW.md#phase-d-notes-10).
 
 <a id="n-135"></a>
 ## N-135 — Supports and supported / abbreviated lamps / faultless-action attachment / metaphors
@@ -1025,12 +1039,16 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+**Phase D disposition, 2026-10-05 (continuation 04):** Supported labels and intensive; faultless/metaphor relations remain provisional. The action/agent contrast supports both doing and doers; skyon med is not changed to faulty. Ordinary mind is the operative head with examination exhausted, supporting intensive nyid. The rten/brten and threefold agency constructions remain qualified. At U03128–29 the carried object might be resumed awareness or the practitioner; existing one is brought is provisional, not proof of a newly stated person. The balance/flower/irrigation metaphors and this antecedent require source-supported construction resolution. [Current review and scope](REVIEW.md#phase-d-notes-10).
+
 <a id="n-136"></a>
 ## N-136 — Elemental pairings / explicit source query / mental faculties and bodily terms
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-136)
 
 Current golden-source updates: [G-U03147](ENDNOTES.md#g-u03147)
+
+**Phase D disposition, 2026-10-05 (continuation 04):** Focus component repaired; PD-Q10-03 shared-label question open. The two water/wind clauses and separate source query remain; instrumental-looking particles are not silently rewritten as genitives in Tibetan. The current possessive matrix and its supplements stay provisional. At U03140, རྣམ་འཕྲུལ in the elemental account currently shares magical displays with established cho phrul. This English overlap alone is not an error: manifestations versus magical manifestations/displays requires a whole-expression family decision based on its occurrences. It is not a newly approved cho phrul synonym. Tshigs remains joints, not tshig words. [Current review and scope](REVIEW.md#phase-d-notes-10).
 
 <a id="n-137"></a>
 ## N-137 — Elemental purity / womb and calendar / vessel-glass simile
@@ -1039,12 +1057,16 @@ Current golden-source updates: [G-U03147](ENDNOTES.md#g-u03147)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+**Phase D disposition, 2026-10-05 (continuation 04):** Genitive repaired; PD-Q10-01 and simile/timing questions remain. Gso ba yi modifies the dependent connections relied on for restoration, not restoration as an instrument of relying. Womb-entry subject and timing remain explicitly provisional, not prenatal guidance. At U03174, ཐར་པའི་ལམ་སྣ་སྟོན་པ could show the entrance/course of the liberation path rather than the current many paths; the exact lam sna construction needs parallel syntactic evidence to choose, and the plurality is not certified. The stainless sems nyid in the vessel-color simile may name the contrasted nature rather than intensify a resumed subject: nature of ordinary mind is retained provisionally for that distinct construction, not as a default. Material identity and vessel/contents analogy remain unresolved. [Current review and scope](REVIEW.md#phase-d-notes-10).
+
 <a id="n-138"></a>
 ## N-138 — Five-sense practice / instruments and sounds / incomplete combinations
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-138)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+**Phase D disposition, 2026-10-05 (continuation 04):** No component reconstruction or instructional normalization. The local list identifies objects of focus, but dmigs rten/bsam gnas, sgyu rtsal, bum ldir, the sixfold taste, crossed bows and pursuit through entities still require their own construction decisions. Rgyud mangs names the many-stringed instrument, not tantra/continuum; sgra is auditory sound here. The affirmative casting into distraction, all five sense domains and the unidentified sound syllables remain, without recipes or devices. [Current review and scope](REVIEW.md#phase-d-notes-10).
 
 <a id="n-139"></a>
 ## N-139 — Signs and measures / speech capacity / faculty exhaustion
@@ -1053,6 +1075,8 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+**Phase D disposition, 2026-10-05 (continuation 04):** Shared-head/quantifier scope repaired. The five listed faculties are eye, ear, nose, tongue and body; kun qualifies their total exhaustion. The revision removes the unintended open class of all bodily faculties while retaining the complete five-item list and the following absence-of-intrinsic-nature explanation. Gtam zungs and physiological interpretation remain unverified. [Current review and scope](REVIEW.md#phase-d-notes-10).
+
 <a id="n-140"></a>
 ## N-140 — Intermediate states / appearance descriptors / unresolved color expression
 
@@ -1060,12 +1084,16 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: [G-U03240](ENDNOTES.md#g-u03240)
 
+**Phase D disposition, 2026-10-05 (continuation 04):** PD-Q10-02 remains open; old source-color issue not invented afresh. At U03235, ཐིག་ལེ་མཆེད་དང་འབྱུང་སྣང་དག may predicate pure elemental appearances or use dag as a plural/list marker. Current are pure remains provisional pending clause-level determination; an expected pure-bardo doctrine is not proof. Rang bzhin gnas pa aggregate scope, appearance-state boundaries and gleg are already qualified and remain unresolved. No full color taxonomy is imported. [Current review and scope](REVIEW.md#phase-d-notes-10).
+
 <a id="n-141"></a>
 ## N-141 — Liberation of ordinary mind / negations / cross-batch continuation
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-141)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+**Phase D disposition, 2026-10-05 (continuation 04):** Full reply read; no doctrinal normalization. The complete reply through U03258 denies movement and a releasing agent, retains both Ground statements and repeats confidence. Those source differences are not contradictory English errors to harmonize. Rgyu mtshan and the exact technical-versus-ordinary gzhi scope stay qualified; no causal explanation is supplied. [Current review and scope](REVIEW.md#phase-d-notes-10).
 
 <a id="n-142"></a>
 ## N-142 — Liberation sequence / contextual gzhi compounds / nakedly
@@ -1080,6 +1108,8 @@ Current golden-source updates: No new source-difference disposition attached; th
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-143)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+**Phase D disposition, 2026-10-05 (continuation 04):** Supported constructions/whole entries; larger account remains qualified. The double negative explicitly resumes the ordinary mind just liberated, and its when-matures clause supports intensive itself. Whole mos gus and dngos grub are not split or truncated. The following account through U03315 was read as boundary context without extra coverage: it preserves three embodiment scopes and the later explicit five-knowing sequence. Holding-support, the Ground-abiding clause, purity/stain statement and abbreviated predicates are not silently resolved; their continuation will be adjudicated with its own pairs. [Current review and scope](REVIEW.md#phase-d-notes-10).
 
 <a id="n-144"></a>
 ## N-144 — Ground/path/body sequence / vase embodiment / channel and lamp relations
@@ -2195,6 +2225,8 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 **Phase D disposition, 2026-10-05 (continuation 04):** Local short-form identity supported. The repeated final-extent wording and the full mya ngan das pa in U02769 establish the short forms at U02648 and U02773 in this reply. The absent sorrow component remains bracketed. This does not settle the reply remainder or authorize the same reading for all past/transcending expressions; U02972 is outside this batch. [Current review and scope](REVIEW.md#phase-d-notes-09).
 
+**Phase D disposition, 2026-10-05 (continuation 04):** Local short form supported in release-path context. U02972 is now reviewed with the abandonment of cyclic existence at U02982 and explicit coordinated boundary at U03022. This supports the bracketed complement here; ordinary past/transcending forms remain outside its scope. [Current review and scope](REVIEW.md#phase-d-notes-10).
+
 <a id="n-t62"></a>
 ## N-T62 — terminology / usage record
 
@@ -2203,6 +2235,8 @@ Current golden-source updates: No new source-difference disposition attached; th
 Current golden-source updates: [G-U02885](ENDNOTES.md#g-u02885)
 
 **Phase D disposition, 2026-10-05 (continuation 04):** Historical heart proposal retained as a possibility, not current default. P2 retention replaces heart (citta) in the reviewed root and source-note occurrence. This changes no Tibetan or historical Previous English and does not adjudicate the eye/caksu or buffalo proposals at later unreviewed occurrences. [Current review and scope](REVIEW.md#phase-d-notes-09).
+
+**Phase D disposition, 2026-10-05 (continuation 04):** Local eye identification supported; buffalo/a-bras not newly approved. Cakṣu is identified in the present eye-door sequence and the explicit mig reply, unlike the unsupported heart inference from citta. The buffalo-horn proposal remains visibly source-linked and provisional; a-bras stays unidentified. This creates no shared anatomical entry. [Current review and scope](REVIEW.md#phase-d-notes-10).
 
 <a id="n-t63"></a>
 ## N-T63 — terminology / usage record
@@ -2218,6 +2252,8 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+**Phase D disposition, 2026-10-05 (continuation 04):** Local short-form identities supported. The explicit four-lamp introduction, the subsequent characteristics and supports establish the local identities. Full Water lamp of the far-reaching lasso and Lamp of the empty sphere may realize the first two identified short forms; discerning-knowing lamp and sphere lamp preserve later abbreviated naming. This does not make every lasso/sphere/knowing expression a lamp or insert an absent fourth label. [Current review and scope](REVIEW.md#phase-d-notes-10).
+
 <a id="n-t65"></a>
 ## N-T65 — terminology / usage record
 
@@ -2228,6 +2264,8 @@ Current golden-source updates: No new source-difference disposition attached; th
 **Phase D disposition, 2026-10-05 (continuation 02):** Approved P2 extract/residue distinction in the reviewed elemental sequence. The historical refined-part/turbid-part proposal is superseded here by the adopted extract/residue treatment. The separate mdangs and gzi mdangs proposals are not thereby approved or equated with gdangs/radiance. [Current review and scope](REVIEW.md#phase-d-notes-02).
 
 **Phase D disposition, 2026-10-05 (continuation 04):** P2 extract labels applied; mdangs-family proposal not promoted. The technical extract/residue pair and dwangs ma collection use follow P2. The bkrag/gzi mdangs pair at U02860 and local mdangs repetition at U02865 retain luster/splendor provisionally, while gdangs remains radiance. The shared luster preference does not automatically collapse all three forms; their family realization requires cross-work reconciliation. [Current review and scope](REVIEW.md#phase-d-notes-09).
+
+**Phase D disposition, 2026-10-05 (continuation 04):** P2 extraction labels; U13 locally supported bare-mdangs reading. The sequence distinguishes extract/residue, concentrated quintessence and essence. The luminous bare mdangs at U03087 supports luster under U13, while gzi mdangs, gting mdangs, bkrag and gdangs are checked separately and not normalized. Their full shared-family assignments remain a cross-work question, not a book-wide substitution rule. [Current review and scope](REVIEW.md#phase-d-notes-10).
 
 <a id="n-t66"></a>
 ## N-T66 — terminology / usage record
@@ -2270,12 +2308,16 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+**Phase D disposition, 2026-10-05 (continuation 04):** Local abbreviated designation supported. The consecutive four-lamp characteristics/supports support relation to the established perfectly-pure-basic-space lamp. Retain the actual short wording and different source order, without printing an extra lamp head where absent. [Current review and scope](REVIEW.md#phase-d-notes-10).
+
 <a id="n-t71"></a>
 ## N-T71 — terminology / usage record
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-t71)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+**Phase D disposition, 2026-10-05 (continuation 04):** Construction-scoped proposals retained. The teaching-action list keeps pointing out, guiding, decisive resolution and distinguishing separate. The instrumental repair does not settle guiding as an optical procedure. These unlisted shared labels remain proposals for cross-work reconciliation, not a newly adopted glossary family. [Current review and scope](REVIEW.md#phase-d-notes-10).
 
 <a id="n-t72"></a>
 ## N-T72 — terminology / usage record
@@ -2291,12 +2333,16 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+**Phase D disposition, 2026-10-05 (continuation 04):** Historical matrix proposal not promoted; local abbreviated absorption identified. The actual sequence retains different source case forms, both water/wind entries and bracketed omitted group names. Ting dzin is identified locally as deep absorption, distinct from bsam gtan. Nothing here validates a four-by-four causal or cognitive classification. [Current review and scope](REVIEW.md#phase-d-notes-10).
+
 <a id="n-t74"></a>
 ## N-T74 — terminology / usage record
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-t74)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+**Phase D disposition, 2026-10-05 (continuation 04):** Existing source-linked lexical questions retained. Rmugs stays distinct from technical dullness, ignorance and delusion; no graded mental taxonomy is adopted. Man-shel and gtam zungs remain provisional whole expressions, not modern material or psychological identifications. A broader source-linked family comparison, rather than component gloss replacement, is still required. [Current review and scope](REVIEW.md#phase-d-notes-10).
 
 <a id="n-t75"></a>
 ## N-T75 — terminology / usage record
@@ -2305,6 +2351,8 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+**Phase D disposition, 2026-10-05 (continuation 04):** Local descriptive construction retained, not a new canonical compound. Yid kyi lus is locally a body characterized by mental faculty in the becoming-appearance sequence. The rendering preserves both heads without asserting a modern entity or substituting embodiment, ordinary mind or awareness. Component matches alone do not establish a shared technical assignment; any broader preferred label requires cross-work reconciliation. [Current review and scope](REVIEW.md#phase-d-notes-10).
+
 <a id="n-t76"></a>
 ## N-T76 — terminology / usage record
 
@@ -2312,12 +2360,16 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+**Phase D disposition, 2026-10-05 (continuation 04):** Supported local grammar. Rang gsal gnas pa directly modifies the resumed ordinary mind in this reply. Own clarity preserves that relation without adding mindfulness, intrinsic nature or awareness; the established self-clear mindfulness entry is a different whole expression. [Current review and scope](REVIEW.md#phase-d-notes-10).
+
 <a id="n-t77"></a>
 ## N-T77 — terminology / usage record
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-t77)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+**Phase D disposition, 2026-10-05 (continuation 04):** Inherited technical/ordinary support question remains open. Holding/gathering a support fits foundation, but primordial-knowing context also permits technical Ground. The broader loop does not decisively distinguish them; the exact U03025–34 constructions remain provisional pending a referent/attachment analysis. They are not settled by the physical/calculation foundation exceptions elsewhere. [Current review and scope](REVIEW.md#phase-d-notes-10).
 
 <a id="n-t78"></a>
 ## N-T78 — terminology / usage record
@@ -2332,6 +2384,8 @@ Current golden-source updates: No new source-difference disposition attached; th
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-t79)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+**Phase D disposition, 2026-10-05 (continuation 04):** Local support constructions supported; remaining attachment qualified. In the whole liberation reply, ltos gzhi med and bskyar gzhi med deny a dependence basis and any repeated liberation; they do not name a technical Ground to be capitalized by substring. The holding-support construction likewise preserves a support noun, but the actor/rang bzhin attachment at U03263 remains provisional. Cer gyis nakedly remains a source-linked interpretation, not a respelling to gcer. [Current review and scope](REVIEW.md#phase-d-notes-10).
 
 <a id="n-t80"></a>
 ## N-T80 — terminology / usage record
