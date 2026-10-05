@@ -1229,6 +1229,386 @@ English before this batch (provisional):
 <a id="phase-d-notes-02"></a>
 **Queued note-status reconciliation:** append, without rewriting historical proposals, the current dispositions for N-T11 (retain secret preliminary and the separate phyed predicate at DTG-000127; later reply still to be checked), N-T16 (P2 quintessence in the nourishment context, whole bcud kyis len pa construction still provisional), N-T23 (P2 transmission without unsupported authoritative), N-T50 (P2 sacred pledge, distinct from sdom pa), and N-T65 (P2 pure extract/residue in the reviewed elemental contrast, without settling mdangs/gzi mdangs). These are policy applications in recorded occurrences, not local new shared assignments. The five current dispositions are now appended in LEGACY-NOTES.md and USAGES.json; the historical source notes/proposals remain unchanged.
 
+
+<a id="phase-d-batch-04"></a>
+### Batch 04 — source ordinals 301–450; bounded return to DTG-000188
+
+**Read coverage:** all 150 pairs DTG-000298–DTG-000447, in source order, with the full current source/English, continued sentences, and all 21 newly encountered notes. N-T20 and N-T22 were also read in full. DTG-000187–000189 were reread on returning to the earlier training-basis question. **Evidence checkpoint: the following 20 English operations in 20 pairs and six review-link insertions are recorded before application; application and self-check are pending.**
+
+Repeated terminology families retain their established batch rationale: T01 literary tantra (the text is explicitly read), T02 cyclic existence, T04 full spiritual accomplishment in a transparent descriptive name, T09 key point, T12 sacred pledge (distinct from vows), T18 characteristic without an unprovided definition, and T19 realm. Proper-name repairs preserve the descriptive construction and all modifiers; they do not assert a historical identification or a new canonical whole-name entry. E02 continues the narrowly grammatical imperative-addressee repair without changing the source's position or its possessor.
+
+| Finding | Evidence and scope | Severity | Confidence |
+|---|---|---|---|
+| PD-S06 | The bodily/training basis at DTG-000322/000351 is explicitly the changing elemental body/five aggregates; DTG-000352 refers back to that basis. DTG-000354 explains the introductory setting's five aspects, not a new assertion that the technical Ground has five constituents. Use ordinary basis, retaining the source wordplay in a linked note. Apply the supported training-basis reading retrospectively to DTG-000188; its broader arising-as-trainer relationship remains provisional. | Medium, sense/attachment control | Moderate-high for these basis referents; not certification of the whole earlier clause |
+| PD-T21 | Restore the meaningful ordinary component in the cognitive sems phrases at DTG-000398 and DTG-000426. Neither is the established wind-mind compound or the approved karmic-being entry. Keep the explicit loving/virtuous modifiers. | Medium, lexical component | High |
+| PD-T22 | P2 now assigns nominal dngos po to entity, not the older contextual proposal actual presence. DTG-000441 explicitly counts three and does not separately say actual. Apply entities while retaining embodiment, speech, awakened mind, the recipient and effortless result. The precise represented referents remain N-048's question. | Medium, adopted terminology | High for the scoped label; ritual referents remain provisional |
+| PD-N03 | Link the precise tenets/construction question and ordinary-basis interpretation in the commentary layer. No source role, metadata or root segmentation changes. | Documentation | High for location/link scope |
+
+<!-- phase-d-batch-04 -->
+```json
+[
+  {
+    "pair": "DTG-000299",
+    "golden": [
+      "U00621",
+      "U00622",
+      "U00623"
+    ],
+    "tibetan": "སྒྲ་དོན་བརྗོད་བྱའི་ཚིག་ཙམ་ལས། །\nའབྲེལ་དང་འབྲེལ་མེད་མཚན་ཉིད་ཀྱིས། །\nཁྱབ་བྱའི་དོན་རྣམས་ཐལ་འགྱུར་བརྩིའོ། །",
+    "before": "defining characteristics",
+    "after": "characteristics",
+    "finding": "PD-T18",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000307",
+    "golden": [
+      "U00633"
+    ],
+    "tibetan": "སྦྱོར་བའི་དམིགས་ཀྱིས་རང་འདོད་བསྐྱང༌། །",
+    "before": "maintain one's own position",
+    "after": "maintain your own position",
+    "finding": "PD-E02",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000322",
+    "golden": [
+      "U00664",
+      "U00665"
+    ],
+    "tibetan": "རླུང་ས་མེ་ཆུ་ཆ་ལྔ་ལས། །\nའགྱུར་ཞིང་བྱེད་པ་ལུས་ཀྱི་གཞི། །",
+    "before": "body's Ground",
+    "after": "body's basis",
+    "finding": "PD-S06",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000329",
+    "golden": [
+      "U00681",
+      "U00682",
+      "U00683"
+    ],
+    "tibetan": "གླེང་གཞིར་བཅས་པས་གཞི་བཟུང་སྟེ། །\nགནད་འདུས་བཀོད་པ་སེམས་ཀྱི་རྟེན། །\nརང་ཐོག་འབེབས་པ་གཉིས་པ་ཡིན། །",
+    "before": "Crucial Points",
+    "after": "Key Points",
+    "finding": "PD-T09",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000333",
+    "golden": [
+      "U00689",
+      "U00690"
+    ],
+    "tibetan": "ལྔ་པ་བལྟ་བསྒོམ་བཀོད་པ་སྟེ། །\nབྱ་བྲལ་རྫོགས་པ་དབྱིངས་ཀྱི་གནད། །",
+    "before": "crucial point",
+    "after": "key point",
+    "finding": "PD-T09",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000337",
+    "golden": [
+      "U00696",
+      "U00697",
+      "U00698",
+      "U00699",
+      "U00700"
+    ],
+    "tibetan": "དཔལ་གྱི་དགོངས་པ་འབྱུང་བའི་གཏེར། །\nབདེ་བ་ཐབས་ཀྱི་སྐུ་ཉིད་ཀྱང༌། །\nལུང་བསྟན་རྗེས་འཛིན་སེམས་ཀྱི་གནད། །\nའགྲོ་བ་བདག་སྐྱོབ་རླུང་གི་ལྷ། །\nལྷག་མ་ཉིད་ཀྱང་དེ་ཙམ་མོ། །",
+    "before": "crucial point",
+    "after": "key point",
+    "finding": "PD-T09",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000348",
+    "golden": [
+      "U00719"
+    ],
+    "tibetan": "དབང་དང་དམ་ཚིག་སྡོམ་པ་རྫོགས། །",
+    "before": "pledges",
+    "after": "sacred pledges",
+    "finding": "PD-T12",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000188",
+    "golden": [
+      "U00361",
+      "U00362"
+    ],
+    "tibetan": "འདུལ་གཞི་ལས་ནི་འདུལ་བྱེད་དུ། །\nབྱུང་བས་བསྟན་པ་གནས་པར་བྱེད། །",
+    "before": "Ground of training",
+    "after": "basis of training",
+    "finding": "PD-S06",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000351",
+    "golden": [
+      "U00722",
+      "U00723",
+      "U00724"
+    ],
+    "tibetan": "གླེང་གཞི་དག་ལ་ཡང་དག་ཚིག །\nགདུལ་བྱ་གང་ཟག་སོ་སོ་ལ། །\nགདུལ་གཞི་ཕུང་པོ་རྣམ་པ་ལྔ། །",
+    "before": "Ground of training",
+    "after": "basis of training",
+    "finding": "PD-S06",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000352",
+    "golden": [
+      "U00725"
+    ],
+    "tibetan": "དེ་ཡི་འདུལ་བྱེད་གླེང་གཞི་སྟེ། །",
+    "before": "that Ground",
+    "after": "that basis",
+    "finding": "PD-S06",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000354",
+    "golden": [
+      "U00727"
+    ],
+    "tibetan": "གཞི་ནི་རྣམ་པ་ལྔ་ཡིན་ཏེ། །",
+    "before": "‘Ground’",
+    "after": "‘Basis’",
+    "finding": "PD-S06",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000373",
+    "golden": [
+      "U00783",
+      "U00784",
+      "U00785",
+      "U00786"
+    ],
+    "tibetan": "དེ་ཡི་ཡོན་བདག་ཁྱིམ་བདག་རིགས། །\nདགེ་བའི་དངོས་གྲུབ་ཅེས་བྱ་བས། །\nབསྟན་པ་དམ་པ་འདི་ཉིད་ནི། །\nལོ་བརྒྱའི་བར་ལ་གནས་པར་བྱེད། །",
+    "before": "Accomplishment of Virtue",
+    "after": "Spiritual Accomplishment of Virtue",
+    "finding": "PD-T04",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000398",
+    "golden": [
+      "U00838",
+      "U00839",
+      "U00840",
+      "U00841",
+      "U00842",
+      "U00843"
+    ],
+    "tibetan": "སྟོང་དང་སུམ་བརྒྱ་འདས་འོག་ཏུ། །\nཡང་ནི་འཛམ་གླིང་བྱང་གི་ངོས། །\nགཟི་བརྗིད་ལྡན་པའི་རི་ཡི་རྩེར། །\nདགེ་སློང་གཟུགས་ལ་བྱམས་སེམས་བྲལ། །\nགཡས་པ་ལ་ནི་རྣ་བ་གཉིས། །\nམིག་ནི་ཟུར་གསུམ་མས་ཡར་འགེབ། །",
+    "before": "loving mind",
+    "after": "loving ordinary mind",
+    "finding": "PD-T21",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000421",
+    "golden": [
+      "U00906",
+      "U00907"
+    ],
+    "tibetan": "དེ་ནས་མཛེས་ལྡན་བཀོད་པ་ཡི། །\nཞིང་ཁམས་དག་ཏུ་ངེས་འཕར་ནས། །",
+    "before": "field of Beautiful Array",
+    "after": "realm of Beautiful Array",
+    "finding": "PD-T19",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000426",
+    "golden": [
+      "U00919",
+      "U00920",
+      "U00921"
+    ],
+    "tibetan": "ཐམས་ཅད་བྱང་ཆུབ་སེམས་ཆེན་པོ། །\nམི་སྐྱེའི་ཆོས་ལ་བཟོད་ཐོབ་སྟེ། །\nདགེ་བའི་སེམས་ལྡན་འབའ་ཞིག་འབྱུང་། །",
+    "before": "virtuous minds",
+    "after": "virtuous ordinary minds",
+    "finding": "PD-T21",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000430",
+    "golden": [
+      "U00929",
+      "U00930",
+      "U00931"
+    ],
+    "tibetan": "དེ་འོག་གཙུག་ཕུད་དབྱངས་ལྡན་པའི། །\nའཇིག་རྟེན་ཁམས་ནི་ཡངས་པར་ནི། །\nསྟོན་པ་མཐའ་ཡས་འཁོར་བ་འཇིག །",
+    "before": "Samsara",
+    "after": "Cyclic Existence",
+    "finding": "PD-T02",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000441",
+    "golden": [
+      "U00955",
+      "U00956",
+      "U00957"
+    ],
+    "tibetan": "སྐུ་གསུང་ཐུགས་ཀྱི་དངོས་པོ་གསུམ། །\nསུ་ལ་བབ་པ་འབད་མེད་པར། །\nགདོན་མི་ཟ་བའི་སངས་རྒྱས་ཐོབ། །",
+    "before": "actual presences",
+    "after": "entities",
+    "finding": "PD-T22",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000442",
+    "golden": [
+      "U00958",
+      "U00959",
+      "U00960",
+      "U00961"
+    ],
+    "tibetan": "དེ་ཕྱིར་བྱིན་གྱིས་རླབས་ཀྱི་གནད། །\nགསུང་གི་སྤྲུལ་པ་ཉིད་ལས་ཀྱང༌། །\nསྟོན་པའི་ཁ་དོག་ལེགས་བྲིས་ནས། །\nམཆན་ཁུང་གཡོན་དུ་བཏགས་བྱས་ཏེ། །",
+    "before": "crucial point",
+    "after": "key point",
+    "finding": "PD-T09",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000444",
+    "golden": [
+      "U00964",
+      "U00965"
+    ],
+    "tibetan": "རྒྱུད་འདི་སུས་ནི་རྟག་བཀླགས་ན། །\nདེས་ཀྱང་གོང་མ་བཞིན་དུ་འགྱུར། །",
+    "before": "this continuum",
+    "after": "this tantra",
+    "finding": "PD-T01",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000445",
+    "golden": [
+      "U00966",
+      "U00967",
+      "U00968",
+      "U00969",
+      "U00970"
+    ],
+    "tibetan": "བཀའ་གསང་ངེས་པ་བཅུ་བདུན་དང་། །\nབསྟན་པའི་གཟེར་དང་འཕྲུལ་ཡིག་བཅས། །\nསྤྲུལ་སྐུའི་ཞིང་ཁམས་ཐོག་མ་ལ། །\nསྟོན་པ་ཀུན་ཏུ་བཟང་པོ་ཡིས། །\nསྟུག་པོ་བཀོད་པའི་གནས་སུ་གསུངས། །",
+    "before": "earliest field",
+    "after": "earliest realm",
+    "finding": "PD-T19",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000313",
+    "golden": [
+      "U00640",
+      "U00641"
+    ],
+    "tibetan": "གྲུབ་མཐའ་བློ་ལ་བརྟེན་པ་ཡིས། །\nརང་གཞན་ཤེས་པའི་རྩལ་གྱིས་སོ། །",
+    "before": "through the expressiveness of knowing in oneself and others.",
+    "after": "through the expressiveness of knowing in oneself and others.\n\nReview note: [Tenets and construction provisional](../translations/2026-10-01-golden-aligned/REVIEW.md#pd-q04-01).",
+    "finding": "PD-N03",
+    "kind": "review-link"
+  },
+  {
+    "pair": "DTG-000188",
+    "golden": [
+      "U00361",
+      "U00362"
+    ],
+    "tibetan": "འདུལ་གཞི་ལས་ནི་འདུལ་བྱེད་དུ། །\nབྱུང་བས་བསྟན་པ་གནས་པར་བྱེད། །",
+    "before": "Earlier notes: [N-T09](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t09).",
+    "after": "Earlier notes: [N-T09](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t09).\n\nReview note: [Basis, wordplay, and scope](../translations/2026-10-01-golden-aligned/REVIEW.md#phase-d-basis-04).",
+    "finding": "PD-N03",
+    "kind": "review-link"
+  },
+  {
+    "pair": "DTG-000322",
+    "golden": [
+      "U00664",
+      "U00665"
+    ],
+    "tibetan": "རླུང་ས་མེ་ཆུ་ཆ་ལྔ་ལས། །\nའགྱུར་ཞིང་བྱེད་པ་ལུས་ཀྱི་གཞི། །",
+    "before": "Earlier notes: [N-040](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-040).",
+    "after": "Earlier notes: [N-040](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-040).\n\nReview note: [Basis, wordplay, and scope](../translations/2026-10-01-golden-aligned/REVIEW.md#phase-d-basis-04).",
+    "finding": "PD-N03",
+    "kind": "review-link"
+  },
+  {
+    "pair": "DTG-000351",
+    "golden": [
+      "U00722",
+      "U00723",
+      "U00724"
+    ],
+    "tibetan": "གླེང་གཞི་དག་ལ་ཡང་དག་ཚིག །\nགདུལ་བྱ་གང་ཟག་སོ་སོ་ལ། །\nགདུལ་གཞི་ཕུང་པོ་རྣམ་པ་ལྔ། །",
+    "before": "the basis of training is the five aggregates.",
+    "after": "the basis of training is the five aggregates.\n\nReview note: [Basis, wordplay, and scope](../translations/2026-10-01-golden-aligned/REVIEW.md#phase-d-basis-04).",
+    "finding": "PD-N03",
+    "kind": "review-link"
+  },
+  {
+    "pair": "DTG-000352",
+    "golden": [
+      "U00725"
+    ],
+    "tibetan": "དེ་ཡི་འདུལ་བྱེད་གླེང་གཞི་སྟེ། །",
+    "before": "The introductory setting is what trains that basis.",
+    "after": "The introductory setting is what trains that basis.\n\nReview note: [Basis, wordplay, and scope](../translations/2026-10-01-golden-aligned/REVIEW.md#phase-d-basis-04).",
+    "finding": "PD-N03",
+    "kind": "review-link"
+  },
+  {
+    "pair": "DTG-000354",
+    "golden": [
+      "U00727"
+    ],
+    "tibetan": "གཞི་ནི་རྣམ་པ་ལྔ་ཡིན་ཏེ། །",
+    "before": "Earlier notes: [N-043](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-043).",
+    "after": "Earlier notes: [N-043](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-043).\n\nReview note: [Basis, wordplay, and scope](../translations/2026-10-01-golden-aligned/REVIEW.md#phase-d-basis-04).",
+    "finding": "PD-N03",
+    "kind": "review-link"
+  }
+]
+```
+<!-- /phase-d-batch-04 -->
+
+<a id="phase-d-basis-04"></a>
+**Basis and wordplay — local construction decision, not a shared glossary replacement.** DTG-000322 says `ལུས་ཀྱི་གཞི`, the body's basis, in the sequence of changing elements. DTG-000351 explicitly identifies `གདུལ་གཞི` with five aggregates; DTG-000352's `དེ་ཡི` refers back to what is trained. This provides the internal comparison lacking at the earlier DTG-000188 `འདུལ་གཞི`. The basis reading is locally supported; the precise relationship of arising as what trains at DTG-000188 is still not independently resolved. It must not be counted as a fully settled clause merely because Ground was corrected.
+
+At DTG-000353–000354 the text explains gleng ba and gzhi separately within the introductory-setting account. Basis renders the latter component in that explanation; introductory setting remains the complete expression gleng gzhi. The subsequent place, teacher, retinue, teaching and time are the five aspects being described. This is interpretive source wordplay, not historical etymology. The Tibetan component labels Phun/Gsum/Tshogs, their differing explanations and every stated numeral remain unchanged. Technical Ground at DTG-000344, in the explicit unchanging Ground/path/result sequence, is retained. The chapter-outline Ground uses at DTG-000328/000329/000334 are less decisive: their support-of-a-chapter versus technical referents remain within N-041 for comparison with the chapter endings; they are not changed by this local basis decision.
+
+<a id="pd-q04-01"></a>
+#### PD-Q04-01 — Tenets, system and instrumental continuation
+
+**DTG-000313 / U00640–U00641.** Tibetan: `གྲུབ་མཐའ་བློ་ལ་བརྟེན་པ་ཡིས། །` / `རང་གཞན་ཤེས་པའི་རྩལ་གྱིས་སོ། །`
+
+Current English: “Tenets depend on the conceptual mind, / through the expressiveness of knowing in oneself and others.” This is retained provisionally. The immediately preceding assertions/reasons/examples make constituent tenets possible under the P2 row, but a whole tenet system is also possible. The two instrumental constructions do not unambiguously state the finite dependence clause chosen by the English. Compare the full establishment account and DTG-000891 before deciding between a system depending on conceptual mind and establishment through reliance on conceptual mind/knowing. An explicit internal parallel supplying that relationship would settle it. Do not add philosophical or force the noun into a new shared default while this is open.
+
+<a id="phase-d-batch-04-dispositions"></a>
+**Other justified retentions and bounded questions:** The logical chos can occurrences DTG-000304/000308/000309 meet P2's subject exception; the paired chos nyid/property at DTG-000304 remains the explicitly linked N-T20 proposal, not an approved extension of that exception. N-037's wind/argument imagery and N-038's impure-wind/primordial-knowing clause remain provisional, preserving the printed negation. Current G-U00626/G-U00632/G-U00651/G-U00710/G-U00800 already separate the variants; the old nus pa/capacity speculation does not supersede the selected bus pa annotation. The additional heading delimiters at G-U00910/G-U00948 do not warrant English edits.
+
+N-039's dngos grouping and the doing/doer-versus-two-operations relationship in DTG-000315 remain provisional: both source members and every listed contrast survive, but no hidden grammatical table is reconstructed. N-040's exact elemental order, the single water after doubled wind/earth/fire, and lung sdeb remain; lung is not silently emended to rlung or certified as the teaching/transmission sense merely from spelling. The clear support construction at DTG-000322 is resolved without pretending to solve that numerical matrix.
+
+At DTG-000332, N-T22's nature of ordinary mind is retained provisionally because this clause identifies the object of the fourth chapter's transmission in a parallel account of the nature of phenomena and completed qualities. That supports a lexicalized nature-reading but does not exclude the owner's preferred intensive ordinary mind itself. The full scope must be compared with DTG-001115; neither book preference nor repeated usage settles it. Ordinary mind remains visible in either alternative. The source's six chapter arrays and compressed remainder (N-041) retain their order and terms; the chapter-title gnad repairs do not add or rename a chapter. Nye bar at DTG-000345 and rigs byed at DTG-000341 retain N-042's exact local questions rather than a new metaphysical interpretation.
+
+The later prophecy's unusual body descriptions are not diagnoses or historical identifications. Preserve the source's front/blue tooth, right elbow, scorpion-shaped mole, triangular-eye covering, westward/Vajra-Seat question, two-tipped tongue and emerald arm projection. The causal connection across DTG-000394–000395 is supported by the preceding yis; the nominal fragment should not be judged in isolation. At DTG-000426 the retinue of five thousand, plural all, attained acceptance, and persons possessing virtuous ordinary minds support the person-reading great bodhisattvas for the shortened byang chub sems chen po; this is a local attested construction, not permission to reconstruct every byang chub sems expression from components.
+
+The names in N-045 remain source-based/provisional, including Sūtrade, Jaya Ākar and Bharabhati Sāli. Glorious Protector and Glory-Holder, Glory of Joy and Deity of Bliss, and the two prophetic sequences' other differing names are deliberately not conflated. DTG-000430's cyclic-existence label is repaired without resolving whether mtha' yas qualifies the destroyer or the cyclic existence; N-045's name-boundary qualification remains operative. Sanskrit transliterations such as Jinamitra and Kamalaśīla are not replaced by familiar identities. N-047's anticipatory half yields seven and a half hundreds, while sa ya drug 'bum remains the expressly unresolved literal count; these are different constructions.
+
+<a id="phase-d-prophecy-comparison"></a>
+**Source-linked comparison of the two prophetic sequences (N-044/N-045):** This is a comparison, not a reconciliation. The first account introduces seven named ages (DTG-000364), sixty ages of darkness between them (000365), and then: north/Glorious Protector/Jinamitra, 1,300 years (000366–000369); sixty [years] of darkness (000370); south/Glory of Joy/Spiritual Accomplishment of Virtue, 100 years (000371–000373); 120 years of darkness (000374); east/Sūtrade/Jaya Ākar, 1,400 years (000375–000377); 5,000 years of darkness (000378); west/Protector of Bliss/Holder of Heroes, 1,000 years (000379–000381); 5,000 years of darkness (000382); Vajra Seat/Excellent Intelligence/Pure Cool-Maker, 550 years (000383–000386), then elemental destruction (000387–000389).
+
+The second account instead alternates particular destructive figures with: first Glory-Holder after sixty years (000393–000397), then a 1,300-period statement (000398); Deity of Bliss/100 years following sixty years of darkness (000399–000401); a king suppressing practitioners and sixty years' disappearance (000402–000404); a solitary-buddha form/120 years (000405–000406); a Golden-City elder and sixty years of darkness (000407–000409); Glorious Lion/1,400 years (000410); the king's son and sixty years of darkness (000411–000412); Kamalaśīla's master Protector of Youth/1,000 years (000413); the lion-headed commoner, three months after birth and sixty [years] (000414–000415); Beautifying Youth/550 years (000416); the bird-bodied figure, ten years after birth and sixty [years] (000417–000418); Śākya Dzīka/ten years (000419). The text itself calls this seven stages at 000420. The differing names, duration units and number of narrative notices remain as written. No modern date conversion, arithmetic harmonization, silent eighth-stage correction or identity merger is warranted.
+
+<a id="phase-d-notes-04"></a>
+**Active note/usage dispositions to append after this evidence checkpoint:** N-T20: subject now approved only for the three actually read logical occurrences; property, assertion, logical reason and reasoning retain their separate historical proposal statuses. N-T22: apply the U07 construction control and retain the qualified nature-reading for 000332 pending 001115. N-048: actual-presences wording is superseded by P2 entities at 000441, while the sun referent, colored speech-emanation, object worn and ritual relationships remain unresolved. N-043: ordinary basis/setting-component reading and all wordplay preserved, without settling the four gathered in time or scriptural-collection scope. N-T50: sacred pledge also applies at 000348, retaining vows. N-T23: transmission already conforms at 000332/000362; this does not settle opaque lung sdeb at 000325 or the complete lung bstan/prophecy expression at 000337. Historical notes and approval records will not be rewritten.
+
 <!-- phase-d-findings -->
 
 <a id="phase-d-verification"></a>

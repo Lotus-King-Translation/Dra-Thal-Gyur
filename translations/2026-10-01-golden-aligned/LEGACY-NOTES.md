@@ -289,6 +289,8 @@ Current golden-source updates: [G-U00710](ENDNOTES.md#g-u00710)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+**Phase D disposition, 2026-10-05 (continuation 02):** Locally supported ordinary-basis construction. The five aggregates and introductory-setting explanation identify these basis referents. Phun/Gsum/Tshogs, repetition and counts are preserved; the four gathered in time and collection scope remain open. No shared glossary replacement. [Batch 04 scope and evidence](REVIEW.md#phase-d-notes-04).
+
 <a id="n-044"></a>
 ## N-044 — Ages / chronological counts
 
@@ -323,6 +325,8 @@ Current golden-source updates: No new source-difference disposition attached; th
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-048)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+**Phase D disposition, 2026-10-05 (continuation 02):** P2 entity applied; referents provisional. Actual-presences is superseded at this counted nominal dngos po occurrence. The sun referent, speech-emanation, colored object worn and ritual relationships remain unresolved. [Batch 04 scope and evidence](REVIEW.md#phase-d-notes-04).
 
 <a id="n-049"></a>
 ## N-049 — Transmission names / enumerations
@@ -1768,6 +1772,8 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: [G-U00192](ENDNOTES.md#g-u00192)
 
+**Phase D disposition, 2026-10-05 (continuation 02):** Approved P2 logical-subject exception only. These three logical subjects occur with assertions, reasons and examples. The neighboring chos nyid/property and the separate assertion, logical-reason and reasoning proposals are not approved by this disposition. [Batch 04 scope and evidence](REVIEW.md#phase-d-notes-04).
+
 <a id="n-t21"></a>
 ## N-T21 — terminology / usage record
 
@@ -1782,6 +1788,8 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+**Phase D disposition, 2026-10-05 (continuation 02):** Qualified provisional construction under I §8.1 U07. The chapter object, parallel nature-of-phenomena description and completed-qualities modifier support testing a lexicalized nature reading. Intensive ordinary mind itself remains an alternative; compare DTG-001115. No shared default is adopted. [Batch 04 scope and evidence](REVIEW.md#phase-d-notes-04).
+
 <a id="n-t23"></a>
 ## N-T23 — terminology / usage record
 
@@ -1790,6 +1798,8 @@ Current golden-source updates: No new source-difference disposition attached; th
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
 **Phase D disposition, 2026-10-05 (continuation 02):** Approved P2 teaching/transmission sense. The historical authoritative-transmission proposal is superseded for these reviewed teaching/evidence occurrences. There is no separate authoritative modifier in them. Longer expressions and later occurrences require their own reading. [Current review and scope](REVIEW.md#phase-d-notes-02).
+
+**Phase D disposition, 2026-10-05 (continuation 02):** Approved P2 label; existing wording conforms. This scope does not approve opaque lung sdeb or reassign the complete lung bstan expression to a component-built equivalent. [Batch 04 scope and evidence](REVIEW.md#phase-d-notes-04).
 
 <a id="n-t24"></a>
 ## N-T24 — terminology / usage record
@@ -1981,6 +1991,8 @@ Current golden-source updates: No new source-difference disposition attached; th
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
 **Phase D disposition, 2026-10-05 (continuation 02):** Approved P2 label in the reviewed sacred-pledge/vow contrast. The former pledge proposal is superseded in this occurrence; the distinct sdom pa/vow construction and its open proposal are retained. [Current review and scope](REVIEW.md#phase-d-notes-02).
+
+**Phase D disposition, 2026-10-05 (continuation 02):** Approved P2 label. Retain the full sacred-pledge component alongside empowerment and distinct sdom pa/vows. [Batch 04 scope and evidence](REVIEW.md#phase-d-notes-04).
 
 <a id="n-t51"></a>
 ## N-T51 — terminology / usage record

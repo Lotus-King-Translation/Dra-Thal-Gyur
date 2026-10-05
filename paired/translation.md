@@ -1522,10 +1522,12 @@ in the compiler's own retinue.
 <a id="dtg-000188"></a>
 
 <!-- pair: DTG-000188 -->
-Arising from the Ground of training as that which trains,
+Arising from the basis of training as that which trains,
 it makes the teaching abide.
 
 Earlier notes: [N-T09](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t09).
+
+Review note: [Basis, wordplay, and scope](../translations/2026-10-01-golden-aligned/REVIEW.md#phase-d-basis-04).
 <!-- /pair -->
 
 <a id="dtg-000189"></a>
@@ -2502,7 +2504,7 @@ let the skilled examine that person's faults.
 
 <!-- pair: DTG-000299 -->
 From the mere phrases expressing word and meaning,
-through the defining characteristics of connection and nonconnection,
+through the characteristics of connection and nonconnection,
 reckon the consequences for the pervaded meanings. [N-036](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-036)
 
 Earlier notes: [N-036](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-036), [N-T21](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t21).
@@ -2571,7 +2573,7 @@ Earlier notes: [N-038](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000307"></a>
 
 <!-- pair: DTG-000307 -->
-With an object of focus for application, maintain one's own position.
+With an object of focus for application, maintain your own position.
 <!-- /pair -->
 
 <a id="dtg-000308"></a>
@@ -2618,6 +2620,8 @@ Through an example, establish the phenomena that appear.
 <!-- pair: DTG-000313 -->
 Tenets depend on the conceptual mind,
 through the expressiveness of knowing in oneself and others.
+
+Review note: [Tenets and construction provisional](../translations/2026-10-01-golden-aligned/REVIEW.md#pd-q04-01).
 <!-- /pair -->
 
 <a id="dtg-000314"></a>
@@ -2696,9 +2700,11 @@ Earlier notes: [N-040](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000322 -->
 Wind, earth, fire, and water, from five parts,
-transform and act as the body's Ground.
+transform and act as the body's basis.
 
 Earlier notes: [N-040](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-040).
+
+Review note: [Basis, wordplay, and scope](../translations/2026-10-01-golden-aligned/REVIEW.md#phase-d-basis-04).
 <!-- /pair -->
 
 <a id="dtg-000323"></a>
@@ -2760,7 +2766,7 @@ Earlier notes: [N-041](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000329 -->
 Taking up the Ground together with the introductory setting,
-the Array of the Gathered Crucial Points, the support of ordinary mind,
+the Array of the Gathered Key Points, the support of ordinary mind,
 is the second: bringing [it] down upon itself. [N-041](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-041)
 
 Earlier notes: [N-041](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-041).
@@ -2796,7 +2802,7 @@ Earlier notes: [N-041](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000333 -->
 The fifth is the Array of View and Cultivation,
-the crucial point of basic space, complete in freedom from doing.
+the key point of basic space, complete in freedom from doing.
 
 Earlier notes: [N-041](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-041).
 <!-- /pair -->
@@ -2832,7 +2838,7 @@ Earlier notes: [N-041](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-000337 -->
 The treasure from which glorious enlightened intent arises,
 also the embodiment of the method of bliss,
-prophecy, guidance, and the crucial point of ordinary mind,
+prophecy, guidance, and the key point of ordinary mind,
 protecting beings and oneself, and the wind deity—
 the remainder is just that much. [N-041](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-041)
 
@@ -2926,7 +2932,7 @@ Earlier notes: [N-042](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000348"></a>
 
 <!-- pair: DTG-000348 -->
-Empowerment, pledges, and vows are complete.
+Empowerment, sacred pledges, and vows are complete.
 
 Earlier notes: [N-042](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-042).
 <!-- /pair -->
@@ -2950,13 +2956,17 @@ Earlier notes: [N-042](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-000351 -->
 True phrases in the introductory setting:
 for every individual being trained,
-the Ground of training is the five aggregates.
+the basis of training is the five aggregates.
+
+Review note: [Basis, wordplay, and scope](../translations/2026-10-01-golden-aligned/REVIEW.md#phase-d-basis-04).
 <!-- /pair -->
 
 <a id="dtg-000352"></a>
 
 <!-- pair: DTG-000352 -->
-The introductory setting is what trains that Ground.
+The introductory setting is what trains that basis.
+
+Review note: [Basis, wordplay, and scope](../translations/2026-10-01-golden-aligned/REVIEW.md#phase-d-basis-04).
 <!-- /pair -->
 
 <a id="dtg-000353"></a>
@@ -2970,9 +2980,11 @@ Earlier notes: [N-043](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000354"></a>
 
 <!-- pair: DTG-000354 -->
-‘Ground’ has five aspects.
+‘Basis’ has five aspects.
 
 Earlier notes: [N-043](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-043).
+
+Review note: [Basis, wordplay, and scope](../translations/2026-10-01-golden-aligned/REVIEW.md#phase-d-basis-04).
 <!-- /pair -->
 
 <a id="dtg-000355"></a>
@@ -3154,7 +3166,7 @@ Earlier notes: [N-045](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000373 -->
 His patron, of the householder class,
-called Accomplishment of Virtue,
+called Spiritual Accomplishment of Virtue,
 will make this very sacred teaching
 remain for a hundred years.
 
@@ -3374,7 +3386,7 @@ Earlier notes: [N-045](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 After a thousand and three hundred years,
 again, in the north of Jambudvīpa,
 on the summit of Majestic Mountain,
-one in the form of a monk, lacking a loving mind,
+one in the form of a monk, lacking a loving ordinary mind,
 will have two ears on his right side
 and triangular eyes covered from below upward. [N-046](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-046)
 
@@ -3597,7 +3609,7 @@ Earlier notes: [N-044](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000421 -->
 Then it will definitely rise
-into the field of Beautiful Array.
+into the realm of Beautiful Array.
 
 Earlier notes: [N-045](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-045).
 <!-- /pair -->
@@ -3644,7 +3656,7 @@ Earlier notes: [N-045](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-000426 -->
 All will be great bodhisattvas,
 having attained acceptance of non-arising phenomena,
-and only those with virtuous minds will appear.
+and only those with virtuous ordinary minds will appear.
 
 Earlier notes: [N-047](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-047).
 <!-- /pair -->
@@ -3678,7 +3690,7 @@ it will increase and diminish through seven successive stages.
 <!-- pair: DTG-000430 -->
 After that, in the spacious world system
 of Melodious Crest,
-the teacher will be Infinite Destroyer of Samsara.
+the teacher will be Infinite Destroyer of Cyclic Existence.
 
 Earlier notes: [N-045](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-045).
 <!-- /pair -->
@@ -3779,7 +3791,7 @@ Earlier notes: [N-048](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000441"></a>
 
 <!-- pair: DTG-000441 -->
-The three actual presences of embodiment, speech, and awakened mind—
+The three entities of embodiment, speech, and awakened mind—
 whoever receives them will, without effort,
 unfailingly attain buddhahood.
 
@@ -3789,7 +3801,7 @@ Earlier notes: [N-048](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000442"></a>
 
 <!-- pair: DTG-000442 -->
-Therefore, the crucial point of blessing:
+Therefore, the key point of blessing:
 in the emanation of speech as well,
 having carefully painted the teacher's colors,
 fasten it beneath the left armpit.
@@ -3809,7 +3821,7 @@ Earlier notes: [N-048](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000444"></a>
 
 <!-- pair: DTG-000444 -->
-Whoever constantly reads this continuum
+Whoever constantly reads this tantra
 will become as described above.
 
 Earlier notes: [N-048](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-048).
@@ -3820,7 +3832,7 @@ Earlier notes: [N-048](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-000445 -->
 The seventeen definitive secret commands,
 together with the nails of the teaching and the magical letters,
-in the earliest field of the emanation embodiment,
+in the earliest realm of the emanation embodiment,
 were spoken by the teacher Samantabhadra
 at the place of Dense Array.
 
