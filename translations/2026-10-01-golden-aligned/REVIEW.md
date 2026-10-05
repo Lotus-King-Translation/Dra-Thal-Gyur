@@ -1624,6 +1624,91 @@ The finite scope is unchanged: **2,667 pairs / 5,484 golden objects**, including
 
 The eight existing validators/build checks were actually rerun on this preserved input. `paired/validate.py` (ordinary and `--require-final`), `paired/migrate.py --check`, `paired/project.py --check`, and the golden-review translation validator/build check all fail at the historical protected-glossary contract, as before. The golden-review corruption suite passes its positive case and all **36** deliberately corrupted fixtures. **`paired/test_paired.py` now runs 64 tests: 53 pass, nine fail and two error.** Both positive-case errors are the exact released-English comparison at DTG-000002. That same early comparison preempts the intended rejection in nine negative fixtures: closing-as-seventh-chapter, closing-role change, restored-verse deletion, extraneous source text, missing final signoff, hidden source heading, Tibetan join-newline change, whitespace trimming and Tibetan-word mutation. These are present on the resumed input after earlier authorized English repairs; they are not all the original pre-edit baseline failures, and they do not demonstrate a new Tibetan alteration. The earlier 63-pass/one-error result remains historical, not the current test result. No historical validation contract, signed receipt or release is changed to conceal this mismatch. The standard's 63 semantic regression specifications have **not** been executed as a test suite.
 
+<a id="phase-d-reread-03"></a>
+### Continuation 03: current-text reread through ordinal 300
+
+Current ordinals **1–300** have now been reread in source order, with all **97** first-encountered note records (50 + 30 + 17), under Q1–Q9, I §8.1 and III. This is a reread of existing coverage, not 300 additional distinct reviewed pairs. The current source corrections, separated annotations, title/continuum and word/sound distinctions, matter/awareness contrast, sacred pledges/vows, retained descriptive names and exact numerical constructions were checked before proposing changes.
+
+The following three findings were recorded **before application**. S07 clarifies the scope of the five further sites; S08 preserves an explicit ordinal rather than distance phrasing; E02 extends the confirmed imperative-pronoun repair. These are not new terminology assignments. N-019/020/021/022/023/026–036 and the exact-linked earlier Phase D construction questions retain their narrower unresolved scopes. In particular, no source variant is promoted to main text, no thal-yig/lda-ldi decipherment is invented, and no full phrase is reconstructed from component matches.
+
+<!-- phase-d-reread-03-operations -->
+```json
+[
+  {
+    "pair": "DTG-000212",
+    "ordinal": 215,
+    "golden": [
+      "U00413",
+      "U00414",
+      "U00415"
+    ],
+    "family": "S07",
+    "kind": "english",
+    "tibetan": "སྟོང་དང་གནས་གཞན་ལྔ་ཡིན་པས། །\nའདི་ཉིད་ཤེས་པ་ཙམ་གྱིས་ནི། །\nབཅོམ་ལྡན་འདས་ལ་རེག་པར་སྦྱོར། །",
+    "before": "Since there are a thousand and five further sites,",
+    "after": "Since there are a thousand sites and five further ones,",
+    "severity": "minor",
+    "confidence": "high",
+    "rationale": "U00410–U00413 explicitly gives five sites with two hundred each and one additional site each. In སྟོང་དང་གནས་གཞན་ལྔ་ the further/other sites are the five, not the entire thousand-and-five. Make the modifier scope unambiguous without changing either number or the following mere-knowing condition.",
+    "context_pairs": [
+      "DTG-000211",
+      "DTG-000212",
+      "DTG-000213"
+    ]
+  },
+  {
+    "pair": "DTG-000275",
+    "ordinal": 278,
+    "golden": [
+      "U00582",
+      "U00583",
+      "U00584",
+      "U00585",
+      "U00586"
+    ],
+    "family": "S08",
+    "kind": "english",
+    "tibetan": "དེ་འོག་འཇིག་རྟེན་དགུ་པ་ན། །\nདུང་ལྡན་ཐལ་བའི་ལྷ་ཞེས་པ། །\nདད་ཅིང་བསུང་བའི་དྲི་ཡིས་མྱོས། །\nའཁྱུག་ཅིང་རབ་ཏུ་འབར་བའི་འོད། །\nརབ་ཏུ་མེར་མེར་པོ་ཡིས་འཁྲིགས། །",
+    "before": "Nine worlds below it,",
+    "after": "In the ninth world below it,",
+    "severity": "minor",
+    "confidence": "high",
+    "rationale": "དེ་འོག་འཇིག་རྟེན་དགུ་པ་ན། explicitly locates this in the ninth world below the preceding realm. Preserve the ordinal construction, as in the nearby sixth-world expressions, rather than assimilating it to the cardinal-distance and beyond-six constructions. N-032 and N-034 do not settle a different reading of this line. No location or cosmological map is inferred.",
+    "context_pairs": [
+      "DTG-000273",
+      "DTG-000274",
+      "DTG-000275",
+      "DTG-000276",
+      "DTG-000277"
+    ]
+  },
+  {
+    "pair": "DTG-000285",
+    "ordinal": 288,
+    "golden": [
+      "U00601",
+      "U00602",
+      "U00603"
+    ],
+    "family": "E02",
+    "kind": "english",
+    "tibetan": "རང་འདོད་ངེས་པར་སྐྱོལ་བ་ནི། །\nལུང་དང་རིགས་པ་མན་ངག་གིས། །\nསྐྱོན་བསལ་བསྒྲུབ་དང་འགལ་བ་སྤང་། །",
+    "before": "To bring one's own position to a definite conclusion,",
+    "after": "To bring your own position to a definite conclusion,",
+    "severity": "minor",
+    "confidence": "high",
+    "rationale": "རང་འདོད་ is governed here by the explicit second-person instructions remove, establish and abandon in U00603. Retain the same addressee across the purpose clause and its imperatives, extending the already confirmed E02 pattern. The descriptive own/others constructions in DTG-000284 and DTG-000295 are not changed. N-036 preserves the remaining argumentation imagery and unenumerated counts.",
+    "context_pairs": [
+      "DTG-000284",
+      "DTG-000285",
+      "DTG-000286"
+    ]
+  }
+]
+```
+
+**Application/self-check:** All three recorded repairs were applied and reread with the eleven listed context pairs. The 1,000 plus five further sites, the explicit ninth-world relation, and the imperative addressee are retained without changing a number, agent, negation or technical component. The full integrity replay passes 2,667 pairs and 696 local-link targets: 85 English operations in 79 pairs, 17 review links and 88 changed pairs including note-only changes, plus the separately recorded source-annotation repair. The final paired validator and projector check were rerun; both still report the historical protected-glossary mismatch, so the projector produced no new reader output. `git diff --check` passes. This is repair self-verification, not another independent review.
+
 <!-- phase-d-findings -->
 
 <a id="phase-d-verification"></a>

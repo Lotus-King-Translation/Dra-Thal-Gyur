@@ -1724,7 +1724,7 @@ and one acting as a further site for each.
 <a id="dtg-000212"></a>
 
 <!-- pair: DTG-000212 -->
-Since there are a thousand and five further sites,
+Since there are a thousand sites and five further ones,
 merely by knowing this
 one is brought into contact with the Blessed One.
 <!-- /pair -->
@@ -2300,7 +2300,7 @@ utterly youthful.
 <a id="dtg-000275"></a>
 
 <!-- pair: DTG-000275 -->
-Nine worlds below it,
+In the ninth world below it,
 is that called Conch-Endowed Deity of Penetration,
 faithful and intoxicated by sweet fragrance,
 with flashing, intensely blazing light,
@@ -2389,7 +2389,7 @@ Earlier notes: [N-036](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000285"></a>
 
 <!-- pair: DTG-000285 -->
-To bring one's own position to a definite conclusion,
+To bring your own position to a definite conclusion,
 through transmission, reasoning, and pith instructions,
 remove faults, establish it, and abandon contradictions.
 
