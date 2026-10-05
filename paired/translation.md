@@ -22503,7 +22503,7 @@ the fifth chapter, the Array of View and Cultivation, teaching the root of abidi
 
 <!-- pair: DTG-002538 -->
 Then, although all phenomena are inexpressible,
-from the many deluded conceptual thoughts of sentient beings,
+from the many deluded conceptual thoughts of karmic beings,
 also as a foundation for words, phrases, and conventions,
 from uncontrived space,
 phrases arise: the teacher abides in distinction. [N-225](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-225)
@@ -22515,7 +22515,7 @@ Earlier notes: [N-225](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002539 -->
 To the buddha arisen from the lotus,
-Maker of Joy supplicated thus:
+Joy-Maker supplicated thus:
 ‘Kye kye! You who abide in the lotus's center,
 here in the mandala of space,
 sixty-four groups of a hundred thousand
@@ -22571,15 +22571,15 @@ What are the embodiments of intrinsic nature and the nature of phenomena?
 <a id="dtg-002547"></a>
 
 <!-- pair: DTG-002547 -->
-Blessed one, speak to me.’
+Blessed One, speak to me.’
 <!-- /pair -->
 
 <a id="dtg-002548"></a>
 
 <!-- pair: DTG-002548 -->
-Then the blessed Vajradhara
+Then the Blessed One, Vajradhara,
 rose from the lotus's center
-and made the gesture of the sky-soarer.
+and made the seal of the sky-soarer.
 
 Earlier notes: [N-225](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-225).
 <!-- /pair -->
@@ -22642,7 +22642,7 @@ Earlier notes: [N-226](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002555 -->
 What is expressed equals the bounds of space
-and cuts the conceptual thoughts of beings to be trained. [N-226](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-226)
+and cuts the conceptual thoughts of karmic beings to be trained. [N-226](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-226)
 
 Earlier notes: [N-226](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-226).
 <!-- /pair -->
@@ -22653,9 +22653,9 @@ Earlier notes: [N-226](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 Here, when the subject matter is closely condensed,
 there are a hundred and eighty fixings,
 a thousand and a half crucial junctures,
-three thousand gatherings of great crucial points,
+three thousand gatherings of great key points,
 four hundred thousand deviations and obscurations,
-and twenty thousand named continua.
+and twenty thousand named tantras.
 
 Earlier notes: [N-226](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-226), [N-T108](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t108).
 <!-- /pair -->
@@ -22697,7 +22697,7 @@ Earlier notes: [N-227](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-002560 -->
 Thus these sixteen sequences
 definitely proliferate from Thal Gyur
-and appear to sentient beings to be trained.
+and appear to karmic beings to be trained.
 
 Earlier notes: [N-228](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-228).
 <!-- /pair -->
@@ -22706,7 +22706,7 @@ Earlier notes: [N-228](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002561 -->
 By holding the teaching in which vital content is gathered,
-one liberates from samsara for as long as ages exist,
+one liberates from cyclic existence for as long as ages exist,
 and complete buddhahood manifests. [N-228](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-228)
 
 Earlier notes: [N-228](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-228).
@@ -22841,7 +22841,7 @@ outer, inner, and secret [teachings] unfold,
 and for the buddhas of the respective families
 and for bodhisattvas too,
 they unfold from the naturally arisen tongue,
-showing the retinue through their own essence. [N-229](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-229)
+teaching the retinue through their own essence. [N-229](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-229)
 
 Earlier notes: [N-229](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-229).
 <!-- /pair -->
@@ -22997,7 +22997,7 @@ and no speaking, thinking, or expression.
 Furthermore, accomplishing embodiments:
 through the distinctions taught above,
 in one's own ordinary mind, the seed of the dharma embodiment,
-apply the crucial point of direct perception,
+apply the key point of direct perception,
 and become constantly familiar with it.
 
 Earlier notes: [N-231](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-231).
@@ -23080,7 +23080,7 @@ Earlier notes: [N-232](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002602 -->
 When spreading tongues of fire have smoke,
-pledges deteriorate. [N-232](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-232)
+sacred pledges deteriorate. [N-232](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-232)
 
 Earlier notes: [N-232](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-232).
 <!-- /pair -->
@@ -23136,7 +23136,7 @@ Earlier notes: [N-232](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002608 -->
 When white and clear, rising and billowing,
-the supreme accomplishment is definitely attained.
+the supreme spiritual accomplishment is definitely attained.
 
 Earlier notes: [N-232](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-232).
 <!-- /pair -->
@@ -23258,7 +23258,7 @@ Earlier notes: [N-233](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-002622 -->
 After the preceding signs arise,
 after three months and six months,
-through the two, one knows the sounds of the insentient and the aware.
+through the two, one knows the sounds of matter and the aware.
 
 Earlier notes: [N-233](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-233).
 <!-- /pair -->
@@ -23313,7 +23313,7 @@ Earlier notes: [N-233](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002628"></a>
 
 <!-- pair: DTG-002628 -->
-Ordinary mind, without things, is unimpeded penetration.
+Ordinary mind, without entities, is unimpeded penetration.
 
 Earlier notes: [N-233](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-233).
 <!-- /pair -->
@@ -23367,7 +23367,7 @@ Earlier notes: [N-234](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002634 -->
 Knowing the great identity,
-one cuts the root of samsara in the three realms.
+one cuts the root of cyclic existence in the three realms.
 
 Earlier notes: [N-234](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-234).
 <!-- /pair -->
@@ -23404,7 +23404,7 @@ Earlier notes: [N-235](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-002638 -->
 Having understood thus, through knowing and realization,
 [one trusts] that, as the root of all the scriptural collections,
-this king of continua, Thal Gyur itself,
+this king of tantras, Thal Gyur itself,
 this most secret, unsurpassed teaching,
 is indeed this. [N-235](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-235)
 
@@ -23416,7 +23416,7 @@ Earlier notes: [N-235](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-002639 -->
 All the retinues appearing through intrinsic nature,
 having aroused an utterly delighted ordinary mind,
-read and preserve this continuum,
+read and preserve this tantra,
 write it and hold it;
 holding and preserving it at the throat and crown,
 they engage in honoring all buddhas.
@@ -23428,7 +23428,7 @@ Earlier notes: [N-235](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002640 -->
 Having accepted and pledged this,
-they praise the teacher, the blessed buddha—
+they praise the teacher, the buddha, the Blessed One—
 his embodiment complete in qualities. [N-235](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-235)
 
 Earlier notes: [N-235](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-235).
@@ -23460,7 +23460,7 @@ Earlier notes: [N-235](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-002643 -->
 Of all phenomena as the single unique sphere,
 having attained the enlightened intent of equal taste,
-[to] the lotus-arisen blessed one,
+[to] the lotus-arisen Blessed One,
 they say, ‘Excellent! Excellent! Excellent!
 
 Earlier notes: [N-235](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-235).
@@ -23492,7 +23492,7 @@ Earlier notes: [N-236](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002646 -->
 Causing Precious Things to Arise:
-the continuum called the Great All-Penetrating Word, Taught as the Root of All Phenomena,
+the tantra called the Great All-Penetrating Word, Taught as the Root of All Phenomena,
 specially arrayed from the sixty-four hundred-thousand ślokas of the Great Perfection of intrinsic nature, is complete. [N-236](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-236)
 
 Earlier notes: [N-236](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-236).
@@ -23525,7 +23525,7 @@ Earlier notes: [N-237](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002650"></a>
 
 <!-- pair: DTG-002650 -->
-This king of continua
+This king of tantras
 is not available to just anyone, except exceptional beings.
 
 Earlier notes: [N-237](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-237).
@@ -23578,7 +23578,7 @@ Earlier notes: [N-237](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002656"></a>
 
 <!-- pair: DTG-002656 -->
-If it is given to an unfit vessel, impose the penalty of the pledge. [N-237](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-237)
+If it is given to an unfit vessel, impose the penalty of the sacred pledge. [N-237](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-237)
 
 Earlier notes: [N-237](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-237).
 <!-- /pair -->
@@ -23602,7 +23602,7 @@ Earlier notes: [N-237](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002659"></a>
 
 <!-- pair: DTG-002659 -->
-The Thal Gyur continuum has seven mother-and-child [texts]. [N-238](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-238)
+The Thal Gyur tantra has seven mother-and-child [texts]. [N-238](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-238)
 
 Earlier notes: [N-238](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-238).
 <!-- /pair -->

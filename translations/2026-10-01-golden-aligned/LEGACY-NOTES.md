@@ -1905,12 +1905,18 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 15):** Approved name/honorific/seal labels adopted; opening attachments retained. Joy-Maker preserves recurring identity, and Blessed One retains meaningful honorific components. The sky-soarer act is now seal under P2; rising and the designation alone do not specifically describe a bodily gesture, and no configuration is supplied. The lotus-arisen figure is not assigned an external historical identity. Preserve the sixty-four hundred-thousand lights, seventeen refinements, inexpressibility/phrase-arising contrast and the unresolved teacher-abides-in-distinction/foundation attachment. [Current review and scope](REVIEW.md#phase-d-notes-15).
+
 <a id="n-226"></a>
 ## N-226 — Textual architecture / large numbers
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-226)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 15):** Literary tantra/key-point labels adopted; source counts preserved. The textual-architecture context supports named tantras, not named mind-continua. Preserve all stated numbers: sixty-four groups of a hundred thousand, thirty-five thousand chapters, twenty-one thousand textual sections, 180 fixings, 1,500 crucial junctures, three thousand great-key-point gatherings, 400,000 deviations/obscurations and 20,000 named tantras. These are not an inventory of surviving volumes. bam po/textual section, gzer bu/fixing and ’gag/crucial juncture remain the N-T108 proposals; the different gnad label does not settle their technical referents. [Current review and scope](REVIEW.md#phase-d-notes-15).
 
 <a id="n-227"></a>
 ## N-227 — Seventeen refinements / possible titles / continuation
@@ -1919,12 +1925,18 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: [G-U05248](ENDNOTES.md#g-u05248)
 
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 15):** No change to title list; complete source sequence read. Read the full list and continuation as one unit, including both mirrors and the sixteen/seventeen contrast. Preserve descriptive names and all meaningful components rather than substituting received English publication titles. G-U05248 already selects rtsa la while marking its uncertainty against rtsal: Complete at the Root is provisional, not a decipherment. List membership/title boundaries and the inferred sixteen-plus-source explanation remain unapproved; no new shared name assignment is made. [Current review and scope](REVIEW.md#phase-d-notes-15).
+
 <a id="n-228"></a>
 ## N-228 — Title list / sixteen and seventeen
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-228)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 15):** Approved karmic-being/cyclic labels adopted; title status reconciled. Awakened mind in Mirror of Awakened Mind now has P2 component approval; the entire title/name identification remains provisional. Thal Gyur stays a source name, not an automatic expansion from its components. The original seventeen versus sixteen numbers are preserved. The scope of bskal pa yod pa, the liberation agency and vital-content gathering remain construction questions rather than a measured duration or guaranteed efficacy claim. [Current review and scope](REVIEW.md#phase-d-notes-15).
 
 <a id="n-229"></a>
 ## N-229 — Embodiment fivefold descriptions / negative flow / missing heading
@@ -1933,12 +1945,18 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 15):** Recipient repaired; important negation/agency questions retained. The retinue is recipient of teaching at ’khor la, not an object displayed. The subject/possessor of the preceding proliferating-from-tongue clause remains unresolved; teaching introduces no new agent. DTG-002567 reads ཤུགས་འབྱུང་བ་དང་འགག་པ་མེད།: inherited English affirms arising of its own force while negating cessation, but med may govern both arising and cessation. This potentially major scope question is retained explicitly and requires a syntactic parallel or authorized commentary; the mere presence of a negative is not sufficient verification. Keep actual rgyun med without a flow, appearance without intrinsic nature, and not-done/no-doing clauses rather than doctrinal smoothing. No missing third-reply heading is invented. Awakened mind is adopted P2, distinct from enlightened intent; spro bsdu remains the scoped family proposal, and the dangling yi at U05281 remains a grammatical limit. [Current review and scope](REVIEW.md#phase-d-notes-15).
+
 <a id="n-230"></a>
 ## N-230 — Taxonomy / knowledge and activity / equipoise
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-230)
 
 Current golden-source updates: [G-U05309](ENDNOTES.md#g-u05309)
+
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 15):** No change; complete taxonomy and roles checked. Preserve the fivefold emanation account, six vocal aspects, three characteristics/understanding clauses and three manners of abiding without adding unlisted members. Distinguish ordinary body from embodiment, objects of knowledge from knowing, and awareness from knowing. P2 enlightened intent and the grammatical equipoise form remain intact. G-U05309 already records phyed/byed uncertainty; no emendation or altered source-unit assignment is made. The form qualification and the distribution of the three characteristics remain provisional. Rgyud of trainees at DTG-002588 genuinely remains continua, not literary tantras. [Current review and scope](REVIEW.md#phase-d-notes-15).
 
 <a id="n-231"></a>
 ## N-231 — Embodiment accomplishment / source alignment / word and meaning
@@ -1947,12 +1965,18 @@ Current golden-source updates: [G-U05309](ENDNOTES.md#g-u05309)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 15):** Key point corrected; full compound and familiarity forms preserved. The three accomplishment branches and their seeds were read across all pair boundaries. Be familiar with/familiarity are approved goms grammatical forms, distinct from cultivation. Sgra don is the established complete word-and-meaning expression; the acoustic surroundings do not by themselves authorize replacing its component with sound under P1. Retain it and its linked contextual question. The historical seed/word-meaning alignment repair is already present, not a current omission; generic bsgrub accomplishment is not P2 dngos grub spiritual accomplishment. [Current review and scope](REVIEW.md#phase-d-notes-15).
+
 <a id="n-232"></a>
 ## N-232 — Elemental operations / onomatopoeia / abrupt source transition
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-232)
 
 Current golden-source updates: [G-A2000-C06-S01](ENDNOTES.md#g-a2000-c06-s01)
+
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 15):** Sacred-pledge/spiritual-accomplishment labels adopted; restored earth verses acknowledged. The full color/sound/four-element sequence was read, including all positive/negative conditions and three-successive repetition. A2000-C06-S01 already continues the earth sounds and supplies two source verses; the historical abrupt-transition criticism is no longer a current omission. Shag/sdig and the initial relation to the restored tog/sing clauses remain provisional, not an invented common predicate. Lhab lhab, spar spar, sir, sil and other exact sound forms remain source-linked unresolved acoustics; their ordinary dictionary senses are not substituted. Retain genuine acoustic sgra as sound and distinguish generic accomplished/attained results from actual dngos grub. No rite, formula, physical effect or practical instruction is independently certified. [Current review and scope](REVIEW.md#phase-d-notes-15).
 
 <a id="n-233"></a>
 ## N-233 — Time groupings / elliptical result triad
@@ -1961,12 +1985,18 @@ Current golden-source updates: [G-A2000-C06-S01](ENDNOTES.md#g-a2000-c06-s01)
 
 Current golden-source updates: [G-U05398](ENDNOTES.md#g-u05398)
 
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 15):** Matter/entity labels adopted; time and instrumental ellipsis retained. Bem is the short material/non-knowing member explicitly opposed to rig: matter retains that role, does not assert immobility, and does not deny that karmic beings have material bodies. Preserve actual three/six and ten/eighteen months, the two referent and acoustic sound/voices distinction; their allocation remains unresolved. G-U05398 explicitly retains dag gis against ngag gis, so voice must not be inserted by parallelism. Complete-enjoyment means, equal-portions attachment and āli/kāli remain bounded questions. Without entities retains the approved negative-entity phrase, separate from unimpeded penetration. [Current review and scope](REVIEW.md#phase-d-notes-15).
+
 <a id="n-234"></a>
 ## N-234 — Unresolved source expression / knowing and realization
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-234)
 
 Current golden-source updates: [G-U05411](ENDNOTES.md#g-u05411)
+
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 15):** Cyclic-existence label corrected; unresolved dang preserved. Retain the explicit dang [reading unresolved] and G-U05411 qualification without inserting radiance, clarity or a conjunction. Mi rtog skye preserves established non-conceptuality, not a realization form. Great identity is the approved descriptive bdag nyid family, not an unprinted sovereign title. All knowledge/cessation/confidence predicates and their source order remain intact; approval of those terms does not resolve dang. [Current review and scope](REVIEW.md#phase-d-notes-15).
 
 <a id="n-235"></a>
 ## N-235 — Final assembly / subject and speech attribution / alignment
@@ -1975,12 +2005,18 @@ Current golden-source updates: [G-U05411](ENDNOTES.md#g-u05411)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 15):** Literary tantra and honorific labels adopted; final speaker/quotation scope unresolved. Rgyud as the explicitly named scripture, root of scriptural collections, read and written by the retinue is tantra under P1. P2 Blessed One preserves the separate buddha/teacher/lotus-arisen roles. The long trust sequence may continue with the retinue as its subject rather than the inherited bracketed [one]; exact attachment remains unresolved. The quotation opened at DTG-002551 lacks a securely locatable boundary before the assembly narrative and its final praise. DTG-002643’s lotus-arisen Blessed One can be read as speaker rather than the supplied [to] recipient, while the following we-supplicate clause supports the inherited retinue reading. Retain that explicitly provisional attribution rather than invent a speaker transition or place a supposedly verified quotation close. The boundary near DTG-002638/002639 and final praise require syntactic/commentarial review. Historical alignment corrections are present; [behold] and [one trusts] remain marked, not hidden additions. [Current review and scope](REVIEW.md#phase-d-notes-15).
+
 <a id="n-236"></a>
 ## N-236 — Chapter ending / full title / textual count
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-236)
 
 Current golden-source updates: [G-U05448](ENDNOTES.md#g-u05448)
+
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 15):** Literary tantra adopted; closing hierarchy/count preserved. The complete closing title is explicitly a tantra as a text and is corrected under P1, superseding the historical note’s continuum instruction in this scope. The full descriptive Great All-Penetrating Word title, Causing Precious Things to Arise and sixty-four hundred-thousand ślokas remain intact and provisional in hierarchy/identification; the number is not a count of this file. Chapter-ending physical signs retain G-U05448’s qualification and unchanged source bytes. [Current review and scope](REVIEW.md#phase-d-notes-15).
 
 <a id="n-237"></a>
 ## N-237 — Seals / protector invocation / ritual syllables
@@ -1989,12 +2025,18 @@ Current golden-source updates: [G-U05448](ENDNOTES.md#g-u05448)
 
 Current golden-source updates: [G-U05459](ENDNOTES.md#g-u05459), [G-U05460](ENDNOTES.md#g-u05460)
 
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 15):** Literary tantra/sacred pledge adopted; formula layers preserved. Preserve all twelve rgya occurrences across the four triple-seal lines, both sa ma ya formulas, the protector invocation, recipient restriction and penalty condition. Sa ma ya is a retained ritual string, not an English samaya replacement of actual dam tshig; rgya seal is a different source expression from technical phyag rgya. So phag and ag tham remain transliterations with explicit G-note limits, not Sanskrit reconstructions or certified semantics. Name/epithet grouping of the queen and the Black Protector remains source-bound and provisional; no unprinted deity identity is imposed. The penalty is translated historical prose, not a threat directed at this reader. [Current review and scope](REVIEW.md#phase-d-notes-15).
+
 <a id="n-238"></a>
 ## N-238 — Final catalogue-like note / seven mother-and-child texts
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-238)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 15):** Literary tantra adopted; seven-member set unresolved. The closing Thal Gyur textual-family reference takes tantra under P1. Preserve seven mother-and-child [texts] and all three virtue formulas. The identity of the seven-member set remains unresolved and is not automatically equated with the sixteen/seventeen refinements. No catalogue entries or new shared book-name labels are invented. [Current review and scope](REVIEW.md#phase-d-notes-15).
 
 <a id="n-t01"></a>
 ## N-T01 — terminology / usage record
