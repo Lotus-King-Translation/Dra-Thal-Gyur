@@ -68,7 +68,7 @@ File/source order, not numerical ID order, governs. Chapter 1 includes the title
 <!-- phase-d-coverage-start -->
 | Part | Expected pairs | Expected source-ordered range | Actually semantically reviewed | Status |
 |---|---:|---|---:|---|
-| chapter-01 | 1199 | DTG-000001 → DTG-001192 | 300 (ordinals 1–300; through DTG-000297) | In progress |
+| chapter-01 | 1199 | DTG-000001 → DTG-001192 | 450 (ordinals 1–450; through DTG-000447) | In progress |
 | chapter-02 | 543 | DTG-001193 → DTG-001735 | 0 | Not started |
 | chapter-03 | 354 | DTG-001736 → DTG-002089 | 0 | Not started |
 | chapter-04 | 237 | DTG-002090 → DTG-002326 | 0 | Not started |
@@ -1708,6 +1708,49 @@ The following three findings were recorded **before application**. S07 clarifies
 ```
 
 **Application/self-check:** All three recorded repairs were applied and reread with the eleven listed context pairs. The 1,000 plus five further sites, the explicit ninth-world relation, and the imperative addressee are retained without changing a number, agent, negation or technical component. The full integrity replay passes 2,667 pairs and 696 local-link targets: 85 English operations in 79 pairs, 17 review links and 88 changed pairs including note-only changes, plus the separately recorded source-annotation repair. The final paired validator and projector check were rerun; both still report the historical protected-glossary mismatch, so the projector produced no new reader output. `git diff --check` passes. This is repair self-verification, not another independent review.
+
+<a id="phase-d-recovered-04-check"></a>
+### Continuation 03: recovered Batch 04 verified
+
+All current ordinals **301–450** (DTG-000298–000447), their **21** first-encountered notes and all necessary preceding context were read in source order. Together with the prior reread this is **450 distinct current pairs and 118 first-encountered attached notes**, not additive coverage across reviewers. The full eight-column rows governing Ground/basis, ordinary mind and whole compounds, key point, sacred pledge, entity, realm, spiritual accomplishment and literary tantra were rechecked. N-T20 was also reread in full, including the limited logical-subject disposition and the still-provisional adjacent expressions.
+
+The recovered **20 English repairs in 20 pairs**, including the earlier DTG-000188 training-basis return, and six note-link insertions were self-checked against their recorded exact source and immediate clauses. The ordinary-basis repairs do not alter technical Ground, the five aggregates or the source's component wordplay. Ordinary mind retains the loving/virtuous qualifiers; entities retains all three embodiment/speech/awakened-mind members and the effortless result. The descriptive-name corrections retain spiritual and cyclic-existence components without certifying names or changing modifier attachment. Key point, realm, sacred pledge and literary tantra preserve number and scope. The imperative pronoun does not introduce a different agent. All six recovered note/usage dispositions accurately retain their stated unresolved boundaries and historical records. This is verification within the review, not a second independent certification.
+
+The source corrections at G-U00626, G-U00632, G-U00651, G-U00710 and G-U00800 already separate annotations; in particular, the selected bus pa alternative is not an unresolved nus pa correction to main text. The impure reading's negation remains. The numerical and name differences in the two prophecy accounts, bodily signs, anticipatory-half construction, large unresolved numerical phrase and unexpanded ritual references remain as documented in Batch 04. No additional main-English repair is justified solely by their unfamiliarity. N-041's six chapter descriptions and N-T22's sems nyid family remain for comparison with the ensuing chapter endings and DTG-001115.
+
+One further narrow construction question is identified below. It is linked without changing the provisional English or treating it as a confirmed mistranslation.
+
+<a id="pd-q04-02"></a>
+#### PD-Q04-02 — Maturation and the five families
+
+**DTG-000446 / U00971–U00973.** Tibetan: `དེ་ནས་ལྕང་ལོ་ཅན་གྱི་གནས། །` / `ཀུན་གཟིགས་རྣམ་པར་སྣང་མཛད་ཀྱིས། །` / `འདི་ཉིད་བཟུང་བས་རིགས་ལྔར་སྨིན། །`
+
+Current English: “Then, in the abode of Those with Long Locks, / the All-Seeing Vairocana / held this, bringing the five families to maturity.” Retain provisionally. The teacher is the explicit holder, and the holding has an instrumental connection to maturation. But `རིགས་ལྔར་སྨིན` does not by itself settle whether the five families are the recipients brought to maturity, the forms/aspect in which maturation occurs, or the category into which an unexpressed recipient matures. An internal parallel making the maturation subject and this terminative relationship explicit, or authorized commentary on this clause, would settle it. N-049's existing name/count qualifications remain; no new family designation, agent or historical identity is supplied. **Severity:** medium potential relationship ambiguity. **Confidence:** moderate that the English remains interpretive; no confidence claim that the alternative is superior.
+
+<!-- phase-d-q04-02-link -->
+```json
+[
+  {
+    "pair": "DTG-000446",
+    "ordinal": 449,
+    "golden": [
+      "U00971",
+      "U00972",
+      "U00973"
+    ],
+    "family": "PD-Q04-02",
+    "kind": "review-link",
+    "tibetan": "དེ་ནས་ལྕང་ལོ་ཅན་གྱི་གནས། །\nཀུན་གཟིགས་རྣམ་པར་སྣང་མཛད་ཀྱིས། །\nའདི་ཉིད་བཟུང་བས་རིགས་ལྔར་སྨིན། །",
+    "before": "Then, in the abode of Those with Long Locks,\nthe All-Seeing Vairocana\nheld this, bringing the five families to maturity.\n\nEarlier notes: [N-049](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-049).",
+    "after": "Then, in the abode of Those with Long Locks,\nthe All-Seeing Vairocana\nheld this, bringing the five families to maturity.\n\nEarlier notes: [N-049](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-049).\n\nReview note: [Maturation construction provisional](../translations/2026-10-01-golden-aligned/REVIEW.md#pd-q04-02).",
+    "rationale": "Link the exact unresolved maturation construction; no main-English change.",
+    "severity": "documentation",
+    "confidence": "high for link and source scope"
+  }
+]
+```
+
+**Link application/integrity:** The exact question link was applied without changing the main English. Full recorded-operation replay passes: 2,667 pairs, 103 operations (85 English repairs and 18 review links), 79 distinct English-repair pairs, 89 changed pairs including note-only changes, and 697 local-link targets. Fixed Tibetan/golden/policy/format/lineage, IDs/order and inherited note/history checks pass. English SHA-256: `5ceabb13015b9891ea4103cdca4e7f9d57ac51cc31f2c1ec20f47cde00cbe3b9`. No new generated view was produced; the existing release-bound build failures remain as actually rerun above. `git diff --check` passes. Saved semantic coverage is now 450/2,667; continuation is ordinal 451, DTG-000448. Text readiness remains provisional and the complete-work pass remains in progress.
 
 <!-- phase-d-findings -->
 

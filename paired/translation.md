@@ -3847,6 +3847,8 @@ the All-Seeing Vairocana
 held this, bringing the five families to maturity.
 
 Earlier notes: [N-049](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-049).
+
+Review note: [Maturation construction provisional](../translations/2026-10-01-golden-aligned/REVIEW.md#pd-q04-02).
 <!-- /pair -->
 
 <a id="dtg-000447"></a>
