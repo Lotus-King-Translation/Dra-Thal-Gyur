@@ -1,3 +1,13 @@
+# Current review continuation — 2026-10-05
+
+Active session: **DTG-PD-20261005-Astra-03** (GPT-6 Astra Pro), continuing the authorized review-and-revise on `review/post-translation-20261005`. The interrupted Batch 04 was preserved unchanged, pushed and remote-verified at `cbb308f20db0dbd00ec261c4bd017ffbfd7ad53c` before the review branch was fast-forwarded. Fixed source and adopted standard 2.1.0 / 283 × 8 glossary hashes still match; no later local terminology override is recorded.
+
+**Saved earlier semantic coverage: 300/2,667 pairs verified through Batch 03; recovered Batch 04 reading through ordinal 450 awaits repair verification and status integration.** Continuation 03 has reread current ordinals 1–100 and their 50 first-encountered notes; continue this reread at ordinal 101. The next range absent from the earlier read record is 451–2667. Canonical English already contains 82 recorded English operations in 77 pairs, one source-annotation repair and 17 review links (86 changed pairs including note-only changes); these counts include the preserved Batch 04, not yet semantically certified by this continuation. [Current input and actual validation results](translations/2026-10-01-golden-aligned/REVIEW.md#phase-d-resumption-03).
+
+The current paired suite yields 53 passes, nine failures and two errors because the historical exact-English check preempts affected fixtures; release/build checks also retain the old-glossary mismatch. The independent integrity replay passes source bytes, identities, prior notes, policy and links. **Text remains in review, not whole-work ready.** No tags, historical signoffs or other worktrees are changed. The entries below retain earlier checkpoint history and are superseded only by this current state.
+
+---
+
 # Post-translation review — 2026-10-05
 
 Active session: **DTG-PD-20261005-Astra-02** (GPT-6 Astra Pro), authorized **review-and-revise** in this repository only. Branch: `review/post-translation-20261005`, input main `fc3a443ba5987efb0b132990bf131a236fa57320`. Policy adoption PR #5 is verified merged; standard 2.1.0 / 283-row eight-column glossary remain active, without local exception.
