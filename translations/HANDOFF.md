@@ -1,3 +1,13 @@
+# Active post-translation review — 2026-10-05
+
+Session **DTG-PD-20261005-Astra-01**, reviewer GPT-6 Astra Pro, independent of the input authoring/source-reconciliation runs. Owner explicitly assigned review-and-revise; no source/segmentation/glossary/release edits. Working branch `review/post-translation-20261005` starts at verified merged main `fc3a443ba5987efb0b132990bf131a236fa57320`.
+
+The [single current review package](2026-10-01-golden-aligned/REVIEW.md#phase-d-review) contains frozen hashes, complete finite inventory, executed baseline tests and coverage. **0/2,667 pairs semantically reviewed, 0 English changes; continue DTG-000001.** Review both directions under Q1–Q9, I §8.1 and III, with the full adopted 283 × 8 glossary. Read active source notes before treating any historical example as a defect.
+
+Canonical current English is `paired/translation.md`; tagged dated readers are history. Existing build/release checks bind the old glossary/standard and exact released English, so their baseline failure is not concealed by changing historical contracts. All tags, recovery branches and the clean detached recovery worktree remain preserved. The prior handoff below is retained as history; adoption merge is now verified and edit authority is now explicit.
+
+---
+
 # Dra Thal Gyur — translation handoff
 
 ## Template policy baseline — P3

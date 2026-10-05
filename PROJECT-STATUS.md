@@ -1,3 +1,13 @@
+# Post-translation review — 2026-10-05
+
+Active session: **DTG-PD-20261005-Astra-01** (GPT-6 Astra Pro), authorized **review-and-revise** in this repository only. Branch: `review/post-translation-20261005`, input main `fc3a443ba5987efb0b132990bf131a236fa57320`. Policy adoption PR #5 is verified merged; standard 2.1.0 / 283-row eight-column glossary remain active, without local exception.
+
+**Semantic coverage: 0/2,667 pairs; next DTG-000001. No English changes yet.** All six chapters, opening and closing material, source annotations, legacy/reconciliation notes and unresolved spans are in scope. [Current review package](translations/2026-10-01-golden-aligned/REVIEW.md#phase-d-review) records exact frozen inputs, ranges, preservation and actual baseline tests. The existing release validators fail on the pre-existing old-policy hash contract; historical signoffs/tags are not being rewritten. Text readiness is undetermined until review.
+
+The earlier status below is historical; its unverified-merge/unassigned-mode statements are superseded by this entry.
+
+---
+
 # Dra Thal Gyur — project status
 
 ## Shared policy adoption — 2026-10-05
