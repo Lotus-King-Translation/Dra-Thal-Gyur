@@ -1657,6 +1657,8 @@ Current golden-source updates: No new source-difference disposition attached; th
 <a id="n-t01"></a>
 ## N-T01 — terminology / usage record
 
+**Current Phase D disposition (2026-10-05):** P1 literary exception adopted; whole-expression title remains proposed. P1 supersedes the old keep-continuum title instruction in explicit scripture titles only. The whole title and foreign-lettering questions are not newly approved. [Review evidence](REVIEW.md#phase-d-notes-01). Original note and its approval history remain unchanged.
+
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-t01)
 
 Current golden-source updates: [G-U00004](ENDNOTES.md#g-u00004)
@@ -1664,12 +1666,16 @@ Current golden-source updates: [G-U00004](ENDNOTES.md#g-u00004)
 <a id="n-t03"></a>
 ## N-T03 — terminology / usage record
 
+**Current Phase D disposition (2026-10-05):** P1 acoustic exception adopted within reviewed acoustic occurrences. The reviewed elemental, bird-voice and auditory manifestations support sound. This does not replace word in titles or linguistic word-and-meaning expressions, or certify later unread occurrences. [Review evidence](REVIEW.md#phase-d-notes-01). Original note and its approval history remain unchanged.
+
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-t03)
 
 Current golden-source updates: [G-U00126](ENDNOTES.md#g-u00126)
 
 <a id="n-t04"></a>
 ## N-T04 — terminology / usage record
+
+**Current Phase D disposition (2026-10-05):** P2 approved cognitive/honorific standalone use. The explicit embodiment-speech-awakened-mind triad supports the approved standalone cognitive/honorific use. The historical claim that the entry was absent is no longer current. [Review evidence](REVIEW.md#phase-d-notes-01). Original note and its approval history remain unchanged.
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-t04)
 
@@ -1685,6 +1691,8 @@ Current golden-source updates: No new source-difference disposition attached; th
 <a id="n-t07"></a>
 ## N-T07 — terminology / usage record
 
+**Current Phase D disposition (2026-10-05):** Locally supported recognizable short-form realizations. The explicit three-embodiment context identifies the established complete expressions. No component is dropped and no shared assignment is added. [Review evidence](REVIEW.md#phase-d-notes-01). Original note and its approval history remain unchanged.
+
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-t07)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
@@ -1699,6 +1707,8 @@ Current golden-source updates: No new source-difference disposition attached; th
 <a id="n-t09"></a>
 ## N-T09 — terminology / usage record
 
+**Current Phase D disposition (2026-10-05):** P1 capitalization approved; occurrence-level construction qualifications retained. Capitalization of an identified technical Ground is approved, but this does not settle every compound or foundation construction. The existing contextual qualifications remain. [Review evidence](REVIEW.md#phase-d-notes-01). Original note and its approval history remain unchanged.
+
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-t09)
 
 Current golden-source updates: [G-U00316](ENDNOTES.md#g-u00316)
@@ -1712,6 +1722,8 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 <a id="n-t15"></a>
 ## N-T15 — terminology / usage record
+
+**Current Phase D disposition (2026-10-05):** Locally resolved finite transitive uses; not a shared default. Seeds as the object and an interrogative maintainer in the temporal interval establish finite verbal constructions, not the nominal apprehending-subject term. Object/reference uncertainty remains where otherwise noted. [Review evidence](REVIEW.md#phase-d-notes-01). Original note and its approval history remain unchanged.
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-t15)
 

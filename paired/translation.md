@@ -22,7 +22,7 @@ language: en
 <a id="dtg-000002"></a>
 
 <!-- pair: DTG-000002 -->
-Here is the text named the Jewel-Producing Continuum of the Great All-Penetrating Word. [N-001](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-001)
+Here is the text named the Jewel-Producing Tantra of the Great All-Penetrating Word. [N-001](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-001)
 
 [^G-U00002]
 
@@ -40,7 +40,7 @@ Earlier notes: [N-001](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000004"></a>
 
 <!-- pair: DTG-000004 -->
-Here is the Continuum of the Great All-Penetrating Word, Which Brings Forth Jewels. [N-T01](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t01)
+Here is the Tantra of the Great All-Penetrating Word, Which Brings Forth Jewels. [N-T01](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t01)
 
 [^G-U00004]
 
@@ -51,7 +51,7 @@ Earlier notes: [N-T01](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000005 -->
 gaṃgarbamatagā. [N-002](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-002) In the language of India:
-Ratnakaraśabdamahāprasaṅgatantra nāma—‘The Jewel-Producing Continuum of the Great All-Penetrating Word.’ [N-001](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-001)
+Ratnakaraśabdamahāprasaṅgatantra nāma—‘The Jewel-Producing Tantra of the Great All-Penetrating Word.’ [N-001](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-001)
 
 [^G-U00005][^G-U00006]
 
@@ -62,7 +62,7 @@ Earlier notes: [N-002](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000006 -->
 In the language of Tibet:
-The Continuum of the Great All-Penetrating Word, Which Brings Forth Jewels.
+The Tantra of the Great All-Penetrating Word, Which Brings Forth Jewels.
 
 Earlier notes: [N-T01](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t01).
 <!-- /pair -->
@@ -99,7 +99,7 @@ Thus did I hear at one time:
 <a id="dtg-002662"></a>
 
 <!-- pair: DTG-002662 -->
-At the beginning of samsara and what is beyond it,
+At the beginning of cyclic existence and transcendence of sorrow,
 from the naturally arisen and unmade,
 there appeared an aggregate of gathered elements:
 earth, water, fire, and wind, the four elements;
@@ -378,7 +378,7 @@ Thus, like the heart, they are secret.
 <a id="dtg-000040"></a>
 
 <!-- pair: DTG-000040 -->
-Since the ultimate supreme accomplishments
+Since the ultimate supreme spiritual accomplishments
 do not involve exertion and effort,
 whoever encounters this is certain to be liberated.
 <!-- /pair -->
@@ -420,7 +420,7 @@ the seed of emanation arises.
 From that actual teaching,
 this magical display of reflected forms,
 which no one can express,
-[was proclaimed] from the sky, undivided from space: [N-008](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-008)
+[was proclaimed] from the open sky, undivided from space: [N-008](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-008)
 even before all phrases,
 from still above the ‘nine, two, and four,’ [N-008](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-008)
 it was proclaimed in the melody of Great Brahmā.
@@ -433,7 +433,7 @@ Earlier notes: [N-008](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-000046 -->
 Then, from the space of the nature of phenomena,
 through the speech of the Great All-Pervader,
-blessing displayed it as its own sound. [N-T03](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t03)
+through blessing, it was displayed as its own sound. [N-T03](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t03)
 
 Earlier notes: [N-008](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-008), [N-T03](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t03).
 <!-- /pair -->
@@ -443,8 +443,8 @@ Earlier notes: [N-008](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-000047 -->
 Then, from space free of directions,
 from the melodious sound of the kalaviṅka,
+this very king of tantras,
 which gathers the quintessence of all teachings,
-this very king of continua,
 even before all phrases,
 was drawn from three hundred and sixty
 sounds and spoken by the teacher.
@@ -576,7 +576,7 @@ Earlier notes: [N-011](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000060 -->
 In the magical display of what was thus spoken,
-even before all continua,
+even before all tantras,
 from the root words and phrases of the All-Penetrating,
 all certainly arose and proliferated as teaching.
 <!-- /pair -->
@@ -585,7 +585,7 @@ all certainly arose and proliferated as teaching.
 
 <!-- pair: DTG-000061 -->
 The sources of the sacred teaching were established;
-by its being spoken, samsara is made to subside.
+by its being spoken, cyclic existence is made to subside.
 <!-- /pair -->
 
 <a id="dtg-000062"></a>
@@ -632,7 +632,7 @@ Earlier notes: [N-T07](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-000067 -->
 Without division, they entered balanced union,
 and in the Great Perfection of intrinsic nature
-abided together in a single maṇḍala.
+abided together in a single mandala.
 
 Earlier notes: [N-T08](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t08).
 <!-- /pair -->
@@ -649,9 +649,9 @@ Thus they were indivisible, of a single condition.
 
 <!-- pair: DTG-000069 -->
 Then, one with this and not separate, [N-012](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-012)
-From among the retinue whose intrinsic nature was pure,
+from among the retinue whose intrinsic nature was pure,
 the Lord of Gods made this request:
-‘Ema! Listen, listen, Blessed One!
+‘Ema! O, O, Blessed One!
 
 [^G-U00180]
 
@@ -772,7 +772,7 @@ What do the elements desire?
 <a id="dtg-000086"></a>
 
 <!-- pair: DTG-000086 -->
-What are the successive ages of sentient beings?
+What are the successive ages of karmic beings?
 <!-- /pair -->
 
 <a id="dtg-000087"></a>
@@ -810,7 +810,7 @@ Earlier notes: [N-014](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000092"></a>
 
 <!-- pair: DTG-000092 -->
-What cuts the continuum of samsara's path?
+What cuts the continuum of the path of cyclic existence?
 <!-- /pair -->
 
 <a id="dtg-000093"></a>
@@ -23575,6 +23575,8 @@ Earlier notes: [N-238](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 
 ## Golden-source footnotes and endnotes
+
+These source-reconciliation notes preserve the October 1 decision evidence. Each **Current English** quotation records the English selected at that historical checkpoint; it is not a second canonical translation of the revised pair. Current corrections and terminology dispositions are recorded in the [post-translation review](../translations/2026-10-01-golden-aligned/REVIEW.md#phase-d-review). Original source evidence and approval history remain unchanged.
 
 [^G-U00001]: **G-U00001 — U00001**
 
