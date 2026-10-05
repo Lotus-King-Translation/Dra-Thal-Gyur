@@ -925,6 +925,8 @@ By what is the activity of relocation carried out?
 
 <!-- pair: DTG-000111 -->
 What distinguishes the aware from matter?
+
+Review note: [Matter and awareness](../translations/2026-10-01-golden-aligned/REVIEW.md#phase-d-matter-note).
 <!-- /pair -->
 
 <a id="dtg-000112"></a>
@@ -1597,7 +1599,7 @@ Earlier notes: [N-026](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000198"></a>
 
 <!-- pair: DTG-000198 -->
-Once the flow of samsara in the three realms has been cut,
+Once the flow of cyclic existence in the three realms has been cut,
 because there is no turning back again and again,
 one knows the defining characteristic of exhaustion.
 
@@ -1608,23 +1610,25 @@ Earlier notes: [N-T17](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000199 -->
 For conceptual minds that focus on objects,
-the texts of the continua are distinguished.
+the texts of the tantras are distinguished.
 
 Earlier notes: [N-026](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-026).
+
+Review note: [Construction provisional](../translations/2026-10-01-golden-aligned/REVIEW.md#pd-q03-01).
 <!-- /pair -->
 
 <a id="dtg-000200"></a>
 
 <!-- pair: DTG-000200 -->
-The definitive crucial point corresponding to each inclination
-is applied to each one individually.
+The definitive key point corresponding to each inclination
+is applied as a key point to each one individually.
 <!-- /pair -->
 
 <a id="dtg-000201"></a>
 
 <!-- pair: DTG-000201 -->
 If it is fully realized without separation,
-one does not abide in samsara.
+one does not abide in cyclic existence.
 
 Earlier notes: [N-026](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-026).
 <!-- /pair -->
@@ -1642,7 +1646,7 @@ Earlier notes: [N-026](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000203"></a>
 
 <!-- pair: DTG-000203 -->
-The pith instructions on the meaning of the crucial points of enlightened intent
+The pith instructions on the meaning of the key points of enlightened intent
 should be known in their respective contexts.
 
 Earlier notes: [N-026](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-026), [N-T49](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t49).
@@ -1657,7 +1661,7 @@ Earlier notes: [N-026](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000205"></a>
 
 <!-- pair: DTG-000205 -->
-Through this very king of continua,
+Through this very king of tantras,
 the varieties of its definitive title
 are taught; as for the pith instructions on the meaning of perfection,
 the phrases alone are examined and distinguished with certainty.
@@ -1671,7 +1675,7 @@ Earlier notes: [N-T49](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 The syllables, too, in accord with their meanings,
 are brought to the face of meaning in this way:
 This manner of expressing sound [N-T03](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t03)
-has not been explained in other continua.
+has not been explained in other tantras.
 
 Earlier notes: [N-T03](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t03).
 <!-- /pair -->
@@ -1680,6 +1684,8 @@ Earlier notes: [N-T03](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000207 -->
 Ema! How greatly wonderful!
+
+Review note: [Short exclamation remains provisional](../translations/2026-10-01-golden-aligned/REVIEW.md#phase-d-batch-03-dispositions).
 <!-- /pair -->
 
 <a id="dtg-000208"></a>
@@ -1794,7 +1800,7 @@ Earlier notes: [N-T03](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000220"></a>
 
 <!-- pair: DTG-000220 -->
-For the skilled, the rite is complete.
+The rite is completed by the skilled.
 <!-- /pair -->
 
 <a id="dtg-000221"></a>
@@ -1843,7 +1849,7 @@ they appear directly, together with their times.
 <!-- pair: DTG-000225 -->
 The teachers of the past, future, and present,
 the buddhas, the Blessed Ones,
-with a single melody, in the maṇḍala,
+with a single melody, in the mandala,
 for the appearance of the fortunate,
 through the complete purity of the six faculties,
 in tens apiece, from the three embodiments, [N-029](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-029)
@@ -1868,6 +1874,8 @@ The sites, distinctions, and domains of their vital cores [N-029](../translation
 are attained, and one assuredly enters seeing and realization.
 
 Earlier notes: [N-029](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-029).
+
+Review note: [Construction provisional](../translations/2026-10-01-golden-aligned/REVIEW.md#pd-q03-02).
 <!-- /pair -->
 
 <a id="dtg-000228"></a>
@@ -1926,17 +1934,19 @@ Earlier notes: [N-030](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-000234 -->
 One can act upon the five elements,
 prevails over weapons and poison,
-and becomes skilled in the sounds of the insentient and the aware,
+and becomes skilled in the sounds of matter and the aware,
 in signs and conventions.
 
 Earlier notes: [N-T03](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t03).
+
+Review note: [Matter and awareness](../translations/2026-10-01-golden-aligned/REVIEW.md#phase-d-matter-note).
 <!-- /pair -->
 
 <a id="dtg-000235"></a>
 
 <!-- pair: DTG-000235 -->
 In brief, one comes to know the treatises on purposes
-and the defining characteristics of the commands.
+and the characteristics of the commands.
 <!-- /pair -->
 
 <a id="dtg-000236"></a>
@@ -1959,6 +1969,8 @@ Thus the purposes of word and meaning are accomplished.
 
 <!-- pair: DTG-000238 -->
 The distinguishing magic definitive for the continuum is set apart.
+
+Review note: [Construction provisional](../translations/2026-10-01-golden-aligned/REVIEW.md#pd-q03-03).
 <!-- /pair -->
 
 <a id="dtg-000239"></a>
@@ -1971,10 +1983,10 @@ The distinguishing magic definitive for the continuum is set apart.
 
 <!-- pair: DTG-000240 -->
 There are eight aspects of the sites of penetration:
-world systems and buddha-fields,
+world systems and realms,
 faults in assertions and the sites of faults,
 the activity of projection and application,
-what is acknowledged and the crucial point of going—eight in all. [N-031](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-031) [N-T21](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t21)
+what is acknowledged and the key point of going—eight in all. [N-031](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-031) [N-T21](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t21)
 
 Earlier notes: [N-031](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-031), [N-T20](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t20), [N-T21](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t21).
 <!-- /pair -->
@@ -2001,7 +2013,7 @@ Earlier notes: [N-032](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000243"></a>
 
 <!-- pair: DTG-000243 -->
-The buddha-fields have thirteen aspects:
+The realms have thirteen aspects:
 beneath the world here
 is the realm called Melody of Penetration,
 its extent difficult to measure, utterly beautiful.
@@ -2018,6 +2030,8 @@ above, below, and in the directions and intermediate directions—
 its length and breadth are pleasing, well-arrayed and adorned.
 
 Earlier notes: [N-032](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-032).
+
+Review note: [Construction provisional](../translations/2026-10-01-golden-aligned/REVIEW.md#pd-q03-07).
 <!-- /pair -->
 
 <a id="dtg-000245"></a>
@@ -2053,6 +2067,8 @@ Earlier notes: [N-032](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 Its light and colors are definitely clear;
 it is a field where the teacher's teaching trains beings,
 each with their own karma and characteristics.
+
+Review note: [Construction provisional](../translations/2026-10-01-golden-aligned/REVIEW.md#pd-q03-04).
 <!-- /pair -->
 
 <a id="dtg-000249"></a>
@@ -2084,6 +2100,8 @@ Coarse reflected forms do not appear.
 <!-- pair: DTG-000252 -->
 The sources of the teacher's teaching expand;
 with the age complete, it is called Penetration.
+
+Review note: [Construction provisional](../translations/2026-10-01-golden-aligned/REVIEW.md#pd-q03-05).
 <!-- /pair -->
 
 <a id="dtg-000253"></a>
@@ -2137,6 +2155,8 @@ Earlier notes: [N-032](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000258 -->
 It is the Ground from which diverse sounds and melodies arise.
+
+Review note: [Construction provisional](../translations/2026-10-01-golden-aligned/REVIEW.md#pd-q03-06).
 <!-- /pair -->
 
 <a id="dtg-000259"></a>
@@ -2205,7 +2225,7 @@ The play of bliss arises.
 
 <!-- pair: DTG-000267 -->
 To the right, in this world's southwest,
-six worlds away and below, is Wind of Penetration.
+beyond six worlds and below, is Wind of Penetration.
 
 Earlier notes: [N-032](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-032).
 <!-- /pair -->
@@ -2238,7 +2258,7 @@ Earlier notes: [N-032](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 Thirteen worlds stacked above it,
 is that called Jewel Penetration,
 adorned with auspicious suns,
-ornamented with the qualities of desire,
+adorned with the qualities of desire,
 beautiful with magical designs and letters.
 
 Earlier notes: [N-032](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-032).
@@ -2292,6 +2312,8 @@ Earlier notes: [N-032](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-000276 -->
 The teacher and the teaching,
 its retinue and enjoyments, are complete.
+
+Review note: [Construction provisional](../translations/2026-10-01-golden-aligned/REVIEW.md#pd-q03-07).
 <!-- /pair -->
 
 <a id="dtg-000277"></a>
@@ -2331,7 +2353,7 @@ Thunder roars and red tongues of lightning issue forth.
 <a id="dtg-000281"></a>
 
 <!-- pair: DTG-000281 -->
-The teacher's teaching is surrounded by authoritative transmissions.
+The teacher's teaching is surrounded by transmissions.
 
 Earlier notes: [N-T23](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t23).
 <!-- /pair -->
@@ -2366,7 +2388,7 @@ Earlier notes: [N-036](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000285 -->
 To bring one's own position to a definite conclusion,
-through authoritative transmission, reasoning, and pith instructions,
+through transmission, reasoning, and pith instructions,
 remove faults, establish it, and abandon contradictions.
 
 Earlier notes: [N-036](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-036), [N-T20](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t20), [N-T23](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t23), [N-T49](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t49).
@@ -2432,7 +2454,7 @@ Earlier notes: [N-036](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000293"></a>
 
 <!-- pair: DTG-000293 -->
-The skilled apply these with their defining characteristics complete.
+The skilled apply these with their characteristics complete.
 
 Earlier notes: [N-036](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-036).
 <!-- /pair -->
@@ -2456,7 +2478,7 @@ Earlier notes: [N-036](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000296"></a>
 
 <!-- pair: DTG-000296 -->
-Know one's own faults oneself.
+Know your own faults yourself.
 <!-- /pair -->
 
 <a id="dtg-000297"></a>

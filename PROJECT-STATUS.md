@@ -1,10 +1,13 @@
 # Post-translation review — 2026-10-05
 
-Active session: **DTG-PD-20261005-Astra-01** (GPT-6 Astra Pro), authorized **review-and-revise** in this repository only. Branch: `review/post-translation-20261005`, input main `fc3a443ba5987efb0b132990bf131a236fa57320`. Policy adoption PR #5 is verified merged; standard 2.1.0 / 283-row eight-column glossary remain active, without local exception.
+Active session: **DTG-PD-20261005-Astra-02** (GPT-6 Astra Pro), authorized **review-and-revise** in this repository only. Branch: `review/post-translation-20261005`, input main `fc3a443ba5987efb0b132990bf131a236fa57320`. Policy adoption PR #5 is verified merged; standard 2.1.0 / 283-row eight-column glossary remain active, without local exception.
 
-**Semantic coverage: 200/2,667 pairs; next source ordinal 201, DTG-000198. Forty-two scoped repairs in 38 pairs and one source-annotation note repair are applied and self-checked; additional legacy-status integration is recorded as pending.** All six chapters, opening and closing material, source annotations, legacy/reconciliation notes and unresolved spans are in scope. [Current review package](translations/2026-10-01-golden-aligned/REVIEW.md#phase-d-review) records exact frozen inputs, ranges, preservation and actual baseline tests. The existing release validators fail on the pre-existing old-policy hash contract; historical signoffs/tags are not being rewritten. Text readiness is undetermined until review.
+**Semantic coverage: 300/2,667 pairs; next source ordinal 301, DTG-000298. Applied: 62 scoped English repairs in 57 pairs, one source-annotation repair, and 11 review-note links (65 changed pairs including note-only changes). Batch 03 repairs are self-checked; the five queued legacy-status dispositions are integrated.** All six chapters, opening and closing material, source annotations, legacy/reconciliation notes and unresolved spans are in scope. [Current review package](translations/2026-10-01-golden-aligned/REVIEW.md#phase-d-review) records exact frozen inputs, ranges, preservation and actual baseline tests. The existing release validators fail on the pre-existing old-policy hash contract; historical signoffs/tags are not being rewritten. Text readiness is undetermined until review.
 
 The earlier status below is historical; its unverified-merge/unassigned-mode statements are superseded by this entry.
+
+
+The interrupted prior session was first preserved and remote-verified at `ced6486c83555d236e7e41ac1e854044f79ab738`. The review retains its first 200-pair coverage as the original session record; continuation 02 begins its new source-order reading at ordinal 201.
 
 ---
 

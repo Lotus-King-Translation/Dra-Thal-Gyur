@@ -1720,6 +1720,8 @@ Current golden-source updates: [G-U00316](ENDNOTES.md#g-u00316)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+**Phase D disposition, 2026-10-05 (continuation 02):** Approved practice label retained; complete construction still provisional. The historical literal-only proposal is not adopted. The reviewed question preserves ru shan as secret preliminary and phyed as its separate predicate. This does not certify later unreviewed occurrences. [Current review and scope](REVIEW.md#phase-d-notes-02).
+
 <a id="n-t15"></a>
 ## N-T15 — terminology / usage record
 
@@ -1735,6 +1737,8 @@ Current golden-source updates: [G-U00049](ENDNOTES.md#g-u00049)
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-t16)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+**Phase D disposition, 2026-10-05 (continuation 02):** P2 quintessence within the reviewed nourishment context; whole expression provisional. The old vital-essence label is superseded in this extraction/nourishment use only. The full instrumental construction remains provisional and does not settle gnas bcud yul at DTG-000227. [Current review and scope](REVIEW.md#phase-d-notes-02).
 
 <a id="n-t17"></a>
 ## N-T17 — terminology / usage record
@@ -1784,6 +1788,8 @@ Current golden-source updates: No new source-difference disposition attached; th
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-t23)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+**Phase D disposition, 2026-10-05 (continuation 02):** Approved P2 teaching/transmission sense. The historical authoritative-transmission proposal is superseded for these reviewed teaching/evidence occurrences. There is no separate authoritative modifier in them. Longer expressions and later occurrences require their own reading. [Current review and scope](REVIEW.md#phase-d-notes-02).
 
 <a id="n-t24"></a>
 ## N-T24 — terminology / usage record
@@ -1974,6 +1980,8 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+**Phase D disposition, 2026-10-05 (continuation 02):** Approved P2 label in the reviewed sacred-pledge/vow contrast. The former pledge proposal is superseded in this occurrence; the distinct sdom pa/vow construction and its open proposal are retained. [Current review and scope](REVIEW.md#phase-d-notes-02).
+
 <a id="n-t51"></a>
 ## N-T51 — terminology / usage record
 
@@ -2078,6 +2086,8 @@ Current golden-source updates: No new source-difference disposition attached; th
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-t65)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+**Phase D disposition, 2026-10-05 (continuation 02):** Approved P2 extract/residue distinction in the reviewed elemental sequence. The historical refined-part/turbid-part proposal is superseded here by the adopted extract/residue treatment. The separate mdangs and gzi mdangs proposals are not thereby approved or equated with gdangs/radiance. [Current review and scope](REVIEW.md#phase-d-notes-02).
 
 <a id="n-t66"></a>
 ## N-T66 — terminology / usage record

@@ -1,7 +1,7 @@
 <a id="phase-d-review"></a>
 # Post-translation review — current working text
 
-**Task:** POST_TRANSLATION_REVIEW · **Mode:** review-and-revise · **Session:** DTG-PD-20261005-Astra-01 · **Reviewer:** GPT-6 Astra Pro, this review session, distinct from the September 26 authoring run and October 1 source-reconciliation coordinator. Review of the input is independent of those runs; checks of this session's repairs are self-checks, not a second independent review or human certification.
+**Task:** POST_TRANSLATION_REVIEW · **Mode:** review-and-revise · **Active continuation:** DTG-PD-20261005-Astra-02 · **Original review session:** DTG-PD-20261005-Astra-01 · **Reviewer:** GPT-6 Astra Pro, this review session, distinct from the September 26 authoring run and October 1 source-reconciliation coordinator. Review of the input is independent of those runs; checks of this session's repairs are self-checks, not a second independent review or human certification.
 
 **Authority:** the owner's explicit October 5, 2026 assignment authorizes the smallest supported English and translation-note repairs in this repository only. No fresh translation, stylistic rewrite, Tibetan emendation, segmentation change, new shared glossary assignment, release or tag movement is authorized.
 
@@ -68,7 +68,7 @@ File/source order, not numerical ID order, governs. Chapter 1 includes the title
 <!-- phase-d-coverage-start -->
 | Part | Expected pairs | Expected source-ordered range | Actually semantically reviewed | Status |
 |---|---:|---|---:|---|
-| chapter-01 | 1199 | DTG-000001 → DTG-001192 | 200 (ordinals 1–200; through DTG-000197) | In progress |
+| chapter-01 | 1199 | DTG-000001 → DTG-001192 | 300 (ordinals 1–300; through DTG-000297) | In progress |
 | chapter-02 | 543 | DTG-001193 → DTG-001735 | 0 | Not started |
 | chapter-03 | 354 | DTG-001736 → DTG-002089 | 0 | Not started |
 | chapter-04 | 237 | DTG-002090 → DTG-002326 | 0 | Not started |
@@ -682,6 +682,553 @@ Repeated findings PD-T01/02/06/07 extend only to the individually checked locati
 **Active-note reconciliation queued in this same package:** N-T11's literal-only ru shan proposal is not adopted; N-T16's vital-essence label is superseded by P2 only within its approved scope; N-T23's authoritative-transmission label is superseded by transmission; N-T50's pledge proposal by sacred pledge; and the dwangs ma/extract part of N-T65 by P2. N-T65's mdangs/gzi mdangs question remains separate. Subsequent whole-work usage integration will append current dispositions without editing original approval history. No new shared label is activated by these notes. Source-ordered review continues at ordinal 201, DTG-000198.
 
 
+
+<a id="phase-d-resumption-02"></a>
+### Resumption 02 — recovery and input verification
+
+Active continuation identity: **DTG-PD-20261005-Astra-02**, GPT-6 Astra Pro; original Phase D reviewer/session: **DTG-PD-20261005-Astra-01**. Both are distinct from the authoring/source-reconciliation runs. The earlier 200-pair review and self-check statements are retained as that session's records, not redescribed as a fresh semantic review by this continuation.
+
+At resumption the review branch was at `673ee0e57a93057934c9caf88fcc012794f4f71a` with four unfinished modified files. They were preserved before synchronization on `recovery/phase-d-interrupted-20261005-0728`, commit **`ced6486c83555d236e7e41ac1e854044f79ab738`**, pushed and independently matched to the remote branch ref. The review branch was then fast-forwarded to that preservation commit. No other branch/worktree, stash or tag was rewritten. Remote main remains the frozen input `fc3a443ba5987efb0b132990bf131a236fa57320`.
+
+Resumed English input: `ced6486c83555d236e7e41ac1e854044f79ab738`; `paired/translation.md` SHA-256 `f2f2295a543a85e1e62ae438c684c531e9d82990c1fd85282507a71876e3c18b`. The full active standard and glossary were read again; AGENTS, status, handoff, decisions, local format and source provenance were reread. Recomputed source, golden JSON, policy, format/lineage hashes match the freeze table. CSV parsing confirms 283 data rows and eight columns. Exact replay of the existing 42 recorded pair operations reproduces all 2,667 current English pair payloads, with 38 changed pairs. This is a reproducibility check, not a second semantic certification. Read-only `paired/validate.py` again fails at the same pre-existing protected-glossary contract before any new English repair.
+
+<a id="phase-d-batch-03"></a>
+### Batch 03 — source ordinals 201–300
+
+**Read coverage:** all 100 pairs DTG-000198–DTG-000297, in actual source order, with continued clauses and the 17 newly encountered legacy/reconciliation notes. Related N-026 and the five queued legacy terminology notes were reread. Current source-correction notes at U00534, U00542, U00578, U00594 and U00596 were checked before considering old criticisms. **Evidence was saved before application. All 20 scoped English operations in 19 pairs and 11 source-linked review-note insertions are now applied and self-checked.**
+
+Repeated finding families retain their previous rationale and severity/confidence: PD-T01 literary tantra, T02 cyclic existence, T06 mandala, T09 key point, T10 matter and T16 transmission. T10 here includes the attested shortened བེམ in its explicit contrast with རིག་བཅས; this is a locally supported short form, not a new shared row.
+
+| Finding | Evidence / minimal repair | Severity | Confidence |
+|---|---|---|---|
+| PD-S03 | DTG-000200 has gnad in both lines. Keep both occurrences visible while applying key point; preserve the existing passive and the following realization condition. | Medium | High |
+| PD-S04 | DTG-000220 marks mkhas pa with -s, not a beneficiary marker. Represent the skilled as the agent of completing the rite, consistent with the clear mkhas pas agent at DTG-000293; add no named person. | Medium | High for the case relationship; ordinary agent/instrument nuance does not name a new referent |
+| PD-S05 | DTG-000267 explicitly has drug 'das, as does the parallel distance construction at DTG-000263. Restore beyond rather than assert exactly six worlds away; retain below and do not infer an unexpressed seventh world. | Medium | High |
+| PD-E02 | DTG-000296 mixes an imperative with one's/oneself. Use your/yourself for the same generic addressee; preserve both reflexive/possessive occurrences and the instruction. | Low | High |
+| PD-T18 | MTshan nyid receives characteristic(s); DTG-000235/000293 do not themselves supply a definition justifying the extra defining. DTG-000198 does give the no-return/exhaustion criterion and is retained. | Low | Moderate-high; scope is these constructions, not a blanket deletion |
+| PD-T19 | Standalone zhing khams in the eightfold list and thirteen-realm introduction receives realms, not buddha-fields. No materially active field metaphor or separately written qualification appears in these two expressions. | Medium | High for the default; descriptive realm-name interpretations remain provisional |
+| PD-T20 | DTG-000271's by-rgyan construction receives the transparent adorn-family verb. This does not force the same technical identity on the distinct ordinary spras decorations nearby. | Low | High |
+| PD-N02 | Link exact unresolved constructions and the matter/knowing qualification to this report in the commentary layer, without inserting an interpretation into root prose. | Documentation | High for link scope, no claim of resolved syntax |
+
+<!-- phase-d-batch-03 -->
+```json
+[
+  {
+    "pair": "DTG-000198",
+    "golden": [
+      "U00380",
+      "U00381",
+      "U00382"
+    ],
+    "tibetan": "ཁམས་གསུམ་འཁོར་བའི་རྒྱུན་བཅད་ནས། །\nཕྱི་ཕྱིར་ལྡོག་པ་མེད་པ་ཡིས། །\nཟད་པའི་མཚན་ཉིད་ཤེས་པའོ། །",
+    "before": "samsara",
+    "after": "cyclic existence",
+    "finding": "PD-T02",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000199",
+    "golden": [
+      "U00383",
+      "U00384"
+    ],
+    "tibetan": "དམིགས་པས་ཡུལ་གྱི་བློ་རྣམས་ལ། །\nརྒྱུད་ཀྱི་གཞུང་རྣམས་རྣམ་ཕྱེ་སྟེ། །",
+    "before": "texts of the continua",
+    "after": "texts of the tantras",
+    "finding": "PD-T01",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000200",
+    "golden": [
+      "U00385",
+      "U00386"
+    ],
+    "tibetan": "གང་ལ་གང་མོས་ངེས་པའི་གནད། །\nརེ་རེ་དག་ལ་གནད་བཙུགས་ནས། །",
+    "before": "The definitive crucial point corresponding to each inclination\nis applied to each one individually.",
+    "after": "The definitive key point corresponding to each inclination\nis applied as a key point to each one individually.",
+    "finding": "PD-T09/PD-S03",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000201",
+    "golden": [
+      "U00387",
+      "U00388"
+    ],
+    "tibetan": "འབྲལ་བ་མེད་པར་ཡོངས་རྟོགས་ན། །\nའཁོར་བ་དག་ལ་གནས་པ་མིན། །",
+    "before": "samsara",
+    "after": "cyclic existence",
+    "finding": "PD-T02",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000203",
+    "golden": [
+      "U00392",
+      "U00393"
+    ],
+    "tibetan": "དགོངས་པའི་གནད་དོན་མན་ངག་ནི། །\nསོ་སོའི་སྐབས་དང་ཤེས་པར་བྱའོ། །",
+    "before": "crucial points",
+    "after": "key points",
+    "finding": "PD-T09",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000205",
+    "golden": [
+      "U00395",
+      "U00396",
+      "U00397",
+      "U00398"
+    ],
+    "tibetan": "རྒྱུད་ཀྱི་རྒྱལ་པོ་འདི་ཉིད་ཀྱིས།།\nངེས་པའི་མཚན་གྱི་རྣམ་གྲངས་ལ། །\nབསྟན་ནས་རྫོགས་དོན་མན་ངག་ནི། །\nཚིག་ཙམ་ངེས་པར་བརྟགས་ཕྱེ་སྟེ། །",
+    "before": "king of continua",
+    "after": "king of tantras",
+    "finding": "PD-T01",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000206",
+    "golden": [
+      "U00399",
+      "U00400",
+      "U00401",
+      "U00402"
+    ],
+    "tibetan": "འབྲུ་རྣམས་དོན་དང་མཐུན་པར་ཡང༌། །\nདོན་གྱི་ངོ་ལ་འདི་ལྟར་སྐྱེལ། །\nསྒྲ་ཡི་བརྗོད་པ་འདི་ལྟ་བུ། །\nརྒྱུད་རྣམས་གཞན་དུ་མ་བཤད་པས། །",
+    "before": "other continua",
+    "after": "other tantras",
+    "finding": "PD-T01",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000220",
+    "golden": [
+      "U00439"
+    ],
+    "tibetan": "མཁས་པས་ཆོ་ག་རྫོགས་པའོ། །",
+    "before": "For the skilled, the rite is complete.",
+    "after": "The rite is completed by the skilled.",
+    "finding": "PD-S04",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000225",
+    "golden": [
+      "U00455",
+      "U00456",
+      "U00457",
+      "U00458",
+      "U00459",
+      "U00460",
+      "U00461"
+    ],
+    "tibetan": "འདས་དང་མ་འོངས་ད་ལྟར་གྱི། །\nསྟོན་པ་སངས་རྒྱས་བཅོམ་ལྡན་འདས། །\nདབྱངས་གཅིག་གིས་ནི་དཀྱིལ་འཁོར་དུ། །\nསྐལ་བ་ཅན་གྱི་སྣང་བ་ལ། །\nདབང་པོ་དྲུག་གི་རྣམ་དག་པས། །\nབཅུ་བཅུ་ཡི་ནི་སྐུ་གསུམ་ལས། །\nཁྱད་པར་སྤྲུལ་པའི་སྐུ་ལས་འཕྲོས། །",
+    "before": "maṇḍala",
+    "after": "mandala",
+    "finding": "PD-T06",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000234",
+    "golden": [
+      "U00481",
+      "U00482",
+      "U00483",
+      "U00484"
+    ],
+    "tibetan": "འབྱུང་བ་ལྔ་ལ་སྤྱོད་ནུས་དང༌། །\nམཚོན་དང་དུག་ལས་རྒྱལ་བ་དང༌། །\nབེམ་དང་རིག་བཅས་སྒྲ་རྣམས་དང༌། །\nབརྡའ་དང་ཐ་སྙད་ལ་མཁས་འགྱུར། །",
+    "before": "the sounds of the insentient and the aware",
+    "after": "the sounds of matter and the aware",
+    "finding": "PD-T10",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000235",
+    "golden": [
+      "U00485",
+      "U00486"
+    ],
+    "tibetan": "མདོར་ན་དགོས་པའི་བསྟན་བཅོས་དང༌། །\nབཀའ་ཡི་མཚན་ཉིད་ཤེས་པར་འགྱུར། །",
+    "before": "defining characteristics",
+    "after": "characteristics",
+    "finding": "PD-T18",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000240",
+    "golden": [
+      "U00493",
+      "U00494",
+      "U00495",
+      "U00496",
+      "U00497"
+    ],
+    "tibetan": "ཐལ་བའི་གནས་ནི་རྣམ་པ་བརྒྱད། །\nའཇིག་རྟེན་ཁམས་དང་ཞིང་ཁམས་དང་། །\nདམ་བཅའ་སྐྱོན་དང་སྐྱོན་གནས་དང་། །\nའཕེན་པའི་ལས་དང་སྦྱོར་བ་དང་། །\nགྲགས་དང་སོང་བའི་གནད་དང་བརྒྱད། །",
+    "before": "buddha-fields",
+    "after": "realms",
+    "finding": "PD-T19",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000240",
+    "golden": [
+      "U00493",
+      "U00494",
+      "U00495",
+      "U00496",
+      "U00497"
+    ],
+    "tibetan": "ཐལ་བའི་གནས་ནི་རྣམ་པ་བརྒྱད། །\nའཇིག་རྟེན་ཁམས་དང་ཞིང་ཁམས་དང་། །\nདམ་བཅའ་སྐྱོན་དང་སྐྱོན་གནས་དང་། །\nའཕེན་པའི་ལས་དང་སྦྱོར་བ་དང་། །\nགྲགས་དང་སོང་བའི་གནད་དང་བརྒྱད། །",
+    "before": "crucial point",
+    "after": "key point",
+    "finding": "PD-T09",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000243",
+    "golden": [
+      "U00503",
+      "U00504",
+      "U00505",
+      "U00506"
+    ],
+    "tibetan": "ཞིང་ཁམས་རྣམ་པ་བཅུ་གསུམ་ལ། །\nའདི་ནས་འཇིག་རྟེན་འོག་ན་ནི། །\nཐལ་བའི་དབྱངས་ཞེས་བྱ་བའི་ཡུལ། །\nརྒྱ་ཁྱོན་དཔག་དཀའ་རབ་ཏུ་མཛེས། །",
+    "before": "buddha-fields",
+    "after": "realms",
+    "finding": "PD-T19",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000267",
+    "golden": [
+      "U00560",
+      "U00561"
+    ],
+    "tibetan": "འདི་ནས་འཇིག་རྟེན་ལྷོ་ནུབ་གཡས། །\nདྲུག་འདས་འོག་ན་ཐལ་བའི་རླུང་། །",
+    "before": "six worlds away and below",
+    "after": "beyond six worlds and below",
+    "finding": "PD-S05",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000271",
+    "golden": [
+      "U00567",
+      "U00568",
+      "U00569",
+      "U00570",
+      "U00571"
+    ],
+    "tibetan": "དེ་སྟེང་བཅུ་གསུམ་བརྩེགས་པ་ན། །\nརིན་ཆེན་ཐལ་བ་ཞེས་བྱ་ན། །\nབཀྲ་ཤིས་ཉི་མ་རྣམས་ཀྱིས་སྤྲས། །\nའདོད་པའི་ཡོན་ཏན་རྣམས་ཀྱིས་བརྒྱན། །\nའཕྲུལ་གྱི་རི་མོ་ཡི་གེ་མཛེས། །",
+    "before": "ornamented with",
+    "after": "adorned with",
+    "finding": "PD-T20",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000281",
+    "golden": [
+      "U00595"
+    ],
+    "tibetan": "སྟོན་པའི་བསྟན་པ་ལུང་གིས་བསྐོར། །",
+    "before": "authoritative transmissions",
+    "after": "transmissions",
+    "finding": "PD-T16",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000285",
+    "golden": [
+      "U00601",
+      "U00602",
+      "U00603"
+    ],
+    "tibetan": "རང་འདོད་ངེས་པར་སྐྱོལ་བ་ནི། །\nལུང་དང་རིགས་པ་མན་ངག་གིས། །\nསྐྱོན་བསལ་བསྒྲུབ་དང་འགལ་བ་སྤང་། །",
+    "before": "authoritative transmission",
+    "after": "transmission",
+    "finding": "PD-T16",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000293",
+    "golden": [
+      "U00612"
+    ],
+    "tibetan": "མཁས་པས་མཚན་ཉིད་རྫོགས་ཀྱིས་སྦྱར། །",
+    "before": "defining characteristics",
+    "after": "characteristics",
+    "finding": "PD-T18",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000296",
+    "golden": [
+      "U00615"
+    ],
+    "tibetan": "རང་སྐྱོན་རང་གིས་ཤེས་བྱས་ལ། །",
+    "before": "Know one's own faults oneself.",
+    "after": "Know your own faults yourself.",
+    "finding": "PD-E02",
+    "kind": "translation"
+  },
+  {
+    "pair": "DTG-000199",
+    "golden": [
+      "U00383",
+      "U00384"
+    ],
+    "tibetan": "དམིགས་པས་ཡུལ་གྱི་བློ་རྣམས་ལ། །\nརྒྱུད་ཀྱི་གཞུང་རྣམས་རྣམ་ཕྱེ་སྟེ། །",
+    "before": "For conceptual minds that focus on objects,\nthe texts of the tantras are distinguished.\n\nEarlier notes: [N-026](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-026).",
+    "after": "For conceptual minds that focus on objects,\nthe texts of the tantras are distinguished.\n\nEarlier notes: [N-026](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-026).\n\nReview note: [Construction provisional](../translations/2026-10-01-golden-aligned/REVIEW.md#pd-q03-01).",
+    "finding": "PD-N02",
+    "kind": "review-link"
+  },
+  {
+    "pair": "DTG-000227",
+    "golden": [
+      "U00464",
+      "U00465"
+    ],
+    "tibetan": "གནས་དང་འབྱེད་དང་གནས་བཅུད་ཡུལ། །\nཐོབ་ཅིང་མཐོང་རྟོགས་ངེས་འཇུག་པའོ། །",
+    "before": "The sites, distinctions, and domains of their vital cores [N-029](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-029)\nare attained, and one assuredly enters seeing and realization.\n\nEarlier notes: [N-029](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-029).",
+    "after": "The sites, distinctions, and domains of their vital cores [N-029](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-029)\nare attained, and one assuredly enters seeing and realization.\n\nEarlier notes: [N-029](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-029).\n\nReview note: [Construction provisional](../translations/2026-10-01-golden-aligned/REVIEW.md#pd-q03-02).",
+    "finding": "PD-N02",
+    "kind": "review-link"
+  },
+  {
+    "pair": "DTG-000238",
+    "golden": [
+      "U00491"
+    ],
+    "tibetan": "རྒྱུད་ལ་ངེས་པའི་འཕྲུལ་འབྱེད་ཕྱེ། །",
+    "before": "The distinguishing magic definitive for the continuum is set apart.",
+    "after": "The distinguishing magic definitive for the continuum is set apart.\n\nReview note: [Construction provisional](../translations/2026-10-01-golden-aligned/REVIEW.md#pd-q03-03).",
+    "finding": "PD-N02",
+    "kind": "review-link"
+  },
+  {
+    "pair": "DTG-000248",
+    "golden": [
+      "U00519",
+      "U00520",
+      "U00521"
+    ],
+    "tibetan": "འོད་དང་ཁ་དོག་ངེས་གསལ་ཞིང་། །\nསྟོན་པའི་བསྟན་པ་འདུལ་བའི་ཞིང་། །\nསོ་སོའི་ལས་དང་མཚན་བཅས་པའོ། །",
+    "before": "Its light and colors are definitely clear;\nit is a field where the teacher's teaching trains beings,\neach with their own karma and characteristics.",
+    "after": "Its light and colors are definitely clear;\nit is a field where the teacher's teaching trains beings,\neach with their own karma and characteristics.\n\nReview note: [Construction provisional](../translations/2026-10-01-golden-aligned/REVIEW.md#pd-q03-04).",
+    "finding": "PD-N02",
+    "kind": "review-link"
+  },
+  {
+    "pair": "DTG-000252",
+    "golden": [
+      "U00529",
+      "U00530"
+    ],
+    "tibetan": "སྟོན་པའི་བསྟན་པ་འདུ་མཆེད་རྒྱས། །\nབསྐལ་པ་རྫོགས་པས་ཐལ་ཞེས་བྱའོ། །",
+    "before": "The sources of the teacher's teaching expand;\nwith the age complete, it is called Penetration.",
+    "after": "The sources of the teacher's teaching expand;\nwith the age complete, it is called Penetration.\n\nReview note: [Construction provisional](../translations/2026-10-01-golden-aligned/REVIEW.md#pd-q03-05).",
+    "finding": "PD-N02",
+    "kind": "review-link"
+  },
+  {
+    "pair": "DTG-000258",
+    "golden": [
+      "U00543"
+    ],
+    "tibetan": "སྒྲ་དབྱངས་སྣ་ཚོགས་འབྱུང་བའི་གཞི། །",
+    "before": "It is the Ground from which diverse sounds and melodies arise.",
+    "after": "It is the Ground from which diverse sounds and melodies arise.\n\nReview note: [Construction provisional](../translations/2026-10-01-golden-aligned/REVIEW.md#pd-q03-06).",
+    "finding": "PD-N02",
+    "kind": "review-link"
+  },
+  {
+    "pair": "DTG-000244",
+    "golden": [
+      "U00507",
+      "U00508",
+      "U00509",
+      "U00510"
+    ],
+    "tibetan": "རྒྱུ་དང་རྐྱེན་དང་རང་བཞིན་དང༌། །\nསྟོན་པའི་བསྟན་པ་དེ་ཡི་འཁོར། །\nསྟེང་དང་འོག་དང་ཕྱོགས་མཚམས་སུ། །\nཆུ་ཞེང་ཉམས་དགའ་བཀོད་ལེགས་སྤྲས། །",
+    "before": "Its causes, conditions, and intrinsic nature,\nthe teacher's teaching and its retinue,\nabove, below, and in the directions and intermediate directions—\nits length and breadth are pleasing, well-arrayed and adorned.\n\nEarlier notes: [N-032](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-032).",
+    "after": "Its causes, conditions, and intrinsic nature,\nthe teacher's teaching and its retinue,\nabove, below, and in the directions and intermediate directions—\nits length and breadth are pleasing, well-arrayed and adorned.\n\nEarlier notes: [N-032](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-032).\n\nReview note: [Construction provisional](../translations/2026-10-01-golden-aligned/REVIEW.md#pd-q03-07).",
+    "finding": "PD-N02",
+    "kind": "review-link"
+  },
+  {
+    "pair": "DTG-000276",
+    "golden": [
+      "U00587",
+      "U00588"
+    ],
+    "tibetan": "སྟོན་པ་ཉིད་དང་བསྟན་པ་དང་། །\nདེ་ཡི་འཁོར་དང་ལོངས་སྤྱོད་རྫོགས། །",
+    "before": "The teacher and the teaching,\nits retinue and enjoyments, are complete.",
+    "after": "The teacher and the teaching,\nits retinue and enjoyments, are complete.\n\nReview note: [Construction provisional](../translations/2026-10-01-golden-aligned/REVIEW.md#pd-q03-07).",
+    "finding": "PD-N02",
+    "kind": "review-link"
+  },
+  {
+    "pair": "DTG-000207",
+    "golden": [
+      "U00403"
+    ],
+    "tibetan": "ཨེ་མ་ངོ་མཚར་ཆེ་བ་ཉིད། །",
+    "before": "Ema! How greatly wonderful!",
+    "after": "Ema! How greatly wonderful!\n\nReview note: [Short exclamation remains provisional](../translations/2026-10-01-golden-aligned/REVIEW.md#phase-d-batch-03-dispositions).",
+    "finding": "PD-N02",
+    "kind": "review-link"
+  },
+  {
+    "pair": "DTG-000111",
+    "golden": [
+      "U00228"
+    ],
+    "tibetan": "རིག་བཅས་བེམ་པོའི་བྱེ་བྲག་གང༌། །",
+    "before": "What distinguishes the aware from matter?",
+    "after": "What distinguishes the aware from matter?\n\nReview note: [Matter and awareness](../translations/2026-10-01-golden-aligned/REVIEW.md#phase-d-matter-note).",
+    "finding": "PD-N02",
+    "kind": "review-link"
+  },
+  {
+    "pair": "DTG-000234",
+    "golden": [
+      "U00481",
+      "U00482",
+      "U00483",
+      "U00484"
+    ],
+    "tibetan": "འབྱུང་བ་ལྔ་ལ་སྤྱོད་ནུས་དང༌། །\nམཚོན་དང་དུག་ལས་རྒྱལ་བ་དང༌། །\nབེམ་དང་རིག་བཅས་སྒྲ་རྣམས་དང༌། །\nབརྡའ་དང་ཐ་སྙད་ལ་མཁས་འགྱུར། །",
+    "before": "One can act upon the five elements,\nprevails over weapons and poison,\nand becomes skilled in the sounds of matter and the aware,\nin signs and conventions.\n\nEarlier notes: [N-T03](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t03).",
+    "after": "One can act upon the five elements,\nprevails over weapons and poison,\nand becomes skilled in the sounds of matter and the aware,\nin signs and conventions.\n\nEarlier notes: [N-T03](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t03).\n\nReview note: [Matter and awareness](../translations/2026-10-01-golden-aligned/REVIEW.md#phase-d-matter-note).",
+    "finding": "PD-N02",
+    "kind": "review-link"
+  }
+]
+```
+<!-- /phase-d-batch-03 -->
+
+<a id="phase-d-batch-03-dispositions"></a>
+**Important no-change cases:** DTG-000214's personal continuum is not a tantra title. DTG-000221/000237 preserve the established word-and-meaning compound despite neighboring acoustic sound passages; the five acoustic occasions and water sounds support sound in their own constructions. DTG-000202's accomplishment is bsgrub, not dngos grub. DTG-000216's rnam shes is a finite knowing construction, not mechanically the consciousness noun. DTG-000230's body of Vajradhara preserves lus, not an invented embodiment; its proper name is the approved rdo rje 'chang. DTG-000261 already retains object of focus and intrinsic nature. The complete sources do not authorize turning all ordinary moving/decorating verbs into technical glossary nouns. The numerical schemes and logical imagery remain literal and ordered: no four reasons are changed to three; DTG-000292 and DTG-000297 deliberately preserve their different source orders for assertion/proof/reason. The already separated pleasant-region and naga-face variant notes are not current source-layer defects. No empty graphic or missing passage is fabricated.
+
+**Retained linked questions:** N-027's All-Pervader numbers/side-locks/grouping; N-028's hero/hero-goer, neutral member and counts; N-029's six/tens/three and compact final list; N-030's technical-science/archery/thal-yig treatment; N-031's eightfold parsing; N-032's thirteen ordered names, relative directions and opaque counts; N-034's lda-ldi, mer mer po and awnings; and N-036's proof/fortress/wheel relation remain open. The thirteen introduced names were read in order from Melody of Penetration through Star Penetration; descriptive English names, including Sound of Penetration, are not newly approved proper-name defaults. N-T19 higher knowing and N-T21 logical consequence remain shared-label proposals; the logical construction at DTG-000291 is locally supported by assertions, reasons and debate, not a global replacement of penetration. Exact short ཨེ་མ at DTG-000207 continues the existing short-exclamation question (DTG-000069/000155/000195); it is not silently expanded to ཨེ་མ་ཧོ or assigned that whole-expression default.
+
+<a id="phase-d-matter-note"></a>
+**Matter and awareness:** At DTG-000111 and DTG-000234 the approved matter label denotes the material/non-knowing side of the stated contrast with the aware. It does not mean immobile/dead, does not assert that karmic beings lack material bodies, and does not replace every body, entity or being expression. Elemental sounds in the surrounding account make the sound-of-matter construction intelligible without adding insentient to the technical label.
+
+<a id="pd-q03-01"></a>
+#### PD-Q03-01 — The dmigs pas / yul gyi blo audience construction
+
+Retain the linked N-026 working construction rather than force object of focus into an unparsed clause. The instrumental/relational function of དམིགས་པས and its connection to ཡུལ་གྱི་བློ require resolution. Nominal object-of-focus versus a finite focusing construction remains open; the clear literary tantra repair does not settle it. A constructional parallel or an explicit explanation of the two contrasted audiences would settle the attachment.
+
+**DTG-000199 / U00383 U00384**
+
+Tibetan: `དམིགས་པས་ཡུལ་གྱི་བློ་རྣམས་ལ། །` / `རྒྱུད་ཀྱི་གཞུང་རྣམས་རྣམ་ཕྱེ་སྟེ། །`
+
+English before this batch (provisional):
+
+> For conceptual minds that focus on objects,
+> the texts of the continua are distinguished.
+
+<a id="pd-q03-02"></a>
+#### PD-Q03-02 — gnas bcud yul and the scope of bcud
+
+N-029's vital cores is not a newly approved label. Quintessence is approved only in its recorded scope; contents/inhabitants is a different authorized construction. The compact གནས་བཅུད་ཡུལ does not yet establish which relation/sense applies. Retain the existing linked provisional list, not a reconstruction from components. A referent-identifying explanation of the sites, distinctions and domains would settle this.
+
+**DTG-000227 / U00464 U00465**
+
+Tibetan: `གནས་དང་འབྱེད་དང་གནས་བཅུད་ཡུལ། །` / `ཐོབ་ཅིང་མཐོང་རྟོགས་ངེས་འཇུག་པའོ། །`
+
+English before this batch (provisional):
+
+> The sites, distinctions, and domains of their vital cores [N-029](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-029)
+> are attained, and one assuredly enters seeing and realization.
+
+<a id="pd-q03-03"></a>
+#### PD-Q03-03 — rgyud in the concluding magic clause
+
+Retain continuum provisionally. Unlike the explicit texts/titles at DTG-000199/000205/000206, this clause can concern either an individual's continuum or this tantra's distinctive efficacy. Proximity to a title is insufficient under P1. An unambiguous referent or internal parallel would settle it.
+
+**DTG-000238 / U00491**
+
+Tibetan: `རྒྱུད་ལ་ངེས་པའི་འཕྲུལ་འབྱེད་ཕྱེ། །`
+
+English before this batch (provisional):
+
+> The distinguishing magic definitive for the continuum is set apart.
+
+<a id="pd-q03-04"></a>
+#### PD-Q03-04 — Training field, implied beings and possession
+
+The working English makes the teaching train beings and assigns individual karma/characteristics to them. The source instead compactly juxtaposes the teacher's teaching, a training field, and individual las/mtshan. Beings are not overtly named. A nominal training-field description and attachment of las/mtshan to the field/teaching are alternatives. Retain only as a visibly linked provisional construction; do not silently invent a new agent or substitute discipline as a textual-category label. An explicit constructional parallel for the repeated realm descriptions would settle the subject and modifiers.
+
+**DTG-000248 / U00519 U00520 U00521**
+
+Tibetan: `འོད་དང་ཁ་དོག་ངེས་གསལ་ཞིང་། །` / `སྟོན་པའི་བསྟན་པ་འདུལ་བའི་ཞིང་། །` / `སོ་སོའི་ལས་དང་མཚན་བཅས་པའོ། །`
+
+English before this batch (provisional):
+
+> Its light and colors are definitely clear;
+> it is a field where the teacher's teaching trains beings,
+> each with their own karma and characteristics.
+
+<a id="pd-q03-05"></a>
+#### PD-Q03-05 — The exact expanded form du mched
+
+The English sources treats འདུ་མཆེད as a nominal source-expression. Gathering/proliferation or another complete construction is not excluded by the present clause. No spelling change to another headword, component-built glossary equivalent, or independently approved source-family default is justified. A lexical/constructional parallel or later explicit explanation would settle this; retain the working treatment as provisional.
+
+**DTG-000252 / U00529 U00530**
+
+Tibetan: `སྟོན་པའི་བསྟན་པ་འདུ་མཆེད་རྒྱས། །` / `བསྐལ་པ་རྫོགས་པས་ཐལ་ཞེས་བྱའོ། །`
+
+English before this batch (provisional):
+
+> The sources of the teacher's teaching expand;
+> with the age complete, it is called Penetration.
+
+<a id="pd-q03-06"></a>
+#### PD-Q03-06 — Technical Ground versus a support/origin
+
+The described realm is the གཞི from which sounds and melodies arise. P1 approves capitalization only for an identified technical Ground; it does not decide this support/origin construction. Retain the current capitalized wording provisionally, not as proof of that identification. An explicit identification with the technical Ground or a clear ordinary-support parallel would settle the case.
+
+**DTG-000258 / U00543**
+
+Tibetan: `སྒྲ་དབྱངས་སྣ་ཚོགས་འབྱུང་བའི་གཞི། །`
+
+English before this batch (provisional):
+
+> It is the Ground from which diverse sounds and melodies arise.
+
+<a id="pd-q03-07"></a>
+#### PD-Q03-07 — The possessor in de yi khor
+
+The repeated དེ་ཡི་འཁོར follows teacher/teaching descriptions. Its can refer to the realm or teaching in English, while his/the teacher's is another possible construal. Tibetan de yi alone does not resolve the antecedent. Do not silently impose a personal possessor merely because it is more conventional. Retain with N-032 and this question until a clear antecedent or parallel settles it.
+
+**DTG-000244 / U00507 U00508 U00509 U00510**
+
+Tibetan: `རྒྱུ་དང་རྐྱེན་དང་རང་བཞིན་དང༌། །` / `སྟོན་པའི་བསྟན་པ་དེ་ཡི་འཁོར། །` / `སྟེང་དང་འོག་དང་ཕྱོགས་མཚམས་སུ། །` / `ཆུ་ཞེང་ཉམས་དགའ་བཀོད་ལེགས་སྤྲས། །`
+
+English before this batch (provisional):
+
+> Its causes, conditions, and intrinsic nature,
+> the teacher's teaching and its retinue,
+> above, below, and in the directions and intermediate directions—
+> its length and breadth are pleasing, well-arrayed and adorned.
+
+**DTG-000276 / U00587 U00588**
+
+Tibetan: `སྟོན་པ་ཉིད་དང་བསྟན་པ་དང་། །` / `དེ་ཡི་འཁོར་དང་ལོངས་སྤྱོད་རྫོགས། །`
+
+English before this batch (provisional):
+
+> The teacher and the teaching,
+> its retinue and enjoyments, are complete.
+
+<a id="phase-d-notes-02"></a>
+**Queued note-status reconciliation:** append, without rewriting historical proposals, the current dispositions for N-T11 (retain secret preliminary and the separate phyed predicate at DTG-000127; later reply still to be checked), N-T16 (P2 quintessence in the nourishment context, whole bcud kyis len pa construction still provisional), N-T23 (P2 transmission without unsupported authoritative), N-T50 (P2 sacred pledge, distinct from sdom pa), and N-T65 (P2 pure extract/residue in the reviewed elemental contrast, without settling mdangs/gzi mdangs). These are policy applications in recorded occurrences, not local new shared assignments. The five current dispositions are now appended in LEGACY-NOTES.md and USAGES.json; the historical source notes/proposals remain unchanged.
+
 <!-- phase-d-findings -->
 
 <a id="phase-d-verification"></a>
@@ -708,17 +1255,21 @@ A bundled command was blocked before execution; the individual commands above we
 
 **Batch 02 repair self-check (same reviewer):** all 23 newly changed pairs and the corrected source-annotation sentence were reread against their complete Tibetan strings. Both members of the cyclic-existence/sorrow and sacred-pledge/vow contrasts remain; the aware/matter question preserves the knowing contrast without asserting that bodies are immaterial. The literary title/exposition context supports the scoped tantra occurrences, including the earlier question at DTG-000023; this resolves that Batch 01 question without generalizing all rgyud. The incomplete short Ema and other linked construction limits remain. No new agent, causal clause, numeral, negation or possession was introduced by the label repairs. The secret-preliminary and tenet-system constructions remain subject to the recorded later-reply comparison rather than an unqualified whole-work approval. Actual integrity replay passes all 42 recorded pair operations across 38 distinct pairs, the single note operation, unchanged fixed source and 2,667 IDs/order, unchanged per-pair old note associations, and all 685 current local-link targets. Historical annotation English remains visible alongside the current correction. Deferred legacy-status integration is explicitly listed in the batch disposition, not reported as already done.
 
+**Batch 03 actual verification (continuation 02; repair self-check, not another independent review):** all revised clauses were reread against the exact Tibetan and full glossary rows, including necessary surrounding pairs. The complete revised English span DTG-000197–DTG-000297 was read continuously from the canonical file after application. Both key-point occurrences, the skilled agent/instrument, the beyond-six/below relationship, and the generic reflexive addressee remain source-supported. No numeral, negation, named agent, causal relation, or embodiment/knowing component was added or lost by these repairs. The unresolved constructions remain linked, not silently certified.
+
+The actual read-only integrity check passes: replay of all **73 pair operations** (62 English repairs plus 11 review links) exactly reproduces every current pair payload from frozen main; **57 English-repair pairs / 65 changed pairs including note-only changes**. Fixed Tibetan bytes and golden hash, all **2,667** shared IDs/order/envelopes, all inherited per-pair note associations, **694** current English local link targets, and adopted policy hashes pass. Original usage records and the first six Phase D dispositions are unchanged; exactly five dated dispositions were appended. Removing only the five dated additions reproduces the prior legacy index byte-for-byte. `git diff --check` passes. Canonical English SHA-256: `ef0aecded418e6ef1e2dfdb03a9f53bfe45444cb6c185608be431d3962087c5b`. One attempted custom display command was blocked before execution; the successful canonical-file read and subsequent integrity checks, not that blocked attempt, support these results. No semantic regression fixture is claimed executed by this check.
+
 ### Canonical and generated layers
 
 `paired/translation.md` is the sole current authored English. The dated September draft and October 1 readers/JSON are historical release outputs, not separately edited current translations. `paired/MANIFEST.json` and `paired/v2/PAIR-AUDIT.json` describe the released paired import. Existing builders require exact released English and old policy inputs; rerunning them cannot silently become a post-review build. Their signed contracts, receipts and tags will not be rewritten to make revised working English appear historically signed off. Applicable builds will still be attempted and actual failures reported. Any bounded working-output integration left unsupported by the existing process will be distinguished from semantic coverage.
 
 ## Coverage versus text disposition
 
-**Current coverage:** 200/2,667 semantic pairs reviewed (source ordinals 1–200); 2,467 remain unreviewed. **Text disposition:** in review, not ready for a whole-work acceptance claim. **Applied changed pairs:** 38 (42 scoped pair repairs and 1 source-annotation note repair; note-status additions counted separately). **Unresolved questions/shared proposals:** see batch records; whole-work totals not yet established. No human certification, new release, or harmonization of the other three works is claimed.
+**Current coverage:** 300/2,667 semantic pairs reviewed (source ordinals 1–300); 2,367 remain unreviewed. **Text disposition:** in review, not ready for a whole-work acceptance claim. **Applied changed pairs:** 57 with English repairs (62 scoped operations); 65 including eight additional note-only pairs. The one source-annotation note repair, 11 new review links and legacy-status additions are counted separately. Batch 03 repairs are self-checked; full-work review remains incomplete. **Unresolved questions/shared proposals:** see batch records; whole-work totals not yet established. No human certification, new release, or harmonization of the other three works is claimed.
 
 ## Continuation
 
-Continue at source-order ordinal 201, DTG-000198, after the applied and self-checked Batch 02 repairs. Keep the original Tibetan, all stable IDs/roles/formats, notes and historic releases intact. Save review progress and small explicit commits on `review/post-translation-20261005`.
+Continue at source-order ordinal 301, DTG-000298, after the applied and self-checked Batch 03 repairs. The exact next unreviewed ranges are Chapter 1 ordinals 301–1199 and all Chapters 2–6/closing (1200–2667). Keep the original Tibetan, all stable IDs/roles/formats, notes and historic releases intact. Save review progress and small explicit commits on `review/post-translation-20261005`.
 
 ---
 
