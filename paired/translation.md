@@ -6726,7 +6726,7 @@ Earlier notes: [N-077](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-000754 -->
 The application of dependent connections has two aspects:
 accomplishing manifold miracles
-and the rites of the crucial points of the elements.
+and the rites of the key points of the elements.
 
 Earlier notes: [N-078](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-078), [N-T37](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t37).
 <!-- /pair -->
@@ -6776,7 +6776,7 @@ Earlier notes: [N-078](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000760"></a>
 
 <!-- pair: DTG-000760 -->
-The crucial points of the elements definitely produce
+The key points of the elements definitely produce
 beneficial and harmful results for oneself and others.
 
 Earlier notes: [N-078](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-078).
@@ -6871,7 +6871,7 @@ Earlier notes: [N-079](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000770 -->
 There are three actions:
-through the crucial point of body, speech,
+through the key point of body, speech,
 and likewise the abiding of ordinary mind, one is liberated.
 
 Earlier notes: [N-079](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-079).
@@ -7051,7 +7051,7 @@ Earlier notes: [N-080](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000787"></a>
 
 <!-- pair: DTG-000787 -->
-Distinguishing the elements of the crucial points:
+Distinguishing the elements of the key points:
 from four hundred and four,
 the specified entries are condensed into eighty;
 from these, twenty-four;
@@ -7067,7 +7067,7 @@ Earlier notes: [N-081](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000788 -->
 Through four pure in their own identity,
-the crucial points are gathered and definitely taught. [N-081](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-081)
+the key points are gathered and definitely taught. [N-081](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-081)
 
 Earlier notes: [N-081](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-081).
 <!-- /pair -->
@@ -7078,7 +7078,7 @@ Earlier notes: [N-081](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 When the activities of dispersal, penetration, and equalizing
 are joined to dates, months, and years
 without error,
-the crucial points, too, become definite.
+the key points, too, become definite.
 
 Earlier notes: [N-081](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-081).
 <!-- /pair -->
@@ -7092,7 +7092,7 @@ Earlier notes: [N-081](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000791"></a>
 
 <!-- pair: DTG-000791 -->
-Thus, relying on the crucial points,
+Thus, relying on the key points,
 the branches of the application of calculation are explained.
 
 Earlier notes: [N-082](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-082).
@@ -7111,7 +7111,7 @@ Earlier notes: [N-082](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-000793 -->
 Not spoken by other buddhas,
 the sequence of elemental calculation—
-relying on which one measures samsara and nirvana—
+relying on which one measures cyclic existence and transcendence of sorrow—
 listen to this utmost secret! [N-082](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-082)
 
 Earlier notes: [N-082](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-082).
@@ -7479,7 +7479,7 @@ Earlier notes: [N-085](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000831 -->
 The supremely fortunate, diligent person,
-free from the mental faculty [turned toward] samsara,
+free from the mental faculty [turned toward] cyclic existence,
 should offer to and praise the guru.
 
 Earlier notes: [N-085](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-085), [N-T43](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t43).
@@ -7556,7 +7556,7 @@ Earlier notes: [N-085](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 Thus, concerning the outer elements,
 through superior, middling, and inferior diligence,
 in days, months, and years,
-At their respective measures, [they] are accomplished through signs.
+at their respective measures, [they] are accomplished through signs.
 Thus, regarding the accomplishment of embodiment:
 the emanation embodiment and complete enjoyment embodiment,
 the dharma embodiment and the embodiment of essence itself—
@@ -7723,7 +7723,7 @@ Earlier notes: [N-086](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000857 -->
 Through completion of the rite of dependent connections,
-For transferring at the crucial point, the method of releasing
+for transferring at the key point, the method of releasing
 and the utterance of voices—through these, one should know. [N-086](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-086)
 
 Earlier notes: [N-086](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-086), [N-T37](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t37).
@@ -7750,7 +7750,7 @@ Earlier notes: [N-086](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000860"></a>
 
 <!-- pair: DTG-000860 -->
-But when accomplishment is reached,
+But when spiritual accomplishment is reached,
 through an invisible form all bodies are accomplished. [N-086](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-086)
 
 Earlier notes: [N-086](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-086).
@@ -7829,7 +7829,7 @@ Earlier notes: [N-087](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000869"></a>
 
 <!-- pair: DTG-000869 -->
-From the four elements of insentient matter,
+From the four elements of matter,
 through dependent connections that transform entities,
 with numbers, signs, and voices,
 casting the object of focus, one transfers illness and so forth.
@@ -7872,7 +7872,7 @@ Earlier notes: [N-087](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000873"></a>
 
 <!-- pair: DTG-000873 -->
-Possessing the gesture of summoning,
+By one possessing the gesture of summoning,
 food and wealth bound by miserliness
 are taken by transferring, to offer to the guru.
 
@@ -7907,8 +7907,8 @@ Earlier notes: [N-087](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000877"></a>
 
 <!-- pair: DTG-000877 -->
-Not explained in any other continuum:
-the elements' crucial points—drawing forth and reversing.
+Not explained in any other tantra:
+the elements' key points—drawing forth and reversing.
 
 Earlier notes: [N-088](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-088).
 <!-- /pair -->
@@ -7963,7 +7963,7 @@ Earlier notes: [N-088](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000883 -->
 Through the body's manifold bodily mechanisms
-and the culmination of activities of restraining through vital essences,
+and the culmination of activities of restraining through quintessence,
 draw all elemental illnesses outward.
 
 Earlier notes: [N-088](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-088).
@@ -8000,7 +8000,7 @@ Earlier notes: [N-088](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000887"></a>
 
 <!-- pair: DTG-000887 -->
-Reversal is through the crucial points of the faculties.
+Reversal is through the key points of the faculties.
 
 Earlier notes: [N-088](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-088).
 <!-- /pair -->
@@ -8044,7 +8044,7 @@ Earlier notes: [N-089](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000892"></a>
 
 <!-- pair: DTG-000892 -->
-Through their respective Grounds and faculties,
+Through their respective bases and faculties,
 the worldly and the transcendent
 are held to be two vehicles.
 
@@ -8054,10 +8054,10 @@ Earlier notes: [N-090](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000893"></a>
 
 <!-- pair: DTG-000893 -->
-The Ground is worldly;
+The basis is worldly;
 from this, there are two assertions.
 The transcendent, in terms of cause and result—
-For the cause there are three; for the result, two.
+for the cause there are three; for the result, two.
 
 [^G-A2000-C01-S03]
 
@@ -8102,7 +8102,7 @@ Earlier notes: [N-090](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000898 -->
 Through self-liberation for faculties of the simultaneous type,
-and through the crucial point of seeing in direct perception,
+and through the key point of seeing in direct perception,
 the limits of one's own tenet system dissolve.
 
 Earlier notes: [N-090](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-090).
@@ -8113,7 +8113,7 @@ Earlier notes: [N-090](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-000899 -->
 Without attachment or holding to anything,
 having tasted the authentic nature of phenomena,
-without a support for the samsara of the three realms,
+without a support for the cyclic existence of the three realms,
 like space dissolving into space itself,
 the supreme yogin, too, is like that. [N-090](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-090)
 
@@ -8296,7 +8296,7 @@ Earlier notes: [N-092](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000919 -->
 Adorned with empowerment of primordial knowing,
-one desiring accomplishment continually cultivates.
+one desiring spiritual accomplishment continually cultivates.
 
 Earlier notes: [N-092](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-092).
 <!-- /pair -->
@@ -8322,7 +8322,7 @@ Earlier notes: [N-092](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000922 -->
 Restore [this]; through the body of primordial knowing,
-repeatedly engaging in familiarity,
+when you repeatedly engage in familiarization,
 with six, seven, nine, one,
 two, three, and five,
 there is no doubt of accomplishment. [N-092](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-092)
@@ -8333,7 +8333,7 @@ Earlier notes: [N-092](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000923"></a>
 
 <!-- pair: DTG-000923 -->
-The Ray-Bearing One, who reveals accomplishments:
+The Ray-Bearing One, who reveals spiritual accomplishments:
 for her, there are three practices of accomplishment.
 
 Earlier notes: [N-092](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-092).
@@ -8389,8 +8389,8 @@ Earlier notes: [N-092](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000929"></a>
 
 <!-- pair: DTG-000929 -->
-Continually cultivating in this way,
-or relying continuously on six sessions,
+When you continually cultivate in this way,
+or rely continuously on six sessions,
 with nine, seven, and five,
 there is definitely no doubt of accomplishment. [N-092](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-092)
 
@@ -8419,7 +8419,7 @@ Earlier notes: [N-092](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000932 -->
 The yogin endowed with the rite
-imagines one's own ordinary mind abiding pure.
+imagines their own ordinary mind abiding pure.
 
 Earlier notes: [N-092](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-092).
 <!-- /pair -->
@@ -8500,7 +8500,7 @@ Earlier notes: [N-093](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-000941 -->
 Having completed the activities of the wheel,
 and with the enlightened intent of the rite complete,
-Whichever letters accord with one's aspiration—
+whichever letters accord with your aspiration—
 definitely imagine their colors, [N-093](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-093)
 and undertake the yoga of the Slayer of Death.
 
@@ -8553,7 +8553,7 @@ Earlier notes: [N-093](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000947"></a>
 
 <!-- pair: DTG-000947 -->
-For the five pledges to be guarded,
+For the five sacred pledges to be guarded,
 complete the rites.
 
 Earlier notes: [N-093](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-093), [N-T50](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t50).

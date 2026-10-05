@@ -560,6 +560,8 @@ Current golden-source updates: [G-U01627](ENDNOTES.md#g-u01627), [G-U01634](ENDN
 
 Current golden-source updates: [G-U01668](ENDNOTES.md#g-u01668), [G-U01688](ENDNOTES.md#g-u01688)
 
+**Phase D disposition, 2026-10-05 (continuation 03):** Approved gnad labels; exact construction limits retained. The two elemental accounts were compared: DTG-000763 retains its printed destroy/increase/slayer/decline/restore/equalize/confusion effects rather than being forced to match DTG-000580–000587. The rang shes row allows an ordinary possessive; the applying/knowing relation remains explicitly provisional rather than automatically becoming technical self-knowing. The three members and inquire-of-wind construction are not reconstructed. [Current review and scope](REVIEW.md#phase-d-notes-07).
+
 <a id="n-079"></a>
 ## N-079 — Illness practices / source variants / names and adverbial usage
 
@@ -595,6 +597,8 @@ Current golden-source updates: [G-U01776](ENDNOTES.md#g-u01776)
 
 Current golden-source updates: [G-U01803](ENDNOTES.md#g-u01803), [G-U01806](ENDNOTES.md#g-u01806), [G-U01811](ENDNOTES.md#g-u01811), [G-U01812](ENDNOTES.md#g-u01812), [G-U01829](ENDNOTES.md#g-u01829)
 
+**Phase D disposition, 2026-10-05 (continuation 03):** Current golden dispositions recognized; old four-million claim superseded. The actual main text correctly leaves ya bzhi unresolved; the older sa ya/four-million expansion is already withdrawn by G-U01803, not a current defect. Keep the joined thousand-years/300,000-days statement once, the separate thirty-days variant and the qualified folding/contact note. Stars, half-cycles, unqualified 180 and the source's seasonal order remain unresolved as stated; no astronomical or arithmetic repair is made. [Current review and scope](REVIEW.md#phase-d-notes-07).
+
 <a id="n-084"></a>
 ## N-084 — Omens / uncertain compound / enumerated populations
 
@@ -609,12 +613,16 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: [G-A2000-C01-S02](ENDNOTES.md#g-a2000-c01-s02), [G-U01883](ENDNOTES.md#g-u01883), [G-U01884](ENDNOTES.md#g-u01884)
 
+**Phase D disposition, 2026-10-05 (continuation 03):** Source updates and approved labels integrated; remaining constructions provisional. The current list contains four embodiments through A2000-C01-S02 and U01883–U01884, superseding the older two-only treatment. The joining predicate and qualified subjects are already separated correctly; only the mid-sentence capital is repaired. Entity is retained where present, and generic accomplishment is not automatically dngos grub. Freedom from sound remains printed, and the visible breath-cessation editorial warning remains outside the source voice. Regard/refusal, desired qualities and the fifth neuter-empty referent remain qualified. [Current review and scope](REVIEW.md#phase-d-notes-07).
+
 <a id="n-086"></a>
 ## N-086 — Entity/empty transferring / referents / source spelling
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-086)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+**Phase D disposition, 2026-10-05 (continuation 03):** Approved complete labels with material-context exception; distinct transferring scope. The entity/form and emptiness types remain distinct. Material substances at U01929 is retained in the explicit rdzas/material-offering construction, not replaced by an English substring rule. The dngos grub clause gains spiritual, but generic grub does not. The method/voices clause keeps its historically corrected order. Youthful forms is not changed to a mount reading, and spo ba transferring is not silently equated with the earlier ph o ba category. [Current review and scope](REVIEW.md#phase-d-notes-07).
 
 <a id="n-087"></a>
 ## N-087 — Transferring illness / insentient supports / restrictive condition
@@ -623,12 +631,16 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+**Phase D disposition, 2026-10-05 (continuation 03):** Approved P2 matter and agent-attachment repair; existing exact questions retained. Matter replaces the superseded bem po rendering; living beings at DTG-000866 is srog can and is not changed to karmic being. The passive taking agent, not food/wealth, possesses the summoning gesture. Actual [illness] at U01943 remains a linked, bracketed contextual proposal rather than an automatic entity substitution. The family construction, material supports and exact negative condition on worldly desire remain intact; no clinical claim or permission to harm/take property is endorsed. [Current review and scope](REVIEW.md#phase-d-notes-07).
+
 <a id="n-088"></a>
 ## N-088 — Drawing forth/reversing illness / counts / technique gaps
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-088)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+**Phase D disposition, 2026-10-05 (continuation 03):** Approved labels applied; distinct bodily and quantitative constructions provisional. The literary scripture reference, concentrated bcud component and gnad uses are repaired without reintroducing old alignment errors. The two causes/eight conditions, half/twelve parts, three places and different restraint/reversal operations remain as written. The whole restraint-through-quintessence construction is not a new canonical expression, and no treatment parameters are supplied. [Current review and scope](REVIEW.md#phase-d-notes-07).
 
 <a id="n-089"></a>
 ## N-089 — Tenet-system terminology / cross-batch continuation
@@ -637,12 +649,16 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+**Phase D disposition, 2026-10-05 (continuation 03):** P2 approved term; full connected two-aspect account now read. The historical absent-from-glossary/proposed label statement is superseded by the current complete grub mtha row. The full continuation has now been read, including restored lines; keep enlightened intent distinct, all nine-vehicle counts and the unenumerated names. This is not approval of every attachment in the old note. [Current review and scope](REVIEW.md#phase-d-notes-07).
+
 <a id="n-090"></a>
 ## N-090 — Vehicle hierarchy / tenet limits / grammatical self-liberation
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-090)
 
 Current golden-source updates: [G-A2000-C01-S03](ENDNOTES.md#g-a2000-c01-s03)
+
+**Phase D disposition, 2026-10-05 (continuation 03):** Locally supported classificatory basis sense under P1; exact hierarchy/attachment questions remain. The connected worldly/transcendent vehicle classification supports ordinary basis rather than technical Ground. The two assertions, three causes/two results/six subdivisions/nine total, simultaneous-faculty self-liberation relation and the three-realms entering the path remain as printed and qualified. No external vehicle names or different arithmetic are imported. The restored wording is preserved byte-for-byte on the Tibetan side. [Current review and scope](REVIEW.md#phase-d-notes-07).
 
 <a id="n-091"></a>
 ## N-091 — Five culminations / compound boundaries / terminology proposals
@@ -658,12 +674,16 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: [G-U02080](ENDNOTES.md#g-u02080)
 
+**Phase D disposition, 2026-10-05 (continuation 03):** Approved components and minimal condition/reference repairs; names and specifications remain provisional. Preserve blessings versus spiritual accomplishments versus generic practices of accomplishment; the seven/three/three groups and numerical sequences keep their actual order and unspecified units. The practitioner, not doubt/certainty or another person, engages and owns the ordinary mind. Blessed Lady retains the feminine source addition to the honorific, not an imported proper name. Whole ritual letter, deity, sealing/restoring and phyi nas constructions remain provisional. [Current review and scope](REVIEW.md#phase-d-notes-07).
+
 <a id="n-093"></a>
 ## N-093 — Methods practices / source variant / counts and injunction
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-093)
 
 Current golden-source updates: [G-U02129](ENDNOTES.md#g-u02129)
+
+**Phase D disposition, 2026-10-05 (continuation 03):** Imperative reference and complete P2 pledge label; whole continuation checked as context. The U02113–U02114 letters/colors alignment is already correct and is not reversed. Standalone mos pa is not assigned a new label from the different mos gus entry. The five sacred pledges and all practice/numerical counts remain unexpanded. The context through DTG-000955 has been read, including the command about doubt and the separate expelling variant boundary; no efficacy, harmful instruction or unstated recitation unit is added. [Current review and scope](REVIEW.md#phase-d-notes-07).
 
 <a id="n-094"></a>
 ## N-094 — Natural state / negation scope / related but nonidentical compound
@@ -1903,6 +1923,8 @@ Current golden-source updates: [G-U01635](ENDNOTES.md#g-u01635)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+**Phase D disposition, 2026-10-05 (continuation 03):** P3 paired process/state test completed locally; shared label remains proposed. Both training in the sleep practice and relying on the non-conceptual practice support testing meditative stability, distinct from deep absorption, equipoise and cultivation. They do not by themselves make the current stabilization wording a demonstrable mistranslation or activate a shared assignment. Retain the existing exact-linked provisional wording and record meditative stability for cross-work comparison; no book-specific default is established. [Current review and scope](REVIEW.md#phase-d-notes-07).
+
 <a id="n-t34"></a>
 ## N-T34 — terminology / usage record
 
@@ -1940,12 +1962,16 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+**Phase D disposition, 2026-10-05 (continuation 03):** P2 approved assignment; historical proposal no longer pending as a label. The current entry approves tenet system with tenets allowed only for constituent assertions. The system meanings in these clauses already conform; preserve the distinct enlightened-intent, own/others-assertion and knowing-one's-own-identity relationships. No specific school identity is introduced. [Current review and scope](REVIEW.md#phase-d-notes-07).
+
 <a id="n-t39"></a>
 ## N-T39 — terminology / usage record
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-t39)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+**Phase D disposition, 2026-10-05 (continuation 03):** P3 construction test identifies the paired category; shared lexical assignment not activated. The explicit means/discerning-knowing division and later return to thabs establish the technical paired-category role, distinct from actual procedures at DTG-000755 and the releasing method at DTG-000857. Means is the supported candidate for shared reconciliation, but methods is not changed merely for preferred style or promoted to a book-wide rule. The current exact-linked wording remains provisional; do not extend either choice to the queried thab form or the unrelated thabs gcig construction. [Current review and scope](REVIEW.md#phase-d-notes-07).
 
 <a id="n-t40"></a>
 ## N-T40 — terminology / usage record

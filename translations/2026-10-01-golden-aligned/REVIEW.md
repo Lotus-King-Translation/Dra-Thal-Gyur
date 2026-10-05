@@ -68,7 +68,7 @@ File/source order, not numerical ID order, governs. Chapter 1 includes the title
 <!-- phase-d-coverage-start -->
 | Part | Expected pairs | Expected source-ordered range | Actually semantically reviewed | Status |
 |---|---:|---|---:|---|
-| chapter-01 | 1199 | DTG-000001 → DTG-001192 | 750 (ordinals 1–750; through DTG-000747) | In progress |
+| chapter-01 | 1199 | DTG-000001 → DTG-001192 | 950 (ordinals 1–950; through DTG-000947) | In progress |
 | chapter-02 | 543 | DTG-001193 → DTG-001735 | 0 | Not started |
 | chapter-03 | 354 | DTG-001736 → DTG-002089 | 0 | Not started |
 | chapter-04 | 237 | DTG-002090 → DTG-002326 | 0 | Not started |
@@ -3239,6 +3239,985 @@ The visible N-069 editorial warning is retained as editorial, not attributed to 
 The final paired validator and projector check were rerun; both still exit 1 at the historical protected-glossary contract. The full recorded-operation replay/integrity check passes all 2,667 pairs, fixed source/golden/policy/format/lineage, inherited note associations/history and 700 English local-link targets. Current totals are 152 operations: 131 English repairs in 121 distinct pairs and 21 review links, affecting 133 pair payloads including note-only changes, plus the previously recorded separate annotation repair. The usage file now has 34 Phase D dispositions, with all 25 inherited from the preceding commit unchanged. English SHA-256: `5f9bc5bf9897eecb087f6c35ba890bd549a28726e60b54e571205623712d08bf`. `git diff --check` passes. No dependent reader was produced by the blocked projector.
 
 **Saved coverage:** 750/2,667 pairs, ordinals 1–750 through DTG-000747, with 195 first-encountered note records. Continue at ordinal 751 / DTG-000748. Ordinals 751–760 have additionally been read as connected context, not counted as completed coverage. Text remains provisional and the whole-work pass is still in progress.
+
+<a id="phase-d-batch-07"></a>
+### Batch 07 — source ordinals 751–950
+
+All 200 current pairs DTG-000748–000947 were read in source order with all 43 first-encountered note records, using the same current-source/full-note-prose view described above. Ordinals 951–965 were also read as connected context, including completion of N-093; they are not yet added to completed coverage. Q1–Q9, I §8.1 and III were applied, and the complete eight-column rows for the affected terminology and rejected substring matches were rechecked.
+
+**Findings recorded before application:** 32 English operations in 28 pairs are specified below. Existing family rationales extend only to the actual matching complete expressions. The ordinary-basis reading is supported by the connected vehicle classification, not by a blanket removal of capital Ground. The agent/possessive/condition repairs preserve the same practitioner and do not add a new causal mechanism, actor, sex, count or temporal unit. P3 candidates remain source-scoped proposals rather than newly activated shared labels.
+
+<!-- phase-d-batch-07-operations -->
+```json
+[
+  {
+    "pair": "DTG-000754",
+    "ordinal": 757,
+    "golden": [
+      "U01662",
+      "U01663",
+      "U01664"
+    ],
+    "family": "T09",
+    "kind": "translation",
+    "tibetan": "རྟེན་འབྲེལ་སྦྱོར་བ་རྣམ་པ་གཉིས། །\nསྣ་ཚོགས་རྫུ་འཕྲུལ་བསྒྲུབ་པ་དང་། །\nའབྱུང་བ་གནད་ཀྱི་ཆོ་གའོ། །",
+    "before": "crucial points",
+    "after": "key points",
+    "severity": "medium",
+    "confidence": "high",
+    "rationale": "Apply the approved gnad label at this actually read occurrence; retain its bodily, elemental, calculation or direct-perception scope, number, operations and connected qualifications."
+  },
+  {
+    "pair": "DTG-000760",
+    "ordinal": 763,
+    "golden": [
+      "U01670",
+      "U01671"
+    ],
+    "family": "T09",
+    "kind": "translation",
+    "tibetan": "འབྱུང་བའི་གནད་ནི་རང་དང་གཞན། །\nཕན་གནོད་འབྲས་བུ་ངེས་པར་འབྱིན། །",
+    "before": "crucial points",
+    "after": "key points",
+    "severity": "medium",
+    "confidence": "high",
+    "rationale": "Apply the approved gnad label at this actually read occurrence; retain its bodily, elemental, calculation or direct-perception scope, number, operations and connected qualifications."
+  },
+  {
+    "pair": "DTG-000770",
+    "ordinal": 773,
+    "golden": [
+      "U01694",
+      "U01695",
+      "U01696"
+    ],
+    "family": "T09",
+    "kind": "translation",
+    "tibetan": "བྱ་བ་དག་ནི་གསུམ་ཡིན་ཏེ། །\nལུས་ཀྱི་གནད་དང་ངག་དང་ཡང༌། །\nདེ་བཞིན་སེམས་ཀྱི་གནས་ཀྱིས་དགྲོལ། །",
+    "before": "crucial point",
+    "after": "key point",
+    "severity": "medium",
+    "confidence": "high",
+    "rationale": "Apply the approved gnad label at this actually read occurrence; retain its bodily, elemental, calculation or direct-perception scope, number, operations and connected qualifications."
+  },
+  {
+    "pair": "DTG-000787",
+    "ordinal": 790,
+    "golden": [
+      "U01752",
+      "U01753",
+      "U01754",
+      "U01755",
+      "U01756",
+      "U01757"
+    ],
+    "family": "T09",
+    "kind": "translation",
+    "tibetan": "གནད་ཀྱི་འབྱུང་བ་རྣམ་ཕྱེ་ན། །\nབཞི་བརྒྱ་ཉིད་དང་རྩ་བཞི་ལས། །\nངེས་བཅས་འཇུག་པ་བརྒྱད་ཅུར་སྡུད། །\nདེ་ལས་ཉི་ཤུ་རྩ་བཞིའོ། །\nམཆོག་ཏུ་གནས་པ་བཅུ་དྲུག་ཉིད། །\nཕོ་མོའི་སྡེབས་ཀྱིས་བརྒྱད་དུ་འགྱུར། །",
+    "before": "crucial points",
+    "after": "key points",
+    "severity": "medium",
+    "confidence": "high",
+    "rationale": "Apply the approved gnad label at this actually read occurrence; retain its bodily, elemental, calculation or direct-perception scope, number, operations and connected qualifications."
+  },
+  {
+    "pair": "DTG-000788",
+    "ordinal": 791,
+    "golden": [
+      "U01758",
+      "U01759"
+    ],
+    "family": "T09",
+    "kind": "translation",
+    "tibetan": "རང་ངོ་དག་པ་བཞི་ཡིས་ནི། །\nགནད་རྣམས་བསྡུས་ཏེ་ངེས་པར་བསྟན། །",
+    "before": "crucial points",
+    "after": "key points",
+    "severity": "medium",
+    "confidence": "high",
+    "rationale": "Apply the approved gnad label at this actually read occurrence; retain its bodily, elemental, calculation or direct-perception scope, number, operations and connected qualifications."
+  },
+  {
+    "pair": "DTG-000789",
+    "ordinal": 792,
+    "golden": [
+      "U01760",
+      "U01761",
+      "U01762",
+      "U01763"
+    ],
+    "family": "T09",
+    "kind": "translation",
+    "tibetan": "བྱེར་ཟུག་སྙོམས་པའི་བྱེད་ལས་ཀྱི། །\nཚེས་དང་ཟླ་བ་ལོ་རྣམས་དང་། །\nའཁྲུལ་པ་མེད་པར་སྦྱར་བྱས་ན། །\nགནད་རྣམས་དག་ཀྱང་ངེས་པར་འགྱུར། །",
+    "before": "crucial points",
+    "after": "key points",
+    "severity": "medium",
+    "confidence": "high",
+    "rationale": "Apply the approved gnad label at this actually read occurrence; retain its bodily, elemental, calculation or direct-perception scope, number, operations and connected qualifications."
+  },
+  {
+    "pair": "DTG-000791",
+    "ordinal": 794,
+    "golden": [
+      "U01765",
+      "U01766"
+    ],
+    "family": "T09",
+    "kind": "translation",
+    "tibetan": " དེ་ལྟར་གནད་ལ་བརྟེན་ནས་ནི། །\nརྩིས་ཀྱི་སྦྱོར་བའི་ཡན་ལག་བཤད། །",
+    "before": "crucial points",
+    "after": "key points",
+    "severity": "medium",
+    "confidence": "high",
+    "rationale": "Apply the approved gnad label at this actually read occurrence; retain its bodily, elemental, calculation or direct-perception scope, number, operations and connected qualifications."
+  },
+  {
+    "pair": "DTG-000857",
+    "ordinal": 860,
+    "golden": [
+      "U01920",
+      "U01921",
+      "U01922"
+    ],
+    "family": "T09",
+    "kind": "translation",
+    "tibetan": "རྟེན་འབྲེལ་ཆོ་ག་རྫོགས་པ་ཡིས། །\nགནད་ཀྱི་སྤོ་ལ་གཏང་ཐབས་དང་། །\nསྐད་ཀྱི་བརྗོད་པ་ལས་ཤེས་བྱ། །",
+    "before": "crucial point",
+    "after": "key point",
+    "severity": "medium",
+    "confidence": "high",
+    "rationale": "Apply the approved gnad label at this actually read occurrence; retain its bodily, elemental, calculation or direct-perception scope, number, operations and connected qualifications."
+  },
+  {
+    "pair": "DTG-000877",
+    "ordinal": 880,
+    "golden": [
+      "U01969",
+      "U01970"
+    ],
+    "family": "T09",
+    "kind": "translation",
+    "tibetan": "རྒྱུད་གཞན་ཀུན་ལས་མ་བཤད་པའི། །\nའབྱུང་བའི་གནད་རྣམས་དྲང་དང་བཟློག །",
+    "before": "crucial points",
+    "after": "key points",
+    "severity": "medium",
+    "confidence": "high",
+    "rationale": "Apply the approved gnad label at this actually read occurrence; retain its bodily, elemental, calculation or direct-perception scope, number, operations and connected qualifications."
+  },
+  {
+    "pair": "DTG-000887",
+    "ordinal": 890,
+    "golden": [
+      "U01992"
+    ],
+    "family": "T09",
+    "kind": "translation",
+    "tibetan": "བཟློག་པ་དབང་པོའི་གནད་ཀྱིས་སོ། །",
+    "before": "crucial points",
+    "after": "key points",
+    "severity": "medium",
+    "confidence": "high",
+    "rationale": "Apply the approved gnad label at this actually read occurrence; retain its bodily, elemental, calculation or direct-perception scope, number, operations and connected qualifications."
+  },
+  {
+    "pair": "DTG-000898",
+    "ordinal": 901,
+    "golden": [
+      "U02013",
+      "U02014",
+      "U02015"
+    ],
+    "family": "T09",
+    "kind": "translation",
+    "tibetan": "དབང་པོ་ཅིག་ཆར་རང་གྲོལ་བས། །\nམངོན་སུམ་མཐོང་བའི་གནད་ཀྱིས་ནི། །\nརང་གི་གྲུབ་པའི་མཐའ་ཞིག་ནས། །",
+    "before": "crucial point",
+    "after": "key point",
+    "severity": "medium",
+    "confidence": "high",
+    "rationale": "Apply the approved gnad label at this actually read occurrence; retain its bodily, elemental, calculation or direct-perception scope, number, operations and connected qualifications."
+  },
+  {
+    "pair": "DTG-000793",
+    "ordinal": 796,
+    "golden": [
+      "U01768",
+      "U01769",
+      "U01770",
+      "U01771"
+    ],
+    "family": "T02",
+    "kind": "translation",
+    "tibetan": "སངས་རྒྱས་གཞན་གྱིས་མ་གསུངས་པའི། །\nའབྱུང་བའི་རྩིས་ཀྱི་རིམ་པ་ལ། །\nབརྟེན་ནས་འཁོར་འདས་འཇལ་བྱེད་པའི། །\nརབ་ཏུ་གསང་བ་འདི་ཉོན་ཅིག །",
+    "before": "samsara and nirvana",
+    "after": "cyclic existence and transcendence of sorrow",
+    "severity": "medium",
+    "confidence": "high",
+    "rationale": "Apply the complete approved khor das coordinated expression, not an assembly inferred from unrelated khor/da s forms. Preserve both members and the measuring relation, as well as the already corrected source-order alignment."
+  },
+  {
+    "pair": "DTG-000831",
+    "ordinal": 834,
+    "golden": [
+      "U01861",
+      "U01862",
+      "U01863"
+    ],
+    "family": "T02",
+    "kind": "translation",
+    "tibetan": "མཆོག་ཏུ་སྐལ་ལྡན་བརྩོན་འགྲུས་ཅན། །\nའཁོར་བའི་ཡིད་དང་བྲལ་བ་ཡིས། །\nབླ་མ་མཆོད་དང་བསྟོད་བྱ་སྟེ། །",
+    "before": "samsara",
+    "after": "cyclic existence",
+    "severity": "medium",
+    "confidence": "high",
+    "rationale": "Apply the approved khor ba noun while preserving the mental-faculty qualifier or three-realm support negation and the space-into-space simile."
+  },
+  {
+    "pair": "DTG-000899",
+    "ordinal": 902,
+    "golden": [
+      "U02016",
+      "U02017",
+      "U02018",
+      "U02019",
+      "U02020"
+    ],
+    "family": "T02",
+    "kind": "translation",
+    "tibetan": "གང་ལ་ཞེན་དང་འཛིན་མེད་པར། །\nཡང་དག་ཆོས་ཉིད་རོ་མྱངས་ནས། །\nཁམས་གསུམ་འཁོར་བའི་རྟེན་མེད་པར། །\nམཁའ་ལ་མཁའ་ཉིད་ཐིམ་པ་ལྟར། །\nརྣལ་འབྱོར་མཆོག་ཀྱང་དེ་བཞིན་ནོ། །",
+    "before": "samsara",
+    "after": "cyclic existence",
+    "severity": "medium",
+    "confidence": "high",
+    "rationale": "Apply the approved khor ba noun while preserving the mental-faculty qualifier or three-realm support negation and the space-into-space simile."
+  },
+  {
+    "pair": "DTG-000839",
+    "ordinal": 842,
+    "golden": [
+      "U01880",
+      "U01881",
+      "U01882",
+      "A2000-C01-S02",
+      "U01883",
+      "U01884"
+    ],
+    "family": "E01",
+    "kind": "translation",
+    "tibetan": "དེ་ལྟར་ཕྱི་རོལ་འབྱུང་བ་ལ། །\nབརྩོན་འགྲུས་རབ་དང་འབྲིང་མཐའ་ཡི། །\nཞག་དང་ཟླ་བ་ལོ་རྣམས་ཀྱིས། །\nསོ་སོའི་ཚད་ལ་རྟགས་ཀྱིས་འགྲུབ། །\nའདི་ལྟར་སྐུ་ཡི་འགྲུབ་པ་ལ། །\nསྤྲུལ་པའི་སྐུ་དང་ལོངས་སྐུ་དང་། །\nཆོས་སྐུ་ངོ་བོ་ཉིད་ཀྱི་སྐུ། །\nམཆོག་ཏུ་སྐུ་ཡི་འབྲས་བུར་སྦྱོར། །",
+    "before": "At their respective measures",
+    "after": "at their respective measures",
+    "severity": "minor",
+    "confidence": "high",
+    "rationale": "Remove a mid-sentence capital introduced at a former unit/restoration boundary. The phrase continues the preceding comma or dash, not a new sentence. No Tibetan order, verse line, source annotation or clause content is changed."
+  },
+  {
+    "pair": "DTG-000857",
+    "ordinal": 860,
+    "golden": [
+      "U01920",
+      "U01921",
+      "U01922"
+    ],
+    "family": "E01",
+    "kind": "translation",
+    "tibetan": "རྟེན་འབྲེལ་ཆོ་ག་རྫོགས་པ་ཡིས། །\nགནད་ཀྱི་སྤོ་ལ་གཏང་ཐབས་དང་། །\nསྐད་ཀྱི་བརྗོད་པ་ལས་ཤེས་བྱ། །",
+    "before": "For transferring",
+    "after": "for transferring",
+    "severity": "minor",
+    "confidence": "high",
+    "rationale": "Remove a mid-sentence capital introduced at a former unit/restoration boundary. The phrase continues the preceding comma or dash, not a new sentence. No Tibetan order, verse line, source annotation or clause content is changed."
+  },
+  {
+    "pair": "DTG-000893",
+    "ordinal": 896,
+    "golden": [
+      "A2000-C01-S03",
+      "U02006"
+    ],
+    "family": "E01",
+    "kind": "translation",
+    "tibetan": "གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ། །\nའདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ། །\nའདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས། །\nརྒྱུ་ལ་གསུམ་ལ་འབྲས་བུར་གཉིས། །",
+    "before": "For the cause",
+    "after": "for the cause",
+    "severity": "minor",
+    "confidence": "high",
+    "rationale": "Remove a mid-sentence capital introduced at a former unit/restoration boundary. The phrase continues the preceding comma or dash, not a new sentence. No Tibetan order, verse line, source annotation or clause content is changed."
+  },
+  {
+    "pair": "DTG-000941",
+    "ordinal": 944,
+    "golden": [
+      "U02111",
+      "U02112",
+      "U02113",
+      "U02114",
+      "U02115"
+    ],
+    "family": "E01",
+    "kind": "translation",
+    "tibetan": "འཁོར་ལོའི་ལས་རྣམས་རྫོགས་བྱས་ཏེ། །\nཆོ་གའི་དགོངས་པ་ཚང་བ་ལས། །\nཅི་ལྟར་མོས་པའི་ཡི་གེ་ནི། །\nཁ་དོག་ངེས་པར་བསམ་བྱས་ཏེ། །\nགཤིན་རྗེའི་གཤེད་ཀྱི་རྣལ་འབྱོར་བྱའོ། །",
+    "before": "Whichever letters",
+    "after": "whichever letters",
+    "severity": "minor",
+    "confidence": "high",
+    "rationale": "Remove a mid-sentence capital introduced at a former unit/restoration boundary. The phrase continues the preceding comma or dash, not a new sentence. No Tibetan order, verse line, source annotation or clause content is changed."
+  },
+  {
+    "pair": "DTG-000860",
+    "ordinal": 863,
+    "golden": [
+      "U01927",
+      "U01928"
+    ],
+    "family": "T04",
+    "kind": "translation",
+    "tibetan": "འོན་ཏེ་དངོས་གྲུབ་ལ་ཐུག་ན། །\nམི་སྣང་གཟུགས་ཀྱིས་ལུས་ཀུན་འགྲུབ། །",
+    "before": "when accomplishment is reached",
+    "after": "when spiritual accomplishment is reached",
+    "severity": "medium",
+    "confidence": "high",
+    "rationale": "The actual source has the complete dngos grub expression. Retain its spiritual component and all modifiers/participants. Do not change the separately expressed generic accomplishing/result verbs or practices of accomplishment in the same passage."
+  },
+  {
+    "pair": "DTG-000919",
+    "ordinal": 922,
+    "golden": [
+      "U02064",
+      "U02065"
+    ],
+    "family": "T04",
+    "kind": "translation",
+    "tibetan": "ཡེ་ཤེས་དབང་བསྐུར་གྱིས་བརྒྱན་ཏེ། །\nདངོས་གྲུབ་འདོད་པས་རྟག་ཏུ་བསྒོམ། །",
+    "before": "desiring accomplishment",
+    "after": "desiring spiritual accomplishment",
+    "severity": "medium",
+    "confidence": "high",
+    "rationale": "The actual source has the complete dngos grub expression. Retain its spiritual component and all modifiers/participants. Do not change the separately expressed generic accomplishing/result verbs or practices of accomplishment in the same passage."
+  },
+  {
+    "pair": "DTG-000923",
+    "ordinal": 926,
+    "golden": [
+      "U02074",
+      "U02075"
+    ],
+    "family": "T04",
+    "kind": "translation",
+    "tibetan": "དངོས་གྲུབ་སྟོན་པའི་འོད་ཟེར་ཅན། །\nའདི་ལ་བསྒྲུབ་པ་གསུམ་དུ་འགྱུར། །",
+    "before": "reveals accomplishments",
+    "after": "reveals spiritual accomplishments",
+    "severity": "medium",
+    "confidence": "high",
+    "rationale": "The actual source has the complete dngos grub expression. Retain its spiritual component and all modifiers/participants. Do not change the separately expressed generic accomplishing/result verbs or practices of accomplishment in the same passage."
+  },
+  {
+    "pair": "DTG-000869",
+    "ordinal": 872,
+    "golden": [
+      "U01945",
+      "U01946",
+      "U01947",
+      "U01948"
+    ],
+    "family": "T10",
+    "kind": "translation",
+    "tibetan": "བེམ་པོའི་འབྱུང་བ་བཞི་དག་ལས། །\nདངོས་པོ་འགྱུར་བའི་རྟེན་འབྲེལ་གྱིས། །\nགྲངས་དང་བརྡའ་དང་སྐད་དག་གིས། །\nདམིགས་པ་བསྐྱུར་ཏེ་ནད་སོགས་སྤོ། །",
+    "before": "insentient matter",
+    "after": "matter",
+    "severity": "medium",
+    "confidence": "high",
+    "rationale": "P2 explicitly supersedes insentient matter for bem po. Preserve the four elements, their contrast with the preceding living beings, the distinct entities clause and all subsequent objects/actions. No entity/body/substance is relabeled from an English substring match."
+  },
+  {
+    "pair": "DTG-000877",
+    "ordinal": 880,
+    "golden": [
+      "U01969",
+      "U01970"
+    ],
+    "family": "T01",
+    "kind": "translation",
+    "tibetan": "རྒྱུད་གཞན་ཀུན་ལས་མ་བཤད་པའི། །\nའབྱུང་བའི་གནད་རྣམས་དྲང་དང་བཟློག །",
+    "before": "any other continuum",
+    "after": "any other tantra",
+    "severity": "medium",
+    "confidence": "high",
+    "rationale": "Rgyud g zhan kun las ma bshad explicitly compares where this teaching has not been explained; with the following promise to explain, it denotes tantric scripture, activating the approved literary-use exception."
+  },
+  {
+    "pair": "DTG-000883",
+    "ordinal": 886,
+    "golden": [
+      "U01982",
+      "U01983",
+      "U01984"
+    ],
+    "family": "T13",
+    "kind": "translation",
+    "tibetan": "ལུས་ཀྱིས་འཁྲུལ་འཁོར་སྣ་ཚོགས་དང༌། །\nབཅུད་ཀྱིས་གཅུན་པའི་ལས་མཐའ་ཡིས། །\nའབྱུང་བའི་ནད་ཀུན་ཕྱིར་ལ་དྲངས། །",
+    "before": "vital essences",
+    "after": "quintessence",
+    "severity": "medium",
+    "confidence": "high",
+    "rationale": "Apply bcud in its concentrated/nourishing bodily application, distinct from a receptacle-and-inhabitants construction. Retain the different g cun/restraint verb and the whole technique as provisionally described, not equated with the earlier len pa nourishment construction."
+  },
+  {
+    "pair": "DTG-000892",
+    "ordinal": 895,
+    "golden": [
+      "U02003",
+      "U02004",
+      "U02005"
+    ],
+    "family": "S06",
+    "kind": "translation",
+    "tibetan": "སོ་སོའི་གཞི་དང་དབང་པོ་ཡིས། །\nའཇིག་རྟེན་པ་དང་འདས་པ་ཡི། །\nཐེག་པ་དག་ནི་གཉིས་སུ་འདོད། །",
+    "before": "respective Grounds and faculties",
+    "after": "respective bases and faculties",
+    "severity": "medium",
+    "confidence": "moderate-high",
+    "rationale": "The connected tenet-system account classifies vehicles by their respective supporting bases and faculties; its worldly/transcendent, cause/result and three/two/six/nine distinctions are not a technical primordial-Ground assertion. Apply ordinary basis locally under P1 without settling the two-assertion referents."
+  },
+  {
+    "pair": "DTG-000893",
+    "ordinal": 896,
+    "golden": [
+      "A2000-C01-S03",
+      "U02006"
+    ],
+    "family": "S06",
+    "kind": "translation",
+    "tibetan": "གཞི་ནི་འཇིག་རྟེན་པ་ཡིན་ཏེ། །\nའདི་ལས་འདོད་པ་གཉིས་ཡིན་ནོ། །\nའདས་པ་རྒྱུ་དང་འབྲས་བུ་ལས། །\nརྒྱུ་ལ་གསུམ་ལ་འབྲས་བུར་གཉིས། །",
+    "before": "The Ground is worldly",
+    "after": "The basis is worldly",
+    "severity": "medium",
+    "confidence": "moderate-high",
+    "rationale": "The restored opening continues the classificatory basis/faculty account at DTG-000892. Retain its worldly predicate and every following number/contrast, but do not capitalize an ordinary basis into the technical Ground. The former source-reconciliation instruction to retain Ground is a historical lexical treatment, not a later owner-approved exception to P1."
+  },
+  {
+    "pair": "DTG-000873",
+    "ordinal": 876,
+    "golden": [
+      "U01960",
+      "U01961",
+      "U01962"
+    ],
+    "family": "E05",
+    "kind": "translation",
+    "tibetan": "འགུགས་པའི་ཕྱག་རྒྱ་ལྡན་པ་ཡིས། །\nསེར་སྣས་བཅིངས་པའི་ཟས་ནོར་ལ། །\nབླ་མ་མཆོད་ཕྱིར་སྤོ་བས་བླང༌། །",
+    "before": "Possessing the gesture of summoning,",
+    "after": "By one possessing the gesture of summoning,",
+    "severity": "minor",
+    "confidence": "high",
+    "rationale": "Ldan pa yis supplies the qualified agent of taking, not a property of the following food and wealth. Make the passive agent explicit without changing the objects, manner, purpose, restrictive following condition or adding an actor absent from the practitioner sequence."
+  },
+  {
+    "pair": "DTG-000922",
+    "ordinal": 925,
+    "golden": [
+      "U02069",
+      "U02070",
+      "U02071",
+      "U02072",
+      "U02073"
+    ],
+    "family": "S12/T24",
+    "kind": "translation",
+    "tibetan": "སླར་གསོ་ཡེ་ཤེས་ལུས་ཀྱིས་ནི། །\nཡང་ནས་ཡང་དུ་གོམས་སྤྱོད་ན། །\nདྲུག་དང་བདུན་དང་དགུ་སྟེ་གཅིག །\nགཉིས་དང་གསུམ་དང་ལྔ་ཡིས་ནི། །\nགདོན་མི་ཟ་བར་འགྲུབ་པའོ། །",
+    "before": "repeatedly engaging in familiarity,",
+    "after": "when you repeatedly engage in familiarization,",
+    "severity": "medium",
+    "confidence": "high",
+    "rationale": "Goms spyod na is an explicit practitioner condition, not a participle modifying the following absence of doubt. Preserve the preceding Restore instruction and its addressee, use the approved process form, and leave the exact seven numbers and their unexpressed counting unit unchanged."
+  },
+  {
+    "pair": "DTG-000929",
+    "ordinal": 932,
+    "golden": [
+      "U02086",
+      "U02087",
+      "U02088",
+      "U02089"
+    ],
+    "family": "S12",
+    "kind": "translation",
+    "tibetan": "དེ་ལྟར་རྟག་ཏུ་བསྒོམ་པ་འམ། །\nཡང་ན་ཐུན་དྲུག་རྒྱུན་བརྟེན་ན། །\nདགུ་དང་བདུན་དང་ལྔ་ཡིས་ནི། །\nངེས་པར་འགྲུབ་པར་གདོན་མི་ཟའོ། །",
+    "before": "Continually cultivating in this way,\nor relying continuously on six sessions,",
+    "after": "When you continually cultivate in this way,\nor rely continuously on six sessions,",
+    "severity": "medium",
+    "confidence": "high",
+    "rationale": "The pa am/yang na ... na construction gives two alternatives under a practitioner condition. State that condition without letting the English participle modify the following absence of doubt; preserve cultivation as distinct from familiarization, both alternatives, six sessions and nine/seven/five."
+  },
+  {
+    "pair": "DTG-000932",
+    "ordinal": 935,
+    "golden": [
+      "U02094",
+      "U02095"
+    ],
+    "family": "E06",
+    "kind": "translation",
+    "tibetan": "ཆོ་ག་ལྡན་པའི་རྣལ་འབྱོར་པས། །\nརང་སེམས་དག་པ་གནས་བསམས་ཏེ། །",
+    "before": "imagines one's own ordinary mind",
+    "after": "imagines their own ordinary mind",
+    "severity": "minor",
+    "confidence": "high",
+    "rationale": "The explicit grammatical subject is the yogin endowed with the rite, and rang sems is that same subject's own ordinary mind. Replace the mismatched generic one's with a coreferential, gender-neutral possessive; no new owner, gender or mental faculty is introduced."
+  },
+  {
+    "pair": "DTG-000941",
+    "ordinal": 944,
+    "golden": [
+      "U02111",
+      "U02112",
+      "U02113",
+      "U02114",
+      "U02115"
+    ],
+    "family": "E02",
+    "kind": "translation",
+    "tibetan": "འཁོར་ལོའི་ལས་རྣམས་རྫོགས་བྱས་ཏེ། །\nཆོ་གའི་དགོངས་པ་ཚང་བ་ལས། །\nཅི་ལྟར་མོས་པའི་ཡི་གེ་ནི། །\nཁ་དོག་ངེས་པར་བསམ་བྱས་ཏེ། །\nགཤིན་རྗེའི་གཤེད་ཀྱི་རྣལ་འབྱོར་བྱའོ། །",
+    "before": "one's aspiration",
+    "after": "your aspiration",
+    "severity": "medium",
+    "confidence": "high",
+    "rationale": "The existing imagine/undertake imperatives govern the preceding letters-in-accord-with-aspiration clause. Keep the same addressee across the instruction, without changing the still-provisional standalone mos pa wording or reconstructing it from mos gus."
+  },
+  {
+    "pair": "DTG-000947",
+    "ordinal": 950,
+    "golden": [
+      "U02124",
+      "U02125"
+    ],
+    "family": "T12",
+    "kind": "translation",
+    "tibetan": "བསྲུང་བའི་དམ་ཚིག་ལྔ་པོ་ལ། །\nཆོ་ག་རྣམས་ནི་རྫོགས་བྱས་ཏེ། །",
+    "before": "five pledges",
+    "after": "five sacred pledges",
+    "severity": "medium",
+    "confidence": "high",
+    "rationale": "Use the complete approved dam tshig label, retaining the explicit five, the to-be-guarded scope and the fact that these five are not enumerated here. Do not substitute vow/restraint terminology."
+  }
+]
+```
+
+<a id="phase-d-notes-07"></a>
+**Active note/usage dispositions recorded before appending:** Historical notes and approvals remain unchanged; the following records clarify current scope and status, including tenet system's now-approved label, current restored/source-selected readings, and the still-provisional P3 candidates.
+
+```json
+[
+  {
+    "session": "DTG-PD-20261005-Astra-03",
+    "legacy_note": "N-T33",
+    "pairs": [
+      "DTG-000750",
+      "DTG-000847"
+    ],
+    "ids": [
+      "U01652",
+      "U01653",
+      "U01654",
+      "U01655",
+      "U01656",
+      "U01901",
+      "U01902"
+    ],
+    "realization": "meditative stabilization (retained provisionally)",
+    "status": "P3 paired process/state test completed locally; shared label remains proposed",
+    "reason": "Both training in the sleep practice and relying on the non-conceptual practice support testing meditative stability, distinct from deep absorption, equipoise and cultivation. They do not by themselves make the current stabilization wording a demonstrable mistranslation or activate a shared assignment. Retain the existing exact-linked provisional wording and record meditative stability for cross-work comparison; no book-specific default is established.",
+    "review": "REVIEW.md#phase-d-notes-07"
+  },
+  {
+    "session": "DTG-PD-20261005-Astra-03",
+    "legacy_note": "N-078",
+    "pairs": [
+      "DTG-000754",
+      "DTG-000756",
+      "DTG-000760",
+      "DTG-000763",
+      "DTG-000765",
+      "DTG-000766"
+    ],
+    "ids": [
+      "U01662",
+      "U01663",
+      "U01664",
+      "U01666",
+      "U01670",
+      "U01671",
+      "U01676",
+      "U01677",
+      "U01678",
+      "U01679",
+      "U01680",
+      "U01681",
+      "U01682",
+      "U01685",
+      "U01686",
+      "U01687",
+      "U01688"
+    ],
+    "realization": "key point; one's own knowing (provisional)",
+    "status": "Approved gnad labels; exact construction limits retained",
+    "reason": "The two elemental accounts were compared: DTG-000763 retains its printed destroy/increase/slayer/decline/restore/equalize/confusion effects rather than being forced to match DTG-000580–000587. The rang shes row allows an ordinary possessive; the applying/knowing relation remains explicitly provisional rather than automatically becoming technical self-knowing. The three members and inquire-of-wind construction are not reconstructed.",
+    "review": "REVIEW.md#phase-d-notes-07"
+  },
+  {
+    "session": "DTG-PD-20261005-Astra-03",
+    "legacy_note": "N-083",
+    "pairs": [
+      "DTG-000807",
+      "DTG-000812",
+      "DTG-000813",
+      "DTG-000814",
+      "DTG-000817",
+      "DTG-000821"
+    ],
+    "ids": [
+      "U01802",
+      "U01803",
+      "U01811",
+      "U01812",
+      "U01813",
+      "U01814",
+      "U01819",
+      "U01820",
+      "U01829"
+    ],
+    "realization": "ya bzhi unresolved; source-selected numerical readings",
+    "status": "Current golden dispositions recognized; old four-million claim superseded",
+    "reason": "The actual main text correctly leaves ya bzhi unresolved; the older sa ya/four-million expansion is already withdrawn by G-U01803, not a current defect. Keep the joined thousand-years/300,000-days statement once, the separate thirty-days variant and the qualified folding/contact note. Stars, half-cycles, unqualified 180 and the source's seasonal order remain unresolved as stated; no astronomical or arithmetic repair is made.",
+    "review": "REVIEW.md#phase-d-notes-07"
+  },
+  {
+    "session": "DTG-PD-20261005-Astra-03",
+    "legacy_note": "N-085",
+    "pairs": [
+      "DTG-000831",
+      "DTG-000834",
+      "DTG-000836",
+      "DTG-000839",
+      "DTG-000843",
+      "DTG-000846",
+      "DTG-000847"
+    ],
+    "ids": [
+      "U01861",
+      "U01862",
+      "U01863",
+      "U01868",
+      "U01869",
+      "U01873",
+      "U01874",
+      "U01875",
+      "U01876",
+      "U01880",
+      "U01881",
+      "U01882",
+      "A2000-C01-S02",
+      "U01883",
+      "U01884",
+      "U01893",
+      "U01894",
+      "U01899",
+      "U01900",
+      "U01901",
+      "U01902"
+    ],
+    "realization": "four-embodiment restoration present; cyclic existence; continuing lowercase at",
+    "status": "Source updates and approved labels integrated; remaining constructions provisional",
+    "reason": "The current list contains four embodiments through A2000-C01-S02 and U01883–U01884, superseding the older two-only treatment. The joining predicate and qualified subjects are already separated correctly; only the mid-sentence capital is repaired. Entity is retained where present, and generic accomplishment is not automatically dngos grub. Freedom from sound remains printed, and the visible breath-cessation editorial warning remains outside the source voice. Regard/refusal, desired qualities and the fifth neuter-empty referent remain qualified.",
+    "review": "REVIEW.md#phase-d-notes-07"
+  },
+  {
+    "session": "DTG-PD-20261005-Astra-03",
+    "legacy_note": "N-086",
+    "pairs": [
+      "DTG-000850",
+      "DTG-000851",
+      "DTG-000852",
+      "DTG-000853",
+      "DTG-000857",
+      "DTG-000860",
+      "DTG-000861",
+      "DTG-000863",
+      "DTG-000864"
+    ],
+    "ids": [
+      "U01907",
+      "U01908",
+      "U01909",
+      "U01910",
+      "U01911",
+      "U01912",
+      "U01913",
+      "U01914",
+      "U01920",
+      "U01921",
+      "U01922",
+      "U01927",
+      "U01928",
+      "U01929",
+      "U01930",
+      "U01932",
+      "U01933",
+      "U01934",
+      "U01935",
+      "U01936"
+    ],
+    "realization": "entities; spiritual accomplishment; contextual material substances",
+    "status": "Approved complete labels with material-context exception; distinct transferring scope",
+    "reason": "The entity/form and emptiness types remain distinct. Material substances at U01929 is retained in the explicit rdzas/material-offering construction, not replaced by an English substring rule. The dngos grub clause gains spiritual, but generic grub does not. The method/voices clause keeps its historically corrected order. Youthful forms is not changed to a mount reading, and spo ba transferring is not silently equated with the earlier ph o ba category.",
+    "review": "REVIEW.md#phase-d-notes-07"
+  },
+  {
+    "session": "DTG-PD-20261005-Astra-03",
+    "legacy_note": "N-087",
+    "pairs": [
+      "DTG-000866",
+      "DTG-000867",
+      "DTG-000869",
+      "DTG-000873",
+      "DTG-000875"
+    ],
+    "ids": [
+      "U01938",
+      "U01939",
+      "U01940",
+      "U01941",
+      "U01942",
+      "U01943",
+      "U01945",
+      "U01946",
+      "U01947",
+      "U01948",
+      "U01960",
+      "U01961",
+      "U01962",
+      "U01966",
+      "U01967"
+    ],
+    "realization": "matter; qualified passive agent",
+    "status": "Approved P2 matter and agent-attachment repair; existing exact questions retained",
+    "reason": "Matter replaces the superseded bem po rendering; living beings at DTG-000866 is srog can and is not changed to karmic being. The passive taking agent, not food/wealth, possesses the summoning gesture. Actual [illness] at U01943 remains a linked, bracketed contextual proposal rather than an automatic entity substitution. The family construction, material supports and exact negative condition on worldly desire remain intact; no clinical claim or permission to harm/take property is endorsed.",
+    "review": "REVIEW.md#phase-d-notes-07"
+  },
+  {
+    "session": "DTG-PD-20261005-Astra-03",
+    "legacy_note": "N-088",
+    "pairs": [
+      "DTG-000877",
+      "DTG-000883",
+      "DTG-000887",
+      "DTG-000888"
+    ],
+    "ids": [
+      "U01969",
+      "U01970",
+      "U01982",
+      "U01983",
+      "U01984",
+      "U01992",
+      "U01993",
+      "U01994",
+      "U01995",
+      "U01996",
+      "U01997"
+    ],
+    "realization": "tantra; quintessence; key point",
+    "status": "Approved labels applied; distinct bodily and quantitative constructions provisional",
+    "reason": "The literary scripture reference, concentrated bcud component and gnad uses are repaired without reintroducing old alignment errors. The two causes/eight conditions, half/twelve parts, three places and different restraint/reversal operations remain as written. The whole restraint-through-quintessence construction is not a new canonical expression, and no treatment parameters are supplied.",
+    "review": "REVIEW.md#phase-d-notes-07"
+  },
+  {
+    "session": "DTG-PD-20261005-Astra-03",
+    "legacy_note": "N-089",
+    "pairs": [
+      "DTG-000891",
+      "DTG-000892",
+      "DTG-000893",
+      "DTG-000894",
+      "DTG-000895",
+      "DTG-000896",
+      "DTG-000897",
+      "DTG-000898",
+      "DTG-000899"
+    ],
+    "ids": [
+      "U02000",
+      "U02001",
+      "U02002",
+      "U02003",
+      "U02004",
+      "U02005",
+      "A2000-C01-S03",
+      "U02006",
+      "U02007",
+      "U02008",
+      "U02009",
+      "U02010",
+      "U02011",
+      "U02012",
+      "U02013",
+      "U02014",
+      "U02015",
+      "U02016",
+      "U02017",
+      "U02018",
+      "U02019",
+      "U02020"
+    ],
+    "realization": "tenet system",
+    "status": "P2 approved term; full connected two-aspect account now read",
+    "reason": "The historical absent-from-glossary/proposed label statement is superseded by the current complete grub mtha row. The full continuation has now been read, including restored lines; keep enlightened intent distinct, all nine-vehicle counts and the unenumerated names. This is not approval of every attachment in the old note.",
+    "review": "REVIEW.md#phase-d-notes-07"
+  },
+  {
+    "session": "DTG-PD-20261005-Astra-03",
+    "legacy_note": "N-T38",
+    "pairs": [
+      "DTG-000891",
+      "DTG-000898",
+      "DTG-000906"
+    ],
+    "ids": [
+      "U02000",
+      "U02001",
+      "U02002",
+      "U02013",
+      "U02014",
+      "U02015",
+      "U02030",
+      "U02031",
+      "U02032"
+    ],
+    "realization": "tenet system; constituent tenets only where warranted",
+    "status": "P2 approved assignment; historical proposal no longer pending as a label",
+    "reason": "The current entry approves tenet system with tenets allowed only for constituent assertions. The system meanings in these clauses already conform; preserve the distinct enlightened-intent, own/others-assertion and knowing-one's-own-identity relationships. No specific school identity is introduced.",
+    "review": "REVIEW.md#phase-d-notes-07"
+  },
+  {
+    "session": "DTG-PD-20261005-Astra-03",
+    "legacy_note": "N-090",
+    "pairs": [
+      "DTG-000892",
+      "DTG-000893",
+      "DTG-000894",
+      "DTG-000896",
+      "DTG-000898",
+      "DTG-000899"
+    ],
+    "ids": [
+      "U02003",
+      "U02004",
+      "U02005",
+      "A2000-C01-S03",
+      "U02006",
+      "U02007",
+      "U02009",
+      "U02010",
+      "U02011",
+      "U02013",
+      "U02014",
+      "U02015",
+      "U02016",
+      "U02017",
+      "U02018",
+      "U02019",
+      "U02020"
+    ],
+    "realization": "ordinary bases/basis; key point; cyclic existence",
+    "status": "Locally supported classificatory basis sense under P1; exact hierarchy/attachment questions remain",
+    "reason": "The connected worldly/transcendent vehicle classification supports ordinary basis rather than technical Ground. The two assertions, three causes/two results/six subdivisions/nine total, simultaneous-faculty self-liberation relation and the three-realms entering the path remain as printed and qualified. No external vehicle names or different arithmetic are imported. The restored wording is preserved byte-for-byte on the Tibetan side.",
+    "review": "REVIEW.md#phase-d-notes-07"
+  },
+  {
+    "session": "DTG-PD-20261005-Astra-03",
+    "legacy_note": "N-T39",
+    "pairs": [
+      "DTG-000913",
+      "DTG-000937"
+    ],
+    "ids": [
+      "U02047",
+      "U02048",
+      "U02049",
+      "U02050",
+      "U02105",
+      "U02106"
+    ],
+    "realization": "methods (retained provisionally); means proposed for paired category",
+    "status": "P3 construction test identifies the paired category; shared lexical assignment not activated",
+    "reason": "The explicit means/discerning-knowing division and later return to thabs establish the technical paired-category role, distinct from actual procedures at DTG-000755 and the releasing method at DTG-000857. Means is the supported candidate for shared reconciliation, but methods is not changed merely for preferred style or promoted to a book-wide rule. The current exact-linked wording remains provisional; do not extend either choice to the queried thab form or the unrelated thabs gcig construction.",
+    "review": "REVIEW.md#phase-d-notes-07"
+  },
+  {
+    "session": "DTG-PD-20261005-Astra-03",
+    "legacy_note": "N-092",
+    "pairs": [
+      "DTG-000919",
+      "DTG-000922",
+      "DTG-000923",
+      "DTG-000929",
+      "DTG-000932"
+    ],
+    "ids": [
+      "U02064",
+      "U02065",
+      "U02069",
+      "U02070",
+      "U02071",
+      "U02072",
+      "U02073",
+      "U02074",
+      "U02075",
+      "U02086",
+      "U02087",
+      "U02088",
+      "U02089",
+      "U02094",
+      "U02095"
+    ],
+    "realization": "spiritual accomplishment; familiarization; practitioner conditions",
+    "status": "Approved components and minimal condition/reference repairs; names and specifications remain provisional",
+    "reason": "Preserve blessings versus spiritual accomplishments versus generic practices of accomplishment; the seven/three/three groups and numerical sequences keep their actual order and unspecified units. The practitioner, not doubt/certainty or another person, engages and owns the ordinary mind. Blessed Lady retains the feminine source addition to the honorific, not an imported proper name. Whole ritual letter, deity, sealing/restoring and phyi nas constructions remain provisional.",
+    "review": "REVIEW.md#phase-d-notes-07"
+  },
+  {
+    "session": "DTG-PD-20261005-Astra-03",
+    "legacy_note": "N-093",
+    "pairs": [
+      "DTG-000941",
+      "DTG-000947"
+    ],
+    "ids": [
+      "U02111",
+      "U02112",
+      "U02113",
+      "U02114",
+      "U02115",
+      "U02124",
+      "U02125"
+    ],
+    "realization": "your aspiration; sacred pledges",
+    "status": "Imperative reference and complete P2 pledge label; whole continuation checked as context",
+    "reason": "The U02113–U02114 letters/colors alignment is already correct and is not reversed. Standalone mos pa is not assigned a new label from the different mos gus entry. The five sacred pledges and all practice/numerical counts remain unexpanded. The context through DTG-000955 has been read, including the command about doubt and the separate expelling variant boundary; no efficacy, harmful instruction or unstated recitation unit is added.",
+    "review": "REVIEW.md#phase-d-notes-07"
+  }
+]
+```
+
+**Important no-change cases:** The sound/voice and five-sense clauses retain the P1 acoustic exception, while the selected āli/kāli and deity/class names remain source-based, qualified and unreconstructed. By intrinsic nature without gyis remains the explicitly linked N-T35 grammatical proposal. The material-substance and actual-[illness] constructions are not automatically relabeled entity; the living-being expression is not sems can. Nominal entities, matter, actual/nonactual transference, shifting, and spo ba transferring remain distinguishable. Body/limbs in physical applications and branches of calculation/ritual remain their separate contextual senses.
+
+The two elemental tables, 404/80/24/16/8/4 hierarchy, mother-years and za-ma, 300,000 days, stars' not-being-two, alternating half-cycles, years/months/days and unspecified 180 are preserved with their existing qualifications. The supposedly missing four-embodiment and vehicle-classification lines are already restored; four-million is already withdrawn. These historical examples are not current omission/arithmetic verdicts. The free-from-sound phrase and explicit breath warning remain intact; no practice specification or claim of efficacy is supplied. The offering restrictions, not-accomplished-for-worldly-desire condition and the source's command about doubt are not softened, amplified or made into editorial endorsement.
+
+Whole expressions for generation/completion, mental engagement, leaving primordial liberation just as it is, and the two Great Perfection attachments remain as linked in N-091/N-T40–42. The final five results are not force-mapped onto a borrowed system. Meditative stability and paired-category means are recorded for shared reconciliation, not substituted merely because they are preferred or familiar. The full feminine Blessed Lady designation and ordinary aspiration wording are not reconstructed from different glossary heads.
+
+**Application, changed-clause self-check and validation:** All 32 English operations in 28 pairs were applied and reread against their current Tibetan in a 72-pair changed-clause/context view. The ordinary-basis classification, passive summoning agent, practitioner conditions, possessive references, continuing sentence boundaries and complete approved labels were rechecked without altering numbers, negation, source roles or the remaining qualified attachments. The thirteen scoped note/usage additions preserve the inherited records. G-U02129 was also read directly to verify that the expelling variant remains separate. This is a repair self-check, not another independent review.
+
+The final paired validator and projector check were actually rerun; both exit 1 at the historical protected-glossary contract. The full recorded-operation replay/integrity check exits 0: all 2,667 pair identities/order, fixed source/golden/policy/format/lineage, inherited notes/history and 700 English local-link targets pass. Current totals are 184 operations: 163 English repairs in 149 distinct pairs and 21 review links, affecting 161 pair payloads including note-only changes. The separate annotation repair is unchanged. There are 47 append-only Phase D usage dispositions; the prior 34 remain unchanged. English SHA-256: `109d4f76cd0ad3b0cc4134887a7ae76c786a5a30da0e6b84c76410ccaca6f6bc`. `git diff --check` passes. The blocked projector produced no new reader output.
+
+**Saved coverage:** 950/2,667 pairs, ordinals 1–950 through DTG-000947, with 238 first-encountered note records. Continue at ordinal 951 / DTG-000948. Ordinals 951–965 have additionally been read as connected context, not counted separately. Text remains provisional and the whole-work pass is still in progress.
 
 <!-- phase-d-findings -->
 
