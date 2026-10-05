@@ -10372,7 +10372,7 @@ Earlier notes: [N-110](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001148"></a>
 
 <!-- pair: DTG-001148 -->
-Through taking nourishment from vital essences in this way,
+Through taking nourishment from quintessence in this way,
 the torments of beings are cut off. [N-110](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-110)
 
 Earlier notes: [N-110](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-110).
@@ -10397,7 +10397,7 @@ Earlier notes: [N-111](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001151 -->
 From projecting and gathering wind,
-through the crucial point of going, coming, and holding, too,
+through the key point of going, coming, and holding, too,
 distinguish the respective elemental objects of focus
 in accord with the yogin's body.
 
@@ -10425,7 +10425,7 @@ Earlier notes: [N-111](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001154 -->
 Next, for cutting the flow of the body's elements,
-greatly wondrous taking of nourishment from vital essences is explained.
+greatly wondrous taking of nourishment from quintessence is explained.
 
 Earlier notes: [N-112](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-112).
 <!-- /pair -->
@@ -10442,7 +10442,7 @@ Earlier notes: [N-112](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001156"></a>
 
 <!-- pair: DTG-001156 -->
-Alternatively, extracted vital essence and liquid butter—
+Alternatively, extracted quintessence and liquid butter—
 by relying on [these] in the proper measure,
 the flows of the elements are cut.
 
@@ -10489,7 +10489,7 @@ Earlier notes: [N-112](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-001161 -->
 For the four elements,
 a yogin who makes their tastes equal
-brings the crucial points of earth, water, fire, and wind into accord.
+brings the key points of earth, water, fire, and wind into accord.
 
 Earlier notes: [N-113](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-113).
 <!-- /pair -->
@@ -10507,7 +10507,7 @@ Earlier notes: [N-113](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-001163 -->
 Transform one's own body through the respective elements,
 and, in engaging in this itself,
-cultivate the maṇḍala gathering the crucial points. [N-113](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-113)
+cultivate the mandala gathering the key points. [N-113](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-113)
 
 Earlier notes: [N-113](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-113).
 <!-- /pair -->
@@ -10548,7 +10548,7 @@ Earlier notes: [N-113](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001168 -->
 The qualities of the treasury are like this:
-with common and supreme accomplishments,
+with common and supreme spiritual accomplishments,
 one plays as one pleases, accomplishing [them] easefully.
 
 Earlier notes: [N-113](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-113).
@@ -10611,7 +10611,7 @@ Earlier notes: [N-114](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001175 -->
 Through cultivating primordial knowing free from conceptualization,
-reflecting on emptiness, and the crucial point, too,
+reflecting on emptiness, and the key point, too,
 without endeavor or effort, miracles
 will definitely be accomplished. [N-114](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-114)
 
@@ -10717,7 +10717,7 @@ Earlier notes: [N-115](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002672"></a>
 
 <!-- pair: DTG-002672 -->
-perform proliferating, gathering, absorbing, and coiling.
+perform projecting, gathering, absorbing, and coiling.
 
 Earlier notes: [N-115](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-115).
 <!-- /pair -->
@@ -10749,7 +10749,7 @@ The teacher, the buddha, the Blessed One,
 all his qualities complete in themselves,
 without utterance or spoken discourse,
 from the play of naturally arisen primordial knowing,
-as a miraculous display of words, phrases, and names,
+as a magical display of words, phrases, and names,
 appears to those of good fortune.
 
 Earlier notes: [N-115](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-115).
@@ -10802,12 +10802,12 @@ Earlier notes: [N-115](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-001193 -->
 Then the lord of the gods, free from conceptual thought,
 though inseparable from the basic space of phenomena,
-for the sentient beings of future times,
-through realization, definitely from samsara—
+for the karmic beings of future times,
+through realization, definitely from cyclic existence—
 with the conceptual mind [intent on] liberating them,
 first arousing ordinary mind,
 addressed the teacher himself in these words: [N-117](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-117)
-‘Kyé, kyé! Miraculously born embodiment!
+‘O, O! Miraculously born embodiment!
 
 Earlier notes: [N-116](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-116), [N-117](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-117), [N-T57](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t57).
 <!-- /pair -->
@@ -10815,8 +10815,8 @@ Earlier notes: [N-116](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001194"></a>
 
 <!-- pair: DTG-001194 -->
-For sentient beings, from the samsara of the three realms,
-what is the crucial point that brings liberation?
+For karmic beings, from the cyclic existence of the three realms,
+what is the key point that brings liberation?
 
 Earlier notes: [N-117](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-117).
 <!-- /pair -->
@@ -10832,7 +10832,7 @@ Earlier notes: [N-117](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001196"></a>
 
 <!-- pair: DTG-001196 -->
-What is the beginning of sentient beings' samsara?
+What is the beginning of karmic beings' cyclic existence?
 
 Earlier notes: [N-117](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-117).
 <!-- /pair -->
@@ -10848,7 +10848,7 @@ Earlier notes: [N-117](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001198"></a>
 
 <!-- pair: DTG-001198 -->
-What is this crucial point of buddhas' not being deluded?
+What is this key point of buddhas' not being deluded?
 
 Earlier notes: [N-117](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-117).
 <!-- /pair -->
@@ -10856,7 +10856,7 @@ Earlier notes: [N-117](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001199"></a>
 
 <!-- pair: DTG-001199 -->
-From what does sentient beings' delusion arise?
+From what does karmic beings' delusion arise?
 
 Earlier notes: [N-117](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-117).
 <!-- /pair -->
@@ -10888,7 +10888,7 @@ Earlier notes: [N-117](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001203"></a>
 
 <!-- pair: DTG-001203 -->
-What is the crucial point of the lamps like?
+What is the key point of the lamps like?
 
 Earlier notes: [N-117](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-117).
 <!-- /pair -->
@@ -10904,7 +10904,7 @@ Earlier notes: [N-117](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001205"></a>
 
 <!-- pair: DTG-001205 -->
-Where does the crucial point of the object arise?
+Where does the key point of the object arise?
 
 Earlier notes: [N-117](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-117).
 <!-- /pair -->
@@ -10920,7 +10920,7 @@ Earlier notes: [N-117](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001207"></a>
 
 <!-- pair: DTG-001207 -->
-What is the crucial point of the stages of conceptual mind like?
+What is the key point of the stages of conceptual mind like?
 
 Earlier notes: [N-117](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-117).
 <!-- /pair -->
@@ -10968,7 +10968,7 @@ Earlier notes: [N-117](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001213"></a>
 
 <!-- pair: DTG-001213 -->
-What is the crucial point of that primordial knowing itself?
+What is the key point of that primordial knowing itself?
 
 Earlier notes: [N-117](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-117).
 <!-- /pair -->
@@ -10992,7 +10992,7 @@ Earlier notes: [N-117](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001216"></a>
 
 <!-- pair: DTG-001216 -->
-What is the crucial point concerning the all-basis and dharma embodiment, the two?
+What is the key point concerning the all-basis and dharma embodiment, the two?
 
 Earlier notes: [N-117](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-117).
 <!-- /pair -->
@@ -11000,7 +11000,7 @@ Earlier notes: [N-117](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001217"></a>
 
 <!-- pair: DTG-001217 -->
-What is the crucial point concerning ordinary mind and primordial knowing?
+What is the key point concerning ordinary mind and primordial knowing?
 
 Earlier notes: [N-117](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-117).
 <!-- /pair -->
@@ -11008,7 +11008,7 @@ Earlier notes: [N-117](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001218"></a>
 
 <!-- pair: DTG-001218 -->
-By what are the clear and turbid aspects of the elements distinguished?
+By what are the pure extract and residue of the elements distinguished?
 
 Earlier notes: [N-117](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-117).
 <!-- /pair -->
@@ -11032,7 +11032,7 @@ Earlier notes: [N-117](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001221"></a>
 
 <!-- pair: DTG-001221 -->
-How many crucial points of the channels are there?
+How many key points of the channels are there?
 
 Earlier notes: [N-117](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-117).
 <!-- /pair -->
@@ -11078,7 +11078,7 @@ Earlier notes: [N-117](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001226"></a>
 
 <!-- pair: DTG-001226 -->
-Then the teacher, the vajra-holder,
+Then the teacher, Vajradhara,
 from the Great Perfection of intrinsic nature free from conceptual elaborations,
 though not abiding as words, phrases, or names,
 spoke to the lord of the gods in these words.
@@ -11094,9 +11094,9 @@ though not proclaimed as words, phrases, or names,
 great naturally arisen primordial knowing itself,
 from intrinsic nature, unmade from the outset,
 arose thus as unarranged phrases: [N-118](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-118)
-‘The beginning of samsara:
+‘The beginning of cyclic existence:
 from the undifferentiated, unmade, self and other,
-an object held as a focus arose.
+an object held as an object of focus arose.
 
 Earlier notes: [N-118](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-118).
 <!-- /pair -->
@@ -11113,7 +11113,7 @@ Earlier notes: [N-118](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001229 -->
 In the twelve connections of focusing and holding,
-there is the very beginning of samsara. [N-118](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-118)
+there is the very beginning of cyclic existence. [N-118](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-118)
 
 Earlier notes: [N-118](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-118).
 <!-- /pair -->
@@ -11138,7 +11138,7 @@ Earlier notes: [N-118](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001232"></a>
 
 <!-- pair: DTG-001232 -->
-This, too, is the beginning of samsara.
+This, too, is the beginning of cyclic existence.
 
 Earlier notes: [N-118](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-118).
 <!-- /pair -->
@@ -11248,7 +11248,7 @@ Earlier notes: [N-119](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-001244 -->
 Furthermore, for the portion of delusion of name-and-form:
 from naming, four designations, sixty-two—[Numerical grouping unresolved.] [N-119](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-119)
-samsara and nirvana, four, together with letters.
+cyclic existence and transcendence of sorrow, four, together with letters.
 
 Earlier notes: [N-119](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-119), [N-T56](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t56).
 <!-- /pair -->
@@ -11274,7 +11274,7 @@ Earlier notes: [N-119](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001247 -->
 For the six wheels of the sense bases, too,
-the crucial points of objects, knowing, and faculties:
+the key points of objects, knowing, and faculties:
 their respective portions of entry are eight, two, and six.
 
 Earlier notes: [N-120](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-120), [N-T56](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t56).
@@ -11493,7 +11493,7 @@ Earlier notes: [N-121](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001273"></a>
 
 <!-- pair: DTG-001273 -->
-These arose at the beginning of samsara.
+These arose at the beginning of cyclic existence.
 
 Earlier notes: [N-121](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-121).
 <!-- /pair -->
@@ -11501,7 +11501,7 @@ Earlier notes: [N-121](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001274"></a>
 
 <!-- pair: DTG-001274 -->
-For sentient beings' realms, with their many [aspects],
+For karmic beings' realms, with their many [aspects],
 in order to enter, engagement in all activities to their culmination,
 endowed [with these], is complete and closely taught. [N-121](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-121)
 
@@ -11527,7 +11527,7 @@ Earlier notes: [N-122](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-001277 -->
 The final extent of passing beyond sorrow:
 when all conceptual thought of delusion is exhausted,
-and the appearance of the agency of samsara is absent,
+and the appearance of the agency of cyclic existence is absent,
 delusion is self-appearance with conceptual thought exhausted.
 
 Earlier notes: [N-122](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-122), [N-T61](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t61).
@@ -11536,7 +11536,7 @@ Earlier notes: [N-122](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001278"></a>
 
 <!-- pair: DTG-001278 -->
-To posit transcendence, the realm of sentient beings,
+To posit transcendence [of sorrow], the realm of karmic beings,
 in its intrinsic nature, too, has this very object:
 not dependent on another, completely established;
 empty of imputed activity and expression;
@@ -11564,7 +11564,7 @@ Earlier notes: [N-122](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001281"></a>
 
 <!-- pair: DTG-001281 -->
-Thus, concerning the beginning and end of samsara and nirvana,
+Thus, concerning the beginning and end of cyclic existence and transcendence of sorrow,
 because the buddhas have not become deluded,
 through a noble faculty from the Ground,
 they know self-appearance to be without intrinsic nature.
@@ -11636,7 +11636,7 @@ Earlier notes: [N-123](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001289"></a>
 
 <!-- pair: DTG-001289 -->
-Its crucial point is the object:
+Its key point is the object:
 the object, the empty, and awareness's expressiveness are equal.
 
 Earlier notes: [N-123](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-123).
@@ -11653,7 +11653,7 @@ Earlier notes: [N-123](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001291"></a>
 
 <!-- pair: DTG-001291 -->
-Furthermore, the crucial point of not being deluded:
+Furthermore, the key point of not being deluded:
 through knowing one, all are liberated.
 
 Earlier notes: [N-123](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-123).
@@ -11687,7 +11687,7 @@ Earlier notes: [N-123](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001295"></a>
 
 <!-- pair: DTG-001295 -->
-Because there is no conceptual mind of action and agent,
+Because there is no conceptual mind of doing and the doer,
 with objects and conditions cleared away, there is buddhahood.
 
 Earlier notes: [N-123](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-123).
@@ -11720,7 +11720,7 @@ Earlier notes: [N-123](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001299"></a>
 
 <!-- pair: DTG-001299 -->
-Sentient beings' delusion, by wandering in
+Karmic beings' delusion, by wandering in
 the root dependent connections taught above,
 arises as the foundation of calculating delusion's mechanism.
 
@@ -11758,7 +11758,7 @@ Earlier notes: [N-124](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001303"></a>
 
 <!-- pair: DTG-001303 -->
-From knowing that becomes subtle through subtlety,
+From knowing that becomes subtler than subtle,
 conceptual examination and the apprehended portion become two.
 
 Earlier notes: [N-124](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-124).
@@ -11940,11 +11940,11 @@ Earlier notes: [N-125](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001323"></a>
 
 <!-- pair: DTG-001323 -->
-The respective crucial points of the spheres that bring maturity,
+The respective key points of the spheres that bring maturity,
 the conceptual thought that causes movement and holds coarsely,
 and the four and two portions of primordial knowing's appearance—
 through distinctions of arising and entering activity,
-in the precious palace of the heart (citta), [N-125](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-125)
+in the precious palace of citta, [N-125](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-125)
 a gathering of precious [qualities], with eight corners and doors,
 there are five primordial knowings and five embodiments;
 five winds, and five expressivenesses of knowing.
@@ -11963,7 +11963,7 @@ Earlier notes: [N-125](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001325"></a>
 
 <!-- pair: DTG-001325 -->
-The crucial point of embodiments is through radiance;
+The key point of embodiments is through radiance;
 that of primordial knowing is through its manner of abiding.
 
 Earlier notes: [N-125](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-125).
@@ -11988,7 +11988,7 @@ Earlier notes: [N-125](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001328"></a>
 
 <!-- pair: DTG-001328 -->
-The crucial point of wind is binding what is connected.
+The key point of wind is binding what is connected.
 
 Earlier notes: [N-125](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-125).
 <!-- /pair -->
@@ -12023,7 +12023,7 @@ Earlier notes: [N-125](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001332"></a>
 
 <!-- pair: DTG-001332 -->
-The crucial point of awareness is arising and
+The key point of awareness is arising and
 retaining and directing [it] toward space. [N-126](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-126)
 
 [^G-U02887]
@@ -12054,7 +12054,7 @@ Earlier notes: [N-126](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001335"></a>
 
 <!-- pair: DTG-001335 -->
-The crucial point of basic space is gathering,
+The key point of basic space is gathering,
 and joining summoning with the elements' dispersal and spreading.
 
 Earlier notes: [N-126](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-126).
@@ -12063,7 +12063,7 @@ Earlier notes: [N-126](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001336"></a>
 
 <!-- pair: DTG-001336 -->
-The crucial point of appearances is increase and exhaustion;
+The key point of appearances is increase and exhaustion;
 the manifold are liberated in their own places. [N-126](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-126)
 
 Earlier notes: [N-126](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-126).
@@ -12127,7 +12127,7 @@ Earlier notes: [N-127](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001343"></a>
 
 <!-- pair: DTG-001343 -->
-Ma [‘mother’] gathers the refined parts
+Ma [‘mother’] gathers the pure extract
 and makes a foundation for the upper and lower abodes. [N-127](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-127)
 
 Earlier notes: [N-127](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-127), [N-T65](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t65), [N-T69](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t69).
@@ -26714,7 +26714,7 @@ These source-reconciliation notes preserve the October 1 decision evidence. Each
 
     text: `"རྡོ་རྗེ་ལུ་གུ་རྒྱུད་གནས་ཙིཏྟ་ནས་སྒོ་མིག་ནས་ཡུལ་ནམ་མཁའ་ལ་ཡེ་ཤེས་དངོས་སུ་འཆར་རོ །"`
 
-    English: From their abode, the heart (citta), through the door of the eyes, primordial knowing actually arises as vajra chains in the object, space. Heart (citta) retains the earlier explicitly provisional bodily-context usage.
+    English: From their abode, citta, through the door of the eyes, primordial knowing actually arises as vajra chains in the object, space. Citta follows the adopted retention policy; the earlier heart identification remains a provisional possibility, not established by this annotation.
 
     Source qualification: The middle compact letters and exact note-terminal signs have not all been independently resolved. The note quotation is retained source-transcript wording, not a fresh fully certified transcription.
 
@@ -26746,7 +26746,7 @@ These source-reconciliation notes preserve the October 1 decision evidence. Each
 
     text: `"འདིའི་དུས་ན་རླུང་འདྲེན་པ། གནད་ཡིན་ནོ། །"`
 
-    English: At this time, drawing the wind is the crucial point. The note is assembled across the old U02887–U02889 fragments.
+    English: At this time, drawing the wind is the key point. The note is assembled across the old U02887–U02889 fragments.
 
     Source qualification: The functional attachment of small rig pa remains unresolved. This is a physical-layer reading, not a claim that the smaller words were never intended as a correction. All are preserved in the apparatus; the source-image punctuation is not globally re-encoded.
 
