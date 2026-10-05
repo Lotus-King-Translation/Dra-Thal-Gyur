@@ -1695,12 +1695,18 @@ Current golden-source updates: [G-C4-TRANSITION](ENDNOTES.md#g-c4-transition), [
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 14):** Honorific corrected; opening grammar qualified. The short honorific is Blessed One. Keep the complete stacked-ablative opening, thirty-two marks and the imperative request to distinguish phrase/meaning boundaries. The hierarchy of the from-clauses and foundation for gzhi ma remain local questions. The source’s translated Vajra-holder at DTG-002340 differs in form from earlier Vajradhara; within-work identity does not require erasing an actual source designation difference. [Current review and scope](REVIEW.md#phase-d-notes-14).
+
 <a id="n-205"></a>
 ## N-205 — Recipient descriptions / source spelling
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-205)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 14):** No change; recipient contrast and rtogs preserved. Faith and the faithful realize the established dad pa row, not an accidental synonym for trust. The quiet alternative recipient actually has rtogs pa chung, with final s: small realization is not silently changed to few conceptual thoughts. glen pa and lhod remain the linked simple-person/relaxation idiom question; neither is a blanket permission to merge letting be, release and relaxation families. [Current review and scope](REVIEW.md#phase-d-notes-14).
 
 <a id="n-206"></a>
 ## N-206 — Sevenfold grouping / assertions
@@ -1709,12 +1715,18 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 14):** No change; sevenfold grouping provisional. Retain every stated feature and the explicit seven count without replacing it with a received Ground taxonomy. The khas len bcas attachment and member boundaries remain unresolved; semicolons are working divisions, not approval of seven new shared technical labels. The Great Perfection naming/short-form family requires shared reconciliation rather than a newly invented canonical row. [Current review and scope](REVIEW.md#phase-d-notes-14).
+
 <a id="n-207"></a>
 ## N-207 — Ethical rhetoric / enumeration / instructional scope
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-207)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 14):** Key points corrected; rhetoric and source distinctions retained. Read the full chapter, including the later symbolic reversals and explicit conduct/sacred-pledge requirements. Retain the speaker’s first person, taking-life vocabulary, seven versus nine counts, negative discerning-knowing means, and the written exhaustion predicate. The three phrases/key points are not enumerated here. Ethical-list grouping and las activity/karma scope remain provisional; no practical permission to harm or invented harmless allegory is supplied. [Current review and scope](REVIEW.md#phase-d-notes-14).
 
 <a id="n-208"></a>
 ## N-208 — View of phrases/meaning / negative transmission clause
@@ -1723,12 +1735,18 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 14):** Transmission label corrected; major ablative/negation question retained. DTG-002369 reads ལུང་དང་བླ་མའི་མན་ངག་ལས། ། གང་གིས་བསྟན་པ་མེད་པའོ། །. The inherited English denies showing through transmission and the lama’s pith instructions. An exceptive reading of las instead gives apart from these, no one shows it. This potentially major reversal of the means/exception scope is not settled by P2 or by the fact that med is written. Retain the linked provisional English after removing unsupported authoritative; a construction-level parallel or authorized commentary is needed. At DTG-002366 gang gis also leaves an agent/means alternative to the inherited whatever-one-sees object parse. The sprul byed/mental-examination attachment remains uncertain. Do not silently repair these from doctrine or turn the whole passage into a universal rejection of teachers. [Current review and scope](REVIEW.md#phase-d-notes-14).
+
 <a id="n-209"></a>
 ## N-209 — Contextual chos can / four view categories
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-209)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 14):** No change; contextual whole expressions distinguished. mi rtog with skye is the locally abbreviated non-conceptuality construction, retaining the established mi rtog pa family rather than mixing it with rtog med or rtogs realization. Bearers of properties for chos can remains a contextual proposal contrasted with chos nyid, not the earlier formal logical-subject use. Unsurpassed in the list and suchness in its explanation are actual source differences; retain them and the eight-stage count. [Current review and scope](REVIEW.md#phase-d-notes-14).
 
 <a id="n-210"></a>
 ## N-210 — Distinct practice categories / compressed syntax
@@ -1737,12 +1755,18 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 14):** Key point corrected; separate practice categories preserved. Cultivation, the proposed bsam gtan meditative-stabilization label, deep absorption and the natural state are not collapsed into meditation. Their category boundaries were read. spro bsdu proliferating/gathering remains a source-linked family realization rather than an automatic equation with ’phro ’du; the emanation/transformations construction and ci ltar ellipsis remain provisional. Standalone resting of itself is not automatically the whole leaving-as-it-is expression. [Current review and scope](REVIEW.md#phase-d-notes-14).
+
 <a id="n-211"></a>
 ## N-211 — Negation scope / deviation list
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-211)
 
 Current golden-source updates: [G-U04923](ENDNOTES.md#g-u04923)
+
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 14):** No change; the final restriction governs the list. Read U04910–25 as one sequence: keep all initial negations and the concluding condition of not falling to the side of the listed appearances. The intervening resting/training/apprehending/casting-out items are not unqualified instructions to perform those acts. cha lugs, contrary training and skyur remain unresolved; G-U04923 already marks the selected skyur versus alternative sgyur, so no Tibetan emendation is made. [Current review and scope](REVIEW.md#phase-d-notes-14).
 
 <a id="n-212"></a>
 ## N-212 — Source form / cultivation versus failure to cultivate
@@ -1751,12 +1775,18 @@ Current golden-source updates: [G-U04923](ENDNOTES.md#g-u04923)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 14):** Entity/object components corrected; exact form and grammatical limits retained. The nominal dngos/dngos med contrast uses entities/absence of entities. The dmigs object-of-focus component is restored, but bound-to versus accompanied-by and its relation to objects remain provisional, not a new phrase-level default. rigs pa in order of the elements has final s and remains the N-T104 proposal, not awareness or automatically logical reasoning. Failure to cultivate is not canonical non-cultivation. Preserve the written self-awareness-bound-in-three-realms clause; glossary approval does not settle its doctrinal interpretation or subject/agent relation. [Current review and scope](REVIEW.md#phase-d-notes-14).
+
 <a id="n-213"></a>
 ## N-213 — Rhetorical negations / ethical list without predicate
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-213)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 14):** Approved entity/cyclic labels adopted; unresolved predicate retained. The absence-of-entities component is restored. Great completeness at DTG-002414 versus the later Great Perfection remains a short-expression identification question, not an approved chapter-wise variation; the comparison belongs to shared label reconciliation. The abbreviated verbal ’das at DTG-002413 retains its existing contextual passing-beyond-sorrow interpretation, not a rule for every ’das. The unpredicated ethical list at DTG-002416 remains explicitly linked and does not acquire an invented should-perform or an absent negation; all ritual negatives were read together with the later requirements. [Current review and scope](REVIEW.md#phase-d-notes-14).
 
 <a id="n-214"></a>
 ## N-214 — Fourfold grouping / assertions of identity
@@ -1765,12 +1795,18 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 14):** Approved labels corrected; four and identity predicates preserved. Keep desire, hatred, dull confusion and awakening as four, not a repaired three-affliction list with a newly supplied predicate. Preserve the stated Ground and key-point relationships. The rnam rtog las attachment at DTG-002424 remains provisional (coordination with karma versus activity belonging to conceptualization); replacing a label does not settle that relation. [Current review and scope](REVIEW.md#phase-d-notes-14).
+
 <a id="n-215"></a>
 ## N-215 — Contrived-view passage / unresolved idiom
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-215)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 14):** Approved labels corrected; rgyud/subject/idiom remain unresolved. Retain the contrived-view heading, all ungenerated/result/body negatives and the cutting-transcendence/ripening-cyclic-existence contrast. In DTG-002430 rgyud may mean a tantra in the parallel transmission/tenets/pith-instruction account, or the inherited continuum. P1 requires unambiguous literary use; this construction is not certified by proximity alone, so continuum remains linked provisional pending a parallel/commentary. lag bcangs stays exact and visibly unresolved. The subject and clause attachments at U04985–89 remain bounded questions, not repaired by a preferred doctrine. [Current review and scope](REVIEW.md#phase-d-notes-14).
 
 <a id="n-216"></a>
 ## N-216 — Paradoxical instruction / continuation
@@ -1779,12 +1815,18 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 14):** No change; exact conditional negation and referents retained. The if-not-cut-life and if-not-close-windows clauses were read with the entire subsequent symbolic section and conduct requirements. Their referents remain unresolved. No breath-stopping technique, violent target, harmless allegorical substitution, extra negation or practical efficacy claim is invented. [Current review and scope](REVIEW.md#phase-d-notes-14).
+
 <a id="n-217"></a>
 ## N-217 — Symbolic reversals / syntax / ethical rhetoric
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-217)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 14):** Cyclic-existence labels corrected; symbolic grammar retained. Keep the explicitly introduced symbolic meaning, all first-person/third-person relations, How strange refrain and contradictory practice consequences. The hell/king-of-Dharma la construction remains an unresolved locative/directional or relational parse. The source does not supply an operative violent interpretation or an allegorical key, and this review does not add one. [Current review and scope](REVIEW.md#phase-d-notes-14).
 
 <a id="n-218"></a>
 ## N-218 — Paradox / implied objects / numbers
@@ -1793,12 +1835,18 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 14):** Approved labels corrected; all/one contrasts and omitted objects retained. Preserve cutting/uprooting/sweeping imagery, every one/all/hundred contrast, and the written negative predicates. Bracketed [thing] at DTG-002447/002448 is a generic supply without dngos, so entity substitution would be a false positive. The above versus earlier temporal force of gong du in DTG-002454 and the striking/holding referents remain unresolved; no operative target or doctrinal answer is inserted. [Current review and scope](REVIEW.md#phase-d-notes-14).
+
 <a id="n-219"></a>
 ## N-219 — Conduct instructions / contrast with rhetorical negations
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-219)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 14):** Sacred pledges/seals adopted; conduct requirements retained. P2 now fixes sacred pledges and standalone seals, superseding the historical unapproved-gesture status in this scope. The text names phyag rgya with mantra/ritual categories, without specifically describing a bodily gesture. Keep the desire/do-not-attach/let-go order, prohibitions on disparagement, actual offerings and vowed requirements. sdom pa vows is distinct from sacred pledge; sku yi rgya seal of embodiment is a different complete construction and remains provisional, not automatically approved because English seal also occurs in the new row. mtho mi btsam and the bracketed [your own] remain linked questions. [Current review and scope](REVIEW.md#phase-d-notes-14).
 
 <a id="n-220"></a>
 ## N-220 — Practice sequence / ornaments / source variant / counts
@@ -1807,12 +1855,18 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: [G-A2000-C05-S01](ENDNOTES.md#g-a2000-c05-s01), [G-U05079](ENDNOTES.md#g-u05079), [G-U05094](ENDNOTES.md#g-u05094)
 
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 14):** Approved terms adopted; restored/source-separated material already effective. Spiritual accomplishments, sacred pledges, cyclic existence and without entities retain all meaningful components. A2000-C05-S01 already supplies the two reliance verses: they are not an omission. G-U05094 already separates the craft variant. Preserve ointments/pills, ornaments, six places, three applications and the eight/five/eight/thirty-two counts without recipes or recalculated taxonomy. Bodily exercises at DTG-002484 has the same explicit body-training context as the earlier scoped ’khrul ’khor proposal, not a global machinery substitution. Its exact methods and the signs/skillful-craft relation remain provisional. [Current review and scope](REVIEW.md#phase-d-notes-14).
+
 <a id="n-221"></a>
 ## N-221 — Cosmic imagery / source variant / negation
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-221)
 
 Current golden-source updates: [G-U05106](ENDNOTES.md#g-u05106)
+
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 14):** Approved labels adopted; obsolete source-priority criticism rejected. G-U05106 already selects main yas gzhi upper basis and keeps smaller ye gzhi primordial basis separate. N-221’s old reverse priority is historical, not a current defect; neither compound becomes technical Ground by composition. Preserve cosmic images, doing/acting distinctions, I/self, all negatives and the rhetorical question at U05109. Its exact scope and the residual abbreviated ’das lam identification remain qualified; labels do not settle them. [Current review and scope](REVIEW.md#phase-d-notes-14).
 
 <a id="n-222"></a>
 ## N-222 — Source gloss / idiom / metaphor
@@ -1821,6 +1875,9 @@ Current golden-source updates: [G-U05106](ENDNOTES.md#g-u05106)
 
 Current golden-source updates: [G-U05132](ENDNOTES.md#g-u05132)
 
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 14):** Cyclic-existence/karmic-being labels adopted; idiom retained. The already separated foundation-of-reliance variant is not reinserted into main prose. Preserve exact ya ma rla and the source-linked unresolved status, not a familiar philosophical substitute. The jewels/clouds/body/shadow metaphors and dependence/basis construction remain provisional; changing the approved labels does not create a global foundation or basis equivalent for every gzhi. [Current review and scope](REVIEW.md#phase-d-notes-14).
+
 <a id="n-223"></a>
 ## N-223 — Four visions / source spelling
 
@@ -1828,12 +1885,18 @@ Current golden-source updates: [G-U05132](ENDNOTES.md#g-u05132)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 14):** No change; complete four-vision expressions and final s preserved. The announced ordered four-vision sequence supports the already used complete established names, including vision rather than standalone appearance. The actual rtogs tshogs at U05160 retains final s and the provisional realizations wording; its coordination with delusion remains unresolved, not a merger into conceptual thought. Body and faculty-object exhaustion are explicit and not omitted or softened. [Current review and scope](REVIEW.md#phase-d-notes-14).
+
 <a id="n-224"></a>
 ## N-224 — Elemental sounds and signs / onomatopoeia
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-224)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+
+**Phase D disposition, 2026-10-05 (continuation 05; Batch 14):** Quotation close repaired; acoustic/physical uncertainties retained. The whole fire/water/earth/wind sign account, colophon and boundary graphic were read. sgra is genuinely acoustic here. The specific ’tsheg, stag/lhab, ldeg/sing and sbir/gzir sound/shape values remain provisional; no new global acoustic glossary entries are approved. Keep each success/failure condition, obstacle predicate, three/five/seven repetition and final definite assertion as the text’s claim, not independently verified efficacy. Close the teacher’s quotation before the narrative colophon; unresolved physical signs and the boundary graphic stay separate. [Current review and scope](REVIEW.md#phase-d-notes-14).
 
 <a id="n-225"></a>
 ## N-225 — Chapter opening / emergence of speech / numerical scope

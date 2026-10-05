@@ -20699,7 +20699,7 @@ Earlier notes: [N-204](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002328 -->
 The Lord of Gods supplicated:
-‘Kyema! Blessed one, lord without delusion,
+‘Kyema! Blessed One, lord without delusion,
 by whom will the Array of View and Cultivation
 be held?
 <!-- /pair -->
@@ -20933,8 +20933,8 @@ Earlier notes: [N-207](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002357"></a>
 
 <!-- pair: DTG-002357 -->
-In the identity of seeing the three crucial points,
-because the three phrases are explained as crucial points,
+In the identity of seeing the three key points,
+because the three phrases are explained as key points,
 there are no sharp or dull faculties.
 
 Earlier notes: [N-207](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-207).
@@ -21037,7 +21037,7 @@ Earlier notes: [N-208](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002369"></a>
 
 <!-- pair: DTG-002369 -->
-Neither authoritative transmission nor the lama's pith instructions
+Neither transmission nor the lama's pith instructions
 shows it by any [means]. [N-208](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-208)
 
 Earlier notes: [N-208](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-208).
@@ -21162,7 +21162,7 @@ Earlier notes: [N-210](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002385 -->
 Wind, channels, spheres,
-the body's crucial points, the eyes, and emptiness—
+the body's key points, the eyes, and emptiness—
 these are held to be cultivation.
 
 Earlier notes: [N-210](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-210).
@@ -21207,7 +21207,7 @@ Earlier notes: [N-210](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 Its activity and understanding:
 through activity, clinging to objects is cut,
 afflictions and the like are rejected,
-and the root of samsara is drawn out.
+and the root of cyclic existence is drawn out.
 <!-- /pair -->
 
 <a id="dtg-002391"></a>
@@ -21216,7 +21216,7 @@ and the root of samsara is drawn out.
 Through understanding, the nature of ordinary mind is held,
 made to abide, and wind is exhausted;
 the path of the empty nature of phenomena is found,
-and there is ground-appearance of pure intrinsic nature.
+and there is Ground-appearance of pure intrinsic nature.
 <!-- /pair -->
 
 <a id="dtg-002392"></a>
@@ -21301,7 +21301,7 @@ Earlier notes: [N-212](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002400 -->
 In the intrinsic nature of pure causes and conditions,
-things and absence of things are self-purified;
+entities and absence of entities are self-purified;
 clinging to the objects of the five gates is purified;
 the order of the elements is purified;
 and the increasing appearance of pure primordial knowing is shown.
@@ -21327,10 +21327,10 @@ Earlier notes: [N-212](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002403 -->
 The faults of not cultivating are:
-the characteristics of samsara manifest;
+the characteristics of cyclic existence manifest;
 self and other, objects and knowing,
 a view bound to phrases,
-and objects bound to focus—
+and objects bound to an object of focus—
 afflictions bind [one] as a self.
 
 Earlier notes: [N-212](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-212).
@@ -21369,7 +21369,7 @@ Through the view of abiding, all phenomena are realized.
 <a id="dtg-002408"></a>
 
 <!-- pair: DTG-002408 -->
-With intrinsic nature pure, samsara and nirvana are distinguished.
+With intrinsic nature pure, cyclic existence and transcendence of sorrow are distinguished.
 <!-- /pair -->
 
 <a id="dtg-002409"></a>
@@ -21399,14 +21399,14 @@ With no doing, non-arising is complete.
 <a id="dtg-002413"></a>
 
 <!-- pair: DTG-002413 -->
-Samsara being purified, there is passing beyond sorrow.
+Cyclic existence being purified, there is passing beyond sorrow.
 <!-- /pair -->
 
 <a id="dtg-002414"></a>
 
 <!-- pair: DTG-002414 -->
 Furthermore, the view of pure seeing:
-the great completeness of self-purified absence of things.
+the great completeness of self-purified absence of entities.
 
 Earlier notes: [N-213](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-213).
 <!-- /pair -->
@@ -21462,7 +21462,7 @@ Earlier notes: [N-213](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002420 -->
 Furthermore, the view of intrinsic nature:
-the Great Perfection of intrinsic nature, without things.
+the Great Perfection of intrinsic nature, without entities.
 
 Earlier notes: [N-214](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-214).
 <!-- /pair -->
@@ -21502,7 +21502,7 @@ Earlier notes: [N-214](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002425"></a>
 
 <!-- pair: DTG-002425 -->
-Without rejecting samsara, there is the buddhas' enlightened intent.
+Without rejecting cyclic existence, there is the buddhas' enlightened intent.
 
 Earlier notes: [N-214](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-214).
 <!-- /pair -->
@@ -21526,7 +21526,7 @@ Earlier notes: [N-214](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002428"></a>
 
 <!-- pair: DTG-002428 -->
-Karma, habitual tendencies, and clinging are crucial points of view. [N-214](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-214)
+Karma, habitual tendencies, and clinging are key points of view. [N-214](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-214)
 
 Earlier notes: [N-214](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-214).
 <!-- /pair -->
@@ -21545,10 +21545,10 @@ Earlier notes: [N-215](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002430"></a>
 
 <!-- pair: DTG-002430 -->
-With tenets not arising from authoritative transmission,
+With tenets not arising from transmission,
 and pith instructions not relying on the continuum,
-one cuts the root of passing beyond sorrow,
-and makes the result of samsara ripen.
+one cuts the root of transcendence of sorrow,
+and makes the result of cyclic existence ripen.
 
 Earlier notes: [N-215](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-215).
 <!-- /pair -->
@@ -21618,10 +21618,10 @@ Earlier notes: [N-217](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002438"></a>
 
 <!-- pair: DTG-002438 -->
-Through viewing, [one enters] samsara in the three realms;
+Through viewing, [one enters] cyclic existence in the three realms;
 through cultivating, one gathers all the hosts of afflictions;
 through enacting activity, [one enters] deviation and obscuration;
-the result is the very cause of samsara. [N-217](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-217)
+the result is the very cause of cyclic existence. [N-217](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-217)
 
 Earlier notes: [N-217](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-217).
 <!-- /pair -->
@@ -21677,8 +21677,8 @@ Earlier notes: [N-218](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002444"></a>
 
 <!-- pair: DTG-002444 -->
-Emptying the Ground of samsara in the three realms,
-one sweeps away passing beyond sorrow.
+Emptying the Ground of cyclic existence in the three realms,
+one sweeps away transcendence of sorrow.
 
 Earlier notes: [N-218](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-218).
 <!-- /pair -->
@@ -21686,7 +21686,7 @@ Earlier notes: [N-218](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002445"></a>
 
 <!-- pair: DTG-002445 -->
-Cutting the root of ignorance and samsara,
+Cutting the root of ignorance and cyclic existence,
 one uproots the result of the three embodiments.
 
 Earlier notes: [N-218](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-218).
@@ -21827,7 +21827,7 @@ Earlier notes: [N-219](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002462"></a>
 
 <!-- pair: DTG-002462 -->
-Do not interrupt the flow of mantra and gestures.
+Do not interrupt the flow of mantra and seals.
 
 Earlier notes: [N-219](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-219).
 <!-- /pair -->
@@ -21851,7 +21851,7 @@ Earlier notes: [N-219](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002465"></a>
 
 <!-- pair: DTG-002465 -->
-Furthermore, I shall explain pledges and vows.
+Furthermore, I shall explain sacred pledges and vows.
 
 Earlier notes: [N-219](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-219).
 <!-- /pair -->
@@ -21896,7 +21896,7 @@ Earlier notes: [N-219](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002470 -->
 Relying on mandalas, mantras, deities,
-and gestures is authentic.
+and seals is authentic.
 
 Earlier notes: [N-219](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-219).
 <!-- /pair -->
@@ -21913,7 +21913,7 @@ Earlier notes: [N-219](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002472"></a>
 
 <!-- pair: DTG-002472 -->
-Possessing vows, abide in the pledges. [N-219](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-219)
+Possessing vows, abide in the sacred pledges. [N-219](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-219)
 
 Earlier notes: [N-219](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-219).
 <!-- /pair -->
@@ -21966,7 +21966,7 @@ Earlier notes: [N-220](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002478"></a>
 
 <!-- pair: DTG-002478 -->
-The doing of activity is clear and without things.
+The doing of activity is clear and without entities.
 
 Earlier notes: [N-220](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-220).
 <!-- /pair -->
@@ -21974,7 +21974,7 @@ Earlier notes: [N-220](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002479"></a>
 
 <!-- pair: DTG-002479 -->
-Take the foremost of supreme accomplishments;
+Take the foremost of supreme spiritual accomplishments;
 make the wheel of adornments at the six places. [N-220](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-220)
 
 Earlier notes: [N-220](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-220).
@@ -21984,9 +21984,9 @@ Earlier notes: [N-220](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002480 -->
 Furthermore, reliance and entry:
-relying on the lama ceases the flow of samsara;
+relying on the lama ceases the flow of cyclic existence;
 relying on empowerment ripens body and voice;
-relying on pledges brings accomplishments;
+relying on sacred pledges brings spiritual accomplishments;
 through reliance on the view, the three realms are cut off;
 through reliance on cultivation, the flow of delusion stops;
 relying on activity trains the body.
@@ -22000,7 +22000,7 @@ Earlier notes: [N-220](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002481 -->
 Whatever arises from these objects of reliance
-is itself pledges and vows.
+is itself sacred pledges and vows.
 
 Earlier notes: [N-220](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-220).
 <!-- /pair -->
@@ -22091,7 +22091,7 @@ Earlier notes: [N-221](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002491"></a>
 
 <!-- pair: DTG-002491 -->
-Draw samsara out entirely; block the path of passing beyond sorrow.
+Draw cyclic existence out entirely; block the path of transcendence of sorrow.
 
 Earlier notes: [N-221](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-221).
 <!-- /pair -->
@@ -22183,7 +22183,7 @@ Earlier notes: [N-221](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002502"></a>
 
 <!-- pair: DTG-002502 -->
-There are no phenomena, no buddhas, and no sentient beings.
+There are no phenomena, no buddhas, and no karmic beings.
 
 Earlier notes: [N-221](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-221).
 <!-- /pair -->
@@ -22265,7 +22265,7 @@ Intrinsic nature being clear, meaning is accomplished.
 
 <!-- pair: DTG-002514 -->
 Self-purity and the foundation,
-and the foundation mixed with samsara—
+and the foundation mixed with cyclic existence—
 hollow and without a core:
 called ‘ya ma rla,’ beyond indication. [N-222](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-222)
 
@@ -22299,7 +22299,7 @@ Earlier notes: [N-222](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002517 -->
 Through different dependencies upon the basis of delusion,
-the activities of sentient beings are diverse. [N-222](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-222)
+the activities of karmic beings are diverse. [N-222](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-222)
 
 Earlier notes: [N-222](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-222).
 <!-- /pair -->
@@ -22475,7 +22475,7 @@ Earlier notes: [N-224](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002535"></a>
 
 <!-- pair: DTG-002535 -->
-Accord definitely with the respective signs. [N-224](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-224)
+Accord definitely with the respective signs.’ [N-224](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-224)
 
 Earlier notes: [N-224](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-224).
 <!-- /pair -->
