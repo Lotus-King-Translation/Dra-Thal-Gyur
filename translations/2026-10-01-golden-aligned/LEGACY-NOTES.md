@@ -464,6 +464,8 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+**Phase D disposition, 2026-10-05 (continuation 03):** P1 acoustic exception adopted within the actual acoustic clauses. The voice/melody, listening and elemental-sound clauses support sound. The complete sgra don expression at U01374 keeps word and meaning. The old proposed-exception status is historical. Gshang, lengtheners, the All-Pervader and sky-soarer designation/application remain qualified; no mantra or seasonal scheme is imported. [Current review and scope](REVIEW.md#phase-d-notes-06).
+
 <a id="n-067"></a>
 ## N-067 — Worldly attainments / missing recipe details / safety
 
@@ -477,6 +479,8 @@ Current golden-source updates: No new source-difference disposition attached; th
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-068)
 
 Current golden-source updates: [G-U01414](ENDNOTES.md#g-u01414), [G-U01416](ENDNOTES.md#g-u01416), [G-U01417](ENDNOTES.md#g-u01417), [G-U01422](ENDNOTES.md#g-u01422), [G-U01439](ENDNOTES.md#g-u01439)
+
+**Phase D disposition, 2026-10-05 (continuation 03):** Minimal English repair and approved component; whole ritual constructions provisional. The preparation still precedes the time clause in source order; only the existing English verb is placed before its object. No old alignment error is reintroduced. Quintessence repairs the bcud component at U01440 without resolving its full own-year construction. Ingredient identities, absorbed/combined and A/ali alternatives, quantities and application referents stay qualified. [Current review and scope](REVIEW.md#phase-d-notes-06).
 
 <a id="n-069"></a>
 ## N-069 — Historical alchemical prescription / unidentified term / editorial safety note
@@ -499,12 +503,16 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+**Phase D disposition, 2026-10-05 (continuation 03):** Approved gnad labels; shared-control family questions remain open. The current fixed reading gzhi dag is not silently changed to bzhi/four. Technical Ground versus an ordinary basis and dag attachment remain provisional at U01479. Gti mug and kho na nyid remain unapproved whole labels; gti mug will be compared with rmongs/rmugs and the affliction lists, preserving ignorance, delusion and technical dullness. The separate body/yoga/ordinary-mind expressiveness and clear-light/sleep mixing remain visible. [Current review and scope](REVIEW.md#phase-d-notes-06).
+
 <a id="n-072"></a>
 ## N-072 — Dream practice / enumeration / continuation
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-072)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+**Phase D disposition, 2026-10-05 (continuation 03):** Complete continuation read; approved components applied; graded relationships still provisional. The full U01493–U01513 sequence has now been read together, not stopped at an old authoring-batch boundary. All actions, examination/overpowering/habitual-tendency triad and repeated inferior-grade statements are preserved. The already qualified concentrating construction takes quintessence; no new procedural definition or hierarchy is inferred. [Current review and scope](REVIEW.md#phase-d-notes-06).
 
 <a id="n-073"></a>
 ## N-073 — Taming ordinary mind / compressed predicates
@@ -534,12 +542,16 @@ Current golden-source updates: [G-U01567](ENDNOTES.md#g-u01567), [G-U01595](ENDN
 
 Current golden-source updates: [G-U01598](ENDNOTES.md#g-u01598)
 
+**Phase D disposition, 2026-10-05 (continuation 03):** P3 paired-label evaluation pending shared assignment; local condition repaired. The owner-preferred superficial/superfactual pair was tested together against the sphere distinction: the former is linked to the woman/channels/wind sequence, the latter to empty dharma-embodiment domains and the canonical lamp of the empty sphere. This supports a paired proposal but does not settle the physical/visionary scope or authorize a new shared default. Retain current relative/ultimate provisionally; do not apply either proposal to mthar thug or generic English adjectives. The full characteristics repetition, family-woman qualification, caste wording as source language, and unspecified techniques remain intact. At U01617 only the practitioner condition/process is repaired, not its appearing object. [Current review and scope](REVIEW.md#phase-d-notes-06).
+
 <a id="n-077"></a>
 ## N-077 — Ḍākinī activities / transference / variant / referents
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-077)
 
 Current golden-source updates: [G-U01627](ENDNOTES.md#g-u01627), [G-U01634](ENDNOTES.md#g-u01634), [G-U01635](ENDNOTES.md#g-u01635), [G-U01657](ENDNOTES.md#g-u01657)
+
+**Phase D disposition, 2026-10-05 (continuation 03):** Approved realm label; separate bare-form and whole-expression questions retained. Dngos la at U01628 is now linked as a nominal-objects versus actuality construction question. Do not force it to entity from the spelling alone. The explicit actual/nonactual transference contrast and method-versus-ordinary-mind-familiarity explanation support retaining those contextual adjective senses at U01639–U01646. Transference, word/craft/illusory-expressiveness and the dream/illusory-body scope remain provisional whole-expression treatments; the ensuing intermediate-state continuation is read as context, not yet added to this batch coverage. [Current review and scope](REVIEW.md#phase-d-notes-06).
 
 <a id="n-078"></a>
 ## N-078 — Dependent connections / variant / elemental pair differences
@@ -1756,6 +1768,8 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 **Phase D disposition, 2026-10-05 (continuation 03):** Approved P2 component in the same reviewed nourishment construction; complete construction provisional. Extend the earlier scoped quintessence disposition to this actual smell/nourishment occurrence. Do not turn the older whole-expression proposal into a shared assignment or settle the distinct gnas bcud yul question. [Current review and scope](REVIEW.md#phase-d-notes-05).
 
+**Phase D disposition, 2026-10-05 (continuation 03):** Approved P2 component in further occurrences; whole construction provisional. Extend the already recorded local nourishment treatment to U01442 and U01452. The old vital-essences variant is superseded only in these current clauses. The historical prescription remains explicitly editorially cautioned, and unidentified ingredients, objects and sequence are not reconstructed. [Current review and scope](REVIEW.md#phase-d-notes-06).
+
 <a id="n-t17"></a>
 ## N-T17 — terminology / usage record
 
@@ -1866,6 +1880,8 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 **Phase D disposition, 2026-10-05 (continuation 03):** Locally supported physical construction under P1; no shared reassignment. Earth explicitly provides the bodily foundation. Retain foundation rather than impose technical Ground or replace it with basis merely for uniformity. This disposition does not yet cover U01339 or settle the other Ground-of-words and chapter-outline uses. [Current review and scope](REVIEW.md#phase-d-notes-05).
 
+**Phase D disposition, 2026-10-05 (continuation 03):** Locally supported ordinary teaching-support construction under P1. U01339 has now been read in the complete qualities account: the teacher upholds the teaching through sixty excellences. Foundation is retained locally, not changed to technical Ground or replaced with basis merely for uniformity. This extends only the earlier physical-foundation disposition to the separately evidenced teaching-support construction; no shared glossary reassignment results. [Current review and scope](REVIEW.md#phase-d-notes-06).
+
 <a id="n-t31"></a>
 ## N-T31 — terminology / usage record
 
@@ -1893,6 +1909,8 @@ Current golden-source updates: No new source-difference disposition attached; th
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-t34)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+**Phase D disposition, 2026-10-05 (continuation 03):** Supported local two-member analysis; not a replacement for canonical wind-mind. The explicit gnyis and mixing construction support retaining both separately named members in this clause. Their precise gnyis su relation remains qualified; no merging into one or nondual result is supplied. This does not authorize splitting the established wind-mind expression in other constructions. [Current review and scope](REVIEW.md#phase-d-notes-06).
 
 <a id="n-t35"></a>
 ## N-T35 — terminology / usage record

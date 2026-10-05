@@ -5304,7 +5304,7 @@ Earlier notes: [N-064](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000603"></a>
 
 <!-- pair: DTG-000603 -->
-Knowing this blocks the path of samsara.
+Knowing this blocks the path of cyclic existence.
 
 Earlier notes: [N-064](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-064).
 <!-- /pair -->
@@ -5312,7 +5312,7 @@ Earlier notes: [N-064](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000604"></a>
 
 <!-- pair: DTG-000604 -->
-Direct perception arising from the crucial point itself—
+Direct perception itself, arising from the key point—
 through the power of familiarity, delusion is destroyed.
 
 Earlier notes: [N-064](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-064).
@@ -5403,7 +5403,7 @@ Earlier notes: [N-064](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000615"></a>
 
 <!-- pair: DTG-000615 -->
-This, too, blocks the gate of samsara.
+This, too, blocks the gate of cyclic existence.
 
 Earlier notes: [N-064](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-064).
 <!-- /pair -->
@@ -5764,9 +5764,9 @@ Earlier notes: [N-068](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-000654 -->
 A person gathering ḍākinīs under his power,
 having gone to a place where mamos assemble,
-a preparation of precious substances— [N-068](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-068)
-at the time when the heads of the elements meet, [N-068](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-068)
-properly combines [them] into the pill itself. [N-068](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-068)
+properly combines a preparation of precious substances— [N-068](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-068)
+at the time when the heads of the elements meet— [N-068](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-068)
+into the pill itself. [N-068](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-068)
 
 [^G-U01422]
 
@@ -5828,7 +5828,7 @@ Earlier notes: [N-068](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000660"></a>
 
 <!-- pair: DTG-000660 -->
-Taking the vitality of the elements of one's own year,
+Taking the quintessence of the elements of one's own year,
 by going to the place, one definitely accomplishes [this]. [N-068](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-068)
 
 Earlier notes: [N-068](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-068).
@@ -5837,7 +5837,7 @@ Earlier notes: [N-068](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000661"></a>
 
 <!-- pair: DTG-000661 -->
-One wishing to take nourishment from vital essences: [N-T16](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t16)
+One wishing to take nourishment from quintessence: [N-T16](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t16)
 the method of combining the five nectars,
 and, further, balancing the elements—
 a skilled person properly combines them in equal parts
@@ -5862,7 +5862,7 @@ Taking a drop of mercury at a time, [Editorial safety note: Do not carry out thi
 likewise, [a portion] the size of a bean—
 if those skilled consume [it],
 there is no doubt that it becomes
-a great [practice of] taking nourishment from vital essences. [N-069](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-069)
+a great [practice of] taking nourishment from quintessence. [N-069](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-069)
 
 Earlier notes: [N-069](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-069).
 <!-- /pair -->
@@ -5993,7 +5993,7 @@ Earlier notes: [N-071](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000678"></a>
 
 <!-- pair: DTG-000678 -->
-The crucial point is to hold the channels at their sources.
+The key point is to hold the channels at their sources.
 
 Earlier notes: [N-071](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-071).
 <!-- /pair -->
@@ -6010,7 +6010,7 @@ Earlier notes: [N-071](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000680"></a>
 
 <!-- pair: DTG-000680 -->
-The crucial point is to cut the flows of expression.
+The key point is to cut the flows of expression.
 
 Earlier notes: [N-071](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-071).
 <!-- /pair -->
@@ -6027,7 +6027,7 @@ Earlier notes: [N-071](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000682"></a>
 
 <!-- pair: DTG-000682 -->
-The crucial point is familiarity with sleep.
+The key point is familiarity with sleep.
 
 Earlier notes: [N-071](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-071).
 <!-- /pair -->
@@ -6054,8 +6054,8 @@ Earlier notes: [N-071](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000685"></a>
 
 <!-- pair: DTG-000685 -->
-Taking the crucial points of dreams onto the path
-consists of preparation and applying the crucial points.
+Taking the key points of dreams onto the path
+consists of preparation and applying the key points.
 
 Earlier notes: [N-072](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-072).
 <!-- /pair -->
@@ -6074,10 +6074,10 @@ Earlier notes: [N-072](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000687"></a>
 
 <!-- pair: DTG-000687 -->
-Then, at the time of applying the crucial points:
+Then, at the time of applying the key points:
 training, transformation, cutting off, and
-stirring, concentrating the vitality, and releasing at the crucial point;
-by applying the crucial points of gathering and reversing, [N-072](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-072)
+stirring, concentrating the quintessence, and releasing at the key point;
+by applying the key points of gathering and reversing, [N-072](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-072)
 karmic dreams are exhausted to their limit,
 and the delusion of habitual tendencies is uprooted.
 
@@ -6200,8 +6200,8 @@ Earlier notes: [N-073](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000700 -->
 The main practice, relying on one's own continuum,
-depends on the crucial points of body and speech
-and the crucial point of ordinary mind.
+depends on the key points of body and speech
+and the key point of ordinary mind.
 
 [^G-U01534]
 
@@ -6262,6 +6262,8 @@ it generates beings' luster and splendor;
 it performs every activity of spreading and gathering.
 
 Earlier notes: [N-074](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-074).
+
+Review note: [Merit/karma construction provisional](../translations/2026-10-01-golden-aligned/REVIEW.md#pd-q06-01).
 <!-- /pair -->
 
 <a id="dtg-000707"></a>
@@ -6298,7 +6300,7 @@ Earlier notes: [N-074](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000710"></a>
 
 <!-- pair: DTG-000710 -->
-The crucial point of the body is the channels:
+The key point of the body is the channels:
 their places, arrangement, and movement;
 their support of the wheels and the body's life-force;
 names, particulars, causes, and conditions;
@@ -6348,7 +6350,7 @@ Earlier notes: [N-075](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000715"></a>
 
 <!-- pair: DTG-000715 -->
-Thus, through the crucial points of the channels, too,
+Thus, through the key points of the channels, too,
 the abode of buddhahood is indicated.
 
 Earlier notes: [N-075](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-075).
@@ -6384,7 +6386,7 @@ Earlier notes: [N-075](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000719"></a>
 
 <!-- pair: DTG-000719 -->
-Or, when a skilled person seeks the crucial point,
+Or, when a skilled person seeks the key point,
 those definitely moving from the channels—
 one hundred thousand, twenty thousand,
 six thousand, and six hundred—
@@ -6413,7 +6415,7 @@ Earlier notes: [N-075](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000722"></a>
 
 <!-- pair: DTG-000722 -->
-Through their crucial point, one strives in methods of application.
+Through their key point, one strives in methods of application.
 
 Earlier notes: [N-075](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-075).
 <!-- /pair -->
@@ -6422,7 +6424,7 @@ Earlier notes: [N-075](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000723 -->
 For the great [movements], one calculates the time
-and examines supreme and common accomplishments.
+and examines supreme and common spiritual accomplishments.
 
 Earlier notes: [N-075](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-075).
 <!-- /pair -->
@@ -6536,7 +6538,7 @@ Earlier notes: [N-076](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000735"></a>
 
 <!-- pair: DTG-000735 -->
-Engaging in familiarity without [distinguishing] day and night,
+When one engages in familiarization without [distinguishing] day and night,
 this itself appears directly, free from effort.
 
 Earlier notes: [N-076](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-076).
@@ -6587,9 +6589,11 @@ and through examining the domains of form, sound, smell, taste,
 and touch, [N-T03](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t03)
 the culmination of common worldly activities
 and higher knowing are perfected,
-and one enjoys the fields.
+and one enjoys the realms.
 
 Earlier notes: [N-077](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-077), [N-T03](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t03).
+
+Review note: [Bare dngos construction provisional](../translations/2026-10-01-golden-aligned/REVIEW.md#pd-q06-02).
 <!-- /pair -->
 
 <a id="dtg-000741"></a>
