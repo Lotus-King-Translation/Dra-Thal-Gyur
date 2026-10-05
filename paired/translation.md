@@ -2546,7 +2546,7 @@ Earlier notes: [N-037](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000304"></a>
 
 <!-- pair: DTG-000304 -->
-Through the modes of subject and property, [N-T20](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t20)
+Through the modes of subject and the nature of phenomena, [N-T20](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t20)
 engaging two by two, it projects.
 
 Earlier notes: [N-037](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-037), [N-T20](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t20).
@@ -7872,7 +7872,7 @@ Earlier notes: [N-087](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000873"></a>
 
 <!-- pair: DTG-000873 -->
-By one possessing the gesture of summoning,
+By one possessing the seal of summoning,
 food and wealth bound by miserliness
 are taken by transferring, to offer to the guru.
 
@@ -8287,7 +8287,7 @@ Earlier notes: [N-092](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 From the clarifiers that generate,
 through their respective colors, from outside,
 complete all the branches of the rite,
-and arise in the form of the Blessed Lady.
+and arise in the form of the female Blessed One.
 
 Earlier notes: [N-092](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-092).
 <!-- /pair -->
@@ -8962,7 +8962,7 @@ Earlier notes: [N-098](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 The definite times of the twelve years,
 properly joined in accord with oneself:
 at the beginning of each respective time,
-sound, instructions, and so forth—[N-098](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-098)
+sound, oral instructions, and so forth—[N-098](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-098)
 from twelve magical displays of objects of focus,
 the gods—among the worldly gods,
 the eleven who act as protectors—
@@ -9672,7 +9672,7 @@ Earlier notes: [N-104](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001070 -->
 In brief, the voices of the six destinies:
-utter ordinary mind's mindfulness and reflection through speech. [N-104](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-104)
+utter ordinary mind's mindfulness and thinking through speech. [N-104](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-104)
 
 Earlier notes: [N-104](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-104), [N-T48](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t48).
 <!-- /pair -->
@@ -9699,7 +9699,7 @@ Earlier notes: [N-104](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001073 -->
 For past, future, and present,
-rely on the wheel of mindfulness and reflection, proliferating and gathering.
+rely on the wheel of mindfulness and thinking, proliferating and gathering.
 
 Earlier notes: [N-104](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-104), [N-T48](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t48).
 <!-- /pair -->
@@ -9794,7 +9794,7 @@ Earlier notes: [N-105](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001084"></a>
 
 <!-- pair: DTG-001084 -->
-While moving, apply the manner of gazing with the eyes.
+While moving, apply the gaze with the eyes.
 
 Earlier notes: [N-105](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-105).
 <!-- /pair -->
@@ -10106,7 +10106,7 @@ Earlier notes: [N-107](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001120"></a>
 
 <!-- pair: DTG-001120 -->
-In order to exhaust delusive appearances,
+In order to exhaust delusory appearances,
 continually become familiar with wind. [N-107](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-107)
 
 Earlier notes: [N-107](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-107).
@@ -12467,7 +12467,7 @@ Earlier notes: [N-129](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001382 -->
 The lamp of naturally arising discerning knowing
-gathers all phenomena into equal, single taste,
+gathers all phenomena into one equal taste,
 and holds self-appearance.
 
 Earlier notes: [N-129](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-129).
@@ -12686,7 +12686,7 @@ Earlier notes: [N-132](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001407 -->
 Through their own radiance being clear, within a body of light,
-they gather primordial knowing free from conceptualization.
+they gather primordial knowing free from conceptual thought.
 
 Earlier notes: [N-132](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-132).
 <!-- /pair -->
@@ -13065,7 +13065,7 @@ Earlier notes: [N-135](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001450 -->
 The empty sphere relies on
-consciousness itself, the intervening space,
+consciousness itself, the open sky,
 channels, wind, and spheres,
 and primordial knowing.
 
@@ -13153,7 +13153,7 @@ Earlier notes: [N-135](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001459 -->
 A person who becomes familiar with basic space,
-having emptied delusive appearances,
+having emptied delusory appearances,
 through seeing the object of the pure nature of phenomena,
 emerges from the very source of objects of attachment. [N-135](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-135)
 
@@ -14140,7 +14140,7 @@ Earlier notes: [N-145](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001573"></a>
 
 <!-- pair: DTG-001573 -->
-Not as characteristics with delineations,
+Not as marks with delineations,
 without delineation, it is accomplished from the condition of what is to be known. [N-145](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-145)
 
 Earlier notes: [N-145](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-145).
@@ -14315,7 +14315,7 @@ Earlier notes: [N-147](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001594"></a>
 
 <!-- pair: DTG-001594 -->
-There are no characteristics of arbitrary holding.
+There are no marks of arbitrary holding.
 
 Earlier notes: [N-147](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-147).
 <!-- /pair -->
@@ -14382,7 +14382,7 @@ Earlier notes: [N-148](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-001602 -->
 Its essence enters and pervades;
-it is the Ground of mindfulness and reflection.
+it is the Ground of mindfulness and thinking.
 
 Earlier notes: [N-148](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-148).
 <!-- /pair -->
@@ -14875,7 +14875,7 @@ Earlier notes: [N-151](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001659"></a>
 
 <!-- pair: DTG-001659 -->
-Delusive appearances exhausted, there are fields.
+Delusory appearances exhausted, there are realms.
 
 Earlier notes: [N-151](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-151).
 <!-- /pair -->
@@ -15476,7 +15476,7 @@ Earlier notes: [N-157](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-001727"></a>
 
 <!-- pair: DTG-001727 -->
-Through aging, phenomena are exhausted and delusive appearances stop.
+Through aging, phenomena are exhausted and delusory appearances stop.
 
 Earlier notes: [N-157](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-157).
 <!-- /pair -->
@@ -18172,7 +18172,7 @@ Earlier notes: [N-179](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002034 -->
 Furthermore, this is to be explained:
-from mindfulness and reflection in which differentiating conceptualization gathers,
+from mindfulness and thinking in which differentiating conceptualization gathers,
 even the dharma embodiment becomes form. [N-180](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-180)
 
 Earlier notes: [N-180](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-180).
@@ -18206,7 +18206,7 @@ Why is there conceptual thought concerning this?
 <a id="dtg-002038"></a>
 
 <!-- pair: DTG-002038 -->
-From the intrinsic nature of gathered mindfulness and reflection,
+From the intrinsic nature of gathered mindfulness and thinking,
 even the dharma embodiment becomes cyclic existence. [N-180](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-180)
 
 Earlier notes: [N-180](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-180).
@@ -18661,7 +18661,7 @@ Earlier notes: [N-186](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002091"></a>
 
 <!-- pair: DTG-002091 -->
-‘Kye kye! Truly complete buddha,
+‘O, O! Truly complete buddha,
 through the Array of Primordial Knowing,
 I have gained respite from the activities of cyclic existence,
 and been uplifted on the path of transcendence of sorrow. [N-186](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-186)
@@ -18837,7 +18837,7 @@ Earlier notes: [N-186](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002116 -->
 I shall teach an expression of wonder
-unheard of in other fields.
+unheard of in other realms.
 <!-- /pair -->
 
 <a id="dtg-002117"></a>
@@ -19527,7 +19527,7 @@ Earlier notes: [N-194](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002194"></a>
 
 <!-- pair: DTG-002194 -->
-At its center is the sign of A,
+At its center is the mark of A,
 and rays from the brow curl measure one armspan.
 
 Earlier notes: [N-194](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-194).
@@ -19598,7 +19598,7 @@ Earlier notes: [N-195](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002202"></a>
 
 <!-- pair: DTG-002202 -->
-Immeasurable buddha fields
+Immeasurable buddha realms
 and likewise embodiments appear to ordinary mind.
 
 Earlier notes: [N-195](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-195).
@@ -20164,7 +20164,7 @@ Earlier notes: [N-199](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 Through identity, knowing, and seeing liberation,
 through entering, seeing, and familiarity—
 from recognition, there is one's own identity;
-through trust, one reaches it;
+through conviction, one reaches it;
 through decision, one enters confidence.
 
 Earlier notes: [N-199](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-199).
@@ -20699,7 +20699,7 @@ Earlier notes: [N-204](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002328 -->
 The Lord of Gods supplicated:
-‘Kyema! Blessed One, lord without delusion,
+‘Ah! Blessed One, lord without delusion,
 by whom will the Array of View and Cultivation
 be held?
 <!-- /pair -->
@@ -21100,7 +21100,7 @@ Earlier notes: [N-209](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002378"></a>
 
 <!-- pair: DTG-002378 -->
-The outer is viewing bearers of properties:
+The outer is viewing bearers of phenomena:
 in the respective assertions of the eight stages,
 mental examination and grasping are maintained. [N-209](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-209)
 
@@ -21172,7 +21172,7 @@ Earlier notes: [N-210](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002386 -->
 The light and colors of letters,
-and the emanations' proliferating and gathering,
+and the emanations' projecting and gathering,
 are explained as deep absorption.
 
 Earlier notes: [N-210](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-210), [N-T106](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t106).
@@ -22047,7 +22047,7 @@ Earlier notes: [N-220](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002486"></a>
 
 <!-- pair: DTG-002486 -->
-Through applications of signs and skillful craft—
+Through applications of marks and skillful craft—
 through the distinct methods for body and ordinary mind,
 make the yogin's ordinary mind abide. [N-220](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-220)
 
@@ -22516,7 +22516,7 @@ Earlier notes: [N-225](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-002539 -->
 To the buddha arisen from the lotus,
 Joy-Maker supplicated thus:
-‘Kye kye! You who abide in the lotus's center,
+‘O, O! You who abide in the lotus's center,
 here in the mandala of space,
 sixty-four groups of a hundred thousand
 drops of light appear.
@@ -22605,7 +22605,7 @@ Earlier notes: [N-225](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002551"></a>
 
 <!-- pair: DTG-002551 -->
-‘Kye kye! Lord of Gods, listen.
+‘O, O! Lord of Gods, listen.
 <!-- /pair -->
 
 <a id="dtg-002552"></a>
@@ -22705,7 +22705,7 @@ Earlier notes: [N-228](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-002561"></a>
 
 <!-- pair: DTG-002561 -->
-By holding the teaching in which vital content is gathered,
+By holding the teaching in which quintessence is gathered,
 one liberates from cyclic existence for as long as ages exist,
 and complete buddhahood manifests. [N-228](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-228)
 
@@ -22725,7 +22725,7 @@ Earlier notes: [N-229](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002563 -->
 Embodiment is emptiness and clarity,
-an intrinsic nature without signs.
+an intrinsic nature without marks.
 
 Earlier notes: [N-229](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-229).
 <!-- /pair -->
@@ -22810,7 +22810,7 @@ Earlier notes: [N-229](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002573 -->
 Speech is naturally arisen and self-appearance,
-a wheel of the aspects of proliferating and gathering.
+a wheel of the aspects of projecting and gathering.
 
 Earlier notes: [N-229](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-229).
 <!-- /pair -->
@@ -22917,7 +22917,7 @@ Earlier notes: [N-230](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-002585 -->
 Embodiment's characteristics, essence,
 definitive wording, and divisions;
-the respective fields and beings to be trained;
+the respective realms and beings to be trained;
 the activities of differentiation and the measure of arising—
 through distinctions in characteristics and understanding:
 characteristics are established from phenomena,
@@ -22949,7 +22949,7 @@ Earlier notes: [N-230](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002588 -->
 Embodiment's manner of abiding has three aspects:
-because it is liberated from phenomena of signs,
+because it is liberated from phenomena of marks,
 it is not a form marked by divisions;
 because the intrinsic nature of clarity is complete,
 it appears but has no intrinsic nature;
@@ -23403,7 +23403,7 @@ Earlier notes: [N-235](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-002638 -->
 Having understood thus, through knowing and realization,
-[one trusts] that, as the root of all the scriptural collections,
+[one has conviction] that, as the root of all the scriptural collections,
 this king of tantras, Thal Gyur itself,
 this most secret, unsurpassed teaching,
 is indeed this. [N-235](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-235)
