@@ -24,10 +24,10 @@ this is not a new semantic review of inherited English.
 | [diplomatic/](diplomatic/README.md) | Released six-chapter golden edition: corrected Adzom reading, restorations, apparatus and explicit coverage limits |
 | [source/](source/README.md) | Only the selected Adzom root-tantra facsimile and its e-text |
 | [editions/](editions/README.md) | Acquired reference editions, image archives, e-texts, metadata, and unresolved acquisition leads |
-| [AGENTS.md](AGENTS.md) | Copied project instructions plus user-required remote preservation directives; revision recorded in GUIDANCE-PROVENANCE.json |
-| [guidelines/](guidelines/tibetan_translation_standard_v2.md) | The three original guideline files, unchanged |
-| [glossary/](glossary/expanded_tibetan_english_glossary.csv) | The original eight-column glossary, unchanged |
-| [GUIDANCE-PROVENANCE.json](GUIDANCE-PROVENANCE.json) | Source commit and checksums for the copied instructions, guidelines, and glossary |
+| [AGENTS.md](AGENTS.md) | Shared Phase D contract plus retained project-specific preservation and paired-edition instructions |
+| [guidelines/](guidelines/tibetan_translation_standard_v2.md) | Active combined standard 2.1.0; separate earlier component copies preserved |
+| [glossary/](glossary/expanded_tibetan_english_glossary.csv) | Active shared P2 glossary: 283 rows, eight columns |
+| [GUIDANCE-PROVENANCE.json](GUIDANCE-PROVENANCE.json) | Historical acquisition commit/checksums; current policy adoption is recorded in DECISIONS.md |
 
 **The whole root tantra bounded v1 is released.** Read [the fixed edition](diplomatic/root-tantra-v1/release/README.md), tagged `root-tantra-v1.0.0`. Exhaustive witness collation remains unfinished. Preservation and later work begin at [diplomatic/HANDOFF.md](diplomatic/HANDOFF.md) on `main`. It provides restart checks, an exact work queue and remote checkpoint instructions. The edition and all preserved recovery archives are together on this branch.
 
@@ -40,3 +40,7 @@ PDFs and ZIPs are stored through Git LFS. After cloning, run `git lfs pull`. Fro
 The [edition catalogue](editions/CATALOGUE.md) distinguishes actual files from catalogue-only records, partial scan sets, and unverified leads. Multiple manifestations or e-texts do not automatically constitute independent witnesses. Preserve each source's attribution and restrictions; this repository grants no additional redistribution rights.
 
 Full asset verification after materializing all required Git LFS files: `python3 diplomatic/tools/verify_recovered_assets.py` (requires pikepdf). It checks documented local guidance revisions and writes the current `diplomatic/ASSET-VALIDATION.json`; it does not overwrite historical reports. The original acquisition validator and asset bytes remain preserved.
+
+## Shared policy and review continuation
+
+[Current project status](PROJECT-STATUS.md) · [Translation/review handoff](translations/HANDOFF.md) · [P1/P2/P3 adoption and retained decisions](DECISIONS.md#policy-adoption-2026-10-05). The common policy is adopted for an assigned post-translation review; no English review or correction is performed by this update.
