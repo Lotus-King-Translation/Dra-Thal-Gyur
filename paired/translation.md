@@ -3865,7 +3865,7 @@ Earlier notes: [N-049](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000448"></a>
 
 <!-- pair: DTG-000448 -->
-Sentient beings born miraculously or from eggs,
+Karmic beings born miraculously or from eggs,
 from warmth or from wombs,
 will be brought to maturity.
 
@@ -3886,7 +3886,7 @@ Earlier notes: [N-049](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-000450 -->
 Its thirty-six deeds,
 in dependence on embodiment, speech, and awakened mind,
-will appear to the sentient beings who are to be trained.
+will appear to the karmic beings who are to be trained.
 
 Earlier notes: [N-049](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-049).
 <!-- /pair -->
@@ -3896,8 +3896,8 @@ Earlier notes: [N-049](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-000451 -->
 After I have passed beyond sorrow,
 in the western land of Uḍḍiyāna,
-to the divine lady of Dhanakośa,
-a fatherless son, Vajrahe, [N-049](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-049)
+a fatherless son of the divine lady of Dhanakośa,
+Vajrahe, [N-049](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-049)
 will uphold the sacred teaching.
 
 Earlier notes: [N-049](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-049).
@@ -4062,7 +4062,7 @@ Earlier notes: [N-050](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <!-- pair: DTG-000469 -->
 This secret heart-sphere of the teaching: [N-051](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-051) [N-T24](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t24)
 after the seven teachings have passed in this way,
-and after its definite course through two fields,
+and after its definite course through two realms,
 when the seven have thus passed, [N-051](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-051)
 on the summit of the Vajra Seat,
 the speech-token of all the teachings—[N-051](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-051)
@@ -4154,7 +4154,7 @@ Earlier notes: [N-052](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000478"></a>
 
 <!-- pair: DTG-000478 -->
-Through the sūtra teaching for eight ages,
+Through the teaching of the discourse collection for eight ages,
 he will establish [them] at the culmination of provisional and definitive activity. [N-052](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-052)
 
 Earlier notes: [N-052](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-052).
@@ -4207,7 +4207,7 @@ Earlier notes: [N-052](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000484"></a>
 
 <!-- pair: DTG-000484 -->
-Through the higher teaching for eight ages,
+Through the teaching of higher doctrine for eight ages,
 all will attain the result in one lifetime. [N-053](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-053)
 
 [^G-U01067]
@@ -4218,8 +4218,8 @@ Earlier notes: [N-052](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000485"></a>
 
 <!-- pair: DTG-000485 -->
-At that time samsara will be emptied from its depths:
-sentient beings will attain buddhahood;
+At that time cyclic existence will be emptied from its depths:
+karmic beings will attain buddhahood;
 there can be no appearance called the six destinies.
 
 Earlier notes: [N-052](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-052).
@@ -4229,7 +4229,7 @@ Earlier notes: [N-052](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000486 -->
 For twenty thousand ages,
-the flow of sentient beings' samsara having been cut off, [N-T17](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t17)
+the flow of karmic beings' cyclic existence having been cut off, [N-T17](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t17)
 embodied beings will not appear at all.
 
 Earlier notes: [N-052](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-052), [N-T17](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t17).
@@ -4239,7 +4239,7 @@ Earlier notes: [N-052](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000487 -->
 Then, through particular karmic differences,
-although sentient beings' afflictions are not manifest,
+although karmic beings' afflictions are not manifest,
 through the force of dormant tendencies rising up,
 the forms taken on will be extremely subtle.
 
@@ -4250,7 +4250,7 @@ Earlier notes: [N-052](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000488 -->
 From these exceedingly subtle, numerous [forms],
-the bodies of sentient beings endowed with form will develop. [N-052](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-052)
+the bodies of karmic beings endowed with form will develop. [N-052](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-052)
 
 Earlier notes: [N-052](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-052).
 <!-- /pair -->
@@ -4274,7 +4274,7 @@ Earlier notes: [N-052](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000491"></a>
 
 <!-- pair: DTG-000491 -->
-As for the body and branches of the continuum:
+As for the body and branches of the tantra:
 the arrays in its body number two hundred
 and exactly fifty. [N-054](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-054)
 
@@ -4292,6 +4292,8 @@ the arrays of the branches number one hundred and one. [N-054](../translations/2
 [^G-U01090]
 
 Earlier notes: [N-054](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-054).
+
+Review note: [Numerical construction provisional](../translations/2026-10-01-golden-aligned/REVIEW.md#pd-q05-01).
 <!-- /pair -->
 
 <a id="dtg-000493"></a>
@@ -4332,9 +4334,9 @@ Earlier notes: [N-054](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000497 -->
 The second body is closely taught:
-in the array gathering the crucial points,
+in the array gathering the key points,
 from twenty-eight questions,
-there are thirty-one arrays of ‘crucial-point times’ (gnad dus). [N-054](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-054)
+there are thirty-one arrays of ‘key-point times’ (gnad dus). [N-054](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-054)
 
 Earlier notes: [N-054](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-054).
 <!-- /pair -->
@@ -4450,7 +4452,7 @@ Earlier notes: [N-055](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 
 <!-- pair: DTG-000510 -->
 Through the particulars of shared karma,
-sentient beings, with karma as their support,
+karmic beings, with karma as their support,
 depend on the outer elements.
 
 Earlier notes: [N-055](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-055).
@@ -4530,7 +4532,7 @@ Earlier notes: [N-056](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000519"></a>
 
 <!-- pair: DTG-000519 -->
-Through smell, taking nourishment from vital essences is accomplished. [N-T16](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t16)
+Through smell, taking nourishment from quintessence is accomplished. [N-T16](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t16)
 
 Earlier notes: [N-056](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-056), [N-T16](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t16).
 <!-- /pair -->
@@ -4556,7 +4558,7 @@ Earlier notes: [N-056](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000522"></a>
 
 <!-- pair: DTG-000522 -->
-The nectar completes the benefit of other sentient beings
+The nectar completes the benefit of other karmic beings
 and also one's own benefit. [N-056](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-056)
 
 Earlier notes: [N-056](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-056).
@@ -4573,7 +4575,7 @@ Earlier notes: [N-056](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000524"></a>
 
 <!-- pair: DTG-000524 -->
-The times of sentient beings have eight aspects:
+The times of karmic beings have eight aspects:
 illness, wind, and heat;
 knowing, afflictions, awakening ordinary mind, [N-T25](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t25)
 primordial knowing itself, and the elements. [N-057](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-057)
@@ -4594,7 +4596,7 @@ Earlier notes: [N-057](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000526"></a>
 
 <!-- pair: DTG-000526 -->
-This is the time of sentient beings' wind-mind shifting.
+This is the time of karmic beings' wind-mind shifting.
 
 Earlier notes: [N-057](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-057).
 <!-- /pair -->
@@ -4663,7 +4665,7 @@ Earlier notes: [N-057](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000534"></a>
 
 <!-- pair: DTG-000534 -->
-This is the time of an individual sentient being.
+This is the time of an individual karmic being.
 
 Earlier notes: [N-057](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-057).
 <!-- /pair -->
@@ -4671,7 +4673,7 @@ Earlier notes: [N-057](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000535"></a>
 
 <!-- pair: DTG-000535 -->
-As for the times common to sentient beings:
+As for the times common to karmic beings:
 from the first, immeasurable [lifespan],
 to the final lifespan of ten years,
 sixty successive periods occur.
@@ -4704,7 +4706,7 @@ Earlier notes: [N-057](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000538"></a>
 
 <!-- pair: DTG-000538 -->
-Through eight stages in the times when habituation shifts,
+Through eight stages in the times when familiarization shifts,
 activity subsequently becomes worse.
 
 Earlier notes: [N-057](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-057).
@@ -5089,7 +5091,7 @@ its equalizing produces the result.
 
 <!-- pair: DTG-000579 -->
 Earth's penetration produces particles;
-its dispersal produces branches;
+its dispersal produces limbs;
 through its equalizing, the body's elements are complete.
 
 Earlier notes: [N-063](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-063), [N-T27](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-t27).
@@ -5229,7 +5231,7 @@ Earlier notes: [N-063](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md
 <a id="dtg-000594"></a>
 
 <!-- pair: DTG-000594 -->
-To cut the karmic continuum of samsara:
+If one wishes to cut the karmic continuum of cyclic existence,
 complete in freedom from doing, it is complete.
 
 Earlier notes: [N-064](../translations/2026-10-01-golden-aligned/LEGACY-NOTES.md#n-064).

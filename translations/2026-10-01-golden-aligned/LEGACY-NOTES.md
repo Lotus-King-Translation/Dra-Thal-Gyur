@@ -349,12 +349,16 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+**Phase D disposition, 2026-10-05 (continuation 03):** Approved P2 realm label; remaining constructions provisional. The realm label is adopted without approving heart-sphere, speech-token, Great Naturally Arisen as a name, or the definite-course construction. Seven/two and the embodiment/speech/awakened-mind sequence remain distinct. [Current review and scope](REVIEW.md#phase-d-notes-05).
+
 <a id="n-052"></a>
 ## N-052 — Scope / participants / dormant tendencies
 
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-052)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+**Phase D disposition, 2026-10-05 (continuation 03):** Approved P2 category labels in this sequence. Discipline already conforms and does not require an added collection. Discourse collection and higher doctrine retain the explicit teaching nouns and durations. The participants, perfection attachment and provisional/definitive activity construction remain unresolved; no efficacy or cosmological reconciliation is implied. [Current review and scope](REVIEW.md#phase-d-notes-05).
 
 <a id="n-053"></a>
 ## N-053 — Scan-based separation / numerical variant
@@ -369,6 +373,8 @@ Current golden-source updates: [G-U01067](ENDNOTES.md#g-u01067)
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-054)
 
 Current golden-source updates: [G-U01090](ENDNOTES.md#g-u01090), [G-U01094](ENDNOTES.md#g-u01094)
+
+**Phase D disposition, 2026-10-05 (continuation 03):** P1/P2 labels applied; counts and complete gnad dus construction provisional. The body/branches account is explicitly textual. Only gnad terminology is repaired inside the visibly provisional gnad dus wording. The brgya gcig main-count question is now precisely linked; the reported eleven remains a separate variant, and no count is changed to match a chapter inventory. [Current review and scope](REVIEW.md#phase-d-notes-05).
 
 <a id="n-055"></a>
 ## N-055 — Source reading / elemental causation / contextual use
@@ -390,6 +396,8 @@ Current golden-source updates: [G-U01144](ENDNOTES.md#g-u01144)
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-057)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+**Phase D disposition, 2026-10-05 (continuation 03):** Approved P2 process label; shifting construction provisional. Goms pa takes the process form familiarization here, not cultivation. The eight shifting stages, individual/collective times, physiological verbs and lifespan counts remain qualified; the label repair is not approval of their entire scheme. [Current review and scope](REVIEW.md#phase-d-notes-05).
 
 <a id="n-058"></a>
 ## N-058 — Cosmological numbers / arrangement / scope
@@ -432,6 +440,8 @@ Current golden-source updates: [G-U01265](ENDNOTES.md#g-u01265), [G-U01270](ENDN
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-063)
 
 Current golden-source updates: [G-A2000-C01-S01](ENDNOTES.md#g-a2000-c01-s01), [G-U01286](ENDNOTES.md#g-u01286)
+
+**Phase D disposition, 2026-10-05 (continuation 03):** Current source restoration recognized; specific bodily sense repaired; other constructions provisional. The three water verses are present at A2000-C01-S01. U01286 remains the qualified inherited omission query, not evidence of a current missing water triad. Retain all source annotations, twelve announced functions and repeated operations. The unnamed pair, entering another and ritual classifications remain unresolved; the bodily limbs repair is not a new universal yan lag assignment. [Current review and scope](REVIEW.md#phase-d-notes-05).
 
 <a id="n-064"></a>
 ## N-064 — Negations / view and activity / predicate attachment
@@ -1744,6 +1754,8 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 **Phase D disposition, 2026-10-05 (continuation 02):** P2 quintessence within the reviewed nourishment context; whole expression provisional. The old vital-essence label is superseded in this extraction/nourishment use only. The full instrumental construction remains provisional and does not settle gnas bcud yul at DTG-000227. [Current review and scope](REVIEW.md#phase-d-notes-02).
 
+**Phase D disposition, 2026-10-05 (continuation 03):** Approved P2 component in the same reviewed nourishment construction; complete construction provisional. Extend the earlier scoped quintessence disposition to this actual smell/nourishment occurrence. Do not turn the older whole-expression proposal into a shared assignment or settle the distinct gnas bcud yul question. [Current review and scope](REVIEW.md#phase-d-notes-05).
+
 <a id="n-t17"></a>
 ## N-T17 — terminology / usage record
 
@@ -1815,6 +1827,8 @@ Current golden-source updates: No new source-difference disposition attached; th
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
 
+**Phase D disposition, 2026-10-05 (continuation 03):** Unresolved whole-expression treatment; not an approved component-built default. The adjacent short/full forms are internally linked, but the bodily sequence does not settle aspiration, bodily substance or another technical referent. The old component-preservation rationale alone cannot establish this whole expression. Retain its exact-linked provisional treatment pending a decisive internal construction or authorized commentary; do not apply it to bodhisattva occurrences. [Current review and scope](REVIEW.md#phase-d-notes-05).
+
 <a id="n-t26"></a>
 ## N-T26 — terminology / usage record
 
@@ -1849,6 +1863,8 @@ Current golden-source updates: No new source-difference disposition attached; th
 [Read the original note, unchanged](../2026-09-26-full-draft/REVIEW-NOTES.md#n-t30)
 
 Current golden-source updates: No new source-difference disposition attached; the earlier note remains an inherited review item.
+
+**Phase D disposition, 2026-10-05 (continuation 03):** Locally supported physical construction under P1; no shared reassignment. Earth explicitly provides the bodily foundation. Retain foundation rather than impose technical Ground or replace it with basis merely for uniformity. This disposition does not yet cover U01339 or settle the other Ground-of-words and chapter-outline uses. [Current review and scope](REVIEW.md#phase-d-notes-05).
 
 <a id="n-t31"></a>
 ## N-T31 — terminology / usage record
